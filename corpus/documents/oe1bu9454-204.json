@@ -146,7 +146,72 @@
    "doc_line": 29
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heyne",
+   "kind": "person",
+   "surface_de": "Heyne",
+   "surface_en": "Heyne",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stösseln",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Balley",
+   "kind": "person",
+   "surface_de": "Balley",
+   "surface_en": "Balley",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -205,9 +270,61 @@
    "doc_line": 26
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "204\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nBy Your Serene Highness's letter to Mr R. R. Heyne — \"that you are willing to cede Koszęcin to Weigel or Stössel\" — my fine plan has very nearly come to nothing. Weigel was here with me this forenoon and said: yes, if the Prince means to cede Koszęcin to Stössel, then the matter may stay as it is; why should I put myself to trouble first — ready money I shall not get in any case — only I do not know whether what the Prince has paid in will be credited by Stössel, and whether any one of my other claims can be covered out of it. I was as though struck to pieces by lightning to hear this news. O God, I had need of every art of dissimulation to make myself appear indifferent. I have now brought Heyne into play, who promises to bring everything back into the track. May Heaven grant it. Let Your Serene Highness have but the one grace of telling me candidly what is actually to be done.\n\nIf you mean to give Koszęcin back to Stössel, then I must indeed fall silent, but you lose all the holdings and what you have laid out upon Koszęcin, and get air on no side. I beg for a gracious decision — and likewise that you show my letters to no one. You now have your son and good Balley there, to whom you may unburden your heart, but others — these seek to thwart my plans and to make what I say ridiculous. In deepest esteem I remain, until death,\n\nYour Serene Highness's\n\nWrocław, the 6th of September\n\n1810.\n\nhumble and obedient servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Heyne",
+     "en": "Heyne",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stösseln",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Balley",
+     "en": "Balley",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "204",
+    "6ten",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "204\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nBy Your Serene Highness's letter to Mr R. R. Heyne — \"that you are willing to cede Koszęcin to Weigel or Stössel\" — my fine plan has very nearly come to nothing. Weigel was here with me this forenoon and said: yes, if the Prince means to cede Koszęcin to Stössel, then the matter may stay as it is; why should I put myself to trouble first — ready money I shall not get in any case — only I do not know whether what the Prince has paid in will be credited by Stössel, and whether any one of my other claims can be covered out of it. I was as though struck to pieces by lightning to hear this news. O God, I had need of every art of dissimulation to make myself appear indifferent. I have now brought Heyne into play, who promises to bring everything back into the track. May Heaven grant it. Let Your Serene Highness have but the one grace of telling me candidly what is actually to be done.\n\nIf you mean to give Koszęcin back to Stössel, then I must indeed fall silent, but you lose all the holdings and what you have laid out upon Koszęcin, and get air on no side. I beg for a gracious decision — and likewise that you show my letters to no one. You now have your son and good Balley there, to whom you may unburden your heart, but others — these seek to thwart my plans and to make what I say ridiculous. In deepest esteem I remain, until death,\n\nYour Serene Highness's\n\nWrocław, the 6th of September\n\n1810.\n\nhumble and obedient servant\n\nv. Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld klagt, das Schreiben des Fürsten an Heyne, er wolle Koszęcin an Weigel oder Stössel abtreten, habe seinen Plan beinahe scheitern lassen. Weigel will die Sache dann ruhen lassen und fragt, ob Stössel die Einzahlungen des Fürsten anrechne. Heyne soll alles wieder ins Geleis bringen. Triebenfeld bittet um aufrichtigen Bescheid und warnt: Bei Rückgabe an Stössel verliere der Fürst alles auf Koszęcin Gegebene. Seine Briefe soll der Fürst niemandem zeigen.",
  "reading": {

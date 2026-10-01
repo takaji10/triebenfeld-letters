@@ -344,7 +344,160 @@
    "doc_line": 82
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wunster",
+   "kind": "person",
+   "surface_de": "Wunſter",
+   "surface_en": "Wunster",
+   "page": 2
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornsted",
+   "surface_en": "Bornstädt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bornstädt",
+   "kind": "person",
+   "surface_de": "Bornstedt",
+   "surface_en": "Bornstädt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczynern",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 3
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 3
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Meltzer",
+   "surface_en": "Melzer",
+   "page": 4
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Posen",
  "place_mentions": [
   {
@@ -414,9 +567,142 @@
    "doc_line": 79
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "139\n\nMost Serene Prince\n\nMost gracious Lord!\n\nMy foreboding, that all efforts here to undo the famous settlement would be in vain, is unhappily confirmed. The villains have hedged everything about with such clauses that, even at the greatest sacrifices, one may not hope to gain the least advantage. It is a piece of knavery without equal — the court rescript concerning the deposition was here — notwithstanding which the base settlement was concluded — Glenck submitted it on the 6th for approval and begged for the utmost expedition in executing the same and having it made out as an official copy for both parties. Your Most Serene Highness's letter was here on the 8th, in which you protested against the settlement.\n\nThis was quickly laid aside, and the accursed settlement was approved and dispatched with plaintiff's speed, and sent in to the court. What am I now to do? Complain against it, go to Berlin and make a noise — all that avails nothing; one only makes oneself ridiculous. Good men, of whom there are scarcely 2 here, pity Your Serene Highness, but the great crowd go to bed and sell off everyone who takes part in this affair. Oh, I could go mad.",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "139",
+    "6",
+    "8",
+    "2"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "The most contemptible thing now is that Glenck does not come — although he received my letters here, he would not wait, but has gone to Pszczew. I have sent express couriers and messengers after him — he does not come, nor does he answer a syllable. Here I [illegible] sit here in vain — God, it is dreadful what these people permit themselves. The maddest part is that not one of them will be to blame for this rascally business. Melzer rails that Wunster did not draw the settlement better, and damns Glenck to all eternity for not having concluded it sub spe rati — he says he had meant to make the settlement and to say / I have indeed no power of attorney, but I shall produce it afterwards / whereby one would have had room enough to manoeuvre, but this Glenck did not accept. Hence Glenck concluded it entirely alone, without his knowledge.\n\nHe cannot deny that, had the deposition been carried out, the outcome would have been very good for the Prince, since Broniewski himself had already declared that he would drown himself or shoot himself in the head, and leave his wife and children behind to the Prince.\n\nFor the rest, Melzer says Wunster concluded the settlement and set it all in train — in short, each of them shifts it onto the",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Wunſter",
+     "en": "Wunster",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "other — but as I see it, they are all equally to blame. Here I care to remain no longer; rather, if Glenck does not come, I shall set off towards evening for Pszczew, so as to neglect nothing there — for with Bornstädt there will be much noise; they have proceeded with these just as perversely as with the Trąbczyn people,\n\nthat is to say, they sued for eviction but neither had a liquidum fixed, still less applied for execution — everything here lies in darkness, and it will cost unspeakable trouble to get this quickly cleared up. From Pszczew I must come here once more, to dislodge Bornstädt and to see what caution Broniewski puts up.\n\nThis very moment Glenck has arrived — he knows neither what to say in his own excuse, still less what to propose for the redress of the matter. In short, the man feels nothing, though I could vex myself to death. He has begged Melzer to [uncertain: hush up] everything and to uphold the settlement — this I know for certain. Glenck also let slip that he had seen the court decree before he submitted the settlement for approval.",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Bornsted",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Bornstedt",
+     "en": "Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczynern",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "in. — But Melzer, he says, had said that — although it was not stated therein that the causas arresti were to be produced, it nevertheless went without saying that they would have to be produced afterwards; with that, however, he would never concern himself. One could go mad over this twaddle — for Melzer did after all admit that, had one been able to deposit even for only 6 days, Broniewski was lost, and would have taken whatever one gave him out of grace.\n\nIn short, it is enough to vex one to death, when one has long dealings with this base, rapacious rabble. To the question how long the liquidation suit would last, Melzer opines very cold-bloodedly 6 to 8 years. This is precisely the reason why the rascals have twisted the matter so, that they may keep Your Serene Highness always in their hands and empty your pockets. I remain, until death,\n\nYour Most Serene Highness's\n\nPoznań, the 22nd of July\n\n1804\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Meltzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "6",
+    "8",
+    "22",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "139\n\nMost Serene Prince\n\nMost gracious Lord!\n\nMy foreboding, that all efforts here to undo the famous settlement would be in vain, is unhappily confirmed. The villains have hedged everything about with such clauses that, even at the greatest sacrifices, one may not hope to gain the least advantage. It is a piece of knavery without equal — the court rescript concerning the deposition was here — notwithstanding which the base settlement was concluded — Glenck submitted it on the 6th for approval and begged for the utmost expedition in executing the same and having it made out as an official copy for both parties. Your Most Serene Highness's letter was here on the 8th, in which you protested against the settlement.\n\nThis was quickly laid aside, and the accursed settlement was approved and dispatched with plaintiff's speed, and sent in to the court. What am I now to do? Complain against it, go to Berlin and make a noise — all that avails nothing; one only makes oneself ridiculous. Good men, of whom there are scarcely 2 here, pity Your Serene Highness, but the great crowd go to bed and sell off everyone who takes part in this affair. Oh, I could go mad.\n\nThe most contemptible thing now is that Glenck does not come — although he received my letters here, he would not wait, but has gone to Pszczew. I have sent express couriers and messengers after him — he does not come, nor does he answer a syllable. Here I [illegible] sit here in vain — God, it is dreadful what these people permit themselves. The maddest part is that not one of them will be to blame for this rascally business. Melzer rails that Wunster did not draw the settlement better, and damns Glenck to all eternity for not having concluded it sub spe rati — he says he had meant to make the settlement and to say / I have indeed no power of attorney, but I shall produce it afterwards / whereby one would have had room enough to manoeuvre, but this Glenck did not accept. Hence Glenck concluded it entirely alone, without his knowledge.\n\nHe cannot deny that, had the deposition been carried out, the outcome would have been very good for the Prince, since Broniewski himself had already declared that he would drown himself or shoot himself in the head, and leave his wife and children behind to the Prince.\n\nFor the rest, Melzer says Wunster concluded the settlement and set it all in train — in short, each of them shifts it onto the\n\nother — but as I see it, they are all equally to blame. Here I care to remain no longer; rather, if Glenck does not come, I shall set off towards evening for Pszczew, so as to neglect nothing there — for with Bornstädt there will be much noise; they have proceeded with these just as perversely as with the Trąbczyn people,\n\nthat is to say, they sued for eviction but neither had a liquidum fixed, still less applied for execution — everything here lies in darkness, and it will cost unspeakable trouble to get this quickly cleared up. From Pszczew I must come here once more, to dislodge Bornstädt and to see what caution Broniewski puts up.\n\nThis very moment Glenck has arrived — he knows neither what to say in his own excuse, still less what to propose for the redress of the matter. In short, the man feels nothing, though I could vex myself to death. He has begged Melzer to [uncertain: hush up] everything and to uphold the settlement — this I know for certain. Glenck also let slip that he had seen the court decree before he submitted the settlement for approval.\n\nin. — But Melzer, he says, had said that — although it was not stated therein that the causas arresti were to be produced, it nevertheless went without saying that they would have to be produced afterwards; with that, however, he would never concern himself. One could go mad over this twaddle — for Melzer did after all admit that, had one been able to deposit even for only 6 days, Broniewski was lost, and would have taken whatever one gave him out of grace.\n\nIn short, it is enough to vex one to death, when one has long dealings with this base, rapacious rabble. To the question how long the liquidation suit would last, Melzer opines very cold-bloodedly 6 to 8 years. This is precisely the reason why the rascals have twisted the matter so, that they may keep Your Serene Highness always in their hands and empty your pockets. I remain, until death,\n\nYour Most Serene Highness's\n\nPoznań, the 22nd of July\n\n1804\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, der Vergleich mit Broniewski sei nicht mehr rückgängig zu machen. Glenck reichte ihn am 6. zur Approbation ein, der Protest des Fürsten traf am 8. ein, wurde aber beiseitegelegt. Keiner will schuld sein, einer schiebt es auf den anderen, Melzer gibt aber zu, eine Deposition hätte Broniewski besiegt. Gegen Bornstädt habe man wie gegen die Trąbczyner auf Exmission geklagt, ohne ein Liquidum festzusetzen. Triebenfeld will nach Pszczew. Melzer erwartet einen Liquidationsprozess von 6 bis 8 Jahren.",
  "reading": {

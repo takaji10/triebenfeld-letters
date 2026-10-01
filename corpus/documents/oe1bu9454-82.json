@@ -128,7 +128,64 @@
    "doc_line": 31
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Havelberg",
+   "kind": "place",
+   "surface_de": "Havelberg",
+   "surface_en": "Havelberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ew Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "C. F. G. Eysenhardt senior",
+   "kind": "person",
+   "surface_de": "C. F. G. Eysenhardt seni[or]",
+   "surface_en": "C. F. G. Eysenhardt senior",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ew Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -154,9 +211,66 @@
    "doc_line": 28
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "82\n\nMost Serene Prince\n\nMost gracious Prince and Lord, as the Minister von Voss is still at Havelberg, the cabinet letter issued to him by His Majesty the King in Your Serene Highness's matter has been forwarded thither; this cabinet letter could not ready [uncertain: bereit] already have been sent in to the Department here by the Minister. I have on that account made careful enquiry in the chancery through my friend, but up to this midday nothing has yet come in; it may however well be that His Excellency has for that reason refrained from sending it in, so as to bring it along with him himself, since the case [uncertain: falle] is coming back 14 days earlier than his leave actually ran out, and thus already arrives here next Thursday. Should the Royal cabinet letter to the Minister be worded as decidedly as Mr von Triebenfeld would lead [uncertain: verführen] me [to believe], then I am entirely convinced that everything will turn out as desired, on which account and [from] my favours [uncertain: Gunnen] here I have already received the most sacred assurance. At the same time I humbly report how Mr von Triebenfeld",
+   "names": [
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Havelberg",
+     "en": "Havelberg",
+     "kind": "place"
+    },
+    {
+     "de": "Ew Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "82",
+    "14"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "has required of me 300 Prussian Courant for Serene Highness's use and for Your Highness's account, which I have also at once paid out to him against his receipt. In which I otherwise, in deep [uncertain: tief der] devotion, remain, until death, Your Serene Highness's\n\nBerlin, the 13th of October\n\n1798\n\nhumble and obedient servant\n\nC. F. G. Eysenhardt senior",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "C. F. G. Eysenhardt seni[or]",
+     "en": "C. F. G. Eysenhardt senior",
+     "kind": "person"
+    },
+    {
+     "de": "Ew Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "300",
+    "13",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "82\n\nMost Serene Prince\n\nMost gracious Prince and Lord, as the Minister von Voss is still at Havelberg, the cabinet letter issued to him by His Majesty the King in Your Serene Highness's matter has been forwarded thither; this cabinet letter could not ready [uncertain: bereit] already have been sent in to the Department here by the Minister. I have on that account made careful enquiry in the chancery through my friend, but up to this midday nothing has yet come in; it may however well be that His Excellency has for that reason refrained from sending it in, so as to bring it along with him himself, since the case [uncertain: falle] is coming back 14 days earlier than his leave actually ran out, and thus already arrives here next Thursday. Should the Royal cabinet letter to the Minister be worded as decidedly as Mr von Triebenfeld would lead [uncertain: verführen] me [to believe], then I am entirely convinced that everything will turn out as desired, on which account and [from] my favours [uncertain: Gunnen] here I have already received the most sacred assurance. At the same time I humbly report how Mr von Triebenfeld\n\nhas required of me 300 Prussian Courant for Serene Highness's use and for Your Highness's account, which I have also at once paid out to him against his receipt. In which I otherwise, in deep [uncertain: tief der] devotion, remain, until death, Your Serene Highness's\n\nBerlin, the 13th of October\n\n1798\n\nhumble and obedient servant\n\nC. F. G. Eysenhardt senior",
  "summary_en": "",
  "summary_de": "Eysenhardt berichtet, dass das königliche Cabinets Schreiben in der Sache des Fürsten dem Minister v. Voss nach Havelberg nachgesandt wurde und in der Kanzeley noch nicht eingegangen ist. Voss kehre vorzeitig schon nächsten Donnerstag zurück und bringe es vielleicht selbst mit. Lautet es so entschieden, wie v. Triebenfeld sagt, rechnet Eysenhardt mit einem günstigen Ausgang. Außerdem hat er v. Triebenfeld für Rechnung des Fürsten 300 Pr Courant gegen Schein gezahlt.",
  "reading": {

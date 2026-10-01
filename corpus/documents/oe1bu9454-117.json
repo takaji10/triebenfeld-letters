@@ -320,7 +320,184 @@
    "doc_line": 66
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Grotowski",
+   "kind": "person",
+   "surface_de": "v. Grotowski",
+   "surface_en": "von Grotowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ebersbach, Court Councillor",
+   "kind": "person",
+   "surface_de": "Hoffrath Ebersbach",
+   "surface_en": "Ebersbach, Court Councillor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Captain von Müllern",
+   "kind": "person",
+   "surface_de": "Hauptman v Müllern",
+   "surface_en": "Captain von Müllern",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Morgenbeßer",
+   "kind": "person",
+   "surface_de": "Morgenbeßer",
+   "surface_en": "Morgenbeßer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nelson",
+   "kind": "person",
+   "surface_de": "Nelson",
+   "surface_en": "Nelson",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Toulon",
+   "kind": "place",
+   "surface_de": "Toulon",
+   "surface_en": "Toulon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brest fleet",
+   "kind": "place",
+   "surface_de": "Brester Flotte",
+   "surface_en": "Brest fleet",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "England's",
+   "kind": "place",
+   "surface_de": "Engelands",
+   "surface_en": "England's",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Siderung] Smith",
+   "kind": "person",
+   "surface_de": "Siderung Smith",
+   "surface_en": "[uncertain: Siderung] Smith",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Flushing",
+   "kind": "place",
+   "surface_de": "Vliesingen",
+   "surface_en": "Flushing",
+   "page": 2
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "M Stösseln",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 3
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "H Weigel",
+   "surface_en": "Weigel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr HochFürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -390,9 +567,152 @@
    "doc_line": 58
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "117\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMr Weigel, now that I have first of all furnished him with a guarantee, is zealously endeavouring to smooth the matter over entirely. But until the rights have been ceded (jura cessa) by von Grotowski, the Bank will not discount.\n\nI have therefore persuaded Mr Weigel to write at once to Mr von Grotowski and to give him the assurance that the 30/m rt as well as the interest are lying ready with him; but that, before the monies can be paid, Mr von Grotowski must execute the instrument of cession for the 30/m rt there with all speed before the court, whereupon the monies shall immediately be remitted to him. So as to fail in nothing here that may serve to bring the matter about most swiftly, I drove to Court Councillor Ebersbach and had him draft the instrument as von Grotowski must execute it, which Mr Weigel sends off in the accompanying letter to von Grotowski for prompt execution before the court.\n\nI hasten to convey this letter, enclosed, to Your Most Serene Highness [uncertain: derstest] by the orderly now departing. May Your Highness be pleased only to send it on at once to Mr von Grotowski by express, so that he may execute the instrument of cession, whereafter I shall immediately finalise the matter. The sudden death of the honest Captain von Müllern has deeply shaken me",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "v. Grotowski",
+     "en": "von Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Hoffrath Ebersbach",
+     "en": "Ebersbach, Court Councillor",
+     "kind": "person"
+    },
+    {
+     "de": "Hauptman v Müllern",
+     "en": "Captain von Müllern",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "117",
+    "30/m",
+    "30/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "He was truly a good man and a genuinely faithful adherent of Your Most Serene Highness.\n\nBut may Your Serene Highness be pleased to take this sudden death to heart — think, in these critical times, of Your own preservation, and do not press so hard upon Your health — such rapid marches make even the most iron-firm man falter — Morgenbeßer too died yesterday evening at 7 o'clock — Now, most gracious Prince and Lord, I appeal to Your heart. That, for the rest, the gallant Nelson caught the French as they meant to slip away from Toulon and unite with the Brest fleet, took 2 ships of the line of 74 guns together with many boats, and sank several more, Your Most Serene Highness will doubtless already know. In Vienna this news has caused a quite extraordinary sensation; the people cheered aloud, and it has everywhere been let to be marked all too plainly that the Court and the nation take England's part. That [uncertain: Siderung] Smith is burning Flushing and also the small fleet that was there is indeed reported from Vienna, though it is said therewith that the official notices on this are still wanting. With Bernhardi I have arranged everything according to Your Most Serene Highness's [uncertain: Willens Mann] — he wrote by yesterday's post to Mr Stössel and is from now on honestly endeavouring to lead the water onto the wheel, which sets the departments in motion, whereby the good cause will be quickly brought to its goal.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław\n\n29 Feb. 1804. most faithful and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Morgenbeßer",
+     "en": "Morgenbeßer",
+     "kind": "person"
+    },
+    {
+     "de": "Nelson",
+     "en": "Nelson",
+     "kind": "person"
+    },
+    {
+     "de": "Toulon",
+     "en": "Toulon",
+     "kind": "place"
+    },
+    {
+     "de": "Brester Flotte",
+     "en": "Brest fleet",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Engelands",
+     "en": "England's",
+     "kind": "place"
+    },
+    {
+     "de": "Siderung Smith",
+     "en": "[uncertain: Siderung] Smith",
+     "kind": "person"
+    },
+    {
+     "de": "Vliesingen",
+     "en": "Flushing",
+     "kind": "place"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "M Stösseln",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7",
+    "2",
+    "74",
+    "29. Febr. 1804"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "P.S. I have further prevailed upon Weigel — that he must press Grotowski that Grotowski send along at once a letter to his mandatary at Kalisz — in which he informs him that he is satisfied, and that he is immediately to report this to the Government and to tell it that there is now no further question of a forced sale. If Grotowski sends this letter along with the other, I shall dispatch it at once by express to Kalisz, so that before the 22nd of this month everything is smoothed over.\n\nIn order to convince Your Most Serene Highness that everything has been settled in the best way, Mr Weigel's letter follows under flying seal — may Your Highness be pleased to [uncertain: ziemachen] it and send it with all speed to Grotowski, so that he may quickly execute the cession and send the instrument here.\n\nUntil Weigel gave this letter and engaged himself therein that the monies were already lying ready with him, I did not hand over the money — only now do I let it be driven over to him",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "H Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr HochFürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "22ten"
+   ]
+  }
+ ],
+ "text_english": "117\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMr Weigel, now that I have first of all furnished him with a guarantee, is zealously endeavouring to smooth the matter over entirely. But until the rights have been ceded (jura cessa) by von Grotowski, the Bank will not discount.\n\nI have therefore persuaded Mr Weigel to write at once to Mr von Grotowski and to give him the assurance that the 30/m rt as well as the interest are lying ready with him; but that, before the monies can be paid, Mr von Grotowski must execute the instrument of cession for the 30/m rt there with all speed before the court, whereupon the monies shall immediately be remitted to him. So as to fail in nothing here that may serve to bring the matter about most swiftly, I drove to Court Councillor Ebersbach and had him draft the instrument as von Grotowski must execute it, which Mr Weigel sends off in the accompanying letter to von Grotowski for prompt execution before the court.\n\nI hasten to convey this letter, enclosed, to Your Most Serene Highness [uncertain: derstest] by the orderly now departing. May Your Highness be pleased only to send it on at once to Mr von Grotowski by express, so that he may execute the instrument of cession, whereafter I shall immediately finalise the matter. The sudden death of the honest Captain von Müllern has deeply shaken me\n\nHe was truly a good man and a genuinely faithful adherent of Your Most Serene Highness.\n\nBut may Your Serene Highness be pleased to take this sudden death to heart — think, in these critical times, of Your own preservation, and do not press so hard upon Your health — such rapid marches make even the most iron-firm man falter — Morgenbeßer too died yesterday evening at 7 o'clock — Now, most gracious Prince and Lord, I appeal to Your heart. That, for the rest, the gallant Nelson caught the French as they meant to slip away from Toulon and unite with the Brest fleet, took 2 ships of the line of 74 guns together with many boats, and sank several more, Your Most Serene Highness will doubtless already know. In Vienna this news has caused a quite extraordinary sensation; the people cheered aloud, and it has everywhere been let to be marked all too plainly that the Court and the nation take England's part. That [uncertain: Siderung] Smith is burning Flushing and also the small fleet that was there is indeed reported from Vienna, though it is said therewith that the official notices on this are still wanting. With Bernhardi I have arranged everything according to Your Most Serene Highness's [uncertain: Willens Mann] — he wrote by yesterday's post to Mr Stössel and is from now on honestly endeavouring to lead the water onto the wheel, which sets the departments in motion, whereby the good cause will be quickly brought to its goal.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław\n\n29 Feb. 1804. most faithful and obedient servant\n\nvon Triebenfeld\n\nP.S. I have further prevailed upon Weigel — that he must press Grotowski that Grotowski send along at once a letter to his mandatary at Kalisz — in which he informs him that he is satisfied, and that he is immediately to report this to the Government and to tell it that there is now no further question of a forced sale. If Grotowski sends this letter along with the other, I shall dispatch it at once by express to Kalisz, so that before the 22nd of this month everything is smoothed over.\n\nIn order to convince Your Most Serene Highness that everything has been settled in the best way, Mr Weigel's letter follows under flying seal — may Your Highness be pleased to [uncertain: ziemachen] it and send it with all speed to Grotowski, so that he may quickly execute the cession and send the instrument here.\n\nUntil Weigel gave this letter and engaged himself therein that the monies were already lying ready with him, I did not hand over the money — only now do I let it be driven over to him",
  "summary_en": "",
  "summary_de": "Triebenfeld betreibt die Ablösung der Forderung des v. Grotowski: Weigel sichert ihm gegen Garantie Triebenfelds 30/m Rthl samt Zinsen zu. Die Banque discontirt aber erst nach gerichtlicher Cession, deren Instrument Hoffrath Ebersbach entworfen hat. Der Fürst soll Weigels Brief per Expressen an Grotowski schicken. Grotowskis Mandatarius in Kalisz soll der Regierung melden, dass keine Subhastation mehr anstehe. Dazu: Tod des Hauptmanns v Müllern und Morgenbeßers, Nelsons Sieg, Jubel in Wien, Bernhardis Brief an Stössel.",
  "reading": {

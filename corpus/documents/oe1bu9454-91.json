@@ -98,7 +98,48 @@
    "doc_line": 29
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ew Hochfürstlichen Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "Sr. Majestät",
+   "surface_en": "His Majesty",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ew Hochfürstlichen Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -113,9 +154,54 @@
    "doc_line": 25
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "91\n\nMost Serene Prince.\n\nMost gracious Lord.\n\nTo Your Most Serene Highness I return my most humble thanks for the explanations which Your Highness has been pleased only to impart in the matter of the exchange of estates. It is withal an infinite joy to me that His Majesty has ordered the further investigation that was proposed, and I most humbly assure that in the further prosecution of this matter I shall observe my duties just as conscientiously as heretofore, and accordingly shall leave no expedients [uncertain: unbringt] which may be capable of reconciling the wishes of Your Most Serene Highness, the inclination of my Lord to meet them, and the interest of the state with",
+   "names": [
+    {
+     "de": "Ew Hochfürstlichen Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Sr. Majestät",
+     "en": "His Majesty",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "91"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "one another. To this assurance I add the protestation of the most unbounded reverence, wherewith I remain lifelong Your Most Serene Highness's Berlin\n\nthe 17th of December\n\n1798.\n\nmost humble and obedient servant Beyme",
+   "names": [
+    {
+     "de": "Ew Hochfürstlichen Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "91\n\nMost Serene Prince.\n\nMost gracious Lord.\n\nTo Your Most Serene Highness I return my most humble thanks for the explanations which Your Highness has been pleased only to impart in the matter of the exchange of estates. It is withal an infinite joy to me that His Majesty has ordered the further investigation that was proposed, and I most humbly assure that in the further prosecution of this matter I shall observe my duties just as conscientiously as heretofore, and accordingly shall leave no expedients [uncertain: unbringt] which may be capable of reconciling the wishes of Your Most Serene Highness, the inclination of my Lord to meet them, and the interest of the state with\n\none another. To this assurance I add the protestation of the most unbounded reverence, wherewith I remain lifelong Your Most Serene Highness's Berlin\n\nthe 17th of December\n\n1798.\n\nmost humble and obedient servant Beyme",
  "summary_en": "",
  "summary_de": "Beyme dankt dem Fürsten für die Aufschlüsse in der Güter-Vertauschungs-Angelegenheit. Er freut sich, dass der König eine weitere Untersuchung verfügt hat, und versichert, er werde seine Pflichten weiter gewissenhaft erfüllen. Dabei will er die Wünsche des Fürsten, die Bereitschaft seines Herrn, ihm entgegenzukommen, und das Interesse des Staates miteinander vereinigen.",
  "reading": {

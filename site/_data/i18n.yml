@@ -93,6 +93,7 @@ en:
   royal_rescript: Royal rescript
   memorandum: Memorandum
   note: Note
+  draft: Draft
   document: Document          # fallback where doc_type is unset
   part_of_letter: part of
   # How one document stands to another, shown as a link on the page.
@@ -137,6 +138,8 @@ en:
     This number is missing or skipped in the archive. No text survives under it.
   page_untranslated: This page has not been translated yet.
   sideways: Written sideways on the page
+  office_note: Written by the receiving office
+  by_paragraph: "Transcribed by paragraph, not line by line: each numbered entry is a paragraph of the manuscript."
   place: Place
   extent: Extent
   lines: lines
@@ -328,6 +331,7 @@ de:
   royal_rescript: Königliches Reskript
   memorandum: Denkschrift
   note: Notiz
+  draft: Konzept
   document: Dokument          # Rückfallwert, wenn doc_type fehlt
   part_of_letter: Teil von
   # Wie ein Dokument zu einem anderen steht, als Link auf der Seite.
@@ -373,6 +377,8 @@ de:
     Diese Nummer fehlt im Archiv oder wurde übersprungen. Darunter ist kein Text überliefert.
   page_untranslated: Diese Seite ist noch nicht übersetzt.
   sideways: Quer auf die Seite geschrieben
+  office_note: Vermerk der empfangenden Behörde
+  by_paragraph: "Absatzweise transkribiert, nicht Zeile für Zeile: jeder nummerierte Eintrag ist ein Absatz der Handschrift."
   place: Ort
   extent: Umfang
   lines: Zeilen

@@ -1,0 +1,294 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-1",
+ "pad": "iiihamdaiiinr12765-001",
+ "permalink": "/documents/iiihamdaiiinr12765/1/",
+ "doc_type": "letter",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1814-10-25",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1814-10-25",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1814,
+ "month": 10,
+ "day": 25,
+ "place": "Wien",
+ "sender": "von Triebenfeld",
+ "recipient": "Hardenberg",
+ "line_start": 9,
+ "line_end": 27,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "transmits",
+   "target": "3",
+   "note": "Triebenfeld encloses a copy of Hardenberg's resolution of 14 May 1814 ('lege ich in Abschrift hier bey'); document 3 is that copy."
+  }
+ ],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 17,
+ "n_pages": 1,
+ "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nWien den 25ten Octobr.\n1814.\ntreu gehorsamster Knecht\nv Triebenfeld\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
+ "text_reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht Wien den 25ten Octobr.\n\n1814.\n\ntreu gehorsamster Knecht\n\nv Triebenfeld\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0003_a2",
+   "line_start": 11,
+   "line_end": 27,
+   "n_lines": 17,
+   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nWien den 25ten Octobr.\n1814.\ntreu gehorsamster Knecht\nv Triebenfeld\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
+   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden-\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nWien den 25ten Octobr.\n1814.\ntreu gehorsamster Knecht\nv Triebenfeld\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
+   "reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht Wien den 25ten Octobr.\n\n1814.\n\ntreu gehorsamster Knecht\n\nv Triebenfeld\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster",
+   "paragraphs": [
+    "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht Wien den 25ten Octobr.",
+    "1814.",
+    "treu gehorsamster Knecht",
+    "v Triebenfeld",
+    "An des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "office_lines": [
+    14,
+    15,
+    16
+   ],
+   "office_paragraphs": [
+    4
+   ],
+   "doc_line_start": 1,
+   "doc_line_end": 17
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 14,
+   "doc_line": 4
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 24,
+   "doc_line": 14
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface": "Stägemann",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 25,
+   "doc_line": 15
+  },
+  {
+   "entity": "kuester",
+   "display": "Küster",
+   "kind": "person",
+   "surface": "Küster",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 27,
+   "doc_line": 17
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "kuester",
+   "display": "Küster",
+   "kind": "person",
+   "surface_de": "Küster",
+   "surface_en": "Küster",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "paris",
+   "display": "Paris",
+   "kind": "place",
+   "surface": "Paris",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 13,
+   "doc_line": 3
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 21,
+   "doc_line": 11
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 26,
+   "doc_line": 16
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's Vienna, the 25th of October\n\n1814.\n\nmost faithful and obedient servant\n\nv. Triebenfeld\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Küster",
+     "en": "Küster",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6ten",
+    "14ten",
+    "25ten",
+    "1814",
+    "20"
+   ]
+  }
+ ],
+ "text_english": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's Vienna, the 25th of October\n\n1814.\n\nmost faithful and obedient servant\n\nv. Triebenfeld\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster",
+ "summary_en": "Triebenfeld reminds Hardenberg that on 6 May in Paris he handed him a letter from the Prince of Hohenlohe to the Russian Emperor. He encloses a Copy of the resolution issued on it on 14 May and asks to be allowed to bring the matter, which is important to the Prince, back to mind at what is now the decisive moment. The chancery notes that the petition was handed over to Councillor of State Stägemann on 20 November 1814.",
+ "summary_de": "Triebenfeld erinnert Hardenberg daran, dass er ihm am 6. Mai in Paris ein Schreiben des Fürsten Hohenlohe an den russischen Kaiser übergeben hat. Er legt die darauf erteilte Resolution vom 14. Mai in Abschrift bei und bittet, die für den Fürsten wichtige Sache im jetzt entscheidenden Zeitpunkt wieder in Erinnerung bringen zu dürfen. Die Kanzlei vermerkt, das Gesuch sei am 20. November 1814 an Staatsrat Stägemann abgegeben worden.",
+ "reading": {
+  "letter": "1",
+  "legibility": "sound",
+  "notes": "Triebenfeld to the State Chancellor Hardenberg, Vienna, 25 Oct 1814. He reminds him that on 6 May in Paris he handed over a letter from Prince Hohenlohe to the Russian Emperor, encloses a copy of Hardenberg's answer of 14 May (document 3), and asks leave to bring the matter up again now that the moment is decisive. The chancery noted that the petition was handed to Staatsrath Stägemann on 20 Nov 1814 (Küster).",
+  "claims": [
+   {
+    "statement": "Triebenfeld übergab am 6. Mai 1814 in Paris ein Schreiben des Fürsten Hohenlohe an den russischen Kaiser",
+    "lines": [
+     3,
+     4
+    ]
+   },
+   {
+    "statement": "Er legt Hardenbergs Resolution vom 14. Mai in Abschrift bei und bittet, die Sache im jetzt entscheidenden Zeitpunkt wieder in Erinnerung bringen zu dürfen, und um Hilfe",
+    "lines": [
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Kanzleivermerk: am 20. November 1814 in Wien an Staatsrat Stägemann abgegeben, gezeichnet Küster",
+    "lines": [
+     15,
+     16,
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [],
+  "read_against": "9efaee0b554da611"
+ }
+}

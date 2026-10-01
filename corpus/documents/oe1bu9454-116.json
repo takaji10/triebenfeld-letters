@@ -130,7 +130,144 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Euer Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Walichnowski",
+   "kind": "person",
+   "surface_de": "Walichnowski",
+   "surface_en": "Walichnowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewer Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Walichnowski",
+   "kind": "person",
+   "surface_de": "Walichnowski",
+   "surface_en": "Walichnowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchl",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dombrowska[uncertain: Dąbska]",
+   "kind": "person",
+   "surface_de": "Dombrowska[Dąbska?]",
+   "surface_en": "Dombrowska[uncertain: Dąbska]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "most gracious Prince and Lord",
+   "kind": "person",
+   "surface_de": "gnädigster Fürst und Herr",
+   "surface_en": "most gracious Prince and Lord",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wünstere",
+   "kind": "other",
+   "surface_de": "Wünstere",
+   "surface_en": "Wünstere",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Walichnowski",
+   "kind": "person",
+   "surface_de": "Walichnowski",
+   "surface_en": "Walichnowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn estates",
+   "kind": "place",
+   "surface_de": "Trąbczyner Güter",
+   "surface_en": "Trąbczyn estates",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -167,9 +304,131 @@
    "doc_line": 52
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "116\n\nYour Most Serene Highness, I would gladly lay myself personally at [uncertain: your expense] and obtain your most high commands concerning the sale of the estates, but I am very ill and cannot come out of my room. The Poles continually choose me as their arbiter, only I do not always know what I am to say, because no [uncertain: lower] plan has been made, but the matter is presented now one way, now another. Thus it is said, for example, that 150000 rt of debts are secured upon Trąbczyn, which Walichnowski is to take over, and that notwithstanding this he is to take on 56000 rt and a canon of 5000 rt annually.\n\nWhat there is in the matter I cannot judge, but I hold it to be a misunderstood piece of gossip, and I only fear that Your Serene Highness's honour will suffer by it. For if debts are secured upon the estates, then it is not necessary that this be told to every Pole who wishes to take the",
+   "names": [
+    {
+     "de": "Euer Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Walichnowski",
+     "en": "Walichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Ewer Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "116",
+    "150000",
+    "56000",
+    "5000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "estates in hereditary lease. My unpresumptuous proposal is this: that Walichnowski be told that he must pay 60000 or 80000 rt of hereditary purchase money at once, and for all time 4 to 5000 rt annual hereditary quit-rent, and that Your Serene Highness would give orders as to whom he is to pay the rent, which would remain secured upon the first mortgage. This would then be a firm word from which there must on no account be any departure.\n\nI know the Poles thoroughly — if one shows a firm tone and resolution, and scorns their offers, especially all bribes, then one is at once at one's goal with this brood.\n\nI have proved this sufficiently in the case of Dombrowska[uncertain: Dąbska]. Forgive, most gracious Prince and Lord, my frank representation. It is, however, truly well meant. May Your Serene Highness also deign to take to",
+   "names": [
+    {
+     "de": "Walichnowski",
+     "en": "Walichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchl",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Dombrowska[Dąbska?]",
+     "en": "Dombrowska[uncertain: Dąbska]",
+     "kind": "person"
+    },
+    {
+     "de": "gnädigster Fürst und Herr",
+     "en": "most gracious Prince and Lord",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "60000",
+    "80000",
+    "4",
+    "5000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "heart this further request, and by no means let this note be seen by [uncertain: Wünstere] or by others — it would sooner do harm than good — men are often too covetous, so that, when an honest man meets them on this path, they [uncertain: slander] him and do him harm. Command me by two lines in secret as to how you wish it to be, and then reckon, most gracious Prince, upon my faithful zeal, which will yet be ten times greater and go more to my heart than my truly painful illness. Walichnowski has a genuinely real will to acquire the Trąbczyn estates.\n\nIn deepest submission I remain, until death, Your Most Serene Highness's\n\nWrocław, the 11th of December 1803\n\nmost faithful and most humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Wünstere",
+     "en": "Wünstere",
+     "kind": "other"
+    },
+    {
+     "de": "Walichnowski",
+     "en": "Walichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner Güter",
+     "en": "Trąbczyn estates",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "10",
+    "11",
+    "1803"
+   ]
+  }
+ ],
+ "text_english": "116\n\nYour Most Serene Highness, I would gladly lay myself personally at [uncertain: your expense] and obtain your most high commands concerning the sale of the estates, but I am very ill and cannot come out of my room. The Poles continually choose me as their arbiter, only I do not always know what I am to say, because no [uncertain: lower] plan has been made, but the matter is presented now one way, now another. Thus it is said, for example, that 150000 rt of debts are secured upon Trąbczyn, which Walichnowski is to take over, and that notwithstanding this he is to take on 56000 rt and a canon of 5000 rt annually.\n\nWhat there is in the matter I cannot judge, but I hold it to be a misunderstood piece of gossip, and I only fear that Your Serene Highness's honour will suffer by it. For if debts are secured upon the estates, then it is not necessary that this be told to every Pole who wishes to take the\n\nestates in hereditary lease. My unpresumptuous proposal is this: that Walichnowski be told that he must pay 60000 or 80000 rt of hereditary purchase money at once, and for all time 4 to 5000 rt annual hereditary quit-rent, and that Your Serene Highness would give orders as to whom he is to pay the rent, which would remain secured upon the first mortgage. This would then be a firm word from which there must on no account be any departure.\n\nI know the Poles thoroughly — if one shows a firm tone and resolution, and scorns their offers, especially all bribes, then one is at once at one's goal with this brood.\n\nI have proved this sufficiently in the case of Dombrowska[uncertain: Dąbska]. Forgive, most gracious Prince and Lord, my frank representation. It is, however, truly well meant. May Your Serene Highness also deign to take to\n\nheart this further request, and by no means let this note be seen by [uncertain: Wünstere] or by others — it would sooner do harm than good — men are often too covetous, so that, when an honest man meets them on this path, they [uncertain: slander] him and do him harm. Command me by two lines in secret as to how you wish it to be, and then reckon, most gracious Prince, upon my faithful zeal, which will yet be ten times greater and go more to my heart than my truly painful illness. Walichnowski has a genuinely real will to acquire the Trąbczyn estates.\n\nIn deepest submission I remain, until death, Your Most Serene Highness's\n\nWrocław, the 11th of December 1803\n\nmost faithful and most humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld kann krankheitshalber nicht persönlich Befehle zum Güterverkauf einholen. Er hält das Gerede, auf Trąbczyn hafteten 150000 Rthl Schulden, die Walichnowski übernehmen solle, und er solle dennoch 56000 Rthl und einen Canon von 5000 Rthl jährlich zahlen, für missverstanden und fürchtet um die Ehre des Fürsten. Er schlägt vor, von Walichnowski 60000 oder 80000 Rthl Erbkaufgeld und 4 bis 5000 Rthl jährlichen Erbzins fest zu fordern. Er bittet um Verschwiegenheit und geheime Weisung. Walichnowski wolle die Trąbczyner Güter ernsthaft erwerben.",
  "reading": {

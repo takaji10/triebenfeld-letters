@@ -1,0 +1,280 @@
+{
+ "letter_id": "7",
+ "seq_archival": 7,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-7",
+ "pad": "iiihamdaiiinr12765-007",
+ "permalink": "/documents/iiihamdaiiinr12765/7/",
+ "doc_type": "draft",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1815-05",
+ "date_precision": "month",
+ "date_source": "dateline",
+ "date_display": "1815-05",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1815,
+ "month": 5,
+ "day": "",
+ "place": "Wien",
+ "sender": "Hardenberg",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+ "line_start": 167,
+ "line_end": 177,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "fr",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "6",
+   "note": "Stein has passed on the letter the Prince wrote him on the 12th of last month; document 6 is that letter, with the direction for this reply written on it."
+  }
+ ],
+ "estates": [
+  "trabczyn",
+  "kamionno"
+ ],
+ "is_missing": 0,
+ "n_lines": 9,
+ "n_pages": 1,
+ "text": "Vienne le Mai 1815\nA.S.A.S Msgr. le Prince\nFrederic Louis de Hohenlohe\nà Slawenzitz\nL.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.\nMon Prince,\nJe connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.\nJe prie Votre Altesse S., d’agréer l’expression de ma haute considération.\nVienne le Mai 1815",
+ "text_reading": "Vienne le Mai 1815\n\nA.S.A.S Msgr. le Prince\n\nFrederic Louis de Hohenlohe\n\nà Slawenzitz\n\nL.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.\n\nMon Prince,\n\nJe connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.\n\nJe prie Votre Altesse S., d’agréer l’expression de ma haute considération.\n\nVienne le Mai 1815",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0010_a2",
+   "line_start": 169,
+   "line_end": 177,
+   "n_lines": 9,
+   "diplomatic": "Vienne le Mai 1815\nA.S.A.S Msgr. le Prince\nFrederic Louis de Hohenlohe\nà Slawenzitz\nL.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.\nMon Prince,\nJe connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.\nJe prie Votre Altesse S., d’agréer l’expression de ma haute considération.\nVienne le Mai 1815",
+   "transcription": "Vienne le Mai 1815\nA.S.A.S Msgr. le Prince\nFrederic Louis de Hohenlohe\nà Slawenzitz\nL.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.\nMon Prince,\nJe connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.\nJe prie Votre Altesse S., d’agréer l’expression de ma haute considération.\nVienne le Mai 1815",
+   "reading": "Vienne le Mai 1815\n\nA.S.A.S Msgr. le Prince\n\nFrederic Louis de Hohenlohe\n\nà Slawenzitz\n\nL.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.\n\nMon Prince,\n\nJe connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.\n\nJe prie Votre Altesse S., d’agréer l’expression de ma haute considération.\n\nVienne le Mai 1815",
+   "paragraphs": [
+    "Vienne le Mai 1815",
+    "A.S.A.S Msgr. le Prince",
+    "Frederic Louis de Hohenlohe",
+    "à Slawenzitz",
+    "L.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altesse lui a écrite le 12 du en[?]ire passé.",
+    "Mon Prince,",
+    "Je connois la reclamation qu’elle forme sur les terres de Kaemen et de Trąbczyn, pour les faire valoir, le réglement définitif des affaires de la Pologne. Ce moment ne parait pas, éloigné, et je vous prie mon Prince d’être persuadé que je ferai alors tout ce qui dépendra de moi pour appuyer votre demande auprès du Roi, dont les principes de justice doivent vous inspirer une entière confiance.",
+    "Je prie Votre Altesse S., d’agréer l’expression de ma haute considération.",
+    "Vienne le Mai 1815"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 9,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0010_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg",
+   "line": 171,
+   "doc_line": 3
+  },
+  {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface": "de Stein",
+   "page": 1,
+   "page_id": "0010_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg",
+   "line": 173,
+   "doc_line": 5
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Vienne",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig of Hohenlohe, Prince",
+   "kind": "person",
+   "surface_de": "Msgr. le Prince Frederic Louis de Hohenlohe",
+   "surface_en": "Friedrich Ludwig of Hohenlohe, Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Slawenzitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baron vom Stein",
+   "kind": "person",
+   "surface_de": "Mons. le Baron de Stein",
+   "surface_en": "Baron vom Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "la Pologne",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the King",
+   "kind": "person",
+   "surface_de": "le Roi",
+   "surface_en": "the King",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "0010_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg",
+   "line": 175,
+   "doc_line": 7
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0010_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg",
+   "line": 175,
+   "doc_line": 7
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Vienna, the    of May 1815\n\nTo His Serene Highness Monseigneur the Prince\n\nFriedrich Ludwig of Hohenlohe\n\nat Sławięcice\n\nHis Excellency Baron vom Stein has communicated to me the letter which Your Highness wrote to him on the 12th of [uncertain: en ire] last.\n\nMy Prince,\n\nI am acquainted with the claim which you advance upon the estates of Kamionna and Trąbczyn, in order to press them, the definitive settlement of the affairs of Poland. That moment does not appear to be distant, and I beg you, my Prince, to be assured that I shall then do everything that lies within my power to support your request with the King, whose principles of justice must inspire in you an entire confidence.\n\nI beg Your Serene Highness to accept the expression of my high consideration.\n\nVienna, the    of May 1815",
+   "names": [
+    {
+     "de": "Vienne",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Msgr. le Prince Frederic Louis de Hohenlohe",
+     "en": "Friedrich Ludwig of Hohenlohe, Prince",
+     "kind": "person"
+    },
+    {
+     "de": "Slawenzitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Mons. le Baron de Stein",
+     "en": "Baron vom Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "la Pologne",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "le Roi",
+     "en": "the King",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1815",
+    "12"
+   ]
+  }
+ ],
+ "text_english": "Vienna, the    of May 1815\n\nTo His Serene Highness Monseigneur the Prince\n\nFriedrich Ludwig of Hohenlohe\n\nat Sławięcice\n\nHis Excellency Baron vom Stein has communicated to me the letter which Your Highness wrote to him on the 12th of [uncertain: en ire] last.\n\nMy Prince,\n\nI am acquainted with the claim which you advance upon the estates of Kamionna and Trąbczyn, in order to press them, the definitive settlement of the affairs of Poland. That moment does not appear to be distant, and I beg you, my Prince, to be assured that I shall then do everything that lies within my power to support your request with the King, whose principles of justice must inspire in you an entire confidence.\n\nI beg Your Serene Highness to accept the expression of my high consideration.\n\nVienna, the    of May 1815",
+ "summary_en": "Draft of a French reply from Hardenberg to the Prince: he says Stein has passed on to him the Prince's letter of the 12th. The Prince should wait, with his claim to Kamionna and Trąbczyn, for the final settlement of Polish affairs, which he says does not seem far off. Hardenberg says he will then do everything he can to support the request with the King.",
+ "summary_de": "Entwurf einer französischen Antwort Hardenbergs an den Fürsten: Stein habe ihm dessen Schreiben vom 12. mitgeteilt. Der Fürst möge mit seiner Forderung auf Kamionna und Trąbczyn die endgültige Regelung der polnischen Angelegenheiten abwarten, die nicht fern scheine. Hardenberg werde dann alles tun, um das Gesuch beim König zu unterstützen.",
+ "reading": {
+  "letter": "7",
+  "legibility": "partly garbled",
+  "notes": "Draft in French of Hardenberg's reply to the Prince, Vienna, May 1815 (day left open; his paraph of 30 April). Stein has passed on the letter the Prince wrote him on the 12th. Hardenberg knows the claim on Kaemen and Trąbczyn, asks him to await the final settlement of Polish affairs, which seems near, and promises then to do everything he can to support the request with the King. Document 13 is the fair copy.",
+  "claims": [
+   {
+    "statement": "Stein habe ihm das Schreiben des Fürsten vom 12. mitgeteilt",
+    "lines": [
+     5
+    ]
+   },
+   {
+    "statement": "Der Fürst möge mit seiner Forderung auf Kaemen und Trąbczyn die endgültige Regelung der polnischen Angelegenheiten abwarten, die nicht fern scheine; Hardenberg werde dann alles tun, um das Gesuch beim König zu unterstützen",
+    "lines": [
+     7
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "en[?]ire",
+    "note": "a word struck out in the draft; the fair copy has 'du mois passé'. The editor could not tell"
+   },
+   {
+    "line": 7,
+    "word": "pour les faire valoir",
+    "note": "the draft as transcribed lacks 'mais je l'engage à attendre', which the fair copy has before these words"
+   }
+  ],
+  "read_against": "fa214a574bdb4041"
+ }
+}

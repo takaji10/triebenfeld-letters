@@ -97,7 +97,72 @@
    "doc_line": 21
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleisſenbergen",
+   "kind": "person",
+   "surface_de": "Gleisſenbergen",
+   "surface_en": "Gleisſenbergen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schneider",
+   "kind": "person",
+   "surface_de": "Schneider",
+   "surface_en": "Schneider",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kroctoczyner",
+   "kind": "place",
+   "surface_de": "Kroctoczyner",
+   "surface_en": "Kroctoczyner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Auditoriat",
+   "kind": "other",
+   "surface_de": "General Auditoriat",
+   "surface_en": "General Auditoriat",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -112,9 +177,61 @@
    "doc_line": 16
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "92\n\nMost Serene Prince, Most gracious Prince and Lord, The information which Your Most Serene Highness requested of me on the last post-day I have now obtained, in that the building councillor Glenck delivered to me on Thursday the receipts of the Gleisſenbergen and of Schneider, whereby I feel myself fully placed in a position to answer the General Auditoriat upon its dispositions communicated to Your Most Serene Highness. I do not doubt that the councillor of war von Triebenfeld will this day give Your Most Serene Highness news of the present situation of the Kroctoczyner tausp. matter, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin\n\nthe 18th of December\n\n1798.\n\nmost humbly, faithfully and obedi-\n\nently\n\nMichaelis",
+   "names": [
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Gleisſenbergen",
+     "en": "Gleisſenbergen",
+     "kind": "person"
+    },
+    {
+     "de": "Schneider",
+     "en": "Schneider",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kroctoczyner",
+     "en": "Kroctoczyner",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "General Auditoriat",
+     "en": "General Auditoriat",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "92",
+    "18",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "92\n\nMost Serene Prince, Most gracious Prince and Lord, The information which Your Most Serene Highness requested of me on the last post-day I have now obtained, in that the building councillor Glenck delivered to me on Thursday the receipts of the Gleisſenbergen and of Schneider, whereby I feel myself fully placed in a position to answer the General Auditoriat upon its dispositions communicated to Your Most Serene Highness. I do not doubt that the councillor of war von Triebenfeld will this day give Your Most Serene Highness news of the present situation of the Kroctoczyner tausp. matter, and in deepest reverence I remain, until death, Your Most Serene Highness's Berlin\n\nthe 18th of December\n\n1798.\n\nmost humbly, faithfully and obedi-\n\nently\n\nMichaelis",
  "summary_en": "",
  "summary_de": "Michaelis meldet, dass Baurath Glenck ihm die Quittungen der Gleisſenbergen und des Schneider übergeben hat. Damit kann er dem General Auditoriat auf dessen Verfügungen antworten, die dem Fürsten mitgeteilt worden waren. Er erwartet, dass Krieges Rath v. Triebenfeld dem Fürsten heute über den Stand einer weiteren Angelegenheit berichtet, deren Bezeichnung unsicher gelesen ist.",
  "reading": {

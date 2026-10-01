@@ -95,7 +95,40 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humbo[ldt]",
+   "surface_en": "Humbo[ldt]",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -110,9 +143,43 @@
    "doc_line": 14
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "250 (Enclosure to the letter of 17 November.) I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and through it have obtained knowledge of the memorial handed to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of it in the enclosure, and shall not fail to take an interest in its content so far as lies within my sphere of action. Receive for Right Honourable herewith the assurances of my most perfect esteem\n\nVienna, 5 November 1814.\n\nHumbo[ldt].\n\nTo the Sir\n\nMr von Triebenfeld",
+   "names": [
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Humbo[ldt]",
+     "en": "Humbo[ldt]",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "250",
+    "17",
+    "3",
+    "5",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "250 (Enclosure to the letter of 17 November.) I have had the honour of receiving Your Right Honourable's obliging letter of the 3rd of this month, and through it have obtained knowledge of the memorial handed to His Serene Highness the Prince von Hardenberg. I have the honour to return a copy of it in the enclosure, and shall not fail to take an interest in its content so far as lies within my sphere of action. Receive for Right Honourable herewith the assurances of my most perfect esteem\n\nVienna, 5 November 1814.\n\nHumbo[ldt].\n\nTo the Sir\n\nMr von Triebenfeld",
  "summary_en": "",
  "summary_de": "Humboldt bestätigt den Empfang von Triebenfelds Schreiben vom 3. des Monats, das ihn über das dem Fürsten v. Hardenberg übergebene Memorial unterrichtet hat. Er sendet die ihm überlassene Abschrift zurück und sagt zu, sich für dessen Inhalt einzusetzen, soweit es in seinem Wirkungskreis liegt. Das Schreiben liegt als Beilage dem Brief vom 17. November bei.",
  "reading": {

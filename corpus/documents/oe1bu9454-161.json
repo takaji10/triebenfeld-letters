@@ -119,7 +119,40 @@
    "doc_line": 34
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -134,9 +167,53 @@
    "doc_line": 32
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "161\n\nMost Serene Prince!\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter of the 3rd of this month arrived here at the very moment when the Councillor von Triebenfeld was about to depart. I was still able to lay it before him, and he was greatly delighted that\n\nYour Most Serene Highness had deigned to express gracious satisfaction with his endeavours. The payment of the assignation has, according to the report received, already been made to the [uncertain: ledighe Courtoir]. Everything will depend henceforth upon the review of the [uncertain: Lage] and upon its being expedited. The [uncertain: Principie] at the public authorities are moreover so [uncertain: Passagair] that everyone [illegible: ringt] the same and lets 4 weeks stand over. Three to four months ago [text corrupt: rum] the whole business [would have been] settled more shortly and with fewer scruples. Now it is otherwise.",
+   "names": [
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "161",
+    "3",
+    "4",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "What I can [uncertain: contribute] toward fulfilling Your Most Serene Highness's wishes is my sacred duty, and I am most thankful to the same for any gracious expressions. Mr von Triebenfeld will, I hope, not refuse me the testimony that I have not been [uncertain: wanting] in industry and diligence [illegible: destr.]. Since, however, this is a duty for me, I set a particular value upon it, although I equally wish that the faithful fulfilment thereof may preserve for me the gracious sentiments of Your Most Serene Highness.\n\nI remain, until death, with reverence\n\nYour Most Serene Highness's                    Berlin, 9 February 1805\n\nmost humble and obedient servant\n\nAmelang",
+   "names": [
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "9",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "161\n\nMost Serene Prince!\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter of the 3rd of this month arrived here at the very moment when the Councillor von Triebenfeld was about to depart. I was still able to lay it before him, and he was greatly delighted that\n\nYour Most Serene Highness had deigned to express gracious satisfaction with his endeavours. The payment of the assignation has, according to the report received, already been made to the [uncertain: ledighe Courtoir]. Everything will depend henceforth upon the review of the [uncertain: Lage] and upon its being expedited. The [uncertain: Principie] at the public authorities are moreover so [uncertain: Passagair] that everyone [illegible: ringt] the same and lets 4 weeks stand over. Three to four months ago [text corrupt: rum] the whole business [would have been] settled more shortly and with fewer scruples. Now it is otherwise.\n\nWhat I can [uncertain: contribute] toward fulfilling Your Most Serene Highness's wishes is my sacred duty, and I am most thankful to the same for any gracious expressions. Mr von Triebenfeld will, I hope, not refuse me the testimony that I have not been [uncertain: wanting] in industry and diligence [illegible: destr.]. Since, however, this is a duty for me, I set a particular value upon it, although I equally wish that the faithful fulfilment thereof may preserve for me the gracious sentiments of Your Most Serene Highness.\n\nI remain, until death, with reverence\n\nYour Most Serene Highness's                    Berlin, 9 February 1805\n\nmost humble and obedient servant\n\nAmelang",
  "summary_en": "",
  "summary_de": "Amelang meldet, dass das fürstliche Schreiben vom 3. eintraf, als v. Triebenfeld gerade abreisen wollte. Er konnte es ihm noch vorlegen, und Triebenfeld freute sich über die Zufriedenheit des Fürsten. Die Zahlung der Assignation ist erfolgt. Alles hängt nun von der Revision und ihrer Beschleunigung ab. Vor 3 bis 4 Monaten wäre das Geschäft schneller erledigt worden. Amelang versichert seinen Eifer. Teilweise schwer lesbar.",
  "reading": {

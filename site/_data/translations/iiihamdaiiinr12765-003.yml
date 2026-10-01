@@ -1,0 +1,61 @@
+status: draft
+segments:
+- page: 1
+  en: 'Copy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna,
+    bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable
+    of being brought forward with any presumptive prospect of success once definitive determinations have
+    been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have
+    therefore also thought it best to hold back, until that point in time arrives, the Prince''s letter
+    to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication
+    of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.
+
+
+    Hardenberg
+
+
+    To
+
+
+    the Royal Councillor of War
+
+
+    Mr von Triebenfeld
+
+
+    Your Honour
+
+
+    here.'
+  names:
+  - de: Herrn Fürsten von Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Kaemen
+    en: Kamionna
+    kind: place
+  - de: Sudpreußischen
+    en: South Prussian
+    kind: place
+  - de: Warschauer
+    en: Warsaw
+    kind: place
+  - de: Kaysers Allexander
+    en: the Emperor Alexander
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Herrn von Triebenfeld
+    en: Mr von Triebenfeld
+    kind: person
+  numbers:
+  - '1796'
+  - '6'
+  - '14'
+  - '1814'

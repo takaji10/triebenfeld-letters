@@ -88,7 +88,64 @@
    "doc_line": 20
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussian estates",
+   "kind": "place",
+   "surface_de": "S. P. Güter",
+   "surface_en": "South Prussian estates",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -136,9 +193,65 @@
    "doc_line": 18
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "148\n\nP[ro]. M[emoria].\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the South Prussian estates, Swięcia stands at 1800 rthl in annual interest and 10000 rt capital. Upon the appraisers' revision concluded today, Swięcia yields only 918 rt interest yearly — the error is [uncertain: zu künfig] and the fine estate has, by Heaven, been squandered away. It has 3792 Morgen and ought to have fetched just as many thousand rt. [uncertain: Mannen]. It has, however, been given away for 10000 rt capital and 918 rt interest, and consequently for 28360 rt, whereby a manifest loss of 47340 rt accrues to Your Serene Highness.\n\nIf to this the Oleśnica loss of 48000 rt be reckoned against the present sale, then Your Serene Highness loses on these two estates a net 95340 rthl — and just such a shortfall now arises with the assessment. Trąbczyn\n\nthe 2nd of December 1804.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "S. P. Güter",
+     "en": "South Prussian estates",
+     "kind": "place"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "148",
+    "1800",
+    "10000",
+    "918",
+    "3792",
+    "10000",
+    "918",
+    "28360",
+    "47340",
+    "48000",
+    "95340",
+    "2"
+   ]
+  }
+ ],
+ "text_english": "148\n\nP[ro]. M[emoria].\n\nIn the table which Glenck has just given Your Most Serene Highness of all the revenues of the South Prussian estates, Swięcia stands at 1800 rthl in annual interest and 10000 rt capital. Upon the appraisers' revision concluded today, Swięcia yields only 918 rt interest yearly — the error is [uncertain: zu künfig] and the fine estate has, by Heaven, been squandered away. It has 3792 Morgen and ought to have fetched just as many thousand rt. [uncertain: Mannen]. It has, however, been given away for 10000 rt capital and 918 rt interest, and consequently for 28360 rt, whereby a manifest loss of 47340 rt accrues to Your Serene Highness.\n\nIf to this the Oleśnica loss of 48000 rt be reckoned against the present sale, then Your Serene Highness loses on these two estates a net 95340 rthl — and just such a shortfall now arises with the assessment. Trąbczyn\n\nthe 2nd of December 1804.\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld rechnet vor, dass das Gut Swięcia verschleudert worden sei. Glencks Tableau wies 1800 Rthl jährliche Zinsen und 10000 Rthl Capital aus. Die heute beendete Revision der Taxatoren ergibt dagegen nur 918 Rthl Zinsen. Das Gut mit 3792 Morgen sei für 28360 Rthl weggegeben worden, was einen Verlust von 47340 Rthl bedeute. Zusammen mit dem Olesnicer Verlust von 48000 Rthl verliere der Fürst an beiden Gütern netto 95340 Rthl. Ein ebensolcher Ausfall entstehe jetzt bei der Taxe.",
  "reading": {

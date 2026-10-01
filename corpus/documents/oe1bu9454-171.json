@@ -96,7 +96,112 @@
    "doc_line": 21
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Krieges und Forst Rath",
+   "surface_en": "Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Serene Highness",
+   "kind": "person",
+   "surface_de": "Sr Durchlaucht",
+   "surface_en": "His Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Order of St Andrew",
+   "kind": "other",
+   "surface_de": "Andreas Orden",
+   "surface_en": "Order of St Andrew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "person",
+   "surface_de": "Kaysers",
+   "surface_en": "Emperor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince",
+   "kind": "person",
+   "surface_de": "Fürst",
+   "surface_en": "Prince",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "person",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "His Serene Highness",
+   "kind": "person",
+   "surface_de": "Sr. Durchlaucht",
+   "surface_en": "His Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe regiment",
+   "kind": "other",
+   "surface_de": "Regiment Hohenlohe",
+   "surface_en": "Hohenlohe regiment",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Duke of Weimar",
+   "kind": "person",
+   "surface_de": "Herzog von Weimar",
+   "surface_en": "Duke of Weimar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Weimar",
+   "kind": "place",
+   "surface_de": "Weimar",
+   "surface_en": "Weimar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Erfurt",
+   "kind": "place",
+   "surface_de": "Erfurt",
+   "surface_en": "Erfurt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A. Hahn",
+   "kind": "person",
+   "surface_de": "A. Hahn",
+   "surface_en": "A. Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Erfurt",
  "place_mentions": [
   {
@@ -122,9 +227,94 @@
    "doc_line": 30
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "171\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that Your Right Honourable takes an interest in news of my most gracious Lord, I take the liberty of conveying to you the assurance that His Serene Highness is almost entirely healed of the Bible in his foot, and is in other respects perfectly well; the foot is only a little swollen still, and causes no pain. His Serene Highness wishes to be most kindly commended to you. The Order of St Andrew has given pleasure, yet the courteous conduct of His Majesty the Emperor has given rise to still greater satisfaction.",
+   "names": [
+    {
+     "de": "Krieges und Forst Rath",
+     "en": "Councillor of War and Forests",
+     "kind": "other"
+    },
+    {
+     "de": "Sr Durchlaucht",
+     "en": "His Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Andreas Orden",
+     "en": "Order of St Andrew",
+     "kind": "other"
+    },
+    {
+     "de": "Kaysers",
+     "en": "Emperor",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "171"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "The Prince is quite enchanted by this young and courteous monarch. In Wrocław too the Emperor is said to have spoken of His Serene Highness in the most flattering terms.\n\nToday the Hohenlohe regiment marched through here; the Prince had ridden out to meet it. Tomorrow the Duke of Weimar is expected here. I commend myself to Your Right Honourable's favour, and have the honour to remain in the most boundless esteem,\n\nYour Right Honourable's\n\nErfurt, 24 November\n\n1805\n\nhumble and obedient servant\n\nA. Hahn",
+   "names": [
+    {
+     "de": "Fürst",
+     "en": "Prince",
+     "kind": "person"
+    },
+    {
+     "de": "breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "Sr. Durchlaucht",
+     "en": "His Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Regiment Hohenlohe",
+     "en": "Hohenlohe regiment",
+     "kind": "other"
+    },
+    {
+     "de": "Herzog von Weimar",
+     "en": "Duke of Weimar",
+     "kind": "person"
+    },
+    {
+     "de": "Weimar",
+     "en": "Weimar",
+     "kind": "place"
+    },
+    {
+     "de": "Erfurt",
+     "en": "Erfurt",
+     "kind": "place"
+    },
+    {
+     "de": "A. Hahn",
+     "en": "A. Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "171\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that Your Right Honourable takes an interest in news of my most gracious Lord, I take the liberty of conveying to you the assurance that His Serene Highness is almost entirely healed of the Bible in his foot, and is in other respects perfectly well; the foot is only a little swollen still, and causes no pain. His Serene Highness wishes to be most kindly commended to you. The Order of St Andrew has given pleasure, yet the courteous conduct of His Majesty the Emperor has given rise to still greater satisfaction.\n\nThe Prince is quite enchanted by this young and courteous monarch. In Wrocław too the Emperor is said to have spoken of His Serene Highness in the most flattering terms.\n\nToday the Hohenlohe regiment marched through here; the Prince had ridden out to meet it. Tomorrow the Duke of Weimar is expected here. I commend myself to Your Right Honourable's favour, and have the honour to remain in the most boundless esteem,\n\nYour Right Honourable's\n\nErfurt, 24 November\n\n1805\n\nhumble and obedient servant\n\nA. Hahn",
  "summary_en": "",
  "summary_de": "Hahn berichtet, dass der Fürst am Fuß fast geheilt und sonst wohlauf sei. Der Fuß sei nur noch wenig geschwollen und schmerze nicht. Der Andreas Orden habe Freude bereitet, mehr noch das artige Benehmen des Kaysers, von dem der Fürst bezaubert sei. Auch in Wrocław soll der Kayser schmeichelhaft vom Fürsten gesprochen haben. Das Regiment Hohenlohe sei durch Erfurt marschiert, der Fürst ritt ihm entgegen. Der Herzog von Weimar werde erwartet.",
  "reading": {

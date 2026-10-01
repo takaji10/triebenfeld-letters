@@ -107,7 +107,64 @@
    "doc_line": 22
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Councillor of War",
+   "kind": "other",
+   "surface_de": "Krieges Rath",
+   "surface_en": "Councillor of War",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Serene Highness",
+   "kind": "other",
+   "surface_de": "Sr. Durchlaucht",
+   "surface_en": "Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "of Schlabrendorff",
+   "kind": "person",
+   "surface_de": "v. Schlabrendorff",
+   "surface_en": "of Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "L. Asch",
+   "kind": "person",
+   "surface_de": "L. Asch",
+   "surface_en": "L. Asch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frig[?]",
+   "kind": "person",
+   "surface_de": "Frig[?]",
+   "surface_en": "Frig[?]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jaunke",
+   "kind": "other",
+   "surface_de": "Jaunke[?]",
+   "surface_en": "Jaunke",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -122,9 +179,64 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "114\n\nRight Honourable Sir, Most gracious Lord Councillor of War! is indeed a thoroughgoing scoundrel! — He has made Serene Highness a great deal of difficulty in order now to reach the desired goal, and now that he [uncertain: sees] that nothing more is to be squeezed out, now he wants to conclude the whole business. — Would heaven but grant for once a favourable moment such as the present one is, the fellows should get the [uncertain: snow distress], which would now be [illegible], so presses. But were it now soon settled, so that Your Right Honourable should not be aggrieved any longer, and then came into the [uncertain: Jusend], also on account of the [uncertain: greeting] of Schlabrendorff, to tighten the strings in the manner which Your Right Honourable has often had the grace to express.\n\nWith my affair, matters do not stand well, but neither do they stand badly. — The L. Asch, he, wants to [uncertain: zullen],",
+   "names": [
+    {
+     "de": "Krieges Rath",
+     "en": "Councillor of War",
+     "kind": "other"
+    },
+    {
+     "de": "Sr. Durchlaucht",
+     "en": "Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "v. Schlabrendorff",
+     "en": "of Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "L. Asch",
+     "en": "L. Asch",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "114"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "but that shall not succeed for him, and therefore I have given notice [uncertain: in bring], where I still today await the [uncertain: request] back, together with the declaration.\n\nwithin a few days it must be [uncertain: alleinl.] done, — upon that Your Right Honourable may certainly rely, and likewise the matter that you [are] in a great bill of exchange, and the [uncertain: Jaunke] soon got back; the [uncertain: Schöpfe] fetched away again on Tuesday, at the latest Wednesday; — until then I most humbly beg that they still be left [uncertain: stattend]. With my health it grows better by the hour, — tomorrow I go [uncertain: uns]. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to subscribe myself, most respectfully, as Your Right Honourable's\n\nBerlin\n\nthe 2nd of May 1802.\n\nhumble and obedient servant\n\nFrig[?]",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frig[?]",
+     "en": "Frig[?]",
+     "kind": "person"
+    },
+    {
+     "de": "Jaunke[?]",
+     "en": "Jaunke",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2ten",
+    "1802"
+   ]
+  }
+ ],
+ "text_english": "114\n\nRight Honourable Sir, Most gracious Lord Councillor of War! is indeed a thoroughgoing scoundrel! — He has made Serene Highness a great deal of difficulty in order now to reach the desired goal, and now that he [uncertain: sees] that nothing more is to be squeezed out, now he wants to conclude the whole business. — Would heaven but grant for once a favourable moment such as the present one is, the fellows should get the [uncertain: snow distress], which would now be [illegible], so presses. But were it now soon settled, so that Your Right Honourable should not be aggrieved any longer, and then came into the [uncertain: Jusend], also on account of the [uncertain: greeting] of Schlabrendorff, to tighten the strings in the manner which Your Right Honourable has often had the grace to express.\n\nWith my affair, matters do not stand well, but neither do they stand badly. — The L. Asch, he, wants to [uncertain: zullen],\n\nbut that shall not succeed for him, and therefore I have given notice [uncertain: in bring], where I still today await the [uncertain: request] back, together with the declaration.\n\nwithin a few days it must be [uncertain: alleinl.] done, — upon that Your Right Honourable may certainly rely, and likewise the matter that you [are] in a great bill of exchange, and the [uncertain: Jaunke] soon got back; the [uncertain: Schöpfe] fetched away again on Tuesday, at the latest Wednesday; — until then I most humbly beg that they still be left [uncertain: stattend]. With my health it grows better by the hour, — tomorrow I go [uncertain: uns]. For the gracious sympathy I give most humble thanks; I commend myself to your continuing grace, and have the honour to subscribe myself, most respectfully, as Your Right Honourable's\n\nBerlin\n\nthe 2nd of May 1802.\n\nhumble and obedient servant\n\nFrig[?]",
  "summary_en": "",
  "summary_de": "Großenteils unleserlich. Erkennbar ist: Der Schreiber nennt einen Ungenannten einen abgefeimten Buben, der Sr. Durchlaucht viele Schwierigkeiten gemacht habe und nun, da nichts mehr zu erpressen sei, das Ganze schließen wolle. Er hofft auf baldigen Abschluss, damit Triebenfeld nicht länger gekränkt werde. In seiner eigenen Sache wolle jemand etwas, was ihm nicht gelingen solle. Abgeholt werde am Dienstag, spätestens am Mittwoch. Seine Gesundheit bessere sich.",
  "reading": {

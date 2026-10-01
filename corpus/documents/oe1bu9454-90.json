@@ -97,7 +97,64 @@
    "doc_line": 26
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürstin Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface_de": "Ingelfingen",
+   "surface_en": "Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -134,9 +191,57 @@
    "doc_line": 24
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "90\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nNow the matter is at stake — now the fight is great — I hope to God that we shall win — But I have come to know men — What Your Most Serene Highness says in a most [uncertain: a most Your] letter to Glenck — that if the certain person does not now act indirectly, then he will be the one to have the joy of it, should the matter be counteracted. It may well be so; only, as I have said, God will help — It is truly dreadful how things go here.\n\nThe Monarch is good — only the Mini— o God, the poor country! — But it will grow better. Only now one must take care — or — it is all over. The 7,000 rt which the Princess Sacken will by no means [uncertain: through none-wise] put up, I would negotiate in my own name, and pledge all my goods, so that so good a cause should not be seen to slip away — I remain, until death, Your Most Serene Highness's. I give everything, [uncertain: because/if] it be required, and if I have nothing more, the good Your Serene mine bread in Ingelfingen, — O what villains there are here — and in Wrocław. Berlin, the 14th of December 1798.\n\nfaithful and most humble bondsman\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Fürstin Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Ingelfingen",
+     "en": "Ingelfingen",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "90",
+    "7000",
+    "14ten",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "90\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nNow the matter is at stake — now the fight is great — I hope to God that we shall win — But I have come to know men — What Your Most Serene Highness says in a most [uncertain: a most Your] letter to Glenck — that if the certain person does not now act indirectly, then he will be the one to have the joy of it, should the matter be counteracted. It may well be so; only, as I have said, God will help — It is truly dreadful how things go here.\n\nThe Monarch is good — only the Mini— o God, the poor country! — But it will grow better. Only now one must take care — or — it is all over. The 7,000 rt which the Princess Sacken will by no means [uncertain: through none-wise] put up, I would negotiate in my own name, and pledge all my goods, so that so good a cause should not be seen to slip away — I remain, until death, Your Most Serene Highness's. I give everything, [uncertain: because/if] it be required, and if I have nothing more, the good Your Serene mine bread in Ingelfingen, — O what villains there are here — and in Wrocław. Berlin, the 14th of December 1798.\n\nfaithful and most humble bondsman\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, der Kampf um „die Sache“ sei jetzt groß, und hofft auf Erfolg. Er klagt über die Zustände in Berlin und über die Bösewichter dort: Der Monarch sei gut, nicht aber die Minister. Die 7000 Rthl, die die Fürstin Sacken keinesfalls vorschießen will, würde er auf seinen eigenen Namen negociren und dafür seine ganze Habe verpfänden, damit die Sache nicht verloren geht. Mehrere Stellen sind unklar.",
  "reading": {

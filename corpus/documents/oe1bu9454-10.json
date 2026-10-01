@@ -157,7 +157,288 @@
    "doc_line": 53
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Mann",
+   "kind": "person",
+   "surface_de": "Mann",
+   "surface_en": "Mann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Teichelmann",
+   "kind": "person",
+   "surface_de": "Teichelmann",
+   "surface_en": "Teichelmann",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ulm",
+   "kind": "place",
+   "surface_de": "Ulm",
+   "surface_en": "Ulm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt",
+   "kind": "place",
+   "surface_de": "Frankfurth",
+   "surface_en": "Frankfurt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rhine",
+   "kind": "place",
+   "surface_de": "Rhein",
+   "surface_en": "Rhine",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hessians",
+   "kind": "other",
+   "surface_de": "Hessen",
+   "surface_en": "Hessians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hanoverians",
+   "kind": "other",
+   "surface_de": "Hannoveraner",
+   "surface_en": "Hanoverians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dutch",
+   "kind": "other",
+   "surface_de": "Holländer",
+   "surface_en": "Dutch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Switzerland",
+   "kind": "place",
+   "surface_de": "Schweiz",
+   "surface_en": "Switzerland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russians",
+   "kind": "other",
+   "surface_de": "Ruſten",
+   "surface_en": "Russians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swiss",
+   "kind": "other",
+   "surface_de": "Schweizer",
+   "surface_en": "Swiss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "peasants",
+   "kind": "other",
+   "surface_de": "Bauern",
+   "surface_en": "peasants",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württembergers",
+   "kind": "other",
+   "surface_de": "Würtemberger",
+   "surface_en": "Württembergers",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Badeners",
+   "kind": "other",
+   "surface_de": "Badener",
+   "surface_en": "Badeners",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreichen",
+   "surface_en": "Austrians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr Murat",
+   "kind": "person",
+   "surface_de": "H. Marat",
+   "surface_en": "Mr Murat",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bologna",
+   "kind": "place",
+   "surface_de": "Boulonga",
+   "surface_en": "Bologna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pyrenees",
+   "kind": "place",
+   "surface_de": "Pirinaen",
+   "surface_en": "Pyrenees",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Spaniards",
+   "kind": "other",
+   "surface_de": "Spanier",
+   "surface_en": "Spaniards",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Portuguese",
+   "kind": "other",
+   "surface_de": "Parteigieſen",
+   "surface_en": "Portuguese",
+   "page": 1
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohlnische",
+   "surface_en": "Polish",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor Alexander",
+   "kind": "person",
+   "surface_de": "K[aiser]. A[lexander].",
+   "surface_en": "Emperor Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Massena",
+   "kind": "person",
+   "surface_de": "Massena",
+   "surface_en": "Massena",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Don Quixote",
+   "kind": "person",
+   "surface_de": "Donquischott",
+   "surface_en": "Don Quixote",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberger",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hard:",
+   "kind": "person",
+   "surface_de": "F[ürst]. Hard:",
+   "surface_en": "Prince Hard:",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -282,9 +563,214 @@
    "doc_line": 51
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "10\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Serene Highness's most highly esteemed letter of the 24th of last month I received, together with its enclosures, yesterday evening. My astonishment was great when I saw from it that my letters have not arrived there — I shall make enquiries today and have a tracing-slip sent after them to the Post Director Mann. I write twice every week, and I have always sent my letters, most times, to Teichelmann — There are matters of consequence in them. For the rest, I hope my stay here shall not last so very much longer, and just as certainly I hope that my endeavours shall not remain without success — Mr Stägemann has indeed made no report as yet — but I believe I shall succeed without him. The Prince Chancellor gave the best assurances only yesterday, and spoke most favourably of Your Serene Highness's affairs — He means to [uncertain: abholet] settle Your Serene Highness's affair in the best manner even before he departs from here.\n\nThe Polish matter I have now handed over to the Commission — the accompanying Pro Memoria demonstrates the calculation which I have made — for it Your Serene Highness will now most likely receive estates; for the money is needed for the war. Nothing whatsoever can be forced through here — It takes more than the patience of an angel not to go mad over this everlasting biding and waiting. Especially when one must go hungry. The war, and indeed the greatest there has ever been, is near its outbreak; everything is hastening towards the frontiers of France — The Imperial headquarters will be at Ulm, over an army of 200000 men. Our King's at Frankfurt. Further along the Rhine the Hessians, Hanoverians and Dutch, along with the smaller contingents; up by Switzerland 200000 Russians, 30000 Swiss, 40000 peasants, with 20000 Württembergers and Badeners — To Italy go 120000 Austrians.\n\nMr Murat has already pressed far into Italy, and the Pope has fled to Bologna. Over the Pyrenees there are by now already 100000 Spaniards and Portuguese on the march, while against them Napoleon drags together the whole rabble under a thousand false pretences. Certainly, if the great commander Hunger permits it, there will this time be more",
+   "names": [
+    {
+     "de": "Mann",
+     "en": "Mann",
+     "kind": "person"
+    },
+    {
+     "de": "Teichelmann",
+     "en": "Teichelmann",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Ulm",
+     "en": "Ulm",
+     "kind": "place"
+    },
+    {
+     "de": "Frankfurth",
+     "en": "Frankfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Rhein",
+     "en": "Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Hessen",
+     "en": "Hessians",
+     "kind": "other"
+    },
+    {
+     "de": "Hannoveraner",
+     "en": "Hanoverians",
+     "kind": "other"
+    },
+    {
+     "de": "Holländer",
+     "en": "Dutch",
+     "kind": "other"
+    },
+    {
+     "de": "Schweiz",
+     "en": "Switzerland",
+     "kind": "place"
+    },
+    {
+     "de": "Ruſten",
+     "en": "Russians",
+     "kind": "other"
+    },
+    {
+     "de": "Schweizer",
+     "en": "Swiss",
+     "kind": "other"
+    },
+    {
+     "de": "Bauern",
+     "en": "peasants",
+     "kind": "other"
+    },
+    {
+     "de": "Würtemberger",
+     "en": "Württembergers",
+     "kind": "other"
+    },
+    {
+     "de": "Badener",
+     "en": "Badeners",
+     "kind": "other"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreichen",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "H. Marat",
+     "en": "Mr Murat",
+     "kind": "person"
+    },
+    {
+     "de": "Boulonga",
+     "en": "Bologna",
+     "kind": "place"
+    },
+    {
+     "de": "Pirinaen",
+     "en": "Pyrenees",
+     "kind": "place"
+    },
+    {
+     "de": "Spanier",
+     "en": "Spaniards",
+     "kind": "other"
+    },
+    {
+     "de": "Parteigieſen",
+     "en": "Portuguese",
+     "kind": "other"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlnische",
+     "en": "Polish",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "10",
+    "24",
+    "2",
+    "200000",
+    "200000",
+    "30000",
+    "40000",
+    "20000",
+    "120000",
+    "100000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "than 1200000 men contending against one another — According to the utterances of the Emperor Alexander nothing is to be spared, but rather the horror of devastation is to rage along every road: One hope still gives life to the peace-loving party — Men reckon upon internal disturbances in France — Thus, according to today's report, Massena too is said to have declared himself a pretender to the crown of France and to be forming an army for the attainment of this end. Men therefore believe that the people, when they see such earnest, will soon weary of the Don Quixote and deliver him up themselves. These are today's tidings — concerning the Württemberg affairs I have reported everything in my previous letters. The matter will, at the Congress's demand, turn out well. As to Prince August, I wonder that he hesitates a moment longer to revoke the said power of attorney — I must [uncertain: kendiren] my judgment upon that until then. The accompanying letter Your Serene Highness may graciously have sent to [uncertain: dH. H. C.] Eberhard. His [uncertain: Anheimen] that the Prince Hard: should invite him here, and should send him money and a pass for relay horses — can never take place — the settlement will very likely come about without this, and in the end the King must pay. — Meanwhile everything will let itself be arranged better than one believes — Only have patience a short while longer — Everything is too confused, and they have too greatly [uncertain: unstribt] the gracious Lord. May God only preserve Your Serene Highness in health — He will yet grant you joy as well —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 4th of March 1815\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "K[aiser]. A[lexander].",
+     "en": "Emperor Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Massena",
+     "en": "Massena",
+     "kind": "person"
+    },
+    {
+     "de": "Donquischott",
+     "en": "Don Quixote",
+     "kind": "person"
+    },
+    {
+     "de": "Würtemberger",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürst]. Hard:",
+     "en": "Prince Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1200000",
+    "4",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "10\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Serene Highness's most highly esteemed letter of the 24th of last month I received, together with its enclosures, yesterday evening. My astonishment was great when I saw from it that my letters have not arrived there — I shall make enquiries today and have a tracing-slip sent after them to the Post Director Mann. I write twice every week, and I have always sent my letters, most times, to Teichelmann — There are matters of consequence in them. For the rest, I hope my stay here shall not last so very much longer, and just as certainly I hope that my endeavours shall not remain without success — Mr Stägemann has indeed made no report as yet — but I believe I shall succeed without him. The Prince Chancellor gave the best assurances only yesterday, and spoke most favourably of Your Serene Highness's affairs — He means to [uncertain: abholet] settle Your Serene Highness's affair in the best manner even before he departs from here.\n\nThe Polish matter I have now handed over to the Commission — the accompanying Pro Memoria demonstrates the calculation which I have made — for it Your Serene Highness will now most likely receive estates; for the money is needed for the war. Nothing whatsoever can be forced through here — It takes more than the patience of an angel not to go mad over this everlasting biding and waiting. Especially when one must go hungry. The war, and indeed the greatest there has ever been, is near its outbreak; everything is hastening towards the frontiers of France — The Imperial headquarters will be at Ulm, over an army of 200000 men. Our King's at Frankfurt. Further along the Rhine the Hessians, Hanoverians and Dutch, along with the smaller contingents; up by Switzerland 200000 Russians, 30000 Swiss, 40000 peasants, with 20000 Württembergers and Badeners — To Italy go 120000 Austrians.\n\nMr Murat has already pressed far into Italy, and the Pope has fled to Bologna. Over the Pyrenees there are by now already 100000 Spaniards and Portuguese on the march, while against them Napoleon drags together the whole rabble under a thousand false pretences. Certainly, if the great commander Hunger permits it, there will this time be more\n\nthan 1200000 men contending against one another — According to the utterances of the Emperor Alexander nothing is to be spared, but rather the horror of devastation is to rage along every road: One hope still gives life to the peace-loving party — Men reckon upon internal disturbances in France — Thus, according to today's report, Massena too is said to have declared himself a pretender to the crown of France and to be forming an army for the attainment of this end. Men therefore believe that the people, when they see such earnest, will soon weary of the Don Quixote and deliver him up themselves. These are today's tidings — concerning the Württemberg affairs I have reported everything in my previous letters. The matter will, at the Congress's demand, turn out well. As to Prince August, I wonder that he hesitates a moment longer to revoke the said power of attorney — I must [uncertain: kendiren] my judgment upon that until then. The accompanying letter Your Serene Highness may graciously have sent to [uncertain: dH. H. C.] Eberhard. His [uncertain: Anheimen] that the Prince Hard: should invite him here, and should send him money and a pass for relay horses — can never take place — the settlement will very likely come about without this, and in the end the King must pay. — Meanwhile everything will let itself be arranged better than one believes — Only have patience a short while longer — Everything is too confused, and they have too greatly [uncertain: unstribt] the gracious Lord. May God only preserve Your Serene Highness in health — He will yet grant you joy as well —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 4th of March 1815\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld wundert sich, dass seine Briefe, meist über Teichelmann geschickt, nicht angekommen sind, und will ihnen einen Laufzettel nachsenden. Stägemann hat noch keinen Vortrag gehalten, der Fürst Kanzler aber gibt beste Versicherungen. Die polnische Angelegenheit hat er der Commission übergeben und erwartet dafür Güter statt Geld. Er berichtet Kriegsnachrichten und Gerüchte, wundert sich über das Zögern von Fürst August, die Vollmacht zu widerrufen, und legt einen Brief an Eberhard bei.",
  "reading": {

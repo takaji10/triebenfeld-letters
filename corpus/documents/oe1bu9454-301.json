@@ -166,7 +166,88 @@
    "doc_line": 40
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "smiedecki",
+   "display": "Smiedecki",
+   "kind": "person",
+   "surface_de": "Smiedecki",
+   "surface_en": "Smiedecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Z[erboni]",
+   "surface_en": "Z[erboni]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Prinzen Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -236,9 +317,80 @@
    "doc_line": 36
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\n301 Your Serene Highness's most highly revered letter of the 26th of this month I received through the house steward Lombardini, whose arrival here was indeed most surprising, yet also most [uncertain: gratifying]. For I had already been in some distress on account of the long absence of the messenger sent thither, and believed the man had met with a mishap.\n\nIt is doubly agreeable to me now, through the other Lombardini, to be able to lay at Your Most Serene Highness's feet my deepest reverence and my most heartfelt congratulations on this day of such importance. May you, most gracious Prince and Lord, yet live to see a long succession of like days, but free from gout and other mishaps, in the most lasting health, good fortune, [uncertain: Mühn] and true contentment — As concerns hereafter Your Serene Highness's affairs in these parts, I have no other intelligence to give to Your Most High Self than what my letters, now sent one after another in all obedience to Your Serene Highness, set forth, to which I refer. May you now most highly deign to let me know your further wise resolutions and the conduct to be observed — the honest Lombardini will truly render to Your Serene Highness the most faithful report on everything, grounded upon proofs — For the rest I observe that in all matters I act with caution, grounded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower — At present I await, full of longing, my son and a tenant for Świniary; as soon as I have arranged this matter I shall go",
+   "names": [
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "301",
+    "26"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to Poznań and Pszczew, in order to set the great work in order there also — In the compensation matter I now hope for the happiest outcome, the more so as I have entirely won over the Chief Prefect v Smiedecki in Kalisz, upon whose opinion everything in the end depends — Some game would also have a very good effect here — as likewise in Poznań with Z[erboni]: what was received was almost entirely spoiled in the mild weather. In deepest reverence I remain, until death, Your Most Serene Highness's. To the good [uncertain: Bider] Prince Adolph I commend myself for his favour. Blizanow\n\nthe 31st of January\n\n1816.\n\nmost obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Smiedecki",
+     "en": "Smiedecki",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Z[erboni]",
+     "en": "Z[erboni]",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1816"
+   ]
+  }
+ ],
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\n301 Your Serene Highness's most highly revered letter of the 26th of this month I received through the house steward Lombardini, whose arrival here was indeed most surprising, yet also most [uncertain: gratifying]. For I had already been in some distress on account of the long absence of the messenger sent thither, and believed the man had met with a mishap.\n\nIt is doubly agreeable to me now, through the other Lombardini, to be able to lay at Your Most Serene Highness's feet my deepest reverence and my most heartfelt congratulations on this day of such importance. May you, most gracious Prince and Lord, yet live to see a long succession of like days, but free from gout and other mishaps, in the most lasting health, good fortune, [uncertain: Mühn] and true contentment — As concerns hereafter Your Serene Highness's affairs in these parts, I have no other intelligence to give to Your Most High Self than what my letters, now sent one after another in all obedience to Your Serene Highness, set forth, to which I refer. May you now most highly deign to let me know your further wise resolutions and the conduct to be observed — the honest Lombardini will truly render to Your Serene Highness the most faithful report on everything, grounded upon proofs — For the rest I observe that in all matters I act with caution, grounded upon experience, and endeavour to imitate the bee, which gathers its honey even from the poison-flower — At present I await, full of longing, my son and a tenant for Świniary; as soon as I have arranged this matter I shall go\n\nto Poznań and Pszczew, in order to set the great work in order there also — In the compensation matter I now hope for the happiest outcome, the more so as I have entirely won over the Chief Prefect v Smiedecki in Kalisz, upon whose opinion everything in the end depends — Some game would also have a very good effect here — as likewise in Poznań with Z[erboni]: what was received was almost entirely spoiled in the mild weather. In deepest reverence I remain, until death, Your Most Serene Highness's. To the good [uncertain: Bider] Prince Adolph I commend myself for his favour. Blizanow\n\nthe 31st of January\n\n1816.\n\nmost obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bestätigt das durch Lombardini überbrachte Schreiben vom 26.. Neues berichtet er nicht, er bittet um die Entschlüsse des Fürsten; Lombardini soll berichten. Er erwartet seinen Sohn und einen Pächter für Świniary und will danach nach Poznań und Pszczew reisen. In der Entschädigungssache hofft er auf guten Ausgang, da er den Ober Prefect v Smiedecki in Kalisz gewonnen habe. Wildbret für hier und für Zerboni in Poznań würde gut wirken, das letzte sei fast ganz verdorben.",
  "reading": {

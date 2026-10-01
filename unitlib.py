@@ -329,6 +329,10 @@ def load_rulings(unit):
         # Documents whose transcription is still largely a machine reading the
         # corrections could not rescue; the reader is told to check the scan.
         'ROUGH_LETTERS':  {str(x) for x in ((r.get('rough') or {}).get('letters') or [])},
+        # Pages transcribed by paragraph rather than line by line, by page id:
+        # each line of the corpus is a whole paragraph of the manuscript, so
+        # each begins one in the reading text and the page says so.
+        'BY_PARAGRAPH':   {str(x) for x in ((r.get('pages') or {}).get('by_paragraph') or [])},
     }
 
 
@@ -373,24 +377,82 @@ def load_tables(unit):
         raise SystemExit(f'{unit.slug}: rulings list {missing} as tables, '
                          f'but corpus.txt has no such document')
 
+    return {lid: table_of({i: ls for i, ls in enumerate(plines, 1) if ls})
+            for lid, plines in doc_pages.items()}
+
+
+def table_of(page_lines):
+    """{page number: [CSV line, ...]} sorted into caption, head, pages and foot.
+
+    Shared by the German table, read from the corpus, and its English
+    translation, which comes back from the translator in the same shape.
+    """
     def is_entry(r):
         return bool(r) and r[0].strip().isdigit()
 
-    out = {}
-    for lid, plines in doc_pages.items():
-        pages = {i: list(csv.reader(ls)) for i, ls in enumerate(plines, 1) if ls}
-        allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
-        first = next(k for k, (_, r) in enumerate(allrows) if is_entry(r))
-        last = max(k for k, (_, r) in enumerate(allrows) if is_entry(r))
-        head = [r for _, r in allrows[:first]]
-        foot = [r for _, r in allrows[last + 1:]]
-        body = {}
-        for pg, r in allrows[first:last + 1]:
-            body.setdefault(pg, []).append(r)
-        # The title sits in the first header row, over the name column.
-        caption = head[0][1].strip() if head and len(head[0]) > 1 else ''
-        out[lid] = {'caption': caption, 'head': head, 'pages': body, 'foot': foot}
-    return out
+    pages = {pg: list(csv.reader(ls)) for pg, ls in page_lines.items() if ls}
+    allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
+    first = next(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+    last = max(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+    head = [r for _, r in allrows[:first]]
+    foot = [r for _, r in allrows[last + 1:]]
+    body = {}
+    for pg, r in allrows[first:last + 1]:
+        body.setdefault(pg, []).append(r)
+    # The title sits in the first header row, over the name column.
+    caption = head[0][1].strip() if head and len(head[0]) > 1 else ''
+    return {'caption': caption, 'head': head, 'pages': body, 'foot': foot}
+
+
+def render_table(tbl, page_no):
+    """One manuscript page of a tabulated document, as an HTML table.
+
+    The first two columns are the entry number and the name; the rest are
+    amounts. The first header row carries the column groups (Gold, Courant), a
+    label opening a group and the blanks after it continuing it; the second
+    carries the units. The title heads the first page, the closing rows (the
+    Summa) close the last.
+    """
+    import html
+    rows = tbl['pages'].get(page_no) or []
+    if not rows:
+        return ''
+    head, foot = tbl['head'], tbl['foot']
+    ncol = max(len(r) for r in head + foot + rows)
+
+    def pad(r):
+        return (list(r) + [''] * ncol)[:ncol]
+
+    def cells(r, tag):
+        r = pad(r)
+        return (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>'
+                f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
+                + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
+
+    out = ['<div class="ledger-wrap"><table class="ledger">']
+    if page_no == min(tbl['pages']) and tbl['caption']:
+        out.append(f'<caption>{html.escape(tbl["caption"])}</caption>')
+    if head:
+        top, sub = pad(head[0]), pad(head[-1])
+        grp = []
+        i = 2
+        while i < ncol:
+            j = i + 1
+            while j < ncol and not top[j].strip():
+                j += 1
+            grp.append(f'<th colspan="{j - i}" class="grp">{html.escape(top[i].strip())}</th>')
+            i = j
+        out.append('<thead><tr>'
+                   f'<th rowspan="2" class="no">{html.escape(sub[0].strip())}</th>'
+                   f'<th rowspan="2" class="name">{html.escape(sub[1].strip())}</th>'
+                   + ''.join(grp) + '</tr>')
+        out.append('<tr>' + ''.join(f'<th class="num">{html.escape(c.strip())}</th>'
+                                    for c in sub[2:]) + '</tr></thead>')
+    out.append('<tbody>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in rows) + '</tbody>')
+    if foot and page_no == max(tbl['pages']):
+        out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot) + '</tfoot>')
+    out.append('</table></div>')
+    return '\n'.join(out)
 
 
 def _table_cells(cells):

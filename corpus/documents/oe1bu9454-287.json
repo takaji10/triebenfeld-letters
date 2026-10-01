@@ -216,7 +216,536 @@
    "doc_line": 127
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hungary",
+   "kind": "place",
+   "surface_de": "Ungarn",
+   "surface_en": "Hungary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Post Director Mann",
+   "kind": "person",
+   "surface_de": "Post Director Mann",
+   "surface_en": "Post Director Mann",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "B[arbe]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "P[rinz]. Adolphs",
+   "surface_en": "Prince Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Liende",
+   "kind": "person",
+   "surface_de": "Liende",
+   "surface_en": "Liende",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Beguelin",
+   "kind": "person",
+   "surface_de": "von Beguelin",
+   "surface_en": "von Beguelin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahns",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russians",
+   "kind": "other",
+   "surface_de": "Rußen",
+   "surface_en": "Russians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Upper Rhine",
+   "kind": "place",
+   "surface_de": "O Rhein",
+   "surface_en": "Upper Rhine",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bayreuth",
+   "kind": "place",
+   "surface_de": "Bayreuth",
+   "surface_en": "Bayreuth",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "person",
+   "surface_de": "König von Würtemberg",
+   "surface_en": "King of Württemberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Caropin",
+   "kind": "person",
+   "surface_de": "Caropin",
+   "surface_en": "Caropin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Stuttgart",
+   "kind": "place",
+   "surface_de": "Stuttgart",
+   "surface_en": "Stuttgart",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hortensia",
+   "kind": "person",
+   "surface_de": "Hortensia",
+   "surface_en": "Hortensia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Eugène",
+   "kind": "person",
+   "surface_de": "Eugen",
+   "surface_en": "Eugène",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonaparte",
+   "surface_en": "Bonaparte",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Murat",
+   "kind": "person",
+   "surface_de": "Murat",
+   "surface_en": "Murat",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürst Hardenberg",
+   "surface_en": "Prince Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt am Main",
+   "kind": "place",
+   "surface_de": "Frankfurt am Mein",
+   "surface_en": "Frankfurt am Main",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Upper Rhine",
+   "kind": "place",
+   "surface_de": "Ober Rhein",
+   "surface_en": "Upper Rhine",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Rhine",
+   "kind": "place",
+   "surface_de": "Rhein",
+   "surface_en": "Rhine",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "England",
+   "kind": "place",
+   "surface_de": "Engeland",
+   "surface_en": "England",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hanover",
+   "kind": "place",
+   "surface_de": "Hannover",
+   "surface_en": "Hanover",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Spain",
+   "kind": "place",
+   "surface_de": "Spanien",
+   "surface_en": "Spain",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Portugal",
+   "kind": "place",
+   "surface_de": "Portugall",
+   "surface_en": "Portugal",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sardinia",
+   "kind": "place",
+   "surface_de": "Sardinien",
+   "surface_en": "Sardinia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Denmark",
+   "kind": "place",
+   "surface_de": "Dannemark",
+   "surface_en": "Denmark",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Wurtemberg",
+   "surface_en": "Württemberg",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Holland",
+   "kind": "place",
+   "surface_de": "Holland",
+   "surface_en": "Holland",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Electoral Hesse",
+   "kind": "place",
+   "surface_de": "Chur Heſſen",
+   "surface_en": "Electoral Hesse",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Switzerland",
+   "kind": "place",
+   "surface_de": "Schweiz",
+   "surface_en": "Switzerland",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Mecklenburg",
+   "kind": "place",
+   "surface_de": "Mecklenburg",
+   "surface_en": "Mecklenburg",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hessian lands",
+   "kind": "place",
+   "surface_de": "Hessischen Länder",
+   "surface_en": "Hessian lands",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Weimar",
+   "kind": "place",
+   "surface_de": "Weimar",
+   "surface_en": "Weimar",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Gotha",
+   "kind": "place",
+   "surface_de": "Gotha",
+   "surface_en": "Gotha",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Grand Duke of Baden",
+   "kind": "person",
+   "surface_de": "Gr. Herzog von Baden",
+   "surface_en": "Grand Duke of Baden",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sweden",
+   "kind": "place",
+   "surface_de": "Schweden",
+   "surface_en": "Sweden",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonaparte",
+   "surface_en": "Bonaparte",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte hordes",
+   "kind": "other",
+   "surface_de": "Bonap[arte]: Hoorden",
+   "surface_en": "Bonaparte hordes",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Emperor of the Russians",
+   "kind": "person",
+   "surface_de": "Rußen Kayser",
+   "surface_en": "Emperor of the Russians",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Rohr",
+   "kind": "other",
+   "surface_de": "Rohr",
+   "surface_en": "Rohr",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prince Radziwiłł",
+   "kind": "person",
+   "surface_de": "Fürst Radziwiłł",
+   "surface_en": "Prince Radziwiłł",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 4
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Privy Councillor of State",
+   "kind": "other",
+   "surface_de": "F. St[aats]. R[ath].",
+   "surface_en": "Privy Councillor of State",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 4
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -484,9 +1013,401 @@
    "doc_line": 124
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "287\n\nMost Serene Prince\n\nMost gracious Lord!\n\nI received Your Serene Highness's most highly esteemed letter of the 3rd of April this morning. Hungary I saw that the letter to me was not enclosed in a cover, it lay merely in the envelope to the Post Director Mann; naturally he unsealed it, and despite his assurance he has certainly read it — even B[arbe] found this most disagreeable — for one does not let just anyone [uncertain: peep] into one's cards — in short, it was a vexing business — Now to the matter: as regards P[rince] Adolph's resolve, I had just now a letter almost finished to advise Your Serene Highness to this very course — God be thanked that we met in the same sentiments — My one wish is that Prince Adolph should still find the King here, for it is said that His Majesty is departing and Prince H remains here yet to arrange everything — Should this indeed come to pass, I shall go to the King and report to him Your Serene Highness's and Adolph's resolve, and ask him whither he commands that Adolph should follow him, and in what manner he may equip himself — For the rest, should he come, I shall tell him well enough what he has to do. — f H and M H: may on no account be mixed up in military matters, that would be a sin against the Holy Ghost — By this means an even better purpose may be achieved — Would to God Adolph were here already — Now to your affairs — Your lamentations cut my heart in two, but I can compel neither the Prince nor anyone else to set aside matters in which the weal and woe of millions of men is at stake and to take up your business — If the Prince answers Liende's petition — God, I shall certainly help the man, whose true friend I am, before I depart from here, for I, and every friend of yours, must fall silent in reverence — I assuredly seek out every road on which I might hope with confidence to reach the goal — Only at this juncture one must not be unjust — It is known there that everything is at stake, that must be borne in mind — and he is, by God, the only one",
+   "names": [
+    {
+     "de": "Ungarn",
+     "en": "Hungary",
+     "kind": "place"
+    },
+    {
+     "de": "Post Director Mann",
+     "en": "Post Director Mann",
+     "kind": "person"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "B[arbe]",
+     "kind": "person"
+    },
+    {
+     "de": "P[rinz]. Adolphs",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Liende",
+     "en": "Liende",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "287",
+    "3ten"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "who thinks day and night — For me it is enough that he protests his will to help Your Serene Highness. I assuredly suffer more than you do with those about you — and therefore my heart might well burst when I receive enclosures of that kind — Lombardini wrote lately as was fitting — the Privy Councillor of State von Beguelin / from whom Your Serene Highness must now absolutely have an answer / took this affecting letter and gave it to the Chancellor of State. By God it has not missed its purpose — but the letter of the two Hahns I may certainly not show, in the judgement of both friends. It contains threats which not even a friend and honest man tolerates — I recognise the burning zeal of the upright Hahn, but this does not suit the course we are on — There are men of consequence here already five months, and they are yet to have their first audience — How, and perhaps for centuries past, has there been an epoch so weighty as the present one — The French cause is now the cause of the whole nation — Millions will stand against one another — and General Hunger will often make the greatest diversions, so that desperation will take the helm — It is a piece of good fortune that the harmony of the sovereigns endures — Austria assuredly acts greatly and worthily — this has already proved itself in Italy. But on the Upper Rhine matters still look very bad — what one is to think of the Russians one does not know. — Their march proceeds very [uncertain: sparingly] — the K. Alt: seems to take little notice of it, and thinking men shook their heads — The Viceroy of Italy is gone. The scene which the citizens must have made must have had its effect, where some of them barred the Emperor's way and asked him whether he could go about publicly by day and night, arm in arm and so familiarly, with such a traitor and scoundrel; indeed, where one of the citizens was a match for the two of them and the gentlemen had to retire into a house — the wretch has gone to Bayreuth on his word of honour,",
+   "names": [
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "von Beguelin",
+     "en": "von Beguelin",
+     "kind": "person"
+    },
+    {
+     "de": "Hahns",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Rußen",
+     "en": "Russians",
+     "kind": "other"
+    },
+    {
+     "de": "O Rhein",
+     "en": "Upper Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Bayreuth",
+     "en": "Bayreuth",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "that the citizens were in the right has now proved itself, and the King of Württemberg has had occasion to show himself with Caropin — the matter was this — A courier coming from Paris hastens through Stuttgart — the King learns of it quickly enough. Has the fellow arrested at once and the despatches taken from him — He unseals them and finds among them the letter from Hortensia in which she writes to Eugène —\n\n\"Continuez d'amusez notre imbécille —\" The reference was to the Russian Emperor — the King of Württemberg despatched this pretty piece of correspondence here at once by courier, who arrived here the day before yesterday — but what sensation this news has made is not yet known — The various amusements go on all the same, notwithstanding that Bonaparte already has some 300/m men assembled and Murat presses ever further forward — I fear that one esteems one's enemy too lightly, and that the Russian commanders wish to extend the war far and wide in order to [uncertain: satisfy] their rapacity and greed of gain — In a word, the most active man of all is Prince Hardenberg, for the King with those about him certainly cares and thinks about everything that concerns the military; so it seems, so burns the hair with eagerness to let the enemy feel his avenging arm — The King goes from here by way of Berlin to Frankfurt am Main — it is even believed that he will lead the advance guard — that would surely be venturing too much. It is past belief how brave the gentleman is — Only a sovereign ought surely to spare himself somewhat and, in his truly praiseworthy survey, keep the whole before his eyes.\n\nThis moment I hear that the King departs on the 18th; if that really happens then I shall go to him beforehand and lay before him Your Serene Highness's and Adolph's resolve, and beg him to determine whither Adolph is to come and what uniform he is to have made for himself. It is believed he will certainly take him into his Guard, for a young, brisk, wealthy and capable man is something rare",
+   "names": [
+    {
+     "de": "König von Würtemberg",
+     "en": "King of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "Caropin",
+     "en": "Caropin",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Stuttgart",
+     "en": "Stuttgart",
+     "kind": "place"
+    },
+    {
+     "de": "Hortensia",
+     "en": "Hortensia",
+     "kind": "person"
+    },
+    {
+     "de": "Eugen",
+     "en": "Eugène",
+     "kind": "person"
+    },
+    {
+     "de": "Bonaparte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Murat",
+     "en": "Murat",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst Hardenberg",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frankfurt am Mein",
+     "en": "Frankfurt am Main",
+     "kind": "place"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "300/m",
+    "18ten"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "I say to Your Serene Highness that one will soon be able to see clearly concerning France's fate — I was astonished that you have no news at all there. Concerning the resolve of the sovereigns there is nothing further to be said, it stands firm as a rock — each has declared how many troops he furnishes and by when they are to be put in the field. Thus Austria gives for the Upper Rhine 200000, who are to stand on the Rhine on the 20th of May, and 130000 for Italy, of whom 48000 already stand there; Russia gives in all 270000 men — Prussia 200000, of whom now more than 8000 stand there; England gives 76000 men — Hanover 30000 men, Spain 100000, Portugal, by the treaty concluded the day before yesterday, 30000 men, Sardinia 30000, Denmark 25000 men, [uncertain: by them] 40000, Württemberg 20000, Holland 40000 men; Electoral Hesse has, like the rest of them, not yet declared itself; Saxony must furnish 12000 men — Switzerland 30000 men. Mecklenburg, the Hessian lands, Weimar, Gotha and whatever all the gentlemen are called, 60000 in all — the Grand Duke of Baden is to furnish 12000 men — But he cries out that he has no money — Sweden is quite silent — the whole army of the allies amounts, by the moderate arrangement of the treaties, to 1307000 men; against it stands, but for a few little houses, the whole of France — From the 20th of May on, all are to press into France. Bonaparte is, as Your Serene Highness knows, declared an outlaw, and his fellow-ruffians or so-called Marshals with him as dishonoured brutes — Nothing in France is to be spared. This the Emperor of the Russians has already publicly declared — All this would be well, but the delaying is good for nothing. — Can the outlaw not play the prævenire somewhere? and will the Bonaparte hordes not all, seeing their death before their eyes, grow desperate and fight? and what will Field Marshal Hunger say in the end? His manoeuvres are surely most of all to be feared — Much grain and cattle are said to be coming from Russia — I expect little good of the [uncertain: Wünsch] ministers and of the government — They will plunder everything away here and our troops will suffer want — It is said too that even if Bonaparte were given up, the advance into France would go forward all the same — For the rest, all this seems to hinder Pourtalès's arrival here — He has let nothing further be heard from himself — If it does not go forward now, then take your paper back at once — Just so does it now stick fast with the Rohr affairs — Prince Radziwiłł is going to Poznań to receive the homage, and Zerboni goes with him — But it is believed that all this will take on another shape — The Poles are beginning to grow very loud again, and much will thereby get another name — Nevertheless I shall hear what comfort the Privy Councillor of State gives in this matter the day after tomorrow. That Your Serene Highness is at last suffering want there I do believe, and I feel it a thousandfold, for I suffer it together with my own people — I have neither rest nor dwelling in seeking to relieve the distress, and I hope that my exertions will succeed — but the [uncertain: Vorblünten] reproaches / that you have sent money here, that you are losing patience / that can please me no longer — I am assuredly losing ten times more than you have sent — and still I hold fast to patience, in order to save you, my Prince, which will also come to pass before long — In deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 13th of April\n\n1815.\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Ober Rhein",
+     "en": "Upper Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Rhein",
+     "en": "Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Engeland",
+     "en": "England",
+     "kind": "place"
+    },
+    {
+     "de": "Hannover",
+     "en": "Hanover",
+     "kind": "place"
+    },
+    {
+     "de": "Spanien",
+     "en": "Spain",
+     "kind": "place"
+    },
+    {
+     "de": "Portugall",
+     "en": "Portugal",
+     "kind": "place"
+    },
+    {
+     "de": "Sardinien",
+     "en": "Sardinia",
+     "kind": "place"
+    },
+    {
+     "de": "Dannemark",
+     "en": "Denmark",
+     "kind": "place"
+    },
+    {
+     "de": "Wurtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Holland",
+     "en": "Holland",
+     "kind": "place"
+    },
+    {
+     "de": "Chur Heſſen",
+     "en": "Electoral Hesse",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Schweiz",
+     "en": "Switzerland",
+     "kind": "place"
+    },
+    {
+     "de": "Mecklenburg",
+     "en": "Mecklenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Hessischen Länder",
+     "en": "Hessian lands",
+     "kind": "place"
+    },
+    {
+     "de": "Weimar",
+     "en": "Weimar",
+     "kind": "place"
+    },
+    {
+     "de": "Gotha",
+     "en": "Gotha",
+     "kind": "place"
+    },
+    {
+     "de": "Gr. Herzog von Baden",
+     "en": "Grand Duke of Baden",
+     "kind": "person"
+    },
+    {
+     "de": "Schweden",
+     "en": "Sweden",
+     "kind": "place"
+    },
+    {
+     "de": "Bonaparte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Bonap[arte]: Hoorden",
+     "en": "Bonaparte hordes",
+     "kind": "other"
+    },
+    {
+     "de": "Rußen Kayser",
+     "en": "Emperor of the Russians",
+     "kind": "person"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Rohr",
+     "en": "Rohr",
+     "kind": "other"
+    },
+    {
+     "de": "Fürst Radziwiłł",
+     "en": "Prince Radziwiłł",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "F. St[aats]. R[ath].",
+     "en": "Privy Councillor of State",
+     "kind": "other"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200000",
+    "20ten",
+    "130000",
+    "48000",
+    "270000",
+    "200000",
+    "8000",
+    "76000",
+    "30000",
+    "100000",
+    "30000",
+    "30000",
+    "25000",
+    "40000",
+    "20000",
+    "40000",
+    "12000",
+    "30000",
+    "60000",
+    "12000",
+    "1307000",
+    "20ten",
+    "13ten",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "287\n\nMost Serene Prince\n\nMost gracious Lord!\n\nI received Your Serene Highness's most highly esteemed letter of the 3rd of April this morning. Hungary I saw that the letter to me was not enclosed in a cover, it lay merely in the envelope to the Post Director Mann; naturally he unsealed it, and despite his assurance he has certainly read it — even B[arbe] found this most disagreeable — for one does not let just anyone [uncertain: peep] into one's cards — in short, it was a vexing business — Now to the matter: as regards P[rince] Adolph's resolve, I had just now a letter almost finished to advise Your Serene Highness to this very course — God be thanked that we met in the same sentiments — My one wish is that Prince Adolph should still find the King here, for it is said that His Majesty is departing and Prince H remains here yet to arrange everything — Should this indeed come to pass, I shall go to the King and report to him Your Serene Highness's and Adolph's resolve, and ask him whither he commands that Adolph should follow him, and in what manner he may equip himself — For the rest, should he come, I shall tell him well enough what he has to do. — f H and M H: may on no account be mixed up in military matters, that would be a sin against the Holy Ghost — By this means an even better purpose may be achieved — Would to God Adolph were here already — Now to your affairs — Your lamentations cut my heart in two, but I can compel neither the Prince nor anyone else to set aside matters in which the weal and woe of millions of men is at stake and to take up your business — If the Prince answers Liende's petition — God, I shall certainly help the man, whose true friend I am, before I depart from here, for I, and every friend of yours, must fall silent in reverence — I assuredly seek out every road on which I might hope with confidence to reach the goal — Only at this juncture one must not be unjust — It is known there that everything is at stake, that must be borne in mind — and he is, by God, the only one\n\nwho thinks day and night — For me it is enough that he protests his will to help Your Serene Highness. I assuredly suffer more than you do with those about you — and therefore my heart might well burst when I receive enclosures of that kind — Lombardini wrote lately as was fitting — the Privy Councillor of State von Beguelin / from whom Your Serene Highness must now absolutely have an answer / took this affecting letter and gave it to the Chancellor of State. By God it has not missed its purpose — but the letter of the two Hahns I may certainly not show, in the judgement of both friends. It contains threats which not even a friend and honest man tolerates — I recognise the burning zeal of the upright Hahn, but this does not suit the course we are on — There are men of consequence here already five months, and they are yet to have their first audience — How, and perhaps for centuries past, has there been an epoch so weighty as the present one — The French cause is now the cause of the whole nation — Millions will stand against one another — and General Hunger will often make the greatest diversions, so that desperation will take the helm — It is a piece of good fortune that the harmony of the sovereigns endures — Austria assuredly acts greatly and worthily — this has already proved itself in Italy. But on the Upper Rhine matters still look very bad — what one is to think of the Russians one does not know. — Their march proceeds very [uncertain: sparingly] — the K. Alt: seems to take little notice of it, and thinking men shook their heads — The Viceroy of Italy is gone. The scene which the citizens must have made must have had its effect, where some of them barred the Emperor's way and asked him whether he could go about publicly by day and night, arm in arm and so familiarly, with such a traitor and scoundrel; indeed, where one of the citizens was a match for the two of them and the gentlemen had to retire into a house — the wretch has gone to Bayreuth on his word of honour,\n\nthat the citizens were in the right has now proved itself, and the King of Württemberg has had occasion to show himself with Caropin — the matter was this — A courier coming from Paris hastens through Stuttgart — the King learns of it quickly enough. Has the fellow arrested at once and the despatches taken from him — He unseals them and finds among them the letter from Hortensia in which she writes to Eugène —\n\n\"Continuez d'amusez notre imbécille —\" The reference was to the Russian Emperor — the King of Württemberg despatched this pretty piece of correspondence here at once by courier, who arrived here the day before yesterday — but what sensation this news has made is not yet known — The various amusements go on all the same, notwithstanding that Bonaparte already has some 300/m men assembled and Murat presses ever further forward — I fear that one esteems one's enemy too lightly, and that the Russian commanders wish to extend the war far and wide in order to [uncertain: satisfy] their rapacity and greed of gain — In a word, the most active man of all is Prince Hardenberg, for the King with those about him certainly cares and thinks about everything that concerns the military; so it seems, so burns the hair with eagerness to let the enemy feel his avenging arm — The King goes from here by way of Berlin to Frankfurt am Main — it is even believed that he will lead the advance guard — that would surely be venturing too much. It is past belief how brave the gentleman is — Only a sovereign ought surely to spare himself somewhat and, in his truly praiseworthy survey, keep the whole before his eyes.\n\nThis moment I hear that the King departs on the 18th; if that really happens then I shall go to him beforehand and lay before him Your Serene Highness's and Adolph's resolve, and beg him to determine whither Adolph is to come and what uniform he is to have made for himself. It is believed he will certainly take him into his Guard, for a young, brisk, wealthy and capable man is something rare\n\nI say to Your Serene Highness that one will soon be able to see clearly concerning France's fate — I was astonished that you have no news at all there. Concerning the resolve of the sovereigns there is nothing further to be said, it stands firm as a rock — each has declared how many troops he furnishes and by when they are to be put in the field. Thus Austria gives for the Upper Rhine 200000, who are to stand on the Rhine on the 20th of May, and 130000 for Italy, of whom 48000 already stand there; Russia gives in all 270000 men — Prussia 200000, of whom now more than 8000 stand there; England gives 76000 men — Hanover 30000 men, Spain 100000, Portugal, by the treaty concluded the day before yesterday, 30000 men, Sardinia 30000, Denmark 25000 men, [uncertain: by them] 40000, Württemberg 20000, Holland 40000 men; Electoral Hesse has, like the rest of them, not yet declared itself; Saxony must furnish 12000 men — Switzerland 30000 men. Mecklenburg, the Hessian lands, Weimar, Gotha and whatever all the gentlemen are called, 60000 in all — the Grand Duke of Baden is to furnish 12000 men — But he cries out that he has no money — Sweden is quite silent — the whole army of the allies amounts, by the moderate arrangement of the treaties, to 1307000 men; against it stands, but for a few little houses, the whole of France — From the 20th of May on, all are to press into France. Bonaparte is, as Your Serene Highness knows, declared an outlaw, and his fellow-ruffians or so-called Marshals with him as dishonoured brutes — Nothing in France is to be spared. This the Emperor of the Russians has already publicly declared — All this would be well, but the delaying is good for nothing. — Can the outlaw not play the prævenire somewhere? and will the Bonaparte hordes not all, seeing their death before their eyes, grow desperate and fight? and what will Field Marshal Hunger say in the end? His manoeuvres are surely most of all to be feared — Much grain and cattle are said to be coming from Russia — I expect little good of the [uncertain: Wünsch] ministers and of the government — They will plunder everything away here and our troops will suffer want — It is said too that even if Bonaparte were given up, the advance into France would go forward all the same — For the rest, all this seems to hinder Pourtalès's arrival here — He has let nothing further be heard from himself — If it does not go forward now, then take your paper back at once — Just so does it now stick fast with the Rohr affairs — Prince Radziwiłł is going to Poznań to receive the homage, and Zerboni goes with him — But it is believed that all this will take on another shape — The Poles are beginning to grow very loud again, and much will thereby get another name — Nevertheless I shall hear what comfort the Privy Councillor of State gives in this matter the day after tomorrow. That Your Serene Highness is at last suffering want there I do believe, and I feel it a thousandfold, for I suffer it together with my own people — I have neither rest nor dwelling in seeking to relieve the distress, and I hope that my exertions will succeed — but the [uncertain: Vorblünten] reproaches / that you have sent money here, that you are losing patience / that can please me no longer — I am assuredly losing ten times more than you have sent — and still I hold fast to patience, in order to save you, my Prince, which will also come to pass before long — In deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 13th of April\n\n1815.\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld beklagt, dass der Brief vom 3ten Aprill unverschlossen beim Post Director lag und wohl gelesen wurde. Er begrüßt Prinz Adolphs Entschluss und will vor der Abreise des Königs, angeblich am 18ten, diesem den Entschluss vortragen und fragen, wohin Adolph kommen und welche Uniform er tragen soll. Beguelin gab Lombardinis Schreiben dem Kanzler, Hahns drohendes Schreiben zeigt Triebenfeld nicht. Er berichtet über die Rüstungen gegen Bonaparte und weist die Vorwürfe wegen des geschickten Geldes zurück.",
  "reading": {

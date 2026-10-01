@@ -85,7 +85,40 @@
    "doc_line": 14
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Knobelsdorff",
+   "kind": "person",
+   "surface_de": "H. v. Knobelsdorff",
+   "surface_en": "Mr von Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -111,9 +144,42 @@
    "doc_line": 10
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "209 Most Serene Prince, most gracious Prince and Lord. The order to pay has come in; I shall draw the money and depart at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr von Knobelsdorff there. The post is about to go out, I must close. In deepest reverence remaining Your Most Serene Highness's Wrocław\n\n16th October\n\n1810.\n\nmost humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "H. v. Knobelsdorff",
+     "en": "Mr von Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "209",
+    "16",
+    "8br.",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "209 Most Serene Prince, most gracious Prince and Lord. The order to pay has come in; I shall draw the money and depart at once. From Zagórów I shall report everything to Your Serene Highness immediately by a mounted messenger, who is to bring Mr von Knobelsdorff there. The post is about to go out, I must close. In deepest reverence remaining Your Most Serene Highness's Wrocław\n\n16th October\n\n1810.\n\nmost humble and obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bestätigt den Eingang der Anweisung. Er will das Geld erheben und sofort abreisen. Aus Zagórów will er dem Fürsten sogleich alles durch einen reitenden Boten melden, der H. v. Knobelsdorff dorthin bringen soll.",
  "reading": {

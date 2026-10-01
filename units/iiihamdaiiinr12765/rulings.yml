@@ -1,0 +1,210 @@
+# Editorial rulings for III. HA MdA, III Nr. 12765 (GStA PK).
+#
+# One document per letter (editor, 2026-10-01). The archive numbers nothing in
+# this file, so documents are numbered 1-30 in the order they are bound; the
+# cover (0001) is front matter. A reply the ministry drafted on a petitioner's
+# letter is a document of its own; shorter marks the office left on a letter
+# are listed in office_notes.yml. What each document is, and why, is in
+# notes.md. Established 2026-10-01.
+
+places:
+  # Place of writing, where the dateline is absent, illegible or misleading.
+  overrides:
+    "6": Schlawenschitz   # "Slawenziz le 12. Avril 1815"
+    "23": Sommerfeld
+    "27": Berlin
+    "30": Berlin
+    "2": Wien          # "W. d. Nov 14", under a letter received at Vienna
+    "5": Wien          # "W[ien]. d. 17. März 15"
+    "7": Wien          # "Vienne le Mai 1815"
+    "9": Wien
+    "10": Wien
+    "11": Wien
+    "12": Wien
+    "13": Wien
+    "15": Berlin       # the decree behind the Berlin drafts of the same day
+    "18": Berlin       # registry note of the foreign department
+    "20": Berlin       # "B. 15 Juny 16"
+    "22": Berlin
+    "25": St. Petersburg
+    "28": Warschau     # "Varsovie 23. Mai/4. Juin 1819"
+
+dates:
+  # [year, month, day, precision]; read off the document's own dateline, where
+  # the parser cannot reach it (abbreviated chancery datelines, French, double
+  # old-style and new-style dates).
+  read:
+    "1": [1814, 10, 25, "day"]       # "Wien den 25ten Octobr. 1814."; 20 Nov is the office's note
+    "4": [1815, 3, 2, "day"]         # "Wien den 2ten Mertz 1815"
+    "14": [1815, 11, 2, "day"]       # "Posen den 2ten November 1815."
+    "2": [1814, 11, 25, "day"]       # "Wien d. 25 Nov [18]14"
+    "5": [1815, 3, 17, "day"]        # "W[ien]. d. 17. März 15"
+    "6": [1815, 4, 12, "day"]        # "Slawenziz le 12. Avril 1815"
+    "7": [1815, 5, null, "month"]    # "Vienne le Mai 1815", the day left open
+    "9": [1815, 6, 6, "day"]         # "W[ien]. d. 6 Juni 15"
+    "10": [1815, 6, 6, "day"]        # "W[ien]. den 6ten Jun [18]15"
+    "11": [1815, 5, null, "month"]   # "Wien den __ten Mai 1815"
+    "12": [1815, 5, null, "month"]   # "den __ten May 1815"
+    "13": [1815, 5, null, "month"]   # "Vienne le Mai 1815."
+    "15": [1816, 4, 20, "day"]       # "d. 20 Apr [18]16"
+    "18": [1816, 5, 3, "day"]        # "3/5", countersigned "5/5. [18]16"
+    "20": [1816, 6, 15, "day"]       # "B. 15 Juny [18]16"
+    "22": [1816, 6, 22, "day"]       # "Berlin d. 22 Juni 1816."
+    "25": [1816, 11, 23, "day"]      # "den 23/11ten November 1816": new style 23
+    "27": [1820, 1, 31, "day"]       # "Berlin a 31. Janvier 1820."
+    "28": [1819, 6, 4, "day"]        # "23. Mai/4. Juin 1819": new style 4 June
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # `draft` is the ministry's own outgoing letter as it stayed in the file: the
+  # corrected draft, with its journal number and the paraphs approving it.
+  # `note` is an internal minute: a decree, a registry note. Everything else is
+  # a letter received (3 and 28 are copies sent as enclosures).
+  doc_type:
+    "2": draft
+    "5": draft
+    "7": draft
+    "9": draft
+    "10": draft
+    "11": draft
+    "15": note
+    "16": draft
+    "17": draft
+    "18": note
+    "20": note
+    "21": draft
+    "22": draft
+    "24": draft
+    "26": draft
+    "29": draft
+
+  language:
+    "6": "fr"
+    "7": "fr"
+    "13": "fr"
+    "27": "fr"
+    "28": "fr"
+
+  # The fair copies of two replies of May 1815, engrossed and then kept back:
+  # the German one was cancelled ("cessat", on 11) in favour of the reply of
+  # 6 June (9). Same text as the drafts, in a clerk's clean hand.
+  duplicate_of:
+    "12": "11"
+    "13": "7"
+
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "3"
+        note: "Triebenfeld encloses a copy of Hardenberg's resolution of 14 May 1814 ('lege ich in Abschrift hier bey'); document 3 is that copy."
+    "2":
+      - kind: answers
+        target: "1"
+        note: "Drafted beneath Triebenfeld's letter: 'auf Ihr Gesuch vom 25 v M.'"
+    "5":
+      - kind: answers
+        target: "4"
+        note: "'die Vorstellung von 2 dM': Triebenfeld's petition of 2 March 1815."
+    "7":
+      - kind: answers
+        target: "6"
+        note: "Stein has passed on the letter the Prince wrote him on the 12th of last month; document 6 is that letter, with the direction for this reply written on it."
+    "9":
+      - kind: answers
+        target: "8"
+        note: "'den Empfang Ihres ... Schreibens vom 12 v. M.': the Prince's letter of 12 May 1815."
+      - kind: supersedes
+        target: "11"
+        note: "The earlier draft is marked 'Cessat et vid. die anderweite Verfügung vom 6. Juny 1815'."
+    "10":
+      - kind: transmits
+        target: "8"
+        note: "Sends Zerboni the Prince's two letters in the original, the one to Hardenberg of 12 May and the one to Stein of 12 April (document 6)."
+    "11":
+      - kind: answers
+        target: "8"
+        note: "'Zuschrift vom 12ten d. M.': the Prince's letter of 12 May 1815."
+    "14":
+      - kind: answers
+        target: "10"
+        note: "Zerboni reports on the order of 6 June 1815 and returns the two original letters."
+    "21":
+      - kind: answers
+        target: "19"
+        note: "'unterm 26ten April d. J. gerichtete Vorstellung': the widow von Brehmer's petition."
+    "24":
+      - kind: answers
+        target: "23"
+        note: "Returns the enclosures she sent on 25 July 1816."
+    "25":
+      - kind: answers
+        target: "17"
+        note: "'In Gemäßheit ... Schreibens vom 29sten April d. J.': the instruction to Schöler."
+    "27":
+      - kind: transmits
+        target: "28"
+        note: "'Le rapport ci-joint du Lieutenant': the copy of Prince Zajączek's report."
+    "29":
+      - kind: transmits
+        target: "27"
+        note: "Sends Minister von Schuckmann a copy of the Russian envoy's note."
+    "30":
+      - kind: answers
+        target: "29"
+        note: "'Schreiben ... vom 13ten d. M. und dessen Beilagen'."
+
+  # The estate or estates each document is ABOUT, as slugs from
+  # reference/places.yml. Trąbczyn throughout; Kamionna (Kaemen) where the
+  # claim is still made for both; Szetlewek for the Brehmer mortgage on it.
+  # 28 and 30 concern only Count Bethusy's request and name no estate here.
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn, kamionno]
+    "3": [trabczyn, kamionno]
+    "4": [trabczyn, kamionno]
+    "5": [trabczyn, kamionno]
+    "6": [trabczyn, kamionno]
+    "7": [trabczyn, kamionno]
+    "8": [trabczyn]
+    "9": [trabczyn, kamionno]
+    "10": [trabczyn, kamionno]
+    "11": [trabczyn]
+    "12": [trabczyn]
+    "13": [trabczyn, kamionno]
+    "14": [trabczyn, kamionno]
+    "15": [trabczyn]
+    "16": [trabczyn]
+    "17": [trabczyn]
+    "18": [trabczyn]
+    "19": [szetlewek]
+    "20": [szetlewek, trabczyn]
+    "21": [szetlewek, trabczyn]
+    "22": [trabczyn]
+    "23": [szetlewek]
+    "24": [trabczyn]
+    "25": [trabczyn]
+    "26": [trabczyn, kamionno]
+    "27": [trabczyn]
+    "29": [trabczyn, kamionno]
+
+# Pages the editor transcribed by paragraph, not line by line (mostly French):
+# each line of corpus.txt is a paragraph of the manuscript. The reading text
+# starts a paragraph at every line and the page says how it was transcribed.
+pages:
+  by_paragraph: ["0007_a2", "0008_a1", "0008_a2", "0010_a2", "0016_a2",
+                 "0039_a2", "0040_a1", "0040_a2", "0041_a1", "0041_a2", "0042_a1"]
+
+damage:
+  letters: []
+
+rough:
+  # The ministry's drafts in a hurried chancery hand, which the transcription
+  # reads badly: whole phrases are garbled and were left as they stand (no
+  # correction is made inside a garbled passage). The page tells the reader to
+  # check the scan. Chosen 2026-10-01 from a reading of each.
+  letters: ["5", "9", "10", "15", "16", "20", "22", "26", "29"]

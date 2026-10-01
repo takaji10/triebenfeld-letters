@@ -170,7 +170,152 @@
    "doc_line": 52
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Nathan Liepmann",
+   "kind": "person",
+   "surface_de": "Nathan Liepmann",
+   "surface_en": "Nathan Liepmann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betſchen",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Echaust",
+   "surface_en": "Echaust",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Raven",
+   "kind": "person",
+   "surface_de": "Raven",
+   "surface_en": "Raven",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Midsummer",
+   "kind": "other",
+   "surface_de": "Johanni",
+   "surface_en": "Midsummer",
+   "page": 1
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Raven",
+   "kind": "person",
+   "surface_de": "v Raven",
+   "surface_en": "Raven",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenckschen",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "pochammer",
+   "display": "Pochammer",
+   "kind": "person",
+   "surface_de": "Pochammer",
+   "surface_en": "Pochammer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stegelitz",
+   "kind": "place",
+   "surface_de": "Stegelitz",
+   "surface_en": "Stegelitz",
+   "page": 2
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -229,9 +374,131 @@
    "doc_line": 49
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "180\n\nMost Serene Prince\n\nMost gracious Prince and Lord, I have had the honour of receiving here, together with the enclosures, Your Most Serene Highness's gracious letters of the 8th and 18th of April. Since the content of the former concerns chiefly the complaint of the Jew Nathan Liepmann, I reply thereto most obediently that his item is already listed in the schedule of all the known liabilities transmitted to Your Most Serene Highness; and that both this Jew and all the creditors shall be satisfied, if Providence [uncertain: blesses] my endeavours. At present nothing can be done but to hold off all these matters in this way. Upon the dismemberment monies, which amount to some 60000 rt, I cannot reckon so quickly, because these are likely to come in very slowly. I must therefore continue, for the meeting of the costs and the payment of the interest, to seek other counsel and to borrow monies for short terms.\n\nSince, however, the Pszczew matter is now entirely concluded, the people there must accordingly now pay, after deduction of the 6000 rt for Echaust, 2000 rt; likewise Raven must render up 1200 rt in transfer fees (Laudemien) — that makes only 3200 rt so far. — In addition to this I shall see what can be driven in together from the estates by Midsummer in rent, interest and entry monies, in order to raise the 30/m rt thereby, for nothing is to be taken from the other monies, which are to be procured in treasury notes for the discharge of the debts.\n\nAs concerns the matter with Michaelis censured in the 2nd letter, this no longer concerns Your Serene Highness at all, and besides, the Pszczew",
+   "names": [
+    {
+     "de": "Nathan Liepmann",
+     "en": "Nathan Liepmann",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Betſchen",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Echaust",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Raven",
+     "en": "Raven",
+     "kind": "person"
+    },
+    {
+     "de": "Johanni",
+     "en": "Midsummer",
+     "kind": "other"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Betscher",
+     "en": "Pszczew",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "180",
+    "8ten",
+    "18ten",
+    "60000",
+    "2",
+    "6000",
+    "2000",
+    "1200",
+    "3200",
+    "30/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "subjects are to pay it now.\n\nThe story of the miller in Poznań, for whom 1 rt 7 g is said to have to be paid, is entirely unknown to me, and this is a proof of how badly the mandataries serve Your Serene Highness — could I be everywhere at once, no [uncertain: absurdities] of this kind would occur.\n\nRaven's letter is like a piece of knavery — he will have the consent, if the communities have nothing against it, only the fellow refuses to pay the transfer fees, and if he does not do so, then the communities, who must now be answerable for everything, will demand the estate back and pay the value themselves. The Glenck matter I have already most obediently reported to Your Serene Highness in my last, and have given my opinion upon it. — Next Sunday, that is the 11th of this month, Pochammer is invited to Stegelitz to the Privy Cabinet Councillor Mr Beyme, and the business of the loan is to be discussed.\n\nIt is a sad thing that everything drags on so long; thus the valuations have had to go once more to Kalisz, where the Chamber is to make out the certificate and the re-valuation tables, following the approbation, and to deliver them to me. Meanwhile I must sit here to no purpose and wait.\n\nGod grant that the matter be once concluded, for I set everything of mine [uncertain: behind] and yet live to see the most unthinkable misfortune. In deepest respect I remain, until death,\n\nYour Serene Highness's\n\nBerlin, the 8th of May\n\n1806\n\nmost faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "v Raven",
+     "en": "Raven",
+     "kind": "person"
+    },
+    {
+     "de": "Glenckschen",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Pochammer",
+     "en": "Pochammer",
+     "kind": "person"
+    },
+    {
+     "de": "Stegelitz",
+     "en": "Stegelitz",
+     "kind": "place"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "7",
+    "11ten",
+    "8ten",
+    "1806"
+   ]
+  }
+ ],
+ "text_english": "180\n\nMost Serene Prince\n\nMost gracious Prince and Lord, I have had the honour of receiving here, together with the enclosures, Your Most Serene Highness's gracious letters of the 8th and 18th of April. Since the content of the former concerns chiefly the complaint of the Jew Nathan Liepmann, I reply thereto most obediently that his item is already listed in the schedule of all the known liabilities transmitted to Your Most Serene Highness; and that both this Jew and all the creditors shall be satisfied, if Providence [uncertain: blesses] my endeavours. At present nothing can be done but to hold off all these matters in this way. Upon the dismemberment monies, which amount to some 60000 rt, I cannot reckon so quickly, because these are likely to come in very slowly. I must therefore continue, for the meeting of the costs and the payment of the interest, to seek other counsel and to borrow monies for short terms.\n\nSince, however, the Pszczew matter is now entirely concluded, the people there must accordingly now pay, after deduction of the 6000 rt for Echaust, 2000 rt; likewise Raven must render up 1200 rt in transfer fees (Laudemien) — that makes only 3200 rt so far. — In addition to this I shall see what can be driven in together from the estates by Midsummer in rent, interest and entry monies, in order to raise the 30/m rt thereby, for nothing is to be taken from the other monies, which are to be procured in treasury notes for the discharge of the debts.\n\nAs concerns the matter with Michaelis censured in the 2nd letter, this no longer concerns Your Serene Highness at all, and besides, the Pszczew\n\nsubjects are to pay it now.\n\nThe story of the miller in Poznań, for whom 1 rt 7 g is said to have to be paid, is entirely unknown to me, and this is a proof of how badly the mandataries serve Your Serene Highness — could I be everywhere at once, no [uncertain: absurdities] of this kind would occur.\n\nRaven's letter is like a piece of knavery — he will have the consent, if the communities have nothing against it, only the fellow refuses to pay the transfer fees, and if he does not do so, then the communities, who must now be answerable for everything, will demand the estate back and pay the value themselves. The Glenck matter I have already most obediently reported to Your Serene Highness in my last, and have given my opinion upon it. — Next Sunday, that is the 11th of this month, Pochammer is invited to Stegelitz to the Privy Cabinet Councillor Mr Beyme, and the business of the loan is to be discussed.\n\nIt is a sad thing that everything drags on so long; thus the valuations have had to go once more to Kalisz, where the Chamber is to make out the certificate and the re-valuation tables, following the approbation, and to deliver them to me. Meanwhile I must sit here to no purpose and wait.\n\nGod grant that the matter be once concluded, for I set everything of mine [uncertain: behind] and yet live to see the most unthinkable misfortune. In deepest respect I remain, until death,\n\nYour Serene Highness's\n\nBerlin, the 8th of May\n\n1806\n\nmost faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld antwortet, die Forderung des Juden Nathan Liepmann stehe schon in der Designation der Passiva; alle Creditoren sollen befriedigt werden. Auf die Dismembrationsgelder von an 60000 Rthl könne er nicht schnell rechnen und müsse weiter borgen. Nach Ende der Pszczewer Sache sollen die Leute 2000 Rthl, Raven 1200 Rthl Laudemien zahlen; weigert Raven sich, sollen die Gemeinden das Gut zurückfordern. Pochammer soll am 11. bei Beyme über das Anlehn sprechen; die Taxen gehen zurück nach Kalisz.",
  "reading": {

@@ -210,7 +210,136 @@
    "doc_line": 55
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Goldbeck",
+   "kind": "person",
+   "surface_de": "Goldbeck",
+   "surface_en": "Goldbeck",
+   "page": 1
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Blomberg",
+   "kind": "person",
+   "surface_de": "v. Blomberg",
+   "surface_en": "v. Blomberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "zur Höllen",
+   "kind": "person",
+   "surface_de": "zur Höllen",
+   "surface_en": "zur Höllen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Voss",
+   "kind": "person",
+   "surface_de": "v. Voss",
+   "surface_en": "v. Voss",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicern",
+   "surface_en": "Oleśnica",
+   "page": 2
+  },
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schencis",
+   "kind": "person",
+   "surface_de": "Schencis",
+   "surface_en": "Schencis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Winnicki",
+   "kind": "person",
+   "surface_de": "Winnickische",
+   "surface_en": "Winnicki",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -269,9 +398,124 @@
    "doc_line": 52
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "172\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nSince yesterday I have been here at Trąbczyn, in order to press forward the dismemberment business with zeal. A great many people are already here, but as many more are still expected, I have accordingly postponed the principal hearing until next Monday, when I certainly intend to conclude the contracts for all the plots. President v. Goldbeck is now [uncertain: münt] himself noble and upright — He has written to Minister Voss for eight days' leave, in order to go to Wrocław and be able to arrange his household affairs; and on that occasion he says to Mr v. Voss: With regard to the district councillor's minutes submitted to Your Excellency concerning the dismemberment business of the Prince of Hohenlohe, I must yet most humbly observe that the matter has already advanced too far and could not be undone. Upon [uncertain: üherer] examination I have found that the Chamber has already consented to the dismemberment and has issued to the district councillor v. Blomberg the principles pertaining thereto under the 2nd of September of last year. Both in this and in the latter report the departmental councillor, the councillor of war zur Höllen,",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Goldbeck",
+     "en": "Goldbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "v. Blomberg",
+     "en": "v. Blomberg",
+     "kind": "person"
+    },
+    {
+     "de": "zur Höllen",
+     "en": "zur Höllen",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "172",
+    "8",
+    "2",
+    "1805"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "has incurred unpardonable errors and compromised the collegium; whereas the princely manorial lordship (Dominium) has conducted itself better and done more than was required by the Chamber at that time, so that only in a few instances has there been action contrary to the norm.\n\nIn the name of the collegium I beg Your pardon, but at the same time I pledge that, if You will be pleased to grant the consent to the dismemberment of the princely estates, the gross errors of the departmental councillor shall be rectified so far as possible, etc. etc. etc.\n\nThat is indeed all that an honest man can do, and with his approval I am now to proceed briskly and dismember everything at once; for even if Mr v. Voss should wish to raise [uncertain: querden], the Chamber must keep its word and press for the consent. This role has been played masterfully through all the proceedings. With the Oleśnica men I think I shall soon be finished, for today [uncertain: Mona] Kunckel was fetched away by the mounted district constable and, through the mediation of [uncertain: Schencis], put into custody for a considerable time. Now it will be easy play with the 3 lads.\n\nOn account of Szetlewek I shall have a warm day of it tomorrow; God grant success, as in other cases.\n\nToday the Winnicki heirs have again brought suit and demand a further 1300 rt. of outstanding surveying costs. It is truly dreadful how things have been carried on here: the revenues have always been consumed and not a soul has been paid.",
+   "names": [
+    {
+     "de": "v. Voss",
+     "en": "v. Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicern",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Schencis",
+     "en": "Schencis",
+     "kind": "person"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Winnickische",
+     "en": "Winnicki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "1300"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "By this carriage may Your Serene Highness be pleased to have the 6 tables and 30 fruit trees conveyed to the President. I have instructed the man to be sure to say that it all [uncertain: comes] from me — For the rest, may God the All-Good only grant that Amelang does good business, for then all wishes are attained. In deepest reverence I remain, until death, Your Most Serene Highness's Trąbczyn, the 28th of March\n\n1805.\n\nfaithful and most humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "30",
+    "28",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "172\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nSince yesterday I have been here at Trąbczyn, in order to press forward the dismemberment business with zeal. A great many people are already here, but as many more are still expected, I have accordingly postponed the principal hearing until next Monday, when I certainly intend to conclude the contracts for all the plots. President v. Goldbeck is now [uncertain: münt] himself noble and upright — He has written to Minister Voss for eight days' leave, in order to go to Wrocław and be able to arrange his household affairs; and on that occasion he says to Mr v. Voss: With regard to the district councillor's minutes submitted to Your Excellency concerning the dismemberment business of the Prince of Hohenlohe, I must yet most humbly observe that the matter has already advanced too far and could not be undone. Upon [uncertain: üherer] examination I have found that the Chamber has already consented to the dismemberment and has issued to the district councillor v. Blomberg the principles pertaining thereto under the 2nd of September of last year. Both in this and in the latter report the departmental councillor, the councillor of war zur Höllen,\n\nhas incurred unpardonable errors and compromised the collegium; whereas the princely manorial lordship (Dominium) has conducted itself better and done more than was required by the Chamber at that time, so that only in a few instances has there been action contrary to the norm.\n\nIn the name of the collegium I beg Your pardon, but at the same time I pledge that, if You will be pleased to grant the consent to the dismemberment of the princely estates, the gross errors of the departmental councillor shall be rectified so far as possible, etc. etc. etc.\n\nThat is indeed all that an honest man can do, and with his approval I am now to proceed briskly and dismember everything at once; for even if Mr v. Voss should wish to raise [uncertain: querden], the Chamber must keep its word and press for the consent. This role has been played masterfully through all the proceedings. With the Oleśnica men I think I shall soon be finished, for today [uncertain: Mona] Kunckel was fetched away by the mounted district constable and, through the mediation of [uncertain: Schencis], put into custody for a considerable time. Now it will be easy play with the 3 lads.\n\nOn account of Szetlewek I shall have a warm day of it tomorrow; God grant success, as in other cases.\n\nToday the Winnicki heirs have again brought suit and demand a further 1300 rt. of outstanding surveying costs. It is truly dreadful how things have been carried on here: the revenues have always been consumed and not a soul has been paid.\n\nBy this carriage may Your Serene Highness be pleased to have the 6 tables and 30 fruit trees conveyed to the President. I have instructed the man to be sure to say that it all [uncertain: comes] from me — For the rest, may God the All-Good only grant that Amelang does good business, for then all wishes are attained. In deepest reverence I remain, until death, Your Most Serene Highness's Trąbczyn, the 28th of March\n\n1805.\n\nfaithful and most humble and obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld betreibt in Trąbczyn die Dismembration. Er hat den Haupttermin auf Montag verschoben und will dann die Contracte über alle Gründe abschließen. Er zitiert einen Brief des Präsidenten v. Goldbeck an Minister Voss: Die Kammer habe bereits eingewilligt, Krieges Rath zur Höllen habe Fehler begangen, und diese sollen, wenn Voss den Consens erteilt, nach Möglichkeit berichtigt werden. Kunckel von den Olesnicern ist in Verwahrung gebracht worden. Wegen Szetlewek erwartet Triebenfeld einen schweren Tag.",
  "reading": {

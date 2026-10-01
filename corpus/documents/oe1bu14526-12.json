@@ -579,6 +579,17 @@
    "scan": "Oe_1_Bu_14526_0073_a1-L12_02.jpg",
    "line": 3817,
    "doc_line": 67
+  },
+  {
+   "entity": "sommerfeld",
+   "display": "Sommerfeld",
+   "kind": "place",
+   "surface": "Sommerfeld",
+   "page": 5,
+   "page_id": "0074_a2",
+   "scan": "Oe_1_Bu_14526_0074_a2-L12_05.jpg",
+   "line": 3920,
+   "doc_line": 167
   }
  ],
  "translation_status": "draft",

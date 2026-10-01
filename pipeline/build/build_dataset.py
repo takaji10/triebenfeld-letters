@@ -206,6 +206,15 @@ def main():
                             f'-{p["doc_line_start"] + b}')
         if side:
             body.append('\n--- WRITTEN SIDEWAYS ON THE PAGE ---\n' + '\n'.join(side))
+        # The same for text the receiving office wrote on the letter.
+        office = []
+        for p in (r.get('pages') or []):
+            ks = p.get('office_lines') or []
+            if ks:
+                office.append(f'page {p["page"]}, lines {p["doc_line_start"] + ks[0]}'
+                              f'-{p["doc_line_start"] + ks[-1]}')
+        if office:
+            body.append('\n--- WRITTEN BY THE RECEIVING OFFICE ---\n' + '\n'.join(office))
         if sum_de:
             body.append('\n--- SUMMARY (German) ---\n' + sum_de)
         if sum_en:

@@ -175,7 +175,80 @@
    "doc_line": 33
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Rochlitz matter",
+   "kind": "other",
+   "surface_de": "Rochlitzsche Sache",
+   "surface_en": "the Rochlitz matter",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 1
+  },
+  {
+   "entity": "melzig",
+   "display": "Melzig",
+   "kind": "person",
+   "surface_de": "Melzig",
+   "surface_en": "Melzig",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "The Polish matters",
+   "kind": "other",
+   "surface_de": "Pohlinische Sachen",
+   "surface_en": "The Polish matters",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -201,9 +274,76 @@
    "doc_line": 29
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "71\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe Rochlitz matter has now been set in train, as the enclosure shows, and Your Most Serene Highness will, as I confidently hope, have nothing to pay. This is a knavish swindle; the thief wanted to push it through in secret so as to defraud Your Most Serene Highness. Nothing of it had ever come before my eyes. That I dismissed the fellow in the year 1804 Glenck knows very well. He must bear witness to it as well. I gave him notice at that time in my capacity as general attorney, and dismissed him. Whether Your Serene Highness may perhaps afterwards, without my knowledge, have promised him anything is simply unknown to me, and neither do I credit the building councillor Glenck with having afterwards secretly given the rogue any assurance. I can swear with a true heart that I then removed Rochlitz from his post and called in the accounts, which he however refused to render to me.\n\nMay Your Serene Highness deign to send me at the very earliest two or three blank forms for powers of attorney in litigation - that is to say, merely three printed powers of attorney in litigation, signed and sealed - so that Melzig may prosecute the Rochlitz matter and may also call in the outstanding arrears for Your Serene Highness. They amount certainly to some 18000 rt and are entirely liquid. Tomorrow or the day after I expect Honrichs",
+   "names": [
+    {
+     "de": "Rochlitzsche Sache",
+     "en": "the Rochlitz matter",
+     "kind": "other"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Melzig",
+     "en": "Melzig",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "71",
+    "1804",
+    "18000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "this matter is now of the utmost importance; once it is in the proper and secure track, then I shall come at once to Sławięcice — In deepest reverence I remain, until death, Your Most Serene Highness's The Polish matters will very much still I count especially Konotop\n\nthe 30th of March\n\n1810 most faithful and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlinische Sachen",
+     "en": "The Polish matters",
+     "kind": "other"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "71\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe Rochlitz matter has now been set in train, as the enclosure shows, and Your Most Serene Highness will, as I confidently hope, have nothing to pay. This is a knavish swindle; the thief wanted to push it through in secret so as to defraud Your Most Serene Highness. Nothing of it had ever come before my eyes. That I dismissed the fellow in the year 1804 Glenck knows very well. He must bear witness to it as well. I gave him notice at that time in my capacity as general attorney, and dismissed him. Whether Your Serene Highness may perhaps afterwards, without my knowledge, have promised him anything is simply unknown to me, and neither do I credit the building councillor Glenck with having afterwards secretly given the rogue any assurance. I can swear with a true heart that I then removed Rochlitz from his post and called in the accounts, which he however refused to render to me.\n\nMay Your Serene Highness deign to send me at the very earliest two or three blank forms for powers of attorney in litigation - that is to say, merely three printed powers of attorney in litigation, signed and sealed - so that Melzig may prosecute the Rochlitz matter and may also call in the outstanding arrears for Your Serene Highness. They amount certainly to some 18000 rt and are entirely liquid. Tomorrow or the day after I expect Honrichs\n\nthis matter is now of the utmost importance; once it is in the proper and secure track, then I shall come at once to Sławięcice — In deepest reverence I remain, until death, Your Most Serene Highness's The Polish matters will very much still I count especially Konotop\n\nthe 30th of March\n\n1810 most faithful and obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Die Rochlitzsche Sache ist eingeleitet. Triebenfeld hofft, dass der Fürst nichts zahlen muss, und nennt sie eine Prellerei. Er habe Rochlitz 1804 als Generalbevollmächtigter abgesetzt, was Glenck bezeugen könne. Er bittet dringend um zwei bis drei unterschriebene und gesiegelte gedruckte Prozessvollmachten, damit Melzig die Sache betreiben und ausstehende Reste von an 18000 Rthl einfordern kann. Er erwartet Honrichs und will nach Sławięcice kommen, sobald die Sache in sicherem Geleise ist.",
  "reading": {

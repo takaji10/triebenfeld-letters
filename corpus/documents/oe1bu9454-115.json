@@ -157,7 +157,96 @@
    "doc_line": 40
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "schlabrendorff",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sch:",
+   "kind": "person",
+   "surface_de": "Sch:",
+   "surface_en": "Sch:",
+   "page": 2
+  },
+  {
+   "entity": "asch",
+   "display": "Asch",
+   "kind": "person",
+   "surface_de": "Asch",
+   "surface_en": "Asch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count in Stolze",
+   "kind": "other",
+   "surface_de": "Grafe in Stolze",
+   "surface_en": "Count in Stolze",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffen",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lądek",
+   "kind": "place",
+   "surface_de": "Lądek",
+   "surface_en": "Lądek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hirsch",
+   "kind": "person",
+   "surface_de": "Hirsch",
+   "surface_en": "Hirsch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -194,9 +283,87 @@
    "doc_line": 37
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "115\n\nMost Serene Prince\n\nMost gracious Prince and Lord, just now my tenant from Świniary has sent in and begs me urgently to come out for a moment and to bring the peasants into order, who will not obey him but mean to refuse their services. I must now hasten thither to prevent mischief. Your Most Serene Highness will most graciously forgive me that today, on account of this matter, I do not appear at the midday meal. With the Minister I have spoken today concerning Schlabrendorff. Frankly said, he seems to take it somewhat amiss that Your Most Serene Highness will tell him nothing, for I believe he expected that yesterday — [uncertain: rech] but I find it good that Your Highness tells him nothing; one can first see what he will do.\n\nHe has written to Schlabrendorff that on the 15th of the [uncertain: daß]",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "115",
+    "15"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "month he is to be here; he has to speak with him in the matter in question — for the present he lays it on his heart to withdraw all complaint at once, for people are watching him so closely that not the least thing would remain undiscovered, and if one were to find a Groschen's worth of blemish in the affair he could be assured that it might go badly for him.\n\nHe, the Minister, could not afterwards save him, Sch:, even with the best will; indeed he would then have to deny outright that he is related to him by ties of blood, etc.\n\nAsch he had with him today and told him all this by word of mouth, so that it might be laid further upon the heart of the Count in Stolze, whither Asch goes the day after tomorrow; in particular he is by all means to prevail upon Schlabrendorff to be here on the 15th of this month.\n\nI go tomorrow to Lądek, but shall quite certainly be here again on the 15th too, and then I shall harness Hirsch in alongside — In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, the 3rd of August\n\n1802\n\nfaithful humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Sch:",
+     "en": "Sch:",
+     "kind": "person"
+    },
+    {
+     "de": "Asch",
+     "en": "Asch",
+     "kind": "person"
+    },
+    {
+     "de": "Grafe in Stolze",
+     "en": "Count in Stolze",
+     "kind": "other"
+    },
+    {
+     "de": "Schlabrendorffen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Lądek",
+     "en": "Lądek",
+     "kind": "place"
+    },
+    {
+     "de": "Hirsch",
+     "en": "Hirsch",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15",
+    "15",
+    "3",
+    "1802"
+   ]
+  }
+ ],
+ "text_english": "115\n\nMost Serene Prince\n\nMost gracious Prince and Lord, just now my tenant from Świniary has sent in and begs me urgently to come out for a moment and to bring the peasants into order, who will not obey him but mean to refuse their services. I must now hasten thither to prevent mischief. Your Most Serene Highness will most graciously forgive me that today, on account of this matter, I do not appear at the midday meal. With the Minister I have spoken today concerning Schlabrendorff. Frankly said, he seems to take it somewhat amiss that Your Most Serene Highness will tell him nothing, for I believe he expected that yesterday — [uncertain: rech] but I find it good that Your Highness tells him nothing; one can first see what he will do.\n\nHe has written to Schlabrendorff that on the 15th of the [uncertain: daß]\n\nmonth he is to be here; he has to speak with him in the matter in question — for the present he lays it on his heart to withdraw all complaint at once, for people are watching him so closely that not the least thing would remain undiscovered, and if one were to find a Groschen's worth of blemish in the affair he could be assured that it might go badly for him.\n\nHe, the Minister, could not afterwards save him, Sch:, even with the best will; indeed he would then have to deny outright that he is related to him by ties of blood, etc.\n\nAsch he had with him today and told him all this by word of mouth, so that it might be laid further upon the heart of the Count in Stolze, whither Asch goes the day after tomorrow; in particular he is by all means to prevail upon Schlabrendorff to be here on the 15th of this month.\n\nI go tomorrow to Lądek, but shall quite certainly be here again on the 15th too, and then I shall harness Hirsch in alongside — In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, the 3rd of August\n\n1802\n\nfaithful humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld entschuldigt sein Fernbleiben vom Mittag: Sein Pächter in Świniary bittet ihn dringend, die Bauern zur Ordnung zu bringen, die die Dienste verweigern. Der Minister scheine es wegen Schlabrendorff etwas krumm zu nehmen, dass der Fürst ihm nichts sage. Er habe Schlabrendorff zum 15. herbestellt und ihm geraten, alle Klagen zurückzunehmen, sonst könne er ihn nicht retten. Auch Asch soll ihn dazu bewegen. Triebenfeld geht nach Lądek, will aber am 15. zurück sein und Hirsch hinzuziehen.",
  "reading": {

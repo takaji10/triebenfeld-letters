@@ -198,7 +198,200 @@
    "doc_line": 50
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "prinz-adolph",
+   "display": "Prinz Adolph",
+   "kind": "person",
+   "surface_de": "Adolphsche",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr Cosmar",
+   "kind": "person",
+   "surface_de": "H. Cosmar",
+   "surface_en": "Mr Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "H",
+   "kind": "person",
+   "surface_de": "H",
+   "surface_en": "H",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oppurg",
+   "kind": "place",
+   "surface_de": "Oppurg",
+   "surface_en": "Oppurg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barben",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince",
+   "kind": "other",
+   "surface_de": "Fürst",
+   "surface_en": "Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Most gracious Lord",
+   "kind": "other",
+   "surface_de": "Gnädigsten Herr",
+   "surface_en": "Most gracious Lord",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Chancellor",
+   "kind": "other",
+   "surface_de": "Kanzler",
+   "surface_en": "Chancellor",
+   "page": 2
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince H",
+   "kind": "person",
+   "surface_de": "F H",
+   "surface_en": "Prince H",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince",
+   "kind": "other",
+   "surface_de": "Fürst",
+   "surface_en": "Prince",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Euer Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien[?]",
  "place_mentions": [
   {
@@ -257,9 +450,175 @@
    "doc_line": 13
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "13\n\nFor Your Serene Highness alone.\n\nThe matter has not been put into the protocol in the best way; important things have been passed over and others, which do not belong in the account, have been dragged in with particular thoroughness — such is the Adolph affair — Mr Cosmar shortened it, and one subject and another, so that he is everywhere lost of his own accord. It was not necessary to make the business so long-winded on that account — Only, as I observe, the good Hahn wants Adolph to be wrested from the hands of the villain, that the King should thereafter declare Adolph of age [uncertain: Majoram], and then Adolph is to buy Koszęcin — Koszęcin lies very much at H's heart — he writes that it yields 55/m Rthl annually — [uncertain: gefaß] let everyone play with his own doll, I shall act — But the question does arise here all the same — is Koszęcin larger, better, and now so much to be preferred to Sławięcice, which with Oppurg is said to yield barely 40000 Rthl? It is very [uncertain: schleun] that people change their opinions too often — Grant, and God, that Pourtalès writes soon, for then another side will be taken up again. Now to my own affair.\n\nMuch has been lost on the papers; they stand frightfully low here and fall daily, one gets almost nothing more for them; the ducat is already worth over 15 fl and our thaler five fl less 20 kreuzer — Nearly 400 Rthl of the 300 Rthl are lost. To Barbe I owe 145 # in cash — I absolutely must have a coat and an overcoat made for me, since my elbows are already [uncertain: Bubken] out; the ell of good middling cloth costs over 60 fl, the tailor asks some 38 #, which is already 183 #. If you now send a further 200 #, there remain to me 17 # travelling money — for the lungs, or properly the 1100 fl in paper money, will soon be eaten up. Tomorrow the Prince is having 100 # given me as an advance, with which I shall bring Barbe to some degree of quiet. But I must give a written undertaking that I shall hand the 100 # advance over here at the treasury — and here one's word must be kept. I therefore beg Your Serene Highness, for God's sake, do send me the 200 # as soon as possible, for otherwise I lose all credit with the men who alone can help and ought to help. Have mercy, Your Serene Highness, and do send the 200 #, and also, as soon as possible, 2 blank sheets signed in French — I shall [uncertain: dritte] well need the same.\n\n21 February 1815 [von Triebenfeld]",
+   "names": [
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Adolphsche",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "H. Cosmar",
+     "en": "Mr Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "H",
+     "en": "H",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Oppurg",
+     "en": "Oppurg",
+     "kind": "place"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Barben",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst",
+     "en": "Prince",
+     "kind": "other"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "13",
+    "55/m",
+    "40000",
+    "15",
+    "20",
+    "400",
+    "300",
+    "145",
+    "60",
+    "38",
+    "183",
+    "200",
+    "17",
+    "1100",
+    "100",
+    "100",
+    "200",
+    "200",
+    "2",
+    "21",
+    "1815"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Most gracious Lord, it is now 3 1/2 weeks that I have not seen a syllable from you, and for over 3 weeks I have been living like the hardest-used prisoner on water and bread, and daily 2 cups of a black [uncertain: hafft] without sugar or milk. May I never behold God's countenance if this is not true. I already go about like a [uncertain: Gerize] — of my illness I am for the most part recovered, but very weak, and now I am starving — God only preserve me from a relapse. Help me soon, or I shall succumb to the two of them. Barbe commends himself to you most respectfully — He has promised me to procure the money for the redemption of the papers — [text lost] have great distress on that account; if the Chancellor requires it, then the papers must be submitted quickly, and that will be seen to in a couple of days — as for what Eberhard thinks, that the King should take the debt upon himself alone, that will not happen — But what will be necessary will be given up, and from that go off the 114000 Rthl which you have lost since 1800 — B has spoken very nervously about it with the Prince H — the Prince [uncertain: haft] to procure you on [uncertain: dieſon] an annual 6/m, indeed perhaps 7 — and of that to save the half — that would be a fine little capital — This is to remain secret, so that no evil spirit sinks its claws in — People talk wondrous stuff, and still [uncertain: Vollerns] goes on here — had I the opportunity, I could write much.\n\nThe good Barbe has found another translator, who will translate the whole records for 15 ducats, and he means to give them to him tomorrow. But let Your Serene Highness see to it that the man is satisfied. He certainly helps much, is [illegible] and good — from Pourtalès there is still no further answer here; B expects such next week.",
+   "names": [
+    {
+     "de": "Gnädigsten Herr",
+     "en": "Most gracious Lord",
+     "kind": "other"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Kanzler",
+     "en": "Chancellor",
+     "kind": "other"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "B",
+     "en": "B",
+     "kind": "person"
+    },
+    {
+     "de": "F H",
+     "en": "Prince H",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst",
+     "en": "Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Euer Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3 1/2",
+    "3",
+    "2",
+    "114000",
+    "1800",
+    "6/m",
+    "7",
+    "15"
+   ]
+  }
+ ],
+ "text_english": "13\n\nFor Your Serene Highness alone.\n\nThe matter has not been put into the protocol in the best way; important things have been passed over and others, which do not belong in the account, have been dragged in with particular thoroughness — such is the Adolph affair — Mr Cosmar shortened it, and one subject and another, so that he is everywhere lost of his own accord. It was not necessary to make the business so long-winded on that account — Only, as I observe, the good Hahn wants Adolph to be wrested from the hands of the villain, that the King should thereafter declare Adolph of age [uncertain: Majoram], and then Adolph is to buy Koszęcin — Koszęcin lies very much at H's heart — he writes that it yields 55/m Rthl annually — [uncertain: gefaß] let everyone play with his own doll, I shall act — But the question does arise here all the same — is Koszęcin larger, better, and now so much to be preferred to Sławięcice, which with Oppurg is said to yield barely 40000 Rthl? It is very [uncertain: schleun] that people change their opinions too often — Grant, and God, that Pourtalès writes soon, for then another side will be taken up again. Now to my own affair.\n\nMuch has been lost on the papers; they stand frightfully low here and fall daily, one gets almost nothing more for them; the ducat is already worth over 15 fl and our thaler five fl less 20 kreuzer — Nearly 400 Rthl of the 300 Rthl are lost. To Barbe I owe 145 # in cash — I absolutely must have a coat and an overcoat made for me, since my elbows are already [uncertain: Bubken] out; the ell of good middling cloth costs over 60 fl, the tailor asks some 38 #, which is already 183 #. If you now send a further 200 #, there remain to me 17 # travelling money — for the lungs, or properly the 1100 fl in paper money, will soon be eaten up. Tomorrow the Prince is having 100 # given me as an advance, with which I shall bring Barbe to some degree of quiet. But I must give a written undertaking that I shall hand the 100 # advance over here at the treasury — and here one's word must be kept. I therefore beg Your Serene Highness, for God's sake, do send me the 200 # as soon as possible, for otherwise I lose all credit with the men who alone can help and ought to help. Have mercy, Your Serene Highness, and do send the 200 #, and also, as soon as possible, 2 blank sheets signed in French — I shall [uncertain: dritte] well need the same.\n\n21 February 1815 [von Triebenfeld]\n\nMost gracious Lord, it is now 3 1/2 weeks that I have not seen a syllable from you, and for over 3 weeks I have been living like the hardest-used prisoner on water and bread, and daily 2 cups of a black [uncertain: hafft] without sugar or milk. May I never behold God's countenance if this is not true. I already go about like a [uncertain: Gerize] — of my illness I am for the most part recovered, but very weak, and now I am starving — God only preserve me from a relapse. Help me soon, or I shall succumb to the two of them. Barbe commends himself to you most respectfully — He has promised me to procure the money for the redemption of the papers — [text lost] have great distress on that account; if the Chancellor requires it, then the papers must be submitted quickly, and that will be seen to in a couple of days — as for what Eberhard thinks, that the King should take the debt upon himself alone, that will not happen — But what will be necessary will be given up, and from that go off the 114000 Rthl which you have lost since 1800 — B has spoken very nervously about it with the Prince H — the Prince [uncertain: haft] to procure you on [uncertain: dieſon] an annual 6/m, indeed perhaps 7 — and of that to save the half — that would be a fine little capital — This is to remain secret, so that no evil spirit sinks its claws in — People talk wondrous stuff, and still [uncertain: Vollerns] goes on here — had I the opportunity, I could write much.\n\nThe good Barbe has found another translator, who will translate the whole records for 15 ducats, and he means to give them to him tomorrow. But let Your Serene Highness see to it that the man is satisfied. He certainly helps much, is [illegible] and good — from Pourtalès there is still no further answer here; B expects such next week.",
  "summary_en": "",
  "summary_de": "Triebenfeld bittet dringend um 200 # und 2 französisch unterzeichnete Blanquets. Er schuldet Barbe 145 # und braucht einen Rock, die Papiere verlieren stark an Wert. Der Fürst will ihm 100 # Vorschuss geben lassen, gegen Rückzahlung an die Casse. Seit 3 1/2 Wochen ohne Nachricht, lebt er von Wasser und Brot. Laut Bericht will H., dass Adolph Koszęcin kauft, das 55/m Rthl jährlich trage. Triebenfeld vergleicht es mit Sławięcice.",
  "reading": {

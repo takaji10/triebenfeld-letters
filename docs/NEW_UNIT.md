@@ -77,6 +77,28 @@ If the transcriptions arrive already matched to their scans — one file per pag
 a great deal**: 14526 paired 287 of 288 pages with no review at all, against 865
 done by hand for the holding that had to be reconstructed.
 
+### A file the office wrote on
+
+How to read such a file (registry marks, paraphs, who signs what) is in
+`docs/GOVERNMENT_FILES.md`. Read it before the first correction pass.
+
+A ministry file (III. HA MdA, III Nr. 12765 was the first) keeps incoming
+letters with the office's own writing on them, photographed as openings:
+
+- **One page per written side.** `review_folds.py` lets the editor place the
+  fold on every opening; a side with no writing is moved out of `processed/`
+  before staging. Transcriptions arrive one per scan, so they are cut into one
+  file per side, and the record of which source line went where is kept as a
+  script in `units/<slug>/intake/`.
+- **A reply drafted on a petitioner's page is its own document**, starting
+  partway down that page (`first_line` in the boundaries sheet).
+- **Shorter marks by the receiving office** go to the end of that document's
+  part of the page and are listed in `units/<slug>/office_notes.yml`, the same
+  shape as `sideways.yml`. The site sets them apart under a label.
+- **Pages transcribed by paragraph** are listed in `rulings.yml` under
+  `pages: by_paragraph:`. Every line then begins a paragraph, and the page
+  says how it was transcribed.
+
 ## 2. Build, and read what it says
 
 ```

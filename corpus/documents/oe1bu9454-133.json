@@ -354,7 +354,256 @@
    "doc_line": 94
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Brandenstein, Baron",
+   "kind": "person",
+   "surface_de": "Baron von Brandenstein",
+   "surface_en": "von Brandenstein, Baron",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Harlem",
+   "kind": "other",
+   "surface_de": "Harlemschen",
+   "surface_en": "Harlem",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Cassen",
+   "surface_en": "Invalids' Fund",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stubenrauch",
+   "kind": "person",
+   "surface_de": "Stubenrauch",
+   "surface_en": "Stubenrauch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "G.",
+   "kind": "person",
+   "surface_de": "G.",
+   "surface_en": "G.",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt",
+   "kind": "place",
+   "surface_de": "Frankfürthen",
+   "surface_en": "Frankfurt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "H. Beyme",
+   "surface_en": "Beyme",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "F. H.",
+   "surface_en": "the Prince of Hohenlohe",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Majesty",
+   "kind": "person",
+   "surface_de": "E. M.",
+   "surface_en": "Your Majesty",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Majesty",
+   "kind": "person",
+   "surface_de": "[C?]. M.",
+   "surface_en": "Your Majesty",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "H. M.",
+   "surface_en": "His Majesty",
+   "page": 3
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Koltzig-Rohde[?]",
+   "kind": "other",
+   "surface_de": "Koltzig-Rohde[?]",
+   "surface_en": "Koltzig-Rohde[?]",
+   "page": 4
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 4
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beymes",
+   "surface_en": "Beyme",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Haugwitz, Count",
+   "kind": "person",
+   "surface_de": "Graf Haugwitz",
+   "surface_en": "Haugwitz, Count",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 5
+  }
+ ],
  "place_canonical": "Frankfurt an der Oder",
  "place_mentions": [
   {
@@ -468,9 +717,224 @@
    "doc_line": 90
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "133\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI could almost despair over all the wretched business that I find here at every turn, and God knows whether I shall be able to redress it all and steer it to the best.\n\n1. In all of it nothing has been done, and Glenck is not in a position to show me one Rthl's worth securely.\n\n2. Leixner has been secretly at Pszczew, and on account of all the fraud and trickery prevailing there is so shy of the thing that he would gladly give up the contract and renounce everything at once — only with the greatest effort can he be made to stand by the remainder and now to keep to the payments engaged for.\n\n3. He will on no account enter into any connection concerning Kamionna; I am to furnish him the warranty of title against eviction for a profit of 30/m Rthl and also to procure the right of residence for him. This I cannot promise. I am willing to guarantee against all loss if he gives 160/m Rthl for Kamionna, but with that he is not content.\n\n4. He wishes the partnership contract entered into with Glenck",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "133",
+    "1",
+    "2",
+    "3",
+    "4",
+    "30/m",
+    "160/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "contract at the Pszczew sale to be cancelled — for Glenck has had a third of the profit and a demesne farm secured to himself in the most permanent manner for the Baron von Brandenstein; this I simply cannot promise, and for that the people release nothing at all.\n\n5. With the Chamber of the Order nothing has happened, and therefore nothing is to be paid upon it.\n\n6. The Harlem purchase is likewise not to be thought of, for this plan appears to be wholly at home in the world of ideas.\n\n7. As for the loan of the 100/m Rthl from the Invalids' Fund there is likewise no security, but everything rests upon [illegible] But now, in order to attempt the last, I am going back to Berlin, having sat here three days in vain at Frankfurt an der Oder and waited for Glenck.\n\nI shall see whether, with the assistance of Amelang, I can conclude something with old Stubenrauch — he is an honest man and I hope the matter should go forward, if I furnish him the warranty of title against eviction for the shortfall —",
+   "names": [
+    {
+     "de": "Betscher",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Baron von Brandenstein",
+     "en": "von Brandenstein, Baron",
+     "kind": "person"
+    },
+    {
+     "de": "Harlemschen",
+     "en": "Harlem",
+     "kind": "other"
+    },
+    {
+     "de": "Invaliden Cassen",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Frankfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Stubenrauch",
+     "en": "Stubenrauch",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5",
+    "6",
+    "7",
+    "100/m",
+    "3"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Further, I will see for myself whether the loan from the Invalids' Fund may be obtained in any manner whatever. — If I withdraw in Berlin, then G. and the Frankfurt partnership associates may break their necks — For the rest, things looked bare in Berlin — Mr Beyme had laid the compensation petition before [the King] — At the presentation his address was short: A part of the estates which had been conferred upon the Prince of Hohenlohe have been taken from him again. He asks for compensation. He wants estates; those Your Majesty cannot give him — In place of that he wants 100000 Rthl as a gift, or he wants 200000 Rthl lent for 20 years without interest — the request for money Your Majesty will not be able to grant in the present course of the times, since one does not know how everything will turn out. Cases might easily arise in which Your Majesty might need all the money more than most urgently.\n\nMy counsel is that Your Majesty compensate him in this fashion: The Prince still owes His Majesty a large sum of more than 200000 Rthl, which he borrowed for Dutch claims that were refused — Let Your Majesty make him a gift of this",
+   "names": [
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G.",
+     "en": "G.",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfürthen",
+     "en": "Frankfurt",
+     "kind": "place"
+    },
+    {
+     "de": "H. Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "F. H.",
+     "en": "the Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "E. M.",
+     "en": "Your Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "[C?]. M.",
+     "en": "Your Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "H. M.",
+     "en": "His Majesty",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100000",
+    "200000",
+    "20",
+    "200000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "then you will receive nothing back in your lifetime, and the important business of compensation is settled.\n\nOld Köckritz, please, who greets Your [Serene Highness] most cordially, has told me this between four eyes — the answer was being worked up in that sense. I have, God be thanked, turned it about, and Köckritz votes for Koltzig-Rohde[?]; he will say everything about this [himself]. Amelang knew nothing of any of it — he almost [illegible], and will surely no longer boast of the friendship of his Mr Beyme — Köckritz is and remains an honest man, if only he would work more for men of integrity — It is certain that if we have war Your Serene Highness will receive the command.\n\nAmelang admitted that Beyme had said to him — If only I did not have to spare the Prince on account of the [uncertain: Leitischen Laagen], while we live — I would dismiss him in such a manner that he should never come again — but as it is one must handle him with care, for if we get war there is no one besides him to whom the army can be entrusted — the Russian ministry is sitting on our neck, and soon the alliance between Russia and Austria will be concluded. Then we shall have to do as these wish; Köckritz thinks the King would [text lost]",
+   "names": [
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Koltzig-Rohde[?]",
+     "en": "Koltzig-Rohde[?]",
+     "kind": "other"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Beymes",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4"
+   ]
+  },
+  {
+   "page": 5,
+   "en": "refuse — Meanwhile little more is to be built upon our steadfastness. Count Haugwitz will probably be put in [uncertain: the shade]; it is certain that he too will not come back by the first of July. I remain, until death, Your Serene Highness's Frankfurt an der Oder\n\nthe 23rd of May 1804 most faithful servant von Triebenfeld",
+   "names": [
+    {
+     "de": "Graf Haugwitz",
+     "en": "Haugwitz, Count",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "23ten",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "133\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI could almost despair over all the wretched business that I find here at every turn, and God knows whether I shall be able to redress it all and steer it to the best.\n\n1. In all of it nothing has been done, and Glenck is not in a position to show me one Rthl's worth securely.\n\n2. Leixner has been secretly at Pszczew, and on account of all the fraud and trickery prevailing there is so shy of the thing that he would gladly give up the contract and renounce everything at once — only with the greatest effort can he be made to stand by the remainder and now to keep to the payments engaged for.\n\n3. He will on no account enter into any connection concerning Kamionna; I am to furnish him the warranty of title against eviction for a profit of 30/m Rthl and also to procure the right of residence for him. This I cannot promise. I am willing to guarantee against all loss if he gives 160/m Rthl for Kamionna, but with that he is not content.\n\n4. He wishes the partnership contract entered into with Glenck\n\ncontract at the Pszczew sale to be cancelled — for Glenck has had a third of the profit and a demesne farm secured to himself in the most permanent manner for the Baron von Brandenstein; this I simply cannot promise, and for that the people release nothing at all.\n\n5. With the Chamber of the Order nothing has happened, and therefore nothing is to be paid upon it.\n\n6. The Harlem purchase is likewise not to be thought of, for this plan appears to be wholly at home in the world of ideas.\n\n7. As for the loan of the 100/m Rthl from the Invalids' Fund there is likewise no security, but everything rests upon [illegible] But now, in order to attempt the last, I am going back to Berlin, having sat here three days in vain at Frankfurt an der Oder and waited for Glenck.\n\nI shall see whether, with the assistance of Amelang, I can conclude something with old Stubenrauch — he is an honest man and I hope the matter should go forward, if I furnish him the warranty of title against eviction for the shortfall —\n\nFurther, I will see for myself whether the loan from the Invalids' Fund may be obtained in any manner whatever. — If I withdraw in Berlin, then G. and the Frankfurt partnership associates may break their necks — For the rest, things looked bare in Berlin — Mr Beyme had laid the compensation petition before [the King] — At the presentation his address was short: A part of the estates which had been conferred upon the Prince of Hohenlohe have been taken from him again. He asks for compensation. He wants estates; those Your Majesty cannot give him — In place of that he wants 100000 Rthl as a gift, or he wants 200000 Rthl lent for 20 years without interest — the request for money Your Majesty will not be able to grant in the present course of the times, since one does not know how everything will turn out. Cases might easily arise in which Your Majesty might need all the money more than most urgently.\n\nMy counsel is that Your Majesty compensate him in this fashion: The Prince still owes His Majesty a large sum of more than 200000 Rthl, which he borrowed for Dutch claims that were refused — Let Your Majesty make him a gift of this\n\nthen you will receive nothing back in your lifetime, and the important business of compensation is settled.\n\nOld Köckritz, please, who greets Your [Serene Highness] most cordially, has told me this between four eyes — the answer was being worked up in that sense. I have, God be thanked, turned it about, and Köckritz votes for Koltzig-Rohde[?]; he will say everything about this [himself]. Amelang knew nothing of any of it — he almost [illegible], and will surely no longer boast of the friendship of his Mr Beyme — Köckritz is and remains an honest man, if only he would work more for men of integrity — It is certain that if we have war Your Serene Highness will receive the command.\n\nAmelang admitted that Beyme had said to him — If only I did not have to spare the Prince on account of the [uncertain: Leitischen Laagen], while we live — I would dismiss him in such a manner that he should never come again — but as it is one must handle him with care, for if we get war there is no one besides him to whom the army can be entrusted — the Russian ministry is sitting on our neck, and soon the alliance between Russia and Austria will be concluded. Then we shall have to do as these wish; Köckritz thinks the King would [text lost]\n\nrefuse — Meanwhile little more is to be built upon our steadfastness. Count Haugwitz will probably be put in [uncertain: the shade]; it is certain that he too will not come back by the first of July. I remain, until death, Your Serene Highness's Frankfurt an der Oder\n\nthe 23rd of May 1804 most faithful servant von Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld berichtet vom Scheitern der Geschäfte: Glenck kann nichts nachweisen; Leixner, durch Betrug in Pszczew abgeschreckt, soll die Zahlungen halten, verlangt für Kamionna Eviction und Incolat sowie die Aufhebung des Societätskontrakts mit Glenck. Das Darlehen von 100/m Rthl der Invalidenkasse ist unsicher. Triebenfeld will in Berlin mit Amelang bei Stubenrauch abschließen. Beyme habe das Entschädigungsgesuch des Fürsten vorgetragen und geraten, ihm Schulden über 200000 Rthl zu erlassen. Im Kriegsfall erhalte der Fürst das Kommando.",
  "reading": {

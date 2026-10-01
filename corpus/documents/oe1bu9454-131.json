@@ -133,7 +133,112 @@
    "doc_line": 34
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koltzig",
+   "kind": "place",
+   "surface_de": "Koltzig",
+   "surface_en": "Koltzig",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Broniewski affair",
+   "kind": "other",
+   "surface_de": "Broniewskische Sache",
+   "surface_en": "Broniewski affair",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mell[uncertain: itz]",
+   "kind": "person",
+   "surface_de": "Mell[itz?]",
+   "surface_en": "Mell[uncertain: itz]",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -192,9 +297,96 @@
    "doc_line": 31
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "131\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI have been here in Berlin since yesterday and have already searched out everything where springs of comfort were supposed to flow. Unhappily, however, I find nothing but puddles, out of which swindling and malice well up — All the prospects and views painted here are devilish lies — Your Most Serene Highness would, had I not come here, have been taken in for ever. — For from here there was not a heller to be counted upon.\n\nThings now stand thus — Tomorrow evening / that is, the 20th / I go back to Frankfurt an der Oder and conclude, if everything else remains as it is, with Leixner concerning Kamionna, and secure the monies needful on account of Koszęcin, though I should have to pledge my salvation along with it. Here I shall set everything in train so that Your Serene Highness obtains Koltzig or the loan. More hope, however, is given for the estates, since the King has no inclination to give money away / for Russia absolutely wants war /. Matters stand here so strangely that every honest man shakes his head. Meanwhile more than everything can be contrived",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frankfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Koltzig",
+     "en": "Koltzig",
+     "kind": "place"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "131",
+    "20ten"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "As to the Broniewski affair, matters have come so far that, if the causae arresti are proven, the arrest is to be accepted — In this matter too as good as nothing has been done, notwithstanding how highly the thing is cried up — Upon the causae arresti it cannot [be done] without 2000 rt in f. d'or — had Mell[uncertain: itz] and Glenck long since called this by its right name, then this would long since have been decided and known without all the business. The post is about to go; I shall faithfully settle everything for the best, which is averred by\n\nYour Most Serene Highness's\n\nBerlin, the 19th of May\n\n1804.\n\nmost faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Broniewskische Sache",
+     "en": "Broniewski affair",
+     "kind": "other"
+    },
+    {
+     "de": "Mell[itz?]",
+     "en": "Mell[uncertain: itz]",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "19 ten",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "131\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI have been here in Berlin since yesterday and have already searched out everything where springs of comfort were supposed to flow. Unhappily, however, I find nothing but puddles, out of which swindling and malice well up — All the prospects and views painted here are devilish lies — Your Most Serene Highness would, had I not come here, have been taken in for ever. — For from here there was not a heller to be counted upon.\n\nThings now stand thus — Tomorrow evening / that is, the 20th / I go back to Frankfurt an der Oder and conclude, if everything else remains as it is, with Leixner concerning Kamionna, and secure the monies needful on account of Koszęcin, though I should have to pledge my salvation along with it. Here I shall set everything in train so that Your Serene Highness obtains Koltzig or the loan. More hope, however, is given for the estates, since the King has no inclination to give money away / for Russia absolutely wants war /. Matters stand here so strangely that every honest man shakes his head. Meanwhile more than everything can be contrived\n\nAs to the Broniewski affair, matters have come so far that, if the causae arresti are proven, the arrest is to be accepted — In this matter too as good as nothing has been done, notwithstanding how highly the thing is cried up — Upon the causae arresti it cannot [be done] without 2000 rt in f. d'or — had Mell[uncertain: itz] and Glenck long since called this by its right name, then this would long since have been decided and known without all the business. The post is about to go; I shall faithfully settle everything for the best, which is averred by\n\nYour Most Serene Highness's\n\nBerlin, the 19th of May\n\n1804.\n\nmost faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld hat in Berlin nur Schwindel und Lügen vorgefunden: Ohne sein Kommen wäre Ewr Durchlaucht angeführt worden, von dort sei kein Heller zu erwarten. Er will am 20. nach Frankfurt zurück, mit Leixner wegen Kamionna abschließen und die für Koszęcin nötigen Gelder sichern. Man mache eher Hoffnung auf die Güter, da der König kein Geld weggeben wolle. In der Broniewskischen Sache soll der Arrest angenommen werden, sobald die Causae arresti nachgewiesen sind.",
  "reading": {

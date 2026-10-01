@@ -139,7 +139,104 @@
    "doc_line": 50
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Colonel von Köckritz",
+   "kind": "person",
+   "surface_de": "Obrist v. Köckritz",
+   "surface_en": "Colonel von Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslauschen",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr von Voss",
+   "kind": "person",
+   "surface_de": "H. v V[oss]",
+   "surface_en": "Mr von Voss",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "French",
+   "kind": "other",
+   "surface_de": "Franzosen",
+   "surface_en": "French",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "person",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -165,9 +262,95 @@
    "doc_line": 48
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "95\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe worthy Colonel von Köckritz has charged me to commend him most cordially to Your Most Serene Highness and to assure the same most humbly that the [uncertain: Quest] exchange business stood exceedingly well, so that it might be regarded as concluded in the best manner — The joy shone from the noble man's eyes as he gave me this commission — He himself will not write until everything has been done — the Privy Cabinet Councillor assures me outright that here he must act against his heart — but the sovereign would have it so — Still, this is an honest man, for through him I have come to know the Wrocław way of thinking — By God, there are",
+   "names": [
+    {
+     "de": "Obrist v. Köckritz",
+     "en": "Colonel von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Breslauschen",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "95"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "villains, foremost among whom stands the one above — whatever has been told to Your Serene Highness about the division of the department and about other knowledge of your affair, these are the coarsest lies — Rather, in the last moment before the departure was made, the plan was laid with B that a hard refusal should follow — but of this the explanation by word of mouth — now may Your Serene Highness be pleased indeed to follow my counsel — for I think always — though many a wretched creature can be of no help to me at all, yet he can do me harm; the truly good Monarch is indisposed, and therefore there is at present no audience for the presentation of business, otherwise I should be at the very edge of it directly, but for this I must still wait — [uncertain: in the meantime it grieves me greatly] because I tremble constantly whether Mr von Voss may not turn the matter about anew, and see to it that other",
+   "names": [
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "B",
+     "en": "B",
+     "kind": "person"
+    },
+    {
+     "de": "H. v V[oss]",
+     "en": "Mr von Voss",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "false representations are put forward — the King means well by all; if so much erroneous stuff is laid before him, then the gentleman must in the end act against his own interest. The secularisation business is in a wide field, and seems to me to be a [uncertain: morsel] thrown out by the French, at which one is to snap and [uncertain: glut oneself] — People believe in a peace with the Emperor and the French — These are, however, only ideas. In deepest reverence I remain, until death, Your Most Serene Highness's — Before I come, Your Serene Highness will receive an express courier, and then the same may write at once concerning the leave — Berlin, the 29th of December 1798\n\nfaithful and most humble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Franzosen",
+     "en": "French",
+     "kind": "other"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "29",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "95\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe worthy Colonel von Köckritz has charged me to commend him most cordially to Your Most Serene Highness and to assure the same most humbly that the [uncertain: Quest] exchange business stood exceedingly well, so that it might be regarded as concluded in the best manner — The joy shone from the noble man's eyes as he gave me this commission — He himself will not write until everything has been done — the Privy Cabinet Councillor assures me outright that here he must act against his heart — but the sovereign would have it so — Still, this is an honest man, for through him I have come to know the Wrocław way of thinking — By God, there are\n\nvillains, foremost among whom stands the one above — whatever has been told to Your Serene Highness about the division of the department and about other knowledge of your affair, these are the coarsest lies — Rather, in the last moment before the departure was made, the plan was laid with B that a hard refusal should follow — but of this the explanation by word of mouth — now may Your Serene Highness be pleased indeed to follow my counsel — for I think always — though many a wretched creature can be of no help to me at all, yet he can do me harm; the truly good Monarch is indisposed, and therefore there is at present no audience for the presentation of business, otherwise I should be at the very edge of it directly, but for this I must still wait — [uncertain: in the meantime it grieves me greatly] because I tremble constantly whether Mr von Voss may not turn the matter about anew, and see to it that other\n\nfalse representations are put forward — the King means well by all; if so much erroneous stuff is laid before him, then the gentleman must in the end act against his own interest. The secularisation business is in a wide field, and seems to me to be a [uncertain: morsel] thrown out by the French, at which one is to snap and [uncertain: glut oneself] — People believe in a peace with the Emperor and the French — These are, however, only ideas. In deepest reverence I remain, until death, Your Most Serene Highness's — Before I come, Your Serene Highness will receive an express courier, and then the same may write at once concerning the leave — Berlin, the 29th of December 1798\n\nfaithful and most humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Obrist v. Köckritz lässt durch v. Triebenfeld versichern, das Tauschgeschäft stehe sehr gut und sei so gut wie beendigt; schreiben will er erst nach dem Abschluss. Der Geheime Cabinets Rath handle nach eigener Aussage gegen seinen Willen auf Wunsch des Souveräns. Mit B sei eine harte Ablehnung geplant worden. Der König ist unpässlich, daher gibt es keinen Vortrag; v. Triebenfeld fürchtet neue Umtriebe von H. v. Voss. Das Säkularisationsgeschäft hält er für einen Köder der Franzosen.",
  "reading": {

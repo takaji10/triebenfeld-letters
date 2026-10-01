@@ -257,7 +257,184 @@
    "doc_line": 52
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "K[öckritz]",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Seegebarth",
+   "kind": "person",
+   "surface_de": "v Seegebarth",
+   "surface_en": "von Seegebarth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Seegebarth",
+   "kind": "person",
+   "surface_de": "Hlrn v Seegebarth",
+   "surface_en": "Mr von Seegebarth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brufurt",
+   "kind": "other",
+   "surface_de": "Brufurt",
+   "surface_en": "Brufurt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "place",
+   "surface_de": "Pohl[nischen]",
+   "surface_en": "Polish",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Methuselah",
+   "kind": "person",
+   "surface_de": "Methusalems",
+   "surface_en": "Methuselah",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "place",
+   "surface_de": "Pohl",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "tesmar",
+   "display": "Tesmar",
+   "kind": "person",
+   "surface_de": "Tismarschen",
+   "surface_en": "Tismarschen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koźle",
+   "kind": "place",
+   "surface_de": "Cosel",
+   "surface_en": "Koźle",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess Emilie",
+   "kind": "person",
+   "surface_de": "Prinzeß Emilie",
+   "surface_en": "Princess Emilie",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Albert",
+   "kind": "person",
+   "surface_de": "Albert",
+   "surface_en": "Albert",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -305,9 +482,142 @@
    "doc_line": 49
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "200\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most gracious letter with the [uncertain: Hauses häuer] I have received this very hour; I regret that they did not arrive one post-day earlier, for then they might still have afforded General von Köckritz a scruple of vital strength for the journey; as it is, however, the birds will now arrive only on Sunday, when Köckritz will already have departed. I shall now be able to tell him here, at least, that this morsel awaits him yonder — to Mr von Seegebarth nothing further can well be said than that Your Serene Highness would endeavour to have the remainder settled, [uncertain: umfangehr] as you had some hope of soon drawing monies from your Polish possessions — Are the express-courier monies which derive from the campaigns not, perhaps, dispatched in the King's affairs? If that were so, you could refer Mr von Seegebarth thither.\n\nMy haste was in vain: the idle Brufurt has not come, and I must find other counsel so as to be able to travel to Poland. Perhaps that will succeed within a few days, and then I shall go at once to Zagórów, so as to be back by the 7th. For the rest, I do not believe that Weigel will consent to Stössel being his debtor — the young Bernhardi counts for much with old Weigel, and he has had to [uncertain: ſondern] him. He has straightway declared that he wishes to have anything to do with Stössel. I am already in correspondence with him, to the effect that he himself should acquire the estates which Your Serene Highness is taking over in Silesia, and give you a receipt in full, and likewise satisfy Stössel.",
+   "names": [
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "K[öckritz]",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "v Seegebarth",
+     "en": "von Seegebarth",
+     "kind": "person"
+    },
+    {
+     "de": "Hlrn v Seegebarth",
+     "en": "Mr von Seegebarth",
+     "kind": "person"
+    },
+    {
+     "de": "Brufurt",
+     "en": "Brufurt",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Pohl[nischen]",
+     "en": "Polish",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "200",
+    "7ten"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "I have pointed out to him that Stössel, who is now [uncertain: pauren], would let himself be well handled, so that he, Weigel, would recover my claim in a solid manner, and indeed with great advantage, without its being felt by him — and that with his wide acquaintance he could easily [uncertain: gewesen] the estates again. I told him plainly that, in the other case, should he hard-heartedly reject this advantageous plan, he would have to attain the age of Methuselah along with Your Serene Highness in order to be fully satisfied one day — for he could not simply lay hands on Your Serene Highness in that fashion — at bottom all your estates are [uncertain: fide. Cörruch], and there, in the very utmost case, a seizure could only be laid upon your share of the revenues — and that would require that Your Serene Highness live another 200 years; the Polish ones alone[?] afforded him a prospect — since, however, a fortunate exchange might be effected thereby, this would be the one moment to be wished for. Meanwhile, however [uncertain: vorleihhaft] the exchange might be, Your Serene Highness would not be minded to take estates here if you could not thereby at once settle with your most preferential creditors.\n\nI await the answer eagerly.\n\nThat the King is coming Your Serene Highness has long known; I only cannot comprehend how you should not have had my letter with the [uncertain: Tismarschen] ones on the 22nd either — I believe that Your Serene Highness will see [uncertain: der Königl.] and I await a letter longingly on Friday; I have enquired whether it would be taken amiss if Your Serene Highness were to show yourself to the King at Koźle or wherever it might be. In case it were not already resolved that he wishes to see Your Serene Highness.\n\nWhat I learn I shall send you by express. To Princess Emilie and to the illustrious, worthy Albert I commend myself in the most submissive manner, and I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, 27th August\n\n1810\n\nmost humbly faithful servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Methusalems",
+     "en": "Methuselah",
+     "kind": "person"
+    },
+    {
+     "de": "Pohl",
+     "en": "Polish",
+     "kind": "place"
+    },
+    {
+     "de": "Tismarschen",
+     "en": "Tismarschen",
+     "kind": "other"
+    },
+    {
+     "de": "Cosel",
+     "en": "Koźle",
+     "kind": "place"
+    },
+    {
+     "de": "Prinzeß Emilie",
+     "en": "Princess Emilie",
+     "kind": "person"
+    },
+    {
+     "de": "Albert",
+     "en": "Albert",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200",
+    "22ten",
+    "27tn",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "200\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most gracious letter with the [uncertain: Hauses häuer] I have received this very hour; I regret that they did not arrive one post-day earlier, for then they might still have afforded General von Köckritz a scruple of vital strength for the journey; as it is, however, the birds will now arrive only on Sunday, when Köckritz will already have departed. I shall now be able to tell him here, at least, that this morsel awaits him yonder — to Mr von Seegebarth nothing further can well be said than that Your Serene Highness would endeavour to have the remainder settled, [uncertain: umfangehr] as you had some hope of soon drawing monies from your Polish possessions — Are the express-courier monies which derive from the campaigns not, perhaps, dispatched in the King's affairs? If that were so, you could refer Mr von Seegebarth thither.\n\nMy haste was in vain: the idle Brufurt has not come, and I must find other counsel so as to be able to travel to Poland. Perhaps that will succeed within a few days, and then I shall go at once to Zagórów, so as to be back by the 7th. For the rest, I do not believe that Weigel will consent to Stössel being his debtor — the young Bernhardi counts for much with old Weigel, and he has had to [uncertain: ſondern] him. He has straightway declared that he wishes to have anything to do with Stössel. I am already in correspondence with him, to the effect that he himself should acquire the estates which Your Serene Highness is taking over in Silesia, and give you a receipt in full, and likewise satisfy Stössel.\n\nI have pointed out to him that Stössel, who is now [uncertain: pauren], would let himself be well handled, so that he, Weigel, would recover my claim in a solid manner, and indeed with great advantage, without its being felt by him — and that with his wide acquaintance he could easily [uncertain: gewesen] the estates again. I told him plainly that, in the other case, should he hard-heartedly reject this advantageous plan, he would have to attain the age of Methuselah along with Your Serene Highness in order to be fully satisfied one day — for he could not simply lay hands on Your Serene Highness in that fashion — at bottom all your estates are [uncertain: fide. Cörruch], and there, in the very utmost case, a seizure could only be laid upon your share of the revenues — and that would require that Your Serene Highness live another 200 years; the Polish ones alone[?] afforded him a prospect — since, however, a fortunate exchange might be effected thereby, this would be the one moment to be wished for. Meanwhile, however [uncertain: vorleihhaft] the exchange might be, Your Serene Highness would not be minded to take estates here if you could not thereby at once settle with your most preferential creditors.\n\nI await the answer eagerly.\n\nThat the King is coming Your Serene Highness has long known; I only cannot comprehend how you should not have had my letter with the [uncertain: Tismarschen] ones on the 22nd either — I believe that Your Serene Highness will see [uncertain: der Königl.] and I await a letter longingly on Friday; I have enquired whether it would be taken amiss if Your Serene Highness were to show yourself to the King at Koźle or wherever it might be. In case it were not already resolved that he wishes to see Your Serene Highness.\n\nWhat I learn I shall send you by express. To Princess Emilie and to the illustrious, worthy Albert I commend myself in the most submissive manner, and I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, 27th August\n\n1810\n\nmost humbly faithful servant\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bedauert, dass die vom Fürsten gesandten Vögel erst nach der Abreise des Generals v. Köckritz eintreffen. Seegebarth soll man auf erhoffte Gelder aus den polnischen Besitzungen vertrösten. Triebenfeld will nach Zagórów reisen. Er bezweifelt, dass Weigel Stössel als Schuldner annimmt, und schlägt Weigel vor, die vom Fürsten in Schlesien anzunehmenden Güter zu erwerben und Stössel zu befriedigen. Er hat angefragt, ob der Fürst sich dem König in Koźle oder anderswo zeigen dürfe.",
  "reading": {

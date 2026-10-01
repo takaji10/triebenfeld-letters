@@ -236,9 +236,285 @@
    "doc_line": 45
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Thorenſchen",
+   "kind": "place",
+   "surface_de": "Thorenſchen",
+   "surface_en": "Thorenſchen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Słupca",
+   "kind": "place",
+   "surface_de": "Słupca",
+   "surface_en": "Słupca",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface_de": "Peisern",
+   "surface_en": "Pyzdry",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wartha",
+   "kind": "place",
+   "surface_de": "Wartha",
+   "surface_en": "Wartha",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prosna",
+   "kind": "place",
+   "surface_de": "Prosna",
+   "surface_en": "Prosna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Boleslawice",
+   "kind": "place",
+   "surface_de": "Boleslawice",
+   "surface_en": "Boleslawice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pitschen",
+   "kind": "place",
+   "surface_de": "Pitschen",
+   "surface_en": "Pitschen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Leipzig",
+   "kind": "place",
+   "surface_de": "Leipzig",
+   "surface_en": "Leipzig",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bautzen",
+   "kind": "place",
+   "surface_de": "Bautzen",
+   "surface_en": "Bautzen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "England",
+   "kind": "place",
+   "surface_de": "Engeland",
+   "surface_en": "England",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "East Friesland",
+   "kind": "place",
+   "surface_de": "Oſt Friesland",
+   "surface_en": "East Friesland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Denmark",
+   "kind": "place",
+   "surface_de": "Dannemarck",
+   "surface_en": "Denmark",
+   "page": 1
+  },
+  {
+   "entity": "kaiser-alexander",
+   "display": "Kaiser Alexander I.",
+   "kind": "person",
+   "surface_de": "Allexander",
+   "surface_en": "Alexander",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Germany",
+   "kind": "place",
+   "surface_de": "Teutſchland",
+   "surface_en": "Germany",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "German Empire",
+   "kind": "other",
+   "surface_de": "Teutschen Reichs",
+   "surface_en": "German Empire",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brzeg",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "f August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brzeg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Curiſchen",
+   "kind": "person",
+   "surface_de": "Curiſchen",
+   "surface_en": "Curiſchen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohlinischen",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "P[ourtalès]",
+   "surface_en": "Pourtalès",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
+  {
+   "entity": "boleslawice",
+   "display": "Boleslawice",
+   "kind": "place",
+   "surface": "Boleslawice",
+   "page": 1,
+   "page_id": "0493_b",
+   "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+   "line": 19247,
+   "doc_line": 5
+  },
   {
    "entity": "pyzdry",
    "display": "Pyzdry (Peisern)",
@@ -328,9 +604,200 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "271\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAs regards Poland, matters now stand only so far that the boundary has been accepted from the Thorenſchen territory onward over Słupca near Pyzdry, across the Wartha and down the Prosna as far as Boleslawice, over towards Pitschen. — Likewise the boundary for the Saxony that is to remain has also been settled. The King of Saxony, who was yesterday invited to come here by an Austrian and a Prussian Concir, retains Dresden, Leipzig and Bautzen. — Hereafter the Congress Läute perhaps even sooner than in 3 weeks to have reached its end; but now England is beginning new and quite devilish intrigues — these Waßer hände want to have East Friesland, and we are to compensate Denmark for it. — The Emperor Alexander presses upon our King that a piece of land on our side in Germany should be given to the Viceroy of Italy. Both matters will draw stubborn debates after them, for, as is said, the King will by no means allow this to please him. If next the affairs of the German Empire are still to be arranged in general, when everything must be painted 15 times[uncertain: mahl] upon parchment, then many an hour more of time will yet be required. — Be that as it may, I go on tormenting the Prince Chancellor, yet he still remains good and his patience will not tire. — The papers are still lying with the Privy Councillor of State Stägemann. It is true enough, the work is frightfully great, but I keep on admonishing; thus, for example, I have again submitted to the Prince a petition as the enclosure shows. — He has received it graciously and has certainly promised to help. — Everyone of the good sort of men holds the matter of the 112/m rt advance to be quite certain and settled; with Cosmar himself it will probably drag out somewhat, for the Prince will punish the thing severely, the more so as the report of the Brzeg High Provincial Court has turned out so favourably.",
+   "names": [
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Thorenſchen",
+     "en": "Thorenſchen",
+     "kind": "place"
+    },
+    {
+     "de": "Słupca",
+     "en": "Słupca",
+     "kind": "place"
+    },
+    {
+     "de": "Peisern",
+     "en": "Pyzdry",
+     "kind": "place"
+    },
+    {
+     "de": "Wartha",
+     "en": "Wartha",
+     "kind": "place"
+    },
+    {
+     "de": "Prosna",
+     "en": "Prosna",
+     "kind": "place"
+    },
+    {
+     "de": "Boleslawice",
+     "en": "Boleslawice",
+     "kind": "place"
+    },
+    {
+     "de": "Pitschen",
+     "en": "Pitschen",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Leipzig",
+     "en": "Leipzig",
+     "kind": "place"
+    },
+    {
+     "de": "Bautzen",
+     "en": "Bautzen",
+     "kind": "place"
+    },
+    {
+     "de": "Engeland",
+     "en": "England",
+     "kind": "place"
+    },
+    {
+     "de": "Oſt Friesland",
+     "en": "East Friesland",
+     "kind": "place"
+    },
+    {
+     "de": "Dannemarck",
+     "en": "Denmark",
+     "kind": "place"
+    },
+    {
+     "de": "Allexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Teutſchland",
+     "en": "Germany",
+     "kind": "place"
+    },
+    {
+     "de": "Teutschen Reichs",
+     "en": "German Empire",
+     "kind": "other"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brzeg",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "271",
+    "3",
+    "112/m",
+    "15"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "B[arbe] is very active and handles the matter wisely and tirelessly. — All upright souls wish that Prince August would only revoke the power of attorney given to Cosmar quickly, and enter into no pour parlez with the pettifogger over it, but rather, as I have already advised, write to the Minister of Justice and to the Brzeg High Provincial Court that he has revoked the power of attorney given to Cosmar. Once this has been done, the 112/m rt. given and the Curiſchen heirs satisfied thereby, Cosmar is overthrown. — The Board of Wards, as also the Brzeg High Provincial Court, will bury him outright, once the guardianship in respect of Adolph is taken from him. As regards the Polish estates I await the decision at any moment — whether I am to come from, or whether the Prince Chancellor wishes to settle the matter alone.\n\nBarbe expects the answer from Pourtalès in 10 to 12 days. Barbe wishes that Pourtalès might not come before the end of April, because until then there would still be frightfully much work — and Pourtalès would not gladly settle the matter without him. From the King there lies a letter to Your Serene Highness at the field post office. — It is presumably the answer to your New Year's congratulation. —\n\nWith the greatest respect I remain\n\nYour Serene Highness's\n\nVienna, the 13th of February 1815\n\nmost obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "B[arbe]",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "f August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Curiſchen",
+     "en": "Curiſchen",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlinischen",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "P[ourtalès]",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "112/m",
+    "10",
+    "12",
+    "13ten",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "271\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAs regards Poland, matters now stand only so far that the boundary has been accepted from the Thorenſchen territory onward over Słupca near Pyzdry, across the Wartha and down the Prosna as far as Boleslawice, over towards Pitschen. — Likewise the boundary for the Saxony that is to remain has also been settled. The King of Saxony, who was yesterday invited to come here by an Austrian and a Prussian Concir, retains Dresden, Leipzig and Bautzen. — Hereafter the Congress Läute perhaps even sooner than in 3 weeks to have reached its end; but now England is beginning new and quite devilish intrigues — these Waßer hände want to have East Friesland, and we are to compensate Denmark for it. — The Emperor Alexander presses upon our King that a piece of land on our side in Germany should be given to the Viceroy of Italy. Both matters will draw stubborn debates after them, for, as is said, the King will by no means allow this to please him. If next the affairs of the German Empire are still to be arranged in general, when everything must be painted 15 times[uncertain: mahl] upon parchment, then many an hour more of time will yet be required. — Be that as it may, I go on tormenting the Prince Chancellor, yet he still remains good and his patience will not tire. — The papers are still lying with the Privy Councillor of State Stägemann. It is true enough, the work is frightfully great, but I keep on admonishing; thus, for example, I have again submitted to the Prince a petition as the enclosure shows. — He has received it graciously and has certainly promised to help. — Everyone of the good sort of men holds the matter of the 112/m rt advance to be quite certain and settled; with Cosmar himself it will probably drag out somewhat, for the Prince will punish the thing severely, the more so as the report of the Brzeg High Provincial Court has turned out so favourably.\n\nB[arbe] is very active and handles the matter wisely and tirelessly. — All upright souls wish that Prince August would only revoke the power of attorney given to Cosmar quickly, and enter into no pour parlez with the pettifogger over it, but rather, as I have already advised, write to the Minister of Justice and to the Brzeg High Provincial Court that he has revoked the power of attorney given to Cosmar. Once this has been done, the 112/m rt. given and the Curiſchen heirs satisfied thereby, Cosmar is overthrown. — The Board of Wards, as also the Brzeg High Provincial Court, will bury him outright, once the guardianship in respect of Adolph is taken from him. As regards the Polish estates I await the decision at any moment — whether I am to come from, or whether the Prince Chancellor wishes to settle the matter alone.\n\nBarbe expects the answer from Pourtalès in 10 to 12 days. Barbe wishes that Pourtalès might not come before the end of April, because until then there would still be frightfully much work — and Pourtalès would not gladly settle the matter without him. From the King there lies a letter to Your Serene Highness at the field post office. — It is presumably the answer to your New Year's congratulation. —\n\nWith the greatest respect I remain\n\nYour Serene Highness's\n\nVienna, the 13th of February 1815\n\nmost obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet vom Wiener Kongress: Die polnische Grenze über Słupca bei Pyzdry, Warthe und Prosna sei angenommen, der König von Sachsen behalte Dresden, Leipzig und Bautzen. Er dränge weiter den Fürsten Kanzler, die Akten lägen bei Stägemann. Der Vorschuss von 112/m Rthl gelte als sicher. August solle Cosmars Vollmacht aufheben und dies dem Justizminister und dem Oberlandesgericht in Brzeg schreiben. Zu den polnischen Gütern erwartet er Bescheid, ob er kommen soll.",
  "reading": {

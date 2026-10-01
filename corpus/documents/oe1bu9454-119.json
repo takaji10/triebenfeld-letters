@@ -219,7 +219,168 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince Biron",
+   "kind": "person",
+   "surface_de": "Der Prinz Biron",
+   "surface_en": "Prince Biron",
+   "page": 1
+  },
+  {
+   "entity": "uminski",
+   "display": "Uminski",
+   "kind": "person",
+   "surface_de": "Uminski",
+   "surface_en": "Uminski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Betsche",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Betsche",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strehlen",
+   "kind": "place",
+   "surface_de": "Strehlen",
+   "surface_en": "Strehlen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hussites",
+   "kind": "other",
+   "surface_de": "Husiten",
+   "surface_en": "Hussites",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hussites",
+   "kind": "other",
+   "surface_de": "Husiten",
+   "surface_en": "Hussites",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bohemia",
+   "kind": "place",
+   "surface_de": "Böhmen",
+   "surface_en": "Bohemia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rapacki",
+   "kind": "person",
+   "surface_de": "Rapackische",
+   "surface_en": "Rapacki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schöneich",
+   "kind": "person",
+   "surface_de": "Schöneich",
+   "surface_en": "Schöneich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "M[uncertain: s]tower",
+   "kind": "place",
+   "surface_de": "M[s?]tower",
+   "surface_en": "M[uncertain: s]tower",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -289,9 +450,135 @@
    "doc_line": 47
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "119 Prince Biron sent word yesterday — Uminski found the price very high — but he wished that I might give him a letter to the present administrator of the Kamionna estates, by which Uminski would be accredited to be able to view the estates. From this request it appears that Uminski only means to make sport of the matter — he knows all too well that Broniewski is still sitting in the estates, and that he will permit no dispositions on Your Serene Highness's part — On the other hand, Uminski knows these estates better than any one from here. I shall accordingly disclose my opinion to the Prince. The messenger from Zagórów is back and has brought the enclosed pieces. If this is not some imaginary artefact of our good Glenck's, then it surpasses the boldest wishes I have cherished for Your Serene Highness's good fortune. For according to this table we should indeed have some 31000 Morgen of true manorial lands to dismember, and the peasant lands would remain for further disposal — indeed even a piece of forest for town and country remains over. Now, in order to make this great work properly brilliant and worthy of the labour, I have a plan of my own, which Your Serene Highness may be pleased to examine.\n\nThe surveyor Cabanis, three years ago, divided up the little estate of Betsche below Strehlen and handed it over to a number of Hussites; the people paid for 23 Hufen a full 25/m. rt. in cash and",
+   "names": [
+    {
+     "de": "Der Prinz Biron",
+     "en": "Prince Biron",
+     "kind": "person"
+    },
+    {
+     "de": "Uminski",
+     "en": "Uminski",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Betsche",
+     "kind": "place"
+    },
+    {
+     "de": "Strehlen",
+     "en": "Strehlen",
+     "kind": "place"
+    },
+    {
+     "de": "Husiten",
+     "en": "Hussites",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "119",
+    "31000",
+    "3",
+    "23",
+    "25/m."
+   ]
+  },
+  {
+   "page": 2,
+   "en": "took over all burdens — They begged Cabanis that he might point out to them districts in South Prussia where they could buy themselves in and settle in large bodies. If Your Serene Highness permits it, I shall at once send Cabanis to the Hussites and have some 500 husbandmen recruited — These are people of means and industrious, with whom anything can be done. Moreover the affair is a very good one and will make a stir with the King, inasmuch as people would be drawn out of Bohemia into the country.\n\nThe Rapacki prospective purchasers are not worth much; the fellows want far-reaching terms of payment, and it is not proper to enter into that — the messenger has come back with the matter unsettled.\n\nThe Hussites are more to my liking, for I shall afterwards beg Your Serene Highness for the patent as bishop of this flock, as soon as some 500 and more husbandmen shall have been engaged. Schöneich deciphers out of a plan of just the same kind his only salvation — he means to give over his whole M[uncertain: s]tower estates to people of this sort.\n\nWrocław, the 29th of March 1804\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Husiten",
+     "en": "Hussites",
+     "kind": "other"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "person"
+    },
+    {
+     "de": "Böhmen",
+     "en": "Bohemia",
+     "kind": "place"
+    },
+    {
+     "de": "Rapackische",
+     "en": "Rapacki",
+     "kind": "person"
+    },
+    {
+     "de": "Schöneich",
+     "en": "Schöneich",
+     "kind": "person"
+    },
+    {
+     "de": "M[s?]tower",
+     "en": "M[uncertain: s]tower",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "500",
+    "29",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "119 Prince Biron sent word yesterday — Uminski found the price very high — but he wished that I might give him a letter to the present administrator of the Kamionna estates, by which Uminski would be accredited to be able to view the estates. From this request it appears that Uminski only means to make sport of the matter — he knows all too well that Broniewski is still sitting in the estates, and that he will permit no dispositions on Your Serene Highness's part — On the other hand, Uminski knows these estates better than any one from here. I shall accordingly disclose my opinion to the Prince. The messenger from Zagórów is back and has brought the enclosed pieces. If this is not some imaginary artefact of our good Glenck's, then it surpasses the boldest wishes I have cherished for Your Serene Highness's good fortune. For according to this table we should indeed have some 31000 Morgen of true manorial lands to dismember, and the peasant lands would remain for further disposal — indeed even a piece of forest for town and country remains over. Now, in order to make this great work properly brilliant and worthy of the labour, I have a plan of my own, which Your Serene Highness may be pleased to examine.\n\nThe surveyor Cabanis, three years ago, divided up the little estate of Betsche below Strehlen and handed it over to a number of Hussites; the people paid for 23 Hufen a full 25/m. rt. in cash and\n\ntook over all burdens — They begged Cabanis that he might point out to them districts in South Prussia where they could buy themselves in and settle in large bodies. If Your Serene Highness permits it, I shall at once send Cabanis to the Hussites and have some 500 husbandmen recruited — These are people of means and industrious, with whom anything can be done. Moreover the affair is a very good one and will make a stir with the King, inasmuch as people would be drawn out of Bohemia into the country.\n\nThe Rapacki prospective purchasers are not worth much; the fellows want far-reaching terms of payment, and it is not proper to enter into that — the messenger has come back with the matter unsettled.\n\nThe Hussites are more to my liking, for I shall afterwards beg Your Serene Highness for the patent as bishop of this flock, as soon as some 500 and more husbandmen shall have been engaged. Schöneich deciphers out of a plan of just the same kind his only salvation — he means to give over his whole M[uncertain: s]tower estates to people of this sort.\n\nWrocław, the 29th of March 1804\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld schlägt vor, den Geometer Cabanis zu Husiten zu schicken und etwa 500 Wirte anwerben zu lassen. Laut Glencks Tabelle aus Zagórów wären rund 31000 Morgen Dominialgründe zu dismembrieren. Cabanis hatte bei Strehlen bereits ein Gütchen an Husiten aufgeteilt, die für 23 Hufen 25/m Rthl bar zahlten. Uminski findet laut Prinz Biron den Preis für die Kamionna-Güter zu hoch, will sie aber besichtigen. Triebenfeld hält das für Spott, da Broniewski dort noch sitzt. Rapackis Kaufwillige verlangen zu lange Zahlungsfristen.",
  "reading": {

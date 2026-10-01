@@ -302,7 +302,208 @@
    "doc_line": 70
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynsken",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heiller",
+   "kind": "person",
+   "surface_de": "Heiller",
+   "surface_en": "Heiller",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Costen",
+   "kind": "place",
+   "surface_de": "Costen",
+   "surface_en": "Costen",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kramplitz",
+   "kind": "person",
+   "surface_de": "Kramplitz",
+   "surface_en": "Kramplitz",
+   "page": 2
+  },
+  {
+   "entity": "kwilecki",
+   "display": "Kwilecki",
+   "kind": "person",
+   "surface_de": "Kwilecki",
+   "surface_en": "Kwilecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Raczhowski",
+   "kind": "person",
+   "surface_de": "Raczhowski",
+   "surface_en": "Raczhowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Küntzel",
+   "kind": "person",
+   "surface_de": "Küntzel",
+   "surface_en": "Küntzel",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Raczkowski",
+   "kind": "person",
+   "surface_de": "Raczkowski",
+   "surface_en": "Raczkowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Küntzel",
+   "kind": "person",
+   "surface_de": "Kuntzels",
+   "surface_en": "Küntzel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Colloma",
+   "kind": "person",
+   "surface_de": "Colloma",
+   "surface_en": "Colloma",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rochad",
+   "kind": "person",
+   "surface_de": "Rochad",
+   "surface_en": "Rochad",
+   "page": 3
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 3
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -405,9 +606,169 @@
    "doc_line": 67
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "70\n\nMost Serene Prince\n\nMost gracious Prince and Lord. From the accompanying letter of Hecker Your Most Serene Highness will most graciously be pleased to satisfy yourself that God often leads His own in wondrous ways — I wanted to let Hecker go, but owing to a misunderstanding of the Chief Prefect Garczynski I must now let him remain in place until a milder wind passes over our fields.\n\nGarczynski believed that he had to hand everything over to Heiller and has had him summoned with that in view. So as to hinder nothing, I let the matter proceed, for Hecker out of foolish zeal has given surety with body and soul. He vows to have everything paid by Midsummer. That I shall very gladly accept. But to go quite securely, I have appointed him to meet me with Honrichs at Costen, where I shall speak with him myself and have him once more stipulate everything judicially.\n\nHis, Hecker's, security I shall assign to Garczynski, so that the fellow may be properly held in hand; meanwhile I shall not let him govern over the cash-box alone, despite the paper security, but shall through Garczynski have Cabanis / who is a thoroughly honest man / set beside him as controller; thus Garczynski will warrant everything back again, and if Hecker blunders in, he may not cry out against Your Serene Highness or against me. In this way the matter stands wonderfully well.",
+   "names": [
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynsken",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Heiller",
+     "en": "Heiller",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Costen",
+     "en": "Costen",
+     "kind": "place"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "70"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "As regards Trąbczyn we already have [uncertain: have] a great advantage, for the knavish Kramplitz has, as the enclosure shows, not appeared.\n\nA new term has been appointed for the 2nd of April — Kwilecki remains a further 2 months — so nothing is lost.\n\nRaczhowski and Küntzel are conducting the matter with Honrichs — everything is now disposed in favour of Your Serene Highness's interest. These estates will certainly be vindicated, and we shall have Zagórów free again and Trąbczyn back; then it cannot fail. I enclose Raczkowski's and Küntzel's letters, but beg to have everything sent back to me quickly.\n\nThat I am not coming to Sławięcice — over this Your Serene Highness is not to be angry. It is done for your own best that I sit here, vex myself and go hungry — I mean truly well by you, most gracious Lord. I am saving everything for you and shall, by God, obtain more for you than you imagine; but do not mistake me, and do not construe my actions wrongly. The moment is not far off when we shall be able to laugh at our enemies — From Berlin there is little to be hoped, and therefore we must not be precipitate; compliments are of no avail. When I have spoken with Hecker and Honrichs, then for your sake, before I come to Sławięcice, I shall go to Berlin for 6 days — that I know more, most gracious Prince and Lord, you may believe — otherwise I should not travel thither — My pride no god bends — The matter concerning Colloma has been begun; I shall bring it to an honourable end, and in Berlin shall already know wherewith I can stop every man's mouth — [text uncertain: Nachhandelt mann Sie zu und ankbar]. I suffer no humiliation and will",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kramplitz",
+     "en": "Kramplitz",
+     "kind": "person"
+    },
+    {
+     "de": "Kwilecki",
+     "en": "Kwilecki",
+     "kind": "person"
+    },
+    {
+     "de": "Raczhowski",
+     "en": "Raczhowski",
+     "kind": "person"
+    },
+    {
+     "de": "Küntzel",
+     "en": "Küntzel",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Raczkowski",
+     "en": "Raczkowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kuntzels",
+     "en": "Küntzel",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Colloma",
+     "en": "Colloma",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2ten April",
+    "2",
+    "6"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "forgive nothing, either to you or to myself. You are the only one on this earth [uncertain: wund] to whom I poured out my heart and to whom I lamented a suffering. To the King himself I wrote as my feeling demanded. He is indebted to me in the sum total and did not pay even one Groschen for all my sacrifices — I could therefore speak boldly, and now it shall be done orally with still greater emphasis. — Rochad means well by Your Serene Highness and by me — but in real terms he does little — I [text uncertain: weill bemüht ſind] his feelings, and therefore I shall make the journey in haste.\n\nThe 600 rt which Honrichs took with him have been converted into 2 feet of old Hungarian and have flowed into Garczynski's cellar — they work well — My estates have been handed over to the tenants; everything is so ordered that no new debts can be made, and the tenants must pay the interest promptly half-yearly under their own liability — But the Landschaft is liquidating, for its 2 years' sequestration, in the course of which it too remitted not a Groschen, a further 4000 rt in costs. There the surplus of the lease goes for a whole year more, and I must meanwhile live wretchedly with my family. Yet for all that I do see the end of my sufferings.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop, the 25th of March\n\n1810.\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Rochad",
+     "en": "Rochad",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "600",
+    "2",
+    "2",
+    "4000",
+    "25ten Merz",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "70\n\nMost Serene Prince\n\nMost gracious Prince and Lord. From the accompanying letter of Hecker Your Most Serene Highness will most graciously be pleased to satisfy yourself that God often leads His own in wondrous ways — I wanted to let Hecker go, but owing to a misunderstanding of the Chief Prefect Garczynski I must now let him remain in place until a milder wind passes over our fields.\n\nGarczynski believed that he had to hand everything over to Heiller and has had him summoned with that in view. So as to hinder nothing, I let the matter proceed, for Hecker out of foolish zeal has given surety with body and soul. He vows to have everything paid by Midsummer. That I shall very gladly accept. But to go quite securely, I have appointed him to meet me with Honrichs at Costen, where I shall speak with him myself and have him once more stipulate everything judicially.\n\nHis, Hecker's, security I shall assign to Garczynski, so that the fellow may be properly held in hand; meanwhile I shall not let him govern over the cash-box alone, despite the paper security, but shall through Garczynski have Cabanis / who is a thoroughly honest man / set beside him as controller; thus Garczynski will warrant everything back again, and if Hecker blunders in, he may not cry out against Your Serene Highness or against me. In this way the matter stands wonderfully well.\n\nAs regards Trąbczyn we already have [uncertain: have] a great advantage, for the knavish Kramplitz has, as the enclosure shows, not appeared.\n\nA new term has been appointed for the 2nd of April — Kwilecki remains a further 2 months — so nothing is lost.\n\nRaczhowski and Küntzel are conducting the matter with Honrichs — everything is now disposed in favour of Your Serene Highness's interest. These estates will certainly be vindicated, and we shall have Zagórów free again and Trąbczyn back; then it cannot fail. I enclose Raczkowski's and Küntzel's letters, but beg to have everything sent back to me quickly.\n\nThat I am not coming to Sławięcice — over this Your Serene Highness is not to be angry. It is done for your own best that I sit here, vex myself and go hungry — I mean truly well by you, most gracious Lord. I am saving everything for you and shall, by God, obtain more for you than you imagine; but do not mistake me, and do not construe my actions wrongly. The moment is not far off when we shall be able to laugh at our enemies — From Berlin there is little to be hoped, and therefore we must not be precipitate; compliments are of no avail. When I have spoken with Hecker and Honrichs, then for your sake, before I come to Sławięcice, I shall go to Berlin for 6 days — that I know more, most gracious Prince and Lord, you may believe — otherwise I should not travel thither — My pride no god bends — The matter concerning Colloma has been begun; I shall bring it to an honourable end, and in Berlin shall already know wherewith I can stop every man's mouth — [text uncertain: Nachhandelt mann Sie zu und ankbar]. I suffer no humiliation and will\n\nforgive nothing, either to you or to myself. You are the only one on this earth [uncertain: wund] to whom I poured out my heart and to whom I lamented a suffering. To the King himself I wrote as my feeling demanded. He is indebted to me in the sum total and did not pay even one Groschen for all my sacrifices — I could therefore speak boldly, and now it shall be done orally with still greater emphasis. — Rochad means well by Your Serene Highness and by me — but in real terms he does little — I [text uncertain: weill bemüht ſind] his feelings, and therefore I shall make the journey in haste.\n\nThe 600 rt which Honrichs took with him have been converted into 2 feet of old Hungarian and have flowed into Garczynski's cellar — they work well — My estates have been handed over to the tenants; everything is so ordered that no new debts can be made, and the tenants must pay the interest promptly half-yearly under their own liability — But the Landschaft is liquidating, for its 2 years' sequestration, in the course of which it too remitted not a Groschen, a further 4000 rt in costs. There the surplus of the lease goes for a whole year more, and I must meanwhile live wretchedly with my family. Yet for all that I do see the end of my sufferings.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop, the 25th of March\n\n1810.\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Zu Trąbczyn meldet Triebenfeld einen Vorteil: Kramplitz ist nicht erschienen, am 2. April ist ein neuer Termin angesetzt. Raczkowski und Küntzel betreiben die Sache mit Honrichs, er hält die Rückgewinnung für gewiss. Hecker, der sich verbürgt hat und bis Johanni zahlen will, bleibt wegen eines Missverständnisses des Ober Prefectus Garczynski an der Kasse; Cabanis soll ihn kontrollieren. Triebenfeld will für 6 Tage nach Berlin. Für die Sequestration seiner eigenen Güter fordert die Landschaft an 4000 Rthl Kosten.",
  "reading": {

@@ -211,7 +211,104 @@
    "doc_line": 30
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzciński",
+   "surface_en": "Trzciński",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "König",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "König",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Biskupice",
+   "kind": "place",
+   "surface_de": "Bischdorffer",
+   "surface_en": "Biskupice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "smiedecki",
+   "display": "Smiedecki",
+   "kind": "person",
+   "surface_de": "Smiedecki",
+   "surface_en": "Smiedecki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sokolnik",
+   "kind": "place",
+   "surface_de": "Sokolnik",
+   "surface_en": "Sokolnik",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -281,9 +378,91 @@
    "doc_line": 26
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "5\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nTrzciński has been approached by the long Zerboni, [demanding] that Trzciński should pay him, pursuant to a cession upon that claim of 10000 r. and 5000 r. belonging to Your Serene Highness, which Your Highness is said to have ceded thereof to Zerboni — I wanted to compel Trzciński to execute his declaration before the court, and Zerboni is thereby thwarted — For the present I have disputed it — But should it be true, may Your Serene Highness deign to give me the swiftest information, so that I do not make myself a laughing-stock.\n\nOne thousand and, Trzciński alleges, he has already paid out of it, on Zerboni's instruction, to König for the Biskupice business. I hold this, however, to be a rascally [uncertain: Poellerey] — for nothing was ever promised to König for the Biskupice affair, and it seems to me to be a knavish thievery. One thing I fear — whether Your Serene Highness may not perhaps have given Zerboni a blank signed sheet, and the villain has fabricated something of the sort upon it.\n\nTo the prefect at Kalisz, Mr von Smiedecki, I have quite won him over; he will, in the compensation matter, upon which everything now turns on account of Sokolnik, give the most favourable report conceivable.",
+   "names": [
+    {
+     "de": "Trzciński",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "König",
+     "kind": "person"
+    },
+    {
+     "de": "Bischdorffer",
+     "en": "Biskupice",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Smiedecki",
+     "en": "Smiedecki",
+     "kind": "person"
+    },
+    {
+     "de": "Sokolnik",
+     "en": "Sokolnik",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5",
+    "10000",
+    "5000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "As to the Pszczew and all other matters, I look for answers to the letters I have sent Your Serene Highness over the course of time. In deepest reverence I remain, until death, Your Serene Highness's\n\nBlizanow, the 27th of January 1816, most faithful and most humble and obedient servant, v. Triebenfeld",
+   "names": [
+    {
+     "de": "Betscher",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "27",
+    "1816"
+   ]
+  }
+ ],
+ "text_english": "5\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nTrzciński has been approached by the long Zerboni, [demanding] that Trzciński should pay him, pursuant to a cession upon that claim of 10000 r. and 5000 r. belonging to Your Serene Highness, which Your Highness is said to have ceded thereof to Zerboni — I wanted to compel Trzciński to execute his declaration before the court, and Zerboni is thereby thwarted — For the present I have disputed it — But should it be true, may Your Serene Highness deign to give me the swiftest information, so that I do not make myself a laughing-stock.\n\nOne thousand and, Trzciński alleges, he has already paid out of it, on Zerboni's instruction, to König for the Biskupice business. I hold this, however, to be a rascally [uncertain: Poellerey] — for nothing was ever promised to König for the Biskupice affair, and it seems to me to be a knavish thievery. One thing I fear — whether Your Serene Highness may not perhaps have given Zerboni a blank signed sheet, and the villain has fabricated something of the sort upon it.\n\nTo the prefect at Kalisz, Mr von Smiedecki, I have quite won him over; he will, in the compensation matter, upon which everything now turns on account of Sokolnik, give the most favourable report conceivable.\n\nAs to the Pszczew and all other matters, I look for answers to the letters I have sent Your Serene Highness over the course of time. In deepest reverence I remain, until death, Your Serene Highness's\n\nBlizanow, the 27th of January 1816, most faithful and most humble and obedient servant, v. Triebenfeld",
  "summary_en": "",
  "summary_de": "Zerboni hat Trzciński aufgefordert, ihm aufgrund einer angeblichen Cession der fürstlichen Forderung von 10000 und 5000 Rthl zu zahlen. v. Triebenfeld bestreitet dies vorläufig und bittet dringend um Auskunft; er fürchtet, der Fürst habe Zerboni etwa ein Blanquett gegeben. Trzciński will auf Zerbonis Anweisung schon an König für das Geschäft in Biskupice gezahlt haben, was v. Triebenfeld für Betrug hält. Präfekt v Smiedecki in Kalisz sei gewonnen und werde in der Entschädigungssache wegen Amt Sokolnik günstig berichten.",
  "reading": {

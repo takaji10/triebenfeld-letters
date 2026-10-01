@@ -1,0 +1,21 @@
+status: draft
+segments:
+- page: 1
+  en: This report has been handed over under no. 3278 C. to the 3rd Section of the Foreign Department.
+    Bever. 3/5 — it is attached with the file. Strenger 5/5. [18]16.
+  names:
+  - de: Bever
+    en: Bever
+    kind: person
+  - de: Strenger
+    en: Strenger
+    kind: person
+  - de: Ausw. Depts.
+    en: Foreign Department
+    kind: other
+  numbers:
+  - '3278'
+  - '3'
+  - 3/5
+  - 5/5
+  - '16'

@@ -404,7 +404,320 @@
    "doc_line": 165
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 1
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "B[eyme]",
+   "surface_en": "B[eyme]",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Z[astrow]",
+   "surface_en": "Z[astrow]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr B",
+   "kind": "person",
+   "surface_de": "H. p B",
+   "surface_en": "Mr B",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister von Struensee",
+   "kind": "person",
+   "surface_de": "Minister v. Struensee",
+   "surface_en": "Minister von Struensee",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polajewo",
+   "kind": "place",
+   "surface_de": "Polajewo",
+   "surface_en": "Polajewo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Voss",
+   "kind": "person",
+   "surface_de": "H v Voss",
+   "surface_en": "Mr von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Voss",
+   "kind": "person",
+   "surface_de": "H. p v. Voss",
+   "surface_en": "Mr von Voss",
+   "page": 2
+  },
+  {
+   "entity": "noldichen",
+   "display": "Nöldichen",
+   "kind": "person",
+   "surface_de": "Nöldichens",
+   "surface_en": "Nöldich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Commissarius",
+   "kind": "other",
+   "surface_de": "Commissarius",
+   "surface_en": "Commissarius",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąpczynski",
+   "kind": "person",
+   "surface_de": "Trąpczynski",
+   "surface_en": "Trąpczynski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyner",
+   "surface_en": "Krotoszyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Mr von Voss",
+   "kind": "person",
+   "surface_de": "H. v. Voss's",
+   "surface_en": "Mr von Voss",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Minister von Struensee",
+   "kind": "person",
+   "surface_de": "Minister v Struensee",
+   "surface_en": "Minister von Struensee",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Nöldich",
+   "kind": "person",
+   "surface_de": "Nöldiche",
+   "surface_en": "Nöldich",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schmiedel, rent-master",
+   "kind": "person",
+   "surface_de": "Rentmeister Schmiedels",
+   "surface_en": "Schmiedel, rent-master",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Triebenfeld administration",
+   "kind": "person",
+   "surface_de": "Tribenfeldschen Administration",
+   "surface_en": "Triebenfeld administration",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "T.",
+   "kind": "person",
+   "surface_de": "T",
+   "surface_en": "T.",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Cassini",
+   "kind": "person",
+   "surface_de": "Cassini",
+   "surface_en": "Cassini",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "T.",
+   "kind": "person",
+   "surface_de": "T",
+   "surface_en": "T.",
+   "page": 6
+  },
+  {
+   "entity": "noldichen",
+   "display": "Nöldichen",
+   "kind": "person",
+   "surface_de": "Nöldichen",
+   "surface_en": "Nöldich",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyn",
+   "surface_en": "Krotoszyn",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schulenburg, Minister Count",
+   "kind": "person",
+   "surface_de": "Minister Ge Schulenburg",
+   "surface_en": "Schulenburg, Minister Count",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Princess Sa[cken]",
+   "kind": "person",
+   "surface_de": "Fürstin Sa[cken]",
+   "surface_en": "Princess Sa[cken]",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krotoszyner",
+   "surface_en": "Krotoszyn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Polajewo",
+   "kind": "place",
+   "surface_de": "Polajewer",
+   "surface_en": "Polajewo",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Princess",
+   "kind": "person",
+   "surface_de": "Fürstin",
+   "surface_en": "Princess",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Nising",
+   "kind": "person",
+   "surface_de": "p Nising",
+   "surface_en": "Nising",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Świniary oaks",
+   "kind": "place",
+   "surface_de": "Schwinersche Eichen",
+   "surface_en": "Świniary oaks",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Berlin[?]",
+   "kind": "place",
+   "surface_de": "Berlin[?]",
+   "surface_en": "Berlin[?]",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 8
+  }
+ ],
  "place_canonical": "Berlin?",
  "place_mentions": [
   {
@@ -529,9 +842,289 @@
    "doc_line": 163
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "89\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe exchange transaction will, as I hold myself firmly convinced, certainly be concluded to Your Most Serene Highness's satisfaction. The enclosed letter of the honest Glenck contains the copy of the letter to the King, and one further, as follows: To B[eyme] and Z[astrow] the like letters have been handed in, which comprise this whole matter, but which for the sake of the manner and the order are always put in other words. According to the utterance of Mr B, the Minister von Struensee ought now to be called upon to give his candid judgement upon the whole affair, and this comes out thus: \"That Krotoszyn and Polajewo can never bring more than 50/m rt, that Mr von Voss should have conceded this, and that the present tenants cannot give so much either, but are in arrears by many thousands.\" From this declaration it will not be difficult for Your Most Serene Highness",
+   "names": [
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "B[eyme]",
+     "en": "B[eyme]",
+     "kind": "person"
+    },
+    {
+     "de": "Z[astrow]",
+     "en": "Z[astrow]",
+     "kind": "person"
+    },
+    {
+     "de": "H. p B",
+     "en": "Mr B",
+     "kind": "person"
+    },
+    {
+     "de": "Minister v. Struensee",
+     "en": "Minister von Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Polajewo",
+     "en": "Polajewo",
+     "kind": "place"
+    },
+    {
+     "de": "H v Voss",
+     "en": "Mr von Voss",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "89",
+    "50/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to draw the conclusion — Now I wish for myself that the guiding line I have taken up in this matter may find Your Most Serene Highness's approval — My chief plan was to make the attack at once from the side of honour, so that the pen-heroes, who have no proper conception of it, should fall into all the greater disorder — Men of head and heart approve it; heaven grant that Your Serene Highness may approve it too. The error on the part of Mr von Voss is very great, and it ought not to be difficult, with the batteries now laid, to shoot his follies full of holes, so that one may press in upon him and bring the ravings of his Nöldich to light.\n\nIn general my plan is that the King should absolutely appoint a Commissarius, or else determine the matter at once decisively and promise Your Serene Highness the estates in such a way that the business should be settled according to equal yield and value.",
+   "names": [
+    {
+     "de": "H. p v. Voss",
+     "en": "Mr von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Nöldichens",
+     "en": "Nöldich",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Commissarius",
+     "en": "Commissarius",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "The manner of handling and the carrying out of my idea is then, firstly, with respect to Your Serene Highness's estates. Of these Glenck is general lessee / for he must for the present remain in play there, so that he may carry through the business at the estates, since otherwise other spirits may work knaveries and cause Your Serene Highness cost and vexation.\n\nGlenck has a 9-year lease contract and pays annually, inclusive of the ascertained forest revenue, 44500 rtl. All sub-leases depend upon him; he has the liberty to clear land, to dismember, and, as concerns the profit of the estates, to do and to leave undone freely what he will. To this end he has, with his associates, given a caution of 10/m rthl — next to this, Your Serene Highness has paid him the first sums for putting the estates in condition and for other matters etc. to the amount of 67/m rt., successively, and has also assigned him funds for the settlement of what still rests upon the possessors Broniewski and Trąpczynski — for which Your Highness holds his receipts, and need trouble Yourself no further as to how",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąpczynski",
+     "en": "Trąpczynski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "9",
+    "44500",
+    "10/m",
+    "67/m"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "he has applied and employed this or that — With this contract and with the receipts Your Serene Highness comes forward, hands these over, gives warranty of title for them, and has nothing further to do than to look upon the pen-heroes with pity when in their anguish they gnaw their nails.\n\n2. With regard to the Krotoszyn estates. Here Mr von Voss's favourite says / for he himself does not appear in the end at all / that Krotoszyn is to bring 49000 rt — the lease contract, to be sure, states only 30000 rt, and the valuations no more than 23–25 and 27/m Rthl; nevertheless it is known that it had brought 49000 rt — to which the answer is: whereby is this to be proved? For the declaration of Minister von Struensee states only the highest figure, which was established by Mr von Voss's manifold results, at 27 or 30/m rt. Then the Nöldich answers: Here I have the accounts of the rent-master Schmiedel, who kept them at the time of the Triebenfeld administration; these state so much or less, and the remainder one thinks to make up by improvements —",
+   "names": [
+    {
+     "de": "Krotoszyner",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "H. v. Voss's",
+     "en": "Mr von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Minister v Struensee",
+     "en": "Minister von Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Nöldiche",
+     "en": "Nöldich",
+     "kind": "person"
+    },
+    {
+     "de": "Rentmeister Schmiedels",
+     "en": "Schmiedel, rent-master",
+     "kind": "person"
+    },
+    {
+     "de": "Tribenfeldschen Administration",
+     "en": "Triebenfeld administration",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "49000",
+    "30000",
+    "23",
+    "25",
+    "27/m",
+    "49000",
+    "27",
+    "30/m"
+   ]
+  },
+  {
+   "page": 5,
+   "en": "Then Your Serene Highness's authorised representative demands that T. too might be asked.\n\nT. appears and asks, with irony, what is desired. The talk is then of the revenues received from Krotoszyn — It is said that these amounted to 40 or 50/m rt. — He answers that it may well be so; he had applied himself to it with a glowing zeal, to arrange large and considerable receipts at his rent-office — in doing so he had always cherished the ardent wish that this might be trumpeted abroad as much as possible, in order to find somebody who should thereafter hanker after the lease of Krotoszyn and take it off his hands — many and large outgoings, on the other hand, he had defrayed in silence, letting his [uncertain: Cassini] know nothing of them, so that the latter, without coming too near his already troubled conscience, might be able to assure every inquisitive person of a large revenue — for at bottom he had never, as lessee, had cause to give anybody information or to answer for profit or loss — Meanwhile his plan had succeeded:",
+   "names": [
+    {
+     "de": "T",
+     "en": "T.",
+     "kind": "person"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Cassini",
+     "en": "Cassini",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "40",
+    "50/m"
+   ]
+  },
+  {
+   "page": 6,
+   "en": "he had got somebody who not only wished himself into his place, but moreover gave him a sum for standing down, and who, if the contract were prolonged, would in the latter years pay the King annually some 5000 rt. more — this the King himself approved by cabinet order, at once accepting estates from the new lessee in place of payment, having the sum for standing down paid to T. in advance, and afterwards recovered out of the estates.\n\nFor the rest, however, he, T., must — if one called upon him to speak upon duty and honour — assure them that it must fall hard upon anyone to render up the lease raised by him to as much as 35/m rt. This is proved too by the condition of the present lessee, for he gives only 30/m in cash, yet he always remains in arrears with large sums.\n\nThe under-lessees appointed by him, meanwhile, could not maintain themselves either — for he, T., when he engaged them at the high rents, had constantly sought thereby to make the discharge of the",
+   "names": [
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "T",
+     "en": "T.",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5000",
+    "35/m",
+    "30/m"
+   ]
+  },
+  {
+   "page": 7,
+   "en": "rent easier for them, in that he took all their produce off their hands again in return for the rent they had delivered to the office, paying for grain, cattle etc. at prices twice as high as they actually stood, without letting it become known; and merely on this ground each of them had been content, and his business had thereby acquired the most brilliant colouring. For the rest the result would remain — the Nöldich is a wretched official who, upon the hearsay of wretched men, has so conducted his [illegible] that he has had to tell the King lies. The result of the whole then follows of itself. I have wished to set this down for Your Most Serene Highness's high insight and for Your utmost reassurance, so that Your Serene Highness may see quite through the business. For as it seems to me, Your Highness believes that on account of Krotoszyn something can be laid to my charge, and that I had perhaps even laid that plan before You in order that I might thereby slip through myself — By God, this is never the case, and never can be — I have always dealt uprightly toward every good man, consequently I could least of all do otherwise toward my princely patron — It was the purest and most sincere intention, and heaven will crown the end. The Minister Count Schulenburg has assured the Princess Sa[cken] that Your Highness might obtain the estates of both kinds,",
+   "names": [
+    {
+     "de": "Nöldichen",
+     "en": "Nöldich",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Krotoszyn",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Minister Ge Schulenburg",
+     "en": "Schulenburg, Minister Count",
+     "kind": "person"
+    },
+    {
+     "de": "Fürstin Sa[cken]",
+     "en": "Princess Sa[cken]",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "en": "only Your Highness would have to pay as much as should be brought out upon the investigation of the Krotoszyn, Polajewo and Your Serene Highness's estates — against that nothing can be said, and it comes only to a proper conduct of the business.\n\nConcerning the money negotiation, the Princess writes today to Nising — the Princess cannot and absolutely will not give more than 30/m rt. — Nising is to make out the instruments and to alter in them only a very little, after the form sent in here; whereupon the money is at once to lie ready here — Now it still turns upon about 7000 Rthl — I do not know where these are to be got — I give myself all possible pains — God knows where I shall succeed. From the Princess I obtain absolutely nothing more; Her Serene Highness assures me she would gladly do it, only she could now, for shortness of time, find no further means — If I sell my Świniary oaks tomorrow, then I shall give; but if this does not come off, it will be hard to find means here — I shall indeed put forth everything; perhaps it may yet succeed — meanwhile let Your Most Serene Highness provide there also.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin[?], the 12th of December 1798.\n\ntrue, humble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Krotoszyner",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Polajewer",
+     "en": "Polajewo",
+     "kind": "place"
+    },
+    {
+     "de": "Fürstin",
+     "en": "Princess",
+     "kind": "person"
+    },
+    {
+     "de": "p Nising",
+     "en": "Nising",
+     "kind": "person"
+    },
+    {
+     "de": "Schwinersche Eichen",
+     "en": "Świniary oaks",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin[?]",
+     "en": "Berlin[?]",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30/m",
+    "7000",
+    "12",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "89\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe exchange transaction will, as I hold myself firmly convinced, certainly be concluded to Your Most Serene Highness's satisfaction. The enclosed letter of the honest Glenck contains the copy of the letter to the King, and one further, as follows: To B[eyme] and Z[astrow] the like letters have been handed in, which comprise this whole matter, but which for the sake of the manner and the order are always put in other words. According to the utterance of Mr B, the Minister von Struensee ought now to be called upon to give his candid judgement upon the whole affair, and this comes out thus: \"That Krotoszyn and Polajewo can never bring more than 50/m rt, that Mr von Voss should have conceded this, and that the present tenants cannot give so much either, but are in arrears by many thousands.\" From this declaration it will not be difficult for Your Most Serene Highness\n\nto draw the conclusion — Now I wish for myself that the guiding line I have taken up in this matter may find Your Most Serene Highness's approval — My chief plan was to make the attack at once from the side of honour, so that the pen-heroes, who have no proper conception of it, should fall into all the greater disorder — Men of head and heart approve it; heaven grant that Your Serene Highness may approve it too. The error on the part of Mr von Voss is very great, and it ought not to be difficult, with the batteries now laid, to shoot his follies full of holes, so that one may press in upon him and bring the ravings of his Nöldich to light.\n\nIn general my plan is that the King should absolutely appoint a Commissarius, or else determine the matter at once decisively and promise Your Serene Highness the estates in such a way that the business should be settled according to equal yield and value.\n\nThe manner of handling and the carrying out of my idea is then, firstly, with respect to Your Serene Highness's estates. Of these Glenck is general lessee / for he must for the present remain in play there, so that he may carry through the business at the estates, since otherwise other spirits may work knaveries and cause Your Serene Highness cost and vexation.\n\nGlenck has a 9-year lease contract and pays annually, inclusive of the ascertained forest revenue, 44500 rtl. All sub-leases depend upon him; he has the liberty to clear land, to dismember, and, as concerns the profit of the estates, to do and to leave undone freely what he will. To this end he has, with his associates, given a caution of 10/m rthl — next to this, Your Serene Highness has paid him the first sums for putting the estates in condition and for other matters etc. to the amount of 67/m rt., successively, and has also assigned him funds for the settlement of what still rests upon the possessors Broniewski and Trąpczynski — for which Your Highness holds his receipts, and need trouble Yourself no further as to how\n\nhe has applied and employed this or that — With this contract and with the receipts Your Serene Highness comes forward, hands these over, gives warranty of title for them, and has nothing further to do than to look upon the pen-heroes with pity when in their anguish they gnaw their nails.\n\n2. With regard to the Krotoszyn estates. Here Mr von Voss's favourite says / for he himself does not appear in the end at all / that Krotoszyn is to bring 49000 rt — the lease contract, to be sure, states only 30000 rt, and the valuations no more than 23–25 and 27/m Rthl; nevertheless it is known that it had brought 49000 rt — to which the answer is: whereby is this to be proved? For the declaration of Minister von Struensee states only the highest figure, which was established by Mr von Voss's manifold results, at 27 or 30/m rt. Then the Nöldich answers: Here I have the accounts of the rent-master Schmiedel, who kept them at the time of the Triebenfeld administration; these state so much or less, and the remainder one thinks to make up by improvements —\n\nThen Your Serene Highness's authorised representative demands that T. too might be asked.\n\nT. appears and asks, with irony, what is desired. The talk is then of the revenues received from Krotoszyn — It is said that these amounted to 40 or 50/m rt. — He answers that it may well be so; he had applied himself to it with a glowing zeal, to arrange large and considerable receipts at his rent-office — in doing so he had always cherished the ardent wish that this might be trumpeted abroad as much as possible, in order to find somebody who should thereafter hanker after the lease of Krotoszyn and take it off his hands — many and large outgoings, on the other hand, he had defrayed in silence, letting his [uncertain: Cassini] know nothing of them, so that the latter, without coming too near his already troubled conscience, might be able to assure every inquisitive person of a large revenue — for at bottom he had never, as lessee, had cause to give anybody information or to answer for profit or loss — Meanwhile his plan had succeeded:\n\nhe had got somebody who not only wished himself into his place, but moreover gave him a sum for standing down, and who, if the contract were prolonged, would in the latter years pay the King annually some 5000 rt. more — this the King himself approved by cabinet order, at once accepting estates from the new lessee in place of payment, having the sum for standing down paid to T. in advance, and afterwards recovered out of the estates.\n\nFor the rest, however, he, T., must — if one called upon him to speak upon duty and honour — assure them that it must fall hard upon anyone to render up the lease raised by him to as much as 35/m rt. This is proved too by the condition of the present lessee, for he gives only 30/m in cash, yet he always remains in arrears with large sums.\n\nThe under-lessees appointed by him, meanwhile, could not maintain themselves either — for he, T., when he engaged them at the high rents, had constantly sought thereby to make the discharge of the\n\nrent easier for them, in that he took all their produce off their hands again in return for the rent they had delivered to the office, paying for grain, cattle etc. at prices twice as high as they actually stood, without letting it become known; and merely on this ground each of them had been content, and his business had thereby acquired the most brilliant colouring. For the rest the result would remain — the Nöldich is a wretched official who, upon the hearsay of wretched men, has so conducted his [illegible] that he has had to tell the King lies. The result of the whole then follows of itself. I have wished to set this down for Your Most Serene Highness's high insight and for Your utmost reassurance, so that Your Serene Highness may see quite through the business. For as it seems to me, Your Highness believes that on account of Krotoszyn something can be laid to my charge, and that I had perhaps even laid that plan before You in order that I might thereby slip through myself — By God, this is never the case, and never can be — I have always dealt uprightly toward every good man, consequently I could least of all do otherwise toward my princely patron — It was the purest and most sincere intention, and heaven will crown the end. The Minister Count Schulenburg has assured the Princess Sa[cken] that Your Highness might obtain the estates of both kinds,\n\nonly Your Highness would have to pay as much as should be brought out upon the investigation of the Krotoszyn, Polajewo and Your Serene Highness's estates — against that nothing can be said, and it comes only to a proper conduct of the business.\n\nConcerning the money negotiation, the Princess writes today to Nising — the Princess cannot and absolutely will not give more than 30/m rt. — Nising is to make out the instruments and to alter in them only a very little, after the form sent in here; whereupon the money is at once to lie ready here — Now it still turns upon about 7000 Rthl — I do not know where these are to be got — I give myself all possible pains — God knows where I shall succeed. From the Princess I obtain absolutely nothing more; Her Serene Highness assures me she would gladly do it, only she could now, for shortness of time, find no further means — If I sell my Świniary oaks tomorrow, then I shall give; but if this does not come off, it will be hard to find means here — I shall indeed put forth everything; perhaps it may yet succeed — meanwhile let Your Most Serene Highness provide there also.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin[?], the 12th of December 1798.\n\ntrue, humble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld betreibt den Tausch der Güter des Fürsten gegen Krotoszyn und Polajewo. Schreiben an den König, an Beyme und Zastrow sind abgegeben. Nach Triebenfelds Plan soll der König einen Commissarius ernennen oder nach gleichem Ertrag und Werth entscheiden. Glenck zahlt als General Pächter jährlich 44500 Rthl. Triebenfeld bestreitet, dass Krotoszyn 49000 Rthl bringe (Pacht 30000 Rthl), und beteuert seine Uneigennützigkeit. Die Fürstin Sacken gibt höchstens 30/m Rthl, circa 7000 Rthl fehlen noch.",
  "reading": {

@@ -112,7 +112,48 @@
    "doc_line": 25
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "knobelsdorff",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorff",
+   "surface_en": "Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Klein Öhringen",
+   "kind": "place",
+   "surface_de": "Klein Öhringen",
+   "surface_en": "Klein Öhringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Klein Öhringen",
  "place_mentions": [
   {
@@ -138,9 +179,48 @@
    "doc_line": 22
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "211\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMr von Knobelsdorff was here and has satisfied himself as to the premises. It pleases him, and I am therefore endeavouring now to bring everything into order, so as to arrange it all such that one can survey the matter in an instant. Meanwhile the confusion is very great, and the people stubborn who are heard by Hawich; often I could go out of my mind. With God's help I hope to set everything aside. The lawsuit concerning Trąbczyn will come to a good end; the hearing has stood open since the 24th, the matter is still not concluded, and it may easily be another 14 days before the decree is read out by the tribunal. If I win here, then all distress shall be at an end.\n\nMr von Knobelsdorff I hold to be an exceedingly upright [uncertain: fang] man who [uncertain: his have] states only [uncertain: according to] the truth, and this shall, from this side / if Your Serene Highness leaves the management to me alone / [uncertain: fetch] also come to pass — until my last breath I remain Your Serene Highness's\n\nKlein Öhringen, the 29th of November\n\n1810\n\nfaithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Knobelsdorff",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Klein Öhringen",
+     "en": "Klein Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "211",
+    "24",
+    "14",
+    "29",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "211\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMr von Knobelsdorff was here and has satisfied himself as to the premises. It pleases him, and I am therefore endeavouring now to bring everything into order, so as to arrange it all such that one can survey the matter in an instant. Meanwhile the confusion is very great, and the people stubborn who are heard by Hawich; often I could go out of my mind. With God's help I hope to set everything aside. The lawsuit concerning Trąbczyn will come to a good end; the hearing has stood open since the 24th, the matter is still not concluded, and it may easily be another 14 days before the decree is read out by the tribunal. If I win here, then all distress shall be at an end.\n\nMr von Knobelsdorff I hold to be an exceedingly upright [uncertain: fang] man who [uncertain: his have] states only [uncertain: according to] the truth, and this shall, from this side / if Your Serene Highness leaves the management to me alone / [uncertain: fetch] also come to pass — until my last breath I remain Your Serene Highness's\n\nKlein Öhringen, the 29th of November\n\n1810\n\nfaithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Herr von Knobelsdorff hat die Örtlichkeit besichtigt, sie gefällt ihm. Triebenfeld will nun alles so ordnen, dass man die Sache sofort überblicken kann. Er klagt über große Verwirrung und halsstarrige Leute, die von Hawich gehört werden. Vom Prozess um Trąbczyn erwartet er ein gutes Ende: Der Termin steht seit dem 24. an, bis zur Verlesung des Dekrets des Tribunals kann es noch 14 Tage dauern. Gewinnt er, soll alle Not enden.",
  "reading": {

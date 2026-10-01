@@ -93,7 +93,88 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Highly Honoured Sir, Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Hochzuverehrender Herr Krieges und Forst Rath",
+   "surface_en": "Highly Honoured Sir, Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Chamber Director Graf",
+   "kind": "person",
+   "surface_de": "Cammer Director Graf",
+   "surface_en": "Chamber Director Graf",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Behringen",
+   "kind": "place",
+   "surface_de": "Behringen",
+   "surface_en": "Behringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohischen",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fräulein von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Frauenlein von Triebenfeld",
+   "surface_en": "Fräulein von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Right Honourable",
+   "kind": "other",
+   "surface_de": "Euer Hochwohlgebohren",
+   "surface_en": "Your Right Honourable",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "His Serene Highness",
+   "kind": "person",
+   "surface_de": "Sr. Durchl.",
+   "surface_en": "His Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Dresden",
  "place_mentions": [
   {
@@ -108,9 +189,79 @@
    "doc_line": 23
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "178\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! I have just now found among my papers some further chartes blanches signed by His Serene Highness, which I packed up in the [uncertain: Eilrigbreslau] and which were intended for Your Right Honourable. You will forgive me this oversight when I tell you that in the last nights before the departure I had no rest, since the Chamber Director Graf arrived there from Behringen, and now everything that [uncertain: concerned] the Hohenlohe affairs was to be",
+   "names": [
+    {
+     "de": "Hochzuverehrender Herr Krieges und Forst Rath",
+     "en": "Highly Honoured Sir, Councillor of War and Forests",
+     "kind": "other"
+    },
+    {
+     "de": "Cammer Director Graf",
+     "en": "Chamber Director Graf",
+     "kind": "person"
+    },
+    {
+     "de": "Behringen",
+     "en": "Behringen",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenlohischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "178"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "settled before the journey was undertaken. The remaining chartes blanches I have sent to the gracious Fräulein von Triebenfeld.\n\nI have the honour to remain, with the most perfect veneration,\n\nYour Right Honourable's — P.S. His Serene Highness, before the departure, has appointed me Councillor of Dispatches!! Dresden, the 8th of November 1805.\n\nhumble and obedient servant A: Hahn",
+   "names": [
+    {
+     "de": "Frauenlein von Triebenfeld",
+     "en": "Fräulein von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Euer Hochwohlgebohren",
+     "en": "Your Right Honourable",
+     "kind": "other"
+    },
+    {
+     "de": "Sr. Durchl.",
+     "en": "His Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "178\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! I have just now found among my papers some further chartes blanches signed by His Serene Highness, which I packed up in the [uncertain: Eilrigbreslau] and which were intended for Your Right Honourable. You will forgive me this oversight when I tell you that in the last nights before the departure I had no rest, since the Chamber Director Graf arrived there from Behringen, and now everything that [uncertain: concerned] the Hohenlohe affairs was to be\n\nsettled before the journey was undertaken. The remaining chartes blanches I have sent to the gracious Fräulein von Triebenfeld.\n\nI have the honour to remain, with the most perfect veneration,\n\nYour Right Honourable's — P.S. His Serene Highness, before the departure, has appointed me Councillor of Dispatches!! Dresden, the 8th of November 1805.\n\nhumble and obedient servant A: Hahn",
  "summary_en": "",
  "summary_de": "Hahn meldet, dass er unter seinen Papieren noch einige von Sr Durchlaucht unterschriebene chartes blanches gefunden hat, die für Triebenfeld bestimmt waren. Er entschuldigt das Versehen: In den letzten Nächten vor der Abreise sei der Cammer Director Graf eingetroffen und alles Hohenlohische musste vor der Reise erledigt werden. Die übrigen chartes blanches hat er an die Fräulein von Triebenfeld geschickt. Nachschrift: Sr Durchlaucht hat ihn vor der Abreise zum Expeditions Rath ernannt.",
  "reading": {

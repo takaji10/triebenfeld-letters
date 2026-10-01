@@ -168,7 +168,96 @@
    "doc_line": 46
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "voss",
+   "display": "Voss",
+   "kind": "person",
+   "surface_de": "Voss",
+   "surface_en": "Voss",
+   "page": 2
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "B[eyme]",
+   "surface_en": "B[eyme]",
+   "page": 2
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "K[öckritz]",
+   "surface_en": "K[öckritz]",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Krot[oszyn]",
+   "kind": "place",
+   "surface_de": "Krot[oszyner]",
+   "surface_en": "Krot[oszyn]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -227,9 +316,85 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "97\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nHis Majesty the King wishes that Your Most Serene Highness should take your route by way of Berlin and tarry here a couple of days. Colonel von Zastrow asked the monarch outright whether Your Serene Highness might take your tour by way of Dresden, to which the King answered him: it would give him pleasure to see Your Serene Highness here for a couple of days.\n\nConcerning your most high sojourn in the Empire I have therefore, out of delicacy, made no further mention, since Your Serene Highness alone can now touch this chord here. Frankly said, I do not know whether it would be looked upon kindly if Your Serene Highness were absent from Silesia for 6 months.\n\nThe King is now fairly well restored again, and I hear that they mean to settle the exchange matter even before Your Most Serene Highness's arrival. Colonel von Zastrow told me only yesterday — the good monarch has declared",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "97",
+    "6"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "that in consideration of both estates everything should be examined, so that neither the state nor Your Serene Highness should lose, and then the exchange might take place — this is now only to be confirmed by a public Cabinet Order, and this is also the only thing that is to be wished for, for then all the rest will settle itself. Minister von Voss has bent every effort against it and is still seething with fury and revenge. They have moved heaven and hell to bring the good monarch, or rather B[eyme] and K[öckritz], to refuse the exchange outright. Only these two men stood firm as a rock, and insisted upon a decision that stands with honour — Concerning the secularisation affairs, my faithful and humble opinions by word of mouth — for now my truly honest counsel — that for the present not a word of it be mentioned — for these are, [uncertain: Mutsch] said, mousetraps. Glenck, whom I cannot make mobile as promptly as I had thought — comes [uncertain: könt] in about 24 hours after, so that Your Serene Highness may dispose of all the rest — but I await your most high self here — for I shall not depart from here until the Krot[oszyn] matter is in order — In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the [illegible]th of January\n\n1799.\n\nmost humble and faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Voss",
+     "en": "Voss",
+     "kind": "person"
+    },
+    {
+     "de": "B[eyme]",
+     "en": "B[eyme]",
+     "kind": "person"
+    },
+    {
+     "de": "K[öckritz]",
+     "en": "K[öckritz]",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Krot[oszyner]",
+     "en": "Krot[oszyn]",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "1799"
+   ]
+  }
+ ],
+ "text_english": "97\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nHis Majesty the King wishes that Your Most Serene Highness should take your route by way of Berlin and tarry here a couple of days. Colonel von Zastrow asked the monarch outright whether Your Serene Highness might take your tour by way of Dresden, to which the King answered him: it would give him pleasure to see Your Serene Highness here for a couple of days.\n\nConcerning your most high sojourn in the Empire I have therefore, out of delicacy, made no further mention, since Your Serene Highness alone can now touch this chord here. Frankly said, I do not know whether it would be looked upon kindly if Your Serene Highness were absent from Silesia for 6 months.\n\nThe King is now fairly well restored again, and I hear that they mean to settle the exchange matter even before Your Most Serene Highness's arrival. Colonel von Zastrow told me only yesterday — the good monarch has declared\n\nthat in consideration of both estates everything should be examined, so that neither the state nor Your Serene Highness should lose, and then the exchange might take place — this is now only to be confirmed by a public Cabinet Order, and this is also the only thing that is to be wished for, for then all the rest will settle itself. Minister von Voss has bent every effort against it and is still seething with fury and revenge. They have moved heaven and hell to bring the good monarch, or rather B[eyme] and K[öckritz], to refuse the exchange outright. Only these two men stood firm as a rock, and insisted upon a decision that stands with honour — Concerning the secularisation affairs, my faithful and humble opinions by word of mouth — for now my truly honest counsel — that for the present not a word of it be mentioned — for these are, [uncertain: Mutsch] said, mousetraps. Glenck, whom I cannot make mobile as promptly as I had thought — comes [uncertain: könt] in about 24 hours after, so that Your Serene Highness may dispose of all the rest — but I await your most high self here — for I shall not depart from here until the Krot[oszyn] matter is in order — In deepest submission I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the [illegible]th of January\n\n1799.\n\nmost humble and faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Der König wünscht, dass der Fürst über Berlin reist und einige Tage bleibt. Triebenfeld hört, der Tausch solle vor der Ankunft abgeschlossen werden: Laut Obrist v. Zastrow erklärte der König, beide Güter seien so zu prüfen, dass weder Staat noch Fürst verliere; es fehle nur eine öffentliche Cabinets Ordre. Minister v. Voss arbeitete dagegen, Beyme und Köckritz blieben fest. Zum Secularisations Geschäft rät er vorerst zu schweigen. Er bleibt in Berlin, bis die Krotoszyner Sache geregelt ist.",
  "reading": {

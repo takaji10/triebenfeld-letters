@@ -103,12 +103,88 @@
    "doc_line": 15
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prussian Characters",
+   "kind": "other",
+   "surface_de": "Preußischer Charaktüre",
+   "surface_en": "Prussian Characters",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "massenbach",
+   "display": "Massenbach",
+   "kind": "person",
+   "surface_de": "Massenbach",
+   "surface_en": "Massenbach",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Buch holz",
+   "kind": "person",
+   "surface_de": "Buch holz",
+   "surface_en": "Buch holz",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "183 A lampoon has appeared here under the title Prussian Characters, in which Your Serene Highness is indeed most severely attacked, and even my own humble person figures in its story. It says: the Prince needs a great deal of money; he has a business [uncertain: man] in the person of the councillor of war von Triebenfeld, but this man seems rather to turn his own interest to account in the Prince's affairs and to enrich himself. He is an intriguing fellow who has worked his way up from a servant to a [uncertain: nobleman]. — I had sent the book along, but even the French authority has had it confiscated — for the rest, the author is said to be Colonel Massenbach [uncertain: and] the local professor Buch holz [text lost] it be once fully proved that Massenbach is the fabricator, [text lost] my pistols are at his service.\n\nthe upright Köckritz too is cruelly handled",
+   "names": [
+    {
+     "de": "Preußischer Charaktüre",
+     "en": "Prussian Characters",
+     "kind": "other"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Massenbach",
+     "en": "Massenbach",
+     "kind": "person"
+    },
+    {
+     "de": "Buch holz",
+     "en": "Buch holz",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "183"
+   ]
+  }
+ ],
+ "text_english": "183 A lampoon has appeared here under the title Prussian Characters, in which Your Serene Highness is indeed most severely attacked, and even my own humble person figures in its story. It says: the Prince needs a great deal of money; he has a business [uncertain: man] in the person of the councillor of war von Triebenfeld, but this man seems rather to turn his own interest to account in the Prince's affairs and to enrich himself. He is an intriguing fellow who has worked his way up from a servant to a [uncertain: nobleman]. — I had sent the book along, but even the French authority has had it confiscated — for the rest, the author is said to be Colonel Massenbach [uncertain: and] the local professor Buch holz [text lost] it be once fully proved that Massenbach is the fabricator, [text lost] my pistols are at his service.\n\nthe upright Köckritz too is cruelly handled",
  "summary_en": "",
  "summary_de": "Berichtet über ein Pasquill mit dem Titel „Preußischer Charaktüre“, das den Fürsten scharf angreift und auch Triebenfeld nennt. Darin heißt es, der Fürst brauche viel Geld und Triebenfeld bereichere sich an dessen Sachen, ein intriganter Mensch, der sich vom Bedienten emporgearbeitet habe. Das Buch wollte er mitschicken, die französische Behörde ließ es aber konfiszieren. Als Verfasser gelten Obrist Massenbach und ein hiesiger Professor. Auch Köckritz wird darin angegriffen.",
  "reading": {

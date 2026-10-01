@@ -66,6 +66,33 @@ def blocked_pages():
     return pages, letters
 
 
+def english_table(tbl_de, segs):
+    """The English of a tabulated document as a table, page by page, or None.
+
+    The translator returns each page as CSV in the shape it was given. That is
+    only shown as a table if it kept the shape: the same rows on every page
+    and, outside the name column, the same cells. Otherwise the pages are
+    published as plain text, which looks wrong but puts no sum against the
+    wrong entry.
+    """
+    try:
+        tbl = unitlib.table_of({int(s['page']): [ln for ln in s['en'].splitlines()
+                                                 if ln.strip()]
+                                for s in segs})
+    except (StopIteration, ValueError):
+        return None
+
+    def figures(t):
+        rows = t['head'][1:] + [r for pg in sorted(t['pages']) for r in t['pages'][pg]] + t['foot']
+        return [[c.strip() for k, c in enumerate(r) if k != 1] for r in rows]
+
+    if ({pg: len(r) for pg, r in tbl['pages'].items()}
+            != {pg: len(r) for pg, r in tbl_de['pages'].items()}
+            or figures(tbl) != figures(tbl_de)):
+        return None
+    return {pg: unitlib.render_table(tbl, pg) for pg in tbl['pages']}
+
+
 def existing_status(path):
     if not os.path.isfile(path):
         return None
@@ -119,6 +146,13 @@ def main():
     if not a.list:
         os.makedirs(DEST, exist_ok=True)
 
+    # Documents the editor laid out as tables get an English table as well.
+    tables = {r['pad']: t
+              for u in unitlib.load_units() if u.slug == a.unit
+              for lid, t in unitlib.load_tables(u).items()
+              for r in unitlib.records_by_pad(ROOT).values()
+              if r['unit'] == u.slug and str(r['letter_id']) == lid}
+
     published = kept = skipped = 0
     for fn in unitlib.scope_to_unit(sorted(os.listdir(src)), a.unit):
         if not fn.endswith('.json') or fn.startswith('_'):
@@ -164,6 +198,15 @@ def main():
             print(f'  {pad}: nothing publishable ({dropped} page(s) held back)')
             skipped += 1
             continue
+
+        if pad in tables:
+            shown = english_table(tables[pad], segs) if not dropped else None
+            if shown:
+                for seg in segs:
+                    seg['html'] = shown[int(seg['page'])]
+            else:
+                print(f'  !! {pad}: the English did not keep the rows and figures '
+                      f'of the table - published as plain text')
 
         if a.list:
             print(f'  {pad}: {len(segs)} page(s) ready'

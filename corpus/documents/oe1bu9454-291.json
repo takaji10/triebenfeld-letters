@@ -123,17 +123,6 @@
    "doc_line": 16
   },
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0524_a2",
-   "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20759,
-   "doc_line": 18
-  },
-  {
    "entity": "nesselrode",
    "display": "Nesselrode",
    "kind": "person",
@@ -143,17 +132,6 @@
    "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
    "line": 20760,
    "doc_line": 19
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0524_a2",
-   "scan": "Oe_1_Bu_9454_0524_a2-L291_01.jpg",
-   "line": 20762,
-   "doc_line": 21
   },
   {
    "entity": "cosmar",
@@ -178,17 +156,6 @@
    "doc_line": 44
   },
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 2,
-   "page_id": "0525_a1",
-   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20787,
-   "doc_line": 45
-  },
-  {
    "entity": "hardenberg",
    "display": "Hardenberg",
    "kind": "person",
@@ -198,17 +165,6 @@
    "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
    "line": 20788,
    "doc_line": 46
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 2,
-   "page_id": "0525_a1",
-   "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
-   "line": 20789,
-   "doc_line": 47
   },
   {
    "entity": "triebenfeld",
@@ -222,7 +178,248 @@
    "doc_line": 53
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "kircheisen",
+   "display": "Kircheisen",
+   "kind": "person",
+   "surface_de": "Kircheisen",
+   "surface_en": "Kircheisen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "fürst August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürsten August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Minister Humboldt",
+   "surface_en": "Minister Wilhelm von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister Stein",
+   "kind": "person",
+   "surface_de": "Minister Stein",
+   "surface_en": "Minister Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Worowzow",
+   "kind": "person",
+   "surface_de": "Worowzow",
+   "surface_en": "Worowzow",
+   "page": 1
+  },
+  {
+   "entity": "nesselrode",
+   "display": "Nesselrode",
+   "kind": "person",
+   "surface_de": "Nesselrode",
+   "surface_en": "Nesselrode",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Chancellor",
+   "kind": "other",
+   "surface_de": "Kanzler",
+   "surface_en": "Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heilbronn",
+   "kind": "place",
+   "surface_de": "Heilbronn",
+   "surface_en": "Heilbronn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "other",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "place",
+   "surface_de": "Pohlnischen",
+   "surface_en": "Polish",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Chancellor",
+   "kind": "other",
+   "surface_de": "Fürst Kanzler",
+   "surface_en": "Prince Chancellor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Heilbronn",
+   "kind": "place",
+   "surface_de": "Heilbronn",
+   "surface_en": "Heilbronn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "person",
+   "surface_de": "König v. Würtemberg",
+   "surface_en": "King of Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Crown Prince of Württemberg",
+   "kind": "person",
+   "surface_de": "Kronprinz v. Würtemberg",
+   "surface_en": "Crown Prince of Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess of Oldenburg",
+   "kind": "person",
+   "surface_de": "Prinzeß v Oldenburg",
+   "surface_en": "Princess of Oldenburg",
+   "page": 2
+  },
+  {
+   "entity": "koppe",
+   "display": "Koppe",
+   "kind": "person",
+   "surface_de": "Koppe",
+   "surface_en": "Koppe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hanoverian",
+   "kind": "place",
+   "surface_de": "Hanöreischen",
+   "surface_en": "Hanoverian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Minister Stein",
+   "kind": "person",
+   "surface_de": "Minister Stein",
+   "surface_en": "Minister Stein",
+   "page": 2
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Both",
+   "kind": "person",
+   "surface_de": "Both",
+   "surface_en": "Both",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -292,9 +489,186 @@
    "doc_line": 51
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "291\n\nMost Serene Prince\n\netc. etc.\n\nJust now I have again had in my hands the Cabinet Order of the 27th of April, according to which the King has commanded with the utmost dispatch the promptest payment of the 100000 rt to Prince August, and sent it to Kircheisen; on the 6th of May this was made known to Prince August, which he obsolete must long since have had. Nothing whatever stands [uncertain: stoff] in the way of this matter any longer, and by this everything is won, unless it were that God had made the good Prince August a hostage to his father and struck him with blindness. The compensation matter concerning the affairs of the Polish estates has now been decided through the mediation of Minister Wilhelm von Humboldt; the how, the when and the where now depends upon the Emperor. Minister Stein has already taken every conceivable pains, and Worowzow and Nesselrode have also knocked at the door, but as yet the Emperor has determined nothing. Stein says: if it does not go here, then I shall succeed in Heilbronn. The matter is too important and cannot be let go of; 300000 rt is no child's play. With regard to your affair with Cosmar it is ordered that he shall absolutely and at once deposit your monies, failing which arrest is immediately threatened against him and a supervisor is to be appointed; the matter lies only with the Chancellor",
+   "names": [
+    {
+     "de": "Kircheisen",
+     "en": "Kircheisen",
+     "kind": "person"
+    },
+    {
+     "de": "fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Minister Humboldt",
+     "en": "Minister Wilhelm von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Minister Stein",
+     "en": "Minister Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Worowzow",
+     "en": "Worowzow",
+     "kind": "person"
+    },
+    {
+     "de": "Nesselrode",
+     "en": "Nesselrode",
+     "kind": "person"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Kanzler",
+     "en": "Chancellor",
+     "kind": "other"
+    },
+    {
+     "de": "Heilbronn",
+     "en": "Heilbronn",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlnischen",
+     "en": "Polish",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "291",
+    "27",
+    "100000",
+    "6",
+    "300000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "for signature. As to the further question whether you or the King are to pay the 30000 rt, that will be found out, if one no longer [uncertain: Hr:] scents us of it — pardon me.\n\nConcerning your military affair nothing at all has yet been said. The Prince Chancellor ascribes all of that journal to himself, and therefore nothing is to be learned or to be betrayed. The King departs on the night of the 25th to the 26th; he goes still to Berlin and thence directly to Heilbronn. The Prince Chancellor follows him soon; I then hasten to you to attend to the rest. Saved you are and will be. The King of Württemberg is playing a great part; the mediatised are laid in the barrel, unless indeed the times change, for the Crown Prince of Württemberg marries the Princess of Oldenburg. These are strange times. Koppe is appointed in the Hanoverian service; I shall learn from Minister Stein where. Write for Your Serene Highness so as not to [uncertain: mehren] me, for I depart when Hardenberg and Stein depart. But it would be sad if you sent me no money, as I [do] through Adolph [uncertain: Both], for I should not know how I am to get away from here. I remain forever Your Serene Highness's, Vienna, the 24th of May 1815\n\nfaithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Fürst Kanzler",
+     "en": "Prince Chancellor",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Heilbronn",
+     "en": "Heilbronn",
+     "kind": "place"
+    },
+    {
+     "de": "König v. Würtemberg",
+     "en": "King of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "Kronprinz v. Würtemberg",
+     "en": "Crown Prince of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzeß v Oldenburg",
+     "en": "Princess of Oldenburg",
+     "kind": "person"
+    },
+    {
+     "de": "Koppe",
+     "en": "Koppe",
+     "kind": "person"
+    },
+    {
+     "de": "Hanöreischen",
+     "en": "Hanoverian",
+     "kind": "place"
+    },
+    {
+     "de": "Minister Stein",
+     "en": "Minister Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Both",
+     "en": "Both",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30000",
+    "25",
+    "26",
+    "24",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "291\n\nMost Serene Prince\n\netc. etc.\n\nJust now I have again had in my hands the Cabinet Order of the 27th of April, according to which the King has commanded with the utmost dispatch the promptest payment of the 100000 rt to Prince August, and sent it to Kircheisen; on the 6th of May this was made known to Prince August, which he obsolete must long since have had. Nothing whatever stands [uncertain: stoff] in the way of this matter any longer, and by this everything is won, unless it were that God had made the good Prince August a hostage to his father and struck him with blindness. The compensation matter concerning the affairs of the Polish estates has now been decided through the mediation of Minister Wilhelm von Humboldt; the how, the when and the where now depends upon the Emperor. Minister Stein has already taken every conceivable pains, and Worowzow and Nesselrode have also knocked at the door, but as yet the Emperor has determined nothing. Stein says: if it does not go here, then I shall succeed in Heilbronn. The matter is too important and cannot be let go of; 300000 rt is no child's play. With regard to your affair with Cosmar it is ordered that he shall absolutely and at once deposit your monies, failing which arrest is immediately threatened against him and a supervisor is to be appointed; the matter lies only with the Chancellor\n\nfor signature. As to the further question whether you or the King are to pay the 30000 rt, that will be found out, if one no longer [uncertain: Hr:] scents us of it — pardon me.\n\nConcerning your military affair nothing at all has yet been said. The Prince Chancellor ascribes all of that journal to himself, and therefore nothing is to be learned or to be betrayed. The King departs on the night of the 25th to the 26th; he goes still to Berlin and thence directly to Heilbronn. The Prince Chancellor follows him soon; I then hasten to you to attend to the rest. Saved you are and will be. The King of Württemberg is playing a great part; the mediatised are laid in the barrel, unless indeed the times change, for the Crown Prince of Württemberg marries the Princess of Oldenburg. These are strange times. Koppe is appointed in the Hanoverian service; I shall learn from Minister Stein where. Write for Your Serene Highness so as not to [uncertain: mehren] me, for I depart when Hardenberg and Stein depart. But it would be sad if you sent me no money, as I [do] through Adolph [uncertain: Both], for I should not know how I am to get away from here. I remain forever Your Serene Highness's, Vienna, the 24th of May 1815\n\nfaithful and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, dass eine Cabinets Ordre vom 27. April die sofortige Auszahlung der 100000 Rthl an Fürst August befiehlt. Die Entschädigung für die polnischen Güter sei durch Minister Humboldt entschieden, das Wie und Wann hänge aber vom Kayser ab. Stein, Worowzow und Nesselrode setzen sich dafür ein. Cosmar soll die Gelder des Fürsten sofort hinterlegen, sonst drohen ihm Arrest und ein Oberaufseher. In der Militärsache gibt es nichts Neues. Triebenfeld bittet dringend um Geld.",
  "reading": {

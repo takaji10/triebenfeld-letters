@@ -146,7 +146,104 @@
    "doc_line": 30
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Royal General Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Königl. General Invaliden Casse",
+   "surface_en": "Royal General Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürsten von Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess von Sacken",
+   "kind": "person",
+   "surface_de": "Fürstin von Sacken",
+   "surface_en": "Princess von Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Roitsch",
+   "kind": "person",
+   "surface_de": "Roitsch",
+   "surface_en": "Roitsch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Prussian Court of Appeal",
+   "kind": "other",
+   "surface_de": "Königl. Preuß. Cammergericht",
+   "surface_en": "Royal Prussian Court of Appeal",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Woldermann",
+   "kind": "person",
+   "surface_de": "Woldermann",
+   "surface_en": "Woldermann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zielona Góra",
+   "kind": "place",
+   "surface_de": "Grüneberg",
+   "surface_en": "Zielona Góra",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stoewersand",
+   "kind": "person",
+   "surface_de": "Stoewersand",
+   "surface_en": "Stoewersand",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -205,9 +302,84 @@
    "doc_line": 32
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "What the Royal General Invalids' Fund has submitted against the Royal Councillor of War and Forests Mr von Triebenfeld, concerning the laying of an arrest upon the legacy of 80000 rt. bequeathed to the Prince of Hohenlohe-Ingelfingen by the late Princess von Sacken, and has requested be ordered, we give him to see from the submission of the 30th of last month, annexed in copy.\n\nSince we have now granted the arrest applied for, in the circumstances arising, as the annexure in copy sets out more fully, and have, for its justification and also for the instruction of the matter, appointed a hearing for the 23rd of August at 10 o'clock in the forenoon before the Court of Appeal Councillor Roitsch, we hereby command the Royal Councillor of War and Forests Mr von Triebenfeld to present himself at the appointed time at the Court of Appeal in person, or through one of the justice commissioners appointed at the Court of Appeal, to declare himself upon the means of proof to be brought forward by the opposing party on behalf of his claim, and generally [uncertain: upon the objections] as to what he has to object against the arrest imposed, to state the damage which may be impending upon him from the same, and to indicate at how high, in his opinion, the caution is to be fixed. At the same time Mr von Triebenfeld has then also to enter into amicable negotiation with the plaintiff, if not in the principal matter, then at least in the matter of the arrest, particularly should the latter demand the lifting of the arrest, perhaps against surety.\n\nIf Mr von Triebenfeld does not appear at the appointed hearing, he has unfailingly to expect that, in punishment of his disobedience, the arrest imposed will be left standing, and that he will be referred with such objections as he may have to the hearing of instruction in the principal matter, according to the plaintiff's application it will be adjudged.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Court of Appeal\n\nWoldermann\n\nTo\n\nthe Royal Councillor of War and Forests\n\nMr von Triebenfeld\n\nat Konotop near Zielona Góra\n\nin Silesia\n\nStoewersand",
+   "names": [
+    {
+     "de": "Königl. General Invaliden Casse",
+     "en": "Royal General Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten von Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Fürstin von Sacken",
+     "en": "Princess von Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Roitsch",
+     "en": "Roitsch",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Königl. Preuß. Cammergericht",
+     "en": "Royal Prussian Court of Appeal",
+     "kind": "other"
+    },
+    {
+     "de": "Woldermann",
+     "en": "Woldermann",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Grüneberg",
+     "en": "Zielona Góra",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Stoewersand",
+     "en": "Stoewersand",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "80000",
+    "30ten",
+    "23ten",
+    "10",
+    "1ten",
+    "1811"
+   ]
+  }
+ ],
+ "text_english": "What the Royal General Invalids' Fund has submitted against the Royal Councillor of War and Forests Mr von Triebenfeld, concerning the laying of an arrest upon the legacy of 80000 rt. bequeathed to the Prince of Hohenlohe-Ingelfingen by the late Princess von Sacken, and has requested be ordered, we give him to see from the submission of the 30th of last month, annexed in copy.\n\nSince we have now granted the arrest applied for, in the circumstances arising, as the annexure in copy sets out more fully, and have, for its justification and also for the instruction of the matter, appointed a hearing for the 23rd of August at 10 o'clock in the forenoon before the Court of Appeal Councillor Roitsch, we hereby command the Royal Councillor of War and Forests Mr von Triebenfeld to present himself at the appointed time at the Court of Appeal in person, or through one of the justice commissioners appointed at the Court of Appeal, to declare himself upon the means of proof to be brought forward by the opposing party on behalf of his claim, and generally [uncertain: upon the objections] as to what he has to object against the arrest imposed, to state the damage which may be impending upon him from the same, and to indicate at how high, in his opinion, the caution is to be fixed. At the same time Mr von Triebenfeld has then also to enter into amicable negotiation with the plaintiff, if not in the principal matter, then at least in the matter of the arrest, particularly should the latter demand the lifting of the arrest, perhaps against surety.\n\nIf Mr von Triebenfeld does not appear at the appointed hearing, he has unfailingly to expect that, in punishment of his disobedience, the arrest imposed will be left standing, and that he will be referred with such objections as he may have to the hearing of instruction in the principal matter, according to the plaintiff's application it will be adjudged.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Court of Appeal\n\nWoldermann\n\nTo\n\nthe Royal Councillor of War and Forests\n\nMr von Triebenfeld\n\nat Konotop near Zielona Góra\n\nin Silesia\n\nStoewersand",
  "summary_en": "",
  "summary_de": "Vorladung des Kammergerichts Berlin: Auf Antrag der General Invaliden Casse gegen Triebenfeld ist ein Arrest auf das Legat von 80000 Rthl verhängt, das die verstorbene Fürstin von Sacken dem Fürsten von Hohenlohe-Ingelfingen vermacht hat. Triebenfeld soll am 23. August um 10 Uhr vor Kammergerichtsrath Roitsch selbst oder durch einen Justizkommissar erscheinen, seine Einwendungen und seinen Schaden vortragen, die Höhe der Caution angeben und einen Vergleich versuchen. Bleibt er aus, bleibt der Arrest bestehen.",
  "reading": {

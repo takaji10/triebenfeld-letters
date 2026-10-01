@@ -209,7 +209,232 @@
    "doc_line": 86
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Collé",
+   "kind": "other",
+   "surface_de": "Collé",
+   "surface_en": "Collé",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Maluce",
+   "kind": "person",
+   "surface_de": "Maluce",
+   "surface_en": "Maluce",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the French General Direction",
+   "kind": "other",
+   "surface_de": "Französischen General Direction",
+   "surface_en": "the French General Direction",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the French General Government",
+   "kind": "other",
+   "surface_de": "Französischen General Gouvernements",
+   "surface_en": "the French General Government",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "komornik",
+   "kind": "other",
+   "surface_de": "Komorniks",
+   "surface_en": "komornik",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Councillor of War and Forests von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Krieges und Forst Rath von Triebenfeld",
+   "surface_en": "the Councillor of War and Forests von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the French General Government",
+   "kind": "other",
+   "surface_de": "Französische General Gouvernement",
+   "surface_en": "the French General Government",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "the said von Triebenfeld",
+   "kind": "person",
+   "surface_de": "p. v Triebenfeld",
+   "surface_en": "the said von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "the said von Triebenfeld",
+   "kind": "person",
+   "surface_de": "p. v. Triebenfeld",
+   "surface_en": "the said von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyn",
+   "surface_en": "Wrąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Alt Olesnica",
+   "kind": "place",
+   "surface_de": "Alt Olesnica",
+   "surface_en": "Alt Olesnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojno",
+   "surface_en": "Kopojno",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Skokum",
+   "kind": "place",
+   "surface_de": "Skokum",
+   "surface_en": "Skokum",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniki",
+   "surface_en": "Swiątniki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Adelow",
+   "kind": "place",
+   "surface_de": "Adelow",
+   "surface_en": "Adelow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sophienthal",
+   "kind": "place",
+   "surface_de": "Sophienthal",
+   "surface_en": "Sophienthal",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Alt and Neu Swięcia",
+   "kind": "place",
+   "surface_de": "Alt und Neu Swięce",
+   "surface_en": "Alt and Neu Swięcia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "komornik",
+   "kind": "other",
+   "surface_de": "Komornik",
+   "surface_en": "komornik",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Tribunal",
+   "kind": "other",
+   "surface_de": "Tribunal",
+   "surface_en": "Tribunal",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -312,9 +537,195 @@
    "doc_line": 83
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "18\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI lay in the most violent fever when Your Serene Highness's letter reached me; the sight of your hand cheered my sum, but how great was my astonishment when I [saw] the instrument that had been made out, together with the power of attorney — who has given Your Serene Highness this counsel? W here, what was to be collected in for Your Serene Highness, that would happen without any such instrument. I do, after all, hold a general power of attorney for that purpose. For you, unhappily, I can collect in nothing, for at this moment everything has been placed under arrest. Besides, you were indeed bound to pay the interest to the Invalids' Fund.\n\nIn Berlin I was dragged about Collé; when the French held me under arrest I had to pay, for Your Serene Highness, as your authorised representative. When I had been released from arrest I proved the unheard-of, unjust proceeding of the Intendant",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Collé",
+     "en": "Collé",
+     "kind": "other"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "18"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Maluce and of the Invalids' Fund before the French General Direction — this body has now ordered that only the 3121 Rthl are to be returned out of the estates, together with costs and interest. [In accordance] with this decree it is I who can demand the monies back, not Your Serene Highness, for you are the party owing — I demand, over and above, the interest, the interest thereon and the costs, which together amount to 4219 Rthl; I require that the same be collected in for me out of the arrears and the interest of the subjects, upon which the Invalids' Fund has now laid arrest.\n\nNow in order to facilitate this matter, and not first to have to seek out lengthy judicial assistance, Your Serene Highness should, on the counsel of the komornik, declare:\n\nthat you, in accordance with the decree of the French General Government, still owe to the Councillor of War and Forests von Triebenfeld the 3125 Rthl etc. of interest taken from him by compulsion and arrest, which the Invalids' Fund received against receipt on 14 February 1808,",
+   "names": [
+    {
+     "de": "Maluce",
+     "en": "Maluce",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Französischen General Direction",
+     "en": "the French General Direction",
+     "kind": "other"
+    },
+    {
+     "de": "Französischen General Gouvernements",
+     "en": "the French General Government",
+     "kind": "other"
+    },
+    {
+     "de": "Komorniks",
+     "en": "komornik",
+     "kind": "other"
+    },
+    {
+     "de": "Krieges und Forst Rath von Triebenfeld",
+     "en": "the Councillor of War and Forests von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3121",
+    "4219",
+    "3125",
+    "1808",
+    "14"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "and which the French General Government ordered to be [uncertain: reimbursed] to the said von Triebenfeld out of the revenues of the Zagórów estate, and that the said von Triebenfeld has in this respect been satisfied neither as regards the capital advanced nor as regards the costs and interest.\n\nSince, then, the capital advanced together with interest and costs amounts to 4219 Rthl, you accordingly assign to Triebenfeld this sum, in the amount of 4219 Rthl, out of the old and new interest which the inhabitants of Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki, Adelow, Sophienthal upon Alt and Neu Swięcia have to pay, [so that he may] draw upon it and pay himself out of these funds.\n\nTo that end you concede that this above-mentioned sum of 4219 Rthl may at once be collected in by a komornik, and consequently by the strictest execution, and be handed over to von Triebenfeld. This the komornik then has the Tribunal",
+   "names": [
+    {
+     "de": "Französische General Gouvernement",
+     "en": "the French General Government",
+     "kind": "other"
+    },
+    {
+     "de": "p. v Triebenfeld",
+     "en": "the said von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "p. v. Triebenfeld",
+     "en": "the said von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Wrąbczyn",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Alt Olesnica",
+     "en": "Alt Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Kopojno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Skokum",
+     "en": "Skokum",
+     "kind": "place"
+    },
+    {
+     "de": "Swiątniki",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Adelow",
+     "en": "Adelow",
+     "kind": "place"
+    },
+    {
+     "de": "Sophienthal",
+     "en": "Sophienthal",
+     "kind": "place"
+    },
+    {
+     "de": "Alt und Neu Swięce",
+     "en": "Alt and Neu Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Komornik",
+     "en": "komornik",
+     "kind": "other"
+    },
+    {
+     "de": "Tribunal",
+     "en": "Tribunal",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "4219",
+    "4219",
+    "4219"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "approve, and then sees what he can collect in or lay hold of upon it ahead of the Invalids' Fund.\n\nThis is the only means of rescue for getting any money here at present, so as to keep the machine going. I therefore send my forester on horseback once again, and beg Your Serene Highness in the most pressing terms to have the instrument made out in the manner described above with the utmost dispatch, and to convey it to me by the messenger. I remain, until death,\n\nYour Serene Highness's\n\nif I do not have the instrument here on the 15th, or at the very latest early on the 16th, then everything goes\n\nto ruin and falls to\n\npieces.\n\nBlizanow\n\n6 July 1812\n\nHumble and obedient [uncertain: servant]\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15",
+    "16",
+    "6",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "18\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nI lay in the most violent fever when Your Serene Highness's letter reached me; the sight of your hand cheered my sum, but how great was my astonishment when I [saw] the instrument that had been made out, together with the power of attorney — who has given Your Serene Highness this counsel? W here, what was to be collected in for Your Serene Highness, that would happen without any such instrument. I do, after all, hold a general power of attorney for that purpose. For you, unhappily, I can collect in nothing, for at this moment everything has been placed under arrest. Besides, you were indeed bound to pay the interest to the Invalids' Fund.\n\nIn Berlin I was dragged about Collé; when the French held me under arrest I had to pay, for Your Serene Highness, as your authorised representative. When I had been released from arrest I proved the unheard-of, unjust proceeding of the Intendant\n\nMaluce and of the Invalids' Fund before the French General Direction — this body has now ordered that only the 3121 Rthl are to be returned out of the estates, together with costs and interest. [In accordance] with this decree it is I who can demand the monies back, not Your Serene Highness, for you are the party owing — I demand, over and above, the interest, the interest thereon and the costs, which together amount to 4219 Rthl; I require that the same be collected in for me out of the arrears and the interest of the subjects, upon which the Invalids' Fund has now laid arrest.\n\nNow in order to facilitate this matter, and not first to have to seek out lengthy judicial assistance, Your Serene Highness should, on the counsel of the komornik, declare:\n\nthat you, in accordance with the decree of the French General Government, still owe to the Councillor of War and Forests von Triebenfeld the 3125 Rthl etc. of interest taken from him by compulsion and arrest, which the Invalids' Fund received against receipt on 14 February 1808,\n\nand which the French General Government ordered to be [uncertain: reimbursed] to the said von Triebenfeld out of the revenues of the Zagórów estate, and that the said von Triebenfeld has in this respect been satisfied neither as regards the capital advanced nor as regards the costs and interest.\n\nSince, then, the capital advanced together with interest and costs amounts to 4219 Rthl, you accordingly assign to Triebenfeld this sum, in the amount of 4219 Rthl, out of the old and new interest which the inhabitants of Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki, Adelow, Sophienthal upon Alt and Neu Swięcia have to pay, [so that he may] draw upon it and pay himself out of these funds.\n\nTo that end you concede that this above-mentioned sum of 4219 Rthl may at once be collected in by a komornik, and consequently by the strictest execution, and be handed over to von Triebenfeld. This the komornik then has the Tribunal\n\napprove, and then sees what he can collect in or lay hold of upon it ahead of the Invalids' Fund.\n\nThis is the only means of rescue for getting any money here at present, so as to keep the machine going. I therefore send my forester on horseback once again, and beg Your Serene Highness in the most pressing terms to have the instrument made out in the manner described above with the utmost dispatch, and to convey it to me by the messenger. I remain, until death,\n\nYour Serene Highness's\n\nif I do not have the instrument here on the 15th, or at the very latest early on the 16th, then everything goes\n\nto ruin and falls to\n\npieces.\n\nBlizanow\n\n6 July 1812\n\nHumble and obedient [uncertain: servant]\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld weist das vom Fürsten übersandte Instrument samt Vollmacht zurück, da er Generalvollmacht besitze und alles mit Arrest belegt sei. Unter französischem Arrest habe er für den Fürsten an die Invaliden Casse zahlen müssen. Die französische General Direction ordnete die Rückzahlung der 3121 Rthl aus den Gütern an. Er verlangt eine Erklärung, die ihm 4219 Rthl aus den Zinsresten der Einwohner von Wrąbczyn, Alt Olesnica, Kopojno, Skokum, Swiątniki und anderen Orten anweist, beizutreiben durch einen Komornik.",
  "reading": {

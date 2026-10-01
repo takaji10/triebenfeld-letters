@@ -11,7 +11,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from corpus_pages import build_pages, load_decisions, load_sideways, PAGE_TAG
+from corpus_pages import build_pages, load_decisions, load_set_apart, PAGE_TAG
 import unitlib
 import schema
 import sys
@@ -342,9 +342,10 @@ def load_paragraphs(path):
 
 PARAS = load_paragraphs(os.path.join(UNIT.dir, 'paragraph_decisions.csv'))
 print(f'paragraph breaks loaded: {len(PARAS)}')
-SIDEWAYS = load_sideways(os.path.join(UNIT.dir, 'sideways.yml'), lines, bounds)
+SIDEWAYS = load_set_apart(UNIT.dir, lines, bounds)
 if SIDEWAYS:
-    print(f'sideways lines loaded: {len(SIDEWAYS)}')
+    for _kind in sorted(set(SIDEWAYS.values())):
+        print(f'{_kind} lines loaded: {sum(1 for v in SIDEWAYS.values() if v == _kind)}')
 print(f"line-break decisions loaded: {len(DECISIONS)}")
 
 records = []
@@ -363,6 +364,11 @@ for L in nums:
     pages = build_pages(numbered, L, DECISIONS,
                         is_register=(DOC_TYPE.get(L, 'letter') == 'register'),
                         paras=PARAS, sideways=SIDEWAYS)
+    # A page transcribed by paragraph says so, so the reader does not take its
+    # numbered lines for the lines of the manuscript.
+    for _p in pages:
+        if _p['page_id'] in _R['BY_PARAGRAPH']:
+            _p['by_paragraph'] = True
     # Which photograph each page is. The field has existed since pages were
     # first built and was never filled, so everything derived from the record -
     # the dataset, the per-document JSON, every mention's citation - could say
@@ -480,9 +486,11 @@ with open(os.path.join(UNIT_OUT, 'reading.txt'),'w',
         f.write("\n")
         for p in r['pages']:
             f.write(f"\n[page {p['page']} | archival lines {p['line_start']}-{p['line_end']}]\n")
-            if p.get('sideways_paragraphs'):
-                side = set(p['sideways_paragraphs'])
-                f.write('\n\n'.join(('[written sideways on the page]\n' if k in side else '') + x
+            if p.get('sideways_paragraphs') or p.get('office_paragraphs'):
+                side = set(p.get('sideways_paragraphs') or [])
+                office = set(p.get('office_paragraphs') or [])
+                f.write('\n\n'.join(('[written sideways on the page]\n' if k in side else
+                                     '[written by the receiving office]\n' if k in office else '') + x
                                     for k, x in enumerate(p['paragraphs'])) + "\n")
             else:
                 f.write(p['reading'] + "\n")

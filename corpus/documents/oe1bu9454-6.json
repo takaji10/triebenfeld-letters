@@ -149,17 +149,6 @@
    "doc_line": 10
   },
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0010_a",
-   "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
-   "line": 410,
-   "doc_line": 13
-  },
-  {
    "entity": "nesselrode",
    "display": "Nesselrode",
    "kind": "person",
@@ -391,7 +380,336 @@
    "doc_line": 81
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "prinz-adolph",
+   "display": "Prinz Adolph",
+   "kind": "person",
+   "surface_de": "Prinz Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtembergsehen",
+   "surface_en": "Württemberg",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Itali",
+   "kind": "other",
+   "surface_de": "Itali",
+   "surface_en": "Itali",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sokolnik",
+   "kind": "place",
+   "surface_de": "Sokolnik",
+   "surface_en": "Sokolnik",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wieruszew",
+   "kind": "place",
+   "surface_de": "Wieruszew",
+   "surface_en": "Wieruszew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stein",
+   "kind": "person",
+   "surface_de": "Stein",
+   "surface_en": "Stein",
+   "page": 1
+  },
+  {
+   "entity": "nesselrode",
+   "display": "Nesselrode",
+   "kind": "person",
+   "surface_de": "Nesselrode",
+   "surface_en": "Nesselrode",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "albrecht",
+   "display": "Albrecht",
+   "kind": "person",
+   "surface_de": "Albrecht",
+   "surface_en": "Albrecht",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curian",
+   "kind": "other",
+   "surface_de": "Curische",
+   "surface_en": "Curian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürst Hardenberg",
+   "surface_en": "Prince Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 2
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince H.",
+   "kind": "person",
+   "surface_de": "Fürst H.",
+   "surface_en": "Prince H.",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Syten",
+   "kind": "place",
+   "surface_de": "Syten",
+   "surface_en": "Syten",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Aphrodite",
+   "kind": "person",
+   "surface_de": "Euphrodite",
+   "surface_en": "Aphrodite",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Curian heirs",
+   "kind": "other",
+   "surface_de": "Curischen Erben",
+   "surface_en": "Curian heirs",
+   "page": 2
+  },
+  {
+   "entity": "albrecht",
+   "display": "Albrecht",
+   "kind": "person",
+   "surface_de": "Albrecht",
+   "surface_en": "Albrecht",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "St.",
+   "kind": "person",
+   "surface_de": "St.",
+   "surface_en": "St.",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "marionettes",
+   "kind": "other",
+   "surface_de": "Marconetten",
+   "surface_en": "marionettes",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 3
+  },
+  {
+   "entity": "prinz-adolph",
+   "display": "Prinz Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "F[ürst]. Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "F[ürst]. August",
+   "surface_en": "Prince August",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Langenburg",
+   "kind": "place",
+   "surface_de": "Langenburg",
+   "surface_en": "Langenburg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Winzingeroden",
+   "kind": "person",
+   "surface_de": "Winzingeroden",
+   "surface_en": "Winzingeroden",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 3
+  },
+  {
+   "entity": "beguelin",
+   "display": "Beguelin",
+   "kind": "person",
+   "surface_de": "Beguelin",
+   "surface_en": "Beguelin",
+   "page": 3
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 3
+  },
+  {
+   "entity": "albrecht",
+   "display": "Albrecht",
+   "kind": "person",
+   "surface_de": "Albrecht",
+   "surface_en": "Albrecht",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 3
+  },
+  {
+   "entity": "grevenitz",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitz",
+   "surface_en": "Grevenitz",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -505,9 +823,247 @@
    "doc_line": 79
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "6\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Most Serene Highness's most highly revered letter of April I received yesterday, and since Prince Adolph departs today, I report in reply what I know. In the Württemberg matter there is nothing to be done for the present; this depends on the [uncertain: conjunctures] etc. — I have at present only two matters in view, namely the compensation in the Russian share, and the Curian affair. With regard to the first I must only [say] that the Emperor and King must, and will, make compensation, wherein however neither Zerboni nor any other vermin of the Act can be of help — rather I hear that these [uncertain: Itali] might best be an obstruction. I have demanded the starosty of Sokolnik together with Wieruszew; this yields rent in Rthl and is set off against Your Serene Highness's claim — Minister Stein will [uncertain: act] in this alone with Nesselrode, and His Highness will confirm whatever they wish. Insects belong beneath their feet — [uncertain: M.] the 85/m Rthl from Kamionna is money given in cash by Your Serene Highness, and therefore for that, in due [uncertain: report/time], give the word. The Curian affair now stands somewhat comically — the Cabinet Councillor Albrecht ordered me / after a fortunate return / to give him the accompanying copy of a letter — this was done, and the King now knows everything — Now I have received through Stägemann the urgent and honest commission to come to a settlement with the Curian heirs — this matter is now in hand — An old friend is handling the thunder, and shortly I hope to be at the edge of it.\n\nFor the rest, most gracious Prince and Lord, you give [uncertain: very much in writing] that you believe that Prince Hardenberg has done anything in your affair, or ever will do anything",
+   "names": [
+    {
+     "de": "Prinz Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Würtembergsehen",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Itali",
+     "en": "Itali",
+     "kind": "other"
+    },
+    {
+     "de": "Sokolnik",
+     "en": "Sokolnik",
+     "kind": "place"
+    },
+    {
+     "de": "Wieruszew",
+     "en": "Wieruszew",
+     "kind": "place"
+    },
+    {
+     "de": "Stein",
+     "en": "Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Nesselrode",
+     "en": "Nesselrode",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Albrecht",
+     "en": "Albrecht",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Curische",
+     "en": "Curian",
+     "kind": "other"
+    },
+    {
+     "de": "Fürst Hardenberg",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "85/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "this great man promises for ever and keeps nothing — Neither would he at that time, with his Stägemann, have called for the report from Brzeg, if the latter could only have suspected that Cosmar stood so near the pit — Nothing then remained but knavish delay, since the confirmation was obtained from a provincial board — Stägemann stood there like a corpse when he heard of Cosmar's downfall from my own mouth. One [uncertain: conferred] — but could not discover the cloud out of which the lightning bolt had come. Prince H. himself /that probing man/ started up from his chair when Barbe told it to him in a sarcastic tone. The bacchanals at Syten were in too fresh a memory with everyone /Aphrodite/ had set up her seat there and created nothing but — pleasure — every voluptuary and glutton visited this temple of the corrected H. v. Meanwhile envy stirred all too much — even the great [text lost: garbled] thereto [illegible] and gladly, and the malcontents crept about this temple of pleasure so long until they found occasion to look inside and to examine the whitewashed image more closely. Two [uncertain: kopillen] councillors now appeared and demanded a speedy accounting — which however has not been rendered to this day — A still speedier demand from the Curian heirs followed, in the form of a denunciation, in which they stated that Cosmar had offered them the Syten estates for their claim, by which one [saw] that the thief wished to save himself — [uncertain: Court], but you, most gracious Prince, are not to speak of this — for it is enough that my two friends in Berlin and I here are on the watch — My plan, and the Cabinet Councillor Albrecht's, you will see from the enclosure; in 2 days I shall have the King's declaration — If he pays, so much the better — if he disclaims, then the settlement will be concluded within 2 times 24 hours, and the advance must be furnished — The game stands well; in any case I beg [uncertain: defach] —",
+   "names": [
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst H.",
+     "en": "Prince H.",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Syten",
+     "en": "Syten",
+     "kind": "place"
+    },
+    {
+     "de": "Euphrodite",
+     "en": "Aphrodite",
+     "kind": "person"
+    },
+    {
+     "de": "Curischen Erben",
+     "en": "Curian heirs",
+     "kind": "other"
+    },
+    {
+     "de": "Albrecht",
+     "en": "Albrecht",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2",
+    "2",
+    "24"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Only reckon nothing on St.'s account; he has, by God, done nothing — It could be that many a man will now wish to become a knight on the strength of the affair, and I shall not bar the course to any of them — only in the end you and everyone will be astonished at how the [uncertain: marionettes] were directed. From Pourtalès there is still no answer — we therefore believe that [uncertain: he has been bought]. He seeks only to withdraw his capital out of France. Adolph's business has so far gone quite well, but more of that in due time — For the rest he has seen for himself how everything stands here and how one must idle about here — Without money it is a frightful life here — and, as God is true, I have nothing; Prince Adolph mostly [knows] this himself — He is taking much with him — but I had not the heart to ask him for anything — Only send 100 ducats, and indeed by express courier, or the devil take me; it shall win you hundreds of thousands, so do not let me perish in want and disgrace — Prince August is a wretched, miserable creature, as the accompanying letter from Langenburg proves to you; one of the same wording lies with Winzingeroden. But he shall repent it — He cannot by right be lord of the entailed estate and be called Prince of Öhringen. If only I knew first what sort of man Adolph will turn out to be.\n\nMy head aches frightfully, so that it is impossible for me to write further. In deep reverence I remain, as\n\nYour Serene Highness's\n\nBeguelin commends himself to your grace,\n\nas does Barbe\n\nThe piece to Albrecht I beg\n\nto have back again, as I have\n\nno copy — by express courier, and money\n\nVienna, the 6th of May\n\n1815.\n\nfaithful and obedient servant\n\nv Triebenfeld\n\nIt would be very shrewd if Prince Adolph were to travel by way of Berlin and there extort money from Cosmar and seek to learn everything; I would gladly have given him a letter to Grevenitz, but he is too obstinate for me",
+   "names": [
+    {
+     "de": "St.",
+     "en": "St.",
+     "kind": "person"
+    },
+    {
+     "de": "Marconetten",
+     "en": "marionettes",
+     "kind": "other"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürst]. Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürst]. August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Langenburg",
+     "en": "Langenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Winzingeroden",
+     "en": "Winzingeroden",
+     "kind": "person"
+    },
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "Beguelin",
+     "en": "Beguelin",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Albrecht",
+     "en": "Albrecht",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitz",
+     "en": "Grevenitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "6ten",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "6\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Most Serene Highness's most highly revered letter of April I received yesterday, and since Prince Adolph departs today, I report in reply what I know. In the Württemberg matter there is nothing to be done for the present; this depends on the [uncertain: conjunctures] etc. — I have at present only two matters in view, namely the compensation in the Russian share, and the Curian affair. With regard to the first I must only [say] that the Emperor and King must, and will, make compensation, wherein however neither Zerboni nor any other vermin of the Act can be of help — rather I hear that these [uncertain: Itali] might best be an obstruction. I have demanded the starosty of Sokolnik together with Wieruszew; this yields rent in Rthl and is set off against Your Serene Highness's claim — Minister Stein will [uncertain: act] in this alone with Nesselrode, and His Highness will confirm whatever they wish. Insects belong beneath their feet — [uncertain: M.] the 85/m Rthl from Kamionna is money given in cash by Your Serene Highness, and therefore for that, in due [uncertain: report/time], give the word. The Curian affair now stands somewhat comically — the Cabinet Councillor Albrecht ordered me / after a fortunate return / to give him the accompanying copy of a letter — this was done, and the King now knows everything — Now I have received through Stägemann the urgent and honest commission to come to a settlement with the Curian heirs — this matter is now in hand — An old friend is handling the thunder, and shortly I hope to be at the edge of it.\n\nFor the rest, most gracious Prince and Lord, you give [uncertain: very much in writing] that you believe that Prince Hardenberg has done anything in your affair, or ever will do anything\n\nthis great man promises for ever and keeps nothing — Neither would he at that time, with his Stägemann, have called for the report from Brzeg, if the latter could only have suspected that Cosmar stood so near the pit — Nothing then remained but knavish delay, since the confirmation was obtained from a provincial board — Stägemann stood there like a corpse when he heard of Cosmar's downfall from my own mouth. One [uncertain: conferred] — but could not discover the cloud out of which the lightning bolt had come. Prince H. himself /that probing man/ started up from his chair when Barbe told it to him in a sarcastic tone. The bacchanals at Syten were in too fresh a memory with everyone /Aphrodite/ had set up her seat there and created nothing but — pleasure — every voluptuary and glutton visited this temple of the corrected H. v. Meanwhile envy stirred all too much — even the great [text lost: garbled] thereto [illegible] and gladly, and the malcontents crept about this temple of pleasure so long until they found occasion to look inside and to examine the whitewashed image more closely. Two [uncertain: kopillen] councillors now appeared and demanded a speedy accounting — which however has not been rendered to this day — A still speedier demand from the Curian heirs followed, in the form of a denunciation, in which they stated that Cosmar had offered them the Syten estates for their claim, by which one [saw] that the thief wished to save himself — [uncertain: Court], but you, most gracious Prince, are not to speak of this — for it is enough that my two friends in Berlin and I here are on the watch — My plan, and the Cabinet Councillor Albrecht's, you will see from the enclosure; in 2 days I shall have the King's declaration — If he pays, so much the better — if he disclaims, then the settlement will be concluded within 2 times 24 hours, and the advance must be furnished — The game stands well; in any case I beg [uncertain: defach] —\n\nOnly reckon nothing on St.'s account; he has, by God, done nothing — It could be that many a man will now wish to become a knight on the strength of the affair, and I shall not bar the course to any of them — only in the end you and everyone will be astonished at how the [uncertain: marionettes] were directed. From Pourtalès there is still no answer — we therefore believe that [uncertain: he has been bought]. He seeks only to withdraw his capital out of France. Adolph's business has so far gone quite well, but more of that in due time — For the rest he has seen for himself how everything stands here and how one must idle about here — Without money it is a frightful life here — and, as God is true, I have nothing; Prince Adolph mostly [knows] this himself — He is taking much with him — but I had not the heart to ask him for anything — Only send 100 ducats, and indeed by express courier, or the devil take me; it shall win you hundreds of thousands, so do not let me perish in want and disgrace — Prince August is a wretched, miserable creature, as the accompanying letter from Langenburg proves to you; one of the same wording lies with Winzingeroden. But he shall repent it — He cannot by right be lord of the entailed estate and be called Prince of Öhringen. If only I knew first what sort of man Adolph will turn out to be.\n\nMy head aches frightfully, so that it is impossible for me to write further. In deep reverence I remain, as\n\nYour Serene Highness's\n\nBeguelin commends himself to your grace,\n\nas does Barbe\n\nThe piece to Albrecht I beg\n\nto have back again, as I have\n\nno copy — by express courier, and money\n\nVienna, the 6th of May\n\n1815.\n\nfaithful and obedient servant\n\nv Triebenfeld\n\nIt would be very shrewd if Prince Adolph were to travel by way of Berlin and there extort money from Cosmar and seek to learn everything; I would gladly have given him a letter to Grevenitz, but he is too obstinate for me",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet über die Entschädigung im russischen Anteil: Er hat die Starostei Sokolnik gefordert, verrechnet mit der Forderung des Fürsten; Minister Stein soll dies mit Nesselrode regeln. In der Curischen Angelegenheit erhielt er über Stägemann den Auftrag, sich mit den Curischen Erben zu vergleichen. Diese zeigten an, Cosmar habe ihnen die Sytener Güter angetragen. In 2 Tagen erwartet er die Erklärung des Königs. Hardenberg verspreche nur. Er bittet dringend um 100 Ducaten per Estaffette.",
  "reading": {

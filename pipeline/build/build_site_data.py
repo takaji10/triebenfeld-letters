@@ -156,54 +156,17 @@ def doc_type_label(doc_type):
     return _DOC_LABELS.get('document', 'Document')
 
 
-def render_table(tbl, page_no):
-    """One manuscript page of a tabulated document, as an HTML table.
+# Shared with publish_translations.py, which renders the English table.
+render_table = unitlib.render_table
 
-    The first two columns are the entry number and the name; the rest are
-    amounts. The first header row carries the column groups (Gold, Courant), a
-    label opening a group and the blanks after it continuing it; the second
-    carries the units. The title heads the first page, the closing rows (the
-    Summa) close the last.
-    """
-    rows = tbl['pages'].get(page_no) or []
-    if not rows:
-        return ''
-    head, foot = tbl['head'], tbl['foot']
-    ncol = max(len(r) for r in head + foot + rows)
-
-    def pad(r):
-        return (list(r) + [''] * ncol)[:ncol]
-
-    def cells(r, tag):
-        r = pad(r)
-        return (f'<{tag} class="no">{html.escape(r[0].strip())}</{tag}>'
-                f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
-                + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
-
-    out = ['<div class="ledger-wrap"><table class="ledger">']
-    if page_no == min(tbl['pages']) and tbl['caption']:
-        out.append(f'<caption>{html.escape(tbl["caption"])}</caption>')
-    if head:
-        top, sub = pad(head[0]), pad(head[-1])
-        grp = []
-        i = 2
-        while i < ncol:
-            j = i + 1
-            while j < ncol and not top[j].strip():
-                j += 1
-            grp.append(f'<th colspan="{j - i}" class="grp">{html.escape(top[i].strip())}</th>')
-            i = j
-        out.append('<thead><tr>'
-                   f'<th rowspan="2" class="no">{html.escape(sub[0].strip())}</th>'
-                   f'<th rowspan="2" class="name">{html.escape(sub[1].strip())}</th>'
-                   + ''.join(grp) + '</tr>')
-        out.append('<tr>' + ''.join(f'<th class="num">{html.escape(c.strip())}</th>'
-                                    for c in sub[2:]) + '</tr></thead>')
-    out.append('<tbody>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in rows) + '</tbody>')
-    if foot and page_no == max(tbl['pages']):
-        out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot) + '</tfoot>')
-    out.append('</table></div>')
-    return '\n'.join(out)
+# How a block the page sets apart opens, by kind (corpus_pages.SET_APART). The
+# label is English here and swapped by the language switch through data-i18n.
+SET_APART_OPEN = {
+    'sideways': '<div class="sideways"><div class="sideways-note" data-i18n="sideways">'
+                'Written sideways on the page</div>',
+    'office': '<div class="sideways office-note"><div class="sideways-note" '
+              'data-i18n="office_note">Written by the receiving office</div>',
+}
 
 
 def yaml_str(s):
@@ -459,17 +422,24 @@ def main():
                 # a label, so it does not read as if it ran on in order. The
                 # numbering carries straight through; the lists stay
                 # <ol class="dip"> so verify_site reads every line back.
+                # Text the receiving office wrote on the letter is set apart
+                # the same way, under its own label.
                 side = set(p.get('sideways_lines') or [])
+                office = set(p.get('office_lines') or [])
+                if p.get('by_paragraph'):
+                    body.append('<div class="sideways-note" data-i18n="by_paragraph">'
+                                'Transcribed by paragraph, not line by line: each '
+                                'numbered entry is a paragraph of the manuscript.</div>')
                 _lines = p.get('transcription', p['diplomatic']).split('\n')
                 _run = None
                 for k, ln in enumerate(_lines):
-                    if (k in side) != _run:
+                    _kind = 'sideways' if k in side else 'office' if k in office else False
+                    if _kind != _run:
                         if _run is not None:
                             body.append('</ol>' + ('</div>' if _run else ''))
-                        _run = k in side
+                        _run = _kind
                         if _run:
-                            body.append('<div class="sideways"><div class="sideways-note" data-i18n="sideways">'
-                                        'Written sideways on the page</div>')
+                            body.append(SET_APART_OPEN[_run])
                         body.append('<ol class="dip" start="' + str(p['doc_line_start'] + k) + '">')
                     body.append('<li>' + html.escape(ln) + '</li>')
                 body.append('</ol>' + ('</div>' if _run else ''))
@@ -488,15 +458,15 @@ def main():
                 # every time a page turns. The style drops the indent there.
                 paras = p.get('paragraphs') or [p['reading']]
                 side = set(p.get('sideways_paragraphs') or [])
+                office = set(p.get('office_paragraphs') or [])
                 for _i, _para in enumerate(paras):
                     if not _para.strip():
                         continue
                     _cls = ' class="runs-on"' if (_i == 0
                                                   and p.get('continues_previous')) else ''
-                    if _i in side:
-                        body.append('<div class="sideways"><div class="sideways-note" data-i18n="sideways">'
-                                    'Written sideways on the page</div>'
-                                    '<p>' + html.escape(_para) + '</p></div>')
+                    if _i in side or _i in office:
+                        body.append(SET_APART_OPEN['sideways' if _i in side else 'office']
+                                    + '<p>' + html.escape(_para) + '</p></div>')
                     else:
                         body.append(f'<p{_cls}>' + html.escape(_para) + '</p>')
             body.append('</div>')

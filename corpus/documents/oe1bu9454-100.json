@@ -84,7 +84,48 @@
    "doc_line": 18
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "Sr Majestät",
+   "surface_en": "His Majesty",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Minister of State v. Voss",
+   "kind": "person",
+   "surface_de": "Etats Minister v. Voss",
+   "surface_en": "Minister of State v. Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -99,9 +140,47 @@
    "doc_line": 15
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "100\n\nCopy. Most Serene Prince! Most gracious Prince and Lord! I do not fail most humbly to inform Your Most Serene Highness that His Majesty, upon the presentation of Your Highness's letter of the 21st of this month, has been pleased to command that the answer thereto shall, as Your Most Serene Highness yourself seemed to expect, remain deferred until the arrival of the report required from the Minister of State v. Voss. I remain with the deepest reverence Your Most Serene Highness's Berlin\n\nthe 25th of January 1799.\n\nmost humble and obedient servant\n\nBeyme",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Sr Majestät",
+     "en": "His Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "Etats Minister v. Voss",
+     "en": "Minister of State v. Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "21",
+    "25",
+    "1799"
+   ]
+  }
+ ],
+ "text_english": "100\n\nCopy. Most Serene Prince! Most gracious Prince and Lord! I do not fail most humbly to inform Your Most Serene Highness that His Majesty, upon the presentation of Your Highness's letter of the 21st of this month, has been pleased to command that the answer thereto shall, as Your Most Serene Highness yourself seemed to expect, remain deferred until the arrival of the report required from the Minister of State v. Voss. I remain with the deepest reverence Your Most Serene Highness's Berlin\n\nthe 25th of January 1799.\n\nmost humble and obedient servant\n\nBeyme",
  "summary_en": "",
  "summary_de": "Abschrift. Beyme teilt dem Fürsten mit, dass Sr Majestät nach dem Vortrag seines Schreibens vom 21. d. M. befohlen hat, die Antwort darauf bis zum Eingang des Berichts zurückzustellen, den der Etats Minister v. Voss liefern soll. Der Fürst habe dies nach Beymes Worten selbst zu erwarten geschienen.",
  "reading": {

@@ -266,7 +266,264 @@
    "doc_line": 65
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohesche",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Presburg",
+   "kind": "place",
+   "surface_de": "Presburg",
+   "surface_en": "Presburg",
+   "page": 1
+  },
+  {
+   "entity": "talleyrand",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrand",
+   "surface_en": "Talleyrand",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor Franz",
+   "kind": "person",
+   "surface_de": "Kayser Franz",
+   "surface_en": "Emperor Franz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Churp. heiresses",
+   "kind": "other",
+   "surface_de": "Churp. Erbinen",
+   "surface_en": "Churp. heiresses",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curischen",
+   "surface_en": "Courland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Prinzen Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürst Hardenberg",
+   "surface_en": "Prince Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess Sakkin",
+   "kind": "person",
+   "surface_de": "Fürstin Sakkin",
+   "surface_en": "Princess Sakkin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolphs",
+   "surface_en": "Adolph",
+   "page": 2
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "B[arbe]",
+   "page": 2
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Hum[boldt]",
+   "surface_en": "Hum[boldt]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barben",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neuperg Court",
+   "kind": "person",
+   "surface_de": "Neuperg Court",
+   "surface_en": "Neuperg Court",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Murat",
+   "kind": "person",
+   "surface_de": "Murat",
+   "surface_en": "Murat",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "King of Saxony",
+   "kind": "person",
+   "surface_de": "König von Sachsen",
+   "surface_en": "King of Saxony",
+   "page": 3
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -358,9 +615,204 @@
    "doc_line": 66
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "11\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAccording to a [uncertain: firm] assurance, Your Serene Highness's affair will come up this very week and will certainly be decided favourably. In the end, however, one would after all have been threshing empty straw, should no settlement with the Churp. heiresses be brought about. I therefore beg, by all that is in the world, that Mr Eberhard be sent hither as speedily as possible, so that no new obstacles arise. — Given the good will of His Serene Highness the Prince State Chancellor, everything could nevertheless still be arranged, once the settlement were concluded, even if 50 or a hundred thousand more of them had to be given. The misfortune for the Hohenlohe house would consist only in this, that the estates would have to be administered 5 years longer.\n\nIf Your Serene Highness receives yearly, according to the first plan, 10 or 12/m rt, and, if God grants good fortune, even only 6/m rt pension yearly, then you can live happily, let whoever will administer the estates. No other can then trouble you, most gracious Lord, or diminish anything. Only let Your Serene Highness send Mr Eberhard here in haste; the Congress may now come quickly to an end.\n\nAffairs at the Congress change here like the ebb and the flood — now one [uncertain: boasts] of having won a little peace, but too soon everything is again reasoning about a war very close at hand — the King of Saxony is in Presburg; thither Prince Talleyrand hurried immediately upon his arrival, and now the Emperor Franz and all of them, except our Lord, are going there — He persists [uncertain: firmly] in his obstinacy and will hear nothing of a partition of Saxony; he believes he can even reclaim [uncertain: lack]. On what he so defiantly relies, nobody knows; whether he counts on [illegible: hinwelischen] hosts of armies or again on southern robber-hordes, this is still unknown. But I believe that when he sees that our Lord is in true earnest, he will indeed submit, sign, and take what God has allotted him. The King of Württemberg rages and threatens anew — here and there it seems to be fermenting",
+   "names": [
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohesche",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Presburg",
+     "en": "Presburg",
+     "kind": "place"
+    },
+    {
+     "de": "Talleyrand",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "Kayser Franz",
+     "en": "Emperor Franz",
+     "kind": "person"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Churp. Erbinen",
+     "en": "Churp. heiresses",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "11",
+    "50",
+    "5",
+    "10",
+    "12",
+    "6",
+    "6",
+    "1815"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to ferment; it is curious that nobody says anything to him about it, but rather pays him compliments. Russia treads all human rights in Poland into the dust; thousands of [uncertain: grievances] come in here, but none of the authorities deigns to lend an ear to a complainant — There now reigns great confusion everywhere, and God forbid that the [illegible] smouldering under the ashes should not turn to flame and break forth with a fearful explosion —. Oh! My God, this very moment I hear that Prince August will not take the power of attorney away from Cosmar — Is it possible that a son who has been treated by his father with overflowing kindness can think so — and can ally himself with a convicted villain and robber against his father? I do not know in what category one is to place this. Here it can astonish nobody if the Courland and other creditors harbour suspicions, when the man's own son acts so — Ah, a pity about the 100/m rthl — Meanwhile, patience — Your Serene Highness has indeed said so much good of Prince Adolph, has praised his head, his heart, and his firm attachment to his father — What do you think, most gracious Lord, if one were to have the honest young man declared [uncertain: of age] — then you would after all have a son and a support on which you could lean in old age. Tell me your opinion on this — Prince Hardenberg will set it in train at once, if this has not been expressly forbidden in the will of the old Princess Sakkin, whose sole heir he is after all — Let the brave young man be rescued from the claws of the villain, who riots in good Adolph's [uncertain: property] and [illegible: mälert] himself frightfully — Let Your Serene Highness take this faithfully meant counsel to heart, and if my proposal is agreeable to you, then only send Eberhard and give him a letter to the Prince State Chancellor, and a blank sheet for writing to the King as well — that goes quickly and securely — B[arbe] says the Prince would attend to this alone — but M[inister] Hum[boldt] thinks it may well be necessary to submit a letter to the King — Ah, if this too succeeded, then all would have succeeded — Now, most gracious Prince, only have mercy and send me at least 100 #, out of which I can at least pay Barbe, who is really beginning to grumble. — As surely as heaven is above us, I know of no counsel or help for myself. It is so furiously dear here, I live worse than a day-labourer. You cannot possibly wish that I should perish in disgrace and mockery, vexation and hunger, for all that I do for you? I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 6th of March\n\n1815.\n\nwholly most obedient and faithful servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Curischen",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Prinzen Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst Hardenberg",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Fürstin Sakkin",
+     "en": "Princess Sakkin",
+     "kind": "person"
+    },
+    {
+     "de": "Adolphs",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "B[arbe]",
+     "kind": "person"
+    },
+    {
+     "de": "Hum[boldt]",
+     "en": "Hum[boldt]",
+     "kind": "person"
+    },
+    {
+     "de": "Barben",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "100",
+    "6",
+    "1815"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "At this hour I learn / a report which comes from the [uncertain: Neuperg] Court, Cabinet Secretary of the Grand [uncertain: Duke] / that since today's order the [uncertain: Austrian] army is being put on a war footing. That troops are already marching today and much artillery is being carried off to Italy — It is said that Murat is making [illegible: pertacte] and means also [illegible: einzerhoben] the King of Saxony and Napoleon — Mad stuff is being chattered, everything is reasoning about war — Saxony remains occupied by Prussia —",
+   "names": [
+    {
+     "de": "Neuperg Court",
+     "en": "Neuperg Court",
+     "kind": "person"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Murat",
+     "en": "Murat",
+     "kind": "person"
+    },
+    {
+     "de": "König von Sachsen",
+     "en": "King of Saxony",
+     "kind": "person"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    }
+   ]
+  }
+ ],
+ "text_english": "11\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAccording to a [uncertain: firm] assurance, Your Serene Highness's affair will come up this very week and will certainly be decided favourably. In the end, however, one would after all have been threshing empty straw, should no settlement with the Churp. heiresses be brought about. I therefore beg, by all that is in the world, that Mr Eberhard be sent hither as speedily as possible, so that no new obstacles arise. — Given the good will of His Serene Highness the Prince State Chancellor, everything could nevertheless still be arranged, once the settlement were concluded, even if 50 or a hundred thousand more of them had to be given. The misfortune for the Hohenlohe house would consist only in this, that the estates would have to be administered 5 years longer.\n\nIf Your Serene Highness receives yearly, according to the first plan, 10 or 12/m rt, and, if God grants good fortune, even only 6/m rt pension yearly, then you can live happily, let whoever will administer the estates. No other can then trouble you, most gracious Lord, or diminish anything. Only let Your Serene Highness send Mr Eberhard here in haste; the Congress may now come quickly to an end.\n\nAffairs at the Congress change here like the ebb and the flood — now one [uncertain: boasts] of having won a little peace, but too soon everything is again reasoning about a war very close at hand — the King of Saxony is in Presburg; thither Prince Talleyrand hurried immediately upon his arrival, and now the Emperor Franz and all of them, except our Lord, are going there — He persists [uncertain: firmly] in his obstinacy and will hear nothing of a partition of Saxony; he believes he can even reclaim [uncertain: lack]. On what he so defiantly relies, nobody knows; whether he counts on [illegible: hinwelischen] hosts of armies or again on southern robber-hordes, this is still unknown. But I believe that when he sees that our Lord is in true earnest, he will indeed submit, sign, and take what God has allotted him. The King of Württemberg rages and threatens anew — here and there it seems to be fermenting\n\nto ferment; it is curious that nobody says anything to him about it, but rather pays him compliments. Russia treads all human rights in Poland into the dust; thousands of [uncertain: grievances] come in here, but none of the authorities deigns to lend an ear to a complainant — There now reigns great confusion everywhere, and God forbid that the [illegible] smouldering under the ashes should not turn to flame and break forth with a fearful explosion —. Oh! My God, this very moment I hear that Prince August will not take the power of attorney away from Cosmar — Is it possible that a son who has been treated by his father with overflowing kindness can think so — and can ally himself with a convicted villain and robber against his father? I do not know in what category one is to place this. Here it can astonish nobody if the Courland and other creditors harbour suspicions, when the man's own son acts so — Ah, a pity about the 100/m rthl — Meanwhile, patience — Your Serene Highness has indeed said so much good of Prince Adolph, has praised his head, his heart, and his firm attachment to his father — What do you think, most gracious Lord, if one were to have the honest young man declared [uncertain: of age] — then you would after all have a son and a support on which you could lean in old age. Tell me your opinion on this — Prince Hardenberg will set it in train at once, if this has not been expressly forbidden in the will of the old Princess Sakkin, whose sole heir he is after all — Let the brave young man be rescued from the claws of the villain, who riots in good Adolph's [uncertain: property] and [illegible: mälert] himself frightfully — Let Your Serene Highness take this faithfully meant counsel to heart, and if my proposal is agreeable to you, then only send Eberhard and give him a letter to the Prince State Chancellor, and a blank sheet for writing to the King as well — that goes quickly and securely — B[arbe] says the Prince would attend to this alone — but M[inister] Hum[boldt] thinks it may well be necessary to submit a letter to the King — Ah, if this too succeeded, then all would have succeeded — Now, most gracious Prince, only have mercy and send me at least 100 #, out of which I can at least pay Barbe, who is really beginning to grumble. — As surely as heaven is above us, I know of no counsel or help for myself. It is so furiously dear here, I live worse than a day-labourer. You cannot possibly wish that I should perish in disgrace and mockery, vexation and hunger, for all that I do for you? I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 6th of March\n\n1815.\n\nwholly most obedient and faithful servant\n\nvon Triebenfeld\n\nAt this hour I learn / a report which comes from the [uncertain: Neuperg] Court, Cabinet Secretary of the Grand [uncertain: Duke] / that since today's order the [uncertain: Austrian] army is being put on a war footing. That troops are already marching today and much artillery is being carried off to Italy — It is said that Murat is making [illegible: pertacte] and means also [illegible: einzerhoben] the King of Saxony and Napoleon — Mad stuff is being chattered, everything is reasoning about war — Saxony remains occupied by Prussia —",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, die Angelegenheit des Fürsten solle diese Woche günstig entschieden werden, drängt aber, Eberhard eilig nach Wien zu senden, um einen Vergleich mit den Erbinnen zu schließen; schlimmstenfalls müssten die Güter 5 Jahre länger administriert werden. Er beklagt, dass Fürst August Cosmar die Vollmacht nicht abnehmen will, schlägt einen über Hardenberg zu betreibenden Schritt zugunsten Prinz Adolphs vor und erbittet 100 #, um Barbe zu bezahlen. Dazu Kongressnachrichten und Kriegsgerüchte.",
  "reading": {

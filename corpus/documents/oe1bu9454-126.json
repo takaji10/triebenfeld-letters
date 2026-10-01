@@ -98,7 +98,48 @@
    "doc_line": 20
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hussites",
+   "kind": "other",
+   "surface_de": "Hussiten",
+   "surface_en": "Hussites",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -124,9 +165,47 @@
    "doc_line": 19
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "126\n\nTo His Most Serene\n\nHighness. Cabanis is back with the Hussites — the people liked it exceedingly; they now wish to hurry back, gather their fellow believers together and settle everything within 14 days. But Cabanis has brought back a great deal of news, about which I must speak with Your Serene Highness. It becomes most extremely necessary that someone go there at once, to bring everything into the best track.\n\nI am here working with the Oleśnica people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, for then Your Highness could hear all these persons yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nWrocław, the 30th of April 1804\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Hussiten",
+     "en": "Hussites",
+     "kind": "other"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "126",
+    "14",
+    "30",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "126\n\nTo His Most Serene\n\nHighness. Cabanis is back with the Hussites — the people liked it exceedingly; they now wish to hurry back, gather their fellow believers together and settle everything within 14 days. But Cabanis has brought back a great deal of news, about which I must speak with Your Serene Highness. It becomes most extremely necessary that someone go there at once, to bring everything into the best track.\n\nI am here working with the Oleśnica people — would Your Serene Highness be so gracious as to come to me for a quarter of an hour from the parade, for then Your Highness could hear all these persons yourself, and at once issue Your Highness's commands as to what is further to be done.\n\nWrocław, the 30th of April 1804\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, dass Cabanis mit den Hussiten zurückgekehrt ist, denen es außerordentlich gefallen habe. Sie wollen zurückeilen, ihre Glaubensbrüder sammeln und in 14 Tagen alles abmachen. Cabanis bringe viele Neuigkeiten, die Triebenfeld mit dem Fürsten besprechen müsse; dringend solle sogleich jemand hingehen. Triebenfeld arbeitet mit den Leuten aus Oleśnica und bittet den Fürsten, nach der Parade eine Viertelstunde zu ihm zu kommen, sie selbst anzuhören und Befehle zu erteilen.",
  "reading": {

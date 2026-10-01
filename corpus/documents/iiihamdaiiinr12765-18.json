@@ -1,0 +1,174 @@
+{
+ "letter_id": "18",
+ "seq_archival": 18,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-18",
+ "pad": "iiihamdaiiinr12765-018",
+ "permalink": "/documents/iiihamdaiiinr12765/18/",
+ "doc_type": "note",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1816-05-03",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1816-05-03",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1816,
+ "month": 5,
+ "day": 3,
+ "place": "Berlin",
+ "sender": "Bever",
+ "recipient": "",
+ "line_start": 596,
+ "line_end": 605,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 8,
+ "n_pages": 1,
+ "text": "dieser Bericht ist sub Nro 3278. C.\nan die 3te Section des Ausw. Depts. abgegeben\nworden.\nBever.\n3/5\nist beigefügt cum actis\nStrenger\n5/5. [18]16.",
+ "text_reading": "dieser Bericht ist sub Nro 3278. C. an die 3te Section des Ausw. Depts. abgegeben worden. Bever. 3/5 ist beigefügt cum actis Strenger 5/5. [18]16.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0025_a2",
+   "line_start": 598,
+   "line_end": 605,
+   "n_lines": 8,
+   "diplomatic": "dieser Bericht ist sub Nro 3278. C.\nan die 3te Section des Ausw. Depts. abgegeben\nworden.\nBever.\n3/5\nist beigefügt cum actis\nStrenger\n5/5. [18]16.",
+   "transcription": "dieser Bericht ist sub Nro 3278. C.\nan die 3te Section des Ausw. Depts. abgegeben\nworden.\nBever.\n3/5\nist beigefügt cum actis\nStrenger\n5/5. [18]16.",
+   "reading": "dieser Bericht ist sub Nro 3278. C. an die 3te Section des Ausw. Depts. abgegeben worden. Bever. 3/5 ist beigefügt cum actis Strenger 5/5. [18]16.",
+   "paragraphs": [
+    "dieser Bericht ist sub Nro 3278. C. an die 3te Section des Ausw. Depts. abgegeben worden. Bever. 3/5 ist beigefügt cum actis Strenger 5/5. [18]16."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0025_a2-L18_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 8
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "bever",
+   "display": "Bever",
+   "kind": "person",
+   "surface": "Bever",
+   "page": 1,
+   "page_id": "0025_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0025_a2-L18_01.jpg",
+   "line": 601,
+   "doc_line": 4
+  },
+  {
+   "entity": "strenger",
+   "display": "Strenger",
+   "kind": "person",
+   "surface": "Strenger",
+   "page": 1,
+   "page_id": "0025_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0025_a2-L18_01.jpg",
+   "line": 604,
+   "doc_line": 7
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "bever",
+   "display": "Bever",
+   "kind": "person",
+   "surface_de": "Bever",
+   "surface_en": "Bever",
+   "page": 1
+  },
+  {
+   "entity": "strenger",
+   "display": "Strenger",
+   "kind": "person",
+   "surface_de": "Strenger",
+   "surface_en": "Strenger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Foreign Department",
+   "kind": "other",
+   "surface_de": "Ausw. Depts.",
+   "surface_en": "Foreign Department",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Berlin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "This report has been handed over under no. 3278 C. to the 3rd Section of the Foreign Department. Bever. 3/5 — it is attached with the file. Strenger 5/5. [18]16.",
+   "names": [
+    {
+     "de": "Bever",
+     "en": "Bever",
+     "kind": "person"
+    },
+    {
+     "de": "Strenger",
+     "en": "Strenger",
+     "kind": "person"
+    },
+    {
+     "de": "Ausw. Depts.",
+     "en": "Foreign Department",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "3278",
+    "3",
+    "3/5",
+    "5/5",
+    "16"
+   ]
+  }
+ ],
+ "text_english": "This report has been handed over under no. 3278 C. to the 3rd Section of the Foreign Department. Bever. 3/5 — it is attached with the file. Strenger 5/5. [18]16.",
+ "summary_en": "Registry note: the report was handed over under No. 3278 C to the 3rd Section of the Department of Foreign Affairs, signed Bever; it is enclosed with the files, signed Strenger.",
+ "summary_de": "Registraturvermerk: Der Bericht ist unter Nr. 3278 C an die 3. Sektion des auswärtigen Departements abgegeben worden, gezeichnet Bever; er ist mit den Akten beigefügt, gezeichnet Strenger.",
+ "reading": {
+  "letter": "18",
+  "legibility": "sound",
+  "notes": "Registry note of 3 and 5 May 1816: the report (Zerboni's) has been handed to the third section of the foreign department under no. 3278 C, signed Bever; it is attached with the file, signed Strenger.",
+  "claims": [
+   {
+    "statement": "Der Bericht wurde unter Nr. 3278 C an die 3. Sektion des auswärtigen Departements abgegeben (Bever, 3. Mai)",
+    "lines": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "statement": "Er ist mit den Akten beigefügt (Strenger, 5. Mai 1816)",
+    "lines": [
+     6,
+     7,
+     8
+    ]
+   }
+  ],
+  "doubtful_words": [],
+  "read_against": "67be0eff0692fb90"
+ }
+}

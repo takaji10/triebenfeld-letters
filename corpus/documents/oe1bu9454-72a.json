@@ -276,7 +276,240 @@
    "doc_line": 77
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Brzechffa",
+   "kind": "person",
+   "surface_de": "von Brzechffa",
+   "surface_en": "von Brzechffa",
+   "page": 1
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Brzechffa",
+   "kind": "person",
+   "surface_de": "von Brzechffa",
+   "surface_en": "von Brzechffa",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Konin",
+   "surface_en": "Konin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Tribunal Solenne",
+   "kind": "other",
+   "surface_de": "Tribunal Solenne",
+   "surface_en": "Tribunal Solenne",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Jarnowski",
+   "kind": "person",
+   "surface_de": "von Jarnowski",
+   "surface_en": "von Jarnowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Code Napoléon",
+   "kind": "other",
+   "surface_de": "Code Napoleon",
+   "surface_en": "Code Napoléon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Brzechffa",
+   "kind": "person",
+   "surface_de": "v. Brzechffa",
+   "surface_en": "von Brzechffa",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Gr Garczynski",
+   "surface_en": "Garczynski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rada Stanu",
+   "kind": "other",
+   "surface_de": "Rada Stanu",
+   "surface_en": "Rada Stanu",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Commission Rządząca",
+   "kind": "other",
+   "surface_de": "Commission Rządząca",
+   "surface_en": "Commission Rządząca",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Tilsit",
+   "kind": "place",
+   "surface_de": "Tilsiter",
+   "surface_en": "Tilsit",
+   "page": 3
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 3
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Dąbska",
+   "surface_en": "Dąbska",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Brzechffa",
+   "kind": "person",
+   "surface_de": "v. Brzechffa",
+   "surface_en": "von Brzechffa",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojno",
+   "surface_en": "Kopojno",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Kopojno",
  "place_mentions": [
   {
@@ -467,9 +700,197 @@
    "doc_line": 74
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThat a lease contract has been concluded with the sub-prefect concerning the Zagórów estates, sub spe rali, I have most obediently reported to Your Serene Highness; at the same time I informed the same most high person that I intended to arrive at Sławięcice with Mr von Brzechffa on the 8th of this month. Since, however, both the prefect Garczynski and likewise the sub-prefect von Brzechffa were summoned to Warsaw by express courier, the plan of being at Sławięcice on the 8th [uncertain: was wrecked].\n\nIn the meantime the sub-prefect will quite certainly be back here on the 11th or 12th of March, and then the journey to Sławięcice will be set out upon at once. Mr von Brzechffa will bring 2 to 3000 rt. in money with him directly, and then it will depend upon Your Serene Highness whether the same most high person wishes to",
+   "names": [
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "von Brzechffa",
+     "en": "von Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8ten",
+    "11ten",
+    "12ten",
+    "2 bis 3000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "ratify the contract himself or dispose of the estates in some other way. According to our plan, Mr von Brzechffa intends, upon his return, to summon all the arrears-debtors at once before the lower land court in Konin, and through this judge, who is his relative and bosom friend, to have himself empowered to compel payment by the strictest execution, which hitherto has always been forbidden.\n\nFor the rest, a few days ago the suit with the Wrąbczyn peasants was won by Your Serene Highness in the Tribunal Solenne. The contract is wholly annulled, the peasants are ordered to pay the arrears and may be evicted and their holdings sold to others — the judgment was handed to the peasants yesterday by the [uncertain: Court Summoner] von Jarnowski. I must now await the period laid down in the Code Napoléon after the publication of the judgment, in order then to proceed with the harshest execution. Perhaps I shall succeed in the meantime in [uncertain: coming to terms with some of the fellows] and in obtaining a few thousand rt., which I would bring with me together with Mr von Brzechffa.",
+   "names": [
+    {
+     "de": "von Brzechffa",
+     "en": "von Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Konin",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Tribunal Solenne",
+     "en": "Tribunal Solenne",
+     "kind": "other"
+    },
+    {
+     "de": "von Jarnowski",
+     "en": "von Jarnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Code Napoleon",
+     "en": "Code Napoléon",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "The Oleśnica matter will be won in this instance just [uncertain: as] the Wrąbczyn one, and doubtless the 3 villains, who are here checkmated, will not push the matter further, but will have to seek their [uncertain: safety] in flight. The Trąbczyn matter Mr von Brzechffa is now investigating in Warsaw with the prefect Count Garczynski. It must be brought before the Rada Stanu, and there these two friends of mine are [uncertain: sounding out] the majority of the members as to whether one may bring this matter forward there and hope for a swift and favourable outcome. In the judgment of every thinking man, Your Serene Highness must have the estates back. For the Commission Rządząca took them from Your Serene Highness 4 months after the Peace of Tilsit, notwithstanding that everything the King had done during the time of possession was to remain in its [illegible], which was also guaranteed by Napoleon, the Russian Emperors and the King of Saxony.\n\nUpon the estates there stand, so far as I am aware, 80000 Rthl of debts; but if the old Hollanders will gladly give 40000 rt. for the forest as soon as Your Serene Highness has the estates again, and will settle",
+   "names": [
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v. Brzechffa",
+     "en": "von Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Gr Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Rada Stanu",
+     "en": "Rada Stanu",
+     "kind": "other"
+    },
+    {
+     "de": "Commission Rządząca",
+     "en": "Commission Rządząca",
+     "kind": "other"
+    },
+    {
+     "de": "Tilsiter",
+     "en": "Tilsit",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3",
+    "4",
+    "80000",
+    "40000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "themselves there, and if the Dąbska must make good the damage and surrender the 6 years' revenue, then the estates, which are at all times worth 300000 rt., are clear of debts — and it is then once again a fine whole. Upon my arrival, [uncertain: Mr] von Brzechffa will lay all this before Your Serene Highness himself. I would long since have gone to Warsaw myself in this matter, if it had ever been possible to raise the costs, for all that could come in hitherto has scarcely sufficed to meet the terribly heavy levies. Thus now all deliveries to Warsaw, since the greater part of the troops have been drawn thither, must be rendered in kind, and sums must be paid for their clothing. The distress is on that account general and has here already reached its highest pitch; this much only I note, that the demand of the men at Warsaw is that the Trąbczyn matter shall cost nothing, but that these two honest men would set it in train and attend to it quietly, out of true friendship — So much, however, is certain, and everyone from here will have to affirm it to Your Serene Highness, that the estates are preserved and saved for you; the how and the where will show itself in due time. In deepest reverence I remain\n\nYour Serene Highness's\n\nKopojno\n\nthe 23rd of February 1812.\n\nhumble and obedient servant\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "v. Brzechffa",
+     "en": "von Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kopojno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6",
+    "300000",
+    "23ten",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "Most Serene Prince\n\nMost gracious Prince and Lord!\n\nThat a lease contract has been concluded with the sub-prefect concerning the Zagórów estates, sub spe rali, I have most obediently reported to Your Serene Highness; at the same time I informed the same most high person that I intended to arrive at Sławięcice with Mr von Brzechffa on the 8th of this month. Since, however, both the prefect Garczynski and likewise the sub-prefect von Brzechffa were summoned to Warsaw by express courier, the plan of being at Sławięcice on the 8th [uncertain: was wrecked].\n\nIn the meantime the sub-prefect will quite certainly be back here on the 11th or 12th of March, and then the journey to Sławięcice will be set out upon at once. Mr von Brzechffa will bring 2 to 3000 rt. in money with him directly, and then it will depend upon Your Serene Highness whether the same most high person wishes to\n\nratify the contract himself or dispose of the estates in some other way. According to our plan, Mr von Brzechffa intends, upon his return, to summon all the arrears-debtors at once before the lower land court in Konin, and through this judge, who is his relative and bosom friend, to have himself empowered to compel payment by the strictest execution, which hitherto has always been forbidden.\n\nFor the rest, a few days ago the suit with the Wrąbczyn peasants was won by Your Serene Highness in the Tribunal Solenne. The contract is wholly annulled, the peasants are ordered to pay the arrears and may be evicted and their holdings sold to others — the judgment was handed to the peasants yesterday by the [uncertain: Court Summoner] von Jarnowski. I must now await the period laid down in the Code Napoléon after the publication of the judgment, in order then to proceed with the harshest execution. Perhaps I shall succeed in the meantime in [uncertain: coming to terms with some of the fellows] and in obtaining a few thousand rt., which I would bring with me together with Mr von Brzechffa.\n\nThe Oleśnica matter will be won in this instance just [uncertain: as] the Wrąbczyn one, and doubtless the 3 villains, who are here checkmated, will not push the matter further, but will have to seek their [uncertain: safety] in flight. The Trąbczyn matter Mr von Brzechffa is now investigating in Warsaw with the prefect Count Garczynski. It must be brought before the Rada Stanu, and there these two friends of mine are [uncertain: sounding out] the majority of the members as to whether one may bring this matter forward there and hope for a swift and favourable outcome. In the judgment of every thinking man, Your Serene Highness must have the estates back. For the Commission Rządząca took them from Your Serene Highness 4 months after the Peace of Tilsit, notwithstanding that everything the King had done during the time of possession was to remain in its [illegible], which was also guaranteed by Napoleon, the Russian Emperors and the King of Saxony.\n\nUpon the estates there stand, so far as I am aware, 80000 Rthl of debts; but if the old Hollanders will gladly give 40000 rt. for the forest as soon as Your Serene Highness has the estates again, and will settle\n\nthemselves there, and if the Dąbska must make good the damage and surrender the 6 years' revenue, then the estates, which are at all times worth 300000 rt., are clear of debts — and it is then once again a fine whole. Upon my arrival, [uncertain: Mr] von Brzechffa will lay all this before Your Serene Highness himself. I would long since have gone to Warsaw myself in this matter, if it had ever been possible to raise the costs, for all that could come in hitherto has scarcely sufficed to meet the terribly heavy levies. Thus now all deliveries to Warsaw, since the greater part of the troops have been drawn thither, must be rendered in kind, and sums must be paid for their clothing. The distress is on that account general and has here already reached its highest pitch; this much only I note, that the demand of the men at Warsaw is that the Trąbczyn matter shall cost nothing, but that these two honest men would set it in train and attend to it quietly, out of true friendship — So much, however, is certain, and everyone from here will have to affirm it to Your Serene Highness, that the estates are preserved and saved for you; the how and the where will show itself in due time. In deepest reverence I remain\n\nYour Serene Highness's\n\nKopojno\n\nthe 23rd of February 1812.\n\nhumble and obedient servant\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Meldet den gewonnenen Prozess gegen die Wrąbczyner Bauern: Kontrakt kassiert, Rückstände zu zahlen, Exmission möglich. Die Reise mit Brzechffa nach Sławięcice verschiebt sich, da er und Präfekt Garczynski nach Warszawa berufen wurden; Brzechffa bringt 2 bis 3000 Rthl, der Fürst soll über den Pachtkontrakt für Zagórów entscheiden. Die Trąbczyner Sache soll vor die Rada Stanu. Trotz 80000 Rthl Schulden wären die Güter schuldenfrei, wenn die alten Hauländer 40000 Rthl für den Wald zahlen und die Dąbska Schadenersatz leisten muss.",
  "reading": {

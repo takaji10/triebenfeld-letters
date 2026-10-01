@@ -147,7 +147,136 @@
    "doc_line": 36
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hussites",
+   "kind": "other",
+   "surface_de": "Husiten",
+   "surface_en": "Hussites",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Husinich",
+   "kind": "place",
+   "surface_de": "Husinich",
+   "surface_en": "Husinich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rentsch",
+   "kind": "place",
+   "surface_de": "Rentsch",
+   "surface_en": "Rentsch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Moravian",
+   "kind": "other",
+   "surface_de": "Mähriſche",
+   "surface_en": "Moravian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bohemia",
+   "kind": "place",
+   "surface_de": "Böhmen",
+   "surface_en": "Bohemia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hussinitz",
+   "kind": "place",
+   "surface_de": "Hussinitz",
+   "surface_en": "Hussinitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Countess Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Gräfin Schlabrendorff",
+   "surface_en": "Countess Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstl Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "kunckel",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckel",
+   "surface_en": "Kunckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kunckel",
+   "kind": "person",
+   "surface_de": "Kunckels",
+   "surface_en": "Kunckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchl.",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -173,9 +302,116 @@
    "doc_line": 35
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "120 Cabanis came back yesterday with the good news that the Hussites wish to buy.\n\nIn Husinich, Rentsch and the neighbourhood there are already a considerable number who have at once shown the best will; since, however, the number of Hufen is too great for these, they have immediately sent an express to their Moravian brethren in the faith. They have found the price of 300 Rthl per Hufe and 15 rt. yearly rent a fair one, and believe that, notwithstanding that the oppression in Bohemia has ceased, they will soon, on account of the acceptable price, have the requisite number of farmers together. Within a fortnight at the latest they mean to appear in a body — God grant His blessing — Cabanis is nevertheless to [uncertain: travel out] again, in order to encourage the people, through the clergyman at Hussinitz, to press the matter forward as quickly as possible. The messenger from Countess Schlabrendorff is back as well — here the answer does not correspond to Your Most Serene Highness's wishes — She [uncertain: flatly] refuses to give out the instru[uncertain: ment] any sooner, until she has received the other 50/m rt. The term to the 1st of January 1805 Homuth is procuring. But he will draw up the receipt in",
+   "names": [
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Husiten",
+     "en": "Hussites",
+     "kind": "other"
+    },
+    {
+     "de": "Husinich",
+     "en": "Husinich",
+     "kind": "place"
+    },
+    {
+     "de": "Rentsch",
+     "en": "Rentsch",
+     "kind": "place"
+    },
+    {
+     "de": "Mähriſche",
+     "en": "Moravian",
+     "kind": "other"
+    },
+    {
+     "de": "Böhmen",
+     "en": "Bohemia",
+     "kind": "place"
+    },
+    {
+     "de": "Hussinitz",
+     "en": "Hussinitz",
+     "kind": "place"
+    },
+    {
+     "de": "Gräfin Schlabrendorff",
+     "en": "Countess Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstl Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "120",
+    "300",
+    "15",
+    "14",
+    "50/m",
+    "1",
+    "1805"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "such form that Your Serene Highness may use it separately — the acceptance for the second term is also to be so drawn up that no mishap can occur any more. Kunckel I await with longing — he does indeed write to his mother that he will arrive here in these days with several persons; meanwhile the time does grow somewhat too long — I wish he were here already — Kunckel's mother lives here in the greatest destitution; should Your Serene Highness be pleased to do a work of mercy on this present day, then send me a couple of Thaler for this poor woman, who lies sick and wretched — I do indeed give her a little, but this does not go far towards keeping herself in these dear times.\n\nWrocław, the 2nd of April 1804.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Kunckel",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Kunckels",
+     "en": "Kunckel",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Durchl.",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2",
+    "2ten",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "120 Cabanis came back yesterday with the good news that the Hussites wish to buy.\n\nIn Husinich, Rentsch and the neighbourhood there are already a considerable number who have at once shown the best will; since, however, the number of Hufen is too great for these, they have immediately sent an express to their Moravian brethren in the faith. They have found the price of 300 Rthl per Hufe and 15 rt. yearly rent a fair one, and believe that, notwithstanding that the oppression in Bohemia has ceased, they will soon, on account of the acceptable price, have the requisite number of farmers together. Within a fortnight at the latest they mean to appear in a body — God grant His blessing — Cabanis is nevertheless to [uncertain: travel out] again, in order to encourage the people, through the clergyman at Hussinitz, to press the matter forward as quickly as possible. The messenger from Countess Schlabrendorff is back as well — here the answer does not correspond to Your Most Serene Highness's wishes — She [uncertain: flatly] refuses to give out the instru[uncertain: ment] any sooner, until she has received the other 50/m rt. The term to the 1st of January 1805 Homuth is procuring. But he will draw up the receipt in\n\nsuch form that Your Serene Highness may use it separately — the acceptance for the second term is also to be so drawn up that no mishap can occur any more. Kunckel I await with longing — he does indeed write to his mother that he will arrive here in these days with several persons; meanwhile the time does grow somewhat too long — I wish he were here already — Kunckel's mother lives here in the greatest destitution; should Your Serene Highness be pleased to do a work of mercy on this present day, then send me a couple of Thaler for this poor woman, who lies sick and wretched — I do indeed give her a little, but this does not go far towards keeping herself in these dear times.\n\nWrocław, the 2nd of April 1804.\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Cabanis meldet Kaufwillige unter den Husiten in Husinich und Rentsch. Sie halten 300 Rthl pro Hufe und 15 Rthl jährlichen Zins für billig, haben einen Boten an ihre mährischen Glaubensbrüder geschickt und wollen binnen 14 Tagen in Corpore erscheinen. Cabanis soll sie über den Geistlichen in Hussinitz weiter antreiben. Gräfin Schlabrendorff gibt das Instrument erst nach Erhalt der übrigen 50/m Rthl heraus. Homuth bewirkt eine Frist bis 1. Januar 1805.",
  "reading": {

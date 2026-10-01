@@ -296,7 +296,416 @@
    "doc_line": 124
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Konin",
+   "surface_en": "Konin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nassalski",
+   "kind": "person",
+   "surface_de": "Nassalski",
+   "surface_en": "Nassalski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalischen",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mendel Oppenheimer",
+   "kind": "person",
+   "surface_de": "Mendel Oppenheimer",
+   "surface_en": "Mendel Oppenheimer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weigelt",
+   "kind": "person",
+   "surface_de": "Weigelt",
+   "surface_en": "Weigelt",
+   "page": 1
+  },
+  {
+   "entity": "haugt",
+   "display": "Haugt",
+   "kind": "person",
+   "surface_de": "Haugt",
+   "surface_en": "Haugt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Seher Thos",
+   "kind": "person",
+   "surface_de": "Seher Thos",
+   "surface_en": "Seher Thos",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bielski",
+   "kind": "person",
+   "surface_de": "Bielskische",
+   "surface_en": "Bielski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "African",
+   "kind": "other",
+   "surface_de": "Africaner",
+   "surface_en": "African",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "European",
+   "kind": "other",
+   "surface_de": "Europeer",
+   "surface_en": "European",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kühn",
+   "kind": "person",
+   "surface_de": "Kühn",
+   "surface_en": "Kühn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor of the French",
+   "kind": "other",
+   "surface_de": "Kaisers der Franzosen",
+   "surface_en": "Emperor of the French",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Saxony",
+   "kind": "other",
+   "surface_de": "Königes von Sachsen",
+   "surface_en": "King of Saxony",
+   "page": 2
+  },
+  {
+   "entity": "niedzwiecki",
+   "display": "Maciej Niedźwiecki",
+   "kind": "person",
+   "surface_de": "Niedźwiecki",
+   "surface_en": "Niedźwiecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nossalski",
+   "kind": "person",
+   "surface_de": "Nossalski",
+   "surface_en": "Nossalski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl[nischen]",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopojner",
+   "surface_en": "Kopojno",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Skokum",
+   "kind": "place",
+   "surface_de": "Skokumer",
+   "surface_en": "Skokum",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniker",
+   "surface_en": "Swiątniki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berda",
+   "kind": "person",
+   "surface_de": "Berda",
+   "surface_en": "Berda",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hollanders",
+   "kind": "other",
+   "surface_de": "Hauländer",
+   "surface_en": "Hollanders",
+   "page": 3
+  },
+  {
+   "entity": "rybbeck",
+   "display": "Rybbeck",
+   "kind": "person",
+   "surface_de": "Rybbeck",
+   "surface_en": "Rybbeck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mex[illegible]",
+   "kind": "person",
+   "surface_de": "Mex[?]",
+   "surface_en": "Mex[illegible]",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "colonists",
+   "kind": "other",
+   "surface_de": "Collonisten",
+   "surface_en": "colonists",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Midsummer",
+   "kind": "other",
+   "surface_de": "Johanni",
+   "surface_en": "Midsummer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napolons",
+   "surface_en": "Napoleon",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitzsche",
+   "surface_en": "Meierowitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Konin",
+   "surface_en": "Konin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard[enberg]",
+   "surface_en": "Hard[enberg]",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 4
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachß",
+   "surface_en": "Saxony",
+   "page": 4
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard[enberg]",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Swiątniki",
+   "kind": "place",
+   "surface_de": "Swiątniki",
+   "surface_en": "Swiątniki",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 4
+  },
+  {
+   "entity": "falz",
+   "display": "Falz (Salz)",
+   "kind": "person",
+   "surface_de": "Falz",
+   "surface_en": "Falz",
+   "page": 4
+  }
+ ],
  "place_canonical": "Swiątniki",
  "place_mentions": [
   {
@@ -531,9 +940,369 @@
    "doc_line": 123
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "213\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nOf my illness I am cured; my first journey was to Konin, to settle what is owed to the State and at last to [uncertain: been] the oppressive sequestration entirely. On the way, however, I had the misfortune of being overturned and of so crushing my head that on one side I may pass for an African and on the other for a European. In the meantime I hope to be restored in a couple of weeks. For the rest, by the exertion of all human powers I have got so far that the State taxes, on account of which above all the sequestration continues, are paid down to 900 t., and since the suit with the tenant of the propination rights lies before the Kalisz tribunal in a wording whereby Nassalski must at once pay 3000 r., I hope next week not only to settle the remainder of the taxes but also the interest on the bank capital, and thereby to lift the costly sequestration altogether. With regard to the sums from the Invalids' Fund, Mendel Oppenheimer, Weigelt, Haugt, Seher Thos, etc., etc., I shall set myself on my hind legs, to which end the orders of the tribunal and of the land court, and the attestations in the original, will be despatched tomorrow to Berlin by express courier — for if the Bielski plan, that interest and capital shall be paid over 40 years at 6 per cent, has already, as men say, been accepted, and if on that account the new",
+   "names": [
+    {
+     "de": "Konin",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Nassalski",
+     "en": "Nassalski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalischen",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Mendel Oppenheimer",
+     "en": "Mendel Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Weigelt",
+     "en": "Weigelt",
+     "kind": "person"
+    },
+    {
+     "de": "Haugt",
+     "en": "Haugt",
+     "kind": "person"
+    },
+    {
+     "de": "Seher Thos",
+     "en": "Seher Thos",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Bielskische",
+     "en": "Bielski",
+     "kind": "person"
+    },
+    {
+     "de": "Africaner",
+     "en": "African",
+     "kind": "other"
+    },
+    {
+     "de": "Europeer",
+     "en": "European",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "213",
+    "900",
+    "3000",
+    "40",
+    "6"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "arrest has already been laid, then one need give no man a good word any longer. Indeed it were to be wished that a like benefit were granted to the estate-owners in Silesia. Here everything can be made prosperous by this favour. For the rest it is a sad thing here that I must bring everything before the judge and recover every Groschen by way of law; [uncertain: Kühn] by reason of the new ordinances of the Emperor of the French and of the King of Saxony, every man refuses to [uncertain: pay] a single Groschen. Every [uncertain: Cur] says: the Prince is a foreigner, we need pay him nothing; I am therefore of necessity compelled to have all the refractory held to their duty through the judge, and on that account there are now already some 43 suits pending. The most considerable are\n\n1. With Niedźwiecki, for 6000 rt. Here I doubt that one will obtain so much as a [uncertain: deiner].\n\n2. With Nossalski, for 3000 Rthl. This one will be won in a few days, and he is rich.\n\n3. With the 3 Oleśnica lads, for about 33000 rt. These fellows can pay nothing; if only they can be got out, the Polish peasants will step into the contract, pay 10000 Rthl. entry-money and the yearly rent of 2000 r.\n\n4. With the Wrąbczyn peasants, for arrears of rent, 1200. These fellows say they were cheated at the conclusion of the contract in Wrocław, and will not keep the contract unless they receive an abatement — I shall gladly consent to the annulment of the contract, take everything from the fellows, and, as the laws permit, drive them out to their wages, the more so as I already have people enough, namely Poles, who will give 2000 rt. in cash for the holding and the same rent — this amounts, for 9 whole and 2 half peasant holdings, to 20000 rt.\n\n5. There has long been a suit pending with the Kopojno, Skokum and Swiątniki peasants concerning the grounds; this one is already won in the land court and lies before the tribunal for my approval — the people must reimburse 742 rt. of costs, which will not come hard to them —",
+   "names": [
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Kühn",
+     "en": "Kühn",
+     "kind": "person"
+    },
+    {
+     "de": "Kaisers der Franzosen",
+     "en": "Emperor of the French",
+     "kind": "other"
+    },
+    {
+     "de": "Königes von Sachsen",
+     "en": "King of Saxony",
+     "kind": "other"
+    },
+    {
+     "de": "Niedźwiecki",
+     "en": "Niedźwiecki",
+     "kind": "person"
+    },
+    {
+     "de": "Nossalski",
+     "en": "Nossalski",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Pohl[nischen]",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Kopojner",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Skokumer",
+     "en": "Skokum",
+     "kind": "place"
+    },
+    {
+     "de": "Swiątniker",
+     "en": "Swiątniki",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "43",
+    "1.",
+    "6000",
+    "2.",
+    "3000",
+    "3.",
+    "3",
+    "33000",
+    "10000",
+    "2000",
+    "4.",
+    "1200",
+    "2000",
+    "9",
+    "2",
+    "20000",
+    "5.",
+    "742"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "6. With Berda, who has a [uncertain: spiritual] privilege according to which he is to have only 23 Morgen of ground, but who has secretly appropriated to himself some 70 Morgen, and who is to pay some 1190 rt. of arrears of rent. 1190 rt. The fellow refuses to pay; I therefore wish to see the contract annulled; for the holding I shall then at once receive 3000 rt. in cash and a higher rent than now —\n\n7. With 8 Hollanders who owe some 5000 rt. of purchase-monies. 5000 rt. This suit will be won, the holdings taken in and let out elsewhere — whereupon the 5000 rt. come in, but the fellows go away empty.\n\n8. With Rybbeck at Drzewce, for 225 rt. of arrears of rent — this suit is compounded; Rybbeck pays the 225 rt. on the 1st of April of this year, on pain of losing his goods.\n\n9. With the miller Mex[illegible] of Swięcia, for 500 Rthl. of purchase-money with interest. The suit is somewhat held back because [illegible] promises to pay within 4 weeks.\n\n10. 29 suits with the colonists, who owe 39000 rt. of interest and will pay nothing at all. 89115 rt. The judgments will probably fall out so that the fellows can be removed and others put in their place; I [uncertain: doubt] that more than 6000 rt. will be got out of these arrears, for the people are too obstinate and go off in secret with their goods — There are still many purchase-monies and rents outstanding among good people, but these I must for the present allow time, so that they do not join the wicked ones too, and until I have first wholly overcome the wicked — by Midsummer everything must in the meanwhile be in order, and from then on up to 14000 rt. of clear interest must flow into the treasury. For 3 demesne farms which I am restoring, 9000 rt. a year is offered after the propination rights; this amounts then to some 23000 rt. of clear revenue; the interest, including the amortisation fund, would come to 14000 rt. yearly, and therefore 9000 rt. would flow to Your [Highness's] [uncertain: Causa] from Midsummer onward — 48467 rt. would certainly come in by Midsummer — out of which a part of the arrears, [uncertain: Staunz], the land tax, the costs etc. must still be settled. The deficit is 40648 rt.",
+   "names": [
+    {
+     "de": "Berda",
+     "en": "Berda",
+     "kind": "person"
+    },
+    {
+     "de": "Hauländer",
+     "en": "Hollanders",
+     "kind": "other"
+    },
+    {
+     "de": "Rybbeck",
+     "en": "Rybbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Mex[?]",
+     "en": "Mex[illegible]",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Collonisten",
+     "en": "colonists",
+     "kind": "other"
+    },
+    {
+     "de": "Johanni",
+     "en": "Midsummer",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "6.",
+    "23",
+    "70",
+    "1190",
+    "1190",
+    "3000",
+    "7.",
+    "8",
+    "5000",
+    "5000",
+    "5000",
+    "8.",
+    "225",
+    "225",
+    "1",
+    "9.",
+    "500",
+    "4",
+    "10.",
+    "29",
+    "39000",
+    "89115",
+    "6000",
+    "14000",
+    "3",
+    "9000",
+    "23000",
+    "14000",
+    "9000",
+    "48467",
+    "40648"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "The [uncertain: torments], care and sorrow which I endure here in the meantime are not to be described with any pen; I do not know when I shall first hear, or whither I am to turn — The newer ordinances of Napoleon turn everyone's heads; no one gives a Heller willingly. In the 3 months that I have been here, 2800 rt. have been recovered by execution — the suits already cost 1450 rt., of which the Trąbczyn and Meierowitz ones alone, which I omitted to mention overleaf, have eaten up 750 rt.; I have had taxes paid to the amount of 1500 rt. This already makes 2950 rt. Now I am again to send in some 600 rt. of advances to Konin and Kalisz — if I do not, all is lost; the sequestor liquidates daily, his new account amounts to 2236 rt. He is the favourite of Prefect Garczynski; I must flatter him as far as possible, so that he only does not [uncertain: hiesigt] and vex us, otherwise all is lost — indeed, they will chase me off from here like the cap from the dovecote. Gladly would I procure for Your Serene Highness but a 40000 rt., so that you might once again have a penny against need; I also strive to be able to show you a wholly fixed revenue, so that it may be reckoned upon with confidence, and to determine the end of the debts, so that your descendants may know what they will one day have from these estates — Here there are new rumours every day, which however are seldom confirmed; so much, however, is known to me, that in Berlin they live as in a madhouse, think only of extortions, and for the rest not a word of what passes in the neighbouring cabinets. Thus Hard[enberg] himself does not know one jot of it, that a fresh arrest has been laid upon all sums conceivable that have been given out of Prussia into Poland, and that the interest and amortisation fund has been fixed at 40 years. Zerboni has made a frightful long nose at them all and now laughs here into his own house; in your negotiations aim only at the welfare of Saxony and Poland. Hard[enberg] demands of me proofs concerning the new attachment and the amortisation [uncertain: Platz]; I send him the same tomorrow — I remain, until death, Your Most Serene Highness's Swiątniki, the 27th of January 1811\n\nmost humble\n\nv Triebenfeld\n\nMay Your Serene Highness deign to write to me by an express — you have indeed Polish fellows enough there — By the post it is dangerous — the letters are opened and many therefore go quite lost — P.S. This very moment I have come to agreement here with 3 jurists — all 3 of them serve, that is to say in Konin, Kalisz and also in Warsaw, through the whole year for 700 rt.; were it given for each case separately, I should not manage with 3000 rt., for [uncertain: Falz] took 400 rt. in advance from all of them and demanded a further 3000 rt. —",
+   "names": [
+    {
+     "de": "Napolons",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Meierowitzsche",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Konin",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Hard[enberg]",
+     "en": "Hard[enberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Sachß",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard[enberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Swiątniki",
+     "en": "Swiątniki",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Falz",
+     "en": "Falz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "2800",
+    "1450",
+    "750",
+    "1500",
+    "2950",
+    "600",
+    "2236",
+    "40000",
+    "40",
+    "27ten",
+    "1811",
+    "3",
+    "3",
+    "700",
+    "3000",
+    "400",
+    "3000"
+   ]
+  }
+ ],
+ "text_english": "213\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nOf my illness I am cured; my first journey was to Konin, to settle what is owed to the State and at last to [uncertain: been] the oppressive sequestration entirely. On the way, however, I had the misfortune of being overturned and of so crushing my head that on one side I may pass for an African and on the other for a European. In the meantime I hope to be restored in a couple of weeks. For the rest, by the exertion of all human powers I have got so far that the State taxes, on account of which above all the sequestration continues, are paid down to 900 t., and since the suit with the tenant of the propination rights lies before the Kalisz tribunal in a wording whereby Nassalski must at once pay 3000 r., I hope next week not only to settle the remainder of the taxes but also the interest on the bank capital, and thereby to lift the costly sequestration altogether. With regard to the sums from the Invalids' Fund, Mendel Oppenheimer, Weigelt, Haugt, Seher Thos, etc., etc., I shall set myself on my hind legs, to which end the orders of the tribunal and of the land court, and the attestations in the original, will be despatched tomorrow to Berlin by express courier — for if the Bielski plan, that interest and capital shall be paid over 40 years at 6 per cent, has already, as men say, been accepted, and if on that account the new\n\narrest has already been laid, then one need give no man a good word any longer. Indeed it were to be wished that a like benefit were granted to the estate-owners in Silesia. Here everything can be made prosperous by this favour. For the rest it is a sad thing here that I must bring everything before the judge and recover every Groschen by way of law; [uncertain: Kühn] by reason of the new ordinances of the Emperor of the French and of the King of Saxony, every man refuses to [uncertain: pay] a single Groschen. Every [uncertain: Cur] says: the Prince is a foreigner, we need pay him nothing; I am therefore of necessity compelled to have all the refractory held to their duty through the judge, and on that account there are now already some 43 suits pending. The most considerable are\n\n1. With Niedźwiecki, for 6000 rt. Here I doubt that one will obtain so much as a [uncertain: deiner].\n\n2. With Nossalski, for 3000 Rthl. This one will be won in a few days, and he is rich.\n\n3. With the 3 Oleśnica lads, for about 33000 rt. These fellows can pay nothing; if only they can be got out, the Polish peasants will step into the contract, pay 10000 Rthl. entry-money and the yearly rent of 2000 r.\n\n4. With the Wrąbczyn peasants, for arrears of rent, 1200. These fellows say they were cheated at the conclusion of the contract in Wrocław, and will not keep the contract unless they receive an abatement — I shall gladly consent to the annulment of the contract, take everything from the fellows, and, as the laws permit, drive them out to their wages, the more so as I already have people enough, namely Poles, who will give 2000 rt. in cash for the holding and the same rent — this amounts, for 9 whole and 2 half peasant holdings, to 20000 rt.\n\n5. There has long been a suit pending with the Kopojno, Skokum and Swiątniki peasants concerning the grounds; this one is already won in the land court and lies before the tribunal for my approval — the people must reimburse 742 rt. of costs, which will not come hard to them —\n\n6. With Berda, who has a [uncertain: spiritual] privilege according to which he is to have only 23 Morgen of ground, but who has secretly appropriated to himself some 70 Morgen, and who is to pay some 1190 rt. of arrears of rent. 1190 rt. The fellow refuses to pay; I therefore wish to see the contract annulled; for the holding I shall then at once receive 3000 rt. in cash and a higher rent than now —\n\n7. With 8 Hollanders who owe some 5000 rt. of purchase-monies. 5000 rt. This suit will be won, the holdings taken in and let out elsewhere — whereupon the 5000 rt. come in, but the fellows go away empty.\n\n8. With Rybbeck at Drzewce, for 225 rt. of arrears of rent — this suit is compounded; Rybbeck pays the 225 rt. on the 1st of April of this year, on pain of losing his goods.\n\n9. With the miller Mex[illegible] of Swięcia, for 500 Rthl. of purchase-money with interest. The suit is somewhat held back because [illegible] promises to pay within 4 weeks.\n\n10. 29 suits with the colonists, who owe 39000 rt. of interest and will pay nothing at all. 89115 rt. The judgments will probably fall out so that the fellows can be removed and others put in their place; I [uncertain: doubt] that more than 6000 rt. will be got out of these arrears, for the people are too obstinate and go off in secret with their goods — There are still many purchase-monies and rents outstanding among good people, but these I must for the present allow time, so that they do not join the wicked ones too, and until I have first wholly overcome the wicked — by Midsummer everything must in the meanwhile be in order, and from then on up to 14000 rt. of clear interest must flow into the treasury. For 3 demesne farms which I am restoring, 9000 rt. a year is offered after the propination rights; this amounts then to some 23000 rt. of clear revenue; the interest, including the amortisation fund, would come to 14000 rt. yearly, and therefore 9000 rt. would flow to Your [Highness's] [uncertain: Causa] from Midsummer onward — 48467 rt. would certainly come in by Midsummer — out of which a part of the arrears, [uncertain: Staunz], the land tax, the costs etc. must still be settled. The deficit is 40648 rt.\n\nThe [uncertain: torments], care and sorrow which I endure here in the meantime are not to be described with any pen; I do not know when I shall first hear, or whither I am to turn — The newer ordinances of Napoleon turn everyone's heads; no one gives a Heller willingly. In the 3 months that I have been here, 2800 rt. have been recovered by execution — the suits already cost 1450 rt., of which the Trąbczyn and Meierowitz ones alone, which I omitted to mention overleaf, have eaten up 750 rt.; I have had taxes paid to the amount of 1500 rt. This already makes 2950 rt. Now I am again to send in some 600 rt. of advances to Konin and Kalisz — if I do not, all is lost; the sequestor liquidates daily, his new account amounts to 2236 rt. He is the favourite of Prefect Garczynski; I must flatter him as far as possible, so that he only does not [uncertain: hiesigt] and vex us, otherwise all is lost — indeed, they will chase me off from here like the cap from the dovecote. Gladly would I procure for Your Serene Highness but a 40000 rt., so that you might once again have a penny against need; I also strive to be able to show you a wholly fixed revenue, so that it may be reckoned upon with confidence, and to determine the end of the debts, so that your descendants may know what they will one day have from these estates — Here there are new rumours every day, which however are seldom confirmed; so much, however, is known to me, that in Berlin they live as in a madhouse, think only of extortions, and for the rest not a word of what passes in the neighbouring cabinets. Thus Hard[enberg] himself does not know one jot of it, that a fresh arrest has been laid upon all sums conceivable that have been given out of Prussia into Poland, and that the interest and amortisation fund has been fixed at 40 years. Zerboni has made a frightful long nose at them all and now laughs here into his own house; in your negotiations aim only at the welfare of Saxony and Poland. Hard[enberg] demands of me proofs concerning the new attachment and the amortisation [uncertain: Platz]; I send him the same tomorrow — I remain, until death, Your Most Serene Highness's Swiątniki, the 27th of January 1811\n\nmost humble\n\nv Triebenfeld\n\nMay Your Serene Highness deign to write to me by an express — you have indeed Polish fellows enough there — By the post it is dangerous — the letters are opened and many therefore go quite lost — P.S. This very moment I have come to agreement here with 3 jurists — all 3 of them serve, that is to say in Konin, Kalisz and also in Warsaw, through the whole year for 700 rt.; were it given for each case separately, I should not manage with 3000 rt., for [uncertain: Falz] took 400 rt. in advance from all of them and demanded a further 3000 rt. —",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, die Staatsabgaben seien bis auf 900 Rthl bezahlt; er hofft, die Sequestration bald aufzuheben. Weil niemand zahlt, führt er 43 Prozesse, u. a. gegen Niedźwiecki (6000 Rthl), Nossalski (3000 Rthl), die Olesnicer (circa 33000 Rthl), die Wrąbczyner Bauern und in 29 Fällen gegen Colonisten mit 39000 Rthl Zinsrückständen. Die Prozesskosten betragen 1450 Rthl, davon 750 Rthl für den Trąbczyner und den Meierowitzschen Prozess. Hardenberg verlangt Beweise über den neuen Arrest auf die aus Preußen nach Polen gegebenen Summen.",
  "reading": {

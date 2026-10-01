@@ -204,7 +204,240 @@
    "doc_line": 52
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Count Strachwitz",
+   "kind": "person",
+   "surface_de": "Gr Strachwitz",
+   "surface_en": "Count Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Strachwitz",
+   "kind": "person",
+   "surface_de": "Gr. Strachwitz",
+   "surface_en": "Count Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr Flesch",
+   "kind": "person",
+   "surface_de": "H. Flesch",
+   "surface_en": "Mr Flesch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goldstücker",
+   "kind": "person",
+   "surface_de": "Goldstücker",
+   "surface_en": "Goldstücker",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Głubczyce",
+   "kind": "place",
+   "surface_de": "Leobschütz",
+   "surface_en": "Głubczyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zackraw[uncertain: Zastrow]",
+   "kind": "place",
+   "surface_de": "Zackraw[Zastrow?]",
+   "surface_en": "Zackraw[uncertain: Zastrow]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Steine",
+   "kind": "person",
+   "surface_de": "Gr Steine",
+   "surface_en": "Count Steine",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "younger Strachwitz",
+   "kind": "person",
+   "surface_de": "jüngern Strachwitz",
+   "surface_en": "younger Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "massow",
+   "display": "Massow",
+   "kind": "person",
+   "surface_de": "Massow",
+   "surface_en": "Massow",
+   "page": 1
+  },
+  {
+   "entity": "merckel",
+   "display": "Merckel",
+   "kind": "person",
+   "surface_de": "Merckel",
+   "surface_en": "Merckel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "My Mr Schade",
+   "kind": "person",
+   "surface_de": "Mein Er Schade",
+   "surface_en": "My Mr Schade",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Turks",
+   "kind": "other",
+   "surface_de": "Türcken",
+   "surface_en": "Turks",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Schneidniz",
+   "kind": "person",
+   "surface_de": "Gr Schneidniz",
+   "surface_en": "Count Schneidniz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Turks",
+   "kind": "other",
+   "surface_de": "Türken",
+   "surface_en": "Turks",
+   "page": 2
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "dohna",
+   "display": "Dohna",
+   "kind": "person",
+   "surface_de": "Dohna",
+   "surface_en": "Dohna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prinz Wilhelm von Preußen",
+   "kind": "person",
+   "surface_de": "Pr Willhelm",
+   "surface_en": "Prinz Wilhelm von Preußen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Whode",
+   "kind": "person",
+   "surface_de": "Whode",
+   "surface_en": "Whode",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Colorma[illegible]",
+   "kind": "person",
+   "surface_de": "Colorma[?]",
+   "surface_en": "Colorma[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Henckel",
+   "kind": "person",
+   "surface_de": "Henckel",
+   "surface_en": "Henckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Fenckenstein",
+   "kind": "person",
+   "surface_de": "Fenckenstein",
+   "surface_en": "Fenckenstein",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -274,9 +507,180 @@
    "doc_line": 49
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "195\n\nMost Serene Prince\n\nMost gracious Prince and Lord, at this moment I can report nothing of consequence to Your Most Serene Highness, because Count Strachwitz is not yet here.\n\nIt was only today that I managed, with vexation and displeasure, to get a word with Mr Flesch. He only rails against Goldstücker, for holding the matter to be so easy and for having named the Count outright — He urges all secrecy and caution — Why, I do not know — It seems only, to speak frankly, that a swindle lies at the bottom of it, and as far as I can tell a lawsuit, of which I know nothing, is to be settled along with the business.\n\nFor the rest, I must wait here for Count Strachwitz, who is to arrive in Wrocław on the 23rd, in order to be able to take further measures accordingly. This much I know for now, that they are said to be the Oder estates situated near Głubczyce, and their value is put at 900000 rt.\n\nZackraw[uncertain: Zastrow] does not belong to it; that the Count means to keep for himself — Count Steine it is not, for that belongs to the younger Strachwitz — Today, if my fever abates, I shall speak with Mr von Massow. Meanwhile I know this much, that Massow is not to blame for the purloined lawsuit etc. Merckel has made the noise about it. My Mr Schade, who is his daily and bosom friend, is working upon him today.\n\nI shall report the results most obediently — The war between France, Austria and the Turks is here held to be a settled certainty, and likewise a breach with Russia is believed in.",
+   "names": [
+    {
+     "de": "Gr Strachwitz",
+     "en": "Count Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Gr. Strachwitz",
+     "en": "Count Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "H. Flesch",
+     "en": "Mr Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Goldstücker",
+     "en": "Goldstücker",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Leobschütz",
+     "en": "Głubczyce",
+     "kind": "place"
+    },
+    {
+     "de": "Zackraw[Zastrow?]",
+     "en": "Zackraw[uncertain: Zastrow]",
+     "kind": "place"
+    },
+    {
+     "de": "Gr Steine",
+     "en": "Count Steine",
+     "kind": "person"
+    },
+    {
+     "de": "jüngern Strachwitz",
+     "en": "younger Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Massow",
+     "en": "Massow",
+     "kind": "person"
+    },
+    {
+     "de": "Merckel",
+     "en": "Merckel",
+     "kind": "person"
+    },
+    {
+     "de": "Mein Er Schade",
+     "en": "My Mr Schade",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Türcken",
+     "en": "Turks",
+     "kind": "other"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "195",
+    "23",
+    "900000",
+    "20000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Our good King is in a [uncertain: mighty] straits. He is absolutely to pay the contribution quickly, or the French will move into our states — Count Schneidniz arrived here from Paris the day before yesterday with this news. Others will have it that Napoleon insists on our joining the war against the Turks, for which we are to furnish 20000 men at once, and against which he would let ten million rt of the contribution be dropped.\n\nHardenberg is coming forward again, so they say here, and will play a great part — Dohna will probably go — He has already left over 4000 matters lying unattended to; everything is stirred up against him — the whole system seems to be tottering; the little prince of, from and in the mire is even more hated here than G: One wishes ardently for His Serene Highness's return. Prinz Wilhelm von Preußen has won all hearts and is idolised. For the rest, my Whode was telling here yesterday, in the presence of several persons, that the late Colorma[illegible] is said to have given the testament in question to the Legation Councillor Henckel — but since this is no man of law, it has no validity; had he given it over to Fenckenstein, it would have had the proper form — I could not question him about it at the moment — today I shall hear whence he has this —\n\nI have delivered all letters and items.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nthe moratorium has been extended\n\nby 2 years\n\nWrocław, the 22nd of May\n\n1810.\n\nfaithful most humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Gr Schneidniz",
+     "en": "Count Schneidniz",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Türken",
+     "en": "Turks",
+     "kind": "other"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Dohna",
+     "en": "Dohna",
+     "kind": "person"
+    },
+    {
+     "de": "Pr Willhelm",
+     "en": "Prinz Wilhelm von Preußen",
+     "kind": "person"
+    },
+    {
+     "de": "Whode",
+     "en": "Whode",
+     "kind": "person"
+    },
+    {
+     "de": "Colorma[?]",
+     "en": "Colorma[illegible]",
+     "kind": "person"
+    },
+    {
+     "de": "Henckel",
+     "en": "Henckel",
+     "kind": "person"
+    },
+    {
+     "de": "Fenckenstein",
+     "en": "Fenckenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20000",
+    "4000",
+    "2",
+    "22",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "195\n\nMost Serene Prince\n\nMost gracious Prince and Lord, at this moment I can report nothing of consequence to Your Most Serene Highness, because Count Strachwitz is not yet here.\n\nIt was only today that I managed, with vexation and displeasure, to get a word with Mr Flesch. He only rails against Goldstücker, for holding the matter to be so easy and for having named the Count outright — He urges all secrecy and caution — Why, I do not know — It seems only, to speak frankly, that a swindle lies at the bottom of it, and as far as I can tell a lawsuit, of which I know nothing, is to be settled along with the business.\n\nFor the rest, I must wait here for Count Strachwitz, who is to arrive in Wrocław on the 23rd, in order to be able to take further measures accordingly. This much I know for now, that they are said to be the Oder estates situated near Głubczyce, and their value is put at 900000 rt.\n\nZackraw[uncertain: Zastrow] does not belong to it; that the Count means to keep for himself — Count Steine it is not, for that belongs to the younger Strachwitz — Today, if my fever abates, I shall speak with Mr von Massow. Meanwhile I know this much, that Massow is not to blame for the purloined lawsuit etc. Merckel has made the noise about it. My Mr Schade, who is his daily and bosom friend, is working upon him today.\n\nI shall report the results most obediently — The war between France, Austria and the Turks is here held to be a settled certainty, and likewise a breach with Russia is believed in.\n\nOur good King is in a [uncertain: mighty] straits. He is absolutely to pay the contribution quickly, or the French will move into our states — Count Schneidniz arrived here from Paris the day before yesterday with this news. Others will have it that Napoleon insists on our joining the war against the Turks, for which we are to furnish 20000 men at once, and against which he would let ten million rt of the contribution be dropped.\n\nHardenberg is coming forward again, so they say here, and will play a great part — Dohna will probably go — He has already left over 4000 matters lying unattended to; everything is stirred up against him — the whole system seems to be tottering; the little prince of, from and in the mire is even more hated here than G: One wishes ardently for His Serene Highness's return. Prinz Wilhelm von Preußen has won all hearts and is idolised. For the rest, my Whode was telling here yesterday, in the presence of several persons, that the late Colorma[illegible] is said to have given the testament in question to the Legation Councillor Henckel — but since this is no man of law, it has no validity; had he given it over to Fenckenstein, it would have had the proper form — I could not question him about it at the moment — today I shall hear whence he has this —\n\nI have delivered all letters and items.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nthe moratorium has been extended\n\nby 2 years\n\nWrocław, the 22nd of May\n\n1810.\n\nfaithful most humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld wartet in Breslau auf Graf Strachwitz, der am 23. eintreffen soll. Es geht um ein Geschäft über Güter bei Głubczyce, deren Wert mit 900000 Rthl angegeben wird. Flesch tadelt Goldstücker, weil er den Namen des Grafen genannt hat, und mahnt zur Verschwiegenheit. Triebenfeld vermutet eine Schwindelei. Er meldet Gerüchte: Der König soll die Contribution rasch zahlen, sonst rückten die Franzosen ein. Napoleon verlange 20000 Mann gegen die Türken. Hardenberg kehre zurück. Das Moratorium ist auf 2 Jahre verlängert.",
  "reading": {

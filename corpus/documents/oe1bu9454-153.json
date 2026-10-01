@@ -62,17 +62,6 @@
  ],
  "mentions": [
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0293_a2",
-   "scan": "Oe_1_Bu_9454_0293_a2-L153_01.jpg",
-   "line": 10970,
-   "doc_line": 5
-  },
-  {
    "entity": "amelang",
    "display": "Amelang",
    "kind": "person",
@@ -84,7 +73,80 @@
    "doc_line": 10
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Stein",
+   "kind": "person",
+   "surface_de": "von Stein",
+   "surface_en": "von Stein",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam Orphanage",
+   "kind": "other",
+   "surface_de": "Potsdamschen Waysen Haus",
+   "surface_en": "Potsdam Orphanage",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Widows' Fund",
+   "kind": "other",
+   "surface_de": "Wittwen Casse",
+   "surface_en": "Widows' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wards' Board",
+   "kind": "other",
+   "surface_de": "Pupillen Collegio",
+   "surface_en": "Wards' Board",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin[?]",
  "place_mentions": [
   {
@@ -132,9 +194,70 @@
    "doc_line": 21
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "153\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe procuring of the 25000 Rthl gives me much trouble, since Mr von Stein, who is now President of the Bank, has afresh forbidden all discounting. The capital will be given either by the Invalids' Fund or by the Potsdam Orphanage in the sum of 140000 Rthl, but to payment by instalments no one will commit himself; and until all the formalities are settled, no fund will hand over the capital — I am therefore working with Amelang to obtain the 25000 Rthl at least provisionally where they may be had, which can then be repaid out of the place where the 140000 Rthl are granted. Things look altogether sad here — all business is at a standstill on account of the above order, and the dear Widows' Fund, together with the Wards' Board, is cruelly hard pressed on account of the threatened bankruptcies in South Prussia — these too will no longer venture [uncertain: weigh] anything. Moreover the King is pressing hard after where all the millions have gone that were given to South Prussia, since notwithstanding the great sums given thither the greatest want of money nevertheless prevails, and it has the appearance as though all these moneys had emigrated to Russia together with the estate owners. Accordingly, whoever falls behind at all with the interest, or otherwise\n\n12 Jan 1805",
+   "names": [
+    {
+     "de": "von Stein",
+     "en": "von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Potsdamschen Waysen Haus",
+     "en": "Potsdam Orphanage",
+     "kind": "other"
+    },
+    {
+     "de": "Wittwen Casse",
+     "en": "Widows' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Pupillen Collegio",
+     "en": "Wards' Board",
+     "kind": "other"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "153",
+    "25000",
+    "140000",
+    "25000",
+    "140000",
+    "12",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "153\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe procuring of the 25000 Rthl gives me much trouble, since Mr von Stein, who is now President of the Bank, has afresh forbidden all discounting. The capital will be given either by the Invalids' Fund or by the Potsdam Orphanage in the sum of 140000 Rthl, but to payment by instalments no one will commit himself; and until all the formalities are settled, no fund will hand over the capital — I am therefore working with Amelang to obtain the 25000 Rthl at least provisionally where they may be had, which can then be repaid out of the place where the 140000 Rthl are granted. Things look altogether sad here — all business is at a standstill on account of the above order, and the dear Widows' Fund, together with the Wards' Board, is cruelly hard pressed on account of the threatened bankruptcies in South Prussia — these too will no longer venture [uncertain: weigh] anything. Moreover the King is pressing hard after where all the millions have gone that were given to South Prussia, since notwithstanding the great sums given thither the greatest want of money nevertheless prevails, and it has the appearance as though all these moneys had emigrated to Russia together with the estate owners. Accordingly, whoever falls behind at all with the interest, or otherwise\n\n12 Jan 1805",
  "summary_en": "",
  "summary_de": "v. Triebenfeld sorgt sich um die Beschaffung der 25000 Rthl, da Bankpräsident von Stein erneut jedes Diskontieren untersagt hat. Das Kapital von 140000 Rthl soll die Invaliden Casse oder das Potsdamer Waisenhaus geben, aber erst nach Erledigung aller Formalien und nicht in Raten. Mit Amelang sucht er die 25000 Rthl vorläufig zu beschaffen. Er berichtet über Geldmangel und drohende Bankrotte in Südpreußen. Der Brief bricht ab.",
  "reading": {

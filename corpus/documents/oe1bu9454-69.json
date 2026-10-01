@@ -152,7 +152,88 @@
    "doc_line": 26
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigſter Fürſt",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlawentz",
+   "kind": "place",
+   "surface_de": "Schlawentz",
+   "surface_en": "Schlawentz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "bally",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -189,9 +270,81 @@
    "doc_line": 22
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "69\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness will already have learned through Mr\n\nMr Lombardini that I was not able to receive the money at once in Wrocław, and was moreover detained even without the great hindrances of the indescribable roads and weather. Notwithstanding this, however, I hastened my journey from Wrocław onward so much that on the 25th at midday I was here, and found Honrichs and Cabanis",
+   "names": [
+    {
+     "de": "Durchlauchtigſter Fürſt",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "69",
+    "25"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "still here, who then also, after Honrichs 6000 rt. and the deeds of donation in the original with the most joyful prospects, departed that same day. The Councillor of War von Triebenfeld is suffering very much in the right arm; yet he has promised me that as soon as he shall have brought his own affairs here to an end, he will come at once for some weeks to Schlawentz. After I shall have received an answer upon all this, upon all the most gracious instructions received, I shall hasten to return. In deepest submission I remain, until death, Your Most Serene Highness's\n\nKonotop\n\n26th February 1810.\n\nmost humbly, faithfully and obediently\n\nBally",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawentz",
+     "en": "Schlawentz",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "6000",
+    "26",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "69\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness will already have learned through Mr\n\nMr Lombardini that I was not able to receive the money at once in Wrocław, and was moreover detained even without the great hindrances of the indescribable roads and weather. Notwithstanding this, however, I hastened my journey from Wrocław onward so much that on the 25th at midday I was here, and found Honrichs and Cabanis\n\nstill here, who then also, after Honrichs 6000 rt. and the deeds of donation in the original with the most joyful prospects, departed that same day. The Councillor of War von Triebenfeld is suffering very much in the right arm; yet he has promised me that as soon as he shall have brought his own affairs here to an end, he will come at once for some weeks to Schlawentz. After I shall have received an answer upon all this, upon all the most gracious instructions received, I shall hasten to return. In deepest submission I remain, until death, Your Most Serene Highness's\n\nKonotop\n\n26th February 1810.\n\nmost humbly, faithfully and obediently\n\nBally",
  "summary_en": "",
  "summary_de": "Bally berichtet, dass er das Geld in Wrocław nicht sofort erhalten konnte und durch Wege und Wetter aufgehalten wurde. Am 25. mittags traf er Honrichs und Cabanis noch an. Beide reisten noch am selben Tag ab, Honrichs mit 6000 Rthl und den Schenkungsurkunden im Original, und zwar mit den frohesten Aussichten. Triebenfeld leidet am rechten Arm. Er hat versprochen, für einige Wochen nach Schlawentz zu kommen, sobald seine eigenen Geschäfte beendet sind. Bally will bald zurückkehren.",
  "reading": {

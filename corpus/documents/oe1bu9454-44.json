@@ -212,7 +212,136 @@
    "doc_line": 55
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Lahr",
+   "kind": "person",
+   "surface_de": "Lahrsche",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Coste",
+   "kind": "person",
+   "surface_de": "Coste",
+   "surface_en": "Coste",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "v. d. Lahr",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "grevenitz",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitzschen",
+   "surface_en": "Grevenitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oldekopp",
+   "kind": "person",
+   "surface_de": "Oldekopp",
+   "surface_en": "Oldekopp",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mathieu",
+   "kind": "person",
+   "surface_de": "Mathieu",
+   "surface_en": "Mathieu",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Opole",
+   "kind": "place",
+   "surface_de": "Oppeln",
+   "surface_en": "Opole",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -260,9 +389,140 @@
    "doc_line": 54
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3000 rt, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2000 rt. Now there lie pledged 2 obligations of mine at 1000 rt each, for 800 Rthl.\n\n2 at 300 rt for 360 rt, 1 at 400 Rthl for 340 rt; these are = 3000 Rthl in papers for Lahr, but the costs now 1500 rt, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9000 rt which at that time had to be deposited to cover the 5000 rt which von der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 rth in interest. I also gave his bookkeeper and the broker Oldekopp 118 rt. These are = 2068 rt.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1500 rt in Courant will be saved)",
+   "names": [
+    {
+     "de": "Lahrsche",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Coste",
+     "en": "Coste",
+     "kind": "person"
+    },
+    {
+     "de": "v. d. Lahr",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitzschen",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Oldekopp",
+     "en": "Oldekopp",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "44",
+    "3000",
+    "2000",
+    "2",
+    "1000",
+    "800",
+    "2",
+    "300",
+    "360",
+    "1",
+    "400",
+    "340",
+    "3000",
+    "1500",
+    "9000",
+    "5000",
+    "450",
+    "118",
+    "2068",
+    "1500"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "2068 rt quickly, and likewise how I may satisfy Mathieu — who in the end means to hold me fast for 1000 rt Courant or 1500 rt in coin — so as to be able to travel.\n\nThe merchant Michaelis made me the offer yesterday that, if Your Serene Highness would let him have 600 Centner of iron at 4 rt by the month of May, he would then at once settle the 2068 rt together with interest and costs. The iron would, however, have to be delivered to him free as far as Opole.\n\nReckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — the 600 Centner of bar and hoop iron must surely be a trifle for you to give, and at no cost. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have laid out here in cash, amount to 521 rtl. These I beg to have repaid to me in cash as quickly as possible. Likewise I ask for the execution and other costs which the French gendarmerie, whom I have had to feed and pay here, have caused — these amount to 411 rth.\n\nThese are 932 rt Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, namely the 932 rt in cash and the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I affirm that I shall thereupon continue with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nAnswered, as desired.\n\n3rd February 1809, to Berlin. von Triebenfeld",
+   "names": [
+    {
+     "de": "Mathieu",
+     "en": "Mathieu",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Oppeln",
+     "en": "Opole",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2068",
+    "1000",
+    "1500",
+    "600",
+    "4",
+    "2068",
+    "600",
+    "521",
+    "411",
+    "932",
+    "932",
+    "600",
+    "3",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3000 rt, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2000 rt. Now there lie pledged 2 obligations of mine at 1000 rt each, for 800 Rthl.\n\n2 at 300 rt for 360 rt, 1 at 400 Rthl for 340 rt; these are = 3000 Rthl in papers for Lahr, but the costs now 1500 rt, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9000 rt which at that time had to be deposited to cover the 5000 rt which von der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 rth in interest. I also gave his bookkeeper and the broker Oldekopp 118 rt. These are = 2068 rt.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1500 rt in Courant will be saved)\n\n2068 rt quickly, and likewise how I may satisfy Mathieu — who in the end means to hold me fast for 1000 rt Courant or 1500 rt in coin — so as to be able to travel.\n\nThe merchant Michaelis made me the offer yesterday that, if Your Serene Highness would let him have 600 Centner of iron at 4 rt by the month of May, he would then at once settle the 2068 rt together with interest and costs. The iron would, however, have to be delivered to him free as far as Opole.\n\nReckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — the 600 Centner of bar and hoop iron must surely be a trifle for you to give, and at no cost. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have laid out here in cash, amount to 521 rtl. These I beg to have repaid to me in cash as quickly as possible. Likewise I ask for the execution and other costs which the French gendarmerie, whom I have had to feed and pay here, have caused — these amount to 411 rth.\n\nThese are 932 rt Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, namely the 932 rt in cash and the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I affirm that I shall thereupon continue with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nAnswered, as desired.\n\n3rd February 1809, to Berlin. von Triebenfeld",
  "summary_en": "",
  "summary_de": "Der Lahrsche Prozeß hält Triebenfeld zurück: Lahr erhält laut dem von Amelang mitgeteilten Erkenntnis noch 3000 Rthl nebst Zinsen, muss aber Papiere nehmen. Coste hat er die 9000 Rthl zurückgewährt und 450 Rthl Zinsen gezahlt; er benötigt 2068 Rthl. Laut Befehl des französischen Gouvernements sind diese Gelder aus den Gütern von Zagórów zu erstatten. Michaelis will die 2068 Rthl berichtigen, wenn der Fürst ihm bis Mai 600 Centner Eisen zu 4 Rthl frei Opole liefert.",
  "reading": {

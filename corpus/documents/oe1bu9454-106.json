@@ -153,7 +153,152 @@
    "doc_line": 59
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dann",
+   "kind": "person",
+   "surface_de": "Dann",
+   "surface_en": "Dann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Echart",
+   "kind": "person",
+   "surface_de": "H. v. Echart",
+   "surface_en": "Mr von Echart",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lichtenau",
+   "kind": "other",
+   "surface_de": "Lichtenauschen",
+   "surface_en": "Lichtenau",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posenschen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brzyzer estates",
+   "kind": "place",
+   "surface_de": "Brzyzer Güter",
+   "surface_en": "Brzyzer estates",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the ministers",
+   "kind": "other",
+   "surface_de": "H. Min[ister]:",
+   "surface_en": "the ministers",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "P",
+   "kind": "person",
+   "surface_de": "P",
+   "surface_en": "P",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wildeganchen",
+   "kind": "other",
+   "surface_de": "Wildeganchen",
+   "surface_en": "Wildeganchen",
+   "page": 3
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -168,6 +313,17 @@
    "doc_line": 19
   },
   {
+   "entity": "brzyce",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface": "Brzyze",
+   "page": 2,
+   "page_id": "0220_a1",
+   "scan": "Oe_1_Bu_9454_0220_a1-L106_02.jpg",
+   "line": 8328,
+   "doc_line": 22
+  },
+  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -179,9 +335,125 @@
    "doc_line": 56
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "106\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe court fiscal Michaelis has communicated to me Your Most Serene Highness's letter concerning the purchase of estates proposed by the Jew Dann. Since, however, the Jew had already been with me before the arrival of this gracious letter, I am in a position to reply to Your Most Serene Highness upon it at once, in deepest obedience — \"that Dann believes he can persuade Mr von Echart, who has bought the Lichtenau houses here, to [uncertain: thither] enter into a purchase [uncertain: Empletu] of this kind —\" It is therefore an ordinary broker's plan [uncertain: Mecklen], trimmed out with Jewish swindling — for the same Jew has laid this and other such plans before Prince George no less.",
+   "names": [
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Dann",
+     "en": "Dann",
+     "kind": "person"
+    },
+    {
+     "de": "H. v. Echart",
+     "en": "Mr von Echart",
+     "kind": "person"
+    },
+    {
+     "de": "Lichtenauschen",
+     "en": "Lichtenau",
+     "kind": "other"
+    },
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "106"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "For the rest, it looks bad. Pursuant to a contumacial decree issued by the Poznań government, they absolutely mean to take the Brzyzer estates back from Your Most Serene Highness — and when to this is added that the Chambers, together with the forest officials there, are doing nothing but intrigue over the forests and mean to wrest them from Your Serene Highness, then on that side all is lost.\n\nFor my own part I do not see what is to become of the matter — the Chambers chicane at every turn; moreover, lawsuits are being framed from several quarters, dreadful costs and fritterings-away of money are incurred, and for all that no end to them can be foreseen, and in this respect there is no thinking of any quiet possession of these estates. The exchange business also lies on an endless road, and no one thinks either of an inspection or of a valuation of the estates, and to speak without circumlocution",
+   "names": [
+    {
+     "de": "Posenschen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Brzyzer Güter",
+     "en": "Brzyzer estates",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "I believe that the ministers here act as sovereigns and would never let the exchange take place, unless it were that the monarch commands it — by a trustworthy man I shall report all further particulars to Your Serene Highness most humbly.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's — This very moment I receive Your Most Serene Highness's two gracious letters with the enclosures — P's ill will, of which I shall inform Your Serene Highness by another and surer route, shows itself here only too plainly. This very day he receives an extremely civil letter which is said to have been enclosed to [uncertain: Wildeganchen] — meanwhile nothing is to be gained by this hero, unless it be that Your Most Serene Highness should now concur in everything there with the man who recommended him, P — the times are strange now, and in this respect one may speak freely from the heart. Your Serene Highness has, as [uncertain: only] Eysenhardt tells me, had a fall with the horse — for God's sake I beg, most gracious Prince and Lord, do take some care of yourself — Berlin, the 25th of May\n\n1799.\n\nfaithful, most humble and obedient servant\n\nv. Triebenfeld.",
+   "names": [
+    {
+     "de": "H. Min[ister]:",
+     "en": "the ministers",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "P",
+     "en": "P",
+     "kind": "person"
+    },
+    {
+     "de": "Wildeganchen",
+     "en": "Wildeganchen",
+     "kind": "other"
+    },
+    {
+     "de": "Eysenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25",
+    "1799"
+   ]
+  }
+ ],
+ "text_english": "106\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe court fiscal Michaelis has communicated to me Your Most Serene Highness's letter concerning the purchase of estates proposed by the Jew Dann. Since, however, the Jew had already been with me before the arrival of this gracious letter, I am in a position to reply to Your Most Serene Highness upon it at once, in deepest obedience — \"that Dann believes he can persuade Mr von Echart, who has bought the Lichtenau houses here, to [uncertain: thither] enter into a purchase [uncertain: Empletu] of this kind —\" It is therefore an ordinary broker's plan [uncertain: Mecklen], trimmed out with Jewish swindling — for the same Jew has laid this and other such plans before Prince George no less.\n\nFor the rest, it looks bad. Pursuant to a contumacial decree issued by the Poznań government, they absolutely mean to take the Brzyzer estates back from Your Most Serene Highness — and when to this is added that the Chambers, together with the forest officials there, are doing nothing but intrigue over the forests and mean to wrest them from Your Serene Highness, then on that side all is lost.\n\nFor my own part I do not see what is to become of the matter — the Chambers chicane at every turn; moreover, lawsuits are being framed from several quarters, dreadful costs and fritterings-away of money are incurred, and for all that no end to them can be foreseen, and in this respect there is no thinking of any quiet possession of these estates. The exchange business also lies on an endless road, and no one thinks either of an inspection or of a valuation of the estates, and to speak without circumlocution\n\nI believe that the ministers here act as sovereigns and would never let the exchange take place, unless it were that the monarch commands it — by a trustworthy man I shall report all further particulars to Your Serene Highness most humbly.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's — This very moment I receive Your Most Serene Highness's two gracious letters with the enclosures — P's ill will, of which I shall inform Your Serene Highness by another and surer route, shows itself here only too plainly. This very day he receives an extremely civil letter which is said to have been enclosed to [uncertain: Wildeganchen] — meanwhile nothing is to be gained by this hero, unless it be that Your Most Serene Highness should now concur in everything there with the man who recommended him, P — the times are strange now, and in this respect one may speak freely from the heart. Your Serene Highness has, as [uncertain: only] Eysenhardt tells me, had a fall with the horse — for God's sake I beg, most gracious Prince and Lord, do take some care of yourself — Berlin, the 25th of May\n\n1799.\n\nfaithful, most humble and obedient servant\n\nv. Triebenfeld.",
  "summary_en": "",
  "summary_de": "Triebenfeld hält den vom Juden Dann vorgeschlagenen Güterkauf für Schwindel. Dann wolle H. v. Echart, den Käufer der Lichtenauschen Häuser, dafür gewinnen, und er habe auch Prinz George solche Pläne vorgetragen. Nach einem Contumacial Decret der Posener Regierung sollen dem Fürsten die Güter in Brzyce wieder genommen werden. Die Cammern intrigieren wegen der Forsten, Prozesse verursachen hohe Kosten, und die Tauschsache stockt. Er glaubt, die Minister würden den Tausch nur auf Befehl des Monarchen zulassen.",
  "reading": {

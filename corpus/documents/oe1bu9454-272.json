@@ -157,7 +157,96 @@
    "doc_line": 47
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Euer Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wiener",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Euer Durchläucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Goldstüker",
+   "kind": "person",
+   "surface_de": "Goldstüker",
+   "surface_en": "Goldstüker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Braun",
+   "kind": "person",
+   "surface_de": "H: v. Braun",
+   "surface_en": "von Braun",
+   "page": 3
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Emilie, Princess",
+   "kind": "person",
+   "surface_de": "die Fürstin Emilie",
+   "surface_en": "Emilie, Princess",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berliner",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 4
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -194,9 +283,96 @@
    "doc_line": 67
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "272 In accordance with Your Serene Highness's command of today, I transmit the drafted reply to Prince August. The withdrawal of the power of attorney certainly follows from the consequences of the Vienna resolutions; it is, however, to be feared that new blunders will be made in Öhringen, and these could only be averted by word of mouth, since experience teaches how little has been accomplished hitherto by all the written negotiating. In Öhringen I am confident of effecting everything that is necessary for Your Highness's peace of mind, and in the extreme case one there sees the matters [uncertain: independently] and conducts oneself according to the circumstances and according to the manner in which one is accustomed to conduct oneself toward Your Highness —: A secret instruction for this case would, together with a power of attorney, be",
+   "names": [
+    {
+     "de": "Euer Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Wiener",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "272"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "urgently necessary for me, of which I should make use only in this extreme case. I believe, however, that all this is not necessary, and that Your Serene Highness will, for what Your Highness's son there [uncertain: receives] through the altered circumstances of the times — be compensated here, since it will fall easy to him to renounce an enjoyment of revenues which he did not have at all hitherto and which, so far as I know the course of ideas there, he still very much calls into doubt. [uncertain: Until] an answer to this letter arrives, one must see everything more clearly, and I hope that if Your Highness will add something in Your own hand [uncertain: concerning] the travelling money, then this obstacle too may be removed. Goldstüker I shall already pacify by this journey, which he has long desired, because he always wished to come to terms concerning the bill of exchange. The foolish",
+   "names": [
+    {
+     "de": "Euer Durchläucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Goldstüker",
+     "en": "Goldstüker",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Mr von Braun is the root of all the [uncertain: hitherto] evil, because he was in nothing a match for Cosmar, and [uncertain: knew] not at all how to find his way in the sphere of action that opened to him. Princess Emilie has here more than once broken the staff over him, and named him by his name to me, but it does not appear that this has harmed him in the Prince's opinion. By the particular inspection of the estates I hope to be able to convince Your Highness of their true yield to be hoped for in the next [uncertain: fiscal year], for from that inspection it also follows how much is unavoidably necessary for the buildings, and I shall then [uncertain: propose] to Your Highness a fund out of which these cash outlays can be met without diminishing the actual revenues. In all these matters much depends on the forms one ob-",
+   "names": [
+    {
+     "de": "H: v. Braun",
+     "en": "von Braun",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "die Fürstin Emilie",
+     "en": "Emilie, Princess",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "serves.\n\nIt is high time that the great means of the estates should no longer be frittered away for a Berlin advocate, but should come to those to whom they belong. Once all is clear, I hope to have proved by the deed who it was that truly meant honestly by Your Highness and by the most high family, even if I do not often name my honest and well-meaning sentiments in words, because I am in earnest about them Hahn\n\n15th February 1815",
+   "names": [
+    {
+     "de": "Berliner",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "272 In accordance with Your Serene Highness's command of today, I transmit the drafted reply to Prince August. The withdrawal of the power of attorney certainly follows from the consequences of the Vienna resolutions; it is, however, to be feared that new blunders will be made in Öhringen, and these could only be averted by word of mouth, since experience teaches how little has been accomplished hitherto by all the written negotiating. In Öhringen I am confident of effecting everything that is necessary for Your Highness's peace of mind, and in the extreme case one there sees the matters [uncertain: independently] and conducts oneself according to the circumstances and according to the manner in which one is accustomed to conduct oneself toward Your Highness —: A secret instruction for this case would, together with a power of attorney, be\n\nurgently necessary for me, of which I should make use only in this extreme case. I believe, however, that all this is not necessary, and that Your Serene Highness will, for what Your Highness's son there [uncertain: receives] through the altered circumstances of the times — be compensated here, since it will fall easy to him to renounce an enjoyment of revenues which he did not have at all hitherto and which, so far as I know the course of ideas there, he still very much calls into doubt. [uncertain: Until] an answer to this letter arrives, one must see everything more clearly, and I hope that if Your Highness will add something in Your own hand [uncertain: concerning] the travelling money, then this obstacle too may be removed. Goldstüker I shall already pacify by this journey, which he has long desired, because he always wished to come to terms concerning the bill of exchange. The foolish\n\nMr von Braun is the root of all the [uncertain: hitherto] evil, because he was in nothing a match for Cosmar, and [uncertain: knew] not at all how to find his way in the sphere of action that opened to him. Princess Emilie has here more than once broken the staff over him, and named him by his name to me, but it does not appear that this has harmed him in the Prince's opinion. By the particular inspection of the estates I hope to be able to convince Your Highness of their true yield to be hoped for in the next [uncertain: fiscal year], for from that inspection it also follows how much is unavoidably necessary for the buildings, and I shall then [uncertain: propose] to Your Highness a fund out of which these cash outlays can be met without diminishing the actual revenues. In all these matters much depends on the forms one ob-\n\nserves.\n\nIt is high time that the great means of the estates should no longer be frittered away for a Berlin advocate, but should come to those to whom they belong. Once all is clear, I hope to have proved by the deed who it was that truly meant honestly by Your Highness and by the most high family, even if I do not often name my honest and well-meaning sentiments in words, because I am in earnest about them Hahn\n\n15th February 1815",
  "summary_en": "",
  "summary_de": "Hahn übersendet auf Befehl die entworfene Antwort an Fürst August. Die Rücknahme der Vollmacht führt er auf die Wiener Beschlüsse zurück. Er fürchtet neue Missgriffe in Öhringen, die nur mündlich abzuwenden seien. Für den äußersten Fall wäre ihm eine geheime Instruction nebst Vollmacht nöthig. Durch Besichtigung der Güter will Hahn deren wahren Ertrag und den Baubedarf nachweisen. Die Mittel der Güter dürften nicht länger an einen Berliner Advocaten gehen.",
  "reading": {

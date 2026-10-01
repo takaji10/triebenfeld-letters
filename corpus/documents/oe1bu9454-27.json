@@ -157,7 +157,136 @@
    "doc_line": 40
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prusimski family",
+   "kind": "person",
+   "surface_de": "Prusimskischen Familie",
+   "surface_en": "Prusimski family",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mrs General v. Sanitz",
+   "kind": "person",
+   "surface_de": "Generalin v. Sanitz",
+   "surface_en": "Mrs General v. Sanitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor Napoleon",
+   "kind": "person",
+   "surface_de": "K[aiser]. Napoleon",
+   "surface_en": "Emperor Napoleon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wibicki",
+   "kind": "person",
+   "surface_de": "Wibicki",
+   "surface_en": "Wibicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Maniecki",
+   "kind": "place",
+   "surface_de": "Maniecki",
+   "surface_en": "Maniecki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Memel",
+   "kind": "place",
+   "surface_de": "Memel",
+   "surface_en": "Memel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor Alexander",
+   "kind": "person",
+   "surface_de": "Kayser Allexander",
+   "surface_en": "Emperor Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Grand Duke Constantin",
+   "kind": "person",
+   "surface_de": "Gros Fürsten Constantin",
+   "surface_en": "Grand Duke Constantin",
+   "page": 2
+  },
+  {
+   "entity": "kaiser-alexander",
+   "display": "Kaiser Alexander I.",
+   "kind": "person",
+   "surface_de": "Alexander",
+   "surface_en": "Alexander",
+   "page": 2
+  },
+  {
+   "entity": "constantin",
+   "display": "Grand Duke Constantin",
+   "kind": "person",
+   "surface_de": "Konstantin",
+   "surface_en": "Constantin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Bre[slau]",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Peter",
+   "kind": "person",
+   "surface_de": "Peter",
+   "surface_en": "Peter",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -216,9 +345,109 @@
    "doc_line": 50
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "27\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nWhether this letter will meet the fate of all the preceding ones I leave undecided; out of faithful attachment to Your Most Serene Highness I cannot weary of working on wherever it can be done, and of reporting most obediently to Your Highness by this route the events that have lately come to pass.\n\nThat Trąbczyn and Kamionna have been taken by force by the Prusimski family Your Serene Highness will doubtless already know, and that at present nothing of consequence can be done against these one-sided undertakings Your Serene Highness will be pleased to perceive. I have merely had the protests lodged, in order greatly to secure the sum registered in my name. Whether this will succeed I do not yet venture to assert; indeed I rather believe that for the time being everything will be dismissed. The hope that the affair will change as a whole, and that the present situation will take on quite another shape, is the only [uncertain: Ander] upon which I alone [uncertain: baar]. The lady, Mrs General v. Sanitz, from whom too the estates conferred upon her husband have been taken, has herself written to the Emperor Napoleon and asked him for a declaration, because he only all, to Wibicki the estate Maniecki back, to give; but ordered everything else to be left in statu quo",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimskischen Familie",
+     "en": "Prusimski family",
+     "kind": "person"
+    },
+    {
+     "de": "Generalin v. Sanitz",
+     "en": "Mrs General v. Sanitz",
+     "kind": "person"
+    },
+    {
+     "de": "K[aiser]. Napoleon",
+     "en": "Emperor Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Wibicki",
+     "en": "Wibicki",
+     "kind": "person"
+    },
+    {
+     "de": "Maniecki",
+     "en": "Maniecki",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "27"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "ordered; the answer in that matter will now serve as the norm in Your Serene Highness's case as well, and as soon as it comes I too shall draw up the necessary plans for further operation — I go again tomorrow to Memel, and perhaps from there with commissions to Petersburg, or wherever I shall find the Emperor Alexander. It may easily happen that through the Grand Duke Constantin, to whom I have presented the fine set of firearms, I may effect something good in Your Serene Highness's cause. Through our [uncertain: Höst] I can effect not the least thing in the business. Both the King and the adored Queen, with all the [uncertain: Alantons] now present there, revere Your Serene Highness in the highest degree — but no one is able to help at this time — nor do I trouble the good monarch at all with matters of this kind, for, since he truly loves and esteems Your Serene Highness, it would only increase his grief. [uncertain: Bei] I, however, so fortunate as to come near to Alexander or also to [uncertain: Ihre] Constantin, then I shall exert everything so that these shall help, and I believe that it will only succeed in finding means whereby such a turn shall be given to the affair that all the Poles shall their sons [uncertain: erschloßen], should it please them to stretch out their claws further after Your Serene Highness's property.\n\nMay Heaven but grant that Your Serene Highness soon return. With boundless faithful attachment and the deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, the 19th of October\n\n1807\n\nmost faithful and obedient servant\n\nPeter",
+   "names": [
+    {
+     "de": "Memel",
+     "en": "Memel",
+     "kind": "place"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser Allexander",
+     "en": "Emperor Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Gros Fürsten Constantin",
+     "en": "Grand Duke Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Alexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Konstantin",
+     "en": "Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Bre[slau]",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Peter",
+     "en": "Peter",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1807"
+   ]
+  }
+ ],
+ "text_english": "27\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nWhether this letter will meet the fate of all the preceding ones I leave undecided; out of faithful attachment to Your Most Serene Highness I cannot weary of working on wherever it can be done, and of reporting most obediently to Your Highness by this route the events that have lately come to pass.\n\nThat Trąbczyn and Kamionna have been taken by force by the Prusimski family Your Serene Highness will doubtless already know, and that at present nothing of consequence can be done against these one-sided undertakings Your Serene Highness will be pleased to perceive. I have merely had the protests lodged, in order greatly to secure the sum registered in my name. Whether this will succeed I do not yet venture to assert; indeed I rather believe that for the time being everything will be dismissed. The hope that the affair will change as a whole, and that the present situation will take on quite another shape, is the only [uncertain: Ander] upon which I alone [uncertain: baar]. The lady, Mrs General v. Sanitz, from whom too the estates conferred upon her husband have been taken, has herself written to the Emperor Napoleon and asked him for a declaration, because he only all, to Wibicki the estate Maniecki back, to give; but ordered everything else to be left in statu quo\n\nordered; the answer in that matter will now serve as the norm in Your Serene Highness's case as well, and as soon as it comes I too shall draw up the necessary plans for further operation — I go again tomorrow to Memel, and perhaps from there with commissions to Petersburg, or wherever I shall find the Emperor Alexander. It may easily happen that through the Grand Duke Constantin, to whom I have presented the fine set of firearms, I may effect something good in Your Serene Highness's cause. Through our [uncertain: Höst] I can effect not the least thing in the business. Both the King and the adored Queen, with all the [uncertain: Alantons] now present there, revere Your Serene Highness in the highest degree — but no one is able to help at this time — nor do I trouble the good monarch at all with matters of this kind, for, since he truly loves and esteems Your Serene Highness, it would only increase his grief. [uncertain: Bei] I, however, so fortunate as to come near to Alexander or also to [uncertain: Ihre] Constantin, then I shall exert everything so that these shall help, and I believe that it will only succeed in finding means whereby such a turn shall be given to the affair that all the Poles shall their sons [uncertain: erschloßen], should it please them to stretch out their claws further after Your Serene Highness's property.\n\nMay Heaven but grant that Your Serene Highness soon return. With boundless faithful attachment and the deepest respect I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław, the 19th of October\n\n1807\n\nmost faithful and obedient servant\n\nPeter",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, dass die Familie Prusimski Trąbczyn und Kamionna mit Gewalt an sich genommen hat. Er hat nur Protestationen einlegen lassen, um die von ihm eingetragene Summa zu sichern, erwartet aber vorerst Abweisung. Die Antwort Napoleons auf ein Schreiben der Generalin v. Sanitz, der man die Güter ihres Gemahls nahm, werde als Norm dienen. Er will morgen nach Memel reisen, vielleicht nach St Petersburg, und hofft über Kaiser Alexander oder Großfürst Constantin Hilfe zu erreichen.",
  "reading": {

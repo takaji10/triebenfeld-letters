@@ -361,6 +361,17 @@
    "doc_line": 62
   },
   {
+   "entity": "brehmer",
+   "display": "von Brehmer",
+   "kind": "person",
+   "surface": "Brehmer",
+   "page": 4,
+   "page_id": "0544_a1",
+   "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
+   "line": 21570,
+   "doc_line": 68
+  },
+  {
    "entity": "gaertner",
    "display": "Gärtner (Geh. Rath)",
    "kind": "person",
@@ -482,7 +493,1352 @@
    "doc_line": 126
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Princely Hohenlohe",
+   "kind": "other",
+   "surface_de": "Fürstlich Hohenloheschen",
+   "surface_en": "Princely Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kuch",
+   "kind": "person",
+   "surface_de": "Kuch",
+   "surface_en": "Kuch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strahlen",
+   "kind": "person",
+   "surface_de": "Strahlen",
+   "surface_en": "Strahlen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wallerstein",
+   "kind": "place",
+   "surface_de": "Wallerstein",
+   "surface_en": "Wallerstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Sobottendorff",
+   "kind": "person",
+   "surface_de": "v Sobottendorffischen",
+   "surface_en": "von Sobottendorff",
+   "page": 1
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Tauenzien",
+   "kind": "person",
+   "surface_de": "v Tauenzien",
+   "surface_en": "von Tauenzien",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Feannert",
+   "kind": "person",
+   "surface_de": "v. Feannert[?]",
+   "surface_en": "von Feannert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Czarnetzki",
+   "kind": "person",
+   "surface_de": "v. Czarnetzki",
+   "surface_en": "von Czarnetzki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gleisberger",
+   "kind": "person",
+   "surface_de": "Gleisberger",
+   "surface_en": "Gleisberger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Bornstädt",
+   "kind": "person",
+   "surface_de": "v. Bornstädt",
+   "surface_en": "von Bornstädt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rass",
+   "kind": "person",
+   "surface_de": "Rass",
+   "surface_en": "Rass",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schick",
+   "kind": "person",
+   "surface_de": "Schick",
+   "surface_en": "Schick",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Kluge",
+   "kind": "person",
+   "surface_de": "v. Kluge",
+   "surface_en": "von Kluge",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Franz Apfelfeld",
+   "kind": "person",
+   "surface_de": "Franz Apfelfeld",
+   "surface_en": "Franz Apfelfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ujazd",
+   "kind": "place",
+   "surface_de": "Ujest",
+   "surface_en": "Ujazd",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Deuser",
+   "kind": "person",
+   "surface_de": "Deuser",
+   "surface_en": "Deuser",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Krippendorff",
+   "kind": "person",
+   "surface_de": "Krippendorff",
+   "surface_en": "Krippendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Jung",
+   "kind": "person",
+   "surface_de": "Jung",
+   "surface_en": "Jung",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Benshausen",
+   "kind": "place",
+   "surface_de": "Benshausen",
+   "surface_en": "Benshausen",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Golde",
+   "kind": "person",
+   "surface_de": "Golde",
+   "surface_en": "Golde",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Köber",
+   "kind": "person",
+   "surface_de": "Köber",
+   "surface_en": "Köber",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ansbach",
+   "kind": "place",
+   "surface_de": "Ansbach",
+   "surface_en": "Ansbach",
+   "page": 2
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Label Joseph Levin",
+   "kind": "person",
+   "surface_de": "Label Joseph Levin",
+   "surface_en": "Label Joseph Levin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Lichtenau",
+   "kind": "person",
+   "surface_de": "von Lichtenau",
+   "surface_en": "von Lichtenau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Charlotte von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Charlotte von Triebenfeld",
+   "surface_en": "Charlotte von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hoffmann",
+   "kind": "person",
+   "surface_de": "Hoffmann",
+   "surface_en": "Hoffmann",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Fraube & Schlesinger",
+   "kind": "other",
+   "surface_de": "Fraube & Schlesinger",
+   "surface_en": "Fraube & Schlesinger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ujazd",
+   "kind": "place",
+   "surface_de": "Ujest",
+   "surface_en": "Ujazd",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Goldstücker",
+   "kind": "person",
+   "surface_de": "Goldstücker",
+   "surface_en": "Goldstücker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schweizhoffer",
+   "kind": "person",
+   "surface_de": "Schweizhoffers",
+   "surface_en": "Schweizhoffer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Joh. Eleon: Pedell",
+   "kind": "person",
+   "surface_de": "Joh. Eleon: Pedell",
+   "surface_en": "Joh. Eleon: Pedell",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Carlsruhe",
+   "kind": "place",
+   "surface_de": "Carlsruhe",
+   "surface_en": "Carlsruhe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Pückler",
+   "kind": "person",
+   "surface_de": "v. Pückler",
+   "surface_en": "von Pückler",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rilitzer",
+   "kind": "person",
+   "surface_de": "Rilitzer",
+   "surface_en": "Rilitzer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Delitz",
+   "kind": "person",
+   "surface_de": "von Delitz",
+   "surface_en": "von Delitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mendel",
+   "kind": "person",
+   "surface_de": "Mendels",
+   "surface_en": "Mendel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt am Main",
+   "kind": "place",
+   "surface_de": "Frankfurt a.m.",
+   "surface_en": "Frankfurt am Main",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Burghard",
+   "kind": "person",
+   "surface_de": "Burghards",
+   "surface_en": "Burghard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Erfurt",
+   "kind": "place",
+   "surface_de": "Erfurt",
+   "surface_en": "Erfurt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sternitzky",
+   "kind": "person",
+   "surface_de": "Sternitzky",
+   "surface_en": "Sternitzky",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dorr",
+   "kind": "person",
+   "surface_de": "Dorrs",
+   "surface_en": "Dorr",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Griesbach",
+   "kind": "place",
+   "surface_de": "Griesbach",
+   "surface_en": "Griesbach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Günther",
+   "kind": "person",
+   "surface_de": "Günther",
+   "surface_en": "Günther",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schoen",
+   "kind": "person",
+   "surface_de": "Schoen",
+   "surface_en": "Schoen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Jacobswalde",
+   "kind": "place",
+   "surface_de": "Jacobswalde",
+   "surface_en": "Jacobswalde",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ludwig",
+   "kind": "person",
+   "surface_de": "Ludwig",
+   "surface_en": "Ludwig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Palemba",
+   "kind": "person",
+   "surface_de": "Palemba",
+   "surface_en": "Palemba",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Maxiliano von Holly",
+   "kind": "person",
+   "surface_de": "Maxiliano von Holly",
+   "surface_en": "Maxiliano von Holly",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Munster",
+   "kind": "place",
+   "surface_de": "Munster",
+   "surface_en": "Munster",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Giesche",
+   "kind": "person",
+   "surface_de": "Giesche",
+   "surface_en": "Giesche",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Focke",
+   "kind": "person",
+   "surface_de": "Focke",
+   "surface_en": "Focke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Abraham Hirsch Schweizer",
+   "kind": "person",
+   "surface_de": "Abraham Hirsch Schweizer",
+   "surface_en": "Abraham Hirsch Schweizer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Krause",
+   "kind": "person",
+   "surface_de": "Krause",
+   "surface_en": "Krause",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Szczytniki",
+   "kind": "place",
+   "surface_de": "Scheitnich",
+   "surface_en": "Szczytniki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koenig",
+   "kind": "person",
+   "surface_de": "Koenig",
+   "surface_en": "Koenig",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Gluttmann",
+   "kind": "person",
+   "surface_de": "Gluttmann",
+   "surface_en": "Gluttmann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schumann",
+   "kind": "person",
+   "surface_de": "Schumann",
+   "surface_en": "Schumann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Werner & Co.",
+   "kind": "other",
+   "surface_de": "Werner & Comp",
+   "surface_en": "Werner & Co.",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Loebel Fraenkel",
+   "kind": "person",
+   "surface_de": "Loebel Fraenkel",
+   "surface_en": "Loebel Fraenkel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koehler",
+   "kind": "person",
+   "surface_de": "Koehler",
+   "surface_en": "Koehler",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Freihaber",
+   "kind": "person",
+   "surface_de": "Freihabers",
+   "surface_en": "Freihaber",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "E Heimann",
+   "kind": "person",
+   "surface_de": "E Heimann",
+   "surface_en": "E Heimann",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Carl von Stössel",
+   "kind": "person",
+   "surface_de": "Carl v Stoessel",
+   "surface_en": "Carl von Stössel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sigismund von Stössel",
+   "kind": "person",
+   "surface_de": "Sigismund v Stoessel",
+   "surface_en": "Sigismund von Stössel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "K. S. Mützel",
+   "kind": "person",
+   "surface_de": "K. S. Mützel",
+   "surface_en": "K. S. Mützel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Sak",
+   "kind": "person",
+   "surface_de": "v. Sak",
+   "surface_en": "von Sak",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Zerboni",
+   "kind": "person",
+   "surface_de": "v. Zerboni",
+   "surface_en": "von Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Gas",
+   "kind": "person",
+   "surface_de": "Gas",
+   "surface_en": "Gas",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Franz. Meyer",
+   "kind": "person",
+   "surface_de": "Franz. Meyer",
+   "surface_en": "Franz. Meyer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brosemann",
+   "kind": "person",
+   "surface_de": "Brosemann",
+   "surface_en": "Brosemann",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Brasfert",
+   "kind": "person",
+   "surface_de": "Brasfert",
+   "surface_en": "Brasfert",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schmidt",
+   "kind": "person",
+   "surface_de": "Schmidts",
+   "surface_en": "Schmidt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Über",
+   "kind": "person",
+   "surface_de": "Über",
+   "surface_en": "Über",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Münchow",
+   "kind": "person",
+   "surface_de": "von Münchow",
+   "surface_en": "von Münchow",
+   "page": 4
+  },
+  {
+   "entity": "brehmer",
+   "display": "von Brehmer",
+   "kind": "person",
+   "surface_de": "Brehmer",
+   "surface_en": "Brehmer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Nickel",
+   "kind": "person",
+   "surface_de": "Nickel",
+   "surface_en": "Nickel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Elsner",
+   "kind": "person",
+   "surface_de": "Elsnerschen",
+   "surface_en": "Elsner",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Hennig",
+   "kind": "person",
+   "surface_de": "Hennig",
+   "surface_en": "Hennig",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sigismund von Stössel",
+   "kind": "person",
+   "surface_de": "Sigesm. p. Stoesselschen",
+   "surface_en": "Sigismund von Stössel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Panz",
+   "kind": "person",
+   "surface_de": "Panz",
+   "surface_en": "Panz",
+   "page": 4
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schlipalius",
+   "kind": "person",
+   "surface_de": "Schlipalius",
+   "surface_en": "Schlipalius",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Frank",
+   "kind": "person",
+   "surface_de": "Frank",
+   "surface_en": "Frank",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Abraham Hirschel",
+   "kind": "person",
+   "surface_de": "Abraham Hirschel",
+   "surface_en": "Abraham Hirschel",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Zinger",
+   "kind": "person",
+   "surface_de": "Zingerschen",
+   "surface_en": "Zinger",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Bettner",
+   "kind": "person",
+   "surface_de": "Bettner",
+   "surface_en": "Bettner",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v Köckritzschen",
+   "surface_en": "von Köckritz",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Gottheimer",
+   "kind": "person",
+   "surface_de": "Gottheimer",
+   "surface_en": "Gottheimer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Meyer Herz Cohn",
+   "kind": "person",
+   "surface_de": "Meyer Herz Cohn",
+   "surface_en": "Meyer Herz Cohn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Valentin Jung",
+   "kind": "person",
+   "surface_de": "Valentin Jung",
+   "surface_en": "Valentin Jung",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Brenzhausen",
+   "kind": "place",
+   "surface_de": "Brenzhausen",
+   "surface_en": "Brenzhausen",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Lampe",
+   "kind": "person",
+   "surface_de": "Lampe",
+   "surface_en": "Lampe",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Barnheim",
+   "kind": "person",
+   "surface_de": "Barnheim",
+   "surface_en": "Barnheim",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Eichter",
+   "kind": "person",
+   "surface_de": "Eichterschen",
+   "surface_en": "Eichter",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Müller",
+   "kind": "person",
+   "surface_de": "Müller",
+   "surface_en": "Müller",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Münezer",
+   "kind": "person",
+   "surface_de": "Münezer",
+   "surface_en": "Münezer",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Weinhold",
+   "kind": "person",
+   "surface_de": "Weinhold",
+   "surface_en": "Weinhold",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Dzeieba",
+   "kind": "person",
+   "surface_de": "Dzeieba",
+   "surface_en": "Dzeieba",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mendel Oettinger",
+   "kind": "person",
+   "surface_de": "Mendel Oettingerschen",
+   "surface_en": "Mendel Oettinger",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Homuth",
+   "kind": "person",
+   "surface_de": "Homuth",
+   "surface_en": "Homuth",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Fauk",
+   "kind": "person",
+   "surface_de": "Fauk",
+   "surface_en": "Fauk",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Strehn",
+   "kind": "person",
+   "surface_de": "Strehn",
+   "surface_en": "Strehn",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Seidlitz",
+   "kind": "person",
+   "surface_de": "Seidlitzschen",
+   "surface_en": "Seidlitz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Lazarus Schlesinger",
+   "kind": "person",
+   "surface_de": "Lazarus Schlesinger",
+   "surface_en": "Lazarus Schlesinger",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt am Main",
+   "kind": "place",
+   "surface_de": "Frankfurt a/M.",
+   "surface_en": "Frankfurt am Main",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Witinsky",
+   "kind": "person",
+   "surface_de": "Witinsky",
+   "surface_en": "Witinsky",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mattersdorff",
+   "kind": "person",
+   "surface_de": "Mattersdorff",
+   "surface_en": "Mattersdorff",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "von der Breling",
+   "kind": "person",
+   "surface_de": "v d Brelingschen",
+   "surface_en": "von der Breling",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "W. G. Korn",
+   "kind": "other",
+   "surface_de": "W. G. Korn",
+   "surface_en": "W. G. Korn",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Bauditz",
+   "kind": "person",
+   "surface_de": "Bauditz",
+   "surface_en": "Bauditz",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth a/O.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Zadik",
+   "kind": "person",
+   "surface_de": "Zadik",
+   "surface_en": "Zadik",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Mr R. Prubrecht",
+   "kind": "person",
+   "surface_de": "Mr. R. Prubrechtischen",
+   "surface_en": "Mr R. Prubrecht",
+   "page": 6
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth a/od.",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Rothkirch",
+   "kind": "person",
+   "surface_de": "v Rothkirch",
+   "surface_en": "von Rothkirch",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Hein",
+   "kind": "person",
+   "surface_de": "Hein",
+   "surface_en": "Hein",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffschen",
+   "surface_en": "Schlabrendorff",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Diet",
+   "kind": "person",
+   "surface_de": "Diet",
+   "surface_en": "Diet",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Binek",
+   "kind": "person",
+   "surface_de": "Binek",
+   "surface_en": "Binek",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Zimetzky",
+   "kind": "person",
+   "surface_de": "v. Zimetzkyschen",
+   "surface_en": "von Zimetzky",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schindler",
+   "kind": "person",
+   "surface_de": "Schindlerschen",
+   "surface_en": "Schindler",
+   "page": 7
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Ottenſoser",
+   "kind": "person",
+   "surface_de": "Ottenſoser",
+   "surface_en": "Ottenſoser",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Johann Hoffmann",
+   "kind": "person",
+   "surface_de": "Johann Hoffmann",
+   "surface_en": "Johann Hoffmann",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "von Hénneberg",
+   "kind": "person",
+   "surface_de": "v Hénneberg",
+   "surface_en": "von Hénneberg",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Koppan",
+   "kind": "person",
+   "surface_de": "Koppan",
+   "surface_en": "Koppan",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Schindler",
+   "kind": "person",
+   "surface_de": "Schindler",
+   "surface_en": "Schindler",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Maper and Scholtz",
+   "kind": "other",
+   "surface_de": "Maper und Scholtz",
+   "surface_en": "Maper and Scholtz",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Friedr: von Koopf",
+   "kind": "person",
+   "surface_de": "Friedr: v. Koopf",
+   "surface_en": "Friedr: von Koopf",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Krause",
+   "kind": "person",
+   "surface_de": "Krause",
+   "surface_en": "Krause",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Kohn",
+   "kind": "person",
+   "surface_de": "Kohn",
+   "surface_en": "Kohn",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Fehr von Lans",
+   "kind": "person",
+   "surface_de": "Fehr v. Lanschen",
+   "surface_en": "Fehr von Lans",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Benthan",
+   "kind": "person",
+   "surface_de": "Benthan",
+   "surface_en": "Benthan",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Weigel and Son",
+   "kind": "other",
+   "surface_de": "Weigel und Sohn",
+   "surface_en": "Weigel and Son",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Mendel Panofska",
+   "kind": "person",
+   "surface_de": "Mendel Panofskaschen",
+   "surface_en": "Mendel Panofska",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "von Rechthoff",
+   "kind": "person",
+   "surface_de": "v. Rechthoffschen",
+   "surface_en": "von Rechthoff",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Molinari",
+   "kind": "person",
+   "surface_de": "Molinari",
+   "surface_en": "Molinari",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Nerlech",
+   "kind": "person",
+   "surface_de": "Nerlech",
+   "surface_en": "Nerlech",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Friedrich",
+   "kind": "person",
+   "surface_de": "Friedrich",
+   "surface_en": "Friedrich",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Siebert",
+   "kind": "person",
+   "surface_de": "Siebert",
+   "surface_en": "Siebert",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Gümmler",
+   "kind": "person",
+   "surface_de": "Gümmler",
+   "surface_en": "Gümmler",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Linne",
+   "kind": "person",
+   "surface_de": "Linneschen",
+   "surface_en": "Linne",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Fürst",
+   "kind": "person",
+   "surface_de": "Fürst",
+   "surface_en": "Fürst",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "von Eichendorff",
+   "kind": "person",
+   "surface_de": "von Eichendorff",
+   "surface_en": "von Eichendorff",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Bawitscher",
+   "kind": "person",
+   "surface_de": "Bawitscher",
+   "surface_en": "Bawitscher",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Moses Bawitscher",
+   "kind": "person",
+   "surface_de": "Moses Bawitscher",
+   "surface_en": "Moses Bawitscher",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Müller",
+   "kind": "person",
+   "surface_de": "Müller",
+   "surface_en": "Müller",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Scheffler",
+   "kind": "person",
+   "surface_de": "Scheffler",
+   "surface_en": "Scheffler",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Lordemann",
+   "kind": "person",
+   "surface_de": "Lordemann",
+   "surface_en": "Lordemann",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Herzog",
+   "kind": "person",
+   "surface_de": "Herzog",
+   "surface_en": "Herzog",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Stark",
+   "kind": "person",
+   "surface_de": "Stark",
+   "surface_en": "Stark",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Ziepult & Son",
+   "kind": "other",
+   "surface_de": "Ziepult & Sohn",
+   "surface_en": "Ziepult & Son",
+   "page": 9
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -750,9 +2106,1119 @@
    "doc_line": 118
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": ",Extract from the Princely Hohenlohe Liquidation Protocols,Gold,,,Courant,,\n,Capital Claims,Rthl,g,d,Rthl,g,d\n1,The former kitchen master Kuch,100,,,\"5,050\",,\n2,Privy Councillor Strahlen at Wallerstein,,,,\"2,666\",16,\n3,the von Sobottendorff heirs.,,,,\"44,200\",,\n4,the Countess Hoym née von Tauenzien,,,,\"5,000\",,\n5,Mr von Feannert[uncertain],,,,200,,\n6,Mr von Czarnetzki,,,,400,,\n7,The saddler Gleisberger at Potsdam,,,,64,,\n8,Mr von Bornstädt,,,,\"5,000\",,\n9,The locksmith Rass,,,,\"2,370\",,\n10,The joiner Schick,,,,\"3,400\",,\n11,Mr von Kluge,,,,\"3,000\",,\n12,Franz Apfelfeld at Ujazd,,,,310,,\n13,The former table-setter Deuser,,,,200,,\n14,The head forester Krippendorff,,,,\"3,700\",,\n15,Jung at Benshausen,\"3,635\",,,,,\n16,Lombardini +,,,,,,",
+   "names": [
+    {
+     "de": "Fürstlich Hohenloheschen",
+     "en": "Princely Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Kuch",
+     "en": "Kuch",
+     "kind": "person"
+    },
+    {
+     "de": "Strahlen",
+     "en": "Strahlen",
+     "kind": "person"
+    },
+    {
+     "de": "Wallerstein",
+     "en": "Wallerstein",
+     "kind": "place"
+    },
+    {
+     "de": "v Sobottendorffischen",
+     "en": "von Sobottendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "v Tauenzien",
+     "en": "von Tauenzien",
+     "kind": "person"
+    },
+    {
+     "de": "v. Feannert[?]",
+     "en": "von Feannert",
+     "kind": "person"
+    },
+    {
+     "de": "v. Czarnetzki",
+     "en": "von Czarnetzki",
+     "kind": "person"
+    },
+    {
+     "de": "Gleisberger",
+     "en": "Gleisberger",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "v. Bornstädt",
+     "en": "von Bornstädt",
+     "kind": "person"
+    },
+    {
+     "de": "Rass",
+     "en": "Rass",
+     "kind": "person"
+    },
+    {
+     "de": "Schick",
+     "en": "Schick",
+     "kind": "person"
+    },
+    {
+     "de": "v. Kluge",
+     "en": "von Kluge",
+     "kind": "person"
+    },
+    {
+     "de": "Franz Apfelfeld",
+     "en": "Franz Apfelfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ujest",
+     "en": "Ujazd",
+     "kind": "place"
+    },
+    {
+     "de": "Deuser",
+     "en": "Deuser",
+     "kind": "person"
+    },
+    {
+     "de": "Krippendorff",
+     "en": "Krippendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Jung",
+     "en": "Jung",
+     "kind": "person"
+    },
+    {
+     "de": "Benshausen",
+     "en": "Benshausen",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "5,050",
+    "2,666",
+    "16",
+    "44,200",
+    "5,000",
+    "200",
+    "400",
+    "64",
+    "5,000",
+    "2,370",
+    "3,400",
+    "3,000",
+    "310",
+    "200",
+    "3,700",
+    "3,635"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<caption>Extract from the Princely Hohenlohe Liquidation Protocols</caption>\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">1</td><td class=\"name\">The former kitchen master Kuch</td><td class=\"num\">100</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,050</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">2</td><td class=\"name\">Privy Councillor Strahlen at Wallerstein</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,666</td><td class=\"num\">16</td><td class=\"num\"></td></tr><tr><td class=\"no\">3</td><td class=\"name\">the von Sobottendorff heirs.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">44,200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">4</td><td class=\"name\">the Countess Hoym née von Tauenzien</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">5</td><td class=\"name\">Mr von Feannert[uncertain]</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">6</td><td class=\"name\">Mr von Czarnetzki</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">400</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">7</td><td class=\"name\">The saddler Gleisberger at Potsdam</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">64</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">8</td><td class=\"name\">Mr von Bornstädt</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">9</td><td class=\"name\">The locksmith Rass</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,370</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">10</td><td class=\"name\">The joiner Schick</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">3,400</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">11</td><td class=\"name\">Mr von Kluge</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">3,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">12</td><td class=\"name\">Franz Apfelfeld at Ujazd</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">310</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">13</td><td class=\"name\">The former table-setter Deuser</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">14</td><td class=\"name\">The head forester Krippendorff</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">3,700</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">15</td><td class=\"name\">Jung at Benshausen</td><td class=\"num\">3,635</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">16</td><td class=\"name\">Lombardini +</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 2,
+   "en": "17,The Jewess Golde in Wrocław,,,,\"6,000\",,\n18,the innkeeper Köber in Ansbach,,,,319,12,\n19,Mrs Bernhardi the mining councillor's wife in Wrocław,,,,,,\n20,Heirs of Label Joseph Levin,,,,\"13,275\",,\n21,Countess von Lichtenau,250,,,,,\n22,Mrs Charlotte von Triebenfeld,,,,\"112,000\",,\n23,Court Councillor Hahn,,,,,,\n24,Housekeeper Hoffmann,,,,,,\n25,Fraube & Schlesinger at Ujazd.,,,,\"2,978\",18,\n26,Goldstücker,,,,\"170,000\",,\n27,The tinsmith Schweizhoffer's widow,,,,90,,\n28,Joh. Eleon: Pedell at Carlsruhe,,,,\"4,000\",,\n29,Count von Pückler,,,,,,\n30,The butcher Rilitzer at Sławięcice,,,,\"1,188\",13,\n31,Mr von Delitz,,,,300,,\n32,Mendel's widow at Frankfurt am Main,,,,483,12,\n33,Burghard's widow at Erfurt,,,,,,\n34,The surgeon Sternitzky,,,,222,21,6\n35,Dorr's widow at Griesbach.,,,,342,20,",
+   "names": [
+    {
+     "de": "Golde",
+     "en": "Golde",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Köber",
+     "en": "Köber",
+     "kind": "person"
+    },
+    {
+     "de": "Ansbach",
+     "en": "Ansbach",
+     "kind": "place"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Label Joseph Levin",
+     "en": "Label Joseph Levin",
+     "kind": "person"
+    },
+    {
+     "de": "von Lichtenau",
+     "en": "von Lichtenau",
+     "kind": "person"
+    },
+    {
+     "de": "Charlotte von Triebenfeld",
+     "en": "Charlotte von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Hoffmann",
+     "en": "Hoffmann",
+     "kind": "person"
+    },
+    {
+     "de": "Fraube & Schlesinger",
+     "en": "Fraube & Schlesinger",
+     "kind": "other"
+    },
+    {
+     "de": "Ujest",
+     "en": "Ujazd",
+     "kind": "place"
+    },
+    {
+     "de": "Goldstücker",
+     "en": "Goldstücker",
+     "kind": "person"
+    },
+    {
+     "de": "Schweizhoffers",
+     "en": "Schweizhoffer",
+     "kind": "person"
+    },
+    {
+     "de": "Joh. Eleon: Pedell",
+     "en": "Joh. Eleon: Pedell",
+     "kind": "person"
+    },
+    {
+     "de": "Carlsruhe",
+     "en": "Carlsruhe",
+     "kind": "place"
+    },
+    {
+     "de": "v. Pückler",
+     "en": "von Pückler",
+     "kind": "person"
+    },
+    {
+     "de": "Rilitzer",
+     "en": "Rilitzer",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "von Delitz",
+     "en": "von Delitz",
+     "kind": "person"
+    },
+    {
+     "de": "Mendels",
+     "en": "Mendel",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt a.m.",
+     "en": "Frankfurt am Main",
+     "kind": "place"
+    },
+    {
+     "de": "Burghards",
+     "en": "Burghard",
+     "kind": "person"
+    },
+    {
+     "de": "Erfurt",
+     "en": "Erfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Sternitzky",
+     "en": "Sternitzky",
+     "kind": "person"
+    },
+    {
+     "de": "Dorrs",
+     "en": "Dorr",
+     "kind": "person"
+    },
+    {
+     "de": "Griesbach",
+     "en": "Griesbach",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6,000",
+    "319",
+    "12",
+    "13,275",
+    "250",
+    "112,000",
+    "2,978",
+    "18",
+    "170,000",
+    "90",
+    "4,000",
+    "1,188",
+    "13",
+    "300",
+    "483",
+    "12",
+    "222",
+    "21",
+    "6",
+    "342",
+    "20"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">17</td><td class=\"name\">The Jewess Golde in Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">6,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">18</td><td class=\"name\">the innkeeper Köber in Ansbach</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">319</td><td class=\"num\">12</td><td class=\"num\"></td></tr><tr><td class=\"no\">19</td><td class=\"name\">Mrs Bernhardi the mining councillor&#x27;s wife in Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">20</td><td class=\"name\">Heirs of Label Joseph Levin</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">13,275</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">21</td><td class=\"name\">Countess von Lichtenau</td><td class=\"num\">250</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">22</td><td class=\"name\">Mrs Charlotte von Triebenfeld</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">112,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">23</td><td class=\"name\">Court Councillor Hahn</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">24</td><td class=\"name\">Housekeeper Hoffmann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">25</td><td class=\"name\">Fraube &amp; Schlesinger at Ujazd.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,978</td><td class=\"num\">18</td><td class=\"num\"></td></tr><tr><td class=\"no\">26</td><td class=\"name\">Goldstücker</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">170,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">27</td><td class=\"name\">The tinsmith Schweizhoffer&#x27;s widow</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">90</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">28</td><td class=\"name\">Joh. Eleon: Pedell at Carlsruhe</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">29</td><td class=\"name\">Count von Pückler</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">30</td><td class=\"name\">The butcher Rilitzer at Sławięcice</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,188</td><td class=\"num\">13</td><td class=\"num\"></td></tr><tr><td class=\"no\">31</td><td class=\"name\">Mr von Delitz</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">300</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">32</td><td class=\"name\">Mendel&#x27;s widow at Frankfurt am Main</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">483</td><td class=\"num\">12</td><td class=\"num\"></td></tr><tr><td class=\"no\">33</td><td class=\"name\">Burghard&#x27;s widow at Erfurt</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">34</td><td class=\"name\">The surgeon Sternitzky</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">222</td><td class=\"num\">21</td><td class=\"num\">6</td></tr><tr><td class=\"no\">35</td><td class=\"name\">Dorr&#x27;s widow at Griesbach.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">342</td><td class=\"num\">20</td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 3,
+   "en": "36,The former valet Günther,,,,\"1,342\",,\n37,Parson at Sławięcice,,,,300,,\n38,Schoen at Jacobswalde,,,,800,,\n39,Lieutenant Ludwig at Wrocław,,,,\"11,200\",,\n40,Forester Palemba's widow,,,,\"1,114\",6,10\n41,Maxiliano von Holly at Munster,,,,300,,\n42,The merchant Giesche at Wrocław,,,,850,,\n43,The merchant Focke,\"10,000\",,,,,\n44,Abraham Hirsch Schweizer,,,,400,,\n45,Confectioner Krause at Szczytniki,,,,142,18,11\n46,Chief bailiff Koenig,,,,\"3,000\",,\n47,Barter Gluttmann,,,,\"2,103\",13,9\n48,The butcher Schumann,,,,\"8,966\",4,11\n49,Werner & Co.,,,,\"1,983\",,\n50,Loebel Fraenkel,,,,\"4,000\",,\n51,Chief bailiff Koehler,,,,\"1,327\",2,\n52,Freihaber's minor children,,,,\"1,222\",20,11\n53,Court agent E Heimann,,,,\"8,000\",,\n54,Mr Carl von Stössel,,,,\"191,000\",,",
+   "names": [
+    {
+     "de": "Günther",
+     "en": "Günther",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Schoen",
+     "en": "Schoen",
+     "kind": "person"
+    },
+    {
+     "de": "Jacobswalde",
+     "en": "Jacobswalde",
+     "kind": "place"
+    },
+    {
+     "de": "Ludwig",
+     "en": "Ludwig",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Palemba",
+     "en": "Palemba",
+     "kind": "person"
+    },
+    {
+     "de": "Maxiliano von Holly",
+     "en": "Maxiliano von Holly",
+     "kind": "person"
+    },
+    {
+     "de": "Munster",
+     "en": "Munster",
+     "kind": "place"
+    },
+    {
+     "de": "Giesche",
+     "en": "Giesche",
+     "kind": "person"
+    },
+    {
+     "de": "Focke",
+     "en": "Focke",
+     "kind": "person"
+    },
+    {
+     "de": "Abraham Hirsch Schweizer",
+     "en": "Abraham Hirsch Schweizer",
+     "kind": "person"
+    },
+    {
+     "de": "Krause",
+     "en": "Krause",
+     "kind": "person"
+    },
+    {
+     "de": "Scheitnich",
+     "en": "Szczytniki",
+     "kind": "place"
+    },
+    {
+     "de": "Koenig",
+     "en": "Koenig",
+     "kind": "person"
+    },
+    {
+     "de": "Gluttmann",
+     "en": "Gluttmann",
+     "kind": "person"
+    },
+    {
+     "de": "Schumann",
+     "en": "Schumann",
+     "kind": "person"
+    },
+    {
+     "de": "Werner & Comp",
+     "en": "Werner & Co.",
+     "kind": "other"
+    },
+    {
+     "de": "Loebel Fraenkel",
+     "en": "Loebel Fraenkel",
+     "kind": "person"
+    },
+    {
+     "de": "Koehler",
+     "en": "Koehler",
+     "kind": "person"
+    },
+    {
+     "de": "Freihabers",
+     "en": "Freihaber",
+     "kind": "person"
+    },
+    {
+     "de": "E Heimann",
+     "en": "E Heimann",
+     "kind": "person"
+    },
+    {
+     "de": "Carl v Stoessel",
+     "en": "Carl von Stössel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1,342",
+    "300",
+    "800",
+    "11,200",
+    "1,114",
+    "6",
+    "10",
+    "300",
+    "850",
+    "10,000",
+    "400",
+    "142",
+    "18",
+    "11",
+    "3,000",
+    "2,103",
+    "13",
+    "9",
+    "8,966",
+    "4",
+    "11",
+    "1,983",
+    "4,000",
+    "1,327",
+    "2",
+    "1,222",
+    "20",
+    "11",
+    "8,000",
+    "191,000"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">36</td><td class=\"name\">The former valet Günther</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,342</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">37</td><td class=\"name\">Parson at Sławięcice</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">300</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">38</td><td class=\"name\">Schoen at Jacobswalde</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">800</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">39</td><td class=\"name\">Lieutenant Ludwig at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">11,200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">40</td><td class=\"name\">Forester Palemba&#x27;s widow</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,114</td><td class=\"num\">6</td><td class=\"num\">10</td></tr><tr><td class=\"no\">41</td><td class=\"name\">Maxiliano von Holly at Munster</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">300</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">42</td><td class=\"name\">The merchant Giesche at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">850</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">43</td><td class=\"name\">The merchant Focke</td><td class=\"num\">10,000</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">44</td><td class=\"name\">Abraham Hirsch Schweizer</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">400</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">45</td><td class=\"name\">Confectioner Krause at Szczytniki</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">142</td><td class=\"num\">18</td><td class=\"num\">11</td></tr><tr><td class=\"no\">46</td><td class=\"name\">Chief bailiff Koenig</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">3,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">47</td><td class=\"name\">Barter Gluttmann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,103</td><td class=\"num\">13</td><td class=\"num\">9</td></tr><tr><td class=\"no\">48</td><td class=\"name\">The butcher Schumann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">8,966</td><td class=\"num\">4</td><td class=\"num\">11</td></tr><tr><td class=\"no\">49</td><td class=\"name\">Werner &amp; Co.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,983</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">50</td><td class=\"name\">Loebel Fraenkel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">51</td><td class=\"name\">Chief bailiff Koehler</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,327</td><td class=\"num\">2</td><td class=\"num\"></td></tr><tr><td class=\"no\">52</td><td class=\"name\">Freihaber&#x27;s minor children</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,222</td><td class=\"num\">20</td><td class=\"num\">11</td></tr><tr><td class=\"no\">53</td><td class=\"name\">Court agent E Heimann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">8,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">54</td><td class=\"name\">Mr Carl von Stössel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">191,000</td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 4,
+   "en": "55,Mr Sigismund von Stössel,,,,100,,\n56,K. S. Mützel,,,,650,,\n57,Major von Sak,,,,500,,\n58,von Zerboni,,,,\"1,000\",,\n59,Lieutenant Gas,,,,500,,\n60,Infiz. Franz. Meyer,,,,,,\n61,the widow Brosemann,,,,300,,\n62,to J. K[illegible]. R. Brasfert,,,,,,\n63,the merchant Schmidt's heirs.,,,,\"15,500\",,\n64,Über,,,,449,,\n65,Major von Münchow,,,,600,,\n66,The widowed Mrs Brehmer the colonel's wife.,,,,\"5,000\",,\n67,the gardener Nickel,,,,341,19,\n68,the Elsner day-labourer's heirs,,,,834,10,\n69,the saddler Hennig,,,,671,20,6\n70,to the curator of Sigismund von Stössel,,,,\"169,400\",,\n71,Councillor of Justice Panz for Zerboni,,,,\"4,974\",,",
+   "names": [
+    {
+     "de": "Sigismund v Stoessel",
+     "en": "Sigismund von Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "K. S. Mützel",
+     "en": "K. S. Mützel",
+     "kind": "person"
+    },
+    {
+     "de": "v. Sak",
+     "en": "von Sak",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zerboni",
+     "en": "von Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Gas",
+     "en": "Gas",
+     "kind": "person"
+    },
+    {
+     "de": "Franz. Meyer",
+     "en": "Franz. Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Brosemann",
+     "en": "Brosemann",
+     "kind": "person"
+    },
+    {
+     "de": "Brasfert",
+     "en": "Brasfert",
+     "kind": "person"
+    },
+    {
+     "de": "Schmidts",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Über",
+     "en": "Über",
+     "kind": "person"
+    },
+    {
+     "de": "von Münchow",
+     "en": "von Münchow",
+     "kind": "person"
+    },
+    {
+     "de": "Brehmer",
+     "en": "Brehmer",
+     "kind": "person"
+    },
+    {
+     "de": "Nickel",
+     "en": "Nickel",
+     "kind": "person"
+    },
+    {
+     "de": "Elsnerschen",
+     "en": "Elsner",
+     "kind": "person"
+    },
+    {
+     "de": "Hennig",
+     "en": "Hennig",
+     "kind": "person"
+    },
+    {
+     "de": "Sigesm. p. Stoesselschen",
+     "en": "Sigismund von Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Panz",
+     "en": "Panz",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "650",
+    "500",
+    "1,000",
+    "500",
+    "300",
+    "15,500",
+    "449",
+    "600",
+    "5,000",
+    "341",
+    "19",
+    "834",
+    "10",
+    "671",
+    "20",
+    "6",
+    "169,400",
+    "4,974"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">55</td><td class=\"name\">Mr Sigismund von Stössel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">100</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">56</td><td class=\"name\">K. S. Mützel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">650</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">57</td><td class=\"name\">Major von Sak</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">500</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">58</td><td class=\"name\">von Zerboni</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">59</td><td class=\"name\">Lieutenant Gas</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">500</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">60</td><td class=\"name\">Infiz. Franz. Meyer</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">61</td><td class=\"name\">the widow Brosemann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">300</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">62</td><td class=\"name\">to J. K[illegible]. R. Brasfert</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">63</td><td class=\"name\">the merchant Schmidt&#x27;s heirs.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">15,500</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">64</td><td class=\"name\">Über</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">449</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">65</td><td class=\"name\">Major von Münchow</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">600</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">66</td><td class=\"name\">The widowed Mrs Brehmer the colonel&#x27;s wife.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">67</td><td class=\"name\">the gardener Nickel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">341</td><td class=\"num\">19</td><td class=\"num\"></td></tr><tr><td class=\"no\">68</td><td class=\"name\">the Elsner day-labourer&#x27;s heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">834</td><td class=\"num\">10</td><td class=\"num\"></td></tr><tr><td class=\"no\">69</td><td class=\"name\">the saddler Hennig</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">671</td><td class=\"num\">20</td><td class=\"num\">6</td></tr><tr><td class=\"no\">70</td><td class=\"name\">to the curator of Sigismund von Stössel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">169,400</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">71</td><td class=\"name\">Councillor of Justice Panz for Zerboni</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,974</td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 5,
+   "en": "72,To the merchant Schlipalius,,,,\"22,808\",,\n73,Banker Frank,,,,\"4,079\",11,\n74,Abraham Hirschel,,,,\"5,079\",16,\n75,the Zinger heirs.,,,,\"4,000\",,\n76,to the potter Bettner,,,,342,5,7\n77,The von Köckritz heirs,,,,\"50,000\",,\n78,the Gottheimer brothers,,,,\"16,237\",2,6\n79,Meyer Herz Cohn,,,,\"1,200\",,\n80,Valentin Jung at Brenzhausen.,,,,,,\n81,The merchant Lampe's bankrupt estate,,,,\"7,066\",10,6\n82,the Treasury,,,,\"35,000\",,\n83,The merchant Barnheim at Berlin,,,,\"76,791\",,\n84,the Eichter minor children,,,,864,16,\n85,to the Councillor of Justice Müller,,,,10,16,2\n86,Councillor of Justice Münezer,75,,,50,,\n87,The merchant Weinhold,,,,291,8,\n88,the widowed merchant's wife Adolph,,,,333,8,",
+   "names": [
+    {
+     "de": "Schlipalius",
+     "en": "Schlipalius",
+     "kind": "person"
+    },
+    {
+     "de": "Frank",
+     "en": "Frank",
+     "kind": "person"
+    },
+    {
+     "de": "Abraham Hirschel",
+     "en": "Abraham Hirschel",
+     "kind": "person"
+    },
+    {
+     "de": "Zingerschen",
+     "en": "Zinger",
+     "kind": "person"
+    },
+    {
+     "de": "Bettner",
+     "en": "Bettner",
+     "kind": "person"
+    },
+    {
+     "de": "v Köckritzschen",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Gottheimer",
+     "en": "Gottheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Herz Cohn",
+     "en": "Meyer Herz Cohn",
+     "kind": "person"
+    },
+    {
+     "de": "Valentin Jung",
+     "en": "Valentin Jung",
+     "kind": "person"
+    },
+    {
+     "de": "Brenzhausen",
+     "en": "Brenzhausen",
+     "kind": "place"
+    },
+    {
+     "de": "Lampe",
+     "en": "Lampe",
+     "kind": "person"
+    },
+    {
+     "de": "Barnheim",
+     "en": "Barnheim",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Eichterschen",
+     "en": "Eichter",
+     "kind": "person"
+    },
+    {
+     "de": "Müller",
+     "en": "Müller",
+     "kind": "person"
+    },
+    {
+     "de": "Münezer",
+     "en": "Münezer",
+     "kind": "person"
+    },
+    {
+     "de": "Weinhold",
+     "en": "Weinhold",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "22,808",
+    "4,079",
+    "11",
+    "5,079",
+    "16",
+    "4,000",
+    "342",
+    "5",
+    "7",
+    "50,000",
+    "16,237",
+    "2",
+    "6",
+    "1,200",
+    "7,066",
+    "10",
+    "6",
+    "35,000",
+    "76,791",
+    "864",
+    "16",
+    "10",
+    "16",
+    "2",
+    "75",
+    "50",
+    "291",
+    "8",
+    "333",
+    "8"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">72</td><td class=\"name\">To the merchant Schlipalius</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">22,808</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">73</td><td class=\"name\">Banker Frank</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,079</td><td class=\"num\">11</td><td class=\"num\"></td></tr><tr><td class=\"no\">74</td><td class=\"name\">Abraham Hirschel</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,079</td><td class=\"num\">16</td><td class=\"num\"></td></tr><tr><td class=\"no\">75</td><td class=\"name\">the Zinger heirs.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">76</td><td class=\"name\">to the potter Bettner</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">342</td><td class=\"num\">5</td><td class=\"num\">7</td></tr><tr><td class=\"no\">77</td><td class=\"name\">The von Köckritz heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">50,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">78</td><td class=\"name\">the Gottheimer brothers</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">16,237</td><td class=\"num\">2</td><td class=\"num\">6</td></tr><tr><td class=\"no\">79</td><td class=\"name\">Meyer Herz Cohn</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">80</td><td class=\"name\">Valentin Jung at Brenzhausen.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">81</td><td class=\"name\">The merchant Lampe&#x27;s bankrupt estate</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">7,066</td><td class=\"num\">10</td><td class=\"num\">6</td></tr><tr><td class=\"no\">82</td><td class=\"name\">the Treasury</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">35,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">83</td><td class=\"name\">The merchant Barnheim at Berlin</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">76,791</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">84</td><td class=\"name\">the Eichter minor children</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">864</td><td class=\"num\">16</td><td class=\"num\"></td></tr><tr><td class=\"no\">85</td><td class=\"name\">to the Councillor of Justice Müller</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">10</td><td class=\"num\">16</td><td class=\"num\">2</td></tr><tr><td class=\"no\">86</td><td class=\"name\">Councillor of Justice Münezer</td><td class=\"num\">75</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">50</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">87</td><td class=\"name\">The merchant Weinhold</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">291</td><td class=\"num\">8</td><td class=\"num\"></td></tr><tr><td class=\"no\">88</td><td class=\"name\">the widowed merchant&#x27;s wife Adolph</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">333</td><td class=\"num\">8</td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 6,
+   "en": "89,the merchant gold and silver manufactory at Wrocław,,,,\"1,188\",7,\n90,To the Councillor of Justice Dzeieba,,,,593,,\n91,the Mendel Oettinger estate,,,,\"1,800\",,\n92,the widowed chancellor of the foundation Homuth,,,,\"1,000\",,\n93,The merchant Fauk,,,,\"1,794\",17,8\n94,Privy Councillor Strehn,,,,\"2,666\",16,\n95,the President Seidlitz heirs,,,,\"30,000\",,\n96,to the banker Lazarus Schlesinger at Frankfurt am Main,,,,\"2,000\",,\n97,Justiciary Witinsky,,,,764,,\n98,The Jew Mattersdorff,,,,600,,\n99,The von der Breling trading house at Dresden,,,,\"19,000\",,\n100,Bookshop W. G. Korn,,,,\"1,071\",21,3\n101,The merchant Bauditz at Frankfurt an der Oder,,,,\"6,000\",,\n102,Trader Zadik,,,,\"8,250\",,\n103,to the Mr R. Prubrecht heirs.,,,,\"9,400\",,",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Dzeieba",
+     "en": "Dzeieba",
+     "kind": "person"
+    },
+    {
+     "de": "Mendel Oettingerschen",
+     "en": "Mendel Oettinger",
+     "kind": "person"
+    },
+    {
+     "de": "Homuth",
+     "en": "Homuth",
+     "kind": "person"
+    },
+    {
+     "de": "Fauk",
+     "en": "Fauk",
+     "kind": "person"
+    },
+    {
+     "de": "Strehn",
+     "en": "Strehn",
+     "kind": "person"
+    },
+    {
+     "de": "Seidlitzschen",
+     "en": "Seidlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Lazarus Schlesinger",
+     "en": "Lazarus Schlesinger",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt a/M.",
+     "en": "Frankfurt am Main",
+     "kind": "place"
+    },
+    {
+     "de": "Witinsky",
+     "en": "Witinsky",
+     "kind": "person"
+    },
+    {
+     "de": "Mattersdorff",
+     "en": "Mattersdorff",
+     "kind": "person"
+    },
+    {
+     "de": "v d Brelingschen",
+     "en": "von der Breling",
+     "kind": "person"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "W. G. Korn",
+     "en": "W. G. Korn",
+     "kind": "other"
+    },
+    {
+     "de": "Bauditz",
+     "en": "Bauditz",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth a/O.",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Zadik",
+     "en": "Zadik",
+     "kind": "person"
+    },
+    {
+     "de": "Mr. R. Prubrechtischen",
+     "en": "Mr R. Prubrecht",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1,188",
+    "7",
+    "593",
+    "1,800",
+    "1,000",
+    "1,794",
+    "17",
+    "8",
+    "2,666",
+    "16",
+    "30,000",
+    "2,000",
+    "764",
+    "600",
+    "19,000",
+    "1,071",
+    "21",
+    "3",
+    "6,000",
+    "8,250",
+    "9,400"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">89</td><td class=\"name\">the merchant gold and silver manufactory at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,188</td><td class=\"num\">7</td><td class=\"num\"></td></tr><tr><td class=\"no\">90</td><td class=\"name\">To the Councillor of Justice Dzeieba</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">593</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">91</td><td class=\"name\">the Mendel Oettinger estate</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,800</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">92</td><td class=\"name\">the widowed chancellor of the foundation Homuth</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">93</td><td class=\"name\">The merchant Fauk</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,794</td><td class=\"num\">17</td><td class=\"num\">8</td></tr><tr><td class=\"no\">94</td><td class=\"name\">Privy Councillor Strehn</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,666</td><td class=\"num\">16</td><td class=\"num\"></td></tr><tr><td class=\"no\">95</td><td class=\"name\">the President Seidlitz heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">30,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">96</td><td class=\"name\">to the banker Lazarus Schlesinger at Frankfurt am Main</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">97</td><td class=\"name\">Justiciary Witinsky</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">764</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">98</td><td class=\"name\">The Jew Mattersdorff</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">600</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">99</td><td class=\"name\">The von der Breling trading house at Dresden</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">19,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">100</td><td class=\"name\">Bookshop W. G. Korn</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,071</td><td class=\"num\">21</td><td class=\"num\">3</td></tr><tr><td class=\"no\">101</td><td class=\"name\">The merchant Bauditz at Frankfurt an der Oder</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">6,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">102</td><td class=\"name\">Trader Zadik</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">8,250</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">103</td><td class=\"name\">to the Mr R. Prubrecht heirs.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">9,400</td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 7,
+   "en": "104,to the banker Meyer Bernhard Frankfurt an der Oder,,,,\"12,000\",,\n105,Mr von Rothkirch,,,,\"10,000\",,\n106,Innkeeper Hein at Wrocław,,,,\"165,000\",,\n107,the Schlabrendorff heirs,,,,\"35,000\",,\n108,to the standing Diet at Brzeg,,,,\"1,000\",,\n109,to the standing Binek,,,,\"4,500\",,\n110,The von Zimetzky heirs.,,,,\"12,000\",,\n111,the executors of the will of Dr Schindler,,,,693,8,\n112,Dr Michaelis at Wrocław,,,,\"5,000\",,\n113,Banker Ottenſoser,.,,,601,9,\n114,Johann Hoffmann.,,,,\"2,000\",,\n115,Baron von Hénneberg,,,,\"1,354\",,\n116,The merchant Koppan at Wrocław,,,,\"80,000\",,\n117,Estate owner Schindler.,,,,\"1,000\",,\n118,the trading house Maper and Scholtz,\"3,464\",,,,,",
+   "names": [
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurth a/od.",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "v Rothkirch",
+     "en": "von Rothkirch",
+     "kind": "person"
+    },
+    {
+     "de": "Hein",
+     "en": "Hein",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Schlabrendorffschen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Diet",
+     "en": "Diet",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Binek",
+     "en": "Binek",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zimetzkyschen",
+     "en": "von Zimetzky",
+     "kind": "person"
+    },
+    {
+     "de": "Schindlerschen",
+     "en": "Schindler",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Ottenſoser",
+     "en": "Ottenſoser",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Hoffmann",
+     "en": "Johann Hoffmann",
+     "kind": "person"
+    },
+    {
+     "de": "v Hénneberg",
+     "en": "von Hénneberg",
+     "kind": "person"
+    },
+    {
+     "de": "Koppan",
+     "en": "Koppan",
+     "kind": "person"
+    },
+    {
+     "de": "Schindler",
+     "en": "Schindler",
+     "kind": "person"
+    },
+    {
+     "de": "Maper und Scholtz",
+     "en": "Maper and Scholtz",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "12,000",
+    "10,000",
+    "165,000",
+    "35,000",
+    "1,000",
+    "4,500",
+    "12,000",
+    "693",
+    "8",
+    "5,000",
+    "601",
+    "9",
+    "2,000",
+    "1,354",
+    "80,000",
+    "1,000",
+    "3,464"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">104</td><td class=\"name\">to the banker Meyer Bernhard Frankfurt an der Oder</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">12,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">105</td><td class=\"name\">Mr von Rothkirch</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">10,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">106</td><td class=\"name\">Innkeeper Hein at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">165,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">107</td><td class=\"name\">the Schlabrendorff heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">35,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">108</td><td class=\"name\">to the standing Diet at Brzeg</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">109</td><td class=\"name\">to the standing Binek</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">4,500</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">110</td><td class=\"name\">The von Zimetzky heirs.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">12,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">111</td><td class=\"name\">the executors of the will of Dr Schindler</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">693</td><td class=\"num\">8</td><td class=\"num\"></td></tr><tr><td class=\"no\">112</td><td class=\"name\">Dr Michaelis at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">113</td><td class=\"name\">Banker Ottenſoser</td><td class=\"num\">.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">601</td><td class=\"num\">9</td><td class=\"num\"></td></tr><tr><td class=\"no\">114</td><td class=\"name\">Johann Hoffmann.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">115</td><td class=\"name\">Baron von Hénneberg</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,354</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">116</td><td class=\"name\">The merchant Koppan at Wrocław</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">80,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">117</td><td class=\"name\">Estate owner Schindler.</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">118</td><td class=\"name\">the trading house Maper and Scholtz</td><td class=\"num\">3,464</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 8,
+   "en": "119,To Major Friedr: von Koopf,,,,\"15,000\",,\n120,Master carpenter Krause,,,,629,21,9\n121,Banker's wife Kohn,,,,\"2,000\",,\n122,the Fehr von Lans heirs,,,,,,\n123,the merchant Benthan,350,,,,,\n124,Weigel and Son,,,,\"2,510\",,\n125,Mendel Panofska guardianship,,,,\"1,000\",,\n126,von Rechthoff heirs,,,,,,\n127,The merchant Molinari,,,,\"5,199\",10,\n128,Forester Nerlech,,,,335,,\n129,Glazier Friedrich,,,,119,2,\n130,Tailor Siebert,,,,155,18,",
+   "names": [
+    {
+     "de": "Friedr: v. Koopf",
+     "en": "Friedr: von Koopf",
+     "kind": "person"
+    },
+    {
+     "de": "Krause",
+     "en": "Krause",
+     "kind": "person"
+    },
+    {
+     "de": "Kohn",
+     "en": "Kohn",
+     "kind": "person"
+    },
+    {
+     "de": "Fehr v. Lanschen",
+     "en": "Fehr von Lans",
+     "kind": "person"
+    },
+    {
+     "de": "Benthan",
+     "en": "Benthan",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel und Sohn",
+     "en": "Weigel and Son",
+     "kind": "other"
+    },
+    {
+     "de": "Mendel Panofskaschen",
+     "en": "Mendel Panofska",
+     "kind": "person"
+    },
+    {
+     "de": "v. Rechthoffschen",
+     "en": "von Rechthoff",
+     "kind": "person"
+    },
+    {
+     "de": "Molinari",
+     "en": "Molinari",
+     "kind": "person"
+    },
+    {
+     "de": "Nerlech",
+     "en": "Nerlech",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich",
+     "en": "Friedrich",
+     "kind": "person"
+    },
+    {
+     "de": "Siebert",
+     "en": "Siebert",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15,000",
+    "629",
+    "21",
+    "9",
+    "2,000",
+    "350",
+    "2,510",
+    "1,000",
+    "5,199",
+    "10",
+    "335",
+    "119",
+    "2",
+    "155",
+    "18"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">119</td><td class=\"name\">To Major Friedr: von Koopf</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">15,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">120</td><td class=\"name\">Master carpenter Krause</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">629</td><td class=\"num\">21</td><td class=\"num\">9</td></tr><tr><td class=\"no\">121</td><td class=\"name\">Banker&#x27;s wife Kohn</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">122</td><td class=\"name\">the Fehr von Lans heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">123</td><td class=\"name\">the merchant Benthan</td><td class=\"num\">350</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">124</td><td class=\"name\">Weigel and Son</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">2,510</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">125</td><td class=\"name\">Mendel Panofska guardianship</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,000</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">126</td><td class=\"name\">von Rechthoff heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">127</td><td class=\"name\">The merchant Molinari</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">5,199</td><td class=\"num\">10</td><td class=\"num\"></td></tr><tr><td class=\"no\">128</td><td class=\"name\">Forester Nerlech</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">335</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">129</td><td class=\"name\">Glazier Friedrich</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">119</td><td class=\"num\">2</td><td class=\"num\"></td></tr><tr><td class=\"no\">130</td><td class=\"name\">Tailor Siebert</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">155</td><td class=\"num\">18</td><td class=\"num\"></td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 9,
+   "en": "131,To the smith Gümmler,,,,\"1,108\",,\n132,to the master carpenter Linne's heirs,,,,\"1,625\",2,4\n133,to the tinsmith Fürst,,,,339,22,\n134,to the Baron von Eichendorff,,,,\"3,333\",,\n135,to the fees fund of the Higher Provincial Court,,,,\"1,140\",2,\n136,to Moses Bawitscher,,,,\"1,200\",,\n137,to the widow Müller,,,,97,,\n138,to the chief postal director Scheffler,,,,\"1,526\",7,10\n139,To the widow Lordemann,,,,,,\n140,married woman Herzog,,,,,,\n141,The glazier Stark,,,,,,\n142,the trading house Ziepult & Son,,,,,,\n,Total,\"17,874\",,,\"1,414,377\",7,11",
+   "names": [
+    {
+     "de": "Gümmler",
+     "en": "Gümmler",
+     "kind": "person"
+    },
+    {
+     "de": "Linneschen",
+     "en": "Linne",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst",
+     "en": "Fürst",
+     "kind": "person"
+    },
+    {
+     "de": "von Eichendorff",
+     "en": "von Eichendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Bawitscher",
+     "en": "Bawitscher",
+     "kind": "person"
+    },
+    {
+     "de": "Moses Bawitscher",
+     "en": "Moses Bawitscher",
+     "kind": "person"
+    },
+    {
+     "de": "Müller",
+     "en": "Müller",
+     "kind": "person"
+    },
+    {
+     "de": "Scheffler",
+     "en": "Scheffler",
+     "kind": "person"
+    },
+    {
+     "de": "Lordemann",
+     "en": "Lordemann",
+     "kind": "person"
+    },
+    {
+     "de": "Herzog",
+     "en": "Herzog",
+     "kind": "person"
+    },
+    {
+     "de": "Stark",
+     "en": "Stark",
+     "kind": "person"
+    },
+    {
+     "de": "Ziepult & Sohn",
+     "en": "Ziepult & Son",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1,108",
+    "1,625",
+    "2",
+    "4",
+    "339",
+    "22",
+    "3,333",
+    "1,140",
+    "2",
+    "1,200",
+    "97",
+    "1,526",
+    "7",
+    "10",
+    "17,874",
+    "1,414,377",
+    "7",
+    "11"
+   ],
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"2\" class=\"no\"></th><th rowspan=\"2\" class=\"name\">Capital Claims</th><th colspan=\"3\" class=\"grp\">Gold</th><th colspan=\"3\" class=\"grp\">Courant</th></tr>\n<tr><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th><th class=\"num\">Rthl</th><th class=\"num\">g</th><th class=\"num\">d</th></tr></thead>\n<tbody><tr><td class=\"no\">131</td><td class=\"name\">To the smith Gümmler</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,108</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">132</td><td class=\"name\">to the master carpenter Linne&#x27;s heirs</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,625</td><td class=\"num\">2</td><td class=\"num\">4</td></tr><tr><td class=\"no\">133</td><td class=\"name\">to the tinsmith Fürst</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">339</td><td class=\"num\">22</td><td class=\"num\"></td></tr><tr><td class=\"no\">134</td><td class=\"name\">to the Baron von Eichendorff</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">3,333</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">135</td><td class=\"name\">to the fees fund of the Higher Provincial Court</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,140</td><td class=\"num\">2</td><td class=\"num\"></td></tr><tr><td class=\"no\">136</td><td class=\"name\">to Moses Bawitscher</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,200</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">137</td><td class=\"name\">to the widow Müller</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">97</td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">138</td><td class=\"name\">to the chief postal director Scheffler</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,526</td><td class=\"num\">7</td><td class=\"num\">10</td></tr><tr><td class=\"no\">139</td><td class=\"name\">To the widow Lordemann</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">140</td><td class=\"name\">married woman Herzog</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">141</td><td class=\"name\">The glazier Stark</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr><tr><td class=\"no\">142</td><td class=\"name\">the trading house Ziepult &amp; Son</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\"></td></tr></tbody>\n<tfoot><tr><td class=\"no\"></td><td class=\"name\">Total</td><td class=\"num\">17,874</td><td class=\"num\"></td><td class=\"num\"></td><td class=\"num\">1,414,377</td><td class=\"num\">7</td><td class=\"num\">11</td></tr></tfoot>\n</table></div>"
+  }
+ ],
+ "text_english": ",Extract from the Princely Hohenlohe Liquidation Protocols,Gold,,,Courant,,\n,Capital Claims,Rthl,g,d,Rthl,g,d\n1,The former kitchen master Kuch,100,,,\"5,050\",,\n2,Privy Councillor Strahlen at Wallerstein,,,,\"2,666\",16,\n3,the von Sobottendorff heirs.,,,,\"44,200\",,\n4,the Countess Hoym née von Tauenzien,,,,\"5,000\",,\n5,Mr von Feannert[uncertain],,,,200,,\n6,Mr von Czarnetzki,,,,400,,\n7,The saddler Gleisberger at Potsdam,,,,64,,\n8,Mr von Bornstädt,,,,\"5,000\",,\n9,The locksmith Rass,,,,\"2,370\",,\n10,The joiner Schick,,,,\"3,400\",,\n11,Mr von Kluge,,,,\"3,000\",,\n12,Franz Apfelfeld at Ujazd,,,,310,,\n13,The former table-setter Deuser,,,,200,,\n14,The head forester Krippendorff,,,,\"3,700\",,\n15,Jung at Benshausen,\"3,635\",,,,,\n16,Lombardini +,,,,,,\n\n17,The Jewess Golde in Wrocław,,,,\"6,000\",,\n18,the innkeeper Köber in Ansbach,,,,319,12,\n19,Mrs Bernhardi the mining councillor's wife in Wrocław,,,,,,\n20,Heirs of Label Joseph Levin,,,,\"13,275\",,\n21,Countess von Lichtenau,250,,,,,\n22,Mrs Charlotte von Triebenfeld,,,,\"112,000\",,\n23,Court Councillor Hahn,,,,,,\n24,Housekeeper Hoffmann,,,,,,\n25,Fraube & Schlesinger at Ujazd.,,,,\"2,978\",18,\n26,Goldstücker,,,,\"170,000\",,\n27,The tinsmith Schweizhoffer's widow,,,,90,,\n28,Joh. Eleon: Pedell at Carlsruhe,,,,\"4,000\",,\n29,Count von Pückler,,,,,,\n30,The butcher Rilitzer at Sławięcice,,,,\"1,188\",13,\n31,Mr von Delitz,,,,300,,\n32,Mendel's widow at Frankfurt am Main,,,,483,12,\n33,Burghard's widow at Erfurt,,,,,,\n34,The surgeon Sternitzky,,,,222,21,6\n35,Dorr's widow at Griesbach.,,,,342,20,\n\n36,The former valet Günther,,,,\"1,342\",,\n37,Parson at Sławięcice,,,,300,,\n38,Schoen at Jacobswalde,,,,800,,\n39,Lieutenant Ludwig at Wrocław,,,,\"11,200\",,\n40,Forester Palemba's widow,,,,\"1,114\",6,10\n41,Maxiliano von Holly at Munster,,,,300,,\n42,The merchant Giesche at Wrocław,,,,850,,\n43,The merchant Focke,\"10,000\",,,,,\n44,Abraham Hirsch Schweizer,,,,400,,\n45,Confectioner Krause at Szczytniki,,,,142,18,11\n46,Chief bailiff Koenig,,,,\"3,000\",,\n47,Barter Gluttmann,,,,\"2,103\",13,9\n48,The butcher Schumann,,,,\"8,966\",4,11\n49,Werner & Co.,,,,\"1,983\",,\n50,Loebel Fraenkel,,,,\"4,000\",,\n51,Chief bailiff Koehler,,,,\"1,327\",2,\n52,Freihaber's minor children,,,,\"1,222\",20,11\n53,Court agent E Heimann,,,,\"8,000\",,\n54,Mr Carl von Stössel,,,,\"191,000\",,\n\n55,Mr Sigismund von Stössel,,,,100,,\n56,K. S. Mützel,,,,650,,\n57,Major von Sak,,,,500,,\n58,von Zerboni,,,,\"1,000\",,\n59,Lieutenant Gas,,,,500,,\n60,Infiz. Franz. Meyer,,,,,,\n61,the widow Brosemann,,,,300,,\n62,to J. K[illegible]. R. Brasfert,,,,,,\n63,the merchant Schmidt's heirs.,,,,\"15,500\",,\n64,Über,,,,449,,\n65,Major von Münchow,,,,600,,\n66,The widowed Mrs Brehmer the colonel's wife.,,,,\"5,000\",,\n67,the gardener Nickel,,,,341,19,\n68,the Elsner day-labourer's heirs,,,,834,10,\n69,the saddler Hennig,,,,671,20,6\n70,to the curator of Sigismund von Stössel,,,,\"169,400\",,\n71,Councillor of Justice Panz for Zerboni,,,,\"4,974\",,\n\n72,To the merchant Schlipalius,,,,\"22,808\",,\n73,Banker Frank,,,,\"4,079\",11,\n74,Abraham Hirschel,,,,\"5,079\",16,\n75,the Zinger heirs.,,,,\"4,000\",,\n76,to the potter Bettner,,,,342,5,7\n77,The von Köckritz heirs,,,,\"50,000\",,\n78,the Gottheimer brothers,,,,\"16,237\",2,6\n79,Meyer Herz Cohn,,,,\"1,200\",,\n80,Valentin Jung at Brenzhausen.,,,,,,\n81,The merchant Lampe's bankrupt estate,,,,\"7,066\",10,6\n82,the Treasury,,,,\"35,000\",,\n83,The merchant Barnheim at Berlin,,,,\"76,791\",,\n84,the Eichter minor children,,,,864,16,\n85,to the Councillor of Justice Müller,,,,10,16,2\n86,Councillor of Justice Münezer,75,,,50,,\n87,The merchant Weinhold,,,,291,8,\n88,the widowed merchant's wife Adolph,,,,333,8,\n\n89,the merchant gold and silver manufactory at Wrocław,,,,\"1,188\",7,\n90,To the Councillor of Justice Dzeieba,,,,593,,\n91,the Mendel Oettinger estate,,,,\"1,800\",,\n92,the widowed chancellor of the foundation Homuth,,,,\"1,000\",,\n93,The merchant Fauk,,,,\"1,794\",17,8\n94,Privy Councillor Strehn,,,,\"2,666\",16,\n95,the President Seidlitz heirs,,,,\"30,000\",,\n96,to the banker Lazarus Schlesinger at Frankfurt am Main,,,,\"2,000\",,\n97,Justiciary Witinsky,,,,764,,\n98,The Jew Mattersdorff,,,,600,,\n99,The von der Breling trading house at Dresden,,,,\"19,000\",,\n100,Bookshop W. G. Korn,,,,\"1,071\",21,3\n101,The merchant Bauditz at Frankfurt an der Oder,,,,\"6,000\",,\n102,Trader Zadik,,,,\"8,250\",,\n103,to the Mr R. Prubrecht heirs.,,,,\"9,400\",,\n\n104,to the banker Meyer Bernhard Frankfurt an der Oder,,,,\"12,000\",,\n105,Mr von Rothkirch,,,,\"10,000\",,\n106,Innkeeper Hein at Wrocław,,,,\"165,000\",,\n107,the Schlabrendorff heirs,,,,\"35,000\",,\n108,to the standing Diet at Brzeg,,,,\"1,000\",,\n109,to the standing Binek,,,,\"4,500\",,\n110,The von Zimetzky heirs.,,,,\"12,000\",,\n111,the executors of the will of Dr Schindler,,,,693,8,\n112,Dr Michaelis at Wrocław,,,,\"5,000\",,\n113,Banker Ottenſoser,.,,,601,9,\n114,Johann Hoffmann.,,,,\"2,000\",,\n115,Baron von Hénneberg,,,,\"1,354\",,\n116,The merchant Koppan at Wrocław,,,,\"80,000\",,\n117,Estate owner Schindler.,,,,\"1,000\",,\n118,the trading house Maper and Scholtz,\"3,464\",,,,,\n\n119,To Major Friedr: von Koopf,,,,\"15,000\",,\n120,Master carpenter Krause,,,,629,21,9\n121,Banker's wife Kohn,,,,\"2,000\",,\n122,the Fehr von Lans heirs,,,,,,\n123,the merchant Benthan,350,,,,,\n124,Weigel and Son,,,,\"2,510\",,\n125,Mendel Panofska guardianship,,,,\"1,000\",,\n126,von Rechthoff heirs,,,,,,\n127,The merchant Molinari,,,,\"5,199\",10,\n128,Forester Nerlech,,,,335,,\n129,Glazier Friedrich,,,,119,2,\n130,Tailor Siebert,,,,155,18,\n\n131,To the smith Gümmler,,,,\"1,108\",,\n132,to the master carpenter Linne's heirs,,,,\"1,625\",2,4\n133,to the tinsmith Fürst,,,,339,22,\n134,to the Baron von Eichendorff,,,,\"3,333\",,\n135,to the fees fund of the Higher Provincial Court,,,,\"1,140\",2,\n136,to Moses Bawitscher,,,,\"1,200\",,\n137,to the widow Müller,,,,97,,\n138,to the chief postal director Scheffler,,,,\"1,526\",7,10\n139,To the widow Lordemann,,,,,,\n140,married woman Herzog,,,,,,\n141,The glazier Stark,,,,,,\n142,the trading house Ziepult & Son,,,,,,\n,Total,\"17,874\",,,\"1,414,377\",7,11",
  "summary_en": "",
  "summary_de": "Auszug aus den Fürstlich Hohenloheschen Liquidationsprotokollen mit 142 Kapitalforderungen, zusammen 17,874 Rthl Gold und 1,414,377 Rthl 7 g 11 d Courant. Zu den größten Forderungen gehören Carl v Stoessel mit 191,000 Rthl, Goldstücker mit 170,000 Rthl, der Stoesselsche Curator mit 169,400 Rthl, Fr. Charlotte von Triebenfeld mit 112,000 Rthl, Kaufmann Koppan in Breslau mit 80,000 Rthl, die v Köckritzschen Erben mit 50,000 Rthl und die v Sobottendorffischen Erben mit 44,200 Rthl. Genannt sind auch Bornstädt, Zerboni und Lombardini.",
  "reading": {

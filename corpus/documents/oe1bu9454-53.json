@@ -168,7 +168,152 @@
    "doc_line": 27
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "albrecht",
+   "display": "Albrecht",
+   "kind": "person",
+   "surface_de": "Albrecht",
+   "surface_en": "Albrecht",
+   "page": 1
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 1
+  },
+  {
+   "entity": "pirch",
+   "display": "Pirch",
+   "kind": "person",
+   "surface_de": "Pirch",
+   "surface_en": "Pirch",
+   "page": 1
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Haacke",
+   "kind": "person",
+   "surface_de": "Haacke",
+   "surface_en": "Haacke",
+   "page": 1
+  },
+  {
+   "entity": "massenbach",
+   "display": "Massenbach",
+   "kind": "person",
+   "surface_de": "Massenbach",
+   "surface_en": "Massenbach",
+   "page": 1
+  },
+  {
+   "entity": "scharnhorst",
+   "display": "Scharnhorst",
+   "kind": "person",
+   "surface_de": "Scharnhorst",
+   "surface_en": "Scharnhorst",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schill",
+   "kind": "person",
+   "surface_de": "Schill",
+   "surface_en": "Schill",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Westphalians",
+   "kind": "other",
+   "surface_de": "Westphälinger",
+   "surface_en": "Westphalians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Cassel",
+   "kind": "place",
+   "surface_de": "Cassel",
+   "surface_en": "Cassel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hanover",
+   "kind": "place",
+   "surface_de": "Hanover",
+   "surface_en": "Hanover",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brunswick",
+   "kind": "other",
+   "surface_de": "Braunschweigschen",
+   "surface_en": "Brunswick",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[illegible]",
+   "kind": "other",
+   "surface_de": "Hanna[?]",
+   "surface_en": "[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Peter",
+   "kind": "person",
+   "surface_de": "Peter",
+   "surface_en": "Peter",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 2
+  }
+ ],
  "place_canonical": "Königsberg",
  "place_mentions": [
   {
@@ -216,9 +361,124 @@
    "doc_line": 57
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "53\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's two letters of the 24th and 29th of last month I received today together. Submissively I reply that in the inheritance matter no resolution has yet been given, but that the whole affair, together with the opinion of the upright and honest Chamber Court and Cabinet Councillor Albrecht, lies before His Excellency the Grand Chancellor Beyme, from whom Her Majesty the Queen awaits it most eagerly.\n\nWith regard to Your Serene Highness's domestic affairs, and particularly in the matter of the so-called distraint affair, whatever Your Highness can for the present wish for will come to pass.\n\nAs concerns the military affairs, Your Serene Highness is yourself at fault: your friends have long since most urgently advised you that you should write to His Majesty in a straightforward tone and beg for the conclusion of the matter, but in doing so go to work openly in the affair itself and pay compliments to nobody.\n\nYour Serene Highness's most honest and most faithful friend here is the truly upright Major von Pirch; he is, by God, a rare, honest and thoroughly upright man, who pursues your cause better than Your Serene Highness yourself does, guides it with wisdom, and judges and sees through it with the penetration of the most expert man — His Excellency General von Köckritz means very well, only this good gentleman cannot therein be so effective as he would indeed wish — Haacke and others are well disposed because the noble, upright Major Pirch directs them and [uncertain: brings them round] to the point.\n\nMassenbach has written to His Majesty and begged for the conclusion of his affair — He appeals to General von Scharnhorst — the latter has",
+   "names": [
+    {
+     "de": "Albrecht",
+     "en": "Albrecht",
+     "kind": "person"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Pirch",
+     "en": "Pirch",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Haacke",
+     "en": "Haacke",
+     "kind": "person"
+    },
+    {
+     "de": "Massenbach",
+     "en": "Massenbach",
+     "kind": "person"
+    },
+    {
+     "de": "Scharnhorst",
+     "en": "Scharnhorst",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "53",
+    "24",
+    "29"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to his misfortune got the fever, and so the whole affair hangs. For the rest, most gracious Prince and Lord, I implore [uncertain: you — follow] the counsel of truly upright friends: write to the King and beg for the speedy conclusion of your affair — but answer the commission quite openly, do [uncertain: house of another's sin] and pay compliments to nobody. You must in earnest risk that the staff be broken over it — one does not in the least depart from the form — [uncertain: reliable] news of the armies is wholly wanting here. There is in this a perpetual alternation, like ebb and flood — It may be assumed with the greatest certainty that the loss of the Austrians cannot be so great as the consul here had it trumpeted abroad some days ago, according to which the French army was to be in Vienna within 8 days and the whole Austrian army already now totally cut to pieces — Just so, the [uncertain: Muße] declaration appears not to be so bad as the consul here had it distributed in all quarters as a true declaration of war — Russia, according to the true sense of it, merely breaks off all diplomatic negotiations with Austria, because the latter cannot enter into the proposed peace negotiations — Schill, according to the news that came in here yesterday, has already done a bold stroke: cut down 2 regiments of Frenchmen and Westphalians entirely, taken 4 cannon with him, and is hastening to Cassel and from there to Hanover, where the English troops are said already to have arrived — He signs himself / Major General of the first Brunswick [illegible] Division / Once again I beg Your Serene Highness from the heart — Write to the Monarch, spare nobody in the matter of the questions, and then be assured that your wishes will be fulfilled.\n\nIn deepest reverence I remain, as\n\nYour Most Serene Highness's\n\nKönigsberg,\n\nthe 13th of May 1809\n\nfaithful, humble and obedient servant\n\nPeter",
+   "names": [
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Schill",
+     "en": "Schill",
+     "kind": "person"
+    },
+    {
+     "de": "Westphälinger",
+     "en": "Westphalians",
+     "kind": "other"
+    },
+    {
+     "de": "Cassel",
+     "en": "Cassel",
+     "kind": "place"
+    },
+    {
+     "de": "Hanover",
+     "en": "Hanover",
+     "kind": "place"
+    },
+    {
+     "de": "Braunschweigschen",
+     "en": "Brunswick",
+     "kind": "other"
+    },
+    {
+     "de": "Hanna[?]",
+     "en": "[illegible]",
+     "kind": "other"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Peter",
+     "en": "Peter",
+     "kind": "person"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8",
+    "2",
+    "4",
+    "13",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "53\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's two letters of the 24th and 29th of last month I received today together. Submissively I reply that in the inheritance matter no resolution has yet been given, but that the whole affair, together with the opinion of the upright and honest Chamber Court and Cabinet Councillor Albrecht, lies before His Excellency the Grand Chancellor Beyme, from whom Her Majesty the Queen awaits it most eagerly.\n\nWith regard to Your Serene Highness's domestic affairs, and particularly in the matter of the so-called distraint affair, whatever Your Highness can for the present wish for will come to pass.\n\nAs concerns the military affairs, Your Serene Highness is yourself at fault: your friends have long since most urgently advised you that you should write to His Majesty in a straightforward tone and beg for the conclusion of the matter, but in doing so go to work openly in the affair itself and pay compliments to nobody.\n\nYour Serene Highness's most honest and most faithful friend here is the truly upright Major von Pirch; he is, by God, a rare, honest and thoroughly upright man, who pursues your cause better than Your Serene Highness yourself does, guides it with wisdom, and judges and sees through it with the penetration of the most expert man — His Excellency General von Köckritz means very well, only this good gentleman cannot therein be so effective as he would indeed wish — Haacke and others are well disposed because the noble, upright Major Pirch directs them and [uncertain: brings them round] to the point.\n\nMassenbach has written to His Majesty and begged for the conclusion of his affair — He appeals to General von Scharnhorst — the latter has\n\nto his misfortune got the fever, and so the whole affair hangs. For the rest, most gracious Prince and Lord, I implore [uncertain: you — follow] the counsel of truly upright friends: write to the King and beg for the speedy conclusion of your affair — but answer the commission quite openly, do [uncertain: house of another's sin] and pay compliments to nobody. You must in earnest risk that the staff be broken over it — one does not in the least depart from the form — [uncertain: reliable] news of the armies is wholly wanting here. There is in this a perpetual alternation, like ebb and flood — It may be assumed with the greatest certainty that the loss of the Austrians cannot be so great as the consul here had it trumpeted abroad some days ago, according to which the French army was to be in Vienna within 8 days and the whole Austrian army already now totally cut to pieces — Just so, the [uncertain: Muße] declaration appears not to be so bad as the consul here had it distributed in all quarters as a true declaration of war — Russia, according to the true sense of it, merely breaks off all diplomatic negotiations with Austria, because the latter cannot enter into the proposed peace negotiations — Schill, according to the news that came in here yesterday, has already done a bold stroke: cut down 2 regiments of Frenchmen and Westphalians entirely, taken 4 cannon with him, and is hastening to Cassel and from there to Hanover, where the English troops are said already to have arrived — He signs himself / Major General of the first Brunswick [illegible] Division / Once again I beg Your Serene Highness from the heart — Write to the Monarch, spare nobody in the matter of the questions, and then be assured that your wishes will be fulfilled.\n\nIn deepest reverence I remain, as\n\nYour Most Serene Highness's\n\nKönigsberg,\n\nthe 13th of May 1809\n\nfaithful, humble and obedient servant\n\nPeter",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, dass in der Erbschaftsangelegenheit noch keine Resolution ergangen ist; die Sache liegt mit dem Gutachten des Cabinets Rath Albrecht bei Großkanzler Beyme. Er drängt den Fürsten, in seiner Kriegssache offen an den König zu schreiben und um Beendigung zu bitten. Major von Pirch sei sein treuester Freund. Massenbachs Sache hängt am fieberkranken Scharnhorst. Dazu Kriegsnachrichten: Russland breche die diplomatischen Verhandlungen mit Österreich ab, Schill habe 2 Regimenter zusammengehauen und 4 Kanonen genommen.",
  "reading": {

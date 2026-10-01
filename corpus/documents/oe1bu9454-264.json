@@ -333,7 +333,320 @@
    "doc_line": 78
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentiner",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hardenberg",
+   "kind": "person",
+   "surface_de": "F. Ha[rdenberg]:",
+   "surface_en": "the Prince of Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürst Hard:",
+   "surface_en": "the Prince of Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bayonne",
+   "kind": "place",
+   "surface_de": "Bayonner",
+   "surface_en": "Bayonne",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B.",
+   "kind": "person",
+   "surface_de": "ß",
+   "surface_en": "B.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B.",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Triebenfeld",
+   "kind": "person",
+   "surface_de": "Trieb[enfeld]:",
+   "surface_en": "Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Antonette",
+   "kind": "person",
+   "surface_de": "Antonette",
+   "surface_en": "Antonette",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Prince",
+   "kind": "person",
+   "surface_de": "Fürst",
+   "surface_en": "the Prince",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewer Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès, Count",
+   "kind": "person",
+   "surface_de": "Gräs. Pourtalès",
+   "surface_en": "Pourtalès, Count",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neuchâtel",
+   "kind": "place",
+   "surface_de": "Neufchatel",
+   "surface_en": "Neuchâtel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "English",
+   "kind": "other",
+   "surface_de": "Engleiß",
+   "surface_en": "English",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "French",
+   "kind": "other",
+   "surface_de": "Französischen",
+   "surface_en": "French",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schwarzer",
+   "kind": "other",
+   "surface_de": "Schwarzerischen",
+   "surface_en": "Schwarzer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "other",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schleſen",
+   "surface_en": "Silesia",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "Barbe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "Barbe",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès, Count",
+   "kind": "person",
+   "surface_de": "Grafen Pourtalès",
+   "surface_en": "Pourtalès, Count",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentiner",
+   "surface_en": "Koszęcin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Boronów",
+   "kind": "place",
+   "surface_de": "Boronower",
+   "surface_en": "Boronów",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Cieszowa",
+   "kind": "place",
+   "surface_de": "Cieschower[?]",
+   "surface_en": "Cieszowa",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès, Lord Count of",
+   "kind": "person",
+   "surface_de": "Herrn Grafen von Pourtalès",
+   "surface_en": "Pourtalès, Lord Count of",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Royal Prussian",
+   "kind": "other",
+   "surface_de": "Königl. Preußl.",
+   "surface_en": "Royal Prussian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "F[riedrich]. L[udwig]. F[ürst] zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 3
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -458,9 +771,240 @@
    "doc_line": 76
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "264 Now, most gracious Prince and Lord, something which I wish to be kept as in a sealed grave — I must begin here in this way, which you, most gracious Lord, will be pleased to forgive, because you are too ready, when you hear something good, to confide it at once to this person and that, and in the plan which follows that would be very damaging, and would bring the whole thing to wreck.\n\nWhat is concerned here is the Koszęcin affair, which, had I proceeded with it according to your will, and blundered straight in as I was to do, could have plunged me and Your Serene Highness into the greatest ruin.\n\nAnxious and full of doubt whether the Prince of Hardenberg [text lost] could be bought for money, I touched on the matter very softly and from a distance. An abridged answer, that there could be no talk of it at present, kept me between fear and hope. At that time I heard, in secret, that the King will no longer tolerate either exchange or purchase of estates, because a great many estate-holders in Poland would have to abandon their property for the Bayonne sums, out of which in the end nothing but domains were to be created — In my distress I disclosed to Court Councillor Barbe my plan concerning Koszęcin, which however now already turned out otherwise, because I had mixed in the Courland debt, for the discharge of which the King is now advancing the money.\n\nI did not conceal from him that a present of 30000 Rthl had been demanded from Your Serene Highness for the Prince of Hardenberg, so that the Prince Chancellor should let the matter be done quickly. I told B. that you had agreed with Weigel and Stössel that each would give 10000 Rthl — Calmly B. rose and asked, who then proposed it, and does the Prince really know of it, and will he accept the 30000 Rthl?\n\nTo all this I could answer nothing further than that of the latter I knew nothing, that I had only been given the instruction from Your Serene Highness to see to the sale of Koszęcin in the aforesaid manner.\n\nOf estates",
+   "names": [
+    {
+     "de": "Koschentiner",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "F. Ha[rdenberg]:",
+     "en": "the Prince of Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst Hard:",
+     "en": "the Prince of Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Bayonner",
+     "en": "Bayonne",
+     "kind": "place"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "ß",
+     "en": "B.",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "264",
+    "30000",
+    "10000",
+    "30000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "In the calmest tone B. began: listen, Triebenfeld, you were the one man whom I greatly esteemed; I allowed it to happen that you ceded the papers to my Antonette — but now do not take it ill of me — I must return that to you at once, for you are dealing in neck-breaking matters — Know that if the Prince learns of this you will sit in a dungeon, and if he knew that I had merely brought it forward, he would thrust me from him with his feet and I should be infamously done for — He must indeed be a worse hellish beast than all the devils that are ever painted for us, who would impute such baseness to the most honest of all men, and mean to swindle people on his account — I had to employ every possible eloquence to pacify him again; meanwhile he did not let himself be seen for a couple of days, and only when I showed him the instruction signed in Your Serene Highness's own hand, and had assured him on my honour that I had not yet said a word of the 30/m Rthl to any mortal soul, was the confidential intercourse between us restored —\n\nOh how unhappy I might have become through this — But now heaven has compensated me for it, and Koszęcin will after all be sold just as well and more securely to a private man — The rich Count Pourtalès, brought up with Barbe in Neuchâtel, has sold his English and French possessions for more than 3 millions in ready money; now he is on the point of disposing of his Schwarzer estates also for ready money, and since the King has treated him at Neuchâtel with such distinguished favour, he wishes to bring his great fortune into our country and to purchase in Silesia — He has asked Barbe to help him to estates of consequence — I have put Koszęcin before Barbe — Barbe has himself made an extract from the valuations and the statistical tables, and has sent it to him by a courier just then despatched thither — Barbe has depicted everything in such a way that the matter may be regarded as done — A [uncertain: Mitlein Einmahl handlet] thousand Rthl has been demanded, whereupon there remain",
+   "names": [
+    {
+     "de": "B",
+     "en": "B.",
+     "kind": "person"
+    },
+    {
+     "de": "Trieb[enfeld]:",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Antonette",
+     "en": "Antonette",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst",
+     "en": "the Prince",
+     "kind": "person"
+    },
+    {
+     "de": "Ewer Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Gräs. Pourtalès",
+     "en": "Pourtalès, Count",
+     "kind": "person"
+    },
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Neufchatel",
+     "en": "Neuchâtel",
+     "kind": "place"
+    },
+    {
+     "de": "Engleiß",
+     "en": "English",
+     "kind": "other"
+    },
+    {
+     "de": "Französischen",
+     "en": "French",
+     "kind": "other"
+    },
+    {
+     "de": "Schwarzerischen",
+     "en": "Schwarzer",
+     "kind": "other"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "other"
+    },
+    {
+     "de": "Schleſen",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "Barbe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "30/m"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Your Serene Highness will still come out with 38000 Rthl, apart from what may perhaps further be gained on the capital deductions, and what I hold to be of consequence in the case of [uncertain: pranzte] ready payment — Barbe has told him that the arrears of interest would lapse in his favour, and also that he would find large stocks on hand, so that the estates would really cost him not much more than 900000 Rthl in ready money — Barbe has said once again that the matter is as good as concluded — Money these people have in abundance, and they are very enterprising — for the other Pourtalès too wishes to purchase here in our states — I have now promised Barbe, who really deals most honestly in Your Serene Highness's affairs, the 30/m Rthl, as soon as the purchase should come about in that manner with Count Pourtalès — Have the goodness now, gracious Prince, to send me at the very furthest this written undertaking. As soon as the sale of the Koszęcin, Boronów and [uncertain: Cieszowa] estates should come about in the manner agreed with the Lord Count of Pourtalès, I the undersigned shall pay, immediately upon the conclusion of the contract, to any bearer of this written undertaking, the sum of thirty thousand Rthl in Royal Prussian 64-piece Courant — and from the moment of the sale of the above-named estates to Count Pourtalès this written undertaking shall be regarded as a true bill of exchange.\n\nSławięcice\n\nJanuary 1815 [Locus Sigilli] Friedrich Ludwig, Prince of Hohenlohe",
+   "names": [
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Grafen Pourtalès",
+     "en": "Pourtalès, Count",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentiner",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Boronower",
+     "en": "Boronów",
+     "kind": "place"
+    },
+    {
+     "de": "Cieschower[?]",
+     "en": "Cieszowa",
+     "kind": "place"
+    },
+    {
+     "de": "Herrn Grafen von Pourtalès",
+     "en": "Pourtalès, Lord Count of",
+     "kind": "person"
+    },
+    {
+     "de": "Königl. Preußl.",
+     "en": "Royal Prussian",
+     "kind": "other"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "F[riedrich]. L[udwig]. F[ürst] zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "38000",
+    "900000",
+    "30/m",
+    "64",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "264 Now, most gracious Prince and Lord, something which I wish to be kept as in a sealed grave — I must begin here in this way, which you, most gracious Lord, will be pleased to forgive, because you are too ready, when you hear something good, to confide it at once to this person and that, and in the plan which follows that would be very damaging, and would bring the whole thing to wreck.\n\nWhat is concerned here is the Koszęcin affair, which, had I proceeded with it according to your will, and blundered straight in as I was to do, could have plunged me and Your Serene Highness into the greatest ruin.\n\nAnxious and full of doubt whether the Prince of Hardenberg [text lost] could be bought for money, I touched on the matter very softly and from a distance. An abridged answer, that there could be no talk of it at present, kept me between fear and hope. At that time I heard, in secret, that the King will no longer tolerate either exchange or purchase of estates, because a great many estate-holders in Poland would have to abandon their property for the Bayonne sums, out of which in the end nothing but domains were to be created — In my distress I disclosed to Court Councillor Barbe my plan concerning Koszęcin, which however now already turned out otherwise, because I had mixed in the Courland debt, for the discharge of which the King is now advancing the money.\n\nI did not conceal from him that a present of 30000 Rthl had been demanded from Your Serene Highness for the Prince of Hardenberg, so that the Prince Chancellor should let the matter be done quickly. I told B. that you had agreed with Weigel and Stössel that each would give 10000 Rthl — Calmly B. rose and asked, who then proposed it, and does the Prince really know of it, and will he accept the 30000 Rthl?\n\nTo all this I could answer nothing further than that of the latter I knew nothing, that I had only been given the instruction from Your Serene Highness to see to the sale of Koszęcin in the aforesaid manner.\n\nOf estates\n\nIn the calmest tone B. began: listen, Triebenfeld, you were the one man whom I greatly esteemed; I allowed it to happen that you ceded the papers to my Antonette — but now do not take it ill of me — I must return that to you at once, for you are dealing in neck-breaking matters — Know that if the Prince learns of this you will sit in a dungeon, and if he knew that I had merely brought it forward, he would thrust me from him with his feet and I should be infamously done for — He must indeed be a worse hellish beast than all the devils that are ever painted for us, who would impute such baseness to the most honest of all men, and mean to swindle people on his account — I had to employ every possible eloquence to pacify him again; meanwhile he did not let himself be seen for a couple of days, and only when I showed him the instruction signed in Your Serene Highness's own hand, and had assured him on my honour that I had not yet said a word of the 30/m Rthl to any mortal soul, was the confidential intercourse between us restored —\n\nOh how unhappy I might have become through this — But now heaven has compensated me for it, and Koszęcin will after all be sold just as well and more securely to a private man — The rich Count Pourtalès, brought up with Barbe in Neuchâtel, has sold his English and French possessions for more than 3 millions in ready money; now he is on the point of disposing of his Schwarzer estates also for ready money, and since the King has treated him at Neuchâtel with such distinguished favour, he wishes to bring his great fortune into our country and to purchase in Silesia — He has asked Barbe to help him to estates of consequence — I have put Koszęcin before Barbe — Barbe has himself made an extract from the valuations and the statistical tables, and has sent it to him by a courier just then despatched thither — Barbe has depicted everything in such a way that the matter may be regarded as done — A [uncertain: Mitlein Einmahl handlet] thousand Rthl has been demanded, whereupon there remain\n\nYour Serene Highness will still come out with 38000 Rthl, apart from what may perhaps further be gained on the capital deductions, and what I hold to be of consequence in the case of [uncertain: pranzte] ready payment — Barbe has told him that the arrears of interest would lapse in his favour, and also that he would find large stocks on hand, so that the estates would really cost him not much more than 900000 Rthl in ready money — Barbe has said once again that the matter is as good as concluded — Money these people have in abundance, and they are very enterprising — for the other Pourtalès too wishes to purchase here in our states — I have now promised Barbe, who really deals most honestly in Your Serene Highness's affairs, the 30/m Rthl, as soon as the purchase should come about in that manner with Count Pourtalès — Have the goodness now, gracious Prince, to send me at the very furthest this written undertaking. As soon as the sale of the Koszęcin, Boronów and [uncertain: Cieszowa] estates should come about in the manner agreed with the Lord Count of Pourtalès, I the undersigned shall pay, immediately upon the conclusion of the contract, to any bearer of this written undertaking, the sum of thirty thousand Rthl in Royal Prussian 64-piece Courant — and from the moment of the sale of the above-named estates to Count Pourtalès this written undertaking shall be regarded as a true bill of exchange.\n\nSławięcice\n\nJanuary 1815 [Locus Sigilli] Friedrich Ludwig, Prince of Hohenlohe",
  "summary_en": "",
  "summary_de": "Triebenfeld bittet um strenge Geheimhaltung seines Plans für Koszęcin. Da er gehört hatte, der König dulde keinen Tausch oder Ankauf von Gütern mehr, zog er Hoffrath Barbe ins Vertrauen, der über das angeblich für Fürst Hardenberg verlangte Geschenk von 30000 Rthl empört war. Nun soll Graf Pourtalès, der sich in Schlesien ankaufen will, Koszęcin kaufen; der Fürst erhielte noch 38000 Rthl heraus. Triebenfeld hat Barbe 30000 Rthl zugesagt und bittet um Zusendung des entworfenen Reverses.",
  "reading": {

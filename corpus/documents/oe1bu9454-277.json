@@ -300,7 +300,336 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "express courier",
+   "kind": "other",
+   "surface_de": "Estaffette",
+   "surface_en": "express courier",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt am Main",
+   "kind": "place",
+   "surface_de": "Frankfurt am Main",
+   "surface_en": "Frankfurt am Main",
+   "page": 1
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "P Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "beguelin",
+   "display": "Beguelin",
+   "kind": "person",
+   "surface_de": "Beguelin",
+   "surface_en": "Beguelin",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Switzerland",
+   "kind": "place",
+   "surface_de": "Schweitz[?]",
+   "surface_en": "Switzerland",
+   "page": 1
+  },
+  {
+   "entity": "fuerst-august",
+   "display": "Fürst August zu Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "August",
+   "surface_en": "August",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe-bartenstein",
+   "display": "Prince Hohenlohe-Bartenstein",
+   "kind": "person",
+   "surface_de": "Bartenstein",
+   "surface_en": "Bartenstein",
+   "page": 1
+  },
+  {
+   "entity": "goeschel",
+   "display": "Göschel",
+   "kind": "person",
+   "surface_de": "Göschel",
+   "surface_en": "Göschel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Langenburg",
+   "kind": "person",
+   "surface_de": "Langenburg",
+   "surface_en": "Langenburg",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Harde[nberg]",
+   "surface_en": "Harde[nberg]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ew. Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Winzingerode, Count",
+   "kind": "person",
+   "surface_de": "Gr. Winzingerode",
+   "surface_en": "Winzingerode, Count",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neuchâtel",
+   "kind": "place",
+   "surface_de": "Neuchatel",
+   "surface_en": "Neuchâtel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Nopelon[Napoleon]",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Antibes",
+   "kind": "place",
+   "surface_de": "Antibes",
+   "surface_en": "Antibes",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Toulon",
+   "kind": "place",
+   "surface_de": "Toulon",
+   "surface_en": "Toulon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Masséna",
+   "kind": "person",
+   "surface_de": "Massen",
+   "surface_en": "Masséna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Bertrand",
+   "kind": "person",
+   "surface_de": "v. Bertrand",
+   "surface_en": "von Bertrand",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Molis",
+   "kind": "person",
+   "surface_de": "Molis",
+   "surface_en": "Molis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Switzerland",
+   "kind": "place",
+   "surface_de": "Schweiz",
+   "surface_en": "Switzerland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Murat",
+   "kind": "person",
+   "surface_de": "Murat",
+   "surface_en": "Murat",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "N",
+   "kind": "person",
+   "surface_de": "N",
+   "surface_en": "N",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "wellington",
+   "display": "Wellington",
+   "kind": "person",
+   "surface_de": "Wellington",
+   "surface_en": "Wellington",
+   "page": 2
+  },
+  {
+   "entity": "talleyrand",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrand",
+   "surface_en": "Talleyrand",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pressburg",
+   "kind": "place",
+   "surface_de": "Presburg",
+   "surface_en": "Pressburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenloher",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -447,9 +776,242 @@
    "doc_line": 54
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "277\n\nMost Serene Prince\n\nMost gracious Prince and Lord, Your Serene Highness's most gracious letter of the 6th I received by express courier about — an ho[ur] ago; as I had just begun a letter to Your Most High Self, I laid that aside and began this one — The order to pay 200 # I received first of all, then there lay within it 3 French blank signed sheets, the 2 letters from Your Serene Highness, one from Court Councillor Hahn and 5 servants, to Russia, from Poland, from Wrocław, and from Frankfurt am Main — I think most heartily for it. But I can write little today — for I am very weak and have a great deal of head-trouble, and it is also scarcely 2 hours more until the departure of the post — I have therefore not even been able to read everything, and shall write the greater part by the next post — I only renew my wish that Mr Eberhard and Mr Hahn might come here. Much would certainly be accomplished with the 3 ladies, and I also continue to believe that the business with Prince Adolph goes forward at once — Stägemann has still had no presentation made, and one might perish over it for the Chamber. The Polish estates matter I have once again handed over to the Prince H[?] Serene Highness with all the documents of the files; also, on the advice of Privy Councillor of State von Beguelin, I brought myself to write to Zerboni, and I enclose the answer herewith — by the next post I shall send the copy of all the poor petitions — the Prince has received it well and it has also already passed the journal, but where it will come to lie again I do not yet know — The people are all here except for the single Prince, as though they wished only to burden themselves, and the sufferer seemed to come round — Meanwhile all stands well, for Cosmar is, as everyone says, as good as annihilated — I have made myself some fierce enemies on account of my frank Switzerland[illegible], yet what do I care for that, if only you are saved — August must only demand back the power of attorney in the prescribed manner; I have set a spur in his side for that, whereby he will be mightily assisted. Yesterday not only Prince Bartenstein, who commends himself to Your Serene Highness, but also Göschel wrote to the Prince of Langenburg, that in the Harde[nberg] house they had heard him speak very harshly of August, because he had allied himself with a most intriguing advocate against",
+   "names": [
+    {
+     "de": "Estaffette",
+     "en": "express courier",
+     "kind": "other"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Frankfurt am Main",
+     "en": "Frankfurt am Main",
+     "kind": "place"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "P Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Beguelin",
+     "en": "Beguelin",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Schweitz[?]",
+     "en": "Switzerland",
+     "kind": "place"
+    },
+    {
+     "de": "August",
+     "en": "August",
+     "kind": "person"
+    },
+    {
+     "de": "Bartenstein",
+     "en": "Bartenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Göschel",
+     "en": "Göschel",
+     "kind": "person"
+    },
+    {
+     "de": "Langenburg",
+     "en": "Langenburg",
+     "kind": "person"
+    },
+    {
+     "de": "Harde[nberg]",
+     "en": "Harde[nberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Ew. Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "277",
+    "6",
+    "200",
+    "3",
+    "2",
+    "5",
+    "2",
+    "3",
+    "11"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "his old good father, and had given the advocate an unlimited power of attorney, by which the latter would have to lay everything of the old good Prince's under arrest and waste it away — one does not know whether this comes from a want of prudence or from malice and favourable times. Count Winzingerode does the same and warns them to fetch back the power of attorney, not to ruin themselves, and to turn aside from themselves the judgement of the foremost men [illegible] — I think that should work strongly; the poor gentleman is held to be very weak — Pourtalès has not yet answered. B believes that he will arrive here very shortly. For the sureties and collectors of Neuchâtel have sent a deputation with great complaints against their Council of State to the King — the Council of State is now also to send a deputation here on its own part — and since Pourtalès is known in this council and [text lost: garbled] court, guests as a serving officer, he will probably appear himself — He so needs support — Now for the great and important matter — that Napoleon has escaped, Your Serene Highness knows — According to today's reports he has landed at Antibes and is turning towards Toulon — In Toulon stands Masséna, who is very much displeased that he has not been named a peer — then there is also General von Bertrand there, and General Molis, all adherents of Napoleon — In Switzerland everything is in ferment; that will make a favourable [uncertain: Märte], and Murat is, I fear, puffing himself up frightfully — in order to press through from that side by way of Italy — It is already said that N has much of a future there — the King of Saxony still refuses to sign — Wellington and Talleyrand are still with him in Pressburg — Meanwhile it is believed that God will accordingly prevent the war — What the King of Württemberg has issued to the Hohenlohe [family], what has been answered to him from all sides, what has in that case been submitted here at the Congress, all lies enclosed herewith — from the Congress a strong reprimand has been given to the King, which Your Serene Highness shall receive in future — In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 11th of March\n\n1815\n\nmost faithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Gr. Winzingerode",
+     "en": "Winzingerode, Count",
+     "kind": "person"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "B",
+     "en": "B",
+     "kind": "person"
+    },
+    {
+     "de": "Neuchatel",
+     "en": "Neuchâtel",
+     "kind": "place"
+    },
+    {
+     "de": "Nopelon[Napoleon]",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Antibes",
+     "en": "Antibes",
+     "kind": "place"
+    },
+    {
+     "de": "Toulon",
+     "en": "Toulon",
+     "kind": "place"
+    },
+    {
+     "de": "Massen",
+     "en": "Masséna",
+     "kind": "person"
+    },
+    {
+     "de": "v. Bertrand",
+     "en": "von Bertrand",
+     "kind": "person"
+    },
+    {
+     "de": "Molis",
+     "en": "Molis",
+     "kind": "person"
+    },
+    {
+     "de": "Schweiz",
+     "en": "Switzerland",
+     "kind": "place"
+    },
+    {
+     "de": "Murat",
+     "en": "Murat",
+     "kind": "person"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "N",
+     "en": "N",
+     "kind": "person"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Wellington",
+     "en": "Wellington",
+     "kind": "person"
+    },
+    {
+     "de": "Talleyrand",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "Presburg",
+     "en": "Pressburg",
+     "kind": "place"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Hohenloher",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "277\n\nMost Serene Prince\n\nMost gracious Prince and Lord, Your Serene Highness's most gracious letter of the 6th I received by express courier about — an ho[ur] ago; as I had just begun a letter to Your Most High Self, I laid that aside and began this one — The order to pay 200 # I received first of all, then there lay within it 3 French blank signed sheets, the 2 letters from Your Serene Highness, one from Court Councillor Hahn and 5 servants, to Russia, from Poland, from Wrocław, and from Frankfurt am Main — I think most heartily for it. But I can write little today — for I am very weak and have a great deal of head-trouble, and it is also scarcely 2 hours more until the departure of the post — I have therefore not even been able to read everything, and shall write the greater part by the next post — I only renew my wish that Mr Eberhard and Mr Hahn might come here. Much would certainly be accomplished with the 3 ladies, and I also continue to believe that the business with Prince Adolph goes forward at once — Stägemann has still had no presentation made, and one might perish over it for the Chamber. The Polish estates matter I have once again handed over to the Prince H[?] Serene Highness with all the documents of the files; also, on the advice of Privy Councillor of State von Beguelin, I brought myself to write to Zerboni, and I enclose the answer herewith — by the next post I shall send the copy of all the poor petitions — the Prince has received it well and it has also already passed the journal, but where it will come to lie again I do not yet know — The people are all here except for the single Prince, as though they wished only to burden themselves, and the sufferer seemed to come round — Meanwhile all stands well, for Cosmar is, as everyone says, as good as annihilated — I have made myself some fierce enemies on account of my frank Switzerland[illegible], yet what do I care for that, if only you are saved — August must only demand back the power of attorney in the prescribed manner; I have set a spur in his side for that, whereby he will be mightily assisted. Yesterday not only Prince Bartenstein, who commends himself to Your Serene Highness, but also Göschel wrote to the Prince of Langenburg, that in the Harde[nberg] house they had heard him speak very harshly of August, because he had allied himself with a most intriguing advocate against\n\nhis old good father, and had given the advocate an unlimited power of attorney, by which the latter would have to lay everything of the old good Prince's under arrest and waste it away — one does not know whether this comes from a want of prudence or from malice and favourable times. Count Winzingerode does the same and warns them to fetch back the power of attorney, not to ruin themselves, and to turn aside from themselves the judgement of the foremost men [illegible] — I think that should work strongly; the poor gentleman is held to be very weak — Pourtalès has not yet answered. B believes that he will arrive here very shortly. For the sureties and collectors of Neuchâtel have sent a deputation with great complaints against their Council of State to the King — the Council of State is now also to send a deputation here on its own part — and since Pourtalès is known in this council and [text lost: garbled] court, guests as a serving officer, he will probably appear himself — He so needs support — Now for the great and important matter — that Napoleon has escaped, Your Serene Highness knows — According to today's reports he has landed at Antibes and is turning towards Toulon — In Toulon stands Masséna, who is very much displeased that he has not been named a peer — then there is also General von Bertrand there, and General Molis, all adherents of Napoleon — In Switzerland everything is in ferment; that will make a favourable [uncertain: Märte], and Murat is, I fear, puffing himself up frightfully — in order to press through from that side by way of Italy — It is already said that N has much of a future there — the King of Saxony still refuses to sign — Wellington and Talleyrand are still with him in Pressburg — Meanwhile it is believed that God will accordingly prevent the war — What the King of Württemberg has issued to the Hohenlohe [family], what has been answered to him from all sides, what has in that case been submitted here at the Congress, all lies enclosed herewith — from the Congress a strong reprimand has been given to the King, which Your Serene Highness shall receive in future — In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 11th of March\n\n1815\n\nmost faithful and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bestätigt den Empfang des Schreibens vom 6ten mit der Anweisung auf 200 # und drei Blanquets und wünscht erneut, dass Eberhard und Hahn nach Wien kommen. Die polnische Güterangelegenheit hat er nochmals mit allen Aktenstücken übergeben und auf Anraten Beguelins an Zerboni geschrieben; dessen Antwort liegt bei. Stägemann hatte noch keinen Vortrag. Cosmar gelte als so gut wie vernichtet, August solle die Vollmacht zurückfordern. Er meldet Napoleons Landung in Antibes.",
  "reading": {

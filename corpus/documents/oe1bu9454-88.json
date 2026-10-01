@@ -97,7 +97,32 @@
    "doc_line": 3
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Your Excellency",
+   "kind": "other",
+   "surface_de": "Euer Excellenz",
+   "surface_en": "Your Excellency",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "Sr. Majestät",
+   "surface_en": "His Majesty",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -156,9 +181,39 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "88\n\nCopy\n\nTo the Minister von Voss\n\nRight Honourable Sir, From Your Excellency's obliging letter of the 1st of this month I have perceived the grounds which have moved you not to concur in the manner desired with the exchange of my South Prussian estates for the district of Krotoszyn, which I laid before His Majesty the King, and in which, according to the declaration I have already submitted, I have by no means reckoned Polajewo.\n\nWere I not convinced that those grounds rested solely upon the reports and findings submitted to Your Excellency in this matter by the commissioners, and not upon your own conviction as to the true condition of the district of Krotoszyn, then I should not so greatly revere, as in truth I do, the patriotic zeal with which Your Excellency has so conscientiously attended here to the royal interest; for according to the intelligence I have obtained, and according to Your Excellency's own utterances in former times, I am assured that the commissioners have in the present case assumed and reckoned more for Krotoszyn than will come to light upon an impartial investigation by men expert in the matter. In view of the manifold assurances which His Majesty the King has deigned to give me of his most gracious benevolence, and for the proving of which he has only awaited an occasion, I should therefore not hold it consonant with my duty were I to acquiesce in the grounds set up against my petition; rather"
+  },
+  {
+   "page": 2,
+   "en": "I am, in the purity of my intention, and in the unfalsified presentation of my proofs drawn from the records, almost resolved to convince His Majesty that the exchange I have proposed had not at its foundation those self-interested designs which would indeed be the case if one were to judge the matter according to the report submitted by Your Excellency and communicated to me by His Majesty the King. Of Your Excellency's magnanimous sentiments I hold myself therefore assured, that you will as fully approve, and, so far as it depends upon your own conviction, support those further steps which I am obliged to undertake for the sake of my [uncertain: wounded] sense of honour and of my monarch's love of justice, as I sincerely assure you that I am, with sentiments of the most perfect esteem, Your\n\nWrocław, the 8th of December 1798",
+   "names": [
+    {
+     "de": "Euer Excellenz",
+     "en": "Your Excellency",
+     "kind": "other"
+    },
+    {
+     "de": "Sr. Majestät",
+     "en": "His Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "88\n\nCopy\n\nTo the Minister von Voss\n\nRight Honourable Sir, From Your Excellency's obliging letter of the 1st of this month I have perceived the grounds which have moved you not to concur in the manner desired with the exchange of my South Prussian estates for the district of Krotoszyn, which I laid before His Majesty the King, and in which, according to the declaration I have already submitted, I have by no means reckoned Polajewo.\n\nWere I not convinced that those grounds rested solely upon the reports and findings submitted to Your Excellency in this matter by the commissioners, and not upon your own conviction as to the true condition of the district of Krotoszyn, then I should not so greatly revere, as in truth I do, the patriotic zeal with which Your Excellency has so conscientiously attended here to the royal interest; for according to the intelligence I have obtained, and according to Your Excellency's own utterances in former times, I am assured that the commissioners have in the present case assumed and reckoned more for Krotoszyn than will come to light upon an impartial investigation by men expert in the matter. In view of the manifold assurances which His Majesty the King has deigned to give me of his most gracious benevolence, and for the proving of which he has only awaited an occasion, I should therefore not hold it consonant with my duty were I to acquiesce in the grounds set up against my petition; rather\n\nI am, in the purity of my intention, and in the unfalsified presentation of my proofs drawn from the records, almost resolved to convince His Majesty that the exchange I have proposed had not at its foundation those self-interested designs which would indeed be the case if one were to judge the matter according to the report submitted by Your Excellency and communicated to me by His Majesty the King. Of Your Excellency's magnanimous sentiments I hold myself therefore assured, that you will as fully approve, and, so far as it depends upon your own conviction, support those further steps which I am obliged to undertake for the sake of my [uncertain: wounded] sense of honour and of my monarch's love of justice, as I sincerely assure you that I am, with sentiments of the most perfect esteem, Your\n\nWrocław, the 8th of December 1798",
  "summary_en": "",
  "summary_de": "Der Fürst antwortet auf das Schreiben von Voss vom 1ten dieses. Voss hat dem beim König beantragten Tausch der südpreußischen Güter des Fürsten gegen das Amt Krotoszyn, ohne Polajewo, nicht in der gewünschten Art beigepflichtet. Nach Ansicht des Fürsten beruhen Voss' Gründe nur auf den Berichten der Commissarien, die bei Krotoszyn mehr angenommen hätten, als eine unparteiische Untersuchung ergeben würde. Er ist fast entschlossen, den König von der Uneigennützigkeit seines Vorschlags zu überzeugen.",
  "reading": {

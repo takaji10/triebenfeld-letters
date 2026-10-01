@@ -77,7 +77,80 @@
    "doc_line": 9
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Mann",
+   "kind": "person",
+   "surface_de": "Mann",
+   "surface_en": "Mann",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curische",
+   "kind": "other",
+   "surface_de": "Curische",
+   "surface_en": "Curische",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kosch matter",
+   "kind": "other",
+   "surface_de": "Kosch-Sachen",
+   "surface_en": "Kosch matter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Massakroff",
+   "kind": "place",
+   "surface_de": "Massakroff",
+   "surface_en": "Massakroff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prensten",
+   "kind": "other",
+   "surface_de": "Prensten",
+   "surface_en": "Prensten",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  }
+ ],
  "place_canonical": "Kontop[?]",
  "place_mentions": [
   {
@@ -103,9 +176,67 @@
    "doc_line": 18
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "62 Now I no longer know what I am to think: 5 letters have I sent off, and for not one of them [text lost] have I been deemed worthy of an answer — this is the 6th [uncertain: Brust] — through the Chief Post [text lost] Mann I sent the last one, which Your Serene Highness must absolutely have received. Through his kindness I am sending this one again today — My utmost distress I have described in every one of them — and their Serene Highness does not so much as answer. I am giving myself here the most conceivable trouble. Everything seems to succeed and to [uncertain: genennen: name/win] the happiest outcome. Even the Kosch matter has been set in motion, though it has been referred back until the return to Berlin. The Curische debt is to be discharged, the settlement cancelled, Cosmar must withdraw, and Your Serene Highness will come into possession of the entailed estate, and may live quietly and happily in old age. Also/Upon the Polish estates must be given back, however much everything is against it. For all these toilsome labours you let me suffer the most oppressive distress here; that is, by Heaven, dreadful — what I have submitted, and upon which everything is assured, is no little-pot game. Your Serene Highness need make no secret of it, for everything will succeed, and once the goal is reached you will indeed be truly happy — how can you let me perish here almost in destitution for it? Send money, this I beg most earnestly — Be graciously pleased to address your letters to the Royal [uncertain: Prensten] Chief Post Director Mann in Vienna, residing in the Massakroff 1156 rt.\n\nShould, however, the posts really be at fault, then may Your Serene Highness be pleased to send [uncertain: reuenen] express couriers with money; at present not so many difficulties are being made any more.",
+   "names": [
+    {
+     "de": "Mann",
+     "en": "Mann",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Curische",
+     "en": "Curische",
+     "kind": "other"
+    },
+    {
+     "de": "Kosch-Sachen",
+     "en": "Kosch matter",
+     "kind": "other"
+    },
+    {
+     "de": "Massakroff",
+     "en": "Massakroff",
+     "kind": "place"
+    },
+    {
+     "de": "Prensten",
+     "en": "Prensten",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "62",
+    "5",
+    "6",
+    "1156"
+   ]
+  }
+ ],
+ "text_english": "62 Now I no longer know what I am to think: 5 letters have I sent off, and for not one of them [text lost] have I been deemed worthy of an answer — this is the 6th [uncertain: Brust] — through the Chief Post [text lost] Mann I sent the last one, which Your Serene Highness must absolutely have received. Through his kindness I am sending this one again today — My utmost distress I have described in every one of them — and their Serene Highness does not so much as answer. I am giving myself here the most conceivable trouble. Everything seems to succeed and to [uncertain: genennen: name/win] the happiest outcome. Even the Kosch matter has been set in motion, though it has been referred back until the return to Berlin. The Curische debt is to be discharged, the settlement cancelled, Cosmar must withdraw, and Your Serene Highness will come into possession of the entailed estate, and may live quietly and happily in old age. Also/Upon the Polish estates must be given back, however much everything is against it. For all these toilsome labours you let me suffer the most oppressive distress here; that is, by Heaven, dreadful — what I have submitted, and upon which everything is assured, is no little-pot game. Your Serene Highness need make no secret of it, for everything will succeed, and once the goal is reached you will indeed be truly happy — how can you let me perish here almost in destitution for it? Send money, this I beg most earnestly — Be graciously pleased to address your letters to the Royal [uncertain: Prensten] Chief Post Director Mann in Vienna, residing in the Massakroff 1156 rt.\n\nShould, however, the posts really be at fault, then may Your Serene Highness be pleased to send [uncertain: reuenen] express couriers with money; at present not so many difficulties are being made any more.",
  "summary_en": "",
  "summary_de": "Triebenfeld klagt, auf fünf Briefe keine Antwort erhalten zu haben, und schickt diesen sechsten über den Ober Post Director Mann. Er berichtet, alles scheine zu gelingen: Die Curische Schuld werde getilgt, der Transact cassirt, Cosmar müsse ausscheiden, der Fürst komme in Besitz des Majorats, und die polnischen Güter müssten zurückgegeben werden. Er leide drückende Not und bittet dringend um Geld, notfalls durch einen Expressen. Briefe sollen an Mann in Wien gehen.",
  "reading": {

@@ -1,0 +1,430 @@
+{
+ "letter_id": "10",
+ "seq_archival": 10,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-10",
+ "pad": "iiihamdaiiinr12765-010",
+ "permalink": "/documents/iiihamdaiiinr12765/10/",
+ "doc_type": "draft",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1815-06-06",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1815-06-06",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1815,
+ "month": 6,
+ "day": 6,
+ "place": "Wien",
+ "sender": "Hardenberg",
+ "recipient": "Zerboni",
+ "line_start": 253,
+ "line_end": 278,
+ "uncertainty_count": 3,
+ "has_damage": 0,
+ "rough_transcription": 1,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "transmits",
+   "target": "8",
+   "note": "Sends Zerboni the Prince's two letters in the original, the one to Hardenberg of 12 May and the one to Stein of 12 April (document 6)."
+  }
+ ],
+ "estates": [
+  "trabczyn",
+  "kamionno"
+ ],
+ "is_missing": 0,
+ "n_lines": 23,
+ "n_pages": 2,
+ "text": "An\ndringl.[?] p H. v. Zerboni Sposetti\nZahlrungen[?] in Posen.\nEw. Hochwolz überstande ich urschriftl. zwei Schreiben\ndes Kg. Fürsten z Hohenlohe an mich von 12 rt.\nund an den Hr St. M. Erz v. Stein[?] vom 12 April die\nAnsprüche betreffend, die der Fürst wegen der ihm\nentzogenen Güter Kämen u Trąbczyn\ngeltend zu machen sucht.\nDa Ew Hochwogen mit der Lage dieser Sachen vollständig\nbekannt sind, so ersuche ich Sie ergebenst, mich\nüber die Schritte, die zu Gunsten des Fürsten noch gethan\nwerden können, in Kenntniß zu sezen.\nWas Kämen betrift, so sind dieses unstreitig dieselben\nGüter, die der Fürsten von Banco-Rendanten Leixner\nz Frankfurt verkauft hat, das Magistel der 55000 rt.\nund die Zinsen hat daher die Bank zu fodern, und der Fürst\nist längst befriedigt. Indeß ſehe ich hierüber der nähern\nUntersuchung ErHochwolz und Ihrer Bericht-erstattung sobald\nals möglich entgegen\nW[ien]. den 6ten Jun [18]15\nNs. S. D.\nVon Sr Durchlaucht in mundis vollzogen.",
+ "text_reading": "An dringl.[?] p H. v. Zerboni Sposetti Zahlrungen[?] in Posen.\n\nEw. Hochwolz überstande ich urschriftl. zwei Schreiben des Kg. Fürsten z Hohenlohe an mich von 12 rt. und an den Hr St. M. Erz v. Stein[?] vom 12 April die Ansprüche betreffend, die der Fürst wegen der ihm entzogenen Güter Kämen u Trąbczyn\n\ngeltend zu machen sucht.\n\nDa Ew Hochwogen mit der Lage dieser Sachen vollständig bekannt sind, so ersuche ich Sie ergebenst, mich über die Schritte, die zu Gunsten des Fürsten noch gethan werden können, in Kenntniß zu sezen.\n\nWas Kämen betrift, so sind dieses unstreitig dieselben Güter, die der Fürsten von Banco-Rendanten Leixner z Frankfurt verkauft hat, das Magistel der 55000 rt. und die Zinsen hat daher die Bank zu fodern, und der Fürst ist längst befriedigt. Indeß ſehe ich hierüber der nähern Untersuchung ErHochwolz und Ihrer Bericht-erstattung sobald als möglich entgegen\n\nW[ien]. den 6ten Jun [18]15\n\nNs. S. D.\n\nVon Sr Durchlaucht in mundis vollzogen.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0012_a2",
+   "line_start": 255,
+   "line_end": 267,
+   "n_lines": 13,
+   "diplomatic": "An\ndringl.[?] p H. v. Zerboni Sposetti\nZahlrungen[?] in Posen.\nEw. Hochwolz überstande ich urschriftl. zwei Schreiben\ndes Kg. Fürsten z Hohenlohe an mich von 12 rt.\nund an den Hr St. M. Erz v. Stein[?] vom 12 April die\nAnsprüche betreffend, die der Fürst wegen der ihm\nentzogenen Güter Kämen u Trąbczyn\ngeltend zu machen sucht.\nDa Ew Hochwogen mit der Lage dieser Sachen vollständig\nbekannt sind, so ersuche ich Sie ergebenst, mich\nüber die Schritte, die zu Gunsten des Fürsten noch gethan\nwerden können, in Kenntniß zu sezen.",
+   "transcription": "An\ndringl.[?] p H. v. Zerboni Sposetti\nZahlrungen[?] in Posen.\nEw. Hochwolz überstande ich urschriftl. zwei Schreiben\ndes Kg. Fürsten z Hohenlohe an mich von 12 rt.\nund an den Hr St. M. Erz v. Stein[?] vom 12 April die\nAnsprüche betreffend, die der Fürst wegen der ihm\nentzogenen Güter Kämen u Trąbczyn\ngeltend zu machen sucht.\nDa Ew Hochwogen mit der Lage dieser Sachen vollständig\nbekannt sind, so ersuche ich Sie ergebenst, mich\nüber die Schritte, die zu Gunsten des Fürsten noch gethan\nwerden können, in Kenntniß zu sezen.",
+   "reading": "An dringl.[?] p H. v. Zerboni Sposetti Zahlrungen[?] in Posen.\n\nEw. Hochwolz überstande ich urschriftl. zwei Schreiben des Kg. Fürsten z Hohenlohe an mich von 12 rt. und an den Hr St. M. Erz v. Stein[?] vom 12 April die Ansprüche betreffend, die der Fürst wegen der ihm entzogenen Güter Kämen u Trąbczyn\n\ngeltend zu machen sucht.\n\nDa Ew Hochwogen mit der Lage dieser Sachen vollständig bekannt sind, so ersuche ich Sie ergebenst, mich über die Schritte, die zu Gunsten des Fürsten noch gethan werden können, in Kenntniß zu sezen.",
+   "paragraphs": [
+    "An dringl.[?] p H. v. Zerboni Sposetti Zahlrungen[?] in Posen.",
+    "Ew. Hochwolz überstande ich urschriftl. zwei Schreiben des Kg. Fürsten z Hohenlohe an mich von 12 rt. und an den Hr St. M. Erz v. Stein[?] vom 12 April die Ansprüche betreffend, die der Fürst wegen der ihm entzogenen Güter Kämen u Trąbczyn",
+    "geltend zu machen sucht.",
+    "Da Ew Hochwogen mit der Lage dieser Sachen vollständig bekannt sind, so ersuche ich Sie ergebenst, mich über die Schritte, die zu Gunsten des Fürsten noch gethan werden können, in Kenntniß zu sezen."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 13
+  },
+  {
+   "page": 2,
+   "page_id": "0013_a1",
+   "line_start": 269,
+   "line_end": 278,
+   "n_lines": 10,
+   "diplomatic": "Was Kämen betrift, so sind dieses unstreitig dieselben\nGüter, die der Fürsten von Banco-Rendanten Leixner\nz Frankfurt verkauft hat, das Magistel der 55000 rt.\nund die Zinsen hat daher die Bank zu fodern, und der Fürst\nist längst befriedigt. Indeß ſehe ich hierüber der nähern\nUntersuchung ErHochwolz und Ihrer Bericht-erstattung sobald\nals möglich entgegen\nW[ien]. den 6ten Jun [18]15\nNs. S. D.\nVon Sr Durchlaucht in mundis vollzogen.",
+   "transcription": "Was Kämen betrift, so sind dieses unstreitig dieselben\nGüter, die der Fürsten von Banco-Rendanten Leixner\nz Frankfurt verkauft hat, das Magistel der 55000 rt.\nund die Zinsen hat daher die Bank zu fodern, und der Fürst\nist längst befriedigt. Indeß ſehe ich hierüber der nähern\nUntersuchung ErHochwolz und Ihrer Bericht-erstattung sobald\nals möglich entgegen\nW[ien]. den 6ten Jun [18]15\nNs. S. D.\nVon Sr Durchlaucht in mundis vollzogen.",
+   "reading": "Was Kämen betrift, so sind dieses unstreitig dieselben Güter, die der Fürsten von Banco-Rendanten Leixner z Frankfurt verkauft hat, das Magistel der 55000 rt. und die Zinsen hat daher die Bank zu fodern, und der Fürst ist längst befriedigt. Indeß ſehe ich hierüber der nähern Untersuchung ErHochwolz und Ihrer Bericht-erstattung sobald als möglich entgegen\n\nW[ien]. den 6ten Jun [18]15\n\nNs. S. D.\n\nVon Sr Durchlaucht in mundis vollzogen.",
+   "paragraphs": [
+    "Was Kämen betrift, so sind dieses unstreitig dieselben Güter, die der Fürsten von Banco-Rendanten Leixner z Frankfurt verkauft hat, das Magistel der 55000 rt. und die Zinsen hat daher die Bank zu fodern, und der Fürst ist längst befriedigt. Indeß ſehe ich hierüber der nähern Untersuchung ErHochwolz und Ihrer Bericht-erstattung sobald als möglich entgegen",
+    "W[ien]. den 6ten Jun [18]15",
+    "Ns. S. D.",
+    "Von Sr Durchlaucht in mundis vollzogen."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+   "doc_line_start": 14,
+   "doc_line_end": 23
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface": "Zerboni",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 256,
+   "doc_line": 2
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 259,
+   "doc_line": 5
+  },
+  {
+   "entity": "stein",
+   "display": "Stein",
+   "kind": "person",
+   "surface": "v. Stein",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 260,
+   "doc_line": 6
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface": "Leixner",
+   "page": 2,
+   "page_id": "0013_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+   "line": 270,
+   "doc_line": 15
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Mr von Zerboni Sposetti",
+   "kind": "person",
+   "surface_de": "H. v. Zerboni Sposetti",
+   "surface_en": "Mr von Zerboni Sposetti",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten z Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baron von [uncertain: Stein]",
+   "kind": "person",
+   "surface_de": "Erz v. Stein[?]",
+   "surface_en": "Baron von [uncertain: Stein]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kämen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kämen",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurt",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "W[ien]",
+   "surface_en": "Vienna",
+   "page": 2
+  }
+ ],
+ "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 257,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 262,
+   "doc_line": 8
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurt",
+   "page": 2,
+   "page_id": "0013_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+   "line": 271,
+   "doc_line": 16
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "W[ien]",
+   "page": 2,
+   "page_id": "0013_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+   "line": 276,
+   "doc_line": 21
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "To the urgent[?] Mr von Zerboni Sposetti, [uncertain: Zahlrungen] at Poznań.\n\nI send Your Right Honourable, in the original, two letters of the Royal Prince of Hohenlohe, to me of 12 rt. and to the Minister of State Baron von [uncertain: Stein] of 12 April, concerning the claims which the Prince seeks to assert on account of the estates Kamionna and Trąbczyn\n\ntaken from him.\n\nSince Your Honour is fully acquainted with the position of these matters, I most respectfully request you to inform me of the steps that may yet be taken in the Prince's favour.",
+   "names": [
+    {
+     "de": "H. v. Zerboni Sposetti",
+     "en": "Mr von Zerboni Sposetti",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten z Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Erz v. Stein[?]",
+     "en": "Baron von [uncertain: Stein]",
+     "kind": "person"
+    },
+    {
+     "de": "Kämen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "12",
+    "12"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "As regards Kamionna, these are beyond dispute the same estates which the Prince sold to the bank cashier Leixner of Frankfurt an der Oder; the [uncertain: Magistel] of the 55000 rt. and the interest are therefore the Bank's to demand, and the Prince has long since been satisfied. Meanwhile I await on this point Your Right Honourable's closer investigation and your report as soon as possible.\n\nVienna, the 6th of June 1815\n\nIn His Serene Highness's name.\n\nExecuted by His Serene Highness in the fair copy.",
+   "names": [
+    {
+     "de": "Kämen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurt",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "W[ien]",
+     "en": "Vienna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "55000",
+    "6",
+    "15"
+   ]
+  }
+ ],
+ "text_english": "To the urgent[?] Mr von Zerboni Sposetti, [uncertain: Zahlrungen] at Poznań.\n\nI send Your Right Honourable, in the original, two letters of the Royal Prince of Hohenlohe, to me of 12 rt. and to the Minister of State Baron von [uncertain: Stein] of 12 April, concerning the claims which the Prince seeks to assert on account of the estates Kamionna and Trąbczyn\n\ntaken from him.\n\nSince Your Honour is fully acquainted with the position of these matters, I most respectfully request you to inform me of the steps that may yet be taken in the Prince's favour.\n\nAs regards Kamionna, these are beyond dispute the same estates which the Prince sold to the bank cashier Leixner of Frankfurt an der Oder; the [uncertain: Magistel] of the 55000 rt. and the interest are therefore the Bank's to demand, and the Prince has long since been satisfied. Meanwhile I await on this point Your Right Honourable's closer investigation and your report as soon as possible.\n\nVienna, the 6th of June 1815\n\nIn His Serene Highness's name.\n\nExecuted by His Serene Highness in the fair copy.",
+ "summary_en": "Draft of a letter to Zerboni in Poznań: Hardenberg sends, in the original, two letters of the Prince, one to himself and one to Stein, concerning the claims over the confiscated estates of Kamionna and Trąbczyn, and asks to be told what steps can still be taken in the Prince's favour. He says the Prince sold Kamionna to Leixner, and that the 55000 Rthl and interest are owed to the bank. He expects Zerboni's report as soon as possible.",
+ "summary_de": "Entwurf eines Schreibens an Zerboni in Poznań: Hardenberg übersendet urschriftlich zwei Schreiben des Fürsten, an ihn und an Stein, über die Ansprüche wegen der entzogenen Güter Kamionna und Trąbczyn und bittet um Mitteilung, welche Schritte zugunsten des Fürsten noch getan werden können. Kamionna habe der Fürst an Leixner verkauft; die 55000 Rthl und Zinsen habe die Bank zu fordern. Er erwartet Zerbonis Bericht so bald als möglich.",
+ "reading": {
+  "letter": "10",
+  "legibility": "partly garbled",
+  "notes": "Draft to Zerboni di Sposetti at Poznań, Vienna, 6 June 1815, signed in the fair copy by Hardenberg himself. It sends him in the original the Prince's two letters, to Hardenberg of 12 May and to Stein of 12 April, on the estates Kämen and Trąbczyn taken from him. As Zerboni knows the matter fully, he is asked to say what steps could still be taken in the Prince's favour. Kämen is beyond dispute the estate the Prince sold to the bank official Leixner of Frankfurt, so the 55,000 rt and interest are the Bank's to claim and the Prince has long been satisfied; Zerboni's investigation and report are awaited as soon as possible.",
+  "claims": [
+   {
+    "statement": "Hardenberg übersendet Zerboni urschriftlich zwei Schreiben des Fürsten, an ihn und an Stein vom 12. April, über die Ansprüche wegen der entzogenen Güter Kämen und Trąbczyn",
+    "lines": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "statement": "Zerboni soll mitteilen, welche Schritte zugunsten des Fürsten noch getan werden können",
+    "lines": [
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "statement": "Kämen seien unstreitig die Güter, die der Fürst an den Banco-Rendanten Leixner zu Frankfurt verkauft hat; die 55000 Rthl und Zinsen habe die Bank zu fordern, der Fürst sei längst befriedigt",
+    "lines": [
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   },
+   {
+    "statement": "Hardenberg erwartet Zerbonis Untersuchung und Bericht so bald als möglich",
+    "lines": [
+     18,
+     19,
+     20
+    ]
+   },
+   {
+    "statement": "Die Reinschrift wurde von Hardenberg selbst vollzogen",
+    "lines": [
+     23
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 2,
+    "word": "dringl.[?]",
+    "note": "address line, garbled"
+   },
+   {
+    "line": 3,
+    "word": "Zahlrungen[?]",
+    "note": "address line, garbled; Zerboni's title"
+   },
+   {
+    "line": 4,
+    "word": "Hochwolz überstande",
+    "note": "probably 'Hochwohlg. übersende'"
+   },
+   {
+    "line": 5,
+    "word": "von 12 rt.",
+    "note": "probably 'vom 12. v. M.', the letter of 12 May"
+   },
+   {
+    "line": 15,
+    "word": "Fürsten von",
+    "note": "probably 'Fürst dem'"
+   },
+   {
+    "line": 16,
+    "word": "Magistel",
+    "note": "possibly 'Kaufgeld'; the editor could not tell"
+   }
+  ],
+  "read_against": "270755665514064c"
+ }
+}

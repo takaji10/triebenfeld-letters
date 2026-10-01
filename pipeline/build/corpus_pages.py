@@ -76,14 +76,33 @@ def load_sideways(path, lines, bounds):
         s, e = bounds[str(b['letter'])]
         hits = [j for j in range(s + 1, e + 1) if lines[j - 1] == b['first']]
         if len(hits) != 1:
-            sys.exit(f'sideways.yml: letter {b["letter"]}: first line found '
+            sys.exit(f'{os.path.basename(path)}: letter {b["letter"]}: first line found '
                      f'{len(hits)} times: {b["first"]!r}')
         block = range(hits[0], hits[0] + int(b['lines']))
         if block[-1] > e or any(not lines[j - 1].strip() or PAGE_TAG.match(lines[j - 1].strip())
                                 for j in block):
-            sys.exit(f'sideways.yml: letter {b["letter"]}: block of {b["lines"]} lines '
+            sys.exit(f'{os.path.basename(path)}: letter {b["letter"]}: block of {b["lines"]} lines '
                      f'runs past a page or document end: {b["first"]!r}')
         out.update(block)
+    return out
+
+
+# The kinds of text a page sets apart under a label, and the file each is
+# listed in. Both files have the same shape and are read by load_sideways().
+#   sideways  written sideways on the page (9454)
+#   office    written on the letter by the office that received it: received
+#             marks, directions for the reply, paraphs (III. HA MdA, III Nr. 12765)
+SET_APART = (('sideways', 'sideways.yml'), ('office', 'office_notes.yml'))
+
+
+def load_set_apart(unit_dir, lines, bounds):
+    """{absolute line number: kind} for every line a page sets apart."""
+    out = {}
+    for kind, fn in SET_APART:
+        for j in load_sideways(os.path.join(unit_dir, fn), lines, bounds):
+            if j in out:
+                sys.exit(f'{fn}: line {j} is already listed as {out[j]} text')
+            out[j] = kind
     return out
 
 
@@ -177,12 +196,15 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
     with continues_previous / continues_next, and the site renders such a
     paragraph without an indent so the false break does not show.
 
-    Lines in `sideways` (text written sideways on the page) always make
-    paragraphs of their own, so they never merge with the text around them;
-    `flags`, where given, receives one bool per returned paragraph saying
-    whether it is sideways text.
+    Lines in `sideways` (text the page sets apart: written sideways, or written
+    by the receiving office) always make paragraphs of their own, so they never
+    merge with the text around them. It is {line: kind}, or a plain set, which
+    means sideways text. `flags`, where given, receives one entry per returned
+    paragraph: the kind, or False.
     """
-    sideways = sideways or set()
+    sideways = sideways or {}
+    if not isinstance(sideways, dict):
+        sideways = dict.fromkeys(sideways, 'sideways')
     if flags is None:
         flags = []
     if is_register:
@@ -238,7 +260,7 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
         # A recorded paragraph break starts a new one - but never in the middle
         # of a word carried over the line end, which would put half a word in
         # one paragraph and half in the next.
-        side = lineno in sideways
+        side = sideways.get(lineno, False)
         if buf and not join_next and (lineno in paras or side != buf_side):
             out.append(re.sub(r'[ \t]+', ' ', buf).strip())
             flags.append(buf_side)
@@ -273,7 +295,9 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
     """
     out = []
     pages = split_pages(body)
-    sideways = sideways or set()
+    sideways = sideways or {}
+    if not isinstance(sideways, dict):
+        sideways = dict.fromkeys(sideways, 'sideways')
     for i, (page_id, page) in enumerate(pages, 1):
         flags = []
         paragraphs = page_reading(page, letter_id, decisions, is_register, paras,
@@ -304,12 +328,20 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
             # Text written sideways on the page (sideways.yml): which of this
             # page's lines (0-based) and which of its paragraphs. Empty for
             # almost every page.
-            'sideways_lines': [k for k, (ln, _) in enumerate(page) if ln in sideways],
-            'sideways_paragraphs': [k for k, f in enumerate(flags) if f],
+            'sideways_lines': [k for k, (ln, _) in enumerate(page)
+                               if sideways.get(ln) == 'sideways'],
+            'sideways_paragraphs': [k for k, f in enumerate(flags) if f == 'sideways'],
             'continues_previous': cont_prev,
             'continues_next': cont_next,
             'scan': '',
         })
+        # Text the receiving office wrote on the letter (office_notes.yml), in
+        # the same two forms. Present only on a page that has some, so a unit
+        # without any builds exactly as it did.
+        if any(sideways.get(ln) == 'office' for ln, _ in page):
+            out[-1]['office_lines'] = [k for k, (ln, _) in enumerate(page)
+                                       if sideways.get(ln) == 'office']
+            out[-1]['office_paragraphs'] = [k for k, f in enumerate(flags) if f == 'office']
     # A second, reader-facing line number that restarts at 1 in every document.
     #
     # `line_start` and `line_end` count from the top of the unit's corpus.txt,

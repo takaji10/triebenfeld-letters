@@ -1,0 +1,438 @@
+{
+ "letter_id": "24",
+ "seq_archival": 24,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-24",
+ "pad": "iiihamdaiiinr12765-024",
+ "permalink": "/documents/iiihamdaiiinr12765/24/",
+ "doc_type": "draft",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1816-08-10",
+ "date_precision": "day",
+ "date_source": "signature",
+ "date_display": "Berlin d 10ten August 1816",
+ "date_inferred_from": "",
+ "year": 1816,
+ "month": 8,
+ "day": 10,
+ "place": "Berlin",
+ "sender": "Ministerium der auswärtigen Angelegenheiten",
+ "recipient": "von Brehmer",
+ "line_start": 843,
+ "line_end": 879,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "23",
+   "note": "Returns the enclosures she sent on 25 July 1816."
+  }
+ ],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 35,
+ "n_pages": 1,
+ "text": "Berlin d 10ten August 1816\nAn die Verwitt: Frau Obrist v Brehmer\nHochwohlgl\nin\nSommerfeld\nden 13. zu Post.\nN 6360\nSchon durch Ewr Hochw. Zuschrift vom 26\nApril d. habe ich mich veranlast gefunden\nden Umstand, daß, da der Fürst v Hohen¬\nlohe Ingelfingen die Güter Trąbczyn\nmit Zubehör deteriorirt und mit Schulden\nbelastet habe, die hypothekarischen Gläu¬\nbiger durch die im Jahre 1807. erfolgte\nEinziehung des Guts Gefahr liefen, die\ndargeliehenen Capitalien zu verlieren\nder Königl. Gesandschaft zu Petersburg\nzu bringen, um davon bei der Unter¬\nstüzung des Entschädigungsgesuchs das Für¬\nsten Hohenlohe nach Umständen Ge¬\nbrauch zu machen. Da Seitens das\nunterzeichneten Ministerii ein Meh¬\nreres für Ewr: hoch: nicht geschehen\nkann, sondern es Ihnen vielmehr über¬\nlaßen bleiben muß, wenn des Kaisers\nvon Rußland Majestät dem Fürsten\nvon Hohenlohe eine Entschädigung zu\ngewähren geruhen sollten, Ihre et¬\nwanigen Rechte daran wahrzunehmen\nso gebe ich Ihnen die unterm 25 Juli\neingereichten Anlagen hierbey zurück\nBerlin\nM. d. a. A. 3te S.\nHoffm[ann] 12/8.\nB[alan].",
+ "text_reading": "Berlin d 10ten August 1816 An die Verwitt: Frau Obrist v Brehmer Hochwohlgl\n\nin\n\nSommerfeld\n\nden 13. zu Post.\n\nN 6360 Schon durch Ewr Hochw. Zuschrift vom 26 April d. habe ich mich veranlast gefunden den Umstand, daß, da der Fürst v Hohenlohe Ingelfingen die Güter Trąbczyn mit Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger durch die im Jahre 1807. erfolgte Einziehung des Guts Gefahr liefen, die dargeliehenen Capitalien zu verlieren der Königl. Gesandschaft zu Petersburg zu bringen, um davon bei der Unterstüzung des Entschädigungsgesuchs das Fürsten Hohenlohe nach Umständen Gebrauch zu machen. Da Seitens das unterzeichneten Ministerii ein Mehreres für Ewr: hoch: nicht geschehen kann, sondern es Ihnen vielmehr überlaßen bleiben muß, wenn des Kaisers von Rußland Majestät dem Fürsten von Hohenlohe eine Entschädigung zu gewähren geruhen sollten, Ihre etwanigen Rechte daran wahrzunehmen so gebe ich Ihnen die unterm 25 Juli eingereichten Anlagen hierbey zurück Berlin\n\nM. d. a. A. 3te S.\n\nHoffm[ann] 12/8.\n\nB[alan].",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0033_a2",
+   "line_start": 845,
+   "line_end": 879,
+   "n_lines": 35,
+   "diplomatic": "Berlin d 10ten August 1816\nAn die Verwitt: Frau Obrist v Brehmer\nHochwohlgl\nin\nSommerfeld\nden 13. zu Post.\nN 6360\nSchon durch Ewr Hochw. Zuschrift vom 26\nApril d. habe ich mich veranlast gefunden\nden Umstand, daß, da der Fürst v Hohen¬\nlohe Ingelfingen die Güter Trąbczyn\nmit Zubehör deteriorirt und mit Schulden\nbelastet habe, die hypothekarischen Gläu¬\nbiger durch die im Jahre 1807. erfolgte\nEinziehung des Guts Gefahr liefen, die\ndargeliehenen Capitalien zu verlieren\nder Königl. Gesandschaft zu Petersburg\nzu bringen, um davon bei der Unter¬\nstüzung des Entschädigungsgesuchs das Für¬\nsten Hohenlohe nach Umständen Ge¬\nbrauch zu machen. Da Seitens das\nunterzeichneten Ministerii ein Meh¬\nreres für Ewr: hoch: nicht geschehen\nkann, sondern es Ihnen vielmehr über¬\nlaßen bleiben muß, wenn des Kaisers\nvon Rußland Majestät dem Fürsten\nvon Hohenlohe eine Entschädigung zu\ngewähren geruhen sollten, Ihre et¬\nwanigen Rechte daran wahrzunehmen\nso gebe ich Ihnen die unterm 25 Juli\neingereichten Anlagen hierbey zurück\nBerlin\nM. d. a. A. 3te S.\nHoffm[ann] 12/8.\nB[alan].",
+   "transcription": "Berlin d 10ten August 1816\nAn die Verwitt: Frau Obrist v Brehmer\nHochwohlgl\nin\nSommerfeld\nden 13. zu Post.\nN 6360\nSchon durch Ewr Hochw. Zuschrift vom 26\nApril d. habe ich mich veranlast gefunden\nden Umstand, daß, da der Fürst v Hohen-\nlohe Ingelfingen die Güter Trąbczyn\nmit Zubehör deteriorirt und mit Schulden\nbelastet habe, die hypothekarischen Gläu-\nbiger durch die im Jahre 1807. erfolgte\nEinziehung des Guts Gefahr liefen, die\ndargeliehenen Capitalien zu verlieren\nder Königl. Gesandschaft zu Petersburg\nzu bringen, um davon bei der Unter-\nstüzung des Entschädigungsgesuchs das Für-\nsten Hohenlohe nach Umständen Ge-\nbrauch zu machen. Da Seitens das\nunterzeichneten Ministerii ein Meh-\nreres für Ewr: hoch: nicht geschehen\nkann, sondern es Ihnen vielmehr über-\nlaßen bleiben muß, wenn des Kaisers\nvon Rußland Majestät dem Fürsten\nvon Hohenlohe eine Entschädigung zu\ngewähren geruhen sollten, Ihre et-\nwanigen Rechte daran wahrzunehmen\nso gebe ich Ihnen die unterm 25 Juli\neingereichten Anlagen hierbey zurück\nBerlin\nM. d. a. A. 3te S.\nHoffm[ann] 12/8.\nB[alan].",
+   "reading": "Berlin d 10ten August 1816 An die Verwitt: Frau Obrist v Brehmer Hochwohlgl\n\nin\n\nSommerfeld\n\nden 13. zu Post.\n\nN 6360 Schon durch Ewr Hochw. Zuschrift vom 26 April d. habe ich mich veranlast gefunden den Umstand, daß, da der Fürst v Hohenlohe Ingelfingen die Güter Trąbczyn mit Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger durch die im Jahre 1807. erfolgte Einziehung des Guts Gefahr liefen, die dargeliehenen Capitalien zu verlieren der Königl. Gesandschaft zu Petersburg zu bringen, um davon bei der Unterstüzung des Entschädigungsgesuchs das Fürsten Hohenlohe nach Umständen Gebrauch zu machen. Da Seitens das unterzeichneten Ministerii ein Mehreres für Ewr: hoch: nicht geschehen kann, sondern es Ihnen vielmehr überlaßen bleiben muß, wenn des Kaisers von Rußland Majestät dem Fürsten von Hohenlohe eine Entschädigung zu gewähren geruhen sollten, Ihre etwanigen Rechte daran wahrzunehmen so gebe ich Ihnen die unterm 25 Juli eingereichten Anlagen hierbey zurück Berlin\n\nM. d. a. A. 3te S.\n\nHoffm[ann] 12/8.\n\nB[alan].",
+   "paragraphs": [
+    "Berlin d 10ten August 1816 An die Verwitt: Frau Obrist v Brehmer Hochwohlgl",
+    "in",
+    "Sommerfeld",
+    "den 13. zu Post.",
+    "N 6360 Schon durch Ewr Hochw. Zuschrift vom 26 April d. habe ich mich veranlast gefunden den Umstand, daß, da der Fürst v Hohenlohe Ingelfingen die Güter Trąbczyn mit Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger durch die im Jahre 1807. erfolgte Einziehung des Guts Gefahr liefen, die dargeliehenen Capitalien zu verlieren der Königl. Gesandschaft zu Petersburg zu bringen, um davon bei der Unterstüzung des Entschädigungsgesuchs das Fürsten Hohenlohe nach Umständen Gebrauch zu machen. Da Seitens das unterzeichneten Ministerii ein Mehreres für Ewr: hoch: nicht geschehen kann, sondern es Ihnen vielmehr überlaßen bleiben muß, wenn des Kaisers von Rußland Majestät dem Fürsten von Hohenlohe eine Entschädigung zu gewähren geruhen sollten, Ihre etwanigen Rechte daran wahrzunehmen so gebe ich Ihnen die unterm 25 Juli eingereichten Anlagen hierbey zurück Berlin",
+    "M. d. a. A. 3te S.",
+    "Hoffm[ann] 12/8.",
+    "B[alan]."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 35
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "brehmer",
+   "display": "von Brehmer",
+   "kind": "person",
+   "surface": "Brehmer",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 846,
+   "doc_line": 2
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 854,
+   "doc_line": 10
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 864,
+   "doc_line": 20
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 871,
+   "doc_line": 27
+  },
+  {
+   "entity": "hoffmann-legationsrath",
+   "display": "Hoffmann",
+   "kind": "person",
+   "surface": "Hoffm[ann]",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 878,
+   "doc_line": 34
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface": "B[alan]",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 879,
+   "doc_line": 35
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mrs von Brehmer",
+   "kind": "person",
+   "surface_de": "Frau Obrist v Brehmer",
+   "surface_en": "Mrs von Brehmer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sommerfeld",
+   "kind": "place",
+   "surface_de": "Sommerfeld",
+   "surface_en": "Sommerfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürst v Hohenlohe Ingelfingen",
+   "surface_en": "the Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten Hohenlohe",
+   "surface_en": "the Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "hoffmann-legationsrath",
+   "display": "Hoffmann",
+   "kind": "person",
+   "surface_de": "Hoffm[ann]",
+   "surface_en": "Hoffm[ann]",
+   "page": 1
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface_de": "B[alan]",
+   "surface_en": "B[alan]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ministry of Foreign Affairs, 3rd Section",
+   "kind": "other",
+   "surface_de": "M. d. a. A. 3te S.",
+   "surface_en": "Ministry of Foreign Affairs, 3rd Section",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 845,
+   "doc_line": 1
+  },
+  {
+   "entity": "sommerfeld",
+   "display": "Sommerfeld",
+   "kind": "place",
+   "surface": "Sommerfeld",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 849,
+   "doc_line": 5
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 855,
+   "doc_line": 11
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 855,
+   "doc_line": 11
+  },
+  {
+   "entity": "st-petersburg",
+   "display": "St Petersburg",
+   "kind": "place",
+   "surface": "Petersburg",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 861,
+   "doc_line": 17
+  },
+  {
+   "entity": "russland",
+   "display": "Russland",
+   "kind": "place",
+   "surface": "Rußland",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 870,
+   "doc_line": 26
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0033_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+   "line": 876,
+   "doc_line": 32
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Berlin, 10 August 1816. To the widow of Colonel von Brehmer, Right Honourable,\n\nin\n\nSommerfeld\n\nthe 13th, to the post.\n\nNo. 6360. Already upon Your Right Honourable's letter of 26 April of this year I found occasion to bring before the Royal Legation at Petersburg the circumstance that, since the Prince of Hohenlohe-Ingelfingen had allowed the estates of Trąbczyn with appurtenances to deteriorate and had burdened them with debts, the mortgage creditors stood in danger, through the confiscation of the estate which took place in the year 1807, of losing the capitals they had lent, so that use might be made of it, as circumstances allow, in supporting the compensation petition of the Prince of Hohenlohe. Since nothing further can be done on the part of the undersigned Ministry for Your Right Honourable, but it must rather be left to you, should His Majesty the Emperor of Russia be pleased to grant the Prince of Hohenlohe a compensation, to look after whatever rights you may have therein, I herewith return to you the enclosures submitted on the 25th of July. Berlin\n\nMinistry of Foreign Affairs, 3rd Section.\n\nHoffm[ann], 12/8.\n\nB[alan].",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frau Obrist v Brehmer",
+     "en": "Mrs von Brehmer",
+     "kind": "person"
+    },
+    {
+     "de": "Sommerfeld",
+     "en": "Sommerfeld",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst v Hohenlohe Ingelfingen",
+     "en": "the Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten Hohenlohe",
+     "en": "the Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Hoffm[ann]",
+     "en": "Hoffm[ann]",
+     "kind": "person"
+    },
+    {
+     "de": "B[alan]",
+     "en": "B[alan]",
+     "kind": "person"
+    },
+    {
+     "de": "M. d. a. A. 3te S.",
+     "en": "Ministry of Foreign Affairs, 3rd Section",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "10",
+    "13",
+    "6360",
+    "26",
+    "1807",
+    "25",
+    "12/8"
+   ]
+  }
+ ],
+ "text_english": "Berlin, 10 August 1816. To the widow of Colonel von Brehmer, Right Honourable,\n\nin\n\nSommerfeld\n\nthe 13th, to the post.\n\nNo. 6360. Already upon Your Right Honourable's letter of 26 April of this year I found occasion to bring before the Royal Legation at Petersburg the circumstance that, since the Prince of Hohenlohe-Ingelfingen had allowed the estates of Trąbczyn with appurtenances to deteriorate and had burdened them with debts, the mortgage creditors stood in danger, through the confiscation of the estate which took place in the year 1807, of losing the capitals they had lent, so that use might be made of it, as circumstances allow, in supporting the compensation petition of the Prince of Hohenlohe. Since nothing further can be done on the part of the undersigned Ministry for Your Right Honourable, but it must rather be left to you, should His Majesty the Emperor of Russia be pleased to grant the Prince of Hohenlohe a compensation, to look after whatever rights you may have therein, I herewith return to you the enclosures submitted on the 25th of July. Berlin\n\nMinistry of Foreign Affairs, 3rd Section.\n\nHoffm[ann], 12/8.\n\nB[alan].",
+ "summary_en": "Draft of a reply to the widow Brehmer: the ministry says it has already informed the legation at St Petersburg that the mortgage creditors are in danger of losing their capital. It says it can do no more for her; she must look after her own rights herself should the Emperor grant the Prince compensation. The enclosures submitted on 25 July are returned.",
+ "summary_de": "Entwurf einer Antwort an die Witwe von Brehmer: Das Ministerium habe der Gesandtschaft zu Petersburg bereits mitgeteilt, dass die hypothekarischen Gläubiger Gefahr laufen, ihre Kapitalien zu verlieren. Mehr könne es für sie nicht tun; sie müsse ihre Rechte selbst wahrnehmen, falls der Kaiser dem Fürsten eine Entschädigung gewährt. Die am 25. Juli eingereichten Anlagen gehen zurück.",
+ "reading": {
+  "letter": "24",
+  "legibility": "partly garbled",
+  "notes": "Draft to the widow von Brehmer, Berlin, 10 August 1816 (posted on the 13th), from the third section; paraphs of Hoffmann (12 August) and Balan. Already on her letter of 26 April the ministry told the legation at Petersburg that the mortgage creditors risk losing their capital, for use when supporting the Prince's request. As the ministry can do no more for her, and she must herself look to her rights if the Emperor grants the Prince compensation, the papers she sent on 25 July are returned.",
+  "claims": [
+   {
+    "statement": "Das Ministerium hat der Gesandtschaft zu Petersburg bereits mitgeteilt, dass die hypothekarischen Gläubiger Gefahr laufen, ihre Kapitalien zu verlieren, um davon bei der Unterstützung des Gesuchs Gebrauch zu machen",
+    "lines": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ]
+   },
+   {
+    "statement": "Mehr könne das Ministerium für sie nicht tun; sie müsse ihre Rechte selbst wahrnehmen, falls der Kaiser dem Fürsten eine Entschädigung gewährt; die am 25. Juli eingereichten Anlagen gehen zurück",
+    "lines": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 19,
+    "word": "das Für¬",
+    "note": "'des Fürsten'"
+   }
+  ],
+  "read_against": "7cb1ab65365e2f8e"
+ }
+}

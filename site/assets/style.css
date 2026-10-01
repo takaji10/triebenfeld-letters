@@ -298,7 +298,8 @@ ol.dip li::marker {
 
 /* Text written sideways on the page (units/<slug>/sideways.yml): set apart
    under a label so it does not read as if it ran on in order with the lines
-   around it. The line numbering carries straight through. */
+   around it. The line numbering carries straight through. Text the receiving
+   office wrote on a letter (office_notes.yml) is set apart the same way. */
 .sideways { border-left: 3px solid var(--rule); padding-left: .8em; margin: .6em 0; }
 .sideways-note { font-family: var(--sans); font-size: .8em; font-style: italic; color: var(--ink-soft); }
 .sideways ol.dip { margin-top: .2em; margin-bottom: 0; }

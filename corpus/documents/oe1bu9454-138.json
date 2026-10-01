@@ -119,7 +119,72 @@
    "doc_line": 26
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigſter Fürſt",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "v. Broniewskische",
+   "surface_en": "Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Triebenfeld",
+   "kind": "person",
+   "surface_de": "H v Triebenfeld",
+   "surface_en": "Mr von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolno",
+   "surface_en": "Kolno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Ber[lin]",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -167,9 +232,71 @@
    "doc_line": 24
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "138\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the Broniewski matter the renewed first attempt at the deposition has [uncertain: come to nothing], as Your Most Serene Highness will be pleased to see from the [uncertain: enclosed] resolution of 25 June.\n\nI did not [uncertain: delay] to apply once more every [uncertain: exertion] in order to [uncertain: succeed]. Mr von Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, also deposit a caution, merely in order to come into possession of the estates. This I have [uncertain: offered]; it is fixed[?] at 10000 rthl., and upon this the order as drawn up has been taken into account, and the deposition as well as the [uncertain: clearing] of Kolno and Kamionna has been enjoined upon the Government",
+   "names": [
+    {
+     "de": "Durchlauchtigſter Fürſt",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "v. Broniewskische",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "H v Triebenfeld",
+     "en": "Mr von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kolno",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "138",
+    "25",
+    "10000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "at Poznań. I do not doubt that this order will be agreeable to Your Most Serene Highness, and in that expectation, when I with [uncertain: reverence] and devotion\n\nYour Most Serene Highness's Berlin, 3 July 1804 humble and obedient servant Amelang",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Ber[lin]",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "138\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nIn the Broniewski matter the renewed first attempt at the deposition has [uncertain: come to nothing], as Your Most Serene Highness will be pleased to see from the [uncertain: enclosed] resolution of 25 June.\n\nI did not [uncertain: delay] to apply once more every [uncertain: exertion] in order to [uncertain: succeed]. Mr von Triebenfeld had [uncertain: told] me that Your Most Serene Highness would, if need be, also deposit a caution, merely in order to come into possession of the estates. This I have [uncertain: offered]; it is fixed[?] at 10000 rthl., and upon this the order as drawn up has been taken into account, and the deposition as well as the [uncertain: clearing] of Kolno and Kamionna has been enjoined upon the Government\n\nat Poznań. I do not doubt that this order will be agreeable to Your Most Serene Highness, and in that expectation, when I with [uncertain: reverence] and devotion\n\nYour Most Serene Highness's Berlin, 3 July 1804 humble and obedient servant Amelang",
  "summary_en": "",
  "summary_de": "Amelang meldet zur Broniewski-Sache, dass die Deposition nun angeordnet ist. Nach Auskunft v. Triebenfelds wolle der Fürst eine Caution mit deponieren, um in den Besitz der Güter zu gelangen. Amelang hat diese Caution von 10000 Rthl angeboten. Daraufhin wurden der Regierung zu Poznań die Deposition und eine Verfügung zu Kolno und Kamionna anbefohlen. Zum ersten Depositionsversuch verweist er auf eine Resolution vom 25 Juny. Er erwartet, dass dem Fürsten die Verfügung angenehm ist.",
  "reading": {

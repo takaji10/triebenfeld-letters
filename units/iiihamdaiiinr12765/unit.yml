@@ -1,0 +1,86 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: iiihamdaiiinr12765
+ref: III. HA MdA, III Nr. 12765
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  Acta betr: Ein Entschädigungs Gesuch des Fürsten zu Hohenlohe wegen der Güter
+  Trąbczyn im Kalischer Departement - the foreign ministry's file on the
+  Prince's claim for compensation for Trąbczyn
+# The first piece is of 25 October 1814 (enclosing a copy of 14 May 1814), the
+# last of 19 May 1820, docketed 30 May.
+date_span: 1814-1820
+status: translated             # draft | transcribed | translated | published
+
+# The translation generation this holding was published from; pass --tag v2
+# to every translation tool.
+published_tag: v2
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 46 scans, each an opening of the file photographed flat (the cover, 0001, is
+# a single page). Nine are blank and left out, having no transcription: 0002,
+# 0009, 0017, 0024, 0034, 0035, 0038, 0045, 0046. The other 37 were copied
+# unchanged into raw_dir/processed/ as <capture>_a.jpg and cut at the fold
+# where the editor placed it (review_folds.py); only a written side is a page.
+# `_a1` is the left side of an opening, `_a2` the right. Eleven openings are
+# written on both sides, 22 on the right only, 3 on the left only.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Claims of Hohenlohe on Trabczyn (III. HA MdA, III Nr. 12765)
+  raw_glob: III_HA_MdA_III_Nr_12765_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: III_HA_MdA_III_Nr_12765
+
+# One file per page, named by page id (0012_a1.txt). Made from the editor's
+# one-file-per-scan transcriptions by intake/build_pages.py, which records
+# which source lines went where.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  The Prussian foreign ministry's file on the Prince of Hohenlohe-Ingelfingen's
+  claim to be compensated for the Trąbczyn estates, which a Polish commission
+  took from him in 1807 and gave back to the heiress of their former owner. It
+  opens at the Congress of Vienna, where Triebenfeld and then the Prince
+  himself petition the State Chancellor Hardenberg and Baron vom Stein, and the
+  chancery drafts its replies on the petitions themselves. Zerboni di Sposetti
+  reports from Poznań in November 1815 that the claim is worth little; in 1816
+  the ministry has its envoy in St Petersburg, General von Schöler, raise it
+  with the Russian court as a matter of grace, a creditor of the Prince asks to
+  be remembered if anything is paid, and the Russian ministry refuses. In 1820,
+  after the Prince's death, his heirs try again through Duke Eugen of
+  Württemberg and are refused again, together with Count Bethusy, whose request
+  for free passage between his Silesian and Polish estates gives the file its
+  last pages. Thirty documents: the incoming letters are originals, the
+  ministry's own letters are its drafts.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file. Incoming letters are originals; the ministry's replies are
+  hurried drafts in a chancery hand, heavily abbreviated and poorly read by the
+  transcriber, so a garbled passage in a draft is a reading failure, not the
+  writer's German. Drafts carry registry marks that are not prose: journal
+  numbers (No. 3205), "mund." (fair copy made), "abg." (sent), "zur Post",
+  "pr." (received), "cessat" (cancelled), "N. S. D." (Namens Seiner
+  Durchlaucht, in His Serene Highness's name), "ad acta", and initials with a
+  day and month, which are officials' paraphs. Several documents are in French:
+  the Prince's letter of 12 April 1815, the chancery's replies of May 1815, the
+  Russian envoy's note of 31 January 1820 and the copy of Prince Zajączek's
+  report. The French pages are transcribed by paragraph, not line by line. Text
+  that the receiving office wrote on an incoming letter stands at the end of
+  that page and is not part of the letter.

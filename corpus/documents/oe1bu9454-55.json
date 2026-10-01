@@ -375,7 +375,504 @@
    "doc_line": 117
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kłodzko",
+   "kind": "place",
+   "surface_de": "Glatz",
+   "surface_en": "Kłodzko",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rho[uncertain: ]ens",
+   "kind": "person",
+   "surface_de": "Rho[?]ens",
+   "surface_en": "Rho[uncertain: ]ens",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "goetzen",
+   "display": "Graf Götzen",
+   "kind": "person",
+   "surface_de": "Graf Götzen",
+   "surface_en": "Count Götzen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Colonna",
+   "kind": "person",
+   "surface_de": "Colonna",
+   "surface_en": "Colonna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Colonna",
+   "kind": "person",
+   "surface_de": "Colonnasche",
+   "surface_en": "Colonna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Court Councillor Hahn",
+   "kind": "person",
+   "surface_de": "Hoffrath Hahn",
+   "surface_en": "Court Councillor Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Teichulman",
+   "kind": "person",
+   "surface_de": "Teichulman",
+   "surface_en": "Teichulman",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gratschreiber",
+   "kind": "person",
+   "surface_de": "Gratschreiber",
+   "surface_en": "Gratschreiber",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Reibnitz",
+   "kind": "person",
+   "surface_de": "Reibnitz",
+   "surface_en": "Reibnitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gastheim",
+   "kind": "person",
+   "surface_de": "Gastheim",
+   "surface_en": "Gastheim",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Colonna",
+   "kind": "person",
+   "surface_de": "Colonna",
+   "surface_en": "Colonna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bardthe",
+   "kind": "person",
+   "surface_de": "Bardthe",
+   "surface_en": "Bardthe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the postmaster Schulz",
+   "kind": "person",
+   "surface_de": "PostMeister Schulz",
+   "surface_en": "the postmaster Schulz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Strelitz",
+   "kind": "place",
+   "surface_de": "Strelitz",
+   "surface_en": "Strelitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "E.",
+   "kind": "person",
+   "surface_de": "Der E.",
+   "surface_en": "E.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bardtke",
+   "kind": "person",
+   "surface_de": "Bardtke",
+   "surface_en": "Bardtke",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Countess Henckel",
+   "kind": "person",
+   "surface_de": "die Gräfin Henckel",
+   "surface_en": "Countess Henckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schimanowitz",
+   "kind": "place",
+   "surface_de": "Schimanowitz",
+   "surface_en": "Schimanowitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Princess Sacken",
+   "kind": "person",
+   "surface_de": "der Fürſtin Sacken",
+   "surface_en": "the Princess Sacken",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Henckel",
+   "kind": "other",
+   "surface_de": "Henckelsche",
+   "surface_en": "Henckel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Harraszowski",
+   "kind": "person",
+   "surface_de": "Harraszowski",
+   "surface_en": "Harraszowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Colonna",
+   "kind": "person",
+   "surface_de": "Colonnaſchen",
+   "surface_en": "Colonna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Götzen",
+   "kind": "person",
+   "surface_de": "Der Graf Götzen",
+   "surface_en": "Count Götzen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Götzen",
+   "kind": "person",
+   "surface_de": "Gr. Götzen",
+   "surface_en": "Count Götzen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Wratislaw",
+   "kind": "person",
+   "surface_de": "der Gräf Wratislaw",
+   "surface_en": "Count Wratislaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bruna",
+   "kind": "place",
+   "surface_de": "Bruna",
+   "surface_en": "Bruna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Gastheim",
+   "kind": "person",
+   "surface_de": "Gastheim",
+   "surface_en": "Gastheim",
+   "page": 2
+  },
+  {
+   "entity": "wratislaw",
+   "display": "Wratislaw",
+   "kind": "person",
+   "surface_de": "Wratislaw",
+   "surface_en": "Wratislaw",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Gastheim",
+   "kind": "person",
+   "surface_de": "Gastheim",
+   "surface_en": "Gastheim",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Reibnitz",
+   "kind": "person",
+   "surface_de": "Reibnitz",
+   "surface_en": "Reibnitz",
+   "page": 3
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Gebühter",
+   "kind": "person",
+   "surface_de": "Gebühter",
+   "surface_en": "Gebühter",
+   "page": 3
+  },
+  {
+   "entity": "goetzen",
+   "display": "Graf Götzen",
+   "kind": "person",
+   "surface_de": "Graf Götzen",
+   "surface_en": "Count Götzen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kłodzko",
+   "kind": "place",
+   "surface_de": "Glatz",
+   "surface_en": "Kłodzko",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Legnica",
+   "kind": "place",
+   "surface_de": "Liegnitz",
+   "surface_en": "Legnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Öſterreich",
+   "surface_en": "Austria",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Austrian",
+   "kind": "place",
+   "surface_de": "Öſt.",
+   "surface_en": "Austrian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Elbe",
+   "kind": "place",
+   "surface_de": "Elbe",
+   "surface_en": "Elbe",
+   "page": 3
+  },
+  {
+   "entity": "ruechel",
+   "display": "General Rüchel",
+   "kind": "person",
+   "surface_de": "Rüchel",
+   "surface_en": "Rüchel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Cossar",
+   "kind": "place",
+   "surface_de": "Cossar",
+   "surface_en": "Cossar",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Krosno Odrzańskie",
+   "kind": "place",
+   "surface_de": "Crossen",
+   "surface_en": "Krosno Odrzańskie",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr von Massow",
+   "kind": "person",
+   "surface_de": "v Massow",
+   "surface_en": "Mr von Massow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Count Dohna",
+   "kind": "person",
+   "surface_de": "Graf Dohna",
+   "surface_en": "Count Dohna",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "the councillor of war Merckel",
+   "kind": "person",
+   "surface_de": "Krieges Rath Merckel",
+   "surface_en": "the councillor of war Merckel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 4
+  },
+  {
+   "entity": "massow",
+   "display": "Massow",
+   "kind": "person",
+   "surface_de": "Massow",
+   "surface_en": "Massow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Geil",
+   "kind": "person",
+   "surface_de": "Geil",
+   "surface_en": "Geil",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ign.",
+   "kind": "person",
+   "surface_de": "Jgn.",
+   "surface_en": "Ign.",
+   "page": 4
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hard:",
+   "surface_en": "Hard:",
+   "page": 4
+  },
+  {
+   "entity": "bethusy",
+   "display": "Bethusy",
+   "kind": "person",
+   "surface_de": "Bethusy",
+   "surface_en": "Bethusy",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Matzdorff",
+   "kind": "place",
+   "surface_de": "Matzdorff",
+   "surface_en": "Matzdorff",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -544,9 +1041,377 @@
    "doc_line": 113
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "55\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAt this very moment, as I return from Kłodzko, I find before me Your Most Serene Highness's two letters of the 7th and 9th of this month together with their enclosures — that van der Lahr is now attacking me here as well, Your Most Serene Highness will have seen from Rho[uncertain: ]ens's letter — what I suffer thereby only You Yourself, with the most [uncertain: gentle] feelings peculiar to You, can feel. — Meanwhile this pond too will be drained — if only the 1000 Centner of iron were soon at Konotop. The securities are falling greatly now and this adds to my distress; in the meantime this [uncertain: ſniken] shows Your Serene Highness, as well as myself, a happy future, if only I have got these cares out of the way, for then what now seems little to us will afterwards yield us threefold gain.\n\nCount Götzen commends himself to Your favour, rejoices over the Colonna affair and can himself give evidence — that Colonna told him he had adopted the Queen as his daughter and bequeathed to her his whole property save for a few legacies — For the rest, Court Councillor Hahn is right when he says the will is not legal enough for the Queen to take up the inheritance — But in the judgement of a [uncertain: Klagen] friend at law the [uncertain: Karten] can easily be cut through, and this shall be my business. Should meanwhile the [uncertain: Teichulman] confess the suppression of the original will, then all quarrels would be settled — that a will in the Queen's favour has existed is known to many people; even [uncertain: Gratschreiber] recounted publicly here some three weeks ago — that Reibnitz and the councillors of government in Brzeg ought all to be hanged, for having delivered the inheritance over to unlawful heirs. He alone would lay an egg in the Gastheim's nest which should bring forth a birth that would gnaw everything away from him — There exists a will of which he alone knew where it was.",
+   "names": [
+    {
+     "de": "Glatz",
+     "en": "Kłodzko",
+     "kind": "place"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Rho[?]ens",
+     "en": "Rho[uncertain: ]ens",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Graf Götzen",
+     "en": "Count Götzen",
+     "kind": "person"
+    },
+    {
+     "de": "Colonna",
+     "en": "Colonna",
+     "kind": "person"
+    },
+    {
+     "de": "Colonnasche",
+     "en": "Colonna",
+     "kind": "person"
+    },
+    {
+     "de": "Hoffrath Hahn",
+     "en": "Court Councillor Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Teichulman",
+     "en": "Teichulman",
+     "kind": "person"
+    },
+    {
+     "de": "Gratschreiber",
+     "en": "Gratschreiber",
+     "kind": "person"
+    },
+    {
+     "de": "Reibnitz",
+     "en": "Reibnitz",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Gastheim",
+     "en": "Gastheim",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "55",
+    "7",
+    "9",
+    "1000",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Meanwhile, Your Serene Highness has the 100000 Rthl bequeathed or lodged to You as good as in [uncertain: hand], for according to the Landrecht\n\nthere stands § 165, Tit. XII, Pt. I, almost: \"Legacies which probably, or according to the testator's assurance, do not exceed the twentieth part of the estate may be ordered by codicils written and signed in the testator's own hand, without judicial delivery.\" Now since Your 10000 Rthl, as well as the other legacies, exceed hardly the 20th, indeed hardly the 30th part, nothing at all any longer stands in Your way, Most gracious Prince and Lord, because 20 witnesses acknowledge and will swear to Colonna's signature. One might, had the stupid Bardthe not let himself be frightened out of his wits and renounced his 50000 Rthl, have made a handsome profit. I do not even now give up the notion — If You, Most gracious Prince and Lord, guess it, keep it as the deepest secret until I come back. I beg this most earnestly — As for the postmaster Schulz in Strelitz, I hold the fellow to be a windbag. E. maintained that the anonymous letter was from Bardtke and that the letter was in his hand — That is not true; Countess Henckel of Schimanowitz wrote the letter and sent everything to the Princess Sacken. It is the Henckel arms and the Countess's own hand — She had the papers from young Harraszowski, who is much in her house and gladly seen by her. As a kinswoman she had very much counted on a share of the Colonna estate — Now she means to avenge herself — Many further items of intelligence are said to be drawn from this source. May You, Most gracious Prince and Lord, be pleased to satisfy Yourself that I am more fortunate in discovery than You — I am also certain that I shall bring everything to the desired end. Only one matter disquiets me. Count Götzen wishes very much that this inheritance business should not be pursued just now with too great vehemence, because thereby Count Wratislaw — who with the Archbishop of / I believe Bruna / can do anything with the Emperor, and leads him quite according to our will — might be embittered, and could become harmful to the great cause. Count Götzen begs that the inheritance affair be held back a few weeks more, until it is first known what party our [uncertain: Höst] will take. He finds it right that it must soon be reported to the Queen, but he counsels all caution, until the matter can be brought before the public with éclat.\n\nI have now made the proposal — the Queen takes the estates, which reckoned at 4 per cent are worth some 3 millions — and which the Gastheim were to have — If Wratislaw can accomplish so much",
+   "names": [
+    {
+     "de": "Colonna",
+     "en": "Colonna",
+     "kind": "person"
+    },
+    {
+     "de": "Bardthe",
+     "en": "Bardthe",
+     "kind": "person"
+    },
+    {
+     "de": "PostMeister Schulz",
+     "en": "the postmaster Schulz",
+     "kind": "person"
+    },
+    {
+     "de": "Strelitz",
+     "en": "Strelitz",
+     "kind": "place"
+    },
+    {
+     "de": "Der E.",
+     "en": "E.",
+     "kind": "person"
+    },
+    {
+     "de": "Bardtke",
+     "en": "Bardtke",
+     "kind": "person"
+    },
+    {
+     "de": "die Gräfin Henckel",
+     "en": "Countess Henckel",
+     "kind": "person"
+    },
+    {
+     "de": "Schimanowitz",
+     "en": "Schimanowitz",
+     "kind": "place"
+    },
+    {
+     "de": "der Fürſtin Sacken",
+     "en": "the Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Henckelsche",
+     "en": "Henckel",
+     "kind": "other"
+    },
+    {
+     "de": "Harraszowski",
+     "en": "Harraszowski",
+     "kind": "person"
+    },
+    {
+     "de": "Colonnaſchen",
+     "en": "Colonna",
+     "kind": "person"
+    },
+    {
+     "de": "Der Graf Götzen",
+     "en": "Count Götzen",
+     "kind": "person"
+    },
+    {
+     "de": "Gr. Götzen",
+     "en": "Count Götzen",
+     "kind": "person"
+    },
+    {
+     "de": "der Gräf Wratislaw",
+     "en": "Count Wratislaw",
+     "kind": "person"
+    },
+    {
+     "de": "Bruna",
+     "en": "Bruna",
+     "kind": "place"
+    },
+    {
+     "de": "Gastheim",
+     "en": "Gastheim",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100000",
+    "165",
+    "XII",
+    "I",
+    "10000",
+    "20",
+    "20",
+    "30",
+    "20",
+    "50000",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "then one leaves him the money, out of which the legacies must still be settled. In that way everything would be disposed of, Wratislaw not only pacified, but he would have to regard it as a favour of the Queen that she left him some 600000 in cash. Estates and stocks the Gastheim would have to restore, and Reibnitz, Gärtner and Gebühter likewise to give back the 150000 Rthl.\n\nI have drawn up for Count Götzen a letter to the Queen, in which he congratulates her on the inheritance, and for the rest communicates to her his apprehensions concerning Wratislaw, and makes the aforesaid proposal. He therein proposes that the Queen might submit his proposal to Your Serene Highness's examination, because Your Highness, there, through Your Lord Brother and other acquaintances, could have the sentiments of the great men sitting at the Austrian helm precisely explored in this matter. Count Götzen has promised me to send this letter tomorrow by orderly; I met him yesterday morning already below Kłodzko, where he was hastening to Legnica to investigate an Excellency and to dispose of a matter which might be of favourable consequence. As soon as I have the letter from the Count I shall set off, provided with all weapons, for Königsberg — Heaven grant only that the iron arrives at Konotop at the right time, otherwise I should have to lie idle like a dismounted [uncertain: Lauvun] and let van der Lahr's hirelings keep watch on me; political news here is of many kinds — the war between France and Austria is declared; on our side the intention is / as I have from sure sources / to watch the game until the Austrian troops stand on the Elbe, and then the further payment of the contribution will first be refused, and further declarations made. Without exciting [uncertain: Brint], the organising of the [uncertain: Armen] is going forward with us; until a side has been taken, however, one is to proceed very cautiously. Today it is said here generally that Rüchel, if the King takes part in the war, is to have the command in Silesia — He has arrived at his sister-in-law's at Cossar below Krosno Odrzańskie, where he will remain in secret until he receives the orders from the King, upon which he will at once travel round all the fortresses in Silesia and the frontiers.\n\nAn officer who served under his regiment is with him at Cossar, and has now arrived here, who has trumpeted out this news — for the honour of humanity I am unwilling to believe these ravings",
+   "names": [
+    {
+     "de": "Wratislaw",
+     "en": "Wratislaw",
+     "kind": "person"
+    },
+    {
+     "de": "Gastheim",
+     "en": "Gastheim",
+     "kind": "person"
+    },
+    {
+     "de": "Reibnitz",
+     "en": "Reibnitz",
+     "kind": "person"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Gebühter",
+     "en": "Gebühter",
+     "kind": "person"
+    },
+    {
+     "de": "Graf Götzen",
+     "en": "Count Götzen",
+     "kind": "person"
+    },
+    {
+     "de": "Glatz",
+     "en": "Kłodzko",
+     "kind": "place"
+    },
+    {
+     "de": "Liegnitz",
+     "en": "Legnica",
+     "kind": "place"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Öſterreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Öſt.",
+     "en": "Austrian",
+     "kind": "place"
+    },
+    {
+     "de": "Elbe",
+     "en": "Elbe",
+     "kind": "place"
+    },
+    {
+     "de": "Rüchel",
+     "en": "Rüchel",
+     "kind": "person"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Cossar",
+     "en": "Cossar",
+     "kind": "place"
+    },
+    {
+     "de": "Crossen",
+     "en": "Krosno Odrzańskie",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "600000",
+    "150000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "Mr von Massow has, four weeks ago, again written asking for his discharge, because he has been so restricted and subordinated to Count Dohna that he cannot even issue a pass for relay horses — And as the councillor of war Merckel, who returned from Königsberg the day before yesterday, assures me, Massow will receive his discharge with the remark — that he must meanwhile continue to serve until another subject qualified for this post has been found. If Geil and Ign. do not raise too strong a dam, the hope of seeing Hard: here may be revived afresh. In deepest reverence I remain, until death, Your Most Serene Highness's. Bethusy lies very ill at Matzdorff; I have meanwhile sent to him and asked him whether he will follow after me to Konotop — I await his answer — Upon all his estates there lie some 500000 Rthl of debts — But they are said to be worth, as between brothers, 1 million Rthl — that, however, requires a sensible inquiry.\n\nWrocław\n\nthe 12th of April\n\n1809.\n\nmost faithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "v Massow",
+     "en": "Mr von Massow",
+     "kind": "person"
+    },
+    {
+     "de": "Graf Dohna",
+     "en": "Count Dohna",
+     "kind": "person"
+    },
+    {
+     "de": "Krieges Rath Merckel",
+     "en": "the councillor of war Merckel",
+     "kind": "person"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Massow",
+     "en": "Massow",
+     "kind": "person"
+    },
+    {
+     "de": "Geil",
+     "en": "Geil",
+     "kind": "person"
+    },
+    {
+     "de": "Jgn.",
+     "en": "Ign.",
+     "kind": "person"
+    },
+    {
+     "de": "Hard:",
+     "en": "Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "Bethusy",
+     "en": "Bethusy",
+     "kind": "person"
+    },
+    {
+     "de": "Matzdorff",
+     "en": "Matzdorff",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4",
+    "500000",
+    "1",
+    "12",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "55\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nAt this very moment, as I return from Kłodzko, I find before me Your Most Serene Highness's two letters of the 7th and 9th of this month together with their enclosures — that van der Lahr is now attacking me here as well, Your Most Serene Highness will have seen from Rho[uncertain: ]ens's letter — what I suffer thereby only You Yourself, with the most [uncertain: gentle] feelings peculiar to You, can feel. — Meanwhile this pond too will be drained — if only the 1000 Centner of iron were soon at Konotop. The securities are falling greatly now and this adds to my distress; in the meantime this [uncertain: ſniken] shows Your Serene Highness, as well as myself, a happy future, if only I have got these cares out of the way, for then what now seems little to us will afterwards yield us threefold gain.\n\nCount Götzen commends himself to Your favour, rejoices over the Colonna affair and can himself give evidence — that Colonna told him he had adopted the Queen as his daughter and bequeathed to her his whole property save for a few legacies — For the rest, Court Councillor Hahn is right when he says the will is not legal enough for the Queen to take up the inheritance — But in the judgement of a [uncertain: Klagen] friend at law the [uncertain: Karten] can easily be cut through, and this shall be my business. Should meanwhile the [uncertain: Teichulman] confess the suppression of the original will, then all quarrels would be settled — that a will in the Queen's favour has existed is known to many people; even [uncertain: Gratschreiber] recounted publicly here some three weeks ago — that Reibnitz and the councillors of government in Brzeg ought all to be hanged, for having delivered the inheritance over to unlawful heirs. He alone would lay an egg in the Gastheim's nest which should bring forth a birth that would gnaw everything away from him — There exists a will of which he alone knew where it was.\n\nMeanwhile, Your Serene Highness has the 100000 Rthl bequeathed or lodged to You as good as in [uncertain: hand], for according to the Landrecht\n\nthere stands § 165, Tit. XII, Pt. I, almost: \"Legacies which probably, or according to the testator's assurance, do not exceed the twentieth part of the estate may be ordered by codicils written and signed in the testator's own hand, without judicial delivery.\" Now since Your 10000 Rthl, as well as the other legacies, exceed hardly the 20th, indeed hardly the 30th part, nothing at all any longer stands in Your way, Most gracious Prince and Lord, because 20 witnesses acknowledge and will swear to Colonna's signature. One might, had the stupid Bardthe not let himself be frightened out of his wits and renounced his 50000 Rthl, have made a handsome profit. I do not even now give up the notion — If You, Most gracious Prince and Lord, guess it, keep it as the deepest secret until I come back. I beg this most earnestly — As for the postmaster Schulz in Strelitz, I hold the fellow to be a windbag. E. maintained that the anonymous letter was from Bardtke and that the letter was in his hand — That is not true; Countess Henckel of Schimanowitz wrote the letter and sent everything to the Princess Sacken. It is the Henckel arms and the Countess's own hand — She had the papers from young Harraszowski, who is much in her house and gladly seen by her. As a kinswoman she had very much counted on a share of the Colonna estate — Now she means to avenge herself — Many further items of intelligence are said to be drawn from this source. May You, Most gracious Prince and Lord, be pleased to satisfy Yourself that I am more fortunate in discovery than You — I am also certain that I shall bring everything to the desired end. Only one matter disquiets me. Count Götzen wishes very much that this inheritance business should not be pursued just now with too great vehemence, because thereby Count Wratislaw — who with the Archbishop of / I believe Bruna / can do anything with the Emperor, and leads him quite according to our will — might be embittered, and could become harmful to the great cause. Count Götzen begs that the inheritance affair be held back a few weeks more, until it is first known what party our [uncertain: Höst] will take. He finds it right that it must soon be reported to the Queen, but he counsels all caution, until the matter can be brought before the public with éclat.\n\nI have now made the proposal — the Queen takes the estates, which reckoned at 4 per cent are worth some 3 millions — and which the Gastheim were to have — If Wratislaw can accomplish so much\n\nthen one leaves him the money, out of which the legacies must still be settled. In that way everything would be disposed of, Wratislaw not only pacified, but he would have to regard it as a favour of the Queen that she left him some 600000 in cash. Estates and stocks the Gastheim would have to restore, and Reibnitz, Gärtner and Gebühter likewise to give back the 150000 Rthl.\n\nI have drawn up for Count Götzen a letter to the Queen, in which he congratulates her on the inheritance, and for the rest communicates to her his apprehensions concerning Wratislaw, and makes the aforesaid proposal. He therein proposes that the Queen might submit his proposal to Your Serene Highness's examination, because Your Highness, there, through Your Lord Brother and other acquaintances, could have the sentiments of the great men sitting at the Austrian helm precisely explored in this matter. Count Götzen has promised me to send this letter tomorrow by orderly; I met him yesterday morning already below Kłodzko, where he was hastening to Legnica to investigate an Excellency and to dispose of a matter which might be of favourable consequence. As soon as I have the letter from the Count I shall set off, provided with all weapons, for Königsberg — Heaven grant only that the iron arrives at Konotop at the right time, otherwise I should have to lie idle like a dismounted [uncertain: Lauvun] and let van der Lahr's hirelings keep watch on me; political news here is of many kinds — the war between France and Austria is declared; on our side the intention is / as I have from sure sources / to watch the game until the Austrian troops stand on the Elbe, and then the further payment of the contribution will first be refused, and further declarations made. Without exciting [uncertain: Brint], the organising of the [uncertain: Armen] is going forward with us; until a side has been taken, however, one is to proceed very cautiously. Today it is said here generally that Rüchel, if the King takes part in the war, is to have the command in Silesia — He has arrived at his sister-in-law's at Cossar below Krosno Odrzańskie, where he will remain in secret until he receives the orders from the King, upon which he will at once travel round all the fortresses in Silesia and the frontiers.\n\nAn officer who served under his regiment is with him at Cossar, and has now arrived here, who has trumpeted out this news — for the honour of humanity I am unwilling to believe these ravings\n\nMr von Massow has, four weeks ago, again written asking for his discharge, because he has been so restricted and subordinated to Count Dohna that he cannot even issue a pass for relay horses — And as the councillor of war Merckel, who returned from Königsberg the day before yesterday, assures me, Massow will receive his discharge with the remark — that he must meanwhile continue to serve until another subject qualified for this post has been found. If Geil and Ign. do not raise too strong a dam, the hope of seeing Hard: here may be revived afresh. In deepest reverence I remain, until death, Your Most Serene Highness's. Bethusy lies very ill at Matzdorff; I have meanwhile sent to him and asked him whether he will follow after me to Konotop — I await his answer — Upon all his estates there lie some 500000 Rthl of debts — But they are said to be worth, as between brothers, 1 million Rthl — that, however, requires a sensible inquiry.\n\nWrocław\n\nthe 12th of April\n\n1809.\n\nmost faithful and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, van der Lahr gehe nun auch in Breslau gegen ihn vor. Er wartet auf 1000 Centner Eisen in Konotop. Zur Colonnaschen Erbschaft für die Königin kann Graf Götzen Zeuge sein, rät aber wegen Graf Wratislaw zur Zurückhaltung. Triebenfeld schlägt vor, die Königin solle die Güter von an 3 Millionen Wert nehmen und Wratislaw das Geld lassen. Für Götzen hat er ein Schreiben an die Königin entworfen. Dazu Kriegsnachrichten und Bethusys Schulden von an 500000 Rthl.",
  "reading": {

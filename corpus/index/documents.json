@@ -81,7 +81,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 1,
   "places_named": 9,
   "estates": [
    "kamionno",
@@ -279,7 +279,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 12,
-  "places_named": 12,
+  "places_named": 14,
   "estates": [
    "kamionno",
    "kolno",
@@ -636,7 +636,7 @@
   "mentions": 7,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -678,7 +678,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -778,7 +778,7 @@
   "mentions": 8,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -835,7 +835,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -891,7 +891,7 @@
   "estates": [
    "krotoszyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -930,7 +930,7 @@
   "mentions": 3,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -977,7 +977,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1021,7 +1021,7 @@
   "mentions": 3,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1073,7 +1073,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1126,7 +1126,7 @@
    "betsche",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1177,7 +1177,7 @@
   "estates": [
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1224,7 +1224,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1276,7 +1276,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1333,7 +1333,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1380,7 +1380,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1458,7 +1458,7 @@
    "polajewo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1497,7 +1497,7 @@
   "mentions": 3,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1544,7 +1544,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1583,7 +1583,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1630,7 +1630,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1764,7 +1764,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1811,7 +1811,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -1862,7 +1862,7 @@
   "estates": [
    "krotoszyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -1916,7 +1916,7 @@
   "mentions": 11,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2017,7 +2017,7 @@
   "mentions": 2,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -2109,7 +2109,7 @@
   "estates": [
    "krotoszyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2202,12 +2202,12 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 11,
-  "places_named": 8,
+  "places_named": 9,
   "estates": [
    "krotoszyn",
    "kolno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -2259,7 +2259,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 9,
-  "places_named": 11,
+  "places_named": 12,
   "estates": [
    "krotoszyn",
    "wieniec",
@@ -2268,7 +2268,7 @@
    "trabczyn",
    "szetlewek"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2320,7 +2320,7 @@
    "krotoszyn",
    "polajewo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2421,7 +2421,7 @@
   "mentions": 7,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2560,11 +2560,11 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "brzyce"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -2720,7 +2720,7 @@
   "mentions": 6,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -2883,7 +2883,7 @@
    "polajewo",
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -3007,7 +3007,7 @@
   "mentions": 5,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -3285,7 +3285,7 @@
   "estates": [
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -3324,7 +3324,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -3363,7 +3363,7 @@
   "mentions": 1,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -3448,7 +3448,7 @@
   "mentions": 3,
   "places_named": 0,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -3492,7 +3492,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -4209,7 +4209,7 @@
   "mentions": 2,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "largely garbled",
@@ -4346,7 +4346,7 @@
   "estates": [
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5131,7 +5131,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5255,7 +5255,7 @@
    "trabczyn",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5304,7 +5304,7 @@
   "mentions": 5,
   "places_named": 4,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5343,7 +5343,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5382,7 +5382,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5430,7 +5430,7 @@
    "zagorowo",
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5474,7 +5474,7 @@
   "mentions": 4,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5513,7 +5513,7 @@
   "mentions": 2,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5552,7 +5552,7 @@
   "mentions": 4,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5591,7 +5591,7 @@
   "mentions": 2,
   "places_named": 4,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5632,7 +5632,7 @@
   "estates": [
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5673,7 +5673,7 @@
   "estates": [
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5712,7 +5712,7 @@
   "mentions": 1,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -5768,7 +5768,7 @@
   "estates": [
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -5814,7 +5814,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -5861,7 +5861,7 @@
    "betsche",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -5907,7 +5907,7 @@
   "estates": [
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -5959,7 +5959,7 @@
    "kamionno",
    "kolno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6011,7 +6011,7 @@
    "betsche",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6073,7 +6073,7 @@
    "betsche",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6231,7 +6231,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 11,
-  "places_named": 10,
+  "places_named": 11,
   "estates": [
    "kontop",
    "zagorowo",
@@ -6239,7 +6239,7 @@
    "kolno",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6353,7 +6353,7 @@
    "wieniec",
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6406,7 +6406,7 @@
    "trabczyn",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6453,7 +6453,7 @@
    "kamionno",
    "kolno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6510,7 +6510,7 @@
    "betsche",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6583,7 +6583,7 @@
    "kamionno",
    "kolno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -6948,7 +6948,7 @@
   "estates": [
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7071,7 +7071,7 @@
   "estates": [
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7216,7 +7216,7 @@
   "mentions": 1,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7255,7 +7255,7 @@
   "mentions": 2,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7301,7 +7301,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7361,7 +7361,7 @@
    "swiecia",
    "kopojno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7414,7 +7414,7 @@
    "swiecia",
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7455,7 +7455,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7497,7 +7497,7 @@
    "swiecia",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7551,7 +7551,7 @@
    "olesnica",
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7607,7 +7607,7 @@
    "wrabczyn",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7777,7 +7777,7 @@
   "mentions": 2,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7836,7 +7836,7 @@
    "szetlewek",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -7884,7 +7884,7 @@
    "swiecia",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7920,10 +7920,10 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 1,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -7967,7 +7967,7 @@
   "mentions": 7,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8011,7 +8011,7 @@
   "mentions": 2,
   "places_named": 4,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8067,7 +8067,7 @@
   "estates": [
    "szetlewek"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8111,7 +8111,7 @@
   "mentions": 5,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8244,7 +8244,7 @@
   "estates": [
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8283,7 +8283,7 @@
   "mentions": 4,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8329,7 +8329,7 @@
   "estates": [
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8373,7 +8373,7 @@
   "mentions": 2,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8424,7 +8424,7 @@
   "estates": [
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8483,7 +8483,7 @@
    "trabczyn",
    "witow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8535,12 +8535,12 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 14,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "swiecia",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8647,7 +8647,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -8902,7 +8902,7 @@
   "estates": [
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -8955,7 +8955,7 @@
    "olesnica",
    "szetlewek"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -9014,7 +9014,7 @@
    "olesnica",
    "swiecia"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -9065,7 +9065,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 9,
   "places_named": 4,
   "estates": [
    "witow",
@@ -9073,7 +9073,7 @@
    "szetlewek",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -9521,7 +9521,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn"
   ],
@@ -9632,7 +9632,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 6,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "drzewce",
    "wrabczyn"
@@ -9727,7 +9727,7 @@
   "mentions": 0,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -9787,7 +9787,7 @@
    "oppurg",
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -9831,7 +9831,7 @@
   "mentions": 0,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -9885,7 +9885,7 @@
   "mentions": 1,
   "places_named": 6,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -10188,7 +10188,7 @@
    "skokum",
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -10232,7 +10232,7 @@
   "mentions": 1,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -10276,7 +10276,7 @@
   "mentions": 1,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -10542,7 +10542,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 8,
-  "places_named": 20,
+  "places_named": 21,
   "estates": [
    "trabczyn"
   ],
@@ -10748,7 +10748,7 @@
   "estates": [
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -10814,7 +10814,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 19,
+  "mentions": 20,
   "places_named": 14,
   "estates": [
    "trabczyn",
@@ -10830,7 +10830,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -10884,7 +10884,7 @@
   "mentions": 9,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -10923,7 +10923,7 @@
   "mentions": 3,
   "places_named": 0,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -11005,7 +11005,7 @@
    "trabczyn",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -11051,7 +11051,7 @@
   "estates": [
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11095,7 +11095,7 @@
   "mentions": 0,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11134,7 +11134,7 @@
   "mentions": 2,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11188,7 +11188,7 @@
    "olesnica",
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11244,7 +11244,7 @@
    "olesnica",
    "swiecia"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11498,7 +11498,7 @@
    "koschentin",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11584,7 +11584,7 @@
   "uncertainty_count": 5,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 27,
+  "mentions": 28,
   "places_named": 11,
   "estates": [
    "betsche",
@@ -11596,7 +11596,7 @@
    "skokum",
    "drzewce"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -11650,7 +11650,7 @@
    "szetlewek",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -11701,8 +11701,8 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 11,
-  "places_named": 21,
+  "mentions": 12,
+  "places_named": 22,
   "estates": [
    "trabczyn",
    "zagorowo",
@@ -11716,7 +11716,7 @@
    "swiecia",
    "szetlewek"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11757,7 +11757,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 7,
   "estates": [
    "zagorowo",
@@ -11766,7 +11766,7 @@
    "trabczyn",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11817,7 +11817,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11873,7 +11873,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -11920,7 +11920,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -11964,7 +11964,7 @@
   "mentions": 1,
   "places_named": 5,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12038,7 +12038,7 @@
   "mentions": 5,
   "places_named": 7,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "largely garbled",
@@ -12089,7 +12089,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -12148,7 +12148,7 @@
    "swiecia",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12207,7 +12207,7 @@
    "kopojno",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12256,7 +12256,7 @@
   "mentions": 9,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12300,7 +12300,7 @@
   "mentions": 6,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12351,7 +12351,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12395,7 +12395,7 @@
   "mentions": 6,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12436,7 +12436,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12477,7 +12477,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12518,12 +12518,12 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 6,
+  "mentions": 5,
   "places_named": 8,
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12574,12 +12574,12 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 9,
+  "mentions": 8,
   "places_named": 8,
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12651,7 +12651,7 @@
    "kontop",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -12695,7 +12695,7 @@
   "mentions": 8,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -12741,7 +12741,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12793,7 +12793,7 @@
    "kontop",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12858,7 +12858,7 @@
    "drzewce",
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12902,7 +12902,7 @@
   "mentions": 2,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -12954,7 +12954,7 @@
    "kontop",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13002,7 +13002,7 @@
    "olesnica",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13050,7 +13050,7 @@
    "trabczyn",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13089,7 +13089,7 @@
   "mentions": 5,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13141,7 +13141,7 @@
    "kontop",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13185,7 +13185,7 @@
   "mentions": 4,
   "places_named": 4,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13241,7 +13241,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13290,7 +13290,7 @@
   "mentions": 6,
   "places_named": 7,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13334,7 +13334,7 @@
   "mentions": 4,
   "places_named": 6,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13373,7 +13373,7 @@
   "mentions": 4,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13429,7 +13429,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13473,7 +13473,7 @@
   "mentions": 6,
   "places_named": 4,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13524,7 +13524,7 @@
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13575,12 +13575,12 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 13,
+  "mentions": 12,
   "places_named": 8,
   "estates": [
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13637,7 +13637,7 @@
    "schweinern",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13681,7 +13681,7 @@
   "mentions": 3,
   "places_named": 6,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13727,7 +13727,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13778,7 +13778,7 @@
   "estates": [
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13848,7 +13848,7 @@
    "zagorowo",
    "witow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -13904,7 +13904,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -13966,7 +13966,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14026,7 +14026,7 @@
    "kamionno",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14082,7 +14082,7 @@
   "estates": [
    "witow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14142,7 +14142,7 @@
    "betsche",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14179,14 +14179,14 @@
   "has_damage": false,
   "rough_transcription": true,
   "mentions": 6,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "trabczyn",
    "kamionno",
    "kontop",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14238,7 +14238,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14282,7 +14282,7 @@
   "mentions": 5,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14334,7 +14334,7 @@
    "trabczyn",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14381,7 +14381,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14428,7 +14428,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14474,7 +14474,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14518,7 +14518,7 @@
   "mentions": 9,
   "places_named": 5,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14569,7 +14569,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14621,7 +14621,7 @@
    "zagorowo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14672,7 +14672,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14718,7 +14718,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 9,
+  "mentions": 8,
   "places_named": 5,
   "estates": [
    "zagorowo",
@@ -14726,7 +14726,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14768,7 +14768,7 @@
    "zagorowo",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14814,7 +14814,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14853,7 +14853,7 @@
   "mentions": 2,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14896,7 +14896,7 @@
    "schweinern",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -14937,7 +14937,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -14978,7 +14978,7 @@
   "estates": [
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15030,7 +15030,7 @@
    "bischdorf",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15082,7 +15082,7 @@
    "trabczyn",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15124,7 +15124,7 @@
    "trabczyn",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15170,7 +15170,7 @@
   "estates": [
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15211,7 +15211,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15252,7 +15252,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15310,7 +15310,7 @@
    "olesnica",
    "szetlewek"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15371,7 +15371,7 @@
    "zagorowo",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15437,7 +15437,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15478,7 +15478,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15550,7 +15550,7 @@
   "has_damage": true,
   "rough_transcription": false,
   "mentions": 27,
-  "places_named": 11,
+  "places_named": 12,
   "estates": [
    "trabczyn",
    "zagorowo",
@@ -15559,7 +15559,7 @@
    "betsche",
    "witow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15618,7 +15618,7 @@
    "swiecia",
    "kontop"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15670,7 +15670,7 @@
    "olesnica",
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15717,7 +15717,7 @@
    "zagorowo",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15760,7 +15760,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15799,7 +15799,7 @@
   "mentions": 3,
   "places_named": 5,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -15855,7 +15855,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15921,7 +15921,7 @@
    "olesnica",
    "schweinern"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -15964,7 +15964,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16021,7 +16021,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16073,7 +16073,7 @@
    "oppurg",
    "schurgast"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16129,7 +16129,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16190,7 +16190,7 @@
    "koschentin",
    "blizanow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16273,7 +16273,7 @@
    "zagorowo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16331,7 +16331,7 @@
    "trabczyn",
    "betsche"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16393,7 +16393,7 @@
    "zagorowo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16452,7 +16452,7 @@
    "wrabczyn",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16491,7 +16491,7 @@
   "mentions": 2,
   "places_named": 2,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -16537,7 +16537,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -16594,7 +16594,7 @@
    "zagorowo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16642,7 +16642,7 @@
    "olesnica",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16699,7 +16699,7 @@
    "zagorowo",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16758,7 +16758,7 @@
    "olesnica",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16799,7 +16799,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -16840,7 +16840,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -16881,7 +16881,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -16941,7 +16941,7 @@
    "trabczyn",
    "drzewce"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -16999,7 +16999,7 @@
    "wrabczyn",
    "olesnica"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17060,7 +17060,7 @@
    "skokum",
    "kopojno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17117,7 +17117,7 @@
    "wrabczyn",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17177,7 +17177,7 @@
    "olesnica",
    "wrabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17239,7 +17239,7 @@
    "skokum",
    "swiecia"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17296,7 +17296,7 @@
    "blizanow",
    "witow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17347,12 +17347,12 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 6,
+  "mentions": 5,
   "places_named": 3,
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17400,7 +17400,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -17447,7 +17447,7 @@
    "zagorowo",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17494,7 +17494,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17545,10 +17545,10 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 9,
+  "mentions": 8,
   "places_named": 8,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17592,7 +17592,7 @@
   "mentions": 9,
   "places_named": 8,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17636,7 +17636,7 @@
   "mentions": 7,
   "places_named": 5,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17680,7 +17680,7 @@
   "mentions": 5,
   "places_named": 3,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17688,6 +17688,48 @@
   "path": "documents/oe1bu9454-241.json",
   "text_path": "text/oe1bu9454-241.txt",
   "permalink": "/documents/oe1bu9454/241/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-3",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1814-05-14",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Paris",
+  "sender": "Hardenberg",
+  "recipient": "von Triebenfeld",
+  "n_pages": 1,
+  "n_lines": 16,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 3",
+  "path": "documents/iiihamdaiiinr12765-3.json",
+  "text_path": "text/iiihamdaiiinr12765-3.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/3/"
  },
  {
   "uid": "oe1bu9454-257",
@@ -17723,7 +17765,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17774,7 +17816,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17813,7 +17855,7 @@
   "mentions": 1,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17866,7 +17908,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17914,7 +17956,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -17922,6 +17964,47 @@
   "path": "documents/oe1bu9454-245.json",
   "text_path": "text/oe1bu9454-245.txt",
   "permalink": "/documents/oe1bu9454/245/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-1",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "1",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1814-10-25",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "von Triebenfeld",
+  "recipient": "Hardenberg",
+  "n_pages": 1,
+  "n_lines": 17,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0003_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 1",
+  "path": "documents/iiihamdaiiinr12765-1.json",
+  "text_path": "text/iiihamdaiiinr12765-1.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/1/"
  },
  {
   "uid": "oe1bu9454-246",
@@ -17962,7 +18045,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18015,7 +18098,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18083,7 +18166,7 @@
    "kamionno",
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18138,7 +18221,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18177,7 +18260,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18225,7 +18308,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18268,7 +18351,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18276,6 +18359,48 @@
   "path": "documents/oe1bu9454-251.json",
   "text_path": "text/oe1bu9454-251.txt",
   "permalink": "/documents/oe1bu9454/251/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-2",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "2",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1814-11-25",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "von Triebenfeld",
+  "n_pages": 1,
+  "n_lines": 13,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0003_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 2",
+  "path": "documents/iiihamdaiiinr12765-2.json",
+  "text_path": "text/iiihamdaiiinr12765-2.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/2/"
  },
  {
   "uid": "oe1bu9454-252",
@@ -18310,7 +18435,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18360,7 +18485,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18408,7 +18533,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18451,7 +18576,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18496,7 +18621,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18539,7 +18664,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18587,7 +18712,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18640,7 +18765,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18695,7 +18820,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18748,7 +18873,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18796,7 +18921,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18846,7 +18971,7 @@
    "oppurg",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18890,7 +19015,7 @@
   "mentions": 2,
   "places_named": 0,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -18946,7 +19071,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -18989,7 +19114,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19036,7 +19161,7 @@
    "trabczyn",
    "blizanow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19082,7 +19207,7 @@
   "estates": [
    "koschentin"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -19124,7 +19249,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -19178,7 +19303,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19221,7 +19346,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19266,7 +19391,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19316,7 +19441,7 @@
    "oppurg",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19366,7 +19491,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19421,7 +19546,7 @@
    "oppurg",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19481,7 +19606,7 @@
    "schlawenschitz",
    "lassowitz"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19525,7 +19650,7 @@
    "oppurg",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19567,7 +19692,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 7,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "schlawenschitz",
    "lassowitz",
@@ -19575,7 +19700,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19633,7 +19758,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19691,7 +19816,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19746,7 +19871,7 @@
    "oppurg",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -19795,7 +19920,7 @@
    "schlawenschitz",
    "lassowitz"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19838,7 +19963,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19889,7 +20014,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -19935,7 +20060,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -19943,6 +20068,48 @@
   "path": "documents/oe1bu9454-275.json",
   "text_path": "text/oe1bu9454-275.txt",
   "permalink": "/documents/oe1bu9454/275/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-4",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "4",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-03-02",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "von Triebenfeld",
+  "recipient": "Hardenberg",
+  "n_pages": 1,
+  "n_lines": 48,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 7,
+  "places_named": 13,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 4",
+  "path": "documents/iiihamdaiiinr12765-4.json",
+  "text_path": "text/iiihamdaiiinr12765-4.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/4/"
  },
  {
   "uid": "oe1bu9454-10",
@@ -19982,7 +20149,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20025,7 +20192,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20075,7 +20242,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20128,7 +20295,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20178,7 +20345,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20231,7 +20398,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -20239,6 +20406,48 @@
   "path": "documents/oe1bu9454-278.json",
   "text_path": "text/oe1bu9454-278.txt",
   "permalink": "/documents/oe1bu9454/278/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-5",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "5",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-03-17",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "von Triebenfeld",
+  "n_pages": 1,
+  "n_lines": 32,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0006_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg"
+   }
+  ],
+  "uncertainty_count": 4,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 7,
+  "places_named": 3,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 5",
+  "path": "documents/iiihamdaiiinr12765-5.json",
+  "text_path": "text/iiihamdaiiinr12765-5.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/5/"
  },
  {
   "uid": "oe1bu9454-279",
@@ -20281,7 +20490,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20330,7 +20539,7 @@
   "mentions": 6,
   "places_named": 7,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20374,7 +20583,7 @@
   "mentions": 1,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -20430,7 +20639,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20478,7 +20687,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20538,7 +20747,7 @@
    "betsche",
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20582,7 +20791,7 @@
    "kolno",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20643,7 +20852,7 @@
    "oppurg",
    "wieniec"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20651,6 +20860,58 @@
   "path": "documents/oe1bu9454-286.json",
   "text_path": "text/oe1bu9454-286.txt",
   "permalink": "/documents/oe1bu9454/286/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-6",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "6",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-04-12",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Schlawenschitz",
+  "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "recipient": "Stein",
+  "n_pages": 3,
+  "n_lines": 18,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0007_a2-L6_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0008_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0008_a1-L6_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0008_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0008_a2-L6_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 5,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "letter 6",
+  "path": "documents/iiihamdaiiinr12765-6.json",
+  "text_path": "text/iiihamdaiiinr12765-6.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/6/"
  },
  {
   "uid": "oe1bu9454-287",
@@ -20697,7 +20958,7 @@
   "mentions": 8,
   "places_named": 15,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20743,7 +21004,7 @@
   "estates": [
    "zagorowo"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20796,7 +21057,7 @@
    "oppurg",
    "sokolnik"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20804,6 +21065,177 @@
   "path": "documents/oe1bu9454-288.json",
   "text_path": "text/oe1bu9454-288.txt",
   "permalink": "/documents/oe1bu9454/288/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-7",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "7",
+  "doc_type": "draft",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-05",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 1,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0010_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0010_a2-L7_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 2,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 7",
+  "path": "documents/iiihamdaiiinr12765-7.json",
+  "text_path": "text/iiihamdaiiinr12765-7.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/7/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-11",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "11",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-05",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 2,
+  "n_lines": 39,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0013_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0013_a2-L11_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0014_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0014_a1-L11_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 11",
+  "path": "documents/iiihamdaiiinr12765-11.json",
+  "text_path": "text/iiihamdaiiinr12765-11.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/11/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-12",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "12",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-05",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 1,
+  "n_lines": 19,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0015_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0015_a2-L12_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 12",
+  "path": "documents/iiihamdaiiinr12765-12.json",
+  "text_path": "text/iiihamdaiiinr12765-12.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/12/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-13",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "13",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-05",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 1,
+  "n_lines": 6,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0016_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0016_a2-L13_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 2,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 13",
+  "path": "documents/iiihamdaiiinr12765-13.json",
+  "text_path": "text/iiihamdaiiinr12765-13.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/13/"
  },
  {
   "uid": "oe1bu9454-289",
@@ -20844,7 +21276,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20890,7 +21322,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 15,
+  "mentions": 14,
   "places_named": 9,
   "estates": [
    "sokolnik",
@@ -20900,7 +21332,7 @@
    "oppurg",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20908,6 +21340,52 @@
   "path": "documents/oe1bu9454-6.json",
   "text_path": "text/oe1bu9454-6.txt",
   "permalink": "/documents/oe1bu9454/6/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-8",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "8",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-05-12",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Schlawenschitz",
+  "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "recipient": "Hardenberg",
+  "n_pages": 2,
+  "n_lines": 41,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0011_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0011_a2-L8_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0012_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 8",
+  "path": "documents/iiihamdaiiinr12765-8.json",
+  "text_path": "text/iiihamdaiiinr12765-8.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/8/"
  },
  {
   "uid": "oe1bu9454-290",
@@ -20941,7 +21419,7 @@
   "uncertainty_count": 1,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 3,
   "estates": [
    "schlawenschitz",
@@ -20950,7 +21428,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -20991,7 +21469,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 9,
+  "mentions": 8,
   "places_named": 4,
   "estates": [
    "trabczyn",
@@ -21000,7 +21478,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21055,7 +21533,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21063,6 +21541,95 @@
   "path": "documents/oe1bu9454-292.json",
   "text_path": "text/oe1bu9454-292.txt",
   "permalink": "/documents/oe1bu9454/292/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-9",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "9",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-06-06",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 1,
+  "n_lines": 29,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "largely garbled",
+  "title": "draft 9",
+  "path": "documents/iiihamdaiiinr12765-9.json",
+  "text_path": "text/iiihamdaiiinr12765-9.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/9/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-10",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "10",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-06-06",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Wien",
+  "sender": "Hardenberg",
+  "recipient": "Zerboni",
+  "n_pages": 2,
+  "n_lines": 23,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0013_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 4,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 10",
+  "path": "documents/iiihamdaiiinr12765-10.json",
+  "text_path": "text/iiihamdaiiinr12765-10.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/10/"
  },
  {
   "uid": "oe1bu9454-294",
@@ -21103,7 +21670,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -21111,6 +21678,58 @@
   "path": "documents/oe1bu9454-294.json",
   "text_path": "text/oe1bu9454-294.txt",
   "permalink": "/documents/oe1bu9454/294/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-14",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "14",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1815-11-02",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Posen",
+  "sender": "Zerboni",
+  "recipient": "Hardenberg",
+  "n_pages": 3,
+  "n_lines": 105,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0018_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0019_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0019_a1-L14_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0019_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0019_a2-L14_03.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 11,
+  "places_named": 6,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "letter 14",
+  "path": "documents/iiihamdaiiinr12765-14.json",
+  "text_path": "text/iiihamdaiiinr12765-14.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/14/"
  },
  {
   "uid": "oe1bu9454-295",
@@ -21149,13 +21768,13 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 9,
   "estates": [
    "betsche",
    "blizanow"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -21203,7 +21822,7 @@
    "lassowitz",
    "oppurg"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21265,7 +21884,7 @@
    "oppurg",
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21313,7 +21932,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21361,7 +21980,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21414,7 +22033,7 @@
    "kamionno",
    "kolno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",
@@ -21464,7 +22083,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -21513,7 +22132,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "sound",
@@ -21521,6 +22140,727 @@
   "path": "documents/oe1bu9454-301.json",
   "text_path": "text/oe1bu9454-301.txt",
   "permalink": "/documents/oe1bu9454/301/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-15",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "15",
+  "doc_type": "note",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-04-20",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Balan",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 16,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0020_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0020_a2-L15_01.jpg"
+   }
+  ],
+  "uncertainty_count": 6,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 3,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "largely garbled",
+  "title": "note 15",
+  "path": "documents/iiihamdaiiinr12765-15.json",
+  "text_path": "text/iiihamdaiiinr12765-15.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/15/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-16",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "16",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-04-20",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Hardenberg",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 2,
+  "n_lines": 43,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0021_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0021_a2-L16_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0022_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0022_a1-L16_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 3,
+  "places_named": 5,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 16",
+  "path": "documents/iiihamdaiiinr12765-16.json",
+  "text_path": "text/iiihamdaiiinr12765-16.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/16/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-19",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "19",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-04-26",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Sommerfeld",
+  "sender": "von Brehmer",
+  "recipient": "Hardenberg",
+  "n_pages": 3,
+  "n_lines": 65,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0026_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0027_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0027_a1-L19_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0027_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0027_a2-L19_03.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 8,
+  "places_named": 7,
+  "estates": [
+   "szetlewek"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "letter 19",
+  "path": "documents/iiihamdaiiinr12765-19.json",
+  "text_path": "text/iiihamdaiiinr12765-19.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/19/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-17",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "17",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-04-29",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "Schöler",
+  "n_pages": 3,
+  "n_lines": 69,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0022_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0023_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0023_a1-L17_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0023_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0023_a2-L17_03.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 6,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 17",
+  "path": "documents/iiihamdaiiinr12765-17.json",
+  "text_path": "text/iiihamdaiiinr12765-17.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/17/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-18",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "18",
+  "doc_type": "note",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-05-03",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Bever",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 8,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0025_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0025_a2-L18_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "note 18",
+  "path": "documents/iiihamdaiiinr12765-18.json",
+  "text_path": "text/iiihamdaiiinr12765-18.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/18/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-20",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "20",
+  "doc_type": "note",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-06-15",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Balan",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 42,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0028_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0029_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0029_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 4,
+  "places_named": 5,
+  "estates": [
+   "szetlewek",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "note 20",
+  "path": "documents/iiihamdaiiinr12765-20.json",
+  "text_path": "text/iiihamdaiiinr12765-20.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/20/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-21",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "21",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-06-22",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "von Brehmer",
+  "n_pages": 1,
+  "n_lines": 34,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0030_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 6,
+  "estates": [
+   "szetlewek",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 21",
+  "path": "documents/iiihamdaiiinr12765-21.json",
+  "text_path": "text/iiihamdaiiinr12765-21.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/21/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-22",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "22",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-06-22",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "Schöler",
+  "n_pages": 2,
+  "n_lines": 39,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0030_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0031_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0031_a1-L22_02.jpg"
+   }
+  ],
+  "uncertainty_count": 4,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 4,
+  "places_named": 6,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 22",
+  "path": "documents/iiihamdaiiinr12765-22.json",
+  "text_path": "text/iiihamdaiiinr12765-22.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/22/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-23",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "23",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-07-25",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Sommerfeld",
+  "sender": "von Brehmer",
+  "recipient": "Ministerium der auswärtigen Angelegenheiten",
+  "n_pages": 1,
+  "n_lines": 42,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0032_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0032_a2-L23_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 4,
+  "estates": [
+   "szetlewek"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "letter 23",
+  "path": "documents/iiihamdaiiinr12765-23.json",
+  "text_path": "text/iiihamdaiiinr12765-23.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/23/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-24",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "24",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-08-10",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "von Brehmer",
+  "n_pages": 1,
+  "n_lines": 35,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0033_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 6,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 24",
+  "path": "documents/iiihamdaiiinr12765-24.json",
+  "text_path": "text/iiihamdaiiinr12765-24.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/24/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-25",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "25",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-11-23",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "St. Petersburg",
+  "sender": "Schöler",
+  "recipient": "Ministerium der auswärtigen Angelegenheiten",
+  "n_pages": 1,
+  "n_lines": 18,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0036_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0036_a2-L25_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 25",
+  "path": "documents/iiihamdaiiinr12765-25.json",
+  "text_path": "text/iiihamdaiiinr12765-25.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/25/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-26",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "26",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1816-12-22",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 1,
+  "n_lines": 22,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0037_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0037_a2-L26_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 26",
+  "path": "documents/iiihamdaiiinr12765-26.json",
+  "text_path": "text/iiihamdaiiinr12765-26.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/26/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-28",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "28",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1819-06-04",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Zajączek",
+  "recipient": "Kaiser Alexander I. von Russland",
+  "n_pages": 2,
+  "n_lines": 7,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0041_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0042_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0042_a1-L28_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 1,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 28",
+  "path": "documents/iiihamdaiiinr12765-28.json",
+  "text_path": "text/iiihamdaiiinr12765-28.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/28/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-27",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "27",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1820-01-31",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Alopeus",
+  "recipient": "Ancillon",
+  "n_pages": 4,
+  "n_lines": 20,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0039_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0039_a2-L27_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0040_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0040_a1-L27_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0040_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0040_a2-L27_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0041_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0041_a1-L27_04.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 12,
+  "places_named": 5,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 27",
+  "path": "documents/iiihamdaiiinr12765-27.json",
+  "text_path": "text/iiihamdaiiinr12765-27.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/27/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-29",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "29",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1820-05-13",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Ministerium der auswärtigen Angelegenheiten",
+  "recipient": "Schuckmann",
+  "n_pages": 2,
+  "n_lines": 66,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0042_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0042_a2-L29_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0043_a1",
+    "image": "III_HA_MdA_III_Nr_12765_0043_a1-L29_02.jpg"
+   }
+  ],
+  "uncertainty_count": 6,
+  "has_damage": true,
+  "rough_transcription": true,
+  "mentions": 6,
+  "places_named": 10,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "draft 29",
+  "path": "documents/iiihamdaiiinr12765-29.json",
+  "text_path": "text/iiihamdaiiinr12765-29.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/29/"
+ },
+ {
+  "uid": "iiihamdaiiinr12765-30",
+  "unit": "iiihamdaiiinr12765",
+  "letter_id": "30",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1820-05-19",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Berlin",
+  "sender": "Schuckmann",
+  "recipient": "Ministerium der auswärtigen Angelegenheiten",
+  "n_pages": 1,
+  "n_lines": 29,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0044_a2",
+    "image": "III_HA_MdA_III_Nr_12765_0044_a2-L30_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 5,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "sound",
+  "title": "letter 30",
+  "path": "documents/iiihamdaiiinr12765-30.json",
+  "text_path": "text/iiihamdaiiinr12765-30.txt",
+  "permalink": "/documents/iiihamdaiiinr12765/30/"
  },
  {
   "uid": "oe1bu14526-1",
@@ -21825,10 +23165,10 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 19,
+  "mentions": 20,
   "places_named": 13,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": false,
   "has_summary_de": true,
   "legibility": "partly garbled",

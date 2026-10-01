@@ -144,7 +144,104 @@
    "doc_line": 46
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "President v. Schuckman",
+   "kind": "person",
+   "surface_de": "Präsident v. Schuckman",
+   "surface_en": "President v. Schuckman",
+   "page": 1
+  },
+  {
+   "entity": "kuh",
+   "display": "Gebrüder Kuh",
+   "kind": "person",
+   "surface_de": "Kuh",
+   "surface_en": "Kuh",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dyhrenfurth",
+   "kind": "place",
+   "surface_de": "Dÿhrenfurth",
+   "surface_en": "Dyhrenfurth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schuz",
+   "kind": "person",
+   "surface_de": "Schuz",
+   "surface_en": "Schuz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince",
+   "kind": "person",
+   "surface_de": "Prinz",
+   "surface_en": "Prince",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kuh",
+   "kind": "person",
+   "surface_de": "Kuh[?]",
+   "surface_en": "Kuh",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Liepman Meyer",
+   "kind": "person",
+   "surface_de": "Liepman Meyer",
+   "surface_en": "Liepman Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -181,9 +278,104 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "108\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe affair with Prince George grows ever more alarming, and the distress on my side ever greater. President v. Schuckman writes me that he duly delivered my letters to the Prince; notwithstanding this the Prince answers not a syllable, and sends no remittances either. The Jew Kuh has sued me over the 5800 Rthl; he already has a decree of execution, and on Friday I am to pay or be arrested — on that account I was yesterday at Dyhrenfurth, where the minister assured me that he would be in Wrocław today and would calm the Jew. Just now I was at his residence, and there it is said that he will not come until Thursday. It is truly dreadful how the Prince treats me. In Berlin he borrowed 120000 rt upon the estates — then he drew through Schuz 55000 rt — here he has drawn, according to the accursed bills of exchange, about 23000 rt.\n\nThe costs etc. 8000; these are in sum 206000 rt. Now there stand upon the estates a further 64000 rt of debt.",
+   "names": [
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    },
+    {
+     "de": "Präsident v. Schuckman",
+     "en": "President v. Schuckman",
+     "kind": "person"
+    },
+    {
+     "de": "Kuh",
+     "en": "Kuh",
+     "kind": "person"
+    },
+    {
+     "de": "Dÿhrenfurth",
+     "en": "Dyhrenfurth",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Schuz",
+     "en": "Schuz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "108",
+    "5800",
+    "120000",
+    "55000",
+    "23000",
+    "8000",
+    "206000",
+    "64000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "In this way the dear Prince has already encumbered the estates with 270000 Rthl of debt — I sold them to him for 280000 Rthl, and the remainder is 10000 Rthl.\n\nThis is truly the grossest fraud: to cheat an honest fellow out of his fortune in so short a time, and afterwards to plunge him into disgrace and mockery besides, so that I am threatened with arrest — how this is to end I do not know; I cannot let myself be arrested. If the minister does not pacify the Jew Kuh [uncertain: Kuh] and the 5800 rt, then the uproar breaks loose + on the first Liepman Meyer wants his 20000 rt — and on the 7th of August the 12000 rt are to be paid. This is an item of 37800 rt.\n\nI have nothing, for my whole credit is gone — frankly confessed, I cannot wait out the shame nor let myself be arrested; I am going away, I shall seek the Prince out, and where I find him, I [uncertain: church] myself — let follow then what will — the world shall then learn how shamefully this Prince has taken me in. If Your Most Serene Highness knew a way out for the saving of my [uncertain: honour], I should be eternally grateful. I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław\n\nd 22 July 1800\n\nmost faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Prinz",
+     "en": "Prince",
+     "kind": "person"
+    },
+    {
+     "de": "Kuh[?]",
+     "en": "Kuh",
+     "kind": "person"
+    },
+    {
+     "de": "Liepman Meyer",
+     "en": "Liepman Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "270000",
+    "280000",
+    "10000",
+    "5800",
+    "20000",
+    "7",
+    "12000",
+    "37800",
+    "22",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "108\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe affair with Prince George grows ever more alarming, and the distress on my side ever greater. President v. Schuckman writes me that he duly delivered my letters to the Prince; notwithstanding this the Prince answers not a syllable, and sends no remittances either. The Jew Kuh has sued me over the 5800 Rthl; he already has a decree of execution, and on Friday I am to pay or be arrested — on that account I was yesterday at Dyhrenfurth, where the minister assured me that he would be in Wrocław today and would calm the Jew. Just now I was at his residence, and there it is said that he will not come until Thursday. It is truly dreadful how the Prince treats me. In Berlin he borrowed 120000 rt upon the estates — then he drew through Schuz 55000 rt — here he has drawn, according to the accursed bills of exchange, about 23000 rt.\n\nThe costs etc. 8000; these are in sum 206000 rt. Now there stand upon the estates a further 64000 rt of debt.\n\nIn this way the dear Prince has already encumbered the estates with 270000 Rthl of debt — I sold them to him for 280000 Rthl, and the remainder is 10000 Rthl.\n\nThis is truly the grossest fraud: to cheat an honest fellow out of his fortune in so short a time, and afterwards to plunge him into disgrace and mockery besides, so that I am threatened with arrest — how this is to end I do not know; I cannot let myself be arrested. If the minister does not pacify the Jew Kuh [uncertain: Kuh] and the 5800 rt, then the uproar breaks loose + on the first Liepman Meyer wants his 20000 rt — and on the 7th of August the 12000 rt are to be paid. This is an item of 37800 rt.\n\nI have nothing, for my whole credit is gone — frankly confessed, I cannot wait out the shame nor let myself be arrested; I am going away, I shall seek the Prince out, and where I find him, I [uncertain: church] myself — let follow then what will — the world shall then learn how shamefully this Prince has taken me in. If Your Most Serene Highness knew a way out for the saving of my [uncertain: honour], I should be eternally grateful. I remain, until death,\n\nYour Most Serene Highness's\n\nWrocław\n\nd 22 July 1800\n\nmost faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld klagt, Prinz George antworte trotz der von Präsident v. Schuckmann zugestellten Briefe nicht und schicke keine Remessen. Kuh habe ihn wegen 5800 Rthl verklagt und ein Exekutionsdekret erwirkt; am Freitag drohe Arrest. Der Minister wollte Kuh beruhigen, soll aber erst Donnerstag kommen. Der Prinz habe die ihm für 280000 Rthl verkauften Güter mit 270000 Rthl verschuldet. Fällig sind 20000 Rthl an Liepman Meyer und am 7. August 12000 Rthl. Triebenfeld will den Prinzen aufsuchen und bittet um einen Ausweg.",
  "reading": {

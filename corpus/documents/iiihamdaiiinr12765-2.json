@@ -1,0 +1,320 @@
+{
+ "letter_id": "2",
+ "seq_archival": 2,
+ "parent_letter": "",
+ "unit": "iiihamdaiiinr12765",
+ "uid": "iiihamdaiiinr12765-2",
+ "pad": "iiihamdaiiinr12765-002",
+ "permalink": "/documents/iiihamdaiiinr12765/2/",
+ "doc_type": "draft",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1814-11-25",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1814-11-25",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1814,
+ "month": 11,
+ "day": 25,
+ "place": "Wien",
+ "sender": "Hardenberg",
+ "recipient": "von Triebenfeld",
+ "line_start": 28,
+ "line_end": 42,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "1",
+   "note": "Drafted beneath Triebenfeld's letter: 'auf Ihr Gesuch vom 25 v M.'"
+  }
+ ],
+ "estates": [
+  "trabczyn",
+  "kamionno"
+ ],
+ "is_missing": 0,
+ "n_lines": 13,
+ "n_pages": 1,
+ "text": "No. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+ "text_reading": "No. 569\n\nWien d. 25 Nov [18]14\n\nAn\n\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0003_a2",
+   "line_start": 30,
+   "line_end": 42,
+   "n_lines": 13,
+   "diplomatic": "No. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "transcription": "No. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "reading": "No. 569\n\nWien d. 25 Nov [18]14\n\nAn\n\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.",
+   "paragraphs": [
+    "No. 569",
+    "Wien d. 25 Nov [18]14",
+    "An",
+    "d. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.",
+    "St[ä]g[emann].",
+    "H[arden]b[er]g."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 13
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 33,
+   "doc_line": 4
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 36,
+   "doc_line": 7
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface": "St[ä]g[emann]",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 41,
+   "doc_line": 12
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "H[arden]b[er]g",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 42,
+   "doc_line": 13
+  }
+ ],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Herzogthums Warschau",
+   "surface_en": "Duchy of Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "St[ä]g[emann]",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "H[arden]b[er]g",
+   "surface_en": "Hardenberg",
+   "page": 1
+  }
+ ],
+ "place_canonical": "Wien",
+ "place_mentions": [
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 31,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 36,
+   "doc_line": 7
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 37,
+   "doc_line": 8
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "line": 39,
+   "doc_line": 10
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "No. 569\n\nVienna, 25 Nov. [18]14\n\nTo\n\nthe Councillor of War and Forests von Triebenfeld, Your Right Honourable, here. In reply to your petition of the 25th of last month I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kamionna will settle itself, as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in [uncertain: word / progress], comes to be carried out. W., Nov. 14.\n\nStägemann.\n\nHardenberg.",
+   "names": [
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Herzogthums Warschau",
+     "en": "Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "St[ä]g[emann]",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "H[arden]b[er]g",
+     "en": "Hardenberg",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "569",
+    "25",
+    "14",
+    "25"
+   ]
+  }
+ ],
+ "text_english": "No. 569\n\nVienna, 25 Nov. [18]14\n\nTo\n\nthe Councillor of War and Forests von Triebenfeld, Your Right Honourable, here. In reply to your petition of the 25th of last month I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kamionna will settle itself, as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in [uncertain: word / progress], comes to be carried out. W., Nov. 14.\n\nStägemann.\n\nHardenberg.",
+ "summary_en": "Reply to Triebenfeld on his petition of the 25th of last month: the matter of the Prince of Hohenlohe concerning the claims to Trąbczyn and Kamionna will, it is said, settle itself as soon as the general settlement and agreement regarding the Duchy of Warsaw is carried out.",
+ "summary_de": "Antwort an Triebenfeld auf sein Gesuch vom 25. des Vormonats: Die Angelegenheit des Fürsten Hohenlohe wegen der Ansprüche auf Trąbczyn und Kamionna werde sich von selbst ausgleichen, sobald die allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau zur Ausführung komme.",
+ "reading": {
+  "letter": "2",
+  "legibility": "partly garbled",
+  "notes": "Draft of the reply to Triebenfeld, Vienna, 25 Nov 1814, written beneath his letter and approved by Stägemann and Hardenberg. The Prince's claims to Trąbczyn and Kaemen will settle themselves once the general settlement over the Duchy of Warsaw, now in progress, is carried out.",
+  "claims": [
+   {
+    "statement": "Die Ansprüche des Fürsten auf Trąbczyn und Kaemen würden sich von selbst ausgleichen, sobald die allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau zur Ausführung komme",
+    "lines": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 8,
+    "word": "Wort",
+    "note": "probably 'Werk' ('im Werk begriffene'); the editor could not tell on the scan"
+   },
+   {
+    "line": 9,
+    "word": "Auseinändersezung",
+    "note": "Auseinandersezung; the ä is a slip"
+   }
+  ],
+  "read_against": "7c8ece082c52ed5a"
+ }
+}

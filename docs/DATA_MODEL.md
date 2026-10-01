@@ -305,3 +305,16 @@ claim can be cited to a manuscript page rather than to a document.
 - `corpus/letters.json` is the older single-array form of the same content. It
   is still what the website and `verify_site.py` read. Prefer the per-document
   files and the indexes.
+
+### Text a page sets apart
+
+A page entry in `documents/<uid>.json` may carry `sideways_lines` /
+`sideways_paragraphs` (text written sideways on the page, from
+`units/<slug>/sideways.yml`) and `office_lines` / `office_paragraphs` (text the
+receiving office wrote on the letter, from `units/<slug>/office_notes.yml`):
+0-based positions among that page's lines and paragraphs. The text itself is
+ordinary text of the document. `by_paragraph: true` marks a page transcribed by
+paragraph, where a line of the transcription is a paragraph of the manuscript
+(`rulings.yml`, `pages: by_paragraph:`). The office and by-paragraph keys are
+present only where they apply. `doc_type: draft` is an outgoing letter as it
+stayed in the sender's file.

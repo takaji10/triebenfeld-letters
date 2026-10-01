@@ -183,7 +183,128 @@
    "doc_line": 31
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "knobelsdorff",
+   "display": "Knobelsdorff",
+   "kind": "person",
+   "surface_de": "Knobelsdorff",
+   "surface_en": "Knobelsdorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poninski",
+   "kind": "person",
+   "surface_de": "Poninskischen",
+   "surface_en": "Poninski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössels",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weigelt",
+   "kind": "person",
+   "surface_de": "Weigelt",
+   "surface_en": "Weigelt",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 1
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "F[ürst]. August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -242,9 +363,102 @@
    "doc_line": 28
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "201\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nWeigel is now firmly resolved to accept the estates that are to be bargained for in exchange for the lordship of Zagórów, be they the Knobelsdorff or the Poninski ones, and to offset his own and Stössel's claims against them. Tomorrow, the 30th, he intends to spend the day with me at Świniary, in order to confer upon everything bearing on this matter.\n\nI report this happy event to Your Serene Highness so that you may for once sleep in peace — I shall strive with burning zeal to bring this matter to the most desired conclusion, and should Heaven crown a second work as well, I shall so arrange Your Serene Highness's domestic affairs that in a short time all care on that account shall become strange to you — the plan is this — the merchants here, note well the rich ones, have fallen into a mania for possessing great estates. There is a wish to buy Świniary from me; one man has already offered me 220000 rt. Courant in cash, and I am asking 250000 rt. If I obtain that, then I shall come out with 160000 rt. in cash, since only 90000 rt. are intabulated upon the estates — Once Weigelt and Stössel are satisfied, and Grotowski, Lichnowski, Zerboni and others are charged to Trąbczyn, I believe that with 150000 rt. all your other debts may be entirely discharged.\n\nMay God grant his blessing and prospering to it; when it has succeeded I shall thank him for it quietly upon my [uncertain: lines]. Everything is now well set in train, and [uncertain: perhaps] I shall bring you the [uncertain: most desired] tidings sooner than you think.\n\nBut do you also work, most gracious Prince, that the plan with Prince August may succeed — for then you will not only still be able to enjoy your days happily in the circle of your children and count with certainty upon the good fortune that on all sides a thousand [uncertain: crooked Lorenzes] with a hundred thousand [uncertain: Sequenz] will be made to you — but also be assured that God knows what will be offered you — To your children I commend my deepest reverence — and I remain, until death, with the most unbounded respect,\n\nYour Most Serene Highness's\n\nWrocław, the 29th of August\n\n1810.\n\nhumble and faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Knobelsdorff",
+     "en": "Knobelsdorff",
+     "kind": "person"
+    },
+    {
+     "de": "Poninskischen",
+     "en": "Poninski",
+     "kind": "person"
+    },
+    {
+     "de": "Stössels",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Weigelt",
+     "en": "Weigelt",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "F[ürst]. August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "201",
+    "30ten",
+    "220000",
+    "250000",
+    "160000",
+    "90000",
+    "150000",
+    "29tn",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "201\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nWeigel is now firmly resolved to accept the estates that are to be bargained for in exchange for the lordship of Zagórów, be they the Knobelsdorff or the Poninski ones, and to offset his own and Stössel's claims against them. Tomorrow, the 30th, he intends to spend the day with me at Świniary, in order to confer upon everything bearing on this matter.\n\nI report this happy event to Your Serene Highness so that you may for once sleep in peace — I shall strive with burning zeal to bring this matter to the most desired conclusion, and should Heaven crown a second work as well, I shall so arrange Your Serene Highness's domestic affairs that in a short time all care on that account shall become strange to you — the plan is this — the merchants here, note well the rich ones, have fallen into a mania for possessing great estates. There is a wish to buy Świniary from me; one man has already offered me 220000 rt. Courant in cash, and I am asking 250000 rt. If I obtain that, then I shall come out with 160000 rt. in cash, since only 90000 rt. are intabulated upon the estates — Once Weigelt and Stössel are satisfied, and Grotowski, Lichnowski, Zerboni and others are charged to Trąbczyn, I believe that with 150000 rt. all your other debts may be entirely discharged.\n\nMay God grant his blessing and prospering to it; when it has succeeded I shall thank him for it quietly upon my [uncertain: lines]. Everything is now well set in train, and [uncertain: perhaps] I shall bring you the [uncertain: most desired] tidings sooner than you think.\n\nBut do you also work, most gracious Prince, that the plan with Prince August may succeed — for then you will not only still be able to enjoy your days happily in the circle of your children and count with certainty upon the good fortune that on all sides a thousand [uncertain: crooked Lorenzes] with a hundred thousand [uncertain: Sequenz] will be made to you — but also be assured that God knows what will be offered you — To your children I commend my deepest reverence — and I remain, until death, with the most unbounded respect,\n\nYour Most Serene Highness's\n\nWrocław, the 29th of August\n\n1810.\n\nhumble and faithful servant\n\nv. Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, Weigel wolle die für Zagórów einzuhandelnden Güter (Knobelsdorffsche oder Poninskische) annehmen und dafür seine und Stössels Forderungen abrechnen; am 30. will er in Świniary konferieren. Für Świniary bot ein Käufer 220000 Rthl bar, verlangt werden 250000 Rthl; da nur 90000 Rthl intabuliert sind, blieben 160000 Rthl. Sind Weigel und Stössel befriedigt und gehören Grotowski, Lichnowski, Zerboni u. a. auf Trąbczyn, glaubt er mit 150000 Rthl alle übrigen Schulden zu tilgen. Mahnt, den Plan mit F. August zu betreiben.",
  "reading": {

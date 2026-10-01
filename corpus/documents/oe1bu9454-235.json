@@ -111,7 +111,88 @@
    "doc_line": 41
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stoesel",
+   "kind": "person",
+   "surface_de": "Stoesel",
+   "surface_en": "Stoesel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -181,9 +262,83 @@
    "doc_line": 38
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "235\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy messenger was held up 2 days and, being a blockhead, is only returning today. I am now sending the stupid beast by another road, and report to Your Serene Highness that old Weigel arrived here with me already today. He not only has the best will to conclude the lease contract, but he has disclosed to me that, following my advice, he is not disinclined to purchase the Zagórów estates. He assumes the debts and pays a further 200000 rth on top, which he wishes to set off against Koszęcin. In this matter, however, he advises keeping the affair secret and letting Koszęcin go to forced auction. He bids for it as a creditor and hopes to obtain it below the valuation; what is then lost, us Stoesel",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Stoesel",
+     "en": "Stoesel",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "235",
+    "2",
+    "200000",
+    "18"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to lose, which would have cheated Your Serene Highness more than too badly. He engages himself to issue a written undertaking that he will cede Koszęcin, just as he should acquire it, to Your Serene Highness, or to whomever You should command. He believes that You would obtain it for still under 600000 rt — Only no soul must suspect that Your Serene Highness or Prince August wished to keep Koszęcin. Let Your Serene Highness write me Your will in this matter in secret, for the old man does what I advise him. As for the papers, may Your Serene Highness deign to send them with the utmost haste, for I know no counsel as to how to meet the costs; but the instrument must be drawn up as I have prescribed, otherwise it must be nothing. In reverence I remain\n\nYour Serene Highness's\n\nBlizanow\n\nthe 18th of July 1812\n\nmost humble and obedient\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "600000",
+    "18",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "235\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy messenger was held up 2 days and, being a blockhead, is only returning today. I am now sending the stupid beast by another road, and report to Your Serene Highness that old Weigel arrived here with me already today. He not only has the best will to conclude the lease contract, but he has disclosed to me that, following my advice, he is not disinclined to purchase the Zagórów estates. He assumes the debts and pays a further 200000 rth on top, which he wishes to set off against Koszęcin. In this matter, however, he advises keeping the affair secret and letting Koszęcin go to forced auction. He bids for it as a creditor and hopes to obtain it below the valuation; what is then lost, us Stoesel\n\nto lose, which would have cheated Your Serene Highness more than too badly. He engages himself to issue a written undertaking that he will cede Koszęcin, just as he should acquire it, to Your Serene Highness, or to whomever You should command. He believes that You would obtain it for still under 600000 rt — Only no soul must suspect that Your Serene Highness or Prince August wished to keep Koszęcin. Let Your Serene Highness write me Your will in this matter in secret, for the old man does what I advise him. As for the papers, may Your Serene Highness deign to send them with the utmost haste, for I know no counsel as to how to meet the costs; but the instrument must be drawn up as I have prescribed, otherwise it must be nothing. In reverence I remain\n\nYour Serene Highness's\n\nBlizanow\n\nthe 18th of July 1812\n\nmost humble and obedient\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, der alte Weigel wolle den Pachtvertrag schließen und sei auf seinen Rat nicht abgeneigt, die Zagorower Güter zu kaufen: Er übernehme die Schulden und zahle 200000 Rthl zu, die er auf Koszęcin anrechnen wolle. Weigel rät, die Sache geheim zu halten und Koszęcin versteigern zu lassen. Er würde es per Revers dem Fürsten abtreten und glaubt, es sei unter 600000 Rthl zu erhalten. Triebenfeld bittet um geheime Weisung und um eilige Zusendung der Papiere.",
  "reading": {

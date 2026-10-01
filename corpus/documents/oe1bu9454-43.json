@@ -244,7 +244,136 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "grevenitz",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitz",
+   "surface_en": "Grevenitz",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "French General Government",
+   "kind": "other",
+   "surface_de": "Franz: Gen[eral]. Gouvernements",
+   "surface_en": "French General Government",
+   "page": 1
+  },
+  {
+   "entity": "oppenheimer",
+   "display": "Oppenheimer",
+   "kind": "person",
+   "surface_de": "Oppenheimer",
+   "surface_en": "Oppenheimer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hausvogtey",
+   "kind": "other",
+   "surface_de": "Hausvogtey",
+   "surface_en": "Hausvogtey",
+   "page": 2
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Profeßor Rhode",
+   "surface_en": "Rhode",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Midsummer",
+   "kind": "other",
+   "surface_de": "Johanni",
+   "surface_en": "Midsummer",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -303,9 +432,118 @@
    "doc_line": 53
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "43\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nAccording to a judgment just now received from the Privy Councillor Amelang in Berlin, Lahr has been awarded, entirely contrary to the Common Law, cash money instead of papers such as he himself gave, and the 3000 rt still coming to him are to be paid in [uncertain: Klag]: Courant. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but how am I to save myself in the meantime? I am truly most unfortunate through this affair, and if bounds are not soon set to this distress I must go altogether to ruin. I have laboured through a whole year, and have lost health, means and credit thereby. I have also already won several advantages for Your Serene Highness thereby. But what is my reward? Hatred, persecution, and in the end prison. My inmost being rebels and my heart bursts within me when I do but think this thought. I beg and implore Your Serene Highness, pay, as is sacred, to take the matter to heart and to provide counsel swiftly, so that the monies may be deposited in cash or in state papers. According to the assurance of Grevenitz and Amelang the suit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby about 1500 rt., approximately, will be saved.\n\nIn this matter Your Serene Highness in the end loses nothing but the costs, which in the course of this year have indeed been very much bought up, but have meanwhile paved the way by which everything may be brought to the desired end.\n\nThe money for Lahr you will receive back, by order of the French General Government, and the sequestration will be lifted at once when [uncertain: inch] this sum, about 10000 Rthl of interest, has been paid. To that end I have summoned the justiciary Hawich to come to me here, and shall arrange what is needful with him",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitz",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Franz: Gen[eral]. Gouvernements",
+     "en": "French General Government",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "43",
+    "3000",
+    "1500",
+    "10000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "The suit with Oppenheimer is proceeding in the best way, and there one may get off with papers and certainly save the half. Let Your Serene Highness only now have pity on me too and provide swift counsel for the deposit of the 3000 rtlr., either in cash money or in as much state paper according to the exchange rate.\n\nIt is only a great good fortune that I am away from Berlin; and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 rt from him, in order to buy myself off to some extent, I should by now be sitting in Berlin in the Hausvogtey gaol. In this regard I beseech Your Serene Highness most imploringly by all means to give the 600 hundredweight of iron, so that I may keep my word to this man and not be brought to disgrace here as well. If Michaelis receives the iron, 300 hundredweight by the end of April and 300 hundredweight by about Midsummer, then this man may thereafter be very much relied upon. The distress and the fear that I may be sought out here too by Lahr — presses me to the ground; I can say nothing further now than: save me swiftly, Your Serene Highness, and do not let me be utterly ruined for my faithful devotion, for the sake of your cause, and branded before the world. I remain, until death,\n\nYour Most Serene Highness's — Let Your Serene Highness by all means send your letters by express messenger to Professor Rhode at Wrocław; he sends such on again from there by express — Only save me.\n\nKonotop\n\nthe 30th of January\n\n1809\n\nmost faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Oppenheimer",
+     "en": "Oppenheimer",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Hausvogtey",
+     "en": "Hausvogtey",
+     "kind": "other"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Profeßor Rhode",
+     "en": "Rhode",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Johanni",
+     "en": "Midsummer",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "3000",
+    "600",
+    "2000",
+    "600",
+    "300",
+    "300",
+    "30",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "43\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nAccording to a judgment just now received from the Privy Councillor Amelang in Berlin, Lahr has been awarded, entirely contrary to the Common Law, cash money instead of papers such as he himself gave, and the 3000 rt still coming to him are to be paid in [uncertain: Klag]: Courant. In the event that I cannot pay or deposit the same, I am to be arrested, since it is a bill-of-exchange suit. Amelang has indeed appealed, but how am I to save myself in the meantime? I am truly most unfortunate through this affair, and if bounds are not soon set to this distress I must go altogether to ruin. I have laboured through a whole year, and have lost health, means and credit thereby. I have also already won several advantages for Your Serene Highness thereby. But what is my reward? Hatred, persecution, and in the end prison. My inmost being rebels and my heart bursts within me when I do but think this thought. I beg and implore Your Serene Highness, pay, as is sacred, to take the matter to heart and to provide counsel swiftly, so that the monies may be deposited in cash or in state papers. According to the assurance of Grevenitz and Amelang the suit will certainly be won in the Senate of Appeals. Lahr must take papers, whereby about 1500 rt., approximately, will be saved.\n\nIn this matter Your Serene Highness in the end loses nothing but the costs, which in the course of this year have indeed been very much bought up, but have meanwhile paved the way by which everything may be brought to the desired end.\n\nThe money for Lahr you will receive back, by order of the French General Government, and the sequestration will be lifted at once when [uncertain: inch] this sum, about 10000 Rthl of interest, has been paid. To that end I have summoned the justiciary Hawich to come to me here, and shall arrange what is needful with him\n\nThe suit with Oppenheimer is proceeding in the best way, and there one may get off with papers and certainly save the half. Let Your Serene Highness only now have pity on me too and provide swift counsel for the deposit of the 3000 rtlr., either in cash money or in as much state paper according to the exchange rate.\n\nIt is only a great good fortune that I am away from Berlin; and had I not concluded a contract with the merchant Michaelis for 600 hundredweight of iron and received 2000 rt from him, in order to buy myself off to some extent, I should by now be sitting in Berlin in the Hausvogtey gaol. In this regard I beseech Your Serene Highness most imploringly by all means to give the 600 hundredweight of iron, so that I may keep my word to this man and not be brought to disgrace here as well. If Michaelis receives the iron, 300 hundredweight by the end of April and 300 hundredweight by about Midsummer, then this man may thereafter be very much relied upon. The distress and the fear that I may be sought out here too by Lahr — presses me to the ground; I can say nothing further now than: save me swiftly, Your Serene Highness, and do not let me be utterly ruined for my faithful devotion, for the sake of your cause, and branded before the world. I remain, until death,\n\nYour Most Serene Highness's — Let Your Serene Highness by all means send your letters by express messenger to Professor Rhode at Wrocław; he sends such on again from there by express — Only save me.\n\nKonotop\n\nthe 30th of January\n\n1809\n\nmost faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet ein von Amelang mitgeteiltes Urteil: Lahr soll die restlichen 3000 Rthl bar statt in Papieren erhalten, im Wechselprozess droht Triebenfeld sonst Arrest. Amelang hat appelliert und hält mit Grevenitz den Sieg für gewiss, was etwa 1500 Rthl rettet. Triebenfeld fleht um schnelle Deponierung der 3000 Rthl. Die Sequestration soll nach Zahlung von etwa 10000 Rthl Zinsen aufgehoben werden. Er bittet um 600 Centner Eisen für Kaufmann Michaelis, der ihm 2000 Rthl gab.",
  "reading": {

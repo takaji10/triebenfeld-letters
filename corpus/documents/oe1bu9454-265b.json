@@ -166,7 +166,192 @@
    "doc_line": 24
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Sir General",
+   "kind": "person",
+   "surface_de": "Herr General",
+   "surface_en": "Sir General",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prusimski",
+   "surface_en": "Prusimski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Międzyrzecz",
+   "kind": "place",
+   "surface_de": "Meseritz",
+   "surface_en": "Międzyrzecz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posenschen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalischer",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warta",
+   "kind": "place",
+   "surface_de": "Warthe",
+   "surface_en": "Warta",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konin",
+   "kind": "place",
+   "surface_de": "Koniner",
+   "surface_en": "Konin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tilsit",
+   "kind": "place",
+   "surface_de": "Tilsitter",
+   "surface_en": "Tilsit",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Moscinska",
+   "surface_en": "Moscinska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalischen",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor Napoleon",
+   "kind": "person",
+   "surface_de": "Kayser Napoleon",
+   "surface_en": "Emperor Napoleon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Moscinska",
+   "kind": "person",
+   "surface_de": "v. Moscinska",
+   "surface_en": "von Moscinska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince von Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürsten v Hardenberg",
+   "surface_en": "Prince von Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pahlens",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prosna",
+   "kind": "place",
+   "surface_de": "Prosna",
+   "surface_en": "Prosna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Moscinski",
+   "kind": "person",
+   "surface_de": "Moscinski",
+   "surface_en": "Moscinski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Landsko[uncertain: g/y]",
+   "kind": "person",
+   "surface_de": "Landsko[g/y?]",
+   "surface_en": "Landsko[uncertain: g/y]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -291,9 +476,140 @@
    "doc_line": 30
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Right Honourable Sir,\n\nMost highly revered Sir General, the late King granted me in the year 1796, in the Province of South Prussia, the Kamionna and Trąbczyn estates confiscated from a certain Prusimski. The former lie below Międzyrzecz in the Department of Poznań, the latter however in that of Kalisz, on this side of the Warta, in the Konin district. The administrative commission which assembled in the Province of Warsaw in 1806 took the estates from me by force in 1807, and that fourteen weeks after the Peace of Tilsit, and gave them back to the daughter of Prusimski, now married as Moscinska. I brought suit over this before the Kalisz tribunal; after a year and a day I received from the said tribunal the resolution that it did not hold itself empowered to set aside the disposition of the commission of that time, and that I should apply in the matter to the Emperor Napoleon — this was against my feeling, and Mrs von Moscinska possesses the estates to this day. Last year my general attorney, the Councillor of War and Forests von Triebenfeld, applied in this matter to the Prince von Hardenberg. The Prince instructed him to let this business rest until Poland's affairs should be decided. Now, as the [uncertain: rumour] says, this has come about, and as I hear, the Prosna is to hold as the boundary. In that case the district in which the Trąbczyn estates lie falls to His Majesty the [uncertain: Russian] Emperor — being unacquainted with the [illegible] course of business, I now do not know to whom I should apply for the reclaiming of the estates; indeed, still more, I fear the influence which Moscinski is said to have upon the Governor-General Landsko[uncertain: g/y].\n\nIn this hard-pressed situation I turn with the most heartfelt request to Your Right Honourable, to let your good word on my behalf be extended to me before His Majesty the Emperor, and to direct the matter so that the Emperor himself shall command that the Trąbczyn estates, together with the eight years' revenues, be given back to me. May Your Right Honourable deign to grant the Councillor of War von Triebenfeld a favourable hearing, and most kindly furnish him with the necessary instructions.\n\nWith unbounded gratitude, and with the most especial high esteem, I shall ever remain\n\nYour Right Honourable's\n\nSławięcice,\n\nthe 15th of January 1815.",
+   "names": [
+    {
+     "de": "Herr General",
+     "en": "Sir General",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimski",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Meseritz",
+     "en": "Międzyrzecz",
+     "kind": "place"
+    },
+    {
+     "de": "Posenschen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischer",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Warthe",
+     "en": "Warta",
+     "kind": "place"
+    },
+    {
+     "de": "Koniner",
+     "en": "Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Tilsitter",
+     "en": "Tilsit",
+     "kind": "place"
+    },
+    {
+     "de": "Moscinska",
+     "en": "Moscinska",
+     "kind": "person"
+    },
+    {
+     "de": "Kalischen",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser Napoleon",
+     "en": "Emperor Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "v. Moscinska",
+     "en": "von Moscinska",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten v Hardenberg",
+     "en": "Prince von Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Pahlens",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Prosna",
+     "en": "Prosna",
+     "kind": "place"
+    },
+    {
+     "de": "Moscinski",
+     "en": "Moscinski",
+     "kind": "person"
+    },
+    {
+     "de": "Landsko[g/y?]",
+     "en": "Landsko[uncertain: g/y]",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1796",
+    "1806",
+    "1807",
+    "14",
+    "8",
+    "15",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "Right Honourable Sir,\n\nMost highly revered Sir General, the late King granted me in the year 1796, in the Province of South Prussia, the Kamionna and Trąbczyn estates confiscated from a certain Prusimski. The former lie below Międzyrzecz in the Department of Poznań, the latter however in that of Kalisz, on this side of the Warta, in the Konin district. The administrative commission which assembled in the Province of Warsaw in 1806 took the estates from me by force in 1807, and that fourteen weeks after the Peace of Tilsit, and gave them back to the daughter of Prusimski, now married as Moscinska. I brought suit over this before the Kalisz tribunal; after a year and a day I received from the said tribunal the resolution that it did not hold itself empowered to set aside the disposition of the commission of that time, and that I should apply in the matter to the Emperor Napoleon — this was against my feeling, and Mrs von Moscinska possesses the estates to this day. Last year my general attorney, the Councillor of War and Forests von Triebenfeld, applied in this matter to the Prince von Hardenberg. The Prince instructed him to let this business rest until Poland's affairs should be decided. Now, as the [uncertain: rumour] says, this has come about, and as I hear, the Prosna is to hold as the boundary. In that case the district in which the Trąbczyn estates lie falls to His Majesty the [uncertain: Russian] Emperor — being unacquainted with the [illegible] course of business, I now do not know to whom I should apply for the reclaiming of the estates; indeed, still more, I fear the influence which Moscinski is said to have upon the Governor-General Landsko[uncertain: g/y].\n\nIn this hard-pressed situation I turn with the most heartfelt request to Your Right Honourable, to let your good word on my behalf be extended to me before His Majesty the Emperor, and to direct the matter so that the Emperor himself shall command that the Trąbczyn estates, together with the eight years' revenues, be given back to me. May Your Right Honourable deign to grant the Councillor of War von Triebenfeld a favourable hearing, and most kindly furnish him with the necessary instructions.\n\nWith unbounded gratitude, and with the most especial high esteem, I shall ever remain\n\nYour Right Honourable's\n\nSławięcice,\n\nthe 15th of January 1815.",
  "summary_en": "",
  "summary_de": "Der Schreiber bittet einen General, beim Kaiser zu erwirken, dass ihm die Trąbczyner Güter samt 8 Jahren Revenuen zurückgegeben werden. Der verstorbene König hatte ihm 1796 die konfiszierten Prusimski-Güter Kamionna und Trąbczyn verliehen. 1807 übergab die Verwaltungskommission sie der Tochter Prusimskis, jetzt Moscinska. Das Tribunal in Kalisz verwies ihn an Napoleon. Nun soll die Prosna Grenze werden. Er fürchtet Moscinskis Einfluss auf den Generalgouverneur und bittet, v. Triebenfeld anzuhören.",
  "reading": {

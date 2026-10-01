@@ -178,7 +178,88 @@
    "doc_line": 34
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "grimm",
+   "display": "Grimm",
+   "kind": "person",
+   "surface_de": "Grimm",
+   "surface_en": "Grimm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Radzinski",
+   "kind": "person",
+   "surface_de": "v. Radzinski",
+   "surface_en": "von Radzinski",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 1
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr Grimm",
+   "kind": "person",
+   "surface_de": "H. p Grimm",
+   "surface_en": "Mr Grimm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kalisz",
  "place_mentions": [
   {
@@ -215,9 +296,81 @@
    "doc_line": 31
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "145\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nHaving broken my carriage and very nearly my neck along with it, I have nevertheless arrived here in Kalisz safe and sound, though somewhat shaken about. The greatest loss is the time I require for the repairing of my carriage, in order to be able to travel further with it. Court Councillor Grimm lies miserably ill; meanwhile he will work up [uncertain: verarbeiten] the matter for von Radzinski, for which, however, the contracts would be required.\n\nWith Honrichs things look bad — the man does not pay the 4000 rthl, notwithstanding that everything has been receipted, cancelled, and put in order with the consent of the Board of Wards.\n\nGrimm wishes to compel him to payment at once by process of law — but he lacks the contract and a power of attorney — Rochlitz has the contract, and he has also had a power of attorney for the pursuit of this matter.",
+   "names": [
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Grimm",
+     "en": "Grimm",
+     "kind": "person"
+    },
+    {
+     "de": "v. Radzinski",
+     "en": "von Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "145",
+    "4000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "May Your Most Serene Highness be pleased to issue the order that the contract be demanded back from Rochlitz with the utmost haste and sent off, together with a power of attorney, to Mr Grimm. In Trąbczyn, I hear, orders are being given which run directly counter to my plan. Thus one of those in command has lent out 100 bushels of grain to somebody, whereof Your Serene Highness will never receive one of them [uncertain: einen denen], and a great part of the fields has likewise been sown. As soon as my carriage is mobile I shall hasten thither, in order then to report the rest to Your Serene Highness. In reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKalisz, the 14th of November\n\n1804.\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "H. p Grimm",
+     "en": "Mr Grimm",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100",
+    "14",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "145\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nHaving broken my carriage and very nearly my neck along with it, I have nevertheless arrived here in Kalisz safe and sound, though somewhat shaken about. The greatest loss is the time I require for the repairing of my carriage, in order to be able to travel further with it. Court Councillor Grimm lies miserably ill; meanwhile he will work up [uncertain: verarbeiten] the matter for von Radzinski, for which, however, the contracts would be required.\n\nWith Honrichs things look bad — the man does not pay the 4000 rthl, notwithstanding that everything has been receipted, cancelled, and put in order with the consent of the Board of Wards.\n\nGrimm wishes to compel him to payment at once by process of law — but he lacks the contract and a power of attorney — Rochlitz has the contract, and he has also had a power of attorney for the pursuit of this matter.\n\nMay Your Most Serene Highness be pleased to issue the order that the contract be demanded back from Rochlitz with the utmost haste and sent off, together with a power of attorney, to Mr Grimm. In Trąbczyn, I hear, orders are being given which run directly counter to my plan. Thus one of those in command has lent out 100 bushels of grain to somebody, whereof Your Serene Highness will never receive one of them [uncertain: einen denen], and a great part of the fields has likewise been sown. As soon as my carriage is mobile I shall hasten thither, in order then to report the rest to Your Serene Highness. In reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKalisz, the 14th of November\n\n1804.\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Honrichs zahlt die 4000 Rthl nicht, obwohl alles gelöscht und mit Zustimmung des Pupillen Collegiums geregelt ist. Hoffrath Grimm, schwer krank, will ihn gerichtlich belangen, doch fehlen Contract und Vollmacht; der Contract liegt bei Rochlitz. Triebenfeld bittet, ihn dort eilig anzufordern und mit Vollmacht an Grimm zu schicken. In Trąbczyn werden, wie er hört, seinem Plan widersprechende Befehle gegeben: 100 Scheffel Korn wurden verliehen, viele Äcker besät. Nach einem Wagenbruch will er nach der Reparatur dorthin eilen.",
  "reading": {

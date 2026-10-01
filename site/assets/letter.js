@@ -33,15 +33,18 @@
   if (holder) {
     try {
       (JSON.parse(holder.textContent) || []).forEach(function (seg) {
-        if (seg && seg.page != null && seg.en) byPage[String(seg.page)] = seg.en;
+        if (seg && seg.page != null && seg.en) byPage[String(seg.page)] = seg;
       });
     } catch (e) { /* malformed translation file - leave panes empty */ }
   }
   document.querySelectorAll('.text-view[data-view="translation"]').forEach(function (el) {
-    var en = byPage[el.getAttribute('data-seg')];
+    var seg = byPage[el.getAttribute('data-seg')];
+    // A tabulated document's English arrives as a built table, from our own
+    // data file.
+    if (seg && seg.html) { el.innerHTML = seg.html; return; }
     var p = document.createElement('p');
-    if (en) {
-      p.textContent = en;
+    if (seg) {
+      p.textContent = seg.en;
     } else {
       p.className = 'muted';
       // Marked so the language switch picks it up like any other label; the

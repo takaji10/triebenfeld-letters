@@ -255,7 +255,168 @@
    "doc_line": 55
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Anton v. Prusimski",
+   "kind": "person",
+   "surface_de": "Anton v. Prusimski",
+   "surface_en": "Anton v. Prusimski",
+   "page": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Prusimski family (Trąbczyn estates)",
+   "kind": "person",
+   "surface_de": "Prusimski",
+   "surface_en": "Prusimski",
+   "page": 1
+  },
+  {
+   "entity": "broniewski",
+   "display": "Broniewski",
+   "kind": "person",
+   "surface_de": "Broniewski",
+   "surface_en": "Broniewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Z[illegible]erobowski",
+   "kind": "person",
+   "surface_de": "Z[?]erobowski",
+   "surface_en": "Z[illegible]erobowski",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. Bernhard",
+   "kind": "person",
+   "surface_de": "M. Bernhard",
+   "surface_en": "M. Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulmschen",
+   "surface_en": "Kulm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulmische",
+   "surface_en": "Kulm",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "grotowski",
+   "display": "Grotowski",
+   "kind": "person",
+   "surface_de": "Grotowski",
+   "surface_en": "Grotowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Seeher Thoss",
+   "kind": "person",
+   "surface_de": "Seeher Thoss",
+   "surface_en": "Seeher Thoss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Zerboni",
+   "kind": "person",
+   "surface_de": "v. Zerboni",
+   "surface_en": "v. Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Souverains",
+   "kind": "other",
+   "surface_de": "Souverains",
+   "surface_en": "Souverains",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -325,9 +486,161 @@
    "doc_line": 54
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "285\n\nPro Memoria.\n\nIn 1796 the King conferred upon the Prince of Hohenlohe the Kamionna estates, following upon a certain Anton v. Prusimski. The same Prusimski had pledged these estates to a certain Broniewski for more than 100000 rt., so that the Prince could never come into possession of them — the lawsuit pending on that account has [uncertain: given] the Prince over 6000 rt. In the first and second instance the Prince lost and was condemned to pay the pledge-money. Broniewski at last offered a settlement, and the Prince paid 55000 rt. in cash to Broniewski in 1804. — makes 61000 rt. Now on this, from 1804 to 1815, the interest is 33550 rt. [uncertain: induced] outlays upon the estates he has thereupon at the utmost to demand as such 94550 rt.; the house has paid; to the court Senate treasury for the instrument 4164 rt., which must be [given] to the Prince Z[illegible]erobowski 4164 rt. [uncertain: Sum] of the demonstration 98714 rt. NB Leixner together with M. Bernhard [uncertain: have], exactly, given the monies as 55000 rt. But the capitals have been registered to them upon Pszczew and the Kulm estates, and M. B. also has the Kulm estates entirely in possession for his claims; consequently the 94550 rt. belong to the Prince alone, and the woman born Prusimska, so greatly favoured, must therefore return to the Prince the pledge-money paid together with interest; but it stands with the Prince to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially taxed at 180000 rt. [uncertain: value]; if therefore the 55000 rt. be brought into deduction, there remains in our valuation 125000 rt.\n\nmakes 223714 rt., which must be made good to the Prince in cash or by estates —\n\n2. Trąbczyn was judicially taxed at 316000 rt. Upon it the Prince contracted debts\n\n1. from Lichnowski 70000 rt.\n\n2. Weigel 30000 rt.\n\n3. Grotowski 20000 rt.\n\n4. Seeher Thoss 8000 rt.\n\n5. v. Zerboni 10000 rt. = 138000 rt.\n\nthereupon the Prince has paid to Lichnowski 30000 rt.\n\nTo Weigel 30000 rt.\n\nmakes 60000 rt.\n\nthere remain 78000 rt.\n\nThere remains here as a further [illegible] part 238000 rt., consequently together with Kamionna 467114 rt., of which the woman born Prusimska must pay in cash 94550 rt.; the Souverains have to [uncertain: dispatch] the Prince either in estates or in cash 367164 rt., that is 461714 rt.\n\nthe 27th of March\n\n1815.",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Anton v. Prusimski",
+     "en": "Anton v. Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimski",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Broniewski",
+     "en": "Broniewski",
+     "kind": "person"
+    },
+    {
+     "de": "Z[?]erobowski",
+     "en": "Z[illegible]erobowski",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "M. Bernhard",
+     "en": "M. Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Kulmschen",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kulmische",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Grotowski",
+     "en": "Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Seeher Thoss",
+     "en": "Seeher Thoss",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zerboni",
+     "en": "v. Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Souverains",
+     "en": "Souverains",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1796",
+    "100000",
+    "6000",
+    "2",
+    "55000",
+    "1804",
+    "61000",
+    "1804",
+    "1815",
+    "33550",
+    "94550",
+    "4164",
+    "4164",
+    "98714",
+    "55000",
+    "94550",
+    "180000",
+    "55000",
+    "125000",
+    "223714",
+    "316000",
+    "1",
+    "70000",
+    "2",
+    "30000",
+    "3",
+    "20000",
+    "4",
+    "8000",
+    "5",
+    "10000",
+    "138000",
+    "30000",
+    "30000",
+    "60000",
+    "78000",
+    "238000",
+    "467114",
+    "94550",
+    "367164",
+    "461714",
+    "27",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "285\n\nPro Memoria.\n\nIn 1796 the King conferred upon the Prince of Hohenlohe the Kamionna estates, following upon a certain Anton v. Prusimski. The same Prusimski had pledged these estates to a certain Broniewski for more than 100000 rt., so that the Prince could never come into possession of them — the lawsuit pending on that account has [uncertain: given] the Prince over 6000 rt. In the first and second instance the Prince lost and was condemned to pay the pledge-money. Broniewski at last offered a settlement, and the Prince paid 55000 rt. in cash to Broniewski in 1804. — makes 61000 rt. Now on this, from 1804 to 1815, the interest is 33550 rt. [uncertain: induced] outlays upon the estates he has thereupon at the utmost to demand as such 94550 rt.; the house has paid; to the court Senate treasury for the instrument 4164 rt., which must be [given] to the Prince Z[illegible]erobowski 4164 rt. [uncertain: Sum] of the demonstration 98714 rt. NB Leixner together with M. Bernhard [uncertain: have], exactly, given the monies as 55000 rt. But the capitals have been registered to them upon Pszczew and the Kulm estates, and M. B. also has the Kulm estates entirely in possession for his claims; consequently the 94550 rt. belong to the Prince alone, and the woman born Prusimska, so greatly favoured, must therefore return to the Prince the pledge-money paid together with interest; but it stands with the Prince to retain the estates in pledge-possession until his satisfaction — Now the estates have meanwhile been judicially taxed at 180000 rt. [uncertain: value]; if therefore the 55000 rt. be brought into deduction, there remains in our valuation 125000 rt.\n\nmakes 223714 rt., which must be made good to the Prince in cash or by estates —\n\n2. Trąbczyn was judicially taxed at 316000 rt. Upon it the Prince contracted debts\n\n1. from Lichnowski 70000 rt.\n\n2. Weigel 30000 rt.\n\n3. Grotowski 20000 rt.\n\n4. Seeher Thoss 8000 rt.\n\n5. v. Zerboni 10000 rt. = 138000 rt.\n\nthereupon the Prince has paid to Lichnowski 30000 rt.\n\nTo Weigel 30000 rt.\n\nmakes 60000 rt.\n\nthere remain 78000 rt.\n\nThere remains here as a further [illegible] part 238000 rt., consequently together with Kamionna 467114 rt., of which the woman born Prusimska must pay in cash 94550 rt.; the Souverains have to [uncertain: dispatch] the Prince either in estates or in cash 367164 rt., that is 461714 rt.\n\nthe 27th of March\n\n1815.",
  "summary_en": "",
  "summary_de": "Pro Memoria mit Berechnung der Entschädigungsforderung des Fürsten Hohenlohe für Kamionna und Trąbczyn. Kamionna, 1796 nach Anton v. Prusimski verliehen und an Broniewski verpfändet, löste der Fürst 1804 per Vergleich mit 55000 Rthl ein; mit Prozesskosten und Zinsen soll die Prusimska 94550 Rthl baar erstatten. Trąbczyn wurde auf 316000 Rthl taxiert; von 138000 Rthl Schulden (Lichnowski, Weigel, Grotowski, Zerboni u.a.) bleiben 78000 Rthl. Die Souverains sollen 367164 Rthl in Gütern oder baar leisten, zusammen 461714 Rthl.",
  "reading": {

@@ -261,7 +261,184 @@
    "doc_line": 84
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "eysenhardt",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eyſenhardt",
+   "surface_en": "Eysenhardt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ziemecki",
+   "kind": "person",
+   "surface_de": "Ziemeckischen",
+   "surface_en": "Ziemecki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardis",
+   "surface_en": "Bernhardi",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffen",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Euer Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Councillor of War von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Krieges Rath v. Trieben Feld",
+   "surface_en": "Councillor of War von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Chancellor Hemuth",
+   "kind": "person",
+   "surface_de": "Kanzler Hemuth",
+   "surface_en": "Chancellor Hemuth",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Countess von Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Graefin von Schlabrendorff",
+   "surface_en": "Countess von Schlabrendorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "General von Köckritz",
+   "kind": "person",
+   "surface_de": "Generals v. Köckritz",
+   "surface_en": "General von Köckritz",
+   "page": 4
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 4
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 4
+  },
+  {
+   "entity": "rhode",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Rhode",
+   "surface_en": "Rhode",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Liep Meyer",
+   "kind": "person",
+   "surface_de": "Liep Meyer",
+   "surface_en": "Liep Meyer",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -309,9 +486,168 @@
    "doc_line": 81
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "156\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nIf I had been able in any way whatever to obtain the 25000 rt without making the great transaction, I should long since have brought it about with the most glowing zeal.\n\nBut if I take the lesser sum, it costs, and my hands are tied, because I must pledge the heavy papers for the small loans just as much as for the large ones. As yet I have no first assurance [uncertain: when] I am to receive the capitals. The papers are found good and the security sufficient, but there is delay, God knows why.\n\nI am certainly doing everything of which human powers are capable, and neither rest nor repose, [uncertain: in order] to reach the goal of all wishes. Only here nothing can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think,",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "156",
+    "25000",
+    "2"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "it is young Eysenhardt — who claims to have 18000 rt to demand of Your Serene Highness as well; for these the Court Councillor Meyer will offer him the 20000 rt and take over the debt — I have declined this for the present — because the lawsuit concerning the [uncertain: jewels] is not yet decided, and because the 9000 rthl are registered on Szetlewek, so that he must be content with the interest, for the payment of which I have myself given an assurance. I shall do the same with the Ziemecki matter. Of Bernhardi's conduct I say nothing — for he was minded to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me in the very greatest embarrassment — God be praised, I have concluded the business as happily as I could have imagined, and let the peasant run.\n\nShould the Schlabrendorff woman be unmannerly, then everything here is provided for, and she would have every cause to repent a foolish conduct.",
+   "names": [
+    {
+     "de": "Eyſenhardt",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Ziemeckischen",
+     "en": "Ziemecki",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardis",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorffen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18000",
+    "20000",
+    "9000",
+    "11"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "156 a)\n\nCopy.\n\nYour Serene Highness caused the Chancellor Hemuth to be assured, through the Councillor of War von Triebenfeld, in the most binding terms, that at the Christmas now past I should quite infallibly receive the arrears of the settlement monies for my children.\n\nIn full reliance upon the word [uncertain: given] me by Your [text lost], I have already disposed of this sum, payable these two years past, and [uncertain: beg] find myself now in the embarrassment of not being able to keep my own word.\n\nBy any further forbearance I should make myself answerable to my own children, and there remains to me therefore nothing but to have the suit in Berlin continued, if payment should not follow by the next post day.\n\nOf this I most respectfully inform Your [Serene Highness] herewith, and have the honour, etc.\n\nWrocław, 16th Jan.\n\n1805.\n\nCountess von Schlabrendorff",
+   "names": [
+    {
+     "de": "Euer Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Krieges Rath v. Trieben Feld",
+     "en": "Councillor of War von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kanzler Hemuth",
+     "en": "Chancellor Hemuth",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Graefin von Schlabrendorff",
+     "en": "Countess von Schlabrendorff",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "156",
+    "16",
+    "1805",
+    "2"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "Of the assistance of General von Köckritz I have not yet wished to make any use, because Amelang thinks to get through without it.\n\nThe [illegible] General commends himself most respectfully to Your Serene Highness.\n\nThe free pass for 120 [uncertain: buckets] of wine Your Serene Highness will doubtless already have there. In deepest reverence submission I remain Your Serene Highness's. I hear this very moment that Bernhardi has played another knavish trick. He was to hand over the 3200 r. paid to him [uncertain: wäben] 1200 f[illegible] of next March to my Professor Rhode; but this, in order to keep the monies by him, he has assigned to the [uncertain: Liep] Meyer, and this fellow now does not pay the money, and I [uncertain: am] in embarrassment anew.\n\nBerlin, the 19th of January\n\n1805.\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Generals v. Köckritz",
+     "en": "General von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    },
+    {
+     "de": "Rhode",
+     "en": "Rhode",
+     "kind": "person"
+    },
+    {
+     "de": "Liep Meyer",
+     "en": "Liep Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "120",
+    "3200",
+    "1200",
+    "19",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "156\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nIf I had been able in any way whatever to obtain the 25000 rt without making the great transaction, I should long since have brought it about with the most glowing zeal.\n\nBut if I take the lesser sum, it costs, and my hands are tied, because I must pledge the heavy papers for the small loans just as much as for the large ones. As yet I have no first assurance [uncertain: when] I am to receive the capitals. The papers are found good and the security sufficient, but there is delay, God knows why.\n\nI am certainly doing everything of which human powers are capable, and neither rest nor repose, [uncertain: in order] to reach the goal of all wishes. Only here nothing can be forced. Twice already we believed we had the money for certain, but an evil man has thwarted it; as I think,\n\nit is young Eysenhardt — who claims to have 18000 rt to demand of Your Serene Highness as well; for these the Court Councillor Meyer will offer him the 20000 rt and take over the debt — I have declined this for the present — because the lawsuit concerning the [uncertain: jewels] is not yet decided, and because the 9000 rthl are registered on Szetlewek, so that he must be content with the interest, for the payment of which I have myself given an assurance. I shall do the same with the Ziemecki matter. Of Bernhardi's conduct I say nothing — for he was minded to treat me worse than the greatest usurer in the state, and by an eleven-day delay put me in the very greatest embarrassment — God be praised, I have concluded the business as happily as I could have imagined, and let the peasant run.\n\nShould the Schlabrendorff woman be unmannerly, then everything here is provided for, and she would have every cause to repent a foolish conduct.\n\n156 a)\n\nCopy.\n\nYour Serene Highness caused the Chancellor Hemuth to be assured, through the Councillor of War von Triebenfeld, in the most binding terms, that at the Christmas now past I should quite infallibly receive the arrears of the settlement monies for my children.\n\nIn full reliance upon the word [uncertain: given] me by Your [text lost], I have already disposed of this sum, payable these two years past, and [uncertain: beg] find myself now in the embarrassment of not being able to keep my own word.\n\nBy any further forbearance I should make myself answerable to my own children, and there remains to me therefore nothing but to have the suit in Berlin continued, if payment should not follow by the next post day.\n\nOf this I most respectfully inform Your [Serene Highness] herewith, and have the honour, etc.\n\nWrocław, 16th Jan.\n\n1805.\n\nCountess von Schlabrendorff\n\nOf the assistance of General von Köckritz I have not yet wished to make any use, because Amelang thinks to get through without it.\n\nThe [illegible] General commends himself most respectfully to Your Serene Highness.\n\nThe free pass for 120 [uncertain: buckets] of wine Your Serene Highness will doubtless already have there. In deepest reverence submission I remain Your Serene Highness's. I hear this very moment that Bernhardi has played another knavish trick. He was to hand over the 3200 r. paid to him [uncertain: wäben] 1200 f[illegible] of next March to my Professor Rhode; but this, in order to keep the monies by him, he has assigned to the [uncertain: Liep] Meyer, and this fellow now does not pay the money, and I [uncertain: am] in embarrassment anew.\n\nBerlin, the 19th of January\n\n1805.\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, dass er die 25000 Rthl ohne das große Geschäft nicht erhalten kann. Zweimal sei das Geld hintertrieben worden, vermutlich vom jungen Eysenhardt, der 18000 Rthl fordert. Ein Angebot des Hoffrath Meyer lehnte er vorerst ab, da 9000 Rthl auf Szetlewek eingetragen seien. Beigelegt ist eine Abschrift, in der Gräfin Schlabrendorff mit Fortsetzung der Klage in Berlin droht, falls die rückständigen Vergleichsgelder für ihre Kinder nicht bis zum nächsten Posttag gezahlt werden.",
  "reading": {

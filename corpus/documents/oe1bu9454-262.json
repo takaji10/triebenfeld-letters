@@ -287,7 +287,248 @@
    "doc_line": 71
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Herrn Fürsten Hardenberg",
+   "surface_en": "the Prince Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince H. of Bartenstein",
+   "kind": "person",
+   "surface_de": "Prinzen H. von Bartenstein",
+   "surface_en": "Prince H. of Bartenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curische heirs",
+   "kind": "person",
+   "surface_de": "Cur. Erben",
+   "surface_en": "Curische heirs",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "B[arbe]",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohischen",
+   "surface_en": "Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Öls",
+   "kind": "place",
+   "surface_de": "Öls",
+   "surface_en": "Öls",
+   "page": 2
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberge",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "person",
+   "surface_de": "K[önig]. von Würt[emberg]",
+   "surface_en": "King of Württemberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Casperl Theatre",
+   "kind": "place",
+   "surface_de": "Casperln Theater",
+   "surface_en": "Casperl Theatre",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Vienna newspapers",
+   "kind": "other",
+   "surface_de": "Wiener Zeitungen",
+   "surface_en": "Vienna newspapers",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "King of Bavaria",
+   "kind": "person",
+   "surface_de": "König von Bayern",
+   "surface_en": "King of Bavaria",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 3
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürsten Hardenberg",
+   "surface_en": "Prince Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Brandreich",
+   "surface_en": "France",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koblenz",
+   "kind": "place",
+   "surface_de": "Coblenz",
+   "surface_en": "Koblenz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince of Artois",
+   "kind": "person",
+   "surface_de": "Pr. Artois",
+   "surface_en": "Prince of Artois",
+   "page": 3
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyers",
+   "surface_en": "Meyer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Minister von Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Mininst von Humboldt",
+   "surface_en": "Minister von Wilhelm von Humboldt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr von Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "M v Humboldt",
+   "surface_en": "Mr von Wilhelm von Humboldt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Peace of Paris",
+   "kind": "other",
+   "surface_de": "Pariser Friedens",
+   "surface_en": "Peace of Paris",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -379,9 +620,201 @@
    "doc_line": 65
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "262\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThat His Serene Highness the Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's remark to Prince H. of Bartenstein. The discourse came round to Your Serene Highness being named, whereupon the Prince at once replied — \"Yes, this honest man is the one who has suffered most; he has been frightfully treated; I am now taking up his cause in the most active manner — I want him helped before all others —\" Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my memoirs by him [uncertain: Serene Highness] — here indeed no contradiction must occur, for otherwise I am compromised together with Hahn and the affair takes a tragic turn — whereas if everything is confirmed according to our two memoirs — the Prince will at once cause the money to be given in order to satisfy the Curische heirs, the King will set aside the settlement, and Cosmar will be cast out and called to the heaviest account — everything else will then follow of itself — My friend B[arbe], moreover, joins with me in wishing that we might obtain the very speediest knowledge, by good copies, of the results of the commission and of the report of the Higher Provincial Court, and indeed, wherever possible, one post-day earlier, before the report comes in to His Serene Highness the Prince State Chancellor — so that everything may here be forestalled.\n\nI look forward longingly to the blank forms, but above all to the thank-you letter in your own hand to the Prince State Chancellor — Tell [uncertain: this] noble man, quite briefly, \"that you render him your [uncertain: most heartfelt] thanks already for what has been done, etc., that thereby you may look with confidence and hope to the end of your sufferings, which the wicked Cosmar has prepared for you\" — mention quite briefly / that Cosmar has in the last 3 [uncertain: years], instead of 72000 Rthl, given you only 2500 Rthl in all, that to cover this he has exploited even your son's weakness, and that in this time you have to live so wretchedly and even to struggle with hunger, that Triebenfeld has not yet laid the matter out as it stands in and of itself, etc.; that you placed, however, both your domestic and your military affairs in his hands, and so on and so forth.\"",
+   "names": [
+    {
+     "de": "Herrn Fürsten Hardenberg",
+     "en": "the Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen H. von Bartenstein",
+     "en": "Prince H. of Bartenstein",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Cur. Erben",
+     "en": "Curische heirs",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "B[arbe]",
+     "kind": "person"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "262",
+    "3",
+    "72000",
+    "2500"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "I wish this because the Prince reads Your Serene Highness's letters — whole files and minutes, however, he has no time to read himself, but can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a stop has already been put to the King's tyranny; his power against the mediatised princes is being very much restricted; presumably Öls etc. will be taken as the norm — the note concerning your expulsion and other frightful treatment, and the one concerning the withdrawal of the 2000 fl. apanage of your lord brother, I cannot send today, because on account of the street mud I cannot go out of the house, but have no money to ride; and Gärtner, since I can promise him nothing, has not been to see me for 8 days now — A time full of torment I am passing here — I am to be effective in a story so odiously twisted — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. For shame I could often perish — urgently I beg you, most gracious Lord, send only 100 #, otherwise I must go hungry — B has lent me 50 #, and these will be quite gone in a few days — if meanwhile this true friend is not to grow weary and is to go on trusting me, I must hand him back the money, for he has his own people in Berlin to provide for, and therefore he himself has need of it, especially at the new year — So do send, Your Serene Highness, the 100 # without fail, and likewise the papers noted overleaf, and support my children in accordance with my request at Wrocław — From the accompanying book a great part is borrowed as to how matters are to be conducted in future in Württemberg.\n\nIn truest devotion and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th of December\n\n1814.\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Hohenlohischen",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "Öls",
+     "en": "Öls",
+     "kind": "place"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "B",
+     "en": "B",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Würtemberge",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2000",
+    "9",
+    "8",
+    "100",
+    "50",
+    "100",
+    "20",
+    "1814"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "The King of Württemberg departs in a couple of days; his appearance betokens the worst of humours — Only between the wings at the Casperl Theatre is the All-Highest countenance said nevertheless sometimes to show itself in transfigured radiance. For the rest, it stands in today's Vienna newspapers that the King of Bavaria calls upon his subjects to come forward if anyone has claims in France, whether against the King or against the State — Whoever is too weak to do this before the French commission is to bring it before a commission to be appointed by him — the nation is said to have undertaken to pay the King's debts — would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to the Prince Hardenberg's remembrance the 100/m Fr. d'or advanced to the King of [uncertain: France] and sent to Koblenz by Meyer — Meyer did in fact actually convey the money there to the King and to the Prince of Artois, and received 1000 Rthl for it — Meyer's own written undertaking from the Prince of Artois for 240/m Livres could be made good in that connexion — His Excellency the Minister von Wilhelm von Humboldt will certainly do everything and help vigorously — But the reminder would have to be made quickly, because the matter could then be best set on foot with His Excellency Mr von Wilhelm von Humboldt — in the 19th § of the Peace of Paris it is laid down that all claims are to be paid, and the State has bound itself ex post to pay the royal debts which it contracted in its period of misfortune, amounting to about 22 millions.",
+   "names": [
+    {
+     "de": "K[önig]. von Würt[emberg]",
+     "en": "King of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "Casperln Theater",
+     "en": "Casperl Theatre",
+     "kind": "place"
+    },
+    {
+     "de": "Wiener Zeitungen",
+     "en": "Vienna newspapers",
+     "kind": "other"
+    },
+    {
+     "de": "König von Bayern",
+     "en": "King of Bavaria",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Hardenberg",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Brandreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Coblenz",
+     "en": "Koblenz",
+     "kind": "place"
+    },
+    {
+     "de": "Pr. Artois",
+     "en": "Prince of Artois",
+     "kind": "person"
+    },
+    {
+     "de": "Meyers",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Mininst von Humboldt",
+     "en": "Minister von Wilhelm von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "M v Humboldt",
+     "en": "Mr von Wilhelm von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Pariser Friedens",
+     "en": "Peace of Paris",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "100/m",
+    "1000",
+    "240/m",
+    "19",
+    "22"
+   ]
+  }
+ ],
+ "text_english": "262\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThat His Serene Highness the Prince Hardenberg now truly means well by Your Serene Highness is proved by the Prince's remark to Prince H. of Bartenstein. The discourse came round to Your Serene Highness being named, whereupon the Prince at once replied — \"Yes, this honest man is the one who has suffered most; he has been frightfully treated; I am now taking up his cause in the most active manner — I want him helped before all others —\" Everything now depends upon Your Serene Highness's declaration and upon the confirmation of my memoirs by him [uncertain: Serene Highness] — here indeed no contradiction must occur, for otherwise I am compromised together with Hahn and the affair takes a tragic turn — whereas if everything is confirmed according to our two memoirs — the Prince will at once cause the money to be given in order to satisfy the Curische heirs, the King will set aside the settlement, and Cosmar will be cast out and called to the heaviest account — everything else will then follow of itself — My friend B[arbe], moreover, joins with me in wishing that we might obtain the very speediest knowledge, by good copies, of the results of the commission and of the report of the Higher Provincial Court, and indeed, wherever possible, one post-day earlier, before the report comes in to His Serene Highness the Prince State Chancellor — so that everything may here be forestalled.\n\nI look forward longingly to the blank forms, but above all to the thank-you letter in your own hand to the Prince State Chancellor — Tell [uncertain: this] noble man, quite briefly, \"that you render him your [uncertain: most heartfelt] thanks already for what has been done, etc., that thereby you may look with confidence and hope to the end of your sufferings, which the wicked Cosmar has prepared for you\" — mention quite briefly / that Cosmar has in the last 3 [uncertain: years], instead of 72000 Rthl, given you only 2500 Rthl in all, that to cover this he has exploited even your son's weakness, and that in this time you have to live so wretchedly and even to struggle with hunger, that Triebenfeld has not yet laid the matter out as it stands in and of itself, etc.; that you placed, however, both your domestic and your military affairs in his hands, and so on and so forth.\"\n\nI wish this because the Prince reads Your Serene Highness's letters — whole files and minutes, however, he has no time to read himself, but can only hear reports drawn from them. In the Hohenlohe affair work is going forward in the most active manner — a stop has already been put to the King's tyranny; his power against the mediatised princes is being very much restricted; presumably Öls etc. will be taken as the norm — the note concerning your expulsion and other frightful treatment, and the one concerning the withdrawal of the 2000 fl. apanage of your lord brother, I cannot send today, because on account of the street mud I cannot go out of the house, but have no money to ride; and Gärtner, since I can promise him nothing, has not been to see me for 8 days now — A time full of torment I am passing here — I am to be effective in a story so odiously twisted — to fight a hydra of more than 9 heads, and I have nothing in my hands and nothing on my body. For shame I could often perish — urgently I beg you, most gracious Lord, send only 100 #, otherwise I must go hungry — B has lent me 50 #, and these will be quite gone in a few days — if meanwhile this true friend is not to grow weary and is to go on trusting me, I must hand him back the money, for he has his own people in Berlin to provide for, and therefore he himself has need of it, especially at the new year — So do send, Your Serene Highness, the 100 # without fail, and likewise the papers noted overleaf, and support my children in accordance with my request at Wrocław — From the accompanying book a great part is borrowed as to how matters are to be conducted in future in Württemberg.\n\nIn truest devotion and highest reverence I remain, until death, Your Serene Highness's\n\nVienna, the 20th of December\n\n1814.\n\nfaithful and most obedient servant\n\nv Triebenfeld\n\nThe King of Württemberg departs in a couple of days; his appearance betokens the worst of humours — Only between the wings at the Casperl Theatre is the All-Highest countenance said nevertheless sometimes to show itself in transfigured radiance. For the rest, it stands in today's Vienna newspapers that the King of Bavaria calls upon his subjects to come forward if anyone has claims in France, whether against the King or against the State — Whoever is too weak to do this before the French commission is to bring it before a commission to be appointed by him — the nation is said to have undertaken to pay the King's debts — would it not be advisable that Meyer, or Your Serene Highness yourself, should bring to the Prince Hardenberg's remembrance the 100/m Fr. d'or advanced to the King of [uncertain: France] and sent to Koblenz by Meyer — Meyer did in fact actually convey the money there to the King and to the Prince of Artois, and received 1000 Rthl for it — Meyer's own written undertaking from the Prince of Artois for 240/m Livres could be made good in that connexion — His Excellency the Minister von Wilhelm von Humboldt will certainly do everything and help vigorously — But the reminder would have to be made quickly, because the matter could then be best set on foot with His Excellency Mr von Wilhelm von Humboldt — in the 19th § of the Peace of Paris it is laid down that all claims are to be paid, and the State has bound itself ex post to pay the royal debts which it contracted in its period of misfortune, amounting to about 22 millions.",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, Hardenberg habe dem Prinzen Hohenlohe-Bartenstein zugesagt, sich der Sache des Fürsten tätig anzunehmen. Alles hänge nun an der Erklärung des Fürsten und der Bestätigung seiner Memoirs; dann würden die Cur. Erben befriedigt und Cosmar zur Verantwortung gezogen. Ein Dankschreiben an den Staatskanzler soll erwähnen, dass Cosmar nur 2500 Rthl statt 72000 Rthl gegeben habe. Er bittet dringend um 100 #. Nachschrift: regt an, Hardenberg an die über Meyer nach Koblenz gesandten 100/m Fr. d'or zu erinnern.",
  "reading": {

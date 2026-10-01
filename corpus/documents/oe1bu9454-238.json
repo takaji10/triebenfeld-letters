@@ -202,17 +202,6 @@
    "doc_line": 56
   },
   {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
-   "page": 3,
-   "page_id": "0446_a2",
-   "scan": "Oe_1_Bu_9454_0446_a2-L238_03.jpg",
-   "line": 17365,
-   "doc_line": 62
-  },
-  {
    "entity": "meierowitz",
    "display": "Franz Meierowitz",
    "kind": "person",
@@ -235,7 +224,264 @@
    "doc_line": 93
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Koenig",
+   "kind": "person",
+   "surface_de": "Koenig",
+   "surface_en": "Koenig",
+   "page": 1
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzciński",
+   "surface_en": "Trzciński",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weigelt",
+   "kind": "person",
+   "surface_de": "Weigelt",
+   "surface_en": "Weigelt",
+   "page": 1
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzcińskischen",
+   "surface_en": "Trzciński",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Großen",
+   "kind": "other",
+   "surface_de": "Großen",
+   "surface_en": "Großen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Krieges und Forst Rath",
+   "surface_en": "Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koenig",
+   "kind": "person",
+   "surface_de": "Könige",
+   "surface_en": "Koenig",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Syców",
+   "kind": "place",
+   "surface_de": "Wartenberg",
+   "surface_en": "Syców",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Syców",
+   "kind": "place",
+   "surface_de": "Wartenberg",
+   "surface_en": "Syców",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "His Majesty the Russian Emperor",
+   "kind": "person",
+   "surface_de": "Rusſischen Kaysers Majestaet",
+   "surface_en": "His Majesty the Russian Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Staats Kanzler",
+   "kind": "person",
+   "surface_de": "Staats Kanzler",
+   "surface_en": "Staats Kanzler",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Justiz Minister",
+   "kind": "person",
+   "surface_de": "Justiz Minister",
+   "surface_en": "Justiz Minister",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Roeder, General",
+   "kind": "person",
+   "surface_de": "General v. Roeder",
+   "surface_en": "von Roeder, General",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr von Hardenberg",
+   "kind": "person",
+   "surface_de": "Herrn v. Hardenberg",
+   "surface_en": "Mr von Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Staats Kanzler",
+   "kind": "person",
+   "surface_de": "Staats Kanzler",
+   "surface_en": "Staats Kanzler",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Emperor",
+   "kind": "person",
+   "surface_de": "Kayser",
+   "surface_en": "Emperor",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr Minister von Stein",
+   "kind": "person",
+   "surface_de": "Herrn Minister v Stein",
+   "surface_en": "Mr Minister von Stein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Altenburg",
+   "kind": "place",
+   "surface_de": "Altenburg",
+   "surface_en": "Altenburg",
+   "page": 3
+  },
+  {
+   "entity": "meierowitz",
+   "display": "Franz Meierowitz",
+   "kind": "person",
+   "surface_de": "Meierowitz",
+   "surface_en": "Meierowitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Ratke",
+   "kind": "person",
+   "surface_de": "Ratkes",
+   "surface_en": "Ratke",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kaliſch",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "F[riedrich]. L[udwig]. F[ürst]. zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 4
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -349,9 +595,207 @@
    "doc_line": 90
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "238\n\nRight Honourable Sir,\n\nHighly Honoured Sir, Councillor of War and Forests!\n\nYour messenger arrived only this forenoon; he excuses himself for having been so long on the way by saying that he had gone astray. From his march route I see that he was also with the chief district administrator Koenig. He said that the latter was at home and had taken the letters from him himself. Neither Trzciński, Zerboni, nor Koenig lets anything be heard of himself; the first has still paid nothing, the second has likewise fulfilled none of his obligations, Mr Weigelt presses me very hard, and I shall now attempt whether I can quiet him by means of the Trzciński bills of exchange. These monies from Großen I needed for true necessity, since here, unhappily, everything still stands as you know it. Your entire silence has filled me with sorrow, since from it I conclude that all your efforts on my behalf were fruitless. I sent Your Right Honourable a messenger, who however brought only a receipt from the district administrator at Blizanow, which Mr Schenck, after this express had been detained 4 days, expanded to this effect: that you had gone away, would return in 14 days, and that I should then soon receive an answer; this, to my great regret and real disadvantage, did not follow. Only today do I see from Your Right Honourable's dispatch of the 29th of April that you had written to me earlier, which lines I did not receive. I can assure you upon my word that the letter which I here answer is the first that I have received from you since you left Sławięcice; in vain, alas, have I long yearned for it. I",
+   "names": [
+    {
+     "de": "Koenig",
+     "en": "Koenig",
+     "kind": "person"
+    },
+    {
+     "de": "Trzciński",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Weigelt",
+     "en": "Weigelt",
+     "kind": "person"
+    },
+    {
+     "de": "Trzcińskischen",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Großen",
+     "en": "Großen",
+     "kind": "other"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Krieges und Forst Rath",
+     "en": "Councillor of War and Forests",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "238",
+    "4",
+    "29",
+    "14"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "I am glad to see from it that I am not wholly erased from your [uncertain: remembrance] — I will believe that the letter, the loss of which the negligence of Mr Koenig has brought upon me, may at least have contained instructive disclosures for me; for that very reason it was inexcusable that he put it into the post at Syców. What has become of the letter I can [uncertain: not] guess, particularly since you did not give me the date. From the newspapers I see that in the fire at Syców the post house was burnt down along with the rest, and many letters lying there became a prey to the flames. — The [uncertain: worst] of it is now that I know nothing of what you wished me to do; meanwhile I enclose herewith a letter to His Majesty the Russian Emperor under open seal, so that, if you find it suited thereto, the necessary use may be made of it. In any case I have done what I was able to do, and I beg Your Right Honourable for further instruction; I have hitherto omitted nothing, in order to prove with all resignation my patriotism and good will. What I wrote, and how I was answered, the enclosure shows. — To the King, to the Staats Kanzler and to the Justiz Minister I applied afresh in my pressing concern, that they might vigorously lend their weight at Brzeg to the compromise agreement proposed by me with the creditors, and favour the determination of a",
+   "names": [
+    {
+     "de": "Könige",
+     "en": "Koenig",
+     "kind": "person"
+    },
+    {
+     "de": "Wartenberg",
+     "en": "Syców",
+     "kind": "place"
+    },
+    {
+     "de": "Wartenberg",
+     "en": "Syców",
+     "kind": "place"
+    },
+    {
+     "de": "Rusſischen Kaysers Majestaet",
+     "en": "His Majesty the Russian Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "person"
+    },
+    {
+     "de": "Staats Kanzler",
+     "en": "Staats Kanzler",
+     "kind": "person"
+    },
+    {
+     "de": "Justiz Minister",
+     "en": "Justiz Minister",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "a fair allowance for me; this intercession was likewise refused me. For the rest there is silence upon everything, and it seems that they wish at last to abandon me to death by hunger. You already know everything upon this head, wherefore I find it useless to say anything further of it. My situation is dreadful and the conduct towards me cruel. General von Roeder represented this to Mr von Hardenberg while still at Wrocław, but I remained uninformed of the result as well. — I entreated the protection of the two monarchs afresh in certain cases, so as not to let the reproach of a neglect be charged to me, and entrusted my letter to the King to the Staats Kanzler, and that to the Emperor to Mr Minister von Stein, for delivery; this too I did not wish to [uncertain: conceal] from you, but I beg that of this disclosure only the most cautious use be made. Let me, Your Right Honourable, [uncertain: not] be without early news of the arrival of this letter, and instruct me as to the course of your negotiations. More swiftly I could not comply with your wishes, since the letter goes off tomorrow morning with the mounted post tomorrow and probably arrives on the 11th of this month in Dresden. As I hear today, the two monarchs had already departed for Altenburg; in no case, however, can you be so far removed from them that you could not personally open the",
+   "names": [
+    {
+     "de": "General v. Roeder",
+     "en": "von Roeder, General",
+     "kind": "person"
+    },
+    {
+     "de": "Herrn v. Hardenberg",
+     "en": "Mr von Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "person"
+    },
+    {
+     "de": "Staats Kanzler",
+     "en": "Staats Kanzler",
+     "kind": "person"
+    },
+    {
+     "de": "Kayser",
+     "en": "Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "Herrn Minister v Stein",
+     "en": "Mr Minister von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Altenburg",
+     "en": "Altenburg",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "11"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "negotiations. The [uncertain: distinction] of your eldest son has greatly rejoiced me, and I take part in his sufferings from the wound. By your personal visit you act as an excellent father, which I esteem. — Do inform me soon when you return, and where we can most conveniently speak together. I do hope after all that something will soon be obtainable from Meierowitz, since help is all too needful to me. It appears, to my comfort, that you still expect advantage from Ratke's working upon the matter; have you then heard anything more particular from him about it at this time? If Your Right Honourable then not at all during the presence of the high personages at Kalisz. For your friendly assistance I beg with confidence. Wishing you lasting health and a happy journey, I remain in especial high esteem\n\nYour Right Honourable's\n\nSławięcice\n\n7th May 1813\n\nmost faithfully devoted friend and servant F[riedrich] L[udwig] P[rince] of Hohenlohe",
+   "names": [
+    {
+     "de": "Meierowitz",
+     "en": "Meierowitz",
+     "kind": "person"
+    },
+    {
+     "de": "Ratkes",
+     "en": "Ratke",
+     "kind": "person"
+    },
+    {
+     "de": "Kaliſch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "F[riedrich]. L[udwig]. F[ürst]. zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1813"
+   ]
+  }
+ ],
+ "text_english": "238\n\nRight Honourable Sir,\n\nHighly Honoured Sir, Councillor of War and Forests!\n\nYour messenger arrived only this forenoon; he excuses himself for having been so long on the way by saying that he had gone astray. From his march route I see that he was also with the chief district administrator Koenig. He said that the latter was at home and had taken the letters from him himself. Neither Trzciński, Zerboni, nor Koenig lets anything be heard of himself; the first has still paid nothing, the second has likewise fulfilled none of his obligations, Mr Weigelt presses me very hard, and I shall now attempt whether I can quiet him by means of the Trzciński bills of exchange. These monies from Großen I needed for true necessity, since here, unhappily, everything still stands as you know it. Your entire silence has filled me with sorrow, since from it I conclude that all your efforts on my behalf were fruitless. I sent Your Right Honourable a messenger, who however brought only a receipt from the district administrator at Blizanow, which Mr Schenck, after this express had been detained 4 days, expanded to this effect: that you had gone away, would return in 14 days, and that I should then soon receive an answer; this, to my great regret and real disadvantage, did not follow. Only today do I see from Your Right Honourable's dispatch of the 29th of April that you had written to me earlier, which lines I did not receive. I can assure you upon my word that the letter which I here answer is the first that I have received from you since you left Sławięcice; in vain, alas, have I long yearned for it. I\n\nI am glad to see from it that I am not wholly erased from your [uncertain: remembrance] — I will believe that the letter, the loss of which the negligence of Mr Koenig has brought upon me, may at least have contained instructive disclosures for me; for that very reason it was inexcusable that he put it into the post at Syców. What has become of the letter I can [uncertain: not] guess, particularly since you did not give me the date. From the newspapers I see that in the fire at Syców the post house was burnt down along with the rest, and many letters lying there became a prey to the flames. — The [uncertain: worst] of it is now that I know nothing of what you wished me to do; meanwhile I enclose herewith a letter to His Majesty the Russian Emperor under open seal, so that, if you find it suited thereto, the necessary use may be made of it. In any case I have done what I was able to do, and I beg Your Right Honourable for further instruction; I have hitherto omitted nothing, in order to prove with all resignation my patriotism and good will. What I wrote, and how I was answered, the enclosure shows. — To the King, to the Staats Kanzler and to the Justiz Minister I applied afresh in my pressing concern, that they might vigorously lend their weight at Brzeg to the compromise agreement proposed by me with the creditors, and favour the determination of a\n\na fair allowance for me; this intercession was likewise refused me. For the rest there is silence upon everything, and it seems that they wish at last to abandon me to death by hunger. You already know everything upon this head, wherefore I find it useless to say anything further of it. My situation is dreadful and the conduct towards me cruel. General von Roeder represented this to Mr von Hardenberg while still at Wrocław, but I remained uninformed of the result as well. — I entreated the protection of the two monarchs afresh in certain cases, so as not to let the reproach of a neglect be charged to me, and entrusted my letter to the King to the Staats Kanzler, and that to the Emperor to Mr Minister von Stein, for delivery; this too I did not wish to [uncertain: conceal] from you, but I beg that of this disclosure only the most cautious use be made. Let me, Your Right Honourable, [uncertain: not] be without early news of the arrival of this letter, and instruct me as to the course of your negotiations. More swiftly I could not comply with your wishes, since the letter goes off tomorrow morning with the mounted post tomorrow and probably arrives on the 11th of this month in Dresden. As I hear today, the two monarchs had already departed for Altenburg; in no case, however, can you be so far removed from them that you could not personally open the\n\nnegotiations. The [uncertain: distinction] of your eldest son has greatly rejoiced me, and I take part in his sufferings from the wound. By your personal visit you act as an excellent father, which I esteem. — Do inform me soon when you return, and where we can most conveniently speak together. I do hope after all that something will soon be obtainable from Meierowitz, since help is all too needful to me. It appears, to my comfort, that you still expect advantage from Ratke's working upon the matter; have you then heard anything more particular from him about it at this time? If Your Right Honourable then not at all during the presence of the high personages at Kalisz. For your friendly assistance I beg with confidence. Wishing you lasting health and a happy journey, I remain in especial high esteem\n\nYour Right Honourable's\n\nSławięcice\n\n7th May 1813\n\nmost faithfully devoted friend and servant F[riedrich] L[udwig] P[rince] of Hohenlohe",
  "summary_en": "",
  "summary_de": "Hohenlohe klagt, dass Trzciński nichts gezahlt und Zerboni seine Verbindlichkeiten nicht erfüllt habe. Herr Weigelt dränge ihn, er will ihn mit Trzcińskis Wechseln beruhigen. Ein früherer Brief Triebenfelds sei wohl beim Brand des Posthauses in Wartenberg verloren. Er legt ein offenes Schreiben an den russischen Kaiser zum Gebrauch bei. König, Staats Kanzler und Justiz Minister verweigerten ihm Hilfe beim Vergleich mit den Gläubigern zu Brieg. Er hofft, von Meierowitz etwas zu erhalten, und fragt nach Ratke.",
  "reading": {

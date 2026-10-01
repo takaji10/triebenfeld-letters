@@ -76,7 +76,40 @@
    "doc_line": 17
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -113,9 +146,41 @@
    "doc_line": 15
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "76\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe said exchange of estates is now under way, and perhaps the matter will shortly be settled. I shall go to Berlin at the beginning of September, and shall remain there until the end of that same month. The chief good fortune which I hope to partake of in Berlin is to see Your Most Serene Highness again in health, and to be able to lay myself personally at the feet of the same, whereupon I shall then render the most faithful report upon several matters of business.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's Wrocław, the 23rd of August 1798. truly most humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "76",
+    "23",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "76\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nThe said exchange of estates is now under way, and perhaps the matter will shortly be settled. I shall go to Berlin at the beginning of September, and shall remain there until the end of that same month. The chief good fortune which I hope to partake of in Berlin is to see Your Most Serene Highness again in health, and to be able to lay myself personally at the feet of the same, whereupon I shall then render the most faithful report upon several matters of business.\n\nIn deepest reverence I remain, until death, Your Most Serene Highness's Wrocław, the 23rd of August 1798. truly most humble and obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Von Triebenfeld meldet, dass der Gütertausch jetzt im Gange ist und vielleicht bald abgeschlossen wird. Er will Anfang September nach Berlin reisen und bis Ende des Monats bleiben. Dort hofft er den Fürsten wiederzusehen und ihm persönlich über mehrere Geschäfte zu berichten.",
  "reading": {

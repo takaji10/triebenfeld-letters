@@ -208,7 +208,184 @@
    "doc_line": 60
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bojadła",
+   "kind": "place",
+   "surface_de": "Boyadel",
+   "surface_en": "Bojadła",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Carl, Archduke",
+   "kind": "person",
+   "surface_de": "Erzherzog Carl",
+   "surface_en": "Carl, Archduke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hoff",
+   "kind": "place",
+   "surface_de": "Hoff",
+   "surface_en": "Hoff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Listog[uncertain: Listog]",
+   "kind": "person",
+   "surface_de": "Gl. Listog[?]",
+   "surface_en": "General Listog[uncertain: Listog]",
+   "page": 1
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Constantin, Grand Duke",
+   "kind": "person",
+   "surface_de": "Grosfürst Konstantin",
+   "surface_en": "Constantin, Grand Duke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brześć",
+   "kind": "place",
+   "surface_de": "Brześć",
+   "surface_en": "Brześć",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General von Zastrow",
+   "kind": "person",
+   "surface_de": "dH General von Zastrow",
+   "surface_en": "General von Zastrow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Opole",
+   "kind": "place",
+   "surface_de": "Oppeln",
+   "surface_en": "Opole",
+   "page": 3
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "König:",
+   "surface_en": "Königsberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 3
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -366,9 +543,159 @@
    "doc_line": 60
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "56\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nEven now I am still watching in vain for the arrival of the iron, and on that account I am delaying my journey, for until it is here I cannot depart; I have neither travelling money, still less can I satisfy Michaelis, who has just arrived here from Berlin. — It is the greatest misfortune that I must sit here so long and cannot depart for Königsberg, where at present so much good might be effected. Let Your Most Serene Highness have the singular grace to order that the 1000 Centner of iron be delivered here in Bojadła very soon indeed, so that I may make all arrangements and travel away. Michaelis brings the news that our troops in Berlin have already received sharp cartridges, and that a declaration of war is looked for at any moment. One matter has caused a great sensation in Berlin; it is this: when the news arrived in Berlin that the Archduke Carl had his headquarters in Hoff, General Listog[uncertain: Listog] gave out the parole \"Carl u Hoff\"; the French envoy was [uncertain: gewust] highly incensed at this and reported the same at once by courier to Napoleon. Everything is full of expectation of the things that are to come. The Russian troops are beginning to set themselves in motion on the Polish borders — the Grand Duke Constantin has departed from Petersburg in order to manoeuvre with the corps of 75000 men which stands in and near Brześć — The delivering-in of silver proceeds very well; in Berlin the crowding is so great that a larger staff has had to be engaged to expedite the stamping, because the people from the province must in part wait eight days and longer before they can be dispatched. At this time many men and horses are being driven together here",
+   "names": [
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Boyadel",
+     "en": "Bojadła",
+     "kind": "place"
+    },
+    {
+     "de": "Erzherzog Carl",
+     "en": "Carl, Archduke",
+     "kind": "person"
+    },
+    {
+     "de": "Hoff",
+     "en": "Hoff",
+     "kind": "place"
+    },
+    {
+     "de": "Gl. Listog[?]",
+     "en": "General Listog[uncertain: Listog]",
+     "kind": "person"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Grosfürst Konstantin",
+     "en": "Constantin, Grand Duke",
+     "kind": "person"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Brześć",
+     "en": "Brześć",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "56",
+    "1000",
+    "75000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "in order to bring together a strong corps and to mobilise quickly — It seems certain that our house will again have to take part in the business.\n\nTo the Lord General von Zastrow the King has written a most obliging letter in his own hand, and has referred him to patience for only a short time longer.\n\nI burn with [uncertain: Begmode] to learn everything in full detail in Königsberg soon, so as to be able to give Your Most Serene Highness definite information upon everything, or to bring the same to you in your most high person. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nKonotop, the 20th of April\n\n1809.\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "dH General von Zastrow",
+     "en": "General von Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1809"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "May Your Most Serene Highness most graciously pardon this postscript. At the very moment when I was about to send off this letter, my [uncertain: Hoh] steward brings the accompanying letters, in which it is reported how much iron has gone off from Opole. As much as this would have gladdened me, so much does it cast down my spirits that I am to pay the freight charge — I have as yet no travelling money — whence am I to take the freight costs?\n\nMichaelis receives 600 Rtl. of iron; this costs over 240 rt. in freight and duty from here to Berlin — Lahr would receive, for interest, costs and capital, 400 Centner at 5 rt 12 ggl, which comes to 2200 rt; there I must again lay out some 200 rt. for freight, duty and dues from here, and even with that I shall not manage, if the costs should come to more.\n\nI have already exerted everything to raise travelling money; as yet I have not succeeded, though I have a promise of receiving 500 rt on Sunday. If that succeeds, then I shall set out at once for Königsberg — but the freight charge I cannot pay; may it please Your Most Serene Highness most graciously to [uncertain: sehen] have this defrayed, and to order that the 217 Centner of iron still wanting to make up the 1000 be sent here at the very soonest, so that the same may be dispatched from here at once to Berlin to van der Lahr — otherwise I travel full of care and cannot work on with a quiet heart and an open brow",
+   "names": [
+    {
+     "de": "Oppeln",
+     "en": "Opole",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "König:",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "600",
+    "240",
+    "400",
+    "5",
+    "12",
+    "2200",
+    "200",
+    "500",
+    "1000",
+    "217"
+   ]
+  }
+ ],
+ "text_english": "56\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nEven now I am still watching in vain for the arrival of the iron, and on that account I am delaying my journey, for until it is here I cannot depart; I have neither travelling money, still less can I satisfy Michaelis, who has just arrived here from Berlin. — It is the greatest misfortune that I must sit here so long and cannot depart for Königsberg, where at present so much good might be effected. Let Your Most Serene Highness have the singular grace to order that the 1000 Centner of iron be delivered here in Bojadła very soon indeed, so that I may make all arrangements and travel away. Michaelis brings the news that our troops in Berlin have already received sharp cartridges, and that a declaration of war is looked for at any moment. One matter has caused a great sensation in Berlin; it is this: when the news arrived in Berlin that the Archduke Carl had his headquarters in Hoff, General Listog[uncertain: Listog] gave out the parole \"Carl u Hoff\"; the French envoy was [uncertain: gewust] highly incensed at this and reported the same at once by courier to Napoleon. Everything is full of expectation of the things that are to come. The Russian troops are beginning to set themselves in motion on the Polish borders — the Grand Duke Constantin has departed from Petersburg in order to manoeuvre with the corps of 75000 men which stands in and near Brześć — The delivering-in of silver proceeds very well; in Berlin the crowding is so great that a larger staff has had to be engaged to expedite the stamping, because the people from the province must in part wait eight days and longer before they can be dispatched. At this time many men and horses are being driven together here\n\nin order to bring together a strong corps and to mobilise quickly — It seems certain that our house will again have to take part in the business.\n\nTo the Lord General von Zastrow the King has written a most obliging letter in his own hand, and has referred him to patience for only a short time longer.\n\nI burn with [uncertain: Begmode] to learn everything in full detail in Königsberg soon, so as to be able to give Your Most Serene Highness definite information upon everything, or to bring the same to you in your most high person. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nKonotop, the 20th of April\n\n1809.\n\nfaithful and most obedient servant\n\nv Triebenfeld\n\nMay Your Most Serene Highness most graciously pardon this postscript. At the very moment when I was about to send off this letter, my [uncertain: Hoh] steward brings the accompanying letters, in which it is reported how much iron has gone off from Opole. As much as this would have gladdened me, so much does it cast down my spirits that I am to pay the freight charge — I have as yet no travelling money — whence am I to take the freight costs?\n\nMichaelis receives 600 Rtl. of iron; this costs over 240 rt. in freight and duty from here to Berlin — Lahr would receive, for interest, costs and capital, 400 Centner at 5 rt 12 ggl, which comes to 2200 rt; there I must again lay out some 200 rt. for freight, duty and dues from here, and even with that I shall not manage, if the costs should come to more.\n\nI have already exerted everything to raise travelling money; as yet I have not succeeded, though I have a promise of receiving 500 rt on Sunday. If that succeeds, then I shall set out at once for Königsberg — but the freight charge I cannot pay; may it please Your Most Serene Highness most graciously to [uncertain: sehen] have this defrayed, and to order that the 217 Centner of iron still wanting to make up the 1000 be sent here at the very soonest, so that the same may be dispatched from here at once to Berlin to van der Lahr — otherwise I travel full of care and cannot work on with a quiet heart and an open brow",
  "summary_en": "",
  "summary_de": "Triebenfeld wartet vergeblich auf die 1000 Centner Eisen, ohne die er weder Reisegeld hat noch Michaelis befriedigen und nach Königsberg reisen kann, und bittet um baldige Lieferung nach Bojadła. Im Nachtrag meldet er, dass Eisen von Opole abgegangen ist, er aber die Fracht zahlen soll. Lahr soll 400 Centner zu 5 Rthl 12 ggl, also 2200 Rthl, erhalten. Er bittet, die Fracht zu übernehmen und die fehlenden 217 Centner zu schicken.",
  "reading": {

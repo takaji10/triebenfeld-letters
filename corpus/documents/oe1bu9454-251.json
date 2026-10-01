@@ -138,7 +138,80 @@
    "doc_line": 34
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "H[err]. F[ürst]. zu Hohenlohe",
+   "surface_en": "the Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brzeg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Medical Councillor Cosmar",
+   "kind": "person",
+   "surface_de": "M[edicinal]. R[ath]. C[osmar].",
+   "surface_en": "the Medical Councillor Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Courland heirs",
+   "kind": "other",
+   "surface_de": "C[urische]. Erben",
+   "surface_en": "the Courland heirs",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cos[mar]",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "p Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "Sr M[ajestät]",
+   "surface_en": "His Majesty",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -153,9 +226,77 @@
    "doc_line": 31
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "251\n\nCopy\n\nMost Serene Prince, etc.\n\nThe Prince of Hohenlohe has, in this matter lying before Your Most Serene Highness, had a further opinion drawn up from the records which lie with the High Provincial Court at Brzeg, by the man of law already made known to Your Serene Highness, in order to see the whole matter quite clearly. He has sent this to me with the charge of laying it most devotedly, by way of supplement, at Your Most Serene Highness's feet. His just complaints over his boundlessly unfortunate situation, in which the Medical Councillor Cosmar keeps him fettered, cut through every feeling heart, and for that reason alone do I venture to carry out the Prince's charge and to trouble Your Most Serene Highness. Have mercy, most gracious Prince and Lord, upon this suffering, honest man. May Your Serene Highness deign only to grant the Prince the hope in writing that the 112/m Rthl for the settlement with the Courland heirs shall be advanced — even if not in cash at this moment — then the Prince is put in a position to conclude the compromise with the Courland mandatories at once in the most legally binding manner, and everything will resolve itself. The more so, as thereafter the entailed estates must be administered for the royal account. The settlement and the codicil of 1811 — which was forged by Cosmar above all in order to defraud the monarch of 426/m Rthl, and other creditors too of what is theirs — collapse [uncertain: of] themselves. His Majesty [illegible] the guarantee back at once, without its costing the King a heller, and gains besides the 35000 Rthl advanced to the Prince in 1790.\n\nMost [uncertain: Allersebnißest] however I venture to remark that every delay threatens danger, for first, Cosmar spins his web tighter and confuses the matter daily more — secondly, the Prince is about 66 years of age, bowed down and worn out by care; he might well succumb to his misery, as Cosmar and the young Prince wish. Then nothing is registered upon the entailed estates; the Courland heirs, who have on their side the guarantee of His late Royal Majesty (the All-Highest under whom the debts were originally contracted), and who also drew the interest until 1806 out of the royal treasury, would obtain by way of law that His Majesty must pay, and in that manner the monarch would lose, inclusive of the 35000 Rthl, 461000 Rthl.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 19th of November\n\n1814\n\nmost humbly, most faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "H[err]. F[ürst]. zu Hohenlohe",
+     "en": "the Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "M[edicinal]. R[ath]. C[osmar].",
+     "en": "the Medical Councillor Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "C[urische]. Erben",
+     "en": "the Courland heirs",
+     "kind": "other"
+    },
+    {
+     "de": "Cos[mar]",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "p Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Sr M[ajestät]",
+     "en": "His Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "251",
+    "112/m",
+    "1811",
+    "426/m",
+    "35000",
+    "1790",
+    "1",
+    "2",
+    "66",
+    "1806",
+    "35000",
+    "461000",
+    "19",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "251\n\nCopy\n\nMost Serene Prince, etc.\n\nThe Prince of Hohenlohe has, in this matter lying before Your Most Serene Highness, had a further opinion drawn up from the records which lie with the High Provincial Court at Brzeg, by the man of law already made known to Your Serene Highness, in order to see the whole matter quite clearly. He has sent this to me with the charge of laying it most devotedly, by way of supplement, at Your Most Serene Highness's feet. His just complaints over his boundlessly unfortunate situation, in which the Medical Councillor Cosmar keeps him fettered, cut through every feeling heart, and for that reason alone do I venture to carry out the Prince's charge and to trouble Your Most Serene Highness. Have mercy, most gracious Prince and Lord, upon this suffering, honest man. May Your Serene Highness deign only to grant the Prince the hope in writing that the 112/m Rthl for the settlement with the Courland heirs shall be advanced — even if not in cash at this moment — then the Prince is put in a position to conclude the compromise with the Courland mandatories at once in the most legally binding manner, and everything will resolve itself. The more so, as thereafter the entailed estates must be administered for the royal account. The settlement and the codicil of 1811 — which was forged by Cosmar above all in order to defraud the monarch of 426/m Rthl, and other creditors too of what is theirs — collapse [uncertain: of] themselves. His Majesty [illegible] the guarantee back at once, without its costing the King a heller, and gains besides the 35000 Rthl advanced to the Prince in 1790.\n\nMost [uncertain: Allersebnißest] however I venture to remark that every delay threatens danger, for first, Cosmar spins his web tighter and confuses the matter daily more — secondly, the Prince is about 66 years of age, bowed down and worn out by care; he might well succumb to his misery, as Cosmar and the young Prince wish. Then nothing is registered upon the entailed estates; the Courland heirs, who have on their side the guarantee of His late Royal Majesty (the All-Highest under whom the debts were originally contracted), and who also drew the interest until 1806 out of the royal treasury, would obtain by way of law that His Majesty must pay, and in that manner the monarch would lose, inclusive of the 35000 Rthl, 461000 Rthl.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 19th of November\n\n1814\n\nmost humbly, most faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld legt ein Gutachten vor, das der Fürst zu Hohenlohe aus den Akten des Brieger Oberlandesgerichts anfertigen ließ. Er bittet um die schriftliche Hoffnung, dass 112/m Rthl zur Abfindung der C. Erben vorgeschossen werden, damit der Fürst den Vergleich mit deren Mandatarien schließen kann. Transakt und Codizill von 1811 seien von Cosmar geschmiedet. Der Fürst ist an 66 Jahre alt, jede Verzögerung sei daher gefährlich: Der Monarch könnte 461000 Rthl einschließlich 35000 Rthl verlieren.",
  "reading": {

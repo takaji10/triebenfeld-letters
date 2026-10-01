@@ -73,7 +73,48 @@
    "doc_line": 14
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nagel",
+   "kind": "person",
+   "surface_de": "Nageln",
+   "surface_en": "Nagel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radszewski",
+   "kind": "person",
+   "surface_de": "Radszewski",
+   "surface_en": "Radszewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -88,9 +129,44 @@
    "doc_line": 2
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Pro Memoria.\n\nIt is necessary that a head forester be appointed at Zagórów — I had designated the old Richter's son, and at the Bra[text lost] my distillery the Nagel woman's nephew as propination officer; but Richter must now administer the latter, because the Nagel woman has called her nephew away — So, as said above, a head forester is necessary — if Your Serene Highness wishes to help the poor Radszewski, be pleased to send him here quickly — With 300 Rthl a year he must be content until heaven helps further — If you approve this, most gracious Lord, then send Radszewski with all haste and send me at once your opinion concerning the exchange of the estates, along with\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Nageln",
+     "en": "Nagel",
+     "kind": "person"
+    },
+    {
+     "de": "Radszewski",
+     "en": "Radszewski",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "300"
+   ]
+  }
+ ],
+ "text_english": "Pro Memoria.\n\nIt is necessary that a head forester be appointed at Zagórów — I had designated the old Richter's son, and at the Bra[text lost] my distillery the Nagel woman's nephew as propination officer; but Richter must now administer the latter, because the Nagel woman has called her nephew away — So, as said above, a head forester is necessary — if Your Serene Highness wishes to help the poor Radszewski, be pleased to send him here quickly — With 300 Rthl a year he must be content until heaven helps further — If you approve this, most gracious Lord, then send Radszewski with all haste and send me at once your opinion concerning the exchange of the estates, along with\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld hält die Anstellung eines Oberförsters in Zagórów für nötig. Der Richter muss jetzt die Propination verwalten, weil die Nageln ihren Neffen, der als Propinationsbeamter vorgesehen war, abgerufen hat. Will der Fürst dem armen Radszewski helfen, soll er ihn schnell schicken; mit 300 Rthl jährlich müsse dieser zufrieden sein. Triebenfeld bittet zugleich um die Meinung des Fürsten zum Tausch der Güter.",
  "reading": {

@@ -192,7 +192,200 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Gosztiszyn",
+   "kind": "place",
+   "surface_de": "Gosztiszyn",
+   "surface_en": "Gosztiszyn",
+   "page": 1
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schmidt",
+   "kind": "person",
+   "surface_de": "Schmidt",
+   "surface_en": "Schmidt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Radziwiłł",
+   "kind": "person",
+   "surface_de": "Fürsten Radziwiłł",
+   "surface_en": "Prince Radziwiłł",
+   "page": 1
+  },
+  {
+   "entity": "radziwill",
+   "display": "Antoni Radziwiłł",
+   "kind": "person",
+   "surface_de": "Radziwill",
+   "surface_en": "Radziwiłł",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Radziwiłł",
+   "kind": "person",
+   "surface_de": "F. Rad[ziwiłł]",
+   "surface_en": "Prince Radziwiłł",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posens",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Grand Duchy of Poznań",
+   "kind": "place",
+   "surface_de": "G L. Posens",
+   "surface_en": "the Grand Duchy of Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Radziwiłł",
+   "kind": "person",
+   "surface_de": "Fürsten Radziwiłł",
+   "surface_en": "Prince Radziwiłł",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Klew[text lost]",
+   "kind": "other",
+   "surface_de": "Klew[...]",
+   "surface_en": "Klew[text lost]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stag[text lost]",
+   "kind": "other",
+   "surface_de": "Stag[...]",
+   "surface_en": "Stag[text lost]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Cziszewska",
+   "kind": "person",
+   "surface_de": "Cziszewska",
+   "surface_en": "Cziszewska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Grand Duke Constantin",
+   "kind": "person",
+   "surface_de": "Gr Furst Constantin",
+   "surface_en": "Grand Duke Constantin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohln[ische]",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -295,9 +488,150 @@
    "doc_line": 45
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "300\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\n[text lost] I receive the news that at Gosztiszyn a [text lost]schlag has been handed in — but no letter is [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it — [text lost] could be back in Poznań on the 22nd — He was [text lost] to Berlin to be dismissed, or at the least soundly [uncertain: gerichtfelt] — the matter was this: the two of them were to submit an opinion on the organisation of the Grand Duchy of Poznań — Zerboni [text lost] drew it up with his secretary Schmidt and in the end sent it [text lost] to Prince Radziwiłł for his counter-signature — Radziwiłł refused the latter, because it was the opposite of what the King himself had said to the Prince and had ordered him to do — [text lost] Prince Radziwiłł accordingly sent Zerboni the [uncertain: Prese] back with the proper observations — Zerboni, incensed at this, said: The devil is as welcome as the Prince — His signature is not needed. I am the governing lord here —",
+   "names": [
+    {
+     "de": "Gosztiszyn",
+     "en": "Gosztiszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Schmidt",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Radziwiłł",
+     "en": "Prince Radziwiłł",
+     "kind": "person"
+    },
+    {
+     "de": "Radziwill",
+     "en": "Radziwiłł",
+     "kind": "person"
+    },
+    {
+     "de": "F. Rad[ziwiłł]",
+     "en": "Prince Radziwiłł",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Posens",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G L. Posens",
+     "en": "the Grand Duchy of Poznań",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "300",
+    "22"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "This was at once [text lost] to Prince Radziwiłł, who, exasperated in the highest degree, went off immediately with [text lost] his wife followed him, and both [text lost] the King had the Prince [text lost] \"were indeed of the opinion that the [text lost]\n\nthe said is a new [text lost]\"\n\nZ was forthwith [sent] to Berlin [text lost]\n\nunknown — It is said Klew[text lost] but the money-men as Stag[text lost] I go cautiously about my affairs — [text lost] at Petersburg things are said to look [uncertain: gänztig]. [text lost] the Senate is said to have entirely rejected the Polish constitution which the [text lost] fine Cziszewska signed — It is said that upon this the Poles declared themselves to the Emperor through a secret deputation, that they stand ready to serve him at once with several hundred thousand men and would sacrifice everything to uphold the constitution. This is said to have become known there, and now the devil is altogether loose. Grand Duke Constantin has gone to Petersburg as if on the wings of the wind [text lost] When my messenger sent to Sławięcice can [be back], then I go to Pszczew, and when I am finished there, to Berlin, to press the compensation business. In the principal matter I refer to my last letter, [text lost] I remain, until death, in deepest reverence\n\nYour Serene Highness's\n\nBlizanow\n\n2[9?] January 1816\n\nwholly humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Fürsten Radziwiłł",
+     "en": "Prince Radziwiłł",
+     "kind": "person"
+    },
+    {
+     "de": "Klew[...]",
+     "en": "Klew[text lost]",
+     "kind": "other"
+    },
+    {
+     "de": "Stag[...]",
+     "en": "Stag[text lost]",
+     "kind": "other"
+    },
+    {
+     "de": "Cziszewska",
+     "en": "Cziszewska",
+     "kind": "person"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Gr Furst Constantin",
+     "en": "Grand Duke Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Pohln[ische]",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2[9?]",
+    "1816"
+   ]
+  }
+ ],
+ "text_english": "300\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\n[text lost] I receive the news that at Gosztiszyn a [text lost]schlag has been handed in — but no letter is [text lost] I shall have it fetched tomorrow and then make the [text lost] use of it — [text lost] could be back in Poznań on the 22nd — He was [text lost] to Berlin to be dismissed, or at the least soundly [uncertain: gerichtfelt] — the matter was this: the two of them were to submit an opinion on the organisation of the Grand Duchy of Poznań — Zerboni [text lost] drew it up with his secretary Schmidt and in the end sent it [text lost] to Prince Radziwiłł for his counter-signature — Radziwiłł refused the latter, because it was the opposite of what the King himself had said to the Prince and had ordered him to do — [text lost] Prince Radziwiłł accordingly sent Zerboni the [uncertain: Prese] back with the proper observations — Zerboni, incensed at this, said: The devil is as welcome as the Prince — His signature is not needed. I am the governing lord here —\n\nThis was at once [text lost] to Prince Radziwiłł, who, exasperated in the highest degree, went off immediately with [text lost] his wife followed him, and both [text lost] the King had the Prince [text lost] \"were indeed of the opinion that the [text lost]\n\nthe said is a new [text lost]\"\n\nZ was forthwith [sent] to Berlin [text lost]\n\nunknown — It is said Klew[text lost] but the money-men as Stag[text lost] I go cautiously about my affairs — [text lost] at Petersburg things are said to look [uncertain: gänztig]. [text lost] the Senate is said to have entirely rejected the Polish constitution which the [text lost] fine Cziszewska signed — It is said that upon this the Poles declared themselves to the Emperor through a secret deputation, that they stand ready to serve him at once with several hundred thousand men and would sacrifice everything to uphold the constitution. This is said to have become known there, and now the devil is altogether loose. Grand Duke Constantin has gone to Petersburg as if on the wings of the wind [text lost] When my messenger sent to Sławięcice can [be back], then I go to Pszczew, and when I am finished there, to Berlin, to press the compensation business. In the principal matter I refer to my last letter, [text lost] I remain, until death, in deepest reverence\n\nYour Serene Highness's\n\nBlizanow\n\n2[9?] January 1816\n\nwholly humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Berichtet über einen Streit in Posen: Zerboni ließ mit seinem Sekretär Schmidt ein Gutachten zur Organisation Posens entwerfen. Fürst Radziwiłł verweigerte die Mitunterschrift, weil es dem Befehl des Königs widersprach, worauf Zerboni erklärte, er sei hier regierender Herr. Zerboni wurde nach Berlin geschickt. Gerüchte: Der Senat in Petersburg soll die polnische Verfassung verworfen haben, Großfürst Constantin eilte nach Petersburg. Nach Rückkehr seines Boten aus Sławięcice will Triebenfeld nach Pszczew und dann nach Berlin wegen der Entschädigung reisen.",
  "reading": {

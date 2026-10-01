@@ -449,7 +449,280 @@
    "doc_line": 99
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigſter Fürſt",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Otocki",
+   "kind": "person",
+   "surface_de": "v. Otocki",
+   "surface_en": "von Otocki",
+   "page": 1
+  },
+  {
+   "entity": "radzinski",
+   "display": "Ignatz von Radzinski",
+   "kind": "person",
+   "surface_de": "Radzinski",
+   "surface_en": "Radzinski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "v. Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kleur",
+   "kind": "person",
+   "surface_de": "Kleur",
+   "surface_en": "Kleur",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Goldbeck",
+   "kind": "person",
+   "surface_de": "Herr v Goldbeck",
+   "surface_en": "Mr von Goldbeck",
+   "page": 2
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr von Klewitz",
+   "kind": "person",
+   "surface_de": "H v Klewitz",
+   "surface_en": "Mr von Klewitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr Glenck",
+   "kind": "person",
+   "surface_de": "Herr p. Glenck",
+   "surface_en": "Mr Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupten",
+   "surface_en": "Wollenhaupt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 2
+  },
+  {
+   "entity": "meyer",
+   "display": "Meyer",
+   "kind": "person",
+   "surface_de": "Meyer",
+   "surface_en": "Meyer",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wieniec heirs",
+   "kind": "other",
+   "surface_de": "Winnickischen Erben",
+   "surface_en": "Wieniec heirs",
+   "page": 3
+  },
+  {
+   "entity": "chwalowski",
+   "display": "Chwalowski",
+   "kind": "person",
+   "surface_de": "Chwalowski",
+   "surface_en": "Chwalowski",
+   "page": 3
+  },
+  {
+   "entity": "sprengel",
+   "display": "Sprengel",
+   "kind": "person",
+   "surface_de": "Sprengel",
+   "surface_en": "Sprengel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr Glenck",
+   "kind": "person",
+   "surface_de": "H. Glenck",
+   "surface_en": "Mr Glenck",
+   "page": 3
+  },
+  {
+   "entity": "wollenhaupt",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupt",
+   "surface_en": "Wollenhaupt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wieniec",
+   "kind": "place",
+   "surface_de": "Winnichischen",
+   "surface_en": "Wieniec",
+   "page": 3
+  },
+  {
+   "entity": "wollenhaupt",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupt",
+   "surface_en": "Wollenhaupt",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "building councillor Glenck",
+   "kind": "person",
+   "surface_de": "Bau Rath Glenck",
+   "surface_en": "building councillor Glenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Mr Glenck",
+   "kind": "person",
+   "surface_de": "H. Glenck",
+   "surface_en": "Mr Glenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Mariantów",
+   "kind": "place",
+   "surface_de": "Marianton",
+   "surface_en": "Mariantów",
+   "page": 4
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcier",
+   "surface_en": "Swięcia",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "St George's Day",
+   "kind": "other",
+   "surface_de": "George Tag",
+   "surface_en": "St George's Day",
+   "page": 4
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -530,9 +803,236 @@
    "doc_line": 100
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "168\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe snow, lying a foot deep here, hinders all my operations; I must sit here to no purpose, without being able to do anything. The contracts with the old peasants and the securing of the dues I have these days concluded before the court, and have thereby secured to Your Serene Highness a considerable revenue for all time. I am now negotiating over Szetlewek and the propination rights with von Otocki, for old Radzinski changes his mind every moment and would gladly drag the matter out so as to be able to cheat in the end. From Berlin I have good news concerning the loan; Amelang promises to bring everything about, only I am not to hurry him. The Department still urgently requires the refusal of Minister\n\nvon Voss and of the Chamber concerning the revision of the assessments. This I shall send on by the first post to Amelang, and I hope for the best. Concerning the dismemberment, Kleur has stated that if the grounds were not sold as at Pszczew [uncertain: gegen für] for ready money but for a proportionate rent, the consent should not [uncertain: arise/fail].",
+   "names": [
+    {
+     "de": "Durchlauchtigſter Fürſt",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "v. Otocki",
+     "en": "von Otocki",
+     "kind": "person"
+    },
+    {
+     "de": "Radzinski",
+     "en": "Radzinski",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "v. Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Kleur",
+     "en": "Kleur",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "The latter has for the most part been done, and the consent will assuredly follow shortly, since Mr von Goldbeck has written so handsomely. Meanwhile I have sent Amelang with all speed a description of the whole matter, so that he may demonstrate everything thoroughly to Mr von Klewitz and show him that the revenues of these estates are not being sold, but rather are by the dismemberment increased fourfold and set on a footing for all time. More than galling it is for me, however, that amid so many labours I must still do battle against a pack of villains; and were my attachment to Your Serene Highness not boundless, I should long since have grown weary in my zeal.\n\nMr Glenck here makes merry over my dealings, makes them ridiculous before the world, and is at pains to thwart everything. He has now made common cause with Wollenhaupt, engaged him as his mandatary, and promised him all the kingdoms of the world. The three Oleśnica lads and a certain Meyer are likewise in this plot, and when purchasers come, all these scoundrels take pains to talk the people out of it. Altogether Glenck's conduct is [uncertain: haab] and vindictive, and it is all one to him whether he helps to cheat Your Serene Highness of several thousand Rthl, so long as he attains his purpose and, with the plot, hinders everything. All is in the greatest confusion, and no one can find either beginning or end — thus, for example, the",
+   "names": [
+    {
+     "de": "Herr v Goldbeck",
+     "en": "Mr von Goldbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "H v Klewitz",
+     "en": "Mr von Klewitz",
+     "kind": "person"
+    },
+    {
+     "de": "Herr p. Glenck",
+     "en": "Mr Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Wollenhaupten",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Meyer",
+     "en": "Meyer",
+     "kind": "person"
+    },
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Wieniec heirs have now again sued for 1300 Rthl of surveying costs.\n\nChwalowski demands 850 rt.\n\nSprengel, what Mr Glenck now certifies, 61 rt. Wollenhaupt 800 rt.\n\n[uncertain: total] is 3011 rt.\n\nThese people have already received large sums, and notwithstanding that, there is nothing substantial on hand from Glenck, nor any survey register; rather everything must be surveyed and allotted anew. In the Wieniec matter, however, nothing will come of it, for I know the curator; Chwalowski will have to content himself with the half; Sprengel must have his money, since Glenck has certified to him the claim of 61 rt. for his present exertions. With Wollenhaupt, however, it will look foolish. The fellow demands, as said above, 800 rtl. I proved to him that he has worked elsewhere these 2 years and left Your Serene Highness's works quite untouched, whereby 600 rt. fell away.\n\nFurther, that for 4 years he had appropriated to himself 5 Hufen of land and used them all; this amounts yearly to 150 rt, consequently for 4 years 600 rt, which makes 1200 rt.\n\nHe must therefore still hand back 400 rt.",
+   "names": [
+    {
+     "de": "Winnickischen Erben",
+     "en": "Wieniec heirs",
+     "kind": "other"
+    },
+    {
+     "de": "Chwalowski",
+     "en": "Chwalowski",
+     "kind": "person"
+    },
+    {
+     "de": "Sprengel",
+     "en": "Sprengel",
+     "kind": "person"
+    },
+    {
+     "de": "H. Glenck",
+     "en": "Mr Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Wollenhaupt",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Winnichischen",
+     "en": "Wieniec",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1300",
+    "850",
+    "61",
+    "800",
+    "3011",
+    "61",
+    "800",
+    "2",
+    "600",
+    "4",
+    "5",
+    "150",
+    "4",
+    "600",
+    "1200",
+    "400"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "To this Wollenhaupt replies that the building councillor Glenck had granted him leave to undertake works outside, wherever he knew of them and was able, for it would indeed be an honour to the Prince if his people were sought after.\n\nWith regard to the 5 Hufen he made use of, the same man says likewise that\n\nMr Glenck had given him leave to use them freely and to draw the revenues of Mariantów / that is, rent from the inhabitants / and everything.\n\nThe dwelling, too, the fellow will not vacate, for he says that both Mr Glenck and also Your Serene Highness had assured him the dwelling for so long as until he should be otherwise provided for. Schenck is hanging his lip over this, since he cannot move in, and will probably give up his engagement and the justiciary's office — I must now cajole this fellow too as far as possible — but if he grows too defiant, he may go to the devil, [text lost] now I have pretty well [uncertain: worked my way through], and for that post we shall find a hundred for one — but it is enough to drive one mad, to have to struggle about with all these lads amid works already beyond surveying, and to keep the rogues always in eye so that they do not do too much damage — Schenck insists absolutely on 4 [uncertain: Herren] of land and on the liberty to choose an actuary himself. I shall make oral report to Your Serene Highness upon it.\n\nWith boundless fidelity I remain, until death,\n\nYour Serene Highness's\n\nTrąbczyn\n\nthe 31st of March 1805\n\nhumble and obedient servant\n\nvon Triebenfeld\n\nThe old subjects of Swięcia I have bought out for a trifle, and have just now concluded a contract with other people for all 28 Hufen; they give 400 rt in cash per Hufe and 15 rt yearly in interest, bear all burdens like the others, pay 10 per cent transfer fee (Laudemium), and pay on St George's Day a sum suited to the matter. NB this is the profit of 10/m rt. — sold against the 1st, and instead of 2–10 per cent transfer fee in earnest money —",
+   "names": [
+    {
+     "de": "Wollenhaupt",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Bau Rath Glenck",
+     "en": "building councillor Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "H. Glenck",
+     "en": "Mr Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Marianton",
+     "en": "Mariantów",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Swięcier",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "George Tag",
+     "en": "St George's Day",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5",
+    "4",
+    "31",
+    "1805",
+    "28",
+    "400",
+    "15",
+    "10",
+    "10/m",
+    "1",
+    "2",
+    "10"
+   ]
+  }
+ ],
+ "text_english": "168\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe snow, lying a foot deep here, hinders all my operations; I must sit here to no purpose, without being able to do anything. The contracts with the old peasants and the securing of the dues I have these days concluded before the court, and have thereby secured to Your Serene Highness a considerable revenue for all time. I am now negotiating over Szetlewek and the propination rights with von Otocki, for old Radzinski changes his mind every moment and would gladly drag the matter out so as to be able to cheat in the end. From Berlin I have good news concerning the loan; Amelang promises to bring everything about, only I am not to hurry him. The Department still urgently requires the refusal of Minister\n\nvon Voss and of the Chamber concerning the revision of the assessments. This I shall send on by the first post to Amelang, and I hope for the best. Concerning the dismemberment, Kleur has stated that if the grounds were not sold as at Pszczew [uncertain: gegen für] for ready money but for a proportionate rent, the consent should not [uncertain: arise/fail].\n\nThe latter has for the most part been done, and the consent will assuredly follow shortly, since Mr von Goldbeck has written so handsomely. Meanwhile I have sent Amelang with all speed a description of the whole matter, so that he may demonstrate everything thoroughly to Mr von Klewitz and show him that the revenues of these estates are not being sold, but rather are by the dismemberment increased fourfold and set on a footing for all time. More than galling it is for me, however, that amid so many labours I must still do battle against a pack of villains; and were my attachment to Your Serene Highness not boundless, I should long since have grown weary in my zeal.\n\nMr Glenck here makes merry over my dealings, makes them ridiculous before the world, and is at pains to thwart everything. He has now made common cause with Wollenhaupt, engaged him as his mandatary, and promised him all the kingdoms of the world. The three Oleśnica lads and a certain Meyer are likewise in this plot, and when purchasers come, all these scoundrels take pains to talk the people out of it. Altogether Glenck's conduct is [uncertain: haab] and vindictive, and it is all one to him whether he helps to cheat Your Serene Highness of several thousand Rthl, so long as he attains his purpose and, with the plot, hinders everything. All is in the greatest confusion, and no one can find either beginning or end — thus, for example, the\n\nWieniec heirs have now again sued for 1300 Rthl of surveying costs.\n\nChwalowski demands 850 rt.\n\nSprengel, what Mr Glenck now certifies, 61 rt. Wollenhaupt 800 rt.\n\n[uncertain: total] is 3011 rt.\n\nThese people have already received large sums, and notwithstanding that, there is nothing substantial on hand from Glenck, nor any survey register; rather everything must be surveyed and allotted anew. In the Wieniec matter, however, nothing will come of it, for I know the curator; Chwalowski will have to content himself with the half; Sprengel must have his money, since Glenck has certified to him the claim of 61 rt. for his present exertions. With Wollenhaupt, however, it will look foolish. The fellow demands, as said above, 800 rtl. I proved to him that he has worked elsewhere these 2 years and left Your Serene Highness's works quite untouched, whereby 600 rt. fell away.\n\nFurther, that for 4 years he had appropriated to himself 5 Hufen of land and used them all; this amounts yearly to 150 rt, consequently for 4 years 600 rt, which makes 1200 rt.\n\nHe must therefore still hand back 400 rt.\n\nTo this Wollenhaupt replies that the building councillor Glenck had granted him leave to undertake works outside, wherever he knew of them and was able, for it would indeed be an honour to the Prince if his people were sought after.\n\nWith regard to the 5 Hufen he made use of, the same man says likewise that\n\nMr Glenck had given him leave to use them freely and to draw the revenues of Mariantów / that is, rent from the inhabitants / and everything.\n\nThe dwelling, too, the fellow will not vacate, for he says that both Mr Glenck and also Your Serene Highness had assured him the dwelling for so long as until he should be otherwise provided for. Schenck is hanging his lip over this, since he cannot move in, and will probably give up his engagement and the justiciary's office — I must now cajole this fellow too as far as possible — but if he grows too defiant, he may go to the devil, [text lost] now I have pretty well [uncertain: worked my way through], and for that post we shall find a hundred for one — but it is enough to drive one mad, to have to struggle about with all these lads amid works already beyond surveying, and to keep the rogues always in eye so that they do not do too much damage — Schenck insists absolutely on 4 [uncertain: Herren] of land and on the liberty to choose an actuary himself. I shall make oral report to Your Serene Highness upon it.\n\nWith boundless fidelity I remain, until death,\n\nYour Serene Highness's\n\nTrąbczyn\n\nthe 31st of March 1805\n\nhumble and obedient servant\n\nvon Triebenfeld\n\nThe old subjects of Swięcia I have bought out for a trifle, and have just now concluded a contract with other people for all 28 Hufen; they give 400 rt in cash per Hufe and 15 rt yearly in interest, bear all burdens like the others, pay 10 per cent transfer fee (Laudemium), and pay on St George's Day a sum suited to the matter. NB this is the profit of 10/m rt. — sold against the 1st, and instead of 2–10 per cent transfer fee in earnest money —",
  "summary_en": "",
  "summary_de": "Triebenfeld hat mit den alten Bauern Verträge und die Sicherung der Abgaben gerichtlich abgeschlossen. Mit v. Otocki verhandelt er über Szetlewek und die Propination. Amelang verspricht Hilfe beim Anlehen. Glenck, Wollenhaupt, die drei Oleśnicaer und ein Meyer reden Käufern ab. Es werden Forderungen von 3011 Rthl erhoben; Wollenhaupt stellt er Gegenforderungen. Die alten Untertanen in Swięcia wurden ausgekauft, und für 28 Hufen wurde ein neuer Vertrag geschlossen: 400 Rthl je Hufe und 15 Rthl jährlicher Zins.",
  "reading": {

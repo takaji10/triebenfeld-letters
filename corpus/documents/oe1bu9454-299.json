@@ -412,7 +412,280 @@
    "doc_line": 109
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kohlen",
+   "kind": "place",
+   "surface_de": "Kohlen",
+   "surface_en": "Kohlen",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Emperor Alexander",
+   "kind": "person",
+   "surface_de": "Kayser Alexander",
+   "surface_en": "Emperor Alexander",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Boidelang",
+   "kind": "person",
+   "surface_de": "p. Boidelang",
+   "surface_en": "Boidelang",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Międzyrzecz",
+   "kind": "place",
+   "surface_de": "Meseritz",
+   "surface_en": "Międzyrzecz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Chief President Zerboni",
+   "kind": "person",
+   "surface_de": "d O P Zerboni",
+   "surface_en": "the Chief President Zerboni",
+   "page": 1
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 1
+  },
+  {
+   "entity": "echaust",
+   "display": "Echaust",
+   "kind": "person",
+   "surface_de": "Eichaust",
+   "surface_en": "Echaust",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulm",
+   "surface_en": "Kulm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr Hahn",
+   "kind": "person",
+   "surface_de": "H H Hahn",
+   "surface_en": "Mr Hahn",
+   "page": 2
+  },
+  {
+   "entity": "bally",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Chief President Zerboni",
+   "kind": "person",
+   "surface_de": "d O P Zerboni",
+   "surface_en": "the Chief President Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "bernhard",
+   "display": "Meyer Bernhard",
+   "kind": "person",
+   "surface_de": "Meyer Bernhard",
+   "surface_en": "Meyer Bernhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Minister von Humboldt",
+   "kind": "person",
+   "surface_de": "H. Minister v Humboldt",
+   "surface_en": "the Minister von Humboldt",
+   "page": 2
+  },
+  {
+   "entity": "trzcinski",
+   "display": "von Trzciński",
+   "kind": "person",
+   "surface_de": "Trzciński",
+   "surface_en": "Trzciński",
+   "page": 2
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Kurnatowski, district administrator",
+   "kind": "person",
+   "surface_de": "Landrath v Kurnatowski",
+   "surface_en": "von Kurnatowski, district administrator",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Seager, Chief Forester",
+   "kind": "person",
+   "surface_de": "Ober Förster Seager",
+   "surface_en": "Seager, Chief Forester",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld, Privy Councillor",
+   "kind": "person",
+   "surface_de": "Geheimen Rath von Triebenfeld",
+   "surface_en": "von Triebenfeld, Privy Councillor",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 3
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mr Z[erboni]",
+   "kind": "person",
+   "surface_de": "H. Z[erboni]",
+   "surface_en": "Mr Z[erboni]",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -647,9 +920,230 @@
    "doc_line": 105
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "299\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself at once to the weather, and therefore I must keep quarantine yet a few days. With this in view I shall await the return of this messenger. My estate affairs in Kohlen [uncertain: Poland] I have arranged — There remain we exactly 62000 Rthl over — Schenck has leased out the estates to a Jew for me shamefully [uncertain: sendenhaft] and badly — yet I now obtain, by turning matters otherwise, enough that I shall be able to travel and to meet the manifold costs — 500 Rthl will now be [text lost] to me, and with that I go to Pszczew and from there to Berlin — the Emperor Alexander does not come to Berlin until the end of April, upon which, however, I still expect detailed information shortly from Boidelang.\n\nIn Pszczew my first business will be to come to an agreement with Leixner in Międzyrzecz and to see that I bring the receipt that has been found into validity — If that succeeds, then I shall have the debt struck out of the mortgage book, and seek out the profit that is to be drawn from Pszczew: The burgesses and peasants have declared themselves insolvent and are pressing for the cancellation of the contract — They prove the lesion, that they are [uncertain: ceded] beyond the half, since the estates were valued at only 64000 Rthl. I prove that the Most High Provincial Authority itself examined everything and approved [uncertain: Ewr] Serene Highness's [uncertain: statement] — since, moreover, the Chief President Zerboni desires the cancellation of the contract, I shall consent to it, reserving however only quaevis competentia — that is to say, he, the burgesses and the peasants, forfeit the earnest money they have given —\n\n2. They must at once pay the arrears of canon and of competence with about [uncertain: 7]000, so that the sequestration ceases forthwith.\n\n3. They must at once render up to Your Serene Highness the arrears of canon with 11/m Rthl.\n\n4. They must declare themselves how they intend to discharge the arrears of interest. NB this interest was formerly demanded by the State, but now that will fall into the breach, if it is now proved that the sum of respectively 137000 Rthl entered upon Pszczew has been improperly reckoned as Bayonne moneys, but that it is the pure private property of Your Serene Highness.\n\nwhat is to be gained from this. [uncertain: Dein] will, I shall observe,\n\n5. The communities themselves must turn their weapons against Echaust and his accomplices —",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Kohlen",
+     "en": "Kohlen",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser Alexander",
+     "en": "Emperor Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "p. Boidelang",
+     "en": "Boidelang",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Meseritz",
+     "en": "Międzyrzecz",
+     "kind": "place"
+    },
+    {
+     "de": "d O P Zerboni",
+     "en": "the Chief President Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "299",
+    "62000",
+    "500",
+    "64000",
+    "137000",
+    "7000",
+    "11/m",
+    "1805"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "According to my reckoning there would then remain to Your Serene Highness\n\n1. The interest on about 68000 Rthl.\n\n2. the arrears of canon of 11000 Rthl.\n\n3. the 28000 Rthl paid down by the peasants in 1805.\n\n4. what can be wrested from Echaust and his accomplices, with 20000 Rthl. Thus Your Serene Highness would have from Pszczew altogether 127000 Rthl. NB the 28000 Rthl Your Serene Highness already has; there would then still be to receive 99000 Rthl.\n\nNow it depends upon what Pszczew is still worth; the forest is totally devastated. At 64000 Rthl it was valued — Queritur, will it be worth 72000 Rthl? And how will it look with the other 65000 Rthl standing upon it? They do indeed also stand in the receipt, but I do not yet know whether I shall be able to move Leixner to accept these as well. If that were to succeed, and Leixner were to take this sum upon Kulm and Kamionna, then all would be helped — Your Serene Highness would have, as said before, 99000 Rthl to receive. From the estates themselves I [uncertain: nählen] the 72000 Rthl, from the remainder with about 20000 Rthl.\n\nLombardini, Mr Hahn and the good Bally were paid. Everything meanwhile depends on my being favoured with Leixner — The man is now destitute; I must support him and give money towards the outlay of costs in his business. The Chief President Zerboni is charged from higher quarters to sustain him; Kamionna is to remain his — I insist in the meanwhile that the sum of 72 and 65000 Rthl entered upon Pszczew does not belong upon Pszczew but, according to the receipt of Meyer Bernhard, upon Kamionna — God grant me further good fortune — But may Your Serene Highness deign to write to me whether this altogether has Your approval — the compensation business, which has come to a standstill through the malicious delay, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now — Trzciński is here again — It is not he but the Major Trzciński who has been suffocated — He was with me the day before yesterday and has begged for forbearance until Midsummer, when he will receive 25000 Rthl for an estate he has sold — Litigate I cannot; that costs money — I have granted him such, but assured him that I shall lay arrest not only upon the purchase moneys but upon all revenues. Of Schenck I [uncertain: sehr] and hear nothing — He wants a general power of attorney all to himself — May Your Serene Highness deign to send me a letter",
+   "names": [
+    {
+     "de": "Eichaust",
+     "en": "Echaust",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kulm",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "H H Hahn",
+     "en": "Mr Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    },
+    {
+     "de": "d O P Zerboni",
+     "en": "the Chief President Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Bernhard",
+     "en": "Meyer Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "H. Minister v Humboldt",
+     "en": "the Minister von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Trzciński",
+     "en": "Trzciński",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "68000",
+    "11000",
+    "28000",
+    "1805",
+    "20000",
+    "127000",
+    "99000",
+    "64000",
+    "72000",
+    "65000",
+    "72",
+    "25000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "such as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I know not upon what grounds — \"The [illegible] President also wrote lately to the district administrator von Kurnatowski that he should, together with the Chief Forester Seager and with the Privy Councillor von Triebenfeld, for the present investigate the forest devastations in Pszczew, so that one may see clearly — Schenck is offended at it that the Government answered him merely that his submission could not be understood — He wishes, if he receives a general power of attorney and 500 Rthl together with free conveyance, to go to Poznań and work upon the matter — It will be hard for me to raise 10 Rthl, so I have given him no decision upon it — and in truth I do not need him — My tenant's brother is house factor and favourite of Zerboni, through whose hands pass all the offerings that are brought.\" Had Your Serene Highness been able to [uncertain: schalen] me a yearling for Z., it would have been of use — My tenant goes with me to Poznań — He himself stands in very close liaison with Mr Z[erboni] on account of deliveries — and will render only services — As soon as I receive Your Serene Highness's answer I travel to Poznań and Pszczew. Full of reverence I remain, until death,\n\nYour Serene Highness's\n\nthe messenger receives 3 Groschen Courant per mile\n\n1 Rthl I have given him here. May\n\nYour Serene Highness deign to have the remainder paid\n\nout there.\n\nBlizanow\n\nthe 16th of January 1816.\n\nmost humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Landrath v Kurnatowski",
+     "en": "von Kurnatowski, district administrator",
+     "kind": "person"
+    },
+    {
+     "de": "Ober Förster Seager",
+     "en": "Seager, Chief Forester",
+     "kind": "person"
+    },
+    {
+     "de": "Geheimen Rath von Triebenfeld",
+     "en": "von Triebenfeld, Privy Councillor",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "H. Z[erboni]",
+     "en": "Mr Z[erboni]",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "500",
+    "10",
+    "3",
+    "1",
+    "16",
+    "1816"
+   ]
+  }
+ ],
+ "text_english": "299\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy illness has ceased; only the great weakness does not permit me to undertake long journeys. The physician forbids exposing oneself at once to the weather, and therefore I must keep quarantine yet a few days. With this in view I shall await the return of this messenger. My estate affairs in Kohlen [uncertain: Poland] I have arranged — There remain we exactly 62000 Rthl over — Schenck has leased out the estates to a Jew for me shamefully [uncertain: sendenhaft] and badly — yet I now obtain, by turning matters otherwise, enough that I shall be able to travel and to meet the manifold costs — 500 Rthl will now be [text lost] to me, and with that I go to Pszczew and from there to Berlin — the Emperor Alexander does not come to Berlin until the end of April, upon which, however, I still expect detailed information shortly from Boidelang.\n\nIn Pszczew my first business will be to come to an agreement with Leixner in Międzyrzecz and to see that I bring the receipt that has been found into validity — If that succeeds, then I shall have the debt struck out of the mortgage book, and seek out the profit that is to be drawn from Pszczew: The burgesses and peasants have declared themselves insolvent and are pressing for the cancellation of the contract — They prove the lesion, that they are [uncertain: ceded] beyond the half, since the estates were valued at only 64000 Rthl. I prove that the Most High Provincial Authority itself examined everything and approved [uncertain: Ewr] Serene Highness's [uncertain: statement] — since, moreover, the Chief President Zerboni desires the cancellation of the contract, I shall consent to it, reserving however only quaevis competentia — that is to say, he, the burgesses and the peasants, forfeit the earnest money they have given —\n\n2. They must at once pay the arrears of canon and of competence with about [uncertain: 7]000, so that the sequestration ceases forthwith.\n\n3. They must at once render up to Your Serene Highness the arrears of canon with 11/m Rthl.\n\n4. They must declare themselves how they intend to discharge the arrears of interest. NB this interest was formerly demanded by the State, but now that will fall into the breach, if it is now proved that the sum of respectively 137000 Rthl entered upon Pszczew has been improperly reckoned as Bayonne moneys, but that it is the pure private property of Your Serene Highness.\n\nwhat is to be gained from this. [uncertain: Dein] will, I shall observe,\n\n5. The communities themselves must turn their weapons against Echaust and his accomplices —\n\nAccording to my reckoning there would then remain to Your Serene Highness\n\n1. The interest on about 68000 Rthl.\n\n2. the arrears of canon of 11000 Rthl.\n\n3. the 28000 Rthl paid down by the peasants in 1805.\n\n4. what can be wrested from Echaust and his accomplices, with 20000 Rthl. Thus Your Serene Highness would have from Pszczew altogether 127000 Rthl. NB the 28000 Rthl Your Serene Highness already has; there would then still be to receive 99000 Rthl.\n\nNow it depends upon what Pszczew is still worth; the forest is totally devastated. At 64000 Rthl it was valued — Queritur, will it be worth 72000 Rthl? And how will it look with the other 65000 Rthl standing upon it? They do indeed also stand in the receipt, but I do not yet know whether I shall be able to move Leixner to accept these as well. If that were to succeed, and Leixner were to take this sum upon Kulm and Kamionna, then all would be helped — Your Serene Highness would have, as said before, 99000 Rthl to receive. From the estates themselves I [uncertain: nählen] the 72000 Rthl, from the remainder with about 20000 Rthl.\n\nLombardini, Mr Hahn and the good Bally were paid. Everything meanwhile depends on my being favoured with Leixner — The man is now destitute; I must support him and give money towards the outlay of costs in his business. The Chief President Zerboni is charged from higher quarters to sustain him; Kamionna is to remain his — I insist in the meanwhile that the sum of 72 and 65000 Rthl entered upon Pszczew does not belong upon Pszczew but, according to the receipt of Meyer Bernhard, upon Kamionna — God grant me further good fortune — But may Your Serene Highness deign to write to me whether this altogether has Your approval — the compensation business, which has come to a standstill through the malicious delay, will nevertheless turn out very well. It is being worked diplomatically, and the Minister von Humboldt has great need of me now — Trzciński is here again — It is not he but the Major Trzciński who has been suffocated — He was with me the day before yesterday and has begged for forbearance until Midsummer, when he will receive 25000 Rthl for an estate he has sold — Litigate I cannot; that costs money — I have granted him such, but assured him that I shall lay arrest not only upon the purchase moneys but upon all revenues. Of Schenck I [uncertain: sehr] and hear nothing — He wants a general power of attorney all to himself — May Your Serene Highness deign to send me a letter\n\nsuch as I requested in my last, so that I may be rid of him. With Zerboni he has fallen out, I know not upon what grounds — \"The [illegible] President also wrote lately to the district administrator von Kurnatowski that he should, together with the Chief Forester Seager and with the Privy Councillor von Triebenfeld, for the present investigate the forest devastations in Pszczew, so that one may see clearly — Schenck is offended at it that the Government answered him merely that his submission could not be understood — He wishes, if he receives a general power of attorney and 500 Rthl together with free conveyance, to go to Poznań and work upon the matter — It will be hard for me to raise 10 Rthl, so I have given him no decision upon it — and in truth I do not need him — My tenant's brother is house factor and favourite of Zerboni, through whose hands pass all the offerings that are brought.\" Had Your Serene Highness been able to [uncertain: schalen] me a yearling for Z., it would have been of use — My tenant goes with me to Poznań — He himself stands in very close liaison with Mr Z[erboni] on account of deliveries — and will render only services — As soon as I receive Your Serene Highness's answer I travel to Poznań and Pszczew. Full of reverence I remain, until death,\n\nYour Serene Highness's\n\nthe messenger receives 3 Groschen Courant per mile\n\n1 Rthl I have given him here. May\n\nYour Serene Highness deign to have the remainder paid\n\nout there.\n\nBlizanow\n\nthe 16th of January 1816.\n\nmost humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld will in Pszczew mit Leixner in Międzyrzecz die aufgefundene Quittung geltend machen und die Schuld löschen lassen. Einer Aufhebung des Kontrakts, die Bürger, Bauern und Zerboni wünschen, will er nur unter Bedingungen zustimmen, darunter 11000 Rthl rückständiger Canon an den Fürsten. Aus Pszczew stünden dem Fürsten noch 99000 Rthl zu. Triebenfeld besteht darauf, dass die 72000 und 65000 Rthl auf Kamionna gehörten. Trzciński erhält Aufschub bis Johanni. Schenck will eine Generalvollmacht; Triebenfeld bittet um ein Schreiben, um ihn loszuwerden.",
  "reading": {

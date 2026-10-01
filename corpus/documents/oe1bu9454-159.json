@@ -116,7 +116,104 @@
    "doc_line": 24
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "leve",
+   "kind": "person",
+   "surface_de": "leve",
+   "surface_en": "leve",
+   "page": 1
+  },
+  {
+   "entity": "kuh",
+   "display": "Gebrüder Kuh",
+   "kind": "person",
+   "surface_de": "Gebrüder Kuh",
+   "surface_en": "the Kuh brothers",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Messrs Kuh",
+   "kind": "person",
+   "surface_de": "Herren Kuh",
+   "surface_en": "the Messrs Kuh",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Hanus matter",
+   "kind": "person",
+   "surface_de": "Hanusche Sache",
+   "surface_en": "the Hanus matter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Eysenhardt one",
+   "kind": "person",
+   "surface_de": "Eysenhardtsche",
+   "surface_en": "the Eysenhardt one",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sea-Trading Company",
+   "kind": "other",
+   "surface_de": "Seehandlungs",
+   "surface_en": "Sea-Trading Company",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "person",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -142,9 +239,84 @@
    "doc_line": 23
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "159\n\nMost Serene Prince\n\nMost gracious Prince and Lord. With the most unspeakable labour the honest Amelang has at last brought matters so far to a conclusion that he has given, from the banker leve, an order to pay upon the Kuh brothers, before the monies from the Invalids' Fund, which in truth consist in Sea-Trading Company obligation in / to the amount of 36755 rt. 7 gg. has received. I hasten to transmit the same, without the very least delay, most obediently to Your Most Serene Highness. Tomorrow everything will be arranged, and the Hanus matter as well as the Eysenhardt one put in order, and when I have finished with that I shall hasten back in to go to Kalisz and to see to the rest for the obtaining of the 100000 rt. In deepest reverence I remain, until death, Your Most Serene Highness's — may Your Serene Highness be pleased to have the letter to the Messrs Kuh delivered at once — faithful and most obedient serv[ant]. How true is presumably, in a position to hinder the dismemberment? I offer defiance to any man. Berlin, the 31st of January 1805.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "leve",
+     "en": "leve",
+     "kind": "person"
+    },
+    {
+     "de": "Gebrüder Kuh",
+     "en": "the Kuh brothers",
+     "kind": "person"
+    },
+    {
+     "de": "Herren Kuh",
+     "en": "the Messrs Kuh",
+     "kind": "person"
+    },
+    {
+     "de": "Hanusche Sache",
+     "en": "the Hanus matter",
+     "kind": "person"
+    },
+    {
+     "de": "Eysenhardtsche",
+     "en": "the Eysenhardt one",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Seehandlungs",
+     "en": "Sea-Trading Company",
+     "kind": "other"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "159",
+    "36755",
+    "7",
+    "100000",
+    "31",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "159\n\nMost Serene Prince\n\nMost gracious Prince and Lord. With the most unspeakable labour the honest Amelang has at last brought matters so far to a conclusion that he has given, from the banker leve, an order to pay upon the Kuh brothers, before the monies from the Invalids' Fund, which in truth consist in Sea-Trading Company obligation in / to the amount of 36755 rt. 7 gg. has received. I hasten to transmit the same, without the very least delay, most obediently to Your Most Serene Highness. Tomorrow everything will be arranged, and the Hanus matter as well as the Eysenhardt one put in order, and when I have finished with that I shall hasten back in to go to Kalisz and to see to the rest for the obtaining of the 100000 rt. In deepest reverence I remain, until death, Your Most Serene Highness's — may Your Serene Highness be pleased to have the letter to the Messrs Kuh delivered at once — faithful and most obedient serv[ant]. How true is presumably, in a position to hinder the dismemberment? I offer defiance to any man. Berlin, the 31st of January 1805.\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Amelang hat mit großer Mühe vom Bankier leve eine Anweisung an die Gebrüder Kuh auf 36755 Rthl 7 gg erhalten, im Zusammenhang mit den Geldern der Invaliden Casse, die eigentlich in Seehandlungs Obligationen bestehen. v. Triebenfeld übersendet die Anweisung und bittet, den Brief an die Herren Kuh sofort abgeben zu lassen. Morgen sollen die Hanusche und die Eysenhardtsche Sache geordnet werden. Danach will er nach Kalisz zurück, um die 100000 Rthl zu besorgen.",
  "reading": {

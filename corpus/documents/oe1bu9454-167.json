@@ -80,7 +80,40 @@
   }
  ],
  "mentions": [],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince",
+   "kind": "person",
+   "surface_de": "Fürst",
+   "surface_en": "Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  }
+ ],
  "place_canonical": "Öhringen",
  "place_mentions": [
   {
@@ -106,9 +139,50 @@
    "doc_line": 25
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "167\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests: At the very moment when His Serene Highness the Prince is about to drive to church with the old gentleman, he commands me to send the enclosed letter to Your Right Honourable, with His most gracious regards. He would gladly have written himself, had the courier not been departing within the hour already.\n\nThe old Prince is very well for his age, and shows exceedingly great attachment to my most gracious Lord. I wish from my heart that Your",
+   "names": [
+    {
+     "de": "Fürst",
+     "en": "Prince",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "167"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Right Honourable may find yourself in the best of health; I commend myself to your continued favour and have the honour to remain, in most perfect reverence, Your Right Honourable's. Öhringen, the 7th of July 1805.\n\nhumble and obedient servant A: Hahn. The return to Wrocław is fixed without fail for the 25th!",
+   "names": [
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1805",
+    "25"
+   ]
+  }
+ ],
+ "text_english": "167\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests: At the very moment when His Serene Highness the Prince is about to drive to church with the old gentleman, he commands me to send the enclosed letter to Your Right Honourable, with His most gracious regards. He would gladly have written himself, had the courier not been departing within the hour already.\n\nThe old Prince is very well for his age, and shows exceedingly great attachment to my most gracious Lord. I wish from my heart that Your\n\nRight Honourable may find yourself in the best of health; I commend myself to your continued favour and have the honour to remain, in most perfect reverence, Your Right Honourable's. Öhringen, the 7th of July 1805.\n\nhumble and obedient servant A: Hahn. The return to Wrocław is fixed without fail for the 25th!",
  "summary_en": "",
  "summary_de": "Hahn übersendet auf Befehl des Fürsten, der eben mit dem alten Herrn zur Kirche fährt, einen beiliegenden Brief mit dessen Empfehlung an Triebenfeld. Der Fürst hätte gern selbst geschrieben, doch die Ordonanz gehe schon in einer Stunde ab. Der alte Fürst sei für sein Alter sehr wohl und zeige viel Attachement für Hahns Herrn. Die Rückkunft nach Wrocław sei unfehlbar auf den 25. bestimmt.",
  "reading": {

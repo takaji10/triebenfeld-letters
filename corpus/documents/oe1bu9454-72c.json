@@ -88,7 +88,56 @@
    "doc_line": 8
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wieckowski",
+   "kind": "person",
+   "surface_de": "Wieckowski",
+   "surface_en": "Wieckowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Thiel",
+   "kind": "person",
+   "surface_de": "Thiel",
+   "surface_en": "Thiel",
+   "page": 1
+  }
+ ],
  "place_canonical": "Kalisz",
  "place_mentions": [
   {
@@ -125,9 +174,53 @@
    "doc_line": 15
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Right Honourable Sir, most particularly to be revered Sir, Councillor of War and [uncertain: Frühsttag] — The letter just now received from the sub-prefect von Brzechffa by way of the advocate von Wieckowski, I give myself the honour most obediently to communicate to Your Right Honourable in the enclosure, and from it Your Right Honourable will be pleased to see that Mr von Brzechffa, on account of his business, intends to depart from Warsaw only on the 15th of this month, and also that there is good prospect with regard to the Trąbczyn lordship; this I wished to impart to Your Right Honourable and at the same time to assure you that I shall never cease to call myself Your Right Honourable's\n\nKalisz\n\nthe 8th of March 12.\n\nmost obedient servant\n\nthe district councillor\n\nThiel\n\nad 12 March 1812.",
+   "names": [
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Wieckowski",
+     "en": "Wieckowski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Thiel",
+     "en": "Thiel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15",
+    "8",
+    "12",
+    "12",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "Right Honourable Sir, most particularly to be revered Sir, Councillor of War and [uncertain: Frühsttag] — The letter just now received from the sub-prefect von Brzechffa by way of the advocate von Wieckowski, I give myself the honour most obediently to communicate to Your Right Honourable in the enclosure, and from it Your Right Honourable will be pleased to see that Mr von Brzechffa, on account of his business, intends to depart from Warsaw only on the 15th of this month, and also that there is good prospect with regard to the Trąbczyn lordship; this I wished to impart to Your Right Honourable and at the same time to assure you that I shall never cease to call myself Your Right Honourable's\n\nKalisz\n\nthe 8th of March 12.\n\nmost obedient servant\n\nthe district councillor\n\nThiel\n\nad 12 March 1812.",
  "summary_en": "",
  "summary_de": "Kreis Rath Thiel übersendet Triebenfeld einen soeben über den Advokaten v Wieckowski erhaltenen Brief des Podprefecten v Brzechffa. Daraus gehe hervor, dass Brzechffa seiner Geschäfte wegen erst am 15. d. M. aus Warszawa abzureisen gedenkt und dass in Ansehung der Herrschaft Trąbczyn gute Aussicht besteht.",
  "reading": {

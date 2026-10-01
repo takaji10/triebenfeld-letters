@@ -185,7 +185,9 @@ people:
   hardenberg:
     display: "Hardenberg"
     match: "Hardenberg"
-    abbrev: "Hard(?:enb)?:"
+    # Hbg is his paraph on the drafts written in his name in III. HA MdA, III
+    # Nr. 12765 (read by the editor on the scan, 2026-10-01).
+    abbrev: 'Hard(?:enb)?:|Hbg(?![a-zà-ÿ])|H\[arden\]b\[er\]g'
     tier: ""
     variants: ["Hardenburg", "Hard[enberg]", "H[ardenberg]", "Ha[rdenberg]", "Harde[nberg]"]
   hawich:
@@ -451,7 +453,8 @@ people:
       settled which was which.
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])"
     tier: "User-provided (genealogical) + text-confirmed"
-    variants: []
+    # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
+    variants: ["Madame Mięczynsky"]
   prusimski:
     display: "Prusimski family (Trąbczyn estates)"
     match: "Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])"
@@ -547,6 +550,7 @@ people:
     match: "Simon"
     tier: ""
     variants: []
+    identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."
   sobottendorff:
     display: "Sobottendorff"
     match: "Sobottendorff"
@@ -565,6 +569,10 @@ people:
   staegemann:
     display: "Stägemann"
     match: "Stägemann"
+    # Stg. is his paraph beside Hardenberg's on the Vienna drafts of 1814-15 in
+    # III. HA MdA, III Nr. 12765 (read by the editor on the scan, 2026-10-01);
+    # Triebenfeld's petitions were handed to him.
+    abbrev: 'Stg\.|Stgm(?![a-zà-ÿ])|St\[ä\]g\[emann\]|St\[ä\]g\[e\]m\[ann\]'
     tier: "Externally confirmed"
     variants: ["Stegemann", "Steegemann", "Stegeman"]
   stillfried:
@@ -649,6 +657,7 @@ people:
     match: "Zastrow"
     tier: ""
     variants: []
+    identity: "General von Zastrow, named in 1820 beside von Sanitz as a donee of confiscated Polish estates whom the Prussian government compensated; the Prince's heirs cited his case (III. HA MdA, III Nr. 12765, document 27). Identity added 2026-10-01."
   zelmer:
     display: "Zelmer"
     render: "Zelmer"
@@ -919,7 +928,7 @@ people:
     identity: "Rath Schröder (letter 3). Added 2026-09-28 in the names pass."
   jordan:
     display: "Jordan"
-    match: '(?<=Rath )Jordan|(?<=hat )Jordan|Jordan(?= mir)'
+    match: '(?<=Rath )Jordan|(?<=hat )Jordan|Jordan(?= mir)|(?<=v )Jordan|(?<=Gericht )Jordan'
     tier: "Context-inferred"
     variants: []
     identity: "Legationsrath Jordan (letters 2, 268). Added 2026-09-28 in the names pass."
@@ -1040,7 +1049,7 @@ people:
     identity: "Creditor, named with Oppenheimer and Giraud (letters 33, 157, 179). Letter 31's Haucht und Consorten may be the same man; not merged. Added 2026-09-28 after the nonword sweep."
   kaiser-alexander:
     display: "Kaiser Alexander I."
-    match: '(?<=Kayser )Al{1,2}exander|(?<=Kayser )Allex(?=:)|(?<=R\. K\. )Allexander|(?<=wogegen )Alexander|(?<=glücklich )Alexander'
+    match: '(?<=Kayser )Al{1,2}exander|(?<=Kayser )Allex(?=:)|(?<=R\. K\. )Allexander|(?<=wogegen )Alexander|(?<=glücklich )Alexander|(?<=Kaysers )Allexander'
     tier: "Context-inferred"
     variants: []
     identity: "Tsar Alexander I of Russia (letters 27, 59, 266, 280, 298). Kept apart from Prinz Alexander of Hohenlohe, whose entry matches only after Prinz/Prinzen. Added 2026-09-28."
@@ -1275,3 +1284,93 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "Registry official who sent the file up in November 1826 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+  # The people of the foreign ministry's file on the Trąbczyn claim (III. HA MdA,
+  # III Nr. 12765). Each pattern was counted across every unit before it went
+  # in: Stein also tags seven letters of 9454, Schöler two, Seehausen three,
+  # Brehmer the creditors' register (303).
+  stein:
+    display: "Stein"
+    match: '(?:von|v\.|de|vom) Stein(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Heinrich Friedrich Karl Freiherr vom Stein, the former Prussian minister, at the Congress of Vienna as an adviser to Tsar Alexander. The Prince wrote to him on 12 April 1815 asking him to put the Trąbczyn claim before the Tsar, and he passed the letter to Hardenberg (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  schoeler:
+    display: "Schöler"
+    match: 'Sch(?:ö|oe)ler(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Schoder"]
+    identity: "Generalmajor Friedrich von Schöler, Prussian envoy at St Petersburg, instructed in April 1816 to bring the Prince's claim before the Tsar; he reports the refusal in November 1816 (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  balan:
+    display: "Balan"
+    match: 'Balan(?![a-zà-ÿ])|Bal\[an\]|B\[alan\]'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Legationsrath Balan of the Prussian foreign ministry, the official to whom the papers of the Trąbczyn claim were assigned from November 1815 ('Dec: H. L. R. Balan'). He closes its decrees and initials its drafts with two joined strokes, once written out Bal; the editor identified the hand on 2026-10-01 (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  kuester:
+    display: "Küster"
+    match: 'Küster(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Küsler"]
+    identity: "An official of the State Chancellor's chancery at Vienna, who noted on 20 November 1814 that Triebenfeld's petition had been handed to Stägemann. The transcription read Küsler; the scan has Küster (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  alopeus:
+    display: "Alopeus"
+    match: 'Alopeus'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The Russian envoy at Berlin, who signs the note of 31 January 1820 refusing the heirs' claim. The signature was unread in the transcription and was read on the scan (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  ancillon:
+    display: "Ancillon"
+    match: 'Ancillon'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Johann Peter Friedrich Ancillon, counsellor in the Prussian foreign ministry, to whom the Russian envoy's note of 31 January 1820 is addressed (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  zajaczek:
+    display: "Zajączek"
+    match: 'Zaj[ąa]cze[c]?k'
+    tier: "Text-confirmed"
+    variants: ["Zajączeck"]
+    identity: "Prince Józef Zajączek, the Tsar's viceroy in the Kingdom of Poland, whose report of 4 June 1819 on Count Bethusy's request is enclosed in copy (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  brehmer:
+    display: "von Brehmer"
+    render: "Brehmer"
+    match: 'Brehmer(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The widow of Colonel von Brehmer, of Sommerfeld, sister and sole heir of Major von Seehausen. She asks in 1816 to be paid his 5,000 rt mortgage on Szetlewek out of any compensation the Prince receives; the same debt is entry 66 of the creditors' register (9454 document 303) (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  seehausen:
+    display: "Seehausen"
+    match: 'Seehausen'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Major Johann Friedrich von Seehausen, who lent the Prince 5,000 rt on 26 March 1803 against a mortgage on Szetlewek; dead by 1816, his sister the widow von Brehmer his heir (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  eugen-wuerttemberg:
+    display: "Eugen von Württemberg"
+    render: "Eugen of Württemberg"
+    match: 'Eug[eè]ne?n? (?:de|von) W[uü]rt+emberg'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Duke Eugen of Württemberg, who in 1820 recommended to the Russian ministry the claims of the Prince's heirs and of Count Bethusy (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  hoffmann-legationsrath:
+    display: "Hoffmann"
+    # The text has the paraph as Hoffm[ann] and the brackets are dropped before
+    # matching, so this matches "Hoffmann" only where a paraph stands: before a
+    # day and month, before Balan's paraph, or closing a line.
+    match: '(?<!Johann )(?<!Wirthschafterin )Hoffmann(?=[.,]? ?(?:\d{1,2}/\d|Balan|
+|$))'
+    tier: "Context-inferred"
+    # No variants: a variant is folded into the pattern, and "Hoym", the
+    # transcriber's misreading of this paraph, is Minister Hoym everywhere else.
+    variants: []
+    identity: "The official of the foreign ministry who initials its drafts of 1816 and 1820 with the paraph Hoffm. and a date; the transcription read Hoym, the editor read Hoffm. on the scan. Probably the counsellor Johann Gottfried Hoffmann. Not the Wirthschafterin Hoffmann of the creditors' register (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  sobolewski:
+    display: "Sobolewski"
+    match: 'Sobol[eo]wski'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Count Sobolewski, Minister Secretary of State of the Kingdom of Poland, whose reply confirmed the refusal of the heirs' claim in 1820 (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  strenger:
+    display: "Strenger"
+    match: 'Strenger(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Registry clerk of the foreign department, who countersigned the note of 5 May 1816 attaching Zerboni's report to the file (III. HA MdA, III Nr. 12765). Added 2026-10-01."

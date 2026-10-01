@@ -186,7 +186,104 @@
    "doc_line": 37
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. Bernhard",
+   "kind": "person",
+   "surface_de": "M Bernhard",
+   "surface_en": "M. Bernhard",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Schulenburg",
+   "kind": "person",
+   "surface_de": "Gr Schulenburg",
+   "surface_en": "Count Schulenburg",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Fr[ankfurt] a. d. Oder",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Midsummer",
+   "kind": "other",
+   "surface_de": "Johanni",
+   "surface_en": "Midsummer",
+   "page": 2
+  }
+ ],
  "place_canonical": "Frankfurt a. d. Oder",
  "place_mentions": [
   {
@@ -256,9 +353,90 @@
    "doc_line": 33
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "130\n\nMost Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I [uncertain: am] arrived here and heard, to one's vexation, that Glenck had travelled to many, and also that Leixner was absent and is not expected until today. In all of it, however, nothing has unfortunately been done yet, and as I see, the one does not trust the other. Meanwhile I have made the agreement with M. Bernhard \"that I am to bring the Pszczew matter to a conclusion, that the estates are to remain in Your Serene [uncertain: Highness's] name — that Leixner will then take Kamionna, and that this shall stand either in Your Serene Highness's or in my name, for as I have said, so it has been done. — Leixner is hard pressed. He [uncertain: thereupon] will not apply further for the Incolat. Count Schulenburg has got onto his roof — Meanwhile",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "M Bernhard",
+     "en": "M. Bernhard",
+     "kind": "person"
+    },
+    {
+     "de": "Betscher",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Gr Schulenburg",
+     "en": "Count Schulenburg",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "130",
+    "2"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "he is content if I lend him my name. I have therefore sent an express courier after Glenck so that he may be here again on Saturday; I go to Berlin today to sound everything out there, and when I return on Saturday I shall settle everything here, go from here to Pszczew, and with Heaven's help finish everything there too, and then hasten to Your Serene Highness, for to live longer in uncertainty would be the torment of hell — I do not know what Glenck is thinking; Midsummer is indeed far too near — The post is about to go; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nFrankfurt an der Oder, the 17th of May 1804.\n\nfaithful and most obedient [uncertain: servant]\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Fr[ankfurt] a. d. Oder",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Johanni",
+     "en": "Midsummer",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "17",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "130\n\nMost Serene Prince\n\nMost gracious Prince and Lord, some 2 hours ago I [uncertain: am] arrived here and heard, to one's vexation, that Glenck had travelled to many, and also that Leixner was absent and is not expected until today. In all of it, however, nothing has unfortunately been done yet, and as I see, the one does not trust the other. Meanwhile I have made the agreement with M. Bernhard \"that I am to bring the Pszczew matter to a conclusion, that the estates are to remain in Your Serene [uncertain: Highness's] name — that Leixner will then take Kamionna, and that this shall stand either in Your Serene Highness's or in my name, for as I have said, so it has been done. — Leixner is hard pressed. He [uncertain: thereupon] will not apply further for the Incolat. Count Schulenburg has got onto his roof — Meanwhile\n\nhe is content if I lend him my name. I have therefore sent an express courier after Glenck so that he may be here again on Saturday; I go to Berlin today to sound everything out there, and when I return on Saturday I shall settle everything here, go from here to Pszczew, and with Heaven's help finish everything there too, and then hasten to Your Serene Highness, for to live longer in uncertainty would be the torment of hell — I do not know what Glenck is thinking; Midsummer is indeed far too near — The post is about to go; more from Berlin. In deepest reverence I remain, until death, Your Most Serene Highness's\n\nFrankfurt an der Oder, the 17th of May 1804.\n\nfaithful and most obedient [uncertain: servant]\n\nv. Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld berichtet, dass noch nichts geschehen ist und einer dem anderen nicht traut. Mit M. Bernhard hat er vereinbart: Er soll die Sache in Pszczew zustande bringen, die Güter bleiben auf den Namen des Fürsten, und Leixner will Kamionna übernehmen, auf den Namen des Fürsten oder Triebenfelds. Leixner ist bedrängt und zufrieden, wenn Triebenfeld ihm seinen Namen leiht. Triebenfeld hat Glenck eine Estafette nachgeschickt, reist nach Berlin, will Sonnabend zurück sein und danach in Pszczew abschließen.",
  "reading": {

@@ -192,7 +192,192 @@
    "doc_line": 56
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "Barbe",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stock",
+   "kind": "person",
+   "surface_de": "Stock",
+   "surface_en": "Stock",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenbergsche",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Heym",
+   "kind": "person",
+   "surface_de": "Heym",
+   "surface_en": "Heym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Philippsborn",
+   "kind": "person",
+   "surface_de": "Philippsborn",
+   "surface_en": "Philippsborn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prague",
+   "kind": "place",
+   "surface_de": "Prag",
+   "surface_en": "Prague",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Courland heiresses",
+   "kind": "other",
+   "surface_de": "Curische Erbinnen",
+   "surface_en": "Courland heiresses",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ließen Berg",
+   "kind": "other",
+   "surface_de": "Ließen Berg",
+   "surface_en": "Ließen Berg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Pourtalès",
+   "kind": "person",
+   "surface_de": "Pourtalès",
+   "surface_en": "Pourtalès",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl[nische]",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleonſche",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonap[arte]",
+   "surface_en": "Bonaparte",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -317,9 +502,148 @@
    "doc_line": 54
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "281\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe bearer of this letter is the servant of Court Councillor Barbe, who is to go out into the Empire and fetch the Court Councillor's sister, whose husband is employed in the bureau of the Prince State Chancellor, and bring her to Berlin — I have given him my 3 horses for the purpose; may Your Serene Highness now graciously order there that Stock, for so the servant is called, be given a basket-wagon — over which a half-tilt of ticking can be made at very short notice — so that the journey may be set out upon quickly. The Court Councillor will know how to deserve this favour and to make it good — then the 3 Hardenberg [uncertain: privy] Court Councillors Barbe, Heym and Philippsborn have several crates of glass lying in Prague — these they wish to have fetched from there and brought to Sławięcice. Now it is requested that Your Serene Highness might have the grace to send a two-horse conveyance along with Stock, so that, since he goes by way of Prague, he may load the glass there and send it with the free pass to Sławięcice — This cannot be refused — Your Serene Highness will have the more friends in this house — for the fetching of the glass the drummer will probably have to be sent, since the pass is made out for the fellow; the servant [uncertain: waarzug] whom Your Serene Highness cannot make use of, may you graciously furnish with a pass and send back to Blizanow, and the same can also be done with the drummer when he returns from there with the glass conveyance — I do beg that these matters be carried into effect — For the rest, Mr von Stägemann has still made no report — It seems",
+   "names": [
+    {
+     "de": "Barbe",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Stock",
+     "en": "Stock",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenbergsche",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Heym",
+     "en": "Heym",
+     "kind": "person"
+    },
+    {
+     "de": "Philippsborn",
+     "en": "Philippsborn",
+     "kind": "person"
+    },
+    {
+     "de": "Prag",
+     "en": "Prague",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "281",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "from every friend too probable that the most infamous intrigue lies at the bottom of this, and other steps are now being taken in order to move nearer to the goal — Something will be done to Your Serene Highness's advantage, and something must be done — The single misfortune is that Eberhard cannot come here and conclude the settlement with the Courland heiresses — according to the assurances given me I had built upon that first of all. — Now I must go with it [uncertain: the cap] in [uncertain: Ließen Berg] — In the meantime I shall see with my friends what we can [uncertain: now] do. — But if the settlement could take place, then a further piece of good fortune would come about, than, even though 50 or 100/m Rthl more should now have to be given, than what I have already often said, that the administration would last somewhat longer — The chief purpose would nevertheless be attained — Your Serene Highness can [text lost] out of the debts to confess, and would be relieved of all cares — Pourtalès has not yet written, and the Polish matter too still lies in a bad way — And one does not now know at all what will become of it — So much is [uncertain: not] settled, that if the devil fetches Trąbczyn, Your Serene Highness is to have other estates, and that perhaps in Silesia.\n\nHowever it may be, I hope with the next post to be able to report something very good to Your Serene Highness, and could I conjure Eberhard here, then everything would be attained that one could wish. Money the King will indeed not permit much to be given at present, but still everything might be managed by an order to pay — The King of Württemberg has nevertheless given his so-called constitution to the estates, but the Congress has protested against the whole of it — the Napoleon affair continues to make a great sensation here — A few days ago letters were also intercepted, from the former King of Italy, to Bonaparte — It is singular that in such cases one does not proceed more rigorously —\n\nI remain in deepest respect,\n\nYour Serene Highness's\n\nVienna, the 24th of March 1815.\n\nmost obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "Curische Erbinnen",
+     "en": "Courland heiresses",
+     "kind": "other"
+    },
+    {
+     "de": "Ließen Berg",
+     "en": "Ließen Berg",
+     "kind": "other"
+    },
+    {
+     "de": "Pourtalès",
+     "en": "Pourtalès",
+     "kind": "person"
+    },
+    {
+     "de": "Pohl[nische]",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleonſche",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Bonap[arte]",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "50",
+    "100/m",
+    "24ten",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "281\n\nMost Serene Prince\n\nMost gracious Lord!\n\nThe bearer of this letter is the servant of Court Councillor Barbe, who is to go out into the Empire and fetch the Court Councillor's sister, whose husband is employed in the bureau of the Prince State Chancellor, and bring her to Berlin — I have given him my 3 horses for the purpose; may Your Serene Highness now graciously order there that Stock, for so the servant is called, be given a basket-wagon — over which a half-tilt of ticking can be made at very short notice — so that the journey may be set out upon quickly. The Court Councillor will know how to deserve this favour and to make it good — then the 3 Hardenberg [uncertain: privy] Court Councillors Barbe, Heym and Philippsborn have several crates of glass lying in Prague — these they wish to have fetched from there and brought to Sławięcice. Now it is requested that Your Serene Highness might have the grace to send a two-horse conveyance along with Stock, so that, since he goes by way of Prague, he may load the glass there and send it with the free pass to Sławięcice — This cannot be refused — Your Serene Highness will have the more friends in this house — for the fetching of the glass the drummer will probably have to be sent, since the pass is made out for the fellow; the servant [uncertain: waarzug] whom Your Serene Highness cannot make use of, may you graciously furnish with a pass and send back to Blizanow, and the same can also be done with the drummer when he returns from there with the glass conveyance — I do beg that these matters be carried into effect — For the rest, Mr von Stägemann has still made no report — It seems\n\nfrom every friend too probable that the most infamous intrigue lies at the bottom of this, and other steps are now being taken in order to move nearer to the goal — Something will be done to Your Serene Highness's advantage, and something must be done — The single misfortune is that Eberhard cannot come here and conclude the settlement with the Courland heiresses — according to the assurances given me I had built upon that first of all. — Now I must go with it [uncertain: the cap] in [uncertain: Ließen Berg] — In the meantime I shall see with my friends what we can [uncertain: now] do. — But if the settlement could take place, then a further piece of good fortune would come about, than, even though 50 or 100/m Rthl more should now have to be given, than what I have already often said, that the administration would last somewhat longer — The chief purpose would nevertheless be attained — Your Serene Highness can [text lost] out of the debts to confess, and would be relieved of all cares — Pourtalès has not yet written, and the Polish matter too still lies in a bad way — And one does not now know at all what will become of it — So much is [uncertain: not] settled, that if the devil fetches Trąbczyn, Your Serene Highness is to have other estates, and that perhaps in Silesia.\n\nHowever it may be, I hope with the next post to be able to report something very good to Your Serene Highness, and could I conjure Eberhard here, then everything would be attained that one could wish. Money the King will indeed not permit much to be given at present, but still everything might be managed by an order to pay — The King of Württemberg has nevertheless given his so-called constitution to the estates, but the Congress has protested against the whole of it — the Napoleon affair continues to make a great sensation here — A few days ago letters were also intercepted, from the former King of Italy, to Bonaparte — It is singular that in such cases one does not proceed more rigorously —\n\nI remain in deepest respect,\n\nYour Serene Highness's\n\nVienna, the 24th of March 1815.\n\nmost obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bittet, Stock, dem Bedienten des Hoffraths Barbe, der mit Triebenfelds 3 Pferden Barbes Schwester nach Berlin holen soll, einen Korbwagen zu geben, dazu eine zweispännige Fuhre, die Kisten Glas der Hoffräthe Barbe, Heym und Philippsborn von Prag nach Sławięcice bringen soll. Stägemann hat noch keinen Vortrag gemacht; eine Intrige wird vermutet. Eberhard kann den Vergleich mit den Curischen Erbinnen nicht abschließen. Bei Verlust von Trąbczyn soll der Fürst andere Güter, vielleicht in Schlesien, erhalten.",
  "reading": {

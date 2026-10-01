@@ -174,9 +174,229 @@
    "doc_line": 39
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Genuenſter Fürſt",
+   "kind": "other",
+   "surface_de": "Genuenſter Fürſt",
+   "surface_en": "Genuenſter Fürſt",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lombardini",
+   "surface_en": "Lombardini",
+   "page": 1
+  },
+  {
+   "entity": "lombardini",
+   "display": "Lombardini",
+   "kind": "person",
+   "surface_de": "Lomb:",
+   "surface_en": "Lomb:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dlugo Lędcki",
+   "kind": "person",
+   "surface_de": "Dlugo Lędcki",
+   "surface_en": "Dlugo Lędcki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russians",
+   "kind": "other",
+   "surface_de": "Rußen",
+   "surface_en": "Russians",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyzer",
+   "kind": "place",
+   "surface_de": "Brzyzer",
+   "surface_en": "Brzyzer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Constantin",
+   "kind": "person",
+   "surface_de": "Königl. Constantin",
+   "surface_en": "Royal Constantin",
+   "page": 1
+  },
+  {
+   "entity": "constantin",
+   "display": "Grand Duke Constantin",
+   "kind": "person",
+   "surface_de": "Constantin",
+   "surface_en": "Constantin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lowicz",
+   "kind": "place",
+   "surface_de": "Lowicz",
+   "surface_en": "Lowicz",
+   "page": 1
+  },
+  {
+   "entity": "talleyrand",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrand",
+   "surface_en": "Talleyrand",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dorothechen",
+   "kind": "person",
+   "surface_de": "Dorothechen",
+   "surface_en": "Dorothechen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "August",
+   "kind": "person",
+   "surface_de": "August",
+   "surface_en": "August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pole",
+   "kind": "other",
+   "surface_de": "Pohlen (jedes Pohlen)",
+   "surface_en": "Pole",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wäldigewährten",
+   "kind": "other",
+   "surface_de": "Wäldigewährten",
+   "surface_en": "Wäldigewährten",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Midsummer",
+   "kind": "other",
+   "surface_de": "Johanni",
+   "surface_en": "Midsummer",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "stenger",
+   "display": "Stenger",
+   "kind": "person",
+   "surface_de": "Stenger",
+   "surface_en": "Stenger",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
+  {
+   "entity": "brzyce",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface": "Brzyze",
+   "page": 1,
+   "page_id": "0034_b",
+   "scan": "Oe_1_Bu_9454_0034_b-L21_01.jpg",
+   "line": 1286,
+   "doc_line": 10
+  },
   {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
@@ -255,9 +475,156 @@
    "doc_line": 34
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "21\n\nMost gracious Prince and Lord, today at noon I despatched the express courier to the Genuenſter Fürſt — now I am sending yet another messenger to Lombardini with this letter, and with the request that Lomb: should forward it.\n\nDlugo Lędcki was just here — everything is, if then it is not right beneath the left little button, in fear and terror — people dread the swiftest arrival of the Russians, and are already seeking Inatangialia from me. How I come by that honour I do not yet. Each since, I brew that along with it for you, my princely patron. In the judgment of every Pole you will recover the Trąbczyn, Kamionna and Brzyzer estates — on that, good Prince, I stake my life for you. But I have yet another plan — Royal Constantin, him you shall have for the muskets you gave me; Constantin perhaps has the principality of Lowicz — and Talleyrand is to be cultivated. Dorothechen would gladly be rid of it; what do you think — could her August not still take her after all? Your estates, with which I border, are very considerable, and in Poland we sought the chief compensation — the old goat is still whoring in Paris, but she will come back — Much, much, very much must be done now. Write to me quickly, noble upright princely friend, with your opinion. But send some money for a short while yet, so that I may bribe and work, for today I am poor as a beggar-dog — Richter has just pawned his watch so that I may feed the people. Konotop and Świniary I have leased out for 14000 rt. a year, the Wäldigewährten with judicial dues etc. 6000 rt. — But now the 7. carries off everything for old arrears — from Midsummer on I shall again be a well-to-do man — In the meantime, however, unspeakably much more must nevertheless be done for you, my Prince, than for myself, and for the meeting of the costs do you find the means, for otherwise, God punish me, nothing will happen. Had I it, I would give it, but my credit is still too much crippled.\n\nThe document and money I look for from now on at every moment. — Honrichs is waiting here upon it to depart with Stenger.\n\nAnswer quickly, most gracious Prince, your own.\n\nDo let Lombardini give at least\n\n200 rt. in coin to my daughters in Wrocław.\n\nKonotop,\n\nthe 18th of February, in the evening at 11 o'clock.\n\n1810.\n\nTruly and faithfully devoted friend\n\nand humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Genuenſter Fürſt",
+     "en": "Genuenſter Fürſt",
+     "kind": "other"
+    },
+    {
+     "de": "Lombardini",
+     "en": "Lombardini",
+     "kind": "person"
+    },
+    {
+     "de": "Lomb:",
+     "en": "Lomb:",
+     "kind": "person"
+    },
+    {
+     "de": "Dlugo Lędcki",
+     "en": "Dlugo Lędcki",
+     "kind": "person"
+    },
+    {
+     "de": "Rußen",
+     "en": "Russians",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Brzyzer",
+     "en": "Brzyzer",
+     "kind": "place"
+    },
+    {
+     "de": "Königl. Constantin",
+     "en": "Royal Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Constantin",
+     "en": "Constantin",
+     "kind": "person"
+    },
+    {
+     "de": "Lowicz",
+     "en": "Lowicz",
+     "kind": "place"
+    },
+    {
+     "de": "Talleyrand",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "Dorothechen",
+     "en": "Dorothechen",
+     "kind": "person"
+    },
+    {
+     "de": "August",
+     "en": "August",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen (jedes Pohlen)",
+     "en": "Pole",
+     "kind": "other"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Wäldigewährten",
+     "en": "Wäldigewährten",
+     "kind": "other"
+    },
+    {
+     "de": "Johanni",
+     "en": "Midsummer",
+     "kind": "other"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Stenger",
+     "en": "Stenger",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21",
+    "14000",
+    "6000",
+    "7.",
+    "200",
+    "18ten",
+    "11",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "21\n\nMost gracious Prince and Lord, today at noon I despatched the express courier to the Genuenſter Fürſt — now I am sending yet another messenger to Lombardini with this letter, and with the request that Lomb: should forward it.\n\nDlugo Lędcki was just here — everything is, if then it is not right beneath the left little button, in fear and terror — people dread the swiftest arrival of the Russians, and are already seeking Inatangialia from me. How I come by that honour I do not yet. Each since, I brew that along with it for you, my princely patron. In the judgment of every Pole you will recover the Trąbczyn, Kamionna and Brzyzer estates — on that, good Prince, I stake my life for you. But I have yet another plan — Royal Constantin, him you shall have for the muskets you gave me; Constantin perhaps has the principality of Lowicz — and Talleyrand is to be cultivated. Dorothechen would gladly be rid of it; what do you think — could her August not still take her after all? Your estates, with which I border, are very considerable, and in Poland we sought the chief compensation — the old goat is still whoring in Paris, but she will come back — Much, much, very much must be done now. Write to me quickly, noble upright princely friend, with your opinion. But send some money for a short while yet, so that I may bribe and work, for today I am poor as a beggar-dog — Richter has just pawned his watch so that I may feed the people. Konotop and Świniary I have leased out for 14000 rt. a year, the Wäldigewährten with judicial dues etc. 6000 rt. — But now the 7. carries off everything for old arrears — from Midsummer on I shall again be a well-to-do man — In the meantime, however, unspeakably much more must nevertheless be done for you, my Prince, than for myself, and for the meeting of the costs do you find the means, for otherwise, God punish me, nothing will happen. Had I it, I would give it, but my credit is still too much crippled.\n\nThe document and money I look for from now on at every moment. — Honrichs is waiting here upon it to depart with Stenger.\n\nAnswer quickly, most gracious Prince, your own.\n\nDo let Lombardini give at least\n\n200 rt. in coin to my daughters in Wrocław.\n\nKonotop,\n\nthe 18th of February, in the evening at 11 o'clock.\n\n1810.\n\nTruly and faithfully devoted friend\n\nand humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld schickt über Lombardini einen weiteren Boten an den Fürsten. Nach Dlugo Lędckis Besuch berichtet er von Furcht vor der baldigen Ankunft der Russen; nach dem Urteil jedes Polen erhalte der Fürst die Güter Trąbczyn, Kamionna und Brzyce zurück. Er bittet um schnelle Antwort und Geld zum Bestechen, da er mittellos sei; Konotop und Świniary habe er für 14000 Rthl jährlich verpachtet. Er erwartet Urkunde und Geld. Lombardini soll seinen Töchtern in Wrocław wenigstens 200 Rthl Münze geben.",
  "reading": {

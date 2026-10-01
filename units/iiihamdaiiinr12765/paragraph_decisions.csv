@@ -1,0 +1,252 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,12,run,review,short_line,0.66,23,35,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
+1,22,break,high,short_line,0.63,22,35,Wien den 25ten Octobr.,1814.
+1,23,break,high,short_line,0.14,5,35,1814.,treu gehorsamster Knecht
+1,24,break,high,short_line+column,0.69,24,35,treu gehorsamster Knecht,v Triebenfeld
+1,25,run,review,short_line,0.37,13,35,v Triebenfeld,An des Gen. Geh. St. R. Stägemann hochw.
+2,31,break,high,short_line+column,0.2,7,34,No. 569,Wien d. 25 Nov [18]14
+2,32,break,high,short_line+column,0.61,21,34,Wien d. 25 Nov [18]14,An
+2,33,break,high,rubric+short_line,0.06,2,34,An,d. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.
+2,35,run,review,short_line,0.26,9,34,hieselbst,In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenh
+2,41,break,high,short_line,0.38,13,34,W. d. Nov 14.,St[ä]g[emann].
+2,42,break,high,short_line,0.41,14,34,St[ä]g[emann].,H[arden]b[er]g.
+3,46,run,review,short_line,0.16,9,57,Abschrift,Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 179
+3,55,break,high,short_line,0.44,25,57,Paris den 14ten May 1814.,Hardenberg
+3,56,break,high,short_line+column,0.18,10,57,Hardenberg,An
+3,57,break,high,short_line+column,0.04,2,57,An,den Königlichen Kriegesrath
+3,58,break,high,short_line+column,0.47,27,57,den Königlichen Kriegesrath,Herrn von Triebenfeld
+3,59,break,high,short_line+column,0.37,21,57,Herrn von Triebenfeld,Hochwohlgeborn
+3,60,break,high,short_line+column,0.25,14,57,Hochwohlgeborn,hier.
+4,64,break,high,short_line+column,0.26,23,90,Durchlauchtigster Fürst,Gnädigster Fürst und Herr!
+4,65,break,high,short_line,0.29,26,90,Gnädigster Fürst und Herr!,Des Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796
+4,71,break,high,short_line,0.71,64,90,"confissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wur","Der Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Pru"
+4,75,break,high,short_line,0.62,56,90,"Güter, welche der p Leixner auch 3 Jahr ungestört besaß.","Erst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der"
+4,95,run,review,short_line,0.62,56,90,"genommen hat, Geruhen Allerhöchst dieselben zu befehlen,","daß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl."
+4,100,break,high,short_line,0.71,64,90,"36500 rttlr betragen, von derselben zurück gegeben werden mü",Ewr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser ge
+4,102,break,high,short_line,0.69,62,90,"Menschen, und die Königliche Bank erhält auch ihr Geld zurüc",In tiefster Ehrfurcht ersterbe
+4,103,break,high,short_line+column,0.33,30,90,In tiefster Ehrfurcht ersterbe,Ewr Hochfürstliche Durchlaucht
+4,104,break,high,short_line+column,0.33,30,90,Ewr Hochfürstliche Durchlaucht,Wien den 2ten Mertz
+4,105,break,high,short_line+column,0.21,19,90,Wien den 2ten Mertz,1815
+4,106,break,high,short_line+column,0.04,4,90,1815,untertänigster Diener
+4,107,break,high,rubric+short_line,0.23,21,90,untertänigster Diener,v. Triebenfeld
+4,109,break,high,short_line+column,0.23,21,90,Herrn Geh. StaatsRath,Stägemann vorzulegen
+4,110,break,high,short_line+column,0.22,20,90,Stägemann vorzulegen,H[arden]b[er]g 14/3
+5,114,break,high,short_line+column,0.52,22,42,W[ien]. d. 17. März 15,An
+5,115,run,review,short_line,0.05,2,42,An,der H. Kriegsraths v. Triebenfeld
+5,117,break,high,short_line+column,0.19,8,42,Hochwolg,hie selbst
+5,118,break,high,short_line+column,0.24,10,42,hie selbst,No. 1915.
+5,119,break,high,short_line,0.21,9,42,No. 1915.,Ew. p. wieder ich auch die Vorstellung von 2 dM
+5,128,run,review,short_line,0.48,20,42,Was den Bedeuten der,"Frankfurtſchen Bank H[?] Leixner betrift, so ist"
+5,141,break,high,short_line,0.29,12,42,bekannt war.,W[ien]. d. 17. März [18]15.
+5,142,break,high,short_line,0.64,27,42,W[ien]. d. 17. März [18]15.,Ns. S. D.
+5,143,break,high,short_line,0.21,9,42,Ns. S. D.,St[ä]g[emann].
+5,144,break,high,short_line,0.33,14,42,St[ä]g[emann].,H[arden]b[er]g.
+6,148,break,high,by_paragraph,0,18,0,Monsieur le Baron!,En 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra le
+6,149,break,high,by_paragraph,0,273,0,En 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me ,En 1807 quatorze semaines après la paix de Tilsit il plut au fisc polo
+6,150,break,high,by_paragraph,0,240,0,En 1807 quatorze semaines après la paix de Tilsit il plut au,Toutes mes démarches pour revendiquer mes droits sont restées sans auc
+6,151,break,high,by_paragraph,0,277,0,Toutes mes démarches pour revendiquer mes droits sont restée,Je me vois donc dans la nécessité de recourir aux bons offices de Votr
+6,152,break,high,by_paragraph,0,101,0,Je me vois donc dans la nécessité de recourir aux bons offic,Repondre qu’il faudra attendre le règlement définitif des affaires de 
+6,155,break,high,by_paragraph,0,365,0,par sa puissante intervention une indemnité convenable pour ,Monsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une
+6,156,break,high,by_paragraph,0,411,0,Monsieur de Prussimsky ayant avant sa fuite engagé ces terre,"D'après une taxe faite de ces terres par la régence de Kalisz, leur va"
+6,159,break,high,by_paragraph,0,54,0,a ce qui porterait ma perte à la somme de 325400 écus.,L'intérêt que Votre Excellence a toujours daigné prendre à mes affaire
+6,160,break,high,by_paragraph,0,306,0,L'intérêt que Votre Excellence a toujours daigné prendre à m,"Agréez, Monsieur le Baron, les assurances de la plus haute considérati"
+6,161,break,high,by_paragraph,0,108,0,"Agréez, Monsieur le Baron, les assurances de la plus haute c",Monsieur le Baron
+6,162,break,high,by_paragraph,0,17,0,Monsieur le Baron,de Votre Excellence
+6,163,break,high,by_paragraph,0,19,0,de Votre Excellence,Slawenziz le 12. Avril
+6,164,break,high,by_paragraph,0,22,0,Slawenziz le 12. Avril,1815.
+6,165,break,high,by_paragraph,0,5,0,1815.,"Votre trés hûmble, et trés obeissant Serviteur,"
+6,166,break,high,by_paragraph,0,47,0,"Votre trés hûmble, et trés obeissant Serviteur,",Frederic Louis Pr. de Hohenlohe.
+7,170,break,high,by_paragraph,0,18,0,Vienne le Mai 1815,A.S.A.S Msgr. le Prince
+7,171,break,high,by_paragraph,0,23,0,A.S.A.S Msgr. le Prince,Frederic Louis de Hohenlohe
+7,172,break,high,by_paragraph,0,27,0,Frederic Louis de Hohenlohe,à Slawenzitz
+7,173,break,high,by_paragraph,0,12,0,à Slawenzitz,L.E. Mons. le Baron de Stein m’a communiqué la lettre que Votre Altess
+7,174,break,high,by_paragraph,0,109,0,L.E. Mons. le Baron de Stein m’a communiqué la lettre que Vo,"Mon Prince,"
+7,175,break,high,by_paragraph,0,11,0,"Mon Prince,",Je connois la reclamation qu’elle forme sur les terres de Kaemen et de
+7,176,break,high,by_paragraph,0,395,0,Je connois la reclamation qu’elle forme sur les terres de Ka,"Je prie Votre Altesse S., d’agréer l’expression de ma haute considérat"
+7,177,break,high,by_paragraph,0,74,0,"Je prie Votre Altesse S., d’agréer l’expression de ma haute ",Vienne le Mai 1815
+8,181,break,high,short_line,0.51,24,47,Durchlauchtigster Fürst!,"Pohlens Schicksal ist nun entschieden, und die"
+8,192,break,high,short_line,0.43,20,47,gegeben werden soll.,der Höchsten Wahrscheinlichkeit nach müste ich mein de
+8,214,break,high,short_line,0.67,32,48,und der Entschädiget werden muß.,Euer Durchlaucht genehmigen die
+8,215,run,review,short_line,0.65,31,48,Euer Durchlaucht genehmigen die,Versicherung der hohen Verehrung mit welcher ich
+8,217,break,high,short_line,0.17,8,48,beharre.,Euer Durchlaucht
+8,218,break,high,short_line+column,0.33,16,48,Euer Durchlaucht,Schlawenschitz
+8,219,break,high,short_line+column,0.29,14,48,Schlawenschitz,den 12 May 1815.
+8,220,break,high,short_line,0.33,16,48,den 12 May 1815.,"ganz gehorſamer Diener,"
+8,221,run,review,short_line,0.48,23,48,"ganz gehorſamer Diener,",F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
+9,225,break,high,short_line+column,0.41,20,48,W[ien]. d. 6 Juni 15,An
+9,226,break,high,short_line+column,0.04,2,48,An,des Herrn Fürsten zu Hohenlohe
+9,227,break,high,short_line+column,0.62,30,48,des Herrn Fürsten zu Hohenlohe,Durchl.
+9,228,break,high,short_line,0.14,7,48,Durchl.,zu Schlawentzitz
+9,229,break,high,short_line+column,0.33,16,48,zu Schlawentzitz,No. 3205.
+9,230,break,high,short_line,0.19,9,48,No. 3205.,Indem ich Ew. Durchl. den Empfang Ihrer geringsten
+9,252,break,high,short_line+column,0.47,23,48,Wien d 6ten Jun. [18]15,Ns. S. D.
+10,256,run,review,short_line,0.04,2,47,An,dringl.[?] p H. v. Zerboni Sposetti
+10,258,break,high,short_line,0.49,23,47,Zahlrungen[?] in Posen.,Ew. Hochwolz überstande ich urschriftl. zwei Schreiben
+10,263,break,high,short_line+column,0.7,33,47,entzogenen Güter Kämen u Trąbczyn,geltend zu machen sucht.
+10,264,break,high,short_line,0.51,24,47,geltend zu machen sucht.,Da Ew Hochwogen mit der Lage dieser Sachen vollständig
+10,276,break,high,short_line+column,0.38,20,52,als möglich entgegen,W[ien]. den 6ten Jun [18]15
+10,277,break,high,short_line+column,0.52,27,52,W[ien]. den 6ten Jun [18]15,Ns. S. D.
+10,278,break,high,short_line,0.17,9,52,Ns. S. D.,Von Sr Durchlaucht in mundis vollzogen.
+11,282,run,review,short_line,0.68,23,34,Wien den __ten Mai 1815,An des pp. Herrn Fürsten zu Hohenlohe
+11,284,break,high,short_line+column,0.68,23,34,Durchlaucht und Liebden,auf
+11,285,break,high,short_line+column,0.09,3,34,auf,Schlawenschitz
+11,286,break,high,short_line+column,0.41,14,34,Schlawenschitz,Nr. 3132
+11,287,break,high,short_line+column,0.24,8,34,Nr. 3132,R. 28/5 nach Rthl 28/5.
+11,288,break,high,short_line,0.68,23,34,R. 28/5 nach Rthl 28/5.,"Ceſsat et vid. die anderweite,"
+11,319,break,high,short_line+column,0.19,7,36,Wien pp,N. Sr. Durchl
+11,320,break,high,short_line+column,0.36,13,36,N. Sr. Durchl,H[arden]b[er]g 21/5
+12,324,break,high,short_line,0.33,24,74,Durchlauchtigster Fürst!,"Ew Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr "
+12,339,break,high,short_line+column,0.2,15,74,Ew: Durchlaucht,Wien
+12,340,break,high,short_line+column,0.05,4,74,Wien,den __ten May 1815.
+12,341,break,high,short_line,0.26,19,74,den __ten May 1815.,An des Herrn Fürsten zu Hohenlohe Durchlaucht.
+13,345,run,held,by_paragraph,0,11,0,"Mon Prince,",Son Excellence Mr. le Baron de Stein m’a communiqué la lettre que Votr
+13,346,break,high,by_paragraph,0,540,0,Son Excellence Mr. le Baron de Stein m’a communiqué la lettr,J’ai l’honneur d’offrir à Votre Altesse l’expression de ma haute consi
+13,347,break,high,by_paragraph,0,79,0,J’ai l’honneur d’offrir à Votre Altesse l’expression de ma h,Vienne le Mai 1815.
+13,348,break,high,by_paragraph,0,19,0,Vienne le Mai 1815.,À Son Altesse
+13,349,run,held,by_paragraph,0,13,0,À Son Altesse,Monsieur le Prince Fréderic Louis de Hohenlohe à Slawenziz.
+14,353,break,high,short_line,0.68,29,42,Posen den 2ten November 1815.,Euer Durchlaucht haben mir mit dem Erlaß vom
+14,357,break,high,rubric,1.15,49,42,sters Freiherrn von Stein Excellenz vom 12ten May,d. J. mit dem Befehle zugefertiget: mich über
+14,361,break,high,short_line,0.66,28,42,nette zu machen sein würden.,der Fürst Hohenlohe erhielt von des höchstseeli¬
+14,369,break,high,short_line,0.38,16,42,anheim gefallen.,Die Güter Kolno und Kaemen hat der Fürst
+14,379,break,high,short_line,0.26,11,42,neigt sind.,Nachdem der Fürst Hohenlohe wegen die¬
+14,381,break,high,rubric,1.32,56,42,ser Entschädigung verschiedentlich theils mündlich durch,c. 3278 fr: Paris 18. Nov 1815.
+14,383,run,review,short_line,0.4,17,42,Herrn L. R. Balan,"Die Güter Kolno u. Kaemen, welche"
+14,401,break,high,short_line,0.56,24,42,kommt just mir daruf an:,daß sich das könig Miniſtrium der
+14,421,break,high,short_line,0.07,3,44,de.,In Rücksicht der Güter Kolno und Kaemen
+14,425,break,high,short_line,0.45,20,44,mer zu fordern habe.,"Die mir vorgelegten Berechnungen sind,"
+14,433,break,high,short_line,0.45,20,44,mehr zu fordern hat.,Bey dieser Lage der Sache dürfte das was
+14,443,run,review,short_line,0.5,17,34,"zu entschädigen,""",und es hiernächst Sr Durchlaucht selbst zu über¬
+14,445,break,high,short_line,0.18,6,34,laßen.,"das, wofür dieselben zu entschädigen,"
+14,454,break,high,short_line+column,0.56,19,34,Zerboni di Sposetti,Sr Durchlaucht
+14,455,run,review,short_line,0.41,14,34,Sr Durchlaucht,dem Königlich Preußischen Staats Canzler
+14,458,break,high,short_line+column,0.06,2,34,zu,Paris
+15,462,break,high,rubric+short_line,0.43,15,35,ad No. 2278. C.,"1. Committat dem, v. Schöler zu St. Petersburg"
+15,470,break,high,rubric+short_line,0.34,12,35,sterghung[?],2. Notificatus dem Fürsten v. Hohenlohe
+15,476,break,high,rubric+short_line,0.29,10,35,andere[?].,d. 20 Apr [18]16
+16,483,break,high,short_line+column,0.13,3,24,auf,Schlawenzitz.
+16,484,break,high,short_line,0.55,13,24,Schlawenzitz.,den 30. z. Post.
+16,485,break,high,salutation+short_line,0.68,16,24,den 30. z. Post.,Durchlauchtigster Fürst.
+16,507,break,high,short_line,0.55,13,24,unterstützen.,Indem ich Ew. Durchlaucht
+16,518,run,review,short_line,0.61,14,23,betreffend sie,die Versicherung meiner
+16,522,break,high,short_line,0.35,8,23,N. S. D.,H[arden]b[er]g 28/4
+17,530,break,high,rubric+short_line,0.42,10,24,Hofe Herrn,v. Schoeler
+17,532,break,high,short_line+column,0.62,15,24,Hochwohlgeboren,zu St. Peters¬
+17,534,break,high,short_line,0.21,5,24,burg.,(Entschädigungs-Gesuch des
+17,538,break,high,short_line,0.67,16,24,den 30. z. Post.,2960.
+17,539,break,high,short_line,0.21,5,24,2960.,Der Fürſt Friedrich Ludwig
+17,558,break,high,rubric,1.04,25,24,vorigen Eigenthümers Frau,v. Miączyńska zurückge¬
+17,571,break,high,short_line,0.24,6,25,haben.,Da inzwischen einige dona¬
+17,578,break,high,short_line,0.28,7,25,spruch.,Indem ich dann Ew. Hochwohlgeboren
+17,593,run,review,short_line,0.38,10,26,Berlin den,Ministerium der auswärtigen
+18,603,run,review,short_line,0.38,3,8,3/5,ist beigefügt cum actis
+19,610,run,review,short_line,0.52,15,29,Gnädigſter Herr,Mein verstorbenen Bruder der König. Preußen
+19,621,break,high,short_line+column,0.62,18,29,pr. d. 1. May 1816,Num. 4705.
+19,622,break,high,short_line,0.34,10,29,Num. 4705.,Am Bureau Journal zu löschen
+19,625,run,review,short_line,0.66,19,29,Dec: H. L. R. Balan,"appon. der Bericht, den der H. v. Zerboni über die"
+19,629,break,high,short_line+column,0.17,5,29,2 Mai,dem H. G[?] v Jordan
+19,630,break,high,short_line+column,0.69,20,29,dem H. G[?] v Jordan,vorzulegen.
+19,631,break,high,short_line,0.38,11,29,vorzulegen.,Szettlewek ist ein zu Trąbczyn gehörendes Gut. Nach dem Bericht des
+19,637,run,review,short_line,0.52,15,29,sondern dem auf,die Güter ingrossirten
+19,640,break,high,short_line,0.45,13,29,kommen müßen.,St[ä]g[e]m[ann]
+19,641,break,high,short_line+column,0.52,15,29,St[ä]g[e]m[ann],7 Mai 16
+19,668,break,high,short_line,0.17,6,35,ſulte.,Mit den größten Respect beharre ich
+19,670,break,high,short_line+column,0.43,15,35,Ew: Durchlaucht,Sommerfeld
+19,671,break,high,rubric+short_line,0.29,10,35,Sommerfeld,d. 26ten April 1816.
+19,673,break,high,short_line+column,0.37,13,35,unterthänigst,die verwitwete Oberstin
+19,674,break,high,short_line+column,0.66,23,35,die verwitwete Oberstin,von Brehmer.
+20,697,break,high,short_line+column,0.33,13,39,Ingenähmen[?],B[erlin]. 18. Juny [18]16.
+20,698,break,high,short_line,0.67,26,39,B[erlin]. 18. Juny [18]16.,B[alan].
+20,699,break,high,rubric+short_line,0.21,8,39,B[alan].,2. dem Herrn von Schoeler in[?] St. Petersburg
+20,701,break,high,rubric,1.03,40,39,mit Bezug auf das Schreiben vom 29 April,d. J. zu eröfnen: daß da der Fürst von
+20,719,break,high,short_line,0.15,6,41,könne.,B[erlin]. 15 Juny [18]16.
+20,720,break,high,short_line,0.61,25,41,B[erlin]. 15 Juny [18]16.,B[alan].
+21,724,break,high,short_line,0.69,25,36,Berlin den 29. Juni 1816.,An
+21,725,run,review,short_line,0.06,2,36,An,Die Verw. Frau Obrist von Brehmer
+21,727,break,high,short_line,0.33,12,36,Hochwohlgeb.,v Sommerfeldt
+21,728,run,review,short_line,0.36,13,36,v Sommerfeldt,betr: die Entschädigung des Fürsten
+21,731,break,high,short_line,0.47,17,36,Hg. 3. July mund.,den 6ten Julius beydes zu Post
+21,733,break,high,short_line,0.22,8,36,N. 3997.,Die von Ewr Hochwohlgl. an den Herrn Staats¬
+21,756,break,high,short_line,0.39,14,36,bei verlangen.,Berlin d. 22 Juni 1816.
+22,760,break,high,short_line,0.16,5,31,4277.,An
+22,761,run,review,short_line,0.06,2,31,An,des Königl. General Major und Gesandten
+22,764,break,high,short_line+column,0.58,18,31,Schöler Hochwohlgl,zu Petersburg
+22,765,break,high,short_line+column,0.42,13,31,zu Petersburg,Hg. 3t mund.
+22,766,break,high,short_line,0.39,12,31,Hg. 3t mund.,Mit Bezug auf mein Schreiben vom
+22,794,break,high,short_line,0.2,7,35,können.,Berlin d. 22 Juni 1816.
+22,795,break,high,short_line,0.66,23,35,Berlin d. 22 Juni 1816.,M. d. a. A. 3te S.
+22,796,break,high,short_line,0.51,18,35,M. d. a. A. 3te S.,Hoffm[ann].
+22,797,break,high,short_line,0.31,11,35,Hoffm[ann].,B[alan].
+22,798,break,high,short_line,0.23,8,35,B[alan].,1 Jul[?]
+23,818,break,high,rubric,1.92,46,24,"mit Zuversicht die ganz gehorsamste Bitte, daß",E. Hohes Ministerium geruhen werden sich wegen
+23,823,break,high,rubric+short_line,0.46,11,24,von Brehmer,H. L. R. Balan
+23,826,break,high,short_line+column,0.17,4,24,1816,Bittsteller
+23,827,break,high,short_line+column,0.46,11,24,Bittsteller,ist mit dem
+23,828,break,high,short_line+column,0.46,11,24,ist mit dem,was an dic[h?]
+23,829,break,high,short_line+column,0.58,14,24,was an dic[h?],konigl heraus
+23,830,break,high,short_line+column,0.54,13,24,konigl heraus,schaft unter
+23,831,break,high,short_line+column,0.5,12,24,schaft unter,den 22 Juny
+23,832,break,high,short_line+column,0.46,11,24,den 22 Juny,erlagen werden
+23,833,break,high,short_line+column,0.58,14,24,erlagen werden,bekannt zu
+23,834,break,high,short_line+column,0.42,10,24,bekannt zu,"machen, und"
+23,835,break,high,short_line+column,0.46,11,24,"machen, und",der zu röhen
+23,836,break,high,short_line+column,0.5,12,24,der zu röhen,dass nach
+23,837,break,high,short_line+column,0.38,9,24,dass nach,Lage der
+23,838,break,high,short_line+column,0.33,8,24,Lage der,Umstände
+23,839,break,high,short_line+column,0.33,8,24,Umstände,ein Mehres
+23,840,break,high,short_line+column,0.42,10,24,ein Mehres,nichts geschehen
+23,841,break,high,short_line+column,0.67,16,24,nichts geschehen,tione[?]
+23,842,run,review,short_line,0.33,8,24,tione[?],B[erlin]. 3 Aug [18]16. B[alan].
+24,848,break,high,short_line+column,0.29,10,35,Hochwohlgl,in
+24,849,break,high,short_line+column,0.06,2,35,in,Sommerfeld
+24,850,break,high,short_line+column,0.29,10,35,Sommerfeld,den 13. zu Post.
+24,851,break,high,short_line,0.46,16,35,den 13. zu Post.,N 6360
+24,852,run,review,short_line,0.17,6,35,N 6360,Schon durch Ewr Hochw. Zuschrift vom 26
+24,877,break,high,short_line+column,0.17,6,35,Berlin,M. d. a. A. 3te S.
+24,878,break,high,short_line,0.51,18,35,M. d. a. A. 3te S.,Hoffm[ann] 12/8.
+24,879,break,high,short_line,0.46,16,35,Hoffm[ann] 12/8.,B[alan].
+25,892,run,review,short_line,0.33,15,45,Fr. von Schöler,An Eine Hochlöbliche 3te Section des Königlichen
+25,895,break,high,rubric+short_line,0.29,13,45,H L. R. Balan,c. a.
+25,897,break,high,short_line,0.64,29,45,No 9882. B. pr. 8. Dec: 1816.,Dem H. Fürst zu Hohenlohe
+25,898,break,high,short_line+column,0.56,25,45,Dem H. Fürst zu Hohenlohe,Abschrift des Anlage
+25,899,break,high,short_line+column,0.44,20,45,Abschrift des Anlage,B[erlin] 9/12 [18]16
+26,905,break,high,short_line,0.22,7,32,Durchl.,auf Schlawenzitz
+26,906,run,review,short_line,0.5,16,32,auf Schlawenzitz,den 24ten c. alleg: Spost.
+26,908,break,high,short_line,0.31,10,32,N 9882. B.,"Indem ich mich beehre, S. Durchl. in"
+26,922,break,high,short_line,0.69,22,32,Erfolg herbeizuführen.,M. d. a. A. 3te S.
+26,923,break,high,short_line,0.56,18,32,M. d. a. A. 3te S.,H[arden]b[er]g 21/12 B[alan].
+27,927,break,high,by_paragraph,0,20,0,à Mr. Ancillon p. p.,Son Altesse Royale Monseigneur le Duc Eugène de Wurtemberg a fait reco
+27,928,break,high,by_paragraph,0,645,0,Son Altesse Royale Monseigneur le Duc Eugène de Wurtemberg a,Le Prince du Hohenlohe a reçu en 1796 à titre du donation une partie d
+27,929,break,high,by_paragraph,0,348,0,Le Prince du Hohenlohe a reçu en 1796 à titre du donation un,Balan
+27,930,break,high,by_paragraph,0,5,0,Balan,"No. 716, 5. Febr: 1820."
+27,933,break,high,by_paragraph,0,41,0,aux successeurs de l’ancien propriétaire.,Aujourd’hui les héritiers du Prince de Hohenlohe réclament à ce titre 
+27,934,break,high,by_paragraph,0,395,0,Aujourd’hui les héritiers du Prince de Hohenlohe réclament à,Cette affaire a déjà dans le courant de l’année 1816 fait l’objet des 
+27,935,break,high,by_paragraph,0,353,0,Cette affaire a déjà dans le courant de l’année 1816 fait l’,"Aux motifs, qui s’y trouvent indiqués, il y a à ajouter que le fait al"
+27,938,break,high,by_paragraph,0,67,0,du Roi à l’appui des réclamations de Madame la Comtesse Miac,"Malgré que cette question fut ainsi depuis longtemps décidée, le Minis"
+27,939,break,high,by_paragraph,0,417,0,Malgré que cette question fut ainsi depuis longtemps décidée,"Le Comte Ernest d’Hue de Bethusy, possédant des propriétés dans le Roy"
+27,940,break,high,by_paragraph,0,266,0,"Le Comte Ernest d’Hue de Bethusy, possédant des propriétés d",Cette demande a été soumise par ordre de l’Empereur à l'examen du Gouv
+27,943,break,high,by_paragraph,0,331,0,"de l’article 18. du traité de Vienne, ne concernent que les ",Tels sont les résultats qu’a fourni au Ministère Impérial un examen sc
+27,944,break,high,by_paragraph,0,107,0,Tels sont les résultats qu’a fourni au Ministère Impérial un,"L’Empereur a regretté de ne pas se trouver à même, vu les considératio"
+27,945,break,high,by_paragraph,0,171,0,"L’Empereur a regretté de ne pas se trouver à même, vu les co",Le Soussigné reclame les bons offices du Ministère du Roi pour faire c
+27,946,break,high,by_paragraph,0,184,0,Le Soussigné reclame les bons offices du Ministère du Roi po,"Il saisit cette occasion pour renouveler à Monsieur Ancillon, Conseill"
+27,947,break,high,by_paragraph,0,155,0,Il saisit cette occasion pour renouveler à Monsieur Ancillon,Berlin a 31. Janvier 1820.
+27,948,break,high,by_paragraph,0,26,0,Berlin a 31. Janvier 1820.,Alopeus
+28,952,break,high,by_paragraph,0,62,0,Copie d’un rapport du Prince Zajączek à Sa Majesté l’Empereu,Sup No. 2432. Varsovie 23. Mai/4. Juin 1819.
+28,953,break,high,by_paragraph,0,44,0,Sup No. 2432. Varsovie 23. Mai/4. Juin 1819.,"Sire, Le Ministre Secrétaire d’Etat par son office du 1/13. Avril dern"
+28,954,break,high,by_paragraph,0,553,0,"Sire, Le Ministre Secrétaire d’Etat par son office du 1/13. ",Le Comte Bethusy possède des terres dans le Royaume de Pologne et dans
+28,957,break,high,by_paragraph,0,218,0,lieu en vertu de ce même Traité et notamment les bienfaits s,Il s’ensuit par conséquent que les stipulations du Traité mentionné ne
+28,958,break,high,by_paragraph,0,144,0,Il s’ensuit par conséquent que les stipulations du Traité me,"D’ailleurs, en réclamant les avantages accordés aux propriétaires mixt"
+29,962,break,high,short_line,0.68,23,34,Berlin d. 13. Mai 1820.,An des Kgl. Geh. Staats Ministers und Ministers
+29,965,break,high,short_line,0.18,6,34,716 B.,Die Erben des zu Schlawenzitz in Schlesien
+29,1009,break,high,short_line,0.65,20,31,vinzen gelegen sind.,"Da, wenn die k. rußische Regierung unses[?]"
+29,1026,break,high,short_line+column,0.13,4,31,Blin,In Alu[?]s.
+29,1027,break,high,short_line,0.35,11,31,In Alu[?]s.,"Hoffm[ann], Bal[an] 12/5"
+30,1045,break,high,short_line,0.4,29,72,Einspruch gemacht seyn würde.,Ein König. Hochlöbliches Ministerium der auswärtigen Angelegenheiten
+30,1048,break,high,short_line+column,0.36,26,72,"Berlin, den 19ten May 1820",Schuckmann
+30,1049,break,high,short_line+column,0.14,10,72,Schuckmann,An
+30,1050,break,high,short_line+column,0.03,2,72,An,Ein Königl. Hochlöbliches Ministerium der
+30,1051,break,high,short_line+column,0.57,41,72,Ein Königl. Hochlöbliches Ministerium der,auswärtigen Angelegenheiten
+30,1052,break,high,short_line+column,0.38,27,72,auswärtigen Angelegenheiten,R[...] Balan
+30,1053,break,high,rubric+short_line,0.17,12,72,R[...] Balan,C. A.
+30,1055,break,high,short_line,0.43,31,72,Nr. 3053. 13. pr. 28. May 1820.,Ad acta
+30,1056,break,high,short_line+column,0.1,7,72,Ad acta,Hoffm[ann] 30/5
+30,1057,break,high,short_line+column,0.21,15,72,Hoffm[ann] 30/5,B[erlin]. 29/5 [18]20

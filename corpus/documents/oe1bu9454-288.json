@@ -143,18 +143,7 @@
    "entity": "stein",
    "display": "Stein",
    "kind": "person",
-   "surface": "Stein",
-   "page": 1,
-   "page_id": "0521_b",
-   "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
-   "line": 20556,
-   "doc_line": 22
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "Stein",
+   "surface": "v. Stein",
    "page": 1,
    "page_id": "0521_b",
    "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
@@ -239,7 +228,296 @@
    "doc_line": 61
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Prinzen Adolphs",
+   "surface_en": "Prince Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Chancellor",
+   "kind": "person",
+   "surface_de": "Fürſt Kanzler",
+   "surface_en": "Prince Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Adolph",
+   "kind": "person",
+   "surface_de": "Adolph",
+   "surface_en": "Adolph",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmars",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "Stägemann",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieger",
+   "surface_en": "Brzeg",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Chancellor",
+   "kind": "person",
+   "surface_de": "F[ürst]. Kanz.",
+   "surface_en": "Prince Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl[nischen]",
+   "surface_en": "Polish",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Stein",
+   "kind": "person",
+   "surface_de": "M v Stein",
+   "surface_en": "von Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Stein",
+   "kind": "person",
+   "surface_de": "dH p. v. Stein",
+   "surface_en": "Mr von Stein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russian Emperor",
+   "kind": "person",
+   "surface_de": "R[ussischen]. Kayser",
+   "surface_en": "Russian Emperor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sokolnik",
+   "kind": "place",
+   "surface_de": "Sokolnik",
+   "surface_en": "Sokolnik",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Klunowo",
+   "kind": "place",
+   "surface_de": "Klunowo",
+   "surface_en": "Klunowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wieruszów",
+   "kind": "place",
+   "surface_de": "Wieruszów",
+   "surface_en": "Wieruszów",
+   "page": 1
+  },
+  {
+   "entity": "otto",
+   "display": "Otto",
+   "kind": "person",
+   "surface_de": "Otto",
+   "surface_en": "Otto",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 2
+  },
+  {
+   "entity": "otto",
+   "display": "Otto",
+   "kind": "person",
+   "surface_de": "Otto",
+   "surface_en": "Otto",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Blomberg",
+   "kind": "person",
+   "surface_de": "v. Blomberg",
+   "surface_en": "von Blomberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Busttollen]",
+   "kind": "person",
+   "surface_de": "[Bus?]ttollen[?]",
+   "surface_en": "[uncertain: Busttollen]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Monsieur Zerboni",
+   "kind": "person",
+   "surface_de": "Mons: Zerboni",
+   "surface_en": "Monsieur Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King",
+   "kind": "person",
+   "surface_de": "König",
+   "surface_en": "King",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "B.",
+   "kind": "person",
+   "surface_de": "B",
+   "surface_en": "B.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Italy",
+   "kind": "place",
+   "surface_de": "Italien",
+   "surface_en": "Italy",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lucian Bonaparte",
+   "kind": "person",
+   "surface_de": "Lucian Bonaparte",
+   "surface_en": "Lucian Bonaparte",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Viceroy",
+   "kind": "person",
+   "surface_de": "Vice-König",
+   "surface_en": "Viceroy",
+   "page": 2
+  },
+  {
+   "entity": "eberhard",
+   "display": "Eberhard",
+   "kind": "person",
+   "surface_de": "Eberhard",
+   "surface_en": "Eberhard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Thielen",
+   "kind": "person",
+   "surface_de": "v Thielen",
+   "surface_en": "von Thielen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -353,9 +631,214 @@
    "doc_line": 58
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "288\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI look forward with longing to the arrival of Prince Adolph, the more so as enquiries have already been made after him. The Prince Chancellor has also promised to recommend the Prince to His Majesty in the best terms and to care for him as a father. My ardent wish is that the good Adolph should arrive here by the 22nd of this month at the very latest, for otherwise he risks having to travel after His Majesty the King God will where, and the question arises whether the reception would then be so good — the fine opportunity would also be lost of being able to say a further word here in the Prince Chancellor's ear about Cosmar's knavery — It is, by God, enough to drive one to despair that the matter is being put off in this way — and that Stägemann makes absolutely no report upon it — The promises are always most beautiful, but nothing further follows — All I want is that Cosmar be ordered to deposit all the moneys with the High Court of Appeal at Brzeg, and be held to render account. Then, that the writ of execution be taken from him and a chief supervisor appointed — This is constantly promised and yet nothing is done — Every one of these good people shakes his head and begins to doubt the much-praised benevolence of the Prince Chancellor, for with a scruple of good intention it is impossible to lay a just cause aside for 5 months and to let the honest man be plundered further by a rogue and a family be ruined. In the Polish, or properly in the Trąbczyn estates affair, I have applied directly to His Excellency the Minister von Stein; a French letter from Your Serene Highness to Mr von Stein / which could be shown to the Russian Emperor / will presumably work more than [uncertain: our] promises — I hope for a swift result.\n\nIt is unfortunate that I have no tables of the Polish offices here — I shall therefore propose at hazard the office of Sokolnik and Klunowo beyond Wieruszów — Only let God grant success in that — I have just this moment received Your Serene Highness's most honoured letter together with the enclosures; the tableau from Otto I can put to no use — It is a pity about the [uncertain: postage] — Otto wished at that time to fish in troubled waters. He reckoned the value of Trąbczyn indeed only",
+   "names": [
+    {
+     "de": "Prinzen Adolphs",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Fürſt Kanzler",
+     "en": "Prince Chancellor",
+     "kind": "person"
+    },
+    {
+     "de": "Adolph",
+     "en": "Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmars",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Stägemann",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "Brieger",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürst]. Kanz.",
+     "en": "Prince Chancellor",
+     "kind": "person"
+    },
+    {
+     "de": "Pohl[nischen]",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "M v Stein",
+     "en": "von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "dH p. v. Stein",
+     "en": "Mr von Stein",
+     "kind": "person"
+    },
+    {
+     "de": "R[ussischen]. Kayser",
+     "en": "Russian Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "Sokolnik",
+     "en": "Sokolnik",
+     "kind": "place"
+    },
+    {
+     "de": "Klunowo",
+     "en": "Klunowo",
+     "kind": "place"
+    },
+    {
+     "de": "Wieruszów",
+     "en": "Wieruszów",
+     "kind": "place"
+    },
+    {
+     "de": "Otto",
+     "en": "Otto",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "288",
+    "22",
+    "5"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "[uncertain: with and without] Szetlewek at 160000 rt at the most; what, my 760000 rt of debts having been brought into deduction, could then be demanded by way of compensation? Moreover this is no instrument that carries credit — who was Otto? I take the estimate which the district administrator von Blomberg and the councillor of war [uncertain: Busttollen], by order of the Chamber and indeed of the King himself, drew up when the dismemberment was being framed; for the [illegible], and this must amount to 316000 rt. It is for that sum that indemnification is to be demanded — The cash outlay at or from Kamionna can never be contested — and in due course this must either be reimbursed in cash, or [uncertain: they take from me] the estates — Monsieur Zerboni is of just the same opinion — I now often hear Your Serene Highness's military talents highly praised. They say the King [uncertain: esteems] Your Serene Highness, but nothing is done for you — the honest B. says you must have a secret enemy — It is necessary to find this out — The warlike rumours are so manifold that one does not know what to think of them; in Italy they are now fighting with varying fortune — the remaining preparations go on very tediously and draggingly — Lucian Bonaparte, whose thinking is very Jacobin, has now also slipped away to Paris and through — It is believed that the Viceroy will quickly follow him — the [uncertain: bridge] the whole clan together — In deepest reverence I remain\n\nYour Serene Highness's — of Eberhard I neither see nor hear anything — It is a damned misfortune that the matter could not be compounded — the fund for the discharge would have been found — Lieutenant Colonel von Thielen said to me lately: the Prince is a fine man, but those accursed debts of his — I believe people are therefore afraid to enter upon anything with the Prince —\n\nVienna, the 19th of April\n\n1815\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Otto",
+     "en": "Otto",
+     "kind": "person"
+    },
+    {
+     "de": "v. Blomberg",
+     "en": "von Blomberg",
+     "kind": "person"
+    },
+    {
+     "de": "[Bus?]ttollen[?]",
+     "en": "[uncertain: Busttollen]",
+     "kind": "person"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Mons: Zerboni",
+     "en": "Monsieur Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "König",
+     "en": "King",
+     "kind": "person"
+    },
+    {
+     "de": "B",
+     "en": "B.",
+     "kind": "person"
+    },
+    {
+     "de": "Italien",
+     "en": "Italy",
+     "kind": "place"
+    },
+    {
+     "de": "Lucian Bonaparte",
+     "en": "Lucian Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Vice-König",
+     "en": "Viceroy",
+     "kind": "person"
+    },
+    {
+     "de": "Eberhard",
+     "en": "Eberhard",
+     "kind": "person"
+    },
+    {
+     "de": "v Thielen",
+     "en": "von Thielen",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "160000",
+    "760000",
+    "316000",
+    "19",
+    "1815"
+   ]
+  }
+ ],
+ "text_english": "288\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI look forward with longing to the arrival of Prince Adolph, the more so as enquiries have already been made after him. The Prince Chancellor has also promised to recommend the Prince to His Majesty in the best terms and to care for him as a father. My ardent wish is that the good Adolph should arrive here by the 22nd of this month at the very latest, for otherwise he risks having to travel after His Majesty the King God will where, and the question arises whether the reception would then be so good — the fine opportunity would also be lost of being able to say a further word here in the Prince Chancellor's ear about Cosmar's knavery — It is, by God, enough to drive one to despair that the matter is being put off in this way — and that Stägemann makes absolutely no report upon it — The promises are always most beautiful, but nothing further follows — All I want is that Cosmar be ordered to deposit all the moneys with the High Court of Appeal at Brzeg, and be held to render account. Then, that the writ of execution be taken from him and a chief supervisor appointed — This is constantly promised and yet nothing is done — Every one of these good people shakes his head and begins to doubt the much-praised benevolence of the Prince Chancellor, for with a scruple of good intention it is impossible to lay a just cause aside for 5 months and to let the honest man be plundered further by a rogue and a family be ruined. In the Polish, or properly in the Trąbczyn estates affair, I have applied directly to His Excellency the Minister von Stein; a French letter from Your Serene Highness to Mr von Stein / which could be shown to the Russian Emperor / will presumably work more than [uncertain: our] promises — I hope for a swift result.\n\nIt is unfortunate that I have no tables of the Polish offices here — I shall therefore propose at hazard the office of Sokolnik and Klunowo beyond Wieruszów — Only let God grant success in that — I have just this moment received Your Serene Highness's most honoured letter together with the enclosures; the tableau from Otto I can put to no use — It is a pity about the [uncertain: postage] — Otto wished at that time to fish in troubled waters. He reckoned the value of Trąbczyn indeed only\n\n[uncertain: with and without] Szetlewek at 160000 rt at the most; what, my 760000 rt of debts having been brought into deduction, could then be demanded by way of compensation? Moreover this is no instrument that carries credit — who was Otto? I take the estimate which the district administrator von Blomberg and the councillor of war [uncertain: Busttollen], by order of the Chamber and indeed of the King himself, drew up when the dismemberment was being framed; for the [illegible], and this must amount to 316000 rt. It is for that sum that indemnification is to be demanded — The cash outlay at or from Kamionna can never be contested — and in due course this must either be reimbursed in cash, or [uncertain: they take from me] the estates — Monsieur Zerboni is of just the same opinion — I now often hear Your Serene Highness's military talents highly praised. They say the King [uncertain: esteems] Your Serene Highness, but nothing is done for you — the honest B. says you must have a secret enemy — It is necessary to find this out — The warlike rumours are so manifold that one does not know what to think of them; in Italy they are now fighting with varying fortune — the remaining preparations go on very tediously and draggingly — Lucian Bonaparte, whose thinking is very Jacobin, has now also slipped away to Paris and through — It is believed that the Viceroy will quickly follow him — the [uncertain: bridge] the whole clan together — In deepest reverence I remain\n\nYour Serene Highness's — of Eberhard I neither see nor hear anything — It is a damned misfortune that the matter could not be compounded — the fund for the discharge would have been found — Lieutenant Colonel von Thielen said to me lately: the Prince is a fine man, but those accursed debts of his — I believe people are therefore afraid to enter upon anything with the Prince —\n\nVienna, the 19th of April\n\n1815\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld wünscht, dass Prinz Adolph bis spätestens zum 22. eintrifft. Er klagt, die Sache Cosmar werde seit 5 Monaten verschleppt; Cosmar solle alle Gelder beim Oberlandesgericht Brzeg deponieren und Rechnung legen. Wegen Trąbczyn hat er sich an Minister v. Stein gewandt und erhofft sich viel von einem französischen Brief des Fürsten, der dem russischen Kaiser vorgezeigt werden kann. Ottos Wertansatz für Trąbczyn von höchstens 160000 Rthl verwirft er; Entschädigung sei nach Blombergs Überschlag von 316000 Rthl zu fordern.",
  "reading": {

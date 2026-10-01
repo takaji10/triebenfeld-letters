@@ -816,14 +816,14 @@ places:
     kind: village
     match: 'Brzyc\w*'
     tier: ""
-    variants: []
+    variants: ["Brzyze"]
 
   osiny:
     display: "Osiny"
     kind: village
     match: 'Osin\w*'
     tier: ""
-    variants: []
+    variants: ["Osziny"]
 
   laske:
     display: "Laske"
@@ -931,7 +931,7 @@ places:
     kind: town
     match: 'Me[sz]eritz\w*|Miedzeritz\w*|Mi[eę]dzyrzecz\w*'
     tier: "Established"
-    variants: []
+    variants: ["Miedzeris"]
 
   wartenberg:
     display: "Syców"
@@ -1766,6 +1766,43 @@ places:
     match: 'Ulm(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
+
+  # Places first met in III. HA MdA, III Nr. 12765 (2026-10-01).
+  sommerfeld:
+    display: "Sommerfeld"
+    kind: town
+    match: 'Sommerfeldt?(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    # Where the widow von Brehmer wrote from in 1816. Several towns bear the
+    # name; which one is not established, so no Polish name is given.
+
+  boleslawice:
+    display: "Boleslawice"
+    kind: town
+    match: 'Boleslawice'
+    tier: "Text-confirmed"
+    variants: []
+    # The Prince places Amt Sokolnik "ohnweit Boleslawice" (12765, document 8).
+    # Probably Bolesławiec on the Prosna; not established.
+
+  nowawies-trabczyn:
+    display: "Nowawies"
+    kind: village
+    match: 'Nowawies'
+    tier: "Text-confirmed"
+    variants: []
+    # One of the villages of the 1796 grant, as Triebenfeld lists them
+    # (12765, document 4).
+
+  lazy-trabczyn:
+    display: "Łazy"
+    kind: village
+    match: '(?<=Nowawies, )Lazy'
+    tier: "Text-confirmed"
+    variants: []
+    # One of the villages of the 1796 grant (12765, document 4). Matched only
+    # in that list: "lazy" is too short to match anywhere else.
 
 reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn",
          "so bekomme ich", "thl. 13", "uria", "wun",

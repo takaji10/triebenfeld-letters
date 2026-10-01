@@ -1,0 +1,73 @@
+status: draft
+segments:
+- page: 1
+  en: 'Vienna, the __th of May 1815. To His Serene Highness and Lordship the Prince of Hohenlohe, etc.
+
+
+    at
+
+
+    Sławięcice
+
+
+    No. 3132
+
+
+    R. 28/5 to Rthl 28/5.
+
+
+    Cancelled, and see the further disposition of 6 June 1815. In most devoted reply to Your Highness''s
+    very kind letter of the 12th of this month I have the honour to respond: that at this moment the territorial
+    relations of the Duchy of Warsaw are indeed definitively settled as regards those of its provinces
+    reverting to Prussia; whereas as concerns the compensation of the respective donees in the said Duchy,
+    the regulation of this matter is reserved to a separate negotiation, upon which, however, entry has
+    already been made at this time. Given the sincere part I take in every occurrence concerning Your
+    Highness etc., it will certainly afford me quite particular pleasure to find, in the course of this
+    negotiation, an oppor-'
+  names:
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Herrn Fürsten zu Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  - de: Schlawenschitz
+    en: Sławięcice
+    kind: place
+  - de: Herzogthums Warschau
+    en: Duchy of Warsaw
+    kind: place
+  - de: Preußen
+    en: Prussia
+    kind: place
+  numbers:
+  - '1815'
+  - '3132'
+  - 28/5
+  - 28/5
+  - '6'
+  - '1815'
+  - '12'
+- page: 2
+  en: '-tunity to further the fulfilment of the wishes communicated to me by Your Highness in respect
+    of compensation for the Trąbczyn estates taken from you. For the rest, I very gladly avail myself
+    of the present occasion to renew to Your Highness etc. the assurance of that esteem with which I remain,
+    etc. Vienna, etc.
+
+
+    In His Serene Highness''s name
+
+
+    H[arden]b[er]g 21/5'
+  names:
+  - de: Trąbczyner Güter
+    en: Trąbczyn estates
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: H[arden]b[er]g
+    en: Hardenberg
+    kind: person
+  numbers:
+  - 21/5

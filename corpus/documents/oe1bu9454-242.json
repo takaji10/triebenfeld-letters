@@ -203,7 +203,304 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ofen",
+   "kind": "place",
+   "surface_de": "Ofen",
+   "surface_en": "Ofen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Post",
+   "kind": "place",
+   "surface_de": "Post",
+   "surface_en": "Post",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxon",
+   "kind": "other",
+   "surface_de": "Sächßiſche",
+   "surface_en": "Saxon",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohlnische",
+   "surface_en": "Polish",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "other",
+   "surface_de": "Würtembergsche",
+   "surface_en": "Württemberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "King of W[ürttemberg]",
+   "kind": "person",
+   "surface_de": "König von W[ürtemberg]",
+   "surface_en": "King of W[ürttemberg]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Floro",
+   "kind": "other",
+   "surface_de": "Floro",
+   "surface_en": "Floro",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Mett[ernich]",
+   "kind": "person",
+   "surface_de": "Fürst Mett[ernich]",
+   "surface_en": "Prince Mett[ernich]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince M",
+   "kind": "person",
+   "surface_de": "Fürsten M",
+   "surface_en": "Prince M",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Gärtner",
+   "kind": "person",
+   "surface_de": "v Gärtner",
+   "surface_en": "von Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Goesch",
+   "kind": "person",
+   "surface_de": "Goesch",
+   "surface_en": "Goesch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtemberg",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baden",
+   "kind": "place",
+   "surface_de": "Baden",
+   "surface_en": "Baden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Nassau",
+   "kind": "place",
+   "surface_de": "Nassau",
+   "surface_en": "Nassau",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "B[arbe]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A.",
+   "kind": "person",
+   "surface_de": "A:",
+   "surface_en": "A.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlaw[enschitz]",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "Fürsten Hardenberg",
+   "surface_en": "Prince Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Cur[ische]",
+   "surface_en": "Courland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kulm",
+   "kind": "place",
+   "surface_de": "Kulm",
+   "surface_en": "Kulm",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlens",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Moscinska",
+   "surface_en": "Moscinska",
+   "page": 2
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Nesſi",
+   "kind": "person",
+   "surface_de": "Graf Nesſi",
+   "surface_en": "Count Nesſi",
+   "page": 2
+  },
+  {
+   "entity": "landskoy",
+   "display": "Lanskoy",
+   "kind": "person",
+   "surface_de": "Landskoy",
+   "surface_en": "Landskoy",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prague",
+   "kind": "place",
+   "surface_de": "Prag",
+   "surface_en": "Prague",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresden",
+   "surface_en": "Dresden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -372,9 +669,219 @@
    "doc_line": 55
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "242\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nAfter a toilsome journey, upon which I spent 3 days and 2 nights, I have arrived in Vienna — I found the most exorbitant dearness to be the order of the day here; the dear and sometimes very tattered paper, which as is well known takes the place of ready money, brings the stranger to the verge of ruin, because neither the native nor the foreigner sets it right. But of that a Floro — the honest man may not live without calculation — My text, with which I came hither, was to work and to accomplish. The first thing I heard upon my entry into the famous imperial city was the shattering news that the Congress has been postponed to the first of November, that the sovereigns are travelling to Ofen and Post for several days, there to hold great [uncertain: monreniren] and to return towards the end of this month. Further, that France is resisting our Saxon and Polish acquisition very strongly. My old patriotic heart could have burst over this [uncertain: Neuweke]. — And I hope that this is merely a façon de parler, or rather a feu de paille — Prince Hardenberg, whom I have found in good health and strong, stands firm in his mind and will let nothing be taken from him of his right — so much, meanwhile, on general matters — Now as to the various affairs — The Württemberg affairs go well — the King of W[ürttemberg], who is at bottom very discontented here, will concede much; he will himself draft a constitution and lay the same before the allied monarchies for examination and confirmation",
+   "names": [
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Ofen",
+     "en": "Ofen",
+     "kind": "place"
+    },
+    {
+     "de": "Post",
+     "en": "Post",
+     "kind": "place"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Sächßiſche",
+     "en": "Saxon",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlnische",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Würtembergsche",
+     "en": "Württemberg",
+     "kind": "other"
+    },
+    {
+     "de": "König von W[ürtemberg]",
+     "en": "King of W[ürttemberg]",
+     "kind": "person"
+    },
+    {
+     "de": "Floro",
+     "en": "Floro",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "242",
+    "3",
+    "2",
+    "1814"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "— the estates as a body are storming in upon the good gentleman, and find a satisfied hearing — Prince Mett[ernich] would be the chief opponent of this ruler — but the marriage is held to be certain, and since the title of Royal Highness is to be conferred, this may well bring about a change in the sentiments of Prince M — I have invited the privy councillor von Gärtner to me today at noon, where someone else from the Cabinet will also be with me — He appears to be a man à la [uncertain: fandel], though more settled — the privy councillor Goesch is a fine, courteous and good-natured man, who through the Princess — who for the present, together with her consort, commends herself most cordially to Your Serene Highness — is more effective than the former — Mr von Gärtner is an author, and [text lost] many writings against Württemberg, Baden and Nassau are circulating here — by the next post I shall send over several of them. With B[arbe] and A. I have spoken very fully about the Sławięcice affairs, and have taken their counsel before I submitted the matter to the Lord State Chancellor Prince Hardenberg — My plan has been very much approved, and they will guarantee its success. Concerning Koszęcin I can bring nothing forward as yet — the funds required in the Courland matter already appeared a very, very great capital — this business will therefore only come on once the Courland one has succeeded. With regard to the Kulm and Kamionna matter, as also the Trąbczyn matter, [uncertain: Land] nothing can be determined sooner than until Poland's fate is decided — this much, however, I do know, that the Moscinska née Prusimska has great friends, and that even Count Nesſi has been drawn into their game through Landskoy. It is sad that all our [uncertain: Concire] go to Berlin by way of Prague and Dresden. With the frequent traffic I could have sent Your Serene Highness many a thing already — yet I shall neglect nothing —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nP.S. This moment I learn that all princes who cannot furnish 12000 men are to be mediatised for ever; then one will also have [text lost] olden[text lost] it, unless it be that it is to [uncertain: nachtsrhalt] Vienna, the 12th of 8br 1814\n\nmost faithful and humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Fürst Mett[ernich]",
+     "en": "Prince Mett[ernich]",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten M",
+     "en": "Prince M",
+     "kind": "person"
+    },
+    {
+     "de": "v Gärtner",
+     "en": "von Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "Goesch",
+     "en": "Goesch",
+     "kind": "person"
+    },
+    {
+     "de": "Würtemberg",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Baden",
+     "en": "Baden",
+     "kind": "place"
+    },
+    {
+     "de": "Nassau",
+     "en": "Nassau",
+     "kind": "place"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "B[arbe]",
+     "kind": "person"
+    },
+    {
+     "de": "A:",
+     "en": "A.",
+     "kind": "person"
+    },
+    {
+     "de": "Schlaw[enschitz]",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten Hardenberg",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Cur[ische]",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Kulm",
+     "en": "Kulm",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlens",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Moscinska",
+     "en": "Moscinska",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Graf Nesſi",
+     "en": "Count Nesſi",
+     "kind": "person"
+    },
+    {
+     "de": "Landskoy",
+     "en": "Landskoy",
+     "kind": "person"
+    },
+    {
+     "de": "Prag",
+     "en": "Prague",
+     "kind": "place"
+    },
+    {
+     "de": "Dresden",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "12000",
+    "12",
+    "8",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "242\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nAfter a toilsome journey, upon which I spent 3 days and 2 nights, I have arrived in Vienna — I found the most exorbitant dearness to be the order of the day here; the dear and sometimes very tattered paper, which as is well known takes the place of ready money, brings the stranger to the verge of ruin, because neither the native nor the foreigner sets it right. But of that a Floro — the honest man may not live without calculation — My text, with which I came hither, was to work and to accomplish. The first thing I heard upon my entry into the famous imperial city was the shattering news that the Congress has been postponed to the first of November, that the sovereigns are travelling to Ofen and Post for several days, there to hold great [uncertain: monreniren] and to return towards the end of this month. Further, that France is resisting our Saxon and Polish acquisition very strongly. My old patriotic heart could have burst over this [uncertain: Neuweke]. — And I hope that this is merely a façon de parler, or rather a feu de paille — Prince Hardenberg, whom I have found in good health and strong, stands firm in his mind and will let nothing be taken from him of his right — so much, meanwhile, on general matters — Now as to the various affairs — The Württemberg affairs go well — the King of W[ürttemberg], who is at bottom very discontented here, will concede much; he will himself draft a constitution and lay the same before the allied monarchies for examination and confirmation\n\n— the estates as a body are storming in upon the good gentleman, and find a satisfied hearing — Prince Mett[ernich] would be the chief opponent of this ruler — but the marriage is held to be certain, and since the title of Royal Highness is to be conferred, this may well bring about a change in the sentiments of Prince M — I have invited the privy councillor von Gärtner to me today at noon, where someone else from the Cabinet will also be with me — He appears to be a man à la [uncertain: fandel], though more settled — the privy councillor Goesch is a fine, courteous and good-natured man, who through the Princess — who for the present, together with her consort, commends herself most cordially to Your Serene Highness — is more effective than the former — Mr von Gärtner is an author, and [text lost] many writings against Württemberg, Baden and Nassau are circulating here — by the next post I shall send over several of them. With B[arbe] and A. I have spoken very fully about the Sławięcice affairs, and have taken their counsel before I submitted the matter to the Lord State Chancellor Prince Hardenberg — My plan has been very much approved, and they will guarantee its success. Concerning Koszęcin I can bring nothing forward as yet — the funds required in the Courland matter already appeared a very, very great capital — this business will therefore only come on once the Courland one has succeeded. With regard to the Kulm and Kamionna matter, as also the Trąbczyn matter, [uncertain: Land] nothing can be determined sooner than until Poland's fate is decided — this much, however, I do know, that the Moscinska née Prusimska has great friends, and that even Count Nesſi has been drawn into their game through Landskoy. It is sad that all our [uncertain: Concire] go to Berlin by way of Prague and Dresden. With the frequent traffic I could have sent Your Serene Highness many a thing already — yet I shall neglect nothing —\n\nIn deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nP.S. This moment I learn that all princes who cannot furnish 12000 men are to be mediatised for ever; then one will also have [text lost] olden[text lost] it, unless it be that it is to [uncertain: nachtsrhalt] Vienna, the 12th of 8br 1814\n\nmost faithful and humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld berichtet aus Wien, der Kongress sei bis 1. November ausgesetzt und Frankreich sträube sich gegen die sächsische und polnische Erwerbung, Hardenberg bleibe aber fest. Die württembergischen Angelegenheiten gingen gut. Seinen Plan zu Sławięcice hat er nach Beratung mit Barbe Hardenberg eingereicht, er wurde gutgeheißen. Koszęcin muss warten, bis die Curische Sache gelungen ist. Zu Kolno, Kamionna und Trąbczyn werde vor der Entscheidung über Polens Schicksal nichts bestimmt. Die Moscinska geborene Prusimska habe große Freunde.",
  "reading": {

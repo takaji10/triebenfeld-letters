@@ -253,7 +253,256 @@
    "doc_line": 67
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "iron",
+   "kind": "other",
+   "surface_de": "Eysen",
+   "surface_en": "iron",
+   "page": 1
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ludwig",
+   "kind": "person",
+   "surface_de": "Ludwig",
+   "surface_en": "Ludwig",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslausche",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "SP.",
+   "kind": "other",
+   "surface_de": "SP.",
+   "surface_en": "SP.",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 2
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 2
+  },
+  {
+   "entity": "merckel",
+   "display": "Merckel",
+   "kind": "person",
+   "surface_de": "Merkel",
+   "surface_en": "Merkel",
+   "page": 3
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pfarren Island",
+   "kind": "place",
+   "surface_de": "Pfarren Insel",
+   "surface_en": "Pfarren Island",
+   "page": 3
+  },
+  {
+   "entity": "napoleon",
+   "display": "Napoleon",
+   "kind": "person",
+   "surface_de": "Napoleon",
+   "surface_en": "Napoleon",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Spain",
+   "kind": "place",
+   "surface_de": "Spanien",
+   "surface_en": "Spain",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Turks",
+   "kind": "other",
+   "surface_de": "Türken",
+   "surface_en": "Turks",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Dutch",
+   "kind": "other",
+   "surface_de": "Holländische",
+   "surface_en": "Dutch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Silesian",
+   "kind": "other",
+   "surface_de": "Schlesischen",
+   "surface_en": "Silesian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schade",
+   "kind": "person",
+   "surface_de": "Schade",
+   "surface_en": "Schade",
+   "page": 3
+  },
+  {
+   "entity": "merckel",
+   "display": "Merckel",
+   "kind": "person",
+   "surface_de": "Merckel",
+   "surface_en": "Merckel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berger",
+   "kind": "person",
+   "surface_de": "Berger",
+   "surface_en": "Berger",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Goldstücker",
+   "kind": "person",
+   "surface_de": "Goldstücker",
+   "surface_en": "Goldstücker",
+   "page": 3
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Leus Praefat",
+   "kind": "other",
+   "surface_de": "Leus Praefat[?]",
+   "surface_en": "Leus Praefat",
+   "page": 3
+  },
+  {
+   "entity": "zychlinski",
+   "display": "Zychlinski",
+   "kind": "person",
+   "surface_de": "Zychlinski",
+   "surface_en": "Zychlinski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schwarzwald",
+   "kind": "place",
+   "surface_de": "Schwarzwald",
+   "surface_en": "Schwarzwald",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Międzybórz",
+   "kind": "place",
+   "surface_de": "Miedzibor[?]",
+   "surface_en": "Międzybórz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Schwarzwald bey Miedzibor?",
  "place_mentions": [
   {
@@ -323,9 +572,200 @@
    "doc_line": 64
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "196\n\nMost Serene Prince\n\nMost gracious Prince and Lord, In order not to be led today to the town hall like a thief and locked up, I had to flee from Wrocław like a SP. Lahr, to whom I still owe 1500 rt from that time, because he reckons the iron at only 3 rt, wished to have me arrested on that account — He had promised me by this post to wait until Michaelmas, and notwithstanding this his authorised representative secretly obtained the warrant of arrest against me — Had it not been betrayed to me by a couple of friends, I should now be sitting, burdened with everlasting mockery and shame, in the Wrocław town hall — Out of necessity I must now sell my mill for half its worth in order to escape this disgrace. For the rest, let me be hanged if Flesch and his associates are not to blame for this affair — for the rascals have been seen trotting twenty times to Ludwig, who is Lahr's authorised representative. My friends",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Eysen",
+     "en": "iron",
+     "kind": "other"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Ludwig",
+     "en": "Ludwig",
+     "kind": "person"
+    },
+    {
+     "de": "Breslausche",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "SP.",
+     "en": "SP.",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "196",
+    "1500",
+    "3",
+    "20"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "will certainly learn it exactly, for Lahr had solemnly granted me the respite; he may perhaps have omitted to write to his authorised representative about it, and the fellow would have excused himself with ignorance once he had disgraced me along with the Jews. I believe I can trace all this to Flesch's conduct — the Jew has [uncertain: crept away] from me these 4 days, and I hold his whole proposed exchange transaction to be a Jewish swindle. God grant that I am mistaken — but my friends themselves are convinced of it to the highest degree of evidence. Meanwhile I shall act as an upright man, and shall pursue the vindication of the Trąbczyn estates with equal zeal. As they say otherwise in Wrocław, things look very gloomy on the political horizon — Napoleon has declared that he will have the contribution quickly. He would at once have execution troops march into our states, and send an administrator here — He finds it necessary for him to [uncertain: keep] so many troops — this last is said now to have been taken to heart, and the resolution already taken to send off at once",
+   "names": [
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "15000 men. Merkel already has secret intelligence on this. What is to become of us? Hardenberg, it is said, is living on the [uncertain: Pfarren] Island and works day and night — A great change is impending for everything — Publicly it is said that Napoleon means to let 10 millions fr. [uncertain: be dropped], but that in return we are to give 20000 men for Spain or against the Turks. This last few believe. Napoleon means to destroy [uncertain: my] money and our house.\n\nThe Dutch loan has fallen apart, because the Silesian domains cannot be accepted as security.\n\nConcerning the 35000 rt business, Professor Schade will write to Your Serene Highness about everything in full — Merckel is very well disposed, and so is Berger — Your Serene Highness must write to Berlin to the Liquidation Commission and cite Berger's testimony — As soon as I can return in safety I shall write again. In the meantime let Goldstücker and Flesch work upon it. With all respect I remain, until death,\n\nYour Serene Highness's\n\nTomorrow I go to the [uncertain: Leus Praefat]\n\nZychlinski —\n\nSchwarzwald near Międzybórz[uncertain]\n\nthe 25th of May 1810. humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Merkel",
+     "en": "Merkel",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Pfarren Insel",
+     "en": "Pfarren Island",
+     "kind": "place"
+    },
+    {
+     "de": "Napoleon",
+     "en": "Napoleon",
+     "kind": "person"
+    },
+    {
+     "de": "Spanien",
+     "en": "Spain",
+     "kind": "place"
+    },
+    {
+     "de": "Türken",
+     "en": "Turks",
+     "kind": "other"
+    },
+    {
+     "de": "Holländische",
+     "en": "Dutch",
+     "kind": "other"
+    },
+    {
+     "de": "Schlesischen",
+     "en": "Silesian",
+     "kind": "other"
+    },
+    {
+     "de": "Schade",
+     "en": "Schade",
+     "kind": "person"
+    },
+    {
+     "de": "Merckel",
+     "en": "Merckel",
+     "kind": "person"
+    },
+    {
+     "de": "Berger",
+     "en": "Berger",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Goldstücker",
+     "en": "Goldstücker",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Leus Praefat[?]",
+     "en": "Leus Praefat",
+     "kind": "other"
+    },
+    {
+     "de": "Zychlinski",
+     "en": "Zychlinski",
+     "kind": "person"
+    },
+    {
+     "de": "Schwarzwald",
+     "en": "Schwarzwald",
+     "kind": "place"
+    },
+    {
+     "de": "Miedzibor[?]",
+     "en": "Międzybórz",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "15000",
+    "10",
+    "20000",
+    "35000",
+    "25",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "196\n\nMost Serene Prince\n\nMost gracious Prince and Lord, In order not to be led today to the town hall like a thief and locked up, I had to flee from Wrocław like a SP. Lahr, to whom I still owe 1500 rt from that time, because he reckons the iron at only 3 rt, wished to have me arrested on that account — He had promised me by this post to wait until Michaelmas, and notwithstanding this his authorised representative secretly obtained the warrant of arrest against me — Had it not been betrayed to me by a couple of friends, I should now be sitting, burdened with everlasting mockery and shame, in the Wrocław town hall — Out of necessity I must now sell my mill for half its worth in order to escape this disgrace. For the rest, let me be hanged if Flesch and his associates are not to blame for this affair — for the rascals have been seen trotting twenty times to Ludwig, who is Lahr's authorised representative. My friends\n\nwill certainly learn it exactly, for Lahr had solemnly granted me the respite; he may perhaps have omitted to write to his authorised representative about it, and the fellow would have excused himself with ignorance once he had disgraced me along with the Jews. I believe I can trace all this to Flesch's conduct — the Jew has [uncertain: crept away] from me these 4 days, and I hold his whole proposed exchange transaction to be a Jewish swindle. God grant that I am mistaken — but my friends themselves are convinced of it to the highest degree of evidence. Meanwhile I shall act as an upright man, and shall pursue the vindication of the Trąbczyn estates with equal zeal. As they say otherwise in Wrocław, things look very gloomy on the political horizon — Napoleon has declared that he will have the contribution quickly. He would at once have execution troops march into our states, and send an administrator here — He finds it necessary for him to [uncertain: keep] so many troops — this last is said now to have been taken to heart, and the resolution already taken to send off at once\n\n15000 men. Merkel already has secret intelligence on this. What is to become of us? Hardenberg, it is said, is living on the [uncertain: Pfarren] Island and works day and night — A great change is impending for everything — Publicly it is said that Napoleon means to let 10 millions fr. [uncertain: be dropped], but that in return we are to give 20000 men for Spain or against the Turks. This last few believe. Napoleon means to destroy [uncertain: my] money and our house.\n\nThe Dutch loan has fallen apart, because the Silesian domains cannot be accepted as security.\n\nConcerning the 35000 rt business, Professor Schade will write to Your Serene Highness about everything in full — Merckel is very well disposed, and so is Berger — Your Serene Highness must write to Berlin to the Liquidation Commission and cite Berger's testimony — As soon as I can return in safety I shall write again. In the meantime let Goldstücker and Flesch work upon it. With all respect I remain, until death,\n\nYour Serene Highness's\n\nTomorrow I go to the [uncertain: Leus Praefat]\n\nZychlinski —\n\nSchwarzwald near Międzybórz[uncertain]\n\nthe 25th of May 1810. humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld ist aus Breslau geflohen: Lahr, dem er 1500 Rthl schuldet, ließ trotz zugesagter Frist bis Michaeli durch seinen Mandatarius Ludwig heimlich einen Haftbefehl erwirken. Er muss seine Mühle zum halben Preis verkaufen. Er verdächtigt Flesch und Consorten und hält dessen Tauschhandel für Schwindel, will aber die Vindication der Trąbczyner Güter weiter betreiben. Die Holländische Anleihe ist gescheitert. Der Fürst soll unter Berufung auf Bergers Zeugnis an die Liquidations Commission in Berlin schreiben.",
  "reading": {

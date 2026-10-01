@@ -161,7 +161,112 @@
    "doc_line": 31
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface_de": "Frankfurth",
+   "surface_en": "Frankfurt an der Oder",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolzig",
+   "kind": "place",
+   "surface_de": "Kolzig",
+   "surface_en": "Kolzig",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 1
+  },
+  {
+   "entity": "bernhardi",
+   "display": "Bergrath Bernhardi",
+   "kind": "person",
+   "surface_de": "Bernhardi",
+   "surface_en": "Bernhardi",
+   "page": 1
+  },
+  {
+   "entity": "ludolff",
+   "display": "Ludolff",
+   "kind": "person",
+   "surface_de": "Ludolff",
+   "surface_en": "Ludolff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stubenrauch",
+   "kind": "person",
+   "surface_de": "Stubenrauch",
+   "surface_en": "Stubenrauch",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -231,9 +336,96 @@
    "doc_line": 30
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "129 Today I have letters neither from Berlin nor from Frankfurt an der Oder. My anxiety therefore increases hourly. If Your Most Serene Highness has anything from Glenck that affords comfort, may you deign to communicate it to your servant. As to Kolzig I had great hopes — but Amelang does not answer. Had a ray of hope appeared there, I should have advised that all sale of Konotop be forbidden — but if Amelang continues to keep silent about the plan laid before him in this matter, then I must believe that Beyme does not [uncertain: gantirt] him; and in this regard the sale of Konotop would have to be pursued zealously. To that end I have summoned Bernhardi here and intimated to him that he, as tenant, should recommend and represent the estates in the best light to every prospective purchaser — for on this sort of",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Frankfurth",
+     "en": "Frankfurt an der Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Kolzig",
+     "en": "Kolzig",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Bernhardi",
+     "en": "Bernhardi",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "129"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "people much depends. For\n\n1. such a creature, in order to remain secure in his tenancy, could easily hinder the sale by hideous descriptions; and again such a man could\n\n2. out of [uncertain: ſolcht] gain easily let himself be bought, and act to the seller's disadvantage; therefore I have had him come here, and to forestall all this. Now I am [uncertain: sending] her off again at once, so that when Ludolff and Stubenrauch arrive he may not only receive them well, but also describe everything to those people truthfully and from the best side.\n\nThis afternoon I shall bring out what is to be sent to South Prussia — now I must first arrange my business, of which I have found a great deal awaiting me. Wrocław, 15th May 1804.\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Ludolff",
+     "en": "Ludolff",
+     "kind": "person"
+    },
+    {
+     "de": "Stubenrauch",
+     "en": "Stubenrauch",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1.",
+    "2.",
+    "15ten",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "129 Today I have letters neither from Berlin nor from Frankfurt an der Oder. My anxiety therefore increases hourly. If Your Most Serene Highness has anything from Glenck that affords comfort, may you deign to communicate it to your servant. As to Kolzig I had great hopes — but Amelang does not answer. Had a ray of hope appeared there, I should have advised that all sale of Konotop be forbidden — but if Amelang continues to keep silent about the plan laid before him in this matter, then I must believe that Beyme does not [uncertain: gantirt] him; and in this regard the sale of Konotop would have to be pursued zealously. To that end I have summoned Bernhardi here and intimated to him that he, as tenant, should recommend and represent the estates in the best light to every prospective purchaser — for on this sort of\n\npeople much depends. For\n\n1. such a creature, in order to remain secure in his tenancy, could easily hinder the sale by hideous descriptions; and again such a man could\n\n2. out of [uncertain: ſolcht] gain easily let himself be bought, and act to the seller's disadvantage; therefore I have had him come here, and to forestall all this. Now I am [uncertain: sending] her off again at once, so that when Ludolff and Stubenrauch arrive he may not only receive them well, but also describe everything to those people truthfully and from the best side.\n\nThis afternoon I shall bring out what is to be sent to South Prussia — now I must first arrange my business, of which I have found a great deal awaiting me. Wrocław, 15th May 1804.\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld hat weder aus Berlin noch aus Frankfurt Briefe und bittet den Fürsten, ihm tröstliche Nachrichten von Glenck mitzuteilen. Wegen Kolzig antwortet Amelang nicht; schweigt er weiter, müsse der Verkauf von Konotop eifrig betrieben werden. Den Pächter Bernhardi hat er herbestellt und angewiesen, die Güter jedem Kauflustigen zu empfehlen, statt den Kauf aus Eigennutz zu hindern, und Ludolff und Stubenrauch gut aufzunehmen. Nachmittags will er die Sendung nach Südpreußen herausbringen.",
  "reading": {

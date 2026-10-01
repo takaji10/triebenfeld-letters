@@ -79,7 +79,7 @@ def main():
     rules = rulings()
     names = sorted(f for f in os.listdir(PUBLISHED) if f.endswith('.yml'))
     if a.unit:
-        names = unitlib.scope_to_unit(names, unitlib.resolve_unit(a.unit).slug)
+        names = unitlib.scope_to_unit(names, unitlib.resolve_unit(a.unit))
 
     hits, docs = 0, 0
     for fn in names:

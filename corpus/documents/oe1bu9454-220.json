@@ -289,7 +289,256 @@
    "doc_line": 57
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ostrów",
+   "kind": "place",
+   "surface_de": "Ostrów",
+   "surface_en": "Ostrów",
+   "page": 1
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartensleben",
+   "surface_en": "Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nysa",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Nysa",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Skorogoszcz",
+   "kind": "place",
+   "surface_de": "Schurgast",
+   "surface_en": "Skorogoszcz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wołczyn",
+   "kind": "place",
+   "surface_de": "Constadter",
+   "surface_en": "Wołczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Reuhonbasch[uncertain: ]",
+   "kind": "person",
+   "surface_de": "Reuhonbasch[?]",
+   "surface_en": "Reuhonbasch[uncertain: ]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austrian",
+   "kind": "other",
+   "surface_de": "Osterreichsche",
+   "surface_en": "Austrian",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wołczyn",
+   "kind": "place",
+   "surface_de": "Konstad",
+   "surface_en": "Wołczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wołczyn",
+   "kind": "place",
+   "surface_de": "Constadt",
+   "surface_en": "Wołczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wołczyn",
+   "kind": "place",
+   "surface_de": "Constad",
+   "surface_en": "Wołczyn",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "prinz-alexander",
+   "display": "Prinz Alexander",
+   "kind": "person",
+   "surface_de": "Prinz Alexander",
+   "surface_en": "Prinz Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürst August",
+   "surface_en": "Prince August",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartensleben",
+   "surface_en": "Wartensleben",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bavarian",
+   "kind": "other",
+   "surface_de": "Baierschen",
+   "surface_en": "Bavarian",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince George",
+   "kind": "person",
+   "surface_de": "Prinzen George",
+   "surface_en": "Prince George",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Brieg",
  "place_mentions": [
   {
@@ -568,9 +817,207 @@
    "doc_line": 53
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "220\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most highly honoured letter was sent to Świniary so that it might be forwarded to me as occasion offered. There the tenant let it lie for a considerable time, and for that reason I received it 3 weeks after it had been despatched. Immediately upon receiving it I went to Ostrów, sold my wool in order to have travelling money, and then hastened to Count Wartensleben at Nysa. Unhappily, however, I came too late, for Wartensleben had already concluded with a bankrupt merchant from Kalisz, in which he accepts for Skorogoszcz estates worth 135000 rt, for which I would not give 40000 rt; only the matter is now past. — Meanwhile the young Wartensleben, who is today in Austrian service, has the Wołczyn estates. — He gave about 150000 rt for them. He has put his wife's fortune — she being a born Reuhonbasch[uncertain: ] — into them and has made very many improvements. He now demands 200000 rt for these estates. There stand upon the estates 120000 rt of debts. There would thus remain 80000 rt. On this sum one is willing to bargain. Should Your Serene Highness wish to pursue the matter here, then write to me by the most urgent means by an express to Blizanow, and also come, then at once to Sławięcice to arrange everything, and thereafter to Wartensleben at Nysa to conclude. Everything, however, depends upon Weigel and Stössel taking over the Wołczyn estates again, as also the mortgage upon the Zagórów estates, and giving Your Serene Highness a receipt in return. Am I to negotiate with Weigel to that end, or have Your Serene Highness someone for it who understands it better than I?",
+   "names": [
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Ostrów",
+     "en": "Ostrów",
+     "kind": "place"
+    },
+    {
+     "de": "Wartensleben",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Nysa",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Schurgast",
+     "en": "Skorogoszcz",
+     "kind": "place"
+    },
+    {
+     "de": "Constadter",
+     "en": "Wołczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Reuhonbasch[?]",
+     "en": "Reuhonbasch[uncertain: ]",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreichsche",
+     "en": "Austrian",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "220",
+    "3",
+    "135000",
+    "40000",
+    "150000",
+    "200000",
+    "120000",
+    "80000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "The matter would then stand as follows. — With the Zagórów estates there would remain, according to the valuation, apart from the arrears, some 35000 rt; with Wołczyn there would remain 80000 rt.\n\nConsequently there would remain upon the Zagórów estates a mortgage of 270000 rt. This Weigel and Stössel would have to take over along with Wołczyn, and give Your Serene Highness a receipt for 350000 rt. If, however, Weigel and Stössel were willing, without Wołczyn, to take over the Zagórów estates at once for 350000 rt and to give Your Serene Highness a receipt, so that you might obtain Koszęcin [uncertain: free], then it would be according to the said statement. — Koszęcin could then be taken as an entailed estate for Prinz Alexander. Prince August cannot go against his father and are [illegible: ausbar]. — He would have to press for it that Your Serene Highness should be given out this sum together with the 200000 rt already paid upon Koszęcin, which amounts to some 550000 rt without those arrears, and thus Your Serene Highness could defy hell itself. — Let Your Serene Highness consider this and write your opinion to Blizanow by a swift messenger only. — I should very gladly have come to Sławięcice at once now, but I must absolutely go to Kalisz, for too much, and the most important court dates too, are waiting. — The valuation together with the schedule of arrears I beg to have returned in the original only; it will be required at Kalisz at the court date. Of the arrears I should still gladly [uncertain: Baurrretten] somewhat — then [uncertain: beyte] [uncertain: Ret] gives, when by way of encouragement in the exchange dealing, along with on the",
+   "names": [
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Konstad",
+     "en": "Wołczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Constadt",
+     "en": "Wołczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Constad",
+     "en": "Wołczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Prinz Alexander",
+     "en": "Prinz Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "35000",
+    "80000",
+    "270000",
+    "350000",
+    "350000",
+    "200000",
+    "550000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "For the rest, Wartensleben [uncertain: knows] not a word as yet of what sort of estates those are which I offered him in the exchange dealing. — He guessed at the Bavarian ones after Prince George. — I [uncertain: begged] him to leave off the game of questions, since he could learn nothing at present until I myself were first informed. At bottom the old greybeard grieves me. His fate is a sad one. In deepest reverence I remain, until death, Your Most Serene Highness's Brzeg\n\nthe 31st of October\n\n1811.\n\nfaithful, humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Wartensleben",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Baierschen",
+     "en": "Bavarian",
+     "kind": "other"
+    },
+    {
+     "de": "Prinzen George",
+     "en": "Prince George",
+     "kind": "person"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "8",
+    "1811"
+   ]
+  }
+ ],
+ "text_english": "220\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's most highly honoured letter was sent to Świniary so that it might be forwarded to me as occasion offered. There the tenant let it lie for a considerable time, and for that reason I received it 3 weeks after it had been despatched. Immediately upon receiving it I went to Ostrów, sold my wool in order to have travelling money, and then hastened to Count Wartensleben at Nysa. Unhappily, however, I came too late, for Wartensleben had already concluded with a bankrupt merchant from Kalisz, in which he accepts for Skorogoszcz estates worth 135000 rt, for which I would not give 40000 rt; only the matter is now past. — Meanwhile the young Wartensleben, who is today in Austrian service, has the Wołczyn estates. — He gave about 150000 rt for them. He has put his wife's fortune — she being a born Reuhonbasch[uncertain: ] — into them and has made very many improvements. He now demands 200000 rt for these estates. There stand upon the estates 120000 rt of debts. There would thus remain 80000 rt. On this sum one is willing to bargain. Should Your Serene Highness wish to pursue the matter here, then write to me by the most urgent means by an express to Blizanow, and also come, then at once to Sławięcice to arrange everything, and thereafter to Wartensleben at Nysa to conclude. Everything, however, depends upon Weigel and Stössel taking over the Wołczyn estates again, as also the mortgage upon the Zagórów estates, and giving Your Serene Highness a receipt in return. Am I to negotiate with Weigel to that end, or have Your Serene Highness someone for it who understands it better than I?\n\nThe matter would then stand as follows. — With the Zagórów estates there would remain, according to the valuation, apart from the arrears, some 35000 rt; with Wołczyn there would remain 80000 rt.\n\nConsequently there would remain upon the Zagórów estates a mortgage of 270000 rt. This Weigel and Stössel would have to take over along with Wołczyn, and give Your Serene Highness a receipt for 350000 rt. If, however, Weigel and Stössel were willing, without Wołczyn, to take over the Zagórów estates at once for 350000 rt and to give Your Serene Highness a receipt, so that you might obtain Koszęcin [uncertain: free], then it would be according to the said statement. — Koszęcin could then be taken as an entailed estate for Prinz Alexander. Prince August cannot go against his father and are [illegible: ausbar]. — He would have to press for it that Your Serene Highness should be given out this sum together with the 200000 rt already paid upon Koszęcin, which amounts to some 550000 rt without those arrears, and thus Your Serene Highness could defy hell itself. — Let Your Serene Highness consider this and write your opinion to Blizanow by a swift messenger only. — I should very gladly have come to Sławięcice at once now, but I must absolutely go to Kalisz, for too much, and the most important court dates too, are waiting. — The valuation together with the schedule of arrears I beg to have returned in the original only; it will be required at Kalisz at the court date. Of the arrears I should still gladly [uncertain: Baurrretten] somewhat — then [uncertain: beyte] [uncertain: Ret] gives, when by way of encouragement in the exchange dealing, along with on the\n\nFor the rest, Wartensleben [uncertain: knows] not a word as yet of what sort of estates those are which I offered him in the exchange dealing. — He guessed at the Bavarian ones after Prince George. — I [uncertain: begged] him to leave off the game of questions, since he could learn nothing at present until I myself were first informed. At bottom the old greybeard grieves me. His fate is a sad one. In deepest reverence I remain, until death, Your Most Serene Highness's Brzeg\n\nthe 31st of October\n\n1811.\n\nfaithful, humble and obedient servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld kam beim alten Grafen Wartensleben in Nysa zu spät, der über Skorogoszcz schon mit einem Kaufmann aus Kalisz abgeschlossen hat. Er schlägt die Güter von Wołczyn des jungen Wartensleben vor (Forderung 200000 Rthl, Schulden 120000 Rthl). Weigel und Stössel sollen diese Güter samt der Hypothek auf Zagórów übernehmen und dem Fürsten über 350000 Rthl quittieren. Koszęcin könnte als Majorat für Prinz Alexander genommen werden.",
  "reading": {

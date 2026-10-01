@@ -211,7 +211,136 @@
    "doc_line": 39
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Parchwitz",
+   "kind": "place",
+   "surface_de": "Parchwitz",
+   "surface_en": "Parchwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Colonel Scharffenberg",
+   "kind": "person",
+   "surface_de": "Obrist Scharffenbergs",
+   "surface_en": "Colonel Scharffenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "Petersburg",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Dąbska",
+   "surface_en": "Dąbska",
+   "page": 1
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Garczynski",
+   "kind": "person",
+   "surface_de": "Graf Garczynski",
+   "surface_en": "Count Garczynski",
+   "page": 2
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Heckern",
+   "surface_en": "Hecker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Badęski",
+   "kind": "person",
+   "surface_de": "Badęski[?]",
+   "surface_en": "Badęski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -270,9 +399,114 @@
    "doc_line": 36
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "193\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter I have but this moment received / it is the 10th, 5 o'clock in the afternoon /, so it has been ten days on the road. The plan concerning the journey is thereby frustrated; besides, I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and there one can neither act nor even speak so undisturbedly. I shall come this very month, and before I go to Berlin, [uncertain: as truly as there is a God above] I shall come to Sławięcice myself. For cases are now arising upon which I must know Your Serene Highness's high pleasure, in order to be able to speak in Berlin. In all likelihood the whole theatre is changing — According to Colonel Scharffenberg's assurance, matters in Petersburg are fermenting to the point of [uncertain: uproar]. I am directing my attention very much thither — The affairs of the Polish estates will end well; the Dąbska has already twice [uncertain: evaded] the appointed term and pays all the costs, in order to [uncertain: gain] me time; the prefect Garczynski is now having Honrichs arrested [illegible]. I myself begged him to have everything strictly investigated. Honrichs is, [uncertain: in spite of] the certificates of the sub-prefect Brzechffa, nonetheless a rogue, as the prefect has decreed — He owes over 10000 rt. — He has always been let go on, because by hints he misled people, as though he were bringing the money to Your",
+   "names": [
+    {
+     "de": "Parchwitz",
+     "en": "Parchwitz",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Obrist Scharffenbergs",
+     "en": "Colonel Scharffenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Petersburg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "193",
+    "10te",
+    "5",
+    "10",
+    "10000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Serene Highness, or merely — since the prefecture [uncertain: now] satisfies itself of the contrary, that he has not given a single Groschen hither, they are [uncertain: now] taking hold of him — the sub-prefect has given surety for the patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune, that I got the 600 rt. back from the fellow, [uncertain: because] I let him know nothing of the connexion with Count Garczynski — Garczynski [uncertain: is having] Hecker, with the assistance of the administrator Badęski[uncertain] appointed by the court, search everything out, so that the arrears may be quickly paid and the estates handed back free to Your Serene Highness\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop, the 10th of April\n\n1810.\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Graf Garczynski",
+     "en": "Count Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Heckern",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Badęski[?]",
+     "en": "Badęski",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "600",
+    "10ten",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "193\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Most Serene Highness's gracious letter I have but this moment received / it is the 10th, 5 o'clock in the afternoon /, so it has been ten days on the road. The plan concerning the journey is thereby frustrated; besides, I would also most humbly beg Your Serene Highness not to make the journey as far as Parchwitz. It attracts notice, and there one can neither act nor even speak so undisturbedly. I shall come this very month, and before I go to Berlin, [uncertain: as truly as there is a God above] I shall come to Sławięcice myself. For cases are now arising upon which I must know Your Serene Highness's high pleasure, in order to be able to speak in Berlin. In all likelihood the whole theatre is changing — According to Colonel Scharffenberg's assurance, matters in Petersburg are fermenting to the point of [uncertain: uproar]. I am directing my attention very much thither — The affairs of the Polish estates will end well; the Dąbska has already twice [uncertain: evaded] the appointed term and pays all the costs, in order to [uncertain: gain] me time; the prefect Garczynski is now having Honrichs arrested [illegible]. I myself begged him to have everything strictly investigated. Honrichs is, [uncertain: in spite of] the certificates of the sub-prefect Brzechffa, nonetheless a rogue, as the prefect has decreed — He owes over 10000 rt. — He has always been let go on, because by hints he misled people, as though he were bringing the money to Your\n\nSerene Highness, or merely — since the prefecture [uncertain: now] satisfies itself of the contrary, that he has not given a single Groschen hither, they are [uncertain: now] taking hold of him — the sub-prefect has given surety for the patron — It is believed that he too drew the greater part out of the estates through Honrichs. A piece of good fortune, that I got the 600 rt. back from the fellow, [uncertain: because] I let him know nothing of the connexion with Count Garczynski — Garczynski [uncertain: is having] Hecker, with the assistance of the administrator Badęski[uncertain] appointed by the court, search everything out, so that the arrears may be quickly paid and the estates handed back free to Your Serene Highness\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop, the 10th of April\n\n1810.\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Das Schreiben des Fürsten kam erst nach 10 Tagen an, daher scheitert der Reiseplan. Triebenfeld rät von einer Reise nach Parchwitz ab. Er will noch im April vor Berlin nach Sławięcice kommen, um den Willen des Fürsten zu erfahren. Die polnischen Güter: Die Dąbska zahlt alle Kosten. Prefect Garczynski lässt Honrichs verhaften, der über 10000 Rthl schuldet. Triebenfeld erhielt 600 Rthl von ihm zurück. Die Rückstände sollen rasch bezahlt, die Güter frei zurückgegeben werden.",
  "reading": {

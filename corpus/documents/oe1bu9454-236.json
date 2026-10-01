@@ -168,7 +168,88 @@
    "doc_line": 45
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mr von Sobottendorff",
+   "kind": "person",
+   "surface_de": "Herr v. Sobottendorff",
+   "surface_en": "Mr von Sobottendorff",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr Weigel",
+   "kind": "person",
+   "surface_de": "Hrn Weigel",
+   "surface_en": "Mr Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -183,9 +264,79 @@
    "doc_line": 41
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "236\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me the whole of his affairs which he has with Your Serene Highness. According to our arrangement I am to travel with him to Your Serene Highness as soon as I recover — the more quickly God now helps me, the sooner I shall be with Your Serene Highness together with the old house. His offers are good and certainly advantageous for Your Serene Highness.\n\nMr von Sobottendorff may be reassured; his affair too can be settled [uncertain: were I] to come there. I look forward most longingly to the papers in question, so as to keep the machine running. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the Prefect. Honrichs is a wretched villain.\n\nFor the rest, I have just this moment heard a sad piece of news. My son, who has often been together with Cosmar,",
+   "names": [
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Herr v. Sobottendorff",
+     "en": "Mr von Sobottendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "236"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "has received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive a Groschen. He added that your father too will receive [uncertain: a] Heller. For all the people who have ever served and helped the Prince are utterly ruined and lose what is theirs — may God avert this and make a liar of Cosmar.\n\nOnly the documents, and I beg most deeply and obediently for the letter to the Prefect. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; I have therefore deferred the lease contract. He follows my advice — I must first [uncertain: come to know] Your Serene Highness's intentions and the circumstances, particularly how you stand with your children. Everything will then [uncertain: be found]. Blizanow\n\n11th July 1812\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Hrn Weigel",
+     "en": "Mr Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "11",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "236\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nGood old Weigel has been here. He has handed over to me the whole of his affairs which he has with Your Serene Highness. According to our arrangement I am to travel with him to Your Serene Highness as soon as I recover — the more quickly God now helps me, the sooner I shall be with Your Serene Highness together with the old house. His offers are good and certainly advantageous for Your Serene Highness.\n\nMr von Sobottendorff may be reassured; his affair too can be settled [uncertain: were I] to come there. I look forward most longingly to the papers in question, so as to keep the machine running. Let Your Serene Highness sign the enclosed letter and send it back to me by express, so that I may hand it over to the Prefect. Honrichs is a wretched villain.\n\nFor the rest, I have just this moment heard a sad piece of news. My son, who has often been together with Cosmar,\n\nhas received from him the splendid assurance that not a single person to whom Your Serene Highness is indebted will ever receive a Groschen. He added that your father too will receive [uncertain: a] Heller. For all the people who have ever served and helped the Prince are utterly ruined and lose what is theirs — may God avert this and make a liar of Cosmar.\n\nOnly the documents, and I beg most deeply and obediently for the letter to the Prefect. I remain, until death, Your Serene Highness's. Mr Weigel wishes to buy; I have therefore deferred the lease contract. He follows my advice — I must first [uncertain: come to know] Your Serene Highness's intentions and the circumstances, particularly how you stand with your children. Everything will then [uncertain: be found]. Blizanow\n\n11th July 1812\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Weigel hat Triebenfeld seine gesamten Sachen mit dem Fürsten übergeben. Nach seiner Genesung soll Triebenfeld mit ihm zum Fürsten reisen. Weigels Offerten hält er für vorteilhaft. Weigel will kaufen, daher ist der Pachtvertrag aufgeschoben. Triebenfeld wartet auf die Papiere und bittet, den beiliegenden Brief an den Prefecten unterschrieben per Expressen zurückzuschicken. Sobottendorff könne beruhigt sein, Honrichs sei ein Bösewicht. Cosmar habe seinem Sohn versichert, kein Gläubiger des Fürsten erhalte je einen Groschen.",
  "reading": {

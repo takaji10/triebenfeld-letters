@@ -195,7 +195,184 @@
    "doc_line": 79
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Lipski",
+   "kind": "person",
+   "surface_de": "v Lipski",
+   "surface_en": "von Lipski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mrs von Dąbska, née von Prusimska",
+   "kind": "person",
+   "surface_de": "Frau v Dąbska gebohrnen v Prusimska",
+   "surface_en": "Mrs von Dąbska, née von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the canon von Jezierski",
+   "kind": "person",
+   "surface_de": "Canonico v Jezierski",
+   "surface_en": "the canon von Jezierski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tilsit",
+   "kind": "place",
+   "surface_de": "Tilsiter",
+   "surface_en": "Tilsit",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty the King of Prussia",
+   "kind": "person",
+   "surface_de": "Sr Majestät des Königs von Preußen",
+   "surface_en": "His Majesty the King of Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Iwanski",
+   "kind": "person",
+   "surface_de": "Iwanski",
+   "surface_en": "Iwanski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kuchary",
+   "kind": "other",
+   "surface_de": "Kuchary",
+   "surface_en": "Kuchary",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcia",
+   "surface_en": "Swięcia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prussian",
+   "kind": "other",
+   "surface_de": "Preußischer",
+   "surface_en": "Prussian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Martin von Otocki",
+   "kind": "person",
+   "surface_de": "Martin v. Otocki",
+   "surface_en": "Martin von Otocki",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Constantin Orczykowski",
+   "kind": "person",
+   "surface_de": "Constantin Orczykowski",
+   "surface_en": "Constantin Orczykowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ekstaedt",
+   "kind": "person",
+   "surface_de": "Ekstaedt",
+   "surface_en": "Ekstaedt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyn",
+   "surface_en": "Wrąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pyzdry",
+   "kind": "place",
+   "surface_de": "Peisern",
+   "surface_en": "Pyzdry",
+   "page": 4
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 4
+  }
+ ],
  "place_canonical": "Pyzdry",
  "place_mentions": [
   {
@@ -309,9 +486,160 @@
    "doc_line": 76
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "28\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI hasten to convey to Your Most Serene Highness the unwelcome news that the Trąbczyn estates were taken over on the 3rd of this month by a commissary of the Court of Appeal at Kalisz, namely the appeal judge von Lipski, and have been handed over to the general attorney of Mrs von Dąbska, née von Prusimska, the canon von Jezierski.\n\nThe order that was issued states that this taking-over is done by decree of the governing Commission. I have been able to do nothing further in the matter than to protest against the taking-over by a submitted representation, and also to invoke therein that this act runs counter to the plain content of the Peace of Tilsit,",
+   "names": [
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "v Lipski",
+     "en": "von Lipski",
+     "kind": "person"
+    },
+    {
+     "de": "Frau v Dąbska gebohrnen v Prusimska",
+     "en": "Mrs von Dąbska, née von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Canonico v Jezierski",
+     "en": "the canon von Jezierski",
+     "kind": "person"
+    },
+    {
+     "de": "Tilsiter",
+     "en": "Tilsit",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "28",
+    "3."
+   ]
+  },
+  {
+   "page": 2,
+   "en": "according to which all obligations of His Majesty the King of Prussia must be upheld; likewise I asked for a copy of the decree of the governing Commission by which the taking-over was ordered, in order to see the legal grounds; but this has not to this day been granted me. Lastly, by a protestation I have reserved to Your Serene Highness all remaining rights in these estates, particularly on account of the debts paid.\n\nYour Most Serene Highness will best know what is now to be done, for with the governing Commission at Warsaw nothing is likely to be achieved, since estates have been confiscated from some of its members, and thus their own interest guides them. Next, Your Most Serene Highness has again been drawn into 2[uncertain: 2] lawsuits.\n\nIn the first, the provost Iwanski and Kuchary demand the tithe (Decem) of Swięcia, which suit he lost in the first instance in the Prussian period, as",
+   "names": [
+    {
+     "de": "Sr Majestät des Königs von Preußen",
+     "en": "His Majesty the King of Prussia",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Iwanski",
+     "en": "Iwanski",
+     "kind": "person"
+    },
+    {
+     "de": "Kuchary",
+     "en": "Kuchary",
+     "kind": "other"
+    },
+    {
+     "de": "Swięcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Preußischer",
+     "en": "Prussian",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2[?]"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "I have informed myself from the manual records. In the second suit the tenant Martin von Otocki, as cessionary of Constantin Orczykowski of Zagórów, and the miller Ekstaedt of Wrąbczyn, demand some 7000 Rthl in compensation out of a nine-year lease contract concluded in the year 1798 over Trąbczyn, because the same was not fulfilled. So far as I have been able to learn, a judicial settlement was concluded in this matter at Wrocław, by which the tenants renounced all their rights under this lease contract; if Your Most Serene Highness would have the grace and deign to command that this document be sought out at Wrocław and sent hither, so that it might be used in refutation. It would also be necessary that Your Most Serene Highness deign to grant a power of attorney to someone in these matters; I would at all events assist the attorney. Your Most Serene Highness's interest",
+   "names": [
+    {
+     "de": "Martin v. Otocki",
+     "en": "Martin von Otocki",
+     "kind": "person"
+    },
+    {
+     "de": "Constantin Orczykowski",
+     "en": "Constantin Orczykowski",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Ekstaedt",
+     "en": "Ekstaedt",
+     "kind": "person"
+    },
+    {
+     "de": "Wrąbczyn",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1798.",
+    "9.",
+    "7000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "is my greatest concern, and it grieves me that I am perhaps the first to bring these tidings. In deepest reverence I remain, until death, Your Most Serene Highness's Pyzdry, the 5th of October\n\n1807.\n\nmost humble and obedient servant,\n\nHawich",
+   "names": [
+    {
+     "de": "Peisern",
+     "en": "Pyzdry",
+     "kind": "place"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5.",
+    "1807."
+   ]
+  }
+ ],
+ "text_english": "28\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI hasten to convey to Your Most Serene Highness the unwelcome news that the Trąbczyn estates were taken over on the 3rd of this month by a commissary of the Court of Appeal at Kalisz, namely the appeal judge von Lipski, and have been handed over to the general attorney of Mrs von Dąbska, née von Prusimska, the canon von Jezierski.\n\nThe order that was issued states that this taking-over is done by decree of the governing Commission. I have been able to do nothing further in the matter than to protest against the taking-over by a submitted representation, and also to invoke therein that this act runs counter to the plain content of the Peace of Tilsit,\n\naccording to which all obligations of His Majesty the King of Prussia must be upheld; likewise I asked for a copy of the decree of the governing Commission by which the taking-over was ordered, in order to see the legal grounds; but this has not to this day been granted me. Lastly, by a protestation I have reserved to Your Serene Highness all remaining rights in these estates, particularly on account of the debts paid.\n\nYour Most Serene Highness will best know what is now to be done, for with the governing Commission at Warsaw nothing is likely to be achieved, since estates have been confiscated from some of its members, and thus their own interest guides them. Next, Your Most Serene Highness has again been drawn into 2[uncertain: 2] lawsuits.\n\nIn the first, the provost Iwanski and Kuchary demand the tithe (Decem) of Swięcia, which suit he lost in the first instance in the Prussian period, as\n\nI have informed myself from the manual records. In the second suit the tenant Martin von Otocki, as cessionary of Constantin Orczykowski of Zagórów, and the miller Ekstaedt of Wrąbczyn, demand some 7000 Rthl in compensation out of a nine-year lease contract concluded in the year 1798 over Trąbczyn, because the same was not fulfilled. So far as I have been able to learn, a judicial settlement was concluded in this matter at Wrocław, by which the tenants renounced all their rights under this lease contract; if Your Most Serene Highness would have the grace and deign to command that this document be sought out at Wrocław and sent hither, so that it might be used in refutation. It would also be necessary that Your Most Serene Highness deign to grant a power of attorney to someone in these matters; I would at all events assist the attorney. Your Most Serene Highness's interest\n\nis my greatest concern, and it grieves me that I am perhaps the first to bring these tidings. In deepest reverence I remain, until death, Your Most Serene Highness's Pyzdry, the 5th of October\n\n1807.\n\nmost humble and obedient servant,\n\nHawich",
  "summary_en": "",
  "summary_de": "Hawich meldet, dass die Trąbczyner Güter auf Verordnung der regierenden Commission durch den Appellationsrichter v Lipski abgenommen und Canonicus v Jezierski, Generalbevollmächtigtem der Frau v Dąbska geb. v Prusimska, übergeben wurden; er protestierte. Neue Prozesse: Probst Iwanski fordert den Decem von Swięcia, Martin v. Otocki und Müller Ekstaedt etwa 7000 Rthl Entschädigung aus einem Trąbczyner Pachtvertrag von 1798. Er bittet um den Vergleich aus Wrocław und eine Vollmacht.",
  "reading": {

@@ -218,7 +218,224 @@
    "doc_line": 44
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Köckritz",
+   "kind": "person",
+   "surface_de": "General Köckritz",
+   "surface_en": "General Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "v[an] d[er] Lahr",
+   "surface_en": "van der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goldstucker",
+   "kind": "person",
+   "surface_de": "Goldstucker",
+   "surface_en": "Goldstucker",
+   "page": 1
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Strachwitz",
+   "kind": "person",
+   "surface_de": "Strachwitz",
+   "surface_en": "Strachwitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hegener",
+   "kind": "person",
+   "surface_de": "Hegener",
+   "surface_en": "Hegener",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ollabock",
+   "kind": "place",
+   "surface_de": "Ollabock",
+   "surface_en": "Ollabock",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konojader",
+   "kind": "place",
+   "surface_de": "Konojader[?]",
+   "surface_en": "Konojader",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goldstucker",
+   "kind": "person",
+   "surface_de": "Goldstucker",
+   "surface_en": "Goldstucker",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Ollabock",
+   "kind": "place",
+   "surface_de": "Ollabock",
+   "surface_en": "Ollabock",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Privy Councillor Tismar",
+   "kind": "person",
+   "surface_de": "Geheimen Raths Tismar",
+   "surface_en": "Privy Councillor Tismar",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritzes",
+   "surface_en": "Köckritz",
+   "page": 3
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "Lahr",
+   "surface_en": "Lahr",
+   "page": 3
+  },
+  {
+   "entity": "flesch",
+   "display": "Flesch",
+   "kind": "person",
+   "surface_de": "Flesch",
+   "surface_en": "Flesch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sack",
+   "kind": "person",
+   "surface_de": "Sack",
+   "surface_en": "Sack",
+   "page": 3
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 3
+  }
+ ],
  "place_canonical": "Ollaboch",
  "place_mentions": [
   {
@@ -288,9 +505,170 @@
    "doc_line": 42
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "197\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy Richter has just returned from Berlin with the glad news that the two [uncertain: beiden] General Köckritz has had van der Lahr sharply called to order, and that Lahr has most humbly declared himself willing to wait. He will also speak with the [illegible] Estates officials, so that there shall be patience as regards the interest payments to the Invalids' Fund. Since I am now once in Poland, I shall set the affairs in Kalisz in the best train and then return to Wrocław. I am writing this very moment to Goldstucker and Flesch to bring the exchange deal into the best possible course — For the rest, the shortage of money is greater here than with us, and I can promise nothing — Would to God the deal came about. I have found here an old friend who knows how to paint hell to Strachwitz as the fairest paradise; he shall prepare everything for Strachwitz — It is the chief district steward Hegener of Ollabock — He is also to audit everything in Zagórów — He will do it without self-interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now proceed with furore in the Trąbczyn matter, and also set the [uncertain: Konojader] business in train, so that the whole forms one piece and",
+   "names": [
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "General Köckritz",
+     "en": "General Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "v[an] d[er] Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Goldstucker",
+     "en": "Goldstucker",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Strachwitz",
+     "en": "Strachwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Hegener",
+     "en": "Hegener",
+     "kind": "person"
+    },
+    {
+     "de": "Ollabock",
+     "en": "Ollabock",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Konojader[?]",
+     "en": "Konojader",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "197"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "and gains a good appearance — Only let Your Serene Highness press Goldstucker, that he bring the exchange deal about. In deepest reverence I remain, until death, Your Serene Highness's Ollabock\n\nthe 31st of May\n\n1810.\n\nfaithful, humble and obedient servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Goldstucker",
+     "en": "Goldstucker",
+     "kind": "person"
+    },
+    {
+     "de": "Ollabock",
+     "en": "Ollabock",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1810"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "just now I read a letter of the Privy Councillor Tismar, who is at present the bosom friend of Köckritz — he says: What a hullabaloo you are making — Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man — He has indeed satisfied himself of it personally on your estates, at a demesne farm, [uncertain: from a] timber sale [illegible] — It must be his attorney or some other hostile creature that has misused his name — He is very angry at the rebuke he received from the General — [uncertain: See you] to calming him etc.\n\nI am now convinced to the highest certainty that this was a knavish trick of Flesch and his associates, in order to frighten away from Wrocław as well. But I shall learn it for certain, and then woe to the knaves — It is only good that Köckritz speaks with Sack, and that I shall thereby gain peace — The world sees after all that I still have good friends —",
+   "names": [
+    {
+     "de": "Geheimen Raths Tismar",
+     "en": "Privy Councillor Tismar",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritzes",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Lahr",
+     "en": "Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Flesch",
+     "en": "Flesch",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Sack",
+     "en": "Sack",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    }
+   ]
+  }
+ ],
+ "text_english": "197\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nMy Richter has just returned from Berlin with the glad news that the two [uncertain: beiden] General Köckritz has had van der Lahr sharply called to order, and that Lahr has most humbly declared himself willing to wait. He will also speak with the [illegible] Estates officials, so that there shall be patience as regards the interest payments to the Invalids' Fund. Since I am now once in Poland, I shall set the affairs in Kalisz in the best train and then return to Wrocław. I am writing this very moment to Goldstucker and Flesch to bring the exchange deal into the best possible course — For the rest, the shortage of money is greater here than with us, and I can promise nothing — Would to God the deal came about. I have found here an old friend who knows how to paint hell to Strachwitz as the fairest paradise; he shall prepare everything for Strachwitz — It is the chief district steward Hegener of Ollabock — He is also to audit everything in Zagórów — He will do it without self-interest, for he is a noble Prussian and an admirer of Your Serene Highness. I would now proceed with furore in the Trąbczyn matter, and also set the [uncertain: Konojader] business in train, so that the whole forms one piece and\n\nand gains a good appearance — Only let Your Serene Highness press Goldstucker, that he bring the exchange deal about. In deepest reverence I remain, until death, Your Serene Highness's Ollabock\n\nthe 31st of May\n\n1810.\n\nfaithful, humble and obedient servant v Triebenfeld\n\njust now I read a letter of the Privy Councillor Tismar, who is at present the bosom friend of Köckritz — he says: What a hullabaloo you are making — Lahr swears high and dear that he knows nothing of it. He knows only too well that you are a well-to-do man — He has indeed satisfied himself of it personally on your estates, at a demesne farm, [uncertain: from a] timber sale [illegible] — It must be his attorney or some other hostile creature that has misused his name — He is very angry at the rebuke he received from the General — [uncertain: See you] to calming him etc.\n\nI am now convinced to the highest certainty that this was a knavish trick of Flesch and his associates, in order to frighten away from Wrocław as well. But I shall learn it for certain, and then woe to the knaves — It is only good that Köckritz speaks with Sack, and that I shall thereby gain peace — The world sees after all that I still have good friends —",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, dass General Köckritz van der Lahr laut Richter derb zur Ruhe verwiesen habe; Lahr wolle nun warten. Köckritz solle zudem Geduld wegen der Zinsen an die Invaliden Casse erwirken. Triebenfeld will die Angelegenheiten in Kalisz einleiten, dann nach Wrocław zurück, und drängt Goldstucker und Flesch zum Tauschhandel. Ober Amtmann Hegener soll alles in Zagórów revidieren. Die Trąbczyner Sache würde er energisch betreiben. Nachschrift: Laut Tismar weiß Lahr von nichts; Triebenfeld vermutet eine Büberei von Flesch und Consorten.",
  "reading": {

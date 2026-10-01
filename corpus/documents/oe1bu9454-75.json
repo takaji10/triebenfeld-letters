@@ -187,7 +187,176 @@
    "doc_line": 51
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Count von S.",
+   "kind": "person",
+   "surface_de": "Gr. v. S.",
+   "surface_en": "Count von S.",
+   "page": 1
+  },
+  {
+   "entity": "reinhardt",
+   "display": "Reinhardt",
+   "kind": "person",
+   "surface_de": "Reinhardt",
+   "surface_en": "Reinhardt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bonn",
+   "kind": "place",
+   "surface_de": "Bonn",
+   "surface_en": "Bonn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Goldbeck",
+   "kind": "person",
+   "surface_de": "v Goldbeck",
+   "surface_en": "von Goldbeck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreußischen",
+   "surface_en": "South Prussian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count von Hoym",
+   "kind": "person",
+   "surface_de": "Gr v. Hoym",
+   "surface_en": "Count von Hoym",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Anabach in Baerautschen",
+   "kind": "place",
+   "surface_de": "Anabach in Baerautschen",
+   "surface_en": "Anabach in Baerautschen",
+   "page": 2
+  },
+  {
+   "entity": "haugwitz",
+   "display": "Haugwitz",
+   "kind": "person",
+   "surface_de": "Haugwitz",
+   "surface_en": "Haugwitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Priebich",
+   "kind": "person",
+   "surface_de": "Priebich",
+   "surface_en": "Priebich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kruger",
+   "kind": "person",
+   "surface_de": "Kruger",
+   "surface_en": "Kruger",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kruger",
+   "kind": "person",
+   "surface_de": "Kruger",
+   "surface_en": "Kruger",
+   "page": 3
+  },
+  {
+   "entity": "haugwitz",
+   "display": "Haugwitz",
+   "kind": "person",
+   "surface_de": "Haugwitz",
+   "surface_en": "Haugwitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Sudpreußisch",
+   "surface_en": "South Prussian",
+   "page": 3
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface_de": "Chełmski",
+   "surface_en": "Chełmski",
+   "page": 3
+  },
+  {
+   "entity": "melzer",
+   "display": "Melzer",
+   "kind": "person",
+   "surface_de": "Melzer",
+   "surface_en": "Melzer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Gravenitz",
+   "kind": "person",
+   "surface_de": "Gravenitz",
+   "surface_en": "Gravenitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -213,9 +382,146 @@
    "doc_line": 48
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "75 Your Most Serene Highness, I [uncertain: Tage] most humbly lay again at your feet the letters of the Count von S. most graciously communicated to me — It gladdens me that the Count conducts himself so straightforwardly in the whole affair, and in the end perceives his own advantage — Only, on the other hand, I grieve all too much that in this matter I have once again had to experience a trait dishonouring to humanity, and then that the opportunity is taken from me of rendering Your Most Serene Highness a truly substantial service and of gaining for you, Most High, some 40 to 50/m Rthl — From Bonn Reinhardt writes that",
+   "names": [
+    {
+     "de": "Gr. v. S.",
+     "en": "Count von S.",
+     "kind": "person"
+    },
+    {
+     "de": "Reinhardt",
+     "en": "Reinhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Bonn",
+     "en": "Bonn",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "75",
+    "40",
+    "50/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "nothing has yet followed concerning the assistance of the fiscal authority — God! how pitiable are the [uncertain: Menschl] whose words one may set any belief in. From Mr von Goldbeck in Berlin I received a letter yesterday, in which he says: \"Up to now many rumours have been current in the Residence concerning the South Prussian Department. A few days ago, however, I heard from a reliable man that Count von Hoym is keeping it.\" He writes that His Majesty had been pleased to add to his otherwise already very extensive Justice Department the [uncertain: Anabach in Baerautschen] provinces as well, and had commanded — that some newer laws be drafted. Heaven knows what there is in all this; for about 3 days ago a confidant of Minister Haugwitz, a certain Priebich, passed through here, and he firmly assured",
+   "names": [
+    {
+     "de": "v Goldbeck",
+     "en": "von Goldbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreußischen",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Gr v. Hoym",
+     "en": "Count von Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Anabach in Baerautschen",
+     "en": "Anabach in Baerautschen",
+     "kind": "place"
+    },
+    {
+     "de": "Haugwitz",
+     "en": "Haugwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Priebich",
+     "en": "Priebich",
+     "kind": "person"
+    },
+    {
+     "de": "Kruger",
+     "en": "Kruger",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "3"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "the councillor Kruger that Minister Haugwitz was to be South Prussian minister — Chełmski has not yet appealed, and perhaps the estates may also be leased out along with the rest at Midsummer without obstruction. Melzer, when the returning express brought the news from Gravenitz, was not at home, but comes back in 2 days, [uncertain: um] and then the form for the power of attorney will follow, as will the other reports. In deepest reverence I remain, Your Most Serene Highness's Wrocław, the 1st of April 1798.\n\nmost faithful and humble servant v Triebenfeld",
+   "names": [
+    {
+     "de": "Kruger",
+     "en": "Kruger",
+     "kind": "person"
+    },
+    {
+     "de": "Haugwitz",
+     "en": "Haugwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Sudpreußisch",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Chełmski",
+     "en": "Chełmski",
+     "kind": "person"
+    },
+    {
+     "de": "Melzer",
+     "en": "Melzer",
+     "kind": "person"
+    },
+    {
+     "de": "Gravenitz",
+     "en": "Gravenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1ten",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "75 Your Most Serene Highness, I [uncertain: Tage] most humbly lay again at your feet the letters of the Count von S. most graciously communicated to me — It gladdens me that the Count conducts himself so straightforwardly in the whole affair, and in the end perceives his own advantage — Only, on the other hand, I grieve all too much that in this matter I have once again had to experience a trait dishonouring to humanity, and then that the opportunity is taken from me of rendering Your Most Serene Highness a truly substantial service and of gaining for you, Most High, some 40 to 50/m Rthl — From Bonn Reinhardt writes that\n\nnothing has yet followed concerning the assistance of the fiscal authority — God! how pitiable are the [uncertain: Menschl] whose words one may set any belief in. From Mr von Goldbeck in Berlin I received a letter yesterday, in which he says: \"Up to now many rumours have been current in the Residence concerning the South Prussian Department. A few days ago, however, I heard from a reliable man that Count von Hoym is keeping it.\" He writes that His Majesty had been pleased to add to his otherwise already very extensive Justice Department the [uncertain: Anabach in Baerautschen] provinces as well, and had commanded — that some newer laws be drafted. Heaven knows what there is in all this; for about 3 days ago a confidant of Minister Haugwitz, a certain Priebich, passed through here, and he firmly assured\n\nthe councillor Kruger that Minister Haugwitz was to be South Prussian minister — Chełmski has not yet appealed, and perhaps the estates may also be leased out along with the rest at Midsummer without obstruction. Melzer, when the returning express brought the news from Gravenitz, was not at home, but comes back in 2 days, [uncertain: um] and then the form for the power of attorney will follow, as will the other reports. In deepest reverence I remain, Your Most Serene Highness's Wrocław, the 1st of April 1798.\n\nmost faithful and humble servant v Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld schickt die ihm mitgeteilten Schreiben des Gr. v. S. zurück. Er freut sich, dass der Graf sich gerade verhält, bedauert aber, dem Fürsten nicht 40 bis 50/m Rthl gewinnen zu können. Laut Reinhardt ist wegen der Assistenz des Fisci nichts erfolgt. Goldbeck hört, Hoym behalte das Südpreußische Departement; Priebich versicherte Rath Kruger dagegen, Haugwitz werde Minister. Chełmski hat nicht appelliert, die Güter könnten vielleicht zu Johanni verpachtet werden. Das Formular zur Vollmacht folgt nach Melzers Rückkehr.",
  "reading": {

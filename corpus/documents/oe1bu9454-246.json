@@ -161,7 +161,288 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachſtens",
+   "surface_en": "Saxony",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weimar",
+   "kind": "place",
+   "surface_de": "Weimar",
+   "surface_en": "Weimar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Meiningen",
+   "kind": "place",
+   "surface_de": "Meinungen",
+   "surface_en": "Meiningen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gotha",
+   "kind": "place",
+   "surface_de": "Gotha",
+   "surface_en": "Gotha",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Austria",
+   "kind": "place",
+   "surface_de": "Österreich",
+   "surface_en": "Austria",
+   "page": 1
+  },
+  {
+   "entity": "talleyrand",
+   "display": "Talleyrand",
+   "kind": "person",
+   "surface_de": "Talleyrand",
+   "surface_en": "Talleyrand",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Thorn",
+   "kind": "place",
+   "surface_de": "Thoren",
+   "surface_en": "Thorn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kępno",
+   "kind": "place",
+   "surface_de": "Kempen",
+   "surface_en": "Kępno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia's",
+   "kind": "place",
+   "surface_de": "Preußens",
+   "surface_en": "Prussia's",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia's",
+   "kind": "place",
+   "surface_de": "Huß landt",
+   "surface_en": "Russia's",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hungary",
+   "kind": "place",
+   "surface_de": "Ungarn",
+   "surface_en": "Hungary",
+   "page": 1
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentiner",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "B[arbe]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A.",
+   "kind": "person",
+   "surface_de": "A:",
+   "surface_en": "A.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Polish",
+   "kind": "other",
+   "surface_de": "Pohl[nischen]",
+   "surface_en": "Polish",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland's",
+   "kind": "place",
+   "surface_de": "Pohlens",
+   "surface_en": "Poland's",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Westen] Emperor",
+   "kind": "other",
+   "surface_de": "Westen Kaysers",
+   "surface_en": "[uncertain: Westen] Emperor",
+   "page": 2
+  },
+  {
+   "entity": "zerboni",
+   "display": "Zerboni",
+   "kind": "person",
+   "surface_de": "Zerboni",
+   "surface_en": "Zerboni",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Neuwied",
+   "kind": "place",
+   "surface_de": "Neuwied",
+   "surface_en": "Neuwied",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Erbach",
+   "kind": "place",
+   "surface_de": "Erbach",
+   "surface_en": "Erbach",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Leiningen",
+   "kind": "place",
+   "surface_de": "Leiningen",
+   "surface_en": "Leiningen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor Franz",
+   "kind": "person",
+   "surface_de": "Kayser Franz",
+   "surface_en": "Emperor Franz",
+   "page": 2
+  },
+  {
+   "entity": "gaertner",
+   "display": "Gärtner (Geh. Rath)",
+   "kind": "person",
+   "surface_de": "Gärtner",
+   "surface_en": "Gärtner",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Würt[temberg]",
+   "kind": "person",
+   "surface_de": "K von Wur:",
+   "surface_en": "King of Würt[temberg]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr W.",
+   "kind": "person",
+   "surface_de": "H. W.",
+   "surface_en": "Mr W.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -275,9 +556,211 @@
    "doc_line": 51
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "246\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's most highly esteemed letter of the 9th of this month I received only on the 23rd; if the letters which I send to Your Serene Highness go at a like snail's pace, then it looks sad indeed. — Here things are somewhat quiet at present; the monarchs have after all resolved to go to Hungary, and in fact departed thither today. After their return the Congress will be opened. The ministers have meanwhile remained here and continue to work with the greatest activity. Saxony's [uncertain: Sachſtens] fate is now already decided for ever, Prussia obtains it entirely — Weimar receives [uncertain: erhölt] a small increment, Meiningen [uncertain: Meinungen], Gotha etc. remain as they are, yet all are subordinated to the [illegible: Laug]. Concerning Poland nothing is yet decided. Austria will by no means lay itself to the mark, and Talleyrand too seems to be stirring things up under hand, whence the favourable delay. Yet one hopes [uncertain: haft] the best from the continuing friendship between the Russian Emperor and our King — for the strip from Thorn close past Kalisz towards Kępno would be too slight an equivalent for Prussia's exertions, and this line could never be regarded as a military frontier. Silesia and Prussia would always remain without connection, and in the case of Russia's [uncertain: Huß landt] great power they would have to be regarded as lost provinces, because there are no strongholds or rivers of consequence there.\n\nOn the affairs of the Empire I can say little today, for Mr von Gärtner lay very ill for several days, and I too have had to keep to my room for 4 days on account of gouty attacks and a swollen head. But with the first post I shall be able to write much.",
+   "names": [
+    {
+     "de": "Sachſtens",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Weimar",
+     "en": "Weimar",
+     "kind": "place"
+    },
+    {
+     "de": "Meinungen",
+     "en": "Meiningen",
+     "kind": "place"
+    },
+    {
+     "de": "Gotha",
+     "en": "Gotha",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Österreich",
+     "en": "Austria",
+     "kind": "place"
+    },
+    {
+     "de": "Talleyrand",
+     "en": "Talleyrand",
+     "kind": "person"
+    },
+    {
+     "de": "Thoren",
+     "en": "Thorn",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Kempen",
+     "en": "Kępno",
+     "kind": "place"
+    },
+    {
+     "de": "Preußens",
+     "en": "Prussia's",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Huß landt",
+     "en": "Russia's",
+     "kind": "place"
+    },
+    {
+     "de": "Ungarn",
+     "en": "Hungary",
+     "kind": "place"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "246",
+    "9",
+    "23",
+    "4"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "From the help of His Serene Highness the State Chancellor I confidently hope very much good for Your Serene Highness — the accompanying piece with all its enclosures I had to submit after altering it twice. The first time I had not adduced Your Serene Highness's letter, which must properly be regarded as a power of attorney.\n\nIn the Koszęcin matter nothing essential has yet been done, because B[arbe] and A. do not think it advisable to lay so much before them at once.\n\nIn the business of the Polish estates I am to keep quiet until Poland's lot has been cast; for if the district in which the Trąbczyn estates lie should indeed fall to Russia, the Prince Chancellor will certainly at once procure everything with His Majesty the [uncertain: Westen] Emperor for the best of Your Serene Highness.\n\nZerboni has today received the Order of the Red Eagle, third class, and goes to Warsaw. Heaven dispenses its gifts still as oddly as in 1793. Neuwied, Erbach, Leiningen and several others have gone as deputies to the Emperor Franz on behalf of the [uncertain: aufsstände], and the Emperor most graciously led them forward [uncertain: angeführt] and promised to do what was possible — whereupon these gentlemen also begged an audience with our King; this the King refused, and merely had them told that they might submit their request in writing. These matters seem to be drawing out very far, and in the end the mountain may bring forth a mouse. — For the rest, Mr Privy Councillor von Gärtner / truly one of the foremost heads and a much respected man / bombards [uncertain: Bombardindt] frightfully, and, as I believe, not without effect. — The accompanying writing or little volume I see in many places; he is the author of it. Four more of the like exist, and each of equal force. The King of Würt[temberg] is furious about it. — I send Your Serene Highness this brochure so that they may see that everything which can be said has already been said, in order to bring the matter back into the old track. — I await from\n\nMr W. instruction as to what is still to be said in Your Serene Highness's name. — I do not for once shoot into the blue [illegible: Spannen und vom] excites a great sensation. — God knows what will come of it? It is in unbounded reverence that I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 25th of October\n\n1814\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Koschentiner",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "B[arbe]",
+     "kind": "person"
+    },
+    {
+     "de": "A:",
+     "en": "A.",
+     "kind": "person"
+    },
+    {
+     "de": "Pohl[nischen]",
+     "en": "Polish",
+     "kind": "other"
+    },
+    {
+     "de": "Pohlens",
+     "en": "Poland's",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Westen Kaysers",
+     "en": "[uncertain: Westen] Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Zerboni",
+     "en": "Zerboni",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Neuwied",
+     "en": "Neuwied",
+     "kind": "place"
+    },
+    {
+     "de": "Erbach",
+     "en": "Erbach",
+     "kind": "place"
+    },
+    {
+     "de": "Leiningen",
+     "en": "Leiningen",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser Franz",
+     "en": "Emperor Franz",
+     "kind": "person"
+    },
+    {
+     "de": "Gärtner",
+     "en": "Gärtner",
+     "kind": "person"
+    },
+    {
+     "de": "K von Wur:",
+     "en": "King of Würt[temberg]",
+     "kind": "person"
+    },
+    {
+     "de": "H. W.",
+     "en": "Mr W.",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "3",
+    "1793",
+    "4",
+    "25",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "246\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's most highly esteemed letter of the 9th of this month I received only on the 23rd; if the letters which I send to Your Serene Highness go at a like snail's pace, then it looks sad indeed. — Here things are somewhat quiet at present; the monarchs have after all resolved to go to Hungary, and in fact departed thither today. After their return the Congress will be opened. The ministers have meanwhile remained here and continue to work with the greatest activity. Saxony's [uncertain: Sachſtens] fate is now already decided for ever, Prussia obtains it entirely — Weimar receives [uncertain: erhölt] a small increment, Meiningen [uncertain: Meinungen], Gotha etc. remain as they are, yet all are subordinated to the [illegible: Laug]. Concerning Poland nothing is yet decided. Austria will by no means lay itself to the mark, and Talleyrand too seems to be stirring things up under hand, whence the favourable delay. Yet one hopes [uncertain: haft] the best from the continuing friendship between the Russian Emperor and our King — for the strip from Thorn close past Kalisz towards Kępno would be too slight an equivalent for Prussia's exertions, and this line could never be regarded as a military frontier. Silesia and Prussia would always remain without connection, and in the case of Russia's [uncertain: Huß landt] great power they would have to be regarded as lost provinces, because there are no strongholds or rivers of consequence there.\n\nOn the affairs of the Empire I can say little today, for Mr von Gärtner lay very ill for several days, and I too have had to keep to my room for 4 days on account of gouty attacks and a swollen head. But with the first post I shall be able to write much.\n\nFrom the help of His Serene Highness the State Chancellor I confidently hope very much good for Your Serene Highness — the accompanying piece with all its enclosures I had to submit after altering it twice. The first time I had not adduced Your Serene Highness's letter, which must properly be regarded as a power of attorney.\n\nIn the Koszęcin matter nothing essential has yet been done, because B[arbe] and A. do not think it advisable to lay so much before them at once.\n\nIn the business of the Polish estates I am to keep quiet until Poland's lot has been cast; for if the district in which the Trąbczyn estates lie should indeed fall to Russia, the Prince Chancellor will certainly at once procure everything with His Majesty the [uncertain: Westen] Emperor for the best of Your Serene Highness.\n\nZerboni has today received the Order of the Red Eagle, third class, and goes to Warsaw. Heaven dispenses its gifts still as oddly as in 1793. Neuwied, Erbach, Leiningen and several others have gone as deputies to the Emperor Franz on behalf of the [uncertain: aufsstände], and the Emperor most graciously led them forward [uncertain: angeführt] and promised to do what was possible — whereupon these gentlemen also begged an audience with our King; this the King refused, and merely had them told that they might submit their request in writing. These matters seem to be drawing out very far, and in the end the mountain may bring forth a mouse. — For the rest, Mr Privy Councillor von Gärtner / truly one of the foremost heads and a much respected man / bombards [uncertain: Bombardindt] frightfully, and, as I believe, not without effect. — The accompanying writing or little volume I see in many places; he is the author of it. Four more of the like exist, and each of equal force. The King of Würt[temberg] is furious about it. — I send Your Serene Highness this brochure so that they may see that everything which can be said has already been said, in order to bring the matter back into the old track. — I await from\n\nMr W. instruction as to what is still to be said in Your Serene Highness's name. — I do not for once shoot into the blue [illegible: Spannen und vom] excites a great sensation. — God knows what will come of it? It is in unbounded reverence that I remain, until death,\n\nYour Most Serene Highness's\n\nVienna, the 25th of October\n\n1814\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "In der Sache der polnischen Güter soll v. Triebenfeld ruhig bleiben, bis über Polen entschieden ist. Fällt der Bezirk der Trąbczyner Güter an Russland, werde der Fürst Kanzler sich beim Kaiser für den Fürsten einsetzen. Eine Eingabe hat er nach zweimaliger Änderung eingereicht. In der Koszęciner Sache ist noch nichts Wesentliches geschehen. Kongressnachrichten: Sachsen fällt ganz an Preußen, über Polen ist nichts entschieden. Zerboni erhielt den Roten Adlerorden. Er legt eine Broschüre Gärtners bei.",
  "reading": {

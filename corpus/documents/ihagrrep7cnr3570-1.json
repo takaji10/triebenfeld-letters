@@ -2875,6 +2875,17 @@
  "place_canonical": "Berlin",
  "place_mentions": [
   {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawies",
+   "page": 1,
+   "page_id": "0004_a",
+   "scan": "I_HA_Rep_7_C_Nr_3570_0004_a-L1_01.jpg",
+   "line": 80,
+   "doc_line": 35
+  },
+  {
    "entity": "breslau",
    "display": "Wrocław (Breslau)",
    "kind": "place",
@@ -2983,6 +2994,17 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
    "line": 120,
    "doc_line": 74
+  },
+  {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawies",
+   "page": 2,
+   "page_id": "0005_a",
+   "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
+   "line": 121,
+   "doc_line": 75
   },
   {
    "entity": "laske",
@@ -3423,6 +3445,28 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a-L1_07.jpg",
    "line": 364,
    "doc_line": 313
+  },
+  {
+   "entity": "lazy-trabczyn",
+   "display": "Łazy",
+   "kind": "place",
+   "surface": "Lazy",
+   "page": 7,
+   "page_id": "0011_a",
+   "scan": "I_HA_Rep_7_C_Nr_3570_0011_a-L1_07.jpg",
+   "line": 365,
+   "doc_line": 314
+  },
+  {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawies",
+   "page": 7,
+   "page_id": "0011_a",
+   "scan": "I_HA_Rep_7_C_Nr_3570_0011_a-L1_07.jpg",
+   "line": 365,
+   "doc_line": 314
   },
   {
    "entity": "szetlewek",

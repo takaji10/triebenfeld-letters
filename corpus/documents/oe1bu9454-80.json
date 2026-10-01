@@ -100,7 +100,64 @@
    "doc_line": 27
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe-Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "von Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -126,9 +183,56 @@
    "doc_line": 24
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "80\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Most Serene Highness will presumably already have received my letter, which I yesterday gave to Captain and Hahn to carry. — Besides that letter, in which I have said everything, I add only this further: that Minister Hoym has returned from Potsdam very well pleased, where, according to the assurance of another man, various things were spoken of concerning Your Serene Highness. — It is hereby confirmed that the good Monarch truly esteems you, and in this respect I hope and trust all will and must go as one would wish. Today there is a great deal of talk here of marches or of war — I do not yet believe in it, for the Monarch holds too firmly to his principles, and maintains his honest good intentions. — From His Excellency Mr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind.\n\nIn deepest veneration I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 9th of October\n\n1798.\n\nmost faithful servant\n\nv. Triebenfeld",
+   "names": [
+    {
+     "de": "Hohenlohe-Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "von Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "80",
+    "9",
+    "1798"
+   ]
+  }
+ ],
+ "text_english": "80\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nYour Most Serene Highness will presumably already have received my letter, which I yesterday gave to Captain and Hahn to carry. — Besides that letter, in which I have said everything, I add only this further: that Minister Hoym has returned from Potsdam very well pleased, where, according to the assurance of another man, various things were spoken of concerning Your Serene Highness. — It is hereby confirmed that the good Monarch truly esteems you, and in this respect I hope and trust all will and must go as one would wish. Today there is a great deal of talk here of marches or of war — I do not yet believe in it, for the Monarch holds too firmly to his principles, and maintains his honest good intentions. — From His Excellency Mr von Voss nothing has yet come back. May Heaven govern his heart, that he may not act against the King's interest and against Your Serene Highness's peace of mind.\n\nIn deepest veneration I remain, until death,\n\nYour Most Serene Highness's\n\nBerlin, the 9th of October\n\n1798.\n\nmost faithful servant\n\nv. Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld ergänzt sein Schreiben vom Vortag, das Hauptmann Hahn mitnahm. Minister Hoym sei zufrieden aus Potsdam zurückgekehrt, wo nach Aussage eines anderen Mannes mehrfach vom Fürsten die Rede gewesen sei. Dies bestätige, dass der König den Fürsten schätze, und er hofft auf einen guten Ausgang. In Berlin rede man von Märschen oder Krieg, er glaube aber noch nicht daran. Von Herrn von Voss sei noch nichts zurück.",
  "reading": {

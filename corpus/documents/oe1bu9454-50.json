@@ -283,7 +283,168 @@
    "doc_line": 59
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "the Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Herzogthum Warschau",
+   "surface_en": "Duchy of Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld, councillor of war",
+   "kind": "person",
+   "surface_de": "Krieges Rath von Triebenfeld",
+   "surface_en": "von Triebenfeld, councillor of war",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "French government",
+   "kind": "other",
+   "surface_de": "Französischen Gouvernement",
+   "surface_en": "French government",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Zastrow, Lieutenant General",
+   "kind": "person",
+   "surface_de": "General Lieut[enant]: v. Zastrow",
+   "surface_en": "von Zastrow, Lieutenant General",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "p. vom Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Amelang, privy post councillor",
+   "kind": "person",
+   "surface_de": "geheimen Post Rath Amelang",
+   "surface_en": "Amelang, privy post councillor",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 2
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "von der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "p Amelang",
+   "surface_en": "Amelang",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "p v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr's letter",
+   "kind": "person",
+   "surface_de": "von der Lahrschen Schreiben",
+   "surface_en": "van der Lahr's letter",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Royal Majesty",
+   "kind": "person",
+   "surface_de": "Ewer Königl Majestät",
+   "surface_en": "Your Royal Majesty",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -342,9 +503,139 @@
    "doc_line": 64
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "50 In the year 1808, up to the 14th of February, I had fallen into debt to the Invalids' Fund for the interest on a capital of 50000 rt, which His Majesty the King had caused to be given me out of the same upon my Zagórów estates, [these being] situated a Duchy of Warsaw, to the amount of 3125 rt. My authorised representative, the councillor of war von Triebenfeld, was at that time sent from Prussia to Berlin, and since the French government had at just that time arrogated to itself the administration of the Invalids' Fund, the said government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 rt together with costs. Von Triebenfeld did not have so much money by him and was obliged to take up, against a joint bill of exchange made out by him and by Lieutenant General von Zastrow, from the merchant van der Lahr, 5140 rt / which the same would not give otherwise than in paper money and wished to have back in hard Courant /.\n\nThe paper stood very low; nevertheless necessity compelled von Triebenfeld to comply with van der Lahr's will.\n\nSubsequently, for the settling of this matter, I sent von Triebenfeld 3000 rt; but since van der Lahr now had to have back 5140 rt, there remains a balance of 3000 rt, for which van der Lahr has now sued him and has obtained a judgment favourable to himself on the ground of the more recent cabinet order, whereupon he now at present threatens von Triebenfeld with harsh execution.",
+   "names": [
+    {
+     "de": "Invaliden Casse",
+     "en": "the Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Herzogthum Warschau",
+     "en": "Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Krieges Rath von Triebenfeld",
+     "en": "von Triebenfeld, councillor of war",
+     "kind": "person"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Französischen Gouvernement",
+     "en": "French government",
+     "kind": "other"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "General Lieut[enant]: v. Zastrow",
+     "en": "von Zastrow, Lieutenant General",
+     "kind": "person"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "50",
+    "1808",
+    "14ten",
+    "50000",
+    "3125",
+    "3125",
+    "5140",
+    "3000",
+    "5140",
+    "3000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Since I cannot now permit that von Triebenfeld should be pressed in this matter, for which it falls to me alone to answer, I have charged my mandatary, the privy post councillor Amelang in Berlin, to come to terms with van der Lahr in my name, to pay him 1000 rt, and to offer to deliver the remainder in finished bar and hoop iron by May. Van der Lahr has accepted this, according to his original letter herewith enclosed; only there still subsists a small difference with regard to the iron price, concerning which I have written once more, and as soon as I receive the answer thereon from Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile most obediently beg to leave von Triebenfeld free of the obligation, and not to compel him by execution or distraint to a sum to the discharge of which I am bound, and to which I have also engaged myself, as Your Majesty will be pleased to gather from van der Lahr's letter.\n\nI remain, until death,\n\nYour Royal Majesty's\n\nSławięcice\n\nthe 8th of April 1809.\n\nmost obedient",
+   "names": [
+    {
+     "de": "p. vom Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "geheimen Post Rath Amelang",
+     "en": "Amelang, privy post councillor",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "von der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "p Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "p v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "von der Lahrschen Schreiben",
+     "en": "van der Lahr's letter",
+     "kind": "person"
+    },
+    {
+     "de": "Ewer Königl Majestät",
+     "en": "Your Royal Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "8.",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "50 In the year 1808, up to the 14th of February, I had fallen into debt to the Invalids' Fund for the interest on a capital of 50000 rt, which His Majesty the King had caused to be given me out of the same upon my Zagórów estates, [these being] situated a Duchy of Warsaw, to the amount of 3125 rt. My authorised representative, the councillor of war von Triebenfeld, was at that time sent from Prussia to Berlin, and since the French government had at just that time arrogated to itself the administration of the Invalids' Fund, the said government extorted from von Triebenfeld, by arrest and military execution, the above-named 3125 rt together with costs. Von Triebenfeld did not have so much money by him and was obliged to take up, against a joint bill of exchange made out by him and by Lieutenant General von Zastrow, from the merchant van der Lahr, 5140 rt / which the same would not give otherwise than in paper money and wished to have back in hard Courant /.\n\nThe paper stood very low; nevertheless necessity compelled von Triebenfeld to comply with van der Lahr's will.\n\nSubsequently, for the settling of this matter, I sent von Triebenfeld 3000 rt; but since van der Lahr now had to have back 5140 rt, there remains a balance of 3000 rt, for which van der Lahr has now sued him and has obtained a judgment favourable to himself on the ground of the more recent cabinet order, whereupon he now at present threatens von Triebenfeld with harsh execution.\n\nSince I cannot now permit that von Triebenfeld should be pressed in this matter, for which it falls to me alone to answer, I have charged my mandatary, the privy post councillor Amelang in Berlin, to come to terms with van der Lahr in my name, to pay him 1000 rt, and to offer to deliver the remainder in finished bar and hoop iron by May. Van der Lahr has accepted this, according to his original letter herewith enclosed; only there still subsists a small difference with regard to the iron price, concerning which I have written once more, and as soon as I receive the answer thereon from Amelang, the money shall be paid and the iron delivered. Your Royal Majesty I meanwhile most obediently beg to leave von Triebenfeld free of the obligation, and not to compel him by execution or distraint to a sum to the discharge of which I am bound, and to which I have also engaged myself, as Your Majesty will be pleased to gather from van der Lahr's letter.\n\nI remain, until death,\n\nYour Royal Majesty's\n\nSławięcice\n\nthe 8th of April 1809.\n\nmost obedient",
  "summary_en": "",
  "summary_de": "Friedrich Ludwig bittet den König, v. Triebenfeld nicht durch Execution oder Auspfändung zur Zahlung einer Summe zu zwingen, für die er selbst einsteht. Das französische Gouvernement hatte von Triebenfeld 3125 Rthl Zinsen der Invaliden Casse auf ein Capital von 50000 Rthl auf den Zagórówer Gütern erzwungen. Dafür lieh Triebenfeld bei van der Lahr 5140 Rthl gegen einen Wechsel mit Zastrow. Van der Lahr klagte auf den Rest. Amelang soll sich vergleichen: 1000 Rthl bar, der Rest in Eisen bis Mai.",
  "reading": {

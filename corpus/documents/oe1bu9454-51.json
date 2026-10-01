@@ -162,7 +162,208 @@
    "doc_line": 55
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Königsberg",
+   "kind": "place",
+   "surface_de": "Königsberg",
+   "surface_en": "Königsberg",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 1
+  },
+  {
+   "entity": "bethusy",
+   "display": "Bethusy",
+   "kind": "person",
+   "surface_de": "Bethney",
+   "surface_en": "Bethney",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mal[uncertain: z]dorff",
+   "kind": "place",
+   "surface_de": "Mal[z?]dorff",
+   "surface_en": "Mal[uncertain: z]dorff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Züllichau",
+   "kind": "place",
+   "surface_de": "Zillichauer",
+   "surface_en": "Züllichau",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hohenzollern",
+   "kind": "person",
+   "surface_de": "Fürst Hohenzollern",
+   "surface_en": "Prince Hohenzollern",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Leipzig",
+   "kind": "place",
+   "surface_de": "Leipzig",
+   "surface_en": "Leipzig",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bavaria",
+   "kind": "place",
+   "surface_de": "Bayern",
+   "surface_en": "Bavaria",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreicher",
+   "surface_en": "Austrians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Munich",
+   "kind": "place",
+   "surface_de": "München",
+   "surface_en": "Munich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "French",
+   "kind": "other",
+   "surface_de": "Franzosen",
+   "surface_en": "French",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Głogów",
+   "kind": "place",
+   "surface_de": "Glogau",
+   "surface_en": "Głogów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "other",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Austrians",
+   "kind": "other",
+   "surface_de": "Osterreich",
+   "surface_en": "Austrians",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -232,9 +433,158 @@
    "doc_line": 51
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "51\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe iron is still not here; since, however, the Execution has been lifted, I set out tomorrow for Königsberg and let Heaven govern. As to the inheritance matter I suspend my judgements until I return — I think that much can be forestalled by a new law sent on ahead.\n\nI already had the new decree concerning the new seizure in Poland; I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him a week ago has still not returned — he was here while I was in Sławięcice, but went back without awaiting my arrival. He says he need only have the French original [uncertain: Buren], and then he will bring Your Serene Highness several thousand more, and make the Poles take an X for a U. My advice is therefore by all means to make no [uncertain: bruder] there, otherwise the Poles will confiscate [uncertain: brut] and the money after it — I fear this all the more since Hawich appears to be a scoundrel, for [uncertain: wären] the fellow keeps back the original papers entrusted to him — Honrichs seems all at once to be converted; he vows to bring Your Serene Highness several thousand more, and if he scents the storm of war from afar he will surely keep his word —",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Königsberg",
+     "en": "Königsberg",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "51",
+    "8"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Bethney lies at his own place in Mal[uncertain: z]dorff, very wretchedly ill. He can do nothing at present. Should Your Serene Highness wish to send someone to him, he will surely be glad to enter into the matter; but I fear that some misfortune may occur. If that is how it stands, then let the affair rest, Most gracious Prince and Lord, until my return; the three weeks will pass like smoke in the [uncertain: Wäde]. I think I shall have the leisure to travel and shall be able to be active on that side.\n\nIn news I am today as poor as a wandering pilgrim in coin. The only thing just now reported to me by the Züllichau bankers, who through their cloth trade have great connexions in Saxony, is\n\n1. that Prince Hohenzollern is said to be standing with his corps in or below Leipzig.\n\n2. that in Bavaria there is said to have been a very serious engagement in favour of the Austrians, after which they have occupied Munich. Here the French are removing their magazines out of Głogów by water and by land; perhaps the [uncertain: Beſter] are departing. May God only grant Your Serene Highness health and patience until my return — I shall hasten as far as possible so as to be able soon to lay myself again at the feet of the same most high person, and to offer proof of my most faithful attachment and of the deepest reverence, in which I remain, until death,\n\nYour Most Serene Highness's\n\nI have just this moment received a letter.\n\nHonrichs is coming — as yet nothing\n\nis to be heard there of the Austrians.\n\nHe is to bring Your Serene Highness money;\n\nfor that I stand surety with my honour and my life.\n\nKonotop\n\nthe 21st of April\n\n1809\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Bethney",
+     "en": "Bethney",
+     "kind": "person"
+    },
+    {
+     "de": "Mal[z?]dorff",
+     "en": "Mal[uncertain: z]dorff",
+     "kind": "place"
+    },
+    {
+     "de": "Zillichauer",
+     "en": "Züllichau",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst Hohenzollern",
+     "en": "Prince Hohenzollern",
+     "kind": "person"
+    },
+    {
+     "de": "Leipzig",
+     "en": "Leipzig",
+     "kind": "place"
+    },
+    {
+     "de": "Bayern",
+     "en": "Bavaria",
+     "kind": "place"
+    },
+    {
+     "de": "Osterreicher",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "München",
+     "en": "Munich",
+     "kind": "place"
+    },
+    {
+     "de": "Franzosen",
+     "en": "French",
+     "kind": "other"
+    },
+    {
+     "de": "Glogau",
+     "en": "Głogów",
+     "kind": "place"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "other"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Osterreich",
+     "en": "Austrians",
+     "kind": "other"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1.",
+    "2.",
+    "3",
+    "21",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "51\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nThe iron is still not here; since, however, the Execution has been lifted, I set out tomorrow for Königsberg and let Heaven govern. As to the inheritance matter I suspend my judgements until I return — I think that much can be forestalled by a new law sent on ahead.\n\nI already had the new decree concerning the new seizure in Poland; I have therefore summoned Honrichs to me and expect him at any hour. The mounted messenger sent to him a week ago has still not returned — he was here while I was in Sławięcice, but went back without awaiting my arrival. He says he need only have the French original [uncertain: Buren], and then he will bring Your Serene Highness several thousand more, and make the Poles take an X for a U. My advice is therefore by all means to make no [uncertain: bruder] there, otherwise the Poles will confiscate [uncertain: brut] and the money after it — I fear this all the more since Hawich appears to be a scoundrel, for [uncertain: wären] the fellow keeps back the original papers entrusted to him — Honrichs seems all at once to be converted; he vows to bring Your Serene Highness several thousand more, and if he scents the storm of war from afar he will surely keep his word —\n\nBethney lies at his own place in Mal[uncertain: z]dorff, very wretchedly ill. He can do nothing at present. Should Your Serene Highness wish to send someone to him, he will surely be glad to enter into the matter; but I fear that some misfortune may occur. If that is how it stands, then let the affair rest, Most gracious Prince and Lord, until my return; the three weeks will pass like smoke in the [uncertain: Wäde]. I think I shall have the leisure to travel and shall be able to be active on that side.\n\nIn news I am today as poor as a wandering pilgrim in coin. The only thing just now reported to me by the Züllichau bankers, who through their cloth trade have great connexions in Saxony, is\n\n1. that Prince Hohenzollern is said to be standing with his corps in or below Leipzig.\n\n2. that in Bavaria there is said to have been a very serious engagement in favour of the Austrians, after which they have occupied Munich. Here the French are removing their magazines out of Głogów by water and by land; perhaps the [uncertain: Beſter] are departing. May God only grant Your Serene Highness health and patience until my return — I shall hasten as far as possible so as to be able soon to lay myself again at the feet of the same most high person, and to offer proof of my most faithful attachment and of the deepest reverence, in which I remain, until death,\n\nYour Most Serene Highness's\n\nI have just this moment received a letter.\n\nHonrichs is coming — as yet nothing\n\nis to be heard there of the Austrians.\n\nHe is to bring Your Serene Highness money;\n\nfor that I stand surety with my honour and my life.\n\nKonotop\n\nthe 21st of April\n\n1809\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, die Execution sei aufgehoben, das Eysen aber noch nicht da. Er reist morgen nach Königsberg und will über die Erbschaftsangelegenheit erst danach urteilen. Wegen des neuen Dekrets über Arrestschlag in Pohlen hat er Honrichs herbestellt, der dem Fürsten mehrere Tausend zuführen will. Hawich scheine ein Cujon zu sein; Triebenfeld fürchtet, er halte ihm anvertraute Originalpapiere zurück. Bethney liegt schwer krank. Gerüchte aus Sachsen: Fürst Hohenzollern bei Leipzig, Österreicher in München. Nachschrift: Honrichs kommt und soll Geld bringen.",
  "reading": {

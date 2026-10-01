@@ -383,7 +383,272 @@
    "doc_line": 82
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "vd Lahrschen",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "lahr",
+   "display": "von der Lahr",
+   "kind": "person",
+   "surface_de": "von der Lahr",
+   "surface_en": "von der Lahr",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontopper",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Neufeln",
+   "kind": "place",
+   "surface_de": "Neufeln",
+   "surface_en": "Neufeln",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bojadła",
+   "kind": "place",
+   "surface_de": "Boyadler",
+   "surface_en": "Bojadła",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Zastrow, Lieutenant General",
+   "kind": "person",
+   "surface_de": "Gen. Leut. v Zastrow",
+   "surface_en": "von Zastrow, Lieutenant General",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "N.",
+   "kind": "person",
+   "surface_de": "N.",
+   "surface_en": "N.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jena",
+   "kind": "place",
+   "surface_de": "Jena",
+   "surface_en": "Jena",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "General B.",
+   "kind": "person",
+   "surface_de": "Gen. B.",
+   "surface_en": "General B.",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "van der Lahr",
+   "kind": "person",
+   "surface_de": "van der Lahr",
+   "surface_en": "van der Lahr",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Zastrow",
+   "kind": "person",
+   "surface_de": "v. Zastrow",
+   "surface_en": "von Zastrow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Trieb[enfeld]",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ho.",
+   "kind": "other",
+   "surface_de": "Ho.",
+   "surface_en": "Ho.",
+   "page": 3
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -508,9 +773,231 @@
    "doc_line": 88
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "20\n\nMost humble Pro Memoria. From the enclosed letter of Privy Councillor Amelang Your Most Serene Highness will deign to see that yet again a new Cabinet Order has been issued, that entirely contrary to the Provincial Law and the old statutes one must now absolutely pay in Courant, even though the value was given only in paper.\n\nThis blow strikes hard and occasions a loss of 1500 rt in the von der Lahr matter. Payment must now, under the [uncertain: aforesaid] Cabinet Order — which was issued solely in favour of the Jews and usurers — absolutely be made in cash Courant. But whence to take it? I am brought low and cannot help myself; for even now a sequestrator sits upon my Konotop estates — I must stand at a distance, and may not approach my own hearth; indeed, I risk every day being taken up on account of the 3000 rt and arrested anew by van der Lahr, which disgrace I fear more than death. In order to forestall misfortune in this distress I have written today to Amelang [uncertain: in the name] of Your Serene Highness, \"that he should come to terms with van der Lahr in this matter, that he should offer von der Lahr one thousand rt in cash money, and 350 Centner of iron at 6 rt delivered by the end of April.\" I hope the [uncertain: latter] will accept the offer; I am writing on that account in the name of Your Serene Highness to von der Lahr himself as well.\n\nThe 1000 rth I will raise and remit, so that it does not fall too heavily upon Your Serene Highness. But may Your Highness then have the grace to send me 950 Centner, and if it can be, 1000 Centner in full, by about the 20th of April hither to Konotop; I shall at once see to everything from here to Berlin, send the 600 Centner to Michaelis and to von der Lahr as much as falls to him. For the costs amount to much still, and I have grounds for them, not few, such as now the Zagórów ones, which for the issuing of all the powers of attorney, the travel costs of Hawich, Hecker and of the justice-burgomaster Schenck of [uncertain: Neufeln] with his actuary, have amounted to 163 rt in cash Courant. If Your Serene Highness meanwhile sends me the 1000 Centner of iron, then I shall bring everything into the clear and one can, as the enclosed report shows, begin a new life and course with courage; in the contrary case, however, if Your Highness does not effect this, I must, like a bird upon the roof, and now constant imprisonment from",
+   "names": [
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "vd Lahrschen",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "von der Lahr",
+     "en": "von der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Kontopper",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Neufeln",
+     "en": "Neufeln",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1500",
+    "3000",
+    "1000",
+    "350",
+    "6",
+    "1000",
+    "950",
+    "1000",
+    "20",
+    "600",
+    "163",
+    "1000",
+    "7",
+    "1809"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "van der Lahr, and thereafter from the 1st of May on also from Michaelis, apprehend. I hope meanwhile to God that Your Serene Highness will grant my request and also approve this resolution taken in the utmost distress, and likewise that van der Lahr will accept the offer made in the name of Your Serene Highness. I therefore send this letter by express, since it will afford Your Highness some repose with regard to your Polish possessions, and at the same time contains the urgent request for the relief of my sufferings; may Your Highness have the singular grace to send me your consent by the messenger, but above all the reassuring news whether the 950 or 1000 Centner of bar and hoop iron can be here at my Bojadła loading-place by the 20th of April, so that I need not creep away into the forests but may act freely and with courage. Your Serene Highness loses little thereby, for you do receive back, out of the Zagórów estates, the sum assigned to me by the French General Government, and then the 1000 [uncertain: Leute] of iron are paid for again — whereas I have already lost much, have had to endure arrest and a million vexations over the business, and am so far set back in my then career that I can never more redress it.\n\nLieutenant General von Zastrow, who is at present staying here on his estates, commends himself to the grace of Your Serene Highness. He is assuredly a most faithful admirer of Your Serene Highness. He [illegible] maintains in your cause, as an honest man, that you did in truth beat N. at Jena, only that by high command you forbade General B. to advance with the cavalry, and that thereby all was lost.\n\nIt is only a pity that this honest man must for this truth lie in perpetual [uncertain: Scat].\n\nWhen I receive news from Your Serene Highness, so as to be able to order everything here accordingly, I shall go at once to Vienna, and naturally I lay myself in person at Your Highness's feet at Sławięcice.\n\nKonotop\n\nthe 7th of March 1809\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Boyadler",
+     "en": "Bojadła",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Gen. Leut. v Zastrow",
+     "en": "von Zastrow, Lieutenant General",
+     "kind": "person"
+    },
+    {
+     "de": "N.",
+     "en": "N.",
+     "kind": "person"
+    },
+    {
+     "de": "Jena",
+     "en": "Jena",
+     "kind": "place"
+    },
+    {
+     "de": "Gen. B.",
+     "en": "General B.",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "950",
+    "1000",
+    "20",
+    "1000",
+    "7",
+    "1809"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Copy of the letter to\n\nthe banker Mr\n\nvan der Lahr,\n\nRight Honourable, in Berlin.\n\nRight Honourable Sir,\n\nHighly Honoured Banker, Your Right Honourable has had the goodness, in my affairs, to advance to the Councillor of War von Triebenfeld, against a bill of exchange made out to you by him and by the General and Major von Zastrow, 5260 rt in paper, which are promised to be repaid in Courant. Mr von Triebenfeld has thereupon already repaid you 2260 rt [illegible] of capital and 153 rt of interest, and there should still remain outstanding 3000 rt and the interest thereon from July. It would run entirely counter to my way of thinking were I to permit [illegible] that Mr von Triebenfeld should suffer or have any unpleasantness on account of this matter. I therefore request you in friendship to release Mr von Triebenfeld from the obligation (ex nexu), to lift the suit against him soon, and to accept payment of the debt from me. I offer to pay you 1000 rt at once and the remainder by the end of April; and if you will let my request take full effect, then take from me — since cash Courant is very hard to come by — 350 Centner of good bar and [uncertain: hoop] iron at 6 rtlr, which I most solemnly assure you I shall send you at once from my ironworks. Privy Councillor Amelang is authorised by me to [uncertain: negotiate] this matter with you and to conclude it with you, and to give me the speediest news of it, so that I may at once send in the 1000 rt and also have the iron packed and forwarded by water. I shall regard your consent to this my request as a proof of your friendship, and for it shall ever remain, with true high esteem,\n\nYour\n\nSławięcice, the 7th of March\n\n1809\n\nas in the blank form, to Ho.",
+   "names": [
+    {
+     "de": "van der Lahr",
+     "en": "van der Lahr",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zastrow",
+     "en": "von Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "v Trieb[enfeld]",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Ho.",
+     "en": "Ho.",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "5260",
+    "2260",
+    "153",
+    "3000",
+    "1000",
+    "350",
+    "6",
+    "1000",
+    "7",
+    "1809"
+   ]
+  }
+ ],
+ "text_english": "20\n\nMost humble Pro Memoria. From the enclosed letter of Privy Councillor Amelang Your Most Serene Highness will deign to see that yet again a new Cabinet Order has been issued, that entirely contrary to the Provincial Law and the old statutes one must now absolutely pay in Courant, even though the value was given only in paper.\n\nThis blow strikes hard and occasions a loss of 1500 rt in the von der Lahr matter. Payment must now, under the [uncertain: aforesaid] Cabinet Order — which was issued solely in favour of the Jews and usurers — absolutely be made in cash Courant. But whence to take it? I am brought low and cannot help myself; for even now a sequestrator sits upon my Konotop estates — I must stand at a distance, and may not approach my own hearth; indeed, I risk every day being taken up on account of the 3000 rt and arrested anew by van der Lahr, which disgrace I fear more than death. In order to forestall misfortune in this distress I have written today to Amelang [uncertain: in the name] of Your Serene Highness, \"that he should come to terms with van der Lahr in this matter, that he should offer von der Lahr one thousand rt in cash money, and 350 Centner of iron at 6 rt delivered by the end of April.\" I hope the [uncertain: latter] will accept the offer; I am writing on that account in the name of Your Serene Highness to von der Lahr himself as well.\n\nThe 1000 rth I will raise and remit, so that it does not fall too heavily upon Your Serene Highness. But may Your Highness then have the grace to send me 950 Centner, and if it can be, 1000 Centner in full, by about the 20th of April hither to Konotop; I shall at once see to everything from here to Berlin, send the 600 Centner to Michaelis and to von der Lahr as much as falls to him. For the costs amount to much still, and I have grounds for them, not few, such as now the Zagórów ones, which for the issuing of all the powers of attorney, the travel costs of Hawich, Hecker and of the justice-burgomaster Schenck of [uncertain: Neufeln] with his actuary, have amounted to 163 rt in cash Courant. If Your Serene Highness meanwhile sends me the 1000 Centner of iron, then I shall bring everything into the clear and one can, as the enclosed report shows, begin a new life and course with courage; in the contrary case, however, if Your Highness does not effect this, I must, like a bird upon the roof, and now constant imprisonment from\n\nvan der Lahr, and thereafter from the 1st of May on also from Michaelis, apprehend. I hope meanwhile to God that Your Serene Highness will grant my request and also approve this resolution taken in the utmost distress, and likewise that van der Lahr will accept the offer made in the name of Your Serene Highness. I therefore send this letter by express, since it will afford Your Highness some repose with regard to your Polish possessions, and at the same time contains the urgent request for the relief of my sufferings; may Your Highness have the singular grace to send me your consent by the messenger, but above all the reassuring news whether the 950 or 1000 Centner of bar and hoop iron can be here at my Bojadła loading-place by the 20th of April, so that I need not creep away into the forests but may act freely and with courage. Your Serene Highness loses little thereby, for you do receive back, out of the Zagórów estates, the sum assigned to me by the French General Government, and then the 1000 [uncertain: Leute] of iron are paid for again — whereas I have already lost much, have had to endure arrest and a million vexations over the business, and am so far set back in my then career that I can never more redress it.\n\nLieutenant General von Zastrow, who is at present staying here on his estates, commends himself to the grace of Your Serene Highness. He is assuredly a most faithful admirer of Your Serene Highness. He [illegible] maintains in your cause, as an honest man, that you did in truth beat N. at Jena, only that by high command you forbade General B. to advance with the cavalry, and that thereby all was lost.\n\nIt is only a pity that this honest man must for this truth lie in perpetual [uncertain: Scat].\n\nWhen I receive news from Your Serene Highness, so as to be able to order everything here accordingly, I shall go at once to Vienna, and naturally I lay myself in person at Your Highness's feet at Sławięcice.\n\nKonotop\n\nthe 7th of March 1809\n\nvon Triebenfeld\n\nCopy of the letter to\n\nthe banker Mr\n\nvan der Lahr,\n\nRight Honourable, in Berlin.\n\nRight Honourable Sir,\n\nHighly Honoured Banker, Your Right Honourable has had the goodness, in my affairs, to advance to the Councillor of War von Triebenfeld, against a bill of exchange made out to you by him and by the General and Major von Zastrow, 5260 rt in paper, which are promised to be repaid in Courant. Mr von Triebenfeld has thereupon already repaid you 2260 rt [illegible] of capital and 153 rt of interest, and there should still remain outstanding 3000 rt and the interest thereon from July. It would run entirely counter to my way of thinking were I to permit [illegible] that Mr von Triebenfeld should suffer or have any unpleasantness on account of this matter. I therefore request you in friendship to release Mr von Triebenfeld from the obligation (ex nexu), to lift the suit against him soon, and to accept payment of the debt from me. I offer to pay you 1000 rt at once and the remainder by the end of April; and if you will let my request take full effect, then take from me — since cash Courant is very hard to come by — 350 Centner of good bar and [uncertain: hoop] iron at 6 rtlr, which I most solemnly assure you I shall send you at once from my ironworks. Privy Councillor Amelang is authorised by me to [uncertain: negotiate] this matter with you and to conclude it with you, and to give me the speediest news of it, so that I may at once send in the 1000 rt and also have the iron packed and forwarded by water. I shall regard your consent to this my request as a proof of your friendship, and for it shall ever remain, with true high esteem,\n\nYour\n\nSławięcice, the 7th of March\n\n1809\n\nas in the blank form, to Ho.",
  "summary_en": "",
  "summary_de": "Nach einer neuen Cabinets Ordre muss trotz Valuta in Papier in Courant gezahlt werden. Das bringt in der von der Lahrschen Sache 1500 Rthl Verlust. Der Schreiber fürchtet wegen 3000 Rthl eine Verhaftung durch van der Lahr. Er schrieb Amelang, dieser solle van der Lahr einen Vergleich anbieten: 1000 Rthl bar und 350 Centner Eisen a 6 Rthl bis Ende April. Dafür erbittet er 950 oder 1000 Centner Eisen bis zum 20. April nach Konotop.",
  "reading": {

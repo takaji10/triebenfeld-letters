@@ -387,7 +387,288 @@
    "doc_line": 92
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "heuthausen",
+   "display": "von Heuthausen",
+   "kind": "person",
+   "surface_de": "Heuthausen",
+   "surface_en": "Heuthausen",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "bally",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stöck",
+   "kind": "person",
+   "surface_de": "Stöck",
+   "surface_en": "Stöck",
+   "page": 1
+  },
+  {
+   "entity": "wartensleben",
+   "display": "Wartensleben",
+   "kind": "person",
+   "surface_de": "Wartensleben",
+   "surface_en": "Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Skorogoszcz",
+   "kind": "place",
+   "surface_de": "Schurgast",
+   "surface_en": "Skorogoszcz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Weigelt",
+   "kind": "person",
+   "surface_de": "Weigelt",
+   "surface_en": "Weigelt",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Skorogoszcz",
+   "kind": "place",
+   "surface_de": "Schurgast",
+   "surface_en": "Skorogoszcz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Count Wartensleben",
+   "kind": "person",
+   "surface_de": "Gr Wartensleben",
+   "surface_en": "Count Wartensleben",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Koszęcin",
+   "kind": "place",
+   "surface_de": "Koschentin",
+   "surface_en": "Koszęcin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Prince Sacken",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "gumperts",
+   "display": "Gumperts",
+   "kind": "person",
+   "surface_de": "Gumperts",
+   "surface_en": "Gumperts",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Oleśnica",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyn",
+   "surface_en": "Wrąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 3
+  },
+  {
+   "entity": "heuthausen",
+   "display": "von Heuthausen",
+   "kind": "person",
+   "surface_de": "Heuthausen",
+   "surface_en": "Heuthausen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betſchen",
+   "surface_en": "Pszczew",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Künsel",
+   "kind": "person",
+   "surface_de": "Künsel",
+   "surface_en": "Künsel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 3
+  },
+  {
+   "entity": "heuthausen",
+   "display": "von Heuthausen",
+   "kind": "person",
+   "surface_de": "Heuthausen",
+   "surface_en": "Heuthausen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Epstein",
+   "kind": "person",
+   "surface_de": "Epstiensche",
+   "surface_en": "Epstein",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Schlieffen",
+   "kind": "person",
+   "surface_de": "Schliefen",
+   "surface_en": "Schlieffen",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -633,9 +914,244 @@
    "doc_line": 89
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "218\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nWhat has been done here on Your Serene Highness's estates, and what is to be expected hereafter, of this Mr von Heuthausen will be able to lay the reports and results before Your Serene Highness.\n\nI have drawn up a valuation and had Cabanis make it out — the [uncertain: prospects] from it are brilliant and serve to conclude an advantageous exchange transaction, so that the 128000 rt might be regarded as a life annuity.\n\nIn case Your Serene Highness should be pleased to approve a plan drawn up to that end with Mr von Heuthausen and the Master of the Horse Bally, it would depend upon Mr Weigel and Mr von Stöck entering into the matter according to our wishes.\n\nThe plan is properly to make an exchange with General Count Wartensleben for Skorogoszcz. Skorogoszcz was bought for 207000 rt; there were 92000 rt of debts upon it, and 115000 rt remained clear.\n\nIf on the other hand the Zagórów estates were taken at a value of 560000 rt / for something must be brought into deduction for the restocking of the demesne farms / then, after deducting the 237375 rt of debt standing upon Zagórów, there would remain clear — 322,625 rt. From this the 115000 rt which remain upon Skorogoszcz would have to be brought into deduction, and Your Serene Highness would retain a clear mortgage of 207625 rt upon the Zagórów estates. According to our plan,",
+   "names": [
+    {
+     "de": "Heuthausen",
+     "en": "Heuthausen",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "other"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stöck",
+     "en": "Stöck",
+     "kind": "person"
+    },
+    {
+     "de": "Wartensleben",
+     "en": "Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Schurgast",
+     "en": "Skorogoszcz",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "218",
+    "128000",
+    "207000",
+    "92000",
+    "115000",
+    "560000",
+    "237375",
+    "322,625",
+    "115000",
+    "207625"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "now Stössel and Mr Weigelt should take Skorogoszcz and the mortgage here, whereby Your Serene Highness would be freed of a burden of debt of 322625 rt. To dispose Stössel and Weigel to take Skorogoszcz and the mortgage is the principal matter. With Count Wartensleben I would settle the business. With Stössel, however, I will have nothing to do — should, however, the mass of debts from Stössel and Weigel be still much higher than 322625 Rthl, then I would undertake to treat with the eldest son of Count Wartensleben over my Blizanow, and would gladly and willingly give Your Serene Highness this estate, which I am acquiring there, together with a mortgage of 30000 rt upon Konotop, so that everything might be cleared away and Koszęcin made clear of the half. Your Serene Highness could then, from the estate of the Prince Sacken, that which is destined for the purchase of an entailed estate, demand back with every right [uncertain: Bewer], with these arrange your whole business of debts and still keep money in the [uncertain: Witwecke], and with every right also come forward as lord of an entailed estate. If the plan pleases Your Serene Highness, then be pleased, most gracious service, only to let your high opinion be known by a mounted messenger; I [text lost] then at once to Sławięcice, and go immediately to the old Wartensleben to conclude the business. Only this I remark, that at present no one learn a word of this plan, and also that the matter must be pursued very quickly, because Wartensleben has for some time now been in negotiation with the",
+   "names": [
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Weigelt",
+     "en": "Weigelt",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Schurgast",
+     "en": "Skorogoszcz",
+     "kind": "place"
+    },
+    {
+     "de": "Gr Wartensleben",
+     "en": "Count Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Koschentin",
+     "en": "Koszęcin",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "Prince Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "322625",
+    "322625",
+    "30000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "medical councillor Gumperts.\n\nFor the rest I would strive with burning zeal to win the two lawsuits with Oleśnica and Wrąbczyn before the handing over of the Zagórów estates, so that Your Serene Highness might yet draw some 20 to 30000 rt from these [uncertain: förd]. What else will come out of the accounts of the various officials and sequestrators, time will teach; that in the meantime this business is being carried out irreproachably, Mr von Heuthausen can detail to Your Serene Highness more exactly. The sum of the arrears will, as I can assure with certainty, be more than considerable, but a great many items will have to be regarded as unrecoverable; so for example the story with Oleśnica: the three fellows, against whom I at the time so honestly warned Your Serene Highness, owe 35000 rt — from these 3 creatures you will, most gracious Lord, never receive a [uncertain: Groschen], for what can a smith, a journeyman linen-weaver and a village innkeeper have? With Wrąbczyn it is the same case; fortunately the contract has now already been quashed in one instance — Prince, that was a recollection of the conversation which nearly drove me to madness — O my poor children — I have counted the windows after your manner — now back to business. In Pszczew too there is much to do; there stand there some 20000 rt in arrears which are owing to Your Serene Highness — I cannot [uncertain: go there] any further, for I have been chiefly with the councillor of justice Künsel in Poznań, and have [uncertain: clarified] the matters. Now a man of head and heart must pursue the affair on the spot himself",
+   "names": [
+    {
+     "de": "Gumperts",
+     "en": "Gumperts",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnica",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyn",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Heuthausen",
+     "en": "Heuthausen",
+     "kind": "person"
+    },
+    {
+     "de": "Betſchen",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Künsel",
+     "en": "Künsel",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "20",
+    "30000",
+    "35000",
+    "3",
+    "20000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "— Heuthausen is, as I have come to know him, a man of head and heart, possesses the knowledge of the language required here, has the proper savoir vivre to get on among the Poles; give him, most gracious Prince, travelling money for expenses and for living, and let him take charge of the matter, for as yet nothing is to be had here. Often I go hungry; what I suffer, I show you, [uncertain: Serene Highness], in figure — Świniary is, on account of the Invalids' interest, laid under a tenfold arrest with 9700 rt on account of 27000 rt of bank interest, on account of 4000 rt of the Epstein claims, and 3500 of old costs which I have paid and stood surety for here — on account of 4000 rt which the Schlieffen still have to claim — nothing comes in here, I cannot save myself, my children [uncertain: suffer] with me; in short I suffer and [uncertain: endure] — For what does me the greatest [uncertain: hurt] is that my fine Konotop has gone to the devil — I have no one who [uncertain: helps out]; whoever I engage, who is supposed to work, turns rogue, because people do not believe that a Prince should not spend and live for the devil's sake — Everyone wants at once to live along with it — Despite all this I remain, with the deepest reverence, the most faithful attachment and the deepest esteem,\n\nYour Most Serene Highness's\n\nthe star out of the north shines\n\nthe rest by word of mouth\n\nBlizanow\n\nthe 21st of September 1811\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Heuthausen",
+     "en": "Heuthausen",
+     "kind": "person"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Epstiensche",
+     "en": "Epstein",
+     "kind": "person"
+    },
+    {
+     "de": "Schliefen",
+     "en": "Schlieffen",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "9700",
+    "27000",
+    "4000",
+    "3500",
+    "4000",
+    "10",
+    "21",
+    "7",
+    "1811"
+   ]
+  }
+ ],
+ "text_english": "218\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nWhat has been done here on Your Serene Highness's estates, and what is to be expected hereafter, of this Mr von Heuthausen will be able to lay the reports and results before Your Serene Highness.\n\nI have drawn up a valuation and had Cabanis make it out — the [uncertain: prospects] from it are brilliant and serve to conclude an advantageous exchange transaction, so that the 128000 rt might be regarded as a life annuity.\n\nIn case Your Serene Highness should be pleased to approve a plan drawn up to that end with Mr von Heuthausen and the Master of the Horse Bally, it would depend upon Mr Weigel and Mr von Stöck entering into the matter according to our wishes.\n\nThe plan is properly to make an exchange with General Count Wartensleben for Skorogoszcz. Skorogoszcz was bought for 207000 rt; there were 92000 rt of debts upon it, and 115000 rt remained clear.\n\nIf on the other hand the Zagórów estates were taken at a value of 560000 rt / for something must be brought into deduction for the restocking of the demesne farms / then, after deducting the 237375 rt of debt standing upon Zagórów, there would remain clear — 322,625 rt. From this the 115000 rt which remain upon Skorogoszcz would have to be brought into deduction, and Your Serene Highness would retain a clear mortgage of 207625 rt upon the Zagórów estates. According to our plan,\n\nnow Stössel and Mr Weigelt should take Skorogoszcz and the mortgage here, whereby Your Serene Highness would be freed of a burden of debt of 322625 rt. To dispose Stössel and Weigel to take Skorogoszcz and the mortgage is the principal matter. With Count Wartensleben I would settle the business. With Stössel, however, I will have nothing to do — should, however, the mass of debts from Stössel and Weigel be still much higher than 322625 Rthl, then I would undertake to treat with the eldest son of Count Wartensleben over my Blizanow, and would gladly and willingly give Your Serene Highness this estate, which I am acquiring there, together with a mortgage of 30000 rt upon Konotop, so that everything might be cleared away and Koszęcin made clear of the half. Your Serene Highness could then, from the estate of the Prince Sacken, that which is destined for the purchase of an entailed estate, demand back with every right [uncertain: Bewer], with these arrange your whole business of debts and still keep money in the [uncertain: Witwecke], and with every right also come forward as lord of an entailed estate. If the plan pleases Your Serene Highness, then be pleased, most gracious service, only to let your high opinion be known by a mounted messenger; I [text lost] then at once to Sławięcice, and go immediately to the old Wartensleben to conclude the business. Only this I remark, that at present no one learn a word of this plan, and also that the matter must be pursued very quickly, because Wartensleben has for some time now been in negotiation with the\n\nmedical councillor Gumperts.\n\nFor the rest I would strive with burning zeal to win the two lawsuits with Oleśnica and Wrąbczyn before the handing over of the Zagórów estates, so that Your Serene Highness might yet draw some 20 to 30000 rt from these [uncertain: förd]. What else will come out of the accounts of the various officials and sequestrators, time will teach; that in the meantime this business is being carried out irreproachably, Mr von Heuthausen can detail to Your Serene Highness more exactly. The sum of the arrears will, as I can assure with certainty, be more than considerable, but a great many items will have to be regarded as unrecoverable; so for example the story with Oleśnica: the three fellows, against whom I at the time so honestly warned Your Serene Highness, owe 35000 rt — from these 3 creatures you will, most gracious Lord, never receive a [uncertain: Groschen], for what can a smith, a journeyman linen-weaver and a village innkeeper have? With Wrąbczyn it is the same case; fortunately the contract has now already been quashed in one instance — Prince, that was a recollection of the conversation which nearly drove me to madness — O my poor children — I have counted the windows after your manner — now back to business. In Pszczew too there is much to do; there stand there some 20000 rt in arrears which are owing to Your Serene Highness — I cannot [uncertain: go there] any further, for I have been chiefly with the councillor of justice Künsel in Poznań, and have [uncertain: clarified] the matters. Now a man of head and heart must pursue the affair on the spot himself\n\n— Heuthausen is, as I have come to know him, a man of head and heart, possesses the knowledge of the language required here, has the proper savoir vivre to get on among the Poles; give him, most gracious Prince, travelling money for expenses and for living, and let him take charge of the matter, for as yet nothing is to be had here. Often I go hungry; what I suffer, I show you, [uncertain: Serene Highness], in figure — Świniary is, on account of the Invalids' interest, laid under a tenfold arrest with 9700 rt on account of 27000 rt of bank interest, on account of 4000 rt of the Epstein claims, and 3500 of old costs which I have paid and stood surety for here — on account of 4000 rt which the Schlieffen still have to claim — nothing comes in here, I cannot save myself, my children [uncertain: suffer] with me; in short I suffer and [uncertain: endure] — For what does me the greatest [uncertain: hurt] is that my fine Konotop has gone to the devil — I have no one who [uncertain: helps out]; whoever I engage, who is supposed to work, turns rogue, because people do not believe that a Prince should not spend and live for the devil's sake — Everyone wants at once to live along with it — Despite all this I remain, with the deepest reverence, the most faithful attachment and the deepest esteem,\n\nYour Most Serene Highness's\n\nthe star out of the north shines\n\nthe rest by word of mouth\n\nBlizanow\n\nthe 21st of September 1811\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld schlägt vor, die Güter von Zagórów gegen Skorogoszcz des Grafen Wartensleben zu tauschen; Stössel und Weigel sollen Skorogoszcz und eine Hypothek von 207625 Rthl übernehmen. Notfalls will er Blizanow an Wartenslebens ältesten Sohn vertauschen und eine Hypothek von 30000 Rthl auf Konotop beisteuern. Er bittet um schnelle, geheime Antwort, da Wartensleben mit Gumperts verhandelt. Er will die Prozesse mit Oleśnica und Wrąbczyn gewinnen, empfiehlt Heuthausen für die Reste in Pszczew (an 20000 Rthl) und meldet Arreste auf Świniary.",
  "reading": {

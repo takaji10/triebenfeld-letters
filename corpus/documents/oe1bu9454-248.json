@@ -214,7 +214,224 @@
    "doc_line": 54
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Prince Chancellor",
+   "kind": "person",
+   "surface_de": "Fürst Kanzler",
+   "surface_en": "Prince Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baron von Humboldt",
+   "kind": "person",
+   "surface_de": "Baron v Humboldt",
+   "surface_en": "Baron von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Curische heirs",
+   "kind": "person",
+   "surface_de": "Curischen Erben",
+   "surface_en": "Curische heirs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince State Chancellor",
+   "kind": "person",
+   "surface_de": "Fürsten Staats Kanzler",
+   "surface_en": "Prince State Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "winzingerode",
+   "display": "Winzingerode",
+   "kind": "person",
+   "surface_de": "Winzingerode",
+   "surface_en": "Winzingerode",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürsten August",
+   "surface_en": "Prince August",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Princess Sakkin",
+   "kind": "person",
+   "surface_de": "Fürstin Sakkin",
+   "surface_en": "Princess Sakkin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lasowice",
+   "kind": "place",
+   "surface_de": "Lasswitz",
+   "surface_en": "Lasowice",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Humboldt",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poles",
+   "kind": "other",
+   "surface_de": "Pohlen",
+   "surface_en": "Poles",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemener",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Hardenberg",
+   "kind": "person",
+   "surface_de": "F[ürst]. H[ardenberg].",
+   "surface_en": "Prince Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "France",
+   "kind": "place",
+   "surface_de": "Frankreich",
+   "surface_en": "France",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rhine",
+   "kind": "place",
+   "surface_de": "Rhein",
+   "surface_en": "Rhine",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Baden",
+   "kind": "place",
+   "surface_de": "Badensche",
+   "surface_en": "Baden",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Württemberg",
+   "kind": "place",
+   "surface_de": "Würtembergischen",
+   "surface_en": "Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürstin Sacken",
+   "surface_en": "Princess Sacken",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "Fürsten August",
+   "surface_en": "Prince August",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -328,9 +545,180 @@
    "doc_line": 48
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "248\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nIf Your Most Serene Highness's wishes do not now succeed, then they never will. The upright Prince Chancellor has the best will, and His Excellency the Minister Baron von Humboldt is exceedingly active — The day before yesterday the latter told me that the Curische heirs have applied to the King and have petitioned for their satisfaction.\n\nHis Excellency has demanded of me copies of everything I have submitted to His Serene Highness the Prince State Chancellor, so that the answer might be suited to Your Serene Highness's wishes — The King has now had it answered that he would settle the matter after his return. His Excellency is very glad of this and holds the whole game to be won. The monarch perceives that he must pay — and gladly will one gain 314000 rt and advance the 112000 rt — and also annul the settlement — The Prince will, as I know for certain, also bring up the salary due to Your Serene Highness for 9 years, and here too God will help. I have just now come from Count Winzingerode, who showed me a [uncertain: justi-] begun letter to His Majesty, in which he petitions in the name of Prince August that His Majesty might be pleased to command that with the utmost speed 100000 rt be paid to him, pursuant to a testament of his late grandmother the Princess Sacken, out of the revenues of the entailed estates Sławięcice and Lasowice. I have not advised the Count against submitting the matter; meanwhile I told him that His Majesty had firmly determined to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates Quest placed under sequestration for years — For the rest, it was striking that the Princess Sakkin should wish to dispose of the entailed estates even after her",
+   "names": [
+    {
+     "de": "Fürst Kanzler",
+     "en": "Prince Chancellor",
+     "kind": "person"
+    },
+    {
+     "de": "Baron v Humboldt",
+     "en": "Baron von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Curischen Erben",
+     "en": "Curische heirs",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Staats Kanzler",
+     "en": "Prince State Chancellor",
+     "kind": "person"
+    },
+    {
+     "de": "Winzingerode",
+     "en": "Winzingerode",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten August",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Fürstin Sakkin",
+     "en": "Princess Sakkin",
+     "kind": "person"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Lasswitz",
+     "en": "Lasowice",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "248",
+    "314000",
+    "112000",
+    "9",
+    "100000",
+    "1799"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "death, of which she had been only a life-tenant holder — Here the Count was much taken aback, and said, is that possible —? Oh, what things people do say. I hope that the decision, given through Minister Humboldt, will also be favourable to Your Serene Highness, and will fall out to this effect, that your affairs are to be set right first.\n\nRegarding the Warsaw question nothing has yet come to publicity, although the lot of the Poles has been decided; meanwhile the Trąbczyn and Kamionna matter rests on that account — the affair will not be so easily ended as was believed at Sławięcice — from that quarter everything is being exerted and much sacrificed — added to which our King is all too good — Prince Hardenberg is on that account full of care — The Imperial affairs will end very well; I have heard various things about it in confidence, and communicated what was necessary to the men concerned. Yesterday there was a great Brink here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200/m men march over the Rhine. Today, however, I heard from one of my patrons that this is a rumour without any foundation whatever — In the Baden and Württemberg lands things are beginning to grow very unquiet; by the next post I shall write more about it. The departure of the monarchs takes place 18 days from today — In reverence I remain\n\nYour Most Serene Highness's\n\nVienna\n\nthe 5th of November\n\n1814.\n\nmost faithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Humboldt",
+     "en": "Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poles",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemener",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "F[ürst]. H[ardenberg].",
+     "en": "Prince Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Frankreich",
+     "en": "France",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Rhein",
+     "en": "Rhine",
+     "kind": "place"
+    },
+    {
+     "de": "Badensche",
+     "en": "Baden",
+     "kind": "place"
+    },
+    {
+     "de": "Würtembergischen",
+     "en": "Württemberg",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200/m",
+    "18",
+    "5",
+    "1814"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "it has always been said that all the estates had belonged to the old Princess Sacken, and that she had made her testament only in favour of Prince August and had wholly excluded the old Prince from everything with a paltry appanage — I answered briefly — the act of 1799 sanctioned by His Majesty proves the contrary of all this — According to it the old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his possessions to his end —",
+   "names": [
+    {
+     "de": "Fürstin Sacken",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten August",
+     "en": "Prince August",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1799"
+   ]
+  }
+ ],
+ "text_english": "248\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nIf Your Most Serene Highness's wishes do not now succeed, then they never will. The upright Prince Chancellor has the best will, and His Excellency the Minister Baron von Humboldt is exceedingly active — The day before yesterday the latter told me that the Curische heirs have applied to the King and have petitioned for their satisfaction.\n\nHis Excellency has demanded of me copies of everything I have submitted to His Serene Highness the Prince State Chancellor, so that the answer might be suited to Your Serene Highness's wishes — The King has now had it answered that he would settle the matter after his return. His Excellency is very glad of this and holds the whole game to be won. The monarch perceives that he must pay — and gladly will one gain 314000 rt and advance the 112000 rt — and also annul the settlement — The Prince will, as I know for certain, also bring up the salary due to Your Serene Highness for 9 years, and here too God will help. I have just now come from Count Winzingerode, who showed me a [uncertain: justi-] begun letter to His Majesty, in which he petitions in the name of Prince August that His Majesty might be pleased to command that with the utmost speed 100000 rt be paid to him, pursuant to a testament of his late grandmother the Princess Sacken, out of the revenues of the entailed estates Sławięcice and Lasowice. I have not advised the Count against submitting the matter; meanwhile I told him that His Majesty had firmly determined to have Your Serene Highness's affairs brought to a conclusion first of all, and that the King would perhaps himself have the estates Quest placed under sequestration for years — For the rest, it was striking that the Princess Sakkin should wish to dispose of the entailed estates even after her\n\ndeath, of which she had been only a life-tenant holder — Here the Count was much taken aback, and said, is that possible —? Oh, what things people do say. I hope that the decision, given through Minister Humboldt, will also be favourable to Your Serene Highness, and will fall out to this effect, that your affairs are to be set right first.\n\nRegarding the Warsaw question nothing has yet come to publicity, although the lot of the Poles has been decided; meanwhile the Trąbczyn and Kamionna matter rests on that account — the affair will not be so easily ended as was believed at Sławięcice — from that quarter everything is being exerted and much sacrificed — added to which our King is all too good — Prince Hardenberg is on that account full of care — The Imperial affairs will end very well; I have heard various things about it in confidence, and communicated what was necessary to the men concerned. Yesterday there was a great Brink here. It was said that France had declared that as soon as Prussia occupied Saxony, France would let 200/m men march over the Rhine. Today, however, I heard from one of my patrons that this is a rumour without any foundation whatever — In the Baden and Württemberg lands things are beginning to grow very unquiet; by the next post I shall write more about it. The departure of the monarchs takes place 18 days from today — In reverence I remain\n\nYour Most Serene Highness's\n\nVienna\n\nthe 5th of November\n\n1814.\n\nmost faithful and obedient servant\n\nv Triebenfeld\n\nit has always been said that all the estates had belonged to the old Princess Sacken, and that she had made her testament only in favour of Prince August and had wholly excluded the old Prince from everything with a paltry appanage — I answered briefly — the act of 1799 sanctioned by His Majesty proves the contrary of all this — According to it the old Prince is the actual lord; he will now re-enter into all his rights and remain lord of all his possessions to his end —",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, dass der Fürst Kanzler den besten Willen hat und Minister v. Humboldt die Sache des Fürsten eifrig betreibt. Die Curischen Erben haben den König um Befriedigung gebeten; der König will die Sache nach seiner Rückkehr erledigen. Graf Winzingerode will für Fürst August 100000 Rthl nach dem Testament der Fürstin Sacken aus den Einkünften von Sławięcice und Lasowice fordern; Triebenfeld entgegnet, sie sei nur lebenslange Besitzerin gewesen. Wegen Warschau ruht die Trąbczyner und Kamionnaer Sache.",
  "reading": {

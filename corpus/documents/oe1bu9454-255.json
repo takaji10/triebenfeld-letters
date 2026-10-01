@@ -157,7 +157,128 @@
    "doc_line": 39
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Prince State Chancellor",
+   "kind": "person",
+   "surface_de": "Fürsten Staats Kanzlers",
+   "surface_en": "the Prince State Chancellor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince H.",
+   "kind": "person",
+   "surface_de": "Fürst H",
+   "surface_en": "Prince H.",
+   "page": 1
+  },
+  {
+   "entity": "humboldt",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "Humboldt",
+   "surface_en": "Wilhelm von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Hard:",
+   "kind": "person",
+   "surface_de": "Fürsten Hard:",
+   "surface_en": "Prince Hard:",
+   "page": 1
+  },
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface_de": "B[arbe]",
+   "surface_en": "Barbe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curische",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor Alles ander",
+   "kind": "person",
+   "surface_de": "Kayser Alles ander",
+   "surface_en": "Emperor Alles ander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Emperor Franz",
+   "kind": "person",
+   "surface_de": "Kayser Franz",
+   "surface_en": "Emperor Franz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -194,9 +315,108 @@
    "doc_line": 36
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "255\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nHis Serene Highness the Prince State Chancellor has today for the fifth day kept to his room and his bed. If anyone quietly prays to God for the preservation of this man, then it is truly I who do. Not only would the whole machine come to a standstill, but Your Serene Highness's affairs would be left lying half-way. For the present everything still stands very well — the Prince H. wishes Your Serene Highness to be helped; may God then preserve him — the gentleman's labours are exorbitant, and notwithstanding this he has, of Your Serene Highness's matters, so many of them as I submitted, assigned to himself alone. A true proof that he means to help. The Prince has required a further report, but from whence I do not know; only the Minister Wilhelm von Humboldt appears to know more, yet says nothing further than that we already have the game won — Court Councillor Hahn's opinion has still had its effect, because thereby everything I have said is confirmed — I hope, with [uncertain: firm] trust in God, that Your Serene Highness, through the help of the exalted Prince Hard:, will now yet enjoy a very peaceful and happy old age. Concerning Your Serene Highness's military affairs, one is now wholly silent; Barbe, however, says this is being kept in reserve and laid aside until Berlin — That too is well, for there the helpers are more numerous — For the present everything depends only on this, that the Courland matter be brought to an end, that Your Serene Highness be rid of this dreadful business; that Cosmar be thrown out, and that you, as actual lord of the entailed estate, come into possession of the estates, and need no longer live there on the mercy of your own servants. Everything else will then follow of itself — Just now Barbe [uncertain: came] — and brings me the news that His Majesty the King",
+   "names": [
+    {
+     "de": "Fürsten Staats Kanzlers",
+     "en": "the Prince State Chancellor",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst H",
+     "en": "Prince H.",
+     "kind": "person"
+    },
+    {
+     "de": "Humboldt",
+     "en": "Wilhelm von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Hard:",
+     "en": "Prince Hard:",
+     "kind": "person"
+    },
+    {
+     "de": "B[arbe]",
+     "en": "Barbe",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Curische",
+     "en": "Courland",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "255",
+    "5ten"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "and all that is Prussian departs from here for Berlin on the 8th of December — the Emperor Alles ander follows thither on the 10th with all that belongs to his court, and at the same time all the other sovereigns and other high personages; then the worthy Emperor Franz too sets out on his journey thither, and presumably this will last through the Carnival — To Your Serene Highness I shall now write no further. May you also be pleased to send no further letters to me, for on the 11th of [uncertain: next month] I think to lay myself personally at your most exalted feet —\n\nIn deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 30th of November\n\n1814.\n\nmost faithful and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Preußen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Kayser Alles ander",
+     "en": "Emperor Alles ander",
+     "kind": "person"
+    },
+    {
+     "de": "Kayser Franz",
+     "en": "Emperor Franz",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8ten",
+    "10ten",
+    "11ten",
+    "30ten",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "255\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nHis Serene Highness the Prince State Chancellor has today for the fifth day kept to his room and his bed. If anyone quietly prays to God for the preservation of this man, then it is truly I who do. Not only would the whole machine come to a standstill, but Your Serene Highness's affairs would be left lying half-way. For the present everything still stands very well — the Prince H. wishes Your Serene Highness to be helped; may God then preserve him — the gentleman's labours are exorbitant, and notwithstanding this he has, of Your Serene Highness's matters, so many of them as I submitted, assigned to himself alone. A true proof that he means to help. The Prince has required a further report, but from whence I do not know; only the Minister Wilhelm von Humboldt appears to know more, yet says nothing further than that we already have the game won — Court Councillor Hahn's opinion has still had its effect, because thereby everything I have said is confirmed — I hope, with [uncertain: firm] trust in God, that Your Serene Highness, through the help of the exalted Prince Hard:, will now yet enjoy a very peaceful and happy old age. Concerning Your Serene Highness's military affairs, one is now wholly silent; Barbe, however, says this is being kept in reserve and laid aside until Berlin — That too is well, for there the helpers are more numerous — For the present everything depends only on this, that the Courland matter be brought to an end, that Your Serene Highness be rid of this dreadful business; that Cosmar be thrown out, and that you, as actual lord of the entailed estate, come into possession of the estates, and need no longer live there on the mercy of your own servants. Everything else will then follow of itself — Just now Barbe [uncertain: came] — and brings me the news that His Majesty the King\n\nand all that is Prussian departs from here for Berlin on the 8th of December — the Emperor Alles ander follows thither on the 10th with all that belongs to his court, and at the same time all the other sovereigns and other high personages; then the worthy Emperor Franz too sets out on his journey thither, and presumably this will last through the Carnival — To Your Serene Highness I shall now write no further. May you also be pleased to send no further letters to me, for on the 11th of [uncertain: next month] I think to lay myself personally at your most exalted feet —\n\nIn deepest reverence I remain\n\nYour Serene Highness's\n\nVienna, the 30th of November\n\n1814.\n\nmost faithful and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld berichtet, dass Staatskanzler Hardenberg seit fünf Tagen krank liegt; ohne ihn blieben die Angelegenheiten des Fürsten liegen. Hardenberg habe diese an sich gezogen, Minister Humboldt spreche von gewonnenem Spiel, Hoffrath Hahns Gutachten habe gewirkt. Vorrangig seien die Beendigung der Curischen Sache, Cosmars Sturz und der Besitz der Güter als Majoratsherr. Laut einer erhaltenen Nachricht reise der König von Preußen am 8ten Dezember nach Berlin; Triebenfeld will sich am 11ten persönlich einfinden und bittet, keine Briefe mehr zu senden.",
  "reading": {

@@ -142,7 +142,144 @@
    "doc_line": 35
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "veit",
+   "display": "Veit",
+   "kind": "person",
+   "surface_de": "Veit",
+   "surface_en": "Veit",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Courland",
+   "kind": "place",
+   "surface_de": "Curland",
+   "surface_en": "Courland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Rußland",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "England",
+   "kind": "place",
+   "surface_de": "Engeland",
+   "surface_en": "England",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "St:",
+   "kind": "person",
+   "surface_de": "St:",
+   "surface_en": "St:",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Baupiner or Later",
+   "kind": "other",
+   "surface_de": "Baupiner oder Later",
+   "surface_en": "Baupiner or Later",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Märck",
+   "kind": "other",
+   "surface_de": "Märck",
+   "surface_en": "Märck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weise",
+   "kind": "other",
+   "surface_de": "Weise",
+   "surface_en": "Weise",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -212,9 +349,127 @@
    "doc_line": 37
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "38\n\nMost gracious Prince and Lord, after all the vexation, which has quite undermined my health, I lie wretchedly ill and [uncertain: kunde] cannot write much. Only this for now: I have received the 3000 rt from the banker Veit, and only yesterday delivered the order to pay to Amelang.\n\nNow I must still raise another 3000 rt, for the treasury received 5125 rt; of the 2/m I had only 3000 rt. I had to borrow through the help of His Excellency the Minister von Zastrow; one gave papers, we must [have] Courant it seems — these were now 5176 rt of new debt, which I have now had to discharge, so I have taken your 3000 rtl for it. 2176 rt I thought to obtain upon the papers which Hecker had deposited as security; in the meantime, however, the papers had so fallen that upon 4000 rt of Märck Landschaft obligations no one would give even 500 rt.\n\nThe tavern too had some 2003[?] rt to pay on account of the defraying of the military execution; that now amounted afresh to 4209 rt Courant, which in these ghastly times were not to be raised — papers I could obtain, if I were willing to give Courant for them — that would then have come to 21000 rt. God helped me meanwhile: the Baupiner or Later took wood and boards from Konotop instead of money — by this means the 4176 rt will be discharged, and the Minister Zastrow already has his papers back — I suffer 3480 rt of loss on the wood, for I had to let it go at half price — this Your Serene Highness must one day make good to me. This loss is small against 25000 rt — As to the dahrliche let Your Serene Highness indeed take care — for you pay with 20000 rt in cash now hindert laufend that is — could you raise 150000 rt there, then you have papers to the value of 750000 rt and with them pay all your debts.\n\nI can write no more today, I am too feeble; more in future — I am ever Your Serene Highness's\n\nAs soon as I have been, and I can quickly raise the Weise money, then I shall go to Vienna, and if it can be managed I shall come to Öhringen; but if business does not allow it, I shall return hither and write. Only let Your Serene Highness take care that you obtain 150000 rt, then Courland and all the stuff is paid. But it requires haste, the papers are rising wirdet. Berlin, the 14th of June\n\n1808.\n\nmost faithful servant\n\nv Triebenfeld\n\nSomething great must be afoot in the country: the Russian papers have risen unspeakably on the 8th of this month in Wrocław itself. There they hold the peace between Russia and England for certain. Now of our court I will say nothing. St: conducts himself badly, and by his money-in-paper manoeuvres he tears apart the last bond between the King and the nation. Also for the house St: only friendship —",
+   "names": [
+    {
+     "de": "Veit",
+     "en": "Veit",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "Curland",
+     "en": "Courland",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Rußland",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Engeland",
+     "en": "England",
+     "kind": "place"
+    },
+    {
+     "de": "St:",
+     "en": "St:",
+     "kind": "person"
+    },
+    {
+     "de": "Baupiner oder Later",
+     "en": "Baupiner or Later",
+     "kind": "other"
+    },
+    {
+     "de": "Märck",
+     "en": "Märck",
+     "kind": "other"
+    },
+    {
+     "de": "Weise",
+     "en": "Weise",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "38",
+    "3000",
+    "3000",
+    "5125",
+    "2/m",
+    "3000",
+    "5176",
+    "3000",
+    "2176",
+    "4000",
+    "500",
+    "2003",
+    "4209",
+    "21000",
+    "4176",
+    "3480",
+    "25000",
+    "20000",
+    "150000",
+    "750000",
+    "150000",
+    "14ten",
+    "1808",
+    "8ten"
+   ]
+  }
+ ],
+ "text_english": "38\n\nMost gracious Prince and Lord, after all the vexation, which has quite undermined my health, I lie wretchedly ill and [uncertain: kunde] cannot write much. Only this for now: I have received the 3000 rt from the banker Veit, and only yesterday delivered the order to pay to Amelang.\n\nNow I must still raise another 3000 rt, for the treasury received 5125 rt; of the 2/m I had only 3000 rt. I had to borrow through the help of His Excellency the Minister von Zastrow; one gave papers, we must [have] Courant it seems — these were now 5176 rt of new debt, which I have now had to discharge, so I have taken your 3000 rtl for it. 2176 rt I thought to obtain upon the papers which Hecker had deposited as security; in the meantime, however, the papers had so fallen that upon 4000 rt of Märck Landschaft obligations no one would give even 500 rt.\n\nThe tavern too had some 2003[?] rt to pay on account of the defraying of the military execution; that now amounted afresh to 4209 rt Courant, which in these ghastly times were not to be raised — papers I could obtain, if I were willing to give Courant for them — that would then have come to 21000 rt. God helped me meanwhile: the Baupiner or Later took wood and boards from Konotop instead of money — by this means the 4176 rt will be discharged, and the Minister Zastrow already has his papers back — I suffer 3480 rt of loss on the wood, for I had to let it go at half price — this Your Serene Highness must one day make good to me. This loss is small against 25000 rt — As to the dahrliche let Your Serene Highness indeed take care — for you pay with 20000 rt in cash now hindert laufend that is — could you raise 150000 rt there, then you have papers to the value of 750000 rt and with them pay all your debts.\n\nI can write no more today, I am too feeble; more in future — I am ever Your Serene Highness's\n\nAs soon as I have been, and I can quickly raise the Weise money, then I shall go to Vienna, and if it can be managed I shall come to Öhringen; but if business does not allow it, I shall return hither and write. Only let Your Serene Highness take care that you obtain 150000 rt, then Courland and all the stuff is paid. But it requires haste, the papers are rising wirdet. Berlin, the 14th of June\n\n1808.\n\nmost faithful servant\n\nv Triebenfeld\n\nSomething great must be afoot in the country: the Russian papers have risen unspeakably on the 8th of this month in Wrocław itself. There they hold the peace between Russia and England for certain. Now of our court I will say nothing. St: conducts himself badly, and by his money-in-paper manoeuvres he tears apart the last bond between the King and the nation. Also for the house St: only friendship —",
  "summary_en": "",
  "summary_de": "Triebenfeld, schwer krank, meldet den Empfang von 3000 Rthl vom Bankier Veit und die Übergabe der Anweisung an Amelang. Neue Schulden von 5176 Rthl habe er damit teils getilgt. Statt Geld wurden Holz und Bretter aus Konotop angenommen, womit 4176 Rthl getilgt werden sollen. Den Verlust von 3480 Rthl soll der Fürst ihm ersetzen. Er rät, 150000 Rthl aufzubringen, um für 750000 Rthl Papiere zu erwerben und alle Schulden zu bezahlen.",
  "reading": {

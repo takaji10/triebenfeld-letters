@@ -173,7 +173,96 @@
    "doc_line": 37
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "koppen",
+   "display": "Koppen",
+   "kind": "person",
+   "surface_de": "Koppen",
+   "surface_en": "Koppen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Justus Eysenhardt",
+   "kind": "person",
+   "surface_de": "Justus Eysenhardt",
+   "surface_en": "Justus Eysenhardt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 1
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Heckerſche",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Laar",
+   "kind": "person",
+   "surface_de": "Laar",
+   "surface_en": "Laar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Minister von Zastrow",
+   "kind": "person",
+   "surface_de": "M v Zastrow",
+   "surface_en": "Minister von Zastrow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Holland",
+   "kind": "place",
+   "surface_de": "Holland",
+   "surface_en": "Holland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -210,9 +299,90 @@
    "doc_line": 34
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "37\n\nMost Serene Prince\n\nMost gracious Prince and Lord, I have just this moment received Your Serene Highness's gracious letter of the 23rd of April, and reply thereto most obediently that I shall not hand over the present and the earlier enclosures to Mr Koppen, who has just returned from Paris, because it is always stated therein that Justus Eysenhardt is to draw a part of the moneys from the order to pay — This I cannot permit, for I should have at once to repay to the bank whatever is drawn upon it, since the bill of exchange which was given along with it has already been expired these 7/4 years — I should be going out of the rain and under the eaves — I must have this order to pay back, so as to be able to return it to the bank without a single Groschen having been drawn upon it.\n\nThe order to pay lies with Privy Councillor Amelang; Your Serene Highness need only write to him that he retrocede one and the same at once, and that you would satisfy Eysenhardt by other means.\n\nShould this not happen, I must have it annulled in all the public papers with a [uncertain: breit] suited to the matter. I am here as good as under arrest, and cannot depart without the complete removal of this affair, and likewise on account of the Invalids' interest, notwithstanding that my orders direct me elsewhere — May Your Serene Highness therefore be pleased to write to Mr Amelang with all possible speed, that he give me back the whole order to pay immediately, and provide, counsel, that for the payment of the Invalids' interest only 2000 rt be ordered to be paid to me here, — for the 2000 r. I shall obtain against the Hecker security ordered in papers; if you order 2000 rt for that purpose, then I shall provide counsel for the rest",
+   "names": [
+    {
+     "de": "Koppen",
+     "en": "Koppen",
+     "kind": "person"
+    },
+    {
+     "de": "Justus Eysenhardt",
+     "en": "Justus Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Heckerſche",
+     "en": "Hecker",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "37",
+    "23",
+    "7/4",
+    "2000",
+    "2000",
+    "2000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "and Laar must have the 5000 t. Courant, otherwise Minister von Zastrow is in embarrassment, I am under arrest anew, and Your Serene Highness truly has no honour from it. Moneys I can have enough of in Holland, but not a [uncertain: Stürer] upon estates in Poland — Consequently I counsel Your Serene Highness most obediently to take care there alone to have the moneys negotiated. With boundless veneration I am Your Serene Highness's. With my recovery it goes very much at a snail's pace. The constant vexation hinders my restoration. Berlin, the 2nd of May\n\n1808\n\nHumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Laar",
+     "en": "Laar",
+     "kind": "person"
+    },
+    {
+     "de": "M v Zastrow",
+     "en": "Minister von Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Holland",
+     "en": "Holland",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "5000",
+    "2",
+    "1808"
+   ]
+  }
+ ],
+ "text_english": "37\n\nMost Serene Prince\n\nMost gracious Prince and Lord, I have just this moment received Your Serene Highness's gracious letter of the 23rd of April, and reply thereto most obediently that I shall not hand over the present and the earlier enclosures to Mr Koppen, who has just returned from Paris, because it is always stated therein that Justus Eysenhardt is to draw a part of the moneys from the order to pay — This I cannot permit, for I should have at once to repay to the bank whatever is drawn upon it, since the bill of exchange which was given along with it has already been expired these 7/4 years — I should be going out of the rain and under the eaves — I must have this order to pay back, so as to be able to return it to the bank without a single Groschen having been drawn upon it.\n\nThe order to pay lies with Privy Councillor Amelang; Your Serene Highness need only write to him that he retrocede one and the same at once, and that you would satisfy Eysenhardt by other means.\n\nShould this not happen, I must have it annulled in all the public papers with a [uncertain: breit] suited to the matter. I am here as good as under arrest, and cannot depart without the complete removal of this affair, and likewise on account of the Invalids' interest, notwithstanding that my orders direct me elsewhere — May Your Serene Highness therefore be pleased to write to Mr Amelang with all possible speed, that he give me back the whole order to pay immediately, and provide, counsel, that for the payment of the Invalids' interest only 2000 rt be ordered to be paid to me here, — for the 2000 r. I shall obtain against the Hecker security ordered in papers; if you order 2000 rt for that purpose, then I shall provide counsel for the rest\n\nand Laar must have the 5000 t. Courant, otherwise Minister von Zastrow is in embarrassment, I am under arrest anew, and Your Serene Highness truly has no honour from it. Moneys I can have enough of in Holland, but not a [uncertain: Stürer] upon estates in Poland — Consequently I counsel Your Serene Highness most obediently to take care there alone to have the moneys negotiated. With boundless veneration I am Your Serene Highness's. With my recovery it goes very much at a snail's pace. The constant vexation hinders my restoration. Berlin, the 2nd of May\n\n1808\n\nHumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "v. Triebenfeld will die Einlagen des Fürsten nicht an Koppen weitergeben, weil danach Eysenhardt Gelder aus der Bank-Assignation beziehen soll. Der zugehörige Wechsel sei abgelaufen. Der Fürst soll Amelang anweisen, die Assignation zurückzugeben, und Eysenhardt anderweitig befriedigen. Sonst will v. Triebenfeld sie öffentlich für ungültig erklären lassen. Er sei so gut wie arretiert und bittet um 2000 Rthl für die Invalidenzinsen. Laar müsse 5000 Rthl Courant erhalten, sonst gerate Zastrow in Verlegenheit.",
  "reading": {

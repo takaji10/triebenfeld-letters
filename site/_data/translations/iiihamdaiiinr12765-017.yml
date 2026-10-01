@@ -1,0 +1,98 @@
+status: draft
+segments:
+- page: 1
+  en: 'Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian
+    Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.
+
+
+    (Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th,
+    to the post.
+
+
+    2960.
+
+
+    His Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King,
+    of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of
+    Konin, which were formerly the property of the Starost Prusimsky, who had been implicated in the insurrection
+    of the year 1794, and had fallen to the State by confiscation. These estates, through the political
+    events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska,
+    and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in
+    vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: v. Schoeler
+    en: von Schöler
+    kind: person
+  - de: St. Petersburg
+    en: St Petersburg
+    kind: place
+  - de: Fürſten v. Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Fürſt Friedrich Ludwig von Hohenlohe
+    en: Prince Friedrich Ludwig of Hohenlohe
+    kind: person
+  - de: Kalischer
+    en: Kalisz
+    kind: place
+  - de: Konin
+    en: Konin
+    kind: place
+  - de: Prusimsky
+    en: Prusimsky
+    kind: person
+  - de: v. Miączyńska
+    en: von Miączyńska
+    kind: person
+  - de: Rußland
+    en: Russia
+    kind: place
+  numbers:
+  - '29'
+  - '1816'
+  - '2278'
+  - '30'
+  - '2960'
+  - '1794'
+  - '1806'
+  - '1807'
+- page: 2
+  en: 'have.
+
+
+    Since in the meantime some donees in the Kingdom of Poland have been compensated [uncertain: geworden
+    werden ist], the Prince of Hohenlohe now likewise makes claim to such.
+
+
+    In that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore
+    request [illegible] you at the same time to bring the Prince''s request, [uncertain: gefall ist],
+    to the knowledge and decision of His Russian Imperial Majesty, yet only quite in general terms and
+    without pressing the petition urgently, since this matter must be regarded purely as a matter of grace.'
+  names:
+  - de: Königreich Polen
+    en: Kingdom of Poland
+    kind: place
+  - de: Fürst von Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+- page: 3
+  en: Berlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Ministerium der auswärtigen Angelegenhhl.
+    en: Ministry of Foreign Affairs
+    kind: other
+  - de: H[arden]b[er]g
+    en: H[arden]b[er]g
+    kind: person
+  numbers:
+  - '3'
+  - 28/4

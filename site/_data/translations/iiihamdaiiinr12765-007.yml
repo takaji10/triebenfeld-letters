@@ -1,0 +1,61 @@
+status: draft
+segments:
+- page: 1
+  en: 'Vienna, the    of May 1815
+
+
+    To His Serene Highness Monseigneur the Prince
+
+
+    Friedrich Ludwig of Hohenlohe
+
+
+    at Sławięcice
+
+
+    His Excellency Baron vom Stein has communicated to me the letter which Your Highness wrote to him
+    on the 12th of [uncertain: en ire] last.
+
+
+    My Prince,
+
+
+    I am acquainted with the claim which you advance upon the estates of Kamionna and Trąbczyn, in order
+    to press them, the definitive settlement of the affairs of Poland. That moment does not appear to
+    be distant, and I beg you, my Prince, to be assured that I shall then do everything that lies within
+    my power to support your request with the King, whose principles of justice must inspire in you an
+    entire confidence.
+
+
+    I beg Your Serene Highness to accept the expression of my high consideration.
+
+
+    Vienna, the    of May 1815'
+  names:
+  - de: Vienne
+    en: Vienna
+    kind: place
+  - de: Msgr. le Prince Frederic Louis de Hohenlohe
+    en: Friedrich Ludwig of Hohenlohe, Prince
+    kind: person
+  - de: Slawenzitz
+    en: Sławięcice
+    kind: place
+  - de: Mons. le Baron de Stein
+    en: Baron vom Stein
+    kind: person
+  - de: Kaemen
+    en: Kamionna
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: la Pologne
+    en: Poland
+    kind: place
+  - de: le Roi
+    en: the King
+    kind: person
+  numbers:
+  - '1815'
+  - '12'

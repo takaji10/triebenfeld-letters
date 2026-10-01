@@ -148,7 +148,128 @@
    "doc_line": 46
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "lipski",
+   "display": "Lipski",
+   "kind": "person",
+   "surface_de": "Lipski",
+   "surface_en": "Lipski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Smogorzewski",
+   "kind": "person",
+   "surface_de": "Smogorzewski",
+   "surface_en": "Smogorzewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Rembowski",
+   "kind": "person",
+   "surface_de": "Rembowski",
+   "surface_en": "Rembowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalski",
+   "kind": "person",
+   "surface_de": "Michalski",
+   "surface_en": "Michalski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sobocki",
+   "kind": "person",
+   "surface_de": "Sobocki",
+   "surface_en": "Sobocki",
+   "page": 1
+  },
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bayonne",
+   "kind": "place",
+   "surface_de": "Bayonner",
+   "surface_en": "Bayonne",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Parobeck",
+   "kind": "other",
+   "surface_de": "Parobeck",
+   "surface_en": "Parobeck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -207,9 +328,107 @@
    "doc_line": 43
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "229\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nUpon this important day, which is a brother of that one on which You first beheld the light of the world, and which will remain the jewel among the lesser of its successors, I cannot lay myself personally at the feet of Your Most Serene Highness and offer my faithful and sincere wishes. I can do it we still in writing, but let it be just as heartfelt — May God let Your Most Serene Highness live to see at least 50 more days of this kind; may He grant You the most lasting health, [uncertain: Wuhr] good fortune, contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to You, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish upon this important day — For the rest, the general procurator Count Lipski, the president of the tribunal Smogorzewski, the councillor of the tribunal Rembowski, the councillor of the tribunal Michalski, and the councillor of the tribunal Sobocki most humbly thank Your Most Serene Highness for the fine game. The effect will shortly show itself in the decision of the Oleśnica and Wrąbczyn case. With the sub-prefect Brzechffa I have concluded, subject to ratification (sub spe rati), the lease contract for the Zagórów estates alone, at 20000 rt. On the 8th of February I intend to arrive with him at Sławięcice, where the contract may then be concluded by Your Serene Highness",
+   "names": [
+    {
+     "de": "Lipski",
+     "en": "Lipski",
+     "kind": "person"
+    },
+    {
+     "de": "Smogorzewski",
+     "en": "Smogorzewski",
+     "kind": "person"
+    },
+    {
+     "de": "Rembowski",
+     "en": "Rembowski",
+     "kind": "person"
+    },
+    {
+     "de": "Michalski",
+     "en": "Michalski",
+     "kind": "person"
+    },
+    {
+     "de": "Sobocki",
+     "en": "Sobocki",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "229",
+    "50",
+    "20000",
+    "8"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "itself in due binding form (in forma probante). Whatever Mr von Brzechffa will be able to gather together in ready money in the haste will be brought along. At present the daily new taxes still eat away too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d yearly; also the Bayonne capital will be completely amortised. In the meantime, so far as the ready money is concerned, only the gain in both the lawsuits named overleaf will first bring true wegen. The documents sent to me were handed in to the authority the day before yesterday — Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the taxes would be reduced pro Inturo. It comes down to a sacrifice, which Mr von Brzechffa will advance if it should be required. For the rest, Your Serene Highness will receive the original documents back after imitated use.\n\nThe Parobeck follows, and if it succeeds we shall bring along an even bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful, most humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Bayonner",
+     "en": "Bayonne",
+     "kind": "place"
+    },
+    {
+     "de": "Parobeck",
+     "en": "Parobeck",
+     "kind": "other"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "27",
+    "1812"
+   ]
+  }
+ ],
+ "text_english": "229\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nUpon this important day, which is a brother of that one on which You first beheld the light of the world, and which will remain the jewel among the lesser of its successors, I cannot lay myself personally at the feet of Your Most Serene Highness and offer my faithful and sincere wishes. I can do it we still in writing, but let it be just as heartfelt — May God let Your Most Serene Highness live to see at least 50 more days of this kind; may He grant You the most lasting health, [uncertain: Wuhr] good fortune, contentment, may He pour out upon You every blessing, and may He let all grief and care become strangers to You, most gracious Prince, from now on, as Your Serene Highness truly deserves.\n\nThese are the substance of my most faithful wish upon this important day — For the rest, the general procurator Count Lipski, the president of the tribunal Smogorzewski, the councillor of the tribunal Rembowski, the councillor of the tribunal Michalski, and the councillor of the tribunal Sobocki most humbly thank Your Most Serene Highness for the fine game. The effect will shortly show itself in the decision of the Oleśnica and Wrąbczyn case. With the sub-prefect Brzechffa I have concluded, subject to ratification (sub spe rati), the lease contract for the Zagórów estates alone, at 20000 rt. On the 8th of February I intend to arrive with him at Sławięcice, where the contract may then be concluded by Your Serene Highness\n\nitself in due binding form (in forma probante). Whatever Mr von Brzechffa will be able to gather together in ready money in the haste will be brought along. At present the daily new taxes still eat away too much. All the interest is secured, and there still remain over to Your Serene Highness several thousand d yearly; also the Bayonne capital will be completely amortised. In the meantime, so far as the ready money is concerned, only the gain in both the lawsuits named overleaf will first bring true wegen. The documents sent to me were handed in to the authority the day before yesterday — Not only is every dispute removed, but the benefit may perhaps accrue to Your Serene Highness that the taxes would be reduced pro Inturo. It comes down to a sacrifice, which Mr von Brzechffa will advance if it should be required. For the rest, Your Serene Highness will receive the original documents back after imitated use.\n\nThe Parobeck follows, and if it succeeds we shall bring along an even bigger dog.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nBlizanow\n\nthe 27th of January 1812\n\nfaithful, most humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld übermittelt Geburtstagswünsche. Er meldet den Dank des Generalprokurators Graf Lipski, des Tribunalspräsidenten Smogorzewski und der Tribunalsräte für das Wildpret; die Wirkung erwartet er bei der Entscheidung der Olesnicer und Wrąbczyner Sache. Mit Brzechffa hat er vorbehaltlich der Genehmigung den Pachtvertrag über die Zagórówer Güter auf 20000 Rthl geschlossen. Am 8. Februar will er mit ihm in Sławięcice eintreffen. Die Zinsen seien gesichert, das Bayonner Kapital werde getilgt. Die eingereichten Urkunden hätten jeden Streit beseitigt, vielleicht würden die Abgaben gemildert.",
  "reading": {

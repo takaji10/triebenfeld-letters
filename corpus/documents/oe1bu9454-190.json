@@ -211,7 +211,96 @@
    "doc_line": 62
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Rewen",
+   "kind": "person",
+   "surface_de": "Rewen[?]",
+   "surface_en": "Rewen",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 1
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glencks",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wilhelmsruhe",
+   "kind": "place",
+   "surface_de": "Wilhelmsruhe",
+   "surface_en": "Wilhelmsruhe",
+   "page": 3
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 4
+  },
+  {
+   "entity": "rybbeck",
+   "display": "Rybbeck",
+   "kind": "person",
+   "surface_de": "Rybbeck",
+   "surface_en": "Rybbeck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyn",
+   "surface_en": "Wrąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Öhringen",
+   "kind": "place",
+   "surface_de": "Öhringen",
+   "surface_en": "Öhringen",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "A. Hahn",
+   "kind": "person",
+   "surface_de": "A Hahn",
+   "surface_en": "A. Hahn",
+   "page": 5
+  }
+ ],
  "place_canonical": "Öhringen",
  "place_mentions": [
   {
@@ -259,9 +348,106 @@
    "doc_line": 79
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "190 By way of supplement I am, on the command of His Serene Highness the Prince, to send Your Right Honourable the enclosed charta blanche for the reply to Mr von Rewen[uncertain: Rewen], which you may be pleased to have made out according to your own view of the matter. I also enclose herewith the extract from a letter of the mining councillor Glenck, as His Serene Highness has commanded me. The folly of this man, his ever-active but all the more senseless spirit of speculation, his frivolity and his lady wife have led him to the brink of the abyss, on which he truly stands. It now rests with the magnanimity both of the Prince and of Your Right Honourable whether you will once more extend to him the hand of rescue.",
+   "names": [
+    {
+     "de": "Rewen[?]",
+     "en": "Rewen",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "190"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "His Serene Highness is ready for this, and hereby calls upon you to act in the same manner; and I should have to be ignorant of your magnanimous and readily giving heart if you were not willing to comply with the Prince's wish in this respect, should it be in any way possible. In order to bring this about, it is left to Your Right Honourable to bring Glenck at last to silence by sending the draft of the consent to His Serene Highness. His Serene Highness desires it, also for the sake of this man's never-ceasing lamentations, which arrive with every post day. Should Glenck refuse the conditions that may be necessary",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "Extract from Glenck's letter\n\ndated 22nd March 1806. In the straits in which the Wrąbczyn estates and the evasion of payment place me, I have had to take refuge in pawning my belongings, in selling clothes, and in borrowing small sums of a few thalers. My dismissed servants have cried the uproar abroad still further, and since the public too was brought to the opinion that I stood of no account with Your Serene Highness, there followed a complete [uncertain: Wlisd] of credit for me; my numerous creditors grew loud, and day after day I had only to go about [uncertain: räumen nun] to borrow and to avert the actions at law, and to seek to borrow the most necessary household requisites, since I had to give up my salary for the payment of debts, properly speaking as brokerage. Thus I have saved Wilhelmsruhe from the [uncertain: Subtestation] and from a low sale, so that out of duty towards my own people I must delay the sale until such time as it will fetch a higher",
+   "names": [
+    {
+     "de": "Glencks",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Wilhelmsruhe",
+     "en": "Wilhelmsruhe",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "22",
+    "1806"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "value, since I foresee here a [uncertain: Glenck] if I can hold out a while longer; and to that end it is necessary that, by producing the consent, I get Rybbeck out of the purchase of Wrąbczyn and can leave this estate to a better man. My family stands in need of this protection.",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Rybbeck",
+     "en": "Rybbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Wrąbczyn",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "for an arrangement once again, as has already happened, then nothing will of course remain but to let him [uncertain: vollen] into the ruin which his giddy spirit has prepared for him. My boundless confidence in Your Right Honourable, and, I may say, the favour which you have always shown me, and which has always animated me with true pride and assurance in myself, have brought forth these utterances, and I may hope of you that you will not take them ill. With boundless veneration\n\nÖhringen\n\nthe 10th of April\n\n1806.\n\nA Hahn",
+   "names": [
+    {
+     "de": "Öhringen",
+     "en": "Öhringen",
+     "kind": "place"
+    },
+    {
+     "de": "A Hahn",
+     "en": "A. Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "1806"
+   ]
+  }
+ ],
+ "text_english": "190 By way of supplement I am, on the command of His Serene Highness the Prince, to send Your Right Honourable the enclosed charta blanche for the reply to Mr von Rewen[uncertain: Rewen], which you may be pleased to have made out according to your own view of the matter. I also enclose herewith the extract from a letter of the mining councillor Glenck, as His Serene Highness has commanded me. The folly of this man, his ever-active but all the more senseless spirit of speculation, his frivolity and his lady wife have led him to the brink of the abyss, on which he truly stands. It now rests with the magnanimity both of the Prince and of Your Right Honourable whether you will once more extend to him the hand of rescue.\n\nHis Serene Highness is ready for this, and hereby calls upon you to act in the same manner; and I should have to be ignorant of your magnanimous and readily giving heart if you were not willing to comply with the Prince's wish in this respect, should it be in any way possible. In order to bring this about, it is left to Your Right Honourable to bring Glenck at last to silence by sending the draft of the consent to His Serene Highness. His Serene Highness desires it, also for the sake of this man's never-ceasing lamentations, which arrive with every post day. Should Glenck refuse the conditions that may be necessary\n\nExtract from Glenck's letter\n\ndated 22nd March 1806. In the straits in which the Wrąbczyn estates and the evasion of payment place me, I have had to take refuge in pawning my belongings, in selling clothes, and in borrowing small sums of a few thalers. My dismissed servants have cried the uproar abroad still further, and since the public too was brought to the opinion that I stood of no account with Your Serene Highness, there followed a complete [uncertain: Wlisd] of credit for me; my numerous creditors grew loud, and day after day I had only to go about [uncertain: räumen nun] to borrow and to avert the actions at law, and to seek to borrow the most necessary household requisites, since I had to give up my salary for the payment of debts, properly speaking as brokerage. Thus I have saved Wilhelmsruhe from the [uncertain: Subtestation] and from a low sale, so that out of duty towards my own people I must delay the sale until such time as it will fetch a higher\n\nvalue, since I foresee here a [uncertain: Glenck] if I can hold out a while longer; and to that end it is necessary that, by producing the consent, I get Rybbeck out of the purchase of Wrąbczyn and can leave this estate to a better man. My family stands in need of this protection.\n\nfor an arrangement once again, as has already happened, then nothing will of course remain but to let him [uncertain: vollen] into the ruin which his giddy spirit has prepared for him. My boundless confidence in Your Right Honourable, and, I may say, the favour which you have always shown me, and which has always animated me with true pride and assurance in myself, have brought forth these utterances, and I may hope of you that you will not take them ill. With boundless veneration\n\nÖhringen\n\nthe 10th of April\n\n1806.\n\nA Hahn",
  "summary_en": "",
  "summary_de": "Hahn übersendet im Auftrag des Fürsten eine Charta blanche und einen Auszug aus Glencks Schreiben vom 22. März 1806. Der Fürst will Glenck noch einmal retten und fordert Triebenfeld auf, ebenso zu handeln und ihm das Schema zum Consens zu schicken. Lehnt Glenck die Bedingungen erneut ab, soll man ihn seinem Verderben überlassen. Glenck klagt über Not wegen der Wrąbczyner Güter, hat Wilhelmsruh vor der Subhastation gerettet und will mit dem Consens Rybbeck aus dem Kauf von Wrąbczyn bringen.",
  "reading": {

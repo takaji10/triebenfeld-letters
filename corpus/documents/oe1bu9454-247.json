@@ -301,7 +301,264 @@
    "doc_line": 76
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Polens",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Goerch",
+   "kind": "person",
+   "surface_de": "Goerch",
+   "surface_en": "Goerch",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "House of Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hauß Hohenlohe",
+   "surface_en": "House of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wilhelm von Humboldt",
+   "kind": "person",
+   "surface_de": "von Humboldt",
+   "surface_en": "Wilhelm von Humboldt",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Kerrigen]",
+   "kind": "person",
+   "surface_de": "Kerrigen[?]",
+   "surface_en": "[uncertain: Kerrigen]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten hohenlohn",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Princess",
+   "kind": "person",
+   "surface_de": "F[ürstin]. Sachen",
+   "surface_en": "the Princess",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "cosmar",
+   "display": "Cosmar",
+   "kind": "person",
+   "surface_de": "Cosmar",
+   "surface_en": "Cosmar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Adolph",
+   "kind": "person",
+   "surface_de": "Prinzen Adolph",
+   "surface_en": "Prince Adolph",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Alexander",
+   "kind": "person",
+   "surface_de": "Alexander",
+   "surface_en": "Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prince Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "Prince Sacken",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Princess Sacken",
+   "kind": "person",
+   "surface_de": "F[ürstin]. Sackin",
+   "surface_en": "Princess Sacken",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Courland heirs",
+   "kind": "other",
+   "surface_de": "Curischen Erben",
+   "surface_en": "Courland heirs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Lage]",
+   "kind": "person",
+   "surface_de": "Lage",
+   "surface_en": "[uncertain: Lage]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prinz Wilhelm von Preußen",
+   "kind": "person",
+   "surface_de": "Par Willhelm",
+   "surface_en": "Prinz Wilhelm von Preußen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hungary",
+   "kind": "place",
+   "surface_de": "Ungarn",
+   "surface_en": "Hungary",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Bavaria",
+   "kind": "person",
+   "surface_de": "König von Baier",
+   "surface_en": "King of Bavaria",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Württemberg",
+   "kind": "person",
+   "surface_de": "von Wurtemberg",
+   "surface_en": "King of Württemberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "King of Denmark",
+   "kind": "person",
+   "surface_de": "König von Dannemord",
+   "surface_en": "King of Denmark",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Grand Duke Constantine",
+   "kind": "person",
+   "surface_de": "Gr[oß]. F[ürst]. Constantin",
+   "surface_en": "Grand Duke Constantine",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Alexander",
+   "kind": "person",
+   "surface_de": "Prinzen Allexander",
+   "surface_en": "Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "[uncertain: Lasso uren]",
+   "kind": "other",
+   "surface_de": "Lasso uren",
+   "surface_en": "[uncertain: Lasso uren]",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitzer",
+   "surface_en": "Sławięcice",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Lasowice",
+   "kind": "place",
+   "surface_de": "Lassowiser",
+   "surface_en": "Lasowice",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "His Majesty",
+   "kind": "person",
+   "surface_de": "Sr. Majestät",
+   "surface_en": "His Majesty",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince August",
+   "kind": "person",
+   "surface_de": "F. Aug[ust].",
+   "surface_en": "Prince August",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Countess Sacken",
+   "kind": "person",
+   "surface_de": "Gr Sacken",
+   "surface_en": "Countess Sacken",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Prince Alexander",
+   "kind": "person",
+   "surface_de": "Prinzen Allexander",
+   "surface_en": "Prince Alexander",
+   "page": 3
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -349,9 +606,231 @@
    "doc_line": 60
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "247\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nPoland's fate too has been decided, and a more favourable lot has fallen to us than had been thought. For Your Serene Highness there is now nothing that need be begged for on the intervening side — Now the affairs of the Empire will doubtless soon come up; of what the Privy Councillor Goerch has submitted on behalf of the whole House of Hohenlohe a copy follows herewith — His Excellency the Minister Wilhelm von Humboldt has promised me to support Your Serene Highness's cause particularly. Upon the piece submitted before me through the Prince State Chancellor, of which I sent the copy by the last post, His Serene Highness at the first presentation was graciously pleased to express himself in these words: \"The money is a trifle, that shall be given, since so much can be effected thereby; but with the judiciary we shall doubtless get a great deal of noise over the annulment of the settlement, the more so as the old Prince himself approved it. Meanwhile it is remarkable that the late Princess disposed of the revenues of the entailed estates and appointed an executor of the testament — the estates never belonged to her at all.\" I have once again set everything out properly, in particular that Cosmar drove the old [uncertain: Kerrigen] Princess, on account of the Courland loan which the former Prince of Hohenlohe co-signed, to despair, and brought her to the point that, on the edge of the grave, she put her mark beneath the false settlement forged by Cosmar, and allowed so many debts to be entered in it, whereby all the other creditors were to be pushed back.\n\nI maintain that the old Princess could not after her death have the least share in",
+   "names": [
+    {
+     "de": "Polens",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Goerch",
+     "en": "Goerch",
+     "kind": "person"
+    },
+    {
+     "de": "Hauß Hohenlohe",
+     "en": "House of Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "von Humboldt",
+     "en": "Wilhelm von Humboldt",
+     "kind": "person"
+    },
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Kerrigen[?]",
+     "en": "[uncertain: Kerrigen]",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten hohenlohn",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürstin]. Sachen",
+     "en": "the Princess",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "247"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "the revenues of the entailed estate, still less after her death [text lost] because with her death her right of survivorship (advitalitium) was to lapse, and [text lost] Cosmar declared as guardian of the minor, so this ceases wh[text lost] the Princes Adolph and Alexander were of age, and since the former did not [text lost] receive estates, but was the sole heir to the estate of the Prince Sacken [text lost] Cosmar has nothing whatever to do with the entailed estates and would have to be [text lost] dismissed from here — Meanwhile Prince Adolph would within a year and a day — at all [text lost] in 2 to 3 years be of age, whereupon his whole interference also ceases; the [text lost] would receive merely, as a higher appanage, 1200 rt out of the entailed estates — All the apprehensions of the Princess Sacken, which had induced her and even the Prince to sign the notorious settlement forged by Cosmar in fraudem tertii, would cease the moment the Courland heirs had been satisfied. And this could now be done with 112/m rt. Not only on this account had, as stated in the earlier submission, a composition already been made with the mandate of the heirs of the [uncertain: Lage], but with the other creditors too it had been brought to the point that they would be content with 12000 rt yearly for as long as the Prince lives — To the question — but will the estates really yield so much that the 112000 rt and everything the deed of foundation states, and also the 12000 rt to the other creditors, can be paid? Answer: Certainly — I have laid at His Serene Highness's feet the statement of the yield and of the sums to be paid — Well then, my friend, it concerns your 60/m rt security — The two Emperors and the King, with Prinz Wilhelm von Preußen, returned to Hungary last night. The King of Bavaria and the King of Württemberg had meanwhile remained here with their hereditary princes, as had the King of Denmark. The Grand Duke Constantine had meanwhile been viewing places outside the city — Respectfully I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 28th of October\n\n1814.\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Cosmar",
+     "en": "Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen Adolph",
+     "en": "Prince Adolph",
+     "kind": "person"
+    },
+    {
+     "de": "Alexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "Prince Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "F[ürstin]. Sackin",
+     "en": "Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Curischen Erben",
+     "en": "Courland heirs",
+     "kind": "other"
+    },
+    {
+     "de": "Lage",
+     "en": "[uncertain: Lage]",
+     "kind": "person"
+    },
+    {
+     "de": "Par Willhelm",
+     "en": "Prinz Wilhelm von Preußen",
+     "kind": "person"
+    },
+    {
+     "de": "Ungarn",
+     "en": "Hungary",
+     "kind": "place"
+    },
+    {
+     "de": "König von Baier",
+     "en": "King of Bavaria",
+     "kind": "person"
+    },
+    {
+     "de": "von Wurtemberg",
+     "en": "King of Württemberg",
+     "kind": "person"
+    },
+    {
+     "de": "König von Dannemord",
+     "en": "King of Denmark",
+     "kind": "person"
+    },
+    {
+     "de": "Gr[oß]. F[ürst]. Constantin",
+     "en": "Grand Duke Constantine",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen Allexander",
+     "en": "Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1200",
+    "112/m",
+    "12000",
+    "112000",
+    "12000",
+    "60/m",
+    "28ten",
+    "1814",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "[text lost] hand over the same, and as Your Serene Highness dictated such a one [text lost] year 7000 rt.\n\n[text lost] [uncertain: oschget] husbandry 6500 rt. [text lost]er 6000 rt.\n\n[text lost]hamer 2000 rt.\n\n[text lost] Lasso uren 6500 rt. [text lost] Sławięcice manufactories 34000 rt. [text lost]n Lasowice the g 12000 rt. [text lost]fider commercial capital 4000 rt. [text lost] manufactories capital 1500 rt. = 79500 rt.\n\n[text lost] therefrom [text lost] to His Majesty for the 112000 pfl. of the g for the fees 35000 pfl. = 147000 pfl.\n\n= 25000 rt.\n\n2. thereof the [uncertain: Zutreche] on average 3572 rt.\n\n3. for the necessary maintenance of the old gentleman's forests 12000 rt.\n\n4. Towards paying off the other creditors according to the composition 12000 rt.\n\n5. to Prince August according to the deed and composition of 1799 — 18000 rt.\n\n6. the interest to the 3 daughters. 3750 rt.\n\n7. to the present Countess Sacken according to the same deed 4000 rt.\n\n8. to the youngest Prince Alexander 1200 rt. = 79462 rt.\n\nthere remains over 38 rt.\n\nNB the 180000 rt can be of great help.",
+   "names": [
+    {
+     "de": "Lasso uren",
+     "en": "[uncertain: Lasso uren]",
+     "kind": "other"
+    },
+    {
+     "de": "Schlawenschitzer",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Lassowiser",
+     "en": "Lasowice",
+     "kind": "place"
+    },
+    {
+     "de": "Sr. Majestät",
+     "en": "His Majesty",
+     "kind": "person"
+    },
+    {
+     "de": "F. Aug[ust].",
+     "en": "Prince August",
+     "kind": "person"
+    },
+    {
+     "de": "Gr Sacken",
+     "en": "Countess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Prinzen Allexander",
+     "en": "Prince Alexander",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7000",
+    "6500",
+    "6000",
+    "2000",
+    "6500",
+    "34000",
+    "12000",
+    "4000",
+    "1500",
+    "79500",
+    "112000",
+    "35000",
+    "147000",
+    "25000",
+    "3572",
+    "12000",
+    "12000",
+    "1799",
+    "18000",
+    "3",
+    "3750",
+    "4000",
+    "1200",
+    "79462",
+    "38",
+    "180000"
+   ]
+  }
+ ],
+ "text_english": "247\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nPoland's fate too has been decided, and a more favourable lot has fallen to us than had been thought. For Your Serene Highness there is now nothing that need be begged for on the intervening side — Now the affairs of the Empire will doubtless soon come up; of what the Privy Councillor Goerch has submitted on behalf of the whole House of Hohenlohe a copy follows herewith — His Excellency the Minister Wilhelm von Humboldt has promised me to support Your Serene Highness's cause particularly. Upon the piece submitted before me through the Prince State Chancellor, of which I sent the copy by the last post, His Serene Highness at the first presentation was graciously pleased to express himself in these words: \"The money is a trifle, that shall be given, since so much can be effected thereby; but with the judiciary we shall doubtless get a great deal of noise over the annulment of the settlement, the more so as the old Prince himself approved it. Meanwhile it is remarkable that the late Princess disposed of the revenues of the entailed estates and appointed an executor of the testament — the estates never belonged to her at all.\" I have once again set everything out properly, in particular that Cosmar drove the old [uncertain: Kerrigen] Princess, on account of the Courland loan which the former Prince of Hohenlohe co-signed, to despair, and brought her to the point that, on the edge of the grave, she put her mark beneath the false settlement forged by Cosmar, and allowed so many debts to be entered in it, whereby all the other creditors were to be pushed back.\n\nI maintain that the old Princess could not after her death have the least share in\n\nthe revenues of the entailed estate, still less after her death [text lost] because with her death her right of survivorship (advitalitium) was to lapse, and [text lost] Cosmar declared as guardian of the minor, so this ceases wh[text lost] the Princes Adolph and Alexander were of age, and since the former did not [text lost] receive estates, but was the sole heir to the estate of the Prince Sacken [text lost] Cosmar has nothing whatever to do with the entailed estates and would have to be [text lost] dismissed from here — Meanwhile Prince Adolph would within a year and a day — at all [text lost] in 2 to 3 years be of age, whereupon his whole interference also ceases; the [text lost] would receive merely, as a higher appanage, 1200 rt out of the entailed estates — All the apprehensions of the Princess Sacken, which had induced her and even the Prince to sign the notorious settlement forged by Cosmar in fraudem tertii, would cease the moment the Courland heirs had been satisfied. And this could now be done with 112/m rt. Not only on this account had, as stated in the earlier submission, a composition already been made with the mandate of the heirs of the [uncertain: Lage], but with the other creditors too it had been brought to the point that they would be content with 12000 rt yearly for as long as the Prince lives — To the question — but will the estates really yield so much that the 112000 rt and everything the deed of foundation states, and also the 12000 rt to the other creditors, can be paid? Answer: Certainly — I have laid at His Serene Highness's feet the statement of the yield and of the sums to be paid — Well then, my friend, it concerns your 60/m rt security — The two Emperors and the King, with Prinz Wilhelm von Preußen, returned to Hungary last night. The King of Bavaria and the King of Württemberg had meanwhile remained here with their hereditary princes, as had the King of Denmark. The Grand Duke Constantine had meanwhile been viewing places outside the city — Respectfully I remain, until death,\n\nYour Serene Highness's\n\nVienna, the 28th of October\n\n1814.\n\nhumble and obedient servant\n\nv Triebenfeld\n\n[text lost] hand over the same, and as Your Serene Highness dictated such a one [text lost] year 7000 rt.\n\n[text lost] [uncertain: oschget] husbandry 6500 rt. [text lost]er 6000 rt.\n\n[text lost]hamer 2000 rt.\n\n[text lost] Lasso uren 6500 rt. [text lost] Sławięcice manufactories 34000 rt. [text lost]n Lasowice the g 12000 rt. [text lost]fider commercial capital 4000 rt. [text lost] manufactories capital 1500 rt. = 79500 rt.\n\n[text lost] therefrom [text lost] to His Majesty for the 112000 pfl. of the g for the fees 35000 pfl. = 147000 pfl.\n\n= 25000 rt.\n\n2. thereof the [uncertain: Zutreche] on average 3572 rt.\n\n3. for the necessary maintenance of the old gentleman's forests 12000 rt.\n\n4. Towards paying off the other creditors according to the composition 12000 rt.\n\n5. to Prince August according to the deed and composition of 1799 — 18000 rt.\n\n6. the interest to the 3 daughters. 3750 rt.\n\n7. to the present Countess Sacken according to the same deed 4000 rt.\n\n8. to the youngest Prince Alexander 1200 rt. = 79462 rt.\n\nthere remains over 38 rt.\n\nNB the 180000 rt can be of great help.",
  "summary_en": "",
  "summary_de": "Triebenfeld meldet, Polens Schicksal sei günstig entschieden; nun kämen die Reichsangelegenheiten, wozu er die Eingabe des Geh. Rath Goerch für das Gesamthaus Hohenlohe abschriftlich schickt. Humboldt versprach Unterstützung. Der Staats Kanzler erklärte, das Geld solle gegeben werden, die Aufhebung des von Cosmar betriebenen Transacts werde aber Lärm geben. Die Curischen Erben seien mit 112/m Rthl, die übrigen Creditoren mit 12000 Rthl jährlich zu befriedigen. Beiliegende Rechnung: Ertrag 79500 Rthl, Ausgaben 79462 Rthl.",
  "reading": {

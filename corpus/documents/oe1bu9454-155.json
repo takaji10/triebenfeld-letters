@@ -106,7 +106,80 @@
    "doc_line": 27
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorffischen",
+   "surface_en": "Schlabrendorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohmuth",
+   "kind": "person",
+   "surface_de": "Hohmuth",
+   "surface_en": "Hohmuth",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Krieges und Forst Rath",
+   "surface_en": "Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nurlich",
+   "kind": "person",
+   "surface_de": "Nurlich",
+   "surface_en": "Nurlich",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hussaczinski",
+   "kind": "person",
+   "surface_de": "Hussaczinski[?]",
+   "surface_en": "Hussaczinski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "A: Hahn",
+   "kind": "person",
+   "surface_de": "A: Hahn",
+   "surface_en": "A: Hahn",
+   "page": 2
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -154,9 +227,76 @@
    "doc_line": 33
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "155\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I was today in person with the Chancellor Hohmuth concerning the Schlabrendorff payment, and spoke with you regarding a longer deadline. The result of this conversation was not very comforting. He told me that the countess could be held back from taking up the suit again only by a speedy payment, made before the next Berlin post day, since she is not a little provoked by the delay hitherto. Should this be done soon, with 25/m Rthl, then he would prevail upon the countess to wait yet some time for the",
+   "names": [
+    {
+     "de": "Schlabrendorffischen",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Hohmuth",
+     "en": "Hohmuth",
+     "kind": "person"
+    },
+    {
+     "de": "Krieges und Forst Rath",
+     "en": "Councillor of War and Forests",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "155",
+    "25/m"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "remaining half of 25/m Rthl — of an obligation for the latter payment he would hear nothing whatever, nor did he venture to make any proposal to that effect, inasmuch as he will have it that he is positively convinced the countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it is therefore very well that you should be informed of it. Nurlich set out early today with the wild boar for the government councillor von Hussaczinski[uncertain: Hussaczinski] by way of Kalisz to Trąbczyn. I commend myself most humbly to your continued favour, and have the honour to be, with the most perfect veneration,\n\nYour Right Honourable's\n\nWrocław, the 16th of January\n\n1805.\n\nhumble and obedient servant\n\nA: Hahn",
+   "names": [
+    {
+     "de": "Nurlich",
+     "en": "Nurlich",
+     "kind": "person"
+    },
+    {
+     "de": "Hussaczinski[?]",
+     "en": "Hussaczinski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "A: Hahn",
+     "en": "A: Hahn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "25/m",
+    "16ten",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "155\n\nRight Honourable Sir, Highly Honoured Sir, Councillor of War and Forests! To Your Right Honourable I report, by command of His Serene Highness the Prince: that I was today in person with the Chancellor Hohmuth concerning the Schlabrendorff payment, and spoke with you regarding a longer deadline. The result of this conversation was not very comforting. He told me that the countess could be held back from taking up the suit again only by a speedy payment, made before the next Berlin post day, since she is not a little provoked by the delay hitherto. Should this be done soon, with 25/m Rthl, then he would prevail upon the countess to wait yet some time for the\n\nremaining half of 25/m Rthl — of an obligation for the latter payment he would hear nothing whatever, nor did he venture to make any proposal to that effect, inasmuch as he will have it that he is positively convinced the countess would never enter into such a thing. Your Right Honourable will see from these utterances the pressure of circumstances, and it is therefore very well that you should be informed of it. Nurlich set out early today with the wild boar for the government councillor von Hussaczinski[uncertain: Hussaczinski] by way of Kalisz to Trąbczyn. I commend myself most humbly to your continued favour, and have the honour to be, with the most perfect veneration,\n\nYour Right Honourable's\n\nWrocław, the 16th of January\n\n1805.\n\nhumble and obedient servant\n\nA: Hahn",
  "summary_en": "",
  "summary_de": "Hahn meldet im Auftrag des Fürsten, dass Kanzler Hohmuth wegen der Schlabrendorffischen Zahlung keinen längeren Aufschub zusagt. Die Gräfin, gereizt durch die Verzögerung, lasse sich nur durch schnelle Zahlung vor dem nächsten Berliner Posttag von der Wiederaufnahme der Klage abhalten. Würden 25/m Rthl bald gezahlt, wolle Hohmuth sie bewegen, auf die übrige Hälfte noch zu warten. Eine Obligation dafür lehne er ab. Das wilde Schwein ist über Kalisz nach Trąbczyn abgeschickt.",
  "reading": {

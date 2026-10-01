@@ -504,7 +504,408 @@
    "doc_line": 88
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankiewitz",
+   "kind": "person",
+   "surface_de": "Frankiewitz",
+   "surface_en": "Frankiewitz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankiewicz",
+   "kind": "person",
+   "surface_de": "Frankiewicz",
+   "surface_en": "Frankiewicz",
+   "page": 1
+  },
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schneider",
+   "kind": "person",
+   "surface_de": "Schneider",
+   "surface_en": "Schneider",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "hawich",
+   "display": "Hawich",
+   "kind": "person",
+   "surface_de": "Hawich",
+   "surface_en": "Hawich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Badinski",
+   "kind": "person",
+   "surface_de": "Badinski",
+   "surface_en": "Badinski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigeln",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Weigel matter",
+   "kind": "other",
+   "surface_de": "Weigelsche Sache",
+   "surface_en": "the Weigel matter",
+   "page": 1
+  },
+  {
+   "entity": "smidkowski",
+   "display": "Smidkowski",
+   "kind": "person",
+   "surface_de": "Smidkowski",
+   "surface_en": "Smidkowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelmas",
+   "kind": "other",
+   "surface_de": "Micheli",
+   "surface_en": "Michaelmas",
+   "page": 1
+  },
+  {
+   "entity": "smidkowski",
+   "display": "Smidkowski",
+   "kind": "person",
+   "surface_de": "Smidkowski",
+   "surface_en": "Smidkowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kramplitz",
+   "kind": "person",
+   "surface_de": "Kramplitz",
+   "surface_en": "Kramplitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Dąbska",
+   "surface_en": "Dąbska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "smidkowski",
+   "display": "Smidkowski",
+   "kind": "person",
+   "surface_de": "Smid[kowski]",
+   "surface_en": "Smid[kowski]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lubinski",
+   "kind": "person",
+   "surface_de": "Lubinski",
+   "surface_en": "Lubinski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Woyda",
+   "kind": "person",
+   "surface_de": "Woyda",
+   "surface_en": "Woyda",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 2
+  },
+  {
+   "entity": "tesmar",
+   "display": "Tesmar",
+   "kind": "person",
+   "surface_de": "Tismar",
+   "surface_en": "Tismar",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Colonna papers",
+   "kind": "other",
+   "surface_de": "Colon nasche Papiere",
+   "surface_en": "the Colonna papers",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Sa[illegible]",
+   "kind": "person",
+   "surface_de": "Sa[?]en",
+   "surface_en": "Sa[illegible]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Reibnitz",
+   "kind": "person",
+   "surface_de": "Reibnitz",
+   "surface_en": "Reibnitz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Rückel",
+   "kind": "person",
+   "surface_de": "Rückel",
+   "surface_en": "Rückel",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Reibnitz's",
+   "kind": "person",
+   "surface_de": "Reibnises",
+   "surface_en": "Reibnitz's",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "Triebenfeld",
+   "surface_en": "Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "koeckritz",
+   "display": "Köckritz",
+   "kind": "person",
+   "surface_de": "Köckritz",
+   "surface_en": "Köckritz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Rhaden, Baron von",
+   "kind": "person",
+   "surface_de": "Baron v Rhaden",
+   "surface_en": "Rhaden, Baron von",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "the Colonna matter",
+   "kind": "other",
+   "surface_de": "Colonnaschen Sache",
+   "surface_en": "the Colonna matter",
+   "page": 3
+  },
+  {
+   "entity": "tesmar",
+   "display": "Tesmar",
+   "kind": "person",
+   "surface_de": "Tismar",
+   "surface_en": "Tismar",
+   "page": 3
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 3
+  },
+  {
+   "entity": "hohenlohe-bartenstein",
+   "display": "Prince Hohenlohe-Bartenstein",
+   "kind": "person",
+   "surface_de": "Bartenstein",
+   "surface_en": "Bartenstein",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Bonaparte",
+   "kind": "person",
+   "surface_de": "Bonaparte",
+   "surface_en": "Bonaparte",
+   "page": 3
+  },
+  {
+   "entity": "zastrow",
+   "display": "Zastrow",
+   "kind": "person",
+   "surface_de": "Zastrow",
+   "surface_en": "Zastrow",
+   "page": 3
+  },
+  {
+   "entity": "massow",
+   "display": "Massow",
+   "kind": "person",
+   "surface_de": "Massow",
+   "surface_en": "Massow",
+   "page": 3
+  },
+  {
+   "entity": "dohna",
+   "display": "Dohna",
+   "kind": "person",
+   "surface_de": "Dohna",
+   "surface_en": "Dohna",
+   "page": 3
+  },
+  {
+   "entity": "rhode",
+   "display": "Rhode",
+   "kind": "person",
+   "surface_de": "Rhoden",
+   "surface_en": "Rhoden",
+   "page": 3
+  },
+  {
+   "entity": "grevenitz",
+   "display": "Grevenitz",
+   "kind": "person",
+   "surface_de": "Grevenitz",
+   "surface_en": "Grevenitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Turks",
+   "kind": "other",
+   "surface_de": "Türkken",
+   "surface_en": "Turks",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Streiten",
+   "kind": "place",
+   "surface_de": "Streiten",
+   "surface_en": "Streiten",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kąntwicz[?]",
+   "kind": "place",
+   "surface_de": "Kąntwicz[?]",
+   "surface_en": "Kąntwicz[?]",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Kąntwicz?",
  "place_mentions": [
   {
@@ -574,9 +975,300 @@
    "doc_line": 84
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "198\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's affairs in Poland, whence I returned the day before yesterday, are arranged in the best manner.\n\n1. Trąbczyn Your Serene Highness will have back by Michaelmas at the latest —\n\n2. The sequestration is entirely lifted\n\n3. The accounts of Honrichs and of Frankiewitz, for both of which the sub-prefect Brzechffa has given his guarantee, are now being reviewed by the calculator Schneider appointed by the Prefecture. Hecker must, together with Hawich, prove his statements concerning the 11700 rt embezzled; and when Honrichs, Frankiewicz / this is an official of Brzechffa whom I have never seen / together with Badinski are convicted, then Brzechffa must pay, if their own means are not sufficient — In the meantime I have\n\n4. Conceded that Hecker may be appointed as administrator — He is answerable for everything — will also furnish that guarantee to Weigel — the commission of investigation takes its beginning on the 12th of this month and will probably last several days, and then Hecker can appear at once when he is required for the Weigel matter.\n\nTrąbczyn offers cheerful prospects, for the tenant Smidkowski is paying several thousand straightaway, merely in order to remain on the estates.",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Frankiewitz",
+     "en": "Frankiewitz",
+     "kind": "person"
+    },
+    {
+     "de": "Frankiewicz",
+     "en": "Frankiewicz",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Schneider",
+     "en": "Schneider",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Hawich",
+     "en": "Hawich",
+     "kind": "person"
+    },
+    {
+     "de": "Badinski",
+     "en": "Badinski",
+     "kind": "person"
+    },
+    {
+     "de": "Weigeln",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Weigelsche Sache",
+     "en": "the Weigel matter",
+     "kind": "other"
+    },
+    {
+     "de": "Smidkowski",
+     "en": "Smidkowski",
+     "kind": "person"
+    },
+    {
+     "de": "Micheli",
+     "en": "Michaelmas",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "198",
+    "1.",
+    "2.",
+    "3.",
+    "11700",
+    "4.",
+    "12ten"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Smidkowski has been in Warsaw with Kramplitz — Dąbska threw herself at the feet of the King, who was there at the time, on account of Trąbczyn, but she has been refused in her petition. So that arrow too has been loosed without reaching its mark. Kramplitz, who came back 4 days ago, goes about very sorrowfully with this tenant Smid[kowski] — The King's resolution is in a threatening style — I hope that my two spirits, Lubinski and Woyda, brought this about —\n\n6. My own affairs are arranged — Richter arrived here from Berlin only the day before yesterday — Köckritz has conducted himself exceedingly handsomely and obligingly, and so has Tismar, and everyone — I am perfectly satisfied — Köckritz writes that he would send all the Colonna papers himself to Your Serene Highness — He wishes most heartily that something at least might be effected.\n\nUpon Your Serene Highness's own affairs he is wholly silent. Only to Richter, with whom he chatted a full 2 hours, notwithstanding that some 20 officers and other persons were waiting upon him — to him he said: if only the devil would carry off the old business; with the Prince things would then be doubly well. To the Privy Councillor Sa[illegible] he wrote at once that he should be easy concerning the Invalids' interest — he promises to report the effect to me very shortly. He said to Richter in these words: Your master has much joy and many enviers, but the King knows that he is a thoroughly honest man — Tismar writes / that a certain man also wanted to [uncertain: hook something in], but that the King answered nothing — I suspect Reibnitz",
+   "names": [
+    {
+     "de": "Smidkowski",
+     "en": "Smidkowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kramplitz",
+     "en": "Kramplitz",
+     "kind": "person"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Dąbska",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Smid[kowski]",
+     "en": "Smid[kowski]",
+     "kind": "person"
+    },
+    {
+     "de": "Lubinski",
+     "en": "Lubinski",
+     "kind": "person"
+    },
+    {
+     "de": "Woyda",
+     "en": "Woyda",
+     "kind": "person"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Tismar",
+     "en": "Tismar",
+     "kind": "person"
+    },
+    {
+     "de": "Colon nasche Papiere",
+     "en": "the Colonna papers",
+     "kind": "other"
+    },
+    {
+     "de": "Sa[?]en",
+     "en": "Sa[illegible]",
+     "kind": "person"
+    },
+    {
+     "de": "Reibnitz",
+     "en": "Reibnitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4",
+    "6.",
+    "2",
+    "20"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "or Rückel, Reibnitz's protector — Whereupon the King said: people are always pecking at Triebenfeld, he is certainly an honest fellow. Köckritz answered: of that I am convinced; I believe that if a man were satisfied and set in the right place, he would fetch us the devil out of hell — so Baron von Rhaden also writes to me — likewise a man of the old stamp and fibre — In the so-called wind-blustering there must, then, be not quite so much truth after all.\n\nBe it as it may, however, and let each man permit himself to say whatever he pleases for his amusement, I am content and wish nothing further than to make the acquaintance, for once, of such a windhound; him my pistols shall waken truly frightfully — for on account of the Colonna matter I must pass through hellish stirrup-leathers. Köckritz himself writes to Tismar: I pity the honest soul, and wish most heartily that something at least may come of it, for the daredevil has poked into a hornets' nest and provoked the B against himself — God grant him fortune — Hardenberg is coming, as Köckritz writes, into full activity, and will arrange the matter of the debts — Tismar writes this too, and names him as Prime Minister in the same quality as he was at Bartenstein; this is said to be with Bonaparte's approval /O God/. Of Zastrow nothing will now come; to Hardenberg his death is peace — Massow would already be styled minister, only Dohna has hitherto prevented it — from Rhoden Your Serene Highness will doubtless already have full intelligence concerning the 35000 rt., and be reassured.\n\nGrevenitz must have written to Your Serene Highness as well. He will certainly be vigilant and mindful of Your Highness's advantage. The old lady was, as Köckritz writes to me, very ill, but has recovered again; yet her length of life is doubted — In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nTwo divisions are marching from us against the\n\nTurks — who will command them?\n\nTomorrow I hasten to Konotop; on the 12th I go on to Streiten and from there to Poland. Kąntwicz[?]\n\n8th June 1810.\n\nmost faithful servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Rückel",
+     "en": "Rückel",
+     "kind": "person"
+    },
+    {
+     "de": "Reibnises",
+     "en": "Reibnitz's",
+     "kind": "person"
+    },
+    {
+     "de": "Triebenfeld",
+     "en": "Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Köckritz",
+     "en": "Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Baron v Rhaden",
+     "en": "Rhaden, Baron von",
+     "kind": "person"
+    },
+    {
+     "de": "Colonnaschen Sache",
+     "en": "the Colonna matter",
+     "kind": "other"
+    },
+    {
+     "de": "Tismar",
+     "en": "Tismar",
+     "kind": "person"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Bartenstein",
+     "en": "Bartenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Bonaparte",
+     "en": "Bonaparte",
+     "kind": "person"
+    },
+    {
+     "de": "Zastrow",
+     "en": "Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "Massow",
+     "en": "Massow",
+     "kind": "person"
+    },
+    {
+     "de": "Dohna",
+     "en": "Dohna",
+     "kind": "person"
+    },
+    {
+     "de": "Rhoden",
+     "en": "Rhoden",
+     "kind": "person"
+    },
+    {
+     "de": "Grevenitz",
+     "en": "Grevenitz",
+     "kind": "person"
+    },
+    {
+     "de": "Türkken",
+     "en": "Turks",
+     "kind": "other"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Streiten",
+     "en": "Streiten",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Kąntwicz[?]",
+     "en": "Kąntwicz[?]",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "35000",
+    "Zwey",
+    "12ten",
+    "8tn",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "198\n\nMost Serene Prince\n\nMost gracious Prince and Lord!\n\nYour Serene Highness's affairs in Poland, whence I returned the day before yesterday, are arranged in the best manner.\n\n1. Trąbczyn Your Serene Highness will have back by Michaelmas at the latest —\n\n2. The sequestration is entirely lifted\n\n3. The accounts of Honrichs and of Frankiewitz, for both of which the sub-prefect Brzechffa has given his guarantee, are now being reviewed by the calculator Schneider appointed by the Prefecture. Hecker must, together with Hawich, prove his statements concerning the 11700 rt embezzled; and when Honrichs, Frankiewicz / this is an official of Brzechffa whom I have never seen / together with Badinski are convicted, then Brzechffa must pay, if their own means are not sufficient — In the meantime I have\n\n4. Conceded that Hecker may be appointed as administrator — He is answerable for everything — will also furnish that guarantee to Weigel — the commission of investigation takes its beginning on the 12th of this month and will probably last several days, and then Hecker can appear at once when he is required for the Weigel matter.\n\nTrąbczyn offers cheerful prospects, for the tenant Smidkowski is paying several thousand straightaway, merely in order to remain on the estates.\n\nSmidkowski has been in Warsaw with Kramplitz — Dąbska threw herself at the feet of the King, who was there at the time, on account of Trąbczyn, but she has been refused in her petition. So that arrow too has been loosed without reaching its mark. Kramplitz, who came back 4 days ago, goes about very sorrowfully with this tenant Smid[kowski] — The King's resolution is in a threatening style — I hope that my two spirits, Lubinski and Woyda, brought this about —\n\n6. My own affairs are arranged — Richter arrived here from Berlin only the day before yesterday — Köckritz has conducted himself exceedingly handsomely and obligingly, and so has Tismar, and everyone — I am perfectly satisfied — Köckritz writes that he would send all the Colonna papers himself to Your Serene Highness — He wishes most heartily that something at least might be effected.\n\nUpon Your Serene Highness's own affairs he is wholly silent. Only to Richter, with whom he chatted a full 2 hours, notwithstanding that some 20 officers and other persons were waiting upon him — to him he said: if only the devil would carry off the old business; with the Prince things would then be doubly well. To the Privy Councillor Sa[illegible] he wrote at once that he should be easy concerning the Invalids' interest — he promises to report the effect to me very shortly. He said to Richter in these words: Your master has much joy and many enviers, but the King knows that he is a thoroughly honest man — Tismar writes / that a certain man also wanted to [uncertain: hook something in], but that the King answered nothing — I suspect Reibnitz\n\nor Rückel, Reibnitz's protector — Whereupon the King said: people are always pecking at Triebenfeld, he is certainly an honest fellow. Köckritz answered: of that I am convinced; I believe that if a man were satisfied and set in the right place, he would fetch us the devil out of hell — so Baron von Rhaden also writes to me — likewise a man of the old stamp and fibre — In the so-called wind-blustering there must, then, be not quite so much truth after all.\n\nBe it as it may, however, and let each man permit himself to say whatever he pleases for his amusement, I am content and wish nothing further than to make the acquaintance, for once, of such a windhound; him my pistols shall waken truly frightfully — for on account of the Colonna matter I must pass through hellish stirrup-leathers. Köckritz himself writes to Tismar: I pity the honest soul, and wish most heartily that something at least may come of it, for the daredevil has poked into a hornets' nest and provoked the B against himself — God grant him fortune — Hardenberg is coming, as Köckritz writes, into full activity, and will arrange the matter of the debts — Tismar writes this too, and names him as Prime Minister in the same quality as he was at Bartenstein; this is said to be with Bonaparte's approval /O God/. Of Zastrow nothing will now come; to Hardenberg his death is peace — Massow would already be styled minister, only Dohna has hitherto prevented it — from Rhoden Your Serene Highness will doubtless already have full intelligence concerning the 35000 rt., and be reassured.\n\nGrevenitz must have written to Your Serene Highness as well. He will certainly be vigilant and mindful of Your Highness's advantage. The old lady was, as Köckritz writes to me, very ill, but has recovered again; yet her length of life is doubted — In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nTwo divisions are marching from us against the\n\nTurks — who will command them?\n\nTomorrow I hasten to Konotop; on the 12th I go on to Streiten and from there to Poland. Kąntwicz[?]\n\n8th June 1810.\n\nmost faithful servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Trąbczyn soll bis spätestens Micheli zurückkommen, die Sequestration ist aufgehoben. Die Rechnungen von Honrichs und Frankiewicz, für die Brzechffa bürgt, prüft der Calculator Schneider. Hecker und Hawich sollen die veruntreuten 11700 Rthl beweisen. Hecker darf Administrator werden. Der Pächter Smidkowski will gleich etliche Tausend zahlen, um auf den Gütern zu bleiben. Die Dąbska ist beim König in Warschau mit ihrem Gesuch wegen Trąbczyn abgewiesen worden. Köckritz will die Papiere der Colonnaschen Sache schicken. Hardenberg soll das Schuldenwesen ordnen.",
  "reading": {

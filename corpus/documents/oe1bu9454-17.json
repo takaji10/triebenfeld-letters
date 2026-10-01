@@ -346,7 +346,240 @@
    "doc_line": 90
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "kleist",
+   "display": "Kleist",
+   "kind": "person",
+   "surface_de": "Kleist",
+   "surface_en": "Kleist",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "garczynski",
+   "display": "Garczynski",
+   "kind": "person",
+   "surface_de": "Garczynski",
+   "surface_en": "Garczynski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe",
+   "kind": "other",
+   "surface_de": "Hohenlohische",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Kleist",
+   "kind": "person",
+   "surface_de": "v. Kleist",
+   "surface_en": "von Kleist",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "cabanis",
+   "display": "Cabanis",
+   "kind": "person",
+   "surface_de": "Cabanis",
+   "surface_en": "Cabanis",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 1
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Chomanowski",
+   "kind": "person",
+   "surface_de": "v. Chomanowski",
+   "surface_en": "von Chomanowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Invalids'",
+   "kind": "other",
+   "surface_de": "Invaliden",
+   "surface_en": "Invalids'",
+   "page": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Bayonne",
+   "kind": "other",
+   "surface_de": "Bayonner",
+   "surface_en": "Bayonne",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 3
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Princes",
+   "kind": "other",
+   "surface_de": "Fürsten",
+   "surface_en": "Princes",
+   "page": 3
+  },
+  {
+   "entity": "sommer",
+   "display": "Sommer",
+   "kind": "person",
+   "surface_de": "Sommer",
+   "surface_en": "Sommer",
+   "page": 4
+  },
+  {
+   "entity": "sobottendorff",
+   "display": "Sobottendorff",
+   "kind": "person",
+   "surface_de": "Sobottendorff",
+   "surface_en": "Sobottendorff",
+   "page": 4
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Invalids' sum",
+   "kind": "other",
+   "surface_de": "Invaliden Summe",
+   "surface_en": "Invalids' sum",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "French",
+   "kind": "other",
+   "surface_de": "Französischen",
+   "surface_en": "French",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [
   {
@@ -427,9 +660,199 @@
    "doc_line": 52
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "17\n\nP[ro]. M[emoria].\n\nGeneral Kleist, during his stay at Kalisz, asked the prefect Count Garczynski how matters stood here with the Hohenlohe estates, and whether they were estates of any consequence — the prefect answered him that the estates were considerable, but that during the war period, and through the ruin of the rent-paying people, they were in great confusion, so that even dues were still in arrears — whereupon Mr von Kleist said: The Prince's sons told me in Berlin, Our father has never yet drawn a single Groschen from the estates — the councillor of war von Triebenfeld sits upon the estates, pockets all the income, and lets his favourites devour the rest. I am not [uncertain: lassen halten] but rather Cabanis, Hecker, Honrichs and the sequestrators were so before — the last of these Schenck works up, there everything must come to light, and Cabanis is now, in the presence of the komornik von Chomanowski, laying out his account, which he is himself to bring to you, my Prince. Neither I nor my sons could pass over the matter in silence; it has here been brought into publicity, and therefore I let it be investigated by the komornik von Chomanowski.\n\n26 June 1812",
+   "names": [
+    {
+     "de": "Kleist",
+     "en": "Kleist",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Garczynski",
+     "en": "Garczynski",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohische",
+     "en": "Hohenlohe",
+     "kind": "other"
+    },
+    {
+     "de": "v. Kleist",
+     "en": "von Kleist",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Cabanis",
+     "en": "Cabanis",
+     "kind": "person"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "v. Chomanowski",
+     "en": "von Chomanowski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17",
+    "26"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "On thanks and gain I never counted, but as for being branded an incendiary for all the cares and sufferings I have endured — as surely as there is a God, I will not bear that either. That you, my Prince, now and already these 6 years past draw nothing from the estates is true; but one must look here to where it pinches: the people are in part stiff-necked and do not pay much, but they are also already impoverished, and the houses stand empty. The rent arrears altogether amount, without the Oleśnica, Wrąbczyn and peasant holdings, to some 30000 Rthl; all in all certainly some 80 to 90/m Rthl. And are the capitals then — such as the Invalids', Weigel's and the Bayonne one, together with what stands upon Trąbczyn and what Your Serene Highness has drawn — to be reckoned as nothing? — If after all this there still remains to you a revenue of 14 to 1500 Rthl a year, and the Bayonne sum amortises itself, then truly you and your descendants cannot complain. That I should be reckoned up so — that is truly a cursed",
+   "names": [
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Invaliden",
+     "en": "Invalids'",
+     "kind": "other"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Bayonner",
+     "en": "Bayonne",
+     "kind": "other"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "6",
+    "30000",
+    "80",
+    "90/m",
+    "14",
+    "1500",
+    "50000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "thought. I have, God knows, been racked with lawsuits for what [is] hidden somewhere, I suffer want with my children, am worn down by sickness in [uncertain: misery], and such young gentlemen say in Berlin that I enrich myself here and put the money ad saccum. Altogether, a nasty gossip must be coming out of Sławięcice and out of that [uncertain: source] — I seek to preserve everything and strive to save it; I beg repeatedly that Your Serene Highness should not get involved with these people and should not trust them too much, but I am not heard. Thus Sommer has now again trumpeted about here that you have nothing at all left, and God knows what ways you are taking to obtain money; and especially that you have all of you, dear to the Princes, contracted 1,700000 Rthl of debts in burgher times, that you are thereby excluded from all inheritance, and that only 25000 Rthl a year is set aside for him for maintenance, but that this has all already been placed under arrest for the local debts, which likewise amounted to several hundred thousand.",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten",
+     "en": "Princes",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "1,700000",
+    "25000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "Were it true, then it is a bad thing to spread this abroad among people here; I seek not one thing only, always to send [forth] your honour, and also to defend and preserve your property. God will give me back my health; but may Heaven also [be] somewhat merciful. Do not send Sommer back here to me again, or the whole business will end tragically.\n\nNow I beg for a speedy answer concerning Sobottendorff, concerning Weigel and concerning the Invalids' sum; if these matters are so, then those who are out of all embarrassment can thereafter count with confidence upon a secure revenue — on the contrary, however, if this cannot be effected with the Invalids' Fund, all may be said to be lost.\n\nWith Weigel and Sobottendorff it will be seen to through me, if you so wish and Sobottendorff only comes here soon, to get the 50000 Rthl for the Invalids' Fund out of [uncertain: außen Siedort] out of the choice — for that is a matter of great worth. As to the instruction upon the decree of the French general [uncertain: Departements], and particularly the decree itself and the original receipt annexed thereto, I beg that Your Serene Highness will send the same, together with the answer on this matter, as speedily as possible [uncertain: Unzucht], for regarding the writing I lie truly wretched [uncertain: derein]\n\nvon Triebenfeld",
+   "names": [
+    {
+     "de": "Sommer",
+     "en": "Sommer",
+     "kind": "person"
+    },
+    {
+     "de": "Sobottendorff",
+     "en": "Sobottendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Summe",
+     "en": "Invalids' sum",
+     "kind": "other"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Französischen",
+     "en": "French",
+     "kind": "other"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "50000"
+   ]
+  }
+ ],
+ "text_english": "17\n\nP[ro]. M[emoria].\n\nGeneral Kleist, during his stay at Kalisz, asked the prefect Count Garczynski how matters stood here with the Hohenlohe estates, and whether they were estates of any consequence — the prefect answered him that the estates were considerable, but that during the war period, and through the ruin of the rent-paying people, they were in great confusion, so that even dues were still in arrears — whereupon Mr von Kleist said: The Prince's sons told me in Berlin, Our father has never yet drawn a single Groschen from the estates — the councillor of war von Triebenfeld sits upon the estates, pockets all the income, and lets his favourites devour the rest. I am not [uncertain: lassen halten] but rather Cabanis, Hecker, Honrichs and the sequestrators were so before — the last of these Schenck works up, there everything must come to light, and Cabanis is now, in the presence of the komornik von Chomanowski, laying out his account, which he is himself to bring to you, my Prince. Neither I nor my sons could pass over the matter in silence; it has here been brought into publicity, and therefore I let it be investigated by the komornik von Chomanowski.\n\n26 June 1812\n\nOn thanks and gain I never counted, but as for being branded an incendiary for all the cares and sufferings I have endured — as surely as there is a God, I will not bear that either. That you, my Prince, now and already these 6 years past draw nothing from the estates is true; but one must look here to where it pinches: the people are in part stiff-necked and do not pay much, but they are also already impoverished, and the houses stand empty. The rent arrears altogether amount, without the Oleśnica, Wrąbczyn and peasant holdings, to some 30000 Rthl; all in all certainly some 80 to 90/m Rthl. And are the capitals then — such as the Invalids', Weigel's and the Bayonne one, together with what stands upon Trąbczyn and what Your Serene Highness has drawn — to be reckoned as nothing? — If after all this there still remains to you a revenue of 14 to 1500 Rthl a year, and the Bayonne sum amortises itself, then truly you and your descendants cannot complain. That I should be reckoned up so — that is truly a cursed\n\nthought. I have, God knows, been racked with lawsuits for what [is] hidden somewhere, I suffer want with my children, am worn down by sickness in [uncertain: misery], and such young gentlemen say in Berlin that I enrich myself here and put the money ad saccum. Altogether, a nasty gossip must be coming out of Sławięcice and out of that [uncertain: source] — I seek to preserve everything and strive to save it; I beg repeatedly that Your Serene Highness should not get involved with these people and should not trust them too much, but I am not heard. Thus Sommer has now again trumpeted about here that you have nothing at all left, and God knows what ways you are taking to obtain money; and especially that you have all of you, dear to the Princes, contracted 1,700000 Rthl of debts in burgher times, that you are thereby excluded from all inheritance, and that only 25000 Rthl a year is set aside for him for maintenance, but that this has all already been placed under arrest for the local debts, which likewise amounted to several hundred thousand.\n\nWere it true, then it is a bad thing to spread this abroad among people here; I seek not one thing only, always to send [forth] your honour, and also to defend and preserve your property. God will give me back my health; but may Heaven also [be] somewhat merciful. Do not send Sommer back here to me again, or the whole business will end tragically.\n\nNow I beg for a speedy answer concerning Sobottendorff, concerning Weigel and concerning the Invalids' sum; if these matters are so, then those who are out of all embarrassment can thereafter count with confidence upon a secure revenue — on the contrary, however, if this cannot be effected with the Invalids' Fund, all may be said to be lost.\n\nWith Weigel and Sobottendorff it will be seen to through me, if you so wish and Sobottendorff only comes here soon, to get the 50000 Rthl for the Invalids' Fund out of [uncertain: außen Siedort] out of the choice — for that is a matter of great worth. As to the instruction upon the decree of the French general [uncertain: Departements], and particularly the decree itself and the original receipt annexed thereto, I beg that Your Serene Highness will send the same, together with the answer on this matter, as speedily as possible [uncertain: Unzucht], for regarding the writing I lie truly wretched [uncertain: derein]\n\nvon Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld wehrt sich gegen den Vorwurf, den General Kleist vor Prefect Graf Garczynski in Kalisz erhob: Die Söhne des Fürsten hätten in Berlin erzählt, Triebenfeld stecke alle Einkünfte ein. Er verweist auf Cabanis, Hecker, Honrichs und die Sequestratoren und lässt die Sache durch Komornik v. Chomanowski untersuchen. Die Zinsrückstände betrügen ohne die Olesnicer, Wrąbczyner und Bauerngüter an 30000 Rthl. Er beklagt Gerüchte Sommers über die Schulden des Fürsten und bittet um schnelle Antwort wegen Sobottendorff, Weigel und der Invaliden-Summe.",
  "reading": {

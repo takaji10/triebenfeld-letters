@@ -383,6 +383,9 @@ def already(letter_id, tag=None):
     return bool(pages) and all(isinstance(x, dict) and x.get('en') for x in pages)
 
 
+OFFICE_MARK = '[Vermerk der empfangenden Behörde:]'
+
+
 def german_for(rec):
     """The letter as the model sees it: reading text, page-delimited.
 
@@ -398,7 +401,18 @@ def german_for(rec):
         # to mirror that structure, so it has to be visible in what the
         # translator is given - `reading` is one flowed block and hid it, and the
         # English came back as one block too.
-        paras = [x.strip() for x in (p.get('paragraphs') or []) if x.strip()]
+        # Text the receiving office wrote on the letter (office_notes.yml) is
+        # announced by a line of its own, so the English can set it apart as the
+        # German page does instead of running it on as the writer's words.
+        office = set(p.get('office_paragraphs') or [])
+        paras, announced = [], False
+        for k, x in enumerate(p.get('paragraphs') or []):
+            if not x.strip():
+                continue
+            if k in office and not announced:
+                paras.append(OFFICE_MARK)
+                announced = True
+            paras.append(x.strip())
         body = ('\n\n'.join(paras)
                 or (p.get('reading') or p.get('diplomatic') or '')).strip()
         parts.append(f"=== PAGE {p['page']} ===\n{body}")
@@ -489,6 +503,27 @@ def user_block(rec, corr, g=None):
                     f"{lang}; the same rules apply.")
         if 'latin' in lang.lower():
             extra = latin_block(g)
+    if any(p.get('office_paragraphs') for p in rec['pages']):
+        meta.append(f"NOTE: the line `{OFFICE_MARK}` is the edition's own label, not "
+                    "manuscript text. What follows it on that page was written on the "
+                    "letter by the office that received it: received marks, journal "
+                    "numbers, directions for the reply, officials' paraphs. Render the "
+                    "label as a paragraph of its own, exactly `[Written by the receiving "
+                    "office:]`, and translate what follows it as office notes, not as "
+                    "part of the letter. Do not count the label among your markers.")
+    if lid in unitlib.load_tables(UNIT):
+        # The site shows such a document as a table in every view, and builds
+        # the English one from the rows that come back, so the shape has to
+        # survive: a row dropped or a comma moved puts a sum against the wrong
+        # creditor.
+        meta.append("NOTE: this document is a TABLE, transcribed as CSV: one row per "
+                    "line, cells separated by commas, a cell containing a comma in "
+                    "double quotes. Return each page's `en` as CSV of exactly the same "
+                    "shape: the same rows in the same order, the same number of cells "
+                    "in every row, no blank lines between rows. Translate the text "
+                    "cells (headings, descriptions of persons, closing rows); copy the "
+                    "entry numbers and every figure exactly as they stand, quoting "
+                    "included. Quote any English cell that contains a comma.")
     extra += reading_block(rec)
     return (f"{chr(10).join(meta)}{extra}\n\n"
             f"Translate the following, returning exactly {len(rec['pages'])} page "

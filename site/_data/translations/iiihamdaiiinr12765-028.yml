@@ -1,0 +1,83 @@
+status: draft
+segments:
+- page: 1
+  en: 'Copy of a report of Prince Zajączek to His Majesty the Emperor.
+
+
+    Sup. No. 2432. Warsaw, 23 May / 4 June 1819.
+
+
+    Sire, The Minister Secretary of State having, by his official letter of 1/13 April last, transmitted
+    to me the petition of Count Ernest Bethusy, by which the latter asks to be admitted, together with
+    his three sons, to the enjoyment of the benefits stipulated with regard to mixed proprietors by article
+    18 of the Treaty of Vienna, concluded with Prussia on 21 April / 3 May 1815, I hasten to lay at the
+    foot of Your Imperial and Royal Majesty''s throne the explanations which the Commission of the Interior
+    and of Police has just presented to me on this subject.
+
+
+    Count Bethusy possesses lands in the Kingdom of Poland and in Prussian Silesia; now the provisions
+    of the Treaty of Vienna concern only the inhabitants and proprietors of those countries whose separation
+    took'
+  names:
+  - de: Zajączek
+    en: Zajączek
+    kind: person
+  - de: Varsovie
+    en: Warsaw
+    kind: place
+  - de: Comte Ernest Bethusy
+    en: Ernest Bethusy, Count
+    kind: person
+  - de: Vienne
+    en: Vienna
+    kind: place
+  - de: la Prusse
+    en: Prussia
+    kind: place
+  - de: Royaume de Pologne
+    en: Kingdom of Poland
+    kind: place
+  - de: Silésie Prussienne
+    en: Prussian Silesia
+    kind: place
+  numbers:
+  - '2432'
+  - '23'
+  - '4'
+  - '1819'
+  - 1/13
+  - '18'
+  - '21'
+  - '3'
+  - '1815'
+- page: 2
+  en: 'place by virtue of that same Treaty, and in particular the benefits stipulated by article 18 can
+    be applied only to possessions cut through by the frontier line which separates the Kingdom of Poland
+    from the Grand Duchy of Posen.
+
+
+    It follows in consequence that the stipulations of the said Treaty could in no manner be interpreted
+    in favour of the petitioner.
+
+
+    Besides, in claiming the advantages granted to mixed proprietors, Count Bethusy appears to have in
+    view only the liberty of making from time to time transports of the iron ore which he possesses in
+    the Kingdom, for the needs of his forges in Silesia — a liberty which he enjoyed without restriction
+    under the Prussian Government, but which he could not recover in the present state of things, seeing
+    that the exportation of the said materials, as harmful to the interest of the country''s manufactories,
+    is absolutely prohibited by our customs regulations.'
+  names:
+  - de: Royaume de Pologne
+    en: Kingdom of Poland
+    kind: place
+  - de: Grand-Duché de Posen
+    en: Grand Duchy of Posen
+    kind: place
+  - de: Comte Bethusy
+    en: Bethusy, Count
+    kind: person
+  - de: Silésie
+    en: Silesia
+    kind: place
+  numbers:
+  - '18'

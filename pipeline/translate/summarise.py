@@ -147,6 +147,66 @@ Sie erhalten die englische Übersetzung eines Dokuments. Schreiben Sie EINEN Abs
   * Ist der Text zu beschädigt oder zu bruchstückhaft, sagen Sie knapp, was erhalten ist, statt Zusammenhang zu erfinden.
   * Sachlicher Ton. Nicht kommentieren, und Datum und Ausstellungsort nicht wiederholen - die Seite zeigt beides bereits an."""
 
+# --from-german: the unit already has checked German summaries, written from the
+# German and verified claim by claim (read_letters.py). Summarising afresh from
+# the English would be a second, unchecked reading, so the English summary is a
+# translation of the checked one.
+FROM_GERMAN = False
+
+SYSTEM_FROM_DE = """\
+{preamble}
+
+You will be given the German summary of one document. Each summary was checked, \
+claim by claim, against the document. Translate it into English. Do not summarise \
+again, and add or drop nothing: every person, place, sum and claim in the German \
+appears in the English, and nothing else does.
+
+  * One paragraph, plain modern English, neutral register. No word a reader \
+would have to look up.
+  * Titles, ranks, offices and technical terms go into English: the Fürst zu \
+Hohenlohe-Ingelfingen is the Prince of Hohenlohe-Ingelfingen, a Vollmacht is a \
+power of attorney, a Kriegsrath is a councillor of war. Only Rthl, Groschen, \
+Hufe and Morgen stay as they are.
+  * Figures exactly as given, including forms such as 112/m Rthl.
+  * Names of people and places exactly as the German spells them, unless the \
+list given with the summary says otherwise. That list is the edition's own \
+ruling and is not a judgement you are asked to make.
+  * The German reports what a writer says in the subjunctive (habe, sei, \
+werde). Keep that attribution in English: "he says the money has been paid", \
+not "the money has been paid".
+  * No em dashes. Use a comma, a colon, a semicolon or a full stop instead. A \
+dash between two FIGURES is a range and is correct: 8,000-9,000 Rthl."""
+
+
+def german_summaries(unit_slug):
+    """{pad: checked German summary} from units/<slug>/summaries_de.yml."""
+    unit = next(u for u in unitlib.load_units() if u.slug == unit_slug)
+    path = os.path.join(unit.dir, 'summaries_de.yml')
+    if not os.path.isfile(path):
+        sys.exit(f'no checked German summaries at {path}')
+    with open(path, encoding='utf-8') as f:
+        return {k: v.strip() for k, v in (yaml.safe_load(f) or {}).items() if v}
+
+
+def rulings_for(de):
+    """The termbase rows this one summary touches, as lines for the request.
+
+    The whole table is 35,000 characters and a summary is 500. Sent whole it is
+    most of the cost of the run, for the sake of the half dozen rows that apply.
+    """
+    g = termbase.load()
+    out = []
+    for sect, _head in termbase.SECTIONS:
+        for e in g.get(sect) or []:
+            render = (e.get('render') or '').strip()
+            if not render or not e.get('pattern'):
+                continue
+            if re.search(e['pattern'], de):
+                verb = 'keep as' if e.get('policy') == 'keep' else 'render as'
+                out.append(f"  {e['term']} -> {verb} `{render}`")
+    return out
+
+
 TOOL = {
     'name': 'submit_summary',
     'description': 'Return the one-paragraph summary of this letter.',
@@ -212,12 +272,18 @@ def system_prompt(unit=None):
     opening now comes from the unit, as the translator's does.
     """
     unit = unit or T.UNIT
+    if FROM_GERMAN:
+        return SYSTEM_FROM_DE.replace('{preamble}', T.unit_preamble(unit)) + banned_block()
     pre = T.unit_preamble(unit).replace('You are translating', 'You are summarising')
     base = (SYSTEM_DE if LANG == 'de' else SYSTEM).replace('{preamble}', pre)
     return base + banned_block()
 
 
 def user_block(rec, en):
+    if FROM_GERMAN:
+        rules = rulings_for(en)
+        return ((('RULINGS THAT APPLY:\n' + '\n'.join(rules) + '\n\n') if rules else '')
+                + 'GERMAN SUMMARY:\n' + en)
     kind = (rec.get('doc_type') or 'document').replace('_', ' ')
     meta = [f"{kind.capitalize()} {rec['letter_id']}"
             f" ({len(rec.get('pages') or [])} manuscript page(s))"]
@@ -225,7 +291,7 @@ def user_block(rec, en):
         meta.append(f"From: {rec['sender']}")
     if rec.get('recipient'):
         meta.append(f"To: {rec['recipient']}")
-    if kind not in ('letter', 'document') and len(rec.get('pages') or []) > 1:
+    if kind not in ('letter', 'draft', 'document') and len(rec.get('pages') or []) > 1:
         # A deed is a package: the instrument plus everything filed with it, and
         # a summary that describes only the first enclosure describes a fraction
         # of the record.
@@ -319,6 +385,10 @@ def main():
     ap.add_argument('--tag', default=None,
                     help='summarise from cache/translation-raw-<tag>, the way '
                          'translate.py and check_translations.py use --tag')
+    ap.add_argument('--from-german', action='store_true',
+                    help="translate the unit's checked German summaries "
+                         '(units/<slug>/summaries_de.yml) instead of summarising '
+                         'the English afresh')
     ap.add_argument('--redo', default='',
                     help='comma-separated pads to re-summarise, discarding the '
                          'cached summary for each')
@@ -328,6 +398,10 @@ def main():
     unitlib.check_translation_tag(UNIT_SLUG, a.tag, 'summarise from')
     set_lang(a.lang)
     set_translation_tag(a.tag)
+    if a.from_german:
+        if a.lang != 'en':
+            ap.error('--from-german writes the English summaries')
+        globals()['FROM_GERMAN'] = True
     for pad in [x.strip() for x in a.redo.split(',') if x.strip()]:
         f = os.path.join(OUT, pad + '.json')
         if os.path.isfile(f):
@@ -402,7 +476,14 @@ def main():
     todo = []
     # The translation cache is one flat directory for the whole project, and the
     # filename is the only identifier in it that carries the unit.
-    for fn in unitlib.scope_to_unit(sorted(os.listdir(RAW)), UNIT_SLUG):
+    if FROM_GERMAN:
+        # `en` carries the German summary here; user_block() knows.
+        for pad, de in sorted(german_summaries(UNIT_SLUG).items()):
+            rec = recs.get(pad)
+            if rec and str(rec['letter_id']) not in done:
+                todo.append((str(rec['letter_id']), rec, de))
+    for fn in ([] if FROM_GERMAN else
+               unitlib.scope_to_unit(sorted(os.listdir(RAW)), UNIT_SLUG)):
         if not fn.endswith('.json') or fn.startswith('_'):
             continue
         d = json.load(open(os.path.join(RAW, fn), encoding='utf-8'))
@@ -426,6 +507,9 @@ def main():
             print(system_prompt())
             print('\n--- first request ---')
             print(user_block(rec, en)[:900])
+            chars = sum(len(user_block(r, e)) for _l, r, e in todo)
+            print(f'\nrequests: {len(todo)}, {chars:,} chars in all besides '
+                  f'the system prompt')
         return
     if not todo:
         build()

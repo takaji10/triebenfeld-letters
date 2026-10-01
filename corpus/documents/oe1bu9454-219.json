@@ -126,7 +126,80 @@
    "doc_line": 30
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Wartensleben",
+   "kind": "person",
+   "surface_de": "Graf Wartensleben",
+   "surface_en": "Count Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count von Wartensleben",
+   "kind": "person",
+   "surface_de": "Graf v Wartensleben",
+   "surface_en": "Count von Wartensleben",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "stoessel",
+   "display": "Stössel",
+   "kind": "person",
+   "surface_de": "Stössel",
+   "surface_en": "Stössel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nysa",
+   "kind": "place",
+   "surface_de": "Neisse",
+   "surface_en": "Nysa",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Blizanow",
+   "kind": "place",
+   "surface_de": "Blizanow",
+   "surface_en": "Blizanow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dierschlag",
+   "kind": "person",
+   "surface_de": "Dierschlag",
+   "surface_en": "Dierschlag",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Blizanow",
  "place_mentions": [
   {
@@ -174,9 +247,67 @@
    "doc_line": 27
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "219\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nShould Your Serene Highness be pleased to approve the plan sent in, I most obediently beg to be instructed thereupon with the utmost speed, the more so as a certain medical councillor from Kalisz already stands in negotiation with the old Count Wartensleben — The advantage is evident, if in particular Weigel and Stössel could thereby be wholly satisfied. As soon as I know Your Serene Highness's resolution, I shall, if you enter into the plan, go to Nysa, and shall at once likewise take measures to exchange my Blizanow for that of the elder son of Count von Wartensleben, and shall then give them every assistance, so that they may satisfy their creditors for the greatest part and thereafter set themselves in quiet possession of the entailed estates.\n\nI should thank God in Heaven if the estates here could be got rid of in so honourable a fashion — The dues increase with every day and the distress grows greater; in the end murder and riot will arise, and all is lost or goes at last to ruin — Hasten therefore, most gracious Lord, to let me know your resolution soon; gladly will I work to bring the matter to the most desired goal.\n\nThe [uncertain: brint] from the embassy has died away — The inquiry had drawn most notice with the mortgage conservator, President Dierschlag — whether I had perhaps had moneys entered [in the mortgage book] and bought estates for myself therewith. My [text lost: \"Mein bis ihrem\"] philosophy of life has this time served me very well; all must be put out of tune, and because I would listen to Your [uncertain: Dein] chatter, thus one [uncertain: schiedig] and let that justice be done me which is my due — I beg once more for an early answer and, in deepest reverence, I remain, until death, Your Serene Highness's\n\nBlizanow, the 30th September\n\n1811\n\nfaithful and most obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Graf Wartensleben",
+     "en": "Count Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Graf v Wartensleben",
+     "en": "Count von Wartensleben",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Stössel",
+     "en": "Stössel",
+     "kind": "person"
+    },
+    {
+     "de": "Neisse",
+     "en": "Nysa",
+     "kind": "place"
+    },
+    {
+     "de": "Blizanow",
+     "en": "Blizanow",
+     "kind": "place"
+    },
+    {
+     "de": "Dierschlag",
+     "en": "Dierschlag",
+     "kind": "person"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "219",
+    "30",
+    "7br",
+    "1811"
+   ]
+  }
+ ],
+ "text_english": "219\n\nMost Serene Prince,\n\nMost gracious Prince and Lord!\n\nShould Your Serene Highness be pleased to approve the plan sent in, I most obediently beg to be instructed thereupon with the utmost speed, the more so as a certain medical councillor from Kalisz already stands in negotiation with the old Count Wartensleben — The advantage is evident, if in particular Weigel and Stössel could thereby be wholly satisfied. As soon as I know Your Serene Highness's resolution, I shall, if you enter into the plan, go to Nysa, and shall at once likewise take measures to exchange my Blizanow for that of the elder son of Count von Wartensleben, and shall then give them every assistance, so that they may satisfy their creditors for the greatest part and thereafter set themselves in quiet possession of the entailed estates.\n\nI should thank God in Heaven if the estates here could be got rid of in so honourable a fashion — The dues increase with every day and the distress grows greater; in the end murder and riot will arise, and all is lost or goes at last to ruin — Hasten therefore, most gracious Lord, to let me know your resolution soon; gladly will I work to bring the matter to the most desired goal.\n\nThe [uncertain: brint] from the embassy has died away — The inquiry had drawn most notice with the mortgage conservator, President Dierschlag — whether I had perhaps had moneys entered [in the mortgage book] and bought estates for myself therewith. My [text lost: \"Mein bis ihrem\"] philosophy of life has this time served me very well; all must be put out of tune, and because I would listen to Your [uncertain: Dein] chatter, thus one [uncertain: schiedig] and let that justice be done me which is my due — I beg once more for an early answer and, in deepest reverence, I remain, until death, Your Serene Highness's\n\nBlizanow, the 30th September\n\n1811\n\nfaithful and most obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld bittet dringend um Entscheidung über den eingesandten Plan, da ein Medicinal Rath aus Kalisz bereits mit dem alten Graf Wartensleben verhandelt. Der Vorteil sei klar, wenn Weigel und Stössel dadurch befriedigt würden. Bei Zustimmung will er nach Nysa reisen und sein Blizanow mit dem älteren Sohn Wartenslebens tauschen, um die Gläubiger zu befriedigen. Er klagt über steigende Abgaben und wachsende Not und fürchtet Mord und Aufruhr. Bei Präsident Dierschlag sei nachgefragt worden, ob er Güter gekauft habe.",
  "reading": {

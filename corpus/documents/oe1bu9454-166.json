@@ -176,7 +176,72 @@
    "doc_line": 95
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "v. Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betsche",
+   "surface_en": "Pszczew",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinerſche",
+   "surface_en": "Świniary",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 4
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -235,9 +300,102 @@
    "doc_line": 92
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "166\n\nMost Serene Prince\n\nMost gracious Lord!\n\nSoon I shall have to succumb after all to the [uncertain: nameless] intrigues of the finance department; that a minister should raise as many difficulties as Minister von Voss does in the business of dismemberment is unheard of. Several landed proprietors who dismembered as much as two years ago must restore everything again to the status quo, and are thereby brought to the beggar's staff. Here he has had everything inhibited, and to that end has ordered the Chamber to send a commission which is to examine whether everything has already been dismembered — whether it may not be possible to thwart this matter; in particular it is now to inquire precisely whether the principles have in any way been acted against; whether all the money has not been drawn off, and the public burdens (onera publica) therefore, as at Pszczew, were no longer covered.\n\nOn the presumption that this last would certainly be the case, everything was to be inhibited forthwith, and in that event the strictest measures taken. The commission departed today; I have indeed prevailed,",
+   "names": [
+    {
+     "de": "v. Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Betsche",
+     "en": "Pszczew",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "166",
+    "2",
+    "10"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "but money and health have been spent on it. I have meanwhile demonstrated that I have done nothing without the foreknowledge of the provincial authority,\n\n2. that I have acted strictly in accordance with the prescription,\n\n3. that everything is sold, so that without a complete derangement of the whole no annulment or reversal of the dismemberment could take place.\n\n4. that the most real revenues of the manorial lordship (Dominium) would now amount to 8 times as much as the revenues hitherto, whereby the public burdens (onera publica) would be covered tenfold.\n\n5. That His Serene Highness the Prince applied the entry moneys to nothing else than to the discharge of the debts which encumber the estates, in order to make the estates clear, and that\n\n6. These estates were to remain an entailed estate of the princely family, which last His Majesty had already most graciously sanctioned himself.\n\nThe commission has found all this substantiated, and has withdrawn the inhibition, the more so since with the old peasant too everything has already been concluded judicially, and since here as well it was not possible even for envy to find matter for founding new intrigues — The clear annual revenues acknowledged by the commission are 31000 Rthl. It had to determine this precisely in order to cover the public burdens (onera publica). This the Chamber will now confirm, and the",
+   "numbers": [
+    "2",
+    "3",
+    "4",
+    "8",
+    "5",
+    "6",
+    "31000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "finance department will grant us the concession for it — As soon as I receive this instrument, neither assessment nor anything further is needed, but one can quickly obtain 3 to 400000 Rthl upon it at any treasury, and then all distress is at an end.\n\nThe 180850 Rthl still to come in can then be taken for the extinction of all the household and other debts. The only fatal thing is merely the accursed procrastination, for in the first moment all the purchasers ran off once that cursed inhibition became known, and I must now strike very gentle notes so that I may entice the people back again. Enough: Your Serene Highness will come happily through with the dismemberment, and will in a few years be [uncertain: free of the village mayor's dues] here — for if for several years together you assign the revenues to the absorption of the debts of the estates here, then in 9 years the estates will be quite clear, will yield you a revenue of 40/m Rthl, and you will besides draw out of the estates, little by little, a capital of 220000 Rthl — this I believe I can now assure Your Serene Highness firmly and solemnly. But now, most gracious Lord, I am worn out — I have laboured with truly glowing zeal, and every man who knows the matter marvels at this thing brought so far. I cannot hold out here any longer — both my health and my fortune are being spent on it, and I shall leave beggars behind me — Also for some time past one misfortune after another has struck",
+   "numbers": [
+    "3",
+    "400000",
+    "180850",
+    "9",
+    "40/m",
+    "220000"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "Thus in the last couple of months I have lost 2 lawsuits which cost me some 6000 Rthl.\n\nIn another I am held in contumacy, and shall have trouble to redress the same and to save a further 6000 Rthl. Today I receive the news that the hail has beaten down everything on my Świniary estates; there I shall again have some 5000 Rthl of damage. At Konotop, as I hear this very moment, a tenant has become insolvent; there I suffer a further 2500 Rthl of loss — in a short time this comes to 19500 Rthl. It is as though all blessing had departed from there and had followed me hither. Now I must go back to save what is there, for otherwise I go to ruin.\n\nI tremble, to be sure, when I go away from here and let the guiding thread out of my hands, that everything will come to a standstill again — but necessity presses me — I must hasten for some time to Świniary and Konotop, for otherwise I risk a new and still greater loss.\n\nSince everything here is understood, I shall instruct Schenck and a few more people to collect in the moneys. But I cannot vouch for it whether the people will hold to the execution of my dispositions with the same zeal, because every brute would far too gladly see the affairs continue in confusion through a whole generation, as has otherwise happened. In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nTrąbczyn, the 29th of July\n\n1805.\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Schweinerſche",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "6000",
+    "6000",
+    "5000",
+    "2500",
+    "19500",
+    "29",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "166\n\nMost Serene Prince\n\nMost gracious Lord!\n\nSoon I shall have to succumb after all to the [uncertain: nameless] intrigues of the finance department; that a minister should raise as many difficulties as Minister von Voss does in the business of dismemberment is unheard of. Several landed proprietors who dismembered as much as two years ago must restore everything again to the status quo, and are thereby brought to the beggar's staff. Here he has had everything inhibited, and to that end has ordered the Chamber to send a commission which is to examine whether everything has already been dismembered — whether it may not be possible to thwart this matter; in particular it is now to inquire precisely whether the principles have in any way been acted against; whether all the money has not been drawn off, and the public burdens (onera publica) therefore, as at Pszczew, were no longer covered.\n\nOn the presumption that this last would certainly be the case, everything was to be inhibited forthwith, and in that event the strictest measures taken. The commission departed today; I have indeed prevailed,\n\nbut money and health have been spent on it. I have meanwhile demonstrated that I have done nothing without the foreknowledge of the provincial authority,\n\n2. that I have acted strictly in accordance with the prescription,\n\n3. that everything is sold, so that without a complete derangement of the whole no annulment or reversal of the dismemberment could take place.\n\n4. that the most real revenues of the manorial lordship (Dominium) would now amount to 8 times as much as the revenues hitherto, whereby the public burdens (onera publica) would be covered tenfold.\n\n5. That His Serene Highness the Prince applied the entry moneys to nothing else than to the discharge of the debts which encumber the estates, in order to make the estates clear, and that\n\n6. These estates were to remain an entailed estate of the princely family, which last His Majesty had already most graciously sanctioned himself.\n\nThe commission has found all this substantiated, and has withdrawn the inhibition, the more so since with the old peasant too everything has already been concluded judicially, and since here as well it was not possible even for envy to find matter for founding new intrigues — The clear annual revenues acknowledged by the commission are 31000 Rthl. It had to determine this precisely in order to cover the public burdens (onera publica). This the Chamber will now confirm, and the\n\nfinance department will grant us the concession for it — As soon as I receive this instrument, neither assessment nor anything further is needed, but one can quickly obtain 3 to 400000 Rthl upon it at any treasury, and then all distress is at an end.\n\nThe 180850 Rthl still to come in can then be taken for the extinction of all the household and other debts. The only fatal thing is merely the accursed procrastination, for in the first moment all the purchasers ran off once that cursed inhibition became known, and I must now strike very gentle notes so that I may entice the people back again. Enough: Your Serene Highness will come happily through with the dismemberment, and will in a few years be [uncertain: free of the village mayor's dues] here — for if for several years together you assign the revenues to the absorption of the debts of the estates here, then in 9 years the estates will be quite clear, will yield you a revenue of 40/m Rthl, and you will besides draw out of the estates, little by little, a capital of 220000 Rthl — this I believe I can now assure Your Serene Highness firmly and solemnly. But now, most gracious Lord, I am worn out — I have laboured with truly glowing zeal, and every man who knows the matter marvels at this thing brought so far. I cannot hold out here any longer — both my health and my fortune are being spent on it, and I shall leave beggars behind me — Also for some time past one misfortune after another has struck\n\nThus in the last couple of months I have lost 2 lawsuits which cost me some 6000 Rthl.\n\nIn another I am held in contumacy, and shall have trouble to redress the same and to save a further 6000 Rthl. Today I receive the news that the hail has beaten down everything on my Świniary estates; there I shall again have some 5000 Rthl of damage. At Konotop, as I hear this very moment, a tenant has become insolvent; there I suffer a further 2500 Rthl of loss — in a short time this comes to 19500 Rthl. It is as though all blessing had departed from there and had followed me hither. Now I must go back to save what is there, for otherwise I go to ruin.\n\nI tremble, to be sure, when I go away from here and let the guiding thread out of my hands, that everything will come to a standstill again — but necessity presses me — I must hasten for some time to Świniary and Konotop, for otherwise I risk a new and still greater loss.\n\nSince everything here is understood, I shall instruct Schenck and a few more people to collect in the moneys. But I cannot vouch for it whether the people will hold to the execution of my dispositions with the same zeal, because every brute would far too gladly see the affairs continue in confusion through a whole generation, as has otherwise happened. In deepest reverence I remain, until death,\n\nYour Serene Highness's\n\nTrąbczyn, the 29th of July\n\n1805.\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Minister Voss hatte die Dismembration in Trąbczyn inhibieren lassen. Triebenfeld berichtet, die Kommission der Kammer habe seine Nachweise bestätigt und die Inhibition zurückgenommen. Die reinen Jahreseinkünfte wurden auf 31000 Rthl festgestellt. Nach der Konzession hofft er auf Kredit von 3 bis 400000 Rthl und will die ausstehenden 180850 Rthl zur Schuldentilgung verwenden. Die Käufer sind jedoch abgesprungen. Wegen eigener Verluste von 19500 Rthl muss er nach Świniary und Konotop. Schenck soll inzwischen die Gelder einnehmen.",
  "reading": {

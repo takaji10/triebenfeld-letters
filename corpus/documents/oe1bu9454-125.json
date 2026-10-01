@@ -71,7 +71,32 @@
    "doc_line": 12
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Oleśnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -97,9 +122,37 @@
    "doc_line": 11
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "125 To His Most Serene Highness. The people from Oleśnica have arrived with the monies — they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon — I believe it will not be displeasing to Your Serene Highness. Wrocław, the 28th of April 1804. v. Triebenfeld",
+   "names": [
+    {
+     "de": "Olesnica",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "125",
+    "4",
+    "28",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "125 To His Most Serene Highness. The people from Oleśnica have arrived with the monies — they wish to be with Your Most Serene Highness at 4 o'clock. I have negotiated something with them here, upon which I shall make my report to Your Serene Highness this afternoon — I believe it will not be displeasing to Your Serene Highness. Wrocław, the 28th of April 1804. v. Triebenfeld",
  "summary_en": "",
  "summary_de": "Meldet, dass die Leute aus Oleśnica mit den Geldern angekommen sind und um 4 Uhr beim Fürsten erscheinen wollen. v. Triebenfeld hat bereits mit ihnen verhandelt. Er will dem Fürsten am Nachmittag darüber Vortrag halten und glaubt, es werde ihm nicht unlieb sein.",
  "reading": {

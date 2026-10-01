@@ -468,7 +468,312 @@
    "doc_line": 103
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "von Voss",
+   "surface_en": "von Voss",
+   "page": 1
+  },
+  {
+   "entity": "schulenburg",
+   "display": "Schulenburg",
+   "kind": "person",
+   "surface_de": "Schulemburg",
+   "surface_en": "Schulemburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wölner",
+   "kind": "person",
+   "surface_de": "Wölners",
+   "surface_en": "Wölner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Schulemburg",
+   "kind": "person",
+   "surface_de": "v. Schulemburg",
+   "surface_en": "von Schulemburg",
+   "page": 1
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Voss",
+   "kind": "person",
+   "surface_de": "v Voss",
+   "surface_en": "von Voss",
+   "page": 2
+  },
+  {
+   "entity": "struensee",
+   "display": "Struensee",
+   "kind": "person",
+   "surface_de": "Struensee",
+   "surface_en": "Struensee",
+   "page": 2
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Schulze daughter",
+   "kind": "person",
+   "surface_de": "Schulzische Tochter",
+   "surface_en": "the Schulze daughter",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Klewitz",
+   "kind": "person",
+   "surface_de": "Klewitz",
+   "surface_en": "Klewitz",
+   "page": 2
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Treskow",
+   "kind": "person",
+   "surface_de": "Treskow",
+   "surface_en": "Treskow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Potsdam",
+   "kind": "place",
+   "surface_de": "Potsdam",
+   "surface_en": "Potsdam",
+   "page": 3
+  },
+  {
+   "entity": "beyme",
+   "display": "Beyme",
+   "kind": "person",
+   "surface_de": "Beyme",
+   "surface_en": "Beyme",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Brandhorst",
+   "kind": "person",
+   "surface_de": "Brandhorst",
+   "surface_en": "Brandhorst",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Zastrow",
+   "kind": "person",
+   "surface_de": "v. Zastrow",
+   "surface_en": "von Zastrow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Struensee",
+   "kind": "person",
+   "surface_de": "v. Struensee",
+   "surface_en": "von Struensee",
+   "page": 3
+  },
+  {
+   "entity": "haugwitz",
+   "display": "Haugwitz",
+   "kind": "person",
+   "surface_de": "Haugwitz",
+   "surface_en": "Haugwitz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Sudpreußen",
+   "surface_en": "South Prussia",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Russians",
+   "kind": "other",
+   "surface_de": "Rußen",
+   "surface_en": "Russians",
+   "page": 3
+  },
+  {
+   "entity": "schulenburg",
+   "display": "Schulenburg",
+   "kind": "person",
+   "surface_de": "Schulemburg",
+   "surface_en": "Schulemburg",
+   "page": 3
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 3
+  },
+  {
+   "entity": "struensee",
+   "display": "Struensee",
+   "kind": "person",
+   "surface_de": "Struensee",
+   "surface_en": "Struensee",
+   "page": 3
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Goldbeck",
+   "kind": "person",
+   "surface_de": "Goldbeck",
+   "surface_en": "Goldbeck",
+   "page": 3
+  },
+  {
+   "entity": "schulenburg",
+   "display": "Schulenburg",
+   "kind": "person",
+   "surface_de": "Schulenburg",
+   "surface_en": "Schulenburg",
+   "page": 3
+  },
+  {
+   "entity": "schulenburg",
+   "display": "Schulenburg",
+   "kind": "person",
+   "surface_de": "Schulemburg",
+   "surface_en": "Schulemburg",
+   "page": 4
+  },
+  {
+   "entity": "struensee",
+   "display": "Struensee",
+   "kind": "person",
+   "surface_de": "Struensee",
+   "surface_en": "Struensee",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Struensee's party",
+   "kind": "other",
+   "surface_de": "Stru-Parthe",
+   "surface_en": "Struensee's party",
+   "page": 4
+  },
+  {
+   "entity": "hoym",
+   "display": "Hoym",
+   "kind": "person",
+   "surface_de": "Hoym",
+   "surface_en": "Hoym",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Krotoszyn",
+   "kind": "place",
+   "surface_de": "Krot[oszyn]",
+   "surface_en": "Krotoszyn",
+   "page": 4
+  },
+  {
+   "entity": "michaelis",
+   "display": "Michaelis",
+   "kind": "person",
+   "surface_de": "Michaelis",
+   "surface_en": "Michaelis",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "v. Triebenfeld",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "the Princess Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten Sacken",
+   "surface_en": "the Princess Sacken",
+   "page": 4
+  },
+  {
+   "entity": "haugwitz",
+   "display": "Haugwitz",
+   "kind": "person",
+   "surface_de": "Haugwitz",
+   "surface_en": "Haugwitz",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -516,9 +821,244 @@
    "doc_line": 98
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "79\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nWith the most conceivable longing I now await the report of His Excellency the Minister of State von Voss. May Heaven only govern the heart of this misanthrope, that in this matter, which lies closer to my heart than anything, he put no stroke through it. The Minister General Schulemburg has declared himself very willing, and as I firmly believe no obstacle will stand in the way of the good cause from that quarter. In the end it comes into his hands, for the moneys flow into the Disposition Fund, which, after the decease of the former Minister Wölner, has been transferred to Count von Schulemburg. The Minister Count Hoym has today been summoned to Potsdam, whither he departed at 8 o'clock in the morning — I have therefore given him [uncertain: notice] of the whole affair, since it might easily happen that His Royal Majesty might put it to him concerning those estates which he had so long under his disposition. He has given me his word to do everything in that regard, and I believe he is in earnest — for he said that he would gladly see it very much for that reason, because then his vexation would be lifted, that he for Your Serene Highness",
+   "names": [
+    {
+     "de": "von Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Schulemburg",
+     "en": "Schulemburg",
+     "kind": "person"
+    },
+    {
+     "de": "Wölners",
+     "en": "Wölner",
+     "kind": "person"
+    },
+    {
+     "de": "v. Schulemburg",
+     "en": "von Schulemburg",
+     "kind": "person"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "79",
+    "8",
+    "1798"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "brought Your Serene Highness's estates into proposal, in which he had not beforehand been instructed by cabinet order. He said that Mr von Voss had already taken offence at it, and that he would gladly give 1000 rt. if the matter were soon brought to a conclusion — The Minister Struensee has also had [uncertain: notice] of the matter; he will truly not be opposed — the Cabinet Councillor Beyme told him so himself, and, frankly said, this gives me the most courage — for if the King did not mean quite seriously with the matter, one would not speak of it, for once the matter comes among men, it must absolutely happen. And in substance this is already very much the case. Meanwhile I hope besides that the matter will go quite in the best way. And the fellows must after all do something for their 12 Rthl — the division of this sum I now know approximately: the Schulze daughter, who has a great ascendancy over her father, receives 2500 rt.; Klewitz 3000 rt.; the Court Fiscal Michaelis 300 ducats — the rest the X spider shares with Treskow. Michaelis, meanwhile, is a fine fellow; he had the assurance already and",
+   "names": [
+    {
+     "de": "v Voss",
+     "en": "von Voss",
+     "kind": "person"
+    },
+    {
+     "de": "Struensee",
+     "en": "Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Schulzische Tochter",
+     "en": "the Schulze daughter",
+     "kind": "person"
+    },
+    {
+     "de": "Klewitz",
+     "en": "Klewitz",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Treskow",
+     "en": "Treskow",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1000",
+    "12",
+    "2500",
+    "3000",
+    "300"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "nevertheless dissembled so — Let him do meanwhile as pleases him, if Your Serene Highness obtain all that I wish. At Potsdam all certainly goes well — I have there a Cabinet Secretary who is with Beyme, engaged together with Brandhorst; these will report not only now but in future everything of importance that occurs. It costs, however, 200 fr d'or —\n\nNow something of political matters — The King struggles mightily against the war —\n\nMr von Köckritz and von Zastrow are likewise against it; pre-eminently the Minister von Struensee contends against it here — Count Haugwitz seems to be stuck in a mighty embarrassment; he has already asked me once what I heard from South Prussia, whether no certain news of the march of the Russians were to be heard — as I observe, this seems to be the chief signal — but General Schulemburg absolutely wants war. He flatters the Minister Hoym for that purpose, and according to the latter's utterances today he will advise for war in the finest manner possible — for he reckons in that way to be rid of the Minister Schulemburg — this last is much incensed at Struensee, since he advises against the war and always puts it off that there is no money — indeed he is said to have said outright, in which Goldbeck also concurs — the Count Schulenburg led the late blessed Lord into that",
+   "names": [
+    {
+     "de": "Potsdam",
+     "en": "Potsdam",
+     "kind": "place"
+    },
+    {
+     "de": "Beyme",
+     "en": "Beyme",
+     "kind": "person"
+    },
+    {
+     "de": "Brandhorst",
+     "en": "Brandhorst",
+     "kind": "person"
+    },
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "v. Zastrow",
+     "en": "von Zastrow",
+     "kind": "person"
+    },
+    {
+     "de": "v. Struensee",
+     "en": "von Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Haugwitz",
+     "en": "Haugwitz",
+     "kind": "person"
+    },
+    {
+     "de": "Sudpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Rußen",
+     "en": "Russians",
+     "kind": "other"
+    },
+    {
+     "de": "Schulemburg",
+     "en": "Schulemburg",
+     "kind": "person"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Struensee",
+     "en": "Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "Goldbeck",
+     "en": "Goldbeck",
+     "kind": "person"
+    },
+    {
+     "de": "Schulenburg",
+     "en": "Schulenburg",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "200"
+   ]
+  },
+  {
+   "page": 4,
+   "en": "unfortunate war, and thereby placed our house in the most sorrowful situation; he will now do it more clumsily than before — But this might now bring [uncertain: the week] after it, that Count Schulemburg persuades the King that the whole Customs, Excise and Salt Directorate is not necessary, that the [uncertain: widow] costs of the persons which the King could spare, that he should subordinate this business, as it formerly was, under the old provincial boards, which must attend to it ex officio — Count Hoym concurs in this and would gladly overthrow Struensee along with it. I have today begged him to go about the work cautiously in loosing off other men's arrows — since he could thereby be placed in a quite ugly light, the more so as Colonel von Köckritz now takes Struensee's party — Otherwise the Minister Hoym now stands very well noted, and if he conducts himself well he can play the best part. I shall remain here so long until the Krotoszyn affair is here brought to a clear issue — for I see well that if one wishes to know something accomplished, one must remain on the spot oneself. Besides this I am negotiating 120/m Rthl back out of the Widows' Fund upon my own estates, so that, if it be required, money may not be wanting in the arranging of the exchange of estates — Michaelis is justiciary at this institution — it depends on him, and since he offered me his good services, I will profit of it in that manner — For the blanks I beg repeatedly, and I remain, until death, in deep submission Your Most Serene Highness's\n\nBerlin, the 8th of October\n\n1798.\n\nmost humble and faithful servant\n\nv. Triebenfeld\n\nHer Serene Highness the Princess Sacken was extremely glad yesterday over the news; but she reviles the Minister Haugwitz greatly — he was in company with the Princess and did not excuse himself [illegible] for his rudeness; I do not trust the hero — he certainly does not do [uncertain: at the reckoning] the least for Your Serene Highness, and lies to Your Serene Highness and to the good King —",
+   "names": [
+    {
+     "de": "Schulemburg",
+     "en": "Schulemburg",
+     "kind": "person"
+    },
+    {
+     "de": "Struensee",
+     "en": "Struensee",
+     "kind": "person"
+    },
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Stru-Parthe",
+     "en": "Struensee's party",
+     "kind": "other"
+    },
+    {
+     "de": "Hoym",
+     "en": "Hoym",
+     "kind": "person"
+    },
+    {
+     "de": "Krot[oszyn]",
+     "en": "Krotoszyn",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelis",
+     "en": "Michaelis",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "v. Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Sacken",
+     "en": "the Princess Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Haugwitz",
+     "en": "Haugwitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "1798",
+    "120/m"
+   ]
+  }
+ ],
+ "text_english": "79\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nWith the most conceivable longing I now await the report of His Excellency the Minister of State von Voss. May Heaven only govern the heart of this misanthrope, that in this matter, which lies closer to my heart than anything, he put no stroke through it. The Minister General Schulemburg has declared himself very willing, and as I firmly believe no obstacle will stand in the way of the good cause from that quarter. In the end it comes into his hands, for the moneys flow into the Disposition Fund, which, after the decease of the former Minister Wölner, has been transferred to Count von Schulemburg. The Minister Count Hoym has today been summoned to Potsdam, whither he departed at 8 o'clock in the morning — I have therefore given him [uncertain: notice] of the whole affair, since it might easily happen that His Royal Majesty might put it to him concerning those estates which he had so long under his disposition. He has given me his word to do everything in that regard, and I believe he is in earnest — for he said that he would gladly see it very much for that reason, because then his vexation would be lifted, that he for Your Serene Highness\n\nbrought Your Serene Highness's estates into proposal, in which he had not beforehand been instructed by cabinet order. He said that Mr von Voss had already taken offence at it, and that he would gladly give 1000 rt. if the matter were soon brought to a conclusion — The Minister Struensee has also had [uncertain: notice] of the matter; he will truly not be opposed — the Cabinet Councillor Beyme told him so himself, and, frankly said, this gives me the most courage — for if the King did not mean quite seriously with the matter, one would not speak of it, for once the matter comes among men, it must absolutely happen. And in substance this is already very much the case. Meanwhile I hope besides that the matter will go quite in the best way. And the fellows must after all do something for their 12 Rthl — the division of this sum I now know approximately: the Schulze daughter, who has a great ascendancy over her father, receives 2500 rt.; Klewitz 3000 rt.; the Court Fiscal Michaelis 300 ducats — the rest the X spider shares with Treskow. Michaelis, meanwhile, is a fine fellow; he had the assurance already and\n\nnevertheless dissembled so — Let him do meanwhile as pleases him, if Your Serene Highness obtain all that I wish. At Potsdam all certainly goes well — I have there a Cabinet Secretary who is with Beyme, engaged together with Brandhorst; these will report not only now but in future everything of importance that occurs. It costs, however, 200 fr d'or —\n\nNow something of political matters — The King struggles mightily against the war —\n\nMr von Köckritz and von Zastrow are likewise against it; pre-eminently the Minister von Struensee contends against it here — Count Haugwitz seems to be stuck in a mighty embarrassment; he has already asked me once what I heard from South Prussia, whether no certain news of the march of the Russians were to be heard — as I observe, this seems to be the chief signal — but General Schulemburg absolutely wants war. He flatters the Minister Hoym for that purpose, and according to the latter's utterances today he will advise for war in the finest manner possible — for he reckons in that way to be rid of the Minister Schulemburg — this last is much incensed at Struensee, since he advises against the war and always puts it off that there is no money — indeed he is said to have said outright, in which Goldbeck also concurs — the Count Schulenburg led the late blessed Lord into that\n\nunfortunate war, and thereby placed our house in the most sorrowful situation; he will now do it more clumsily than before — But this might now bring [uncertain: the week] after it, that Count Schulemburg persuades the King that the whole Customs, Excise and Salt Directorate is not necessary, that the [uncertain: widow] costs of the persons which the King could spare, that he should subordinate this business, as it formerly was, under the old provincial boards, which must attend to it ex officio — Count Hoym concurs in this and would gladly overthrow Struensee along with it. I have today begged him to go about the work cautiously in loosing off other men's arrows — since he could thereby be placed in a quite ugly light, the more so as Colonel von Köckritz now takes Struensee's party — Otherwise the Minister Hoym now stands very well noted, and if he conducts himself well he can play the best part. I shall remain here so long until the Krotoszyn affair is here brought to a clear issue — for I see well that if one wishes to know something accomplished, one must remain on the spot oneself. Besides this I am negotiating 120/m Rthl back out of the Widows' Fund upon my own estates, so that, if it be required, money may not be wanting in the arranging of the exchange of estates — Michaelis is justiciary at this institution — it depends on him, and since he offered me his good services, I will profit of it in that manner — For the blanks I beg repeatedly, and I remain, until death, in deep submission Your Most Serene Highness's\n\nBerlin, the 8th of October\n\n1798.\n\nmost humble and faithful servant\n\nv. Triebenfeld\n\nHer Serene Highness the Princess Sacken was extremely glad yesterday over the news; but she reviles the Minister Haugwitz greatly — he was in company with the Princess and did not excuse himself [illegible] for his rudeness; I do not trust the hero — he certainly does not do [uncertain: at the reckoning] the least for Your Serene Highness, and lies to Your Serene Highness and to the good King —",
  "summary_en": "",
  "summary_de": "Triebenfeld wartet auf den Bericht des Ministers von Voss zum Güter Tausch und bleibt in Berlin, bis die Krotoszyn Sache geregelt ist. Schulenburg und Hoym seien der Sache gewogen, Hoym wolle 1000 Rthl geben, wenn die Sache bald zustande käme. Er nennt die Verteilung der Summe: Schulzes Tochter 2500 Rthl, Klewitz 3000 Rthl, Michaelis 300 Ducaten. Er will 120/m Rthl aus der Wittwen Casse aufnehmen, berichtet über den Streit am Hof um einen Krieg und bittet um die Blanquets.",
  "reading": {

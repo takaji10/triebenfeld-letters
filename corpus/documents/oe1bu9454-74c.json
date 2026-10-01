@@ -168,7 +168,144 @@
    "doc_line": 18
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Royal Minister of State and of Justice, Mr von Kircheisen",
+   "kind": "person",
+   "surface_de": "Königl. Staats und Justiz Minister Herr von Kircheisen",
+   "surface_en": "the Royal Minister of State and of Justice, Mr von Kircheisen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lady Princess von Sacken",
+   "kind": "person",
+   "surface_de": "Frau Furstin von Sacken",
+   "surface_en": "Lady Princess von Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Gen[eral]: Invaliden Casse",
+   "surface_en": "General Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Superior Court of Justice",
+   "kind": "other",
+   "surface_de": "König Kammergericht",
+   "surface_en": "Royal Superior Court of Justice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Lord Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Herr Fürst von Hohenlohe Ingelfingen",
+   "surface_en": "Lord Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince von Sacken",
+   "kind": "person",
+   "surface_de": "Fürsten von Sacken",
+   "surface_en": "Prince von Sacken",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Councillor of War and Forests von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Krieges und Forst Rath von Triebenfeld",
+   "surface_en": "Councillor of War and Forests von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zielona Góra",
+   "kind": "place",
+   "surface_de": "Grüneberg",
+   "surface_en": "Zielona Góra",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Prussian Superior Court of Justice",
+   "kind": "other",
+   "surface_de": "Königl. Preuß. Kammergericht",
+   "surface_en": "Royal Prussian Superior Court of Justice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Chief Medical Councillor Mr Cosmar",
+   "kind": "person",
+   "surface_de": "Königl. Ober Medicinal Rath Herr Cosmar",
+   "surface_en": "Royal Chief Medical Councillor Mr Cosmar",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Superior Court of Justice at Berlin",
+   "kind": "other",
+   "surface_de": "Königl. Cammer-Gerichts zu Berlin",
+   "surface_en": "Royal Superior Court of Justice at Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Invalids' Fund",
+   "kind": "other",
+   "surface_de": "General Invaliden Caße",
+   "surface_en": "General Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Głogów",
+   "kind": "place",
+   "surface_de": "Glogau",
+   "surface_en": "Głogów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Prussian Superior Provincial Court of Silesia",
+   "kind": "other",
+   "surface_de": "Königl. Preußl. Ober Landes Gericht von Schlesien",
+   "surface_en": "Royal Prussian Superior Provincial Court of Silesia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fülleborn",
+   "kind": "person",
+   "surface_de": "Fülleborn",
+   "surface_en": "Fülleborn",
+   "page": 1
+  }
+ ],
  "place_canonical": "Glogau",
  "place_mentions": [
   {
@@ -260,9 +397,111 @@
    "doc_line": 26
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The Royal Minister of State and of Justice, Mr von Kircheisen, is hereby called upon, as executor of the will of the deceased Lady Princess von Sacken, in the event that the assertion advanced by the General Invalids' Fund in its complaint lodged with the Royal Superior Court of Justice on the 30th of last month — \"that the Lord Prince of Hohenlohe-Ingelfingen was to receive a legacy of 80000 rt out of the estate of the Prince von Sacken, and has assigned the same to the Councillor of War and Forests von Triebenfeld at Konotop near Zielona Góra in satisfaction of the latter's claims upon him\" — should prove to be well founded, to pay out nothing of this sum to the said von Triebenfeld, at his own responsibility.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Superior Court of Justice.\n\nTo the Royal Minister of State and of Justice, Mr von Kircheisen.\n\nin the like terms\n\nTo the Royal Chief Medical Councillor Mr Cosmar here. To the Councillor of War and Forests Mr von Triebenfeld at Konotop.\n\nNo. 1103.\n\nWe herewith cause to be transmitted to you a summons of the Royal Superior Court of Justice at Berlin of the 1st of the current month in the matter of the General Invalids' Fund against you, with the command to render in all respects the obedience due to the contents thereof, and to certify in full the due receipt of the same upon the copy to be laid before you for that purpose. Głogów, the 6th of August 1811. Royal Prussian Superior Provincial Court of Silesia. Fülleborn",
+   "names": [
+    {
+     "de": "Königl. Staats und Justiz Minister Herr von Kircheisen",
+     "en": "the Royal Minister of State and of Justice, Mr von Kircheisen",
+     "kind": "person"
+    },
+    {
+     "de": "Frau Furstin von Sacken",
+     "en": "Lady Princess von Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Gen[eral]: Invaliden Casse",
+     "en": "General Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "König Kammergericht",
+     "en": "Royal Superior Court of Justice",
+     "kind": "other"
+    },
+    {
+     "de": "Herr Fürst von Hohenlohe Ingelfingen",
+     "en": "Lord Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten von Sacken",
+     "en": "Prince von Sacken",
+     "kind": "person"
+    },
+    {
+     "de": "Krieges und Forst Rath von Triebenfeld",
+     "en": "Councillor of War and Forests von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "Grüneberg",
+     "en": "Zielona Góra",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Königl. Preuß. Kammergericht",
+     "en": "Royal Prussian Superior Court of Justice",
+     "kind": "other"
+    },
+    {
+     "de": "Königl. Ober Medicinal Rath Herr Cosmar",
+     "en": "Royal Chief Medical Councillor Mr Cosmar",
+     "kind": "person"
+    },
+    {
+     "de": "Königl. Cammer-Gerichts zu Berlin",
+     "en": "Royal Superior Court of Justice at Berlin",
+     "kind": "other"
+    },
+    {
+     "de": "General Invaliden Caße",
+     "en": "General Invalids' Fund",
+     "kind": "other"
+    },
+    {
+     "de": "Glogau",
+     "en": "Głogów",
+     "kind": "place"
+    },
+    {
+     "de": "Königl. Preußl. Ober Landes Gericht von Schlesien",
+     "en": "Royal Prussian Superior Provincial Court of Silesia",
+     "kind": "other"
+    },
+    {
+     "de": "Fülleborn",
+     "en": "Fülleborn",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30ten",
+    "80000",
+    "1 ten",
+    "1811",
+    "1103",
+    "1ten",
+    "6ten",
+    "1811"
+   ]
+  }
+ ],
+ "text_english": "The Royal Minister of State and of Justice, Mr von Kircheisen, is hereby called upon, as executor of the will of the deceased Lady Princess von Sacken, in the event that the assertion advanced by the General Invalids' Fund in its complaint lodged with the Royal Superior Court of Justice on the 30th of last month — \"that the Lord Prince of Hohenlohe-Ingelfingen was to receive a legacy of 80000 rt out of the estate of the Prince von Sacken, and has assigned the same to the Councillor of War and Forests von Triebenfeld at Konotop near Zielona Góra in satisfaction of the latter's claims upon him\" — should prove to be well founded, to pay out nothing of this sum to the said von Triebenfeld, at his own responsibility.\n\nBerlin, the 1st of August 1811.\n\nRoyal Prussian Superior Court of Justice.\n\nTo the Royal Minister of State and of Justice, Mr von Kircheisen.\n\nin the like terms\n\nTo the Royal Chief Medical Councillor Mr Cosmar here. To the Councillor of War and Forests Mr von Triebenfeld at Konotop.\n\nNo. 1103.\n\nWe herewith cause to be transmitted to you a summons of the Royal Superior Court of Justice at Berlin of the 1st of the current month in the matter of the General Invalids' Fund against you, with the command to render in all respects the obedience due to the contents thereof, and to certify in full the due receipt of the same upon the copy to be laid before you for that purpose. Głogów, the 6th of August 1811. Royal Prussian Superior Provincial Court of Silesia. Fülleborn",
  "summary_en": "",
  "summary_de": "Das Kammergericht fordert Kircheisen als Testamentsvollstrecker der verstorbenen Fürstin von Sacken auf, Triebenfeld nichts von einem Legat auszuzahlen. Dies gilt, falls die Klage der General Invaliden Casse zutrifft, wonach Fürst Hohenlohe-Ingelfingen aus dem Nachlass 80000 Rthl erhalte und diese Triebenfeld zur Begleichung seiner Forderungen angewiesen habe. Gleichlautend ergeht das Schreiben an Cosmar. Das Ober Landes Gericht von Schlesien übersendet Triebenfeld in Konotop die Vorladung des Kammergerichts und verlangt eine Empfangsbescheinigung.",
  "reading": {

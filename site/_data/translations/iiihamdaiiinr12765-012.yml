@@ -1,0 +1,45 @@
+status: draft
+segments:
+- page: 1
+  en: 'Most Serene Prince!
+
+
+    I have the honour, Your Serene Highness, in most devoted answer to your very obliging letter of the
+    12th of this month, to reply: that although at this moment the territorial relations of the Duchy
+    of Warsaw have been definitively decided as regards those of its provinces reverting to Prussia; what
+    on the other hand concerns the compensation of the respective donatories in the said Duchy, the regulation
+    of this matter has been reserved for a separate negotiation, to which, however, proceedings have already
+    been taken at this time. Given the sincere interest which I take in every event concerning Your Serene
+    Highness, it will assuredly afford me a quite particular pleasure to find, in the course of this negotiation,
+    an occasion to further the fulfilment of the wish communicated to me by the same in respect of the
+    compensation for the Trąbczyn estates withdrawn from you. I moreover very gladly avail myself of the
+    present occasion to renew to Your Serene Highness the assurance of that reverence with which I remain
+    Your Serene Highness''s
+
+
+    Vienna
+
+
+    the __th of May 1815.
+
+
+    To His Serene Highness the Prince of Hohenlohe.'
+  names:
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Herrn Fürsten zu Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  numbers:
+  - '12'
+  - '1815'

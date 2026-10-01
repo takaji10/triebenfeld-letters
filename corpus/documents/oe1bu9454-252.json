@@ -97,7 +97,64 @@
    "doc_line": 10
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "C f v Hardenberg",
+   "kind": "person",
+   "surface_de": "C f v Hardenberg",
+   "surface_en": "C f v Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Triebenfeld",
+   "kind": "person",
+   "surface_de": "von Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  }
+ ],
  "place_canonical": "Wien",
  "place_mentions": [
   {
@@ -145,9 +202,57 @@
    "doc_line": 7
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "252 I inform Your Right Honourable, in reply to your request of the 25th of last month, that the affair of the Prince of Hohenlohe in respect of the claims upon Trąbczyn and Kamionna will settle itself as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in progress, comes to be carried out. Vienna, the 25th of November 1814.\n\nC f v Hardenberg\n\nTo the Right Honourable the Councillor of War von Triebenfeld\n\nherr",
+   "names": [
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Wien",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "C f v Hardenberg",
+     "en": "C f v Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "von Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "252",
+    "25",
+    "25",
+    "1814"
+   ]
+  }
+ ],
+ "text_english": "252 I inform Your Right Honourable, in reply to your request of the 25th of last month, that the affair of the Prince of Hohenlohe in respect of the claims upon Trąbczyn and Kamionna will settle itself as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in progress, comes to be carried out. Vienna, the 25th of November 1814.\n\nC f v Hardenberg\n\nTo the Right Honourable the Councillor of War von Triebenfeld\n\nherr",
  "summary_en": "",
  "summary_de": "Hardenberg antwortet auf Triebenfelds Gesuch vom 25. des Vormonats. Die Ansprüche des Fürsten von Hohenlohe auf Trąbczyn und Kamionna würden sich von selbst ausgleichen, sobald die im Werk begriffene allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau ausgeführt werde.",
  "reading": {

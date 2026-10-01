@@ -1,0 +1,52 @@
+status: draft
+segments:
+- page: 1
+  en: 'Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.
+
+
+    at Sławięcice, the 24th of this month, enclosed: dispatch note No. 9882. B.
+
+
+    In having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of
+    the note with which the Imperial Russian ministry has answered the intercession entered by the Royal
+    legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness]
+    for the estates of Kamen and Trąbczyn taken from you, I can only express my regret that, notwithstanding
+    the legation''s efforts, it has not been possible to bring about a favourable result.
+
+
+    Ministry of Foreign Affairs, 3rd Section.
+
+
+    H[arden]b[er]g 21/12 B[alan].'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Herrn Fürsten v Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  - de: Schlawenzitz
+    en: Sławięcice
+    kind: place
+  - de: Petersburg
+    en: Petersburg
+    kind: place
+  - de: Kamen
+    en: Kamen
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: H[arden]b[er]g
+    en: H[arden]b[er]g
+    kind: person
+  - de: B[alan]
+    en: B[alan]
+    kind: person
+  numbers:
+  - '22'
+  - '1816'
+  - '24'
+  - '9882'
+  - '3'
+  - 21/12

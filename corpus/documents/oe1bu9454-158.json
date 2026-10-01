@@ -231,7 +231,224 @@
    "doc_line": 87
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Köckritz",
+   "kind": "person",
+   "surface_de": "v. Köckritz",
+   "surface_en": "von Köckritz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Majesty the King",
+   "kind": "person",
+   "surface_de": "Königs Majestät",
+   "surface_en": "His Majesty the King",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreußen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Braun General",
+   "kind": "person",
+   "surface_de": "Braun General",
+   "surface_en": "Braun General",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Liep",
+   "kind": "person",
+   "surface_de": "Liep",
+   "surface_en": "Liep",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Meyer Wolff",
+   "kind": "person",
+   "surface_de": "Meyer Wolff",
+   "surface_en": "Meyer Wolff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Girard",
+   "kind": "person",
+   "surface_de": "Girard",
+   "surface_en": "Girard",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hauk",
+   "kind": "person",
+   "surface_de": "Hauk",
+   "surface_en": "Hauk",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Seebald",
+   "kind": "person",
+   "surface_de": "Seebald",
+   "surface_en": "Seebald",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 2
+  },
+  {
+   "entity": "biron",
+   "display": "Prinz Biron",
+   "kind": "person",
+   "surface_de": "Bironſche",
+   "surface_en": "Biron",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Schlabrendorff[sche]",
+   "surface_en": "Schlabrendorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schläbe dorff",
+   "kind": "person",
+   "surface_de": "Schläbe dorffsche",
+   "surface_en": "Schläbe dorff",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mennonites",
+   "kind": "other",
+   "surface_de": "Mennonistes",
+   "surface_en": "Mennonites",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Wollenhaupt",
+   "kind": "person",
+   "surface_de": "Wollenhaupts",
+   "surface_en": "Wollenhaupt",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 3
+  },
+  {
+   "entity": "rochlitz",
+   "display": "Forst-Inspector Rochlitz",
+   "kind": "person",
+   "surface_de": "Rochlitz",
+   "surface_en": "Rochlitz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kargowa",
+   "kind": "place",
+   "surface_de": "Unruhſtad",
+   "surface_en": "Kargowa",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Pszczew",
+   "kind": "place",
+   "surface_de": "Betscher",
+   "surface_en": "Pszczew",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Eysenhardt",
+   "kind": "person",
+   "surface_de": "Eysenhardtſche",
+   "surface_en": "Eysenhardt",
+   "page": 4
+  },
+  {
+   "entity": "amelang",
+   "display": "Amelang",
+   "kind": "person",
+   "surface_de": "Amelang",
+   "surface_en": "Amelang",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Your Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Durchlaucht",
+   "surface_en": "Your Serene Highness",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Your Most Serene Highness",
+   "kind": "person",
+   "surface_de": "Ewr Hochfürstliche Durchlaucht",
+   "surface_en": "Your Most Serene Highness",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "the Reich",
+   "kind": "place",
+   "surface_de": "Reich",
+   "surface_en": "the Reich",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 4
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -290,9 +507,191 @@
    "doc_line": 83
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "158\n\nMost Serene Prince\n\nMost gracious Lord, at last, through the mediation of the venerable General von Köckritz, it has been achieved that the Invalids' Department has now declared itself willing to advance 150000 rt, without my having to seek the permission of His Majesty the King, which is otherwise the course of business. The Department gives for the present, upon the mortgage and my bill of exchange, 50000 rt; then the Chamber must still revise the valuations, and after these the Department pays the 100000 rt, which, of the interest being duly paid, can stand for 50 years.\n\nThe wards' deposit fund, the widows' fund, and still less the Bank or the Maritime Trading Company, pay not one Ezer more into South Prussia either, but are striving to call everything in — this causes a fearful stoppage in all business and spreads such Ah! and Oh! among the people that one's hair stands on end. I too should have obtained nothing, had the Braun General not taken up my cause in the most active manner. The",
+   "names": [
+    {
+     "de": "v. Köckritz",
+     "en": "von Köckritz",
+     "kind": "person"
+    },
+    {
+     "de": "Königs Majestät",
+     "en": "His Majesty the King",
+     "kind": "person"
+    },
+    {
+     "de": "Südpreußen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Braun General",
+     "en": "Braun General",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "158",
+    "150000",
+    "50000",
+    "100000",
+    "50"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "bankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent proximaticum for 5 to 6 per cent interest; besides which Liep: Meyer Wolff fest each his aim — he alone still has money, and thinks of those seeking money whatever is agreeable to him. Whoever now falls into the hands of this sort of men is irretrievably lost. God and the honest friend be heartily thanked that here He appointed a better, and truly the most desirable, lot — As soon as I now receive the money I shall pay the [uncertain: ſehen] demanded 10000 rt and send in haste to Your Serene Highness the sum remaining after deduction of the costs.\n\nWith the Girard and Hauk matter I am done; tomorrow I pay the arrears of interest out of my own money, and then someone takes over the debt, which can stand quietly for 4 years. The suit over the proxenetica that were taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are in league with one another. This was even cast up at me in the course of this very business, and appeal was made to it, that Seebald should sue and demand the proxenetica back;",
+   "names": [
+    {
+     "de": "Liep",
+     "en": "Liep",
+     "kind": "person"
+    },
+    {
+     "de": "Meyer Wolff",
+     "en": "Meyer Wolff",
+     "kind": "person"
+    },
+    {
+     "de": "Girard",
+     "en": "Girard",
+     "kind": "person"
+    },
+    {
+     "de": "Hauk",
+     "en": "Hauk",
+     "kind": "person"
+    },
+    {
+     "de": "Seebald",
+     "en": "Seebald",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "12",
+    "5",
+    "6",
+    "10000",
+    "4"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "The Biron matter has struck fear and terror into everyone — the moral lecture which Your Serene Highness writes merely on account of the Schlabrendorff matter I did not deserve. Every breach of my word is foreign to my heart, and shall remain so to my last breath. I do not indeed know what I wrote in that agonising moment; yet I must have expressed myself mistakenly, in giving answer to Your Serene Highness's letter — Honour remains in all my dealings the first motive spring; to it I sacrifice effort, means and health. And the truth which I then spoke in the Pro Memoria upon the whole Schläbe dorff matter is, by my way of thinking, no piece of knavery — I should curse all my dealings, and withdraw — to which I am much inclined — into the last corner of the earth, far from all men, if I were in the end to be judged so.\n\nThe Mennonites I shall answer definitely according to Your Serene Highness's command. Wollenhaupt's opinion regarding the dismemberment of the estates is too insignificant for one to be permitted to say a word further about it. Should Your Serene Highness deign to give him the commission and promise him a few Tausendtstäd, he warrants he will dismember half the world — I have the samples",
+   "names": [
+    {
+     "de": "Bironſche",
+     "en": "Biron",
+     "kind": "person"
+    },
+    {
+     "de": "Schlabrendorff[sche]",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Schläbe dorffsche",
+     "en": "Schläbe dorff",
+     "kind": "person"
+    },
+    {
+     "de": "Mennonistes",
+     "en": "Mennonites",
+     "kind": "other"
+    },
+    {
+     "de": "Wollenhaupts",
+     "en": "Wollenhaupt",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "still before me — I shall forward the Rochlitz matters on my return to Kargowa. The free pass for the wines must by now already be there. What the Pszczew subjects want I do not understand — there must again be some store lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract.\n\nNext Wednesday I go back from here, in order to direct at Kalisz the revision of the valuation, so as to obtain the 100000 rt the more quickly, and then to be able to dismember in peace. The Eysenhardt matter Amelang directs wisely and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — As to the moneys to go out to the Reich, about half of the 30/m rt could now be brought together at this time — I thought Your Serene Highness might send that sum now, and promise to send the other 15000 rt soon after.\n\nBerlin\n\nthe 26th of January\n\n1805\n\nhumble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Rochlitz",
+     "en": "Rochlitz",
+     "kind": "person"
+    },
+    {
+     "de": "Unruhſtad",
+     "en": "Kargowa",
+     "kind": "place"
+    },
+    {
+     "de": "Betscher",
+     "en": "Pszczew",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Eysenhardtſche",
+     "en": "Eysenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "Amelang",
+     "en": "Amelang",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Durchlaucht",
+     "en": "Your Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Ewr Hochfürstliche Durchlaucht",
+     "en": "Your Most Serene Highness",
+     "kind": "person"
+    },
+    {
+     "de": "Reich",
+     "en": "the Reich",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "100000",
+    "30/m",
+    "15000",
+    "26",
+    "1805"
+   ]
+  }
+ ],
+ "text_english": "158\n\nMost Serene Prince\n\nMost gracious Lord, at last, through the mediation of the venerable General von Köckritz, it has been achieved that the Invalids' Department has now declared itself willing to advance 150000 rt, without my having to seek the permission of His Majesty the King, which is otherwise the course of business. The Department gives for the present, upon the mortgage and my bill of exchange, 50000 rt; then the Chamber must still revise the valuations, and after these the Department pays the 100000 rt, which, of the interest being duly paid, can stand for 50 years.\n\nThe wards' deposit fund, the widows' fund, and still less the Bank or the Maritime Trading Company, pay not one Ezer more into South Prussia either, but are striving to call everything in — this causes a fearful stoppage in all business and spreads such Ah! and Oh! among the people that one's hair stands on end. I too should have obtained nothing, had the Braun General not taken up my cause in the most active manner. The\n\nbankers here now themselves give, merely to keep themselves afloat, 10 to 12 per cent proximaticum for 5 to 6 per cent interest; besides which Liep: Meyer Wolff fest each his aim — he alone still has money, and thinks of those seeking money whatever is agreeable to him. Whoever now falls into the hands of this sort of men is irretrievably lost. God and the honest friend be heartily thanked that here He appointed a better, and truly the most desirable, lot — As soon as I now receive the money I shall pay the [uncertain: ſehen] demanded 10000 rt and send in haste to Your Serene Highness the sum remaining after deduction of the costs.\n\nWith the Girard and Hauk matter I am done; tomorrow I pay the arrears of interest out of my own money, and then someone takes over the debt, which can stand quietly for 4 years. The suit over the proxenetica that were taken I do not find well advised — the thing damages Your Serene Highness's credit anew, and frightens off all those so-called men of business who are in league with one another. This was even cast up at me in the course of this very business, and appeal was made to it, that Seebald should sue and demand the proxenetica back;\n\nThe Biron matter has struck fear and terror into everyone — the moral lecture which Your Serene Highness writes merely on account of the Schlabrendorff matter I did not deserve. Every breach of my word is foreign to my heart, and shall remain so to my last breath. I do not indeed know what I wrote in that agonising moment; yet I must have expressed myself mistakenly, in giving answer to Your Serene Highness's letter — Honour remains in all my dealings the first motive spring; to it I sacrifice effort, means and health. And the truth which I then spoke in the Pro Memoria upon the whole Schläbe dorff matter is, by my way of thinking, no piece of knavery — I should curse all my dealings, and withdraw — to which I am much inclined — into the last corner of the earth, far from all men, if I were in the end to be judged so.\n\nThe Mennonites I shall answer definitely according to Your Serene Highness's command. Wollenhaupt's opinion regarding the dismemberment of the estates is too insignificant for one to be permitted to say a word further about it. Should Your Serene Highness deign to give him the commission and promise him a few Tausendtstäd, he warrants he will dismember half the world — I have the samples\n\nstill before me — I shall forward the Rochlitz matters on my return to Kargowa. The free pass for the wines must by now already be there. What the Pszczew subjects want I do not understand — there must again be some store lurking in the background. Meanwhile the date of this letter is of the month of June, and indeed earlier than that of the contract.\n\nNext Wednesday I go back from here, in order to direct at Kalisz the revision of the valuation, so as to obtain the 100000 rt the more quickly, and then to be able to dismember in peace. The Eysenhardt matter Amelang directs wisely and well, so that Your Serene Highness will have no vexation on that account. In deepest reverence I remain, until death, Your Most Serene Highness's — As to the moneys to go out to the Reich, about half of the 30/m rt could now be brought together at this time — I thought Your Serene Highness might send that sum now, and promise to send the other 15000 rt soon after.\n\nBerlin\n\nthe 26th of January\n\n1805\n\nhumble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Durch Vermittlung des Generals v. Köckritz hat das Invaliden Departement 150000 Rthl zugesagt: vorerst 50000 Rthl auf Hypothek und Triebenfelds Wechsel, die 100000 Rthl nach Revision der Taxen durch die Kammer, die er ab Mittwoch in Kalisz leiten will. Danach will er 10000 Rthl zahlen und den Rest senden. Er rät von der Klage wegen der proxenetica ab und weist den Tadel in der Schlabrendorffschen Sache zurück. Von 30/m Rthl für das Reich könnte etwa die Hälfte beisammen sein.",
  "reading": {

@@ -121,6 +121,9 @@ DOC_TYPE = unitlib.load_rulings(UNIT)['DOC_TYPE'] if _CFG else {}
 CATCHWORDS = ({k for k, v in load_decisions(
     os.path.join(UNIT.dir, 'linebreak_decisions.csv')).items() if v == 'catchword'}
     if _CFG else set())
+# Pages the transcriber took down by paragraph (rulings.yml, pages:
+# by_paragraph:). No cue is weighed there: every line begins a paragraph.
+BY_PARAGRAPH = unitlib.load_rulings(UNIT)['BY_PARAGRAPH']
 
 
 def load_corpus():
@@ -184,8 +187,24 @@ def candidates(docs):
     for lid, body in docs.items():
         if _CFG and DOC_TYPE.get(lid) == 'register':
             continue
+        page_ids = [pid for pid, _ in split_pages(body)]
         pages = [ls for _, ls in split_pages(body)]
         for pi, page in enumerate(pages):
+            if page_ids[pi] in BY_PARAGRAPH:
+                # The first line may carry on a paragraph from the page before,
+                # so it is left to run on; every later line starts its own.
+                for k in range(1, len(page)):
+                    lineno, text = page[k]
+                    if text.strip():
+                        out.append({
+                            'letter': lid, 'line': lineno, 'page_measure': 0,
+                            'prev_len': len(page[k - 1][1].strip()), 'ratio': 0,
+                            'cue': 'by_paragraph', 'decision': 'break',
+                            'confidence': 'high',
+                            'prev_line': page[k - 1][1].strip()[:60],
+                            'context': text.strip()[:70],
+                        })
+                continue
             if len(page) < 3:
                 continue
             lens = [len(t.strip()) for _, t in page]

@@ -97,7 +97,64 @@
    "doc_line": 26
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hahn",
+   "kind": "person",
+   "surface_de": "Hahn",
+   "surface_en": "Hahn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Łosiów",
+   "kind": "place",
+   "surface_de": "Lohsen",
+   "surface_en": "Łosiów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzeg",
+   "kind": "place",
+   "surface_de": "Brieg",
+   "surface_en": "Brzeg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Memel",
+   "kind": "place",
+   "surface_de": "Memel",
+   "surface_en": "Memel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 2
+  },
+  {
+   "entity": "bally",
+   "display": "Bally",
+   "kind": "person",
+   "surface_de": "Bally",
+   "surface_en": "Bally",
+   "page": 2
+  }
+ ],
  "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
@@ -167,9 +224,64 @@
    "doc_line": 22
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "29\n\nRight Honourable Sir,\n\nMost highly revered Councillor of War!\n\nWhen I had the honour of meeting with Your Right Honourable and the Court Councillor Hahn in Łosiów near Brzeg, you were so gracious as only to promise a rendezvous, after the return from Memel. Since this has not yet come about, and since I presume that Your Right Honourable will by now be in Wrocław again, I hereby most obediently venture to ask whether I may have hope, and when, through in Wrocław was to wait upon, since I have been asked about it by my most gracious Lord, His Serene Highness [text lost]",
+   "names": [
+    {
+     "de": "Hahn",
+     "en": "Hahn",
+     "kind": "person"
+    },
+    {
+     "de": "Lohsen",
+     "en": "Łosiów",
+     "kind": "place"
+    },
+    {
+     "de": "Brieg",
+     "en": "Brzeg",
+     "kind": "place"
+    },
+    {
+     "de": "Memel",
+     "en": "Memel",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "29"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "It would make me very happy if I could have the honour of speaking with Your Right Honourable; only, at this very moment, I hear that we too are to have French troops billeted here: in that case I could not stir from the spot, and it would be harder still if I were to have to clear out the stables. and will seek another place of residence. Notwithstanding this, I hope I may soon be able to have the honour of assuring you in person that in deepest reverence I have died [uncertain: ad]\n\nYour Right Honourable's\n\nSławięcice\n\nthe 10th of February 1808\n\nfaithfully and most obediently\n\nBally",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Bally",
+     "en": "Bally",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "10",
+    "1808"
+   ]
+  }
+ ],
+ "text_english": "29\n\nRight Honourable Sir,\n\nMost highly revered Councillor of War!\n\nWhen I had the honour of meeting with Your Right Honourable and the Court Councillor Hahn in Łosiów near Brzeg, you were so gracious as only to promise a rendezvous, after the return from Memel. Since this has not yet come about, and since I presume that Your Right Honourable will by now be in Wrocław again, I hereby most obediently venture to ask whether I may have hope, and when, through in Wrocław was to wait upon, since I have been asked about it by my most gracious Lord, His Serene Highness [text lost]\n\nIt would make me very happy if I could have the honour of speaking with Your Right Honourable; only, at this very moment, I hear that we too are to have French troops billeted here: in that case I could not stir from the spot, and it would be harder still if I were to have to clear out the stables. and will seek another place of residence. Notwithstanding this, I hope I may soon be able to have the honour of assuring you in person that in deepest reverence I have died [uncertain: ad]\n\nYour Right Honourable's\n\nSławięcice\n\nthe 10th of February 1808\n\nfaithfully and most obediently\n\nBally",
  "summary_en": "",
  "summary_de": "Bally erinnert von Triebenfeld an das Treffen, das dieser ihm bei der Begegnung mit Hoffrath Hahn in Łosiów bei Brzeg versprochen hatte. Er vermutet ihn wieder in Wrocław und fragt, ob und wann er ihm dort aufwarten könne, da sein Herr (Durchlaucht) danach gefragt habe. Er hat gehört, dass auch in Sławięcice französische Einquartierung kommen soll. Dann könne er nicht fort, schlimmer noch, wenn er die Stallungen räumen müsse. Er hofft auf ein baldiges Gespräch.",
  "reading": {

@@ -237,7 +237,144 @@
    "doc_line": 62
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Most Serene Prince",
+   "kind": "other",
+   "surface_de": "Durchlauchtigster Fürst",
+   "surface_en": "Most Serene Prince",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oder",
+   "kind": "place",
+   "surface_de": "Oder",
+   "surface_en": "Oder",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Netze marshes",
+   "kind": "place",
+   "surface_de": "Nezzbrücher",
+   "surface_en": "Netze marshes",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Swięcier",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorower",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Schlabrendorff",
+   "kind": "person",
+   "surface_de": "Ge Schlabrendorff",
+   "surface_en": "Schlabrendorff",
+   "page": 2
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowski",
+   "surface_en": "Lichnowski",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Olesnicer",
+   "surface_en": "Oleśnica",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczyn",
+   "kind": "place",
+   "surface_de": "Wrąbczyner",
+   "surface_en": "Wrąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface_de": "Glenck",
+   "surface_en": "Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Marowecki, von",
+   "kind": "person",
+   "surface_de": "von Marowecki",
+   "surface_en": "Marowecki, von",
+   "page": 3
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 3
+  }
+ ],
  "place_canonical": "Trąbczyn",
  "place_mentions": [
   {
@@ -318,9 +455,129 @@
    "doc_line": 58
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "149\n\nMost Serene Prince\n\nMost gracious Lord!\n\nStill I await the arrival of the people from the Oder and Netze marshes. From Wednesday onward they will probably present themselves in whole troops, and then I hope to be swiftly at the goal of my wishes. Several plots which the Swięcia people had [uncertain: marked out], and which lay about as waste corners along the border, I have sold very advantageously; I not only place well with a purchaser the soil that was held in no regard at all, but likewise the figure, so as now to be able to conclude better with the large purchasers for regular parcels. From the plan I once drew up I do not depart, and I stand surety that no Hufe shall be given away under 600 rt / that is, ground-money and rents taken together /. If it has succeeded with the very worst plots, then it will not fail me with the [uncertain: better ones]. The valuation will probably be finished this week and, as I hope, will come out at over 400000 rt for the Zagórów estates. By this means defiance is bidden to all ill-will; I take in",
+   "names": [
+    {
+     "de": "Durchlauchtigster Fürst",
+     "en": "Most Serene Prince",
+     "kind": "other"
+    },
+    {
+     "de": "Oder",
+     "en": "Oder",
+     "kind": "place"
+    },
+    {
+     "de": "Nezzbrücher",
+     "en": "Netze marshes",
+     "kind": "place"
+    },
+    {
+     "de": "Swięcier",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorower",
+     "en": "Zagórów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "149",
+    "600",
+    "400000"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Berlin as much money as is needed for the payment of Schlabrendorff, Lichnowski and other pressing creditors, and pay them. Gradually the money for these plots comes in, and that debt is paid off again; in this way nothing is lost through precipitancy and the great aim is attained. It goes hard, very hard, for much has been spoilt by the easy earlier sales; yet my perseverance will prevail, for that I answer.\n\nThe late vexation with Glenck, where the man tells me to my face that I mean to wrest his property from him, and the annoyance with the hereditary leaseholders stirred up by the Oleśnica people, have brought upon me a frightful colic which compelled me to keep my bed for 3 days; I am still very poorly.\n\nFor the rest, the Wrąbczyn subjects have protested against their contract and refuse to render the rent. Their complaint is that Glenck threatened [uncertain: them] to take their plots away and to give them others in their place; besides this they complain that Glenck's clerk compelled them to serve through the whole year still, and that he, being unable to use all the services on the village bailiff's holding, sent the subjects to Zagórów, where they must work for the burgesses, and for which",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Ge Schlabrendorff",
+     "en": "Schlabrendorff",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowski",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Olesnicer",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Wrąbczyner",
+     "en": "Wrąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "3"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "the steward has himself paid 4 gg. daily per person / of whom there are 18 /. The subjects find this too hard, that they should be sold like slaves to serve other, strange men. The steward has moreover made it known to the people that he will draw all 18 householders entirely to the village bailiff's holding, and that Glenck means to sell them along with it to von Marowecki, who on those terms gives 15000 rt for the village bailiff's holding.\n\nThe subjects implore that Your Serene Highness might not permit this; they will gladly give one rthlr per Morgen of their fields and render everything else that lies within their power. I have referred the people with their petitions and lamentations to the justice-burgomaster Schenck, and have requested him to quiet them and to bring the matter to a clear issue, so that Glenck may not cry out again that I mean to wrest from him his well-acquired property.\n\nIn deepest esteem I remain, until death,\n\nYour Most Serene Highness's\n\nTrąbczyn\n\nthe 2nd of December\n\n1804\n\nmost humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Glenck",
+     "en": "Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "von Marowecki",
+     "en": "Marowecki, von",
+     "kind": "person"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18",
+    "4",
+    "18",
+    "15000",
+    "2ten",
+    "1804"
+   ]
+  }
+ ],
+ "text_english": "149\n\nMost Serene Prince\n\nMost gracious Lord!\n\nStill I await the arrival of the people from the Oder and Netze marshes. From Wednesday onward they will probably present themselves in whole troops, and then I hope to be swiftly at the goal of my wishes. Several plots which the Swięcia people had [uncertain: marked out], and which lay about as waste corners along the border, I have sold very advantageously; I not only place well with a purchaser the soil that was held in no regard at all, but likewise the figure, so as now to be able to conclude better with the large purchasers for regular parcels. From the plan I once drew up I do not depart, and I stand surety that no Hufe shall be given away under 600 rt / that is, ground-money and rents taken together /. If it has succeeded with the very worst plots, then it will not fail me with the [uncertain: better ones]. The valuation will probably be finished this week and, as I hope, will come out at over 400000 rt for the Zagórów estates. By this means defiance is bidden to all ill-will; I take in\n\nBerlin as much money as is needed for the payment of Schlabrendorff, Lichnowski and other pressing creditors, and pay them. Gradually the money for these plots comes in, and that debt is paid off again; in this way nothing is lost through precipitancy and the great aim is attained. It goes hard, very hard, for much has been spoilt by the easy earlier sales; yet my perseverance will prevail, for that I answer.\n\nThe late vexation with Glenck, where the man tells me to my face that I mean to wrest his property from him, and the annoyance with the hereditary leaseholders stirred up by the Oleśnica people, have brought upon me a frightful colic which compelled me to keep my bed for 3 days; I am still very poorly.\n\nFor the rest, the Wrąbczyn subjects have protested against their contract and refuse to render the rent. Their complaint is that Glenck threatened [uncertain: them] to take their plots away and to give them others in their place; besides this they complain that Glenck's clerk compelled them to serve through the whole year still, and that he, being unable to use all the services on the village bailiff's holding, sent the subjects to Zagórów, where they must work for the burgesses, and for which\n\nthe steward has himself paid 4 gg. daily per person / of whom there are 18 /. The subjects find this too hard, that they should be sold like slaves to serve other, strange men. The steward has moreover made it known to the people that he will draw all 18 householders entirely to the village bailiff's holding, and that Glenck means to sell them along with it to von Marowecki, who on those terms gives 15000 rt for the village bailiff's holding.\n\nThe subjects implore that Your Serene Highness might not permit this; they will gladly give one rthlr per Morgen of their fields and render everything else that lies within their power. I have referred the people with their petitions and lamentations to the justice-burgomaster Schenck, and have requested him to quiet them and to bring the matter to a clear issue, so that Glenck may not cry out again that I mean to wrest from him his well-acquired property.\n\nIn deepest esteem I remain, until death,\n\nYour Most Serene Highness's\n\nTrąbczyn\n\nthe 2nd of December\n\n1804\n\nmost humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Triebenfeld erwartet die Leute aus dem Oder- und Netzebruch und hat wüste Gründe an der Grenze vorteilhaft verkauft; keine Hufe soll unter 600 Rthl abgegeben werden. Er hofft, die Taxe der Zagorower Güter ergebe über 400000 Rthl, und will in Berlin Geld für Schlabrendorff und Lichnowski aufnehmen. Die Wrąbczyner Untertanen verweigern den Zins, klagen über Glencks Drohungen und Zwangsdienste bei Zagorower Bürgern und bieten einen Rthl pro Morgen; er verwies sie an Justiz Bürgermeister Schenck.",
  "reading": {

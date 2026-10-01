@@ -204,7 +204,128 @@
    "doc_line": 43
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Sławięcice",
+   "kind": "place",
+   "surface_de": "Schlawenschitz",
+   "surface_en": "Sławięcice",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Głogów",
+   "kind": "place",
+   "surface_de": "Glogau",
+   "surface_en": "Głogów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pohlen",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Saxony",
+   "kind": "place",
+   "surface_de": "Sachsen",
+   "surface_en": "Saxony",
+   "page": 1
+  },
+  {
+   "entity": "hecker",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Hecker",
+   "surface_en": "Hecker",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Invalids' Fund",
+   "kind": "other",
+   "surface_de": "Invaliden Casse",
+   "surface_en": "Invalids' Fund",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichsen",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "honrichs",
+   "display": "Honrichs",
+   "kind": "person",
+   "surface_de": "Honrichs",
+   "surface_en": "Honrichs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hecker",
+   "kind": "person",
+   "surface_de": "Heckerts",
+   "surface_en": "Hecker",
+   "page": 2
+  },
+  {
+   "entity": "brzechffa",
+   "display": "Brzechffa",
+   "kind": "person",
+   "surface_de": "Brzechffa",
+   "surface_en": "Brzechffa",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Konotop",
+   "kind": "place",
+   "surface_de": "Kontop",
+   "surface_en": "Konotop",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "v Triebenfeld",
+   "kind": "person",
+   "surface_de": "v Triebenfeld",
+   "surface_en": "v Triebenfeld",
+   "page": 2
+  }
+ ],
  "place_canonical": "Kontop",
  "place_mentions": [
   {
@@ -274,9 +395,108 @@
    "doc_line": 39
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "194\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI have already reported to Your Most Serene Highness that I shall be coming to Sławięcice. I should be there even now, were a new trouble not keeping me fettered here.\n\nIt is the matter of the Invalids' Fund: it receives no interest, it presses upon me that I should pay it anew, it even demands the whole capital, and intends, if it does not obtain this, to have my estates [uncertain: Sub hästerin] — It has brought suit, and the hearing is set for the 26th; this I must await, and after its holding I shall depart from Głogów. In Poland the matter stands better: before the court of the peace the vindication of the Trąbczyn estates has turned out to the greatest advantage — and the case, with the [uncertain: gnüßigten] report, has been referred from the Tribunal to Kalisz — For the rest, Your Serene Highness is secured there. The King of Saxony is granting an indult for 10 years, with the [uncertain: requirement] that every year a tenth part of the debt shall be paid off — It has not yet been made public — but it will appear in these next days.\n\nBehind this [uncertain: bulwark] I shall also take flight with the Invalids business, for the capital is entered there, and Hecker as well as the Prefecture must see to the recovery and payment of the moneys.\n\nIf it should succeed with Weigel, then [uncertain: he] too will obtain his satisfaction. Only he must know nothing of the indult beforehand.",
+   "names": [
+    {
+     "de": "Schlawenschitz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Glogau",
+     "en": "Głogów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Pohlen",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Sachsen",
+     "en": "Saxony",
+     "kind": "place"
+    },
+    {
+     "de": "Hecker",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Invaliden Casse",
+     "en": "Invalids' Fund",
+     "kind": "other"
+    }
+   ],
+   "numbers": [
+    "194",
+    "26",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "I have asked the Prefecture to suspend Honrichs, to place all his goods under seizure, and to have whatever is wanting made good out of his security, and then to apply the 11700 rt which, according to Hecker's report, he is said to owe, to the payment of the arrears of interest, so that the matter may be brought clear — the sub-prefect Brzechffa stood the security for him; he has taken much money out of the estates, and in the end gave Honrichs attestations that everything with him was in order.\n\nHe appointed Honrichs, has protected him hitherto, lied to the Upper Prefecture and given false attestations; without Your Serene Highness doing the least thing in the business, the Upper Prefecture must see to it that all the deficits are paid, whether by Honrichs or by Brzechffa.\n\nThe rest I shall have the honour of laying before Your Serene Highness by word of mouth. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop\n\nthe 22nd of April\n\n1810\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
+   "names": [
+    {
+     "de": "Honrichsen",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Honrichs",
+     "en": "Honrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Heckerts",
+     "en": "Hecker",
+     "kind": "person"
+    },
+    {
+     "de": "Brzechffa",
+     "en": "Brzechffa",
+     "kind": "person"
+    },
+    {
+     "de": "Kontop",
+     "en": "Konotop",
+     "kind": "place"
+    },
+    {
+     "de": "v Triebenfeld",
+     "en": "v Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11700",
+    "22",
+    "1810"
+   ]
+  }
+ ],
+ "text_english": "194\n\nMost Serene Prince,\n\nMost gracious Lord!\n\nI have already reported to Your Most Serene Highness that I shall be coming to Sławięcice. I should be there even now, were a new trouble not keeping me fettered here.\n\nIt is the matter of the Invalids' Fund: it receives no interest, it presses upon me that I should pay it anew, it even demands the whole capital, and intends, if it does not obtain this, to have my estates [uncertain: Sub hästerin] — It has brought suit, and the hearing is set for the 26th; this I must await, and after its holding I shall depart from Głogów. In Poland the matter stands better: before the court of the peace the vindication of the Trąbczyn estates has turned out to the greatest advantage — and the case, with the [uncertain: gnüßigten] report, has been referred from the Tribunal to Kalisz — For the rest, Your Serene Highness is secured there. The King of Saxony is granting an indult for 10 years, with the [uncertain: requirement] that every year a tenth part of the debt shall be paid off — It has not yet been made public — but it will appear in these next days.\n\nBehind this [uncertain: bulwark] I shall also take flight with the Invalids business, for the capital is entered there, and Hecker as well as the Prefecture must see to the recovery and payment of the moneys.\n\nIf it should succeed with Weigel, then [uncertain: he] too will obtain his satisfaction. Only he must know nothing of the indult beforehand.\n\nI have asked the Prefecture to suspend Honrichs, to place all his goods under seizure, and to have whatever is wanting made good out of his security, and then to apply the 11700 rt which, according to Hecker's report, he is said to owe, to the payment of the arrears of interest, so that the matter may be brought clear — the sub-prefect Brzechffa stood the security for him; he has taken much money out of the estates, and in the end gave Honrichs attestations that everything with him was in order.\n\nHe appointed Honrichs, has protected him hitherto, lied to the Upper Prefecture and given false attestations; without Your Serene Highness doing the least thing in the business, the Upper Prefecture must see to it that all the deficits are paid, whether by Honrichs or by Brzechffa.\n\nThe rest I shall have the honour of laying before Your Serene Highness by word of mouth. In deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nKonotop\n\nthe 22nd of April\n\n1810\n\nfaithful, humble and obedient servant\n\nv Triebenfeld",
  "summary_en": "",
  "summary_de": "Beim Friedensgericht ist die Vindication der Trąbczyner Güter sehr vorteilhaft ausgefallen, die Sache ist an das Tribunal in Kalisz verwiesen. Der König von Sachsen soll einen Indult auf 10 Jahre geben. Die Invaliden Casse verlangt von Triebenfeld das ganze Capital und hat geklagt, Termin am 26ten. Er hat die Prefectur gebeten, Honrichs zu suspendieren und die 11700 Rthl für die rückständigen Zinsen zu verwenden. Podprefect Brzechffa habe für Honrichs Caution geleistet und falsche Atteste gegeben.",
  "reading": {
