@@ -1,0 +1,34 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3709 (GStA PK).
+#
+# PROVISIONAL (2026-10-01): the file is not yet transcribed. It stands as one
+# document so that its pages and scans are in the edition; the cover (0001) is
+# front matter. When the text arrives, revisit everything here: the division
+# into documents, their types, dates, places, languages and estates in focus.
+
+places:
+  overrides: {}
+
+dates:
+  # [year, month, day, precision]. The first date on the file's cover, "den
+  # 18ten Juny 1800"; the last is 29 January 1802.
+  read:
+    "1": [1800, 6, 18, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # Not classified until it is read; "document" is the neutral label.
+  doc_type:
+    "1": document
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+  # Not set: which estates the complaint concerns is not known until the text
+  # is read.
+  estates: {}
+
+damage:
+  letters: []

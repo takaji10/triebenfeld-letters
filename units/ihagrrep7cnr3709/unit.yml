@@ -1,0 +1,74 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr3709
+ref: I. HA GR, Rep. 7 C, Nr. 3709
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+title: >-
+  Acta betr. die Beschwerden der Michalina von Prusimska in Sachen wider den
+  Fürsten von Hohenlohe Ingelfingen - the ministry file on Michalina
+  Prusimska's complaints in her case against the Prince, 1800-1802
+# The cover gives the span: "den 18ten Juny 1800" to "den 29 Januar 1802".
+date_span: 1800-1802
+status: draft              # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 22 scans. 0001 is the file's cover; the rest are openings photographed flat.
+# Left out on the editor's instruction, as blank: 0006 and 0022. The other 20
+# were copied into raw_dir/processed/ as <capture>_a.jpg. The editor ruled
+# (2026-10-01) which openings to cut: fifteen have one blank side and are cut
+# at the fold to the written side (`_a2` the right, `_a1` the left); four have
+# writing on both sides and stay whole (0008, 0009, 0010, 0013), as does the
+# cover.
+#
+# NOT YET TRANSCRIBED (2026-10-01). Every page carries the placeholder line
+# "(not transcribed)", so the page and its scan are in the edition and the
+# text can replace the placeholder when the editor's transcriptions arrive.
+# The file is of the same kind as III. HA MdA, III Nr. 12765 (letters received
+# and the ministry's drafts, with office marks). The editor has ruled that it
+# is to be divided into one document per letter and the office's writing set
+# apart, as there; both wait for the text. See notes.md and
+# docs/GOVERNMENT_FILES.md.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Complaint of Prusimska against Hohenlohe (I. HA GR, Rep. 7 C, Nr. 3709)
+  raw_glob: I_HA_Rep_7_C_Nr_3709_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix. Later stages parse this prefix, so it must not change once the unit
+  # is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_3709
+
+# One file per page, named I_HA_Rep_7_C_Nr_3709_<page id>.txt (0003_a2,
+# 0008_a). All are placeholders for now.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_3709_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# For the reader: shown on this unit's provenance page.
+description: >-
+  The Prussian ministry file on the complaints of Michalina Prusimska in her
+  case against the Prince of Hohenlohe-Ingelfingen, kept from 18 June 1800 to
+  29 January 1802. She was the daughter of the Starost Prusimski, whose
+  confiscated estates the King had given the Prince in 1796. The file holds
+  reports of the government at Poznań, royal orders, a letter of the Prince
+  from Breslau of 30 November 1800, the ministry's drafts, and a petition in
+  French of January 1802. It has not yet been transcribed: the pages are shown
+  as scans only, and what the case was about will be set out here once the
+  text has been read.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file, not yet transcribed. When it is: incoming letters are
+  originals, the ministry's replies are drafts with registry marks that are not
+  prose, and at least one piece is in French. See the note of III. HA MdA, III
+  Nr. 12765, which is the same kind of source.
