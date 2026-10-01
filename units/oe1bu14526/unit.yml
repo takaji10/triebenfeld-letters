@@ -4,9 +4,23 @@
 slug: oe1bu14526
 ref: Oe 1 Bü 14526
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+# What the holding is about, in one sentence, English and German: the line
+# under the reference on the Sources page, and the opening of the
+# translator's and summariser's prompts (editor, 2026-10-01).
 title: >-
-  Originals and certified copies of the deeds of sale and hereditary lease over
-  the South Prussian estates donated to Friedrich Ludwig, Prince of
+  The contracts by which the Prince of Hohenlohe-Ingelfingen sold and let out
+  in hereditary lease the South Prussian estates granted to him in 1796, with
+  the powers of attorney, royal confirmations and attestations filed with
+  them.
+title_de: >-
+  Die Verträge, mit denen der Fürst zu Hohenlohe-Ingelfingen die ihm 1796
+  geschenkten südpreußischen Güter verkaufte und in Erbpacht gab, samt den
+  dazu abgelegten Vollmachten, königlichen Bestätigungen und Beglaubigungen.
+# The heading this field carried before: the archive's or the file's own
+# title with an English gloss. Kept for reference; nothing displays it.
+archive_title: >-
+  Originals and certified copies of the deeds of sale and hereditary lease
+  over the South Prussian estates donated to Friedrich Ludwig, Prince of
   Hohenlohe-Ingelfingen
 # The datelines run 1798-10-01 to 1806-07-18. The volume reaches further at both
 # ends without saying so in a dateline: the Posen chapter privilege reproduces a

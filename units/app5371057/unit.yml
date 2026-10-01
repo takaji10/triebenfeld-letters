@@ -4,7 +4,22 @@
 slug: app5371057
 ref: 53/71/0/-/57
 archive: Archiwum Państwowe w Poznaniu (APP)
+# What the holding is about, in one sentence, English and German: the line
+# under the reference on the Sources page, and the opening of the
+# translator's and summariser's prompts (editor, 2026-10-01).
 title: >-
+  The court file of the hereditary lease of 1806 by which the Prince of
+  Hohenlohe-Ingelfingen, through his agent Triebenfeld, let a piece of the
+  Trąbczyn forest to the settler Christoph Erbet, handed on in 1811 to recover
+  the costs.
+title_de: >-
+  Die Gerichtsakte über den Erbpachtvertrag von 1806, mit dem der Fürst zu
+  Hohenlohe-Ingelfingen durch seinen Bevollmächtigten Triebenfeld ein Stück
+  des Trąbczyner Forstes an den Siedler Christoph Erbet verpachtete, 1811 zur
+  Eintreibung der Kosten weitergegeben.
+# The heading this field carried before: the archive's or the file's own
+# title with an English gloss. Kept for reference; nothing displays it.
+archive_title: >-
   Erbpachts-Contracts zwischen dem Fürsten zu Hohenlohe-Ingelfingen: the court
   file of the hereditary-lease contract between the Prince and Christoph Erbet
   over one Hufe of the Trąbczyn forest

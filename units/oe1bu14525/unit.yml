@@ -4,9 +4,24 @@
 slug: oe1bu14525
 ref: Oe 1 Bü 14525
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+# What the holding is about, in one sentence, English and German: the line
+# under the reference on the Sources page, and the opening of the
+# translator's and summariser's prompts (editor, 2026-10-01).
 title: >-
-  The royal grants of the South Prussian estates to Friedrich Ludwig, Prince of
-  Hohenlohe-Ingelfingen, with the certified copies, mortgage certificates,
+  The papers by which the South Prussian estates came to the Prince of
+  Hohenlohe-Ingelfingen: the royal grant of 1796, its certified copies, the
+  entries of his title, a valuation, and the official correspondence that
+  carried the grant into effect.
+title_de: >-
+  Die Papiere, durch die die südpreußischen Güter an den Fürsten zu
+  Hohenlohe-Ingelfingen kamen: die königliche Schenkung von 1796, ihre
+  beglaubigten Abschriften, die Eintragung seines Besitztitels, eine Taxe und
+  der amtliche Schriftwechsel zu ihrer Ausführung.
+# The heading this field carried before: the archive's or the file's own
+# title with an English gloss. Kept for reference; nothing displays it.
+archive_title: >-
+  The royal grants of the South Prussian estates to Friedrich Ludwig, Prince
+  of Hohenlohe-Ingelfingen, with the certified copies, mortgage certificates,
   valuations and official correspondence that carry them into effect.
 date_span: 1794-1804
 status: translated         # draft | transcribed | translated | published

@@ -56,8 +56,13 @@ UNIT_YML = '''# One archival unit. Everything the pipeline needs to know about w
 slug: {slug}
 ref: {ref}
 archive: {archive}
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
 title: >-
-  TODO: what this unit contains, in a line or two.
+  TODO: one sentence on what this holding is about.
+title_de: >-
+  TODO: derselbe Satz auf Deutsch.
 date_span: TODO
 status: draft              # draft | transcribed | translated | published
 

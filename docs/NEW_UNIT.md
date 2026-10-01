@@ -23,7 +23,12 @@ and the three fields the machine cannot infer:
 - **`description`** — what this holding actually is. It reaches the reader, and
   it reaches the translator and the summariser as the opening of their prompts.
   "Not correspondence but title deeds" is doing real work there.
-- **`date_span`**, **`title`**, **`ref`** — the archival identity.
+- **`date_span`**, **`ref`** — the archival identity.
+- **`title`** and **`title_de`** — one sentence saying what the holding is
+  about, in English and German. It is the line under the reference on the
+  Sources page. Not the file's own heading with a gloss ("Acta betr: ... - the
+  ministry's file on ..."): the editor found that unhelpful (2026-10-01). The
+  archive's own title can be kept as `archive_title`, which nothing displays.
 - **`translation_note`** — facts about the source that change how it must be
   read, not instructions about style. Latin tags that belong to the legal
   register; passages in another language that are source text rather than

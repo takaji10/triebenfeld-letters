@@ -6,13 +6,25 @@
 slug: oe1bu9454
 ref: Oe 1 Bü 9454
 archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+# What the holding is about, in one sentence, English and German: the line
+# under the reference on the Sources page, and the opening of the
+# translator's and summariser's prompts (editor, 2026-10-01).
+title: >-
+  Eighteen years of letters from the estate agent Peter Friedrich von
+  Triebenfeld to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen about the
+  Prince's estates of Trąbczyn and Zagórów: their sales, loans and lawsuits.
+title_de: >-
+  Briefe des Güterverwalters Peter Friedrich von Triebenfeld an Fürst
+  Friedrich Ludwig zu Hohenlohe-Ingelfingen aus achtzehn Jahren über die Güter
+  Trąbczyn und Zagórów des Fürsten: Verkäufe, Darlehen und Prozesse.
 # The archive's own finding-aid title, in English. "Kriegs- und Forstrath" is
 # the catalogue's wording and is kept: Consistency_Register.md establishes that
 # he was Kriegsrath and NOT Forstrath - a long-s misreading had put him in the
 # wrong institutional chain - but correcting a catalogue title inside a citation
 # would misrepresent the finding aid. The correction belongs in the register and
 # in the termbase, and both carry it.
-title: >-
+# It was this holding's `title` until 2026-10-01; nothing displays it now.
+archive_title: >-
   Correspondence of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen with the
   Councillor of War and Forests von Triebenfeld
 date_span: 1798-1816
