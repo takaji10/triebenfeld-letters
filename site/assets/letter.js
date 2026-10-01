@@ -15,16 +15,53 @@
   var btns = document.querySelectorAll('.vbtn');
   if (!btns.length) return;
 
-  function untranslatedText() {
-    var fallback = 'This page has not been translated yet.';
+  // A label in whichever language is already stored; the language switch
+  // re-labels anything carrying data-i18n afterwards.
+  function label(key, fallback) {
     var el = document.getElementById('i18n-data');
     if (!el) return fallback;
     try {
       var dict = JSON.parse(el.textContent) || {};
       var lang = 'en';
       try { if (localStorage.getItem('tf-lang') === 'de') lang = 'de'; } catch (e) {}
-      return (dict[lang] && dict[lang].page_untranslated) || fallback;
+      return (dict[lang] && dict[lang][key]) || fallback;
     } catch (e) { return fallback; }
+  }
+  function untranslatedText() {
+    return label('page_untranslated', 'This page has not been translated yet.');
+  }
+
+  // The translator returns each page in the paragraphs of the German reading
+  // text, separated by a blank line. They used to be poured into one <p>, where
+  // the breaks vanished and a page read as a single slab.
+  var OFFICE = '[Written by the receiving office:]';
+  function fillTranslation(el, en) {
+    var box = el;
+    en.split(/\n\s*\n/).forEach(function (para) {
+      para = para.replace(/^\s+|\s+$/g, '');
+      if (!para) return;
+      if (para === OFFICE) {
+        // What the receiving office wrote on the letter is set apart under
+        // the same label as in the German views.
+        box = document.createElement('div');
+        box.className = 'sideways office-note';
+        var note = document.createElement('div');
+        note.className = 'sideways-note';
+        note.setAttribute('data-i18n', 'office_note');
+        note.textContent = label('office_note', 'Written by the receiving office');
+        box.appendChild(note);
+        el.appendChild(box);
+        return;
+      }
+      var p = document.createElement('p');
+      p.textContent = para;
+      box.appendChild(p);
+    });
+    // A paragraph that began on the previous page starts again here; the
+    // reading view marks that, and the English follows it.
+    var reading = el.parentNode && el.parentNode.querySelector('.text-view[data-view="reading"] > p');
+    var first = el.querySelector('p');
+    if (reading && first && reading.classList.contains('runs-on')) first.classList.add('runs-on');
   }
 
   // ---- fill the translation panes, one per manuscript page ----------------
@@ -42,16 +79,13 @@
     // A tabulated document's English arrives as a built table, from our own
     // data file.
     if (seg && seg.html) { el.innerHTML = seg.html; return; }
+    if (seg) { fillTranslation(el, seg.en); return; }
     var p = document.createElement('p');
-    if (seg) {
-      p.textContent = seg.en;
-    } else {
-      p.className = 'muted';
-      // Marked so the language switch picks it up like any other label; the
-      // initial wording follows whichever language is already stored.
-      p.setAttribute('data-i18n', 'page_untranslated');
-      p.textContent = untranslatedText();
-    }
+    p.className = 'muted';
+    // Marked so the language switch picks it up like any other label; the
+    // initial wording follows whichever language is already stored.
+    p.setAttribute('data-i18n', 'page_untranslated');
+    p.textContent = untranslatedText();
     el.appendChild(p);
   });
 
