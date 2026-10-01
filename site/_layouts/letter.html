@@ -134,9 +134,9 @@ layout: default
       <dt data-i18n="f_unit">{{ t.f_unit }}</dt>
       <dd>
         <a data-i18n-href-unit="1"
-           data-href-en="{{ '/sources/' | relative_url }}#{{ page.unit }}"
-           data-href-de="{{ '/de/quellen/' | relative_url }}#{{ page.unit }}"
-           href="{% if lang == 'de' %}{{ '/de/quellen/' | relative_url }}#{{ page.unit }}{% else %}{{ '/sources/' | relative_url }}#{{ page.unit }}{% endif %}">{{ u.ref }}</a>
+           data-href-en="{{ '/sources/' | append: page.unit | append: '/' | relative_url }}"
+           data-href-de="{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}"
+           href="{% if lang == 'de' %}{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}{% else %}{{ '/sources/' | append: page.unit | append: '/' | relative_url }}{% endif %}">{{ u.ref }}</a>
         <br><span class="muted">{{ u.archive }}</span>
       </dd>
       {% endif %}

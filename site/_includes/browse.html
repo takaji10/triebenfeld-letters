@@ -1,10 +1,16 @@
 {% include urls.html %}
 <div class="browse">
 
+  {%- comment -%}
+    On a holding's own page (include.unit) the list is that holding's alone:
+    no heading of its own, and no choice of holding.
+  {%- endcomment -%}
+  {% unless include.unit %}
   <header class="browse-head">
     <h1>{{ t.browse_title }}</h1>
     <p class="standfirst">{{ t.browse_lede | replace: '%d', site.data.stats.total }}</p>
   </header>
+  {% endunless %}
 
   <form class="filters" id="filters" autocomplete="off">
     <div class="f-row">
@@ -22,7 +28,7 @@
     </div>
 
     <div class="f-row">
-      {% if site.data.units.size > 1 %}
+      {% if site.data.units.size > 1 and include.unit == nil %}
       <label><span>{{ t.f_unit }}</span>
         <select id="unit"><option value="">{{ t.f_allunits }}</option>
         {% for u in site.data.units %}<option value="{{ u.slug }}">{{ u.ref }} ({{ u.count }})</option>{% endfor %}
@@ -91,6 +97,7 @@
   window.SEARCH_INDEX_URL = "{{ '/assets/search-index.json' | relative_url }}";
   window.I18N = {{ site.data.i18n[lang] | jsonify }};
   window.LANG = "{{ lang }}";
+  window.BROWSE_UNIT = {{ include.unit | default: "" | jsonify }};
   {%- comment -%}
     SITE_BASE, not a documents base. browse.js used to rebuild each result's
     href from a base plus the unit and id, which meant the browse list could

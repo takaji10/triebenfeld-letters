@@ -14,8 +14,23 @@ collections:
   letters:
     output: true
     permalink: /documents/:path/
+  # One page per holding, English and German; each file sets its own permalink.
+  holdings:
+    output: true
+  holdings_de:
+    output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: holdings
+    values:
+      layout: unit
+  - scope:
+      path: ""
+      type: holdings_de
+    values:
+      layout: unit
   - scope:
       path: ""
       type: letters

@@ -8,7 +8,8 @@
 <div class="sources">
   {% for u in site.data.units %}
     <section class="source" id="{{ u.slug }}">
-      <h2>{{ u.ref }}</h2>
+      {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
+      <h2><a href="{{ u_page | relative_url }}">{{ u.ref }}</a></h2>
       <p class="source-archive">{{ u.archive }}</p>
       {%- assign u_title = u.title -%}
       {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
@@ -23,21 +24,12 @@
       </dl>
 
       {%- comment -%}
-        German where the holding has it. Where it does not, the English is
-        shown and SAID to be English, rather than sitting on a German page
-        looking like a translation someone botched.
+        The full description is on the holding's own page, with its documents
+        and an account of how it was prepared.
       {%- endcomment -%}
-      {% if lang == "de" and u.description_de != "" %}
-        <p>{{ u.description_de }}</p>
-      {% elsif lang == "de" and u.description %}
-        <p lang="en">{{ u.description }}</p>
-        <p class="muted"><small>{{ t.desc_en_only }}</small></p>
-      {% elsif u.description %}
-        <p>{{ u.description }}</p>
-      {% endif %}
-
       <p class="source-go">
-        <a href="{{ u_browse | relative_url }}?unit={{ u.slug }}">{{ t.sources_browse }}</a>
+        <a href="{{ u_page | relative_url }}">{{ t.sources_read }}</a>
+        &middot; <a href="{{ u_page | relative_url }}#documents">{{ t.sources_browse }}</a>
       </p>
     </section>
   {% endfor %}
@@ -47,13 +39,9 @@
 .sources { max-width: var(--measure); margin: 2rem 0 3rem; }
 .source { border-top: 1px solid var(--rule); padding: 1.4rem 0; }
 .source h2 { margin: 0; font-size: 1.15rem; }
-.source-archive { margin: .15rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
+.source h2 a { color: inherit; text-decoration: none; }
+.source h2 a:hover { text-decoration: underline; }
 .source-title { margin: .5rem 0 0; color: var(--ink-soft); }
-.source-facts { display: flex; flex-wrap: wrap; gap: 1.6rem; margin: .9rem 0 0; }
-.source-facts div { display: flex; flex-direction: column; }
-.source-facts dt { font-family: var(--sans); font-size: .68rem; letter-spacing: .04em;
-                   text-transform: uppercase; color: var(--ink-faint); }
-.source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; }
 .source p { margin: .9rem 0 0; }
 .source-go { font-family: var(--sans); font-size: .85rem; }
 </style>

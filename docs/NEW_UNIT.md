@@ -20,15 +20,28 @@ Writes `units/<slug>/` with `unit.yml`, an empty `corpus.txt`, `rulings.yml` and
 `notes.md`. Fill in `unit.yml` — where the scans are, how the files are named,
 and the three fields the machine cannot infer:
 
-- **`description`** — what this holding actually is. It reaches the reader, and
-  it reaches the translator and the summariser as the opening of their prompts.
-  "Not correspondence but title deeds" is doing real work there.
+- **`description`** — what this holding actually is, in a paragraph. It opens
+  the translator's and the summariser's prompts. "Not correspondence but title
+  deeds" is doing real work there. The reader no longer sees it: what the
+  reader gets is the holding's own page (below).
 - **`date_span`**, **`ref`** — the archival identity.
 - **`title`** and **`title_de`** — one sentence saying what the holding is
   about, in English and German. It is the line under the reference on the
   Sources page. Not the file's own heading with a gloss ("Acta betr: ... - the
   ministry's file on ..."): the editor found that unhelpful (2026-10-01). The
   archive's own title can be kept as `archive_title`, which nothing displays.
+- **`about.md`** and **`process.md`**, beside `unit.yml` — the two texts of the
+  holding's own page (`/sources/<slug>/`): a full description, and a short
+  account of how the holding was prepared. Write them last, once the documents
+  are read and summarised. Length follows the holding: a few paragraphs for a
+  single deed, several thousand words for a long correspondence. Cite the
+  documents a statement rests on as `[[41]]` or `[[41, 44]]`; name another
+  holding as `[[unit:<slug>]]`; end a paragraph that states nothing from a
+  document with `<!-- context -->`. `check_unit_text.py` (run by
+  `regenerate.py`) fails on a year or a sum the cited documents do not have.
+  `about_de.md` and `process_de.md` are used on the German page where they
+  exist; until then it shows the English and says so. Rules for the prose are
+  in `HOUSE_STYLE.md`.
 - **`translation_note`** — facts about the source that change how it must be
   read, not instructions about style. Latin tags that belong to the legal
   register; passages in another language that are source text rather than

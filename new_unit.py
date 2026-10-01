@@ -80,9 +80,11 @@ scans:
 # The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
 
-# For the reader: shown on this unit's provenance page.
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  TODO: a sentence for the reader.
+  TODO: a paragraph on what this holding is.
 '''
 
 RULINGS_YML = '''# Editorial rulings for {ref}.

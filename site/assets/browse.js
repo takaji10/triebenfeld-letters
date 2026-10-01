@@ -6,6 +6,8 @@
   // this file. Falls back to English wording if the page did not set them.
   var T = window.I18N || {};
   var LANG = window.LANG || 'en';
+  // Set on a holding's own page: the list is that holding's documents only.
+  var FIXED_UNIT = window.BROWSE_UNIT || '';
   function s_(k, dflt) { return (T && T[k] != null) ? T[k] : dflt; }
 
   var DATA = [];
@@ -147,6 +149,30 @@
     els.results.innerHTML = html;
   }
 
+  // On a holding's page the filters offer only what that holding has, with
+  // its own counts: the page built them for the whole edition.
+  function narrowOptions() {
+    function recount(sel, valuesOf) {
+      if (!sel) return;
+      var n = {};
+      DATA.forEach(function (it) {
+        valuesOf(it).forEach(function (v) { if (v) n[v] = (n[v] || 0) + 1; });
+      });
+      Array.prototype.slice.call(sel.options).forEach(function (o) {
+        if (!o.value) return;
+        if (!n[o.value]) { sel.removeChild(o); return; }
+        o.textContent = o.textContent.replace(/\s*\(\d+\)$/, '') + ' (' + n[o.value] + ')';
+      });
+      // A filter with one choice left is no filter.
+      if (sel.options.length < 3 && sel.parentNode) sel.parentNode.hidden = true;
+    }
+    recount(els.era, function (it) { return [it.era]; });
+    recount(els.theme, function (it) { return it.themes || []; });
+    recount(els.year, function (it) { return [it.year]; });
+    recount(els.person, function (it) { return it.people || []; });
+    recount(els.place, function (it) { return [it.place]; });
+  }
+
   function debounce(fn, ms) {
     var t; return function () { clearTimeout(t); t = setTimeout(fn, ms); };
   }
@@ -185,7 +211,10 @@
         return r.json();
       })
       .then(function (rows) {
-        DATA = rows;
+        DATA = FIXED_UNIT
+          ? rows.filter(function (it) { return it.unit === FIXED_UNIT; })
+          : rows;
+        if (FIXED_UNIT) narrowOptions();
         DATA.forEach(function (it) { it._fold = fold(it.text); });
         render();
       })

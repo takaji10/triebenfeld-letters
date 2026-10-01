@@ -60,6 +60,30 @@ And write it so it survives the next source. A description that is true only
 while the project holds what it holds today will have to be rewritten, and will
 instead quietly go stale.
 
+## A holding's own page
+
+Each holding has a page with a full description (`units/<slug>/about.md`) and
+an account of how it was prepared (`process.md`). Both are read by someone
+meeting the holding for the first time (editor, 2026-10-01):
+
+- The description reads like an archive's own description of a holding
+  (creator and dates, historical background, contents, form and language,
+  related holdings): impersonal, matter of fact, academic. No narrative
+  devices and no verdicts ("Every attempt failed", "it was damning").
+  Headings name the section plainly ("Contents"), not the story ("Three
+  attempts"). The editor ruled this on 2026-10-01 after a first, storytelling
+  draft.
+- Every person, estate and office is identified where it first appears.
+  A person is introduced once in full and then called by name: **Prince
+  Friedrich Ludwig of Hohenlohe-Ingelfingen**, thereafter
+  **Hohenlohe-Ingelfingen**. Not "a Prince", not "the Prince".
+- Length follows the holding. A single deed takes a few paragraphs; several
+  hundred letters take several thousand words, under headings.
+- Each statement cites the documents it rests on, and says what is not known.
+- Method belongs in `process.md` and in **About the edition**, not in the
+  description. It is told plainly and briefly: what was done, who decided,
+  what is still uncertain. No tool names, no costs.
+
 ## Concision
 
 Do not over-describe. Cut the sentence that counts and classifies what the next

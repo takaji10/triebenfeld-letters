@@ -124,6 +124,32 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 .figure b { display: block; font-size: 1.7rem; font-weight: 600; font-family: var(--serif); }
 .figure span { font-size: .8rem; color: var(--ink-faint); }
 
+/* ---------------------------------------------------------- holdings */
+
+/* Shared by the list of sources and a holding's own page. */
+.source-archive { margin: .15rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
+.source-facts { display: flex; flex-wrap: wrap; gap: 1.6rem; margin: .9rem 0 0; }
+.source-facts div { display: flex; flex-direction: column; }
+.source-facts dt { font-family: var(--sans); font-size: .68rem; letter-spacing: .04em;
+                   text-transform: uppercase; color: var(--ink-faint); }
+.source-facts dd { margin: .1rem 0 0; font-size: 1.05rem; }
+
+.unit-head { max-width: var(--measure); }
+.unit-head .eyebrow a { color: inherit; }
+.unit-head .standfirst { margin: .7rem 0 0; }
+.unit-tabs { margin: 1.8rem 0 1.4rem; padding-bottom: .9rem; border-bottom: 1px solid var(--rule); }
+.unit-tabs .vbtn { text-decoration: none; font-size: .85rem; padding: .4rem 1rem; }
+.unit-panel { margin-top: 2rem; }
+/* With the tabs working, the tab says what the section is. */
+.tabs-on .unit-panel { margin-top: 0; }
+.tabs-on .unit-panel-h { display: none; }
+.unit-panel .filters { margin-top: 0; }
+.unit-panel h3 { font-size: 1.1rem; margin: 2rem 0 .5rem; }
+.unit-panel h4 { font-size: .95rem; margin: 1.4rem 0 .3rem; font-style: italic; font-weight: 600; }
+/* The documents a statement rests on. */
+.cite { font-family: var(--sans); font-size: .72rem; color: var(--ink-faint); white-space: nowrap; }
+.cite a { color: inherit; }
+
 /* ---------------------------------------------------------- browse */
 
 .browse-head { max-width: var(--measure); }

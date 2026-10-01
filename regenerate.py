@@ -52,6 +52,10 @@ MERGED = [
      'corpus/index/ and corpus/documents/ - what a research agent reads'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
+    # Each holding's description cites the documents it rests on; this holds
+    # every year and sum in it to those documents.
+    ('pipeline/review/check_unit_text.py', "holdings' descriptions",
+     'each statement held to the documents it cites'),
 ]
 
 # after the mapping is rebuilt: the label in each scan filename is derived from
@@ -67,7 +71,7 @@ KEEP = ('documents/', 'text/', 'people ', 'places ', 'dates ', 'relations ',
         'captures ', 'wrote ', 'letter pages checked', 'manuscript pages',
         'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING',
         'labels to update', 'nothing to do', 'merged:', 'skipped ', 'documents',
-        'FAIL', 'ALL CHECKS', 'internal links', 'external resources')
+        'FAIL', 'ALL CHECKS', 'words to look at', 'internal links', 'external resources')
 
 
 def run(script, label, detail, unit=None):
