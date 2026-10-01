@@ -8,8 +8,17 @@ of 1826): the Prussian ministry file on the donation charters of August 1796.
 Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin, I. HA GR, Rep. 7 C,
 Nr. 3570. 28 scans, most of them two-page spreads photographed open. Left out
 on the editor's instruction: 0001, 0027 and 0028, and 0007 (two blank pages).
-The rest (0002-0006, 0008-0026) were copied unchanged into
-raw_dir/processed/ as <capture>_a.jpg and staged; a "page" here is a scan.
+The rest (0002-0006, 0008-0026) were copied into raw_dir/processed/ as
+<capture>_a.jpg and staged.
+
+**Pages (editor, 2026-10-01).** Thirteen openings have a blank left side and
+were cut at the fold to the written right side (`_a2`): 0004, 0008, 0009, 0010,
+0011, 0013, 0015, 0017, 0019, 0021, 0023, 0025, 0026. The editor placed the
+fold on 0004 and 0021; the others were cut at the proposed line. Openings with
+text on both sides stay whole (`_a`): 0003, 0005, 0006, 0012, 0014, 0016, 0018,
+0020, 0022, 0024, with the single page 0002. The blank halves are in
+`processed/_blank_halves/`. Only the images and page ids changed: the text, the
+page numbering and the translation are as before.
 
 ## Transcription
 

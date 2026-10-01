@@ -25,8 +25,11 @@ repository: gstapk-berlin
 
 # 28 scans, most of them two-page spreads photographed open. Left out on the
 # editor's instruction: 0001, 0027 and 0028, and 0007, two blank pages. The
-# rest (0002-0006, 0008-0026) were copied unchanged into raw_dir/processed/ as
-# <capture>_a.jpg and staged from there; a "page" of this holding is a scan.
+# rest (0002-0006, 0008-0026) were copied into raw_dir/processed/ as
+# <capture>_a.jpg. Thirteen openings whose left side is blank were then cut at
+# the fold to the written right side, `_a2` (editor, 2026-10-01): 0004, 0008,
+# 0009, 0010, 0011, 0013, 0015, 0017, 0019, 0021, 0023, 0025, 0026. An opening
+# with text on both sides is not cut and stays one page, `_a`.
 #
 # Not every page is transcribed. 0013-0024 are the same formulaic charters
 # for the other six officers, skipped by the editor as less relevant
@@ -43,8 +46,8 @@ scans:
   ascii_prefix: I_HA_Rep_7_C_Nr_3570
 
 # Transcriptions matched to the scans, one file per scan, kept here as
-# I_HA_Rep_7_C_Nr_3570_<capture>_a.txt (the page id of the scan each was read
-# from); the placeholders above are among them.
+# I_HA_Rep_7_C_Nr_3570_<page id>.txt (0004_a2, 0005_a: the page id of the image
+# each was read from); the placeholders above are among them.
 transcriptions:
   dir: transcriptions          # units/<slug>/transcriptions/
   glob: "*.txt"
