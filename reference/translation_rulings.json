@@ -8,10 +8,22 @@
  ],
  "notes": {
   "oe1bu9454-269a|1|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: the page reads Anweisung. Scan Oe_1_Bu_9454_0490_a2-L269a_01.jpg. \"eine sichere Anweisung\" on 100,000 Rthl is an order to pay; Abweisung, a refusal, cannot take sichere. The model was right not to flag it as ambiguous, and the English - \"a secure instruction to pay\" - stands.",
-  "oe1bu14526-017|6|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: both occurrences on the page read Anweisung. Scan Oe_1_Bu_14526_0106_a1-L17_06.jpg, document lines 97-117. The editor read the page as Am[r/w?]eisung, which is not a German word - and that shape is exactly what Anweisung makes in Kurrent, where the `nw` is a four-minim run that resolves as readily to `mr` or `mw`. The clause settles the sense: `unter Aufsicht und Anweisung des Foersters` is the standard chancery pairing, under the supervision and direction of the forester. This is the DIRECTION sense, not the financial one; Abweisung, a refusal, cannot govern that genitive and makes no sense of Aufsicht und -. The English reads 'under the supervision and direction of the forester' and stands."
+  "oe1bu14526-017|6|rare-pair|Anweisung": "Editor confirmed against the manuscript, 2026-09-11: both occurrences on the page read Anweisung. Scan Oe_1_Bu_14526_0106_a1-L17_06.jpg, document lines 97-117. The editor read the page as Am[r/w?]eisung, which is not a German word - and that shape is exactly what Anweisung makes in Kurrent, where the `nw` is a four-minim run that resolves as readily to `mr` or `mw`. The clause settles the sense: `unter Aufsicht und Anweisung des Foersters` is the standard chancery pairing, under the supervision and direction of the forester. This is the DIRECTION sense, not the financial one; Abweisung, a refusal, cannot govern that genitive and makes no sense of Aufsicht und -. The English reads 'under the supervision and direction of the forester' and stands.",
+  "oe1bu9454-001|1|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"eine sichere Anweisung auf die hundert Tausend rttl.\" is the phrase of letter 269a, its twin, which the editor confirmed on the manuscript on 2026-09-11. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "oe1bu9454-025|2|rare-pair|Anweisungen": "Decided from the sentence, not the scan, 2026-10-01: \"bringe Ihnen die Gelder oder gute Anweisungen\": he will bring the Prince cash or good paper. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "oe1bu9454-026|1|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"eine Anweisung von 6000 rt auf Breslau\" is a draft for a sum on a place. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "oe1bu9454-026|2|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"die Anweisung auf die 6000 rt übermache\", which Minister von Stein will have paid out in cash. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "oe1bu9454-026|3|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: three occurrences, all the same draft: \"Anweisung auf Leipzig\", \"die Anweisung auf mich an die Breslauer Banck\", \"sende ich diese Anweisung\". Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "oe1bu9454-036|2|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"die bekannte Anweisung fr. 6000 Rthl\" is the 6000 rt draft of letter 26. The English read \"instruction\" and was edited to \"order to pay\" to match. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it."
  },
  "cleared": [
   "oe1bu9454-269a|1|rare-pair|Anweisung",
-  "oe1bu14526-017|6|rare-pair|Anweisung"
+  "oe1bu14526-017|6|rare-pair|Anweisung",
+  "oe1bu9454-001|1|rare-pair|Anweisung",
+  "oe1bu9454-025|2|rare-pair|Anweisungen",
+  "oe1bu9454-026|1|rare-pair|Anweisung",
+  "oe1bu9454-026|2|rare-pair|Anweisung",
+  "oe1bu9454-026|3|rare-pair|Anweisung",
+  "oe1bu9454-036|2|rare-pair|Anweisung"
  ]
 }

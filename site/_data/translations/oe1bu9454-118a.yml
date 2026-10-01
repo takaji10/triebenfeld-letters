@@ -1,0 +1,115 @@
+status: draft
+segments:
+- page: 1
+  en: '118
+
+
+    Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    At this very moment a certain Kunckel presented himself to me with 2 colonists from Oleśnica.
+
+
+    The people are willing to pay 1500 rt, but in return wish to have a contract executed.
+
+
+    I have sounded these men out and sought to examine whence they mean to take the monies for the payment
+    of the 17000 Rthl due at Martinmas and Midsummer. They are, as I find, fortune-seekers who build upon
+    shallow speculations, who in the end will not be able to pay, and with whom one will get endless lawsuits.
+
+
+    Should Your Most Serene Highness nevertheless command that a contract be concluded with these people,
+    [uncertain: despite] these gloomy prospects, then I shall have the contract drawn up and shall hold
+    them here until Your Most High return. For the rest, I have already brought Kunckel to such a disposition
+    that he will let the matter be turned as shall be most suitable to Your Most Serene Highness''s interest.
+
+
+    Kunckel has a commission from a certain Chief District Steward Nerlich, that he is to procure for
+    him Trąbczyn or Zagórów in hereditary lease.'
+  names:
+  - de: Kunckel
+    en: Kunckel
+    kind: person
+  - de: Olesnica
+    en: Oleśnica
+    kind: place
+  - de: Nerlich
+    en: Nerlich
+    kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Zagorowo
+    en: Zagórów
+    kind: place
+  - de: Martini
+    en: Martinmas
+    kind: other
+  - de: Johanni
+    en: Midsummer
+    kind: other
+  numbers:
+  - '118'
+  - '2'
+  - '1500'
+  - '17000'
+  - '80000'
+- page: 2
+  en: 'Nerlich has 80000 rt in cash for this purchase, which he can pay out in full within one year.
+
+
+    Kunckel is willing to bring this about, in order to earn more by it than by the colonists.
+
+
+    May Your Most Serene Highness deign most graciously to instruct me how I am to handle the matter.
+
+
+    Walichnowski has just written and wishes to know in detail what he is to give, so that he may incur
+    no unnecessary travelling costs. Otherwise, however, a certain Urbanowski has sent by express for
+    the Trąbczyn valuation. He promises for certain to come and to bring a good deal of money with him
+    at once — should he come sooner than Walichnowski, then I shall conclude with [uncertain: him] according
+    to the instruction given me.
+
+
+    In deepest reverence I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    Wrocław, the 10th of February 1804.
+
+
+    most faithful servant
+
+
+    v Triebenfeld'
+  names:
+  - de: Nerlich
+    en: Nerlich
+    kind: person
+  - de: Kunckel
+    en: Kunckel
+    kind: person
+  - de: Walichnowski
+    en: Walichnowski
+    kind: person
+  - de: Urbanowski
+    en: Urbanowski
+    kind: person
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '80000'
+  - 10ten
+  - '1804'

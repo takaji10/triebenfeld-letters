@@ -1,0 +1,81 @@
+status: draft
+segments:
+- page: 1
+  en: '171
+
+
+    Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. Since I know that Your Right
+    Honourable takes an interest in news of my most gracious Lord, I take the liberty of conveying to
+    you the assurance that His Serene Highness is almost entirely healed of the Bible in his foot, and
+    is in other respects perfectly well; the foot is only a little swollen still, and causes no pain.
+    His Serene Highness wishes to be most kindly commended to you. The Order of St Andrew has given pleasure,
+    yet the courteous conduct of His Majesty the Emperor has given rise to still greater satisfaction.'
+  names:
+  - de: Krieges und Forst Rath
+    en: Councillor of War and Forests
+    kind: other
+  - de: Sr Durchlaucht
+    en: His Serene Highness
+    kind: person
+  - de: Andreas Orden
+    en: Order of St Andrew
+    kind: other
+  - de: Kaysers
+    en: Emperor
+    kind: person
+  numbers:
+  - '171'
+- page: 2
+  en: 'The Prince is quite enchanted by this young and courteous monarch. In Wrocław too the Emperor is
+    said to have spoken of His Serene Highness in the most flattering terms.
+
+
+    Today the Hohenlohe regiment marched through here; the Prince had ridden out to meet it. Tomorrow
+    the Duke of Weimar is expected here. I commend myself to Your Right Honourable''s favour, and have
+    the honour to remain in the most boundless esteem,
+
+
+    Your Right Honourable''s
+
+
+    Erfurt, 24 November
+
+
+    1805
+
+
+    humble and obedient servant
+
+
+    A. Hahn'
+  names:
+  - de: Fürst
+    en: Prince
+    kind: person
+  - de: breslau
+    en: Wrocław
+    kind: place
+  - de: Kayser
+    en: Emperor
+    kind: person
+  - de: Sr. Durchlaucht
+    en: His Serene Highness
+    kind: person
+  - de: Regiment Hohenlohe
+    en: Hohenlohe regiment
+    kind: other
+  - de: Herzog von Weimar
+    en: Duke of Weimar
+    kind: person
+  - de: Weimar
+    en: Weimar
+    kind: place
+  - de: Erfurt
+    en: Erfurt
+    kind: place
+  - de: A. Hahn
+    en: A. Hahn
+    kind: person
+  numbers:
+  - '24'
+  - '1805'

@@ -1,0 +1,31 @@
+status: draft
+segments:
+- page: 1
+  en: 'Warsaw, the 5th of March 1812.
+
+
+    Dear Brother, I hasten to inform you that, on account of various matters of business, I shall not
+    be able to set out from Warsaw until the 15th of this month. The affair concerning Trąbczyn stands,
+    according to the reliable intelligence I have gathered, quite well, of which I shall tell you more
+    by word of mouth. For shortness of time, as the conveyance is departing, I cannot write you more.
+    Farewell
+
+
+    to the friend and brothe[r]
+
+
+    Brzechffa'
+  names:
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Brzechffa
+    en: Brzechffa
+    kind: person
+  numbers:
+  - '5'
+  - '1812'
+  - '15'

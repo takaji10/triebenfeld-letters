@@ -1,0 +1,81 @@
+status: draft
+segments:
+- page: 1
+  en: 189. Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. I hereby report to
+    Your Right Honourable that the death of the mining councillor Bernhardi has brought upon me the orders
+    to travel to Upper Silesia, and to settle the affairs of this lordship in company with the Inspector
+    Krenig and the Master of Forests Reichmann. I may hope that under the direction of these men matters
+    will go better, since both of them are known to me
+  names:
+  - de: Bernhardi
+    en: Bernhardi
+    kind: person
+  - de: Oberschlesien
+    en: Upper Silesia
+    kind: place
+  - de: Krenig
+    en: Krenig
+    kind: person
+  - de: Reichmann
+    en: Reichmann
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  numbers:
+  - '189'
+- page: 2
+  en: 'as upright and judicious men of business. Once I have finished in Koszęcin I shall return to Wrocław
+    and from there into the Reich. To leave Silesia without having paid my respects to Your Right Honourable
+    is something I could not forgive myself. I therefore beg the same most obediently and the permission
+    — to be allowed to visit you in Trąbczyn and there to pay my attendance. I have on that account also
+    already applied to His Serene Highness and gracious permission, which I hope to obtain.
+
+
+    Koszęcin will give one something to do,'
+  names:
+  - de: Koschentin
+    en: Koszęcin
+    kind: place
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Reich
+    en: Reich
+    kind: place
+- page: 3
+  en: 'for, as one hears, everything there is not in the best order. Should Your Right Honourable be pleased
+    to gladden me with a few lines to Koszęcin, I should be very happy. Herlich, whom I have with me,
+    commends himself to your favour. I [uncertain: add] only still the assurance of most perfect veneration,
+    in which I ever remain: Your Right Honourable''s, Klein Althammer
+
+
+    the 19th of July 1806.
+
+
+    most humble and obedient servant
+
+
+    A. Hahn'
+  names:
+  - de: Koschentin
+    en: Koszęcin
+    kind: place
+  - de: Herlich
+    en: Herlich
+    kind: person
+  - de: Klein Althammer
+    en: Klein Althammer
+    kind: place
+  - de: A. Hahn
+    en: A. Hahn
+    kind: person
+  numbers:
+  - '19'
+  - '1806'

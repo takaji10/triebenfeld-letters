@@ -1,0 +1,188 @@
+status: draft
+segments:
+- page: 1
+  en: '242
+
+
+    Most Serene Prince
+
+
+    Most gracious Prince and Lord!
+
+
+    After a toilsome journey, upon which I spent 3 days and 2 nights, I have arrived in Vienna — I found
+    the most exorbitant dearness to be the order of the day here; the dear and sometimes very tattered
+    paper, which as is well known takes the place of ready money, brings the stranger to the verge of
+    ruin, because neither the native nor the foreigner sets it right. But of that a Floro — the honest
+    man may not live without calculation — My text, with which I came hither, was to work and to accomplish.
+    The first thing I heard upon my entry into the famous imperial city was the shattering news that the
+    Congress has been postponed to the first of November, that the sovereigns are travelling to Ofen and
+    Post for several days, there to hold great [uncertain: monreniren] and to return towards the end of
+    this month. Further, that France is resisting our Saxon and Polish acquisition very strongly. My old
+    patriotic heart could have burst over this [uncertain: Neuweke]. — And I hope that this is merely
+    a façon de parler, or rather a feu de paille — Prince Hardenberg, whom I have found in good health
+    and strong, stands firm in his mind and will let nothing be taken from him of his right — so much,
+    meanwhile, on general matters — Now as to the various affairs — The Württemberg affairs go well —
+    the King of W[ürttemberg], who is at bottom very discontented here, will concede much; he will himself
+    draft a constitution and lay the same before the allied monarchies for examination and confirmation'
+  names:
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: Ofen
+    en: Ofen
+    kind: place
+  - de: Post
+    en: Post
+    kind: place
+  - de: Frankreich
+    en: France
+    kind: place
+  - de: Sächßiſche
+    en: Saxon
+    kind: other
+  - de: Pohlnische
+    en: Polish
+    kind: other
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Würtembergsche
+    en: Württemberg
+    kind: other
+  - de: König von W[ürtemberg]
+    en: King of W[ürttemberg]
+    kind: person
+  - de: Floro
+    en: Floro
+    kind: other
+  numbers:
+  - '242'
+  - '3'
+  - '2'
+  - '1814'
+- page: 2
+  en: '— the estates as a body are storming in upon the good gentleman, and find a satisfied hearing —
+    Prince Mett[ernich] would be the chief opponent of this ruler — but the marriage is held to be certain,
+    and since the title of Royal Highness is to be conferred, this may well bring about a change in the
+    sentiments of Prince M — I have invited the privy councillor von Gärtner to me today at noon, where
+    someone else from the Cabinet will also be with me — He appears to be a man à la [uncertain: fandel],
+    though more settled — the privy councillor Goesch is a fine, courteous and good-natured man, who through
+    the Princess — who for the present, together with her consort, commends herself most cordially to
+    Your Serene Highness — is more effective than the former — Mr von Gärtner is an author, and [text
+    lost] many writings against Württemberg, Baden and Nassau are circulating here — by the next post
+    I shall send over several of them. With B[arbe] and A. I have spoken very fully about the Sławięcice
+    affairs, and have taken their counsel before I submitted the matter to the Lord State Chancellor Prince
+    Hardenberg — My plan has been very much approved, and they will guarantee its success. Concerning
+    Koszęcin I can bring nothing forward as yet — the funds required in the Courland matter already appeared
+    a very, very great capital — this business will therefore only come on once the Courland one has succeeded.
+    With regard to the Kulm and Kamionna matter, as also the Trąbczyn matter, [uncertain: Land] nothing
+    can be determined sooner than until Poland''s fate is decided — this much, however, I do know, that
+    the Moscinska née Prusimska has great friends, and that even Count Nesſi has been drawn into their
+    game through Landskoy. It is sad that all our [uncertain: Concire] go to Berlin by way of Prague and
+    Dresden. With the frequent traffic I could have sent Your Serene Highness many a thing already — yet
+    I shall neglect nothing —
+
+
+    In deepest reverence I remain, until death,
+
+
+    Your Serene Highness''s
+
+
+    P.S. This moment I learn that all princes who cannot furnish 12000 men are to be mediatised for ever;
+    then one will also have [text lost] olden[text lost] it, unless it be that it is to [uncertain: nachtsrhalt]
+    Vienna, the 12th of 8br 1814
+
+
+    most faithful and humble and obedient servant
+
+
+    v Triebenfeld'
+  names:
+  - de: Fürst Mett[ernich]
+    en: Prince Mett[ernich]
+    kind: person
+  - de: Fürsten M
+    en: Prince M
+    kind: person
+  - de: v Gärtner
+    en: von Gärtner
+    kind: person
+  - de: Goesch
+    en: Goesch
+    kind: person
+  - de: Würtemberg
+    en: Württemberg
+    kind: place
+  - de: Baden
+    en: Baden
+    kind: place
+  - de: Nassau
+    en: Nassau
+    kind: place
+  - de: B[arbe]
+    en: B[arbe]
+    kind: person
+  - de: 'A:'
+    en: A.
+    kind: person
+  - de: Schlaw[enschitz]
+    en: Sławięcice
+    kind: place
+  - de: Fürsten Hardenberg
+    en: Prince Hardenberg
+    kind: person
+  - de: Koschentin
+    en: Koszęcin
+    kind: place
+  - de: Cur[ische]
+    en: Courland
+    kind: place
+  - de: Curische
+    en: Courland
+    kind: place
+  - de: Kulm
+    en: Kulm
+    kind: place
+  - de: Kaemener
+    en: Kamionna
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Pohlens
+    en: Poland
+    kind: place
+  - de: Moscinska
+    en: Moscinska
+    kind: person
+  - de: Prusimska
+    en: Prusimska
+    kind: person
+  - de: Graf Nesſi
+    en: Count Nesſi
+    kind: person
+  - de: Landskoy
+    en: Landskoy
+    kind: person
+  - de: Prag
+    en: Prague
+    kind: place
+  - de: Dresden
+    en: Dresden
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Wien
+    en: Vienna
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '12000'
+  - '12'
+  - '8'
+  - '1814'

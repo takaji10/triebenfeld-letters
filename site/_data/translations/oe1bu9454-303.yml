@@ -1,0 +1,1378 @@
+status: draft
+segments:
+- page: 1
+  en: ',Extract from the Princely Hohenlohe Liquidation Protocols,Gold,,,Courant,,
+
+    ,Capital Claims,Rthl,g,d,Rthl,g,d
+
+    1,The former kitchen master Kuch,100,,,"5,050",,
+
+    2,Privy Councillor Strahlen at Wallerstein,,,,"2,666",16,
+
+    3,the von Sobottendorff heirs.,,,,"44,200",,
+
+    4,the Countess Hoym née von Tauenzien,,,,"5,000",,
+
+    5,Mr von Feannert[uncertain],,,,200,,
+
+    6,Mr von Czarnetzki,,,,400,,
+
+    7,The saddler Gleisberger at Potsdam,,,,64,,
+
+    8,Mr von Bornstädt,,,,"5,000",,
+
+    9,The locksmith Rass,,,,"2,370",,
+
+    10,The joiner Schick,,,,"3,400",,
+
+    11,Mr von Kluge,,,,"3,000",,
+
+    12,Franz Apfelfeld at Ujazd,,,,310,,
+
+    13,The former table-setter Deuser,,,,200,,
+
+    14,The head forester Krippendorff,,,,"3,700",,
+
+    15,Jung at Benshausen,"3,635",,,,,
+
+    16,Lombardini +,,,,,,'
+  names:
+  - de: Fürstlich Hohenloheschen
+    en: Princely Hohenlohe
+    kind: other
+  - de: Kuch
+    en: Kuch
+    kind: person
+  - de: Strahlen
+    en: Strahlen
+    kind: person
+  - de: Wallerstein
+    en: Wallerstein
+    kind: place
+  - de: v Sobottendorffischen
+    en: von Sobottendorff
+    kind: person
+  - de: Hoym
+    en: Hoym
+    kind: person
+  - de: v Tauenzien
+    en: von Tauenzien
+    kind: person
+  - de: v. Feannert[?]
+    en: von Feannert
+    kind: person
+  - de: v. Czarnetzki
+    en: von Czarnetzki
+    kind: person
+  - de: Gleisberger
+    en: Gleisberger
+    kind: person
+  - de: Potsdam
+    en: Potsdam
+    kind: place
+  - de: v. Bornstädt
+    en: von Bornstädt
+    kind: person
+  - de: Rass
+    en: Rass
+    kind: person
+  - de: Schick
+    en: Schick
+    kind: person
+  - de: v. Kluge
+    en: von Kluge
+    kind: person
+  - de: Franz Apfelfeld
+    en: Franz Apfelfeld
+    kind: person
+  - de: Ujest
+    en: Ujazd
+    kind: place
+  - de: Deuser
+    en: Deuser
+    kind: person
+  - de: Krippendorff
+    en: Krippendorff
+    kind: person
+  - de: Jung
+    en: Jung
+    kind: person
+  - de: Benshausen
+    en: Benshausen
+    kind: place
+  - de: Lombardini
+    en: Lombardini
+    kind: person
+  numbers:
+  - '100'
+  - 5,050
+  - 2,666
+  - '16'
+  - 44,200
+  - 5,000
+  - '200'
+  - '400'
+  - '64'
+  - 5,000
+  - 2,370
+  - 3,400
+  - 3,000
+  - '310'
+  - '200'
+  - 3,700
+  - 3,635
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <caption>Extract from the Princely Hohenlohe Liquidation Protocols</caption>
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">1</td><td class="name">The former kitchen master Kuch</td><td class="num">100</td><td
+    class="num"></td><td class="num"></td><td class="num">5,050</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">2</td><td class="name">Privy Councillor Strahlen at Wallerstein</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">2,666</td><td class="num">16</td><td class="num"></td></tr><tr><td
+    class="no">3</td><td class="name">the von Sobottendorff heirs.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">44,200</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">4</td><td class="name">the Countess Hoym née von Tauenzien</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">5,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">5</td><td class="name">Mr von Feannert[uncertain]</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">200</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">6</td><td
+    class="name">Mr von Czarnetzki</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">400</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">7</td><td class="name">The
+    saddler Gleisberger at Potsdam</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">64</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">8</td><td class="name">Mr
+    von Bornstädt</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">5,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">9</td><td class="name">The locksmith
+    Rass</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">2,370</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">10</td><td class="name">The joiner Schick</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">3,400</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">11</td><td class="name">Mr von Kluge</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">3,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">12</td><td class="name">Franz Apfelfeld at Ujazd</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">310</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">13</td><td
+    class="name">The former table-setter Deuser</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">200</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">14</td><td class="name">The
+    head forester Krippendorff</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">3,700</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">15</td><td
+    class="name">Jung at Benshausen</td><td class="num">3,635</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">16</td><td class="name">Lombardini
+    +</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 2
+  en: '17,The Jewess Golde in Wrocław,,,,"6,000",,
+
+    18,the innkeeper Köber in Ansbach,,,,319,12,
+
+    19,Mrs Bernhardi the mining councillor''s wife in Wrocław,,,,,,
+
+    20,Heirs of Label Joseph Levin,,,,"13,275",,
+
+    21,Countess von Lichtenau,250,,,,,
+
+    22,Mrs Charlotte von Triebenfeld,,,,"112,000",,
+
+    23,Court Councillor Hahn,,,,,,
+
+    24,Housekeeper Hoffmann,,,,,,
+
+    25,Fraube & Schlesinger at Ujazd.,,,,"2,978",18,
+
+    26,Goldstücker,,,,"170,000",,
+
+    27,The tinsmith Schweizhoffer''s widow,,,,90,,
+
+    28,Joh. Eleon: Pedell at Carlsruhe,,,,"4,000",,
+
+    29,Count von Pückler,,,,,,
+
+    30,The butcher Rilitzer at Sławięcice,,,,"1,188",13,
+
+    31,Mr von Delitz,,,,300,,
+
+    32,Mendel''s widow at Frankfurt am Main,,,,483,12,
+
+    33,Burghard''s widow at Erfurt,,,,,,
+
+    34,The surgeon Sternitzky,,,,222,21,6
+
+    35,Dorr''s widow at Griesbach.,,,,342,20,'
+  names:
+  - de: Golde
+    en: Golde
+    kind: person
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Köber
+    en: Köber
+    kind: person
+  - de: Ansbach
+    en: Ansbach
+    kind: place
+  - de: Bernhardi
+    en: Bernhardi
+    kind: person
+  - de: Label Joseph Levin
+    en: Label Joseph Levin
+    kind: person
+  - de: von Lichtenau
+    en: von Lichtenau
+    kind: person
+  - de: Charlotte von Triebenfeld
+    en: Charlotte von Triebenfeld
+    kind: person
+  - de: Hahn
+    en: Hahn
+    kind: person
+  - de: Hoffmann
+    en: Hoffmann
+    kind: person
+  - de: Fraube & Schlesinger
+    en: Fraube & Schlesinger
+    kind: other
+  - de: Ujest
+    en: Ujazd
+    kind: place
+  - de: Goldstücker
+    en: Goldstücker
+    kind: person
+  - de: Schweizhoffers
+    en: Schweizhoffer
+    kind: person
+  - de: 'Joh. Eleon: Pedell'
+    en: 'Joh. Eleon: Pedell'
+    kind: person
+  - de: Carlsruhe
+    en: Carlsruhe
+    kind: place
+  - de: v. Pückler
+    en: von Pückler
+    kind: person
+  - de: Rilitzer
+    en: Rilitzer
+    kind: person
+  - de: Schlawenschitz
+    en: Sławięcice
+    kind: place
+  - de: von Delitz
+    en: von Delitz
+    kind: person
+  - de: Mendels
+    en: Mendel
+    kind: person
+  - de: Frankfurt a.m.
+    en: Frankfurt am Main
+    kind: place
+  - de: Burghards
+    en: Burghard
+    kind: person
+  - de: Erfurt
+    en: Erfurt
+    kind: place
+  - de: Sternitzky
+    en: Sternitzky
+    kind: person
+  - de: Dorrs
+    en: Dorr
+    kind: person
+  - de: Griesbach
+    en: Griesbach
+    kind: place
+  numbers:
+  - 6,000
+  - '319'
+  - '12'
+  - 13,275
+  - '250'
+  - 112,000
+  - 2,978
+  - '18'
+  - 170,000
+  - '90'
+  - 4,000
+  - 1,188
+  - '13'
+  - '300'
+  - '483'
+  - '12'
+  - '222'
+  - '21'
+  - '6'
+  - '342'
+  - '20'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">17</td><td class="name">The Jewess Golde in Wrocław</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">6,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">18</td><td class="name">the innkeeper Köber in Ansbach</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">319</td><td class="num">12</td><td class="num"></td></tr><tr><td
+    class="no">19</td><td class="name">Mrs Bernhardi the mining councillor&#x27;s wife in Wrocław</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">20</td><td class="name">Heirs of Label Joseph Levin</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">13,275</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">21</td><td class="name">Countess von Lichtenau</td><td class="num">250</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">22</td><td class="name">Mrs Charlotte von Triebenfeld</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">112,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">23</td><td class="name">Court Councillor Hahn</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">24</td><td
+    class="name">Housekeeper Hoffmann</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">25</td><td class="name">Fraube
+    &amp; Schlesinger at Ujazd.</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">2,978</td><td class="num">18</td><td class="num"></td></tr><tr><td class="no">26</td><td
+    class="name">Goldstücker</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">170,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">27</td><td class="name">The tinsmith
+    Schweizhoffer&#x27;s widow</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">90</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">28</td><td class="name">Joh.
+    Eleon: Pedell at Carlsruhe</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">4,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">29</td><td
+    class="name">Count von Pückler</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">30</td><td class="name">The
+    butcher Rilitzer at Sławięcice</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">1,188</td><td class="num">13</td><td class="num"></td></tr><tr><td class="no">31</td><td
+    class="name">Mr von Delitz</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">300</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">32</td><td class="name">Mendel&#x27;s
+    widow at Frankfurt am Main</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">483</td><td class="num">12</td><td class="num"></td></tr><tr><td class="no">33</td><td
+    class="name">Burghard&#x27;s widow at Erfurt</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">34</td><td class="name">The
+    surgeon Sternitzky</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">222</td><td
+    class="num">21</td><td class="num">6</td></tr><tr><td class="no">35</td><td class="name">Dorr&#x27;s
+    widow at Griesbach.</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">342</td><td
+    class="num">20</td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 3
+  en: '36,The former valet Günther,,,,"1,342",,
+
+    37,Parson at Sławięcice,,,,300,,
+
+    38,Schoen at Jacobswalde,,,,800,,
+
+    39,Lieutenant Ludwig at Wrocław,,,,"11,200",,
+
+    40,Forester Palemba''s widow,,,,"1,114",6,10
+
+    41,Maxiliano von Holly at Munster,,,,300,,
+
+    42,The merchant Giesche at Wrocław,,,,850,,
+
+    43,The merchant Focke,"10,000",,,,,
+
+    44,Abraham Hirsch Schweizer,,,,400,,
+
+    45,Confectioner Krause at Szczytniki,,,,142,18,11
+
+    46,Chief bailiff Koenig,,,,"3,000",,
+
+    47,Barter Gluttmann,,,,"2,103",13,9
+
+    48,The butcher Schumann,,,,"8,966",4,11
+
+    49,Werner & Co.,,,,"1,983",,
+
+    50,Loebel Fraenkel,,,,"4,000",,
+
+    51,Chief bailiff Koehler,,,,"1,327",2,
+
+    52,Freihaber''s minor children,,,,"1,222",20,11
+
+    53,Court agent E Heimann,,,,"8,000",,
+
+    54,Mr Carl von Stössel,,,,"191,000",,'
+  names:
+  - de: Günther
+    en: Günther
+    kind: person
+  - de: Schlawenschitz
+    en: Sławięcice
+    kind: place
+  - de: Schoen
+    en: Schoen
+    kind: person
+  - de: Jacobswalde
+    en: Jacobswalde
+    kind: place
+  - de: Ludwig
+    en: Ludwig
+    kind: person
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Palemba
+    en: Palemba
+    kind: person
+  - de: Maxiliano von Holly
+    en: Maxiliano von Holly
+    kind: person
+  - de: Munster
+    en: Munster
+    kind: place
+  - de: Giesche
+    en: Giesche
+    kind: person
+  - de: Focke
+    en: Focke
+    kind: person
+  - de: Abraham Hirsch Schweizer
+    en: Abraham Hirsch Schweizer
+    kind: person
+  - de: Krause
+    en: Krause
+    kind: person
+  - de: Scheitnich
+    en: Szczytniki
+    kind: place
+  - de: Koenig
+    en: Koenig
+    kind: person
+  - de: Gluttmann
+    en: Gluttmann
+    kind: person
+  - de: Schumann
+    en: Schumann
+    kind: person
+  - de: Werner & Comp
+    en: Werner & Co.
+    kind: other
+  - de: Loebel Fraenkel
+    en: Loebel Fraenkel
+    kind: person
+  - de: Koehler
+    en: Koehler
+    kind: person
+  - de: Freihabers
+    en: Freihaber
+    kind: person
+  - de: E Heimann
+    en: E Heimann
+    kind: person
+  - de: Carl v Stoessel
+    en: Carl von Stössel
+    kind: person
+  numbers:
+  - 1,342
+  - '300'
+  - '800'
+  - 11,200
+  - 1,114
+  - '6'
+  - '10'
+  - '300'
+  - '850'
+  - 10,000
+  - '400'
+  - '142'
+  - '18'
+  - '11'
+  - 3,000
+  - 2,103
+  - '13'
+  - '9'
+  - 8,966
+  - '4'
+  - '11'
+  - 1,983
+  - 4,000
+  - 1,327
+  - '2'
+  - 1,222
+  - '20'
+  - '11'
+  - 8,000
+  - 191,000
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">36</td><td class="name">The former valet Günther</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">1,342</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">37</td><td class="name">Parson at Sławięcice</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">300</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">38</td><td
+    class="name">Schoen at Jacobswalde</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">800</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">39</td><td class="name">Lieutenant
+    Ludwig at Wrocław</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">11,200</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">40</td><td class="name">Forester Palemba&#x27;s
+    widow</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,114</td><td
+    class="num">6</td><td class="num">10</td></tr><tr><td class="no">41</td><td class="name">Maxiliano
+    von Holly at Munster</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">300</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">42</td><td class="name">The merchant
+    Giesche at Wrocław</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">850</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">43</td><td class="name">The merchant
+    Focke</td><td class="num">10,000</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">44</td><td class="name">Abraham Hirsch
+    Schweizer</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">400</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">45</td><td class="name">Confectioner
+    Krause at Szczytniki</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">142</td><td
+    class="num">18</td><td class="num">11</td></tr><tr><td class="no">46</td><td class="name">Chief bailiff
+    Koenig</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">3,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">47</td><td class="name">Barter Gluttmann</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">2,103</td><td class="num">13</td><td
+    class="num">9</td></tr><tr><td class="no">48</td><td class="name">The butcher Schumann</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">8,966</td><td class="num">4</td><td class="num">11</td></tr><tr><td
+    class="no">49</td><td class="name">Werner &amp; Co.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,983</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">50</td><td class="name">Loebel Fraenkel</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">4,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">51</td><td class="name">Chief bailiff Koehler</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,327</td><td class="num">2</td><td class="num"></td></tr><tr><td
+    class="no">52</td><td class="name">Freihaber&#x27;s minor children</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,222</td><td class="num">20</td><td class="num">11</td></tr><tr><td
+    class="no">53</td><td class="name">Court agent E Heimann</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">8,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">54</td><td class="name">Mr Carl von Stössel</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">191,000</td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 4
+  en: '55,Mr Sigismund von Stössel,,,,100,,
+
+    56,K. S. Mützel,,,,650,,
+
+    57,Major von Sak,,,,500,,
+
+    58,von Zerboni,,,,"1,000",,
+
+    59,Lieutenant Gas,,,,500,,
+
+    60,Infiz. Franz. Meyer,,,,,,
+
+    61,the widow Brosemann,,,,300,,
+
+    62,to J. K[illegible]. R. Brasfert,,,,,,
+
+    63,the merchant Schmidt''s heirs.,,,,"15,500",,
+
+    64,Über,,,,449,,
+
+    65,Major von Münchow,,,,600,,
+
+    66,The widowed Mrs Brehmer the colonel''s wife.,,,,"5,000",,
+
+    67,the gardener Nickel,,,,341,19,
+
+    68,the Elsner day-labourer''s heirs,,,,834,10,
+
+    69,the saddler Hennig,,,,671,20,6
+
+    70,to the curator of Sigismund von Stössel,,,,"169,400",,
+
+    71,Councillor of Justice Panz for Zerboni,,,,"4,974",,'
+  names:
+  - de: Sigismund v Stoessel
+    en: Sigismund von Stössel
+    kind: person
+  - de: K. S. Mützel
+    en: K. S. Mützel
+    kind: person
+  - de: v. Sak
+    en: von Sak
+    kind: person
+  - de: v. Zerboni
+    en: von Zerboni
+    kind: person
+  - de: Gas
+    en: Gas
+    kind: person
+  - de: Franz. Meyer
+    en: Franz. Meyer
+    kind: person
+  - de: Brosemann
+    en: Brosemann
+    kind: person
+  - de: Brasfert
+    en: Brasfert
+    kind: person
+  - de: Schmidts
+    en: Schmidt
+    kind: person
+  - de: Über
+    en: Über
+    kind: person
+  - de: von Münchow
+    en: von Münchow
+    kind: person
+  - de: Brehmer
+    en: Brehmer
+    kind: person
+  - de: Nickel
+    en: Nickel
+    kind: person
+  - de: Elsnerschen
+    en: Elsner
+    kind: person
+  - de: Hennig
+    en: Hennig
+    kind: person
+  - de: Sigesm. p. Stoesselschen
+    en: Sigismund von Stössel
+    kind: person
+  - de: Panz
+    en: Panz
+    kind: person
+  - de: Zerboni
+    en: Zerboni
+    kind: person
+  numbers:
+  - '100'
+  - '650'
+  - '500'
+  - 1,000
+  - '500'
+  - '300'
+  - 15,500
+  - '449'
+  - '600'
+  - 5,000
+  - '341'
+  - '19'
+  - '834'
+  - '10'
+  - '671'
+  - '20'
+  - '6'
+  - 169,400
+  - 4,974
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">55</td><td class="name">Mr Sigismund von Stössel</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">100</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">56</td><td class="name">K. S. Mützel</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">650</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">57</td><td
+    class="name">Major von Sak</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">500</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">58</td><td class="name">von
+    Zerboni</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">59</td><td class="name">Lieutenant Gas</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">500</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">60</td><td class="name">Infiz. Franz. Meyer</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">61</td><td class="name">the widow Brosemann</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">300</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">62</td><td
+    class="name">to J. K[illegible]. R. Brasfert</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">63</td><td class="name">the
+    merchant Schmidt&#x27;s heirs.</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">15,500</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">64</td><td
+    class="name">Über</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">449</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">65</td><td class="name">Major von Münchow</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">600</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">66</td><td class="name">The widowed Mrs Brehmer the colonel&#x27;s
+    wife.</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">5,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">67</td><td class="name">the gardener
+    Nickel</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">341</td><td
+    class="num">19</td><td class="num"></td></tr><tr><td class="no">68</td><td class="name">the Elsner
+    day-labourer&#x27;s heirs</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">834</td><td
+    class="num">10</td><td class="num"></td></tr><tr><td class="no">69</td><td class="name">the saddler
+    Hennig</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">671</td><td
+    class="num">20</td><td class="num">6</td></tr><tr><td class="no">70</td><td class="name">to the curator
+    of Sigismund von Stössel</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">169,400</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">71</td><td class="name">Councillor of
+    Justice Panz for Zerboni</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">4,974</td><td
+    class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 5
+  en: '72,To the merchant Schlipalius,,,,"22,808",,
+
+    73,Banker Frank,,,,"4,079",11,
+
+    74,Abraham Hirschel,,,,"5,079",16,
+
+    75,the Zinger heirs.,,,,"4,000",,
+
+    76,to the potter Bettner,,,,342,5,7
+
+    77,The von Köckritz heirs,,,,"50,000",,
+
+    78,the Gottheimer brothers,,,,"16,237",2,6
+
+    79,Meyer Herz Cohn,,,,"1,200",,
+
+    80,Valentin Jung at Brenzhausen.,,,,,,
+
+    81,The merchant Lampe''s bankrupt estate,,,,"7,066",10,6
+
+    82,the Treasury,,,,"35,000",,
+
+    83,The merchant Barnheim at Berlin,,,,"76,791",,
+
+    84,the Eichter minor children,,,,864,16,
+
+    85,to the Councillor of Justice Müller,,,,10,16,2
+
+    86,Councillor of Justice Münezer,75,,,50,,
+
+    87,The merchant Weinhold,,,,291,8,
+
+    88,the widowed merchant''s wife Adolph,,,,333,8,'
+  names:
+  - de: Schlipalius
+    en: Schlipalius
+    kind: person
+  - de: Frank
+    en: Frank
+    kind: person
+  - de: Abraham Hirschel
+    en: Abraham Hirschel
+    kind: person
+  - de: Zingerschen
+    en: Zinger
+    kind: person
+  - de: Bettner
+    en: Bettner
+    kind: person
+  - de: v Köckritzschen
+    en: von Köckritz
+    kind: person
+  - de: Gottheimer
+    en: Gottheimer
+    kind: person
+  - de: Meyer Herz Cohn
+    en: Meyer Herz Cohn
+    kind: person
+  - de: Valentin Jung
+    en: Valentin Jung
+    kind: person
+  - de: Brenzhausen
+    en: Brenzhausen
+    kind: place
+  - de: Lampe
+    en: Lampe
+    kind: person
+  - de: Barnheim
+    en: Barnheim
+    kind: person
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Eichterschen
+    en: Eichter
+    kind: person
+  - de: Müller
+    en: Müller
+    kind: person
+  - de: Münezer
+    en: Münezer
+    kind: person
+  - de: Weinhold
+    en: Weinhold
+    kind: person
+  - de: Adolph
+    en: Adolph
+    kind: person
+  numbers:
+  - 22,808
+  - 4,079
+  - '11'
+  - 5,079
+  - '16'
+  - 4,000
+  - '342'
+  - '5'
+  - '7'
+  - 50,000
+  - 16,237
+  - '2'
+  - '6'
+  - 1,200
+  - 7,066
+  - '10'
+  - '6'
+  - 35,000
+  - 76,791
+  - '864'
+  - '16'
+  - '10'
+  - '16'
+  - '2'
+  - '75'
+  - '50'
+  - '291'
+  - '8'
+  - '333'
+  - '8'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">72</td><td class="name">To the merchant Schlipalius</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">22,808</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">73</td><td class="name">Banker Frank</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">4,079</td><td class="num">11</td><td class="num"></td></tr><tr><td
+    class="no">74</td><td class="name">Abraham Hirschel</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">5,079</td><td class="num">16</td><td class="num"></td></tr><tr><td
+    class="no">75</td><td class="name">the Zinger heirs.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">4,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">76</td><td class="name">to the potter Bettner</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">342</td><td class="num">5</td><td class="num">7</td></tr><tr><td
+    class="no">77</td><td class="name">The von Köckritz heirs</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">50,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">78</td><td class="name">the Gottheimer brothers</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">16,237</td><td class="num">2</td><td class="num">6</td></tr><tr><td
+    class="no">79</td><td class="name">Meyer Herz Cohn</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,200</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">80</td><td class="name">Valentin Jung at Brenzhausen.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">81</td><td
+    class="name">The merchant Lampe&#x27;s bankrupt estate</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">7,066</td><td class="num">10</td><td class="num">6</td></tr><tr><td
+    class="no">82</td><td class="name">the Treasury</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">35,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">83</td><td class="name">The merchant Barnheim at Berlin</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">76,791</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">84</td><td class="name">the Eichter minor children</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">864</td><td class="num">16</td><td class="num"></td></tr><tr><td
+    class="no">85</td><td class="name">to the Councillor of Justice Müller</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">10</td><td class="num">16</td><td class="num">2</td></tr><tr><td
+    class="no">86</td><td class="name">Councillor of Justice Münezer</td><td class="num">75</td><td class="num"></td><td
+    class="num"></td><td class="num">50</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">87</td><td
+    class="name">The merchant Weinhold</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">291</td><td class="num">8</td><td class="num"></td></tr><tr><td class="no">88</td><td
+    class="name">the widowed merchant&#x27;s wife Adolph</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">333</td><td class="num">8</td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 6
+  en: '89,the merchant gold and silver manufactory at Wrocław,,,,"1,188",7,
+
+    90,To the Councillor of Justice Dzeieba,,,,593,,
+
+    91,the Mendel Oettinger estate,,,,"1,800",,
+
+    92,the widowed chancellor of the foundation Homuth,,,,"1,000",,
+
+    93,The merchant Fauk,,,,"1,794",17,8
+
+    94,Privy Councillor Strehn,,,,"2,666",16,
+
+    95,the President Seidlitz heirs,,,,"30,000",,
+
+    96,to the banker Lazarus Schlesinger at Frankfurt am Main,,,,"2,000",,
+
+    97,Justiciary Witinsky,,,,764,,
+
+    98,The Jew Mattersdorff,,,,600,,
+
+    99,The von der Breling trading house at Dresden,,,,"19,000",,
+
+    100,Bookshop W. G. Korn,,,,"1,071",21,3
+
+    101,The merchant Bauditz at Frankfurt an der Oder,,,,"6,000",,
+
+    102,Trader Zadik,,,,"8,250",,
+
+    103,to the Mr R. Prubrecht heirs.,,,,"9,400",,'
+  names:
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Dzeieba
+    en: Dzeieba
+    kind: person
+  - de: Mendel Oettingerschen
+    en: Mendel Oettinger
+    kind: person
+  - de: Homuth
+    en: Homuth
+    kind: person
+  - de: Fauk
+    en: Fauk
+    kind: person
+  - de: Strehn
+    en: Strehn
+    kind: person
+  - de: Seidlitzschen
+    en: Seidlitz
+    kind: person
+  - de: Lazarus Schlesinger
+    en: Lazarus Schlesinger
+    kind: person
+  - de: Frankfurt a/M.
+    en: Frankfurt am Main
+    kind: place
+  - de: Witinsky
+    en: Witinsky
+    kind: person
+  - de: Mattersdorff
+    en: Mattersdorff
+    kind: person
+  - de: v d Brelingschen
+    en: von der Breling
+    kind: person
+  - de: Dresden
+    en: Dresden
+    kind: place
+  - de: W. G. Korn
+    en: W. G. Korn
+    kind: other
+  - de: Bauditz
+    en: Bauditz
+    kind: person
+  - de: Frankfurth a/O.
+    en: Frankfurt an der Oder
+    kind: place
+  - de: Zadik
+    en: Zadik
+    kind: person
+  - de: Mr. R. Prubrechtischen
+    en: Mr R. Prubrecht
+    kind: person
+  numbers:
+  - 1,188
+  - '7'
+  - '593'
+  - 1,800
+  - 1,000
+  - 1,794
+  - '17'
+  - '8'
+  - 2,666
+  - '16'
+  - 30,000
+  - 2,000
+  - '764'
+  - '600'
+  - 19,000
+  - 1,071
+  - '21'
+  - '3'
+  - 6,000
+  - 8,250
+  - 9,400
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">89</td><td class="name">the merchant gold and silver manufactory at Wrocław</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,188</td><td class="num">7</td><td
+    class="num"></td></tr><tr><td class="no">90</td><td class="name">To the Councillor of Justice Dzeieba</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">593</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">91</td><td class="name">the Mendel Oettinger estate</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,800</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">92</td><td class="name">the widowed chancellor of the foundation
+    Homuth</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">93</td><td class="name">The merchant
+    Fauk</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,794</td><td
+    class="num">17</td><td class="num">8</td></tr><tr><td class="no">94</td><td class="name">Privy Councillor
+    Strehn</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">2,666</td><td
+    class="num">16</td><td class="num"></td></tr><tr><td class="no">95</td><td class="name">the President
+    Seidlitz heirs</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">30,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">96</td><td class="name">to the banker
+    Lazarus Schlesinger at Frankfurt am Main</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">2,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">97</td><td
+    class="name">Justiciary Witinsky</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">764</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">98</td><td class="name">The
+    Jew Mattersdorff</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">600</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">99</td><td class="name">The von der
+    Breling trading house at Dresden</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">19,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">100</td><td
+    class="name">Bookshop W. G. Korn</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">1,071</td><td class="num">21</td><td class="num">3</td></tr><tr><td class="no">101</td><td
+    class="name">The merchant Bauditz at Frankfurt an der Oder</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">6,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">102</td><td class="name">Trader Zadik</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">8,250</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">103</td><td class="name">to the Mr R. Prubrecht heirs.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">9,400</td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 7
+  en: '104,to the banker Meyer Bernhard Frankfurt an der Oder,,,,"12,000",,
+
+    105,Mr von Rothkirch,,,,"10,000",,
+
+    106,Innkeeper Hein at Wrocław,,,,"165,000",,
+
+    107,the Schlabrendorff heirs,,,,"35,000",,
+
+    108,to the standing Diet at Brzeg,,,,"1,000",,
+
+    109,to the standing Binek,,,,"4,500",,
+
+    110,The von Zimetzky heirs.,,,,"12,000",,
+
+    111,the executors of the will of Dr Schindler,,,,693,8,
+
+    112,Dr Michaelis at Wrocław,,,,"5,000",,
+
+    113,Banker Ottenſoser,.,,,601,9,
+
+    114,Johann Hoffmann.,,,,"2,000",,
+
+    115,Baron von Hénneberg,,,,"1,354",,
+
+    116,The merchant Koppan at Wrocław,,,,"80,000",,
+
+    117,Estate owner Schindler.,,,,"1,000",,
+
+    118,the trading house Maper and Scholtz,"3,464",,,,,'
+  names:
+  - de: Meyer Bernhard
+    en: Meyer Bernhard
+    kind: person
+  - de: Frankfurth a/od.
+    en: Frankfurt an der Oder
+    kind: place
+  - de: v Rothkirch
+    en: von Rothkirch
+    kind: person
+  - de: Hein
+    en: Hein
+    kind: person
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Schlabrendorffschen
+    en: Schlabrendorff
+    kind: person
+  - de: Diet
+    en: Diet
+    kind: person
+  - de: Brieg
+    en: Brzeg
+    kind: place
+  - de: Binek
+    en: Binek
+    kind: person
+  - de: v. Zimetzkyschen
+    en: von Zimetzky
+    kind: person
+  - de: Schindlerschen
+    en: Schindler
+    kind: person
+  - de: Michaelis
+    en: Michaelis
+    kind: person
+  - de: Ottenſoser
+    en: Ottenſoser
+    kind: person
+  - de: Johann Hoffmann
+    en: Johann Hoffmann
+    kind: person
+  - de: v Hénneberg
+    en: von Hénneberg
+    kind: person
+  - de: Koppan
+    en: Koppan
+    kind: person
+  - de: Schindler
+    en: Schindler
+    kind: person
+  - de: Maper und Scholtz
+    en: Maper and Scholtz
+    kind: other
+  numbers:
+  - 12,000
+  - 10,000
+  - 165,000
+  - 35,000
+  - 1,000
+  - 4,500
+  - 12,000
+  - '693'
+  - '8'
+  - 5,000
+  - '601'
+  - '9'
+  - 2,000
+  - 1,354
+  - 80,000
+  - 1,000
+  - 3,464
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">104</td><td class="name">to the banker Meyer Bernhard Frankfurt an der Oder</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">12,000</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">105</td><td class="name">Mr von Rothkirch</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">10,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">106</td><td class="name">Innkeeper Hein at Wrocław</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">165,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">107</td><td class="name">the Schlabrendorff heirs</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">35,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">108</td><td class="name">to the standing Diet at Brzeg</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">109</td><td class="name">to the standing Binek</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">4,500</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">110</td><td class="name">The von Zimetzky heirs.</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">12,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">111</td><td class="name">the executors of the will of Dr Schindler</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">693</td><td class="num">8</td><td class="num"></td></tr><tr><td
+    class="no">112</td><td class="name">Dr Michaelis at Wrocław</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">5,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">113</td><td class="name">Banker Ottenſoser</td><td class="num">.</td><td class="num"></td><td
+    class="num"></td><td class="num">601</td><td class="num">9</td><td class="num"></td></tr><tr><td class="no">114</td><td
+    class="name">Johann Hoffmann.</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">2,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">115</td><td
+    class="name">Baron von Hénneberg</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">1,354</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">116</td><td
+    class="name">The merchant Koppan at Wrocław</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">80,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">117</td><td
+    class="name">Estate owner Schindler.</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num">1,000</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">118</td><td
+    class="name">the trading house Maper and Scholtz</td><td class="num">3,464</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 8
+  en: '119,To Major Friedr: von Koopf,,,,"15,000",,
+
+    120,Master carpenter Krause,,,,629,21,9
+
+    121,Banker''s wife Kohn,,,,"2,000",,
+
+    122,the Fehr von Lans heirs,,,,,,
+
+    123,the merchant Benthan,350,,,,,
+
+    124,Weigel and Son,,,,"2,510",,
+
+    125,Mendel Panofska guardianship,,,,"1,000",,
+
+    126,von Rechthoff heirs,,,,,,
+
+    127,The merchant Molinari,,,,"5,199",10,
+
+    128,Forester Nerlech,,,,335,,
+
+    129,Glazier Friedrich,,,,119,2,
+
+    130,Tailor Siebert,,,,155,18,'
+  names:
+  - de: 'Friedr: v. Koopf'
+    en: 'Friedr: von Koopf'
+    kind: person
+  - de: Krause
+    en: Krause
+    kind: person
+  - de: Kohn
+    en: Kohn
+    kind: person
+  - de: Fehr v. Lanschen
+    en: Fehr von Lans
+    kind: person
+  - de: Benthan
+    en: Benthan
+    kind: person
+  - de: Weigel und Sohn
+    en: Weigel and Son
+    kind: other
+  - de: Mendel Panofskaschen
+    en: Mendel Panofska
+    kind: person
+  - de: v. Rechthoffschen
+    en: von Rechthoff
+    kind: person
+  - de: Molinari
+    en: Molinari
+    kind: person
+  - de: Nerlech
+    en: Nerlech
+    kind: person
+  - de: Friedrich
+    en: Friedrich
+    kind: person
+  - de: Siebert
+    en: Siebert
+    kind: person
+  numbers:
+  - 15,000
+  - '629'
+  - '21'
+  - '9'
+  - 2,000
+  - '350'
+  - 2,510
+  - 1,000
+  - 5,199
+  - '10'
+  - '335'
+  - '119'
+  - '2'
+  - '155'
+  - '18'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">119</td><td class="name">To Major Friedr: von Koopf</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">15,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">120</td><td class="name">Master carpenter Krause</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">629</td><td class="num">21</td><td class="num">9</td></tr><tr><td
+    class="no">121</td><td class="name">Banker&#x27;s wife Kohn</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">2,000</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">122</td><td class="name">the Fehr von Lans heirs</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">123</td><td
+    class="name">the merchant Benthan</td><td class="num">350</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">124</td><td class="name">Weigel
+    and Son</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">2,510</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">125</td><td class="name">Mendel Panofska
+    guardianship</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">1,000</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">126</td><td class="name">von Rechthoff
+    heirs</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">127</td><td class="name">The merchant
+    Molinari</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">5,199</td><td
+    class="num">10</td><td class="num"></td></tr><tr><td class="no">128</td><td class="name">Forester
+    Nerlech</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num">335</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">129</td><td class="name">Glazier Friedrich</td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num">119</td><td class="num">2</td><td
+    class="num"></td></tr><tr><td class="no">130</td><td class="name">Tailor Siebert</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">155</td><td class="num">18</td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 9
+  en: '131,To the smith Gümmler,,,,"1,108",,
+
+    132,to the master carpenter Linne''s heirs,,,,"1,625",2,4
+
+    133,to the tinsmith Fürst,,,,339,22,
+
+    134,to the Baron von Eichendorff,,,,"3,333",,
+
+    135,to the fees fund of the Higher Provincial Court,,,,"1,140",2,
+
+    136,to Moses Bawitscher,,,,"1,200",,
+
+    137,to the widow Müller,,,,97,,
+
+    138,to the chief postal director Scheffler,,,,"1,526",7,10
+
+    139,To the widow Lordemann,,,,,,
+
+    140,married woman Herzog,,,,,,
+
+    141,The glazier Stark,,,,,,
+
+    142,the trading house Ziepult & Son,,,,,,
+
+    ,Total,"17,874",,,"1,414,377",7,11'
+  names:
+  - de: Gümmler
+    en: Gümmler
+    kind: person
+  - de: Linneschen
+    en: Linne
+    kind: person
+  - de: Fürst
+    en: Fürst
+    kind: person
+  - de: von Eichendorff
+    en: von Eichendorff
+    kind: person
+  - de: Bawitscher
+    en: Bawitscher
+    kind: person
+  - de: Moses Bawitscher
+    en: Moses Bawitscher
+    kind: person
+  - de: Müller
+    en: Müller
+    kind: person
+  - de: Scheffler
+    en: Scheffler
+    kind: person
+  - de: Lordemann
+    en: Lordemann
+    kind: person
+  - de: Herzog
+    en: Herzog
+    kind: person
+  - de: Stark
+    en: Stark
+    kind: person
+  - de: Ziepult & Sohn
+    en: Ziepult & Son
+    kind: other
+  numbers:
+  - 1,108
+  - 1,625
+  - '2'
+  - '4'
+  - '339'
+  - '22'
+  - 3,333
+  - 1,140
+  - '2'
+  - 1,200
+  - '97'
+  - 1,526
+  - '7'
+  - '10'
+  - 17,874
+  - 1,414,377
+  - '7'
+  - '11'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Capital Claims</th><th colspan="3"
+    class="grp">Gold</th><th colspan="3" class="grp">Courant</th></tr>
+
+    <tr><th class="num">Rthl</th><th class="num">g</th><th class="num">d</th><th class="num">Rthl</th><th
+    class="num">g</th><th class="num">d</th></tr></thead>
+
+    <tbody><tr><td class="no">131</td><td class="name">To the smith Gümmler</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">1,108</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">132</td><td class="name">to the master carpenter Linne&#x27;s heirs</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">1,625</td><td class="num">2</td><td class="num">4</td></tr><tr><td
+    class="no">133</td><td class="name">to the tinsmith Fürst</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">339</td><td class="num">22</td><td class="num"></td></tr><tr><td
+    class="no">134</td><td class="name">to the Baron von Eichendorff</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">3,333</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">135</td><td class="name">to the fees fund of the Higher Provincial Court</td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num">1,140</td><td class="num">2</td><td class="num"></td></tr><tr><td
+    class="no">136</td><td class="name">to Moses Bawitscher</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,200</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">137</td><td class="name">to the widow Müller</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">97</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">138</td><td
+    class="name">to the chief postal director Scheffler</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num">1,526</td><td class="num">7</td><td class="num">10</td></tr><tr><td
+    class="no">139</td><td class="name">To the widow Lordemann</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">140</td><td
+    class="name">married woman Herzog</td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">141</td><td class="name">The
+    glazier Stark</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">142</td><td class="name">the trading
+    house Ziepult &amp; Son</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr></tbody>
+
+    <tfoot><tr><td class="no"></td><td class="name">Total</td><td class="num">17,874</td><td class="num"></td><td
+    class="num"></td><td class="num">1,414,377</td><td class="num">7</td><td class="num">11</td></tr></tfoot>
+
+    </table></div>'

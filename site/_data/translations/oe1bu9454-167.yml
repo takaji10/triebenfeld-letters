@@ -1,0 +1,41 @@
+status: draft
+segments:
+- page: 1
+  en: '167
+
+
+    Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests: At the very moment when
+    His Serene Highness the Prince is about to drive to church with the old gentleman, he commands me
+    to send the enclosed letter to Your Right Honourable, with His most gracious regards. He would gladly
+    have written himself, had the courier not been departing within the hour already.
+
+
+    The old Prince is very well for his age, and shows exceedingly great attachment to my most gracious
+    Lord. I wish from my heart that Your'
+  names:
+  - de: Fürst
+    en: Prince
+    kind: person
+  numbers:
+  - '167'
+- page: 2
+  en: 'Right Honourable may find yourself in the best of health; I commend myself to your continued favour
+    and have the honour to remain, in most perfect reverence, Your Right Honourable''s. Öhringen, the
+    7th of July 1805.
+
+
+    humble and obedient servant A: Hahn. The return to Wrocław is fixed without fail for the 25th!'
+  names:
+  - de: 'A: Hahn'
+    en: 'A: Hahn'
+    kind: person
+  - de: Öhringen
+    en: Öhringen
+    kind: place
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  numbers:
+  - '7'
+  - '1805'
+  - '25'

@@ -1,0 +1,178 @@
+status: draft
+segments:
+- page: 1
+  en: '195
+
+
+    Most Serene Prince
+
+
+    Most gracious Prince and Lord, at this moment I can report nothing of consequence to Your Most Serene
+    Highness, because Count Strachwitz is not yet here.
+
+
+    It was only today that I managed, with vexation and displeasure, to get a word with Mr Flesch. He
+    only rails against Goldstücker, for holding the matter to be so easy and for having named the Count
+    outright — He urges all secrecy and caution — Why, I do not know — It seems only, to speak frankly,
+    that a swindle lies at the bottom of it, and as far as I can tell a lawsuit, of which I know nothing,
+    is to be settled along with the business.
+
+
+    For the rest, I must wait here for Count Strachwitz, who is to arrive in Wrocław on the 23rd, in order
+    to be able to take further measures accordingly. This much I know for now, that they are said to be
+    the Oder estates situated near Głubczyce, and their value is put at 900000 rt.
+
+
+    Zackraw[uncertain: Zastrow] does not belong to it; that the Count means to keep for himself — Count
+    Steine it is not, for that belongs to the younger Strachwitz — Today, if my fever abates, I shall
+    speak with Mr von Massow. Meanwhile I know this much, that Massow is not to blame for the purloined
+    lawsuit etc. Merckel has made the noise about it. My Mr Schade, who is his daily and bosom friend,
+    is working upon him today.
+
+
+    I shall report the results most obediently — The war between France, Austria and the Turks is here
+    held to be a settled certainty, and likewise a breach with Russia is believed in.'
+  names:
+  - de: Gr Strachwitz
+    en: Count Strachwitz
+    kind: person
+  - de: Gr. Strachwitz
+    en: Count Strachwitz
+    kind: person
+  - de: H. Flesch
+    en: Mr Flesch
+    kind: person
+  - de: Goldstücker
+    en: Goldstücker
+    kind: person
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: Leobschütz
+    en: Głubczyce
+    kind: place
+  - de: Zackraw[Zastrow?]
+    en: 'Zackraw[uncertain: Zastrow]'
+    kind: place
+  - de: Gr Steine
+    en: Count Steine
+    kind: person
+  - de: jüngern Strachwitz
+    en: younger Strachwitz
+    kind: person
+  - de: Massow
+    en: Massow
+    kind: person
+  - de: Merckel
+    en: Merckel
+    kind: person
+  - de: Mein Er Schade
+    en: My Mr Schade
+    kind: person
+  - de: Frankreich
+    en: France
+    kind: place
+  - de: Österreich
+    en: Austria
+    kind: place
+  - de: Türcken
+    en: Turks
+    kind: other
+  - de: Rußland
+    en: Russia
+    kind: place
+  numbers:
+  - '195'
+  - '23'
+  - '900000'
+  - '20000'
+- page: 2
+  en: 'Our good King is in a [uncertain: mighty] straits. He is absolutely to pay the contribution quickly,
+    or the French will move into our states — Count Schneidniz arrived here from Paris the day before
+    yesterday with this news. Others will have it that Napoleon insists on our joining the war against
+    the Turks, for which we are to furnish 20000 men at once, and against which he would let ten million
+    rt of the contribution be dropped.
+
+
+    Hardenberg is coming forward again, so they say here, and will play a great part — Dohna will probably
+    go — He has already left over 4000 matters lying unattended to; everything is stirred up against him
+    — the whole system seems to be tottering; the little prince of, from and in the mire is even more
+    hated here than G: One wishes ardently for His Serene Highness''s return. Prinz Wilhelm von Preußen
+    has won all hearts and is idolised. For the rest, my Whode was telling here yesterday, in the presence
+    of several persons, that the late Colorma[illegible] is said to have given the testament in question
+    to the Legation Councillor Henckel — but since this is no man of law, it has no validity; had he given
+    it over to Fenckenstein, it would have had the proper form — I could not question him about it at
+    the moment — today I shall hear whence he has this —
+
+
+    I have delivered all letters and items.
+
+
+    In deepest reverence I remain, until death,
+
+
+    Your Most Serene Highness''s
+
+
+    the moratorium has been extended
+
+
+    by 2 years
+
+
+    Wrocław, the 22nd of May
+
+
+    1810.
+
+
+    faithful most humble and obedient servant
+
+
+    v Triebenfeld'
+  names:
+  - de: Gr Schneidniz
+    en: Count Schneidniz
+    kind: person
+  - de: Paris
+    en: Paris
+    kind: place
+  - de: Napoleon
+    en: Napoleon
+    kind: person
+  - de: Türken
+    en: Turks
+    kind: other
+  - de: Hardenberg
+    en: Hardenberg
+    kind: person
+  - de: Dohna
+    en: Dohna
+    kind: person
+  - de: Pr Willhelm
+    en: Prinz Wilhelm von Preußen
+    kind: person
+  - de: Whode
+    en: Whode
+    kind: person
+  - de: Colorma[?]
+    en: Colorma[illegible]
+    kind: person
+  - de: Henckel
+    en: Henckel
+    kind: person
+  - de: Fenckenstein
+    en: Fenckenstein
+    kind: person
+  - de: Breslau
+    en: Wrocław
+    kind: place
+  - de: v Triebenfeld
+    en: v Triebenfeld
+    kind: person
+  numbers:
+  - '20000'
+  - '4000'
+  - '2'
+  - '22'
+  - '1810'
