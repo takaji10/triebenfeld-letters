@@ -46,7 +46,9 @@ def apply(text, counts=None):
     if not text:
         return text
     for r in rules():
-        if 'word' in r:
+        if 'months' in r:
+            new, n = r['_rx'].subn(lambda m: r['months'][m.group(1)], text)
+        elif 'word' in r:
             new, n = r['_rx'].subn(_word_sub(r['word'], text), text)
         else:
             new, n = r['_rx'].subn(r['replace'], text)

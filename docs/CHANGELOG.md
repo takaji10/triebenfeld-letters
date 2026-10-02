@@ -888,6 +888,31 @@ gulden and x to kreuzer; every Fr. d'or to Friedrich d'or. Every Groschen and
 gulden replacement was read in context first. "Polish gulden", the złoty of
 the deeds, stays gulden, and the glossary's gulden now covers it.
 
+## Patrimonial courts, Regierung in the termbase, and the glossary's third batch (2026-10-02)
+
+The editor supplied a description of the patrimonial courts of South Prussia
+from Szukaj w Archiwach, after T. Mencel's introduction to an inventory. It is
+kept in the Polish, with a working translation, as
+`reference/sources/patrimonial_courts_mencel.md`, and it corrected the draft
+glossary: the owner could judge in person, and the court heard everything
+between lord and peasants except criminal cases. The patrimonial court entry is
+rewritten from it and names it; the justiciary, the peace court and South
+Prussia take what it supports; and the General Law Code (Landrecht), cited in
+8 documents, has an entry.
+
+The translation termbase gains Regierung -> Government: the institution's
+own name, which the published English already uses, with a gloss on its
+meaning before 1808 for future translations. The reader's glossary explains it
+on the page.
+
+A third batch from the abbreviation and Latin probe takes the glossary to 101:
+the months by number (7br. to Xbr.), d. J. and a. c., the possessives of
+address (Ew., Sr., Ihro, Dero), pct., titulus possessionis, Quantum,
+Inventarium, ex officio, and Protocoll, which the English renders "protocol"
+in 24 documents: the court's record, not etiquette. Two more house forms for
+the English, applied the same mechanical way: the four dates left with 8br and
+Xbr now name the month, and six pct. read per cent.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

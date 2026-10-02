@@ -675,6 +675,69 @@ entries:
   check_against: Allgemeines Landrecht 1794
   checked: false
 
+- id: titulus-possessionis
+  kind: land
+  lang: la
+  head_en: title of possession (titulus possessionis)
+  head_de: Titulus possessionis
+  orig: Titulus possessionis, Besitztitel
+  match_de: '\bTitul\w* [Pp]ossess\w*|\bBesitz[- ]?[Tt]itel\w*'
+  match_en: '\btitle of possession\b|\btitul\w* possession\w*'
+  short_en: >-
+    An owner's title, entered on his estate's folio in the mortgage book.
+    Until it was entered, the owner could not sell, mortgage or lease with
+    effect; from 1795 Prussia required the title to rest on legal proof, so
+    entering the Prince's title took years of papers.
+  short_de: >-
+    Der Besitztitel eines Eigentümers, auf dem Blatt seines Guts im
+    Hypothekenbuch eingetragen. Ohne Eintragung konnte er nicht wirksam
+    verkaufen, belasten oder verpachten; seit 1795 verlangte Preußen, dass der
+    Titel auf rechtlichen Beweisen beruhte, und die Eintragung des Fürsten
+    kostete Jahre an Papieren.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md), for the rule of 1795"
+  check_against: Allgemeine Hypothekenordnung 1783
+  checked: false
+
+- id: abstand
+  kind: land
+  lang: la
+  head_en: Quantum, Abstands-Quantum
+  head_de: Quantum, Abstandsquantum
+  orig: Quantum, Abstands Quantum
+  match_de: '\b(?:Abstands?[- ]?)?Quant(?:um|o|i)\b'
+  match_en: '\bquantum\b'
+  short_en: >-
+    Quantum is simply "a sum". An Abstands-Quantum is the sum paid to someone
+    to give up a right, above all a tenant to give up his lease before it ran
+    out, so that the land could be sold or let again.
+  short_de: >-
+    Quantum heißt schlicht „Betrag“. Ein Abstandsquantum ist die Summe, die
+    jemand dafür erhält, ein Recht aufzugeben, vor allem ein Pächter dafür,
+    seine Pacht vor Ablauf abzutreten, damit das Land verkauft oder neu
+    verpachtet werden konnte.
+  check_against: Adelung; Krünitz
+  checked: false
+
+- id: inventarium
+  kind: land
+  lang: la
+  head_en: inventory (Inventarium)
+  head_de: Inventarium
+  orig: Inventarium
+  match_de: '\bInventari\w*'
+  match_en: '\binventor(?:y|ies)\b'
+  short_en: >-
+    The livestock, implements and seed that belonged to a farm and were let or
+    sold with it: "Vieh und Feld Inventarium". A lease said whether the tenant
+    took it over, and at what value; a missing inventory was deducted.
+  short_de: >-
+    Das Vieh, die Geräte und das Saatgut, die zu einem Hof gehörten und mit ihm
+    verpachtet oder verkauft wurden: „Vieh und Feld Inventarium“. Eine Pacht
+    regelte, ob und zu welchem Wert der Pächter es übernahm; fehlendes
+    Inventar wurde abgezogen.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
 # ------------------------------------------------- law, money, administration
 
 - id: sequestration
@@ -1531,6 +1594,44 @@ entries:
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: false
 
+- id: protocoll
+  kind: law
+  lang: de_la
+  head_en: record (Protocoll)
+  head_de: Protocoll
+  orig: Protocoll, ad protocollum
+  match_de: '\b[Pp]rotoc?k?oll\w*'
+  match_en: '\bprotocols?\b|\bad protocoll\w*'
+  short_en: >-
+    The official record of a hearing or transaction, written down by the
+    court as the parties declared it. To declare something "ad protocollum",
+    "to the protocol", put it on record. It has nothing to do with etiquette.
+  short_de: >-
+    Die amtliche Niederschrift einer Verhandlung, vom Gericht so aufgenommen,
+    wie die Parteien erklärten. Etwas „ad protocollum“ erklären hieß, es zu
+    Protokoll geben.
+  check_against: Allgemeine Gerichtsordnung 1793
+  checked: false
+
+- id: ex-officio
+  kind: law
+  lang: la
+  head_en: ex officio
+  head_de: ex officio
+  orig: ex officio
+  match_de: '\bex officio\b'
+  match_en: '\bex officio\b'
+  short_en: >-
+    "By virtue of office": done by an authority on its own motion, because its
+    duty required it, not at a party's request. Entries in the mortgage book
+    were often made ex officio.
+  short_de: >-
+    „Von Amts wegen“: von einer Behörde aus eigenem Antrieb vorgenommen, weil
+    ihr Amt es verlangte, nicht auf Antrag einer Partei. Eintragungen ins
+    Hypothekenbuch geschahen oft ex officio.
+  check_against: Adelung
+  checked: false
+
 # ----------------------------------------------------------- titles, address
 
 - id: durchlaucht
@@ -1589,6 +1690,26 @@ entries:
   short_de: >-
     Die Anrede für Adlige und höhere Beamte. Darunter stand Wohlgeboren, für
     Beamte und angesehene Männer ohne Adel.
+  check_against: Adelung
+  checked: false
+
+- id: ew
+  kind: title
+  lang: de
+  per: document
+  head_en: Ew., Ewr, Sr., Ihro, Dero
+  head_de: Ew., Ewr, Sr., Ihro, Dero
+  orig: Ew., Ewr, Sr., Ihro, Dero
+  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
+  short_en: >-
+    The possessives of courtly address, abbreviated. Ew. or Ewr is Euer,
+    "Your" (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
+    Majestät, His Majesty). Ihro and Dero are older forms of the same, for
+    persons of rank.
+  short_de: >-
+    Die Possessiva der höfischen Anrede, abgekürzt. Ew. oder Ewr steht für
+    Euer (Ewr Durchlaucht), Sr. für Seiner (Sr. Majestät). Ihro und Dero sind
+    ältere Formen derselben, für hochgestellte Personen.
   check_against: Adelung
   checked: false
 
@@ -1742,6 +1863,60 @@ entries:
     19. Juni 1797 ist die dieses Tages. „Vigore“ heißt „kraft“, wie in vigore
     Decreti, kraft der Verfügung.
   check_against: Adelung
+  checked: false
+
+- id: months-by-number
+  kind: phrase
+  lang: la
+  head_en: 7br., 8br., 9br., Xbr.
+  head_de: 7br., 8br., 9br., Xbr.
+  orig: 7br., 8br., 9br., Xbr.
+  match_de: '\b(?:7|8|9|X|10)\.? ?(?:br|ber|bris|bre)\b\.?'
+  match_en: '\b(?:7|8|9|X|10)\.? ?(?:br|ber|bris|bre)\b\.?'
+  short_en: >-
+    September, October, November and December, written with the Latin
+    numeral their names come from: septem, octo, novem, decem (X). So "d. 22
+    ten Xbr 1815" is 22 December 1815.
+  short_de: >-
+    September, Oktober, November und Dezember, geschrieben mit der Zahl, von
+    der ihre lateinischen Namen kommen: septem, octo, novem, decem (X). „d. 22
+    ten Xbr 1815“ ist also der 22. Dezember 1815.
+  check_against: Grotefend, Taschenbuch der Zeitrechnung
+  checked: false
+
+- id: d-j
+  kind: phrase
+  lang: de
+  head_en: d. J., a. c., ej. a.
+  head_de: d. J., a. c., ej. a.
+  orig: d. J., a. c., c. a., ej. a.
+  match_de: '\bd\. ?J\.|\ba\. ?c\.|\bc\. ?a\.|\bej\. ?a\.'
+  short_en: >-
+    "Of this year", in a date: d. J. is dieses Jahres, a. c. and c. a. are
+    the Latin anni currentis, currentis anni. Ej. a., ejusdem anni, is "of the
+    same year". "Den 19ten Junius d. J." is 19 June of the year the letter was
+    written.
+  short_de: >-
+    „Dieses Jahres“ in einer Datumsangabe: d. J. ist dieses Jahres, a. c. und
+    c. a. das lateinische anni currentis, currentis anni. Ej. a., ejusdem
+    anni, heißt „desselben Jahres“.
+  check_against: Grotefend, Taschenbuch der Zeitrechnung
+  checked: false
+
+- id: pct
+  kind: phrase
+  lang: la
+  head_en: pct., pro Cent
+  head_de: pct., pro Cent
+  orig: pct., pCt., pro Cent
+  match_de: '\bp[Cc]t\b\.?|\bp\. ?C\.'
+  short_en: >-
+    Per cent, from pro centum: "4 pct." is four per cent, the usual interest
+    on a mortgage at the time.
+  short_de: >-
+    Prozent, von pro centum: „4 pct.“ sind vier Prozent, der damals übliche
+    Zins auf eine Hypothek.
+  check_against: Krünitz, Oekonomische Encyklopädie
   checked: false
 
 # --------------------------------------------------------- events and states

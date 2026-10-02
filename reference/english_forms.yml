@@ -13,6 +13,7 @@
 #   id        a name for the report
 #   pattern   a regular expression (Python), case-sensitive
 #   replace   the replacement; \1, \2 for groups
+#   months    instead of `replace`: group 1 looked up in this table
 #   word      instead of `replace`: a group 1 (the figure), group 2 (the space)
 #             and the abbreviation, replaced by this word. An abbreviation's
 #             own full stop is dropped, unless it also ends the sentence.
@@ -72,3 +73,17 @@ rules:
   why: >-
     x for the kreuzer, a sixtieth of a gulden, after a figure of gulden (1 fl.
     30 x).
+
+- id: months-by-number
+  pattern: "\\b(7|8|9|X|10)\\.? ?br\\b\\.?"
+  months: {"7": September, "8": October, "9": November, "X": December, "10": December}
+  why: >-
+    7br., 8br., 9br., Xbr. for September to December, left as written in four
+    dates of the English ("the 12th of 8br 1814"). The month's name.
+
+- id: per-cent
+  pattern: "(\\d)( ?)p[Cc]t\\b\\.?"
+  word: per cent
+  why: >-
+    pct. after a figure, left in five places of the English, where every other
+    page says per cent.

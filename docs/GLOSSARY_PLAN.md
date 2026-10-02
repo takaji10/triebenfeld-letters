@@ -238,6 +238,18 @@ its full stop at least 60% of the time; a unit that follows a figure at least
 half the time) and Latin (a Latin preposition before a Latin ending; a word
 with a distinctively Latin ending), so the next holding is offered them.
 
+### Third batch (2026-10-02): from the probe, 101 in all
+
+From the abbreviation and Latin probe: the months written by number (7br. to
+Xbr.), d. J. and a. c. ("of this year"), Ew., Ewr, Sr., Ihro, Dero (the
+possessives of address, marked once per document), pct., titulus
+possessionis (39 documents), Quantum and Abstands-Quantum, Inventarium, ex
+officio, and Protocoll, a false friend the English gives as "protocol" in 24
+documents. Earlier the same day: the General Law Code (Landrecht), and the
+patrimonial court rewritten from the Mencel description
+(reference/sources/patrimonial_courts_mencel.md), which an entry can now
+name as its `source`.
+
 ### The English: house forms
 
 Building the glossary showed that the English carried the German money
