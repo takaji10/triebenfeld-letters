@@ -118,22 +118,39 @@ Fixes to the English that survive a re-publish go in
 108 entries (`reference/glossary.yml`), on the site since 2026-10-02.
 Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
-- **53 definitions are still drafts.** 55 entries are checked: the
-  patrimonial court, and 54 read on 2026-10-02 against Krünitz, Adelung,
-  Grimm and Gloger once the environment could reach them (changelog, "The
-  glossary checked against the reference works"). The rest are
-  `checked: false` for one of two reasons:
-  - *The work is not online here:* the Allgemeines Landrecht, the
-    Hypothekenordnung and Gerichtsordnung, Acta Borussica, Grotefend, and the
-    standard histories for the events. Erbpacht, Einstand and Resignation
-    name Krünitz too, and it was read for each (Dominium has no entry there),
-    but what they say of the law rests on the Landrecht. These need the texts themselves (a
-    host that serves them, or a copy in `reference/sources/`).
-  - *The works online have no entry for the word:* olędrzy (Hauländer);
-    the Duchy of Warsaw's prefects, tribunals and peace courts (Gloger covers
-    old Poland, to 1795); Dismembration; pp.; Actum; in fidem; ex officio;
-    Rendant; the abbreviations of Herr. Decide whether another work should
-    be named for these, or the entries stand as written.
+- **53 definitions are still drafts** (`checked: false`; the page marks
+  them). 55 are checked: the patrimonial court, and 54 read on 2026-10-02
+  against Krünitz, Adelung, Grimm and Gloger (changelog, "The glossary
+  checked against the reference works"), live since then. What the rest wait
+  on:
+  - *The Allgemeines Landrecht* (17): allodial, Bevollmächtigter, Cession,
+    Competenz, Dominium, Einstand, Erbpacht, in solidum, the Landrecht
+    itself, Lehn, Majorat, Justitiarius, Resignation, Transact,
+    Unterthanen, Vollmacht, Wechsel. Krünitz was read for Erbpacht, Einstand
+    and Resignation, and Erbpacht corrected by it, but their law rests on the
+    Landrecht.
+  - *Acta Borussica* (12): Cabinets-Ordre, Departement, Donation,
+    Invalidenkasse, Justizbürgermeister, Kammer, Kammergericht,
+    Kreis-Justiz-Commission, Kriegsrath, Landrath, Oberlandesgericht,
+    Regierung.
+  - *The Hypothekenordnung* (3: Hypothekenbuch, Intabulation, Titulus
+    possessionis), *the Gerichtsordnung* (2: Justiz-Commissarius, Protocoll),
+    *Grotefend* (2: the month numbers, d. J.).
+  - *A standard history* (6): South Prussia, the Partitions, the Gouvernement,
+    the Duchy of Warsaw, Tilsit, the Congress of Vienna.
+  - *No entry in the works online* (11): Hauländer (Gloger has no olędrzy);
+    Prefect, Tribunal and Friedensgericht (Gloger covers old Poland, to
+    1795); Dismembration (not in Krünitz); pp., Actum, in fidem, ex officio,
+    Rendant and the abbreviations of Herr (not in Adelung, Krünitz or Grimm).
+
+  For the first four groups: the texts themselves, from a host the
+  environment allows or as copies in `reference/sources/`. For the last:
+  decide whether another work should be named, or the entries stand as
+  written.
+- **Checked against another work than the one named.** Where Adelung has no
+  entry, Krünitz or Grimm was used and the `source:` says so: vidimirte
+  Abschrift, in Ratis, Execution, Notarius, Pro Memoria, L. S. Confirm that
+  this is acceptable, or name the work to use.
 - **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
   which fonds on Szukaj w Archiwach it describes, so the citation can name it;
   and whether "Sądy te narastały nierównomiernie" means the records grew
