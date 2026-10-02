@@ -221,3 +221,32 @@ start matching something it should not. So it becomes part of the workflow in
   written as Latin (Dominium, Pro Memoria).
 - Patterns can mark part of a match (a group named `w`), so Michaelis is
   marked only as a date and Morgen only as a measure.
+
+### Second batch (2026-10-02): 30 more, 91 in all
+
+The first batch came from the translation termbase, which has no entries for
+abbreviations or Latin, so Fr. d'or (19 documents) was never offered. Added:
+Friedrich d'or; rod, Centner, cord, bushel; donation, Taxe, Competenz,
+appurtenances, entry money, fief, allodial; Regierung (before 1808 a court,
+not a government: a false friend the English repeats in 60 documents),
+Decret, Departement, Gouvernement, Tribunal, cabinet order, Landrath,
+cession, Oberlandesgericht, Kammergericht, peace court, Auditeur; pp., geruhen,
+L. S., Actum, in fidem, de dato and vigore.
+
+`glossary_candidates.py` now probes for abbreviations (a short word that keeps
+its full stop at least 60% of the time; a unit that follows a figure at least
+half the time) and Latin (a Latin preposition before a Latin ending; a word
+with a distinctively Latin ending), so the next holding is offered them.
+
+### The English: house forms
+
+Building the glossary showed that the English carried the German money
+abbreviations in a dozen forms (rt, rtl, rttl, rthlr, gg, ggr, g., gl., pf.,
+d., fl., x, Fr. d'or), which the glossary, marking full forms, could not
+explain. `reference/english_forms.yml` holds the mechanical replacements, and
+`pipeline/translate/english_forms.py` applies them: the thaler to the
+termbase's Rthl, the rest written out (Groschen, Pfennig, gulden, kreuzer,
+Friedrich d'or). publish_translations.py and summarise.py apply them as they
+write, so a re-publish from the cache keeps them; `--apply` brought the
+published files into line (186 translations, 32 summaries; about 1,400
+replacements). No model call: nothing was re-translated.

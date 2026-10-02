@@ -165,11 +165,14 @@ entries:
   match_de: '\bGulden\b'
   match_en: '\bgulden\b'
   short_en: >-
-    The Austrian florin, written fl. It is the currency of the letters from the
-    Congress of Vienna, where the Prince's agent paid his way in it.
+    The florin, written fl. In the letters from the Congress of Vienna, the
+    Austrian gulden, of 60 kreuzer (x), in which the Prince's agent paid his
+    way. In the deeds, "Polish gulden" is the złoty, of 30 groschen.
   short_de: >-
-    Der österreichische Gulden, abgekürzt fl. Die Währung der Briefe vom Wiener
-    Kongress, in der der Beauftragte des Fürsten dort seine Ausgaben bestritt.
+    Der Gulden (Florin), abgekürzt fl. In den Briefen vom Wiener Kongress der
+    österreichische Gulden zu 60 Kreuzer (x), in dem der Beauftragte des
+    Fürsten seine Ausgaben bestritt. In den Urkunden ist der „polnische
+    Gulden“ der Złoty zu 30 Groschen.
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: false
 
@@ -213,6 +216,78 @@ entries:
     Hufe, polnisch włóka, maß etwa 17 Hektar. Den Siedlern auf den Gütern wurde
     Land nach Hufen ausgetan.
   check_against: Krünitz, Oekonomische Encyklopädie; Gloger, Encyklopedia staropolska (włóka)
+  checked: false
+
+- id: ruthe
+  kind: money
+  lang: de
+  head_en: rod
+  head_de: Ruthe
+  orig: Ruthe, R.
+  match_de: '\bRuthe\w*|\bR\[ute\]'
+  match_en: '\brods?\b'
+  short_en: >-
+    A measure of length, the Prussian rod of 12 feet, about 3.77 metres; as a
+    square rod, a measure of area. A Magdeburg Morgen was 180 square rods, so
+    land is often given as "Morgen and rods".
+  short_de: >-
+    Ein Längenmaß, die preußische Rute zu 12 Fuß, etwa 3,77 Meter; als
+    Quadratrute ein Flächenmaß. Ein Magdeburger Morgen hatte 180 Quadratruten,
+    daher die Angaben in „Morgen und Ruthen“.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: centner
+  kind: money
+  lang: de
+  head_en: Centner
+  head_de: Centner
+  orig: Centner
+  match_de: '\bCentner\w*|\bZentner\w*'
+  match_en: '\bCentners?\b|\bhundredweights?\b'
+  short_en: >-
+    A hundredweight: in Prussia 110 pounds, about 51 kilograms. Iron, wool and
+    grain in bulk were sold by it.
+  short_de: >-
+    Ein Gewichtsmaß: in Preußen 110 Pfund, etwa 51 Kilogramm. Eisen, Wolle und
+    Getreide wurden in großen Mengen danach verkauft.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: klafter
+  kind: money
+  lang: de
+  head_en: cord (Klafter)
+  head_de: Klafter
+  orig: Klafter
+  match_de: '\b[KC]lafter\w*'
+  match_en: '\bcords?\b'
+  short_en: >-
+    The measure of firewood: a stack of split logs of fixed size, in Prussia
+    108 cubic feet, about three and a third cubic metres. Woodland was valued by
+    the cords it would yield.
+  short_de: >-
+    Das Maß für Brennholz: ein Stapel gespaltener Scheite von fester Größe, in
+    Preußen 108 Kubikfuß, gut drei Kubikmeter. Wald wurde nach den Klaftern
+    bewertet, die er hergab.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: scheffel
+  kind: money
+  lang: de
+  head_en: bushel (Scheffel)
+  head_de: Scheffel
+  orig: Scheffel
+  match_de: '\bScheffel\w*'
+  match_en: '\bbushels?\b'
+  short_en: >-
+    The measure of grain by volume: the Prussian Scheffel held about 55
+    litres. Rents in kind and the yield of a mill were reckoned in it.
+  short_de: >-
+    Das Hohlmaß für Getreide: der preußische Scheffel fasste etwa 55 Liter.
+    Naturalabgaben und der Ertrag einer Mühle wurden danach berechnet.
+  check_against: Krünitz, Oekonomische Encyklopädie
   checked: false
 
 # ------------------------------------------------------------ land and tenure
@@ -468,6 +543,136 @@ entries:
   check_against: Gloger, Encyklopedia staropolska (sołtys); Krünitz
   checked: false
 
+- id: donation
+  kind: land
+  lang: de_la
+  head_en: donation (royal grant)
+  head_de: Donation
+  orig: Donation, Donations-Güter
+  match_de: '\bDonation\w*'
+  match_en: '\bdonations?\b'
+  short_en: >-
+    A gift of land by the King. In 1796–97 Friedrich Wilhelm II gave estates
+    confiscated in South Prussia to generals and officials as donations; the
+    Prince's Polish estates were such donation estates (Donationsgüter).
+  short_de: >-
+    Eine Schenkung von Land durch den König. 1796/97 schenkte Friedrich
+    Wilhelm II. in Südpreußen eingezogene Güter an Generale und Beamte; die
+    polnischen Güter des Fürsten waren solche Donationsgüter.
+  check_against: Acta Borussica; a standard history of South Prussia
+  checked: false
+
+- id: taxe
+  kind: land
+  lang: de_la
+  head_en: valuation (Taxe)
+  head_de: Taxe
+  orig: Taxe, Taxa
+  match_de: '\bTaxe\b|\bTaxa\w*|\bTaxation\w*'
+  short_en: >-
+    The official valuation of an estate, worked out from its yield in grain,
+    timber, rents and dues. Sales, loans and grants all rested on it, and its
+    figures were argued over.
+  short_de: >-
+    Die amtliche Wertermittlung eines Guts aus seinen Erträgen an Getreide,
+    Holz, Zinsen und Abgaben. Verkäufe, Darlehen und Schenkungen beruhten auf
+    ihr, und um ihre Zahlen wurde gestritten.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: competenz
+  kind: land
+  lang: de_la
+  head_en: competence (Competenz)
+  head_de: Competenz
+  orig: Competenz
+  match_de: '\bCompeten(z|tz)\w*'
+  match_en: '\bcompetences?\b'
+  short_en: >-
+    The fixed income owed from an estate to a church foundation or its clergy.
+    Estates that had been church property passed to the Prince with the duty
+    to keep paying it. It has nothing to do with ability.
+  short_de: >-
+    Die festen Einkünfte, die ein Gut einer kirchlichen Stiftung oder ihren
+    Geistlichen schuldete. Güter aus Kirchenbesitz gingen an den Fürsten mit
+    der Pflicht über, sie weiter zu zahlen.
+  check_against: Allgemeines Landrecht 1794, Teil II Titel 11
+  checked: false
+
+- id: pertinenz
+  kind: land
+  lang: de_la
+  head_en: appurtenances
+  head_de: Pertinenzien
+  orig: Pertinenz, Pertinenzien
+  match_de: '\bPertinen\w*'
+  match_en: '\bappurtenan\w*'
+  short_en: >-
+    Everything that belongs with an estate and passes with it: its villages,
+    farms, mills, forests, rights and dues. A grant "with all appurtenances"
+    gave all of them.
+  short_de: >-
+    Alles, was zu einem Gut gehört und mit ihm übergeht: Dörfer, Höfe, Mühlen,
+    Wälder, Rechte und Abgaben. Eine Schenkung „mit allen Pertinenzien“
+    umfasste all das.
+  check_against: Adelung
+  checked: false
+
+- id: einstand
+  kind: land
+  lang: de
+  head_en: entry money
+  head_de: Einstandsgeld
+  orig: Einstand, Einkaufsgeld
+  match_de: '\bEinstand\w*|\bEinkaufs?[- ]?[Gg]eld\w*'
+  match_en: '\bentry[- ]money\w*'
+  short_en: >-
+    The sum a tenant paid once, on taking up a hereditary lease, besides the
+    yearly canon. Settlers often owed it in instalments, and arrears of it were
+    sued for.
+  short_de: >-
+    Die Summe, die ein Pächter beim Antritt einer Erbpacht einmal zahlte,
+    neben dem jährlichen Canon. Siedler schuldeten es oft in Raten, und
+    Rückstände wurden eingeklagt.
+  check_against: Allgemeines Landrecht 1794; Krünitz
+  checked: false
+
+- id: lehn
+  kind: land
+  lang: de
+  head_en: fief
+  head_de: Lehn
+  orig: Lehn, Lehen
+  match_de: '\bLehn(s|e|en)?\b|\bLehens?\b'
+  match_en: '\bfiefs?\b'
+  short_en: >-
+    Land held from a lord or the crown in return for loyalty and service, which
+    the holder could not freely sell. By 1800 most Prussian fiefs had been
+    turned into outright property.
+  short_de: >-
+    Land, das von einem Herrn oder der Krone gegen Treue und Dienst verliehen
+    war und nicht frei verkauft werden durfte. Um 1800 waren die meisten
+    preußischen Lehen in freies Eigentum umgewandelt.
+  check_against: Allgemeines Landrecht 1794, Teil I Titel 18
+  checked: false
+
+- id: allodial
+  kind: land
+  lang: la
+  head_en: allodial
+  head_de: allodial
+  orig: Allodium, Allodial
+  match_de: '\bAllodi\w*'
+  match_en: '\ballodi\w*'
+  short_en: >-
+    Owned outright, as against held as a fief or bound in an entail: property
+    its owner could sell, mortgage and leave as he pleased.
+  short_de: >-
+    Freies Eigentum, im Gegensatz zum Lehen oder zum gebundenen Majorat: Besitz,
+    den der Eigentümer nach Belieben verkaufen, belasten und vererben durfte.
+  check_against: Allgemeines Landrecht 1794
+  checked: false
+
 # ------------------------------------------------- law, money, administration
 
 - id: sequestration
@@ -625,7 +830,8 @@ entries:
   head_en: Chamber
   head_de: Kammer
   orig: Cammer, Kammer
-  match_de: '\bCammer\w*|\bKammer\b|\bKammern\b'
+  # not Cammer Gericht, the Kammergericht, which has its own entry
+  match_de: '\bCammer(?![- ]?[Gg]ericht)\w*|\bKammer\b|\bKammern\b'
   match_en: '\bChambers?\b'
   short_en: >-
     The Kriegs- und Domänenkammer, the board that ran a Prussian province: its
@@ -1027,6 +1233,244 @@ entries:
   check_against: Adelung
   checked: false
 
+- id: regierung
+  kind: law
+  lang: de
+  head_en: Government (Regierung)
+  head_de: Regierung
+  orig: Regierung
+  # not "Unserer Regierung im Eilften Jahre", the King's reign
+  match_de: '\bRegierung\b(?! im \w+ Jahr)'
+  # not the French General Government, which has its own entry
+  match_en: '(?<!General )\bGovernment\b(?! (?:and Garrison|Audit))'
+  short_en: >-
+    Before 1808 a Prussian province's "Government" (Regierung) was its high
+    court of law, keeper of the mortgage book; the Chamber did the
+    administering. After the reforms of 1808 the name passed to the new
+    administrative boards, and the courts became Oberlandesgerichte.
+  short_de: >-
+    Vor 1808 war die „Regierung“ einer preußischen Provinz ihr oberstes
+    Gericht und führte das Hypothekenbuch; verwaltet hat die Kammer. Nach den
+    Reformen von 1808 ging der Name auf die neuen Verwaltungsbehörden über,
+    und die Gerichte wurden zu Oberlandesgerichten.
+  check_against: Acta Borussica; Allgemeine Gerichtsordnung 1793
+  checked: false
+
+- id: decret
+  kind: law
+  lang: de_la
+  head_en: decree (Decret)
+  head_de: Decret
+  orig: Decret, Decretum
+  match_de: '\bDecret\w*|\bDekret\w*'
+  short_en: >-
+    A written order of a court or an office, often a short ruling written on
+    the petition itself. "Vigore Decreti", by virtue of the decree, cites the
+    order an entry rests on.
+  short_de: >-
+    Eine schriftliche Verfügung eines Gerichts oder einer Behörde, oft ein
+    kurzer Bescheid auf der Eingabe selbst. „Vigore Decreti“, kraft der
+    Verfügung, nennt die Anordnung, auf der eine Eintragung beruht.
+  check_against: Adelung; Allgemeine Gerichtsordnung 1793
+  checked: false
+
+- id: departement
+  kind: law
+  lang: de_fr
+  head_en: department (Departement)
+  head_de: Departement
+  orig: Departement
+  match_de: '\bDepartement\w*'
+  match_en: '\bDepartments?\b'
+  short_en: >-
+    Two things. A branch of the Prussian ministry, under a departmental
+    minister (the finance department, the military department). And a
+    district governed from one seat, as the Posen department; in the Duchy of
+    Warsaw, its provinces.
+  short_de: >-
+    Zweierlei. Ein Zweig des preußischen Ministeriums unter einem
+    Departementsminister (das Finanzdepartement, das Militärdepartement). Und
+    ein von einem Sitz aus verwalteter Bezirk, etwa das Posensche Departement;
+    im Herzogtum Warschau dessen Provinzen.
+  check_against: Acta Borussica
+  checked: false
+
+- id: gouvernement
+  kind: law
+  lang: de_fr
+  head_en: General Government (Gouvernement)
+  head_de: Gouvernement
+  orig: Gouvernement, General-Gouvernement
+  # not the French documents' "Gouvernement de Pologne", nor a General
+  # Gouverneur, who is a person
+  match_de: '(?<!du )(?<!le )(?<!Le )\bGouvernement(?! de )\w*|\bGeneral[- ]?Gouvernement\w*'
+  match_en: '\bGeneral Government\b'
+  short_en: >-
+    The French military government of occupied Prussia, seated in Berlin from
+    1806 to 1808, which collected contributions and gave orders to Prussian
+    offices. Elsewhere a Gouvernement is a fortress governor's office, with
+    its own court and judge (Auditeur).
+  short_de: >-
+    Die französische Militärregierung des besetzten Preußens mit Sitz in
+    Berlin 1806 bis 1808, die Kontributionen eintrieb und preußischen Behörden
+    Befehle gab. Sonst ist ein Gouvernement das Amt eines Festungsgouverneurs,
+    mit eigenem Gericht und Auditeur.
+  check_against: a standard history of the French occupation of Prussia
+  checked: false
+
+- id: tribunal
+  kind: law
+  lang: de_fr
+  head_en: Tribunal
+  head_de: Tribunal
+  orig: Tribunal
+  match_de: '\bTribunal\w*'
+  match_en: '\bTribunals?\b'
+  short_en: >-
+    A court of the Duchy of Warsaw, set up on the French model with the Code
+    Napoléon; each department had a civil tribunal. The claims against the
+    Prince's estates were fought out before them.
+  short_de: >-
+    Ein Gericht des Herzogtums Warschau nach französischem Vorbild, mit dem
+    Code Napoléon; jedes Departement hatte ein Ziviltribunal. Die Ansprüche
+    gegen die Güter des Fürsten wurden vor ihnen ausgetragen.
+  check_against: Gloger, Encyklopedia staropolska; a standard history of the Duchy of Warsaw
+  checked: false
+
+- id: cabinetsordre
+  kind: law
+  lang: de_fr
+  head_en: cabinet order
+  head_de: Cabinets-Ordre
+  orig: Cabinets-Ordre
+  match_de: '\b[CK]abinet\w*[- ]?Ord\w*'
+  match_en: '\b[Cc]abinet [Oo]rders?\b'
+  short_en: >-
+    An order issued by the King from his own cabinet, his personal secretariat,
+    rather than through a ministry. It was how a petition to the King was
+    answered, and it overrode the offices below.
+  short_de: >-
+    Eine Anordnung des Königs aus seinem Kabinett, seinem persönlichen
+    Sekretariat, statt über ein Ministerium. So wurde eine Bittschrift an den
+    König beschieden, und sie ging den Behörden vor.
+  check_against: Acta Borussica
+  checked: false
+
+- id: landrath
+  kind: law
+  lang: de
+  head_en: district administrator (Landrath)
+  head_de: Landrath
+  orig: Landrath
+  match_de: '\bLandr(a|ä)th\w*|\bLandrat\w*'
+  match_en: '\bdistrict (?:councillor|administrator)s?\b|\bLandrath\w*'
+  short_en: >-
+    The head of a Prussian district (Kreis), usually a local landowner, who
+    answered to the Chamber for its taxes, roads, levies and police.
+  short_de: >-
+    Der Leiter eines preußischen Kreises, meist ein Gutsbesitzer der Gegend,
+    der der Kammer für Steuern, Wege, Aushebungen und Polizei verantwortlich
+    war.
+  check_against: Acta Borussica
+  checked: false
+
+- id: cession
+  kind: law
+  lang: de_la
+  head_en: cession
+  head_de: Cession
+  orig: Cession
+  match_de: '\bCe(ss|ß)ion\w*'
+  match_en: '\bcession\w*'
+  short_en: >-
+    The transfer of a claim to someone else, who may then collect it: a
+    creditor ceded a debt, often in payment of his own. The new holder is the
+    cessionary.
+  short_de: >-
+    Die Abtretung einer Forderung an einen anderen, der sie dann einziehen
+    kann: ein Gläubiger trat eine Schuld ab, oft zur Bezahlung seiner eigenen.
+    Der neue Inhaber ist der Cessionar.
+  check_against: Allgemeines Landrecht 1794, Teil I Titel 11
+  checked: false
+
+- id: oberlandesgericht
+  kind: law
+  lang: de
+  head_en: Oberlandesgericht
+  head_de: Oberlandesgericht
+  orig: Ober-Landes-Gericht, O. L. G.
+  match_de: '\bOber[- ]?Landes[- ]?Gericht\w*|\bO\. ?L\. ?G\.'
+  match_en: '\bHigh(?:er)? (?:Regional )?Court of Appeal\b|\bHigher Regional Court\b'
+  short_en: >-
+    A Prussian provincial high court, the name the judicial Governments took in
+    1808: the court of appeal for the province, and of first instance for
+    nobles and estates.
+  short_de: >-
+    Ein preußisches Provinzobergericht, der Name, den die Regierungen als
+    Gerichte 1808 erhielten: Berufungsgericht der Provinz und erste Instanz
+    für Adlige und Rittergüter.
+  check_against: Acta Borussica
+  checked: false
+
+- id: kammergericht
+  kind: law
+  lang: de
+  head_en: Kammergericht
+  head_de: Kammergericht
+  orig: Kammergericht
+  match_de: '\bKammergericht\w*|\bCammer[- ]?Gericht\w*'
+  match_en: '\bKammergericht\w*'
+  short_en: >-
+    The supreme court in Berlin, for the Mark Brandenburg and for cases the
+    Crown sent to it. The Invalids' Fund sued over the Prince's loan there.
+    Not a court of the Chamber.
+  short_de: >-
+    Das oberste Gericht in Berlin, für die Mark Brandenburg und für Sachen,
+    die die Krone ihm zuwies. Die Invalidenkasse verklagte den Fürsten dort
+    wegen des Darlehens. Kein Gericht der Kammer.
+  check_against: Acta Borussica
+  checked: false
+
+- id: friedensgericht
+  kind: law
+  lang: de
+  head_en: peace court
+  head_de: Friedensgericht
+  orig: Friedens Gericht
+  match_de: '\bFriedens[- ]?Gericht\w*'
+  match_en: '\bpeace courts?\b|\bjustices? of the peace\b'
+  short_en: >-
+    The lowest court of the Duchy of Warsaw, one in each district (sąd
+    pokoju), on the French model: it tried small cases, sought settlements and
+    kept guardianships and records. The court at Konin received the lease file
+    of 1811.
+  short_de: >-
+    Das unterste Gericht des Herzogtums Warschau, eines in jedem Kreis (sąd
+    pokoju), nach französischem Vorbild: es entschied kleine Sachen, suchte
+    Vergleiche und führte Vormundschaften und Akten. Das Gericht in Konin
+    erhielt 1811 die Pachtakte.
+  check_against: Gloger, Encyklopedia staropolska (sąd pokoju)
+  checked: false
+
+- id: auditeur
+  kind: law
+  lang: de_fr
+  head_en: Auditeur
+  head_de: Auditeur
+  orig: Auditeur
+  match_de: '\bAuditeur\w*'
+  match_en: '\bAuditeurs?\b|\bjudge advocates?\b'
+  short_en: >-
+    A military judge: the lawyer attached to a regiment, garrison or fortress
+    government. A Gouvernements-Auditeur at Breslau certified several of the
+    copies of the grants.
+  short_de: >-
+    Ein Militärrichter: der Jurist eines Regiments, einer Garnison oder eines
+    Festungsgouvernements. Ein Gouvernements-Auditeur in Breslau beglaubigte
+    mehrere Abschriften der Schenkungen.
+  check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
 # ----------------------------------------------------------- titles, address
 
 - id: durchlaucht
@@ -1128,6 +1572,116 @@ entries:
     (24. Juni), Michaelis (29. September) und Martini (11. November). An
     ihnen wurden Pacht und Zinsen fällig, begannen und endeten Pachten.
   check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: pp
+  kind: phrase
+  lang: la
+  head_en: pp., p.
+  head_de: pp., p.
+  orig: pp., p.
+  match_de:
+    - '\bpp\b\.?'
+    # "dem p Hawich": a single p only between an article and a name
+    - '\b(?:der|dem|den|des|die|Der|Dem|Den|Die) (?P<w>p\.?)(?= [A-ZÄÖÜ])'
+  short_en: >-
+    Short for perge, perge, "and so on": it stands for titles too long to write
+    out. "Dem p Hawich" is Hawich with his titles; after a name or a title list
+    it is a polite "etc.", which the English gives.
+  short_de: >-
+    Abkürzung für perge, perge, „und so weiter“: sie steht für Titel, die zu
+    lang zum Ausschreiben sind. „Dem p Hawich“ ist Hawich mit seinen Titeln.
+  check_against: Adelung
+  checked: false
+
+- id: geruhen
+  kind: phrase
+  lang: de
+  head_en: deign (geruhen)
+  head_de: geruhen
+  orig: geruhen
+  match_de: '\bgeruh\w*'
+  match_en: '\bdeign\w*'
+  short_en: >-
+    To be graciously pleased to: the verb for anything a superior does, in
+    letters written up to him. "Ew. Durchlaucht geruhen ..." asks or thanks;
+    the English renders it "deign" or "be pleased".
+  short_de: >-
+    Die Höflichkeitsform für alles, was ein Höherstehender tut, in Briefen an
+    ihn. „Ew. Durchlaucht geruhen …“ bittet oder dankt.
+  check_against: Adelung
+  checked: false
+
+- id: locus-sigilli
+  kind: phrase
+  lang: la
+  head_en: L. S. (Locus Sigilli)
+  head_de: L. S. (Locus Sigilli)
+  orig: L. S.
+  match_de: '\(L\. ?S\.?\)|\bL\. ?S\.|\bLocus Sigilli\b'
+  match_en: '\(L\. ?S\.?\)|\bL\. ?S\.|\bLocus Sigilli\b'
+  short_en: >-
+    "The place of the seal": written in a copy where the original bears a seal,
+    to show that it was sealed.
+  short_de: >-
+    „Ort des Siegels“: in einer Abschrift an der Stelle vermerkt, wo das
+    Original ein Siegel trägt, zum Zeichen, dass es gesiegelt war.
+  check_against: Adelung
+  checked: false
+
+- id: actum
+  kind: phrase
+  lang: la
+  head_en: Actum
+  head_de: Actum
+  orig: Actum
+  match_de: '\bActum\b'
+  match_en: '\bActum\b'
+  short_en: >-
+    "Done": the first word of a court record, followed by the place and date,
+    as in "Actum Betsche, 28 July 1804". What follows is the record of what
+    was done and said there.
+  short_de: >-
+    „Verhandelt“: das erste Wort eines Protokolls, mit Ort und Datum, wie in
+    „Actum Betsche, den 28. Juli 1804“. Es folgt die Niederschrift dessen, was
+    dort verhandelt und erklärt wurde.
+  check_against: Adelung
+  checked: false
+
+- id: in-fidem
+  kind: phrase
+  lang: la
+  head_en: in fidem
+  head_de: in fidem
+  orig: in fidem
+  match_de: '\bin [Ff]idem\b'
+  match_en: '\bin [Ff]idem\b'
+  short_en: >-
+    "In good faith": the formula by which an official certifies that a copy
+    agrees with its original, with his signature and seal after it.
+  short_de: >-
+    „Zur Beglaubigung“: die Formel, mit der ein Beamter bestätigt, dass eine
+    Abschrift mit dem Original übereinstimmt, gefolgt von Unterschrift und
+    Siegel.
+  check_against: Adelung
+  checked: false
+
+- id: de-dato
+  kind: phrase
+  lang: la
+  head_en: de dato; vigore
+  head_de: de dato; vigore
+  orig: de dato, vigore
+  match_de: '\bde dato\b|\bvigore\b'
+  short_en: >-
+    Latin of the deeds. "De dato" means "dated": a charter de dato 19 June
+    1797 is the one of that date. "Vigore" means "by virtue of", as in vigore
+    Decreti, by virtue of the decree.
+  short_de: >-
+    Latein der Urkunden. „De dato“ heißt „vom Datum“: eine Urkunde de dato
+    19. Juni 1797 ist die dieses Tages. „Vigore“ heißt „kraft“, wie in vigore
+    Decreti, kraft der Verfügung.
+  check_against: Adelung
   checked: false
 
 # --------------------------------------------------------- events and states

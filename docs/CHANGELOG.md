@@ -860,6 +860,34 @@ says so. False hits found in review and fixed in the patterns: *Morgen* as
 The "hide scans" checkbox, which had no style and crowded the view hint on a
 phone, is styled with the new switch.
 
+## The glossary's second batch, and the English money written out (2026-10-02)
+
+Fr. d'or, in 19 documents, was not in the glossary: the first batch came from
+the translation termbase, which has no entries for abbreviations or Latin. A
+probe for both now runs in `glossary_candidates.py`, and 30 more entries take
+the glossary to 91: the Friedrich d'or; four measures (rod, Centner, cord,
+bushel); seven of land and tenure (donation, Taxe, Competenz, appurtenances,
+entry money, fief, allodial); twelve courts and offices; and the Latin and
+formulas of the deeds (pp., geruhen, L. S., Actum, in fidem, de dato, vigore).
+
+The most useful of them is a false friend the English repeats in 60
+documents: before 1808 a Prussian province's *Regierung* was its high court,
+keeper of the mortgage book, not its government. The entry says so wherever
+"Government" stands for it. Patterns were read against their matches and
+narrowed where they caught the wrong thing: the King's *Regierung* in "the
+eleventh year of Our reign", the French documents' *Gouvernement de Pologne*,
+a *General Gouverneur* (a person), and the garrison's "Government Auditor".
+
+The English kept the German money abbreviations in a dozen forms. They are now
+written out by rule, not by a model: `reference/english_forms.yml`, applied by
+`english_forms.py` and by publish_translations.py and summarise.py as they
+write, so a re-publish keeps them. About 1,400 replacements in 186
+translations and 32 summaries: rt, rtl, rttl, rthlr to the termbase's Rthl;
+gg, ggr, g., gl. to Groschen; pf. and d. (after Groschen) to Pfennig; fl. to
+gulden and x to kreuzer; every Fr. d'or to Friedrich d'or. Every Groschen and
+gulden replacement was read in context first. "Polish gulden", the złoty of
+the deeds, stays gulden, and the glossary's gulden now covers it.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

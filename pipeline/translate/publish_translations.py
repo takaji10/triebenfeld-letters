@@ -31,6 +31,7 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
 import unitlib
+import english_forms
 import io, os, re, sys, csv, json, argparse
 
 import yaml
@@ -180,7 +181,9 @@ def main():
             if (pad, str(p.get('page'))) in held:
                 dropped += 1
                 continue
-            en = (p.get('en') or '').strip()
+            # the house forms (reference/english_forms.yml): money
+            # abbreviations written out, Fr. d'or as Friedrich d'or
+            en = english_forms.apply((p.get('en') or '').strip())
             if en:
                 # names and numbers travel with the text. They were dropped
                 # here, so the English reached the site and the dataset as a
@@ -203,7 +206,7 @@ def main():
             shown = english_table(tables[pad], segs) if not dropped else None
             if shown:
                 for seg in segs:
-                    seg['html'] = shown[int(seg['page'])]
+                    seg['html'] = english_forms.apply(shown[int(seg['page'])])
             else:
                 print(f'  !! {pad}: the English did not keep the rows and figures '
                       f'of the table - published as plain text')

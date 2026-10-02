@@ -1,0 +1,74 @@
+# House forms for the English: replacements applied to every published
+# translation and English summary, after the model and before the site.
+#
+# Applied by pipeline/translate/english_forms.py, which publish_translations.py
+# and summarise.py call when they write, so a re-publish from the cache keeps
+# them. Run it with --apply to bring the published files into line by hand.
+#
+# Only replacements that are mechanical belong here: a form that means one
+# thing wherever the pattern can match it. Anything that needs the sentence
+# read goes to the review sheet, not here.
+#
+# Fields:
+#   id        a name for the report
+#   pattern   a regular expression (Python), case-sensitive
+#   replace   the replacement; \1, \2 for groups
+#   word      instead of `replace`: a group 1 (the figure), group 2 (the space)
+#             and the abbreviation, replaced by this word. An abbreviation's
+#             own full stop is dropped, unless it also ends the sentence.
+#   why       the reason
+#
+# Added 2026-10-02, from building the glossary: the English kept the money
+# abbreviations of the German in a dozen forms (rt, rtl, rttl, gg, g., fl.),
+# and the glossary, which marks the full forms, could not explain them.
+
+rules:
+
+- id: friedrich-dor
+  pattern: "\\b(?!Friedrich d'or)(?:Friedrichs?|Fr|fr|F|f)\\.? ?d['’]or\\b"
+  replace: "Friedrich d'or"
+  why: >-
+    The gold coin, written Fr. d'or, fr d'or, f. d'or and Friedrichsd'or in the
+    German and carried over as written. One form, the coin's name.
+
+- id: reichsthaler
+  pattern: "(\\d\\.?|/m)( ?)(?:rt|rtl|rtt|rttl|rth|rtr|rthl|Rt|Rtl|Rthlr|rthlr)(?=\\b)"
+  replace: "\\1\\2Rthl"
+  why: >-
+    The termbase's form for the Reichsthaler is Rthl (translation_glossary.yml,
+    currency). After a figure, or after "/m" (thousands: 50/m rt), every other
+    abbreviation of it becomes Rthl. Its full stop, where there is one, stays.
+
+- id: groschen
+  pattern: "(\\d\\.?)( ?)(?:ggr|ggl|gg|gl|gr|g)\\.?(?=[\\s,;:)\\]]|$)"
+  word: Groschen
+  why: >-
+    The Groschen, a twenty-fourth of a thaler, abbreviated gg (gute Groschen),
+    ggr, gl, gr or g after a figure. Written out, as the termbase renders it.
+
+- id: pfennig
+  pattern: "(\\d\\.?)( ?)(?:pfg|pf|Pf)\\.?(?=[\\s,;:)\\]]|$)"
+  word: Pfennig
+  why: >-
+    The Pfennig, a twelfth of a Groschen, abbreviated pf after a figure.
+
+- id: pfennig-d
+  pattern: "(Groschen \\d[\\d /]*?)( ?)d\\.?(?=[\\s,;:)\\]]|$)"
+  word: Pfennig
+  why: >-
+    d. (denarius) for the Pfennig, but only in the third place of a sum, after
+    a figure of Groschen, where it cannot be anything else.
+
+- id: gulden
+  pattern: "(\\d)( ?)fl\\.?(?=[\\s,;:)\\]]|$)"
+  word: gulden
+  why: >-
+    The Austrian gulden of the Vienna letters, abbreviated fl. (florin) after a
+    figure. The termbase renders it gulden.
+
+- id: kreuzer
+  pattern: "(gulden \\d+)( ?)x(?=[\\s,;:.)\\]]|$)"
+  word: kreuzer
+  why: >-
+    x for the kreuzer, a sixtieth of a gulden, after a figure of gulden (1 fl.
+    30 x).

@@ -16,6 +16,13 @@ does not decide. Four sources:
              as real obscurity, so every row wants judgement
   event      site/_data/timeline.yml
   office     the roles in reference/people.yml
+  abbrev     a short word with a full stop, or a unit after a figure (rt, gg,
+             fl., Fr. d'or), recurring across documents. The termbase has no
+             entries for abbreviations, so without this they were never
+             offered: Fr. d'or, in 19 documents, was missed in the first batch
+  latin      a Latin set phrase (de dato, in fidem, sub sigillo: a Latin
+             preposition and a Latin ending) or a Latin-ending word modern
+             German does not know (Actum, vigore)
 
 A candidate already covered by reference/glossary.yml (an entry, or a ruling
 under `excluded:`) is marked so; with --unit only the uncovered ones are
@@ -92,7 +99,7 @@ def main():
                          'covered': is_covered(e.get('term') or '')})
 
     # rare in modern German, frequent here
-    freq = load('reference/dwds_cache.json')
+    freq = load('reference/dwds_cache.json')  # also used by the latin probe
     tok, where = collections.Counter(), collections.defaultdict(set)
     for u, t in texts.items():
         for w in re.findall(r"[A-Za-zÄÖÜäöüß]{5,}", t):
@@ -104,6 +111,55 @@ def main():
                          'docs': len(where[w]), 'sample': w,
                          'note': f'{n} uses; modern frequency {f}',
                          'covered': is_covered(w)})
+
+    # how often a short word carries a full stop, and stands after a figure
+    seen_dot, after_fig = collections.Counter(), collections.Counter()
+    for t in texts.values():
+        seen_dot.update(m.group(1) for m in re.finditer(r'(?<![\w.])([A-Za-zÄÖÜäöüß]{1,5})\.', t))
+        after_fig.update(m.group(1) for m in re.finditer(r"\d\.?\s?([A-Za-z]{1,5})\b", t))
+    # abbreviations and units. An abbreviation keeps its full stop nearly
+    # every time (Ew.), where a word ends a sentence only sometimes (wird.);
+    # a unit stands after a figure most times it is used (rt, gg), where a
+    # word does so by chance (2 Tage). Both tests are ratios over the corpus.
+    words = collections.Counter()
+    for t in texts.values():
+        words.update(re.findall(r"[A-Za-zÄÖÜäöüß]+", t))
+    ORDINAL = {'t', 'te', 'ten', 'ter', 'tes', 'tem', 'st', 'ste', 'sten', 'ster', 'stes', 'n', 'r', 'e', 'en'}
+    LATIN_PREP = r'(?:de|ad|pro|sub|ex|per|cum|sine|salvo|vigore|in)'
+    LATIN_WORD = r'[a-z]+(?:um|orum|arum|ibus|ione|ionis|atis|ii|ato|ali|ali|ido|io|em)'
+    GERMAN = {'dem', 'diesem', 'einem', 'seinem', 'ihrem', 'meinem', 'jedem', 'welchem', 'allem',
+              'solchem', 'unserm', 'deinem', 'keinem', 'wem', 'ihm', 'sum'}
+    seen = collections.defaultdict(lambda: [0, set(), ''])
+
+    def note(key, u, t, m):
+        seen[key][0] += 1; seen[key][1].add(u)
+        seen[key][2] = seen[key][2] or t[max(0, m.start() - 30):m.end() + 25]
+
+    for u, t in texts.items():
+        for m in re.finditer(r'(?<![\w.])([A-Za-zÄÖÜäöüß]{1,5})\.(?=[\s,;:)])', t):
+            w = m.group(1)
+            if words[w] and seen_dot.get(w, 0) / words[w] >= .6:
+                note(('abbrev', w + '.'), u, t, m)
+        for m in re.finditer(r"\d\.?\s?((?:[A-Za-z]{1,5}\.?\s?d['’]or)|[A-Za-z]{1,5})\b", t):
+            w = m.group(1)
+            if w in ORDINAL:
+                continue
+            if "d'or" in w or "d’or" in w or (words[w] and after_fig.get(w, 0) / words[w] >= .5):
+                note(('abbrev', 'after a figure: ' + w), u, t, m)
+        for m in re.finditer(r'\b' + LATIN_PREP + r'\s+(' + LATIN_WORD + r')\b', t, re.I):
+            if m.group(1).lower() not in GERMAN:
+                note(('latin', m.group(0).lower()), u, t, m)
+        for m in re.finditer(r'\b[A-Za-z]+(?:um|orum|arum|ibus|ione|ionis|atis|ii)\b', t):
+            # German words ending -rum, -thum (darum, Eigenthum) are not Latin
+            if (len(m.group(0)) >= 5 and m.group(0).lower() not in GERMAN
+                    and not re.search(r'(?:rum|thum|tum)$', m.group(0), re.I)):
+                note(('latin', m.group(0)), u, t, m)
+    for (src, term), (n, where, sample) in seen.items():
+        if len(where) >= 3:
+            word = term.split(': ')[-1]
+            rows.append({'source': src, 'term': term, 'english': '', 'docs': len(where),
+                         'sample': sample.replace('\n', ' '), 'note': f'{n} uses',
+                         'covered': is_covered(word)})
 
     # events
     if not a.unit:
