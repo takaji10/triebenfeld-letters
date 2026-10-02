@@ -95,9 +95,11 @@ as the letters' writers used it:
 | **Polish terms and institutions** | **Zygmunt Gloger, *Encyklopedia staropolska ilustrowana* (1900–1903)**, [on Polish Wikisource](https://pl.wikisource.org/wiki/Encyklopedia_staropolska). For starosta, wójt, sołtys, olędrzy, propinacja, łan and the like, and for every Polish term the later eras bring |
 | Events | The timeline's own cited sources; standard histories |
 
-The cloud environment used so far cannot reach Wikisource (its network policy
-refuses the host). Either the host is added to the environment's allowed
-domains, or entries citing Gloger are drafted where it can be reached.
+Since 2026-10-02 the cloud environment reaches Wikisource, Wörterbuchnetz
+(Adelung, Grimm, and Krünitz's lemma index) and kruenitz.uni-trier.de, and
+entries are checked against them there. A `source:` names the work and the
+entry with its URL, as "s.v. Entry (https://...)"; the glossary page links the
+entry name.
 
 ## 3. In the documents
 

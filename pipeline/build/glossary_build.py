@@ -21,7 +21,7 @@ is marked, once per view; not a word split across lines, nor one under a [?]
 doubt mark. Views: `dip` (transcription, line by line), `rd` (reading text),
 `en` (the English, per page), and the summaries `sen` and `sde`.
 """
-import os, re, csv, json
+import os, re, csv, json, html
 import yaml
 
 FIELDS = ('kind', 'lang', 'head_en', 'head_de', 'orig', 'short_en', 'short_de')
@@ -131,6 +131,18 @@ def _sort_key(head):
     return h.lower(), (h[:1].upper() if h[:1].isalpha() else '#')
 
 
+def source_html(source):
+    """The `source:` line for the glossary page. A path into reference/ is
+    dropped; "s.v. Entry (https://...)" becomes a link on the entry name."""
+    s = re.sub(r' \(reference/[^)]*\)', '', (source or '').strip())
+    out, last = [], 0
+    for m in re.finditer(r'(s\.v\. )([^();]+?) \((https?://[^)\s]+)\)', s):
+        out.append(html.escape(s[last:m.start()]) + html.escape(m.group(1))
+                   + f'<a href="{html.escape(m.group(3))}">{html.escape(m.group(2))}</a>')
+        last = m.end()
+    return ''.join(out) + html.escape(s[last:])
+
+
 def write(entries, recs, root, site_dir, assets_dir, yaml_str):
     hits, review = compute(entries, recs, site_dir)
 
@@ -151,6 +163,7 @@ def write(entries, recs, root, site_dir, assets_dir, yaml_str):
             f.write(f'- id: {yaml_str(e["id"])}\n')
             for k in FIELDS + ('long_en', 'long_de', 'source', 'check_against'):
                 f.write(f'  {k}: {yaml_str((e.get(k) or "").strip())}\n')
+            f.write(f'  source_html: {yaml_str(source_html(e.get("source")))}\n')
             f.write(f'  checked: {"true" if e.get("checked") else "false"}\n')
             for L in ('en', 'de'):
                 key, initial = _sort_key(e.get('head_' + L) or e['id'])

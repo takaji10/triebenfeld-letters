@@ -36,6 +36,12 @@
 #
 # First batch, 2026-10-02: drafted without access to the reference works (the
 # environment could not reach them), so every entry is `checked: false`.
+# Checked the same day against Krünitz, Adelung, Grimm and Gloger once the
+# environment could reach them: 54 entries corrected where the work said
+# otherwise and set `checked: true`, each `source:` naming the entry and its
+# URL ("s.v. Entry (https://...)", which the glossary page links). The rest
+# rest on works not online here (the Landrecht, the Hypothekenordnung, Acta
+# Borussica, Grotefend, histories) or have no entry in the works that are.
 
 entries:
 
@@ -59,8 +65,9 @@ entries:
     Die preußische Rechnungseinheit, ein Silbertaler, abgekürzt Rthl oder rt.
     Er galt 24 Groschen zu je 12 Pfennig. Fast jede Summe in den Briefen ist in
     ihm gerechnet.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Reichsthaler (https://www.kruenitz1.uni-trier.de/xxx/r/kr02212.htm); s.v. Groschen (https://www.kruenitz1.uni-trier.de/xxx/g/kg03849.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: courant
   per: document
@@ -72,15 +79,18 @@ entries:
   match_de: '\bCourant\b|\bin (?P<w>Gold)\b'
   match_en: '\bCourant\b'
   short_en: >-
-    Payment in the silver coin in everyday circulation, as against gold. A sum
-    "in Courant" was paid in silver thalers; a sum "in Gold" in gold coin, worth
-    more. The letters keep the two strictly apart.
+    The coin current in everyday trade, as against gold: in Prussia the silver
+    thaler and its parts, small change apart. A sum "in Courant" was paid in
+    silver; a sum "in Gold" in gold coin, worth more. The letters keep the two
+    strictly apart.
   short_de: >-
-    Zahlung in der umlaufenden Silbermünze, im Gegensatz zum Gold. Eine Summe
-    „in Courant“ wurde in Silbertalern gezahlt, eine „in Gold“ in den
-    höherwertigen Goldmünzen. Die Briefe halten beides streng auseinander.
+    Die im täglichen Handel umlaufende Münze, im Gegensatz zum Gold: in Preußen
+    der Silbertaler und seine Teilstücke, ohne die Scheidemünze. Eine Summe „in
+    Courant“ wurde in Silber gezahlt, eine „in Gold“ in den höherwertigen
+    Goldmünzen. Die Briefe halten beides streng auseinander.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Current=Geld (https://www.kruenitz1.uni-trier.de/xxx/c/kc02385.htm); s.v. Pistole (https://www.kruenitz1.uni-trier.de/xxx/p/kp05380.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: groschen
   per: document
@@ -99,8 +109,9 @@ entries:
     Silbermünze und Rechnungseinheit, der vierundzwanzigste Teil eines
     Reichsthalers, unterteilt in 12 Pfennig. Summen stehen in drei Spalten:
     Taler, Groschen, Pfennig.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Groschen (https://www.kruenitz1.uni-trier.de/xxx/g/kg03849.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: friedrich-dor
   kind: money
@@ -111,17 +122,20 @@ entries:
   match_de: "\\b(?:Friedrichs?|Fr|fr|F|f)\\.? ?d['’]or\\b"
   match_en: "\\b(?:Friedrichs?|Fr|fr|F|f)\\.? ?d['’]or\\b"
   short_en: >-
-    The Prussian gold coin, written Fr. d'or, worth five Reichsthaler in gold
-    and rather more in silver Courant, at a rate that moved. Sums "in Gold"
-    were reckoned in it; it was the coin of savings, large payments and
-    travel.
+    The Prussian gold coin, written Fr. d'or. By law it was worth 5¼
+    Reichsthaler in silver Courant; in trade it was reckoned at five thalers in
+    gold, with a premium over silver that moved, and in 1809 the royal offices
+    took it at six. Sums "in Gold" were reckoned in it; it was the coin of
+    savings, large payments and travel.
   short_de: >-
-    Die preußische Goldmünze, abgekürzt Fr. d'or, fünf Reichsthaler in Gold
-    wert und etwas mehr in Silbercourant, zu wechselndem Kurs. Summen „in
-    Gold“ wurden in ihr gerechnet; sie war die Münze der Ersparnisse, großer
-    Zahlungen und der Reise.
+    Die preußische Goldmünze, abgekürzt Fr. d'or. Gesetzlich galt sie 5¼
+    Reichsthaler in Silbercourant; im Handel rechnete man sie zu fünf Talern in
+    Gold, mit einem wechselnden Aufgeld gegen Silber, und 1809 nahmen die
+    königlichen Kassen sie zu sechs. Summen „in Gold“ wurden in ihr gerechnet;
+    sie war die Münze der Ersparnisse, großer Zahlungen und der Reise.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Pistole (https://www.kruenitz1.uni-trier.de/xxx/p/kp05380.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: pfennig
   kind: money
@@ -137,8 +151,9 @@ entries:
   short_de: >-
     Die kleinste Einheit, der zwölfte Teil eines Groschens. Oft d. abgekürzt,
     nach dem lateinischen denarius.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Pfennig (https://www.kruenitz1.uni-trier.de/xxx/p/kp03444.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: ducat
   kind: money
@@ -156,8 +171,9 @@ entries:
     Eine Goldmünze von festem Gewicht, in ganz Mitteleuropa gängig, das Geld
     großer Zahlungen und der Reise. In Wien 1814/15 rechnen die Briefe in
     Dukaten und Gulden.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Ducaten (https://www.kruenitz1.uni-trier.de/xxx/d/kd01432.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: gulden
   kind: money
@@ -170,14 +186,16 @@ entries:
   short_en: >-
     The florin, written fl. In the letters from the Congress of Vienna, the
     Austrian gulden, of 60 kreuzer (x), in which the Prince's agent paid his
-    way. In the deeds, "Polish gulden" is the złoty, of 30 groschen.
+    way. In the deeds, "Polish gulden" is the złoty, a money of account of 30
+    Polish groschen.
   short_de: >-
     Der Gulden (Florin), abgekürzt fl. In den Briefen vom Wiener Kongress der
     österreichische Gulden zu 60 Kreuzer (x), in dem der Beauftragte des
-    Fürsten seine Ausgaben bestritt. In den Urkunden ist der „polnische
-    Gulden“ der Złoty zu 30 Groschen.
+    Fürsten seine Ausgaben bestritt. In den Urkunden ist der „polnische Gulden“
+    der Złoty, eine Rechnungsmünze zu 30 polnischen Groschen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Gulden (https://www.kruenitz1.uni-trier.de/xxx/g/kg04337.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: morgen
   kind: money
@@ -192,16 +210,19 @@ entries:
     - '(?:\d[\d.,/]*\s*)(?P<w>Morg)\b\.?'
   match_en: '\bMorgen\b'
   short_en: >-
-    A measure of land, originally what a team could plough in a morning. The
-    Prussian (Magdeburg) Morgen was about a quarter of a hectare; other Morgen
-    were larger, so a document often names the one it means.
+    A measure of land, roughly what a team could plough in a day or, as the
+    name was explained, in a morning. The Prussian (Magdeburg) Morgen of 180
+    square rods was about a quarter of a hectare; other Morgen were larger, so
+    a document often names the one it means.
   short_de: >-
-    Ein Flächenmaß, ursprünglich das, was ein Gespann an einem Vormittag
-    pflügen konnte. Der preußische (Magdeburger) Morgen maß etwa einen
-    Viertelhektar; andere Morgen waren größer, weshalb ein Dokument oft angibt,
-    welcher gemeint ist.
+    Ein Flächenmaß, ungefähr das, was ein Gespann an einem Tag oder, nach der
+    Deutung des Namens, an einem Vormittag pflügen konnte. Der preußische
+    (Magdeburger) Morgen zu 180 Quadratruten maß etwa einen Viertelhektar;
+    andere Morgen waren größer, weshalb ein Dokument oft angibt, welcher
+    gemeint ist.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Morgen (https://www.kruenitz1.uni-trier.de/xxx/m/km08444.htm); s.v. Hufe (https://www.kruenitz1.uni-trier.de/xxx/h/kh04717.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: hufe
   kind: money
@@ -213,15 +234,19 @@ entries:
   match_en: '\bHufen?\b'
   short_en: >-
     A farm holding and a measure of land: the arable one household could live
-    on. Its size varied; the Kulm Hufe usual in this region, the Polish włóka,
-    was about 17 hectares. Settlers on the estates were let land by the Hufe.
+    on, reckoned at 30 Morgen. Its size varied with the Morgen; the Kulm Hufe
+    usual in this region, the Polish włóka, was about 17 hectares, and in
+    Greater Poland the włóka itself was often called Hufe. Settlers on the
+    estates were let land by the Hufe.
   short_de: >-
     Ein Bauernhof und zugleich ein Flächenmaß: das Ackerland, von dem ein
-    Haushalt leben konnte. Die Größe schwankte; die hier übliche kulmische
-    Hufe, polnisch włóka, maß etwa 17 Hektar. Den Siedlern auf den Gütern wurde
-    Land nach Hufen ausgetan.
+    Haushalt leben konnte, zu 30 Morgen gerechnet. Die Größe schwankte mit dem
+    Morgen; die hier übliche kulmische Hufe, polnisch włóka, maß etwa 17
+    Hektar, und in Großpolen hieß die włóka selbst oft Hufe. Den Siedlern auf
+    den Gütern wurde Land nach Hufen ausgetan.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Hufe (https://www.kruenitz1.uni-trier.de/xxx/h/kh04717.htm); Gloger, Encyklopedia staropolska, s.v. Włóka (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Włóka)"
   check_against: Krünitz, Oekonomische Encyklopädie; Gloger, Encyklopedia staropolska (włóka)
-  checked: false
+  checked: true
 
 - id: ruthe
   kind: money
@@ -239,8 +264,9 @@ entries:
     Ein Längenmaß, die preußische Rute zu 12 Fuß, etwa 3,77 Meter; als
     Quadratrute ein Flächenmaß. Ein Magdeburger Morgen hatte 180 Quadratruten,
     daher die Angaben in „Morgen und Ruthen“.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Ruthe (https://www.kruenitz1.uni-trier.de/xxx/r/kr07670.htm); s.v. Hufe (https://www.kruenitz1.uni-trier.de/xxx/h/kh04717.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: centner
   kind: money
@@ -251,13 +277,14 @@ entries:
   match_de: '\bCent(?:ner|nr|z|l)\w*|\bZentner\w*'
   match_en: '\bCentners?\b|\bhundredweights?\b'
   short_en: >-
-    A hundredweight: in Prussia 110 pounds, about 51 kilograms. Iron, wool and
-    grain in bulk were sold by it.
+    A hundredweight: at Berlin 110 pounds, about 51 kilograms, though in
+    Silesia 132. Goods in bulk, such as iron or wool, were weighed by it.
   short_de: >-
-    Ein Gewichtsmaß: in Preußen 110 Pfund, etwa 51 Kilogramm. Eisen, Wolle und
-    Getreide wurden in großen Mengen danach verkauft.
+    Ein Gewichtsmaß: in Berlin 110 Pfund, etwa 51 Kilogramm, in Schlesien
+    dagegen 132. Massengüter wie Eisen oder Wolle wurden danach gewogen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Centner (https://www.kruenitz1.uni-trier.de/xxx/c/kc00787.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: klafter
   kind: money
@@ -268,15 +295,18 @@ entries:
   match_de: '\b[KC]lafter\w*'
   match_en: '\bcords?\b'
   short_en: >-
-    The measure of firewood: a stack of split logs of fixed size, in Prussia
-    108 cubic feet, about three and a third cubic metres. Woodland was valued by
-    the cords it would yield.
+    The measure of firewood: a stack of split logs a fathom (six feet) long and
+    six feet high, as deep as the logs were long. With the three-foot logs
+    usual in Prussia it held 108 cubic feet, about three and a third cubic
+    metres. Woodland was valued by the cords it would yield.
   short_de: >-
-    Das Maß für Brennholz: ein Stapel gespaltener Scheite von fester Größe, in
-    Preußen 108 Kubikfuß, gut drei Kubikmeter. Wald wurde nach den Klaftern
-    bewertet, die er hergab.
+    Das Maß für Brennholz: ein Stapel gespaltener Scheite, eine Klafter (sechs
+    Fuß) lang und sechs Fuß hoch, so tief wie die Scheite lang waren. Bei den
+    in Preußen üblichen dreifüßigen Scheiten hielt sie 108 Kubikfuß, gut drei
+    Kubikmeter. Wald wurde nach den Klaftern bewertet, die er hergab.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Klafter (https://www.kruenitz1.uni-trier.de/xxx/k/kk02966.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: scheffel
   kind: money
@@ -292,8 +322,9 @@ entries:
   short_de: >-
     Das Hohlmaß für Getreide: der preußische Scheffel fasste etwa 55 Liter.
     Naturalabgaben und der Ertrag einer Mühle wurden danach berechnet.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Scheffel (https://www.kruenitz1.uni-trier.de/xxx/s/ks09047.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 # ------------------------------------------------------------ land and tenure
 
@@ -306,15 +337,19 @@ entries:
   match_de: '\bVorwer(k|ck)\w*'
   match_en: '\bdemesne farms?\b'
   short_en: >-
-    A farm belonging to the manor itself and run for the lord, worked largely
-    by the labour the peasants owed him. Polish folwark. An estate usually had
-    several.
+    A farm belonging to the manor itself and run for the lord, by him or by his
+    steward, worked largely by the labour the peasants owed him. Polish
+    folwark, from the German. A large estate had several, each working its own
+    part of the land.
   short_de: >-
     Ein Wirtschaftshof, der dem Gut selbst gehörte und für die Herrschaft
-    bewirtschaftet wurde, großenteils mit den Diensten, die die Bauern
-    schuldeten. Polnisch folwark. Ein Gut hatte meist mehrere.
+    bewirtschaftet wurde, vom Herrn selbst oder von seinem Verwalter,
+    großenteils mit den Diensten, die die Bauern schuldeten. Polnisch folwark,
+    aus dem Deutschen. Ein großes Gut hatte mehrere, jeder für einen Teil der
+    Flur.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Vorwerk (https://www.kruenitz1.uni-trier.de/xxx/v/kv13544.htm); Gloger, Encyklopedia staropolska, s.v. Folwark (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Folwark)"
   check_against: Krünitz, Oekonomische Encyklopädie; Gloger, Encyklopedia staropolska (folwark)
-  checked: false
+  checked: true
 
 - id: erbpacht
   kind: land
@@ -326,12 +361,12 @@ entries:
   match_en: '\bhereditary[- ]lease\w*'
   short_en: >-
     A lease that passed to the tenant's heirs and could be sold. The tenant
-    paid a sum on entry and then a fixed yearly rent, the canon, for ever; the
-    lord kept the ownership. It was the Prince's main way of turning land into
+    paid a sum on entry and then a yearly rent, the canon, for ever; the lord
+    kept the ownership. It was the Prince's main way of turning land into
     money.
   short_de: >-
     Eine Pacht, die auf die Erben überging und verkauft werden konnte. Der
-    Pächter zahlte beim Antritt eine Summe und danach für immer einen festen
+    Pächter zahlte beim Antritt eine Summe und danach für immer einen
     jährlichen Zins, den Canon; das Eigentum blieb beim Grundherrn. Für den
     Fürsten der wichtigste Weg, Land zu Geld zu machen.
   check_against: Allgemeines Landrecht 1794, Teil I Titel 18; Krünitz
@@ -346,13 +381,16 @@ entries:
   match_de: '\bCanons?\b|\bKanon\b'
   match_en: '\bcanon\b'
   short_en: >-
-    The fixed yearly rent paid under a hereditary lease. Nothing to do with the
-    church: it is a sum of money, set once in the contract and never raised.
+    The yearly rent a hereditary tenant paid to the lord, who kept the
+    ownership; in Latin canon emphyteuticus. Nothing to do with the church. In
+    the letters it is a sum of money, set in the contract.
   short_de: >-
-    Der feste jährliche Zins aus einer Erbpacht. Mit der Kirche hat er nichts
-    zu tun: eine Geldsumme, einmal im Vertrag festgesetzt und nie erhöht.
+    Der jährliche Zins, den ein Erbpächter dem Herrn zahlte, der das Eigentum
+    behielt; lateinisch canon emphyteuticus. Mit der Kirche hat er nichts zu
+    tun. In den Briefen ist er eine im Vertrag festgesetzte Geldsumme.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Canon (https://www.kruenitz1.uni-trier.de/xxx/c/kc00325.htm)"
   check_against: Allgemeines Landrecht 1794; Krünitz
-  checked: false
+  checked: true
 
 - id: erbzins
   kind: land
@@ -363,15 +401,17 @@ entries:
   match_de: '\bErbzins\w*|\bErbzinß\w*'
   match_en: '\bquit-rents?\b'
   short_en: >-
-    A fixed yearly rent owed for land held by inheritance, in place of labour
-    or other services. Unlike a lease rent, it bound the land itself, whoever
-    held it.
+    A yearly rent paid for land held by inheritance: the holder had the use of
+    it and passed it on, and the rent acknowledged that the soil remained the
+    lord's. Unlike a lease rent, it bound the land itself, whoever held it.
   short_de: >-
-    Ein fester jährlicher Zins für erblich besessenes Land, an Stelle von
-    Diensten oder anderen Leistungen. Anders als ein Pachtzins haftete er am
-    Grundstück selbst, gleich wer es besaß.
+    Ein jährlicher Zins für erblich besessenes Land: der Inhaber hatte die
+    Nutzung und vererbte sie, und der Zins erkannte an, dass der Grund dem
+    Herrn gehörte. Anders als ein Pachtzins haftete er am Grundstück selbst,
+    gleich wer es besaß.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Erb=Zins (https://www.kruenitz1.uni-trier.de/xxx/e/ke01206.htm)"
   check_against: Allgemeines Landrecht 1794; Krünitz
-  checked: false
+  checked: true
 
 - id: laudemium
   kind: land
@@ -383,13 +423,16 @@ entries:
   match_en: '\bLaudemium\b|\btransfer fees?\b'
   short_en: >-
     A fee paid to the lord whenever a hereditary holding changed hands, by sale
-    or inheritance, usually a fixed share of its value.
+    or inheritance, in acknowledgement of his superior ownership; on a sale it
+    was owed for his confirming the new holder.
   short_de: >-
     Eine Abgabe an den Grundherrn, sobald ein erblicher Besitz den Inhaber
-    wechselte, durch Verkauf oder Erbgang, meist ein fester Anteil an seinem
-    Wert.
+    wechselte, durch Verkauf oder Erbgang, zur Anerkennung seines
+    Obereigentums; bei einem Verkauf wurde sie dafür gezahlt, dass er den neuen
+    Besitzer bestätigte.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Lehen=Ware (https://www.kruenitz1.uni-trier.de/xxx/l/kl02991.htm)"
   check_against: Allgemeines Landrecht 1794; Krünitz
-  checked: false
+  checked: true
 
 - id: propination
   kind: land
@@ -400,16 +443,19 @@ entries:
   match_de: '\bPropination\w*'
   match_en: '\bpropination\b'
   short_en: >-
-    The lord's monopoly of brewing, distilling and selling drink on his estate,
-    a right of the Polish nobility (propinacja). It was usually let to an
-    innkeeper and was among an estate's most valuable incomes.
+    The lord's sole right to brew beer, distil spirits and make mead on his
+    estate, and to sell drink there, a right of the Polish nobility
+    (propinacja) that followed from owning the land. It was usually let, often
+    to an innkeeper, and buyers and tenants of the estates bargained for it.
   short_de: >-
-    Das Recht des Grundherrn, auf seinem Gut allein Bier zu brauen, Branntwein
-    zu brennen und Getränke zu verkaufen, ein Vorrecht des polnischen Adels
-    (propinacja). Meist an einen Krüger verpachtet und eine der
-    einträglichsten Einnahmen eines Guts.
+    Das alleinige Recht des Grundherrn, auf seinem Gut Bier zu brauen,
+    Branntwein zu brennen und Met zu bereiten und Getränke auszuschenken, ein
+    Vorrecht des polnischen Adels (propinacja), das aus dem Eigentum am Land
+    folgte. Meist war es verpachtet, oft an einen Krüger, und Käufer und
+    Pächter der Güter verhandelten darum.
+  source: "Gloger, Encyklopedia staropolska, s.v. Propinacja (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Propinacja)"
   check_against: Gloger, Encyklopedia staropolska (propinacja)
-  checked: false
+  checked: true
 
 - id: majorat
   kind: land
@@ -465,8 +511,9 @@ entries:
     seinen Rechten darüber: „die Herrschaft Betsche“ ist ein Gebiet. Was „an
     die Herrschaft“ gezahlt wird, geht an den Grundherrn oder die
     Gutsverwaltung.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Herrschaft (https://www.kruenitz1.uni-trier.de/xxx/h/kh02611.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: unterthanen
   kind: land
@@ -538,15 +585,17 @@ entries:
   match_en: '\bvillage mayors?\b'
   short_en: >-
     The head of a village, answerable to the lord for its dues and order, and
-    judge in small matters; Polish sołtys. A free Schulze held the office and
-    its land by inheritance, free of dues. His holding is the Scholtisey.
+    judge in small matters with assessors chosen from the villagers; Polish
+    sołtys, from the German Schultheiß. A free Schulze held the office and its
+    land by inheritance, free of dues. His holding is the Scholtisey.
   short_de: >-
     Das Oberhaupt eines Dorfes, dem Grundherrn für Abgaben und Ordnung
-    verantwortlich und Richter in kleinen Sachen; polnisch sołtys. Ein
-    Freischulze besaß Amt und Land erblich und abgabenfrei. Sein Hof ist die
-    Scholtisey.
+    verantwortlich und mit Schöffen aus dem Dorf Richter in kleinen Sachen;
+    polnisch sołtys, aus dem deutschen Schultheiß. Ein Freischulze besaß Amt
+    und Land erblich und abgabenfrei. Sein Hof ist die Scholtisey.
+  source: "Gloger, Encyklopedia staropolska, s.v. Sołtys, sołtystwo (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Sołtys,_sołtystwo)"
   check_against: Gloger, Encyklopedia staropolska (sołtys); Krünitz
-  checked: false
+  checked: true
 
 - id: donation
   kind: land
@@ -576,15 +625,19 @@ entries:
   # Anschlag is the same: the termbase renders it valuation
   match_de: '\bTaxe\b|\bTaxa\w*|\bTaxation\w*|\bAnschl(?:a|ä)g\w*'
   short_en: >-
-    The official valuation of an estate, worked out from its yield in grain,
-    timber, rents and dues. Sales, loans and grants all rested on it, and its
-    figures were argued over.
+    The valuation of an estate, worked out from its yield in grain, timber,
+    rents and dues. It was made by order of a court, or privately, for an owner
+    selling or letting of his own accord. Sales, loans and grants all rested on
+    it, and its figures were argued over.
   short_de: >-
-    Die amtliche Wertermittlung eines Guts aus seinen Erträgen an Getreide,
-    Holz, Zinsen und Abgaben. Verkäufe, Darlehen und Schenkungen beruhten auf
-    ihr, und um ihre Zahlen wurde gestritten.
+    Die Wertermittlung eines Guts aus seinen Erträgen an Getreide, Holz, Zinsen
+    und Abgaben. Sie wurde gerichtlich aufgenommen oder außergerichtlich, wenn
+    ein Eigentümer aus freien Stücken verkaufen oder verpachten wollte.
+    Verkäufe, Darlehen und Schenkungen beruhten auf ihr, und um ihre Zahlen
+    wurde gestritten.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Taxation (https://www.kruenitz1.uni-trier.de/xxx/t/kt02298.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: competenz
   kind: land
@@ -621,8 +674,9 @@ entries:
     Alles, was zu einem Gut gehört und mit ihm übergeht: Dörfer, Höfe, Mühlen,
     Wälder, Rechte und Abgaben. Eine Schenkung „mit allen Pertinenzien“
     umfasste all das.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Pertinenzien (https://woerterbuchnetz.de/?sigle=Adelung&lemid=P00512)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: einstand
   kind: land
@@ -719,8 +773,9 @@ entries:
     jemand dafür erhält, ein Recht aufzugeben, vor allem ein Pächter dafür,
     seine Pacht vor Ablauf abzutreten, damit das Land verkauft oder neu
     verpachtet werden konnte.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Abstand (https://woerterbuchnetz.de/?sigle=Adelung&lemid=A00893)"
   check_against: Adelung; Krünitz
-  checked: false
+  checked: true
 
 - id: inventarium
   kind: land
@@ -731,16 +786,18 @@ entries:
   match_de: '\bInventari\w*'
   match_en: '\binventor(?:y|ies)\b'
   short_en: >-
-    The livestock, implements and seed that belonged to a farm and were let or
-    sold with it: "Vieh und Feld Inventarium". A lease said whether the tenant
-    took it over, and at what value; a missing inventory was deducted.
+    The livestock, implements and seed that belonged to a farm, and the list of
+    them drawn up when it changed hands: "Vieh und Feld Inventarium". A lease
+    said whether the tenant took it over, and at what value; a missing
+    inventory was deducted.
   short_de: >-
-    Das Vieh, die Geräte und das Saatgut, die zu einem Hof gehörten und mit ihm
-    verpachtet oder verkauft wurden: „Vieh und Feld Inventarium“. Eine Pacht
-    regelte, ob und zu welchem Wert der Pächter es übernahm; fehlendes
-    Inventar wurde abgezogen.
+    Das Vieh, die Geräte und das Saatgut, die zu einem Hof gehörten, und ihr
+    Verzeichnis, aufgenommen, wenn der Hof den Inhaber wechselte: „Vieh und
+    Feld Inventarium“. Eine Pacht regelte, ob und zu welchem Wert der Pächter
+    es übernahm; fehlendes Inventar wurde abgezogen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Inventarium (https://www.kruenitz1.uni-trier.de/xxx/j/kj01092.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: einsassen
   kind: land
@@ -750,14 +807,14 @@ entries:
   orig: Einsaßen
   match_de: '\bEins(?:a|ä)(?:ss|ß)en\w*'
   short_en: >-
-    The settled inhabitants of a village or estate: those with a house and
-    land there, as against lodgers and servants. The English gives
-    "residents".
+    The inhabitants who belong to a village or estate, as against outsiders.
+    The English gives "residents".
   short_de: >-
-    Die ansässigen Bewohner eines Dorfes oder Guts: wer dort Haus und Land
-    hatte, im Unterschied zu Einliegern und Gesinde.
+    Die Bewohner, die zu einem Dorf oder Gut gehören, im Gegensatz zu den
+    Auswärtigen.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. eingesessen (https://woerterbuchnetz.de/?sigle=Adelung&lemid=E00510)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: rata
   kind: money
@@ -774,8 +831,9 @@ entries:
     In Raten, vom lateinischen rata, Anteil: „in halbjährigen Ratis“ heißt in
     halbjährlichen Raten. Kaufgelder und Einstandsgelder wurden oft so
     gezahlt.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Rata (https://www.kruenitz1.uni-trier.de/xxx/r/kr00835.htm)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 # ------------------------------------------------- law, money, administration
 
@@ -788,16 +846,19 @@ entries:
   match_de: '\bSequest\w*'
   match_en: '\bsequest\w*'
   short_en: >-
-    The seizure of an estate by order of a court: an administrator, the
-    sequestrator, runs it and pays its income to the creditors until the debts
-    are settled. The owner keeps the title but loses the use.
+    The seizure of an estate by order of a court, to enforce a debt: a sworn
+    administrator, the sequestrator, runs it and pays its income to the court
+    for the creditors until the debts are settled. The owner keeps the title
+    but loses the use; where many creditors sue, a sale may follow.
   short_de: >-
-    Die gerichtlich angeordnete Beschlagnahme eines Guts: ein Verwalter, der
-    Sequester, bewirtschaftet es und zahlt die Einkünfte an die Gläubiger, bis
-    die Schulden getilgt sind. Der Eigentümer behält den Titel, verliert aber
-    die Nutzung.
+    Die gerichtlich angeordnete Beschlagnahme eines Guts zur Beitreibung einer
+    Schuld: ein vereidigter Verwalter, der Sequester, bewirtschaftet es und
+    liefert die Einkünfte an das Gericht für die Gläubiger ab, bis die Schulden
+    getilgt sind. Der Eigentümer behält den Titel, verliert aber die Nutzung;
+    klagen viele Gläubiger, kann der Verkauf folgen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Sequestration (https://www.kruenitz1.uni-trier.de/xxx/s/ks20190.htm)"
   check_against: Allgemeines Landrecht 1794; Krünitz
-  checked: false
+  checked: true
 
 - id: execution
   kind: law
@@ -815,8 +876,9 @@ entries:
     Die Vollstreckung eines Urteils oder einer Schuld durch die Behörden:
     Pfändung, Einquartierung beim Schuldner oder Verkauf seines Besitzes. Eine
     Hinrichtung ist in diesen Briefen nie gemeint.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Execution (https://www.kruenitz1.uni-trier.de/xxx/e/ke01712.htm)"
   check_against: Allgemeines Landrecht 1794; Adelung
-  checked: false
+  checked: true
 
 - id: intressen
   kind: law
@@ -831,8 +893,9 @@ entries:
   short_de: >-
     Zinsen auf geliehenes Geld. „Die Intressen“ sind die jährlichen Zahlungen
     auf eine Schuld, nicht die Belange von jemandem.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Zins (https://woerterbuchnetz.de/?sigle=Adelung&lemid=Z00845)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: resignation
   kind: law
@@ -980,13 +1043,18 @@ entries:
   match_de: '\bHof+r(a|ä)th\w*'
   match_en: '\bCourt Councillors?\b'
   short_en: >-
-    A title of rank, given by a prince to officials, lawyers and agents in his
-    service. It says nothing about any court of law.
+    Properly a councillor at a prince's court, the Hof being his household and
+    government; by this time often a mere title of rank, given to officials,
+    lawyers and agents in his service with no post attached. The court is the
+    prince's, not a court of law.
   short_de: >-
-    Ein Rangtitel, von einem Fürsten an Beamte, Juristen und Beauftragte in
-    seinem Dienst verliehen. Mit einem Gericht hat er nichts zu tun.
+    Eigentlich ein Rat am Hof eines Fürsten, also bei seiner Hofhaltung und
+    Regierung; inzwischen oft ein bloßer Rangtitel, an Beamte, Juristen und
+    Beauftragte in seinem Dienst verliehen, ohne damit verbundenes Amt. Der Hof
+    ist der des Fürsten, kein Gericht.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Hof=Rath (https://www.kruenitz1.uni-trier.de/xxx/h/kh03543.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: patrimonialgericht
   kind: law
@@ -1086,14 +1154,16 @@ entries:
   match_en: '\bkomorniks?\b'
   short_en: >-
     A Polish court officer, who in the Duchy of Warsaw served writs and carried
-    out judgments, seizures and sales. In the older Polish courts the komornik
-    also surveyed boundaries.
+    out judgments, seizures and sales. In the older Polish courts the boundary
+    komornik, acting for the boundary judge, had to be a surveyor.
   short_de: >-
     Ein polnischer Gerichtsbeamter, der im Herzogtum Warschau Ladungen
     zustellte und Urteile, Pfändungen und Versteigerungen vollstreckte. An den
-    älteren polnischen Gerichten vermaß der Komornik auch Grenzen.
+    älteren polnischen Gerichten musste der Grenzkomornik, der für den
+    Grenzrichter handelte, Landmesser sein.
+  source: "Gloger, Encyklopedia staropolska, s.v. Komornik (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Komornik)"
   check_against: Gloger, Encyklopedia staropolska (komornik)
-  checked: false
+  checked: true
 
 - id: prefect
   kind: law
@@ -1123,17 +1193,21 @@ entries:
   match_de: '\bStarost\w*'
   match_en: '\bStarost\w*'
   short_en: >-
-    In the old Polish Commonwealth, a nobleman who held crown lands (a
-    starostwo) for life, often with judicial and police powers in the district.
-    The title stayed with him as a mark of rank. Prusimski, the estates'
-    former owner, was a starost.
+    In the old Polish Commonwealth, a nobleman to whom the king gave crown
+    lands (a starostwo) as a reward, in practice for life. A castle starost
+    also held the district's courts and kept the peace in it; others only ran
+    the lands. After the partitions the title stayed with those who held such
+    lands. Prusimski, the estates' former owner, was a starost.
   short_de: >-
-    In der alten polnischen Adelsrepublik ein Adliger, der Krongüter (ein
-    starostwo) auf Lebenszeit innehatte, oft mit Gerichts- und Polizeigewalt im
-    Bezirk. Der Titel blieb ihm als Rangzeichen. Prusimski, der frühere
-    Besitzer der Güter, war Starost.
+    In der alten polnischen Adelsrepublik ein Adliger, dem der König Krongüter
+    (ein starostwo) zur Belohnung überließ, praktisch auf Lebenszeit. Ein
+    Burgstarost hielt zudem die Gerichte des Bezirks und wahrte dort den
+    Frieden; die übrigen verwalteten nur die Güter. Nach den Teilungen blieb
+    der Titel denen, die solche Güter besaßen. Prusimski, der frühere Besitzer
+    der Güter, war Starost.
+  source: "Gloger, Encyklopedia staropolska, s.v. Starosta (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Starosta)"
   check_against: Gloger, Encyklopedia staropolska (starosta)
-  checked: false
+  checked: true
 
 - id: ausfertigung
   kind: law
@@ -1144,15 +1218,16 @@ entries:
   match_de: '\bAusfertigung\w*'
   match_en: '\bofficial cop(y|ies)\b'
   short_en: >-
-    The formally issued, signed and sealed copy of a deed or decision, the one
-    a party receives and can rely on in court. The original stays with the
-    office that made it.
+    A document as formally issued by an office or court: made out, signed and
+    sealed, and sent to the party, who can rely on it in court. The office
+    keeps its own record.
   short_de: >-
-    Die förmlich ausgestellte, unterschriebene und gesiegelte Abschrift einer
-    Urkunde oder Entscheidung, die eine Partei erhält und vor Gericht vorlegen
-    kann. Das Original bleibt bei der ausstellenden Behörde.
+    Ein Schriftstück, wie es eine Behörde oder ein Gericht förmlich ausstellt:
+    ausgefertigt, unterschrieben, gesiegelt und der Partei zugestellt, die sich
+    vor Gericht darauf berufen kann. Die Behörde behält ihre eigene Akte.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. ausfertigen (https://woerterbuchnetz.de/?sigle=Adelung&lemid=A04077)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: vidimirt
   kind: law
@@ -1162,15 +1237,18 @@ entries:
   orig: vidimirt, vidimata
   match_de: '\bvidim\w*|\bVidim\w*'
   short_en: >-
-    A copy that an authority has compared with the original and certified as
-    true, from the Latin vidimus, "we have seen". Many of the deeds survive
-    only in such copies.
+    A copy that a notary or an authorised official has compared with the
+    original and certified as true, from the Latin vidimus, "we have seen".
+    Such a copy could stay in the files in place of the original, and many of
+    the deeds survive only in such copies.
   short_de: >-
-    Eine Abschrift, die eine Behörde mit dem Original verglichen und als
-    richtig beglaubigt hat, vom lateinischen vidimus, „wir haben gesehen“.
-    Viele der Urkunden sind nur in solchen Abschriften erhalten.
+    Eine Abschrift, die ein Notar oder eine dazu befugte Amtsperson mit dem
+    Original verglichen und als richtig beglaubigt hat, vom lateinischen
+    vidimus, „wir haben gesehen“. Sie konnte statt des Originals bei den Akten
+    bleiben; viele der Urkunden sind nur in solchen Abschriften erhalten.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Vidimiren (https://www.kruenitz1.uni-trier.de/xxx/v/kv07838.htm); Grimm, Deutsches Wörterbuch, s.v. vidimieren (https://woerterbuchnetz.de/?sigle=DWB&lemid=V07186)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: revers
   kind: law
@@ -1187,8 +1265,9 @@ entries:
     Eine unterschriebene Erklärung als Gegenleistung für etwas Empfangenes:
     das Versprechen, zurückzuzahlen, zurückzugeben oder Bedingungen
     einzuhalten.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Revers (https://woerterbuchnetz.de/?sigle=Adelung&lemid=R01275)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: transact
   kind: law
@@ -1216,16 +1295,18 @@ entries:
   match_de: '\bIndult\w*'
   match_en: '\bindults?\b'
   short_en: >-
-    A period of grace granted by the sovereign, during which creditors could
-    not enforce their claims. By March 1809 the King of Saxony, as Duke of
-    Warsaw, had granted landowners a general indult of three years.
+    A period of grace for meeting an obligation; here one granted by the
+    sovereign, during which creditors could not enforce their claims. By March
+    1809 the King of Saxony, as Duke of Warsaw, had granted landowners a
+    general indult of three years.
   short_de: >-
-    Eine vom Landesherrn gewährte Frist, in der Gläubiger ihre Forderungen
-    nicht vollstrecken durften. Bis März 1809 hatte der König von Sachsen als
-    Herzog von Warschau den Grundbesitzern einen dreijährigen Generalindult
-    gewährt.
+    Eine Frist zur Erfüllung einer Pflicht; hier eine vom Landesherrn gewährte,
+    in der Gläubiger ihre Forderungen nicht vollstrecken durften. Bis März 1809
+    hatte der König von Sachsen als Herzog von Warschau den Grundbesitzern
+    einen dreijährigen Generalindult gewährt.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Indult (https://woerterbuchnetz.de/?sigle=Adelung&lemid=I00098); the letters (Oe 1 Bü 9454, 48)"
   check_against: Adelung; the letters (Oe 1 Bü 9454, 48)
-  checked: false
+  checked: true
 
 - id: wechsel
   kind: law
@@ -1257,14 +1338,16 @@ entries:
   match_en: '\bLandschaft\b|\bmortgage bonds?\b'
   short_en: >-
     A credit association of the landowners of a province. It lent to its
-    members against their estates, raising the money by issuing mortgage bonds
-    (Pfandbriefe) that the estates together secured. Not a landscape.
+    members on their estates, up to half their assessed value, raising the
+    money by issuing mortgage bonds (Pfandbriefe) that the association stood
+    behind. Not a landscape.
   short_de: >-
     Ein Kreditverband der Gutsbesitzer einer Provinz. Er lieh seinen
-    Mitgliedern Geld auf ihre Güter und beschaffte es durch Pfandbriefe, für
-    die die Güter gemeinsam hafteten.
+    Mitgliedern Geld auf ihre Güter, bis zur Hälfte des geschätzten Werts, und
+    beschaffte es durch Pfandbriefe, für die der Verband einstand.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Credit=System (https://www.kruenitz1.uni-trier.de/xxx/c/kc02210.htm); s.v. Pfandbrief (https://www.kruenitz1.uni-trier.de/xxx/p/kp03129.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: invalidenkasse
   kind: law
@@ -1309,13 +1392,16 @@ entries:
   orig: Conducteur
   match_de: '\bConducteur\w*'
   short_en: >-
-    A land surveyor in state service, who measured and mapped estates for
-    valuation, sale or settlement.
+    A trained technical official of the Prussian building administration, who
+    oversaw works for the Crown; sworn Conducteurs also measured and mapped
+    land. In the letters they survey estates for valuation, sale or settlement.
   short_de: >-
-    Ein Landmesser im Staatsdienst, der Güter für Taxe, Verkauf oder
-    Besiedlung vermaß und kartierte.
+    Ein ausgebildeter Baubeamter der preußischen Verwaltung, der Bauten für den
+    Staat beaufsichtigte; vereidigte Conducteure vermaßen und kartierten auch
+    Land. In den Briefen vermessen sie Güter für Taxe, Verkauf oder Besiedlung.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Conducteur (https://www.kruenitz1.uni-trier.de/xxx/c/kc01726.htm); s.v. Bau=Conducteur (https://www.kruenitz1.uni-trier.de/xxx/b/kb00487.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: estaffette
   kind: law
@@ -1325,14 +1411,16 @@ entries:
   orig: Estaffette
   match_de: '\bEstaf(f)?ette\w*'
   short_en: >-
-    A letter sent express, by riders changing horses at each post station. It
-    was costly, and used when an answer could not wait for the ordinary post.
+    A letter sent express by mounted postilions, dispatched out of turn, each
+    riding to the next post station, where another took it on. It was costly,
+    and used when an answer could not wait for the ordinary post.
   short_de: >-
-    Ein Eilbrief, von Reitern befördert, die an jeder Poststation die Pferde
-    wechselten. Teuer und nur genutzt, wenn eine Antwort nicht auf die
-    gewöhnliche Post warten konnte.
+    Ein Eilbrief, von reitenden Postillionen außer der Reihe befördert, jeder
+    bis zur nächsten Poststation, wo ein anderer ihn übernahm. Teuer und nur
+    genutzt, wenn eine Antwort nicht auf die gewöhnliche Post warten konnte.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Staffette (https://www.kruenitz1.uni-trier.de/xxx/s/ks29522.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: pro-memoria
   kind: law
@@ -1343,13 +1431,16 @@ entries:
   match_de: '\bPro Memoria\b|\bPromemoria\b'
   match_en: '\bPro Memoria\b'
   short_en: >-
-    A memorandum: a written statement of a case or request, set out formally
-    and handed in, rather than sent as a personal letter.
+    A memorandum: a written request, statement of a case or simple reminder,
+    headed "Pro Memoria" in place of titles and address, and handed in rather
+    than sent as a personal letter.
   short_de: >-
-    Eine Denkschrift: eine förmlich abgefasste schriftliche Darlegung einer
-    Sache oder Bitte, eingereicht statt als persönlicher Brief geschickt.
+    Eine Denkschrift: eine schriftliche Bitte, Darlegung einer Sache oder bloße
+    Erinnerung, die statt Titel und Anrede „Pro Memoria“ zur Überschrift hat
+    und eingereicht, nicht als persönlicher Brief geschickt wird.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Promemoria (https://www.kruenitz1.uni-trier.de/xxx/p/kp07809.htm)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: notarius
   kind: law
@@ -1360,13 +1451,16 @@ entries:
   match_de: '\bNotarius\b'
   match_en: '\bnotar(y|ies) public\b'
   short_en: >-
-    An official sworn to draw up and certify legal documents, so that courts
-    would accept them without further proof.
+    A lawyer appointed after examination, by the sovereign's authority, to draw
+    up and certify deeds, contracts, wills and powers of attorney in a set
+    form, so that courts would accept them as full proof.
   short_de: >-
-    Ein vereidigter Beamter, der Urkunden aufsetzte und beglaubigte, sodass
-    Gerichte sie ohne weiteren Beweis annahmen.
+    Ein nach Prüfung im Namen des Landesherrn bestellter Rechtskundiger, der
+    Urkunden, Verträge, Testamente und Vollmachten in vorgeschriebener Form
+    aufsetzte und beglaubigte, sodass Gerichte sie als vollen Beweis annahmen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Notar (https://www.kruenitz1.uni-trier.de/xxx/n/kn02782.htm)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: landrecht
   kind: law
@@ -1430,8 +1524,9 @@ entries:
     Eine schriftliche Verfügung eines Gerichts oder einer Behörde, oft ein
     kurzer Bescheid auf der Eingabe selbst. „Vigore Decreti“, kraft der
     Verfügung, nennt die Anordnung, auf der eine Eintragung beruht.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Decret (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00316)"
   check_against: Adelung; Allgemeine Gerichtsordnung 1793
-  checked: false
+  checked: true
 
 - id: departement
   kind: law
@@ -1623,15 +1718,18 @@ entries:
   match_de: '\bAuditeur\w*'
   match_en: '\bAuditeurs?\b|\bjudge advocates?\b'
   short_en: >-
-    A military judge: the lawyer attached to a regiment, garrison or fortress
-    government. A Gouvernements-Auditeur at Breslau certified several of the
-    copies of the grants.
+    The legal officer of a military court: the lawyer of a regiment, garrison
+    or fortress government, who conducted its proceedings and kept its record.
+    A Gouvernements-Auditeur at Breslau certified several of the copies of the
+    grants.
   short_de: >-
-    Ein Militärrichter: der Jurist eines Regiments, einer Garnison oder eines
-    Festungsgouvernements. Ein Gouvernements-Auditeur in Breslau beglaubigte
-    mehrere Abschriften der Schenkungen.
+    Der Jurist eines Militärgerichts bei einem Regiment, einer Garnison oder
+    einem Festungsgouvernement, der dessen Verfahren führte und die Akten
+    hielt. Ein Gouvernements-Auditeur in Breslau beglaubigte mehrere
+    Abschriften der Schenkungen.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Regimentsauditeur (https://www.kruenitz1.uni-trier.de/xxx/r/kr01984.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: protocoll
   kind: law
@@ -1743,15 +1841,16 @@ entries:
   match_de: '\bDurchlaucht\w*'
   match_en: '\bSerene Highness\b|\bMost Serene\b'
   short_en: >-
-    The style of a reigning prince. "Your Serene Highness" (Ewr Durchlaucht)
-    is how his agents and officials address the Prince, often several times a
-    page; its many forms are formulas, not flattery.
+    The style of a prince or an elector. "Your Serene Highness" (Ewr
+    Durchlaucht) is how his agents and officials address the Prince, often
+    several times a page; its many forms are formulas, not flattery.
   short_de: >-
-    Die Anrede eines regierenden Fürsten. „Ewr Durchlaucht“ reden seine
+    Die Anrede für Fürsten und Kurfürsten. „Ewr Durchlaucht“ reden seine
     Beauftragten und Beamten den Fürsten an, oft mehrmals auf einer Seite; die
     vielen Formen sind feste Formeln, keine Schmeichelei.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Durchlaucht (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D01374)"
   check_against: Adelung; Zedler, Universal-Lexicon
-  checked: false
+  checked: true
 
 - id: liebden
   per: document
@@ -1770,8 +1869,9 @@ entries:
     Die Anrede eines Landesherrn an einen Fürsten und der Fürsten
     untereinander, unter Gleichen oder fast Gleichen. Der König schreibt dem
     Fürsten „Ew. Liebden“.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Liebden (https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01366)"
   check_against: Adelung; Zedler, Universal-Lexicon
-  checked: false
+  checked: true
 
 - id: hochwohlgeboren
   per: document
@@ -1784,14 +1884,17 @@ entries:
   match_de: '\b(?:Hoch)?[Ww]ohlgeb\w*|\bHochw\.'
   match_en: '\bRight Honourable\b'
   short_en: >-
-    "High well-born": the style of nobles and senior officials. Below it came
-    Wohlgeboren, for officials and men of standing without noble rank. The
-    English renders them "Right Honourable" and "Your Honour".
+    "High well-born": the style of every noble, baron or untitled. Below it
+    came Wohlgeboren, which some chanceries gave the lesser nobility and which
+    went to commoners whose standing came close to noble. The English renders
+    them "Right Honourable" and "Your Honour".
   short_de: >-
-    Die Anrede für Adlige und höhere Beamte. Darunter stand Wohlgeboren, für
-    Beamte und angesehene Männer ohne Adel.
+    Die Anrede für jeden Adligen, Freiherrn wie einfachen Edelmann. Darunter
+    stand Wohlgeboren, das manche Kanzleien dem niederen Adel gaben und das
+    Bürgerliche erhielten, deren Rang dem Adel nahekam.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Hochwohlgeboren (https://woerterbuchnetz.de/?sigle=Adelung&lemid=H02818); s.v. Wohlgebohren (https://woerterbuchnetz.de/?sigle=Adelung&lemid=W02669)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: ew
   kind: title
@@ -1802,16 +1905,18 @@ entries:
   orig: Ew., Ewr, Sr., Ihro, Dero
   match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bE\.(?= (?:Hoch|Durch|Excell|Maj|Königl|Wohl))|\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
   short_en: >-
-    The possessives of courtly address, abbreviated. Ew. or Ewr is Euer,
-    "Your" (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
-    Majestät, His Majesty). Ihro and Dero are older forms of the same, for
-    persons of rank.
+    The possessives of courtly address, abbreviated. Ew. or Ewr is Euer, "Your"
+    (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
+    Majestät, His Majesty). Ihro and Dero are old chancery forms of "your",
+    "his" and "their", kept as marks of respect for persons of rank.
   short_de: >-
-    Die Possessiva der höfischen Anrede, abgekürzt. Ew. oder Ewr steht für
-    Euer (Ewr Durchlaucht), Sr. für Seiner (Sr. Majestät). Ihro und Dero sind
-    ältere Formen derselben, für hochgestellte Personen.
+    Die Possessiva der höfischen Anrede, abgekürzt. Ew. oder Ewr steht für Euer
+    (Ewr Durchlaucht), Sr. für Seiner (Sr. Majestät). Ihro und Dero sind alte
+    Kanzleiformen von „Ihr“ und „Ihre“, als Ehrenwörter für hochgestellte
+    Personen beibehalten.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Liebden (https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01366); s.v. Ihro (https://woerterbuchnetz.de/?sigle=Adelung&lemid=I00045); s.v. Dero (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00509)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: herr-abbrev
   kind: title
@@ -1842,16 +1947,20 @@ entries:
   match_de: '\b(?:treu(?:ester)?|unterth(?:ä|ae)nig(?:st)?(?:er)?|gehorsamst(?:er)?)\s+(?:Diener|Knecht)\b'
   match_en: '\bmost (?:faithful|humble|obedient)(?: and (?:humble|obedient|faithful))*(?: and obedient)? servant\b'
   short_en: >-
-    The signature line of a letter to a superior: "most humble servant",
-    "most obedient servant". The degree mattered. A Knecht, as Triebenfeld
-    signs to the Prince, is humbler than a Diener: a bondsman, not a servant.
+    The signature line of a letter to a superior: "most humble servant", "most
+    obedient servant". The degree mattered: unterthänigst is a step above
+    unterthänig. A Knecht, as Triebenfeld signs to the Prince, is humbler than
+    a Diener: by then the word was used only to persons far above the writer,
+    to mark the distance.
   short_de: >-
     Die Unterschriftszeile eines Briefs an einen Höherstehenden:
-    „unterthänigster Diener“, „gehorsamster Diener“. Die Abstufung zählte.
-    Knecht, wie Triebenfeld dem Fürsten unterschreibt, ist demütiger als
-    Diener.
+    „unterthänigster Diener“, „gehorsamster Diener“. Die Abstufung zählte:
+    unterthänigst steht eine Stufe über unterthänig. Knecht, wie Triebenfeld
+    dem Fürsten unterschreibt, ist demütiger als Diener: man gebrauchte es nur
+    noch gegenüber weit Höherstehenden, um den Abstand zu zeigen.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Knecht (https://woerterbuchnetz.de/?sigle=Adelung&lemid=K01543); s.v. Diener (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00613); s.v. unterthänig (https://woerterbuchnetz.de/?sigle=Adelung&lemid=U01283)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: ersterbe
   per: document
@@ -1870,8 +1979,9 @@ entries:
     Der Schluss eines Briefs an einen Höherstehenden: „in tiefster Ehrfurcht
     ersterbe ich Ewr Durchlaucht unterthänigster Diener“. Eine feste
     Ergebenheitsformel, keine Aussage über das Sterben.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. ersterben (https://woerterbuchnetz.de/?sigle=Adelung&lemid=E02089)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: term-days
   kind: phrase
@@ -1892,8 +2002,9 @@ entries:
     Heiligentage, die im Jahr als feste Geschäftstermine dienten: Johannis
     (24. Juni), Michaelis (29. September) und Martini (11. November). An
     ihnen wurden Pacht und Zinsen fällig, begannen und endeten Pachten.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Johannis=Tag (https://www.kruenitz1.uni-trier.de/xxx/j/kj01182.htm); s.v. Martins=Tag (https://www.kruenitz1.uni-trier.de/xxx/m/km02524.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 - id: pp
   kind: phrase
@@ -1930,8 +2041,9 @@ entries:
   short_de: >-
     Die Höflichkeitsform für alles, was ein Höherstehender tut, in Briefen an
     ihn. „Ew. Durchlaucht geruhen …“ bittet oder dankt.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. geruhen (https://woerterbuchnetz.de/?sigle=Adelung&lemid=G01535)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: locus-sigilli
   kind: phrase
@@ -1947,8 +2059,9 @@ entries:
   short_de: >-
     „Ort des Siegels“: in einer Abschrift an der Stelle vermerkt, wo das
     Original ein Siegel trägt, zum Zeichen, dass es gesiegelt war.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Locus (https://www.kruenitz1.uni-trier.de/xxx/l/kl07144.htm)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: actum
   kind: phrase
@@ -2002,8 +2115,9 @@ entries:
     Latein der Urkunden. „De dato“ heißt „vom Datum“: eine Urkunde de dato
     19. Juni 1797 ist die dieses Tages. „Vigore“ heißt „kraft“, wie in vigore
     Decreti, kraft der Verfügung.
+  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Datum (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00236)"
   check_against: Adelung
-  checked: false
+  checked: true
 
 - id: months-by-number
   kind: phrase
@@ -2051,13 +2165,14 @@ entries:
   orig: pct., pCt., pro Cent
   match_de: '\bp[Cc]t\b\.?|\bp\. ?C\.|(?:\d\.? ?)(?P<w>p[Cc])\b\.?'
   short_en: >-
-    Per cent, from pro centum: "4 pct." is four per cent, the usual interest
-    on a mortgage at the time.
+    Per cent, from pro centum: "4 pct." is four per cent. The legal and
+    customary rate of interest in Prussia was five per cent.
   short_de: >-
-    Prozent, von pro centum: „4 pct.“ sind vier Prozent, der damals übliche
-    Zins auf eine Hypothek.
+    Prozent, von pro centum: „4 pct.“ sind vier Prozent. Der gesetzliche und
+    landesübliche Zinsfuß in Preußen war fünf Prozent.
+  source: "Krünitz, Oekonomische Encyklopädie, s.v. Procento (https://www.kruenitz1.uni-trier.de/xxx/p/kp07727.htm); s.v. Zinsen (https://www.kruenitz1.uni-trier.de/xxx/z/kz00866.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
-  checked: false
+  checked: true
 
 # --------------------------------------------------------- events and states
 

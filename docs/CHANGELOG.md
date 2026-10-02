@@ -957,6 +957,52 @@ a translated holding brings a qualifying word that is neither an entry nor
 ruled out, and names it. Tested by removing one ruling: it failed and named
 the word; restored, it passed.
 
+## The glossary checked against the reference works (2026-10-02)
+
+With woerterbuchnetz.de, kruenitz.uni-trier.de and pl.wikisource.org now
+allowed, 54 of the draft entries were read against Krünitz, Adelung, Grimm
+and Gloger and set `checked: true`, each with a `source:` naming the entry and
+its URL. The glossary page now links the entry name (`source_html`, built by
+glossary_build.py); a path into `reference/` is still dropped, and the rest of
+the line now shows (the Mencel source's "for the rule of 1795").
+
+Where the work said otherwise, the English and German were corrected:
+- Money and measures: Courant is the coin of everyday trade, small change
+  apart; the Friedrichsdor stood by law at 5¼ Rthl Courant, in trade at five
+  in gold with a moving premium, and at six in the royal offices in 1809; the
+  Centner was 110 pounds at Berlin but 132 in Silesia (and grain, measured
+  by the Scheffel, is dropped from it); the Klafter is six feet by six, as deep as the logs are long; the
+  Morgen is a day's or a morning's ploughing; the Hufe is 30 Morgen, and in
+  Greater Poland the włóka itself was called Hufe; the Polish gulden is a
+  money of account; the legal rate of interest in Prussia was five per cent.
+- Land and law: the canon is not "never raised" (Krünitz has the hereditary
+  rent set in grain or by grain prices too), and the same correction goes into
+  Erbpacht, which stays unchecked; the Erbzins acknowledges the lord's
+  ownership of the soil and is not said to replace labour; the Laudemium is
+  paid for the lord's confirming the new holder, with no "fixed share"; a Taxe
+  can be made by a court or privately; Sequestration pays the income to the
+  court for the creditors.
+- Offices: a Hofrath is a councillor of the prince's court and often a bare
+  title; a Conducteur is a building official (in the letters, a sworn
+  surveyor); an Auditeur conducts a military court's proceedings; an
+  Estaffette goes by relays of mounted postilions; a starost's judicial
+  powers belonged only to the castle starosts, and the title stayed with
+  those who held starost lands after the partitions.
+- Address and formulas: Durchlaucht is the style of princes and electors,
+  not only reigning ones; Hochwohlgeboren is for every noble, not for senior
+  officials; Wohlgeboren went to commoners near noble rank; Knecht is used
+  only to persons far above the writer; Einsassen are set against outsiders,
+  not lodgers.
+
+Left unchecked, and why: the entries resting on the Allgemeines Landrecht, the
+Hypothekenordnung, the Gerichtsordnung, Acta Borussica, Grotefend or a
+standard history, none online here (Erbpacht, Einstand and Resignation
+among them, though Krünitz was read for each; it has no Dominium); and those the
+works online have no entry for: olędrzy, the Duchy of Warsaw's prefects,
+tribunals and peace courts (Gloger stops at 1795), Dismembration, pp., Actum,
+in fidem, ex officio, Rendant and the abbreviations of Herr. 55 of 108
+entries are now checked.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

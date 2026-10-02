@@ -115,18 +115,25 @@ Fixes to the English that survive a re-publish go in
 
 ## Glossary
 
-101 entries (`reference/glossary.yml`), on the site since 2026-10-02.
+108 entries (`reference/glossary.yml`), on the site since 2026-10-02.
 Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
-- **The definitions are drafts.** Every entry but the patrimonial court is
-  `checked: false` and names the work it is to be checked against: Adelung,
-  Krünitz, the Allgemeines Landrecht and Hypothekenordnung, Gloger's
-  *Encyklopedia staropolska* for Polish terms, Grotefend for dates. The cloud
-  environment cannot reach them (woerterbuchnetz.de, kruenitz.uni-trier.de,
-  pl.wikisource.org are refused by its network policy). To allow them: the
-  cloud environment menu in the session's title bar, then Edit, then Network
-  access: add those hosts to the allowed domains, or choose a broader access
-  level. Set `checked: true` (and a `source:`) as each entry is confirmed.
+- **53 definitions are still drafts.** 55 entries are checked: the
+  patrimonial court, and 54 read on 2026-10-02 against Krünitz, Adelung,
+  Grimm and Gloger once the environment could reach them (changelog, "The
+  glossary checked against the reference works"). The rest are
+  `checked: false` for one of two reasons:
+  - *The work is not online here:* the Allgemeines Landrecht, the
+    Hypothekenordnung and Gerichtsordnung, Acta Borussica, Grotefend, and the
+    standard histories for the events. Erbpacht, Einstand and Resignation
+    name Krünitz too, and it was read for each (Dominium has no entry there),
+    but what they say of the law rests on the Landrecht. These need the texts themselves (a
+    host that serves them, or a copy in `reference/sources/`).
+  - *The works online have no entry for the word:* olędrzy (Hauländer);
+    the Duchy of Warsaw's prefects, tribunals and peace courts (Gloger covers
+    old Poland, to 1795); Dismembration; pp.; Actum; in fidem; ex officio;
+    Rendant; the abbreviations of Herr. Decide whether another work should
+    be named for these, or the entries stand as written.
 - **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
   which fonds on Szukaj w Archiwach it describes, so the citation can name it;
   and whether "Sądy te narastały nierównomiernie" means the records grew
