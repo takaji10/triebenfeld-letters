@@ -1,7 +1,7 @@
 # Needs confirmation
 
 Questions still open, gathered from the holdings' notes, rulings and the
-reference registers (2026-10-02). When one is settled, record the decision
+reference registers, and from building the glossary (updated 2026-10-02). When one is settled, record the decision
 where it belongs (`units/<slug>/rulings.yml`, `reference/`, the unit's
 `notes.md`, the changelog) and take it off this list. Nothing here is a
 reason to change the text without the editor.
@@ -92,6 +92,54 @@ All 421 English translations are machine drafts (`status: draft` in
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
 The six documents without English have no text to translate: Nr. 3709, and
 in Oe 1 Bü 9454 the skipped number 9 and the missing 121, 181, 225, 293.
+
+Fixes to the English that survive a re-publish go in
+`reference/english_forms.yml` (rules) or `reference/english_corrections.yml`
+(one page at a time, with the German that decided it).
+
+- **False friends left standing in the English.** The glossary now explains
+  each where it appears, but the wording is the translator's: *execution* for
+  enforcing a debt (55 documents), *resignation* for conveying an estate,
+  *competence* for church dues, *protocol* for the court's record (24),
+  *Government* for the pre-1808 Regierung (kept on purpose: the institution's
+  name). Decide whether any should be reworded; a rewording needs each
+  sentence read, so it would go page by page into the corrections file.
+- **German left in the English**, each to be read: *Königl.* (9454: 39, 200;
+  3570), *Münze* in "4000 Rthl in Münze" (9454, 40: coin as against Courant),
+  and a few street names and personal names that may rightly stay.
+- **Summaries of Oe 1 Bü 14525 and 14526** (74 documents) were written from
+  the English and never had the claim-by-claim check the other holdings had.
+  Redoing them the way the others were done is a paid run, estimated at
+  $5-10, deferred by the editor (2026-10-02); it also yields transcription
+  fixes to review.
+
+## Glossary
+
+101 entries (`reference/glossary.yml`), on the site since 2026-10-02.
+Plan and rules: `docs/GLOSSARY_PLAN.md`.
+
+- **The definitions are drafts.** Every entry but the patrimonial court is
+  `checked: false` and names the work it is to be checked against: Adelung,
+  Krünitz, the Allgemeines Landrecht and Hypothekenordnung, Gloger's
+  *Encyklopedia staropolska* for Polish terms, Grotefend for dates. The cloud
+  environment cannot reach them (woerterbuchnetz.de, kruenitz.uni-trier.de,
+  pl.wikisource.org are refused by its network policy); allow those hosts in
+  the environment's settings, or check the entries elsewhere. Set `checked:
+  true` (and a `source:`) as each is confirmed.
+- **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
+  which fonds on Szukaj w Archiwach it describes, so the citation can name it;
+  and whether "Sądy te narastały nierównomiernie" means the records grew
+  unevenly, as translated.
+- **Candidates not yet ruled on.** `glossary_candidates.py` lists about 370,
+  most of them noise from the rarity and abbreviation probes. Worth a ruling:
+  the termbase terms not taken (Einsassen, Rittmeister, Dollmetscher,
+  Syndikus, Arendator, Bürgerschaft, Michaelis as the feast), the
+  Kreis-Justiz-Commission (the court above the patrimonial courts, in two
+  documents) and the Justiz-Commissarius (an attorney, in several). Rule each
+  into an entry or into `excluded:` with the reason.
+- **Not built:** the pipeline check that reports a published holding whose
+  candidates have not been ruled on (`GLOSSARY_PLAN.md` §5). Until it exists,
+  the step in `docs/NEW_UNIT.md` §8 is kept by remembering it.
 
 ## Before the site is shared widely
 
