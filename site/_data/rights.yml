@@ -1,0 +1,35 @@
+# Who answers for the site, and how the archives are credited. Read by the
+# Licences, credits and privacy page (/rights/, /de/rechte/). Hand-written.
+
+# The name on the licences and on the page. LICENSE carries it too: change
+# both together.
+holder: takaji10
+year: 2026
+updated_en: 2 October 2026
+updated_de: 2. Oktober 2026
+
+# The contact address, stored reversed and in two halves so that it never
+# appears whole in the page source. _includes/email.html puts it together in
+# the reader's browser.
+mail_user_rev: ijakat
+mail_domain_rev: moc.kcud
+
+# One entry per archive the edition draws on, keyed by the `repository` slug
+# in unit.yml. `credit` is the archive's own form of citation; a holding's
+# reference follows it.
+archives:
+  - slug: hzan-neuenstein
+    name_en: "Hohenlohe Central Archive, Neuenstein (Landesarchiv Baden-Württemberg)"
+    name_de: "Hohenlohe-Zentralarchiv Neuenstein (Landesarchiv Baden-Württemberg)"
+    url: "https://www.landesarchiv-bw.de/"
+    credit: "Landesarchiv Baden-Württemberg, Abt. Hohenlohe-Zentralarchiv Neuenstein"
+  - slug: gstapk-berlin
+    name_en: "Secret State Archives, Prussian Cultural Heritage Foundation, Berlin"
+    name_de: "Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin"
+    url: "https://gsta.preussischer-kulturbesitz.de/"
+    credit: "Geheimes Staatsarchiv Preußischer Kulturbesitz"
+  - slug: app-poznan
+    name_en: "State Archive in Poznań (Archiwum Państwowe w Poznaniu)"
+    name_de: "Staatsarchiv Posen (Archiwum Państwowe w Poznaniu)"
+    url: "https://poznan.ap.gov.pl/"
+    credit: "Archiwum Państwowe w Poznaniu"

@@ -1,0 +1,22 @@
+{%- comment -%}
+  The archives the edition draws on, each with the holdings it reproduces and
+  the form of credit to give. Built from site/_data/rights.yml and units.yml,
+  so a new holding appears here as soon as it is published.
+{%- endcomment -%}
+{%- include urls.html -%}
+<dl class="credits">
+{%- for a in site.data.rights.archives -%}
+  {%- assign held = site.data.units | where: "repository", a.slug -%}
+  {%- if held.size > 0 -%}
+  <dt><a href="{{ a.url }}" rel="noopener">{% if lang == "de" %}{{ a.name_de }}{% else %}{{ a.name_en }}{% endif %}</a></dt>
+  <dd>
+    <ul>
+    {%- for u in held -%}
+      <li><a href="{{ u_sources | append: u.slug | append: '/' | relative_url }}">{{ u.ref }}</a><br>
+        <span class="credit-line">{{ a.credit }}, {{ u.ref }}</span></li>
+    {%- endfor -%}
+    </ul>
+  </dd>
+  {%- endif -%}
+{%- endfor -%}
+</dl>

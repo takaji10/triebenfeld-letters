@@ -133,7 +133,19 @@ in `unit.yml` generates stubs at the old addresses.
 
 ## Licence
 
-Not yet determined. Until a `LICENSE` file is added, no reuse rights are granted.
+- **The edition's text** — transcriptions, reading texts, translations, summaries,
+  notes, indexes and the data in `corpus/`, `units/` and `reference/` — is under
+  [CC BY 4.0](LICENSE-TEXT).
+- **The code** — `pipeline/`, the scripts at the root, and the site's templates,
+  scripts and styles — is under the [MIT licence](LICENSE).
+- **The page images** in `site/assets/scans/` are reproductions of documents in the
+  archives credited on the site's [Licences, credits and privacy](https://takaji10.github.io/triebenfeld-letters/rights/)
+  page. Neither licence covers them; any rights in them stay with those archives.
+- **Place coordinates** in `reference/places_osm.yml` come from OpenStreetMap,
+  © OpenStreetMap contributors, under the Open Database Licence.
+
+The holder's name and the contact address are kept in `site/_data/rights.yml`;
+`LICENSE` carries the name too.
 
 Deployment: [docs/DEPLOY.md](docs/DEPLOY.md). Editorial method:
 [the About page](https://takaji10.github.io/triebenfeld-letters/reading-this-edition/).

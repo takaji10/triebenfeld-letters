@@ -1,0 +1,13 @@
+<script>
+(function () {
+  var el = document.querySelectorAll('.mail-rev');
+  for (var i = 0; i < el.length; i++) {
+    var rev = function (s) { return s.split('').reverse().join(''); };
+    var a = rev(el[i].getAttribute('data-u')) + String.fromCharCode(64) + rev(el[i].getAttribute('data-d'));
+    var link = document.createElement('a');
+    link.href = 'mai' + 'lto:' + a;
+    link.textContent = a;
+    el[i].parentNode.replaceChild(link, el[i]);
+  }
+})();
+</script>

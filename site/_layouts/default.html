@@ -80,6 +80,11 @@
        href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.foot_link }}</a>
     {{ t.foot_tail }}
   </p>
+  <p>
+    <a data-i18n="foot_rights" data-href-en="{{ '/rights/' | relative_url }}"
+       data-href-de="{{ '/de/rechte/' | relative_url }}"
+       href="{% if lang == 'de' %}{{ '/de/rechte/' | relative_url }}{% else %}{{ '/rights/' | relative_url }}{% endif %}">{{ t.foot_rights }}</a>
+  </p>
 </footer>
 
 <script src="{{ '/assets/i18n.js' | relative_url }}"></script>

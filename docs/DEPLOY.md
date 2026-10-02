@@ -94,9 +94,9 @@ that, `bundle install` on the Ubuntu runner fails outright.
   That suits a project whose argument is that its methods are inspectable, but it
   is a choice, and narrowing it later means rewriting history rather than adding
   a commit.
-- **Licence.** There is no `LICENSE` file. Without one, the default is exclusive
-  copyright: readers may view the site but have no right to reuse the text.
-  Editions of this kind usually carry different terms for the transcription and
-  translation than for the scans.
-- **Scan rights.** The 872 images are reproduced from an archive. Confirm you
-  hold the right to publish them before the repository goes public.
+- **Licence.** Settled (2026-10-02): the edition's text under CC BY 4.0
+  (`LICENSE-TEXT`), the code under MIT (`LICENSE`), the scans under neither.
+  The site's /rights/ page says so to readers.
+- **Scan rights.** The images are reproduced from three archives. Still to
+  confirm with each that they may be published; see
+  `docs/NEEDS_CONFIRMATION.md`.

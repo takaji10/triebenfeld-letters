@@ -1,0 +1,8 @@
+{%- comment -%}
+  The contact address, kept out of reach of address harvesters. The source
+  holds it only reversed: CSS shows the reversed text the right way round, so
+  a reader without JavaScript can still read it, and email_script.html, once
+  at the foot of the page, swaps it for an ordinary mail link. Parts in site/_data/rights.yml.
+{%- endcomment -%}
+{%- assign r = site.data.rights -%}
+<span class="mail-rev" data-u="{{ r.mail_user_rev }}" data-d="{{ r.mail_domain_rev }}">{{ r.mail_domain_rev }}<span>&#64;</span>{{ r.mail_user_rev }}</span>

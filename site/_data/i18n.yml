@@ -28,9 +28,10 @@ en:
     about: About the edition
   foot: >-
     A digital edition of %d documents from the Trąbczyn estate, transcribed from the
-    originals in the Hohenloher Zentralarchiv Neuenstein. See
+    originals in archives at Neuenstein, Berlin and Poznań. See
   foot_link: About the edition
   foot_tail: for editorial method and known limitations.
+  foot_rights: Licences, credits and privacy
 
   browse_title: Browse the documents
   browse_lede: >-
@@ -274,9 +275,10 @@ de:
     about: Über die Edition
   foot: >-
     Eine digitale Edition von %d Dokumenten zum Gut Trąbczyn, transkribiert nach den
-    Originalen im Hohenloher Zentralarchiv Neuenstein. Siehe
+    Originalen in Archiven in Neuenstein, Berlin und Posen. Siehe
   foot_link: Über die Edition
   foot_tail: für die Editionsgrundsätze und die bekannten Grenzen.
+  foot_rights: Lizenzen, Nachweise und Datenschutz
 
   browse_title: Dokumente durchsuchen
   browse_lede: >-

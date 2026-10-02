@@ -95,7 +95,9 @@ in Oe 1 Bü 9454 the skipped number 9 and the missing 121, 181, 225, 293.
 
 ## Before the site is shared widely
 
-- **Licence.** There is no `LICENSE` file, so no reuse is granted. Editions
-  like this usually set different terms for the transcription and translation
-  than for the scans.
-- **Scan rights.** Confirm the images may be published, for each archive.
+- **Scan rights.** Confirm with each archive (HZAN Neuenstein, GStA PK,
+  Poznań) that its images may be published, and in what form of credit. The
+  Licences, credits and privacy page (`site/rights.md`) credits each one and
+  claims no permission; once an archive grants it, say so there.
+- **The holder's name.** The licences and that page name `takaji10`. To use a
+  full name, change `site/_data/rights.yml` and `LICENSE` together.

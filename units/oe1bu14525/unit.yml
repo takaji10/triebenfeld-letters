@@ -35,6 +35,10 @@ published_tag: "" # untagged: cache/translation-raw
 # unit; rulings.yml carries only the exceptions.
 era: hohenlohe
 
+# Which archive holds it - reference/repositories.yml. `archive:` above is
+# the citation string; this is the slug that groups holdings.
+repository: hzan-neuenstein
+
 # Raw scans live outside the project, and are needed only to crop the pages
 # again: crop_scans.py reads from raw_dir and writes into raw_dir/processed/.
 # The finished pages are in pages/, and the intake records (manifest, fold,
