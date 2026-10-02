@@ -153,7 +153,7 @@ Everything in the manifest row, plus:
 | `line_start`, `line_end` | the document's range in the unit's `corpus.txt` |
 | `text_english` | the whole English translation, flowed. Empty where `untranslated` |
 | `translation` | the same English, one segment per manuscript page: `{page, en}` |
-| `summary_en`, `summary_de` | one-paragraph finding-aid summaries. In 14525 and 14526 written from the English; in every other holding the German is written from the German and the English translated from it. None for I. HA GR, Rep. 7 C, Nr. 3709, not yet transcribed |
+| `summary_en`, `summary_de` | one-paragraph finding-aid summaries. In 14525 and 14526 both are written from the English translation, each separately (the German is not a translation of the English summary), and neither had the second, claim-by-claim check. In every other holding the German is written from the German and checked claim by claim, and the English is translated from it. None where a document has no text: I. HA GR, Rep. 7 C, Nr. 3709 (not yet transcribed) and 9454's skipped and missing numbers |
 | `reading` | the whole-letter reading (units/<slug>/reading.json): `notes`, `legibility`, `claims` (each summary statement with its letter lines, and the check's objection where there was one), `doubtful_words` |
 
 The English is **generated and not canonical**. It is never checked against
