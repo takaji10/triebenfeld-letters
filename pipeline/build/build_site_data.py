@@ -616,6 +616,18 @@ def main():
             f.write(f'  pages: {pages}\n')
             f.write(f'  first: {yaml_str(min(dated) if dated else "")}\n')
             f.write(f'  last: {yaml_str(max(dated) if dated else "")}\n')
+            # The span the Sources page shows is the holding's own, from
+            # unit.yml: the documents' datelines fall short of it wherever a
+            # file is not yet divided (I. HA GR, Rep. 7 C, Nr. 3709 is one
+            # placeholder document of 1800 in a file kept to 1802) or its later
+            # pieces are not documents of the edition. The datelines are the
+            # fallback for a holding that gives none.
+            span = str(u.get('date_span') or '').strip()
+            if not span or span.upper() == 'TODO':
+                yrs = sorted({d[:4] for d in dated})
+                span = '-'.join(dict.fromkeys([yrs[0], yrs[-1]])) if yrs else ''
+            span = span.replace('-', '\u2013')
+            f.write(f'  span: {yaml_str(span)}\n')
 
     # A page for each holding: its description, its documents, how it was
     # prepared. The texts are hand-written and live with the holding.

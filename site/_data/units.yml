@@ -12,6 +12,7 @@
   pages: 21
   first: "1806-03-31"
   last: "1806-03-31"
+  span: "1806–1811"
 - slug: "ihagrrep7cnr3570"
   ref: "I. HA GR, Rep. 7 C, Nr. 3570"
   archive: "Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)"
@@ -25,6 +26,7 @@
   pages: 22
   first: "1796-08-09"
   last: "1796-08-09"
+  span: "1796"
 - slug: "ihagrrep7cnr3705"
   ref: "I. HA GR, Rep. 7 C, Nr. 3705"
   archive: "Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)"
@@ -38,6 +40,7 @@
   pages: 17
   first: "1805-09-18"
   last: "1805-09-18"
+  span: "1805"
 - slug: "ihagrrep7cnr3709"
   ref: "I. HA GR, Rep. 7 C, Nr. 3709"
   archive: "Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)"
@@ -51,6 +54,7 @@
   pages: 19
   first: "1800-06-18"
   last: "1800-06-18"
+  span: "1800–1802"
 - slug: "iiihamdaiiinr12765"
   ref: "III. HA MdA, III Nr. 12765"
   archive: "Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)"
@@ -64,6 +68,7 @@
   pages: 50
   first: "1814-05-14"
   last: "1820-05-19"
+  span: "1814–1820"
 - slug: "oe1bu14525"
   ref: "Oe 1 Bü 14525"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
@@ -77,6 +82,7 @@
   pages: 165
   first: "1794-07-22"
   last: "1804-10-04"
+  span: "1794–1804"
 - slug: "oe1bu14526"
   ref: "Oe 1 Bü 14526"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
@@ -90,6 +96,7 @@
   pages: 287
   first: "1798-10-01"
   last: "1806-07-18"
+  span: "1798–1806"
 - slug: "oe1bu9454"
   ref: "Oe 1 Bü 9454"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
@@ -103,6 +110,7 @@
   pages: 870
   first: "1798-04-01"
   last: "1816-01-31"
+  span: "1798–1816"
 - slug: "oe1u199"
   ref: "Oe 1 U 199"
   archive: "Hohenloher Zentralarchiv Neuenstein (HZAN)"
@@ -116,3 +124,4 @@
   pages: 15
   first: "1805-12-19"
   last: "1805-12-19"
+  span: "1805"

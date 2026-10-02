@@ -18,8 +18,8 @@
       <dl class="source-facts">
         <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
         <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
-        {% if u.first %}
-          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.first | slice: 0, 4 }}&ndash;{{ u.last | slice: 0, 4 }}</dd></div>
+        {% if u.span != "" %}
+          <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
         {% endif %}
       </dl>
 
