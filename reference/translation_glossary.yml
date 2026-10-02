@@ -301,6 +301,21 @@ terms:
     policy: translate
     render: 'Chamber'
     gloss: 'the Prussian Kriegs- und Domänenkammer, the provincial administrative board'
+  - term: Regierung                         # 94 in corpus
+    # Before 1808 a Prussian province's Regierung was its high court, keeper
+    # of the mortgage book; the Chamber administered. Kept as Government, the
+    # institution's own name (the 82 published pages already say so), and
+    # explained in the reader's glossary (reference/glossary.yml, regierung).
+    # Not "Unserer Regierung im Eilften Jahre", the King's reign. (Editor,
+    # 2026-10-02.)
+    pattern: '\bRegierung\b(?! im \w+ Jahr)'
+    policy: translate
+    render: 'Government'
+    gloss: >-
+      the provincial Regierung: before 1808 the province's high court (the
+      deeds place estates under its jurisdiction), after 1808 the provincial
+      administrative board. Capitalised, as an institution's name; never
+      "administration" or "court". Not the King's reign
   - term: Wechsel                           # 39 in corpus
     # not wechselseitig, wechselweise or Abwechselung: \w* swallowed the
     # adverbs and reported a bill of exchange missing from a page about
