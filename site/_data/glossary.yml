@@ -50,6 +50,23 @@
   sort_de: "groschen"
   initial_de: "G"
   docs: 60
+- id: "friedrich-dor"
+  kind: "money"
+  lang: "de_fr"
+  head_en: "Friedrich d'or"
+  head_de: "Friedrichsdor"
+  orig: "Fr. d'or, fr d'or, f. d'or"
+  short_en: "The Prussian gold coin, written Fr. d'or, worth five Reichsthaler in gold and rather more in silver Courant, at a rate that moved. Sums \"in Gold\" were reckoned in it; it was the coin of savings, large payments and travel."
+  short_de: "Die preußische Goldmünze, abgekürzt Fr. d'or, fünf Reichsthaler in Gold wert und etwas mehr in Silbercourant, zu wechselndem Kurs. Summen „in Gold“ wurden in ihr gerechnet; sie war die Münze der Ersparnisse, großer Zahlungen und der Reise."
+  long_en: ""
+  long_de: ""
+  check_against: "Krünitz, Oekonomische Encyklopädie"
+  checked: false
+  sort_en: "friedrich d'or"
+  initial_en: "F"
+  sort_de: "friedrichsdor"
+  initial_de: "F"
+  docs: 15
 - id: "pfennig"
   kind: "money"
   lang: "de"
