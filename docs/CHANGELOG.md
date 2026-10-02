@@ -1017,6 +1017,23 @@ was: Prussia's share of partitioned Poland. First mentions take "a", per the
 house style. The same line opens the translator's and summariser's prompts,
 which will carry the fuller context at the next paid run.
 
+## Antoni Prusimski as a person in his own right (2026-10-02)
+
+At the editor's request, the "Prusimski family" entry in
+`reference/people.yml` is now Antoni Prusimski, Starost of Niszczewice
+(Ostroróg-Prusimski), the original owner of the Trąbczyn and Kamionna estates,
+whose estates were confiscated after the uprising of 1794 and granted to the
+Prince of Hohenlohe-Ingelfingen in 1796. The slug stays `prusimski`, so links
+and the counted mentions carry over. The adjectival Prusimskische(n) (his
+estates, heirs and family) stays counted to him; Michalina Prusimska keeps her
+own entry, and the two are now marked `distinct_from` each other, which also
+puts them on the translator's never-merge list. "Johann von Prusimski", whose
+inscription of 1673 charges an annuity on Kolno (14525), is an earlier man and
+is no longer matched. The People page biography (`reference/people_bios.yml`)
+and `reference/whos_who.md` are rewritten to match. The queryable dataset in
+`corpus/` was regenerated with it, which also brought in the English money
+forms already on the site.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

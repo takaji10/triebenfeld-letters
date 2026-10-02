@@ -455,10 +455,29 @@ people:
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants: ["Madame Mięczynsky"]
+    distinct_from: [prusimski]
+    merge: false
   prusimski:
-    display: "Prusimski family (Trąbczyn estates)"
-    match: "Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])"
-    tier: "Text-confirmed"
+    display: "Antoni Prusimski, Starost of Niszczewice"
+    render: "Antoni Prusimski"
+    # "Johann von Prusimski", whose inscription of 1673 charges an annuity on
+    # Kolno (14525), is a different and earlier man, and is not matched.
+    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])"
+    tier: "Text-confirmed (Anton von Prusimski, Starost); full name user-provided"
+    identity: >-
+      Antoni Ostroróg-Prusimski, Starost of Niszczewice, the owner of the
+      Trąbczyn and Kamionna estates. He took part in the Polish uprising of
+      1794 and fled; the Prussian crown confiscated his estates and in 1796
+      granted them to the Prince of Hohenlohe-Ingelfingen (3570, 14525). The
+      German documents call him Anton von Prusimski, the ehemalige or
+      entwichene Starost; the French letter of 1815 writes Prussiemski and
+      Prussimski (12765, document 6). The adjectival Prusimskische(n) is
+      matched to him: it names his estates, his heirs and his family. Named
+      as a person in his own right at the editor's request (2026-10-02), as
+      he becomes more prominent in the project; until then this was a family
+      entry.
+    distinct_from: [prusimska]
+    merge: false
     variants: []
   przespolewski:
     display: "Przespolewski"
