@@ -14,21 +14,93 @@
 #
 # "Seidel 2018" = Ulrich Seidel, "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen".
 # Facts are cited; the book's text is not reproduced here.
+#
+#   refs  : optional, the documents the event rests on, as "<holding>/<number>";
+#           shown as links under the event.
+
+- date: 1794
+  title: "The Kościuszko uprising; the Prusimski estates are confiscated"
+  note: >-
+    Anton von Prusimski, Starost and owner of Trąbczyn, Kaemen and Kolno, joins the uprising
+    against the partitioning powers. Prussia afterwards confiscates his property. These are the estates the
+    Prince will be given two years later.
+  kind: political
+  source: "mortgage certificate for Kolno (deeds of grant, 12)"
+  title_de: "Der Kościuszko-Aufstand; die Güter Prusimskis werden konfisziert"
+  note_de: >-
+    Anton von Prusimski, Starost und Besitzer von Trąbczyn, Kaemen und Kolno, schließt sich dem
+    Aufstand gegen die Teilungsmächte an. Preußen konfisziert danach sein Vermögen. Es sind die Güter,
+    die der Fürst zwei Jahre später erhält.
+  source_de: "Hypothekenschein für Kolno (Verleihungsurkunden, 12)"
+  refs: ["oe1bu14525/12"]
 
 - date: 1795
   title: Third Partition of Poland; Peace of Basel
   note: >-
-    Prussia annexes the territory it calls Südpreußen. Friedrich Ludwig is granted
-    estates there - Zagorów, Trąbczyn, Kaemen and others - which become the subject
-    of most of this correspondence.
+    Prussia annexes the territory it calls Südpreußen. In the two years that follow
+    Friedrich Ludwig is granted estates there - Zagorów, Trąbczyn, Kaemen and others -
+    which become the subject of most of this correspondence.
   kind: political
   source: Seidel 2018, Zeittafel and ch. 13.1
   title_de: Dritte Teilung Polens; Friede von Basel
   note_de: >-
-    Preußen annektiert das Gebiet, das es Südpreußen nennt. Friedrich Ludwig erhält dort Güter -
-    Zagorów, Trąbczyn, Kaemen und andere -, die den Gegenstand des größten Teils dieser
-    Korrespondenz bilden.
+    Preußen annektiert das Gebiet, das es Südpreußen nennt. In den beiden folgenden Jahren
+    erhält Friedrich Ludwig dort Güter - Zagorów, Trąbczyn, Kaemen und andere -, die den
+    Gegenstand des größten Teils dieser Korrespondenz bilden.
   source_de: Seidel 2018, Zeittafel und Kap. 13.1
+
+- date: 1796-08-09
+  title: "The King grants the Prusimski estates"
+  note: >-
+    On Minister Hoym's proposal of 14 July and a cabinet order of 23 July, Friedrich Wilhelm II
+    grants the Prince Kaemen and Kolno, Trąbczyn with its villages, and Brzyce. Six officers
+    receive other confiscated estates by charters of the same day. Hoym puts the yearly income
+    at 4,000 Thaler.
+  kind: estate
+  source: "the ministry's file on the charters; the charter in three copies; Hoym's letter"
+  title_de: "Der König verleiht die Güter Prusimskis"
+  note_de: >-
+    Auf Vorschlag des Ministers Hoym vom 14. Juli und eine Kabinettsorder vom 23. Juli verleiht
+    Friedrich Wilhelm II. dem Fürsten Kaemen und Kolno, Trąbczyn mit seinen Dörfern und Brzyce.
+    Sechs Offiziere erhalten durch Urkunden vom selben Tag andere konfiszierte Güter. Hoym
+    veranschlagt den Jahresertrag auf 4.000 Thaler.
+  source_de: "die Akte des Ministeriums über die Urkunden; die Urkunde in drei Abschriften; Hoyms Schreiben"
+  refs: ["ihagrrep7cnr3570/1", "oe1bu14525/1", "oe1bu14525/39"]
+
+- date: 1797-06-19
+  title: "A second grant: Zagorów, Betsche and the church villages"
+  note: >-
+    The Prusimski estates prove heavily indebted, so the King grants sixteen villages formerly
+    owned by the church, among them Betsche, Zagorów, Kopojno and Drzewce. A declaration of 1
+    December 1797 adds their outlying parts. Zagorów is the lordship the Prince still holds
+    after Trąbczyn is lost.
+  kind: estate
+  source: "the charters of 19 June and 1 December 1797 (deeds of grant, 5 and 6)"
+  title_de: "Eine zweite Verleihung: Zagorów, Betsche und die geistlichen Dörfer"
+  note_de: >-
+    Die Güter Prusimskis erweisen sich als hoch verschuldet; der König verleiht deshalb sechzehn
+    vormals geistliche Dörfer, darunter Betsche, Zagorów, Kopojno und Drzewce. Eine Deklaration
+    vom 1. Dezember 1797 fügt deren Zubehörungen hinzu. Zagorów ist die Herrschaft, die dem
+    Fürsten nach dem Verlust von Trąbczyn bleibt.
+  source_de: "die Urkunden vom 19. Juni und 1. Dezember 1797 (Verleihungsurkunden, 5 und 6)"
+  refs: ["oe1bu14525/5", "oe1bu14525/6"]
+
+- date: 1797-10-20
+  title: "The King orders the estates handed over in earnest"
+  note: >-
+    A royal order to the chambers at Posen and Petrikau finds that the handover was a formality:
+    holders of pledge and lease contracts were left in possession. Their claims are to be
+    examined and the Prince's agents put in possession.
+  kind: estate
+  source: "royal order (deeds of grant, 40)"
+  title_de: "Der König befiehlt die tatsächliche Übergabe der Güter"
+  note_de: >-
+    Ein königlicher Befehl an die Kammern in Posen und Petrikau stellt fest, die Übergabe sei
+    eine bloße Förmlichkeit gewesen: Inhaber von Pfand- und Pachtverträgen blieben im Besitz.
+    Ihre Ansprüche sollen geprüft und die Bevollmächtigten des Fürsten in den Besitz gesetzt
+    werden.
+  source_de: "königlicher Befehl (Verleihungsurkunden, 40)"
+  refs: ["oe1bu14525/40"]
 
 - date: 1797-11
   title: Friedrich Wilhelm III accedes to the Prussian throne
@@ -55,6 +127,7 @@
     Triebenfeld ist in Berlin und arbeitet daran, die südpreußischen Güter des Fürsten gegen die
     preußischen Krondomänen Krotoszyn und Polajewo einzutauschen, um dessen Schulden zu tilgen.
   source_de: Brief 75
+  refs: ["oe1bu9454/75"]
 
 - date: 1799
   end: 1804
@@ -70,18 +143,152 @@
     bis 1804 hin.
   source_de: Seidel 2018, Kap. 7.1
 
+- date: 1800-06-18
+  end: 1802
+  title: "Prusimski's daughter complains against the Prince"
+  note: >-
+    Michalina Prusimska, daughter of the former owner, brings complaints against the Prince
+    before the King. The ministry's file on them runs to January 1802. It has not yet been
+    transcribed, so what she asked for is not set out here.
+  kind: estate
+  source: "the ministry's file, by its cover"
+  title_de: "Die Tochter Prusimskis beschwert sich über den Fürsten"
+  note_de: >-
+    Michalina Prusimska, die Tochter des früheren Besitzers, bringt beim König Beschwerden gegen
+    den Fürsten vor. Die Akte des Ministeriums darüber reicht bis Januar 1802. Sie ist noch
+    nicht transkribiert; was sie verlangte, steht daher hier nicht.
+  source_de: "die Akte des Ministeriums, nach ihrem Umschlag"
+  refs: ["ihagrrep7cnr3709/1"]
+
+- date: 1800-11
+  end: 1803
+  title: "The courts press the Prince to prove his title"
+  note: >-
+    The governments at Kalisch and Posen set deadlines for entering the Prince's title in the
+    mortgage books and threaten proceedings. For Trąbczyn they demand the judgment that
+    confiscated Prusimski's property; the Prince is sent to Thorn for it.
+  kind: estate
+  source: "orders and replies (deeds of grant, 30, 31, 43)"
+  title_de: "Die Gerichte drängen den Fürsten, seinen Besitztitel nachzuweisen"
+  note_de: >-
+    Die Regierungen in Kalisch und Posen setzen Fristen für die Eintragung des Besitztitels in
+    die Hypothekenbücher und drohen mit Verfahren. Für Trąbczyn verlangen sie das Urteil, mit
+    dem das Vermögen Prusimskis konfisziert wurde; der Fürst wird dafür nach Thorn verwiesen.
+  source_de: "Verfügungen und Bescheide (Verleihungsurkunden, 30, 31, 43)"
+  refs: ["oe1bu14525/30", "oe1bu14525/31", "oe1bu14525/43"]
+
 - date: 1804
   title: Kaemen and Kolno sold
   note: >-
-    The first major disposal of estate land to service debt. A 150,000 Rthl loan from
-    the Invaliden-Casse follows in January 1805.
+    The first major disposal of estate land to service debt. The contract with the bank
+    official Leixner, at 142,000 Rthl, is dated January 1805. A 150,000 Rthl loan from
+    the Invaliden-Casse follows in the same month.
   kind: estate
-  source: letters 135, 136, 158
+  source: letters 135, 136, 158; contract 4 of the deeds
   title_de: Kaemen und Kolno werden verkauft
   note_de: >-
-    Die erste größere Veräußerung von Gutsland zur Schuldentilgung. Im Januar 1805 folgt ein
+    Die erste größere Veräußerung von Gutsland zur Schuldentilgung. Der Vertrag mit dem
+    Bankbeamten Leixner über 142.000 Rthl ist vom Januar 1805. Im selben Monat folgt ein
     Darlehen von 150.000 Rthl aus der Invaliden-Casse.
-  source_de: Briefe 135, 136, 158
+  source_de: Briefe 135, 136, 158; Vertrag 4 der Urkunden
+  refs: ["oe1bu9454/135", "oe1bu9454/136", "oe1bu9454/158", "oe1bu14526/4"]
+
+- date: 1804-07-28
+  title: "Betsche is made over to its inhabitants"
+  note: >-
+    The whole lordship of Betsche goes in hereditary lease and sale to the townspeople and six
+    villages for 180,000 Rthl and a yearly ground rent of 1,000 Rthl; 137,000 Rthl of the price
+    is met by taking over mortgage debts. The chamber refuses its consent in 1805, and a royal
+    approval follows in 1806.
+  kind: estate
+  source: "the contract in two copies, and the refusal (deeds, 18, 19, 24)"
+  title_de: "Betsche wird seinen Bewohnern überlassen"
+  note_de: >-
+    Die ganze Herrschaft Betsche geht in Erbpacht und Kauf an die Bürger und sechs Dörfer, für
+    180.000 Rthl und einen jährlichen Grundzins von 1.000 Rthl; 137.000 Rthl des Preises werden
+    durch Übernahme von Hypothekenschulden gedeckt. Die Kammer verweigert 1805 ihre Zustimmung,
+    1806 folgt eine königliche Genehmigung.
+  source_de: "der Vertrag in zwei Abschriften und die Ablehnung (Urkunden, 18, 19, 24)"
+  refs: ["oe1bu14526/18", "oe1bu14526/19", "oe1bu14526/24"]
+
+- date: 1805-02-19
+  title: "Triebenfeld receives the general power of attorney"
+  note: >-
+    The Prince makes Triebenfeld his general plenipotentiary for Zagorów, Wittow and Trąbczyn.
+    Every contract Triebenfeld signs from now on rests on it, and a certified copy is filed with
+    each.
+  kind: estate
+  source: "certified copies filed with the leases"
+  title_de: "Triebenfeld erhält die Generalvollmacht"
+  note_de: >-
+    Der Fürst macht Triebenfeld zu seinem Generalbevollmächtigten für Zagorów, Wittow und
+    Trąbczyn. Jeder Vertrag, den Triebenfeld von nun an unterzeichnet, beruht darauf, und jedem
+    liegt eine beglaubigte Abschrift bei.
+  source_de: "beglaubigte Abschriften bei den Erbpachtverträgen"
+  refs: ["oe1bu14526/6", "app5371057/1"]
+
+- date: 1805-04-06
+  title: "270 Hufen let to settlers"
+  note: >-
+    Triebenfeld signs heads of agreement making over 270 Hufen at Trąbczyn, Łazy, Osiny,
+    Neudorff and Przybysław to named settlers, at 300 Rthl a Hufe and fifteen a year in rent.
+    Through the following spring the estate's court at Marianton records lease after lease on
+    the same terms.
+  kind: estate
+  source: "contract 15 of the deeds; a court file of one such lease, 31 March 1806"
+  title_de: "270 Hufen an Siedler ausgetan"
+  note_de: >-
+    Triebenfeld unterzeichnet eine Punktation, die 270 Hufen in Trąbczyn, Łazy, Osiny, Neudorff
+    und Przybysław an namentlich genannte Siedler austut, zu 300 Rthl die Hufe und fünfzehn
+    jährlich an Zins. Bis ins folgende Frühjahr nimmt das Gericht des Gutes in Marianton Vertrag
+    um Vertrag zu denselben Bedingungen auf.
+  source_de: "Vertrag 15 der Urkunden; eine Gerichtsakte über eine solche Erbpacht vom 31. März 1806"
+  refs: ["oe1bu14526/15", "app5371057/1"]
+
+- date: 1805-09-18
+  title: "Petition to take Olesnica into court administration"
+  note: >-
+    Olesnica had been let in February 1804 to three townsmen for 20,000 Rthl entry money. They
+    paid half, then neither rent nor taxes, and sold off parts of the estate. The government at
+    Kalisch refuses to sequester it, and Triebenfeld petitions the King in the Prince's name.
+  kind: estate
+  source: "the petition, in the ministry's file"
+  title_de: "Bittschrift, Olesnica unter gerichtliche Verwaltung zu stellen"
+  note_de: >-
+    Olesnica war im Februar 1804 an drei Bürger gegen 20.000 Rthl Einstandsgeld verpachtet
+    worden. Sie zahlten die Hälfte, danach weder Pacht noch Abgaben, und verkauften Teile des
+    Gutes. Die Regierung in Kalisch lehnt die Sequestration ab, und Triebenfeld wendet sich im
+    Namen des Fürsten an den König.
+  source_de: "die Bittschrift in der Akte des Ministeriums"
+  refs: ["ihagrrep7cnr3705/1"]
+
+- date: 1805-12-19
+  title: "The King confirms the Prince's family entail"
+  note: >-
+    In his will of 7 October 1805 the Prince binds his houses in Breslau, his Silesian estates
+    and ironworks and the Südpreußen lordships, Trąbczyn and Zagorów among them, to a fixed
+    succession. If the male line ends, the Südpreußen estates go to his daughter Auguste.
+  kind: personal
+  source: "the royal charter"
+  title_de: "Der König bestätigt das Familienmajorat des Fürsten"
+  note_de: >-
+    In seinem Testament vom 7. Oktober 1805 bindet der Fürst seine Häuser in Breslau, seine
+    schlesischen Güter und Hüttenwerke und die südpreußischen Herrschaften, darunter Trąbczyn
+    und Zagorów, an eine feste Erbfolge. Erlischt der Mannesstamm, fallen die südpreußischen
+    Güter an seine Tochter Auguste.
+  source_de: "die königliche Urkunde"
+  refs: ["oe1u199/1"]
+
+- date: 1806
+  end: 1808
+  title: House arrest at Öhringen
+  note: A French prisoner in his own residence.
+  kind: personal
+  source: Seidel 2018, Zeittafel
+  title_de: Hausarrest in Öhringen
+  note_de: >-
+    Ein französischer Gefangener in der eigenen Residenz.
+  source_de: Seidel 2018, Zeittafel
 
 - date: 1806-10-14
   title: Jena and Auerstädt
@@ -108,17 +315,7 @@
     Friedrich Ludwig ergibt sich und legt alle militärischen Ämter nieder. Triebenfelds Brief
     vom selben Tag berichtet von den bereits ausgestreuten "boshaften Gerüchten".
   source_de: Seidel 2018, Zeittafel; Brief 26
-
-- date: 1806
-  end: 1808
-  title: House arrest at Öhringen
-  note: A French prisoner in his own residence.
-  kind: personal
-  source: Seidel 2018, Zeittafel
-  title_de: Hausarrest in Öhringen
-  note_de: >-
-    Ein französischer Gefangener in der eigenen Residenz.
-  source_de: Seidel 2018, Zeittafel
+  refs: ["oe1bu9454/26"]
 
 - date: 1807-07
   title: Peace of Tilsit; the Duchy of Warsaw
@@ -134,6 +331,24 @@
     beginnen.
   source_de: Seidel 2018, Kap. 13.1
 
+- date: 1807-10-05
+  title: "Trąbczyn is handed to Prusimski's daughter"
+  note: >-
+    On the order of the governing commission of the new Duchy, an appellate judge takes the
+    Trąbczyn estates from the Prince's officials and gives them to the agent of Frau von Dąbska,
+    born Prusimska. No court has ruled. Kaemen goes the same way. The Prince never recovers
+    them.
+  kind: estate
+  source: "letters 28 and 27; the later petitions in the foreign ministry's file"
+  title_de: "Trąbczyn wird der Tochter Prusimskis übergeben"
+  note_de: >-
+    Auf Anordnung der regierenden Kommission des neuen Herzogtums nimmt ein Appellationsrichter
+    die Trąbczyner Güter den Beamten des Fürsten ab und übergibt sie dem Bevollmächtigten der
+    Frau von Dąbska, geborenen Prusimska. Ein Gericht hat nicht entschieden. Kaemen geht
+    denselben Weg. Der Fürst erhält sie nie zurück.
+  source_de: "Briefe 28 und 27; die späteren Eingaben in der Akte des Außenministeriums"
+  refs: ["oe1bu9454/28", "oe1bu9454/27", "iiihamdaiiinr12765/4"]
+
 - date: 1809-01-16
   title: Triebenfeld arrested in Berlin
   note: >-
@@ -146,6 +361,7 @@
     Von der französischen Gendarmerie festgesetzt, weil er als Bevollmächtigter des Fürsten
     gegen die Invaliden-Casse auftrat, und in strengem Arrest gehalten.
   source_de: Brief 42
+  refs: ["oe1bu9454/42"]
 
 - date: 1809-03-07
   title: The Kontopp instructions
@@ -162,6 +378,7 @@
     verteidigen. Dieses Schriftstück ist in zwei voneinander unabhängigen Abschriften
     überliefert (Briefe 48 und 302).
   source_de: Briefe 48 und 302
+  refs: ["oe1bu9454/48", "oe1bu9454/302"]
 
 - date: 1811
   title: Proceedings before the Prussian Kammergericht
@@ -175,6 +392,7 @@
     Die Königliche General-Invalidenkasse klagt wegen des Darlehens von 1805. Die Prozessakte
     ist in Berlin erhalten.
   source_de: Seidel 2018, Kap. 14.3
+  refs: ["oe1bu9454/74a", "oe1bu9454/74d"]
 
 - date: 1812
   title: Napoleon's Russian campaign
@@ -199,6 +417,24 @@
     Preußen wendet sich gegen Frankreich. Triebenfeld schreibt im Juni aus Neisse, nachdem er
     unterwegs im Freien übernachtet hat.
   source_de: Brief 239
+  refs: ["oe1bu9454/239"]
+
+- date: 1814-05-14
+  title: "Hardenberg holds back the Prince's letter to the Tsar"
+  note: >-
+    In Paris Triebenfeld hands the State Chancellor a letter from the Prince to the Russian
+    Emperor about Trąbczyn and Kaemen. Hardenberg keeps it: nothing can be asked until the fate
+    of the Duchy of Warsaw is settled. The foreign ministry's file on the claim begins here.
+  kind: political
+  source: "the foreign ministry's file, 3 and 1"
+  title_de: "Hardenberg hält den Brief des Fürsten an den Zaren zurück"
+  note_de: >-
+    In Paris übergibt Triebenfeld dem Staatskanzler einen Brief des Fürsten an den russischen
+    Kaiser wegen Trąbczyn und Kaemen. Hardenberg behält ihn: Bevor über das Herzogtum Warschau
+    entschieden sei, lasse sich nichts verlangen. Hier beginnt die Akte des Außenministeriums
+    über den Anspruch.
+  source_de: "die Akte des Außenministeriums, 3 und 1"
+  refs: ["iiihamdaiiinr12765/3", "iiihamdaiiinr12765/1"]
 
 - date: 1814-09
   title: The Congress of Vienna opens
@@ -212,6 +448,7 @@
     Triebenfeld wird entsandt, um die Rückgabe der Güter zu betreiben, und bleibt bis ins Jahr
     1815 - mittellos, Metternich und Talleyrand auf der Spur und um Geld zum Leben bittend.
   source_de: Briefe 243 ff.
+  refs: ["oe1bu9454/243"]
 
 - date: 1815-01
   title: The Prosna border question
@@ -225,6 +462,7 @@
     Russland drängt auf eine Grenze, die Trąbczyn und Blizanow unter seine Oberhoheit brächte -
     womit jede Aussicht auf ihre Rückgewinnung dahin wäre.
   source_de: Brief 266
+  refs: ["oe1bu9454/266"]
 
 - date: 1815-03
   title: Napoleon returns from Elba
@@ -236,6 +474,23 @@
   note_de: >-
     Der Kongress wird in der Schwebe gehalten, und mit ihm die Sache des Fürsten.
   source_de: Briefe 4, 286
+  refs: ["oe1bu9454/4", "oe1bu9454/286"]
+
+- date: 1815-05-12
+  title: "The Prince asks for Sokolnik instead"
+  note: >-
+    Trąbczyn will lie under Russian rule, and the Prince counts it lost. He writes to Baron vom
+    Stein in April and to Hardenberg in May, puts his loss at more than 261,000 Rthl, and asks
+    for the small crown estate of Sokolnik in compensation.
+  kind: estate
+  source: "the Prince's two letters in the foreign ministry's file, 6 and 8"
+  title_de: "Der Fürst bittet stattdessen um Sokolnik"
+  note_de: >-
+    Trąbczyn wird unter russischer Herrschaft liegen, und der Fürst gibt es verloren. Er
+    schreibt im April an den Freiherrn vom Stein und im Mai an Hardenberg, beziffert seinen
+    Verlust auf über 261.000 Rthl und bittet zur Entschädigung um das kleine Amt Sokolnik.
+  source_de: "die beiden Briefe des Fürsten in der Akte des Außenministeriums, 6 und 8"
+  refs: ["iiihamdaiiinr12765/6", "iiihamdaiiinr12765/8"]
 
 - date: 1815-06-09
   title: Final Act of the Congress of Vienna
@@ -250,6 +505,23 @@
     Kongresspolen.
   source_de: Seidel 2018, Kap. 13.1
 
+- date: 1815-11-02
+  title: "Zerboni reports against the claim"
+  note: >-
+    Asked by Hardenberg for an opinion, Zerboni di Sposetti at Posen rejects the figures put
+    forward for the Prince, says he let Trąbczyn run down and loaded it with debt, and advises
+    that Prussia can do no more than ask Russia to decide.
+  kind: estate
+  source: "the report, in the foreign ministry's file, 14"
+  title_de: "Zerboni berichtet gegen den Anspruch"
+  note_de: >-
+    Von Hardenberg um ein Gutachten gebeten, verwirft Zerboni di Sposetti in Posen die für den
+    Fürsten vorgelegten Zahlen, erklärt, dieser habe Trąbczyn verfallen lassen und mit Schulden
+    belastet, und rät, Preußen könne nicht mehr tun, als Russland um eine Entscheidung zu
+    bitten.
+  source_de: "der Bericht in der Akte des Außenministeriums, 14"
+  refs: ["iiihamdaiiinr12765/14"]
+
 - date: 1815-12
   title: Triebenfeld's daughter dies
   note: >-
@@ -262,6 +534,56 @@
     Sie stirbt vier Tage nach der Entbindung; in denselben Wochen stirbt auch die wiederkehrende
     Gestalt Barbe. Der tiefste Punkt der Korrespondenz.
   source_de: Brief 297
+  refs: ["oe1bu9454/297"]
+
+- date: 1816-01-31
+  title: "Triebenfeld's last letter; he is dead by April"
+  note: >-
+    The correspondence ends with a letter from Blizanow. A note written on 13 April 1816 in the
+    margin of Zerboni's report calls him the late von Triebenfeld. No document here records his
+    death itself.
+  kind: personal
+  source: "letter 301; the margin of Zerboni's report"
+  title_de: "Triebenfelds letzter Brief; im April ist er tot"
+  note_de: >-
+    Die Korrespondenz endet mit einem Brief aus Blizanow. Ein Vermerk vom 13. April 1816 am Rand
+    von Zerbonis Bericht nennt ihn den verstorbenen von Triebenfeld. Seinen Tod selbst
+    verzeichnet kein Dokument hier.
+  source_de: "Brief 301; der Rand von Zerbonis Bericht"
+  refs: ["oe1bu9454/301", "iiihamdaiiinr12765/14"]
+
+- date: 1816-04-29
+  title: "Prussia raises the claim at St Petersburg, without pressing it"
+  note: >-
+    The foreign ministry instructs its envoy, General von Schöler, to bring the Prince's wish to
+    the Tsar's notice in general terms only, since compensation would be a favour and not a
+    right. A creditor of the Prince, the widow von Brehmer, asks in the same weeks to be paid
+    out of anything Russia grants.
+  kind: political
+  source: "the foreign ministry's file, 17 and 19"
+  title_de: "Preußen bringt den Anspruch in St. Petersburg vor, ohne Nachdruck"
+  note_de: >-
+    Das Außenministerium weist seinen Gesandten, General von Schöler, an, den Wunsch des Fürsten
+    dem Zaren nur im Allgemeinen zur Kenntnis zu bringen, da eine Entschädigung Gnade und kein
+    Recht sei. Eine Gläubigerin des Fürsten, die Witwe von Brehmer, bittet in denselben Wochen,
+    aus allem bezahlt zu werden, was Russland gewährt.
+  source_de: "die Akte des Außenministeriums, 17 und 19"
+  refs: ["iiihamdaiiinr12765/17", "iiihamdaiiinr12765/19"]
+
+- date: 1816-11-23
+  title: "Russia refuses"
+  note: >-
+    Schöler reports from St Petersburg that the Russian ministry has answered his notes with a
+    refusal. The ministry sends the Prince a copy in December, with its regrets.
+  kind: political
+  source: "the foreign ministry's file, 25 and 26"
+  title_de: "Russland lehnt ab"
+  note_de: >-
+    Schöler berichtet aus St. Petersburg, das russische Ministerium habe seine Noten mit einer
+    Ablehnung beantwortet. Das Ministerium sendet dem Fürsten im Dezember eine Abschrift, mit
+    seinem Bedauern.
+  source_de: "die Akte des Außenministeriums, 25 und 26"
+  refs: ["iiihamdaiiinr12765/25", "iiihamdaiiinr12765/26"]
 
 - date: 1818-02-15
   title: Friedrich Ludwig dies at Slaventzitz
@@ -275,3 +597,21 @@
     Die Gläubiger greifen sofort zu; die Güter Betsche, Zagorów und Trąbczyn werden bald darauf
     verkauft. Das ist zwei Jahre nach dem letzten Brief dieser Sammlung.
   source_de: Seidel 2018, Kap. 20.1
+
+- date: 1820-01-31
+  title: "The heirs' claim is refused"
+  note: >-
+    After the Prince's death his heirs have Duke Eugen of Württemberg recommend their claim to
+    the Russian government. The Russian envoy in Berlin answers that the matter was decided in
+    1816 and the Tsar cannot act on the recommendation. The Prussian ministry takes no further
+    step.
+  kind: political
+  source: "the foreign ministry's file, 27 and 29"
+  title_de: "Der Anspruch der Erben wird abgelehnt"
+  note_de: >-
+    Nach dem Tod des Fürsten lassen seine Erben ihren Anspruch durch Herzog Eugen von
+    Württemberg bei der russischen Regierung empfehlen. Der russische Gesandte in Berlin
+    antwortet, die Sache sei 1816 entschieden und der Zar könne der Empfehlung nicht folgen. Das
+    preußische Ministerium unternimmt nichts weiter.
+  source_de: "die Akte des Außenministeriums, 27 und 29"
+  refs: ["iiihamdaiiinr12765/27", "iiihamdaiiinr12765/29"]

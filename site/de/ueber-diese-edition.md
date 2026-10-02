@@ -9,10 +9,16 @@ alt_url: /reading-this-edition/
 
 ## Die Quelle
 
-Die Dokumente liegen im **Hohenloher Zentralarchiv Neuenstein (HZAN)**. Der hier
-dargebotene Text wurde nach den Originalhandschriften transkribiert, geschrieben in
+Die bisher veröffentlichten Dokumente liegen im **Hohenloher Zentralarchiv Neuenstein
+(HZAN)**, in zwei Beständen: `Oe 1 Bü 9454`, der Korrespondenz aus achtzehn Jahren, und
+`Oe 1 Bü 14526`, einem Band mit Besitzurkunden. Spätere Epochen des Archivs werden aus
+Archiven in Posen, Warschau und Berlin schöpfen; der Bestand, aus dem ein Dokument stammt,
+gehört zu seiner Zitierweise und hier zu seiner Adresse.
+
+Der Text wurde nach den Originalhandschriften transkribiert, geschrieben in
 *Kurrentschrift*, der deutschen Schreibschrift der Zeit, schwer zu lesen und leicht falsch
-zu lesen.
+zu lesen. Einige Urkunden enthalten Stellen in polnischer und lateinischer Sprache; auch sie
+sind Quellentext und werden übersetzt, nicht als verderbtes Deutsch behandelt.
 
 **Die Transkription wurde von einem KI-System angefertigt, nicht von einem Paläographen.**
 Das ist von Bedeutung, und die Edition verschweigt es nicht. Die maschinelle Transkription
@@ -30,7 +36,8 @@ im Archivtext einnimmt. Nichts läuft über einen Seitenumbruch hinweg. Ein Brie
 dennoch als Ganzes lesbar; die Seiten sind Gliederung darin, und neben ihnen stehen die
 Digitalisate.
 
-Auf die 318 Dokumente entfallen **869 Handschriftenseiten**.
+Auf die 348 Dokumente entfallen **1.156 Handschriftenseiten**: 869 Seiten in der
+Korrespondenz, 287 im Urkundenband.
 
 ## Vier Ansichten jedes Dokuments
 
@@ -57,10 +64,12 @@ Leserschaft in die Irre.
 Drei Arten von Eingriffen wurden vorgenommen, jede aufgrund von Belegen statt aufgrund von
 Eindrücken:
 
-- **Trennzeichen am Zeilenende.** Von 1.317 Zeichen am Zeilenende verbanden nur 826
-  tatsächlich ein Wort. 483 waren überflüssig, 5 waren Kustoden, und 3 hatten nichts, worin
-  sie sich hätten fortsetzen können. Jedes wurde an diesem Korpus und am historischen
-  deutschen Sprachgebrauch geprüft, und jede Entscheidung ist mit ihrem Beleg verzeichnet.
+- **Trennzeichen am Zeilenende.** In der Korrespondenz verbanden von 1.317 Zeichen am
+  Zeilenende nur 826 tatsächlich ein Wort. 483 waren überflüssig, 5 waren Kustoden, und 3
+  hatten nichts, worin sie sich hätten fortsetzen können. Jedes wurde an diesem Korpus und
+  am historischen deutschen Sprachgebrauch geprüft, und jede Entscheidung ist mit ihrem
+  Beleg verzeichnet. Die Urkunden wurden ebenso geprüft; die Zahlen unten sind die der
+  Korrespondenz, in der die Zeichen am dichtesten standen.
 - **Wiederkehrende Namen.** Mehrfach unterschiedlich transkribierte Personen und Orte
   wurden auf eine Schreibung vereinheitlicht, nur am Wortstamm, sodass deutsche und
   polnische Flexionsendungen erhalten bleiben. Wo sich eine Variante als *andere* Person
@@ -81,10 +90,13 @@ scheitern.
 die Ansicht das, statt nichts zu zeigen.
 
 **Digitalisate** zeigen die Seite selbst. Jedes Bild wurde einzeln und von Auge seiner
-Seite zugeordnet; ein Klick öffnet es in voller Größe. Von den 872 aufgenommenen Bildern
-stehen 865 neben einer transkribierten Seite. Die übrigen sieben sind das Titelblatt der
-Serie, fünf Blätter, die keine Handschriftenseiten sind, und eine Seite mit
+Seite zugeordnet; ein Klick öffnet es in voller Größe. In der Korrespondenz stehen von den
+872 aufgenommenen Bildern 865 neben einer transkribierten Seite. Die übrigen sieben sind das
+Titelblatt der Serie, fünf Blätter, die keine Handschriftenseiten sind, und eine Seite mit
 Rechenaufstellungen, die bewusst nicht transkribiert wurde.
+
+Jede Seite verzeichnet, von welchem Bild sie gelesen wurde, sodass sich ein Verweis auf eine
+Zeile bis zur Handschrift zurückverfolgen lässt.
 
 Die hier veröffentlichten Bilder sind auf 1100 Pixel Breite verkleinert, was zum Lesen der
 Hand genügt. Die Originale in voller Auflösung, rund 1 GB, liegen offline als
@@ -94,7 +106,7 @@ Archivmaster.
 
 Die Transkription bezeichnet ein gebrochenes Wort mit `¬`, doch dieses Zeichen ist nicht
 für bare Münze zu nehmen, denn der Transkribent hat es sehr häufig falsch gesetzt. Von den
-1.317 Zeichen am Zeilenende im Korpus verbinden **483 (37 %) gar nichts**:
+1.317 Zeichen am Zeilenende in der Korrespondenz verbinden **483 (37 %) gar nichts**:
 
 | | |
 |---|---|
@@ -145,6 +157,18 @@ konnte, und 52 als Vermutung angebotene. Sie bleiben im Text jedes betroffenen D
 sichtbar, statt geglättet zu werden. Fünf beschädigte Stellen sind noch an den Originalen
 zu prüfen.
 
+## Epochen
+
+Das Archiv ist in drei Epochen gegliedert, eine für jeden Besitzer des Gutes. Die Zuordnung
+zu einer Epoche ist eine editorische Entscheidung: Ein Dokument gehört zu der Epoche, deren
+Geschichte es belegt, und das ist nicht dasselbe wie sein Datum. Die meisten Dokumente der
+Hohenlohe-Epoche sind datiert, nachdem die Hohenlohe das Gut bereits verloren hatten, denn
+der Streit darum zog sich noch neun Jahre hin.
+
+Die für eine Epoche angegebenen Jahre sind daher die Jahre der ihr zugeordneten Dokumente,
+nicht die Jahre, in denen der Besitzer das Gut innehatte. Beides steht auf der Seite der
+jeweiligen Epoche.
+
 ## Datierung
 
 Etwa sieben von acht Dokumenten tragen ein Datum im Brief selbst. Die übrigen sind auf eine
@@ -156,12 +180,14 @@ von vier Weisen datiert, und jedes Dokument nennt die für es zutreffende:
   wobei die Begründung beim Dokument verzeichnet ist
 - **der Doppelüberlieferung entnommen**, wo ein Dokument in zwei Abschriften vorliegt
 
-Sechs Dokumente bleiben undatiert und stehen am Ende der chronologischen Folge.
+Acht Dokumente bleiben undatiert und stehen am Ende der chronologischen Folge.
 
-Zu beachten ist, dass die Zählung des Archivs nicht chronologisch ist. Die Briefe 1 bis 74
-bilden einen ungeordneten Block über die Jahre 1806 bis 1815; 75 bis 301 laufen von 1798 an
-der Reihe nach. Die Nummern 302 und 303 stehen außerhalb dieser Folge. Beide Ordnungen sind
-begehbar, und die Archivnummer ist der feste Zitierschlüssel.
+Zu beachten ist, dass die Zählung eines Archivs nicht chronologisch sein muss. In der
+Korrespondenz bilden die Briefe 1 bis 74 einen ungeordneten Block über die Jahre 1806 bis
+1815; 75 bis 301 laufen von 1798 an der Reihe nach, und die Nummern 302 und 303 stehen
+außerhalb dieser Folge. Beide Ordnungen sind begehbar, und die Archivnummer ist der feste
+Zitierschlüssel. Sie ist nur innerhalb ihres Bestandes eindeutig; deshalb gehört der Bestand
+zur Adresse jedes Dokuments.
 
 ## Geld
 
@@ -178,9 +204,12 @@ Mehrere Archivnummern enthielten mehr als ein Dokument. Diese wurden in Teilaufn
 zerlegt, Brief 72 in 72a bis 72f, Brief 74 in 74a bis 74e und so fort, jede mit einer
 Verknüpfung zurück zum übergeordneten Stück. Dabei wurde nichts entfernt.
 
-Drei Dokumente sind in zwei Abschriften überliefert: die Briefe **48 und 302** sind
-derselbe Brief vom 7. März 1809, zweimal transkribiert, ebenso 72d/72e (deutsch und
-polnisch) sowie 118b/118c. Die Doppelüberlieferungen sind ungewöhnlich wertvoll, denn der
+Einige Dokumente sind in zwei Abschriften überliefert. In der Korrespondenz sind die Briefe
+**48 und 302** derselbe Brief vom 7. März 1809, zweimal transkribiert, ebenso 72d/72e
+(deutsch und polnisch) sowie 118b/118c. In den Urkunden steht der Erbpachtvertrag über
+Betsche als **18 und 19**, zweimal in den Band abgeschrieben, einmal ohne die königliche
+Genehmigung und die Beglaubigung des Archivs, die der anderen Abschrift folgen. Die
+Doppelüberlieferungen sind ungewöhnlich wertvoll, denn der
 Vergleich zweier unabhängiger Transkriptionen derselben Seite zeigt genau, wo
 Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
 
@@ -190,7 +219,8 @@ Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
   voneinander ab (23.000 gegen 32.000 Rthl). Beide Transkriptionen sind ihrer jeweiligen
   Seite treu, die Abweichung gehört also dem ursprünglichen Abschreiber, nicht dieser
   Edition.
-- 150 unsichere Lesarten und fünf beschädigte Stellen sind an den Originalen zu prüfen.
+- Unsichere Lesarten und beschädigte Stellen sind an den Originalen zu prüfen; ihre Zahl
+  steht für jedes Dokument auf dessen eigener Seite.
 - Manche Identifizierungen beruhen allein auf dem Zusammenhang. Die Personenseiten nennen
   jeweils den Beleg.
 

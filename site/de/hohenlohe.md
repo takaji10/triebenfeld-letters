@@ -11,35 +11,39 @@ era: hohenlohe
 *Eine von drei Epochen. Die beiden anderen sind noch nicht veröffentlicht; siehe
 [die Geschichte]({{ '/de/die-geschichte/' | relative_url }}).*
 
-Diese Edition umfasst 318 Dokumente aus den Jahren 1798 bis 1816. Einzeln gelesen sind sie
-sperrig. Sie beginnen mitten im Geschäft, setzen voraus, dass man jeden kennt, und stehen
-voller Summen. In der Reihenfolge gelesen ergeben sie eine einzige fortlaufende Geschichte:
-die eines Mannes, der achtzehn Jahre lang das Vermögen eines anderen zu retten versucht und
-daran scheitert.
+Diese Epoche umfasst 348 Dokumente aus den Jahren 1798 bis 1816, aus zwei Archivbeständen.
+
+Der eine ist ein Band mit Besitzurkunden: die Verträge, durch die das Gut geteilt, ausgetan
+und verkauft wurde, mit den Namen der Siedler, die die Stellen übernahmen, und den
+Bedingungen, zu denen sie es taten. Der andere enthält die Briefe aus achtzehn Jahren, die
+der Verwalter des Gutes an dessen abwesenden Besitzer schrieb. Für sich gelesen sind sie
+sperrig, denn sie beginnen mitten im Geschäft und setzen voraus, dass man jeden kennt.
+Zusammen gelesen beantworten beide verschiedene Fragen. Die Urkunden halten fest, was
+vereinbart wurde. Die Briefe halten fest, was der Verwalter wollte, was er fürchtete und
+was nach seinem Bericht an den Dienstherrn schiefgegangen war.
 
 Jede Aussage unten verweist auf den Brief, aus dem sie stammt. Sie können diese Seite an
 jeder Stelle verlassen und zum Beleg gehen.
 
-## Die beiden Männer
+## Wer das Gut verwaltete
 
 Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen (1746 bis 1818), war preußischer General
 und Reichsfürst. Nach der Dritten Teilung Polens 1795 verlieh ihm die preußische Krone
 Güter in der neu erworbenen Provinz Südpreußen: Zagorowo, Trąbczyn, Kaemen und andere, um
-Konin und Kalisz gelegen, im heutigen Zentralpolen. Auf dem Papier war er ein sehr reicher
-Mann. In der Sache war die Verleihung der Anfang seines Ruins.
+Konin und Kalisz gelegen, im heutigen Zentralpolen. Die Verleihung war groß und belastet,
+und er versuchte für den Rest seines Lebens, Geld aus ihr zu ziehen.
 
 Peter Friedrich von Triebenfeld, Kriegs- und Forstrath, war der Mann, der diese Verleihung
-ertragreich machen sollte. Von ihm stammt das meiste, was hier zu lesen ist. Seine Stellung
-ist unbequemer als die eines Dieners und als die eines Freundes: ein Geschäftsmann, der für
-die Schulden seines Dienstherrn persönlich einzustehen beginnt und dann nicht mehr davon
-loskommt. Brief um Brief unterzeichnet er als *unterthänigster Diener*, während er dem
-Fürsten mit immer weniger Umschweifen schreibt, dass er um dessentwillen zugrunde gerichtet
-wird.
+ertragreich machen sollte. Von ihm stammen die meisten Briefe hier. Für die Schulden seines
+Dienstherrn unterschrieb er selbst, und deshalb läuft die Korrespondenz noch lange weiter,
+nachdem das Gut verloren war: Er kam von ihnen nicht mehr los. Er unterzeichnet als
+*unterthänigster Diener*, während er dem Fürsten mit immer weniger Umschweifen schreibt,
+dass er um dessentwillen zugrunde gerichtet wird.
 
 Fast alles im Folgenden ist Triebenfeld an den Fürsten. Wo die Richtung sich umkehrt oder
 ein Dritter schreibt, wird es gesagt.
 
-## I. Ein Geschenk, das sich nicht ausgeben ließ, 1798 bis 1800
+## I. Die Schenkung und der Versuch, sie einzutauschen, 1798 bis 1800
 
 Die Korrespondenz beginnt mit einem Plan. Die polnischen Güter lagen verstreut, waren
 belastet und von Schlesien aus schwer zu verwalten. Der Fürst wollte sie deshalb gegen zwei
@@ -71,11 +75,11 @@ Alles Weitere folgt aus diesem Scheitern. Der Fürst behält Güter, die er sich
 kann, und die Korrespondenz handelt fortan nicht mehr vom Erwerb von Land, sondern davon,
 ihm Geld abzugewinnen.
 
-## II. Das Land verkaufen, um es zu retten, 1800 bis 1806
+## II. Das Gut wird zerschlagen, 1800 bis 1806
 
-Die folgenden sechs Jahre sind Gütersanierung, und interessanter, als das klingt, denn
-Triebenfelds Mittel war die Kolonisation. Das Vorwerksland wird zerstückelt, Bauern werden
-in Erbpacht darauf angesetzt, und aus Grund und Boden wird ein dauerhafter Zinsstrom.
+Triebenfelds Antwort auf die Schulden war die Kolonisation: das Vorwerksland zerstückeln,
+Bauern in Erbpacht darauf ansetzen und aus Grund und Boden einen dauerhaften Zinsstrom
+machen.
 
 Er warb weit und beharrlich. Mährische Brüder aus Böhmen, in den Briefen Hussiten genannt,
 [kamen und besahen sich das Land]({{ '/documents/oe1bu9454/120/' | relative_url }}) zu 300 Reichsthalern
@@ -85,6 +89,27 @@ ganzen zu kaufen]({{ '/documents/oe1bu9454/146/' | relative_url }}) und unter si
 standen die Hauländer, Siedler auf einer Leihe holländischen Rechts, die der preußischen
 Erwerbung lange vorausging. Der Bestand erläutert das Wort selbst: [„die Hauländer oder
 Collonisten“]({{ '/documents/oe1bu9454/216/' | relative_url }}).
+
+Was das auf dem Papier bedeutete, steht in den Urkunden. Im April 1805 unterzeichnete
+Triebenfeld eine [Punktation]({{ '/documents/oe1bu14526/15/' | relative_url }}), die 270 Hufen aus
+Trąbczyn, Łazy, Osiny, Neudorff und Przybysław austat, zu 300 Reichsthalern die Hufe und
+fünfzehn weiteren jedes Jahr an Zins, der nie abgelöst werden konnte. Neue Dörfer sollten in
+zwei geraden Linien angelegt werden, mit dreizehn freien Morgen in jedem für den
+Schulmeister, den Schulzen und den Kirchhof. Die Krone hatte die Zerstückelung im Jahr zuvor
+genehmigt, und diese Genehmigung liegt bei [einem anderen der
+Verträge]({{ '/documents/oe1bu14526/8/' | relative_url }}).
+
+Siebzehn Männer unterzeichneten diese Punktation. Zehn von ihnen zeichneten mit einem Kreuz.
+Deutsche und polnische Namen stehen in der Liste nebeneinander, und eine der Stellen, drei
+Hufen, übernimmt eine Frau, Elisabetta di Simony, in eigenem Namen.
+
+Die Bedingungen wiederholen sich fast wörtlich in dreizehn dieser Verträge, und es lohnt,
+sie einmal ganz zu lesen, denn sie erklären, was später geschieht. Ein Siedler zahlte ein
+Einstandsgeld. Er schuldete für immer einen festen Zins, und die Herrschaft nahm bei jedem
+Besitzwechsel ein Zehntel des Preises. Er ließ sein Korn in der herrschaftlichen Mühle
+mahlen und trank im herrschaftlichen Krug. Nach zwei Jahren Rückstand verlor er die Stelle.
+Und er verzichtete im Voraus und schriftlich auf jeden Anspruch auf Nachlass, wenn etwas
+misslang. Feuer, Wasser, Krieg, Missernten: alles auf seine eigene Gefahr.
 
 Eine Zeitlang ging es auf. 1806 setzte die von der Kalischer Kammer beglaubigte
 Revenüenübersicht die beiden Herrschaften auf [40.260 Reichsthaler
@@ -106,9 +131,8 @@ nächste Jahrzehnt bezahlen.
 > <cite>[Brief 158]({{ '/documents/oe1bu9454/158/' | relative_url }})</cite>
 {: .pull}
 
-Mitten darin, im April 1804, zeigt die Korrespondenz, was ihn die Arbeit kostet.
-Triebenfeld schickt dem Fürsten einen Antwortentwurf zur Genehmigung und bittet, die
-Reinschriften von anderer Hand machen zu lassen:
+Im April 1804 schickt Triebenfeld dem Fürsten einen Antwortentwurf zur Genehmigung und
+bittet, die Reinschriften von anderer Hand machen zu lassen:
 
 > ich bin wie zermalmt und habe mich, da meine gute Frau heute beigesezt wird, mit den
 > Kindern bei meinen Schwager retwirt.
@@ -116,7 +140,7 @@ Reinschriften von anderer Hand machen zu lassen:
 
 Danach erledigt er das Geschäft des Briefes.
 
-## III. Das Jahr, in dem alles zerbrach, 1806 bis 1807
+## III. Krieg, und das Gut wechselt den Besitzer, 1806 bis 1807
 
 Im Herbst 1806 wurde Preußen binnen einer Woche als Militärmacht vernichtet. Der Fürst
 befehligte bei Jena und capitulierte bei Prenzlau; damit endete seine Laufbahn.
@@ -154,7 +178,18 @@ förmliche, sie habe sich [„ohne alle Decrete und Urtels“ in den
 Besitz]({{ '/documents/oe1bu9454/215/' | relative_url }}) geschwungen, und er bringt ihn nirgends
 durch, weil ihre Verbindungen besser sind als seine.
 
-## IV. Einunddreißig Prozesse, 1808 bis 1812
+Die Urkunden fügen eine Einzelheit hinzu, die die Briefe nicht erwähnen. Am 28. Januar 1808,
+drei Monate nach der Wegnahme, stellte das Gericht des Gutes den Siedlern noch immer ihre
+Papiere aus. Zwei Erbpachtverträge tragen Ausfertigungen von diesem Tag. Die eine [zu
+Alexandrien]({{ '/documents/oe1bu14526/6/' | relative_url }}) unter dem Siegel des „Hohenlohesches
+Patrimonial Gericht amt Zagorow“, die andere [zu Pyzdry]({{ '/documents/oe1bu14526/7/' | relative_url }})
+und auf Polnisch, unterzeichnet als *Sąd Patrimonialny Maiętnosći Zagurowskiey*, das
+Patrimonialgericht der Zagorower Güter. Derselbe Beamte, Hawich, unterschreibt beide. Der
+Herr hatte das Gut verloren, und der Staat darüber hatte gewechselt, und das Gericht
+vollendete weiter den Besitztitel eines Mannes namens Gottlieb Sarre an anderthalb Hufen
+gerodeten Waldes.
+
+## IV. Prozesse und die säumigen Siedler, 1808 bis 1812
 
 1808 hatten die Gläubiger Triebenfeld persönlich erreicht. Er wurde
 [in Berlin von zwei französischen Gendarmen
@@ -195,7 +230,15 @@ Hauländer [„gröstentheils durch gericht Erkenntniße“
 fortzujagen]({{ '/documents/oe1bu9454/216/' | relative_url }}) und aus dem Land wieder reine Vorwerke
 zu machen.
 
-## V. Wien, 1814 bis 1815
+An dieser Stelle lohnt der Blick zurück in die Verträge. Die Kolonisten, die nicht zahlen
+konnten, hatten auf jeden Anspruch auf Nachlass schon verzichtet. Die Klausel steht in jedem
+dieser Erbpachtverträge und deckt genau diesen Fall. Namenlos sind sie im Archiv auch nicht.
+Der [Vertrag über Althütte]({{ '/documents/oe1bu14526/17/' | relative_url }}) nennt sechs von ihnen mit
+den Dörfern, aus denen sie kamen: Martin Giering aus Racotten, Wilhelm Daniel Schulz aus
+Krolikower Holländ, Gottfried und Michael Dumel aus Razoten, Gottfried Damt und Christoph
+Schoenfisch aus Trąbczyner Holländ. Unterzeichnet ist er mit Handzeichen.
+
+## V. Die Forderung auf dem Wiener Kongress, 1814 bis 1815
 
 Im Herbst 1814 wurde Triebenfeld zum Wiener Kongress geschickt, um die Rückgabe der
 polnischen Güter zu betreiben.
@@ -234,7 +277,7 @@ Millionen Franken auf Bonapartes Kopf und schließlich mit der Nachricht, er
 [stehe heute beinahe am Rhein]({{ '/documents/oe1bu9454/286/' | relative_url }}) mit über 200.000 Mann.
 Der Kongress, und mit ihm die Sache des Fürsten, war damit einfach ausgesetzt.
 
-## VI. Ende, 1815 bis 1816
+## VI. Das Ende, 1815 bis 1816
 
 Das Verhältnis verdirbt. Die Briefe des Fürsten werden kühl, und Triebenfeld
 [beantwortet drei davon Punkt für Punkt]({{ '/documents/oe1bu9454/273/' | relative_url }}) und
@@ -297,23 +340,28 @@ ihrer Sicherheit.
 
 ## Was zuerst zu lesen ist
 
-Wer die Geschichte in einem Dutzend Stücke lesen will, lese in dieser Folge:
+Wer die Geschichte in fünfzehn Dokumenten lesen will, lese sie in dieser Folge. Vier sind
+Urkunden, die übrigen Briefe. Die Briefe streiten; die Urkunden halten fest, was tatsächlich
+vereinbart wurde.
 
 1. [Brief 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), der Tauschplan in vollem Gange
 2. [Brief 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), der König sagt nein
 3. [Brief 124]({{ '/documents/oe1bu9454/124/' | relative_url }}), das Begräbnis seiner Frau und das Geschäft des Tages
 4. [Brief 179a]({{ '/documents/oe1bu9454/179a/' | relative_url }}), was die Güter wirklich wert waren
-5. [Brief 26]({{ '/documents/oe1bu9454/26/' | relative_url }}), Erleichterung, dass der Fürst 1806 überlebt hat
-6. [Brief 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), die Güter werden genommen
-7. [Brief 48]({{ '/documents/oe1bu9454/48/' | relative_url }}), der Gegenangriff und seine dreizehn Vollmachten
-8. [Brief 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), einunddreißig Prozesse, aus einer Bauernhütte geschrieben
-9. [Brief 243]({{ '/documents/oe1bu9454/243/' | relative_url }}), was ein Tag in Wien kostet
-10. [Brief 266]({{ '/documents/oe1bu9454/266/' | relative_url }}), ein Fluss entscheidet alles
-11. [Brief 7]({{ '/documents/oe1bu9454/7/' | relative_url }}), Charlotte schreibt
-12. [Brief 297]({{ '/documents/oe1bu9454/297/' | relative_url }}), die Todesfälle
+5. [Vertrag 15]({{ '/documents/oe1bu14526/15/' | relative_url }}), 270 Hufen ausgetan, unterzeichnet von siebzehn Männern, zehn davon mit einem Kreuz
+6. [Vertrag 17]({{ '/documents/oe1bu14526/17/' | relative_url }}), sechs Siedler mit Namen und den Dörfern, aus denen sie kamen
+7. [Vertrag 24]({{ '/documents/oe1bu14526/24/' | relative_url }}), die Krone verweigert die Vererbpachtung einer Herrschaft an ihre Bewohner
+8. [Brief 26]({{ '/documents/oe1bu9454/26/' | relative_url }}), Erleichterung, dass der Fürst 1806 überlebt hat
+9. [Brief 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), die Güter werden genommen
+10. [Brief 48]({{ '/documents/oe1bu9454/48/' | relative_url }}), der Gegenangriff und seine dreizehn Vollmachten
+11. [Brief 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), einunddreißig Prozesse, aus einer Bauernhütte geschrieben
+12. [Brief 243]({{ '/documents/oe1bu9454/243/' | relative_url }}), was ein Tag in Wien kostet
+13. [Brief 266]({{ '/documents/oe1bu9454/266/' | relative_url }}), ein Fluss entscheidet alles
+14. [Brief 7]({{ '/documents/oe1bu9454/7/' | relative_url }}), Charlotte schreibt
+15. [Brief 297]({{ '/documents/oe1bu9454/297/' | relative_url }}), die Todesfälle
 
-Zu jedem Dokument gehören eine deutsche Transkription, eine Lesefassung und, bei 313 von
-ihnen, eine englische Übersetzung, dazu die Aufnahmen der Handschrift. Beginnen Sie mit dem
+Zu jedem Dokument gehören eine deutsche Transkription, eine Lesefassung, eine englische
+Übersetzung und die Aufnahmen der Handschrift. Beginnen Sie mit dem
 [Durchsuchen]({{ '/de/dokumente/' | relative_url }}), oder lesen Sie zuerst
 [Über diese Edition]({{ '/de/ueber-diese-edition/' | relative_url }}), wenn Sie
 wissen wollen, wie der Text erstellt wurde und wie weit er trägt.

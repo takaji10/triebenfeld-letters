@@ -54,6 +54,17 @@
       if (v != null) el.setAttribute('title', v);
     });
 
+    // Values that belong to this page alone (a date, a note) carry both
+    // languages on the element. An empty German keeps the English.
+    document.querySelectorAll('[data-en]').forEach(function (el) {
+      var v = el.getAttribute(lang === 'de' ? 'data-de' : 'data-en') || el.getAttribute('data-en');
+      if (v) el.textContent = v;
+    });
+    document.querySelectorAll('[data-title-en]').forEach(function (el) {
+      var v = el.getAttribute(lang === 'de' ? 'data-title-de' : 'data-title-en') || el.getAttribute('data-title-en');
+      if (v) el.setAttribute('title', v);
+    });
+
     // The summary exists in both languages; show the one asked for, and fall
     // back to whichever is present rather than leaving an empty space.
     var wanted = document.querySelector('.letter-summary[data-summary="' + lang + '"]');

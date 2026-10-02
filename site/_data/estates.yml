@@ -2,14 +2,20 @@
 - slug: "trabczyn"
   name: "Trąbczyn"
   count: 159
+  lat: 52.14318
+  lon: 17.95845
   letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "89", url: "/documents/oe1bu9454/89/"}, {id: "31", url: "/documents/oe1bu14525/31/"}, {id: "44", url: "/documents/oe1bu14525/44/"}, {id: "43", url: "/documents/oe1bu14525/43/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "27", url: "/documents/oe1bu14526/27/"}, {id: "28", url: "/documents/oe1bu14526/28/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "116", url: "/documents/oe1bu9454/116/"}, {id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "17", url: "/documents/oe1bu14526/17/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "139", url: "/documents/oe1bu9454/139/"}, {id: "145", url: "/documents/oe1bu9454/145/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "150", url: "/documents/oe1bu9454/150/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "16", url: "/documents/oe1bu14526/16/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "174", url: "/documents/oe1bu9454/174/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "11", url: "/documents/oe1bu14526/11/"}, {id: "12", url: "/documents/oe1bu14526/12/"}, {id: "1", url: "/documents/ihagrrep7cnr3705/1/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "8", url: "/documents/oe1bu14526/8/"}, {id: "1", url: "/documents/app5371057/1/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "7", url: "/documents/oe1bu14526/7/"}, {id: "189", url: "/documents/oe1bu9454/189/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "25", url: "/documents/oe1bu9454/25/"}, {id: "28", url: "/documents/oe1bu9454/28/"}, {id: "27", url: "/documents/oe1bu9454/27/"}, {id: "30", url: "/documents/oe1bu9454/30/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "48", url: "/documents/oe1bu9454/48/"}, {id: "302", url: "/documents/oe1bu9454/302/"}, {id: "62", url: "/documents/oe1bu9454/62/"}, {id: "63", url: "/documents/oe1bu9454/63/"}, {id: "66", url: "/documents/oe1bu9454/66/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "21", url: "/documents/oe1bu9454/21/"}, {id: "68", url: "/documents/oe1bu9454/68/"}, {id: "70", url: "/documents/oe1bu9454/70/"}, {id: "71", url: "/documents/oe1bu9454/71/"}, {id: "193", url: "/documents/oe1bu9454/193/"}, {id: "194", url: "/documents/oe1bu9454/194/"}, {id: "196", url: "/documents/oe1bu9454/196/"}, {id: "197", url: "/documents/oe1bu9454/197/"}, {id: "198", url: "/documents/oe1bu9454/198/"}, {id: "203", url: "/documents/oe1bu9454/203/"}, {id: "201", url: "/documents/oe1bu9454/201/"}, {id: "206", url: "/documents/oe1bu9454/206/"}, {id: "207", url: "/documents/oe1bu9454/207/"}, {id: "211", url: "/documents/oe1bu9454/211/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "217", url: "/documents/oe1bu9454/217/"}, {id: "223", url: "/documents/oe1bu9454/223/"}, {id: "226", url: "/documents/oe1bu9454/226/"}, {id: "230", url: "/documents/oe1bu9454/230/"}, {id: "73", url: "/documents/oe1bu9454/73/"}, {id: "72", url: "/documents/oe1bu9454/72/"}, {id: "72a", url: "/documents/oe1bu9454/72a/"}, {id: "72d", url: "/documents/oe1bu9454/72d/"}, {id: "72e", url: "/documents/oe1bu9454/72e/"}, {id: "72c", url: "/documents/oe1bu9454/72c/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "17", url: "/documents/oe1bu9454/17/"}, {id: "237", url: "/documents/oe1bu9454/237/"}, {id: "3", url: "/documents/iiihamdaiiinr12765/3/"}, {id: "242", url: "/documents/oe1bu9454/242/"}, {id: "1", url: "/documents/iiihamdaiiinr12765/1/"}, {id: "246", url: "/documents/oe1bu9454/246/"}, {id: "254", url: "/documents/oe1bu9454/254/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "2", url: "/documents/iiihamdaiiinr12765/2/"}, {id: "252", url: "/documents/oe1bu9454/252/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "261", url: "/documents/oe1bu9454/261/"}, {id: "281", url: "/documents/oe1bu9454/281/"}, {id: "266", url: "/documents/oe1bu9454/266/"}, {id: "265b", url: "/documents/oe1bu9454/265b/"}, {id: "268", url: "/documents/oe1bu9454/268/"}, {id: "1", url: "/documents/oe1bu9454/1/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "3", url: "/documents/oe1bu9454/3/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "1a", url: "/documents/oe1bu9454/1a/"}, {id: "271", url: "/documents/oe1bu9454/271/"}, {id: "15", url: "/documents/oe1bu9454/15/"}, {id: "274", url: "/documents/oe1bu9454/274/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "4", url: "/documents/iiihamdaiiinr12765/4/"}, {id: "10", url: "/documents/oe1bu9454/10/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "5", url: "/documents/iiihamdaiiinr12765/5/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "280", url: "/documents/oe1bu9454/280/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "285", url: "/documents/oe1bu9454/285/"}, {id: "286", url: "/documents/oe1bu9454/286/"}, {id: "6", url: "/documents/iiihamdaiiinr12765/6/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "7", url: "/documents/iiihamdaiiinr12765/7/"}, {id: "11", url: "/documents/iiihamdaiiinr12765/11/"}, {id: "12", url: "/documents/iiihamdaiiinr12765/12/"}, {id: "13", url: "/documents/iiihamdaiiinr12765/13/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "8", url: "/documents/iiihamdaiiinr12765/8/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "9", url: "/documents/iiihamdaiiinr12765/9/"}, {id: "10", url: "/documents/iiihamdaiiinr12765/10/"}, {id: "14", url: "/documents/iiihamdaiiinr12765/14/"}, {id: "297", url: "/documents/oe1bu9454/297/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "300", url: "/documents/oe1bu9454/300/"}, {id: "5", url: "/documents/oe1bu9454/5/"}, {id: "301", url: "/documents/oe1bu9454/301/"}, {id: "15", url: "/documents/iiihamdaiiinr12765/15/"}, {id: "16", url: "/documents/iiihamdaiiinr12765/16/"}, {id: "17", url: "/documents/iiihamdaiiinr12765/17/"}, {id: "18", url: "/documents/iiihamdaiiinr12765/18/"}, {id: "20", url: "/documents/iiihamdaiiinr12765/20/"}, {id: "21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "22", url: "/documents/iiihamdaiiinr12765/22/"}, {id: "24", url: "/documents/iiihamdaiiinr12765/24/"}, {id: "25", url: "/documents/iiihamdaiiinr12765/25/"}, {id: "26", url: "/documents/iiihamdaiiinr12765/26/"}, {id: "27", url: "/documents/iiihamdaiiinr12765/27/"}, {id: "29", url: "/documents/iiihamdaiiinr12765/29/"}]
 - slug: "kamionno"
   name: "Kamionna (Kaemen)"
   count: 83
+  lat: 52.56486
+  lon: 15.95857
   letters: [{id: "13", url: "/documents/oe1bu14525/13/"}, {id: "39", url: "/documents/oe1bu14525/39/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "34", url: "/documents/oe1bu14525/34/"}, {id: "14", url: "/documents/oe1bu14525/14/"}, {id: "12", url: "/documents/oe1bu14525/12/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "130", url: "/documents/oe1bu9454/130/"}, {id: "135", url: "/documents/oe1bu9454/135/"}, {id: "132", url: "/documents/oe1bu9454/132/"}, {id: "133", url: "/documents/oe1bu9454/133/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "138", url: "/documents/oe1bu9454/138/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "4", url: "/documents/oe1bu14526/4/"}, {id: "22", url: "/documents/oe1bu14526/22/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "27", url: "/documents/oe1bu9454/27/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "62", url: "/documents/oe1bu9454/62/"}, {id: "66", url: "/documents/oe1bu9454/66/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "21", url: "/documents/oe1bu9454/21/"}, {id: "68", url: "/documents/oe1bu9454/68/"}, {id: "71", url: "/documents/oe1bu9454/71/"}, {id: "193", url: "/documents/oe1bu9454/193/"}, {id: "203", url: "/documents/oe1bu9454/203/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "237", url: "/documents/oe1bu9454/237/"}, {id: "3", url: "/documents/iiihamdaiiinr12765/3/"}, {id: "246", url: "/documents/oe1bu9454/246/"}, {id: "254", url: "/documents/oe1bu9454/254/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "2", url: "/documents/iiihamdaiiinr12765/2/"}, {id: "252", url: "/documents/oe1bu9454/252/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "261", url: "/documents/oe1bu9454/261/"}, {id: "281", url: "/documents/oe1bu9454/281/"}, {id: "265b", url: "/documents/oe1bu9454/265b/"}, {id: "1", url: "/documents/oe1bu9454/1/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "3", url: "/documents/oe1bu9454/3/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "271", url: "/documents/oe1bu9454/271/"}, {id: "15", url: "/documents/oe1bu9454/15/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "4", url: "/documents/iiihamdaiiinr12765/4/"}, {id: "10", url: "/documents/oe1bu9454/10/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "5", url: "/documents/iiihamdaiiinr12765/5/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "280", url: "/documents/oe1bu9454/280/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "285", url: "/documents/oe1bu9454/285/"}, {id: "286", url: "/documents/oe1bu9454/286/"}, {id: "6", url: "/documents/iiihamdaiiinr12765/6/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "7", url: "/documents/iiihamdaiiinr12765/7/"}, {id: "13", url: "/documents/iiihamdaiiinr12765/13/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "9", url: "/documents/iiihamdaiiinr12765/9/"}, {id: "10", url: "/documents/iiihamdaiiinr12765/10/"}, {id: "14", url: "/documents/iiihamdaiiinr12765/14/"}, {id: "297", url: "/documents/oe1bu9454/297/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "300", url: "/documents/oe1bu9454/300/"}, {id: "299", url: "/documents/oe1bu9454/299/"}, {id: "5", url: "/documents/oe1bu9454/5/"}, {id: "301", url: "/documents/oe1bu9454/301/"}, {id: "26", url: "/documents/iiihamdaiiinr12765/26/"}, {id: "29", url: "/documents/iiihamdaiiinr12765/29/"}]
 - slug: "zagorowo"
   name: "Zagórów (Zagorowo)"
   count: 80
+  lat: 52.16899
+  lon: 17.90016
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "11", url: "/documents/oe1bu14525/11/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "29", url: "/documents/oe1bu14525/29/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "21", url: "/documents/oe1bu14525/21/"}, {id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "152", url: "/documents/oe1bu9454/152/"}, {id: "1", url: "/documents/ihagrrep7cnr3705/1/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "25", url: "/documents/oe1bu9454/25/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "39", url: "/documents/oe1bu9454/39/"}, {id: "40", url: "/documents/oe1bu9454/40/"}, {id: "42", url: "/documents/oe1bu9454/42/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "47", url: "/documents/oe1bu9454/47/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "48", url: "/documents/oe1bu9454/48/"}, {id: "302", url: "/documents/oe1bu9454/302/"}, {id: "54", url: "/documents/oe1bu9454/54/"}, {id: "60", url: "/documents/oe1bu9454/60/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "70", url: "/documents/oe1bu9454/70/"}, {id: "197", url: "/documents/oe1bu9454/197/"}, {id: "203", url: "/documents/oe1bu9454/203/"}, {id: "199", url: "/documents/oe1bu9454/199/"}, {id: "200", url: "/documents/oe1bu9454/200/"}, {id: "201", url: "/documents/oe1bu9454/201/"}, {id: "202", url: "/documents/oe1bu9454/202/"}, {id: "206", url: "/documents/oe1bu9454/206/"}, {id: "209", url: "/documents/oe1bu9454/209/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "74b", url: "/documents/oe1bu9454/74b/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "220", url: "/documents/oe1bu9454/220/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "224", url: "/documents/oe1bu9454/224/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "223", url: "/documents/oe1bu9454/223/"}, {id: "226", url: "/documents/oe1bu9454/226/"}, {id: "230", url: "/documents/oe1bu9454/230/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "228", url: "/documents/oe1bu9454/228/"}, {id: "73", url: "/documents/oe1bu9454/73/"}, {id: "229", url: "/documents/oe1bu9454/229/"}, {id: "72", url: "/documents/oe1bu9454/72/"}, {id: "72a", url: "/documents/oe1bu9454/72a/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "72f", url: "/documents/oe1bu9454/72f/"}, {id: "18", url: "/documents/oe1bu9454/18/"}, {id: "234", url: "/documents/oe1bu9454/234/"}, {id: "235", url: "/documents/oe1bu9454/235/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "16", url: "/documents/oe1bu9454/16/"}]
 - slug: "lassowitz"
   name: "Lasowice (Lassowitz)"
@@ -18,58 +24,86 @@
 - slug: "schlawenschitz"
   name: "Sławięcice (Schlawenschitz)"
   count: 67
+  lat: 50.35138
+  lon: 18.31382
   letters: [{id: "136", url: "/documents/oe1bu9454/136/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "62", url: "/documents/oe1bu9454/62/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "219", url: "/documents/oe1bu9454/219/"}, {id: "220", url: "/documents/oe1bu9454/220/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "236", url: "/documents/oe1bu9454/236/"}, {id: "257", url: "/documents/oe1bu9454/257/"}, {id: "242", url: "/documents/oe1bu9454/242/"}, {id: "244", url: "/documents/oe1bu9454/244/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "247", url: "/documents/oe1bu9454/247/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "251", url: "/documents/oe1bu9454/251/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "8", url: "/documents/oe1bu9454/8/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "258", url: "/documents/oe1bu9454/258/"}, {id: "259", url: "/documents/oe1bu9454/259/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "261", url: "/documents/oe1bu9454/261/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "263", url: "/documents/oe1bu9454/263/"}, {id: "281", url: "/documents/oe1bu9454/281/"}, {id: "264", url: "/documents/oe1bu9454/264/"}, {id: "265a", url: "/documents/oe1bu9454/265a/"}, {id: "268", url: "/documents/oe1bu9454/268/"}, {id: "269a", url: "/documents/oe1bu9454/269a/"}, {id: "1", url: "/documents/oe1bu9454/1/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "3", url: "/documents/oe1bu9454/3/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "1a", url: "/documents/oe1bu9454/1a/"}, {id: "271", url: "/documents/oe1bu9454/271/"}, {id: "272", url: "/documents/oe1bu9454/272/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "15", url: "/documents/oe1bu9454/15/"}, {id: "13", url: "/documents/oe1bu9454/13/"}, {id: "14", url: "/documents/oe1bu9454/14/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "12", url: "/documents/oe1bu9454/12/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "11", url: "/documents/oe1bu9454/11/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "278", url: "/documents/oe1bu9454/278/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "280", url: "/documents/oe1bu9454/280/"}, {id: "282", url: "/documents/oe1bu9454/282/"}, {id: "286", url: "/documents/oe1bu9454/286/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "289", url: "/documents/oe1bu9454/289/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "294", url: "/documents/oe1bu9454/294/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
 - slug: "oppurg"
   name: "Oppurg"
   count: 66
+  lat: 50.71087
+  lon: 11.65296
   letters: [{id: "136", url: "/documents/oe1bu9454/136/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "62", url: "/documents/oe1bu9454/62/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "219", url: "/documents/oe1bu9454/219/"}, {id: "220", url: "/documents/oe1bu9454/220/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "236", url: "/documents/oe1bu9454/236/"}, {id: "257", url: "/documents/oe1bu9454/257/"}, {id: "242", url: "/documents/oe1bu9454/242/"}, {id: "244", url: "/documents/oe1bu9454/244/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "247", url: "/documents/oe1bu9454/247/"}, {id: "248", url: "/documents/oe1bu9454/248/"}, {id: "249", url: "/documents/oe1bu9454/249/"}, {id: "251", url: "/documents/oe1bu9454/251/"}, {id: "253", url: "/documents/oe1bu9454/253/"}, {id: "255", url: "/documents/oe1bu9454/255/"}, {id: "8", url: "/documents/oe1bu9454/8/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "258", url: "/documents/oe1bu9454/258/"}, {id: "259", url: "/documents/oe1bu9454/259/"}, {id: "260", url: "/documents/oe1bu9454/260/"}, {id: "261", url: "/documents/oe1bu9454/261/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "263", url: "/documents/oe1bu9454/263/"}, {id: "281", url: "/documents/oe1bu9454/281/"}, {id: "264", url: "/documents/oe1bu9454/264/"}, {id: "265a", url: "/documents/oe1bu9454/265a/"}, {id: "268", url: "/documents/oe1bu9454/268/"}, {id: "269a", url: "/documents/oe1bu9454/269a/"}, {id: "1", url: "/documents/oe1bu9454/1/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "3", url: "/documents/oe1bu9454/3/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "1a", url: "/documents/oe1bu9454/1a/"}, {id: "271", url: "/documents/oe1bu9454/271/"}, {id: "272", url: "/documents/oe1bu9454/272/"}, {id: "273", url: "/documents/oe1bu9454/273/"}, {id: "15", url: "/documents/oe1bu9454/15/"}, {id: "13", url: "/documents/oe1bu9454/13/"}, {id: "14", url: "/documents/oe1bu9454/14/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "12", url: "/documents/oe1bu9454/12/"}, {id: "276", url: "/documents/oe1bu9454/276/"}, {id: "11", url: "/documents/oe1bu9454/11/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "278", url: "/documents/oe1bu9454/278/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "280", url: "/documents/oe1bu9454/280/"}, {id: "282", url: "/documents/oe1bu9454/282/"}, {id: "286", url: "/documents/oe1bu9454/286/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "289", url: "/documents/oe1bu9454/289/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "290", url: "/documents/oe1bu9454/290/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "294", url: "/documents/oe1bu9454/294/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
 - slug: "betsche"
   name: "Pszczew (Betsche)"
   count: 61
+  lat: 52.47924
+  lon: 15.77834
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "11", url: "/documents/oe1bu14525/11/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "84", url: "/documents/oe1bu9454/84/"}, {id: "30", url: "/documents/oe1bu14526/30/"}, {id: "3", url: "/documents/oe1bu14526/3/"}, {id: "101", url: "/documents/oe1bu9454/101/"}, {id: "109", url: "/documents/oe1bu9454/109/"}, {id: "37", url: "/documents/oe1bu14525/37/"}, {id: "38", url: "/documents/oe1bu14525/38/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "27", url: "/documents/oe1bu14525/27/"}, {id: "33", url: "/documents/oe1bu14525/33/"}, {id: "36", url: "/documents/oe1bu14525/36/"}, {id: "35", url: "/documents/oe1bu14525/35/"}, {id: "34", url: "/documents/oe1bu14525/34/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "26", url: "/documents/oe1bu14525/26/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "130", url: "/documents/oe1bu9454/130/"}, {id: "132", url: "/documents/oe1bu9454/132/"}, {id: "133", url: "/documents/oe1bu9454/133/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "139", url: "/documents/oe1bu9454/139/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "141", url: "/documents/oe1bu9454/141/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "158", url: "/documents/oe1bu9454/158/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "24", url: "/documents/oe1bu14526/24/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "180", url: "/documents/oe1bu9454/180/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "226", url: "/documents/oe1bu9454/226/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "285", url: "/documents/oe1bu9454/285/"}, {id: "295", url: "/documents/oe1bu9454/295/"}, {id: "297", url: "/documents/oe1bu9454/297/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "300", url: "/documents/oe1bu9454/300/"}, {id: "299", url: "/documents/oe1bu9454/299/"}, {id: "5", url: "/documents/oe1bu9454/5/"}, {id: "301", url: "/documents/oe1bu9454/301/"}]
 - slug: "olesnica"
   name: "Oleśnica (Olesnice)"
   count: 51
+  lat: 52.16728
+  lon: 17.92293
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "125", url: "/documents/oe1bu9454/125/"}, {id: "126", url: "/documents/oe1bu9454/126/"}, {id: "128", url: "/documents/oe1bu9454/128/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "147", url: "/documents/oe1bu9454/147/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "152", url: "/documents/oe1bu9454/152/"}, {id: "160", url: "/documents/oe1bu9454/160/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "1", url: "/documents/ihagrrep7cnr3705/1/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "192", url: "/documents/oe1bu9454/192/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "47", url: "/documents/oe1bu9454/47/"}, {id: "48", url: "/documents/oe1bu9454/48/"}, {id: "302", url: "/documents/oe1bu9454/302/"}, {id: "207", url: "/documents/oe1bu9454/207/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "216", url: "/documents/oe1bu9454/216/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "229", url: "/documents/oe1bu9454/229/"}, {id: "72a", url: "/documents/oe1bu9454/72a/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "72f", url: "/documents/oe1bu9454/72f/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "wrabczyn"
   name: "Wrąbczyn"
   count: 32
+  lat: 52.17067
+  lon: 17.85827
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "147", url: "/documents/oe1bu9454/147/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "190", url: "/documents/oe1bu9454/190/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "216", url: "/documents/oe1bu9454/216/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "229", url: "/documents/oe1bu9454/229/"}, {id: "72a", url: "/documents/oe1bu9454/72a/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "72f", url: "/documents/oe1bu9454/72f/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "17", url: "/documents/oe1bu9454/17/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "szetlewek"
   name: "Szetlewek"
   count: 30
+  lat: 52.11667
+  lon: 18.0
   letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "25", url: "/documents/oe1bu14526/25/"}, {id: "42", url: "/documents/oe1bu14525/42/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "27", url: "/documents/oe1bu14526/27/"}, {id: "26", url: "/documents/oe1bu14526/26/"}, {id: "2", url: "/documents/oe1bu14525/2/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "23", url: "/documents/oe1bu14525/23/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "156", url: "/documents/oe1bu9454/156/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "192", url: "/documents/oe1bu9454/192/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "288", url: "/documents/oe1bu9454/288/"}, {id: "19", url: "/documents/iiihamdaiiinr12765/19/"}, {id: "20", url: "/documents/iiihamdaiiinr12765/20/"}, {id: "21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "23", url: "/documents/iiihamdaiiinr12765/23/"}]
 - slug: "swiecia"
   name: "Swięcia"
   count: 28
+  lat: 52.13672
+  lon: 18.14594
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "20", url: "/documents/oe1bu14526/20/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "147", url: "/documents/oe1bu9454/147/"}, {id: "148", url: "/documents/oe1bu9454/148/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "152", url: "/documents/oe1bu9454/152/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "192", url: "/documents/oe1bu9454/192/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "koschentin"
   name: "Koszęcin (Koschentin)"
   count: 26
+  lat: 50.63592
+  lon: 18.84133
   letters: [{id: "131", url: "/documents/oe1bu9454/131/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "189", url: "/documents/oe1bu9454/189/"}, {id: "192", url: "/documents/oe1bu9454/192/"}, {id: "25", url: "/documents/oe1bu9454/25/"}, {id: "62", url: "/documents/oe1bu9454/62/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "204", url: "/documents/oe1bu9454/204/"}, {id: "205", url: "/documents/oe1bu9454/205/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "220", url: "/documents/oe1bu9454/220/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "223", url: "/documents/oe1bu9454/223/"}, {id: "235", url: "/documents/oe1bu9454/235/"}, {id: "242", url: "/documents/oe1bu9454/242/"}, {id: "246", url: "/documents/oe1bu9454/246/"}, {id: "254", url: "/documents/oe1bu9454/254/"}, {id: "264", url: "/documents/oe1bu9454/264/"}, {id: "267", url: "/documents/oe1bu9454/267/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "13", url: "/documents/oe1bu9454/13/"}, {id: "280", url: "/documents/oe1bu9454/280/"}]
 - slug: "kopojno"
   name: "Kopojno (Kopoyno)"
   count: 23
+  lat: 52.16667
+  lon: 17.98333
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "29", url: "/documents/oe1bu14525/29/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "146", url: "/documents/oe1bu9454/146/"}, {id: "9", url: "/documents/oe1bu14526/9/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "drzewce"
   name: "Drzewce"
   count: 22
+  lat: 52.14088
+  lon: 17.89138
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "29", url: "/documents/oe1bu14525/29/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "47", url: "/documents/oe1bu9454/47/"}, {id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "233", url: "/documents/oe1bu9454/233/"}]
 - slug: "kolno"
   name: "Kolno (Kulm)"
   count: 22
+  lat: 52.59492
+  lon: 15.95688
   letters: [{id: "13", url: "/documents/oe1bu14525/13/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "34", url: "/documents/oe1bu14525/34/"}, {id: "14", url: "/documents/oe1bu14525/14/"}, {id: "12", url: "/documents/oe1bu14525/12/"}, {id: "135", url: "/documents/oe1bu9454/135/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "138", url: "/documents/oe1bu9454/138/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "4", url: "/documents/oe1bu14526/4/"}, {id: "22", url: "/documents/oe1bu14526/22/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "242", url: "/documents/oe1bu9454/242/"}, {id: "275", url: "/documents/oe1bu9454/275/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "285", url: "/documents/oe1bu9454/285/"}, {id: "297", url: "/documents/oe1bu9454/297/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
 - slug: "kontop"
   name: "Konotop (Kontop)"
   count: 22
+  lat: 51.9313
+  lon: 15.90295
   letters: [{id: "129", url: "/documents/oe1bu9454/129/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "166", url: "/documents/oe1bu9454/166/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "188", url: "/documents/oe1bu9454/188/"}, {id: "25", url: "/documents/oe1bu9454/25/"}, {id: "26", url: "/documents/oe1bu9454/26/"}, {id: "35", url: "/documents/oe1bu9454/35/"}, {id: "38", url: "/documents/oe1bu9454/38/"}, {id: "42", url: "/documents/oe1bu9454/42/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "47", url: "/documents/oe1bu9454/47/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "54", url: "/documents/oe1bu9454/54/"}, {id: "55", url: "/documents/oe1bu9454/55/"}, {id: "57", url: "/documents/oe1bu9454/57/"}, {id: "58", url: "/documents/oe1bu9454/58/"}, {id: "59", url: "/documents/oe1bu9454/59/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "21", url: "/documents/oe1bu9454/21/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "218", url: "/documents/oe1bu9454/218/"}]
 - slug: "krotoszyn"
   name: "Krotoszyn"
   count: 21
+  lat: 51.69593
+  lon: 17.43742
   letters: [{id: "76", url: "/documents/oe1bu9454/76/"}, {id: "78", url: "/documents/oe1bu9454/78/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "81", url: "/documents/oe1bu9454/81/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "84", url: "/documents/oe1bu9454/84/"}, {id: "85", url: "/documents/oe1bu9454/85/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "88", url: "/documents/oe1bu9454/88/"}, {id: "89", url: "/documents/oe1bu9454/89/"}, {id: "91", url: "/documents/oe1bu9454/91/"}, {id: "94", url: "/documents/oe1bu9454/94/"}, {id: "95", url: "/documents/oe1bu9454/95/"}, {id: "97", url: "/documents/oe1bu9454/97/"}, {id: "96", url: "/documents/oe1bu9454/96/"}, {id: "99", url: "/documents/oe1bu9454/99/"}, {id: "102", url: "/documents/oe1bu9454/102/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "104", url: "/documents/oe1bu9454/104/"}, {id: "101", url: "/documents/oe1bu9454/101/"}]
 - slug: "polajewo"
   name: "Polajewo"
   count: 17
+  lat: 52.79965
+  lon: 16.73416
   letters: [{id: "76", url: "/documents/oe1bu9454/76/"}, {id: "78", url: "/documents/oe1bu9454/78/"}, {id: "81", url: "/documents/oe1bu9454/81/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "84", url: "/documents/oe1bu9454/84/"}, {id: "93", url: "/documents/oe1bu9454/93/"}, {id: "85", url: "/documents/oe1bu9454/85/"}, {id: "86", url: "/documents/oe1bu9454/86/"}, {id: "87", url: "/documents/oe1bu9454/87/"}, {id: "88", url: "/documents/oe1bu9454/88/"}, {id: "89", url: "/documents/oe1bu9454/89/"}, {id: "91", url: "/documents/oe1bu9454/91/"}, {id: "94", url: "/documents/oe1bu9454/94/"}, {id: "95", url: "/documents/oe1bu9454/95/"}, {id: "97", url: "/documents/oe1bu9454/97/"}, {id: "104", url: "/documents/oe1bu9454/104/"}, {id: "101", url: "/documents/oe1bu9454/101/"}]
 - slug: "schweinern"
   name: "Świniary (Schweinern)"
@@ -78,38 +112,56 @@
 - slug: "wieniec"
   name: "Wieniec (Wienietz)"
   count: 15
+  lat: 52.64936
+  lon: 18.92966
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "11", url: "/documents/oe1bu14525/11/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "103", url: "/documents/oe1bu9454/103/"}, {id: "41", url: "/documents/oe1bu14525/41/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "286", url: "/documents/oe1bu9454/286/"}]
 - slug: "skokum"
   name: "Skokum"
   count: 13
+  lat: 52.16188
+  lon: 17.95828
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "swiatniki"
   name: "Swiątniki"
   count: 12
+  lat: 52.15114
+  lon: 18.02724
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "gradzyn"
   name: "Grądzyń"
   count: 11
+  lat: 52.10934
+  lon: 17.82053
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "151", url: "/documents/oe1bu9454/151/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "32", url: "/documents/oe1bu9454/32/"}]
 - slug: "glazewo"
   name: "Głażewo (Gloszewo)"
   count: 11
+  lat: 52.53312
+  lon: 15.91815
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "30", url: "/documents/oe1bu14526/30/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "29", url: "/documents/oe1bu14526/29/"}]
 - slug: "stoki"
   name: "Stoki (Stocki)"
   count: 11
+  lat: 52.50677
+  lon: 15.81355
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "witow"
   name: "Witów (Wittow)"
   count: 11
+  lat: 51.71929
+  lon: 18.56303
   letters: [{id: "2", url: "/documents/oe1bu14526/2/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "21", url: "/documents/oe1bu14526/21/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "22", url: "/documents/oe1bu9454/22/"}, {id: "23", url: "/documents/oe1bu9454/23/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "19", url: "/documents/oe1bu9454/19/"}, {id: "1", url: "/documents/oe1bu14526/1/"}]
 - slug: "lowyn"
   name: "Łowyń (Lowin)"
   count: 11
+  lat: 52.50055
+  lon: 15.90871
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "swiechocin"
   name: "Świechocin (Schwiechodezin)"
   count: 11
+  lat: 52.48925
+  lon: 15.85405
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "kuligowo"
   name: "Kuligowo (Kulligowo)"
@@ -118,22 +170,32 @@
 - slug: "stolun"
   name: "Stołuń (Stalluhn)"
   count: 9
+  lat: 52.50803
+  lon: 15.69991
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}]
 - slug: "szarcz"
   name: "Szarcz (Schartzig)"
   count: 9
+  lat: 52.50576
+  lon: 15.75575
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}]
 - slug: "blizanow"
   name: "Blizanow"
   count: 7
+  lat: 51.90136
+  lon: 18.01374
   letters: [{id: "218", url: "/documents/oe1bu9454/218/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "19", url: "/documents/oe1bu9454/19/"}, {id: "266", url: "/documents/oe1bu9454/266/"}, {id: "295", url: "/documents/oe1bu9454/295/"}]
 - slug: "osiny"
   name: "Osiny"
   count: 7
+  lat: 52.12586
+  lon: 17.93077
   letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "4", url: "/documents/oe1bu14525/4/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "6", url: "/documents/oe1bu14526/6/"}]
 - slug: "silna"
   name: "Silna"
   count: 7
+  lat: 52.45615
+  lon: 15.84317
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "25", url: "/documents/oe1bu14525/25/"}]
 - slug: "wolica"
   name: "Wolica"
@@ -142,6 +204,8 @@
 - slug: "zielomysl"
   name: "Zielomyśl"
   count: 7
+  lat: 52.52867
+  lon: 15.77414
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "179", url: "/documents/oe1bu9454/179/"}]
 - slug: "batkowo"
   name: "Batkowo"
@@ -158,6 +222,8 @@
 - slug: "dormowo"
   name: "Dormowo"
   count: 4
+  lat: 52.52918
+  lon: 15.87532
   letters: [{id: "3", url: "/documents/oe1bu14526/3/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "25", url: "/documents/oe1bu14525/25/"}]
 - slug: "konty"
   name: "Konty"
@@ -166,10 +232,14 @@
 - slug: "sokolnik"
   name: "Amt Sokolnik"
   count: 3
+  lat: 51.30803
+  lon: 18.34148
   letters: [{id: "288", url: "/documents/oe1bu9454/288/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "5", url: "/documents/oe1bu9454/5/"}]
 - slug: "augustinow"
   name: "Augustinow"
   count: 3
+  lat: 52.13698
+  lon: 17.87681
   letters: [{id: "177", url: "/documents/oe1bu9454/177/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "47", url: "/documents/oe1bu9454/47/"}]
 - slug: "bischdorf"
   name: "Biskupice (Bischdorf)"
@@ -182,6 +252,8 @@
 - slug: "schurgast"
   name: "Skorogoszcz (Schurgast)"
   count: 3
+  lat: 50.7603
+  lon: 17.68005
   letters: [{id: "218", url: "/documents/oe1bu9454/218/"}, {id: "220", url: "/documents/oe1bu9454/220/"}, {id: "221", url: "/documents/oe1bu9454/221/"}]
 - slug: "szedlemin"
   name: "Szedlemin"
@@ -190,18 +262,26 @@
 - slug: "boronow"
   name: "Boronów (Boronow)"
   count: 2
+  lat: 50.67386
+  lon: 18.90383
   letters: [{id: "1", url: "/documents/oe1u199/1/"}, {id: "264", url: "/documents/oe1bu9454/264/"}]
 - slug: "cieszowa"
   name: "Cieszowa (Cieschowa)"
   count: 2
+  lat: 50.67122
+  lon: 18.83623
   letters: [{id: "1", url: "/documents/oe1u199/1/"}, {id: "264", url: "/documents/oe1bu9454/264/"}]
 - slug: "birawa"
   name: "Birawa (Byrawa)"
   count: 1
+  lat: 50.28106
+  lon: 18.24245
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]
 - slug: "bytkow"
   name: "Bytków (Byttkow)"
   count: 1
+  lat: 50.3045
+  lon: 19.00447
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]
 - slug: "klunowo"
   name: "Klunowo"
@@ -210,12 +290,18 @@
 - slug: "mollna"
   name: "Molna (Mollna)"
   count: 1
+  lat: 50.77716
+  lon: 18.62165
   letters: [{id: "64", url: "/documents/oe1bu9454/64/"}]
 - slug: "olszyna"
   name: "Olszyna (Olschin)"
   count: 1
+  lat: 50.71752
+  lon: 18.89075
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]
 - slug: "stara-kuznia"
   name: "Stara Kuźnia (Althammer)"
   count: 1
+  lat: 50.30065
+  lon: 18.34314
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]

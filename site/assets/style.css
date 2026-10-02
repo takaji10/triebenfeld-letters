@@ -400,6 +400,8 @@ img.scan {
 
 .person { max-width: var(--measure); padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
 .person h2 { margin: 0 0 .2rem; }
+.person h2 .life { font-family: var(--sans); font-size: .8rem; font-weight: 400; color: var(--ink-faint); margin-left: .35rem; }
+.person .bio { margin: .25rem 0 .45rem; font-size: .95rem; color: var(--ink-soft); }
 .person .refs { font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
 .person .refs a { margin-right: .4rem; }
 

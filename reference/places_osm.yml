@@ -1,0 +1,720 @@
+# Where each place is, for the map links on the places page.
+#
+# Keyed by the name the site prints. Coordinates were looked up on
+# OpenStreetMap's search service (Nominatim) on 2026-10-02 from the query
+# given, and each result was read against what the documents say about the
+# place (its district, its neighbours). A place is listed only where that
+# identification is firm; a region, a country, a river and any place whose
+# identity is open has no entry and gets no link. `found` is what the search
+# returned, kept so a wrong match can be seen.
+
+"Altenburg":
+  lat: 50.98524
+  lon: 12.4341
+  query: "Altenburg, Thüringen, Deutschland"
+  found: "Altenburg, Altenburger Land, Thuringia, 04600, Germany"
+"Amt Sokolnik":
+  lat: 51.30803
+  lon: 18.34148
+  query: "Sokolniki, powiat wieruszowski, Polska"
+  found: "Sokolniki, gmina Sokolniki, Wieruszów County, Łódź Voivodeship, 98-420, Poland"
+"Ansbach":
+  lat: 49.28887
+  lon: 10.55977
+  query: "Ansbach, Deutschland"
+  found: "Ansbach, Bavaria, 91522, Germany"
+"Antibes":
+  lat: 43.58139
+  lon: 7.1237
+  query: "Antibes, France"
+  found: "Antibes, Grasse, Maritime Alps, Provence-Alpes-Côte d'Azur, Metropolitan France, France"
+"Augustinow":
+  lat: 52.13698
+  lon: 17.87681
+  query: "Augustynów, gmina Zagórów, Polska"
+  found: "Augustynów, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Bayreuth":
+  lat: 49.94463
+  lon: 11.57435
+  query: "Bayreuth, Deutschland"
+  found: "Bayreuth, Bavaria, Germany"
+"Berlin":
+  lat: 52.51739
+  lon: 13.39513
+  query: "Berlin, Deutschland"
+  found: "Berlin, Germany"
+"Białobrzeg":
+  lat: 52.18025
+  lon: 17.78682
+  query: "Białobrzeg, gmina Pyzdry, Polska"
+  found: "Białobrzeg, gmina Pyzdry, Września County, Greater Poland Voivodeship, 62-311, Poland"
+"Birawa (Byrawa)":
+  lat: 50.28106
+  lon: 18.24245
+  query: "Bierawa, Polska"
+  found: "Bierawa, gmina Bierawa, Kędzierzyn-Koźle County, Opole Voivodeship, 47-240, Poland"
+"Blizanow":
+  lat: 51.90136
+  lon: 18.01374
+  query: "Blizanów, powiat kaliski, Polska"
+  found: "Blizanów, gmina Blizanów, Kalisz County, Greater Poland Voivodeship, 62-814, Poland"
+"Bojadła (Boyadel)":
+  lat: 51.95294
+  lon: 15.80951
+  query: "Bojadła, Polska"
+  found: "Bojadła, gmina Bojadła, Zielona Góra County, Lubusz Voivodeship, 66-130, Poland"
+"Boleslawice":
+  lat: 51.19839
+  lon: 18.1918
+  query: "Bolesławiec, powiat wieruszowski, Polska"
+  found: "Bolesławiec, gmina Bolesławiec, Wieruszów County, Łódź Voivodeship, Poland"
+"Bologna":
+  lat: 44.49382
+  lon: 11.34263
+  query: "Bologna, Italia"
+  found: "Bologna, Emilia-Romagna, Italy"
+"Boronów (Boronow)":
+  lat: 50.67386
+  lon: 18.90383
+  query: "Boronów, Polska"
+  found: "Boronów, gmina Boronów, Lubliniec County, Silesian Voivodeship, 42-283, Poland"
+"Brzeg (Brieg)":
+  lat: 50.85894
+  lon: 17.46396
+  query: "Brzeg, Polska"
+  found: "Brzeg, Brzeg County, Opole Voivodeship, Poland"
+"Brześć":
+  lat: 52.60482
+  lon: 18.90155
+  query: "Brześć Kujawski, Polska"
+  found: "Brześć Kujawski, gmina Brześć Kujawski, Włocławek County, Kuyavian-Pomeranian Voivodeship, Poland"
+"Brünn (Brno)":
+  lat: 49.19224
+  lon: 16.61134
+  query: "Brno, Česko"
+  found: "Brno, okres Brno-město, South Moravian Region, Czechia"
+"Bytków (Byttkow)":
+  lat: 50.3045
+  lon: 19.00447
+  query: "Bytków, Siemianowice Śląskie, Polska"
+  found: "Bytków, Siemianowice Śląskie, Metropolis GZM, Silesian Voivodeship, Poland"
+"Charlottenburg":
+  lat: 52.51575
+  lon: 13.30968
+  query: "Charlottenburg, Berlin, Deutschland"
+  found: "Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany"
+"Cieszowa (Cieschowa)":
+  lat: 50.67122
+  lon: 18.83623
+  query: "Cieszowa, gmina Koszęcin, Polska"
+  found: "Cieszowa, gmina Koszęcin, Lubliniec County, Silesian Voivodeship, 42-286, Poland"
+"Częstochowa (Czenstochau)":
+  lat: 50.809
+  lon: 19.12441
+  query: "Częstochowa, Polska"
+  found: "Częstochowa, Silesian Voivodeship, Poland"
+"Dolsk":
+  lat: 51.9866
+  lon: 17.06537
+  query: "Dolsk, Polska"
+  found: "Dolsk, gmina Dolsk, Śrem County, Greater Poland Voivodeship, 63-140, Poland"
+"Dormowo":
+  lat: 52.52918
+  lon: 15.87532
+  query: "Dormowo, gmina Międzychód, Polska"
+  found: "Dormowo, gmina Międzychód, Międzychód County, Greater Poland Voivodeship, 64-426, Poland"
+"Dresden":
+  lat: 51.04933
+  lon: 13.73814
+  query: "Dresden, Deutschland"
+  found: "Dresden, Saxony, Germany"
+"Drzewce":
+  lat: 52.14088
+  lon: 17.89138
+  query: "Drzewce, gmina Zagórów, Polska"
+  found: "Drzewce, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Emden":
+  lat: 53.36705
+  lon: 7.20583
+  query: "Emden, Deutschland"
+  found: "Emden, Lower Saxony, Germany"
+"Erfurt":
+  lat: 50.9778
+  lon: 11.02874
+  query: "Erfurt, Deutschland"
+  found: "Erfurt, Thuringia, Germany"
+"Frankfurt am Main":
+  lat: 50.11064
+  lon: 8.68209
+  query: "Frankfurt am Main, Deutschland"
+  found: "Frankfurt, Hesse, Germany"
+"Frankfurt an der Oder":
+  lat: 52.34123
+  lon: 14.54945
+  query: "Frankfurt (Oder), Deutschland"
+  found: "Frankfurt (Oder), Brandenburg, Germany"
+"Fürth":
+  lat: 49.4771
+  lon: 10.9887
+  query: "Fürth, Bayern, Deutschland"
+  found: "Fürth (district), Bavaria, Germany"
+"Graz":
+  lat: 47.07087
+  lon: 15.43828
+  query: "Graz, Österreich"
+  found: "Graz, Styria, Austria"
+"Grenoble":
+  lat: 45.18756
+  lon: 5.73578
+  query: "Grenoble, France"
+  found: "Grenoble, Isère, Auvergne-Rhône-Alpes, Metropolitan France, France"
+"Grądzyń":
+  lat: 52.10934
+  lon: 17.82053
+  query: "Grądzeń, gmina Zagórów, Polska"
+  found: "Grądzeń, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Głażewo (Gloszewo)":
+  lat: 52.53312
+  lon: 15.91815
+  query: "Głażewo, gmina Międzychód, Polska"
+  found: "Głażewo, gmina Międzychód, Międzychód County, Greater Poland Voivodeship, 64-426, Poland"
+"Głogów (Glogau)":
+  lat: 51.66342
+  lon: 16.08608
+  query: "Głogów, Polska"
+  found: "Głogów, Głogów County, Lower Silesian Voivodeship, 67-200, Poland"
+"Głubczyce (Leobschütz)":
+  lat: 50.20011
+  lon: 17.8302
+  query: "Głubczyce, Polska"
+  found: "Głubczyce, gmina Głubczyce, Głubczyce County, Opole Voivodeship, 48-100, Poland"
+"Havelberg":
+  lat: 52.82504
+  lon: 12.07419
+  query: "Havelberg, Deutschland"
+  found: "Havelberg, Stendal, Saxony-Anhalt, 39539, Germany"
+"Heidelberg":
+  lat: 49.40936
+  lon: 8.69472
+  query: "Heidelberg, Deutschland"
+  found: "Heidelberg, Baden-Württemberg, Germany"
+"Heilbronn":
+  lat: 49.14229
+  lon: 9.21866
+  query: "Heilbronn, Deutschland"
+  found: "Heilbronn, Baden-Württemberg, Germany"
+"Ingelfingen":
+  lat: 49.30144
+  lon: 9.65134
+  query: "Ingelfingen, Deutschland"
+  found: "Ingelfingen, VVG der Stadt Künzelsau, Hohenlohekreis, Baden-Württemberg, Germany"
+"Jena":
+  lat: 50.92817
+  lon: 11.58794
+  query: "Jena, Deutschland"
+  found: "Jena, Thuringia, Germany"
+"Kalisz (Kalisch)":
+  lat: 51.74729
+  lon: 18.07953
+  query: "Kalisz, Polska"
+  found: "Kalisz, Greater Poland Voivodeship, 62-800, Poland"
+"Kamionna (Kaemen)":
+  lat: 52.56486
+  lon: 15.95857
+  query: "Kamionna, gmina Międzychód, Polska"
+  found: "Kamionna, gmina Międzychód, Międzychód County, Greater Poland Voivodeship, 64-421, Poland"
+"Kargowa (Karge)":
+  lat: 52.07192
+  lon: 15.8648
+  query: "Kargowa, Polska"
+  found: "Kargowa, gmina Kargowa, Zielona Góra County, Lubusz Voivodeship, 66-120, Poland"
+"Kargowa (Unruhstadt)":
+  lat: 52.07192
+  lon: 15.8648
+  query: "Kargowa, Polska"
+  found: "Kargowa, gmina Kargowa, Zielona Góra County, Lubusz Voivodeship, 66-120, Poland"
+"Karlsruhe":
+  lat: 49.00687
+  lon: 8.40342
+  query: "Karlsruhe, Deutschland"
+  found: "Karlsruhe, Baden-Württemberg, Germany"
+"Kassel":
+  lat: 51.31578
+  lon: 9.49785
+  query: "Kassel, Deutschland"
+  found: "Kassel, Hesse, Germany"
+"Kiew":
+  lat: 50.45003
+  lon: 30.52414
+  query: "Kyiv, Ukraine"
+  found: "Kyiv, Ukraine"
+"Kirchberg":
+  lat: 49.20448
+  lon: 9.98173
+  query: "Kirchberg an der Jagst, Deutschland"
+  found: "Kirchberg an der Jagst, GVV Brettach/Jagst, Landkreis Schwäbisch Hall, Baden-Württemberg, 74592, Germany"
+"Koblenz":
+  lat: 50.35333
+  lon: 7.5944
+  query: "Koblenz, Deutschland"
+  found: "Koblenz, Rhineland-Palatinate, Germany"
+"Kolno (Kulm)":
+  lat: 52.59492
+  lon: 15.95688
+  query: "Kolno, gmina Międzychód, Polska"
+  found: "Kolno, gmina Międzychód, Międzychód County, Greater Poland Voivodeship, 64-400, Poland"
+"Konin":
+  lat: 52.2559
+  lon: 18.26787
+  query: "Konin, Polska"
+  found: "Konin, Greater Poland Voivodeship, Poland"
+"Konotop (Kontop)":
+  lat: 51.9313
+  lon: 15.90295
+  query: "Konotop, gmina Kolsko, Polska"
+  found: "Konotop, gmina Kolsko, Nowa Sól County, Lubusz Voivodeship, 67-416, Poland"
+"Kopojno (Kopoyno)":
+  lat: 52.16667
+  lon: 17.98333
+  query: "Kopojno, gmina Zagórów, Polska"
+  found: "Kopojno, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Koszęcin (Koschentin)":
+  lat: 50.63592
+  lon: 18.84133
+  query: "Koszęcin, Polska"
+  found: "Koszęcin, gmina Koszęcin, Lubliniec County, Silesian Voivodeship, 42-286, Poland"
+"Koźle (Cosel)":
+  lat: 50.33586
+  lon: 18.14442
+  query: "Koźle, Kędzierzyn-Koźle, Polska"
+  found: "Koźle, Kędzierzyn-Koźle, Kędzierzyn-Koźle County, Opole Voivodeship, 47-205, Poland"
+"Krosno Odrzańskie (Crossen)":
+  lat: 52.05364
+  lon: 15.09803
+  query: "Krosno Odrzańskie, Polska"
+  found: "Krosno Odrzańskie, gmina Krosno Odrzańskie, Krosno Odrzańskie County, Lubusz Voivodeship, Poland"
+"Krotoszyn":
+  lat: 51.69593
+  lon: 17.43742
+  query: "Krotoszyn, Polska"
+  found: "Krotoszyn, gmina Krotoszyn, Krotoszyn County, Greater Poland Voivodeship, 63-700, Poland"
+"Königsberg":
+  lat: 54.70465
+  lon: 20.45657
+  query: "Kaliningrad, Russia"
+  found: "Kaliningrad, Northwestern Federal District, Russia"
+"Kępno (Kempen)":
+  lat: 51.27903
+  lon: 17.98666
+  query: "Kępno, Polska"
+  found: "Kępno, gmina Kępno, Kępno County, Greater Poland Voivodeship, Poland"
+"Kłodzko (Glatz)":
+  lat: 50.43865
+  lon: 16.65519
+  query: "Kłodzko, Polska"
+  found: "Kłodzko, Kłodzko County, Lower Silesian Voivodeship, Poland"
+"Langenburg":
+  lat: 49.25319
+  lon: 9.84778
+  query: "Langenburg, Deutschland"
+  found: "Langenburg, VVG der Stadt Gerabronn, Landkreis Schwäbisch Hall, Baden-Württemberg, 74595, Germany"
+"Legnica (Liegnitz)":
+  lat: 51.20477
+  lon: 16.17468
+  query: "Legnica, Polska"
+  found: "Legnica, Lower Silesian Voivodeship, 59-220, Poland"
+"Lille":
+  lat: 50.63657
+  lon: 3.06353
+  query: "Lille, France"
+  found: "Lille, Nord, Hauts-de-France, Metropolitan France, France"
+"Lubliniec (Lublinitz)":
+  lat: 50.64322
+  lon: 18.68606
+  query: "Lubliniec, Polska"
+  found: "Lubliniec, Lubliniec County, Silesian Voivodeship, Poland"
+"Lyon":
+  lat: 45.75781
+  lon: 4.83201
+  query: "Lyon, France"
+  found: "Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, Metropolitan France, France"
+"Magdeburg":
+  lat: 52.13148
+  lon: 11.64008
+  query: "Magdeburg, Deutschland"
+  found: "Magdeburg, Saxony-Anhalt, Germany"
+"Mariantów (Marianton)":
+  lat: 52.13028
+  lon: 17.96694
+  query: "Mariantów, gmina Zagórów, Polska"
+  found: "Mariantów, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Melun":
+  lat: 48.53993
+  lon: 2.66082
+  query: "Melun, France"
+  found: "Melun, Seine-et-Marne, Ile-de-France, Metropolitan France, 77000, France"
+"Memel":
+  lat: 55.71275
+  lon: 21.13505
+  query: "Klaipėda, Lietuva"
+  found: "Klaipėda, Klaipėda City Municipality, Klaipėda County, Lithuania"
+"Międzybórz (Medzibor)":
+  lat: 51.39771
+  lon: 17.66502
+  query: "Międzybórz, Polska"
+  found: "Międzybórz, gmina Międzybórz, Oleśnica County, Lower Silesian Voivodeship, 56-413, Poland"
+"Międzyrzecz (Meseritz)":
+  lat: 52.44483
+  lon: 15.57864
+  query: "Międzyrzecz, Polska"
+  found: "Międzyrzecz, gmina Międzyrzecz, Międzyrzecz County, Lubusz Voivodeship, 66-300, Poland"
+"Molna (Mollna)":
+  lat: 50.77716
+  lon: 18.62165
+  query: "Molna, gmina Ciasna, Polska"
+  found: "Molna, gmina Ciasna, Lubliniec County, Silesian Voivodeship, 42-793, Poland"
+"Mysłowice":
+  lat: 50.20962
+  lon: 19.13217
+  query: "Mysłowice, Polska"
+  found: "Mysłowice, Metropolis GZM, Silesian Voivodeship, Poland"
+"Naumburg":
+  lat: 51.15256
+  lon: 11.80992
+  query: "Naumburg (Saale), Deutschland"
+  found: "Naumburg (Saale), Burgenlandkreis, Saxony-Anhalt, Germany"
+"Neuchâtel":
+  lat: 46.98958
+  lon: 6.92926
+  query: "Neuchâtel, Schweiz"
+  found: "Neuchâtel, Région Littoral, Neuchâtel, Switzerland"
+"Neuenstein":
+  lat: 49.20499
+  lon: 9.58132
+  query: "Neuenstein, Hohenlohekreis, Deutschland"
+  found: "Neuenstein, GVV Hohenloher Ebene, Hohenlohekreis, Baden-Württemberg, 74632, Germany"
+"Nowa Sól (Neusalz)":
+  lat: 51.80196
+  lon: 15.71756
+  query: "Nowa Sól, Polska"
+  found: "Nowa Sól, Nowa Sól County, Lubusz Voivodeship, Poland"
+"Nowawies":
+  lat: 52.14177
+  lon: 17.93662
+  query: "Nowa Wieś, gmina Zagórów, Polska"
+  found: "Nowa Wieś, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Nysa (Neisse)":
+  lat: 50.4738
+  lon: 17.33247
+  query: "Nysa, Polska"
+  found: "Nysa, gmina Nysa, Nysa County, Opole Voivodeship, Poland"
+"Ofen (Buda)":
+  lat: 47.49387
+  lon: 19.04176
+  query: "Buda, Budapest, Magyarország"
+  found: "Buda, Víziváros, 1st district, Budapest, 1013, Hungary"
+"Oleśnica (Olesnice)":
+  lat: 52.16728
+  lon: 17.92293
+  query: "Oleśnica, gmina Zagórów, Polska"
+  found: "Oleśnica, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Olszyna (Olschin)":
+  lat: 50.71752
+  lon: 18.89075
+  query: "Olszyna, gmina Herby, Polska"
+  found: "Olszyna, gmina Herby, Lubliniec County, Silesian Voivodeship, 42-284, Poland"
+"Opole (Oppeln)":
+  lat: 50.66682
+  lon: 17.92364
+  query: "Opole, Polska"
+  found: "Opole, Opole Voivodeship, Poland"
+"Oppurg":
+  lat: 50.71087
+  lon: 11.65296
+  query: "Oppurg, Deutschland"
+  found: "Oppurg, Saale-Orla-Kreis, Thuringia, Germany"
+"Osiny":
+  lat: 52.12586
+  lon: 17.93077
+  query: "Osiny, gmina Zagórów, Polska"
+  found: "Osiny, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Paris":
+  lat: 48.8535
+  lon: 2.34839
+  query: "Paris, France"
+  found: "Paris, Ile-de-France, Metropolitan France, France"
+"Polajewo":
+  lat: 52.79965
+  lon: 16.73416
+  query: "Połajewo, powiat czarnkowsko-trzcianecki, Polska"
+  found: "Połajewo, gmina Połajewo, Czarnków-Trzcianka County, Greater Poland Voivodeship, 64-710, Poland"
+"Potsdam":
+  lat: 52.40093
+  lon: 13.05914
+  query: "Potsdam, Deutschland"
+  found: "Potsdam, Brandenburg, Germany"
+"Poznań (Posen)":
+  lat: 52.40066
+  lon: 16.91973
+  query: "Poznań, Polska"
+  found: "Poznan, Poznań County, Greater Poland Voivodeship, Poland"
+"Prag":
+  lat: 50.08747
+  lon: 14.42125
+  query: "Praha, Česko"
+  found: "Prague, Czechia"
+"Pressburg (Bratislava)":
+  lat: 48.1435
+  lon: 17.10829
+  query: "Bratislava, Slovensko"
+  found: "Bratislava, Region of Bratislava, Slovakia"
+"Przybysław":
+  lat: 52.13194
+  lon: 17.9425
+  query: "Przybysław, gmina Zagórów, Polska"
+  found: "Przybysław, Łazy, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Pszczew (Betsche)":
+  lat: 52.47924
+  lon: 15.77834
+  query: "Pszczew, Polska"
+  found: "Pszczew, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Pyzdry (Peisern)":
+  lat: 52.16943
+  lon: 17.68713
+  query: "Pyzdry, Polska"
+  found: "Pyzdry, gmina Pyzdry, Września County, Greater Poland Voivodeship, Poland"
+"Rusinowice (Ruschinowitz)":
+  lat: 50.64594
+  lon: 18.76739
+  query: "Rusinowice, gmina Koszęcin, Polska"
+  found: "Rusinowice, gmina Koszęcin, Lubliniec County, Silesian Voivodeship, 42-700, Poland"
+"Silna":
+  lat: 52.45615
+  lon: 15.84317
+  query: "Silna, gmina Pszczew, Polska"
+  found: "Silna, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Skokum":
+  lat: 52.16188
+  lon: 17.95828
+  query: "Skokum, gmina Zagórów, Polska"
+  found: "Skokum, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Skorogoszcz (Schurgast)":
+  lat: 50.7603
+  lon: 17.68005
+  query: "Skorogoszcz, Polska"
+  found: "Skorogoszcz, gmina Lewin Brzeski, Brzeg County, Opole Voivodeship, 49-354, Poland"
+"St Petersburg":
+  lat: 59.9387
+  lon: 30.3162
+  query: "Saint Petersburg, Russia"
+  found: "Saint Petersburg, Northwestern Federal District, Russia"
+"St. Petersburg":
+  lat: 59.9387
+  lon: 30.3162
+  query: "Saint Petersburg, Russia"
+  found: "Saint Petersburg, Northwestern Federal District, Russia"
+"Stara Kuźnia (Althammer)":
+  lat: 50.30065
+  lon: 18.34314
+  query: "Stara Kuźnia, gmina Bierawa, Polska"
+  found: "Stara Kuźnia, gmina Bierawa, Kędzierzyn-Koźle County, Opole Voivodeship, 47-246, Poland"
+"Stoki (Stocki)":
+  lat: 52.50677
+  lon: 15.81355
+  query: "Stoki, gmina Pszczew, Polska"
+  found: "Stoki, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Stołuń (Stalluhn)":
+  lat: 52.50803
+  lon: 15.69991
+  query: "Stołuń, gmina Pszczew, Polska"
+  found: "Stołuń, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Strelitz":
+  lat: 53.33265
+  lon: 13.0943
+  query: "Strelitz-Alt, Neustrelitz, Deutschland"
+  found: "Strelitz-Alt, Neustrelitz, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17235, Germany"
+"Swiątniki":
+  lat: 52.15114
+  lon: 18.02724
+  query: "Świątniki, gmina Rzgów, powiat koniński, Polska"
+  found: "Świątniki, gmina Rzgów, Konin County, Greater Poland Voivodeship, 62-586, Poland"
+"Swięcia":
+  lat: 52.13672
+  lon: 18.14594
+  query: "Święcia, powiat koniński"
+  found: "Święcia, gmina Rychwał, Konin County, Greater Poland Voivodeship, 62-573, Poland"
+"Syców (Polnisch Wartenberg)":
+  lat: 51.30786
+  lon: 17.71981
+  query: "Syców, Polska"
+  found: "Syców, gmina Syców, Oleśnica County, Lower Silesian Voivodeship, 56-500, Poland"
+"Szarcz (Schartzig)":
+  lat: 52.50576
+  lon: 15.75575
+  query: "Szarcz, gmina Pszczew, Polska"
+  found: "Szarcz, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Szczecin (Stettin)":
+  lat: 53.42981
+  lon: 14.59287
+  query: "Szczecin, Polska"
+  found: "Szczecin, West Pomeranian Voivodeship, Poland"
+"Szczytniki (Scheitnig)":
+  lat: 51.11179
+  lon: 17.07452
+  query: "Szczytniki, Wrocław, Polska"
+  found: "Szczytniki, Zacisze, Zacisze-Zalesie-Szczytniki, Wrocław, Lower Silesian Voivodeship, 51-616, Poland"
+"Szetlewek":
+  lat: 52.11667
+  lon: 18.0
+  query: "Szetlewek, gmina Zagórów, Polska"
+  found: "Szetlewek, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Sławięcice (Schlawenschitz)":
+  lat: 50.35138
+  lon: 18.31382
+  query: "Sławięcice, Kędzierzyn-Koźle, Polska"
+  found: "Sławięcice, Spacerowa, Kędzierzyn-Koźle, Kędzierzyn-Koźle County, Opole Voivodeship, 47-230, Poland"
+"Słupca":
+  lat: 52.28729
+  lon: 17.87136
+  query: "Słupca, Polska"
+  found: "Słupca, Słupca County, Greater Poland Voivodeship, Poland"
+"Teplitz":
+  lat: 50.64066
+  lon: 13.82445
+  query: "Teplice, Česko"
+  found: "Teplice, okres Teplice, Ústí nad Labem Region, Czechia"
+"Toulon":
+  lat: 43.12573
+  lon: 5.93049
+  query: "Toulon, France"
+  found: "Toulon, Var, Provence-Alpes-Côte d'Azur, Metropolitan France, France"
+"Trąbczyn":
+  lat: 52.14318
+  lon: 17.95845
+  query: "Trąbczyn, gmina Zagórów, Polska"
+  found: "Trąbczyn, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Ujazd (Ujest)":
+  lat: 50.38925
+  lon: 18.35045
+  query: "Ujazd, powiat strzelecki, Polska"
+  found: "Ujazd, gmina Ujazd, Strzelce County, Opole Voivodeship, Poland"
+"Ulm":
+  lat: 48.3985
+  lon: 9.99125
+  query: "Ulm, Deutschland"
+  found: "Ulm, Baden-Württemberg, Germany"
+"Warszawa (Warschau)":
+  lat: 52.23337
+  lon: 21.07115
+  query: "Warszawa, Polska"
+  found: "Warsaw, Masovian Voivodeship, Poland"
+"Weimar":
+  lat: 50.97933
+  lon: 11.32979
+  query: "Weimar, Deutschland"
+  found: "Weimar, Thuringia, Germany"
+"Weißenfels":
+  lat: 51.19998
+  lon: 11.96679
+  query: "Weißenfels, Deutschland"
+  found: "Weißenfels, Burgenlandkreis, Saxony-Anhalt, Germany"
+"Wieluń":
+  lat: 51.22045
+  lon: 18.5701
+  query: "Wieluń, Polska"
+  found: "Wieluń, gmina Wieluń, Wieluń County, Łódź Voivodeship, 98-300, Poland"
+"Wien":
+  lat: 48.20835
+  lon: 16.3725
+  query: "Wien, Österreich"
+  found: "Vienna, Austria"
+"Wieniec (Wienietz)":
+  lat: 52.64936
+  lon: 18.92966
+  query: "Wieniec, gmina Brześć Kujawski, Polska"
+  found: "Wieniec, gmina Brześć Kujawski, Włocławek County, Kuyavian-Pomeranian Voivodeship, 87-814, Poland"
+"Wieruszów":
+  lat: 51.29516
+  lon: 18.15106
+  query: "Wieruszów, Polska"
+  found: "Wieruszów, gmina Wieruszów, Wieruszów County, Łódź Voivodeship, Poland"
+"Witów (Wittow)":
+  lat: 51.71929
+  lon: 18.56303
+  query: "Witów, gmina Warta, Polska"
+  found: "Witów, gmina Warta, Sieradz County, Łódź Voivodeship, 98-290, Poland"
+"Wołczyn (Konstadt)":
+  lat: 51.01903
+  lon: 18.0496
+  query: "Wołczyn, Polska"
+  found: "Wołczyn, gmina Wołczyn, Kluczbork County, Opole Voivodeship, Poland"
+"Wrocław (Breslau)":
+  lat: 51.12631
+  lon: 16.9782
+  query: "Wrocław, Polska"
+  found: "Wrocław, Lower Silesian Voivodeship, Poland"
+"Wrąbczyn":
+  lat: 52.17067
+  lon: 17.85827
+  query: "Wrąbczyn, gmina Zagórów, Polska"
+  found: "Wrąbczyn, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Zagórów (Zagorowo)":
+  lat: 52.16899
+  lon: 17.90016
+  query: "Zagórów, powiat słupecki, Polska"
+  found: "Zagórów, gmina Zagórów, Słupca County, Greater Poland Voivodeship, Poland"
+"Zielomyśl":
+  lat: 52.52867
+  lon: 15.77414
+  query: "Zielomyśl, gmina Pszczew, Polska"
+  found: "Zielomyśl, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Zielona Góra (Grüneberg)":
+  lat: 51.93838
+  lon: 15.50504
+  query: "Zielona Góra, Polska"
+  found: "Zielona Góra, Lubusz Voivodeship, Poland"
+"Ząbkowice Śląskie (Frankenstein)":
+  lat: 50.58927
+  lon: 16.81115
+  query: "Ząbkowice Śląskie, Polska"
+  found: "Ząbkowice Śląskie, gmina Ząbkowice Śląskie, Ząbkowice Śląskie County, Lower Silesian Voivodeship, Poland"
+"Öhringen":
+  lat: 49.2005
+  lon: 9.50244
+  query: "Öhringen, Deutschland"
+  found: "Öhringen, VVG der Stadt Öhringen, Hohenlohekreis, Baden-Württemberg, 74613, Germany"
+"Łazy":
+  lat: 52.12562
+  lon: 17.94747
+  query: "Łazy, gmina Zagórów, Polska"
+  found: "Łazy, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Łosiów (Lohsen)":
+  lat: 50.79052
+  lon: 17.5664
+  query: "Łosiów, Polska"
+  found: "Łosiów, gmina Lewin Brzeski, Brzeg County, Opole Voivodeship, 49-330, Poland"
+"Łowyń (Lowin)":
+  lat: 52.50055
+  lon: 15.90871
+  query: "Łowyń, gmina Międzychód, Polska"
+  found: "Łowyń, gmina Międzychód, Międzychód County, Greater Poland Voivodeship, 64-426, Poland"
+"Łukom":
+  lat: 52.13301
+  lon: 17.84485
+  query: "Łukom, gmina Zagórów, Polska"
+  found: "Łukom, gmina Zagórów, Słupca County, Greater Poland Voivodeship, 62-410, Poland"
+"Łęczyca (Lenschitz)":
+  lat: 52.05939
+  lon: 19.20164
+  query: "Łęczyca, Polska"
+  found: "Łęczyca, Łęczyca County, Łódź Voivodeship, Poland"
+"Świechocin (Schwiechodezin)":
+  lat: 52.48925
+  lon: 15.85405
+  query: "Świechocin, gmina Pszczew, Polska"
+  found: "Świechocin, gmina Pszczew, Międzyrzecz County, Lubusz Voivodeship, 66-330, Poland"
+"Żagań (Sagan)":
+  lat: 51.61532
+  lon: 15.30077
+  query: "Żagań, Polska"
+  found: "Żagań, Żagań County, Lubusz Voivodeship, 68-100, Poland"

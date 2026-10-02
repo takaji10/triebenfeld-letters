@@ -216,6 +216,8 @@ en:
   sources_span: Span
   sources_browse: Browse its documents
   sources_read: Read about this holding
+  badge_supplied: "[supplied]"
+  map_link: Map (OpenStreetMap)
   unit_tab_about: About this holding
   unit_tab_documents: Documents
   unit_tab_prepared: How it was prepared
@@ -464,6 +466,8 @@ de:
   sources_span: Zeitraum
   sources_browse: Dokumente durchsuchen
   sources_read: Mehr über diesen Bestand
+  badge_supplied: "[ergänzt]"
+  map_link: Karte (OpenStreetMap)
   unit_tab_about: Über diesen Bestand
   unit_tab_documents: Dokumente
   unit_tab_prepared: Wie er bearbeitet wurde

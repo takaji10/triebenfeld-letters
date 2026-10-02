@@ -40,7 +40,9 @@ and the three fields the machine cannot infer:
   document with `<!-- context -->`. `check_unit_text.py` (run by
   `regenerate.py`) fails on a year or a sum the cited documents do not have.
   `about_de.md` and `process_de.md` are used on the German page where they
-  exist; until then it shows the English and says so. Rules for the prose are
+  exist; until then it shows the English and says so. A relation note or a
+  date basis written in `rulings.yml` is English; its German goes in
+  `reference/site_notes_de.yml`, keyed by the English text. Rules for the prose are
   in `HOUSE_STYLE.md`.
 - **`translation_note`** — facts about the source that change how it must be
   read, not instructions about style. Latin tags that belong to the legal

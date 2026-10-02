@@ -6,41 +6,41 @@ permalink: "/de/quellen/ihagrrep7cnr3705/"
 alt_url: "/sources/ihagrrep7cnr3705/"
 has_about: true
 has_process: true
-about_lang: en
-process_lang: en
+about_lang: de
+process_lang: de
 ---
-A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the estate of Oleśnica, which Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818) had let in hereditary lease. The file contains one document, a petition to the King dated 18 September 1805, on seventeen openings. <!-- context -->
+Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft das Gut Oleśnica, das Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818) in Erbpacht gegeben hatte. Die Akte enthält ein Dokument, eine Bittschrift an den König vom 18. September 1805, auf siebzehn Doppelseiten. <!-- context -->
 
-### Historical background
+### Historischer Hintergrund
 
-Hohenlohe-Ingelfingen held the lordships of Trąbczyn and Zagórów in South Prussia, the province formed from Prussia's share of the partitions of Poland, by a royal grant of 1796. They were managed by his general agent, Peter Friedrich von Triebenfeld, who let parts of them in hereditary lease. Under such a lease the lessee paid a sum on entry and a fixed annual rent, and held the land heritably. <!-- context -->
+Hohenlohe-Ingelfingen besaß die Herrschaften Trąbczyn und Zagórów in Südpreußen, der Provinz, die aus dem preußischen Anteil an den Teilungen Polens gebildet worden war, durch königliche Verleihung von 1796. Verwaltet wurden sie von seinem Generalbevollmächtigten Peter Friedrich von Triebenfeld, der Teile davon in Erbpacht gab. Bei einer solchen Pacht zahlte der Pächter ein Einstandsgeld und einen festen jährlichen Zins und besaß das Land erblich. <!-- context -->
 
-### Contents
+### Inhalt
 
-The petition is written in the name of Hohenlohe-Ingelfingen and signed by Triebenfeld as his general agent <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. It asks the King to order the government at Kalisz to place Oleśnica under sequestration, that is, under administration by the court <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. According to the petition, the estate had been let to Giese, Bagans and Gietzinger for 20,000 Rthl entry money. The lessees paid 10,000 Rthl, taken from their sub-lessees, and since then had paid neither rent nor taxes and had sold parts of the estate, while the Chamber had not confirmed the contract <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. The government at Kalisz had refused sequestration in resolutions of 13 and 20 August. The petition disputes both from the Prussian general code, asks that the files be called in, and offers security <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>.
+Die Bittschrift ist im Namen Hohenlohe-Ingelfingens abgefasst und von Triebenfeld als dessen Generalbevollmächtigtem unterzeichnet <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Sie bittet den König, der Regierung in Kalisz zu befehlen, Oleśnica unter Sequestration zu stellen, das heißt unter gerichtliche Verwaltung <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Nach der Bittschrift war das Gut an Giese, Bagans und Gietzinger gegen 20.000 Rthl Einstandsgeld verpachtet worden. Die Pächter zahlten 10.000 Rthl, die von ihren Unterpächtern stammten, und haben seither weder Pacht noch Abgaben gezahlt und Teile des Gutes verkauft, während die Kammer den Vertrag nicht bestätigte <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>. Die Regierung in Kalisz hatte die Sequestration in Bescheiden vom 13. und 20. August abgelehnt. Die Bittschrift bestreitet beide aus dem Allgemeinen Landrecht, bittet, die Akten einzufordern, und bietet Sicherheit an <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
+### Form und Sprache
 
-A fair copy in German. The letters A to H in its margin refer to enclosures, which are not in the file. The file contains no reply to the petition. <!-- context -->
+Eine Reinschrift in deutscher Sprache. Die Buchstaben A bis H am Rand verweisen auf Beilagen, die der Akte nicht beiliegen. Die Akte enthält keine Antwort auf die Bittschrift. <!-- context -->
 
-### Related holdings
+### Verwandte Bestände
 
-Letters of Triebenfeld to Hohenlohe-Ingelfingen from the same years: <a href="{{ '/de/quellen/oe1bu9454/' | relative_url }}">Oe 1 Bü 9454</a>. Contracts of sale and hereditary lease for the South Prussian estates: <a href="{{ '/de/quellen/oe1bu14526/' | relative_url }}">Oe 1 Bü 14526</a>. <!-- context -->
+Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: <a href="{{ '/de/quellen/oe1bu9454/' | relative_url }}">Oe 1 Bü 9454</a>. Kauf- und Erbpachtverträge über die südpreußischen Güter: <a href="{{ '/de/quellen/oe1bu14526/' | relative_url }}">Oe 1 Bü 14526</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
+### Aufnahmen
 
-The archive photographed the file as eighteen images: a title page and seventeen openings of two facing pages. The openings were not cut, because the transcription treats each opening as one piece. A page of the edition is therefore one opening.
+Das Archiv hat die Akte in achtzehn Aufnahmen fotografiert: ein Titelblatt und siebzehn Doppelseiten. Die Doppelseiten wurden nicht geteilt, weil die Transkription jede als ein Stück behandelt. Eine Seite der Edition ist daher eine Doppelseite.
 
-### Transcription
+### Transkription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each scan. It was not made by a trained reader of old handwriting.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Er stammt nicht von einer in alten Handschriften geschulten Person.
 
-### Corrections
+### Korrekturen
 
-An AI model (Claude) proposed corrections to the transcription. A word was changed only where an independent witness supported the change, such as the same word spelled out elsewhere in the petition or a fixed formula. Each change is logged with its reason. One of them is the closing formula, which was restored from the form Triebenfeld uses in his other letters; the English was edited to match. Words that remain doubtful were left as transcribed.
+Ein KI-Modell (Claude) schlug Korrekturen der Transkription vor. Ein Wort wurde nur geändert, wo ein unabhängiger Beleg die Änderung stützte, etwa dasselbe Wort an anderer Stelle der Bittschrift ausgeschrieben oder eine feste Formel. Jede Änderung ist mit ihrem Grund verzeichnet. Eine davon betrifft die Schlussformel, die nach der Form wiederhergestellt wurde, die Triebenfeld in seinen anderen Briefen gebraucht; das Englische wurde entsprechend angepasst. Wörter, die zweifelhaft bleiben, stehen wie transkribiert.
 
-### Summary and translation
+### Zusammenfassung und Übersetzung
 
-The model read the document whole and wrote a German summary. A second, separate run of the model checked the summary against the text. It removed the lessees' first names, which are known from another holding and not from this petition. The English summary is a translation of the checked German one. The model also translated the document. Three corrections it proposed during translation rested on sense alone and were not applied.
+Das Modell las das Dokument ganz und schrieb eine deutsche Zusammenfassung. Ein zweiter, getrennter Durchlauf des Modells prüfte die Zusammenfassung am Text. Er strich die Vornamen der Pächter, die aus einem anderen Bestand bekannt sind und nicht aus dieser Bittschrift. Die englische Zusammenfassung ist eine Übersetzung der geprüften deutschen. Das Modell übersetzte auch das Dokument. Drei Korrekturen, die es bei der Übersetzung vorschlug, beruhten allein auf dem Sinn und wurden nicht übernommen.

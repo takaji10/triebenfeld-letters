@@ -17,7 +17,14 @@
 {% for p in sorted %}
   <div class="person" id="{{ p.slug }}"
        data-name="{{ p.name | escape }}" data-count="{{ p.count }}">
-    <h2>{{ p.name }}</h2>
+    {%- assign p_life = p.life -%}
+    {%- assign p_bio = p.bio -%}
+    {%- if lang == 'de' -%}
+      {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
+      {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
+    {%- endif %}
+    <h2>{{ p.name }}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
+    {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
     <p class="refs">
       Appears in {{ p.letters.size }} document{% if p.letters.size != 1 %}s{% endif %}
       , {{ p.count }} mention{% if p.count != 1 %}s{% endif %}

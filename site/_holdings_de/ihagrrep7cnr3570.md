@@ -6,47 +6,47 @@ permalink: "/de/quellen/ihagrrep7cnr3570/"
 alt_url: "/sources/ihagrrep7cnr3570/"
 has_about: true
 has_process: true
-about_lang: en
-process_lang: en
+about_lang: de
+process_lang: de
 ---
-A file of the Prussian central administration for South Prussia, kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. It concerns the charters of 9 August 1796 by which Friedrich Wilhelm II, King of Prussia, granted confiscated and vacant estates in South Prussia to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen (1746-1818), a Prussian general, and to six officers. The edition treats the file as one document of 22 pages, of which twelve are not transcribed. <!-- context -->
+Eine Akte der preußischen Zentralverwaltung für Südpreußen im Geheimen Staatsarchiv Preußischer Kulturbesitz, Berlin. Sie betrifft die Urkunden vom 9. August 1796, mit denen Friedrich Wilhelm II., König von Preußen, konfiszierte und erledigte Güter in Südpreußen an Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen (1746-1818), einen preußischen General, und an sechs Offiziere verlieh. Die Edition behandelt die Akte als ein Dokument von 22 Seiten, von denen zwölf nicht transkribiert sind. <!-- context -->
 
-### Historical background
+### Historischer Hintergrund
 
-South Prussia was the province formed from Prussia's share of the second and third partitions of Poland. After the uprising of 1794 the crown confiscated the estates of landowners who had taken part in it. In 1796 a number of these estates, with others that had fallen vacant, were granted to officers and officials. The grants were proposed by Count Hoym, the minister responsible for Silesia and South Prussia. <!-- context -->
+Südpreußen war die Provinz, die aus dem preußischen Anteil an der zweiten und dritten Teilung Polens gebildet worden war. Nach dem Aufstand von 1794 konfiszierte die Krone die Güter der daran beteiligten Grundbesitzer. 1796 wurde eine Reihe dieser Güter, zusammen mit anderen, die erledigt waren, an Offiziere und Beamte verliehen. Vorgeschlagen wurden die Verleihungen von Graf Hoym, dem für Schlesien und Südpreußen zuständigen Minister. <!-- context -->
 
-### Contents
+### Inhalt
 
-The file contains, in order: a letter of Hoym of 30 July 1796 asking that the charters be made out and that each include the clause "cum appertinentia"; a copy of his report to the King of 14 July proposing the grants; a copy of the cabinet order of 23 July approving them; a covering letter to Hoym of 9 August; the report presenting the charters to the King; the draft of the charter for Hohenlohe-Ingelfingen; and a letter of Hoym of 20 August returning the charters with his signature <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>.
+Die Akte enthält der Reihe nach: ein Schreiben Hoyms vom 30. Juli 1796 mit der Bitte, die Urkunden auszufertigen und in jede die Klausel „cum appertinentia“ aufzunehmen; eine Abschrift seines Berichts an den König vom 14. Juli mit dem Vorschlag der Verleihungen; eine Abschrift der Kabinettsorder vom 23. Juli, die sie genehmigt; ein Begleitschreiben an Hoym vom 9. August; den Bericht, mit dem die Urkunden dem König vorgelegt wurden; den Entwurf der Urkunde für Hohenlohe-Ingelfingen; und ein Schreiben Hoyms vom 20. August, mit dem er die Urkunden mit seiner Unterschrift zurücksendet <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>.
 
-Hoym's report proposes for Hohenlohe-Ingelfingen the estates confiscated from Anton von Prusimski: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny, the Trąbczyn Hauland and Brzyce <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>. The six officers who received other estates are von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff and von Larisch <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>.
+Hoyms Bericht schlägt für Hohenlohe-Ingelfingen die Güter vor, die Anton von Prusimski konfisziert worden waren: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Alt und Neu Laski, Osiny, das Trąbczyner Hauland und Brzyce <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>. Die sechs Offiziere, die andere Güter erhielten, sind von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff und von Larisch <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">1</a>]</span>.
 
-### Form and language
+### Form und Sprache
 
-The papers are drafts and copies in German. Registry notes at the front of the file record that it was called up in 1826 in connection with a claim by von Sanitz for his lost estates. Twelve pages, apparently the charters for the six officers, have not been transcribed and are shown as scans only. The draft charter and one of Hoym's letters are partly garbled in the transcription. <!-- context -->
+Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registraturvermerke am Anfang der Akte halten fest, dass sie 1826 im Zusammenhang mit einem Anspruch von Sanitz' wegen seiner verlorenen Güter herangezogen wurde. Zwölf Seiten, offenbar die Urkunden für die sechs Offiziere, sind nicht transkribiert und nur als Aufnahmen wiedergegeben. Der Urkundenentwurf und eines der Schreiben Hoyms sind in der Transkription teilweise verderbt. <!-- context -->
 
-### Related holdings
+### Verwandte Bestände
 
-The charter as issued to Hohenlohe-Ingelfingen, with its certified copies: <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Complaints of Prusimski's daughter against Hohenlohe-Ingelfingen, 1800 to 1802: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. The claim for compensation after the loss of the estates in 1807: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. <!-- context -->
+Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschriften: <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Beschwerden der Tochter Prusimskis gegen Hohenlohe-Ingelfingen, 1800 bis 1802: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Der Entschädigungsanspruch nach dem Verlust der Güter 1807: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. <!-- context -->
 
 <!--prepared-->
 
-### Scans
+### Aufnahmen
 
-The archive photographed the file as 28 images, most of them openings of two facing pages. Four images of blank or unrelated pages were left out on the editor's instruction. Thirteen openings with a blank left side were cut at the fold to the written side. An opening with writing on both sides was left whole and counts as one page.
+Das Archiv hat die Akte in 28 Aufnahmen fotografiert, die meisten davon Doppelseiten. Vier Aufnahmen leerer oder nicht zugehöriger Seiten wurden auf Weisung des Herausgebers weggelassen. Dreizehn Doppelseiten mit leerer linker Seite wurden im Falz auf die beschriebene Seite beschnitten. Eine Doppelseite, die auf beiden Seiten beschrieben ist, blieb ganz und zählt als eine Seite.
 
-### Transcription
+### Transkription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each scan. It was not made by a trained reader of old handwriting. Twelve pages were left untranscribed by the editor's choice, as repeating one form of charter for the other six recipients. Each of those pages carries the note "(not transcribed)" beside its scan.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Er stammt nicht von einer in alten Handschriften geschulten Person. Zwölf Seiten blieben nach Entscheidung des Herausgebers untranskribiert, weil sie ein Urkundenformular für die sechs anderen Empfänger wiederholen. Jede dieser Seiten trägt neben ihrer Aufnahme den Vermerk „(not transcribed)“.
 
-### Division into documents
+### Gliederung in Dokumente
 
-The editor treats the whole file as one document, dated by the charter of 9 August 1796. The registry notes and title at the front are shown before it.
+Der Herausgeber behandelt die ganze Akte als ein Dokument, datiert nach der Urkunde vom 9. August 1796. Die Registraturvermerke und der Titel am Anfang stehen davor.
 
-### Corrections
+### Korrekturen
 
-An AI model (Claude) proposed corrections to the transcription. A word was changed only where an independent witness supported the change: the same word or name written clearly elsewhere in the file, or the settled spelling of a place. Each change is logged with its reason. Words that remain doubtful were left as transcribed.
+Ein KI-Modell (Claude) schlug Korrekturen der Transkription vor. Ein Wort wurde nur geändert, wo ein unabhängiger Beleg die Änderung stützte: dasselbe Wort oder derselbe Name deutlich geschrieben an anderer Stelle der Akte oder die feststehende Schreibung eines Ortes. Jede Änderung ist mit ihrem Grund verzeichnet. Wörter, die zweifelhaft bleiben, stehen wie transkribiert.
 
-### Summary and translation
+### Zusammenfassung und Übersetzung
 
-The model read the document whole and wrote a German summary. A second, separate run of the model checked the summary against the text and found no statement the text does not support. The English summary is a translation of the checked German one. The model also translated the transcribed pages. Eight corrections it proposed during translation rested on sense alone and were not applied; the English marks those words as uncertain.
+Das Modell las das Dokument ganz und schrieb eine deutsche Zusammenfassung. Ein zweiter, getrennter Durchlauf des Modells prüfte die Zusammenfassung am Text und fand keine Aussage, die der Text nicht trägt. Die englische Zusammenfassung ist eine Übersetzung der geprüften deutschen. Das Modell übersetzte auch die transkribierten Seiten. Acht Korrekturen, die es bei der Übersetzung vorschlug, beruhten allein auf dem Sinn und wurden nicht übernommen; das Englische kennzeichnet diese Wörter als unsicher.

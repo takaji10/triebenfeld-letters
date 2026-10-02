@@ -116,7 +116,8 @@ def check(unit, recs, authority):
                     if not re.search(r'(?<!\d)' + re.escape(n) + r'(?!\d)', hay):
                         fails.append(f'{name}: {n} is not in the documents cited '
                                      f'[{m.group(1)}]: "...{" ".join(seg.split())[-70:]}"')
-                for w in NAME.findall(seg):
+                # German capitalises every noun, so this note only works in English.
+                for w in (NAME.findall(seg) if english else []):
                     f = fold(w.rstrip("'’s") if w.endswith(("'s", '’s')) else w)
                     if f in COMMON or f in hay_f or f in authority:
                         continue

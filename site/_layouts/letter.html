@@ -43,8 +43,13 @@ layout: default
       {%- endif %}
     </p>
     <h1>
-      {{ page.date_label }}
-      {% if page.date_source != 'signature' and page.date_iso %}<span class="badge supplied" title="{{ page.date_source_label }}">[supplied]</span>{% endif %}
+      {%- comment -%}
+        A value that differs by language carries both (data-en, data-de); the
+        language switch shows the one asked for. An empty data-de keeps the
+        English.
+      {%- endcomment -%}
+      <span data-en="{{ page.date_label | escape }}" data-de="{{ page.date_label_de | escape }}">{% if lang == 'de' %}{{ page.date_label_de }}{% else %}{{ page.date_label }}{% endif %}</span>
+      {% if page.date_source != 'signature' and page.date_iso %}<span class="badge supplied" data-i18n="badge_supplied" data-title-en="{{ page.date_source_label | escape }}" data-title-de="{{ page.date_source_label_de | escape }}" title="{{ page.date_source_label }}">{{ t.badge_supplied }}</span>{% endif %}
     </h1>
     {% if page.place %}<p class="place">{{ page.place }}</p>{% endif %}
     {%- if page.relations %}
@@ -52,8 +57,10 @@ layout: default
       {%- for rel in page.relations %}
       {%- assign relkey = 'rel_' | append: rel.kind -%}
       <li class="rel"><span data-i18n="{{ relkey }}">{{ t[relkey] | default: rel.kind }}</span>
-        <a href="{{ rel.target_url | relative_url }}">{{ rel.target_title }}</a>
-        {%- if rel.note %}<span class="rel-note">{{ rel.note }}</span>{% endif %}</li>
+        {%- assign tt = rel.target_type | default: 'document' -%}
+        {%- if t[tt] == nil %}{% assign tt = 'document' %}{% endif %}
+        <a href="{{ rel.target_url | relative_url }}"><span data-i18n="{{ tt }}">{{ t[tt] }}</span> {{ rel.target }}</a>
+        {%- if rel.note %}<span class="rel-note" data-en="{{ rel.note | escape }}" data-de="{{ rel.note_de | escape }}">{{ rel.note }}</span>{% endif %}</li>
       {%- endfor %}
     </ul>
     {%- endif %}
@@ -124,9 +131,9 @@ layout: default
       {% endif %}
       <dt data-i18n="date">{{ t.date }}</dt>
       <dd>
-        {{ page.date_label }}<br>
-        <span class="muted">{{ page.date_source_label }}</span>
-        {% if page.date_basis and page.date_basis != '' %}<br><span class="muted">{{ page.date_basis }}</span>{% endif %}
+        <span data-en="{{ page.date_label | escape }}" data-de="{{ page.date_label_de | escape }}">{{ page.date_label }}</span><br>
+        <span class="muted" data-en="{{ page.date_source_label | escape }}" data-de="{{ page.date_source_label_de | escape }}">{{ page.date_source_label }}</span>
+        {% if page.date_basis and page.date_basis != '' %}<br><span class="muted" data-en="{{ page.date_basis | escape }}" data-de="{{ page.date_basis_de | escape }}">{{ page.date_basis }}</span>{% endif %}
       </dd>
       {% if page.place %}<dt data-i18n="place">{{ t.place }}</dt><dd>{{ page.place }}</dd>{% endif %}
       {% assign u = site.data.units | where: "slug", page.unit | first %}

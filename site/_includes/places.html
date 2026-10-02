@@ -19,6 +19,9 @@
        data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
     <h2>{{ pl.name }}</h2>
     <p class="refs">{{ pl.count }} document{% if pl.count != 1 %}s{% endif %}</p>
+    {%- if pl.lat %}
+    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
+    {%- endif %}
     <p class="refs reflist">
       {% for l in pl.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
     </p>
@@ -38,6 +41,9 @@
        data-name="{{ es.name | escape }}" data-count="{{ es.count }}">
     <h2>{{ es.name }}</h2>
     <p class="refs">{{ es.count }} document{% if es.count != 1 %}s{% endif %}</p>
+    {%- if es.lat %}
+    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
+    {%- endif %}
     <p class="refs reflist">
       {% for l in es.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
     </p>
@@ -57,6 +63,9 @@
        data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
     <h2>{{ pl.name }}</h2>
     <p class="refs">{{ pl.count }} document{% if pl.count != 1 %}s{% endif %}</p>
+    {%- if pl.lat %}
+    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
+    {%- endif %}
     <p class="refs reflist">
       {% for l in pl.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
     </p>

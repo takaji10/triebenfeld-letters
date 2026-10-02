@@ -8,7 +8,7 @@
 {% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
 
 <div class="timeline">
-  {% for year in (1795..1818) %}
+  {% for year in (1794..1820) %}
     {% assign ys = year | append: '' %}
     {% assign yrec = site.data.stats.years | where: "year", ys | first %}
     {% assign count = 0 %}
@@ -48,6 +48,16 @@
               <h3>{{ e_title }}</h3>
               <p>{{ e_note }}</p>
               <p class="tl-src">{{ e.date }}{% if e.end %}-{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
+              {%- comment -%} The documents the event rests on, named by holding and number. {%- endcomment -%}
+              {% if e.refs %}
+              <p class="tl-src tl-refs">
+                {%- for r in e.refs -%}
+                  {%- assign rp = r | split: '/' -%}
+                  {%- assign ru = site.data.units | where: "slug", rp[0] | first -%}
+                  <a href="{{ '/documents/' | append: r | append: '/' | relative_url }}">{{ ru.ref }}, {{ rp[1] }}</a>{% unless forloop.last %} &middot; {% endunless %}
+                {%- endfor -%}
+              </p>
+              {% endif %}
             </div>
           {% endif %}
         {% endfor %}
@@ -87,6 +97,8 @@
 .tl-event h3 { margin: 0; font-size: .95rem; }
 .tl-event p { margin: .2rem 0 0; font-size: .87rem; color: var(--ink-soft); max-width: 34rem; }
 .tl-event .tl-src { font-family: var(--sans); font-size: .7rem; color: var(--ink-faint); }
+.tl-event .tl-refs { margin-top: .1rem; }
+.tl-event .tl-refs a { color: inherit; }
 .kind-war { border-left-color: #a8402c; }
 .kind-political { border-left-color: #46618a; }
 .kind-estate { border-left-color: #7a6220; }

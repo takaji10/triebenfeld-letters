@@ -136,7 +136,7 @@
       return '<li class="result">' +
         '<a class="r-head" href="' + esc(window.SITE_BASE + it.url) + '">' +
           '<span class="r-id">' + esc(it.id) + '</span>' +
-          '<span class="r-date">' + esc(it.label) + '</span>' +
+          '<span class="r-date">' + esc((LANG === 'de' && it.label_de) ? it.label_de : it.label) + '</span>' +
           (it.place ? '<span class="r-place">' + esc(it.place) + '</span>' : '') +
         '</a>' +
         corr +
