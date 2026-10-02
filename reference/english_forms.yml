@@ -14,6 +14,7 @@
 #   pattern   a regular expression (Python), case-sensitive
 #   replace   the replacement; \1, \2 for groups
 #   months    instead of `replace`: group 1 looked up in this table
+#   capitalise  instead of `replace`: this word, inside the match, capitalised
 #   word      instead of `replace`: a group 1 (the figure), group 2 (the space)
 #             and the abbreviation, replaced by this word. An abbreviation's
 #             own full stop is dropped, unless it also ends the sentence.
@@ -87,3 +88,14 @@ rules:
   why: >-
     pct. after a figure, left in five places of the English, where every other
     page says per cent.
+
+- id: government
+  pattern: "\\b(?:(South Prussian|Poznań|Posen|Kalisz|Kalisch|Głogów|Glogau|Toruń|Thorn|Brzeg|Brieg|Wrocław|Breslau|Płock|Warsaw) government|government (at|in|of) (Poznań|Posen|Kalisz|Kalisch|Głogów|Glogau|Toruń|Thorn|Brzeg|Brieg|Wrocław|Breslau|Płock|Warsaw))\\b"
+  capitalise: government
+  why: >-
+    The provincial Regierung, named by its seat, is an institution: the
+    termbase renders it Government, capitalised (editor, 2026-10-02). Fifteen
+    places said "the government at Kalisz" or "the Poznań government". The
+    political sense (the Prussian government, a democratic government) has no
+    seat after it and is left alone.
+

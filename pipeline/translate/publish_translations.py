@@ -183,7 +183,8 @@ def main():
                 continue
             # the house forms (reference/english_forms.yml): money
             # abbreviations written out, Fr. d'or as Friedrich d'or
-            en = english_forms.apply((p.get('en') or '').strip())
+            # and this page's own corrections (reference/english_corrections.yml)
+            en = english_forms.apply_page(pad, p.get('page'), (p.get('en') or '').strip())
             if en:
                 # names and numbers travel with the text. They were dropped
                 # here, so the English reached the site and the dataset as a

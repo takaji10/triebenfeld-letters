@@ -913,6 +913,32 @@ in 24 documents: the court's record, not etiquette. Two more house forms for
 the English, applied the same mechanical way: the four dates left with 8br and
 Xbr now name the month, and six pct. read per cent.
 
+## Regierung in the published English (2026-10-02)
+
+Of 96 manuscript pages whose German has Regierung, 56 already said
+Government. Of the rest, the plurals were already "Governments", and "court",
+"authorities" and "reigning" turned out to render other words. What remained:
+
+- 15 places named the institution by its seat in lower case ("the government
+  at Kalisz", "the Poznań government"). A house-form rule in
+  `reference/english_forms.yml` capitalises them, and the same 14 times in the
+  English summaries.
+- 11 needed the sentence read, and go in a new file,
+  `reference/english_corrections.yml`: page-by-page corrections, each with the
+  German that decided it, applied after the house forms by english_forms.py and
+  so at every publish. A correction whose words are not on the page exactly
+  once is reported, not applied. Eight are the institution without its seat
+  (the Government sending execution, appointing a sequestrator, leaving Breslau
+  in 1813; a Government councillor and director); two are "our Government
+  here" against the Government at Thorn; one is "Our successors in the
+  government", the King's successors on the throne.
+- The political sense stays lower case: the previous government, the Prussian
+  government, a democratic government.
+
+One page that seemed to leave Regierung untranslated (14525, 17, page 8) does
+not: the sentence runs over the page, and the English puts "of the Royal South
+Prussian Government" on the next.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

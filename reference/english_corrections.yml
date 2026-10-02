@@ -1,0 +1,29 @@
+# Corrections to the English, page by page: where a fix needs the sentence read
+# and so cannot be a rule in english_forms.yml. Applied by
+# pipeline/translate/english_forms.py after the house forms, and so by
+# publish_translations.py at every publish; a re-publish from the cache keeps
+# them. `find` must occur on the page exactly once, or the correction is
+# reported and not applied: a page that has changed is read again.
+#
+#   pad, page   the document and manuscript page
+#   find        the exact words on the page
+#   replace     what they become
+#   why         the reading that decided it
+
+corrections:
+
+# Regierung (editor, 2026-10-02): the institution is Government, capitalised;
+# the political sense (a regime, the state) stays lowercase. These name the
+# institution without its seat, so the rule in english_forms.yml cannot reach
+# them; each was read.
+- {pad: oe1bu9454-146, page: 4, find: "the government has sent execution here", replace: "the Government has sent execution here", why: "die Regierung Execution hierher gesandt: the court enforcing a debt"}
+- {pad: oe1bu9454-191, page: 3, find: "to report it to the government", replace: "to report it to the Government", why: "es der Regierung anzuzeigen: a matter for the court"}
+- {pad: oe1bu9454-022, page: 3, find: "who is appointed by the government", replace: "who is appointed by the Government", why: "von der Regierung angestellt: a sequestrator, appointed by the court"}
+- {pad: oe1bu9454-212, page: 3, find: "all interference of the government is lifted", replace: "all interference of the Government is lifted", why: "Einmischung der Regierung: the court's sequestration"}
+- {pad: oe1bu9454-239, page: 2, find: "tomorrow the government also departs", replace: "tomorrow the Government also departs", why: "die Regierung nach Franckenstein: the Silesian Government leaving Breslau in 1813"}
+- {pad: oe1bu9454-155, page: 2, find: "the government councillor", replace: "the Government Councillor", why: "Regierungs-Rath, a member of the Government"}
+- {pad: oe1bu9454-297, page: 4, find: "the government director", replace: "the Government Director", why: "Regierungs Director, the head of the Government"}
+- {pad: oe1bu9454-055, page: 1, find: "the councillors of Government in Brzeg", replace: "the Government councillors at Brzeg", why: "die Regierungs Räthe in Brieg: members of the Government at Brzeg (the house-form rule has already capitalised it)"}
+- {pad: oe1bu14525-043, page: 1, find: "before our government here", replace: "before our Government here", why: "nicht bey Unserer hiesigen [Regierung], sondern bey unserer Regierung zu Thorn: two Governments, both institutions"}
+- {pad: oe1bu14525-044, page: 1, find: "at Our government here", replace: "at Our Government here", why: "the same contrast as in 43, with the Government at Thorn"}
+- {pad: oe1u199-001, page: 1, find: "Our successors in the government", replace: "Our successors on the throne", why: "Unsere Nachfolger in der Regierung: the King's successors in his reign, not in an office"}

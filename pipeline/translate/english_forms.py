@@ -46,7 +46,10 @@ def apply(text, counts=None):
     if not text:
         return text
     for r in rules():
-        if 'months' in r:
+        if 'capitalise' in r:
+            w = r['capitalise']
+            new, n = r['_rx'].subn(lambda m: m.group(0).replace(w, w[0].upper() + w[1:]), text)
+        elif 'months' in r:
             new, n = r['_rx'].subn(lambda m: r['months'][m.group(1)], text)
         elif 'word' in r:
             new, n = r['_rx'].subn(_word_sub(r['word'], text), text)
@@ -55,6 +58,34 @@ def apply(text, counts=None):
         if n and counts is not None:
             counts[r['id']] += n
         text = new
+    return text
+
+
+_CORR = None
+
+
+def corrections():
+    global _CORR
+    if _CORR is None:
+        p = os.path.join(ROOT, 'reference', 'english_corrections.yml')
+        _CORR = (yaml.safe_load(open(p, encoding='utf-8')) or {}).get('corrections') or [] if os.path.exists(p) else []
+    return _CORR
+
+
+def apply_page(pad, page, text, counts=None, problems=None):
+    """The house forms, then this page's own corrections. A correction whose
+    words are not on the page exactly once is not applied, and is reported."""
+    text = apply(text, counts)
+    for c in corrections():
+        if c['pad'] != pad or str(c['page']) != str(page):
+            continue
+        n = text.count(c['find'])
+        if n == 1:
+            text = text.replace(c['find'], c['replace'])
+            if counts is not None:
+                counts['corrections'] += 1
+        elif c['replace'] not in text and problems is not None:
+            problems.append(f"{pad} p{page}: {c['find']!r} found {n} times - not applied")
     return text
 
 
@@ -69,7 +100,7 @@ def main():
     ap.add_argument('--apply', action='store_true')
     a = ap.parse_args()
     sys.stdout.reconfigure(encoding='utf-8')
-    counts, files, samples = collections.Counter(), 0, []
+    counts, files, samples, problems = collections.Counter(), 0, [], []
 
     tdir = os.path.join(ROOT, 'site', '_data', 'translations')
     for fn in sorted(os.listdir(tdir)):
@@ -81,7 +112,8 @@ def main():
         for seg in d.get('segments') or []:
             for k in ('en', 'html'):
                 if seg.get(k):
-                    new = apply(seg[k], counts)
+                    new = (apply_page(fn[:-4], seg.get('page'), seg[k], counts, problems)
+                           if k == 'en' else apply(seg[k], counts))
                     if new != seg[k]:
                         if len(samples) < 12 and k == 'en':
                             i = next(i for i, (x, y) in enumerate(zip(seg[k], new)) if x != y)
@@ -111,6 +143,8 @@ def main():
     print(f'English summaries: {verb} {sum(sc.values())}: {dict(sc)}')
     for x in samples:
         print('  ', x)
+    for x in problems:
+        print('  !!', x)
 
 
 if __name__ == '__main__':
