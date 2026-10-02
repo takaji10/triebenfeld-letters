@@ -212,7 +212,7 @@ writes to whom about what, legibility, 113 statements each tied to its lines,
 and 99 words still suspected of being misread. It was made in the working
 session, not by the paid `read_letters.py` run, so it has not had that tool's
 second, independent check of each statement; the line references and every
-figure were checked by script. German summaries are still to be written from it.
+figure were checked by script. The German summaries were written from it (below).
 
 Worth knowing from the reading:
 - **Triebenfeld was dead by 13 April 1816.** Stägemann's opinion in the margin
@@ -255,8 +255,8 @@ Themes are the editor's to assign and none is set.
 Fifteen statements in `reading.json` carry the check's verdict and reason. Two
 of mine it caught were corrected: in 27 it is the envoy, not the Emperor, who
 asks the ministry to inform the petitioners; in 14 the King is "inclined" to
-compensate the donees, no more. The English summaries are still to be made, by
-translating these.
+compensate the donees, no more. The English summaries were translated from
+these (next section).
 
 ## Translation and English summaries (2026-10-01)
 
@@ -283,8 +283,5 @@ translating these.
 
 ## Still to do
 
-- The editor's fold lines, then `split_spreads.py --apply-folds`, moving the
-  unwritten halves aside, `stage_pages.py`, `relabel_scans.py --apply`,
-  `make_scan_derivatives.py`, `regenerate.py` twice and `--site`.
 - The words logged in `review/<slug>/unresolved.md`, should the editor want
   to read any of them on the scan.
