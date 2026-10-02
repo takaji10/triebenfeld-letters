@@ -56,6 +56,11 @@ MERGED = [
     # every year and sum in it to those documents.
     ('pipeline/review/check_unit_text.py', "holdings' descriptions",
      'each statement held to the documents it cites'),
+    # The reader's glossary keeps up with the holdings: a translated holding's
+    # abbreviations, Latin and termbase words are each an entry or ruled out.
+    # A new holding brings new words; this is where that is noticed.
+    ('pipeline/review/glossary_candidates.py --check', 'glossary candidates',
+     'every qualifying word in a translated holding ruled on (reference/glossary.yml)'),
 ]
 
 # after the mapping is rebuilt: the label in each scan filename is derived from
@@ -71,14 +76,16 @@ KEEP = ('documents/', 'text/', 'people ', 'places ', 'dates ', 'relations ',
         'captures ', 'wrote ', 'letter pages checked', 'manuscript pages',
         'archival lines exact', 'VERIFIED', 'MISMATCH', 'WARNING',
         'labels to update', 'nothing to do', 'merged:', 'skipped ', 'documents',
-        'FAIL', 'ALL CHECKS', 'words to look at', 'internal links', 'external resources')
+        'FAIL', 'ALL CHECKS', 'words to look at', 'internal links', 'external resources',
+        'glossary candidates', "  '")
 
 
 def run(script, label, detail, unit=None):
     print(f'\n=== {label}{" - " + unit if unit else ""} ===')
     print(f'    {detail}')
     t = time.time()
-    cmd = [sys.executable, '-u', os.path.join(ROOT, script)]
+    script, *args = script.split()
+    cmd = [sys.executable, '-u', os.path.join(ROOT, script)] + args
     if unit:
         cmd += ['--unit', unit]
     p = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True,

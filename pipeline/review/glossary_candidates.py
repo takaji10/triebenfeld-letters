@@ -3,6 +3,8 @@
 
     python glossary_candidates.py                 # every holding
     python glossary_candidates.py --unit <slug>   # one holding: what it adds
+    python glossary_candidates.py --check         # fail if a qualifying word
+                                                  # in a translated holding is unruled
 
 Writes review/glossary_candidates.csv (review/<slug>/ with --unit). A word
 qualifies when a reader who is interested but not an expert would stop at it
@@ -27,12 +29,20 @@ does not decide. Four sources:
 A candidate already covered by reference/glossary.yml (an entry, or a ruling
 under `excluded:`) is marked so; with --unit only the uncovered ones are
 listed, which is the new holding's work.
+
+--check is the gate regenerate.py runs (docs/GLOSSARY_PLAN.md, section 5). It
+takes the holdings whose unit.yml status is translated or published, and fails
+if any word they contain from the termbase, abbreviation or Latin probes, in
+3 documents or more, is neither an entry nor ruled out. The rarity probe and
+the timeline are left out of the gate: they flag spelling and events, which
+want a reader, not a rule. A holding still being transcribed (draft) is not
+held to it until it is translated.
 """
 import os as _os, sys as _sys
 _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
     _os.path.abspath(__file__)))))
 
-import os, re, csv, json, argparse, collections
+import os, re, sys, csv, json, argparse, collections
 import yaml
 import unitlib
 
@@ -60,25 +70,50 @@ def covered():
         for k in ('head_de', 'head_en', 'orig'):
             if e.get(k):
                 pats.append(re.compile(r'\b' + re.escape(str(e[k]).split(',')[0].strip()) + r'\b', re.I))
-    excluded = {str(x.get('word', '')).lower() for x in g.get('excluded') or []}
+    excluded = {' '.join(str(x.get('word', '')).lower().split()) for x in g.get('excluded') or []}
+    # a ruling on an abbreviation holds with or without its full stop
+    excluded |= {w.rstrip('.') for w in excluded}
     return pats, excluded
+
+
+GATED = ('termbase', 'abbrev', 'latin')
+GATE_DOCS = 3
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--unit', default=None)
+    ap.add_argument('--check', action='store_true')
     a = ap.parse_args()
     unitlib.utf8_stdout()
 
+    live = None
+    if a.check:
+        live = {u.slug for u in unitlib.load_units()
+                if (u.get('status') or '') in ('translated', 'published')}
     docs = [r for r in load('corpus/letters.json')
-            if not a.unit or r['unit'] == a.unit]
+            if (not a.unit or r['unit'] == a.unit) and (live is None or r['unit'] in live)]
     texts = {r['uid']: (r.get('text') or '').replace('ſ', 's') for r in docs}
     pats, excluded = covered()
 
-    def is_covered(word):
+    def is_covered(word, sample=''):
+        """Answered by an entry, or ruled out. Patterns that need context (a
+        title before possessionis, a preposition before Michaelis, a figure
+        before rt) are tried on the sample sentence too: the word is covered if
+        a match there overlaps it."""
+        word = ' '.join(word.split())
         # the termbase spells some terms without umlauts (Fuerst)
         forms = {word, word.replace('ue', 'ü').replace('ae', 'ä').replace('oe', 'ö')}
-        return any(f.lower() in excluded or any(p.search(f) for p in pats) for f in forms)
+        if any(f.lower() in excluded for f in forms):
+            return True
+        if any(p.search(f) for f in forms for p in pats):
+            return True
+        sample = ' '.join((sample or '').split())
+        i = sample.find(word.split(': ')[-1])
+        if i < 0:
+            return False
+        j = i + len(word.split(': ')[-1])
+        return any(m.start() < j and m.end() > i for p in pats for m in p.finditer(sample))
 
     rows = []
 
@@ -93,10 +128,12 @@ def main():
             if not hits:
                 continue
             sample = next(m.group(0) for m in [rx.search(texts[hits[0]])])
+            ctx = next(texts[hits[0]][max(0, m.start() - 40):m.end() + 40]
+                       for m in [rx.search(texts[hits[0]])])
             rows.append({'source': 'termbase:' + section, 'term': e.get('term'),
                          'english': e.get('render') or '', 'docs': len(hits),
                          'sample': sample, 'note': e.get('gloss') or '',
-                         'covered': is_covered(e.get('term') or '')})
+                         'covered': is_covered(e.get('term') or '') or is_covered(sample, ctx)})
 
     # rare in modern German, frequent here
     freq = load('reference/dwds_cache.json')  # also used by the latin probe
@@ -156,10 +193,11 @@ def main():
                 note(('latin', m.group(0)), u, t, m)
     for (src, term), (n, where, sample) in seen.items():
         if len(where) >= 3:
-            word = term.split(': ')[-1]
+            word = ' '.join(term.split(': ')[-1].split())
+            term = ' '.join(term.split())
             rows.append({'source': src, 'term': term, 'english': '', 'docs': len(where),
                          'sample': sample.replace('\n', ' '), 'note': f'{n} uses',
-                         'covered': is_covered(word)})
+                         'covered': is_covered(word, sample)})
 
     # events
     if not a.unit:
@@ -168,6 +206,22 @@ def main():
                          'docs': len(ev.get('refs') or []), 'sample': str(ev.get('date')),
                          'note': (ev.get('note') or '').strip()[:200],
                          'covered': False})
+
+    if a.check:
+        unruled = [r for r in rows if not r['covered'] and r['source'].split(':')[0] in GATED
+                   and r['docs'] >= GATE_DOCS]
+        if not unruled:
+            print(f'glossary candidates: all ruled ({len(live)} translated holdings, '
+                  f'{sum(1 for r in rows if r["source"].split(":")[0] in GATED and r["docs"] >= GATE_DOCS)} '
+                  f'qualifying words)')
+            return
+        print(f'FAIL glossary candidates: {len(unruled)} word(s) in translated holdings neither '
+              f'in reference/glossary.yml nor ruled out under excluded:')
+        for r in sorted(unruled, key=lambda r: -r['docs']):
+            print(f"  {r['term']!r} ({r['source']}, {r['docs']} documents): {r['sample'][:70]!r}")
+        print('Rule each: an entry (English and German, with check_against), or a line under '
+              'excluded: with the reason. See docs/NEW_UNIT.md section 8.')
+        sys.exit(1)
 
     rows.sort(key=lambda r: (r['covered'], -r['docs']))
     if a.unit:

@@ -48,7 +48,8 @@ entries:
   head_en: Reichsthaler
   head_de: Reichsthaler
   orig: Rthl, rt.
-  match_de: '\bRthl\b|\bRthlr\b|\bReichsthaler\w*|\brt\b'
+  # rt and its abbreviations: rtl, rttl, rtlr, rth, rtll, rttlr, Rtlr
+  match_de: '\b[Rr](?:thl|thlr|tl|tll|tlr|ttl|ttlr|th|t|tr)\b|\bReichsthaler\w*'
   match_en: '\bRthl\b|\bReichsthaler\w*'
   short_en: >-
     The Prussian unit of account, a silver thaler, written Rthl or rt. It was
@@ -68,7 +69,7 @@ entries:
   head_en: Courant
   head_de: Courant
   orig: Courant
-  match_de: '\bCourant\b'
+  match_de: '\bCourant\b|\bin (?P<w>Gold)\b'
   match_en: '\bCourant\b'
   short_en: >-
     Payment in the silver coin in everyday circulation, as against gold. A sum
@@ -88,7 +89,7 @@ entries:
   head_en: Groschen
   head_de: Groschen
   orig: Groschen, g.
-  match_de: '\bGroschen\b|\bgr\b'
+  match_de: '\bGroschen\b|\bgr\b|(?:\d\.? ?)(?P<w>gg[lr]?|gl|g)\b'
   match_en: '\bGroschen\b'
   short_en: >-
     A silver coin and unit worth one twenty-fourth of a Reichsthaler, and
@@ -128,7 +129,7 @@ entries:
   head_en: Pfennig
   head_de: Pfennig
   orig: Pfennig, d.
-  match_de: '\bPfennig\w*'
+  match_de: '\bPfennig\w*|(?:\d\.? ?)(?P<w>pf)\b'
   match_en: '\bPfennig\w*'
   short_en: >-
     The smallest unit: a twelfth of a Groschen. It is often written d., from
@@ -164,7 +165,7 @@ entries:
   head_en: gulden
   head_de: Gulden
   orig: Gulden, fl.
-  match_de: '\bGulden\b'
+  match_de: '\bGulden\b|(?:\d\.? ?)(?P<w>fl)\b'
   match_en: '\bgulden\b'
   short_en: >-
     The florin, written fl. In the letters from the Congress of Vienna, the
@@ -186,7 +187,9 @@ entries:
   orig: Morgen
   # as a measure only: after a figure or a measure word. "Morgen eile ich"
   # is tomorrow
-  match_de: '(?:\d[\d.,/]*\s*|hundert\s+|Magdeburger\s+|[Kk]ulmische?n?\s+|preu(?:ß|ss)ische?n?\s+)(?P<w>Morgen)\b'
+  match_de:
+    - '(?:\d[\d.,/]*\s*|hundert\s+|Magdeburger\s+|[Kk]ulmische?n?\s+|preu(?:ß|ss)ische?n?\s+)(?P<w>Morgen)\b'
+    - '(?:\d[\d.,/]*\s*)(?P<w>Morg)\b\.?'
   match_en: '\bMorgen\b'
   short_en: >-
     A measure of land, originally what a team could plough in a morning. The
@@ -206,7 +209,7 @@ entries:
   head_en: Hufe
   head_de: Hufe
   orig: Hufe, Hufen
-  match_de: '\bHufen?\b'
+  match_de: '\bHufen?\b|\bHuben?\b'
   match_en: '\bHufen?\b'
   short_en: >-
     A farm holding and a measure of land: the arable one household could live
@@ -245,7 +248,7 @@ entries:
   head_en: Centner
   head_de: Centner
   orig: Centner
-  match_de: '\bCentner\w*|\bZentner\w*'
+  match_de: '\bCent(?:ner|nr|z|l)\w*|\bZentner\w*'
   match_en: '\bCentners?\b|\bhundredweights?\b'
   short_en: >-
     A hundredweight: in Prussia 110 pounds, about 51 kilograms. Iron, wool and
@@ -433,7 +436,7 @@ entries:
   head_en: Dominium
   head_de: Dominium
   orig: Dominium
-  match_de: '\bDominium\b|\bDominio\b'
+  match_de: '\bDomini(?:um|o|i)\b'
   match_en: '\bDominium\b|\bmanorial lordship\b'
   short_en: >-
     The manor as a legal person: the lord's estate together with his rights
@@ -570,7 +573,8 @@ entries:
   head_en: valuation (Taxe)
   head_de: Taxe
   orig: Taxe, Taxa
-  match_de: '\bTaxe\b|\bTaxa\w*|\bTaxation\w*'
+  # Anschlag is the same: the termbase renders it valuation
+  match_de: '\bTaxe\b|\bTaxa\w*|\bTaxation\w*|\bAnschl(?:a|ä)g\w*'
   short_en: >-
     The official valuation of an estate, worked out from its yield in grain,
     timber, rents and dues. Sales, loans and grants all rested on it, and its
@@ -736,6 +740,41 @@ entries:
     regelte, ob und zu welchem Wert der Pächter es übernahm; fehlendes
     Inventar wurde abgezogen.
   check_against: Krünitz, Oekonomische Encyklopädie
+  checked: false
+
+- id: einsassen
+  kind: land
+  lang: de
+  head_en: Einsassen
+  head_de: Einsassen
+  orig: Einsaßen
+  match_de: '\bEins(?:a|ä)(?:ss|ß)en\w*'
+  short_en: >-
+    The settled inhabitants of a village or estate: those with a house and
+    land there, as against lodgers and servants. The English gives
+    "residents".
+  short_de: >-
+    Die ansässigen Bewohner eines Dorfes oder Guts: wer dort Haus und Land
+    hatte, im Unterschied zu Einliegern und Gesinde.
+  check_against: Adelung
+  checked: false
+
+- id: rata
+  kind: money
+  lang: la
+  head_en: in Ratis
+  head_de: in Ratis
+  orig: Ratis, Rata
+  match_de: '\bRat(?:is|a)\b'
+  short_en: >-
+    In instalments, from the Latin rata, a share: "in halbjährigen Ratis" is in
+    half-yearly instalments. A purchase price or an entry money was often paid
+    so.
+  short_de: >-
+    In Raten, vom lateinischen rata, Anteil: „in halbjährigen Ratis“ heißt in
+    halbjährlichen Raten. Kaufgelder und Einstandsgelder wurden oft so
+    gezahlt.
+  check_against: Adelung
   checked: false
 
 # ------------------------------------------------- law, money, administration
@@ -1062,7 +1101,7 @@ entries:
   head_en: prefect, sub-prefect
   head_de: Präfekt, Unterpräfekt
   orig: Prefect, Podprefect
-  match_de: '\bPr(ä|ae|a)fect\w*|\bPodpr(ä|ae|a)fect\w*'
+  match_de: '\bPr(?:ä|ae|a|e)fect\w*|\bPodpr(?:ä|ae|a|e)fect\w*'
   match_en: '\b(Sub-)?[Pp]refect\w*'
   short_en: >-
     Officials of the Duchy of Warsaw, on the French model: a prefect ran a
@@ -1632,6 +1671,66 @@ entries:
   check_against: Adelung
   checked: false
 
+- id: in-solidum
+  kind: law
+  lang: la
+  head_en: in solidum
+  head_de: in solidum
+  orig: in solidum
+  match_de: '\bin solidum\b'
+  match_en: '\bin solidum\b'
+  short_en: >-
+    Jointly and severally: each of several debtors answers for the whole
+    debt, "einer für beyde", so the creditor may sue any one of them. The
+    communities that took over Betsche were bound so.
+  short_de: >-
+    Gesamtschuldnerisch: jeder von mehreren Schuldnern haftet für die ganze
+    Schuld, „einer für beyde“, und der Gläubiger kann sich an jeden halten.
+    Die Gemeinden, die Betsche übernahmen, hafteten so.
+  check_against: Allgemeines Landrecht 1794, Teil I Titel 5
+  checked: false
+
+- id: kreis-justiz-commission
+  kind: law
+  lang: de
+  head_en: District Judicial Commission
+  head_de: Kreis-Justiz-Commission
+  orig: Kreis Justiz Commission, Kreis Justiz Rath
+  match_de: '\b(?:Kreis|Creis)\s*-?\s*Justi[zt]\w*'
+  match_en: '\bDistrict Justice Commission\w*|\bdistrict justice councillor\w*'
+  short_en: >-
+    In South Prussia, the royal court of a district, above the patrimonial
+    courts: the owner who held a patrimonial court answered to it. Its members
+    were Kreis-Justiz-Räthe.
+  short_de: >-
+    In Südpreußen das königliche Gericht eines Kreises, den
+    Patrimonialgerichten übergeordnet: der Gutsbesitzer, der ein
+    Patrimonialgericht hielt, unterstand ihr. Ihre Mitglieder waren
+    Kreis-Justiz-Räthe.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md)"
+  check_against: Acta Borussica
+  checked: false
+
+- id: justiz-commissarius
+  kind: law
+  lang: de_la
+  head_en: justice commissary
+  head_de: Justiz-Commissarius
+  orig: Justiz Commissarius, Justiz Commissar
+  match_de: '\bJusti[zt][- ]?Commi(?:ss|ß)ar\w*'
+  match_en: '\bjustice commissar\w*'
+  short_en: >-
+    A Prussian lawyer admitted to represent parties before the courts and to
+    draw up their instruments, an attorney; many were also notaries. One was
+    engaged to have the Prince's title entered in the mortgage book.
+  short_de: >-
+    Ein preußischer Jurist, zugelassen, Parteien vor Gericht zu vertreten und
+    ihre Urkunden aufzusetzen, ein Anwalt; viele waren zugleich Notare. Einer
+    wurde beauftragt, den Besitztitel des Fürsten im Hypothekenbuch eintragen
+    zu lassen.
+  check_against: Allgemeine Gerichtsordnung 1793
+  checked: false
+
 # ----------------------------------------------------------- titles, address
 
 - id: durchlaucht
@@ -1681,7 +1780,8 @@ entries:
   head_en: Hochwohlgeboren
   head_de: Hochwohlgeboren
   orig: Hochwohlgebohren
-  match_de: '\bHochwohlgeb\w*'
+  # and Wohlgeboren, the style below it
+  match_de: '\b(?:Hoch)?[Ww]ohlgeb\w*|\bHochw\.'
   match_en: '\bRight Honourable\b'
   short_en: >-
     "High well-born": the style of nobles and senior officials. Below it came
@@ -1700,7 +1800,7 @@ entries:
   head_en: Ew., Ewr, Sr., Ihro, Dero
   head_de: Ew., Ewr, Sr., Ihro, Dero
   orig: Ew., Ewr, Sr., Ihro, Dero
-  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
+  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bE\.(?= (?:Hoch|Durch|Excell|Maj|Königl|Wohl))|\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
   short_en: >-
     The possessives of courtly address, abbreviated. Ew. or Ewr is Euer,
     "Your" (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
@@ -1710,6 +1810,46 @@ entries:
     Die Possessiva der höfischen Anrede, abgekürzt. Ew. oder Ewr steht für
     Euer (Ewr Durchlaucht), Sr. für Seiner (Sr. Majestät). Ihro und Dero sind
     ältere Formen derselben, für hochgestellte Personen.
+  check_against: Adelung
+  checked: false
+
+- id: herr-abbrev
+  kind: title
+  lang: de
+  head_en: H., dH., Hl.
+  head_de: H., dH., Hl.
+  orig: H., Hr., dH., dh., dHl., Hl.
+  # capital H only: a lowercase h. is not Herr
+  match_de: '\b(?:d[Hh]l?|H(?:rn?|l)?)\.(?= )'
+  short_en: >-
+    Herr, "Mr" or "Sir", abbreviated: H. or Hr. is Herr, dH. or dh. is dem
+    Herrn, "to Mr". Before a title or a "p." it is a courtesy: "der H. p.
+    Michaelis" is Mr Michaelis, with his titles.
+  short_de: >-
+    Abkürzungen für Herr: H. oder Hr. ist Herr, dH. oder dh. ist dem Herrn.
+    Vor einem Titel oder einem „p.“ ist es Höflichkeit: „der H. p.
+    Michaelis“ ist Herr Michaelis mit seinen Titeln.
+  check_against: Adelung
+  checked: false
+
+- id: closing-formulas
+  kind: phrase
+  lang: de
+  per: document
+  head_en: humble servant, faithful Knecht
+  head_de: unterthänigster Diener, treuester Knecht
+  orig: unterthänigster Diener, treuester Knecht
+  match_de: '\b(?:treu(?:ester)?|unterth(?:ä|ae)nig(?:st)?(?:er)?|gehorsamst(?:er)?)\s+(?:Diener|Knecht)\b'
+  match_en: '\bmost (?:faithful|humble|obedient)(?: and (?:humble|obedient|faithful))*(?: and obedient)? servant\b'
+  short_en: >-
+    The signature line of a letter to a superior: "most humble servant",
+    "most obedient servant". The degree mattered. A Knecht, as Triebenfeld
+    signs to the Prince, is humbler than a Diener: a bondsman, not a servant.
+  short_de: >-
+    Die Unterschriftszeile eines Briefs an einen Höherstehenden:
+    „unterthänigster Diener“, „gehorsamster Diener“. Die Abstufung zählte.
+    Knecht, wie Triebenfeld dem Fürsten unterschreibt, ist demütiger als
+    Diener.
   check_against: Adelung
   checked: false
 
@@ -1853,7 +1993,7 @@ entries:
   head_en: de dato; vigore
   head_de: de dato; vigore
   orig: de dato, vigore
-  match_de: '\bde dato\b|\bvigore\b'
+  match_de: '\b(?:de|sub) dato\b|\bvigore\b'
   short_en: >-
     Latin of the deeds. "De dato" means "dated": a charter de dato 19 June
     1797 is the one of that date. "Vigore" means "by virtue of", as in vigore
@@ -1909,7 +2049,7 @@ entries:
   head_en: pct., pro Cent
   head_de: pct., pro Cent
   orig: pct., pCt., pro Cent
-  match_de: '\bp[Cc]t\b\.?|\bp\. ?C\.'
+  match_de: '\bp[Cc]t\b\.?|\bp\. ?C\.|(?:\d\.? ?)(?P<w>p[Cc])\b\.?'
   short_en: >-
     Per cent, from pro centum: "4 pct." is four per cent, the usual interest
     on a mortgage at the time.
@@ -2111,3 +2251,92 @@ excluded:
   - {word: Freiherr, reason: "plain in English as Baron"}
   - {word: Moratorium, reason: "the same word in English"}
   - {word: Codizill, reason: "the same word in English, codicil"}
+  # ruled 2026-10-02, from the abbreviation and Latin probe and the termbase leftovers
+  - {word: "Gnädigster Fürst und Herr", reason: "salutation; the English gives it plainly, Most gracious Prince and Lord"}
+  - {word: "Gnädigster Herr", reason: "salutation; plain in the English"}
+  - {word: "Hochzuehrender Herr", reason: "salutation; plain in the English"}
+  - {word: "Königliche Majestät", reason: "plain in English, Royal Majesty"}
+  - {word: "zu Hohenlohe-Ingelfingen", reason: "part of a name; the register explains it"}
+  - {word: "Fuerstin", reason: "plain in English as Princess"}
+  - {word: "fuerstlich", reason: "plain in English as princely"}
+  - {word: "Obrist", reason: "plain in English as Colonel"}
+  - {word: "Rittmeister", reason: "plain in English as cavalry captain"}
+  - {word: "Ober-Inspector", reason: "plain in English as Chief Inspector"}
+  - {word: "Justizrath", reason: "a title, plain in English as councillor of justice"}
+  - {word: "Collonisten", reason: "plain in English as colonists"}
+  - {word: "Buergerschaft", reason: "plain in English as burgesses"}
+  - {word: "Praetension", reason: "plain in English as claim"}
+  - {word: "Dollmetscher", reason: "plain in English as interpreter"}
+  - {word: "Gold", reason: "covered by Courant, which explains in Gold"}
+  - {word: "Holländ", reason: "a place name, not a term"}
+  - {word: "Skokum", reason: "a place name"}
+  - {word: "S.", reason: "ambiguous: Seite, Sanct, a signatory's initial; no one sense to explain"}
+  - {word: "c.", reason: "a list letter or circa"}
+  - {word: "J.", reason: "Jahr; see d. J."}
+  - {word: "N.", reason: "an initial or a list letter"}
+  - {word: "Ns.", reason: "an initial"}
+  - {word: "No.", reason: "number; plain"}
+  - {word: "Nr.", reason: "number; plain"}
+  - {word: "etc.", reason: "plain"}
+  - {word: "resp.", reason: "respectively; plain"}
+  - {word: "jährl.", reason: "jährlich, yearly; plain"}
+  - {word: "Jährl.", reason: "jährlich, yearly; plain"}
+  - {word: "sämtl.", reason: "sämtlich, all; plain"}
+  - {word: "desgl.", reason: "desgleichen, likewise; plain"}
+  - {word: "heil.", reason: "heilig; plain"}
+  - {word: "Fol.", reason: "folio; plain"}
+  - {word: "publ.", reason: "publicus, in Notarius publ.; the notary entry covers it"}
+  - {word: "Tit.", reason: "Titel, in citations of the Landrecht; plain"}
+  - {word: "Reg.", reason: "Regierung abbreviated; three times"}
+  - {word: "Preuß.", reason: "Preußisch; plain"}
+  - {word: "Fr.", reason: "Frau, Freiherr or a name; ambiguous"}
+  - {word: "Dr.", reason: "plain"}
+  - {word: "Mr.", reason: "plain"}
+  - {word: "Reck.", reason: "a signature, the minister von der Reck"}
+  - {word: "John.", reason: "a name"}
+  - {word: "Febr.", reason: "a month; plain"}
+  - {word: "Sept.", reason: "a month; plain"}
+  - {word: "Nov.", reason: "a month; plain"}
+  - {word: "Decbr.", reason: "a month; plain"}
+  - {word: "Mart.", reason: "a month (März); plain"}
+  - {word: "Octob.", reason: "a month; plain"}
+  - {word: "Juni", reason: "a month after a day; plain"}
+  - {word: "Nov", reason: "a month after a day; plain"}
+  - {word: "Mai", reason: "a month after a day; plain"}
+  - {word: "Avril", reason: "a month in French; plain"}
+  - {word: "Tagen", reason: "after a figure by chance: 3 Tagen"}
+  - {word: "mahl", reason: "2 mahl, twice; plain"}
+  - {word: "Uhr", reason: "o'clock; plain"}
+  - {word: "tn", reason: "an ordinal ending: 19tn"}
+  - {word: "tens", reason: "an ordinal ending"}
+  - {word: "teil", reason: "after a figure by chance"}
+  - {word: "treu", reason: "the closing formula, covered by closing-formulas"}
+  - {word: "I.", reason: "a section number"}
+  - {word: "II.", reason: "a section number"}
+  - {word: "III.", reason: "a section number"}
+  - {word: "IV.", reason: "a section number"}
+  - {word: "V.", reason: "a section number"}
+  - {word: "VI.", reason: "a section number"}
+  - {word: "VII.", reason: "a section number"}
+  - {word: "VIII.", reason: "a section number"}
+  - {word: "IX.", reason: "a section number"}
+  - {word: "X.", reason: "a section number"}
+  - {word: "XI.", reason: "a section number"}
+  - {word: "XII.", reason: "a section number"}
+  - {word: "XIII.", reason: "a section number"}
+  - {word: "XIV.", reason: "a section number"}
+  - {word: "XVI.", reason: "a section number"}
+  - {word: "Ministerium", reason: "plain: the ministry"}
+  - {word: "Ministerii", reason: "plain: of the ministry"}
+  - {word: "Collegium", reason: "plain: a board"}
+  - {word: "Collegii", reason: "plain: of the board"}
+  - {word: "Privilegium", reason: "plain: a charter of privileges"}
+  - {word: "Pretium", reason: "Kauf-Pretium, the purchase price; plain in context"}
+  - {word: "Publicum", reason: "in Publicum, publicly; plain"}
+  - {word: "Januarii", reason: "a month in Latin; plain"}
+  - {word: "Julii", reason: "a month in Latin; plain"}
+  - {word: "recognitionis", reason: "in vim recognitionis, a formula of the mortgage book; covered by titulus possessionis"}
+  - {word: "sessionis", reason: "possessionis broken over a line"}
+  - {word: "In tiefster", reason: "the opening of the closing formula, In tiefster Ehrfurcht ersterbe; covered by ersterbe"}
+  - {word: "in gutem", reason: "German, not Latin"}
+  - {word: "solidum", reason: "see in solidum"}

@@ -939,6 +939,24 @@ One page that seemed to leave Regierung untranslated (14525, 17, page 8) does
 not: the sentence runs over the page, and the English puts "of the Royal South
 Prussian Government" on the next.
 
+## The glossary's candidates ruled, and a gate in the build (2026-10-02)
+
+Every word the candidate sheet raises from the termbase and the abbreviation
+and Latin probes, in 3 documents or more, is now an entry or ruled out: seven
+new entries (H. and dH., the closing formulas with the Diener and the humbler
+Knecht, Einsassen, in Ratis, in solidum, the Kreis-Justiz-Commission, the
+Justiz-Commissarius), 87 rulings with reasons (section numbers, plain month
+and number abbreviations, names, salutations the English renders plainly,
+words plain in English), and patterns widened to the forms the entries
+missed. Prefect and Podprefect had never matched in the German, the pattern
+expecting Prä-; they do now. 108 entries, 14,037 marks in 417 documents.
+
+`glossary_candidates.py --check` is the gate the plan called for, and
+regenerate.py runs it after the holdings' descriptions: it fails the build if
+a translated holding brings a qualifying word that is neither an entry nor
+ruled out, and names it. Tested by removing one ruling: it failed and named
+the word; restored, it passed.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -2,9 +2,9 @@
 
 Status: **first batch built** (2026-10-02): 61 entries, all drafts to be
 checked against the works named; the in-text definitions, on by default; the
-glossary page; the candidate script and the row in `NEW_UNIT.md` §8. Not yet
-built: the pipeline check that reports a holding whose candidates are
-unruled (§5). Decided: on by default; people and places left out; a first
+glossary page; the candidate script and the row in `NEW_UNIT.md` §8; and
+the gate (§5), `glossary_candidates.py --check`, which regenerate.py runs.
+108 entries and 98 rulings as of the same day. Decided: on by default; people and places left out; a first
 batch of the most frequent terms across all kinds. When the work is done, the standing parts of this plan move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
 record of how it was decided.
@@ -249,6 +249,28 @@ documents. Earlier the same day: the General Law Code (Landrecht), and the
 patrimonial court rewritten from the Mencel description
 (reference/sources/patrimonial_courts_mencel.md), which an entry can now
 name as its `source`.
+
+### The gate (2026-10-02)
+
+`glossary_candidates.py --check`, run by regenerate.py after the holdings'
+descriptions are checked. It takes the holdings whose status is translated or
+published and fails the build if a word they contain, from the termbase or
+the abbreviation or Latin probe and in 3 documents or more, is neither an
+entry nor ruled out under `excluded:`. It names each word and how to settle
+it. The rarity probe and the timeline stay out of the gate: they flag
+spelling and events, which want a reader. A holding being transcribed (draft)
+is not held to it until it is translated.
+
+Its coverage test reads a word in its sample sentence, so entries whose
+patterns need context (a title before possessionis, a figure before rt) count,
+and a ruling on an abbreviation holds with or without its full stop.
+
+To bring the gate to green the first time: 7 entries (H. and dH., the closing
+formulas, Einsassen, in Ratis, in solidum, the Kreis-Justiz-Commission, the
+Justiz-Commissarius), 87 rulings, and patterns widened to forms the entries
+missed (rtl, rttl, gg, ggl, fl and pf after a figure, Morg., Centz., Huben,
+pc., Hochw., Wohlgeboren, Anschlag, sub dato, Dominii, in Gold; Prefect and
+Podprefect, which the German pattern had never matched).
 
 ### The English: house forms
 

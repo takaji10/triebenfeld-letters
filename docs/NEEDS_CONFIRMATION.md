@@ -123,23 +123,19 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   Krünitz, the Allgemeines Landrecht and Hypothekenordnung, Gloger's
   *Encyklopedia staropolska* for Polish terms, Grotefend for dates. The cloud
   environment cannot reach them (woerterbuchnetz.de, kruenitz.uni-trier.de,
-  pl.wikisource.org are refused by its network policy); allow those hosts in
-  the environment's settings, or check the entries elsewhere. Set `checked:
-  true` (and a `source:`) as each is confirmed.
+  pl.wikisource.org are refused by its network policy). To allow them: the
+  cloud environment menu in the session's title bar, then Edit, then Network
+  access: add those hosts to the allowed domains, or choose a broader access
+  level. Set `checked: true` (and a `source:`) as each entry is confirmed.
 - **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
   which fonds on Szukaj w Archiwach it describes, so the citation can name it;
   and whether "Sądy te narastały nierównomiernie" means the records grew
   unevenly, as translated.
-- **Candidates not yet ruled on.** `glossary_candidates.py` lists about 370,
-  most of them noise from the rarity and abbreviation probes. Worth a ruling:
-  the termbase terms not taken (Einsassen, Rittmeister, Dollmetscher,
-  Syndikus, Arendator, Bürgerschaft, Michaelis as the feast), the
-  Kreis-Justiz-Commission (the court above the patrimonial courts, in two
-  documents) and the Justiz-Commissarius (an attorney, in several). Rule each
-  into an entry or into `excluded:` with the reason.
-- **Not built:** the pipeline check that reports a published holding whose
-  candidates have not been ruled on (`GLOSSARY_PLAN.md` §5). Until it exists,
-  the step in `docs/NEW_UNIT.md` §8 is kept by remembering it.
+- **Candidates.** Every word the gate covers is ruled (2026-10-02): 108
+  entries, 98 ruled out with reasons, and `regenerate.py` now fails if a
+  translated holding brings an unruled one. What the gate leaves out, the
+  rarity probe's words and the timeline's events, can still be read in
+  `review/glossary_candidates.csv` for anything worth an entry.
 
 ## Before the site is shared widely
 
