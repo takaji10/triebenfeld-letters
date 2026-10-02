@@ -65,11 +65,12 @@ runs to 1820.)
 ## Sections
 
 Each section lists what it says, the holdings it rests on, and the incoming
-files expected to add to it. **Status**: *new* is not on the page yet;
-*revise* is on the page and needs the new holdings worked in; *provisional*
-will change when a file now pending is read.
+files expected to add to it. **Status**: *written* is on the page from the
+holdings named (all sections, 2026-10-02); *provisional* will change when a
+file now pending is read. When a section needs a new holding worked in, mark
+it *revise* until it is done.
 
-### Opening, and who is who (*revise*)
+### Opening, and who is who (*written*)
 
 What the era is, where the estates lay (around Konin and Kalisz, in South
 Prussia, Prussia's share of partitioned Poland), and the people the reader
@@ -82,7 +83,7 @@ Counts and span from the data.
 Sources: all holdings. Spellings as settled in `reference/places.yml`
 (Zagórów, Kamionna, not Zagorowo, Kaemen).
 
-### I. Confiscation and grant, 1794 to 1797 (*new*; *provisional*)
+### I. Confiscation and grant, 1794 to 1797 (*written*; *provisional*)
 
 The uprising of 1794 and Antoni Prusimski's part in it; the confiscation, by
 a judgment given at Thorn. Count Hoym's report of 14 July 1796, the cabinet
@@ -105,7 +106,7 @@ Residence* and *Minor Prusimska's claims to father's ...*, if they concern the
 confiscation and the grant, belong here; their era is to be confirmed when they
 are added.
 
-### II. The exchange scheme, 1798 to 1800, and the first challenge, 1800 to 1802 (*revise*; *provisional*)
+### II. The exchange scheme, 1798 to 1800, and the first challenge, 1800 to 1802 (*written*; *provisional*)
 
 The attempt to trade the scattered estates for the crown domains of Krotoszyn
 and Polajewo, and Voss's report against it. As now on the page, without the
@@ -121,7 +122,7 @@ Sources: Oe 1 Bü 9454 (letters 77 to 101); Nr. 3709.
 Incoming: *Complaint of Prusimska against Hohenlohe* is Nr. 3709, already in
 as scans. *Minor Prusimska's claims to father's ...* belongs here or in I.
 
-### III. Dividing the estates, 1798 to 1806 (*revise*)
+### III. Dividing the estates, 1798 to 1806 (*written*)
 
 The sale of Kamionna and Kolno to George Conrad Leixner for 142,000 Rthl. The
 settlers: Moravian Brethren, Mennonites, the Hauländer; the punctation of
@@ -141,7 +142,7 @@ Incoming: *Olesnica estate lease from Hohenlohe* is Nr. 3705, already in.
 *Capital on the Zagorow estates* belongs here; further contracts add examples,
 not new paragraphs, unless they change the pattern.
 
-### IV. The entail of 1805 (*new*)
+### IV. The entail of 1805 (*written*)
 
 The will of 7 October 1805 and the King's confirmation of 19 December 1805,
 which bound the South Prussian lordships with the Silesian estates to one heir
@@ -150,7 +151,7 @@ made in the same year as the estates were being let out in parcels. Short.
 
 Sources: Oe 1 U 199; Oe 1 Bü 9454 where the letters touch it.
 
-### V. War, and the loss of the estates, 1806 to 1807 (*revise*)
+### V. War, and the loss of the estates, 1806 to 1807 (*written*)
 
 Jena and Prenzlau in a sentence each, and what the letters say (letter 26).
 Tilsit; the Duchy of Warsaw; the governing commission's transfer of the
@@ -164,7 +165,7 @@ March 1815, which states the sequence); Oe 1 Bü 14526 (contracts 6 and 7).
 Incoming: *Hohenlohe operations after Jena* gives one or two sentences at
 most, and only if it bears on the estates.
 
-### VI. Lawsuits and arrears, 1808 to 1812 (*revise*)
+### VI. Lawsuits and arrears, 1808 to 1812 (*written*)
 
 Triebenfeld's arrest in Berlin and flight; the thirteen powers of attorney of
 March 1809; thirty-one lawsuits in January 1811; the tribunal at Kalisz
@@ -179,7 +180,7 @@ Incoming: the two files *Klage der Gräfin Michalina von Miączyńska ...* and
 the Hohenlohe claim; if they are her own suits over the estates, they open the
 restitution era and this section links to them. To be decided as each is added.
 
-### VII. The claim, 1814 to 1816 (*revise*)
+### VII. The claim, 1814 to 1816 (*written*)
 
 Vienna: Triebenfeld's petitions to Hardenberg (Paris, May 1814; Vienna,
 October 1814 and March 1815), the claim for nine years' revenue, Hohenlohe-
@@ -194,7 +195,7 @@ Sources: Oe 1 Bü 9454 (the Vienna letters, letter 303); Nr. 12765.
 
 Incoming: *Claims of Hohenlohe on Trabczyn* is Nr. 12765, already in.
 
-### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1820 (*new*)
+### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1820 (*written*)
 
 His death in 1818; the heirs' claim recommended by Duke Eugen of Württemberg;
 Alopeus's answer of 31 January 1820 that it had been refused in 1816; the
@@ -202,13 +203,13 @@ ministry's last step. Short.
 
 Sources: Nr. 12765 (documents 27 and 29).
 
-### The people you will keep meeting (*revise*)
+### The people you will keep meeting (*written*)
 
 As now, with the people the new holdings add: Hoym, Glenck as manager,
 Leixner, Zerboni di Sposetti, Schöler, Antoni Prusimski. Links to the People
 page.
 
-### What to read first (*revise*)
+### What to read first (*written*)
 
 Fifteen documents in the order of the sections, drawn from all the holdings
 and not only the letters: at least the charter of 1796, the entail, the

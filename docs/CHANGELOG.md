@@ -1034,6 +1034,27 @@ and `reference/whos_who.md` are rewritten to match. The queryable dataset in
 `corpus/` was regenerated with it, which also brought in the English money
 forms already on the site.
 
+## The Hohenlohe-Ingelfingen years rewritten from all nine holdings (2026-10-02)
+
+The era page (`site/hohenlohe.md`, `site/de/hohenlohe.md`) had been written
+on 2026-09-29 from the letters and the contracts alone. It is rewritten on the
+plan in `docs/HOHENLOHE_ERA_PLAN.md`, in the voice the editor set (story voice,
+little metaphor, plain facts), in English and German written separately. New
+sections tell the confiscation and the grants of 1796 and 1797 (Nr. 3570,
+Oe 1 Bü 14525), Michalina Prusimska's complaints of 1800 to 1802 (Nr. 3709, as
+far as the scans show), the sales of Szetlewek, Kamionna and Kolno and
+Pszczew, the Erbet lease and the Oleśnica petition, the entail of 1805
+(Oe 1 U 199), the tribunal at Kalisz, Zerboni di Sposetti's report, the
+Russian refusal of 1816 and the heirs' claim to 1820 (Nr. 12765). The reading
+list draws on all the holdings. The document count, span and number of
+holdings now come from the site data. Corrections on the way: letter 28 is
+Hawich's, not Triebenfeld's; letter 217 is von Sanitz's report of what he had
+heard, and letter 198 a refusal of Michalina's petition; the German quotations
+follow the transcription as it now stands (Beyme, not Beyhm; retirirt; lassen).
+The era blurb in `reference/eras.yml` dated the takeover to the Third
+Partition and the claim to 1816, and said the edition calls Pszczew Betsche;
+all three are corrected (the Second Partition of 1793; 1820; Pszczew).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

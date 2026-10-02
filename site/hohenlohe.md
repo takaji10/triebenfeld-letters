@@ -1,352 +1,469 @@
 ---
 layout: page
 title: The Hohenlohe-Ingelfingen years
-standfirst: 1798 to 1816. Prussia takes Trąbczyn in the partition, the King gives it away, and the estate is broken into holdings and let out to the people who work it. The first era of the archive to be published.
+standfirst: How the Prussian crown took the Trąbczyn estates from their Polish owner and gave them to a Prussian general; how he divided them, let them out and lost them; and how his claim to them was argued until 1820.
 permalink: /hohenlohe/
 lang: en
 alt_url: /de/hohenlohe/
 era: hohenlohe
 ---
+{%- assign era = site.data.eras | where: "slug", "hohenlohe" | first -%}
+{%- assign era_units = site.data.units | where: "era", "hohenlohe" -%}
 
 *This is one of three eras. See [the story]({{ '/the-story/' | relative_url }}) for the
 other two, which are not yet published.*
 
-This era holds 348 documents, dated between 1798 and 1816, from two archival files.
+This era holds {{ era.count }} documents, dated between {{ era.first }} and {{ era.last }},
+from {{ era_units | size }} archival holdings. Most are
+letters written to the estates' owner by his agent. With them are the charters by which
+the King of Prussia granted the estates, the deeds by which they were sold and let out,
+a court record of one settler's lease, the confirmation of a family entail, and the files
+of the Prussian ministries on the owner's affairs. The
+[Sources]({{ '/sources/' | relative_url }}) page describes each holding.
 
-One is a volume of title deeds: the contracts by which the estate was divided, let out and
-sold, naming the settlers who took the holdings and the terms they took them on. The other
-is eighteen years of letters from the agent who ran the place for an absent owner, and they
-are hard going on their own, since they open in the middle of business and assume you know
-everyone. Read together, the two answer different questions. The deeds record what was
-agreed. The letters record what the agent wanted, what he feared, and what he told his
-employer had gone wrong.
+The letters and the deeds answer different questions. The deeds record what was agreed:
+who took which land, at what price and on what terms. The letters record what happened
+next. The ministry files show how the case looked from Berlin.
 
-Every claim below links to the letter it comes from, so you can leave this page at any
-point and go to the evidence.
+## Who is who
 
-## Who ran the estate
+**Prince Friedrich Ludwig of Hohenlohe-Ingelfingen** (1746 to 1818) was a Prussian general
+and governor of Wrocław, with estates and ironworks in Silesia. In 1796 and 1797 the
+Prussian crown granted him estates in South Prussia, the province formed from Prussia's
+share of the partitions of Poland. They lay around Konin, east of Poznań, with outlying
+parts further west. He never lived on them, and he was in debt throughout.
 
-Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746 to 1818) was a Prussian general
-and a prince of the Holy Roman Empire. After the Third Partition of Poland in 1795 the
-Prussian crown granted him estates in the newly annexed province of South Prussia:
-Zagorowo, Trąbczyn, Kaemen and others, lying around Konin and Kalisz in what is now
-central Poland. The grant was large and it was encumbered, and he spent the rest of his
-life trying to get money out of it.
+**Johann Wilhelm Glenck**, his building and economy councillor at Wrocław, saw to the
+estates first: he handled the registration of title and made some of the earliest sales.
 
-Peter Friedrich von Triebenfeld, Councillor of War and Forests, was the man who had to
-make the grant pay, and he wrote most of the letters here. He
-signed for his employer's debts himself, which is why the correspondence runs on so long
-after the estate was gone: he could not get free of them. He signs himself *unterthänigster
-Diener*, most humble servant, while telling the Prince with steadily less ceremony that he
-is being ruined on his behalf.
+**Peter Friedrich von Triebenfeld**, a Prussian councillor (*Kriegsrath*) with estates of
+his own in Silesia, acted for Hohenlohe-Ingelfingen from 1798 and held his general power of
+attorney from 1805. He wrote most of the letters here, and he signed for several of his
+employer's debts himself, which is why the correspondence continues long after the estates
+were gone. Almost everything below is Triebenfeld writing to Hohenlohe-Ingelfingen. Where
+someone else writes, the page says so.
 
-Almost everything below is Triebenfeld writing to the Prince. Where the direction reverses,
-or a third party writes, the page says so.
+**Antoni Prusimski**, Starost of Niszczewice, owned Trąbczyn and Kamionna before the grant.
+His daughter **Michalina Prusimska**, later Dąbska and then Miączyńska by her two marriages,
+recovered the estates in 1807.
 
-## I. The grant, and the attempt to trade it away, 1798 to 1800
+## I. Confiscation and grant, 1794 to 1797
 
-The correspondence opens with a scheme. The Polish estates were scattered, encumbered and
-hard to manage from Silesia, so the Prince wanted to trade them to the crown for two
-consolidated Prussian domains, Krotoszyn and Polajewo, and clear his debts without asking
-the state for charity.
+In 1794 the Poles rose against the partitioning powers. After the rising was put down, the
+Prussian crown confiscated the estates of landowners who had taken part in it. Antoni
+Prusimski was named by the Prussian authorities as one of its leaders, and he fled. His
+estates were declared forfeit to the Treasury by a judgment given at Thorn.
 
-Triebenfeld spent the autumn of 1798 in Berlin working every channel he could reach:
+In the summer of 1796 Count Hoym, the minister responsible for Silesia and South Prussia,
+proposed that some of these estates, with others that had fallen vacant, be granted to
+officers. The file of the central administration in Berlin holds the sequence: Hoym's
+report to the King of 14 July, the cabinet order of 23 July approving it, and the charter
+for Hohenlohe-Ingelfingen dated 9 August 1796
+([Nr. 3570]({{ '/documents/ihagrrep7cnr3570/1/' | relative_url }})). Six other officers were
+granted estates at the same time, among them Blücher.
+
+The charter gave Hohenlohe-Ingelfingen what had been Prusimski's: the town of Kamionna and
+the market town of Kolno in the district of Poznań, the villages of Trąbczyn, Szetlewek, Nowawies,
+Łazy, Old and New Laski and Osiny with the Trąbczyn Hauland near Konin, and Brzyce in
+Kuyavia. Hoym, reporting the King's decision, put their yearly income at 4,000 Thaler
+([letter of 30 July 1796]({{ '/documents/oe1bu14525/39/' | relative_url }})). The charter
+itself survives in this edition in three certified copies
+([one of them]({{ '/documents/oe1bu14525/1/' | relative_url }})).
+
+A second charter, of 19 June 1797, added sixteen villages that had belonged to the church,
+among them Zagórów, Pszczew (in German, Betsche), Kopojno and Drzewce. Its stated reason was
+that Prusimski's estates had turned out to be heavily in debt
+([a copy]({{ '/documents/oe1bu14525/5/' | relative_url }})). Both grants carried a fixed
+annual payment to the crown and the maintenance of the former church owners.
+
+The handover was slow. A royal order of October 1797 to the chambers at Poznań and Petrikau
+states that it had been a formality, and that those who held parts of the estates on pledge
+or lease had been left in possession
+([royal order]({{ '/documents/oe1bu14525/40/' | relative_url }})). Registering
+Hohenlohe-Ingelfingen's title took years. The government at Kalisz required a certified
+copy of the confiscation judgment, and the request for it was refused at Poznań because the
+judgment had been given at Thorn
+([December 1798]({{ '/documents/oe1bu14525/42/' | relative_url }})).
+
+## II. The exchange scheme, 1798 to 1800, and the first challenge
+
+The correspondence opens with a plan to be rid of the estates. They were scattered,
+encumbered and hard to manage from Silesia, and Hohenlohe-Ingelfingen wanted to exchange
+them with the crown for two consolidated Prussian domains, Krotoszyn and Polajewo, and so
+clear his debts.
+
+Triebenfeld spent the autumn of 1798 in Berlin approaching everyone who could help:
 [Cabinet Councillor Beyme]({{ '/documents/oe1bu9454/77/' | relative_url }}), Minister
-[Struensee]({{ '/documents/oe1bu9454/79/' | relative_url }}), Count Hoym, and above all Colonel von
-Köckritz, the King's adjutant-general and personal confidant, who became the Prince's most
-useful friend at court. Against them stood one man: Etats-Minister von Voss, whose
-department had to report on the exchange and who kept not reporting.
+[Struensee]({{ '/documents/oe1bu9454/79/' | relative_url }}), Count Hoym, and Colonel von
+Köckritz, the King's adjutant-general, who became Hohenlohe-Ingelfingen's most useful
+friend at court. The minister whose department had to report on the exchange was
+Etats-Minister von Voss, and his report was slow in coming.
 
-For a few weeks it looked done. Köckritz sent word that the business
-[could be counted as good as concluded]({{ '/documents/oe1bu9454/96/' | relative_url }}). It was not.
-Voss's report, when it came, killed the scheme. He told the King the state would lose
-17,400 Reichsthaler a year, resting on a valuation by a Kriegsrath named Nöldichen who
-had, Triebenfeld protested, [never inspected the
-properties]({{ '/documents/oe1bu9454/87/' | relative_url }}). The refusal survives here as
-[a copy of the royal rescript]({{ '/documents/oe1bu9454/85/' | relative_url }}), and the Prince was
-still [petitioning against it two years later]({{ '/documents/oe1bu9454/101/' | relative_url }}).
+For a few weeks the exchange looked settled. Köckritz sent word that the business
+[could be counted as good as concluded]({{ '/documents/oe1bu9454/96/' | relative_url }}). It
+was not. Voss reported that the state would lose 17,400 Reichsthaler a year, on a valuation
+by a Kriegsrath named Nöldichen who had, Triebenfeld protested,
+[never inspected the properties]({{ '/documents/oe1bu9454/87/' | relative_url }}). The King
+refused, and the refusal survives as
+[a copy of the royal rescript]({{ '/documents/oe1bu9454/85/' | relative_url }}).
+Hohenlohe-Ingelfingen was still
+[petitioning against it two years later]({{ '/documents/oe1bu9454/101/' | relative_url }}).
 
-> The honest Cabinet Councillor Beyhm let me read the papers in the Cabinet myself.
+> The honest Cabinet Councillor Beyme let me read the papers in the Cabinet myself.
 > <cite>[Letter 96]({{ '/documents/oe1bu9454/96/' | relative_url }})</cite>
 {: .pull}
 
-Everything after this follows from that failure. The Prince keeps estates he cannot
-afford, and the correspondence stops being about acquiring land and becomes about
-extracting money from it.
+From this point Hohenlohe-Ingelfingen kept estates he could not afford, and the
+correspondence turns from acquiring land to raising money from it.
 
-## II. The estate is broken up, 1800 to 1806
+The grant was also challenged from the other side. In June 1800 Michalina Prusimska
+petitioned the King against Hohenlohe-Ingelfingen, and a file of the central administration
+follows her complaints to January 1802
+([Nr. 3709]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }})). From its pages it holds
+royal orders to the government at Poznań, that government's reports, a letter of
+Hohenlohe-Ingelfingen of November 1800, and a petition in French signed by her in 1802. The
+file has not yet been transcribed, and what she claimed is not yet known.
 
-Triebenfeld's answer to the debts was colonisation. Break the demesne into parcels, settle farmers on
-them under hereditary lease, and turn land into a permanent stream of rent.
+## III. Dividing the estates, 1798 to 1806
 
-He recruited hard and widely. Moravian Brethren from Bohemia, whom the letters call
-Hussites, [came to look at the land]({{ '/documents/oe1bu9454/120/' | relative_url }}) at 300
-Reichsthaler a *Hufe*, then [went home to fetch their
-co-religionists]({{ '/documents/oe1bu9454/126/' | relative_url }}). Mennonites from West Prussia
-[offered to buy Zagorowo and Trąbczyn entire]({{ '/documents/oe1bu9454/146/' | relative_url }}) and
-divide the estates among themselves. Alongside them were the *Hauländer*, settlers holding
-on a Dutch-derived tenure that long predated the Prussian takeover. The corpus glosses the
-word itself: ["die Hauländer oder Collonisten"]({{ '/documents/oe1bu9454/216/' | relative_url }}).
+Hohenlohe-Ingelfingen's answer to the debts was to sell what would sell and to let the rest
+out in hereditary lease. Under such a lease the settler paid a sum to enter, then a fixed
+rent every year, and held the land as heritable property.
 
-What that meant on paper is in the deeds. In April 1805 Triebenfeld signed a
-[punctation]({{ '/documents/oe1bu14526/15/' | relative_url }}) making over 270 *Hufen* out
-of Trąbczyn, Łazy, Osiny, Neudorff and Przybysław, at 300 Reichsthaler the *Hufe*, and fifteen more every year in rent that could never be bought out. New villages were to be laid out in two straight lines, with thirteen free
-*Morgen* set aside in each for the schoolmaster, the village head and the churchyard. The
-Crown had licensed the breaking-up the year before, and that licence is filed with
-[another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}).
+The outlying estates went first. Glenck sold the farm of Szetlewek to the miller Samuel
+Lucke for 12,333 Rthl, most of it owed to the man who held the estate on pledge
+([contract]({{ '/documents/oe1bu14526/25/' | relative_url }})). Kamionna and Kolno were sold
+in 1804 to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for
+142,000 Rthl ([contract]({{ '/documents/oe1bu14526/5/' | relative_url }});
+[letter 136]({{ '/documents/oe1bu9454/136/' | relative_url }})). In July 1804 the whole
+lordship of Pszczew was made over to its townspeople and six villages for 180,000 Rthl and a
+yearly ground rent of 1,000 Rthl, most of the price being met by taking over its mortgage
+debts ([contract]({{ '/documents/oe1bu14526/18/' | relative_url }})). The authorities at
+Poznań refused permission for it in May 1805
+([refusal]({{ '/documents/oe1bu14526/24/' | relative_url }})), and a royal approval followed
+only in 1806.
 
-Seventeen men signed that punctation. Ten of them signed with a cross. German and Polish
-names stand side by side in the list, and one of the holdings, three *Hufen*, is taken by a woman, Elisabetta di Simony, in her own name.
+Trąbczyn and Zagórów were divided among settlers. Triebenfeld recruited widely. Moravian
+Brethren from Bohemia, whom the letters call Hussites,
+[came to look at the land]({{ '/documents/oe1bu9454/120/' | relative_url }}) at 300
+Reichsthaler a *Hufe*, then
+[went home to fetch their co-religionists]({{ '/documents/oe1bu9454/126/' | relative_url }}).
+Mennonites from West Prussia
+[offered to buy Zagórów and Trąbczyn entire]({{ '/documents/oe1bu9454/146/' | relative_url }})
+and divide them among themselves. Alongside them were the *Hauländer*, settlers on a tenure
+of Dutch origin that was much older than the Prussian takeover: the letters gloss the word
+as ["die Hauländer oder Collonisten"]({{ '/documents/oe1bu9454/216/' | relative_url }}).
 
-The terms repeat almost word for word across thirteen of these contracts, and they are
-worth reading once in full, because they explain what happens later. A settler paid to
-enter. He owed a fixed rent for ever, and the lord took a tenth of the price every time the
-holding changed hands. He ground his corn at the lord's mill and drank at the lord's tavern.
-Two years in arrears and he forfeited. And he gave up, in advance and in writing, any claim
-to relief if things went wrong. Fire, flood, war, bad harvests: all of it his own risk.
+In April 1805 Triebenfeld signed a
+[punctation]({{ '/documents/oe1bu14526/15/' | relative_url }}) letting 270 *Hufen* at
+Trąbczyn, Łazy, Osiny, Neudorff and Przybysław at 300 Reichsthaler the *Hufe*, with fifteen
+more every year in a rent that could never be bought out. New villages were to be laid out
+in two straight lines, with thirteen free *Morgen* in each for the schoolmaster, the village
+head and the churchyard. The crown had licensed the division the year before, and the licence
+is filed with [another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}).
+Seventeen men signed the punctation, ten of them with a cross. German and Polish names stand
+side by side in the list, and one holding, three *Hufen*, is taken by a woman, Elisabetta di
+Simony, in her own name.
 
-It worked for a while. By 1806 the formal revenue survey certified by the Kalisch Chamber
-put the two lordships at [40,260 Reichsthaler a
-year]({{ '/documents/oe1bu9454/179a/' | relative_url }}), and hereditary rents from the newly parcelled
-land were already worth nearly three times the dues from the old manorial tenants. The same
-document promises the King sixteen new villages and five hundred families.
+The terms repeat almost word for word across the hereditary leases. The settler paid entry
+money and owed a fixed rent for ever, and the lord took a tenth of the price whenever the
+holding was sold. He paid the taxes, bought his drink from the lord's tavern and ground his
+corn at the lord's mill. Two years in arrears and he forfeited the holding. He also gave up,
+in advance and in writing, any claim to relief for fire, flood, war or bad harvests.
 
-But the debts grew faster than the rents. Kaemen and Kolno were
-[sold in 1804]({{ '/documents/oe1bu9454/136/' | relative_url }}). Countess Schlabrendorff
-[would not wait past Christmas]({{ '/documents/oe1bu9454/118b/' | relative_url }}) for 50,000
-Reichsthaler. In January 1805, through Köckritz's personal intervention, the Invalids'
-Fund, which was the Prussian military pension fund, agreed to advance
-[150,000 Reichsthaler]({{ '/documents/oe1bu9454/158/' | relative_url }}), 50,000 of it at once against
-a mortgage and Triebenfeld's own signature. He would spend the next decade paying for
-having signed.
+One such lease can be followed from contract to court record. On 31 March 1806 the
+patrimonial court of the Trąbczyn estates, sitting at Mariantów, recorded that Triebenfeld
+had let one *Hufe* of the Trąbczyn forest to Christoph Erbet of the Trąbczyn Hauland for 100
+Reichsthaler entry money and 30 a year, the first three years free
+([court record]({{ '/documents/app5371057/1/' | relative_url }})). The record is in the State
+Archive in Poznań because in 1811 the estate official Hawich handed it to the peace court
+of the Konin district to recover the costs from Erbet.
+
+Not every lease paid. The estate of Oleśnica had been let to three townsmen, Giese, Bagans
+and Gietzinger, for 20,000 Reichsthaler entry money. In September 1805 Triebenfeld
+petitioned the King: the lessees had paid 10,000, raised from their own sub-lessees, and
+since then neither rent nor taxes, and had sold off parts of the estate. The government at
+Kalisz had twice refused to put it under court administration, and he asked the King to
+order it ([petition]({{ '/documents/ihagrrep7cnr3705/1/' | relative_url }})). The file holds
+no reply.
+
+By 1806 a revenue survey certified by the chamber at Kalisz put the two lordships of
+Trąbczyn and Zagórów at
+[40,260 Reichsthaler a year]({{ '/documents/oe1bu9454/179a/' | relative_url }}), and the
+hereditary rents from the newly divided land at nearly three times the dues from the old
+manorial tenants. The same document promises the King sixteen new villages and five hundred
+families.
+
+The debts grew faster than the rents. Countess Schlabrendorff
+[would not wait past Christmas]({{ '/documents/oe1bu9454/118b/' | relative_url }}) for
+50,000 Reichsthaler. In January 1805, through Köckritz, the Invalids' Fund, the Prussian
+military pension fund, agreed to advance
+[150,000 Reichsthaler]({{ '/documents/oe1bu9454/158/' | relative_url }}), 50,000 of it at once
+against a mortgage and Triebenfeld's own signature. The mortgage register for Zagórów
+records a loan of 250,000 Reichsthaler to Triebenfeld, parts of it already ceded to other
+creditors ([register extract]({{ '/documents/oe1bu14525/21/' | relative_url }})).
 
 > Any breach of word is foreign to my heart, and shall remain so to my last breath.
 > <cite>[Letter 158]({{ '/documents/oe1bu9454/158/' | relative_url }})</cite>
 {: .pull}
 
-In April 1804 Triebenfeld sends the Prince a draft reply for approval and asks that
-someone else make the fair copies:
+In April 1804 Triebenfeld sent a draft reply for approval and asked that someone else make
+the fair copies:
 
 > I am as though crushed, and, since my good wife is being laid to rest today, I have
 > withdrawn with the children to my brother-in-law's.
 > ([Letter 124]({{ '/documents/oe1bu9454/124/' | relative_url }}))
 
-He then finishes the business of the letter.
+He then finished the business of the letter.
 
-## III. War, and the estate changes hands, 1806 to 1807
+## IV. The entail of 1805
 
-In the autumn of 1806 Prussia was destroyed as a military power in a week. The Prince
-commanded at Jena and capitulated at Prenzlau, and his career ended there.
+In his will of 7 October 1805 Hohenlohe-Ingelfingen placed his principal properties under
+entail: they were to pass undivided to one heir and could not be sold or divided. The King
+confirmed the foundation by a charter of 19 December 1805
+([charter]({{ '/documents/oe1u199/1/' | relative_url }})). The entail covered his houses at
+Wrocław and the park at Szczytniki, the estate of Bytków, the lordship of Koszęcin, and the
+South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Bątkowo. If the male
+line ended, the South Prussian estates were to go to his third daughter, Auguste. The
+charter was made in the same year in which those estates were being let out in parcels.
 
-The letters do not say so. What survives is
-[a letter of relief]({{ '/documents/oe1bu9454/26/' | relative_url }}) from Breslau at the end of
-October 1806, in which Triebenfeld has learned only through a secretary that his employer
-is alive, malicious rumours having made things sound worse. That the rumours concern Jena
-and Prenzlau is an inference from the date and from the biography. The letter never names
-the battle, and this edition does not pretend otherwise.
+## V. War, and the loss of the estates, 1806 to 1807
+
+In October 1806 Prussia was defeated at Jena and Auerstedt. Hohenlohe-Ingelfingen commanded
+at Jena and surrendered at Prenzlau at the end of the month, and held no further command.
+
+The letters do not mention either event. What survives is
+[a letter of relief]({{ '/documents/oe1bu9454/26/' | relative_url }}) written from Wrocław at
+the end of October 1806, in which Triebenfeld has learned through a secretary that his
+employer is alive, after rumours had made things sound worse. That the rumours concerned
+Jena and Prenzlau is an inference from the date; the letter does not name the battle.
 
 > My joy was now greater than my distress had been before, and I only thank God that you are alive.
 > <cite>[Letter 26]({{ '/documents/oe1bu9454/26/' | relative_url }})</cite>
 {: .pull}
 
-The peace of Tilsit in July 1807 then detached South Prussia from the Prussian crown and
-gave it to the new Duchy of Warsaw. The estates were now in a foreign country, and the
-family the crown had confiscated them from moved at once. In October 1807 the Trąbczyn
-estates were [taken over by an appellate judge from
-Kalisz]({{ '/documents/oe1bu9454/28/' | relative_url }}) and handed to the heirs of the old owner.
-Kaemen went the same way, [seized by force, and nothing to be
-done]({{ '/documents/oe1bu9454/27/' | relative_url }}). It happened, as the Prince's own later petition
-puts it, [fourteen weeks after the Peace of
-Tilsit]({{ '/documents/oe1bu9454/265b/' | relative_url }}).
+By the Peace of Tilsit in July 1807 Prussia gave up South Prussia, and the Duchy of Warsaw
+was formed from it. On 5 October 1807 the estate official Hawich reported from Pyzdry that
+the Trąbczyn estates had been
+[taken over by an appellate judge from Kalisz]({{ '/documents/oe1bu9454/28/' | relative_url }})
+and handed to the heirs of the former owner, and two weeks later Triebenfeld wrote that
+Kamionna had been [taken in the same way]({{ '/documents/oe1bu9454/27/' | relative_url }}). Triebenfeld's
+petition of March 1815 states the sequence: fourteen weeks after the peace, a Polish
+administrative commission took possession of all the estates without a judgment of any court
+and gave them to Prusimski's daughter
+([petition]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }});
+[letter 265b]({{ '/documents/oe1bu9454/265b/' | relative_url }})).
 
-The claimant was the daughter of the Starost Anton von Prussiemski. She appears in these
-letters under a bewildering set of names: *Prusimska* as a maiden, *Dąbska* while married,
-and after a remarriage around 1814 *Miączyńska*, *Moscinska* and *Moszynska*. One woman,
-and she wins. Over the following decade she petitions the King at Warsaw,
-[is refused]({{ '/documents/oe1bu9454/198/' | relative_url }}), petitions the Emperor at Dresden, and
-[gets the estates restored to her by the Polish
-commissioners]({{ '/documents/oe1bu9454/217/' | relative_url }}) anyway. Triebenfeld's complaint is
-always procedural, that she took possession
-["without any decrees or judgments whatever"]({{ '/documents/oe1bu9454/215/' | relative_url }}), and it
-never gets him anywhere, because her connections are better than his.
+The claimant was Michalina Prusimska, who appears in the letters under several surnames:
+Prusimska, then Dąbska, and after a second marriage around 1814 Miączyńska, which the letters
+also write Moscinska and Moszynska. In 1810 the King of Saxony, as Duke of Warsaw,
+[refused a petition of hers]({{ '/documents/oe1bu9454/198/' | relative_url }}) concerning
+Trąbczyn. In August 1811 von Sanitz, another of the officers granted estates in 1796, wrote
+that he had heard from the Saxon court that Polish commissioners, on her petition, had
+[ordered the estates returned to her]({{ '/documents/oe1bu9454/217/' | relative_url }}). Triebenfeld's
+objection was always that she had taken possession
+["without any decrees or judgments whatever"]({{ '/documents/oe1bu9454/215/' | relative_url }}).
+Her own tenure of the estates is the subject of the third era of this archive, which is not
+yet published.
 
-The deeds add a detail the letters do not mention. On 28 January 1808, three months after
-the seizure, the estate's own court was still issuing settlers their papers. Two
-hereditary-lease contracts carry engrossments made out that day. One [at Alexandrien]({{ '/documents/oe1bu14526/6/' | relative_url }}) under the seal of the
+The deeds add one detail. On 28 January 1808, three months after the seizure, the estates'
+own court was still issuing settlers their papers. Two hereditary-lease contracts carry fair
+copies made out that day: one
+[at Alexandrien]({{ '/documents/oe1bu14526/6/' | relative_url }}) under the seal of the
 "Hohenlohesches Patrimonial Gericht amt Zagorow", the other
-[at Pyzdry]({{ '/documents/oe1bu14526/7/' | relative_url }}) and in Polish, signing itself *Sąd
-Patrimonialny Maiętnosći Zagurowskiey*, the patrimonial court of the Zagorowo property. The
-same official, Hawich, signs both. The lord had lost the estate and the state above it had
-changed hands, and the court went on perfecting the title of a man named Gottlieb Sarre to
-a Hufe and a half of cleared forest.
+[at Pyzdry]({{ '/documents/oe1bu14526/7/' | relative_url }}) in Polish, as *Sąd Patrimonialny
+Maiętnosći Zagurowskiey*. The same official, Hawich, signs both, confirming a man named
+Gottlieb Sarre in a *Hufe* and a half of cleared forest.
 
-## IV. Litigation, and the settlers in arrears, 1808 to 1812
+## VI. Lawsuits and arrears, 1808 to 1812
 
-By 1808 the creditors had reached Triebenfeld personally. He was
-[arrested in Berlin by two French gendarmes]({{ '/documents/oe1bu9454/30/' | relative_url }}) as the
-Prince's general plenipotentiary, held over two years' arrears of interest on the Invalids'
-Fund loan, the one he had signed for himself. [His own account of
-it]({{ '/documents/oe1bu9454/42/' | relative_url }}) is worth reading. In 1809 he
-[fled Berlin]({{ '/documents/oe1bu9454/45/' | relative_url }}) to avoid arrest over another judgment,
-[was robbed on the road]({{ '/documents/oe1bu9454/57/' | relative_url }}) of a trunk worth 800
-Reichsthaler, and had bailiffs in his house.
+By 1808 the creditors had reached Triebenfeld himself. As Hohenlohe-Ingelfingen's general
+agent he was
+[arrested in Berlin by two French gendarmes]({{ '/documents/oe1bu9454/30/' | relative_url }})
+for two years' arrears of interest on the Invalids' Fund loan, which he had signed for.
+[His own account of it]({{ '/documents/oe1bu9454/42/' | relative_url }}) survives. In 1809 he
+[left Berlin]({{ '/documents/oe1bu9454/45/' | relative_url }}) to avoid arrest under another
+judgment, [was robbed on the road]({{ '/documents/oe1bu9454/57/' | relative_url }}) of a trunk
+worth 800 Reichsthaler, and had bailiffs in his house.
 
 > Now I am a true beggar-dog, and must still thank God that I was not myself murdered.
 > <cite>[Letter 57]({{ '/documents/oe1bu9454/57/' | relative_url }})</cite>
 {: .pull}
 
-Against this he mounted a counter-offensive. The plan survives twice over, because the same
-document was transcribed into the archive twice, as
+On 7 March 1809, writing from Kontop, he executed thirteen powers of attorney in one
+sitting: to lift the sequestration, to sue the creditors Oppenheimer and Wolff over 72,000
+Reichsthaler, to dismiss and prosecute a sequestrator for fraud, to collect the arrears, and
+to defend possession at Warsaw. The letter is in the file twice, as
 [letter 48]({{ '/documents/oe1bu9454/48/' | relative_url }}) and
-[letter 302]({{ '/documents/oe1bu9454/302/' | relative_url }}), written from Kontop on 7 March 1809. In
-one sitting he executed thirteen separate powers of attorney: lift the sequestration, sue
-the creditors Oppenheimer and Wolff over 72,000 Reichsthaler, dismiss and prosecute a
-fraudulent sequestrator, collect the arrears, defend possession at Warsaw.
+[letter 302]({{ '/documents/oe1bu9454/302/' | relative_url }}).
+Hohenlohe-Ingelfingen also sued for the estates themselves; the tribunal at Kalisz, the
+court of the Duchy of Warsaw for the department, declared that it had no authority to set
+aside the commission's order
+([petition of 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})).
 
-By January 1811 he was, on his own count,
-[running thirty-one lawsuits at once]({{ '/documents/oe1bu9454/212/' | relative_url }}) and recovering
-almost nothing. He wrote that letter from a peasant's hut at Swiątniki while recovering
-from a serious illness.
+By January 1811 Triebenfeld was, on his own count,
+[conducting thirty-one lawsuits at once]({{ '/documents/oe1bu9454/212/' | relative_url }}) and
+recovering almost nothing. He wrote that letter from a peasant's house at Świątniki, while
+recovering from a serious illness.
 
-The colonists were caught in the middle. Grain prices had collapsed and they could not pay.
-Triebenfeld's officers advised remitting some arrears, and in 1811 a third of the year's
-interest was [remitted as an act of princely
-grace]({{ '/documents/oe1bu9454/215/' | relative_url }}), which was also the practical course, since
-otherwise "the people out of obstinacy give nothing at all". In the same year, weighing
-whether the Prince should keep the estates at all, he proposed the opposite: to have the
-colonists ["for the most part driven out by judicial
-decrees"]({{ '/documents/oe1bu9454/216/' | relative_url }}) and the land turned back into demesne farms.
+The settlers could not pay. Grain prices had fallen, and Triebenfeld's officials advised
+remitting part of the arrears. In 1811 a third of the year's interest was
+[remitted as an act of princely grace]({{ '/documents/oe1bu9454/215/' | relative_url }}),
+because otherwise, he wrote, "the people out of obstinacy give nothing at all". In the same
+year, weighing whether Hohenlohe-Ingelfingen should keep the estates at all, he proposed the
+opposite: to have the settlers
+["for the most part driven out by judicial decrees"]({{ '/documents/oe1bu9454/216/' | relative_url }})
+and the land turned back into demesne farms.
 
-It is worth turning back to the contracts at this point. The colonists who could not pay
-had already signed away any claim to relief. The clause is in every one of these leases and it covers precisely this. They are not anonymous in the archive either. The
-[Althütte contract]({{ '/documents/oe1bu14526/17/' | relative_url }}) names six of them with the
-villages they came from: Martin Giering from Racotten, Wilhelm Daniel Schulz from
-Krolikower Holländ, Gottfried and Michael Dumel from Razoten, Gottfried Damt, and Christoph
-Schoenfisch from Trąbczyner Holländ. It is signed by marks.
+The settlers in arrears had signed away any claim to relief in their contracts. They are
+named in the deeds. The [Althütte contract]({{ '/documents/oe1bu14526/17/' | relative_url }})
+lists six with the villages they came from: Martin Giering from Racotten, Wilhelm Daniel
+Schulz from Krolikower Holländ, Gottfried and Michael Dumel from Razoten, Gottfried Damt,
+and Christoph Schoenfisch from Trąbczyner Holländ. It is signed with marks.
 
-## V. The claim at the Congress of Vienna, 1814 to 1815
+## VII. The claim, 1814 to 1816
 
-In the autumn of 1814 Triebenfeld was sent to the Congress of Vienna to petition for the
-restitution of the Polish estates.
+After Napoleon's defeat the future of the Duchy of Warsaw was open, and Hohenlohe-Ingelfingen
+pressed for the return of the estates or compensation for them. Triebenfeld petitioned the
+State Chancellor, Hardenberg, in Paris in May 1814
+([petition]({{ '/documents/iiihamdaiiinr12765/3/' | relative_url }})), and then went to the
+Congress of Vienna.
 
-He [arrived in October]({{ '/documents/oe1bu9454/242/' | relative_url }}) after three days on the road,
-into a city where the paper money ruined foreigners and everything cost more than he had.
-One letter [itemises his own poverty]({{ '/documents/oe1bu9454/243/' | relative_url }}) line by line:
-the room, the coffee, the one glass of wine a man must take for appearance's sake, the
-servant, the carriage. He is justifying a request for another 300 Reichsthaler in gold, and
-naming the day he will have to leave if it does not come. He gives his address as the
-Golden Duck, in the Schulerstraße.
+He [arrived in October 1814]({{ '/documents/oe1bu9454/242/' | relative_url }}), after three
+days on the road, and found prices far beyond his means. One letter
+[lists his expenses]({{ '/documents/oe1bu9454/243/' | relative_url }}) line by line, the room,
+the coffee, the one glass of wine he took for the sake of appearances, the servant and the
+carriage, to support a request for another 300 Reichsthaler in gold. He gives his address as
+the Golden Duck in the Schulerstraße.
 
 > I have nothing on my back, and often nothing in my belly.
 > <cite>[Letter 266]({{ '/documents/oe1bu9454/266/' | relative_url }})</cite>
 {: .pull}
 
-The lobbying was real, and for a while it looked hopeful. He petitioned
-[Prince State Chancellor Hardenberg]({{ '/documents/oe1bu9454/245/' | relative_url }}) and
-[received a reply]({{ '/documents/oe1bu9454/252/' | relative_url }}). Wilhelm von Humboldt
-[took up the case]({{ '/documents/oe1bu9454/250/' | relative_url }}) and demanded copies of everything.
-Hardenberg was reported saying that Hohenlohe was
-[the worst-treated of men]({{ '/documents/oe1bu9454/262/' | relative_url }}). Triebenfeld tracked the
-whole Congress, the manoeuvres, the King of Württemberg's eight-horse carriage, the Duchess
-of Sagan's claims, while the thing that decided his case was a river.
+He petitioned Hardenberg again in October 1814 and in March 1815. The petition of March
+1815 sets out the case in full and asks for the return of the Trąbczyn estates with nine
+years' revenue, 36,500 Reichsthaler
+([petition]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})). Wilhelm von Humboldt
+[took up the case]({{ '/documents/oe1bu9454/250/' | relative_url }}) and asked for copies of
+everything, and Hardenberg was reported as calling Hohenlohe-Ingelfingen
+[the worst-treated of men]({{ '/documents/oe1bu9454/262/' | relative_url }}).
+Hohenlohe-Ingelfingen wrote himself, in April 1815 to Baron vom Stein and in May to
+Hardenberg. He gave his loss as 325,400 écus in the first letter and as more than 261,000
+Reichsthaler in the second, and in the second asked for the crown estate of Sokolnik in
+compensation ([to Stein]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }});
+[to Hardenberg]({{ '/documents/iiihamdaiiinr12765/8/' | relative_url }})). The replies put
+the matter off until Polish affairs were settled.
 
-The Prosna was to be the frontier. If it ran where Russia wanted, the Trąbczyn estates and
-Triebenfeld's own Blizanow would fall
-[under Russian sovereignty]({{ '/documents/oe1bu9454/266/' | relative_url }}), out of reach of any
-Prussian court. In February 1815 he reported the line
-[settled, and against him]({{ '/documents/oe1bu9454/271/' | relative_url }}).
+Where the new frontier ran decided whose the estates would be. The Prosna was to be the
+border; if it was drawn as Russia wanted, Trąbczyn and Triebenfeld's own Blizanów would fall
+[under Russian sovereignty]({{ '/documents/oe1bu9454/266/' | relative_url }}), beyond the
+reach of any Prussian court. In February 1815 he reported the line
+[settled against him]({{ '/documents/oe1bu9454/271/' | relative_url }}). The district of
+Konin became part of the Kingdom of Poland under the Russian Emperor. In March 1815 Napoleon
+returned from Elba, and Triebenfeld's letters
+[turn to Grenoble and Lyon]({{ '/documents/oe1bu9454/4/' | relative_url }}) and to reports
+that he stood
+[almost at the Rhine with 200,000 men]({{ '/documents/oe1bu9454/286/' | relative_url }}).
 
-Then Napoleon left Elba. Triebenfeld's letters
-[fill with Grenoble and Lyon]({{ '/documents/oe1bu9454/4/' | relative_url }}), with the ten million
-francs on Bonaparte's head, and then with the news that he
-[stands almost at the Rhine with 200,000 men]({{ '/documents/oe1bu9454/286/' | relative_url }}). The
-Congress, and the Prince's case with it, was simply suspended.
+In Berlin, Hardenberg asked Zerboni di Sposetti, the senior Prussian official at Poznań, for
+a report. It came on 2 November 1815 and went against the claim: it rejected the figures
+submitted for Hohenlohe-Ingelfingen, said that he had let Trąbczyn decline and loaded it with
+debt, and concluded that Prussia could do no more than ask the Russian government to decide
+([report]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }})). In April 1816 the
+ministry instructed the Prussian envoy at St Petersburg, Major General von Schöler, to raise
+the matter with the Emperor in general terms and without pressing it, compensation being a
+matter of grace ([instruction]({{ '/documents/iiihamdaiiinr12765/15/' | relative_url }})). On
+23 November 1816 Schöler reported that the Russian ministry had refused
+([report]({{ '/documents/iiihamdaiiinr12765/25/' | relative_url }})).
 
-## VI. The last of it, 1815 to 1816
+The creditors were waiting too. In April 1816 the widow of Colonel von Brehmer petitioned
+for the 5,000 Reichsthaler her brother had lent Hohenlohe-Ingelfingen in 1803 on Szetlewek,
+of which neither capital nor interest had been paid
+([petition]({{ '/documents/iiihamdaiiinr12765/19/' | relative_url }})). A note on her petition
+holds that any compensation from Russia should go to the creditors registered on the
+estates.
 
-The relationship curdles. The Prince's letters turn cold, and Triebenfeld
-[answers three of them point by point]({{ '/documents/oe1bu9454/273/' | relative_url }}), defending his
-own honour. He is begging for money now not for himself but for his children, left behind
-in Silesia.
+Triebenfeld's last letters are of 1815 and early 1816. Hohenlohe-Ingelfingen's letters to
+him had turned cold, and he
+[answered three of them point by point]({{ '/documents/oe1bu9454/273/' | relative_url }}),
+defending his conduct and asking for money for his children in Silesia.
 
 > Your word was sacred to me, and upon that ground I raised the edifice.
 > <cite>[Letter 273]({{ '/documents/oe1bu9454/273/' | relative_url }})</cite>
 {: .pull}
 
-In March 1815 his daughter Charlotte writes to the Prince directly, from Breslau. It is her
-third letter and none has been answered. She writes because she does not know where her
-father is and cannot reach him except through the man he works for:
+In March 1815 his daughter Charlotte wrote to Hohenlohe-Ingelfingen from Wrocław. It was her
+third letter and none had been answered. She wrote because she did not know where her father
+was and could reach him only through his employer:
 
 > My misery has now overstepped all bounds, the more so since I must now also give up the
 > hope of making my situation known to my father.
 > ([Letter 7]({{ '/documents/oe1bu9454/7/' | relative_url }}))
 
-In December, back at Blizanow and recovering from an illness that nearly killed him,
-Triebenfeld writes to say that his daughter has died four days after childbirth. In the
-same days he has learned of the death of Barbe, the Vienna friend who had lent him money
-and kept him afloat there. He writes, he says, so that the Prince may know
-[that he is still alive and where he is]({{ '/documents/oe1bu9454/297/' | relative_url }}).
+In December 1815, back at Blizanów and recovering from an illness, Triebenfeld wrote that a
+daughter had died four days after giving birth, and that Barbe, the friend in Vienna who had
+lent him money there, had also died. He wrote, he said, so that Hohenlohe-Ingelfingen might
+know [that he was still alive and where he was]({{ '/documents/oe1bu9454/297/' | relative_url }}).
+His last letter is dated 31 January 1816. A note on Zerboni's report, written in April 1816,
+records that he had died.
 
-The correspondence ends in early 1816 with routine business and birthday congratulations.
+The last document in his file is not a letter. It is
+[an extract from the liquidation records]({{ '/documents/oe1bu9454/303/' | relative_url }})
+of Hohenlohe-Ingelfingen's debts, undated, listing 142 creditors, from the saddler Gleisberger
+at Potsdam and the gardener Nickel to bankers and noble heirs, and totalling 1,414,377
+Reichsthaler in silver and 17,874 in gold. The largest private creditor on it is a *Frau Charlotte von Triebenfeld*, owed
+112,000 Reichsthaler, the same figure as an advance that runs through the correspondence.
+Whether it is the same 112,000, and whether this Charlotte is the daughter who wrote letter
+7, the documents do not say.
 
-The last document in the archive is not a letter. It is
-[an extract from the liquidation protocols]({{ '/documents/oe1bu9454/303/' | relative_url }}), listing
-142 creditors from the saddler Gleisberger at Potsdam and the gardener Nickel up to bankers
-and noble heirs, totalling 1,414,377 Reichsthaler. The largest private creditor on it is
-one *Frau Charlotte von Triebenfeld*, owed 112,000 Reichsthaler, which is the same figure
-as the advance that runs through the whole correspondence as its central financial thread.
-Whether that is the same 112,000, and whether that Charlotte is the daughter who wrote
-letter 7, the documents do not say. It is recorded here as an open question.
+## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1820
+
+Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs renewed the
+claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
+Prussian generals who had been compensated. On 31 January 1820 the Russian envoy at Berlin,
+Alopeus, answered that the claim had been refused in 1816 and that the Emperor could not act
+on the recommendation ([note]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }})). The
+Prussian ministry took no further step and passed the matter to the Minister of the Interior
+([May 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})). It is the last
+document of the era.
 
 ## The people you will keep meeting
 
-On the Prince's side, Hahn is the court councillor who writes for the Prince when the
-Prince will not write himself. Glenck, building councillor and surveyor, starts as a
-colleague and becomes, in Triebenfeld's account, an obstacle. Amelang is the Berlin agent.
-Honrichs and Hawich are two different men, easily confused, both estate officials, and each
-accused of fraud by the other.
+On Hohenlohe-Ingelfingen's side, Glenck manages the estates at first and later appears, in
+Triebenfeld's account, as an obstacle. Hahn is the court councillor who writes when
+Hohenlohe-Ingelfingen does not. Amelang is the agent in Berlin. Honrichs and Hawich are two
+different men, easily confused, both estate officials, and each accuses the other of fraud.
 
-At court, Köckritz is the King's adjutant and the reason the Invalids' Fund loan happened
-at all. Beyme is cabinet councillor, Voss the minister who killed the exchange. Later come
-Hardenberg, Humboldt and Stägemann.
+In Berlin, Hoym proposed the grant and Voss reported against the exchange. Köckritz, the
+King's adjutant-general, arranged the Invalids' Fund loan. Beyme was cabinet councillor.
+In the years of the claim come Hardenberg, Humboldt, Stägemann, Zerboni di Sposetti at
+Poznań and Schöler at St Petersburg.
 
-On the other side, Cosmar is the lawyer whose settlement of 1811 with the Prince's
-creditors Triebenfeld regards as fraudulent from beginning to end, and whose removal
-becomes an obsession of the Vienna years. Weigel and Stössel are creditors large enough to
-be negotiated with rather than paid. Oppenheimer, von der Lahr and Schlabrendorff are names
-that mean a court order is coming. And there is the Prusimski daughter, under whichever
-surname.
+Among the buyers and creditors, Leixner bought Kamionna and Kolno. Cosmar is the lawyer whose
+settlement of 1811 with the creditors Triebenfeld regarded as fraudulent, and whose removal
+he pursued through the Vienna years. Weigel and Stössel are creditors large enough to be
+negotiated with. Oppenheimer, von der Lahr and Schlabrendorff are creditors who went to law.
+On the other side of the dispute stand Antoni Prusimski and his daughter.
 
-The [People]({{ '/people/' | relative_url }}) page lists everyone traceable through the
-correspondence, with the evidence for each identification and how far it can be trusted.
+The [People]({{ '/people/' | relative_url }}) page lists everyone the documents name, with the
+evidence for each identification.
 
 ## What to read first
 
-For the story in fifteen documents, read them in this order. Four are deeds; the rest are
-letters. The letters argue; the deeds record what was actually agreed.
+Fifteen documents, in the order of the story.
 
-1. [Letter 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), the exchange scheme in full flow
-2. [Letter 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), the King says no
-3. [Letter 124]({{ '/documents/oe1bu9454/124/' | relative_url }}), his wife's burial, and the business of the day
-4. [Letter 179a]({{ '/documents/oe1bu9454/179a/' | relative_url }}), what the estates were actually worth
+1. [The charter of 9 August 1796]({{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}), with Hoym's report and the King's approval
+2. [Hoym's letter of 30 July 1796]({{ '/documents/oe1bu14525/39/' | relative_url }}), what the estates were thought to be worth
+3. [Letter 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), the exchange scheme in Berlin
+4. [Letter 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), the King's refusal
 5. [Contract 15]({{ '/documents/oe1bu14526/15/' | relative_url }}), 270 *Hufen* let out, signed by seventeen men, ten of them with a cross
-6. [Contract 17]({{ '/documents/oe1bu14526/17/' | relative_url }}), six settlers named, with the villages they came from
-7. [Contract 24]({{ '/documents/oe1bu14526/24/' | relative_url }}), the Crown refuses to let a lordship be leased to the people living on it
-8. [Letter 26]({{ '/documents/oe1bu9454/26/' | relative_url }}), relief that the Prince survived 1806
-9. [Letter 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), the estates taken away
-10. [Letter 48]({{ '/documents/oe1bu9454/48/' | relative_url }}), the counter-attack and its thirteen powers of attorney
-11. [Letter 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), thirty-one lawsuits, written from a peasant's hut
-12. [Letter 243]({{ '/documents/oe1bu9454/243/' | relative_url }}), the cost of a day in Vienna
-13. [Letter 266]({{ '/documents/oe1bu9454/266/' | relative_url }}), a river decides everything
-14. [Letter 7]({{ '/documents/oe1bu9454/7/' | relative_url }}), Charlotte writes
-15. [Letter 297]({{ '/documents/oe1bu9454/297/' | relative_url }}), the deaths
-
-Every document has a German transcription, a reading text, an English translation and the
-manuscript images. Start
-[browsing]({{ '/documents/' | relative_url }}), or read
-[About this edition]({{ '/reading-this-edition/' | relative_url }}) first if you want to
-know how the text was established and how far it can be trusted.
-
-One caution to carry with you. The figures in these letters are the least reliable thing in
-them. They come mostly from Triebenfeld's own advocacy, and numerals are the weakest point
-of the transcription. Where a sum matters, check it against the manuscript.
+6. [Contract 24]({{ '/documents/oe1bu14526/24/' | relative_url }}), the authorities refuse the lease of Pszczew to its own people
+7. [The Erbet court record]({{ '/documents/app5371057/1/' | relative_url }}), one settler's lease from contract to collection
+8. [The Oleśnica petition]({{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}), a lease that did not pay
+9. [The entail charter of 1805]({{ '/documents/oe1u199/1/' | relative_url }})
+10. [Letter 179a]({{ '/documents/oe1bu9454/179a/' | relative_url }}), what the estates yielded in 1806
+11. [Letter 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), the estates taken over in 1807
+12. [Letter 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), thirty-one lawsuits
+13. [The petition of March 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }}), the whole case as Triebenfeld put it
+14. [Zerboni di Sposetti's report]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }}), the case as Prussia's officials saw it
+15. [Alopeus's note of 1820]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}), the final refusal
