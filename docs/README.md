@@ -14,6 +14,7 @@ were true when they were written.
 | [HOUSE_STYLE.md](HOUSE_STYLE.md) | How everything written about the documents is written. The editor's standing rulings on prose. |
 | [DEPLOY.md](DEPLOY.md) | How the site is hosted and what blocks a deploy. |
 | [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md) | Open questions, still live. |
+| [HOHENLOHE_ERA_PLAN.md](HOHENLOHE_ERA_PLAN.md) | The Hohenlohe-Ingelfingen years page: what goes in, its sections and their sources, and what a new holding changes. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 

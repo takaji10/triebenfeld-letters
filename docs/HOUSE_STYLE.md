@@ -84,6 +84,23 @@ meeting the holding for the first time (editor, 2026-10-01):
   description. It is told plainly and briefly: what was done, who decided,
   what is still uncertain. No tool names, no costs.
 
+## The era essay
+
+An era's page (`site/hohenlohe.md`) is the one place where the edition tells a
+story: what happened, in order, with the documents quoted and linked (editor,
+2026-10-02). Metaphor is kept to a minimum, and every statement is a fact the
+documents give or a fact of standard history, said plainly. No verdicts and no
+flourishes; inference is marked as inference.
+
+```
+NO   The relationship curdles.
+NO   One woman, and she wins.
+NO   A river decides everything.
+```
+
+What goes in, the sections and the sources each rests on are in
+`docs/HOHENLOHE_ERA_PLAN.md`.
+
 ## Concision
 
 Do not over-describe. Cut the sentence that counts and classifies what the next
