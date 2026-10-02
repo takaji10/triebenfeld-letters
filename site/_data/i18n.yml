@@ -24,6 +24,7 @@ en:
     timeline: Timeline
     people: People
     places: Places
+    glossary: Glossary
     sources: Sources
     about: About the edition
   foot: >-
@@ -119,6 +120,39 @@ en:
   view_reading: Reading
   view_translation: English
   hide_scans: hide scans
+  gl_toggle: glossary terms
+  gl_h1: Glossary
+  gl_lede: >-
+    Words in the documents that a reader today cannot be expected to know:
+    money and measures, the law of land and estates, offices and forms of
+    address, and the events the letters take for granted. In the documents
+    these words are faintly underlined; tap one to see what it means.
+  gl_draft_note: >-
+    The definitions are drafts. Each is still to be checked against a
+    reference work of the period, named under the entry.
+  gl_search: Search the glossary
+  gl_kinds: Kind of word
+  gl_kind_all: All
+  gl_kind_money: Money and measures
+  gl_kind_land: Land and tenure
+  gl_kind_law: Law and administration
+  gl_kind_title: Titles and address
+  gl_kind_phrase: Formulas and dates
+  gl_kind_event: Events and states
+  gl_none: Nothing in the glossary matches.
+  gl_in_one: in 1 document
+  gl_in_n: in %d documents
+  gl_unchecked: draft, to be checked against
+  f_term: Containing the glossary term
+  f_term_clear: show all
+  gl_more: In the glossary
+  gl_close: Close
+  gl_lang_de: German
+  gl_lang_la: Latin
+  gl_lang_fr: French
+  gl_lang_pl: Polish
+  gl_lang_de_la: German, from Latin
+  gl_lang_de_fr: German, from French
   hint_diplomatic: >-
     One line per manuscript line, with broken words hyphenated and stray break
     marks removed.
@@ -271,6 +305,7 @@ de:
     timeline: Zeitleiste
     people: Personen
     places: Orte
+    glossary: Glossar
     sources: Quellen
     about: Über die Edition
   foot: >-
@@ -367,6 +402,39 @@ de:
   view_reading: Lesefassung
   view_translation: Englisch
   hide_scans: Digitalisate ausblenden
+  gl_toggle: Glossarbegriffe
+  gl_h1: Glossar
+  gl_lede: >-
+    Wörter in den Dokumenten, die heutige Leser nicht kennen müssen: Geld und
+    Maße, das Recht von Grund und Gut, Ämter und Anreden und die Ereignisse,
+    die die Briefe voraussetzen. In den Dokumenten sind diese Wörter dezent
+    unterstrichen; ein Tippen zeigt, was sie bedeuten.
+  gl_draft_note: >-
+    Die Erklärungen sind Entwürfe. Jede ist noch an einem Nachschlagewerk der
+    Zeit zu prüfen, das beim Eintrag genannt ist.
+  gl_search: Im Glossar suchen
+  gl_kinds: Art des Wortes
+  gl_kind_all: Alle
+  gl_kind_money: Geld und Maße
+  gl_kind_land: Land und Besitz
+  gl_kind_law: Recht und Verwaltung
+  gl_kind_title: Titel und Anrede
+  gl_kind_phrase: Formeln und Termine
+  gl_kind_event: Ereignisse und Staaten
+  gl_none: Nichts im Glossar passt dazu.
+  gl_in_one: in 1 Dokument
+  gl_in_n: in %d Dokumenten
+  gl_unchecked: Entwurf, zu prüfen anhand von
+  f_term: Mit dem Glossarbegriff
+  f_term_clear: alle zeigen
+  gl_more: Im Glossar
+  gl_close: Schließen
+  gl_lang_de: Deutsch
+  gl_lang_la: Lateinisch
+  gl_lang_fr: Französisch
+  gl_lang_pl: Polnisch
+  gl_lang_de_la: Deutsch, aus dem Lateinischen
+  gl_lang_de_fr: Deutsch, aus dem Französischen
   hint_diplomatic: >-
     Eine Zeile je Handschriftenzeile, getrennte Wörter mit Bindestrich, irrtümliche
     Trennzeichen entfernt.

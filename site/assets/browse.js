@@ -13,6 +13,20 @@
   var DATA = [];
   var els = {};
   var PEOPLE_NAMES = {};
+  var TERM = '';            // a glossary entry, from ?term=
+
+  // The glossary filter has no control of its own: it arrives in the address
+  // and shows as a line that can be cleared.
+  function showTerm() {
+    var el = $('term');
+    if (!el) return;
+    el.hidden = !TERM;
+    if (!TERM) { el.innerHTML = ''; return; }
+    el.innerHTML = esc(s_('f_term', 'Containing the glossary term')) + ' <b>' +
+      esc(window.GL_HEADS[TERM]) + '</b> <button type="button" class="linkish" id="term-clear">' +
+      esc(s_('f_term_clear', 'show all')) + '</button>';
+    $('term-clear').addEventListener('click', function () { TERM = ''; render(); });
+  }
 
   function $(id) { return document.getElementById(id); }
 
@@ -64,6 +78,7 @@
       case 'dup':      if (!item.dup) return false; break;
     }
     if (f.q && item._fold.indexOf(f.q) === -1) return false;
+    if (TERM && (item.gl || []).indexOf(TERM) === -1) return false;
     return true;
   }
 
@@ -97,6 +112,7 @@
       flag: els.flag.value
     };
     var hits = DATA.filter(function (it) { return matches(it, f); });
+    showTerm();
     sortItems(hits, els.order.value);
 
     els.count.textContent = hits.length === DATA.length
@@ -197,6 +213,9 @@
         var ok = Array.prototype.some.call(els[k].options, function (o) { return o.value === v; });
         if (ok) els[k].value = v;
       });
+      // A glossary entry's "appears in N documents" links here with ?term=.
+      var tm = qs.get('term');
+      if (tm && window.GL_HEADS && window.GL_HEADS[tm]) TERM = tm;
     } catch (e) { /* older browser: filters just start empty */ }
 
     Array.prototype.forEach.call(document.querySelectorAll('#person option'), function (o) {
@@ -229,6 +248,7 @@
       if (els[k]) els[k].addEventListener('change', render);
     });
     els.reset.addEventListener('click', function () {
+      TERM = '';
       els.q.value = ''; els.year.value = ''; els.person.value = '';
       els.place.value = ''; els.flag.value = ''; els.order.value = 'chrono';
       if (els.unit) els.unit.value = '';

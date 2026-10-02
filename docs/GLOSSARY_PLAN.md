@@ -1,7 +1,11 @@
 # Plan: a glossary page, and definitions in the documents
 
-Status: **planned, not built** (2026-10-02). Decisions still open are at the
-end. When the work is done, the standing parts of this plan move into
+Status: **first batch built** (2026-10-02): 61 entries, all drafts to be
+checked against the works named; the in-text definitions, on by default; the
+glossary page; the candidate script and the row in `NEW_UNIT.md` §8. Not yet
+built: the pipeline check that reports a holding whose candidates are
+unruled (§5). Decided: on by default; people and places left out; a first
+batch of the most frequent terms across all kinds. When the work is done, the standing parts of this plan move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
 record of how it was decided.
 
@@ -197,11 +201,23 @@ start matching something it should not. So it becomes part of the workflow in
    --unit`, and the pipeline check.
 6. The remaining entries, in batches.
 
-## Decisions still open
+## Decisions (editor, 2026-10-02)
 
-1. **Underlining on or off by default.** Recommended: on. It is faint, and it is
-   how readers find the feature.
-2. **People and places in the text:** left out as planned, or added later as a
-   second kind of box linking to their register pages.
-3. **The first batch:** the 60 most frequent terms, or one category first
-   (money and land) to judge the look before going wider.
+1. **Underlining is on by default**; a reader can turn it off, and the choice
+   is remembered.
+2. **People and places are left out** of the in-text definitions.
+3. **The first batch** is the most frequent terms across all kinds.
+
+## As built, where it differs from the plan above
+
+- Formulaic terms met on nearly every page (Durchlaucht, the money units, the
+  forms of address, the closing formula) are marked once per document, not
+  once per page: `per: document` in the entry.
+- A marked word is a `<span role="button">`, not a `<button>`: a button is laid
+  out as an inline box, took the paragraph's first-line indent and could not
+  break across lines.
+- `lang` has `de_la` and `de_fr` for German words taken from Latin or French
+  (Sequestration, Revers), labelled "German, from Latin"; plain `la` is Latin
+  written as Latin (Dominium, Pro Memoria).
+- Patterns can mark part of a match (a group named `w`), so Michaelis is
+  marked only as a date and Morgen only as a measure.

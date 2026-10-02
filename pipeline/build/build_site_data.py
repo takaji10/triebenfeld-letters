@@ -634,6 +634,11 @@ def main():
     import unit_pages
     unit_pages.write(UNITS, recs, SITE, ROOT, yaml_str)
 
+    # The reader's glossary: which words to mark in each document, and the
+    # entries for the glossary page. Sets r['_gl'] for the search index below.
+    import glossary_build
+    glossary_build.write(glossary_build.load(ROOT), recs, ROOT, SITE, ASSETS_DIR, yaml_str)
+
     # Keyed by uid: the indexes above collect uids, because an archival number
     # is only unique inside its own holding.
     url_by_uid ={r['uid']: r['permalink'] for r in recs}
@@ -805,6 +810,8 @@ def main():
             'to': r.get('recipient', ''),
             'summary': summaries.get(r['pad'], ''),
             'summary_de': summaries_de.get(r['pad'], ''),
+            # glossary entries found in the document: /documents/?term=<id>
+            'gl': r.get('_gl') or [],
             # normalised text for search: hyphens resolved so wrapped words are findable
             'text': re.sub(r'\s+', ' ', r['text'].replace('¬\n', '').replace('¬', '')),
         })

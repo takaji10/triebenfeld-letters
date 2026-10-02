@@ -825,6 +825,41 @@ merged corpus to its own unit, or a run would translate every holding in the pro
 Through all of it the transcription hash never moved: 318 documents, 869 pages,
 character-identical at every step.
 
+## A glossary for the reader (2026-10-02)
+
+A reader who is interested but not an expert meets words no one now uses:
+Rthl and Courant, Hufe and Morgen, Vorwerk and Erbpacht, Sequestration,
+Durchlaucht. The first batch of a glossary explains 61 of them, chosen from a
+candidate sheet built from the translation termbase, words rare in modern
+German, and the timeline. Six kinds: money and measures, land and tenure, law
+and administration, titles and address, formulas and dates, and the events and
+states the letters take for granted (South Prussia, the Duchy of Warsaw,
+Tilsit, the Congress of Vienna, the Partitions).
+
+The false friends were the reason to do it: *Execution* is the enforcement of
+a debt, *Resignation* the conveyance of an estate, *Intressen* interest on
+money, *Canon* a fixed rent, and the English keeps *execution* in 55
+documents.
+
+In the documents each word is faintly underlined, once per manuscript page
+(once per document for formulas), in the transcription, the reading text,
+the English and both summaries: 8,837 marks in 411 documents. A tap opens a
+short definition in the interface language, under the word on a wide screen
+and as a sheet from the bottom on a phone. The marks are added by the page's
+script from a list the build makes, so the verified German in the HTML is
+untouched. The glossary page (/glossary/, /de/glossar/) lists every entry,
+with search, filters by kind, an A-Z bar, and a link to the documents each
+appears in (/documents/?term=). A switch beside "hide scans" turns the marks
+off; the privacy section of /rights/ now names four stored preferences.
+
+The definitions are drafts: the reference works (Adelung, Krünitz, the
+Allgemeines Landrecht, Gloger) could not be reached from where they were
+written, so each names the work it is to be checked against, and the page
+says so. False hits found in review and fixed in the patterns: *Morgen* as
+"tomorrow", *Schulze* as a surname, *resignation* as patience, *Canonicus*.
+The "hide scans" checkbox, which had no style and crowded the view hint on a
+phone, is styled with the new switch.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

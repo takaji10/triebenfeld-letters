@@ -171,6 +171,7 @@ h2 { font-size: 1.2rem; margin: 2rem 0 .6rem; }
 }
 .filters input:focus, .filters select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
 .f-status { margin: .4rem 0 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); display: flex; gap: 1rem; }
+.f-term { margin: .4rem 0 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); }
 
 .results { list-style: none; margin: 0; padding: 0; max-width: 62rem; }
 .result { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
@@ -281,6 +282,67 @@ body.no-scans .pane-pair { grid-template-columns: minmax(0, 1fr); }
 }
 .vbtn.is-on { background: var(--accent); border-color: var(--accent); color: #fff; }
 .viewhint { font-family: var(--sans); font-size: .75rem; color: var(--ink-faint); flex: 1 1 14rem; }
+/* The view preferences: "hide scans", "glossary terms". Unstyled, they took
+   the body's large serif and crowded the hint on a phone. */
+.chk {
+  display: inline-flex; align-items: center; gap: .35rem;
+  font-family: var(--sans); font-size: .78rem; color: var(--ink-soft);
+  cursor: pointer; white-space: nowrap;
+}
+.chk input { margin: 0; accent-color: var(--accent); }
+@media (max-width: 40rem) {
+  .viewhint { flex-basis: 100%; }
+}
+
+/* ---- the reader's glossary (assets/glossary.js) ---- */
+/* A marked word: a faint dotted underline, solid while its box is open. */
+.gl {
+  cursor: pointer; border-radius: 2px;
+  text-decoration: underline dotted;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+  text-decoration-thickness: 1.5px; text-underline-offset: .22em;
+}
+.gl:hover, .gl[aria-expanded="true"] {
+  text-decoration-style: solid;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+}
+.gl:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.gl-off .gl { text-decoration: none; cursor: inherit; background: none; }
+
+.gl-box {
+  position: absolute; z-index: 50; width: min(22rem, calc(100vw - 2rem));
+  background: var(--paper); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, .16);
+  padding: .9rem 1rem .8rem;
+  font-family: var(--sans); font-size: .9rem; line-height: 1.45;
+}
+.gl-box p { margin: 0 0 .55rem; }
+.gl-box .gl-h { margin: 0 2rem .15rem 0; font-family: var(--serif); font-size: 1.08rem; font-weight: 700; }
+.gl-box .gl-orig { font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-faint); }
+.gl-box .gl-more { font-size: .82rem; }
+.gl-box .gl-x {
+  all: unset; position: absolute; top: .4rem; right: .5rem;
+  width: 2.2rem; height: 2.2rem; text-align: center; line-height: 2.2rem;
+  font-size: 1.35rem; color: var(--ink-faint); cursor: pointer; border-radius: 50%;
+}
+.gl-box .gl-x:hover, .gl-box .gl-x:focus-visible { color: var(--ink); background: var(--paper-2); }
+/* On a phone the box is a sheet from the bottom of the screen, so the text
+   it explains stays visible above it. */
+@media (max-width: 40rem) {
+  .gl-box {
+    position: fixed; left: 0; right: 0; bottom: 0; top: auto;
+    width: auto; max-height: 60vh; overflow: auto;
+    border-radius: 14px 14px 0 0; border-bottom: 0;
+    padding: 1.1rem 1.25rem calc(1rem + env(safe-area-inset-bottom));
+    box-shadow: 0 -6px 30px rgba(0, 0, 0, .2);
+    font-size: .95rem;
+  }
+  .gl-box::before {
+    content: ""; display: block; width: 2.4rem; height: 4px; border-radius: 2px;
+    background: var(--rule); margin: -.35rem auto .8rem;
+  }
+}
 
 /* ---- manuscript pages within a letter ---- */
 .ms-page { margin: 0 0 1.6rem; }
@@ -487,3 +549,56 @@ img.scan {
 .credits dd { margin: .2rem 0 1rem; }
 .credits dd ul { margin: .3rem 0 0; padding-left: 1.2rem; }
 .credits .credit-line { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); }
+
+/* ---- the glossary page (_includes/glossary.html) ---- */
+.gl-note { font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); }
+.gl-tools { max-width: var(--measure); margin: 1.4rem 0 .6rem; }
+.gl-tools input[type="search"] {
+  width: 100%; font: inherit; font-size: 1rem; padding: .55rem .7rem;
+  border: 1px solid var(--rule); border-radius: 4px; background: var(--paper); color: var(--ink);
+}
+.gl-kinds { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .7rem; }
+.gl-chip {
+  font-family: var(--sans); font-size: .78rem; cursor: pointer;
+  padding: .3rem .75rem; border: 1px solid var(--rule); border-radius: 999px;
+  background: var(--paper); color: var(--ink-soft);
+}
+.gl-chip.is-on { background: var(--accent); border-color: var(--accent); color: #fff; }
+/* The A-Z bar stays at the top while the list scrolls; on a phone it is one
+   row, scrolled sideways. */
+.gl-az {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; flex-wrap: wrap; gap: .1rem;
+  max-width: var(--measure); padding: .5rem 0; margin-bottom: .5rem;
+  background: var(--paper); border-bottom: 1px solid var(--rule);
+  font-family: var(--sans); font-size: .85rem;
+}
+.gl-az a {
+  min-width: 1.9rem; padding: .25rem .35rem; text-align: center;
+  text-decoration: none; color: var(--accent); border-radius: 3px;
+}
+.gl-az a:hover { background: var(--paper-2); }
+.gl-az a.is-empty { color: var(--ink-faint); opacity: .45; pointer-events: none; }
+@media (max-width: 40rem) {
+  .gl-kinds { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-right: -1rem; padding-right: 1rem; }
+  .gl-kinds::-webkit-scrollbar, .gl-az::-webkit-scrollbar { display: none; }
+  .gl-chip { flex: none; }
+  .gl-az { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-right: -1rem; padding-right: 1rem; }
+  .gl-az a { flex: none; min-width: 2.4rem; padding: .45rem .4rem; }
+}
+.glossary { max-width: var(--measure); margin-bottom: 3rem; }
+.gl-letter > h2 {
+  font-size: 1.3rem; margin: 1.6rem 0 .2rem; color: var(--ink-faint);
+  scroll-margin-top: 3.5rem;
+}
+.gl-entry { padding: .9rem 0 1rem; border-bottom: 1px solid var(--rule); scroll-margin-top: 3.5rem; }
+.gl-entry h3 { margin: 0; font-size: 1.12rem; }
+.gl-entry p { margin: .45rem 0 0; }
+.gl-entry .gl-orig {
+  margin-top: .15rem; font-family: var(--sans); font-size: .75rem;
+  letter-spacing: .05em; text-transform: uppercase; color: var(--ink-faint);
+}
+.gl-entry .gl-orig i { text-transform: none; letter-spacing: 0; font-size: .85rem; }
+.gl-entry .gl-meta { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.gl-entry:target { background: color-mix(in srgb, var(--accent) 8%, transparent); box-shadow: -.8rem 0 0 color-mix(in srgb, var(--accent) 8%, transparent); }
+.gl-none { font-family: var(--sans); color: var(--ink-faint); }

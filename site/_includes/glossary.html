@@ -1,0 +1,138 @@
+{%- comment -%}
+  The glossary page, English and German. Entries come from site/_data/glossary.yml,
+  generated from reference/glossary.yml. Sorted and filed by the headword in the
+  page's language; the English page names the original word beside it.
+
+  Without JavaScript this is the whole list, A to Z. With it, a search box,
+  filters by kind and an A-Z bar narrow it. Each entry has its own address
+  (#id), which is where the boxes on the document pages lead.
+{%- endcomment -%}
+{%- include urls.html -%}
+{%- if lang == "de" -%}
+  {%- assign entries = site.data.glossary | sort: "sort_de" -%}
+  {%- assign ikey = "initial_de" -%}
+{%- else -%}
+  {%- assign entries = site.data.glossary | sort: "sort_en" -%}
+  {%- assign ikey = "initial_en" -%}
+{%- endif -%}
+{%- assign kinds = "money,land,law,title,phrase,event" | split: "," -%}
+
+<div class="prose">
+  <h1>{{ t.gl_h1 }}</h1>
+  <p class="standfirst">{{ t.gl_lede }}</p>
+  <p class="gl-note">{{ t.gl_draft_note }}</p>
+</div>
+
+<div class="gl-tools" id="gl-tools" hidden>
+  <input type="search" id="gl-q" placeholder="{{ t.gl_search }}" aria-label="{{ t.gl_search }}">
+  <div class="gl-kinds" role="group" aria-label="{{ t.gl_kinds }}">
+    <button type="button" class="gl-chip is-on" data-kind="">{{ t.gl_kind_all }}</button>
+    {%- for k in kinds -%}
+      {%- assign label_key = "gl_kind_" | append: k -%}
+      <button type="button" class="gl-chip" data-kind="{{ k }}">{{ t[label_key] }}</button>
+    {%- endfor -%}
+  </div>
+</div>
+
+<nav class="gl-az" id="gl-az" aria-label="A–Z">
+  {%- assign seen = "" -%}
+  {%- for e in entries -%}
+    {%- assign i = e[ikey] -%}
+    {%- unless seen contains i -%}
+      <a href="#gl-{{ i | downcase }}" data-initial="{{ i }}">{{ i }}</a>
+      {%- assign seen = seen | append: i -%}
+    {%- endunless -%}
+  {%- endfor -%}
+</nav>
+
+<p class="gl-none" id="gl-none" hidden>{{ t.gl_none }}</p>
+
+<div class="glossary">
+{%- assign current = "" -%}
+{%- for e in entries -%}
+  {%- assign i = e[ikey] -%}
+  {%- if i != current -%}
+    {%- unless forloop.first -%}</section>{%- endunless -%}
+    <section class="gl-letter" id="gl-{{ i | downcase }}" data-initial="{{ i }}"><h2>{{ i }}</h2>
+    {%- assign current = i -%}
+  {%- endif -%}
+  {%- if lang == "de" -%}
+    {%- assign head = e.head_de -%}{%- assign def = e.short_de -%}{%- assign long = e.long_de -%}
+  {%- else -%}
+    {%- assign head = e.head_en -%}{%- assign def = e.short_en -%}{%- assign long = e.long_en -%}
+  {%- endif -%}
+  {%- assign lang_key = "gl_lang_" | append: e.lang -%}
+  {%- assign kind_key = "gl_kind_" | append: e.kind -%}
+  <article class="gl-entry" id="{{ e.id }}" data-kind="{{ e.kind }}"
+           data-search="{{ e.head_en | escape }} {{ e.head_de | escape }} {{ e.orig | escape }} {{ def | escape }}">
+    <h3>{{ head }}</h3>
+    {%- if lang != "de" or e.lang != "de" -%}
+      <p class="gl-orig">{{ t[lang_key] }}{% if e.orig != "" and e.orig != head %}: <i>{{ e.orig }}</i>{% endif %}</p>
+    {%- endif -%}
+    <p>{{ def }}</p>
+    {%- if long != "" -%}<p>{{ long }}</p>{%- endif -%}
+    <p class="gl-meta">
+      <span>{{ t[kind_key] }}</span>
+      {% if e.docs > 0 %}
+        &middot; <a href="{{ u_browse | append: '?term=' | append: e.id | relative_url }}">{% if e.docs == 1 %}{{ t.gl_in_one }}{% else %}{{ t.gl_in_n | replace: '%d', e.docs }}{% endif %}</a>
+      {% endif %}
+      {% unless e.checked %}
+        &middot; <span>{{ t.gl_unchecked }} {{ e.check_against }}</span>
+      {% endunless %}
+    </p>
+  </article>
+  {%- if forloop.last -%}</section>{%- endif -%}
+{%- endfor -%}
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var tools = document.getElementById('gl-tools');
+  tools.hidden = false;
+  var q = document.getElementById('gl-q');
+  var chips = Array.prototype.slice.call(document.querySelectorAll('.gl-chip'));
+  var entries = Array.prototype.slice.call(document.querySelectorAll('.gl-entry'));
+  var letters = Array.prototype.slice.call(document.querySelectorAll('.gl-letter'));
+  var az = Array.prototype.slice.call(document.querySelectorAll('#gl-az a'));
+  var kind = '';
+  function fold(s) {
+    return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+      .replace(/ł/g, 'l').replace(/ß/g, 'ss');
+  }
+  entries.forEach(function (e) { e._s = fold(e.getAttribute('data-search')); });
+  function apply() {
+    var needle = fold(q.value.trim()), any = false;
+    entries.forEach(function (e) {
+      var ok = (!kind || e.getAttribute('data-kind') === kind) && (!needle || e._s.indexOf(needle) !== -1);
+      e.hidden = !ok; if (ok) any = true;
+    });
+    var shown = {};
+    letters.forEach(function (l) {
+      var vis = !!l.querySelector('.gl-entry:not([hidden])');
+      l.hidden = !vis; if (vis) shown[l.getAttribute('data-initial')] = true;
+    });
+    az.forEach(function (a) { a.classList.toggle('is-empty', !shown[a.getAttribute('data-initial')]); });
+    document.getElementById('gl-none').hidden = any;
+  }
+  q.addEventListener('input', apply);
+  chips.forEach(function (c) {
+    c.addEventListener('click', function () {
+      kind = c.getAttribute('data-kind');
+      chips.forEach(function (x) { x.classList.toggle('is-on', x === c); x.setAttribute('aria-pressed', x === c); });
+      apply();
+    });
+  });
+  // Arriving at an entry (#id) from a document: make sure it is not filtered out.
+  function reveal() {
+    var id = decodeURIComponent(location.hash.slice(1));
+    var el = id && document.getElementById(id);
+    if (el && el.classList.contains('gl-entry') && el.hidden) {
+      q.value = ''; kind = ''; chips.forEach(function (x) { x.classList.toggle('is-on', !x.getAttribute('data-kind')); });
+      apply(); el.scrollIntoView();
+    }
+  }
+  window.addEventListener('hashchange', reveal);
+  apply();
+})();
+</script>

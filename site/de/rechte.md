@@ -77,9 +77,9 @@ eigenen Bedingungen stehen im
 **Keine Cookies, kein Tracking.** Die Website setzt keine Cookies, verwendet
 keine Analysewerkzeuge und lädt nichts von anderen Servern: Schriften, Skripte
 und Bilder kommen alle von der Website selbst. Der lokale Speicher Ihres
-Browsers bewahrt drei Einstellungen auf, die Sie wählen, damit die Website sie
-sich merkt: die Sprache der Oberfläche, die Ansicht eines Dokuments und ob die
-Seitenabbildungen gezeigt werden. Sie bleiben auf Ihrem Gerät und werden nie
+Browsers bewahrt vier Einstellungen auf, die Sie wählen, damit die Website sie
+sich merkt: die Sprache der Oberfläche, die Ansicht eines Dokuments, ob die
+Seitenabbildungen gezeigt werden und ob Glossarbegriffe markiert sind. Sie bleiben auf Ihrem Gerät und werden nie
 übertragen. Wenn Sie die Browserdaten für diese Website löschen, sind sie
 entfernt.
 

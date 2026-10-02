@@ -71,9 +71,9 @@ Framework; its own terms are in the
 
 **No cookies, no tracking.** The site sets no cookies, has no analytics and
 loads nothing from other servers: its fonts, scripts and images all come from
-the site itself. Your browser's local storage keeps three choices you make, so
-the site can remember them: the interface language, how a document is shown, and
-whether the page images are shown. They stay on your device and are never sent
+the site itself. Your browser's local storage keeps four choices you make, so
+the site can remember them: the interface language, how a document is shown,
+whether the page images are shown, and whether glossary terms are marked. They stay on your device and are never sent
 anywhere. Clearing your browser's data for this site removes them.
 
 **Links to other sites.** The links to OpenStreetMap, the archives and GitHub
