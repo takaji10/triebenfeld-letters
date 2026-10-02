@@ -3,8 +3,9 @@
 What is in `corpus/`, what each field means, and how to scope a question against
 it without loading the whole edition.
 
-This edition is not only correspondence. It holds **350 documents** from two
-archival holdings: a file of letters and a volume of title deeds. Everything
+This edition is not only correspondence. It holds **427 documents** from nine
+archival holdings in three archives: files of letters, volumes of title deeds,
+ministry files, a court file and single charters. Everything
 below is generated from the units' `corpus.txt` and their `rulings.yml`; a
 rebuild reproduces it exactly. Nothing here is hand-edited.
 
@@ -17,7 +18,7 @@ corpus/index/documents.json     the manifest - one compact row per document
 ```
 
 Read this first. It carries only the fields worth narrowing on, so you reach a
-working set before opening a single document. 350 rows, a few hundred KB.
+working set before opening a single document. 427 rows, a few hundred KB.
 
 Each row points at the two places the full text lives:
 
@@ -85,12 +86,12 @@ the same fact as one a researcher assigned, and the dataset must not blur them.
 
 | value | meaning | count |
 |---|---|---|
-| `signature` | parsed from the document's own dateline by the build | 276 |
-| `dateline` | read off the dateline by the editor, recorded because the parser could not reach it - the deeds are formulaic, Latinate and often corrupt | 30 |
-| `supplied` | **assigned by a researcher**, not present in the document | 28 |
-| `inferred` | reasoned from neighbouring documents; `date_inferred_from` gives the basis, and it is shown to the reader | 7 |
+| `signature` | parsed from the document's own dateline by the build | 328 |
+| `dateline` | read off the dateline by the editor, recorded because the parser could not reach it - the deeds are formulaic, Latinate and often corrupt | 57 |
+| `supplied` | **assigned by a researcher**, not present in the document | 25 |
+| `inferred` | reasoned from neighbouring documents; `date_inferred_from` gives the basis, and it is shown to the reader | 9 |
 | `twin` | taken from the document's own duplicate | 1 |
-| `none` | undated, and left so | 8 |
+| `none` | undated, and left so | 7 |
 
 `signature` and `dateline` are both *read from the document*. Only `supplied`
 and `inferred` are editorial acts.
@@ -99,9 +100,9 @@ and `inferred` are editorial acts.
 
 | value | meaning | count |
 |---|---|---|
-| `draft` | machine-translated, mechanically checked, published; **not yet read against the manuscript by a human** | 345 |
+| `draft` | machine-translated, mechanically checked, published; **not yet read against the manuscript by a human** | 421 |
 | `reviewed` | every row raised against it in `review/<slug>/translation_review.csv` has been ruled on | 0 |
-| `untranslated` | no English. Five documents whose German is too fragmentary to translate | 5 |
+| `untranslated` | no English, because there is no text to translate: a document not yet transcribed (I. HA GR, Rep. 7 C, Nr. 3709), a skipped number and four missing from the archive (9454: 9, 121, 181, 225, 293) | 6 |
 
 The distinction matters the way `date_source` does: a `draft` translation is
 evidence of what the German probably says, not a settled reading. Quote the
@@ -115,14 +116,14 @@ reasoned rather than read; check `date_source` alongside it.
 
 ### `doc_type`
 
-13 kinds in use:
+14 kinds in use:
 
 | | | | |
 |---|---|---|---|
-| `letter` 320 | `contract` 16 | `privilege` 2 | `confirmation` 2 |
-| `royal_rescript` 2 | `certified_copy` 1 | `protocol` 1 | `punctation` 1 |
-| `donation` 1 | `certification` 1 | `lease` 1 | `note` 1 |
-| `register` 1 | | | |
+| `letter` 342 | `contract` 17 | `donation` 15 | `royal_rescript` 14 |
+| `draft` 13 | `certified_copy` 9 | `note` 5 | `confirmation` 4 |
+| `register` 3 | `privilege` 1 | `protocol` 1 | `punctation` 1 |
+| `lease` 1 | `document` 1 | | |
 
 `letter` and `register` come from the correspondence; the rest from the deeds.
 It is an open list, set per document in the unit's `rulings.yml`.
@@ -152,7 +153,7 @@ Everything in the manifest row, plus:
 | `line_start`, `line_end` | the document's range in the unit's `corpus.txt` |
 | `text_english` | the whole English translation, flowed. Empty where `untranslated` |
 | `translation` | the same English, one segment per manuscript page: `{page, en}` |
-| `summary_en`, `summary_de` | one-paragraph finding-aid summaries; 14525 and 14526 written from the English, 9454's German ones from the German |
+| `summary_en`, `summary_de` | one-paragraph finding-aid summaries. In 14525 and 14526 written from the English; in every other holding the German is written from the German and the English translated from it. None for I. HA GR, Rep. 7 C, Nr. 3709, not yet transcribed |
 | `reading` | the whole-letter reading (units/<slug>/reading.json): `notes`, `legibility`, `claims` (each summary statement with its letter lines, and the check's objection where there was one), `doubtful_words` |
 
 The English is **generated and not canonical**. It is never checked against
