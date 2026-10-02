@@ -65,11 +65,6 @@ People (`reference/people.yml`, `open_questions`):
   spelling is asserted.
 - Michaelis: the merchant and the Hof Fiscal may be one man or two.
 - Prinz George: which house he belongs to is not stated in the letters.
-- Triebenfeld's title. `reference/people.yml` rules "Kriegsrath, NOT
-  Finanzrath or Forstrath" (a long-s misreading), but the description of
-  Oe 1 Bü 9454, his People-page biography and the English of the 1805 power of
-  attorney (53/71/0/-/57, page 19) call him Councillor of War and Forests. The
-  era page now says Kriegsrath. Settle which, and bring the others into line.
 - Settlers doubled between a German deed and a Polish protocol (as Celmer and
   Zelmer): not checked beyond the known case.
 

@@ -36,7 +36,7 @@ parts further west. He never lived on them, and he was in debt throughout.
 **Johann Wilhelm Glenck**, his building and economy councillor at Wrocław, saw to the
 estates first: he handled the registration of title and made some of the earliest sales.
 
-**Peter Friedrich von Triebenfeld**, a Prussian councillor (*Kriegsrath*) with estates of
+**Peter Friedrich von Triebenfeld**, a Prussian Councillor of War and Forests (*Kriegs- und Forstrath*) with estates of
 his own in Silesia, acted for Hohenlohe-Ingelfingen from 1798 and held his general power of
 attorney from 1805. He wrote most of the letters here, and he signed for several of his
 employer's debts himself, which is why the correspondence continues long after the estates

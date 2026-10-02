@@ -40,7 +40,7 @@ ganze Zeit verschuldet.
 zuerst: er besorgte die Eintragung des Besitztitels und schloss einige der frühesten
 Verkäufe.
 
-**Peter Friedrich von Triebenfeld**, preußischer Kriegsrat mit eigenen Gütern in Schlesien,
+**Peter Friedrich von Triebenfeld**, preußischer Kriegs- und Forstrat mit eigenen Gütern in Schlesien,
 handelte seit 1798 für Hohenlohe-Ingelfingen und besaß seit 1805 dessen Generalvollmacht.
 Von ihm stammen die meisten Briefe dieser Epoche. Er hatte sich für mehrere Schulden seines
 Dienstherrn selbst verbürgt; deshalb reicht der Briefwechsel weit über den Verlust der Güter

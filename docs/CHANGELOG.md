@@ -1055,6 +1055,19 @@ The era blurb in `reference/eras.yml` dated the takeover to the Third
 Partition and the claim to 1816, and said the edition calls Pszczew Betsche;
 all three are corrected (the Second Partition of 1793; 1820; Pszczew).
 
+## Triebenfeld was Kriegs- und Forstrath (2026-10-02)
+
+The editor confirmed that Triebenfeld's title was Kriegs- und Forstrath,
+Councillor of War and Forests, as the deeds write it throughout ("Krieges und
+ForstRath von Triebenfeld", 14525 and 14526). The earlier ruling in
+`reference/people.yml`, `reference/translation_glossary.yml` and the comment in
+`units/oe1bu9454/unit.yml`, that he was Kriegsrath and "NOT Forstrath" because
+of a long-s misreading, was wrong and is withdrawn. Corrected there, on the
+home page (English and German) and on the era page. The translator's note on
+Kriegsrath now says that, of Triebenfeld, it shortens the full title. The
+published English already used "Councillor of War and Forests" (68 times) and
+never the shortened form for him, so no translation changes.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

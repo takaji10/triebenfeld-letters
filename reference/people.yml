@@ -624,10 +624,13 @@ people:
     match: "Trieben(?:feld|felde)"
     tier: "Established by the project itself; Charlotte context-inferred as his wife"
     identity: >-
-      Peter Friedrich August von Triebenfeld, Kriegsrath (Royal War Councillor)
-      and Hohenlohe's general plenipotentiary. Forenames confirmed in
-      Consistency_Register.md. His title is Kriegsrath, NOT Finanzrath or
-      Forstrath: a long-s misreading had produced the wrong institutional chain.
+      Peter Friedrich August von Triebenfeld, Königlicher Kriegs- und Forstrath
+      (Councillor of War and Forests) and Hohenlohe's general plenipotentiary.
+      Forenames confirmed in Consistency_Register.md. The deeds give the title in
+      full again and again ("Krieges und ForstRath von Triebenfeld", 14525 and
+      14526), and the editor confirmed it (2026-10-02). An earlier ruling here,
+      "Kriegsrath, NOT Forstrath", was wrong and is withdrawn; letters that call
+      him simply Kriegsrath shorten the title.
     variants:
       - "Trieberfeld"
     open_questions:

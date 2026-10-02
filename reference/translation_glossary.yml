@@ -612,9 +612,10 @@ terms:
     pattern: '\bKrie(gs|ges)[- ]?R?r(a|ä)th\w*'
     policy: translate
     render: 'councillor of war'
-    gloss: "von Triebenfeld's own title, per Consistency_Register.md. He is the
-      Kriegsrath - NOT Finanzrath and NOT Forstrath; a long-s misreading had put
-      him in the wrong institutional chain."
+    gloss: "a councillor of war, the title of members of the Kriegs- und
+      Domänenkammer and an honorary title. Where it names von Triebenfeld it
+      shortens his full title, Kriegs- und Forstrath, Councillor of War and
+      Forests (editor, 2026-10-02)."
   - term: Kammerrath
     pattern: '\b(C|K)ammer[- ]?R?rath\w*'
     policy: translate
