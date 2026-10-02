@@ -1003,6 +1003,20 @@ tribunals and peace courts (Gloger stops at 1795), Dismembration, pp., Actum,
 in fidem, ex officio, Rendant and the abbreviations of Herr. 55 of 108
 entries are now checked.
 
+## The Sources page's one-line descriptions made to stand alone (2026-10-02)
+
+The editor found that the line under each holding on the Sources page assumed
+the reader knew which ministry, which king and which agent was meant. Each of
+the nine (`title` and `title_de` in `units/<slug>/unit.yml`, also the
+standfirst on the holding's own page) now names in full the king (Friedrich
+Wilhelm II or III, King of Prussia), the office that kept the file (the
+Prussian central administration for South Prussia, the Prussian Ministry of
+Foreign Affairs), the Prince (Prince Friedrich Ludwig of Hohenlohe-Ingelfingen)
+and his agent (Peter Friedrich von Triebenfeld), and says what South Prussia
+was: Prussia's share of partitioned Poland. First mentions take "a", per the
+house style. The same line opens the translator's and summariser's prompts,
+which will carry the fuller context at the next paid run.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
