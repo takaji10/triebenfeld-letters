@@ -26,6 +26,8 @@
 #   long_en, long_de     events only: a paragraph for the glossary page
 #   per         `document` marks the first hit in a document only, not on
 #               every page: for formulas and units met on nearly every page
+#   source      what the entry rests on, where that is a source in hand (an
+#               archival description, a document); shown on the glossary page
 #   check_against        the reference work the entry is to be checked against
 #   checked     false until it has been. The glossary page says so.
 #
@@ -893,15 +895,46 @@ entries:
   match_de: '\bPatrimonial\w*'
   match_en: '\bpatrimonial courts?\b'
   short_en: >-
-    The lord's own court for the people of his estate, dealing with their
-    disputes and petty offences in the first instance. The lord did not sit
-    himself: a trained lawyer, the justiciary, held it in his name.
+    The court a landowner held over the people of his estate, by a
+    jurisdiction the King delegated with the land. It heard all matters
+    between the lord and his peasants except criminal ones, and drew up their
+    contracts and mortgages.
   short_de: >-
-    Das eigene Gericht des Grundherrn für die Leute seines Guts, in erster
-    Instanz für ihre Streitigkeiten und kleinen Vergehen. Der Grundherr saß
-    nicht selbst: ein Jurist, der Justitiarius, hielt es in seinem Namen.
+    Das Gericht, das ein Gutsbesitzer über die Leute seines Guts hielt, kraft
+    einer vom König mit dem Land übertragenen Gerichtsbarkeit. Es entschied
+    alle Sachen zwischen Grundherrn und Bauern außer Strafsachen und nahm
+    ihre Verträge und Hypotheken auf.
+  long_en: >-
+    In South Prussia the Prussian General Law Code, introduced in 1796, gave
+    the highest jurisdiction to the King, who could delegate it. Delegated
+    with the land, it was patrimonial: it passed to each new owner, and
+    belonged in principle to the nobility. All subjects and free persons on
+    the estate were under it. The owner could judge in person or have a
+    justiciary sit for him; he answered to the District Judicial Commission
+    (Kreis-Justiz-Commission) above him, took the court fees in return for
+    the court's costs, and might set up more than one court, but could not
+    interfere with its rulings. Contracts and the mortgage register were much
+    of its business, though the mortgages reached only a few of the wealthier
+    peasants. In the Duchy of Warsaw the patrimonial courts were abolished in
+    1808 and their business passed to the peace courts. The Prince's court
+    sat at Trąbczyn.
+  long_de: >-
+    In Südpreußen gab das 1796 eingeführte Allgemeine Landrecht die oberste
+    Gerichtsbarkeit dem König, der sie übertragen konnte. Mit dem Land
+    übertragen, war sie patrimonial: sie ging auf jeden neuen Besitzer über
+    und stand grundsätzlich dem Adel zu. Alle Untertanen und Freien auf dem
+    Gut unterstanden ihr. Der Besitzer konnte selbst richten oder einen
+    Justitiarius für sich sitzen lassen; er unterstand der
+    Kreis-Justiz-Commission, erhob als Ausgleich für die Kosten des Gerichts
+    die Gerichtsgebühren und durfte mehrere Gerichte einrichten, aber nicht
+    in ihre Entscheidungen eingreifen. Verträge und das Hypothekenwesen waren
+    ein großer Teil seiner Arbeit, wobei die Hypotheken nur wenige
+    wohlhabendere Bauern erreichten. Im Herzogtum Warschau wurden die
+    Patrimonialgerichte 1808 aufgehoben, ihre Geschäfte gingen an die
+    Friedensgerichte. Das Gericht des Fürsten saß in Trąbczyn.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md)"
   check_against: Allgemeines Landrecht 1794, Teil II Titel 17
-  checked: false
+  checked: true
 
 - id: justitiarius
   kind: law
@@ -912,13 +945,13 @@ entries:
   match_de: '\bJusti(z|t)iari\w*'
   match_en: '\bjusticiar\w*'
   short_en: >-
-    The lawyer who held a lord's patrimonial court for him. He had to be
-    qualified and approved by the state, though the lord appointed and paid
-    him.
+    The lawyer who held a landowner's patrimonial court for him. The owner
+    could also judge in person, but most had a justiciary sit in their name.
   short_de: >-
-    Der Jurist, der das Patrimonialgericht für den Grundherrn hielt. Er
-    musste vom Staat geprüft und bestätigt sein, wurde aber vom Grundherrn
-    bestellt und bezahlt.
+    Der Jurist, der das Patrimonialgericht für den Gutsbesitzer hielt. Der
+    Besitzer konnte auch selbst richten, ließ aber meist einen Justitiarius
+    in seinem Namen sitzen.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md)"
   check_against: Allgemeines Landrecht 1794, Teil II Titel 17
   checked: false
 
@@ -1233,6 +1266,28 @@ entries:
   check_against: Adelung
   checked: false
 
+- id: landrecht
+  kind: law
+  lang: de
+  head_en: General Law Code (Landrecht)
+  head_de: Allgemeines Landrecht
+  orig: Landrecht, allgemeines Landrecht
+  match_de: '\b[Ll]and[- ]?[Rr]echt\w*'
+  match_en: '\bGeneral Law Code\b|\bLandrecht\w*'
+  short_en: >-
+    The Prussian code of 1794, the Allgemeines Landrecht für die Preußischen
+    Staaten, cited by part, title and section ("Th. I. Tit. 15. §. 103"). It
+    was introduced in South Prussia in 1796, with Polish law kept as provincial
+    law alongside it.
+  short_de: >-
+    Das preußische Gesetzbuch von 1794, das Allgemeine Landrecht für die
+    Preußischen Staaten, zitiert nach Teil, Titel und Paragraph („Th. I. Tit.
+    15. §. 103“). In Südpreußen wurde es 1796 eingeführt; das polnische Recht
+    blieb daneben als Provinzialrecht in Kraft.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md)"
+  check_against: the Allgemeines Landrecht 1794 itself
+  checked: false
+
 - id: regierung
   kind: law
   lang: de
@@ -1247,12 +1302,14 @@ entries:
     Before 1808 a Prussian province's "Government" (Regierung) was its high
     court of law, keeper of the mortgage book; the Chamber did the
     administering. After the reforms of 1808 the name passed to the new
-    administrative boards, and the courts became Oberlandesgerichte.
+    administrative boards, and the courts became Oberlandesgerichte. The
+    deeds place estates "under the jurisdiction" of the Government at Posen.
   short_de: >-
     Vor 1808 war die „Regierung“ einer preußischen Provinz ihr oberstes
     Gericht und führte das Hypothekenbuch; verwaltet hat die Kammer. Nach den
     Reformen von 1808 ging der Name auf die neuen Verwaltungsbehörden über,
-    und die Gerichte wurden zu Oberlandesgerichten.
+    und die Gerichte wurden zu Oberlandesgerichten. Die Urkunden stellen Güter
+    „unter die Gerichtsbarkeit“ der Regierung zu Posen.
   check_against: Acta Borussica; Allgemeine Gerichtsordnung 1793
   checked: false
 
@@ -1442,13 +1499,16 @@ entries:
   short_en: >-
     The lowest court of the Duchy of Warsaw, one in each district (sąd
     pokoju), on the French model: it tried small cases, sought settlements and
-    kept guardianships and records. The court at Konin received the lease file
-    of 1811.
+    kept guardianships and records. In 1808 it took over the business of the
+    abolished patrimonial courts; the court at Konin received the lease file of
+    1811.
   short_de: >-
     Das unterste Gericht des Herzogtums Warschau, eines in jedem Kreis (sąd
     pokoju), nach französischem Vorbild: es entschied kleine Sachen, suchte
-    Vergleiche und führte Vormundschaften und Akten. Das Gericht in Konin
+    Vergleiche und führte Vormundschaften und Akten. 1808 übernahm es die
+    Geschäfte der aufgehobenen Patrimonialgerichte; das Gericht in Konin
     erhielt 1811 die Pachtakte.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md)"
   check_against: Gloger, Encyklopedia staropolska (sąd pokoju)
   checked: false
 
@@ -1711,8 +1771,11 @@ entries:
     many of them to Prussian generals and officials; that is how Trąbczyn came
     to the Prince of Hohenlohe-Ingelfingen. The province was run on Prussian
     lines, with Chambers at Posen, Petrikau (later Kalisch) and Warsaw, and the
-    Prussian mortgage book. After Prussia's defeat in 1806 it was lost, and in
-    1807 it became most of the Duchy of Warsaw.
+    Prussian mortgage book. The Polish courts were abolished in 1793 and Poles
+    excluded from judicial office in 1795; in 1796 the Prussian General Law
+    Code was introduced, with Polish law kept as provincial law. After
+    Prussia's defeat in 1806 the province was lost, and in 1807 it became most
+    of the Duchy of Warsaw.
   long_de: >-
     Preußen nahm in der Zweiten Teilung 1793 den Westen Großpolens, in der
     Dritten 1795 Warschau mit seinem Umland, und machte daraus die Provinz
@@ -1721,8 +1784,12 @@ entries:
     davon preußischen Generalen und Beamten; so kam Trąbczyn an den Fürsten zu
     Hohenlohe-Ingelfingen. Die Provinz wurde nach preußischem Muster
     verwaltet, mit Kammern in Posen, Petrikau (später Kalisch) und Warschau
-    und dem preußischen Hypothekenbuch. Nach der Niederlage von 1806 ging sie
+    und dem preußischen Hypothekenbuch. Die polnischen Gerichte wurden 1793
+    aufgehoben, Polen 1795 von Richterämtern ausgeschlossen; 1796 wurde das
+    Allgemeine Landrecht eingeführt, das polnische Recht blieb als
+    Provinzialrecht in Kraft. Nach der Niederlage von 1806 ging die Provinz
     verloren und wurde 1807 zum größten Teil des Herzogtums Warschau.
+  source: "Szukaj w Archiwach, after T. Mencel's introduction to the inventory (reference/sources/patrimonial_courts_mencel.md) (the courts and the law)"
   check_against: a standard history of the Partitions
   checked: false
 

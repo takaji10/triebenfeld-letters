@@ -76,6 +76,9 @@
       {% if e.docs > 0 %}
         &middot; <a href="{{ u_browse | append: '?term=' | append: e.id | relative_url }}">{% if e.docs == 1 %}{{ t.gl_in_one }}{% else %}{{ t.gl_in_n | replace: '%d', e.docs }}{% endif %}</a>
       {% endif %}
+      {% if e.source != "" %}
+        &middot; <span>{{ t.gl_source }} {{ e.source | split: " (reference/" | first }}</span>
+      {% endif %}
       {% unless e.checked %}
         &middot; <span>{{ t.gl_unchecked }} {{ e.check_against }}</span>
       {% endunless %}

@@ -143,6 +143,7 @@ en:
   gl_in_one: in 1 document
   gl_in_n: in %d documents
   gl_unchecked: draft, to be checked against
+  gl_source: "source:"
   f_term: Containing the glossary term
   f_term_clear: show all
   gl_more: In the glossary
@@ -425,6 +426,7 @@ de:
   gl_in_one: in 1 Dokument
   gl_in_n: in %d Dokumenten
   gl_unchecked: Entwurf, zu prüfen anhand von
+  gl_source: "Quelle:"
   f_term: Mit dem Glossarbegriff
   f_term_clear: alle zeigen
   gl_more: Im Glossar
