@@ -438,6 +438,23 @@ answer is *no differences*, or differences you can name exactly.
 
 ---
 
+## 8. What the holding owes the rest of the site
+
+A holding is not finished when its documents are up. Each of these is a
+hand-written file that nothing regenerates, so a new holding silently lacks it
+until someone writes it. Do them in the same sitting, English and German
+together (the editor reads no German; the German is written here, free).
+
+| What the reader sees | File | Note |
+|---|---|---|
+| The holding's page: description and how it was prepared | `units/<slug>/about.md`, `process.md`, and `about_de.md`, `process_de.md` | Finding-aid form, see `HOUSE_STYLE.md`. `check_unit_text.py` holds figures to the cited documents. |
+| The one sentence on the Sources page | `title`, `title_de` in `unit.yml` | |
+| People page: who each person is, and when they lived | `reference/people_bios.yml` | One entry per new person. Dates only for an identified historical figure, checked against a reference work; everyone else shows "documented <years>", which the build works out. |
+| Places page: the map link | `reference/places_osm.yml` | Keyed by the printed name. Only where the identification is firm. |
+| German for a date note or a relation note | `reference/site_notes_de.yml` | Keyed by the English note exactly as it stands in `rulings.yml`. A note with no entry shows in English on the German view. |
+| Timeline | `site/_data/timeline.yml` | Add the events the holding documents that bear on the estate's owner, with `refs:` to the documents and the `_de` fields. Extend the year range in `site/_includes/timeline.html` if the holding runs past it. |
+| The era essay and the edition guide | `site/hohenlohe.md`, `site/reading-this-edition.md` and their `site/de/` counterparts | They name holdings and give counts by hand. Nothing checks them against the data, or the German against the English. |
+
 ## The mistakes this order exists to prevent
 
 1. **A holding's facts written into code.** The translator's prompt described
