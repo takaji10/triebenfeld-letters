@@ -269,31 +269,6 @@ en:
   f_allunits: All holdings
   doc_one: document
   doc_many: documents
-  movements_h2: What was happening
-  movements:
-    - lead: "1798-99 &middot; The land swap that fails."
-      body: >-
-        Lobbying in Berlin to trade the Polish estates for Prussian crown domains, to
-        clear the Prince's debts. It does not come off.
-    - lead: "1800-1806 &middot; Debt management becomes the whole job."
-      body: >-
-        Estates sold and mortgaged, colonisation schemes to raise revenue, creditors
-        multiplying.
-    - lead: "1806-1809 &middot; Catastrophe."
-      body: >-
-        Jena, Prenzlau, Tilsit. The estates pass to a foreign state and are sequestered;
-        Triebenfeld is arrested and left destitute.
-    - lead: "1809-1812 &middot; Legal war on every front."
-      body: >-
-        Thirty-one simultaneous lawsuits, a fraudulent sequestor, and a rival heir
-        litigating for Trąbczyn.
-    - lead: "1813-1815 &middot; Vienna."
-      body: >-
-        A bankrupt agent at the Congress, petitioning for restitution while the map of
-        Poland is redrawn around him.
-    - lead: "1815-16 &middot; Personal ruin."
-      body: >-
-        The relationship curdles; Triebenfeld's daughter dies.
 
 de:
   code: de
@@ -558,28 +533,3 @@ de:
   f_allunits: Alle Bestände
   doc_one: Dokument
   doc_many: Dokumente
-  movements_h2: Was geschah
-  movements:
-    - lead: "1798-99 &middot; Der gescheiterte Gütertausch."
-      body: >-
-        Lobbyarbeit in Berlin, um die polnischen Güter gegen preußische Krondomänen zu
-        tauschen und damit die Schulden des Fürsten zu tilgen. Es kommt nicht dazu.
-    - lead: "1800-1806 &middot; Die Schuldenverwaltung wird zur ganzen Aufgabe."
-      body: >-
-        Güter werden verkauft und beliehen, Kolonisationsvorhaben sollen Einnahmen
-        bringen, die Zahl der Gläubiger wächst.
-    - lead: "1806-1809 &middot; Die Katastrophe."
-      body: >-
-        Jena, Prenzlau, Tilsit. Die Güter geraten unter fremde Staatshoheit und werden
-        sequestriert; Triebenfeld wird verhaftet und bleibt mittellos zurück.
-    - lead: "1809-1812 &middot; Rechtskrieg an allen Fronten."
-      body: >-
-        Einunddreißig gleichzeitige Prozesse, ein betrügerischer Sequestor und ein
-        konkurrierender Erbe, der um Trąbczyn prozessiert.
-    - lead: "1813-1815 &middot; Wien."
-      body: >-
-        Ein bankrotter Bevollmächtigter auf dem Kongress, der um Rückgabe bittet, während
-        um ihn herum die Landkarte Polens neu gezeichnet wird.
-    - lead: "1815-16 &middot; Der persönliche Ruin."
-      body: >-
-        Das Verhältnis vergiftet sich; Triebenfelds Tochter stirbt.

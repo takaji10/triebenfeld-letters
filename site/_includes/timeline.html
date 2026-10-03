@@ -66,15 +66,6 @@
   {% endfor %}
 </div>
 
-<div class="prose">
-  <h2>{{ t.movements_h2 }}</h2>
-  <ol class="movements">
-    {% for m in t.movements %}
-      <li><b>{{ m.lead }}</b> {{ m.body }}</li>
-    {% endfor %}
-  </ol>
-</div>
-
 <style>
 .timeline { max-width: 68rem; margin: 2rem 0 3rem; }
 .tl-year {
@@ -103,8 +94,6 @@
 .kind-political { border-left-color: #46618a; }
 .kind-estate { border-left-color: #7a6220; }
 .kind-personal { border-left-color: #5c6b4a; }
-.movements { max-width: var(--measure); padding-left: 1.1rem; }
-.movements li { margin-bottom: .6rem; }
 @media (max-width: 44rem) {
   .tl-year { grid-template-columns: 3.2rem minmax(0, 1fr); }
   .tl-events { grid-column: 1 / -1; }
