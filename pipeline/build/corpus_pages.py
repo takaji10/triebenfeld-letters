@@ -35,6 +35,8 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
 import os, re, csv
 import sys
 
+from numerals import group_digits
+
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # The caller passes the unit's decisions file; this module is imported by
 # build_db.py and has no business choosing a unit of its own.
@@ -382,6 +384,9 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
         flags = []
         paragraphs = page_reading(page, letter_id, decisions, is_register, paras,
                                   sideways, flags)
+        # Sums grouped by thousands in the reading text only (numerals.py); the
+        # diplomatic text and the transcription keep the page's figures.
+        paragraphs = [group_digits(p) for p in paragraphs]
         # A paragraph runs on across a page break unless the first line of this
         # page was itself ruled a paragraph start. The reading text still never
         # crosses the break - the flag only tells the reader that it did.

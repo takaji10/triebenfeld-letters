@@ -114,6 +114,13 @@ than where it sits.
   sentence, a page's last line counts too unless it is a catchword, and a run
   of short lines breaks on its own only where both hold two words or fewer
   (`paragraphs:` in its `unit.yml`).
+- **Figures grouped by thousands** (editor, 2026-10-03) in the reading text
+  and the English: 316000 is shown 316,000, with the comma the documents
+  themselves use where they group ("36,000 rtt"). The transcription keeps the
+  page's figures. Four-digit numbers are grouped only before a currency or
+  measure or where they cannot be a year; years and archive numbers
+  (Nr. 12765) are not. `numerals.py`, applied by corpus_pages.py and
+  english_forms.py.
 - **Catchwords** (editor, 2026-10-03): the word a scribe wrote at the foot of
   a page to announce the next stays in the transcription, because it is on the
   page, and is said once in the reading text and the English. The line-break

@@ -18,6 +18,8 @@ _sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(
 import os, re, sys, argparse, collections
 import yaml
 
+from numerals import group_digits
+
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 _RULES = None
 
@@ -60,7 +62,11 @@ def apply(text, counts=None):
         if n and counts is not None:
             counts[r['id']] += n
         text = new
-    return text
+    # Sums grouped by thousands (editor, 2026-10-03; numerals.py).
+    new = group_digits(text)
+    if new != text and counts is not None:
+        counts['digit-groups'] += 1
+    return new
 
 
 _CORR = None

@@ -1179,6 +1179,17 @@ the Thaler; the ministry's German note in the same file gives his 55,000 as
 (a rule in english_forms.yml: 10 in the translation, 3 in its summary), the
 German summary Reichstaler, and the era page the same in both languages.
 
+Figures grouped by thousands (editor, 2026-10-03). The reading text and the
+English now show 316,000 for 316000 and 76,000 for 76000; the transcription
+keeps the page's figures, and verify_site still checks it character for
+character. Every number of five digits or more is grouped; one of four digits
+only before a currency or measure (1,800 Rthl, 1,500 Morgen) or where it
+cannot be a year, so 1797 stays 1797; archive and section numbers are never
+grouped. The comma is the documents' own separator where they use one. New
+`numerals.py`, applied by corpus_pages.py to the reading text and by
+english_forms.py to the English (456 changes in 229 translations, 177 in the
+English summaries). All nine holdings rebuilt; their checks pass.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
