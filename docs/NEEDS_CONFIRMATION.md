@@ -70,7 +70,8 @@ People (`reference/people.yml`, `open_questions`):
 
 - Names in the English, from the names audit of 2026-10-03 (the editor
   ruled the rest the same day: Tarnowo, Ribbeck, Kunkel, Dormowo,
-  Hussarzewski, Włocławek, and Klein Althammer is Stara Kuźnia):
+  Hussarzewski, Włocławek, and Klein Althammer is Stara Kuźnia; and Bądkowo,
+  the Włocławek chapter's village, for Batkowo/Bątkowo):
   - "Betsche below Strehlen" (9454, 119): the editor doubts it is a second
     Betsche. Against Pszczew: the Hussites who bought it asked to be shown
     land in South Prussia, so it lay outside it; "unter Strehlen" is

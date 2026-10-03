@@ -223,7 +223,7 @@ entail: they were to pass undivided to one heir and could not be sold or divided
 confirmed the foundation by a charter of 19 December 1805
 ([charter]({{ '/documents/oe1u199/1/' | relative_url }})). The entail covered his houses at
 Wrocław and the park at Szczytniki, the estate of Bytków, the lordship of Koszęcin, and the
-South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Bątkowo. If the male
+South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Bądkowo. If the male
 line ended, the South Prussian estates were to go to his third daughter, Auguste. The
 charter was made in the same year in which those estates were being let out in parcels.
 

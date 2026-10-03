@@ -233,7 +233,7 @@ Besitzungen ein Familienmajorat: sie sollten ungeteilt an einen Erben übergehen
 weder verkauft noch geteilt werden. Der König bestätigte die Stiftung durch eine Urkunde vom
 19. Dezember 1805 ([Urkunde]({{ '/documents/oe1u199/1/' | relative_url }})). Das Majorat
 umfasste seine Häuser in Wrocław und den Park in Szczytniki, das Gut Bytków, die Herrschaft
-Koszęcin und die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Bątkowo.
+Koszęcin und die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Bądkowo.
 Sollte der Mannesstamm erlöschen, sollten die südpreußischen Güter an seine dritte Tochter
 Auguste fallen. Die Urkunde entstand in demselben Jahr, in dem diese Güter stückweise
 ausgetan wurden.

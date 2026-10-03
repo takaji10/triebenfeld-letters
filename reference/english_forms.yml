@@ -165,8 +165,8 @@ rules:
 - id: place-spellings
   pattern: "\\b(Botkowo?|Brzyzer|Brzyzna|Brzyze|Charlottenbourg|Czischowa|Czyschowa|Czysowa|Gollawia|Grądzin|Grąndzyń|Gratz|Heidelburg|Carlsruhe|Cassel|Karczin|Krotoszin|Mysłowic|Neufchatel|Neustad|Presburg|Przybisław|Ruszynowig|Schweinerne|Szettlewek|Weissenfeld|Wrąbczin|Kálitz|Nowa wieś|Nowa wies|Nova wies|Wieruszew|Gosztiszyn)\\b"
   names:
-    "Botkow": "Batkowo"
-    "Botkowo": "Batkowo"
+    "Botkow": "Bądkowo"
+    "Botkowo": "Bądkowo"
     "Brzyzer": "Brzyce"
     "Brzyzna": "Brzyce"
     "Brzyze": "Brzyce"
@@ -257,3 +257,10 @@ rules:
     Ribbeck, Tarnowo, Dormowo; Klein Althammer is Stara Kuźnia, by Bierawa;
     the chapter "zu Wraclawek" (14525, 28) is Włocławek.
 
+- id: name-badkowo
+  pattern: "\\b(?:Batkowo|Bątkowo)\\b"
+  replace: "Bądkowo"
+  why: >-
+    The estate in the Radziejów district, formerly of the cathedral chapter of
+    Włocławek: Bądkowo, its modern Polish name (editor, 2026-10-03). The
+    documents write Batkowo and Botkowo.

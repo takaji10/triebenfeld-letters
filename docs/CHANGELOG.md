@@ -1125,6 +1125,13 @@ summaries follow (a rule in english_forms.yml; 43 places in the translations,
 Betsche below Strehlen (letter 119) is left as it is, with the evidence that
 it is not Pszczew, for the editor to rule.
 
+Bądkowo (editor, 2026-10-03). The village the contracts and the entail call
+Batkowo or Botkow is Bądkowo, near Aleksandrów Kujawski, the village of the
+Włocławek cathedral chapter from 1239 until the partition. The register entry
+takes that name (German Batkowo); the English translations (7 documents) and
+summaries, the German summaries, the era page and the holdings' About pages
+follow. The place stays Włocławek, as ruled.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

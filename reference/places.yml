@@ -857,11 +857,16 @@ places:
     variants: []
 
   batkowo:
-    display: "Batkowo"
+    # Bądkowo, the modern Polish name (editor, 2026-10-03). The documents write
+    # Batkowo and Botkowo. A village of the cathedral chapter of Włocławek from
+    # 1239 until the confiscation (14525, 28).
+    display: "Bądkowo"
+    german: "Batkowo"
     kind: village
-    match: 'B[aoą]tkow\w*'
+    match: 'B(?:[aoą]t|[ąa]d)kow\w*'
     tier: ""
     variants:
+      - "Batkowo"
       - "Botkow"
       - "Botkowo"
     open_questions:
