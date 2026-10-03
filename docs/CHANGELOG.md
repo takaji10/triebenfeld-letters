@@ -1253,6 +1253,14 @@ now finds its entry. The English (67 changes in 48 translations, 10 in the
 summaries, by a rule in english_forms.yml) and the German summaries follow
 ("Blizanower Güter" stays, a German adjective).
 
+Document navigation stays in its holding (editor, 2026-10-03). The previous
+and next links on a document page, in archival and in chronological order,
+ran across the whole edition: the last document of one holding led to the
+first of the next, and the chronological order moved between holdings by
+date. Both orders are now kept per holding (build_site_data.py), so a reader
+browsing one holding stays in it; at a holding's first and last document the
+arrow is shown disabled. Checked: no navigation link leaves its holding.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

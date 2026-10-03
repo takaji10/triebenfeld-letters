@@ -326,9 +326,16 @@ def main():
     # parent_letter names a document number inside the same holding, so the
     # lookup has to be scoped by unit: two units both have a document 7.
     _by_unit_lid = {(r['unit'], r['letter_id']): r for r in recs}
-    # Keyed by uid, not letter_id: document numbers repeat between units.
-    arch_pos = {r['uid']: i for i, r in enumerate(archival)}
-    chrono_pos = {r['uid']: i for i, r in enumerate(chrono)}
+    # A document's previous and next stay inside its own holding (editor,
+    # 2026-10-03): a reader browsing one holding expects to stay in it, so each
+    # order is kept per unit. Keyed by uid: document numbers repeat between units.
+    arch_unit, chrono_unit = defaultdict(list), defaultdict(list)
+    for r in archival:
+        arch_unit[r['unit']].append(r)
+    for r in chrono:
+        chrono_unit[r['unit']].append(r)
+    arch_pos = {r['uid']: i for lst in arch_unit.values() for i, r in enumerate(lst)}
+    chrono_pos = {r['uid']: i for lst in chrono_unit.values() for i, r in enumerate(lst)}
 
     # ---------- people / places ----------
     people_index = defaultdict(list)
@@ -377,6 +384,7 @@ def main():
         is_reg = r['doc_type'] == 'register'
         tbl = tables.get((r['unit'], lid))
         a, c = arch_pos[r['uid']], chrono_pos[r['uid']]
+        arch_l, chrono_l = arch_unit[r['unit']], chrono_unit[r['unit']]
         fm = []
         fm.append('---')
         fm.append('layout: letter')
@@ -438,16 +446,15 @@ def main():
                   + ', '.join(yaml_str(p) for p in r['_estates']) + ']')
         fm.append('themes: [' + ', '.join(yaml_str(t) for t in (r.get('themes') or [])) + ']')
         fm.append(f'era: {yaml_str(r.get("era") or "")}')
-        fm.append(f'prev_archival: {yaml_opt(archival[a-1]["letter_id"]) if a > 0 else "null"}')
-        fm.append(f'next_archival: {yaml_opt(archival[a+1]["letter_id"]) if a < len(archival)-1 else "null"}')
-        fm.append(f'prev_chrono: {yaml_opt(chrono[c-1]["letter_id"]) if c > 0 else "null"}')
-        fm.append(f'next_chrono: {yaml_opt(chrono[c+1]["letter_id"]) if c < len(chrono)-1 else "null"}')
-        # A neighbour may sit in another unit once the corpus grows, so the
-        # template is handed the URL rather than building one from the id.
-        fm.append(f'prev_archival_url: {yaml_opt(archival[a-1]["permalink"]) if a > 0 else "null"}')
-        fm.append(f'next_archival_url: {yaml_opt(archival[a+1]["permalink"]) if a < len(archival)-1 else "null"}')
-        fm.append(f'prev_chrono_url: {yaml_opt(chrono[c-1]["permalink"]) if c > 0 else "null"}')
-        fm.append(f'next_chrono_url: {yaml_opt(chrono[c+1]["permalink"]) if c < len(chrono)-1 else "null"}')
+        fm.append(f'prev_archival: {yaml_opt(arch_l[a-1]["letter_id"]) if a > 0 else "null"}')
+        fm.append(f'next_archival: {yaml_opt(arch_l[a+1]["letter_id"]) if a < len(arch_l)-1 else "null"}')
+        fm.append(f'prev_chrono: {yaml_opt(chrono_l[c-1]["letter_id"]) if c > 0 else "null"}')
+        fm.append(f'next_chrono: {yaml_opt(chrono_l[c+1]["letter_id"]) if c < len(chrono_l)-1 else "null"}')
+        # The template is handed the URL rather than building one from the id.
+        fm.append(f'prev_archival_url: {yaml_opt(arch_l[a-1]["permalink"]) if a > 0 else "null"}')
+        fm.append(f'next_archival_url: {yaml_opt(arch_l[a+1]["permalink"]) if a < len(arch_l)-1 else "null"}')
+        fm.append(f'prev_chrono_url: {yaml_opt(chrono_l[c-1]["permalink"]) if c > 0 else "null"}')
+        fm.append(f'next_chrono_url: {yaml_opt(chrono_l[c+1]["permalink"]) if c < len(chrono_l)-1 else "null"}')
         # Typed links to other documents in the same holding. Rendered as
         # links, so a confirmation reaches the contract it confirms.
         _rels = [(_rel, _by_unit_lid.get((r['unit'], str(_rel.get('target', '')))))
