@@ -26,6 +26,39 @@ repository; they are on the working machine.
   confiscation. Each is worked into the Hohenlohe-Ingelfingen years page as
   `docs/HOHENLOHE_ERA_PLAN.md` says, and three may open the restitution era
   instead: the era is to be confirmed as each is added.
+- **The confiscation judgment against Antoni Prusimski** of 27 June 1796
+  (date from 14525, 12), given by the South Prussian Government for the Płock
+  department, which sat at Toruń (Thorn) from 1 June 1795 until it moved to
+  Warsaw from 1796 (GStA, I. HA GR, Rep. 7 C, introduction to the finding aid;
+  Nr. 5046 and 6048 are its founding patent). No copy is in the edition.
+  Files in Rep. 7 C that may hold it or refer to it (from the online finding
+  aid, 2026-10-03; not yet seen):
+  - Nr. 1413 Vormundschaft der minorennen Michaline v. Prusimska und deren
+    Ansprüche an die konfiszierten Güter ihres Vaters, 1796-1798 (the
+    editor's "Minor Prusimska's claims")
+  - Nr. 1414 Aufenthalt des Anton v. Prusimski in Venedig, 1797
+  - Nr. 3067 Promemoria Goldbecks über das Ergebnis des Rechtsverfahrens gegen
+    die Insurgenten, 1797
+  - Nr. 3554 Abschriften der Schenkungsurkunden über die südpreußischen
+    Gratial- und Insurgentengüter, 1796-1797
+  - Nr. 2572 Held's "schwarzes Register" of the Gratialgüter given away under
+    Hoym, 1794-1798 (1801)
+  - Nr. 5040 Eintragung des Titulus possessionis bei verliehenen Gratialgütern,
+    1797
+  - Other Prusimski files: Nr. 421 (Chelmski's claim on the former Starost,
+    1799), 1410, 1411, 1416 (his Hauländer and the miller Reinicke, about
+    1800-1805), 1412 (Sanitz against Prusimska, 1800), 1415 (a loan of 30,000
+    Rtlr, 1797), 1451 and 3702 (Przespolewski's claim on Trąbczyn and
+    Szetlewek, 1798-1801), 3132 (a v. Prusinski asks to return to South
+    Prussia, 1802; whether he is Antoni is to be seen).
+  - Other Hohenlohe-Ingelfingen files there: Nr. 3611 (the Pszczew grant),
+    3703 (against the monastery of Ląd), 3704 (Pszczew lease), 3706
+    (Broniewski), 3707 (Schünemann), 3708 (the Włocławek chapter), 3710
+    (Schmeling), 4734 (Leixner's licence for Kamionna, 1804).
+  Szukaj w Archiwach could not be searched from here (its bot protection
+  turns away scripted requests); the State Archive in Toruń and AGAD
+  (fonds 169, Generaldirektorium, Departement Südpreußen) remain to be
+  searched there by hand.
 - **Two eras are named and empty** (`reference/eras.yml`): the
   Trąbczyn–Łukom boundary dispute (c. 1589–1788) and the
   Prusimska/Miączyńska restitution (1807 onward).
