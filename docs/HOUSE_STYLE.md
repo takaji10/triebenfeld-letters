@@ -43,6 +43,28 @@ do not summarise. A name in a heading says who the person is.
 reader has already met it. They have not. This holds in summaries, descriptions
 and essays alike, and it is the single rule most often broken.
 
+## No cryptic statements
+
+The editor, 2026-10-03: "don't write cryptic statements". A sentence the
+reader cannot follow without having read the letters is a failure, however
+true it is. Before a sentence ships, ask of it:
+
+- **Who?** Every person is named and placed ("Barbe, the court councillor in
+  Hardenberg's chancery"), never "the man", "his", "the recurring figure".
+- **What, exactly?** Not "nothing coming in" but what was owed, by whom, to
+  whom. Not "the settlers cannot pay" but which settlers, and pay what.
+- **Which office, which court?** "The chambers", "the government", "court
+  administration", "attaches", "heads of agreement", "pledge" are explained or
+  replaced by what they did.
+- **Why does it matter here?** A bare event ("the estates' court still issues
+  papers", "the Congress is thrown into suspension") says what it meant for
+  Hohenlohe-Ingelfingen or the estates.
+- **Proposed or done?** A proposal, a draft or a petition is not a result.
+
+A short entry that leaves the reader asking is worse than a longer one that
+does not. Where an entry cannot be made clear without a paragraph, it belongs
+on the era page, and the timeline keeps the core of it.
+
 ## Descriptions stand alone
 
 A holding's description is read on its own, in a list, by someone who has seen

@@ -10,6 +10,8 @@ files it points to.
   is the live list of open questions; keep it current when something is settled.
 - `docs/HOUSE_STYLE.md` governs everything written about the documents;
   `docs/EDITORIAL_RULES.md` the transcriptions, which are never "tidied".
+  No cryptic statements: every sentence says who, what, and why it matters
+  (HOUSE_STYLE, "No cryptic statements").
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
 

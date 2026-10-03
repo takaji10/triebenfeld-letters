@@ -1352,6 +1352,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   Dąbska (Prusimska): they were handed over in 1807, and letter 217 reports how that came about
   (her petition to Napoleon, passed on to the Polish governing commission, which ordered it).
 
+- **Timeline: cryptic entries rewritten; a house-style rule against them** (editor,
+  2026-10-03). About thirty entries, in English and German, now say who people were
+  (Hoym, Beyme, Struensee, Barbe, Zerboni, Princess von Sacken), what offices and procedures
+  were (the War and Domains Chambers, the provincial courts, the mortgage books, court
+  administration, the entail), and what happened, from the documents: letter 179a is a draft
+  petition for a royal loan of 698,000 Rthl, not a survey that "promises" villages; the 1808
+  copies show the Zagórów court still working after Trąbczyn was taken; the King, not the
+  chamber, refused the Pszczew sale in 1805; Erbet's costs were 9 Thaler 18 groschen. Polish
+  place names: Witów, Piotrków, Nysa. New section "No cryptic statements" in HOUSE_STYLE.md.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
