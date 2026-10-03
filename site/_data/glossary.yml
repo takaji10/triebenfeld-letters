@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 264
+  docs: 265
 - id: "courant"
   kind: "money"
   lang: "de"

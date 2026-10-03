@@ -348,8 +348,8 @@ years' revenue, 36,500 Reichsthaler
 everything, and Hardenberg was reported as calling Hohenlohe-Ingelfingen
 [the worst-treated of men]({{ '/documents/oe1bu9454/262/' | relative_url }}).
 Hohenlohe-Ingelfingen wrote himself, in April 1815 to Baron vom Stein and in May to
-Hardenberg. He gave his loss as 325,400 écus in the first letter and as more than 261,000
-Reichsthaler in the second, and in the second asked for the crown estate of Sokolnik in
+Hardenberg. He gave his loss as 325,400 Reichsthaler in the first letter and as more than
+261,000 in the second, and in the second asked for the crown estate of Sokolnik in
 compensation ([to Stein]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }});
 [to Hardenberg]({{ '/documents/iiihamdaiiinr12765/8/' | relative_url }})). The replies put
 the matter off until Polish affairs were settled.

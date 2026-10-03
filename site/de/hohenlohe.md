@@ -360,8 +360,8 @@ Humboldt [nahm sich der Sache an]({{ '/documents/oe1bu9454/250/' | relative_url 
 verlangte Abschriften von allem, und Hardenberg soll Hohenlohe-Ingelfingen
 [den am schlechtesten Behandelten]({{ '/documents/oe1bu9454/262/' | relative_url }}) genannt
 haben. Hohenlohe-Ingelfingen schrieb selbst, im April 1815 an den Freiherrn vom Stein und im
-Mai an Hardenberg. Im ersten Brief gab er seinen Verlust mit 325.400 Écus an, im zweiten mit
-über 261.000 Reichstalern, und im zweiten bat er um die Krondomäne Sokolnik als Entschädigung
+Mai an Hardenberg. Im ersten Brief gab er seinen Verlust mit 325.400 Reichstalern an, im zweiten
+mit über 261.000, und im zweiten bat er um die Krondomäne Sokolnik als Entschädigung
 ([an Stein]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }});
 [an Hardenberg]({{ '/documents/iiihamdaiiinr12765/8/' | relative_url }})). Die Antworten
 vertrösteten auf die Regelung der polnischen Angelegenheiten.

@@ -1172,6 +1172,13 @@ them. The repeats that the sentence needs stay ("mit Kolno. || Kolno
 grentzet", 14525, 13). english_forms.py no longer applies a correction twice
 where the words it looks for are part of its own replacement.
 
+Écus are Reichsthaler (editor, 2026-10-03). The Prince's French letter to
+Stein of 1815 (12765, 6) counts in écus, the French that Prussians wrote for
+the Thaler; the ministry's German note in the same file gives his 55,000 as
+"55000 rt.". The English, as everywhere on the site, now writes Reichsthaler
+(a rule in english_forms.yml: 10 in the translation, 3 in its summary), the
+German summary Reichstaler, and the era page the same in both languages.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

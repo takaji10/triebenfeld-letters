@@ -274,3 +274,12 @@ rules:
     The estate in the Radziejów district, formerly of the cathedral chapter of
     Włocławek: Bątkowo in Polish and in the English, Batkowo in German
     (editor, 2026-10-03). The documents write Batkowo and Botkowo.
+
+- id: ecus-reichsthaler
+  pattern: "\\bécus\\b"
+  replace: "Reichsthaler"
+  why: >-
+    In French written by Prussians, écus are Thaler: the Prince's French letter
+    to Stein of 1815 (12765, 6) counts in them, and the ministry's German note
+    in the same file gives the same 55,000 as "55000 rt.". The edition writes
+    Reichsthaler (editor, 2026-10-03).
