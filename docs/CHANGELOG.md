@@ -1316,6 +1316,16 @@ holding's transcription_decisions.csv. With the stop gone the dateline reader
 recognises the day, so documents 4, 6 and 9 are now dated 18 February 1802
 (they read "February 1802"). The English never carried the stop.
 
+No full stop between the month and the year (editor, 2026-10-03). Every
+transcription was searched for stray full stops in dates. Five stood between
+a month and its year and are gone: "18ten Februar. 1802" three times in 14525
+(4, 6, 9), "20. August. 1796" in Nr. 3570 and "13. May. 1816" in 12765, 19
+(whose office note in office_notes.yml is keyed by that line, and follows).
+Each is recorded in the holding's transcription_decisions.csv. None remains
+between a day and its ending, and the full stops of German ordinals ("den 5.
+Juny") and of abbreviations ("d.", "Febr.") are correct and stay. No date and
+no English changed.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

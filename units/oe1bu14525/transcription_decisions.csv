@@ -1131,3 +1131,6 @@ b700a281,oe1bu14525-012,1,27.ten,27ten,@1282 27.ten -> 27ten,"editor, 2026-10-03
 b1d849ae,oe1bu14525-026,1,20.ten,20ten,@3371 20.ten -> 20ten,"editor, 2026-10-03: no full stop between a day and its ending (27ten, not 27.ten)"
 d36525a9,oe1bu14525-026,1,11.ten,11ten,@3385 11.ten -> 11ten,"editor, 2026-10-03: no full stop between a day and its ending (27ten, not 27.ten)"
 ab7b85c8,oe1bu14525-032,1,18.ten,18ten,@3637 18.ten -> 18ten,"editor, 2026-10-03: no full stop between a day and its ending (27ten, not 27.ten)"
+8e5b6cc5,oe1bu14525-004,4,Februar.,Februar,@463 Februar. -> Februar,"editor, 2026-10-03: no full stop between the month and the year in a date"
+93e3aeee,oe1bu14525-006,4,Februar.,Februar,@654 Februar. -> Februar,"editor, 2026-10-03: no full stop between the month and the year in a date"
+d40e1b72,oe1bu14525-009,3,Februar.,Februar,@1079 Februar. -> Februar,"editor, 2026-10-03: no full stop between the month and the year in a date"
