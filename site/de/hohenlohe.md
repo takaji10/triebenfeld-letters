@@ -424,7 +424,7 @@ Vater war, und ihn nur über seinen Dienstherrn erreichen konnte:
 > ([Brief 7]({{ '/documents/oe1bu9454/7/' | relative_url }}))
 
 Im Dezember 1815, wieder in Blizanów und von einer Krankheit genesend, schrieb Triebenfeld, eine
-Tochter sei vier Tage nach einer Geburt gestorben, und auch Barbe, der Freund in Wien, der ihm
+Tochter sei gestorben, und auch Barbe, der Freund in Wien, der ihm
 dort Geld geliehen hatte, sei tot. Er schreibe, damit Hohenlohe-Ingelfingen wisse,
 [dass er noch lebe und wo er sei]({{ '/documents/oe1bu9454/297/' | relative_url }}). Sein
 letzter Brief ist vom 31. Januar 1816. Ein Vermerk auf Zerbonis Bericht vom April 1816 hält

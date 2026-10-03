@@ -1362,6 +1362,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   chamber, refused the Pszczew sale in 1805; Erbet's costs were 9 Thaler 18 groschen. Polish
   place names: Witów, Piotrków, Nysa. New section "No cryptic statements" in HOUSE_STYLE.md.
 
+- **Triebenfeld's daughter: no childbirth** (editor, 2026-10-03). The timeline (December
+  1815) and the Hohenlohe-Ingelfingen years page no longer say she died after giving birth;
+  the editor rules that she did not. They say only that she died. The transcription and the
+  translation of letter 297 keep the letter's own words.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
