@@ -1261,6 +1261,15 @@ date. Both orders are now kept per holding (build_site_data.py), so a reader
 browsing one holding stays in it; at a holding's first and last document the
 arrow is shown disabled. Checked: no navigation link leaves its holding.
 
+A stray full stop in 12765, 8 (editor, 2026-10-03). Page 2, line 212 read
+"den man die Gütter genommen hat. / und der Entschädiget werden muß", one
+clause cut in two; the English followed ("have been taken. and who must be
+compensated"). The full stop is gone from the transcription (ruling in the
+holding's transcription_decisions.csv), and so from the reading text, and the
+English reads "have been taken and who must be compensated" (a correction in
+english_corrections.yml). The corpus dataset was regenerated with it, and
+now also carries Blizanów and Świątniki.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

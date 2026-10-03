@@ -74,3 +74,6 @@ corrections:
 - {pad: oe1bu14526-018, page: 6, find: "for a\n\n§ 2.", replace: "for a", why: "§ 2. at the foot of page 6, repeated overleaf: a catchword"}
 - {pad: oe1bu14526-018, page: 7, find: "the banker Salomon Nathan", replace: "the banker Salomon", why: "Natan at the foot of page 7, Nathan overleaf: a catchword"}
 - {pad: oe1bu14526-019, page: 13, find: "handing over.\n\n§. 14.", replace: "handing over.", why: "§. 14. at the foot of page 13, repeated overleaf: a catchword"}
+
+# A stray full stop (editor, 2026-10-03).
+- {pad: iiihamdaiiinr12765-008, page: 2, find: "from whom the estates have been taken. and who must be compensated", replace: "from whom the estates have been taken and who must be compensated", why: "den man die Gütter genommen hat und der Entschädiget werden muß: one clause; the full stop after hat was a slip, removed from the transcription"}
