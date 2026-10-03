@@ -1288,6 +1288,12 @@ the 57 dated from their own dateline; it now marks only the 25 dates supplied
 by research, and a new [inferred] badge the 9 inferred from neighbouring
 letters, each with its explanation on hover.
 
+The holding named above the document navigation (editor, 2026-10-03). A
+document page now states its archival holding on a line of its own above the
+archival and chronological navigation, which stays inside that holding: the
+reference, linked to the holding's page on Sources, and the archive
+("Holding: Oe 1 Bü 9454, Hohenloher Zentralarchiv Neuenstein (HZAN)").
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -13,6 +13,18 @@ layout: default
 <article class="letter">
 
   <nav class="letter-nav" aria-label="Letter navigation">
+    {%- comment -%} The holding the navigation moves through (editor, 2026-10-03): previous and next stay inside it. {%- endcomment %}
+    {%- assign nu = site.data.units | where: "slug", page.unit | first %}
+    {%- if nu %}
+    <p class="nav-holding">
+      <span class="nav-label" data-i18n="f_unit">{{ t.f_unit }}</span>
+      <a data-i18n-href-unit="1"
+         data-href-en="{{ '/sources/' | append: page.unit | append: '/' | relative_url }}"
+         data-href-de="{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}"
+         href="{% if lang == 'de' %}{{ '/de/quellen/' | append: page.unit | append: '/' | relative_url }}{% else %}{{ '/sources/' | append: page.unit | append: '/' | relative_url }}{% endif %}">{{ nu.ref }}</a>
+      <span class="nav-archive">{{ nu.archive }}</span>
+    </p>
+    {%- endif %}
     <div class="nav-group">
       <span class="nav-label" data-i18n="nav_archival">{{ t.nav_archival }}</span>
       {% if page.prev_archival %}<a href="{{ page.prev_archival_url | relative_url }}">&larr; {{ page.prev_archival }}</a>{% else %}<span class="disabled">&larr;</span>{% endif %}
