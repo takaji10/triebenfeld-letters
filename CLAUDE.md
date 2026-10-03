@@ -74,12 +74,17 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-02)
+## Where things stand (2026-10-03)
 
 - Glossary live: 108 entries, 98 words ruled out. 55 checked: the
   patrimonial court (the editor's Szukaj w Archiwach source) and 54 read
   against Krünitz, Adelung, Grimm and Gloger. The other 53 wait on works not
   online here, or have no entry in those that are (NEEDS_CONFIRMATION).
+- Names standardised in the English (the names audit and the editor's
+  rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
+- The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;
+  eight files from the Geheimes Staatsarchiv are still to be added, each
+  worked in per `docs/HOHENLOHE_ERA_PLAN.md`.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

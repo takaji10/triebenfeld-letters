@@ -1,7 +1,7 @@
 # Needs confirmation
 
 Questions still open, gathered from the holdings' notes, rulings and the
-reference registers, and from building the glossary (updated 2026-10-02). When one is settled, record the decision
+reference registers, and from building the glossary (updated 2026-10-03). When one is settled, record the decision
 where it belongs (`units/<slug>/rulings.yml`, `reference/`, the unit's
 `notes.md`, the changelog) and take it off this list. Nothing here is a
 reason to change the text without the editor.
@@ -18,6 +18,14 @@ repository; they are on the working machine.
 - **Rescans, Oe 1 Bü 9454**: letter 245 (both pages) and letter 289 page 1,
   requested in `review/oe1bu9454/rescan_request_final.md`. The trial reading
   of 245 (`review/oe1bu9454/trial_245.csv`, 101 rows) waits for them.
+- **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
+  list, 2026-10-02): Anton Prusimski Venice Residence; Minor Prusimska's
+  claims to her father's estates; Capital on the Zagorow estates; Hohenlohe
+  operations after Jena; the Biography of Hohenlohe (IV. HA); the two Klage
+  der Gräfin Michalina von Miączyńska files; Miaczynska compensation for
+  confiscation. Each is worked into the Hohenlohe-Ingelfingen years page as
+  `docs/HOHENLOHE_ERA_PLAN.md` says, and three may open the restitution era
+  instead: the era is to be confirmed as each is added.
 - **Two eras are named and empty** (`reference/eras.yml`): the
   Trąbczyn–Łukom boundary dispute (c. 1589–1788) and the
   Prusimska/Miączyńska restitution (1807 onward).
@@ -41,7 +49,7 @@ written until there is a witness or a better scan.
 - **Correspondents not known.** No signature or address to go on: 14, 20,
   72, 101, 109, 122, 132, 135, 150, 179a, 186, 202, 207, 224, 257, 285.
   Recorded in `correspondents.json`; do not rerun `derive_correspondents.py`.
-- 251 `[?]` marks remain in the transcription: names, figures and garbled
+- 269 `[?]` marks, on 251 lines, remain in the transcription: names, figures and garbled
   phrases that need the page.
 
 ## Readings, the other holdings
@@ -68,17 +76,12 @@ People (`reference/people.yml`, `open_questions`):
 - Settlers doubled between a German deed and a Polish protocol (as Celmer and
   Zelmer): not checked beyond the known case.
 
-- Names in the English, from the names audit of 2026-10-03. The editor
-  ruled the rest the same day (Tarnowo, Ribbeck, Kunkel, Dormowo,
-  Hussarzewski; Klein Althammer is Stara Kuźnia; the chapter is Włocławek,
-  and the transcription keeps the page's "Wraclawek"; its village is Bątkowo
-  in Polish and English, Batkowo in German; "Betsche below Strehlen" in
-  9454, 119 is not Pszczew; "Grand Duchy of Posen" stands as the state's
-  English name). The uncanonical-names check still lists those last two,
-  which stand by ruling. Open:
-  - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): the editor
-    cannot say; not in the register, and the transcription keeps what the
-    page has.
+- Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): the editor
+  cannot say (2026-10-03). Not in the register; the transcription keeps what
+  each page has. The rest of the names audit of 2026-10-03 is settled
+  (changelog); the uncanonical-names check still lists "Grand Duchy of
+  Posen" (12765: 14, 27, 28) and "Betsche" (9454, 119), which stand by the
+  editor's rulings.
 
 Places (`reference/places.yml`, `open_questions`):
 
