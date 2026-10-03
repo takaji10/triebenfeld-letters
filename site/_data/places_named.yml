@@ -387,6 +387,10 @@
   name: "Sommerfeld"
   count: 6
   letters: [{id: "12", url: "/documents/oe1bu14526/12/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "19", url: "/documents/iiihamdaiiinr12765/19/"}, {id: "21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "23", url: "/documents/iiihamdaiiinr12765/23/"}, {id: "24", url: "/documents/iiihamdaiiinr12765/24/"}]
+- slug: "tarmowo"
+  name: "Tarnowo"
+  count: 6
+  letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "boyadel"
   name: "Bojadła (Boyadel)"
   count: 5
@@ -397,6 +401,12 @@
   name: "Böhmen"
   count: 5
   letters: [{id: "96", url: "/documents/oe1bu9454/96/"}, {id: "119", url: "/documents/oe1bu9454/119/"}, {id: "120", url: "/documents/oe1bu9454/120/"}, {id: "58", url: "/documents/oe1bu9454/58/"}, {id: "241", url: "/documents/oe1bu9454/241/"}]
+- slug: "dormowo"
+  name: "Dormowo"
+  count: 5
+  lat: 52.52918
+  lon: 15.87532
+  letters: [{id: "13", url: "/documents/oe1bu14525/13/"}, {id: "3", url: "/documents/oe1bu14526/3/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "25", url: "/documents/oe1bu14525/25/"}]
 - slug: "cosel"
   name: "Koźle (Cosel)"
   count: 5
@@ -439,10 +449,6 @@
   lat: 53.42981
   lon: 14.59287
   letters: [{id: "7", url: "/documents/oe1bu14525/7/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "26", url: "/documents/oe1bu9454/26/"}, {id: "36", url: "/documents/oe1bu9454/36/"}]
-- slug: "tarmowo"
-  name: "Tarmowo"
-  count: 5
-  letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "augustinow"
   name: "Augustinow"
   count: 4
@@ -453,12 +459,6 @@
   name: "Bayern"
   count: 4
   letters: [{id: "51", url: "/documents/oe1bu9454/51/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "268", url: "/documents/oe1bu9454/268/"}, {id: "269", url: "/documents/oe1bu9454/269/"}]
-- slug: "dormowo"
-  name: "Dormowo"
-  count: 4
-  lat: 52.52918
-  lon: 15.87532
-  letters: [{id: "13", url: "/documents/oe1bu14525/13/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "25", url: "/documents/oe1bu14525/25/"}]
 - slug: "erfurt"
   name: "Erfurt"
   count: 4
@@ -953,6 +953,10 @@
   name: "Popowo"
   count: 1
   letters: [{id: "13", url: "/documents/oe1bu14525/13/"}]
+- slug: "stara-kuznia"
+  name: "Stara Kuźnia (Klein Althammer)"
+  count: 1
+  letters: [{id: "189", url: "/documents/oe1bu9454/189/"}]
 - slug: "toplitz"
   name: "Teplitz"
   count: 1
@@ -987,6 +991,10 @@
   lat: 51.22045
   lon: 18.5701
   letters: [{id: "177", url: "/documents/oe1bu9454/177/"}]
+- slug: "wloclawek"
+  name: "Włocławek (Leslau)"
+  count: 1
+  letters: [{id: "28", url: "/documents/oe1bu14525/28/"}]
 - slug: "frankenstein"
   name: "Ząbkowice Śląskie (Frankenstein)"
   count: 1

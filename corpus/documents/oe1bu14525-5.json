@@ -671,6 +671,17 @@
    "doc_line": 19
   },
   {
+   "entity": "tarmowo",
+   "display": "Tarnowo",
+   "kind": "place",
+   "surface": "Tarnowo",
+   "page": 1,
+   "page_id": "0014_a2",
+   "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
+   "line": 487,
+   "doc_line": 19
+  },
+  {
    "entity": "zagorowo",
    "display": "Zagórów (Zagorowo)",
    "kind": "place",
@@ -873,6 +884,17 @@
    "display": "Swiątniki",
    "kind": "place",
    "surface": "Swiątniki",
+   "page": 3,
+   "page_id": "0015_a2",
+   "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
+   "line": 542,
+   "doc_line": 72
+  },
+  {
+   "entity": "tarmowo",
+   "display": "Tarnowo",
+   "kind": "place",
+   "surface": "Tarnowo",
    "page": 3,
    "page_id": "0015_a2",
    "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",

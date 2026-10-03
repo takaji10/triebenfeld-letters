@@ -241,3 +241,19 @@ rules:
     prinz-wilhelm), whose catalogue name in German had been left standing in
     three letters (64, 195, 247).
 
+- id: editor-names-2026-10-03
+  pattern: "\\b(Hussaczinski|Kunckel|Rybbeck|Rybbek|Tarmowo|Dormowe|Klein Althammer|Wrocławek)\\b"
+  names:
+    "Hussaczinski": "Hussarzewski"
+    "Kunckel": "Kunkel"
+    "Rybbeck": "Ribbeck"
+    "Rybbek": "Ribbeck"
+    "Tarmowo": "Tarnowo"
+    "Dormowe": "Dormowo"
+    "Klein Althammer": "Stara Kuźnia"
+    "Wrocławek": "Włocławek"
+  why: >-
+    The editor's rulings of 2026-10-03: Hussarzewski (9454, 155), Kunkel,
+    Ribbeck, Tarnowo, Dormowo; Klein Althammer is Stara Kuźnia, by Bierawa;
+    the chapter "zu Wraclawek" (14525, 28) is Włocławek.
+

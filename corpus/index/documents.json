@@ -2508,7 +2508,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 7,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "dormowo",
    "betsche"
@@ -4537,7 +4537,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "batkowo",
    "szedlemin"
@@ -4849,7 +4849,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 18,
+  "places_named": 19,
   "estates": [
    "betsche",
    "swiechocin",
@@ -6283,7 +6283,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 3,
   "estates": [
    "trabczyn"
@@ -7857,7 +7857,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
+  "mentions": 5,
   "places_named": 4,
   "estates": [
    "trabczyn"
@@ -8134,7 +8134,7 @@
     "image": "Oe_1_Bu_9454_0296_a1-L155_02.jpg"
    }
   ],
-  "uncertainty_count": 1,
+  "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
@@ -8663,7 +8663,7 @@
   "uncertainty_count": 6,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 14,
+  "mentions": 15,
   "places_named": 6,
   "estates": [
    "swiecia",
@@ -11596,7 +11596,7 @@
   "date_iso": "1806-07-19",
   "date_precision": "day",
   "date_source": "signature",
-  "place": "Klein Althammer",
+  "place": "Stara Kuźnia",
   "sender": "Hahn",
   "recipient": "von Triebenfeld",
   "n_pages": 3,
@@ -11622,7 +11622,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "koschentin",
    "trabczyn"
@@ -11771,7 +11771,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 6,
   "places_named": 7,
   "estates": [
    "olesnica",
@@ -17297,7 +17297,7 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 8,
   "estates": [
    "drzewce",

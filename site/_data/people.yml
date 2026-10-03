@@ -344,13 +344,13 @@
   bio_de: "Justitiar des von Stillfriedschen Patrimonialgerichts in Guhrwitz bei Breslau, das die 1805 Triebenfeld erteilte Generalvollmacht beglaubigte."
   letters: [{id: "8", url: "/documents/oe1bu14526/8/"}, {id: "1", url: "/documents/app5371057/1/"}, {id: "6", url: "/documents/oe1bu14526/6/"}]
 - slug: "kunckel"
-  name: "Kunckel"
-  count: 6
+  name: "Kunkel"
+  count: 7
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "An agent who in 1804 made over land at Althütte to settlers for Hohenlohe-Ingelfingen and brought the three lessees of Oleśnica. Triebenfeld distrusted him, and he was taken into custody in 1805."
   bio_de: "Ein Unterhändler, der 1804 für Hohenlohe-Ingelfingen Land in Althütte an Siedler austat und die drei Pächter von Olesnica brachte. Triebenfeld misstraute ihm; 1805 wurde er in Verwahrung genommen."
-  letters: [{id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "120", url: "/documents/oe1bu9454/120/"}, {id: "123", url: "/documents/oe1bu9454/123/"}, {id: "124", url: "/documents/oe1bu9454/124/"}, {id: "128", url: "/documents/oe1bu9454/128/"}, {id: "172", url: "/documents/oe1bu9454/172/"}]
+  letters: [{id: "118a", url: "/documents/oe1bu9454/118a/"}, {id: "120", url: "/documents/oe1bu9454/120/"}, {id: "123", url: "/documents/oe1bu9454/123/"}, {id: "124", url: "/documents/oe1bu9454/124/"}, {id: "128", url: "/documents/oe1bu9454/128/"}, {id: "17", url: "/documents/oe1bu14526/17/"}, {id: "172", url: "/documents/oe1bu9454/172/"}]
 - slug: "kwilecki"
   name: "Kwilecki"
   count: 8
@@ -1184,13 +1184,13 @@
   bio_de: "Ein Regierungsrat in Kalisch, über den die Olesnicer Sache 1805 an das Patrimonialgericht zurückging."
   letters: [{id: "155", url: "/documents/oe1bu9454/155/"}, {id: "162", url: "/documents/oe1bu9454/162/"}]
 - slug: "rybbeck"
-  name: "Rybbeck"
-  count: 5
+  name: "Ribbeck"
+  count: 8
   life: "documented 1804-1812"
   life_de: "belegt 1804-1812"
   bio: "A lessee on the Zagórów estates, with whom Triebenfeld sought a settlement in 1804 over money paid and buildings put up."
   bio_de: "Ein Pächter auf den Zagorower Gütern, mit dem Triebenfeld 1804 einen Vergleich über gezahlte Gelder und errichtete Bauten suchte."
-  letters: [{id: "128", url: "/documents/oe1bu9454/128/"}, {id: "190", url: "/documents/oe1bu9454/190/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}]
+  letters: [{id: "128", url: "/documents/oe1bu9454/128/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "190", url: "/documents/oe1bu9454/190/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "192", url: "/documents/oe1bu9454/192/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "233", url: "/documents/oe1bu9454/233/"}]
 - slug: "floricke"
   name: "Floricke"
   count: 3

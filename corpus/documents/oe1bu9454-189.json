@@ -17,7 +17,7 @@
  "year": 1806,
  "month": 7,
  "day": 19,
- "place": "Klein Althammer",
+ "place": "Stara Kuźnia",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
  "line_start": 13430,
@@ -230,7 +230,7 @@
    "page": 3
   }
  ],
- "place_canonical": "Klein Althammer",
+ "place_canonical": "Stara Kuźnia",
  "place_mentions": [
   {
    "entity": "koschentin",
@@ -297,6 +297,17 @@
    "scan": "Oe_1_Bu_9454_0357_a2-L189_03.jpg",
    "line": 13466,
    "doc_line": 33
+  },
+  {
+   "entity": "stara-kuznia",
+   "display": "Stara Kuźnia (Klein Althammer)",
+   "kind": "place",
+   "surface": "Klein Althammer",
+   "page": 3,
+   "page_id": "0357_a2",
+   "scan": "Oe_1_Bu_9454_0357_a2-L189_03.jpg",
+   "line": 13473,
+   "doc_line": 40
   }
  ],
  "translation_status": "draft",
@@ -368,7 +379,7 @@
   },
   {
    "page": 3,
-   "en": "for, as one hears, everything there is not in the best order. Should Your Right Honourable be pleased to gladden me with a few lines to Koszęcin, I should be very happy. Herlich, whom I have with me, commends himself to your favour. I [uncertain: add] only still the assurance of most perfect veneration, in which I ever remain: Your Right Honourable's, Klein Althammer\n\nthe 19th of July 1806.\n\nmost humble and obedient servant\n\nA. Hahn",
+   "en": "for, as one hears, everything there is not in the best order. Should Your Right Honourable be pleased to gladden me with a few lines to Koszęcin, I should be very happy. Herlich, whom I have with me, commends himself to your favour. I [uncertain: add] only still the assurance of most perfect veneration, in which I ever remain: Your Right Honourable's, Stara Kuźnia\n\nthe 19th of July 1806.\n\nmost humble and obedient servant\n\nA. Hahn",
    "names": [
     {
      "de": "Koschentin",
@@ -397,7 +408,7 @@
    ]
   }
  ],
- "text_english": "189. Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. I hereby report to Your Right Honourable that the death of the mining councillor Bernhardi has brought upon me the orders to travel to Upper Silesia, and to settle the affairs of this lordship in company with the Inspector Krenig and the Master of Forests Reichmann. I may hope that under the direction of these men matters will go better, since both of them are known to me\n\nas upright and judicious men of business. Once I have finished in Koszęcin I shall return to Wrocław and from there into the Reich. To leave Silesia without having paid my respects to Your Right Honourable is something I could not forgive myself. I therefore beg the same most obediently and the permission — to be allowed to visit you in Trąbczyn and there to pay my attendance. I have on that account also already applied to His Serene Highness and gracious permission, which I hope to obtain.\n\nKoszęcin will give one something to do,\n\nfor, as one hears, everything there is not in the best order. Should Your Right Honourable be pleased to gladden me with a few lines to Koszęcin, I should be very happy. Herlich, whom I have with me, commends himself to your favour. I [uncertain: add] only still the assurance of most perfect veneration, in which I ever remain: Your Right Honourable's, Klein Althammer\n\nthe 19th of July 1806.\n\nmost humble and obedient servant\n\nA. Hahn",
+ "text_english": "189. Right Honourable Sir, Highly Honoured Sir, Councillor of War and Forests. I hereby report to Your Right Honourable that the death of the mining councillor Bernhardi has brought upon me the orders to travel to Upper Silesia, and to settle the affairs of this lordship in company with the Inspector Krenig and the Master of Forests Reichmann. I may hope that under the direction of these men matters will go better, since both of them are known to me\n\nas upright and judicious men of business. Once I have finished in Koszęcin I shall return to Wrocław and from there into the Reich. To leave Silesia without having paid my respects to Your Right Honourable is something I could not forgive myself. I therefore beg the same most obediently and the permission — to be allowed to visit you in Trąbczyn and there to pay my attendance. I have on that account also already applied to His Serene Highness and gracious permission, which I hope to obtain.\n\nKoszęcin will give one something to do,\n\nfor, as one hears, everything there is not in the best order. Should Your Right Honourable be pleased to gladden me with a few lines to Koszęcin, I should be very happy. Herlich, whom I have with me, commends himself to your favour. I [uncertain: add] only still the assurance of most perfect veneration, in which I ever remain: Your Right Honourable's, Stara Kuźnia\n\nthe 19th of July 1806.\n\nmost humble and obedient servant\n\nA. Hahn",
  "summary_en": "Hahn reports that after the death of the mining councillor Bernhardi he received orders to travel to Upper Silesia and to settle the affairs of the lordship of Koszęcin with Inspector Krenig and Master of Forests Reichmann. From what he hears, he says not everything there is in order. He asks permission to visit v. Triebenfeld at Trąbczyn before returning to the Empire by way of Wrocław. He has also applied to the Prince for this. He asks for a few lines to be sent to Koszęcin.",
  "summary_de": "Hahn meldet, dass er nach dem Tod des Bergrath Bernhardi den Befehl erhielt, nach Oberschlesien zu reisen und die Angelegenheiten der Herrschaft Koszęcin mit Inspector Krenig und Forstmeister Reichmann zu regeln. Nach vernehmen sei dort nicht alles in Ordnung. Er bittet um Erlaubnis, v. Triebenfeld in Trąbczyn zu besuchen, bevor er über Wrocław ins Reich zurückkehrt. Beim Fürsten hat er ebenfalls darum nachgesucht. Er erbittet einige Zeilen nach Koszęcin.",
  "reading": {

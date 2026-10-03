@@ -344,6 +344,17 @@
    "doc_line": 94
   },
   {
+   "entity": "rybbeck",
+   "display": "Ribbeck",
+   "kind": "person",
+   "surface": "Ribbeck",
+   "page": 4,
+   "page_id": "0311_a",
+   "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+   "line": 11690,
+   "doc_line": 94
+  },
+  {
    "entity": "lichnowski",
    "display": "Lichnowski",
    "kind": "person",
@@ -587,7 +598,7 @@
    "page": 4
   },
   {
-   "entity": "",
+   "entity": "rybbeck",
    "display": "Ribbeck",
    "kind": "person",
    "surface_de": "Ribbeck",

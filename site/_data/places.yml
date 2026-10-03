@@ -63,10 +63,6 @@
   lat: 51.74729
   lon: 18.07953
   letters: [{id: "31", url: "/documents/oe1bu14525/31/"}, {id: "42", url: "/documents/oe1bu14525/42/"}, {id: "2", url: "/documents/oe1bu14525/2/"}, {id: "32", url: "/documents/oe1bu14525/32/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "19", url: "/documents/oe1bu14525/19/"}, {id: "20", url: "/documents/oe1bu14525/20/"}, {id: "30", url: "/documents/oe1bu14525/30/"}, {id: "23", url: "/documents/oe1bu14525/23/"}, {id: "14", url: "/documents/oe1bu14525/14/"}, {id: "2", url: "/documents/oe1bu14526/2/"}, {id: "21", url: "/documents/oe1bu14525/21/"}, {id: "145", url: "/documents/oe1bu9454/145/"}, {id: "169", url: "/documents/oe1bu9454/169/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "164", url: "/documents/oe1bu9454/164/"}, {id: "21", url: "/documents/oe1bu14526/21/"}, {id: "174", url: "/documents/oe1bu9454/174/"}, {id: "207", url: "/documents/oe1bu9454/207/"}, {id: "210", url: "/documents/oe1bu9454/210/"}, {id: "214", url: "/documents/oe1bu9454/214/"}, {id: "72c", url: "/documents/oe1bu9454/72c/"}, {id: "237", url: "/documents/oe1bu9454/237/"}]
-- name: "Klein Althammer"
-  slug: "klein-althammer"
-  count: 1
-  letters: [{id: "189", url: "/documents/oe1bu9454/189/"}]
 - name: "Klein Öhringen"
   slug: "klein-oehringen"
   count: 1
@@ -151,6 +147,10 @@
   lat: 59.9387
   lon: 30.3162
   letters: [{id: "25", url: "/documents/iiihamdaiiinr12765/25/"}]
+- name: "Stara Kuźnia (Klein Althammer)"
+  slug: "stara-kuznia-klein-althammer"
+  count: 1
+  letters: [{id: "189", url: "/documents/oe1bu9454/189/"}]
 - name: "Swiątniki"
   slug: "swiatniki"
   count: 2

@@ -513,6 +513,17 @@
    "doc_line": 10
   },
   {
+   "entity": "wloclawek",
+   "display": "Włocławek (Leslau)",
+   "kind": "place",
+   "surface": "Wrocławek",
+   "page": 1,
+   "page_id": "0121_b",
+   "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+   "line": 3449,
+   "doc_line": 12
+  },
+  {
    "entity": "suedpreussen",
    "display": "Südpreußen",
    "kind": "place",
@@ -533,6 +544,17 @@
    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
    "line": 3458,
    "doc_line": 20
+  },
+  {
+   "entity": "wloclawek",
+   "display": "Włocławek (Leslau)",
+   "kind": "place",
+   "surface": "Wrocławek",
+   "page": 2,
+   "page_id": "0122_a1",
+   "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
+   "line": 3473,
+   "doc_line": 35
   },
   {
    "entity": "ingelfingen",
@@ -627,7 +649,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "The noble estate of Batkowo, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Radziejewo district.\n\nTogether with the estate of Siedlemin situated in the Brześć district, the reigning Prince Friedrich Ludewig of Hohenlohe-Ingelfingen has received these, as formerly ecclesiastical estates which had belonged to the cathedral chapter at Wrocławek, following the confiscation of all ecclesiastical estates in South Prussia, from His Majesty King Friedrich Wilhelm the Third, according to",
+   "en": "The noble estate of Batkowo, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Radziejewo district.\n\nTogether with the estate of Siedlemin situated in the Brześć district, the reigning Prince Friedrich Ludewig of Hohenlohe-Ingelfingen has received these, as formerly ecclesiastical estates which had belonged to the cathedral chapter at Włocławek, following the confiscation of all ecclesiastical estates in South Prussia, from His Majesty King Friedrich Wilhelm the Third, according to",
    "names": [
     {
      "de": "Königl. Südpreußl. Regierung zu Posen",
@@ -683,7 +705,7 @@
   },
   {
    "page": 2,
-   "en": "the deed of grant dated Berlin, 1 December 1797, by heritable and proprietary grant; and title of possession has been entered for him on the ground of this deed of grant and of the letter of resignation made out on 10 June 1802, by decree of 19 July 1802.\n\nThereupon are entered\n\nI. Perpetual burdens and restrictions upon the ownership or the disposition\n\n1., the annual allowance due to the cathedral chapter at Wrocławek out of these estates",
+   "en": "the deed of grant dated Berlin, 1 December 1797, by heritable and proprietary grant; and title of possession has been entered for him on the ground of this deed of grant and of the letter of resignation made out on 10 June 1802, by decree of 19 July 1802.\n\nThereupon are entered\n\nI. Perpetual burdens and restrictions upon the ownership or the disposition\n\n1., the annual allowance due to the cathedral chapter at Włocławek out of these estates",
    "names": [
     {
      "de": "Berlin",
@@ -812,8 +834,8 @@
    ]
   }
  ],
- "text_english": "The noble estate of Batkowo, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Radziejewo district.\n\nTogether with the estate of Siedlemin situated in the Brześć district, the reigning Prince Friedrich Ludewig of Hohenlohe-Ingelfingen has received these, as formerly ecclesiastical estates which had belonged to the cathedral chapter at Wrocławek, following the confiscation of all ecclesiastical estates in South Prussia, from His Majesty King Friedrich Wilhelm the Third, according to\n\nthe deed of grant dated Berlin, 1 December 1797, by heritable and proprietary grant; and title of possession has been entered for him on the ground of this deed of grant and of the letter of resignation made out on 10 June 1802, by decree of 19 July 1802.\n\nThereupon are entered\n\nI. Perpetual burdens and restrictions upon the ownership or the disposition\n\n1., the annual allowance due to the cathedral chapter at Wrocławek out of these estates\n\nannual allowance, which, because the fixed quantum has not been stated and certified, has been entered as an indeterminate sum on the ground of the deed of grant of His Majesty King Friedrich Wilhelm the Third of 1 December 1797 for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, upon the entry of the title of possession in his name, ex officio by force of the decree of 19 July 1802.\n\n2.) The sovereign prohibition, that\n\nthe estates which, having been confiscated from the ecclesiastical estates in South Prussia, have again been granted with noble rights may not be alienated to native-born inhabitants of the former Poland without express supreme royal consent; which prohibition has been entered against these formerly ecclesiastical estates upon the entry of the title of possession in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the decree of 19 July 1802,\n\nand so has been done.\n\nII. Judicially secured debts and other real obligations: none are entered. Apart from the foregoing items, nothing is entered against the estate of Batkowo in the mortgage book, and for the rest the present mortgage certificate is hereby issued to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in the force of a recognition, on account of the title of possession entered for him. In witness whereof, under\n\nthe signature ordained for the Royal South Prussian Government and the greater seal. Given at Poznań, 26 August 1802. Götze\n\nDieterichs.\n\nFest. John.\n\n(L. S.)\n\nMortgage certificate for the reigning Prince of Hohenlohe-Ingelfingen concerning the estate of Batkowo situated in the Radziejewo district.",
- "summary_en": "A mortgage certificate for the noble estate of Batkowo in the Radziejewo district, held with Siedlemin in the Brześć district: formerly church property of the cathedral chapter at Wrocławek, confiscated in South Prussia and granted with noble rights to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen by a deed of 1 December 1797, his title entered by decree of 19 July 1802. Two perpetual burdens stand: an unquantified annual allowance to the chapter, and a ban on selling to native-born Poles without royal consent. No secured debts.",
- "summary_de": "Ein Hypothekenschein der Königlich Südpreußischen Regierung zu Posen für das adlige Gut Batkowo im Kreis Radziejewo, das mit dem Gut Siedlemin im Kreis Brześć als eingezogenes geistliches Gut des Domkapitels Wrocławek dem regierenden Fürsten Friedrich Ludwig von Hohenlohe-Ingelfingen erb- und eigentümlich verliehen wurde. Eingetragen sind der Besitztitel aufgrund der Verleihungsurkunde vom 1. Dezember 1797 und des Resignationsbriefs, ferner eine unbestimmte jährliche Abgabe an das Domkapitel und das Verbot der Veräußerung an geborene Polen ohne königliche Genehmigung. Schulden sind nicht eingetragen.",
+ "text_english": "The noble estate of Batkowo, situated under the jurisdiction of the Royal South Prussian Government at Poznań in the Radziejewo district.\n\nTogether with the estate of Siedlemin situated in the Brześć district, the reigning Prince Friedrich Ludewig of Hohenlohe-Ingelfingen has received these, as formerly ecclesiastical estates which had belonged to the cathedral chapter at Włocławek, following the confiscation of all ecclesiastical estates in South Prussia, from His Majesty King Friedrich Wilhelm the Third, according to\n\nthe deed of grant dated Berlin, 1 December 1797, by heritable and proprietary grant; and title of possession has been entered for him on the ground of this deed of grant and of the letter of resignation made out on 10 June 1802, by decree of 19 July 1802.\n\nThereupon are entered\n\nI. Perpetual burdens and restrictions upon the ownership or the disposition\n\n1., the annual allowance due to the cathedral chapter at Włocławek out of these estates\n\nannual allowance, which, because the fixed quantum has not been stated and certified, has been entered as an indeterminate sum on the ground of the deed of grant of His Majesty King Friedrich Wilhelm the Third of 1 December 1797 for the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, upon the entry of the title of possession in his name, ex officio by force of the decree of 19 July 1802.\n\n2.) The sovereign prohibition, that\n\nthe estates which, having been confiscated from the ecclesiastical estates in South Prussia, have again been granted with noble rights may not be alienated to native-born inhabitants of the former Poland without express supreme royal consent; which prohibition has been entered against these formerly ecclesiastical estates upon the entry of the title of possession in the name of the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, ex officio by force of the decree of 19 July 1802,\n\nand so has been done.\n\nII. Judicially secured debts and other real obligations: none are entered. Apart from the foregoing items, nothing is entered against the estate of Batkowo in the mortgage book, and for the rest the present mortgage certificate is hereby issued to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in the force of a recognition, on account of the title of possession entered for him. In witness whereof, under\n\nthe signature ordained for the Royal South Prussian Government and the greater seal. Given at Poznań, 26 August 1802. Götze\n\nDieterichs.\n\nFest. John.\n\n(L. S.)\n\nMortgage certificate for the reigning Prince of Hohenlohe-Ingelfingen concerning the estate of Batkowo situated in the Radziejewo district.",
+ "summary_en": "A mortgage certificate for the noble estate of Batkowo in the Radziejewo district, held with Siedlemin in the Brześć district: formerly church property of the cathedral chapter at Włocławek, confiscated in South Prussia and granted with noble rights to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen by a deed of 1 December 1797, his title entered by decree of 19 July 1802. Two perpetual burdens stand: an unquantified annual allowance to the chapter, and a ban on selling to native-born Poles without royal consent. No secured debts.",
+ "summary_de": "Ein Hypothekenschein der Königlich Südpreußischen Regierung zu Posen für das adlige Gut Batkowo im Kreis Radziejewo, das mit dem Gut Siedlemin im Kreis Brześć als eingezogenes geistliches Gut des Domkapitels Włocławek dem regierenden Fürsten Friedrich Ludwig von Hohenlohe-Ingelfingen erb- und eigentümlich verliehen wurde. Eingetragen sind der Besitztitel aufgrund der Verleihungsurkunde vom 1. Dezember 1797 und des Resignationsbriefs, ferner eine unbestimmte jährliche Abgabe an das Domkapitel und das Verbot der Veräußerung an geborene Polen ohne königliche Genehmigung. Schulden sind nicht eingetragen.",
  "reading": {}
 }

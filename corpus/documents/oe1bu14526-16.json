@@ -543,6 +543,17 @@
    "doc_line": 79
   },
   {
+   "entity": "kunckel",
+   "display": "Kunkel",
+   "kind": "person",
+   "surface": "Kunkel",
+   "page": 16,
+   "page_id": "0100_a1",
+   "scan": "Oe_1_Bu_14526_0100_a1-L16_16.jpg",
+   "line": 5443,
+   "doc_line": 470
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -870,7 +881,7 @@
    "page": 16
   },
   {
-   "entity": "",
+   "entity": "kunckel",
    "display": "Kunkel",
    "kind": "person",
    "surface_de": "Kunkel",

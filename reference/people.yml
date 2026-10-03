@@ -299,10 +299,11 @@ people:
       alongside the Actuarius - see [[kaleschke]].
     variants: ["Köppen"]
   kunckel:
-    display: "Kunckel"
-    match: "Kunckel"
+    # Kunkel, not Kunckel (editor, 2026-10-03). The deeds write both.
+    display: "Kunkel"
+    match: "Kunc?kel"
     tier: "Role unclear"
-    variants: []
+    variants: ["Kunckel"]
   kwilecki:
     display: "Kwilecki"
     match: "Kwileck"
@@ -1045,10 +1046,12 @@ people:
     variants: []
     identity: "Regierungs-Rath (letters 155, 162). Added 2026-09-28 in the names pass."
   rybbeck:
-    display: "Rybbeck"
-    match: 'Rybbeck(?![a-zà-ÿ])'
+    # Ribbeck (editor, 2026-10-03); the letters write Rybbeck, Rybbek and
+    # Ribbeck (9454: 164, 192, 213, 233).
+    display: "Ribbeck"
+    match: 'R[iy]bbec?k(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
+    variants: ["Rybbeck", "Rybbek"]
     identity: "Tenant at Drzewce (letters 72b, 213). Added 2026-09-28 in the names pass."
   floricke:
     display: "Floricke"

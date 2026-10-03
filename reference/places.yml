@@ -210,14 +210,18 @@ places:
 
   stara-kuznia:
     # Althammer by Sławięcice, one of the Prince's works estates (Oe 1 U 199).
-    # Not matched after "Klein": 9454's Klein Althammer may be another place.
-    # Added 2026-09-30.
+    # Klein Althammer, from which Hahn wrote letter 189 in July 1806, is the
+    # same place: Klein Althammer, Polish Stara Kuźnia, in the commune of
+    # Bierawa (GOV LANAWAJO90CG), next to Birawa in the entail's list. It was
+    # excluded until 2026-10-03, when the editor asked and the gazetteer
+    # settled it.
     display: "Stara Kuźnia"
-    german: "Althammer"
+    german: "Klein Althammer"
     kind: estate
-    match: '(?<!Klein )Althammer\w*'
+    match: '(?:Klein )?Althammer\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Klein Althammer"
 
   olszyna:
     # Olschin, one of the lordships bought with Koschentin (Oe 1 U 199).
@@ -643,7 +647,10 @@ places:
     kind: village
     match: 'D[oiu]e?rmowo\w*'
     tier: ""
-    variants: ["Durmowo", "Diermowo"]
+    variants:
+      - "Durmowo"
+      - "Diermowo"
+      - "Dormowe"
 
   stolun:
     display: "Stołuń"
@@ -899,11 +906,14 @@ places:
     variants: []
 
   tarmowo:
-    display: "Tarmowo"
+    # Tarnowo (editor, 2026-10-03). The 1797 grant lists write Tarmowo ten
+    # times and Tarnowo twice (Oe 1 Bü 14525).
+    display: "Tarnowo"
     kind: village
-    match: 'Tarmow\w*'
+    match: 'Tar[mn]owo\w*'
     tier: ""
-    variants: []
+    variants:
+      - "Tarmowo"
 
   skokum:
     display: "Skokum"
@@ -1845,6 +1855,18 @@ places:
     variants: []
     # One of the villages of the 1796 grant (12765, document 4). Matched only
     # in that list: "lazy" is too short to match anywhere else.
+
+  wloclawek:
+    # The seat of the bishops of Kuyavia, whose cathedral chapter held Batkowo
+    # and Siedlemin before the confiscation (Oe 1 Bü 14525, 28). The writer has
+    # "Wraclawek" and "Wracla-/wek" (scans 0121_b, 0122_a1); the transcription
+    # reads "Wrocławek". The editor ruled it Włocławek on 2026-10-03.
+    display: "Włocławek"
+    german: "Leslau"
+    kind: town
+    match: 'Wroc[łl]awek\b|Wraclawek\b'
+    tier: "Book-confirmed"
+    variants: []
 
 reject: ["beden", "bendlin[?]", "bevelen", "bra", "brug", "hahn",
          "so bekomme ich", "thl. 13", "uria", "wun",

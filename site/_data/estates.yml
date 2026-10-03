@@ -216,7 +216,7 @@
   count: 6
   letters: [{id: "39", url: "/documents/oe1bu14525/39/"}, {id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", url: "/documents/oe1bu14525/3/"}, {id: "106", url: "/documents/oe1bu9454/106/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "4", url: "/documents/oe1bu14525/4/"}]
 - slug: "tarmowo"
-  name: "Tarmowo"
+  name: "Tarnowo"
   count: 5
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "22", url: "/documents/oe1bu14525/22/"}]
 - slug: "dormowo"
@@ -300,8 +300,6 @@
   lon: 18.89075
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]
 - slug: "stara-kuznia"
-  name: "Stara Kuźnia (Althammer)"
+  name: "Stara Kuźnia (Klein Althammer)"
   count: 1
-  lat: 50.30065
-  lon: 18.34314
   letters: [{id: "1", url: "/documents/oe1u199/1/"}]

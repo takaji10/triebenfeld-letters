@@ -271,6 +271,17 @@
  ],
  "mentions": [
   {
+   "entity": "kunckel",
+   "display": "Kunkel",
+   "kind": "person",
+   "surface": "Kunkel",
+   "page": 1,
+   "page_id": "0103_b",
+   "scan": "Oe_1_Bu_14526_0103_b-L17_01.jpg",
+   "line": 5531,
+   "doc_line": 3
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -293,6 +304,28 @@
    "doc_line": 10
   },
   {
+   "entity": "kunckel",
+   "display": "Kunkel",
+   "kind": "person",
+   "surface": "Kunkel",
+   "page": 2,
+   "page_id": "0104_a1",
+   "scan": "Oe_1_Bu_14526_0104_a1-L17_02.jpg",
+   "line": 5549,
+   "doc_line": 20
+  },
+  {
+   "entity": "kunckel",
+   "display": "Kunkel",
+   "kind": "person",
+   "surface": "Kunkel",
+   "page": 10,
+   "page_id": "0108_a1",
+   "scan": "Oe_1_Bu_14526_0108_a1-L17_10.jpg",
+   "line": 5726,
+   "doc_line": 189
+  },
+  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
@@ -306,7 +339,7 @@
  ],
  "mentions_english": [
   {
-   "entity": "",
+   "entity": "kunckel",
    "display": "Kunkel",
    "kind": "person",
    "surface_de": "Kunkel",
@@ -410,7 +443,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "kunckel",
    "display": "Kunkel",
    "kind": "person",
    "surface_de": "Kunkel",
@@ -514,7 +547,7 @@
    "page": 10
   },
   {
-   "entity": "",
+   "entity": "kunckel",
    "display": "Kunkel",
    "kind": "person",
    "surface_de": "Kunkel",

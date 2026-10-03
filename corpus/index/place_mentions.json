@@ -35580,6 +35580,129 @@
   ]
  },
  {
+  "entity": "tarmowo",
+  "display": "Tarnowo",
+  "count": 12,
+  "documents": [
+   "oe1bu14525-10",
+   "oe1bu14525-17",
+   "oe1bu14525-22",
+   "oe1bu14525-5",
+   "oe1bu14525-8",
+   "oe1bu14525-9"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-10",
+    "surface": "Tarmowo",
+    "page": 1,
+    "page_id": "0028_a2",
+    "scan": "Oe_1_Bu_14525_0028_a2-L10_01.jpg",
+    "line": 1101,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14525-10",
+    "surface": "Tarmowo",
+    "page": 3,
+    "page_id": "0029_a2",
+    "scan": "Oe_1_Bu_14525_0029_a2-L10_03.jpg",
+    "line": 1154,
+    "doc_line": 68
+   },
+   {
+    "uid": "oe1bu14525-8",
+    "surface": "Tarmowo",
+    "page": 1,
+    "page_id": "0024_a2",
+    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
+    "line": 911,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu14525-8",
+    "surface": "Tarmowo",
+    "page": 3,
+    "page_id": "0025_a2",
+    "scan": "Oe_1_Bu_14525_0025_a2-L8_03.jpg",
+    "line": 970,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu14525-9",
+    "surface": "Tarmowo",
+    "page": 1,
+    "page_id": "0026_a2",
+    "scan": "Oe_1_Bu_14525_0026_a2-L9_01.jpg",
+    "line": 1008,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu14525-9",
+    "surface": "Tarmowo",
+    "page": 3,
+    "page_id": "0027_a2",
+    "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
+    "line": 1071,
+    "doc_line": 84
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Tarmowo",
+    "page": 2,
+    "page_id": "0066_a1",
+    "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
+    "line": 2007,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu14525-17",
+    "surface": "Tarmowo",
+    "page": 7,
+    "page_id": "0068_a2",
+    "scan": "Oe_1_Bu_14525_0068_a2-L17_07.jpg",
+    "line": 2129,
+    "doc_line": 152
+   },
+   {
+    "uid": "oe1bu14525-5",
+    "surface": "Tarnowo",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "Oe_1_Bu_14525_0014_a2-L5_01.jpg",
+    "line": 487,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu14525-5",
+    "surface": "Tarnowo",
+    "page": 3,
+    "page_id": "0015_a2",
+    "scan": "Oe_1_Bu_14525_0015_a2-L5_03.jpg",
+    "line": 542,
+    "doc_line": 72
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Tarmowo",
+    "page": 2,
+    "page_id": "0086_a1",
+    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
+    "line": 2705,
+    "doc_line": 57
+   },
+   {
+    "uid": "oe1bu14525-22",
+    "surface": "Tarmowo",
+    "page": 7,
+    "page_id": "0088_a2",
+    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
+    "line": 2844,
+    "doc_line": 191
+   }
+  ]
+ },
+ {
   "entity": "potsdam",
   "display": "Potsdam",
   "count": 12,
@@ -36151,110 +36274,6 @@
   ]
  },
  {
-  "entity": "tarmowo",
-  "display": "Tarmowo",
-  "count": 10,
-  "documents": [
-   "oe1bu14525-10",
-   "oe1bu14525-17",
-   "oe1bu14525-22",
-   "oe1bu14525-8",
-   "oe1bu14525-9"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-10",
-    "surface": "Tarmowo",
-    "page": 1,
-    "page_id": "0028_a2",
-    "scan": "Oe_1_Bu_14525_0028_a2-L10_01.jpg",
-    "line": 1101,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14525-10",
-    "surface": "Tarmowo",
-    "page": 3,
-    "page_id": "0029_a2",
-    "scan": "Oe_1_Bu_14525_0029_a2-L10_03.jpg",
-    "line": 1154,
-    "doc_line": 68
-   },
-   {
-    "uid": "oe1bu14525-8",
-    "surface": "Tarmowo",
-    "page": 1,
-    "page_id": "0024_a2",
-    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
-    "line": 911,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu14525-8",
-    "surface": "Tarmowo",
-    "page": 3,
-    "page_id": "0025_a2",
-    "scan": "Oe_1_Bu_14525_0025_a2-L8_03.jpg",
-    "line": 970,
-    "doc_line": 76
-   },
-   {
-    "uid": "oe1bu14525-9",
-    "surface": "Tarmowo",
-    "page": 1,
-    "page_id": "0026_a2",
-    "scan": "Oe_1_Bu_14525_0026_a2-L9_01.jpg",
-    "line": 1008,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu14525-9",
-    "surface": "Tarmowo",
-    "page": 3,
-    "page_id": "0027_a2",
-    "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
-    "line": 1071,
-    "doc_line": 84
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Tarmowo",
-    "page": 2,
-    "page_id": "0066_a1",
-    "scan": "Oe_1_Bu_14525_0066_a1-L17_02.jpg",
-    "line": 2007,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu14525-17",
-    "surface": "Tarmowo",
-    "page": 7,
-    "page_id": "0068_a2",
-    "scan": "Oe_1_Bu_14525_0068_a2-L17_07.jpg",
-    "line": 2129,
-    "doc_line": 152
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Tarmowo",
-    "page": 2,
-    "page_id": "0086_a1",
-    "scan": "Oe_1_Bu_14525_0086_a1-L22_02.jpg",
-    "line": 2705,
-    "doc_line": 57
-   },
-   {
-    "uid": "oe1bu14525-22",
-    "surface": "Tarmowo",
-    "page": 7,
-    "page_id": "0088_a2",
-    "scan": "Oe_1_Bu_14525_0088_a2-L22_07.jpg",
-    "line": 2844,
-    "doc_line": 191
-   }
-  ]
- },
- {
   "entity": "zielomysl",
   "display": "Zielomyśl",
   "count": 10,
@@ -36674,6 +36693,101 @@
     "scan": "Oe_1_Bu_9454_0129_a-L66_04.jpg",
     "line": 5193,
     "doc_line": 80
+   }
+  ]
+ },
+ {
+  "entity": "dormowo",
+  "display": "Dormowo",
+  "count": 9,
+  "documents": [
+   "oe1bu14525-13",
+   "oe1bu14525-15",
+   "oe1bu14525-16",
+   "oe1bu14525-25",
+   "oe1bu14526-3"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Dormowo",
+    "page": 7,
+    "page_id": "0040_a1",
+    "scan": "Oe_1_Bu_14525_0040_a1-L13_07.jpg",
+    "line": 1538,
+    "doc_line": 137
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Dormowe",
+    "page": 1,
+    "page_id": "0009_b",
+    "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
+    "line": 362,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Dormowe",
+    "page": 2,
+    "page_id": "0010_a1",
+    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
+    "line": 374,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Dormowe",
+    "page": 4,
+    "page_id": "0011_a1",
+    "scan": "Oe_1_Bu_14526_0011_a1-L3_04.jpg",
+    "line": 422,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Dormowe",
+    "page": 7,
+    "page_id": "0012_a2",
+    "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
+    "line": 505,
+    "doc_line": 156
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Dormowe",
+    "page": 8,
+    "page_id": "0013_a1",
+    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
+    "line": 529,
+    "doc_line": 179
+   },
+   {
+    "uid": "oe1bu14525-15",
+    "surface": "Dormowo",
+    "page": 1,
+    "page_id": "0061_b",
+    "scan": "Oe_1_Bu_14525_0061_b-L15_01.jpg",
+    "line": 1803,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu14525-16",
+    "surface": "Durmowo",
+    "page": 1,
+    "page_id": "0063_a2",
+    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
+    "line": 1895,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14525-25",
+    "surface": "Dormowo",
+    "page": 1,
+    "page_id": "0112_a2",
+    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
+    "line": 3231,
+    "doc_line": 9
    }
   ]
  },
@@ -38700,55 +38814,6 @@
   ]
  },
  {
-  "entity": "dormowo",
-  "display": "Dormowo",
-  "count": 4,
-  "documents": [
-   "oe1bu14525-13",
-   "oe1bu14525-15",
-   "oe1bu14525-16",
-   "oe1bu14525-25"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Dormowo",
-    "page": 7,
-    "page_id": "0040_a1",
-    "scan": "Oe_1_Bu_14525_0040_a1-L13_07.jpg",
-    "line": 1538,
-    "doc_line": 137
-   },
-   {
-    "uid": "oe1bu14525-15",
-    "surface": "Dormowo",
-    "page": 1,
-    "page_id": "0061_b",
-    "scan": "Oe_1_Bu_14525_0061_b-L15_01.jpg",
-    "line": 1803,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu14525-16",
-    "surface": "Durmowo",
-    "page": 1,
-    "page_id": "0063_a2",
-    "scan": "Oe_1_Bu_14525_0063_a2-L16_01.jpg",
-    "line": 1895,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu14525-25",
-    "surface": "Dormowo",
-    "page": 1,
-    "page_id": "0112_a2",
-    "scan": "Oe_1_Bu_14525_0112_a2-L25_01.jpg",
-    "line": 3231,
-    "doc_line": 9
-   }
-  ]
- },
- {
   "entity": "konty",
   "display": "Konty",
   "count": 4,
@@ -39934,6 +39999,63 @@
   ]
  },
  {
+  "entity": "wloclawek",
+  "display": "Włocławek (Leslau)",
+  "count": 2,
+  "documents": [
+   "oe1bu14525-28"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wrocławek",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 3449,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Wrocławek",
+    "page": 2,
+    "page_id": "0122_a1",
+    "scan": "Oe_1_Bu_14525_0122_a1-L28_02.jpg",
+    "line": 3473,
+    "doc_line": 35
+   }
+  ]
+ },
+ {
+  "entity": "stara-kuznia",
+  "display": "Stara Kuźnia (Klein Althammer)",
+  "count": 2,
+  "documents": [
+   "oe1bu9454-189",
+   "oe1u199-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1u199-1",
+    "surface": "Althammer",
+    "page": 9,
+    "page_id": "0007_b",
+    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
+    "line": 180,
+    "doc_line": 170
+   },
+   {
+    "uid": "oe1bu9454-189",
+    "surface": "Klein Althammer",
+    "page": 3,
+    "page_id": "0357_a2",
+    "scan": "Oe_1_Bu_9454_0357_a2-L189_03.jpg",
+    "line": 13473,
+    "doc_line": 40
+   }
+  ]
+ },
+ {
   "entity": "wilhelmsruh",
   "display": "Wilhelmsruh",
   "count": 2,
@@ -40556,25 +40678,6 @@
    {
     "uid": "oe1u199-1",
     "surface": "Byrawa",
-    "page": 9,
-    "page_id": "0007_b",
-    "scan": "Oe_1_U_199_0007_b-L1_09.jpg",
-    "line": 180,
-    "doc_line": 170
-   }
-  ]
- },
- {
-  "entity": "stara-kuznia",
-  "display": "Stara Kuźnia (Althammer)",
-  "count": 1,
-  "documents": [
-   "oe1u199-1"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1u199-1",
-    "surface": "Althammer",
     "page": 9,
     "page_id": "0007_b",
     "scan": "Oe_1_U_199_0007_b-L1_09.jpg",

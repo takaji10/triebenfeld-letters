@@ -1106,6 +1106,25 @@ Betsche below Strehlen, Klein Althammer, Pourtalès / not Portalis (the
 writer's own correction), and the names that need a ruling (Tarmowo or
 Tarnowo, Wrocławek, Schliefen and others).
 
+## The editor's rulings on the names audit (2026-10-03)
+
+Tarnowo, not Tarmowo (the register's `tarmowo` now displays Tarnowo); Ribbeck
+for Rybbeck and Rybbek; Kunkel for Kunckel; Dormowe is Dormowo; and in letter
+155 the doubtful "Hussaczinski[?]" is Hussarzewski, applied to the
+transcription as a recorded ruling (`transcription_decisions.csv`, line
+11069), which takes the letters' doubt marks from 252 to 251. Klein Althammer,
+from which Hahn wrote letter 189, is Stara Kuźnia by Bierawa (the gazetteer
+GOV, LANAWAJO90CG), the works estate of the entail; the register had excluded
+it, and now folds it in. The cathedral chapter "zu Wraclawek" in 14525, 28 is
+Włocławek: a new place in the register, and the English says so. The scan
+shows "Wraclawek" where the transcription reads "Wrocławek"; whether to
+correct the transcription is left to the editor. The English and the German
+summaries follow (a rule in english_forms.yml; 43 places in the translations,
+12 in the English summaries, 25 in the German).
+
+Betsche below Strehlen (letter 119) is left as it is, with the evidence that
+it is not Pszczew, for the editor to rule.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
