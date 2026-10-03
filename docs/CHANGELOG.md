@@ -1276,6 +1276,18 @@ beneath; it now gives the number of manuscript pages alone ("2 manuscript
 pages", "1 manuscript page"; German "Handschriftenseite(n)"). The line numbers
 stay in the transcription view, where a line is cited.
 
+Document headers tidied (editor, 2026-10-03). Every document is now called
+"Document 9 · Draft": the number first, then the kind, where the header had
+put the kind first and changed it from one document to the next ("Letter 8",
+"Draft 9"); relations and enclosures name "Document 8", and the browser tab
+reads the same. The relation notes, which were the evidence for each link
+("'den Empfang Ihres ... Schreibens vom 12 v. M.': the Prince's letter of 12
+May 1815"), stay in each holding's rulings.yml and are no longer shown. The
+[supplied] badge was shown on every date not read from a signature, so also on
+the 57 dated from their own dateline; it now marks only the 25 dates supplied
+by research, and a new [inferred] badge the 9 inferred from neighbouring
+letters, each with its explanation on hover.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

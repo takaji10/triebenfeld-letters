@@ -394,7 +394,8 @@ def main():
         fm.append(f'permalink: {yaml_str(r["permalink"])}')
         # The page names itself for what it is. Calling a purchase deed
         # "Letter 7" was harmless while the edition held only correspondence.
-        fm.append(f'title: {yaml_str(doc_type_label(r["doc_type"]) + " " + lid)}')
+        _kind = doc_type_label(r["doc_type"])
+        fm.append(f'title: {yaml_str("Document " + lid + ("" if _kind == "Document" else " · " + _kind))}')
         fm.append(f'letter_id: {yaml_str(lid)}')
         fm.append(f'unit: {yaml_str(r["unit"])}')
         fm.append(f'uid: {yaml_str(r["uid"])}')

@@ -34,12 +34,11 @@ layout: default
       {%- endcomment -%}
       {%- assign dt = page.doc_type | default: 'document' -%}
       {%- if t[dt] == nil %}{% assign dt = 'document' %}{% endif -%}
-      <span data-i18n="{{ dt }}">{{ t[dt] }}</span> {{ lid }}
+      {%- comment -%} Always "Document 9 · Draft": the number first, the kind after (editor, 2026-10-03). {%- endcomment -%}
+      <span data-i18n="document">{{ t.document }}</span> {{ lid }}{% if dt != 'document' %} &middot; <span data-i18n="{{ dt }}">{{ t[dt] }}</span>{% endif %}
       {%- if page.parent_letter %}
-        {%- assign pdt = page.parent_doc_type | default: 'document' -%}
-        {%- if t[pdt] == nil %}{% assign pdt = 'document' %}{% endif -%}
         <span class="sub"><span data-i18n="part_of_letter">{{ t.part_of_letter }}</span>
-          <span data-i18n="{{ pdt }}">{{ t[pdt] }}</span> {{ page.parent_letter }}</span>
+          <span data-i18n="document">{{ t.document }}</span> {{ page.parent_letter }}</span>
       {%- endif %}
     </p>
     <h1>
@@ -49,7 +48,8 @@ layout: default
         English.
       {%- endcomment -%}
       <span data-en="{{ page.date_label | escape }}" data-de="{{ page.date_label_de | escape }}">{% if lang == 'de' %}{{ page.date_label_de }}{% else %}{{ page.date_label }}{% endif %}</span>
-      {% if page.date_source != 'signature' and page.date_iso %}<span class="badge supplied" data-i18n="badge_supplied" data-title-en="{{ page.date_source_label | escape }}" data-title-de="{{ page.date_source_label_de | escape }}" title="{{ page.date_source_label }}">{{ t.badge_supplied }}</span>{% endif %}
+      {%- comment -%} Only a date the document does not state: supplied by research, or inferred from its neighbours. A date read from a dateline or signature is the document's own. {%- endcomment %}
+      {% if page.date_iso %}{% if page.date_source == 'supplied' or page.date_source == 'inferred' %}{% assign bk = 'badge_' | append: page.date_source %}<span class="badge supplied" data-i18n="{{ bk }}" data-title-en="{{ page.date_source_label | escape }}" data-title-de="{{ page.date_source_label_de | escape }}" title="{{ page.date_source_label }}">{{ t[bk] }}</span>{% endif %}{% endif %}
     </h1>
     {% if page.place %}<p class="place"><span data-en="{{ page.place | escape }}" data-de="{{ page.place_de | default: page.place | escape }}">{% if lang == 'de' and page.place_de %}{{ page.place_de }}{% else %}{{ page.place }}{% endif %}</span></p>{% endif %}
     {%- if page.relations %}
@@ -57,10 +57,8 @@ layout: default
       {%- for rel in page.relations %}
       {%- assign relkey = 'rel_' | append: rel.kind -%}
       <li class="rel"><span data-i18n="{{ relkey }}">{{ t[relkey] | default: rel.kind }}</span>
-        {%- assign tt = rel.target_type | default: 'document' -%}
-        {%- if t[tt] == nil %}{% assign tt = 'document' %}{% endif %}
-        <a href="{{ rel.target_url | relative_url }}"><span data-i18n="{{ tt }}">{{ t[tt] }}</span> {{ rel.target }}</a>
-        {%- if rel.note %}<span class="rel-note" data-en="{{ rel.note | escape }}" data-de="{{ rel.note_de | escape }}">{{ rel.note }}</span>{% endif %}</li>
+        <a href="{{ rel.target_url | relative_url }}"><span data-i18n="document">{{ t.document }}</span> {{ rel.target }}</a>
+        {%- comment -%} rel.note is the evidence for the link, kept in the holding's rulings.yml for the editor; not shown (editor, 2026-10-03). {%- endcomment -%}</li>
       {%- endfor %}
     </ul>
     {%- endif %}
