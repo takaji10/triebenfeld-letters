@@ -1190,6 +1190,12 @@ grouped. The comma is the documents' own separator where they use one. New
 english_forms.py to the English (456 changes in 229 translations, 177 in the
 English summaries). All nine holdings rebuilt; their checks pass.
 
+Relation notes on their own line (editor, 2026-10-03). In a document's
+header, the note explaining a relation ("Answers Letter 6" and why) ran on
+from the link with no space ("Letter 6Stein has passed on ..."). It now sits
+on its own line under the link, in the header's softer colour (style.css,
+.rel-note).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

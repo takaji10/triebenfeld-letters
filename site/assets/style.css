@@ -253,6 +253,9 @@ body.no-scans .pane-pair { grid-template-columns: minmax(0, 1fr); }
   margin: .35rem 0 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-faint);
 }
 .letter-head .correspondents .c-from, .letter-head .correspondents .c-to { color: var(--ink-soft); }
+/* Why a document is related ("Answers Letter 6"): the note goes on a line of
+   its own under the link, so it does not run on from the link text. */
+.letter-head .rel-note { display: block; margin: .15rem 0 .45rem; color: var(--ink-soft); }
 
 /* The one-paragraph summary. It sits inside the letter header, because it
    describes the document rather than forming part of it. Set in the sans face
