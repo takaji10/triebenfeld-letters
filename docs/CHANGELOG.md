@@ -1196,6 +1196,26 @@ from the link with no space ("Letter 6Stein has passed on ..."). It now sits
 on its own line under the link, in the header's softer colour (style.css,
 .rel-note).
 
+The timeline brought up to all nine holdings (editor, 2026-10-03). Fifteen
+events added, from the holdings and letters the timeline did not yet use: the
+sale of Szetlewek (1798), the failed exchange for Krotoszyn and Polajewo
+(1798 to 1800), the Hussite and Mennonite settlers (1804), Triebenfeld's
+wife's burial (1804), the Invalids' Fund loan (1805), the Erbet lease in court
+(1806), the revenue survey (1806), the estates' court still at work in January
+1808, the thirty-one lawsuits and the tribunal's refusal (1811), the remission
+and the proposed eviction (1811), word of the restitution to Michalina
+Prusimska (1811), Humboldt and Hardenberg (1814), the petition of March 1815,
+Charlotte von Triebenfeld's letter (1815) and the widow von Brehmer's
+petition (1816). Existing events gained documents and corrections: the
+title registration now starts in December 1798; the Kamionna and Kolno sale
+cites both contracts; Triebenfeld's first arrest is March 1808, not January
+1809; the Vienna and Prosna events name his arrival and the line's settlement;
+the St Petersburg instruction cites the order of 20 April 1816; the note on
+his death no longer says Trąbczyn was sold after 1818. Names follow the
+register (Kamionna, Zagórów, Pszczew, Oleśnica, Konotop, Sławięcice, Wrocław,
+Poznań, Kalisz), Hohenlohe-Ingelfingen is named as the house style has it, and
+the dashes are gone. 54 events, every document link resolving.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
