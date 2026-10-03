@@ -233,6 +233,17 @@
    "doc_line": 3
   },
   {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kämen",
+   "page": 1,
+   "page_id": "0012_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+   "line": 262,
+   "doc_line": 8
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -242,6 +253,17 @@
    "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
    "line": 262,
    "doc_line": 8
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kämen",
+   "page": 2,
+   "page_id": "0013_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+   "line": 269,
+   "doc_line": 14
   },
   {
    "entity": "frankfurt-an-der-oder",

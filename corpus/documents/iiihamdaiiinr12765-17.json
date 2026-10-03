@@ -141,6 +141,17 @@
    "doc_line": 16
   },
   {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimsky",
+   "page": 1,
+   "page_id": "0022_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
+   "line": 549,
+   "doc_line": 25
+  },
+  {
    "entity": "prusimska",
    "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
    "kind": "person",
@@ -262,8 +273,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Prusimsky",
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
    "surface_de": "Prusimsky",
    "surface_en": "Prusimsky",
@@ -421,7 +432,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimsky, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.",
+   "en": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimski, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.",
    "names": [
     {
      "de": "Berlin",
@@ -532,7 +543,7 @@
    ]
   }
  ],
- "text_english": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimsky, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.\n\nhave.\n\nSince in the meantime some donees in the Kingdom of Poland have been compensated [uncertain: geworden werden ist], the Prince of Hohenlohe now likewise makes claim to such.\n\nIn that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore request [illegible] you at the same time to bring the Prince's request, [uncertain: gefall ist], to the knowledge and decision of His Russian Imperial Majesty, yet only quite in general terms and without pressing the petition urgently, since this matter must be regarded purely as a matter of grace.\n\nBerlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.",
+ "text_english": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimski, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.\n\nhave.\n\nSince in the meantime some donees in the Kingdom of Poland have been compensated [uncertain: geworden werden ist], the Prince of Hohenlohe now likewise makes claim to such.\n\nIn that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore request [illegible] you at the same time to bring the Prince's request, [uncertain: gefall ist], to the knowledge and decision of His Russian Imperial Majesty, yet only quite in general terms and without pressing the petition urgently, since this matter must be regarded purely as a matter of grace.\n\nBerlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.",
  "summary_en": "Draft of an instruction to Schöler: the Prince received the Trąbczyn estates from the late King; they had formerly belonged to the Starost Prusimski and in 1806 and 1807 they passed back to his daughter Miączyńska, whose possession the Emperor of Russia confirmed. Since some other grantees in the Kingdom of Poland have been compensated, the Prince too is making a claim. Schöler is to bring the request to the Emperor's notice, but only in general terms and without supporting it urgently, since it is a matter of grace.",
  "summary_de": "Entwurf einer Weisung an Schöler: Der Fürst erhielt vom verstorbenen König die Trąbczyner Güter, früher Eigentum des Starosten Prusimski; sie gelangten 1806 und 1807 an dessen Tochter Miączyńska zurück, der der Kaiser von Russland den Besitz bestätigte. Da einige Donatare im Königreich Polen entschädigt worden sind, macht auch der Fürst Anspruch. Schöler soll den Antrag zur Kenntnis des Kaisers bringen, jedoch nur im Allgemeinen und ohne ihn dringend zu unterstützen, da es eine Gnadensache sei.",
  "reading": {

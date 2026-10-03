@@ -87,7 +87,8 @@ people:
     display: "Broniewski"
     match: "Broniew|Bronisz"
     tier: ""
-    variants: []
+    variants:
+      - "Broniewsky"
   chmara:
     display: "Johann Chmara"
     match: "Chmara"
@@ -311,7 +312,9 @@ people:
     display: "von der Lahr"
     match: "L[aä]hr"
     tier: "Book-confirmed (as a named debt/matter), person vs. debt-name not fully resolved"
-    variants: []
+    variants:
+      - "von der Laar"
+      - "Van der Laar"
   leixner:
     display: "George Conrad Leixner"
     match: "Leixner"
@@ -412,7 +415,9 @@ people:
     display: "Maciej Niedźwiecki"
     match: 'Nied(?:ź|z)(?:wieck|wiedzk|widzk|iewieck|ewieck)\w*'
     tier: "Text-confirmed"
-    variants: []
+    variants:
+      - "Niedzwiedzki"
+      - "Niedzwidzki"
     identity: "Lessee of Kopojno and holder of the Propination (lease of 17 Aug 1805, 14526 letter 9). Signs Maciey Niedzwiecki; the clerk wrote Niedzwiedzki, the 9454 transcription Niedziewiecki. Standardised to Niedźwiecki on the editor's ruling, 2026-09-28."
   ogrodowicz:
     display: "Ogrodowicz"
@@ -442,6 +447,10 @@ people:
     variants: []
   prusimska:
     display: "Michalina z Prusimskich Dąbska, later Miączyńska"
+    # In a running sentence her surname is the one she bore at the time; for
+    # the forms the writers got wrong (Moscinska, Moszynska, Mięczynsky) that is
+    # her second married name (editor, 2026-10-03).
+    render: "Miączyńska"
     identity: >-
       Only child of Antoni Ostroróg-Prusimski, Starost of Niszczewice. She
       recovered the estates in 1807 through the Komisja Rządząca of the Duchy of
@@ -454,9 +463,29 @@ people:
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])"
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
-    variants: ["Madame Mięczynsky"]
+    variants:
+      - "Madame Mięczynsky"
+      - "Moscinska"
+      - "Moszynska"
+      - "Miaczynska"
     distinct_from: [prusimski]
     merge: false
+  miaczynski:
+    display: "Stanisław Miączyński"
+    render: "Miączyński"
+    # Masculine forms only: her names end in -a, his in -i or -y. "Madame
+    # Mięczynsky" in the French letter of 1815 is she, and stays hers.
+    match: "(?<!Madame )(?:Mi[ąa]czy[nń]sk[iy]|Mi[ęe]czy[nń]sk[iy]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])"
+    tier: "Text-confirmed (as her husband); forename user-provided via the register"
+    identity: >-
+      Stanisław Miączyński, second husband of Michalina Prusimska (married about
+      1814). The letters write him Moscinski and Moszynski (9454, letters 265b
+      and 270) and the French letter of 1815 "M. de Mięczynsky" (12765, document
+      6), the writers' errors for Miączyński. Given his own entry on 2026-10-03,
+      so that these forms are no longer counted to her.
+    distinct_from: [prusimska]
+    merge: false
+    variants: []
   prusimski:
     display: "Antoni Prusimski, Starost of Niszczewice"
     render: "Antoni Prusimski"
@@ -478,7 +507,11 @@ people:
       entry.
     distinct_from: [prusimska]
     merge: false
-    variants: []
+    variants:
+      - "Prussiemski"
+      - "Prussimski"
+      - "Prussimsky"
+      - "Prusimsky"
   przespolewski:
     display: "Przespolewski"
     match: "Przespolewski"
@@ -548,7 +581,8 @@ people:
     display: "Schenck"
     match: 'Schencks?(?![a-zà-ÿ])|Schenk(?![a-zà-ÿ])'   # not Schenckungs-Urkunde (2026-09-30)
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Schenk"
   schlabrendorff:
     display: "Schlabrendorff"
     match: "Schlabrendorff"
@@ -563,7 +597,8 @@ people:
     display: "Schulenburg"
     match: "Schul[ee]mburg|Schulenburg"
     tier: "Externally confirmed (family), individual not fully pinned"
-    variants: []
+    variants:
+      - "Schulemburg"
   simon:
     display: "Simon"
     match: "Simon"
@@ -607,7 +642,10 @@ people:
     display: "Stössel"
     match: "Stössel"
     tier: "Context-inferred"
-    variants: ["Stossel", "Stoessel"]
+    variants:
+      - "Stossel"
+      - "Stoessel"
+      - "Stoesel"
   talleyrand:
     display: "Talleyrand"
     match: "Talleyrand"
@@ -796,7 +834,8 @@ people:
     display: "Albrecht"
     match: 'Al{1,2}brecht\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Allbrecht"
     identity: "Cabinets- und Cammergerichts Rath Albrecht, Berlin (letters 6, 52, 53, 289). Added 2026-09-28 in the names pass."
   prinz-adolph:
     display: "Prinz Adolph"
@@ -814,7 +853,8 @@ people:
     display: "Grand Duke Constantin"
     match: 'Constantin(?![a-zà-ÿ])|Konstantin(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Konstantin"
     identity: "Grand Duke Konstantin Pavlovich of Russia (letters 244, 247, 269). Added 2026-09-28 in the names pass."
   ruechel:
     display: "General Rüchel"
@@ -832,7 +872,8 @@ people:
     display: "Lanskoy"
     match: 'Lands?koy\w*|Landsko\['
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Landskoy"
     identity: "Count Lanskoy, Russian governor in Warsaw, 1815 (letters 242, 266, 279). Added 2026-09-28 in the names pass."
   poniatowski:
     display: "Poniatowski"
@@ -850,7 +891,8 @@ people:
     display: "Tesmar"
     match: 'T[ei]smar\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Tismar"
     identity: "Geheimer Rath von Tesmar (letters 191, 203). Added 2026-09-28 in the names pass."
   thaer:
     display: "Thaer"
@@ -892,7 +934,8 @@ people:
     display: "Schuckmann"
     match: 'Schuckman{1,2}(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Schuckman"
     identity: "President von Schuckmann (letter 108). Added 2026-09-28 in the names pass."
   reinbeck:
     display: "Reinbeck"
@@ -910,13 +953,15 @@ people:
     display: "Merckel"
     match: 'Mer[c]?kel(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Merkel"
     identity: "Rath Merckel, from Königsberg (letters 55, 239). Added 2026-09-28 in the names pass."
   repnin:
     display: "Repnin"
     match: 'Rep{1,2}nin(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Reppnin"
     identity: "Prince Repnin (letters 83, 84). Added 2026-09-28 in the names pass."
   roeder:
     display: "Roeder"
@@ -989,7 +1034,9 @@ people:
     # not the late holder of Lekarzewice, 'eines gewissen von Kielczewski' (I. HA GR, Rep. 7 C, Nr. 3570, 1796)
     match: '(?<!gewissen von )Kie[łl]czewski\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Kielczewski"
+      - "Kiełszewski"
     identity: "Tribunal President (letter 215). Added 2026-09-28 in the names pass."
   hussarzewski:
     display: "Hussarzewski"
@@ -1126,6 +1173,7 @@ people:
     identity: "Oberst von Schlieben held a royal grant from Friedrich Wilhelm II; the prince bought it from his widow and heirs by contract of 22 Oct 1799 (14526 letter 2). The later 9454 mentions are the family as creditors for the rest of the price: 'der Obrist v Schlieben' paid 2000 rt (177, 1805), 'die Schlieben' (208, 210; 1810), to whom Meierowitz owes 7800 rt as the rest of the purchase money. Colonel and widow are not told apart in the text, so one entry. Added 2026-09-30."
   prinz-wilhelm:
     display: "Prinz Wilhelm von Preußen"
+    render: "Prince Wilhelm of Prussia"
     match: '(?<=Prinzen )Wil{1,2}helm|(?<=Prinz )Wil{1,2}helm|(?<=Pr )Wil{1,2}helm|(?<=Par )Wil{1,2}helm'
     tier: "Context-inferred"
     variants: ["Pr Willhelm", "Par Willhelm"]
@@ -1388,7 +1436,8 @@ people:
     display: "Sobolewski"
     match: 'Sobol[eo]wski'
     tier: "Text-confirmed"
-    variants: []
+    variants:
+      - "Sobolowski"
     identity: "Count Sobolewski, Minister Secretary of State of the Kingdom of Poland, whose reply confirmed the refusal of the heirs' claim in 1820 (III. HA MdA, III Nr. 12765). Added 2026-10-01."
   strenger:
     display: "Strenger"

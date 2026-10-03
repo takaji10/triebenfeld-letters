@@ -200,6 +200,17 @@
    "doc_line": 11
   },
   {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kamen",
+   "page": 1,
+   "page_id": "0037_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0037_a2-L26_01.jpg",
+   "line": 916,
+   "doc_line": 15
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -215,7 +226,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.\n\nat Sławięcice, the 24th of this month, enclosed: dispatch note No. 9882. B.\n\nIn having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of the note with which the Imperial Russian ministry has answered the intercession entered by the Royal legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness] for the estates of Kamen and Trąbczyn taken from you, I can only express my regret that, notwithstanding the legation's efforts, it has not been possible to bring about a favourable result.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nH[arden]b[er]g 21/12 B[alan].",
+   "en": "Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.\n\nat Sławięcice, the 24th of this month, enclosed: dispatch note No. 9882. B.\n\nIn having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of the note with which the Imperial Russian ministry has answered the intercession entered by the Royal legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness] for the estates of Kamionna and Trąbczyn taken from you, I can only express my regret that, notwithstanding the legation's efforts, it has not been possible to bring about a favourable result.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nH[arden]b[er]g 21/12 B[alan].",
    "names": [
     {
      "de": "Berlin",
@@ -268,7 +279,7 @@
    ]
   }
  ],
- "text_english": "Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.\n\nat Sławięcice, the 24th of this month, enclosed: dispatch note No. 9882. B.\n\nIn having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of the note with which the Imperial Russian ministry has answered the intercession entered by the Royal legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness] for the estates of Kamen and Trąbczyn taken from you, I can only express my regret that, notwithstanding the legation's efforts, it has not been possible to bring about a favourable result.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nH[arden]b[er]g 21/12 B[alan].",
+ "text_english": "Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.\n\nat Sławięcice, the 24th of this month, enclosed: dispatch note No. 9882. B.\n\nIn having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of the note with which the Imperial Russian ministry has answered the intercession entered by the Royal legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness] for the estates of Kamionna and Trąbczyn taken from you, I can only express my regret that, notwithstanding the legation's efforts, it has not been possible to bring about a favourable result.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nH[arden]b[er]g 21/12 B[alan].",
  "summary_en": "Draft of a letter to the Prince: the ministry sends a Copy of the note with which the Russian ministry answered the intervention of the legation at Petersburg concerning the compensation for Kamionna and Trąbczyn, and regrets that, despite the legation's efforts, it has not been possible to bring about a favourable outcome.",
  "summary_de": "Entwurf eines Schreibens an den Fürsten: Das Ministerium übersendet Abschrift der Note, mit der das russische Ministerium die Verwendung der Gesandtschaft zu Petersburg wegen der Entschädigung für Kamionna und Trąbczyn beantwortet hat, und bedauert, dass es trotz der gesandtschaftlichen Bemühung nicht gelungen ist, einen günstigen Erfolg herbeizuführen.",
  "reading": {

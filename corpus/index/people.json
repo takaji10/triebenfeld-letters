@@ -21709,6 +21709,874 @@
   ]
  },
  {
+  "entity": "lahr",
+  "display": "von der Lahr",
+  "count": 93,
+  "documents": [
+   "oe1bu9454-196",
+   "oe1bu9454-197",
+   "oe1bu9454-20",
+   "oe1bu9454-223",
+   "oe1bu9454-23",
+   "oe1bu9454-35",
+   "oe1bu9454-40",
+   "oe1bu9454-42",
+   "oe1bu9454-43",
+   "oe1bu9454-44",
+   "oe1bu9454-45",
+   "oe1bu9454-48",
+   "oe1bu9454-49",
+   "oe1bu9454-50",
+   "oe1bu9454-54",
+   "oe1bu9454-55",
+   "oe1bu9454-56",
+   "oe1bu9454-57",
+   "oe1bu9454-59",
+   "oe1bu9454-60",
+   "oe1bu9454-61",
+   "oe1bu9454-65"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "von der Laar",
+    "page": 2,
+    "page_id": "0064_a1",
+    "scan": "Oe_1_Bu_9454_0064_a1-L35_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "von der Laar",
+    "page": 2,
+    "page_id": "0064_a1",
+    "scan": "Oe_1_Bu_9454_0064_a1-L35_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "von der Laar",
+    "page": 3,
+    "page_id": "0064_a2",
+    "scan": "Oe_1_Bu_9454_0064_a2-L35_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "von der Laar",
+    "page": 2,
+    "page_id": "0064_a1",
+    "scan": "Oe_1_Bu_9454_0064_a1-L35_02.jpg",
+    "line": 2466,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "Van der Laar",
+    "page": 2,
+    "page_id": "0064_a1",
+    "scan": "Oe_1_Bu_9454_0064_a1-L35_02.jpg",
+    "line": 2469,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-35",
+    "surface": "von der Laar",
+    "page": 3,
+    "page_id": "0064_a2",
+    "scan": "Oe_1_Bu_9454_0064_a2-L35_03.jpg",
+    "line": 2509,
+    "doc_line": 85
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0074_a1",
+    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
+    "line": 2976,
+    "doc_line": 53
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0078_a1",
+    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0078_a2",
+    "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0078_a1",
+    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
+    "line": 3132,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0078_a1",
+    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
+    "line": 3144,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0078_a2",
+    "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
+    "line": 3154,
+    "doc_line": 48
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Lahr",
+    "page": 4,
+    "page_id": "0079_a",
+    "scan": "Oe_1_Bu_9454_0079_a-L42_04.jpg",
+    "line": 3189,
+    "doc_line": 82
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0081_b",
+    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0082_a1",
+    "scan": "Oe_1_Bu_9454_0082_a1-L43_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0081_b",
+    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
+    "line": 3268,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0081_b",
+    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
+    "line": 3281,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0081_b",
+    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
+    "line": 3286,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-43",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0082_a1",
+    "scan": "Oe_1_Bu_9454_0082_a1-L43_02.jpg",
+    "line": 3305,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0083_b",
+    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0083_b",
+    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
+    "line": 3328,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0083_b",
+    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
+    "line": 3330,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0083_b",
+    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
+    "line": 3337,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-44",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0083_b",
+    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
+    "line": 3341,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0085_b",
+    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0086_a2",
+    "scan": "Oe_1_Bu_9454_0086_a2-L45_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0085_b",
+    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
+    "line": 3389,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0085_b",
+    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
+    "line": 3394,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0085_b",
+    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
+    "line": 3398,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0086_a1",
+    "scan": "Oe_1_Bu_9454_0086_a1-L45_02.jpg",
+    "line": 3407,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu9454-45",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0086_a2",
+    "scan": "Oe_1_Bu_9454_0086_a2-L45_03.jpg",
+    "line": 3443,
+    "doc_line": 60
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "von der Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1189,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1195,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1198,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1199,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1202,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0032_b",
+    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
+    "line": 1207,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0033_a1",
+    "scan": "Oe_1_Bu_9454_0033_a1-L20_02.jpg",
+    "line": 1216,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0033_a1",
+    "scan": "Oe_1_Bu_9454_0033_a1-L20_02.jpg",
+    "line": 1218,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-20",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0033_a2",
+    "scan": "Oe_1_Bu_9454_0033_a2-L20_03.jpg",
+    "line": 1250,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-48",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0094_a1",
+    "scan": "Oe_1_Bu_9454_0094_a1-L48_02.jpg",
+    "line": 3687,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu9454-49",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0092_a",
+    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-49",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0092_a",
+    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+    "line": 3721,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-49",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0092_a",
+    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
+    "line": 3739,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0102_b",
+    "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0102_b",
+    "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
+    "line": 3990,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0103_a1",
+    "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
+    "line": 4013,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0103_a1",
+    "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
+    "line": 4017,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0103_a2",
+    "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
+    "line": 4040,
+    "doc_line": 67
+   },
+   {
+    "uid": "oe1bu9454-54",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0103_a2",
+    "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
+    "line": 4052,
+    "doc_line": 79
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "van der Lahr",
+    "page": 2,
+    "page_id": "0096_a1",
+    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0095_b",
+    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
+    "line": 3766,
+    "doc_line": 21
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0095_b",
+    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
+    "line": 3771,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0095_b",
+    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
+    "line": 3774,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0095_b",
+    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
+    "line": 3776,
+    "doc_line": 31
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0096_a1",
+    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
+    "line": 3787,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0096_a1",
+    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
+    "line": 3791,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-50",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0096_a1",
+    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
+    "line": 3805,
+    "doc_line": 59
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0104_b",
+    "scan": "Oe_1_Bu_9454_0104_b-L55_01.jpg",
+    "line": 4072,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0105_a2",
+    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
+    "line": 4146,
+    "doc_line": 78
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0107_a2",
+    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0107_a2",
+    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
+    "line": 4240,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0107_a2",
+    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
+    "line": 4250,
+    "doc_line": 60
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0108_b",
+    "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
+    "line": 4266,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-57",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0108_b",
+    "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
+    "line": 4269,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0112_b",
+    "scan": "Oe_1_Bu_9454_0112_b-L59_01.jpg",
+    "line": 4467,
+    "doc_line": 11
+   },
+   {
+    "uid": "oe1bu9454-59",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0112_b",
+    "scan": "Oe_1_Bu_9454_0112_b-L59_01.jpg",
+    "line": 4469,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-60",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0114_b",
+    "scan": "Oe_1_Bu_9454_0114_b-L60_01.jpg",
+    "line": 4585,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-60",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0115_a1",
+    "scan": "Oe_1_Bu_9454_0115_a1-L60_02.jpg",
+    "line": 4629,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-60",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0115_a2",
+    "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
+    "line": 4633,
+    "doc_line": 53
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0116_b",
+    "scan": "Oe_1_Bu_9454_0116_b-L61_01.jpg",
+    "line": 4691,
+    "doc_line": 11
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0116_b",
+    "scan": "Oe_1_Bu_9454_0116_b-L61_01.jpg",
+    "line": 4699,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-61",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0117_a",
+    "scan": "Oe_1_Bu_9454_0117_a-L61_02.jpg",
+    "line": 4716,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0125_a",
+    "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
+    "line": 5026,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0126_a1",
+    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
+    "line": 5062,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0126_a1",
+    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
+    "line": 5070,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0126_a1",
+    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
+    "line": 5072,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu9454-65",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0126_a2",
+    "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
+    "line": 5076,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0038_a",
+    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
+    "line": 1439,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0038_a",
+    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
+    "line": 1443,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0038_a",
+    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
+    "line": 1445,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-23",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0039_a2",
+    "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
+    "line": 1494,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0372_a2",
+    "scan": "Oe_1_Bu_9454_0372_a2-L196_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0373_a1",
+    "scan": "Oe_1_Bu_9454_0373_a1-L196_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0372_a2",
+    "scan": "Oe_1_Bu_9454_0372_a2-L196_01.jpg",
+    "line": 14127,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-196",
+    "surface": "Lahr",
+    "page": 2,
+    "page_id": "0373_a1",
+    "scan": "Oe_1_Bu_9454_0373_a1-L196_02.jpg",
+    "line": 14142,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0374_b",
+    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0375_a2",
+    "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0374_b",
+    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
+    "line": 14197,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 1,
+    "page_id": "0374_b",
+    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
+    "line": 14198,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-197",
+    "surface": "Lahr",
+    "page": 3,
+    "page_id": "0375_a2",
+    "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
+    "line": 14228,
+    "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-223",
+    "surface": "Lahr",
+    "page": 7,
+    "page_id": "0421_a2",
+    "scan": "Oe_1_Bu_9454_0421_a2-L223_07.jpg",
+    "line": 16298,
+    "doc_line": 202
+   }
+  ]
+ },
+ {
   "entity": "hawich",
   "display": "Hawich",
   "count": 89,
@@ -22541,819 +23409,6 @@
     "scan": "Oe_1_Bu_9454_0030_b-L19_01.jpg",
     "line": 1110,
     "doc_line": 16
-   }
-  ]
- },
- {
-  "entity": "lahr",
-  "display": "von der Lahr",
-  "count": 87,
-  "documents": [
-   "oe1bu9454-196",
-   "oe1bu9454-197",
-   "oe1bu9454-20",
-   "oe1bu9454-223",
-   "oe1bu9454-23",
-   "oe1bu9454-40",
-   "oe1bu9454-42",
-   "oe1bu9454-43",
-   "oe1bu9454-44",
-   "oe1bu9454-45",
-   "oe1bu9454-48",
-   "oe1bu9454-49",
-   "oe1bu9454-50",
-   "oe1bu9454-54",
-   "oe1bu9454-55",
-   "oe1bu9454-56",
-   "oe1bu9454-57",
-   "oe1bu9454-59",
-   "oe1bu9454-60",
-   "oe1bu9454-61",
-   "oe1bu9454-65"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0074_a1",
-    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
-    "line": 2976,
-    "doc_line": 53
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0078_a1",
-    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0078_a2",
-    "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0078_a1",
-    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
-    "line": 3132,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0078_a1",
-    "scan": "Oe_1_Bu_9454_0078_a1-L42_02.jpg",
-    "line": 3144,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0078_a2",
-    "scan": "Oe_1_Bu_9454_0078_a2-L42_03.jpg",
-    "line": 3154,
-    "doc_line": 48
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Lahr",
-    "page": 4,
-    "page_id": "0079_a",
-    "scan": "Oe_1_Bu_9454_0079_a-L42_04.jpg",
-    "line": 3189,
-    "doc_line": 82
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0081_b",
-    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0082_a1",
-    "scan": "Oe_1_Bu_9454_0082_a1-L43_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0081_b",
-    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
-    "line": 3268,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0081_b",
-    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
-    "line": 3281,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0081_b",
-    "scan": "Oe_1_Bu_9454_0081_b-L43_01.jpg",
-    "line": 3286,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-43",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0082_a1",
-    "scan": "Oe_1_Bu_9454_0082_a1-L43_02.jpg",
-    "line": 3305,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0083_b",
-    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0083_b",
-    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
-    "line": 3328,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0083_b",
-    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
-    "line": 3330,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0083_b",
-    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
-    "line": 3337,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu9454-44",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0083_b",
-    "scan": "Oe_1_Bu_9454_0083_b-L44_01.jpg",
-    "line": 3341,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0085_b",
-    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0086_a2",
-    "scan": "Oe_1_Bu_9454_0086_a2-L45_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0085_b",
-    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
-    "line": 3389,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0085_b",
-    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
-    "line": 3394,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0085_b",
-    "scan": "Oe_1_Bu_9454_0085_b-L45_01.jpg",
-    "line": 3398,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0086_a1",
-    "scan": "Oe_1_Bu_9454_0086_a1-L45_02.jpg",
-    "line": 3407,
-    "doc_line": 25
-   },
-   {
-    "uid": "oe1bu9454-45",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0086_a2",
-    "scan": "Oe_1_Bu_9454_0086_a2-L45_03.jpg",
-    "line": 3443,
-    "doc_line": 60
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "von der Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1189,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1195,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1198,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1199,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1202,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0032_b",
-    "scan": "Oe_1_Bu_9454_0032_b-L20_01.jpg",
-    "line": 1207,
-    "doc_line": 25
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0033_a1",
-    "scan": "Oe_1_Bu_9454_0033_a1-L20_02.jpg",
-    "line": 1216,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0033_a1",
-    "scan": "Oe_1_Bu_9454_0033_a1-L20_02.jpg",
-    "line": 1218,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-20",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0033_a2",
-    "scan": "Oe_1_Bu_9454_0033_a2-L20_03.jpg",
-    "line": 1250,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-48",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0094_a1",
-    "scan": "Oe_1_Bu_9454_0094_a1-L48_02.jpg",
-    "line": 3687,
-    "doc_line": 49
-   },
-   {
-    "uid": "oe1bu9454-49",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0092_a",
-    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-49",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0092_a",
-    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
-    "line": 3721,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-49",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0092_a",
-    "scan": "Oe_1_Bu_9454_0092_a-L49_01.jpg",
-    "line": 3739,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0102_b",
-    "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0102_b",
-    "scan": "Oe_1_Bu_9454_0102_b-L54_01.jpg",
-    "line": 3990,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0103_a1",
-    "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
-    "line": 4013,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0103_a1",
-    "scan": "Oe_1_Bu_9454_0103_a1-L54_02.jpg",
-    "line": 4017,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0103_a2",
-    "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
-    "line": 4040,
-    "doc_line": 67
-   },
-   {
-    "uid": "oe1bu9454-54",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0103_a2",
-    "scan": "Oe_1_Bu_9454_0103_a2-L54_03.jpg",
-    "line": 4052,
-    "doc_line": 79
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "van der Lahr",
-    "page": 2,
-    "page_id": "0096_a1",
-    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0095_b",
-    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
-    "line": 3766,
-    "doc_line": 21
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0095_b",
-    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
-    "line": 3771,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0095_b",
-    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
-    "line": 3774,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0095_b",
-    "scan": "Oe_1_Bu_9454_0095_b-L50_01.jpg",
-    "line": 3776,
-    "doc_line": 31
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0096_a1",
-    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
-    "line": 3787,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0096_a1",
-    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
-    "line": 3791,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-50",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0096_a1",
-    "scan": "Oe_1_Bu_9454_0096_a1-L50_02.jpg",
-    "line": 3805,
-    "doc_line": 59
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0104_b",
-    "scan": "Oe_1_Bu_9454_0104_b-L55_01.jpg",
-    "line": 4072,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0105_a2",
-    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
-    "line": 4146,
-    "doc_line": 78
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0107_a2",
-    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0107_a2",
-    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
-    "line": 4240,
-    "doc_line": 50
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0107_a2",
-    "scan": "Oe_1_Bu_9454_0107_a2-L56_03.jpg",
-    "line": 4250,
-    "doc_line": 60
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0108_b",
-    "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
-    "line": 4266,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-57",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0108_b",
-    "scan": "Oe_1_Bu_9454_0108_b-L57_01.jpg",
-    "line": 4269,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0112_b",
-    "scan": "Oe_1_Bu_9454_0112_b-L59_01.jpg",
-    "line": 4467,
-    "doc_line": 11
-   },
-   {
-    "uid": "oe1bu9454-59",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0112_b",
-    "scan": "Oe_1_Bu_9454_0112_b-L59_01.jpg",
-    "line": 4469,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-60",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0114_b",
-    "scan": "Oe_1_Bu_9454_0114_b-L60_01.jpg",
-    "line": 4585,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-60",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0115_a1",
-    "scan": "Oe_1_Bu_9454_0115_a1-L60_02.jpg",
-    "line": 4629,
-    "doc_line": 50
-   },
-   {
-    "uid": "oe1bu9454-60",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0115_a2",
-    "scan": "Oe_1_Bu_9454_0115_a2-L60_03.jpg",
-    "line": 4633,
-    "doc_line": 53
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0116_b",
-    "scan": "Oe_1_Bu_9454_0116_b-L61_01.jpg",
-    "line": 4691,
-    "doc_line": 11
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0116_b",
-    "scan": "Oe_1_Bu_9454_0116_b-L61_01.jpg",
-    "line": 4699,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-61",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0117_a",
-    "scan": "Oe_1_Bu_9454_0117_a-L61_02.jpg",
-    "line": 4716,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0125_a",
-    "scan": "Oe_1_Bu_9454_0125_a-L65_01.jpg",
-    "line": 5026,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0126_a1",
-    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
-    "line": 5062,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0126_a1",
-    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
-    "line": 5070,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0126_a1",
-    "scan": "Oe_1_Bu_9454_0126_a1-L65_02.jpg",
-    "line": 5072,
-    "doc_line": 49
-   },
-   {
-    "uid": "oe1bu9454-65",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0126_a2",
-    "scan": "Oe_1_Bu_9454_0126_a2-L65_03.jpg",
-    "line": 5076,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0038_a",
-    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
-    "line": 1439,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0038_a",
-    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
-    "line": 1443,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0038_a",
-    "scan": "Oe_1_Bu_9454_0038_a-L23_01.jpg",
-    "line": 1445,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-23",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0039_a2",
-    "scan": "Oe_1_Bu_9454_0039_a2-L23_03.jpg",
-    "line": 1494,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0372_a2",
-    "scan": "Oe_1_Bu_9454_0372_a2-L196_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0373_a1",
-    "scan": "Oe_1_Bu_9454_0373_a1-L196_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0372_a2",
-    "scan": "Oe_1_Bu_9454_0372_a2-L196_01.jpg",
-    "line": 14127,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-196",
-    "surface": "Lahr",
-    "page": 2,
-    "page_id": "0373_a1",
-    "scan": "Oe_1_Bu_9454_0373_a1-L196_02.jpg",
-    "line": 14142,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0374_b",
-    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0375_a2",
-    "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0374_b",
-    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
-    "line": 14197,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 1,
-    "page_id": "0374_b",
-    "scan": "Oe_1_Bu_9454_0374_b-L197_01.jpg",
-    "line": 14198,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-197",
-    "surface": "Lahr",
-    "page": 3,
-    "page_id": "0375_a2",
-    "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
-    "line": 14228,
-    "doc_line": 34
-   },
-   {
-    "uid": "oe1bu9454-223",
-    "surface": "Lahr",
-    "page": 7,
-    "page_id": "0421_a2",
-    "scan": "Oe_1_Bu_9454_0421_a2-L223_07.jpg",
-    "line": 16298,
-    "doc_line": 202
    }
   ]
  },
@@ -26431,7 +26486,7 @@
  {
   "entity": "stoessel",
   "display": "Stössel",
-  "count": 76,
+  "count": 78,
   "documents": [
    "oe1bu9454-117",
    "oe1bu9454-15",
@@ -26448,6 +26503,7 @@
    "oe1bu9454-224",
    "oe1bu9454-226",
    "oe1bu9454-227",
+   "oe1bu9454-235",
    "oe1bu9454-264",
    "oe1bu9454-303",
    "oe1bu9454-64",
@@ -27076,6 +27132,24 @@
     "doc_line": 68
    },
    {
+    "uid": "oe1bu9454-235",
+    "surface": "Stoesel",
+    "page": 1,
+    "page_id": "0442_b",
+    "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-235",
+    "surface": "Stoesel",
+    "page": 1,
+    "page_id": "0442_b",
+    "scan": "Oe_1_Bu_9454_0442_b-L235_01.jpg",
+    "line": 17193,
+    "doc_line": 18
+   },
+   {
     "uid": "oe1bu9454-264",
     "surface": "Stössel",
     "page": 1,
@@ -27143,10 +27217,11 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 71,
+  "count": 74,
   "documents": [
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12765-14",
+   "iiihamdaiiinr12765-17",
    "iiihamdaiiinr12765-4",
    "iiihamdaiiinr12765-6",
    "oe1bu14525-10",
@@ -27781,6 +27856,15 @@
     "doc_line": 3
    },
    {
+    "uid": "iiihamdaiiinr12765-6",
+    "surface": "Prussimsky",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0008_a1-L6_02.jpg",
+    "line": 155,
+    "doc_line": 8
+   },
+   {
     "uid": "iiihamdaiiinr12765-14",
     "surface": "Prusimski",
     "page": 1,
@@ -27815,6 +27899,24 @@
     "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
     "line": 21155,
     "doc_line": 110
+   },
+   {
+    "uid": "iiihamdaiiinr12765-17",
+    "surface": "Prusimsky",
+    "page": 1,
+    "page_id": "0022_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12765-17",
+    "surface": "Prusimsky",
+    "page": 1,
+    "page_id": "0022_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
+    "line": 549,
+    "doc_line": 25
    }
   ]
  },
@@ -58600,6 +58702,63 @@
   ]
  },
  {
+  "entity": "miaczynski",
+  "display": "Stanisław Miączyński",
+  "count": 5,
+  "documents": [
+   "iiihamdaiiinr12765-6",
+   "oe1bu9454-265b",
+   "oe1bu9454-270"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-265b",
+    "surface": "Moscinski",
+    "page": 1,
+    "page_id": "0484_a2",
+    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-265b",
+    "surface": "Moscinski",
+    "page": 1,
+    "page_id": "0484_a2",
+    "scan": "Oe_1_Bu_9454_0484_a2-L265b_01.jpg",
+    "line": 18889,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Moscinski",
+    "page": 1,
+    "page_id": "0491_b",
+    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Moscinski",
+    "page": 1,
+    "page_id": "0491_b",
+    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+    "line": 19186,
+    "doc_line": 12
+   },
+   {
+    "uid": "iiihamdaiiinr12765-6",
+    "surface": "Mięczynsky",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L6_01.jpg",
+    "line": 149,
+    "doc_line": 3
+   }
+  ]
+ },
+ {
   "entity": "amstetten",
   "display": "Amstetten",
   "count": 5,
@@ -59237,6 +59396,43 @@
     "scan": "Oe_1_Bu_9454_0379_a-L200_01.jpg",
     "line": 14381,
     "doc_line": 14
+   }
+  ]
+ },
+ {
+  "entity": "kielczewski",
+  "display": "Kiełczewski",
+  "count": 3,
+  "documents": [
+   "oe1bu9454-215"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Kiełszewski",
+    "page": 2,
+    "page_id": "0402_a1",
+    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Kiełszewski",
+    "page": 2,
+    "page_id": "0402_a1",
+    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
+    "line": 15356,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Kiełczewski",
+    "page": 5,
+    "page_id": "0403_a2",
+    "scan": "Oe_1_Bu_9454_0403_a2-L215_05.jpg",
+    "line": 15477,
+    "doc_line": 176
    }
   ]
  },
@@ -60377,25 +60573,6 @@
     "scan": "Oe_1_Bu_9454_0396_a1-L212_02.jpg",
     "line": 15019,
     "doc_line": 42
-   }
-  ]
- },
- {
-  "entity": "kielczewski",
-  "display": "Kiełczewski",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-215"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Kiełczewski",
-    "page": 5,
-    "page_id": "0403_a2",
-    "scan": "Oe_1_Bu_9454_0403_a2-L215_05.jpg",
-    "line": 15477,
-    "doc_line": 176
    }
   ]
  },

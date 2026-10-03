@@ -27,3 +27,7 @@ corrections:
 - {pad: oe1bu14525-043, page: 1, find: "before our government here", replace: "before our Government here", why: "nicht bey Unserer hiesigen [Regierung], sondern bey unserer Regierung zu Thorn: two Governments, both institutions"}
 - {pad: oe1bu14525-044, page: 1, find: "at Our government here", replace: "at Our Government here", why: "the same contrast as in 43, with the Government at Thorn"}
 - {pad: oe1u199-001, page: 1, find: "Our successors in the government", replace: "Our successors on the throne", why: "Unsere Nachfolger in der Regierung: the King's successors in his reign, not in an office"}
+
+# Names (2026-10-03).
+- {pad: oe1bu9454-191, page: 7, find: "The peasants of Stoki", replace: "The peasants of Skokum", why: "die Skokumer Bauren: Skokum, not Stoki, a different village"}
+- {pad: iiihamdaiiinr12765-006, page: 1, find: "in favour of Michalina z Prusimskich Dąbska, later Miączyńska", replace: "in favour of Madame Miączyńska", why: "en faveur de Madame Mięczynsky: the catalogue entry for her had been printed in the sentence"}

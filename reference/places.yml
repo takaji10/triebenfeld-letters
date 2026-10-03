@@ -69,7 +69,8 @@ places:
     kind: village
     match: 'Wr[ąa]bcz[yi]n(?!ek)\w*'
     tier: "Book-confirmed"
-    variants: []
+    variants:
+      - "Wrąbczin"
     distinct_from: [trabczyn, wrabczynek]
     open_questions:
       - "A DIFFERENT village from Trąbczyn, and nearby, so the two appearing in
@@ -155,6 +156,7 @@ places:
       - "Szettleich"
       - "Stetteweck"
       - {form: "Szeklejówek", match: false}
+      - "Szettlewek"
     open_questions:
       - "The register records Szeklejówek as a tentative identification with
          Szetlewek. Not settled, so not matched."
@@ -256,7 +258,10 @@ places:
     # Not `Ka[e]?h?men`, which also takes the bare word Kamen.
     # Kaemen inside `Kamionna [Kaemen]` (the edition's form since 2026-09-28)
     # is the same mention, not a second one.
-    match: 'Kamionn\w*|Kamiono\b|(?<!\[)(?:Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b)'
+    # Kamen and Kämen are also the verb (kamen, kämen: "came"), so they are
+    # taken only where they name the estate: "Güter Kamen", "und Kamen", "Was
+    # Kämen betrift", "Kamener Sache" (12765, 14526, 9454; editor, 2026-10-03).
+    match: 'Kamionn\w*|Kamiono\b|(?<!\[)(?:Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b)|(?<=Güter )K[aä]men\b|(?<=und )Kamen\b|(?<=Was )Kämen\b|Kamener\b'
     tier: "Book-confirmed"
     variants:
       - "Kamionno"
@@ -269,6 +274,8 @@ places:
       - "Kaehmen"
       - {form: "Klemen", seen_in: ["oe1bu14525-3", "oe1bu14525-4"]}
       - {form: "Kamień", match: false}
+      - "Kähmen"
+      - "Kamienne"
 
   kolno:
     display: "Kolno"
@@ -279,7 +286,8 @@ places:
     # entry, editor 2026-09-28.
     match: 'Kolno\b|Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
     tier: "Book-confirmed"
-    variants: []
+    variants:
+      - "Kollno"
 
   michalinow-olesnicki:
     display: "Michalinów Oleśnicki"
@@ -531,6 +539,7 @@ places:
     variants:
       - {form: "Kalisch"}
       - {form: "Katisch"}
+      - "Kálitz"
     open_questions:
       - "review/name_catalogue.csv lists Kaleschke as a variant of Kalisch. It is
          not: Kaleschke is the Actuarius of the von Stillfried court, see
@@ -809,14 +818,19 @@ places:
     kind: village
     match: 'Gr[ąa]dz[iy][nń]\w*'
     tier: ""
-    variants: []
+    variants:
+      - "Grądzin"
+      - "Grąndzyń"
 
   brzyce:
     display: "Brzyce"
     kind: village
     match: 'Brzyc\w*'
     tier: ""
-    variants: ["Brzyze"]
+    variants:
+      - "Brzyze"
+      - "Brzyzer"
+      - "Brzyzna"
 
   osiny:
     display: "Osiny"
@@ -840,7 +854,9 @@ places:
     kind: village
     match: 'B[aoą]tkow\w*'
     tier: ""
-    variants: []
+    variants:
+      - "Botkow"
+      - "Botkowo"
     open_questions:
       - "Batkowo and Botkowo stand in the same slot of the same list of Wienietz
          appurtenances, so they are one place. Document 24, a badly damaged
@@ -872,7 +888,8 @@ places:
     kind: village
     match: 'Karcz[iy]n\w*'
     tier: ""
-    variants: []
+    variants:
+      - "Karczin"
 
   wolica:
     display: "Wolica"
@@ -909,7 +926,10 @@ places:
     kind: estate
     match: 'Kroto(?:sz|sch|s)[iy]n\w*|Krot\[oschin\]'
     tier: "Established"
-    variants: ["Krot[oszyn]", "Krot[oszyner]"]
+    variants:
+      - "Krot[oszyn]"
+      - "Krot[oszyner]"
+      - "Krotoszin"
 
   st-petersburg:
     display: "St Petersburg"
@@ -965,7 +985,10 @@ places:
     kind: estate
     match: 'Cie(?:sch|sz)ow\w*|Cz[iy]s(?:ch)?ow\w*'   # Czyschowa, Czischowa, Czysowa (Oe 1 U 199)
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Czischowa"
+      - "Czyschowa"
+      - "Czysowa"
     # Part of the Koschentin sale (9454 letter 264).
 
   polajewo:
@@ -982,7 +1005,8 @@ places:
     kind: estate
     match: 'Schweinern\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Schweinerne"
     # Triebenfeld's own estate, in the Breslau Oberlandesgericht district (9454 letters 74a, 170, 202).
 
   oppurg:
@@ -1053,7 +1077,8 @@ places:
     kind: town
     match: 'Wierusz[oó]w\w*'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Wieruszew"
     # Near Amt Sokolnik (9454 letters 6, 288).
 
   augustinow:
@@ -1086,7 +1111,8 @@ places:
     kind: village
     match: 'Gostyszyn'
     tier: "Context-inferred"
-    variants: []
+    variants:
+      - "Gosztiszyn"
     # A mile from Kalisz on the Kempen road (9454 letter 298).
 
   miedzibor:
@@ -1197,21 +1223,24 @@ places:
     kind: city
     match: '[CK]assel(?![a-zà-ÿ])'
     tier: "Established"
-    variants: []
+    variants:
+      - "Cassel"
 
   karlsruhe:
     display: "Karlsruhe"
     kind: city
     match: '[CK]arlsruhe'
     tier: "Established"
-    variants: []
+    variants:
+      - "Carlsruhe"
 
   pressburg:
     display: "Pressburg (Bratislava)"
     kind: city
     match: 'Pre(?:ss|ß|s)burg'
     tier: "Established"
-    variants: []
+    variants:
+      - "Presburg"
 
   havelberg:
     display: "Havelberg"
@@ -1445,7 +1474,8 @@ places:
     kind: town
     match: 'Neu[fc]?chatel'
     tier: "Established"
-    variants: []
+    variants:
+      - "Neufchatel"
 
   coblenz:
     display: "Koblenz"
@@ -1501,7 +1531,8 @@ places:
     kind: city
     match: 'Heidelb[eu]rg'
     tier: "Established"
-    variants: []
+    variants:
+      - "Heidelburg"
 
   bayreuth:
     display: "Bayreuth"
@@ -1543,7 +1574,8 @@ places:
     kind: city
     match: 'Gratz(?![a-zà-ÿ])'
     tier: "Established"
-    variants: []
+    variants:
+      - "Gratz"
 
   bologna:
     display: "Bologna"
@@ -1557,7 +1589,8 @@ places:
     kind: town
     match: 'Charlottenb(?:o)?urg'
     tier: "Established"
-    variants: []
+    variants:
+      - "Charlottenbourg"
 
   czestochowa:
     display: "Częstochowa"
@@ -1625,7 +1658,8 @@ places:
     kind: town
     match: 'Neustadt?(?![a-zà-ÿ])'
     tier: "Established"
-    variants: []
+    variants:
+      - "Neustad"
 
   leobschuetz:
     display: "Głubczyce"
@@ -1655,7 +1689,8 @@ places:
     kind: town
     match: 'Mys[łl]owic\w*'
     tier: "Established"
-    variants: []
+    variants:
+      - "Mysłowic"
 
   ostrow:
     display: "Ostrów"
@@ -1692,7 +1727,8 @@ places:
     kind: estate
     match: 'Ru(?:sch|z)[iy]nowi(?:tz|ce)\w*|Ruszyno'
     tier: "Established"
-    variants: []
+    variants:
+      - "Ruszynowig"
 
   konstadt:
     display: "Wołczyn"
@@ -1707,14 +1743,16 @@ places:
     kind: village
     match: 'Przyb[iy]s[lł]aw\w*'
     tier: "Established"
-    variants: []
+    variants:
+      - "Przybisław"
 
   gola:
     display: "Goła Wieś"
     kind: village
     match: 'Go[łl]a wies|Gollawia'
     tier: "Established"
-    variants: []
+    variants:
+      - "Gollawia"
 
   wilhelmsruh:
     display: "Wilhelmsruh"
@@ -1751,7 +1789,8 @@ places:
     kind: town
     match: 'Weissenfel[ds]'
     tier: "Established"
-    variants: []
+    variants:
+      - "Weissenfeld"
 
   fuerth:
     display: "Fürth"
@@ -1791,7 +1830,10 @@ places:
     kind: village
     match: 'Nowawies'
     tier: "Text-confirmed"
-    variants: []
+    variants:
+      - "Nowa wies"
+      - "Nova wies"
+      - "Nowa wieś"
     # One of the villages of the 1796 grant, as Triebenfeld lists them
     # (12765, document 4).
 

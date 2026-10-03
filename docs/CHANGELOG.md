@@ -1068,6 +1068,44 @@ Kriegsrath now says that, of Triebenfeld, it shortens the full title. The
 published English already used "Councillor of War and Forests" (68 times) and
 never the shortened form for him, so no translation changes.
 
+## Names standardised in the English and tagged (2026-10-03)
+
+The editor asked that Prussiemski be standardised to Prusimski and tagged as
+Antoni Prusimski, noted that Kähmen had slipped through for Kamionna, and asked
+for all names and places in the English to be checked. A names audit compared
+every name the translator recorded, German beside English, with the settled
+form in `reference/people.yml` and `places.yml`. The transcriptions are not
+touched: what the writers wrote stays.
+
+- Registers: the spellings found are now recorded variants, so the termbase
+  tells the translator the settled form and the build tags them. Antoni
+  Prusimski takes Prussiemski, Prussimski, Prussimsky and Prusimsky (30
+  documents, from 29). Kamionna takes Kähmen and Kamienne, and Kamen, Kämen
+  and Kamener only where they name the estate (they are also the verb).
+  Kolno takes Kollno. Michalina Prusimska gets a running-text form,
+  Miączyńska, so the translator no longer prints her catalogue entry inside
+  a sentence; her second husband, Stanisław Miączyński, gets his own entry
+  (Moscinski, Mięczynsky), with a People-page biography. Prince Wilhelm of
+  Prussia gets his English form. Some forty other spellings of people and
+  places join their entries.
+- English: rules in `reference/english_forms.yml` bring the published
+  English into line (86 translation files, 31 English summaries): Prusimski;
+  Miączyńska and Miączyński for Moscinska, Moscinski, Mięczynsky; Kamionna
+  for Kähmen, Kamen, Kamienne, and "Kamionna or Kamionna" made one; Kolno for
+  Kulm (31) and Kollno (20); Prince Wilhelm of Prussia for "Prinz Wilhelm
+  von Preußen"; and the other spellings by table (a new `names` lookup in
+  english_forms.py). Two one-page corrections: "the peasants of Stoki" is
+  Skokum (letter 191, die Skokumer Bauren), and the French letter of 1815
+  says "in favour of Madame Miączyńska", where the English had printed her
+  catalogue entry.
+- German summaries: the same forms in `site/_data/summaries_de.yml` and the
+  units' checked German summaries (42 places).
+
+Left standing, and listed in NEEDS_CONFIRMATION: the Grand Duchy of Posen,
+Betsche below Strehlen, Klein Althammer, Pourtalès / not Portalis (the
+writer's own correction), and the names that need a ruling (Tarmowo or
+Tarnowo, Wrocławek, Schliefen and others).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

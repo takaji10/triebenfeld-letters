@@ -136,6 +136,17 @@
    "doc_line": 2
   },
   {
+   "entity": "miaczynski",
+   "display": "Stanisław Miączyński",
+   "kind": "person",
+   "surface": "Mięczynsky",
+   "page": 1,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L6_01.jpg",
+   "line": 149,
+   "doc_line": 3
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -156,6 +167,17 @@
    "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L6_01.jpg",
    "line": 150,
    "doc_line": 4
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prussimsky",
+   "page": 2,
+   "page_id": "0008_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a1-L6_02.jpg",
+   "line": 155,
+   "doc_line": 8
   },
   {
    "entity": "hohenlohe",
@@ -423,7 +445,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prussiemski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prussimski, now married to M. de Mięczynsky.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Michalina z Prusimskich Dąbska, later Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.",
+   "en": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prusimski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prusimski, now married to M. de Miączyński.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Madame Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.",
    "names": [
     {
      "de": "Monsieur le Baron",
@@ -503,7 +525,7 @@
   },
   {
    "page": 2,
-   "en": "through his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prussimsky having, before his flight, mortgaged these lands for a sum of 80,000 écus and 36000 ducats, I was obliged, after a suit of 8 years and 6000 écus of costs, to pay a sum of 55000 écus to free them. The interest on these two sums, together 61,000 écus, from 1807 to 1815, amounts to the sum of 24400 écus, so that the sum of my claims in ready money rises to 85400 écus.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316000 écus, upon which I had contracted 76000 écus of debts, which being deducted there remains to be added 240,000 écus",
+   "en": "through his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prusimski having, before his flight, mortgaged these lands for a sum of 80,000 écus and 36000 ducats, I was obliged, after a suit of 8 years and 6000 écus of costs, to pay a sum of 55000 écus to free them. The interest on these two sums, together 61,000 écus, from 1807 to 1815, amounts to the sum of 24400 écus, so that the sum of my claims in ready money rises to 85400 écus.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316000 écus, upon which I had contracted 76000 écus of debts, which being deducted there remains to be added 240,000 écus",
    "names": [
     {
      "de": "Monsieur de Prussimsky",
@@ -569,7 +591,7 @@
    ]
   }
  ],
- "text_english": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prussiemski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prussimski, now married to M. de Mięczynsky.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Michalina z Prusimskich Dąbska, later Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.\n\nthrough his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prussimsky having, before his flight, mortgaged these lands for a sum of 80,000 écus and 36000 ducats, I was obliged, after a suit of 8 years and 6000 écus of costs, to pay a sum of 55000 écus to free them. The interest on these two sums, together 61,000 écus, from 1807 to 1815, amounts to the sum of 24400 écus, so that the sum of my claims in ready money rises to 85400 écus.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316000 écus, upon which I had contracted 76000 écus of debts, which being deducted there remains to be added 240,000 écus\n\nwhich would bring my loss to the sum of 325400 écus.\n\nThe interest which Your Excellency has always deigned to take in my affairs, and the friendship she has always shown me, are a sure warrant to me that it suffices to give her knowledge of this matter to be assured of its outcome, founded as it is upon the justice of His Majesty the Emperor and supported by the most exact equity.\n\nAccept, Monsieur le Baron, the assurances of the highest consideration with which I have the honour to be\n\nMonsieur le Baron\n\nYour Excellency's\n\nSławięcice, the 12th of April\n\n1815.\n\nYour most humble and most obedient servant,\n\nFriedrich Ludwig of Hohenlohe, Prince.",
+ "text_english": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prusimski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prusimski, now married to M. de Miączyński.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Madame Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.\n\nthrough his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prusimski having, before his flight, mortgaged these lands for a sum of 80,000 écus and 36000 ducats, I was obliged, after a suit of 8 years and 6000 écus of costs, to pay a sum of 55000 écus to free them. The interest on these two sums, together 61,000 écus, from 1807 to 1815, amounts to the sum of 24400 écus, so that the sum of my claims in ready money rises to 85400 écus.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316000 écus, upon which I had contracted 76000 écus of debts, which being deducted there remains to be added 240,000 écus\n\nwhich would bring my loss to the sum of 325400 écus.\n\nThe interest which Your Excellency has always deigned to take in my affairs, and the friendship she has always shown me, are a sure warrant to me that it suffices to give her knowledge of this matter to be assured of its outcome, founded as it is upon the justice of His Majesty the Emperor and supported by the most exact equity.\n\nAccept, Monsieur le Baron, the assurances of the highest consideration with which I have the honour to be\n\nMonsieur le Baron\n\nYour Excellency's\n\nSławięcice, the 12th of April\n\n1815.\n\nYour most humble and most obedient servant,\n\nFriedrich Ludwig of Hohenlohe, Prince.",
  "summary_en": "The Prince asks Stein in French to obtain from the Emperor compensation for Kamionna and Trąbczyn, which were granted to him in 1796 and taken from him in 1807 by the Polish treasury and awarded to Prusimski's daughter. He says that to free the mortgaged estates he had to pay 55000 écus; his claim in cash amounts to 85400 écus and his total loss to 325400 écus. The chancery notes that the reply should be that the settlement of Polish affairs must be awaited.",
  "summary_de": "Der Fürst bittet Stein auf Französisch, beim Kaiser eine Entschädigung für Kamionna und Trąbczyn zu erwirken, die ihm 1796 verliehen und 1807 vom polnischen Fiskus genommen und Prusimskis Tochter zugesprochen wurden. Um die verpfändeten Güter zu befreien, habe er 55000 écus zahlen müssen; seine Forderung in barem Geld betrage 85400 écus, sein Verlust insgesamt 325400 écus. Die Kanzlei vermerkt, es sei zu antworten, dass die Regelung der polnischen Angelegenheiten abzuwarten sei.",
  "reading": {

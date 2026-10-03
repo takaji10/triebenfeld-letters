@@ -51,6 +51,8 @@ def apply(text, counts=None):
             new, n = r['_rx'].subn(lambda m: m.group(0).replace(w, w[0].upper() + w[1:]), text)
         elif 'months' in r:
             new, n = r['_rx'].subn(lambda m: r['months'][m.group(1)], text)
+        elif 'names' in r:
+            new, n = r['_rx'].subn(lambda m: r['names'][m.group(1)], text)
         elif 'word' in r:
             new, n = r['_rx'].subn(_word_sub(r['word'], text), text)
         else:

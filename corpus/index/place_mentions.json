@@ -13944,15 +13944,18 @@
  {
   "entity": "kamionno",
   "display": "Kamionna (Kaemen)",
-  "count": 142,
+  "count": 150,
   "documents": [
    "ihagrrep7cnr3570-1",
+   "iiihamdaiiinr12765-10",
    "iiihamdaiiinr12765-13",
    "iiihamdaiiinr12765-14",
    "iiihamdaiiinr12765-2",
+   "iiihamdaiiinr12765-26",
    "iiihamdaiiinr12765-29",
    "iiihamdaiiinr12765-3",
    "iiihamdaiiinr12765-4",
+   "iiihamdaiiinr12765-5",
    "iiihamdaiiinr12765-6",
    "iiihamdaiiinr12765-7",
    "iiihamdaiiinr12765-9",
@@ -13968,6 +13971,7 @@
    "oe1bu14526-23",
    "oe1bu14526-4",
    "oe1bu14526-5",
+   "oe1bu9454-1",
    "oe1bu9454-102",
    "oe1bu9454-103",
    "oe1bu9454-119",
@@ -14805,6 +14809,15 @@
    },
    {
     "uid": "oe1bu14526-23",
+    "surface": "Kamienne",
+    "page": 18,
+    "page_id": "0148_a1",
+    "scan": "Oe_1_Bu_14526_0148_a1-L23_18.jpg",
+    "line": 7387,
+    "doc_line": 409
+   },
+   {
+    "uid": "oe1bu14526-23",
     "surface": "Kaemen",
     "page": 20,
     "page_id": "0149_a1",
@@ -14820,6 +14833,15 @@
     "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
     "line": 7538,
     "doc_line": 555
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kamen",
+    "page": 25,
+    "page_id": "0151_a2",
+    "scan": "Oe_1_Bu_14526_0151_a2-L23_25.jpg",
+    "line": 7591,
+    "doc_line": 606
    },
    {
     "uid": "oe1bu14526-23",
@@ -15020,6 +15042,15 @@
     "doc_line": 4
    },
    {
+    "uid": "oe1bu9454-1",
+    "surface": "Kamener",
+    "page": 1,
+    "page_id": "0001_b",
+    "scan": "Oe_1_Bu_9454_0001_b-L1_01.jpg",
+    "line": 71,
+    "doc_line": 37
+   },
+   {
     "uid": "oe1bu9454-275",
     "surface": "Kaemen",
     "page": 1,
@@ -15054,6 +15085,24 @@
     "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
     "line": 95,
     "doc_line": 33
+   },
+   {
+    "uid": "iiihamdaiiinr12765-5",
+    "surface": "Kähmen",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+    "line": 130,
+    "doc_line": 18
+   },
+   {
+    "uid": "iiihamdaiiinr12765-5",
+    "surface": "Kähmen",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+    "line": 136,
+    "doc_line": 24
    },
    {
     "uid": "oe1bu9454-284",
@@ -15191,6 +15240,24 @@
     "doc_line": 12
    },
    {
+    "uid": "iiihamdaiiinr12765-10",
+    "surface": "Kämen",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0012_a2-L10_01.jpg",
+    "line": 262,
+    "doc_line": 8
+   },
+   {
+    "uid": "iiihamdaiiinr12765-10",
+    "surface": "Kämen",
+    "page": 2,
+    "page_id": "0013_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0013_a1-L10_02.jpg",
+    "line": 269,
+    "doc_line": 14
+   },
+   {
     "uid": "iiihamdaiiinr12765-14",
     "surface": "Kaemen",
     "page": 1,
@@ -15272,6 +15339,15 @@
     "doc_line": 65
    },
    {
+    "uid": "iiihamdaiiinr12765-26",
+    "surface": "Kamen",
+    "page": 1,
+    "page_id": "0037_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0037_a2-L26_01.jpg",
+    "line": 916,
+    "doc_line": 15
+   },
+   {
     "uid": "iiihamdaiiinr12765-29",
     "surface": "Kaemen",
     "page": 1,
@@ -15285,7 +15361,7 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 134,
+  "count": 135,
   "documents": [
    "app5371057-1",
    "ihagrrep7cnr3705-1",
@@ -15338,6 +15414,7 @@
    "oe1bu9454-191",
    "oe1bu9454-194",
    "oe1bu9454-197",
+   "oe1bu9454-2",
    "oe1bu9454-207",
    "oe1bu9454-210",
    "oe1bu9454-213",
@@ -16453,6 +16530,15 @@
     "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
     "line": 19179,
     "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Kálitz",
+    "page": 1,
+    "page_id": "0002_b",
+    "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
+    "line": 128,
+    "doc_line": 18
    },
    {
     "uid": "oe1bu9454-273",
@@ -18569,6 +18655,854 @@
   ]
  },
  {
+  "entity": "kolno",
+  "display": "Kolno (Kulm)",
+  "count": 90,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "iiihamdaiiinr12765-14",
+   "iiihamdaiiinr12765-4",
+   "iiihamdaiiinr12765-5",
+   "oe1bu14525-1",
+   "oe1bu14525-12",
+   "oe1bu14525-13",
+   "oe1bu14525-14",
+   "oe1bu14525-3",
+   "oe1bu14525-34",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu14526-22",
+   "oe1bu14526-23",
+   "oe1bu14526-4",
+   "oe1bu14526-5",
+   "oe1bu9454-102",
+   "oe1bu9454-103",
+   "oe1bu9454-134",
+   "oe1bu9454-135",
+   "oe1bu9454-136",
+   "oe1bu9454-138",
+   "oe1bu9454-140",
+   "oe1bu9454-242",
+   "oe1bu9454-275",
+   "oe1bu9454-284",
+   "oe1bu9454-285",
+   "oe1bu9454-297",
+   "oe1bu9454-299"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0036_a2",
+    "scan": "Oe_1_Bu_14525_0036_a2-L13_01.jpg",
+    "line": 1405,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0037_a2",
+    "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
+    "line": 1424,
+    "doc_line": 28
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0037_a2",
+    "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
+    "line": 1444,
+    "doc_line": 48
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 3,
+    "page_id": "0038_a1",
+    "scan": "Oe_1_Bu_14525_0038_a1-L13_03.jpg",
+    "line": 1446,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 3,
+    "page_id": "0038_a1",
+    "scan": "Oe_1_Bu_14525_0038_a1-L13_03.jpg",
+    "line": 1459,
+    "doc_line": 62
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 6,
+    "page_id": "0039_a2",
+    "scan": "Oe_1_Bu_14525_0039_a2-L13_06.jpg",
+    "line": 1530,
+    "doc_line": 130
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 8,
+    "page_id": "0040_a2",
+    "scan": "Oe_1_Bu_14525_0040_a2-L13_08.jpg",
+    "line": 1578,
+    "doc_line": 176
+   },
+   {
+    "uid": "oe1bu14525-13",
+    "surface": "Kolno",
+    "page": 9,
+    "page_id": "0041_a1",
+    "scan": "Oe_1_Bu_14525_0041_a1-L13_09.jpg",
+    "line": 1600,
+    "doc_line": 197
+   },
+   {
+    "uid": "oe1bu14525-39",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0145_b",
+    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
+    "line": 3806,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
+    "line": 117,
+    "doc_line": 71
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Kulm",
+    "page": 4,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
+    "line": 223,
+    "doc_line": 175
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Kulm",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 325,
+    "doc_line": 274
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Kulm",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 364,
+    "doc_line": 313
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0010_a2",
+    "scan": "Oe_1_Bu_14525_0010_a2-L3_01.jpg",
+    "line": 300,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Kulm",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+    "line": 351,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu9454-102",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0212_a1",
+    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
+    "line": 8016,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Kulm",
+    "page": 3,
+    "page_id": "0214_a2",
+    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
+    "line": 8131,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0003_a1",
+    "scan": "Oe_1_Bu_14525_0003_a1-L1_02.jpg",
+    "line": 60,
+    "doc_line": 40
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Kulm",
+    "page": 7,
+    "page_id": "0005_a2",
+    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+    "line": 158,
+    "doc_line": 133
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "Oe_1_Bu_14525_0012_a2-L4_01.jpg",
+    "line": 393,
+    "doc_line": 28
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Kulm",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
+    "line": 454,
+    "doc_line": 87
+   },
+   {
+    "uid": "oe1bu14525-34",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0135_b",
+    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
+    "line": 3682,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu14525-14",
+    "surface": "Kolno",
+    "page": 3,
+    "page_id": "0053_a1",
+    "scan": "Oe_1_Bu_14525_0053_a1-L14_03.jpg",
+    "line": 1733,
+    "doc_line": 74
+   },
+   {
+    "uid": "oe1bu14525-14",
+    "surface": "Kolno",
+    "page": 4,
+    "page_id": "0053_a2",
+    "scan": "Oe_1_Bu_14525_0053_a2-L14_04.jpg",
+    "line": 1736,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu14525-14",
+    "surface": "Kolno",
+    "page": 5,
+    "page_id": "0054_a1",
+    "scan": "Oe_1_Bu_14525_0054_a1-L14_05.jpg",
+    "line": 1773,
+    "doc_line": 112
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0032_a2",
+    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
+    "line": 1269,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0032_a2",
+    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
+    "line": 1272,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0032_a2",
+    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
+    "line": 1273,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0033_a1",
+    "scan": "Oe_1_Bu_14525_0033_a1-L12_02.jpg",
+    "line": 1317,
+    "doc_line": 51
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kolno",
+    "page": 4,
+    "page_id": "0034_a1",
+    "scan": "Oe_1_Bu_14525_0034_a1-L12_04.jpg",
+    "line": 1375,
+    "doc_line": 107
+   },
+   {
+    "uid": "oe1bu14525-12",
+    "surface": "Kolno",
+    "page": 5,
+    "page_id": "0034_a2",
+    "scan": "Oe_1_Bu_14525_0034_a2-L12_05.jpg",
+    "line": 1392,
+    "doc_line": 123
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0260_b",
+    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
+    "line": 9748,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0260_b",
+    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
+    "line": 9754,
+    "doc_line": 11
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0260_b",
+    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
+    "line": 9773,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0261_a1",
+    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
+    "line": 9783,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0261_a1",
+    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
+    "line": 9793,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0261_a1",
+    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
+    "line": 9794,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-135",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0261_a1",
+    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
+    "line": 9798,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu9454-134",
+    "surface": "Kulm",
+    "page": 7,
+    "page_id": "0259_a2",
+    "scan": "Oe_1_Bu_9454_0259_a2-L134_07.jpg",
+    "line": 9727,
+    "doc_line": 140
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0262_a",
+    "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
+    "line": 9826,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Kulm",
+    "page": 12,
+    "page_id": "0268_a",
+    "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
+    "line": 10058,
+    "doc_line": 225
+   },
+   {
+    "uid": "oe1bu9454-138",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0270_a",
+    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
+    "line": 10139,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-140",
+    "surface": "Kulmner",
+    "page": 7,
+    "page_id": "0277_a2",
+    "scan": "Oe_1_Bu_9454_0277_a2-L140_07.jpg",
+    "line": 10386,
+    "doc_line": 142
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 1,
+    "page_id": "0019_b",
+    "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
+    "line": 890,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 1,
+    "page_id": "0019_b",
+    "scan": "Oe_1_Bu_14526_0019_b-L5_01.jpg",
+    "line": 901,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 2,
+    "page_id": "0020_a1",
+    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+    "line": 916,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 2,
+    "page_id": "0020_a1",
+    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+    "line": 931,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 3,
+    "page_id": "0020_a2",
+    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+    "line": 941,
+    "doc_line": 63
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 3,
+    "page_id": "0020_a2",
+    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+    "line": 943,
+    "doc_line": 65
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 3,
+    "page_id": "0020_a2",
+    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+    "line": 948,
+    "doc_line": 70
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 3,
+    "page_id": "0020_a2",
+    "scan": "Oe_1_Bu_14526_0020_a2-L5_03.jpg",
+    "line": 954,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 4,
+    "page_id": "0021_a1",
+    "scan": "Oe_1_Bu_14526_0021_a1-L5_04.jpg",
+    "line": 979,
+    "doc_line": 100
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 5,
+    "page_id": "0021_a2",
+    "scan": "Oe_1_Bu_14526_0021_a2-L5_05.jpg",
+    "line": 1001,
+    "doc_line": 121
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 6,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
+    "line": 1043,
+    "doc_line": 162
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 6,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14526_0022_a1-L5_06.jpg",
+    "line": 1053,
+    "doc_line": 172
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Kollno",
+    "page": 7,
+    "page_id": "0022_a2",
+    "scan": "Oe_1_Bu_14526_0022_a2-L5_07.jpg",
+    "line": 1085,
+    "doc_line": 203
+   },
+   {
+    "uid": "oe1bu14526-4",
+    "surface": "Kollno",
+    "page": 1,
+    "page_id": "0015_b",
+    "scan": "Oe_1_Bu_14526_0015_b-L4_01.jpg",
+    "line": 619,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu14526-4",
+    "surface": "Kollno",
+    "page": 2,
+    "page_id": "0016_a1",
+    "scan": "Oe_1_Bu_14526_0016_a1-L4_02.jpg",
+    "line": 658,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu14526-4",
+    "surface": "Kolno",
+    "page": 3,
+    "page_id": "0016_a2",
+    "scan": "Oe_1_Bu_14526_0016_a2-L4_03.jpg",
+    "line": 693,
+    "doc_line": 88
+   },
+   {
+    "uid": "oe1bu14526-4",
+    "surface": "Kollno",
+    "page": 8,
+    "page_id": "0019_a",
+    "scan": "Oe_1_Bu_14526_0019_a-L4_08.jpg",
+    "line": 854,
+    "doc_line": 244
+   },
+   {
+    "uid": "oe1bu14526-22",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0138_b",
+    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
+    "line": 6945,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0139_a2",
+    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
+    "line": 6964,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0139_a2",
+    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
+    "line": 6983,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0140_a1",
+    "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
+    "line": 7009,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 4,
+    "page_id": "0141_a1",
+    "scan": "Oe_1_Bu_14526_0141_a1-L23_04.jpg",
+    "line": 7052,
+    "doc_line": 88
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 6,
+    "page_id": "0142_a1",
+    "scan": "Oe_1_Bu_14526_0142_a1-L23_06.jpg",
+    "line": 7095,
+    "doc_line": 129
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kollno",
+    "page": 13,
+    "page_id": "0145_a2",
+    "scan": "Oe_1_Bu_14526_0145_a2-L23_13.jpg",
+    "line": 7285,
+    "doc_line": 312
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 15,
+    "page_id": "0146_a2",
+    "scan": "Oe_1_Bu_14526_0146_a2-L23_15.jpg",
+    "line": 7322,
+    "doc_line": 347
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 17,
+    "page_id": "0147_a2",
+    "scan": "Oe_1_Bu_14526_0147_a2-L23_17.jpg",
+    "line": 7375,
+    "doc_line": 398
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kollno",
+    "page": 18,
+    "page_id": "0148_a1",
+    "scan": "Oe_1_Bu_14526_0148_a1-L23_18.jpg",
+    "line": 7387,
+    "doc_line": 409
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 20,
+    "page_id": "0149_a1",
+    "scan": "Oe_1_Bu_14526_0149_a1-L23_20.jpg",
+    "line": 7449,
+    "doc_line": 469
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 23,
+    "page_id": "0150_a2",
+    "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
+    "line": 7538,
+    "doc_line": 555
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 25,
+    "page_id": "0151_a2",
+    "scan": "Oe_1_Bu_14526_0151_a2-L23_25.jpg",
+    "line": 7590,
+    "doc_line": 605
+   },
+   {
+    "uid": "oe1bu14526-23",
+    "surface": "Kolno",
+    "page": 26,
+    "page_id": "0153_a1",
+    "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
+    "line": 7631,
+    "doc_line": 645
+   },
+   {
+    "uid": "oe1bu9454-242",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0451_a1",
+    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+    "line": 17573,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-275",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0501_b",
+    "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
+    "line": 19591,
+    "doc_line": 17
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 66,
+    "doc_line": 4
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 95,
+    "doc_line": 33
+   },
+   {
+    "uid": "iiihamdaiiinr12765-5",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+    "line": 130,
+    "doc_line": 18
+   },
+   {
+    "uid": "iiihamdaiiinr12765-5",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+    "line": 135,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Kulm",
+    "page": 1,
+    "page_id": "0513_a2",
+    "scan": "Oe_1_Bu_9454_0513_a2-L284_01.jpg",
+    "line": 20103,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-285",
+    "surface": "Kulmschen",
+    "page": 1,
+    "page_id": "0515_b",
+    "scan": "Oe_1_Bu_9454_0515_b-L285_01.jpg",
+    "line": 20232,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-285",
+    "surface": "Kulmische",
+    "page": 1,
+    "page_id": "0515_b",
+    "scan": "Oe_1_Bu_9454_0515_b-L285_01.jpg",
+    "line": 20233,
+    "doc_line": 23
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
+    "line": 362,
+    "doc_line": 11
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
+    "line": 369,
+    "doc_line": 18
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
+    "line": 383,
+    "doc_line": 32
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0019_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0019_a1-L14_02.jpg",
+    "line": 421,
+    "doc_line": 69
+   },
+   {
+    "uid": "oe1bu9454-297",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0533_a1",
+    "scan": "Oe_1_Bu_9454_0533_a1-L297_02.jpg",
+    "line": 21090,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu9454-297",
+    "surface": "Kulm",
+    "page": 4,
+    "page_id": "0534_a",
+    "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
+    "line": 21152,
+    "doc_line": 107
+   },
+   {
+    "uid": "oe1bu9454-299",
+    "surface": "Kulm",
+    "page": 2,
+    "page_id": "0536_a1",
+    "scan": "Oe_1_Bu_9454_0536_a1-L299_02.jpg",
+    "line": 21278,
+    "doc_line": 53
+   }
+  ]
+ },
+ {
   "entity": "olesnica",
   "display": "Oleśnica (Olesnice)",
   "count": 88,
@@ -20241,691 +21175,6 @@
     "scan": "Oe_1_Bu_9454_0543_a2-L303_03.jpg",
     "line": 21540,
     "doc_line": 39
-   }
-  ]
- },
- {
-  "entity": "kolno",
-  "display": "Kolno (Kulm)",
-  "count": 72,
-  "documents": [
-   "ihagrrep7cnr3570-1",
-   "iiihamdaiiinr12765-14",
-   "iiihamdaiiinr12765-4",
-   "iiihamdaiiinr12765-5",
-   "oe1bu14525-1",
-   "oe1bu14525-12",
-   "oe1bu14525-13",
-   "oe1bu14525-14",
-   "oe1bu14525-3",
-   "oe1bu14525-34",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu14526-22",
-   "oe1bu14526-23",
-   "oe1bu14526-4",
-   "oe1bu9454-102",
-   "oe1bu9454-103",
-   "oe1bu9454-134",
-   "oe1bu9454-135",
-   "oe1bu9454-136",
-   "oe1bu9454-138",
-   "oe1bu9454-140",
-   "oe1bu9454-242",
-   "oe1bu9454-275",
-   "oe1bu9454-284",
-   "oe1bu9454-285",
-   "oe1bu9454-297",
-   "oe1bu9454-299"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0036_a2",
-    "scan": "Oe_1_Bu_14525_0036_a2-L13_01.jpg",
-    "line": 1405,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0037_a2",
-    "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
-    "line": 1424,
-    "doc_line": 28
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0037_a2",
-    "scan": "Oe_1_Bu_14525_0037_a2-L13_02.jpg",
-    "line": 1444,
-    "doc_line": 48
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 3,
-    "page_id": "0038_a1",
-    "scan": "Oe_1_Bu_14525_0038_a1-L13_03.jpg",
-    "line": 1446,
-    "doc_line": 49
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 3,
-    "page_id": "0038_a1",
-    "scan": "Oe_1_Bu_14525_0038_a1-L13_03.jpg",
-    "line": 1459,
-    "doc_line": 62
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 6,
-    "page_id": "0039_a2",
-    "scan": "Oe_1_Bu_14525_0039_a2-L13_06.jpg",
-    "line": 1530,
-    "doc_line": 130
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 8,
-    "page_id": "0040_a2",
-    "scan": "Oe_1_Bu_14525_0040_a2-L13_08.jpg",
-    "line": 1578,
-    "doc_line": 176
-   },
-   {
-    "uid": "oe1bu14525-13",
-    "surface": "Kolno",
-    "page": 9,
-    "page_id": "0041_a1",
-    "scan": "Oe_1_Bu_14525_0041_a1-L13_09.jpg",
-    "line": 1600,
-    "doc_line": 197
-   },
-   {
-    "uid": "oe1bu14525-39",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0145_b",
-    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
-    "line": 3806,
-    "doc_line": 4
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-    "line": 117,
-    "doc_line": 71
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Kulm",
-    "page": 4,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
-    "line": 223,
-    "doc_line": 175
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Kulm",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 325,
-    "doc_line": 274
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Kulm",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 364,
-    "doc_line": 313
-   },
-   {
-    "uid": "oe1bu14525-3",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0010_a2",
-    "scan": "Oe_1_Bu_14525_0010_a2-L3_01.jpg",
-    "line": 300,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu14525-3",
-    "surface": "Kulm",
-    "page": 3,
-    "page_id": "0011_a2",
-    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
-    "line": 351,
-    "doc_line": 76
-   },
-   {
-    "uid": "oe1bu9454-102",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0212_a1",
-    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-    "line": 8016,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-103",
-    "surface": "Kulm",
-    "page": 3,
-    "page_id": "0214_a2",
-    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
-    "line": 8131,
-    "doc_line": 58
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0003_a1",
-    "scan": "Oe_1_Bu_14525_0003_a1-L1_02.jpg",
-    "line": 60,
-    "doc_line": 40
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Kulm",
-    "page": 7,
-    "page_id": "0005_a2",
-    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
-    "line": 158,
-    "doc_line": 133
-   },
-   {
-    "uid": "oe1bu14525-4",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0012_a2",
-    "scan": "Oe_1_Bu_14525_0012_a2-L4_01.jpg",
-    "line": 393,
-    "doc_line": 28
-   },
-   {
-    "uid": "oe1bu14525-4",
-    "surface": "Kulm",
-    "page": 3,
-    "page_id": "0013_a2",
-    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
-    "line": 454,
-    "doc_line": 87
-   },
-   {
-    "uid": "oe1bu14525-34",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0135_b",
-    "scan": "Oe_1_Bu_14525_0135_b-L34_01.jpg",
-    "line": 3682,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu14525-14",
-    "surface": "Kolno",
-    "page": 3,
-    "page_id": "0053_a1",
-    "scan": "Oe_1_Bu_14525_0053_a1-L14_03.jpg",
-    "line": 1733,
-    "doc_line": 74
-   },
-   {
-    "uid": "oe1bu14525-14",
-    "surface": "Kolno",
-    "page": 4,
-    "page_id": "0053_a2",
-    "scan": "Oe_1_Bu_14525_0053_a2-L14_04.jpg",
-    "line": 1736,
-    "doc_line": 76
-   },
-   {
-    "uid": "oe1bu14525-14",
-    "surface": "Kolno",
-    "page": 5,
-    "page_id": "0054_a1",
-    "scan": "Oe_1_Bu_14525_0054_a1-L14_05.jpg",
-    "line": 1773,
-    "doc_line": 112
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0032_a2",
-    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
-    "line": 1269,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0032_a2",
-    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
-    "line": 1272,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0032_a2",
-    "scan": "Oe_1_Bu_14525_0032_a2-L12_01.jpg",
-    "line": 1273,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0033_a1",
-    "scan": "Oe_1_Bu_14525_0033_a1-L12_02.jpg",
-    "line": 1317,
-    "doc_line": 51
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kolno",
-    "page": 4,
-    "page_id": "0034_a1",
-    "scan": "Oe_1_Bu_14525_0034_a1-L12_04.jpg",
-    "line": 1375,
-    "doc_line": 107
-   },
-   {
-    "uid": "oe1bu14525-12",
-    "surface": "Kolno",
-    "page": 5,
-    "page_id": "0034_a2",
-    "scan": "Oe_1_Bu_14525_0034_a2-L12_05.jpg",
-    "line": 1392,
-    "doc_line": 123
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0260_b",
-    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
-    "line": 9748,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0260_b",
-    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
-    "line": 9754,
-    "doc_line": 11
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0260_b",
-    "scan": "Oe_1_Bu_9454_0260_b-L135_01.jpg",
-    "line": 9773,
-    "doc_line": 30
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0261_a1",
-    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
-    "line": 9783,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0261_a1",
-    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
-    "line": 9793,
-    "doc_line": 49
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0261_a1",
-    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
-    "line": 9794,
-    "doc_line": 50
-   },
-   {
-    "uid": "oe1bu9454-135",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0261_a1",
-    "scan": "Oe_1_Bu_9454_0261_a1-L135_02.jpg",
-    "line": 9798,
-    "doc_line": 54
-   },
-   {
-    "uid": "oe1bu9454-134",
-    "surface": "Kulm",
-    "page": 7,
-    "page_id": "0259_a2",
-    "scan": "Oe_1_Bu_9454_0259_a2-L134_07.jpg",
-    "line": 9727,
-    "doc_line": 140
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0262_a",
-    "scan": "Oe_1_Bu_9454_0262_a-L136_01.jpg",
-    "line": 9826,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Kulm",
-    "page": 12,
-    "page_id": "0268_a",
-    "scan": "Oe_1_Bu_9454_0268_a-L136_12.jpg",
-    "line": 10058,
-    "doc_line": 225
-   },
-   {
-    "uid": "oe1bu9454-138",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0270_a",
-    "scan": "Oe_1_Bu_9454_0270_a-L138_01.jpg",
-    "line": 10139,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-140",
-    "surface": "Kulmner",
-    "page": 7,
-    "page_id": "0277_a2",
-    "scan": "Oe_1_Bu_9454_0277_a2-L140_07.jpg",
-    "line": 10386,
-    "doc_line": 142
-   },
-   {
-    "uid": "oe1bu14526-4",
-    "surface": "Kolno",
-    "page": 3,
-    "page_id": "0016_a2",
-    "scan": "Oe_1_Bu_14526_0016_a2-L4_03.jpg",
-    "line": 693,
-    "doc_line": 88
-   },
-   {
-    "uid": "oe1bu14526-22",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0138_b",
-    "scan": "Oe_1_Bu_14526_0138_b-L22_01.jpg",
-    "line": 6945,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0139_a2",
-    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
-    "line": 6964,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0139_a2",
-    "scan": "Oe_1_Bu_14526_0139_a2-L23_01.jpg",
-    "line": 6983,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0140_a1",
-    "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
-    "line": 7009,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 4,
-    "page_id": "0141_a1",
-    "scan": "Oe_1_Bu_14526_0141_a1-L23_04.jpg",
-    "line": 7052,
-    "doc_line": 88
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 6,
-    "page_id": "0142_a1",
-    "scan": "Oe_1_Bu_14526_0142_a1-L23_06.jpg",
-    "line": 7095,
-    "doc_line": 129
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 15,
-    "page_id": "0146_a2",
-    "scan": "Oe_1_Bu_14526_0146_a2-L23_15.jpg",
-    "line": 7322,
-    "doc_line": 347
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 17,
-    "page_id": "0147_a2",
-    "scan": "Oe_1_Bu_14526_0147_a2-L23_17.jpg",
-    "line": 7375,
-    "doc_line": 398
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 20,
-    "page_id": "0149_a1",
-    "scan": "Oe_1_Bu_14526_0149_a1-L23_20.jpg",
-    "line": 7449,
-    "doc_line": 469
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 23,
-    "page_id": "0150_a2",
-    "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
-    "line": 7538,
-    "doc_line": 555
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 25,
-    "page_id": "0151_a2",
-    "scan": "Oe_1_Bu_14526_0151_a2-L23_25.jpg",
-    "line": 7590,
-    "doc_line": 605
-   },
-   {
-    "uid": "oe1bu14526-23",
-    "surface": "Kolno",
-    "page": 26,
-    "page_id": "0153_a1",
-    "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
-    "line": 7631,
-    "doc_line": 645
-   },
-   {
-    "uid": "oe1bu9454-242",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0451_a1",
-    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-    "line": 17573,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-275",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0501_b",
-    "scan": "Oe_1_Bu_9454_0501_b-L275_01.jpg",
-    "line": 19591,
-    "doc_line": 17
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 66,
-    "doc_line": 4
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 95,
-    "doc_line": 33
-   },
-   {
-    "uid": "iiihamdaiiinr12765-5",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
-    "line": 130,
-    "doc_line": 18
-   },
-   {
-    "uid": "iiihamdaiiinr12765-5",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
-    "line": 135,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Kulm",
-    "page": 1,
-    "page_id": "0513_a2",
-    "scan": "Oe_1_Bu_9454_0513_a2-L284_01.jpg",
-    "line": 20103,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-285",
-    "surface": "Kulmschen",
-    "page": 1,
-    "page_id": "0515_b",
-    "scan": "Oe_1_Bu_9454_0515_b-L285_01.jpg",
-    "line": 20232,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-285",
-    "surface": "Kulmische",
-    "page": 1,
-    "page_id": "0515_b",
-    "scan": "Oe_1_Bu_9454_0515_b-L285_01.jpg",
-    "line": 20233,
-    "doc_line": 23
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
-    "line": 362,
-    "doc_line": 11
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
-    "line": 369,
-    "doc_line": 18
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Kolno",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
-    "line": 383,
-    "doc_line": 32
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Kolno",
-    "page": 2,
-    "page_id": "0019_a1",
-    "scan": "III_HA_MdA_III_Nr_12765_0019_a1-L14_02.jpg",
-    "line": 421,
-    "doc_line": 69
-   },
-   {
-    "uid": "oe1bu9454-297",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0533_a1",
-    "scan": "Oe_1_Bu_9454_0533_a1-L297_02.jpg",
-    "line": 21090,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu9454-297",
-    "surface": "Kulm",
-    "page": 4,
-    "page_id": "0534_a",
-    "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
-    "line": 21152,
-    "doc_line": 107
-   },
-   {
-    "uid": "oe1bu9454-299",
-    "surface": "Kulm",
-    "page": 2,
-    "page_id": "0536_a1",
-    "scan": "Oe_1_Bu_9454_0536_a1-L299_02.jpg",
-    "line": 21278,
-    "doc_line": 53
    }
   ]
  },
@@ -33811,7 +34060,7 @@
  {
   "entity": "gradzyn",
   "display": "Grądzyń",
-  "count": 19,
+  "count": 20,
   "documents": [
    "oe1bu14525-10",
    "oe1bu14525-17",
@@ -33844,6 +34093,15 @@
     "scan": "Oe_1_Bu_14525_0029_a2-L10_03.jpg",
     "line": 1155,
     "doc_line": 69
+   },
+   {
+    "uid": "oe1bu14525-8",
+    "surface": "Grąndzyń",
+    "page": 1,
+    "page_id": "0024_a2",
+    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
+    "line": 912,
+    "doc_line": 20
    },
    {
     "uid": "oe1bu14525-8",
@@ -35448,6 +35706,122 @@
   ]
  },
  {
+  "entity": "nowawies-trabczyn",
+  "display": "Nowawies",
+  "count": 11,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "iiihamdaiiinr12765-4",
+   "oe1bu14525-1",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu14526-8",
+   "oe1bu9454-24"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-39",
+    "surface": "Nowa wies",
+    "page": 1,
+    "page_id": "0145_b",
+    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
+    "line": 3807,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Nowawies",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0004_a2-L1_01.jpg",
+    "line": 80,
+    "doc_line": 35
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Nowawies",
+    "page": 2,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
+    "line": 121,
+    "doc_line": 75
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Nowawies",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 365,
+    "doc_line": 314
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Nowa wies",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+    "line": 353,
+    "doc_line": 78
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Nowa wies",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+    "line": 63,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Nowa wies",
+    "page": 7,
+    "page_id": "0005_a2",
+    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+    "line": 160,
+    "doc_line": 135
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Nowa wies",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
+    "line": 456,
+    "doc_line": 89
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Nowawies",
+    "page": 17,
+    "page_id": "0045_a2",
+    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+    "line": 2356,
+    "doc_line": 559
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Nowawies",
+    "page": 2,
+    "page_id": "0041_a2",
+    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+    "line": 1612,
+    "doc_line": 58
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Nowawies",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 67,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
   "entity": "glogau",
   "display": "Głogów (Glogau)",
   "count": 11,
@@ -36981,73 +37355,6 @@
     "scan": "Oe_1_Bu_9454_0414_b-L221_01.jpg",
     "line": 15966,
     "doc_line": 32
-   }
-  ]
- },
- {
-  "entity": "nowawies-trabczyn",
-  "display": "Nowawies",
-  "count": 6,
-  "documents": [
-   "ihagrrep7cnr3570-1",
-   "iiihamdaiiinr12765-4",
-   "oe1bu14526-8",
-   "oe1bu9454-24"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Nowawies",
-    "page": 1,
-    "page_id": "0004_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0004_a2-L1_01.jpg",
-    "line": 80,
-    "doc_line": 35
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Nowawies",
-    "page": 2,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-    "line": 121,
-    "doc_line": 75
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Nowawies",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 365,
-    "doc_line": 314
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Nowawies",
-    "page": 17,
-    "page_id": "0045_a2",
-    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
-    "line": 2356,
-    "doc_line": 559
-   },
-   {
-    "uid": "oe1bu9454-24",
-    "surface": "Nowawies",
-    "page": 2,
-    "page_id": "0041_a2",
-    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-    "line": 1612,
-    "doc_line": 58
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Nowawies",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 67,
-    "doc_line": 5
    }
   ]
  },
@@ -39359,6 +39666,44 @@
   ]
  },
  {
+  "entity": "gostyszyn",
+  "display": "Gostyszyn",
+  "count": 3,
+  "documents": [
+   "oe1bu9454-298",
+   "oe1bu9454-300"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-298",
+    "surface": "Gostyszyn",
+    "page": 2,
+    "page_id": "0535_a1",
+    "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+    "line": 21208,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-298",
+    "surface": "Gostyszyn",
+    "page": 2,
+    "page_id": "0535_a1",
+    "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
+    "line": 21218,
+    "doc_line": 49
+   },
+   {
+    "uid": "oe1bu9454-300",
+    "surface": "Gosztiszyn",
+    "page": 1,
+    "page_id": "0537_b",
+    "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
+    "line": 21341,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
   "entity": "popowo",
   "display": "Popowo",
   "count": 2,
@@ -39964,6 +40309,35 @@
   ]
  },
  {
+  "entity": "wieruszow",
+  "display": "Wieruszów",
+  "count": 2,
+  "documents": [
+   "oe1bu9454-288",
+   "oe1bu9454-6"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-288",
+    "surface": "Wieruszów",
+    "page": 1,
+    "page_id": "0521_b",
+    "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
+    "line": 20560,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Wieruszew",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
+    "line": 409,
+    "doc_line": 12
+   }
+  ]
+ },
+ {
   "entity": "heilbronn",
   "display": "Heilbronn",
   "count": 2,
@@ -39988,34 +40362,6 @@
     "scan": "Oe_1_Bu_9454_0525_a1-L291_02.jpg",
     "line": 20778,
     "doc_line": 36
-   }
-  ]
- },
- {
-  "entity": "gostyszyn",
-  "display": "Gostyszyn",
-  "count": 2,
-  "documents": [
-   "oe1bu9454-298"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-298",
-    "surface": "Gostyszyn",
-    "page": 2,
-    "page_id": "0535_a1",
-    "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
-    "line": 21208,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-298",
-    "surface": "Gostyszyn",
-    "page": 2,
-    "page_id": "0535_a1",
-    "scan": "Oe_1_Bu_9454_0535_a1-L298_02.jpg",
-    "line": 21218,
-    "doc_line": 49
    }
   ]
  },
@@ -40780,25 +41126,6 @@
    {
     "uid": "oe1bu9454-288",
     "surface": "Klunowo",
-    "page": 1,
-    "page_id": "0521_b",
-    "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
-    "line": 20560,
-    "doc_line": 26
-   }
-  ]
- },
- {
-  "entity": "wieruszow",
-  "display": "Wieruszów",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-288"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-288",
-    "surface": "Wieruszów",
     "page": 1,
     "page_id": "0521_b",
     "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",

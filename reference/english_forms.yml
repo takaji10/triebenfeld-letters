@@ -14,6 +14,8 @@
 #   pattern   a regular expression (Python), case-sensitive
 #   replace   the replacement; \1, \2 for groups
 #   months    instead of `replace`: group 1 looked up in this table
+#   names     instead of `replace`: group 1 looked up in this table (a
+#             spelling and the settled form of the name)
 #   capitalise  instead of `replace`: this word, inside the match, capitalised
 #   word      instead of `replace`: a group 1 (the figure), group 2 (the space)
 #             and the abbreviation, replaced by this word. An abbreviation's
@@ -98,4 +100,144 @@ rules:
     places said "the government at Kalisz" or "the Poznań government". The
     political sense (the Prussian government, a democratic government) has no
     seat after it and is left alone.
+
+# Names (2026-10-03): spellings of people and places carried over from the
+# manuscripts, each now a recorded variant in reference/people.yml or
+# places.yml. The registers make the translator use the settled form from
+# now on; these bring the English already published into line.
+
+- id: name-prusimski
+  pattern: "\\b(?:Prussiemski|Prussimski|Prussimsky|Prusimsky)\\b"
+  replace: "Prusimski"
+  why: >-
+    Antoni Prusimski, written Prussiemski, Prussimski, Prussimsky and Prusimsky
+    in the French letter of 1815 and elsewhere, and carried over as written. The
+    edition's form (editor, 2026-10-03; reference/people.yml, prusimski).
+
+- id: name-miaczynska
+  pattern: "\\b(?:Moscinska|Moszynska|Miaczynska|Mięczynska)\\b"
+  replace: "Miączyńska"
+  why: >-
+    Michalina Prusimska's second married name, which the letters write Moscinska
+    and Moszynska (the writers' errors, reference/people.yml, prusimska) and one
+    document Miaczynska.
+
+- id: name-miaczynski
+  pattern: "(?<!Madame )\\b(?:Moscinski|Moszynski|Mięczynsky|Miaczynski)\\b"
+  replace: "Miączyński"
+  why: >-
+    Her second husband, Stanisław Miączyński (reference/people.yml, miaczynski),
+    written Moscinski, Moszynski and, in French, Mięczynsky. "Madame Mięczynsky"
+    is she, and is left to a correction.
+
+- id: name-kamionna
+  pattern: "\\b(?:Kähmen|Kämen|Kamen|Kamener|Kamienne)\\b"
+  replace: "Kamionna"
+  why: >-
+    The estate of Kamionna (German Kaemen), written Kähmen, Kämen, Kamen,
+    Kamener and Kamienne in the German and carried over. Every one in the
+    English names the estate (read 2026-10-03); the verb kamen does not reach
+    the English.
+
+- id: name-kamionna-twice
+  pattern: "Kamionna(?:,)? or Kamionna"
+  replace: "Kamionna"
+  why: >-
+    The German gives the estate both its names, "Kamiono oder Keemen"; once both
+    are standardised the English read "Kamionna or Kamionna" (eleven places).
+    One name is enough.
+
+- id: name-kolno
+  pattern: "\\b(?:Kollno|Kulmner|Kulm)\\b(?! (?:measure|Hufe|Hufen|Morgen|rods?|Ruthe|Ruthen)\\b)"
+  replace: "Kolno"
+  why: >-
+    The market town of Kolno, which the German calls Kulm (reference/places.yml,
+    kolno) and once Kollno. Every Kulm in the published English is Kolno (28,
+    read 2026-10-03). Kulm as a measure (the Kulm Hufe) is excepted; a Kulm that
+    means Chełmno would need a correction.
+
+- id: name-kolno-twice
+  pattern: "Kolno or Kolno"
+  replace: "Kolno"
+  why: >-
+    "Kolno oder Kulm" (14525, 12) once both names are standardised.
+
+- id: place-spellings
+  pattern: "\\b(Botkowo?|Brzyzer|Brzyzna|Brzyze|Charlottenbourg|Czischowa|Czyschowa|Czysowa|Gollawia|Grądzin|Grąndzyń|Gratz|Heidelburg|Carlsruhe|Cassel|Karczin|Krotoszin|Mysłowic|Neufchatel|Neustad|Presburg|Przybisław|Ruszynowig|Schweinerne|Szettlewek|Weissenfeld|Wrąbczin|Kálitz|Nowa wieś|Nowa wies|Nova wies|Wieruszew|Gosztiszyn)\\b"
+  names:
+    "Botkow": "Batkowo"
+    "Botkowo": "Batkowo"
+    "Brzyzer": "Brzyce"
+    "Brzyzna": "Brzyce"
+    "Brzyze": "Brzyce"
+    "Charlottenbourg": "Charlottenburg"
+    "Czischowa": "Cieszowa"
+    "Czyschowa": "Cieszowa"
+    "Czysowa": "Cieszowa"
+    "Gollawia": "Goła Wieś"
+    "Grądzin": "Grądzyń"
+    "Grąndzyń": "Grądzyń"
+    "Gratz": "Graz"
+    "Heidelburg": "Heidelberg"
+    "Carlsruhe": "Karlsruhe"
+    "Cassel": "Kassel"
+    "Karczin": "Karczyn"
+    "Krotoszin": "Krotoszyn"
+    "Mysłowic": "Mysłowice"
+    "Neufchatel": "Neuchâtel"
+    "Neustad": "Neustadt"
+    "Presburg": "Pressburg"
+    "Przybisław": "Przybysław"
+    "Ruszynowig": "Rusinowice"
+    "Schweinerne": "Świniary"
+    "Szettlewek": "Szetlewek"
+    "Weissenfeld": "Weißenfels"
+    "Wrąbczin": "Wrąbczyn"
+    "Kálitz": "Kalisz"
+    "Nowa wieś": "Nowawies"
+    "Nowa wies": "Nowawies"
+    "Nova wies": "Nowawies"
+    "Wieruszew": "Wieruszów"
+    "Gosztiszyn": "Gostyszyn"
+  why: >-
+    Places the manuscripts spell otherwise, carried into the English as written.
+    Each is the place of that name in reference/places.yml, where the spelling
+    is now a recorded variant (2026-10-03).
+
+- id: person-spellings
+  pattern: "\\b(Broniewsky|Kielczewski|Kiełszewski|Landskoy|Merkel|Schenk|Schuckman|Schulemburg|Tismar|Sobolowski|Reppnin|Allbrecht|Maciey|Niedzwiedzki|Niedzwidzki|Konstantin|Stoesel|Bethney|von der Laar|Van der Laar)\\b"
+  names:
+    "Broniewsky": "Broniewski"
+    "Kielczewski": "Kiełczewski"
+    "Kiełszewski": "Kiełczewski"
+    "Landskoy": "Lanskoy"
+    "Merkel": "Merckel"
+    "Schenk": "Schenck"
+    "Schuckman": "Schuckmann"
+    "Schulemburg": "Schulenburg"
+    "Tismar": "Tesmar"
+    "Sobolowski": "Sobolewski"
+    "Reppnin": "Repnin"
+    "Allbrecht": "Albrecht"
+    "Maciey": "Maciej"
+    "Niedzwiedzki": "Niedźwiecki"
+    "Niedzwidzki": "Niedźwiecki"
+    "Konstantin": "Constantin"
+    "Stoesel": "Stössel"
+    "Bethney": "Bethusy"
+    "von der Laar": "von der Lahr"
+    "Van der Laar": "von der Lahr"
+  why: >-
+    People the manuscripts spell otherwise, carried into the English as written.
+    Each is the person of that name in reference/people.yml, where the spelling
+    is now a recorded variant (2026-10-03). Pourtalès stays as the writer has it
+    in letter 266 ("Pourtalès / not Portalis").
+
+- id: name-prinz-wilhelm
+  pattern: "\\bPrinz Wilhelm von Preußen\\b"
+  replace: "Prince Wilhelm of Prussia"
+  why: >-
+    The King's brother, Prince Wilhelm of Prussia (reference/people.yml,
+    prinz-wilhelm), whose catalogue name in German had been left standing in
+    three letters (64, 195, 247).
 

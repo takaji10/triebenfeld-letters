@@ -68,6 +68,25 @@ People (`reference/people.yml`, `open_questions`):
 - Settlers doubled between a German deed and a Polish protocol (as Celmer and
   Zelmer): not checked beyond the known case.
 
+- Names in the English, found by the names audit of 2026-10-03 and left
+  for a ruling (each is either a different person or place, or a reading
+  question):
+  - Left standing on purpose: "Grand Duchy of Posen" (12765: 14, 27, 28),
+    the state's English name; "Betsche below Strehlen" (9454, 119), a small
+    estate near Strzelin, not Pszczew; "Klein Althammer" (9454, 189), which
+    the register keeps apart from Stara Kuźnia. The uncanonical-names check
+    still lists all three. Confirm.
+  - Tarmowo or Tarnowo: the 1797 grant lists write Tarmowo ten times and
+    Tarnowo twice (14525, 5); the register settled on Tarmowo.
+  - "Dohm Capitel zu Wrocławek" (14525, 28) is in Kuyavia and so must be the
+    chapter of Włocławek: a misreading in the transcription, or the
+    writer's?
+  - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): who she is,
+    and which spelling; not in the register.
+  - Rybbeck, Rybbek or Ribbeck (9454: 164, 192, 233); Kunckel or Kunkel
+    (14526: 16, 17); Dormowo or Dormowe (14526, 3); Hussarzewski for
+    "Hussaczinski[?]" (9454, 155).
+
 Places (`reference/places.yml`, `open_questions`):
 
 - Harbultowitz, among the estates of the majorat in Oe 1 U 199: not

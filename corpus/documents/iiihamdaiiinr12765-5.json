@@ -283,6 +283,17 @@
    "doc_line": 16
   },
   {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kähmen",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+   "line": 130,
+   "doc_line": 18
+  },
+  {
    "entity": "kolno",
    "display": "Kolno (Kulm)",
    "kind": "place",
@@ -305,6 +316,17 @@
    "doc_line": 23
   },
   {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kähmen",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L5_01.jpg",
+   "line": 136,
+   "doc_line": 24
+  },
+  {
    "entity": "wien",
    "display": "Wien",
    "kind": "place",
@@ -320,7 +342,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kähmen estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kähmen for the merchant Simon at its full [uncertain: value] and [uncertain: bauen Beständen der Buch] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
+   "en": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its full [uncertain: value] and [uncertain: bauen Beständen der Buch] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
    "names": [
     {
      "de": "W[ien]",
@@ -398,7 +420,7 @@
    ]
   }
  ],
- "text_english": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kähmen estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kähmen for the merchant Simon at its full [uncertain: value] and [uncertain: bauen Beständen der Buch] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
+ "text_english": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its full [uncertain: value] and [uncertain: bauen Beständen der Buch] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
  "summary_en": "Draft of a reply to Triebenfeld: a diplomatic negotiation has been opened, it says, about compensating the grantees of South Prussian estates who have been deprived of their possession since the Peace of Tilsit, and its outcome will be communicated to the Prince. Leixner, it says, did not come under judicial investigation through the loss of Kolno and Kamionna, but through the irregular management of his post and the unauthorised pledging of an asset registered there for the merchant Simon.",
  "summary_de": "Entwurf einer Antwort an Triebenfeld: Über die Entschädigung der Donatare südpreußischer Güter, denen der Besitz seit dem Frieden von Tilsit entzogen wurde, sei eine diplomatische Unterhandlung eingeleitet, deren Ergebnis dem Fürsten mitgeteilt werde. Leixner sei nicht durch den Verlust von Kolno und Kamionna in gerichtliche Untersuchung geraten, sondern durch die unregelmäßige Verwaltung seines Postens und die unerlaubte Beleihung eines dort für den Kaufmann Simon eingetragenen Aktivums.",
  "reading": {
