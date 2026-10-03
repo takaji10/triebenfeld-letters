@@ -461,7 +461,7 @@ people:
       Moscinska / Moszynska are the corpus's own misreadings of Miączyńska.
       The display carried all four surnames in one string until the register
       settled which was which.
-    match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąa]czy[nń]sk)a(?![a-zà-ÿ])"
+    match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])"
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
@@ -476,7 +476,7 @@ people:
     render: "Miączyński"
     # Masculine forms only: her names end in -a, his in -i or -y. "Madame
     # Mięczynsky" in the French letter of 1815 is she, and stays hers.
-    match: "(?<!Madame )(?:Mi[ąa]czy[nń]sk[iy]|Mi[ęe]czy[nń]sk[iy]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])"
+    match: "(?<!Madame )(?:Mi[ąaęe]czy[nń]sk[iyÿ]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])"
     tier: "Text-confirmed (as her husband); forename user-provided via the register"
     identity: >-
       Stanisław Miączyński, second husband of Michalina Prusimska (married about

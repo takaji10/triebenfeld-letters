@@ -1145,6 +1145,15 @@ of Posen" stands in the English of 12765 (14, 27, 28) as the state's English
 name. Schliefen / Schlieffen stays open. The 9454 and 14525 letters.json files
 are back to their CRLF line endings.
 
+Miączyński / Miączyńska (editor, 2026-10-03). Every spelling of the name
+(Mięczynsky, Mięczynska, Mieczynski, Miaczynska, Moscinska, Moszynski, ...)
+is written Miączyński for Stanisław and Miączyńska for Michalina in the
+English. The English was already so; the register's patterns and the rules in
+english_forms.yml now cover the forms with e and ę too, and "Madame
+Mięczynsky" in the French letter of 1815 is written Madame Miączyńska, so a
+new holding is standardised as well. The live site still showed "M. de
+Mięczynsky" in 12765, 6 because the names work had not yet been published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

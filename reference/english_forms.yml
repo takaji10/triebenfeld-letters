@@ -115,20 +115,30 @@ rules:
     edition's form (editor, 2026-10-03; reference/people.yml, prusimski).
 
 - id: name-miaczynska
-  pattern: "\\b(?:Moscinska|Moszynska|Miaczynska|Mięczynska)\\b"
+  pattern: "\\b(?:Moscinska|Moszynska|Mi(?:a|ą|e|ę)czy(?:n|ń)ska)(?<!Miączyńska)\\b"
   replace: "Miączyńska"
   why: >-
     Michalina Prusimska's second married name, which the letters write Moscinska
     and Moszynska (the writers' errors, reference/people.yml, prusimska) and one
-    document Miaczynska.
+    document Miaczynska. Every spelling of the name (Mięczynska, Mieczynska,
+    Miaczynska, ...) is written Miączyńska (editor, 2026-10-03).
+
+- id: name-miaczynska-madame
+  pattern: "\\bMadame Mi(?:a|ą|e|ę)czy(?:n|ń)sk(?:i|y|ÿ)\\b"
+  replace: "Madame Miączyńska"
+  why: >-
+    The French letter of 1815 (12765, 6) calls her "Madame Mięczynsky", the
+    masculine form; in the English she is Madame Miączyńska (editor,
+    2026-10-03).
 
 - id: name-miaczynski
-  pattern: "(?<!Madame )\\b(?:Moscinski|Moszynski|Mięczynsky|Miaczynski)\\b"
+  pattern: "(?<!Madame )\\b(?:Moscinski|Moszynski|Mi(?:a|ą|e|ę)czy(?:n|ń)sk(?:i|y|ÿ))(?<!Miączyński)\\b"
   replace: "Miączyński"
   why: >-
     Her second husband, Stanisław Miączyński (reference/people.yml, miaczynski),
-    written Moscinski, Moszynski and, in French, Mięczynsky. "Madame Mięczynsky"
-    is she, and is left to a correction.
+    written Moscinski, Moszynski and, in French, Mięczynsky. Every spelling of
+    the name is written Miączyński (editor, 2026-10-03). "Madame Mięczynsky"
+    is she: the rule above.
 
 - id: name-kamionna
   pattern: "\\b(?:Kähmen|Kämen|Kamen|Kamener|Kamienne)\\b"
