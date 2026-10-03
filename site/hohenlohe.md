@@ -410,7 +410,7 @@ was and could reach him only through his employer:
 > ([Letter 7]({{ '/documents/oe1bu9454/7/' | relative_url }}))
 
 In December 1815, back at Blizanów and recovering from an illness, Triebenfeld wrote that a
-daughter had died, and that Barbe, the friend in Vienna who had
+daughter had died four days after giving birth, and that Barbe, the friend in Vienna who had
 lent him money there, had also died. He wrote, he said, so that Hohenlohe-Ingelfingen might
 know [that he was still alive and where he was]({{ '/documents/oe1bu9454/297/' | relative_url }}).
 His last letter is dated 31 January 1816. A note on Zerboni's report, written in April 1816,
