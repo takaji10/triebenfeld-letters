@@ -13,10 +13,11 @@
 #   event can be added in English alone and translated later.
 #
 # "Seidel 2018" = Ulrich Seidel, "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen".
-# Facts are cited; the book's text is not reproduced here. Seidel is a source for
-# Hohenlohe-Ingelfingen's own life and career only, never for the South Prussian
-# estates: he covers them briefly and makes assumptions the documents correct
-# (editor, 2026-10-03). Estate events rest on the documents here.
+# Facts are cited; the book's text is not reproduced here. Seidel is a secondary
+# source: the documents in this edition come first, and where they disagree they
+# decide. He covers the South Prussian estates only briefly and makes assumptions
+# the documents correct, so a fact from him alone is used with care and cited to
+# him (editor, 2026-10-03).
 #
 #   refs  : optional, the documents the event rests on, as "<holding>/<number>";
 #           shown as links under the event.
