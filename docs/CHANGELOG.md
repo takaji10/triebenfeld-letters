@@ -1338,6 +1338,14 @@ sue Oppenheimer and Wolff over 72,000 Rthl; to collect the arrears; and to
 appear at the Diet in Warsaw, where every landowner had to appear in person or
 lose his estates. The era page writes Konotop, not Kontop.
 
+- **Timeline and era page: who was not paying, and what** (editor, 2026-10-03). The
+  entries for 1 January 1811 and July 1811, and the matching paragraphs of the Hohenlohe-
+  Ingelfingen years page, now say that the colonists holding farms in hereditary lease on the
+  Zagórów estates paid none of their yearly rent ("interest"), that the tenants of Oleśnica,
+  Kopojno and Drzewce paid no lease money, and what still fell due (letter 212). The remission
+  of a third of the rent is given as Triebenfeld's proposal (letter 215, a Pro Memoria), and the
+  eviction as the course he put forward if the estates were to be kept (letter 216).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

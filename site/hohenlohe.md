@@ -308,16 +308,20 @@ aside the commission's order
 
 By January 1811 Triebenfeld was, on his own count,
 [conducting thirty-one lawsuits at once]({{ '/documents/oe1bu9454/212/' | relative_url }}) and
-recovering almost nothing. He wrote that letter from a peasant's house at Świątniki, while
+recovering almost nothing of what was owed to Hohenlohe-Ingelfingen: the colonists paid none
+of their yearly rent, and the tenants of Oleśnica, Kopojno and Drzewce none of their lease
+money, while taxes and interest on the estates' debts still fell due. He wrote that letter from a peasant's house at Świątniki, while
 recovering from a serious illness.
 
-The settlers could not pay. Grain prices had fallen, and Triebenfeld's officials advised
-remitting part of the arrears. In 1811 a third of the year's interest was
+The colonists on the Zagórów estates, who held their farms in hereditary lease, could not
+pay their yearly rent (the "interest" of their contracts). Grain prices had fallen, and
+Triebenfeld's officials advised remitting part of the arrears. In 1811 Triebenfeld proposed
+that a third of the year's rent be
 [remitted as an act of princely grace]({{ '/documents/oe1bu9454/215/' | relative_url }}),
 because otherwise, he wrote, "the people out of obstinacy give nothing at all". In the same
 year, weighing whether Hohenlohe-Ingelfingen should keep the estates at all, he proposed the
-opposite: to have the settlers
-["for the most part driven out by judicial decrees"]({{ '/documents/oe1bu9454/216/' | relative_url }})
+opposite: to have most of the colonists
+[removed by court judgments]({{ '/documents/oe1bu9454/216/' | relative_url }})
 and the land turned back into demesne farms.
 
 The settlers in arrears had signed away any claim to relief in their contracts. They are

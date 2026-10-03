@@ -320,12 +320,15 @@ Departement, erklärte sich für nicht befugt, die Anordnung der Kommission aufz
 
 Im Januar 1811 führte Triebenfeld nach eigener Zählung
 [einunddreißig Prozesse zugleich]({{ '/documents/oe1bu9454/212/' | relative_url }}) und brachte
-fast nichts ein. Er schrieb diesen Brief aus einer Bauernhütte in Świątniki, während er sich
+fast nichts von dem ein, was man Hohenlohe-Ingelfingen schuldete: Die Kolonisten zahlten
+keinen Jahreszins, die Pächter von Oleśnica, Kopojno und Drzewce keine Pacht, während Steuern
+und Zinsen auf die Schulden der Güter weiter fällig wurden. Er schrieb diesen Brief aus einer Bauernhütte in Świątniki, während er sich
 von einer schweren Krankheit erholte.
 
-Die Siedler konnten nicht zahlen. Die Getreidepreise waren gefallen, und Triebenfelds Beamte
-rieten, einen Teil der Rückstände zu erlassen. 1811 wurde ein Drittel der Jahreszinsen
-[als fürstliche Gnade erlassen]({{ '/documents/oe1bu9454/215/' | relative_url }}), weil sonst,
+Die Kolonisten auf den Gütern von Zagórów, die ihre Höfe in Erbpacht hatten, konnten ihren
+Jahreszins nicht zahlen. Die Getreidepreise waren gefallen, und Triebenfelds Beamte
+rieten, einen Teil der Rückstände zu erlassen. 1811 schlug Triebenfeld vor, ein Drittel der
+Jahreszinsen [als fürstliche Gnade zu erlassen]({{ '/documents/oe1bu9454/215/' | relative_url }}), weil sonst,
 wie er schrieb, „die Leute aus halsstarrigkeit gar nichts geben“. Im selben Jahr, als er abwog, ob
 Hohenlohe-Ingelfingen die Güter überhaupt behalten solle, schlug er das Gegenteil vor: die
 Hauländer oder Kolonisten
