@@ -1298,7 +1298,7 @@ The Szetlewek sale explained (editor, 2026-10-03). "Most of the price goes to
 the man who held the farm on pledge" said too little. The timeline and the
 era page now say, from the contract (14526, 25), that 8,333 Rthl of the
 12,333 went to Ignatz von Radzinski, who had lent money on the farm and held it as
-security until he was repaid, and was to leave it on payment.
+security until he was repaid, and was to vacate it once paid.
 
 ## Deliverables produced
 
