@@ -1346,6 +1346,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   of a third of the rent is given as Triebenfeld's proposal (letter 215, a Pro Memoria), and the
   eviction as the course he put forward if the estates were to be kept (letter 216).
 
+- **Timeline: Konotop shortened; the 1811 news from Sanitz retitled** (editor, 2026-10-03).
+  The Konotop entry gives only the main charges (the full list stays on the era page). The
+  entry of 15 August 1811 no longer reads as if the estates were only then to go to Michalina
+  Dąbska (Prusimska): they were handed over in 1807, and letter 217 reports how that came about
+  (her petition to Napoleon, passed on to the Polish governing commission, which ordered it).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
