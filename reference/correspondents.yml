@@ -1,0 +1,230 @@
+# Who wrote each document and to whom, as the reader sees it (editor, 2026-10-03).
+#
+# The holdings record a sender and a recipient as the source names them
+# ("Hardenberg", "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+# "Ministerium der auswärtigen Angelegenheiten"). Each such form is a key here,
+# and the site shows instead:
+#
+#   name_en, name_de    the name in each language, in the lists (Browse, search)
+#   title_en, title_de  who the person was at the time of these documents; the
+#                       document header shows "name, title"
+#
+# A title is the office or position held at the date of the documents the name
+# appears on, from the documents first, then from the People page biographies
+# (reference/people_bios.yml). A form not listed here is shown as it stands,
+# and build_site_data.py says so, so that a new holding's correspondents are
+# added here.
+
+"Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen":
+  name_en: "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen"
+  name_de: "Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen"
+"von Triebenfeld":
+  name_en: "Peter Friedrich von Triebenfeld"
+  name_de: "Peter Friedrich von Triebenfeld"
+  title_en: "Councillor of War and Forests, Hohenlohe-Ingelfingen's agent"
+  title_de: "Kriegs- und Forstrat, Bevollmächtigter Hohenlohe-Ingelfingens"
+"Charlotte von Triebenfeld":
+  name_en: "Charlotte von Triebenfeld"
+  name_de: "Charlotte von Triebenfeld"
+  title_en: "Triebenfeld's daughter"
+  title_de: "Triebenfelds Tochter"
+"König Friedrich Wilhelm III. von Preußen":
+  name_en: "Friedrich Wilhelm III, King of Prussia"
+  name_de: "König Friedrich Wilhelm III. von Preußen"
+"Friedrich Wilhelm III, King of Prussia":
+  name_en: "Friedrich Wilhelm III, King of Prussia"
+  name_de: "König Friedrich Wilhelm III. von Preußen"
+"Kaiser Alexander I. von Russland":
+  name_en: "Alexander I, Emperor of Russia"
+  name_de: "Kaiser Alexander I. von Russland"
+"Ministerium der auswärtigen Angelegenheiten":
+  name_en: "Prussian Ministry of Foreign Affairs"
+  name_de: "Preußisches Ministerium der auswärtigen Angelegenheiten"
+"Ober Landes Gericht von Schlesien (Fülleborn)":
+  name_en: "Superior Court of Silesia"
+  name_de: "Oberlandesgericht von Schlesien"
+  title_en: "signed Fülleborn"
+  title_de: "gez. Fülleborn"
+
+# Hohenlohe-Ingelfingen's household and agents
+"Hahn":
+  name_en: "Hahn"
+  name_de: "Hahn"
+  title_en: "court councillor in Hohenlohe-Ingelfingen's service"
+  title_de: "Hofrat im Dienst Hohenlohe-Ingelfingens"
+"Glenck":
+  name_en: "Johann Wilhelm Glenck"
+  name_de: "Johann Wilhelm Glenck"
+  title_en: "Hohenlohe-Ingelfingen's building and economy councillor"
+  title_de: "Bau- und Ökonomierat Hohenlohe-Ingelfingens"
+"Amelang":
+  name_en: "Karl Ludwig Amelang"
+  name_de: "Karl Ludwig Amelang"
+  title_en: "lawyer, Hohenlohe-Ingelfingen's agent in Berlin"
+  title_de: "Rechtsanwalt, Hohenlohe-Ingelfingens Bevollmächtigter in Berlin"
+"Eysenhardt":
+  name_en: "Eysenhardt"
+  name_de: "Eysenhardt"
+  title_en: "Hohenlohe-Ingelfingen's agent in Berlin"
+  title_de: "Hohenlohe-Ingelfingens Agent in Berlin"
+"Michaelis":
+  name_en: "Michaelis"
+  name_de: "Michaelis"
+  title_en: "court fiscal, agent in Berlin"
+  title_de: "Hoffiskal, Agent in Berlin"
+"Bally":
+  name_en: "Bally"
+  name_de: "Bally"
+  title_en: "of Hohenlohe-Ingelfingen's household at Sławięcice"
+  title_de: "aus dem Haushalt Hohenlohe-Ingelfingens in Sławięcice"
+"Hawich":
+  name_en: "Hawich"
+  name_de: "Hawich"
+  title_en: "justiciary of the estates' patrimonial court"
+  title_de: "Justitiar des Patrimonialgerichts der Güter"
+"Eberhard":
+  name_en: "Eberhard"
+  name_de: "Eberhard"
+  title_en: "justice commissioner at Brzeg"
+  title_de: "Justizkommissar in Brzeg"
+"Grevenitz":
+  name_en: "Grevenitz"
+  name_de: "Grevenitz"
+  title_en: "councillor of the Kammergericht, Berlin"
+  title_de: "Kammergerichtsrat in Berlin"
+
+# The Prussian court and government
+"Hardenberg":
+  name_en: "Karl August von Hardenberg"
+  name_de: "Karl August von Hardenberg"
+  title_en: "Prussian State Chancellor"
+  title_de: "preußischer Staatskanzler"
+"Beyme":
+  name_en: "Karl Friedrich Beyme"
+  name_de: "Karl Friedrich Beyme"
+  title_en: "cabinet councillor to the King"
+  title_de: "Kabinettsrat des Königs"
+"Köckritz":
+  name_en: "Colonel von Köckritz"
+  name_de: "Oberst von Köckritz"
+  title_en: "the King's adjutant-general"
+  title_de: "Generaladjutant des Königs"
+"Zastrow":
+  name_en: "Friedrich Wilhelm von Zastrow"
+  name_de: "Friedrich Wilhelm von Zastrow"
+  title_en: "adjutant to the King"
+  title_de: "Adjutant des Königs"
+"Voss":
+  name_en: "Otto von Voss"
+  name_de: "Otto von Voss"
+  title_en: "Minister of State for South Prussia"
+  title_de: "Staatsminister für Südpreußen"
+"Kircheisen":
+  name_en: "Friedrich Leopold von Kircheisen"
+  name_de: "Friedrich Leopold von Kircheisen"
+  title_en: "Prussian Minister of Justice"
+  title_de: "preußischer Justizminister"
+"Stoewersand":
+  name_en: "Stoewersand"
+  name_de: "Stoewersand"
+  title_en: "for the Kammergericht, Berlin"
+  title_de: "für das Kammergericht in Berlin"
+"Humboldt":
+  name_en: "Wilhelm von Humboldt"
+  name_de: "Wilhelm von Humboldt"
+  title_en: "Prussian plenipotentiary at the Congress of Vienna"
+  title_de: "preußischer Bevollmächtigter auf dem Wiener Kongress"
+"Beguelin":
+  name_en: "Heinrich von Beguelin"
+  name_de: "Heinrich von Beguelin"
+  title_en: "of Hardenberg's chancery at Vienna"
+  title_de: "in Hardenbergs Kanzlei in Wien"
+"Albrecht":
+  name_en: "Daniel Ludwig Albrecht"
+  name_de: "Daniel Ludwig Albrecht"
+  title_en: "cabinet councillor"
+  title_de: "Kabinettsrat"
+"Stein":
+  name_en: "Baron vom Stein"
+  name_de: "Freiherr vom Stein"
+  title_en: "former Prussian minister, adviser to the Tsar"
+  title_de: "ehemaliger preußischer Minister, Berater des Zaren"
+"Zerboni":
+  name_en: "Joseph Zerboni di Sposetti"
+  name_de: "Joseph Zerboni di Sposetti"
+  title_en: "Chief President at Poznań"
+  title_de: "Oberpräsident in Poznań"
+"Balan":
+  name_en: "Balan"
+  name_de: "Balan"
+  title_en: "counsellor of legation, Prussian foreign ministry"
+  title_de: "Legationsrat im preußischen Außenministerium"
+"Ancillon":
+  name_en: "Johann Peter Friedrich Ancillon"
+  name_de: "Johann Peter Friedrich Ancillon"
+  title_en: "of the Prussian foreign ministry"
+  title_de: "im preußischen Außenministerium"
+"Schöler":
+  name_en: "General von Schöler"
+  name_de: "General von Schöler"
+  title_en: "Prussian envoy at St Petersburg"
+  title_de: "preußischer Gesandter in St. Petersburg"
+"Schuckmann":
+  name_en: "Friedrich von Schuckmann"
+  name_de: "Friedrich von Schuckmann"
+  title_en: "Prussian Minister of the Interior"
+  title_de: "preußischer Innenminister"
+"Bever":
+  name_en: "Bever"
+  name_de: "Bever"
+  title_en: "registry official, Berlin"
+  title_de: "Registrator in Berlin"
+
+# Others
+"von Brehmer":
+  name_en: "Widow von Brehmer"
+  name_de: "Witwe von Brehmer"
+  title_en: "widow of Colonel von Brehmer, a creditor"
+  title_de: "Witwe des Obersten von Brehmer, Gläubigerin"
+"von Sanitz":
+  name_en: "Colonel von Sanitz"
+  name_de: "Oberst von Sanitz"
+  title_en: "another of the officers granted estates in 1796"
+  title_de: "einer der 1796 mit Gütern beschenkten Offiziere"
+"Weigel":
+  name_en: "Carl Ferdinand Weigel"
+  name_de: "Carl Ferdinand Weigel"
+  title_en: "banker at Wrocław, a creditor"
+  title_de: "Bankier in Wrocław, Gläubiger"
+"Brzechffa":
+  name_en: "Brzechffa"
+  name_de: "Brzechffa"
+  title_en: "sub-prefect of the Konin district, Duchy of Warsaw"
+  title_de: "Unterpräfekt des Kreises Konin, Herzogtum Warschau"
+"Thiel":
+  name_en: "Thiel"
+  name_de: "Thiel"
+  title_en: "district councillor"
+  title_de: "Kreisrat"
+"Zajączek":
+  name_en: "General Józef Zajączek"
+  name_de: "General Józef Zajączek"
+  title_en: "viceroy of the Kingdom of Poland"
+  title_de: "Statthalter des Königreichs Polen"
+"Alopeus":
+  name_en: "David Alopeus"
+  name_de: "David Alopeus"
+  title_en: "Russian envoy at Berlin"
+  title_de: "russischer Gesandter in Berlin"
+
+# Not identified: shown as the page has them.
+"Frig[?]":
+  name_en: "Frig[?]"
+  name_de: "Frig[?]"
+  title_en: "not identified"
+  title_de: "nicht identifiziert"
+"Bisenti[?]":
+  name_en: "Bisenti[?]"
+  name_de: "Bisenti[?]"
+  title_en: "not identified"
+  title_de: "nicht identifiziert"

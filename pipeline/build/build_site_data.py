@@ -231,6 +231,34 @@ def yaml_str(s):
     return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
+_CORR = None
+_CORR_MISSING = set()
+
+
+def correspondent(raw, lang='en', full=True):
+    """How a recorded sender or recipient is shown (reference/correspondents.yml).
+
+    full: "name, title", for the document header; otherwise the name alone, for
+    the lists. A form with no entry is shown as it stands, and reported once.
+    """
+    global _CORR
+    if not raw:
+        return ''
+    if _CORR is None:
+        import yaml as _yaml
+        p = os.path.join(ROOT, 'reference', 'correspondents.yml')
+        _CORR = (_yaml.safe_load(open(p, encoding='utf-8')) or {}) if os.path.exists(p) else {}
+    e = _CORR.get(raw)
+    if not e:
+        if raw not in _CORR_MISSING:
+            _CORR_MISSING.add(raw)
+            print(f'  correspondent not in reference/correspondents.yml: {raw!r}')
+        return raw
+    name = e.get('name_' + lang) or e.get('name_en') or raw
+    title = e.get('title_' + lang) or ''
+    return f'{name}, {title}' if full and title else name
+
+
 def yaml_opt(s):
     """
     Optional scalar: empty becomes a real YAML null.
@@ -373,8 +401,10 @@ def main():
         fm.append(f'date_basis_de: {yaml_opt(note_de(basis))}')
         fm.append(f'year: {r["year"] if r["year"] else "null"}')
         fm.append(f'place: {yaml_opt(r["_place"])}')
-        fm.append(f'sender: {yaml_opt(r.get("sender", ""))}')
-        fm.append(f'recipient: {yaml_opt(r.get("recipient", ""))}')
+        fm.append(f'sender: {yaml_opt(correspondent(r.get("sender", "")))}')
+        fm.append(f'sender_de: {yaml_opt(correspondent(r.get("sender", ""), "de"))}')
+        fm.append(f'recipient: {yaml_opt(correspondent(r.get("recipient", "")))}')
+        fm.append(f'recipient_de: {yaml_opt(correspondent(r.get("recipient", ""), "de"))}')
         fm.append(f'parent_letter: {yaml_opt(r["parent_letter"])}')
         # The parent's own kind, so an enclosure reads "part of contract 18"
         # rather than "part of letter 18" over a deed.
@@ -806,8 +836,10 @@ def main():
             'parent': r['parent_letter'],
             'type': r['doc_type'],
             'n': r['n_lines'],
-            'from': r.get('sender', ''),
-            'to': r.get('recipient', ''),
+            'from': correspondent(r.get('sender', ''), 'en', False),
+            'to': correspondent(r.get('recipient', ''), 'en', False),
+            'from_de': correspondent(r.get('sender', ''), 'de', False),
+            'to_de': correspondent(r.get('recipient', ''), 'de', False),
             'summary': summaries.get(r['pad'], ''),
             'summary_de': summaries_de.get(r['pad'], ''),
             # glossary entries found in the document: /documents/?term=<id>

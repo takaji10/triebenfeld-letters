@@ -66,9 +66,9 @@ layout: default
     {%- endif %}
     {% if page.sender or page.recipient %}
       <p class="correspondents">
-        {% if page.sender %}<span class="c-from">{{ page.sender }}</span>{% endif %}
+        {% if page.sender %}<span class="c-from" data-en="{{ page.sender | escape }}" data-de="{{ page.sender_de | default: page.sender | escape }}">{% if lang == 'de' and page.sender_de %}{{ page.sender_de }}{% else %}{{ page.sender }}{% endif %}</span>{% endif %}
         {% if page.sender and page.recipient %}<span class="c-arrow" aria-label="to">&rarr;</span>{% endif %}
-        {% if page.recipient %}<span class="c-to">{{ page.recipient }}</span>{% endif %}
+        {% if page.recipient %}<span class="c-to" data-en="{{ page.recipient | escape }}" data-de="{{ page.recipient_de | default: page.recipient | escape }}">{% if lang == 'de' and page.recipient_de %}{{ page.recipient_de }}{% else %}{{ page.recipient }}{% endif %}</span>{% endif %}
       </p>
     {% endif %}
 
@@ -128,9 +128,9 @@ layout: default
       {% if page.sender or page.recipient %}
         <dt data-i18n="correspondents">{{ t.correspondents }}</dt>
         <dd>
-          {% if page.sender %}{{ page.sender }}{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
+          {% if page.sender %}<span data-en="{{ page.sender | escape }}" data-de="{{ page.sender_de | default: page.sender | escape }}">{% if lang == 'de' and page.sender_de %}{{ page.sender_de }}{% else %}{{ page.sender }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
           <br><span class="muted" data-i18n="correspondents_to">{{ t.correspondents_to }}</span>
-          {% if page.recipient %}{{ page.recipient }}{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
+          {% if page.recipient %}<span data-en="{{ page.recipient | escape }}" data-de="{{ page.recipient_de | default: page.recipient | escape }}">{% if lang == 'de' and page.recipient_de %}{{ page.recipient_de }}{% else %}{{ page.recipient }}{% endif %}</span>{% else %}<span class="muted" data-i18n="unattributed">{{ t.unattributed }}</span>{% endif %}
           <br><span class="muted" data-i18n="correspondents_note">{{ t.correspondents_note }}</span>
         </dd>
       {% endif %}

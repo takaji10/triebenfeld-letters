@@ -1230,6 +1230,18 @@ a fact from him alone is cited to him (his separation, the house arrest, Jena,
 Prenzlau, his death). The rule is in HOHENLOHE_ERA_PLAN.md and the timeline's
 header.
 
+Correspondents named in full, with their titles (editor, 2026-10-03). The
+From and To line in a document's header showed the names as the holdings
+record them, some in German ("Friedrich Ludwig, Fürst zu
+Hohenlohe-Ingelfingen", "Ministerium der auswärtigen Angelegenheiten") and
+most as a bare surname ("Hardenberg"). A new reference/correspondents.yml
+gives each of the 43 recorded forms a name and the person's title at the time
+of the documents, in English and German; the header now reads, for example,
+"Karl August von Hardenberg, Prussian State Chancellor -> Prince Friedrich
+Ludwig of Hohenlohe-Ingelfingen". The lists on Browse and in search show the
+name alone, in the page's language. A recorded form with no entry is shown as
+it stands and reported by build_site_data.py.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -137,8 +137,9 @@
 
       var corr = '';
       if (it.from || it.to) {
-        corr = '<p class="r-corr">' + esc(it.from || '?') +
-               ' <span class="c-arrow">&rarr;</span> ' + esc(it.to || '?') + '</p>';
+        var de = LANG === 'de';
+        corr = '<p class="r-corr">' + esc((de && it.from_de) || it.from || '?') +
+               ' <span class="c-arrow">&rarr;</span> ' + esc((de && it.to_de) || it.to || '?') + '</p>';
       }
 
       // With a query, show the matching passage - that is what the reader is
