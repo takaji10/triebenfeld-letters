@@ -137,7 +137,7 @@ und das Übrige in Erbpacht auszutun. Der Erbpächter zahlte beim Antritt ein Ei
 danach jedes Jahr einen festen Zins, und besaß das Land erblich.
 
 Zuerst gingen die entfernten Güter. Glenck verkaufte das Vorwerk Szetlewek an den Müller
-Samuel Lucke für 12.333 Reichstaler, von denen 8.333 an von Radzinski gingen, der Geld auf das
+Samuel Lucke für 12.333 Reichstaler, von denen 8.333 an Ignatz von Radzinski gingen, der Geld auf das
 Vorwerk geliehen und es bis zur Rückzahlung als Pfand innehatte
 ([Vertrag]({{ '/documents/oe1bu14526/25/' | relative_url }})). Kamionna und Kolno wurden 1804
 für 142.000 Reichstaler an George Conrad Leixner verkauft, einen Beamten der Bank in Frankfurt
