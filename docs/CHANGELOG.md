@@ -1154,6 +1154,24 @@ Mięczynsky" in the French letter of 1815 is written Madame Miączyńska, so a
 new holding is standardised as well. The live site still showed "M. de
 Mięczynsky" in 12765, 6 because the names work had not yet been published.
 
+Catchwords said once (editor, 2026-10-03). Every page break in every holding
+was read for a catchword the reading text or the English still said twice
+("zu || zu", "Salomon Natan || Nathan junior", "§. 1. || § 1."). The line-break
+pass had dropped those that stand on a line of their own and open the next
+page; it could not see one at the end of a full line, one the transcription
+misread, or a repeated section number. 59 more are now recorded in a new
+`units/<slug>/catchwords.yml` (Oe 1 Bü 14526: 41, Oe 1 Bü 9454: 11, the Erbet
+record 53/71/0/-/57: 5, Oe 1 Bü 14525: 2), which `corpus_pages.py` reads with the line-break
+decisions: the reading text drops the whole line or only the words named, and
+the transcription keeps them. Each entry names its line by number, text and
+the next page's first line, so a shifted corpus is found again or stops the
+build. The English followed in 39 corrections in english_corrections.yml
+(two of them join a word the page break had split: voluntarily, misfortune);
+the translator reads the reading text, so a new translation will not need
+them. The repeats that the sentence needs stay ("mit Kolno. || Kolno
+grentzet", 14525, 13). english_forms.py no longer applies a correction twice
+where the words it looks for are part of its own replacement.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

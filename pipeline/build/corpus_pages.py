@@ -44,14 +44,82 @@ WORD = re.compile(r'[A-Za-zÀ-ÿĄąĘęŁłŃńÓóŚśŹźŻżſ]+')
 
 
 def load_decisions(path=None):
-    """(letter_id, line_no) -> decision. Missing file means 'join nothing'."""
+    """(letter_id, line_no) -> decision. Missing file means 'join nothing'.
+
+    The catchwords recorded by hand in catchwords.yml, beside the decisions
+    file, are merged in and outrank it (load_catchwords).
+    """
     out = {}
     if not path or not os.path.isfile(path):
         return out
     with open(path, encoding='utf-8-sig', newline='') as f:
         for row in csv.DictReader(f):
             out[(row['letter'], int(row['line']))] = row['decision'].strip()
+    out.update(load_catchwords(os.path.dirname(path)))
     return out
+
+
+def load_catchwords(unit_dir):
+    """Catchwords the line-break pass cannot see, from units/<slug>/catchwords.yml.
+
+    resolve_linebreaks.py finds a catchword where it stands on a line of its
+    own and opens the next page's first word, or hangs off a wrap mark. It
+    cannot find one written at the end of a full line ("... vorher zu hören,
+    und || und über alles"), one the transcription misread ("Natan || Nathan",
+    "Puttschafften || Pettschafte"), or a section number repeated overleaf
+    ("§. 1. || § 1."). Those are listed here, so the reading text does not say
+    them twice. The transcription keeps them: they are on the page.
+
+    Each entry names the line by its number, its text and the text of the next
+    line (the first of the next page), so a shifted corpus is caught rather
+    than misapplied: if the numbered line no longer reads `text`, the pair
+    (text, next) is looked up instead, and if that is not unique the build
+    stops. `drop` is `line` (the whole line goes: decision 'catchword') or the
+    words at the end of the line that go ('catchword:<words>').
+    """
+    path = os.path.join(unit_dir, 'catchwords.yml')
+    corpus = os.path.join(unit_dir, 'corpus.txt')
+    if not os.path.isfile(path) or not os.path.isfile(corpus):
+        return {}
+    import yaml
+    entries = yaml.safe_load(open(path, encoding='utf-8')) or []
+    lines = [l.rstrip() for l in open(corpus, encoding='utf-8').read().split('\n')]
+
+    def following(i):                     # i is 0-based
+        for t in lines[i + 1:]:
+            if t.strip() and not PAGE_TAG.match(t.strip()):
+                return t
+        return None
+
+    out = {}
+    for e in entries:
+        text, nxt, ln = e['text'].rstrip(), e['next'].rstrip(), int(e['line'])
+        if not (0 < ln <= len(lines) and lines[ln - 1] == text
+                and following(ln - 1) == nxt):
+            hits = [i + 1 for i, t in enumerate(lines)
+                    if t == text and following(i) == nxt]
+            if len(hits) != 1:
+                sys.exit(f'catchwords.yml: letter {e["letter"]}, line {ln} '
+                         f'{text!r} not found ({len(hits)} matches); '
+                         f'update the entry')
+            ln = hits[0]
+        drop = str(e['drop'])
+        if drop != 'line':
+            body = text[:-1].rstrip() if text.endswith('¬') else text
+            if not body.endswith(drop):
+                sys.exit(f'catchwords.yml: line {ln} {text!r} does not end '
+                         f'with {drop!r}')
+        out[(str(e['letter']), ln)] = ('catchword' if drop == 'line'
+                                       else 'catchword:' + drop)
+    return out
+
+
+def drop_catchword_words(s, decision):
+    """The line `s` (mark already removed) without the words a
+    'catchword:<words>' decision names."""
+    words = decision.split(':', 1)[1]
+    assert s.endswith(words), (s, words)
+    return s[:-len(words)].rstrip()
 
 
 PAGE_TAG = re.compile(r'^\[PAGE ([^\]\s][^\]]*)\]$')
@@ -174,7 +242,9 @@ def page_transcription(page, letter_id, decisions):
         mark = _wrap_mark(s)
         decision = decisions.get((letter_id, lineno), '')
         if mark == '¬':
-            if decision == 'join':
+            # A catchword.yml entry on a marked line (best¬ / möglichste)
+            # cuts a word that really is broken there: the hyphen stays.
+            if decision == 'join' or decision.startswith('catchword:'):
                 s = s[:-1] + '-'
             else:                      # spurious mark, or a catchword
                 s = s[:-1].rstrip()
@@ -214,7 +284,11 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
         rows = []
         for lineno, text in page:
             s = text.strip()
-            if decisions.get((letter_id, lineno), '') == 'catchword':
+            dec = decisions.get((letter_id, lineno), '')
+            if dec.startswith('catchword:'):
+                s = drop_catchword_words(s[:-1].rstrip() if _wrap_mark(text) == '¬'
+                                         else s, dec)
+            elif dec == 'catchword':
                 if not _wrap_mark(text):
                     continue
                 s = s[:-1].rstrip()
@@ -236,7 +310,13 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
         mark = _wrap_mark(text)
         decision = decisions.get((letter_id, lineno), '')
 
-        if mark and decision == 'join':
+        if decision.startswith('catchword:'):
+            # A catchword recorded in catchwords.yml at the end of a line that
+            # also carries text: only the words it names go.
+            if mark == '¬':
+                s = s[:-1].rstrip()
+            s = drop_catchword_words(s, decision)
+        elif mark and decision == 'join':
             s = s[:-1].rstrip() if mark == '¬' else s[:-1]
         elif mark and decision == 'catchword':
             # The scribe's note of the next page's first word - a navigation

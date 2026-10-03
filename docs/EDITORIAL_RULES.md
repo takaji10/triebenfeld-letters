@@ -114,6 +114,15 @@ than where it sits.
   sentence, a page's last line counts too unless it is a catchword, and a run
   of short lines breaks on its own only where both hold two words or fewer
   (`paragraphs:` in its `unit.yml`).
+- **Catchwords** (editor, 2026-10-03): the word a scribe wrote at the foot of
+  a page to announce the next stays in the transcription, because it is on the
+  page, and is said once in the reading text and the English. The line-break
+  pass drops those that stand on a line of their own; the rest (one at the end
+  of a full line, one the transcription misread, a section number repeated
+  overleaf) are listed in `units/<slug>/catchwords.yml`, and the English is
+  kept in step by `reference/english_corrections.yml`. A word repeated across
+  a page break that the sentence needs ("mit Kolno. || Kolno grentzet") is
+  not a catchword and stays.
 - **Section numbering runs in sequence.** A number that breaks the run is a
   machine misreading of the numeral, not a scribe's lapse.
 - Some German documents carry a few lines of **Polish**, and they are source

@@ -81,6 +81,10 @@ def apply_page(pad, page, text, counts=None, problems=None):
     for c in corrections():
         if c['pad'] != pad or str(c['page']) != str(page):
             continue
+        # Already applied: a find inside its own replacement ("untarily" ->
+        # "voluntarily") would otherwise apply again at every run.
+        if c['find'] in c['replace'] and c['replace'] in text:
+            continue
         n = text.count(c['find'])
         if n == 1:
             text = text.replace(c['find'], c['replace'])
@@ -118,7 +122,8 @@ def main():
                            if k == 'en' else apply(seg[k], counts))
                     if new != seg[k]:
                         if len(samples) < 12 and k == 'en':
-                            i = next(i for i, (x, y) in enumerate(zip(seg[k], new)) if x != y)
+                            i = next((i for i, (x, y) in enumerate(zip(seg[k], new)) if x != y),
+                                     min(len(seg[k]), len(new)))
                             samples.append(f'{fn[:-4]}: ...{seg[k][max(0, i-30):i+25]!r} -> {new[max(0, i-30):i+30]!r}')
                         seg[k] = new
                         changed = True

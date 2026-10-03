@@ -31,3 +31,46 @@ corrections:
 # Names (2026-10-03).
 - {pad: oe1bu9454-191, page: 7, find: "The peasants of Stoki", replace: "The peasants of Skokum", why: "die Skokumer Bauren: Skokum, not Stoki, a different village"}
 - {pad: iiihamdaiiinr12765-006, page: 1, find: "in favour of Michalina z Prusimskich Dąbska, later Miączyńska", replace: "in favour of Madame Miączyńska", why: "en faveur de Madame Mięczynsky: the catalogue entry for her had been printed in the sentence"}
+
+# Catchwords (editor, 2026-10-03): the word the scribe wrote at the foot of a
+# page to announce the next is not said twice in the English. The reading
+# text drops it by units/<slug>/catchwords.yml or linebreak_decisions.csv.
+- {pad: oe1bu14525-010, page: 3, find: "reprimand.\n\nIn witness", replace: "In witness", why: "Ahndung. at the foot of page 2 and again at the head of page 3: a catchword"}
+- {pad: oe1bu14525-025, page: 4, find: "capital, interest,", replace: "capital,", why: "Zinsen, at the foot of page 4 and again at the head of page 5: a catchword"}
+- {pad: oe1bu9454-078, page: 1, find: "hear me beforehand, and", replace: "hear me beforehand,", why: "und at the foot of page 1 and again at the head of page 2: a catchword"}
+- {pad: oe1bu9454-081, page: 1, find: "I shall therefore, until", replace: "I shall therefore,", why: "bis at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-162, page: 1, find: "issued the order that", replace: "issued the order", why: "daß at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-058, page: 1, find: "and have satisfied", replace: "and have", why: "mich at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-060, page: 2, find: "From that blood-", replace: "From that", why: "Blut at the foot of page 2, then Blut-Igel overleaf: a catchword"}
+- {pad: oe1bu9454-022, page: 1, find: "for 127, which makes", replace: "for 127, which", why: "thut at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-222, page: 1, find: "You then receive from the", replace: "You then receive from", why: "die at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-238, page: 1, find: "yearned for it. I", replace: "yearned for it.", why: "Ich at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-238, page: 2, find: "determination of a", replace: "determination of", why: "einer at the foot of page 2, repeated overleaf: a catchword"}
+- {pad: oe1bu9454-197, page: 2, find: "and gains a good appearance", replace: "gains a good appearance", why: "the translator said und twice across the page break; it is written once"}
+- {pad: oe1bu9454-241, page: 1, find: "I fear only", replace: "I fear", why: "fürchte || nur: the translator said only twice across the page break"}
+- {pad: oe1bu14526-002, page: 6, find: "[uncertain: Frühige].\n\n10.", replace: "[uncertain: Frühige].", why: "10. at the foot of page 6 and again at the head of page 7: a catchword"}
+- {pad: oe1bu14526-003, page: 2, find: "seals executed,", replace: "executed,", why: "Puttschafften at the foot of page 1, Pettschafte overleaf: a catchword"}
+- {pad: oe1bu14526-006, page: 13, find: "in fidem publicam att[ested]", replace: "in fidem publicam", why: "Attirt at the foot of page 13, attestiret overleaf: a catchword"}
+- {pad: oe1bu14526-007, page: 2, find: "one and a half Hufen 45 rtll.", replace: "one and a half Hufen", why: "45 rtll. at the foot of page 2, 45 rt. overleaf: a catchword"}
+- {pad: oe1bu14526-007, page: 7, find: "his successors in possession", replace: "his successors in", why: "Besitz at the foot of page 7, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-008, page: 1, find: "freely and vol[untarily]", replace: "freely and", why: "frey¬ / wil || willig: the catchword wil; the word is freywillig"}
+- {pad: oe1bu14526-008, page: 2, find: "untarily and after", replace: "voluntarily and after", why: "frey¬ / wil || willig: the word is freywillig, given whole here"}
+- {pad: oe1bu14526-008, page: 3, find: "in words fifteen Rthaler", replace: "in words fifteen", why: "Rthaler at the foot of page 3, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-008, page: 8, find: "in cases of mis[fortune]", replace: "in cases of", why: "Un¬ / glüks || glüksfällen: the catchword glüks; the word is Unglüksfällen"}
+- {pad: oe1bu14526-008, page: 9, find: "fortune, whether", replace: "misfortune, whether", why: "Un¬ / glüks || glüksfällen: the word is Unglüksfällen, given whole here"}
+- {pad: oe1bu14526-009, page: 1, find: "Niedźwiecki. Com-", replace: "Niedźwiecki.", why: "Com. at the foot of page 1, Comparenten overleaf: a catchword"}
+- {pad: oe1bu14526-010, page: 6, find: "the levies to", replace: "the levies", why: "an at the foot of page 6, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-010, page: 11, find: "1. the councillor of war and", replace: "1. the", why: "ForstRath at the foot of page 11, repeated overleaf: the English said the title twice"}
+- {pad: oe1bu14526-010, page: 13, find: "lord and mandator. Since", replace: "lord and mandator.", why: "Da at the foot of page 13, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-011, page: 11, find: "have it entered.\n\nFurther", replace: "Further", why: "be at the foot of page 10, berichtigen overleaf: a catchword"}
+- {pad: oe1bu14526-012, page: 3, find: "100 Rthl., written one hundred Rthaler, in", replace: "100 Rthl., written one hundred Rthaler,", why: "in at the foot of page 3, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-013, page: 1, find: "Reichsthaler.\n\n§ IV.", replace: "Reichsthaler.", why: "§. IV. at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-013, page: 2, find: "accounted for.\n\n§ IX.", replace: "accounted for.", why: "§. IX. at the foot of page 2, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-013, page: 3, find: "the said lordship holds always to", replace: "the said lordship holds always", why: "an at the foot of page 3, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-014, page: 4, find: "payment.\n\n§ V.", replace: "payment.", why: "§. V. at the foot of page 4, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-015, page: 2, find: "among themselves in the best possible", replace: "among themselves", why: "best¬ / möglichste || bestmöglichste: the catchword; the next page has the word"}
+- {pad: oe1bu14526-017, page: 1, find: "concluded.\n\n§ 1.", replace: "concluded.", why: "§. 1. at the foot of page 1, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-018, page: 4, find: "as follows.\n\n§ 1.", replace: "as follows.", why: "§ 1. at the foot of page 4, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-018, page: 6, find: "for a\n\n§ 2.", replace: "for a", why: "§ 2. at the foot of page 6, repeated overleaf: a catchword"}
+- {pad: oe1bu14526-018, page: 7, find: "the banker Salomon Nathan", replace: "the banker Salomon", why: "Natan at the foot of page 7, Nathan overleaf: a catchword"}
+- {pad: oe1bu14526-019, page: 13, find: "handing over.\n\n§. 14.", replace: "handing over.", why: "§. 14. at the foot of page 13, repeated overleaf: a catchword"}

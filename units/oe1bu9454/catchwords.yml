@@ -1,0 +1,53 @@
+# Catchwords the line-break pass does not find (editor, 2026-10-03: a
+# catchword stays in the transcription, and is not said twice in the reading
+# text or the English).
+#
+# A catchword is the scribe's note, at the foot of a page, of the word the next
+# page begins with. resolve_linebreaks.py finds those that stand on a line of
+# their own and repeat the next page's opening; these it cannot: a catchword at
+# the end of a full line, one the transcription misread (Natan || Nathan), a
+# section number repeated overleaf.
+#
+#   letter, page  the document and the page whose foot carries it
+#   line, text    the corpus line, by number and exact text
+#   next          the next page's first line, so a shifted corpus is found
+#                 again by text, and an entry that no longer fits stops the build
+#   drop          line: the whole line is the catchword; otherwise the words at
+#                 the end of the line that are (with any wrap mark)
+#
+# Applied by pipeline/build/corpus_pages.py (load_catchwords); the English is
+# kept in step by reference/english_corrections.yml.
+
+- {letter: "22", page: 1, line: 1339, drop: "thut",
+   text: "und noch verlangt das Kammer Gericht 85 und 42 rt. für 127 thut",
+   next: "thut zusammen 259 rt Courant. Empich führt den Oppenheimerschen Prozeß der"}
+- {letter: "58", page: 1, line: 4395, drop: "mich",
+   text: "zur Estaffette nach Königsberg sende. Ich weis und habe mich",
+   next: "mich überzeugt, daß daher jezt auch nichts zu habe, ist, weil die rebellische"}
+- {letter: "60", page: 2, line: 4631, drop: "Blut",
+   text: "nebst alle Produkte wieder frey geben. Von dem Blut",
+   next: "Blut-Igel van der Lahr schickt wir Graevenitz in diesem Augenblick eine Quittung"}
+- {letter: "72a", page: 3, line: 5727, drop: "an",
+   text: "die Güter wieder haben, 40000 rt für den Wald gebe und sich an",
+   next: "anbauen wollen, und wann die Dąbska den Schaden ersezzen und"}
+- {letter: "78", page: 1, line: 6430, drop: "und",
+   text: "gleich zu decidiren, sondern mich vorher zu hören, und",
+   next: "und über alles, was ihm bedenken machen könnte, sich Aus¬"}
+- {letter: "81", page: 1, line: 6639, drop: "bis",
+   text: "schon das vorgemahl gesagt habe, ich werde daher bis",
+   next: "bis zum Eingang Euer durchl. Vollmacht weiter, und"}
+- {letter: "136", page: 11, line: 10047, drop: "zu",
+   text: "weit verpacht, um dadurch die Summa zusammen zu",
+   next: "zu bringen. Ich werde es ihn zwar ans Herz legen, umsomehr"}
+- {letter: "162", page: 1, line: 11444, drop: "daß",
+   text: "machen solle, erlies der Minister den Befehl, daß",
+   next: "daß keiner Kammer, ohne Vorwißen des Gen[eral]. Finanz De¬"}
+- {letter: "222", page: 1, line: 16035, drop: "die",
+   text: "Stössel und Weigel werden befriediget — Sie erhalten den von die",
+   next: "die nachgelaßenen Gelder der verstorbenen Fürsten Sacken, welche"}
+- {letter: "238", page: 1, line: 17326, drop: "Ich",
+   text: "erhielte, Vergebens leider sehnte ich mich längst darnach. Ich",
+   next: "Ich freue mich daraus zu sehen, daß ich nicht ganz aus Dero anderun¬"}
+- {letter: "238", page: 2, line: 17351, drop: "einer",
+   text: "Creditoren kräftig beizurücken, und die Bestimmung einer",
+   next: "einer billigen Competenz vor mich zu begünstigen, es"}

@@ -1,0 +1,143 @@
+# Catchwords the line-break pass does not find (editor, 2026-10-03: a
+# catchword stays in the transcription, and is not said twice in the reading
+# text or the English).
+#
+# A catchword is the scribe's note, at the foot of a page, of the word the next
+# page begins with. resolve_linebreaks.py finds those that stand on a line of
+# their own and repeat the next page's opening; these it cannot: a catchword at
+# the end of a full line, one the transcription misread (Natan || Nathan), a
+# section number repeated overleaf.
+#
+#   letter, page  the document and the page whose foot carries it
+#   line, text    the corpus line, by number and exact text
+#   next          the next page's first line, so a shifted corpus is found
+#                 again by text, and an entry that no longer fits stops the build
+#   drop          line: the whole line is the catchword; otherwise the words at
+#                 the end of the line that are (with any wrap mark)
+#
+# Applied by pipeline/build/corpus_pages.py (load_catchwords); the English is
+# kept in step by reference/english_corrections.yml.
+
+- {letter: "2", page: 4, line: 170, drop: "line",
+   text: "mesfallen",
+   next: "ausfallen, so sind Contrahenten"}
+- {letter: "2", page: 6, line: 230, drop: "line",
+   text: "10.",
+   next: "10."}
+- {letter: "2", page: 7, line: 261, drop: "line",
+   text: "ganziger",
+   next: "gängiger Genehmigung dem"}
+- {letter: "3", page: 1, line: 368, drop: "line",
+   text: "Puttschafften",
+   next: "Pettschafte vollzogene Kaufs Urkunde bekräftiget"}
+- {letter: "6", page: 1, line: 1136, drop: "line",
+   text: "1tens",
+   next: "1. der Herr Krieges und Forst"}
+- {letter: "6", page: 2, line: 1161, drop: "line",
+   text: "und",
+   next: "und in Nichts abzuändern"}
+- {letter: "6", page: 10, line: 1382, drop: "ge",
+   text: "ligen, und haben sich nachge¬",
+   next: "schehenen"}
+- {letter: "6", page: 10, line: 1383, drop: "line",
+   text: "schehenen",
+   next: "geschehener Vorlesung in deutschen"}
+- {letter: "6", page: 13, line: 1474, drop: "line",
+   text: "Attirt",
+   next: "attestiret"}
+- {letter: "7", page: 2, line: 1556, drop: "line",
+   text: "45 rtll.",
+   next: "45 rt. schreibe fünf und Vierzig"}
+- {letter: "7", page: 7, line: 1677, drop: "Besitz",
+   text: "im Besitz",
+   next: "Besitz ist befugt seine Stelle an einen"}
+- {letter: "8", page: 1, line: 1816, drop: "line",
+   text: "wil",
+   next: "willig und wohlbedächtig"}
+- {letter: "8", page: 5, line: 1957, drop: "line",
+   text: "zu",
+   next: "zu leisten"}
+- {letter: "9", page: 1, line: 2551, drop: "line",
+   text: "Com.",
+   next: "Comparenten sind Subscripto"}
+- {letter: "10", page: 6, line: 3083, drop: "line",
+   text: "an",
+   next: "an die Geistlichkeit, Rauch"}
+- {letter: "10", page: 13, line: 3295, drop: "line",
+   text: "Da",
+   next: "Da der Herr Bau Inspec¬"}
+- {letter: "11", page: 9, line: 3690, drop: "be",
+   text: "Ausflüchten be",
+   next: "son¬"}
+- {letter: "11", page: 10, line: 3725, drop: "line",
+   text: "be",
+   next: "berichtigen lassen"}
+- {letter: "12", page: 3, line: 3875, drop: "line",
+   text: "in",
+   next: "in Courant baar"}
+- {letter: "13", page: 1, line: 4212, drop: "line",
+   text: "§. IV.",
+   next: "§. IV."}
+- {letter: "13", page: 2, line: 4247, drop: "line",
+   text: "§. IX.",
+   next: "§. IX."}
+- {letter: "13", page: 3, line: 4281, drop: "line",
+   text: "an",
+   next: "an die neuen Annehmer deßen Sache es bleibt"}
+- {letter: "14", page: 3, line: 4472, drop: "line",
+   text: "ren",
+   next: "renden jährl."}
+- {letter: "14", page: 4, line: 4505, drop: "line",
+   text: "§. V.",
+   next: "S. V."}
+- {letter: "15", page: 2, line: 4840, drop: "best",
+   text: "siebenzig Hufen Magdeburgisch sich unter einander auf die best¬",
+   next: "möglichste"}
+- {letter: "15", page: 2, line: 4841, drop: "line",
+   text: "möglichste",
+   next: "bestmöglichste Art selbst eintheilen ohne daß hierbei die"}
+- {letter: "16", page: 13, line: 5365, drop: "line",
+   text: "in",
+   next: "in welchem Falle denen"}
+- {letter: "17", page: 1, line: 5546, drop: "line",
+   text: "§. 1.",
+   next: "§ 1."}
+- {letter: "18", page: 3, line: 5799, drop: "line",
+   text: "zu",
+   next: "zu Hohenlohe Durchlauchten einen Contract über"}
+- {letter: "18", page: 4, line: 5818, drop: "line",
+   text: "§ 1.",
+   next: "§. 1."}
+- {letter: "18", page: 6, line: 5857, drop: "line",
+   text: "§ 2.",
+   next: "§ 2."}
+- {letter: "18", page: 7, line: 5878, drop: "line",
+   text: "Natan",
+   next: "Nathan junior zu Berlin und 12000 rtl."}
+- {letter: "18", page: 19, line: 6124, drop: "line",
+   text: "co",
+   next: "co gesendet."}
+- {letter: "18", page: 24, line: 6222, drop: "line",
+   text: "der",
+   next: "der deutschen Sprache nicht ganz kundig sind, die"}
+- {letter: "18", page: 26, line: 6264, drop: "line",
+   text: "den",
+   next: "den Herrn Fürsten Hohenlohe Ingelfingen reprae¬"}
+- {letter: "18", page: 27, line: 6283, drop: "line",
+   text: "der",
+   next: "der Dieten und Reisekosten des Ober-Amt¬"}
+- {letter: "19", page: 1, line: 6334, drop: "line",
+   text: "und",
+   next: "und Kontopp als höchst Ihren Freund und Beistand"}
+- {letter: "19", page: 3, line: 6396, drop: "line",
+   text: "und",
+   next: "und Brennerei Gerechtigkeit, Ziegel und"}
+- {letter: "19", page: 9, line: 6567, drop: "line",
+   text: "der",
+   next: "der Gerichtsstube und des Gerichtsdieners"}
+- {letter: "19", page: 13, line: 6674, drop: "line",
+   text: "§. 14.",
+   next: "§ 14."}
+- {letter: "27", page: 2, line: 7932, drop: "line",
+   text: "sinnes",
+   next: "seines Abstandes zu thun und"}

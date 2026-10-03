@@ -11,7 +11,8 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from corpus_pages import build_pages, load_decisions, load_set_apart, PAGE_TAG
+from corpus_pages import (build_pages, load_decisions, load_set_apart, PAGE_TAG,
+                          drop_catchword_words)
 import unitlib
 import schema
 import sys
@@ -608,7 +609,16 @@ for r in records:
         dip_lines, exempt = [], False
         for ln, txt in zip(range(p['line_start'], p['line_end'] + 1),
                            p['diplomatic'].split('\n')):
-            if DECISIONS.get((r['letter_id'], ln)) != 'catchword':
+            dec = DECISIONS.get((r['letter_id'], ln), '')
+            if dec.startswith('catchword:'):
+                # catchwords.yml: the named words at the end of the line go,
+                # and we know exactly which, so the page stays in the check.
+                t = txt.rstrip()
+                if t.endswith('¬'):
+                    t = t[:-1].rstrip()
+                dip_lines.append(drop_catchword_words(t, dec))
+                continue
+            if dec != 'catchword':
                 dip_lines.append(txt)
                 continue
             t = txt.rstrip()
@@ -643,7 +653,9 @@ for r in records:
                 continue
             lineno = p['line_start'] + k
             dec = DECISIONS.get((r['letter_id'], lineno), '')
-            expected = (x.rstrip()[:-1] + '-') if dec == 'join' else x.rstrip()[:-1].rstrip()
+            expected = ((x.rstrip()[:-1] + '-')
+                        if dec == 'join' or dec.startswith('catchword:')
+                        else x.rstrip()[:-1].rstrip())
             if not dec or y != expected:
                 bad_trans += 1
                 if bad_trans <= 5:
