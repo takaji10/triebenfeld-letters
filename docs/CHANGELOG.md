@@ -1294,6 +1294,12 @@ archival and chronological navigation, which stays inside that holding: the
 reference, linked to the holding's page on Sources, and the archive
 ("Holding: Oe 1 Bü 9454, Hohenloher Zentralarchiv Neuenstein (HZAN)").
 
+The Szetlewek sale explained (editor, 2026-10-03). "Most of the price goes to
+the man who held the farm on pledge" said too little. The timeline and the
+era page now say, from the contract (14526, 25), that 8,333 Rthl of the
+12,333 went to von Radzinski, who had lent money on the farm and held it as
+security until he was repaid, and was to leave it on payment.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

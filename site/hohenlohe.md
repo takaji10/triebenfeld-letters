@@ -131,7 +131,8 @@ out in hereditary lease. Under such a lease the settler paid a sum to enter, the
 rent every year, and held the land as heritable property.
 
 The outlying estates went first. Glenck sold the farm of Szetlewek to the miller Samuel
-Lucke for 12,333 Rthl, most of it owed to the man who held the estate on pledge
+Lucke for 12,333 Rthl, of which 8,333 went to von Radzinski, who had lent money on the farm
+and held it as security until he was repaid
 ([contract]({{ '/documents/oe1bu14526/25/' | relative_url }})). Kamionna and Kolno were sold
 in 1804 to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for
 142,000 Rthl ([contract]({{ '/documents/oe1bu14526/5/' | relative_url }});
