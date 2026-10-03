@@ -304,10 +304,14 @@ Wert von 800 Reichstalern, und hatte die Exekutoren im Haus.
 > <cite>[Brief 57]({{ '/documents/oe1bu9454/57/' | relative_url }})</cite>
 {: .pull}
 
-Am 7. März 1809 stellte er in Kontop in einer Sitzung dreizehn Vollmachten aus: die
-Sequestration aufzuheben, die Gläubiger Oppenheimer und Wolff wegen 72.000 Reichstalern zu
-verklagen, einen Sequester wegen Betrugs abzusetzen und zu belangen, die Rückstände
-einzutreiben und den Besitz in Warschau zu verteidigen. Der Brief liegt zweimal in der Akte,
+Am 7. März 1809 stellte er in Konotop (Kontop) dem Gutsbeamten Hawich dreizehn Vollmachten
+aus, um im Herzogtum Warschau zu handeln: auf die Entfernung Michalina Dąbskas aus Trąbczyn zu
+klagen; die gerichtliche Verwaltung aufheben zu lassen, die wegen unbezahlter Zinsen über die
+übrigen Güter verhängt war, da der König von Sachsen den Schuldnern drei Jahre Aufschub gewährt
+hatte; Honrichs abzusetzen, der sich zu ihrem Verwalter hatte bestellen lassen und ohne Befugnis
+Land verkauft hatte; die Gläubiger Oppenheimer und Wolff wegen 72.000 Reichstalern zu verklagen;
+die Rückstände einzutreiben; und Hohenlohe-Ingelfingen auf dem Reichstag in Warschau zu vertreten,
+wo jeder Gutsbesitzer nun persönlich erscheinen musste oder seine Güter verlor. Der Brief liegt zweimal in der Akte,
 als [Brief 48]({{ '/documents/oe1bu9454/48/' | relative_url }}) und
 [Brief 302]({{ '/documents/oe1bu9454/302/' | relative_url }}). Hohenlohe-Ingelfingen klagte
 auch auf die Güter selbst; das Tribunal in Kalisz, das Gericht des Herzogtums Warschau für das

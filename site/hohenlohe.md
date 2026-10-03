@@ -291,10 +291,14 @@ worth 800 Reichsthaler, and had bailiffs in his house.
 > <cite>[Letter 57]({{ '/documents/oe1bu9454/57/' | relative_url }})</cite>
 {: .pull}
 
-On 7 March 1809, writing from Kontop, he executed thirteen powers of attorney in one
-sitting: to lift the sequestration, to sue the creditors Oppenheimer and Wolff over 72,000
-Reichsthaler, to dismiss and prosecute a sequestrator for fraud, to collect the arrears, and
-to defend possession at Warsaw. The letter is in the file twice, as
+On 7 March 1809, at Konotop, he gave the estate official Hawich thirteen powers of attorney
+to act in the Duchy of Warsaw: to sue to have Michalina Dąbska removed from Trąbczyn; to have
+the court administration put on the remaining estates for unpaid interest lifted, the King of
+Saxony having granted debtors three years' grace; to remove Honrichs, who had had himself
+appointed its administrator and had sold land without authority; to sue the creditors
+Oppenheimer and Wolff over 72,000 Reichsthaler; to collect the arrears; and to appear for
+Hohenlohe-Ingelfingen at the Diet in Warsaw, where every landowner now had to appear in
+person or lose his estates. The letter is in the file twice, as
 [letter 48]({{ '/documents/oe1bu9454/48/' | relative_url }}) and
 [letter 302]({{ '/documents/oe1bu9454/302/' | relative_url }}).
 Hohenlohe-Ingelfingen also sued for the estates themselves; the tribunal at Kalisz, the

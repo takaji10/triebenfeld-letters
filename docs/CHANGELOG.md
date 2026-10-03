@@ -1326,6 +1326,18 @@ between a day and its ending, and the full stops of German ordinals ("den 5.
 Juny") and of abbreviations ("d.", "Febr.") are correct and stay. No date and
 no English changed.
 
+The Konotop instructions explained (editor, 2026-10-03). The timeline listed
+the thirteen powers of attorney of 7 March 1809 (letters 48 and 302) without
+saying what they were for. The entry, and the passage on the era page, now
+say it from the letter: Hawich, a notary of the Duchy of Warsaw, was to sue to
+have Michalina Dąbska removed from Trąbczyn; to have the court administration
+put on the remaining estates for unpaid interest lifted, the King of Saxony
+having granted debtors three years' grace; to remove Honrichs, who had had
+himself appointed its administrator and had sold land without authority; to
+sue Oppenheimer and Wolff over 72,000 Rthl; to collect the arrears; and to
+appear at the Diet in Warsaw, where every landowner had to appear in person or
+lose his estates. The era page writes Konotop, not Kontop.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
