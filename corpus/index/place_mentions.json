@@ -38005,6 +38005,65 @@
   ]
  },
  {
+  "entity": "torun",
+  "display": "Toruń (Thorn)",
+  "count": 5,
+  "documents": [
+   "oe1bu14525-43",
+   "oe1bu14525-44",
+   "oe1bu9454-246",
+   "oe1bu9454-266",
+   "oe1bu9454-271"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-44",
+    "surface": "Thorn",
+    "page": 1,
+    "page_id": "0155_b",
+    "scan": "Oe_1_Bu_14525_0155_b-L44_01.jpg",
+    "line": 4128,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu14525-43",
+    "surface": "Thorn",
+    "page": 1,
+    "page_id": "0152_a2",
+    "scan": "Oe_1_Bu_14525_0152_a2-L43_01.jpg",
+    "line": 4099,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-246",
+    "surface": "Thoren",
+    "page": 1,
+    "page_id": "0456_b",
+    "scan": "Oe_1_Bu_9454_0456_b-L246_01.jpg",
+    "line": 17804,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-266",
+    "surface": "Thoren",
+    "page": 1,
+    "page_id": "0485_b",
+    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+    "line": 18908,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Thorenſchen",
+    "page": 1,
+    "page_id": "0493_b",
+    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+    "line": 19246,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
   "entity": "glatz",
   "display": "Kłodzko (Glatz)",
   "count": 5,

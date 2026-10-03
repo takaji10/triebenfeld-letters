@@ -52,7 +52,7 @@ recovered the estates in 1807.
 In 1794 the Poles rose against the partitioning powers. After the rising was put down, the
 Prussian crown confiscated the estates of landowners who had taken part in it. Antoni
 Prusimski was named by the Prussian authorities as one of its leaders, and he fled. His
-estates were declared forfeit to the Treasury by a judgment given at Thorn.
+estates were declared forfeit to the Treasury by a judgment given at Toruń.
 
 In the summer of 1796 Count Hoym, the minister responsible for Silesia and South Prussia,
 proposed that some of these estates, with others that had fallen vacant, be granted to
@@ -82,7 +82,7 @@ or lease had been left in possession
 ([royal order]({{ '/documents/oe1bu14525/40/' | relative_url }})). Registering
 Hohenlohe-Ingelfingen's title took years. The government at Kalisz required a certified
 copy of the confiscation judgment, and the request for it was refused at Poznań because the
-judgment had been given at Thorn
+judgment had been given at Toruń
 ([December 1798]({{ '/documents/oe1bu14525/42/' | relative_url }})).
 
 ## II. The exchange scheme, 1798 to 1800, and the first challenge

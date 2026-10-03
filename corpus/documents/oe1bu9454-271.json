@@ -505,6 +505,17 @@
  "place_canonical": "Wien",
  "place_mentions": [
   {
+   "entity": "torun",
+   "display": "Toruń (Thorn)",
+   "kind": "place",
+   "surface": "Thorenſchen",
+   "page": 1,
+   "page_id": "0493_b",
+   "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+   "line": 19246,
+   "doc_line": 4
+  },
+  {
    "entity": "boleslawice",
    "display": "Boleslawice",
    "kind": "place",

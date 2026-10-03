@@ -293,3 +293,10 @@ rules:
   why: >-
     The register now gives the two places their Polish accents, Blizanów and
     Świątniki (editor, 2026-10-03); the English follows.
+
+- id: place-torun
+  pattern: "\\bThorn\\b"
+  replace: "Toruń"
+  why: >-
+    Thorn is Toruń, by the house rule that the English uses the Polish name
+    (editor, 2026-10-03); the register entry is torun.

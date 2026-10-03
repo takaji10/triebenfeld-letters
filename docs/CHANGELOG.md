@@ -1300,6 +1300,15 @@ era page now say, from the contract (14526, 25), that 8,333 Rthl of the
 12,333 went to Ignatz von Radzinski, who had lent money on the farm and held it as
 security until he was repaid, and was to vacate it once paid.
 
+Toruń, not Thorn (editor, 2026-10-03). The place register has a new entry,
+Toruń (German Thorn), so the documents that name it are tagged with it: the
+two replies of February 1799 sending Hohenlohe-Ingelfingen to the Government
+at Thorn for the confiscation judgment (14525, 43, 44), and the 1815 frontier
+letters (9454, 246, 266, 271). "Thoren" counts only where it names the town;
+in letter 104 it means "fools" and is left alone. The English writes Toruń (a
+rule in english_forms.yml: 4 translations, 2 summaries), as do the timeline,
+the era page and the About page of 14525; the German gives Toruń (Thorn).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

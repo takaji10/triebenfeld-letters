@@ -454,6 +454,19 @@ places:
       - {form: "Wein", match: false}
       - {form: "Wien[?]", match: false}   # a trailing [?] is a ruling, not a spelling
 
+  torun:
+    # Toruń, the German Thorn (editor, 2026-10-03): the seat of the Prussian
+    # Government that gave the confiscation judgment against Prusimski on 27 June
+    # 1796 (14525, 43, 44; the date in 12), and the northern end of the 1815
+    # frontier line (9454, 246, 266, 271). "Thoren" is matched only where it
+    # names the town: in letter 104 it is "fools".
+    display: "Toruń"
+    german: "Thorn"
+    kind: city
+    match: 'Thorn(?![a-zà-ÿ])|Thoren(?=\s+(?:ab|dicht)\b)|Thoren[sſ]chen?\w*'
+    tier: "Established"
+    variants: []
+
   posen:
     display: "Poznań"
     german: "Posen"

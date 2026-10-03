@@ -445,6 +445,10 @@
   lat: 53.42981
   lon: 14.59287
   letters: [{id: "7", url: "/documents/oe1bu14525/7/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "26", url: "/documents/oe1bu9454/26/"}, {id: "36", url: "/documents/oe1bu9454/36/"}]
+- slug: "torun"
+  name: "Toruń (Thorn)"
+  count: 5
+  letters: [{id: "44", url: "/documents/oe1bu14525/44/"}, {id: "43", url: "/documents/oe1bu14525/43/"}, {id: "246", url: "/documents/oe1bu9454/246/"}, {id: "266", url: "/documents/oe1bu9454/266/"}, {id: "271", url: "/documents/oe1bu9454/271/"}]
 - slug: "augustinow"
   name: "Augustinow"
   count: 4
