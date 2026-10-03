@@ -52,6 +52,11 @@ PLACES_RE = place_authority()
 PLACE_DISP = {slug: disp for slug, disp, _ in PLACES_RE}
 # The place of writing takes the same Polish (German) label as the lists.
 PLACE_LABEL = unitlib.load_place_labels()
+# The English name of a place of writing where English has its own (Vienna,
+# Warsaw): the register's `render`. German pages keep the register's label.
+PLACE_RENDER = {unitlib.place_label(e): e['render']
+                for e in (unitlib.load_places_authority().get('places') or {}).values()
+                if e.get('render')}
 
 MONTHS = {1:'January',2:'February',3:'March',4:'April',5:'May',6:'June',
           7:'July',8:'August',9:'September',10:'October',11:'November',12:'December'}
@@ -400,7 +405,8 @@ def main():
         fm.append(f'date_source_label_de: {yaml_opt(SOURCE_LABEL_DE.get(r["date_source"], ""))}')
         fm.append(f'date_basis_de: {yaml_opt(note_de(basis))}')
         fm.append(f'year: {r["year"] if r["year"] else "null"}')
-        fm.append(f'place: {yaml_opt(r["_place"])}')
+        fm.append(f'place: {yaml_opt(PLACE_RENDER.get(r["_place"], r["_place"]))}')
+        fm.append(f'place_de: {yaml_opt("Unbekannt" if r["_place"] == "Unknown" else r["_place"])}')
         fm.append(f'sender: {yaml_opt(correspondent(r.get("sender", "")))}')
         fm.append(f'sender_de: {yaml_opt(correspondent(r.get("sender", ""), "de"))}')
         fm.append(f'recipient: {yaml_opt(correspondent(r.get("recipient", "")))}')

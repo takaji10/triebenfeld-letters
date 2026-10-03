@@ -122,10 +122,8 @@
   lon: 17.95828
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "232", url: "/documents/oe1bu9454/232/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "swiatniki"
-  name: "Swiątniki"
+  name: "Świątniki"
   count: 12
-  lat: 52.15114
-  lon: 18.02724
   letters: [{id: "10", url: "/documents/oe1bu14525/10/"}, {id: "8", url: "/documents/oe1bu14525/8/"}, {id: "9", url: "/documents/oe1bu14525/9/"}, {id: "17", url: "/documents/oe1bu14525/17/"}, {id: "5", url: "/documents/oe1bu14525/5/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "22", url: "/documents/oe1bu14525/22/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "213", url: "/documents/oe1bu9454/213/"}, {id: "18", url: "/documents/oe1bu9454/18/"}]
 - slug: "gradzyn"
   name: "Grądzyń"
@@ -180,10 +178,8 @@
   lon: 15.75575
   letters: [{id: "11", url: "/documents/oe1bu14525/11/"}, {id: "6", url: "/documents/oe1bu14525/6/"}, {id: "15", url: "/documents/oe1bu14525/15/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "7", url: "/documents/oe1bu14525/7/"}, {id: "18", url: "/documents/oe1bu14525/18/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}]
 - slug: "blizanow"
-  name: "Blizanow"
+  name: "Blizanów"
   count: 7
-  lat: 51.90136
-  lon: 18.01374
   letters: [{id: "218", url: "/documents/oe1bu9454/218/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "19", url: "/documents/oe1bu9454/19/"}, {id: "266", url: "/documents/oe1bu9454/266/"}, {id: "295", url: "/documents/oe1bu9454/295/"}]
 - slug: "osiny"
   name: "Osiny"

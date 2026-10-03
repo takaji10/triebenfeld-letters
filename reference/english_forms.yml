@@ -283,3 +283,13 @@ rules:
     to Stein of 1815 (12765, 6) counts in them, and the ministry's German note
     in the same file gives the same 55,000 as "55000 rt.". The edition writes
     Reichsthaler (editor, 2026-10-03).
+
+- id: place-accents-2026-10-03
+  pattern: "\\b(Blizanow|Swiątniki|Swiątniker)\\b"
+  names:
+    "Blizanow": "Blizanów"
+    "Swiątniki": "Świątniki"
+    "Swiątniker": "Świątniki"
+  why: >-
+    The register now gives the two places their Polish accents, Blizanów and
+    Świątniki (editor, 2026-10-03); the English follows.

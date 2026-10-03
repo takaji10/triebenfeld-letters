@@ -5,11 +5,9 @@
   lat: 52.51739
   lon: 13.39513
   letters: [{id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "77", url: "/documents/oe1bu9454/77/"}, {id: "78", url: "/documents/oe1bu9454/78/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "80", url: "/documents/oe1bu9454/80/"}, {id: "81", url: "/documents/oe1bu9454/81/"}, {id: "82", url: "/documents/oe1bu9454/82/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "84", url: "/documents/oe1bu9454/84/"}, {id: "93", url: "/documents/oe1bu9454/93/"}, {id: "85", url: "/documents/oe1bu9454/85/"}, {id: "89", url: "/documents/oe1bu9454/89/"}, {id: "90", url: "/documents/oe1bu9454/90/"}, {id: "91", url: "/documents/oe1bu9454/91/"}, {id: "92", url: "/documents/oe1bu9454/92/"}, {id: "94", url: "/documents/oe1bu9454/94/"}, {id: "95", url: "/documents/oe1bu9454/95/"}, {id: "97", url: "/documents/oe1bu9454/97/"}, {id: "96", url: "/documents/oe1bu9454/96/"}, {id: "98", url: "/documents/oe1bu9454/98/"}, {id: "100", url: "/documents/oe1bu9454/100/"}, {id: "105", url: "/documents/oe1bu9454/105/"}, {id: "106", url: "/documents/oe1bu9454/106/"}, {id: "107", url: "/documents/oe1bu9454/107/"}, {id: "109", url: "/documents/oe1bu9454/109/"}, {id: "111", url: "/documents/oe1bu9454/111/"}, {id: "110", url: "/documents/oe1bu9454/110/"}, {id: "113", url: "/documents/oe1bu9454/113/"}, {id: "114", url: "/documents/oe1bu9454/114/"}, {id: "131", url: "/documents/oe1bu9454/131/"}, {id: "135", url: "/documents/oe1bu9454/135/"}, {id: "134", url: "/documents/oe1bu9454/134/"}, {id: "138", url: "/documents/oe1bu9454/138/"}, {id: "143", url: "/documents/oe1bu9454/143/"}, {id: "144", url: "/documents/oe1bu9454/144/"}, {id: "152", url: "/documents/oe1bu9454/152/"}, {id: "153", url: "/documents/oe1bu9454/153/"}, {id: "154", url: "/documents/oe1bu9454/154/"}, {id: "156", url: "/documents/oe1bu9454/156/"}, {id: "157", url: "/documents/oe1bu9454/157/"}, {id: "158", url: "/documents/oe1bu9454/158/"}, {id: "159", url: "/documents/oe1bu9454/159/"}, {id: "160", url: "/documents/oe1bu9454/160/"}, {id: "161", url: "/documents/oe1bu9454/161/"}, {id: "177", url: "/documents/oe1bu9454/177/"}, {id: "1", url: "/documents/oe1u199/1/"}, {id: "182", url: "/documents/oe1bu9454/182/"}, {id: "179", url: "/documents/oe1bu9454/179/"}, {id: "180", url: "/documents/oe1bu9454/180/"}, {id: "185", url: "/documents/oe1bu9454/185/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "25", url: "/documents/oe1bu9454/25/"}, {id: "30", url: "/documents/oe1bu9454/30/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "33", url: "/documents/oe1bu9454/33/"}, {id: "35", url: "/documents/oe1bu9454/35/"}, {id: "37", url: "/documents/oe1bu9454/37/"}, {id: "38", url: "/documents/oe1bu9454/38/"}, {id: "39", url: "/documents/oe1bu9454/39/"}, {id: "40", url: "/documents/oe1bu9454/40/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "42", url: "/documents/oe1bu9454/42/"}, {id: "46", url: "/documents/oe1bu9454/46/"}, {id: "74b", url: "/documents/oe1bu9454/74b/"}, {id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "74d", url: "/documents/oe1bu9454/74d/"}, {id: "217", url: "/documents/oe1bu9454/217/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "15", url: "/documents/iiihamdaiiinr12765/15/"}, {id: "16", url: "/documents/iiihamdaiiinr12765/16/"}, {id: "17", url: "/documents/iiihamdaiiinr12765/17/"}, {id: "18", url: "/documents/iiihamdaiiinr12765/18/"}, {id: "20", url: "/documents/iiihamdaiiinr12765/20/"}, {id: "21", url: "/documents/iiihamdaiiinr12765/21/"}, {id: "22", url: "/documents/iiihamdaiiinr12765/22/"}, {id: "24", url: "/documents/iiihamdaiiinr12765/24/"}, {id: "26", url: "/documents/iiihamdaiiinr12765/26/"}, {id: "27", url: "/documents/iiihamdaiiinr12765/27/"}, {id: "29", url: "/documents/iiihamdaiiinr12765/29/"}, {id: "30", url: "/documents/iiihamdaiiinr12765/30/"}]
-- name: "Blizanow"
+- name: "Blizanów"
   slug: "blizanow"
   count: 20
-  lat: 51.90136
-  lon: 18.01374
   letters: [{id: "216", url: "/documents/oe1bu9454/216/"}, {id: "218", url: "/documents/oe1bu9454/218/"}, {id: "219", url: "/documents/oe1bu9454/219/"}, {id: "221", url: "/documents/oe1bu9454/221/"}, {id: "222", url: "/documents/oe1bu9454/222/"}, {id: "226", url: "/documents/oe1bu9454/226/"}, {id: "227", url: "/documents/oe1bu9454/227/"}, {id: "229", url: "/documents/oe1bu9454/229/"}, {id: "72b", url: "/documents/oe1bu9454/72b/"}, {id: "233", url: "/documents/oe1bu9454/233/"}, {id: "18", url: "/documents/oe1bu9454/18/"}, {id: "234", url: "/documents/oe1bu9454/234/"}, {id: "236", url: "/documents/oe1bu9454/236/"}, {id: "235", url: "/documents/oe1bu9454/235/"}, {id: "297", url: "/documents/oe1bu9454/297/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "300", url: "/documents/oe1bu9454/300/"}, {id: "299", url: "/documents/oe1bu9454/299/"}, {id: "5", url: "/documents/oe1bu9454/5/"}, {id: "301", url: "/documents/oe1bu9454/301/"}]
 - name: "Brzeg (Brieg)"
   slug: "brzeg-brieg"
@@ -141,7 +139,7 @@
   slug: "sommerfeld"
   count: 2
   letters: [{id: "19", url: "/documents/iiihamdaiiinr12765/19/"}, {id: "23", url: "/documents/iiihamdaiiinr12765/23/"}]
-- name: "St. Petersburg"
+- name: "St Petersburg"
   slug: "st-petersburg"
   count: 1
   lat: 59.9387
@@ -151,12 +149,6 @@
   slug: "stara-kuznia-klein-althammer"
   count: 1
   letters: [{id: "189", url: "/documents/oe1bu9454/189/"}]
-- name: "Swiątniki"
-  slug: "swiatniki"
-  count: 2
-  lat: 52.15114
-  lon: 18.02724
-  letters: [{id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}]
 - name: "Sławięcice (Schlawenschitz)"
   slug: "slawiecice-schlawenschitz"
   count: 13
@@ -203,6 +195,10 @@
   slug: "swiniary-schweinern"
   count: 3
   letters: [{id: "57", url: "/documents/oe1bu9454/57/"}, {id: "203", url: "/documents/oe1bu9454/203/"}, {id: "202", url: "/documents/oe1bu9454/202/"}]
+- name: "Świątniki"
+  slug: "swiatniki"
+  count: 2
+  letters: [{id: "212", url: "/documents/oe1bu9454/212/"}, {id: "213", url: "/documents/oe1bu9454/213/"}]
 - name: "Unknown"
   slug: "unknown"
   count: 28

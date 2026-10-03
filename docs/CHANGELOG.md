@@ -1242,6 +1242,17 @@ Ludwig of Hohenlohe-Ingelfingen". The lists on Browse and in search show the
 name alone, in the page's language. A recorded form with no entry is shown as
 it stands and reported by build_site_data.py.
 
+Places of writing in the page's language (editor, 2026-10-03). The place line
+under a document's date showed "Wien" on English pages, and "Blizanow" and
+"Swiątniki" without their Polish accents. English pages now use the
+register's English form where English has one (render: Vienna, Warsaw), and
+German pages the register's name (Wien, Warszawa (Warschau)); "Unknown" is
+"Unbekannt" in German. The register gives Blizanów and Świątniki their accents,
+with the letters' spellings kept as variants, and St. Petersburg in a dateline
+now finds its entry. The English (67 changes in 48 translations, 10 in the
+summaries, by a rule in english_forms.yml) and the German summaries follow
+("Blizanower Güter" stays, a German adjective).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

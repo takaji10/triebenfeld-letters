@@ -132,11 +132,12 @@ places:
 
   # --- Olęder colonies and adjacent settlements ---------------------------
   swiatniki:
-    display: "Swiątniki"
+    # Świątniki, with its accent (editor, 2026-10-03); the letters write Swiątniki.
+    display: "Świątniki"
     kind: village
-    match: 'Swi[ąę]tnik\w*'
+    match: '[SŚ]wi[ąę]tnik\w*'
     tier: ""
-    variants: ["Swiątniker", "Swiętnik", "Swiętniki"]
+    variants: ["Swiątniki", "Swiątniker", "Swiętnik", "Swiętniki"]
 
   szetlewek:
     display: "Szetlewek"
@@ -441,6 +442,9 @@ places:
 
   wien:
     display: "Wien"
+    # The English name, used where an English page names the place of writing
+    # (editor, 2026-10-03); the translation already writes Vienna.
+    render: "Vienna"
     kind: city
     # Not "Wein": that took wine and Weinachten (Christmas) as mentions of
     # Vienna. The Wein-for-Wien misreadings in 9454 were corrected in the text.
@@ -560,11 +564,12 @@ places:
     variants: []
 
   blizanow:
-    display: "Blizanow"
+    # Blizanów, with its accent (editor, 2026-10-03); the letters write Blizanow.
+    display: "Blizanów"
     kind: village
     match: 'Bl[ie][zr]anow\w*'
     tier: ""
-    variants: ["Bleranow"]
+    variants: ["Blizanow", "Bleranow"]
 
   kontop:
     display: "Konotop"
@@ -954,7 +959,7 @@ places:
     kind: city
     match: 'Peters?b(?:o)?urg\w*'
     tier: "Established"
-    variants: []
+    variants: ["St. Petersburg"]
 
   bayern:
     display: "Bayern"
