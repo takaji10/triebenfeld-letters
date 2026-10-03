@@ -6443,6 +6443,15 @@
     "doc_line": 7
    },
    {
+    "uid": "oe1bu14525-33",
+    "surface": "Breslau",
+    "page": 1,
+    "page_id": "0133_b",
+    "scan": "Oe_1_Bu_14525_0133_b-L33_01.jpg",
+    "line": 3662,
+    "doc_line": 18
+   },
+   {
     "uid": "oe1bu14525-4",
     "surface": "Breslau",
     "page": 1,
@@ -6477,15 +6486,6 @@
     "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
     "line": 1079,
     "doc_line": 92
-   },
-   {
-    "uid": "oe1bu14525-33",
-    "surface": "Breslau",
-    "page": 1,
-    "page_id": "0133_b",
-    "scan": "Oe_1_Bu_14525_0133_b-L33_01.jpg",
-    "line": 3662,
-    "doc_line": 18
    },
    {
     "uid": "oe1bu14525-35",
@@ -8803,6 +8803,24 @@
     "doc_line": 14
    },
    {
+    "uid": "oe1bu14525-27",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3403,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14525-27",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3433,
+    "doc_line": 36
+   },
+   {
     "uid": "oe1bu14525-4",
     "surface": "Ingelfingen",
     "page": 1,
@@ -8900,24 +8918,6 @@
     "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
     "line": 1068,
     "doc_line": 81
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Ingelfingen",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3403,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Ingelfingen",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3433,
-    "doc_line": 36
    },
    {
     "uid": "oe1bu14525-35",
@@ -10776,6 +10776,60 @@
     "doc_line": 4
    },
    {
+    "uid": "oe1bu14525-27",
+    "surface": "Betscher",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3401,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14525-27",
+    "surface": "Betscher",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3413,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu14525-27",
+    "surface": "Betscher",
+    "page": 1,
+    "page_id": "0119_b",
+    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
+    "line": 3434,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu14525-33",
+    "surface": "Betschen",
+    "page": 1,
+    "page_id": "0133_b",
+    "scan": "Oe_1_Bu_14525_0133_b-L33_01.jpg",
+    "line": 3662,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu14525-36",
+    "surface": "Betschen",
+    "page": 1,
+    "page_id": "0139_b",
+    "scan": "Oe_1_Bu_14525_0139_b-L36_01.jpg",
+    "line": 3733,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14525-36",
+    "surface": "Betschen",
+    "page": 1,
+    "page_id": "0139_b",
+    "scan": "Oe_1_Bu_14525_0139_b-L36_01.jpg",
+    "line": 3737,
+    "doc_line": 19
+   },
+   {
     "uid": "oe1bu14525-6",
     "surface": "Betsche",
     "page": 1,
@@ -10837,60 +10891,6 @@
     "scan": "Oe_1_Bu_14525_0027_a2-L9_03.jpg",
     "line": 1069,
     "doc_line": 82
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Betscher",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3401,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Betscher",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3413,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu14525-27",
-    "surface": "Betscher",
-    "page": 1,
-    "page_id": "0119_b",
-    "scan": "Oe_1_Bu_14525_0119_b-L27_01.jpg",
-    "line": 3434,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu14525-33",
-    "surface": "Betschen",
-    "page": 1,
-    "page_id": "0133_b",
-    "scan": "Oe_1_Bu_14525_0133_b-L33_01.jpg",
-    "line": 3662,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu14525-36",
-    "surface": "Betschen",
-    "page": 1,
-    "page_id": "0139_b",
-    "scan": "Oe_1_Bu_14525_0139_b-L36_01.jpg",
-    "line": 3733,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu14525-36",
-    "surface": "Betschen",
-    "page": 1,
-    "page_id": "0139_b",
-    "scan": "Oe_1_Bu_14525_0139_b-L36_01.jpg",
-    "line": 3737,
-    "doc_line": 19
    },
    {
     "uid": "oe1bu14525-35",

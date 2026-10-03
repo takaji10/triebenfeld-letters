@@ -1309,6 +1309,13 @@ in letter 104 it means "fools" and is left alone. The English writes Toruń (a
 rule in english_forms.yml: 4 translations, 2 summaries), as do the timeline,
 the era page and the About page of 14525; the German gives Toruń (Thorn).
 
+No full stop between a day and its ending (editor, 2026-10-03). The 14525
+transcription wrote "27.ten Juny 1796", "18.ten Februar" and so on, eight
+times; it now reads 27ten, 18ten, 26ten, 20ten, 11ten, each recorded in the
+holding's transcription_decisions.csv. With the stop gone the dateline reader
+recognises the day, so documents 4, 6 and 9 are now dated 18 February 1802
+(they read "February 1802"). The English never carried the stop.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

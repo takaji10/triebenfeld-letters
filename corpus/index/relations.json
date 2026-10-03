@@ -12,12 +12,6 @@
   "note": "Written to obey 'Euer Königlichen Majestät allerhöchstem Befehl vom 18 November ... nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll'. Document 30 is that order, of 18 November 1800, over the same estates. Note that 29 is subscribed 'Breslau den 3ten Novbr 1800', which is BEFORE the order it answers: ruled by the editor, 2026-09-17, an error in the original document rather than a misreading, so the link stands and the date is left as written."
  },
  {
-  "from": "oe1bu14525-6",
-  "kind": "supplements",
-  "to": "oe1bu14525-10",
-  "note": "Grants the appurtenances of 'den durch die Urkunde vom 19ten Juny bereits verliehenen Güthern: Betsche, Zagórów und Wienietz'. Document 10 is that grant of 19 June 1797."
- },
- {
   "from": "oe1bu14525-27",
   "kind": "certifies",
   "to": "oe1bu14525-10",
@@ -28,6 +22,12 @@
   "kind": "certifies",
   "to": "oe1bu14525-11",
   "note": "And by 'deren Deklarezion von des izt regierenden Königl. Majestaat vom 1ten December ejd: a.' - document 11."
+ },
+ {
+  "from": "oe1bu14525-6",
+  "kind": "supplements",
+  "to": "oe1bu14525-10",
+  "note": "Grants the appurtenances of 'den durch die Urkunde vom 19ten Juny bereits verliehenen Güthern: Betsche, Zagórów und Wienietz'. Document 10 is that grant of 19 June 1797."
  },
  {
   "from": "oe1bu14525-15",

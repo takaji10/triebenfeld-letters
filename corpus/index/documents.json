@@ -3677,199 +3677,6 @@
   "permalink": "/documents/oe1bu14525/38/"
  },
  {
-  "uid": "oe1bu14525-4",
-  "unit": "oe1bu14525",
-  "letter_id": "4",
-  "doc_type": "donation",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1802-02",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Breslau",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 4,
-  "n_lines": 98,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0012_a2",
-    "image": "Oe_1_Bu_14525_0012_a2-L4_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0013_a1",
-    "image": "Oe_1_Bu_14525_0013_a1-L4_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0013_a2",
-    "image": "Oe_1_Bu_14525_0013_a2-L4_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0014_a1",
-    "image": "Oe_1_Bu_14525_0014_a1-L4_04.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 2,
-  "places_named": 11,
-  "estates": [
-   "kamionno",
-   "trabczyn",
-   "szetlewek",
-   "osiny",
-   "brzyce"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "donation 4",
-  "path": "documents/oe1bu14525-4.json",
-  "text_path": "text/oe1bu14525-4.txt",
-  "permalink": "/documents/oe1bu14525/4/"
- },
- {
-  "uid": "oe1bu14525-6",
-  "unit": "oe1bu14525",
-  "letter_id": "6",
-  "doc_type": "donation",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1802-02",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Breslau",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 4,
-  "n_lines": 95,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0016_a2",
-    "image": "Oe_1_Bu_14525_0016_a2-L6_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0017_a1",
-    "image": "Oe_1_Bu_14525_0017_a1-L6_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0017_a2",
-    "image": "Oe_1_Bu_14525_0017_a2-L6_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0018_a1",
-    "image": "Oe_1_Bu_14525_0018_a1-L6_04.jpg"
-   }
-  ],
-  "uncertainty_count": 2,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 2,
-  "places_named": 15,
-  "estates": [
-   "betsche",
-   "zagorowo",
-   "wieniec",
-   "stolun",
-   "kuligowo",
-   "szarcz",
-   "silna",
-   "zielomysl",
-   "swiecia",
-   "konty",
-   "szedlemin",
-   "batkowo"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "donation 6",
-  "path": "documents/oe1bu14525-6.json",
-  "text_path": "text/oe1bu14525-6.txt",
-  "permalink": "/documents/oe1bu14525/6/"
- },
- {
-  "uid": "oe1bu14525-9",
-  "unit": "oe1bu14525",
-  "letter_id": "9",
-  "doc_type": "donation",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1802-02",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Breslau",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 3,
-  "n_lines": 95,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0026_a2",
-    "image": "Oe_1_Bu_14525_0026_a2-L9_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0027_a1",
-    "image": "Oe_1_Bu_14525_0027_a1-L9_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0027_a2",
-    "image": "Oe_1_Bu_14525_0027_a2-L9_03.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 19,
-  "estates": [
-   "betsche",
-   "swiechocin",
-   "stoki",
-   "lowyn",
-   "glazewo",
-   "tarmowo",
-   "zagorowo",
-   "swiatniki",
-   "kopojno",
-   "olesnica",
-   "drzewce",
-   "gradzyn",
-   "wrabczyn",
-   "wieniec",
-   "wolica",
-   "skokum"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "donation 9",
-  "path": "documents/oe1bu14525-9.json",
-  "text_path": "text/oe1bu14525-9.txt",
-  "permalink": "/documents/oe1bu14525/9/"
- },
- {
   "uid": "oe1bu14525-27",
   "unit": "oe1bu14525",
   "letter_id": "27",
@@ -3991,6 +3798,199 @@
   "path": "documents/oe1bu14525-36.json",
   "text_path": "text/oe1bu14525-36.txt",
   "permalink": "/documents/oe1bu14525/36/"
+ },
+ {
+  "uid": "oe1bu14525-4",
+  "unit": "oe1bu14525",
+  "letter_id": "4",
+  "doc_type": "donation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1802-02-18",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Breslau",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 98,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "Oe_1_Bu_14525_0012_a2-L4_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0013_a1",
+    "image": "Oe_1_Bu_14525_0013_a1-L4_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0013_a2",
+    "image": "Oe_1_Bu_14525_0013_a2-L4_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0014_a1",
+    "image": "Oe_1_Bu_14525_0014_a1-L4_04.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 11,
+  "estates": [
+   "kamionno",
+   "trabczyn",
+   "szetlewek",
+   "osiny",
+   "brzyce"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "donation 4",
+  "path": "documents/oe1bu14525-4.json",
+  "text_path": "text/oe1bu14525-4.txt",
+  "permalink": "/documents/oe1bu14525/4/"
+ },
+ {
+  "uid": "oe1bu14525-6",
+  "unit": "oe1bu14525",
+  "letter_id": "6",
+  "doc_type": "donation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1802-02-18",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Breslau",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 95,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0016_a2",
+    "image": "Oe_1_Bu_14525_0016_a2-L6_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0017_a1",
+    "image": "Oe_1_Bu_14525_0017_a1-L6_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0017_a2",
+    "image": "Oe_1_Bu_14525_0017_a2-L6_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0018_a1",
+    "image": "Oe_1_Bu_14525_0018_a1-L6_04.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 15,
+  "estates": [
+   "betsche",
+   "zagorowo",
+   "wieniec",
+   "stolun",
+   "kuligowo",
+   "szarcz",
+   "silna",
+   "zielomysl",
+   "swiecia",
+   "konty",
+   "szedlemin",
+   "batkowo"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "donation 6",
+  "path": "documents/oe1bu14525-6.json",
+  "text_path": "text/oe1bu14525-6.txt",
+  "permalink": "/documents/oe1bu14525/6/"
+ },
+ {
+  "uid": "oe1bu14525-9",
+  "unit": "oe1bu14525",
+  "letter_id": "9",
+  "doc_type": "donation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1802-02-18",
+  "date_precision": "day",
+  "date_source": "signature",
+  "place": "Breslau",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 95,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0026_a2",
+    "image": "Oe_1_Bu_14525_0026_a2-L9_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0027_a1",
+    "image": "Oe_1_Bu_14525_0027_a1-L9_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0027_a2",
+    "image": "Oe_1_Bu_14525_0027_a2-L9_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 19,
+  "estates": [
+   "betsche",
+   "swiechocin",
+   "stoki",
+   "lowyn",
+   "glazewo",
+   "tarmowo",
+   "zagorowo",
+   "swiatniki",
+   "kopojno",
+   "olesnica",
+   "drzewce",
+   "gradzyn",
+   "wrabczyn",
+   "wieniec",
+   "wolica",
+   "skokum"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "donation 9",
+  "path": "documents/oe1bu14525-9.json",
+  "text_path": "text/oe1bu14525-9.txt",
+  "permalink": "/documents/oe1bu14525/9/"
  },
  {
   "uid": "oe1bu14525-35",
