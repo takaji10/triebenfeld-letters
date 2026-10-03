@@ -71,22 +71,16 @@ People (`reference/people.yml`, `open_questions`):
 - Names in the English, from the names audit of 2026-10-03 (the editor
   ruled the rest the same day: Tarnowo, Ribbeck, Kunkel, Dormowo,
   Hussarzewski, Włocławek, and Klein Althammer is Stara Kuźnia; and the Włocławek
-  chapter's village is Bątkowo in Polish and English, Batkowo in German):
-  - "Betsche below Strehlen" (9454, 119): the editor doubts it is a second
-    Betsche. Against Pszczew: the Hussites who bought it asked to be shown
-    land in South Prussia, so it lay outside it; "unter Strehlen" is
-    Strzelin, south of Wrocław, among the Bohemian Brethren's colonies; and
-    it was a "Gütchen" of 23 Hufen divided about 1801, where Pszczew was a
-    lordship of a town and six villages made over in July 1804. Rule; until
-    then the letter is still tagged as a mention of Pszczew, and the English
-    keeps "Betsche".
+  chapter's village is Bątkowo in Polish and English, Batkowo in German;
+  "Betsche below Strehlen" (9454, 119) is not Pszczew, and is untagged):
   - The transcription of 14525, 28 reads "Wrocławek", where the page has
     "Wraclawek" and "Wracla-/wek" (scans 0121_b, 0122_a1). Correct the
     transcription to what the page says? The English is Włocławek either way.
   - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): not known; not
     in the register.
   - "Grand Duchy of Posen" (12765: 14, 27, 28) is left as the state's English
-    name; the uncanonical-names check still lists it.
+    name; the uncanonical-names check still lists it, and also lists letter
+    119's "Betsche", which stands by the ruling above.
 
 Places (`reference/places.yml`, `open_questions`):
 

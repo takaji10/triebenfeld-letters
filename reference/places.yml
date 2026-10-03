@@ -470,7 +470,10 @@ places:
     display: "Pszczew"
     german: "Betsche"
     kind: town
-    match: 'Betsch\w*|Psz?czew\w*'
+    # Not 'Betsche unter Strehlen' (9454, 119): a small estate near Strzelin
+    # in Silesia, divided among Hussite settlers about 1801; not Pszczew
+    # (editor, 2026-10-03).
+    match: 'Betsch(?!e\s+(?:unter|below)\s+Strehlen)\w*|Psz?czew\w*'
     tier: ""
     variants:
       - "Betsch"

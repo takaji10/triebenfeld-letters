@@ -1132,6 +1132,11 @@ German. The register entry, the English translations (7 documents) and
 summaries, the German summaries, the era page and the holdings' About pages
 follow; Botkow and Botkowo are folded in. The place stays Włocławek, as ruled.
 
+Betsche below Strehlen (editor, 2026-10-03). The small estate in letter 119,
+divided among Hussite settlers about 1801, lay near Strzelin in Silesia and is
+not Pszczew. The Pszczew entry in the register no longer matches it, so the
+letter is no longer listed under Pszczew; the English keeps "Betsche".
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
