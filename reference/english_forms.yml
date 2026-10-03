@@ -165,8 +165,8 @@ rules:
 - id: place-spellings
   pattern: "\\b(Botkowo?|Brzyzer|Brzyzna|Brzyze|Charlottenbourg|Czischowa|Czyschowa|Czysowa|Gollawia|Grądzin|Grąndzyń|Gratz|Heidelburg|Carlsruhe|Cassel|Karczin|Krotoszin|Mysłowic|Neufchatel|Neustad|Presburg|Przybisław|Ruszynowig|Schweinerne|Szettlewek|Weissenfeld|Wrąbczin|Kálitz|Nowa wieś|Nowa wies|Nova wies|Wieruszew|Gosztiszyn)\\b"
   names:
-    "Botkow": "Bądkowo"
-    "Botkowo": "Bądkowo"
+    "Botkow": "Bątkowo"
+    "Botkowo": "Bątkowo"
     "Brzyzer": "Brzyce"
     "Brzyzna": "Brzyce"
     "Brzyze": "Brzyce"
@@ -258,9 +258,9 @@ rules:
     the chapter "zu Wraclawek" (14525, 28) is Włocławek.
 
 - id: name-badkowo
-  pattern: "\\b(?:Batkowo|Bątkowo)\\b"
-  replace: "Bądkowo"
+  pattern: "\\b(?:Batkowo|Bądkowo)\\b"
+  replace: "Bątkowo"
   why: >-
     The estate in the Radziejów district, formerly of the cathedral chapter of
-    Włocławek: Bądkowo, its modern Polish name (editor, 2026-10-03). The
-    documents write Batkowo and Botkowo.
+    Włocławek: Bątkowo in Polish and in the English, Batkowo in German
+    (editor, 2026-10-03). The documents write Batkowo and Botkowo.

@@ -20,7 +20,7 @@ Ein königlicher Befehl an die Kammern in Poznań und Petrikau stellt fest, die 
 
 #### Eintragung des Besitztitels
 
-Hypothekenscheine und Auszüge aus dem Hypothekenbuch verzeichnen den Besitztitel Hohenlohe-Ingelfingens und die Lasten auf Szetlewek, Kolno, Pszczew, Zagórów und Bądkowo [[2, 12, 15, 21, 25, 28]]. Der Auszug für Zagórów nennt ein Darlehen von 250.000 Rthl an von Triebenfeld, das zum Teil an andere Gläubiger abgetreten ist [[21]]. Der Schein für Pszczew nennt Schulden bei Johann Wilhelm Glenck und anderen [[25, 26]].
+Hypothekenscheine und Auszüge aus dem Hypothekenbuch verzeichnen den Besitztitel Hohenlohe-Ingelfingens und die Lasten auf Szetlewek, Kolno, Pszczew, Zagórów und Bątkowo [[2, 12, 15, 21, 25, 28]]. Der Auszug für Zagórów nennt ein Darlehen von 250.000 Rthl an von Triebenfeld, das zum Teil an andere Gläubiger abgetreten ist [[21]]. Der Schein für Pszczew nennt Schulden bei Johann Wilhelm Glenck und anderen [[25, 26]].
 
 Der Schriftwechsel über die Eintragung richtet sich überwiegend an Glenck, den Bau- und Ökonomierat Hohenlohe-Ingelfingens in Wrocław (Breslau). Die Regierungen in Kalisz und Poznań setzen und verlängern Fristen für den Nachweis des Besitztitels, und Glenck drängt auf die Auflassung der Güter von Pszczew und in Kujawien durch den Fiskus [[19, 20, 29, 30, 33, 34, 35, 36, 37, 38]]. Die Regierung in Kalisz verlangt eine beglaubigte Abschrift des Urteils, mit dem das Vermögen Prusimskis konfisziert wurde; ein Gesuch darum wird in Poznań abgewiesen, weil das Urteil in Thorn ergangen war [[31, 42, 43, 44]]. Ein Schreiben ersucht darum, dass Hohenlohe-Ingelfingen für die verliehenen Güter den Huldigungseid leistet [[32]].
 

@@ -20,7 +20,7 @@ A royal order to the chambers at Poznań and Petrikau states that the handover h
 
 #### Registration of title
 
-Mortgage certificates and register extracts record the title of Hohenlohe-Ingelfingen and the charges on Szetlewek, Kolno, Pszczew, Zagórów and Bądkowo [[2, 12, 15, 21, 25, 28]]. The extract for Zagórów lists a loan of 250,000 Rthl to von Triebenfeld, parts of it ceded to other creditors [[21]]. The certificate for Pszczew lists debts to Johann Wilhelm Glenck and others [[25, 26]].
+Mortgage certificates and register extracts record the title of Hohenlohe-Ingelfingen and the charges on Szetlewek, Kolno, Pszczew, Zagórów and Bątkowo [[2, 12, 15, 21, 25, 28]]. The extract for Zagórów lists a loan of 250,000 Rthl to von Triebenfeld, parts of it ceded to other creditors [[21]]. The certificate for Pszczew lists debts to Johann Wilhelm Glenck and others [[25, 26]].
 
 The correspondence on registration is addressed mainly to Glenck, building and economy councillor to Hohenlohe-Ingelfingen at Wrocław. The governments at Kalisz and Poznań set and extend deadlines for proving title, and Glenck presses for the Treasury's resignation of the estates of Pszczew and Kuyavia [[19, 20, 29, 30, 33, 34, 35, 36, 37, 38]]. The government at Kalisz requires a certified copy of the judgment confiscating Prusimski's property; a request for it is refused at Poznań, because the judgment had been given at Thorn [[31, 42, 43, 44]]. One note asks that Hohenlohe-Ingelfingen take the oath of homage for the granted estates [[32]].
 

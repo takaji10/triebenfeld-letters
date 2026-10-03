@@ -6,7 +6,7 @@ Hohenlohe-Ingelfingen owned estates and ironworks in Silesia and, by a royal gra
 
 ### Contents
 
-The charter opens with the King's full title and recites an extract of the will, certified by a court at Wrocław [[1]]. The extract places under entail the houses of Hohenlohe-Ingelfingen in Wrocław and the park at Szczytniki; the estate of Bytków; the lordship of Koszęcin with Boronów, Olszyna, Harbultowitz and Cieszowa; and the South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Bądkowo [[1]]. A further clause determines the succession if the male line ends: the third daughter, Auguste, receives the South Prussian estates, Adelheid the Silesian ironworks, and Emilie Koszęcin [[1]]. The charter closes with the ratification, the King's reservations and an order to the authorities [[1]].
+The charter opens with the King's full title and recites an extract of the will, certified by a court at Wrocław [[1]]. The extract places under entail the houses of Hohenlohe-Ingelfingen in Wrocław and the park at Szczytniki; the estate of Bytków; the lordship of Koszęcin with Boronów, Olszyna, Harbultowitz and Cieszowa; and the South Prussian lordships of Zagórów, Trąbczyn, Pszczew, Wieniec and Bątkowo [[1]]. A further clause determines the succession if the male line ends: the third daughter, Auguste, receives the South Prussian estates, Adelheid the Silesian ironworks, and Emilie Koszęcin [[1]]. The charter closes with the ratification, the King's reservations and an order to the authorities [[1]].
 
 ### Form and language
 

@@ -6,7 +6,7 @@ Hohenlohe-Ingelfingen besaß Güter und Hüttenwerke in Schlesien und, durch kö
 
 ### Inhalt
 
-Die Urkunde beginnt mit dem vollen Titel des Königs und gibt einen Auszug des Testaments wieder, den ein Gericht in Wrocław (Breslau) beglaubigt hatte [[1]]. Der Auszug bestimmt zum Majorat die Häuser Hohenlohe-Ingelfingens in Wrocław und den Park in Szczytniki; das Gut Bytków; die Herrschaft Koszęcin mit Boronów, Olszyna, Harbultowitz und Cieszowa; sowie die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Bądkowo [[1]]. Eine weitere Bestimmung regelt die Erbfolge für den Fall, dass der Mannesstamm erlischt: Die dritte Tochter, Auguste, erhält die südpreußischen Güter, Adelheid die schlesischen Hüttenwerke und Emilie Koszęcin [[1]]. Die Urkunde schließt mit der Bestätigung, den Vorbehalten des Königs und einem Befehl an die Behörden [[1]].
+Die Urkunde beginnt mit dem vollen Titel des Königs und gibt einen Auszug des Testaments wieder, den ein Gericht in Wrocław (Breslau) beglaubigt hatte [[1]]. Der Auszug bestimmt zum Majorat die Häuser Hohenlohe-Ingelfingens in Wrocław und den Park in Szczytniki; das Gut Bytków; die Herrschaft Koszęcin mit Boronów, Olszyna, Harbultowitz und Cieszowa; sowie die südpreußischen Herrschaften Zagórów, Trąbczyn, Pszczew, Wieniec und Bątkowo [[1]]. Eine weitere Bestimmung regelt die Erbfolge für den Fall, dass der Mannesstamm erlischt: Die dritte Tochter, Auguste, erhält die südpreußischen Güter, Adelheid die schlesischen Hüttenwerke und Emilie Koszęcin [[1]]. Die Urkunde schließt mit der Bestätigung, den Vorbehalten des Königs und einem Befehl an die Behörden [[1]].
 
 ### Form und Sprache
 
