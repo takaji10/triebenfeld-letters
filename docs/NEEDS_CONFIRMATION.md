@@ -68,19 +68,17 @@ People (`reference/people.yml`, `open_questions`):
 - Settlers doubled between a German deed and a Polish protocol (as Celmer and
   Zelmer): not checked beyond the known case.
 
-- Names in the English, from the names audit of 2026-10-03 (the editor
-  ruled the rest the same day: Tarnowo, Ribbeck, Kunkel, Dormowo,
-  Hussarzewski, Włocławek, and Klein Althammer is Stara Kuźnia; and the Włocławek
-  chapter's village is Bątkowo in Polish and English, Batkowo in German;
-  "Betsche below Strehlen" (9454, 119) is not Pszczew, and is untagged):
-  - The transcription of 14525, 28 reads "Wrocławek", where the page has
-    "Wraclawek" and "Wracla-/wek" (scans 0121_b, 0122_a1). Correct the
-    transcription to what the page says? The English is Włocławek either way.
-  - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): not known; not
-    in the register.
-  - "Grand Duchy of Posen" (12765: 14, 27, 28) is left as the state's English
-    name; the uncanonical-names check still lists it, and also lists letter
-    119's "Betsche", which stands by the ruling above.
+- Names in the English, from the names audit of 2026-10-03. The editor
+  ruled the rest the same day (Tarnowo, Ribbeck, Kunkel, Dormowo,
+  Hussarzewski; Klein Althammer is Stara Kuźnia; the chapter is Włocławek,
+  and the transcription keeps the page's "Wraclawek"; its village is Bątkowo
+  in Polish and English, Batkowo in German; "Betsche below Strehlen" in
+  9454, 119 is not Pszczew; "Grand Duchy of Posen" stands as the state's
+  English name). The uncanonical-names check still lists those last two,
+  which stand by ruling. Open:
+  - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): the editor
+    cannot say; not in the register, and the transcription keeps what the
+    page has.
 
 Places (`reference/places.yml`, `open_questions`):
 

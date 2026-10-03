@@ -1137,6 +1137,14 @@ divided among Hussite settlers about 1801, lay near Strzelin in Silesia and is
 not Pszczew. The Pszczew entry in the register no longer matches it, so the
 letter is no longer listed under Pszczew; the English keeps "Betsche".
 
+Wraclawek and Posen (editor, 2026-10-03). The transcription of 14525, 28 now
+reads "Wraclawek" and "Wracla-/wek", as the page has them (scans 0121_b,
+0122_a1), where it read "Wrocławek"; the place is still Włocławek, and the
+change is recorded in the holding's transcription_decisions.csv. "Grand Duchy
+of Posen" stands in the English of 12765 (14, 27, 28) as the state's English
+name. Schliefen / Schlieffen stays open. The 9454 and 14525 letters.json files
+are back to their CRLF line endings.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
