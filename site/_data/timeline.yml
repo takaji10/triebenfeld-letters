@@ -13,7 +13,10 @@
 #   event can be added in English alone and translated later.
 #
 # "Seidel 2018" = Ulrich Seidel, "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen".
-# Facts are cited; the book's text is not reproduced here.
+# Facts are cited; the book's text is not reproduced here. Seidel is a source for
+# Hohenlohe-Ingelfingen's own life and career only, never for the South Prussian
+# estates: he covers them briefly and makes assumptions the documents correct
+# (editor, 2026-10-03). Estate events rest on the documents here.
 #
 #   refs  : optional, the documents the event rests on, as "<holding>/<number>";
 #           shown as links under the event.
@@ -38,13 +41,13 @@
     Prussia annexes the territory it calls South Prussia. In the two years that follow Friedrich Ludwig is granted estates there, Zagórów, Trąbczyn, Kamionna and others, which become the
     subject of most of this correspondence.
   kind: political
-  source: "Seidel 2018, Zeittafel and ch. 13.1"
+  source: "general history; the charters of 1796 and 1797"
   title_de: Dritte Teilung Polens; Friede von Basel
   note_de: >-
     Preußen annektiert das Gebiet, das es Südpreußen nennt. In den beiden folgenden Jahren
     erhält Friedrich Ludwig dort Güter, Zagórów, Trąbczyn, Kamionna und andere, die den
     Gegenstand des größten Teils dieser Korrespondenz bilden.
-  source_de: "Seidel 2018, Zeittafel und Kap. 13.1"
+  source_de: "allgemeine Geschichte; die Urkunden von 1796 und 1797"
 
 - date: 1796-08-09
   title: The King grants the Prusimski estates
@@ -69,16 +72,14 @@
   note: >-
     The Prusimski estates prove heavily indebted, so the King grants sixteen villages formerly
     owned by the church, among them Pszczew, Zagórów, Kopojno and Drzewce. A declaration of 1
-    December 1797 adds their outlying parts. Zagórów is the lordship Hohenlohe-Ingelfingen still
-    holds after Trąbczyn is lost.
+    December 1797 adds their outlying parts.
   kind: estate
   source: "the charters of 19 June and 1 December 1797 (deeds of grant, 5 and 6)"
   title_de: "Eine zweite Verleihung: Zagórów, Pszczew und die geistlichen Dörfer"
   note_de: >-
     Die Güter Prusimskis erweisen sich als hoch verschuldet; der König verleiht deshalb sechzehn
     vormals geistliche Dörfer, darunter Pszczew, Zagórów, Kopojno und Drzewce. Eine Deklaration
-    vom 1. Dezember 1797 fügt deren Zubehörungen hinzu. Zagórów ist die Herrschaft, die
-    Hohenlohe-Ingelfingen nach dem Verlust von Trąbczyn bleibt.
+    vom 1. Dezember 1797 fügt deren Zubehörungen hinzu.
   source_de: "die Urkunden vom 19. Juni und 1. Dezember 1797 (Verleihungsurkunden, 5 und 6)"
   refs: ["oe1bu14525/5", "oe1bu14525/6"]
 
@@ -444,17 +445,15 @@
 - date: 1807-07
   title: Peace of Tilsit; the Duchy of Warsaw
   note: >-
-    Much of South Prussia becomes the Duchy of Warsaw under Saxon sovereignty.
-    Hohenlohe-Ingelfingen's estates are now in a foreign state, and the sequestrations and
-    lawsuits begin.
+    South Prussia becomes the Duchy of Warsaw under the King of Saxony. Hohenlohe-Ingelfingen's
+    estates now lie in a foreign state.
   kind: political
-  source: "Seidel 2018, ch. 13.1"
+  source: "general history"
   title_de: Friede von Tilsit; das Herzogtum Warschau
   note_de: >-
-    Ein großer Teil Südpreußens wird zum Herzogtum Warschau unter sächsischer Oberhoheit. Die
-    Güter Hohenlohe-Ingelfingens liegen nun in einem fremden Staat, und die Sequestrationen und
-    Prozesse beginnen.
-  source_de: "Seidel 2018, Kap. 13.1"
+    Südpreußen wird zum Herzogtum Warschau unter dem König von Sachsen. Die Güter
+    Hohenlohe-Ingelfingens liegen nun in einem fremden Staat.
+  source_de: "allgemeine Geschichte"
 
 - date: 1807-10-05
   title: "Trąbczyn is handed to Prusimski's daughter"
@@ -526,19 +525,6 @@
   source_de: Briefe 48 und 302
   refs: ["oe1bu9454/48", "oe1bu9454/302"]
 
-- date: 1811
-  title: Proceedings before the Prussian Kammergericht
-  note: >-
-    The Invalids' Fund sues over the 1805 loan. The case file survives in Berlin.
-  kind: estate
-  source: "Seidel 2018, ch. 14.3"
-  title_de: Verfahren vor dem preußischen Kammergericht
-  note_de: >-
-    Die Königliche General-Invalidenkasse klagt wegen des Darlehens von 1805. Die Prozessakte
-    ist in Berlin erhalten.
-  source_de: "Seidel 2018, Kap. 14.3"
-  refs: ["oe1bu9454/74a", "oe1bu9454/74d"]
-
 - date: 1811-01-01
   title: Thirty-one lawsuits
   note: >-
@@ -572,6 +558,25 @@
     Land wieder in Vorwerke zu verwandeln.
   source_de: "Briefe 215, 216"
   refs: ["oe1bu9454/215", "oe1bu9454/216"]
+
+- date: 1811-07-30
+  title: Proceedings before the Prussian Kammergericht
+  note: >-
+    The Invalids' Fund applies to have its loan of 50,000 Rthl to Triebenfeld enforced: it was
+    secured by Hohenlohe-Ingelfingen's bond for 250,000 Rthl on Zagórów, and 9,375 Rthl of
+    interest has been unpaid since 1807. On 1 August 1811 the Kammergericht attaches the 80,000
+    Rthl that Princess von Sacken left Hohenlohe-Ingelfingen, and summons Triebenfeld to answer.
+  kind: estate
+  source: "letters 74a and 74d"
+  title_de: Verfahren vor dem preußischen Kammergericht
+  note_de: >-
+    Die Invaliden-Casse beantragt, ihr Darlehen von 50.000 Rthl an Triebenfeld einzutreiben: es
+    war durch Hohenlohe-Ingelfingens Schuldverschreibung über 250.000 Rthl auf Zagórów
+    gesichert, und seit 1807 sind 9.375 Rthl Zinsen rückständig. Am 1. August 1811 belegt das
+    Kammergericht die 80.000 Rthl mit Arrest, die die Fürstin von Sacken Hohenlohe-Ingelfingen
+    vermacht hatte, und lädt Triebenfeld vor.
+  source_de: "Briefe 74a und 74d"
+  refs: ["oe1bu9454/74a", "oe1bu9454/74d"]
 
 - date: 1811-08-15
   title: Word that the estates are to go to Michalina Prusimska
@@ -743,15 +748,18 @@
 - date: 1815-06-09
   title: Final Act of the Congress of Vienna
   note: >-
-    Part of the former South Prussia returns to Prussia; the district around Zagórów falls to
-    Congress Poland.
+    The new frontier runs by Słupca, the Warta and the Prosna, as Triebenfeld reported in
+    February. The estates around Trąbczyn and Zagórów fall to the Kingdom of Poland under the
+    Russian Emperor.
   kind: political
-  source: "Seidel 2018, ch. 13.1"
+  source: "general history; letter 271"
   title_de: Schlussakte des Wiener Kongresses
   note_de: >-
-    Ein Teil des ehemaligen Südpreußen fällt an Preußen zurück; der Kreis um Zagórów kommt an
-    Kongresspolen.
-  source_de: "Seidel 2018, Kap. 13.1"
+    Die neue Grenze verläuft über Słupca, die Warthe und die Prosna, wie Triebenfeld im Februar
+    gemeldet hatte. Die Güter um Trąbczyn und Zagórów fallen an das Königreich Polen unter dem
+    russischen Kaiser.
+  source_de: "allgemeine Geschichte; Brief 271"
+  refs: ["oe1bu9454/271"]
 
 - date: 1815-11-02
   title: Zerboni reports against the claim

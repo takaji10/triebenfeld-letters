@@ -1216,6 +1216,19 @@ register (Kamionna, Zagórów, Pszczew, Oleśnica, Konotop, Sławięcice, Wrocł
 Poznań, Kalisz), Hohenlohe-Ingelfingen is named as the house style has it, and
 the dashes are gone. 54 events, every document link resolving.
 
+Seidel no longer a source for the estates (editor, 2026-10-03). The timeline's
+estate claims that rested on Seidel's biography were checked against the
+documents. The 1811 proceedings are now told from letters 74a and 74d: the
+Invalids' Fund applied on 30 July 1811 to enforce its 50,000 Rthl loan, with
+9,375 Rthl of interest unpaid since 1807, and on 1 August the Kammergericht
+attached Princess von Sacken's legacy of 80,000 Rthl; the claim that the case
+file survives in Berlin is gone. The 1797 entry no longer says Zagórów was the
+lordship kept after Trąbczyn was lost; Tilsit and the Final Act cite general
+history and letter 271 in place of Seidel. Seidel stays cited only for
+Hohenlohe-Ingelfingen's own life (his separation, the house arrest, Jena,
+Prenzlau, his death). The rule is in HOHENLOHE_ERA_PLAN.md and the timeline's
+header.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

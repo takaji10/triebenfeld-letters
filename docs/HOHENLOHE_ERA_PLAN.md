@@ -49,6 +49,12 @@ shows it.
 - **The Prince's other affairs come in only where they reach these estates**:
   his Silesian estates and ironworks, his debts, Jena and Prenzlau, his death.
 - **Nothing about method.** That is in About this edition.
+- **Seidel is not a source for the estates** (editor, 2026-10-03). His
+  biography of Hohenlohe-Ingelfingen covers the South Prussian estates only
+  briefly and makes assumptions the documents correct. It may be cited for
+  Hohenlohe-Ingelfingen's own life and career (Jena, Prenzlau, his marriage,
+  his death); anything about the estates rests on the documents in this
+  edition. The same holds for the timeline (`site/_data/timeline.yml`).
 
 Length follows the evidence: about 5,000 to 7,000 words now, under the section
 headings below, in English and German written separately.
