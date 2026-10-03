@@ -1270,6 +1270,12 @@ English reads "have been taken and who must be compensated" (a correction in
 english_corrections.yml). The corpus dataset was regenerated with it, and
 now also carries Blizanów and Świątniki.
 
+Extent gives the pages only (editor, 2026-10-03). A document's details panel
+gave its extent as "34 lines across 2 manuscript pages" with "lines 1-34"
+beneath; it now gives the number of manuscript pages alone ("2 manuscript
+pages", "1 manuscript page"; German "Handschriftenseite(n)"). The line numbers
+stay in the transcription view, where a line is cited.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

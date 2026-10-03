@@ -181,6 +181,7 @@ en:
   lines: lines
   across_pages: across
   manuscript_pages: manuscript pages
+  manuscript_page: manuscript page
   archival_lines: archival lines
   doc_lines: lines
   desc_en_only: This holding’s description has not been translated yet.
@@ -464,6 +465,7 @@ de:
   lines: Zeilen
   across_pages: auf
   manuscript_pages: Handschriftenseiten
+  manuscript_page: Handschriftenseite
   archival_lines: Archivzeilen
   doc_lines: Zeilen
   desc_en_only: Die Beschreibung dieses Bestandes liegt noch nicht auf Deutsch vor.

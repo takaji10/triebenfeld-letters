@@ -152,11 +152,13 @@ layout: default
         <br><span class="muted">{{ u.archive }}</span>
       </dd>
       {% endif %}
+      {%- comment -%} The number of manuscript pages only (editor, 2026-10-03): the line count says nothing a reader needs. {%- endcomment %}
+      {% if page.n_pages > 0 %}
       <dt data-i18n="extent">{{ t.extent }}</dt>
       <dd>
-        {{ page.n_lines }} <span data-i18n="lines">{{ t.lines }}</span>{% if page.n_pages > 1 %} <span data-i18n="across_pages">{{ t.across_pages }}</span> {{ page.n_pages }} <span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}<br>
-        <span class="muted"><span data-i18n="doc_lines">{{ t.doc_lines }}</span> {{ page.line_first }}-{{ page.line_last }}</span>
+        {{ page.n_pages }} {% if page.n_pages == 1 %}<span data-i18n="manuscript_page">{{ t.manuscript_page }}</span>{% else %}<span data-i18n="manuscript_pages">{{ t.manuscript_pages }}</span>{% endif %}
       </dd>
+      {% endif %}
 
       {% if page.people.size > 0 %}
       <dt data-i18n="people_named">{{ t.people_named }}</dt>
