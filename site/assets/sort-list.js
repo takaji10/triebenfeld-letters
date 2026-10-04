@@ -23,10 +23,11 @@
       var r;
       if (key === 'count') {
         r = (+a.getAttribute('data-count')) - (+b.getAttribute('data-count'));
-        if (r === 0) r = byName(a, b);     // stable tiebreak, so equal counts
-      } else {                              // stay alphabetical rather than
-        r = byName(a, b);                   // in whatever order they arrived
+        if (dir === 'desc') r = -r;
+        // Equal counts stay alphabetical, A-Z, whichever way the counts run.
+        return r === 0 ? byName(a, b) : r;
       }
+      r = byName(a, b);
       return dir === 'desc' ? -r : r;
     });
     var frag = document.createDocumentFragment();

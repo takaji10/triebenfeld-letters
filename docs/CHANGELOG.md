@@ -1366,6 +1366,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   under the timeline (site/_data/i18n.yml `movements`) was stale against the rewritten
   entries, and is gone in both languages.
 
+- **People page: one entry per person, full names, alphabetical** (editor, 2026-10-04).
+  The two kings appeared twice: a person with a second, document-limited pattern
+  (`issuer_match`) was listed once per pattern; build_site_data.py now lists each person
+  once. Each person is headed by the full name, surname first ("Hardenberg, Karl August
+  von"), from the new reference/people_headings.yml; forenames only where the documents or
+  the biography establish them. The list is alphabetical by that heading by default, with
+  Z-A, most mentions and fewest mentions as options; equal counts stay A-Z. The person
+  filter on Browse uses the same headings and order.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

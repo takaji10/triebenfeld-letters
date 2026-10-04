@@ -64,7 +64,7 @@
       </label>
       <label><span>{{ t.f_person }}</span>
         <select id="person"><option value="">{{ t.f_anyone }}</option>
-        {% for p in site.data.people %}<option value="{{ p.slug }}">{{ p.name }} ({{ p.count }})</option>{% endfor %}
+        {% for p in site.data.people %}<option value="{{ p.slug }}">{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %} ({{ p.count }})</option>{% endfor %}
         </select>
       </label>
       <label><span>{{ t.f_place }}</span>

@@ -6,24 +6,25 @@
 
 <nav class="sortbar" aria-label="Sort people">
   <span class="sortbar-label">{{ t.sort }}</span>
-  <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_mentions }}</button>
-  <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_mentions }}</button>
-  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="false">A-Z</button>
+  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="true">A-Z</button>
   <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
+  <button type="button" data-key="count" data-dir="desc" aria-pressed="false">{{ t.sort_most_mentions }}</button>
+  <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_mentions }}</button>
 </nav>
 
-{% assign sorted = site.data.people | sort: "count" | reverse %}
+{%- comment -%} In the order build_site_data.py writes: alphabetical by heading. {%- endcomment -%}
+{% assign sorted = site.data.people %}
 <div style="max-width:62rem" data-sortable>
 {% for p in sorted %}
   <div class="person" id="{{ p.slug }}"
-       data-name="{{ p.name | escape }}" data-count="{{ p.count }}">
+       data-name="{% if lang == 'de' %}{{ p.heading_de | escape }}{% else %}{{ p.heading | escape }}{% endif %}" data-count="{{ p.count }}">
     {%- assign p_life = p.life -%}
     {%- assign p_bio = p.bio -%}
     {%- if lang == 'de' -%}
       {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
       {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
     {%- endif %}
-    <h2>{{ p.name }}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
+    <h2>{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
     {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
     <p class="refs">
       Appears in {{ p.letters.size }} document{% if p.letters.size != 1 %}s{% endif %}
