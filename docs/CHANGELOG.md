@@ -1449,6 +1449,20 @@ lose his estates. The era page writes Konotop, not Kontop.
   draft of 31 December 1800 (document 14) marked illegible where it does not read. Sixteen
   glossary candidates ruled under excluded:; the holding is marked translated.
 
+- **Nr. 3709 worked into People, Places and the timeline** (editor, 2026-10-04).
+  - People: the biographies of Michalina Prusimska (her suit of 1800 for the Brzyce estates,
+    the judgment of 9 December 1800, her petition from Dresden of 1802), Antoni Prusimski
+    (still living in 1800; the life interest argued over), Goldbeck (his order of
+    December 1800 and its withdrawal), Danckelmann (vice-president at Poznań, then president
+    at Kalisz) and von der Reck (the petition of 1802), in both languages. Danckelmann is
+    now also found where his name is broken over a line.
+  - Correspondents: the Grand Chancellor Goldbeck, the South Prussian Governments at Poznań
+    and Warsaw, the Superior Appeal Senate of the Kammergericht and Michalina Prusimska.
+  - Places: "Ingelfingen" was tagged as a place named in the text wherever a document wrote
+    the Prince's name, "Hohenlohe Ingelfingen" (170 of 215 matches); the pattern now finds
+    only the town, the principality and the Prince "von Ingelfingen".
+  - Timeline: the 1800 entry is retitled "Prusimski's daughter sues for the Brzyce estates".
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

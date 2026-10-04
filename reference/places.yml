@@ -1167,7 +1167,10 @@ places:
   ingelfingen:
     display: "Ingelfingen"
     kind: town
-    match: 'Ingelfing\w*'
+    # Not the Prince's own name, "Hohenlohe Ingelfingen" (often broken over a
+    # line, Hohen¬ / lohe), which named the town in 170 of 215 places
+    # (2026-10-04); nor the colony Klein Ingelfingen near Kopojno.
+    match: '(?<!Klein )(?<!lohe )(?<!lohe-)(?<!lohe\n)(?<!loh-)(?<!loh -)(?<!lohe- )(?<!he )(?<!lche )(?<!V\. )(?<!Reck )(?<!Reck\n)(?<!loh\n)(?<!lohe-\n)(?<!lohe = )(?<!lohe, )Ingelfing\w*'
     tier: "Context-inferred"
     variants: []
     # Seat of the Prince's line, Hohenlohe-Ingelfingen.

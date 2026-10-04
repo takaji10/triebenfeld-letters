@@ -1017,7 +1017,8 @@ people:
     identity: "Legationsrath Jordan (letters 2, 268). Added 2026-09-28 in the names pass."
   danckelmann:
     display: "Danckelmann"
-    match: 'Danckelman+\w*'
+    # also broken over a line, Danckel¬ / mann (Nr. 3709, document 11)
+    match: 'Danckel(?:¬\s*)?man+\w*'
     tier: "Context-inferred"
     variants: []
     identity: "Graf Danckelmann, vice-president of the South Prussian government at Poznań under the first president von Steudener (state handbook for 1800, reference/sources/handbuch_1800_1801_regierung_posen.md). He signs its reports of June and July 1800 as Danckelman and had moved to the government at Kalisz by December 1800, when the Grand Chancellor calls him its president (I. HA GR, Rep. 7 C, Nr. 3709, document 11); also 9454 letter 57. Added 2026-09-28 in the names pass."
