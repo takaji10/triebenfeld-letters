@@ -1419,6 +1419,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   list is first opened); without script the numbered links remain. A link to
   /people/#slug opens that person's list.
 
+- **Document lists indented** (editor, 2026-10-04). An opened list of documents on the People
+  and Places pages is indented under its entry, with a rule down the left, so the cards read
+  as that person's or place's.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

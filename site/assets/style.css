@@ -512,6 +512,12 @@ img.scan {
 }
 .doclist > summary:hover { text-decoration: underline; }
 .doclist[open] > summary { margin-bottom: .2rem; }
+/* Indented under the entry, with a rule down the side, so the cards read as
+   that person's or place's and not as the next entry (editor, 2026-10-04). */
+.doclist-body {
+  margin-left: .35rem; padding-left: 1.1rem;
+  border-left: 2px solid var(--rule);
+}
 .doclist .doclist-order { border-bottom: 0; margin: .4rem 0 0; padding-bottom: 0; }
 .doclist .results { max-width: var(--measure); }
 .doclist .result { padding: .8rem 0; }
