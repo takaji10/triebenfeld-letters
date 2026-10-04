@@ -1440,6 +1440,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   documents. Not yet translated; the summaries have not had the claim check. See
   `units/ihagrrep7cnr3709/notes.md`.
 
+- **Nr. 3709 translated** (editor, 2026-10-04). The fifteen documents of I. HA GR, Rep. 7 C,
+  Nr. 3709 (Michalina Prusimska's suit for the Brzyce estates, 1800-1802) translated into
+  English in session, under the rules translate.py gives its translator (its system prompt,
+  termbase and canonical names, generated for this unit), written to the translation cache
+  as translate.py writes it, checked by check_translations.py (nine rows, none blocking) and
+  published. The French petition (document 15) translated from the French; the badly read
+  draft of 31 December 1800 (document 14) marked illegible where it does not read. Sixteen
+  glossary candidates ruled under excluded:; the holding is marked translated.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

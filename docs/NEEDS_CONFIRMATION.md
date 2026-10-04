@@ -152,12 +152,15 @@ Places (`reference/places.yml`, `open_questions`):
 
 ## Translations
 
-All 421 English translations are machine drafts (`status: draft` in
+All 436 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
 Five documents without English have no text to translate: in Oe 1 Bü 9454
 the skipped number 9 and the missing 121, 181, 225, 293. The fifteen of
-Nr. 3709 are transcribed and wait to be translated.
+Nr. 3709 were translated in session on 2026-10-04 (not by the paid run); its
+nine review rows are none blocking: three damaged pages shown as gaps, three
+"Cammer" matches that are the Kammergericht, three places marked doubtful in
+the badly read draft 14 and the registry note of 13.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`

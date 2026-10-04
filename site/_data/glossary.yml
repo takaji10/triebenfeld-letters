@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 341
+  docs: 342
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1822,7 +1822,7 @@
   initial_en: "D"
   sort_de: "geruhen"
   initial_de: "G"
-  docs: 106
+  docs: 107
 - id: "locus-sigilli"
   kind: "phrase"
   lang: "la"
@@ -1974,7 +1974,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 82
+  docs: 87
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

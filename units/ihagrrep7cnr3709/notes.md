@@ -3,8 +3,8 @@
 Fifteen documents on 19 pages, plus the cover as front matter, 1800-1802: the
 file on Michalina Prusimska's lawsuit against the Prince of
 Hohenlohe-Ingelfingen for the Brzyce estates. Scans added 2026-10-01;
-transcribed, divided, corrected and summarised on 2026-10-04. Not yet
-translated.
+transcribed, divided, corrected and summarised on 2026-10-04, and translated
+in session the same day.
 
 ## Provenance
 
@@ -219,8 +219,13 @@ sheet is rebuilt by `intake/signature_sheet.py` and needs the page images.
 
 ## Still to do
 
-- Translation into English (paid; pilot not needed, the same kind of source
-  as Nr. 12765). `unit.yml` carries the description and translation note.
+- Translation: done in session on 2026-10-04, under translate.py's own rules
+  (its system prompt and termbase, generated for this unit), written to
+  cache/translation-raw/ as translate.py writes it, checked by
+  check_translations.py (9 rows, none blocking) and published. Not the paid
+  run: if the editor wants the model's own translation for comparison,
+  translate.py --unit ihagrrep7cnr3709 --all will overwrite the cache.
 - The claim check of the German summaries (paid), if the editor wants it.
 - The editor's eye on the signatures sheet and on `unresolved.md`.
-- Glossary candidates once translated (`glossary_candidates.py --unit`).
+- Glossary candidates: done; the 16 words ruled under excluded: in
+  reference/glossary.yml.
