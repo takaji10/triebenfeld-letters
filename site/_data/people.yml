@@ -240,25 +240,25 @@
   bio_de: "Ein Freund Triebenfelds und Vertrauter Humboldts, der Ende 1815 als Nachfolger Barbes in Hardenbergs Büro erwartet wurde."
   letters: [{id: "297", url: "/documents/oe1bu9454/297/"}, {id: "298", url: "/documents/oe1bu9454/298/"}, {id: "299", url: "/documents/oe1bu9454/299/"}]
 - slug: "born"
-  name: "Born"
-  heading: "Born"
-  heading_de: "Born"
-  count: 10
-  life: "documented 1804-1811"
-  life_de: "belegt 1804-1811"
-  bio: "Named in letters and contracts between 1804 and 1811. The edition has not established who he was."
-  bio_de: "Zwischen 1804 und 1811 in Briefen und Verträgen genannt. Wer er war, hat die Edition nicht ermittelt."
-  letters: [{id: "139", url: "/documents/oe1bu9454/139/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "4", url: "/documents/oe1bu14526/4/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
+  name: "Ernst Gottlob Born"
+  heading: "Born, Ernst Gottlob"
+  heading_de: "Born, Ernst Gottlob"
+  count: 2
+  life: "documented 1805"
+  life_de: "belegt 1805"
+  bio: "Ernst Gottlob Born, doctor of law, royal justice official and syndic of the university at Frankfurt an der Oder, who certified powers of attorney for the sale of Kamionna and Kolno in 1804 and 1805."
+  bio_de: "Dr. Ernst Gottlob Born, königlicher Justizbeamter und Syndikus der Universität Frankfurt an der Oder, der 1804 und 1805 Vollmachten für den Verkauf von Kamionna und Kolno beglaubigte."
+  letters: [{id: "4", url: "/documents/oe1bu14526/4/"}, {id: "23", url: "/documents/oe1bu14526/23/"}]
 - slug: "bornstaedt"
   name: "Bornstädt"
   heading: "Bornstädt"
   heading_de: "Bornstädt"
-  count: 6
+  count: 8
   life: "documented 1804-1811"
   life_de: "belegt 1804-1811"
   bio: "An intermediary in the sale of the lordship of Pszczew in 1804, who claimed a fee for it and appears as a creditor in the register."
   bio_de: "Ein Vermittler beim Verkauf der Herrschaft Betsche 1804, der dafür ein Honorar forderte und im Gläubigerverzeichnis erscheint."
-  letters: [{id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
+  letters: [{id: "139", url: "/documents/oe1bu9454/139/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "142", url: "/documents/oe1bu9454/142/"}, {id: "24", url: "/documents/oe1bu9454/24/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "brandenstein"
   name: "Brandenstein"
   heading: "Brandenstein"
@@ -689,26 +689,16 @@
   bio: "Count Friedrich Wilhelm von Götzen, Prussian general and governor of Silesia in 1807 and 1808. Triebenfeld named him in 1809 as a witness in a matter of inheritance."
   bio_de: "Graf Friedrich Wilhelm von Götzen, preußischer General und 1807 und 1808 Gouverneur von Schlesien. Triebenfeld nannte ihn 1809 als Zeugen in einer Erbschaftssache."
   letters: [{id: "55", url: "/documents/oe1bu9454/55/"}]
-- slug: "graevenitz"
-  name: "Grävenitz"
-  heading: "Grävenitz"
-  heading_de: "Grävenitz"
-  count: 1
-  life: "documented 1815"
-  life_de: "belegt 1815"
-  bio: "Probably the Berlin councillor Grevenitz, who has his own entry; the name is written both ways."
-  bio_de: "Vermutlich der Berliner Rat Grevenitz, der einen eigenen Eintrag hat; der Name wird auf beide Weisen geschrieben."
-  letters: [{id: "2", url: "/documents/oe1bu9454/2/"}]
 - slug: "grevenitz"
   name: "Grevenitz"
   heading: "Grevenitz"
   heading_de: "Grevenitz"
-  count: 9
+  count: 10
   life: "documented 1809-1815"
   life_de: "belegt 1809-1815"
-  bio: "Councillor of the Kammergericht in Berlin, who acted for Triebenfeld in the Lahr suit and forwarded his post in 1815."
-  bio_de: "Kammergerichtsrat in Berlin, der Triebenfeld im Lahrschen Prozess vertrat und ihm 1815 die Post nachsandte."
-  letters: [{id: "42", url: "/documents/oe1bu9454/42/"}, {id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "198", url: "/documents/oe1bu9454/198/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
+  bio: "Councillor of the Kammergericht in Berlin, who stood surety for Triebenfeld in the van der Lahr suit in 1809, sent him news from Berlin, and forwarded his post in 1815. Also written Grävenitz."
+  bio_de: "Kammergerichtsrat in Berlin, der 1809 im van der Lahrschen Prozess für Triebenfeld bürgte, ihm Nachrichten aus Berlin schrieb und ihm 1815 die Post nachsandte. Auch Grävenitz geschrieben."
+  letters: [{id: "42", url: "/documents/oe1bu9454/42/"}, {id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "65", url: "/documents/oe1bu9454/65/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "198", url: "/documents/oe1bu9454/198/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "6", url: "/documents/oe1bu9454/6/"}, {id: "296", url: "/documents/oe1bu9454/296/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
 - slug: "grimm"
   name: "Grimm"
   heading: "Grimm"
@@ -783,12 +773,12 @@
   name: "Haugt"
   heading: "Haugt"
   heading_de: "Haugt"
-  count: 6
+  count: 7
   life: "documented 1805-1811"
   life_de: "belegt 1805-1811"
   bio: "A Berlin creditor, named with Oppenheimer and Girard, whose mortgage Triebenfeld sought to have taken over in 1805."
   bio_de: "Ein Berliner Gläubiger, zusammen mit Oppenheimer und Girard genannt, dessen Hypothek Triebenfeld 1805 übernehmen lassen wollte."
-  letters: [{id: "157", url: "/documents/oe1bu9454/157/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "33", url: "/documents/oe1bu9454/33/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "213", url: "/documents/oe1bu9454/213/"}]
+  letters: [{id: "157", url: "/documents/oe1bu9454/157/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "33", url: "/documents/oe1bu9454/33/"}, {id: "64", url: "/documents/oe1bu9454/64/"}, {id: "213", url: "/documents/oe1bu9454/213/"}]
 - slug: "haugwitz"
   name: "Haugwitz"
   heading: "Haugwitz, Christian von"
@@ -1143,22 +1133,12 @@
   name: "Koppe"
   heading: "Koppe"
   heading_de: "Koppe"
-  count: 3
+  count: 4
   life: "documented 1806-1815"
   life_de: "belegt 1806-1815"
-  bio: "Secretary and later assessor in the service of Hohenlohe-Ingelfingen, through whom Triebenfeld learned in October 1806 that the Prince had survived the defeat."
-  bio_de: "Sekretär und später Assessor im Dienst Hohenlohe-Ingelfingens, durch den Triebenfeld im Oktober 1806 erfuhr, dass der Fürst die Niederlage überlebt hatte."
-  letters: [{id: "26", url: "/documents/oe1bu9454/26/"}, {id: "36", url: "/documents/oe1bu9454/36/"}, {id: "291", url: "/documents/oe1bu9454/291/"}]
-- slug: "koppen"
-  name: "Koppen"
-  heading: "Koppen"
-  heading_de: "Koppen"
-  count: 1
-  life: "documented 1808"
-  life_de: "belegt 1808"
-  bio: "Named in 1808 as the person to whom papers of Hohenlohe-Ingelfingen were to be passed. Possibly the assessor Koppe, who has his own entry."
-  bio_de: "1808 als derjenige genannt, an den Papiere Hohenlohe-Ingelfingens weiterzugeben waren. Möglicherweise der Assessor Koppe, der einen eigenen Eintrag hat."
-  letters: [{id: "37", url: "/documents/oe1bu9454/37/"}]
+  bio: "Secretary and later assessor in the service of Hohenlohe-Ingelfingen, through whom Triebenfeld learned in October 1806 that the Prince had survived the defeat. In 1808, back from Paris, he was to receive papers about the Eysenhardt money; by 1815 he was employed in Hanover. Also written Koppen."
+  bio_de: "Sekretär und später Assessor im Dienst Hohenlohe-Ingelfingens, durch den Triebenfeld im Oktober 1806 erfuhr, dass der Fürst die Niederlage überlebt hatte. 1808, aus Paris zurück, sollte er Papiere über die Eysenhardtschen Gelder erhalten; 1815 war er in Hannover angestellt. Auch Koppen geschrieben."
+  letters: [{id: "26", url: "/documents/oe1bu9454/26/"}, {id: "36", url: "/documents/oe1bu9454/36/"}, {id: "37", url: "/documents/oe1bu9454/37/"}, {id: "291", url: "/documents/oe1bu9454/291/"}]
 - slug: "kuh"
   name: "Gebrüder Kuh"
   heading: "Kuh (brothers)"
@@ -1349,16 +1329,6 @@
   bio: "Councillor of justice at Poznań, who represented Hohenlohe-Ingelfingen before the government there in registering the title to Pszczew and in the Broniewski suit."
   bio_de: "Justizrat in Posen, der Hohenlohe-Ingelfingen vor der dortigen Regierung bei der Eintragung des Besitztitels an Betsche und im Prozess gegen Broniewski vertrat."
   letters: [{id: "75", url: "/documents/oe1bu9454/75/"}, {id: "38", url: "/documents/oe1bu14525/38/"}, {id: "16", url: "/documents/oe1bu14525/16/"}, {id: "24", url: "/documents/oe1bu14525/24/"}, {id: "139", url: "/documents/oe1bu9454/139/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "141", url: "/documents/oe1bu9454/141/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "179", url: "/documents/oe1bu9454/179/"}]
-- slug: "melzig"
-  name: "Melzig"
-  heading: "Melzig"
-  heading_de: "Melzig"
-  count: 3
-  life: "documented 1804-1810"
-  life_de: "belegt 1804-1810"
-  bio: "Judicial burgomaster on the estates, whom Triebenfeld reproved in 1808 for not collecting the townspeople's debts and who was to conduct lawsuits in 1810."
-  bio_de: "Justizbürgermeister auf den Gütern, den Triebenfeld 1808 rügte, weil er die Schulden der Bürger nicht eintrieb, und der 1810 Prozesse führen sollte."
-  letters: [{id: "140", url: "/documents/oe1bu9454/140/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "71", url: "/documents/oe1bu9454/71/"}]
 - slug: "mencke"
   name: "Mencke"
   heading: "Mencken, Anastasius Ludwig"
@@ -1393,12 +1363,12 @@
   name: "Metzig"
   heading: "Metzig"
   heading_de: "Metzig"
-  count: 5
-  life: "documented 1804-1808"
-  life_de: "belegt 1804-1808"
-  bio: "Named in connection with the estates between 1804 and 1808. Possibly the same man as the judicial burgomaster Melzig."
-  bio_de: "Zwischen 1804 und 1808 im Zusammenhang mit den Gütern genannt. Möglicherweise derselbe wie der Justizbürgermeister Melzig."
-  letters: [{id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "29", url: "/documents/oe1bu14526/29/"}, {id: "41", url: "/documents/oe1bu9454/41/"}]
+  count: 7
+  life: "documented 1804-1810"
+  life_de: "belegt 1804-1810"
+  bio: "Judicial burgomaster at Skwierzyna, taken on in 1804 as justiciary of the court for Pszczew, Kolno and Kamionna. He witnessed the sale of Pszczew to its inhabitants, was reproved by Triebenfeld in 1808 for not collecting the townspeople's debts, and was to conduct lawsuits in 1810. Also written Melzig."
+  bio_de: "Justizbürgermeister in Skwierzyna, 1804 als Justitiar des Gerichts für Pszczew, Kolno und Kamionna angenommen. Er wirkte beim Verkauf von Pszczew an die Einwohner mit, wurde 1808 von Triebenfeld gerügt, weil er die Schulden der Bürger nicht eintrieb, und sollte 1810 Prozesse führen. Auch Melzig geschrieben."
+  letters: [{id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "29", url: "/documents/oe1bu14526/29/"}, {id: "41", url: "/documents/oe1bu9454/41/"}, {id: "71", url: "/documents/oe1bu9454/71/"}]
 - slug: "meyer-wrabczyn"
   name: "Meyer (at Wrąbczyn)"
   heading: "Meyer (clerk at Wrąbczyn)"
@@ -2197,26 +2167,16 @@
   bio: "Albrecht Daniel Thaer, agronomist and founder of the agricultural academy at Möglin. Hohenlohe-Ingelfingen mentions him in a letter of 1811."
   bio_de: "Albrecht Daniel Thaer, Agrarwissenschaftler und Gründer der landwirtschaftlichen Akademie in Möglin. Hohenlohe-Ingelfingen erwähnt ihn in einem Brief von 1811."
   letters: [{id: "223", url: "/documents/oe1bu9454/223/"}]
-- slug: "tietz"
-  name: "Tietz"
-  heading: "Tietz"
-  heading_de: "Tietz"
-  count: 8
-  life: "documented 1798-1808"
-  life_de: "belegt 1798-1808"
-  bio: "Probably the forest inspector Carl Titz, who has his own entry; the letters write the name both ways."
-  bio_de: "Vermutlich der Forstinspektor Carl Titz, der einen eigenen Eintrag hat; die Briefe schreiben den Namen auf beide Weisen."
-  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "34", url: "/documents/oe1bu9454/34/"}]
 - slug: "titz"
   name: "Carl Titz"
   heading: "Titz, Carl"
   heading_de: "Titz, Carl"
-  count: 4
-  life: "documented 1799-1805"
-  life_de: "belegt 1799-1805"
-  bio: "Carl Titz, forest inspector of Hohenlohe-Ingelfingen on the Trąbczyn estates, who took five Hufen of the Trąbczyn farm on hereditary lease in 1805."
-  bio_de: "Carl Titz, Forstinspektor Hohenlohe-Ingelfingens auf den Trąbczyner Gütern, der 1805 fünf Hufen des Vorwerks Trąbczyn in Erbzins nahm."
-  letters: [{id: "27", url: "/documents/oe1bu14526/27/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}]
+  count: 12
+  life: "documented 1798-1808"
+  life_de: "belegt 1798-1808"
+  bio: "Carl Titz, forest inspector of Hohenlohe-Ingelfingen on the Trąbczyn and Zagórów estates. He leased the demesne farm of Drzewce and in 1805 took five Hufen of the Trąbczyn farm on hereditary lease. The letters also write him Tietz."
+  bio_de: "Carl Titz, Forstinspektor Hohenlohe-Ingelfingens auf den Gütern Trąbczyn und Zagórów. Er pachtete das Vorwerk Drzewce und nahm 1805 fünf Hufen des Vorwerks Trąbczyn in Erbzins. Die Briefe schreiben ihn auch Tietz."
+  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "27", url: "/documents/oe1bu14526/27/"}, {id: "163", url: "/documents/oe1bu9454/163/"}, {id: "173", url: "/documents/oe1bu9454/173/"}, {id: "15", url: "/documents/oe1bu14526/15/"}, {id: "14", url: "/documents/oe1bu14526/14/"}, {id: "13", url: "/documents/oe1bu14526/13/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "31", url: "/documents/oe1bu9454/31/"}, {id: "34", url: "/documents/oe1bu9454/34/"}]
 - slug: "triebenfeld"
   name: "v. Triebenfeld"
   heading: "Triebenfeld, Peter Friedrich August von"

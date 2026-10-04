@@ -230,7 +230,7 @@ rules:
     is now a recorded variant (2026-10-03).
 
 - id: person-spellings
-  pattern: "\\b(Broniewsky|Kielczewski|Kiełszewski|Landskoy|Merkel|Schenk|Schuckman|Schulemburg|Tismar|Sobolowski|Reppnin|Allbrecht|Maciey|Niedzwiedzki|Niedzwidzki|Konstantin|Stoesel|Bethney|von der Laar|Van der Laar)\\b"
+  pattern: "\\b(Broniewsky|Kielczewski|Kiełszewski|Landskoy|Merkel|Schenk|Schuckman|Schulemburg|Tismar|Sobolowski|Reppnin|Allbrecht|Maciey|Niedzwiedzki|Niedzwidzki|Konstantin|Stoesel|Bethney|von der Laar|Van der Laar|Tietz|Melzig|Koppen|Grävenitz|Haucht|Bornstedt)\\b"
   names:
     "Broniewsky": "Broniewski"
     "Kielczewski": "Kiełczewski"
@@ -252,6 +252,12 @@ rules:
     "Bethney": "Bethusy"
     "von der Laar": "van der Lahr"
     "Van der Laar": "Van der Lahr"
+    "Tietz": "Titz"
+    "Melzig": "Metzig"
+    "Koppen": "Koppe"
+    "Grävenitz": "Grevenitz"
+    "Haucht": "Haugt"
+    "Bornstedt": "Bornstädt"
   why: >-
     People the manuscripts spell otherwise, carried into the English as written.
     Each is the person of that name in reference/people.yml, where the spelling

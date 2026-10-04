@@ -74,13 +74,15 @@ people:
     tier: ""
     variants: []
   born:
-    display: "Born"
-    match: "Born"
-    tier: ""
+    display: "Ernst Gottlob Born"
+    match: 'Born(?![a-zà-ÿ¬\-=])'
+    only_in: [oe1bu14526-4, oe1bu14526-23]
+    tier: "Text-confirmed"
     variants: []
+    identity: "Dr. Ernst Gottlob Born, royal justice official and syndic of the university at Frankfurt an der Oder, who certified powers of attorney in 1804 and 1805 (14526-4, -23). Until 2026-10-04 this entry also caught the first letters of Bornstädt, Bornsted and Born-staedt."
   bornstaedt:
     display: "Bornstädt"
-    match: 'Bornst(?:ä|ae|a)e?dt\w*|Bornstaet'
+    match: 'Bornst(?:ä|ae|a|e)e?d\w*|Bornstaet'
     tier: "Externally confirmed (family), role unclear beyond creditor"
     variants: ["Bornstaedt", "Bornstaet"]
   broniewski:
@@ -169,12 +171,6 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "A von Goldbeck who came to Kalisz as president of the chamber in 1805 and supported the division of the estates (letters 152, 162, 168, 172). Forename not established. Split 2026-10-04."
-  graevenitz:
-    display: "Grävenitz"
-    match: "Grävenitz"
-    abbrev: "Grev:"
-    tier: "Externally confirmed (family), individual role unclear"
-    variants: []
   grimm:
     display: "Grimm"
     match: "Grimm"
@@ -374,9 +370,10 @@ people:
     variants: []
   metzig:
     display: "Metzig"
-    match: "Metzig"
-    tier: ""
-    variants: []
+    match: 'Me[tl]zig(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Melzig"]
+    identity: "Metzig, Justiz-Bürgermeister at Skwierzyna (Schwerin), taken on in 1804 as justiciary of Pszczew, Kolno and Kamionna; he signs the Pszczew contracts and the court's report of 1805 as Metzig (14526-18, -19, -5, -29). Letter 41 writes him Metzig and Melzig in one passage, so the judicial burgomaster Melzig (letters 140, 41, 71) is he: merged 2026-10-04."
   michaelis-hoffiskal:
     display: "Michaelis (court fiscal)"
     match: 'Michaelis(?![a-zà-ÿ])'
@@ -669,9 +666,10 @@ people:
     variants: ["Taillerand", "Tailleraad", "Tal[leyrand]"]
   titz:
     display: "Carl Titz"
-    match: "Titz"
-    tier: ""
-    variants: []
+    match: 'Ti(?:e)?tz(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: ["Tietz"]
+    identity: "Carl Titz, the Prince's forest inspector at Trąbczyn and Zagórów, who signs as Titz (14526-27, -15) and leased the demesne farm of Drzewce, where the letters write him Tietz ('Forst Inspector Tietz für das Vorwerck Drzewce', 179a). The Tietz of the letters merged here 2026-10-04."
   triebenfeld:
     display: "v. Triebenfeld"
     render: "Triebenfeld"
@@ -836,10 +834,10 @@ people:
     identity: "Criminal Rath Stenger of Karge, Triebenfeld's agent in the Polish estates 1809-10 (letters 21-23, 68, 215). Added 2026-09-28 in the names pass."
   koppe:
     display: "Koppe"
-    match: 'Koppe(?![a-zà-ÿ])'
+    match: 'Koppen?(?![a-zà-ÿ])'
     tier: "Context-inferred"
-    variants: []
-    identity: "Secretary Koppe at Stettin (letter 26), later Assessor (letter 36), later employed in Hanover (letter 291). Added 2026-09-28 in the names pass."
+    variants: ["Koppen"]
+    identity: "Secretary Koppe at Stettin (letter 26), later Assessor, back from abroad in March 1808 (letter 36) and written Koppen in May, 'just returned from Paris', in the same Eysenhardt business (letter 37); employed in Hanover by 1815 (letter 291). Koppen merged here 2026-10-04."
   bally:
     display: "Bally"
     match: 'Bally(?![a-zà-ÿ])'
@@ -1039,12 +1037,6 @@ people:
     tier: "Context-inferred"
     variants: []
     identity: "Justiz Commissarius Mitschke of Kalisz (letter 31). Added 2026-09-28 in the names pass."
-  melzig:
-    display: "Melzig"
-    match: 'Melzig(?![a-zà-ÿ])'
-    tier: "Context-inferred"
-    variants: []
-    identity: "Justiz Bürgermeister Melzig (letters 41, 140). Added 2026-09-28 in the names pass."
   kielczewski:
     display: "Kiełczewski"
     # not the late holder of Lekarzewice, 'eines gewissen von Kielczewski' (I. HA GR, Rep. 7 C, Nr. 3570, 1796)
@@ -1092,12 +1084,6 @@ people:
     tier: "Context-inferred"
     variants: []
     identity: "Merchant, buyer for Schweinern (letter 203). Added 2026-09-28 in the names pass."
-  koppen:
-    display: "Koppen"
-    match: 'Koppen(?![a-zà-ÿ])'
-    tier: "Context-inferred"
-    variants: []
-    identity: "Returned from Paris (letter 37). Added 2026-09-28 in the names pass."
   wiesolowski:
     display: "Wiesolowski"
     match: 'Wiesolowski\w*'
@@ -1124,16 +1110,17 @@ people:
     identity: "Graf Bethusy (letters 51, 55). Added 2026-09-28 in the names pass."
   grevenitz:
     display: "Grevenitz"
-    match: 'Grevenitz\w*'
+    match: 'Gr[äe]venitz\w*'
+    abbrev: "Grev:"
     tier: "Context-inferred"
-    variants: []
-    identity: "Kammergerichts Rath von Grevenitz, Berlin; writer of letter 296 (letters 42, 64, 67, 296). Added 2026-09-28 after the nonword sweep."
+    variants: ["Grävenitz"]
+    identity: "Kammergerichts Rath von Grevenitz, Berlin; writer of letter 296 (letters 42, 64, 67, 296). 'Grev:' in letter 2 (1815) is he: merged 2026-10-04 with the former Grävenitz entry, which held only that abbreviation."
   haugt:
     display: "Haugt"
-    match: 'Haugt(?![a-zà-ÿ])'
+    match: 'Hau(?:g|ch)t(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
-    identity: "Creditor, named with Oppenheimer and Giraud (letters 33, 157, 179). Letter 31's Haucht und Consorten may be the same man; not merged. Added 2026-09-28 after the nonword sweep."
+    identity: "Creditor, named with Oppenheimer and Giraud (letters 33, 157, 179). Letter 31's 'Haucht und Consorten', registered on Święcia, is the same creditor (merged 2026-10-04). Added 2026-09-28 after the nonword sweep."
   kaiser-alexander:
     display: "Kaiser Alexander I."
     match: '(?<=Kayser )Al{1,2}exander|(?<=Kayser )Allex(?=:)|(?<=R\. K\. )Allexander|(?<=wogegen )Alexander|(?<=glücklich )Alexander|(?<=Kaysers )Allexander'

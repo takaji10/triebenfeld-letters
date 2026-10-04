@@ -1392,6 +1392,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   dark mode. It now uses `--paper`, light on dark in the light theme and dark on light in the
   dark one (People and Places pages).
 
+- **People: duplicates merged** (editor's question, 2026-10-04). Four people had two
+  entries under two spellings: Grevenitz (Grävenitz, "Grev:"), Carl Titz (Tietz, the forest
+  inspector who leased Drzewce), Koppe (Koppen, back from Paris in 1808) and Metzig (Melzig,
+  written both ways in one passage of letter 41). Each is now one entry, and the English
+  uses one spelling (english_forms.yml, person-spellings). The "Born" entry was catching the
+  start of Bornstädt and Bornsted: it is now Dr Ernst Gottlob Born of Frankfurt an der Oder
+  alone (two certifications), and Bornstädt finds all his spellings. Haugt now also finds
+  "Haucht" (letter 31). Knoblauch and Knobloch are two men and stay apart.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
