@@ -402,17 +402,6 @@
  "place_canonical": "Sommerfeld",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0026_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
-   "line": 614,
-   "doc_line": 7
-  },
-  {
    "entity": "konin",
    "display": "Konin",
    "kind": "place",

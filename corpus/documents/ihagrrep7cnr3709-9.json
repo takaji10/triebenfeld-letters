@@ -120,7 +120,96 @@
    "doc_line": 15
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schroener",
+   "kind": "person",
+   "surface_de": "Schroener",
+   "surface_en": "Schroener",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posenschen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michaelina von Prusimska",
+   "surface_en": "Michaelina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Prusimska",
+   "kind": "person",
+   "surface_de": "von Prusimska",
+   "surface_en": "von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posener",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -179,9 +268,86 @@
    "doc_line": 31
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "To the South Prussian Government at Warsaw.\n\n13th: all by post, and with the contents: md Bamg[text lost]t\n\n11th Schroener\n\n10 Dec. Friedrich Wilhelm, King, etc. Our, etc. A lawsuit is pending before the Poznań Government between the guardian of the minor Michaelina von Prusimska and the Prince of Hohenlohe-Ingelfingen, directed to the recovery of the Brzyce estates. Since the suit of the guardian of von Prusimska",
+   "names": [
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Schroener",
+     "en": "Schroener",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Posenschen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelina von Prusimska",
+     "en": "Michaelina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "von Prusimska",
+     "en": "von Prusimska",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "13",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "was brought at the instance of the guardianship board there, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, but most of the councillors of the Poznań Government are members of the said board, We have resolved that the said case shall be decided in the first instance by the full bench of your court; which, and that the Government at Poznań\n\nof this\n\nhas been informed, We hereby make known to you for your observance.\n\nAnd are, etc. Berlin, 7 December 1800. By command.\n\n# # #",
+   "names": [
+    {
+     "de": "Posener",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "To the South Prussian Government at Warsaw.\n\n13th: all by post, and with the contents: md Bamg[text lost]t\n\n11th Schroener\n\n10 Dec. Friedrich Wilhelm, King, etc. Our, etc. A lawsuit is pending before the Poznań Government between the guardian of the minor Michaelina von Prusimska and the Prince of Hohenlohe-Ingelfingen, directed to the recovery of the Brzyce estates. Since the suit of the guardian of von Prusimska\n\nwas brought at the instance of the guardianship board there, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, but most of the councillors of the Poznań Government are members of the said board, We have resolved that the said case shall be decided in the first instance by the full bench of your court; which, and that the Government at Poznań\n\nof this\n\nhas been informed, We hereby make known to you for your observance.\n\nAnd are, etc. Berlin, 7 December 1800. By command.\n\n# # #",
  "summary_en": "Draft of a royal rescript to the Government at Warsaw: a suit for the recovery of the Brzyce estates is pending before the Government at Poznań between the guardian of the minor Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen. Since the guardianship board there occasioned and directs the suit and most of the Poznań councillors belong to it, the case is to be decided in the first instance by the full bench of the Government at Warsaw. The Government at Poznań has been informed. The rescripts went to the post on the 13th.",
  "summary_de": "Entwurf eines königlichen Reskripts an die Regierung zu Warschau: Bei der Posener Regierung schwebt zwischen dem Vormund der minderjährigen Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen ein Prozess auf Herausgabe der Brzycer Güter. Da das dortige Pupillenkollegium die Klage veranlasst hat und leitet und die meisten Posener Räte ihm angehören, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau entschieden werden. Die Regierung zu Posen ist benachrichtigt. Die Reskripte gingen am 13. zur Post.",
  "reading": {}

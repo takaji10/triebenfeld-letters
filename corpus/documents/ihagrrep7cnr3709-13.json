@@ -107,7 +107,80 @@
    "doc_line": 24
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michalina von Prusimska",
+   "surface_en": "Michalina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posener",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schroener",
+   "kind": "person",
+   "surface_de": "Schroener",
+   "surface_en": "Schroener",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -133,17 +206,6 @@
    "doc_line": 3
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0017_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
-   "line": 443,
-   "doc_line": 11
-  },
-  {
    "entity": "brzyce",
    "display": "Brzyce",
    "kind": "place",
@@ -166,9 +228,75 @@
    "doc_line": 22
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Berlin, 31 December 1800. To the South Prussian Government at Warsaw.\n\nex officio Friedrich Wilhelm, King, etc. Our, etc. By the rescript of the 7th of this month We instructed you to undertake the drawing up of the judgment of first instance in the lawsuit pending between the guardian of Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen concerning the recovery of the Brzyce estates. The Poznań Government has, however, reported that the judgment was already drawn up by it on the 9th, and so before the arrival of the order issued to it, and the rescript cited above can consequently have no application; of which We hereby give you notice for your information. And are, etc. Berlin, 31 December 1800. By command\n\nG[oldbeck]\n\nacc. the 2nd.\n\nad rec. the 3rd.\n\n[uncertain: enclosures] lie with it.\n\n5 January 1801, to the post. Bamuzut[illegible]\n\nthe 4th Schroener\n\n3 Jan.",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Michalina von Prusimska",
+     "en": "Michalina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Posener",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    },
+    {
+     "de": "Schroener",
+     "en": "Schroener",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1800",
+    "7",
+    "9",
+    "31",
+    "1800",
+    "2",
+    "3",
+    "5",
+    "1801",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "text_english": "Berlin, 31 December 1800. To the South Prussian Government at Warsaw.\n\nex officio Friedrich Wilhelm, King, etc. Our, etc. By the rescript of the 7th of this month We instructed you to undertake the drawing up of the judgment of first instance in the lawsuit pending between the guardian of Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen concerning the recovery of the Brzyce estates. The Poznań Government has, however, reported that the judgment was already drawn up by it on the 9th, and so before the arrival of the order issued to it, and the rescript cited above can consequently have no application; of which We hereby give you notice for your information. And are, etc. Berlin, 31 December 1800. By command\n\nG[oldbeck]\n\nacc. the 2nd.\n\nad rec. the 3rd.\n\n[uncertain: enclosures] lie with it.\n\n5 January 1801, to the post. Bamuzut[illegible]\n\nthe 4th Schroener\n\n3 Jan.",
  "summary_en": "Draft of a royal rescript to the Government at Warsaw: by the rescript of 7 December it had been charged with the judgment in the first instance in the suit between Michalina von Prusimska's guardian and the Prince of Hohenlohe-Ingelfingen over the Brzyce estates. The Government at Poznań has reported, however, that it gave judgment on the 9th, before the order reached it; the rescript therefore does not apply. Sent to the post on 5 January 1801.",
  "summary_de": "Entwurf eines königlichen Reskripts an die Regierung zu Warschau: Ihr war durch das Reskript vom 7. Dezember das Urteil erster Instanz im Prozess zwischen dem Vormund der Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen wegen der Brzycer Güter aufgetragen worden. Die Posener Regierung hat aber angezeigt, dass sie das Urteil bereits am 9. gefällt hat, also vor Eingang der Verfügung; das Reskript findet daher keine Anwendung. Zur Post gegeben am 5. Januar 1801.",
  "reading": {}

@@ -1440,6 +1440,29 @@ lose his estates. The era page writes Konotop, not Kontop.
   documents. Not yet translated; the summaries have not had the claim check. See
   `units/ihagrrep7cnr3709/notes.md`.
 
+- **Nr. 3709 translated** (editor, 2026-10-04). The fifteen documents of I. HA GR, Rep. 7 C,
+  Nr. 3709 (Michalina Prusimska's suit for the Brzyce estates, 1800-1802) translated into
+  English in session, under the rules translate.py gives its translator (its system prompt,
+  termbase and canonical names, generated for this unit), written to the translation cache
+  as translate.py writes it, checked by check_translations.py (nine rows, none blocking) and
+  published. The French petition (document 15) translated from the French; the badly read
+  draft of 31 December 1800 (document 14) marked illegible where it does not read. Sixteen
+  glossary candidates ruled under excluded:; the holding is marked translated.
+
+- **Nr. 3709 worked into People, Places and the timeline** (editor, 2026-10-04).
+  - People: the biographies of Michalina Prusimska (her suit of 1800 for the Brzyce estates,
+    the judgment of 9 December 1800, her petition from Dresden of 1802), Antoni Prusimski
+    (still living in 1800; the life interest argued over), Goldbeck (his order of
+    December 1800 and its withdrawal), Danckelmann (vice-president at Poznań, then president
+    at Kalisz) and von der Reck (the petition of 1802), in both languages. Danckelmann is
+    now also found where his name is broken over a line.
+  - Correspondents: the Grand Chancellor Goldbeck, the South Prussian Governments at Poznań
+    and Warsaw, the Superior Appeal Senate of the Kammergericht and Michalina Prusimska.
+  - Places: "Ingelfingen" was tagged as a place named in the text wherever a document wrote
+    the Prince's name, "Hohenlohe Ingelfingen" (170 of 215 matches); the pattern now finds
+    only the town, the principality and the Prince "von Ingelfingen".
+  - Timeline: the 1800 entry is retitled "Prusimski's daughter sues for the Brzyce estates".
+
 - **III. HA MdA, III. Nr. 12366 added** (2026-10-04). The foreign ministry's file on Michalina
   Miączyńska's claim and on the Polish judgments against Hohenlohe-Ingelfingen's creditors, 1818
   to 1827: six documents on 37 pages and the cover, five in French and one in Polish. The fifteen

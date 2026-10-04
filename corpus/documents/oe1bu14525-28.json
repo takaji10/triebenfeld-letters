@@ -502,17 +502,6 @@
    "doc_line": 6
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0121_b",
-   "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-   "line": 3447,
-   "doc_line": 10
-  },
-  {
    "entity": "wloclawek",
    "display": "Włocławek (Leslau)",
    "kind": "place",
@@ -557,17 +546,6 @@
    "doc_line": 35
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 3,
-   "page_id": "0122_a2",
-   "scan": "Oe_1_Bu_14525_0122_a2-L28_03.jpg",
-   "line": 3487,
-   "doc_line": 48
-  },
-  {
    "entity": "suedpreussen",
    "display": "Südpreußen",
    "kind": "place",
@@ -577,17 +555,6 @@
    "scan": "Oe_1_Bu_14525_0123_a1-L28_04.jpg",
    "line": 3497,
    "doc_line": 57
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 4,
-   "page_id": "0123_a1",
-   "scan": "Oe_1_Bu_14525_0123_a1-L28_04.jpg",
-   "line": 3511,
-   "doc_line": 71
   },
   {
    "entity": "batkowo",
@@ -601,17 +568,6 @@
    "doc_line": 80
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 5,
-   "page_id": "0123_a2",
-   "scan": "Oe_1_Bu_14525_0123_a2-L28_05.jpg",
-   "line": 3528,
-   "doc_line": 87
-  },
-  {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",
@@ -621,17 +577,6 @@
    "scan": "Oe_1_Bu_14525_0124_a1-L28_06.jpg",
    "line": 3537,
    "doc_line": 95
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 6,
-   "page_id": "0124_a1",
-   "scan": "Oe_1_Bu_14525_0124_a1-L28_06.jpg",
-   "line": 3544,
-   "doc_line": 102
   },
   {
    "entity": "batkowo",

@@ -160,7 +160,144 @@
    "doc_line": 36
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michalina von Prusimska",
+   "surface_en": "Michalina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "danckelmann",
+   "display": "Danckelmann",
+   "kind": "person",
+   "surface_de": "Danckelman",
+   "surface_en": "Danckelman",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Götz",
+   "kind": "person",
+   "surface_de": "v Götz",
+   "surface_en": "v Götz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dühring",
+   "kind": "person",
+   "surface_de": "Dühring",
+   "surface_en": "Dühring",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hering",
+   "kind": "person",
+   "surface_de": "Hering",
+   "surface_en": "Hering",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fromme",
+   "kind": "person",
+   "surface_de": "Fromme",
+   "surface_en": "Fromme",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Diederichs",
+   "kind": "person",
+   "surface_de": "Diederichs",
+   "surface_en": "Diederichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dannenberg",
+   "kind": "person",
+   "surface_de": "Dannenberg",
+   "surface_en": "Dannenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bormann",
+   "kind": "person",
+   "surface_de": "Bormann",
+   "surface_en": "Bormann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Fischer",
+   "kind": "person",
+   "surface_de": "v Fischer",
+   "surface_en": "v Fischer",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Leuchert",
+   "kind": "person",
+   "surface_de": "Leuchert",
+   "surface_en": "Leuchert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Herford",
+   "kind": "person",
+   "surface_de": "Herford",
+   "surface_en": "Herford",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Posen",
  "place_mentions": [
   {
@@ -186,17 +323,6 @@
    "doc_line": 6
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 69,
-   "doc_line": 8
-  },
-  {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",
@@ -219,9 +345,116 @@
    "doc_line": 35
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The South Prussian Government at Poznań most humbly submits a copy of the cabinet order of the 11th of this month in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen. In the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen we do not fail most humbly to send Your Royal Majesty, enclosed, a copy of the cabinet order of the 1st, received the 7th of this month, with reference to our most humble report of the 18th of last month, for Your Majesty's most exalted inspection, with the observation that the hearing for taking the evidence and for the closing proceedings in this case is set for the 22nd of this month. Poznań, 10 July 1800. The Government Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\n[Written by the receiving office:]\n\n27 July 1800. To the files. Berlin, 1 Aug. 1800 G[oldbeck]\n\nh qu[illegible] B\n\nB. 3,681. 6,027.",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Michalina von Prusimska",
+     "en": "Michalina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Danckelman",
+     "en": "Danckelman",
+     "kind": "person"
+    },
+    {
+     "de": "v Götz",
+     "en": "v Götz",
+     "kind": "person"
+    },
+    {
+     "de": "Dühring",
+     "en": "Dühring",
+     "kind": "person"
+    },
+    {
+     "de": "Hering",
+     "en": "Hering",
+     "kind": "person"
+    },
+    {
+     "de": "Fromme",
+     "en": "Fromme",
+     "kind": "person"
+    },
+    {
+     "de": "Diederichs",
+     "en": "Diederichs",
+     "kind": "person"
+    },
+    {
+     "de": "Dannenberg",
+     "en": "Dannenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Bormann",
+     "en": "Bormann",
+     "kind": "person"
+    },
+    {
+     "de": "v Fischer",
+     "en": "v Fischer",
+     "kind": "person"
+    },
+    {
+     "de": "Leuchert",
+     "en": "Leuchert",
+     "kind": "person"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "Herford",
+     "en": "Herford",
+     "kind": "person"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "11",
+    "1",
+    "7",
+    "18",
+    "22",
+    "10",
+    "1800",
+    "27",
+    "1800",
+    "1",
+    "1800",
+    "3,681",
+    "6,027"
+   ]
+  }
+ ],
+ "text_english": "The South Prussian Government at Poznań most humbly submits a copy of the cabinet order of the 11th of this month in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen. In the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen we do not fail most humbly to send Your Royal Majesty, enclosed, a copy of the cabinet order of the 1st, received the 7th of this month, with reference to our most humble report of the 18th of last month, for Your Majesty's most exalted inspection, with the observation that the hearing for taking the evidence and for the closing proceedings in this case is set for the 22nd of this month. Poznań, 10 July 1800. The Government Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\n[Written by the receiving office:]\n\n27 July 1800. To the files. Berlin, 1 Aug. 1800 G[oldbeck]\n\nh qu[illegible] B\n\nB. 3,681. 6,027.",
  "summary_en": "The Government at Poznań submits to the King a copy of the cabinet order of 1 July, received on 7 July, with reference to its report of the 18th of the previous month. It notes that the hearing for taking evidence and closing the proceedings in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen is set for 22 July. The receiving office files the report in Berlin on 1 August 1800.",
  "summary_de": "Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre vom 1. Juli, eingegangen am 7. Juli, unter Bezug auf ihren Bericht vom 18. des Vormonats. Sie bemerkt, dass der Termin zur Beweisaufnahme und zum Schlussverfahren in der Sache der Michalina von Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen auf den 22. Juli ansteht. Die empfangende Behörde legt den Bericht am 1. August 1800 in Berlin zu den Akten.",
  "reading": {}

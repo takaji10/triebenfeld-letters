@@ -124,7 +124,136 @@
    "doc_line": 33
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Prusimska",
+   "surface_en": "Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hering",
+   "kind": "person",
+   "surface_de": "Hering",
+   "surface_en": "Hering",
+   "page": 1
+  },
+  {
+   "entity": "danckelmann",
+   "display": "Danckelmann",
+   "kind": "person",
+   "surface_de": "Danckelman",
+   "surface_en": "Danckelman",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Götz",
+   "kind": "person",
+   "surface_de": "v Götz",
+   "surface_en": "v Götz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Diederichs",
+   "kind": "person",
+   "surface_de": "Diederichs",
+   "surface_en": "Diederichs",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dannenberg",
+   "kind": "person",
+   "surface_de": "Dannenberg",
+   "surface_en": "Dannenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schwarz",
+   "kind": "person",
+   "surface_de": "Schwarz",
+   "surface_en": "Schwarz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Bormann",
+   "kind": "person",
+   "surface_de": "Bormann",
+   "surface_en": "Bormann",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fromme",
+   "kind": "person",
+   "surface_de": "Fromme",
+   "surface_en": "Fromme",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hoening",
+   "kind": "person",
+   "surface_de": "Hoening",
+   "surface_en": "Hoening",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Leuchert",
+   "kind": "person",
+   "surface_de": "Leuchert",
+   "surface_en": "Leuchert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Richter",
+   "kind": "person",
+   "surface_de": "Richter",
+   "surface_en": "Richter",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v Fischer",
+   "kind": "person",
+   "surface_de": "v Fischer",
+   "surface_en": "v Fischer",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Posen",
  "place_mentions": [
   {
@@ -139,9 +268,103 @@
    "doc_line": 4
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Most Serene and Most Mighty King, Most gracious King and Lord! Poznań, 18 June 1800. The Government most humbly submits a copy of a cabinet order. The cabinet order issued to us in the case of Prusimska against the Prince of Hohenlohe we most humbly submit to Your Royal Majesty in a copy enclosed, and remain, until death, in most devoted loyalty, Your Royal Majesty's most humble and faithfully obedient President, Vice-President and Councillors [uncertain: appointed] to Your Majesty's South Prussian Government. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\n[Written by the receiving office:]\n\n18 June, to the files. 23 June 1800. G[oldbeck] H[illegible] B[illegible]",
+   "names": [
+    {
+     "de": "Prusimska",
+     "en": "Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Hering",
+     "en": "Hering",
+     "kind": "person"
+    },
+    {
+     "de": "Danckelman",
+     "en": "Danckelman",
+     "kind": "person"
+    },
+    {
+     "de": "v Götz",
+     "en": "v Götz",
+     "kind": "person"
+    },
+    {
+     "de": "Diederichs",
+     "en": "Diederichs",
+     "kind": "person"
+    },
+    {
+     "de": "Dannenberg",
+     "en": "Dannenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Schwarz",
+     "en": "Schwarz",
+     "kind": "person"
+    },
+    {
+     "de": "Bormann",
+     "en": "Bormann",
+     "kind": "person"
+    },
+    {
+     "de": "Fromme",
+     "en": "Fromme",
+     "kind": "person"
+    },
+    {
+     "de": "Hoening",
+     "en": "Hoening",
+     "kind": "person"
+    },
+    {
+     "de": "Leuchert",
+     "en": "Leuchert",
+     "kind": "person"
+    },
+    {
+     "de": "Richter",
+     "en": "Richter",
+     "kind": "person"
+    },
+    {
+     "de": "v Fischer",
+     "en": "v Fischer",
+     "kind": "person"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "18",
+    "1800",
+    "18",
+    "23",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "Most Serene and Most Mighty King, Most gracious King and Lord! Poznań, 18 June 1800. The Government most humbly submits a copy of a cabinet order. The cabinet order issued to us in the case of Prusimska against the Prince of Hohenlohe we most humbly submit to Your Royal Majesty in a copy enclosed, and remain, until death, in most devoted loyalty, Your Royal Majesty's most humble and faithfully obedient President, Vice-President and Councillors [uncertain: appointed] to Your Majesty's South Prussian Government. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\n[Written by the receiving office:]\n\n18 June, to the files. 23 June 1800. G[oldbeck] H[illegible] B[illegible]",
  "summary_en": "The Government at Poznań submits to the King a copy of the cabinet order issued to it in the case of Prusimska against the Prince of Hohenlohe. The receiving office files the report on 23 June 1800.",
  "summary_de": "Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre, die in der Sache Prusimska gegen den Fürsten von Hohenlohe an sie ergangen ist. Die empfangende Behörde legt den Bericht am 23. Juni 1800 zu den Akten.",
  "reading": {}

@@ -2386,6 +2386,23 @@ excluded:
   - {word: "Holländ", reason: "a place name, not a term"}
   - {word: "Skokum", reason: "a place name"}
   - {word: "S.", reason: "ambiguous: Seite, Sanct, a signatory's initial; no one sense to explain"}
+  # ruled 2026-10-04, from the candidates of I. HA GR, Rep. 7 C, Nr. 3709
+  - {word: "ingelfingen", reason: "part of the name Hohenlohe-Ingelfingen; the register explains it"}
+  - {word: "d.", reason: "den or dem before a date or name; plain in the English"}
+  - {word: "appellations", reason: "part of Ober-Appellations-Senat, rendered in the English as the Superior Appeal Senate"}
+  - {word: "cabinets", reason: "part of Cabinets-Ordre, which has its own entry (cabinet order)"}
+  - {word: "erkenntniß", reason: "plain in English as judgment"}
+  - {word: "p.", reason: "perge after a title or before a name; the English drops it or gives etc. (house style)"}
+  - {word: "Ad", reason: "the first word of Ad mandatum, rendered in the English"}
+  - {word: "ad mandatum", reason: "the closing of a rescript issued in the King's name; plain in the English as By command"}
+  - {word: "königl", reason: "Königlich abbreviated; plain in English as Royal"}
+  - {word: "güther", reason: "Güter in an old spelling; plain in English as estates"}
+  - {word: "M.", reason: "Monats abbreviated in a date (v. M., of last month); plain in the English"}
+  - {word: "ad", reason: "ad acta, ad rec.: registry marks rendered in the English (to the files)"}
+  - {word: "Süd.", reason: "Süd-Preußische abbreviated; plain in English as South Prussian"}
+  - {word: "Jan", reason: "Januar abbreviated in a date"}
+  - {word: "ej.", reason: "ejusdem (of the same month) after a date; plain in the English"}
+  - {word: "ejusd.", reason: "ejusdem (of the same month) after a date; plain in the English"}
   - {word: "c.", reason: "a list letter or circa"}
   - {word: "J.", reason: "Jahr; see d. J."}
   - {word: "N.", reason: "an initial or a list letter"}

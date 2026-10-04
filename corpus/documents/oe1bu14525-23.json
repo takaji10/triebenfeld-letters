@@ -950,17 +950,6 @@
    "doc_line": 5
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0091_b",
-   "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
-   "line": 2953,
-   "doc_line": 11
-  },
-  {
    "entity": "suedpreussen",
    "display": "Südpreußen",
    "kind": "place",
@@ -1203,17 +1192,6 @@
    "doc_line": 209
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 8,
-   "page_id": "0104_a2",
-   "scan": "Oe_1_Bu_14525_0104_a2-L23_08.jpg",
-   "line": 3160,
-   "doc_line": 211
-  },
-  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -1234,17 +1212,6 @@
    "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
    "line": 3171,
    "doc_line": 221
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 9,
-   "page_id": "0106_a2",
-   "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
-   "line": 3173,
-   "doc_line": 223
   },
   {
    "entity": "szetlewek",
@@ -1289,17 +1256,6 @@
    "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
    "line": 3189,
    "doc_line": 238
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 11,
-   "page_id": "0110_a1",
-   "scan": "Oe_1_Bu_14525_0110_a1-L23_11.jpg",
-   "line": 3197,
-   "doc_line": 245
   },
   {
    "entity": "kalisz",

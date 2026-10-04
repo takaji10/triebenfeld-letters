@@ -576,17 +576,6 @@
  "place_canonical": "Breslau",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0024_a2",
-   "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
-   "line": 900,
-   "doc_line": 8
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -761,28 +750,6 @@
    "scan": "Oe_1_Bu_14525_0024_a2-L8_01.jpg",
    "line": 913,
    "doc_line": 21
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0025_a1",
-   "scan": "Oe_1_Bu_14525_0025_a1-L8_02.jpg",
-   "line": 929,
-   "doc_line": 36
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0025_a1",
-   "scan": "Oe_1_Bu_14525_0025_a1-L8_02.jpg",
-   "line": 949,
-   "doc_line": 56
   },
   {
    "entity": "berlin",

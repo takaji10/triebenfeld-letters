@@ -132,7 +132,48 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "von Prusimski",
+   "kind": "person",
+   "surface_de": "v. Prusimski",
+   "surface_en": "von Prusimski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+   "kind": "person",
+   "surface_de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
+   "surface_en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+   "page": 3
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -180,9 +221,55 @@
    "doc_line": 46
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Right Honourable Sir; Most Highly Honoured Lord Grand Chancellor! Your Excellency will forgive me if I take the liberty of accompanying my petition with these few words.\n\nMy trust in Your Excellency's goodwill towards me is far too great for me not to look forward with complete confidence to the granting of my most urgent request: \"that Your Excellency might deign kindly to give orders in accordance with the contents of the petition\".\n\nThe following reasons have moved me to my request,"
+  },
+  {
+   "page": 2,
+   "en": "among others:\n\nThe very proposal for a settlement which the commissioned judge (Deputatus) made at the last hearing makes me anxious that the Government at Poznań may not set about drawing up the judgment with the impartiality that is due. The life interest which the plaintiff's father, who is still living, had to exercise in the property of his late wife is surely plainly a part of the property confiscated from him, and by the confiscation of the entire present and future property of\n\nvon Prusimski the Treasury (Fiscus) has surely plainly made the life interest subject to itself. It therefore struck me greatly that the commissioned judge, in his proposal for a settlement, could raise the strange doubt against the validity of the life interest, that it would not belong to the Treasury because the plaintiff's late mother had not contracted with the Treasury concerning the life interest. This, and likewise the circumstance that the guardianship board, which pursues the case with so much zeal, is at the same time to be judge in it, and no less other reasons bearing solely on my individual conviction, have therefore raised in me a misgiving about having the case decided by the Government at Poznań. I therefore once more most urgently beg Your Excellency kindly to entrust the decision of the case either to the Government at Kalisz or to any other South Prussian court. May Your Excellency deign to accept the assurance of the un",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "v. Prusimski",
+     "en": "von Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "bounded reverence with which I shall remain for life Your Excellency's, Wrocław, 30 Nov. 1800, most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
+     "en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "Right Honourable Sir; Most Highly Honoured Lord Grand Chancellor! Your Excellency will forgive me if I take the liberty of accompanying my petition with these few words.\n\nMy trust in Your Excellency's goodwill towards me is far too great for me not to look forward with complete confidence to the granting of my most urgent request: \"that Your Excellency might deign kindly to give orders in accordance with the contents of the petition\".\n\nThe following reasons have moved me to my request,\n\namong others:\n\nThe very proposal for a settlement which the commissioned judge (Deputatus) made at the last hearing makes me anxious that the Government at Poznań may not set about drawing up the judgment with the impartiality that is due. The life interest which the plaintiff's father, who is still living, had to exercise in the property of his late wife is surely plainly a part of the property confiscated from him, and by the confiscation of the entire present and future property of\n\nvon Prusimski the Treasury (Fiscus) has surely plainly made the life interest subject to itself. It therefore struck me greatly that the commissioned judge, in his proposal for a settlement, could raise the strange doubt against the validity of the life interest, that it would not belong to the Treasury because the plaintiff's late mother had not contracted with the Treasury concerning the life interest. This, and likewise the circumstance that the guardianship board, which pursues the case with so much zeal, is at the same time to be judge in it, and no less other reasons bearing solely on my individual conviction, have therefore raised in me a misgiving about having the case decided by the Government at Poznań. I therefore once more most urgently beg Your Excellency kindly to entrust the decision of the case either to the Government at Kalisz or to any other South Prussian court. May Your Excellency deign to accept the assurance of the un\n\nbounded reverence with which I shall remain for life Your Excellency's, Wrocław, 30 Nov. 1800, most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.",
  "summary_en": "The Prince of Hohenlohe's covering letter to the Grand Chancellor, sent with his petition of the same day. The settlement proposal made by the court's deputy at the last hearing makes him fear that the Government at Poznań will not judge impartially. The lifetime right of the plaintiff's father, who is still living, in his late wife's property is, he says, part of the father's confiscated property; the deputy nevertheless doubted that it belongs to the fisc. The Prince asks again, urgently, that the judgment be entrusted to the Government at Kalisz or to another South Prussian court.",
  "summary_de": "Begleitschreiben des Fürsten von Hohenlohe an den Großkanzler zu seinem Bittschreiben vom selben Tag. Der Vergleichsvorschlag, den der Deputierte im letzten Termin gemacht hat, lasse ihn fürchten, dass die Regierung zu Posen nicht unbefangen urteilen werde. Das Lebtagsrecht des noch lebenden Vaters der Klägerin am Vermögen seiner verstorbenen Frau sei ein Teil des ihm konfiszierten Vermögens; der Deputierte habe dennoch bezweifelt, dass es dem Fiskus zustehe. Der Fürst bittet nochmals dringend, den Spruch der Regierung zu Kalisch oder einem anderen südpreußischen Kollegium aufzutragen.",
  "reading": {}

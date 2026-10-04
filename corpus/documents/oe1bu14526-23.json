@@ -2456,17 +2456,6 @@
    "doc_line": 22
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0140_a1",
-   "scan": "Oe_1_Bu_14526_0140_a1-L23_02.jpg",
-   "line": 6993,
-   "doc_line": 31
-  },
-  {
    "entity": "breslau",
    "display": "Wrocław (Breslau)",
    "kind": "place",
@@ -2619,17 +2608,6 @@
    "scan": "Oe_1_Bu_14526_0144_a2-L23_11.jpg",
    "line": 7222,
    "doc_line": 251
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 11,
-   "page_id": "0144_a2",
-   "scan": "Oe_1_Bu_14526_0144_a2-L23_11.jpg",
-   "line": 7235,
-   "doc_line": 264
   },
   {
    "entity": "breslau",
@@ -2786,17 +2764,6 @@
    "doc_line": 338
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 15,
-   "page_id": "0146_a2",
-   "scan": "Oe_1_Bu_14526_0146_a2-L23_15.jpg",
-   "line": 7320,
-   "doc_line": 345
-  },
-  {
    "entity": "frankfurt-an-der-oder",
    "display": "Frankfurt an der Oder",
    "kind": "place",
@@ -2951,17 +2918,6 @@
    "doc_line": 434
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 19,
-   "page_id": "0148_a2",
-   "scan": "Oe_1_Bu_14526_0148_a2-L23_19.jpg",
-   "line": 7419,
-   "doc_line": 440
-  },
-  {
    "entity": "breslau",
    "display": "Wrocław (Breslau)",
    "kind": "place",
@@ -3061,17 +3017,6 @@
    "doc_line": 528
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 22,
-   "page_id": "0150_a1",
-   "scan": "Oe_1_Bu_14526_0150_a1-L23_22.jpg",
-   "line": 7512,
-   "doc_line": 530
-  },
-  {
    "entity": "frankfurt-an-der-oder",
    "display": "Frankfurt an der Oder",
    "kind": "place",
@@ -3114,17 +3059,6 @@
    "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
    "line": 7532,
    "doc_line": 549
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 23,
-   "page_id": "0150_a2",
-   "scan": "Oe_1_Bu_14526_0150_a2-L23_23.jpg",
-   "line": 7536,
-   "doc_line": 553
   },
   {
    "entity": "frankfurt-an-der-oder",
@@ -3268,17 +3202,6 @@
    "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
    "line": 7622,
    "doc_line": 636
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 26,
-   "page_id": "0153_a1",
-   "scan": "Oe_1_Bu_14526_0153_a1-L23_26.jpg",
-   "line": 7626,
-   "doc_line": 640
   },
   {
    "entity": "kamionno",

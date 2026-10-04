@@ -90,20 +90,50 @@
    "doc_line": 6
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Michalina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michalina v. Prusimska",
+   "surface_en": "Michalina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface_de": "Charlottenburg",
+   "surface_en": "Charlottenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Willhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Willhelm",
+   "surface_en": "Friedrich Willhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  }
+ ],
  "place_canonical": "Charlottenburg",
  "place_mentions": [
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
-   "line": 108,
-   "doc_line": 6
-  },
   {
    "entity": "charlottenburg",
    "display": "Charlottenburg",
@@ -127,9 +157,46 @@
    "doc_line": 26
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this case, which has been much delayed by too great indulgence towards the defendant's authorised agent; next, to have proposals for a settlement suited to the case put forward; but if the settlement, for which the case nevertheless appears to be very well suited, should not come about, to take dutiful care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances, the laws should require that judgment be given once more in the first instance. Charlottenburg, 1 July 1800. Friedrich Willhelm\n\nTo the Government\n\nat Poznań",
+   "names": [
+    {
+     "de": "Michalina v. Prusimska",
+     "en": "Michalina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Charlottenburg",
+     "en": "Charlottenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Willhelm",
+     "en": "Friedrich Willhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "18",
+    "1",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this case, which has been much delayed by too great indulgence towards the defendant's authorised agent; next, to have proposals for a settlement suited to the case put forward; but if the settlement, for which the case nevertheless appears to be very well suited, should not come about, to take dutiful care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances, the laws should require that judgment be given once more in the first instance. Charlottenburg, 1 July 1800. Friedrich Willhelm\n\nTo the Government\n\nat Poznań",
  "summary_en": "Copy of a cabinet order of the King to the Government at Poznań: he returns the files of the case of Prusimska against the Prince of Hohenlohe-Ingelfingen that were sent in with the report of the 18th of the previous month. The Government is to finish preparing the case, which has been much delayed by too much indulgence towards the defendant's agent, with all diligence, and then to have suitable proposals for a settlement made. If no settlement is reached, it is to see to a speedy judgment, especially if the laws should require judgment to be given once more in the first instance.",
  "summary_de": "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen: Er sendet die mit dem Bericht vom 18. des Vormonats eingesandten Akten der Sache Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen zurück. Die Regierung soll die Instruktion, die durch zu viel Nachsicht gegen den Bevollmächtigten des Beklagten sehr verzögert worden sei, mit allem Fleiß beenden und dann angemessene Vergleichsvorschläge machen lassen. Kommt der Vergleich nicht zustande, soll sie für ein rasches Urteil sorgen, besonders falls nach den Gesetzen nochmals in erster Instanz erkannt werden müsste.",
  "reading": {}

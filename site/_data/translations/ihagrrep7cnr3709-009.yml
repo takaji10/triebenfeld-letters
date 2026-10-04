@@ -1,0 +1,74 @@
+status: draft
+segments:
+- page: 1
+  en: 'To the South Prussian Government at Warsaw.
+
+
+    13th: all by post, and with the contents: md Bamg[text lost]t
+
+
+    11th Schroener
+
+
+    10 Dec. Friedrich Wilhelm, King, etc. Our, etc. A lawsuit is pending before the Poznań Government
+    between the guardian of the minor Michaelina von Prusimska and the Prince of Hohenlohe-Ingelfingen,
+    directed to the recovery of the Brzyce estates. Since the suit of the guardian of von Prusimska'
+  names:
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Schroener
+    en: Schroener
+    kind: person
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Posenschen
+    en: Poznań
+    kind: place
+  - de: Michaelina von Prusimska
+    en: Michaelina von Prusimska
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: person
+  - de: Brzezier
+    en: Brzyce
+    kind: place
+  - de: von Prusimska
+    en: von Prusimska
+    kind: person
+  numbers:
+  - '13'
+  - '11'
+  - '10'
+- page: 2
+  en: 'was brought at the instance of the guardianship board there, and the lawsuit itself has been conducted,
+    and will continue to be conducted, under its direction, but most of the councillors of the Poznań
+    Government are members of the said board, We have resolved that the said case shall be decided in
+    the first instance by the full bench of your court; which, and that the Government at Poznań
+
+
+    of this
+
+
+    has been informed, We hereby make known to you for your observance.
+
+
+    And are, etc. Berlin, 7 December 1800. By command.
+
+
+    # # #'
+  names:
+  - de: Posener
+    en: Poznań
+    kind: place
+  - de: Posen
+    en: Poznań
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  numbers:
+  - '7'
+  - '1800'

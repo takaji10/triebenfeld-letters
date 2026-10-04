@@ -1290,17 +1290,6 @@
    "doc_line": 57
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 3,
-   "page_id": "0331_a2",
-   "scan": "Oe_1_Bu_9454_0331_a2-L177_03.jpg",
-   "line": 12536,
-   "doc_line": 62
-  },
-  {
    "entity": "kopojno",
    "display": "Kopojno (Kopoyno)",
    "kind": "place",
@@ -1332,17 +1321,6 @@
    "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
    "line": 12542,
    "doc_line": 67
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 4,
-   "page_id": "0332_a2",
-   "scan": "Oe_1_Bu_9454_0332_a2-L177_04.jpg",
-   "line": 12543,
-   "doc_line": 68
   },
   {
    "entity": "drzewce",

@@ -116,17 +116,6 @@
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0131_b",
-   "scan": "Oe_1_Bu_14525_0131_b-L32_01.jpg",
-   "line": 3631,
-   "doc_line": 3
-  },
-  {
    "entity": "kalisz",
    "display": "Kalisz (Kalisch)",
    "kind": "place",

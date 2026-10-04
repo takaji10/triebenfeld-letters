@@ -309,17 +309,6 @@
  "place_canonical": "Glogau",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0157_a2",
-   "scan": "Oe_1_Bu_9454_0157_a2-L74c_01.jpg",
-   "line": 6209,
-   "doc_line": 4
-  },
-  {
    "entity": "grueneberg",
    "display": "Zielona Góra (Grüneberg)",
    "kind": "place",

@@ -2503,17 +2503,6 @@
  "place_canonical": "Betsche",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensche",
-   "page": 1,
-   "page_id": "0109_b",
-   "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
-   "line": 5742,
-   "doc_line": 3
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -2523,17 +2512,6 @@
    "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
    "line": 5743,
    "doc_line": 4
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensche",
-   "page": 1,
-   "page_id": "0109_b",
-   "scan": "Oe_1_Bu_14526_0109_b-L18_01.jpg",
-   "line": 5747,
-   "doc_line": 8
   },
   {
    "entity": "betsche",
@@ -2633,17 +2611,6 @@
    "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
    "line": 5764,
    "doc_line": 24
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensche",
-   "page": 2,
-   "page_id": "0110_a1",
-   "scan": "Oe_1_Bu_14526_0110_a1-L18_02.jpg",
-   "line": 5766,
-   "doc_line": 26
   },
   {
    "entity": "kontop",
@@ -2756,17 +2723,6 @@
    "doc_line": 38
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 3,
-   "page_id": "0110_a2",
-   "scan": "Oe_1_Bu_14526_0110_a2-L18_03.jpg",
-   "line": 5783,
-   "doc_line": 42
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -2870,17 +2826,6 @@
    "display": "Wrocław (Breslau)",
    "kind": "place",
    "surface": "Breslau",
-   "page": 5,
-   "page_id": "0111_a2",
-   "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
-   "line": 5823,
-   "doc_line": 80
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
    "page": 5,
    "page_id": "0111_a2",
    "scan": "Oe_1_Bu_14526_0111_a2-L18_05.jpg",
@@ -3119,17 +3064,6 @@
    "doc_line": 229
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 13,
-   "page_id": "0115_a2",
-   "scan": "Oe_1_Bu_14526_0115_a2-L18_13.jpg",
-   "line": 5998,
-   "doc_line": 247
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -3185,17 +3119,6 @@
    "doc_line": 319
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 19,
-   "page_id": "0118_a2",
-   "scan": "Oe_1_Bu_14526_0118_a2-L18_19.jpg",
-   "line": 6115,
-   "doc_line": 358
-  },
-  {
    "entity": "breslau",
    "display": "Wrocław (Breslau)",
    "kind": "place",
@@ -3218,17 +3141,6 @@
    "doc_line": 387
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensche",
-   "page": 23,
-   "page_id": "0120_a2",
-   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
-   "line": 6186,
-   "doc_line": 425
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -3238,17 +3150,6 @@
    "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
    "line": 6195,
    "doc_line": 434
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensche",
-   "page": 23,
-   "page_id": "0120_a2",
-   "scan": "Oe_1_Bu_14526_0120_a2-L18_23.jpg",
-   "line": 6197,
-   "doc_line": 436
   },
   {
    "entity": "kuligowo",
@@ -3339,28 +3240,6 @@
    "doc_line": 474
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingensches",
-   "page": 25,
-   "page_id": "0121_a2",
-   "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
-   "line": 6238,
-   "doc_line": 475
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 25,
-   "page_id": "0121_a2",
-   "scan": "Oe_1_Bu_14526_0121_a2-L18_25.jpg",
-   "line": 6244,
-   "doc_line": 481
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -3370,17 +3249,6 @@
    "scan": "Oe_1_Bu_14526_0122_a1-L18_26.jpg",
    "line": 6248,
    "doc_line": 484
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 27,
-   "page_id": "0122_a2",
-   "scan": "Oe_1_Bu_14526_0122_a2-L18_27.jpg",
-   "line": 6266,
-   "doc_line": 501
   },
   {
    "entity": "miedzyrzecz",

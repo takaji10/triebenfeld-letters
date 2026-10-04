@@ -1416,17 +1416,6 @@
    "doc_line": 1
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0002_a",
-   "scan": "APP_53_71_0_57_0002_a-L1_01.jpg",
-   "line": 22,
-   "doc_line": 11
-  },
-  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -1493,17 +1482,6 @@
    "doc_line": 279
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 13,
-   "page_id": "0014_a",
-   "scan": "APP_53_71_0_57_0014_a-L1_13.jpg",
-   "line": 306,
-   "doc_line": 283
-  },
-  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -1524,17 +1502,6 @@
    "scan": "APP_53_71_0_57_0014_a-L1_13.jpg",
    "line": 308,
    "doc_line": 285
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 15,
-   "page_id": "0016_a",
-   "scan": "APP_53_71_0_57_0016_a-L1_15.jpg",
-   "line": 370,
-   "doc_line": 345
   },
   {
    "entity": "schweinern",
@@ -1656,17 +1623,6 @@
    "scan": "APP_53_71_0_57_0019_a-L1_18.jpg",
    "line": 446,
    "doc_line": 418
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 19,
-   "page_id": "0021_a",
-   "scan": "APP_53_71_0_57_0021_a-L1_19.jpg",
-   "line": 450,
-   "doc_line": 421
   },
   {
    "entity": "breslau",

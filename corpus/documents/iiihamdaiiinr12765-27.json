@@ -673,17 +673,6 @@
  "place_canonical": "Berlin",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0039_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0039_a2-L27_01.jpg",
-   "line": 927,
-   "doc_line": 2
-  },
-  {
    "entity": "oehringen",
    "display": "Öhringen",
    "kind": "place",

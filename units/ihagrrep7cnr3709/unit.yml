@@ -27,7 +27,7 @@ archive_title: >-
   Prusimska's complaints in her case against the Prince, 1800-1802
 # The cover gives the span: "den 18ten Juny 1800" to "den 29 Januar 1802".
 date_span: 1800-1802
-status: transcribed              # draft | transcribed | translated | published
+status: translated               # draft | transcribed | translated | published
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe

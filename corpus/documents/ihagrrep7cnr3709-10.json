@@ -99,20 +99,90 @@
    "doc_line": 27
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michaelina von Prusimska",
+   "surface_en": "Michaelina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posenschen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posener",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0013_a",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
-   "line": 310,
-   "doc_line": 6
-  },
   {
    "entity": "brzyce",
    "display": "Brzyce",
@@ -169,9 +239,72 @@
    "doc_line": 25
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "To the Superior Appeal Senate of the Kammergericht.\n\nFriedrich Wilhelm, King, etc.\n\nOur, etc. A lawsuit is pending before the Poznań Government between the minor Michaelina von Prusimska and the Prince of Hohenlohe-Ingelfingen, directed to the recovery of the Brzyce estates. Since the suit of the minor's guardian was brought at the instance of the Poznań guardianship board, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, but most of the councillors of the Poznań Government are members of this board, We have resolved that the said case shall be decided in the first instance by the full bench of the Government at Warsaw, and in the second instance by you; which We hereby make known to you for your information and observance, together with the fact that the necessary orders have accordingly been sent to the Governments at Poznań and Warsaw.\n\nAnd are, etc. Berlin, 7 December 1800. By command\n\nG[oldbeck]\n\nacc. the 3rd.\n\nad red. the 8th.",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelina von Prusimska",
+     "en": "Michaelina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Posenschen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Posener",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "7",
+    "1800",
+    "3",
+    "8"
+   ]
+  }
+ ],
+ "text_english": "To the Superior Appeal Senate of the Kammergericht.\n\nFriedrich Wilhelm, King, etc.\n\nOur, etc. A lawsuit is pending before the Poznań Government between the minor Michaelina von Prusimska and the Prince of Hohenlohe-Ingelfingen, directed to the recovery of the Brzyce estates. Since the suit of the minor's guardian was brought at the instance of the Poznań guardianship board, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, but most of the councillors of the Poznań Government are members of this board, We have resolved that the said case shall be decided in the first instance by the full bench of the Government at Warsaw, and in the second instance by you; which We hereby make known to you for your information and observance, together with the fact that the necessary orders have accordingly been sent to the Governments at Poznań and Warsaw.\n\nAnd are, etc. Berlin, 7 December 1800. By command\n\nG[oldbeck]\n\nacc. the 3rd.\n\nad red. the 8th.",
  "summary_en": "Draft of a royal rescript to the Senate of Higher Appeal of the Kammergericht: a suit for the recovery of the Brzyce estates is pending before the Government at Poznań between the minor Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen. Since the Poznań guardianship board occasioned and directs the suit and most of the Poznań councillors belong to it, the case is to be decided in the first instance by the full bench of the Government at Warsaw and in the second by the Senate. The Governments at Poznań and Warsaw have been instructed.",
  "summary_de": "Entwurf eines königlichen Reskripts an den Oberappellationssenat des Kammergerichts: Zwischen der minderjährigen Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen schwebt bei der Posener Regierung ein Prozess auf Herausgabe der Brzycer Güter. Da das Posener Vormundschaftskollegium die Klage veranlasst hat und leitet und die meisten Posener Räte ihm angehören, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Senat entschieden werden. Die Regierungen in Posen und Warschau sind angewiesen.",
  "reading": {}

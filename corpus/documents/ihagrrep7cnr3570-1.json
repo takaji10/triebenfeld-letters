@@ -2919,17 +2919,6 @@
    "doc_line": 57
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0005_a",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-   "line": 111,
-   "doc_line": 65
-  },
-  {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
    "kind": "place",
@@ -3029,17 +3018,6 @@
    "doc_line": 81
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0005_a",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-   "line": 139,
-   "doc_line": 93
-  },
-  {
    "entity": "warschau",
    "display": "Warszawa (Warschau)",
    "kind": "place",
@@ -3060,17 +3038,6 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
    "line": 219,
    "doc_line": 171
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 4,
-   "page_id": "0008_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
-   "line": 222,
-   "doc_line": 174
   },
   {
    "entity": "kamionno",
@@ -3194,17 +3161,6 @@
    "doc_line": 209
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 5,
-   "page_id": "0009_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0009_a2-L1_05.jpg",
-   "line": 264,
-   "doc_line": 215
-  },
-  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -3236,17 +3192,6 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0010_a2-L1_06.jpg",
    "line": 287,
    "doc_line": 237
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 6,
-   "page_id": "0010_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0010_a2-L1_06.jpg",
-   "line": 298,
-   "doc_line": 248
   },
   {
    "entity": "berlin",
@@ -3403,17 +3348,6 @@
    "doc_line": 283
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 7,
-   "page_id": "0011_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-   "line": 351,
-   "doc_line": 300
-  },
-  {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
    "kind": "place",
@@ -3535,17 +3469,6 @@
    "doc_line": 329
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 8,
-   "page_id": "0012_a",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0012_a-L1_08.jpg",
-   "line": 407,
-   "doc_line": 355
-  },
-  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -3555,17 +3478,6 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0012_a-L1_08.jpg",
    "line": 428,
    "doc_line": 376
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 21,
-   "page_id": "0025_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0025_a2-L1_21.jpg",
-   "line": 465,
-   "doc_line": 400
   },
   {
    "entity": "suedpreussen",
@@ -3599,17 +3511,6 @@
    "scan": "I_HA_Rep_7_C_Nr_3570_0026_a2-L1_22.jpg",
    "line": 488,
    "doc_line": 422
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 22,
-   "page_id": "0026_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3570_0026_a2-L1_22.jpg",
-   "line": 495,
-   "doc_line": 429
   },
   {
    "entity": "berlin",

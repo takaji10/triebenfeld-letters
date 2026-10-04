@@ -84,20 +84,50 @@
    "doc_line": 6
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "von Prusimska",
+   "kind": "person",
+   "surface_de": "von Prusimska",
+   "surface_en": "von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface_de": "Charlottenburg",
+   "surface_en": "Charlottenburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  }
+ ],
  "place_canonical": "Charlottenburg",
  "place_mentions": [
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0003_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
-   "line": 51,
-   "doc_line": 6
-  },
   {
    "entity": "posen",
    "display": "Poznań (Posen)",
@@ -132,9 +162,47 @@
    "doc_line": 14
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Copy. Received 16 June 1800. His Royal Majesty of Prussia is moved by the enclosed complaint of von Prusimska to call in the files, as they stand, of the case conducted before the Government at Poznań in her suit against His Lordship the Prince of Hohenlohe-Ingelfingen concerning the petitioner's maternal property, and therefore commands the said Government to send them in immediately upon sight of this. Charlottenburg, 14 June 1800. Friedrich Wilhelm\n\nTo\n\nThe Government at Poznań",
+   "names": [
+    {
+     "de": "von Prusimska",
+     "en": "von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Charlottenburg",
+     "en": "Charlottenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "16",
+    "1800",
+    "14",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "Copy. Received 16 June 1800. His Royal Majesty of Prussia is moved by the enclosed complaint of von Prusimska to call in the files, as they stand, of the case conducted before the Government at Poznań in her suit against His Lordship the Prince of Hohenlohe-Ingelfingen concerning the petitioner's maternal property, and therefore commands the said Government to send them in immediately upon sight of this. Charlottenburg, 14 June 1800. Friedrich Wilhelm\n\nTo\n\nThe Government at Poznań",
  "summary_en": "Copy of a cabinet order of the King to the Government at Poznań, received there on 16 June 1800: prompted by an enclosed complaint of von Prusimska, the King calls in the files of her case against the Prince of Hohenlohe-Ingelfingen over the petitioner's maternal property, as they stand, and orders them sent in at once.",
  "summary_de": "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen, dort eingegangen am 16. Juni 1800: Durch eine beiliegende Beschwerde der von Prusimska veranlasst, fordert der König die Akten ihrer Sache gegen den Fürsten von Hohenlohe-Ingelfingen wegen des mütterlichen Vermögens der Bittstellerin ein, so wie sie liegen, und befiehlt, sie sofort einzusenden.",
  "reading": {}

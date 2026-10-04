@@ -104,7 +104,64 @@
    "doc_line": 24
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michaelina von Prusimska",
+   "surface_en": "Michaelina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe-Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -123,17 +180,6 @@
    "display": "Brzyce",
    "kind": "place",
    "surface": "Brzezier",
-   "page": 1,
-   "page_id": "0011_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
-   "line": 219,
-   "doc_line": 8
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
    "page": 1,
    "page_id": "0011_a2",
    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
@@ -174,9 +220,59 @@
    "doc_line": 23
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Ex officio\n\n1. Let a rescript be sent to the Government at Poznań: since most of the councillors of its court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, it has been found necessary hereby to order that the said case be decided in the first instance by the full bench of the Government at Warsaw and in the second instance by the Superior Appeal Senate of the Kammergericht; the necessary orders have accordingly been sent to these two courts today, and this is hereby made known to it for its information and observance.\n\n2. Let the rescript to the Government at Warsaw be dispatched accordingly, and\n\n3. to the Superior Appeal Senate of the Ca[illegible]. Richters. Berlin, 7 Dec. 1800.\n\nG[oldbeck]\n\nNo. 5957.",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Michaelina von Prusimska",
+     "en": "Michaelina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe-Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "2",
+    "3",
+    "7",
+    "1800",
+    "5957"
+   ]
+  }
+ ],
+ "text_english": "Ex officio\n\n1. Let a rescript be sent to the Government at Poznań: since most of the councillors of its court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, it has been found necessary hereby to order that the said case be decided in the first instance by the full bench of the Government at Warsaw and in the second instance by the Superior Appeal Senate of the Kammergericht; the necessary orders have accordingly been sent to these two courts today, and this is hereby made known to it for its information and observance.\n\n2. Let the rescript to the Government at Warsaw be dispatched accordingly, and\n\n3. to the Superior Appeal Senate of the Ca[illegible]. Richters. Berlin, 7 Dec. 1800.\n\nG[oldbeck]\n\nNo. 5957.",
  "summary_en": "A decree made of the office's own motion: since most councillors of the Government at Poznań are members of the guardianship board there, which occasioned the suit of the guardian of the minor Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates and directs it, the case is to be decided in the first instance by the full bench of the Government at Warsaw and in the second by the Senate of Higher Appeal of the Kammergericht. The Government at Poznań is to be told; rescripts go also to the Government at Warsaw and to the Senate.",
  "summary_de": "Verfügung von Amts wegen: Da die meisten Räte der Regierung zu Posen Mitglieder des dortigen Vormundschaftskollegiums sind, das die Klage des Vormunds der minderjährigen Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und den Prozess leitet, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Oberappellationssenat des Kammergerichts entschieden werden. Dies ist der Regierung zu Posen mitzuteilen; Reskripte ergehen auch an die Regierung zu Warschau und an den Senat.",
  "reading": {}

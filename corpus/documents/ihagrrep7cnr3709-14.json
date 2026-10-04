@@ -125,7 +125,80 @@
    "doc_line": 67
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe- Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Radke",
+   "kind": "person",
+   "surface_de": "Radke",
+   "surface_en": "Radke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michaelina von Prusimska",
+   "surface_en": "Michaelina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posener",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 2
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -184,9 +257,77 @@
    "doc_line": 65
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "18 June. To His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Royal Prussian General of Infantry [uncertain: a] and Governor of\n\nWrocław.\n\nIn the office, to be\n\nfair-copied.\n\nDone, and to the post by Radke, 3 Jan. Gtt[illegible] Most Serene Prince, Most gracious Prince and Lord, Your Serene Highness's lawsuit against Michaelina von Prusimska has been so hastened by the Government at Poznań, in consequence of a cabinet order addressed to it on 1 July of this year recommending the speedy pursuit of the case, that judgment had already been given in it when the order of the 7th of this month arrived there.\n\n[illegible] the files were to be sent to Warsaw [illegible]. [illegible] the decision of the first instance [illegible] the Government has not reported; Your Serene Highness's authorised agent will also [uncertain: hoch] have been informed already, or will be informed without delay. In [illegible]sching[illegible] [illegible] from the one side or the other",
+   "names": [
+    {
+     "de": "Hohenlohe- Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Radke",
+     "en": "Radke",
+     "kind": "person"
+    },
+    {
+     "de": "Michaelina von Prusimska",
+     "en": "Michaelina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "18",
+    "3",
+    "1",
+    "7"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "[illegible] to the appellant. Meanwhile the order stands that the files be sent to the Superior Appeal Senate of the Kammergericht for judgment in the second instance, so that, [uncertain: finden] in accordance with Your Serene Highness's request, the Poznań Government takes no [text lost] part in the decision. With distinguished reverence I have the honour to remain Your Serene Highness's Berlin\n\n31 Dec. 1800. G[oldbeck]",
+   "names": [
+    {
+     "de": "Posener",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "31",
+    "1800"
+   ]
+  }
+ ],
+ "text_english": "18 June. To His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Royal Prussian General of Infantry [uncertain: a] and Governor of\n\nWrocław.\n\nIn the office, to be\n\nfair-copied.\n\nDone, and to the post by Radke, 3 Jan. Gtt[illegible] Most Serene Prince, Most gracious Prince and Lord, Your Serene Highness's lawsuit against Michaelina von Prusimska has been so hastened by the Government at Poznań, in consequence of a cabinet order addressed to it on 1 July of this year recommending the speedy pursuit of the case, that judgment had already been given in it when the order of the 7th of this month arrived there.\n\n[illegible] the files were to be sent to Warsaw [illegible]. [illegible] the decision of the first instance [illegible] the Government has not reported; Your Serene Highness's authorised agent will also [uncertain: hoch] have been informed already, or will be informed without delay. In [illegible]sching[illegible] [illegible] from the one side or the other\n\n[illegible] to the appellant. Meanwhile the order stands that the files be sent to the Superior Appeal Senate of the Kammergericht for judgment in the second instance, so that, [uncertain: finden] in accordance with Your Serene Highness's request, the Poznań Government takes no [text lost] part in the decision. With distinguished reverence I have the honour to remain Your Serene Highness's Berlin\n\n31 Dec. 1800. G[oldbeck]",
  "summary_en": "Draft of a letter to the Prince of Hohenlohe, heavily corrected and hard to read: the Government at Poznań, following the cabinet order of 1 July that urged it to move the case quickly, so hastened his case against Michalina von Prusimska that judgment had already been given when the order of 7 December arrived there. The order stands that the files are to be sent to the Senate of Higher Appeal of the Kammergericht for judgment in the second instance.",
  "summary_de": "Entwurf eines Schreibens an den Fürsten von Hohenlohe, stark korrigiert und schlecht lesbar: Die Regierung zu Posen hat seine Sache gegen Michalina von Prusimska infolge der Kabinettsordre vom 1. Juli, die ihr den schnellen Betrieb empfahl, so beschleunigt, dass bereits erkannt war, als die Verfügung vom 7. Dezember dort einging. Es bleibt bei der Verfügung, dass die Akten zum Spruch in zweiter Instanz an den Oberappellationssenat des Kammergerichts eingeschickt werden.",
  "reading": {}

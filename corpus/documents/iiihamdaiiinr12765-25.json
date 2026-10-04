@@ -202,17 +202,6 @@
  "place_canonical": "St. Petersburg",
  "place_mentions": [
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0036_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L25_01.jpg",
-   "line": 884,
-   "doc_line": 3
-  },
-  {
    "entity": "st-petersburg",
    "display": "St Petersburg",
    "kind": "place",

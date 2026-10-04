@@ -1381,17 +1381,6 @@
    "doc_line": 11
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 2,
-   "page_id": "0019_a1",
-   "scan": "Oe_1_Bu_14525_0019_a1-L7_02.jpg",
-   "line": 688,
-   "doc_line": 28
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -1557,17 +1546,6 @@
    "doc_line": 50
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 3,
-   "page_id": "0019_a2",
-   "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
-   "line": 730,
-   "doc_line": 69
-  },
-  {
    "entity": "betsche",
    "display": "Pszczew (Betsche)",
    "kind": "place",
@@ -1599,17 +1577,6 @@
    "scan": "Oe_1_Bu_14525_0020_a1-L7_04.jpg",
    "line": 733,
    "doc_line": 71
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 5,
-   "page_id": "0020_a2",
-   "scan": "Oe_1_Bu_14525_0020_a2-L7_05.jpg",
-   "line": 762,
-   "doc_line": 99
   },
   {
    "entity": "betsche",
@@ -1700,17 +1667,6 @@
    "doc_line": 137
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 7,
-   "page_id": "0021_a2",
-   "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
-   "line": 808,
-   "doc_line": 143
-  },
-  {
    "entity": "kalisz",
    "display": "Kalisz (Kalisch)",
    "kind": "place",
@@ -1731,17 +1687,6 @@
    "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
    "line": 816,
    "doc_line": 151
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 7,
-   "page_id": "0021_a2",
-   "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
-   "line": 818,
-   "doc_line": 153
   },
   {
    "entity": "konin",
@@ -1799,17 +1744,6 @@
    "doc_line": 165
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 8,
-   "page_id": "0022_a1",
-   "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
-   "line": 833,
-   "doc_line": 167
-  },
-  {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
@@ -1832,17 +1766,6 @@
    "doc_line": 188
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 9,
-   "page_id": "0022_a2",
-   "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
-   "line": 858,
-   "doc_line": 191
-  },
-  {
    "entity": "kalisz",
    "display": "Kalisz (Kalisch)",
    "kind": "place",
@@ -1852,17 +1775,6 @@
    "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
    "line": 865,
    "doc_line": 198
-  },
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 9,
-   "page_id": "0022_a2",
-   "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
-   "line": 876,
-   "doc_line": 209
   },
   {
    "entity": "konin",

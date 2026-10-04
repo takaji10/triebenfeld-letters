@@ -1,0 +1,48 @@
+status: draft
+segments:
+- page: 1
+  en: 'Berlin, 7 December 1800. To the South Prussian Government at Poznań.
+
+
+    ex officio
+
+
+    Friedrich Wilhelm, King, etc. Our, etc. Since most of the councillors of your court are members of
+    the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against
+    the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance
+    of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under
+    its direction, We have found it necessary hereby to order that the said case shall be decided in the
+    first instance by the full bench of the Government at Warsaw, and in the second instance by the Superior
+    Appeal Senate of the Kammergericht. We hereby make this known to you for your information and observance,
+    together with the fact that the necessary orders have accordingly been sent today to both the said
+    courts; and are, etc. Berlin, 7 December 1800. By command.
+
+
+    # # #'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Posen
+    en: Poznań
+    kind: place
+  - de: Friedrich Wilhelm
+    en: Friedrich Wilhelm
+    kind: person
+  - de: Michaelina von Prusimska
+    en: Michaelina von Prusimska
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: person
+  - de: Brzezier
+    en: Brzyce
+    kind: place
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  numbers:
+  - '7'
+  - '1800'
+  - '7'
+  - '1800'
