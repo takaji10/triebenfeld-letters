@@ -1387,6 +1387,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   era page now write van der Lahr throughout (english_forms.yml, name-van-der-lahr); the
   transcriptions keep each spelling as written.
 
+- **Sort buttons readable when pressed** (editor, 2026-10-04). The pressed button's text used
+  an undefined colour (`--bg`), so it took the button's own background colour and vanished in
+  dark mode. It now uses `--paper`, light on dark in the light theme and dark on light in the
+  dark one (People and Places pages).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -490,7 +490,7 @@ img.scan {
 }
 .sortbar button:hover { color: var(--ink); border-color: var(--ink-faint); }
 .sortbar button[aria-pressed="true"] {
-  color: var(--bg); background: var(--ink); border-color: var(--ink);
+  color: var(--paper); background: var(--ink); border-color: var(--ink);
 }
 /* Every reference is a link - no truncation, so a long list has to wrap
    readably rather than run off the measure. */
