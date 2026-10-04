@@ -324,6 +324,27 @@ def entities_in(rec, people=None):
         and rx.search(flat_text if getattr(rx, 'span', False) else text)))
 
 
+def mention_counts(rec, people=None):
+    """{slug: how many times the record names the entity}, searched as
+    entities_in searches, so a count is never given for a document that
+    entities_in does not list.
+
+    A person with two patterns (a king's "Wir Friedrich Wilhelm" beside his
+    ordinal) is counted once where both match the same words: matches are
+    kept by where they start.
+    """
+    people = people if people is not None else load_people()
+    text = _EXPANSION.sub(lambda m: m.group(0)[1:-1], rec['text'])
+    flat_text = text.replace('\n', ' ')
+    starts = {}
+    for slug, _, rx in people:
+        if not _applies(rx, rec):
+            continue
+        t = flat_text if getattr(rx, 'span', False) else text
+        starts.setdefault(slug, set()).update(m.start() for m in rx.finditer(t))
+    return {s: len(v) for s, v in starts.items() if v}
+
+
 # --------------------------------------------------------------- canon ----
 # Variants that are rulings or fragments rather than spellings: a bracketed
 # form records a doubtful reading, and a three-letter stub is an abbreviation

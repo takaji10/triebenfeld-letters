@@ -502,6 +502,29 @@ img.scan {
 }
 .person .reflist a:hover { border-color: var(--ink-faint); text-decoration: none; }
 
+/* A person's or place's documents (_includes/doc-list.html): the Browse card,
+   opened on demand, with the summary cut to two lines. */
+.person .counts { margin: .1rem 0 0; }
+.doclist { margin-top: .5rem; }
+.doclist > summary {
+  cursor: pointer; font-family: var(--sans); font-size: .85rem; color: var(--accent);
+  padding: .2rem 0; width: fit-content;
+}
+.doclist > summary:hover { text-decoration: underline; }
+.doclist[open] > summary { margin-bottom: .2rem; }
+.doclist .doclist-order { border-bottom: 0; margin: .4rem 0 0; padding-bottom: 0; }
+.doclist .results { max-width: var(--measure); }
+.doclist .result { padding: .8rem 0; }
+.doclist .result:last-child { border-bottom: 0; }
+.doclist .r-summary { -webkit-line-clamp: 2; }
+.doclist-group {
+  font-family: var(--sans); font-size: .8rem; font-weight: 600; color: var(--ink-soft);
+  padding: 1rem 0 .3rem; border-bottom: 1px solid var(--rule);
+}
+.doclist-group span { font-weight: 400; }
+.r-unit { font-family: var(--sans); font-size: .75rem; color: var(--ink-faint); }
+.chip.chip-n { color: var(--accent); border-color: var(--accent); }
+
 /* ------------------------------------------------------ language switch */
 .langswitch {
   margin-left: auto; font-family: var(--sans); font-size: .78rem;

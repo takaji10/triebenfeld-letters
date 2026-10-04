@@ -1,0 +1,23 @@
+{%- comment -%}
+  The documents of one person or place, as cards (editor, 2026-10-04).
+  include.letters  the entry's letters: {id, uid, url, n}
+  include.docs     how many documents
+  include.self     on a person's own list, their slug: left out of each card's
+                   line of people named
+
+  Closed by default. Opening it draws the cards with assets/doc-cards.js, the
+  same card as Browse, from assets/cards.json (assets/doc-list.js). Without
+  script, the numbered links below stay: every document is still one click
+  away, and the link checker still reaches them.
+{%- endcomment -%}
+<details class="doclist"{% if include.self %} data-self="{{ include.self }}"{% endif %}>
+  <summary>{% if include.docs == 1 %}{{ t.doclist_show_one }}{% else %}{{ t.doclist_show | replace: '%d', include.docs }}{% endif %}</summary>
+  <nav class="sortbar doclist-order" hidden>
+    <button type="button" data-order="chrono" aria-pressed="true">{{ t.doclist_by_date }}</button>
+    <button type="button" data-order="unit" aria-pressed="false">{{ t.doclist_by_unit }}</button>
+  </nav>
+  <ol class="results doclist-cards" hidden></ol>
+  <p class="refs reflist doclist-fallback">
+    {% for l in include.letters %}<a href="{{ l.url | relative_url }}" data-uid="{{ l.uid }}"{% if l.n %} data-n="{{ l.n }}"{% endif %}>{{ l.id }}</a>{% endfor %}
+  </p>
+</details>

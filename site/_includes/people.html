@@ -26,15 +26,12 @@
     {%- endif %}
     <h2>{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
     {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
-    <p class="refs">
-      Appears in {{ p.letters.size }} document{% if p.letters.size != 1 %}s{% endif %}
-      , {{ p.count }} mention{% if p.count != 1 %}s{% endif %}
-    </p>
-    <p class="refs reflist">
-      {% for l in p.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
-    </p>
+    {%- if p.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif p.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
+    <p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>
+    {% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}
   </div>
 {% endfor %}
 </div>
 
 <script src="{{ '/assets/sort-list.js' | relative_url }}"></script>
+{% include doc-list-script.html %}

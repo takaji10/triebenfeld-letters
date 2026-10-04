@@ -18,13 +18,11 @@
   <div class="person" id="{{ pl.slug }}"
        data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
     <h2>{{ pl.name }}</h2>
-    <p class="refs">{{ pl.count }} document{% if pl.count != 1 %}s{% endif %}</p>
+    <p class="refs counts">{% if pl.docs == 1 %}{{ t.counts_written_one }}{% else %}{{ t.counts_written | replace: '%d', pl.docs }}{% endif %}{% if pl.span %} · {{ pl.span }}{% endif %}</p>
     {%- if pl.lat %}
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
     {%- endif %}
-    <p class="refs reflist">
-      {% for l in pl.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
-    </p>
+    {% include doc-list.html letters=pl.letters docs=pl.docs %}
   </div>
 {% endfor %}
 </div>
@@ -40,13 +38,11 @@
   <div class="person" id="estate-{{ es.slug }}"
        data-name="{{ es.name | escape }}" data-count="{{ es.count }}">
     <h2>{{ es.name }}</h2>
-    <p class="refs">{{ es.count }} document{% if es.count != 1 %}s{% endif %}</p>
+    <p class="refs counts">{% if es.docs == 1 %}{{ t.counts_estate_one }}{% else %}{{ t.counts_estate | replace: '%d', es.docs }}{% endif %}{% if es.span %} · {{ es.span }}{% endif %}</p>
     {%- if es.lat %}
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
     {%- endif %}
-    <p class="refs reflist">
-      {% for l in es.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
-    </p>
+    {% include doc-list.html letters=es.letters docs=es.docs %}
   </div>
 {% endfor %}
 </div>
@@ -62,15 +58,15 @@
   <div class="person" id="named-{{ pl.slug }}"
        data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
     <h2>{{ pl.name }}</h2>
-    <p class="refs">{{ pl.count }} document{% if pl.count != 1 %}s{% endif %}</p>
+    {%- if pl.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif pl.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
+    <p class="refs counts">{{ cl | replace: '%m', pl.count | replace: '%d', pl.docs }}{% if pl.span %} · {{ pl.span }}{% endif %}</p>
     {%- if pl.lat %}
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
     {%- endif %}
-    <p class="refs reflist">
-      {% for l in pl.letters %}<a href="{{ l.url | relative_url }}">{{ l.id }}</a>{% endfor %}
-    </p>
+    {% include doc-list.html letters=pl.letters docs=pl.docs %}
   </div>
 {% endfor %}
 </div>
 
 <script src="{{ '/assets/sort-list.js' | relative_url }}"></script>
+{% include doc-list-script.html %}

@@ -233,7 +233,7 @@ en:
   home_p3_sum: 1,414,377 Reichsthaler
   people_h1: People in the documents
   people_lede: >-
-    Everyone named often enough to follow from one document to the next, with the number of documents each appears in. See
+    Everyone named often enough to follow from one document to the next: how often the documents name each person, and in which documents. Open a person's list to see those documents, by date or by archival holding. See
   places_h1: Places of writing
   places_lede: >-
     Where each document was written, from its own dateline. Many carry none, and those are grouped under <em>Unknown</em> rather than guessed at.
@@ -243,6 +243,19 @@ en:
   sort: Sort
   sort_most_mentions: Most mentions
   sort_fewest_mentions: Fewest mentions
+  doclist_show: "Show the %d documents"
+  doclist_show_one: "Show the document"
+  doclist_by_date: By date
+  doclist_by_unit: By holding
+  card_mention_one: named once
+  card_mentions: "named %d times"
+  counts_mentions: "%m mentions in %d documents"
+  counts_mention_one: "1 mention in 1 document"
+  counts_mentions_onedoc: "%m mentions in 1 document"
+  counts_written: "%d documents written here"
+  counts_written_one: "1 document written here"
+  counts_estate: "%d documents concern it"
+  counts_estate_one: "1 document concerns it"
   sort_most_docs: Most documents
   sort_fewest_docs: Fewest documents
   sources_h1: Sources
@@ -497,7 +510,7 @@ de:
   home_p3_sum: 1.414.377 Reichsthalern
   people_h1: Personen in den Dokumenten
   people_lede: >-
-    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen, mit der Zahl der Dokumente, in denen sie genannt werden. Siehe
+    Alle, die oft genug vorkommen, um sie von einem Dokument zum nächsten zu verfolgen: wie oft die Dokumente jede Person nennen, und in welchen. Die Liste einer Person öffnet diese Dokumente, nach Datum oder nach Archivbestand. Siehe
   places_h1: Ausstellungsorte
   places_lede: >-
     Wo jedes Dokument ausgestellt wurde, nach seiner eigenen Datumszeile. Viele tragen keinen Ort; diese stehen unter <em>Unbekannt</em>, statt erraten zu werden.
@@ -507,6 +520,19 @@ de:
   sort: Sortieren
   sort_most_mentions: Meiste Nennungen
   sort_fewest_mentions: Wenigste Nennungen
+  doclist_show: "Die %d Dokumente zeigen"
+  doclist_show_one: "Das Dokument zeigen"
+  doclist_by_date: Nach Datum
+  doclist_by_unit: Nach Bestand
+  card_mention_one: einmal genannt
+  card_mentions: "%d-mal genannt"
+  counts_mentions: "%m Nennungen in %d Dokumenten"
+  counts_mention_one: "1 Nennung in 1 Dokument"
+  counts_mentions_onedoc: "%m Nennungen in 1 Dokument"
+  counts_written: "%d hier geschriebene Dokumente"
+  counts_written_one: "1 hier geschriebenes Dokument"
+  counts_estate: "%d Dokumente betreffen es"
+  counts_estate_one: "1 Dokument betrifft es"
   sort_most_docs: Meiste Dokumente
   sort_fewest_docs: Wenigste Dokumente
   sources_h1: Quellen

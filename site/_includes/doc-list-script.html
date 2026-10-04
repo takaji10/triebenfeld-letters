@@ -1,0 +1,11 @@
+{%- comment -%} Once per page that uses doc-list.html. {%- endcomment -%}
+<script>
+  window.CARDS_URL = "{{ '/assets/cards.json' | relative_url }}";
+  window.SITE_BASE = "{{ site.baseurl }}";
+  window.LANG = "{{ lang | default: 'en' }}";
+  window.I18N = {{ site.data.i18n[lang] | jsonify }};
+  window.UNITS = { {% for u in site.data.units %}{{ u.slug | jsonify }}: {{ u.ref | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
+  window.PEOPLE_NAMES = { {% for p in site.data.people %}{{ p.slug | jsonify }}: {% if lang == 'de' %}{{ p.heading_de | jsonify }}{% else %}{{ p.heading | jsonify }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %} };
+</script>
+<script src="{{ '/assets/doc-cards.js' | relative_url }}"></script>
+<script src="{{ '/assets/doc-list.js' | relative_url }}"></script>

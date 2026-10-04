@@ -82,25 +82,9 @@
     return true;
   }
 
-  function archivalKey(id) {
-    var m = /^(\d+)([a-z]*)$/.exec(id);
-    return [parseInt(m[1], 10), m[2] || ''];
-  }
-
-  function sortItems(list, order) {
-    return list.sort(function (a, b) {
-      if (order === 'archival') {
-        // an archival number orders documents only within its own holding
-        if (a.unit !== b.unit) return a.unit < b.unit ? -1 : 1;
-        var ka = archivalKey(a.id), kb = archivalKey(b.id);
-        return ka[0] - kb[0] || (ka[1] < kb[1] ? -1 : ka[1] > kb[1] ? 1 : 0);
-      }
-      if (!a.date && !b.date) return archivalKey(a.id)[0] - archivalKey(b.id)[0];
-      if (!a.date) return 1;
-      if (!b.date) return -1;
-      return a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
-    });
-  }
+  // Ordering and the card itself are shared with the People and Places
+  // pages (assets/doc-cards.js), so a document's card is the same everywhere.
+  function sortItems(list, order) { return window.DocCards.sort(list, order); }
 
   function render() {
     var f = {
@@ -122,45 +106,14 @@
     els.empty.hidden = hits.length > 0;
 
     var html = hits.map(function (it) {
-      var flags = [];
-      if (it.type === 'register') flags.push('<span class="chip">' + esc(s_('chip_register','register')) + '</span>');
-      if (!it.date) flags.push('<span class="chip">' + esc(s_('chip_undated','undated')) + '</span>');
-      else if (it.source !== 'signature') flags.push('<span class="chip">' + esc(s_('chip_supplied','date supplied')) + '</span>');
-      if (it.dup) flags.push('<span class="chip">' + esc(s_('chip_duplicate','duplicate of')) + ' ' + esc(it.dup) + '</span>');
-      if (it.parent) flags.push('<span class="chip">' + esc(s_('chip_part','part of')) + ' ' + esc(it.parent) + '</span>');
-      if (it.damage) flags.push('<span class="chip warn">' + esc(s_('chip_damaged','damaged')) + '</span>');
-      if (it.unc) flags.push('<span class="chip">' + it.unc + ' ' + esc(s_('chip_uncertain','uncertain')) + '</span>');
-
-      var names = it.people.slice(0, 6).map(function (s) {
-        return esc(PEOPLE_NAMES[s] || s);
-      }).join(' · ');
-
-      var corr = '';
-      if (it.from || it.to) {
-        var de = LANG === 'de';
-        corr = '<p class="r-corr">' + esc((de && it.from_de) || it.from || '?') +
-               ' <span class="c-arrow">&rarr;</span> ' + esc((de && it.to_de) || it.to || '?') + '</p>';
-      }
-
       // With a query, show the matching passage - that is what the reader is
       // looking for. Without one, the summary is far more use than the opening
       // words of the letter, which are almost always the same salutation.
       var sum = (LANG === 'de' && it.summary_de) ? it.summary_de : it.summary;
-      var body = (!f.q && sum)
-        ? '<p class="r-summary">' + esc(sum) + '</p>'
-        : '<p class="r-snip">' + snippet(it, f.q) + '</p>';
-
-      return '<li class="result">' +
-        '<a class="r-head" href="' + esc(window.SITE_BASE + it.url) + '">' +
-          '<span class="r-id">' + esc(it.id) + '</span>' +
-          '<span class="r-date">' + esc((LANG === 'de' && it.label_de) ? it.label_de : it.label) + '</span>' +
-          (it.place ? '<span class="r-place">' + esc(it.place) + '</span>' : '') +
-        '</a>' +
-        corr +
-        (flags.length ? '<p class="r-flags">' + flags.join('') + '</p>' : '') +
-        body +
-        (names ? '<p class="r-people">' + names + '</p>' : '') +
-      '</li>';
+      return window.DocCards.card(it, {
+        lang: LANG, t: T, base: window.SITE_BASE, names: PEOPLE_NAMES,
+        body: (!f.q && sum) ? null : '<p class="r-snip">' + snippet(it, f.q) + '</p>'
+      });
     }).join('');
 
     els.results.innerHTML = html;

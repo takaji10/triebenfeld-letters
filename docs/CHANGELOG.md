@@ -1408,6 +1408,17 @@ lose his estates. The era page writes Konotop, not Kontop.
   Warschau and the Großherzogtum Posen stay as German writes them. The biographies of the
   people merged or split today were rewritten with them.
 
+- **People and Places: documents as cards** (editor, 2026-10-04). Each person and place
+  now shows a counts line and a list that opens to the documents as cards, the same card as
+  Browse (the card code moved from browse.js to a shared assets/doc-cards.js, which Browse
+  now uses too), with the summary cut to two lines, in date order or grouped by archival
+  holding. People and named places are counted by mentions (how often the documents name
+  them, entities.mention_counts), with the number of documents beside it; each card says
+  how often that document names them. Places of writing and estates count documents. The
+  cards come from assets/cards.json (the search index without the texts, fetched when a
+  list is first opened); without script the numbered links remain. A link to
+  /people/#slug opens that person's list.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
