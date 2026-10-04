@@ -20,8 +20,12 @@ The pencil notes in the margins of the Warsaw report were first read by the edit
 
 ### Summaries
 
-The summaries were written in German from a reading of each document against its scan, and translated into English. They have not yet had the separate check of each statement that the summaries of some other holdings received.
+The summaries were written in German from a reading of each document against its scan, and translated into English. Each statement in them was then checked against its document, under the same rules as the separate check that the summaries of other holdings received: a summary may say only what the document says. One clause was weakened: a pencil note that the summary attributed to the Prince speaks only of "he", the holder of an estate the King had given.
+
+### Translation
+
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The five French documents were translated from the French and the judgment from the Polish; one French letter and the Polish judgment were done first as a trial, since documents in these languages are new to the edition. The pencil notes in German were translated where they stand, under the same label as in the transcription. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English. Where the text repeats words, as the Polish judgment does twice, the English repeats them too.
 
 ### Still to do
 
-The documents have not yet been translated into English.
+The English has not yet been read against the scans.

@@ -1480,6 +1480,19 @@ lose his estates. The era page writes Konotop, not Kontop.
   edition has 447 documents. Not yet translated; the summaries have not had the claim check. See
   `units/iiihamdaiiinr12366/notes.md`.
 
+- **Nr. 12366 translated and its summaries checked** (editor, 2026-10-04). The six documents of
+  III. HA MdA, III. Nr. 12366 translated into English in session under the rules translate.py
+  gives its translator, a pilot first (Alopeus's letter and the Polish judgment, French and Polish
+  being new to the edition), written to the translation cache as translate.py writes it, checked
+  by check_translations.py (two rows, French words the termbase mistakes for German) and
+  uncanonical_names.py (nothing), and published. The five French documents translated from the
+  French, the judgment from the Polish, the reader's German pencil notes where they stand. The
+  pages are kept in `units/iiihamdaiiinr12366/intake/translation/`. The six German summaries
+  claim-checked against the documents, as read_letters.py --verify checks: 70 statements, one
+  overstated (a pencil note given to the Prince that names no one), weakened in both languages
+  and on the holding's page. Szetlowek, Szeltowek and Szetlowka matched to Szetlewek. The
+  holding is marked translated.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

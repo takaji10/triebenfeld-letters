@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 265
+  docs: 267
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -36,7 +36,7 @@
   initial_en: "C"
   sort_de: "courant"
   initial_de: "C"
-  docs: 58
+  docs: 59
 - id: "groschen"
   kind: "money"
   lang: "de"
@@ -511,7 +511,7 @@
   initial_en: "D"
   sort_de: "donation"
   initial_de: "D"
-  docs: 19
+  docs: 22
 - id: "taxe"
   kind: "land"
   lang: "de_la"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 38
+  docs: 41
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -644,7 +644,7 @@
   initial_en: "T"
   sort_de: "titulus possessionis"
   initial_de: "T"
-  docs: 39
+  docs: 40
 - id: "abstand"
   kind: "land"
   lang: "la"
@@ -872,7 +872,7 @@
   initial_en: "I"
   sort_de: "intabulation"
   initial_de: "I"
-  docs: 15
+  docs: 16
 - id: "kammer"
   kind: "law"
   lang: "de"
@@ -1328,7 +1328,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 88
+  docs: 90
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1404,7 +1404,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 22
+  docs: 23
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 342
+  docs: 343
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1974,7 +1974,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 88
+  docs: 89
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"
@@ -2031,7 +2031,7 @@
   initial_en: "C"
   sort_de: "wiener kongress"
   initial_de: "W"
-  docs: 20
+  docs: 21
 - id: "partitions"
   kind: "event"
   lang: "pl"

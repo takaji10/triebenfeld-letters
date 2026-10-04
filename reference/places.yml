@@ -142,7 +142,11 @@ places:
   szetlewek:
     display: "Szetlewek"
     kind: village
-    match: 'Sz[ei]tt?lew\w*'
+    # Szetlowek and Szeltowek are the French report of 1818, Szetlowka (genitive)
+    # the Polish judgment of 1827, each beside Trąbczyn (III. HA MdA, III. Nr.
+    # 12366, documents 2 and 6). Matched, not made variants: the English keeps
+    # the page's spelling, as it does for Kamienno (2026-10-04).
+    match: 'Sz[ei]tt?lew\w*|Szetlow\w*|Szeltow\w*'
     tier: "Context-inferred"
     variants:
       - "Stetlewek"

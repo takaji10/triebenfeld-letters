@@ -1,0 +1,274 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    Copy
+
+    The Commissioners Plenipotentiary for the liquidation of the assets and liabilities of the former Duchy of Warsaw have just made the following statement on the claims addressed to them by Countess Micheline Miączyńska, née Prusimska.
+
+    The object of these claims is: that the hereditary estates of the said Countess, confiscated in 1796 from her father, the Starost Prusimski, by the Prussian Government, and into the possession of which she was reinstated by an order of the Governing Commission of the former Duchy of Warsaw of 21 July 1807, made by virtue of a decree of the Emperor of France of 5 July 1807, be relieved of the debts contracted by the donees who had held them temporarily; that the amount of these debts be counted among the liquidated liabilities chargeable to the Prussian Government; and that the said estates be thereby restored to the state in which they were at the time of their confiscation, and the owner protected against the proceedings of the creditors.
+
+    In support of her request Madame Miączyńska alleges the following circumstances:
+
+    That the Starost Prusimski, her father, possessed hereditary estates, namely:
+
+    [Written by the receiving office:]
+
+    [chargeable to the Prussian Government:] As if Prussia were answerable to anyone at all for acts of government in former South Prussia!
+  names:
+  - {de: "Duché de Varsovie", en: "Duchy of Warsaw", kind: place}
+  - {de: "Micheline Miączyńska, née Prusimska", en: "Micheline Miączyńska, née Prusimska", kind: person}
+  - {de: "Prusimski", en: "Prusimski", kind: person}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Südpreußen", en: "South Prussia", kind: place}
+  numbers: ['1796', '21', '1807', '5', '1807']
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    1. Kamienno and Kolno, district of Międzyrzecz, in the Grand Duchy of Poznań.
+
+    2. The estates of Pawłowo, Dzwonowo and Berenkusz, district of Wągrowice, in the same Duchy.
+
+    3. Trąbczyn and Szetlowek with their appurtenances, in the district of Konin, Palatinate of Kalisz, in Poland.
+
+    The poor state of the health of the said Starost and of that of his wife obliged him in 1794 to go to Italy.
+
+    The Prussian Government summoned Mr Prusimski and his wife in October 1795 and in February 1796 to justify the reasons which had led them to leave the country, accusing the former at the same time of having taken part in the insurrection of 1794. Later, on 24 March 1796, that is to say a month after the second summons, without hearing Prusimski's answer, the said Government had all the estates designated above confiscated.
+
+    [Written by the receiving office:]
+
+    [the health of the said Starost and of that of his wife:] So now he was ill too! She only fell ill at Venice
+
+    The Starost Prusimski, who had just then lost his wife, was at Venice. Having had knowledge only very late of the aforesaid summonses, which reached him only some months afterwards, he thought it his duty, in order to justify as soon as possible the reasons for his departure from Poland, to send the Prussian Government a certificate of the
+  names:
+  - {de: "Kamienno", en: "Kamienno", kind: place}
+  - {de: "Kolno", en: "Kolno", kind: place}
+  - {de: "Meseritz", en: "Międzyrzecz", kind: place}
+  - {de: "Grand Duché de Posen", en: "Grand Duchy of Poznań", kind: place}
+  - {de: "Pawłowo", en: "Pawłowo", kind: place}
+  - {de: "Dzwonowo", en: "Dzwonowo", kind: place}
+  - {de: "Berenkusz", en: "Berenkusz", kind: place}
+  - {de: "Wągrowice", en: "Wągrowice", kind: place}
+  - {de: "Trąbczyn", en: "Trąbczyn", kind: place}
+  - {de: "Szetlowek", en: "Szetlowek", kind: place}
+  - {de: "Konin", en: "Konin", kind: place}
+  - {de: "Kalisz", en: "Kalisz", kind: place}
+  - {de: "Pologne", en: "Poland", kind: place}
+  - {de: "Italie", en: "Italy", kind: place}
+  - {de: "Prusimski", en: "Prusimski", kind: person}
+  - {de: "Venedig", en: "Venice", kind: place}
+  - {de: "Venise", en: "Venice", kind: place}
+  numbers: ['1.', '2.', '3.', '1794', '1795', '1796', '1794', '24', '1796']
+- page: 3
+  confidence: high
+  marker_count: 0
+  en: |-
+    illness and death of his wife, legalised by Count Cathane, Prussian Councillor of Legation to the Republic of Venice, and at the same time begged that the time fixed for his justification be extended; but before he could obtain this he succumbed to the illness from which he was suffering, and which had forced him to seek relief in foreign countries.
+
+    Madame Miączyńska, then of tender age and an orphan, deprived of all the help of a legal guardianship, had been unable to pursue her rights to her father's fortune. The Prussian Government meanwhile disposed of it in the following manner. It granted:
+
+    To Prince Hohenlohe Ingelfingen the estates of Kolno, Kamionna and Trąbczyn, and others situated in the district of Konin.
+
+    To General Sanitz:
+
+    The domain of Pawłowo with its appurtenances.
+
+    [Written by the receiving office:]
+
+    [to the illness from which he was suffering:] 1803. Oct.
+
+    [deprived of all the help of a legal guardianship:] untrue
+
+    [The Prussian Government meanwhile disposed of it:] Why then has she kept silent since 1807, when she was put back in possession?
+
+    At the time of the political changes which came about in 1807, the Emperor of the French, wishing to do justice to the claims of all the Poles whose estates had been confiscated by the Prussian Government, issued a decree by virtue of which all the confiscations were abolished and the lawful owners reinstated in possession of the estates
+  names:
+  - {de: "Cathane", en: "Cathane", kind: person}
+  - {de: "Venise", en: "Venice", kind: place}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Hohenlohe Ingelfingen", en: "Hohenlohe Ingelfingen", kind: person}
+  - {de: "Kolno", en: "Kolno", kind: place}
+  - {de: "Kamionna", en: "Kamionna", kind: place}
+  - {de: "Trąbczyn", en: "Trąbczyn", kind: place}
+  - {de: "Konin", en: "Konin", kind: place}
+  - {de: "Sanitz", en: "Sanitz", kind: person}
+  - {de: "Pawłowo", en: "Pawłowo", kind: place}
+  numbers: ['1803', '1807', '1807']
+- page: 4
+  confidence: high
+  marker_count: 0
+  en: |-
+    of which they had been deprived. It is in consequence of this decree that the Senator Palatine (Woywod?) Wybicki recovered possession of his estate called Manieczki, and after him Countess Micheline Miączyńska, then widow of her first husband Dąbski.
+
+    General Niemojewski and Wichrowsky were likewise reinstated in their respective properties in consequence of an order of the Government of the Duchy of Warsaw of 21 July 1807.
+
+    When the Duchy of Warsaw passed under the sceptre of His Majesty the King of Saxony, the Prussian Government made representations on behalf of General Sanitz, aiming at the restitution to him of the estate of Pawłowo. The King of Saxony asked the opinion of the Council of Ministers of the said Duchy on this matter.
+
+    The aforementioned Council, in the report which it addressed to the King under date of 5 December 1810, had given its opinion as follows:
+
+    [Written by the receiving office:]
+
+    [of which they had been deprived:] Not even Napoleon granted them a claim on account of what had happened in the meantime.
+
+    [Manieczki:] +) District of Kosten, government district of Poznań
+
+    "That Madame Micheline Dąbska (at present Miączyńska), as lawful owner of the said estates, must be maintained in their possession, and that General Sanitz, who held them only by a precarious title, should, as to the claims he makes on that account,
+  names:
+  - {de: "Wybicki", en: "Wybicki", kind: person}
+  - {de: "Manieczki", en: "Manieczki", kind: place}
+  - {de: "Micheline Miączyńska", en: "Micheline Miączyńska", kind: person}
+  - {de: "Dąbski", en: "Dąbski", kind: person}
+  - {de: "Niemojewski", en: "Niemojewski", kind: person}
+  - {de: "Wichrowsky", en: "Wichrowsky", kind: person}
+  - {de: "Duché de Varsovie", en: "Duchy of Warsaw", kind: place}
+  - {de: "Saxe", en: "Saxony", kind: place}
+  - {de: "Sanitz", en: "Sanitz", kind: person}
+  - {de: "Pawłowo", en: "Pawłowo", kind: place}
+  - {de: "Napoleon", en: "Napoleon", kind: person}
+  - {de: "Kosten", en: "Kosten", kind: place}
+  - {de: "Posen", en: "Poznań", kind: place}
+  - {de: "Micheline Dąbska", en: "Micheline Dąbska", kind: person}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  numbers: ['21', '1807', '5', '1810']
+- page: 5
+  confidence: high
+  marker_count: 0
+  en: |-
+    be referred to the Prussian Government."
+
+    It follows from this that the legitimacy of the rights of Madame Micheline Miączyńska cannot be called in question; and indeed she would have had no ground to make new claims if all her estates had been restored to her, as Pawłowo was, in the same state in which they were at the time of their confiscation. But the estates of Trąbczyn and Szeltowek were burdened by the donee Prince Hohenlohe with a sum of 156,000 Reichsthaler. Those of Kolno and Kamienno, which the said Prince had sold to the Bank cashier Leyner for the sum of 142,000 Reichsthaler, are likewise mortgaged for the sum of 160,000 Reichsthaler.
+
+    Madame Miączyńska, referring to the decree of the Government of the Duchy of Warsaw of 21 July 1807, requests that the aforementioned estates be put back in the same state in which her father had left them, that is to say free of every mortgage charge; in support of this request she represents:
+
+    [Written by the receiving office:]
+
+    [be put back in the same state:] Where is that written? Not even in the Napoleonic decree.
+
+    [against all justice:] untrue
+
+    1. That the Prussian Government had confiscated the estates of the petitioner against all justice and without regard to the incontestable right she had to them as a minor and an orphan. That although this Government
+  names:
+  - {de: "Micheline Miączyńska", en: "Micheline Miączyńska", kind: person}
+  - {de: "Pawłowo", en: "Pawłowo", kind: place}
+  - {de: "Trąbczyn", en: "Trąbczyn", kind: place}
+  - {de: "Szeltowek", en: "Szeltowek", kind: place}
+  - {de: "Hohenlohe", en: "Hohenlohe", kind: person}
+  - {de: "Kolno", en: "Kolno", kind: place}
+  - {de: "Kamienno", en: "Kamienno", kind: place}
+  - {de: "Leyner", en: "Leyner", kind: person}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Duché de Varsovie", en: "Duchy of Warsaw", kind: place}
+  - {de: "Napoleon", en: "Napoleon", kind: person}
+  numbers: ['156,000', '142,000', '160,000', '21', '1807', '1.']
+  flagged:
+  - de: "Nicht einmal im Napoleon. Decrete."
+    rendered_as: "Not even in the Napoleonic decree."
+    alt: "Not even in Napoleon's decree."
+    why: "Napoleon. is read as the abbreviated adjective (Napoleonischen) before Decrete; either way the decree meant is Napoleon's of 1807."
+- page: 6
+  confidence: high
+  marker_count: 0
+  en: |-
+    disposed of the aforesaid estates in favour of Prince Hohenlohe and General Sanitz to reward their services, such a donation could nevertheless only be temporary, as the political events which came about in 1807 proved: in changing the order of things then existing, they produced the same effect on the particular circumstances that arose from it; for in giving existence back to a part of Poland, the private owners were at the same time re-established in possession of the estates which had been unjustly confiscated from them. Now it follows from this that, the donations once annulled, all the transactions deriving from them necessarily had to be annulled in all their effects, so that the debts mortgaged on the aforementioned estates can fall only on the donees who contracted them. It is in consequence of this principle that the Minister of Justice, by his decision of 30 November 1817, referred to the Prussian Government the claims of Leyner, purchaser of the estates of Kolno and Kamienno.
+
+    [Written by the receiving office:]
+
+    [as the political events ... proved:] but for as long as he possessed it, he possessed it lawfully and with full right of ownership
+
+    [unjustly confiscated:] Where is that written?
+
+    2. That since the Emperor of the French and the Governing Commission had judged it equitable to give back to the owners the estates unjustly confiscated from them, the effect would not answer to the purpose for which this act of justice
+  names:
+  - {de: "Hohenlohe", en: "Hohenlohe", kind: person}
+  - {de: "Sanitz", en: "Sanitz", kind: person}
+  - {de: "Pologne", en: "Poland", kind: place}
+  - {de: "Leyner", en: "Leyner", kind: person}
+  - {de: "Kolno", en: "Kolno", kind: place}
+  - {de: "Kamienno", en: "Kamienno", kind: place}
+  numbers: ['1807', '30', '1817', '2.']
+- page: 7
+  confidence: high
+  marker_count: 0
+  en: |-
+    had been done, if the said owners were to be bound to pay the debts with which their estates had been encumbered by the donees; seeing that in such a case they would have recovered only an onerous and purely illusory title of inheritance.
+
+    3. The rights of Madame Miączyńska and those of General Niemojewski and of Wichrowski to the estates they claimed being of one and the same nature, the restitution of those estates took place in consequence of decrees issuing from one and the same principle.
+
+    Wichrowski recovered possession of his estate of Beskyn free of debt. General Niemojewski took back his own in a like state. And Madame Miączyńska herself was reinstated in her estate of Pawłowo, held by General Sanitz, likewise free of debts; why then should she be bound to discharge those with which Prince Hohenlohe had encumbered the estates granted to him?
+
+    [Written by the receiving office:]
+
+    [they would have recovered only an onerous title of inheritance:] They got back what was there.
+
+    [Prince Hohenlohe had encumbered the estates:] Because here there are debts.
+
+    4. The Prussian Government, wishing to reward the services of General Sanitz, made him a gift of the estates confiscated from the parents of Madame Miączyńska; but when these estates were taken back from the donee, the said Government
+  names:
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Niemojewski", en: "Niemojewski", kind: person}
+  - {de: "Wichrowski", en: "Wichrowski", kind: person}
+  - {de: "Beskyn", en: "Beskyn", kind: place}
+  - {de: "Pawłowo", en: "Pawłowo", kind: place}
+  - {de: "Sanitz", en: "Sanitz", kind: person}
+  - {de: "Hohenlohe", en: "Hohenlohe", kind: person}
+  numbers: ['3.', '4.']
+- page: 8
+  confidence: high
+  marker_count: 1
+  en: |-
+    judged it proper to indemnify him by granting him another estate, called Hetzendorff.
+
+    It acted likewise towards General Zastrof, granting him the estate called [uncertain: Lama] in place of that of Manieczki, restored to the Senator Palatine Wybicki.
+
+    Now the said Government cannot refuse to indemnify Prince Hohenlohe by undertaking to pay for him the debts with which he burdened the estates now belonging to Madame Miączyńska.
+
+    From this historical account of the affair it follows:
+
+    That since the Government of the former Duchy of Warsaw had refused to satisfy the claims of the Prussian one as regards the indemnification of the donees for the loss of the estates taken back from them to be returned to their lawful owners, and since the latter recognised it as equitable to indemnify the same donees in its own country and from its own funds, it is consequently beyond doubt, although it has not acted in the same way towards Prince Hohenlohe, that the motives which had determined it to indemnify the former will lead it also to observe the same principle of equity towards the said Prince. In that case
+  names:
+  - {de: "Hetzendorff", en: "Hetzendorff", kind: place}
+  - {de: "Zastrof", en: "Zastrof", kind: person}
+  - {de: "Lama[?]", en: "[uncertain: Lama]", kind: place}
+  - {de: "Manieczki", en: "Manieczki", kind: place}
+  - {de: "Wybicki", en: "Wybicki", kind: person}
+  - {de: "Hohenlohe", en: "Hohenlohe", kind: person}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Duché de Varsovie", en: "Duchy of Warsaw", kind: place}
+  flagged:
+  - de: "par conséquent quoiqu’il n’eût pas usé de même à l’égard du Prince Hohenlohe, néanmoins il est hors de doute"
+    rendered_as: "it is consequently beyond doubt, although it has not acted in the same way towards Prince Hohenlohe, that"
+    alt: "and that consequently, although it did not act in the same way towards Prince Hohenlohe, it is nevertheless beyond doubt that"
+    why: "The French runs the two clauses together without punctuation; the English keeps both and their order of argument."
+- page: 9
+  confidence: high
+  marker_count: 0
+  en: |-
+    the creditors will settle their claims on the indemnity that will have been granted to him.
+
+    That such an opinion could not be appreciated by the Prussian Government once this affair has been laid before it in its true light, the justice of the cause itself seems to be the guarantee, seeing:
+
+    1. That the said Government, without waiting for the Starost Prusimski to justify the reasons that had prompted his departure (and which could be none other than those of health, as is proved by the death of his wife, whom he survived only a short time), at once had all his estates confiscated.
+
+    2. Madame Miączyńska, of tender age and an orphan, had a right, in conformity with the Prussian laws, to the protection of the Government; as a minor she could not, by the same laws, be held responsible for the conduct of her parents, even had it been recognised as reprehensible. Nor could she be deprived of the fortune of her father, whose lawful heiress she was, all the more since it was the obligation of the said Government to watch over the integrity of the rights of its ward. If the fault lies with the persons charged
+  names:
+  - {de: "Prusimski", en: "Prusimski", kind: person}
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  numbers: ['1.', '2.']
+  flagged:
+  - de: "Qu’une telle opinion ne saurait pas être appreciée par le Gouvernement Prussien"
+    rendered_as: "That such an opinion could not be appreciated by the Prussian Government"
+    alt: "That such an opinion could not fail to be appreciated by the Prussian Government"
+    why: "The French says 'ne saurait pas être appreciée', which sits badly with the rest of the sentence: the argument needs 'could not fail to be appreciated'. The English keeps what the page says; a word (manquer d') may have dropped out."
+- page: 10
+  confidence: high
+  marker_count: 0
+  en: |-
+    with the guardianship of Madame Miączyńska, it is just that the Prussian Government, which had appointed them, should, in redressing the wrongs that their negligence may have done to the interests of its ward, free the estates of Madame Miączyńska from the debts which she had not contracted, and which she is not bound to discharge, either by the principles of all justice or in conformity with the Prussian laws.
+
+    Warsaw, 29 April 1818
+  names:
+  - {de: "Miączyńska", en: "Miączyńska", kind: person}
+  - {de: "Varsovie", en: "Warsaw", kind: place}
+  numbers: ['29', '1818']

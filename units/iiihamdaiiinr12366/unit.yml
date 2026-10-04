@@ -33,7 +33,13 @@ archive_title: >-
 # 30 July 1827. The cover gives "Vol. I, vom 15. Dez. 1818 bis Novbr 1827".
 # The scan folder's name carries "1834-1836", which no piece here bears.
 date_span: 1818-1827
-status: transcribed        # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
+# Translated in session on 2026-10-04 into the untagged cache
+# (cache/translation-raw), as Nr. 3709 was: see notes.md.
+published_tag: "" # untagged: cache/translation-raw
+# The pilot run first (docs/NEW_UNIT.md, section 4): one French letter and the
+# Polish judgment, French and Polish being a new kind of source here.
+translation_pilot: [1, 6]
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe

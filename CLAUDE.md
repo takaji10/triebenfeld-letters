@@ -88,16 +88,14 @@ so check them.
   eight files from the Geheimes Staatsarchiv are still to be added, each
   worked in per `docs/HOHENLOHE_ERA_PLAN.md`.
 - **III. HA MdA, III. Nr. 12366** (slug `iiihamdaiiinr12366`, added
-  2026-10-04) is in and live: six documents, five French and one Polish,
-  corrected against the scans, summarised in both languages, with its page,
-  timeline entries and a paragraph in the era essay. **Next: its English
-  translation** (`docs/NEW_UNIT.md`, section 4; a pilot first, since French
-  and Polish are a new kind of source here), then the claim check of its
-  summaries, then set `published_tag` and status `translated`. Read
-  `units/iiihamdaiiinr12366/notes.md` first. Its `review/` records are
-  copied into `units/iiihamdaiiinr12366/intake/` (unresolved.md,
-  open_queries.csv, query_answers.json, document_boundaries.csv). The
-  editor has still to rule on its era (Hohenlohe or restitution).
+  2026-10-04) is in: six documents, five French and one Polish, corrected
+  against the scans, summarised in both languages, translated in session
+  (pilot first; pages kept in `intake/translation/`) and its summaries
+  claim-checked in session (`intake/claim_check.yml`); status `translated`,
+  untagged. Read `units/iiihamdaiiinr12366/notes.md` first; its `review/`
+  records are copied into its `intake/`. Still open: the
+  editor's ruling on its era (Hohenlohe or restitution), and the words in
+  `intake/unresolved.md`.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

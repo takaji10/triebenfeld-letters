@@ -587,7 +587,552 @@
    "doc_line": 48
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Antoni Rembowski",
+   "kind": "person",
+   "surface_de": "Antoni Rembowski",
+   "surface_en": "Antoni Rembowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stefan Brzeski",
+   "kind": "person",
+   "surface_de": "Stefan Brzeski",
+   "surface_en": "Stefan Brzeski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Jozef Zapolski",
+   "kind": "person",
+   "surface_de": "Jozef Zapolski",
+   "surface_en": "Jozef Zapolski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Roman Hubicki",
+   "kind": "person",
+   "surface_de": "Roman Hubicki",
+   "surface_en": "Roman Hubicki",
+   "page": 1
+  },
+  {
+   "entity": "rembowski",
+   "display": "Rembowski",
+   "kind": "person",
+   "surface_de": "Rembowski",
+   "surface_en": "Rembowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Piątkiewicz",
+   "kind": "person",
+   "surface_de": "Piątkiewicz",
+   "surface_en": "Piątkiewicz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kaliszu",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Voivodeship of Kalisz",
+   "kind": "place",
+   "surface_de": "Woiewodztwa Kaliskiego",
+   "surface_en": "Voivodeship of Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Jozefina Street",
+   "kind": "place",
+   "surface_de": "Ulicy Jozefinie",
+   "surface_en": "Jozefina Street",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina née Prusimska",
+   "kind": "person",
+   "surface_de": "Michaliną z Prusimskich",
+   "surface_en": "Michalina née Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Count Stanisław Miączyński",
+   "kind": "person",
+   "surface_de": "Stanisława Hrabi Miączynskiego",
+   "surface_en": "Count Stanisław Miączyński",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Miączyński",
+   "kind": "person",
+   "surface_de": "Miączynskiemi",
+   "surface_en": "Miączyński",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczyna",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "district of Konin",
+   "kind": "place",
+   "surface_de": "Powiecie Koninskim",
+   "surface_en": "district of Konin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczynie",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Jozef [uncertain: Rozdayczer]",
+   "kind": "person",
+   "surface_de": "Jozefa Rozdayczer[?]",
+   "surface_en": "Jozef [uncertain: Rozdayczer]",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Karol Franciszek",
+   "kind": "person",
+   "surface_de": "Karolem Franciszkiem",
+   "surface_en": "Karol Franciszek",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Maxymilian Jarosław",
+   "kind": "person",
+   "surface_de": "Maxymilianem Jarosław",
+   "surface_en": "Maxymilian Jarosław",
+   "page": 2
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowskiemi",
+   "surface_en": "Lichnowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Karol Henryk Lichnowski",
+   "kind": "person",
+   "surface_de": "Karola Henryka Lichnowskiego",
+   "surface_en": "Karol Henryk Lichnowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczyna",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jan Chrystowski",
+   "kind": "person",
+   "surface_de": "Jana Chrystowskiego",
+   "surface_en": "Jan Chrystowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kaliszu",
+   "surface_en": "Kalisz",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Marya Anna née Blachow",
+   "kind": "person",
+   "surface_de": "Maryą Anną z Domu Blachow",
+   "surface_en": "Marya Anna née Blachow",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Franciszek Grotowski",
+   "kind": "person",
+   "surface_de": "Franciszku Grotowskim",
+   "surface_en": "Franciszek Grotowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczynie",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Jan Chrystowski",
+   "kind": "person",
+   "surface_de": "Jana Chrystowskiego",
+   "surface_en": "Jan Chrystowski",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kaliszu",
+   "surface_en": "Kalisz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Voivodeship of Kalisz",
+   "kind": "place",
+   "surface_de": "Wojewodztwa Kaliskiego",
+   "surface_en": "Voivodeship of Kalisz",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Anna née Blachow Grotowska",
+   "kind": "person",
+   "surface_de": "Anny z Blachow Grotowskiey",
+   "surface_en": "Anna née Blachow Grotowska",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Chrystowski",
+   "kind": "person",
+   "surface_de": "Chrystowskiego",
+   "surface_en": "Chrystowski",
+   "page": 4
+  },
+  {
+   "entity": "",
+   "display": "Lubliniec",
+   "kind": "place",
+   "surface_de": "Lublinca",
+   "surface_en": "Lubliniec",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczyn",
+   "surface_en": "Trąbczyn",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 5
+  },
+  {
+   "entity": "",
+   "display": "Antoni Prusimski",
+   "kind": "person",
+   "surface_de": "Antoniego Prusimskiego",
+   "surface_en": "Antoni Prusimski",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Prusimski",
+   "kind": "person",
+   "surface_de": "Prusimskiemu",
+   "surface_en": "Prusimski",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Fryderyk Wilhelm the Second, King of Prussia",
+   "kind": "person",
+   "surface_de": "Fryderyka Wilhelma Drugiego Krola Pruskiego",
+   "surface_en": "Fryderyk Wilhelm the Second, King of Prussia",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Fryderyk Ludwik, Reigning Prince of Hohenlohe Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fryderykowi Ludwikowi Panuiącemu Xięciu de Hohenlohe Ingelfingen",
+   "surface_en": "Fryderyk Ludwik, Reigning Prince of Hohenlohe Ingelfingen",
+   "page": 6
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreznie",
+   "surface_en": "Dresden",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Michalina née Prusimska",
+   "kind": "person",
+   "surface_de": "Michalinę z Prusimskich",
+   "surface_en": "Michalina née Prusimska",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Dąbska",
+   "kind": "person",
+   "surface_de": "Dąbską",
+   "surface_en": "Dąbska",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńską",
+   "surface_en": "Miączyńska",
+   "page": 7
+  },
+  {
+   "entity": "",
+   "display": "Prince Hohenlohe",
+   "kind": "person",
+   "surface_de": "Xięciu Hohenlohe",
+   "surface_en": "Prince Hohenlohe",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "the then Dąbska, née Prusimska",
+   "kind": "person",
+   "surface_de": "z Prusimskich owczasowey Dąbskiey",
+   "surface_en": "the then Dąbska, née Prusimska",
+   "page": 8
+  },
+  {
+   "entity": "",
+   "display": "Prince Hohenlohe",
+   "kind": "person",
+   "surface_de": "Xiąze Hohenlohe",
+   "surface_en": "Prince Hohenlohe",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "the brothers Lichnowski",
+   "kind": "person",
+   "surface_de": "Bracia Lichnowscy",
+   "surface_en": "the brothers Lichnowski",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Grotowska née Blachow",
+   "kind": "person",
+   "surface_de": "z Blachow Grotowska",
+   "surface_en": "Grotowska née Blachow",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Treaty of Tilsit",
+   "kind": "other",
+   "surface_de": "Traktat Tylżycki",
+   "surface_en": "Treaty of Tilsit",
+   "page": 11
+  },
+  {
+   "entity": "",
+   "display": "General Sanitz",
+   "kind": "person",
+   "surface_de": "Generała Sanitz",
+   "surface_en": "General Sanitz",
+   "page": 11
+  },
+  {
+   "entity": "",
+   "display": "General Sanitz",
+   "kind": "person",
+   "surface_de": "Generała Sanitz",
+   "surface_en": "General Sanitz",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Hintzendorff",
+   "kind": "place",
+   "surface_de": "Hintzendorff",
+   "surface_en": "Hintzendorff",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Pawłowo",
+   "kind": "place",
+   "surface_de": "Pawłowo",
+   "surface_en": "Pawłowo",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Dzwonowo",
+   "kind": "place",
+   "surface_de": "Dzwonowo",
+   "surface_en": "Dzwonowo",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Prusimski",
+   "kind": "person",
+   "surface_de": "Prusimskiego",
+   "surface_en": "Prusimski",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weiglem",
+   "surface_en": "Weigel",
+   "page": 12
+  },
+  {
+   "entity": "",
+   "display": "Prince Hohenlohe",
+   "kind": "person",
+   "surface_de": "Xięcia Hohenlohe",
+   "surface_en": "Prince Hohenlohe",
+   "page": 13
+  },
+  {
+   "entity": "",
+   "display": "Voivodeship of Kalisz",
+   "kind": "place",
+   "surface_de": "Woiewodztwa Kaliskiego",
+   "surface_en": "Voivodeship of Kalisz",
+   "page": 13
+  },
+  {
+   "entity": "",
+   "display": "Karol Erdman Franciszek",
+   "kind": "person",
+   "surface_de": "Karola Erdmana Franciszka",
+   "surface_en": "Karol Erdman Franciszek",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Maxymilian Jarosław",
+   "kind": "person",
+   "surface_de": "Maxymiliana Jarosław",
+   "surface_en": "Maxymilian Jarosław",
+   "page": 14
+  },
+  {
+   "entity": "lichnowski",
+   "display": "Lichnowski",
+   "kind": "person",
+   "surface_de": "Lichnowskich",
+   "surface_en": "Lichnowski",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Marya Anna née Blachow",
+   "kind": "person",
+   "surface_de": "Maryi Anny z Domu Blachow",
+   "surface_en": "Marya Anna née Blachow",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Franciszek Grotowski",
+   "kind": "person",
+   "surface_de": "Franciszku Grotowskim",
+   "surface_en": "Franciszek Grotowski",
+   "page": 14
+  },
+  {
+   "entity": "",
+   "display": "Educational Institute",
+   "kind": "other",
+   "surface_de": "Instytutu Edukacyinego",
+   "surface_en": "Educational Institute",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczyna",
+   "surface_en": "Trąbczyn",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Szetlowek",
+   "kind": "place",
+   "surface_de": "Szetlowka",
+   "surface_en": "Szetlowek",
+   "page": 15
+  },
+  {
+   "entity": "rembowski",
+   "display": "Rembowski",
+   "kind": "person",
+   "surface_de": "Rembowski",
+   "surface_en": "Rembowski",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Piątkiewicz",
+   "kind": "person",
+   "surface_de": "Piątkiewicz",
+   "surface_en": "Piątkiewicz",
+   "page": 15
+  },
+  {
+   "entity": "",
+   "display": "Karnecki",
+   "kind": "person",
+   "surface_de": "Karnecki",
+   "surface_en": "Karnecki",
+   "page": 16
+  }
+ ],
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
@@ -701,6 +1246,17 @@
    "doc_line": 22
   },
   {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlowka",
+   "page": 15,
+   "page_id": "0024_a2",
+   "scan": "III_HA_MdA_III_Nr_12366_0024_a2-L6_15.jpg",
+   "line": 206,
+   "doc_line": 47
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -712,9 +1268,455 @@
    "doc_line": 47
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Certified Extract\n\nPresent:\n\nAntoni Rembowski, President.\n\nStefan Brzeski, Judge\n\nJozef Zapolski, Assistant Judge\n\nRoman Hubicki, Prosecutor\n\n/signed/ Rembowski\n\n= Piątkiewicz, Clerk\n\nDone at Kalisz, at a public audience of the Civil Tribunal of First Instance of the Voivodeship of Kalisz, First Division, which holds its sittings in the Palace of Justice in Jozefina Street, on the thirtieth day of July of the year one thousand eight hundred and twenty-seven\n\nBetween Michalina née Prusimska, wife of Count Stanisław Miączyński, or rather both spouses, the Count and Countess Miączyński, hereditary owners of the estates of Trąbczyn with their appurtenances, situated in the district of Konin, residing in the village of Trąbczyn",
+   "names": [
+    {
+     "de": "Antoni Rembowski",
+     "en": "Antoni Rembowski",
+     "kind": "person"
+    },
+    {
+     "de": "Stefan Brzeski",
+     "en": "Stefan Brzeski",
+     "kind": "person"
+    },
+    {
+     "de": "Jozef Zapolski",
+     "en": "Jozef Zapolski",
+     "kind": "person"
+    },
+    {
+     "de": "Roman Hubicki",
+     "en": "Roman Hubicki",
+     "kind": "person"
+    },
+    {
+     "de": "Rembowski",
+     "en": "Rembowski",
+     "kind": "person"
+    },
+    {
+     "de": "Piątkiewicz",
+     "en": "Piątkiewicz",
+     "kind": "person"
+    },
+    {
+     "de": "Kaliszu",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Woiewodztwa Kaliskiego",
+     "en": "Voivodeship of Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Ulicy Jozefinie",
+     "en": "Jozefina Street",
+     "kind": "place"
+    },
+    {
+     "de": "Michaliną z Prusimskich",
+     "en": "Michalina née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Stanisława Hrabi Miączynskiego",
+     "en": "Count Stanisław Miączyński",
+     "kind": "person"
+    },
+    {
+     "de": "Miączynskiemi",
+     "en": "Miączyński",
+     "kind": "person"
+    },
+    {
+     "de": "Trąpczyna",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Powiecie Koninskim",
+     "en": "district of Konin",
+     "kind": "place"
+    },
+    {
+     "de": "Trąpczynie",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "plaintiffs, appearing through Jozef [uncertain: Rozdayczer], advocate of the Tribunal, of the one part.\n\nA.\n\n1. Karol Franciszek and Maxymilian Jarosław, the two brothers Lichnowski, as heirs of the late Karol Henryk Lichnowski, who at the regulation of the mortgage register of the Trąbczyn estates and at the entry of the sum of forty-two thousand thalers in Courant chose their domicile with Jan Chrystowski, advocate of the Tribunal, at Kalisz, defendants, appearing through Jan Chrystowski, advocate of the Tribunal, of the second part",
+   "names": [
+    {
+     "de": "Jozefa Rozdayczer[?]",
+     "en": "Jozef [uncertain: Rozdayczer]",
+     "kind": "person"
+    },
+    {
+     "de": "Karolem Franciszkiem",
+     "en": "Karol Franciszek",
+     "kind": "person"
+    },
+    {
+     "de": "Maxymilianem Jarosław",
+     "en": "Maxymilian Jarosław",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowskiemi",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Karola Henryka Lichnowskiego",
+     "en": "Karol Henryk Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąpczyna",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Jana Chrystowskiego",
+     "en": "Jan Chrystowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kaliszu",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "en": "2. Marya Anna née Blachow, widow of the late Franciszek Grotowski, appointed by testament of the twenty-second of August of the year one thousand eight hundred and twelve universal heir to the whole estate left by her husband, in respect of the sum of one hundred and twenty thousand Polish florins secured for her on the Trąbczyn estates, likewise having her legal domicile at Kalisz with the advocate Jan Chrystowski, defendant, not appearing after the judgment of joinder, of the third part\n\nThe Civil Tribunal of First",
+   "names": [
+    {
+     "de": "Maryą Anną z Domu Blachow",
+     "en": "Marya Anna née Blachow",
+     "kind": "person"
+    },
+    {
+     "de": "Franciszku Grotowskim",
+     "en": "Franciszek Grotowski",
+     "kind": "person"
+    },
+    {
+     "de": "Trąpczynie",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Jana Chrystowskiego",
+     "en": "Jan Chrystowski",
+     "kind": "person"
+    },
+    {
+     "de": "Kaliszu",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "Instance of the Voivodeship of Kalisz, First Division.\n\nHaving heard the conclusions of the Public Ministry, and taking cognisance first of all of the exception of nullity of the summons for want of any mention of the defendants' domicile;\n\nConsidering:\n\nThat the plaintiff could not, in the summons issued to the defendants, assign them any other domicile than the one they had chosen for themselves in the act of regulation of the mortgage register; and therefore, dismissing this exception on that ground as unfounded, and taking cognisance of the second exception, of nullity of the summons served, on account of the death that had occurred of the defendant Anna née Blachow Grotowska, since this assertion of the advocate Chrystowski is by no credible document",
+   "names": [
+    {
+     "de": "Wojewodztwa Kaliskiego",
+     "en": "Voivodeship of Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Anny z Blachow Grotowskiey",
+     "en": "Anna née Blachow Grotowska",
+     "kind": "person"
+    },
+    {
+     "de": "Chrystowskiego",
+     "en": "Chrystowski",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "substantiated, because the certificate produced from the Court Office of the Lubliniec estates provides no legal proof either as to form or as to substance, for not only is it not attested by the competent authority, but it speaks moreover of the death of persons having occurred in different places, which could be proved only by the burial record of the authority of the place where the death occurred; for which reason the Tribunal, dismissing this exception too, in the matter itself, after examining the documents produced, the proofs and the state of the case,\n\nConsidering:\n\nThat it is open to no doubt whatever that the estates of Trąbczyn and Szetlewek with their appurtenances were, before the last",
+   "names": [
+    {
+     "de": "Lublinca",
+     "en": "Lubliniec",
+     "kind": "place"
+    },
+    {
+     "de": "Trąpczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "en": "partition of the Polish country, the private and exclusive property of the late Antoni Prusimski, and were held by him by that right until the time of the confiscation of the estates for his belonging to the Insurrection.\n\nThat after their confiscation from Prusimski they were granted by a diploma of donation of the Most Serene Fryderyk Wilhelm the Second, King of Prussia, dated the ninth of August of the year one thousand seven hundred and ninety-six, to Fryderyk Ludwik, Reigning Prince of Hohenlohe Ingelfingen,",
+   "names": [
+    {
+     "de": "Antoniego Prusimskiego",
+     "en": "Antoni Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimskiemu",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Fryderyka Wilhelma Drugiego Krola Pruskiego",
+     "en": "Fryderyk Wilhelm the Second, King of Prussia",
+     "kind": "person"
+    },
+    {
+     "de": "Fryderykowi Ludwikowi Panuiącemu Xięciu de Hohenlohe Ingelfingen",
+     "en": "Fryderyk Ludwik, Reigning Prince of Hohenlohe Ingelfingen",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "en": "passed from their true owner to the donee, and it was only on the strength of that act that the latter regulated the mortgage register in his own name.\n\nThat after the change of government which followed, the Governing Commission, as the supreme authority in the country, representing the rights of the Monarch, by its decision of the twenty-first of July of the year one thousand eight hundred and seven, issued at Dresden, restored the present plaintiff, Michalina née Prusimska, by her first marriage Dąbska, now Miączyńska, to the estates confiscated from her father",
+   "names": [
+    {
+     "de": "Dreznie",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Michalinę z Prusimskich",
+     "en": "Michalina née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Dąbską",
+     "en": "Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Miączyńską",
+     "en": "Miączyńska",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "en": "that, therefore, no other consequence follows from all these acts than that, on the one hand, the event of the confiscation of the estates and their grant by a diploma of donation to Prince Hohenlohe, being the effect of the political circumstances of that time, could retain its binding force only for as long as that same state of things lasted, and so, on the other hand, the restoration of the then Dąbska, née Prusimska, to her paternal estates after the change of government is to be regarded in no other way than as a return to the original rights of the owner which were his at the time they were taken from him; in which, from the very nature of the thing,",
+   "names": [
+    {
+     "de": "Xięciu Hohenlohe",
+     "en": "Prince Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "z Prusimskich owczasowey Dąbskiey",
+     "en": "the then Dąbska, née Prusimska",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "en": "lies the determination of the same state of things as existed at the time of the confiscation of the estates; and this being so,\n\nConsidering therefore:\n\nThat since the donee, Prince Hohenlohe, could be regarded only as a conditional possessor, and with the fall of his title the debts contracted by him and burdening the estates likewise ceased to be binding, therefore his creditors too, the present defendants, the brothers Lichnowski and Grotowska née Blachow, being unable to acquire better rights than belonged to the donee himself, to shelter behind his rights in any way",
+   "names": [
+    {
+     "de": "Xiąze Hohenlohe",
+     "en": "Prince Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Bracia Lichnowscy",
+     "en": "the brothers Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "z Blachow Grotowska",
+     "en": "Grotowska née Blachow",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "en": "are not able.\n\nMoreover —\n\nTaking into consideration:\n\nThat it cannot be supposed that, by the decision of the governing authority restoring the property, debts not contracted by the original owner were to burden it, since otherwise the true purpose of the administration of justice would be defeated; for, not being in a position to pay debts contracted by a stranger and third person, [the owner] could not keep the estates restored to him in possession in possession, and could in nothing profit from the Government's beneficence, which surely is in no way to be admitted;"
+  },
+  {
+   "page": 11,
+   "en": "nor does the Treaty of Tilsit, namely its Articles 24 and 25, cited by the defendants in their defence, in any way improve their rights, since it cannot at all be applied to estates confiscated from private persons and given back to them again, as is explained more fully by the Opinion of the Council of Ministers in the matter of General Sanitz, laid before the Throne on the fifth of October of the year one thousand eight hundred and ten.\n\nConsidering, besides:\n\nThat His Majesty the King of Prussia himself was pleased to establish the above-mentioned principle, that the original owner",
+   "names": [
+    {
+     "de": "Traktat Tylżycki",
+     "en": "Treaty of Tilsit",
+     "kind": "other"
+    },
+    {
+     "de": "Generała Sanitz",
+     "en": "General Sanitz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "24",
+    "25"
+   ]
+  },
+  {
+   "page": 12,
+   "en": "restored to his property is not to be is not to be answerable to the injured parties for a claim of this kind, since, according to the diploma produced, dated the seventh of September of the year one thousand eight hundred and eighteen, he assigned to the said General Sanitz the estate of Hintzendorff as compensation for the estates of Pawłowo and Dzwonowo, Prusimski's hereditary property, taken from him.\n\nConsidering finally:\n\nThat the plaintiff, conducting a suit of the same nature and about the same object with Weigel for the extabulation",
+   "names": [
+    {
+     "de": "Generała Sanitz",
+     "en": "General Sanitz",
+     "kind": "person"
+    },
+    {
+     "de": "Hintzendorff",
+     "en": "Hintzendorff",
+     "kind": "place"
+    },
+    {
+     "de": "Pawłowo",
+     "en": "Pawłowo",
+     "kind": "place"
+    },
+    {
+     "de": "Dzwonowo",
+     "en": "Dzwonowo",
+     "kind": "place"
+    },
+    {
+     "de": "Prusimskiego",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Weiglem",
+     "en": "Weigel",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "en": "of his claim, contracted by Prince Hohenlohe and burdening the same estates, obtained final judgments founded on the same principles and ordering the debts to be extabulated; for which reason, in the present case also, the same principles being taken as the basis for the decision, no other judgment can be given.\n\nFor these, therefore, and for the reasons cited above:\n\nThe Civil Tribunal of First Instance of the Voivodeship of Kalisz, 1st Division",
+   "names": [
+    {
+     "de": "Xięcia Hohenlohe",
+     "en": "Prince Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Woiewodztwa Kaliskiego",
+     "en": "Voivodeship of Kalisz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "1"
+   ]
+  },
+  {
+   "page": 14,
+   "en": "the following sums, that is:\n\na. Forty-two thousand thalers, or two hundred and fifty-two thousand Polish florins, for the benefit and in the name of Karol Erdman Franciszek and Maxymilian Jarosław, the two brothers Lichnowski.\n\nb. Twenty thousand thalers, or one hundred and twenty thousand Polish florins, for the benefit and in the name of Marya Anna née Blachow, widow of the late Franciszek Grotowski, together with the intabulation entered with this sum for the benefit of",
+   "names": [
+    {
+     "de": "Karola Erdmana Franciszka",
+     "en": "Karol Erdman Franciszek",
+     "kind": "person"
+    },
+    {
+     "de": "Maxymiliana Jarosław",
+     "en": "Maxymilian Jarosław",
+     "kind": "person"
+    },
+    {
+     "de": "Lichnowskich",
+     "en": "Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "Maryi Anny z Domu Blachow",
+     "en": "Marya Anna née Blachow",
+     "kind": "person"
+    },
+    {
+     "de": "Franciszku Grotowskim",
+     "en": "Franciszek Grotowski",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "en": "the Educational Institute, entered under Numbers 2 and 4, together with interest, it orders to be struck out of the mortgage register of the estates of Trąbczyn and Szetlowek, and condemns the defendants to bear the costs, of which it confirms twenty Polish florins paid in addition for the entry fee, and fixes the costs of judgment at nine hundred Polish florins, by virtue of this judgment given in the First Instance.\n\n/signed/ Rembowski\n\n== Piątkiewicz, Clerk",
+   "names": [
+    {
+     "de": "Instytutu Edukacyinego",
+     "en": "Educational Institute",
+     "kind": "other"
+    },
+    {
+     "de": "Trąpczyna",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlowka",
+     "en": "Szetlowek",
+     "kind": "place"
+    },
+    {
+     "de": "Rembowski",
+     "en": "Rembowski",
+     "kind": "person"
+    },
+    {
+     "de": "Piątkiewicz",
+     "en": "Piątkiewicz",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "page": 16,
+   "en": "I certify that this extract, written on proper and uncut stamped paper as regards this excerpt, agrees with its Original, made out on stamped paper of the value of ten grosze, with the impression of the official seal\n\nKarnecki [uncertain: Likrę] for the Clerk",
+   "names": [
+    {
+     "de": "Karnecki",
+     "en": "Karnecki",
+     "kind": "person"
+    }
+   ]
+  }
+ ],
+ "text_english": "Certified Extract\n\nPresent:\n\nAntoni Rembowski, President.\n\nStefan Brzeski, Judge\n\nJozef Zapolski, Assistant Judge\n\nRoman Hubicki, Prosecutor\n\n/signed/ Rembowski\n\n= Piątkiewicz, Clerk\n\nDone at Kalisz, at a public audience of the Civil Tribunal of First Instance of the Voivodeship of Kalisz, First Division, which holds its sittings in the Palace of Justice in Jozefina Street, on the thirtieth day of July of the year one thousand eight hundred and twenty-seven\n\nBetween Michalina née Prusimska, wife of Count Stanisław Miączyński, or rather both spouses, the Count and Countess Miączyński, hereditary owners of the estates of Trąbczyn with their appurtenances, situated in the district of Konin, residing in the village of Trąbczyn\n\nplaintiffs, appearing through Jozef [uncertain: Rozdayczer], advocate of the Tribunal, of the one part.\n\nA.\n\n1. Karol Franciszek and Maxymilian Jarosław, the two brothers Lichnowski, as heirs of the late Karol Henryk Lichnowski, who at the regulation of the mortgage register of the Trąbczyn estates and at the entry of the sum of forty-two thousand thalers in Courant chose their domicile with Jan Chrystowski, advocate of the Tribunal, at Kalisz, defendants, appearing through Jan Chrystowski, advocate of the Tribunal, of the second part\n\n2. Marya Anna née Blachow, widow of the late Franciszek Grotowski, appointed by testament of the twenty-second of August of the year one thousand eight hundred and twelve universal heir to the whole estate left by her husband, in respect of the sum of one hundred and twenty thousand Polish florins secured for her on the Trąbczyn estates, likewise having her legal domicile at Kalisz with the advocate Jan Chrystowski, defendant, not appearing after the judgment of joinder, of the third part\n\nThe Civil Tribunal of First\n\nInstance of the Voivodeship of Kalisz, First Division.\n\nHaving heard the conclusions of the Public Ministry, and taking cognisance first of all of the exception of nullity of the summons for want of any mention of the defendants' domicile;\n\nConsidering:\n\nThat the plaintiff could not, in the summons issued to the defendants, assign them any other domicile than the one they had chosen for themselves in the act of regulation of the mortgage register; and therefore, dismissing this exception on that ground as unfounded, and taking cognisance of the second exception, of nullity of the summons served, on account of the death that had occurred of the defendant Anna née Blachow Grotowska, since this assertion of the advocate Chrystowski is by no credible document\n\nsubstantiated, because the certificate produced from the Court Office of the Lubliniec estates provides no legal proof either as to form or as to substance, for not only is it not attested by the competent authority, but it speaks moreover of the death of persons having occurred in different places, which could be proved only by the burial record of the authority of the place where the death occurred; for which reason the Tribunal, dismissing this exception too, in the matter itself, after examining the documents produced, the proofs and the state of the case,\n\nConsidering:\n\nThat it is open to no doubt whatever that the estates of Trąbczyn and Szetlewek with their appurtenances were, before the last\n\npartition of the Polish country, the private and exclusive property of the late Antoni Prusimski, and were held by him by that right until the time of the confiscation of the estates for his belonging to the Insurrection.\n\nThat after their confiscation from Prusimski they were granted by a diploma of donation of the Most Serene Fryderyk Wilhelm the Second, King of Prussia, dated the ninth of August of the year one thousand seven hundred and ninety-six, to Fryderyk Ludwik, Reigning Prince of Hohenlohe Ingelfingen,\n\npassed from their true owner to the donee, and it was only on the strength of that act that the latter regulated the mortgage register in his own name.\n\nThat after the change of government which followed, the Governing Commission, as the supreme authority in the country, representing the rights of the Monarch, by its decision of the twenty-first of July of the year one thousand eight hundred and seven, issued at Dresden, restored the present plaintiff, Michalina née Prusimska, by her first marriage Dąbska, now Miączyńska, to the estates confiscated from her father\n\nthat, therefore, no other consequence follows from all these acts than that, on the one hand, the event of the confiscation of the estates and their grant by a diploma of donation to Prince Hohenlohe, being the effect of the political circumstances of that time, could retain its binding force only for as long as that same state of things lasted, and so, on the other hand, the restoration of the then Dąbska, née Prusimska, to her paternal estates after the change of government is to be regarded in no other way than as a return to the original rights of the owner which were his at the time they were taken from him; in which, from the very nature of the thing,\n\nlies the determination of the same state of things as existed at the time of the confiscation of the estates; and this being so,\n\nConsidering therefore:\n\nThat since the donee, Prince Hohenlohe, could be regarded only as a conditional possessor, and with the fall of his title the debts contracted by him and burdening the estates likewise ceased to be binding, therefore his creditors too, the present defendants, the brothers Lichnowski and Grotowska née Blachow, being unable to acquire better rights than belonged to the donee himself, to shelter behind his rights in any way\n\nare not able.\n\nMoreover —\n\nTaking into consideration:\n\nThat it cannot be supposed that, by the decision of the governing authority restoring the property, debts not contracted by the original owner were to burden it, since otherwise the true purpose of the administration of justice would be defeated; for, not being in a position to pay debts contracted by a stranger and third person, [the owner] could not keep the estates restored to him in possession in possession, and could in nothing profit from the Government's beneficence, which surely is in no way to be admitted;\n\nnor does the Treaty of Tilsit, namely its Articles 24 and 25, cited by the defendants in their defence, in any way improve their rights, since it cannot at all be applied to estates confiscated from private persons and given back to them again, as is explained more fully by the Opinion of the Council of Ministers in the matter of General Sanitz, laid before the Throne on the fifth of October of the year one thousand eight hundred and ten.\n\nConsidering, besides:\n\nThat His Majesty the King of Prussia himself was pleased to establish the above-mentioned principle, that the original owner\n\nrestored to his property is not to be is not to be answerable to the injured parties for a claim of this kind, since, according to the diploma produced, dated the seventh of September of the year one thousand eight hundred and eighteen, he assigned to the said General Sanitz the estate of Hintzendorff as compensation for the estates of Pawłowo and Dzwonowo, Prusimski's hereditary property, taken from him.\n\nConsidering finally:\n\nThat the plaintiff, conducting a suit of the same nature and about the same object with Weigel for the extabulation\n\nof his claim, contracted by Prince Hohenlohe and burdening the same estates, obtained final judgments founded on the same principles and ordering the debts to be extabulated; for which reason, in the present case also, the same principles being taken as the basis for the decision, no other judgment can be given.\n\nFor these, therefore, and for the reasons cited above:\n\nThe Civil Tribunal of First Instance of the Voivodeship of Kalisz, 1st Division\n\nthe following sums, that is:\n\na. Forty-two thousand thalers, or two hundred and fifty-two thousand Polish florins, for the benefit and in the name of Karol Erdman Franciszek and Maxymilian Jarosław, the two brothers Lichnowski.\n\nb. Twenty thousand thalers, or one hundred and twenty thousand Polish florins, for the benefit and in the name of Marya Anna née Blachow, widow of the late Franciszek Grotowski, together with the intabulation entered with this sum for the benefit of\n\nthe Educational Institute, entered under Numbers 2 and 4, together with interest, it orders to be struck out of the mortgage register of the estates of Trąbczyn and Szetlowek, and condemns the defendants to bear the costs, of which it confirms twenty Polish florins paid in addition for the entry fee, and fixes the costs of judgment at nine hundred Polish florins, by virtue of this judgment given in the First Instance.\n\n/signed/ Rembowski\n\n== Piątkiewicz, Clerk\n\nI certify that this extract, written on proper and uncut stamped paper as regards this excerpt, agrees with its Original, made out on stamped paper of the value of ten grosze, with the impression of the official seal\n\nKarnecki [uncertain: Likrę] for the Clerk",
  "summary_en": "Certified extract of a judgment of the civil tribunal of first instance of the Kalisz voivodeship, of 30 July 1827, in Polish. The plaintiff is Michalina Miączyńska, born Prusimska, with her husband Count Stanisław Miączyński, hereditary owner of Trąbczyn; the defendants are the Lichnowski brothers, as heirs of Karl Heinrich Lichnowski, and Maria Anna, born Blacha, the widow of Franciszek Grotowski. The court rejects two objections to the summons and reasons as follows: Trąbczyn and Szetlewek belonged to Antoni Prusimski, were confiscated from him for his part in the uprising and given to Prince Hohenlohe-Ingelfingen; the governing commission returned them to the plaintiff. The Prince, it holds, was only a conditional possessor, the debts he raised lapsed with his title, and the Treaty of Tilsit does not change this; against Weigel the plaintiff has already won final judgments in the same matter. It orders the claim of the Lichnowski brothers and that of Grotowski's widow struck out of the mortgage register of Trąbczyn and Szetlewek and awards costs against the defendants.",
  "summary_de": "Beglaubigter Auszug eines Urteils des Ziviltribunals erster Instanz der Woiwodschaft Kalisz vom 30. Juli 1827, in polnischer Sprache. Klägerin ist Michalina Miączyńska, geborene Prusimska, mit ihrem Mann Graf Stanisław Miączyński, Erbherrin von Trąbczyn; Beklagte sind die Brüder Lichnowski als Erben des Karl Heinrich Lichnowski und Maria Anna, geborene Blacha, die Witwe des Franciszek Grotowski. Das Gericht weist zwei Einreden gegen die Ladung zurück und erwägt: Trąbczyn und Szetlewek gehörten Antoni Prusimski, wurden ihm wegen seiner Teilnahme am Aufstand konfisziert und dem Fürsten Hohenlohe-Ingelfingen geschenkt; die Regierungskommission gab sie der Klägerin zurück. Der Fürst sei nur bedingter Besitzer gewesen, mit seinem Titel seien auch die von ihm aufgenommenen Schulden erloschen, und der Vertrag von Tilsit ändere daran nichts; gegen Weigel habe die Klägerin in gleicher Sache bereits endgültige Urteile erlangt. Es lässt die Forderung der Brüder Lichnowski und die der Witwe Grotowski aus dem Hypothekenbuch von Trąbczyn und Szetlewek löschen und legt den Beklagten die Kosten auf.",
  "reading": {}

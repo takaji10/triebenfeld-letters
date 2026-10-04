@@ -98,7 +98,48 @@
    "doc_line": 5
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "mitschke",
+   "display": "Mitschke",
+   "kind": "person",
+   "surface_de": "Mitschke",
+   "surface_en": "Mitschke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisz",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńska",
+   "surface_en": "Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. Tarczewski",
+   "kind": "person",
+   "surface_de": "M. Tarczewski",
+   "surface_en": "M. Tarczewski",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -124,9 +165,45 @@
    "doc_line": 2
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Warsaw, 16 Nov. 1819\n\nI have the honour to inform you that Mr Mitschke of Kalisz has sent me the documents of your suit against Madame Miączyńska. The documents are in order; only the instruments of obligation are missing from them, viz. the certificates of the mortgage of the sum which you claim by your action. These instruments must be produced in the original or in a duly attested copy.\n\nThe opposing party is pressing for the case to be brought before the court of appeal; for my part I am prolonging the preliminary proceedings, but in the end, when all the time limits are exhausted, they will have to be concluded, viz. the case submitted for decision.\n\nFor the preliminary proceedings I am using the simple copies which you sent me, but when it comes to pleading it is indispensable to produce the originals, or legally attested copies.\n\nM. Tarczewski",
+   "names": [
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Mitschke",
+     "en": "Mitschke",
+     "kind": "person"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Miączyńska",
+     "en": "Miączyńska",
+     "kind": "person"
+    },
+    {
+     "de": "M. Tarczewski",
+     "en": "M. Tarczewski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "16",
+    "1819"
+   ]
+  }
+ ],
+ "text_english": "Warsaw, 16 Nov. 1819\n\nI have the honour to inform you that Mr Mitschke of Kalisz has sent me the documents of your suit against Madame Miączyńska. The documents are in order; only the instruments of obligation are missing from them, viz. the certificates of the mortgage of the sum which you claim by your action. These instruments must be produced in the original or in a duly attested copy.\n\nThe opposing party is pressing for the case to be brought before the court of appeal; for my part I am prolonging the preliminary proceedings, but in the end, when all the time limits are exhausted, they will have to be concluded, viz. the case submitted for decision.\n\nFor the preliminary proceedings I am using the simple copies which you sent me, but when it comes to pleading it is indispensable to produce the originals, or legally attested copies.\n\nM. Tarczewski",
  "summary_en": "Copy of a letter from the advocate Tarczewski at Warsaw to a client who is not named: Mitschke at Kalisz has sent him the files of the suit against Madame Miączyńska. They are in order; only the mortgage certificates for the sum claimed are missing, and these must be produced in the original or in certified copies. The other side is pressing to bring the case before the court of appeal. He is drawing out the preparation of the case, but once all the time limits are used up it will have to go to judgment.",
  "summary_de": "Abschrift eines Schreibens des Advokaten Tarczewski aus Warschau an einen nicht genannten Mandanten: Mitschke in Kalisz hat ihm die Akten des Prozesses gegen Frau Miączyńska geschickt. Sie sind in Ordnung; es fehlen nur die Hypothekenscheine über die eingeklagte Summe, die im Original oder in beglaubigter Abschrift vorzulegen sind. Die Gegenseite betreibt die Einführung der Sache vor dem Appellationsgericht. Er zieht die Instruktion hin, doch wenn alle Fristen erschöpft sind, muss die Sache zur Entscheidung gestellt werden.",
  "reading": {}

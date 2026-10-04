@@ -1,0 +1,105 @@
+# The claim check of the six German summaries of III. HA MdA, III. Nr. 12366,
+# made in session on 2026-10-04 under the rules read_letters.py --verify gives
+# its checker (VERIFY_SYSTEM): each statement of the summary held to the
+# document, as supported, overstated (the document says something weaker or
+# different) or unsupported (it does not say it), and the summary then only
+# weakened or cut, never added to. Not the paid run; there is no reading.json.
+# The documents were read in the corpus text and in the session's English
+# (site/_data/translations/iiihamdaiiinr12366-*.yml); the page numbers below are
+# the document's own.
+#
+# Result: 70 statements, 69 supported, 1 overstated (document 2, the pencil
+# note on page 6), weakened in summaries_de.yml, site/_data/summaries_de.yml,
+# the English summary and the holding's page (about.md, about_de.md).
+# Spellings: the summaries give names in the edition's forms (Leixner for the
+# report's Leyner, Zastrow for Zastrof, Szetlewek for Szeltowek, Michalina for
+# Micheline, Thaler for écus); the checker's rules count that as supported.
+
+iiihamdaiiinr12366-001:
+- {claim: "Alopeus ist der russische Gesandte in Berlin", verdict: supported, where: "p. 1: Envoyé Extraordinaire ... de l'Empereur de toutes les Russies; dated Berlin"}
+- {claim: "er schreibt an den preußischen Außenminister Graf Bernstorff", verdict: supported, where: "p. 1: Ministre d'Etat des affaires étrangères"}
+- {claim: "auf Befehl seines Hofes", verdict: supported, where: "p. 1: a eu ordre de communiquer"}
+- {claim: "er übersendet einen beiliegenden Bericht des Statthalters des Königreichs Polen", verdict: supported, where: "p. 1: le rapport ci-joint du Lieutenant du Royaume de Pologne"}
+- {claim: "über eine Forderung der Gräfin Miączyńska, geborene Prusimska, gegen die preußische Regierung", verdict: supported, where: "p. 1: réclamation ... à la charge du Gouvernement Prussien"}
+- {claim: "und unterstützt sie", verdict: supported, where: "p. 1: de l'appuyer au mieux"}
+- {claim: "der Bericht enthalte so schlüssige Gründe, dass er nichts hinzuzufügen wisse", verdict: supported, where: "p. 1"}
+- {claim: "er bittet Bernstorff, die Sache den entscheidenden Behörden zu empfehlen", verdict: supported, where: "p. 1"}
+
+iiihamdaiiinr12366-002:
+- {claim: "Abschrift eines Berichts aus Warschau", verdict: supported, where: "p. 1 Copie; p. 10 Varsovie le 29 avril 1818"}
+- {claim: "dargelegt von den bevollmächtigten Kommissaren für die Liquidation des ehemaligen Herzogtums Warschau", verdict: supported, where: "p. 1"}
+- {claim: "die Erbgüter wurden 1796 ihrem Vater, dem Starosten Prusimski, von der preußischen Regierung konfisziert", verdict: supported, where: "p. 1"}
+- {claim: "und an Fürst Hohenlohe-Ingelfingen und General Sanitz vergeben", verdict: supported, where: "p. 3"}
+- {claim: "ein Beschluss der Regierungskommission vom 21. Juli 1807 setzte sie wieder in den Besitz ein", verdict: supported, where: "p. 1"}
+- {claim: "sie verlangt, dass die Schulden der Beschenkten zu Lasten Preußens gehen", verdict: supported, where: "p. 1: supputé au passif liquidé à la charge du Gouvernement Prussien"}
+- {claim: "der Fürst habe Trąbczyn und Szetlewek mit 156.000 Talern belastet", verdict: supported, where: "p. 5: 156,000 écus"}
+- {claim: "Kolno und Kamionna verkaufte er für 142.000 Taler an den Bankkassierer Leixner", verdict: supported, where: "p. 5: au Caissier de la Banque Leyner pour la somme de 142,000 écus"}
+- {claim: "auf ihnen lägen 160.000 Taler", verdict: supported, where: "p. 5"}
+- {claim: "als minderjährige Waise hatte sie Anspruch auf den Schutz der preußischen Regierung", verdict: supported, where: "p. 9, point 2"}
+- {claim: "Niemojewski und Wichrowski erhielten ihre Güter schuldenfrei zurück", verdict: supported, where: "p. 7, point 3"}
+- {claim: "Preußen entschädigte die Generale Sanitz und Zastrow mit anderen Gütern", verdict: supported, where: "p. 7-8: Hetzendorff; Lama[?] for Manieczki"}
+- {claim: "ebenso könne es den Fürsten entschädigen, indem es dessen Schulden übernimmt", verdict: supported, where: "p. 8: ne saurait se réfuser à indemniser le Prince Hohenlohe en se chargeant de payer pour lui les dettes (the report says more strongly that it cannot refuse)"}
+- {claim: "ein Leser im Ministerium schrieb mit Bleistift Einwände an den Rand", verdict: supported, where: "office_notes.yml; pp. 1-7"}
+- {claim: "Preußen sei für Regierungsakte im ehemaligen Südpreußen niemandem verantwortlich", verdict: supported, where: "p. 1 note: als ob Preußen ... irgend jemand verantwortlich wäre!"}
+- {claim: "nicht einmal Napoleon habe einen Anspruch wegen des in der Zwischenzeit Geschehenen zugestanden", verdict: supported, where: "p. 4 note"}
+- claim: "der Fürst habe die Güter, solange er sie besaß, rechtmäßig und mit vollem Eigentumsrecht besessen"
+  verdict: overstated
+  where: "p. 6 note: aber so lang er es besessen, besaß er es rechtmäßig u. mit vollem Eigenthumsrecht"
+  reason: >-
+    The note says "he" and "it" (one estate). It stands beside a sentence on
+    the donation to Prince Hohenlohe and General Sanitz alike, so it does not
+    name the Prince. Weakened to "der Beschenkte habe das Gut, solange er es
+    besaß, ..." (the donee ... the estate).
+
+iiihamdaiiinr12366-003:
+- {claim: "Entwurf der Antwort des preußischen Außenministers an Alopeus", verdict: supported, where: "p. 1: Le soussigné Ministre d'Etat et de Cabinet ... A Monsieur d'Alopeus; the draft's sender in correspondents.json"}
+- {claim: "auf dessen Note und die Denkschrift über die Forderungen der Gräfin Miączyńska", verdict: supported, where: "p. 1: la nôte et le mémoire"}
+- {claim: "Prusimski habe am Aufstand der Polen teilgenommen und sei geflohen", verdict: supported, where: "p. 1 (the draft says 1795)"}
+- {claim: "seine Güter wurden durch gerichtliches Urteil konfisziert", verdict: supported, where: "p. 1: en vertu d'une sentence juridique"}
+- {claim: "der König verfügte darüber, und die Beschenkten nahmen Hypotheken darauf auf", verdict: supported, where: "p. 1"}
+- {claim: "Prusimski starb 1803 im Ausland", verdict: supported, where: "p. 1"}
+- {claim: "die Tochter erhielt die Güter nach dem Frieden von Tilsit von der Regierung des Herzogtums Warschau zurück", verdict: supported, where: "p. 1"}
+- {claim: "sie verlangt, dass die Schulden auf den Gütern getilgt werden", verdict: supported, where: "p. 1: soyent amorties"}
+- {claim: "die preußische Regierung hat das Gesuch schon einmal abgelehnt", verdict: supported, where: "p. 2: avoient fait rejetter sa demande"}
+- {claim: "nach erneuter Prüfung bleibt es bei der Entscheidung der preußischen Gerichte", verdict: supported, where: "p. 2: la décision des tribuneaux Prussiens; un nouveau refus"}
+- {claim: "deren Gründe eine beigefügte Denkschrift darlegt", verdict: supported, where: "p. 2: le mémoire ... ci joint"}
+
+iiihamdaiiinr12366-004:
+- {claim: "Abschrift eines Schreibens", verdict: supported, where: "not in the text: the scan's copy hand (notes.md, The documents)"}
+- {claim: "des Advokaten Tarczewski aus Warschau", verdict: supported, where: "p. 1: Varsovie; he conducts the suit (moi je prolonge l'instruction)"}
+- {claim: "an einen nicht genannten Mandanten", verdict: supported, where: "p. 1: votre procès"}
+- {claim: "Mitschke in Kalisz schickte ihm die Akten des Prozesses gegen Frau Miączyńska", verdict: supported, where: "p. 1"}
+- {claim: "sie sind in Ordnung; es fehlen nur die Hypothekenscheine über die eingeklagte Summe", verdict: supported, where: "p. 1: les certificats de l'hypothèque de la somme, que vous demandez"}
+- {claim: "im Original oder in beglaubigter Abschrift vorzulegen", verdict: supported, where: "p. 1"}
+- {claim: "die Gegenseite betreibt die Einführung der Sache vor dem Appellationsgericht", verdict: supported, where: "p. 1"}
+- {claim: "er zieht die Instruktion hin; sind die Fristen erschöpft, muss die Sache zur Entscheidung", verdict: supported, where: "p. 1"}
+
+iiihamdaiiinr12366-005:
+- {claim: "Abschrift einer Note des preußischen Gesandten in St. Petersburg, General von Schöler, an Graf Nesselrode", verdict: supported, where: "p. 1 Copie, Envoyé extraordinaire; p. 7 St. Peterburg, signé le Général de Schöler, A S. E. Mr. le Comte de (Karl) Nesselrode"}
+- {claim: "Friedrich Wilhelm II. schenkte dem Fürsten am 9. August 1796 die konfiszierte Herrschaft Trąbczyn", verdict: supported, where: "p. 1"}
+- {claim: "der Fürst nahm bei Grotowski 30.000 Taler auf", verdict: supported, where: "p. 2: une dette de 30,000 écus envers le Sr. François de Grottowsky"}
+- {claim: "die Hypothek wurde gerichtlich an den Breslauer Kaufmann Weigel abgetreten", verdict: supported, where: "p. 2: cédée ... par un acte judiciare au négociant Weigel domicilié à Breslau"}
+- {claim: "1807 gab die Regierungskommission die Güter an Prusimskis Tochter Michalina, jetzt Gräfin Miączyńska, zurück", verdict: supported, where: "p. 2"}
+- {claim: "die eingetragenen Forderungen blieben bestehen", verdict: supported, where: "p. 2: restèrent ... intactes"}
+- {claim: "als die Zinsen ausblieben, klagte Weigel", verdict: supported, where: "p. 2"}
+- {claim: "das Ziviltribunal in Kalisz wies ihn am 6. März 1819 ab und ließ die Forderung löschen", verdict: supported, where: "p. 2: amortie et rayée des régîtres"}
+- {claim: "Preußen verlangte 1819 und 1820 ohne Antwort, die Frage der diplomatischen Verhandlung vorzubehalten", verdict: supported, where: "pp. 1, 3-4: the notes of 10 September/29 August 1819 and 24/12 May 1820, both unanswered"}
+- {claim: "das Appellationsgericht verwarf das Urteil, das Obertribunal in Warschau bestätigte es am 17. Juli 1826", verdict: supported, where: "p. 4; date p. 6"}
+- {claim: "Schöler beruft sich auf den Frieden von Tilsit und die Konventionen von 1815 und 1819, die Hypothekenforderungen aufrechterhalten", verdict: supported, where: "p. 6: art. 25; Vienna 20 March 1815; art. 13 of 22 May 1819, quoted"}
+- {claim: "er bittet, das Urteil aufheben und seine Vollstreckung zunächst aussetzen zu lassen", verdict: supported, where: "pp. 6-7"}
+
+iiihamdaiiinr12366-006:
+- {claim: "beglaubigter Auszug eines Urteils des Ziviltribunals erster Instanz der Woiwodschaft Kalisz vom 30. Juli 1827, polnisch", verdict: supported, where: "p. 1 Wyciąg Wierzytelny; p. 16 the certificate"}
+- {claim: "Klägerin ist Michalina Miączyńska, geborene Prusimska, mit ihrem Mann Graf Stanisław Miączyński", verdict: supported, where: "p. 1: both spouses, plaintiffs"}
+- {claim: "Erbherrin von Trąbczyn", verdict: supported, where: "p. 1: Dóbr Trąpczyna ... Dziedzicami"}
+- {claim: "Beklagte sind die Brüder Lichnowski als Erben des Karl Heinrich Lichnowski", verdict: supported, where: "p. 2: Karola Henryka Lichnowskiego (the Polish forms of the names)"}
+- {claim: "und Maria Anna, geborene Blacha, Witwe des Franciszek Grotowski", verdict: supported, where: "p. 3: Maryą Anną z Domu Blachow (z domu Blachów, of the Blacha family)"}
+- {claim: "das Gericht weist zwei Einreden gegen die Ladung zurück", verdict: supported, where: "pp. 4-5"}
+- {claim: "Trąbczyn und Szetlewek gehörten Antoni Prusimski", verdict: supported, where: "pp. 5-6"}
+- {claim: "sie wurden ihm wegen seiner Teilnahme am Aufstand konfisziert und dem Fürsten Hohenlohe-Ingelfingen geschenkt", verdict: supported, where: "p. 6"}
+- {claim: "die Regierungskommission gab sie der Klägerin zurück", verdict: supported, where: "p. 7"}
+- {claim: "der Fürst sei nur bedingter Besitzer gewesen, und mit seinem Titel seien seine Schulden erloschen", verdict: supported, where: "p. 9: przestały obowiązywać"}
+- {claim: "der Vertrag von Tilsit ändere daran nichts", verdict: supported, where: "p. 11"}
+- {claim: "gegen Weigel hat die Klägerin in gleicher Sache bereits endgültige Urteile erlangt", verdict: supported, where: "pp. 12-13"}
+- {claim: "es lässt die Forderungen der Brüder Lichnowski und der Witwe Grotowski im Hypothekenbuch von Trąbczyn und Szetlewek löschen", verdict: supported, where: "pp. 14-15"}
+- {claim: "und legt den Beklagten die Kosten auf", verdict: supported, where: "p. 15"}

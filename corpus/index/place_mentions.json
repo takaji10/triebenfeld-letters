@@ -21264,6 +21264,607 @@
   ]
  },
  {
+  "entity": "szetlewek",
+  "display": "Szetlewek",
+  "count": 62,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "iiihamdaiiinr12366-2",
+   "iiihamdaiiinr12366-6",
+   "iiihamdaiiinr12765-19",
+   "iiihamdaiiinr12765-20",
+   "iiihamdaiiinr12765-21",
+   "iiihamdaiiinr12765-4",
+   "oe1bu14525-1",
+   "oe1bu14525-2",
+   "oe1bu14525-21",
+   "oe1bu14525-23",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu14525-42",
+   "oe1bu14526-25",
+   "oe1bu14526-26",
+   "oe1bu14526-27",
+   "oe1bu14526-8",
+   "oe1bu9454-103",
+   "oe1bu9454-136",
+   "oe1bu9454-156",
+   "oe1bu9454-163",
+   "oe1bu9454-168",
+   "oe1bu9454-169",
+   "oe1bu9454-172",
+   "oe1bu9454-173",
+   "oe1bu9454-179a",
+   "oe1bu9454-192",
+   "oe1bu9454-210",
+   "oe1bu9454-215",
+   "oe1bu9454-24",
+   "oe1bu9454-288",
+   "oe1bu9454-31"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-39",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0145_b",
+    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
+    "line": 3807,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Szettlewek",
+    "page": 2,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
+    "line": 120,
+    "doc_line": 74
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Szettlewek",
+    "page": 4,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
+    "line": 223,
+    "doc_line": 175
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Szettlewek",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 326,
+    "doc_line": 275
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Szettlewek",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 365,
+    "doc_line": 314
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+    "line": 352,
+    "doc_line": 77
+   },
+   {
+    "uid": "oe1bu14526-25",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0156_a2",
+    "scan": "Oe_1_Bu_14526_0156_a2-L25_01.jpg",
+    "line": 7712,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu14525-42",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0151_b",
+    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
+    "line": 4068,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0214_a2",
+    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
+    "line": 8133,
+    "doc_line": 60
+   },
+   {
+    "uid": "oe1bu14526-27",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0162_a2",
+    "scan": "Oe_1_Bu_14526_0162_a2-L27_03.jpg",
+    "line": 7944,
+    "doc_line": 59
+   },
+   {
+    "uid": "oe1bu14526-26",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0159_a2",
+    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
+    "line": 7799,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu14526-26",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0160_a1",
+    "scan": "Oe_1_Bu_14526_0160_a1-L26_02.jpg",
+    "line": 7818,
+    "doc_line": 38
+   },
+   {
+    "uid": "oe1bu14525-2",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
+    "line": 190,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu14525-2",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0007_a1",
+    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
+    "line": 223,
+    "doc_line": 35
+   },
+   {
+    "uid": "oe1bu14525-2",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0007_a1",
+    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
+    "line": 240,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu14525-2",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0007_a2",
+    "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
+    "line": 262,
+    "doc_line": 73
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+    "line": 63,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Szetlewek",
+    "page": 7,
+    "page_id": "0005_a2",
+    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
+    "line": 159,
+    "doc_line": 134
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Szetlewek",
+    "page": 8,
+    "page_id": "0006_a1",
+    "scan": "Oe_1_Bu_14525_0006_a1-L1_08.jpg",
+    "line": 175,
+    "doc_line": 149
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
+    "line": 455,
+    "doc_line": 88
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0091_b",
+    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+    "line": 2946,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0091_b",
+    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+    "line": 2959,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0092_a2",
+    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+    "line": 2970,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 6,
+    "page_id": "0094_a2",
+    "scan": "Oe_1_Bu_14525_0094_a2-L23_06.jpg",
+    "line": 3082,
+    "doc_line": 135
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 7,
+    "page_id": "0104_a1",
+    "scan": "Oe_1_Bu_14525_0104_a1-L23_07.jpg",
+    "line": 3124,
+    "doc_line": 176
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 7,
+    "page_id": "0104_a1",
+    "scan": "Oe_1_Bu_14525_0104_a1-L23_07.jpg",
+    "line": 3146,
+    "doc_line": 198
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 8,
+    "page_id": "0104_a2",
+    "scan": "Oe_1_Bu_14525_0104_a2-L23_08.jpg",
+    "line": 3162,
+    "doc_line": 213
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 9,
+    "page_id": "0106_a2",
+    "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
+    "line": 3175,
+    "doc_line": 225
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 10,
+    "page_id": "0108_a2",
+    "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
+    "line": 3189,
+    "doc_line": 238
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Szetlewek",
+    "page": 11,
+    "page_id": "0110_a1",
+    "scan": "Oe_1_Bu_14525_0110_a1-L23_11.jpg",
+    "line": 3206,
+    "doc_line": 254
+   },
+   {
+    "uid": "oe1bu14525-21",
+    "surface": "Szetlewek",
+    "page": 8,
+    "page_id": "0085_a1",
+    "scan": "Oe_1_Bu_14525_0085_a1-L21_08.jpg",
+    "line": 2634,
+    "doc_line": 193
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Szetlewek",
+    "page": 4,
+    "page_id": "0264_a",
+    "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+    "line": 9883,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Szetlewek",
+    "page": 4,
+    "page_id": "0264_a",
+    "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
+    "line": 9897,
+    "doc_line": 72
+   },
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0318_a1",
+    "scan": "Oe_1_Bu_9454_0318_a1-L169_02.jpg",
+    "line": 12003,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-156",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0297_a1",
+    "scan": "Oe_1_Bu_9454_0297_a1-L156_02.jpg",
+    "line": 11106,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu9454-163",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0307_b",
+    "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
+    "line": 11511,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-172",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0322_a1",
+    "scan": "Oe_1_Bu_9454_0322_a1-L172_02.jpg",
+    "line": 12196,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu9454-168",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0315_a2",
+    "scan": "Oe_1_Bu_9454_0315_a2-L168_01.jpg",
+    "line": 11879,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-173",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0324_a1",
+    "scan": "Oe_1_Bu_9454_0324_a1-L173_02.jpg",
+    "line": 12253,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu9454-173",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0324_a2",
+    "scan": "Oe_1_Bu_9454_0324_a2-L173_03.jpg",
+    "line": 12263,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Szetlewek",
+    "page": 17,
+    "page_id": "0045_a2",
+    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+    "line": 2362,
+    "doc_line": 565
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Szetlewek",
+    "page": 1,
+    "page_id": "0340_b",
+    "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
+    "line": 12897,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0341_a2",
+    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
+    "line": 12927,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0341_a2",
+    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
+    "line": 12928,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu9454-192",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0368_a1",
+    "scan": "Oe_1_Bu_9454_0368_a1-L192_02.jpg",
+    "line": 13936,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0041_a2",
+    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+    "line": 1616,
+    "doc_line": 62
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0056_a2",
+    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+    "line": 2126,
+    "doc_line": 81
+   },
+   {
+    "uid": "oe1bu9454-210",
+    "surface": "Szetlewek",
+    "page": 4,
+    "page_id": "0394_a",
+    "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
+    "line": 14927,
+    "doc_line": 87
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Szetlewek",
+    "page": 3,
+    "page_id": "0402_a2",
+    "scan": "Oe_1_Bu_9454_0402_a2-L215_03.jpg",
+    "line": 15387,
+    "doc_line": 88
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Szettleweck",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 67,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-288",
+    "surface": "Szetlewek",
+    "page": 2,
+    "page_id": "0522_a1",
+    "scan": "Oe_1_Bu_9454_0522_a1-L288_02.jpg",
+    "line": 20566,
+    "doc_line": 31
+   },
+   {
+    "uid": "iiihamdaiiinr12765-19",
+    "surface": "Szettlewek",
+    "page": 1,
+    "page_id": "0026_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
+    "line": 617,
+    "doc_line": 10
+   },
+   {
+    "uid": "iiihamdaiiinr12765-19",
+    "surface": "Szettlewek",
+    "page": 1,
+    "page_id": "0026_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
+    "line": 631,
+    "doc_line": 24
+   },
+   {
+    "uid": "iiihamdaiiinr12765-19",
+    "surface": "Szettlewek",
+    "page": 2,
+    "page_id": "0027_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0027_a1-L19_02.jpg",
+    "line": 649,
+    "doc_line": 41
+   },
+   {
+    "uid": "iiihamdaiiinr12765-20",
+    "surface": "Szettlewek",
+    "page": 1,
+    "page_id": "0028_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
+    "line": 684,
+    "doc_line": 8
+   },
+   {
+    "uid": "iiihamdaiiinr12765-20",
+    "surface": "Szettlewek",
+    "page": 2,
+    "page_id": "0029_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+    "line": 695,
+    "doc_line": 18
+   },
+   {
+    "uid": "iiihamdaiiinr12765-21",
+    "surface": "Szettlewek",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
+    "line": 742,
+    "doc_line": 20
+   },
+   {
+    "uid": "iiihamdaiiinr12765-21",
+    "surface": "Szettlewek",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
+    "line": 752,
+    "doc_line": 30
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Szetlowek",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+    "line": 23,
+    "doc_line": 9
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Szeltowek",
+    "page": 5,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0006_a2-L2_05.jpg",
+    "line": 48,
+    "doc_line": 31
+   },
+   {
+    "uid": "iiihamdaiiinr12366-6",
+    "surface": "Szetlewek",
+    "page": 5,
+    "page_id": "0019_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0019_a2-L6_05.jpg",
+    "line": 171,
+    "doc_line": 22
+   },
+   {
+    "uid": "iiihamdaiiinr12366-6",
+    "surface": "Szetlowka",
+    "page": 15,
+    "page_id": "0024_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0024_a2-L6_15.jpg",
+    "line": 206,
+    "doc_line": 47
+   }
+  ]
+ },
+ {
   "entity": "ingelfingen",
   "display": "Ingelfingen",
   "count": 61,
@@ -22441,579 +23042,6 @@
     "scan": "III_HA_MdA_III_Nr_12366_0003_a-L2_01.jpg",
     "line": 19,
     "doc_line": 6
-   }
-  ]
- },
- {
-  "entity": "szetlewek",
-  "display": "Szetlewek",
-  "count": 59,
-  "documents": [
-   "ihagrrep7cnr3570-1",
-   "iiihamdaiiinr12366-6",
-   "iiihamdaiiinr12765-19",
-   "iiihamdaiiinr12765-20",
-   "iiihamdaiiinr12765-21",
-   "iiihamdaiiinr12765-4",
-   "oe1bu14525-1",
-   "oe1bu14525-2",
-   "oe1bu14525-21",
-   "oe1bu14525-23",
-   "oe1bu14525-3",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu14525-42",
-   "oe1bu14526-25",
-   "oe1bu14526-26",
-   "oe1bu14526-27",
-   "oe1bu14526-8",
-   "oe1bu9454-103",
-   "oe1bu9454-136",
-   "oe1bu9454-156",
-   "oe1bu9454-163",
-   "oe1bu9454-168",
-   "oe1bu9454-169",
-   "oe1bu9454-172",
-   "oe1bu9454-173",
-   "oe1bu9454-179a",
-   "oe1bu9454-192",
-   "oe1bu9454-210",
-   "oe1bu9454-215",
-   "oe1bu9454-24",
-   "oe1bu9454-288",
-   "oe1bu9454-31"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-39",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0145_b",
-    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
-    "line": 3807,
-    "doc_line": 5
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Szettlewek",
-    "page": 2,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-    "line": 120,
-    "doc_line": 74
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Szettlewek",
-    "page": 4,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
-    "line": 223,
-    "doc_line": 175
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Szettlewek",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 326,
-    "doc_line": 275
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Szettlewek",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 365,
-    "doc_line": 314
-   },
-   {
-    "uid": "oe1bu14525-3",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0011_a2",
-    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
-    "line": 352,
-    "doc_line": 77
-   },
-   {
-    "uid": "oe1bu14526-25",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0156_a2",
-    "scan": "Oe_1_Bu_14526_0156_a2-L25_01.jpg",
-    "line": 7712,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu14525-42",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0151_b",
-    "scan": "Oe_1_Bu_14525_0151_b-L42_01.jpg",
-    "line": 4068,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-103",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0214_a2",
-    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
-    "line": 8133,
-    "doc_line": 60
-   },
-   {
-    "uid": "oe1bu14526-27",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0162_a2",
-    "scan": "Oe_1_Bu_14526_0162_a2-L27_03.jpg",
-    "line": 7944,
-    "doc_line": 59
-   },
-   {
-    "uid": "oe1bu14526-26",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0159_a2",
-    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
-    "line": 7799,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu14526-26",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0160_a1",
-    "scan": "Oe_1_Bu_14526_0160_a1-L26_02.jpg",
-    "line": 7818,
-    "doc_line": 38
-   },
-   {
-    "uid": "oe1bu14525-2",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "Oe_1_Bu_14525_0006_a2-L2_01.jpg",
-    "line": 190,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu14525-2",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0007_a1",
-    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
-    "line": 223,
-    "doc_line": 35
-   },
-   {
-    "uid": "oe1bu14525-2",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0007_a1",
-    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
-    "line": 240,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu14525-2",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0007_a2",
-    "scan": "Oe_1_Bu_14525_0007_a2-L2_03.jpg",
-    "line": 262,
-    "doc_line": 73
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0003_a2",
-    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
-    "line": 63,
-    "doc_line": 42
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Szetlewek",
-    "page": 7,
-    "page_id": "0005_a2",
-    "scan": "Oe_1_Bu_14525_0005_a2-L1_07.jpg",
-    "line": 159,
-    "doc_line": 134
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Szetlewek",
-    "page": 8,
-    "page_id": "0006_a1",
-    "scan": "Oe_1_Bu_14525_0006_a1-L1_08.jpg",
-    "line": 175,
-    "doc_line": 149
-   },
-   {
-    "uid": "oe1bu14525-4",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0013_a2",
-    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
-    "line": 455,
-    "doc_line": 88
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0091_b",
-    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
-    "line": 2946,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0091_b",
-    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
-    "line": 2959,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0092_a2",
-    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
-    "line": 2970,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 6,
-    "page_id": "0094_a2",
-    "scan": "Oe_1_Bu_14525_0094_a2-L23_06.jpg",
-    "line": 3082,
-    "doc_line": 135
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 7,
-    "page_id": "0104_a1",
-    "scan": "Oe_1_Bu_14525_0104_a1-L23_07.jpg",
-    "line": 3124,
-    "doc_line": 176
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 7,
-    "page_id": "0104_a1",
-    "scan": "Oe_1_Bu_14525_0104_a1-L23_07.jpg",
-    "line": 3146,
-    "doc_line": 198
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 8,
-    "page_id": "0104_a2",
-    "scan": "Oe_1_Bu_14525_0104_a2-L23_08.jpg",
-    "line": 3162,
-    "doc_line": 213
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 9,
-    "page_id": "0106_a2",
-    "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
-    "line": 3175,
-    "doc_line": 225
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 10,
-    "page_id": "0108_a2",
-    "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
-    "line": 3189,
-    "doc_line": 238
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Szetlewek",
-    "page": 11,
-    "page_id": "0110_a1",
-    "scan": "Oe_1_Bu_14525_0110_a1-L23_11.jpg",
-    "line": 3206,
-    "doc_line": 254
-   },
-   {
-    "uid": "oe1bu14525-21",
-    "surface": "Szetlewek",
-    "page": 8,
-    "page_id": "0085_a1",
-    "scan": "Oe_1_Bu_14525_0085_a1-L21_08.jpg",
-    "line": 2634,
-    "doc_line": 193
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Szetlewek",
-    "page": 4,
-    "page_id": "0264_a",
-    "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
-    "line": 9883,
-    "doc_line": 58
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Szetlewek",
-    "page": 4,
-    "page_id": "0264_a",
-    "scan": "Oe_1_Bu_9454_0264_a-L136_04.jpg",
-    "line": 9897,
-    "doc_line": 72
-   },
-   {
-    "uid": "oe1bu9454-169",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0318_a1",
-    "scan": "Oe_1_Bu_9454_0318_a1-L169_02.jpg",
-    "line": 12003,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-156",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0297_a1",
-    "scan": "Oe_1_Bu_9454_0297_a1-L156_02.jpg",
-    "line": 11106,
-    "doc_line": 25
-   },
-   {
-    "uid": "oe1bu9454-163",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0307_b",
-    "scan": "Oe_1_Bu_9454_0307_b-L163_01.jpg",
-    "line": 11511,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-172",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0322_a1",
-    "scan": "Oe_1_Bu_9454_0322_a1-L172_02.jpg",
-    "line": 12196,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu9454-168",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0315_a2",
-    "scan": "Oe_1_Bu_9454_0315_a2-L168_01.jpg",
-    "line": 11879,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-173",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0324_a1",
-    "scan": "Oe_1_Bu_9454_0324_a1-L173_02.jpg",
-    "line": 12253,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu9454-173",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0324_a2",
-    "scan": "Oe_1_Bu_9454_0324_a2-L173_03.jpg",
-    "line": 12263,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Szetlewek",
-    "page": 17,
-    "page_id": "0045_a2",
-    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
-    "line": 2362,
-    "doc_line": 565
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Szetlewek",
-    "page": 1,
-    "page_id": "0340_b",
-    "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
-    "line": 12897,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0341_a2",
-    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
-    "line": 12927,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0341_a2",
-    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
-    "line": 12928,
-    "doc_line": 42
-   },
-   {
-    "uid": "oe1bu9454-192",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0368_a1",
-    "scan": "Oe_1_Bu_9454_0368_a1-L192_02.jpg",
-    "line": 13936,
-    "doc_line": 30
-   },
-   {
-    "uid": "oe1bu9454-24",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0041_a2",
-    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-    "line": 1616,
-    "doc_line": 62
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0056_a2",
-    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
-    "line": 2126,
-    "doc_line": 81
-   },
-   {
-    "uid": "oe1bu9454-210",
-    "surface": "Szetlewek",
-    "page": 4,
-    "page_id": "0394_a",
-    "scan": "Oe_1_Bu_9454_0394_a-L210_04.jpg",
-    "line": 14927,
-    "doc_line": 87
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Szetlewek",
-    "page": 3,
-    "page_id": "0402_a2",
-    "scan": "Oe_1_Bu_9454_0402_a2-L215_03.jpg",
-    "line": 15387,
-    "doc_line": 88
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Szettleweck",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 67,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-288",
-    "surface": "Szetlewek",
-    "page": 2,
-    "page_id": "0522_a1",
-    "scan": "Oe_1_Bu_9454_0522_a1-L288_02.jpg",
-    "line": 20566,
-    "doc_line": 31
-   },
-   {
-    "uid": "iiihamdaiiinr12765-19",
-    "surface": "Szettlewek",
-    "page": 1,
-    "page_id": "0026_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
-    "line": 617,
-    "doc_line": 10
-   },
-   {
-    "uid": "iiihamdaiiinr12765-19",
-    "surface": "Szettlewek",
-    "page": 1,
-    "page_id": "0026_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0026_a2-L19_01.jpg",
-    "line": 631,
-    "doc_line": 24
-   },
-   {
-    "uid": "iiihamdaiiinr12765-19",
-    "surface": "Szettlewek",
-    "page": 2,
-    "page_id": "0027_a1",
-    "scan": "III_HA_MdA_III_Nr_12765_0027_a1-L19_02.jpg",
-    "line": 649,
-    "doc_line": 41
-   },
-   {
-    "uid": "iiihamdaiiinr12765-20",
-    "surface": "Szettlewek",
-    "page": 1,
-    "page_id": "0028_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-    "line": 684,
-    "doc_line": 8
-   },
-   {
-    "uid": "iiihamdaiiinr12765-20",
-    "surface": "Szettlewek",
-    "page": 2,
-    "page_id": "0029_a1",
-    "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-    "line": 695,
-    "doc_line": 18
-   },
-   {
-    "uid": "iiihamdaiiinr12765-21",
-    "surface": "Szettlewek",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
-    "line": 742,
-    "doc_line": 20
-   },
-   {
-    "uid": "iiihamdaiiinr12765-21",
-    "surface": "Szettlewek",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
-    "line": 752,
-    "doc_line": 30
-   },
-   {
-    "uid": "iiihamdaiiinr12366-6",
-    "surface": "Szetlewek",
-    "page": 5,
-    "page_id": "0019_a2",
-    "scan": "III_HA_MdA_III_Nr_12366_0019_a2-L6_05.jpg",
-    "line": 171,
-    "doc_line": 22
    }
   ]
  },

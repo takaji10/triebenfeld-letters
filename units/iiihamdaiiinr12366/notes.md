@@ -5,7 +5,8 @@ Prussian foreign ministry's file on Michalina Miączyńska's claim to have the
 Trąbczyn estates freed of the Prince of Hohenlohe's debts, and on the Polish
 judgments against his creditors. Added on 2026-10-04: scans cut at the
 editor's folds, the text cut to pages, corrected, summarised, and given its
-place on the site. Not translated.
+place on the site; translated and its summaries claim-checked in session the
+same day.
 
 ## Provenance
 
@@ -171,8 +172,8 @@ to "de la santé" (0004 left, read on the scan).
 
 German summaries were written in the session from a reading of each document
 against its scan, and the English translated from them
-(`intake/summaries_draft.py`). **They have not had the paid claim check**, and
-there is no `reading.json`. `site/_data/summaries_de.yml` was not rebuilt from
+(`intake/summaries_draft.py`). They were claim-checked in session, not by the
+paid run (below, "Claim check"), and there is no `reading.json`. `site/_data/summaries_de.yml` was not rebuilt from
 the local cache, which would have undone corrections made in the cloud: the
 six new lines were inserted into the committed file.
 
@@ -216,12 +217,64 @@ Weigel, the Lichnowski brothers, Grotowski, Schöler, Alopeus and Nesselrode.
 The era is `hohenlohe` for now: the plan leaves it to the editor whether this
 file belongs there or in the restitution era.
 
+## Translation (2026-10-04)
+
+Translated in session, as Nr. 3709 was, not by the paid run: under the rules
+translate.py gives its translator (its system prompt, termbase and canonical
+names, generated for this unit), written to the untagged cache
+(cache/translation-raw/) with translate.py's own `save()`, so each record
+carries the `source_hash` of the text translated. cache/ is not in the
+repository: the pages are kept in `intake/translation/doc<N>.yml`, and
+`intake/translation/write_cache.py` writes them into the cache again for
+check_translations.py and publish_translations.py. If the editor wants the
+model's own translation for comparison, `translate.py --unit iiihamdaiiinr12366
+--all` overwrites the cache.
+
+- **Pilot first** (`translation_pilot: [1, 6]` in unit.yml): Alopeus's French
+  letter and the Polish judgment, French and Polish being new here. Both
+  passed check_translations.py with no row; nothing in the termbase needed
+  changing, so the other four followed on the same rules.
+- **check_translations.py**: 2 rows, neither a fault. On page 6 of document 2
+  the termbase patterns for *Transact* and *Rendant* match the French
+  "transactions" and "rendant" (giving back); no termbase word is there.
+- **uncanonical_names.py**: nothing. Names are in the edition's forms where
+  the termbase's table settles them (Trąbczyn for Trąpczyn, Warsaw, Poznań,
+  Wrocław, Międzyrzecz, St Petersburg), and otherwise as the page spells them:
+  Leyner, Zastrof, Wichrowsky, Grottowsky, Kamienno, Szetlowek, Szeltowek,
+  Micheline, Frédéric Guillaume II and the Polish Fryderyk Wilhelm and
+  Fryderyk Ludwik. Szetlowek, Szeltowek and Szetlowka are now matched to
+  Szetlewek in reference/places.yml (not made variants), as Kamienno is to
+  Kamionna. écus are written Reichsthaler (english_forms.yml); the Polish
+  "Talarow" thalers, "złotych polskich" Polish florins, the sums written out
+  in words as the judgment writes them.
+- **Rendered on purpose:** the words the transcription doubles in the judgment
+  ("przy własnosci przy własnosci", page 10; "nie ma bydz nie ma bydz", page
+  12) are doubled in the English too. The sentence that runs from page 9 to
+  page 10 keeps its last word, "niemogą", on page 10 ("are not able").
+  "ne saurait pas être appreciée" (document 2, page 9) is rendered as it
+  stands, "could not be appreciated", though the argument wants "could not
+  fail to be"; it is flagged in the cache record. The pencil notes are
+  translated under "[Written by the receiving office:]", each after the
+  English of the passage it stands beside, in square brackets.
+- The holding is `status: translated`, `published_tag: ""` (untagged).
+
+## Claim check (2026-10-04)
+
+Each German summary held to its document under the rules read_letters.py
+--verify gives its checker: 70 statements, 69 supported, 1 overstated, in
+`intake/claim_check.yml` with the passage each rests on. The overstated one:
+the summary of document 2 gave the pencil note "aber so lang er es besessen,
+besaß er es rechtmäßig ..." to the Prince, but the note says only "he" and
+"it", beside a sentence on the gifts to the Prince and to Sanitz alike. It now
+reads "der Beschenkte habe das Gut, solange er es besaß, ...", in the German
+and English summaries and on the holding's page (about.md, about_de.md). The
+statement that document 4 is a copy rests on the scan's hand, not the text.
+
 ## Still to do
 
 - The editor's ruling on the era.
 - The words in `intake/unresolved.md`, should the editor read them on the
   scan.
-- Translation and the claim check of the summaries (paid, need the editor's
-  word).
+- Reading the English against the scans, as for every holding.
 - The edition guide's counts of holdings and documents are written by hand
   and were stale before this holding; not touched.

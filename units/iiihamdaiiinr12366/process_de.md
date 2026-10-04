@@ -20,8 +20,12 @@ Die Bleistiftnotizen am Rand des Warschauer Berichts hat zuerst der Herausgeber 
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am Scan geschrieben und ins Englische übersetzt. Sie haben die gesonderte Prüfung jeder Aussage, die die Zusammenfassungen einiger anderer Bestände erhalten haben, noch nicht durchlaufen.
+Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am Scan geschrieben und ins Englische übersetzt. Danach wurde jede ihrer Aussagen am Dokument geprüft, nach denselben Regeln wie die gesonderte Prüfung, die die Zusammenfassungen anderer Bestände erhalten haben: Eine Zusammenfassung darf nur sagen, was das Dokument sagt. Ein Satzteil wurde abgeschwächt: Eine Bleistiftnotiz, die die Zusammenfassung dem Fürsten zuschrieb, spricht nur von „er“, dem Inhaber eines vom König geschenkten Gutes.
+
+### Übersetzung
+
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Die fünf französischen Dokumente wurden aus dem Französischen übersetzt, das Urteil aus dem Polnischen; ein französischer Brief und das polnische Urteil wurden zuerst als Probe übersetzt, weil Dokumente in diesen Sprachen für die Edition neu sind. Die deutschen Bleistiftnotizen wurden an ihrer Stelle übersetzt, unter derselben Bezeichnung wie in der Transkription. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist. Wo der Text Wörter doppelt hat, wie das polnische Urteil zweimal, wiederholt das Englische sie ebenfalls.
 
 ### Noch zu tun
 
-Die Dokumente sind noch nicht ins Englische übersetzt.
+Das Englische ist noch nicht mit den Scans verglichen.

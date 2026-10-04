@@ -67,9 +67,8 @@ read, translate and summarise.
   Prusimska/Miączyńska restitution (1807 onward).
 
 - **III. HA MdA, III. Nr. 12366** is in (2026-10-04): six documents,
-  corrected in the French, summarised in both languages. Still open:
-  - the English translation and the claim check of the summaries (both
-    paid, on the editor's machine);
+  corrected, summarised in both languages, translated and its summaries
+  claim-checked in session. Still open:
   - **its era**: it is placed in the Hohenlohe-Ingelfingen years because it
     is about his debts, but its documents run to 1827 and the last is
     Miączyńska's own lawsuit. The era plan left this for the editor to
@@ -167,7 +166,7 @@ Places (`reference/places.yml`, `open_questions`):
 
 ## Translations
 
-All 436 English translations are machine drafts (`status: draft` in
+All 442 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
 Five documents without English have no text to translate: in Oe 1 Bü 9454
@@ -175,7 +174,10 @@ the skipped number 9 and the missing 121, 181, 225, 293. The fifteen of
 Nr. 3709 were translated in session on 2026-10-04 (not by the paid run); its
 nine review rows are none blocking: three damaged pages shown as gaps, three
 "Cammer" matches that are the Kammergericht, three places marked doubtful in
-the badly read draft 14 and the registry note of 13.
+the badly read draft 14 and the registry note of 13. The six of Nr. 12366
+(five French, one Polish) were translated in session the same day; its two
+review rows are French words ("transactions", "rendant") that the termbase
+patterns for *Transact* and *Rendant* mistake for German, neither a fault.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`

@@ -244,7 +244,144 @@
    "doc_line": 14
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "d'Alopeus",
+   "kind": "person",
+   "surface_de": "d’Alopeus",
+   "surface_en": "d'Alopeus",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Miączyńska, née Prusimska",
+   "kind": "person",
+   "surface_de": "Miączyńska née Prusimska",
+   "surface_en": "Miączyńska, née Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface_de": "Prusimski",
+   "surface_en": "Prusimski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Russie",
+   "surface_en": "Russia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Prusse",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńska",
+   "surface_en": "Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Tilsit",
+   "kind": "place",
+   "surface_de": "Tilsit",
+   "surface_en": "Tilsit",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Grand Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Grand Duché de Warsovie",
+   "surface_en": "Grand Duchy of Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "Vienne",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kingdom of Poland",
+   "kind": "place",
+   "surface_de": "royaume de Pologne",
+   "surface_en": "Kingdom of Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńska",
+   "surface_en": "Miączyńska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "d'Alopeus",
+   "kind": "person",
+   "surface_de": "d’Alopeus",
+   "surface_en": "d'Alopeus",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Petersburg",
+   "kind": "place",
+   "surface_de": "Petersbourg",
+   "surface_en": "Petersburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Russia",
+   "kind": "place",
+   "surface_de": "Russie",
+   "surface_en": "Russia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Prusse",
+   "surface_en": "Prussia",
+   "page": 2
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -303,9 +440,115 @@
    "doc_line": 13
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Berlin, 11 May 1819. No. 2,434 B\n\nTo Mr d'Alopeus\n\nEnvoy Extraordinary and Minister Plenipotentiary of Russia at Berlin\n\nThe undersigned, Minister of State and of the Cabinet of His Majesty the King of Prussia, has received the note and the memorial which Mr d'Alopeus, Envoy Extraordinary and Minister Plenipotentiary of His Majesty the Emperor of All the Russias, did him the honour of addressing to him under date of 20 February of this year, on the claims of Countess Miączyńska, née Prusimska.\n\nThe undersigned thinks it right first to retrace in a few words the state of the question.\n\nThe Starost Prusimski took part in 1795 in the insurrection of the Poles against Russia and Prussia. After the insurrection had been put down he fled; his estates were confiscated by virtue of a judicial sentence, and the King having disposed of them in favour of various individuals, these donees borrowed on these landed estates, which served as mortgage security for these debts.\n\nPrusimski died in 1803 in a foreign country without having been able to obtain reinstatement in his possessions; he left a daughter, Countess Miączyńska, as his heiress. After the Peace of Tilsit she was put back in possession of her lands by the Government of the Grand Duchy of Warsaw, and since the dissolution of that state the general amnesty pronounced in the Act of the Congress of Vienna has guaranteed her the enjoyment of her estates.\n\nToday Countess Miączyńska is not content with having recovered her lands in the state in which the donees left them. She asks that the debts which rest on these estates be extinguished.\n\nA subject at once of the Emperor of Russia, by the lands she owns in the Kingdom of Poland, and of the King, by those which belong to her in the Grand Duchy of",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "d’Alopeus",
+     "en": "d'Alopeus",
+     "kind": "person"
+    },
+    {
+     "de": "Miączyńska née Prusimska",
+     "en": "Miączyńska, née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Prusimski",
+     "en": "Prusimski",
+     "kind": "person"
+    },
+    {
+     "de": "Russie",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Prusse",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Miączyńska",
+     "en": "Miączyńska",
+     "kind": "person"
+    },
+    {
+     "de": "Tilsit",
+     "en": "Tilsit",
+     "kind": "place"
+    },
+    {
+     "de": "Grand Duché de Warsovie",
+     "en": "Grand Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Vienne",
+     "en": "Vienna",
+     "kind": "place"
+    },
+    {
+     "de": "royaume de Pologne",
+     "en": "Kingdom of Poland",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "11",
+    "1819",
+    "2,434",
+    "20",
+    "1795",
+    "1803"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Poznań, she had already applied directly to the Prussian Government; but reasons of justice and equity had caused her request to be rejected.\n\nThese reasons are still the same. The undersigned has had this affair examined anew, and he has taken into mature consideration the arguments put forward in favour of Countess Miączyńska in the memorial delivered by Mr d'Alopeus. But as these arguments rest in great part on facts which the Countess has presented with more art than truth, this memorial has not been able to weaken the reasoning on which the decision of the Prussian tribunals was founded, and is founded still.\n\nThis reasoning is set out in all its force and with the greatest evidence in the memorial which the undersigned has the honour to communicate herewith to Mr d'Alopeus, and he does not doubt that, having read it, this minister will find that the ruling of the Prussian authorities is founded in law and in reason.\n\nThe recommendation of the Cabinet of Petersburg laid upon the undersigned the obligation of bringing to the new examination of this affair as much care as impartiality. Having acquitted himself of this duty, he regrets indeed that the result of this examination is not such as Russia desired in favour of Countess Miączyńska; but the love of justice which animates His Majesty the Emperor as it animates the King, and which is one of the finest bonds of the union of Prussia and Russia, gives him the sweet and intimate conviction that the Russian Government will recognise the force of the motives which have dictated to Prussia a fresh refusal.\n\nThe undersigned takes this occasion to renew to Mr d'Alopeus the assurance of his high consideration.",
+   "names": [
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Miączyńska",
+     "en": "Miączyńska",
+     "kind": "person"
+    },
+    {
+     "de": "d’Alopeus",
+     "en": "d'Alopeus",
+     "kind": "person"
+    },
+    {
+     "de": "Petersbourg",
+     "en": "Petersburg",
+     "kind": "place"
+    },
+    {
+     "de": "Russie",
+     "en": "Russia",
+     "kind": "place"
+    },
+    {
+     "de": "Prusse",
+     "en": "Prussia",
+     "kind": "place"
+    }
+   ]
+  }
+ ],
+ "text_english": "Berlin, 11 May 1819. No. 2,434 B\n\nTo Mr d'Alopeus\n\nEnvoy Extraordinary and Minister Plenipotentiary of Russia at Berlin\n\nThe undersigned, Minister of State and of the Cabinet of His Majesty the King of Prussia, has received the note and the memorial which Mr d'Alopeus, Envoy Extraordinary and Minister Plenipotentiary of His Majesty the Emperor of All the Russias, did him the honour of addressing to him under date of 20 February of this year, on the claims of Countess Miączyńska, née Prusimska.\n\nThe undersigned thinks it right first to retrace in a few words the state of the question.\n\nThe Starost Prusimski took part in 1795 in the insurrection of the Poles against Russia and Prussia. After the insurrection had been put down he fled; his estates were confiscated by virtue of a judicial sentence, and the King having disposed of them in favour of various individuals, these donees borrowed on these landed estates, which served as mortgage security for these debts.\n\nPrusimski died in 1803 in a foreign country without having been able to obtain reinstatement in his possessions; he left a daughter, Countess Miączyńska, as his heiress. After the Peace of Tilsit she was put back in possession of her lands by the Government of the Grand Duchy of Warsaw, and since the dissolution of that state the general amnesty pronounced in the Act of the Congress of Vienna has guaranteed her the enjoyment of her estates.\n\nToday Countess Miączyńska is not content with having recovered her lands in the state in which the donees left them. She asks that the debts which rest on these estates be extinguished.\n\nA subject at once of the Emperor of Russia, by the lands she owns in the Kingdom of Poland, and of the King, by those which belong to her in the Grand Duchy of\n\nPoznań, she had already applied directly to the Prussian Government; but reasons of justice and equity had caused her request to be rejected.\n\nThese reasons are still the same. The undersigned has had this affair examined anew, and he has taken into mature consideration the arguments put forward in favour of Countess Miączyńska in the memorial delivered by Mr d'Alopeus. But as these arguments rest in great part on facts which the Countess has presented with more art than truth, this memorial has not been able to weaken the reasoning on which the decision of the Prussian tribunals was founded, and is founded still.\n\nThis reasoning is set out in all its force and with the greatest evidence in the memorial which the undersigned has the honour to communicate herewith to Mr d'Alopeus, and he does not doubt that, having read it, this minister will find that the ruling of the Prussian authorities is founded in law and in reason.\n\nThe recommendation of the Cabinet of Petersburg laid upon the undersigned the obligation of bringing to the new examination of this affair as much care as impartiality. Having acquitted himself of this duty, he regrets indeed that the result of this examination is not such as Russia desired in favour of Countess Miączyńska; but the love of justice which animates His Majesty the Emperor as it animates the King, and which is one of the finest bonds of the union of Prussia and Russia, gives him the sweet and intimate conviction that the Russian Government will recognise the force of the motives which have dictated to Prussia a fresh refusal.\n\nThe undersigned takes this occasion to renew to Mr d'Alopeus the assurance of his high consideration.",
  "summary_en": "Draft of the Prussian foreign minister's reply to the Russian envoy Alopeus, answering his note and the memorandum on the claims of Countess Miączyńska. The Starost Prusimski, it says, took part in the Polish uprising and fled; his estates were confiscated by a court's judgment, the King disposed of them, and the donees raised mortgages on them. Prusimski died abroad in 1803, and after the Peace of Tilsit his daughter received the estates back from the government of the Duchy of Warsaw. She now asks that the debts resting on the estates be paid off. The Prussian government has refused the request once already; after a fresh examination the decision of the Prussian courts stands, and an enclosed memorandum sets out its reasons.",
  "summary_de": "Entwurf der Antwort des preußischen Außenministers an den russischen Gesandten Alopeus auf dessen Note und die Denkschrift über die Forderungen der Gräfin Miączyńska. Der Starost Prusimski habe am Aufstand der Polen teilgenommen und sei geflohen; seine Güter wurden durch gerichtliches Urteil konfisziert, der König verfügte darüber, und die Beschenkten nahmen Hypotheken darauf auf. Prusimski starb 1803 im Ausland, und seine Tochter erhielt die Güter nach dem Frieden von Tilsit von der Regierung des Herzogtums Warschau zurück. Sie verlangt nun, dass die Schulden getilgt werden, die auf den Gütern ruhen. Die preußische Regierung hat das Gesuch schon einmal abgelehnt; nach erneuter Prüfung bleibt es bei der Entscheidung der preußischen Gerichte, deren Gründe eine beigefügte Denkschrift darlegt.",
  "reading": {}

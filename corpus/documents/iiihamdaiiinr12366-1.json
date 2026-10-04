@@ -139,7 +139,56 @@
    "doc_line": 6
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "bernstorff",
+   "display": "Bernstorff",
+   "kind": "person",
+   "surface_de": "Bernstorff",
+   "surface_en": "Bernstorff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Micheline Miączyńska, née Prusimska",
+   "kind": "person",
+   "surface_de": "Micheline Miączyńska née Prusimska",
+   "surface_en": "Micheline Miączyńska, née Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńska",
+   "surface_en": "Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kingdom of Poland",
+   "kind": "place",
+   "surface_de": "Royaume de Pologne",
+   "surface_en": "Kingdom of Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "David d'Alopeus",
+   "kind": "person",
+   "surface_de": "David d’Alopeus",
+   "surface_en": "David d'Alopeus",
+   "page": 1
+  }
+ ],
  "place_canonical": "Berlin",
  "place_mentions": [
   {
@@ -154,9 +203,51 @@
    "doc_line": 1
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Berlin, 20 January 1819. No. 537\n\nTo His Excellency Count Bernstorff\n\nThe undersigned, Envoy Extraordinary and Minister Plenipotentiary of His Majesty the Emperor of All the Russias, King of Poland, has been instructed to communicate to the King's Ministry the enclosed report of the Lieutenant of the Kingdom of Poland concerning a claim which Countess Micheline Miączyńska, née Prusimska, makes against the Prussian Government, and to support it as best he may.\n\nThis report contains arguments so conclusive that the undersigned could add nothing to them; and as he has gathered, during the time he has had the honour of being accredited to the King, the most convincing proofs of the impartial justice which His Majesty causes to be administered in His States, he confines himself to begging Count Bernstorff, Minister of State for Foreign Affairs, to recommend the interests of Countess Miączyńska to the authorities who will have to pronounce upon them.\n\nHe takes this opportunity to renew to His Excellency the expression of his very high consideration.\n\nDavid d'Alopeus",
+   "names": [
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "Bernstorff",
+     "en": "Bernstorff",
+     "kind": "person"
+    },
+    {
+     "de": "Micheline Miączyńska née Prusimska",
+     "en": "Micheline Miączyńska, née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Miączyńska",
+     "en": "Miączyńska",
+     "kind": "person"
+    },
+    {
+     "de": "Royaume de Pologne",
+     "en": "Kingdom of Poland",
+     "kind": "place"
+    },
+    {
+     "de": "David d’Alopeus",
+     "en": "David d'Alopeus",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1819",
+    "537"
+   ]
+  }
+ ],
+ "text_english": "Berlin, 20 January 1819. No. 537\n\nTo His Excellency Count Bernstorff\n\nThe undersigned, Envoy Extraordinary and Minister Plenipotentiary of His Majesty the Emperor of All the Russias, King of Poland, has been instructed to communicate to the King's Ministry the enclosed report of the Lieutenant of the Kingdom of Poland concerning a claim which Countess Micheline Miączyńska, née Prusimska, makes against the Prussian Government, and to support it as best he may.\n\nThis report contains arguments so conclusive that the undersigned could add nothing to them; and as he has gathered, during the time he has had the honour of being accredited to the King, the most convincing proofs of the impartial justice which His Majesty causes to be administered in His States, he confines himself to begging Count Bernstorff, Minister of State for Foreign Affairs, to recommend the interests of Countess Miączyńska to the authorities who will have to pronounce upon them.\n\nHe takes this opportunity to renew to His Excellency the expression of his very high consideration.\n\nDavid d'Alopeus",
  "summary_en": "The Russian envoy at Berlin, Alopeus, sends the Prussian foreign minister Count Bernstorff, on the orders of his court, an enclosed report of the Viceroy of the Kingdom of Poland on a claim that Countess Michalina Miączyńska, born Prusimska, makes against the Prussian government, and supports it. The report, he writes, contains arguments so conclusive that he has nothing to add. He asks Bernstorff to recommend the Countess's case to the authorities who will have to decide it.",
  "summary_de": "Der russische Gesandte in Berlin, Alopeus, übersendet dem preußischen Außenminister Graf Bernstorff auf Befehl seines Hofes einen beiliegenden Bericht des Statthalters des Königreichs Polen über eine Forderung, die Gräfin Michalina Miączyńska, geborene Prusimska, gegen die preußische Regierung erhebt, und unterstützt sie. Der Bericht enthalte so schlüssige Gründe, dass er nichts hinzuzufügen wisse. Er bittet Bernstorff, die Sache der Gräfin den Behörden zu empfehlen, die darüber zu entscheiden haben.",
  "reading": {}
