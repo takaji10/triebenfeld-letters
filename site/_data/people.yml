@@ -650,15 +650,25 @@
   bio_de: "In zwei Briefen von 1798 und 1800 genannt. Wer er war, hat die Edition nicht ermittelt."
   letters: [{id: "87", url: "/documents/oe1bu9454/87/"}, {id: "101", url: "/documents/oe1bu9454/101/"}]
 - slug: "goldbeck"
-  name: "Goldbeck"
-  heading: "Goldbeck (two men)"
-  heading_de: "Goldbeck (zwei Männer)"
-  count: 8
-  life: "documented 1796-1805"
-  life_de: "belegt 1796-1805"
-  bio: "Two men. Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, countersigned the charters of 1796. A von Goldbeck who became president of the chamber at Kalisz in 1805 supported the division of the estates."
-  bio_de: "Zwei Männer. Heinrich Julius von Goldbeck (1733-1818), preußischer Großkanzler, zeichnete die Urkunden von 1796 gegen. Ein von Goldbeck, der 1805 Präsident der Kammer in Kalisch wurde, unterstützte die Teilung der Güter."
-  letters: [{id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "75", url: "/documents/oe1bu9454/75/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "1", url: "/documents/oe1bu14525/1/"}, {id: "152", url: "/documents/oe1bu9454/152/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}]
+  name: "Heinrich Julius von Goldbeck"
+  heading: "Goldbeck, Heinrich Julius von"
+  heading_de: "Goldbeck, Heinrich Julius von"
+  count: 4
+  life: "1733-1818"
+  life_de: "1733-1818"
+  bio: "Heinrich Julius von Goldbeck, Grand Chancellor of Prussia and minister of justice. He countersigned the charters of 1796 granting the estates to Hohenlohe-Ingelfingen."
+  bio_de: "Heinrich Julius von Goldbeck, preußischer Großkanzler und Justizminister. Er zeichnete die Urkunden von 1796 gegen, mit denen Hohenlohe-Ingelfingen die Güter verliehen wurden."
+  letters: [{id: "1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "75", url: "/documents/oe1bu9454/75/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "1", url: "/documents/oe1bu14525/1/"}]
+- slug: "goldbeck-kalisz"
+  name: "President von Goldbeck"
+  heading: "Goldbeck, von (president at Kalisz)"
+  heading_de: "Goldbeck, von (Präsident in Kalisz)"
+  count: 4
+  life: "documented 1805"
+  life_de: "belegt 1805"
+  bio: "A von Goldbeck who became president of the War and Domains Chamber at Kalisz in 1805 and supported the division of the estates among settlers."
+  bio_de: "Ein von Goldbeck, der 1805 Präsident der Kriegs- und Domänenkammer in Kalisz wurde und die Aufteilung der Güter an Siedler unterstützte."
+  letters: [{id: "152", url: "/documents/oe1bu9454/152/"}, {id: "162", url: "/documents/oe1bu9454/162/"}, {id: "172", url: "/documents/oe1bu9454/172/"}, {id: "168", url: "/documents/oe1bu9454/168/"}]
 - slug: "goeschel"
   name: "Göschel"
   heading: "Göschel"
@@ -1049,16 +1059,26 @@
   bio: "Friedrich Leopold von Kircheisen, Prussian minister of justice from 1810. He was named as an executor of Princess Sacken's will, and the inquiry into Cosmar's administration was referred to him."
   bio_de: "Friedrich Leopold von Kircheisen, preußischer Justizminister seit 1810. Er wurde als Testamentsvollstrecker der Fürstin Sacken genannt, und die Untersuchung der Verwaltung Cosmars wurde ihm zugewiesen."
   letters: [{id: "74a", url: "/documents/oe1bu9454/74a/"}, {id: "74c", url: "/documents/oe1bu9454/74c/"}, {id: "245", url: "/documents/oe1bu9454/245/"}, {id: "256", url: "/documents/oe1bu9454/256/"}, {id: "269a", url: "/documents/oe1bu9454/269a/"}, {id: "269", url: "/documents/oe1bu9454/269/"}, {id: "2", url: "/documents/oe1bu9454/2/"}, {id: "15", url: "/documents/oe1bu9454/15/"}, {id: "291", url: "/documents/oe1bu9454/291/"}, {id: "292", url: "/documents/oe1bu9454/292/"}, {id: "297", url: "/documents/oe1bu9454/297/"}]
-- slug: "kleist"
-  name: "Kleist"
-  heading: "Kleist (two men)"
-  heading_de: "Kleist (zwei Männer)"
-  count: 3
-  life: "documented 1810-1813"
-  life_de: "belegt 1810-1813"
-  bio: "Two men. A General Kleist repeated at Kalisz in 1812 a charge that Triebenfeld pocketed the estate revenues; a chief forester von Kleist is named in 1813."
-  bio_de: "Zwei Männer. Ein General Kleist wiederholte 1812 in Kalisch den Vorwurf, Triebenfeld stecke die Gutseinkünfte ein; ein Oberforstmeister von Kleist wird 1813 genannt."
-  letters: [{id: "67", url: "/documents/oe1bu9454/67/"}, {id: "17", url: "/documents/oe1bu9454/17/"}, {id: "239", url: "/documents/oe1bu9454/239/"}]
+- slug: "kleist-oberforstmeister"
+  name: "Oberforstmeister von Kleist"
+  heading: "Kleist, von (chief forester)"
+  heading_de: "Kleist, von (Oberforstmeister)"
+  count: 1
+  life: "documented 1813"
+  life_de: "belegt 1813"
+  bio: "A chief forester von Kleist, for whom Triebenfeld delivered a letter in June 1813; he was away, and it was left with his wounded son."
+  bio_de: "Ein Oberforstmeister von Kleist, für den Triebenfeld im Juni 1813 einen Brief überbrachte; er war verreist, und der Brief blieb bei seinem verwundeten Sohn."
+  letters: [{id: "239", url: "/documents/oe1bu9454/239/"}]
+- slug: "kleist-general"
+  name: "General Kleist"
+  heading: "Kleist, von (general)"
+  heading_de: "Kleist, von (General)"
+  count: 2
+  life: "documented 1810-1812"
+  life_de: "belegt 1810-1812"
+  bio: "A Prussian General Kleist, said in 1810 to be about to succeed Köckritz at the King's side. At Kalisz in 1812 he repeated a charge that Triebenfeld kept the estates' revenues for himself."
+  bio_de: "Ein preußischer General Kleist, von dem es 1810 hieß, er werde Köckritz an der Seite des Königs nachfolgen. 1812 wiederholte er in Kalisz den Vorwurf, Triebenfeld behalte die Einkünfte der Güter für sich."
+  letters: [{id: "67", url: "/documents/oe1bu9454/67/"}, {id: "17", url: "/documents/oe1bu9454/17/"}]
 - slug: "knobelsdorff"
   name: "Knobelsdorff"
   heading: "Knobelsdorff"
@@ -1379,16 +1399,34 @@
   bio: "Named in connection with the estates between 1804 and 1808. Possibly the same man as the judicial burgomaster Melzig."
   bio_de: "Zwischen 1804 und 1808 im Zusammenhang mit den Gütern genannt. Möglicherweise derselbe wie der Justizbürgermeister Melzig."
   letters: [{id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "29", url: "/documents/oe1bu14526/29/"}, {id: "41", url: "/documents/oe1bu9454/41/"}]
-- slug: "meyer"
-  name: "Meyer"
-  heading: "Meyer (several men)"
-  heading_de: "Meyer (mehrere Männer)"
-  count: 29
-  life: "documented 1800-1816"
-  life_de: "belegt 1800-1816"
-  bio: "A common surname borne by several men in the letters, among them a court councillor Meyer through whom Hohenlohe-Ingelfingen sent instructions in 1808. They cannot always be told apart."
-  bio_de: "Ein häufiger Familienname, den in den Briefen mehrere Männer tragen, darunter ein Hofrat Meyer, über den Hohenlohe-Ingelfingen 1808 Weisungen erteilte. Sie lassen sich nicht immer unterscheiden."
-  letters: [{id: "108", url: "/documents/oe1bu9454/108/"}, {id: "112", url: "/documents/oe1bu9454/112/"}, {id: "136", url: "/documents/oe1bu9454/136/"}, {id: "137", url: "/documents/oe1bu9454/137/"}, {id: "140", url: "/documents/oe1bu9454/140/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "141", url: "/documents/oe1bu9454/141/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "156", url: "/documents/oe1bu9454/156/"}, {id: "4", url: "/documents/oe1bu14526/4/"}, {id: "158", url: "/documents/oe1bu9454/158/"}, {id: "23", url: "/documents/oe1bu14526/23/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "179a", url: "/documents/oe1bu9454/179a/"}, {id: "187", url: "/documents/oe1bu9454/187/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "32", url: "/documents/oe1bu9454/32/"}, {id: "35", url: "/documents/oe1bu9454/35/"}, {id: "40", url: "/documents/oe1bu9454/40/"}, {id: "47", url: "/documents/oe1bu9454/47/"}, {id: "67", url: "/documents/oe1bu9454/67/"}, {id: "215", url: "/documents/oe1bu9454/215/"}, {id: "254", url: "/documents/oe1bu9454/254/"}, {id: "262", url: "/documents/oe1bu9454/262/"}, {id: "284", url: "/documents/oe1bu9454/284/"}, {id: "286", url: "/documents/oe1bu9454/286/"}, {id: "299", url: "/documents/oe1bu9454/299/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
+- slug: "meyer-wrabczyn"
+  name: "Meyer (at Wrąbczyn)"
+  heading: "Meyer (clerk at Wrąbczyn)"
+  heading_de: "Meyer (Schreiber in Wrąbczyn)"
+  count: 5
+  life: "documented 1804-1809"
+  life_de: "belegt 1804-1809"
+  bio: "A clerk living at the bailiff's house at Wrąbczyn, a friend of the lessee Floricke. In 1804 and 1805 he worked against Triebenfeld, frightening off settlers and hiring out the estate's peasants to the townspeople of Zagórów; he later claimed payment for building works."
+  bio_de: "Ein Schreiber, der in der Vogtei in Wrąbczyn wohnte, ein Freund des Pächters Floricke. 1804 und 1805 arbeitete er gegen Triebenfeld, schreckte Siedler ab und vermietete die Untertanen des Gutes an die Bürger von Zagórów; später verlangte er Bezahlung für Bauarbeiten."
+  letters: [{id: "136", url: "/documents/oe1bu9454/136/"}, {id: "149", url: "/documents/oe1bu9454/149/"}, {id: "168", url: "/documents/oe1bu9454/168/"}, {id: "191", url: "/documents/oe1bu9454/191/"}, {id: "47", url: "/documents/oe1bu9454/47/"}]
+- slug: "meyer-hofrat"
+  name: "Hofrat Meyer"
+  heading: "Meyer (court councillor)"
+  heading_de: "Meyer (Hofrat)"
+  count: 2
+  life: "documented 1805-1808"
+  life_de: "belegt 1805-1808"
+  bio: "A court councillor through whom Hohenlohe-Ingelfingen sent instructions to his Berlin lawyer Amelang in 1808, and who in 1805 offered to take over a claim of young Eysenhardt's."
+  bio_de: "Ein Hofrat, über den Hohenlohe-Ingelfingen 1808 seinem Berliner Rechtsanwalt Amelang Weisungen zukommen ließ und der 1805 anbot, eine Forderung des jungen Eysenhardt zu übernehmen."
+  letters: [{id: "156", url: "/documents/oe1bu9454/156/"}, {id: "35", url: "/documents/oe1bu9454/35/"}]
+- slug: "meyer-franz"
+  name: "Franz Meyer"
+  heading: "Meyer, Franz"
+  heading_de: "Meyer, Franz"
+  count: 1
+  bio: "A creditor named in the list of Hohenlohe-Ingelfingen's debts drawn up about 1816."
+  bio_de: "Ein Gläubiger in der um 1816 aufgestellten Liste der Schulden Hohenlohe-Ingelfingens."
+  letters: [{id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "miaczynski"
   name: "Stanisław Miączyński"
   heading: "Miączyński, Stanisław"
@@ -1399,16 +1437,36 @@
   bio: "Stanisław Miączyński, second husband of Michalina Prusimska, whom he married about 1814. The letters write his name Moscinski and Moszynski, and a French letter of 1815 \"M. de Mięczynsky\"; in 1815 Triebenfeld feared his influence with the Governor-General."
   bio_de: "Stanisław Miączyński, zweiter Ehemann der Michalina Prusimska, die er um 1814 heiratete. Die Briefe schreiben seinen Namen Moscinski und Moszynski, ein französischer Brief von 1815 „M. de Mięczynsky“; 1815 fürchtete Triebenfeld seinen Einfluss auf den Generalgouverneur."
   letters: [{id: "265b", url: "/documents/oe1bu9454/265b/"}, {id: "270", url: "/documents/oe1bu9454/270/"}, {id: "6", url: "/documents/iiihamdaiiinr12765/6/"}]
-- slug: "michaelis"
-  name: "Michaelis"
-  heading: "Michaelis (three men)"
-  heading_de: "Michaelis (drei Männer)"
-  count: 24
-  life: "documented 1798-1809"
-  life_de: "belegt 1798-1809"
-  bio: "The name covers three people. A merchant Michaelis supplied iron and advanced money to Triebenfeld in 1809; a court fiscal Michaelis acted as agent in Berlin in 1798; and Christiane Dorothea Michaelis, born Eichborn, was a mortgage creditor on Pszczew."
-  bio_de: "Der Name bezeichnet drei Personen. Ein Kaufmann Michaelis lieferte 1809 Eisen und schoss Triebenfeld Geld vor; ein Hoffiskal Michaelis war 1798 Agent in Berlin; und Christiane Dorothea Michaelis, geborene Eichborn, war Hypothekengläubigerin auf Betsche."
-  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "78", url: "/documents/oe1bu9454/78/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "81", url: "/documents/oe1bu9454/81/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "92", url: "/documents/oe1bu9454/92/"}, {id: "106", url: "/documents/oe1bu9454/106/"}, {id: "26", url: "/documents/oe1bu14525/26/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "5", url: "/documents/oe1bu14526/5/"}, {id: "4", url: "/documents/oe1bu14526/4/"}, {id: "10", url: "/documents/oe1bu14526/10/"}, {id: "180", url: "/documents/oe1bu9454/180/"}, {id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "49", url: "/documents/oe1bu9454/49/"}, {id: "54", url: "/documents/oe1bu9454/54/"}, {id: "56", url: "/documents/oe1bu9454/56/"}, {id: "57", url: "/documents/oe1bu9454/57/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
+- slug: "michaelis-hoffiskal"
+  name: "Michaelis (court fiscal)"
+  heading: "Michaelis (court fiscal)"
+  heading_de: "Michaelis (Hoffiskal)"
+  count: 7
+  life: "documented 1798-1799"
+  life_de: "belegt 1798-1799"
+  bio: "A court fiscal in Berlin who acted as Hohenlohe-Ingelfingen's agent in 1798, during the attempt to exchange the estates for Krotoszyn and Polajewo, and wrote to him himself."
+  bio_de: "Ein Hoffiskal in Berlin, der 1798, während des Versuchs, die Güter gegen Krotoszyn und Polajewo zu tauschen, als Agent Hohenlohe-Ingelfingens tätig war und ihm selbst schrieb."
+  letters: [{id: "77", url: "/documents/oe1bu9454/77/"}, {id: "78", url: "/documents/oe1bu9454/78/"}, {id: "79", url: "/documents/oe1bu9454/79/"}, {id: "81", url: "/documents/oe1bu9454/81/"}, {id: "83", url: "/documents/oe1bu9454/83/"}, {id: "92", url: "/documents/oe1bu9454/92/"}, {id: "106", url: "/documents/oe1bu9454/106/"}]
+- slug: "michaelis-kaufmann"
+  name: "Michaelis (merchant)"
+  heading: "Michaelis (merchant)"
+  heading_de: "Michaelis (Kaufmann)"
+  count: 8
+  life: "documented 1809"
+  life_de: "belegt 1809"
+  bio: "A merchant who in 1809 advanced Triebenfeld 2,400 Rthl against a contract to deliver 600 hundredweight of iron from Hohenlohe-Ingelfingen's Silesian works."
+  bio_de: "Ein Kaufmann, der Triebenfeld 1809 2.400 Rthl gegen einen Vertrag über die Lieferung von 600 Zentnern Eisen aus Hohenlohe-Ingelfingens schlesischen Hüttenwerken vorschoss."
+  letters: [{id: "43", url: "/documents/oe1bu9454/43/"}, {id: "44", url: "/documents/oe1bu9454/44/"}, {id: "45", url: "/documents/oe1bu9454/45/"}, {id: "20", url: "/documents/oe1bu9454/20/"}, {id: "49", url: "/documents/oe1bu9454/49/"}, {id: "54", url: "/documents/oe1bu9454/54/"}, {id: "56", url: "/documents/oe1bu9454/56/"}, {id: "57", url: "/documents/oe1bu9454/57/"}]
+- slug: "michaelis-christiane"
+  name: "Christiane Dorothea Michaelis"
+  heading: "Michaelis, Christiane Dorothea (née Eichborn)"
+  heading_de: "Michaelis, Christiane Dorothea (née Eichborn)"
+  count: 6
+  life: "documented 1803-1806"
+  life_de: "belegt 1803-1806"
+  bio: "Christiane Dorothea Michaelis, born Eichborn, of Wrocław, widow of a senior district official. She held a mortgage of 5,000 Rthl on the lordship of Pszczew."
+  bio_de: "Christiane Dorothea Michaelis, geborene Eichborn, aus Wrocław, Witwe eines Oberamtsrats. Sie hatte eine Hypothek von 5.000 Rthl auf der Herrschaft Pszczew."
+  letters: [{id: "26", url: "/documents/oe1bu14525/26/"}, {id: "25", url: "/documents/oe1bu14525/25/"}, {id: "18", url: "/documents/oe1bu14526/18/"}, {id: "19", url: "/documents/oe1bu14526/19/"}, {id: "180", url: "/documents/oe1bu9454/180/"}, {id: "303", url: "/documents/oe1bu9454/303/"}]
 - slug: "mitschke"
   name: "Mitschke"
   heading: "Mitschke"
@@ -2329,6 +2387,16 @@
   bio: "Count Wintzingerode, a minister of Württemberg at the Congress of Vienna, who in 1814 claimed for Prince August a legacy under the will of Princess Sacken. Father and son of this name both served Württemberg, and the letters do not say which is meant."
   bio_de: "Graf Wintzingerode, württembergischer Minister auf dem Wiener Kongress, der 1814 für Fürst August ein Vermächtnis aus dem Testament der Fürstin Sacken forderte. Vater und Sohn dieses Namens dienten Württemberg; welcher gemeint ist, sagen die Briefe nicht."
   letters: [{id: "248", url: "/documents/oe1bu9454/248/"}, {id: "263", url: "/documents/oe1bu9454/263/"}, {id: "277", url: "/documents/oe1bu9454/277/"}, {id: "279", url: "/documents/oe1bu9454/279/"}, {id: "6", url: "/documents/oe1bu9454/6/"}]
+- slug: "meyer-wolff"
+  name: "Lipmann Meyer Wolff"
+  heading: "Wolff, Lipmann Meyer"
+  heading_de: "Wolff, Lipmann Meyer"
+  count: 4
+  life: "documented 1800-1810"
+  life_de: "belegt 1800-1810"
+  bio: "Lipmann Meyer Wolff, a Berlin banker and creditor of Hohenlohe-Ingelfingen, who pressed for 20,000 Rthl in 1802 and was one of the few with money to lend in 1805."
+  bio_de: "Lipmann Meyer Wolff, Berliner Bankier und Gläubiger Hohenlohe-Ingelfingens, der 1802 auf 20.000 Rthl drängte und 1805 einer der wenigen war, die noch Geld zu verleihen hatten."
+  letters: [{id: "108", url: "/documents/oe1bu9454/108/"}, {id: "156", url: "/documents/oe1bu9454/156/"}, {id: "158", url: "/documents/oe1bu9454/158/"}, {id: "67", url: "/documents/oe1bu9454/67/"}]
 - slug: "wollenhaupt"
   name: "Wollenhaupt"
   heading: "Wollenhaupt, Johann Wilhelm"

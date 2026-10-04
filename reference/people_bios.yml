@@ -76,9 +76,6 @@ miaczynski:
 prusimski:
   bio: Antoni Prusimski (Ostroróg-Prusimski), Starost of Niszczewice and owner of Trąbczyn, Kamionna and Kolno. The Prussian documents call him one of the leading insurgents of the Polish uprising of 1794; he fled, the crown confiscated his estates, and in 1796 the King granted them to Hohenlohe-Ingelfingen. In 1807 a commission of the Duchy of Warsaw gave them back to his daughter Michalina, who has her own entry. Mentions of his heirs and of the estates named after him are counted here.
   bio_de: Antoni Prusimski (Ostroróg-Prusimski), Starost von Niszczewice und Besitzer von Trąbczyn, Kaemen und Kolno. Die preußischen Akten nennen ihn einen der Hauptinsurgenten des polnischen Aufstands von 1794; er floh, die Krone konfiszierte seine Güter, und 1796 schenkte der König sie Hohenlohe-Ingelfingen. 1807 gab eine Kommission des Herzogtums Warschau sie seiner Tochter Michalina zurück, die einen eigenen Eintrag hat. Erwähnungen seiner Erben und der nach ihm benannten Güter sind hier mitgezählt.
-meyer:
-  bio: A common surname borne by several men in the letters, among them a court councillor Meyer through whom Hohenlohe-Ingelfingen sent instructions in 1808. They cannot always be told apart.
-  bio_de: Ein häufiger Familienname, den in den Briefen mehrere Männer tragen, darunter ein Hofrat Meyer, über den Hohenlohe-Ingelfingen 1808 Weisungen erteilte. Sie lassen sich nicht immer unterscheiden.
 schlabrendorff:
   bio: Count and Countess Schlabrendorff, creditors of Hohenlohe-Ingelfingen. A settlement with the Countess for her children's money ran from 1804, and she agreed to wait until January 1805 for 50,000 Rthl.
   bio_de: Graf und Gräfin Schlabrendorff, Gläubiger Hohenlohe-Ingelfingens. Ein Vergleich mit der Gräfin über die Gelder ihrer Kinder lief seit 1804; sie erklärte sich bereit, bis Januar 1805 auf 50.000 Rthl zu warten.
@@ -100,9 +97,6 @@ zastrow:
   life: "1752-1830"
   bio: Friedrich Wilhelm Christian von Zastrow, Prussian general, adjutant to the King in 1798 and briefly foreign minister in 1807. He stood surety for Triebenfeld in 1808. He too had been granted estates in South Prussia, and the heirs of Hohenlohe-Ingelfingen cited his compensation in 1820.
   bio_de: Friedrich Wilhelm Christian von Zastrow, preußischer General, 1798 Adjutant des Königs und 1807 kurz Außenminister. Er verbürgte sich 1808 für Triebenfeld. Auch er hatte Güter in Südpreußen erhalten, und die Erben Hohenlohe-Ingelfingens beriefen sich 1820 auf seine Entschädigung.
-michaelis:
-  bio: The name covers three people. A merchant Michaelis supplied iron and advanced money to Triebenfeld in 1809; a court fiscal Michaelis acted as agent in Berlin in 1798; and Christiane Dorothea Michaelis, born Eichborn, was a mortgage creditor on Pszczew.
-  bio_de: Der Name bezeichnet drei Personen. Ein Kaufmann Michaelis lieferte 1809 Eisen und schoss Triebenfeld Geld vor; ein Hoffiskal Michaelis war 1798 Agent in Berlin; und Christiane Dorothea Michaelis, geborene Eichborn, war Hypothekengläubigerin auf Betsche.
 beyme:
   life: "1765-1838"
   bio: Karl Friedrich von Beyme, cabinet councillor to Friedrich Wilhelm III and later Grand Chancellor of Prussia. He presented the petitions of Hohenlohe-Ingelfingen to the King from 1798.
@@ -253,9 +247,6 @@ echaust:
 goeschel:
   bio: An agent of the house of Hohenlohe at the Congress of Vienna, who submitted notes to the Congress and for whom Triebenfeld requested a power of attorney.
   bio_de: Ein Bevollmächtigter des Hauses Hohenlohe auf dem Wiener Kongress, der Noten beim Kongress einreichte und für den Triebenfeld eine Vollmacht erbat.
-goldbeck:
-  bio: Two men. Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, countersigned the charters of 1796. A von Goldbeck who became president of the chamber at Kalisz in 1805 supported the division of the estates.
-  bio_de: Zwei Männer. Heinrich Julius von Goldbeck (1733-1818), preußischer Großkanzler, zeichnete die Urkunden von 1796 gegen. Ein von Goldbeck, der 1805 Präsident der Kammer in Kalisch wurde, unterstützte die Teilung der Güter.
 kwilecki:
   bio: Justice of the peace at Konin in the Duchy of Warsaw, before whom the suit for the recovery of Trąbczyn opened in 1810. A von Kwilecki also appears in 1805 in a dispute over timber rights at Kamionna.
   bio_de: Friedensrichter in Konin im Herzogtum Warschau, vor dem 1810 die Klage auf Rückgabe von Trąbczyn begann. Ein von Kwilecki erscheint auch 1805 in einem Streit um Holzrechte bei Kaemen.
@@ -529,9 +520,6 @@ dohna:
 flesch:
   bio: A broker in a proposed exchange of estates in 1810, whom Triebenfeld came to suspect of fraud.
   bio_de: Ein Unterhändler bei einem 1810 vorgeschlagenen Gütertausch, den Triebenfeld bald des Betrugs verdächtigte.
-kleist:
-  bio: Two men. A General Kleist repeated at Kalisz in 1812 a charge that Triebenfeld pocketed the estate revenues; a chief forester von Kleist is named in 1813.
-  bio_de: Zwei Männer. Ein General Kleist wiederholte 1812 in Kalisch den Vorwurf, Triebenfeld stecke die Gutseinkünfte ein; ein Oberforstmeister von Kleist wird 1813 genannt.
 massow:
   bio: A Prussian official named in 1809 and 1810. The letters do not say which bearer of the name is meant.
   bio_de: Ein 1809 und 1810 genannter preußischer Beamter. Welcher Träger des Namens gemeint ist, sagen die Briefe nicht.
@@ -806,3 +794,38 @@ uminski:
 zglinski:
   bio: A lessee on the estates whose lease was cancelled or shortened in 1806.
   bio_de: Ein Pächter auf den Gütern, dessen Pachtvertrag 1806 aufgehoben oder verkürzt wurde.
+# Split 2026-10-04 (editor: one entry per person).
+michaelis-hoffiskal:
+  bio: A court fiscal in Berlin who acted as Hohenlohe-Ingelfingen's agent in 1798, during the attempt to exchange the estates for Krotoszyn and Polajewo, and wrote to him himself.
+  bio_de: Ein Hoffiskal in Berlin, der 1798, während des Versuchs, die Güter gegen Krotoszyn und Polajewo zu tauschen, als Agent Hohenlohe-Ingelfingens tätig war und ihm selbst schrieb.
+michaelis-christiane:
+  bio: Christiane Dorothea Michaelis, born Eichborn, of Wrocław, widow of a senior district official. She held a mortgage of 5,000 Rthl on the lordship of Pszczew.
+  bio_de: Christiane Dorothea Michaelis, geborene Eichborn, aus Wrocław, Witwe eines Oberamtsrats. Sie hatte eine Hypothek von 5.000 Rthl auf der Herrschaft Pszczew.
+michaelis-kaufmann:
+  bio: A merchant who in 1809 advanced Triebenfeld 2,400 Rthl against a contract to deliver 600 hundredweight of iron from Hohenlohe-Ingelfingen's Silesian works.
+  bio_de: Ein Kaufmann, der Triebenfeld 1809 2.400 Rthl gegen einen Vertrag über die Lieferung von 600 Zentnern Eisen aus Hohenlohe-Ingelfingens schlesischen Hüttenwerken vorschoss.
+goldbeck:
+  life: "1733-1818"
+  bio: Heinrich Julius von Goldbeck, Grand Chancellor of Prussia and minister of justice. He countersigned the charters of 1796 granting the estates to Hohenlohe-Ingelfingen.
+  bio_de: Heinrich Julius von Goldbeck, preußischer Großkanzler und Justizminister. Er zeichnete die Urkunden von 1796 gegen, mit denen Hohenlohe-Ingelfingen die Güter verliehen wurden.
+goldbeck-kalisz:
+  bio: A von Goldbeck who became president of the War and Domains Chamber at Kalisz in 1805 and supported the division of the estates among settlers.
+  bio_de: Ein von Goldbeck, der 1805 Präsident der Kriegs- und Domänenkammer in Kalisz wurde und die Aufteilung der Güter an Siedler unterstützte.
+kleist-general:
+  bio: A Prussian General Kleist, said in 1810 to be about to succeed Köckritz at the King's side. At Kalisz in 1812 he repeated a charge that Triebenfeld kept the estates' revenues for himself.
+  bio_de: Ein preußischer General Kleist, von dem es 1810 hieß, er werde Köckritz an der Seite des Königs nachfolgen. 1812 wiederholte er in Kalisz den Vorwurf, Triebenfeld behalte die Einkünfte der Güter für sich.
+kleist-oberforstmeister:
+  bio: A chief forester von Kleist, for whom Triebenfeld delivered a letter in June 1813; he was away, and it was left with his wounded son.
+  bio_de: Ein Oberforstmeister von Kleist, für den Triebenfeld im Juni 1813 einen Brief überbrachte; er war verreist, und der Brief blieb bei seinem verwundeten Sohn.
+meyer-wolff:
+  bio: Lipmann Meyer Wolff, a Berlin banker and creditor of Hohenlohe-Ingelfingen, who pressed for 20,000 Rthl in 1802 and was one of the few with money to lend in 1805.
+  bio_de: Lipmann Meyer Wolff, Berliner Bankier und Gläubiger Hohenlohe-Ingelfingens, der 1802 auf 20.000 Rthl drängte und 1805 einer der wenigen war, die noch Geld zu verleihen hatten.
+meyer-hofrat:
+  bio: A court councillor through whom Hohenlohe-Ingelfingen sent instructions to his Berlin lawyer Amelang in 1808, and who in 1805 offered to take over a claim of young Eysenhardt's.
+  bio_de: Ein Hofrat, über den Hohenlohe-Ingelfingen 1808 seinem Berliner Rechtsanwalt Amelang Weisungen zukommen ließ und der 1805 anbot, eine Forderung des jungen Eysenhardt zu übernehmen.
+meyer-wrabczyn:
+  bio: A clerk living at the bailiff's house at Wrąbczyn, a friend of the lessee Floricke. In 1804 and 1805 he worked against Triebenfeld, frightening off settlers and hiring out the estate's peasants to the townspeople of Zagórów; he later claimed payment for building works.
+  bio_de: Ein Schreiber, der in der Vogtei in Wrąbczyn wohnte, ein Freund des Pächters Floricke. 1804 und 1805 arbeitete er gegen Triebenfeld, schreckte Siedler ab und vermietete die Untertanen des Gutes an die Bürger von Zagórów; später verlangte er Bezahlung für Bauarbeiten.
+meyer-franz:
+  bio: A creditor named in the list of Hohenlohe-Ingelfingen's debts drawn up about 1816.
+  bio_de: Ein Gläubiger in der um 1816 aufgestellten Liste der Schulden Hohenlohe-Ingelfingens.

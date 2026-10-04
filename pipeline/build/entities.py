@@ -133,8 +133,11 @@ def load_people():
         if not pat:
             continue
         rx = re.compile(_ANCHOR % pat, re.UNICODE)
-        if e.get('span_lines'):
-            rx = _Rx(rx, span=True)
+        # only_in: a surname borne by several people, each found only in the
+        # documents that name him or her (the three Michaelis, 2026-10-04).
+        if e.get('span_lines') or e.get('only_in'):
+            rx = _Rx(rx, span=bool(e.get('span_lines')),
+                     only_in=set(e['only_in']) if e.get('only_in') else None)
         out.append((slug, e.get('display') or slug, rx))
         covered.append(re.compile(pat, re.UNICODE))
         # The same person named by a form that is only his in some documents

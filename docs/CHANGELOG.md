@@ -1375,6 +1375,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   Z-A, most mentions and fewest mentions as options; equal counts stay A-Z. The person
   filter on Browse uses the same headings and order.
 
+- **People: one entry per person** (editor, 2026-10-04). Michaelis, Goldbeck, Kleist and
+  Meyer each covered several people. They are now eleven entries, each found only in the
+  documents that name that person (a new `only_in` in reference/people.yml, honoured by
+  entities.py). "Michaelis" as the feast of 29 September (14526-4, -5, -10) no longer
+  counts as a person, and Meyer Bernhard's mentions no longer count under a separate
+  "Meyer". Open points in NEEDS_CONFIRMATION (Identifications).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -153,10 +153,22 @@ people:
     tier: "Role unclear"
     variants: ["Goeschel"]
   goldbeck:
-    display: "Goldbeck"
+    display: "Heinrich Julius von Goldbeck"
     match: "Goldbeck"
-    tier: "Context-inferred, title abbreviation not resolved"
+    # Two men of the name, told apart by date (editor, 2026-10-04: one entry
+    # per person): the Grand Chancellor in 1796-98, the president at Kalisz
+    # from 1805.
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79]
+    tier: "Externally confirmed"
     variants: []
+    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79)."
+  goldbeck-kalisz:
+    display: "President von Goldbeck"
+    match: "Goldbeck"
+    only_in: [oe1bu9454-152, oe1bu9454-162, oe1bu9454-168, oe1bu9454-172]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "A von Goldbeck who came to Kalisz as president of the chamber in 1805 and supported the division of the estates (letters 152, 162, 168, 172). Forename not established. Split 2026-10-04."
   graevenitz:
     display: "Grävenitz"
     match: "Grävenitz"
@@ -365,27 +377,30 @@ people:
     match: "Metzig"
     tier: ""
     variants: []
-  michaelis:
-    display: "Michaelis"
-    match: "Michaelis"
-    tier: "Context-inferred (roles named), individuals not separated"
-    identity: >-
-      Named in three roles across the corpus: der Kaufmann Michaelis (the
-      merchant, who supplies iron and advances money), der Hof Fiscal
-      Michaelis, and Christiane Dorothea Michaelis geborene Eichborn, the
-      widowed chief district councillor's wife, who appears in the Erbpacht
-      contracts as a mortgage creditor.
-    variants: ["Michelis"]
-    open_questions:
-      - "Three roles, one surname, and nothing yet establishes whether they
-         are one person, two, or three. The merchant and the Hof Fiscal both
-         deal in money and could be the same man in two capacities;
-         Christiane Dorothea is separately identified and is at least a
-         different individual."
-      - "Michaelis is ALSO the feast of 29 September, and 8 of the 38
-         occurrences are that. The termbase matches the feast only after a
-         preposition; an unguarded pattern instructed the translation to
-         render this man as Michaelmas."
+  michaelis-hoffiskal:
+    display: "Michaelis (court fiscal)"
+    match: 'Michaelis(?![a-zà-ÿ])'
+    # One surname, three people, told apart by the documents they are named in
+    # (editor, 2026-10-04: one entry per person). Elsewhere "Michaelis" is the
+    # feast of 29 September (14526-4, -5, -10, and 14526-18's lease terms).
+    only_in: [oe1bu9454-77, oe1bu9454-78, oe1bu9454-79, oe1bu9454-81, oe1bu9454-83, oe1bu9454-92, oe1bu9454-106]
+    tier: "Context-inferred"
+    variants: []
+    identity: "Der Hof Fiscal Michaelis, an agent of the Prince in Berlin in 1798, who signs letters 78, 81 and 92 and is named as Hof Fiscal in 79 and 106. Split from the single Michaelis entry 2026-10-04."
+  michaelis-christiane:
+    display: "Christiane Dorothea Michaelis"
+    match: 'Michaelis(?![a-zà-ÿ])'
+    only_in: [oe1bu14525-25, oe1bu14525-26, oe1bu14526-18, oe1bu14526-19, oe1bu9454-180, oe1bu9454-303]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Christiane Dorothea Michaelis, born Eichborn, of Breslau, widow of an Ober-Amts-Rat, creditor for 5,000 Rthl registered on Pszczew (14525-25, -26; 14526-18, -19). Letter 180 speaks of a matter 'mit der Michaelis' (a woman), and the list of creditors (303) has 5,000 Rthl for a Michaelis in Breslau: both taken as hers. Split 2026-10-04."
+  michaelis-kaufmann:
+    display: "Michaelis (merchant)"
+    match: 'Michaelis(?![a-zà-ÿ])'
+    only_in: [oe1bu9454-43, oe1bu9454-44, oe1bu9454-45, oe1bu9454-20, oe1bu9454-49, oe1bu9454-54, oe1bu9454-56, oe1bu9454-57]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Der Kaufmann Michaelis, who in 1809 advanced Triebenfeld 2,400 Rthl against a contract for 600 hundredweight of iron (letters 43, 44, 45, 20, 49, 54, 56, 57). Split 2026-10-04."
   mlynkiewicz:
     display: "Matheus Młynkiewicz"
     match: "Młynkiewicz"
@@ -1448,3 +1463,45 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "Registry clerk of the foreign department, who countersigned the note of 5 May 1816 attaching Zerboni's report to the file (III. HA MdA, III Nr. 12765). Added 2026-10-01."
+  kleist-general:
+    display: "General Kleist"
+    match: 'Kleist(?![a-zà-ÿ])'
+    # Two men of the name (editor, 2026-10-04: one entry per person).
+    only_in: [oe1bu9454-67, oe1bu9454-17]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "A General Kleist, said in 1810 to be succeeding Köckritz beside the King (letter 67), who repeated at Kalisz in 1812 a charge that Triebenfeld pocketed the estate revenues (17). Which General Kleist is not established. Added 2026-10-04."
+  kleist-oberforstmeister:
+    display: "Oberforstmeister von Kleist"
+    match: 'Kleist(?![a-zà-ÿ])'
+    only_in: [oe1bu9454-239]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "A chief forester von Kleist, away when Triebenfeld delivered a letter for him in June 1813, which he left with his wounded son (letter 239). Added 2026-10-04."
+  meyer-wolff:
+    display: "Lipmann Meyer Wolff"
+    match: '(?:Liep(?:man)?[.:]?|Lecht)\s+Meyer(?:\s+Wolff)?'
+    # "Meyer" names several men (editor, 2026-10-04: one entry per person).
+    # Meyer Bernhard is his own entry (bernhard); these four are the others.
+    tier: "Context-inferred"
+    variants: []
+    identity: "A Berlin banker named as Liepman Meyer (108), Liep Meyer (156), Liep: Meyer Wolff (158) and, misread, Lecht Meyer Wolff (67): a creditor who wanted 20,000 Rthl in 1802 and who in 1805 had money still to lend. Added 2026-10-04."
+  meyer-hofrat:
+    display: "Hofrat Meyer"
+    match: '(?:Ho(?:f|ff|ft)\s*[Rr]ath|H\.\s*p\.|Herr,?)\s+Meyer'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "A court councillor through whom Hohenlohe-Ingelfingen sent instructions to Amelang in 1808 (letter 35), and who offered in 1805 to take over young Eysenhardt's claim (156). Added 2026-10-04."
+  meyer-wrabczyn:
+    display: "Meyer (at Wrąbczyn)"
+    match: 'Meyers?(?![a-zà-ÿ])(?!\s+(?:Bernhard|Wolff|Herz))'
+    only_in: [oe1bu9454-136, oe1bu9454-191, oe1bu9454-149, oe1bu9454-168, oe1bu9454-47]
+    tier: "Context-inferred"
+    variants: []
+    identity: "A clerk living at the Wrąbczyn Voigtey, a secret friend of the lessee Floricke, who in 1804-05 tried to frighten off settlers (136, 191, 168), hired out the Voigtey's subjects to the townspeople of Zagórów (149), and later claimed for building works though, Triebenfeld said, he had never been in the Prince's service (47). Added 2026-10-04."
+  meyer-franz:
+    display: "Franz Meyer"
+    match: 'Franz\.?\s+Meyer'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "A creditor in the list of Hohenlohe-Ingelfingen's debts (letter 303, no. 60). Added 2026-10-04."

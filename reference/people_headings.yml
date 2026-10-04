@@ -35,7 +35,6 @@ gelanski: "Gelanski, Florian"
 glenck: "Glenck, Johann Wilhelm"
 gneust: "Gneust, Andreas Ernst"
 goeschel: "Göschel"
-goldbeck: {en: "Goldbeck (two men)", de: "Goldbeck (zwei Männer)"}
 graevenitz: "Grävenitz"
 grimm: "Grimm"
 guderian: "Guderian"
@@ -69,7 +68,6 @@ meierowitz: "Meierowitz, Franz"
 melzer: "Melzer"
 metternich: "Metternich, Klemens von"
 metzig: "Metzig"
-michaelis: {en: "Michaelis (three men)", de: "Michaelis (drei Männer)"}
 mlynkiewicz: "Młynkiewicz, Matheus"
 napoleon: {en: "Napoleon I, Emperor of the French", de: "Napoleon I., Kaiser der Franzosen"}
 nathan: "Nathan, Salomon"
@@ -234,12 +232,10 @@ garczynski: "Garczyński"
 goerne: "Goerne"
 grotowski: "Grotowski"
 haugwitz: "Haugwitz, Christian von"
-kleist: {en: "Kleist (two men)", de: "Kleist (zwei Männer)"}
 kurnatowski: "Kurnatowski"
 lipski: "Lipski"
 magnuski: "Magnuski"
 massow: "Massow"
-meyer: {en: "Meyer (several men)", de: "Meyer (mehrere Männer)"}
 noldichen: "Nöldichen"
 otto: "Otto"
 pirch: "Pirch, von"
@@ -255,3 +251,14 @@ uminski: "Uminski"
 wartensleben: {en: "Wartensleben (Counts, father and son)", de: "Wartensleben (Grafen, Vater und Sohn)"}
 werner: "Werner"
 zglinski: "Zglinski"
+goldbeck: "Goldbeck, Heinrich Julius von"
+goldbeck-kalisz: {en: "Goldbeck, von (president at Kalisz)", de: "Goldbeck, von (Präsident in Kalisz)"}
+michaelis-hoffiskal: {en: "Michaelis (court fiscal)", de: "Michaelis (Hoffiskal)"}
+michaelis-christiane: "Michaelis, Christiane Dorothea (née Eichborn)"
+michaelis-kaufmann: {en: "Michaelis (merchant)", de: "Michaelis (Kaufmann)"}
+kleist-general: {en: "Kleist, von (general)", de: "Kleist, von (General)"}
+kleist-oberforstmeister: {en: "Kleist, von (chief forester)", de: "Kleist, von (Oberforstmeister)"}
+meyer-wolff: "Wolff, Lipmann Meyer"
+meyer-hofrat: {en: "Meyer (court councillor)", de: "Meyer (Hofrat)"}
+meyer-wrabczyn: {en: "Meyer (clerk at Wrąbczyn)", de: "Meyer (Schreiber in Wrąbczyn)"}
+meyer-franz: "Meyer, Franz"

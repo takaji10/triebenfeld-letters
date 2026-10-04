@@ -133,6 +133,20 @@ Places (`reference/places.yml`, `open_questions`):
 - To split when the documents arrive: Łukomskie Olędry (two places under one
   name) and Trombschino-Hauland (now matched to Trąbczyn).
 
+- **People split into one entry each (2026-10-04).** Michaelis (court fiscal 1798;
+  merchant 1809; Christiane Dorothea, née Eichborn), Goldbeck (the Grand Chancellor; the
+  president at Kalisz from 1805), Kleist (a general; a chief forester) and Meyer (Lipmann
+  Meyer Wolff; a court councillor; the clerk at Wrąbczyn; Franz Meyer) are now separate
+  people, assigned document by document (`only_in` in reference/people.yml). To confirm:
+  - letter 180 ("die Sache mit der Michaelis") and 303 (5,000 Rthl, "Michaelis in
+    Breslau") are taken as Christiane Dorothea's;
+  - "Lecht Meyer Wolff" (67) is taken as a misreading of Liep. Meyer Wolff;
+  - not assigned to anyone: "wie selbst Meyer weis" (112, 1802) and the Meyer who took
+    100,000 francs to Koblenz for the French king (262).
+  - Still collective, because the documents name them together: the Kuh brothers, the
+    Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
+    Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
+
 ## Translations
 
 All 421 English translations are machine drafts (`status: draft` in
