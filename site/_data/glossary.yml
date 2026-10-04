@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 52
+  docs: 54
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -891,7 +891,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 68
+  docs: 71
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -1328,7 +1328,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 71
+  docs: 85
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1423,7 +1423,7 @@
   initial_en: "C"
   sort_de: "cabinets-ordre"
   initial_de: "C"
-  docs: 17
+  docs: 23
 - id: "landrath"
   kind: "law"
   lang: "de"
@@ -1499,7 +1499,7 @@
   initial_en: "K"
   sort_de: "kammergericht"
   initial_de: "K"
-  docs: 4
+  docs: 10
 - id: "friedensgericht"
   kind: "law"
   lang: "de"
@@ -1575,7 +1575,7 @@
   initial_en: "E"
   sort_de: "ex officio"
   initial_de: "E"
-  docs: 6
+  docs: 8
 - id: "in-solidum"
   kind: "law"
   lang: "la"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 339
+  docs: 341
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1670,7 +1670,7 @@
   initial_en: "L"
   sort_de: "liebden"
   initial_de: "L"
-  docs: 27
+  docs: 29
 - id: "hochwohlgeboren"
   kind: "title"
   lang: "de"
@@ -1689,7 +1689,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 57
+  docs: 59
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 339
+  docs: 347
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1727,7 +1727,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 164
+  docs: 166
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"
@@ -1746,7 +1746,7 @@
   initial_en: "H"
   sort_de: "unterthanigster diener, treuester knecht"
   initial_de: "U"
-  docs: 184
+  docs: 186
 - id: "ersterbe"
   kind: "phrase"
   lang: "de"
@@ -1765,7 +1765,7 @@
   initial_en: "I"
   sort_de: "ersterbe"
   initial_de: "E"
-  docs: 174
+  docs: 175
 - id: "term-days"
   kind: "phrase"
   lang: "de"
@@ -1822,7 +1822,7 @@
   initial_en: "D"
   sort_de: "geruhen"
   initial_de: "G"
-  docs: 104
+  docs: 106
 - id: "locus-sigilli"
   kind: "phrase"
   lang: "la"
@@ -1917,7 +1917,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 35
+  docs: 38
 - id: "d-j"
   kind: "phrase"
   lang: "de"
@@ -1936,7 +1936,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 32
+  docs: 33
 - id: "pct"
   kind: "phrase"
   lang: "la"
@@ -1974,7 +1974,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 80
+  docs: 82
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

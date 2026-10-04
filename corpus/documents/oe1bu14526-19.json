@@ -714,17 +714,6 @@
    "doc_line": 135
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 5,
-   "page_id": "0125_a2",
-   "scan": "Oe_1_Bu_14526_0125_a2-L19_05.jpg",
-   "line": 6446,
-   "doc_line": 137
-  },
-  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",
@@ -758,19 +747,8 @@
    "doc_line": 150
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 6,
-   "page_id": "0126_a1",
-   "scan": "Oe_1_Bu_14526_0126_a1-L19_06.jpg",
-   "line": 6460,
-   "doc_line": 150
-  },
-  {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-christiane",
+   "display": "Christiane Dorothea Michaelis",
    "kind": "person",
    "surface": "Michaelis",
    "page": 6,
@@ -802,28 +780,6 @@
    "doc_line": 161
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 6,
-   "page_id": "0126_a1",
-   "scan": "Oe_1_Bu_14526_0126_a1-L19_06.jpg",
-   "line": 6471,
-   "doc_line": 161
-  },
-  {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 7,
-   "page_id": "0126_a2",
-   "scan": "Oe_1_Bu_14526_0126_a2-L19_07.jpg",
-   "line": 6486,
-   "doc_line": 175
-  },
-  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",
@@ -833,17 +789,6 @@
    "scan": "Oe_1_Bu_14526_0126_a2-L19_07.jpg",
    "line": 6487,
    "doc_line": 176
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 8,
-   "page_id": "0127_a1",
-   "scan": "Oe_1_Bu_14526_0127_a1-L19_08.jpg",
-   "line": 6525,
-   "doc_line": 213
   },
   {
    "entity": "bornstaedt",
@@ -943,17 +888,6 @@
    "scan": "Oe_1_Bu_14526_0129_a2-L19_13.jpg",
    "line": 6649,
    "doc_line": 332
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 13,
-   "page_id": "0129_a2",
-   "scan": "Oe_1_Bu_14526_0129_a2-L19_13.jpg",
-   "line": 6671,
-   "doc_line": 354
   },
   {
    "entity": "bornstaedt",

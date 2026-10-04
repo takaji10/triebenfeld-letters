@@ -80,17 +80,6 @@
  ],
  "mentions": [
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 2,
-   "page_id": "0229_a",
-   "scan": "Oe_1_Bu_9454_0229_a-L112_02.jpg",
-   "line": 8619,
-   "doc_line": 25
-  },
-  {
    "entity": "prinz-george",
    "display": "Prinz George",
    "kind": "person",

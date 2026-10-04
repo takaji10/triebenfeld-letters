@@ -92,7 +92,7 @@
  "mentions": [
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -114,7 +114,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -125,7 +125,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -136,7 +136,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -168,8 +168,8 @@
    "doc_line": 19
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 2,
@@ -179,8 +179,8 @@
    "doc_line": 32
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 2,
@@ -223,7 +223,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface_de": "Lahr",
    "surface_en": "Lahr",
@@ -294,8 +294,8 @@
    "page": 2
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",
@@ -393,7 +393,7 @@
  "translation": [
   {
    "page": 1,
-   "en": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3,000 Rthl, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2,000 Rthl. Now there lie pledged 2 obligations of mine at 1,000 Rthl each, for 800 Rthl.\n\n2 at 300 Rthl for 360 Rthl, 1 at 400 Rthl for 340 Rthl; these are = 3,000 Rthl in papers for Lahr, but the costs now 1,500 Rthl, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9,000 Rthl which at that time had to be deposited to cover the 5,000 Rthl which von der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 Rthl in interest. I also gave his bookkeeper and the broker Oldekopp 118 Rthl. These are = 2,068 Rthl.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1,500 Rthl in Courant will be saved)",
+   "en": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3,000 Rthl, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2,000 Rthl. Now there lie pledged 2 obligations of mine at 1,000 Rthl each, for 800 Rthl.\n\n2 at 300 Rthl for 360 Rthl, 1 at 400 Rthl for 340 Rthl; these are = 3,000 Rthl in papers for Lahr, but the costs now 1,500 Rthl, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9,000 Rthl which at that time had to be deposited to cover the 5,000 Rthl which van der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 Rthl in interest. I also gave his bookkeeper and the broker Oldekopp 118 Rthl. These are = 2,068 Rthl.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1,500 Rthl in Courant will be saved)",
    "names": [
     {
      "de": "Lahrsche",
@@ -522,7 +522,7 @@
    ]
   }
  ],
- "text_english": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3,000 Rthl, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2,000 Rthl. Now there lie pledged 2 obligations of mine at 1,000 Rthl each, for 800 Rthl.\n\n2 at 300 Rthl for 360 Rthl, 1 at 400 Rthl for 340 Rthl; these are = 3,000 Rthl in papers for Lahr, but the costs now 1,500 Rthl, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9,000 Rthl which at that time had to be deposited to cover the 5,000 Rthl which von der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 Rthl in interest. I also gave his bookkeeper and the broker Oldekopp 118 Rthl. These are = 2,068 Rthl.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1,500 Rthl in Courant will be saved)\n\n2,068 Rthl quickly, and likewise how I may satisfy Mathieu — who in the end means to hold me fast for 1,000 Rthl Courant or 1,500 Rthl in coin — so as to be able to travel.\n\nThe merchant Michaelis made me the offer yesterday that, if Your Serene Highness would let him have 600 Centner of iron at 4 Rthl by the month of May, he would then at once settle the 2,068 Rthl together with interest and costs. The iron would, however, have to be delivered to him free as far as Opole.\n\nReckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — the 600 Centner of bar and hoop iron must surely be a trifle for you to give, and at no cost. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have laid out here in cash, amount to 521 Rthl. These I beg to have repaid to me in cash as quickly as possible. Likewise I ask for the execution and other costs which the French gendarmerie, whom I have had to feed and pay here, have caused — these amount to 411 Rthl.\n\nThese are 932 Rthl Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, namely the 932 Rthl in cash and the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I affirm that I shall thereupon continue with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nAnswered, as desired.\n\n3rd February 1809, to Berlin. von Triebenfeld",
+ "text_english": "44 My longing to be able to lay myself personally at Your Most Serene Highness's feet as soon as possible is without bounds — for impatience I could rave.\n\nThe Lahr lawsuit still holds me back, and I must see how the matter is to be managed.\n\nLahr still receives 3,000 Rthl, according to the judgment just now made known to me by Amelang, together with the interest.\n\nHe must take papers, and these would, at the present rate of exchange, come with the interest to about 2,000 Rthl. Now there lie pledged 2 obligations of mine at 1,000 Rthl each, for 800 Rthl.\n\n2 at 300 Rthl for 360 Rthl, 1 at 400 Rthl for 340 Rthl; these are = 3,000 Rthl in papers for Lahr, but the costs now 1,500 Rthl, and this[?] I must have in order to be able to redeem them at once.\n\nAs soon as I have these, I am at least free. To Coste I yesterday successfully returned the 9,000 Rthl which at that time had to be deposited to cover the 5,000 Rthl which van der Lahr gave upon Zastrow, my own, and the Grevenitz bill of exchange, and I paid him 450 Rthl in interest. I also gave his bookkeeper and the broker Oldekopp 118 Rthl. These are = 2,068 Rthl.\n\nAs soon as I receive these, this dreadful business, which has robbed me of health, peace, honour and credit, is got out of the way. Your Serene Highness, however, loses little thereby, because the French Government has ordered these moneys to be reimbursed out of the Zagórów estates. My foremost Chamber is how I [may] this (also 1,500 Rthl in Courant will be saved)\n\n2,068 Rthl quickly, and likewise how I may satisfy Mathieu — who in the end means to hold me fast for 1,000 Rthl Courant or 1,500 Rthl in coin — so as to be able to travel.\n\nThe merchant Michaelis made me the offer yesterday that, if Your Serene Highness would let him have 600 Centner of iron at 4 Rthl by the month of May, he would then at once settle the 2,068 Rthl together with interest and costs. The iron would, however, have to be delivered to him free as far as Opole.\n\nReckoning upon Your Serene Highness's grace, I shall, if Michaelis keeps his word, conclude this contract — the 600 Centner of bar and hoop iron must surely be a trifle for you to give, and at no cost. The lawsuit with Oppenheimer and the many messengers and other costs to South Prussia, which I have laid out here in cash, amount to 521 Rthl. These I beg to have repaid to me in cash as quickly as possible. Likewise I ask for the execution and other costs which the French gendarmerie, whom I have had to feed and pay here, have caused — these amount to 411 Rthl.\n\nThese are 932 Rthl Courant, and until I receive them I am as good as under arrest and may not stir from the spot. For the very swiftest disposition of this matter, namely the 932 Rthl in cash and the promise of the 600 Centner of iron, I beg Your Serene Highness as urgently as most heartily, and I affirm that I shall thereupon continue with the most glowing zeal to help bring all Your Most High affairs into the best course.\n\nAnswered, as desired.\n\n3rd February 1809, to Berlin. von Triebenfeld",
  "summary_en": "The Lahr lawsuit is keeping Triebenfeld back: according to the judgement communicated by Amelang, Lahr is to receive a further 3,000 Rthl with interest, but must accept paper. He says he has repaid Coste the 9,000 Rthl and paid 450 Rthl in interest; he needs 2,068 Rthl. By order of the French government these monies are to be reimbursed out of the Zagórów estates. Michaelis is willing to settle the 2,068 Rthl if the Prince delivers him 600 Centner of iron at 4 Rthl, free to Opole, by May.",
  "summary_de": "Der Lahrsche Prozeß hält Triebenfeld zurück: Lahr erhält laut dem von Amelang mitgeteilten Erkenntnis noch 3000 Rthl nebst Zinsen, muss aber Papiere nehmen. Coste hat er die 9000 Rthl zurückgewährt und 450 Rthl Zinsen gezahlt; er benötigt 2068 Rthl. Laut Befehl des französischen Gouvernements sind diese Gelder aus den Gütern von Zagórów zu erstatten. Michaelis will die 2068 Rthl berichtigen, wenn der Fürst ihm bis Mai 600 Centner Eisen zu 4 Rthl frei Opole liefert.",
  "reading": {

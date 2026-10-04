@@ -226,8 +226,8 @@
    "doc_line": 42
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 2,
@@ -237,8 +237,8 @@
    "doc_line": 44
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 2,
@@ -348,7 +348,7 @@
   },
   {
    "entity": "goldbeck",
-   "display": "Goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
    "kind": "person",
    "surface": "Goldbeck",
    "page": 3,
@@ -424,8 +424,8 @@
    "doc_line": 85
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 4,
@@ -558,8 +558,8 @@
    "page": 2
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",
@@ -671,7 +671,7 @@
   },
   {
    "entity": "goldbeck",
-   "display": "Goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
    "kind": "person",
    "surface_de": "Goldbeck",
    "surface_en": "Goldbeck",
@@ -734,8 +734,8 @@
    "page": 4
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",

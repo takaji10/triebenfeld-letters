@@ -1430,6 +1430,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   document page, a place named in the text links to the Places page only where it is also an
   estate.
 
+- **Nr. 3709 transcribed** (2026-10-04). The editor supplied the transcriptions of I. HA GR, Rep. 7 C,
+  Nr. 3709 and a second reading of its French petition. The file is divided into fifteen documents
+  (one per letter, order or draft), the receiving office's writing set apart, 57 words corrected on
+  the witness of the file's own twins and formulas, the Grand Chancellor's paraph given as
+  G[oldbeck], and each document summarised in German and English. It is the suit for Brzyce
+  ("Brzezier Güter"), now tagged as that estate. The holding's page, the timeline entry and the
+  paragraph of the era essay are rewritten from the text, in both languages. The edition has 441
+  documents. Not yet translated; the summaries have not had the claim check. See
+  `units/ihagrrep7cnr3709/notes.md`.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

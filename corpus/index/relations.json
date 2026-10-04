@@ -6,10 +6,64 @@
   "note": "Cites 'die Urkunde vom 19. Juny d. J. bereits verliehenen Gütern: Betschen, Zagórów und Wienietz'. Dated 1 December 1797, so 'd. J.' is 1797."
  },
  {
+  "from": "ihagrrep7cnr3709-1",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr3709-2",
+  "note": "'Cabinets Ordre überreichen wir ... abschriftlich anliegend': document 2 is that copy."
+ },
+ {
+  "from": "ihagrrep7cnr3709-4",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-1",
+  "note": "The King returns the case files 'mittelst Berichts vom 18ten v. M. ... eingesandten': sent in with the report of 18 June, of which this file holds the copy for the Grand Chancellor."
+ },
+ {
+  "from": "ihagrrep7cnr3709-3",
+  "kind": "transmits",
+  "to": "ihagrrep7cnr3709-4",
+  "note": "'in der Anlage eine Abschrift der Cabinets-Ordre vom 1ten ... hujus': document 4 is that copy."
+ },
+ {
   "from": "oe1bu14525-29",
   "kind": "answers",
   "to": "oe1bu14525-30",
   "note": "Written to obey 'Euer Königlichen Majestät allerhöchstem Befehl vom 18 November ... nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll'. Document 30 is that order, of 18 November 1800, over the same estates. Note that 29 is subscribed 'Breslau den 3ten Novbr 1800', which is BEFORE the order it answers: ruled by the editor, 2026-09-17, an error in the original document rather than a misreading, so the link stands and the date is left as written."
+ },
+ {
+  "from": "ihagrrep7cnr3709-6",
+  "kind": "supplements",
+  "to": "ihagrrep7cnr3709-5",
+  "note": "The Prince's covering letter to his petition of the same day: 'mein Bittschreiben noch mit diesen wenigen Worten zu begleiten'."
+ },
+ {
+  "from": "ihagrrep7cnr3709-7",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-5",
+  "note": "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
+ },
+ {
+  "from": "ihagrrep7cnr3709-11",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-5",
+  "note": "'Ew: Durchlauchten Wunsch, daß Hochdero Rechts-Sache ... nicht von der Regierung zu Posen abgeurtelt werde': the Prince's petition of 30 November."
+ },
+ {
+  "from": "ihagrrep7cnr3709-12",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-8",
+  "note": "'Ad Rescriptum clementissimum vom 7ten': the rescript of 7 December to the government at Poznań."
+ },
+ {
+  "from": "ihagrrep7cnr3709-13",
+  "kind": "supersedes",
+  "to": "ihagrrep7cnr3709-9",
+  "note": "'es kann folglich das obangezogene Rescript keine Anwendung finden': the rescript of 7 December to the government at Warsaw."
+ },
+ {
+  "from": "ihagrrep7cnr3709-14",
+  "kind": "supplements",
+  "to": "ihagrrep7cnr3709-11",
+  "note": "Tells the Prince that the order announced on 7 December came too late for the first instance."
  },
  {
   "from": "oe1bu14525-27",

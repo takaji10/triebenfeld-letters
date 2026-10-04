@@ -2893,10 +2893,51 @@
   "permalink": "/documents/oe1bu9454/101/"
  },
  {
+  "uid": "ihagrrep7cnr3709-2",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "2",
+  "doc_type": "royal_rescript",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-06-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Charlottenburg",
+  "sender": "König Friedrich Wilhelm III. von Preußen",
+  "recipient": "Südpreußische Regierung zu Posen",
+  "n_pages": 1,
+  "n_lines": 14,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0003_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "royal rescript 2",
+  "path": "documents/ihagrrep7cnr3709-2.json",
+  "text_path": "text/ihagrrep7cnr3709-2.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/2/"
+ },
+ {
   "uid": "ihagrrep7cnr3709-1",
   "unit": "ihagrrep7cnr3709",
   "letter_id": "1",
-  "doc_type": "document",
+  "doc_type": "letter",
   "language": "de",
   "era": "hohenlohe",
   "themes": [],
@@ -2904,119 +2945,31 @@
   "date_iso": "1800-06-18",
   "date_precision": "day",
   "date_source": "dateline",
-  "place": "Unknown",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 19,
-  "n_lines": 20,
+  "place": "Posen",
+  "sender": "Südpreußische Regierung zu Posen",
+  "recipient": "König Friedrich Wilhelm III. von Preußen",
+  "n_pages": 1,
+  "n_lines": 34,
   "scans": [
    {
     "page": 1,
     "page_id": "0002_a2",
     "image": "I_HA_Rep_7_C_Nr_3709_0002_a2-L1_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0003_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "0004_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0004_a2-L1_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "0005_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0005_a2-L1_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "0007_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0007_a2-L1_05.jpg"
-   },
-   {
-    "page": 6,
-    "page_id": "0008_a",
-    "image": "I_HA_Rep_7_C_Nr_3709_0008_a-L1_06.jpg"
-   },
-   {
-    "page": 7,
-    "page_id": "0009_a",
-    "image": "I_HA_Rep_7_C_Nr_3709_0009_a-L1_07.jpg"
-   },
-   {
-    "page": 8,
-    "page_id": "0010_a",
-    "image": "I_HA_Rep_7_C_Nr_3709_0010_a-L1_08.jpg"
-   },
-   {
-    "page": 9,
-    "page_id": "0011_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0011_a2-L1_09.jpg"
-   },
-   {
-    "page": 10,
-    "page_id": "0012_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0012_a2-L1_10.jpg"
-   },
-   {
-    "page": 11,
-    "page_id": "0013_a",
-    "image": "I_HA_Rep_7_C_Nr_3709_0013_a-L1_11.jpg"
-   },
-   {
-    "page": 12,
-    "page_id": "0014_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0014_a2-L1_12.jpg"
-   },
-   {
-    "page": 13,
-    "page_id": "0015_a1",
-    "image": "I_HA_Rep_7_C_Nr_3709_0015_a1-L1_13.jpg"
-   },
-   {
-    "page": 14,
-    "page_id": "0016_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0016_a2-L1_14.jpg"
-   },
-   {
-    "page": 15,
-    "page_id": "0017_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0017_a2-L1_15.jpg"
-   },
-   {
-    "page": 16,
-    "page_id": "0018_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0018_a2-L1_16.jpg"
-   },
-   {
-    "page": 17,
-    "page_id": "0019_a1",
-    "image": "I_HA_Rep_7_C_Nr_3709_0019_a1-L1_17.jpg"
-   },
-   {
-    "page": 18,
-    "page_id": "0020_a2",
-    "image": "I_HA_Rep_7_C_Nr_3709_0020_a2-L1_18.jpg"
-   },
-   {
-    "page": 19,
-    "page_id": "0021_a1",
-    "image": "I_HA_Rep_7_C_Nr_3709_0021_a1-L1_19.jpg"
    }
   ],
-  "uncertainty_count": 0,
+  "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 0,
-  "estates": [],
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "brzyce"
+  ],
   "translation_status": "untranslated",
-  "has_summary": false,
-  "has_summary_de": false,
+  "has_summary": true,
+  "has_summary_de": true,
   "legibility": "",
-  "title": "document 1",
+  "title": "letter 1",
   "path": "documents/ihagrrep7cnr3709-1.json",
   "text_path": "text/ihagrrep7cnr3709-1.txt",
   "permalink": "/documents/ihagrrep7cnr3709/1/"
@@ -3100,6 +3053,88 @@
   "path": "documents/oe1bu14525-1.json",
   "text_path": "text/oe1bu14525-1.txt",
   "permalink": "/documents/oe1bu14525/1/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-4",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "4",
+  "doc_type": "royal_rescript",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-07-01",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Charlottenburg",
+  "sender": "König Friedrich Wilhelm III. von Preußen",
+  "recipient": "Südpreußische Regierung zu Posen",
+  "n_pages": 1,
+  "n_lines": 26,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "royal rescript 4",
+  "path": "documents/ihagrrep7cnr3709-4.json",
+  "text_path": "text/ihagrrep7cnr3709-4.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/4/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-3",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-07-10",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Posen",
+  "sender": "Südpreußische Regierung zu Posen",
+  "recipient": "König Friedrich Wilhelm III. von Preußen",
+  "n_pages": 1,
+  "n_lines": 39,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 3,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 3",
+  "path": "documents/ihagrrep7cnr3709-3.json",
+  "text_path": "text/ihagrrep7cnr3709-3.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/3/"
  },
  {
   "uid": "oe1bu9454-108",
@@ -3319,6 +3354,446 @@
   "path": "documents/oe1bu14525-29.json",
   "text_path": "text/oe1bu14525-29.txt",
   "permalink": "/documents/oe1bu14525/29/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-5",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "5",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-11-30",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Breslau",
+  "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "recipient": "Goldbeck",
+  "n_pages": 2,
+  "n_lines": 26,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0007_a2-L5_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0008_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0008_a-L6_01.jpg"
+   }
+  ],
+  "uncertainty_count": 4,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 5",
+  "path": "documents/ihagrrep7cnr3709-5.json",
+  "text_path": "text/ihagrrep7cnr3709-5.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/5/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-6",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "6",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-11-30",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Breslau",
+  "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "recipient": "Goldbeck",
+  "n_pages": 3,
+  "n_lines": 48,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0008_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0008_a-L6_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0009_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0009_a-L6_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0010_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0010_a-L6_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 6",
+  "path": "documents/ihagrrep7cnr3709-6.json",
+  "text_path": "text/ihagrrep7cnr3709-6.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/6/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-7",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "7",
+  "doc_type": "note",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 25,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0011_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 5,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 7",
+  "path": "documents/ihagrrep7cnr3709-7.json",
+  "text_path": "text/ihagrrep7cnr3709-7.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/7/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-8",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "8",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Südpreußische Regierung zu Posen",
+  "n_pages": 1,
+  "n_lines": 28,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 5,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 8",
+  "path": "documents/ihagrrep7cnr3709-8.json",
+  "text_path": "text/ihagrrep7cnr3709-8.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/8/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-9",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "9",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Südpreußische Regierung zu Warschau",
+  "n_pages": 2,
+  "n_lines": 33,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0012_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0013_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 5,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 9",
+  "path": "documents/ihagrrep7cnr3709-9.json",
+  "text_path": "text/ihagrrep7cnr3709-9.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/9/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-10",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "10",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Ober-Appellations-Senat des Kammergerichts",
+  "n_pages": 1,
+  "n_lines": 29,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0013_a",
+    "image": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 5,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 10",
+  "path": "documents/ihagrrep7cnr3709-10.json",
+  "text_path": "text/ihagrrep7cnr3709-10.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/10/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-11",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "11",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 2,
+  "n_lines": 54,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0014_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0014_a2-L11_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0015_a1",
+    "image": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 6,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 11",
+  "path": "documents/ihagrrep7cnr3709-11.json",
+  "text_path": "text/ihagrrep7cnr3709-11.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/11/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-12",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "12",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-18",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Posen",
+  "sender": "Südpreußische Regierung zu Posen",
+  "recipient": "König Friedrich Wilhelm III. von Preußen",
+  "n_pages": 1,
+  "n_lines": 38,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0016_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0016_a2-L12_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 12",
+  "path": "documents/ihagrrep7cnr3709-12.json",
+  "text_path": "text/ihagrrep7cnr3709-12.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/12/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-13",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "13",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-31",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Südpreußische Regierung zu Warschau",
+  "n_pages": 1,
+  "n_lines": 32,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0017_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 13",
+  "path": "documents/ihagrrep7cnr3709-13.json",
+  "text_path": "text/ihagrrep7cnr3709-13.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/13/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-14",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "14",
+  "doc_type": "draft",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1800-12-31",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "Goldbeck",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 2,
+  "n_lines": 67,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0018_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0018_a2-L14_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0019_a1",
+    "image": "I_HA_Rep_7_C_Nr_3709_0019_a1-L14_02.jpg"
+   }
+  ],
+  "uncertainty_count": 7,
+  "has_damage": true,
+  "rough_transcription": true,
+  "mentions": 3,
+  "places_named": 5,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 14",
+  "path": "documents/ihagrrep7cnr3709-14.json",
+  "text_path": "text/ihagrrep7cnr3709-14.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/14/"
  },
  {
   "uid": "oe1bu14525-41",
@@ -3574,7 +4049,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 2,
   "places_named": 0,
   "estates": [],
   "translation_status": "draft",
@@ -3629,6 +4104,52 @@
   "path": "documents/oe1bu9454-113.json",
   "text_path": "text/oe1bu9454-113.txt",
   "permalink": "/documents/oe1bu9454/113/"
+ },
+ {
+  "uid": "ihagrrep7cnr3709-15",
+  "unit": "ihagrrep7cnr3709",
+  "letter_id": "15",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1802-01-22",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Michalina Prusimska",
+  "recipient": "König Friedrich Wilhelm III. von Preußen",
+  "n_pages": 2,
+  "n_lines": 41,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0020_a2",
+    "image": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0021_a1",
+    "image": "I_HA_Rep_7_C_Nr_3709_0021_a1-L15_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 2,
+  "estates": [
+   "brzyce"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 15",
+  "path": "documents/ihagrrep7cnr3709-15.json",
+  "text_path": "text/ihagrrep7cnr3709-15.txt",
+  "permalink": "/documents/ihagrrep7cnr3709/15/"
  },
  {
   "uid": "oe1bu14525-38",
@@ -6528,7 +7049,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 9,
   "places_named": 5,
   "estates": [
    "betsche",
@@ -6705,7 +7226,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 13,
+  "mentions": 11,
   "places_named": 8,
   "estates": [
    "betsche",
@@ -6883,7 +7404,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 17,
+  "mentions": 15,
   "places_named": 16,
   "estates": [
    "betsche",
@@ -7020,7 +7541,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 17,
+  "mentions": 15,
   "places_named": 16,
   "estates": [
    "betsche",
@@ -7072,7 +7593,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 3,
   "estates": [
    "betsche"
@@ -7148,7 +7669,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 9,
   "places_named": 7,
   "estates": [
    "kolno",
@@ -7195,7 +7716,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
+  "mentions": 3,
   "places_named": 2,
   "estates": [
    "betsche"
@@ -8191,7 +8712,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 3,
   "estates": [
    "szetlewek"
@@ -8311,7 +8832,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 10,
+  "mentions": 8,
   "places_named": 7,
   "estates": [
    "kolno",
@@ -8979,7 +9500,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 15,
+  "mentions": 14,
   "places_named": 8,
   "estates": [
    "kolno",
@@ -9760,7 +10281,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 6,
+  "mentions": 5,
   "places_named": 7,
   "estates": [
    "drzewce",
@@ -10943,7 +11464,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 20,
+  "mentions": 19,
   "places_named": 14,
   "estates": [
    "trabczyn",
@@ -11309,7 +11830,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 11,
   "estates": [
    "zagorowo",
@@ -12269,7 +12790,7 @@
   "uncertainty_count": 3,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 16,
+  "mentions": 17,
   "places_named": 9,
   "estates": [
    "witow",
@@ -12323,7 +12844,7 @@
   "uncertainty_count": 2,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 13,
   "estates": [
    "trabczyn",
@@ -12647,7 +13168,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 4,
   "places_named": 8,
   "estates": [
    "zagorowo"
@@ -12703,7 +13224,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 8,
   "estates": [
    "trabczyn"
@@ -15678,7 +16199,7 @@
   "uncertainty_count": 8,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 27,
+  "mentions": 25,
   "places_named": 12,
   "estates": [
    "trabczyn",
@@ -18288,7 +18809,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 7,
+  "mentions": 6,
   "places_named": 6,
   "estates": [
    "trabczyn",
@@ -18995,7 +19516,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 7,
   "estates": [
    "schlawenschitz",
@@ -20867,7 +21388,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 14,
+  "mentions": 13,
   "places_named": 12,
   "estates": [
    "trabczyn",
@@ -20971,7 +21492,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 21,
+  "mentions": 20,
   "places_named": 9,
   "estates": [
    "trabczyn",
@@ -22155,7 +22676,7 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 14,
+  "mentions": 13,
   "places_named": 7,
   "estates": [
    "betsche",
@@ -23294,7 +23815,7 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 20,
+  "mentions": 19,
   "places_named": 13,
   "estates": [],
   "translation_status": "draft",

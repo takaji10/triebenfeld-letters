@@ -406,17 +406,6 @@
    "doc_line": 30
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 2,
-   "page_id": "0263_a1",
-   "scan": "Oe_1_Bu_9454_0263_a1-L136_02.jpg",
-   "line": 9853,
-   "doc_line": 30
-  },
-  {
    "entity": "koeckritz",
    "display": "Köckritz",
    "kind": "person",
@@ -659,8 +648,8 @@
    "doc_line": 163
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface": "Meyer",
    "page": 9,
@@ -703,8 +692,8 @@
    "doc_line": 176
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface": "Meyer",
    "page": 10,
@@ -1370,8 +1359,8 @@
    "page": 9
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface_de": "Meyer",
    "surface_en": "Meyer",
@@ -1418,8 +1407,8 @@
    "page": 10
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface_de": "Meyer",
    "surface_en": "Meyer",

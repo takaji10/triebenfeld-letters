@@ -125,6 +125,12 @@
   docs: 22
   span: "1804–1811"
   letters: [{id: "129", uid: "oe1bu9454-129", url: "/documents/oe1bu9454/129/"}, {id: "134", uid: "oe1bu9454-134", url: "/documents/oe1bu9454/134/"}, {id: "166", uid: "oe1bu9454-166", url: "/documents/oe1bu9454/166/"}, {id: "179", uid: "oe1bu9454-179", url: "/documents/oe1bu9454/179/"}, {id: "188", uid: "oe1bu9454-188", url: "/documents/oe1bu9454/188/"}, {id: "25", uid: "oe1bu9454-25", url: "/documents/oe1bu9454/25/"}, {id: "26", uid: "oe1bu9454-26", url: "/documents/oe1bu9454/26/"}, {id: "35", uid: "oe1bu9454-35", url: "/documents/oe1bu9454/35/"}, {id: "38", uid: "oe1bu9454-38", url: "/documents/oe1bu9454/38/"}, {id: "42", uid: "oe1bu9454-42", url: "/documents/oe1bu9454/42/"}, {id: "45", uid: "oe1bu9454-45", url: "/documents/oe1bu9454/45/"}, {id: "47", uid: "oe1bu9454-47", url: "/documents/oe1bu9454/47/"}, {id: "20", uid: "oe1bu9454-20", url: "/documents/oe1bu9454/20/"}, {id: "54", uid: "oe1bu9454-54", url: "/documents/oe1bu9454/54/"}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/"}, {id: "57", uid: "oe1bu9454-57", url: "/documents/oe1bu9454/57/"}, {id: "58", uid: "oe1bu9454-58", url: "/documents/oe1bu9454/58/"}, {id: "59", uid: "oe1bu9454-59", url: "/documents/oe1bu9454/59/"}, {id: "67", uid: "oe1bu9454-67", url: "/documents/oe1bu9454/67/"}, {id: "21", uid: "oe1bu9454-21", url: "/documents/oe1bu9454/21/"}, {id: "214", uid: "oe1bu9454-214", url: "/documents/oe1bu9454/214/"}, {id: "218", uid: "oe1bu9454-218", url: "/documents/oe1bu9454/218/"}]
+- slug: "brzyce"
+  name: "Brzyce"
+  count: 21
+  docs: 21
+  span: "1796–1802"
+  letters: [{id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/"}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/"}, {id: "106", uid: "oe1bu9454-106", url: "/documents/oe1bu9454/106/"}, {id: "2", uid: "ihagrrep7cnr3709-2", url: "/documents/ihagrrep7cnr3709/2/"}, {id: "1", uid: "ihagrrep7cnr3709-1", url: "/documents/ihagrrep7cnr3709/1/"}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/"}, {id: "4", uid: "ihagrrep7cnr3709-4", url: "/documents/ihagrrep7cnr3709/4/"}, {id: "3", uid: "ihagrrep7cnr3709-3", url: "/documents/ihagrrep7cnr3709/3/"}, {id: "5", uid: "ihagrrep7cnr3709-5", url: "/documents/ihagrrep7cnr3709/5/"}, {id: "6", uid: "ihagrrep7cnr3709-6", url: "/documents/ihagrrep7cnr3709/6/"}, {id: "7", uid: "ihagrrep7cnr3709-7", url: "/documents/ihagrrep7cnr3709/7/"}, {id: "8", uid: "ihagrrep7cnr3709-8", url: "/documents/ihagrrep7cnr3709/8/"}, {id: "9", uid: "ihagrrep7cnr3709-9", url: "/documents/ihagrrep7cnr3709/9/"}, {id: "10", uid: "ihagrrep7cnr3709-10", url: "/documents/ihagrrep7cnr3709/10/"}, {id: "11", uid: "ihagrrep7cnr3709-11", url: "/documents/ihagrrep7cnr3709/11/"}, {id: "12", uid: "ihagrrep7cnr3709-12", url: "/documents/ihagrrep7cnr3709/12/"}, {id: "13", uid: "ihagrrep7cnr3709-13", url: "/documents/ihagrrep7cnr3709/13/"}, {id: "14", uid: "ihagrrep7cnr3709-14", url: "/documents/ihagrrep7cnr3709/14/"}, {id: "15", uid: "ihagrrep7cnr3709-15", url: "/documents/ihagrrep7cnr3709/15/"}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/"}]
 - slug: "krotoszyn"
   name: "Krotoszyn"
   count: 21
@@ -275,12 +281,6 @@
   docs: 7
   span: "1797–1806"
   letters: [{id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/"}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/"}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/"}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/"}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/"}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/"}, {id: "179", uid: "oe1bu9454-179", url: "/documents/oe1bu9454/179/"}]
-- slug: "brzyce"
-  name: "Brzyce"
-  count: 6
-  docs: 6
-  span: "1796–1802"
-  letters: [{id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/"}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/"}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/"}, {id: "106", uid: "oe1bu9454-106", url: "/documents/oe1bu9454/106/"}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/"}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/"}]
 - slug: "batkowo"
   name: "Bątkowo (Batkowo)"
   count: 6

@@ -207,8 +207,8 @@
    "doc_line": 17
   },
   {
-   "entity": "goldbeck",
-   "display": "Goldbeck",
+   "entity": "goldbeck-kalisz",
+   "display": "President von Goldbeck",
    "kind": "person",
    "surface": "Goldbeck",
    "page": 2,
@@ -251,8 +251,8 @@
    "doc_line": 35
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface": "Meyer",
    "page": 2,
@@ -579,8 +579,8 @@
    "page": 2
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wrabczyn",
+   "display": "Meyer (at Wrąbczyn)",
    "kind": "person",
    "surface_de": "Meyer",
    "surface_en": "Meyer",

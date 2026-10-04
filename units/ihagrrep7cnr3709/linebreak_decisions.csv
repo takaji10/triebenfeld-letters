@@ -1,19 +1,80 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
-1,1,5,7,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,2,7,9,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,3,9,11,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,4,11,13,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,5,13,15,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,6,15,17,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,7,17,19,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,8,19,21,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,9,21,23,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,10,23,25,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,11,25,27,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,12,27,29,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,13,29,31,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,14,31,33,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,15,33,35,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,16,35,37,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,17,37,39,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
-1,18,39,41,,not,not,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,(not transcribed) || (not transcribed)
+1,1,14,15,¬,aller,unterthänigst,allerunterthänigst,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,Die Regierung überreicht aller¬ || unterthänigst Kopiam einer Cabi¬
+1,1,15,16,¬,Cabi,nets,Cabinets,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,unterthänigst Kopiam einer Cabi¬ || nets Ordre.
+1,1,21,22,¬,alleruntertä,nigst,alleruntertänigst,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"abschriftlich anliegend alleruntertä¬ || nigst, und ersterben in devotester Treue"
+2,1,49,50,¬,Prusims,ka,Prusimska,join,high,joined form occurs elsewhere in this corpus,False,15,,0,,1,,"ie beykommende Beschwerde der von Prusims¬ || ka veranlaßt, die in Sachen Ihrer wider de"
+2,1,50,51,¬,Für,sten,Fürsten,join,high,joined form occurs elsewhere in this corpus,False,12,,1,,1,,"anlaßt, die in Sachen Ihrer wider des Für¬ || sten von Hohenlohe Ingelfingen Liebden, we"
+3,1,71,72,-,Cabinets,Ordre,CabinetsOrdre,split,high,joined form unattested; both halves are real words,False,0,17,4,1043,6,8477,"der Anlage eine Abschrift der Cabinets- || Ordre vom 1ten & praes. den 7ten hujus,"
+3,1,75,76,¬,allerun,terthänigst,allerunterthänigst,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"Einsicht und mit dem Bemerken allerun¬ || terthänigst zu übersenden, daß Terminus"
+3,1,77,78,¬,Ver,fahren,Verfahren,join,high,"joined form attested in DWDS (3,849,922 hits)",False,0,3849922,0,,1,,zur Beweisaufnahme und zum Schluß Ver¬ || fahren in dieser Sache auf den 22 ten
+4,1,105,106,¬,Be,richts,Berichts,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Regierung bei Remission der mittelst Be¬ || richts vom 18ten v. M. in Sachen der Micha
+4,1,106,107,¬,Micha,lina,Michalina,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,ichts vom 18ten v. M. in Sachen der Micha¬ || lina v. Prusimska wider des Fürsten zu
+4,1,111,112,¬,In,struction,Instruction,join,high,joined form occurs elsewhere in this corpus,False,1,,37,,1,,"des Beklagten sehr verzögerten In¬ || struction, sich alles Fleisses ange¬"
+4,1,112,113,¬,ange,legen,angelegen,join,high,"joined form attested in DWDS (66,508 hits)",False,0,66508,0,,1,,"struction, sich alles Fleisses ange¬ || legen sein, hiernächst der Sache ange¬"
+4,1,113,114,¬,ange,meßene,angemeßene,join,held,held by hand 2026-10-04: one word broken at the line end,False,0,47,0,12360,1,0,"legen sein, hiernächst der Sache ange¬ || meßene Vergleichs Vorschläge thun"
+4,1,118,119,¬,Er,kenntnisses,Erkenntnisses,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"sollte, für die Beschleunigung des Er¬ || kenntnisses besonders auf den Fall"
+4,1,121,122,¬,Um,stände,Umstände,join,high,"joined form attested in DWDS (2,742,083 hits)",False,0,2742083,0,,1,,bei reiflicher Erwägung aller Um¬ || stände die Gesetze es mit sich brin¬
+4,1,122,123,¬,brin,gen,bringen,join,high,"joined form attested in DWDS (23,899,316 hits)",False,0,23899316,0,,2,,"stände die Gesetze es mit sich brin¬ || gen sollten, daß nochmals in er¬"
+4,1,123,124,¬,er,ster,erster,join,high,joined form occurs elsewhere in this corpus,False,9,,0,,1,,"gen sollten, daß nochmals in er¬ || ster Instanz erkannt werden"
+5,1,138,139,¬,Mit,glieder,Mitglieder,join,high,joined form occurs elsewhere in this corpus,False,6,,12,,1,,"er minorennen Klägerinn betreibt, die Mit¬ || glieder des Pupillen Collegii aber zugleic"
+6,1,162,163,¬,neh,me,nehme,join,high,"joined form attested in DWDS (27,446,580 hits)",False,0,27446580,0,,8,," verzeihen, wenn ich mir die Freyheit neh¬ || me, mein Bittschreiben noch mit diesen wen"
+6,1,166,167,¬,ge,trost,getrost,join,high,"joined form attested in DWDS (165,116 hits)",False,0,165116,1,,1,," ist allzugroß, als daß ich nicht ganz ge¬ || trost der Gewährung meiner dringendsten"
+6,1,169,170,¬,ver,fügen,verfügen,join,high,"joined form attested in DWDS (4,364,048 hits)",False,0,4364048,0,,1,,"Innhalt des Bittschreibens gütigst zu ver¬ || fügen"" entgegen sehen dürfte."
+6,2,179,180,¬,ver,storbenen,verstorbenen,join,high,"joined form attested in DWDS (1,404,028 hits)",False,0,1404028,0,,1,," der Klägerinn an dem Vermögen seiner ver¬ || storbenen Ehegattin auszuüben hatte, ist d"
+6,2,180,181,¬,offen,bar,offenbar,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Ehegattin auszuüben hatte, ist doch offen¬ || bar ein Theil des ihm confiscirten Vermöge"
+6,2,186,187,¬,Zwey,fel,Zweyfel,join,held,held by hand 2026-10-04: one word broken at the line end,False,0,7,0,1823,1,7755,Vergleichsvorschlage den sonderbaren Zwey¬ || fel gegen die Gültigkeit des LebtagsRechts
+6,2,192,193,¬,zu,gleich,zugleich,join,high,joined form occurs elsewhere in this corpus,False,2,,61,,1,,"s die Sache mit soviel Eifer betreibt, zu¬ || gleich Richter in derselben seyn soll, nic"
+6,2,202,204,¬,unbe,grenzten,unbegrenzten,join,review,crosses a page break - check by hand,True,0,402548,0,1176,1,337782,"n Hochdieselben die Versicherung der unbe¬ || grenzten Verehrung annehmen zu wollen, mit"
+7,1,216,217,¬,Vor,mundes,Vormundes,join,high,joined form occurs elsewhere in this corpus,False,4,,1,,1,,und durch das letztere die Klage des Vor¬ || mundes der minorennen Michaelina von
+7,1,218,219,¬,Hohen,lohe,Hohenlohe,join,high,joined form occurs elsewhere in this corpus,False,14,,1,,1,,Prusimska wider den H. Fürsten von Hohen¬ || lohe-Ingelfingen auf Vindication der Brzez
+7,1,229,230,¬,Nach,richt,Nachricht,join,high,joined form occurs elsewhere in this corpus,False,3,,3,,1,,erlaßen und mache ihr solches zur Nach¬ || richt und Achtung hiemit bekannt.
+8,1,245,246,¬,Vormund,schafts,Vormundschafts,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Collegii Mitglieder des dortigen Vormund¬ || schafts-Collegii sind, und durch das letz¬"
+8,1,246,247,¬,letz,tere,letztere,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"schafts-Collegii sind, und durch das letz¬ || tere die Klage des Vormundes der minoren¬"
+8,1,247,248,¬,minoren,nen,minorennen,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,tere die Klage des Vormundes der minoren¬ || nen Michaelina von Prusimska wider den
+8,1,250,251,¬,veran,laßt,veranlaßt,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"auf Vindication der Brzezier Güther veran¬ || laßt, auch unter dessen Direction der Pro¬"
+8,1,251,252,¬,Pro,ceß,Proceß,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"laßt, auch unter dessen Direction der Pro¬ || ceß selbst betrieben worden, und ferner wi"
+8,1,253,254,¬,ver,anlaßt,veranlaßt,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"betrieben werden, so haben wir uns ver¬ || anlaßt gefunden, hiermit festzusetzen,"
+8,1,258,259,¬,Kam,mer,Kammer,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,dem Ober-Appellations-Senate des Kam¬ || mer Gerichtes abgeurthelt werden soll.
+8,1,261,262,¬,Col,legia,Collegia,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"Dato das Nothige an gedachte beyde Col¬ || legia erlassen worden, zur Nachricht und"
+9,1,278,279,¬,mi,norennen,minorennen,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,Schwebet zwischen dem Vormunde der mi¬ || norennen Michaelina von Prusimska
+9,2,285,286,¬,veran,laßt,veranlaßt,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,2,,"durch das dasige Pupillen-Collegium veran¬ || laßt, auch unter dessen Direction der Proz"
+9,2,291,292,¬,In,stanz,Instanz,join,high,joined form occurs elsewhere in this corpus,False,15,,37,,1,,die benannte Rechts-Sache in erster In¬ || stanz von dem Pleno Euers Collegii
+9,2,298,299,¬,Nach,achtung,Nachachtung,join,high,"joined form attested in DWDS (1,732 hits)",False,0,1732,3,,4,,htiget worden Wir euch hierdurch zur Nach¬ || achtung bekannt machen.
+10,1,308,309,¬,Mi,chaelina,Michaelina,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,Unsern p. Zwischen der minorennen Mi¬ || chaelina von Prusimska und dem
+10,1,312,313,¬,ge,richteter,gerichteter,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,auf Vindication der Brzezier Güther ge¬ || richteter Proceß. Da die Klage des Vormund
+10,1,314,315,¬,Vor,mundschafts,Vormundschafts,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,"der Minorennen durch das Posensche Vor¬ || mundschafts-Collegium veranlaßt, auch"
+10,1,316,317,¬,be,trieben,betrieben,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,ter dessen Direction der Proceß selbst be¬ || trieben worden und ferner betrieben werden
+10,1,318,319,¬,Regie,rung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,35,,0,,1,,"wird, die meiſten Räthe der Posener Regie¬ || rung aber Mitglieder dieses Collegii sind;"
+11,1,340,341,¬,Infan,terie,Infanterie,join,high,"joined form attested in DWDS (41,077 hits)",False,0,41077,0,,2,,"Generals von der Infan¬ || terie, und Gouverneurs"
+11,1,356,357,¬,Vormundschafts,Collegii,VormundschaftsCollegii,split,high,joined form unattested; both halves are real words,False,0,0,1,29920,9,28,"Mitglieder des Vormundschafts¬ || Collegii daselbst sind, welches diesen"
+11,1,363,364,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,35,,0,,2,,Instanz von dem Pleno der Re¬ || gierung zu Warſchau und in
+11,1,366,367,¬,Cammer,gerichts,Cammergerichts,join,held,held by hand 2026-10-04: one word broken at the line end,False,0,0,1,2764,2,5151705,Appellations- Senate des Cammer¬ || gerichts abgeurtelt werde. Die
+11,2,374,375,¬,Danckel,mann,Danckelmann,join,high,head is not a word on its own,False,0,633,0,25,1,,"zu Posen, der Graf von Danckel¬ || mann zu der Regierung in Kalisch"
+11,2,377,378,¬,höchst,denenselben,höchstdenenselben,join,held,held by hand 2026-10-04: one word broken at the line end,False,0,94,0,731213,1,45,urchlaucht zu erklären geruhen daß höchst¬ || denenselben ein jedes anderes Süd-
+11,2,378,379,-,Süd,Preußischen,SüdPreußischen,split,high,joined form unattested; both halves are real words,False,0,0,4,1124996,2,447834,denenselben ein jedes anderes Süd- || Preußischen Landes-Justiz-Collegium
+11,2,383,384,¬,Gele,genheit,Gelegenheit,join,high,"joined form attested in DWDS (2,952,531 hits)",False,0,2952531,0,,1,,beytragen und bey dieser Gele¬ || genheit zugleich die unbegränzte
+12,1,396,397,¬,allerun,terthänigst,allerunterthänigst,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"gen verfehlen wir nicht hierdurch allerun¬ || terthänigst anzuzeigen, daß in dieser Sach"
+12,1,398,399,¬,er,kannt,erkannt,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,," 9ten dieses Monaths in erster Instanz er¬ || kannt worden, indem uns durch die Allerhöc"
+12,1,400,401,¬,mit,telst,mittelst,join,high,joined form occurs elsewhere in this corpus,False,1,,12,,1,,s-Ordre vom 1ten July curr: wovon wir mit¬ || telst Berichts vom 10ten ejusd. an Ew. Kon
+12,1,402,403,¬,Be,schleunigung,Beschleunigung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"r eine Abschrift eingesandt haben, die Be¬ || schleunigung dieser Sache besonders anempf"
+12,1,407,408,¬,been,digter,beendigter,join,held,held by hand 2026-10-04: one word broken at the line end,False,0,510,0,2964,1,163,"igst folge zu leisten, und Acta nach been¬ || digter Instruction an den Ober Appellation"
+13,1,443,444,¬,Ingelfin,gen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,11,,0,,2,,Herrn Fürsten von Hohenlohe Ingelfin¬ || gen wegen Vindication der Brzezier
+13,1,445,446,¬,unterzie,hen,unterziehen,join,high,"joined form attested in DWDS (515,787 hits)",False,0,515787,0,,1,,Güter obwaltenden Processe zu unterzie¬ || hen. Die Posener Regierung hat aber
+13,1,448,449,¬,Ein,gange,Eingange,join,high,"joined form attested in DWDS (1,296,177 hits)",False,0,1296177,8,,1,,bereits unter dem 9. mithin vor dem Ein¬ || gange der an dieselbe erlassenen Verfügung
+13,1,451,452,¬,Anwen,dung,Anwendung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,das obangezogene Rescript keine Anwen¬ || dung finden; wovon Wir Euch hierdurch
+14,1,470,471,-,Hohenlohe,Ingelfingen,HohenloheIngelfingen,split,high,joined form unattested; both halves are real words,False,0,0,14,21428,11,2915,"Fürsten von Hohenlohe- || Ingelfingen, Königln Prsl."
+14,1,472,473,¬,Infan,terie,Infanterie,join,high,"joined form attested in DWDS (41,077 hits)",False,0,41077,0,,2,,Generals von der Infan¬ || terie [a?] und Gouverneurs
+14,1,484,485,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,35,,0,,2,,"Prusimska ist von der Re¬ || gierung zu Posen, in Gefolge einer"
+14,1,488,489,¬,Be,trieb,Betrieb,join,high,"joined form attested in DWDS (6,902,380 hits)",False,0,6902380,0,,1,,wodurch ihr der schnelle Be¬ || trieb der Sache anempfohlen
+14,1,490,491,¬,beschleuni,get,beschleuniget,join,high,"joined form attested in DWDS (750,126 hits)",False,0,750126,0,,1,,"würde, dergestalt beschleuni¬ || get worden, daß darin be¬"
+14,1,491,492,¬,be,reits,bereits,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,"get worden, daß darin be¬ || reits erkannt war, als"
+14,1,505,506,¬,Mandata,rium,Mandatarium,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,auch hoch[?] Herr Mandata¬ || rium deren bereits
+14,2,512,513,¬,er,Appellanten,erAppellanten,split,high,joined form unattested; both halves are real words,False,0,0,0,184157988,1,544,Secta zu er¬ || Appellanten
+14,2,516,517,¬,Ober,Appellations,OberAppellations,split,high,joined form unattested; both halves are real words,False,0,0,6,146268,7,106,daß die Acten an den Ober¬ || Appellations-Senat des Cammer
+14,2,521,522,¬,Durchl,laucht,Durchllaucht,join,high,head is not a word on its own,False,0,0,0,122,2,,folge Ew. Durchl¬ || laucht Antrag
+14,2,523,524,¬,Pose,ner,Posener,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,gemäß die Pose¬ || ner Regierung
+14,2,528,529,¬,Verehr,genug,Verehrgenug,split,high,joined form unattested; both halves are real words,False,0,0,0,199938,1,5352997,Mit ausgezeichneter Verehr¬ || genug habe ich die Ehre zu
+15,1,551,552,¬,Appel,lations,Appellations,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,Notificatur der Suppl. daß das Appel¬ || lations Erkenntniß / wie aus eingezo¬
+15,1,552,553,¬,eingezo,genen,eingezogenen,join,high,"joined form attested in DWDS (38,401 hits)",False,0,38401,0,,1,,lations Erkenntniß / wie aus eingezo¬ || genen Erkundigung erhellet / von dem
+15,1,555,556,¬,publi,cation,publication,join,high,"joined form attested in DWDS (7,100 hits)",False,0,7100,0,,1,,"remittirt seyn, und sie also ist[?] publi¬ || cation zu erwarten habe."
+15,2,570,571,¬,favorable,ment,favorablement,join,high,head is not a word on its own,False,0,0,0,338,1,,"ce de Votre Majesté accueillent favorable¬ || ment la prière que j’ose Lui adresser, qua"

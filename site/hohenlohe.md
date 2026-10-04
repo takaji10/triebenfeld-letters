@@ -116,13 +116,20 @@ Hohenlohe-Ingelfingen was still
 From this point Hohenlohe-Ingelfingen kept estates he could not afford, and the
 correspondence turns from acquiring land to raising money from it.
 
-The grant was also challenged from the other side. In June 1800 Michalina Prusimska
-petitioned the King against Hohenlohe-Ingelfingen, and a file of the central administration
-follows her complaints to January 1802
-([Nr. 3709]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }})). From its pages it holds
-royal orders to the government at Poznań, that government's reports, a letter of
-Hohenlohe-Ingelfingen of November 1800, and a petition in French signed by her in 1802. The
-file has not yet been transcribed, and what she claimed is not yet known.
+The grant was also challenged from the other side. Michalina Prusimska, still a minor, sued
+Hohenlohe-Ingelfingen through her guardian before the Government at Poznań for the Brzyce
+estates, which she claimed as her mother's property
+([Nr. 3709, document 5]({{ '/documents/ihagrrep7cnr3709/5/' | relative_url }})). On her
+complaint the King called in the files in June 1800 and then ordered the case hurried and a
+settlement tried ([2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }}),
+[4]({{ '/documents/ihagrrep7cnr3709/4/' | relative_url }})). In November
+Hohenlohe-Ingelfingen asked the Grand Chancellor for other judges, since the councillors at
+Poznań also sat on the guardianship board that conducted her suit. The order giving the case
+to the Government at Warsaw came too late: Poznań had given judgment on 9 December 1800
+([12]({{ '/documents/ihagrrep7cnr3709/12/' | relative_url }})). The file does not say how it
+decided. In January 1802 Prusimska petitioned the King from Dresden to hasten the appeal
+([15]({{ '/documents/ihagrrep7cnr3709/15/' | relative_url }})).
+what she claimed is not yet known.
 
 ## III. Dividing the estates, 1798 to 1806
 

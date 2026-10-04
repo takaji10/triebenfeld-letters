@@ -12,13 +12,13 @@ title: >-
   share of partitioned Poland, on the complaints of Michalina Prusimska,
   daughter of Antoni Prusimski, whose confiscated estates had been granted to
   Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, in her case against
-  Hohenlohe-Ingelfingen, 1800 to 1802; not yet transcribed.
+  Hohenlohe-Ingelfingen, 1800 to 1802.
 title_de: >-
   Eine Akte der preußischen Zentralverwaltung für Südpreußen, dem preußischen
   Anteil am geteilten Polen, über die Beschwerden der Michalina Prusimska,
   Tochter des Antoni Prusimski, dessen konfiszierte Güter dem Fürsten
   Friedrich Ludwig zu Hohenlohe-Ingelfingen geschenkt worden waren, in ihrer
-  Sache gegen den Fürsten, 1800 bis 1802; noch nicht transkribiert.
+  Sache gegen den Fürsten, 1800 bis 1802.
 # The heading this field carried before: the archive's or the file's own
 # title with an English gloss. Kept for reference; nothing displays it.
 archive_title: >-
@@ -27,7 +27,7 @@ archive_title: >-
   Prusimska's complaints in her case against the Prince, 1800-1802
 # The cover gives the span: "den 18ten Juny 1800" to "den 29 Januar 1802".
 date_span: 1800-1802
-status: draft              # draft | transcribed | translated | published
+status: transcribed              # draft | transcribed | translated | published
 
 # Which era this holding belongs to - reference/eras.yml.
 era: hohenlohe
@@ -43,13 +43,9 @@ repository: gstapk-berlin
 # writing on both sides and stay whole (0008, 0009, 0010, 0013), as does the
 # cover.
 #
-# NOT YET TRANSCRIBED (2026-10-01). Every page carries the placeholder line
-# "(not transcribed)", so the page and its scan are in the edition and the
-# text can replace the placeholder when the editor's transcriptions arrive.
-# The file is of the same kind as III. HA MdA, III Nr. 12765 (letters received
-# and the ministry's drafts, with office marks). The editor has ruled that it
-# is to be divided into one document per letter and the office's writing set
-# apart, as there; both wait for the text. See notes.md and
+# Transcribed by the editor (supplied 2026-10-04, one file per scan) and
+# divided into fifteen documents, one per letter, with the office's writing set
+# apart (office_notes.yml), as in III. HA MdA, III Nr. 12765. See notes.md and
 # docs/GOVERNMENT_FILES.md.
 scans:
   raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Complaint of Prusimska against Hohenlohe (I. HA GR, Rep. 7 C, Nr. 3709)
@@ -61,7 +57,8 @@ scans:
   ascii_prefix: I_HA_Rep_7_C_Nr_3709
 
 # One file per page, named I_HA_Rep_7_C_Nr_3709_<page id>.txt (0003_a2,
-# 0008_a). All are placeholders for now.
+# 0008_a). Made from the editor's one-file-per-scan transcriptions by
+# intake/build_pages.py, which records which source lines went where.
 transcriptions:
   dir: transcriptions          # units/<slug>/transcriptions/
   glob: "*.txt"
@@ -72,20 +69,44 @@ corpus: corpus.txt
 
 # For the reader: shown on this unit's provenance page.
 description: >-
-  The Prussian ministry file on the complaints of Michalina Prusimska in her
-  case against the Prince of Hohenlohe-Ingelfingen, kept from 18 June 1800 to
-  29 January 1802. She was the daughter of the Starost Prusimski, whose
-  confiscated estates the King had given the Prince in 1796. The file holds
-  reports of the government at Poznań, royal orders, a letter of the Prince
-  from Breslau of 30 November 1800, the ministry's drafts, and a petition in
-  French of January 1802. It has not yet been transcribed: the pages are shown
-  as scans only, and what the case was about will be set out here once the
-  text has been read.
+  The Prussian Grand Chancellor's file on the suit of Michalina Prusimska, a
+  minor, against the Prince of Hohenlohe-Ingelfingen, kept from 18 June 1800 to
+  29 January 1802. Through her guardian she sued before the South Prussian
+  government at Poznań to recover the Brzyce estates ("Brzezier Güter"), her
+  mother's property, which the King had given the Prince with her father's
+  confiscated lands. Fifteen documents: two reports of the Poznań government
+  enclosing copies of the King's cabinet orders of June and July 1800, which
+  call in the case files and then order the case hurried and a settlement
+  tried; the Prince's petition and covering letter of 30 November 1800 asking
+  the Grand Chancellor to take the judgment away from Poznań, whose
+  councillors also sat on the guardianship board that brought the suit; the
+  Grand Chancellor's decree and drafts of 7 December giving the case to the
+  government at Warsaw and the appeal to the Kammergericht; Poznań's report
+  that it had already given judgment on 9 December, and the drafts of 31
+  December withdrawing the order for the first instance; and Prusimska's
+  petition in French to the King from Dresden, 22 January 1802, asking for
+  the appeal judgment to be hastened. The incoming letters are originals, the
+  Grand Chancellor's own papers are his drafts.
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
 translation_note: >-
-  A ministry file, not yet transcribed. When it is: incoming letters are
-  originals, the ministry's replies are drafts with registry marks that are not
-  prose, and at least one piece is in French. See the note of III. HA MdA, III
-  Nr. 12765, which is the same kind of source.
+  A file of the Grand Chancellor (the head of the Prussian department of
+  justice). Incoming letters are originals; his replies are drafts, four of
+  them rescripts issued in the King's name ("Friedrich Wilhelm König p",
+  "Unsern p", "Sind p", "Ad mandatum": the clerk fills in the full forms when
+  engrossing). Registry marks are not prose: "ad acta" (file it), "B. 5957"
+  and "No. 5957" (journal numbers), "ex officio", "im Bureau zu mundiren"
+  (fair copy to be made in the office), "Mund." (fair copy made), "acc." and
+  "ad rec." with a day, "zur Post" (sent), "factum" (done), "praes."
+  (received), and "G[oldbeck]", the Grand Chancellor's paraph. "Regierung"
+  is the provincial court of justice of South Prussia (at Poznań, Kalisz,
+  Warsaw), not a government in the modern sense; "Pupillen-Collegium" and
+  "Vormundschafts-Collegium" are the same guardianship board; "Brzezier
+  Güter" are the Brzyce estates. Latin of the legal register is the writers'
+  own (Vindication, Mandatarius, Deputatus, Fiscus, in pleno, hujus, ejusdem,
+  Xbr. for December). Document 14 is a heavily corrected draft that the
+  transcriber read badly: a garbled passage there is a reading failure, not
+  the writer's German. Document 15 is in French, in the petitioner's own
+  spelling. Text that the receiving office wrote on an incoming letter stands
+  at the end of that page and is not part of the letter.

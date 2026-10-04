@@ -134,7 +134,7 @@
  "mentions": [
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -277,7 +277,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 3,
@@ -385,7 +385,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",
@@ -697,7 +697,7 @@
    "page": 3
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",

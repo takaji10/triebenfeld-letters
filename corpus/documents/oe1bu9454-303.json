@@ -251,17 +251,6 @@
    "doc_line": 6
   },
   {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "0542_a",
-   "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-   "line": 21509,
-   "doc_line": 10
-  },
-  {
    "entity": "bornstaedt",
    "display": "Bornstädt",
    "kind": "person",
@@ -350,10 +339,10 @@
    "doc_line": 60
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-franz",
+   "display": "Franz Meyer",
    "kind": "person",
-   "surface": "Meyer",
+   "surface": "Franz. Meyer",
    "page": 4,
    "page_id": "0544_a1",
    "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
@@ -427,32 +416,10 @@
    "doc_line": 79
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 5,
-   "page_id": "0544_a2",
-   "scan": "Oe_1_Bu_9454_0544_a2-L303_05.jpg",
-   "line": 21584,
-   "doc_line": 81
-  },
-  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",
    "surface": "Bernhard",
-   "page": 7,
-   "page_id": "0545_a2",
-   "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-   "line": 21611,
-   "doc_line": 106
-  },
-  {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
    "page": 7,
    "page_id": "0545_a2",
    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
@@ -471,8 +438,8 @@
    "doc_line": 109
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-christiane",
+   "display": "Christiane Dorothea Michaelis",
    "kind": "person",
    "surface": "Michaelis",
    "page": 7,
@@ -1111,8 +1078,8 @@
    "page": 4
   },
   {
-   "entity": "",
-   "display": "Franz. Meyer",
+   "entity": "meyer-franz",
+   "display": "Franz Meyer",
    "kind": "person",
    "surface_de": "Franz. Meyer",
    "surface_en": "Franz. Meyer",
@@ -1591,8 +1558,8 @@
    "page": 7
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-christiane",
+   "display": "Christiane Dorothea Michaelis",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",

@@ -2,9 +2,19 @@
  {
   "entity": "berlin",
   "display": "Berlin",
-  "count": 324,
+  "count": 338,
   "documents": [
    "ihagrrep7cnr3570-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-13",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-15",
+   "ihagrrep7cnr3709-3",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
    "iiihamdaiiinr12765-16",
    "iiihamdaiiinr12765-17",
    "iiihamdaiiinr12765-20",
@@ -643,6 +653,15 @@
     "doc_line": 121
    },
    {
+    "uid": "ihagrrep7cnr3709-3",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+    "line": 96,
+    "doc_line": 35
+   },
+   {
     "uid": "oe1bu9454-108",
     "surface": "Berlin",
     "page": 1,
@@ -650,6 +669,96 @@
     "scan": "Oe_1_Bu_9454_0223_b-L108_01.jpg",
     "line": 8456,
     "doc_line": 16
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 234,
+    "doc_line": 23
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 239,
+    "doc_line": 1
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 264,
+    "doc_line": 26
+   },
+   {
+    "uid": "ihagrrep7cnr3709-9",
+    "surface": "Berlin",
+    "page": 2,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 300,
+    "doc_line": 31
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 329,
+    "doc_line": 25
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Berlin",
+    "page": 2,
+    "page_id": "0015_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg",
+    "line": 388,
+    "doc_line": 52
+   },
+   {
+    "uid": "ihagrrep7cnr3709-12",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0016_a2-L12_01.jpg",
+    "line": 428,
+    "doc_line": 36
+   },
+   {
+    "uid": "ihagrrep7cnr3709-13",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
+    "line": 433,
+    "doc_line": 1
+   },
+   {
+    "uid": "ihagrrep7cnr3709-13",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
+    "line": 454,
+    "doc_line": 22
+   },
+   {
+    "uid": "ihagrrep7cnr3709-14",
+    "surface": "Berlin",
+    "page": 2,
+    "page_id": "0019_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0019_a1-L14_02.jpg",
+    "line": 532,
+    "doc_line": 65
    },
    {
     "uid": "oe1bu9454-109",
@@ -686,6 +795,33 @@
     "scan": "Oe_1_Bu_9454_0230_a1-L113_02.jpg",
     "line": 8681,
     "doc_line": 33
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
+    "line": 545,
+    "doc_line": 9
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
+    "line": 548,
+    "doc_line": 12
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
+    "line": 557,
+    "doc_line": 21
    },
    {
     "uid": "oe1bu14525-6",
@@ -5890,11 +6026,15 @@
  {
   "entity": "breslau",
   "display": "Wrocław (Breslau)",
-  "count": 245,
+  "count": 249,
   "documents": [
    "app5371057-1",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3705-1",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-6",
    "oe1bu14525-1",
    "oe1bu14525-10",
    "oe1bu14525-11",
@@ -6414,6 +6554,42 @@
     "scan": "Oe_1_Bu_14525_0125_b-L29_01.jpg",
     "line": 3568,
     "doc_line": 20
+   },
+   {
+    "uid": "ihagrrep7cnr3709-5",
+    "surface": "Breslau",
+    "page": 2,
+    "page_id": "0008_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0008_a-L6_01.jpg",
+    "line": 155,
+    "doc_line": 24
+   },
+   {
+    "uid": "ihagrrep7cnr3709-6",
+    "surface": "Breslau",
+    "page": 3,
+    "page_id": "0010_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0010_a-L6_03.jpg",
+    "line": 207,
+    "doc_line": 46
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Breslau",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0014_a2-L11_01.jpg",
+    "line": 343,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-14",
+    "surface": "Breslau",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0018_a2-L14_01.jpg",
+    "line": 475,
+    "doc_line": 9
    },
    {
     "uid": "oe1bu14525-41",
@@ -8247,11 +8423,22 @@
  {
   "entity": "ingelfingen",
   "display": "Ingelfingen",
-  "count": 236,
+  "count": 248,
   "documents": [
    "app5371057-1",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3705-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-13",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-2",
+   "ihagrrep7cnr3709-3",
+   "ihagrrep7cnr3709-4",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
    "iiihamdaiiinr12765-19",
    "iiihamdaiiinr12765-20",
    "iiihamdaiiinr12765-21",
@@ -8713,6 +8900,15 @@
     "doc_line": 3
    },
    {
+    "uid": "ihagrrep7cnr3709-2",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+    "line": 51,
+    "doc_line": 6
+   },
+   {
     "uid": "oe1bu14525-1",
     "surface": "Ingelfingen",
     "page": 2,
@@ -8758,6 +8954,33 @@
     "doc_line": 151
    },
    {
+    "uid": "ihagrrep7cnr3709-4",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+    "line": 108,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3709-3",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+    "line": 67,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3709-3",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+    "line": 69,
+    "doc_line": 8
+   },
+   {
     "uid": "oe1bu14525-19",
     "surface": "Ingelfingen",
     "page": 1,
@@ -8783,6 +9006,78 @@
     "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
     "line": 3581,
     "doc_line": 10
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 219,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 249,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr3709-9",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 281,
+    "doc_line": 13
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 310,
+    "doc_line": 6
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0014_a2-L11_01.jpg",
+    "line": 339,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3709-12",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0016_a2-L12_01.jpg",
+    "line": 396,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3709-13",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
+    "line": 443,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr3709-14",
+    "surface": "Ingelfingen",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0018_a2-L14_01.jpg",
+    "line": 471,
+    "doc_line": 5
    },
    {
     "uid": "oe1bu14525-37",
@@ -15361,10 +15656,13 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 135,
+  "count": 139,
   "documents": [
    "app5371057-1",
    "ihagrrep7cnr3705-1",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-6",
    "iiihamdaiiinr12765-17",
    "iiihamdaiiinr12765-22",
    "iiihamdaiiinr12765-23",
@@ -15549,6 +15847,42 @@
     "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
     "line": 3584,
     "doc_line": 13
+   },
+   {
+    "uid": "ihagrrep7cnr3709-5",
+    "surface": "Kalisch",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L5_01.jpg",
+    "line": 145,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr3709-6",
+    "surface": "Kalisch",
+    "page": 2,
+    "page_id": "0009_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L6_02.jpg",
+    "line": 199,
+    "doc_line": 39
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Kalisch",
+    "page": 2,
+    "page_id": "0015_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg",
+    "line": 371,
+    "doc_line": 35
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Kalisch",
+    "page": 2,
+    "page_id": "0015_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg",
+    "line": 375,
+    "doc_line": 39
    },
    {
     "uid": "oe1bu14525-7",
@@ -16671,8 +17005,22 @@
  {
   "entity": "posen",
   "display": "Poznań (Posen)",
-  "count": 104,
+  "count": 124,
   "documents": [
+   "ihagrrep7cnr3709-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-15",
+   "ihagrrep7cnr3709-2",
+   "ihagrrep7cnr3709-3",
+   "ihagrrep7cnr3709-4",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-6",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
    "iiihamdaiiinr12765-10",
    "iiihamdaiiinr12765-14",
    "iiihamdaiiinr12765-27",
@@ -16846,6 +17194,168 @@
     "doc_line": 19
    },
    {
+    "uid": "ihagrrep7cnr3709-2",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+    "line": 53,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-2",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+    "line": 59,
+    "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr3709-1",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0002_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0002_a2-L1_01.jpg",
+    "line": 13,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3709-4",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+    "line": 128,
+    "doc_line": 26
+   },
+   {
+    "uid": "ihagrrep7cnr3709-3",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+    "line": 62,
+    "doc_line": 1
+   },
+   {
+    "uid": "ihagrrep7cnr3709-3",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+    "line": 80,
+    "doc_line": 19
+   },
+   {
+    "uid": "ihagrrep7cnr3709-5",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L5_01.jpg",
+    "line": 134,
+    "doc_line": 4
+   },
+   {
+    "uid": "ihagrrep7cnr3709-5",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L5_01.jpg",
+    "line": 137,
+    "doc_line": 7
+   },
+   {
+    "uid": "ihagrrep7cnr3709-6",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0009_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L6_02.jpg",
+    "line": 176,
+    "doc_line": 16
+   },
+   {
+    "uid": "ihagrrep7cnr3709-6",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0009_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L6_02.jpg",
+    "line": 197,
+    "doc_line": 37
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 213,
+    "doc_line": 2
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 241,
+    "doc_line": 3
+   },
+   {
+    "uid": "ihagrrep7cnr3709-9",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 295,
+    "doc_line": 26
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 326,
+    "doc_line": 22
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0014_a2-L11_01.jpg",
+    "line": 353,
+    "doc_line": 18
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0015_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg",
+    "line": 374,
+    "doc_line": 38
+   },
+   {
+    "uid": "ihagrrep7cnr3709-12",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0016_a2-L12_01.jpg",
+    "line": 411,
+    "doc_line": 19
+   },
+   {
+    "uid": "ihagrrep7cnr3709-14",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0018_a2-L14_01.jpg",
+    "line": 485,
+    "doc_line": 19
+   },
+   {
     "uid": "oe1bu14525-41",
     "surface": "Posen",
     "page": 1,
@@ -16862,6 +17372,24 @@
     "scan": "Oe_1_Bu_14525_0141_b-L37_01.jpg",
     "line": 3752,
     "doc_line": 9
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
+    "line": 538,
+    "doc_line": 2
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Posen",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
+    "line": 543,
+    "doc_line": 7
    },
    {
     "uid": "oe1bu14525-38",
@@ -21889,9 +22417,17 @@
  {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
-  "count": 59,
+  "count": 70,
   "documents": [
    "ihagrrep7cnr3570-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-13",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
    "iiihamdaiiinr12765-11",
    "iiihamdaiiinr12765-12",
    "iiihamdaiiinr12765-19",
@@ -21968,6 +22504,105 @@
     "scan": "Oe_1_Bu_14526_0166_a2-L30_01.jpg",
     "line": 8045,
     "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 225,
+    "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Warſchau",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 232,
+    "doc_line": 21
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 257,
+    "doc_line": 19
+   },
+   {
+    "uid": "ihagrrep7cnr3709-9",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 270,
+    "doc_line": 2
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 322,
+    "doc_line": 18
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 326,
+    "doc_line": 22
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Warſchau",
+    "page": 1,
+    "page_id": "0014_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0014_a2-L11_01.jpg",
+    "line": 364,
+    "doc_line": 29
+   },
+   {
+    "uid": "ihagrrep7cnr3709-11",
+    "surface": "Warſchau",
+    "page": 2,
+    "page_id": "0015_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0015_a1-L11_02.jpg",
+    "line": 369,
+    "doc_line": 33
+   },
+   {
+    "uid": "ihagrrep7cnr3709-12",
+    "surface": "Warſchau",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0016_a2-L12_01.jpg",
+    "line": 425,
+    "doc_line": 33
+   },
+   {
+    "uid": "ihagrrep7cnr3709-13",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
+    "line": 435,
+    "doc_line": 3
+   },
+   {
+    "uid": "ihagrrep7cnr3709-14",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0018_a2-L14_01.jpg",
+    "line": 497,
+    "doc_line": 31
    },
    {
     "uid": "oe1bu9454-141",
@@ -31023,6 +31658,286 @@
   ]
  },
  {
+  "entity": "brzyce",
+  "display": "Brzyce",
+  "count": 28,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-13",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
+   "iiihamdaiiinr12765-4",
+   "oe1bu14525-1",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu9454-102",
+   "oe1bu9454-103",
+   "oe1bu9454-106",
+   "oe1bu9454-134",
+   "oe1bu9454-164",
+   "oe1bu9454-21",
+   "oe1bu9454-215"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu14525-39",
+    "surface": "Brzyce",
+    "page": 1,
+    "page_id": "0145_b",
+    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
+    "line": 3809,
+    "doc_line": 7
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Brzyce",
+    "page": 2,
+    "page_id": "0005_a",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
+    "line": 127,
+    "doc_line": 81
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Brzyce",
+    "page": 4,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
+    "line": 225,
+    "doc_line": 177
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Brzyce",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 329,
+    "doc_line": 278
+   },
+   {
+    "uid": "ihagrrep7cnr3570-1",
+    "surface": "Brzyce",
+    "page": 7,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
+    "line": 368,
+    "doc_line": 317
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Brzyce",
+    "page": 1,
+    "page_id": "0010_a2",
+    "scan": "Oe_1_Bu_14525_0010_a2-L3_01.jpg",
+    "line": 300,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu14525-3",
+    "surface": "Brzyce",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
+    "line": 355,
+    "doc_line": 80
+   },
+   {
+    "uid": "oe1bu9454-102",
+    "surface": "Brzyze",
+    "page": 2,
+    "page_id": "0212_a1",
+    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
+    "line": 8018,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Brzyze",
+    "page": 1,
+    "page_id": "0213_b",
+    "scan": "Oe_1_Bu_9454_0213_b-L103_01.jpg",
+    "line": 8093,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Brzyze",
+    "page": 2,
+    "page_id": "0214_a1",
+    "scan": "Oe_1_Bu_9454_0214_a1-L103_02.jpg",
+    "line": 8099,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Brzyze",
+    "page": 3,
+    "page_id": "0214_a2",
+    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
+    "line": 8134,
+    "doc_line": 61
+   },
+   {
+    "uid": "oe1bu9454-106",
+    "surface": "Brzyze",
+    "page": 2,
+    "page_id": "0220_a1",
+    "scan": "Oe_1_Bu_9454_0220_a1-L106_02.jpg",
+    "line": 8328,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu14525-1",
+    "surface": "Brzyce",
+    "page": 3,
+    "page_id": "0003_a2",
+    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
+    "line": 66,
+    "doc_line": 45
+   },
+   {
+    "uid": "ihagrrep7cnr3709-5",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L5_01.jpg",
+    "line": 135,
+    "doc_line": 5
+   },
+   {
+    "uid": "ihagrrep7cnr3709-7",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0011_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+    "line": 219,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-8",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 250,
+    "doc_line": 12
+   },
+   {
+    "uid": "ihagrrep7cnr3709-9",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+    "line": 282,
+    "doc_line": 14
+   },
+   {
+    "uid": "ihagrrep7cnr3709-10",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0013_a-L10_01.jpg",
+    "line": 312,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-13",
+    "surface": "Brzezier",
+    "page": 1,
+    "page_id": "0017_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L13_01.jpg",
+    "line": 444,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Brzyce",
+    "page": 1,
+    "page_id": "0012_a2",
+    "scan": "Oe_1_Bu_14525_0012_a2-L4_01.jpg",
+    "line": 393,
+    "doc_line": 28
+   },
+   {
+    "uid": "oe1bu14525-4",
+    "surface": "Brzyce",
+    "page": 3,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
+    "line": 458,
+    "doc_line": 91
+   },
+   {
+    "uid": "oe1bu9454-134",
+    "surface": "Brzyze",
+    "page": 3,
+    "page_id": "0257_a2",
+    "scan": "Oe_1_Bu_9454_0257_a2-L134_03.jpg",
+    "line": 9635,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Brzyze",
+    "page": 4,
+    "page_id": "0311_a",
+    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+    "line": 11687,
+    "doc_line": 91
+   },
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Brzyze",
+    "page": 4,
+    "page_id": "0311_a",
+    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
+    "line": 11689,
+    "doc_line": 93
+   },
+   {
+    "uid": "oe1bu9454-21",
+    "surface": "Brzyze",
+    "page": 1,
+    "page_id": "0034_b",
+    "scan": "Oe_1_Bu_9454_0034_b-L21_01.jpg",
+    "line": 1286,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Brzyze",
+    "page": 2,
+    "page_id": "0402_a1",
+    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
+    "line": 15372,
+    "doc_line": 74
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Brzyze",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 68,
+    "doc_line": 6
+   },
+   {
+    "uid": "iiihamdaiiinr12765-4",
+    "surface": "Brzyze",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
+    "line": 71,
+    "doc_line": 9
+   }
+  ]
+ },
+ {
   "entity": "polajewo",
   "display": "Polajewo",
   "count": 28,
@@ -32765,226 +33680,6 @@
     "scan": "Oe_1_Bu_9454_0011_a2-L6_03.jpg",
     "line": 452,
     "doc_line": 53
-   }
-  ]
- },
- {
-  "entity": "brzyce",
-  "display": "Brzyce",
-  "count": 22,
-  "documents": [
-   "ihagrrep7cnr3570-1",
-   "iiihamdaiiinr12765-4",
-   "oe1bu14525-1",
-   "oe1bu14525-3",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu9454-102",
-   "oe1bu9454-103",
-   "oe1bu9454-106",
-   "oe1bu9454-134",
-   "oe1bu9454-164",
-   "oe1bu9454-21",
-   "oe1bu9454-215"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-39",
-    "surface": "Brzyce",
-    "page": 1,
-    "page_id": "0145_b",
-    "scan": "Oe_1_Bu_14525_0145_b-L39_01.jpg",
-    "line": 3809,
-    "doc_line": 7
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Brzyce",
-    "page": 2,
-    "page_id": "0005_a",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0005_a-L1_02.jpg",
-    "line": 127,
-    "doc_line": 81
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Brzyce",
-    "page": 4,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0008_a2-L1_04.jpg",
-    "line": 225,
-    "doc_line": 177
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Brzyce",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 329,
-    "doc_line": 278
-   },
-   {
-    "uid": "ihagrrep7cnr3570-1",
-    "surface": "Brzyce",
-    "page": 7,
-    "page_id": "0011_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3570_0011_a2-L1_07.jpg",
-    "line": 368,
-    "doc_line": 317
-   },
-   {
-    "uid": "oe1bu14525-3",
-    "surface": "Brzyce",
-    "page": 1,
-    "page_id": "0010_a2",
-    "scan": "Oe_1_Bu_14525_0010_a2-L3_01.jpg",
-    "line": 300,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu14525-3",
-    "surface": "Brzyce",
-    "page": 3,
-    "page_id": "0011_a2",
-    "scan": "Oe_1_Bu_14525_0011_a2-L3_03.jpg",
-    "line": 355,
-    "doc_line": 80
-   },
-   {
-    "uid": "oe1bu9454-102",
-    "surface": "Brzyze",
-    "page": 2,
-    "page_id": "0212_a1",
-    "scan": "Oe_1_Bu_9454_0212_a1-L102_02.jpg",
-    "line": 8018,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-103",
-    "surface": "Brzyze",
-    "page": 1,
-    "page_id": "0213_b",
-    "scan": "Oe_1_Bu_9454_0213_b-L103_01.jpg",
-    "line": 8093,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-103",
-    "surface": "Brzyze",
-    "page": 2,
-    "page_id": "0214_a1",
-    "scan": "Oe_1_Bu_9454_0214_a1-L103_02.jpg",
-    "line": 8099,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-103",
-    "surface": "Brzyze",
-    "page": 3,
-    "page_id": "0214_a2",
-    "scan": "Oe_1_Bu_9454_0214_a2-L103_03.jpg",
-    "line": 8134,
-    "doc_line": 61
-   },
-   {
-    "uid": "oe1bu9454-106",
-    "surface": "Brzyze",
-    "page": 2,
-    "page_id": "0220_a1",
-    "scan": "Oe_1_Bu_9454_0220_a1-L106_02.jpg",
-    "line": 8328,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu14525-1",
-    "surface": "Brzyce",
-    "page": 3,
-    "page_id": "0003_a2",
-    "scan": "Oe_1_Bu_14525_0003_a2-L1_03.jpg",
-    "line": 66,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu14525-4",
-    "surface": "Brzyce",
-    "page": 1,
-    "page_id": "0012_a2",
-    "scan": "Oe_1_Bu_14525_0012_a2-L4_01.jpg",
-    "line": 393,
-    "doc_line": 28
-   },
-   {
-    "uid": "oe1bu14525-4",
-    "surface": "Brzyce",
-    "page": 3,
-    "page_id": "0013_a2",
-    "scan": "Oe_1_Bu_14525_0013_a2-L4_03.jpg",
-    "line": 458,
-    "doc_line": 91
-   },
-   {
-    "uid": "oe1bu9454-134",
-    "surface": "Brzyze",
-    "page": 3,
-    "page_id": "0257_a2",
-    "scan": "Oe_1_Bu_9454_0257_a2-L134_03.jpg",
-    "line": 9635,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu9454-164",
-    "surface": "Brzyze",
-    "page": 4,
-    "page_id": "0311_a",
-    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
-    "line": 11687,
-    "doc_line": 91
-   },
-   {
-    "uid": "oe1bu9454-164",
-    "surface": "Brzyze",
-    "page": 4,
-    "page_id": "0311_a",
-    "scan": "Oe_1_Bu_9454_0311_a-L164_04.jpg",
-    "line": 11689,
-    "doc_line": 93
-   },
-   {
-    "uid": "oe1bu9454-21",
-    "surface": "Brzyze",
-    "page": 1,
-    "page_id": "0034_b",
-    "scan": "Oe_1_Bu_9454_0034_b-L21_01.jpg",
-    "line": 1286,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Brzyze",
-    "page": 2,
-    "page_id": "0402_a1",
-    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
-    "line": 15372,
-    "doc_line": 74
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Brzyze",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 68,
-    "doc_line": 6
-   },
-   {
-    "uid": "iiihamdaiiinr12765-4",
-    "surface": "Brzyze",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-    "line": 71,
-    "doc_line": 9
    }
   ]
  },
@@ -39328,6 +40023,45 @@
   ]
  },
  {
+  "entity": "charlottenburg",
+  "display": "Charlottenburg",
+  "count": 3,
+  "documents": [
+   "ihagrrep7cnr3709-2",
+   "ihagrrep7cnr3709-4",
+   "oe1bu9454-208"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr3709-2",
+    "surface": "Charlottenburg",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+    "line": 56,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr3709-4",
+    "surface": "Charlottenburg",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+    "line": 125,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-208",
+    "surface": "Charlottenbourg",
+    "page": 2,
+    "page_id": "0391_a",
+    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
+    "line": 14798,
+    "doc_line": 32
+   }
+  ]
+ },
+ {
   "entity": "mecklenburg",
   "display": "Mecklenburg",
   "count": 3,
@@ -40989,25 +41723,6 @@
     "scan": "Oe_1_Bu_9454_0388_a1-L206_02.jpg",
     "line": 14697,
     "doc_line": 29
-   }
-  ]
- },
- {
-  "entity": "charlottenburg",
-  "display": "Charlottenburg",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-208"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-208",
-    "surface": "Charlottenbourg",
-    "page": 2,
-    "page_id": "0391_a",
-    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
-    "line": 14798,
-    "doc_line": 32
    }
   ]
  },

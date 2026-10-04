@@ -121,13 +121,20 @@ erhalten. Noch zwei Jahre später
 Von da an behielt Hohenlohe-Ingelfingen Güter, die er sich nicht leisten konnte, und der
 Briefwechsel handelt nicht mehr vom Erwerb von Land, sondern davon, Geld aus ihm zu ziehen.
 
-Auch von der anderen Seite wurde die Schenkung angefochten. Im Juni 1800 wandte sich Michalina
-Prusimska mit einer Bittschrift gegen Hohenlohe-Ingelfingen an den König, und eine Akte der
-Zentralverwaltung verfolgt ihre Beschwerden bis Januar 1802
-([Nr. 3709]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }})). Nach den Scans enthält
-sie königliche Verfügungen an die Regierung in Poznań, deren Berichte, einen Brief
-Hohenlohe-Ingelfingens vom November 1800 und eine von ihr unterzeichnete französische
-Bittschrift von 1802. Die Akte ist noch nicht transkribiert; was sie forderte, ist noch nicht
+Auch von der anderen Seite wurde die Schenkung angefochten. Die noch minderjährige Michalina
+Prusimska klagte durch ihren Vormund vor der Regierung in Poznań (Posen) gegen
+Hohenlohe-Ingelfingen auf die Güter Brzyce, die sie als mütterliches Vermögen beanspruchte
+([Nr. 3709, Dokument 5]({{ '/documents/ihagrrep7cnr3709/5/' | relative_url }})). Auf ihre
+Beschwerde forderte der König im Juni 1800 die Akten ein und befahl dann, die Sache zu
+beschleunigen und einen Vergleich zu versuchen
+([2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }}),
+[4]({{ '/documents/ihagrrep7cnr3709/4/' | relative_url }})). Im November bat
+Hohenlohe-Ingelfingen den Großkanzler um andere Richter, weil die Räte in Poznań zugleich dem
+Pupillenkollegium angehörten, das ihren Prozess betrieb. Die Verfügung, die die Sache der
+Regierung in Warschau übertrug, kam zu spät: In Poznań war am 9. Dezember 1800 schon geurteilt
+([12]({{ '/documents/ihagrrep7cnr3709/12/' | relative_url }})). Wie das Gericht entschied,
+sagt die Akte nicht. Im Januar 1802 bat die Prusimska den König aus Dresden, die Appellation
+zu beschleunigen ([15]({{ '/documents/ihagrrep7cnr3709/15/' | relative_url }})).
 bekannt.
 
 ## III. Die Aufteilung der Güter, 1798 bis 1806

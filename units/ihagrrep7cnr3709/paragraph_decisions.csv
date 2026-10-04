@@ -1,1 +1,123 @@
 ﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,12,run,review,short_line,0.45,5,11,König,Allergnädigster König und Herr!
+1,28,run,review,short_line,0.55,6,11,Hering,Danckelman
+1,30,run,review,short_line,0.55,6,11,v Götz,Diederichs
+1,33,break,high,short_line+column,0.64,7,11,Schwarz,Bormann
+1,34,break,high,short_line+column,0.64,7,11,Bormann,Fromme
+1,35,break,high,short_line+column,0.55,6,11,Fromme,Hoening
+1,36,run,review,short_line,0.64,7,11,Hoening,Leuchert
+1,38,run,review,short_line,0.64,7,11,Richter,v Fischer
+2,47,run,review,short_line,0.12,5,43,Copia,eingegangen den 16ten Juny 1800.
+2,58,break,high,short_line+column,0.4,17,43,Friedrich Wilhelm,An
+2,59,break,high,short_line+column,0.05,2,43,An,Die Regierung zu Posen
+3,83,break,high,short_line+column,0.62,10,16,Danckelman,v Götz
+3,84,break,high,short_line+column,0.38,6,16,v Götz,Dühring
+3,85,break,high,short_line+column,0.44,7,16,Dühring,Hering
+3,86,break,high,short_line+column,0.38,6,16,Hering,Fromme
+3,87,break,high,short_line+column,0.38,6,16,Fromme,Diederichs
+3,88,break,high,short_line+column,0.62,10,16,Diederichs,Dannenberg
+3,89,break,high,short_line+column,0.62,10,16,Dannenberg,Bormann
+3,90,break,high,short_line+column,0.44,7,16,Bormann,v Fischer
+3,91,break,high,short_line+column,0.56,9,16,v Fischer,Leuchert
+3,92,break,high,short_line+column,0.5,8,16,Leuchert,Richter
+3,93,break,high,short_line+column,0.44,7,16,Richter,Herford
+3,94,break,high,rubric+short_line,0.44,7,16,Herford,d. 27. Juli 1800.
+3,96,run,review,short_line,0.44,7,16,ad Acta,Berlin d. 1 Aug: 1800
+3,98,break,high,short_line+column,0.62,10,16,G[oldbeck],h qu[?] B
+3,99,break,high,rubric+short_line,0.56,9,16,h qu[?] B,B. 3681.
+4,104,run,review,short_line,0.14,5,36,Copia,Sr. Königl. Majestaet von Preussen u befehlen der
+4,127,break,high,short_line+column,0.5,18,36,Friedrich Willhelm,An die Regierung
+4,128,break,high,short_line+column,0.44,16,36,An die Regierung,zu Posen
+5,132,break,high,short_line,0.45,23,52,Hochwohlgebohrner Herr!,Hochzuverehrender Herr Groß Canzler!
+5,133,break,high,short_line,0.7,36,52,Hochzuverehrender Herr Groß Canzler!,Die minorenne Michalina von Prusimska hat bey der Regiere[...]
+5,147,break,high,rubric,0.91,47,52,ihr zu diesem Ende die Acten zugeschickt werden,d. 2. Dec 1800.
+5,149,break,high,short_line,0.14,7,52,H qm B.,No. 5957.
+5,152,run,review,short_line,0.34,7,20,"mögen.""",Ich habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung
+5,154,run,review,short_line,0.54,11,20,zu beharren,Euerer Excellenz
+6,161,run,review,short_line,0.55,23,42,Hochwohlgebohrner Herr;,Hochzuverehrender Herr GroßCanzler!
+6,165,break,high,short_line,0.48,20,42,Worten zu begleiten.,Mein Vertrauen auf Hochdero Gewogenheit gegen
+6,171,break,high,short_line,0.69,29,42,"fügen"" entgegen sehen dürfte.",Folgende Gründe haben mich zu meinem Gesuch
+6,174,break,high,short_line,0.42,21,50,unter andere bewogen:,"Schon der Vergleichsvorschlag, welchen der Deputatus in dem letzten"
+6,184,break,high,rubric,0.86,43,50,gegenwärtigen und zukünftigen Vermögens des,"v. Prusimski, das LebtagsRecht offenbar unterworben."
+6,207,run,review,short_line,0.55,16,29,Euerer Excellenz,"Breslau, den 30. Novbr. 1800."
+7,213,break,high,rubric+short_line,0.24,10,41,Ex officio,"1., Rescribatur an die Regierung zu Posen:"
+7,231,break,high,rubric,0.8,33,41,richt und Achtung hiemit bekannt.,"2., Expediatur Hiernach das Rescript an die"
+7,233,break,high,rubric+short_line,0.61,25,41,Regierung zu Warſchau und,"3., an den Ober-Appell. Senat des Ca[?]. Richters"
+7,235,break,high,short_line,0.56,23,41,Berlin den 7 Xbr. 1800.,G[oldbeck]
+7,236,break,high,short_line+column,0.24,10,41,G[oldbeck],Nr. 5957.
+8,242,break,high,short_line,0.24,9,38,zu Posen.,ex officio
+8,243,break,high,short_line+column,0.26,10,38,ex officio,Friedrich Wilhelm König p
+8,244,run,review,short_line,0.66,25,38,Friedrich Wilhelm König p,Unsern p. Da die meiſten Räthe Eürs
+8,266,break,high,short_line,0.32,12,38,Ad mandatum.,# # #
+9,271,break,high,rubric+short_line,0.37,12,32,zu Warschau.,d. 13. sämmtl. per Post u. zum Inh.: md
+9,273,break,high,rubric+short_line,0.31,10,32,Bamg[...]t,d. 11
+9,275,break,high,rubric+short_line,0.28,9,32,Schroener,d. 10. Xb.
+9,294,run,review,short_line,0.3,11,37,abgeurthelt,werden soll; welches und daß
+9,296,break,high,short_line+column,0.59,22,37,die Regierung zu Posen,hiervon
+9,297,break,high,short_line+column,0.19,7,37,hiervon,worden wir euch
+9,298,run,review,short_line,0.41,15,37,worden wir euch,benachrichtiget worden Wir euch hierdurch zur Nach¬
+9,300,break,high,short_line,0.62,23,37,achtung bekannt machen.,"Sind p. Berlin, den 7. December 1800."
+9,302,break,high,short_line,0.32,12,37,Ad mandatum.,# # #
+10,307,break,high,short_line,0.42,16,38,Kammergerichtes.,Friedrich Wilhelm König p.
+10,308,break,high,short_line,0.68,26,38,Friedrich Wilhelm König p.,Unsern p. Zwischen der minorennen Mi¬
+10,329,break,high,short_line,0.39,15,38,bekannt machen.,"Sind p. Berlin, den 7. December 1800."
+10,331,break,high,short_line+column,0.29,11,38,Ad mandatum,G[oldbeck]
+10,332,break,high,short_line+column,0.26,10,38,G[oldbeck],acc. d. 3.
+10,333,break,high,short_line,0.26,10,38,acc. d. 3.,ad red. d. 8.
+11,337,run,review,short_line,0.61,17,28,An Sr Durchlaucht,des regierenden Herrn
+11,343,break,high,short_line+column,0.07,2,28,zu,Breslau
+11,344,break,high,short_line+column,0.25,7,28,Breslau,im Bureau
+11,345,break,high,short_line+column,0.32,9,28,im Bureau,zu mundiren
+11,346,run,review,short_line,0.39,11,28,zu mundiren,Mund. und zu P. d 8ten ej.
+11,347,break,high,salutation,0.93,26,28,Mund. und zu P. d 8ten ej.,"Durchlauchtigster Fürst,"
+11,373,run,review,short_line,0.42,13,31,"gewählt, weil",kürzlich der President der Regierung
+11,388,break,high,short_line+column,0.48,15,31,Ew: Durchlaucht,Berlin
+11,389,break,high,rubric+short_line,0.19,6,31,Berlin,d. 7 Xbr: 1800.
+12,411,break,high,short_line,0.7,28,40,zweiter Instanz einzusenden.,Posen den 18ten Decbr. 1800.
+12,412,break,high,short_line,0.7,28,40,Posen den 18ten Decbr. 1800.,die Regierung
+12,413,break,high,short_line+column,0.33,13,40,die Regierung,Dühring
+12,414,break,high,short_line+column,0.17,7,40,Dühring,Hering
+12,415,break,high,rubric+short_line,0.15,6,40,Hering,v. Götz
+12,417,break,high,short_line+column,0.15,6,40,Fromme,Diederichs
+12,418,break,high,short_line+column,0.25,10,40,Diederichs,Dannenberg
+12,419,break,high,short_line+column,0.25,10,40,Dannenberg,Bormann
+12,420,break,high,short_line+column,0.17,7,40,Bormann,Schwarz
+12,421,break,high,short_line+column,0.17,7,40,Schwarz,Hoening
+12,422,break,high,short_line+column,0.17,7,40,Hoening,Leuchert
+12,423,break,high,short_line+column,0.2,8,40,Leuchert,Richter
+12,424,break,high,short_line+column,0.17,7,40,Richter,Notificatur der Regierung zu
+12,425,run,review,short_line,0.7,28,40,Notificatur der Regierung zu,"Warſchau, daß da bereits in dieſer Sache"
+12,430,break,high,short_line+column,0.25,10,40,G[oldbeck],Nro. 6334.
+13,436,break,high,short_line,0.26,9,34,Warschau.,ex officio
+13,437,run,review,short_line,0.29,10,34,ex officio,Friedrich Wilhelm König p
+13,456,break,high,short_line+column,0.32,11,34,Ad mandatum,G[oldbeck]
+13,457,break,high,short_line+column,0.29,10,34,G[oldbeck],acc. d. 2.
+13,458,break,high,short_line,0.29,10,34,acc. d. 2.,ad rec. d. 3.
+13,459,break,high,short_line,0.38,13,34,ad rec. d. 3.,au liegen bey.
+13,460,break,high,short_line,0.41,14,34,au liegen bey.,den 5. Januar 1801 zur Post.
+13,462,break,high,rubric+short_line,0.29,10,34,Bamuzut[?],d. 4
+13,464,break,high,rubric+short_line,0.26,9,34,Schroener,d. 3. Jan:
+14,468,run,review,short_line,0.48,11,23,den 18 Juni,An Sr durch laucht
+14,475,break,high,short_line+column,0.09,2,23,zu,Breslau.
+14,476,break,high,short_line,0.35,8,23,Breslau.,Im Bureau zu
+14,477,break,high,short_line+column,0.52,12,23,Im Bureau zu,mundiren.
+14,478,break,high,short_line,0.39,9,23,mundiren.,Factum u. dh. Radke z: Post bef: d 3. Jan
+14,480,run,review,short_line,0.26,6,23,Gtt[?],Durchlauchtigster Fürst
+14,495,break,high,short_line,0.61,14,23,dort eingieng.,Noch welcher die Acten
+14,497,run,review,short_line,0.65,15,23,zur Abfügte der,Bethels nach Warschau
+14,500,run,review,short_line,0.65,15,23,sollten. Wissen,Entscheidung erster
+14,514,run,review,short_line,0.65,11,17,Appellanten,verbleibt ein
+14,531,run,review,short_line,0.47,8,17,verharre,Ew: Durchlaucht
+14,533,break,high,rubric+short_line,0.35,6,17,Berlin,d. 31. Decbr. 1800.
+15,538,break,high,short_line,0.14,5,37,Sire!,Il y a dix-huit mois qu’ayant eu le bonheur d’etre présentée à Posen à
+15,547,break,high,short_line,0.19,7,37,29 Jan.,An den Staats Minister Freyht[?] v. d. Reck
+15,550,break,high,short_line,0.14,5,37,1802.,eingel: d. 28ten.
+15,551,break,high,short_line,0.46,17,37,eingel: d. 28ten.,Notificatur der Suppl. daß das Appel¬
+15,557,break,high,short_line,0.65,24,37,cation zu erwarten habe.,Berlin den 29 ten Januar 1802
+15,559,break,high,short_line+column,0.11,4,37,Reck,factum
+15,560,break,high,rubric+short_line,0.16,6,37,factum,d. 31 ejusd.
+15,573,break,high,short_line,0.07,5,72,Sire.,de Votre Majesté.
+15,574,break,high,short_line,0.24,17,72,de Votre Majesté.,Dresde ce 22 Janvier
+15,575,break,high,short_line+column,0.28,20,72,Dresde ce 22 Janvier,1802.
+15,576,break,high,short_line,0.07,5,72,1802.,la trés dévouée et soumise
+15,577,break,high,short_line+column,0.36,26,72,la trés dévouée et soumise,sujette Michaline Prusimska.

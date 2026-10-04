@@ -3,7 +3,7 @@
 What is in `corpus/`, what each field means, and how to scope a question against
 it without loading the whole edition.
 
-This edition is not only correspondence. It holds **427 documents** from nine
+This edition is not only correspondence. It holds **441 documents** from nine
 archival holdings in three archives: files of letters, volumes of title deeds,
 ministry files, a court file and single charters. Everything
 below is generated from the units' `corpus.txt` and their `rulings.yml`; a
@@ -18,7 +18,7 @@ corpus/index/documents.json     the manifest - one compact row per document
 ```
 
 Read this first. It carries only the fields worth narrowing on, so you reach a
-working set before opening a single document. 427 rows, a few hundred KB.
+working set before opening a single document. 441 rows, a few hundred KB.
 
 Each row points at the two places the full text lives:
 

@@ -612,17 +612,6 @@
    "doc_line": 110
   },
   {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 4,
-   "page_id": "0403_a1",
-   "scan": "Oe_1_Bu_9454_0403_a1-L215_04.jpg",
-   "line": 15443,
-   "doc_line": 143
-  },
-  {
    "entity": "bornstaedt",
    "display": "Bornstädt",
    "kind": "person",
@@ -649,17 +638,6 @@
    "display": "George Conrad Leixner",
    "kind": "person",
    "surface": "Leixner",
-   "page": 4,
-   "page_id": "0403_a1",
-   "scan": "Oe_1_Bu_9454_0403_a1-L215_04.jpg",
-   "line": 15452,
-   "doc_line": 152
-  },
-  {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
    "page": 4,
    "page_id": "0403_a1",
    "scan": "Oe_1_Bu_9454_0403_a1-L215_04.jpg",

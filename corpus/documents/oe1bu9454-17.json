@@ -126,8 +126,8 @@
  ],
  "mentions": [
   {
-   "entity": "kleist",
-   "display": "Kleist",
+   "entity": "kleist-general",
+   "display": "General Kleist",
    "kind": "person",
    "surface": "Kleist",
    "page": 1,
@@ -148,8 +148,8 @@
    "doc_line": 4
   },
   {
-   "entity": "kleist",
-   "display": "Kleist",
+   "entity": "kleist-general",
+   "display": "General Kleist",
    "kind": "person",
    "surface": "Kleist",
    "page": 1,
@@ -348,8 +348,8 @@
  ],
  "mentions_english": [
   {
-   "entity": "kleist",
-   "display": "Kleist",
+   "entity": "kleist-general",
+   "display": "General Kleist",
    "kind": "person",
    "surface_de": "Kleist",
    "surface_en": "Kleist",

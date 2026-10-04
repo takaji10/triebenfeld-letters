@@ -1,34 +1,145 @@
 # Editorial rulings for I. HA GR, Rep. 7 C, Nr. 3709 (GStA PK).
 #
-# PROVISIONAL (2026-10-01): the file is not yet transcribed. It stands as one
-# document so that its pages and scans are in the edition; the cover (0001) is
-# front matter. When the text arrives, revisit everything here: the division
-# into documents, their types, dates, places, languages and estates in focus.
+# One document per letter (editor, 2026-10-01). The archive numbers nothing in
+# this file, so documents are numbered 1-15 in the order they are bound; the
+# cover (0001) is front matter. What the receiving office wrote on a letter is
+# listed in office_notes.yml. What each document is, and why, is in notes.md.
+# Established 2026-10-04, when the editor supplied the transcriptions.
 
 places:
-  overrides: {}
+  # Place of writing, from each document's own dateline.
+  overrides:
+    "1": Posen
+    "2": Charlottenburg
+    "3": Posen
+    "4": Charlottenburg
+    "5": Breslau
+    "6": Breslau
+    "7": Berlin
+    "8": Berlin
+    "9": Berlin
+    "10": Berlin
+    "11": Berlin
+    "12": Posen
+    "13": Berlin
+    "14": Berlin
+    "15": Dresden
 
 dates:
-  # [year, month, day, precision]. The first date on the file's cover, "den
-  # 18ten Juny 1800"; the last is 29 January 1802.
+  # [year, month, day, precision]; read off the document's own dateline.
   read:
-    "1": [1800, 6, 18, "day"]
+    "1": [1800, 6, 18, "day"]      # "Posen den 18ten Juny 1800."
+    "2": [1800, 6, 14, "day"]      # "Charlottenburg 14 Juny 1800."
+    "3": [1800, 7, 10, "day"]      # "Posen den 10ten July 1800."
+    "4": [1800, 7, 1, "day"]       # "Charlottenburg 1ten July 1800."
+    "5": [1800, 11, 30, "day"]     # "Breslau, den 30. Novbr 1800."
+    "6": [1800, 11, 30, "day"]     # "Breslau, den 30. Novbr. 1800."
+    "7": [1800, 12, 7, "day"]      # "Berlin den 7 Xbr. 1800."
+    "8": [1800, 12, 7, "day"]      # "Berlin, den 7. December 1800."
+    "9": [1800, 12, 7, "day"]      # "Sind p. Berlin, den 7. December 1800."
+    "10": [1800, 12, 7, "day"]     # the same
+    "11": [1800, 12, 7, "day"]     # "Berlin d. 7 Xbr: 1800."
+    "12": [1800, 12, 18, "day"]    # "Posen den 18ten Decbr. 1800."; 31 Dec is the decree on it
+    "13": [1800, 12, 31, "day"]    # "Berlin, den 31. December 1800."
+    "14": [1800, 12, 31, "day"]    # "Berlin d. 31. Decbr. 1800."
+    "15": [1802, 1, 22, "day"]     # "Dresde ce 22 Janvier 1802."; 26 to 31 Jan are the office's
   supplied: {}
   twin: {}
   inferred: {}
   no_date: []
 
 documents:
-  # Not classified until it is read; "document" is the neutral label.
+  # `draft` is the Grand Chancellor's own outgoing paper as it stayed in the
+  # file: the corrected draft, with its dispatch marks and his paraph. Four of
+  # the six are rescripts issued in the King's name ("Friedrich Wilhelm König
+  # p", "Ad mandatum"). `note` is the decree from which the clerk wrote them.
+  # `royal_rescript` is used for the two cabinet orders of the King, which are
+  # here in the copies the Poznań government sent in. Everything else is a
+  # letter received.
   doc_type:
-    "1": document
-  language: {}
+    "2": royal_rescript
+    "4": royal_rescript
+    "7": note
+    "8": draft
+    "9": draft
+    "10": draft
+    "11": draft
+    "13": draft
+    "14": draft
+
+  language:
+    "15": "fr"
+
   duplicate_of: {}
   split_note: {}
-  relations: {}
-  # Not set: which estates the complaint concerns is not known until the text
-  # is read.
-  estates: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "2"
+        note: "'Cabinets Ordre überreichen wir ... abschriftlich anliegend': document 2 is that copy."
+    "3":
+      - kind: transmits
+        target: "4"
+        note: "'in der Anlage eine Abschrift der Cabinets-Ordre vom 1ten ... hujus': document 4 is that copy."
+    "4":
+      - kind: answers
+        target: "1"
+        note: "The King returns the case files 'mittelst Berichts vom 18ten v. M. ... eingesandten': sent in with the report of 18 June, of which this file holds the copy for the Grand Chancellor."
+    "6":
+      - kind: supplements
+        target: "5"
+        note: "The Prince's covering letter to his petition of the same day: 'mein Bittschreiben noch mit diesen wenigen Worten zu begleiten'."
+    "7":
+      - kind: answers
+        target: "5"
+        note: "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
+    "11":
+      - kind: answers
+        target: "5"
+        note: "'Ew: Durchlauchten Wunsch, daß Hochdero Rechts-Sache ... nicht von der Regierung zu Posen abgeurtelt werde': the Prince's petition of 30 November."
+    "12":
+      - kind: answers
+        target: "8"
+        note: "'Ad Rescriptum clementissimum vom 7ten': the rescript of 7 December to the government at Poznań."
+    "13":
+      - kind: supersedes
+        target: "9"
+        note: "'es kann folglich das obangezogene Rescript keine Anwendung finden': the rescript of 7 December to the government at Warsaw."
+    "14":
+      - kind: supplements
+        target: "11"
+        note: "Tells the Prince that the order announced on 7 December came too late for the first instance."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml: the
+  # "Brzezier Güter", Brzyce in Kujawy, which Prusimska claimed as her mother's
+  # estate. Documents 1 to 4 name only "das mütterliche Vermögen" or the case;
+  # it is the same suit.
+  estates:
+    "1": [brzyce]
+    "2": [brzyce]
+    "3": [brzyce]
+    "4": [brzyce]
+    "5": [brzyce]
+    "6": [brzyce]
+    "7": [brzyce]
+    "8": [brzyce]
+    "9": [brzyce]
+    "10": [brzyce]
+    "11": [brzyce]
+    "12": [brzyce]
+    "13": [brzyce]
+    "14": [brzyce]
+    "15": [brzyce]
 
 damage:
-  letters: []
+  # The outer edge of the Prince's petition is torn away; five line ends are
+  # lost and stand as [...].
+  letters: ["5"]
+
+rough:
+  # The Grand Chancellor's draft of 31 December 1800 to the Prince: a passage
+  # struck out and rewritten down the margin in a hurried hand, which the
+  # transcription reads badly. Left as it stands; the page tells the reader to
+  # check the scan.
+  letters: ["14"]

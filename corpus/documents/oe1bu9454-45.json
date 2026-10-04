@@ -114,7 +114,7 @@
  "mentions": [
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -136,7 +136,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -146,8 +146,8 @@
    "doc_line": 13
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 1,
@@ -169,7 +169,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -202,7 +202,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 2,
@@ -212,8 +212,8 @@
    "doc_line": 25
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 2,
@@ -268,7 +268,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 3,
@@ -338,7 +338,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface_de": "Lahr",
    "surface_en": "Lahr",
@@ -353,8 +353,8 @@
    "page": 1
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",
@@ -385,7 +385,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",
@@ -393,8 +393,8 @@
    "page": 2
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-kaufmann",
+   "display": "Michaelis (merchant)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",
@@ -458,7 +458,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface_de": "Lahr",
    "surface_en": "Lahr",

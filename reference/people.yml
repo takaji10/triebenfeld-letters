@@ -156,14 +156,16 @@ people:
     variants: ["Goeschel"]
   goldbeck:
     display: "Heinrich Julius von Goldbeck"
-    match: "Goldbeck"
+    # G[oldbeck] is his paraph on the papers issued in his name in I. HA GR,
+    # Rep. 7 C, Nr. 3709 (one hand throughout; see that unit's notes.md).
+    match: 'Goldbeck|G\[oldbeck\]'
     # Two men of the name, told apart by date (editor, 2026-10-04: one entry
     # per person): the Grand Chancellor in 1796-98, the president at Kalisz
     # from 1805.
-    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79]
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
     tier: "Externally confirmed"
     variants: []
-    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79)."
+    identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709)."
   goldbeck-kalisz:
     display: "President von Goldbeck"
     match: "Goldbeck"
@@ -1015,10 +1017,10 @@ people:
     identity: "Legationsrath Jordan (letters 2, 268). Added 2026-09-28 in the names pass."
   danckelmann:
     display: "Danckelmann"
-    match: 'Danckelmann\w*'
+    match: 'Danckelman+\w*'
     tier: "Context-inferred"
     variants: []
-    identity: "Graf Danckelmann (letter 57). Added 2026-09-28 in the names pass."
+    identity: "Graf Danckelmann, vice-president of the South Prussian government at Poznań under the first president von Steudener (state handbook for 1800, reference/sources/handbuch_1800_1801_regierung_posen.md). He signs its reports of June and July 1800 as Danckelman and had moved to the government at Kalisz by December 1800, when the Grand Chancellor calls him its president (I. HA GR, Rep. 7 C, Nr. 3709, document 11); also 9454 letter 57. Added 2026-09-28 in the names pass."
   wratislaw:
     display: "Wratislaw"
     match: 'Wratislaw\w*'
@@ -1349,10 +1351,10 @@ people:
   von-der-reck:
     display: "Freiherr von der Reck"
     render: "von der Reck"
-    match: '(?<=von der )Reck(?![a-zà-ÿ])'
+    match: '(?<=von der )Reck(?![a-zà-ÿ])|(?<=v\. d\. )Reck(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
-    identity: "Eberhard Friedrich Christoph Ludwig von der Reck, Prussian minister of state and justice, to whom Hoym sent the grants for engrossing in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). Added 2026-09-30."
+    identity: "Eberhard Friedrich Christoph Ludwig von der Reck, Prussian minister of state and justice, to whom Hoym sent the grants for engrossing in 1796 (I. HA GR, Rep. 7 C, Nr. 3570). In January 1802 the Cabinet passed him Prusimska's petition and he answered it (Nr. 3709, document 15). Added 2026-09-30."
   bever:
     display: "Bever"
     match: 'Bever(?![a-zà-ÿ])'

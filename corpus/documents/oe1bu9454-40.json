@@ -116,17 +116,6 @@
    "doc_line": 21
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 1,
-   "page_id": "0073_b",
-   "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
-   "line": 2943,
-   "doc_line": 21
-  },
-  {
    "entity": "fuerst-august",
    "display": "Fürst August zu Hohenlohe-Ingelfingen",
    "kind": "person",
@@ -150,7 +139,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 2,
@@ -338,7 +327,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",

@@ -951,6 +951,34 @@
   ]
  },
  {
+  "entity": "brzyce",
+  "display": "Brzyce",
+  "count": 21,
+  "documents": [
+   "ihagrrep7cnr3570-1",
+   "ihagrrep7cnr3709-1",
+   "ihagrrep7cnr3709-10",
+   "ihagrrep7cnr3709-11",
+   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-13",
+   "ihagrrep7cnr3709-14",
+   "ihagrrep7cnr3709-15",
+   "ihagrrep7cnr3709-2",
+   "ihagrrep7cnr3709-3",
+   "ihagrrep7cnr3709-4",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-6",
+   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-8",
+   "ihagrrep7cnr3709-9",
+   "oe1bu14525-1",
+   "oe1bu14525-3",
+   "oe1bu14525-39",
+   "oe1bu14525-4",
+   "oe1bu9454-106"
+  ]
+ },
+ {
   "entity": "krotoszyn",
   "display": "Krotoszyn",
   "count": 21,
@@ -1310,19 +1338,6 @@
    "oe1bu9454-227",
    "oe1bu9454-266",
    "oe1bu9454-295"
-  ]
- },
- {
-  "entity": "brzyce",
-  "display": "Brzyce",
-  "count": 6,
-  "documents": [
-   "ihagrrep7cnr3570-1",
-   "oe1bu14525-1",
-   "oe1bu14525-3",
-   "oe1bu14525-39",
-   "oe1bu14525-4",
-   "oe1bu9454-106"
   ]
  },
  {

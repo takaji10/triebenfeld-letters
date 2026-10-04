@@ -4,8 +4,14 @@ The archive photographed the file as 22 images: a cover and 21 openings of two f
 
 ### Transcription
 
-None yet. Each page carries the note "(not transcribed)" beside its scan. The editor will supply the transcriptions.
+The editor transcribed the file with a handwriting recognition model, one text for each scan, and read the French petition a second time. The texts were divided into fifteen documents, one for each letter, order or draft. What the receiving office wrote on an incoming letter (the date it arrived, journal numbers, the decision on it) is set apart at the end of that page under its own label.
+
+The transcription was then corrected where something proves the reading: the same sentence in the decree and in the drafts written from it, the same signatures under three reports, a fixed formula, or a form that is no word. 57 words were corrected in this way, and sixteen more in the French petition from the scan. The signatures of the councillors at Poznań were read against the list of that court in the Prussian state handbook for 1800 and 1801. The paraph on the papers issued in the Grand Chancellor's name is one hand throughout and is given as "G[oldbeck]", for Heinrich Julius von Goldbeck, who held the office. The draft of 31 December 1800 to the Prince is heavily corrected and poorly read, and is marked as a rough transcription.
+
+### Summaries
+
+The summaries were written in German from a reading of each document against its scan, and translated into English. They have not yet had the separate check of each statement that the summaries of the other holdings received.
 
 ### Still to do
 
-The file is held provisionally as one document, dated by the first date on its cover. Once the text is transcribed it will be divided into one document for each letter, corrected, summarised and translated in the same way as the other files of the ministry in this edition.
+The documents have not yet been translated into English.

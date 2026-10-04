@@ -859,6 +859,10 @@ places:
       - "Brzyze"
       - "Brzyzer"
       - "Brzyzna"
+      # "Brzezier Güter": the suit of 1800 for the estate Prusimska claimed as
+      # her mother's (I. HA GR, Rep. 7 C, Nr. 3709); 12765 document 4 says it
+      # was Brzyze she vindicated.
+      - "Brzezier"
 
   osiny:
     display: "Osiny"

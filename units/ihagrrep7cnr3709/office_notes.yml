@@ -1,0 +1,31 @@
+# Text the receiving office wrote on someone else's letter: received marks,
+# journal numbers, directions for the reply, paraphs. The lines are ordinary
+# text in corpus.txt; this file only says which they are, so the site can set
+# them apart. Each block stands at the end of its document's part of the page
+# (editor, 2026-10-01), wherever it is written on the sheet.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found. A reply drafted on the page is not listed here: it is a
+# document of its own.
+blocks:
+  - letter: '1'
+    page: '0002_a2'
+    first: 'den 18 Juni'
+    lines: 5
+  - letter: '3'
+    page: '0004_a2'
+    first: 'd. 27. Juli 1800.'
+    lines: 7
+  - letter: '5'
+    page: '0007_a2'
+    first: 'd. 2. Dec 1800.'
+    lines: 3
+  - letter: '12'
+    page: '0016_a2'
+    first: 'Notificatur der Regierung zu'
+    lines: 7
+  - letter: '15'
+    page: '0020_a2'
+    first: '29 Jan.'
+    lines: 15

@@ -121,14 +121,14 @@ and Polajewo, and Voss's report against it. As now on the page, without the
 flourishes.
 
 Then Michalina Prusimska's complaints to the King against Hohenlohe-Ingelfingen,
-1800 to 1802. Nr. 3709 is in the edition as scans only: until it is
-transcribed the page says only what its cover and the order of its papers show,
-and says that its contents have not been read.
+1800 to 1802. Nr. 3709 is transcribed (2026-10-04) and the paragraph is
+written from it: the suit for Brzyce, the King's orders of 1800, the Prince's
+request for other judges, the judgment of 9 December 1800, her petition of 1802.
 
 Sources: Oe 1 Bü 9454 (letters 77 to 101); Nr. 3709.
 
-Incoming: *Complaint of Prusimska against Hohenlohe* is Nr. 3709, already in
-as scans. *Minor Prusimska's claims to father's ...* belongs here or in I.
+Incoming: *Complaint of Prusimska against Hohenlohe* is Nr. 3709, in and
+transcribed. *Minor Prusimska's claims to father's ...* belongs here or in I.
 
 ### III. Dividing the estates, 1798 to 1806 (*written*)
 
@@ -231,7 +231,7 @@ some cut short). "In" means already in the edition.
 | Folder | Holding | Section, or era to confirm |
 |---|---|---|
 | Deed of donation of Hohenlohe esta... | Nr. 3570, in | I |
-| Complaint of Prusimska against Hoh... | Nr. 3709, in (scans) | II |
+| Complaint of Prusimska against Hoh... | Nr. 3709, in | II |
 | Olesnica estate lease from Hohe... | Nr. 3705, in | III |
 | Claims of Hohenlohe on Trabczyn | Nr. 12765, in | VII, VIII |
 | Anton Prusimski Venice Residence | to add: I. HA GR, Rep. 7 C, Nr. 1414 (1797) | I, or the boundary era: confirm |

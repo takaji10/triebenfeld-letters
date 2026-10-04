@@ -918,17 +918,6 @@
    "doc_line": 135
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 8,
-   "page_id": "0113_a1",
-   "scan": "Oe_1_Bu_14526_0113_a1-L18_08.jpg",
-   "line": 5881,
-   "doc_line": 135
-  },
-  {
    "entity": "hirschel",
    "display": "Abraham Moses Hirschel",
    "kind": "person",
@@ -951,19 +940,8 @@
    "doc_line": 144
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 8,
-   "page_id": "0113_a1",
-   "scan": "Oe_1_Bu_14526_0113_a1-L18_08.jpg",
-   "line": 5890,
-   "doc_line": 144
-  },
-  {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-christiane",
+   "display": "Christiane Dorothea Michaelis",
    "kind": "person",
    "surface": "Michaelis",
    "page": 8,
@@ -995,28 +973,6 @@
    "doc_line": 155
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 9,
-   "page_id": "0113_a2",
-   "scan": "Oe_1_Bu_14526_0113_a2-L18_09.jpg",
-   "line": 5902,
-   "doc_line": 155
-  },
-  {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 9,
-   "page_id": "0113_a2",
-   "scan": "Oe_1_Bu_14526_0113_a2-L18_09.jpg",
-   "line": 5912,
-   "doc_line": 165
-  },
-  {
    "entity": "bernhard",
    "display": "Meyer Bernhard",
    "kind": "person",
@@ -1026,17 +982,6 @@
    "scan": "Oe_1_Bu_14526_0113_a2-L18_09.jpg",
    "line": 5913,
    "doc_line": 166
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 11,
-   "page_id": "0114_a2",
-   "scan": "Oe_1_Bu_14526_0114_a2-L18_11.jpg",
-   "line": 5958,
-   "doc_line": 209
   },
   {
    "entity": "bornstaedt",
@@ -1061,8 +1006,8 @@
    "doc_line": 228
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-christiane",
+   "display": "Christiane Dorothea Michaelis",
    "kind": "person",
    "surface": "Michaelis",
    "page": 13,
@@ -1136,17 +1081,6 @@
    "scan": "Oe_1_Bu_14526_0118_a1-L18_18.jpg",
    "line": 6087,
    "doc_line": 331
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 19,
-   "page_id": "0118_a2",
-   "scan": "Oe_1_Bu_14526_0118_a2-L18_19.jpg",
-   "line": 6111,
-   "doc_line": 354
   },
   {
    "entity": "bornstaedt",

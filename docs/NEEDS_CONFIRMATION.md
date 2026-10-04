@@ -11,10 +11,13 @@ repository; they are on the working machine.
 
 ## Waiting on material
 
-- **I. HA GR, Rep. 7 C, Nr. 3709** is in the edition as scans only. It waits
-  for the editor's transcriptions. Then: divide it into one document per
-  letter, set the office's writing apart (as in III. HA MdA, III Nr. 12765;
-  see `docs/GOVERNMENT_FILES.md`), read, translate and summarise.
+- **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed (2026-10-04): fifteen
+  documents, corrected and summarised in both languages. Still open: the
+  English translation and the claim check of the summaries (both paid, on
+  the editor's machine); the editor's eye on the paraph read as Goldbeck
+  and on the words in `review/ihagrrep7cnr3709/unresolved.md`, some of them
+  in the French petition.
+read, translate and summarise.
 - **Rescans, Oe 1 Bü 9454**: letter 245 (both pages) and letter 289 page 1,
   requested in `review/oe1bu9454/rescan_request_final.md`. The trial reading
   of 245 (`review/oe1bu9454/trial_245.csv`, 101 rows) waits for them.
@@ -152,8 +155,9 @@ Places (`reference/places.yml`, `open_questions`):
 All 421 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
-The six documents without English have no text to translate: Nr. 3709, and
-in Oe 1 Bü 9454 the skipped number 9 and the missing 121, 181, 225, 293.
+Five documents without English have no text to translate: in Oe 1 Bü 9454
+the skipped number 9 and the missing 121, 181, 225, 293. The fifteen of
+Nr. 3709 are transcribed and wait to be translated.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`

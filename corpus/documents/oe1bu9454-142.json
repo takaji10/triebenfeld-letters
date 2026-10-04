@@ -85,17 +85,6 @@
  ],
  "mentions": [
   {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "0279_a2",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10469,
-   "doc_line": 8
-  },
-  {
    "entity": "bornstaedt",
    "display": "Bornstädt",
    "kind": "person",
@@ -116,17 +105,6 @@
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
    "line": 10470,
    "doc_line": 9
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "0279_a2",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10472,
-   "doc_line": 11
   },
   {
    "entity": "bornstaedt",
@@ -151,17 +129,6 @@
    "doc_line": 17
   },
   {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "0279_a2",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10480,
-   "doc_line": 19
-  },
-  {
    "entity": "bornstaedt",
    "display": "Bornstädt",
    "kind": "person",
@@ -171,17 +138,6 @@
    "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
    "line": 10480,
    "doc_line": 19
-  },
-  {
-   "entity": "born",
-   "display": "Born",
-   "kind": "person",
-   "surface": "Born",
-   "page": 1,
-   "page_id": "0279_a2",
-   "scan": "Oe_1_Bu_9454_0279_a2-L142_01.jpg",
-   "line": 10483,
-   "doc_line": 22
   },
   {
    "entity": "bornstaedt",

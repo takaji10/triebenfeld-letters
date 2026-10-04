@@ -1,0 +1,141 @@
+{
+ "letter_id": "2",
+ "seq_archival": 2,
+ "parent_letter": "",
+ "unit": "ihagrrep7cnr3709",
+ "uid": "ihagrrep7cnr3709-2",
+ "pad": "ihagrrep7cnr3709-002",
+ "permalink": "/documents/ihagrrep7cnr3709/2/",
+ "doc_type": "royal_rescript",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1800-06-14",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1800-06-14",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1800,
+ "month": 6,
+ "day": 14,
+ "place": "Charlottenburg",
+ "sender": "König Friedrich Wilhelm III. von Preußen",
+ "recipient": "Südpreußische Regierung zu Posen",
+ "line_start": 44,
+ "line_end": 59,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "brzyce"
+ ],
+ "is_missing": 0,
+ "n_lines": 14,
+ "n_pages": 1,
+ "text": "Copia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims¬\nka veranlaßt, die in Sachen Ihrer wider des Für¬\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+ "text_reading": "Copia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm\n\nAn\n\nDie Regierung zu Posen",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0003_a2",
+   "line_start": 46,
+   "line_end": 59,
+   "n_lines": 14,
+   "diplomatic": "Copia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims¬\nka veranlaßt, die in Sachen Ihrer wider des Für¬\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+   "transcription": "Copia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims-\nka veranlaßt, die in Sachen Ihrer wider des Für-\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+   "reading": "Copia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm\n\nAn\n\nDie Regierung zu Posen",
+   "paragraphs": [
+    "Copia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm",
+    "An",
+    "Die Regierung zu Posen"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 14
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 49,
+   "doc_line": 4
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 51,
+   "doc_line": 6
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Charlottenburg",
+ "place_mentions": [
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 51,
+   "doc_line": 6
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 53,
+   "doc_line": 8
+  },
+  {
+   "entity": "charlottenburg",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface": "Charlottenburg",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 56,
+   "doc_line": 11
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L2_01.jpg",
+   "line": 59,
+   "doc_line": 14
+  }
+ ],
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "Copy of a cabinet order of the King to the Government at Poznań, received there on 16 June 1800: prompted by an enclosed complaint of von Prusimska, the King calls in the files of her case against the Prince of Hohenlohe-Ingelfingen over the petitioner's maternal property, as they stand, and orders them sent in at once.",
+ "summary_de": "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen, dort eingegangen am 16. Juni 1800: Durch eine beiliegende Beschwerde der von Prusimska veranlasst, fordert der König die Akten ihrer Sache gegen den Fürsten von Hohenlohe-Ingelfingen wegen des mütterlichen Vermögens der Bittstellerin ein, so wie sie liegen, und befiehlt, sie sofort einzusenden.",
+ "reading": {}
+}

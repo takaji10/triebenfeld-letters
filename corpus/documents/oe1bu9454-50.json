@@ -130,7 +130,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -141,7 +141,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -163,7 +163,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -185,7 +185,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 1,
@@ -229,7 +229,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 2,
@@ -240,7 +240,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 2,
@@ -273,7 +273,7 @@
   },
   {
    "entity": "lahr",
-   "display": "von der Lahr",
+   "display": "van der Lahr",
    "kind": "person",
    "surface": "Lahr",
    "page": 2,
@@ -357,7 +357,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",
@@ -389,7 +389,7 @@
    "page": 2
   },
   {
-   "entity": "",
+   "entity": "lahr",
    "display": "van der Lahr",
    "kind": "person",
    "surface_de": "van der Lahr",
@@ -397,8 +397,8 @@
    "page": 2
   },
   {
-   "entity": "lahr",
-   "display": "von der Lahr",
+   "entity": "",
+   "display": "van der Lahr",
    "kind": "person",
    "surface_de": "von der Lahr",
    "surface_en": "van der Lahr",

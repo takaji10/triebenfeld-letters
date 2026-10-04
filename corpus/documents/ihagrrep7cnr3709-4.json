@@ -1,0 +1,136 @@
+{
+ "letter_id": "4",
+ "seq_archival": 4,
+ "parent_letter": "",
+ "unit": "ihagrrep7cnr3709",
+ "uid": "ihagrrep7cnr3709-4",
+ "pad": "ihagrrep7cnr3709-004",
+ "permalink": "/documents/ihagrrep7cnr3709/4/",
+ "doc_type": "royal_rescript",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1800-07-01",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1800-07-01",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1800,
+ "month": 7,
+ "day": 1,
+ "place": "Charlottenburg",
+ "sender": "König Friedrich Wilhelm III. von Preußen",
+ "recipient": "Südpreußische Regierung zu Posen",
+ "line_start": 101,
+ "line_end": 128,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "1",
+   "note": "The King returns the case files 'mittelst Berichts vom 18ten v. M. ... eingesandten': sent in with the report of 18 June, of which this file holds the copy for the Grand Chancellor."
+  }
+ ],
+ "estates": [
+  "brzyce"
+ ],
+ "is_missing": 0,
+ "n_lines": 26,
+ "n_pages": 1,
+ "text": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be¬\nrichts vom 18ten v. M. in Sachen der Micha¬\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In¬\nstruction, sich alles Fleisses ange¬\nlegen sein, hiernächst der Sache ange¬\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er¬\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um¬\nstände die Gesetze es mit sich brin¬\ngen sollten, daß nochmals in er¬\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
+ "text_reading": "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm\n\nAn die Regierung\n\nzu Posen",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0005_a2",
+   "line_start": 103,
+   "line_end": 128,
+   "n_lines": 26,
+   "diplomatic": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be¬\nrichts vom 18ten v. M. in Sachen der Micha¬\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In¬\nstruction, sich alles Fleisses ange¬\nlegen sein, hiernächst der Sache ange¬\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er¬\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um¬\nstände die Gesetze es mit sich brin¬\ngen sollten, daß nochmals in er¬\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
+   "transcription": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be-\nrichts vom 18ten v. M. in Sachen der Micha-\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In-\nstruction, sich alles Fleisses ange-\nlegen sein, hiernächst der Sache ange-\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er-\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um-\nstände die Gesetze es mit sich brin-\ngen sollten, daß nochmals in er-\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
+   "reading": "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm\n\nAn die Regierung\n\nzu Posen",
+   "paragraphs": [
+    "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm",
+    "An die Regierung",
+    "zu Posen"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 26
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 1,
+   "page_id": "0005_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "line": 107,
+   "doc_line": 5
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0005_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "line": 108,
+   "doc_line": 6
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Charlottenburg",
+ "place_mentions": [
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0005_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "line": 108,
+   "doc_line": 6
+  },
+  {
+   "entity": "charlottenburg",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface": "Charlottenburg",
+   "page": 1,
+   "page_id": "0005_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "line": 125,
+   "doc_line": 23
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0005_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "line": 128,
+   "doc_line": 26
+  }
+ ],
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "Copy of a cabinet order of the King to the Government at Poznań: he returns the files of the case of Prusimska against the Prince of Hohenlohe-Ingelfingen that were sent in with the report of the 18th of the previous month. The Government is to finish preparing the case, which has been much delayed by too much indulgence towards the defendant's agent, with all diligence, and then to have suitable proposals for a settlement made. If no settlement is reached, it is to see to a speedy judgment, especially if the laws should require judgment to be given once more in the first instance.",
+ "summary_de": "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen: Er sendet die mit dem Bericht vom 18. des Vormonats eingesandten Akten der Sache Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen zurück. Die Regierung soll die Instruktion, die durch zu viel Nachsicht gegen den Bevollmächtigten des Beklagten sehr verzögert worden sei, mit allem Fleiß beenden und dann angemessene Vergleichsvorschläge machen lassen. Kommt der Vergleich nicht zustande, soll sie für ein rasches Urteil sorgen, besonders falls nach den Gesetzen nochmals in erster Instanz erkannt werden müsste.",
+ "reading": {}
+}

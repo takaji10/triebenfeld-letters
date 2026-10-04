@@ -300,17 +300,6 @@
    "doc_line": 40
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
-   "kind": "person",
-   "surface": "Michaelis",
-   "page": 4,
-   "page_id": "0017_a1",
-   "scan": "Oe_1_Bu_14526_0017_a1-L4_04.jpg",
-   "line": 719,
-   "doc_line": 113
-  },
-  {
    "entity": "broniewski",
    "display": "Broniewski",
    "kind": "person",
@@ -388,17 +377,6 @@
    "doc_line": 198
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
-   "page": 6,
-   "page_id": "0018_a1",
-   "scan": "Oe_1_Bu_14526_0018_a1-L4_06.jpg",
-   "line": 806,
-   "doc_line": 198
-  },
-  {
    "entity": "leixner",
    "display": "George Conrad Leixner",
    "kind": "person",
@@ -425,17 +403,6 @@
    "display": "Meyer Bernhard",
    "kind": "person",
    "surface": "Bernhard",
-   "page": 7,
-   "page_id": "0018_a2",
-   "scan": "Oe_1_Bu_14526_0018_a2-L4_07.jpg",
-   "line": 819,
-   "doc_line": 210
-  },
-  {
-   "entity": "meyer",
-   "display": "Meyer",
-   "kind": "person",
-   "surface": "Meyer",
    "page": 7,
    "page_id": "0018_a2",
    "scan": "Oe_1_Bu_14526_0018_a2-L4_07.jpg",
@@ -499,7 +466,7 @@
   },
   {
    "entity": "born",
-   "display": "Born",
+   "display": "Ernst Gottlob Born",
    "kind": "person",
    "surface": "Born",
    "page": 8,

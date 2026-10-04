@@ -1,0 +1,183 @@
+{
+ "letter_id": "7",
+ "seq_archival": 7,
+ "parent_letter": "",
+ "unit": "ihagrrep7cnr3709",
+ "uid": "ihagrrep7cnr3709-7",
+ "pad": "ihagrrep7cnr3709-007",
+ "permalink": "/documents/ihagrrep7cnr3709/7/",
+ "doc_type": "note",
+ "era": "hohenlohe",
+ "themes": [],
+ "date_iso": "1800-12-07",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1800-12-07",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1800,
+ "month": 12,
+ "day": 7,
+ "place": "Berlin",
+ "sender": "Goldbeck",
+ "recipient": "",
+ "line_start": 210,
+ "line_end": 236,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "5",
+   "note": "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
+  }
+ ],
+ "estates": [
+  "brzyce"
+ ],
+ "is_missing": 0,
+ "n_lines": 25,
+ "n_pages": 1,
+ "text": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor¬\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen¬\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach¬\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+ "text_reading": "Ex officio\n\n1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.\n\n2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und\n\n3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.\n\nG[oldbeck]\n\nNr. 5957.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0011_a2",
+   "line_start": 212,
+   "line_end": 236,
+   "n_lines": 25,
+   "diplomatic": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor¬\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen¬\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach¬\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+   "transcription": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor-\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen-\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach-\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+   "reading": "Ex officio\n\n1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.\n\n2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und\n\n3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.\n\nG[oldbeck]\n\nNr. 5957.",
+   "paragraphs": [
+    "Ex officio",
+    "1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.",
+    "2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und",
+    "3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.",
+    "G[oldbeck]",
+    "Nr. 5957."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 25
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 218,
+   "doc_line": 7
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 218,
+   "doc_line": 7
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface": "G[oldbeck]",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 235,
+   "doc_line": 24
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Berlin",
+ "place_mentions": [
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 213,
+   "doc_line": 2
+  },
+  {
+   "entity": "brzyce",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface": "Brzezier",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 219,
+   "doc_line": 8
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 219,
+   "doc_line": 8
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 225,
+   "doc_line": 14
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warſchau",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 232,
+   "doc_line": 21
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L7_01.jpg",
+   "line": 234,
+   "doc_line": 23
+  }
+ ],
+ "translation_status": "untranslated",
+ "translation": [],
+ "text_english": "",
+ "summary_en": "A decree made of the office's own motion: since most councillors of the Government at Poznań are members of the guardianship board there, which occasioned the suit of the guardian of the minor Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates and directs it, the case is to be decided in the first instance by the full bench of the Government at Warsaw and in the second by the Senate of Higher Appeal of the Kammergericht. The Government at Poznań is to be told; rescripts go also to the Government at Warsaw and to the Senate.",
+ "summary_de": "Verfügung von Amts wegen: Da die meisten Räte der Regierung zu Posen Mitglieder des dortigen Vormundschaftskollegiums sind, das die Klage des Vormunds der minderjährigen Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und den Prozess leitet, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Oberappellationssenat des Kammergerichts entschieden werden. Dies ist der Regierung zu Posen mitzuteilen; Reskripte ergehen auch an die Regierung zu Warschau und an den Senat.",
+ "reading": {}
+}

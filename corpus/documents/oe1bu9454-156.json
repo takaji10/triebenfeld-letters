@@ -151,10 +151,10 @@
    "doc_line": 19
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-hofrat",
+   "display": "Hofrat Meyer",
    "kind": "person",
-   "surface": "Meyer",
+   "surface": "Hoft Rath Meyer",
    "page": 2,
    "page_id": "0297_a1",
    "scan": "Oe_1_Bu_9454_0297_a1-L156_02.jpg",
@@ -239,10 +239,10 @@
    "doc_line": 75
   },
   {
-   "entity": "meyer",
-   "display": "Meyer",
+   "entity": "meyer-wolff",
+   "display": "Lipmann Meyer Wolff",
    "kind": "person",
-   "surface": "Meyer",
+   "surface": "Liep Meyer",
    "page": 4,
    "page_id": "0298_a2",
    "scan": "Oe_1_Bu_9454_0298_a2-L156_04.jpg",
@@ -287,7 +287,7 @@
    "page": 2
   },
   {
-   "entity": "meyer",
+   "entity": "",
    "display": "Meyer",
    "kind": "person",
    "surface_de": "Meyer",
@@ -415,8 +415,8 @@
    "page": 4
   },
   {
-   "entity": "",
-   "display": "Liep Meyer",
+   "entity": "meyer-wolff",
+   "display": "Lipmann Meyer Wolff",
    "kind": "person",
    "surface_de": "Liep Meyer",
    "surface_en": "Liep Meyer",

@@ -86,8 +86,8 @@
    "doc_line": 11
   },
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface": "Michaelis",
    "page": 1,
@@ -99,8 +99,8 @@
  ],
  "mentions_english": [
   {
-   "entity": "michaelis",
-   "display": "Michaelis",
+   "entity": "michaelis-hoffiskal",
+   "display": "Michaelis (court fiscal)",
    "kind": "person",
    "surface_de": "Michaelis",
    "surface_en": "Michaelis",
