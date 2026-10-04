@@ -328,7 +328,10 @@ people:
       - "Van der Laar"
   leixner:
     display: "George Conrad Leixner"
-    match: "Leixner"
+    # "Leyner" is the spelling of the French report of 1818 (III. HA MdA, III.
+    # Nr. 12366, document 2): "le Caissier de la Banque Leyner", the buyer of
+    # Kolno and Kamionna.
+    match: "Leixner|Leyner"
     tier: ""
     variants: []
   lichnowski:
@@ -730,7 +733,8 @@ people:
     variants: []
   zastrow:
     display: "Zastrow"
-    match: "Zastrow"
+    # "Zastrof" in the French report of 1818 (III. HA MdA, III. Nr. 12366).
+    match: "Zastrow|Zastrof"
     tier: ""
     variants: []
     identity: "General von Zastrow, named in 1820 beside von Sanitz as a donee of confiscated Polish estates whom the Prussian government compensated; the Prince's heirs cited his case (III. HA MdA, III Nr. 12765, document 27). Identity added 2026-10-01."
@@ -1494,3 +1498,48 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "A creditor in the list of Hohenlohe-Ingelfingen's debts (letter 303, no. 60). Added 2026-10-04."
+  # --- III. HA MdA, III. Nr. 12366, added 2026-10-04 --------------------------
+  bernstorff:
+    display: "Bernstorff"
+    match: 'Bernstorff'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Count Christian Günther von Bernstorff, Prussian minister of foreign affairs from 1818, to whom the Russian envoy's note of 20 January 1819 on Miączyńska's claim is addressed and in whose name the refusal of 11 May 1819 was drafted (III. HA MdA, III. Nr. 12366). Added 2026-10-04."
+  tarczewski:
+    display: "Tarczewski"
+    match: 'Tarczewski'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "An advocate at Warsaw, signing 'M. Tarczewski', who on 16 November 1819 reports to a client on a suit against Miączyńska before the court of appeal (III. HA MdA, III. Nr. 12366, document 4). Added 2026-10-04."
+  grotowski:
+    display: "Grotowski"
+    # Grottowsky in the French of 1827, Grotowskim and Grotowskiey in the
+    # Polish judgment; his widow is "z Blachow Grotowska".
+    match: 'Grot+owsk\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Franciszek Grotowski, who lent Hohenlohe-Ingelfingen 30,000 Rthl on a mortgage on Trąbczyn; the claim passed to the merchant Weigel. His widow Maria Anna, born Blacha, had 20,000 Rthl registered on the estate, which the Kalisz tribunal struck out in 1827 (III. HA MdA, III. Nr. 12366). Entry added 2026-10-04; before that the name was matched from the vetted list."
+  wybicki:
+    display: "Wybicki"
+    match: 'Wybick\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The senator and voivode Wybicki, whose estate of Manieczki, confiscated by Prussia and given to General von Zastrow, was returned to him in 1807; the Warsaw report of 1818 cites his case (III. HA MdA, III. Nr. 12366, document 2). Józef Wybicki owned Manieczki. A Wybicki at Warsaw is written to in 1810 (9454). Added 2026-10-04."
+  niemojewski:
+    display: "Niemojewski"
+    match: 'Niemojewski'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "General Niemojewski, restored in 1807 to an estate that Prussia had confiscated and given away, free of debt; cited as a precedent in the Warsaw report of 1818 (III. HA MdA, III. Nr. 12366, document 2). Added 2026-10-04."
+  wichrowski:
+    display: "Wichrowski"
+    match: 'Wichrowsk[iy]'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Wichrowski, restored in 1807 to his estate 'Beskyn', free of debt; cited as a precedent in the Warsaw report of 1818 (III. HA MdA, III. Nr. 12366, document 2). The transcription first read Wichnowski. Added 2026-10-04."
+  rembowski:
+    display: "Rembowski"
+    match: 'Rembowski'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Antoni Rembowski, president of the civil tribunal of first instance at Kalisz, who signs the judgment of 30 July 1827 (III. HA MdA, III. Nr. 12366, document 6). A Rembowski is named with two tribunal councillors in 9454. Added 2026-10-04."

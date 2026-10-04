@@ -446,7 +446,7 @@ eine *Frau Charlotte von Triebenfeld* mit 112.000 Reichstalern, derselben Summe 
 Vorschuss, der sich durch den Briefwechsel zieht. Ob es dieselben 112.000 sind und ob diese
 Charlotte die Tochter ist, die Brief 7 schrieb, sagen die Dokumente nicht.
 
-## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1820
+## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1827
 
 Hohenlohe-Ingelfingen starb 1818 in Sławięcice in Oberschlesien. Seine Erben erneuerten die
 Forderung, und Herzog Eugen von Württemberg empfahl sie der russischen Regierung unter Hinweis
@@ -454,8 +454,21 @@ auf zwei entschädigte preußische Generale. Am 31. Januar 1820 antwortete der r
 in Berlin, Alopeus, die Forderung sei 1816 abgelehnt worden, und der Kaiser könne der
 Empfehlung nicht folgen ([Note]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }})). Das
 preußische Ministerium unternahm nichts weiter und gab die Sache an den Minister des Innern ab
-([Mai 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})). Es ist das letzte
-Dokument der Epoche.
+([Mai 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})).
+
+Die Schulden, die Hohenlohe-Ingelfingen auf Trąbczyn hatte eintragen lassen, überdauerten ihn.
+Im Januar 1819 verlangte Prusimskis Tochter, inzwischen Gräfin Miączyńska, über den russischen
+Gesandten von Preußen, sie zu tilgen: nach ihrer Rechnung 156.000 Taler auf Trąbczyn und
+Szetlewek ([Bericht]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Das preußische Ministerium lehnte
+im Mai ab ([Antwortentwurf]({{ '/documents/iiihamdaiiinr12366/3/' | relative_url }})). Die polnischen Gerichte
+nahmen danach an, die Rückgabe der Güter 1807 habe die in der Zwischenzeit darauf aufgenommenen
+Schulden aufgehoben. Das Ziviltribunal in Kalisz (Kalisch) ließ 1819 die Hypothek Weigels, eines
+Kaufmanns in Wrocław (Breslau), löschen, und das Obertribunal in Warschau bestätigte das Urteil
+1826. Im Februar 1827 bat der preußische Gesandte in St. Petersburg, Schöler, den russischen
+Außenminister, es aufheben zu lassen ([Note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). Eine
+Antwort enthält die Akte nicht. Im Juli 1827 ließ das Tribunal in Kalisz auch die Hypotheken der
+Brüder Lichnowski und der Witwe Grotowski löschen
+([Urteil]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})). Es ist das letzte Dokument der Epoche.
 
 ## Die Personen, denen Sie immer wieder begegnen
 

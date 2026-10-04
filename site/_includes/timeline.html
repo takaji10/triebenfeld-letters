@@ -8,7 +8,7 @@
 {% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
 
 <div class="timeline">
-  {% for year in (1794..1820) %}
+  {% for year in (1794..1827) %}
     {% assign ys = year | append: '' %}
     {% assign yrec = site.data.stats.years | where: "year", ys | first %}
     {% assign count = 0 %}

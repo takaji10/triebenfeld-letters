@@ -203,13 +203,16 @@ Sources: Oe 1 Bü 9454 (the Vienna letters, letter 303); Nr. 12765.
 
 Incoming: *Claims of Hohenlohe on Trabczyn* is Nr. 12765, already in.
 
-### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1820 (*written*)
+### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1827 (*written*)
 
 His death in 1818; the heirs' claim recommended by Duke Eugen of Württemberg;
 Alopeus's answer of 31 January 1820 that it had been refused in 1816; the
-ministry's last step. Short.
+ministry's last step. Short. Then the debts he left on Trąbczyn: Miączyńska's
+request of 1819 that Prussia pay them, the refusal, and the Polish judgments
+of 1819 to 1827 that struck out the mortgages of Weigel, the Lichnowski
+brothers and Grotowski's widow (added 2026-10-04).
 
-Sources: Nr. 12765 (documents 27 and 29).
+Sources: Nr. 12765 (documents 27 and 29); III. HA MdA, III. Nr. 12366.
 
 ### The people you will keep meeting (*written*)
 
@@ -239,7 +242,7 @@ some cut short). "In" means already in the edition.
 | Capital on the Zagorow estates | to add | III |
 | Hohenlohe operations after Jena | to add | V, a sentence at most |
 | Biography of Hohenlohe (IV. HA) | to add | Opening, for his life; not a source for the estates |
-| Klage der Gräfin Michalina von Miac... (two) | to add | VI, or the restitution era: confirm |
+| Klage der Gräfin Michalina von Miac... (two) | one in: III. HA MdA, III. Nr. 12366 (1818-1827), placed in the Hohenlohe era for now; the other to add | VIII; the editor to confirm the era (Hohenlohe or restitution) |
 | Miaczynska compensation for confisc... | to add | VI or VII, or the restitution era: confirm |
 
 ## When a holding is added

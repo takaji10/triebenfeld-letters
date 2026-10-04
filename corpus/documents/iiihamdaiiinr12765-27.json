@@ -706,6 +706,28 @@
    "doc_line": 2
   },
   {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Varsovie",
+   "page": 1,
+   "page_id": "0039_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0039_a2-L27_01.jpg",
+   "line": 928,
+   "doc_line": 3
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Varsovie",
+   "page": 2,
+   "page_id": "0040_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0040_a1-L27_02.jpg",
+   "line": 935,
+   "doc_line": 9
+  },
+  {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",

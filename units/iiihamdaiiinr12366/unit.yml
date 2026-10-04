@@ -1,0 +1,112 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: iiihamdaiiinr12366
+ref: III. HA MdA, III. Nr. 12366
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  A file of the Prussian Ministry of Foreign Affairs on the claim of Countess
+  Michalina Miączyńska, born Prusimska, to have the Trąbczyn estates, returned
+  to her in 1807, freed of the debts that Prince Friedrich Ludwig of
+  Hohenlohe-Ingelfingen had secured on them, and on the Polish courts'
+  judgments of 1819 to 1827 that struck out those debts against his Prussian
+  creditors, the merchant Weigel, the Lichnowski brothers and the widow
+  Grotowska.
+title_de: >-
+  Eine Akte des preußischen Außenministeriums über die Forderung der Gräfin
+  Michalina Miączyńska, geborene Prusimska, die ihr 1807 zurückgegebenen
+  Güter um Trąbczyn von den Schulden zu befreien, die Fürst Friedrich Ludwig
+  zu Hohenlohe-Ingelfingen darauf hatte eintragen lassen, und über die Urteile
+  polnischer Gerichte von 1819 bis 1827, die diese Schulden zum Nachteil
+  seiner preußischen Gläubiger, des Kaufmanns Weigel, der Brüder Lichnowski
+  und der Witwe Grotowska, löschten.
+# The file's own heading, from its cover. Kept for reference; nothing displays
+# it.
+archive_title: >-
+  Acta des Ministeriums der auswärtigen Angelegenheiten, betr.: Des
+  Entschädigungsgesuchs der Frau v. Miączyńska geb. v. Prusimska, und die
+  Forderung des p Weigel an dieselbe, imgleichen: der Gebrüder von Lichnowski
+# The earliest piece is the copy of 29 April 1818, the latest the judgment of
+# 30 July 1827. The cover gives "Vol. I, vom 15. Dez. 1818 bis Novbr 1827".
+# The scan folder's name carries "1834-1836", which no piece here bears.
+date_span: 1818-1827
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 25 scans. Ten are single leaves (0001 the cover, 0002, 0003, 0009-0013,
+# 0017, 0025); fifteen are openings written on both sides. All were copied
+# unchanged into raw_dir/processed/ as <capture>_a.jpg; each opening is cut at
+# the fold where the editor places it (review_folds.py): `_a1` is the left
+# side, `_a2` the right. 0004 and 0005 are one opening photographed twice,
+# because a slip bound into the gutter hides part of either side: the left
+# page is 0004_a1, the right 0005_a2 (editor, 2026-10-04); 0004_a2 and 0005_a1
+# are set aside in processed/_blank_halves/. 38 pages in all.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/III_HA_MdA_III_Nr_12366 - Klage der Gräfin Michalina von Miaczynska, geb. vo - 1834-1836
+  raw_glob: III_HA_MdA_III_Nr_12366_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: III_HA_MdA_III_Nr_12366
+
+# One file per page, named by page id (0014_a1.txt). Made from the editor's
+# single Markdown transcription by intake/build_pages.py, which records where
+# the text was cut.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  The Prussian foreign ministry's file on what became of the debts that the
+  Prince of Hohenlohe-Ingelfingen secured on the Trąbczyn estates, after a
+  Polish commission gave the estates back in 1807 to Michalina Miączyńska,
+  born Prusimska, the daughter of their former owner. Six documents and the
+  cover. In January 1819 the Russian envoy at Berlin, Alopeus, sends Count
+  Bernstorff a report from Warsaw of 29 April 1818 that sets out her claim:
+  Prussia, which confiscated the estates from her father in 1796 and gave them
+  away, should pay off the debts the donees loaded on them. The ministry's
+  draft reply of 11 May 1819 refuses. A Warsaw advocate, Tarczewski, writes in
+  November 1819 about a creditor's suit against her. In 1827 the Prussian
+  envoy at St Petersburg, General von Schöler, protests to Count Nesselrode
+  that the Polish courts have struck out the mortgage of the Breslau merchant
+  Weigel, 30,000 écus lent to the Prince, and asks that the judgment be
+  annulled; and a certified extract in Polish gives the judgment of the Kalisz
+  civil tribunal of 30 July 1827, which strikes out the mortgages of the
+  Lichnowski brothers and of the widow Grotowska on the same grounds. The
+  first five documents are in French, two of them copies and one the
+  ministry's draft; the judgment is in Polish.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file with no German in it beyond the cover: documents 1 to 5 are
+  French, document 6 is Polish in the spelling of the 1820s (y for j, as in
+  "Pierwszey", "iest"; diacritics often omitted). The text is transcribed by
+  paragraph, not line by line. Document 3 is the ministry's draft, in the
+  French of a German official. Dates in documents sent to or from St Petersburg are given
+  in both calendars ("10 février/29 janvier"). "écus" are Prussian thalers;
+  "donnataires" are the men to whom the King gave confiscated estates. A word
+  followed by [?] is one the transcriber was unsure of. In document 2 a reader
+  in the Prussian ministry wrote pencil notes in German in the margins; each
+  stands at the foot of its page as a line of its own, and the French words in
+  square brackets before it are the passage it refers to, quoted by the
+  edition, not part of the note.

@@ -1,0 +1,38 @@
+{
+  "1": {
+    "basis": "ruling 2026-10-04: signed \"Alopeus\" (the transcription expands it \"David d'Alopeus\"), \"le soussigné Envoyé Extraordinaire et Ministre Plénipotentiaire de Sa Majesté L'Empereur de toutes les Russies\"; addressed \"à S. E. Monsieur le Comte de Bernstorff\"",
+    "confidence": "high",
+    "recipient": "Bernstorff",
+    "sender": "Alopeus"
+  },
+  "2": {
+    "basis": "ruling 2026-10-04: an unsigned copy. The envoy's covering note (document 1) calls it \"le rapport ci-joint du Lieutenant du Royaume de Pologne\", the office Prince Zajączek held; the report itself repeats what the commissioners for the liquidation of the Duchy of Warsaw set out. It names no addressee",
+    "confidence": "high",
+    "recipient": "",
+    "sender": "Zajączek"
+  },
+  "3": {
+    "basis": "ruling 2026-10-04: the ministry's draft, in the name of \"le soussigné Ministre d'Etat et de Cabinet\", the minister to whom document 1 is addressed; headed \"A Monsieur d'Alopeus\"",
+    "confidence": "high",
+    "recipient": "Alopeus",
+    "sender": "Bernstorff"
+  },
+  "4": {
+    "basis": "ruling 2026-10-04: a copy signed \"M. Tarczewski\", who conducts the addressee's suit against Madame Miączyńska at Warsaw. The addressee is not named; the suit then pending was the merchant Weigel's (document 5), so he is probable, not stated",
+    "confidence": "high",
+    "recipient": "",
+    "sender": "Tarczewski"
+  },
+  "5": {
+    "basis": "ruling 2026-10-04: a copy, \"signé le Général de Schöler\", the Prussian envoy at St Petersburg; addressed \"A S. E. Mr. le Comte de Nesselrode\"",
+    "confidence": "high",
+    "recipient": "Nesselrode",
+    "sender": "Schöler"
+  },
+  "6": {
+    "basis": "ruling 2026-10-04: a certified extract of a judgment of the \"Trybunał Cywilny Pierwszey Instancyi Woiewodztwa Kaliskiego\", signed by its president Rembowski and the clerk Piątkiewicz; it has no addressee",
+    "confidence": "high",
+    "recipient": "",
+    "sender": "Zivil-Tribunal erster Instanz der Woiwodschaft Kalisch"
+  }
+}

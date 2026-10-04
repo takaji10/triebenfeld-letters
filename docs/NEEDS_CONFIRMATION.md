@@ -66,6 +66,18 @@ read, translate and summarise.
   Trąbczyn–Łukom boundary dispute (c. 1589–1788) and the
   Prusimska/Miączyńska restitution (1807 onward).
 
+- **III. HA MdA, III. Nr. 12366** is in (2026-10-04): six documents,
+  corrected in the French, summarised in both languages. Still open:
+  - the English translation and the claim check of the summaries (both
+    paid, on the editor's machine);
+  - **its era**: it is placed in the Hohenlohe-Ingelfingen years because it
+    is about his debts, but its documents run to 1827 and the last is
+    Miączyńska's own lawsuit. The era plan left this for the editor to
+    confirm (Hohenlohe or the restitution era);
+  - three words of the Polish judgment that the editor could not tell on
+    the scan ("Assistant", "Rozdayczer[?]", "Likrę[?]"):
+    `units/iiihamdaiiinr12366/intake/unresolved.md`.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
@@ -100,6 +112,9 @@ written until there is a witness or a better scan.
   formulas ("erwiedere ich auf", "Zurückgabe der Beilagen", "geehrtesten",
   "behalte mir vor") would be worth a spot sheet if the drafts are to be
   improved; applying any makes those documents' English stale.
+
+- **III. HA MdA, III. Nr. 12366**: words left as written, in
+  `units/iiihamdaiiinr12366/intake/unresolved.md`.
 
 ## Identifications
 

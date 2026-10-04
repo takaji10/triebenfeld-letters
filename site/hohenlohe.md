@@ -432,7 +432,7 @@ Reichsthaler in silver and 17,874 in gold. The largest private creditor on it is
 Whether it is the same 112,000, and whether this Charlotte is the daughter who wrote letter
 7, the documents do not say.
 
-## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1820
+## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1827
 
 Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs renewed the
 claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
@@ -440,8 +440,21 @@ Prussian generals who had been compensated. On 31 January 1820 the Russian envoy
 Alopeus, answered that the claim had been refused in 1816 and that the Emperor could not act
 on the recommendation ([note]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }})). The
 Prussian ministry took no further step and passed the matter to the Minister of the Interior
-([May 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})). It is the last
-document of the era.
+([May 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})).
+
+The debts that Hohenlohe-Ingelfingen had secured on Trąbczyn outlasted him. In January 1819
+Prusimski's daughter, by then Countess Miączyńska, asked Prussia through the Russian envoy to
+pay them off: 156,000 écus on Trąbczyn and Szetlewek by her count
+([report]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). The Prussian ministry refused in May
+([draft reply]({{ '/documents/iiihamdaiiinr12366/3/' | relative_url }})). The Polish courts then held that the
+return of the estates in 1807 had cancelled the debts raised on them in the years between. The
+civil tribunal at Kalisz ordered the mortgage of Weigel, a merchant at Wrocław, struck out in
+1819, and the high tribunal at Warsaw confirmed the judgment in 1826. In February 1827 the
+Prussian envoy at St Petersburg, Schöler, asked the Russian foreign minister to have it annulled
+([note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). The file holds no answer. In July 1827 the
+tribunal at Kalisz also struck out the mortgages of the Lichnowski brothers and of the widow of
+Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})). It is the last document of the
+era.
 
 ## The people you will keep meeting
 

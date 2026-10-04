@@ -52,7 +52,7 @@
 4,449,break,high,short_line+column,0.42,18,43,Friedrich Willhelm,"Schenkungs Urkunde,"
 4,450,run,held,short_line+column,0.44,19,43,"Schenkungs Urkunde,",für den
 4,451,run,held,short_line,0.16,7,43,für den,regierenden Fürsten Hohenlohe Jngel:
-4,465,run,held,short_line,0.59,19,32,"Sonnabend, Auditeur",des Hochfürstl. v Hohenlohschen
+4,465,run,held,short_line,0.61,19,31,"Sonnabend, Auditeur",des Hochfürstl. v Hohenlohschen
 5,492,break,high,rubric,0.87,48,55,"mögen Namen haben wie sie wollen gegen Erlegung,",1.) der bisher davon entrichteten Landesherrlichen Abgaben
 5,494,break,high,rubric,0.93,51,55,als eines bestimmten und unabänderlichen Canons und,"2, der den Geistlichen Corporationen oder Stiftungen"
 5,496,break,high,short_line,0.53,29,55,daraus gebührenden Competenz.,"erb und eigenthümlich zu überlaßen, zu verleihen, und zu"
@@ -81,7 +81,7 @@
 6,643,run,held,short_line,0.41,19,46,Verleihungs Urkunde,für den regierenden Fürsten von Hohenlohe
 6,648,break,high,short_line+column,0.37,17,46,Portinentz Stücke,(L. S.)
 6,649,break,held,short_line,0.15,7,46,(L. S.),daß vorstehende Abschrift mit dem Allerhöchst vollzo¬
-6,656,run,held,short_line,0.54,19,35,"Sonnabend, Auditeur",des Hochfürstl. Hohenlohischen
+6,656,run,held,short_line,0.56,19,34,"Sonnabend, Auditeur",des Hochfürstl. Hohenlohischen
 7,661,break,high,short_line,0.38,15,40,Copia vidimata.,Wir Friedrich Willhelm von Gottes Gnaden
 7,679,break,high,short_line,0.7,28,40,"Bütow, Arlaÿ und Breda p. p.",Urkunden und erklären hiermit und
 7,702,break,high,rubric+short_line,0.23,8,35,nehmlich,"1.) zu Betsche, die Ortschaften Sta¬"
@@ -437,7 +437,7 @@
 25,3360,run,held,short_line,0.68,28,41,auch Justiz Commissions-Rath,und Notarius publ. des Boes[?]
 26,3365,break,high,short_line,0.71,30,42,Posen[?] den 4ten August 1803.,"von Gottes Gnaden Friedrich Wilhelm, König"
 26,3367,break,high,short_line,0.43,18,42,von Preussen p. p.,Unsere Königliche Gnade und Freundschaft zuvor
-26,3385,run,held,rubric,1.1,46,42,Freundschaft wohl beigethan. Gegeben Posen den,11.ten July 1803.
+26,3386,break,high,short_line,0.38,16,42,11ten July 1803.,Königliche Südpreußl. Regierung.
 26,3388,break,high,short_line+column,0.26,11,42,Braudhan[?],An
 26,3389,run,held,short_line+column,0.05,2,42,An,den Herrn Fürsten zu Hohen¬
 26,3391,break,high,short_line,0.4,17,42,lohe-Ingelfingen.,Taxe und Siegel 1. rth: 2. gg
@@ -454,7 +454,7 @@
 28,3443,break,high,short_line,0.32,8,25,Batkowo.,nebst dem im Brześćschen
 28,3469,break,high,short_line,0.28,7,25,worden.,darauf sind eingetragen
 28,3470,break,high,rubric,0.92,23,25,darauf sind eingetragen,I. Onera perpetua und Ein
-28,3473,break,high,rubric,1.04,26,25,thums oder der Disposition,"1., die dem Domkapitel zu Wrocła¬"
+28,3473,break,high,rubric,1.04,26,25,thums oder der Disposition,"1., die dem Domkapitel zu Wracla¬"
 28,3494,break,high,rubric+short_line,0.17,4,24,ist.,"2.) Das Landesherrliche Verbot, daß"
 28,3516,break,high,rubric+short_line,0.46,11,24,worden ist.,II. Gerichtlich versicherte Schul¬
 28,3539,break,high,short_line+column,0.19,5,26,Götze,Dieterichs.
@@ -483,6 +483,7 @@
 31,3622,run,held,short_line+column,0.05,2,42,An,des Fürsten v. Hohenlohe
 31,3624,break,high,rubric+short_line,0.27,11,42,Ingelfingen,H. A. R. Lucas
 31,3626,break,high,short_line+column,0.19,8,42,Schleyer,No. 3459
+32,3638,break,high,short_line,0.71,29,41,Kalisch den 18ten Martz 1800.,Schultz
 32,3639,break,high,short_line+column,0.17,7,41,Schultz,An
 32,3640,run,review,short_line+column,0.05,2,41,An,Eine Königl. Hochlöbl. Ober
 32,3642,run,held,short_line+column,0.34,14,41,Amts Regierung,zu Breslau.

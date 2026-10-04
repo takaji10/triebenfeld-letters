@@ -17,7 +17,7 @@
  "year": 1812,
  "month": 1,
  "day": 27,
- "place": "Blizanow",
+ "place": "Blizanów",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 16694,
@@ -104,6 +104,17 @@
    "doc_line": 16
   },
   {
+   "entity": "rembowski",
+   "display": "Rembowski",
+   "kind": "person",
+   "surface": "Rembowski",
+   "page": 1,
+   "page_id": "0431_b",
+   "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+   "line": 16712,
+   "doc_line": 17
+  },
+  {
    "entity": "brzechffa",
    "display": "Brzechffa",
    "kind": "person",
@@ -166,7 +177,7 @@
    "page": 1
   },
   {
-   "entity": "",
+   "entity": "rembowski",
    "display": "Rembowski",
    "kind": "person",
    "surface_de": "Rembowski",
@@ -270,7 +281,7 @@
    "page": 2
   }
  ],
- "place_canonical": "Blizanow",
+ "place_canonical": "Blizanów",
  "place_mentions": [
   {
    "entity": "olesnica",

@@ -1,7 +1,7 @@
 [
  {
   "place": "Berlin",
-  "count": 85,
+  "count": 87,
   "documents": [
    "ihagrrep7cnr3570-1",
    "oe1bu9454-77",
@@ -85,6 +85,8 @@
    "iiihamdaiiinr12765-22",
    "iiihamdaiiinr12765-24",
    "iiihamdaiiinr12765-26",
+   "iiihamdaiiinr12366-1",
+   "iiihamdaiiinr12366-3",
    "iiihamdaiiinr12765-27",
    "iiihamdaiiinr12765-29",
    "iiihamdaiiinr12765-30"
@@ -320,34 +322,8 @@
   ]
  },
  {
-  "place": "Blizanow",
-  "count": 20,
-  "documents": [
-   "oe1bu9454-216",
-   "oe1bu9454-218",
-   "oe1bu9454-219",
-   "oe1bu9454-221",
-   "oe1bu9454-222",
-   "oe1bu9454-226",
-   "oe1bu9454-227",
-   "oe1bu9454-229",
-   "oe1bu9454-72b",
-   "oe1bu9454-233",
-   "oe1bu9454-18",
-   "oe1bu9454-234",
-   "oe1bu9454-236",
-   "oe1bu9454-235",
-   "oe1bu9454-297",
-   "oe1bu9454-298",
-   "oe1bu9454-300",
-   "oe1bu9454-299",
-   "oe1bu9454-5",
-   "oe1bu9454-301"
-  ]
- },
- {
   "place": "Kalisch",
-  "count": 13,
+  "count": 14,
   "documents": [
    "oe1bu14525-31",
    "oe1bu14525-42",
@@ -361,7 +337,8 @@
    "oe1bu14525-14",
    "oe1bu14526-2",
    "oe1bu14525-21",
-   "oe1bu14526-21"
+   "oe1bu14526-21",
+   "iiihamdaiiinr12366-6"
   ]
  },
  {
@@ -384,6 +361,25 @@
   ]
  },
  {
+  "place": "Blizanów",
+  "count": 13,
+  "documents": [
+   "oe1bu9454-216",
+   "oe1bu9454-218",
+   "oe1bu9454-219",
+   "oe1bu9454-229",
+   "oe1bu9454-233",
+   "oe1bu9454-18",
+   "oe1bu9454-234",
+   "oe1bu9454-236",
+   "oe1bu9454-235",
+   "oe1bu9454-298",
+   "oe1bu9454-300",
+   "oe1bu9454-299",
+   "oe1bu9454-5"
+  ]
+ },
+ {
   "place": "Kalisz",
   "count": 11,
   "documents": [
@@ -398,6 +394,19 @@
    "oe1bu9454-214",
    "oe1bu9454-72c",
    "oe1bu9454-237"
+  ]
+ },
+ {
+  "place": "Blizanow",
+  "count": 7,
+  "documents": [
+   "oe1bu9454-221",
+   "oe1bu9454-222",
+   "oe1bu9454-226",
+   "oe1bu9454-227",
+   "oe1bu9454-72b",
+   "oe1bu9454-297",
+   "oe1bu9454-301"
   ]
  },
  {
@@ -436,6 +445,17 @@
   ]
  },
  {
+  "place": "Warschau",
+  "count": 5,
+  "documents": [
+   "oe1bu9454-72d",
+   "oe1bu9454-72e",
+   "iiihamdaiiinr12366-2",
+   "iiihamdaiiinr12765-28",
+   "iiihamdaiiinr12366-4"
+  ]
+ },
+ {
   "place": "Frankfurt an der Oder",
   "count": 3,
   "documents": [
@@ -469,15 +489,6 @@
    "oe1bu9454-72a",
    "oe1bu9454-72f",
    "oe1bu9454-232"
-  ]
- },
- {
-  "place": "Warschau",
-  "count": 3,
-  "documents": [
-   "oe1bu9454-72d",
-   "oe1bu9454-72e",
-   "iiihamdaiiinr12765-28"
   ]
  },
  {
@@ -537,7 +548,7 @@
   ]
  },
  {
-  "place": "Swiątniki",
+  "place": "Świątniki",
   "count": 2,
   "documents": [
    "oe1bu9454-212",
@@ -558,6 +569,14 @@
   "documents": [
    "iiihamdaiiinr12765-19",
    "iiihamdaiiinr12765-23"
+  ]
+ },
+ {
+  "place": "St. Petersburg",
+  "count": 2,
+  "documents": [
+   "iiihamdaiiinr12765-25",
+   "iiihamdaiiinr12366-5"
   ]
  },
  {
@@ -698,13 +717,6 @@
   "count": 1,
   "documents": [
    "iiihamdaiiinr12765-3"
-  ]
- },
- {
-  "place": "St. Petersburg",
-  "count": 1,
-  "documents": [
-   "iiihamdaiiinr12765-25"
   ]
  },
  {

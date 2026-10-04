@@ -1,0 +1,40 @@
+# Text the receiving office wrote on someone else's paper. Here: the pencil
+# notes a reader in the Prussian ministry wrote in German in the margins of
+# the Warsaw report (document 2), beside passages he underlined. The lines
+# are ordinary text in corpus.txt; this file only says which they are, so
+# the site can set them apart. Each block stands at the end of its page.
+# The French in square brackets before a note is the passage it stands
+# beside (intake/margin_notes.py).
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '2'
+    page: '0003_a'
+    first: '[à la charge du Gouvernement Prussien:] als ob Preußen für Regierungs Acte im ehem. Südpreußen irgend jemand verantwortlich wäre!'
+    lines: 1
+  - letter: '2'
+    page: '0004_a1'
+    first: '[de la santé du dit Staroste et de celle de son épouse:] nun ist er auch krank gewesen! sie ist erst in Venedig krank geworden'
+    lines: 1
+  - letter: '2'
+    page: '0005_a2'
+    first: '[à la maladie dont il était atteint:] 1803. Oct.'
+    lines: 3
+  - letter: '2'
+    page: '0006_a1'
+    first: '[dont ils avaient été privés:] Nicht einmal Napoleon hat ihnen einen Anspruch wegen des in der Zwischenzeit geschehenen, zugestanden.'
+    lines: 2
+  - letter: '2'
+    page: '0006_a2'
+    first: '[replacés dans le même état:] wo steht das geschrieben? Nicht einmal im Napoleon. Decrete.'
+    lines: 2
+  - letter: '2'
+    page: '0007_a1'
+    first: '[le prouvèrent les événemens politiques:] aber so lang er es besessen, besaß er es rechtmäßig u. mit vollem Eigenthumsrecht'
+    lines: 2
+  - letter: '2'
+    page: '0007_a2'
+    first: '[n’auraient recouvré qu’un titre d’héritage onéreux:] sie bekamen zurück, was da war.'
+    lines: 2

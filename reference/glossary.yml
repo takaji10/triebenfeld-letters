@@ -2455,3 +2455,6 @@ excluded:
   - {word: "In tiefster", reason: "the opening of the closing formula, In tiefster Ehrfurcht ersterbe; covered by ersterbe"}
   - {word: "in gutem", reason: "German, not Latin"}
   - {word: "solidum", reason: "see in solidum"}
+  # ruled 2026-10-04, from III. HA MdA, III. Nr. 12366 (French and Polish)
+  - {word: "cette", reason: "French, this; not a term"}
+  - {word: "ingelfingen", reason: "part of the name Hohenlohe-Ingelfingen, lower-cased by the probe"}

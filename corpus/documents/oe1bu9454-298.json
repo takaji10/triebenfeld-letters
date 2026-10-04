@@ -17,7 +17,7 @@
  "year": 1815,
  "month": 12,
  "day": 22,
- "place": "Blizanow",
+ "place": "Blizanów",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 21167,
@@ -423,7 +423,7 @@
    "page": 2
   }
  ],
- "place_canonical": "Blizanow",
+ "place_canonical": "Blizanów",
  "place_mentions": [
   {
    "entity": "warschau",

@@ -222,6 +222,17 @@
  "place_canonical": "Warschau",
  "place_mentions": [
   {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Varsovie",
+   "page": 1,
+   "page_id": "0041_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg",
+   "line": 952,
+   "doc_line": 2
+  },
+  {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",

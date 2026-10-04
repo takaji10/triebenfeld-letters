@@ -1,0 +1,94 @@
+# Editorial rulings for III. HA MdA, III. Nr. 12366 (GStA PK).
+#
+# One document per letter, as in III. HA MdA, III Nr. 12765. The archive
+# numbers nothing in this file, so documents are numbered 1-6 in the order
+# they are bound; the cover (0001) is front matter. What each document is, and
+# why, is in notes.md. Established 2026-10-04.
+
+places:
+  # Place of writing, from each document's own dateline.
+  overrides:
+    "1": Berlin
+    "2": Warschau
+    "3": Berlin
+    "4": Warschau
+    "5": St. Petersburg
+    "6": Kalisch
+
+dates:
+  # [year, month, day, precision]; read off the document's own dateline.
+  read:
+    "1": [1819, 1, 20, "day"]      # "Berlin ce 20 janvier 1819"; received 21 January
+    "2": [1818, 4, 29, "day"]      # "Varsovie le 29 avril 1818", at the foot of the copy
+    "3": [1819, 5, 11, "day"]      # "Berlin le 11 mai 1819"
+    "4": [1819, 11, 16, "day"]     # "Varsovie le 16 Nov. 1819"
+    "5": [1827, 2, 10, "day"]      # "10 février/29 janvier 1827": one day in both calendars; the western date
+    "6": [1827, 7, 30, "day"]      # "dnia Trzydziestego Lipca Tysiącnego Osmsetnego dwiedziestego siódmego Roku"
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # `draft` is the ministry's own outgoing note as it stayed in the file.
+  # `memorandum` is the report from Warsaw that sets out Miączyńska's claim,
+  # here in the copy the Russian envoy sent in. `certified_copy` is the
+  # extract of the Kalisz judgment, certified under the court's seal. The
+  # rest are letters; 4 and 5 are copies ("Copia", "Copie").
+  doc_type:
+    "2": memorandum
+    "3": draft
+    "6": certified_copy
+
+  language:
+    "1": "fr"
+    "2": "fr"
+    "3": "fr"
+    "4": "fr"
+    "5": "fr"
+    "6": "pl"
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "2"
+        note: "'le rapport ci-joint du Lieutenant du Royaume de Pologne': document 2 is that copy."
+    "3":
+      - kind: answers
+        target: "1"
+        note: "The ministry's reply to the envoy's note and the report sent with it ('la nôte et le mémoire'); the draft dates the note 20 February, the note itself is of 20 January."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml.
+  # The Warsaw report and the two notes about it concern both of the Prince's
+  # former estates, Trąbczyn and Kamionna with Kolno; the creditors' suits of
+  # 1819 to 1827 concern the mortgages on Trąbczyn alone.
+  estates:
+    "1": [trabczyn, kamionno]
+    "2": [trabczyn, kamionno]
+    "3": [trabczyn, kamionno]
+    "4": [trabczyn]
+    "5": [trabczyn]
+    "6": [trabczyn]
+
+damage:
+  letters: []
+
+rough:
+  # None. The ministry's draft of 11 May 1819 (document 3) was marked rough
+  # until it was corrected against enlarged crops of the scan on 2026-10-04.
+  letters: []
+
+pages:
+  # The editor's transcription is by paragraph, not by line: each line of
+  # corpus.txt is a paragraph of the manuscript, or the part of one that
+  # stands on that page. Every page but the cover.
+  by_paragraph: ["0002_a", "0003_a", "0004_a1", "0005_a2", "0006_a1", "0006_a2",
+                 "0007_a1", "0007_a2", "0008_a1", "0008_a2", "0009_a", "0010_a",
+                 "0011_a", "0012_a", "0013_a", "0014_a1", "0014_a2", "0015_a1",
+                 "0015_a2", "0016_a1", "0016_a2", "0017_a", "0018_a1", "0018_a2",
+                 "0019_a1", "0019_a2", "0020_a1", "0020_a2", "0021_a1", "0021_a2",
+                 "0022_a1", "0022_a2", "0023_a1", "0023_a2", "0024_a1", "0024_a2",
+                 "0025_a"]

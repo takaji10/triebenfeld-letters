@@ -266,7 +266,8 @@ places:
     # Kamen and Kämen are also the verb (kamen, kämen: "came"), so they are
     # taken only where they name the estate: "Güter Kamen", "und Kamen", "Was
     # Kämen betrift", "Kamener Sache" (12765, 14526, 9454; editor, 2026-10-03).
-    match: 'Kamionn\w*|Kamiono\b|(?<!\[)(?:Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b)|(?<=Güter )K[aä]men\b|(?<=und )Kamen\b|(?<=Was )Kämen\b|Kamener\b'
+    # Kamienno is the French report of 1818 (III. HA MdA, III. Nr. 12366).
+    match: 'Kamionn\w*|Kamienno\b|Kamiono\b|(?<!\[)(?:Ka(?:e|eh|h)men\w*|Keemen\w*|Klemen\b)|(?<=Güter )K[aä]men\b|(?<=und )Kamen\b|(?<=Was )Kämen\b|Kamener\b'
     tier: "Book-confirmed"
     variants:
       - "Kamionno"
@@ -1202,7 +1203,8 @@ places:
     # English has its own name for the capital; the translation uses it.
     render: "Warsaw"
     kind: city
-    match: 'Warschau\w*'
+    # Varsovie in the French documents (III. HA MdA, III Nr. 12765 and 12366).
+    match: 'Warschau\w*|Varsovie|Warsovie'
     tier: "Established"
     variants: []
 

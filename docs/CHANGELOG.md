@@ -1440,6 +1440,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   documents. Not yet translated; the summaries have not had the claim check. See
   `units/ihagrrep7cnr3709/notes.md`.
 
+- **III. HA MdA, III. Nr. 12366 added** (2026-10-04). The foreign ministry's file on Michalina
+  Miączyńska's claim and on the Polish judgments against Hohenlohe-Ingelfingen's creditors, 1818
+  to 1827: six documents on 37 pages and the cover, five in French and one in Polish. The fifteen
+  openings were cut at folds the editor placed or approved, and scans 0004 and 0005, one opening
+  photographed twice round a slip in the gutter, give the left and the right page. The editor's
+  transcription, one text by paragraph, was cut to the pages; three datelines and addresses stand
+  on the page where they are written; the editor added the cover's volume line. The whole text was
+  corrected against the scans: 72 words in the clean French copies, 21 passages in the
+  ministry's draft and 64 in the Polish judgment. A reader's pencil notes in the margins of the
+  Warsaw report, first read by the editor, are transcribed at the foot of each page. Dates, places, senders, types and languages are
+  set, each document is summarised in German and English, and the holding has its page, three
+  timeline entries and a paragraph in the era essay, in both languages. New people: Bernstorff,
+  Tarczewski, Wybicki, Niemojewski, Wichrowski, Rembowski; Grotowski given an entry; "Leyner",
+  "Zastrof", "Varsovie" and "Kamienno" matched to Leixner, Zastrow, Warsaw and Kamionna. The
+  edition has 447 documents. Not yet translated; the summaries have not had the claim check. See
+  `units/iiihamdaiiinr12366/notes.md`.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
