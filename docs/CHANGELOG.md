@@ -1423,6 +1423,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   and Places pages is indented under its entry, with a rule down the left, so the cards read
   as that person's or place's.
 
+- **Places page: estates only** (editor, 2026-10-04). The page lists only the estates the
+  documents concern (55), sortable and with each estate's documents as cards; places of
+  writing and places named in the text are no longer listed there (a document page still
+  shows both). Its introduction is rewritten to say plainly what an estate entry is. On a
+  document page, a place named in the text links to the Places page only where it is also an
+  estate.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

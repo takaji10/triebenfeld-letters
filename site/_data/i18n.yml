@@ -111,9 +111,13 @@ en:
   estates_label: Estates in focus
   estates_h2: Estates in focus
   estates_lede: >-
-    Which estate a document is FOR, which no count can decide: a grant names
-    the chanceries that handled it and every appurtenance village in its
-    schedule. These are read from the documents and recorded by hand.
+    The estates the documents are about: Prince Friedrich Ludwig of
+    Hohenlohe-Ingelfingen's lands in South Prussia, Silesia and Thuringia, and the
+    other estates the letters deal with, such as Triebenfeld's own at Świniary and
+    those proposed in exchange. A document is listed under an estate when it
+    concerns that estate, not merely when it names it or was written there: a grant
+    of Kamionna made out in Berlin is listed under Kamionna. Each was assigned by
+    reading the document.
   nav_archival: Archival order
   nav_chrono: Chronological
   view_diplomatic: Transcription
@@ -383,10 +387,14 @@ de:
   estates_label: Betroffene Güter
   estates_h2: Betroffene Güter
   estates_lede: >-
-    Um welches Gut es in einem Dokument geht, lässt sich nicht auszählen: eine
-    Verleihung nennt die beteiligten Kanzleien und jedes Pertinenzdorf ihres
-    Verzeichnisses. Diese Angaben sind den Dokumenten entnommen und von Hand
-    festgehalten.
+    Die Güter, um die es in den Dokumenten geht: die Besitzungen des Fürsten
+    Friedrich Ludwig zu Hohenlohe-Ingelfingen in Südpreußen, Schlesien und
+    Thüringen und die anderen Güter, mit denen die Briefe zu tun haben, etwa
+    Triebenfelds eigenes Gut Świniary (Schweinern) und die zum Tausch
+    vorgeschlagenen. Ein Dokument steht unter einem Gut, wenn es dieses Gut
+    betrifft, nicht schon, wenn es das Gut nennt oder dort geschrieben wurde: eine in
+    Berlin ausgefertigte Verleihung von Kamionna steht unter Kamionna. Die Zuordnung
+    beruht auf der Lektüre jedes Dokuments.
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
   view_diplomatic: Transkription

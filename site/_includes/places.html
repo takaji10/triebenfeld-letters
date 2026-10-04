@@ -1,10 +1,15 @@
 {% include urls.html %}
+{%- comment -%}
+  The estates in focus only (editor, 2026-10-04): which estate each document
+  concerns. Places of writing and places named in the text are no longer
+  listed here; a document page still shows both.
+{%- endcomment -%}
 <div class="prose">
-  <h1>{{ t.places_h1 }}</h1>
-  <p class="standfirst">{{ t.places_lede }}</p>
+  <h1>{{ t.estates_h2 }}</h1>
+  <p class="standfirst">{{ t.estates_lede }}</p>
 </div>
 
-<nav class="sortbar" aria-label="Sort places">
+<nav class="sortbar" aria-label="Sort estates">
   <span class="sortbar-label">{{ t.sort }}</span>
   <button type="button" data-key="count" data-dir="desc" aria-pressed="true">{{ t.sort_most_docs }}</button>
   <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_docs }}</button>
@@ -12,28 +17,8 @@
   <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
 </nav>
 
-{% assign sorted = site.data.places | sort: "count" | reverse %}
-<div style="max-width:62rem" data-sortable>
-{% for pl in sorted %}
-  <div class="person" id="{{ pl.slug }}"
-       data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
-    <h2>{{ pl.name }}</h2>
-    <p class="refs counts">{% if pl.docs == 1 %}{{ t.counts_written_one }}{% else %}{{ t.counts_written | replace: '%d', pl.docs }}{% endif %}{% if pl.span %} · {{ pl.span }}{% endif %}</p>
-    {%- if pl.lat %}
-    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
-    {%- endif %}
-    {% include doc-list.html letters=pl.letters docs=pl.docs %}
-  </div>
-{% endfor %}
-</div>
-
-<div class="prose" style="margin-top:2.5rem">
-  <h2>{{ t.estates_h2 }}</h2>
-  <p class="standfirst">{{ t.estates_lede }}</p>
-</div>
-
 {% assign estates = site.data.estates | default: empty | sort: "count" | reverse %}
-<div style="max-width:62rem">
+<div style="max-width:62rem" data-sortable>
 {% for es in estates %}
   <div class="person" id="estate-{{ es.slug }}"
        data-name="{{ es.name | escape }}" data-count="{{ es.count }}">
@@ -43,27 +28,6 @@
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
     {%- endif %}
     {% include doc-list.html letters=es.letters docs=es.docs %}
-  </div>
-{% endfor %}
-</div>
-
-<div class="prose" style="margin-top:2.5rem">
-  <h2>{{ t.places_named_h2 }}</h2>
-  <p class="standfirst">{{ t.places_named_lede }}</p>
-</div>
-
-{% assign named = site.data.places_named | default: empty | sort: "count" | reverse %}
-<div style="max-width:62rem">
-{% for pl in named %}
-  <div class="person" id="named-{{ pl.slug }}"
-       data-name="{{ pl.name | escape }}" data-count="{{ pl.count }}">
-    <h2>{{ pl.name }}</h2>
-    {%- if pl.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif pl.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
-    <p class="refs counts">{{ cl | replace: '%m', pl.count | replace: '%d', pl.docs }}{% if pl.span %} · {{ pl.span }}{% endif %}</p>
-    {%- if pl.lat %}
-    <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ pl.lat }}&amp;mlon={{ pl.lon }}#map=12/{{ pl.lat }}/{{ pl.lon }}" rel="noopener">{{ t.map_link }}</a></p>
-    {%- endif %}
-    {% include doc-list.html letters=pl.letters docs=pl.docs %}
   </div>
 {% endfor %}
 </div>

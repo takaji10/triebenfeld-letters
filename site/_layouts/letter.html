@@ -195,7 +195,8 @@ layout: default
       <dd class="taglist">
         {% for s in page.places_named %}
           {% assign pl = site.data.places_named | where: "slug", s | first %}
-          {% if pl %}<a href="{{ '/places/' | relative_url }}#named-{{ pl.slug }}">{{ pl.name }}</a>{% endif %}
+          {%- comment -%} linked only where the Places page lists it: as an estate {%- endcomment -%}
+          {% if pl %}{% assign pe = site.data.estates | where: "slug", s | first %}{% if pe %}<a href="{{ '/places/' | relative_url }}#estate-{{ pe.slug }}">{{ pl.name }}</a>{% else %}<span>{{ pl.name }}</span>{% endif %}{% endif %}
         {% endfor %}
       </dd>
       {% endif %}
