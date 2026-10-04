@@ -140,6 +140,21 @@ rules:
     the name is written Miączyński (editor, 2026-10-03). "Madame Mięczynsky"
     is she: the rule above.
 
+- id: name-van-der-lahr
+  pattern: "\\b(?:von der|v\\. ?d\\.|vd) La(?:a|h)r\\b"
+  replace: "van der Lahr"
+  why: >-
+    The Berlin creditor (reference/people.yml, lahr) is "van der Lahr" in 23
+    places in the documents and "von der Lahr" in 6, with "v. d." and "v d"
+    besides. The English writes him van der Lahr throughout (editor's question,
+    2026-10-04).
+
+- id: name-van-der-lahr-capital
+  pattern: "\\bVon der La(?:a|h)r\\b"
+  replace: "Van der Lahr"
+  why: >-
+    The same at the start of a sentence.
+
 - id: name-kamionna
   pattern: "\\b(?:Kähmen|Kämen|Kamen|Kamener|Kamienne)\\b"
   replace: "Kamionna"
@@ -235,8 +250,8 @@ rules:
     "Konstantin": "Constantin"
     "Stoesel": "Stössel"
     "Bethney": "Bethusy"
-    "von der Laar": "von der Lahr"
-    "Van der Laar": "von der Lahr"
+    "von der Laar": "van der Lahr"
+    "Van der Laar": "Van der Lahr"
   why: >-
     People the manuscripts spell otherwise, carried into the English as written.
     Each is the person of that name in reference/people.yml, where the spelling

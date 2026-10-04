@@ -451,7 +451,7 @@ Poznań and Schöler at St Petersburg.
 Among the buyers and creditors, Leixner bought Kamionna and Kolno. Cosmar is the lawyer whose
 settlement of 1811 with the creditors Triebenfeld regarded as fraudulent, and whose removal
 he pursued through the Vienna years. Weigel and Stössel are creditors large enough to be
-negotiated with. Oppenheimer, von der Lahr and Schlabrendorff are creditors who went to law.
+negotiated with. Oppenheimer, van der Lahr and Schlabrendorff are creditors who went to law.
 On the other side of the dispute stand Antoni Prusimski and his daughter.
 
 The [People]({{ '/people/' | relative_url }}) page lists everyone the documents name, with the

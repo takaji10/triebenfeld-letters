@@ -1382,6 +1382,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   counts as a person, and Meyer Bernhard's mentions no longer count under a separate
   "Meyer". Open points in NEEDS_CONFIRMATION (Identifications).
 
+- **van der Lahr** (editor's question, 2026-10-04). The documents write the Berlin creditor
+  "van der Lahr" 23 times and "von der Lahr" 6 times. The English, the People page and the
+  era page now write van der Lahr throughout (english_forms.yml, name-van-der-lahr); the
+  transcriptions keep each spelling as written.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

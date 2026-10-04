@@ -466,7 +466,7 @@ Sposetti in Poznań und Schöler in St. Petersburg hinzu.
 Unter den Käufern und Gläubigern kaufte Leixner Kamionna und Kolno. Cosmar ist der Anwalt,
 dessen Vergleich mit den Gläubigern von 1811 Triebenfeld für betrügerisch hielt und dessen
 Absetzung er durch die Wiener Jahre verfolgte. Weigel und Stössel sind Gläubiger, groß genug,
-um mit ihnen zu verhandeln. Oppenheimer, von der Lahr und Schlabrendorff sind Gläubiger, die
+um mit ihnen zu verhandeln. Oppenheimer, van der Lahr und Schlabrendorff sind Gläubiger, die
 klagten. Auf der anderen Seite des Streits stehen Antoni Prusimski und seine Tochter.
 
 Die Seite [Personen]({{ '/de/personen/' | relative_url }}) führt alle auf, die die Dokumente
