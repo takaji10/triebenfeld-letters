@@ -1401,6 +1401,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   alone (two certifications), and Bornstädt finds all his spellings. Haugt now also finds
   "Haucht" (letter 31). Knoblauch and Knobloch are two men and stay apart.
 
+- **German biographies: Polish place names** (editor's question, 2026-10-04). 79 German
+  biographies on the People page used German place names (Kaemen, Betsche, Kalisch, Breslau,
+  Koschentin, Wittow and others). They now give the Polish name with the German in brackets
+  at its first mention (Kamionna (Kaemen), Pszczew (Betsche)), as the site does elsewhere;
+  Warschau and the Großherzogtum Posen stay as German writes them. The biographies of the
+  people merged or split today were rewritten with them.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
