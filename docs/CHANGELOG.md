@@ -1560,6 +1560,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   pages). Glossary candidates "JW." and "mars" ruled out. The three holdings are marked
   translated.
 
+- **Home page figures** (editor, 2026-10-05). The span under the counts was typed into the page
+  as 1798-1816; it is now written by build_site_data.py from the dated documents (1794-1832).
+  The opening paragraph, in both languages, now says the originals are German, French and
+  Polish and that the published papers run on to the dispute over the Prince's debts, until
+  1832.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

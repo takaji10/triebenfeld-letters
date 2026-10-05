@@ -851,6 +851,11 @@ def main():
         f.write(f'total: {len(recs)}\n')
         f.write(f'letters: {sum(1 for r in recs if r["doc_type"] == "letter")}\n')
         f.write(f'undated: {sum(1 for r in recs if not r["date_iso"])}\n')
+        # The span on the home page: the first and last year a dated document
+        # bears. It was typed into the page as 1798-1816 and went stale when
+        # the holdings of 1794 and of 1818 to 1832 came in.
+        f.write(f'first_year: {min(years) if years else ""}\n')
+        f.write(f'last_year: {max(years) if years else ""}\n')
         f.write(f'people: {len([s for s in people_index if people_index[s]])}\n')
         f.write(f'places: {len(place_index)}\n')
         f.write(f'places_named: {len(named_index)}\n')
