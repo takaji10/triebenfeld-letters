@@ -1697,6 +1697,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   Rep. 7 C, Nr. 1414, with the rulings and readings of the same day. Sixteen holdings, 473
   documents, are live.
 
+- **`docs/WORKING_NOTES.md` added** (2026-10-05, at the editor's word). The editor works in
+  desktop and cloud sessions, and what a desktop session had learned was kept only in a
+  memory folder on that machine. It is now in the repository: how the editor works, the
+  lessons behind the editorial rules, what went wrong when holdings were added, where a
+  summary is kept, the traps in the tools, and what differs between desktop and cloud.
+  `CLAUDE.md` tells every session to read it and to write new lessons into it. Two rulings
+  of the same day were added to `docs/EDITORIAL_RULES.md`: an unread word is not completed
+  with a guess, and an initial with a supplied name is written `A[lvensleben]`.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

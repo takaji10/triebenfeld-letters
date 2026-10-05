@@ -15,6 +15,7 @@ were true when they were written.
 | [DEPLOY.md](DEPLOY.md) | How the site is hosted and what blocks a deploy. |
 | [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md) | Open questions, still live. |
 | [TODO.md](TODO.md) | The next steps, in order, and which of them wait on the editor. |
+| [WORKING_NOTES.md](WORKING_NOTES.md) | How the editor works, the mistakes already made once, and the traps in the tools. The shared copy of what a desktop session keeps in memory, so a cloud session has it too. |
 | [HOHENLOHE_ERA_PLAN.md](HOHENLOHE_ERA_PLAN.md) | The Hohenlohe-Ingelfingen years page: what goes in, its sections and their sources, and what a new holding changes. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |

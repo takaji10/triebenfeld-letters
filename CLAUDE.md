@@ -16,6 +16,14 @@ files it points to.
   (HOUSE_STYLE, "No cryptic statements").
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
+- `docs/WORKING_NOTES.md`: how the editor works, the mistakes already made
+  once, and the traps in the tools. **Read it.** The editor switches between
+  desktop and cloud sessions, and a desktop session's memory folder is not
+  in the repository. So whatever a session learns that will matter again
+  is written into that file (or the document it belongs to) and committed
+  in the same sitting; memory alone is not enough.
+- No paid model run without the editor's agreement to that run; free checks
+  need none (WORKING_NOTES, "Working with the editor").
 
 ## "Access the dictionary hosts"
 
@@ -78,7 +86,7 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-04)
+## Where things stand (2026-10-05)
 
 - Glossary live: 108 entries, 98 words ruled out. 55 checked: the
   patrimonial court (the editor's Szukaj w Archiwach source) and 54 read

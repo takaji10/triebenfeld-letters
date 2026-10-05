@@ -134,6 +134,16 @@ than where it sits.
   machine misreading of the numeral, not a scribe's lapse.
 - Some German documents carry a few lines of **Polish**, and they are source
   text: translate them, do not treat them as corrupt German.
+- **A word that cannot be read is not completed with a guess** (editor,
+  2026-10-05: "better leave it as uncertain"). The text gives only the
+  letters that are read, as `[Rev…?]`, or `[?]`; the same in the English.
+  A thought about what the word might be goes into the holding's
+  `intake/unresolved.md`, and never into a summary.
+- **An initial that is read, with the name supplied**, is written with the
+  supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
+  `A[lvensleben]`), and only where the name follows from something other
+  than the unread letters, such as the office the signer held. The reason
+  is given in the holding's notes.
 - **Struck-out text is not transcribed** (editor, 2026-10-05). Where a writer
   struck words out, the edition gives the text as he corrected it and leaves
   the deleted words out. A deletion that matters to the sense is described in
