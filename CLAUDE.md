@@ -162,8 +162,10 @@ so check them.
   corrected, summarised, translated and claim-checked in session; status
   `translated`, untagged. Read `units/iharep162nr295/notes.md` first. Built
   and verified locally, **committed but not pushed: publish when the editor
-  says**. Open: the editor's confirmation of "Grądzyn" for "Trąbczyn" in the
-  bond's list of estates, and of the division into three documents.
+  says**. The editor confirmed "Grądzyn" in the bond's list of estates and
+  the three documents (2026-10-05). Open: their answers to the spot sheet
+  `review/iharep162nr295/open_queries.csv` (queries.py --read), to be
+  applied to the corpus and the English.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

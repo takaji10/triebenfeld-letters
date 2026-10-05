@@ -159,6 +159,9 @@ related holdings.
 ## Still to do
 
 - The English has not been read against the page images.
-- The items in `intake/unresolved.md`; the editor may want to look at
-  "nachstehende" (0004) and the figure in the fee note on 0007.
-- The editor's word on the division into three documents.
+- Five readings are on a spot sheet for the editor (2026-10-05:
+  `review/iharep162nr295/open_queries.csv`, copied to
+  `intake/open_queries.csv`; answers with `queries.py --unit iharep162nr295
+  --read`). Apply them to corpus.txt, the page file and the English.
+- Settled by the editor on 2026-10-05: "Grądzyn" at the end of the bond's
+  list of estates ("that's what the document stated"); three documents.

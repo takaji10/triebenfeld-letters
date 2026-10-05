@@ -134,17 +134,15 @@ summarised, translated and its summaries checked in session. Details are in
       timeline, the era essay and three other holdings.
 - [ ] **You: say when to publish it.** Built and verified here, committed
       locally, not pushed.
-- [ ] **You: the list of estates in the bond** (page 3). Your transcription
-      ended it "Wrąbczyn und Trąbczyn"; the page has "Grądzyn", and the same
-      list in the mortgage certificate ends "Wrąbczyn, Grądzyn". Changed;
-      say if you read it otherwise. It means Trąbczyn was not among the
-      estates this loan was secured on.
-- [ ] **You: three documents or two.** The bond and the Kalisz certificate of
-      its second acknowledgement are counted separately, as you ruled for
-      the Poznań copies. They can be joined if you prefer.
-- [ ] **You: two small readings**, if you want a spot sheet: "nachstehende"
-      on page 4 (the sense expects "vorstehende") and the figure in the fee
-      note on page 7 ("3 gg." or "2 gg.").
+- [x] The list of estates in the bond (page 3) ends "Grądzyn", not
+      "Trąbczyn": confirmed by you on 2026-10-05 ("that's what the document
+      stated"). Trąbczyn was not among the estates this loan was secured on.
+- [x] Three documents (you, 2026-10-05).
+- [ ] **You: five small readings on a spot sheet**
+      (`python pipeline/review/queries.py --unit iharep162nr295`, port 4101):
+      "nachstehende" or "vorstehende" on page 4, the figure in the fee note
+      on page 7, and three single letters. Your answers are applied when you
+      have given them.
 
 ## 5. Carried over
 
