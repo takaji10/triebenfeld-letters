@@ -1,0 +1,109 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    We Friedrich Wilhelm, by the Grace of God King of Prussia etc., make known and hereby give to be understood: that coram Commissario, Our Government Councillor Stosch, the Councillor of War and Forests Peter Friedrich August von Triebenfeld appeared in person and once more acknowledged the instrument of debt and pledge made out under the 28 January of the current year to the General Invalids' Fund for 50000. Rthl, as the following protocol states:
+  names:
+  - {de: Friedrich Wilhelm, en: Friedrich Wilhelm, kind: person}
+  - {de: Preussen, en: Prussia, kind: place}
+  - {de: Regierungs-Rath Stosch, en: Government Councillor Stosch, kind: person}
+  - {de: Peter Friedrich August v. Triebenfeld, en: Peter Friedrich August von Triebenfeld, kind: person}
+  - {de: General-Invaliden-Casse, en: General Invalids' Fund, kind: other}
+  numbers: ['28', '50000']
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    Actum Kalisz, the 27th of February 1805.
+
+    There presented himself before the undersigned commissaries the Royal Councillor of War and Forests Peter Friedrich August von Triebenfeld, who is identified by the Government Councillor von Lichnowski, also present, and says.
+
+    He hereby once more approves the instrument of bond and respective cession made out under the 28th of January of this year for the sum of 50000. Rthl, in words fifty thousand Reichsthaler, which sum he has received as a loan out of the General Invalids' Fund on the part of the Royal Supreme War College. He remarked also that the protocol of acknowledgement standing under this bond was made out by him, and that he likewise once more approves the same according to its whole content
+
+    Since there was now nothing further to remark, the protocol was, after being read out and
+  names:
+  - {de: Kalisch, en: Kalisz, kind: place}
+  - {de: Peter Friedrich August v. Triebenfeld, en: Peter Friedrich August von Triebenfeld, kind: person}
+  - {de: Regierungsrath v. Lichnowski, en: Government Councillor von Lichnowski, kind: person}
+  - {de: General-Invaliden-Casse, en: General Invalids' Fund, kind: other}
+  - {de: Königl Ober-Krieges-Collegii, en: Royal Supreme War College, kind: other}
+  numbers: ['27', '1805', '28', '50000']
+  flagged:
+  - de: "welcher durch den mit gegenwärtigen Regierungsrath v. Lichnowski recognoscirt"
+    rendered_as: "who is identified by the Government Councillor von Lichnowski, also present"
+    alt: "who is acknowledged through the Government Councillor von Lichnowski"
+    why: "Lichnowski signs below \"als Identitäts-Zeuge\", as witness of identity; \"recognoscirt\" here is the identifying of the party, not the acknowledging of the deed."
+- page: 3
+  confidence: high
+  marker_count: 0
+  en: |-
+    approved, closed and subscribed
+
+    signed: Peter Friedrich August von Triebenfeld
+
+    signed von Lichnowski as witness of identity.
+
+    a. u. s.
+
+    signed: Stosch qua Commissary.
+
+    signed: von Zelislawski
+
+    In witness whereof, under the greater seal of the South Prussian Government and signature. Given at Kalisz, the 5th of March 1805. (L. S.)
+
+    signed Schiller
+
+    T. u. S. 2 Rthl. 3 Groschen.
+
+    Stamps 6 Groschen.
+
+    Copying 4 Groschen.
+
+    Expeditio of the judicial protocol of acknowledgement of the 27th of February 1805.
+
+    signed Schlegel
+
+    4996.
+
+    Vigore Decreti de 5. hujus, and on the ground of the foregoing document, there have been sub-registered in the mortgage book of the Konin district, Vol. 4. Fol. 145. upon Zagórów Rubr. III. ad n. 2., vol. 1. of the same district Fol. 145. upon Drzewce rubr. III. ad N°. 4., and vol. 1. of the same district fol. 295. upon Kopojno rubr. III. ad No 2.
+  names:
+  - {de: Peter Friedrich August v. Triebenfeld, en: Peter Friedrich August von Triebenfeld, kind: person}
+  - {de: v. Lichnowski, en: von Lichnowski, kind: person}
+  - {de: Stosch, en: Stosch, kind: person}
+  - {de: v. Zelislawski, en: von Zelislawski, kind: person}
+  - {de: Südpreußl Regierung, en: South Prussian Government, kind: other}
+  - {de: Kalisch, en: Kalisz, kind: place}
+  - {de: Schiller, en: Schiller, kind: person}
+  - {de: Schlegel, en: Schlegel, kind: person}
+  - {de: Koninschen Kreises, en: Konin district, kind: place}
+  - {de: Zagorowo, en: Zagórów, kind: place}
+  - {de: Drzewce, en: Drzewce, kind: place}
+  - {de: Kopojno, en: Kopojno, kind: place}
+  numbers: ['5', '1805', '2', '3', '6', '4', '27', '1805', '4996', '5', '4', '145', '2', '1', '145', '4', '1', '295', '2']
+  flagged:
+  - de: "T. u. S. 2 rt. 3 gg."
+    rendered_as: "T. u. S. 2 Rthl. 3 Groschen."
+    alt: "Fee and seal 2 Rthl. 2 Groschen"
+    why: "The first line of the court's note of its fees; the abbreviation is not expanded on the page and is left. The second figure may be a 2 on the page."
+  - de: "Expeditio"
+    rendered_as: "Expeditio"
+    alt: "Official copy"
+    why: "The Latin docket word for the issued copy of an instrument, kept as the page has it."
+- page: 4
+  confidence: high
+  marker_count: 0
+  en: |-
+    50000. Rthl in Courant, bearing interest at 5. per cent and payable after 6. months' notice, for the Royal General Invalids' Fund, according to the acknowledgements stitched hereto. Kalisz, the 13th of March 1805
+
+    signed: Beda, Ingrossator
+  names:
+  - {de: Königl. General-Invaliden-Casse, en: Royal General Invalids' Fund, kind: other}
+  - {de: Kalisch, en: Kalisz, kind: place}
+  - {de: Beda, en: Beda, kind: person}
+  numbers: ['50000', '5', '6', '13', '1805']
+  flagged:
+  - de: "Ingrossator"
+    rendered_as: "Ingrossator"
+    alt: "registrar of mortgages"
+    why: "The office of the clerk who makes the entries in the mortgage book, kept in its Latin form as a title."

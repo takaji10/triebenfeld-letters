@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 269
+  docs: 272
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -36,7 +36,7 @@
   initial_en: "C"
   sort_de: "courant"
   initial_de: "C"
-  docs: 60
+  docs: 63
 - id: "groschen"
   kind: "money"
   lang: "de"
@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 86
+  docs: 89
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -93,7 +93,7 @@
   initial_en: "P"
   sort_de: "pfennig"
   initial_de: "P"
-  docs: 15
+  docs: 16
 - id: "ducat"
   kind: "money"
   lang: "de"
@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 37
+  docs: 38
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -283,7 +283,7 @@
   initial_en: "H"
   sort_de: "erbpacht"
   initial_de: "E"
-  docs: 40
+  docs: 41
 - id: "canon"
   kind: "land"
   lang: "de_la"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 36
+  docs: 37
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -549,7 +549,7 @@
   initial_en: "C"
   sort_de: "competenz"
   initial_de: "C"
-  docs: 28
+  docs: 29
 - id: "pertinenz"
   kind: "land"
   lang: "de_la"
@@ -625,7 +625,7 @@
   initial_en: "A"
   sort_de: "allodial"
   initial_de: "A"
-  docs: 4
+  docs: 5
 - id: "titulus-possessionis"
   kind: "land"
   lang: "la"
@@ -644,7 +644,26 @@
   initial_en: "T"
   sort_de: "titulus possessionis"
   initial_de: "T"
-  docs: 41
+  docs: 42
+- id: "rubrik"
+  kind: "land"
+  lang: "de"
+  head_en: "section of the mortgage book (Rubrik)"
+  head_de: "Rubrik"
+  orig: "Rubrik, Rubrica, Rubr."
+  short_en: "One of the three sections of an estate's page in the Prussian mortgage book: the first for the owner's title, the second for permanent charges and limits on ownership, the third for debts. \"Rubr. III No. 2\" is the second debt entered on the estate."
+  short_de: "Eine der drei Abteilungen auf dem Blatt eines Guts im preußischen Hypothekenbuch: die erste für den Besitztitel, die zweite für dauernde Lasten und Einschränkungen des Eigentums, die dritte für Schulden. „Rubr. III No. 2“ ist die zweite auf das Gut eingetragene Schuld."
+  long_en: ""
+  long_de: ""
+  source: ""
+  check_against: "Allgemeine Hypothekenordnung 1783"
+  source_html: ""
+  checked: false
+  sort_en: "section of the mortgage book (rubrik)"
+  initial_en: "S"
+  sort_de: "rubrik"
+  initial_de: "R"
+  docs: 3
 - id: "abstand"
   kind: "land"
   lang: "la"
@@ -834,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 56
+  docs: 57
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -853,7 +872,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 77
+  docs: 79
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -891,7 +910,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 75
+  docs: 76
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -910,7 +929,7 @@
   initial_en: "C"
   sort_de: "kriegsrath"
   initial_de: "K"
-  docs: 58
+  docs: 61
 - id: "hofrath"
   kind: "title"
   lang: "de"
@@ -1195,7 +1214,7 @@
   initial_en: "I"
   sort_de: "invalidenkasse"
   initial_de: "I"
-  docs: 40
+  docs: 43
 - id: "rendant"
   kind: "law"
   lang: "de_fr"
@@ -1328,7 +1347,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 95
+  docs: 97
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1347,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 44
+  docs: 47
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1366,7 +1385,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 49
+  docs: 50
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1461,7 +1480,7 @@
   initial_en: "C"
   sort_de: "cession"
   initial_de: "C"
-  docs: 13
+  docs: 15
 - id: "oberlandesgericht"
   kind: "law"
   lang: "de"
@@ -1556,7 +1575,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 33
+  docs: 35
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1575,7 +1594,7 @@
   initial_en: "E"
   sort_de: "ex officio"
   initial_de: "E"
-  docs: 8
+  docs: 9
 - id: "in-solidum"
   kind: "law"
   lang: "la"
@@ -1651,7 +1670,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 351
+  docs: 352
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1727,7 +1746,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 166
+  docs: 167
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"
@@ -1803,7 +1822,7 @@
   initial_en: "P"
   sort_de: "pp., p."
   initial_de: "P"
-  docs: 81
+  docs: 82
 - id: "geruhen"
   kind: "phrase"
   lang: "de"
@@ -1841,7 +1860,7 @@
   initial_en: "L"
   sort_de: "l. s. (locus sigilli)"
   initial_de: "L"
-  docs: 22
+  docs: 25
 - id: "actum"
   kind: "phrase"
   lang: "la"
@@ -1860,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 15
+  docs: 17
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1898,7 +1917,7 @@
   initial_en: "D"
   sort_de: "de dato; vigore"
   initial_de: "D"
-  docs: 11
+  docs: 13
 - id: "months-by-number"
   kind: "phrase"
   lang: "la"
@@ -1936,7 +1955,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 36
+  docs: 37
 - id: "pct"
   kind: "phrase"
   lang: "la"
@@ -1974,7 +1993,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 91
+  docs: 94
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

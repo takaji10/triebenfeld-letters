@@ -1,0 +1,64 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,18,break,high,short_line,0.24,10,41,Abschrift.,(6 gg. Stempl)
+1,19,break,held,short_line,0.34,14,41,(6 gg. Stempl),Nachdem des Königl. Ober-Krieges-Collegii drit¬
+1,73,break,high,salutation+short_line,0.1,4,40,ben.,So geschehen zu Berlin den 28. Januar 1805.
+1,76,break,high,short_line,0.53,21,40,send Thaler erhalten.,gez: Peter Friedrich August v. Triebenfeld
+1,78,break,held,short_line,0.17,7,40,(L. S.),"Actum Berlin, den 28. Januar 1805."
+1,101,break,high,short_line,0.57,21,37,vorsteht eigenhändig.,Urkundlich ist dasselbe unter Vordrü¬
+1,107,break,high,short_line,0.57,21,37,Justizamt hierselbst.,gez. Wilmanns.
+1,108,break,high,short_line,0.38,14,37,gez. Wilmanns.,(L. S.)
+2,131,break,high,short_line,0.57,21,37,"cognoscirt, und sagt.",Er genehmige hiermit nochmals das
+2,151,break,high,rubric+short_line,0.26,6,23,Zeuge.,a. u. s.
+2,153,run,held,short_line+column,0.48,11,23,gez: Stosch,qua Comissar.
+2,154,break,high,short_line,0.57,13,23,qua Comissar.,gez: v. Zelislawski
+2,159,break,high,short_line+column,0.3,7,23,(L. S.),gez. Schiller
+2,160,break,held,short_line,0.57,13,23,gez. Schiller,T. u. S. 2 rt. 3 gg.
+2,162,break,high,short_line,0.48,11,23,Stpln 6 gg.,Cop. 4 gg.
+2,163,break,high,short_line,0.43,10,23,Cop. 4 gg.,Expeditio
+2,164,run,review,short_line,0.39,9,23,Expeditio,des gerichtlichen Recognitions
+2,167,break,high,short_line,0.22,5,23,1805.,gez. Schlegel
+2,168,break,high,short_line+column,0.57,13,23,gez. Schlegel,4996.
+2,169,break,high,short_line,0.22,5,23,4996.,Vigore Decreti de 5. hujus und auf den
+2,183,run,held,short_line+column,0.23,9,40,gez: Beda,Ingrossator
+3,187,break,held,short_line,0.3,12,40,(6 gg Stepl),Die in der Provinz Südpreussen und deren
+3,189,run,held,short_line+column,0.72,29,40,Koniner Kreise belegene Stadt,"Zagorowo,"
+3,190,run,review,short_line,0.22,9,40,"Zagorowo,",hat der regierende Fürst zu Hohenlohe Ingel¬
+3,197,run,held,rubric,1.01,41,40,possessionis für denselben ex decreto vom,31. Juli 1801. eingetragen worden.
+3,199,break,high,rubric+short_line,0.57,23,40,Darauf sind eingetragen,I. onera perpetua Einschränkungen des Eigen¬
+3,201,break,high,rubric+short_line,0.57,23,40,thums oder disposition.,"1., — ist gelöscht."
+3,202,break,high,rubric,0.47,19,40,"1., — ist gelöscht.","2., 88. rt. 5. gg. 9. pf. i. e. Acht und Achtzig Rthlr. 5 gg. 9 pf."
+3,209,run,held,rubric,1.0,38,38,Krieges und Domainen Kammer zu Kalisch,d. d. Kalisch den 18. Novbr. 1802. vermöge
+3,212,break,high,rubric+short_line,0.42,16,38,getragen worden.,3. Eine Protestation pro fisco camerae wegen der ihm
+3,222,break,high,rubric+short_line,0.66,25,38,1803. eingetragen worden.,"4. Eine Protestation für den Johann Giese, Johann"
+3,234,run,held,rubric,1.05,45,43,"hiezu anzuweisen, dieser District nicht unter","330. Morgen sein dürfe, und jene Erbpächter"
+3,238,run,held,rubric,0.88,38,43,"Eingangsgenannten, vermöge Decrets vom",18. December 1804. vorläufig notirt worden.
+3,239,break,high,rubric,1.0,43,43,18. December 1804. vorläufig notirt worden.,II. Gerichtlich versicherte Schulden und andere
+3,241,break,high,rubric+short_line,0.51,22,43,Real-Verbindlichkeiten,"1., Eine Protestation pro salvando jure et loco für den"
+3,250,break,high,rubric+short_line,0.44,19,43,eingetragen worden.,"2., 250,000. rt i.e. Zweimalhundert fünfzig tausend Rthlr"
+3,253,run,held,rubric,1.0,43,43,"Zinsen, und nach Verlauf eines Jahres gegen",6. monatliche beiden Theilen freistehende Auf¬
+3,280,run,held,rubric,0.88,36,41,"Urkunde, welches vermöge Decrets vom","5. Mart. 1805. eingetragen worden, mit"
+3,285,break,high,short_line,0.67,16,24,stituirt worden.,Ausser vorstehenden Posten ist auf dem
+3,296,break,high,short_line,0.54,13,24,Unterschrift:,Gegeben Kalisch den 13. Mart. 1805.
+3,298,break,high,short_line,0.71,17,24,gez: Danckelmann.,gez: Husarzewski.
+3,299,break,high,short_line,0.71,17,24,gez: Husarzewski.,gez: Schlegel gez. Beda.
+3,301,break,high,rubric+short_line,0.29,7,24,(L. S.),H. Sch. 2 rt. 2. gg.
+3,303,break,high,short_line,0.54,13,24,Stempel 6 gg.,Mund. 8 gg.
+3,304,break,high,short_line,0.46,11,24,Mund. 8 gg.,Ins. 3 gg.
+3,305,break,high,short_line,0.42,10,24,Ins. 3 gg.,Arch. 8 gg.
+3,306,break,high,short_line,0.46,11,24,Arch. 8 gg.,Ingr. 8 gg.
+3,307,break,high,short_line,0.46,11,24,Ingr. 8 gg.,Hypotheken-Schein
+3,308,run,review,short_line,0.71,17,24,Hypotheken-Schein,für die Königl General-Invaliden-Casse
+3,312,break,high,short_line,0.33,8,24,N° 1179.,(Sechs ggr. Stempel)
+2,144,break,held,hand,0,0,0,,"Wenn nun weiter nichts zu bemerken,"
+2,148,break,held,hand,0,0,0,,gez: Peter Friedrich August v. Triebenfeld
+2,152,break,held,hand,0,0,0,,gez: Stosch
+2,161,break,held,hand,0,0,0,,Stpln 6 gg.
+2,182,break,held,hand,0,0,0,,gez: Beda
+3,198,break,held,hand,0,0,0,,Darauf sind eingetragen
+3,302,break,held,hand,0,0,0,,Stempel 6 gg.
+3,311,break,held,hand,0,0,0,,N° 1179.
+1,74,break,held,hand,0,0,0,,Ich habe dieses Darlehn der fünfzig tau¬
+2,125,break,held,hand,0,0,0,,Es gestellte sich vor unterschriebenen Com¬
+2,149,break,held,hand,0,0,0,,gez. v. Lichnowski als Identitäts-
+2,155,break,held,hand,0,0,0,,Urkundlich unter der Südpreußl Re¬
+3,265,break,held,hand,0,0,0,,"ad Nº 2., 50,000. rt i.e. fünfzig tausend Rthlr"

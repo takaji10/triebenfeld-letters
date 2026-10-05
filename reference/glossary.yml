@@ -756,6 +756,27 @@ entries:
   check_against: Allgemeine Hypothekenordnung 1783
   checked: false
 
+- id: rubrik
+  kind: land
+  lang: de
+  head_en: section of the mortgage book (Rubrik)
+  head_de: Rubrik
+  orig: Rubrik, Rubrica, Rubr.
+  match_de: '\b[Rr]ubr\.|\bRubri[ck]\w*'
+  match_en: '\b[Rr]ubr\.'
+  short_en: >-
+    One of the three sections of an estate's page in the Prussian mortgage
+    book: the first for the owner's title, the second for permanent charges
+    and limits on ownership, the third for debts. "Rubr. III No. 2" is the
+    second debt entered on the estate.
+  short_de: >-
+    Eine der drei Abteilungen auf dem Blatt eines Guts im preußischen
+    Hypothekenbuch: die erste für den Besitztitel, die zweite für dauernde
+    Lasten und Einschränkungen des Eigentums, die dritte für Schulden.
+    „Rubr. III No. 2“ ist die zweite auf das Gut eingetragene Schuld.
+  check_against: Allgemeine Hypothekenordnung 1783
+  checked: false
+
 - id: abstand
   kind: land
   lang: la
@@ -2486,3 +2507,7 @@ excluded:
   # ruled 2026-10-05, when the three holdings were translated
   - {word: "JW.", reason: "Polish, Jaśnie Wielmożny, a form of address before a name; the English gives it plainly, the Most Illustrious"}
   - {word: "mars", reason: "French, March, after the day in a date; not a term"}
+  # ruled 2026-10-05, from I. HA Rep. 162, Nr. 295 (the mortgage registry's abbreviations)
+  - {word: "vol.", reason: "volume, the same in English; a reference into the mortgage book"}
+  - {word: "Cop.", reason: "a head in a court's note of its fees (copying), left abbreviated in the English"}
+  - {word: "Ins.", reason: "a head in a court's note of its fees, left abbreviated in the English; its expansion is not settled"}

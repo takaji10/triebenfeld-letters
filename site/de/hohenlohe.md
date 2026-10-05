@@ -230,6 +230,11 @@ sofort gegen eine Hypothek und Triebenfelds eigene Unterschrift. Das Hypothekenb
 Zagórów verzeichnet ein Darlehen von 250.000 Reichstalern an Triebenfeld, von dem Teile
 bereits an andere Gläubiger abgetreten waren
 ([Auszug]({{ '/documents/oe1bu14525/21/' | relative_url }})).
+Triebenfelds eigene [Schuldverschreibung]({{ '/documents/iharep162nr295/1/' | relative_url }}) für die
+Invalidenkasse, am 28. Januar 1805 in Berlin unterzeichnet, verpfändete ein Fünftel dieses
+Darlehens mit Vorrang vor dem Rest, und der im März in Kalisch ausgestellte
+[Hypothekenschein]({{ '/documents/iharep162nr295/3/' | relative_url }}) verzeichnet, was sonst auf Zagórów
+stand. Beide sind als Abschriften in einer Akte der Staatsschatzverwaltung erhalten.
 
 > Jede Wortbrüchigkeit ist meinen Herzen fremd, und soll es bis am lezten Hauch bleiben.
 > <cite>[Brief 158]({{ '/documents/oe1bu9454/158/' | relative_url }})</cite>

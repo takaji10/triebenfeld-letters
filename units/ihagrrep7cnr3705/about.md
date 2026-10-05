@@ -14,4 +14,4 @@ A fair copy in German. The letters A to H in its margin refer to enclosures, whi
 
 ### Related holdings
 
-Letters of Triebenfeld to Hohenlohe-Ingelfingen from the same years: [[unit:oe1bu9454]]. Contracts of sale and hereditary lease for the South Prussian estates: [[unit:oe1bu14526]]. The Chamber's consent of 1806, which allowed Oleśnica to be let in hereditary lease: [[unit:app539680801]]. <!-- context -->
+Letters of Triebenfeld to Hohenlohe-Ingelfingen from the same years: [[unit:oe1bu9454]]. Contracts of sale and hereditary lease for the South Prussian estates: [[unit:oe1bu14526]]. The Chamber's consent of 1806, which allowed Oleśnica to be let in hereditary lease: [[unit:app539680801]]. The mortgage certificate for Zagórów of March 1805, which records a caveat for the three lessees of Oleśnica: [[unit:iharep162nr295]]. <!-- context -->

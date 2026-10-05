@@ -220,6 +220,10 @@ military pension fund, agreed to advance
 against a mortgage and Triebenfeld's own signature. The mortgage register for Zagórów
 records a loan of 250,000 Reichsthaler to Triebenfeld, parts of it already ceded to other
 creditors ([register extract]({{ '/documents/oe1bu14525/21/' | relative_url }})).
+Triebenfeld's own [bond]({{ '/documents/iharep162nr295/1/' | relative_url }}) for the Invalids' Fund, signed
+at Berlin on 28 January 1805, pledged a fifth of that loan, with priority over the rest, and
+the [mortgage certificate]({{ '/documents/iharep162nr295/3/' | relative_url }}) issued at Kalisz that March
+lists what else stood on Zagórów. Both survive as copies in a file of the state treasury.
 
 > Any breach of word is foreign to my heart, and shall remain so to my last breath.
 > <cite>[Letter 158]({{ '/documents/oe1bu9454/158/' | relative_url }})</cite>

@@ -14,4 +14,4 @@ Eine Reinschrift in deutscher Sprache. Die Buchstaben A bis H am Rand verweisen 
 
 ### Verwandte Bestände
 
-Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: [[unit:oe1bu9454]]. Kauf- und Erbpachtverträge über die südpreußischen Güter: [[unit:oe1bu14526]]. Der Konsens der Kammer von 1806, der die Vererbpachtung von Oleśnica erlaubte: [[unit:app539680801]]. <!-- context -->
+Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: [[unit:oe1bu9454]]. Kauf- und Erbpachtverträge über die südpreußischen Güter: [[unit:oe1bu14526]]. Der Konsens der Kammer von 1806, der die Vererbpachtung von Oleśnica erlaubte: [[unit:app539680801]]. Der Hypothekenschein für Zagórów vom März 1805, der einen Vorbehalt für die drei Pächter von Oleśnica verzeichnet: [[unit:iharep162nr295]]. <!-- context -->

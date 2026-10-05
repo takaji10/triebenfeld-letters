@@ -1,0 +1,45 @@
+# The claim check of the three German summaries of I. HA Rep. 162, Nr. 295,
+# made in session on 2026-10-05 under the rules read_letters.py --verify gives
+# its checker: each statement held to the document, as supported, overstated
+# or unsupported, and the summary only weakened or cut. Not the paid run. The
+# documents were read in the corpus text and in the session's English.
+#
+# Result: 27 statements, 26 supported, one overstated and weakened (document
+# 2: the summary called the protocol under the bond "the Berlin protocol",
+# which the text does not say). Names in the edition's forms (Zagórów for
+# Zagorowo, Oleśnica for Olesnica, Grądzyń for Grądzyn, Kalisch) count as
+# supported. That each piece is a copy rests on the heading "Abschrift." of
+# the first page and on "gez." before every signature.
+
+iharep162nr295-001:
+- {claim: "Abschrift der Schuldverschreibung des Kriegs- und Forstrats Peter Friedrich August von Triebenfeld, Berlin, 28. Januar 1805", verdict: supported, where: "p. 1: Abschrift.; p. 3: So geschehen zu Berlin den 28. Januar 1805 ... gez: Peter Friedrich August v. Triebenfeld"}
+- {claim: "das dritte Departement des Ober-Kriegs-Kollegiums hat ihm aus der General-Invalidenkasse ein Darlehen von 50.000 Talern Courant bewilligt", verdict: supported, where: "p. 1"}
+- {claim: "in Seehandlungs-Obligationen ausgezahlt", verdict: supported, where: "p. 1: mir dato in Seehandlungs-Obligationen, ausgezahlt"}
+- {claim: "Rückzahlung nach sechsmonatiger, beiden Teilen freistehender Kündigung", verdict: supported, where: "p. 1"}
+- {claim: "bis dahin mit 5 Prozent in halbjährlichen Raten in Berlin zu verzinsen", verdict: supported, where: "p. 1: allhier in Berlin zu leisten, oder sie daher franco einzusenden"}
+- {claim: "er verpfändet sein ganzes Vermögen und besonders die Obligation des Fürsten vom 1. Juni 1804 über 250.000 Taler", verdict: supported, where: "pp. 1-2: sub hypotheca generali ... sub hypotheca speciali"}
+- {claim: "die auf die Güter Zagórów, Drzewce, Kopojno, Świątniki, Skokum, Oleśnica, Wrąbczyn und Grądzyń eingetragen ist", verdict: supported, where: "p. 2: vermöge Decrets vom 5. Juni 1804. auf besagte Güter eingetragen"}
+- {claim: "für den Fall der Nichtzahlung tritt er 50.000 Taler davon ab, mit Vorrang vor den ihm verbleibenden 200.000", verdict: supported, where: "p. 2: eventualiter cedire ich ... die Priorität ... im Nichtzahlungs-Fall"}
+- {claim: "am selben Tag erkennt er die Urkunde vor dem ersten Kurmärkischen Justizamt in Berlin an", verdict: supported, where: "pp. 3-4: Actum Berlin, den 28. Januar 1805 ... Königl. Preußisch erstes Churmärkisches Justizamt hierselbst"}
+
+iharep162nr295-002:
+- {claim: "Abschrift einer Urkunde der Südpreußischen Regierung in Kalisch vom 5. März 1805, im Namen des Königs", verdict: supported, where: "p. 1: Wir Friedrich Wilhelm ...; p. 3: unter der Südpreußl Regierung größerem Insiegel ... Gegeben Kalisch den 5. März 1805"}
+- {claim: "vor dem Regierungsrat Stosch als Kommissar", verdict: supported, where: "p. 1: coram Commissario Unserm Regierungs-Rath Stosch; p. 3: gez: Stosch qua Comissar."}
+- {claim: "Triebenfeld ist am 27. Februar 1805 in Kalisch erschienen und hat die Urkunde vom 28. Januar über 50.000 Taler nochmals anerkannt", verdict: supported, where: "p. 2"}
+- {claim: "ebenso das Berliner Anerkennungsprotokoll", verdict: overstated, where: "p. 2: das unter dieser Obligation befindliche Recognitions Protokoll; the text does not name Berlin", now: "ebenso das unter der Obligation stehende Anerkennungsprotokoll"}
+- {claim: "der Regierungsrat von Lichnowski bezeugte seine Identität", verdict: supported, where: "p. 2: durch den mit gegenwärtigen Regierungsrath v. Lichnowski recognoscirt; p. 3: als Identitäts-Zeuge"}
+- {claim: "Vermerk des Ingrossators Beda vom 13. März 1805", verdict: supported, where: "p. 4: Kalisch, den 13. Mart. 1805 gez: Beda Ingrossator"}
+- {claim: "aufgrund eines Dekrets vom 5. des Monats sind die 50.000 Taler, zu 5 Prozent verzinslich und nach sechsmonatiger Kündigung zahlbar, eingetragen", verdict: supported, where: "pp. 3-4: Vigore Decreti de 5. hujus ... subintabulirt worden"}
+- {claim: "im Hypothekenbuch des Koniner Kreises auf Zagórów, Drzewce und Kopojno für die Invalidenkasse", verdict: supported, where: "pp. 3-4"}
+
+iharep162nr295-003:
+- {claim: "Abschrift des Hypothekenscheins über die Stadt Zagórów im Koniner Kreis, den die Südpreußische Regierung in Kalisch am 13. März 1805 der General-Invalidenkasse erteilt (Nr. 1179)", verdict: supported, where: "p. 5: dieser Hypothekenschein ... ertheilt ... Gegeben Kalisch den 13. Mart. 1805 ... N° 1179."}
+- {claim: "der Fürst besitzt das Gut durch die Verleihungsurkunde König Friedrich Wilhelms II. vom 19. Juni 1797", verdict: supported, where: "p. 1"}
+- {claim: "sein Besitztitel ist durch Dekret vom 31. Juli 1801 eingetragen", verdict: supported, where: "p. 1: titulus possessionis ... ex decreto vom 31. Juli 1801"}
+- {claim: "eine jährliche Abgabe von 88 Reichstalern 5 Groschen 9 Pfennig an die Kalischer Kriegs- und Domänenkasse", verdict: supported, where: "pp. 1-2"}
+- {claim: "ein Vorbehalt des Fiskus wegen Bau- und Brennholz aus den Forsten des Gutes nach der Einziehung der geistlichen Güter", verdict: supported, where: "p. 2, 3."}
+- {claim: "ein Vorbehalt für Johann Giese, Johann Bagans und Friedrich Gietzinger wegen der Holz- und Weiderechte aus ihrem Erbpachtvertrag über Oleśnica vom 22. Februar 1804", verdict: supported, where: "pp. 2-3, 4.: Raff- und Leeseholz, Kiehngraben, ihre Schaafe zu weiden"}
+- {claim: "ein Vorbehalt für den Landesältesten von Lichnowski in Brieg wegen einer schon auf Trąbczyn eingetragenen Forderung von 32.300 Reichstalern", verdict: supported, where: "p. 3, II. 1."}
+- {claim: "250.000 Reichstaler für Triebenfeld aus der Schuldverschreibung des Fürsten vom 1. Juni 1804", verdict: supported, where: "pp. 3-4, II. 2."}
+- {claim: "davon 50.000 Reichstaler, die Triebenfeld der Invalidenkasse verpfändet und abgetreten hat, mit Vorrang vor dem Rest", verdict: supported, where: "pp. 4-5: ad No 2. ... die Priorität prae residuo"}
+- {claim: "die letzte Zeile beginnt wie dieser Schein und bricht ab", verdict: supported, where: "p. 5, last line, and p. 1, first line: Die in der Provinz Südpreussen und deren"}

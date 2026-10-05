@@ -134,7 +134,7 @@ so check them.
   changelog. `match_scans.py` needs the raw scans and does not run here; a
   change to a document's pages means correcting `page_scan_map.csv` by hand
   (Nr. 12367's notes, "Mardi put back").
-- Every holding is now translated (462 documents with English; the five of
+- Every holding is now translated (465 documents with English; the five of
   Oe 1 Bü 9454 without text excepted).
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
   2026-10-05): three documents on sixteen pages, copies made about 1930
@@ -150,18 +150,20 @@ so check them.
   `intake/claim_check.yml`); status `translated`, untagged. Read
   `units/app539680801/notes.md` first. Heinrichs,
   who attests the lease, has his own person entry and is not Honrichs.
-- **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, scaffolded
-  2026-10-05), "Capital on the Zagorow estates": the cover and eleven pages
-  of copies of 1805 (Triebenfeld's loan of 50,000 thalers from the Invalids'
-  Fund, secured on Zagórów). The editor photographed each page twice, top
-  and bottom; `intake/build_pages.py --crop` joins each pair into one page
-  image in `raw_dir/processed/` (numbers in `intake/stitch.json`, found by
-  `intake/find_stitch.py`, which needs OpenCV). Status `draft`, corpus
-  empty, pages not staged. **Next: the editor's transcription**, one file
-  per page image; then import as for the other ministry files. Read
-  `units/iharep162nr295/notes.md` first. `title`, `description` and
-  `translation_note` were written from the images and must be checked
-  against the text.
+- **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, added 2026-10-05),
+  "Capital on the Zagorow estates": the cover and eleven pages of copies of
+  1805, three documents: Triebenfeld's bond to the Invalids' Fund for 50,000
+  Rthl (1, Berlin, 28 January), the Kalisz court's certificate of its second
+  acknowledgement (2, 5 March) and the mortgage certificate for Zagórów (3,
+  13 March). The editor photographed each page twice, top and bottom;
+  `intake/build_pages.py --crop` joins each pair into one page image
+  (numbers in `intake/stitch.json`, found by `intake/find_stitch.py`, which
+  needs OpenCV). The editor transcribed from those images; 34 passages
+  corrected, summarised, translated and claim-checked in session; status
+  `translated`, untagged. Read `units/iharep162nr295/notes.md` first. Built
+  and verified locally, **committed but not pushed: publish when the editor
+  says**. Open: the editor's confirmation of "Grądzyn" for "Trąbczyn" in the
+  bond's list of estates, and of the division into three documents.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

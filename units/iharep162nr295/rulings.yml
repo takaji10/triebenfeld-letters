@@ -1,41 +1,62 @@
-# Editorial rulings for I. HA Rep. 162, Nr. 295.
+# Editorial rulings for I. HA Rep. 162, Nr. 295 (GStA PK).
 #
-# Keyed by the archive's own document number, which is what letter_id stays.
-# Nothing here is derived: each entry is a decision taken against evidence and
-# recorded so a rebuild reproduces it. Start empty and fill in from the review
-# sheets in review/ as you work through them.
+# Three documents, one per instrument, as the editor ruled for APP
+# 53/968/0/-/801 (2026-10-05): the bond with its acknowledgement at Berlin
+# (1), the Kalisz court's certificate of its second acknowledgement, with the
+# note of its entry in the mortgage book (2), and the mortgage certificate
+# (3). The archive numbers nothing in the photographs, so the documents are
+# numbered in the order they are copied. The cover (0001) is front matter.
+# Documents 2 and 3 begin partway down a page (0005, 0008). Established
+# 2026-10-05.
 
 places:
-  # Place of writing, where the dateline is absent, illegible or misleading.
-  # A trailing [?] marks a reading that is probable rather than settled.
-  #   "12": Berlin
-  overrides: {}
+  overrides:
+    "1": Berlin
+    "2": Kalisch
+    "3": Kalisch
 
 dates:
-  # [year, month, day, precision]; null where that element is unknown.
-  #   "3": [1815, 2, 9, "day"]
+  # [year, month, day, precision]; read off each document.
+  read:
+    "1": [1805, 1, 28, "day"]      # "So geschehen zu Berlin den 28. Januar 1805."
+    "2": [1805, 3, 5, "day"]       # "Gegeben Kalisch den 5. März 1805."; the hearing 27 February, the entry 13 March
+    "3": [1805, 3, 13, "day"]      # "Gegeben Kalisch den 13. Mart. 1805."
   supplied: {}
-
-  # Taken from the document's own duplicate.
   twin: {}
-
-  # [year, month, day, precision, basis]; the basis is shown to the reader.
   inferred: {}
-
-  # Undated and left so.
   no_date: []
 
 documents:
-  # Anything that is not an ordinary letter, e.g. "register".
-  doc_type: {}
+  # 1 is a bond that pledges and cedes part of another bond; 2 a court's
+  # certificate of an acknowledgement; 3 a statement from the mortgage
+  # register, the kind Oe 1 Bü 14525 calls certified_copy.
+  doc_type:
+    "1": cession
+    "2": attestation
+    "3": certified_copy
 
-  # Same document, transcribed twice.
+  language: {}
   duplicate_of: {}
-
-  # Why a sub-record exists, shown on the document.
   split_note: {}
 
+  relations:
+    "2":
+      - kind: confirms
+        target: "1"
+        note: "Triebenfeld acknowledges 'das unterm 28. Januar a. c. ausgestellte Obligations- und respective Cessions-Instrument' a second time, before the court at Kalisz."
+    "3":
+      - kind: registers
+        target: "1"
+        note: "The certificate records, 'ad No 2', the 50,000 Rthl pledged to the Invalids' Fund 'gemäß der darüber sub dato Berlin, den 28. Januar 1805. ausgestellten Urkunde'."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [zagorowo]
+    "2": [zagorowo]
+    "3": [zagorowo]
+
 damage:
-  # Damage is read from the text's own [...] markers. List document numbers
-  # here only for damage the transcription does not mark.
+  letters: []
+
+rough:
   letters: []

@@ -34,4 +34,4 @@ Die Dokumente sind deutsch; der Hypothekenbuchauszug für Zagórów ist zum Teil
 
 ### Verwandte Bestände
 
-Die Akte des Ministeriums über die Urkunden vom August 1796: [[unit:ihagrrep7cnr3570]]. Verträge, mit denen die Güter verkauft und verpachtet wurden: [[unit:oe1bu14526]]. Das Majorat von 1805, das die südpreußischen Güter einschließt: [[unit:oe1u199]]. Briefe des Bevollmächtigten Peter Friedrich von Triebenfeld an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+Die Akte des Ministeriums über die Urkunden vom August 1796: [[unit:ihagrrep7cnr3570]]. Verträge, mit denen die Güter verkauft und verpachtet wurden: [[unit:oe1bu14526]]. Das Majorat von 1805, das die südpreußischen Güter einschließt: [[unit:oe1u199]]. Briefe des Bevollmächtigten Peter Friedrich von Triebenfeld an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Abschriften der Schuldverschreibung, mit der Triebenfeld 1805 einen Teil des Darlehens auf Zagórów der Invalidenkasse verpfändete, und des dafür ausgestellten Hypothekenscheins: [[unit:iharep162nr295]]. <!-- context -->

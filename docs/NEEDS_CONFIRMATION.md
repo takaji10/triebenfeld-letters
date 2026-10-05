@@ -29,7 +29,7 @@ read, translate and summarise.
   estates (Nr. 1413, 8 images); Hohenlohe operations after Jena (VI. HA, Nl
   Scharnhorst, Nr. 98, 56 images); Miaczynska compensation for confiscation
   (I. HA Rep. 74, Nr. 4680, 12 images). Capital on the Zagorow estates (I. HA
-  Rep. 162, Nr. 295) is scaffolded and waits for its transcription. The
+  Rep. 162, Nr. 295) is in. The
   Biography of Hohenlohe (IV. HA) is not among the folders. The two Klage der
   Gräfin Michalina von Miączyńska files are in (Nr. 12366, Nr. 12367). Each
   is worked into the Hohenlohe-Ingelfingen years page as
@@ -115,8 +115,18 @@ read, translate and summarise.
     (the same attestation and spelling stand in Oe 1 Bü 14526, document 16).
     The editor to say if he knows them to be one man.
 
-- **I. HA Rep. 162, Nr. 295** is scaffolded (2026-10-05): one image per page
-  made from the editor's photographs. It waits for the transcription.
+- **I. HA Rep. 162, Nr. 295** is in (2026-10-05): three documents on
+  thirteen pages, copies of 1805 from a file of the state treasury:
+  Triebenfeld's bond to the Invalids' Fund for 50,000 Rthl, the Kalisz
+  court's certificate of its second acknowledgement, and the mortgage
+  certificate for Zagórów. Page images made from the editor's paired
+  photographs; the editor's transcription corrected, summarised, translated
+  and its summaries claim-checked in session. Still open:
+  - **the list of estates in the bond**: "Trąbczyn" was corrected to
+    "Grądzyn" from the page and from the same list in the certificate; the
+    editor to confirm;
+  - **three documents or two** (the bond and its second acknowledgement);
+  - the readings in `units/iharep162nr295/intake/unresolved.md`.
 
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6** are in (2026-10-04): six documents
   of July 1807, the petitions of Michalina Dąbska and the Governing

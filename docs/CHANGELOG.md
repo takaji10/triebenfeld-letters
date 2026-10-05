@@ -1625,6 +1625,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   and a timeline entry now use the termbase's words (demesne farm, Government, Midsummer).
   Status `translated`; every document with text now has an English translation, 462 of 467.
 
+- **I. HA Rep. 162, Nr. 295 added** (2026-10-05), from the file of the Prussian state treasury
+  on the 50,000 Rthl registered on Zagórów: the cover and eleven pages of copies of 1805, in
+  three documents. Triebenfeld's bond to the General Invalids' Fund (Berlin, 28 January 1805),
+  which pledges a fifth of the Prince's bond for 250,000 Rthl; the South Prussian Government's
+  certificate of its second acknowledgement (Kalisz, 5 March), with the note of its entry in
+  the mortgage book; and the mortgage certificate for Zagórów (13 March). The editor
+  transcribed from the joined page images, line by line. Corrected against the images: 34
+  passages; the list of estates in the bond ends "Grądzyn", not "Trąbczyn"; "Seehandlungs-
+  Obligationen", "Koniner Kreise", "Frist". Line ends and paragraphs ruled by hand. Summarised
+  in German and English and claim-checked (27 statements, one weakened); translated in session
+  (no check rows); holding page in both languages; the timeline entry for the loan, section III
+  of the era essay and the pages of Oe 1 Bü 14525, Oe 1 Bü 9454 and Nr. 3705 link to it. New
+  person: the Regierungsrath v. Lichnowski at Kalisz, kept apart from the creditors of that
+  name. Glossary: `rubrik` added, three abbreviations ruled out. The edition has fifteen
+  holdings, 470 documents and 1,558 pages; 465 have an English translation. See
+  `units/iharep162nr295/notes.md`.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

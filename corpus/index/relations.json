@@ -144,10 +144,22 @@
   "note": "The contract calls Triebenfeld 'durch beiliegende Vollmacht legitimiert'; the court certified this copy of the power of attorney on 21 March 1806, the day it engrossed the contract."
  },
  {
+  "from": "iharep162nr295-2",
+  "kind": "confirms",
+  "to": "iharep162nr295-1",
+  "note": "Triebenfeld acknowledges 'das unterm 28. Januar a. c. ausgestellte Obligations- und respective Cessions-Instrument' a second time, before the court at Kalisz."
+ },
+ {
   "from": "oe1bu14526-21",
   "kind": "supersedes",
   "to": "oe1bu14526-2",
   "note": "Document 21 is conditional throughout on the sale to Honrichs having been annulled; document 2 is the purchase punctation to Martin Honrichs over the same estate of Witow. It replaces that document only once the annulment takes effect."
+ },
+ {
+  "from": "iharep162nr295-3",
+  "kind": "registers",
+  "to": "iharep162nr295-1",
+  "note": "The certificate records, 'ad No 2', the 50,000 Rthl pledged to the Invalids' Fund 'gemäß der darüber sub dato Berlin, den 28. Januar 1805. ausgestellten Urkunde'."
  },
  {
   "from": "oe1bu14526-22",

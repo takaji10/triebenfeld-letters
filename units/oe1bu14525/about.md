@@ -34,4 +34,4 @@ The documents are in German; the register extract for Zagórów is partly in Pol
 
 ### Related holdings
 
-The ministry's file on the charters of August 1796: [[unit:ihagrrep7cnr3570]]. Contracts by which the estates were sold and leased: [[unit:oe1bu14526]]. The entail of 1805, which includes the South Prussian estates: [[unit:oe1u199]]. Letters of the agent Peter Friedrich von Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+The ministry's file on the charters of August 1796: [[unit:ihagrrep7cnr3570]]. Contracts by which the estates were sold and leased: [[unit:oe1bu14526]]. The entail of 1805, which includes the South Prussian estates: [[unit:oe1u199]]. Letters of the agent Peter Friedrich von Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Copies of the bond by which Triebenfeld pledged part of the loan on Zagórów to the Invalids' Fund in 1805, and of the mortgage certificate issued for it: [[unit:iharep162nr295]]. <!-- context -->

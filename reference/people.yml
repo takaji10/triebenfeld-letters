@@ -345,9 +345,19 @@ people:
     match: "Leixner|Leyner"
     tier: ""
     variants: []
+  lichnowski-kalisz:
+    display: "Regierungsrath von Lichnowski"
+    render: "Lichnowski"
+    match: 'Lichnowsk\w*'
+    only_in: [iharep162nr295-2]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Regierungsrath v. Lichnowski, a councillor of the South Prussian Government at Kalisz, who on 27 February 1805 vouched for Triebenfeld's identity when he acknowledged his bond to the Invalids' Fund ('als Identitäts-Zeuge'; I. HA Rep. 162, Nr. 295, document 2). Whether he is one of the Lichnowski brothers who were creditors of the estates is not shown; kept apart. Added 2026-10-05."
   lichnowski:
     display: "Lichnowski"
-    match: 'Lichnowsk\w*'
+    # Not the Regierungsrath at Kalisz (lichnowski-kalisz), who is named twice
+    # in I. HA Rep. 162, Nr. 295, document 2.
+    match: '(?<!Regierungsrath v\. )(?<!gez\. v\. )Lichnowsk\w*'
     tier: "Book-confirmed (as claimants)"
     identity: >-
       The Lichnowski brothers, creditors and claimants against the estates.

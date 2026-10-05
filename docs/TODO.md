@@ -114,30 +114,37 @@ page in both languages; two timeline entries. Details are in
 - [x] Check each statement of the three summaries against its document:
       35 statements, two weakened.
 
-## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (scaffolded 2026-10-05)
+## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (added 2026-10-05)
 
 The file the folder list calls "Capital on the Zagorow estates": the cover
 and eleven pages, copies of the papers of January to March 1805 by which
 Triebenfeld borrowed 50,000 thalers from the Invalids' Fund against the
 Prince's bond for 250,000 thalers on Zagórów. Each page was photographed
-twice, top and bottom; the two photographs are now joined into one image per
-page. Details are in `units/iharep162nr295/notes.md`. Nothing of it is in
-the edition yet.
+twice, top and bottom; the two photographs were joined into one image per
+page, and you transcribed from those. Three documents: the bond (28 January
+1805), the Kalisz court's certificate of its second acknowledgement (5
+March), and the mortgage certificate for Zagórów (13 March). Corrected,
+summarised, translated and its summaries checked in session. Details are in
+`units/iharep162nr295/notes.md`.
 
-- [x] One image per page, with no line twice: twelve images in the
-      `processed` folder beside the photographs
-      (`I_HA_Rep_162_Nr_295_0001_a.jpg` to `..._0012_a.jpg`).
-- [ ] **You: look at the twelve page images** before transcribing, and say
-      if a cut runs too close to the writing or a join looks wrong.
-- [ ] **You: transcribe them**, one text file per image, named like the
-      image (`I_HA_Rep_162_Nr_295_0002_a.txt`).
-- [ ] Bring the transcription in: stage the page images, divide the pages
-      into documents (probably two: the bond with its acknowledgements, and
-      the mortgage certificate), correct against the images, summarise in
-      both languages, write the holding's page, and add it to section III of
-      the era essay and to the timeline.
-- [ ] Check `title`, `description` and `translation_note` in `unit.yml`
-      against the transcription. They were written from the images.
+- [x] One image per page, with no line twice.
+- [x] Your transcription brought in; 34 passages corrected against the page
+      images.
+- [x] Summaries, holding page, translation, claim check; links from the
+      timeline, the era essay and three other holdings.
+- [ ] **You: say when to publish it.** Built and verified here, committed
+      locally, not pushed.
+- [ ] **You: the list of estates in the bond** (page 3). Your transcription
+      ended it "Wrąbczyn und Trąbczyn"; the page has "Grądzyn", and the same
+      list in the mortgage certificate ends "Wrąbczyn, Grądzyn". Changed;
+      say if you read it otherwise. It means Trąbczyn was not among the
+      estates this loan was secured on.
+- [ ] **You: three documents or two.** The bond and the Kalisz certificate of
+      its second acknowledgement are counted separately, as you ruled for
+      the Poznań copies. They can be joined if you prefer.
+- [ ] **You: two small readings**, if you want a spot sheet: "nachstehende"
+      on page 4 (the sense expects "vorstehende") and the figure in the fee
+      note on page 7 ("3 gg." or "2 gg.").
 
 ## 5. Carried over
 
@@ -157,4 +164,4 @@ NEEDS_CONFIRMATION.md.
       the licences**, before the site is shared more widely.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
-      on the Zagorow estates" is section 4 above.
+      on the Zagorow estates" is in (section 4 above).

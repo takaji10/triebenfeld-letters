@@ -8904,6 +8904,62 @@
   "permalink": "/documents/oe1bu9454/158/"
  },
  {
+  "uid": "iharep162nr295-1",
+  "unit": "iharep162nr295",
+  "letter_id": "1",
+  "doc_type": "cession",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1805-01-28",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Berlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 89,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "I_HA_Rep_162_Nr_295_0002_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0003_a",
+    "image": "I_HA_Rep_162_Nr_295_0003_a-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0004_a",
+    "image": "I_HA_Rep_162_Nr_295_0004_a-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0005_a",
+    "image": "I_HA_Rep_162_Nr_295_0005_a-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 11,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "cession 1",
+  "path": "documents/iharep162nr295-1.json",
+  "text_path": "text/iharep162nr295-1.txt",
+  "permalink": "/documents/iharep162nr295/1/"
+ },
+ {
   "uid": "oe1bu9454-159",
   "unit": "oe1bu9454",
   "letter_id": "159",
@@ -9253,6 +9309,62 @@
   "permalink": "/documents/oe1bu9454/164/"
  },
  {
+  "uid": "iharep162nr295-2",
+  "unit": "iharep162nr295",
+  "letter_id": "2",
+  "doc_type": "attestation",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1805-03-05",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisch",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 70,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a",
+    "image": "I_HA_Rep_162_Nr_295_0005_a-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0006_a",
+    "image": "I_HA_Rep_162_Nr_295_0006_a-L2_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0007_a",
+    "image": "I_HA_Rep_162_Nr_295_0007_a-L2_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0008_a",
+    "image": "I_HA_Rep_162_Nr_295_0008_a-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 5,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "attestation 2",
+  "path": "documents/iharep162nr295-2.json",
+  "text_path": "text/iharep162nr295-2.txt",
+  "permalink": "/documents/iharep162nr295/2/"
+ },
+ {
   "uid": "oe1bu14526-21",
   "unit": "oe1bu14526",
   "letter_id": "21",
@@ -9307,6 +9419,67 @@
   "path": "documents/oe1bu14526-21.json",
   "text_path": "text/oe1bu14526-21.txt",
   "permalink": "/documents/oe1bu14526/21/"
+ },
+ {
+  "uid": "iharep162nr295-3",
+  "unit": "iharep162nr295",
+  "letter_id": "3",
+  "doc_type": "certified_copy",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1805-03-13",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisch",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 5,
+  "n_lines": 125,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0008_a",
+    "image": "I_HA_Rep_162_Nr_295_0008_a-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0009_a",
+    "image": "I_HA_Rep_162_Nr_295_0009_a-L3_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0010_a",
+    "image": "I_HA_Rep_162_Nr_295_0010_a-L3_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0011_a",
+    "image": "I_HA_Rep_162_Nr_295_0011_a-L3_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0012_a",
+    "image": "I_HA_Rep_162_Nr_295_0012_a-L3_05.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 9,
+  "places_named": 15,
+  "estates": [
+   "zagorowo"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certified copy 3",
+  "path": "documents/iharep162nr295-3.json",
+  "text_path": "text/iharep162nr295-3.txt",
+  "permalink": "/documents/iharep162nr295/3/"
  },
  {
   "uid": "oe1bu9454-174",

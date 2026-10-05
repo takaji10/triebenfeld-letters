@@ -1,0 +1,74 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,19,20,¬,drit,tes,drittes,join,high,"joined form attested in DWDS (8,531,540 hits)",False,0,8531540,0,,1,,"em des Königl. Ober-Krieges-Collegii drit¬ || tes Departement, mir Endesunterschriebenem"
+1,1,23,24,¬,be,williget,bewilliget,join,high,"joined form attested in DWDS (363,459 hits)",False,0,363459,0,,1,,in Courant nach dem Münzfuß von 1764. be¬ || williget und dieser Betrag mir dato in
+1,1,32,33,¬,ver,zinsen,verzinsen,join,high,"joined form attested in DWDS (52,170 hits)",False,0,52170,0,,3,,"5 proCent in halbjährigen ratis zu ver¬ || zinsen, und diese Zinszahlung allhier in"
+1,1,35,36,¬,die,ses,dieses,join,high,joined form occurs elsewhere in this corpus,False,3,,19,,1,,einzusenden. Zu mehrerer Sicherheit die¬ || ses Darlehns verpfände ich Einer Hochlöb¬
+1,1,36,37,¬,Hochlöb,lichen,Hochlöblichen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,ses Darlehns verpfände ich Einer Hochlöb¬ || lichen General-Invaliden-Casse nicht allei
+1,1,39,40,¬,dersel,ben,derselben,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"generali, sondern ich verpfände dersel¬ || ben auch ausserdem sub hypotheca speciali"
+1,2,44,45,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"es regierenden Fürsten v. Hohenlohe Ingel¬ || fingen, Königlich Preußischen General"
+1,2,46,47,¬,Bres,lau,Breslau,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"der Infanterie und Gouverneurs von Bres¬ || lau, auf die Summe von Zweimal Hun¬"
+1,2,47,48,¬,Hun,dert,Hundert,join,held,held: adjudicated by hand: one word broken at the line end,False,0,0,0,27447,1,4831,"lau, auf die Summe von Zweimal Hun¬ || dert und Funfzig Tausend Thaler in Cou¬"
+1,2,48,49,¬,Cou,rant,Courant,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"dert und Funfzig Tausend Thaler in Cou¬ || rant ausgestellt, und auf dessen in Süd¬"
+1,2,49,50,¬,Süd,preussen,Südpreussen,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,2,,"rant ausgestellt, und auf dessen in Süd¬ || preussen belegenen Güter der Stadt Zago¬"
+1,2,50,51,¬,Zago,rowo,Zagorowo,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"preussen belegenen Güter der Stadt Zago¬ || rowo, Drzewce, Kopojno, Swiątniki,"
+1,2,54,55,¬,eingetra,gen,eingetragen,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,2,,"Juni 1804. auf besagte Güter eingetra¬ || gen ist, eventualiter cedire ich von der¬"
+1,2,55,56,¬,der,selben,derselben,join,high,joined form occurs elsewhere in this corpus,False,2,,36,,1,,"gen ist, eventualiter cedire ich von der¬ || selben die Summe von 50000 rt derge¬"
+1,2,56,57,¬,derge,stalt,dergestalt,join,high,"joined form attested in DWDS (37,858 hits)",False,0,37858,0,,1,,selben die Summe von 50000 rt derge¬ || stalt als ein Eigenthum der Hochlöblichen
+1,2,59,60,¬,Priori,tät,Priorität,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"in Ansehung dieser Summe, die Priori¬ || tät von der mir an gedachter Obligation"
+1,2,62,63,¬,die,ser,dieser,join,high,joined form occurs elsewhere in this corpus,False,6,,19,,1,,ch willige auch in die Subingroßation die¬ || ser Verpfändung und respective Cession
+1,2,64,65,-,Invaliden,Casse,InvalidenCasse,split,high,joined form unattested; both halves are real words,False,0,0,10,12307,13,1731,"und soll es der Hochlöblichen Invaliden- || Casse freistehen, im Nichtzahlungs-"
+1,2,65,66,-,Nichtzahlungs,Fall,NichtzahlungsFall,join,high,head is not a word on its own,False,0,15,0,0,1,,"Casse freistehen, im Nichtzahlungs- || Fall, das ihm an dieser Cession zustehende"
+1,2,67,68,¬,Obli,gation,Obligation,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,"Eigenthums Recht, an gedachter Obli¬ || gation geltend zu machen."
+1,3,70,71,¬,Obliga,tion,Obligation,join,high,joined form occurs elsewhere in this corpus,False,5,,0,,1,,rkund dessen habe ich nachstehende Obliga¬ || tion eigenhändig und gerichtlich unterschr
+1,3,71,72,¬,unterschrie,ben,unterschrieben,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,n eigenhändig und gerichtlich unterschrie¬ || ben.
+1,3,74,75,¬,tau,send,tausend,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,1,,Ich habe dieses Darlehn der fünfzig tau¬ || send Thaler erhalten.
+1,3,79,80,¬,Forst,Rath,ForstRath,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,"Uebergab der Königliche Krieges und Forst¬ || Rath, Herr Peter Friedrich August v. Trieb"
+1,3,80,81,¬,Trieben,feld,Triebenfeld,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,4,,"h, Herr Peter Friedrich August v. Trieben¬ || feld die vorstehende Schuldverschreibung, "
+1,3,81,82,¬,in,halts,inhalts,join,held,held: adjudicated by hand: one word broken at the line end,False,0,324,21,0,1,817,"d die vorstehende Schuldverschreibung, in¬ || halts deren derselbe der Königl General-"
+1,3,82,83,-,General,Invaliden,GeneralInvaliden,split,high,joined form unattested; both halves are real words,False,0,0,10,880071,10,12307,halts deren derselbe der Königl General- || Invaliden-Casse über ein Anlehn von
+1,3,85,86,¬,Sicher,heit,Sicherheit,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"quittirt, und derselben zu ihrer Sicher¬ || heit eine von des regierenden Fürsten"
+1,3,87,88,¬,Ju,nius,Junius,join,high,"joined form attested in DWDS (6,167 hits)",False,0,6167,0,,1,,v Hohenlohe Ingelfingen unterm 1. Ju¬ || nius 1804. über 250000. rt Cur. ausge¬
+1,3,88,89,¬,ausge,stellte,ausgestellte,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,"nius 1804. über 250000. rt Cur. ausge¬ || stellte Obligation, cum jure praeferentiae"
+1,3,90,91,¬,zu,stehenden,zustehenden,join,high,joined form occurs elsewhere in this corpus,False,3,,22,,1,,wegen der ihm von jener Summe noch zu¬ || stehenden 200000. rt verpfändet und even¬
+1,3,91,92,¬,even,tualiter,eventualiter,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,stehenden 200000. rt verpfändet und even¬ || tualiter cedirt. Der Herr Comparent
+1,3,93,94,¬,gegen,wärtigen,gegenwärtigen,join,high,"joined form attested in DWDS (1,460,442 hits)",False,0,1460442,3,,1,,"verstand sich zu dem Inhalte der gegen¬ || wärtigen Obligation, unterschrieb selbige"
+1,4,101,102,¬,Vordrü,ckung,Vordrückung,join,high,head is not a word on its own,False,0,0,0,0,1,,Urkundlich ist dasselbe unter Vordrü¬ || ckung des Gerichtssiegels aufgenommen
+2,1,114,115,¬,Regierungs,Rath,RegierungsRath,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,daß coram Commissario Unserm Regierungs¬ || Rath Stosch der Krieges und Forstrath
+2,1,118,119,¬,Invali,den,Invaliden,join,high,joined form occurs elsewhere in this corpus,False,10,,0,,25,,Januar c. a. auf die General-Invali¬ || den-Casse über 50000. rt ausgestellte
+2,2,125,126,¬,Com,missarien,Commissarien,join,held,held: adjudicated by hand: one word broken at the line end,False,0,101,0,517309,1,0,s gestellte sich vor unterschriebenen Com¬ || missarien der Königl. Krieges- und Forst-
+2,2,126,127,-,Forst,Rath,ForstRath,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,3,,missarien der Königl. Krieges- und Forst- || Rath Peter Friedrich August v. Trieben¬
+2,2,127,128,¬,Trieben,feld,Triebenfeld,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,4,,"Rath Peter Friedrich August v. Trieben¬ || feld, welcher durch den mit gegenwärti¬"
+2,2,128,129,¬,gegenwärti,gen,gegenwärtigen,join,high,"joined form attested in DWDS (1,460,442 hits)",False,0,1460442,0,,2,,"feld, welcher durch den mit gegenwärti¬ || gen Regierungsrath v. Lichnowski re¬"
+2,2,129,130,¬,re,cognoscirt,recognoscirt,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gen Regierungsrath v. Lichnowski re¬ || cognoscirt, und sagt."
+2,2,132,133,¬,Obli,gations,Obligations,join,high,"joined form attested in DWDS (27,489 hits)",False,0,27489,0,,1,,unterm 28. Januar a. c. ausgestellte Obli¬ || gations- und respective Cessions-Instru¬
+2,2,133,134,¬,Instru,ment,Instrument,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gations- und respective Cessions-Instru¬ || ment, über die Summe von 50000. rt"
+2,2,136,137,-,General,Invaliden,GeneralInvaliden,split,high,joined form unattested; both halves are real words,False,0,0,10,880071,10,12307,welche Summe er aus der General- || Invaliden-Casse von Seiten des Königl
+2,2,138,139,¬,er,halten,erhalten,join,high,joined form occurs elsewhere in this corpus,False,2,,4,,1,,"Ober-Krieges-Collegii als Darlehn er¬ || halten habe. Er bemerkte auch, daß das"
+2,2,140,141,¬,Recogni,tions,Recognitions,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"ter dieser Obligation befindliche Recogni¬ || tions Protokoll von ihm ausgestellt,"
+2,3,149,150,-,Identitäts,Zeuge,IdentitätsZeuge,join,high,head is not a word on its own,False,0,19,0,235,1,,gez. v. Lichnowski als Identitäts- || Zeuge.
+2,3,155,156,¬,Re,gierung,Regierung,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Urkundlich unter der Südpreußl Re¬ || gierung größerem Insiegel und Unter¬
+2,3,156,157,¬,Unter,schrift,Unterschrift,join,high,joined form occurs elsewhere in this corpus,False,1,,6,,1,,gierung größerem Insiegel und Unter¬ || schrift. Gegeben Kalisch den 5. März 1805.
+2,3,170,171,¬,Hy,pothekenbuch,Hypothekenbuch,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Grund vorstehenden Documents sind im Hy¬ || pothekenbuch Koninschen Kreises Vol. 4.
+3,1,190,191,¬,Ingel,fingen,Ingelfingen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"t der regierende Fürst zu Hohenlohe Ingel¬ || fingen Friedrich Ludwig, Durchlaucht, von "
+3,1,199,200,¬,Eigen,thums,Eigenthums,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,, onera perpetua Einschränkungen des Eigen¬ || thums oder disposition.
+3,2,206,207,¬,wel,ches,welches,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,Krieges und Domainen-Casse gezahlt; wel¬ || ches auf den Grund des Antrages der
+3,2,210,211,¬,ein,getragen,eingetragen,join,high,joined form occurs elsewhere in this corpus,False,6,,3,,1,,eti vom 14. December 1802. ex officio ein¬ || getragen worden.
+3,2,216,217,¬,gehöri,ge,gehörige,join,high,"joined form attested in DWDS (351,882 hits)",False,0,351882,0,,2,,Brennholzes auf die zu diesem Gut gehöri¬ || ge Forsten und die Bezahlung der über¬
+3,2,217,218,¬,über,schießenden,überschießenden,join,high,"joined form attested in DWDS (17,190 hits)",False,0,17190,7,,1,,ge Forsten und die Bezahlung der über¬ || schießenden baaren Forstcompetenz zu
+3,2,219,220,¬,Man,datarii,Mandatarii,join,high,head is not a word on its own,False,0,0,0,0,1,,"fordern, ist auf den Antrag des Man¬ || datarii fisci vermöge Decreti 25. Januar"
+3,2,224,225,¬,un,term,unterm,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,des ihnen in dem mit dem Eigenthümer un¬ || term 22. Februar 1804. über das Gut
+3,2,226,227,¬,Con,tracts,Contracts,join,high,"joined form attested in DWDS (3,074 hits)",False,0,3074,0,,1,,"Olesnica geschlossenen Erbpachts-Con¬ || tracts, stipulirten Rechts, freies"
+3,3,253,254,¬,Auf,kündigungsfrist,Aufkündigungsfrist,join,held,held: adjudicated by hand: one word broken at the line end,False,0,0,17,334349961,1,167149,"onatliche beiden Theilen freistehende Auf¬ || kündigungsfrist, sind als eine Anleihe aus"
+3,4,257,258,-,Krieges,und,Kriegesund,split,high,joined form unattested; both halves are real words,False,0,0,8,4755134,55,1133103472,Breslau den 1. Juni 1804. für den Krieges- || und Forstrath Peter Friedrich August v. Tr
+3,4,258,259,¬,Trieben,feld,Triebenfeld,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,4,,rstrath Peter Friedrich August v. Trieben¬ || feld vermöge Decreti vom 5. Juni 1804 in G
+3,4,259,260,¬,Gefol,ge,Gefolge,join,high,"joined form attested in DWDS (112,885 hits)",False,0,112885,0,,2,,vermöge Decreti vom 5. Juni 1804 in Gefol¬ || ge des deshalbigen Gesuchs des Schuldners 
+3,4,261,262,¬,Swiąt,niki,Swiątniki,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"die Güter Stadt Zagorowo, Kopojno, Swiąt¬ || niki, Skokum, Drzewce, Olesnica, Wrąbczyn,"
+3,4,263,264,¬,Schä,den,Schäden,join,high,"joined form attested in DWDS (4,150,895 hits)",False,0,4150895,0,,25,,"yn, welche zugleich wegen Kosten und Schä¬ || den haften, eingetragen worden."
+3,4,268,269,¬,Trieben,feld,Triebenfeld,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,4,,Königl. Krieges- und Forstrath v. Trieben¬ || feld der Königl General-Invaliden-Casse
+3,4,271,272,¬,kosten,frei,kostenfrei,join,high,"joined form attested in DWDS (1,482,660 hits)",False,0,1482660,1,,1,,"l. in halbjährigen ratis in Berlin kosten¬ || frei zu zahlenden Zinsen, und unter ge¬"
+3,4,272,273,¬,ge,genseitiger,gegenseitiger,join,high,"joined form attested in DWDS (1,654,660 hits)",False,0,1654660,2,,1,,"frei zu zahlenden Zinsen, und unter ge¬ || genseitiger 6. monatlicher Aufkündigungs-"
+3,4,273,274,-,Aufkündigungs,Frist,AufkündigungsFrist,join,high,head is not a word on its own,False,0,0,0,0,1,,"genseitiger 6. monatlicher Aufkündigungs- || Frist erhaltenes gleich hohes Anlehn, der"
+3,4,275,276,¬,ver,pfändet,verpfändet,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"gedachten General-Invaliden-Casse ver¬ || pfändet, und eventualiter eigenthümlich"
+3,4,282,284,¬,con,stituirt,constituirt,join,held,held: adjudicated by hand: one word broken at the line end,True,0,12,0,96931,1,0,50000 rt die Priorität prae residuo con¬ || stituirt worden.
+3,5,286,287,¬,einge,tragen,eingetragen,join,high,joined form occurs elsewhere in this corpus,False,6,,0,,1,,"e Zagorowo im Hypothekenbuch nichts einge¬ || tragen, und wird übrigens dieser Hypothe¬"
+3,5,287,288,¬,Hypothe,kenschein,Hypothekenschein,join,high,head is not a word on its own,False,0,16,0,32,1,,"tragen, und wird übrigens dieser Hypothe¬ || kenschein der Königl. General-Invaliden-Ca"

@@ -143,7 +143,9 @@ sequestered. The revenue survey of 1806. The debts growing faster than the
 rents: Countess Schlabrendorff, the Invalids' Fund loan of 1805.
 
 Sources: Oe 1 Bü 14526; Oe 1 Bü 9454; 53/71/0/-/57 (Erbet); 53/968/0/-/801
-(the consent of 28 January 1806, the Drzewce lease); Nr. 3705 (Oleśnica); Oe 1 Bü 14525 (the mortgage entries, the loan of 250,000 Rthl on
+(the consent of 28 January 1806, the Drzewce lease); I. HA Rep. 162, Nr. 295
+(the bond to the Invalids' Fund and the Zagórów mortgage certificate, 1805);
+Nr. 3705 (Oleśnica); Oe 1 Bü 14525 (the mortgage entries, the loan of 250,000 Rthl on
 Zagórów).
 
 Incoming: *Olesnica estate lease from Hohenlohe* is Nr. 3705, already in.
@@ -244,7 +246,7 @@ some cut short). "In" means already in the edition.
 | Claims of Hohenlohe on Trabczyn | Nr. 12765, in | VII, VIII |
 | Anton Prusimski Venice Residence | to add: I. HA GR, Rep. 7 C, Nr. 1414 (1797) | I, or the boundary era: confirm |
 | Minor Prusimska's claims to father's ... | to add: I. HA GR, Rep. 7 C, Nr. 1413 (1796-1798) | I or II |
-| Capital on the Zagorow estates | I. HA Rep. 162, Nr. 295 (copies of 1805): page images made 2026-10-05, to be transcribed | III |
+| Capital on the Zagorow estates | I. HA Rep. 162, Nr. 295 (copies of 1805), in | III |
 | Hohenlohe operations after Jena | to add | V, a sentence at most |
 | Biography of Hohenlohe (IV. HA) | to add | Opening, for his life; not a source for the estates |
 | Klage der Gräfin Michalina von Miac... (two) | both in: III. HA MdA, III. Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832), placed in the Hohenlohe era for now | VIII; the editor to confirm the era (Hohenlohe or restitution) |

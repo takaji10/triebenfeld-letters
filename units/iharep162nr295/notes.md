@@ -3,9 +3,10 @@
 The cover and eleven pages of copies, papers of 28 January to 13 March 1805,
 from the head of a file the Prussian state treasury kept from 1820 to March
 1827 on the 50,000 thalers that Peter Friedrich von Triebenfeld had borrowed
-from the Invalids' Fund and secured on the Zagórów estates. Scaffolded on
-2026-10-05: the page images are made; nothing is transcribed yet, so the
-holding is `draft` and the build skips it.
+from the Invalids' Fund and secured on the Zagórów estates. Three documents
+on 13 pages. Scaffolded on 2026-10-05, when the page images were made; the
+editor's transcription came the same day and was brought in, corrected,
+summarised, translated and claim-checked. Status `translated`.
 
 ## Provenance
 
@@ -45,37 +46,103 @@ Trzcinski".
   photographed. Nothing from the file's own years, 1820 to 1827, was
   photographed.
 
-## What the pages are
+## The documents
 
-Read from the page images on 2026-10-05, before any transcription, to write
-`unit.yml`; to be checked against the text.
+Three documents, one per instrument, following the editor's ruling for APP
+53/968/0/-/801 the same day ("three documents is fine"). Not asked again; if
+the bond and its second acknowledgement should be one document, documents 1
+and 2 can be joined.
 
-| Page | Content |
-|---|---|
-| 0001 | Cover |
-| 0002-0004 | "Abschrift". Triebenfeld's bond for 50,000 thalers to the General Invalids' Fund, Berlin, 28 January 1805, pledging the Prince of Hohenlohe-Ingelfingen's bond of 1 June 1804 for 250,000 thalers |
-| 0004-0005 | "Actum Berlin, den 28. Januar 1805": the bond acknowledged before a court at Berlin, signed Wilmanns |
-| 0005-0007 | "Wir Friedrich Wilhelm ...": the South Prussian Regierung's certificate of the acknowledgement at Kalisz, with the record of 27 February 1805; given at Kalisz, 5 March 1805 |
-| 0007-0008 | "Vigore decreti de 5. hujus ...": the note of the entry in the mortgage book of the Konin district, on Zagórów, Drzewce and Kopojno; Kalisz, 13 March 1805 |
-| 0008-0012 | The mortgage certificate for Zagórów, Kalisz, 13 March 1805, headed at its end "Hypotheken-Schein ... No. 1179" |
-| 0012 | The first line of a further certificate |
+| Document | Pages | What it is | Date, place |
+|---|---|---|---|
+| 1 | 0002 to 0005 (line 12) | Triebenfeld's bond to the General Invalids' Fund, with the protocol of its acknowledgement before the first Kurmark justice office, signed Wilmanns | 28 January 1805, Berlin |
+| 2 | 0005 (line 13) to 0008 (line 7) | The South Prussian Government's certificate of the second acknowledgement (hearing of 27 February before Stosch and v. Zelislawski, v. Lichnowski as witness of identity; signed Schiller), its fee note and docket, and the Ingrossator Beda's note of the entry in the mortgage book, 13 March | 5 March 1805, Kalisz |
+| 3 | 0008 (line 8) to 0012 | The mortgage certificate for the town of Zagórów, No. 1179, signed Danckelmann, Husarzewski, Schlegel, Beda; its last two lines are the stamp note and first line of a further certificate | 13 March 1805, Kalisz |
 
-The marks in brackets in the margin beside the opening of a piece (0002,
-0005, 0008, 0012) note the stamped paper of the original, for example
-"(6 ggr. Stempel)".
+The cover (0001) is front matter. Documents 2 and 3 begin partway down a page
+(`intake/document_boundaries.csv`, `first_line`). Types: `cession`,
+`attestation`, `certified_copy` (the term Oe 1 Bü 14525 uses for a mortgage
+register statement). Relations: 2 confirms 1, 3 registers 1.
 
 ## Transcription
 
-None yet. The editor transcribes from the page images in
-`<raw_dir>/processed/`, one text file per image. Named like the images
-(`I_HA_Rep_162_Nr_295_0002_a.txt`) and put in `units/iharep162nr295/
-transcriptions/`, they are read by `import_pages.py` as they are
-(`unit.yml`, `transcriptions:`).
+The editor's twelve files (one per page image, line by line, with ¬ at broken
+words) were put in `<raw_dir>/txt/` on 2026-10-05 and copied unchanged into
+`transcriptions/` under their own names
+(`<n>_I_HA_Rep_162_Nr_295_<page id>.txt`); `import_pages.py` assembled
+`corpus.txt`.
 
-How the pages divide into documents is to be settled then. By the edition's
-rule a deed and its acknowledgements are one document, so the likely division
-is two: the bond with its acknowledgements and registry note (0002 to the
-middle of 0008), and the mortgage certificate (from the middle of 0008).
+- **Line ends.** Five words broken at a line end were joined by hand in
+  `linebreak_decisions.csv` (Hundert, inhalts, Commissarien,
+  Aufkündigungsfrist, constituirt).
+- **Paragraphs.** Set by hand where the cues failed
+  (`paragraph_decisions.csv`): nine automatic breaks before a date or figure
+  that opens a line inside a sentence ("31. Juli 1801.", "330. Morgen", "6.
+  monatliche") were turned into runs, and thirteen breaks added (rows with
+  cue `hand`) before signatures, fee lines and the numbered entries. A hand
+  row is found again only by the whole line, up to 70 characters.
+
+## Corrections (2026-10-05)
+
+34 passages, each read on the page image: `intake/corrections.py`, logged in
+`transcription_decisions.csv`. What was left is in `intake/unresolved.md`.
+
+- **Changes of sense:** "Trąbczyn" at the end of the list of estates in the
+  bond is "Grądzyn" (the page; the same list on 0011); "Verhandlungs-" is
+  "Seehandlungs-Obligationen"; "Kommer Kreise" is "Koniner Kreise"; "Ernst"
+  is "Frist"; "einramme" is "einräume"; "gehöscht" is "gelöscht"; "minus[?]"
+  is "[Ju]nius"; "[T?]hurmarkisches" is "Churmärkisches". The cover's "lig
+  Med:" is "bis med:".
+- **Signs and marks:** the Reichsthaler sign is "rt" throughout (five places
+  had rn, rd, rl, rue); the pfennig sign is "pf."; seven ¬ added or put in
+  place of a hyphen; "Königl" three times for "König".
+- **Added:** "und deren" in the last line, and the stamp note in the margin
+  beside it.
+
+## Summaries, translation, claim check (2026-10-05)
+
+German summaries written in the session from the reading, the English
+translated from them (`intake/summaries_draft.py`); 27 statements checked
+against the documents, one weakened (`intake/claim_check.yml`). The site's
+summary files were not rebuilt from the local cache: the three lines were
+inserted into each.
+
+Translated in session, as Nr. 12366 was; the pages are in
+`intake/translation/doc<N>.yml`, written into the untagged cache by
+`intake/translation/write_cache.py`. Status `translated`, `published_tag:
+""`. check_translations.py: no row, after "sub hypotheca generali" and
+"speciali" were put into English (the checker forbids "hypothec" by the
+editor's ruling of 2026-09-17). uncanonical_names.py: nothing in this
+holding. Names in the edition's forms where settled (Zagórów, Wrocław,
+Kalisz, Brzeg, Świątniki, Grądzyń); Olesnica as other published English has
+it.
+
+## Authorities (2026-10-05)
+
+Matched without change: Triebenfeld, Hohenlohe, Friedrich Wilhelm II,
+Danckelmann, Husarzewski (entry `hussarzewski`), and the three lessees of
+Oleśnica, Giese, Bagans and Gietzinger, who are in I. HA GR, Rep. 7 C, Nr.
+3705. New: `lichnowski-kalisz`, the Regierungsrath v. Lichnowski who vouches
+for Triebenfeld's identity in document 2; the entry for the creditors
+(`lichnowski`) no longer matches after "Regierungsrath v." or "gez. v.", so
+he is not counted among them. The Landesältester v. Lichnowski at Brzeg in
+document 3 is the creditor. Place variant added: Grądzyn. Not added: Stosch,
+v. Zelislawski, Schiller, Schlegel, Beda, Wilmanns (officials named once
+each, in signatures).
+
+Glossary: new entry `rubrik` (the sections of the mortgage book; not checked
+against the Hypothekenordnung, which is not online here); "vol.", "Cop." and
+"Ins." ruled out. Every match of the new pattern was read: this holding and
+Nr. 12367, document 7, all genuine.
+
+## The site (2026-10-05)
+
+`about.md` and `process.md` in both languages. The timeline entry for the
+Invalids' Fund loan (26 January 1805) gained two sentences and documents 1
+and 3 as sources; section III of the era essay gained two sentences with
+links to the bond and the certificate, in both languages. The holding pages
+of Oe 1 Bü 14525, Oe 1 Bü 9454 and Nr. 3705 name this holding among their
+related holdings.
 
 ## Quirks worth knowing
 
@@ -83,9 +150,15 @@ middle of 0008), and the mortgage certificate (from the middle of 0008).
   "gez.", seals "L. S.".
 - The file is of 1820 to 1827, the papers copied into it of 1805;
   `date_span` gives 1805, the years of what was photographed.
-- This is the "Invalids' Fund loan of 1805" named in section III of the era
-  essay, and the loan of 250,000 thalers on Zagórów is also in Oe 1 Bü 14525.
+- The pages carry no leaf numbers. The last page ends with the first line of
+  a further mortgage certificate, which was not photographed.
+- Trąbczyn is not among the estates the bond of 250,000 Rthl was registered
+  on: Zagórów, Drzewce, Kopojno, Świątniki, Skokum, Oleśnica, Wrąbczyn,
+  Grądzyń. The certificate names Trąbczyn only for Lichnowski's claim.
 
-## Damage
+## Still to do
 
-None recorded.
+- The English has not been read against the page images.
+- The items in `intake/unresolved.md`; the editor may want to look at
+  "nachstehende" (0004) and the figure in the fee note on 0007.
+- The editor's word on the division into three documents.

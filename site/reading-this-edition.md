@@ -9,7 +9,7 @@ alt_url: /de/ueber-diese-edition/
 
 ## The source
 
-The 467 documents published so far come from fourteen holdings in four archives:
+The 470 documents published so far come from fifteen holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, eighteen years of
   correspondence (318 documents); `Oe 1 Bü 14525` and `Oe 1 Bü 14526`, two volumes of
@@ -17,8 +17,9 @@ The 467 documents published so far come from fourteen holdings in four archives:
   Prince's family entail;
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: three files of
   the Prussian administration of South Prussia (I. HA GR, Rep. 7 C, Nr. 3570, 3705 and
-  3709) and three of the Prussian foreign ministry (III. HA MdA, III. Nr. 12765, 12366 and
-  12367), which follow the estate and the Prince's debts on it to 1832;
+  3709), three of the Prussian foreign ministry (III. HA MdA, III. Nr. 12765, 12366 and
+  12367), which follow the estate and the Prince's debts on it to 1832, and copies of 1805
+  from a file of the state treasury on a loan secured on Zagórów (I. HA Rep. 162, Nr. 295);
 - the **State Archive in Poznań (APP)**: a court record of 1806 (53/71/0/-/57), and copies
   made about 1930 of three papers of 1805 and 1806 on the parcelling of the Zagórów and
   Trąbczyn estates (53/968/0/-/801);
@@ -49,8 +50,8 @@ shown as its own block, labelled with the range of lines it occupies in the arch
 Nothing flows across a page break. You still read a letter as a whole; the pages are
 structure within it, and they are what the scanned images sit beside.
 
-There are **1,546 manuscript pages** across the 467 documents. The correspondence has 870
-of them and the two volumes of deeds 165 and 287; the other eleven holdings have between 3 and
+There are **1,558 manuscript pages** across the 470 documents. The correspondence has 870
+of them and the two volumes of deeds 165 and 287; the other twelve holdings have between 3 and
 50 pages each. The figures given below for line breaks, catchwords and images are the
 correspondence's, which is where those problems were densest.
 
@@ -234,7 +235,7 @@ goes wrong, and both copies are presented unaltered.
 
 ## English translations
 
-Every document with text now has an English translation: 462 of the 467. The other five are
+Every document with text now has an English translation: 465 of the 470. The other five are
 numbers in the correspondence under which no text survives. Each translation appears beneath
 the original with its status shown, and the French and Polish documents were translated from
 their own language. No translation is presented as authoritative until it has been checked by
