@@ -279,6 +279,13 @@ Where the rest is:
   origin main`. In the cloud, work is on the session's branch and `main` is
   fast-forwarded to it. Either way only at the editor's word, and `TODO.md`,
   `CLAUDE.md` and the changelog say "published" in the commit that is pushed.
+- **A run that fails with "The job was not acquired by Runner"** after
+  waiting fifteen minutes is GitHub's fault, not the project's (seen three
+  times on 2026-10-05, while https://www.githubstatus.com showed Actions as
+  degraded). The repository is pushed all the same and the live site keeps
+  its last good version. Start only the failed step again with `gh run rerun
+  <id> --failed`; if GitHub is still degraded, leave it, since the next push
+  rebuilds everything.
 - The "Build and deploy" run can take ten minutes. Watch it in the
   background (`gh run watch <id> --exit-status`) and then fetch one page of
   each kind from the live site: a document is `/documents/<slug>/<n>/`, a
