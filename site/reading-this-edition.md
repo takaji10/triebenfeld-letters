@@ -9,7 +9,7 @@ alt_url: /de/ueber-diese-edition/
 
 ## The source
 
-The 464 documents published so far come from thirteen holdings in four archives:
+The 465 documents published so far come from fourteen holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, eighteen years of
   correspondence (318 documents); `Oe 1 Bü 14525` and `Oe 1 Bü 14526`, two volumes of
@@ -19,7 +19,9 @@ The 464 documents published so far come from thirteen holdings in four archives:
   the Prussian administration of South Prussia (I. HA GR, Rep. 7 C, Nr. 3570, 3705 and
   3709) and three of the Prussian foreign ministry (III. HA MdA, III. Nr. 12765, 12366 and
   12367), which follow the estate and the Prince's debts on it to 1832;
-- the **State Archive in Poznań (APP)**: a court record of 1806 (53/71/0/-/57);
+- the **State Archive in Poznań (APP)**: a court record of 1806 (53/71/0/-/57), and copies
+  made about 1930 of three papers of 1805 and 1806 on the parcelling of the Zagórów and
+  Trąbczyn estates (53/968/0/-/801);
 - the **Central Archives of Historical Records (AGAD)** in Warsaw: two files of the
   Governing Commission of 1807 (1/174/0/2/73 and 1/174/0/1/6), which returned the
   confiscated estates to the Prusimski heiress.
@@ -47,8 +49,8 @@ shown as its own block, labelled with the range of lines it occupies in the arch
 Nothing flows across a page break. You still read a letter as a whole; the pages are
 structure within it, and they are what the scanned images sit beside.
 
-There are **1,529 manuscript pages** across the 464 documents. The correspondence has 870
-of them and the two volumes of deeds 165 and 287; the other ten holdings have between 3 and
+There are **1,546 manuscript pages** across the 465 documents. The correspondence has 870
+of them and the two volumes of deeds 165 and 287; the other eleven holdings have between 3 and
 50 pages each. The figures given below for line breaks, catchwords and images are the
 correspondence's, which is where those problems were densest.
 
@@ -232,7 +234,8 @@ goes wrong, and both copies are presented unaltered.
 
 ## English translations
 
-Every document with text now has an English translation: 459 of the 464. The other five are
+All but one of the documents with text have an English translation: 459 of the 465. The
+copies from Poznań added in October 2026 are still to be translated, and five are
 numbers in the correspondence under which no text survives. Each translation appears beneath
 the original with its status shown, and the French and Polish documents were translated from
 their own language. No translation is presented as authoritative until it has been checked by

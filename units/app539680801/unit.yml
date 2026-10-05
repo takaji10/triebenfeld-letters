@@ -1,0 +1,127 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680801
+ref: 53/968/0/-/801
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Copies made about 1930 by Albert Breyer, a historian of the German
+  settlements in central Poland, of three papers of 1805 and 1806 on the
+  breaking up of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen's estates
+  of Zagórów and Trąbczyn: his power of attorney for Peter Friedrich von
+  Triebenfeld, the consent of the Prussian chamber at Kalisz to the
+  parcelling, and the contract by which eighteen settlers took a hundred
+  Hufen of the Drzewce forest in hereditary lease.
+title_de: >-
+  Abschriften, die Albert Breyer, ein Erforscher der deutschen Siedlungen in
+  Mittelpolen, um 1930 von drei Schriftstücken der Jahre 1805 und 1806 über
+  die Aufteilung der Güter Zagórów und Trąbczyn des Fürsten Friedrich Ludwig
+  zu Hohenlohe-Ingelfingen anfertigte: dessen Vollmacht für Peter Friedrich
+  von Triebenfeld, die Genehmigung der preußischen Kammer in Kalisch zur
+  Parzellierung und der Vertrag, mit dem achtzehn Siedler hundert Hufen des
+  Waldes von Drzewce in Erbpacht nahmen.
+# The archivist's title on the cover, in square brackets there. Kept for
+# reference; nothing displays it.
+archive_title: >-
+  Odpisy dokumentów w sprawie parcelacji majątków Zagórowo, Wittow i Trąpczyn
+  z lat 1805-1806
+# The papers copied are dated 19 February 1805 to 21 March 1806. The copy
+# itself the archive dates "[1930?]".
+date_span: 1805-1806
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. Section III of the
+# era essay (docs/HOHENLOHE_ERA_PLAN.md).
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Seventeen images from the archive, Image00035.jpg to Image00051.jpg: the
+# cover and sixteen single pages, numbered 1 to 16 in red pencil. They need no
+# cropping; intake/build_pages.py --copy copied each unchanged into
+# raw_dir/processed/ as <capture>_a.jpg (0035_a the cover, 0036_a page 1,
+# 0051_a page 16), as for APP 53/71/0/-/57.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Odpis dokumentów w sprawie parcelacji majątków Zagórowo, Witów i Trąbczyn z lat 1805-1806 (53.968.0.-.801)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_968_0_801
+
+# One file per page, named by page id (0036_a.txt). Made from the editor's
+# single Markdown transcription by intake/build_pages.py, which records where
+# the text was cut.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Sixteen pages in one modern hand, from the papers of Albert Breyer
+  (1889-1939), a teacher and historian of the German settlements in central
+  Poland; the archive dates them about 1930. They are his copies of three
+  papers of 1805 and 1806 that belong together, and they count here as one
+  document. The first is a copy of the general power of attorney that Prince
+  Friedrich Ludwig of Hohenlohe-Ingelfingen gave the War and Forest
+  Councillor Peter Friedrich August von Triebenfeld at the Guhrwitz justice
+  office near Breslau on 19 February 1805, for all business of his estates of
+  Zagórów, Witów and Trąbczyn in the Kalisz department of South Prussia,
+  whether parcelling, sale, lease or mortgage; the Hohenlohe patrimonial
+  court on Trąbczyn certified the copy at Mariantów on 21 March 1806. The
+  second is the consent of the South Prussian War and Domains Chamber, given
+  in the King's name at Kalisz on 28 January 1806 on cabinet orders of 22
+  October and 7 December 1805: the Prince may parcel out the manor farms of
+  Drzewce, Kopojno, Świątniki, Święcia and Broniki in the lordship of Zagórów
+  and of Nowa Wieś, Przybysław, Stara Huta and part of Trąbczyn in the
+  lordship of Trąbczyn, let Oleśnica and Szetlewek in hereditary lease, and
+  turn the services of all his subjects into a fixed money rent, on four
+  conditions; he keeps back 781 Morgen at Trąbczyn and Mariantów and 4947
+  Morgen of forest. The third is the hereditary-lease contract by which the
+  Prince, through Triebenfeld, lets a hundred Magdeburg Hufen of the forest
+  of his estate of Drzewce to eighteen named settlers for ever, in nineteen
+  paragraphs: no entry money, four rent-free years to clear the land, then
+  30 Reichsthaler a Hufe each year, 3000 in all, half of it redeemable. The
+  copy begins in the middle of the list of the parties, so the contract's
+  opening and the day it was recorded are missing; the court engrossed it at
+  Mariantów on 21 March 1806. Eleven of the eighteen signed with three
+  crosses.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A twentieth-century copy of court and chancery papers of 1805 and 1806, not
+  letters: formulaic legal German with Latin tags that belong to the register
+  and are kept (Copia, L. S., testante Protocollo de hodierno, in fidem
+  publicam, Subscriptis, titulum possessionis, Laudemium, Dominium, a. u. s.
+  for actum ut supra, et Consorten). The contract is numbered in paragraphs
+  (§ I to § XIX); keep the numbering. The copy opens in the middle of the
+  contract's list of parties ("Gute Olesnica. 17. Johann Luckow ..."): the
+  beginning is missing, not garbled. The copyist's spellings of places are
+  his own and are one place each: Zagurowo is Zagórów, Trompczyn, Trąpczyn
+  and Trąbczyn are Trąbczyn, Wittow is Witów, Marianten and Mariantów are
+  Mariantów, Drzewiec is Drzewce, Lond is the abbey of Ląd, Szedlewek is
+  Szetlewek, Kalisch is Kalisz. "□ Ruten" is square rods (the page has the square sign for "Quadrat"). A
+  Hufe Magdeburgisch is a measure of land of thirty Morgen; "rth." is the
+  Reichsthaler. "Regierung" is the provincial court of justice at Kalisz,
+  "Kammer" the War and Domains Chamber, the provincial administration.
+  "liebden" in the consent is the King's form of address for a prince ("Seiner
+  Liebden"). In the list of signatures "xxx" stands for the three crosses of
+  a party who could not write; "heißt" (is called) introduces the name the
+  clerk wrote beside the crosses, and a dash repeats it. "(—)" before a name
+  marks a signature in the copy. A word followed by [?] is one the
+  transcriber was unsure of.

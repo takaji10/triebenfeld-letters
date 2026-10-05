@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 268
+  docs: 269
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -36,7 +36,7 @@
   initial_en: "C"
   sort_de: "courant"
   initial_de: "C"
-  docs: 59
+  docs: 60
 - id: "groschen"
   kind: "money"
   lang: "de"
@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 85
+  docs: 86
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 35
+  docs: 36
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -169,7 +169,7 @@
   initial_en: "H"
   sort_de: "hufe"
   initial_de: "H"
-  docs: 39
+  docs: 40
 - id: "ruthe"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 37
+  docs: 38
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -283,7 +283,7 @@
   initial_en: "H"
   sort_de: "erbpacht"
   initial_de: "E"
-  docs: 38
+  docs: 39
 - id: "canon"
   kind: "land"
   lang: "de_la"
@@ -302,7 +302,7 @@
   initial_en: "C"
   sort_de: "canon"
   initial_de: "C"
-  docs: 37
+  docs: 38
 - id: "erbzins"
   kind: "land"
   lang: "de"
@@ -321,7 +321,7 @@
   initial_en: "Q"
   sort_de: "erbzins"
   initial_de: "E"
-  docs: 23
+  docs: 24
 - id: "laudemium"
   kind: "land"
   lang: "de_la"
@@ -340,7 +340,7 @@
   initial_en: "L"
   sort_de: "laudemium"
   initial_de: "L"
-  docs: 23
+  docs: 24
 - id: "propination"
   kind: "land"
   lang: "de_la"
@@ -397,7 +397,7 @@
   initial_en: "D"
   sort_de: "dominium"
   initial_de: "D"
-  docs: 27
+  docs: 28
 - id: "herrschaft"
   kind: "land"
   lang: "de"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 34
+  docs: 35
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -454,7 +454,7 @@
   initial_en: "D"
   sort_de: "dismembration"
   initial_de: "D"
-  docs: 43
+  docs: 44
 - id: "haulaender"
   kind: "land"
   lang: "de"
@@ -492,7 +492,7 @@
   initial_en: "V"
   sort_de: "schulze"
   initial_de: "S"
-  docs: 7
+  docs: 8
 - id: "donation"
   kind: "land"
   lang: "de_la"
@@ -587,7 +587,7 @@
   initial_en: "E"
   sort_de: "einstandsgeld"
   initial_de: "E"
-  docs: 24
+  docs: 25
 - id: "lehn"
   kind: "land"
   lang: "de"
@@ -663,7 +663,7 @@
   initial_en: "Q"
   sort_de: "quantum, abstandsquantum"
   initial_de: "Q"
-  docs: 14
+  docs: 15
 - id: "inventarium"
   kind: "land"
   lang: "la"
@@ -701,7 +701,7 @@
   initial_en: "E"
   sort_de: "einsassen"
   initial_de: "E"
-  docs: 12
+  docs: 13
 - id: "rata"
   kind: "money"
   lang: "la"
@@ -815,7 +815,7 @@
   initial_en: "P"
   sort_de: "vollmacht"
   initial_de: "V"
-  docs: 60
+  docs: 61
 - id: "bevollmaechtigter"
   kind: "law"
   lang: "de"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 55
+  docs: 56
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 76
+  docs: 77
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -891,7 +891,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 73
+  docs: 74
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -910,7 +910,7 @@
   initial_en: "C"
   sort_de: "kriegsrath"
   initial_de: "K"
-  docs: 56
+  docs: 57
 - id: "hofrath"
   kind: "title"
   lang: "de"
@@ -948,7 +948,7 @@
   initial_en: "P"
   sort_de: "patrimonialgericht"
   initial_de: "P"
-  docs: 12
+  docs: 13
 - id: "justitiarius"
   kind: "law"
   lang: "de_la"
@@ -967,7 +967,7 @@
   initial_en: "J"
   sort_de: "justitiarius"
   initial_de: "J"
-  docs: 17
+  docs: 18
 - id: "justizbuergermeister"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "O"
   sort_de: "ausfertigung"
   initial_de: "A"
-  docs: 22
+  docs: 23
 - id: "vidimirt"
   kind: "law"
   lang: "de_la"
@@ -1328,7 +1328,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 94
+  docs: 95
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1423,7 +1423,7 @@
   initial_en: "C"
   sort_de: "cabinets-ordre"
   initial_de: "C"
-  docs: 23
+  docs: 24
 - id: "landrath"
   kind: "law"
   lang: "de"
@@ -1556,7 +1556,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 31
+  docs: 32
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 349
+  docs: 350
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 348
+  docs: 349
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1784,7 +1784,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 61
+  docs: 62
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -1841,7 +1841,7 @@
   initial_en: "L"
   sort_de: "l. s. (locus sigilli)"
   initial_de: "L"
-  docs: 20
+  docs: 21
 - id: "actum"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "I"
   sort_de: "in fidem"
   initial_de: "I"
-  docs: 18
+  docs: 19
 - id: "de-dato"
   kind: "phrase"
   lang: "la"

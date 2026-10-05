@@ -1,0 +1,54 @@
+# Editorial rulings for 53/968/0/-/801 (APP).
+#
+# One document: the three pieces are one deed package, the lease contract with
+# the power of attorney and the consent it rests on, as in APP 53/71/0/-/57
+# and the packages of Oe 1 Bü 14526 (editor's rule of 2026-09-30: a court file
+# or deed package is one document). The cover (0035) is front matter. What the
+# pieces are, and why, is in notes.md. Established 2026-10-05.
+
+places:
+  # The court that engrossed the contract and certified the copy of the power
+  # of attorney sat at Mariantów ("Marianten", "Mariantów").
+  overrides:
+    "1": Marianton
+
+dates:
+  # [year, month, day, precision]; read off the document. The engrossment of
+  # the contract is dated "Mariantów d. 21 Mäerz 1806", and the court's
+  # certificate under the power of attorney "Marianten den 21. Maerz 1806".
+  # The contract's own opening, with the day it was recorded, is not among
+  # the pages. The enclosures are older: the power of attorney of 19 February
+  # 1805, the consent of 28 January 1806.
+  read:
+    "1": [1806, 3, 21, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": contract
+
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml: the
+  # hundred Hufen are forest of Drzewce, in the lordship of Zagórów; the
+  # power of attorney and the consent cover Zagórów and Trąbczyn alike.
+  estates:
+    "1": [drzewce, zagorowo, trabczyn]
+
+damage:
+  letters: []
+
+rough:
+  letters: []
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0036_a", "0037_a", "0038_a", "0039_a", "0040_a", "0041_a",
+                 "0042_a", "0043_a", "0044_a", "0045_a", "0046_a", "0047_a",
+                 "0048_a", "0049_a", "0050_a", "0051_a"]

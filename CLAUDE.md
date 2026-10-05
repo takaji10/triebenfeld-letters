@@ -134,8 +134,33 @@ so check them.
   changelog. `match_scans.py` needs the raw scans and does not run here; a
   change to a document's pages means correcting `page_scan_map.csv` by hand
   (Nr. 12367's notes, "Mardi put back").
-- Every holding is now translated (459 documents with English; the five of
-  Oe 1 Bü 9454 without text excepted).
+- Every holding but the newest is translated (459 documents with English;
+  the five of Oe 1 Bü 9454 without text excepted, and APP 53/968/0/-/801
+  still to do).
+- **APP 53/968/0/-/801** (slug `app539680801`, added and published
+  2026-10-05): one document on sixteen pages, copies made about 1930 (papers
+  of Albert Breyer) of the Prince's power of attorney for Triebenfeld
+  (1805), the chamber's consent to the parcelling of Zagórów and Trąbczyn
+  (28 January 1806) and the lease of 100 Hufen of the Drzewce forest to
+  eighteen settlers (engrossed 21 March 1806). The editor's transcription
+  cut to pages, 84 passages corrected against the scans, summarised in both
+  languages, holding page, two timeline entries; status `transcribed`. Read
+  `units/app539680801/notes.md` first. **Next: its translation** (in
+  session, as above) and the claim check of the summary. Still open: one
+  document or three, "Dr." or "der" Heilmann, whether "Heinrichs" is
+  Honrichs (`intake/unresolved.md`, `docs/TODO.md` section 3).
+- **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, scaffolded
+  2026-10-05), "Capital on the Zagorow estates": the cover and eleven pages
+  of copies of 1805 (Triebenfeld's loan of 50,000 thalers from the Invalids'
+  Fund, secured on Zagórów). The editor photographed each page twice, top
+  and bottom; `intake/build_pages.py --crop` joins each pair into one page
+  image in `raw_dir/processed/` (numbers in `intake/stitch.json`, found by
+  `intake/find_stitch.py`, which needs OpenCV). Status `draft`, corpus
+  empty, pages not staged. **Next: the editor's transcription**, one file
+  per page image; then import as for the other ministry files. Read
+  `units/iharep162nr295/notes.md` first. `title`, `description` and
+  `translation_note` were written from the images and must be checked
+  against the text.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

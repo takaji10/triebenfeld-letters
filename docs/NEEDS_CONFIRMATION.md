@@ -92,6 +92,26 @@ read, translate and summarise.
   - **two undated notes** of Baron Mohrenheim (documents 2 and 3) are left
     without a date; the first is probably of 1829.
 
+- **APP 53/968/0/-/801** is in (2026-10-05): one document on sixteen pages,
+  copies made about 1930 (papers of Albert Breyer) of the Prince's power of
+  attorney for Triebenfeld of 1805, the chamber's consent of 28 January 1806
+  to the parcelling of Zagórów and Trąbczyn, and the hereditary lease of 100
+  Hufen of the Drzewce forest to eighteen settlers, engrossed on 21 March
+  1806. Corrected and summarised in both languages. Still open:
+  - **translation**, and the **claim check** of its summary (neither done);
+  - **one document or three**: counted as one deed package, as APP
+    53/71/0/-/57 was. The editor to say if the consent should stand alone;
+  - **when the contract was made**: its free years run from "Christmas of
+    this year" to Christmas 1808, four years, which points to 1804, though it
+    cites the power of attorney of February 1805. It is dated by its
+    engrossment, 21 March 1806;
+  - **"Heinrichs, Commissionsrath und Oeconomie-Commissarius"**, who attests
+    the signatures: whether he is Martin Honrichs is not settled, and he is
+    not in the index.
+
+- **I. HA Rep. 162, Nr. 295** is scaffolded (2026-10-05): one image per page
+  made from the editor's photographs. It waits for the transcription.
+
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6** are in (2026-10-04): six documents
   of July 1807, the petitions of Michalina Dąbska and the Governing
   Commission's resolution returning her father's estates, translated and
@@ -153,6 +173,10 @@ written until there is a witness or a better scan.
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6**: words left as written, in each
   unit's `intake/unresolved.md`. The chief one is "upoznieniem" in the
   closing formula of the petition of 23 July 1807.
+- **APP 53/968/0/-/801**: words left as written and text not transcribed, in
+  `units/app539680801/intake/unresolved.md`. The chief one is "Dr." before
+  the lessee Johann Wendel Heilmann, where the page may have "der"; the note
+  of the court's fees on the last page is not transcribed.
 
 ## Identifications
 

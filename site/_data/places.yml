@@ -129,12 +129,12 @@
   letters: [{id: "198", uid: "oe1bu9454-198", url: "/documents/oe1bu9454/198/"}]
 - name: "Mariantów (Marianton)"
   slug: "mariantow-marianton"
-  count: 1
+  count: 2
   lat: 52.13028
   lon: 17.96694
-  docs: 1
+  docs: 2
   span: "1806"
-  letters: [{id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/"}]
+  letters: [{id: "1", uid: "app539680801-1", url: "/documents/app539680801/1/"}, {id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/"}]
 - name: "Neustadt"
   slug: "neustadt"
   count: 1

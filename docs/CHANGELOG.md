@@ -1573,6 +1573,31 @@ lose his estates. The era page writes Konotop, not Kontop.
   table), nine undated documents, that every published document is in the Hohenlohe era, how
   écus and Polish florins are rendered, and that all 459 translations are drafts.
 
+- **APP 53/968/0/-/801 added** (2026-10-05), the second holding from the State Archive in
+  Poznań: sixteen pages from the papers of Albert Breyer, copied about 1930, of three papers on
+  the parcelling of the Zagórów and Trąbczyn estates. One document, dated 21 March 1806: the
+  Prince's general power of attorney for Triebenfeld of 19 February 1805, the consent of the War
+  and Domains Chamber at Kalisz of 28 January 1806, and the hereditary lease of 100 Hufen of the
+  Drzewce forest to eighteen settlers, whose opening is missing. The seventeen images were
+  staged uncropped; the editor's transcription was cut to the pages (page 16 had no mark) and
+  the cover's text added from the image. Corrected against the scans: 84 passages, with the
+  copies of the power of attorney in APP 53/71/0/-/57 and of the consent in Oe 1 Bü 14526
+  (document 8) as second witnesses. A skipped line and a half of the consent was restored;
+  Michael Just's share is 5 Hufen, not 10; the lessee Siemert or Liemert is Liewert; "Petenck"
+  is Schenck; the three crosses of the eleven lessees who could not write are given as "xxx".
+  Summarised in German and English; holding page in both languages; two timeline entries (28
+  January and 21 March 1806) and a third source for the entry of 19 February 1805. Five place
+  patterns widened for the copyist's forms (Trompczyn, Marianten, Szedlewek, Święcia and Święca,
+  Nowawieś); the last also matches "Nowawieś" in III. HA MdA, III. Nr. 12367, document 7. The
+  edition has fourteen holdings and 465 documents. Not yet translated; the summary has not had
+  the claim check. See `units/app539680801/notes.md`.
+
+- **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
+  eleven pages twice, top and bottom. The two photographs of each page were joined into one
+  page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so
+  that no line stands twice. Twelve page images wait for the editor's transcription; the unit
+  is `draft` and not built.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -1,0 +1,2 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,10,95,97,-,anzu,legen,anzulegen,join,review,crosses a page break - check by hand,True,0,1975662,0,2246,1,10039397,"et auf ihrem Grunde einen Ziegelofen anzu- || legen, und sich die benöthigten Ziegel und"

@@ -345,7 +345,7 @@
     betrifft, für ihn zu handeln. Jeder Vertrag, den Triebenfeld von nun an unterzeichnet,
     beruht auf dieser Vollmacht, und jedem liegt eine beglaubigte Abschrift davon bei.
   source_de: beglaubigte Abschriften bei den Erbpachtverträgen
-  refs: ["oe1bu14526/6", "app5371057/1"]
+  refs: ["oe1bu14526/6", "app5371057/1", "app539680801/1"]
 
 - date: 1805-04-06
   title: 270 Hufen let to settlers
@@ -419,6 +419,48 @@
     Nach seiner Kapitulation bei Prenzlau wird Hohenlohe-Ingelfingen als französischer
     Kriegsgefangener in seiner eigenen Residenz in Öhringen festgehalten.
   source_de: "Seidel 2018, Zeittafel"
+
+- date: 1806-01-28
+  title: The King consents to the parcelling of Zagórów and Trąbczyn
+  note: >-
+    In the King's name the War and Domains Chamber at Kalisz, the provincial administration,
+    allows Hohenlohe-Ingelfingen to divide the manor farms of both lordships into holdings, to
+    let Oleśnica and Szetlewek in hereditary lease, and to turn the labour services of all his
+    subjects into a fixed money rent. He keeps back part of Trąbczyn, the land at Mariantów and
+    a part of the forest. No peasant holding may lapse, and the subjects are to be compensated
+    for their rights of pasture and wood.
+  kind: estate
+  source: "two copies of the consent: one among the deeds, one made about 1930"
+  title_de: Der König genehmigt die Parzellierung von Zagórów und Trąbczyn
+  note_de: >-
+    Im Namen des Königs erlaubt die Kriegs- und Domänenkammer in Kalisch, die
+    Provinzialverwaltung, Hohenlohe-Ingelfingen, die Vorwerke beider Herrschaften in Stellen
+    aufzuteilen, Oleśnica und Szetlewek zu vererbpachten und die Dienste aller Untertanen in
+    einen festen Geldzins zu verwandeln. Er behält einen Teil von Trąbczyn, die Grundstücke in
+    Mariantów und einen Teil des Forstes zurück. Keine Bauernstelle darf eingehen, und die
+    Untertanen sind für ihre Hütungs- und Holzungsrechte zu entschädigen.
+  source_de: "zwei Abschriften des Konsenses: eine bei den Urkunden, eine um 1930 angefertigte"
+  refs: ["oe1bu14526/8", "app539680801/1"]
+
+- date: 1806-03-21
+  title: A hundred Hufen of the Drzewce forest let to eighteen settlers
+  note: >-
+    The estates' court at Mariantów engrosses a contract by which Triebenfeld lets 100 Hufen of
+    the forest of Drzewce, in the lordship of Zagórów, to eighteen named settlers in hereditary
+    lease. The land is still to be cleared, so they pay nothing on entry and no rent until
+    Christmas 1808; after that 30 Rthl a Hufe a year, 3,000 Rthl in all, half of which they may
+    redeem. Eleven of the eighteen sign with three crosses.
+  kind: estate
+  source: "a copy of the contract made about 1930, in the State Archive in Poznań"
+  title_de: Hundert Hufen des Waldes von Drzewce an achtzehn Siedler ausgetan
+  note_de: >-
+    Das Gericht der Güter in Mariantów fertigt einen Vertrag aus, mit dem Triebenfeld 100 Hufen
+    des Waldes von Drzewce in der Herrschaft Zagórów achtzehn namentlich genannten Siedlern in
+    Erbpacht überlässt. Das Land ist erst zu roden; sie zahlen deshalb kein Einkaufsgeld und bis
+    Weihnachten 1808 keinen Zins, danach 30 Rthl die Hufe jährlich, zusammen 3.000 Rthl, wovon
+    sie die Hälfte ablösen können. Elf der achtzehn unterzeichnen mit drei Kreuzen.
+  source_de: "eine um 1930 angefertigte Abschrift des Vertrags im Staatsarchiv Poznań"
+  refs: ["app539680801/1"]
 
 - date: 1806-03-31
   title: "One lease followed into court: Christoph Erbet"

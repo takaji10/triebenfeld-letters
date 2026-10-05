@@ -244,7 +244,7 @@ some cut short). "In" means already in the edition.
 | Claims of Hohenlohe on Trabczyn | Nr. 12765, in | VII, VIII |
 | Anton Prusimski Venice Residence | to add: I. HA GR, Rep. 7 C, Nr. 1414 (1797) | I, or the boundary era: confirm |
 | Minor Prusimska's claims to father's ... | to add: I. HA GR, Rep. 7 C, Nr. 1413 (1796-1798) | I or II |
-| Capital on the Zagorow estates | to add | III |
+| Capital on the Zagorow estates | I. HA Rep. 162, Nr. 295 (copies of 1805): page images made 2026-10-05, to be transcribed | III |
 | Hohenlohe operations after Jena | to add | V, a sentence at most |
 | Biography of Hohenlohe (IV. HA) | to add | Opening, for his life; not a source for the estates |
 | Klage der Gräfin Michalina von Miac... (two) | both in: III. HA MdA, III. Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832), placed in the Hohenlohe era for now | VIII; the editor to confirm the era (Hohenlohe or restitution) |

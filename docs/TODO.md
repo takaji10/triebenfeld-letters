@@ -39,10 +39,9 @@ next steps.
       and the changelog updated.
 - [x] Found while translating: the dateline "Mardi." of Mohrenheim's note
       (document 3) stood under the next document, so document 4 showed an
-      empty first page. Put right on 2026-10-05. **You:** on your machine,
-      run `relabel_scans.py --unit iiihamdaiiinr12367 --apply` once, so the
-      two original images in `pages/` take the corrected labels (L4_01,
-      L4_02).
+      empty first page. Put right on 2026-10-05; the two original images in
+      `pages/` on your machine were given the corrected labels (L4_01,
+      L4_02) the same day.
 
 The remaining doubtful words are listed in
 `units/iiihamdaiiinr12367/intake/unresolved.md`. None of them blocks anything.
@@ -85,7 +84,58 @@ sentences in the era essay. Details are in
 - [x] Check each statement of the six summaries against its document: 42
       statements, all supported.
 
-## 3. Carried over
+## 3. APP 53/968/0/-/801: copies on the parcelling of Zagórów and Trąbczyn (added and published 2026-10-05)
+
+One document on sixteen pages from the papers of Albert Breyer in the State
+Archive in Poznań, copied about 1930: the Prince's power of attorney for
+Triebenfeld (1805), the chamber's consent to the parcelling (28 January
+1806), and the lease of 100 Hufen of the Drzewce forest to eighteen settlers
+(engrossed 21 March 1806). Your transcription was cut to the pages and 84
+passages corrected against the scans; summary and holding page in both
+languages; two timeline entries. Details are in
+`units/app539680801/notes.md`.
+
+- [x] Published at your word on 2026-10-05.
+- [ ] **You: one document or three.** It is counted as one, like the Erbet
+      lease from the same archive. The consent of 28 January 1806 could
+      stand as a document of its own if you want it found by its date.
+- [ ] **You: "Dr." or "der" before Johann Wendel Heilmann** (page 8). He
+      signs with three crosses. A spot sheet can show the word.
+- [ ] **You: "Heinrichs".** The official who attests the signatures on page
+      16 is written "Heinrichs, Commissionsrath und Oeconomie-Commissarius".
+      Say if you know him to be Honrichs; he is not in the index.
+- [ ] **You: Michael Just's share.** Your transcription gave him 10 Hufen;
+      the page has 5, and only with 5 do the shares come to 100. Changed;
+      say if you read it otherwise.
+- [ ] Translate the document into English and check the summary against it
+      (in session, as the other holdings were).
+
+## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (scaffolded 2026-10-05)
+
+The file the folder list calls "Capital on the Zagorow estates": the cover
+and eleven pages, copies of the papers of January to March 1805 by which
+Triebenfeld borrowed 50,000 thalers from the Invalids' Fund against the
+Prince's bond for 250,000 thalers on Zagórów. Each page was photographed
+twice, top and bottom; the two photographs are now joined into one image per
+page. Details are in `units/iharep162nr295/notes.md`. Nothing of it is in
+the edition yet.
+
+- [x] One image per page, with no line twice: twelve images in the
+      `processed` folder beside the photographs
+      (`I_HA_Rep_162_Nr_295_0001_a.jpg` to `..._0012_a.jpg`).
+- [ ] **You: look at the twelve page images** before transcribing, and say
+      if a cut runs too close to the writing or a join looks wrong.
+- [ ] **You: transcribe them**, one text file per image, named like the
+      image (`I_HA_Rep_162_Nr_295_0002_a.txt`).
+- [ ] Bring the transcription in: stage the page images, divide the pages
+      into documents (probably two: the bond with its acknowledgements, and
+      the mortgage certificate), correct against the images, summarise in
+      both languages, write the holding's page, and add it to section III of
+      the era essay and to the timeline.
+- [ ] Check `title`, `description` and `translation_note` in `unit.yml`
+      against the transcription. They were written from the images.
+
+## 5. Carried over
 
 These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.
@@ -101,5 +151,6 @@ NEEDS_CONFIRMATION.md.
       holdings' were done (paid, about $5 to $10; you deferred it).
 - [ ] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
-- [ ] Seven further files from the Geheimes Staatsarchiv remain to be added
-      to the Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md).
+- [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
+      Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
+      on the Zagorow estates" is section 4 above.

@@ -42,7 +42,7 @@ places:
   trabczyn:
     display: "Trąbczyn"
     kind: village
-    match: 'Tr[ąa][bmp]c?z[yi]n\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
+    match: 'Tr[ąa][bmp]c?z[yi]n\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
     tier: "Book-confirmed"
     variants:
       - "Trąbczin"
@@ -146,7 +146,7 @@ places:
     # the Polish judgment of 1827, each beside Trąbczyn (III. HA MdA, III. Nr.
     # 12366, documents 2 and 6). Matched, not made variants: the English keeps
     # the page's spelling, as it does for Kamienno (2026-10-04).
-    match: 'Sz[ei]tt?lew\w*|Szetlow\w*|Szeltow\w*'
+    match: 'Sz[ei]tt?lew\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
     tier: "Context-inferred"
     variants:
       - "Stetlewek"
@@ -246,7 +246,7 @@ places:
     display: "Mariantów"
     german: "Marianton"
     kind: village
-    match: 'Mariant[oó][nw]\w*'
+    match: 'Mariant[oóe][nw]\w*'
     tier: "Context-inferred"
     variants: ["Marianton"]
 
@@ -838,7 +838,7 @@ places:
     # had already settled that, recording `Swięcier` as its legitimate
     # inflection. Still NOT matched on a stem: Świechocin is a third name in
     # this group and stays its own entity.
-    match: 'Swi[eę]ci[aen]\w*'
+    match: '[SŚ]wi[eę]ci[aen]\w*|Święca'
     tier: ""
     variants: ["Swięcer", "Swięcin", "Swięce"]
     distinct_from: [swiechocin]
@@ -1882,7 +1882,7 @@ places:
   nowawies-trabczyn:
     display: "Nowawies"
     kind: village
-    match: 'Nowawies'
+    match: 'Nowawie[sś]'
     tier: "Text-confirmed"
     variants:
       - "Nowa wies"
