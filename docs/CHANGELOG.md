@@ -1566,6 +1566,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   Polish and that the published papers run on to the dispute over the Prince's debts, until
   1832.
 
+- **Edition guide brought up to date** (editor, 2026-10-05). "About this edition", in both
+  languages, described two HZAN files and 348 documents. It now lists the thirteen holdings in
+  four archives (HZAN, GStA PK, APP, AGAD), gives 464 documents and 1,529 pages, the French and
+  Polish documents, 609 marks of doubt in 233 documents (with the gap mark `[...]` added to the
+  table), nine undated documents, that every published document is in the Hohenlohe era, how
+  écus and Polish florins are rendered, and that all 459 translations are drafts.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

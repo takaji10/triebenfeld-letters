@@ -9,17 +9,31 @@ alt_url: /de/ueber-diese-edition/
 
 ## The source
 
-The documents published so far are held in the **Hohenloher Zentralarchiv Neuenstein
-(HZAN)**, in two files: `Oe 1 Bü 9454`, eighteen years of correspondence, and
-`Oe 1 Bü 14526`, a volume of title deeds. Later eras of the archive will draw on
-repositories in Poznań, Warsaw and Berlin; the holding a document comes from is part of its
-citation and part of its address here.
+The 464 documents published so far come from thirteen holdings in four archives:
 
-The text was transcribed from the original handwriting, which is *Kurrentschrift*, the
-German cursive hand of the period, difficult to read and easy to misread. Some of the
-deeds carry passages in Polish and Latin, and those are source text too, translated rather than treated as corrupt German.
+- the **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, eighteen years of
+  correspondence (318 documents); `Oe 1 Bü 14525` and `Oe 1 Bü 14526`, two volumes of
+  grants, title deeds and leases; and `Oe 1 U 199`, the King's charter of 1805 confirming the
+  Prince's family entail;
+- the **Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: three files of
+  the Prussian administration of South Prussia (I. HA GR, Rep. 7 C, Nr. 3570, 3705 and
+  3709) and three of the Prussian foreign ministry (III. HA MdA, III. Nr. 12765, 12366 and
+  12367), which follow the estate and the Prince's debts on it to 1832;
+- the **State Archive in Poznań (APP)**: a court record of 1806 (53/71/0/-/57);
+- the **Central Archives of Historical Records (AGAD)** in Warsaw: two files of the
+  Governing Commission of 1807 (1/174/0/2/73 and 1/174/0/1/6), which returned the
+  confiscated estates to the Prusimski heiress.
 
-**The transcription was produced by an AI system, not by a human palaeographer.** This
+Each holding has its own page under Sources, saying what it is and how its text was made.
+The holding a document comes from is part of its citation and part of its address here.
+
+Most of the text is German, transcribed from the original handwriting, which is
+*Kurrentschrift*, the German cursive hand of the period, difficult to read and easy to
+misread. Twenty-one documents are in French and nine in Polish, and some of the German
+deeds carry passages in Polish and Latin. All of it is source text, translated from its own
+language rather than treated as corrupt German.
+
+**Most of the transcription was produced by an AI system, not by a human palaeographer.** This
 matters, and the edition does not hide it. Machine transcription of Kurrentschrift makes a
 particular kind of mistake: as well as ordinary letter-shape confusions, it can produce
 text that is plausible German but not what is on the page. Every editorial decision here
@@ -33,8 +47,10 @@ shown as its own block, labelled with the range of lines it occupies in the arch
 Nothing flows across a page break. You still read a letter as a whole; the pages are
 structure within it, and they are what the scanned images sit beside.
 
-There are **1,156 manuscript pages** across the 348 documents: 869 pages in the
-correspondence, 287 in the volume of deeds.
+There are **1,529 manuscript pages** across the 464 documents. The correspondence has 870
+of them and the two volumes of deeds 165 and 287; the other ten holdings have between 3 and
+50 pages each. The figures given below for line breaks, catchwords and images are the
+correspondence's, which is where those problems were densest.
 
 ## Four views of every document
 
@@ -134,29 +150,35 @@ where they are not part of the text.
 | Mark | Meaning |
 |---|---|
 | `¬` | The transcriber's word-continuation mark. Kept in the diplomatic view whether or not it turned out to be genuine, because the mark is itself evidence; the reading view acts on the verified decision. |
-| `[?]` | The transcriber could not read the word at all. |
+| `[?]` | The transcriber could not read the word, or the letters it stands in for. Written straight after a word, it marks that word as doubtful. |
 | `[word?]` | A guess at a word the transcriber found unclear. |
+| `[...]` | A gap: the page is damaged, or the text breaks off. |
 | `(missing)` / `(skipped)` | The archival number exists but no text survives under it. |
 | `ſ` | The long s, as written in the original. |
 
-There are **150** flagged uncertain readings across the corpus: 98 words nobody could read
-at all, and 52 offered as guesses. They stay visible in the text of every document that has
-them rather than being smoothed over. Five damaged passages await checking against the
+There are **609** marks of doubt across the corpus, in 233 documents: 391 `[?]`, 113
+guesses offered as `[word?]` and 105 gaps. They stay visible in the text of every document
+that has them rather than being smoothed over, and they await checking against the
 originals.
 
 ## Eras
 
 The archive is organised into three eras, one per owner of the estate. An era is an
 editorial assignment: a document belongs to the era whose story it is evidence for, and
-that is not the same as its date. Most documents in the Hohenlohe era are dated after the
-Hohenlohes had lost the estate, because the dispute over it ran for another nine years.
+that is not the same as its date. Many documents in the Hohenlohe era are dated after the
+Hohenlohes had lost the estate in 1807, because the dispute over it ran for another nine
+years and the quarrel over the Prince's debts on it until 1832.
+
+So far every published document belongs to the Hohenlohe era. The other two, the boundary
+dispute between Trąbczyn and Łukom before 1788 and the estate's return to the Prusimski
+heirs from 1807, are not yet published.
 
 The dates shown for an era are therefore the dates of the documents assigned to it, not
 the years the owner held the place. Both are given on the era's own page.
 
 ## Dates
 
-Roughly seven in eight documents carry a date in the letter itself. The rest are dated one
+Roughly nine in ten documents carry a date in the document itself. The rest are dated one
 of four ways, and every document says which applies to it:
 
 - **read from the letter**, the dateline as written
@@ -165,7 +187,7 @@ of four ways, and every document says which applies to it:
   reasoning recorded on the document
 - **taken from its duplicate**, where one document survives in two copies
 
-Eight documents remain undated and are collected at the end of chronological order.
+Nine documents remain undated and are collected at the end of chronological order.
 
 Note that an archive's numbering is not necessarily chronological. In the correspondence,
 letters 1 to 74 are a jumbled block spanning 1806 to 1815; 75 to 301 run in order from
@@ -180,6 +202,10 @@ limits exactly, which is what made it possible to resolve the many inconsistent
 abbreviations in the original into a single notation without guesswork. The `d` for Pfennig
 is not an error. It is the historical abbreviation for *denarius*, the same convention
 behind British pre-decimal pence.
+
+The French documents count in *écus*, which in French written by Prussians are thalers;
+the English gives them as Reichsthaler. The Polish documents count in thalers and in Polish
+florins (*złote*), which the English calls Polish florins.
 
 ## Bundled and duplicated documents
 
@@ -206,10 +232,11 @@ goes wrong, and both copies are presented unaltered.
 
 ## English translations
 
-Translations are being added document by document. Where one exists it appears beneath the
-German with its status shown; where none exists yet, the German text is complete and fully
-searchable in the meantime. No translation is presented as authoritative until it has been
-checked by hand. A translation marked **draft** has been through the mechanical checks
+Every document with text now has an English translation: 459 of the 464. The other five are
+numbers in the correspondence under which no text survives. Each translation appears beneath
+the original with its status shown, and the French and Polish documents were translated from
+their own language. No translation is presented as authoritative until it has been checked by
+hand, and so far all 459 are marked **draft**. A translation marked **draft** has been through the mechanical checks
 described here but not yet read against the manuscript; **reviewed** means a person has
 been through every query raised on it.
 

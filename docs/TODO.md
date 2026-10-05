@@ -93,9 +93,10 @@ NEEDS_CONFIRMATION.md.
 - [ ] **You: the era of Nr. 12366** (see section 1).
 - [ ] **You: the three words of the Polish judgment in Nr. 12366** that could
       not be read on the scan.
-- [ ] Bring the edition guide (`site/reading-this-edition.md`, both
-      languages) up to date. It still describes two holdings and 348
-      documents; the edition now has thirteen holdings and 464 documents.
+- [x] Bring the edition guide (`site/reading-this-edition.md`, both
+      languages) up to date: done 2026-10-05 (thirteen holdings in four
+      archives, 464 documents, 1,529 pages, 609 marks of doubt, all
+      translated as drafts). The home page's span is now generated.
 - [ ] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
       holdings' were done (paid, about $5 to $10; you deferred it).
 - [ ] **You: the archives' permission for the scans, and your full name for

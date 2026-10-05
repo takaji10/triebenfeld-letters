@@ -9,18 +9,32 @@ alt_url: /reading-this-edition/
 
 ## Die Quelle
 
-Die bisher veröffentlichten Dokumente liegen im **Hohenloher Zentralarchiv Neuenstein
-(HZAN)**, in zwei Beständen: `Oe 1 Bü 9454`, der Korrespondenz aus achtzehn Jahren, und
-`Oe 1 Bü 14526`, einem Band mit Besitzurkunden. Spätere Epochen des Archivs werden aus
-Archiven in Posen, Warschau und Berlin schöpfen; der Bestand, aus dem ein Dokument stammt,
-gehört zu seiner Zitierweise und hier zu seiner Adresse.
+Die 464 bisher veröffentlichten Dokumente stammen aus dreizehn Beständen in vier Archiven:
 
-Der Text wurde nach den Originalhandschriften transkribiert, geschrieben in
+- dem **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, der Korrespondenz aus
+  achtzehn Jahren (318 Dokumente); `Oe 1 Bü 14525` und `Oe 1 Bü 14526`, zwei Bänden mit
+  Schenkungs- und Besitzurkunden und Pachtverträgen; und `Oe 1 U 199`, der königlichen
+  Bestätigung des fürstlichen Fideikommisses von 1805;
+- dem **Geheimen Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: drei Akten der
+  preußischen Verwaltung Südpreußens (I. HA GR, Rep. 7 C, Nr. 3570, 3705 und 3709) und drei
+  des preußischen Außenministeriums (III. HA MdA, III. Nr. 12765, 12366 und 12367), die dem
+  Gut und den Schulden des Fürsten darauf bis 1832 folgen;
+- dem **Staatsarchiv Posen (APP)**: einem Gerichtsprotokoll von 1806 (53/71/0/-/57);
+- dem **Hauptarchiv Alter Akten (AGAD)** in Warschau: zwei Akten der Regierungskommission
+  von 1807 (1/174/0/2/73 und 1/174/0/1/6), die die konfiszierten Güter der Erbin Prusimska
+  zurückgab.
+
+Jeder Bestand hat unter „Quellen“ eine eigene Seite, die sagt, was er ist und wie sein Text
+entstand. Der Bestand, aus dem ein Dokument stammt, gehört zu seiner Zitierweise und hier zu
+seiner Adresse.
+
+Der größte Teil des Textes ist deutsch, transkribiert nach den Originalhandschriften in
 *Kurrentschrift*, der deutschen Schreibschrift der Zeit, schwer zu lesen und leicht falsch
-zu lesen. Einige Urkunden enthalten Stellen in polnischer und lateinischer Sprache; auch sie
-sind Quellentext und werden übersetzt, nicht als verderbtes Deutsch behandelt.
+zu lesen. Einundzwanzig Dokumente sind französisch und neun polnisch, und einige deutsche
+Urkunden enthalten Stellen in polnischer und lateinischer Sprache. All das ist Quellentext
+und wird aus seiner eigenen Sprache übersetzt, nicht als verderbtes Deutsch behandelt.
 
-**Die Transkription wurde von einem KI-System angefertigt, nicht von einem Paläographen.**
+**Der größte Teil der Transkription wurde von einem KI-System angefertigt, nicht von einem Paläographen.**
 Das ist von Bedeutung, und die Edition verschweigt es nicht. Die maschinelle Transkription
 von Kurrentschrift macht einen eigenen Fehlertyp: neben gewöhnlichen Verwechslungen
 ähnlicher Buchstabenformen kann sie Text hervorbringen, der plausibles Deutsch ist, aber
@@ -36,8 +50,10 @@ im Archivtext einnimmt. Nichts läuft über einen Seitenumbruch hinweg. Ein Brie
 dennoch als Ganzes lesbar; die Seiten sind Gliederung darin, und neben ihnen stehen die
 Digitalisate.
 
-Auf die 348 Dokumente entfallen **1.156 Handschriftenseiten**: 869 Seiten in der
-Korrespondenz, 287 im Urkundenband.
+Auf die 464 Dokumente entfallen **1.529 Handschriftenseiten**. Die Korrespondenz hat 870
+davon, die beiden Urkundenbände 165 und 287; die übrigen zehn Bestände haben jeweils 3 bis
+50 Seiten. Die Zahlen, die unten zu Trennzeichen, Kustoden und Digitalisaten genannt werden,
+sind die der Korrespondenz, in der diese Fragen am dichtesten auftraten.
 
 ## Vier Ansichten jedes Dokuments
 
@@ -147,23 +163,28 @@ sie nicht zum Text gehören.
 | Zeichen | Bedeutung |
 |---|---|
 | `¬` | Das Worttrennungszeichen des Transkribenten. In der diplomatischen Ansicht beibehalten, gleichviel ob es sich als echt erwies, denn das Zeichen ist selbst ein Beleg; die Lesefassung folgt der geprüften Entscheidung. |
-| `[?]` | Der Transkribent konnte das Wort überhaupt nicht lesen. |
+| `[?]` | Der Transkribent konnte das Wort oder die Buchstaben, für die es steht, nicht lesen. Unmittelbar hinter einem Wort bezeichnet es dieses Wort als unsicher. |
 | `[word?]` | Eine Vermutung zu einem Wort, das dem Transkribenten unklar war. |
+| `[...]` | Eine Lücke: Die Seite ist beschädigt, oder der Text bricht ab. |
 | `(missing)` / `(skipped)` | Die Archivnummer besteht, doch unter ihr ist kein Text überliefert. |
 | `ſ` | Das lange s, wie im Original geschrieben. |
 
-Im Korpus sind **150** unsichere Lesarten verzeichnet: 98 Wörter, die niemand entziffern
-konnte, und 52 als Vermutung angebotene. Sie bleiben im Text jedes betroffenen Dokuments
-sichtbar, statt geglättet zu werden. Fünf beschädigte Stellen sind noch an den Originalen
-zu prüfen.
+Im Korpus stehen **609** Zweifelszeichen in 233 Dokumenten: 391 `[?]`, 113 als `[word?]`
+angebotene Vermutungen und 105 Lücken. Sie bleiben im Text jedes betroffenen Dokuments
+sichtbar, statt geglättet zu werden, und sind noch an den Originalen zu prüfen.
 
 ## Epochen
 
 Das Archiv ist in drei Epochen gegliedert, eine für jeden Besitzer des Gutes. Die Zuordnung
 zu einer Epoche ist eine editorische Entscheidung: Ein Dokument gehört zu der Epoche, deren
-Geschichte es belegt, und das ist nicht dasselbe wie sein Datum. Die meisten Dokumente der
-Hohenlohe-Epoche sind datiert, nachdem die Hohenlohe das Gut bereits verloren hatten, denn
-der Streit darum zog sich noch neun Jahre hin.
+Geschichte es belegt, und das ist nicht dasselbe wie sein Datum. Viele Dokumente der
+Hohenlohe-Epoche sind datiert, nachdem die Hohenlohe das Gut 1807 verloren hatten, denn der
+Streit darum zog sich noch neun Jahre hin und der Streit um die Schulden des Fürsten darauf
+bis 1832.
+
+Bisher gehört jedes veröffentlichte Dokument zur Hohenlohe-Epoche. Die beiden anderen, der
+Grenzstreit zwischen Trąbczyn und Łukom vor 1788 und die Rückgabe des Gutes an die Erben
+Prusimski ab 1807, sind noch nicht veröffentlicht.
 
 Die für eine Epoche angegebenen Jahre sind daher die Jahre der ihr zugeordneten Dokumente,
 nicht die Jahre, in denen der Besitzer das Gut innehatte. Beides steht auf der Seite der
@@ -171,7 +192,7 @@ jeweiligen Epoche.
 
 ## Datierung
 
-Etwa sieben von acht Dokumenten tragen ein Datum im Brief selbst. Die übrigen sind auf eine
+Etwa neun von zehn Dokumenten tragen ein Datum im Dokument selbst. Die übrigen sind auf eine
 von vier Weisen datiert, und jedes Dokument nennt die für es zutreffende:
 
 - **aus dem Brief gelesen**, die Datumszeile, wie sie geschrieben steht
@@ -180,7 +201,7 @@ von vier Weisen datiert, und jedes Dokument nennt die für es zutreffende:
   wobei die Begründung beim Dokument verzeichnet ist
 - **der Doppelüberlieferung entnommen**, wo ein Dokument in zwei Abschriften vorliegt
 
-Acht Dokumente bleiben undatiert und stehen am Ende der chronologischen Folge.
+Neun Dokumente bleiben undatiert und stehen am Ende der chronologischen Folge.
 
 Zu beachten ist, dass die Zählung eines Archivs nicht chronologisch sein muss. In der
 Korrespondenz bilden die Briefe 1 bis 74 einen ungeordneten Block über die Jahre 1806 bis
@@ -197,6 +218,10 @@ Grenzen genau ein, und eben das machte es möglich, die vielen uneinheitlichen A
 des Originals ohne Raterei in eine einzige Schreibweise aufzulösen. Das `d` für Pfennig ist
 kein Fehler. Es ist die historische Abkürzung für *denarius*, dieselbe Übung, die hinter
 den britischen Pence vor der Dezimalumstellung steht.
+
+Die französischen Dokumente rechnen in *écus*, was im Französisch preußischer Schreiber
+Taler bedeutet; das Englische gibt sie als Reichsthaler wieder. Die polnischen Dokumente
+rechnen in Talern und in polnischen Gulden (*złote*), im Englischen Polish florins.
 
 ## Zusammengefasste und doppelt überlieferte Dokumente
 
@@ -226,10 +251,12 @@ Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
 
 ## Englische Übersetzungen
 
-Die Übersetzungen werden Dokument für Dokument ergänzt. Wo eine vorliegt, erscheint sie
-unter dem deutschen Text mit ihrem Status; wo noch keine vorliegt, ist der deutsche Text
-unterdessen vollständig und durchsuchbar. Keine Übersetzung gilt als maßgeblich, bevor sie
-von Hand geprüft wurde. Eine als **draft** bezeichnete Übersetzung hat die hier
+Jedes Dokument mit Text hat nun eine englische Übersetzung: 459 der 464. Die übrigen fünf
+sind Nummern der Korrespondenz, unter denen kein Text überliefert ist. Jede Übersetzung
+erscheint unter dem Original mit ihrem Status, und die französischen und polnischen
+Dokumente wurden aus ihrer eigenen Sprache übersetzt. Keine Übersetzung gilt als
+maßgeblich, bevor sie von Hand geprüft wurde, und bisher sind alle 459 als **draft**
+bezeichnet. Eine als **draft** bezeichnete Übersetzung hat die hier
 beschriebenen maschinellen Prüfungen durchlaufen, ist aber noch nicht gegen die Handschrift
 gelesen; **reviewed** heißt, dass eine Person jede dazu erhobene Rückfrage durchgegangen
 ist.
