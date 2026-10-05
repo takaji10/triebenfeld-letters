@@ -90,8 +90,8 @@ read, translate and summarise.
   - **the signature on the letter of 29 September 1830** (scan 0007) is not
     read, so that letter has no sender. Tried again on enlargements on
     2026-10-05 at the editor's word; it is not Mohrenheim's or Fuhrmann's;
-  - **two words of the margin line on scan 0004**, "le [Courier?] de
-    [Londres?]", read on 2026-10-05 and marked doubtful;
+  - **two words of the margin line on scan 0004**, "le [Rev…?] de [P…?]",
+    of which only the beginnings are read (the editor, 2026-10-05);
   - **two undated notes** of Baron Mohrenheim (documents 2 and 3) are left
     without a date; the first is probably of 1829.
   Settled on 2026-10-05: the German translations beside Prince Lubecki's
@@ -123,9 +123,10 @@ read, translate and summarise.
   and Schrötter's reply. Scans cropped, the editor's transcription
   corrected, summarised, translated and claim-checked in session. The
   editor confirmed Raumer, Goldbeck and Haugwitz on 2026-10-05 and ruled
-  that the papers are filed under no estate. Still open: the first
-  signature under the draft, given as "[Alvensleben?]", which is on a spot
-  sheet for the editor; `units/ihagrrep7cnr1414/intake/unresolved.md`.
+  that the papers are filed under no estate. The first signature under
+  the draft stands as "A[lvensleben]": only the initial is read, the name
+  is supplied from his office, and the editor cannot verify it on the
+  scan. `units/ihagrrep7cnr1414/intake/unresolved.md`.
 
 - **I. HA Rep. 162, Nr. 295** is in (2026-10-05): three documents on
   thirteen pages, copies of 1805 from a file of the state treasury:

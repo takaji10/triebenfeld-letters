@@ -1,7 +1,7 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: |-
     Berlin, 11 January 1797.
 
@@ -15,7 +15,7 @@ pages:
 
     The same to His Excellency the Grand Chancellor von Goldbeck.
 
-    [uncertain: Alvensleben]
+    A[lvensleben]
 
     Haugwitz
 
@@ -29,7 +29,7 @@ pages:
   - {de: Republik Pohlen, en: Republic of Poland, kind: place}
   - {de: Anton Prusimski, en: Anton Prusimski, kind: person}
   - {de: "H. G[roß]K[anzlers] v. Goldbeck", en: Grand Chancellor von Goldbeck, kind: person}
-  - {de: "[Alvensleben?]", en: "[uncertain: Alvensleben]", kind: person}
+  - {de: "A[lvensleben]", en: "A[lvensleben]", kind: person}
   - {de: Haugwitz, en: Haugwitz, kind: person}
   numbers: ['11', '1797', '11', '1797', '12']
   flagged:

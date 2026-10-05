@@ -17,13 +17,17 @@ next steps.
       could try (2026-10-05). Tried on enlargements and not read. It is not
       Mohrenheim's and not Fuhrmann's as he signs in 1831 and 1832. The
       letter stays without a sender; what can be seen of the signature is in
-      the holding's `intake/unresolved.md`.
+      the holding's `intake/unresolved.md`. You see "eub" after an unsure
+      first letter and asked whether it is Lubecki's: the letter speaks of
+      the minister of finance, who is Lubecki, as another person, and the
+      file has no signature of his to compare (0008 is a copy).
 - [x] The end of the note on scan 0004, read at your word (2026-10-05). The
       last sentence is "J'ai ici un tems affreux qui glace parfois mes
       passions champêtres" (dreadful weather, which at times chills my rustic
       passions). The margin line is in the text and the English, set apart
-      as written sideways: "Pourriez Vous m'accorder pour 2 j. le [Courier?]
-      de [Londres?] ?" The two words in brackets are doubtful.
+      as written sideways: "Pourriez Vous m'accorder pour 2 j. le [Rev…?] de
+      [P…?] ?" The two last words are left uncertain, as you said: only
+      what you saw of them ("rev... de P...") is given.
 - [ ] **You: the era**, together with Nr. 12366. Both are placed in the
       Hohenlohe-Ingelfingen years for now; the alternative is the restitution
       era (1807 onward), which is still empty.
@@ -157,9 +161,11 @@ essay. Details are in `units/ihagrrep7cnr1414/notes.md`.
       verified here, committed locally, not pushed.
 - [ ] **You: look at the four page images**, and say if a cut is too close.
 - [x] Raumer, Goldbeck and Haugwitz stand (you, 2026-10-05).
-- [ ] **You: the first signature under the draft**, which I gave as
-      "[Alvensleben?]" where you read "Au[?]". You asked to see it: it is
-      on a spot sheet, one question.
+- [x] The first signature under the draft, where you read "Au[?]": you
+      cannot verify the name and left it to the reasoning (2026-10-05). It
+      now stands as "A[lvensleben]": the initial is what is read, the name
+      is supplied because Alvensleben was the one minister of that
+      department in 1797 whose name begins with A.
 - [x] The Venice papers are not filed under any estate (you, 2026-10-05).
 
 ## 6. Carried over

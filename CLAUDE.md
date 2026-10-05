@@ -180,9 +180,9 @@ so check them.
   untagged. Read `units/ihagrrep7cnr1414/notes.md` first. Built and verified
   locally, **committed but not pushed: publish when the editor says**. The
   editor confirmed Raumer, Goldbeck and Haugwitz and ruled that the papers
-  are filed under no estate (2026-10-05). Open: "[Alvensleben?]", on a
-  spot sheet (`intake/open_queries.csv`; `queries.py --unit
-  ihagrrep7cnr1414 --read` prints the answer).
+  are filed under no estate (2026-10-05). The first signature under the
+  draft stands as "A[lvensleben]" (initial read, name supplied from his
+  office; the editor cannot verify it). Nothing is open but publishing.
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.

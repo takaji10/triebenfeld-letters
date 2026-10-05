@@ -26,4 +26,4 @@ The documents were translated into English in a working session under the same r
 
 ### Still to do
 
-The English has not yet been read against the scans. The first signature under the draft is not securely read. Two short marks at the head and foot of the draft are not transcribed.
+The English has not yet been read against the scans. Of the first signature under the draft only the initial A is read; the rest of the name, Alvensleben, is supplied in square brackets, because he was the one minister of the department in 1797 whose name begins with that letter. Two short marks at the head and foot of the draft are not transcribed.

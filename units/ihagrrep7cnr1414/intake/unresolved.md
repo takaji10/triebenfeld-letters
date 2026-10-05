@@ -4,12 +4,13 @@
 
 ## Signatures and names
 
-- **0002_a, the first signature under the draft: "[Alvensleben?]".** A tall
+- **0002_a, the first signature under the draft: "A[lvensleben]".** A tall
   looped A and seven or eight minims, no clear ending. The editor read
   "Au[?]". Alvensleben was one of the three ministers of the department in
   1797 and signed beside Haugwitz; Finckenstein, the third, does not begin
-  with this letter. Given with a mark of doubt and not indexed. On a spot
-  sheet for the editor since 2026-10-05 (`open_queries.csv`).
+  with this letter. First given as "[Alvensleben?]". The editor cannot
+  verify it on the scan (2026-10-05); it now stands as the initial that is
+  read with the name supplied, and the reason is in `notes.md`.
 - **Raumer** (0003_a2, 0004_a2, 0005_a2). The reading rests on "Hr von
   Raumer" in Latin script on 0004; in that word the strokes between "Ra" and
   "er" could also be counted as "mm" (the editor's "Rammer"). Raumer is a

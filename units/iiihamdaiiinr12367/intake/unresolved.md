@@ -12,13 +12,15 @@ scan. The same file is copied to `review/iiihamdaiiinr12367/`.
   my rustic passions). Settled; `intake/second_reading.py` gives the
   letters it rests on.
 - The line written sideways in the left margin is now transcribed:
-  "Pourriez Vous m'accorder pour 2 j. le [Courier?] de [Londres?] ?" (could
-  you let me have for two days the Courier of London?). The first half is
-  plain. The two marked words are doubtful: the scan is coarse there (the
-  page is 1,787 pixels wide). The first is seven letters beginning "Cou";
-  the second has a tall first letter, two short ones, a tall one and "es",
-  and could also be read "Parker" or "Parkes". "The Courier" was a London
-  newspaper, which would fit a loan for two days; nothing else proves it.
+  "Pourriez Vous m'accorder pour 2 j. le [Rev…?] de [P…?] ?" (could you let
+  me have for two days the Rev… of P…?). The first half is plain. Of the
+  two words after "le" only the beginnings are read; the scan is coarse
+  there (the page is 1,787 pixels wide). I first gave them as "[Courier?]"
+  and "[Londres?]"; the editor, on the scan, sees "rev... de P..." and said
+  to leave them uncertain (2026-10-05), so the guesses are withdrawn. A
+  thought for whoever looks next, not asserted anywhere: the "Revue de
+  Paris" began to appear in 1829, the year the "Mémoires du cardinal
+  Dubois" came out; but the article on the page looks like "le", not "la".
 - "Dubois": what Schmidt had lent him is not said. The writer calls its
   contents "scélératesses" and asks for "la continuation", so it is a work in
   parts or volumes.
@@ -34,6 +36,14 @@ scan. The same file is copied to `review/iiihamdaiiinr12367/`.
   the full name inside an oval). The writer is an intermediary between the
   consul and the minister of finance and speaks for "l'administration
   Polonaise". No name is put forward: a guess would enter the index.
+  The editor (2026-10-05) is unsure of the first letter and sees "eub"
+  after it, which agrees with the shapes above if the tall letter is a b.
+  They asked whether it could be Lubecki, who signs 0008. It cannot be
+  shown, and the letter speaks against it: the writer says he laid the
+  consul's note before "the Prince Minister of Finance" and reminded "the
+  said Prince Minister" of Weigel's claim, and that minister is Lubecki.
+  Nor is there a signature of Lubecki's in the file to compare: 0008 and
+  0010 are copies, "sig. X. X. Lubecki" in the copyist's hand.
 - Above the text stands "ad. Nro. 102. DKPol." or "DKPet.", the writer's
   own registry mark; the transcription has "Ad. Nro. 102". The letters are
   not explained, so they are not added.

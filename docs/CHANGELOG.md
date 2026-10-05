@@ -1683,7 +1683,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   (`units/ihagrrep7cnr3709/intake/claim_check.yml`): 67 statements, 65 supported, two
   weakened in both languages (document 5: the office's date of 2 December 1800 is not said to
   be the day of receipt; document 15: the note that refers the petition to Minister von der
-  Reck does not name the Cabinet). The edition has 611 marks of doubt.
+  Reck does not name the Cabinet). Later the same day the editor looked at three of these
+  readings. The two last words of the margin line, first given as "[Courier?]" and
+  "[Londres?]", are left as "[Rev…?]" and "[P…?]", what the editor sees of them, and the
+  guess that had gone into the summary was cut. The signature on scan 0007 is not Prince
+  Lubecki's as far as the letter shows: the writer speaks of the minister of finance as
+  another person. The first signature under the draft of Nr. 1414, which the editor cannot
+  verify, now stands as "A[lvensleben]", the initial read and the name supplied from his
+  office, as with Goldbeck's paraph in Nr. 3709; Alvensleben is indexed. The edition has 610
+  marks of doubt.
 
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one

@@ -23,7 +23,7 @@
   "recipient": "Hoym, Schroetter und Goldbeck",
   "line_start": 1,
   "line_end": 25,
-  "uncertainty_count": 1,
+  "uncertainty_count": 0,
   "has_damage": 0,
   "rough_transcription": 0,
   "language": "de",
@@ -39,8 +39,8 @@
   "is_missing": 0,
   "n_lines": 23,
   "n_pages": 1,
-  "text": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra¬\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab¬\nschrift mitzutheilen, was der Königl. Re¬\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf¬\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\n[Alvensleben?]\nHaugwitz\nd 12. sämmtl. zur Post.",
-  "text_reading": "Berlin, d. 11. Januar 1797.\n\nAn des Königl. p p Ministri Herrn Grafen von Hoym Excellenz,\n\net in ſimili An des Königl. pp Ministri Frhrn von Schroetter Excellenz.\n\nGr. in triplo md.\n\nEw. Excellenz geben wir uns die Ehre hierneben zu gefälligem Gebrauch in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig von einem Eingeseßenen der Königl. von der ehemaligen Republik Pohlen acquirirten Provinzen, Namens Anton Prusimski, welcher sich gegenwärtig zu Venedig aufhält, auf deßen Verlangen, einberichtet hat. Berlin, d. 11. Januar 1797.\n\nin simili des H. G[roß]K[anzlers] v. Goldbeck Excell.\n\n[Alvensleben?]\n\nHaugwitz\n\nd 12. sämmtl. zur Post.",
+  "text": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra¬\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab¬\nschrift mitzutheilen, was der Königl. Re¬\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf¬\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\nA[lvensleben]\nHaugwitz\nd 12. sämmtl. zur Post.",
+  "text_reading": "Berlin, d. 11. Januar 1797.\n\nAn des Königl. p p Ministri Herrn Grafen von Hoym Excellenz,\n\net in ſimili An des Königl. pp Ministri Frhrn von Schroetter Excellenz.\n\nGr. in triplo md.\n\nEw. Excellenz geben wir uns die Ehre hierneben zu gefälligem Gebrauch in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig von einem Eingeseßenen der Königl. von der ehemaligen Republik Pohlen acquirirten Provinzen, Namens Anton Prusimski, welcher sich gegenwärtig zu Venedig aufhält, auf deßen Verlangen, einberichtet hat. Berlin, d. 11. Januar 1797.\n\nin simili des H. G[roß]K[anzlers] v. Goldbeck Excell.\n\nA[lvensleben]\n\nHaugwitz\n\nd 12. sämmtl. zur Post.",
   "pages": [
    {
     "page": 1,
@@ -48,9 +48,9 @@
     "line_start": 3,
     "line_end": 25,
     "n_lines": 23,
-    "diplomatic": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra¬\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab¬\nschrift mitzutheilen, was der Königl. Re¬\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf¬\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\n[Alvensleben?]\nHaugwitz\nd 12. sämmtl. zur Post.",
-    "transcription": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra-\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab-\nschrift mitzutheilen, was der Königl. Re-\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf-\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\n[Alvensleben?]\nHaugwitz\nd 12. sämmtl. zur Post.",
-    "reading": "Berlin, d. 11. Januar 1797.\n\nAn des Königl. p p Ministri Herrn Grafen von Hoym Excellenz,\n\net in ſimili An des Königl. pp Ministri Frhrn von Schroetter Excellenz.\n\nGr. in triplo md.\n\nEw. Excellenz geben wir uns die Ehre hierneben zu gefälligem Gebrauch in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig von einem Eingeseßenen der Königl. von der ehemaligen Republik Pohlen acquirirten Provinzen, Namens Anton Prusimski, welcher sich gegenwärtig zu Venedig aufhält, auf deßen Verlangen, einberichtet hat. Berlin, d. 11. Januar 1797.\n\nin simili des H. G[roß]K[anzlers] v. Goldbeck Excell.\n\n[Alvensleben?]\n\nHaugwitz\n\nd 12. sämmtl. zur Post.",
+    "diplomatic": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra¬\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab¬\nschrift mitzutheilen, was der Königl. Re¬\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf¬\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\nA[lvensleben]\nHaugwitz\nd 12. sämmtl. zur Post.",
+    "transcription": "Berlin, d. 11. Januar 1797.\nAn des Königl. p p Ministri Herrn Gra-\nfen von Hoym Excellenz,\net in ſimili\nAn des Königl. pp Ministri Frhrn\nvon Schroetter Excellenz.\nGr. in triplo md.\nEw. Excellenz geben wir uns die Ehre\nhierneben zu gefälligem Gebrauch in Ab-\nschrift mitzutheilen, was der Königl. Re-\nsident Graf von Cattaneo zu Venedig von\neinem Eingeseßenen der Königl. von der\nehemaligen Republik Pohlen acquirirten\nProvinzen, Namens Anton Prusimski,\nwelcher sich gegenwärtig zu Venedig auf-\nhält, auf deßen Verlangen, einberichtet hat.\nBerlin, d. 11. Januar 1797.\nin simili des\nH. G[roß]K[anzlers] v. Goldbeck\nExcell.\nA[lvensleben]\nHaugwitz\nd 12. sämmtl. zur Post.",
+    "reading": "Berlin, d. 11. Januar 1797.\n\nAn des Königl. p p Ministri Herrn Grafen von Hoym Excellenz,\n\net in ſimili An des Königl. pp Ministri Frhrn von Schroetter Excellenz.\n\nGr. in triplo md.\n\nEw. Excellenz geben wir uns die Ehre hierneben zu gefälligem Gebrauch in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig von einem Eingeseßenen der Königl. von der ehemaligen Republik Pohlen acquirirten Provinzen, Namens Anton Prusimski, welcher sich gegenwärtig zu Venedig aufhält, auf deßen Verlangen, einberichtet hat. Berlin, d. 11. Januar 1797.\n\nin simili des H. G[roß]K[anzlers] v. Goldbeck Excell.\n\nA[lvensleben]\n\nHaugwitz\n\nd 12. sämmtl. zur Post.",
     "paragraphs": [
      "Berlin, d. 11. Januar 1797.",
      "An des Königl. p p Ministri Herrn Grafen von Hoym Excellenz,",
@@ -58,7 +58,7 @@
      "Gr. in triplo md.",
      "Ew. Excellenz geben wir uns die Ehre hierneben zu gefälligem Gebrauch in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig von einem Eingeseßenen der Königl. von der ehemaligen Republik Pohlen acquirirten Provinzen, Namens Anton Prusimski, welcher sich gegenwärtig zu Venedig aufhält, auf deßen Verlangen, einberichtet hat. Berlin, d. 11. Januar 1797.",
      "in simili des H. G[roß]K[anzlers] v. Goldbeck Excell.",
-     "[Alvensleben?]",
+     "A[lvensleben]",
      "Haugwitz",
      "d 12. sämmtl. zur Post."
     ],

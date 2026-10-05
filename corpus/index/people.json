@@ -63495,6 +63495,34 @@
   ]
  },
  {
+  "entity": "alvensleben",
+  "display": "Philipp Karl von Alvensleben",
+  "count": 2,
+  "documents": [
+   "ihagrrep7cnr1414-1"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "A[lvensleben]",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "A[lvensleben]",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 23,
+    "doc_line": 21
+   }
+  ]
+ },
+ {
   "entity": "hertzog",
   "display": "Hertzog",
   "count": 2,

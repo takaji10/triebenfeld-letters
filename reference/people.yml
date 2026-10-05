@@ -259,6 +259,16 @@ people:
     tier: "Externally confirmed"
     variants: []
     identity: "Christian Count von Haugwitz (1752-1832), Prussian cabinet minister for foreign affairs. He signs the department's draft of 11 January 1797 (I. HA GR, Rep. 7 C, Nr. 1414, document 1), and Triebenfeld's letters name him as minister between 1798 and 1806 (Oe 1 Bü 9454). Added 2026-10-05; until then his name in the letters was not indexed."
+  alvensleben:
+    display: "Philipp Karl von Alvensleben"
+    # A[lvensleben] is the first signature under the foreign department's
+    # draft of 11 January 1797: only the initial is read, the name supplied
+    # from his office (see that unit's notes.md).
+    match: 'Alvensleben|A\[lvensleben\]'
+    only_in: [ihagrrep7cnr1414-1]
+    tier: "Context-inferred (office)"
+    variants: []
+    identity: "Philipp Karl Count von Alvensleben (1745-1802), Prussian cabinet minister from 1791 to his death, one of the three ministers of the department of foreign affairs in 1797 with Finckenstein and Haugwitz. The first of the two signatures under the department's draft of 11 January 1797 (I. HA GR, Rep. 7 C, Nr. 1414, document 1) opens with a large A and is otherwise not read; it is taken to be his because he is the one minister of the department whose name begins with that letter. The editor could not verify the name on the scan (2026-10-05)."
   raumer:
     display: "Karl Georg von Raumer"
     render: "Raumer"

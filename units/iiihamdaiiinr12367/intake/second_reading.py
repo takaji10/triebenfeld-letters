@@ -21,6 +21,11 @@ word with a tall first letter, two short letters, a tall one and "es". "le
 Courier de Londres", a London newspaper, fits both and fits a request to
 borrow something for two days. Nothing else proves it.
 
+The same day the editor looked at the line and saw "rev... de P...": the two
+guesses were wrong. The line now stands in corpus.txt as "le [Rev…?] de
+[P…?] ?" (transcription_decisions.csv, key editor-0004). LINE below is what
+this script wrote, kept as the record; do not run it again.
+
 The line is added as the last line of the page and named in sideways.yml, so
 the site sets it apart as written sideways. Logged in
 transcription_decisions.csv.

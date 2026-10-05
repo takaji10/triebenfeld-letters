@@ -261,18 +261,25 @@ transcription and the translation.
   "qui glace parfois mes passions champêtres": he is in the country and the
   weather spoils it. Plain once enlarged; no mark of doubt.
 - **0004, margin.** Added as the last line of the page: "Pourriez Vous
-  m'accorder pour 2 j. le [Courier?] de [Londres?] ?". `sideways.yml` names
-  it, so the page sets it apart under "Written sideways on the page". Two
-  words are marked doubtful.
+  m'accorder pour 2 j. le [Rev…?] de [P…?] ?". `sideways.yml` names it, so
+  the page sets it apart under "Written sideways on the page". I first gave
+  the two last words as "[Courier?]" and "[Londres?]" and put "perhaps the
+  London newspaper The Courier" into the summary. The editor then looked,
+  saw "rev... de P...", and said to leave them uncertain: the guesses came
+  out of the text, the English and the summary the same day. **Lesson:** a
+  guess at an unread word does not go into a summary, marked or not.
 - Both by `intake/second_reading.py`, logged in
   `transcription_decisions.csv`. The English (`intake/translation/doc3.yml`)
   was rewritten for the sentence and the new line, saved, checked (no row)
   and published; the summary of document 3 was rewritten from the new text
   in both languages and its statements checked again
-  (`intake/claim_check.yml`, now 79). The edition's count of marks of doubt
-  went from 610 to 611.
+  (`intake/claim_check.yml`, now 79).
 - **0007, signature.** Not read. What can be seen, and why no name is put
   forward, is in `intake/unresolved.md`. The letter stays without a sender.
+  The editor sees "eub" after an unsure first letter and asked whether it
+  is Lubecki's: the letter speaks of the minister of finance as another
+  person, and the file has no signature of his to compare (0008 and 0010
+  are copies).
 
 ## Still to do
 

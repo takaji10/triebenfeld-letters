@@ -106,7 +106,7 @@ onward), where he was not indexed before; every line the new pattern matches
 was read, and all are the minister. Goldbeck (the Grand Chancellor) gained
 this holding's document 1 in his `only_in` list. Matched without change:
 Hoym, Prusimski. New place: Venice (`venedig`, matching Venedig and Venise).
-Alvensleben is not indexed: the reading is doubtful.
+Alvensleben was not indexed at first; he is since the editor's rulings below.
 
 ## What the certificate was for
 
@@ -138,10 +138,18 @@ confiscation.
 ## The editor's rulings (2026-10-05)
 
 - Raumer, Goldbeck and Haugwitz stand as corrected.
-- The first signature under the draft, "[Alvensleben?]": the editor asked
-  to see it. One question on a spot sheet (`intake/open_queries.csv`,
-  copied to `review/ihagrrep7cnr1414/`; `queries.py --unit
-  ihagrrep7cnr1414`).
+- The first signature under the draft. The editor asked to see it, then
+  said they cannot verify it and that it should stand only on good
+  reasoning. The reasoning: the draft is the department of foreign
+  affairs' own and its ministers sign it; in January 1797 they were
+  Finckenstein, Alvensleben and Haugwitz (Philipp Karl von Alvensleben,
+  1745-1802, cabinet minister from 1791 until his death: Allgemeine
+  Deutsche Biographie and the German Wikipedia, looked up 2026-10-05);
+  the signature opens with a large A, and Haugwitz signs beside it. What
+  is read is one letter, so the text now has "A[lvensleben]", the form
+  used for Goldbeck's paraph in Nr. 3709, in place of "[Alvensleben?]".
+  He is indexed (tier "Context-inferred (office)"). The spot sheet made
+  for the question was withdrawn.
 - The papers are not filed under any estate: `estates` stays empty for all
   three documents. (The editor wrote "Don't associate Venice papers with a
   spot sheet", answering the question whether they should be filed under
@@ -149,5 +157,4 @@ confiscation.
 
 ## Still to do
 
-- The editor's answer on the spot sheet for "[Alvensleben?]".
 - The English has not been read against the scans.

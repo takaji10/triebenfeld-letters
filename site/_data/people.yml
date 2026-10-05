@@ -35,6 +35,18 @@
   bio_de: "David Alopaeus, russischer Gesandter in Berlin, der die Note vom 31. Januar 1820 unterzeichnete, mit der der Anspruch der Hohenloher Erben abgelehnt wurde. Ein Jahr zuvor, am 20. Januar 1819, hatte er dem preußischen Ministerium einen Bericht aus Warschau übersandt, der die Forderung der Michalina Miączyńska gegen Preußen unterstützte."
   span: "1819–1820"
   letters: [{id: "1", uid: "iiihamdaiiinr12366-1", url: "/documents/iiihamdaiiinr12366/1/", n: 1}, {id: "3", uid: "iiihamdaiiinr12366-3", url: "/documents/iiihamdaiiinr12366/3/", n: 5}, {id: "27", uid: "iiihamdaiiinr12765-27", url: "/documents/iiihamdaiiinr12765/27/", n: 1}]
+- slug: "alvensleben"
+  name: "Philipp Karl von Alvensleben"
+  heading: "Alvensleben, Philipp Karl von"
+  heading_de: "Alvensleben, Philipp Karl von"
+  count: 1
+  docs: 1
+  life: "1745-1802"
+  life_de: "1745-1802"
+  bio: "Count Philipp Karl von Alvensleben, Prussian cabinet minister from 1791. He is taken to be the first of the two ministers who signed the letter of January 1797 by which the department of foreign affairs reported that Antoni Prusimski was at Venice; only the initial of that signature can be read."
+  bio_de: "Graf Philipp Karl von Alvensleben, preußischer Kabinettsminister seit 1791. Er gilt als der erste der beiden Minister, die das Schreiben vom Januar 1797 unterzeichneten, mit dem das Departement der auswärtigen Angelegenheiten meldete, dass Antoni Prusimski in Venedig war; von dieser Unterschrift ist nur die Initiale zu lesen."
+  span: "1797"
+  letters: [{id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}]
 - slug: "amelang"
   name: "Amelang"
   heading: "Amelang, Karl Ludwig"
