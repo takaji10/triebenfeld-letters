@@ -9,7 +9,7 @@ alt_url: /reading-this-edition/
 
 ## Die Quelle
 
-Die 465 bisher veröffentlichten Dokumente stammen aus vierzehn Beständen in vier Archiven:
+Die 467 bisher veröffentlichten Dokumente stammen aus vierzehn Beständen in vier Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, der Korrespondenz aus
   achtzehn Jahren (318 Dokumente); `Oe 1 Bü 14525` und `Oe 1 Bü 14526`, zwei Bänden mit
@@ -52,7 +52,7 @@ im Archivtext einnimmt. Nichts läuft über einen Seitenumbruch hinweg. Ein Brie
 dennoch als Ganzes lesbar; die Seiten sind Gliederung darin, und neben ihnen stehen die
 Digitalisate.
 
-Auf die 465 Dokumente entfallen **1.546 Handschriftenseiten**. Die Korrespondenz hat 870
+Auf die 467 Dokumente entfallen **1.546 Handschriftenseiten**. Die Korrespondenz hat 870
 davon, die beiden Urkundenbände 165 und 287; die übrigen elf Bestände haben jeweils 3 bis
 50 Seiten. Die Zahlen, die unten zu Trennzeichen, Kustoden und Digitalisaten genannt werden,
 sind die der Korrespondenz, in der diese Fragen am dichtesten auftraten.
@@ -253,8 +253,8 @@ Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
 
 ## Englische Übersetzungen
 
-Alle Dokumente mit Text bis auf eines haben eine englische Übersetzung: 459 der 465. Die im
-Oktober 2026 hinzugekommenen Abschriften aus Posen sind noch zu übersetzen, und fünf
+Alle Dokumente mit Text bis auf drei haben eine englische Übersetzung: 459 der 467. Die drei
+im Oktober 2026 hinzugekommenen Abschriften aus Posen sind noch zu übersetzen, und fünf
 sind Nummern der Korrespondenz, unter denen kein Text überliefert ist. Jede Übersetzung
 erscheint unter dem Original mit ihrem Status, und die französischen und polnischen
 Dokumente wurden aus ihrer eigenen Sprache übersetzt. Keine Übersetzung gilt als

@@ -5,10 +5,6 @@ is in brackets.
 
 ## Words
 
-- **0043 (8), list of lessees, no. 14: "Dr. Johann Wendel Heilmann".** The
-  page has three small letters before "Johann" that look like "der" in
-  Kurrent, not "Dr." He signs with three crosses, which a doctor would not.
-  Left as "Dr."; a spot sheet can show the word.
 - **0050 (15) and 0051 (16): "Vagel" or "Vogel".** The list on 0042 has
   "Christ. Friedr. Vagel" plainly; in the signature on 0051 the second letter
   could be an o. Left as "Vagel" in both.
@@ -20,21 +16,12 @@ is in brackets.
   of the consent has "Ląd". Left; not indexed, since the edition has no
   entry for Ląd.
 
-## A name
-
-- **0051 (16): "Heinrichs Commissionsrath und Oeconomie-Commissarius"**, who
-  attests that the contract was read out and signed in his presence. The
-  other holdings know Martin Honrichs, whom the first transcription of Oe 1
-  Bü 9454 several times wrote "Heinrich". No other document gives Honrichs
-  these two titles, so the identification is not made: the name stands as
-  the page has it and is not in the index. The editor may know.
-
 ## The date of the contract
 
 - § VI reckons four free years from "Christmas of this year" to Christmas
   1808, which makes the year of the contract 1804; § I cites the power of
   attorney of February 1805 as enclosed. The opening of the contract, which
-  would give the day, is not among the pages. The document is dated by its
+  would give the day, is not among the pages. Document 3 is dated by its
   engrossment, 21 March 1806. See notes.md.
 
 ## Not transcribed
@@ -48,3 +35,11 @@ is in brackets.
   given as the corrected list, as the editor transcribed it.
 - **0036 (1), 0048 (13), 0051 (16):** single words struck and rewritten by the
   copyist; the rewritten word is given.
+
+## Settled
+
+- **"Dr. Johann Wendel Heilmann"** (0043, list of lessees, no. 14): the
+  editor confirmed "Dr." on 2026-10-05. I had thought the page might have
+  "der".
+- **"Heinrichs"** (0051): a person of his own, not Honrichs; see notes.md,
+  "Authorities".

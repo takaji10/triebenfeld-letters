@@ -242,6 +242,15 @@ people:
     match: 'Hohenlohe|Hohenlo\[h\]e'
     tier: "Book-confirmed (the book's subject)"
     variants: []
+  heinrichs:
+    display: "Heinrichs"
+    match: 'Heinrichs(?![a-zà-ÿ])'
+    # Not Martin Honrichs. Two copies in different hands write "Heinrichs"
+    # with a royal title Honrichs never bears; see the identity.
+    only_in: [app539680801-3, oe1bu14526-16]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Heinrichs, 'Königl. Kammer Commissions Rath und Oconomie Commissarius' (Oe 1 Bü 14526, document 16), 'Commissionsrath und Oeconomie-Commissarius' (APP 53/968/0/-/801, document 3): the royal official who attests, under two hereditary leases of the Zagórów and Trąbczyn estates, that the contract was read aloud to the parties and signed in his presence. Forename not given. Kept apart from Martin Honrichs, the buyer of Witów and later agent on the estates, who is nowhere given these titles (editor asked 2026-10-05; entry made the same day)."
   honrichs:
     display: "Honrichs"
     match: "Honrichs|Hon(?![a-zà-ÿ])"

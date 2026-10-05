@@ -1592,6 +1592,19 @@ lose his estates. The era page writes Konotop, not Kontop.
   edition has fourteen holdings and 465 documents. Not yet translated; the summary has not had
   the claim check. See `units/app539680801/notes.md`.
 
+- **APP 53/968/0/-/801 divided into three documents** (2026-10-05, the editor's ruling the
+  same day): the power of attorney (document 1, 19 February 1805, Guhrwitz), the consent
+  (document 2, 28 January 1806, Kalisz) and the lease contract (document 3, 21 March 1806,
+  Mariantów), with a relation from each of the first two to the contract. Three summaries in
+  place of one; the holding page cites each paper by its own number; the timeline entries
+  point to the right documents; the correction log re-keyed
+  (`intake/split_documents.py`). The address `/documents/app539680801/1/` is now the power
+  of attorney; the contract is at `/3/`. The editor also confirmed "Dr." before Johann
+  Wendel Heilmann and Michael Just's 5 Hufen. New person: Heinrichs, the chamber's
+  Commissionsrath and Oeconomie-Commissarius who attests this lease and the Althütte lease
+  (Oe 1 Bü 14526, document 16), kept apart from Martin Honrichs. The edition has 467
+  documents.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

@@ -138,17 +138,18 @@ so check them.
   the five of Oe 1 Bü 9454 without text excepted, and APP 53/968/0/-/801
   still to do).
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
-  2026-10-05): one document on sixteen pages, copies made about 1930 (papers
-  of Albert Breyer) of the Prince's power of attorney for Triebenfeld
-  (1805), the chamber's consent to the parcelling of Zagórów and Trąbczyn
-  (28 January 1806) and the lease of 100 Hufen of the Drzewce forest to
-  eighteen settlers (engrossed 21 March 1806). The editor's transcription
-  cut to pages, 84 passages corrected against the scans, summarised in both
+  2026-10-05): three documents on sixteen pages, copies made about 1930
+  (papers of Albert Breyer): the Prince's power of attorney for Triebenfeld
+  (1, 19 February 1805), the chamber's consent to the parcelling of Zagórów
+  and Trąbczyn (2, 28 January 1806) and the lease of 100 Hufen of the
+  Drzewce forest to eighteen settlers (3, engrossed 21 March 1806). First
+  built as one document, divided at the editor's word the same day
+  (`intake/split_documents.py`; `intake/corrections.py` is a record, not to
+  be re-run). 84 passages corrected against the scans, summarised in both
   languages, holding page, two timeline entries; status `transcribed`. Read
   `units/app539680801/notes.md` first. **Next: its translation** (in
-  session, as above) and the claim check of the summary. Still open: one
-  document or three, "Dr." or "der" Heilmann, whether "Heinrichs" is
-  Honrichs (`intake/unresolved.md`, `docs/TODO.md` section 3).
+  session, as above) and the claim check of the three summaries. Heinrichs,
+  who attests the lease, has his own person entry and is not Honrichs.
 - **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, scaffolded
   2026-10-05), "Capital on the Zagorow estates": the cover and eleven pages
   of copies of 1805 (Triebenfeld's loan of 50,000 thalers from the Invalids'

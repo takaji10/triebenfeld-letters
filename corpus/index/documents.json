@@ -8378,7 +8378,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
+  "mentions": 6,
   "places_named": 4,
   "estates": [
    "trabczyn"
@@ -9031,6 +9031,59 @@
   "path": "documents/oe1bu9454-161.json",
   "text_path": "text/oe1bu9454-161.txt",
   "permalink": "/documents/oe1bu9454/161/"
+ },
+ {
+  "uid": "app539680801-1",
+  "unit": "app539680801",
+  "letter_id": "1",
+  "doc_type": "power_of_attorney",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1805-02-19",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Guhrwitz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 18,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0036_a",
+    "image": "APP_53_968_0_801_0036_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0037_a",
+    "image": "APP_53_968_0_801_0037_a-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0038_a",
+    "image": "APP_53_968_0_801_0038_a-L1_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 9,
+  "estates": [
+   "zagorowo",
+   "witow",
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "power of attorney 1",
+  "path": "documents/app539680801-1.json",
+  "text_path": "text/app539680801-1.txt",
+  "permalink": "/documents/app539680801/1/"
  },
  {
   "uid": "oe1bu9454-162",
@@ -11060,9 +11113,61 @@
   "permalink": "/documents/oe1u199/1/"
  },
  {
-  "uid": "app539680801-1",
+  "uid": "app539680801-2",
   "unit": "app539680801",
-  "letter_id": "1",
+  "letter_id": "2",
+  "doc_type": "royal_consent",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1806-01-28",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisch",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 16,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0039_a",
+    "image": "APP_53_968_0_801_0039_a-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0040_a",
+    "image": "APP_53_968_0_801_0040_a-L2_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0041_a",
+    "image": "APP_53_968_0_801_0041_a-L2_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 16,
+  "estates": [
+   "zagorowo",
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "royal consent 2",
+  "path": "documents/app539680801-2.json",
+  "text_path": "text/app539680801-2.txt",
+  "permalink": "/documents/app539680801/2/"
+ },
+ {
+  "uid": "app539680801-3",
+  "unit": "app539680801",
+  "letter_id": "3",
   "doc_type": "contract",
   "language": "de",
   "era": "hohenlohe",
@@ -11074,108 +11179,77 @@
   "place": "Marianton",
   "sender": "",
   "recipient": "",
-  "n_pages": 16,
-  "n_lines": 138,
+  "n_pages": 10,
+  "n_lines": 104,
   "scans": [
    {
     "page": 1,
-    "page_id": "0036_a",
-    "image": "APP_53_968_0_801_0036_a-L1_01.jpg"
+    "page_id": "0042_a",
+    "image": "APP_53_968_0_801_0042_a-L3_01.jpg"
    },
    {
     "page": 2,
-    "page_id": "0037_a",
-    "image": "APP_53_968_0_801_0037_a-L1_02.jpg"
+    "page_id": "0043_a",
+    "image": "APP_53_968_0_801_0043_a-L3_02.jpg"
    },
    {
     "page": 3,
-    "page_id": "0038_a",
-    "image": "APP_53_968_0_801_0038_a-L1_03.jpg"
+    "page_id": "0044_a",
+    "image": "APP_53_968_0_801_0044_a-L3_03.jpg"
    },
    {
     "page": 4,
-    "page_id": "0039_a",
-    "image": "APP_53_968_0_801_0039_a-L1_04.jpg"
+    "page_id": "0045_a",
+    "image": "APP_53_968_0_801_0045_a-L3_04.jpg"
    },
    {
     "page": 5,
-    "page_id": "0040_a",
-    "image": "APP_53_968_0_801_0040_a-L1_05.jpg"
+    "page_id": "0046_a",
+    "image": "APP_53_968_0_801_0046_a-L3_05.jpg"
    },
    {
     "page": 6,
-    "page_id": "0041_a",
-    "image": "APP_53_968_0_801_0041_a-L1_06.jpg"
+    "page_id": "0047_a",
+    "image": "APP_53_968_0_801_0047_a-L3_06.jpg"
    },
    {
     "page": 7,
-    "page_id": "0042_a",
-    "image": "APP_53_968_0_801_0042_a-L1_07.jpg"
+    "page_id": "0048_a",
+    "image": "APP_53_968_0_801_0048_a-L3_07.jpg"
    },
    {
     "page": 8,
-    "page_id": "0043_a",
-    "image": "APP_53_968_0_801_0043_a-L1_08.jpg"
+    "page_id": "0049_a",
+    "image": "APP_53_968_0_801_0049_a-L3_08.jpg"
    },
    {
     "page": 9,
-    "page_id": "0044_a",
-    "image": "APP_53_968_0_801_0044_a-L1_09.jpg"
+    "page_id": "0050_a",
+    "image": "APP_53_968_0_801_0050_a-L3_09.jpg"
    },
    {
     "page": 10,
-    "page_id": "0045_a",
-    "image": "APP_53_968_0_801_0045_a-L1_10.jpg"
-   },
-   {
-    "page": 11,
-    "page_id": "0046_a",
-    "image": "APP_53_968_0_801_0046_a-L1_11.jpg"
-   },
-   {
-    "page": 12,
-    "page_id": "0047_a",
-    "image": "APP_53_968_0_801_0047_a-L1_12.jpg"
-   },
-   {
-    "page": 13,
-    "page_id": "0048_a",
-    "image": "APP_53_968_0_801_0048_a-L1_13.jpg"
-   },
-   {
-    "page": 14,
-    "page_id": "0049_a",
-    "image": "APP_53_968_0_801_0049_a-L1_14.jpg"
-   },
-   {
-    "page": 15,
-    "page_id": "0050_a",
-    "image": "APP_53_968_0_801_0050_a-L1_15.jpg"
-   },
-   {
-    "page": 16,
     "page_id": "0051_a",
-    "image": "APP_53_968_0_801_0051_a-L1_16.jpg"
+    "image": "APP_53_968_0_801_0051_a-L3_10.jpg"
    }
   ],
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 6,
-  "places_named": 19,
+  "mentions": 4,
+  "places_named": 5,
   "estates": [
    "drzewce",
-   "zagorowo",
-   "trabczyn"
+   "zagorowo"
   ],
   "translation_status": "untranslated",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "contract 1",
-  "path": "documents/app539680801-1.json",
-  "text_path": "text/app539680801-1.txt",
-  "permalink": "/documents/app539680801/1/"
+  "title": "contract 3",
+  "path": "documents/app539680801-3.json",
+  "text_path": "text/app539680801-3.txt",
+  "permalink": "/documents/app539680801/3/"
  },
  {
   "uid": "oe1bu14526-8",

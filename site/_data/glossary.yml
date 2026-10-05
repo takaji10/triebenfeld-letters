@@ -283,7 +283,7 @@
   initial_en: "H"
   sort_de: "erbpacht"
   initial_de: "E"
-  docs: 39
+  docs: 40
 - id: "canon"
   kind: "land"
   lang: "de_la"
@@ -302,7 +302,7 @@
   initial_en: "C"
   sort_de: "canon"
   initial_de: "C"
-  docs: 38
+  docs: 39
 - id: "erbzins"
   kind: "land"
   lang: "de"
@@ -321,7 +321,7 @@
   initial_en: "Q"
   sort_de: "erbzins"
   initial_de: "E"
-  docs: 24
+  docs: 25
 - id: "laudemium"
   kind: "land"
   lang: "de_la"
@@ -397,7 +397,7 @@
   initial_en: "D"
   sort_de: "dominium"
   initial_de: "D"
-  docs: 28
+  docs: 29
 - id: "herrschaft"
   kind: "land"
   lang: "de"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 35
+  docs: 36
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -454,7 +454,7 @@
   initial_en: "D"
   sort_de: "dismembration"
   initial_de: "D"
-  docs: 44
+  docs: 45
 - id: "haulaender"
   kind: "land"
   lang: "de"
@@ -815,7 +815,7 @@
   initial_en: "P"
   sort_de: "vollmacht"
   initial_de: "V"
-  docs: 61
+  docs: 62
 - id: "bevollmaechtigter"
   kind: "law"
   lang: "de"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 56
+  docs: 57
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -891,7 +891,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 74
+  docs: 75
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -948,7 +948,7 @@
   initial_en: "P"
   sort_de: "patrimonialgericht"
   initial_de: "P"
-  docs: 13
+  docs: 14
 - id: "justitiarius"
   kind: "law"
   lang: "de_la"
@@ -967,7 +967,7 @@
   initial_en: "J"
   sort_de: "justitiarius"
   initial_de: "J"
-  docs: 18
+  docs: 19
 - id: "justizbuergermeister"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 47
+  docs: 48
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1556,7 +1556,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 32
+  docs: 33
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 350
+  docs: 351
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 349
+  docs: 350
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1841,7 +1841,7 @@
   initial_en: "L"
   sort_de: "l. s. (locus sigilli)"
   initial_de: "L"
-  docs: 21
+  docs: 22
 - id: "actum"
   kind: "phrase"
   lang: "la"
@@ -1974,7 +1974,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 89
+  docs: 90
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

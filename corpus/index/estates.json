@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 182,
+  "count": 183,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
@@ -11,6 +11,7 @@
    "agad11740273-4",
    "app5371057-1",
    "app539680801-1",
+   "app539680801-2",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3705-1",
    "iiihamdaiiinr12366-1",
@@ -289,9 +290,11 @@
  {
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
-  "count": 81,
+  "count": 83,
   "documents": [
    "app539680801-1",
+   "app539680801-2",
+   "app539680801-3",
    "ihagrrep7cnr3705-1",
    "oe1bu14525-10",
    "oe1bu14525-11",
@@ -900,7 +903,7 @@
   "display": "Drzewce",
   "count": 23,
   "documents": [
-   "app539680801-1",
+   "app539680801-3",
    "oe1bu14525-10",
    "oe1bu14525-17",
    "oe1bu14525-19",
@@ -1148,6 +1151,25 @@
   ]
  },
  {
+  "entity": "witow",
+  "display": "Witów (Wittow)",
+  "count": 12,
+  "documents": [
+   "app539680801-1",
+   "oe1bu14526-1",
+   "oe1bu14526-2",
+   "oe1bu14526-21",
+   "oe1bu9454-163",
+   "oe1bu9454-173",
+   "oe1bu9454-19",
+   "oe1bu9454-215",
+   "oe1bu9454-22",
+   "oe1bu9454-23",
+   "oe1bu9454-31",
+   "oe1bu9454-64"
+  ]
+ },
+ {
   "entity": "swiechocin",
   "display": "Świechocin (Schwiechodezin)",
   "count": 11,
@@ -1235,24 +1257,6 @@
    "oe1bu9454-177",
    "oe1bu9454-24",
    "oe1bu9454-32"
-  ]
- },
- {
-  "entity": "witow",
-  "display": "Witów (Wittow)",
-  "count": 11,
-  "documents": [
-   "oe1bu14526-1",
-   "oe1bu14526-2",
-   "oe1bu14526-21",
-   "oe1bu9454-163",
-   "oe1bu9454-173",
-   "oe1bu9454-19",
-   "oe1bu9454-215",
-   "oe1bu9454-22",
-   "oe1bu9454-23",
-   "oe1bu9454-31",
-   "oe1bu9454-64"
   ]
  },
  {

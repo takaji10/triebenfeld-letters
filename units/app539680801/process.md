@@ -8,16 +8,16 @@ The editor supplied the transcription as one text, written paragraph by paragrap
 
 ### Division into documents
 
-The three papers are one document: the lease contract, and the power of attorney and the consent on which it rests. The edition treats a contract and the papers filed with it this way throughout. The document is dated 21 March 1806, the day the court engrossed the contract and certified the copy of the power of attorney.
+Each of the three papers is one document, by the editor's decision: the power of attorney, the consent and the lease contract. Each is dated from its own text: the power of attorney by the day it was given, 19 February 1805; the consent by the day it was issued, 28 January 1806; the contract by the day the court engrossed it, 21 March 1806, since the opening of the record, with the day the contract was made, is missing.
 
 ### Corrections
 
 An AI model (Claude) compared the whole transcription with the scans and corrected it where the page is plain. 84 passages were changed, each logged with its reason. Most are typing slips and single misread letters. For two of the three papers another copy of the same text is in the edition, and each was used as a second witness: the power of attorney in [[unit:app5371057]] and the Chamber's consent in [[unit:oe1bu14526]]. Four changes go beyond a letter or two. A line and a half of the consent that the transcription had skipped was added. The share of one lessee, Michael Just, was corrected from 10 Hufen to 5, as the page has it; with 10 the shares would not add up to the 100 Hufen the contract names. One lessee's name was corrected from Siemert and Liemert to Liewert. The three crosses with which eleven lessees signed were added before their names as "xxx". The copyist's own spellings were kept.
 
-### Summary
+### Summaries
 
-The summary was written in German from a reading of the document against its scans, and translated into English. It has not had the separate check that the summaries of other holdings received, in which each statement is held against its document.
+The summaries were written in German from a reading of each document against its scans, and translated into English. They have not had the separate check that the summaries of other holdings received, in which each statement is held against its document.
 
 ### Still to do
 
-The document is not yet translated into English. The note of the court's fees on the last page is not transcribed. One word in the list of lessees is uncertain: the transcription reads "Dr." before the name of Johann Wendel Heilmann, where the page may have "der". The official who attests the signatures is written "Heinrichs"; whether he is the Honrichs of the other holdings is not settled.
+The three documents are not yet translated into English. The note of the court's fees on the last page is not transcribed.

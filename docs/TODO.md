@@ -86,29 +86,31 @@ sentences in the era essay. Details are in
 
 ## 3. APP 53/968/0/-/801: copies on the parcelling of Zagórów and Trąbczyn (added and published 2026-10-05)
 
-One document on sixteen pages from the papers of Albert Breyer in the State
-Archive in Poznań, copied about 1930: the Prince's power of attorney for
-Triebenfeld (1805), the chamber's consent to the parcelling (28 January
-1806), and the lease of 100 Hufen of the Drzewce forest to eighteen settlers
-(engrossed 21 March 1806). Your transcription was cut to the pages and 84
-passages corrected against the scans; summary and holding page in both
-languages; two timeline entries. Details are in
+Three documents on sixteen pages from the papers of Albert Breyer in the
+State Archive in Poznań, copied about 1930: the Prince's power of attorney
+for Triebenfeld (19 February 1805), the chamber's consent to the parcelling
+(28 January 1806), and the lease of 100 Hufen of the Drzewce forest to
+eighteen settlers (engrossed 21 March 1806). Your transcription was cut to
+the pages and 84 passages corrected against the scans; summaries and holding
+page in both languages; two timeline entries. Details are in
 `units/app539680801/notes.md`.
 
 - [x] Published at your word on 2026-10-05.
-- [ ] **You: one document or three.** It is counted as one, like the Erbet
-      lease from the same archive. The consent of 28 January 1806 could
-      stand as a document of its own if you want it found by its date.
-- [ ] **You: "Dr." or "der" before Johann Wendel Heilmann** (page 8). He
-      signs with three crosses. A spot sheet can show the word.
-- [ ] **You: "Heinrichs".** The official who attests the signatures on page
-      16 is written "Heinrichs, Commissionsrath und Oeconomie-Commissarius".
-      Say if you know him to be Honrichs; he is not in the index.
-- [ ] **You: Michael Just's share.** Your transcription gave him 10 Hufen;
-      the page has 5, and only with 5 do the shares come to 100. Changed;
-      say if you read it otherwise.
-- [ ] Translate the document into English and check the summary against it
-      (in session, as the other holdings were).
+- [x] One document or three: three (you, 2026-10-05). Divided and
+      republished the same day; each paper now has its own date and page.
+- [x] "Dr." before Johann Wendel Heilmann stands (you, 2026-10-05).
+- [x] Michael Just's share is 5 Hufen (you, 2026-10-05).
+- [x] "Heinrichs": you asked whether he sounds like Honrichs. By the
+      documents he is another man. The Prince's own copy of a second lease
+      (Oe 1 Bü 14526, document 16), in a different hand, has the same
+      attestation by "Heinrichs, Königl. Kammer Commissions Rath und
+      Oconomie Commissarius": two copies agree on the spelling, and the
+      title is a royal office that Martin Honrichs, the buyer of Witów, is
+      nowhere given. He has his own entry among the people, with those two
+      documents. **You:** say if you know him to be Honrichs after all, and
+      the two entries will be joined.
+- [ ] Translate the three documents into English and check the summaries
+      against them (in session, as the other holdings were).
 
 ## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (scaffolded 2026-10-05)
 

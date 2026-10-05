@@ -587,6 +587,17 @@
    "doc_line": 514
   },
   {
+   "entity": "heinrichs",
+   "display": "Heinrichs",
+   "kind": "person",
+   "surface": "Heinrichs",
+   "page": 18,
+   "page_id": "0101_a1",
+   "scan": "Oe_1_Bu_14526_0101_a1-L16_18.jpg",
+   "line": 5501,
+   "doc_line": 526
+  },
+  {
    "entity": "schenck",
    "display": "Schenck",
    "kind": "person",
@@ -953,7 +964,7 @@
    "page": 17
   },
   {
-   "entity": "",
+   "entity": "heinrichs",
    "display": "Heinrichs",
    "kind": "person",
    "surface_de": "Heinrichs",

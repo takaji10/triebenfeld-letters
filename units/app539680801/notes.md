@@ -1,6 +1,6 @@
 # 53/968/0/-/801 (APP)
 
-One document on 16 pages, plus the cover as front matter: copies made about
+Three documents on 16 pages, plus the cover as front matter: copies made about
 1930 of three papers of 1805 and 1806 on the parcelling of the Zagórów and
 Trąbczyn estates. Added on 2026-10-05: page images staged, the editor's text
 cut to pages, corrected, summarised, and given its place on the site. Not
@@ -42,16 +42,22 @@ text from the image. It checks that the pages add up to the source text.
 
 By paragraph throughout (`rulings.yml pages: by_paragraph:`).
 
-## The document
+## The documents
 
-One document (the editor's rule of 2026-09-30 for APP 53/71/0/-/57: a deed
-package is one document). The pieces:
+Three documents, one per paper (editor, 2026-10-05: "three documents is
+fine"). The holding was built and published as one document first, a deed
+package like APP 53/71/0/-/57, and divided the same day:
+`intake/split_documents.py` put the markers into `corpus.txt` and re-keyed
+the correction log; `intake/corrections.py` still names every correction
+under document 1 and is not to be run again. Document 1 is dated 19 February
+1805 (Guhrwitz), document 2 28 January 1806 (Kalisz), document 3 21 March
+1806 (Mariantów); 1 and 2 are tied to 3 by a `supplements` relation.
 
-| Pages | Piece |
+| Pages | Document |
 |---|---|
-| 0036-0038 (1-3) | "Copia. General-Vollmacht": the Prince's power of attorney for Triebenfeld, Guhrwitz justice office near Breslau, 19 February 1805, with the office's attestation; the copy certified by the patrimonial court, "Marianten den 21. Maerz 1806", signed Schenck |
-| 0039-0041 (4-6) | "Wir Friedrich Wilhelm ...": the consent of the South Prussian War and Domains Chamber, Kalisz, 28 January 1806, signed Schmiedecke, Korn, Koch, Woyde, Nenickel |
-| 0042-0051 (7-16) | The hereditary-lease contract for 100 Hufen of the Drzewce forest, § I to § XIX, signatures, attestation, and the court's engrossment, "Mariantów d. 21 Mäerz 1806" |
+| 0036-0038 (1-3) | 1. "Copia. General-Vollmacht": the Prince's power of attorney for Triebenfeld, Guhrwitz justice office near Breslau, 19 February 1805, with the office's attestation; the copy certified by the patrimonial court, "Marianten den 21. Maerz 1806", signed Schenck |
+| 0039-0041 (4-6) | 2. "Wir Friedrich Wilhelm ...": the consent of the South Prussian War and Domains Chamber, Kalisz, 28 January 1806, signed Schmiedecke, Korn, Koch, Woyde, Nenickel |
+| 0042-0051 (7-16) | 3. The hereditary-lease contract for 100 Hufen of the Drzewce forest, § I to § XIX, signatures, attestation, and the court's engrossment, "Mariantów d. 21 Mäerz 1806" |
 
 - **The contract has no beginning.** Page 7 opens "Gute Olesnica. 17. Johann
   Luckow und 18. Johann Liewert aus dem Fürstlichen Gute Święcia anderer
@@ -65,9 +71,9 @@ package is one document). The pieces:
   endigen", which makes "this year" 1804. Yet § I calls Triebenfeld
   "legitimated by the enclosed power of attorney", which is of February 1805.
   Not resolved; no date is inferred from it. The Althütte lease in Oe 1 Bü
-  14526 (document 16) is of 20 December 1804.
-- **Place.** Marianton (Mariantów), where the court sat.
-- **Estates.** Drzewce, Zagórów, Trąbczyn.
+  14526 (document 16) is of 20 December 1804 and was engrossed at Marianton
+  on 13 May 1806, attested by the same Heinrichs, Schenck and Brauer: the
+  same course of business.
 - **The lessees and their shares** (list on 0042 and 0043; signatures on 0050
   and 0051). 5 Hufen each unless noted: Johann Friedrich Turno (signs
   Tiernow; "Turnow" in the docket), Martin Dickhoff x, Johann Martin Sydow x,
@@ -104,10 +110,11 @@ logged in `transcription_decisions.csv`. What was left is in
 
 ## Summary (2026-10-05)
 
-One German summary written in the session from the reading, the English
-translated from it (`intake/summaries_draft.py`). **Not claim-checked**; no
+Three German summaries (one at first, rewritten when the holding was
+divided) written in the session from the reading, the English translated
+from them (`intake/summaries_draft.py`). **Not claim-checked**; no
 `reading.json`. `site/_data/summaries.yml` and `summaries_de.yml` were not
-rebuilt from the local cache: the one new line was inserted into each.
+rebuilt from the local cache: the new lines were inserted into each.
 
 ## Authorities (2026-10-05)
 
@@ -119,9 +126,18 @@ were widened for the copyist's and the editor's forms: Trąbczyn
 "Nowawieś" in III. HA MdA, III. Nr. 12367, document 7, where it stands in a
 list of the Trąbczyn villages. No other holding gained or lost a match.
 
+**Heinrichs** has his own entry (`heinrichs`), held to this contract and to
+Oe 1 Bü 14526, document 16. The editor asked (2026-10-05) whether he is
+Honrichs. He is not, as far as the documents show: the Prince's own copy of
+the Althütte lease (14526-16), in another hand, has the same attestation by
+"Heinrichs, Königl. Kammer Commissions Rath und Oconomie Commissarius", so
+two independent copies write the name with ei and give him a royal office.
+Martin Honrichs, the buyer of Witów and later agent on the estates, is
+nowhere called Commissionsrath or Oeconomie-Commissarius.
+
 Not added: the eighteen lessees (none is named in another holding), Brauer
-the clerk, the five officials of the chamber, "Heinrichs" (see
-`intake/unresolved.md`), and the places Broniki, Stara Huta, Ratyń and Ląd.
+the clerk, the five officials of the chamber, and the places Broniki, Stara
+Huta, Ratyń and Ląd.
 
 ## The site (2026-10-05)
 
@@ -133,8 +149,9 @@ describes the leases and the consent in general terms.
 
 ## Still to do
 
-- Translation and the claim check of the summary, with the other holdings
-  waiting for the cloud session.
-- The editor's word on the items in `intake/unresolved.md`.
+- Translation and the claim check of the three summaries, in session as the
+  other holdings were.
+- Settled by the editor on 2026-10-05: three documents; "Dr." before Johann
+  Wendel Heilmann is the right reading; Michael Just's 5 Hufen.
 - Glossary candidates are ruled on when the holding is `translated`
   (`glossary_candidates.py` reports none now).

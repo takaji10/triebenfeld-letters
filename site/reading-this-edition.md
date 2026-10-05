@@ -9,7 +9,7 @@ alt_url: /de/ueber-diese-edition/
 
 ## The source
 
-The 465 documents published so far come from fourteen holdings in four archives:
+The 467 documents published so far come from fourteen holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, eighteen years of
   correspondence (318 documents); `Oe 1 Bü 14525` and `Oe 1 Bü 14526`, two volumes of
@@ -49,7 +49,7 @@ shown as its own block, labelled with the range of lines it occupies in the arch
 Nothing flows across a page break. You still read a letter as a whole; the pages are
 structure within it, and they are what the scanned images sit beside.
 
-There are **1,546 manuscript pages** across the 465 documents. The correspondence has 870
+There are **1,546 manuscript pages** across the 467 documents. The correspondence has 870
 of them and the two volumes of deeds 165 and 287; the other eleven holdings have between 3 and
 50 pages each. The figures given below for line breaks, catchwords and images are the
 correspondence's, which is where those problems were densest.
@@ -234,8 +234,8 @@ goes wrong, and both copies are presented unaltered.
 
 ## English translations
 
-All but one of the documents with text have an English translation: 459 of the 465. The
-copies from Poznań added in October 2026 are still to be translated, and five are
+All but three of the documents with text have an English translation: 459 of the 467. The
+three copies from Poznań added in October 2026 are still to be translated, and five are
 numbers in the correspondence under which no text survives. Each translation appears beneath
 the original with its status shown, and the French and Polish documents were translated from
 their own language. No translation is presented as authoritative until it has been checked by

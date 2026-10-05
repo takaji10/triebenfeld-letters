@@ -1,26 +1,30 @@
 # Editorial rulings for 53/968/0/-/801 (APP).
 #
-# One document: the three pieces are one deed package, the lease contract with
-# the power of attorney and the consent it rests on, as in APP 53/71/0/-/57
-# and the packages of Oe 1 Bü 14526 (editor's rule of 2026-09-30: a court file
-# or deed package is one document). The cover (0035) is front matter. What the
-# pieces are, and why, is in notes.md. Established 2026-10-05.
+# Three documents, at the editor's ruling of 2026-10-05: the power of
+# attorney (1), the consent of the chamber (2) and the lease contract (3).
+# The holding was first built as one document, a deed package like APP
+# 53/71/0/-/57; intake/split_documents.py records the division. The archive
+# numbers nothing but the pages, so the documents are numbered in the order
+# they are copied. The cover (0035) is front matter. Established 2026-10-05.
 
 places:
-  # The court that engrossed the contract and certified the copy of the power
-  # of attorney sat at Mariantów ("Marianten", "Mariantów").
+  # Place of writing, from each document's own text: the power of attorney
+  # was given "im Guhrwitzschen Justiz Amte bei Breslau", the consent "zu
+  # Kalisch", and the contract was engrossed by the court at Mariantów.
   overrides:
-    "1": Marianton
+    "1": Guhrwitz
+    "2": Kalisch
+    "3": Marianton
 
 dates:
-  # [year, month, day, precision]; read off the document. The engrossment of
-  # the contract is dated "Mariantów d. 21 Mäerz 1806", and the court's
-  # certificate under the power of attorney "Marianten den 21. Maerz 1806".
-  # The contract's own opening, with the day it was recorded, is not among
-  # the pages. The enclosures are older: the power of attorney of 19 February
-  # 1805, the consent of 28 January 1806.
+  # [year, month, day, precision]; read off each document.
   read:
-    "1": [1806, 3, 21, "day"]
+    "1": [1805, 2, 19, "day"]      # "den 19ten Februar 1805"; the copy certified "Marianten den 21. Maerz 1806"
+    "2": [1806, 1, 28, "day"]      # "zu Kalisch den 28. Januar 1806"
+    # The engrossment, "Mariantów d. 21 Mäerz 1806". The contract's opening,
+    # with the day it was recorded, is not among the pages; its free years
+    # (§ VI, from "Weynachten dieses Jahres" to Christmas 1808) point to 1804.
+    "3": [1806, 3, 21, "day"]
   supplied: {}
   twin: {}
   inferred: {}
@@ -28,18 +32,29 @@ dates:
 
 documents:
   doc_type:
-    "1": contract
+    "1": power_of_attorney
+    "2": royal_consent
+    "3": contract
 
   language: {}
   duplicate_of: {}
   split_note: {}
-  relations: {}
 
-  # The estate the document is ABOUT, as slugs from reference/places.yml: the
-  # hundred Hufen are forest of Drzewce, in the lordship of Zagórów; the
-  # power of attorney and the consent cover Zagórów and Trąbczyn alike.
+  relations:
+    "1":
+      - kind: supplements
+        target: "3"
+        note: "The contract calls Triebenfeld 'durch beiliegende Vollmacht legitimiert'; the court certified this copy of the power of attorney on 21 March 1806, the day it engrossed the contract."
+    "2":
+      - kind: supplements
+        target: "3"
+        note: "Copied between the power of attorney and the contract. The consent allows the parcelling of the manor farm of Drzewce, a hundred Hufen of whose forest the contract lets."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml.
   estates:
-    "1": [drzewce, zagorowo, trabczyn]
+    "1": [zagorowo, witow, trabczyn]
+    "2": [zagorowo, trabczyn]
+    "3": [drzewce, zagorowo]
 
 damage:
   letters: []
