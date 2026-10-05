@@ -238,6 +238,8 @@
 - name: "Venice (Venedig)"
   slug: "venice-venedig"
   count: 1
+  lat: 45.43719
+  lon: 12.33459
   docs: 1
   span: "1796"
   letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/"}]

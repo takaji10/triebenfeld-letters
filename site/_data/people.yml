@@ -419,6 +419,18 @@
   bio_de: "Vermesser und Oberförster auf den südpreußischen Gütern. Er vermaß Oleśnica, wurde 1804 ausgesandt, um unter böhmischen Kolonisten in Schlesien Siedler zu werben, und prüfte später die Rechnungen in Zagórów."
   span: "1804–1812"
   letters: [{id: "118b", uid: "oe1bu9454-118b", url: "/documents/oe1bu9454/118b/", n: 1}, {id: "118c", uid: "oe1bu9454-118c", url: "/documents/oe1bu9454/118c/", n: 1}, {id: "119", uid: "oe1bu9454-119", url: "/documents/oe1bu9454/119/", n: 3}, {id: "120", uid: "oe1bu9454-120", url: "/documents/oe1bu9454/120/", n: 2}, {id: "122", uid: "oe1bu9454-122", url: "/documents/oe1bu9454/122/", n: 1}, {id: "126", uid: "oe1bu9454-126", url: "/documents/oe1bu9454/126/", n: 2}, {id: "128", uid: "oe1bu9454-128", url: "/documents/oe1bu9454/128/", n: 1}, {id: "13", uid: "oe1bu14526-13", url: "/documents/oe1bu14526/13/", n: 1}, {id: "1", uid: "ihagrrep7cnr3705-1", url: "/documents/ihagrrep7cnr3705/1/", n: 1}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 1}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 2}, {id: "58", uid: "oe1bu9454-58", url: "/documents/oe1bu9454/58/", n: 1}, {id: "59", uid: "oe1bu9454-59", url: "/documents/oe1bu9454/59/", n: 1}, {id: "63", uid: "oe1bu9454-63", url: "/documents/oe1bu9454/63/", n: 1}, {id: "69", uid: "oe1bu9454-69", url: "/documents/oe1bu9454/69/", n: 1}, {id: "70", uid: "oe1bu9454-70", url: "/documents/oe1bu9454/70/", n: 1}, {id: "206", uid: "oe1bu9454-206", url: "/documents/oe1bu9454/206/", n: 1}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/", n: 4}, {id: "214", uid: "oe1bu9454-214", url: "/documents/oe1bu9454/214/", n: 1}, {id: "218", uid: "oe1bu9454-218", url: "/documents/oe1bu9454/218/", n: 1}, {id: "223", uid: "oe1bu9454-223", url: "/documents/oe1bu9454/223/", n: 1}, {id: "17", uid: "oe1bu9454-17", url: "/documents/oe1bu9454/17/", n: 2}, {id: "233", uid: "oe1bu9454-233", url: "/documents/oe1bu9454/233/", n: 2}]
+- slug: "cattaneo"
+  name: "Count Cattaneo"
+  heading: "Cattaneo, Count"
+  heading_de: "Cattaneo, Count"
+  count: 3
+  docs: 3
+  life: "documented 1796-1818"
+  life_de: "belegt 1796-1818"
+  bio: "Count Cattaneo, the Prussian resident (envoy) at Venice. In December 1796 he reported that Antoni Prusimski had come to him ill and grieving and that he had given him a certificate that he could not travel."
+  bio_de: "Graf Cattaneo, preußischer Resident (Gesandter) in Venedig. Im Dezember 1796 berichtete er, Antoni Prusimski sei krank und in Trauer zu ihm gekommen, und er habe ihm bescheinigt, dass er nicht reisen könne."
+  span: "1796–1818"
+  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 1}]
 - slug: "chemski"
   name: "Chełmski"
   heading: "Chełmski"
@@ -479,18 +491,6 @@
   bio_de: "Medizinalrat und Testamentsvollstrecker der Fürstin Sacken. Nach einem Vergleich von 1811 verwaltete er die schlesischen Majoratsgüter Hohenlohe-Ingelfingens für die Gläubiger. Triebenfeld betrieb 1814 und 1815 in Wien seine Absetzung und nannte den Vergleich sein Machwerk; Ende 1815 unterlag er vor Gericht in erster Instanz."
   span: "1799–1815"
   letters: [{id: "107", uid: "oe1bu9454-107", url: "/documents/oe1bu9454/107/", n: 1}, {id: "137", uid: "oe1bu9454-137", url: "/documents/oe1bu9454/137/", n: 1}, {id: "45", uid: "oe1bu9454-45", url: "/documents/oe1bu9454/45/", n: 1}, {id: "62", uid: "oe1bu9454-62", url: "/documents/oe1bu9454/62/", n: 1}, {id: "74c", uid: "oe1bu9454-74c", url: "/documents/oe1bu9454/74c/", n: 1}, {id: "236", uid: "oe1bu9454-236", url: "/documents/oe1bu9454/236/", n: 2}, {id: "244", uid: "oe1bu9454-244", url: "/documents/oe1bu9454/244/", n: 1}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", n: 18}, {id: "247", uid: "oe1bu9454-247", url: "/documents/oe1bu9454/247/", n: 5}, {id: "254", uid: "oe1bu9454-254", url: "/documents/oe1bu9454/254/", n: 1}, {id: "251", uid: "oe1bu9454-251", url: "/documents/oe1bu9454/251/", n: 4}, {id: "255", uid: "oe1bu9454-255", url: "/documents/oe1bu9454/255/", n: 1}, {id: "256", uid: "oe1bu9454-256", url: "/documents/oe1bu9454/256/", n: 2}, {id: "259", uid: "oe1bu9454-259", url: "/documents/oe1bu9454/259/", n: 3}, {id: "260", uid: "oe1bu9454-260", url: "/documents/oe1bu9454/260/", n: 5}, {id: "261", uid: "oe1bu9454-261", url: "/documents/oe1bu9454/261/", n: 2}, {id: "262", uid: "oe1bu9454-262", url: "/documents/oe1bu9454/262/", n: 3}, {id: "265a", uid: "oe1bu9454-265a", url: "/documents/oe1bu9454/265a/", n: 4}, {id: "268", uid: "oe1bu9454-268", url: "/documents/oe1bu9454/268/", n: 2}, {id: "269a", uid: "oe1bu9454-269a", url: "/documents/oe1bu9454/269a/", n: 4}, {id: "1", uid: "oe1bu9454-1", url: "/documents/oe1bu9454/1/", n: 3}, {id: "269", uid: "oe1bu9454-269", url: "/documents/oe1bu9454/269/", n: 2}, {id: "3", uid: "oe1bu9454-3", url: "/documents/oe1bu9454/3/", n: 1}, {id: "270", uid: "oe1bu9454-270", url: "/documents/oe1bu9454/270/", n: 2}, {id: "2", uid: "oe1bu9454-2", url: "/documents/oe1bu9454/2/", n: 4}, {id: "1a", uid: "oe1bu9454-1a", url: "/documents/oe1bu9454/1a/", n: 2}, {id: "271", uid: "oe1bu9454-271", url: "/documents/oe1bu9454/271/", n: 4}, {id: "272", uid: "oe1bu9454-272", url: "/documents/oe1bu9454/272/", n: 1}, {id: "273", uid: "oe1bu9454-273", url: "/documents/oe1bu9454/273/", n: 1}, {id: "15", uid: "oe1bu9454-15", url: "/documents/oe1bu9454/15/", n: 1}, {id: "13", uid: "oe1bu9454-13", url: "/documents/oe1bu9454/13/", n: 1}, {id: "14", uid: "oe1bu9454-14", url: "/documents/oe1bu9454/14/", n: 2}, {id: "275", uid: "oe1bu9454-275", url: "/documents/oe1bu9454/275/", n: 1}, {id: "12", uid: "oe1bu9454-12", url: "/documents/oe1bu9454/12/", n: 1}, {id: "11", uid: "oe1bu9454-11", url: "/documents/oe1bu9454/11/", n: 1}, {id: "277", uid: "oe1bu9454-277", url: "/documents/oe1bu9454/277/", n: 1}, {id: "279", uid: "oe1bu9454-279", url: "/documents/oe1bu9454/279/", n: 1}, {id: "280", uid: "oe1bu9454-280", url: "/documents/oe1bu9454/280/", n: 4}, {id: "282", uid: "oe1bu9454-282", url: "/documents/oe1bu9454/282/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}, {id: "288", uid: "oe1bu9454-288", url: "/documents/oe1bu9454/288/", n: 2}, {id: "289", uid: "oe1bu9454-289", url: "/documents/oe1bu9454/289/", n: 3}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 4}, {id: "290", uid: "oe1bu9454-290", url: "/documents/oe1bu9454/290/", n: 2}, {id: "291", uid: "oe1bu9454-291", url: "/documents/oe1bu9454/291/", n: 1}, {id: "292", uid: "oe1bu9454-292", url: "/documents/oe1bu9454/292/", n: 11}, {id: "296", uid: "oe1bu9454-296", url: "/documents/oe1bu9454/296/", n: 1}, {id: "297", uid: "oe1bu9454-297", url: "/documents/oe1bu9454/297/", n: 2}]
-- slug: "cattaneo"
-  name: "Count Cattaneo"
-  heading: "Count Cattaneo"
-  heading_de: "Count Cattaneo"
-  count: 3
-  docs: 3
-  life: "documented 1796-1818"
-  life_de: "belegt 1796-1818"
-  bio: "Count Cattaneo, the Prussian resident (envoy) at Venice. In December 1796 he reported that Antoni Prusimski had come to him ill and grieving and that he had given him a certificate that he could not travel."
-  bio_de: "Graf Cattaneo, preußischer Resident (Gesandter) in Venedig. Im Dezember 1796 berichtete er, Antoni Prusimski sei krank und in Trauer zu ihm gekommen, und er habe ihm bescheinigt, dass er nicht reisen könne."
-  span: "1796–1818"
-  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 1}]
 - slug: "dabrowski"
   name: "Dąbrowski"
   heading: "Dąbrowski"
@@ -719,18 +719,6 @@
   bio_de: "Ein Pächter auf den Gütern von Zagórów, gegen den und dessen Mitpächter Triebenfeld 1804 ein Zahlungsdekret erwirkte."
   span: "1804–1806"
   letters: [{id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/", n: 2}, {id: "164", uid: "oe1bu9454-164", url: "/documents/oe1bu9454/164/", n: 1}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 1}]
-- slug: "schroetter"
-  name: "Friedrich Leopold von Schroetter"
-  heading: "Friedrich Leopold von Schroetter"
-  heading_de: "Friedrich Leopold von Schroetter"
-  count: 3
-  docs: 3
-  life: "1743-1815"
-  life_de: "1743-1815"
-  bio: "Friedrich Leopold Baron von Schroetter, Prussian minister for East Prussia and for New East Prussia, the northern part of Prussia's share of Poland. In 1797 he passed the news of Prusimski at Venice on to Hoym, not knowing in which province Prusimski's estates lay."
-  bio_de: "Friedrich Leopold Freiherr von Schroetter, preußischer Minister für Ostpreußen und für Neuostpreußen, den nördlichen Teil des preußischen Anteils an Polen. 1797 gab er die Nachricht über Prusimski in Venedig an Hoym weiter, da er nicht wusste, in welcher Provinz Prusimskis Güter lagen."
-  span: "1796–1797"
-  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}]
 - slug: "friedrich-wilhelm-ii"
   name: "Friedrich Wilhelm II, King of Prussia"
   heading: "Friedrich Wilhelm II, King of Prussia"
@@ -1039,8 +1027,8 @@
   docs: 6
   life: "1752-1832"
   life_de: "1752-1832"
-  bio: "Count Christian von Haugwitz, Prussian foreign minister until 1806. Triebenfeld mentions him among the ministers in Berlin."
-  bio_de: "Graf Christian von Haugwitz, preußischer Außenminister bis 1806. Triebenfeld erwähnt ihn unter den Ministern in Berlin."
+  bio: "Count Christian von Haugwitz, Prussian foreign minister until 1806. He signed the letter of January 1797 by which the department of foreign affairs told the other ministers that Antoni Prusimski was at Venice. Triebenfeld mentions him among the ministers in Berlin."
+  bio_de: "Graf Christian von Haugwitz, preußischer Außenminister bis 1806. Er unterzeichnete das Schreiben vom Januar 1797, mit dem das Departement der auswärtigen Angelegenheiten den anderen Ministern mitteilte, dass Antoni Prusimski in Venedig war. Triebenfeld erwähnt ihn unter den Ministern in Berlin."
   span: "1797–1806"
   letters: [{id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 2}, {id: "79", uid: "oe1bu9454-79", url: "/documents/oe1bu9454/79/", n: 2}, {id: "98", uid: "oe1bu9454-98", url: "/documents/oe1bu9454/98/", n: 1}, {id: "133", uid: "oe1bu9454-133", url: "/documents/oe1bu9454/133/", n: 1}, {id: "182", uid: "oe1bu9454-182", url: "/documents/oe1bu9454/182/", n: 3}]
 - slug: "hawich"
@@ -1343,18 +1331,6 @@
   bio_de: "Aktuar des von Stillfriedschen Patrimonialgerichts in Górzyce (Guhrwitz) bei Wrocław (Breslau), das die 1805 Triebenfeld erteilte Generalvollmacht beglaubigte."
   span: "1805–1806"
   letters: [{id: "1", uid: "app539680801-1", url: "/documents/app539680801/1/", n: 1}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/", n: 1}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", n: 1}]
-- slug: "raumer"
-  name: "Karl Georg von Raumer"
-  heading: "Karl Georg von Raumer"
-  heading_de: "Karl Georg von Raumer"
-  count: 3
-  docs: 2
-  life: "documented 1796-1797"
-  life_de: "belegt 1796-1797"
-  bio: "A councillor of the Prussian department of foreign affairs, who in 1797 handled the report about Prusimski at Venice and signed the directions on it. Probably Karl Georg von Raumer (1753-1833)."
-  bio_de: "Rat im preußischen Departement der auswärtigen Angelegenheiten, der 1797 den Bericht über Prusimski in Venedig bearbeitete und die Verfügungen darauf unterzeichnete. Wahrscheinlich Karl Georg von Raumer (1753-1833)."
-  span: "1796–1797"
-  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 2}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}]
 - slug: "kielczewski"
   name: "Kiełczewski"
   heading: "Kiełczewski"
@@ -1607,6 +1583,18 @@
   bio_de: "Die Brüder Lichnowski, Gläubiger mit 42.000 Rthl, die auf Trąbczyn eingetragen waren. 1804 forderte einer von ihnen rückständige Zinsen und drohte, die Sequestration zu beantragen. 1827 ließ das Ziviltribunal in Kalisz (Kalisch) ihre Hypothek auf Klage der Michalina Miączyńska löschen; das Urteil nennt sie Karl Franz und Maximilian Jaroslaw, Erben des Karl Heinrich Lichnowski."
   span: "1804–1830"
   letters: [{id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/", n: 2}, {id: "150", uid: "oe1bu9454-150", url: "/documents/oe1bu9454/150/", n: 1}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/", n: 2}, {id: "154", uid: "oe1bu9454-154", url: "/documents/oe1bu9454/154/", n: 1}, {id: "162", uid: "oe1bu9454-162", url: "/documents/oe1bu9454/162/", n: 1}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/", n: 1}, {id: "164", uid: "oe1bu9454-164", url: "/documents/oe1bu9454/164/", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "174", uid: "oe1bu9454-174", url: "/documents/oe1bu9454/174/", n: 1}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/", n: 1}, {id: "187", uid: "oe1bu9454-187", url: "/documents/oe1bu9454/187/", n: 2}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 1}, {id: "192", uid: "oe1bu9454-192", url: "/documents/oe1bu9454/192/", n: 1}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/", n: 1}, {id: "41", uid: "oe1bu9454-41", url: "/documents/oe1bu9454/41/", n: 2}, {id: "201", uid: "oe1bu9454-201", url: "/documents/oe1bu9454/201/", n: 1}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/", n: 1}, {id: "284", uid: "oe1bu9454-284", url: "/documents/oe1bu9454/284/", n: 2}, {id: "285", uid: "oe1bu9454-285", url: "/documents/oe1bu9454/285/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 2}, {id: "6", uid: "iiihamdaiiinr12366-6", url: "/documents/iiihamdaiiinr12366/6/", n: 3}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
+- slug: "lichnowski-kalisz"
+  name: "Regierungsrath von Lichnowski"
+  heading: "Lichnowski, von (councillor at Kalisz)"
+  heading_de: "Lichnowski, von (Regierungsrat in Kalisch)"
+  count: 2
+  docs: 1
+  life: "documented 1805"
+  life_de: "belegt 1805"
+  bio: "A councillor of the South Prussian Government, the provincial court at Kalisz, who in February 1805 vouched for Triebenfeld's identity when he acknowledged his bond to the Invalids' Fund. Whether he was one of the Lichnowski brothers who were creditors of the estates is not known."
+  bio_de: "Rat der Südpreußischen Regierung, des Provinzialgerichts in Kalisch, der im Februar 1805 Triebenfelds Identität bezeugte, als dieser seine Schuldverschreibung an die Invalidenkasse anerkannte. Ob er einer der Brüder Lichnowski war, die Gläubiger der Güter waren, ist nicht bekannt."
+  span: "1805"
+  letters: [{id: "2", uid: "iharep162nr295-2", url: "/documents/iharep162nr295/2/", n: 2}]
 - slug: "lipski"
   name: "Lipski"
   heading: "Lipski"
@@ -2216,6 +2204,18 @@
   bio_de: "Ein polnischer Bevollmächtigter oder Anwalt, der zwischen 1799 und 1806 in den Streitigkeiten mit Broniewski und der Prusimska Urkunden und Beweise beibrachte."
   span: "1799–1806"
   letters: [{id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "119", uid: "oe1bu9454-119", url: "/documents/oe1bu9454/119/", n: 1}, {id: "9", uid: "oe1bu14526-9", url: "/documents/oe1bu14526/9/", n: 2}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 1}]
+- slug: "raumer"
+  name: "Karl Georg von Raumer"
+  heading: "Raumer, Karl Georg von"
+  heading_de: "Raumer, Karl Georg von"
+  count: 3
+  docs: 2
+  life: "documented 1796-1797"
+  life_de: "belegt 1796-1797"
+  bio: "A councillor of the Prussian department of foreign affairs, who in 1797 handled the report about Prusimski at Venice and signed the directions on it. Probably Karl Georg von Raumer (1753-1833)."
+  bio_de: "Rat im preußischen Departement der auswärtigen Angelegenheiten, der 1797 den Bericht über Prusimski in Venedig bearbeitete und die Verfügungen darauf unterzeichnete. Wahrscheinlich Karl Georg von Raumer (1753-1833)."
+  span: "1796–1797"
+  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 2}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}]
 - slug: "von-der-reck"
   name: "Freiherr von der Reck"
   heading: "Reck, Eberhard von der"
@@ -2228,18 +2228,6 @@
   bio_de: "Eberhard von der Reck, preußischer Justizminister, dem Hoym die Verleihungen von 1796 zur Ausfertigung zusandte. Im Januar 1802 wurde ihm Michalina Prusimskas Bittschrift an den König zur Beschleunigung ihrer Appellation zugeleitet; er ließ ihr mitteilen, das Appellationsurteil sei zur Verkündung zurückgesandt."
   span: "1796–1802"
   letters: [{id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 1}, {id: "15", uid: "ihagrrep7cnr3709-15", url: "/documents/ihagrrep7cnr3709/15/", n: 1}]
-- slug: "lichnowski-kalisz"
-  name: "Regierungsrath von Lichnowski"
-  heading: "Regierungsrath von Lichnowski"
-  heading_de: "Regierungsrath von Lichnowski"
-  count: 2
-  docs: 1
-  life: "documented 1805"
-  life_de: "belegt 1805"
-  bio: "A councillor of the South Prussian Government, the provincial court at Kalisz, who in February 1805 vouched for Triebenfeld's identity when he acknowledged his bond to the Invalids' Fund. Whether he was one of the Lichnowski brothers who were creditors of the estates is not known."
-  bio_de: "Rat der Südpreußischen Regierung, des Provinzialgerichts in Kalisch, der im Februar 1805 Triebenfelds Identität bezeugte, als dieser seine Schuldverschreibung an die Invalidenkasse anerkannte. Ob er einer der Brüder Lichnowski war, die Gläubiger der Güter waren, ist nicht bekannt."
-  span: "1805"
-  letters: [{id: "2", uid: "iharep162nr295-2", url: "/documents/iharep162nr295/2/", n: 2}]
 - slug: "reinbeck"
   name: "Reinbeck"
   heading: "Reinbeck"
@@ -2504,6 +2492,18 @@
   bio_de: "Ein Rat, einmal in einem Brief aus Wien von 1815 genannt."
   span: "1815"
   letters: [{id: "3", uid: "oe1bu9454-3", url: "/documents/oe1bu9454/3/", n: 1}]
+- slug: "schroetter"
+  name: "Friedrich Leopold von Schroetter"
+  heading: "Schroetter, Friedrich Leopold von"
+  heading_de: "Schroetter, Friedrich Leopold von"
+  count: 3
+  docs: 3
+  life: "1743-1815"
+  life_de: "1743-1815"
+  bio: "Friedrich Leopold Baron von Schroetter, Prussian minister for East Prussia and for New East Prussia, the northern part of Prussia's share of Poland. In 1797 he passed the news of Prusimski at Venice on to Hoym, not knowing in which province Prusimski's estates lay."
+  bio_de: "Friedrich Leopold Freiherr von Schroetter, preußischer Minister für Ostpreußen und für Neuostpreußen, den nördlichen Teil des preußischen Anteils an Polen. 1797 gab er die Nachricht über Prusimski in Venedig an Hoym weiter, da er nicht wusste, in welcher Provinz Prusimskis Güter lagen."
+  span: "1796–1797"
+  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}]
 - slug: "schuckmann"
   name: "Schuckmann"
   heading: "Schuckmann, Friedrich von"

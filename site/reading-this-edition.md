@@ -32,7 +32,7 @@ The holding a document comes from is part of its citation and part of its addres
 
 Most of the text is German, transcribed from the original handwriting, which is
 *Kurrentschrift*, the German cursive hand of the period, difficult to read and easy to
-misread. Twenty-one documents are in French and nine in Polish, and some of the German
+misread. Twenty-two documents are in French and nine in Polish, and some of the German
 deeds carry passages in Polish and Latin. All of it is source text, translated from its own
 language rather than treated as corrupt German.
 
@@ -159,7 +159,7 @@ where they are not part of the text.
 | `(missing)` / `(skipped)` | The archival number exists but no text survives under it. |
 | `ſ` | The long s, as written in the original. |
 
-There are **609** marks of doubt across the corpus, in 233 documents: 391 `[?]`, 113
+There are **610** marks of doubt across the corpus, in 234 documents: 391 `[?]`, 114
 guesses offered as `[word?]` and 105 gaps. They stay visible in the text of every document
 that has them rather than being smoothed over, and they await checking against the
 originals.

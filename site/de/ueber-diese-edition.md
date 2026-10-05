@@ -34,7 +34,7 @@ seiner Adresse.
 
 Der größte Teil des Textes ist deutsch, transkribiert nach den Originalhandschriften in
 *Kurrentschrift*, der deutschen Schreibschrift der Zeit, schwer zu lesen und leicht falsch
-zu lesen. Einundzwanzig Dokumente sind französisch und neun polnisch, und einige deutsche
+zu lesen. Zweiundzwanzig Dokumente sind französisch und neun polnisch, und einige deutsche
 Urkunden enthalten Stellen in polnischer und lateinischer Sprache. All das ist Quellentext
 und wird aus seiner eigenen Sprache übersetzt, nicht als verderbtes Deutsch behandelt.
 
@@ -173,7 +173,7 @@ sie nicht zum Text gehören.
 | `(missing)` / `(skipped)` | Die Archivnummer besteht, doch unter ihr ist kein Text überliefert. |
 | `ſ` | Das lange s, wie im Original geschrieben. |
 
-Im Korpus stehen **609** Zweifelszeichen in 233 Dokumenten: 391 `[?]`, 113 als `[word?]`
+Im Korpus stehen **610** Zweifelszeichen in 234 Dokumenten: 391 `[?]`, 114 als `[word?]`
 angebotene Vermutungen und 105 Lücken. Sie bleiben im Text jedes betroffenen Dokuments
 sichtbar, statt geglättet zu werden, und sind noch an den Originalen zu prüfen.
 

@@ -706,6 +706,8 @@
 - slug: "venedig"
   name: "Venice (Venedig)"
   count: 7
+  lat: 45.43719
+  lon: 12.33459
   docs: 4
   span: "1796–1818"
   letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 2}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 3}]
