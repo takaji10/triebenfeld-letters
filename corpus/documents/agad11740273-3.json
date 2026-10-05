@@ -188,7 +188,96 @@
    "doc_line": 11
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlo[h]e",
+   "surface_en": "Hohenlo[h]e",
+   "page": 1
+  },
+  {
+   "entity": "bischoffwerder",
+   "display": "Bischoffwerder",
+   "kind": "person",
+   "surface_de": "Bischoffswerder",
+   "surface_en": "Bischoffwerder",
+   "page": 1
+  },
+  {
+   "entity": "sanitz",
+   "display": "von Sanitz",
+   "kind": "person",
+   "surface_de": "Zanitz",
+   "surface_en": "Zanitz",
+   "page": 1
+  },
+  {
+   "entity": "wybicki",
+   "display": "Wybicki",
+   "kind": "person",
+   "surface_de": "Wybicki",
+   "surface_en": "Wybicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Micheline Dambska, née Prusimska",
+   "kind": "person",
+   "surface_de": "Micheline Dambska née Prusimska",
+   "surface_en": "Micheline Dambska, née Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dresde",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreznie",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince Director of War",
+   "kind": "person",
+   "surface_de": "W. X[ię]cia Dyrektora Woyny",
+   "surface_en": "the Prince Director of War",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "St[anisław] Mał[achowski]",
+   "kind": "person",
+   "surface_de": "St[anisław] Mał[achowski]",
+   "surface_en": "St[anisław] Mał[achowski]",
+   "page": 1
+  },
+  {
+   "entity": "malachowski",
+   "display": "Małachowski",
+   "kind": "person",
+   "surface_de": "Małachowskiemu",
+   "surface_en": "Małachowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreznie",
+   "surface_en": "Dresden",
+   "page": 2
+  }
+ ],
  "place_canonical": "Dresden",
  "place_mentions": [
   {
@@ -225,9 +314,83 @@
    "doc_line": 11
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Sire!\n\nI have already taken the very humble Liberty of having the statement of my complaints and my hopes presented to Your Imperial and Royal Majesty through the Polish Government; but having so far received no news of the Decree that would reinstate me in the Lands which were confiscated for the benefit of the Prussian Generals Prince Hohenlo[h]e, Bischoffwerder and Zanitz, and being persuaded, nevertheless, that the same Justice which pronounced in the cause of Count Wybicki, reinstating him in his possessions, will be rendered to me by the Greatest and most Magnanimous of Monarchs, I dare to Beseech Your Imperial and Royal Majesty not to refuse it to me.\n\nI am, with the most profound respect,\n\nSire,\n\nYour Imperial and Royal Majesty's\n\nmost humble and most submissive\n\nMicheline Dambska, née Prusimska.\n\nDresden, 21 July 1807.\n\n[Written by the receiving office:]\n\nPresented 21 July 1807 at the Extraordinary Session at Dresden by the Prince Director of War, by order of the Most Serene Emperor and King\n\nSt[anisław] Mał[achowski]",
+   "names": [
+    {
+     "de": "Hohenlo[h]e",
+     "en": "Hohenlo[h]e",
+     "kind": "person"
+    },
+    {
+     "de": "Bischoffswerder",
+     "en": "Bischoffwerder",
+     "kind": "person"
+    },
+    {
+     "de": "Zanitz",
+     "en": "Zanitz",
+     "kind": "person"
+    },
+    {
+     "de": "Wybicki",
+     "en": "Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Micheline Dambska née Prusimska",
+     "en": "Micheline Dambska, née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Dresde",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Dreznie",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "W. X[ię]cia Dyrektora Woyny",
+     "en": "the Prince Director of War",
+     "kind": "person"
+    },
+    {
+     "de": "St[anisław] Mał[achowski]",
+     "en": "St[anisław] Mał[achowski]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21",
+    "1807",
+    "21",
+    "1807"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "To the Most Illustrious Mr Małachowski, President of the Governing Commission, Knight of the Polish Orders — To the Most Illustrious Sir, my Benefactor, at Dresden",
+   "names": [
+    {
+     "de": "Małachowskiemu",
+     "en": "Małachowski",
+     "kind": "person"
+    },
+    {
+     "de": "Dreznie",
+     "en": "Dresden",
+     "kind": "place"
+    }
+   ]
+  }
+ ],
+ "text_english": "Sire!\n\nI have already taken the very humble Liberty of having the statement of my complaints and my hopes presented to Your Imperial and Royal Majesty through the Polish Government; but having so far received no news of the Decree that would reinstate me in the Lands which were confiscated for the benefit of the Prussian Generals Prince Hohenlo[h]e, Bischoffwerder and Zanitz, and being persuaded, nevertheless, that the same Justice which pronounced in the cause of Count Wybicki, reinstating him in his possessions, will be rendered to me by the Greatest and most Magnanimous of Monarchs, I dare to Beseech Your Imperial and Royal Majesty not to refuse it to me.\n\nI am, with the most profound respect,\n\nSire,\n\nYour Imperial and Royal Majesty's\n\nmost humble and most submissive\n\nMicheline Dambska, née Prusimska.\n\nDresden, 21 July 1807.\n\n[Written by the receiving office:]\n\nPresented 21 July 1807 at the Extraordinary Session at Dresden by the Prince Director of War, by order of the Most Serene Emperor and King\n\nSt[anisław] Mał[achowski]\n\nTo the Most Illustrious Mr Małachowski, President of the Governing Commission, Knight of the Polish Orders — To the Most Illustrious Sir, my Benefactor, at Dresden",
  "summary_en": "Michalina Dąbska, born Prusimska, petitions the Emperor Napoleon at Dresden, in French. She has already had her complaints and hopes laid before him through the Polish government, but has so far heard nothing of a decree restoring her to the estates that were confiscated for the benefit of the Prussian generals Prince Hohenlohe, Bischoffswerder and Sanitz. She is persuaded that the same justice that restored Count Wybicki to his possessions will be done to her, and begs the Emperor not to refuse it. By the commission's note the petition was presented on 21 July 1807, at an extraordinary session at Dresden, by the Prince Director of War, on the Emperor's order; the note carries the paraph of the president, Małachowski, to whom the leaf is addressed on the back.",
  "summary_de": "Michalina Dąbska, geborene Prusimska, bittet in Dresden den Kaiser Napoleon auf Französisch. Sie habe ihm ihre Beschwerden und Hoffnungen schon über die polnische Regierung vorlegen lassen, bisher aber nichts von einem Dekret erfahren, das sie wieder in die Güter einsetzt, die zugunsten der preußischen Generale Fürst Hohenlohe, Bischoffswerder und Sanitz konfisziert wurden. Sie sei überzeugt, dass ihr dieselbe Gerechtigkeit zuteilwerde, die den Grafen Wybicki in seine Besitzungen wieder eingesetzt hat, und bittet den Kaiser, sie ihr nicht zu verweigern. Nach dem Vermerk der Kommission wurde die Bittschrift am 21. Juli 1807 in einer außerordentlichen Sitzung in Dresden vom Fürsten, dem Kriegsdirektor, auf Befehl des Kaisers vorgelegt; der Vermerk trägt die Paraphe des Präsidenten Małachowski, an den das Blatt auf der Rückseite adressiert ist.",
  "reading": {}

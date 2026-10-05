@@ -1,0 +1,63 @@
+status: draft
+segments:
+- page: 1
+  en: 'Warsaw, 1/13 March 1832 No. 2216
+
+
+    Sir [Schmidt]!
+
+
+    Referring to the communication which I had the honour to address to you on 31 January/12 February
+    last, No. 1871, I hasten to inform you that it is Mr Joseph Lubowidzki, Councillor of State, President
+    of the Bank of Poland, who has just been charged, by order of His Majesty the Emperor and King my
+    Master, with putting into execution the stipulations of the Convention of 17/29 May 1830, and that
+    he has received the necessary instructions in this regard.
+
+
+    I have every reason to hope that this new Commissioner, who is likewise authorised to smooth out the
+    questions that derive from the claim raised by the Banker Weigel, will know how to justify the confidence
+    of His Imperial and Royal Majesty, by striving to note, in so far as it depends on him, the adjustment
+    of all the points which need to be definitively settled between the Government of Poland and that
+    of His Majesty the King of Prussia.
+
+
+    Pray accept, Sir, the eager expression of my most distinguished consideration.
+
+
+    signed Engel.'
+  names:
+  - de: Varsovie
+    en: Warsaw
+    kind: place
+  - de: '[Schmidt]'
+    en: '[Schmidt]'
+    kind: person
+  - de: Joseph Lubowidzki
+    en: Joseph Lubowidzki
+    kind: person
+  - de: Banque de Pologne
+    en: Bank of Poland
+    kind: other
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: Pologne
+    en: Poland
+    kind: place
+  - de: Prusse
+    en: Prussia
+    kind: place
+  - de: Engel
+    en: Engel
+    kind: person
+  numbers:
+  - '1'
+  - '13'
+  - '1832'
+  - '2216'
+  - '31'
+  - '12'
+  - '1871'
+  - '17'
+  - '29'
+  - '1830'

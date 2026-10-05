@@ -28,7 +28,10 @@ archive_title: >-
   Akta Komisji Rządzącej pod bytność jej w Dreźnie
 # The four pieces are dated 20 to 23 July 1807.
 date_span: "1807"
-status: transcribed        # draft | transcribed | translated | published
+status: translated        # draft | transcribed | translated | published
+# Translated in session on 2026-10-05 into the untagged cache
+# (cache/translation-raw), as Nr. 12366 was: see notes.md.
+published_tag: ""
 
 # Which era this holding belongs to - reference/eras.yml. Placed with the
 # Hohenlohe-Ingelfingen years for now, as the act that ended his possession;

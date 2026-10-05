@@ -20,7 +20,7 @@
  "place": "Warschau",
  "sender": "Mohrenheim",
  "recipient": "Schmidt",
- "line_start": 21,
+ "line_start": 22,
  "line_end": 34,
  "uncertainty_count": 0,
  "has_damage": 0,
@@ -32,33 +32,13 @@
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 11,
- "n_pages": 3,
- "text": "Mardi.\nVarsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\nà la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
- "text_reading": "Mardi.\n\nVarsovie le 8/20 février 1830\n\nRoyaume de Pologne\n\nAffaires Etrangères\n\nNro. 85\n\nMonsieur,\n\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\n\nà la décision de l’Assemblée générale du Conseil d’Etat.\n\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\n\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\n\nMohrenheim",
+ "n_lines": 10,
+ "n_pages": 2,
+ "text": "Varsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\nà la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
+ "text_reading": "Varsovie le 8/20 février 1830\n\nRoyaume de Pologne\n\nAffaires Etrangères\n\nNro. 85\n\nMonsieur,\n\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\n\nà la décision de l’Assemblée générale du Conseil d’Etat.\n\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\n\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\n\nMohrenheim",
  "pages": [
   {
    "page": 1,
-   "page_id": "",
-   "line_start": 22,
-   "line_end": 22,
-   "n_lines": 1,
-   "diplomatic": "Mardi.",
-   "transcription": "Mardi.",
-   "reading": "Mardi.",
-   "paragraphs": [
-    "Mardi."
-   ],
-   "sideways_lines": [],
-   "sideways_paragraphs": [],
-   "continues_previous": false,
-   "continues_next": true,
-   "scan": "",
-   "doc_line_start": 1,
-   "doc_line_end": 1
-  },
-  {
-   "page": 2,
    "page_id": "0005_a",
    "line_start": 24,
    "line_end": 29,
@@ -76,15 +56,15 @@
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
-   "continues_previous": true,
+   "continues_previous": false,
    "continues_next": true,
-   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
-   "doc_line_start": 2,
-   "doc_line_end": 7,
+   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 6,
    "by_paragraph": true
   },
   {
-   "page": 3,
+   "page": 2,
    "page_id": "0006_a",
    "line_start": 31,
    "line_end": 34,
@@ -102,9 +82,9 @@
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg",
-   "doc_line_start": 8,
-   "doc_line_end": 11,
+   "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg",
+   "doc_line_start": 7,
+   "doc_line_end": 10,
    "by_paragraph": true
   }
  ],
@@ -114,47 +94,96 @@
    "display": "Grand Duke Constantin",
    "kind": "person",
    "surface": "Césarévitch",
-   "page": 2,
+   "page": 1,
    "page_id": "0005_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
    "line": 29,
-   "doc_line": 7
+   "doc_line": 6
   },
   {
    "entity": "eisenhardt",
    "display": "Eisenhardt",
    "kind": "person",
    "surface": "Eisenhardt",
-   "page": 2,
+   "page": 1,
    "page_id": "0005_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
    "line": 29,
-   "doc_line": 7
+   "doc_line": 6
   },
   {
    "entity": "weigel",
    "display": "Weigel",
    "kind": "person",
    "surface": "Weigel",
-   "page": 2,
+   "page": 1,
    "page_id": "0005_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
    "line": 29,
-   "doc_line": 7
+   "doc_line": 6
   },
   {
    "entity": "mohrenheim",
    "display": "Mohrenheim",
    "kind": "person",
    "surface": "Mohrenheim",
-   "page": 3,
+   "page": 2,
    "page_id": "0006_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg",
    "line": 34,
-   "doc_line": 11
+   "doc_line": 10
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kingdom of Poland",
+   "kind": "place",
+   "surface_de": "Royaume de Pologne",
+   "surface_en": "Kingdom of Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Grand Duke Cesarevich",
+   "kind": "person",
+   "surface_de": "le Grand-Duc Césarévitch",
+   "surface_en": "the Grand Duke Cesarevich",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "eisenhardt",
+   "display": "Eisenhardt",
+   "kind": "person",
+   "surface_de": "Eisenhardt",
+   "surface_en": "Eisenhardt",
+   "page": 1
+  },
+  {
+   "entity": "mohrenheim",
+   "display": "Mohrenheim",
+   "kind": "person",
+   "surface_de": "Mohrenheim",
+   "surface_en": "Mohrenheim",
+   "page": 2
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -162,16 +191,68 @@
    "display": "Warszawa (Warschau)",
    "kind": "place",
    "surface": "Varsovie",
-   "page": 2,
+   "page": 1,
    "page_id": "0005_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
    "line": 24,
-   "doc_line": 2
+   "doc_line": 1
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Warsaw, 8/20 February 1830\n\nKingdom of Poland\n\nForeign Affairs\n\nNo. 85\n\nSir,\n\nI have not failed to lay before His Highness the Grand Duke Cesarevich the communication which you addressed to me, Sir, dated the 6/18 of this month, under No. 352, and I have accordingly the honour to inform you that the Administrative Council reported to His Imperial Highness in the month of August last that it had been recognised that the competence of the Tribunals which gave judgment in the affair of the bankers Weigel and Eisenhardt could be called in question, since the case concerned could by its nature be resolved only by the diplomatic path; that the Council had consequently authorised the Commission of Finances and the Treasury to declare a conflict of jurisdiction and to bring it",
+   "names": [
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Royaume de Pologne",
+     "en": "Kingdom of Poland",
+     "kind": "place"
+    },
+    {
+     "de": "le Grand-Duc Césarévitch",
+     "en": "the Grand Duke Cesarevich",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Eisenhardt",
+     "en": "Eisenhardt",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "8",
+    "20",
+    "1830",
+    "85",
+    "6",
+    "18",
+    "352"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "before the General Assembly of the Council of State for decision.\n\nHis Highness, having received no further communication since, has just called upon the Council to have the conclusion of this affair hastened.\n\nAccept, Sir, the assurance of my most distinguished consideration.\n\nMohrenheim",
+   "names": [
+    {
+     "de": "Mohrenheim",
+     "en": "Mohrenheim",
+     "kind": "person"
+    }
+   ]
+  }
+ ],
+ "text_english": "Warsaw, 8/20 February 1830\n\nKingdom of Poland\n\nForeign Affairs\n\nNo. 85\n\nSir,\n\nI have not failed to lay before His Highness the Grand Duke Cesarevich the communication which you addressed to me, Sir, dated the 6/18 of this month, under No. 352, and I have accordingly the honour to inform you that the Administrative Council reported to His Imperial Highness in the month of August last that it had been recognised that the competence of the Tribunals which gave judgment in the affair of the bankers Weigel and Eisenhardt could be called in question, since the case concerned could by its nature be resolved only by the diplomatic path; that the Council had consequently authorised the Commission of Finances and the Treasury to declare a conflict of jurisdiction and to bring it\n\nbefore the General Assembly of the Council of State for decision.\n\nHis Highness, having received no further communication since, has just called upon the Council to have the conclusion of this affair hastened.\n\nAccept, Sir, the assurance of my most distinguished consideration.\n\nMohrenheim",
  "summary_en": "Mohrenheim tells Schmidt that he has laid his note of 18 February (no. 352) before Grand Duke Constantine. The Administrative Council reported to the Grand Duke in August of the previous year that the competence of the courts which had ruled in the case of the bankers Weigel and Eisenhardt was recognised as open to question, because by its nature the case could be resolved only by diplomatic means. The Council therefore authorised the Commission of Finance and Treasury to declare a conflict of jurisdiction and to bring it before the general assembly of the Council of State for decision. Having heard nothing further since, the Grand Duke has asked the Council to hasten the conclusion of the matter.",
  "summary_de": "Mohrenheim teilt Schmidt mit, er habe dessen Schreiben vom 18. Februar (Nr. 352) dem Großfürsten Konstantin vorgelegt. Der Administrationsrat habe dem Großfürsten im August des Vorjahres berichtet, es sei anerkannt worden, dass die Zuständigkeit der Gerichte, die in der Sache der Bankiers Weigel und Eisenhardt geurteilt haben, in Frage gestellt werden könne, weil der Fall seiner Natur nach nur auf diplomatischem Weg zu lösen sei. Der Rat habe deshalb die Kommission der Finanzen und des Schatzes ermächtigt, einen Zuständigkeitskonflikt zu erklären und ihn der Generalversammlung des Staatsrats zur Entscheidung vorzulegen. Da der Großfürst seither keine weitere Mitteilung erhalten hat, hat er den Rat aufgefordert, den Abschluss der Sache zu beschleunigen.",
  "reading": {}

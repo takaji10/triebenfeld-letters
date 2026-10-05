@@ -1,0 +1,58 @@
+status: draft
+segments:
+- page: 1
+  en: 'Kingdom of Poland. Warsaw, 26 January / 7 February 1828.
+
+
+    Foreign Affairs.
+
+
+    No. 85.
+
+
+    Sir,
+
+
+    In reply to your communication dated 25 January / 6 February, under No. 275, I have the honour to
+    inform you, Sir, that I am not losing sight of the Weigel affair, and that I reserve it to myself,
+    on the return of His Highness the Grand Duke Cesarevich, to let you know whatever may have been settled
+    in that respect.
+
+
+    Accept, Sir, the assurance of my most distinguished consideration.
+
+
+    B[ar]on d[e] Mohrenheim
+
+
+    To Mr Schmidt, Consul General of Prussia.'
+  names:
+  - de: Royaume de Pologne
+    en: Kingdom of Poland
+    kind: place
+  - de: Varsovie
+    en: Warsaw
+    kind: place
+  - de: Weigel
+    en: Weigel
+    kind: person
+  - de: le Grand Duc Césarévitch
+    en: the Grand Duke Cesarevich
+    kind: person
+  - de: Le B[ar]on d[e] Mohrenheim
+    en: B[ar]on d[e] Mohrenheim
+    kind: person
+  - de: Schmidt
+    en: Schmidt
+    kind: person
+  - de: Prusse
+    en: Prussia
+    kind: place
+  numbers:
+  - '26'
+  - '7'
+  - '1828'
+  - '85'
+  - '25'
+  - '6'
+  - '275'

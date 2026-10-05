@@ -1543,6 +1543,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   summaries have not had the claim check. See `units/agad11740273/notes.md` and
   `units/agad1174016/notes.md`.
 
+- **Nr. 12367 and the two AGAD holdings translated and their summaries checked** (editor,
+  2026-10-05). The seventeen documents of III. HA MdA, III. Nr. 12367 (eleven), AGAD
+  1/174/0/2/73 (four) and AGAD 1/174/0/1/6 (two) translated into English in session under the
+  rules translate.py gives its translator, each from its own language (French, Polish, and
+  Weigel's German reckoning), written to the translation cache as translate.py writes it,
+  checked by check_translations.py (one deliberate row: Polish florins for "fl." in a Polish
+  church capital) and uncanonical_names.py (nothing), and published. The pages are kept in
+  each unit's `intake/translation/`. The seventeen summaries claim-checked against the documents, as
+  read_letters.py --verify checks: 119 statements, one overstated (Nr. 12367, document 6: the
+  German said the finance minister had the estates valued on the spot; he only ordered it),
+  weakened in the German summary and on the German holding page. Before translating, a fault
+  in Nr. 12367 was put right: the dateline "Mardi." of Mohrenheim's note (document 3) stood
+  under the next document's marker, so document 4 had an empty first page; the marker, the
+  scan map and the two web images' labels are corrected (the edition now has 1529 manuscript
+  pages). Glossary candidates "JW." and "mars" ruled out. The three holdings are marked
+  translated.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

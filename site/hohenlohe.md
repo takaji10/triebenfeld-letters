@@ -452,7 +452,7 @@ Prussian ministry took no further step and passed the matter to the Minister of 
 
 The debts that Hohenlohe-Ingelfingen had secured on Trąbczyn outlasted him. In January 1819
 Prusimski's daughter, by then Countess Miączyńska, asked Prussia through the Russian envoy to
-pay them off: 156,000 écus on Trąbczyn and Szetlewek by her count
+pay them off: 156,000 Reichsthaler on Trąbczyn and Szetlewek by her count
 ([report]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). The Prussian ministry refused in May
 ([draft reply]({{ '/documents/iiihamdaiiinr12366/3/' | relative_url }})). The Polish courts then held that the
 return of the estates in 1807 had cancelled the debts raised on them in the years between. The

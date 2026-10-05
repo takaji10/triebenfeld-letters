@@ -112,7 +112,32 @@
    "doc_line": 4
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "wybicki",
+   "display": "Wybicki",
+   "kind": "person",
+   "surface_de": "Wybickiego",
+   "surface_en": "Wybicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina Dambska, née Prusimska",
+   "kind": "person",
+   "surface_de": "Michalina z Prusimskich Dambska",
+   "surface_en": "Michalina Dambska, née Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Drezno",
+   "surface_en": "Dresden",
+   "page": 1
+  }
+ ],
  "place_canonical": "Dresden",
  "place_mentions": [
   {
@@ -127,9 +152,39 @@
    "doc_line": 5
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Governing Commission!\n\nThe Decree of His Imperial and Royal Majesty of the 5th of June, dispensing justice to the Most Illustrious Wybicki in the return of the Estates confiscated and disposed of by the Prussian Government, was taken as the Principle and model for dispensing equal justice to the persons named in the Decree of the Governing Commission issued on 21 July of this year. The undersigned cannot doubt that the Governing Commission will indicate the same manner of carrying out its judgment as was indicated for the Most Illustrious Wybicki, and will deign to instruct the Directorate of Internal Affairs — That it order the Administrative Chambers to make an equal induction into the Estates. —\n\nFull of confidence in the success of my petition, I remain with the highest upoznieniem\n\nMichalina Dambska, née Prusimska\n\n23 July 1807, Dresden.\n\n[Written by the receiving office:]\n\nPresented 23 July 1807. — to the files",
+   "names": [
+    {
+     "de": "Wybickiego",
+     "en": "Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Michalina z Prusimskich Dambska",
+     "en": "Michalina Dambska, née Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Drezno",
+     "en": "Dresden",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "5",
+    "21",
+    "23",
+    "1807",
+    "23",
+    "1807"
+   ]
+  }
+ ],
+ "text_english": "Governing Commission!\n\nThe Decree of His Imperial and Royal Majesty of the 5th of June, dispensing justice to the Most Illustrious Wybicki in the return of the Estates confiscated and disposed of by the Prussian Government, was taken as the Principle and model for dispensing equal justice to the persons named in the Decree of the Governing Commission issued on 21 July of this year. The undersigned cannot doubt that the Governing Commission will indicate the same manner of carrying out its judgment as was indicated for the Most Illustrious Wybicki, and will deign to instruct the Directorate of Internal Affairs — That it order the Administrative Chambers to make an equal induction into the Estates. —\n\nFull of confidence in the success of my petition, I remain with the highest upoznieniem\n\nMichalina Dambska, née Prusimska\n\n23 July 1807, Dresden.\n\n[Written by the receiving office:]\n\nPresented 23 July 1807. — to the files",
  "summary_en": "Michalina Dąbska, born Prusimska, writes again at Dresden to the Governing Commission, in Polish. The Emperor's decree of 5 June, which gave back to Wybicki the estates confiscated and disposed of by the Prussian government, was taken as the principle and pattern for doing equal justice to the persons named in the commission's decree of 21 July. She does not doubt that the commission will have its resolution carried out in the same way as for Wybicki, and will direct the Directorate of Internal Affairs to order the administrative chambers to put her in possession of the estates. The commission notes the petition as presented on 23 July 1807 and files it.",
  "summary_de": "Michalina Dąbska, geborene Prusimska, schreibt in Dresden erneut an die Regierungskommission, in polnischer Sprache. Das Dekret des Kaisers vom 5. Juni, das Wybicki die von der preußischen Regierung konfiszierten und vergebenen Güter zurückgab, sei zum Grundsatz und Muster genommen worden, um den Personen, die im Dekret der Kommission vom 21. Juli genannt sind, gleiche Gerechtigkeit zu erweisen. Sie zweifle nicht, dass die Kommission ihren Beschluss ebenso ausführen lasse wie für Wybicki und die Direktion der inneren Angelegenheiten anweise, den Verwaltungskammern die Einweisung in die Güter zu befehlen. Die Kommission vermerkt die Vorlage am 23. Juli 1807 und legt das Schreiben zu den Akten.",
  "reading": {}

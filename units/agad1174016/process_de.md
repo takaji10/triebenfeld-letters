@@ -16,8 +16,12 @@ Ein KI-Modell (Claude) hat die Transkription mit den Aufnahmen verglichen und si
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit seiner Aufnahme verglichen worden war, und ins Englische übersetzt. Die gesonderte Prüfung, bei der jede Aussage an ihrem Dokument gemessen wird und die die Zusammenfassungen anderer Bestände erhalten haben, steht noch aus.
+Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit seiner Aufnahme verglichen worden war, und ins Englische übersetzt. Danach wurde jede ihrer Aussagen am Dokument geprüft, nach denselben Regeln wie die gesonderte Prüfung, die die Zusammenfassungen anderer Bestände erhalten haben: Eine Zusammenfassung darf nur sagen, was das Dokument sagt. Alle hielten stand.
+
+### Übersetzung
+
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Beide Einträge wurden aus dem Polnischen übersetzt, die Anredeformen englisch wiedergegeben (the Most Illustrious, the Honourable, Mrs). Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
 
 ### Noch offen
 
-Die Dokumente sind noch nicht ins Englische übersetzt.
+Das Englische ist noch nicht mit den Aufnahmen verglichen.

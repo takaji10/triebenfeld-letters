@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 41
+  docs: 42
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -758,7 +758,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 61
+  docs: 63
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -891,7 +891,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 71
+  docs: 73
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -1328,7 +1328,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 89
+  docs: 94
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 46
+  docs: 47
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1404,7 +1404,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 23
+  docs: 24
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 344
+  docs: 349
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1746,7 +1746,7 @@
   initial_en: "H"
   sort_de: "unterthanigster diener, treuester knecht"
   initial_de: "U"
-  docs: 186
+  docs: 187
 - id: "ersterbe"
   kind: "phrase"
   lang: "de"
@@ -1822,7 +1822,7 @@
   initial_en: "D"
   sort_de: "geruhen"
   initial_de: "G"
-  docs: 107
+  docs: 109
 - id: "locus-sigilli"
   kind: "phrase"
   lang: "la"

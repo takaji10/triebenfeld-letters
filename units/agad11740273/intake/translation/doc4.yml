@@ -1,0 +1,38 @@
+pages:
+- page: 1
+  confidence: medium
+  marker_count: 0
+  en: |-
+    Governing Commission!
+
+    The Decree of His Imperial and Royal Majesty of the 5th of June, dispensing justice to the Most Illustrious Wybicki in the return of the Estates confiscated and disposed of by the Prussian Government, was taken as the Principle and model for dispensing equal justice to the persons named in the Decree of the Governing Commission issued on 21 July of this year. The undersigned cannot doubt that the Governing Commission will indicate the same manner of carrying out its judgment as was indicated for the Most Illustrious Wybicki, and will deign to instruct the Directorate of Internal Affairs — That it order the Administrative Chambers to make an equal induction into the Estates. —
+
+    Full of confidence in the success of my petition, I remain with the highest upoznieniem
+
+    Michalina Dambska, née Prusimska
+
+    23 July 1807, Dresden.
+
+    [Written by the receiving office:]
+
+    Presented 23 July 1807. — to the files
+  names:
+  - de: Wybickiego
+    en: Wybicki
+    kind: person
+  - de: Michalina z Prusimskich Dambska
+    en: Michalina Dambska, née Prusimska
+    kind: person
+  - de: Drezno
+    en: Dresden
+    kind: place
+  numbers:
+  - '5'
+  - '21'
+  - '23'
+  - '1807'
+  - '23'
+  - '1807'
+  unparseable:
+  - de: z naywyższem upoznieniem
+    why: '''upoznieniem'' is not a Polish word as it stands (intake/unresolved.md); the closing formula would be ''upokorzeniem'' (humility) or ''uszanowaniem'' (respect), neither plain on the scan. The word is left in Polish in the English.'

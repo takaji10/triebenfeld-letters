@@ -147,7 +147,88 @@
    "doc_line": 3
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Governing Commission",
+   "kind": "other",
+   "surface_de": "Kommissya Rządząca",
+   "surface_en": "Governing Commission",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina Dąbska, née Pru[simska]",
+   "kind": "person",
+   "surface_de": "Michaliny z Pru[simskich] Dąbskiey",
+   "surface_en": "Michalina Dąbska, née Pru[simska]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Most Serene Emperor",
+   "kind": "person",
+   "surface_de": "N° Cesarza",
+   "surface_en": "the Most Serene Emperor",
+   "page": 1
+  },
+  {
+   "entity": "wybicki",
+   "display": "Wybicki",
+   "kind": "person",
+   "surface_de": "Wybickiemu",
+   "surface_en": "Wybicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Finckenstein",
+   "kind": "place",
+   "surface_de": "Finckenstein",
+   "surface_en": "Finckenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina Dąbska",
+   "kind": "person",
+   "surface_de": "Michaliny Dąbskiey",
+   "surface_en": "Michalina Dąbska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "General Niemoiewski",
+   "kind": "person",
+   "surface_de": "Generała Niemoiewskiego",
+   "surface_en": "General Niemoiewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wichrowski",
+   "kind": "person",
+   "surface_de": "Wichrowskiego",
+   "surface_en": "Wichrowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreznie",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "St[anisław] Mał[achowski]",
+   "kind": "person",
+   "surface_de": "St[anisław] Mał[achowski]",
+   "surface_en": "St[anisław] Mał[achowski]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Dresden",
  "place_mentions": [
   {
@@ -162,9 +243,71 @@
    "doc_line": 2
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The Governing Commission\n\nWhereas the matter of Mrs Michalina Dąbska, née Pru[simska], who demands the return of her hereditary Estates, confiscated under the past Government and given to someone else, has been referred to Us by the Most Serene Emperor; taking example from the justice dispensed by His Imperial and Royal Majesty to the Most Illustrious Wybicki, Our Colleague, by the Decree issued at Finckenstein on the [5]th of June, and wishing in so just a demand to preserve strict justice for everyone, We extend the Judgment of the Most Serene Emperor in favour of the Most Illustrious Wybicki both to the case of Mrs Michalina Dąbska and to those of General Niemoiewski and Mr Wichrowski, desiring that the Hereditary Estates of the Persons named above, confiscated by the late Prussian Government, should return to their true Owners. — Done at Dresden, 21 July 1807.\n\nSt[anisław] Mał[achowski]",
+   "names": [
+    {
+     "de": "Kommissya Rządząca",
+     "en": "Governing Commission",
+     "kind": "other"
+    },
+    {
+     "de": "Michaliny z Pru[simskich] Dąbskiey",
+     "en": "Michalina Dąbska, née Pru[simska]",
+     "kind": "person"
+    },
+    {
+     "de": "N° Cesarza",
+     "en": "the Most Serene Emperor",
+     "kind": "person"
+    },
+    {
+     "de": "Wybickiemu",
+     "en": "Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Finckenstein",
+     "en": "Finckenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Michaliny Dąbskiey",
+     "en": "Michalina Dąbska",
+     "kind": "person"
+    },
+    {
+     "de": "Generała Niemoiewskiego",
+     "en": "General Niemoiewski",
+     "kind": "person"
+    },
+    {
+     "de": "Wichrowskiego",
+     "en": "Wichrowski",
+     "kind": "person"
+    },
+    {
+     "de": "Dreznie",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "St[anisław] Mał[achowski]",
+     "en": "St[anisław] Mał[achowski]",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "[5]",
+    "21",
+    "1807"
+   ]
+  }
+ ],
+ "text_english": "The Governing Commission\n\nWhereas the matter of Mrs Michalina Dąbska, née Pru[simska], who demands the return of her hereditary Estates, confiscated under the past Government and given to someone else, has been referred to Us by the Most Serene Emperor; taking example from the justice dispensed by His Imperial and Royal Majesty to the Most Illustrious Wybicki, Our Colleague, by the Decree issued at Finckenstein on the [5]th of June, and wishing in so just a demand to preserve strict justice for everyone, We extend the Judgment of the Most Serene Emperor in favour of the Most Illustrious Wybicki both to the case of Mrs Michalina Dąbska and to those of General Niemoiewski and Mr Wichrowski, desiring that the Hereditary Estates of the Persons named above, confiscated by the late Prussian Government, should return to their true Owners. — Done at Dresden, 21 July 1807.\n\nSt[anisław] Mał[achowski]",
  "summary_en": "Draft of a resolution of the Governing Commission, taken at Dresden, in Polish. The case of Michalina Dąbska, born Prusimska, who asks for the return of her hereditary estates, confiscated under the former government and given to others, has been referred to the commission by the Emperor. The commission takes as its example the justice the Emperor did its member Wybicki by the decree of June given at Finckenstein, and extends that judgment to the case of Michalina Dąbska, of General Niemojewski and of Wichrowski: the hereditary estates of these persons, confiscated by the former Prussian government, are to return to their true owners. The draft is corrected in several places and carries the paraph of the president, Małachowski.",
  "summary_de": "Entwurf eines Beschlusses der Regierungskommission, in Dresden gefasst, in polnischer Sprache. Die Sache der Michalina Dąbska, geborene Prusimska, die die Rückgabe ihrer unter der früheren Regierung konfiszierten und anderen übergebenen Erbgüter verlangt, ist der Kommission vom Kaiser überwiesen worden. Die Kommission nimmt sich die Gerechtigkeit zum Vorbild, die der Kaiser ihrem Mitglied Wybicki durch das in Finckenstein erlassene Dekret vom Juni erwiesen hat, und dehnt dieses Urteil auf den Fall der Michalina Dąbska, des Generals Niemojewski und Wichrowskis aus: Die von der früheren preußischen Regierung konfiszierten Erbgüter dieser Personen sollen an ihre wahren Eigentümer zurückfallen. Der Entwurf ist an mehreren Stellen verbessert und trägt die Paraphe des Präsidenten Małachowski.",
  "reading": {}

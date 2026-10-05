@@ -28,7 +28,10 @@ archive_title: >-
   Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej
 # The two entries are of 12 and 21 July 1807.
 date_span: "1807"
-status: transcribed        # draft | transcribed | translated | published
+status: translated        # draft | transcribed | translated | published
+# Translated in session on 2026-10-05 into the untagged cache
+# (cache/translation-raw), as Nr. 12366 was: see notes.md.
+published_tag: "" # untagged: cache/translation-raw
 
 # Which era this holding belongs to - reference/eras.yml. Placed with the
 # Hohenlohe-Ingelfingen years for now, with AGAD 1/174/0/2/73; the editor has

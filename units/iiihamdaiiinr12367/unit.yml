@@ -34,7 +34,10 @@ archive_title: >-
 # 1833" (with "(1827)" added) and "conf. vol III & I": the 14 scans are a
 # selection from a thick volume, and nothing of 1833 is among them.
 date_span: 1828-1832
-status: transcribed            # draft | transcribed | translated | published
+status: translated            # draft | transcribed | translated | published
+# Translated in session on 2026-10-05 into the untagged cache
+# (cache/translation-raw), as Nr. 12366 was: see notes.md.
+published_tag: ""
 
 # Which era this holding belongs to - reference/eras.yml. As for Nr. 12366,
 # the editor has still to say whether this file belongs here or in the

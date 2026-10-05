@@ -136,7 +136,104 @@
    "doc_line": 24
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Minister of the Treasury of the Kingdom of Poland",
+   "kind": "other",
+   "surface_de": "Schatzminister des Königreichs Polen",
+   "surface_en": "Minister of the Treasury of the Kingdom of Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince v. Lubecki",
+   "kind": "person",
+   "surface_de": "Fürsten v. Lubecki",
+   "surface_en": "Prince v. Lubecki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Osiny",
+   "kind": "place",
+   "surface_de": "Osiny",
+   "surface_en": "Osiny",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Łazy",
+   "kind": "place",
+   "surface_de": "Łazy",
+   "surface_en": "Łazy",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nowawieś",
+   "kind": "place",
+   "surface_de": "Nowawieś",
+   "surface_en": "Nowawieś",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zarobna",
+   "kind": "place",
+   "surface_de": "Zarobna",
+   "surface_en": "Zarobna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn Hollander settlement",
+   "kind": "place",
+   "surface_de": "Trąbczyner Hauländer",
+   "surface_en": "Trąbczyn Hollander settlement",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Przepolewski",
+   "kind": "person",
+   "surface_de": "v. Przepolewski",
+   "surface_en": "v. Przepolewski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Lichnowski",
+   "kind": "person",
+   "surface_de": "v. Lichnowski",
+   "surface_en": "v. Lichnowski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "v. Grottowski",
+   "kind": "person",
+   "surface_de": "v. Grottowski",
+   "surface_en": "v. Grottowski",
+   "page": 1
+  }
+ ],
  "place_canonical": "Breslau",
  "place_mentions": [
   {
@@ -184,9 +281,122 @@
    "doc_line": 8
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Copy of my answer to the Minister of the Treasury of the Kingdom of Poland, His Serene Highness Prince v. Lubecki, etc.\n\nWrocław, 14 October 1830.\n\nEtc. etc.\n\nIn reply to the high communication of the 22nd of last month, No. 59607/938, I hereby most humbly submit to Your Serene Highness, in certified copy, for the estates of Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna and the Trąbczyn Hollander settlement, with appurtenances,\n\n1. the mortgage certificate of 14 August 1803.\n\n2. the judicial valuation of 6 May 1803.\n\nAccording to the mortgage certificate the value of these estates is taken at Rthl 160,000.\n\nThe items entered ahead of my claim amount to:\n\n1. Section II. Church capitals in all, 7,000 Polish florins or Rthl 1,166. 16 Groschen.\n\n2. Section III. For v. Przepolewski, although paid, ditto 5,000. -\n\nv. Lichnowski ditto 42,000. - = 48,166. 16 Groschen\n\nTo cover my item entered in Section III No. 3 for v. Grottowski, now for me, there remained Rthl 111,833. 8 Groschen, and since my claim amounts to only 63,100. -, there is a surplus beyond it of Rthl 48,733. 8 Groschen.\n\nThe valuation is drawn up on the low principles that were applied to the estimating of the crown domains. The bushel of wheat is brought into the computation at only 20 Groschen, the bushel of rye at 16 Groschen, the bushel of barley at 12 Groschen and the bushel of oats at 8 Groschen, while on the other hand half the harvest has been deducted, and besides that 15 per cent of the gross income for administration.",
+   "names": [
+    {
+     "de": "Schatzminister des Königreichs Polen",
+     "en": "Minister of the Treasury of the Kingdom of Poland",
+     "kind": "other"
+    },
+    {
+     "de": "Fürsten v. Lubecki",
+     "en": "Prince v. Lubecki",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Osiny",
+     "en": "Osiny",
+     "kind": "place"
+    },
+    {
+     "de": "Łazy",
+     "en": "Łazy",
+     "kind": "place"
+    },
+    {
+     "de": "Nowawieś",
+     "en": "Nowawieś",
+     "kind": "place"
+    },
+    {
+     "de": "Zarobna",
+     "en": "Zarobna",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyner Hauländer",
+     "en": "Trąbczyn Hollander settlement",
+     "kind": "place"
+    },
+    {
+     "de": "v. Przepolewski",
+     "en": "v. Przepolewski",
+     "kind": "person"
+    },
+    {
+     "de": "v. Lichnowski",
+     "en": "v. Lichnowski",
+     "kind": "person"
+    },
+    {
+     "de": "v. Grottowski",
+     "en": "v. Grottowski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "14",
+    "1830",
+    "22",
+    "59607/938",
+    "1.",
+    "14",
+    "1803",
+    "2.",
+    "6",
+    "1803",
+    "160,000",
+    "1.",
+    "7,000",
+    "1,166",
+    "16",
+    "2.",
+    "5,000",
+    "42,000",
+    "48,166",
+    "16",
+    "3",
+    "111,833",
+    "8",
+    "63,100",
+    "48,733",
+    "8",
+    "20",
+    "16",
+    "12",
+    "8",
+    "15"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "By this the assumed value has been calculated at only Rthl 128,917, 17 Groschen. If the 48,166. 16 standing ahead of me are deducted from this, there still remain Rthl 80,751, 1 Groschen to cover me, for which only 63,100. - are required.\n\nFrom these facts there is surely no doubt that my claim was entirely secure.\n\nSo long as legal assistance had not been refused me, I could have paid off the items standing ahead of mine and bid at the forced sale as far as was necessary for my claim.\n\nOn the strength of this proof and of the earlier acknowledgement, and finally of the long duration of the matter, I may expect of Your Serene Highness's justice that Your Highness will now most graciously arrange for my satisfaction and fix an early date for the agreement between us, of which there can be no doubt, at which I would appear in person or through an authorised representative.\n\nWith the greatest reverence I have the honour to be, etc.",
+   "numbers": [
+    "128,917",
+    "17",
+    "48,166",
+    "16",
+    "80,751",
+    "1",
+    "63,100"
+   ]
+  }
+ ],
+ "text_english": "Copy of my answer to the Minister of the Treasury of the Kingdom of Poland, His Serene Highness Prince v. Lubecki, etc.\n\nWrocław, 14 October 1830.\n\nEtc. etc.\n\nIn reply to the high communication of the 22nd of last month, No. 59607/938, I hereby most humbly submit to Your Serene Highness, in certified copy, for the estates of Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna and the Trąbczyn Hollander settlement, with appurtenances,\n\n1. the mortgage certificate of 14 August 1803.\n\n2. the judicial valuation of 6 May 1803.\n\nAccording to the mortgage certificate the value of these estates is taken at Rthl 160,000.\n\nThe items entered ahead of my claim amount to:\n\n1. Section II. Church capitals in all, 7,000 Polish florins or Rthl 1,166. 16 Groschen.\n\n2. Section III. For v. Przepolewski, although paid, ditto 5,000. -\n\nv. Lichnowski ditto 42,000. - = 48,166. 16 Groschen\n\nTo cover my item entered in Section III No. 3 for v. Grottowski, now for me, there remained Rthl 111,833. 8 Groschen, and since my claim amounts to only 63,100. -, there is a surplus beyond it of Rthl 48,733. 8 Groschen.\n\nThe valuation is drawn up on the low principles that were applied to the estimating of the crown domains. The bushel of wheat is brought into the computation at only 20 Groschen, the bushel of rye at 16 Groschen, the bushel of barley at 12 Groschen and the bushel of oats at 8 Groschen, while on the other hand half the harvest has been deducted, and besides that 15 per cent of the gross income for administration.\n\nBy this the assumed value has been calculated at only Rthl 128,917, 17 Groschen. If the 48,166. 16 standing ahead of me are deducted from this, there still remain Rthl 80,751, 1 Groschen to cover me, for which only 63,100. - are required.\n\nFrom these facts there is surely no doubt that my claim was entirely secure.\n\nSo long as legal assistance had not been refused me, I could have paid off the items standing ahead of mine and bid at the forced sale as far as was necessary for my claim.\n\nOn the strength of this proof and of the earlier acknowledgement, and finally of the long duration of the matter, I may expect of Your Serene Highness's justice that Your Highness will now most graciously arrange for my satisfaction and fix an early date for the agreement between us, of which there can be no doubt, at which I would appear in person or through an authorised representative.\n\nWith the greatest reverence I have the honour to be, etc.",
  "summary_en": "Copy of Weigel's reply to the minister of finance, Prince Lubecki, from Wrocław. In answer to the minister's letter of 22 September (no. 59607/938) he sends certified copies of the mortgage certificate of 14 August 1803 and of the court valuation of 6 May 1803 for the estates of Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna and the Trąbczyn settlers' villages. By the mortgage certificate the estates are taken to be worth 160,000 Reichstaler. Entered ahead of his claim are church capitals of 7,000 florins or 1,166 Reichstaler 16 groschen, 5,000 for von Przepolewski, though paid, and 42,000 for von Lichnowski, 48,166 Reichstaler 16 groschen together. For his own entry, made for von Grottowski and now standing in his name, 111,833 Reichstaler 8 groschen remained, which is 48,733 Reichstaler 8 groschen more than his claim of 63,100. The valuation, he says, was drawn up on the low principles used for assessing crown domains and so comes to only 128,917 Reichstaler 17 groschen; even of that, 80,751 Reichstaler 1 groschen remain to cover him once the prior entries are deducted. His claim was therefore wholly secure, and had he not been denied the help of the law he could have paid off the prior entries and bid at the forced sale. He expects the Prince to bring about his satisfaction and to set an early date for an agreement, at which he or an agent would appear.",
  "summary_de": "Abschrift der Antwort Weigels an den Finanzminister Fürst Lubecki, aus Breslau. Auf dessen Schreiben vom 22. September (Nr. 59607/938) übersendet er in beglaubigter Abschrift den Hypothekenschein vom 14. August 1803 und die gerichtliche Taxe vom 6. Mai 1803 über die Güter Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna und die Trąbczyner Hauländer. Nach dem Hypothekenschein ist der Wert der Güter auf 160000 Reichstaler angenommen. Vor seiner Forderung sind eingetragen: Kirchenkapitalien von 7000 Gulden oder 1166 Reichstalern 16 Groschen, für von Przepolewski, obschon bezahlt, 5000 und für von Lichnowski 42000, zusammen 48166 Reichstaler 16 Groschen. Für seinen Posten, für von Grottowski und jetzt für ihn eingetragen, blieben 111833 Reichstaler 8 Groschen, also 48733 Reichstaler 8 Groschen mehr als seine Forderung von 63100. Die Taxe sei nach den niedrigen Grundsätzen der Domänenveranschlagung angelegt und komme deshalb nur auf 128917 Reichstaler 17 Groschen; auch davon blieben nach Abzug der vorstehenden Posten 80751 Reichstaler 1 Groschen zu seiner Deckung. Seine Forderung sei also ganz sicher gewesen, und wäre ihm die Rechtshilfe nicht versagt worden, hätte er die vorstehenden Posten ablösen und in der Zwangsversteigerung mitbieten können. Er erwartet, dass der Fürst seine Befriedigung veranlasst und einen nahen Termin für eine Übereinkunft bestimmt, zu dem er selbst oder ein Bevollmächtigter erscheinen würde.",
  "reading": {}

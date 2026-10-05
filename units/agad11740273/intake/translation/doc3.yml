@@ -1,0 +1,76 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    Sire!
+
+    I have already taken the very humble Liberty of having the statement of my complaints and my hopes presented to Your Imperial and Royal Majesty through the Polish Government; but having so far received no news of the Decree that would reinstate me in the Lands which were confiscated for the benefit of the Prussian Generals Prince Hohenlo[h]e, Bischoffwerder and Zanitz, and being persuaded, nevertheless, that the same Justice which pronounced in the cause of Count Wybicki, reinstating him in his possessions, will be rendered to me by the Greatest and most Magnanimous of Monarchs, I dare to Beseech Your Imperial and Royal Majesty not to refuse it to me.
+
+    I am, with the most profound respect,
+
+    Sire,
+
+    Your Imperial and Royal Majesty's
+
+    most humble and most submissive
+
+    Micheline Dambska, née Prusimska.
+
+    Dresden, 21 July 1807.
+
+    [Written by the receiving office:]
+
+    Presented 21 July 1807 at the Extraordinary Session at Dresden by the Prince Director of War, by order of the Most Serene Emperor and King
+
+    St[anisław] Mał[achowski]
+  names:
+  - de: Hohenlo[h]e
+    en: Hohenlo[h]e
+    kind: person
+  - de: Bischoffswerder
+    en: Bischoffwerder
+    kind: person
+  - de: Zanitz
+    en: Zanitz
+    kind: person
+  - de: Wybicki
+    en: Wybicki
+    kind: person
+  - de: Micheline Dambska née Prusimska
+    en: Micheline Dambska, née Prusimska
+    kind: person
+  - de: Dresde
+    en: Dresden
+    kind: place
+  - de: Dreznie
+    en: Dresden
+    kind: place
+  - de: W. X[ię]cia Dyrektora Woyny
+    en: the Prince Director of War
+    kind: person
+  - de: St[anisław] Mał[achowski]
+    en: St[anisław] Mał[achowski]
+    kind: person
+  numbers:
+  - '21'
+  - '1807'
+  - '21'
+  - '1807'
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    To the Most Illustrious Mr Małachowski, President of the Governing Commission, Knight of the Polish Orders — To the Most Illustrious Sir, my Benefactor, at Dresden
+  names:
+  - de: Małachowskiemu
+    en: Małachowski
+    kind: person
+  - de: Dreznie
+    en: Dresden
+    kind: place
+  flagged:
+  - de: JWWMci Panu Dobrodzieiowi
+    rendered_as: the Most Illustrious Sir, my Benefactor
+    alt: to my Most Illustrious Lord and Patron
+    why: Dobrodziej, benefactor, is the customary title of respect in a Polish address.

@@ -103,9 +103,10 @@ so check them.
   to 1832 on the compensation of the banker Weigel (eight French, two
   Polish, one German), corrected against the scans and summarised in both
   languages, with its page, timeline entries and a paragraph in the era
-  essay; status `transcribed`. Read `units/iiihamdaiiinr12367/notes.md`
-  first. **Next: its English translation** (no pilot needed) and the claim
-  check of its summaries. Still open: its era, the German translations
+  essay; translated and its summaries claim-checked in session on
+  2026-10-05 (pages in `intake/translation/`, `intake/claim_check.yml`);
+  status `translated`, untagged. Read `units/iiihamdaiiinr12367/notes.md`
+  first. Still open: its era, the German translations
   beside the two Polish letters (not transcribed), the unread signature on
   scan 0007, and the words in `intake/unresolved.md`.
 - **AGAD 1/174/0/2/73** (slug `agad11740273`) and **AGAD 1/174/0/1/6** (slug
@@ -115,26 +116,26 @@ so check them.
   French). Pages cut out of the editor's images by boxes recorded in each
   unit's `intake/build_pages.py`; corrected against the scans, summarised in
   both languages, with holding pages, a timeline entry and two sentences in
-  the era essay; status `transcribed`. Read each unit's `notes.md` first.
-  **Next: translation** and the claim check of the summaries. Still open:
+  the era essay; translated and claim-checked in session on 2026-10-05;
+  status `translated`, untagged. Read each unit's `notes.md` first. Still
+  open:
   the era (placed in `hohenlohe` for now; by `reference/eras.yml` they
   belong to `restitution`), the editor's look at the crops and at image 06,
   and a struck-out clause in the draft resolution.
 - Nr. 12367 and the two AGAD holdings were published at the editor's word
   on 2026-10-05 (commit df7a05da). What is left for each is in
   `docs/TODO.md`.
-- **The translation of these three holdings (17 documents) is to be done in
-  a cloud session** (editor, 2026-10-05), in session and not by a paid run,
-  the way Nr. 12366 was: read `units/iiihamdaiiinr12366/notes.md`, section
-  "Translation", and copy its `intake/translation/` (one `doc<N>.yml` per
-  document and `write_cache.py`). No pilot is needed. Each unit's
-  `translation_note` in `unit.yml` says what the abbreviations and office
-  notes are; its `intake/unresolved.md` lists the words to leave visibly
-  doubtful. In the same pass, check each summary statement against its
-  document (`intake/claim_check.yml` in Nr. 12366 is the model). Then set
-  status `translated`, rule on any glossary candidates the gate reports,
-  and update each holding's "Still to do", `docs/TODO.md`,
-  NEEDS_CONFIRMATION and the changelog.
+- **How a holding is translated in session** (as for these three and Nr.
+  12366): one `doc<N>.yml` per document and `write_cache.py` in the unit's
+  `intake/translation/` (copy from any of them), then check_translations.py,
+  publish_translations.py, uncanonical_names.py; the claim check in
+  `intake/claim_check.yml`; then status `translated`, the glossary gate, the
+  holding's "Still to do", `docs/TODO.md`, NEEDS_CONFIRMATION and the
+  changelog. `match_scans.py` needs the raw scans and does not run here; a
+  change to a document's pages means correcting `page_scan_map.csv` by hand
+  (Nr. 12367's notes, "Mardi put back").
+- Every holding is now translated (459 documents with English; the five of
+  Oe 1 Bü 9454 without text excepted).
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

@@ -137,7 +137,120 @@
    "doc_line": 3
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyna",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Department of Kalisz",
+   "kind": "place",
+   "surface_de": "Departamencie Kaliskim",
+   "surface_en": "Department of Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kamionna",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolna",
+   "surface_en": "Kolno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pawłowo",
+   "kind": "place",
+   "surface_de": "Pawłowa",
+   "surface_en": "Pawłowo",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Pawłówko",
+   "kind": "place",
+   "surface_de": "Pawłówka",
+   "surface_en": "Pawłówko",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocławku",
+   "kind": "place",
+   "surface_de": "Wrocławku",
+   "surface_en": "Wrocławku",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Department of Poznań",
+   "kind": "place",
+   "surface_de": "Departamencie Poznańskim",
+   "surface_en": "Department of Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlo[h]e",
+   "kind": "person",
+   "surface_de": "Xięcia de Hohenlo[h]e",
+   "surface_en": "Prince of Hohenlo[h]e",
+   "page": 1
+  },
+  {
+   "entity": "bischoffwerder",
+   "display": "Bischoffwerder",
+   "kind": "person",
+   "surface_de": "Bischoffswerder",
+   "surface_en": "Bischoffwerder",
+   "page": 1
+  },
+  {
+   "entity": "sanitz",
+   "display": "von Sanitz",
+   "kind": "person",
+   "surface_de": "Zanitz",
+   "surface_en": "Zanitz",
+   "page": 1
+  },
+  {
+   "entity": "wybicki",
+   "display": "Wybicki",
+   "kind": "person",
+   "surface_de": "Wybicki",
+   "surface_en": "Wybicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Dresden",
+   "kind": "place",
+   "surface_de": "Dreznie",
+   "surface_en": "Dresden",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michalina Dambska, née Prusimska",
+   "kind": "person",
+   "surface_de": "Michalina z Prusimskich Dambska",
+   "surface_en": "Michalina Dambska, née Prusimska",
+   "page": 1
+  }
+ ],
  "place_canonical": "Dresden",
  "place_mentions": [
   {
@@ -185,9 +298,91 @@
    "doc_line": 2
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "I have had the honour to submit my petition twice to the Governing Commission with the aim of recovering the estates: Trąbczyn in the Department of Kalisz; Kamionna, Kolno, Pawłowo, Pawłówko, the Storehouse at Wrocławku, in the Department of Poznań, confiscated from my father for the benefit of the Prussian Generals, the Prince of Hohenlo[h]e, Bischoffwerder and Zanitz; having as yet received no answer in my matter, and knowing that the Most Illustrious Wybicki has had his estates, confiscated just as mine were, given back to him by the Most Serene Emperor and King, I make bold to ask the Governing Commission to deign to intercede for me, and at the same time to give me the opportunity of obtaining the judgment of justice which the Most Illustrious Wybicki was fortunate enough to win for himself from the Most Serene Emperor.\n\nDresden, 20 July 1807\n\nMichalina Dambska, née Prusimska\n\n[Written by the receiving office:]\n\nPresented 21 July",
+   "names": [
+    {
+     "de": "Trąbczyna",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Departamencie Kaliskim",
+     "en": "Department of Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Kamionna",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Kolna",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Pawłowa",
+     "en": "Pawłowo",
+     "kind": "place"
+    },
+    {
+     "de": "Pawłówka",
+     "en": "Pawłówko",
+     "kind": "place"
+    },
+    {
+     "de": "Wrocławku",
+     "en": "Wrocławku",
+     "kind": "place"
+    },
+    {
+     "de": "Departamencie Poznańskim",
+     "en": "Department of Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Xięcia de Hohenlo[h]e",
+     "en": "Prince of Hohenlo[h]e",
+     "kind": "person"
+    },
+    {
+     "de": "Bischoffswerder",
+     "en": "Bischoffwerder",
+     "kind": "person"
+    },
+    {
+     "de": "Zanitz",
+     "en": "Zanitz",
+     "kind": "person"
+    },
+    {
+     "de": "Wybicki",
+     "en": "Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Dreznie",
+     "en": "Dresden",
+     "kind": "place"
+    },
+    {
+     "de": "Michalina z Prusimskich Dambska",
+     "en": "Michalina Dambska, née Prusimska",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "20",
+    "1807",
+    "21"
+   ]
+  }
+ ],
+ "text_english": "I have had the honour to submit my petition twice to the Governing Commission with the aim of recovering the estates: Trąbczyn in the Department of Kalisz; Kamionna, Kolno, Pawłowo, Pawłówko, the Storehouse at Wrocławku, in the Department of Poznań, confiscated from my father for the benefit of the Prussian Generals, the Prince of Hohenlo[h]e, Bischoffwerder and Zanitz; having as yet received no answer in my matter, and knowing that the Most Illustrious Wybicki has had his estates, confiscated just as mine were, given back to him by the Most Serene Emperor and King, I make bold to ask the Governing Commission to deign to intercede for me, and at the same time to give me the opportunity of obtaining the judgment of justice which the Most Illustrious Wybicki was fortunate enough to win for himself from the Most Serene Emperor.\n\nDresden, 20 July 1807\n\nMichalina Dambska, née Prusimska\n\n[Written by the receiving office:]\n\nPresented 21 July",
  "summary_en": "Michalina Dąbska, born Prusimska, writes at Dresden to the Governing Commission, in Polish. She has twice asked for the return of the estates confiscated from her father for the benefit of the Prussian generals Prince Hohenlohe, Bischoffswerder and Sanitz: Trąbczyn in the department of Kalisz, and Kamionna, Kolno, Pawłowo, Pawłówko and a storehouse at a place written “Włocławek” in the department of Poznań. She has had no answer. Knowing that Wybicki has had his estates, confiscated like hers, given back by the Emperor, she asks the commission to intercede for her and to give her the means of obtaining the same judgment. The commission notes the petition as presented on 21 July.",
  "summary_de": "Michalina Dąbska, geborene Prusimska, schreibt in Dresden an die Regierungskommission, in polnischer Sprache. Sie habe schon zweimal um die Rückgabe der Güter gebeten, die ihrem Vater zugunsten der preußischen Generale Fürst Hohenlohe, Bischoffswerder und Sanitz konfisziert wurden: Trąbczyn im Departement Kalisz sowie Kamionna, Kolno, Pawłowo, Pawłówko und ein Magazin in einem Ort, der „Wrocławek“ geschrieben ist, im Departement Poznań. Eine Antwort habe sie noch nicht erhalten. Da sie wisse, dass Wybicki seine ebenso konfiszierten Güter vom Kaiser zurückerhalten hat, bittet sie die Kommission, sich für sie zu verwenden und ihr Gelegenheit zu geben, ein gleiches Urteil zu erlangen. Die Kommission vermerkt die Vorlage am 21. Juli.",
  "reading": {}

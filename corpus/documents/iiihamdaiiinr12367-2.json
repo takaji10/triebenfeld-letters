@@ -106,12 +106,72 @@
    "doc_line": 2
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "schmidt-konsul",
+   "display": "Schmidt (consul general)",
+   "kind": "person",
+   "surface_de": "Schmidt",
+   "surface_en": "Schmidt",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "eisenhardt",
+   "display": "Eisenhardt",
+   "kind": "person",
+   "surface_de": "Eisenhardt",
+   "surface_en": "Eisenhardt",
+   "page": 1
+  },
+  {
+   "entity": "mohrenheim",
+   "display": "Mohrenheim",
+   "kind": "person",
+   "surface_de": "M[ohrenheim]",
+   "surface_en": "M[ohrenheim]",
+   "page": 1
+  }
+ ],
  "place_canonical": "Unknown",
  "place_mentions": [],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "I let you know as I leave, my dear Schmidt, that yesterday I read my memorandum on the Weigel & Eisenhardt affair to the Council, & that it was unanimously recognised there that payment must be made. — How? That is what will be deliberated.\n\nM[ohrenheim]",
+   "names": [
+    {
+     "de": "Schmidt",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Eisenhardt",
+     "en": "Eisenhardt",
+     "kind": "person"
+    },
+    {
+     "de": "M[ohrenheim]",
+     "en": "M[ohrenheim]",
+     "kind": "person"
+    }
+   ]
+  }
+ ],
+ "text_english": "I let you know as I leave, my dear Schmidt, that yesterday I read my memorandum on the Weigel & Eisenhardt affair to the Council, & that it was unanimously recognised there that payment must be made. — How? That is what will be deliberated.\n\nM[ohrenheim]",
  "summary_en": "An undated note from Mohrenheim to Schmidt, written as he was leaving: the day before he read his memorandum on the affair of Weigel and Eisenhardt to the council, which recognised unanimously that payment must be made. How it is to be made will be deliberated.",
  "summary_de": "Undatiertes Billett Mohrenheims an Schmidt, beim Aufbruch geschrieben: Er habe am Vortag im Rat seine Denkschrift über die Sache Weigel und Eisenhardt vorgelesen, und dort sei einstimmig anerkannt worden, dass gezahlt werden müsse. Wie, darüber werde man noch beraten.",
  "reading": {}

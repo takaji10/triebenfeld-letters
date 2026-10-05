@@ -102,7 +102,40 @@
    "doc_line": 5
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warszawie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "X. X. Lubecki",
+   "kind": "person",
+   "surface_de": "X. X. Lubecki",
+   "surface_en": "X. X. Lubecki",
+   "page": 2
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -139,9 +172,54 @@
    "doc_line": 4
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "No. 77,775 Warsaw, 27 Nov. 1830\n\nThe Minister Presiding in the Government Commission of Revenue and Treasury to\n\nIn order to make use of the materials for valuing the estates of Trąbczyn which Your Honour sent me with your application dated 14 October 1830, I have passed them to the authority which I have empowered to value the present worth of those estates.",
+   "names": [
+    {
+     "de": "Warszawie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "77,775",
+    "27",
+    "1830",
+    "14",
+    "1830"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Although Your Honour finds that, according to the judicial valuation you sent, your Capital had full security on the estates of Trąbczyn, yet since that valuation was made in the year 1803, and so in an Epoch of inflated value of landed estates, while the real value of Your Honour's claim ought to be assessed according to the present state of the value of immovable property, because the last Judgment in your case was given in the year 1826, and it was therefore only from that date that proceedings for execution could have been pursued; and since, on the other hand, I have found in Your Honour's letter no more accessible terms for an agreement, I must therefore, wishing to proceed with complete justice, await the completion of the work which I mentioned in my answer dated 22 September of this year, and over the hastening of which I am watching.\n\nsig. X. X. Lubecki",
+   "names": [
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "X. X. Lubecki",
+     "en": "X. X. Lubecki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1803",
+    "1826",
+    "22"
+   ]
+  }
+ ],
+ "text_english": "No. 77,775 Warsaw, 27 Nov. 1830\n\nThe Minister Presiding in the Government Commission of Revenue and Treasury to\n\nIn order to make use of the materials for valuing the estates of Trąbczyn which Your Honour sent me with your application dated 14 October 1830, I have passed them to the authority which I have empowered to value the present worth of those estates.\n\nAlthough Your Honour finds that, according to the judicial valuation you sent, your Capital had full security on the estates of Trąbczyn, yet since that valuation was made in the year 1803, and so in an Epoch of inflated value of landed estates, while the real value of Your Honour's claim ought to be assessed according to the present state of the value of immovable property, because the last Judgment in your case was given in the year 1826, and it was therefore only from that date that proceedings for execution could have been pursued; and since, on the other hand, I have found in Your Honour's letter no more accessible terms for an agreement, I must therefore, wishing to proceed with complete justice, await the completion of the work which I mentioned in my answer dated 22 September of this year, and over the hastening of which I am watching.\n\nsig. X. X. Lubecki",
  "summary_en": "Copy of a second letter from the minister of finance, Prince Lubecki, to Weigel (no. 77775), in Polish. He has passed the papers for valuing the Trąbczyn estates, which Weigel sent with his submission of 14 October 1830, to the authority he has charged with assessing what the estates are worth now. Weigel holds that by the court valuation his capital was fully secured on Trąbczyn; but that valuation was made in 1803, at a time of inflated land prices. The real value of the claim must be reckoned by what landed property is worth today, because the last judgment in Weigel's case was given in 1826 and only from then could execution have been sought. As Weigel's letter offers no more acceptable terms for a settlement, he must await the completion of the work he mentioned in his reply of 22 September, which he is seeing hastened.",
  "summary_de": "Abschrift eines zweiten Schreibens des Finanzministers Fürst Lubecki an Weigel (Nr. 77775), in polnischer Sprache. Die Unterlagen zur Schätzung der Güter von Trąbczyn, die Weigel mit seiner Eingabe vom 14. Oktober 1830 gesandt hat, hat er der Behörde übergeben, die er mit der Schätzung des heutigen Werts dieser Güter beauftragt hat. Weigel meine zwar, sein Kapital sei nach der gerichtlichen Taxe auf Trąbczyn vollkommen gesichert gewesen; diese Taxe sei aber 1803 aufgenommen worden, in einer Zeit überhöhter Güterpreise. Der wirkliche Wert der Forderung sei nach dem heutigen Wert der Liegenschaften zu schätzen, weil das letzte Urteil in Weigels Sache 1826 erging und erst von da an die Zwangsvollstreckung hätte betrieben werden können. Da Weigels Schreiben keine annehmbareren Bedingungen für einen Vergleich enthält, müsse er die Fertigstellung der Arbeit abwarten, die er in seiner Antwort vom 22. September erwähnt hat und deren Beschleunigung er überwacht.",
  "reading": {}

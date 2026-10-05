@@ -12511,7 +12511,7 @@
   "mentions": 3,
   "places_named": 1,
   "estates": [],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -12553,7 +12553,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -12595,7 +12595,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -12637,7 +12637,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -12684,7 +12684,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -12726,7 +12726,7 @@
    "trabczyn",
    "kamionno"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24207,7 +24207,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24231,23 +24231,18 @@
   "place": "Warschau",
   "sender": "Mohrenheim",
   "recipient": "Schmidt",
-  "n_pages": 3,
-  "n_lines": 11,
+  "n_pages": 2,
+  "n_lines": 10,
   "scans": [
    {
     "page": 1,
-    "page_id": "",
-    "image": ""
+    "page_id": "0005_a",
+    "image": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg"
    },
    {
     "page": 2,
-    "page_id": "0005_a",
-    "image": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg"
-   },
-   {
-    "page": 3,
     "page_id": "0006_a",
-    "image": "III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg"
+    "image": "III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -24258,7 +24253,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24299,7 +24294,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24340,7 +24335,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24386,7 +24381,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24432,7 +24427,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24478,7 +24473,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24519,7 +24514,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24560,7 +24555,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24601,7 +24596,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
@@ -24626,7 +24621,7 @@
   "sender": "Mohrenheim",
   "recipient": "Schmidt",
   "n_pages": 1,
-  "n_lines": 2,
+  "n_lines": 3,
   "scans": [
    {
     "page": 1,
@@ -24642,7 +24637,7 @@
   "estates": [
    "trabczyn"
   ],
-  "translation_status": "untranslated",
+  "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",

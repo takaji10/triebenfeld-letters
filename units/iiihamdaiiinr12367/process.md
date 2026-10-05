@@ -20,8 +20,12 @@ The editor asked whose signature stands under four of the documents. It is that 
 
 ### Summaries
 
-The summaries were written in German from a reading of each document against its scan, and translated into English. They have not had the separate check that the summaries of other holdings received, in which each statement is held against its document.
+The summaries were written in German from a reading of each document against its scan, and translated into English. Each statement in them was then checked against its document, under the same rules as the separate check that the summaries of other holdings received: a summary may say only what the document says. One sentence of the German was weakened: the minister of finance ordered the estates to be valued on the spot, but the valuation was not yet made, as his second letter shows.
+
+### Translation
+
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Each letter was translated from its own language: the French letters from the French, the two Polish letters from the Polish, and Weigel's reckoning from the German, with its sums in thalers and groschen as he gives them. The dateline "Tuesday" of Mohrenheim's second note had been attached to the following letter by mistake; it was put back at the foot of the note, where it is written, before the translation. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
 
 ### Still to do
 
-The documents are not yet translated into English. The German translations beside the two Polish letters, the addresses at the foot of several letters and a line written sideways in the margin of one note are not transcribed. The end of the last sentence of that note is not securely read.
+The English has not yet been read against the scans. The German translations beside the two Polish letters, the addresses at the foot of several letters and a line written sideways in the margin of one note are not transcribed. The end of the last sentence of that note is not securely read.

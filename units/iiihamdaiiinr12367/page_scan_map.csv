@@ -1,10 +1,9 @@
 ﻿letter,page,line_start,line_end,n_lines,image,status,confidence,note
 1,1,5,12,8,III_HA_MdA_III_Nr_12367_0002_a-L1_01.jpg,declared,ok,
 2,1,15,16,2,III_HA_MdA_III_Nr_12367_0003_a-L2_01.jpg,declared,ok,
-3,1,19,20,2,III_HA_MdA_III_Nr_12367_0004_a-L3_01.jpg,declared,ok,
-4,1,22,22,1,,gap,check,
-4,2,24,29,6,III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg,declared,ok,
-4,3,31,34,4,III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg,declared,ok,
+3,1,19,21,3,III_HA_MdA_III_Nr_12367_0004_a-L3_01.jpg,declared,ok,
+4,1,24,29,6,III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg,declared,ok,
+4,2,31,34,4,III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg,declared,ok,
 5,1,37,45,9,III_HA_MdA_III_Nr_12367_0007_a-L5_01.jpg,declared,ok,
 6,1,48,57,10,III_HA_MdA_III_Nr_12367_0008_a-L6_01.jpg,declared,ok,
 7,1,60,93,34,III_HA_MdA_III_Nr_12367_0009_a1-L7_01.jpg,declared,ok,

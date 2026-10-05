@@ -29,13 +29,20 @@ next steps.
 - [x] How the translation is to be done: in a cloud session, by you (said
       2026-10-05), for this holding and the two in section 2. `CLAUDE.md`
       tells that session what to follow.
-- [ ] Translate the eleven documents into English, check and publish them, and
-      mark the holding `translated`.
-- [ ] Check each statement of the eleven summaries against its document (the
-      claim check), in both languages, and correct the holding's page to say
-      it was done.
-- [ ] After translation: update the "Still to do" paragraph on the holding's
-      page, `CLAUDE.md`, NEEDS_CONFIRMATION and the changelog.
+- [x] Translate the eleven documents into English, check and publish them, and
+      mark the holding `translated` (done in session 2026-10-05; one check
+      row, deliberate: "fl." in Weigel's reckoning is Polish florins).
+- [x] Check each statement of the eleven summaries against its document (the
+      claim check): 77 statements, one weakened in the German (document 6:
+      the minister ordered the valuation, he had not had it made).
+- [x] After translation: the holding's page, `CLAUDE.md`, NEEDS_CONFIRMATION
+      and the changelog updated.
+- [x] Found while translating: the dateline "Mardi." of Mohrenheim's note
+      (document 3) stood under the next document, so document 4 showed an
+      empty first page. Put right on 2026-10-05. **You:** on your machine,
+      run `relabel_scans.py --unit iiihamdaiiinr12367 --apply` once, so the
+      two original images in `pages/` take the corrected labels (L4_01,
+      L4_02).
 
 The remaining doubtful words are listed in
 `units/iiihamdaiiinr12367/intake/unresolved.md`. None of them blocks anything.
@@ -73,8 +80,10 @@ sentences in the era essay. Details are in
 - [ ] **You: one word in the petition of 23 July** (image 047):
       "upoznieniem" in the closing formula is not a Polish word as it stands.
       A spot sheet can be made.
-- [ ] Translate the six documents into English, check and publish them.
-- [ ] Check each statement of the six summaries against its document.
+- [x] Translate the six documents into English, check and publish them
+      (done in session 2026-10-05; no check rows).
+- [x] Check each statement of the six summaries against its document: 42
+      statements, all supported.
 
 ## 3. Carried over
 

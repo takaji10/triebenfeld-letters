@@ -144,7 +144,56 @@
    "doc_line": 4
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "[Schmidt]",
+   "kind": "person",
+   "surface_de": "[Schmidt]",
+   "surface_en": "[Schmidt]",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "lubecki",
+   "display": "Lubecki",
+   "kind": "person",
+   "surface_de": "Lubecki",
+   "surface_en": "Lubecki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Prusse",
+   "surface_en": "Prussia",
+   "page": 2
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -170,9 +219,61 @@
    "doc_line": 3
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Warsaw, 2/14 December 1831 No. 301\n\nCouncillor [Schmidt],\n\nDesiring to bring the request of Mr Weigel, on whose behalf you were good enough to intervene by your communication of 10 December/28 November 1831, to the speediest success, I have just enjoined the Commission of Finances to hasten the valuation of the domain of Trąbczyn, and at the same time to examine the security of the capital which Mr Weigel holds on that estate, a task with which it was already charged last year, and to lay this affair before me.\n\nOn the other hand, as the special authorisation which His Majesty had given to Prince Lubecki to treat with Mr Weigel cannot serve any other person, I have the honour to inform you, Councillor, that having already taken this",
+   "names": [
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "[Schmidt]",
+     "en": "[Schmidt]",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Lubecki",
+     "en": "Lubecki",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "2",
+    "14",
+    "1831",
+    "301",
+    "10",
+    "28",
+    "1831"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "circumstance into consideration, I have taken the necessary steps in this respect to remove it.\n\nPray believe, Councillor, that as soon as these two difficulties have been removed, I shall do everything in my power so that the well-founded claims of a subject of His Majesty the King of Prussia, and consequently your intervention in this affair, may obtain the speediest success.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nCouncillor,\n\nYour most h[um]ble and most ob[edien]t Servant",
+   "names": [
+    {
+     "de": "Prusse",
+     "en": "Prussia",
+     "kind": "place"
+    }
+   ]
+  }
+ ],
+ "text_english": "Warsaw, 2/14 December 1831 No. 301\n\nCouncillor [Schmidt],\n\nDesiring to bring the request of Mr Weigel, on whose behalf you were good enough to intervene by your communication of 10 December/28 November 1831, to the speediest success, I have just enjoined the Commission of Finances to hasten the valuation of the domain of Trąbczyn, and at the same time to examine the security of the capital which Mr Weigel holds on that estate, a task with which it was already charged last year, and to lay this affair before me.\n\nOn the other hand, as the special authorisation which His Majesty had given to Prince Lubecki to treat with Mr Weigel cannot serve any other person, I have the honour to inform you, Councillor, that having already taken this\n\ncircumstance into consideration, I have taken the necessary steps in this respect to remove it.\n\nPray believe, Councillor, that as soon as these two difficulties have been removed, I shall do everything in my power so that the well-founded claims of a subject of His Majesty the King of Prussia, and consequently your intervention in this affair, may obtain the speediest success.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nCouncillor,\n\nYour most h[um]ble and most ob[edien]t Servant",
  "summary_en": "A letter from Warsaw to the consul general Schmidt (no. 301), signed on the scan “R. Fuhrmann”. Following Schmidt's intervention of 10 December 1831 in support of Weigel's request, the writer has ordered the finance commission to hasten the valuation of the domain of Trąbczyn, to examine at the same time how well secured the capital is that Weigel has on that estate, and to lay the matter before him; the commission was already charged with this work the year before. The special authority that His Majesty had given Prince Lubecki to treat with Weigel can serve no one else, and he has taken the steps needed to remove that obstacle. As soon as both difficulties are lifted he will do all he can so that the well-founded claims of a Prussian subject succeed promptly.",
  "summary_de": "Ein Schreiben aus Warschau an den Generalkonsul Schmidt (Nr. 301), auf der Aufnahme mit „R. Fuhrmann“ unterzeichnet. Auf Schmidts Verwendung vom 10. Dezember 1831 für das Gesuch Weigels hat der Verfasser die Finanzkommission angewiesen, die Schätzung der Domäne Trąbczyn zu beschleunigen, zugleich die Sicherheit des Kapitals zu prüfen, das Weigel auf diesem Gut hat, und ihm die Sache vorzulegen; mit dieser Arbeit war die Kommission schon im Vorjahr beauftragt. Die besondere Vollmacht, die Seine Majestät dem Fürsten Lubecki zum Verhandeln mit Weigel erteilt hatte, könne keinem anderen dienen; er habe die nötigen Schritte getan, um dieses Hindernis zu beseitigen. Sobald beide Schwierigkeiten behoben sind, werde er alles tun, damit die begründeten Ansprüche eines preußischen Untertanen rasch Erfolg haben.",
  "reading": {}

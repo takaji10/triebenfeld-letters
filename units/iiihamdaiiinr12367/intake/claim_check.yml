@@ -1,0 +1,125 @@
+# The claim check of the eleven German summaries of III. HA MdA, III. Nr. 12367,
+# made in session on 2026-10-05 under the rules read_letters.py --verify gives
+# its checker (VERIFY_SYSTEM): each statement held to the document, as
+# supported, overstated (the document says something weaker or different) or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The documents were read in the corpus
+# text and in the session's English (site/_data/translations/); page numbers
+# are the document's own.
+#
+# Result: 77 statements, 76 supported, 1 overstated (document 6: the German
+# said Lubecki had the estates valued on the spot; the letter says he ordered
+# it, and document 8 shows the valuation still pending). Weakened in
+# summaries_de.yml, site/_data/summaries_de.yml and about_de.md; the English
+# summary and about.md already said "ordered".
+# Before the check, the corpus was put right: "Mardi." (Tuesday), the last
+# line of document 3 on scan 0004, stood after the [DOC 4] marker, so document
+# 4 had an empty first page and document 3 lost its day. The summary of
+# document 3 ("an einem Dienstag geschrieben") is supported only since then.
+# Names in the edition's forms (Konstantin for "le Grand Duc Césarévitch",
+# Breslau for Wrocław in German, Reichstaler for rthlr.) count as supported.
+
+iiihamdaiiinr12367-001:
+- {claim: "Mohrenheim antwortet aus Warschau unter dem Briefkopf der auswärtigen Angelegenheiten des Königreichs Polen", verdict: supported, where: "p. 1: Royaume de Pologne ... Affaires Étrangères; signed Le B[ar]on d[e] Mohrenheim"}
+- {claim: "dem preußischen Generalkonsul Schmidt", verdict: supported, where: "p. 1: À Mr. Schmidt, Consul Général de Prusse"}
+- {claim: "auf dessen Schreiben vom 6. Februar (Nr. 275)", verdict: supported, where: "p. 1: 25. Janvier / 6. Février sub N° 275"}
+- {claim: "er verliere die Sache Weigel nicht aus den Augen", verdict: supported, where: "p. 1"}
+- {claim: "nach der Rückkehr des Großfürsten werde er mitteilen, was geregelt werden konnte", verdict: supported, where: "p. 1: au retour de Monseigneur le Grand Duc Césarévitch"}
+
+iiihamdaiiinr12367-002:
+- {claim: "undatiertes Billett Mohrenheims an Schmidt", verdict: supported, where: "p. 1: no date; M[ohrenheim]; mon cher Schmidt"}
+- {claim: "beim Aufbruch geschrieben", verdict: supported, where: "p. 1: en partant"}
+- {claim: "er habe am Vortag im Rat seine Denkschrift über die Sache Weigel und Eisenhardt vorgelesen", verdict: supported, where: "p. 1"}
+- {claim: "dort sei einstimmig anerkannt worden, dass gezahlt werden müsse", verdict: supported, where: "p. 1"}
+- {claim: "wie, darüber werde man noch beraten", verdict: supported, where: "p. 1"}
+
+iiihamdaiiinr12367-003:
+- {claim: "undatiertes Billett Mohrenheims an Schmidt, an einem Dienstag geschrieben", verdict: supported, where: "p. 1: Mardi. (since the corpus correction above)"}
+- {claim: "er schickt ihm dessen Dubois zurück", verdict: supported, where: "p. 1: voici votre Dubois"}
+- {claim: "den er mit großem Interesse gelesen habe", verdict: supported, where: "p. 1: avec quel intérêt j'ai lu"}
+- {claim: "er bittet dringend um die Fortsetzung", verdict: supported, where: "p. 1: avec instance"}
+- {claim: "die Sache Weigel werde er vorantreiben", verdict: supported, where: "p. 1: pousser l'affaire Weigel"}
+- {claim: "wegen des Übrigen solle Schmidt ruhig sein, man werde mit Ehren herauskommen", verdict: supported, where: "p. 1"}
+- {claim: "er habe dort schreckliches Wetter; der Rest des Satzes ist nicht sicher gelesen", verdict: supported, where: "p. 1: un tems affreux ... négrêtes [?]"}
+
+iiihamdaiiinr12367-004:
+- {claim: "Mohrenheim hat Schmidts Schreiben vom 18. Februar (Nr. 352) dem Großfürsten vorgelegt", verdict: supported, where: "p. 1: 6/18 de ce mois sub. No. 352"}
+- {claim: "der Administrationsrat berichtete dem Großfürsten im August des Vorjahres", verdict: supported, where: "p. 1: au mois d'Août dernier; dated February 1830"}
+- {claim: "die Zuständigkeit der Gerichte in der Sache der Bankiers Weigel und Eisenhardt könne in Frage gestellt werden", verdict: supported, where: "p. 1"}
+- {claim: "weil der Fall nur auf diplomatischem Weg zu lösen sei", verdict: supported, where: "p. 1"}
+- {claim: "der Rat ermächtigte die Kommission der Finanzen und des Schatzes, einen Zuständigkeitskonflikt zu erklären", verdict: supported, where: "p. 1"}
+- {claim: "und ihn der Generalversammlung des Staatsrats vorzulegen", verdict: supported, where: "pp. 1-2"}
+- {claim: "da der Großfürst keine weitere Mitteilung erhielt, forderte er den Rat auf, den Abschluss zu beschleunigen", verdict: supported, where: "p. 2"}
+
+iiihamdaiiinr12367-005:
+- {claim: "ein Schreiben aus Warschau an Schmidt, die Unterschrift nicht gelesen", verdict: supported, where: "p. 1; the signature is not transcribed (intake/unresolved.md)"}
+- {claim: "Schmidts Schreiben vom 26. Juli (Nr. 1648) wurde dem Finanzminister vorgelegt", verdict: supported, where: "p. 1: Prince Ministre des finances"}
+- {claim: "es betrifft den Prozess zwischen Frau Miączyńska und ihren Gläubigern wegen der Schulden des Fürsten Hohenlohe", verdict: supported, where: "p. 1"}
+- {claim: "er erinnerte den Minister an Weigels Forderung gegen den Fiskus des Königreichs", verdict: supported, where: "p. 1"}
+- {claim: "weil Urteile ihm eine Forderung dieser Art aberkannt haben", verdict: supported, where: "p. 1: des arrêts qui l'ont débouté d'une créance appartenant à cette catégorie"}
+- {claim: "zwei beiliegende Stücke zeigen, dass Schmidts Mitteilungen die nötigen Maßnahmen veranlasst haben", verdict: supported, where: "p. 1"}
+- {claim: "sein Schreiben hat der polnischen Verwaltung einen großen Dienst erwiesen, weil es sie rechtzeitig warnte", verdict: supported, where: "p. 1: un service signalé en l'avertissant à tems"}
+
+iiihamdaiiinr12367-006:
+- {claim: "Abschrift eines Schreibens des Finanzministers Fürst Lubecki an Weigel, polnisch", verdict: supported, where: "p. 1: Minister Prezydujący w Kom. Rząd. Przychodów i Skarbu; sig. X. X. Lubecki"}
+- {claim: "er erhielt Weigels Schreiben vom 10. August und die Erneuerung vom 14. September", verdict: supported, where: "p. 1"}
+- {claim: "sie verlangen Entschädigung für die Löschung seiner Forderung von 30.000 Talern aus den Gütern von Trąbczyn durch die Gerichte des Landes", verdict: supported, where: "p. 1: Sądy tutayszo-Krajowe"}
+- {claim: "dem ersten lag eine Aufstellung bei: 30.000 Kapital, 31.800 Zinsen, 1300 Kosten, zusammen 63.100", verdict: supported, where: "p. 1"}
+- {claim: "Lubecki hält die Forderung für überhöht, weil Weigel nach den geltenden Gesetzen nie so viel hätte erlangen können", verdict: supported, where: "p. 1"}
+- {claim: "er will die wirklich erlittenen, nicht die nominellen Verluste ersetzen", verdict: supported, where: "p. 1"}
+- claim: "er hat den Wert der Güter an Ort und Stelle feststellen lassen"
+  verdict: overstated
+  where: "p. 1: zmuszonym byłem zarządzić na mieyscu przekonania się, o szacunku dóbr"
+  reason: >-
+    He says he was obliged to order the inquiry, not that it was made; document
+    8 (27 November 1830) is still waiting for it. Weakened to "hat er
+    angeordnet, den Wert ... an Ort und Stelle festzustellen".
+- {claim: "deshalb habe er bisher keine genaue Antwort geben können", verdict: supported, where: "p. 1"}
+
+iiihamdaiiinr12367-007:
+- {claim: "Abschrift der Antwort Weigels an Lubecki, aus Breslau", verdict: supported, where: "p. 1: Abschrift meiner Antwort ...; Breslau d. 14 Octbre 1830"}
+- {claim: "auf dessen Schreiben vom 22. September (Nr. 59607/938)", verdict: supported, where: "p. 1: vom 22 v. M. No. 59607/938"}
+- {claim: "er übersendet beglaubigt den Hypothekenschein vom 14. August 1803 und die Taxe vom 6. Mai 1803", verdict: supported, where: "p. 1"}
+- {claim: "über Trąbczyn, Osiny, Łazy, Nowawieś, Zarobna und die Trąbczyner Hauländer", verdict: supported, where: "p. 1"}
+- {claim: "nach dem Hypothekenschein ist der Wert auf 160000 Reichstaler angenommen", verdict: supported, where: "p. 1"}
+- {claim: "vor ihm eingetragen: Kirchenkapitalien 7000 Gulden oder 1166 Rthl 16 Gr., Przepolewski (bezahlt) 5000, Lichnowski 42000, zusammen 48166 Rthl 16 Gr.", verdict: supported, where: "p. 1"}
+- {claim: "für seinen Posten (für Grottowski, jetzt für ihn) blieben 111833 Rthl 8 Gr., 48733 Rthl 8 Gr. mehr als seine 63100", verdict: supported, where: "p. 1"}
+- {claim: "die Taxe sei nach den niedrigen Grundsätzen der Domänenveranschlagung angelegt", verdict: supported, where: "p. 1"}
+- {claim: "sie komme deshalb nur auf 128917 Rthl 17 Gr.; nach Abzug blieben 80751 Rthl 1 Gr.", verdict: supported, where: "p. 2"}
+- {claim: "seine Forderung sei also ganz sicher gewesen", verdict: supported, where: "p. 2"}
+- {claim: "ohne die Versagung der Rechtshilfe hätte er die vorstehenden Posten ablösen und in der Zwangsversteigerung mitbieten können", verdict: supported, where: "p. 2: Ich konnte sobald mir nicht die Rechtshülfe versagt wurde ... in der Subhastation ... mitbieten"}
+- {claim: "er erwartet seine Befriedigung und einen nahen Termin für eine Übereinkunft, persönlich oder durch einen Bevollmächtigten", verdict: supported, where: "p. 2"}
+
+iiihamdaiiinr12367-008:
+- {claim: "Abschrift eines zweiten Schreibens Lubeckis an Weigel (Nr. 77775), polnisch", verdict: supported, where: "p. 1: Nro. 77,775; sig. X. X. Lubecki"}
+- {claim: "die mit der Eingabe vom 14. Oktober 1830 gesandten Unterlagen gab er der mit der Schätzung beauftragten Behörde", verdict: supported, where: "p. 1"}
+- {claim: "Weigel meine, sein Kapital sei nach der Taxe vollkommen gesichert gewesen", verdict: supported, where: "p. 2"}
+- {claim: "die Taxe sei 1803 aufgenommen, in einer Zeit überhöhter Güterpreise", verdict: supported, where: "p. 2"}
+- {claim: "der wirkliche Wert sei nach dem heutigen Wert zu schätzen, weil das letzte Urteil 1826 erging und erst dann vollstreckt werden konnte", verdict: supported, where: "p. 2"}
+- {claim: "Weigels Schreiben enthält keine annehmbareren Vergleichsbedingungen", verdict: supported, where: "p. 2: żadnych ... dostępnieyszych do układu warunków"}
+- {claim: "er müsse die in seiner Antwort vom 22. September erwähnte Arbeit abwarten, deren Beschleunigung er überwacht", verdict: supported, where: "p. 2"}
+
+iiihamdaiiinr12367-009:
+- {claim: "ein Schreiben aus Warschau an Schmidt (Nr. 301), auf der Aufnahme mit R. Fuhrmann unterzeichnet", verdict: supported, where: "p. 1: Nro. 301; the signature from the scan (notes.md)"}
+- {claim: "auf Schmidts Verwendung vom 10. Dezember 1831 für Weigels Gesuch", verdict: supported, where: "p. 1: 10 Decembre/28 Novembre 1831"}
+- {claim: "er wies die Finanzkommission an, die Schätzung der Domäne Trąbczyn zu beschleunigen und die Sicherheit des Kapitals zu prüfen", verdict: supported, where: "p. 1"}
+- {claim: "und ihm die Sache vorzulegen; die Kommission war schon im Vorjahr damit beauftragt", verdict: supported, where: "p. 1"}
+- {claim: "die besondere Vollmacht des Königs für Lubecki könne keinem anderen dienen", verdict: supported, where: "p. 1: Sa Majesté"}
+- {claim: "er habe die nötigen Schritte getan, dieses Hindernis zu beseitigen", verdict: supported, where: "pp. 1-2"}
+- {claim: "sobald beide Schwierigkeiten behoben sind, werde er alles tun, damit die Ansprüche eines preußischen Untertanen Erfolg haben", verdict: supported, where: "p. 2"}
+
+iiihamdaiiinr12367-010:
+- {claim: "Abschrift eines Schreibens Engels aus Warschau an Schmidt (Nr. 2216)", verdict: supported, where: "p. 1: No. 2216; signé Engel"}
+- {claim: "unter Bezug auf sein Schreiben vom 12. Februar (Nr. 1871)", verdict: supported, where: "p. 1: 31 Janvier/12 Février ... Nro. 1871"}
+- {claim: "Staatsrat Joseph Lubowidzki, Präsident der Bank von Polen, ist mit der Ausführung der Konvention vom 29. Mai 1830 beauftragt", verdict: supported, where: "p. 1: 17/29 Mai 1830"}
+- {claim: "auf Befehl des Kaisers und Königs; er hat die nötigen Anweisungen erhalten", verdict: supported, where: "p. 1"}
+- {claim: "er ist auch ermächtigt, die Fragen aus Weigels Forderung zu bereinigen", verdict: supported, where: "p. 1: applanir les questions"}
+- {claim: "Engel hofft, er werde das Vertrauen rechtfertigen und sich um die Regelung aller offenen Punkte bemühen", verdict: supported, where: "p. 1: en s'efforçant à noter ... l'ajustement; the summary does not rest on the doubtful 'noter'"}
+
+iiihamdaiiinr12367-011:
+- {claim: "ein zweites Schreiben derselben Hand wie Dokument 9 an Schmidt", verdict: supported, where: "not in the text: the signature R. Fuhrmann on both scans (notes.md)"}
+- {claim: "in Antwort auf dessen Schreiben vom 1. März (Nr. 432) über die Sache Weigel in Breslau", verdict: supported, where: "p. 1: 1 mars/18 fevrier a. c. Nro. 432; Sr. Weigel de Breslau"}
+- {claim: "infolge seiner Maßnahmen, Schmidt am 24. Dezember mitgeteilt", verdict: supported, where: "p. 1: mon office du 12/24 Décembre de l'année révolue"}
+- {claim: "die Kommission der Finanzen und des Schatzes beauftragte am 29. Februar Drake, Kommissar in der Abteilung der Staatsdomänen, mit der Schätzung", verdict: supported, where: "p. 1"}
+- {claim: "die Arbeit werde einige Zeit brauchen; danach werde er Schmidt unterrichten", verdict: supported, where: "p. 1"}
+- {claim: "er bittet ihn, dies dem Handelshaus Weigel mitzuteilen", verdict: supported, where: "p. 1"}

@@ -20,8 +20,12 @@ Der Herausgeber fragte, wessen Unterschrift unter vier der Dokumente steht. Es i
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit seiner Aufnahme verglichen worden war, und ins Englische übersetzt. Die gesonderte Prüfung, bei der jede Aussage an ihrem Dokument gemessen wird und die die Zusammenfassungen anderer Bestände erhalten haben, steht noch aus.
+Die Zusammenfassungen wurden auf Deutsch geschrieben, nachdem jedes Dokument mit seiner Aufnahme verglichen worden war, und ins Englische übersetzt. Danach wurde jede ihrer Aussagen am Dokument geprüft, nach denselben Regeln wie die gesonderte Prüfung, die die Zusammenfassungen anderer Bestände erhalten haben: Eine Zusammenfassung darf nur sagen, was das Dokument sagt. Ein Satz der deutschen Fassung wurde abgeschwächt: Der Finanzminister ordnete die Schätzung der Güter an Ort und Stelle an, doch war sie noch nicht gemacht, wie sein zweites Schreiben zeigt.
+
+### Übersetzung
+
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Jedes Schreiben wurde aus seiner eigenen Sprache übersetzt: die französischen aus dem Französischen, die beiden polnischen aus dem Polnischen und Weigels Rechnung aus dem Deutschen, mit ihren Summen in Talern und Groschen, wie er sie angibt. Die Datierung „Dienstag“ von Mohrenheims zweitem Billett war versehentlich dem folgenden Schreiben zugeordnet; sie wurde vor der Übersetzung an den Fuß des Billetts zurückgestellt, wo sie geschrieben steht. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist.
 
 ### Noch offen
 
-Die Dokumente sind noch nicht ins Englische übersetzt. Die deutschen Übersetzungen neben den beiden polnischen Schreiben, die Adressen am Fuß mehrerer Schreiben und eine quer am Rand eines Billetts geschriebene Zeile sind nicht transkribiert. Das Ende des letzten Satzes dieses Billetts ist nicht sicher gelesen.
+Das Englische ist noch nicht mit den Aufnahmen verglichen. Die deutschen Übersetzungen neben den beiden polnischen Schreiben, die Adressen am Fuß mehrerer Schreiben und eine quer am Rand eines Billetts geschriebene Zeile sind nicht transkribiert. Das Ende des letzten Satzes dieses Billetts ist nicht sicher gelesen.

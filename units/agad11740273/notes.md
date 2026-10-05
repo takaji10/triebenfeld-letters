@@ -5,7 +5,8 @@ petitions for the return of her father's confiscated estates and the
 Governing Commission's draft resolution granting it, from the commission's
 file of its stay at Dresden. Added on 2026-10-04 at the editor's request:
 pages cut out of the images, the editor's text cut to pages, corrected,
-summarised, and given its place on the site. Not translated. Its companion is
+summarised, and given its place on the site; translated and its summaries
+claim-checked in session on 2026-10-05. Its companion is
 AGAD 1/174/0/1/6 (`units/agad1174016/`), the commission's register.
 
 ## Provenance
@@ -117,7 +118,7 @@ word and a rewrite of `site/the-story.md`.
 
 German summaries written in session from a reading of each document against
 its scan, the English translated from them (`intake/summaries_draft.py`).
-**Not claim-checked.** `site/_data/summaries.yml` and `summaries_de.yml` were
+Claim-checked in session on 2026-10-05 (below). `site/_data/summaries.yml` and `summaries_de.yml` were
 not rebuilt from the local cache: the committed files were restored and the
 new entries inserted.
 
@@ -134,9 +135,29 @@ and Esterpol. Glossary: "Lipca" ruled out; the entry for the Prussian court
 called Regierung no longer marks "die preußische Regierung" or "the Prussian
 Government" (it did so in Nr. 12366 and Nr. 12765 as well).
 
+## Translation and claim check (2026-10-05)
+
+Translated in session, as Nr. 12366 was, not by the paid run; the pages are
+in `intake/translation/doc<N>.yml`, written into the untagged cache by
+`intake/translation/write_cache.py`. Status `translated`, `published_tag:
+""`. check_translations.py: no row. uncanonical_names.py: nothing.
+
+- Names as the page spells them (Dambska, Zanitz, Niemoiewski,
+  Hohenlo[h]e with the editor's bracket), except Bischoffswerder, which the
+  termbase makes Bischoffwerder, and Trąbczyn. The forms of address JW., JP.
+  and JPani are "the Most Illustrious", "Mr" and "Mrs"; the gate's candidate
+  "JW." is ruled out in `reference/glossary.yml` for that reason.
+- "Magazynu w Wrocławku" is "the Storehouse at Wrocławku", in the page's
+  case: the house rule in `english_forms.yml` turns "Wrocławek" into
+  Włocławek, which lay in another department.
+- "upoznieniem" (document 4) is left in Polish and recorded as not
+  construing.
+
+`intake/claim_check.yml`: 28 statements, all supported.
+
 ## Still to do
 
 - The editor's ruling on the era.
-- Translation, and the claim check of the summaries.
+- Reading the English against the scans.
 - The words in `intake/unresolved.md`, above all the struck clause of the
   draft.

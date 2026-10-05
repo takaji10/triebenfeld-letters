@@ -140,7 +140,112 @@
    "doc_line": 7
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "the Most Illustrious Wybicki",
+   "kind": "person",
+   "surface_de": "JW. Wybickiemu",
+   "surface_en": "the Most Illustrious Wybicki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Governing Commission",
+   "kind": "other",
+   "surface_de": "Kommissya Rządząca",
+   "surface_en": "Governing Commission",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Finckenstein",
+   "kind": "place",
+   "surface_de": "Finckenstein",
+   "surface_en": "Finckenstein",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Maniezki",
+   "kind": "place",
+   "surface_de": "Maniezki",
+   "surface_en": "Maniezki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Przylepki",
+   "kind": "place",
+   "surface_de": "Przylepki",
+   "surface_en": "Przylepki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Boreczek",
+   "kind": "place",
+   "surface_de": "Boreczek",
+   "surface_en": "Boreczek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Esterpol",
+   "kind": "place",
+   "surface_de": "Esterpol",
+   "surface_en": "Esterpol",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Department of Poznań",
+   "kind": "place",
+   "surface_de": "Departamencie Poznańskim",
+   "surface_en": "Department of Poznań",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Department of Poznań",
+   "kind": "place",
+   "surface_de": "Departamentu Poznańskiego",
+   "surface_en": "Department of Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Most Illustrious Wybicki",
+   "kind": "person",
+   "surface_de": "JW Wybickiego",
+   "surface_en": "the Most Illustrious Wybicki",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warszawie",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Stanisław Małachowski",
+   "kind": "person",
+   "surface_de": "Stanisław Małachowski",
+   "surface_en": "Stanisław Małachowski",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Jan Łuszczewski",
+   "kind": "person",
+   "surface_de": "Jan Łuszczewski",
+   "surface_en": "Jan Łuszczewski",
+   "page": 2
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -155,9 +260,95 @@
    "doc_line": 5
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Order for the execution of the Imperial Decree commanding the return of the Estates confiscated from the Most Illustrious Wybicki by the past Government\n\nThe Governing Commission\n\nJuly the 12th\n\nSending to the Honourable Director of Internal Affairs, in an Authentic Copy certified by the signature of Our President, the Decree of the Most Serene Emperor of the French and King of Italy, issued at Finckenstein on 5 June of this year, which returns to the Most Illustrious Wybicki, Our Colleague, the Possession of the Estates of Maniezki, Przylepki, Boreczek and Esterpol, which had been sequestrated from him in the Department of Poznań,",
+   "names": [
+    {
+     "de": "JW. Wybickiemu",
+     "en": "the Most Illustrious Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Kommissya Rządząca",
+     "en": "Governing Commission",
+     "kind": "other"
+    },
+    {
+     "de": "Finckenstein",
+     "en": "Finckenstein",
+     "kind": "place"
+    },
+    {
+     "de": "Maniezki",
+     "en": "Maniezki",
+     "kind": "place"
+    },
+    {
+     "de": "Przylepki",
+     "en": "Przylepki",
+     "kind": "place"
+    },
+    {
+     "de": "Boreczek",
+     "en": "Boreczek",
+     "kind": "place"
+    },
+    {
+     "de": "Esterpol",
+     "en": "Esterpol",
+     "kind": "place"
+    },
+    {
+     "de": "Departamencie Poznańskim",
+     "en": "Department of Poznań",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "12",
+    "5"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "and which the Prussian Government had disposed of, and which charges the Provisional Polish Government with its execution; We instruct the said Honourable Director of Internal Affairs to proceed without delay to the execution of this Imperial Decree, to order the Administrative Chamber of the Department of Poznań to hand over the Estates named above for the Most Illustrious Wybicki, and to instruct that he be put into possession of those Estates without delay. — Done at Warsaw at the Session of 12 July 1807.\n\nStanisław Małachowski, President\n\nJan Łuszczewski, Secretary General",
+   "names": [
+    {
+     "de": "Departamentu Poznańskiego",
+     "en": "Department of Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "JW Wybickiego",
+     "en": "the Most Illustrious Wybicki",
+     "kind": "person"
+    },
+    {
+     "de": "Warszawie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Stanisław Małachowski",
+     "en": "Stanisław Małachowski",
+     "kind": "person"
+    },
+    {
+     "de": "Jan Łuszczewski",
+     "en": "Jan Łuszczewski",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "12",
+    "1807"
+   ]
+  }
+ ],
+ "text_english": "Order for the execution of the Imperial Decree commanding the return of the Estates confiscated from the Most Illustrious Wybicki by the past Government\n\nThe Governing Commission\n\nJuly the 12th\n\nSending to the Honourable Director of Internal Affairs, in an Authentic Copy certified by the signature of Our President, the Decree of the Most Serene Emperor of the French and King of Italy, issued at Finckenstein on 5 June of this year, which returns to the Most Illustrious Wybicki, Our Colleague, the Possession of the Estates of Maniezki, Przylepki, Boreczek and Esterpol, which had been sequestrated from him in the Department of Poznań,\n\nand which the Prussian Government had disposed of, and which charges the Provisional Polish Government with its execution; We instruct the said Honourable Director of Internal Affairs to proceed without delay to the execution of this Imperial Decree, to order the Administrative Chamber of the Department of Poznań to hand over the Estates named above for the Most Illustrious Wybicki, and to instruct that he be put into possession of those Estates without delay. — Done at Warsaw at the Session of 12 July 1807.\n\nStanisław Małachowski, President\n\nJan Łuszczewski, Secretary General",
  "summary_en": "An entry in the register of the Governing Commission, in Polish: an order to the Director of Internal Affairs, given at Warsaw at the session of 12 July 1807. The commission sends him a certified copy of the decree of the Emperor of the French and King of Italy, given at Finckenstein on 5 June, which returns to its member Wybicki the possession of the estates of Manieczki, Przylepki, Boreczek and Esterpol, sequestrated in the department of Poznań and disposed of by the Prussian government, and charges the provisional Polish government with carrying it out. The director is to carry out the decree without delay: to order the administrative chamber of the department of Poznań to hand the estates over for Wybicki, and to have him put in possession at once. Under the entry stand the names of the president, Stanisław Małachowski, and the secretary general, Jan Łuszczewski.",
  "summary_de": "Eintrag im Register der Regierungskommission, in polnischer Sprache: eine Anordnung an den Direktor der inneren Angelegenheiten, in Warschau in der Sitzung vom 12. Juli 1807 ergangen. Die Kommission übersendet ihm in beglaubigter Abschrift das Dekret des Kaisers der Franzosen und Königs von Italien, am 5. Juni in Finckenstein erlassen, das ihrem Mitglied Wybicki den Besitz der Güter Manieczki, Przylepki, Boreczek und Esterpol zurückgibt, die im Departement Poznań sequestriert waren und über die die preußische Regierung verfügt hatte, und das der provisorischen polnischen Regierung die Ausführung aufträgt. Der Direktor soll das Dekret unverzüglich ausführen: der Verwaltungskammer des Departements Poznań befehlen, die Güter für Wybicki zu übergeben, und ihn ohne Verzug in den Besitz einweisen lassen. Unter dem Eintrag stehen die Namen des Präsidenten Stanisław Małachowski und des Generalsekretärs Jan Łuszczewski.",
  "reading": {}

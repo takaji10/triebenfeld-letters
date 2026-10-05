@@ -4,8 +4,9 @@
     python units/agad11740273/intake/summaries_draft.py
 
 Each document was read whole against its scan on 2026-10-04 and summarised in
-German; the English is a translation of the German. They have NOT had the
-claim check (read_letters.py --verify, paid, or its in-session equivalent).
+German; the English is a translation of the German. They were claim-checked in
+session on 2026-10-05 (claim_check.yml beside this file), as read_letters.py
+--verify checks, not by the paid run: all supported.
 This script writes the records summarise.py would have written
 (units/<slug>/summaries_de.yml, cache/summaries-raw-de/, cache/summaries-raw/),
 so that `summarise.py --build` publishes them. Follows
@@ -39,7 +40,8 @@ def main():
     with open(os.path.join(UNIT_DIR, 'summaries_de.yml'), 'w', encoding='utf-8', newline='\n') as f:
         f.write(f'# German summaries of {REF}, written in the working session from a\n'
                 '# reading of each document against its scan (intake/summaries_draft.py, 2026-10-04).\n'
-                '# Not claim-checked. A finding aid, not part of the edition text. Published\n'
+                '# Claim-checked in session on 2026-10-05 (intake/claim_check.yml).\n'
+                '# A finding aid, not part of the edition text. Published\n'
                 '# through summarise.py --build --lang de.\n')
         for n, (de, _en) in sorted(S.items()):
             f.write(f'{SLUG}-{n:03d}: {json.dumps(de, ensure_ascii=False)}\n')
@@ -49,7 +51,7 @@ def main():
         for n, pair in S.items():
             pad = f'{SLUG}-{n:03d}'
             json.dump({'letter': str(n), 'pad': pad, 'summary': pair[i],
-                       'model': 'in-session, 2026-10-04; not claim-checked',
+                       'model': 'in-session, 2026-10-04; claim-checked in session 2026-10-05',
                        'usage': {'input': 0, 'output': 0, 'cache_read': 0}},
                       open(os.path.join(d, pad + '.json'), 'w', encoding='utf-8'),
                       ensure_ascii=False, indent=1)

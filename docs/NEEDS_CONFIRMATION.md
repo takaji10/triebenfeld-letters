@@ -78,11 +78,11 @@ read, translate and summarise.
     `units/iiihamdaiiinr12366/intake/unresolved.md`.
 
 - **III. HA MdA, III. Nr. 12367** is in (2026-10-04): eleven documents of
-  1828 to 1832 from the second volume of the same file, corrected and
-  summarised in both languages. Still open:
+  1828 to 1832 from the second volume of the same file, corrected,
+  summarised in both languages, translated and its summaries claim-checked
+  in session (2026-10-05). Still open:
   - **its era**, with Nr. 12366's: it is placed in the Hohenlohe-Ingelfingen
     years because it is about a debt of his, though he died in 1818;
-  - **translation**, and the **claim check** of its summaries (neither done);
   - **the German translations written beside Prince Lubecki's two Polish
     letters** (scans 0008, 0009 right, 0010) are not in the editor's
     transcription. They are texts of 1830 and were used to check the Polish.
@@ -94,7 +94,8 @@ read, translate and summarise.
 
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6** are in (2026-10-04): six documents
   of July 1807, the petitions of Michalina Dąbska and the Governing
-  Commission's resolution returning her father's estates. Still open:
+  Commission's resolution returning her father's estates, translated and
+  their summaries claim-checked in session (2026-10-05). Still open:
   - **their era**: placed in the Hohenlohe-Ingelfingen years for now. By
     `reference/eras.yml` they are the first documents of the restitution
     era, which would then stop being empty; `site/the-story.md` says that
@@ -106,8 +107,7 @@ read, translate and summarise.
     the session, not by the editor;
   - **a struck-out clause** at the end of the draft resolution ("z
     zachowaniem praw Im służących") is not transcribed. The editor to say
-    whether struck text is to be given;
-  - **translation**, and the **claim check** of the summaries.
+    whether struck text is to be given.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -205,7 +205,7 @@ Places (`reference/places.yml`, `open_questions`):
 
 ## Translations
 
-All 442 English translations are machine drafts (`status: draft` in
+All 459 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
 Five documents without English have no text to translate: in Oe 1 Bü 9454
@@ -217,6 +217,11 @@ the badly read draft 14 and the registry note of 13. The six of Nr. 12366
 (five French, one Polish) were translated in session the same day; its two
 review rows are French words ("transactions", "rendant") that the termbase
 patterns for *Transact* and *Rendant* mistake for German, neither a fault.
+The seventeen of Nr. 12367 and the two AGAD holdings were translated in
+session on 2026-10-05; their one review row is deliberate: "7,000 fl." in
+Weigel's reckoning (12367, 7) is rendered Polish florins, not the termbase's
+gulden, since church capital on a Polish estate is reckoned at six to the
+thaler.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`

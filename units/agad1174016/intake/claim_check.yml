@@ -1,0 +1,25 @@
+# The claim check of the two German summaries of AGAD 1/174/0/1/6, made in
+# session on 2026-10-05 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run.
+#
+# Result: 14 statements, all supported. Manieczki is the edition's form of the
+# register's "Maniezki".
+
+agad1174016-001:
+- {claim: "Eintrag im Register der Regierungskommission, polnisch", verdict: supported, where: "p. 1"}
+- {claim: "eine Anordnung an den Direktor der inneren Angelegenheiten", verdict: supported, where: "p. 1: Zalecenie ... W. Dyrektorowi Spraw Wewnętrznych"}
+- {claim: "ergangen in Warschau in der Sitzung vom 12. Juli 1807", verdict: supported, where: "p. 2"}
+- {claim: "sie übersendet das Dekret des Kaisers der Franzosen und Königs von Italien, am 5. Juni in Finckenstein erlassen, in beglaubigter Abschrift", verdict: supported, where: "p. 1"}
+- {claim: "es gibt Wybicki den Besitz von Manieczki, Przylepki, Boreczek und Esterpol zurück", verdict: supported, where: "p. 1"}
+- {claim: "die Güter waren im Departement Poznań sequestriert und die preußische Regierung hatte darüber verfügt", verdict: supported, where: "pp. 1-2"}
+- {claim: "es trägt der provisorischen polnischen Regierung die Ausführung auf", verdict: supported, where: "p. 2"}
+- {claim: "der Direktor soll das Dekret unverzüglich ausführen, der Kammer die Übergabe befehlen und Wybicki einweisen lassen", verdict: supported, where: "p. 2"}
+- {claim: "darunter die Namen Stanisław Małachowski und Jan Łuszczewski", verdict: supported, where: "p. 2"}
+
+agad1174016-002:
+- {claim: "Eintrag im Register, polnisch, mit dem das Verzeichnis der Dresdner Beschlüsse beginnt", verdict: supported, where: "p. 1: Protokuł Uchwał ... pod bytność Jey w Dreznie wydanych"}
+- {claim: "der Beschluss vom 21. Juli 1807 stellt die konfiszierten Erbgüter Dąbskas, Niemojewskis und Wichrowskis unter das Urteil für Wybicki", verdict: supported, where: "p. 1"}
+- {claim: "die Sache Dąbskas, geborene Prusimska, wurde der Kommission vom Kaiser überwiesen", verdict: supported, where: "p. 1: z Prusińskich, the clerk's form"}
+- {claim: "nach dem Vorbild des Dekrets von Finckenstein vom 5. Juni dehnt die Kommission das Urteil aus, damit die Güter an die Eigentümer zurückfallen", verdict: supported, where: "p. 1"}
+- {claim: "darunter die Namen Małachowski und Łuszczewski", verdict: supported, where: "p. 1"}

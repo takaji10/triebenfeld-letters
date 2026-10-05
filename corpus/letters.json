@@ -54881,7 +54881,7 @@
   "place": "Warschau",
   "sender": "Mohrenheim",
   "recipient": "Schmidt",
-  "line_start": 21,
+  "line_start": 22,
   "line_end": 34,
   "uncertainty_count": 0,
   "has_damage": 0,
@@ -54893,33 +54893,13 @@
    "trabczyn"
   ],
   "is_missing": 0,
-  "n_lines": 11,
-  "n_pages": 3,
-  "text": "Mardi.\nVarsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\nà la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
-  "text_reading": "Mardi.\n\nVarsovie le 8/20 février 1830\n\nRoyaume de Pologne\n\nAffaires Etrangères\n\nNro. 85\n\nMonsieur,\n\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\n\nà la décision de l’Assemblée générale du Conseil d’Etat.\n\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\n\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\n\nMohrenheim",
+  "n_lines": 10,
+  "n_pages": 2,
+  "text": "Varsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\nà la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
+  "text_reading": "Varsovie le 8/20 février 1830\n\nRoyaume de Pologne\n\nAffaires Etrangères\n\nNro. 85\n\nMonsieur,\n\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter\n\nà la décision de l’Assemblée générale du Conseil d’Etat.\n\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\n\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\n\nMohrenheim",
   "pages": [
    {
     "page": 1,
-    "page_id": "",
-    "line_start": 22,
-    "line_end": 22,
-    "n_lines": 1,
-    "diplomatic": "Mardi.",
-    "transcription": "Mardi.",
-    "reading": "Mardi.",
-    "paragraphs": [
-     "Mardi."
-    ],
-    "sideways_lines": [],
-    "sideways_paragraphs": [],
-    "continues_previous": false,
-    "continues_next": true,
-    "scan": "",
-    "doc_line_start": 1,
-    "doc_line_end": 1
-   },
-   {
-    "page": 2,
     "page_id": "0005_a",
     "line_start": 24,
     "line_end": 29,
@@ -54937,15 +54917,15 @@
     ],
     "sideways_lines": [],
     "sideways_paragraphs": [],
-    "continues_previous": true,
+    "continues_previous": false,
     "continues_next": true,
-    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg",
-    "doc_line_start": 2,
-    "doc_line_end": 7,
+    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
+    "doc_line_start": 1,
+    "doc_line_end": 6,
     "by_paragraph": true
    },
    {
-    "page": 3,
+    "page": 2,
     "page_id": "0006_a",
     "line_start": 31,
     "line_end": 34,
@@ -54963,9 +54943,9 @@
     "sideways_paragraphs": [],
     "continues_previous": true,
     "continues_next": false,
-    "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg",
-    "doc_line_start": 8,
-    "doc_line_end": 11,
+    "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg",
+    "doc_line_start": 7,
+    "doc_line_end": 10,
     "by_paragraph": true
    }
   ]
@@ -55618,7 +55598,7 @@
   "sender": "Mohrenheim",
   "recipient": "Schmidt",
   "line_start": 17,
-  "line_end": 20,
+  "line_end": 21,
   "uncertainty_count": 1,
   "has_damage": 0,
   "rough_transcription": 0,
@@ -55629,23 +55609,24 @@
    "trabczyn"
   ],
   "is_missing": 0,
-  "n_lines": 2,
+  "n_lines": 3,
   "n_pages": 1,
-  "text": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim",
-  "text_reading": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\n\nL. B. d. Mohrenheim",
+  "text": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim\nMardi.",
+  "text_reading": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\n\nL. B. d. Mohrenheim\n\nMardi.",
   "pages": [
    {
     "page": 1,
     "page_id": "0004_a",
     "line_start": 19,
-    "line_end": 20,
-    "n_lines": 2,
-    "diplomatic": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim",
-    "transcription": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim",
-    "reading": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\n\nL. B. d. Mohrenheim",
+    "line_end": 21,
+    "n_lines": 3,
+    "diplomatic": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim\nMardi.",
+    "transcription": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\nL. B. d. Mohrenheim\nMardi.",
+    "reading": "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].\n\nL. B. d. Mohrenheim\n\nMardi.",
     "paragraphs": [
      "Mon cher Schmidt, voici votre Dubois ; je rougis presque de Vous dire avec quel intérêt j'ai lu toutes ces scélératesses, cela ne m'empêche pas cependant de Vous en demander la continuation avec instance. — Je ne manquerai pas de pousser l'affaire Weigel & soyez tranquille sur le reste je Vous promets que nous nous en tirerons avec honneur. J'ai ici un tems affreux qui font parfois mon pain de négrêtes [?].",
-     "L. B. d. Mohrenheim"
+     "L. B. d. Mohrenheim",
+     "Mardi."
     ],
     "sideways_lines": [],
     "sideways_paragraphs": [],
@@ -55653,7 +55634,7 @@
     "continues_next": false,
     "scan": "III_HA_MdA_III_Nr_12367_0004_a-L3_01.jpg",
     "doc_line_start": 1,
-    "doc_line_end": 2,
+    "doc_line_end": 3,
     "by_paragraph": true
    }
   ]
@@ -56236,4 +56217,4 @@
    }
   ]
  }
-]
+]

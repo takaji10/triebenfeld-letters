@@ -112,7 +112,64 @@
    "doc_line": 8
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Kingdom of Poland",
+   "kind": "place",
+   "surface_de": "Royaume de Pologne",
+   "surface_en": "Kingdom of Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Grand Duke Cesarevich",
+   "kind": "person",
+   "surface_de": "le Grand Duc Césarévitch",
+   "surface_en": "the Grand Duke Cesarevich",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "B[ar]on d[e] Mohrenheim",
+   "kind": "person",
+   "surface_de": "Le B[ar]on d[e] Mohrenheim",
+   "surface_en": "B[ar]on d[e] Mohrenheim",
+   "page": 1
+  },
+  {
+   "entity": "schmidt-konsul",
+   "display": "Schmidt (consul general)",
+   "kind": "person",
+   "surface_de": "Schmidt",
+   "surface_en": "Schmidt",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Prusse",
+   "surface_en": "Prussia",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -127,9 +184,60 @@
    "doc_line": 1
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Kingdom of Poland. Warsaw, 26 January / 7 February 1828.\n\nForeign Affairs.\n\nNo. 85.\n\nSir,\n\nIn reply to your communication dated 25 January / 6 February, under No. 275, I have the honour to inform you, Sir, that I am not losing sight of the Weigel affair, and that I reserve it to myself, on the return of His Highness the Grand Duke Cesarevich, to let you know whatever may have been settled in that respect.\n\nAccept, Sir, the assurance of my most distinguished consideration.\n\nB[ar]on d[e] Mohrenheim\n\nTo Mr Schmidt, Consul General of Prussia.",
+   "names": [
+    {
+     "de": "Royaume de Pologne",
+     "en": "Kingdom of Poland",
+     "kind": "place"
+    },
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "le Grand Duc Césarévitch",
+     "en": "the Grand Duke Cesarevich",
+     "kind": "person"
+    },
+    {
+     "de": "Le B[ar]on d[e] Mohrenheim",
+     "en": "B[ar]on d[e] Mohrenheim",
+     "kind": "person"
+    },
+    {
+     "de": "Schmidt",
+     "en": "Schmidt",
+     "kind": "person"
+    },
+    {
+     "de": "Prusse",
+     "en": "Prussia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "26",
+    "7",
+    "1828",
+    "85",
+    "25",
+    "6",
+    "275"
+   ]
+  }
+ ],
+ "text_english": "Kingdom of Poland. Warsaw, 26 January / 7 February 1828.\n\nForeign Affairs.\n\nNo. 85.\n\nSir,\n\nIn reply to your communication dated 25 January / 6 February, under No. 275, I have the honour to inform you, Sir, that I am not losing sight of the Weigel affair, and that I reserve it to myself, on the return of His Highness the Grand Duke Cesarevich, to let you know whatever may have been settled in that respect.\n\nAccept, Sir, the assurance of my most distinguished consideration.\n\nB[ar]on d[e] Mohrenheim\n\nTo Mr Schmidt, Consul General of Prussia.",
  "summary_en": "Baron Mohrenheim, writing from Warsaw under the letterhead of the foreign affairs of the Kingdom of Poland, answers the note of the Prussian consul general Schmidt of 6 February (no. 275): he is not losing sight of the Weigel matter and, once Grand Duke Constantine has returned, will tell him what it has been possible to settle.",
  "summary_de": "Baron Mohrenheim antwortet aus Warschau, unter dem Briefkopf der auswärtigen Angelegenheiten des Königreichs Polen, dem preußischen Generalkonsul Schmidt auf dessen Schreiben vom 6. Februar (Nr. 275): Er verliere die Sache Weigel nicht aus den Augen und werde ihm nach der Rückkehr des Großfürsten Konstantin mitteilen, was darin geregelt werden konnte.",
  "reading": {}

@@ -1,0 +1,47 @@
+# The claim check of the four German summaries of AGAD 1/174/0/2/73, made in
+# session on 2026-10-05 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# documents were read in the corpus text and in the session's English.
+#
+# Result: 28 statements, all supported. Statements resting on the scan rather
+# than the text (that document 1 is a corrected draft; that document 3 is
+# addressed on its back) are marked so. Names in the edition's forms (Dąbska
+# for Dambska, Sanitz for Zanitz, Niemojewski for Niemoiewski) count as
+# supported.
+
+agad11740273-001:
+- {claim: "Entwurf eines Beschlusses der Regierungskommission, in Dresden gefasst, polnisch", verdict: supported, where: "p. 1: Kommissya Rządząca ... Działo się w Dreznie 21. Lipca 1807; a draft by the scan (struck words, intake/unresolved.md)"}
+- {claim: "die Sache der Michalina Dąbska, geborene Prusimska, wurde der Kommission vom Kaiser überwiesen", verdict: supported, where: "p. 1: do Nas przez N° Cesarza został odesłany"}
+- {claim: "sie verlangt die Rückgabe ihrer unter der früheren Regierung konfiszierten und anderen übergebenen Erbgüter", verdict: supported, where: "p. 1"}
+- {claim: "die Kommission nimmt sich die Gerechtigkeit zum Vorbild, die der Kaiser Wybicki durch das Dekret von Finckenstein vom Juni erwies", verdict: supported, where: "p. 1"}
+- {claim: "sie dehnt das Urteil auf Michalina Dąbska, General Niemojewski und Wichrowski aus", verdict: supported, where: "p. 1"}
+- {claim: "deren konfiszierte Erbgüter sollen an ihre wahren Eigentümer zurückfallen", verdict: supported, where: "p. 1"}
+- {claim: "der Entwurf ist an mehreren Stellen verbessert", verdict: supported, where: "not in the text: the scan's struck and written-in words (intake/unresolved.md)"}
+- {claim: "er trägt die Paraphe des Präsidenten Małachowski", verdict: supported, where: "p. 1: St[anisław] Mał[achowski]"}
+
+agad11740273-002:
+- {claim: "Michalina Dąbska, geborene Prusimska, schreibt in Dresden an die Regierungskommission, polnisch", verdict: supported, where: "p. 1: w Dreznie dnia 20. Lipca 1807; Michalina z Prusimskich Dambska"}
+- {claim: "sie habe schon zweimal um die Rückgabe gebeten", verdict: supported, where: "p. 1: podwakroć"}
+- {claim: "die Güter wurden ihrem Vater zugunsten der Generale Hohenlohe, Bischoffswerder und Sanitz konfisziert", verdict: supported, where: "p. 1"}
+- {claim: "Trąbczyn im Departement Kalisz; Kamionna, Kolno, Pawłowo, Pawłówko und ein Magazin in „Wrocławek“ im Departement Poznań", verdict: supported, where: "p. 1 (Pawłówka and Wrocławku in the page's cases)"}
+- {claim: "eine Antwort habe sie noch nicht erhalten", verdict: supported, where: "p. 1"}
+- {claim: "Wybicki habe seine ebenso konfiszierten Güter vom Kaiser zurückerhalten", verdict: supported, where: "p. 1"}
+- {claim: "sie bittet die Kommission, sich für sie zu verwenden und ihr Gelegenheit zu einem gleichen Urteil zu geben", verdict: supported, where: "p. 1"}
+- {claim: "die Kommission vermerkt die Vorlage am 21. Juli", verdict: supported, where: "p. 1: Praesent. d. 21. July"}
+
+agad11740273-003:
+- {claim: "sie bittet in Dresden den Kaiser Napoleon auf Französisch", verdict: supported, where: "p. 1: Sire ... Votre Majesté Impériale et Royale; Dresde le 21. Juillet 1807"}
+- {claim: "sie habe ihre Beschwerden und Hoffnungen schon über die polnische Regierung vorlegen lassen", verdict: supported, where: "p. 1"}
+- {claim: "sie habe noch nichts von einem Dekret erfahren, das sie in die Güter wieder einsetzt", verdict: supported, where: "p. 1"}
+- {claim: "die Güter wurden zugunsten der Generale Hohenlohe, Bischoffswerder und Sanitz konfisziert", verdict: supported, where: "p. 1"}
+- {claim: "sie ist überzeugt, dass ihr dieselbe Gerechtigkeit wie Wybicki zuteil wird, und bittet, sie ihr nicht zu verweigern", verdict: supported, where: "p. 1"}
+- {claim: "vorgelegt am 21. Juli 1807 in außerordentlicher Sitzung in Dresden vom Fürsten Kriegsdirektor auf Befehl des Kaisers; Paraphe Małachowskis", verdict: supported, where: "p. 1, the receiving office's note"}
+- {claim: "das Blatt ist auf der Rückseite an Małachowski adressiert", verdict: supported, where: "p. 2 (the back of the leaf by the scan)"}
+
+agad11740273-004:
+- {claim: "sie schreibt in Dresden erneut an die Regierungskommission, polnisch", verdict: supported, where: "p. 1: Kommissyo Rządząca!; dnia 23. Lipca 1807 Drezno"}
+- {claim: "das Dekret des Kaisers vom 5. Juni für Wybicki sei Grundsatz und Muster für die im Dekret der Kommission vom 21. Juli Genannten gewesen", verdict: supported, where: "p. 1"}
+- {claim: "sie zweifle nicht, dass die Kommission die Ausführung ebenso wie für Wybicki anweise", verdict: supported, where: "p. 1"}
+- {claim: "und die Direktion der inneren Angelegenheiten anweise, den Verwaltungskammern die Einweisung zu befehlen", verdict: supported, where: "p. 1"}
+- {claim: "die Kommission vermerkt die Vorlage am 23. Juli 1807 und legt das Schreiben zu den Akten", verdict: supported, where: "p. 1: Presentatum 23. Lipca 1807. — ad Acta"}

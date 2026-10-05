@@ -111,7 +111,56 @@
    "doc_line": 5
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "[Mr Schmidt,]",
+   "kind": "person",
+   "surface_de": "[Monsieur Schmidt,]",
+   "surface_en": "[Mr Schmidt,]",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 1
+  },
+  {
+   "entity": "drake",
+   "display": "Drake",
+   "kind": "person",
+   "surface_de": "Drake",
+   "surface_en": "Drake",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -148,9 +197,57 @@
    "doc_line": 3
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Warsaw, 8/20 March 1832\n\n[Mr Schmidt,]\n\nIn reply to the communication which you were good enough to address to me dated 1 March/18 February of this year, No. 432, concerning the settlement of the affair of Mr Weigel of Wrocław, it is most agreeable to me to inform you, Consul, that in consequence of the measures which I have taken, and of which I had the honour to inform you by my communication of 12/24 December of the past year, the Commission of Finances and the Treasury, by its decision of 29 February of this year, has charged Mr Drake, Commissioner in the Department of the State Domains, with the valuation of the estates of Trąbczyn.\n\nAs soon as this operation, which (as you will be in a position to judge) will require a good deal of time, has been brought to an end, which I shall see to on my side, I shall not fail to inform you of it.\n\nMeanwhile I beg you kindly to communicate this circumstance to the commercial house of Weigel, and to accept at the same time the testimony of the distinguished consideration with which I have the honour to be,\n\nCouncillor,\n\nYour most humble and most obedient Servant",
+   "names": [
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "[Monsieur Schmidt,]",
+     "en": "[Mr Schmidt,]",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Drake",
+     "en": "Drake",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "8",
+    "20",
+    "1832",
+    "1",
+    "18",
+    "432",
+    "12",
+    "24",
+    "29"
+   ]
+  }
+ ],
+ "text_english": "Warsaw, 8/20 March 1832\n\n[Mr Schmidt,]\n\nIn reply to the communication which you were good enough to address to me dated 1 March/18 February of this year, No. 432, concerning the settlement of the affair of Mr Weigel of Wrocław, it is most agreeable to me to inform you, Consul, that in consequence of the measures which I have taken, and of which I had the honour to inform you by my communication of 12/24 December of the past year, the Commission of Finances and the Treasury, by its decision of 29 February of this year, has charged Mr Drake, Commissioner in the Department of the State Domains, with the valuation of the estates of Trąbczyn.\n\nAs soon as this operation, which (as you will be in a position to judge) will require a good deal of time, has been brought to an end, which I shall see to on my side, I shall not fail to inform you of it.\n\nMeanwhile I beg you kindly to communicate this circumstance to the commercial house of Weigel, and to accept at the same time the testimony of the distinguished consideration with which I have the honour to be,\n\nCouncillor,\n\nYour most humble and most obedient Servant",
  "summary_en": "A second letter in the same hand as document 9 to the consul general Schmidt, answering his note of 1 March (no. 432) on the settlement of the affair of Weigel of Wrocław. As a result of the measures the writer took and reported to Schmidt on 24 December of the previous year, the Commission of Finance and Treasury on 29 February charged Mr Drake, a commissioner in the department of state domains, with valuing the Trąbczyn estates. The work will take some time; as soon as it is finished he will inform Schmidt. He asks him meanwhile to tell the trading house of Weigel.",
  "summary_de": "Ein zweites Schreiben derselben Hand wie Dokument 9 an den Generalkonsul Schmidt, in Antwort auf dessen Schreiben vom 1. März (Nr. 432) über die Erledigung der Sache des Weigel in Breslau. Infolge der Maßnahmen, die der Verfasser getroffen und Schmidt am 24. Dezember des Vorjahres mitgeteilt hat, hat die Kommission der Finanzen und des Schatzes am 29. Februar Herrn Drake, Kommissar in der Abteilung der Staatsdomänen, mit der Schätzung der Güter von Trąbczyn beauftragt. Die Arbeit werde einige Zeit brauchen; sobald sie abgeschlossen ist, werde er Schmidt unterrichten. Er bittet ihn, dies inzwischen dem Handelshaus Weigel mitzuteilen.",
  "reading": {}

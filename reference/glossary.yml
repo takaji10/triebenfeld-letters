@@ -2483,3 +2483,6 @@ excluded:
   - {word: "Nro.", reason: "numero, the number of a letter in the sender's journal; plain"}
   # ruled 2026-10-04, from AGAD 1/174/0/2/73 and 1/174/0/1/6 (Polish and French)
   - {word: "Lipca", reason: "Polish, of July; stands after the day in a date"}
+  # ruled 2026-10-05, when the three holdings were translated
+  - {word: "JW.", reason: "Polish, Jaśnie Wielmożny, a form of address before a name; the English gives it plainly, the Most Illustrious"}
+  - {word: "mars", reason: "French, March, after the day in a date; not a term"}

@@ -113,7 +113,48 @@
    "doc_line": 5
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Varsovie",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "[Schmidt]",
+   "kind": "person",
+   "surface_de": "[Schmidt]",
+   "surface_en": "[Schmidt]",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Miączyńska",
+   "surface_en": "Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface_de": "Hohenlohe",
+   "surface_en": "Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
+   "page": 1
+  }
+ ],
  "place_canonical": "Warschau",
  "place_mentions": [
   {
@@ -128,9 +169,49 @@
    "doc_line": 1
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Warsaw, 29 September 1830\n\nAd No. 102\n\nConsul [Schmidt],\n\nI hastened to bring to the knowledge of the Prince Minister of Finance your communication of 26 July last, No. 1648, concerning the suit pending before the tribunals of the Kingdom between Madame Miączyńska and her creditors on account of the debts contracted by Prince Hohenlohe.\n\nIn addition, in accordance with your wishes, I reminded the said Prince Minister of the claim which the banker Weigel raises against the fisc of the Kingdom on account of the judgments which dismissed him from a claim belonging to this category.\n\nYou will convince yourself, Consul, by reading the two papers annexed, that your communications have brought about the measures which the state of these affairs required, and that your communication of 26 July last has rendered the Polish administration a signal service by warning it in time to guard itself against the unfavourable chance of the suits mentioned above.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nConsul,\n\nYour most humble and most obedient servant",
+   "names": [
+    {
+     "de": "Varsovie",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "[Schmidt]",
+     "en": "[Schmidt]",
+     "kind": "person"
+    },
+    {
+     "de": "Miączyńska",
+     "en": "Miączyńska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe",
+     "en": "Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "29",
+    "1830",
+    "102",
+    "26",
+    "1648",
+    "26"
+   ]
+  }
+ ],
+ "text_english": "Warsaw, 29 September 1830\n\nAd No. 102\n\nConsul [Schmidt],\n\nI hastened to bring to the knowledge of the Prince Minister of Finance your communication of 26 July last, No. 1648, concerning the suit pending before the tribunals of the Kingdom between Madame Miączyńska and her creditors on account of the debts contracted by Prince Hohenlohe.\n\nIn addition, in accordance with your wishes, I reminded the said Prince Minister of the claim which the banker Weigel raises against the fisc of the Kingdom on account of the judgments which dismissed him from a claim belonging to this category.\n\nYou will convince yourself, Consul, by reading the two papers annexed, that your communications have brought about the measures which the state of these affairs required, and that your communication of 26 July last has rendered the Polish administration a signal service by warning it in time to guard itself against the unfavourable chance of the suits mentioned above.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nConsul,\n\nYour most humble and most obedient servant",
  "summary_en": "A letter from Warsaw to the consul general Schmidt; the signature has not been read. The writer has laid Schmidt's note of 26 July (no. 1648), on the suit pending before the courts of the Kingdom between Madame Miączyńska and her creditors over the debts contracted by Prince Hohenlohe, before the minister of finance. As Schmidt wished, he has also reminded the minister of the claim that the banker Weigel raises against the treasury of the Kingdom because judgments denied him a debt of this kind. From two enclosed pieces Schmidt will see that his communications have brought about the measures needed, and that his note of 26 July did the Polish administration a signal service by warning it in time against an unfavourable outcome of these suits.",
  "summary_de": "Ein Schreiben aus Warschau an den Generalkonsul Schmidt; die Unterschrift ist nicht gelesen. Der Verfasser hat Schmidts Schreiben vom 26. Juli (Nr. 1648) über den Prozess, der vor den Gerichten des Königreichs zwischen Frau Miączyńska und ihren Gläubigern wegen der vom Fürsten Hohenlohe aufgenommenen Schulden anhängig ist, dem Finanzminister vorgelegt. Er hat den Minister außerdem, wie Schmidt wünschte, an die Forderung erinnert, die der Bankier Weigel gegen den Fiskus des Königreichs erhebt, weil Urteile ihm eine Forderung dieser Art aberkannt haben. Aus zwei beiliegenden Stücken werde Schmidt sehen, dass seine Mitteilungen die nötigen Maßnahmen veranlasst haben und dass sein Schreiben vom 26. Juli der polnischen Verwaltung einen großen Dienst erwiesen hat, weil es sie rechtzeitig vor einem ungünstigen Ausgang dieser Prozesse warnte.",
  "reading": {}

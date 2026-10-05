@@ -1,0 +1,46 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    No. 77,775 Warsaw, 27 Nov. 1830
+
+    The Minister Presiding in the Government Commission of Revenue and Treasury to
+
+    In order to make use of the materials for valuing the estates of Trąbczyn which Your Honour sent me with your application dated 14 October 1830, I have passed them to the authority which I have empowered to value the present worth of those estates.
+  names:
+  - de: Warszawie
+    en: Warsaw
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  numbers:
+  - 77,775
+  - '27'
+  - '1830'
+  - '14'
+  - '1830'
+  flagged:
+  - de: Skarbu do
+    rendered_as: Treasury to
+    alt: to [the addressee]
+    why: The address ends with 'do' (to); the addressee's name is not written in the copy.
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    Although Your Honour finds that, according to the judicial valuation you sent, your Capital had full security on the estates of Trąbczyn, yet since that valuation was made in the year 1803, and so in an Epoch of inflated value of landed estates, while the real value of Your Honour's claim ought to be assessed according to the present state of the value of immovable property, because the last Judgment in your case was given in the year 1826, and it was therefore only from that date that proceedings for execution could have been pursued; and since, on the other hand, I have found in Your Honour's letter no more accessible terms for an agreement, I must therefore, wishing to proceed with complete justice, await the completion of the work which I mentioned in my answer dated 22 September of this year, and over the hastening of which I am watching.
+
+    sig. X. X. Lubecki
+  names:
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: X. X. Lubecki
+    en: X. X. Lubecki
+    kind: person
+  numbers:
+  - '1803'
+  - '1826'
+  - '22'

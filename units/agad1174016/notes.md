@@ -5,8 +5,8 @@ register of the Governing Commission's orders and resolutions. The second is
 the resolution that returned the Prusimski estates to Michalina Dąbska; the
 first is the order for Wybicki on which it rests. Added on 2026-10-04 at the
 editor's request: pages cut out of the images, the editor's text cut to
-pages, corrected, summarised, and given its place on the site. Not
-translated. Its companion is AGAD 1/174/0/2/73 (`units/agad11740273/`), the
+pages, corrected, summarised, and given its place on the site; translated
+and its summaries claim-checked in session on 2026-10-05. Its companion is AGAD 1/174/0/2/73 (`units/agad11740273/`), the
 commission's file with her petitions and the draft of the resolution; read
 that unit's `notes.md` for what the two share (archive, era, authorities).
 
@@ -80,11 +80,16 @@ only. Both holdings' pages say so.
 
 ## Summaries, authorities, era
 
-As for AGAD 1/174/0/2/73: summaries written in session, not claim-checked;
+As for AGAD 1/174/0/2/73: summaries written in session, claim-checked in
+session on 2026-10-05 (`intake/claim_check.yml`, 14 statements, all supported);
 people Małachowski and Łuszczewski added; era `hohenlohe` for now.
 
 ## Still to do
 
 - The editor's ruling on the era, with 1/174/0/2/73.
-- Translation, and the claim check of the summaries.
+- Reading the English against the scans. (Translated in session on
+  2026-10-05 like 1/174/0/2/73: pages in `intake/translation/`, status
+  `translated`, untagged; check_translations.py and uncanonical_names.py
+  raised nothing. "Maniezki" and "z Prusińskich" stand as the register
+  writes them.)
 - The words in `intake/unresolved.md`.

@@ -6,7 +6,8 @@ Michalina Miączyńska's claim, which continues III. HA MdA, III. Nr. 12366.
 All of them concern the compensation of the Breslau banker Weigel, whose
 mortgage on Trąbczyn the Polish courts had struck out. Added on 2026-10-04:
 scans staged and the one opening cut, the editor's text cut to pages,
-corrected, summarised, and given its place on the site. Not translated.
+corrected, summarised, and given its place on the site; translated and its
+summaries claim-checked in session on 2026-10-05.
 
 ## Provenance
 
@@ -203,12 +204,58 @@ runs to 1832, in both languages; biographies for the new people and a
 sentence added to Weigel's. The era is `hohenlohe` for now, as for Nr.
 12366.
 
+## "Mardi" put back with document 3 (2026-10-05)
+
+The corpus had the `[DOC 4]` marker above "Mardi.", the last line of
+Mohrenheim's note on scan 0004 (and of `transcriptions/0004_a.txt`), so
+document 4 began with a page that had no scan (a "gap" row in
+`page_scan_map.csv`) and document 3 lost its day. The marker now follows
+"Mardi.". The scan map was corrected by hand, since `match_scans.py` needs
+the raw scans: document 3 is lines 19-21, document 4 has two pages, 0005
+and 0006. The two web images were renamed to match (`0005_a-L4_01.jpg`,
+`0006_a-L4_02.jpg`, and `scan_rename_map.json`); on the editor's machine
+`relabel_scans.py --unit iiihamdaiiinr12367 --apply` renames the originals
+in `pages/` to the same labels.
+
+## Translation (2026-10-05)
+
+Translated in session, as Nr. 12366 was, not by the paid run (no pilot: French
+and Polish were tried on Nr. 12366). The pages are in
+`intake/translation/doc<N>.yml`; `intake/translation/write_cache.py` writes
+them into the untagged cache for check_translations.py and
+publish_translations.py. Status `translated`, `published_tag: ""`.
+
+- **check_translations.py**: one row, document 7: "7,000 fl." is rendered
+  "7,000 Polish florins", not the termbase's gulden. The church capital on a
+  Polish estate is reckoned at six to the thaler (7,000 = Rthl 1,166 16 gr),
+  so the florin is the Polish złoty, not the Austrian gulden. Deliberate; it
+  is noted in the cache record.
+- **uncanonical_names.py**: nothing. Breslau is Wrocław in the English, by
+  the house rule; Eisenhardt stays (not Eysenhardt, see the people register).
+- **Doubt kept:** "négrêtes [?]" in document 3 as "[uncertain: négrêtes]",
+  the sentence recorded as not construing; "noter" in document 10 translated
+  as it stands ("striving to note"), flagged ("hâter" is likely).
+- **Forms of address:** WWPan in Lubecki's letters is "Your Honour";
+  "Monsieur le Conseiller" "Councillor", "Monsieur le Consul" "Consul".
+- **Weigel's reckoning** keeps its order of figure and unit ("Rthl 160,000"),
+  its ditto marks as "ditto", and the Rubrik of the mortgage register as
+  "Section".
+
+## Claim check (2026-10-05)
+
+`intake/claim_check.yml`: 77 statements, 76 supported, 1 overstated. The
+German summary of document 6 said Lubecki "hat ... feststellen lassen" (had
+the estates valued on the spot); he says he had to order it, and document 8
+is still waiting for the valuation. Now "hat er angeordnet, ...
+festzustellen", in `summaries_de.yml`, `site/_data/summaries_de.yml` and
+`about_de.md` ("ordnete an, ... zu schätzen"). The English already said
+"ordered". The statement that document 3 is dated Tuesday rests on the
+corpus correction above.
+
 ## Still to do
 
 - The editor's ruling on the era, with Nr. 12366's.
-- Translation (a pilot is not needed again: French and Polish were tried
-  on Nr. 12366; the German letter is a reckoning) and the claim check of
-  the summaries. Both need the editor's word.
+- Reading the English against the scans, as for every holding.
 - The German translation columns beside the Polish letters: transcribe or
   leave out, the editor to say.
 - The words in `intake/unresolved.md`, and the signature on 0007.

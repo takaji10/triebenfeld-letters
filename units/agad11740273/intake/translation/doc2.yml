@@ -1,0 +1,70 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    I have had the honour to submit my petition twice to the Governing Commission with the aim of recovering the estates: Trąbczyn in the Department of Kalisz; Kamionna, Kolno, Pawłowo, Pawłówko, the Storehouse at Wrocławku, in the Department of Poznań, confiscated from my father for the benefit of the Prussian Generals, the Prince of Hohenlo[h]e, Bischoffwerder and Zanitz; having as yet received no answer in my matter, and knowing that the Most Illustrious Wybicki has had his estates, confiscated just as mine were, given back to him by the Most Serene Emperor and King, I make bold to ask the Governing Commission to deign to intercede for me, and at the same time to give me the opportunity of obtaining the judgment of justice which the Most Illustrious Wybicki was fortunate enough to win for himself from the Most Serene Emperor.
+
+    Dresden, 20 July 1807
+
+    Michalina Dambska, née Prusimska
+
+    [Written by the receiving office:]
+
+    Presented 21 July
+  names:
+  - de: Trąbczyna
+    en: Trąbczyn
+    kind: place
+  - de: Departamencie Kaliskim
+    en: Department of Kalisz
+    kind: place
+  - de: Kamionna
+    en: Kamionna
+    kind: place
+  - de: Kolna
+    en: Kolno
+    kind: place
+  - de: Pawłowa
+    en: Pawłowo
+    kind: place
+  - de: Pawłówka
+    en: Pawłówko
+    kind: place
+  - de: Wrocławku
+    en: Wrocławku
+    kind: place
+  - de: Departamencie Poznańskim
+    en: Department of Poznań
+    kind: place
+  - de: Xięcia de Hohenlo[h]e
+    en: Prince of Hohenlo[h]e
+    kind: person
+  - de: Bischoffswerder
+    en: Bischoffwerder
+    kind: person
+  - de: Zanitz
+    en: Zanitz
+    kind: person
+  - de: Wybicki
+    en: Wybicki
+    kind: person
+  - de: Dreznie
+    en: Dresden
+    kind: place
+  - de: Michalina z Prusimskich Dambska
+    en: Michalina Dambska, née Prusimska
+    kind: person
+  numbers:
+  - '20'
+  - '1807'
+  - '21'
+  flagged:
+  - de: Pawłówka
+    rendered_as: Pawłówko
+    alt: Pawłówek
+    why: The page gives the genitive; the nominative may be Pawłówko or Pawłówek. The English follows the summary's Pawłówko.
+  - de: Magazynu w Wrocławku
+    rendered_as: the Storehouse at Wrocławku
+    alt: the Storehouse at Wrocławek
+    why: The place is not identified (intake/unresolved.md). The English keeps the page's locative, Wrocławku, because the house rule for 'Wrocławek' would make it Włocławek, which lay in another department.
