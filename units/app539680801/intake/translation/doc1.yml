@@ -1,0 +1,102 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    Copy
+
+    General Power of Attorney
+
+    I, the undersigned, make known and acknowledge hereby that I do hereby expressly empower the Royal Councillor of War and Forests Mr Peter Friedrich August von Triebenfeld, Your Right Honourable, of Świniary etc., to attend in my name to each and every matter concerning the Zagórów, Witów and Trąbczyn estates belonging to me, situated in South Prussia in the Kalisz department, be they matters of a dismemberment, of principal and sale, of leasing or of pledging, or by whatever other name they may go and whatever bearing and influence they may have, both judicially and extrajudicially; to petition for and respectively to report all approvals and orders of conduct necessary in that behalf, as well as all other requisites appearing to him necessary, before the Most Praiseworthy Chamber as well as before the Most Praiseworthy Government at Kalisz and before all other requisite business, authorities; and to attend to all other requisite business for me; to settle with their lessees and to conclude compositions; to pay moneys, to receive the like and to give receipts for them; to issue to my officials and servants there the orders serviceable to his purpose,
+  names:
+  - {de: Peter Friedrich August v. Triebenfeld, en: Peter Friedrich August von Triebenfeld, kind: person}
+  - {de: Schweinern, en: Świniary, kind: place}
+  - {de: Südpreussen, en: South Prussia, kind: place}
+  - {de: Kalischer Departament, en: Kalisz department, kind: place}
+  - {de: Zagurowo, en: Zagórów, kind: place}
+  - {de: Wittow, en: Witów, kind: place}
+  - {de: Trąpczyner, en: Trąbczyn, kind: place}
+  - {de: Kalisch, en: Kalisz, kind: place}
+  - {de: Königlichen Kriegs und Forst-Rath, en: Royal Councillor of War and Forests, kind: other}
+  numbers: []
+  flagged:
+  - de: eine Dismembration Haupt- und Verkauf Verpachtung oder Verpfändung
+    rendered_as: a dismemberment, of principal and sale, of leasing or of pledging
+    alt: a dismemberment, or purchase and sale, leasing or pledging
+    why: The copy has "Haupt- und Verkauf", with a gap before it on the page. The other copies of this power of attorney (APP 53/71/0/-/57; Oe 1 Bü 14526) have "oder Kauf und Verkauf", purchase and sale. Rendered as it stands.
+  - de: bei allen anderen erforderlichen Geschäften, Behörden zu bitten
+    rendered_as: before all other requisite business, authorities
+    alt: before all other authorities
+    why: The copyist has run two phrases together; the other copies have "bei allen andern Behörden". Rendered as it stands.
+  - de: sich mit deren Pächtern auseinanderzusetzen
+    rendered_as: to settle with their lessees
+    alt: to settle with the lessees
+    why: The copy has "deren" (their, of the estates); the other copies have "denen", the.
+  emendation_suggestions:
+  - de: Haupt- und Verkauf
+    proposed: Kauf und Verkauf
+    why: So the copy of the same power of attorney in APP 53/71/0/-/57, page 0018. The page of this copy reads "Haupt".
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    to examine their conduct and performance of duty, and if he should find such not agreeable to his judgement and prejudicial to me, in case of need to suspend them, and in general to act unrestrictedly and freely before all authorities and in all matters as he shall find good and most suited to my interest.
+
+    Whatever my said authorised representative shall do by virtue of this commission received, I promise hereby to approve and to hold thereto as inviolably as if I had done it myself. At the same time I also bind myself to indemnify my authorised representative in every respect on account of this commission, and to reimburse him for all costs and outlays, on pledge of my present and future property, so much thereof as shall be required for this.
+
+    In witness whereof I have subscribed this special power of attorney in my own hand and confirmed it by the affixing of my arms. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.
+
+    L. S. Read and approved by myself.
+
+    Friedrich Ludwig, Prince of Hohenlohe.
+
+    That His Serene Highness the reigning Prince and Lord, well known in person to the undersigned justice office and fully competent to dispose, General
+  names:
+  - {de: Guhrwitz’schen Justiz Amte, en: Górzyce justice office, kind: place}
+  - {de: Breslau, en: Wrocław, kind: place}
+  - {de: Friedrich Ludwig Fürst zu Hohenlohe, en: 'Friedrich Ludwig, Prince of Hohenlohe', kind: person}
+  numbers: ['19', '1805']
+  flagged:
+  - de: diese Special Vollmacht
+    rendered_as: this special power of attorney
+    alt: this general power of attorney
+    why: The heading and the attestation call it a general power of attorney, and the other copies have "die General Vollmacht" here. The page of this copy has "Special".
+- page: 3
+  confidence: high
+  marker_count: 0
+  en: |-
+    of Infantry, chief of a regiment, Governor of the town and fortress of Wrocław and Knight of the Great Black and Red Eagle Orders etc., Mr Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, drew up before us and with our assistance the foregoing general power of attorney directed to the Royal Councillor of War and Forests Mr von Triebenfeld, acknowledged its literal content throughout, and then, after His Highness had once more perused and approved the same beforehand, subscribed and sealed it in his own hand in our presence: this is hereby attested testante Protocollo de hodierno in fidem publicam. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.
+
+    Baronial von Stillfried Justice Office of Górzyce.
+
+    L. S.
+
+    Koeppen, Justiciary
+
+    Koleschke, Actuary
+
+    That the foregoing copy agrees word for word with the original power of attorney is hereby credibly attested.
+
+    Mariantów, the 21st of March 1806.
+
+    Princely Hohenlohe Patrimonial Court at Trąbczyn.
+
+    L. S. Schenck.
+  names:
+  - {de: Breslau, en: Wrocław, kind: place}
+  - {de: Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen, en: 'Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen', kind: person}
+  - {de: v. Triebenfeld, en: von Triebenfeld, kind: person}
+  - {de: Guhrwitz'schen Justiz Amte, en: Górzyce justice office, kind: place}
+  - {de: v. Stillfried, en: von Stillfried, kind: person}
+  - {de: Guhrwitzer, en: Górzyce, kind: place}
+  - {de: Koeppen, en: Koeppen, kind: person}
+  - {de: Koleschke, en: Koleschke, kind: person}
+  - {de: Marianten, en: Mariantów, kind: place}
+  - {de: Trąbczyn, en: Trąbczyn, kind: place}
+  - {de: Schenck, en: Schenck, kind: person}
+  numbers: ['19', '1805', '21', '1806']
+  flagged:
+  - de: gerichtete General-Vollmacht, daß vor uns in unserer Zuziehung errichtet
+    rendered_as: drew up before us and with our assistance the foregoing general power of attorney
+    alt: the foregoing general power of attorney, of this date, drawn up before us
+    why: The copy has "daß" where the other copies have "dato" (of this date); the word is left out of the English, which keeps the sense of the sentence as it stands.

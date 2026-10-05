@@ -253,8 +253,7 @@ Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
 
 ## Englische Übersetzungen
 
-Alle Dokumente mit Text bis auf drei haben eine englische Übersetzung: 459 der 467. Die drei
-im Oktober 2026 hinzugekommenen Abschriften aus Posen sind noch zu übersetzen, und fünf
+Jedes Dokument mit Text hat nun eine englische Übersetzung: 462 der 467. Die übrigen fünf
 sind Nummern der Korrespondenz, unter denen kein Text überliefert ist. Jede Übersetzung
 erscheint unter dem Original mit ihrem Status, und die französischen und polnischen
 Dokumente wurden aus ihrer eigenen Sprache übersetzt. Keine Übersetzung gilt als

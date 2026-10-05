@@ -225,7 +225,192 @@
    "doc_line": 18
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Peter Friedrich August von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Peter Friedrich August v. Triebenfeld",
+   "surface_en": "Peter Friedrich August von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świniary",
+   "kind": "place",
+   "surface_de": "Schweinern",
+   "surface_en": "Świniary",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreussen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz department",
+   "kind": "place",
+   "surface_de": "Kalischer Departament",
+   "surface_en": "Kalisz department",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagurowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Witów",
+   "kind": "place",
+   "surface_de": "Wittow",
+   "surface_en": "Witów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąpczyner",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Royal Councillor of War and Forests",
+   "kind": "other",
+   "surface_de": "Königlichen Kriegs und Forst-Rath",
+   "surface_en": "Royal Councillor of War and Forests",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Górzyce justice office",
+   "kind": "place",
+   "surface_de": "Guhrwitz’schen Justiz Amte",
+   "surface_en": "Górzyce justice office",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Górzyce justice office",
+   "kind": "place",
+   "surface_de": "Guhrwitz'schen Justiz Amte",
+   "surface_en": "Górzyce justice office",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "von Stillfried",
+   "kind": "person",
+   "surface_de": "v. Stillfried",
+   "surface_en": "von Stillfried",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Górzyce",
+   "kind": "place",
+   "surface_de": "Guhrwitzer",
+   "surface_en": "Górzyce",
+   "page": 3
+  },
+  {
+   "entity": "koeppen",
+   "display": "Koeppen",
+   "kind": "person",
+   "surface_de": "Koeppen",
+   "surface_en": "Koeppen",
+   "page": 3
+  },
+  {
+   "entity": "kaleschke",
+   "display": "Kaleschke",
+   "kind": "person",
+   "surface_de": "Koleschke",
+   "surface_en": "Koleschke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Mariantów",
+   "kind": "place",
+   "surface_de": "Marianten",
+   "surface_en": "Mariantów",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 3
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenck",
+   "surface_en": "Schenck",
+   "page": 3
+  }
+ ],
  "place_canonical": "Guhrwitz",
  "place_mentions": [
   {
@@ -394,10 +579,154 @@
    "doc_line": 17
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "A copy of the general power of attorney of the Prince of Hohenlohe-Ingelfingen for the War and Forest Councillor von Triebenfeld, given at the Guhrwitz justice office near Wrocław on 19 February 1805. Triebenfeld may act for the Prince in all matters of his estates of Zagórów, Witów and Trąbczyn in the Kalisz department, whether parcelling, sale, lease or mortgage: apply to the Chamber and to the provincial court at Kalisz, settle with the lessees, pay and receive money, and give orders to the officials of the estates and suspend them. The Prince promises to approve everything and to repay his costs. The justice office attests his signature the same day; the patrimonial court on Trąbczyn certifies the copy on 21 March 1806.",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Copy\n\nGeneral Power of Attorney\n\nI, the undersigned, make known and acknowledge hereby that I do hereby expressly empower the Royal Councillor of War and Forests Mr Peter Friedrich August von Triebenfeld, Your Right Honourable, of Świniary etc., to attend in my name to each and every matter concerning the Zagórów, Witów and Trąbczyn estates belonging to me, situated in South Prussia in the Kalisz department, be they matters of a dismemberment, of principal and sale, of leasing or of pledging, or by whatever other name they may go and whatever bearing and influence they may have, both judicially and extrajudicially; to petition for and respectively to report all approvals and orders of conduct necessary in that behalf, as well as all other requisites appearing to him necessary, before the Most Praiseworthy Chamber as well as before the Most Praiseworthy Government at Kalisz and before all other requisite business, authorities; and to attend to all other requisite business for me; to settle with their lessees and to conclude compositions; to pay moneys, to receive the like and to give receipts for them; to issue to my officials and servants there the orders serviceable to his purpose,",
+   "names": [
+    {
+     "de": "Peter Friedrich August v. Triebenfeld",
+     "en": "Peter Friedrich August von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Schweinern",
+     "en": "Świniary",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreussen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischer Departament",
+     "en": "Kalisz department",
+     "kind": "place"
+    },
+    {
+     "de": "Zagurowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Wittow",
+     "en": "Witów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąpczyner",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Königlichen Kriegs und Forst-Rath",
+     "en": "Royal Councillor of War and Forests",
+     "kind": "other"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "en": "to examine their conduct and performance of duty, and if he should find such not agreeable to his judgement and prejudicial to me, in case of need to suspend them, and in general to act unrestrictedly and freely before all authorities and in all matters as he shall find good and most suited to my interest.\n\nWhatever my said authorised representative shall do by virtue of this commission received, I promise hereby to approve and to hold thereto as inviolably as if I had done it myself. At the same time I also bind myself to indemnify my authorised representative in every respect on account of this commission, and to reimburse him for all costs and outlays, on pledge of my present and future property, so much thereof as shall be required for this.\n\nIn witness whereof I have subscribed this special power of attorney in my own hand and confirmed it by the affixing of my arms. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.\n\nL. S. Read and approved by myself.\n\nFriedrich Ludwig, Prince of Hohenlohe.\n\nThat His Serene Highness the reigning Prince and Lord, well known in person to the undersigned justice office and fully competent to dispose, General",
+   "names": [
+    {
+     "de": "Guhrwitz’schen Justiz Amte",
+     "en": "Górzyce justice office",
+     "kind": "place"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1805"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "of Infantry, chief of a regiment, Governor of the town and fortress of Wrocław and Knight of the Great Black and Red Eagle Orders etc., Mr Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, drew up before us and with our assistance the foregoing general power of attorney directed to the Royal Councillor of War and Forests Mr von Triebenfeld, acknowledged its literal content throughout, and then, after His Highness had once more perused and approved the same beforehand, subscribed and sealed it in his own hand in our presence: this is hereby attested testante Protocollo de hodierno in fidem publicam. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.\n\nBaronial von Stillfried Justice Office of Górzyce.\n\nL. S.\n\nKoeppen, Justiciary\n\nKoleschke, Actuary\n\nThat the foregoing copy agrees word for word with the original power of attorney is hereby credibly attested.\n\nMariantów, the 21st of March 1806.\n\nPrincely Hohenlohe Patrimonial Court at Trąbczyn.\n\nL. S. Schenck.",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Guhrwitz'schen Justiz Amte",
+     "en": "Górzyce justice office",
+     "kind": "place"
+    },
+    {
+     "de": "v. Stillfried",
+     "en": "von Stillfried",
+     "kind": "person"
+    },
+    {
+     "de": "Guhrwitzer",
+     "en": "Górzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Koeppen",
+     "en": "Koeppen",
+     "kind": "person"
+    },
+    {
+     "de": "Koleschke",
+     "en": "Koleschke",
+     "kind": "person"
+    },
+    {
+     "de": "Marianten",
+     "en": "Mariantów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Schenck",
+     "en": "Schenck",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "19",
+    "1805",
+    "21",
+    "1806"
+   ]
+  }
+ ],
+ "text_english": "Copy\n\nGeneral Power of Attorney\n\nI, the undersigned, make known and acknowledge hereby that I do hereby expressly empower the Royal Councillor of War and Forests Mr Peter Friedrich August von Triebenfeld, Your Right Honourable, of Świniary etc., to attend in my name to each and every matter concerning the Zagórów, Witów and Trąbczyn estates belonging to me, situated in South Prussia in the Kalisz department, be they matters of a dismemberment, of principal and sale, of leasing or of pledging, or by whatever other name they may go and whatever bearing and influence they may have, both judicially and extrajudicially; to petition for and respectively to report all approvals and orders of conduct necessary in that behalf, as well as all other requisites appearing to him necessary, before the Most Praiseworthy Chamber as well as before the Most Praiseworthy Government at Kalisz and before all other requisite business, authorities; and to attend to all other requisite business for me; to settle with their lessees and to conclude compositions; to pay moneys, to receive the like and to give receipts for them; to issue to my officials and servants there the orders serviceable to his purpose,\n\nto examine their conduct and performance of duty, and if he should find such not agreeable to his judgement and prejudicial to me, in case of need to suspend them, and in general to act unrestrictedly and freely before all authorities and in all matters as he shall find good and most suited to my interest.\n\nWhatever my said authorised representative shall do by virtue of this commission received, I promise hereby to approve and to hold thereto as inviolably as if I had done it myself. At the same time I also bind myself to indemnify my authorised representative in every respect on account of this commission, and to reimburse him for all costs and outlays, on pledge of my present and future property, so much thereof as shall be required for this.\n\nIn witness whereof I have subscribed this special power of attorney in my own hand and confirmed it by the affixing of my arms. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.\n\nL. S. Read and approved by myself.\n\nFriedrich Ludwig, Prince of Hohenlohe.\n\nThat His Serene Highness the reigning Prince and Lord, well known in person to the undersigned justice office and fully competent to dispose, General\n\nof Infantry, chief of a regiment, Governor of the town and fortress of Wrocław and Knight of the Great Black and Red Eagle Orders etc., Mr Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, drew up before us and with our assistance the foregoing general power of attorney directed to the Royal Councillor of War and Forests Mr von Triebenfeld, acknowledged its literal content throughout, and then, after His Highness had once more perused and approved the same beforehand, subscribed and sealed it in his own hand in our presence: this is hereby attested testante Protocollo de hodierno in fidem publicam. Thus done in the Górzyce justice office near Wrocław, the 19th of February 1805.\n\nBaronial von Stillfried Justice Office of Górzyce.\n\nL. S.\n\nKoeppen, Justiciary\n\nKoleschke, Actuary\n\nThat the foregoing copy agrees word for word with the original power of attorney is hereby credibly attested.\n\nMariantów, the 21st of March 1806.\n\nPrincely Hohenlohe Patrimonial Court at Trąbczyn.\n\nL. S. Schenck.",
+ "summary_en": "A copy of the general power of attorney of the Prince of Hohenlohe-Ingelfingen for the War and Forest Councillor von Triebenfeld, given at the Guhrwitz justice office near Wrocław on 19 February 1805. Triebenfeld may act for the Prince in all matters of his estates of Zagórów, Witów and Trąbczyn in the Kalisz department, whether parcelling, sale, lease or mortgage: apply to the Chamber and to the Government at Kalisz, the provincial court, settle with the lessees, pay and receive money, and give orders to the officials of the estates and suspend them. The Prince promises to approve everything and to repay his costs. The justice office attests his signature the same day; the patrimonial court on Trąbczyn certifies the copy on 21 March 1806.",
  "summary_de": "Abschrift der Generalvollmacht des Fürsten zu Hohenlohe-Ingelfingen für den Kriegs- und Forstrat von Triebenfeld, ausgestellt im Guhrwitzer Justizamt bei Breslau am 19. Februar 1805. Triebenfeld darf den Fürsten in allen Angelegenheiten seiner Güter Zagórów, Witów und Trąbczyn im Kalischer Departement vertreten, sie mögen Parzellierung, Verkauf, Verpachtung oder Verpfändung betreffen: bei der Kammer und der Regierung in Kalisch Anträge stellen, sich mit den Pächtern auseinandersetzen, Gelder zahlen und empfangen und den Beamten der Güter Befehle erteilen und sie suspendieren. Der Fürst verspricht, alles zu genehmigen und ihm die Kosten zu erstatten. Das Justizamt bezeugt am selben Tag seine Unterschrift; das Patrimonialgericht auf Trąbczyn beglaubigt die Abschrift am 21. März 1806.",
  "reading": {}
 }

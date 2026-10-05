@@ -145,7 +145,264 @@
    "doc_line": 6
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preussen",
+   "surface_en": "Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "South Prussia",
+   "kind": "place",
+   "surface_de": "Südpreussen",
+   "surface_en": "South Prussia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kalisz Chamber Department",
+   "kind": "place",
+   "surface_de": "Kalischer Kammer=Departament",
+   "surface_en": "Kalisz Chamber Department",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Konin district",
+   "kind": "place",
+   "surface_de": "Koninschen Kreise",
+   "surface_en": "Konin district",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagurowo",
+   "surface_en": "Zagórów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trompczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürsten zu Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Mariantów",
+   "kind": "place",
+   "surface_de": "Mariantow",
+   "surface_en": "Mariantów",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface_de": "Drzewce",
+   "surface_en": "Drzewce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kopojno",
+   "kind": "place",
+   "surface_de": "Kopoyno",
+   "surface_en": "Kopojno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Świątniki",
+   "kind": "place",
+   "surface_de": "Świątnik",
+   "surface_en": "Świątniki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Święca",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Broniki",
+   "kind": "place",
+   "surface_de": "Broniki",
+   "surface_en": "Broniki",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Nowawieś",
+   "kind": "place",
+   "surface_de": "Nowawieś",
+   "surface_en": "Nowawieś",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Przybysław",
+   "kind": "place",
+   "surface_de": "Przybysław",
+   "surface_en": "Przybysław",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Stara-Hutta",
+   "kind": "place",
+   "surface_de": "Stara-Hutta",
+   "surface_en": "Stara-Hutta",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Oleśnica",
+   "kind": "place",
+   "surface_de": "Oleśnica",
+   "surface_en": "Oleśnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szedlewek",
+   "surface_en": "Szetlewek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürsten zu Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Silesia",
+   "kind": "place",
+   "surface_de": "Schlesien",
+   "surface_en": "Silesia",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Lond",
+   "kind": "place",
+   "surface_de": "Lond",
+   "surface_en": "Lond",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Ratyń",
+   "kind": "place",
+   "surface_de": "Ratyń",
+   "surface_en": "Ratyń",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Royal South Prussian Chamber of War and Domains",
+   "kind": "other",
+   "surface_de": "Königliche Südpreussische Kriegs- und Domainen Kammer",
+   "surface_en": "Royal South Prussian Chamber of War and Domains",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Schmiedecke",
+   "kind": "person",
+   "surface_de": "Schmiedecke",
+   "surface_en": "Schmiedecke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Korn",
+   "kind": "person",
+   "surface_de": "Korn",
+   "surface_en": "Korn",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Koch",
+   "kind": "person",
+   "surface_de": "Koch",
+   "surface_en": "Koch",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Woyde",
+   "kind": "person",
+   "surface_de": "Woyde",
+   "surface_en": "Woyde",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Nenickel",
+   "kind": "person",
+   "surface_de": "Nenickel",
+   "surface_en": "Nenickel",
+   "page": 3
+  }
+ ],
  "place_canonical": "Kalisch",
  "place_mentions": [
   {
@@ -380,10 +637,207 @@
    "doc_line": 13
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "A copy of the consent that the South Prussian War and Domains Chamber at Kalisz gives in the King's name on 28 January 1806, on cabinet orders of 22 October and 7 December of the year before. The Prince of Hohenlohe-Ingelfingen may parcel out the manor farms of Drzewce, Kopojno, Świątniki, Święcia and Broniki in the lordship of Zagórów and of Nowa Wieś, Przybysław, Stara Huta and part of Trąbczyn, let Oleśnica and Szetlewek in hereditary lease, and turn the services of all his subjects into a fixed money rent; he keeps back part of Trąbczyn, the land at Mariantów and a part of the forest. Four conditions: the compensation of the subjects for their rights of pasture and wood is to be fixed; no peasant holding may lapse; the state's taxes remain and are secured in the mortgage book; the wood rights of the abbey of Ląd and of the domain office of Ratyń are protected.",
- "summary_de": "Abschrift des Konsenses, den die Südpreußische Kriegs- und Domänenkammer in Kalisch am 28. Januar 1806 im Namen des Königs erteilt, auf Kabinettsordres vom 22. Oktober und 7. Dezember des Vorjahres. Der Fürst zu Hohenlohe-Ingelfingen darf die Vorwerke Drzewce, Kopojno, Świątniki, Święcia und Broniki der Herrschaft Zagórów sowie Nowa Wieś, Przybysław, Stara Huta und einen Teil von Trąbczyn parzellieren, Oleśnica und Szetlewek vererbpachten und die Dienste aller Untertanen in einen festen Geldzins verwandeln; einen Teil von Trąbczyn, die Grundstücke in Mariantów und einen Teil des Forstes behält er zurück. Vier Bedingungen: Die Entschädigung der Untertanen für ihre Hütungs- und Holzungsrechte ist festzusetzen; keine Bauernstelle darf eingehen; die staatlichen Abgaben bleiben und werden im Hypothekenbuch gesichert; die Holzungsrechte des Klosters Ląd und des Domänenamts Ratyń werden gewahrt.",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "We Friedrich Wilhelm, by the Grace of God King of Prussia; etc.\n\nmake known and hereby give to be understood that, whereas the possessor of the lordships of Zagórów and Trąbczyn, situated in South Prussia in the Kalisz Chamber Department and its Konin district, His Lordship the reigning Prince of Hohenlohe-Ingelfingen, has sought permission from us, reserving a part of the demesne farm of Trąbczyn together with the manorial parcels at Mariantów, in all Seven Hundred and Eighty-one Morgen and 77 square rods, likewise Four Thousand Nine Hundred and Forty-seven Morgen of forest, the said lordships together with the remaining and greater part of the forest, namely\n\nA. to dismember the demesne farms belonging to the lordship of Zagórów, Drzewce, Kopojno, Świątniki, Swięcia and Broniki, likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawieś, Przybysław, Stara-Hutta, and a part of the demesne farm of Trąbczyn,\n\nB. to let out in hereditary lease the demesne farm and village of Oleśnica, likewise the demesne farm and village of Szetlewek, and\n\nC. to be permitted to convert the services and prestations of all the subjects into a fixed money rent, we have therefore, in consideration of the utility of this design",
+   "names": [
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    },
+    {
+     "de": "Preussen",
+     "en": "Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Südpreussen",
+     "en": "South Prussia",
+     "kind": "place"
+    },
+    {
+     "de": "Kalischer Kammer=Departament",
+     "en": "Kalisz Chamber Department",
+     "kind": "place"
+    },
+    {
+     "de": "Koninschen Kreise",
+     "en": "Konin district",
+     "kind": "place"
+    },
+    {
+     "de": "Zagurowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Trompczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten zu Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Mariantow",
+     "en": "Mariantów",
+     "kind": "place"
+    },
+    {
+     "de": "Drzewce",
+     "en": "Drzewce",
+     "kind": "place"
+    },
+    {
+     "de": "Kopoyno",
+     "en": "Kopojno",
+     "kind": "place"
+    },
+    {
+     "de": "Świątnik",
+     "en": "Świątniki",
+     "kind": "place"
+    },
+    {
+     "de": "Święca",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Broniki",
+     "en": "Broniki",
+     "kind": "place"
+    },
+    {
+     "de": "Nowawieś",
+     "en": "Nowawieś",
+     "kind": "place"
+    },
+    {
+     "de": "Przybysław",
+     "en": "Przybysław",
+     "kind": "place"
+    },
+    {
+     "de": "Stara-Hutta",
+     "en": "Stara-Hutta",
+     "kind": "place"
+    },
+    {
+     "de": "Oleśnica",
+     "en": "Oleśnica",
+     "kind": "place"
+    },
+    {
+     "de": "Szedlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "77"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "and of the profitable services rendered and still to be rendered to us in our Royal House by His Lordship the reigning Prince of Hohenlohe-Ingelfingen, our General of Infantry and Governor of Wrocław, resolved by Cabinet Orders of the 22nd of October and 7th of December of last year to grant this his petition in such manner and to approve the same, only that the following conditions shall obtain therein, namely\n\n1. that the compensation to be granted to the subjects for their hitherto existing rights of pasturage and of taking wood be more nearly determined, and that in the hereditary-rent deeds of each individual the area assigned to him rent-free be exactly noted, as also that herein generally the provisions contained in § 12 of the Edict issued for the province of Silesia on the 1st of March 1804 must be duly observed, on the basis of a special and corrected survey.\n\n2. that none of the present peasant holdings may be allowed to lapse, but that if, upon a fire damage or other misfortune, no one is found who will restore such a holding out of his own means, the manorial lordship (Dominium) must re-erect the building at its own cost.\n\n3. that all the dues and charges of the state at present resting upon the said estates, or hereafter still to be laid upon them,",
+   "names": [
+    {
+     "de": "Fürsten zu Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "Schlesien",
+     "en": "Silesia",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "22",
+    "7",
+    "1.",
+    "12",
+    "1",
+    "1804",
+    "2.",
+    "3."
+   ]
+  },
+  {
+   "page": 3,
+   "en": "shall as before be paid over to our treasuries appointed for the purpose at the prescribed terms, and that for their security the necessary entry be made in the mortgage book of the lands and forests reserved by the manorial lordship.\n\n4. that the rights of taking wood belonging to the monastery and provostry of Lond be entered in the land and mortgage book upon the totality of the forests reserved from the dismemberment, and be secured in that manner; in return for which we approve that if hereafter the forests excepted from the dismemberment should be found insufficient for the rights of taking wood belonging to our Treasury in respect of the domain office of Ratyń, a compensation for them shall be ascertained by an annual canon and secured.\n\nIn witness whereof we have caused the present consent to be made out under the customary signature and the greater seal of our Chamber of War and Domains, and have executed it.\n\nThus done and given at Kalisz, the 28th of January 1806.\n\nL. S.\n\nRoyal South Prussian Chamber of War and Domains.\n\nSchmiedecke, Korn, Koch, Woyde (—) Nenickel",
+   "names": [
+    {
+     "de": "Lond",
+     "en": "Lond",
+     "kind": "place"
+    },
+    {
+     "de": "Ratyń",
+     "en": "Ratyń",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    },
+    {
+     "de": "Königliche Südpreussische Kriegs- und Domainen Kammer",
+     "en": "Royal South Prussian Chamber of War and Domains",
+     "kind": "other"
+    },
+    {
+     "de": "Schmiedecke",
+     "en": "Schmiedecke",
+     "kind": "person"
+    },
+    {
+     "de": "Korn",
+     "en": "Korn",
+     "kind": "person"
+    },
+    {
+     "de": "Koch",
+     "en": "Koch",
+     "kind": "person"
+    },
+    {
+     "de": "Woyde",
+     "en": "Woyde",
+     "kind": "person"
+    },
+    {
+     "de": "Nenickel",
+     "en": "Nenickel",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "4.",
+    "28",
+    "1806"
+   ]
+  }
+ ],
+ "text_english": "We Friedrich Wilhelm, by the Grace of God King of Prussia; etc.\n\nmake known and hereby give to be understood that, whereas the possessor of the lordships of Zagórów and Trąbczyn, situated in South Prussia in the Kalisz Chamber Department and its Konin district, His Lordship the reigning Prince of Hohenlohe-Ingelfingen, has sought permission from us, reserving a part of the demesne farm of Trąbczyn together with the manorial parcels at Mariantów, in all Seven Hundred and Eighty-one Morgen and 77 square rods, likewise Four Thousand Nine Hundred and Forty-seven Morgen of forest, the said lordships together with the remaining and greater part of the forest, namely\n\nA. to dismember the demesne farms belonging to the lordship of Zagórów, Drzewce, Kopojno, Świątniki, Swięcia and Broniki, likewise the demesne farms belonging to the lordship of Trąbczyn, Nowawieś, Przybysław, Stara-Hutta, and a part of the demesne farm of Trąbczyn,\n\nB. to let out in hereditary lease the demesne farm and village of Oleśnica, likewise the demesne farm and village of Szetlewek, and\n\nC. to be permitted to convert the services and prestations of all the subjects into a fixed money rent, we have therefore, in consideration of the utility of this design\n\nand of the profitable services rendered and still to be rendered to us in our Royal House by His Lordship the reigning Prince of Hohenlohe-Ingelfingen, our General of Infantry and Governor of Wrocław, resolved by Cabinet Orders of the 22nd of October and 7th of December of last year to grant this his petition in such manner and to approve the same, only that the following conditions shall obtain therein, namely\n\n1. that the compensation to be granted to the subjects for their hitherto existing rights of pasturage and of taking wood be more nearly determined, and that in the hereditary-rent deeds of each individual the area assigned to him rent-free be exactly noted, as also that herein generally the provisions contained in § 12 of the Edict issued for the province of Silesia on the 1st of March 1804 must be duly observed, on the basis of a special and corrected survey.\n\n2. that none of the present peasant holdings may be allowed to lapse, but that if, upon a fire damage or other misfortune, no one is found who will restore such a holding out of his own means, the manorial lordship (Dominium) must re-erect the building at its own cost.\n\n3. that all the dues and charges of the state at present resting upon the said estates, or hereafter still to be laid upon them,\n\nshall as before be paid over to our treasuries appointed for the purpose at the prescribed terms, and that for their security the necessary entry be made in the mortgage book of the lands and forests reserved by the manorial lordship.\n\n4. that the rights of taking wood belonging to the monastery and provostry of Lond be entered in the land and mortgage book upon the totality of the forests reserved from the dismemberment, and be secured in that manner; in return for which we approve that if hereafter the forests excepted from the dismemberment should be found insufficient for the rights of taking wood belonging to our Treasury in respect of the domain office of Ratyń, a compensation for them shall be ascertained by an annual canon and secured.\n\nIn witness whereof we have caused the present consent to be made out under the customary signature and the greater seal of our Chamber of War and Domains, and have executed it.\n\nThus done and given at Kalisz, the 28th of January 1806.\n\nL. S.\n\nRoyal South Prussian Chamber of War and Domains.\n\nSchmiedecke, Korn, Koch, Woyde (—) Nenickel",
+ "summary_en": "A copy of the consent that the South Prussian War and Domains Chamber at Kalisz gives in the King's name on 28 January 1806, on cabinet orders of 22 October and 7 December of the year before. The Prince of Hohenlohe-Ingelfingen may parcel out the demesne farms of Drzewce, Kopojno, Świątniki, Święcia and Broniki in the lordship of Zagórów and of Nowa Wieś, Przybysław, Stara Huta and part of Trąbczyn, let Oleśnica and Szetlewek in hereditary lease, and turn the services of all his subjects into a fixed money rent; he keeps back part of Trąbczyn, the land at Mariantów and a part of the forest. Four conditions: the compensation of the subjects for their rights of pasture and wood is to be fixed; no peasant holding may lapse; the state's taxes remain and are secured in the mortgage book; the wood rights of the abbey and provostry of Ląd are secured in the mortgage book, and if the reserved forests prove too small for the wood rights of the domain office of Ratyń, a yearly compensation is to be fixed.",
+ "summary_de": "Abschrift des Konsenses, den die Südpreußische Kriegs- und Domänenkammer in Kalisch am 28. Januar 1806 im Namen des Königs erteilt, auf Kabinettsordres vom 22. Oktober und 7. Dezember des Vorjahres. Der Fürst zu Hohenlohe-Ingelfingen darf die Vorwerke Drzewce, Kopojno, Świątniki, Święcia und Broniki der Herrschaft Zagórów sowie Nowa Wieś, Przybysław, Stara Huta und einen Teil von Trąbczyn parzellieren, Oleśnica und Szetlewek vererbpachten und die Dienste aller Untertanen in einen festen Geldzins verwandeln; einen Teil von Trąbczyn, die Grundstücke in Mariantów und einen Teil des Forstes behält er zurück. Vier Bedingungen: Die Entschädigung der Untertanen für ihre Hütungs- und Holzungsrechte ist festzusetzen; keine Bauernstelle darf eingehen; die staatlichen Abgaben bleiben und werden im Hypothekenbuch gesichert; die Holzungsrechte des Klosters und der Propstei Ląd werden im Hypothekenbuch gesichert, und reichen die vorbehaltenen Forsten für die Holzungsrechte des Domänenamts Ratyń nicht aus, ist eine jährliche Entschädigung festzusetzen.",
  "reading": {}
 }

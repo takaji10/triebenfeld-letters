@@ -16,8 +16,12 @@ An AI model (Claude) compared the whole transcription with the scans and correct
 
 ### Summaries
 
-The summaries were written in German from a reading of each document against its scans, and translated into English. They have not had the separate check that the summaries of other holdings received, in which each statement is held against its document.
+The summaries were written in German from a reading of each document against its scans, and translated into English. Each statement in them was then checked against its document, under the same rules as the separate check that the summaries of other holdings received: a summary may say only what the document says. Of 35 statements two said more than the text and were weakened: one on the wood rights in the consent, one on the purpose of the rent-free years in the contract.
+
+### Translation
+
+The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The published English of the other copies of the power of attorney and of the consent, and of a lease from the same court, was read beside them, so that the same German formula has the same English. Where this copy differs from the others in a word, the English follows this copy and a note records the difference. The same automatic check as elsewhere then confirmed that every figure survives into the English.
 
 ### Still to do
 
-The three documents are not yet translated into English. The note of the court's fees on the last page is not transcribed.
+The English has not yet been read against the scans. The note of the court's fees on the last page is not transcribed.

@@ -443,7 +443,440 @@
    "doc_line": 103
   }
  ],
- "mentions_english": [],
+ "mentions_english": [
+  {
+   "entity": "",
+   "display": "Olesnica",
+   "kind": "place",
+   "surface_de": "Olesnica",
+   "surface_en": "Olesnica",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Luckow",
+   "kind": "person",
+   "surface_de": "Johann Luckow",
+   "surface_en": "Johann Luckow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Liewert",
+   "kind": "person",
+   "surface_de": "Johann Liewert",
+   "surface_en": "Johann Liewert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Swięcia",
+   "kind": "place",
+   "surface_de": "Święcia",
+   "surface_en": "Swięcia",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürst zu Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Drzewiec",
+   "kind": "place",
+   "surface_de": "Drzewiec",
+   "surface_en": "Drzewiec",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Friedrich Turno",
+   "kind": "person",
+   "surface_de": "Johann Friedrich Turno",
+   "surface_en": "Johann Friedrich Turno",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Martin Dikhoff",
+   "kind": "person",
+   "surface_de": "Martin Dikhoff",
+   "surface_en": "Martin Dikhoff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Martin Sydow",
+   "kind": "person",
+   "surface_de": "Johann Martin Sydow",
+   "surface_en": "Johann Martin Sydow",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Gottlieb Haberland",
+   "kind": "person",
+   "surface_de": "Johann Gottlieb Haberland",
+   "surface_en": "Johann Gottlieb Haberland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Samuel Schubert",
+   "kind": "person",
+   "surface_de": "Samuel Schubert",
+   "surface_en": "Samuel Schubert",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michael Dikhoff",
+   "kind": "person",
+   "surface_de": "Michael Dikhoff",
+   "surface_en": "Michael Dikhoff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Gottfried Dikhoff",
+   "kind": "person",
+   "surface_de": "Gottfried Dikhoff",
+   "surface_en": "Gottfried Dikhoff",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Siering",
+   "kind": "person",
+   "surface_de": "Friedrich Siering",
+   "surface_en": "Friedrich Siering",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Christ. Friedr. Vagel",
+   "kind": "person",
+   "surface_de": "Christ. Friedr. Vagel",
+   "surface_en": "Christ. Friedr. Vagel",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Wilh. Böttcher",
+   "kind": "person",
+   "surface_de": "Johann Wilh. Böttcher",
+   "surface_en": "Johann Wilh. Böttcher",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Johann Büchner",
+   "kind": "person",
+   "surface_de": "Johann Büchner",
+   "surface_en": "Johann Büchner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Ephraim Fuchs",
+   "kind": "person",
+   "surface_de": "Ephraim Fuchs",
+   "surface_en": "Ephraim Fuchs",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Johann Halbott",
+   "kind": "person",
+   "surface_de": "Johann Halbott",
+   "surface_en": "Johann Halbott",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Dr. Johann Wendel Heilmann",
+   "kind": "person",
+   "surface_de": "Dr. Johann Wendel Heilmann",
+   "surface_en": "Dr. Johann Wendel Heilmann",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Martin Dikhoff",
+   "kind": "person",
+   "surface_de": "Martin Dikhoff",
+   "surface_en": "Martin Dikhoff",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Michael Just",
+   "kind": "person",
+   "surface_de": "Michael Just",
+   "surface_en": "Michael Just",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Johann Luckow",
+   "kind": "person",
+   "surface_de": "Johann Luckow",
+   "surface_en": "Johann Luckow",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Johann Liewert",
+   "kind": "person",
+   "surface_de": "Johann Liewert",
+   "surface_en": "Johann Liewert",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Drzewiec forest district",
+   "kind": "place",
+   "surface_de": "Drzewiecer Revier",
+   "surface_en": "Drzewiec forest district",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Drzewiec",
+   "kind": "place",
+   "surface_de": "Drzewiec",
+   "surface_en": "Drzewiec",
+   "page": 4
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Ludwig, Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Friedrich Ludwig Fürst zu Hohenlohe",
+   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Johann Friedrich Tiernow",
+   "kind": "person",
+   "surface_de": "Johann Friedrich Tiernow",
+   "surface_en": "Johann Friedrich Tiernow",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Martin Dickhoff",
+   "kind": "person",
+   "surface_de": "Martin Dickhoff",
+   "surface_en": "Martin Dickhoff",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Johann Martin Sydow",
+   "kind": "person",
+   "surface_de": "Johann Martin Sydow",
+   "surface_en": "Johann Martin Sydow",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Johann Gottlieb Haberland",
+   "kind": "person",
+   "surface_de": "Johann Gottlieb Haberland",
+   "surface_en": "Johann Gottlieb Haberland",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Samuel Schubertt",
+   "kind": "person",
+   "surface_de": "Samuel Schubertt",
+   "surface_en": "Samuel Schubertt",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Michael Dikhoff",
+   "kind": "person",
+   "surface_de": "Michael Dikhoff",
+   "surface_en": "Michael Dikhoff",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Gottfried Dikhoff",
+   "kind": "person",
+   "surface_de": "Gottfried Dikhoff",
+   "surface_en": "Gottfried Dikhoff",
+   "page": 9
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Siering",
+   "kind": "person",
+   "surface_de": "Friedrich Siering",
+   "surface_en": "Friedrich Siering",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Christian Friedrich Vagel",
+   "kind": "person",
+   "surface_de": "Christian Friedrich Vagel",
+   "surface_en": "Christian Friedrich Vagel",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Wilhelm Böttcher",
+   "kind": "person",
+   "surface_de": "Johann Wilhelm Böttcher",
+   "surface_en": "Johann Wilhelm Böttcher",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Büchner",
+   "kind": "person",
+   "surface_de": "Johann Büchner",
+   "surface_en": "Johann Büchner",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Ephraim Fuchs",
+   "kind": "person",
+   "surface_de": "Ephraim Fuchs",
+   "surface_en": "Ephraim Fuchs",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Halbott",
+   "kind": "person",
+   "surface_de": "Johann Halbott",
+   "surface_en": "Johann Halbott",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Wendel Heilmann",
+   "kind": "person",
+   "surface_de": "Johann Wendel Heilmann",
+   "surface_en": "Johann Wendel Heilmann",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Martin Dikhoff",
+   "kind": "person",
+   "surface_de": "Martin Dikhoff",
+   "surface_en": "Martin Dikhoff",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Michael Just",
+   "kind": "person",
+   "surface_de": "Michael Just",
+   "surface_en": "Michael Just",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Luckow",
+   "kind": "person",
+   "surface_de": "Johann Luckow",
+   "surface_en": "Johann Luckow",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Liewert",
+   "kind": "person",
+   "surface_de": "Johann Liewert",
+   "surface_en": "Johann Liewert",
+   "page": 10
+  },
+  {
+   "entity": "heinrichs",
+   "display": "Heinrichs",
+   "kind": "person",
+   "surface_de": "Heinrichs",
+   "surface_en": "Heinrichs",
+   "page": 10
+  },
+  {
+   "entity": "schenck",
+   "display": "Schenck",
+   "kind": "person",
+   "surface_de": "Schenk",
+   "surface_en": "Schenck",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Brauer",
+   "kind": "person",
+   "surface_de": "Brauer",
+   "surface_en": "Brauer",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Mariantów",
+   "kind": "place",
+   "surface_de": "Mariantów",
+   "surface_en": "Mariantów",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Fürsten zu Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 10
+  },
+  {
+   "entity": "",
+   "display": "Johann Turnow",
+   "kind": "person",
+   "surface_de": "Johann Turnow",
+   "surface_en": "Johann Turnow",
+   "page": 10
+  }
+ ],
  "place_canonical": "Marianton",
  "place_mentions": [
   {
@@ -524,10 +957,398 @@
    "doc_line": 101
   }
  ],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "A copy of a hereditary-lease contract whose beginning is missing. Through his plenipotentiary von Triebenfeld the Prince of Hohenlohe-Ingelfingen lets 100 Magdeburg Hufen of forest of his estate of Drzewce to eighteen named settlers for ever; sixteen take 5 Hufen each and two take 10. No entry money is paid, because the land has still to be cleared; four rent-free years are allowed instead, until Christmas 1808. After that the hereditary rent is 30 Reichsthaler a Hufe, 3000 Reichsthaler a year in all, payable at St John's Day and at Christmas; half of it can be redeemed. At every sale a tenth of the price goes to the lordship. The lessees are free of hereditary subjection and labour service but remain under the lordship's court, must buy their beer and spirits from it, and are jointly liable. The community receives 21 Morgen free of rent for a schoolmaster, a village mayor and a churchyard. Eleven of the eighteen sign with three crosses. The patrimonial court engrosses the contract at Mariantów on 21 March 1806.",
- "summary_de": "Abschrift eines Erbpachtvertrags, dessen Anfang fehlt. Der Fürst zu Hohenlohe-Ingelfingen überlässt durch seinen Generalbevollmächtigten von Triebenfeld achtzehn namentlich genannten Einsassen 100 Magdeburger Hufen Wald seines Gutes Drzewce auf ewige Zeiten; sechzehn nehmen je 5 Hufen, zwei je 10. Einkaufsgeld wird nicht gezahlt, weil das Land erst zu roden ist; dafür gelten vier Freijahre bis Weihnachten 1808. Danach beträgt der Erbzins 30 Reichstaler je Hufe, zusammen 3000 Reichstaler jährlich, zahlbar zu Johanni und zu Weihnachten; die Hälfte ist ablösbar. Bei jedem Verkauf fällt der zehnte Groschen an die Herrschaft. Die Erbpächter sind frei von Erbuntertänigkeit und Hofdiensten, unterstehen aber der Gerichtsbarkeit der Herrschaft, müssen Bier und Branntwein von ihr nehmen und haften solidarisch. Die Gemeinde erhält 21 Morgen zinsfrei für Schullehrer, Schulzen und Kirchhof. Elf der achtzehn unterzeichnen mit drei Kreuzen. Das Patrimonialgericht fertigt den Vertrag in Mariantów am 21. März 1806 aus.",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "estate of Olesnica.\n\n17. Johann Luckow and 18. Johann Liewert from the Princely estate of Swięcia, on the other part.\n\nThe parties appearing are personally known to the undersigned (Subscriptis), and there is no doubt as to their capacity to execute judicial acts validly.\n\nThe same declare, of their own free will and after due deliberation, the following hereditary-lease contract to the protocol.\n\n§ I.\n\nNamely, His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, through his general attorney the Councillor of War and Councillor Mr von Triebenfeld, who is legitimated by the annexed power of attorney, makes over, from the forest belonging to his estate of Drzewiec, the area of 100 Hufen, in words One hundred Hufen Magdeburg measure, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and Eighty square rods, to the aforesaid residents, namely:\n\n1. Johann Friedrich Turno — 5 Hufen\n\n2. Martin Dikhoff — 5 Hufen\n\n3. Johann Martin Sydow — 5 Hufen\n\n4. Johann Gottlieb Haberland — 10 Hufen\n\n5. Samuel Schubert — 5 Hufen\n\n6. Michael Dikhoff — 10 Hufen\n\n7. Gottfried Dikhoff — 5 Hufen\n\n8. Friedrich Siering — 5 Hufen\n\n9. Christ. Friedr. Vagel — 5 Hufen\n\n10. Johann Wilh. Böttcher — 5 Hufen\n\n11. Johann Büchner — 5 Hufen",
+   "names": [
+    {
+     "de": "Olesnica",
+     "en": "Olesnica",
+     "kind": "place"
+    },
+    {
+     "de": "Johann Luckow",
+     "en": "Johann Luckow",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Liewert",
+     "en": "Johann Liewert",
+     "kind": "person"
+    },
+    {
+     "de": "Święcia",
+     "en": "Swięcia",
+     "kind": "place"
+    },
+    {
+     "de": "Fürst zu Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Drzewiec",
+     "en": "Drzewiec",
+     "kind": "place"
+    },
+    {
+     "de": "Johann Friedrich Turno",
+     "en": "Johann Friedrich Turno",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Dikhoff",
+     "en": "Martin Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Martin Sydow",
+     "en": "Johann Martin Sydow",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Gottlieb Haberland",
+     "en": "Johann Gottlieb Haberland",
+     "kind": "person"
+    },
+    {
+     "de": "Samuel Schubert",
+     "en": "Samuel Schubert",
+     "kind": "person"
+    },
+    {
+     "de": "Michael Dikhoff",
+     "en": "Michael Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Gottfried Dikhoff",
+     "en": "Gottfried Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Siering",
+     "en": "Friedrich Siering",
+     "kind": "person"
+    },
+    {
+     "de": "Christ. Friedr. Vagel",
+     "en": "Christ. Friedr. Vagel",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Wilh. Böttcher",
+     "en": "Johann Wilh. Böttcher",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Büchner",
+     "en": "Johann Büchner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "17.",
+    "18.",
+    "100",
+    "1.",
+    "5",
+    "2.",
+    "5",
+    "3.",
+    "5",
+    "4.",
+    "10",
+    "5.",
+    "5",
+    "6.",
+    "10",
+    "7.",
+    "5",
+    "8.",
+    "5",
+    "9.",
+    "5",
+    "10.",
+    "5",
+    "11.",
+    "5"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "12. Ephraim Fuchs — 5 Hufen\n\n13. Johann Halbott — 5 Hufen\n\n14. Dr. Johann Wendel Heilmann — 5 Hufen\n\n15. Martin Dikhoff — 5 Hufen\n\n16. Michael Just — 5 Hufen\n\n17. Johann Luckow — 5 Hufen\n\n18. Johann Liewert — 5 Hufen\n\nTotal as above 100 Hufen, for everlasting and perpetual time in hereditary lease, under the following conditions.\n\n§ II.\n\nOf entry money not a farthing is paid, since these One hundred Hufen are waste land overgrown with wood, which must first be cleared. On the other hand a perpetual hereditary canon of 30 Rthl, say thirty Reichsthaler, per Hufe Magdeburg measure, and thus for 100 Hufen in all 3,000 Rthl, say three Thousand Reichsthaler, is paid from it yearly to the ground lordship in two instalments, namely with the one half of 1,500 Rthl, say One Thousand Five hundred Reichsthaler, at Midsummer and with the other half of 1,500 Rthl, say one Thousand Five hundred Reichsthaler, at Christmas, in good Courant such as the treasuries accept.\n\n§ III.\n\nThe hereditary lessees are free to make over these Hufen which they have acquired, in several separate",
+   "names": [
+    {
+     "de": "Ephraim Fuchs",
+     "en": "Ephraim Fuchs",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Halbott",
+     "en": "Johann Halbott",
+     "kind": "person"
+    },
+    {
+     "de": "Dr. Johann Wendel Heilmann",
+     "en": "Dr. Johann Wendel Heilmann",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Dikhoff",
+     "en": "Martin Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Michael Just",
+     "en": "Michael Just",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Luckow",
+     "en": "Johann Luckow",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Liewert",
+     "en": "Johann Liewert",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "12.",
+    "5",
+    "13.",
+    "5",
+    "14.",
+    "5",
+    "15.",
+    "5",
+    "16.",
+    "5",
+    "17.",
+    "5",
+    "18.",
+    "5",
+    "100",
+    "30",
+    "100",
+    "3000",
+    "1500",
+    "1500"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "parts, to others, and to come to terms with these new takers as best they can to their own advantage.\n\n§ IV\n\nTheir establishments both the present hereditary lessees and the other future takers must effect at their own cost, now and in future, and they receive for this neither remission of the hereditary rent nor other building assistance; they may, however, use for this the timber standing on the Hufen received in hereditary lease, which belongs to them all in property without any exception.\n\n§ V\n\nThese Hufen taken in hereditary lease shall be duly measured out to the hereditary lessees in the Drzewiec forest district as soon as the weather allows, and delivered into their possession.\n\n§ VI\n\nSince, as aforesaid, the hereditary lessees must make the land arable for themselves by clearing, they receive for this, one like another, four free years, which begin at Christmas of this year and end at Christmas One Thousand Eight hundred and Eight; during these four years the hereditary lessees need pay not a farthing of hereditary rent, but they pay the first half-yearly hereditary rent of",
+   "names": [
+    {
+     "de": "Drzewiecer Revier",
+     "en": "Drzewiec forest district",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "One Thousand five hundred Reichsthaler only at Midsummer One Thousand Eight Hundred and Nine, from which time this payment of rent is continued half-yearly.\n\n§ VII\n\nBesides this annual hereditary rent the hereditary lessees undertake, for themselves and their descendants, to render the royal and other public dues that shall hereafter be fixed upon the One hundred Hufen, by whatever name they may go.\n\n§ VIII\n\nThe hereditary lessees have not the least claim to any firewood or pasture in the other manorial woods; they and the other takers are, however, permitted to graze their cattle free of charge in that part of the woods near Drzewiec which the ground lordship does not sell but keeps for itself, and where there are no young plantations or plantings of timber; the right of the ground lordship to let out these remaining parts of the wood as well shall, however, not be restricted by this in the least, but the hereditary lessees' right of pasturage ceases entirely as soon as such a case of sale occurs.\n\n§ IX\n\nThe hereditary lessees are granted the liberty to set up on their ground a brick kiln",
+   "names": [
+    {
+     "de": "Drzewiec",
+     "en": "Drzewiec",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "en": "and to burn for themselves the bricks and roofing tiles they need, without anything having to be paid for this to the ground lordship.\n\n§ X\n\nThe hereditary lessees must divide the Hufen they have taken among themselves in the best possible manner, without the ground lordship concurring in this in the least, since it is bound only to allot to them the total of the 100 Hufen; the ground lordship undertakes, however, to bear the whole costs of this allotment in the manner determined in § I.\n\n§ XI\n\nThe present hereditary lessees, as also the other takers, are free to alienate their holding to others in any manner they please; but at every change of possession, be it by sale or exchange, the tenth Groschen of the purchase money or of the amount of the exchange must be paid to the ground lordship as a transfer fee (Laudemium), and the ground lordship always holds to the new taker, whose affair it remains not to pay out the purchase money to the seller until the transfer fee is settled.\n\nOn inheritance, or where the holding is given up to children and collateral relations, on the other hand, no transfer fee is paid, and in the same way the first takers from the present",
+   "numbers": [
+    "100"
+   ]
+  },
+  {
+   "page": 6,
+   "en": "hereditary lessees are wholly exempt from it.\n\n§ XII\n\nAt the end of the four free years, and at the latest at Midsummer One Thousand Eight hundred and Nine, the hereditary lessees and the other takers are free to redeem the stipulated hereditary rent of thirty Reichsthaler per Hufe up to one half, by payment of the capital sum at Five per cent; that is to say, each of them may pay off to the ground lordship in cash One, two, up to three hundred Reichsthaler per Hufe, which capital then remains the property of the ground lordship, and for every One hundred Reichsthaler paid, Five Reichsthaler of annual rent are written off for the hereditary lessees. The second half of the hereditary rent, of Fifteen Reichsthaler per Hufe, remains however irredeemable for everlasting time.\n\n§ XIII\n\nThe hereditary lessees and their descendants remain for ever wholly free of all hereditary subjection, and need render the ground lordship not the least manorial service nor deliver anything in kind. They are, however, without exception subject for ever to the jurisdiction of the manorial lordship (Dominium).\n\n§ XIV\n\nBesides the One hundred Hufen on which they pay rent, there is allotted to the whole community"
+  },
+  {
+   "page": 7,
+   "en": "once and for all, namely 1. for the schoolmaster Fifteen Morgen — 15 Morgen\n\n2. For the village mayor — 5 Morgen\n\nand 3. for the churchyard, say one Morgen — 1 Morgen\n\nin all 21 Morgen, say one and twenty Morgen Magdeburg measure, free of charge and free of rent.\n\n§ XV\n\nTheir drink, of beer and brandy, the hereditary lessees and their successors in possession must always take from the manorial brewery and distillery or from the tavern, and for every quart of brandy brought in from other estates pay One Reichsthaler, and for every barrel of beer five Reichsthaler, as a penalty to the ground lordship.\n\n§ XVI\n\nThe hereditary lessees, for themselves and their descendants, hereby expressly renounce all and every remission in cases of misfortune, whether they arise through fire from heaven, the incendiarism of evil persons, crop failure, hailstorm, inundation, cattle plague, war and pestilence, or in whatever manner it may be, and on that account neither a compensation nor a remission of the hereditary rent shall ever avail them.\n\n§ XVII\n\nThe costs of this contract, of its",
+   "numbers": [
+    "1.",
+    "15",
+    "2.",
+    "5",
+    "3.",
+    "1",
+    "21"
+   ]
+  },
+  {
+   "page": 8,
+   "en": "confirmation and official copy, the hereditary lessees undertake to settle.\n\n§ XVIII\n\nSo long as the hereditary lessees and their successors in possession fulfil these obligations here written down, they shall be protected by the ground lordship in their rights in every respect, and defended and held harmless against every man's claims in rem.\n\nShould they, however, remain in arrears with the annual hereditary canon for longer than two years, they then forfeit this hereditary lease and the ground lordship is entitled to let it out otherwise, in which case only their improvements may be made good to the hereditary lessees.\n\n§ XIX\n\nFor the due and prompt payment of the hereditary rent fixed, the hereditary lessees and the future takers, as also their successors in possession, are liable for ever One for All and All for One, and thus jointly and severally, in such manner that the ground lordship shall be entitled on this account to hold either to the One or the Other, or else to the whole community.\n\nBoth parties promise to hold to the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal pleas"
+  },
+  {
+   "page": 9,
+   "en": "that might be raised against it, in particular the objection of an injury suffered above and below the half, of crafty persuasion, of overhaste, or of the impossibility of getting the rent out of the thing, of matters agreed otherwise than written down or not rightly understood; and His Princely Serene Highness expressly consents that the hereditary lessees, each one of them, may on the ground of this contract have his title of possession (titulum possessionis) of his holding settled in his own name. The contracting parties had nothing more to state; they asked for the confirmation and the official copy of this contract, and after this protocol had been read out to them word for word, and they had also been instructed that the renunciation of the legal pleas and objections carries with it the entire loss of the same, they once more renounced them after due deliberation, and in token of their approval have subscribed and signed below in their own hand.\n\nvon Triebenfeld\n\nread and approved\n\nFriedrich Ludwig, Prince of Hohenlohe\n\nJohann Friedrich Tiernow\n\nxxx is called Martin Dickhoff\n\nxxx — Johann Martin Sydow\n\nJohann Gottlieb Haberland\n\nSamuel Schubertt\n\nxxx is called Michael Dikhoff\n\nxxx — Gottfried Dikhoff",
+   "names": [
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Friedrich Ludwig Fürst zu Hohenlohe",
+     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Friedrich Tiernow",
+     "en": "Johann Friedrich Tiernow",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Dickhoff",
+     "en": "Martin Dickhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Martin Sydow",
+     "en": "Johann Martin Sydow",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Gottlieb Haberland",
+     "en": "Johann Gottlieb Haberland",
+     "kind": "person"
+    },
+    {
+     "de": "Samuel Schubertt",
+     "en": "Samuel Schubertt",
+     "kind": "person"
+    },
+    {
+     "de": "Michael Dikhoff",
+     "en": "Michael Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Gottfried Dikhoff",
+     "en": "Gottfried Dikhoff",
+     "kind": "person"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "en": "Friedrich Siering\n\nxxx is called Christian Friedrich Vagel\n\nxxx Johann Wilhelm Böttcher\n\nxxx is called Johann Büchner\n\nEphraim Fuchs\n\nJohann Halbott\n\nxxx is called Johann Wendel Heilmann\n\nxxx Martin Dikhoff\n\nxxx Michael Just\n\nJohann Luckow\n\nxxx Johann Liewert\n\nRead out loudly and distinctly in my presence, approved and subscribed in their own hand: this is hereby credibly certified by Heinrichs, commission councillor and economy commissary. a. u. s.\n\nSchenck, Justiciary\n\nBrauer, keeper of the protocol\n\nThis contract is now hereby made out, with the impression of the court seal and the customary signature.\n\nMariantów, the 21st of March 1806\n\nPrincely Hohenlohe Patrimonial Court at Trąbczyn\n\n(—) Schenck\n\nOfficial copy of the hereditary-lease contract between His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen and the inhabitants Johann Turnow and associates (et Consorten)",
+   "names": [
+    {
+     "de": "Friedrich Siering",
+     "en": "Friedrich Siering",
+     "kind": "person"
+    },
+    {
+     "de": "Christian Friedrich Vagel",
+     "en": "Christian Friedrich Vagel",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Wilhelm Böttcher",
+     "en": "Johann Wilhelm Böttcher",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Büchner",
+     "en": "Johann Büchner",
+     "kind": "person"
+    },
+    {
+     "de": "Ephraim Fuchs",
+     "en": "Ephraim Fuchs",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Halbott",
+     "en": "Johann Halbott",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Wendel Heilmann",
+     "en": "Johann Wendel Heilmann",
+     "kind": "person"
+    },
+    {
+     "de": "Martin Dikhoff",
+     "en": "Martin Dikhoff",
+     "kind": "person"
+    },
+    {
+     "de": "Michael Just",
+     "en": "Michael Just",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Luckow",
+     "en": "Johann Luckow",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Liewert",
+     "en": "Johann Liewert",
+     "kind": "person"
+    },
+    {
+     "de": "Heinrichs",
+     "en": "Heinrichs",
+     "kind": "person"
+    },
+    {
+     "de": "Schenk",
+     "en": "Schenck",
+     "kind": "person"
+    },
+    {
+     "de": "Brauer",
+     "en": "Brauer",
+     "kind": "person"
+    },
+    {
+     "de": "Mariantów",
+     "en": "Mariantów",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Fürsten zu Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Johann Turnow",
+     "en": "Johann Turnow",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "21",
+    "1806"
+   ]
+  }
+ ],
+ "text_english": "estate of Olesnica.\n\n17. Johann Luckow and 18. Johann Liewert from the Princely estate of Swięcia, on the other part.\n\nThe parties appearing are personally known to the undersigned (Subscriptis), and there is no doubt as to their capacity to execute judicial acts validly.\n\nThe same declare, of their own free will and after due deliberation, the following hereditary-lease contract to the protocol.\n\n§ I.\n\nNamely, His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, through his general attorney the Councillor of War and Councillor Mr von Triebenfeld, who is legitimated by the annexed power of attorney, makes over, from the forest belonging to his estate of Drzewiec, the area of 100 Hufen, in words One hundred Hufen Magdeburg measure, reckoned at thirty Morgen to the Hufe and each Morgen at one hundred and Eighty square rods, to the aforesaid residents, namely:\n\n1. Johann Friedrich Turno — 5 Hufen\n\n2. Martin Dikhoff — 5 Hufen\n\n3. Johann Martin Sydow — 5 Hufen\n\n4. Johann Gottlieb Haberland — 10 Hufen\n\n5. Samuel Schubert — 5 Hufen\n\n6. Michael Dikhoff — 10 Hufen\n\n7. Gottfried Dikhoff — 5 Hufen\n\n8. Friedrich Siering — 5 Hufen\n\n9. Christ. Friedr. Vagel — 5 Hufen\n\n10. Johann Wilh. Böttcher — 5 Hufen\n\n11. Johann Büchner — 5 Hufen\n\n12. Ephraim Fuchs — 5 Hufen\n\n13. Johann Halbott — 5 Hufen\n\n14. Dr. Johann Wendel Heilmann — 5 Hufen\n\n15. Martin Dikhoff — 5 Hufen\n\n16. Michael Just — 5 Hufen\n\n17. Johann Luckow — 5 Hufen\n\n18. Johann Liewert — 5 Hufen\n\nTotal as above 100 Hufen, for everlasting and perpetual time in hereditary lease, under the following conditions.\n\n§ II.\n\nOf entry money not a farthing is paid, since these One hundred Hufen are waste land overgrown with wood, which must first be cleared. On the other hand a perpetual hereditary canon of 30 Rthl, say thirty Reichsthaler, per Hufe Magdeburg measure, and thus for 100 Hufen in all 3,000 Rthl, say three Thousand Reichsthaler, is paid from it yearly to the ground lordship in two instalments, namely with the one half of 1,500 Rthl, say One Thousand Five hundred Reichsthaler, at Midsummer and with the other half of 1,500 Rthl, say one Thousand Five hundred Reichsthaler, at Christmas, in good Courant such as the treasuries accept.\n\n§ III.\n\nThe hereditary lessees are free to make over these Hufen which they have acquired, in several separate\n\nparts, to others, and to come to terms with these new takers as best they can to their own advantage.\n\n§ IV\n\nTheir establishments both the present hereditary lessees and the other future takers must effect at their own cost, now and in future, and they receive for this neither remission of the hereditary rent nor other building assistance; they may, however, use for this the timber standing on the Hufen received in hereditary lease, which belongs to them all in property without any exception.\n\n§ V\n\nThese Hufen taken in hereditary lease shall be duly measured out to the hereditary lessees in the Drzewiec forest district as soon as the weather allows, and delivered into their possession.\n\n§ VI\n\nSince, as aforesaid, the hereditary lessees must make the land arable for themselves by clearing, they receive for this, one like another, four free years, which begin at Christmas of this year and end at Christmas One Thousand Eight hundred and Eight; during these four years the hereditary lessees need pay not a farthing of hereditary rent, but they pay the first half-yearly hereditary rent of\n\nOne Thousand five hundred Reichsthaler only at Midsummer One Thousand Eight Hundred and Nine, from which time this payment of rent is continued half-yearly.\n\n§ VII\n\nBesides this annual hereditary rent the hereditary lessees undertake, for themselves and their descendants, to render the royal and other public dues that shall hereafter be fixed upon the One hundred Hufen, by whatever name they may go.\n\n§ VIII\n\nThe hereditary lessees have not the least claim to any firewood or pasture in the other manorial woods; they and the other takers are, however, permitted to graze their cattle free of charge in that part of the woods near Drzewiec which the ground lordship does not sell but keeps for itself, and where there are no young plantations or plantings of timber; the right of the ground lordship to let out these remaining parts of the wood as well shall, however, not be restricted by this in the least, but the hereditary lessees' right of pasturage ceases entirely as soon as such a case of sale occurs.\n\n§ IX\n\nThe hereditary lessees are granted the liberty to set up on their ground a brick kiln\n\nand to burn for themselves the bricks and roofing tiles they need, without anything having to be paid for this to the ground lordship.\n\n§ X\n\nThe hereditary lessees must divide the Hufen they have taken among themselves in the best possible manner, without the ground lordship concurring in this in the least, since it is bound only to allot to them the total of the 100 Hufen; the ground lordship undertakes, however, to bear the whole costs of this allotment in the manner determined in § I.\n\n§ XI\n\nThe present hereditary lessees, as also the other takers, are free to alienate their holding to others in any manner they please; but at every change of possession, be it by sale or exchange, the tenth Groschen of the purchase money or of the amount of the exchange must be paid to the ground lordship as a transfer fee (Laudemium), and the ground lordship always holds to the new taker, whose affair it remains not to pay out the purchase money to the seller until the transfer fee is settled.\n\nOn inheritance, or where the holding is given up to children and collateral relations, on the other hand, no transfer fee is paid, and in the same way the first takers from the present\n\nhereditary lessees are wholly exempt from it.\n\n§ XII\n\nAt the end of the four free years, and at the latest at Midsummer One Thousand Eight hundred and Nine, the hereditary lessees and the other takers are free to redeem the stipulated hereditary rent of thirty Reichsthaler per Hufe up to one half, by payment of the capital sum at Five per cent; that is to say, each of them may pay off to the ground lordship in cash One, two, up to three hundred Reichsthaler per Hufe, which capital then remains the property of the ground lordship, and for every One hundred Reichsthaler paid, Five Reichsthaler of annual rent are written off for the hereditary lessees. The second half of the hereditary rent, of Fifteen Reichsthaler per Hufe, remains however irredeemable for everlasting time.\n\n§ XIII\n\nThe hereditary lessees and their descendants remain for ever wholly free of all hereditary subjection, and need render the ground lordship not the least manorial service nor deliver anything in kind. They are, however, without exception subject for ever to the jurisdiction of the manorial lordship (Dominium).\n\n§ XIV\n\nBesides the One hundred Hufen on which they pay rent, there is allotted to the whole community\n\nonce and for all, namely 1. for the schoolmaster Fifteen Morgen — 15 Morgen\n\n2. For the village mayor — 5 Morgen\n\nand 3. for the churchyard, say one Morgen — 1 Morgen\n\nin all 21 Morgen, say one and twenty Morgen Magdeburg measure, free of charge and free of rent.\n\n§ XV\n\nTheir drink, of beer and brandy, the hereditary lessees and their successors in possession must always take from the manorial brewery and distillery or from the tavern, and for every quart of brandy brought in from other estates pay One Reichsthaler, and for every barrel of beer five Reichsthaler, as a penalty to the ground lordship.\n\n§ XVI\n\nThe hereditary lessees, for themselves and their descendants, hereby expressly renounce all and every remission in cases of misfortune, whether they arise through fire from heaven, the incendiarism of evil persons, crop failure, hailstorm, inundation, cattle plague, war and pestilence, or in whatever manner it may be, and on that account neither a compensation nor a remission of the hereditary rent shall ever avail them.\n\n§ XVII\n\nThe costs of this contract, of its\n\nconfirmation and official copy, the hereditary lessees undertake to settle.\n\n§ XVIII\n\nSo long as the hereditary lessees and their successors in possession fulfil these obligations here written down, they shall be protected by the ground lordship in their rights in every respect, and defended and held harmless against every man's claims in rem.\n\nShould they, however, remain in arrears with the annual hereditary canon for longer than two years, they then forfeit this hereditary lease and the ground lordship is entitled to let it out otherwise, in which case only their improvements may be made good to the hereditary lessees.\n\n§ XIX\n\nFor the due and prompt payment of the hereditary rent fixed, the hereditary lessees and the future takers, as also their successors in possession, are liable for ever One for All and All for One, and thus jointly and severally, in such manner that the ground lordship shall be entitled on this account to hold either to the One or the Other, or else to the whole community.\n\nBoth parties promise to hold to the foregoing hereditary-lease contract firmly and inviolably, and renounce all legal pleas\n\nthat might be raised against it, in particular the objection of an injury suffered above and below the half, of crafty persuasion, of overhaste, or of the impossibility of getting the rent out of the thing, of matters agreed otherwise than written down or not rightly understood; and His Princely Serene Highness expressly consents that the hereditary lessees, each one of them, may on the ground of this contract have his title of possession (titulum possessionis) of his holding settled in his own name. The contracting parties had nothing more to state; they asked for the confirmation and the official copy of this contract, and after this protocol had been read out to them word for word, and they had also been instructed that the renunciation of the legal pleas and objections carries with it the entire loss of the same, they once more renounced them after due deliberation, and in token of their approval have subscribed and signed below in their own hand.\n\nvon Triebenfeld\n\nread and approved\n\nFriedrich Ludwig, Prince of Hohenlohe\n\nJohann Friedrich Tiernow\n\nxxx is called Martin Dickhoff\n\nxxx — Johann Martin Sydow\n\nJohann Gottlieb Haberland\n\nSamuel Schubertt\n\nxxx is called Michael Dikhoff\n\nxxx — Gottfried Dikhoff\n\nFriedrich Siering\n\nxxx is called Christian Friedrich Vagel\n\nxxx Johann Wilhelm Böttcher\n\nxxx is called Johann Büchner\n\nEphraim Fuchs\n\nJohann Halbott\n\nxxx is called Johann Wendel Heilmann\n\nxxx Martin Dikhoff\n\nxxx Michael Just\n\nJohann Luckow\n\nxxx Johann Liewert\n\nRead out loudly and distinctly in my presence, approved and subscribed in their own hand: this is hereby credibly certified by Heinrichs, commission councillor and economy commissary. a. u. s.\n\nSchenck, Justiciary\n\nBrauer, keeper of the protocol\n\nThis contract is now hereby made out, with the impression of the court seal and the customary signature.\n\nMariantów, the 21st of March 1806\n\nPrincely Hohenlohe Patrimonial Court at Trąbczyn\n\n(—) Schenck\n\nOfficial copy of the hereditary-lease contract between His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen and the inhabitants Johann Turnow and associates (et Consorten)",
+ "summary_en": "A copy of a hereditary-lease contract whose beginning is missing. Through his general attorney von Triebenfeld the Prince of Hohenlohe-Ingelfingen lets 100 Magdeburg Hufen of forest of his estate of Drzewce to eighteen named settlers for ever; sixteen take 5 Hufen each and two take 10. No entry money is paid, because the land has still to be cleared; four rent-free years are allowed for the clearing, until Christmas 1808. After that the hereditary rent is 30 Reichsthaler a Hufe, 3000 Reichsthaler a year in all, payable at Midsummer and at Christmas; half of it can be redeemed. At every sale a tenth of the price goes to the lordship. The lessees are free of hereditary subjection and labour service but remain under the lordship's court, must buy their beer and spirits from it, and are jointly liable. The community receives 21 Morgen free of rent for a schoolmaster, a village mayor and a churchyard. Eleven of the eighteen sign with three crosses. The patrimonial court engrosses the contract at Mariantów on 21 March 1806.",
+ "summary_de": "Abschrift eines Erbpachtvertrags, dessen Anfang fehlt. Der Fürst zu Hohenlohe-Ingelfingen überlässt durch seinen Generalbevollmächtigten von Triebenfeld achtzehn namentlich genannten Einsassen 100 Magdeburger Hufen Wald seines Gutes Drzewce auf ewige Zeiten; sechzehn nehmen je 5 Hufen, zwei je 10. Einkaufsgeld wird nicht gezahlt, weil das Land erst zu roden ist; zum Roden gelten vier Freijahre bis Weihnachten 1808. Danach beträgt der Erbzins 30 Reichstaler je Hufe, zusammen 3000 Reichstaler jährlich, zahlbar zu Johanni und zu Weihnachten; die Hälfte ist ablösbar. Bei jedem Verkauf fällt der zehnte Groschen an die Herrschaft. Die Erbpächter sind frei von Erbuntertänigkeit und Hofdiensten, unterstehen aber der Gerichtsbarkeit der Herrschaft, müssen Bier und Branntwein von ihr nehmen und haften solidarisch. Die Gemeinde erhält 21 Morgen zinsfrei für Schullehrer, Schulzen und Kirchhof. Elf der achtzehn unterzeichnen mit drei Kreuzen. Das Patrimonialgericht fertigt den Vertrag in Mariantów am 21. März 1806 aus.",
  "reading": {}
 }

@@ -47,6 +47,7 @@ places:
     variants:
       - "Trąbczin"
       - "Trąpczyn"
+      - "Trompczyn"    # the copy of about 1930, APP 53/968/0/-/801
       - "Trąbrzyn"
       - "Trabryn"
       - "Trąbczynen"
@@ -137,7 +138,7 @@ places:
     kind: village
     match: '[SŚ]wi[ąę]tnik\w*'
     tier: ""
-    variants: ["Swiątniki", "Swiątniker", "Swiętnik", "Swiętniki"]
+    variants: ["Swiątniki", "Swiątniker", "Swiętnik", "Swiętniki", "Świątnik"]
 
   szetlewek:
     display: "Szetlewek"
@@ -149,6 +150,7 @@ places:
     match: 'Sz[ei]tt?lew\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
     tier: "Context-inferred"
     variants:
+      - "Szedlewek"    # the copy of about 1930, APP 53/968/0/-/801
       - "Stetlewek"
       # Was the reading on letter 31 page 3, ruled out of the transcription on
       # 2026-09-12 (ed-031szet) alongside Szettleich. Kept and still matched, for
@@ -248,7 +250,7 @@ places:
     kind: village
     match: 'Mariant[oóe][nw]\w*'
     tier: "Context-inferred"
-    variants: ["Marianton"]
+    variants: ["Marianton", "Marianten", "Mariantow"]   # the last two: the copy of about 1930, APP 53/968/0/-/801
 
   kamionno:
     # The register prints Kamionno. The editor ruled on 2026-09-15 that the
@@ -840,7 +842,7 @@ places:
     # this group and stays its own entity.
     match: '[SŚ]wi[eę]ci[aen]\w*|Święca'
     tier: ""
-    variants: ["Swięcer", "Swięcin", "Swięce"]
+    variants: ["Swięcer", "Swięcin", "Swięce", "Święcia", "Święca"]
     distinct_from: [swiechocin]
     open_questions:
       - "Document 7 uses both spellings in one text - the village of Swięcin

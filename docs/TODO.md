@@ -109,8 +109,10 @@ page in both languages; two timeline entries. Details are in
       nowhere given. He has his own entry among the people, with those two
       documents. **You:** say if you know him to be Honrichs after all, and
       the two entries will be joined.
-- [ ] Translate the three documents into English and check the summaries
-      against them (in session, as the other holdings were).
+- [x] Translate the three documents into English, check and publish them
+      (done in session 2026-10-05; two check rows, neither a fault).
+- [x] Check each statement of the three summaries against its document:
+      35 statements, two weakened.
 
 ## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (scaffolded 2026-10-05)
 

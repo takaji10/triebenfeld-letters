@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 36
+  docs: 37
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -188,7 +188,7 @@
   initial_en: "R"
   sort_de: "ruthe"
   initial_de: "R"
-  docs: 10
+  docs: 12
 - id: "centner"
   kind: "money"
   lang: "de"
@@ -644,7 +644,7 @@
   initial_en: "T"
   sort_de: "titulus possessionis"
   initial_de: "T"
-  docs: 40
+  docs: 41
 - id: "abstand"
   kind: "land"
   lang: "la"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 57
+  docs: 56
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -910,7 +910,7 @@
   initial_en: "C"
   sort_de: "kriegsrath"
   initial_de: "K"
-  docs: 57
+  docs: 58
 - id: "hofrath"
   kind: "title"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 48
+  docs: 49
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1689,7 +1689,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 59
+  docs: 60
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1974,7 +1974,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 90
+  docs: 91
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

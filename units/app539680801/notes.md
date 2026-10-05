@@ -154,11 +154,50 @@ paragraph on the Drzewce lease as the case of uncleared forest. The
 holding pages of APP 53/71/0/-/57, Oe 1 Bü 14526, Nr. 3705 and Oe 1 Bü 9454
 name this holding among their related holdings.
 
+## Translation and claim check (2026-10-05)
+
+Translated in session at the editor's word, as Nr. 12366 was, not by the
+paid run; the pages are in `intake/translation/doc<N>.yml`, written into the
+untagged cache by `intake/translation/write_cache.py`. Status `translated`,
+`published_tag: ""`.
+
+- **Read beside the other copies.** The published English of the power of
+  attorney in APP 53/71/0/-/57 and of the consent and a sister lease in Oe 1
+  Bü 14526, document 8, was the model, so the same formula has the same
+  English ("ground lordship", "hereditary canon", "transfer fee
+  (Laudemium)", "manorial lordship (Dominium)", "official copy").
+- **Where this copy differs, it is followed and flagged:** "Haupt- und
+  Verkauf" (principal and sale; the others "Kauf und Verkauf"), "Special
+  Vollmacht", "uns in unserem Königlichen Hause", the edict of "1. März
+  1804" (the other copy "1ten May"), "decretiren" for "declariren",
+  "Kriegs- und Rath", "Angaben" for "Abgaben", "bis auf ... Holtz", "wer
+  dürfen". Proposals for the German are in each page's
+  `emendation_suggestions`; none is applied.
+- **Names.** Settled forms where the edition has them: Zagórów, Witów,
+  Trąbczyn (also for Trompczyn), Kalisz, Wrocław, Górzyce (Guhrwitz),
+  Świniary (Schweinern), Mariantów (Marianten, Mariantow), Szetlewek
+  (Szedlewek), Swięcia (Święca, Święcia), Świątniki, Kopojno, Schenck. Five
+  of these were added as variants in `reference/places.yml` for this copy
+  (Trompczyn, Marianten, Mariantow, Szedlewek, Święcia, Święca, Świątnik).
+  As the page spells them, because the edition has not settled them or other
+  published English keeps them: Drzewiec, Olesnica (document 3), Nowawieś,
+  Stara-Hutta, Lond, Ratyń, Koleschke, and every lessee.
+- **check_translations.py:** 2 rows, neither a fault. In document 2 the
+  termbase patterns for *Dismembration* and *Ausfertigung* match the verbs
+  "dismembriren" and "ausfertigen lassen", rendered "to dismember" and
+  "caused to be made out".
+- **uncanonical_names.py:** nothing in this holding (the five rows it
+  reports are older, in Nr. 12765 and Oe 1 Bü 9454).
+- **Crosses.** "xxx heißt N." is "xxx is called N."; a dash stays a dash.
+
+`intake/claim_check.yml`: 35 statements, 33 supported, two weakened (the wood
+rights of Ląd and Ratyń in document 2; "dafür" before the free years in
+document 3). The English summaries follow, and now use the termbase's words
+(demesne farm, Government, Midsummer, general attorney).
+
 ## Still to do
 
-- Translation and the claim check of the three summaries, in session as the
-  other holdings were.
+- The English has not been read against the scans.
+- The fee note on the last page (`intake/unresolved.md`).
 - Settled by the editor on 2026-10-05: three documents; "Dr." before Johann
   Wendel Heilmann is the right reading; Michael Just's 5 Hufen.
-- Glossary candidates are ruled on when the holding is `translated`
-  (`glossary_candidates.py` reports none now).

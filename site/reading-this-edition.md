@@ -234,8 +234,7 @@ goes wrong, and both copies are presented unaltered.
 
 ## English translations
 
-All but three of the documents with text have an English translation: 459 of the 467. The
-three copies from Poznań added in October 2026 are still to be translated, and five are
+Every document with text now has an English translation: 462 of the 467. The other five are
 numbers in the correspondence under which no text survives. Each translation appears beneath
 the original with its status shown, and the French and Polish documents were translated from
 their own language. No translation is presented as authoritative until it has been checked by

@@ -31,7 +31,10 @@ archive_title: >-
 # The papers copied are dated 19 February 1805 to 21 March 1806. The copy
 # itself the archive dates "[1930?]".
 date_span: 1805-1806
-status: transcribed        # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
+# Translated in session on 2026-10-05 into the untagged cache
+# (cache/translation-raw), as Nr. 12366 was: see notes.md.
+published_tag: ""
 
 # Which era this holding belongs to - reference/eras.yml. Section III of the
 # era essay (docs/HOHENLOHE_ERA_PLAN.md).
@@ -85,7 +88,7 @@ description: >-
   court on Trąbczyn certified the copy at Mariantów on 21 March 1806. The
   second is the consent of the South Prussian War and Domains Chamber, given
   in the King's name at Kalisz on 28 January 1806 on cabinet orders of 22
-  October and 7 December 1805: the Prince may parcel out the manor farms of
+  October and 7 December 1805: the Prince may parcel out the demesne farms of
   Drzewce, Kopojno, Świątniki, Święcia and Broniki in the lordship of Zagórów
   and of Nowa Wieś, Przybysław, Stara Huta and part of Trąbczyn in the
   lordship of Trąbczyn, let Oleśnica and Szetlewek in hereditary lease, and

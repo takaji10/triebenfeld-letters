@@ -134,9 +134,8 @@ so check them.
   changelog. `match_scans.py` needs the raw scans and does not run here; a
   change to a document's pages means correcting `page_scan_map.csv` by hand
   (Nr. 12367's notes, "Mardi put back").
-- Every holding but the newest is translated (459 documents with English;
-  the five of Oe 1 Bü 9454 without text excepted, and APP 53/968/0/-/801
-  still to do).
+- Every holding is now translated (462 documents with English; the five of
+  Oe 1 Bü 9454 without text excepted).
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
   2026-10-05): three documents on sixteen pages, copies made about 1930
   (papers of Albert Breyer): the Prince's power of attorney for Triebenfeld
@@ -146,9 +145,10 @@ so check them.
   built as one document, divided at the editor's word the same day
   (`intake/split_documents.py`; `intake/corrections.py` is a record, not to
   be re-run). 84 passages corrected against the scans, summarised in both
-  languages, holding page, two timeline entries; status `transcribed`. Read
-  `units/app539680801/notes.md` first. **Next: its translation** (in
-  session, as above) and the claim check of the three summaries. Heinrichs,
+  languages, holding page, two timeline entries; translated and its
+  summaries claim-checked in session the same day (`intake/translation/`,
+  `intake/claim_check.yml`); status `translated`, untagged. Read
+  `units/app539680801/notes.md` first. Heinrichs,
   who attests the lease, has his own person entry and is not Honrichs.
 - **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, scaffolded
   2026-10-05), "Capital on the Zagorow estates": the cover and eleven pages

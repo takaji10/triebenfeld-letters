@@ -1614,6 +1614,17 @@ lose his estates. The era page writes Konotop, not Kontop.
   Nr. 3705 and Oe 1 Bü 9454 name the new holding among their related holdings, in both
   languages. APP 53/71/0/-/57 is no longer described as the only holding from Poznań.
 
+- **APP 53/968/0/-/801 translated and its summaries claim-checked** (2026-10-05, in session at
+  the editor's word). The three documents were translated beside the published English of the
+  other copies of the same texts, so the same formula has the same English; where this copy
+  differs from them in a word it is followed and the difference flagged. check_translations.py
+  raised two rows, neither a fault; uncanonical_names.py nothing in this holding. Seven of the
+  copyist's spellings became variants in `reference/places.yml` (Trompczyn, Marianten,
+  Mariantow, Szedlewek, Święcia, Święca, Świątnik). The claim check held 35 statements of the
+  three summaries to the documents and weakened two. The English summaries, the holding page
+  and a timeline entry now use the termbase's words (demesne farm, Government, Midsummer).
+  Status `translated`; every document with text now has an English translation, 462 of 467.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

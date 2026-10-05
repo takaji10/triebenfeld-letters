@@ -98,8 +98,8 @@ read, translate and summarise.
   consent of 28 January 1806 to the parcelling of Zagórów and Trąbczyn, and
   the hereditary lease of 100 Hufen of the Drzewce forest to eighteen
   settlers, engrossed on 21 March 1806. Corrected and summarised in both
-  languages; divided into three documents at the editor's word. Still open:
-  - **translation**, and the **claim check** of its summaries (neither done);
+  languages; divided into three documents at the editor's word; translated
+  and its summaries claim-checked in session the same day. Still open:
   - **when the contract was made**: its free years run from "Christmas of
     this year" to Christmas 1808, four years, which points to 1804, though it
     cites the power of attorney of February 1805. It is dated by its

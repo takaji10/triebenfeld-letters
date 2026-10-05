@@ -16,8 +16,12 @@ Ein KI-Modell (Claude) hat die ganze Transkription mit den Scans verglichen und 
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments an den Scans geschrieben und ins Englische übersetzt. Sie haben nicht die gesonderte Prüfung erhalten, bei der jede Aussage an ihrem Dokument gemessen wird und die die Zusammenfassungen anderer Bestände erhalten haben.
+Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments an den Scans geschrieben und ins Englische übersetzt. Danach wurde jede ihrer Aussagen am Dokument geprüft, nach denselben Regeln wie die gesonderte Prüfung, die die Zusammenfassungen anderer Bestände erhalten haben: Eine Zusammenfassung darf nur sagen, was das Dokument sagt. Von 35 Aussagen sagten zwei mehr als der Text und wurden abgeschwächt: eine über die Holzungsrechte im Konsens, eine über den Zweck der Freijahre im Vertrag.
+
+### Übersetzung
+
+Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Das veröffentlichte Englisch der anderen Abschriften der Vollmacht und des Konsenses sowie einer Erbpacht desselben Gerichts wurde daneben gelesen, damit dieselbe deutsche Formel dasselbe Englisch erhält. Wo diese Abschrift in einem Wort von den anderen abweicht, folgt das Englische dieser Abschrift, und eine Anmerkung hält den Unterschied fest. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl im Englischen erhalten ist.
 
 ### Noch zu tun
 
-Die drei Dokumente sind noch nicht ins Englische übersetzt. Der Vermerk über die Gerichtsgebühren auf der letzten Seite ist nicht transkribiert.
+Das Englische ist noch nicht mit den Scans verglichen. Der Vermerk über die Gerichtsgebühren auf der letzten Seite ist nicht transkribiert.

@@ -1,0 +1,53 @@
+# The claim check of the three German summaries of APP 53/968/0/-/801, made in
+# session on 2026-10-05 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# documents were read in the corpus text and in the session's English.
+#
+# Result: 35 statements, 33 supported, two overstated and weakened (document
+# 2, the wood rights; document 3, the free years). Names in the edition's forms
+# (Zagórów for Zagurowo, Trąbczyn for Trompczyn, Szetlewek for Szedlewek, Ląd
+# for Lond, Drzewce for Drzewiec) count as supported. That each piece is a
+# copy rests on the holding and its first heading ("Copia"), not on a word in
+# documents 2 and 3.
+
+app539680801-001:
+- {claim: "Abschrift der Generalvollmacht des Fürsten zu Hohenlohe-Ingelfingen für den Kriegs- und Forstrat von Triebenfeld", verdict: supported, where: "p. 1: Copia. General-Vollmacht ... den Königlichen Kriegs und Forst-Rath Herrn Peter Friedrich August v. Triebenfeld"}
+- {claim: "ausgestellt im Guhrwitzer Justizamt bei Breslau am 19. Februar 1805", verdict: supported, where: "p. 2: So geschehen im Guhrwitz'schen Justiz Amte bei Breslau den 19ten Februar 1805"}
+- {claim: "für alle Angelegenheiten seiner Güter Zagórów, Witów und Trąbczyn im Kalischer Departement, sie mögen Parzellierung, Verkauf, Verpachtung oder Verpfändung betreffen", verdict: supported, where: "p. 1: Dismembration Haupt- und Verkauf Verpachtung oder Verpfändung"}
+- {claim: "bei der Kammer und der Regierung in Kalisch Anträge stellen", verdict: supported, where: "p. 1: Approbationen und Verhaltungsbefehle ... zu bitten"}
+- {claim: "sich mit den Pächtern auseinandersetzen", verdict: supported, where: "p. 1"}
+- {claim: "Gelder zahlen und empfangen", verdict: supported, where: "p. 1: Gelder zu bezahlen, dergleichen in Empfang zu nehmen und darüber zu quittiren"}
+- {claim: "den Beamten der Güter Befehle erteilen und sie suspendieren", verdict: supported, where: "pp. 1-2: Oficianten und Dienerschaft ... nöthigen falls zu Suspendiren"}
+- {claim: "der Fürst verspricht, alles zu genehmigen und ihm die Kosten zu erstatten", verdict: supported, where: "p. 2"}
+- {claim: "das Justizamt bezeugt am selben Tag seine Unterschrift", verdict: supported, where: "p. 3: in unserer Gegenwart eigen händig unterschrieben, und besiegelt ... den 19ten Februar 1805"}
+- {claim: "das Patrimonialgericht auf Trąbczyn beglaubigt die Abschrift am 21. März 1806", verdict: supported, where: "p. 3: Marianten den 21. Maerz 1806. Fürstlich Hohenlohesches Patrimonial Gericht auf Trąbczyn"}
+
+app539680801-002:
+- {claim: "Abschrift des Konsenses, den die Südpreußische Kriegs- und Domänenkammer in Kalisch am 28. Januar 1806 im Namen des Königs erteilt", verdict: supported, where: "p. 1: Wir Friedrich Wilhelm ...; p. 3: gegeben zu Kalisch den 28. Januar 1806. Königliche Südpreussische Kriegs- und Domainen Kammer"}
+- {claim: "auf Kabinettsordres vom 22. Oktober und 7. Dezember des Vorjahres", verdict: supported, where: "p. 2: mittelst Cabinets Ordres vom 22. October und 7. Dezember vorigen Jahres"}
+- {claim: "der Fürst darf die Vorwerke Drzewce, Kopojno, Świątniki, Święcia und Broniki der Herrschaft Zagórów sowie Nowa Wieś, Przybysław, Stara Huta und einen Teil von Trąbczyn parzellieren", verdict: supported, where: "p. 1, A."}
+- {claim: "Oleśnica und Szetlewek vererbpachten", verdict: supported, where: "p. 1, B.: das Vorwerk und Dorf, both times"}
+- {claim: "die Dienste aller Untertanen in einen festen Geldzins verwandeln", verdict: supported, where: "p. 1, C.: die Dienste und Prästationen sämtlicher Untertanen"}
+- {claim: "einen Teil von Trąbczyn, die Grundstücke in Mariantów und einen Teil des Forstes behält er zurück", verdict: supported, where: "p. 1: mit Vorbehalt eines Theils des Vorwerks Trąbczyn nebst den herrschaftlichen Grundstücken zu Mariantow ... Morgen Forst"}
+- {claim: "vier Bedingungen", verdict: supported, where: "pp. 2-3: 1. to 4."}
+- {claim: "die Entschädigung der Untertanen für ihre Hütungs- und Holzungsrechte ist festzusetzen", verdict: supported, where: "p. 2, 1."}
+- {claim: "keine Bauernstelle darf eingehen", verdict: supported, where: "p. 2, 2."}
+- {claim: "die staatlichen Abgaben bleiben und werden im Hypothekenbuch gesichert", verdict: supported, where: "pp. 2-3, 3."}
+- {claim: "die Holzungsrechte des Klosters Ląd und des Domänenamts Ratyń werden gewahrt", verdict: overstated, where: "p. 3, 4.: the rights of the monastery and provostry are entered in the mortgage book; for the domain office the consent provides only a yearly compensation if the reserved forests prove insufficient", now: "die Holzungsrechte des Klosters und der Propstei Ląd werden im Hypothekenbuch gesichert; reichen die vorbehaltenen Forsten für die Holzungsrechte des Domänenamts Ratyń nicht aus, ist eine jährliche Entschädigung festzusetzen"}
+
+app539680801-003:
+- {claim: "Abschrift eines Erbpachtvertrags, dessen Anfang fehlt", verdict: supported, where: "p. 1 opens with the end of the list of the parties: Gute Olesnica. 17. Johann Luckow ..."}
+- {claim: "der Fürst überlässt durch seinen Generalbevollmächtigten von Triebenfeld achtzehn namentlich genannten Einsassen 100 Magdeburger Hufen Wald seines Gutes Drzewce auf ewige Zeiten", verdict: supported, where: "pp. 1-2: § I and the list, 1. to 18.; auf immerwärende und ewige Zeiten in Erbpacht"}
+- {claim: "sechzehn nehmen je 5 Hufen, zwei je 10", verdict: supported, where: "pp. 1-2: Haberland and Michael Dikhoff 10, the other sixteen 5"}
+- {claim: "Einkaufsgeld wird nicht gezahlt, weil das Land erst zu roden ist", verdict: supported, where: "p. 2, § II"}
+- {claim: "dafür gelten vier Freijahre bis Weihnachten 1808", verdict: overstated, where: "p. 3, § VI: the free years are granted for the clearing, not in place of the entry money", now: "zum Roden gelten vier Freijahre bis Weihnachten 1808"}
+- {claim: "danach beträgt der Erbzins 30 Reichstaler je Hufe, zusammen 3000 Reichstaler jährlich, zahlbar zu Johanni und zu Weihnachten", verdict: supported, where: "p. 2, § II; p. 4: first paid at Johanni 1809"}
+- {claim: "die Hälfte ist ablösbar", verdict: supported, where: "p. 6, § XII"}
+- {claim: "bei jedem Verkauf fällt der zehnte Groschen an die Herrschaft", verdict: supported, where: "p. 5, § XI: durch Verkauf oder Vertausch"}
+- {claim: "die Erbpächter sind frei von Erbuntertänigkeit und Hofdiensten, unterstehen aber der Gerichtsbarkeit der Herrschaft", verdict: supported, where: "p. 6, § XIII"}
+- {claim: "müssen Bier und Branntwein von ihr nehmen", verdict: supported, where: "p. 7, § XV"}
+- {claim: "haften solidarisch", verdict: supported, where: "p. 8, § XIX"}
+- {claim: "die Gemeinde erhält 21 Morgen zinsfrei für Schullehrer, Schulzen und Kirchhof", verdict: supported, where: "pp. 6-7, § XIV"}
+- {claim: "elf der achtzehn unterzeichnen mit drei Kreuzen", verdict: supported, where: "pp. 9-10: the eleven lines beginning xxx, read on the scans"}
+- {claim: "das Patrimonialgericht fertigt den Vertrag in Mariantów am 21. März 1806 aus", verdict: supported, where: "p. 10: Mariantów d. 21 Mäerz 1806. Fürstlich Hohenlohesches Patrimonial Gericht auf Trąbczyn"}
