@@ -1,0 +1,2 @@
+# The hook scripts are run by sh and Python on Windows and Linux alike.
+.claude/hooks/* text eol=lf

@@ -9,12 +9,17 @@ the editor's machine. A cloud session cannot see it. The editor moves between
 the two, so anything worth remembering has to be in the repository. This file
 is that copy.
 
-**The rule that keeps it true.** When a session learns something that will
-matter again (a correction from the editor, a trap, a method that worked), it
-writes it here, or into the document it belongs to, in the same sitting, and
-commits it. A desktop session may also save it to memory; memory is never the
-only place. Where a rule already lives in another document, this file points
-to it and does not repeat it.
+**The rule that keeps it true** (the editor's, 2026-10-05; in full in
+`CLAUDE.md`, "Lessons go into the repository"). When a session learns
+something that will matter again (a correction from the editor, a trap, a
+method that worked), it writes it here, or into the document it belongs to,
+in the same sitting, and commits it. A desktop session may also save it to
+memory; memory is never the only place. Every report on committed work ends
+with a line beginning "Lessons:". Claude Code runs
+`.claude/hooks/lessons_check.py` whenever Claude is about to stop, and it
+holds the session to this: see that file's first lines for what it checks
+and what it cannot. Where a rule already lives in another document, this
+file points to it and does not repeat it.
 
 Where the rest is:
 
@@ -234,6 +239,12 @@ Where the rest is:
   `pipeline/build/relabel_scans.py --unit <slug> --apply` while it reports
   labels to update, rebuild twice, and check `git status` shows no scan
   changes.
+- **Deleting files from a script:** the desktop's safety check refuses `rm`
+  on a path held in a shell variable. Work in the session's scratch folder
+  and leave test files there.
+- **`python3` and `python` both run on the desktop; the cloud has
+  `python3`.** A script meant for both is started through a small `sh`
+  wrapper that tries each (`.claude/hooks/lessons_check.sh`).
 - **Dates and coordinates:** Wikidata's search rate-limits hard; one SPARQL
   request with a list of labels works. szukajwarchiwach.gov.pl blocks
   automated access.

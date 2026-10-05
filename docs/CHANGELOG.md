@@ -1706,6 +1706,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   of the same day were added to `docs/EDITORIAL_RULES.md`: an unread word is not completed
   with a guess, and an initial with a supplied name is written `A[lvensleben]`.
 
+- **Lessons go into the repository: made a rule, with a check** (2026-10-05, at the editor's
+  word). `CLAUDE.md` now states it as a standing rule: what a session learns is written into
+  `docs/WORKING_NOTES.md` or the document it belongs to and committed in the same sitting,
+  and every report on committed work ends with a line beginning "Lessons:". A check enforces
+  it in desktop and cloud sessions: `.claude/settings.json` has Claude Code run
+  `.claude/hooks/lessons_check.py` whenever Claude is about to stop; if work was committed
+  without the notes changing and without that line, Claude is stopped from finishing once and
+  told to answer. Tested on nine cases in a throwaway repository.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

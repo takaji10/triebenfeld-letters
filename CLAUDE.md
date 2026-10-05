@@ -17,13 +17,35 @@ files it points to.
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
 - `docs/WORKING_NOTES.md`: how the editor works, the mistakes already made
-  once, and the traps in the tools. **Read it.** The editor switches between
-  desktop and cloud sessions, and a desktop session's memory folder is not
-  in the repository. So whatever a session learns that will matter again
-  is written into that file (or the document it belongs to) and committed
-  in the same sitting; memory alone is not enough.
+  once, and the traps in the tools. **Read it.**
 - No paid model run without the editor's agreement to that run; free checks
   need none (WORKING_NOTES, "Working with the editor").
+
+## Lessons go into the repository (the editor's rule, 2026-10-05)
+
+The editor switches between desktop and cloud sessions. A desktop session's
+memory folder is on their machine and no cloud session can read it. So:
+
+1. **Whatever a session learns that a later session will need is written
+   into the repository in the same sitting**: a correction or ruling from
+   the editor, a mistake made, a trap in a tool, a method that worked. It
+   goes into `docs/WORKING_NOTES.md`, or the document it belongs to
+   (`docs/EDITORIAL_RULES.md` for the text, `docs/HOUSE_STYLE.md` for prose,
+   `docs/NEW_UNIT.md` for the procedure, the holding's `notes.md` for one
+   holding), and is committed with the work. A desktop session may save it
+   to memory too; memory is never the only place.
+2. **Every report to the editor on work that was committed ends with one
+   line beginning "Lessons:"**, saying what was written down, or "Lessons:
+   none." The editor sees that the question was asked.
+3. **A check holds the session to this.** `.claude/settings.json` has Claude
+   Code run `.claude/hooks/lessons_check.py` each time Claude is about to
+   stop, on the desktop and in the cloud. If the session has committed work
+   that did not change `docs/WORKING_NOTES.md`, and the reply has no
+   "Lessons:" line, it stops Claude from finishing once and says so. Do not
+   remove or weaken the check without the editor's word.
+4. A lesson that is only committed is not yet in the other kind of session:
+   it travels when the work is pushed. Say so if a session ends with
+   unpushed lessons.
 
 ## "Access the dictionary hosts"
 
