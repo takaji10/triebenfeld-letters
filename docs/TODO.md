@@ -138,11 +138,10 @@ summarised, translated and its summaries checked in session. Details are in
       "Trąbczyn": confirmed by you on 2026-10-05 ("that's what the document
       stated"). Trąbczyn was not among the estates this loan was secured on.
 - [x] Three documents (you, 2026-10-05).
-- [ ] **You: five small readings on a spot sheet**
-      (`python pipeline/review/queries.py --unit iharep162nr295`, port 4101):
-      "nachstehende" or "vorstehende" on page 4, the figure in the fee note
-      on page 7, and three single letters. Your answers are applied when you
-      have given them.
+- [x] Five small readings on a spot sheet, answered by you on 2026-10-05:
+      four stand as you transcribed them ("nachstehende" among them), and
+      the fee note on page 7 reads "2 gg." Applied to the text and the
+      English.
 
 ## 5. Carried over
 

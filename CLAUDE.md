@@ -163,9 +163,8 @@ so check them.
   `translated`, untagged. Read `units/iharep162nr295/notes.md` first. Built
   and verified locally, **committed but not pushed: publish when the editor
   says**. The editor confirmed "Grądzyn" in the bond's list of estates and
-  the three documents (2026-10-05). Open: their answers to the spot sheet
-  `review/iharep162nr295/open_queries.csv` (queries.py --read), to be
-  applied to the corpus and the English.
+  the three documents, and answered a spot sheet of five readings, which
+  is applied (2026-10-05). Nothing is open but publishing.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

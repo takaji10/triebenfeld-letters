@@ -12,7 +12,7 @@ Jedes der drei Instrumente ist ein Dokument: die Schuldverschreibung mit ihrer A
 
 ### Korrekturen
 
-Ein KI-Modell (Claude) hat die ganze Transkription mit den Seitenbildern verglichen und dort berichtigt, wo das Bild eindeutig ist. 34 Stellen wurden geändert, jede mit ihrer Begründung verzeichnet. Die meisten betreffen das Zeichen für den Reichstaler, Trennzeichen am Zeilenende und einzelne Buchstaben. Vier ändern den Sinn. In der Liste der verpfändeten Güter in der Schuldverschreibung war der letzte Name als Trąbczyn gelesen; auf der Seite steht Grądzyn, wie dieselbe Liste im Hypothekenschein bestätigt, und Trąbczyn gehörte nicht zu den Gütern, auf die diese Obligation eingetragen war. „Verhandlungs-Obligationen“ ist „Seehandlungs-Obligationen“, Obligationen der preußischen Staatsbank. „Kommer Kreise“ ist „Koniner Kreise“. „Ernst“ ist „Frist“, die Kündigungsfrist. In der letzten Zeile wurden „und deren“ und der daneben stehende Stempelvermerk nach dem Bild ergänzt. Ortsnamen stehen so, wie der Herausgeber sie in ihrer üblichen Form schrieb, auch wo der Schreiber sie anders schreibt.
+Ein KI-Modell (Claude) hat die ganze Transkription mit den Seitenbildern verglichen und dort berichtigt, wo das Bild eindeutig ist. 34 Stellen wurden geändert, jede mit ihrer Begründung verzeichnet. Die meisten betreffen das Zeichen für den Reichstaler, Trennzeichen am Zeilenende und einzelne Buchstaben. Vier ändern den Sinn. In der Liste der verpfändeten Güter in der Schuldverschreibung war der letzte Name als Trąbczyn gelesen; auf der Seite steht Grądzyn, wie dieselbe Liste im Hypothekenschein bestätigt, und Trąbczyn gehörte nicht zu den Gütern, auf die diese Obligation eingetragen war. „Verhandlungs-Obligationen“ ist „Seehandlungs-Obligationen“, Obligationen der preußischen Staatsbank. „Kommer Kreise“ ist „Koniner Kreise“. „Ernst“ ist „Frist“, die Kündigungsfrist. In der letzten Zeile wurden „und deren“ und der daneben stehende Stempelvermerk nach dem Bild ergänzt. Ortsnamen stehen so, wie der Herausgeber sie in ihrer üblichen Form schrieb, auch wo der Schreiber sie anders schreibt. Fünf zweifelhafte Lesungen wurden danach dem Herausgeber an den Seitenbildern vorgelegt: Vier bleiben wie transkribiert, und eine Zahl in einem Gebührenvermerk wurde geändert.
 
 ### Zusammenfassungen
 
@@ -24,4 +24,4 @@ Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit den Seitenbildern verglichen. Ein Wort der Schuldverschreibung könnte anders lauten als transkribiert („nachstehende“, wo der Sinn „vorstehende“ erwartet), und eine Zahl in einem Gebührenvermerk ist unsicher. Ein Stempelvermerk am Rand der fünften Seite ist nicht transkribiert.
+Das Englische ist noch nicht mit den Seitenbildern verglichen. Ein Stempelvermerk am Rand der fünften Seite ist nicht transkribiert.

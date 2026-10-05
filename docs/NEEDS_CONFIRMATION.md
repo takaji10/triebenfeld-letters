@@ -122,11 +122,11 @@ read, translate and summarise.
   certificate for Zagórów. Page images made from the editor's paired
   photographs; the editor's transcription corrected, summarised, translated
   and its summaries claim-checked in session. Still open:
-  - five small readings, put to the editor on a spot sheet on 2026-10-05
-    (`review/iharep162nr295/open_queries.csv`); the rest are in
+  - nothing but the abbreviations and margin notes in
     `units/iharep162nr295/intake/unresolved.md`.
   Settled by the editor on 2026-10-05: the list of estates in the bond ends
-  "Grądzyn", not "Trąbczyn"; three documents.
+  "Grądzyn", not "Trąbczyn"; three documents; five readings on a spot sheet
+  (four stand, one fee figure changed).
 
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6** are in (2026-10-04): six documents
   of July 1807, the petitions of Michalina Dąbska and the Governing

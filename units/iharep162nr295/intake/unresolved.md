@@ -4,18 +4,21 @@ Left as transcribed, 2026-10-05. Page ids are the page images.
 
 ## Words and figures
 
-- **0004, line 1: "nachstehende Obligation".** The bond stands above this
-  clause, so the sense wants "vorstehende"; the first letters are not plain
-  enough on the image to change it. The English has "following" and flags it.
-- **0007, the fee note: "T. u. S. 2 rt. 3 gg."** The second figure looks like
-  the first, a 2. Figures are not changed without proof; left.
-- **0006, line 2: "Commissarien".** The ending may be "-o" (one commissary,
-  Stosch, signs "qua Comissar"); a second man, v. Zelislawski, also signs.
-- **0009, line 2: "Kalischscher".** The ending may be "-en".
 - **0001, the cover: "Kapital Schuld der 50,000. rtl."** "der" may be "von";
-  "gehörige" may be "gehörigen".
-- **0003, line 23: "das ihm an dieser Cession zustehende".** The fund is
-  feminine ("ihr") in the lines above; the page has what the editor read.
+  "gehörige" may be "gehörigen". Not put to the editor: the cover is not part
+  of a document.
+
+## Settled by the editor on the spot sheet (2026-10-05)
+
+Five readings were shown against the page images (`open_queries.csv`):
+
+- **0004, line 1: "nachstehende Obligation"** stands, though the bond is
+  above the clause.
+- **0007, the fee note:** "T. u. S. 2 rt. 2 gg.", not "3 gg." Changed
+  (`spot_answers.py`).
+- **0006: "Commissarien"** stands.
+- **0009: "Kalischscher"** stands.
+- **0003: "das ihm an dieser Cession zustehende"** stands.
 
 ## Names left in the editor's usual form
 

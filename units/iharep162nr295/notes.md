@@ -159,9 +159,9 @@ related holdings.
 ## Still to do
 
 - The English has not been read against the page images.
-- Five readings are on a spot sheet for the editor (2026-10-05:
-  `review/iharep162nr295/open_queries.csv`, copied to
-  `intake/open_queries.csv`; answers with `queries.py --unit iharep162nr295
-  --read`). Apply them to corpus.txt, the page file and the English.
+- (Done 2026-10-05: five readings went to the editor on a spot sheet,
+  `intake/open_queries.csv`. Four stand; the fee note on 0007 reads "2 gg.",
+  applied by `intake/spot_answers.py` to the corpus, the page file and the
+  English.)
 - Settled by the editor on 2026-10-05: "Grądzyn" at the end of the bond's
   list of estates ("that's what the document stated"); three documents.

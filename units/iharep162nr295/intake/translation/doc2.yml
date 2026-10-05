@@ -54,7 +54,7 @@ pages:
 
     signed Schiller
 
-    T. u. S. 2 Rthl. 3 Groschen.
+    T. u. S. 2 Rthl. 2 Groschen.
 
     Stamps 6 Groschen.
 
@@ -80,12 +80,12 @@ pages:
   - {de: Zagorowo, en: Zagórów, kind: place}
   - {de: Drzewce, en: Drzewce, kind: place}
   - {de: Kopojno, en: Kopojno, kind: place}
-  numbers: ['5', '1805', '2', '3', '6', '4', '27', '1805', '4996', '5', '4', '145', '2', '1', '145', '4', '1', '295', '2']
+  numbers: ['5', '1805', '2', '2', '6', '4', '27', '1805', '4996', '5', '4', '145', '2', '1', '145', '4', '1', '295', '2']
   flagged:
-  - de: "T. u. S. 2 rt. 3 gg."
-    rendered_as: "T. u. S. 2 Rthl. 3 Groschen."
+  - de: "T. u. S. 2 rt. 2 gg."
+    rendered_as: "T. u. S. 2 Rthl. 2 Groschen."
     alt: "Fee and seal 2 Rthl. 2 Groschen"
-    why: "The first line of the court's note of its fees; the abbreviation is not expanded on the page and is left. The second figure may be a 2 on the page."
+    why: "The first line of the court's note of its fees; the abbreviation is not expanded on the page and is left."
   - de: "Expeditio"
     rendered_as: "Expeditio"
     alt: "Official copy"

@@ -76,7 +76,7 @@ pages:
   - de: "habe ich nachstehende Obligation eigenhändig und gerichtlich unterschrieben"
     rendered_as: "I have subscribed the following bond"
     alt: "I have subscribed the foregoing bond"
-    why: "The transcription has \"nachstehende\" (following), though the bond stands above the clause; the word on the page may be \"vorstehende\". Rendered as transcribed."
+    why: "The transcription has \"nachstehende\" (following), though the bond stands above the clause. The editor read the word on the page again on 2026-10-05 and it stands."
 - page: 4
   confidence: high
   marker_count: 0

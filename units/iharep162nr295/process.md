@@ -12,7 +12,7 @@ Each of the three instruments is one document: the bond with its acknowledgement
 
 ### Corrections
 
-An AI model (Claude) compared the whole transcription with the page images and corrected it where the image is plain. 34 passages were changed, each logged with its reason. Most are the sign for the Reichsthaler, marks for words broken at a line end, and single letters. Four change the sense. In the list of the mortgaged estates in the bond the last name was read as Trąbczyn; the page has Grądzyn, as the same list in the mortgage certificate confirms, and Trąbczyn was not among the estates this bond was registered on. "Verhandlungs-Obligationen" is "Seehandlungs-Obligationen", bonds of the Prussian state bank. "Kommer Kreise" is "Koniner Kreise", the Konin district. "Ernst" is "Frist", the term of notice. In the last line "und deren" and the stamp note beside it were added from the image. Place names stand as the editor wrote them, in their usual form, where the clerk spells them otherwise.
+An AI model (Claude) compared the whole transcription with the page images and corrected it where the image is plain. 34 passages were changed, each logged with its reason. Most are the sign for the Reichsthaler, marks for words broken at a line end, and single letters. Four change the sense. In the list of the mortgaged estates in the bond the last name was read as Trąbczyn; the page has Grądzyn, as the same list in the mortgage certificate confirms, and Trąbczyn was not among the estates this bond was registered on. "Verhandlungs-Obligationen" is "Seehandlungs-Obligationen", bonds of the Prussian state bank. "Kommer Kreise" is "Koniner Kreise", the Konin district. "Ernst" is "Frist", the term of notice. In the last line "und deren" and the stamp note beside it were added from the image. Place names stand as the editor wrote them, in their usual form, where the clerk spells them otherwise. Five doubtful readings were then put to the editor against the page images: four stand as transcribed, and one figure in a fee note was changed.
 
 ### Summaries
 
@@ -24,4 +24,4 @@ The documents were translated into English in a working session under the same r
 
 ### Still to do
 
-The English has not yet been read against the page images. One word of the bond may read otherwise than transcribed ("nachstehende", where the sense expects "vorstehende"), and one figure in a fee note is uncertain. A stamp note in the margin of the fifth page is not transcribed.
+The English has not yet been read against the page images. A stamp note in the margin of the fifth page is not transcribed.
