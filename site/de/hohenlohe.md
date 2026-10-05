@@ -59,8 +59,12 @@ preußischen Behörden nannten Antoni Prusimski einen der Hauptinsurgenten; er f
 Güter wurden durch ein in Toruń (Thorn) gefälltes Urteil dem Fiskus zugesprochen. Im
 Dezember 1796 war er in Venedig: Der preußische Resident dort berichtete, er sei krank und
 durch den Tod seiner Frau gebrochen zu ihm gekommen und habe um ein Attest gebeten, dass er
-nicht reisen könne ([Auszug]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). Das
-Departement der auswärtigen Angelegenheiten gab den Bericht im Januar 1797 an die Minister
+nicht reisen könne ([Auszug]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). Die
+Forderung seiner Tochter von 1818 sagt, wozu es diente: Die preußischen Behörden hatten ihn
+aufgefordert, seine Ausreise zu rechtfertigen, die Aufforderungen erreichten ihn spät, und er
+übersandte das Attest, um eine längere Frist zu erbitten; er starb, bevor er Antwort erhielt
+([Darstellung der Forderung]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Das
+Departement der auswärtigen Angelegenheiten gab den Bericht des Residenten im Januar 1797 an die Minister
 für die neuen Provinzen weiter
 ([Konzept]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
 

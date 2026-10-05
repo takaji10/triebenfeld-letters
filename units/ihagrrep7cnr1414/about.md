@@ -12,7 +12,7 @@ Antoni Prusimski, Starost of Niszczewice, owned the Trąbczyn and Kamionna estat
 
 **Schrötter's reply, 29 January 1797.** Schrötter thanks the department and reports that he has passed the news on to Hoym, since it is not established whether Prusimski is settled in New East Prussia or in South Prussia. The department received the letter on 8 February 1797 and put it with the files in March [[3]].
 
-The papers do not say what Prusimski wanted the certificate for, or what was done with the news. <!-- context -->
+The papers do not say what Prusimski wanted the certificate for, or what was done with the news. A later document does. The statement of his daughter's claim that the Russian envoy handed to the Prussian government in 1818 says that the Prussian authorities had summoned Prusimski in October 1795 and February 1796 to justify his leaving the country, that the summonses reached him at Venice only months later, and that he sent a certificate, legalised by the Prussian legation councillor at Venice, Count "Cathane", and asked for more time to answer; he died before he obtained it ([[unit:iiihamdaiiinr12366]], document 2). That statement calls it a certificate of his wife's illness and death; the resident's dispatch speaks of Prusimski's own condition. <!-- context -->
 
 ### Form and language
 
@@ -20,4 +20,4 @@ The first page is the department's own draft, with its registry marks and two mi
 
 ### Related holdings
 
-The grant of Prusimski's estates to Hohenlohe-Ingelfingen in 1796: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. The suit of his daughter Michalina for her mother's estates, 1800 to 1802, from the same record group: [[unit:ihagrrep7cnr3709]]. The return of the confiscated estates to her in 1807: [[unit:agad11740273]] and [[unit:agad1174016]]. <!-- context -->
+The grant of Prusimski's estates to Hohenlohe-Ingelfingen in 1796: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. The suit of his daughter Michalina for her mother's estates, 1800 to 1802, from the same record group: [[unit:ihagrrep7cnr3709]]. Her claim of 1818, which tells what the certificate from Venice was for: [[unit:iiihamdaiiinr12366]]. The return of the confiscated estates to her in 1807: [[unit:agad11740273]] and [[unit:agad1174016]]. <!-- context -->

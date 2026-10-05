@@ -108,11 +108,28 @@ this holding's document 1 in his `only_in` list. Matched without change:
 Hoym, Prusimski. New place: Venice (`venedig`, matching Venedig and Venise).
 Alvensleben is not indexed: the reading is doubtful.
 
+## What the certificate was for
+
+These papers do not say. III. HA MdA, III. Nr. 12366, document 2 (the
+statement of Miączyńska's claim, 1818) does: Prussia summoned Prusimski in
+October 1795 and February 1796 to justify his leaving the country and
+confiscated his estates on 24 March 1796 without hearing him; the summonses
+reached him at Venice months later; he sent "un certificat de la maladie et
+de la mort de sa femme, légalisé par le Comte Cathane, Conseiller de
+légation Prussienne près la république de Venise" and asked for the term to
+be extended, and died before it was. "Cathane" is Cattaneo: the people
+entry now matches that form in Nr. 12366 (matched, not made a variant, so
+the published English there keeps the page's spelling). Found on
+2026-10-05, when the new place entry for Venice changed that document's
+page. The two accounts differ on what was certified: the dispatch says
+Prusimski's own state and that he could not travel, the claim his wife's
+illness and death.
+
 ## The site (2026-10-05)
 
 `about.md` and `process.md` in both languages; a timeline entry for 14
 December 1796; two sentences in section I of the era essay, in both
-languages; the holding pages of Nr. 3570 and Nr. 3709 name this holding.
+languages; the holding pages of Nr. 3570, Nr. 3709 and Nr. 12366 name this holding.
 The era is `hohenlohe` (section I of the essay). `docs/HOHENLOHE_ERA_PLAN.md`
 had left open whether it belongs to the boundary era instead; it does not:
 the papers are of 1796 and 1797 and concern Prusimski after the

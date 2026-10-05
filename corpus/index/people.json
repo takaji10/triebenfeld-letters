@@ -62295,6 +62295,54 @@
   ]
  },
  {
+  "entity": "cattaneo",
+  "display": "Count Cattaneo",
+  "count": 4,
+  "documents": [
+   "ihagrrep7cnr1414-1",
+   "ihagrrep7cnr1414-2",
+   "iiihamdaiiinr12366-2"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr1414-2",
+    "surface": "Cattaneo",
+    "page": 2,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0004_a2-L2_02.jpg",
+    "line": 35,
+    "doc_line": 7
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Cattaneo",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 13,
+    "doc_line": 11
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Cathane",
+    "page": 3,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Cathane",
+    "page": 3,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
+    "line": 29,
+    "doc_line": 14
+   }
+  ]
+ },
+ {
   "entity": "reinhardt",
   "display": "Reinhardt",
   "count": 4,
@@ -63443,35 +63491,6 @@
     "scan": "III_HA_MdA_III_Nr_12765_0044_a2-L30_01.jpg",
     "line": 1033,
     "doc_line": 4
-   }
-  ]
- },
- {
-  "entity": "cattaneo",
-  "display": "Count Cattaneo",
-  "count": 2,
-  "documents": [
-   "ihagrrep7cnr1414-1",
-   "ihagrrep7cnr1414-2"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr1414-2",
-    "surface": "Cattaneo",
-    "page": 2,
-    "page_id": "0004_a2",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0004_a2-L2_02.jpg",
-    "line": 35,
-    "doc_line": 7
-   },
-   {
-    "uid": "ihagrrep7cnr1414-1",
-    "surface": "Cattaneo",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
-    "line": 13,
-    "doc_line": 11
    }
   ]
  },

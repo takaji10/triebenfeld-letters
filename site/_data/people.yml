@@ -483,14 +483,14 @@
   name: "Count Cattaneo"
   heading: "Count Cattaneo"
   heading_de: "Count Cattaneo"
-  count: 2
-  docs: 2
-  life: "documented 1796-1797"
-  life_de: "belegt 1796-1797"
+  count: 3
+  docs: 3
+  life: "documented 1796-1818"
+  life_de: "belegt 1796-1818"
   bio: "Count Cattaneo, the Prussian resident (envoy) at Venice. In December 1796 he reported that Antoni Prusimski had come to him ill and grieving and that he had given him a certificate that he could not travel."
   bio_de: "Graf Cattaneo, preußischer Resident (Gesandter) in Venedig. Im Dezember 1796 berichtete er, Antoni Prusimski sei krank und in Trauer zu ihm gekommen, und er habe ihm bescheinigt, dass er nicht reisen könne."
-  span: "1796–1797"
-  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}]
+  span: "1796–1818"
+  letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 1}]
 - slug: "dabrowski"
   name: "Dąbrowski"
   heading: "Dąbrowski"

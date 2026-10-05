@@ -1658,8 +1658,11 @@ lose his estates. The era page writes Konotop, not Kontop.
   languages; a timeline entry (14 December 1796) and two sentences in section I of the era
   essay; Nr. 3570 and Nr. 3709 link to it. New people: Cattaneo, Raumer, Schroetter and
   Haugwitz, who is now also indexed in the letters of Oe 1 Bü 9454 that name him. New place:
-  Venice. The edition has sixteen holdings, 473 documents and 1,562 pages; 468 have an
-  English translation. See `units/ihagrrep7cnr1414/notes.md`.
+  Venice. The statement of Miączyńska's claim of 1818 (III. HA MdA, III. Nr. 12366, document
+  2) tells what the certificate was for and names the resident as "Comte Cathane"; he is now
+  indexed there, and the holding page, the essay and the timeline say so. The edition has
+  sixteen holdings, 473 documents and 1,562 pages; 468 have an English translation. See
+  `units/ihagrrep7cnr1414/notes.md`.
 
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one

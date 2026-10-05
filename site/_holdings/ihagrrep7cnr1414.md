@@ -23,7 +23,7 @@ Antoni Prusimski, Starost of Niszczewice, owned the Trąbczyn and Kamionna estat
 
 **Schrötter's reply, 29 January 1797.** Schrötter thanks the department and reports that he has passed the news on to Hoym, since it is not established whether Prusimski is settled in New East Prussia or in South Prussia. The department received the letter on 8 February 1797 and put it with the files in March <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr1414/3/' | relative_url }}">3</a>]</span>.
 
-The papers do not say what Prusimski wanted the certificate for, or what was done with the news. <!-- context -->
+The papers do not say what Prusimski wanted the certificate for, or what was done with the news. A later document does. The statement of his daughter's claim that the Russian envoy handed to the Prussian government in 1818 says that the Prussian authorities had summoned Prusimski in October 1795 and February 1796 to justify his leaving the country, that the summonses reached him at Venice only months later, and that he sent a certificate, legalised by the Prussian legation councillor at Venice, Count "Cathane", and asked for more time to answer; he died before he obtained it (<a href="{{ '/sources/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>, document 2). That statement calls it a certificate of his wife's illness and death; the resident's dispatch speaks of Prusimski's own condition. <!-- context -->
 
 ### Form and language
 
@@ -31,7 +31,7 @@ The first page is the department's own draft, with its registry marks and two mi
 
 ### Related holdings
 
-The grant of Prusimski's estates to Hohenlohe-Ingelfingen in 1796: <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. The suit of his daughter Michalina for her mother's estates, 1800 to 1802, from the same record group: <a href="{{ '/sources/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. The return of the confiscated estates to her in 1807: <a href="{{ '/sources/agad11740273/' | relative_url }}">1/174/0/2/73</a> and <a href="{{ '/sources/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
+The grant of Prusimski's estates to Hohenlohe-Ingelfingen in 1796: <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. The suit of his daughter Michalina for her mother's estates, 1800 to 1802, from the same record group: <a href="{{ '/sources/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Her claim of 1818, which tells what the certificate from Venice was for: <a href="{{ '/sources/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>. The return of the confiscated estates to her in 1807: <a href="{{ '/sources/agad11740273/' | relative_url }}">1/174/0/2/73</a> and <a href="{{ '/sources/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
 
 <!--prepared-->
 

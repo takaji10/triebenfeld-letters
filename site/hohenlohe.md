@@ -55,8 +55,12 @@ Prusimski was named by the Prussian authorities as one of its leaders, and he fl
 estates were declared forfeit to the Treasury by a judgment given at Toruń. In December
 1796 he was at Venice: the Prussian resident there reported that he had come to him ill and
 broken by the death of his wife, and had asked for a certificate that he could not travel
-([extract]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). The department of foreign
-affairs passed the report to the ministers for the new provinces in January 1797
+([extract]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). His daughter's claim of 1818 says
+what it was for: the Prussian authorities had summoned him to justify his leaving the country,
+the summonses reached him late, and he sent the certificate to ask for more time; he died
+before he had an answer
+([statement of the claim]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). The department of foreign
+affairs passed the resident's report to the ministers for the new provinces in January 1797
 ([draft]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
 
 In the summer of 1796 Count Hoym, the minister responsible for Silesia and South Prussia,

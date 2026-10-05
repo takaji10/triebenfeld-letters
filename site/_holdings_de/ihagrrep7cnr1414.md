@@ -23,7 +23,7 @@ Antoni Prusimski, Starost von Niszczewice, besaß die Güter Trąbczyn und Kamio
 
 **Schrötters Antwort, 29. Januar 1797.** Schrötter dankt dem Departement und meldet, er habe die Nachricht an Hoym weitergegeben, weil nicht feststehe, ob Prusimski in Neuostpreußen oder in Südpreußen ansässig sei. Das Departement erhielt das Schreiben am 8. Februar 1797 und legte es im März zu den Akten <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr1414/3/' | relative_url }}">3</a>]</span>.
 
-Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. <!-- context -->
+Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. Ein späteres Dokument sagt es. Die Darstellung der Forderung seiner Tochter, die der russische Gesandte 1818 der preußischen Regierung übergab, berichtet, die preußischen Behörden hätten Prusimski im Oktober 1795 und im Februar 1796 aufgefordert, seine Ausreise zu rechtfertigen; die Aufforderungen hätten ihn in Venedig erst Monate später erreicht, und er habe ein Attest übersandt, beglaubigt vom preußischen Legationsrat in Venedig, Graf „Cathane“, und um Verlängerung der Frist gebeten; er starb, bevor er sie erhielt (<a href="{{ '/de/quellen/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>, Dokument 2). Jene Darstellung nennt es ein Attest über Krankheit und Tod seiner Frau; die Depesche des Residenten spricht von Prusimskis eigenem Zustand. <!-- context -->
 
 ### Form und Sprache
 
@@ -31,7 +31,7 @@ Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleiverme
 
 ### Verwandte Bestände
 
-Die Verleihung der Güter Prusimskis an Hohenlohe-Ingelfingen 1796: <a href="{{ '/de/quellen/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> und <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Die Klage seiner Tochter Michalina um die Güter ihrer Mutter, 1800 bis 1802, aus demselben Bestand: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Die Rückgabe der konfiszierten Güter an sie 1807: <a href="{{ '/de/quellen/agad11740273/' | relative_url }}">1/174/0/2/73</a> und <a href="{{ '/de/quellen/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
+Die Verleihung der Güter Prusimskis an Hohenlohe-Ingelfingen 1796: <a href="{{ '/de/quellen/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> und <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Die Klage seiner Tochter Michalina um die Güter ihrer Mutter, 1800 bis 1802, aus demselben Bestand: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Ihre Forderung von 1818, die sagt, wozu das Attest aus Venedig diente: <a href="{{ '/de/quellen/iiihamdaiiinr12366/' | relative_url }}">III. HA MdA, III. Nr. 12366</a>. Die Rückgabe der konfiszierten Güter an sie 1807: <a href="{{ '/de/quellen/agad11740273/' | relative_url }}">1/174/0/2/73</a> und <a href="{{ '/de/quellen/agad1174016/' | relative_url }}">1/174/0/1/6</a>. <!-- context -->
 
 <!--prepared-->
 

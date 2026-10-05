@@ -12,7 +12,7 @@ Antoni Prusimski, Starost von Niszczewice, besaß die Güter Trąbczyn und Kamio
 
 **Schrötters Antwort, 29. Januar 1797.** Schrötter dankt dem Departement und meldet, er habe die Nachricht an Hoym weitergegeben, weil nicht feststehe, ob Prusimski in Neuostpreußen oder in Südpreußen ansässig sei. Das Departement erhielt das Schreiben am 8. Februar 1797 und legte es im März zu den Akten [[3]].
 
-Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. <!-- context -->
+Wozu Prusimski das Attest brauchte und was mit der Nachricht geschah, sagen die Schriftstücke nicht. Ein späteres Dokument sagt es. Die Darstellung der Forderung seiner Tochter, die der russische Gesandte 1818 der preußischen Regierung übergab, berichtet, die preußischen Behörden hätten Prusimski im Oktober 1795 und im Februar 1796 aufgefordert, seine Ausreise zu rechtfertigen; die Aufforderungen hätten ihn in Venedig erst Monate später erreicht, und er habe ein Attest übersandt, beglaubigt vom preußischen Legationsrat in Venedig, Graf „Cathane“, und um Verlängerung der Frist gebeten; er starb, bevor er sie erhielt ([[unit:iiihamdaiiinr12366]], Dokument 2). Jene Darstellung nennt es ein Attest über Krankheit und Tod seiner Frau; die Depesche des Residenten spricht von Prusimskis eigenem Zustand. <!-- context -->
 
 ### Form und Sprache
 
@@ -20,4 +20,4 @@ Die erste Seite ist das Konzept des Departements selbst, mit seinen Kanzleiverme
 
 ### Verwandte Bestände
 
-Die Verleihung der Güter Prusimskis an Hohenlohe-Ingelfingen 1796: [[unit:ihagrrep7cnr3570]] und [[unit:oe1bu14525]]. Die Klage seiner Tochter Michalina um die Güter ihrer Mutter, 1800 bis 1802, aus demselben Bestand: [[unit:ihagrrep7cnr3709]]. Die Rückgabe der konfiszierten Güter an sie 1807: [[unit:agad11740273]] und [[unit:agad1174016]]. <!-- context -->
+Die Verleihung der Güter Prusimskis an Hohenlohe-Ingelfingen 1796: [[unit:ihagrrep7cnr3570]] und [[unit:oe1bu14525]]. Die Klage seiner Tochter Michalina um die Güter ihrer Mutter, 1800 bis 1802, aus demselben Bestand: [[unit:ihagrrep7cnr3709]]. Ihre Forderung von 1818, die sagt, wozu das Attest aus Venedig diente: [[unit:iiihamdaiiinr12366]]. Die Rückgabe der konfiszierten Güter an sie 1807: [[unit:agad11740273]] und [[unit:agad1174016]]. <!-- context -->

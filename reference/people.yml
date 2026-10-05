@@ -245,10 +245,13 @@ people:
   cattaneo:
     display: "Count Cattaneo"
     render: "Cattaneo"
-    match: 'Cattaneo'
+    # Cathane is the form of the French statement of 1818 (III. HA MdA, III.
+    # Nr. 12366, document 2). Matched, not made a variant: the English there
+    # keeps the page's spelling.
+    match: 'Cattaneo|Cathane'
     tier: "Text-confirmed"
     variants: []
-    identity: "Count Cattaneo, Prussian resident at Venice ('der Königl. Resident Graf von Cattaneo zu Venedig'), whose dispatch No. 423 of 14 December 1796 reports that he gave Antoni Prusimski a certificate of his ill health (I. HA GR, Rep. 7 C, Nr. 1414). Forename not given. Added 2026-10-05."
+    identity: "Count Cattaneo, Prussian resident at Venice ('der Königl. Resident Graf von Cattaneo zu Venedig'), whose dispatch No. 423 of 14 December 1796 reports that he gave Antoni Prusimski a certificate of his ill health (I. HA GR, Rep. 7 C, Nr. 1414). The statement of Miączyńska's claim of 1818 names him as 'le Comte Cathane, Conseiller de légation Prussienne près la république de Venise', who legalised the certificate Prusimski sent to the Prussian government (III. HA MdA, III. Nr. 12366, document 2). Forename not given. Added 2026-10-05."
   haugwitz:
     display: "Christian von Haugwitz"
     render: "Haugwitz"
