@@ -1,0 +1,68 @@
+{
+  "1": {
+    "basis": "ruling 2026-10-04: signed \"Le B[ar]on d[e] Mohrenheim\" under the letterhead \"Royaume de Pologne. Affaires Étrangères\"; addressed at the foot \"À Mr. Schmidt, Consul Général de Prusse\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Mohrenheim"
+  },
+  "10": {
+    "basis": "ruling 2026-10-04: a copy, \"signé Engel\"; addressed at the foot of the scan \"A Mr. Schmidt, Consul G. de Prusse\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Engel"
+  },
+  "11": {
+    "basis": "ruling 2026-10-04: signed on the scan with the same signature as document 9, \"R. Fuhrmann\" (not transcribed); addressed at the foot \"à Mr. Schmidt Cser. Pé. de légation Csul. Gal. de Sa Majesté le Roi de Prusse\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Fuhrmann"
+  },
+  "2": {
+    "basis": "ruling 2026-10-04: a note signed with the initial M and the flourish of Mohrenheim's full signature (documents 1 and 4); it addresses \"mon cher Schmidt\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Mohrenheim"
+  },
+  "3": {
+    "basis": "ruling 2026-10-04: a note signed \"L. B. d. Mohrenheim\", read on the scan; it opens \"Mon cher Schmidt\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Mohrenheim"
+  },
+  "4": {
+    "basis": "ruling 2026-10-04: signed \"Mohrenheim\", same letterhead and number as document 1; addressed at the foot of the scan to \"Mr. Schmidt, Consul Gal. de Prusse\" (the address is not transcribed)",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Mohrenheim"
+  },
+  "5": {
+    "basis": "ruling 2026-10-04: addressed \"Monsieur le Consul\" and, at the foot of the scan, to \"Mr. Schmidt Consul Gal. de S. M. le Roi de Prusse\". The short signature under a heavy stroke is not read. The writer passes Schmidt's notes on to the \"Prince Ministre des finances\" (Lubecki) and speaks for \"l'administration Polonaise\", so he is not Lubecki; the sender is left open",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": ""
+  },
+  "6": {
+    "basis": "ruling 2026-10-04: a copy, \"sig. X. X. Lubecki\", headed \"Minister Prezydujący w Kom. Rząd. Przychodów i Skarbu\"; it answers the addressee's claim for the mortgage of 30,000 thalers struck off Trąbczyn, which is Weigel's, and document 7 is his reply",
+    "confidence": "high",
+    "recipient": "Weigel",
+    "sender": "Lubecki"
+  },
+  "7": {
+    "basis": "ruling 2026-10-04: headed \"Abschrift meiner Antwort an den Schatzminister des Königreichs Polen, Herrn Fürsten v. Lubecki\", unsigned; the writer's claim of 63,100 thalers and the entry \"pro v. Grottowski modo für mich\" are Weigel's (document 6; III. HA MdA, III. Nr. 12366)",
+    "confidence": "high",
+    "recipient": "Lubecki",
+    "sender": "Weigel"
+  },
+  "8": {
+    "basis": "ruling 2026-10-04: a copy, \"sig. X. X. Lubecki\", same heading as document 6; it answers the addressee's letter of 14 October 1830, document 7",
+    "confidence": "high",
+    "recipient": "Weigel",
+    "sender": "Lubecki"
+  },
+  "9": {
+    "basis": "ruling 2026-10-04: signed on the scan \"R. Fuhrmann\" (the signature is not transcribed); addressed at the foot of the first page \"A Monsieur le Conseiller Privé de Legation Schmidt Consul General de Sa Majesté le Roi de Prusse dans le Royaume de Pologne\". The writer gives orders to the finance commission",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Fuhrmann"
+  }
+}

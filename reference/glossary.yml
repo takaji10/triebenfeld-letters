@@ -1491,9 +1491,13 @@ entries:
   head_de: Regierung
   orig: Regierung
   # not "Unserer Regierung im Eilften Jahre", the King's reign
-  match_de: '\bRegierung\b(?! im \w+ Jahr)'
+  # Not a state's government: 'die preußische Regierung', 'die k. rußische
+  # Regierung', 'the Prussian Government', 'the Government of Poland' in the
+  # ministry files and the papers of 1807 (ruled 2026-10-04). 'Südpreußische
+  # Regierung' is the court and stays.
+  match_de: '(?<! preußische )(?<! preußischen )(?<! polnische )(?<! polnischen )(?<! russische )(?<! russischen )(?<! rußische )(?<! Rußischen )(?<! Russischer )(?<! früheren )\bRegierung\b(?! im \w+ Jahr)(?! des Herzogtums)'
   # not the French General Government, which has its own entry
-  match_en: '(?<!General )\bGovernment\b(?! (?:and Garrison|Audit))'
+  match_en: '(?<!General )(?<!the Prussian )(?<!The Prussian )(?<!Russian )(?<!the Polish )(?<!said )\bGovernment\b(?! (?:and Garrison|Audit|of Poland|of the Duchy))'
   short_en: >-
     Before 1808 a Prussian province's "Government" (Regierung) was its high
     court of law, keeper of the mortgage book; the Chamber did the
@@ -1903,7 +1907,7 @@ entries:
   head_en: Ew., Ewr, Sr., Ihro, Dero
   head_de: Ew., Ewr, Sr., Ihro, Dero
   orig: Ew., Ewr, Sr., Ihro, Dero
-  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bE\.(?= (?:Hoch|Durch|Excell|Maj|Königl|Wohl))|\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
+  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bE\.(?= (?:Hoch|Durch|Excell|Maj|Königl|Wohl))|(?<!\ble )(?<!\bdu )(?<!\bau )\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
   short_en: >-
     The possessives of courtly address, abbreviated. Ew. or Ewr is Euer, "Your"
     (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
@@ -2475,3 +2479,7 @@ excluded:
   # ruled 2026-10-04, from III. HA MdA, III. Nr. 12366 (French and Polish)
   - {word: "cette", reason: "French, this; not a term"}
   - {word: "ingelfingen", reason: "part of the name Hohenlohe-Ingelfingen, lower-cased by the probe"}
+  # ruled 2026-10-04, from III. HA MdA, III. Nr. 12367
+  - {word: "Nro.", reason: "numero, the number of a letter in the sender's journal; plain"}
+  # ruled 2026-10-04, from AGAD 1/174/0/2/73 and 1/174/0/1/6 (Polish and French)
+  - {word: "Lipca", reason: "Polish, of July; stands after the day in a date"}

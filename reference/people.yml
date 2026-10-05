@@ -115,7 +115,7 @@ people:
     display: "Eysenhardt"
     match: "Eysenhardt"
     tier: "Context-inferred, distinctness from Reinhardt explicitly settled"
-    variants: ["Eysenhard", "Eissenhardt", "Eisenhardt"]
+    variants: ["Eysenhard", "Eissenhardt", {form: "Eisenhardt", match: false, seen_in: ["the banker of III. HA MdA, III. Nr. 12367: see eisenhardt"]}]
   falkenhausen:
     display: "Falkenhausen"
     match: "Falkenhausen"
@@ -237,7 +237,9 @@ people:
     variants: ["Hirchel"]
   hohenlohe:
     display: "Hohenlohe"
-    match: "Hohenlohe"
+    # Hohenlo[h]e is the editor's reading of "Hohenloe" in the petitions of 1807
+    # (AGAD 1/174/0/2/73).
+    match: 'Hohenlohe|Hohenlo\[h\]e'
     tier: "Book-confirmed (the book's subject)"
     variants: []
   honrichs:
@@ -478,7 +480,9 @@ people:
       Moscinska / Moszynska are the corpus's own misreadings of Miączyńska.
       The display carried all four surnames in one string until the register
       settled which was which.
-    match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])"
+    # Dąbskiey, Dambskiey, Dąmbskiey: the genitive in the Polish of 1807 (AGAD
+    # 1/174/0/2/73 and 1/174/0/1/6) and of the judgment of 1827 (Nr. 12366).
+    match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])|D[ąa]m?bskiey(?![a-zà-ÿ])"
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
@@ -871,7 +875,7 @@ people:
     identity: "The Prince's youngest son (letters 220, 222, 247). Added 2026-09-28 in the names pass."
   constantin:
     display: "Grand Duke Constantin"
-    match: 'Constantin(?![a-zà-ÿ])|Konstantin(?![a-zà-ÿ])'
+    match: 'Constantin(?![a-zà-ÿ])|Konstantin(?![a-zà-ÿ])|C[ée]sar[ée]vitch'
     tier: "Context-inferred"
     variants:
       - "Konstantin"
@@ -1315,7 +1319,9 @@ people:
   sanitz:
     display: "von Sanitz"
     render: "Sanitz"
-    match: '(?<!Generalin v\. )Sanitz(?![a-zà-ÿ])'
+    # Zanitz is Michalina Dąbska's spelling in her petitions of 1807 (AGAD
+    # 1/174/0/2/73).
+    match: '(?<!Generalin v\. )(?:Sanitz|Zanitz)(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
     identity: "Colonel and commander in the Prince's regiment, granted the confiscated estates of Pawłów, Dzwonów and Burenbusch in 1796 (I. HA GR, Rep. 7 C, Nr. 3570; 14525); later General-Major, whose claim for his lost South Prussian estates brought the file out again in 1826. His wife, 'die Frau Generalin v. Sanitz' (9454), is not matched. Added 2026-09-30."
@@ -1528,7 +1534,9 @@ people:
     identity: "The senator and voivode Wybicki, whose estate of Manieczki, confiscated by Prussia and given to General von Zastrow, was returned to him in 1807; the Warsaw report of 1818 cites his case (III. HA MdA, III. Nr. 12366, document 2). Józef Wybicki owned Manieczki. A Wybicki at Warsaw is written to in 1810 (9454). Added 2026-10-04."
   niemojewski:
     display: "Niemojewski"
-    match: 'Niemojewski'
+    # Niemoiewskiego and Niemojewskiego in the Polish of 1807 (AGAD 1/174/0/2/73
+    # and 1/174/0/1/6).
+    match: 'Niemo[ji]ewsk\w*'
     tier: "Text-confirmed"
     variants: []
     identity: "General Niemojewski, restored in 1807 to an estate that Prussia had confiscated and given away, free of debt; cited as a precedent in the Warsaw report of 1818 (III. HA MdA, III. Nr. 12366, document 2). Added 2026-10-04."
@@ -1544,3 +1552,73 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "Antoni Rembowski, president of the civil tribunal of first instance at Kalisz, who signs the judgment of 30 July 1827 (III. HA MdA, III. Nr. 12366, document 6). A Rembowski is named with two tribunal councillors in 9454. Added 2026-10-04."
+  # --- III. HA MdA, III. Nr. 12367, added 2026-10-04 --------------------------
+  mohrenheim:
+    display: "Mohrenheim"
+    # M[ohrenheim] is the initial he signs a private note with (document 2).
+    match: 'Mohrenheim|M\[ohrenheim\]'
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Baron Paul von Mohrenheim (1785-1832), general secretary and director of the diplomatic chancellery of Grand Duke Constantine at Warsaw, who writes to the Prussian consul general Schmidt about Weigel's claim in 1828 and 1830, under the letterhead 'Royaume de Pologne. Affaires Etrangères' (III. HA MdA, III. Nr. 12367, documents 1 to 4). He signs 'Le Bon de Mohrenheim', 'L. B. d. Mohrenheim', 'Mohrenheim' and 'M'. Added 2026-10-04."
+  schmidt-konsul:
+    display: "Schmidt (consul general)"
+    match: 'Schmidt(?![a-zà-ÿ])'
+    # Other Schmidts stand in the letters of Oe 1 Bü 9454 (a secretary, a
+    # merchant's heirs, a creditor), so this entry is held to its documents.
+    only_in: [iiihamdaiiinr12367-1, iiihamdaiiinr12367-2, iiihamdaiiinr12367-3, iiihamdaiiinr12367-5, iiihamdaiiinr12367-9, iiihamdaiiinr12367-10, iiihamdaiiinr12367-11]
+    render: "Schmidt"
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Julius Schmidt, Prussian consul general in the Kingdom of Poland at Warsaw from 1817 to 1832 and privy councillor of legation, to whom the Warsaw authorities address their letters on Weigel's claim (III. HA MdA, III. Nr. 12367). The documents give only the surname; forename and years of office are from the Geheimes Staatsarchiv's introduction to I. HA Rep. 81 Warschau. Added 2026-10-04."
+  lubecki:
+    display: "Lubecki"
+    match: 'Lubeck(?:i|iego|iemu|im)(?![a-zà-ÿ])'
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Prince Franciszek Ksawery Drucki-Lubecki (1778-1846), minister presiding in the Government Commission of Revenue and Treasury of the Kingdom of Poland from 1821 to 1830. He signs 'X. X. Lubecki' on the two letters to Weigel of 22 September and 27 November 1830, and Weigel's reply calls him 'Schatzminister des Königreichs Polen, Herrn Fürsten v. Lubecki' (III. HA MdA, III. Nr. 12367, documents 6 to 9). Added 2026-10-04."
+  engel:
+    display: "Engel"
+    match: 'Engel(?![a-zà-ÿ])'
+    # "wäre Engel reine" in Oe 1 Bü 9454 is the word, not a name.
+    only_in: [iiihamdaiiinr12367-10]
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Fyodor Engel, president of the Provisional Government that Russia set over the Kingdom of Poland from September 1831 to March 1832, who tells Schmidt on 13 March 1832 that Lubowidzki is to settle Weigel's claim; the copy is 'signé Engel' (III. HA MdA, III. Nr. 12367, document 10). Added 2026-10-04."
+  lubowidzki:
+    display: "Lubowidzki"
+    match: 'Lubowidzk\w*'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "'Monsieur le Conseiller d'Etat Joseph Lubowidzki Président de la Banque de Pologne', charged in March 1832 with carrying out the Russo-Prussian convention of 17/29 May 1830 and with settling Weigel's claim (III. HA MdA, III. Nr. 12367, document 10). Added 2026-10-04."
+  drake:
+    display: "Drake"
+    match: 'Drake(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "'Mr. Drake Commissaire au Département des Domaines de l'Etat', whom the finance commission at Warsaw charged on 29 February 1832 with valuing the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 11). Added 2026-10-04."
+  eisenhardt:
+    display: "Eisenhardt"
+    match: 'Eisenhardt'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The partner in the Breslau banking house 'Weigel & Eisenhardt', as Baron Mohrenheim names the claimants in his note and in 1830 (III. HA MdA, III. Nr. 12367, documents 2 and 4). Not shown to be the Berlin agent Eysenhardt of the letters of 1798 to 1808, from whose entry the spelling was taken out. Added 2026-10-04."
+  # --- AGAD 1/174/0/2/73 and 1/174/0/1/6, added 2026-10-04 --------------------
+  malachowski:
+    display: "Małachowski"
+    # Mał[achowski] is his paraph on the papers of 1/174/0/2/73.
+    match: 'Małachowsk\w*|Mał\[achowski\]'
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Stanisław Małachowski (1736-1809), president of the Governing Commission in 1807. His name stands under the register entries of 12 and 21 July 1807 ('Stanisław Małachowski, Prezes'), his paraph 'St Mał' under the draft resolution and the received note of 21 July, and Michalina Dąbska's petition to the Emperor is addressed on the back to him (AGAD 1/174/0/1/6 and 1/174/0/2/73). Added 2026-10-04."
+  luszczewski:
+    display: "Łuszczewski"
+    match: 'Łuszczewsk\w*'
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Jan Paweł Łuszczewski (1764-1812), secretary general of the Governing Commission in 1807, whose name stands under the register entries of 12 and 21 July 1807 ('Jan Łuszczewski, Sekretarz Generalny'; AGAD 1/174/0/1/6). Added 2026-10-04."
+  bischoffwerder:
+    display: "Bischoffwerder"
+    match: 'Bischoffs?werder\w*'
+    tier: "Context-inferred"
+    variants: ["Bischoffswerder"]
+    identity: "A Prussian general 'Bischoffswerder' whom Michalina Dąbska names in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those to whom her father's estates were given (AGAD 1/174/0/2/73, documents 2 and 3). Probably Johann Rudolf von Bischoffwerder (1741-1803), the favourite of King Friedrich Wilhelm II, of whom Triebenfeld also speaks (Oe 1 Bü 9454). No other holding names him among the donees. Added 2026-10-04."

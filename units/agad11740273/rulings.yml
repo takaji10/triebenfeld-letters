@@ -1,0 +1,75 @@
+# Editorial rulings for AGAD 1/174/0/2/73.
+#
+# One document per piece: a draft resolution and three petitions. The archive
+# numbers the leaves, not the pieces, so documents are numbered 1-4 in the
+# order they are bound. What each is, and why, is in notes.md. Established
+# 2026-10-04.
+
+places:
+  # Place of writing, from each document's own dateline.
+  overrides:
+    "1": Dresden
+    "2": Dresden
+    "3": Dresden
+    "4": Dresden
+
+dates:
+  # [year, month, day, precision]; read off the document's own dateline.
+  read:
+    "1": [1807, 7, 21, "day"]      # "Działo się w Dreznie 21. Lipca 1807."
+    "2": [1807, 7, 20, "day"]      # "w Dreznie dnia 20. Lipca 1807"; presented 21 July
+    "3": [1807, 7, 21, "day"]      # "Dresde le 21. Juillet 1807."; presented the same day
+    "4": [1807, 7, 23, "day"]      # "dnia 23. Lipca 1807 Drezno."; presented the same day
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # `draft` is the commission's own resolution as it stayed in its file: the
+  # corrected draft with the president's paraph. The fair copy is the entry in
+  # the commission's register, AGAD 1/174/0/1/6, document 2. The petitions are
+  # letters.
+  doc_type:
+    "1": draft
+
+  language:
+    "1": "pl"
+    "2": "pl"
+    "3": "fr"
+    "4": "pl"
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: answers
+        target: "3"
+        note: "The resolution says her case 'do Nas przez N° Cesarza został odesłany' (was referred to us by the Emperor); the note on her petition to him says it was presented on 21 July by the Prince Director of War, by the Emperor's order."
+    "4":
+      - kind: answers
+        target: "1"
+        note: "'w Dekrecie Kommissyi Rządzącey wydanym dnia 21 Lipca a. c.': the commission's resolution of 21 July."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml: her
+  # father's estates, of which Hohenlohe-Ingelfingen had Trąbczyn and Kamionna
+  # with Kolno.
+  estates:
+    "1": [trabczyn, kamionno]
+    "2": [trabczyn, kamionno]
+    "3": [trabczyn, kamionno]
+    "4": [trabczyn, kamionno]
+
+damage:
+  # The outer edge of the draft (0005_a2) is torn: the end of "z
+  # Pru[simskich]" and the day in "dnia [5] Czerwca" are lost and supplied in
+  # brackets by the editor.
+  letters: []
+
+rough:
+  letters: []
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0005_a2", "0006_a2", "0007_a2", "0008_a1", "0047_a2"]

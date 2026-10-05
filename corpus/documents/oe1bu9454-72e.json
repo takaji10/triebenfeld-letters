@@ -105,6 +105,28 @@
  "place_canonical": "Warschau",
  "place_mentions": [
   {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warszawie",
+   "page": 1,
+   "page_id": "0148_a2",
+   "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
+   "line": 5873,
+   "doc_line": 1
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warszawy",
+   "page": 1,
+   "page_id": "0148_a2",
+   "scan": "Oe_1_Bu_9454_0148_a2-L72e_01.jpg",
+   "line": 5877,
+   "doc_line": 5
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",

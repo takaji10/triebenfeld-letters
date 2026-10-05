@@ -499,6 +499,17 @@
    "doc_line": 27
   },
   {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Dąbskiey",
+   "page": 8,
+   "page_id": "0021_a1",
+   "scan": "III_HA_MdA_III_Nr_12366_0021_a1-L6_08.jpg",
+   "line": 179,
+   "doc_line": 27
+  },
+  {
    "entity": "grotowski",
    "display": "Grotowski",
    "kind": "person",
@@ -1244,6 +1255,17 @@
    "scan": "III_HA_MdA_III_Nr_12366_0019_a2-L6_05.jpg",
    "line": 171,
    "doc_line": 22
+  },
+  {
+   "entity": "dresden",
+   "display": "Dresden",
+   "kind": "place",
+   "surface": "Dreznie",
+   "page": 7,
+   "page_id": "0020_a2",
+   "scan": "III_HA_MdA_III_Nr_12366_0020_a2-L6_07.jpg",
+   "line": 177,
+   "doc_line": 26
   },
   {
    "entity": "szetlewek",

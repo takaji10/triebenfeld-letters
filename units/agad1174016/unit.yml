@@ -1,0 +1,103 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: agad1174016
+ref: 1/174/0/1/6
+archive: Archiwum Główne Akt Dawnych, Warszawa (AGAD)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  Two entries from the register of orders and resolutions of the Governing
+  Commission, the provisional Polish government of 1807: the order of 12 July
+  to carry out Napoleon's decree returning the confiscated estates of Józef
+  Wybicki, and the resolution of 21 July 1807 that extends the decree to
+  Michalina Dąbska, born Prusimska, and so returns to her the estates,
+  Trąbczyn among them, that Prussia had given to Prince Friedrich Ludwig of
+  Hohenlohe-Ingelfingen.
+title_de: >-
+  Zwei Einträge aus dem Register der Anordnungen und Beschlüsse der
+  Regierungskommission, der provisorischen polnischen Regierung von 1807: die
+  Anordnung vom 12. Juli, Napoleons Dekret über die Rückgabe der
+  konfiszierten Güter des Józef Wybicki auszuführen, und der Beschluss vom
+  21. Juli 1807, der das Dekret auf Michalina Dąbska, geborene Prusimska,
+  ausdehnt und ihr damit die Güter zurückgibt, darunter Trąbczyn, die Preußen
+  dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen geschenkt hatte.
+# The archive's own title of the volume. Kept for reference; nothing displays it.
+archive_title: >-
+  Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej
+# The two entries are of 12 and 21 July 1807.
+date_span: "1807"
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. Placed with the
+# Hohenlohe-Ingelfingen years for now, with AGAD 1/174/0/2/73; the editor has
+# still to rule (docs/NEEDS_CONFIRMATION.md).
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: agad-warszawa
+
+# Three images, each an opening of which one side is wanted (editor,
+# 2026-10-04): the pages numbered 47, 48 and 331 in pencil.
+# intake/build_pages.py cuts them out into raw_dir/processed/ and records the
+# boxes. Page ids follow the images: page 47 is 0028_a2, page 48 is 0029_a1,
+# page 331 is 0180_a2.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Central Archives of Historical Records in Warsaw (AGAD)/Zbiór wyroków, uchwał, zaleceń i wszelkich rezolucji Komisji Rządzącej (1.174.0.1.6)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: AGAD_1_174_0_1_6
+
+# One file per page, named by page id (0005_a2.txt). Made from the editor's
+# single Markdown transcription by intake/build_pages.py, which also cuts the
+# page images and records where the text was cut.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Two entries from a register in which the Governing Commission (Komisja
+  Rządząca), the provisional government of the Polish lands taken from
+  Prussia in 1806 and 1807, had its orders and resolutions copied out, each
+  with the names of its president, Stanisław Małachowski, and its secretary
+  general, Jan Łuszczewski. The first, dated Warsaw, 12 July 1807, sends the
+  Director of Internal Affairs a certified copy of the Emperor Napoleon's
+  decree of 5 June 1807, given at Finckenstein, which returns to Józef
+  Wybicki, a member of the commission, his estates of Manieczki, Przylepki,
+  Boreczek and Esterpol in the department of Poznań, sequestrated and
+  disposed of by the Prussian government, and orders him put in possession.
+  The second, dated Dresden, 21 July 1807, opens the register of resolutions
+  taken while the commission was at Dresden: it extends the decree for
+  Wybicki to Michalina Dąbska, born Prusimska, to General Niemojewski and to
+  Wichrowski, so that their hereditary estates, confiscated by the Prussian
+  government, return to their true owners. Both are in Polish.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Polish in the spelling of 1807 (y and i for j, as in "Rządzącey", "iako").
+  The text is transcribed by paragraph, not line by line. Each entry has a
+  heading that says what it is ("Zalecenie", an order; "Uchwała", a
+  resolution), the date in the margin ("Lipiec d. 12", July the 12th), the
+  words "Kommissya Rządząca" (the Governing Commission) and then the text.
+  Abbreviated forms of address stand as written: "JW." is Jaśnie Wielmożny,
+  "JP." and "JPani" Jaśnie Pan and Jaśnie Pani, "W." Wielmożny, "N° Cesarza"
+  Nayiaśnieyszego Cesarza (the Most Serene Emperor, Napoleon), "JCK. Mość"
+  His Imperial and Royal Majesty, "r. b." of this year. "Prusińskich" is the
+  scribe's form of Prusimskich, her maiden name; "Dambska" and "Dąmbska" are
+  her first married name, Dąbska. The names under each entry are copied, not
+  signed.

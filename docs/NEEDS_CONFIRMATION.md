@@ -77,6 +77,38 @@ read, translate and summarise.
     the scan ("Assistant", "Rozdayczer[?]", "Likrę[?]"):
     `units/iiihamdaiiinr12366/intake/unresolved.md`.
 
+- **III. HA MdA, III. Nr. 12367** is in (2026-10-04): eleven documents of
+  1828 to 1832 from the second volume of the same file, corrected and
+  summarised in both languages. Still open:
+  - **its era**, with Nr. 12366's: it is placed in the Hohenlohe-Ingelfingen
+    years because it is about a debt of his, though he died in 1818;
+  - **translation**, and the **claim check** of its summaries (neither done);
+  - **the German translations written beside Prince Lubecki's two Polish
+    letters** (scans 0008, 0009 right, 0010) are not in the editor's
+    transcription. They are texts of 1830 and were used to check the Polish.
+    The editor to say whether they should be transcribed;
+  - **the signature on the letter of 29 September 1830** (scan 0007) is not
+    read, so that letter has no sender;
+  - **two undated notes** of Baron Mohrenheim (documents 2 and 3) are left
+    without a date; the first is probably of 1829.
+
+- **AGAD 1/174/0/2/73 and 1/174/0/1/6** are in (2026-10-04): six documents
+  of July 1807, the petitions of Michalina Dąbska and the Governing
+  Commission's resolution returning her father's estates. Still open:
+  - **their era**: placed in the Hohenlohe-Ingelfingen years for now. By
+    `reference/eras.yml` they are the first documents of the restitution
+    era, which would then stop being empty; `site/the-story.md` says that
+    era is not yet published and would need rewriting;
+  - **image 06** of 1/174/0/2/73 is used though the editor named only 05,
+    07, 08 and 047: their numbers are leaf numbers, and leaf 7 is on image
+    06. To be confirmed;
+  - **the crops**: each page was cut out of its opening by a box placed in
+    the session, not by the editor;
+  - **a struck-out clause** at the end of the draft resolution ("z
+    zachowaniem praw Im służących") is not transcribed. The editor to say
+    whether struck text is to be given;
+  - **translation**, and the **claim check** of the summaries.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
@@ -114,6 +146,13 @@ written until there is a witness or a better scan.
 
 - **III. HA MdA, III. Nr. 12366**: words left as written, in
   `units/iiihamdaiiinr12366/intake/unresolved.md`.
+- **III. HA MdA, III. Nr. 12367**: words left as written and text not
+  transcribed, in `units/iiihamdaiiinr12367/intake/unresolved.md`. The chief
+  one is the end of Mohrenheim's note on scan 0004 ("qui font parfois mon
+  pain de négrêtes [?]") and the line written sideways in its margin.
+- **AGAD 1/174/0/2/73 and 1/174/0/1/6**: words left as written, in each
+  unit's `intake/unresolved.md`. The chief one is "upoznieniem" in the
+  closing formula of the petition of 23 July 1807.
 
 ## Identifications
 

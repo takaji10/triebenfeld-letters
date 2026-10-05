@@ -1,0 +1,23 @@
+# Text the receiving office wrote on someone else's paper. Here: the Governing
+# Commission's note, on each of Michalina Dąbska's petitions, of the day it
+# was presented, with the president's paraph on the second. The lines are
+# ordinary text in corpus.txt; this file only says which they are, so the
+# site can set them apart. Each block stands at the end of its page, though
+# on the leaf it is written at the head.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '2'
+    page: '0006_a2'
+    first: 'Praesent. d. 21. July'
+    lines: 1
+  - letter: '3'
+    page: '0007_a2'
+    first: 'Presentatum 21. Lipca 1807. na Sessyi Extraordynaryiney w Dreznie przez W. X[ię]cia Dyrektora Woyny z rozkazu Nayiaśnieyszego Cesarza y Króla'
+    lines: 2
+  - letter: '4'
+    page: '0047_a2'
+    first: 'Presentatum 23. Lipca 1807. — ad Acta'
+    lines: 1

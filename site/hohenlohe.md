@@ -251,7 +251,15 @@ Jena and Prenzlau is an inference from the date; the letter does not name the ba
 {: .pull}
 
 By the Peace of Tilsit in July 1807 Prussia gave up South Prussia, and the Duchy of Warsaw
-was formed from it. On 5 October 1807 the estate official Hawich reported from Pyzdry that
+was formed from it. The province was governed in the meantime by the Governing Commission, a
+provisional Polish government that Napoleon had set up in January. Prusimski's daughter,
+Michalina Dąbska, followed it to Dresden. On 20 and 21 July she petitioned
+[the commission]({{ '/documents/agad11740273/2/' | relative_url }}) and
+[the Emperor]({{ '/documents/agad11740273/3/' | relative_url }}) for her father's estates, pointing to
+a decree of Napoleon that had given Józef Wybicki, a member of the commission, his confiscated
+estates back. On 21 July 1807 the commission
+[extended that decree to her]({{ '/documents/agad1174016/2/' | relative_url }}): the estates were to return
+to their true owners. On 5 October 1807 the estate official Hawich reported from Pyzdry that
 the Trąbczyn estates had been
 [taken over by an appellate judge from Kalisz]({{ '/documents/oe1bu9454/28/' | relative_url }})
 and handed to the heirs of the former owner, and two weeks later Triebenfeld wrote that
@@ -432,7 +440,7 @@ Reichsthaler in silver and 17,874 in gold. The largest private creditor on it is
 Whether it is the same 112,000, and whether this Charlotte is the daughter who wrote letter
 7, the documents do not say.
 
-## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1827
+## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1832
 
 Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs renewed the
 claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
@@ -453,8 +461,18 @@ civil tribunal at Kalisz ordered the mortgage of Weigel, a merchant at Wrocław,
 Prussian envoy at St Petersburg, Schöler, asked the Russian foreign minister to have it annulled
 ([note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). The file holds no answer. In July 1827 the
 tribunal at Kalisz also struck out the mortgages of the Lichnowski brothers and of the widow of
-Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})). It is the last document of the
-era.
+Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})).
+
+Prussia went on pressing Weigel's case at Warsaw through its consul general, Schmidt. Baron
+Mohrenheim, who directed Grand Duke Constantine's diplomatic chancellery, told him that the
+council had agreed that payment must be made ([note]({{ '/documents/iiihamdaiiinr12367/2/' | relative_url }})), and in February 1830
+that the Administrative Council held the competence of the courts open to question
+([letter]({{ '/documents/iiihamdaiiinr12367/4/' | relative_url }})). Weigel asked for 63,100 thalers. In September 1830 the minister of
+finance, Prince Lubecki, called the sum excessive and had the estates valued
+([letter]({{ '/documents/iiihamdaiiinr12367/6/' | relative_url }})); Weigel answered that by the valuation of 1803 his loan was covered
+([reply]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). The rising of November 1830 interrupted the matter. In March 1832
+the valuation of Trąbczyn was ordered again ([letter]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). The documents published so
+far do not show whether Weigel was paid.
 
 ## The people you will keep meeting
 

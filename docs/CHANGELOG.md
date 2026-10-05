@@ -1493,6 +1493,56 @@ lose his estates. The era page writes Konotop, not Kontop.
   and on the holding's page. Szetlowek, Szeltowek and Szetlowka matched to Szetlewek. The
   holding is marked translated.
 
+- **III. HA MdA, III. Nr. 12367 added** (2026-10-04). Fourteen scans from the second volume of
+  the foreign ministry's file on Michalina Miączyńska's claim, 1828 to 1832: eleven documents on
+  15 pages and the cover, eight in French, two in Polish and one in German. All concern the
+  compensation of the Breslau banker Weigel for the mortgage of 30,000 thalers the Polish courts
+  struck off Trąbczyn: the answers of Baron Mohrenheim, of the finance commission and of Engel to
+  the Prussian consul general Schmidt, and the exchange between the finance minister Prince
+  Lubecki and Weigel in the autumn of 1830. The one opening (scan 0009) was cut at its fold. The
+  editor's transcription, by paragraph except for Weigel's German letter, was cut to the pages;
+  one page holds the end of one document and the head of the next. The signature the editor asked
+  about is Baron Mohrenheim's, and it is given on each of his four pieces as it stands there. The
+  whole text was corrected against the scans: 62 passages, most in the two hurried notes and the
+  two Polish letters, with the German translation written beside the Polish as a witness. Dates,
+  places, senders and languages are set; two notes are left undated. Each document is summarised
+  in German and English, and the holding has its page, three timeline entries (the timeline now
+  runs to 1832) and a paragraph in the era essay, in both languages. New people: Mohrenheim,
+  Schmidt (the consul), Lubecki, Engel, Lubowidzki, Drake, Eisenhardt (the banker, parted from
+  the Berlin agent Eysenhardt); "Césarévitch" matched to Grand Duke Constantine. Two small
+  additions to the build: a by-paragraph ruling can name one document's part of a shared page
+  ("8:0009_a2"), and a paragraph break no cue proposes can be written into
+  `paragraph_decisions.csv` by hand (cue `hand`). The edition has 458 documents. Not yet
+  translated; the summaries have not had the claim check; the German translations beside the two
+  Polish letters are not transcribed. See `units/iiihamdaiiinr12367/notes.md`.
+
+- **AGAD 1/174/0/2/73 and 1/174/0/1/6 added** (2026-10-04), the first holdings from the Archiwum
+  Główne Akt Dawnych in Warsaw: the papers of July 1807 by which the Governing Commission, the
+  provisional Polish government, returned the Prusimski estates to Michalina Dąbska. From the
+  commission's file of its stay at Dresden (1/174/0/2/73), four documents on five pages: her
+  petitions to the commission of 20 and 23 July and to Napoleon of 21 July, and the commission's
+  draft resolution of 21 July 1807. From its register of orders and resolutions (1/174/0/1/6),
+  two documents on three pages: the order of 12 July to carry out Napoleon's decree for Józef
+  Wybicki, and the fair copy of the resolution of 21 July. Each image shows an opening, of which
+  the editor wanted one side; the eight pages were cut out by boxes recorded in each unit's
+  `intake/build_pages.py`. The editor's marks 05, 07 and 08 are leaf numbers, so image 06 is
+  used as well. The transcriptions were cut to the pages; the commission's received notes stand
+  at the foot of each petition as office text; the address of the petition to the Emperor is a
+  page of its own. Corrected against the scans: 25 passages and two added lines in the first
+  holding, nine passages in the second, most of them the writers' spelling and abbreviations put
+  back; the received note on the petition to the Emperor now reads that it was presented by the
+  Prince Director of War on the Emperor's order. Dates, places, senders, types and languages
+  are set; each document is summarised in German and English; each holding has its page in both
+  languages; one timeline entry (21 July 1807) and two sentences in section V of the era essay.
+  New people: Małachowski, Łuszczewski, Bischoffwerder; Sanitz, Niemojewski, Hohenlohe and
+  Michalina Dąbska matched in the forms of 1807; Dresden, Warsaw and Kolno matched in their
+  Polish and French forms. The glossary entry for the Prussian court called Regierung no longer
+  marks "die preußische Regierung" or "the Prussian Government": 36 marks gone, in these
+  holdings and in Nr. 12366 and Nr. 12765. Both holdings are placed in the Hohenlohe-Ingelfingen
+  years pending the editor's ruling. The edition has 464 documents. Not yet translated; the
+  summaries have not had the claim check. See `units/agad11740273/notes.md` and
+  `units/agad1174016/notes.md`.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -1,0 +1,113 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: iiihamdaiiinr12367
+ref: III. HA MdA, III. Nr. 12367
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  Papers from the second volume of the Prussian Ministry of Foreign Affairs'
+  file on Countess Michalina Miączyńska's claim, 1828 to 1832: what the
+  authorities at Warsaw wrote to the Prussian consul general Schmidt, and to
+  the Breslau banker Weigel himself, about compensating Weigel for the 30,000
+  thalers he had lent Prince Friedrich Ludwig of Hohenlohe-Ingelfingen on
+  Trąbczyn, a mortgage the Polish courts had struck out.
+title_de: >-
+  Stücke aus dem zweiten Band der Akte des preußischen Außenministeriums über
+  die Forderung der Gräfin Michalina Miączyńska, 1828 bis 1832: was die
+  Warschauer Behörden dem preußischen Generalkonsul Schmidt und dem Breslauer
+  Bankier Weigel selbst über dessen Entschädigung für die 30.000 Taler
+  schrieben, die er dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen auf
+  Trąbczyn geliehen hatte und deren Hypothek die polnischen Gerichte gelöscht
+  hatten.
+# The file's own heading, from its cover. Kept for reference; nothing displays
+# it.
+archive_title: >-
+  Acta des Ministeriums der auswärtigen Angelegenheiten, betr.: Des
+  Entschädigungsgesuchs der Frau von Miączynska geborener von Prusimska, und
+  die Forderung des p Weigel an dieselbe, imgleichen: der Gebrüder von
+  Lichnowski. Vol. II
+# The earliest dated piece is of 26 January / 7 February 1828, the latest of
+# 8/20 March 1832. The cover gives "Vol. II vom Janr 1828 bis ult. November
+# 1833" (with "(1827)" added) and "conf. vol III & I": the 14 scans are a
+# selection from a thick volume, and nothing of 1833 is among them.
+date_span: 1828-1832
+status: transcribed            # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. As for Nr. 12366,
+# the editor has still to say whether this file belongs here or in the
+# restitution era.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 14 scans. Thirteen are single written sides (0001 the cover); 0009 is an
+# opening written on both sides. All were copied unchanged into
+# raw_dir/processed/ as <capture>_a.jpg, and 0009 was cut at the fold
+# (split_spreads.py --apply-folds, fold at 0.4894 of the width, placed on an
+# enlarged strip of the scan, 2026-10-04): 0009_a1 is the left side, 0009_a2
+# the right. 15 pages in all.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/III_HA_MdA_III_Nr_12367 - Klage der Gräfin Michalina von Miaczynska, geb. vo - 1828-1833
+  raw_glob: III_HA_MdA_III_Nr_12367_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: III_HA_MdA_III_Nr_12367
+
+# One file per page, named by page id (0009_a1.txt). Made from the editor's
+# single Markdown transcription by intake/build_pages.py, which records where
+# the text was cut.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Fourteen scans from the second volume of the Prussian foreign ministry's
+  file on Michalina Miączyńska's claim, which continues III. HA MdA, III. Nr.
+  12366. The Polish courts had struck the mortgage of the Breslau banker
+  Weigel, 30,000 thalers lent to the Prince of Hohenlohe-Ingelfingen, off the
+  Trąbczyn estates; these pieces follow Prussia's effort to have the Kingdom
+  of Poland make the loss good. Most are letters in French to Schmidt, the
+  Prussian consul general at Warsaw. Baron Mohrenheim, who ran the diplomatic
+  chancellery of Grand Duke Constantine, writes in 1828 and 1830, twice in
+  short private notes, that the Administrative Council has recognised that
+  Weigel must be paid and has raised a conflict of jurisdiction against the
+  courts. In September and November 1830 the finance minister, Prince
+  Lubecki, answers Weigel directly, in Polish with a German translation in a
+  second column: he finds the demand of 63,100 thalers (capital, interest and
+  costs) excessive and orders the estates valued. Weigel's reply from Breslau
+  of 14 October 1830, in German, reckons from the mortgage certificate and
+  court valuation of 1803 that his loan was fully covered. After the rising,
+  Fuhrmann of the finance commission (1831 and 1832) and Engel, head of the
+  provisional government (1832), report that the valuation of Trąbczyn has
+  been ordered again and that Lubowidzki, president of the Bank of Poland, is
+  to settle the matter.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file in three languages. The letters to the consul are French;
+  two of them are hurried private notes in a familiar tone. Prince Lubecki's
+  two letters are Polish in the spelling of the time (y for j, as in
+  "naypomyślnieyszego"), each with a contemporary German translation written
+  beside it; the German is a document of its own kind, not a gloss by the
+  edition. Weigel's reply is a German copy with a reckoning in thalers
+  ("rthlr.") and good groschen ("gr.", "ggr."). Dates from Warsaw are given in
+  both calendars ("26 Janvier / 7 Février"). "WWPan" is the Polish form of
+  address "Wielmożny Pan". "le Grand Duc Césarévitch" is Grand Duke
+  Constantine. A word followed by [?] is one the transcriber was unsure of.

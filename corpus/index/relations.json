@@ -162,6 +162,24 @@
   "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
  },
  {
+  "from": "agad1174016-2",
+  "kind": "supplements",
+  "to": "agad1174016-1",
+  "note": "Extends to three further owners the Emperor's decree of 5 June 1807 for Wybicki ('Wyrok N° Cesarza JW° Wybickiemu służący'), whose execution document 1 orders."
+ },
+ {
+  "from": "agad11740273-1",
+  "kind": "answers",
+  "to": "agad11740273-3",
+  "note": "The resolution says her case 'do Nas przez N° Cesarza został odesłany' (was referred to us by the Emperor); the note on her petition to him says it was presented on 21 July by the Prince Director of War, by the Emperor's order."
+ },
+ {
+  "from": "agad11740273-4",
+  "kind": "answers",
+  "to": "agad11740273-1",
+  "note": "'w Dekrecie Kommissyi Rządzącey wydanym dnia 21 Lipca a. c.': the commission's resolution of 21 July."
+ },
+ {
   "from": "oe1bu9454-302",
   "kind": "duplicate_of",
   "to": "oe1bu9454-48",
@@ -286,5 +304,17 @@
   "kind": "answers",
   "to": "iiihamdaiiinr12765-29",
   "note": "'Schreiben ... vom 13ten d. M. und dessen Beilagen'."
+ },
+ {
+  "from": "iiihamdaiiinr12367-7",
+  "kind": "answers",
+  "to": "iiihamdaiiinr12367-6",
+  "note": "Weigel replies 'auf die hohe Eröffnung vom 22 v. M. No. 59607/938', the minister's letter of 22 September 1830."
+ },
+ {
+  "from": "iiihamdaiiinr12367-8",
+  "kind": "answers",
+  "to": "iiihamdaiiinr12367-7",
+  "note": "The minister answers the papers Weigel sent 'przy swem podaniu daty 14 Oktobra 1830', with his letter of 14 October."
  }
 ]

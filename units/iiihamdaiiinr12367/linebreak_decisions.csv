@@ -1,0 +1,8 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+7,2,100,101,¬,Forde,rung,Forderung,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,"n, ist wohl kein Zweifel, daß meine Forde¬ || rung ganz sicher war"
+7,2,103,104,¬,Subhas,tation,Subhastation,join,high,head is not a word on its own,False,0,65,0,330,1,,"den Posten berichtigen, und in der Subhas¬ || tation so weit es zu meiner Forderung erfo"
+7,2,106,107,¬,Anerkennt,niße,Anerkenntniße,join,held,held: adjudicated by hand: one word broken at the line end,False,0,0,0,1237381,1,14,"em Nachweis und bei dem frühern Anerkennt¬ || niße, endlich bei der langen Dauer der Sac"
+7,2,108,109,¬,Hoch,dieselben,Hochdieselben,join,held,held: adjudicated by hand: one word broken at the line end,False,0,18,0,31455850,1,1719125,"chlaucht Gerechtigkeit erwarten, daß Hoch¬ || dieselben nunmehr meine Befriedigung gnädi"
+7,2,109,110,¬,ver,anlassen,veranlassen,join,high,"joined form attested in DWDS (649,531 hits)",False,0,649531,0,,1,,"n nunmehr meine Befriedigung gnädigst ver¬ || anlassen, und einen nahen Termin zur nicht"
+7,2,110,111,¬,be,zweifelnden,bezweifelnden,join,held,held: adjudicated by hand: one word broken at the line end,False,0,309,0,105863,1,27412,"n, und einen nahen Termin zur nicht zu be¬ || zweifelnden Uebereinkunft zwischen uns bes"
+7,2,112,113,¬,Bevollmäch,tigten,Bevollmächtigten,join,high,"joined form attested in DWDS (151,954 hits)",False,0,151954,0,,1,,h mich selbst oder durch einen Bevollmäch¬ || tigten einfinden würde.

@@ -190,7 +190,8 @@ def candidates(docs):
         page_ids = [pid for pid, _ in split_pages(body)]
         pages = [ls for _, ls in split_pages(body)]
         for pi, page in enumerate(pages):
-            if page_ids[pi] in BY_PARAGRAPH:
+            if (page_ids[pi] in BY_PARAGRAPH
+                    or f'{lid}:{page_ids[pi]}' in BY_PARAGRAPH):
                 # The first line may carry on a paragraph from the page before,
                 # so it is left to run on; every later line starts its own.
                 for k in range(1, len(page)):
@@ -310,6 +311,22 @@ def main():
                 r['decision'] = old['decision']
                 r['confidence'] = 'held'
                 kept += 1
+        # A break no cue proposes can be written into the sheet by hand, as a
+        # row with cue `hand`: letter, decision and the line's first words in
+        # `context`. It is found again by those words and carried over.
+        have = {(str(r['letter']), r['context']) for r in rows}
+        for (lid, ctx), old in prior.items():
+            if old.get('cue') != 'hand' or (lid, ctx) in have:
+                continue
+            hit = [n for n, t in docs.get(lid, []) if ctx and t.strip()[:70] == ctx]
+            if len(hit) != 1:
+                print(f'  hand-set row not found again: {lid} "{ctx}"')
+                continue
+            rows.append({'letter': lid, 'line': hit[0], 'page_measure': 0,
+                         'prev_len': 0, 'ratio': 0, 'cue': 'hand',
+                         'decision': old['decision'], 'confidence': 'held',
+                         'prev_line': old.get('prev_line', ''), 'context': ctx})
+            kept += 1
     if kept:
         print(f'kept {kept} hand-adjudicated decision(s) from the previous run')
 

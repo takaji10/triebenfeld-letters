@@ -8,6 +8,8 @@ files it points to.
 - `README.md`: what the edition is, the layout, how a holding is added.
 - `docs/README.md`: which docs are standing reference. `docs/NEEDS_CONFIRMATION.md`
   is the live list of open questions; keep it current when something is settled.
+  `docs/TODO.md` is the editor's to-do list (next steps, in order): tick or
+  remove an item when it is done.
 - `docs/HOUSE_STYLE.md` governs everything written about the documents;
   `docs/EDITORIAL_RULES.md` the transcriptions, which are never "tidied".
   No cryptic statements: every sentence says who, what, and why it matters
@@ -85,7 +87,7 @@ so check them.
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
 - The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;
-  eight files from the Geheimes Staatsarchiv are still to be added, each
+  seven files from the Geheimes Staatsarchiv are still to be added, each
   worked in per `docs/HOHENLOHE_ERA_PLAN.md`.
 - **III. HA MdA, III. Nr. 12366** (slug `iiihamdaiiinr12366`, added
   2026-10-04) is in: six documents, five French and one Polish, corrected
@@ -96,6 +98,30 @@ so check them.
   records are copied into its `intake/`. Still open: the
   editor's ruling on its era (Hohenlohe or restitution), and the words in
   `intake/unresolved.md`.
+- **III. HA MdA, III. Nr. 12367** (slug `iiihamdaiiinr12367`, added
+  2026-10-04), the second volume of the same file: eleven documents of 1828
+  to 1832 on the compensation of the banker Weigel (eight French, two
+  Polish, one German), corrected against the scans and summarised in both
+  languages, with its page, timeline entries and a paragraph in the era
+  essay; status `transcribed`. Read `units/iiihamdaiiinr12367/notes.md`
+  first. **Next: its English translation** (no pilot needed) and the claim
+  check of its summaries. Still open: its era, the German translations
+  beside the two Polish letters (not transcribed), the unread signature on
+  scan 0007, and the words in `intake/unresolved.md`.
+- **AGAD 1/174/0/2/73** (slug `agad11740273`) and **AGAD 1/174/0/1/6** (slug
+  `agad1174016`), added 2026-10-04, the first holdings from AGAD in Warsaw:
+  six documents of July 1807, Michalina Dąbska's petitions and the Governing
+  Commission's resolution returning the Prusimski estates (five Polish, one
+  French). Pages cut out of the editor's images by boxes recorded in each
+  unit's `intake/build_pages.py`; corrected against the scans, summarised in
+  both languages, with holding pages, a timeline entry and two sentences in
+  the era essay; status `transcribed`. Read each unit's `notes.md` first.
+  **Next: translation** and the claim check of the summaries. Still open:
+  the era (placed in `hohenlohe` for now; by `reference/eras.yml` they
+  belong to `restitution`), the editor's look at the crops and at image 06,
+  and a struck-out clause in the draft resolution.
+- **Nothing of 2026-10-04 after Nr. 12366 is committed**: Nr. 12367, the two
+  AGAD holdings and `docs/TODO.md` wait for the editor's word to publish.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

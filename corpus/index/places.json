@@ -94,7 +94,7 @@
  },
  {
   "place": "Breslau",
-  "count": 69,
+  "count": 70,
   "documents": [
    "oe1bu14525-39",
    "oe1bu14525-10",
@@ -164,7 +164,8 @@
    "oe1bu9454-208",
    "oe1bu9454-209",
    "oe1bu9454-231",
-   "oe1bu9454-7"
+   "oe1bu9454-7",
+   "iiihamdaiiinr12367-7"
   ]
  },
  {
@@ -342,6 +343,26 @@
   ]
  },
  {
+  "place": "Warschau",
+  "count": 14,
+  "documents": [
+   "agad1174016-1",
+   "oe1bu9454-72d",
+   "oe1bu9454-72e",
+   "iiihamdaiiinr12366-2",
+   "iiihamdaiiinr12765-28",
+   "iiihamdaiiinr12366-4",
+   "iiihamdaiiinr12367-1",
+   "iiihamdaiiinr12367-4",
+   "iiihamdaiiinr12367-6",
+   "iiihamdaiiinr12367-5",
+   "iiihamdaiiinr12367-8",
+   "iiihamdaiiinr12367-9",
+   "iiihamdaiiinr12367-10",
+   "iiihamdaiiinr12367-11"
+  ]
+ },
+ {
   "place": "Schlawenschitz",
   "count": 13,
   "documents": [
@@ -397,6 +418,19 @@
   ]
  },
  {
+  "place": "Dresden",
+  "count": 7,
+  "documents": [
+   "ihagrrep7cnr3709-15",
+   "oe1bu9454-178",
+   "agad11740273-2",
+   "agad1174016-2",
+   "agad11740273-1",
+   "agad11740273-3",
+   "agad11740273-4"
+  ]
+ },
+ {
   "place": "Blizanow",
   "count": 7,
   "documents": [
@@ -442,17 +476,6 @@
    "oe1bu14526-28",
    "oe1bu14526-26",
    "oe1bu14526-17"
-  ]
- },
- {
-  "place": "Warschau",
-  "count": 5,
-  "documents": [
-   "oe1bu9454-72d",
-   "oe1bu9454-72e",
-   "iiihamdaiiinr12366-2",
-   "iiihamdaiiinr12765-28",
-   "iiihamdaiiinr12366-4"
   ]
  },
  {
@@ -505,14 +528,6 @@
   "documents": [
    "ihagrrep7cnr3709-2",
    "ihagrrep7cnr3709-4"
-  ]
- },
- {
-  "place": "Dresden",
-  "count": 2,
-  "documents": [
-   "ihagrrep7cnr3709-15",
-   "oe1bu9454-178"
   ]
  },
  {
@@ -721,7 +736,7 @@
  },
  {
   "place": "Unknown",
-  "count": 27,
+  "count": 29,
   "documents": [
    "oe1bu14525-13",
    "oe1bu9454-101",
@@ -743,6 +758,8 @@
    "oe1bu9454-257",
    "oe1bu9454-272",
    "oe1bu9454-285",
+   "iiihamdaiiinr12367-2",
+   "iiihamdaiiinr12367-3",
    "oe1bu14526-1",
    "oe1bu9454-9",
    "oe1bu9454-121",

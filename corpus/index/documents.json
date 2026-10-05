@@ -4138,7 +4138,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "brzyce"
   ],
@@ -12477,6 +12477,265 @@
   "permalink": "/documents/oe1bu9454/26/"
  },
  {
+  "uid": "agad1174016-1",
+  "unit": "agad1174016",
+  "letter_id": "1",
+  "doc_type": "note",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-12",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Regierungskommission",
+  "recipient": "Direktor der inneren Angelegenheiten",
+  "n_pages": 2,
+  "n_lines": 7,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0028_a2",
+    "image": "AGAD_1_174_0_1_6_0028_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0029_a1",
+    "image": "AGAD_1_174_0_1_6_0029_a1-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 1,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 1",
+  "path": "documents/agad1174016-1.json",
+  "text_path": "text/agad1174016-1.txt",
+  "permalink": "/documents/agad1174016/1/"
+ },
+ {
+  "uid": "agad11740273-2",
+  "unit": "agad11740273",
+  "letter_id": "2",
+  "doc_type": "letter",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-20",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Michalina Dąbska",
+  "recipient": "Regierungskommission",
+  "n_pages": 1,
+  "n_lines": 4,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0006_a2",
+    "image": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 5,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 2",
+  "path": "documents/agad11740273-2.json",
+  "text_path": "text/agad11740273-2.txt",
+  "permalink": "/documents/agad11740273/2/"
+ },
+ {
+  "uid": "agad1174016-2",
+  "unit": "agad1174016",
+  "letter_id": "2",
+  "doc_type": "note",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-21",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Regierungskommission",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0180_a2",
+    "image": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 1,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 2",
+  "path": "documents/agad1174016-2.json",
+  "text_path": "text/agad1174016-2.txt",
+  "permalink": "/documents/agad1174016/2/"
+ },
+ {
+  "uid": "agad11740273-1",
+  "unit": "agad11740273",
+  "letter_id": "1",
+  "doc_type": "draft",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-21",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Regierungskommission",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 3,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a2",
+    "image": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 5,
+  "places_named": 1,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "draft 1",
+  "path": "documents/agad11740273-1.json",
+  "text_path": "text/agad11740273-1.txt",
+  "permalink": "/documents/agad11740273/1/"
+ },
+ {
+  "uid": "agad11740273-3",
+  "unit": "agad11740273",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-21",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Michalina Dąbska",
+  "recipient": "Napoleon",
+  "n_pages": 2,
+  "n_lines": 11,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a2",
+    "image": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0008_a1",
+    "image": "AGAD_1_174_0_2_73_0008_a1-L3_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 6,
+  "places_named": 1,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 3",
+  "path": "documents/agad11740273-3.json",
+  "text_path": "text/agad11740273-3.txt",
+  "permalink": "/documents/agad11740273/3/"
+ },
+ {
+  "uid": "agad11740273-4",
+  "unit": "agad11740273",
+  "letter_id": "4",
+  "doc_type": "letter",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "agad-warszawa",
+  "date_iso": "1807-07-23",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Dresden",
+  "sender": "Michalina Dąbska",
+  "recipient": "Regierungskommission",
+  "n_pages": 1,
+  "n_lines": 7,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0047_a2",
+    "image": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 1,
+  "estates": [
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 4",
+  "path": "documents/agad11740273-4.json",
+  "text_path": "text/agad11740273-4.txt",
+  "permalink": "/documents/agad11740273/4/"
+ },
+ {
   "uid": "oe1bu9454-28",
   "unit": "oe1bu9454",
   "letter_id": "28",
@@ -15582,7 +15841,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 4,
   "places_named": 2,
   "estates": [
    "zagorowo"
@@ -17486,7 +17745,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -23902,8 +24161,8 @@
   "uncertainty_count": 2,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 5,
-  "places_named": 4,
+  "mentions": 6,
+  "places_named": 5,
   "estates": [
    "trabczyn"
   ],
@@ -23915,6 +24174,482 @@
   "path": "documents/iiihamdaiiinr12366-6.json",
   "text_path": "text/iiihamdaiiinr12366-6.txt",
   "permalink": "/documents/iiihamdaiiinr12366/6/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-1",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "1",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1828-02-07",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Mohrenheim",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 8,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "III_HA_MdA_III_Nr_12367_0002_a-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 1",
+  "path": "documents/iiihamdaiiinr12367-1.json",
+  "text_path": "text/iiihamdaiiinr12367-1.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/1/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-4",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "4",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1830-02-20",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Mohrenheim",
+  "recipient": "Schmidt",
+  "n_pages": 3,
+  "n_lines": 11,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "",
+    "image": ""
+   },
+   {
+    "page": 2,
+    "page_id": "0005_a",
+    "image": "III_HA_MdA_III_Nr_12367_0005_a-L4_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0006_a",
+    "image": "III_HA_MdA_III_Nr_12367_0006_a-L4_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 4",
+  "path": "documents/iiihamdaiiinr12367-4.json",
+  "text_path": "text/iiihamdaiiinr12367-4.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/4/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-6",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "6",
+  "doc_type": "letter",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1830-09-22",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Lubecki",
+  "recipient": "Weigel",
+  "n_pages": 1,
+  "n_lines": 10,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0008_a",
+    "image": "III_HA_MdA_III_Nr_12367_0008_a-L6_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 6",
+  "path": "documents/iiihamdaiiinr12367-6.json",
+  "text_path": "text/iiihamdaiiinr12367-6.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/6/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-5",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "5",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1830-09-29",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0007_a",
+    "image": "III_HA_MdA_III_Nr_12367_0007_a-L5_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 5",
+  "path": "documents/iiihamdaiiinr12367-5.json",
+  "text_path": "text/iiihamdaiiinr12367-5.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/5/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-7",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "7",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1830-10-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Breslau",
+  "sender": "Weigel",
+  "recipient": "Lubecki",
+  "n_pages": 2,
+  "n_lines": 54,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0009_a1",
+    "image": "III_HA_MdA_III_Nr_12367_0009_a1-L7_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0009_a2",
+    "image": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 7",
+  "path": "documents/iiihamdaiiinr12367-7.json",
+  "text_path": "text/iiihamdaiiinr12367-7.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/7/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-8",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "8",
+  "doc_type": "letter",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1830-11-27",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Lubecki",
+  "recipient": "Weigel",
+  "n_pages": 2,
+  "n_lines": 5,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0009_a2",
+    "image": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0010_a",
+    "image": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 8",
+  "path": "documents/iiihamdaiiinr12367-8.json",
+  "text_path": "text/iiihamdaiiinr12367-8.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/8/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-9",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "9",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1831-12-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Fuhrmann",
+  "recipient": "Schmidt",
+  "n_pages": 2,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0011_a",
+    "image": "III_HA_MdA_III_Nr_12367_0011_a-L9_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0012_a",
+    "image": "III_HA_MdA_III_Nr_12367_0012_a-L9_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 2,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 9",
+  "path": "documents/iiihamdaiiinr12367-9.json",
+  "text_path": "text/iiihamdaiiinr12367-9.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/9/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-10",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "10",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1832-03-13",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Engel",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 6,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0013_a",
+    "image": "III_HA_MdA_III_Nr_12367_0013_a-L10_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 10",
+  "path": "documents/iiihamdaiiinr12367-10.json",
+  "text_path": "text/iiihamdaiiinr12367-10.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/10/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-11",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "11",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "1832-03-20",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Warschau",
+  "sender": "Fuhrmann",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 8,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0014_a",
+    "image": "III_HA_MdA_III_Nr_12367_0014_a-L11_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 11",
+  "path": "documents/iiihamdaiiinr12367-11.json",
+  "text_path": "text/iiihamdaiiinr12367-11.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/11/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-2",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "2",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "",
+  "date_precision": "unknown",
+  "date_source": "none",
+  "place": "Unknown",
+  "sender": "Mohrenheim",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 2,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0003_a",
+    "image": "III_HA_MdA_III_Nr_12367_0003_a-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 2",
+  "path": "documents/iiihamdaiiinr12367-2.json",
+  "text_path": "text/iiihamdaiiinr12367-2.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/2/"
+ },
+ {
+  "uid": "iiihamdaiiinr12367-3",
+  "unit": "iiihamdaiiinr12367",
+  "letter_id": "3",
+  "doc_type": "letter",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "gstapk-berlin",
+  "date_iso": "",
+  "date_precision": "unknown",
+  "date_source": "none",
+  "place": "Unknown",
+  "sender": "Mohrenheim",
+  "recipient": "Schmidt",
+  "n_pages": 1,
+  "n_lines": 2,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0004_a",
+    "image": "III_HA_MdA_III_Nr_12367_0004_a-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "letter 3",
+  "path": "documents/iiihamdaiiinr12367-3.json",
+  "text_path": "text/iiihamdaiiinr12367-3.txt",
+  "permalink": "/documents/iiihamdaiiinr12367/3/"
  },
  {
   "uid": "oe1bu14526-1",

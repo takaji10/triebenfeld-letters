@@ -1,0 +1,57 @@
+# Editorial rulings for AGAD 1/174/0/1/6.
+#
+# One document per register entry. Only the two entries the editor
+# transcribed are in the edition; they are numbered 1 and 2 in the order of
+# the volume. What each is, and why, is in notes.md. Established 2026-10-04.
+
+places:
+  # Place of issue, from each entry's own closing formula.
+  overrides:
+    "1": Warschau
+    "2": Dresden
+
+dates:
+  # [year, month, day, precision]; read off the entry's own closing formula.
+  read:
+    "1": [1807, 7, 12, "day"]      # "Działo się w Warszawie na Sessyi dnia 12 Lipca 1807."
+    "2": [1807, 7, 21, "day"]      # "Działo się w Dreznie na Sessyi dnia 21. Lipca 1807."
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # `note` is the vocabulary's word for an authority's own decree or minute
+  # (III. HA MdA, III Nr. 12765): here an order and a resolution of the
+  # commission, as copied into its register.
+  doc_type:
+    "1": note
+    "2": note
+
+  language:
+    "1": "pl"
+    "2": "pl"
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "2":
+      - kind: supplements
+        target: "1"
+        note: "Extends to three further owners the Emperor's decree of 5 June 1807 for Wybicki ('Wyrok N° Cesarza JW° Wybickiemu służący'), whose execution document 1 orders."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml.
+  # The order of 12 July concerns Wybicki's estates only.
+  estates:
+    "2": [trabczyn, kamionno]
+
+damage:
+  letters: []
+
+rough:
+  letters: []
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0028_a2", "0029_a1", "0180_a2"]

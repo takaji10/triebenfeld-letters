@@ -331,7 +331,9 @@ def load_rulings(unit):
         'ROUGH_LETTERS':  {str(x) for x in ((r.get('rough') or {}).get('letters') or [])},
         # Pages transcribed by paragraph rather than line by line, by page id:
         # each line of the corpus is a whole paragraph of the manuscript, so
-        # each begins one in the reading text and the page says so.
+        # each begins one in the reading text and the page says so. Where a
+        # page holds two documents and only one was taken down by paragraph,
+        # the entry is "<document>:<page id>" ("8:0009_a2").
         'BY_PARAGRAPH':   {str(x) for x in ((r.get('pages') or {}).get('by_paragraph') or [])},
     }
 

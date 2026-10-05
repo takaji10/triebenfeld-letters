@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 267
+  docs: 268
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 84
+  docs: 85
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -131,7 +131,7 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 19
+  docs: 20
 - id: "morgen"
   kind: "money"
   lang: "de"
@@ -245,7 +245,7 @@
   initial_en: "B"
   sort_de: "scheffel"
   initial_de: "S"
-  docs: 4
+  docs: 5
 - id: "vorwerk"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 22
+  docs: 23
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -530,7 +530,7 @@
   initial_en: "V"
   sort_de: "taxe"
   initial_de: "T"
-  docs: 44
+  docs: 46
 - id: "competenz"
   kind: "land"
   lang: "de_la"
@@ -549,7 +549,7 @@
   initial_en: "C"
   sort_de: "competenz"
   initial_de: "C"
-  docs: 27
+  docs: 28
 - id: "pertinenz"
   kind: "land"
   lang: "de_la"
@@ -739,7 +739,7 @@
   initial_en: "S"
   sort_de: "sequestration"
   initial_de: "S"
-  docs: 37
+  docs: 38
 - id: "execution"
   kind: "law"
   lang: "de_la"
@@ -758,7 +758,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 60
+  docs: 61
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -815,7 +815,7 @@
   initial_en: "P"
   sort_de: "vollmacht"
   initial_de: "V"
-  docs: 59
+  docs: 60
 - id: "bevollmaechtigter"
   kind: "law"
   lang: "de"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 54
+  docs: 55
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 75
+  docs: 76
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -1328,7 +1328,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 90
+  docs: 89
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1347,7 +1347,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 39
+  docs: 44
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 44
+  docs: 46
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1651,7 +1651,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 343
+  docs: 344
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 349
+  docs: 348
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1803,7 +1803,7 @@
   initial_en: "P"
   sort_de: "pp., p."
   initial_de: "P"
-  docs: 80
+  docs: 81
 - id: "geruhen"
   kind: "phrase"
   lang: "de"
@@ -1917,7 +1917,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 38
+  docs: 39
 - id: "d-j"
   kind: "phrase"
   lang: "de"
@@ -1936,7 +1936,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 34
+  docs: 36
 - id: "pct"
   kind: "phrase"
   lang: "la"
@@ -1955,7 +1955,7 @@
   initial_en: "P"
   sort_de: "pct., pro cent"
   initial_de: "P"
-  docs: 25
+  docs: 26
 - id: "south-prussia"
   kind: "event"
   lang: "de"

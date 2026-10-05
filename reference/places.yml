@@ -294,7 +294,9 @@ places:
     # Kulm is Kolno: "dem Marktflecken Kolno oder Kulm" (14525 line 1272), the market
     # town bordering Kaemen to the north (14525 line 1444). Merged from the old kulm
     # entry, editor 2026-09-28.
-    match: 'Kolno\b|Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
+    # Kolna is the Polish genitive, in Michalina Dąbska's petition of 1807
+    # (AGAD 1/174/0/2/73): "Kamionna, Kolna, Pawłowa".
+    match: 'Kolno\b|(?<=Kamionna, )Kolna\b|Kulm(?:ner|schen|ische\w*)?(?![a-zà-ÿ])|Culm(?![a-zà-ÿ])'
     tier: "Book-confirmed"
     variants:
       - "Kollno"
@@ -441,7 +443,8 @@ places:
   dresden:
     display: "Dresden"
     kind: city
-    match: 'Dre(?:ß|ss|s)den\w*'
+    # Dreznie and Drezno in the Polish documents, Dresde in the French.
+    match: 'Dre(?:ß|ss|s)den\w*|Drezn\w*|Dresde(?![a-zà-ÿ])'
     tier: "Established"
     variants: ["Dreßden"]
 
@@ -1211,7 +1214,9 @@ places:
     render: "Warsaw"
     kind: city
     # Varsovie in the French documents (III. HA MdA, III Nr. 12765 and 12366).
-    match: 'Warschau\w*|Varsovie|Warsovie'
+    # Warszawa in the Polish documents, in the forms of the noun only: the
+    # adjective (Departament Warszawski) names the department, not the city.
+    match: 'Warschau\w*|Varsovie|Warsovie|Warszaw(?:a|y|ie|ę|ą)(?![a-zà-ÿ])'
     tier: "Established"
     variants: []
 

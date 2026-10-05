@@ -162,12 +162,14 @@ Sources: Oe 1 U 199; Oe 1 Bü 9454 where the letters touch it.
 ### V. War, and the loss of the estates, 1806 to 1807 (*written*)
 
 Jena and Prenzlau in a sentence each, and what the letters say (letter 26).
-Tilsit; the Duchy of Warsaw; the governing commission's transfer of the
-estates to Michalina Prusimska fourteen weeks after the peace, without a
+Tilsit; the Duchy of Warsaw; Michalina Dąbska's petitions at Dresden and the
+Governing Commission's resolution of 21 July 1807 (added 2026-10-04); the
+transfer of the estates to her fourteen weeks after the peace, without a
 judgment. The patrimonial court still issuing settlers their papers in January
 1808. Her tenure after this is the restitution era's, linked.
 
-Sources: Oe 1 Bü 9454 (letters 26, 27, 28, 265b); Nr. 12765 (the petition of
+Sources: AGAD 1/174/0/2/73 and 1/174/0/1/6 (the petitions and the resolution
+of July 1807); Oe 1 Bü 9454 (letters 26, 27, 28, 265b); Nr. 12765 (the petition of
 March 1815, which states the sequence); Oe 1 Bü 14526 (contracts 6 and 7).
 
 Incoming: *Hohenlohe operations after Jena* gives one or two sentences at
@@ -203,16 +205,19 @@ Sources: Oe 1 Bü 9454 (the Vienna letters, letter 303); Nr. 12765.
 
 Incoming: *Claims of Hohenlohe on Trabczyn* is Nr. 12765, already in.
 
-### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1827 (*written*)
+### VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1832 (*written*)
 
 His death in 1818; the heirs' claim recommended by Duke Eugen of Württemberg;
 Alopeus's answer of 31 January 1820 that it had been refused in 1816; the
 ministry's last step. Short. Then the debts he left on Trąbczyn: Miączyńska's
 request of 1819 that Prussia pay them, the refusal, and the Polish judgments
 of 1819 to 1827 that struck out the mortgages of Weigel, the Lichnowski
-brothers and Grotowski's widow (added 2026-10-04).
+brothers and Grotowski's widow (added 2026-10-04). Last, Prussia's effort at
+Warsaw from 1828 to 1832 to have Weigel compensated: Mohrenheim's answers,
+Lubecki's exchange with Weigel over the sum, and the valuation ordered again
+after the rising (added 2026-10-04).
 
-Sources: Nr. 12765 (documents 27 and 29); III. HA MdA, III. Nr. 12366.
+Sources: Nr. 12765 (documents 27 and 29); III. HA MdA, III. Nr. 12366 and Nr. 12367.
 
 ### The people you will keep meeting (*written*)
 
@@ -242,7 +247,7 @@ some cut short). "In" means already in the edition.
 | Capital on the Zagorow estates | to add | III |
 | Hohenlohe operations after Jena | to add | V, a sentence at most |
 | Biography of Hohenlohe (IV. HA) | to add | Opening, for his life; not a source for the estates |
-| Klage der Gräfin Michalina von Miac... (two) | one in: III. HA MdA, III. Nr. 12366 (1818-1827), placed in the Hohenlohe era for now; the other to add | VIII; the editor to confirm the era (Hohenlohe or restitution) |
+| Klage der Gräfin Michalina von Miac... (two) | both in: III. HA MdA, III. Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832), placed in the Hohenlohe era for now | VIII; the editor to confirm the era (Hohenlohe or restitution) |
 | Miaczynska compensation for confisc... | to add | VI or VII, or the restitution era: confirm |
 
 ## When a holding is added

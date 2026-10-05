@@ -1,0 +1,109 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: agad11740273
+ref: 1/174/0/2/73
+archive: Archiwum Główne Akt Dawnych, Warszawa (AGAD)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  Four papers of July 1807 from the files of the Governing Commission, the
+  provisional Polish government set up under Napoleon, while it sat at
+  Dresden: Michalina Dąbska, born Prusimska, petitions the commission and the
+  Emperor for the return of her father's confiscated estates, among them
+  Trąbczyn, which Prussia had given to Prince Friedrich Ludwig of
+  Hohenlohe-Ingelfingen, and the commission resolves on 21 July 1807 that
+  they are to go back to her.
+title_de: >-
+  Vier Stücke vom Juli 1807 aus den Akten der Regierungskommission, der unter
+  Napoleon eingesetzten provisorischen polnischen Regierung, während ihres
+  Aufenthalts in Dresden: Michalina Dąbska, geborene Prusimska, bittet die
+  Kommission und den Kaiser um die Rückgabe der konfiszierten Güter ihres
+  Vaters, darunter Trąbczyn, die Preußen dem Fürsten Friedrich Ludwig zu
+  Hohenlohe-Ingelfingen geschenkt hatte, und die Kommission beschließt am
+  21. Juli 1807, dass sie an sie zurückfallen.
+# The archive's own title of the file. Kept for reference; nothing displays it.
+archive_title: >-
+  Akta Komisji Rządzącej pod bytność jej w Dreźnie
+# The four pieces are dated 20 to 23 July 1807.
+date_span: "1807"
+status: transcribed        # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. Placed with the
+# Hohenlohe-Ingelfingen years for now, as the act that ended his possession;
+# by the definitions in eras.yml it could open the restitution era, which the
+# editor has still to rule on (docs/NEEDS_CONFIRMATION.md).
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: agad-warszawa
+
+# Five images, each an opening of which one side is wanted (editor,
+# 2026-10-04); intake/build_pages.py cuts that side out into
+# raw_dir/processed/ and records the boxes. Page ids follow the images: leaf 5
+# is 0005_a2, leaf 7 is 0006_a2, leaf 8 is 0007_a2 and, its back, 0008_a1;
+# the petition of 23 July is 0047_a2. The five long-named images in the
+# folder are the same five again and are not used.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Central Archives of Historical Records in Warsaw (AGAD)/Akta Komisji Rządzącej pod bytność jej w Dreźnie (1.174.0.2.73)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: AGAD_1_174_0_2_73
+
+# One file per page, named by page id (0005_a2.txt). Made from the editor's
+# single Markdown transcription by intake/build_pages.py, which also cuts the
+# page images and records where the text was cut.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Four papers from the files of the Governing Commission (Komisja Rządząca),
+  the provisional government of the Polish lands taken from Prussia in the
+  war of 1806 and 1807, written while the commission was at Dresden in July
+  1807. Michalina Dąbska, born Prusimska, the daughter of the Starost Antoni
+  Prusimski, asks for the estates Prussia confiscated from her father and
+  gave to Prussian generals: Trąbczyn in the department of Kalisz, and
+  Kamionna, Kolno, Pawłowo and other property in the department of Poznań.
+  She petitions the commission in Polish on 20 July and the Emperor Napoleon
+  in French on 21 July, pointing to his decree of 5 June 1807 that restored
+  the estates of Józef Wybicki, a member of the commission. The commission's
+  draft resolution of 21 July 1807 extends that decree to her, to General
+  Niemojewski and to Wichrowski. On 23 July she asks the commission to have
+  its resolution carried out as the decree for Wybicki was, by an order to
+  the administrative chambers to put her in possession. Three documents are
+  Polish and one is French; each petition carries the commission's note of
+  the day it was presented.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Polish in the spelling of 1807 (y and i for j, as in "Rządzącey", "iaki";
+  accents often omitted), and one petition in French. The text is transcribed
+  by paragraph, not line by line. Abbreviated forms of address stand as
+  written: "JW." is Jaśnie Wielmożny, "JP." and "JPani" Jaśnie Pan and Jaśnie
+  Pani, "N° Cesarza" Nayiaśnieyszego Cesarza (the Most Serene Emperor,
+  Napoleon), "Jego C°K. Mość" His Imperial and Royal Majesty, "W. X[ię]cia
+  Dyrektora Woyny" the Prince Director of War, "JMci Panu" and "JWWMci Panu"
+  forms of "Sir" in an address, "a. c." of this year. "Kommissya Rządząca" is
+  the Governing Commission. "Dambska" and "Dąbska" are one name, her first
+  married name. "Zanitz" is the Prussian general von Sanitz. Document 1 is a
+  draft with words struck out and written in; the transcription gives the
+  text as corrected. The line beginning "Presentatum" or "Praesent." at the
+  foot of a petition is the commission's note of the day it was presented,
+  and "St[anisław] Mał[achowski]" the paraph of its president. A word followed
+  by [?] is one the transcriber was unsure of.

@@ -506,6 +506,29 @@
     Hohenlohe-Ingelfingens liegen nun in einem fremden Staat.
   source_de: "allgemeine Geschichte"
 
+- date: 1807-07-21
+  title: "The Governing Commission returns the estates to Prusimski's daughter"
+  note: >-
+    Michalina Dąbska, born Prusimska, is at Dresden, where the provisional Polish government is
+    meeting Napoleon. She petitions the commission and the Emperor for her father's confiscated
+    estates and points to Napoleon's decree of 5 June, which gave Józef Wybicki his estates back.
+    On 21 July the commission extends that decree to her: the estates are to return to their
+    true owners. The resolution names no estate and says nothing of the debts
+    Hohenlohe-Ingelfingen has secured on them.
+  kind: estate
+  source: "the Governing Commission's papers from Dresden, 1 to 4, and its register, 2"
+  title_de: Die Regierungskommission gibt die Güter der Tochter Prusimskis zurück
+  note_de: >-
+    Michalina Dąbska, geborene Prusimska, ist in Dresden, wo die provisorische polnische
+    Regierung mit Napoleon zusammentrifft. Sie bittet die Kommission und den Kaiser um die
+    konfiszierten Güter ihres Vaters und beruft sich auf Napoleons Dekret vom 5. Juni, das
+    Józef Wybicki seine Güter zurückgab. Am 21. Juli dehnt die Kommission dieses Dekret auf
+    sie aus: Die Güter sollen an ihre wahren Eigentümer zurückfallen. Der Beschluss nennt
+    kein Gut und sagt nichts über die Schulden, die Hohenlohe-Ingelfingen darauf hat
+    eintragen lassen.
+  source_de: "die Dresdner Akten der Regierungskommission, 1 bis 4, und ihr Register, 2"
+  refs: ["agad11740273/2", "agad11740273/3", "agad11740273/1", "agad11740273/4", "agad1174016/2"]
+
 - date: 1807-10-05
   title: "Trąbczyn is handed to Prusimski's daughter"
   note: >-
@@ -1050,3 +1073,72 @@
     seinem Titel hinfällig geworden.
   source_de: "die Akte des Außenministeriums über die Forderung der Miączyńska, 6"
   refs: ["iiihamdaiiinr12366/6"]
+
+- date: 1830-02-20
+  title: The Polish government questions its courts' judgment against Weigel
+  note: >-
+    Baron Mohrenheim, who directs Grand Duke Constantine's diplomatic chancellery at Warsaw,
+    tells the Prussian consul general Schmidt that the Administrative Council has recognised
+    that the competence of the courts which struck out Weigel's mortgage is open to question,
+    because the case can be resolved only by diplomatic means. The Council has authorised the
+    finance commission to declare a conflict of jurisdiction. An undated note from him says
+    the council agreed unanimously that payment must be made.
+  kind: political
+  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 2 and 4"
+  title_de: Die polnische Regierung stellt das Urteil ihrer Gerichte gegen Weigel in Frage
+  note_de: >-
+    Baron Mohrenheim, der in Warschau die diplomatische Kanzlei des Großfürsten Konstantin
+    leitet, teilt dem preußischen Generalkonsul Schmidt mit, der Administrationsrat habe
+    anerkannt, dass die Zuständigkeit der Gerichte, die Weigels Hypothek löschen ließen, in
+    Frage gestellt werden könne, weil der Fall nur auf diplomatischem Weg zu lösen sei. Der Rat
+    hat die Finanzkommission ermächtigt, einen Zuständigkeitskonflikt zu erklären. Ein
+    undatiertes Billett von ihm sagt, der Rat habe einstimmig anerkannt, dass gezahlt werden
+    müsse.
+  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 2 und 4"
+  refs: ["iiihamdaiiinr12367/2", "iiihamdaiiinr12367/4"]
+
+- date: 1830-09-22
+  title: The Polish finance minister disputes the sum Weigel asks
+  note: >-
+    Weigel asks the Kingdom of Poland for 63,100 thalers: the 30,000 he lent
+    Hohenlohe-Ingelfingen on Trąbczyn, with interest and costs. The minister of finance, Prince
+    Lubecki, finds the sum excessive and has the estates valued, to compensate the loss really
+    suffered. Weigel answers from Wrocław that by the mortgage certificate and the court
+    valuation of 1803 his loan was fully covered. On 27 November Lubecki replies that land was
+    overvalued in 1803 and that he will wait for the new valuation.
+  kind: estate
+  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 6 to 8"
+  title_de: Der polnische Finanzminister bestreitet die Summe, die Weigel verlangt
+  note_de: >-
+    Weigel verlangt vom Königreich Polen 63.100 Taler: die 30.000, die er Hohenlohe-Ingelfingen
+    auf Trąbczyn geliehen hat, mit Zinsen und Kosten. Der Finanzminister, Fürst Lubecki, hält
+    die Summe für überhöht und lässt die Güter schätzen, um den wirklich erlittenen Verlust zu
+    ersetzen. Weigel antwortet aus Wrocław (Breslau), nach dem Hypothekenschein und der
+    gerichtlichen Taxe von 1803 sei sein Darlehen voll gedeckt gewesen. Am 27. November
+    erwidert Lubecki, 1803 sei Land zu hoch geschätzt worden, und er warte die neue Schätzung
+    ab.
+  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 6 bis 8"
+  refs: ["iiihamdaiiinr12367/6", "iiihamdaiiinr12367/7", "iiihamdaiiinr12367/8"]
+
+- date: 1832-03-20
+  title: Trąbczyn is to be valued again after the rising
+  note: >-
+    After the Polish rising of 1830 and 1831 the Prussian consul general takes up Weigel's
+    claim again. The head of the finance commission at Warsaw reports that a commissioner of
+    the state domains, Drake, was charged on 29 February with valuing the Trąbczyn estates.
+    A week earlier the president of the provisional government, Engel, wrote that the
+    president of the Bank of Poland, Lubowidzki, had been charged with settling the claim.
+    The scans end here and do not show whether Weigel was paid.
+  kind: political
+  source: "the second volume of the foreign ministry's file on Miączyńska's claim, 9 to 11"
+  title_de: Trąbczyn soll nach dem Aufstand erneut geschätzt werden
+  note_de: >-
+    Nach dem polnischen Aufstand von 1830 und 1831 nimmt der preußische Generalkonsul Weigels
+    Forderung wieder auf. Der Leiter der Finanzkommission in Warschau berichtet, ein Kommissar
+    der Staatsdomänen, Drake, sei am 29. Februar mit der Schätzung der Güter von Trąbczyn
+    beauftragt worden. Eine Woche zuvor hatte der Präsident der Provisorischen Regierung,
+    Engel, geschrieben, der Präsident der Bank von Polen, Lubowidzki, sei mit der Regelung
+    der Forderung beauftragt. Hier enden die Aufnahmen; sie zeigen nicht, ob Weigel bezahlt
+    wurde.
+  source_de: "der zweite Band der Akte des Außenministeriums über die Forderung der Miączyńska, 9 bis 11"
+  refs: ["iiihamdaiiinr12367/9", "iiihamdaiiinr12367/10", "iiihamdaiiinr12367/11"]

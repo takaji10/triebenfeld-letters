@@ -368,7 +368,8 @@ for L in nums:
     # A page transcribed by paragraph says so, so the reader does not take its
     # numbered lines for the lines of the manuscript.
     for _p in pages:
-        if _p['page_id'] in _R['BY_PARAGRAPH']:
+        if (_p['page_id'] in _R['BY_PARAGRAPH']
+                or f"{L}:{_p['page_id']}" in _R['BY_PARAGRAPH']):
             _p['by_paragraph'] = True
     # Which photograph each page is. The field has existed since pages were
     # first built and was never filled, so everything derived from the record -

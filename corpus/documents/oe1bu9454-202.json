@@ -88,6 +88,17 @@
    "doc_line": 11
   },
   {
+   "entity": "bischoffwerder",
+   "display": "Bischoffwerder",
+   "kind": "person",
+   "surface": "Bischoffswerders",
+   "page": 1,
+   "page_id": "0381_a",
+   "scan": "Oe_1_Bu_9454_0381_a-L202_01.jpg",
+   "line": 14472,
+   "doc_line": 17
+  },
+  {
    "entity": "eysenhardt",
    "display": "Eysenhardt",
    "kind": "person",
@@ -160,8 +171,8 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Bischoffswerder",
+   "entity": "bischoffwerder",
+   "display": "Bischoffwerder",
    "kind": "person",
    "surface_de": "Bischoffswerders",
    "surface_en": "Bischoffswerder",

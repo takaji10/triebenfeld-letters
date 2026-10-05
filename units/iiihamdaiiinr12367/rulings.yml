@@ -1,0 +1,108 @@
+# Editorial rulings for III. HA MdA, III. Nr. 12367 (GStA PK).
+#
+# One document per letter, as in III. HA MdA, III Nr. 12765 and Nr. 12366. The
+# archive numbers nothing in these scans, so documents are numbered 1-11 in
+# the order they are bound; the cover (0001) is front matter. What each
+# document is, and why, is in notes.md. Established 2026-10-04.
+
+places:
+  # Place of writing, from each document's own dateline. Baron Mohrenheim's
+  # two notes (2 and 3) name no place: the first is written "en partant", as
+  # he leaves, the second from somewhere he calls "ici".
+  overrides:
+    "1": Warschau
+    "4": Warschau
+    "5": Warschau
+    "6": Warschau
+    "7": Breslau
+    "8": Warschau
+    "9": Warschau
+    "10": Warschau
+    "11": Warschau
+
+dates:
+  # [year, month, day, precision]; read off the document's own dateline. The
+  # letters from the Russian side are dated in both calendars and take the
+  # western date.
+  read:
+    "1": [1828, 2, 7, "day"]       # "Varsovie le 26 Janvier / 7. Février 1828"
+    "4": [1830, 2, 20, "day"]      # "Varsovie le 8/20 février 1830"
+    "5": [1830, 9, 29, "day"]      # "Varsovie le 29 7bre 1830"
+    "6": [1830, 9, 22, "day"]      # "w Warszawie d. 22 Wrzes. 1830"
+    "7": [1830, 10, 14, "day"]     # "Breslau d. 14 Octbre 1830."
+    "8": [1830, 11, 27, "day"]     # "w Warszawie d. 27 List. 1830"
+    "9": [1831, 12, 14, "day"]     # "Varsovie le 2/14 Decembre 1831"
+    "10": [1832, 3, 13, "day"]     # "Varsovie le 1/13 Mars 1832"
+    "11": [1832, 3, 20, "day"]     # "Varsovie le 8/20 mars 1832"
+  supplied: {}
+  twin: {}
+  inferred: {}
+  # Baron Mohrenheim's two notes. Both are bound between his letters of 7
+  # February 1828 and 20 February 1830. The first reports what the letter of
+  # 1830 says the Administrative Council laid before the Grand Duke in August
+  # 1829, so it is probably of 1829; the second is dated "Mardi" (Tuesday)
+  # and nothing more. Neither year is stated, so neither is assigned.
+  no_date: ["2", "3"]
+
+documents:
+  # All eleven are letters. Four are copies (6, 7 and 8, the exchange between
+  # Prince Lubecki and Weigel, headed "Abschrift" or signed "sig."; 10, headed
+  # "Copie", "signé Engel"); the vocabulary keeps a copied letter as `letter`,
+  # as in Nr. 12366.
+  doc_type: {}
+
+  language:
+    "1": "fr"
+    "2": "fr"
+    "3": "fr"
+    "4": "fr"
+    "5": "fr"
+    "6": "pl"
+    "8": "pl"
+    "9": "fr"
+    "10": "fr"
+    "11": "fr"
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "7":
+      - kind: answers
+        target: "6"
+        note: "Weigel replies 'auf die hohe Eröffnung vom 22 v. M. No. 59607/938', the minister's letter of 22 September 1830."
+    "8":
+      - kind: answers
+        target: "7"
+        note: "The minister answers the papers Weigel sent 'przy swem podaniu daty 14 Oktobra 1830', with his letter of 14 October."
+
+  # The estate each document is ABOUT, as slugs from reference/places.yml:
+  # every piece concerns Weigel's mortgage on Trąbczyn.
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn]
+    "3": [trabczyn]
+    "4": [trabczyn]
+    "5": [trabczyn]
+    "6": [trabczyn]
+    "7": [trabczyn]
+    "8": [trabczyn]
+    "9": [trabczyn]
+    "10": [trabczyn]
+    "11": [trabczyn]
+
+damage:
+  letters: []
+
+rough:
+  letters: []
+
+pages:
+  # The editor's transcription is by paragraph, not by line, except for
+  # Weigel's German letter (0009 left and the top of 0009 right), which
+  # follows the lines of the manuscript. 0009 right holds the end of that
+  # letter and the head of document 8, which is by paragraph: "8:0009_a2"
+  # names the page for that document alone.
+  by_paragraph: ["0002_a", "0003_a", "0004_a", "0005_a", "0006_a", "0007_a",
+                 "0008_a", "8:0009_a2", "0010_a", "0011_a", "0012_a", "0013_a",
+                 "0014_a"]

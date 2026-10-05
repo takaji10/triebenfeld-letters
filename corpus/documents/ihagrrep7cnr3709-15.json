@@ -266,6 +266,17 @@
    "scan": "I_HA_Rep_7_C_Nr_3709_0020_a2-L15_01.jpg",
    "line": 557,
    "doc_line": 21
+  },
+  {
+   "entity": "dresden",
+   "display": "Dresden",
+   "kind": "place",
+   "surface": "Dresde",
+   "page": 2,
+   "page_id": "0021_a1",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0021_a1-L15_02.jpg",
+   "line": 574,
+   "doc_line": 37
   }
  ],
  "translation_status": "draft",

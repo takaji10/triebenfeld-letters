@@ -262,7 +262,15 @@ Prenzlau betrafen, ist aus dem Datum erschlossen; der Brief nennt die Schlacht n
 {: .pull}
 
 Im Frieden von Tilsit im Juli 1807 trat Preußen Südpreußen ab, und daraus wurde das Herzogtum
-Warschau gebildet. Am 5. Oktober 1807 meldete der Gutsbeamte Hawich aus Pyzdry, die
+Warschau gebildet. Die Provinz wurde einstweilen von der Regierungskommission verwaltet, einer
+provisorischen polnischen Regierung, die Napoleon im Januar eingesetzt hatte. Prusimskis
+Tochter Michalina Dąbska folgte ihr nach Dresden. Am 20. und 21. Juli bat sie
+[die Kommission]({{ '/documents/agad11740273/2/' | relative_url }}) und
+[den Kaiser]({{ '/documents/agad11740273/3/' | relative_url }}) um die Güter ihres Vaters und berief
+sich auf ein Dekret Napoleons, das Józef Wybicki, einem Mitglied der Kommission, seine
+konfiszierten Güter zurückgegeben hatte. Am 21. Juli 1807
+[dehnte die Kommission dieses Dekret auf sie aus]({{ '/documents/agad1174016/2/' | relative_url }}): Die
+Güter sollten an ihre wahren Eigentümer zurückfallen. Am 5. Oktober 1807 meldete der Gutsbeamte Hawich aus Pyzdry, die
 Trąbczyner Güter seien
 [von einem Appellationsrichter aus Kalisz übernommen]({{ '/documents/oe1bu9454/28/' | relative_url }})
 und den Erben des früheren Besitzers übergeben worden; zwei Wochen später schrieb Triebenfeld,
@@ -446,7 +454,7 @@ eine *Frau Charlotte von Triebenfeld* mit 112.000 Reichstalern, derselben Summe 
 Vorschuss, der sich durch den Briefwechsel zieht. Ob es dieselben 112.000 sind und ob diese
 Charlotte die Tochter ist, die Brief 7 schrieb, sagen die Dokumente nicht.
 
-## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1827
+## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1832
 
 Hohenlohe-Ingelfingen starb 1818 in Sławięcice in Oberschlesien. Seine Erben erneuerten die
 Forderung, und Herzog Eugen von Württemberg empfahl sie der russischen Regierung unter Hinweis
@@ -468,7 +476,18 @@ Kaufmanns in Wrocław (Breslau), löschen, und das Obertribunal in Warschau best
 Außenminister, es aufheben zu lassen ([Note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). Eine
 Antwort enthält die Akte nicht. Im Juli 1827 ließ das Tribunal in Kalisz auch die Hypotheken der
 Brüder Lichnowski und der Witwe Grotowski löschen
-([Urteil]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})). Es ist das letzte Dokument der Epoche.
+([Urteil]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})).
+
+Preußen betrieb Weigels Sache in Warschau weiter durch seinen Generalkonsul Schmidt. Baron
+Mohrenheim, der die diplomatische Kanzlei des Großfürsten Konstantin leitete, teilte ihm mit,
+der Rat habe anerkannt, dass gezahlt werden müsse ([Billett]({{ '/documents/iiihamdaiiinr12367/2/' | relative_url }})), und im Februar
+1830, der Administrationsrat halte die Zuständigkeit der Gerichte für zweifelhaft
+([Schreiben]({{ '/documents/iiihamdaiiinr12367/4/' | relative_url }})). Weigel verlangte 63.100 Taler. Im September 1830 nannte der
+Finanzminister, Fürst Lubecki, die Summe überhöht und ließ die Güter schätzen
+([Schreiben]({{ '/documents/iiihamdaiiinr12367/6/' | relative_url }})); Weigel antwortete, nach der Taxe von 1803 sei sein Darlehen gedeckt
+gewesen ([Antwort]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). Der Aufstand vom November 1830 unterbrach die Sache. Im März
+1832 wurde die Schätzung von Trąbczyn erneut angeordnet ([Schreiben]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). Die bisher
+veröffentlichten Dokumente zeigen nicht, ob Weigel bezahlt wurde.
 
 ## Die Personen, denen Sie immer wieder begegnen
 
