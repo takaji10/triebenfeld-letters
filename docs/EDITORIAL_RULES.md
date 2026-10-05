@@ -134,6 +134,14 @@ than where it sits.
   machine misreading of the numeral, not a scribe's lapse.
 - Some German documents carry a few lines of **Polish**, and they are source
   text: translate them, do not treat them as corrupt German.
+- **Struck-out text is not transcribed** (editor, 2026-10-05). Where a writer
+  struck words out, the edition gives the text as he corrected it and leaves
+  the deleted words out. A deletion that matters to the sense is described in
+  the holding's notes; it is not printed.
+- **A translation of the time written beside a document is not transcribed**
+  where the original is given (editor, 2026-10-05, on the German columns
+  beside the Polish letters of III. HA MdA, III. Nr. 12367: "the Polish is
+  enough"). It may still be used as a witness for the original.
 - `Tromczin` is **Trąbczyn**.
 - **Kurrent minims: `nw` reads as `mr` or `mw`.** `n` is two minims and `w`
   adds two more, so the run in `Anweisung` resolves as readily to `Amreisung`

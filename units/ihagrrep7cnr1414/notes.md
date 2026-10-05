@@ -135,8 +135,19 @@ had left open whether it belongs to the boundary era instead; it does not:
 the papers are of 1796 and 1797 and concern Prusimski after the
 confiscation.
 
+## The editor's rulings (2026-10-05)
+
+- Raumer, Goldbeck and Haugwitz stand as corrected.
+- The first signature under the draft, "[Alvensleben?]": the editor asked
+  to see it. One question on a spot sheet (`intake/open_queries.csv`,
+  copied to `review/ihagrrep7cnr1414/`; `queries.py --unit
+  ihagrrep7cnr1414`).
+- The papers are not filed under any estate: `estates` stays empty for all
+  three documents. (The editor wrote "Don't associate Venice papers with a
+  spot sheet", answering the question whether they should be filed under
+  Trąbczyn; taken as "with an estate".)
+
 ## Still to do
 
-- The editor's eye on three identifications: Raumer, Goldbeck, and the first
-  signature under the draft (`intake/unresolved.md`).
+- The editor's answer on the spot sheet for "[Alvensleben?]".
 - The English has not been read against the scans.

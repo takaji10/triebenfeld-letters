@@ -190,8 +190,16 @@ shape of the signature, since the 1800 list is garbled at one name.
 German summaries were written in the session from a reading of each document
 against its scan, and the English translated from them
 (`intake/summaries_draft.py`, which writes `summaries_de.yml` and the cache
-records `summarise.py --build` publishes). **They have not had the paid claim
-check** (`read_letters.py --verify`), and there is no `reading.json`.
+records `summarise.py --build` publishes). There is no `reading.json`.
+
+**Claim check (2026-10-05, in session, at the editor's request):**
+`intake/claim_check.yml`, 67 statements, 65 supported, 2 overstated and
+weakened in both languages. Document 5: the office mark "d. 2. Dec 1800." is
+a bare date, not a note of receipt (on document 1 the same kind of mark is
+the report's own date), so the summary now says the office marked it with
+that date. Document 15: the referral to Minister von der Reck names no
+office, so "the Cabinet" became a passive, in the summary and in `about.md`
+and `about_de.md`.
 
 `site/_data/summaries_de.yml` was not rebuilt from the local cache: the
 committed file carries name corrections made in the cloud that the cache on
@@ -225,7 +233,6 @@ sheet is rebuilt by `intake/signature_sheet.py` and needs the page images.
   check_translations.py (9 rows, none blocking) and published. Not the paid
   run: if the editor wants the model's own translation for comparison,
   translate.py --unit ihagrrep7cnr3709 --all will overwrite the cache.
-- The claim check of the German summaries (paid), if the editor wants it.
 - The editor's eye on the signatures sheet and on `unresolved.md`.
 - Glossary candidates: done; the 16 words ruled under excluded: in
   reference/glossary.yml.

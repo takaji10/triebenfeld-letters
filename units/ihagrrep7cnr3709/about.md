@@ -16,7 +16,7 @@ Prusimska, through her guardian, sued Hohenlohe-Ingelfingen before the Governmen
 
 **The order comes too late.** The Government at Poznań reported on 18 December that it had already given judgment on 9 December, as the King's order of July had required speed [[12]]. The rescript to Warsaw was withdrawn [[13]] and the Prince informed that the appeal would still go to the Kammergericht [[14]]. The judgment itself is not in the file, and the file does not say how the court decided.
 
-**Prusimska's petition, January 1802.** From Dresden, on 22 January 1802, Prusimska asked the King in French to hasten the appeal. The Cabinet passed the petition to Minister von der Reck, who had her told on 29 January that she could expect the appeal judgment to be published [[15]].
+**Prusimska's petition, January 1802.** From Dresden, on 22 January 1802, Prusimska asked the King in French to hasten the appeal. The petition was passed to Minister von der Reck, who had her told on 29 January that she could expect the appeal judgment to be published [[15]].
 
 ### Related holdings
 

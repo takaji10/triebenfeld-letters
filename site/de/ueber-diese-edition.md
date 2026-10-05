@@ -173,7 +173,7 @@ sie nicht zum Text gehören.
 | `(missing)` / `(skipped)` | Die Archivnummer besteht, doch unter ihr ist kein Text überliefert. |
 | `ſ` | Das lange s, wie im Original geschrieben. |
 
-Im Korpus stehen **610** Zweifelszeichen in 234 Dokumenten: 391 `[?]`, 114 als `[word?]`
+Im Korpus stehen **611** Zweifelszeichen in 234 Dokumenten: 390 `[?]`, 116 als `[word?]`
 angebotene Vermutungen und 105 Lücken. Sie bleiben im Text jedes betroffenen Dokuments
 sichtbar, statt geglättet zu werden, und sind noch an den Originalen zu prüfen.
 

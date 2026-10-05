@@ -27,7 +27,7 @@ Die Prusimska klagte durch ihren Vormund vor der Regierung in Poznań (Posen) ge
 
 **Die Verfügung kommt zu spät.** Die Regierung in Poznań berichtete am 18. Dezember, sie habe schon am 9. Dezember geurteilt, da die Ordre des Königs vom Juli Eile verlangt habe <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/12/' | relative_url }}">12</a>]</span>. Das Reskript an die Regierung in Warschau wurde zurückgenommen <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/13/' | relative_url }}">13</a>]</span> und dem Fürsten mitgeteilt, dass die Appellation weiterhin an das Kammergericht gehe <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/14/' | relative_url }}">14</a>]</span>. Das Urteil selbst liegt nicht in der Akte, und sie sagt nicht, wie das Gericht entschied.
 
-**Die Bittschrift der Prusimska, Januar 1802.** Aus Dresden bat die Prusimska den König am 22. Januar 1802 auf Französisch, die Appellation zu beschleunigen. Das Kabinett gab die Bittschrift an Minister von der Reck; er ließ ihr am 29. Januar mitteilen, sie habe die Publikation des Appellationsurteils zu erwarten <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/15/' | relative_url }}">15</a>]</span>.
+**Die Bittschrift der Prusimska, Januar 1802.** Aus Dresden bat die Prusimska den König am 22. Januar 1802 auf Französisch, die Appellation zu beschleunigen. Die Bittschrift wurde an Minister von der Reck gegeben; er ließ ihr am 29. Januar mitteilen, sie habe die Publikation des Appellationsurteils zu erwarten <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/15/' | relative_url }}">15</a>]</span>.
 
 ### Verwandte Bestände
 
@@ -47,7 +47,7 @@ Die Transkription wurde danach dort berichtigt, wo etwas die Lesung beweist: der
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch aus der Lektüre jedes Dokuments neben seiner Aufnahme geschrieben und ins Englische übersetzt. Die gesonderte Prüfung jeder Aussage, die die Zusammenfassungen der anderen Bestände erhalten haben, steht noch aus.
+Die Zusammenfassungen wurden auf Deutsch aus der Lektüre jedes Dokuments neben seiner Aufnahme geschrieben und ins Englische übersetzt. Danach wurde jede Aussage an ihrem Dokument geprüft, wie bei den anderen Beständen: Von 67 Aussagen sagten zwei mehr als die Seite und wurden abgeschwächt (ein Kanzleidatum, das als Tag des Eingangs bezeichnet war, und eine Zuweisung an den Minister, die dem Kabinett zugeschrieben war, das der Vermerk nicht nennt).
 
 ### Übersetzung
 
@@ -55,4 +55,4 @@ Jedes Dokument wurde in einer Arbeitssitzung nach denselben Regeln übersetzt wi
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit der Handschrift verglichen, und die Zusammenfassungen haben ihre gesonderte Prüfung noch nicht erhalten.
+Das Englische ist noch nicht mit der Handschrift verglichen.

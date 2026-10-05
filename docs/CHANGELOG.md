@@ -1664,6 +1664,27 @@ lose his estates. The era page writes Konotop, not Kontop.
   sixteen holdings, 473 documents and 1,562 pages; 468 have an English translation. See
   `units/ihagrrep7cnr1414/notes.md`.
 
+- **The editor's rulings of 2026-10-05, and what was done on them.** Struck-out text is not
+  transcribed, and a translation of the time written beside a document is not transcribed
+  where the original is given: both are now standing rules (`docs/EDITORIAL_RULES.md`), which
+  closes the struck clause of the draft resolution of 1807 (AGAD 1/174/0/2/73) and the German
+  columns beside the Polish letters of III. HA MdA, III. Nr. 12367. Heinrichs and Honrichs are
+  kept separate. In I. HA GR, Rep. 7 C, Nr. 1414 Raumer, Goldbeck and Haugwitz stand, the
+  papers are filed under no estate, and the signature given as "[Alvensleben?]" is on a spot
+  sheet. The three unread words of the Polish judgment in Nr. 12366 stand. In Nr. 12367 the
+  end of Baron Mohrenheim's undated note (document 3, scan 0004) was read again on
+  enlargements: the last sentence is "J'ai ici un tems affreux qui glace parfois mes passions
+  champêtres" (for "qui font parfois mon pain de négrêtes [?]"), and the line written
+  sideways in the margin is added, "Pourriez Vous m'accorder pour 2 j. le [Courier?] de
+  [Londres?] ?", set apart on the page (`sideways.yml`), with the English and the summary
+  rewritten to match. The signature of the letter of 29 September 1830 (scan 0007) was tried
+  and is still not read. The fifteen German summaries of I. HA GR, Rep. 7 C, Nr. 3709 were
+  checked statement by statement against their documents
+  (`units/ihagrrep7cnr3709/intake/claim_check.yml`): 67 statements, 65 supported, two
+  weakened in both languages (document 5: the office's date of 2 December 1800 is not said to
+  be the day of receipt; document 15: the note that refers the petition to Minister von der
+  Reck does not name the Cabinet). The edition has 611 marks of doubt.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

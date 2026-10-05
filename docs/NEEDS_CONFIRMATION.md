@@ -13,9 +13,8 @@ repository; they are on the working machine.
 
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated
   (2026-10-04): fifteen documents, corrected and summarised in both
-  languages. Still open: the claim check of its fifteen summaries, the only
-  summaries written from the German that have not had it (it can be done in
-  session, as for the later holdings); the editor's eye on the paraph read as Goldbeck
+  languages. Its fifteen summaries were claim-checked in session on
+  2026-10-05 (67 statements, two weakened). Still open: the editor's eye on the paraph read as Goldbeck
   and on the words in `review/ihagrrep7cnr3709/unresolved.md`, some of them
   in the French petition.
 read, translate and summarise.
@@ -78,9 +77,9 @@ read, translate and summarise.
     is about his debts, but its documents run to 1827 and the last is
     Miączyńska's own lawsuit. The era plan left this for the editor to
     confirm (Hohenlohe or the restitution era);
-  - three words of the Polish judgment that the editor could not tell on
-    the scan ("Assistant", "Rozdayczer[?]", "Likrę[?]"):
-    `units/iiihamdaiiinr12366/intake/unresolved.md`.
+  Closed on 2026-10-05: three words of the Polish judgment ("Assistant",
+  "Rozdayczer[?]", "Likrę[?]") stand as transcribed; the editor has no
+  further reading.
 
 - **III. HA MdA, III. Nr. 12367** is in (2026-10-04): eleven documents of
   1828 to 1832 from the second volume of the same file, corrected,
@@ -88,14 +87,17 @@ read, translate and summarise.
   in session (2026-10-05). Still open:
   - **its era**, with Nr. 12366's: it is placed in the Hohenlohe-Ingelfingen
     years because it is about a debt of his, though he died in 1818;
-  - **the German translations written beside Prince Lubecki's two Polish
-    letters** (scans 0008, 0009 right, 0010) are not in the editor's
-    transcription. They are texts of 1830 and were used to check the Polish.
-    The editor to say whether they should be transcribed;
   - **the signature on the letter of 29 September 1830** (scan 0007) is not
-    read, so that letter has no sender;
+    read, so that letter has no sender. Tried again on enlargements on
+    2026-10-05 at the editor's word; it is not Mohrenheim's or Fuhrmann's;
+  - **two words of the margin line on scan 0004**, "le [Courier?] de
+    [Londres?]", read on 2026-10-05 and marked doubtful;
   - **two undated notes** of Baron Mohrenheim (documents 2 and 3) are left
     without a date; the first is probably of 1829.
+  Settled on 2026-10-05: the German translations beside Prince Lubecki's
+  two Polish letters are not transcribed (editor: "the Polish is enough");
+  the last sentence of Mohrenheim's note on scan 0004 is read ("qui glace
+  parfois mes passions champêtres") and its margin line added.
 
 - **APP 53/968/0/-/801** is in (2026-10-05): three documents on sixteen
   pages, copies made about 1930 (papers of Albert Breyer) of the Prince's
@@ -112,18 +114,18 @@ read, translate and summarise.
   - **"Heinrichs, Commissionsrath und Oeconomie-Commissarius"**, who attests
     the signatures, has his own entry and is kept apart from Martin Honrichs
     (the same attestation and spelling stand in Oe 1 Bü 14526, document 16).
-    The editor to say if he knows them to be one man.
+    The editor ruled on 2026-10-05 that they are kept separate.
 
 - **I. HA GR, Rep. 7 C, Nr. 1414** is in (2026-10-05): three documents on
   four pages, December 1796 to March 1797, on Antoni Prusimski at Venice:
   the extract of the Prussian resident's dispatch, the draft by which the
   department of foreign affairs passed it to Hoym, Schroetter and Goldbeck,
   and Schrötter's reply. Scans cropped, the editor's transcription
-  corrected, summarised, translated and claim-checked in session. Still
-  open, for the editor's eye: three identifications made in correcting it
-  (the councillor Raumer for "Rammer", the Grand Chancellor Goldbeck as
-  third addressee, and the first signature under the draft, given as
-  "[Alvensleben?]"); `units/ihagrrep7cnr1414/intake/unresolved.md`.
+  corrected, summarised, translated and claim-checked in session. The
+  editor confirmed Raumer, Goldbeck and Haugwitz on 2026-10-05 and ruled
+  that the papers are filed under no estate. Still open: the first
+  signature under the draft, given as "[Alvensleben?]", which is on a spot
+  sheet for the editor; `units/ihagrrep7cnr1414/intake/unresolved.md`.
 
 - **I. HA Rep. 162, Nr. 295** is in (2026-10-05): three documents on
   thirteen pages, copies of 1805 from a file of the state treasury:
@@ -150,10 +152,10 @@ read, translate and summarise.
     07, 08 and 047: their numbers are leaf numbers, and leaf 7 is on image
     06. To be confirmed;
   - **the crops**: each page was cut out of its opening by a box placed in
-    the session, not by the editor;
-  - **a struck-out clause** at the end of the draft resolution ("z
-    zachowaniem praw Im służących") is not transcribed. The editor to say
-    whether struck text is to be given.
+    the session, not by the editor.
+  Settled on 2026-10-05: struck-out text is not transcribed (editor;
+  EDITORIAL_RULES.md), so the clause struck out at the end of the draft
+  resolution ("z zachowaniem praw Im służących") stays out.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -194,8 +196,8 @@ written until there is a witness or a better scan.
   `units/iiihamdaiiinr12366/intake/unresolved.md`.
 - **III. HA MdA, III. Nr. 12367**: words left as written and text not
   transcribed, in `units/iiihamdaiiinr12367/intake/unresolved.md`. The chief
-  one is the end of Mohrenheim's note on scan 0004 ("qui font parfois mon
-  pain de négrêtes [?]") and the line written sideways in its margin.
+  ones are two doubtful words in the margin line of Mohrenheim's note on
+  scan 0004 and the unread signature on scan 0007.
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6**: words left as written, in each
   unit's `intake/unresolved.md`. The chief one is "upoznieniem" in the
   closing formula of the petition of 23 July 1807.

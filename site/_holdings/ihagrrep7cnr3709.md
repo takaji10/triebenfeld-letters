@@ -27,7 +27,7 @@ Prusimska, through her guardian, sued Hohenlohe-Ingelfingen before the Governmen
 
 **The order comes too late.** The Government at Poznań reported on 18 December that it had already given judgment on 9 December, as the King's order of July had required speed <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/12/' | relative_url }}">12</a>]</span>. The rescript to Warsaw was withdrawn <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/13/' | relative_url }}">13</a>]</span> and the Prince informed that the appeal would still go to the Kammergericht <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/14/' | relative_url }}">14</a>]</span>. The judgment itself is not in the file, and the file does not say how the court decided.
 
-**Prusimska's petition, January 1802.** From Dresden, on 22 January 1802, Prusimska asked the King in French to hasten the appeal. The Cabinet passed the petition to Minister von der Reck, who had her told on 29 January that she could expect the appeal judgment to be published <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/15/' | relative_url }}">15</a>]</span>.
+**Prusimska's petition, January 1802.** From Dresden, on 22 January 1802, Prusimska asked the King in French to hasten the appeal. The petition was passed to Minister von der Reck, who had her told on 29 January that she could expect the appeal judgment to be published <span class="cite">[<a href="{{ '/documents/ihagrrep7cnr3709/15/' | relative_url }}">15</a>]</span>.
 
 ### Related holdings
 
@@ -47,7 +47,7 @@ The transcription was then corrected where something proves the reading: the sam
 
 ### Summaries
 
-The summaries were written in German from a reading of each document against its scan, and translated into English. They have not yet had the separate check of each statement that the summaries of the other holdings received.
+The summaries were written in German from a reading of each document against its scan, and translated into English. Each statement was then checked against its document, as for the other holdings: of 67 statements two said more than the page does and were weakened (a registry date that had been called the day of receipt, and a referral to the minister that had been ascribed to the Cabinet, which the note does not name).
 
 ### Translation
 
@@ -55,4 +55,4 @@ Each document was translated in a working session under the same rules as the ot
 
 ### Still to do
 
-The English has not yet been read against the manuscript, and the summaries have not had their separate check.
+The English has not yet been read against the manuscript.

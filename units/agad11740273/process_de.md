@@ -28,4 +28,4 @@ Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische
 
 ### Noch offen
 
-Das Englische ist noch nicht mit den Aufnahmen verglichen. Ein Wort in der Schlussformel der Bittschrift vom 23. Juli ist nicht sicher gelesen. Am Ende des Beschlussentwurfs ist eine Wendung gestrichen, die nicht transkribiert ist.
+Das Englische ist noch nicht mit den Aufnahmen verglichen. Ein Wort in der Schlussformel der Bittschrift vom 23. Juli ist nicht sicher gelesen. Gestrichene Wörter sind nach der Regel des Herausgebers nicht transkribiert; am Ende des Beschlussentwurfs ist auf diese Weise eine ganze Wendung gestrichen.

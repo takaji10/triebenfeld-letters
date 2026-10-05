@@ -1,13 +1,15 @@
 pages:
 - page: 1
   confidence: medium
-  marker_count: 1
+  marker_count: 2
   en: |-
-    My dear Schmidt, here is your Dubois; I almost blush to tell you with what interest I have read all these villainies, which does not, however, prevent me from asking you urgently for the continuation. — I shall not fail to push the Weigel affair, & be easy about the rest: I promise you that we shall come out of it with honour. I have frightful weather here, which sometimes make my bread of [uncertain: négrêtes].
+    My dear Schmidt, here is your Dubois; I almost blush to tell you with what interest I have read all these villainies, which does not, however, prevent me from asking you urgently for the continuation. — I shall not fail to push the Weigel affair, & be easy about the rest: I promise you that we shall come out of it with honour. I have frightful weather here, which at times chills my rustic passions.
 
     L. B. d. Mohrenheim
 
     Tuesday.
+
+    Could you let me have for 2 days the [uncertain: Courier] of [uncertain: London]?
   names:
   - de: Schmidt
     en: Schmidt
@@ -26,6 +28,11 @@ pages:
     rendered_as: here is your Dubois
     alt: here is your Dubois back
     why: '''Dubois'' is a book or series the writer had borrowed from Schmidt; it is left as the title stands.'
-  unparseable:
-  - de: qui font parfois mon pain de négrêtes [?]
-    why: The end of the sentence does not construe ('font' after the singular 'un tems', and 'négrêtes' is not a French word); intake/unresolved.md gives it as not settled on the scan. The English renders the words as they stand.
+  - de: mes passions champêtres
+    rendered_as: my rustic passions
+    alt: my taste for country pursuits
+    why: 'He writes from the country: the weather spoils his pleasure in it. Read on the scan on 2026-10-05 (intake/second_reading.py); the first transcription had words that did not construe.'
+  - de: pour 2 j. le [Courier?] de [Londres?]
+    rendered_as: 'for 2 days the [uncertain: Courier] of [uncertain: London]'
+    alt: for 2 days the London Courier
+    why: 'The line is written sideways in the margin. "j." is taken as jours. The two words after "le" are doubtful on the scan; if they are right, he asks for the London newspaper The Courier.'

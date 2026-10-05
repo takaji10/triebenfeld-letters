@@ -10,7 +10,7 @@ Die Transkription wurde danach dort berichtigt, wo etwas die Lesung beweist: der
 
 ### Zusammenfassungen
 
-Die Zusammenfassungen wurden auf Deutsch aus der Lektüre jedes Dokuments neben seiner Aufnahme geschrieben und ins Englische übersetzt. Die gesonderte Prüfung jeder Aussage, die die Zusammenfassungen der anderen Bestände erhalten haben, steht noch aus.
+Die Zusammenfassungen wurden auf Deutsch aus der Lektüre jedes Dokuments neben seiner Aufnahme geschrieben und ins Englische übersetzt. Danach wurde jede Aussage an ihrem Dokument geprüft, wie bei den anderen Beständen: Von 67 Aussagen sagten zwei mehr als die Seite und wurden abgeschwächt (ein Kanzleidatum, das als Tag des Eingangs bezeichnet war, und eine Zuweisung an den Minister, die dem Kabinett zugeschrieben war, das der Vermerk nicht nennt).
 
 ### Übersetzung
 
@@ -18,4 +18,4 @@ Jedes Dokument wurde in einer Arbeitssitzung nach denselben Regeln übersetzt wi
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit der Handschrift verglichen, und die Zusammenfassungen haben ihre gesonderte Prüfung noch nicht erhalten.
+Das Englische ist noch nicht mit der Handschrift verglichen.

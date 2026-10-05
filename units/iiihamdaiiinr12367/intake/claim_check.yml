@@ -16,6 +16,10 @@
 # line of document 3 on scan 0004, stood after the [DOC 4] marker, so document
 # 4 had an empty first page and document 3 lost its day. The summary of
 # document 3 ("an einem Dienstag geschrieben") is supported only since then.
+# 2026-10-05, later: the end of document 3 was read again on the scan at the
+# editor's request (intake/second_reading.py) and its summary rewritten from
+# the new text; the last statement of document 3 was replaced by three,
+# checked the same way. Now 79 statements, 78 supported.
 # Names in the edition's forms (Konstantin for "le Grand Duc Césarévitch",
 # Breslau for Wrocław in German, Reichstaler for rthlr.) count as supported.
 
@@ -40,7 +44,9 @@ iiihamdaiiinr12367-003:
 - {claim: "er bittet dringend um die Fortsetzung", verdict: supported, where: "p. 1: avec instance"}
 - {claim: "die Sache Weigel werde er vorantreiben", verdict: supported, where: "p. 1: pousser l'affaire Weigel"}
 - {claim: "wegen des Übrigen solle Schmidt ruhig sein, man werde mit Ehren herauskommen", verdict: supported, where: "p. 1"}
-- {claim: "er habe dort schreckliches Wetter; der Rest des Satzes ist nicht sicher gelesen", verdict: supported, where: "p. 1: un tems affreux ... négrêtes [?]"}
+- {claim: "er habe dort schreckliches Wetter, das zuweilen seine Lust am Landleben dämpfe", verdict: supported, where: "p. 1: un tems affreux qui glace parfois mes passions champêtres (read on the scan, 2026-10-05)"}
+- {claim: "in einer quer an den Rand geschriebenen Zeile bittet er Schmidt, ihm für zwei Tage etwas zu überlassen", verdict: supported, where: "p. 1, the last line: Pourriez Vous m'accorder pour 2 j.; sideways.yml"}
+- {claim: "was, ist nicht sicher gelesen, vielleicht die Londoner Zeitung Courier", verdict: supported, where: "p. 1: le [Courier?] de [Londres?], both words marked doubtful"}
 
 iiihamdaiiinr12367-004:
 - {claim: "Mohrenheim hat Schmidts Schreiben vom 18. Februar (Nr. 352) dem Großfürsten vorgelegt", verdict: supported, where: "p. 1: 6/18 de ce mois sub. No. 352"}

@@ -1,0 +1,14 @@
+# Text written sideways on the page. Here: one line in the left margin of
+# Baron Mohrenheim's note (scan 0004), read on 2026-10-05 at the editor's
+# request (intake/second_reading.py). The line is ordinary text in corpus.txt;
+# this file only says that it was written sideways, so the site can set it
+# apart. It stands at the end of its page.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '3'
+    page: '0004_a'
+    first: "Pourriez Vous m'accorder pour 2 j. le [Courier?] de [Londres?] ?"
+    lines: 1

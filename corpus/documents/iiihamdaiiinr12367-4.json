@@ -20,8 +20,8 @@
  "place": "Warschau",
  "sender": "Mohrenheim",
  "recipient": "Schmidt",
- "line_start": 22,
- "line_end": 34,
+ "line_start": 23,
+ "line_end": 35,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0005_a",
-   "line_start": 24,
-   "line_end": 29,
+   "line_start": 25,
+   "line_end": 30,
    "n_lines": 6,
    "diplomatic": "Varsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter",
    "transcription": "Varsovie le 8/20 février 1830\nRoyaume de Pologne\nAffaires Etrangères\nNro. 85\nMonsieur,\nJe n’ai pas manqué de mettre sous les yeux de Monseigneur le Grand-Duc Césarévitch l’office, que Vous m’avez adressé, Monsieur, en date du 6/18 de ce mois sub. No. 352, et j’ai par suite l’honneur de Vous prévenir, que le Conseil d’Administration a rendu compte à Son Altesse Impériale au mois d’Août dernier, qu’il avait été reconnu que la compétence des Tribunaux qui ont prononcé dans l’affaire des banquiers Weigel et Eisenhardt, pouvait être mise en question, attendu que le cas dont il s’agit ne pouvait par sa nature être résolu que dans la voie diplomatique, que le Conseil avait conséquemment autorisé la Commission des Finances et du Trésor, à déclarer un conflit de juridiction et à le porter",
@@ -66,8 +66,8 @@
   {
    "page": 2,
    "page_id": "0006_a",
-   "line_start": 31,
-   "line_end": 34,
+   "line_start": 32,
+   "line_end": 35,
    "n_lines": 4,
    "diplomatic": "à la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
    "transcription": "à la décision de l’Assemblée générale du Conseil d’Etat.\nMonseigneur n’ayant reçu nulle communication ultérieur depuis, vient d’inviter le Conseil à faire accélerer la conclusion de cette affaire.\nRecevez, Monsieur, l’assurance de ma considération très distinguée.\nMohrenheim",
@@ -97,7 +97,7 @@
    "page": 1,
    "page_id": "0005_a",
    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
-   "line": 29,
+   "line": 30,
    "doc_line": 6
   },
   {
@@ -108,7 +108,7 @@
    "page": 1,
    "page_id": "0005_a",
    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
-   "line": 29,
+   "line": 30,
    "doc_line": 6
   },
   {
@@ -119,7 +119,7 @@
    "page": 1,
    "page_id": "0005_a",
    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
-   "line": 29,
+   "line": 30,
    "doc_line": 6
   },
   {
@@ -130,7 +130,7 @@
    "page": 2,
    "page_id": "0006_a",
    "scan": "III_HA_MdA_III_Nr_12367_0006_a-L4_02.jpg",
-   "line": 34,
+   "line": 35,
    "doc_line": 10
   }
  ],
@@ -194,7 +194,7 @@
    "page": 1,
    "page_id": "0005_a",
    "scan": "III_HA_MdA_III_Nr_12367_0005_a-L4_01.jpg",
-   "line": 24,
+   "line": 25,
    "doc_line": 1
   }
  ],

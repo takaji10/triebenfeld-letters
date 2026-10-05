@@ -10,19 +10,20 @@ next steps.
 
 - [x] Published at your word on 2026-10-05 (commit df7a05da; the "Build and
       deploy" run succeeded and the pages answer on the live site).
-- [ ] **You: the German translations beside the two Polish letters.** Scans
-      0008, 0009 (right side) and 0010 each have a second column headed
-      "Uebersetzung", a German translation made in 1830. Your transcription
-      leaves it out, so the edition does too. Say whether it should be
-      transcribed. If yes, it needs your transcription of those columns.
-- [ ] **You: the signature on scan 0007** (letter of 29 September 1830). It is
-      a short word under a heavy stroke and is not read, so that letter has no
-      sender. A spot sheet with the enlarged signature can be made if you want
-      to try it.
-- [ ] **You: the end of the note on scan 0004.** The last words ("qui font
-      parfois mon pain de négrêtes [?]") stand as you transcribed them, and a
-      line written sideways in the left margin is not transcribed at all.
-      Both can go on the same spot sheet.
+- [x] The German translations beside the two Polish letters are not
+      transcribed: "the Polish is enough" (you, 2026-10-05). Now a standing
+      rule in EDITORIAL_RULES.md.
+- [x] The signature on scan 0007 (letter of 29 September 1830): you said I
+      could try (2026-10-05). Tried on enlargements and not read. It is not
+      Mohrenheim's and not Fuhrmann's as he signs in 1831 and 1832. The
+      letter stays without a sender; what can be seen of the signature is in
+      the holding's `intake/unresolved.md`.
+- [x] The end of the note on scan 0004, read at your word (2026-10-05). The
+      last sentence is "J'ai ici un tems affreux qui glace parfois mes
+      passions champêtres" (dreadful weather, which at times chills my rustic
+      passions). The margin line is in the text and the English, set apart
+      as written sideways: "Pourriez Vous m'accorder pour 2 j. le [Courier?]
+      de [Londres?] ?" The two words in brackets are doubtful.
 - [ ] **You: the era**, together with Nr. 12366. Both are placed in the
       Hohenlohe-Ingelfingen years for now; the alternative is the restitution
       era (1807 onward), which is still empty.
@@ -71,11 +72,10 @@ sentences in the era essay. Details are in
       definition they are the first documents of the restitution era, which
       is still empty. Moving them there also means rewriting the story page,
       which says that era is not yet published.
-- [ ] **You: the struck-out clause in the draft resolution** (image 05, near
-      the foot). After "wróciły" the draft went on "z zachowaniem praw Im
-      służących" (with the rights belonging to them preserved), and this is
-      struck through. It is not in your transcription and not in the
-      edition. Say whether struck text of this kind should be transcribed.
+- [x] Struck-out text is not transcribed (you, 2026-10-05), so the clause
+      struck out near the foot of the draft resolution (image 05) stays
+      out. It is described in the holding's notes. Now a standing rule in
+      EDITORIAL_RULES.md.
 - [ ] **You: one word in the petition of 23 July** (image 047):
       "upoznieniem" in the closing formula is not a Polish word as it stands.
       A spot sheet can be made.
@@ -107,8 +107,7 @@ page in both languages; two timeline entries. Details are in
       Oconomie Commissarius": two copies agree on the spelling, and the
       title is a royal office that Martin Honrichs, the buyer of Witów, is
       nowhere given. He has his own entry among the people, with those two
-      documents. **You:** say if you know him to be Honrichs after all, and
-      the two entries will be joined.
+      documents. Kept separate (you, 2026-10-05).
 - [x] Translate the three documents into English, check and publish them
       (done in session 2026-10-05; two check rows, neither a fault).
 - [x] Check each statement of the three summaries against its document:
@@ -157,14 +156,11 @@ essay. Details are in `units/ihagrrep7cnr1414/notes.md`.
 - [ ] **You: say when to publish it** (with Nr. 295, section 4). Built and
       verified here, committed locally, not pushed.
 - [ ] **You: look at the four page images**, and say if a cut is too close.
-- [ ] **You: three names I read differently from you.** (1) The councillor
-      who signs the directions: I read Raumer where you have Rammer, Maunes
-      and Maurer; "Hr von Raumer" is written out at the head of the French
-      extract. (2) The large hand in the left column of the draft: I read
-      "in simili des H. GK v. Goldbeck Excell.", the Grand Chancellor as a
-      third addressee. (3) The two signatures under the draft: Haugwitz,
-      and before him probably Alvensleben, which I have marked as
-      uncertain. A spot sheet can show all three.
+- [x] Raumer, Goldbeck and Haugwitz stand (you, 2026-10-05).
+- [ ] **You: the first signature under the draft**, which I gave as
+      "[Alvensleben?]" where you read "Au[?]". You asked to see it: it is
+      on a spot sheet, one question.
+- [x] The Venice papers are not filed under any estate (you, 2026-10-05).
 
 ## 6. Carried over
 
@@ -172,8 +168,13 @@ These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.
 
 - [ ] **You: the era of Nr. 12366** (see section 1).
-- [ ] **You: the three words of the Polish judgment in Nr. 12366** that could
-      not be read on the scan.
+- [x] The three words of the Polish judgment in Nr. 12366 that could not be
+      read on the scan: you have no further reading (2026-10-05). They stand
+      as transcribed, two of them marked doubtful.
+- [x] The fifteen summaries of Nr. 3709 checked against their documents at
+      your word (2026-10-05): 67 statements, two weakened (a registry date
+      that was called the day of receipt; a referral that was ascribed to
+      the Cabinet, which the note does not name).
 - [x] Bring the edition guide (`site/reading-this-edition.md`, both
       languages) up to date: done 2026-10-05 (thirteen holdings in four
       archives, 464 documents, 1,529 pages, 609 marks of doubt, all

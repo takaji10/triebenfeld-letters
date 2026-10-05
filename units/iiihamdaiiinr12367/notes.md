@@ -57,10 +57,11 @@ that the pages add up to the source text.
   bezweifelnden) and seven paragraph decisions, three of them rows with cue
   `hand` in `paragraph_decisions.csv` (a form `resolve_paragraphs.py` now
   carries over).
-- Not transcribed: the German translations beside the two Polish letters,
-  the addresses at the foot of 0005, 0007, 0011, 0013 and 0014, the
-  signatures on 0007, 0012 and 0014, a sideways line on 0004, journal numbers
-  and dockets. See `intake/unresolved.md`.
+- Not transcribed: the German translations beside the two Polish letters
+  (the editor's ruling of 2026-10-05: "the Polish is enough"), the
+  addresses at the foot of 0005, 0007, 0011, 0013 and 0014, the signatures
+  on 0007, 0012 and 0014, journal numbers and dockets. See
+  `intake/unresolved.md`.
 
 ## The signature the editor asked about (2026-10-04)
 
@@ -232,8 +233,7 @@ publish_translations.py. Status `translated`, `published_tag: ""`.
   is noted in the cache record.
 - **uncanonical_names.py**: nothing. Breslau is Wrocław in the English, by
   the house rule; Eisenhardt stays (not Eysenhardt, see the people register).
-- **Doubt kept:** "négrêtes [?]" in document 3 as "[uncertain: négrêtes]",
-  the sentence recorded as not construing; "noter" in document 10 translated
+- **Doubt kept:** "noter" in document 10 translated
   as it stands ("striving to note"), flagged ("hâter" is likely).
 - **Forms of address:** WWPan in Lubecki's letters is "Your Honour";
   "Monsieur le Conseiller" "Councillor", "Monsieur le Consul" "Consul".
@@ -252,12 +252,35 @@ festzustellen", in `summaries_de.yml`, `site/_data/summaries_de.yml` and
 "ordered". The statement that document 3 is dated Tuesday rests on the
 corpus correction above.
 
+## The second reading of the note on 0004, and the signature on 0007 (2026-10-05)
+
+The editor said to try both, and to put the margin line into the
+transcription and the translation.
+
+- **0004, last sentence.** "qui font parfois mon pain de négrêtes [?]" is
+  "qui glace parfois mes passions champêtres": he is in the country and the
+  weather spoils it. Plain once enlarged; no mark of doubt.
+- **0004, margin.** Added as the last line of the page: "Pourriez Vous
+  m'accorder pour 2 j. le [Courier?] de [Londres?] ?". `sideways.yml` names
+  it, so the page sets it apart under "Written sideways on the page". Two
+  words are marked doubtful.
+- Both by `intake/second_reading.py`, logged in
+  `transcription_decisions.csv`. The English (`intake/translation/doc3.yml`)
+  was rewritten for the sentence and the new line, saved, checked (no row)
+  and published; the summary of document 3 was rewritten from the new text
+  in both languages and its statements checked again
+  (`intake/claim_check.yml`, now 79). The edition's count of marks of doubt
+  went from 610 to 611.
+- **0007, signature.** Not read. What can be seen, and why no name is put
+  forward, is in `intake/unresolved.md`. The letter stays without a sender.
+
 ## Still to do
 
 - The editor's ruling on the era, with Nr. 12366's.
 - Reading the English against the scans, as for every holding.
-- The German translation columns beside the Polish letters: transcribe or
-  leave out, the editor to say.
-- The words in `intake/unresolved.md`, and the signature on 0007.
+- Settled by the editor on 2026-10-05: the German translation columns are
+  not transcribed.
+- The words in `intake/unresolved.md`; the signature on 0007, tried and not
+  read.
 - The edition guide's counts of holdings and documents are written by hand
   and stale; not touched.

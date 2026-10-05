@@ -10,7 +10,7 @@ The transcription was then corrected where something proves the reading: the sam
 
 ### Summaries
 
-The summaries were written in German from a reading of each document against its scan, and translated into English. They have not yet had the separate check of each statement that the summaries of the other holdings received.
+The summaries were written in German from a reading of each document against its scan, and translated into English. Each statement was then checked against its document, as for the other holdings: of 67 statements two said more than the page does and were weakened (a registry date that had been called the day of receipt, and a referral to the minister that had been ascribed to the Cabinet, which the note does not name).
 
 ### Translation
 
@@ -18,4 +18,4 @@ Each document was translated in a working session under the same rules as the ot
 
 ### Still to do
 
-The English has not yet been read against the manuscript, and the summaries have not had their separate check.
+The English has not yet been read against the manuscript.

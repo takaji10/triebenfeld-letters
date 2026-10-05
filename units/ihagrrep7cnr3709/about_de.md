@@ -16,7 +16,7 @@ Die Prusimska klagte durch ihren Vormund vor der Regierung in Poznań (Posen) ge
 
 **Die Verfügung kommt zu spät.** Die Regierung in Poznań berichtete am 18. Dezember, sie habe schon am 9. Dezember geurteilt, da die Ordre des Königs vom Juli Eile verlangt habe [[12]]. Das Reskript an die Regierung in Warschau wurde zurückgenommen [[13]] und dem Fürsten mitgeteilt, dass die Appellation weiterhin an das Kammergericht gehe [[14]]. Das Urteil selbst liegt nicht in der Akte, und sie sagt nicht, wie das Gericht entschied.
 
-**Die Bittschrift der Prusimska, Januar 1802.** Aus Dresden bat die Prusimska den König am 22. Januar 1802 auf Französisch, die Appellation zu beschleunigen. Das Kabinett gab die Bittschrift an Minister von der Reck; er ließ ihr am 29. Januar mitteilen, sie habe die Publikation des Appellationsurteils zu erwarten [[15]].
+**Die Bittschrift der Prusimska, Januar 1802.** Aus Dresden bat die Prusimska den König am 22. Januar 1802 auf Französisch, die Appellation zu beschleunigen. Die Bittschrift wurde an Minister von der Reck gegeben; er ließ ihr am 29. Januar mitteilen, sie habe die Publikation des Appellationsurteils zu erwarten [[15]].
 
 ### Verwandte Bestände
 

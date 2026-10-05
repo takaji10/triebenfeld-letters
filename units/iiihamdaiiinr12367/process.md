@@ -12,11 +12,11 @@ Each letter is one document, eleven in all. Dates are taken from each document's
 
 ### Corrections
 
-An AI model (Claude) compared the whole transcription with the scans and corrected it where the page is plain and the corrected form is a word that fits its sentence. 62 passages were corrected, most of them typing slips; many of the corrections in the two Polish letters and in the two hurried notes change more than one word. The German translation written beside each Polish letter served as a check on the Polish. Each change is logged with its reason. The writers' own spelling was kept, and the Polish keeps the spelling of its time. Three names stand in the editor's usual form where the scribe spells them otherwise.
+An AI model (Claude) compared the whole transcription with the scans and corrected it where the page is plain and the corrected form is a word that fits its sentence. 63 passages were corrected, most of them typing slips; many of the corrections in the two Polish letters and in the two hurried notes change more than one word. The German translation written beside each Polish letter served as a check on the Polish. Each change is logged with its reason. The writers' own spelling was kept, and the Polish keeps the spelling of its time. Three names stand in the editor's usual form where the scribe spells them otherwise.
 
 ### Signatures
 
-The editor asked whose signature stands under four of the documents. It is that of Baron Mohrenheim, written out in full on the first letter and shortened on the others, down to the single initial M; the same flourish closes all four. It is given on each page as it stands there, with the abbreviated title filled in between square brackets. On one note the transcription had left out the signature and the word "Mardi" (Tuesday) beneath the text; both were added from the scan. The signature of the letters of December 1831 and March 1832 reads "R. Fuhrmann" on the scans and is not part of the transcription. The signature of the letter of 29 September 1830 has not been read.
+The editor asked whose signature stands under four of the documents. It is that of Baron Mohrenheim, written out in full on the first letter and shortened on the others, down to the single initial M; the same flourish closes all four. It is given on each page as it stands there, with the abbreviated title filled in between square brackets. On one note the transcription had left out the signature and the word "Mardi" (Tuesday) beneath the text; both were added from the scan. The signature of the letters of December 1831 and March 1832 reads "R. Fuhrmann" on the scans and is not part of the transcription. The signature of the letter of 29 September 1830 has not been read: it is a short word under a heavy stroke, and it is neither Mohrenheim's nor Fuhrmann's as they sign elsewhere in the file.
 
 ### Summaries
 
@@ -28,4 +28,4 @@ The documents were translated into English in a working session under the same r
 
 ### Still to do
 
-The English has not yet been read against the scans. The German translations beside the two Polish letters, the addresses at the foot of several letters and a line written sideways in the margin of one note are not transcribed. The end of the last sentence of that note is not securely read.
+The English has not yet been read against the scans. The German translations beside the two Polish letters are not transcribed, by the editor's decision: the Polish is given, and that is enough. The addresses at the foot of several letters are not transcribed either. At the editor's request the end of Mohrenheim's second note was read again on enlargements of the scan: its last sentence is now given as it stands on the page, and the line written sideways in its margin has been added and is set apart on the page. Two words of that line are doubtful and marked so.

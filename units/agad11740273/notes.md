@@ -159,5 +159,6 @@ in `intake/translation/doc<N>.yml`, written into the untagged cache by
 
 - The editor's ruling on the era.
 - Reading the English against the scans.
-- The words in `intake/unresolved.md`, above all the struck clause of the
-  draft.
+- The words in `intake/unresolved.md`. The struck clause of the draft is
+  settled: the editor ruled on 2026-10-05 that struck-out text is not
+  transcribed, so it stays out and is described in these notes only.

@@ -6,14 +6,19 @@ scan. The same file is copied to `review/iiihamdaiiinr12367/`.
 
 ## Document 3, Mohrenheim's note (0004, French)
 
-- The last sentence: "J'ai ici un tems affreux qui font parfois mon pain de
-  négrêtes [?]." The first half was corrected on the scan ("un tems
-  affreux"). The second half stands as the editor transcribed it. It may
-  read "qui glace parfois mes passions étrangères"; the words are too
-  hurried to settle.
-- A line written sideways in the left margin is not transcribed. It begins
-  "Pourriez Vous m'accorder pour 2 j." (could you let me have, for two days)
-  and ends "de Par..."; the object, three or four words, is not read.
+- The last sentence was read again on 2026-10-05, at the editor's word, on
+  the scan enlarged three to six times: "J'ai ici un tems affreux qui glace
+  parfois mes passions champêtres" (dreadful weather, which at times chills
+  my rustic passions). Settled; `intake/second_reading.py` gives the
+  letters it rests on.
+- The line written sideways in the left margin is now transcribed:
+  "Pourriez Vous m'accorder pour 2 j. le [Courier?] de [Londres?] ?" (could
+  you let me have for two days the Courier of London?). The first half is
+  plain. The two marked words are doubtful: the scan is coarse there (the
+  page is 1,787 pixels wide). The first is seven letters beginning "Cou";
+  the second has a tall first letter, two short ones, a tall one and "es",
+  and could also be read "Parker" or "Parkes". "The Courier" was a London
+  newspaper, which would fit a loan for two days; nothing else proves it.
 - "Dubois": what Schmidt had lent him is not said. The writer calls its
   contents "scélératesses" and asks for "la continuation", so it is a work in
   parts or volumes.
@@ -21,8 +26,17 @@ scan. The same file is copied to `review/iiihamdaiiinr12367/`.
 ## Document 5, to Schmidt, 29 September 1830 (0007, French)
 
 - The signature, a short word under a heavy stroke, is not read and not
-  transcribed. Above the text stands "ad. Nro. 102. D.K.P." with one more
-  letter; the transcription has "Ad. Nro. 102".
+  transcribed. Tried again on 2026-10-05 at the editor's word, on a crop
+  enlarged four times: a tall looped first letter (F, K, J or T), then
+  four or five letters, of which the third or fourth is tall (h, l or a
+  long s), ending in a flourish. It is not Mohrenheim's signature (0002 to
+  0006) and not Fuhrmann's as he writes it in 1831 and 1832 (0012, 0014:
+  the full name inside an oval). The writer is an intermediary between the
+  consul and the minister of finance and speaks for "l'administration
+  Polonaise". No name is put forward: a guess would enter the index.
+- Above the text stands "ad. Nro. 102. DKPol." or "DKPet.", the writer's
+  own registry mark; the transcription has "Ad. Nro. 102". The letters are
+  not explained, so they are not added.
 - "procés", "temoignage": accents as transcribed.
 - "Hohenlohe" is written "Hohenloe" on the scan.
 
@@ -34,8 +48,9 @@ scan. The same file is copied to `review/iiihamdaiiinr12367/`.
   editor's form stands.
 - "Wrzes." and "List.": the scan has "Wrześ:" and "Listp:". Left.
 - The German translation written beside both letters (headed "Uebersetzung")
-  and the word "Abschrift" at the foot of 0008 are not transcribed. So that
-  the reader is told, `about.md` and `process.md` say so.
+  and the word "Abschrift" at the foot of 0008 are not transcribed. The
+  editor ruled on 2026-10-05 that they stay out: "the Polish is enough".
+  `about.md` and `process.md` tell the reader.
 
 ## Document 7, Weigel to Lubecki (0009, German)
 

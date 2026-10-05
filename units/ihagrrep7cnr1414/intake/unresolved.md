@@ -8,15 +8,17 @@
   looped A and seven or eight minims, no clear ending. The editor read
   "Au[?]". Alvensleben was one of the three ministers of the department in
   1797 and signed beside Haugwitz; Finckenstein, the third, does not begin
-  with this letter. Given with a mark of doubt and not indexed.
+  with this letter. Given with a mark of doubt and not indexed. On a spot
+  sheet for the editor since 2026-10-05 (`open_queries.csv`).
 - **Raumer** (0003_a2, 0004_a2, 0005_a2). The reading rests on "Hr von
   Raumer" in Latin script on 0004; in that word the strokes between "Ra" and
   "er" could also be counted as "mm" (the editor's "Rammer"). Raumer is a
   known councillor of the department; no Rammer is. Changed in all three
-  places; the editor may want to look.
+  places. The editor confirmed Raumer on 2026-10-05.
 - **0002_a, "H. G[roß]K[anzlers] v. Goldbeck".** The name is plain. Before it
   stand "H" and a ligature read as GK; the bracketed letters are the
-  edition's expansion.
+  edition's expansion. The editor confirmed Goldbeck, and Haugwitz for the
+  second signature, on 2026-10-05.
 
 ## Abbreviations left as written
 

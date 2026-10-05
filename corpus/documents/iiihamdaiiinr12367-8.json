@@ -20,8 +20,8 @@
  "place": "Warschau",
  "sender": "Lubecki",
  "recipient": "Weigel",
- "line_start": 115,
- "line_end": 122,
+ "line_start": 116,
+ "line_end": 123,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -46,8 +46,8 @@
   {
    "page": 1,
    "page_id": "0009_a2",
-   "line_start": 117,
-   "line_end": 119,
+   "line_start": 118,
+   "line_end": 120,
    "n_lines": 3,
    "diplomatic": "Nro. 77775 w Warszawie d. 27 List. 1830\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.",
    "transcription": "Nro. 77775 w Warszawie d. 27 List. 1830\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.",
@@ -69,8 +69,8 @@
   {
    "page": 2,
    "page_id": "0010_a",
-   "line_start": 121,
-   "line_end": 122,
+   "line_start": 122,
+   "line_end": 123,
    "n_lines": 2,
    "diplomatic": "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\nsig. X. X. Lubecki",
    "transcription": "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\nsig. X. X. Lubecki",
@@ -98,7 +98,7 @@
    "page": 2,
    "page_id": "0010_a",
    "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
-   "line": 122,
+   "line": 123,
    "doc_line": 5
   }
  ],
@@ -146,7 +146,7 @@
    "page": 1,
    "page_id": "0009_a2",
    "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
-   "line": 117,
+   "line": 118,
    "doc_line": 1
   },
   {
@@ -157,7 +157,7 @@
    "page": 1,
    "page_id": "0009_a2",
    "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
-   "line": 119,
+   "line": 120,
    "doc_line": 3
   },
   {
@@ -168,7 +168,7 @@
    "page": 2,
    "page_id": "0010_a",
    "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
-   "line": 121,
+   "line": 122,
    "doc_line": 4
   }
  ],

@@ -159,7 +159,7 @@ where they are not part of the text.
 | `(missing)` / `(skipped)` | The archival number exists but no text survives under it. |
 | `ſ` | The long s, as written in the original. |
 
-There are **610** marks of doubt across the corpus, in 234 documents: 391 `[?]`, 114
+There are **611** marks of doubt across the corpus, in 234 documents: 390 `[?]`, 116
 guesses offered as `[word?]` and 105 gaps. They stay visible in the text of every document
 that has them rather than being smoothed over, and they await checking against the
 originals.

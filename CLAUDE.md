@@ -106,9 +106,11 @@ so check them.
   essay; translated and its summaries claim-checked in session on
   2026-10-05 (pages in `intake/translation/`, `intake/claim_check.yml`);
   status `translated`, untagged. Read `units/iiihamdaiiinr12367/notes.md`
-  first. Still open: its era, the German translations
-  beside the two Polish letters (not transcribed), the unread signature on
-  scan 0007, and the words in `intake/unresolved.md`.
+  first. Still open: its era, the unread signature on scan 0007 (tried
+  again 2026-10-05), and the words in `intake/unresolved.md`. The German
+  translations beside the two Polish letters stay untranscribed (editor,
+  2026-10-05); the end of the note on scan 0004 and its margin line were
+  read that day (`intake/second_reading.py`, `sideways.yml`).
 - **AGAD 1/174/0/2/73** (slug `agad11740273`) and **AGAD 1/174/0/1/6** (slug
   `agad1174016`), added 2026-10-04, the first holdings from AGAD in Warsaw:
   six documents of July 1807, Michalina Dąbska's petitions and the Governing
@@ -120,8 +122,8 @@ so check them.
   status `translated`, untagged. Read each unit's `notes.md` first. Still
   open:
   the era (placed in `hohenlohe` for now; by `reference/eras.yml` they
-  belong to `restitution`), the editor's look at the crops and at image 06,
-  and a struck-out clause in the draft resolution.
+  belong to `restitution`), and the editor's look at the crops and at
+  image 06.
 - Nr. 12367 and the two AGAD holdings were published at the editor's word
   on 2026-10-05 (commit df7a05da). What is left for each is in
   `docs/TODO.md`.
@@ -149,7 +151,8 @@ so check them.
   summaries claim-checked in session the same day (`intake/translation/`,
   `intake/claim_check.yml`); status `translated`, untagged. Read
   `units/app539680801/notes.md` first. Heinrichs,
-  who attests the lease, has his own person entry and is not Honrichs.
+  who attests the lease, has his own person entry and is not Honrichs
+  (kept separate: editor, 2026-10-05).
 - **I. HA Rep. 162, Nr. 295** (slug `iharep162nr295`, added 2026-10-05),
   "Capital on the Zagorow estates": the cover and eleven pages of copies of
   1805, three documents: Triebenfeld's bond to the Invalids' Fund for 50,000
@@ -175,9 +178,17 @@ so check them.
   pages, office marks set apart (`office_notes.yml`), 20 passages corrected,
   summarised, translated and claim-checked in session; status `translated`,
   untagged. Read `units/ihagrrep7cnr1414/notes.md` first. Built and verified
-  locally, **committed but not pushed: publish when the editor says**. Open:
-  the editor's eye on Raumer, Goldbeck and "[Alvensleben?]" (`docs/TODO.md`
-  section 5).
+  locally, **committed but not pushed: publish when the editor says**. The
+  editor confirmed Raumer, Goldbeck and Haugwitz and ruled that the papers
+  are filed under no estate (2026-10-05). Open: "[Alvensleben?]", on a
+  spot sheet (`intake/open_queries.csv`; `queries.py --unit
+  ihagrrep7cnr1414 --read` prints the answer).
+- **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
+  struck-out text is not transcribed; a translation of the time written
+  beside a document is not transcribed where the original is given.
+- The fifteen summaries of Nr. 3709 were claim-checked in session on
+  2026-10-05 (`units/ihagrrep7cnr3709/intake/claim_check.yml`): every
+  holding's summaries written from the German have now had the check.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

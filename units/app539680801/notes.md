@@ -199,5 +199,6 @@ document 3). The English summaries follow, and now use the termbase's words
 
 - The English has not been read against the scans.
 - The fee note on the last page (`intake/unresolved.md`).
-- Settled by the editor on 2026-10-05: three documents; "Dr." before Johann
+- Settled by the editor on 2026-10-05: Heinrichs and Honrichs are kept
+  separate; three documents; "Dr." before Johann
   Wendel Heilmann is the right reading; Michael Just's 5 Hufen.

@@ -1,0 +1,121 @@
+# The claim check of the fifteen German summaries of I. HA GR, Rep. 7 C,
+# Nr. 3709, made in session on 2026-10-05 at the editor's request, under the
+# rules read_letters.py --verify gives its checker (VERIFY_SYSTEM): each
+# statement held to the document, as supported, overstated (the document says
+# something weaker or different) or unsupported, and the summary then only
+# weakened or cut, never added to. Not the paid run; there is no reading.json.
+# The documents were read in the corpus text and in the session's English
+# (site/_data/translations/); page numbers are the document's own.
+#
+# Result: 67 statements, 65 supported, 2 overstated.
+# - Document 5: the summary said the Prince's letter "came in" on 2 December
+#   1800. The office's mark is the bare date "d. 2. Dec 1800." with its journal
+#   number; it does not say received, and on document 1 the same kind of mark
+#   ("den 18 Juni") is the date of the report itself. Now: the receiving office
+#   marked it with that date.
+# - Document 15: the summary said "the Cabinet" passed the petition to Minister
+#   von der Reck. The note reads "An den Staats Minister ... v. d. Reck zur
+#   Beschleunigung. Berlin 26. Januar 1802." and names no office. Now passive:
+#   the petition is passed to him to be hastened.
+# Both weakened in summaries_de.yml, site/_data/summaries_de.yml and
+# site/_data/summaries.yml; the second also in about.md and about_de.md, which
+# had the same words.
+# Names in the edition's forms count as supported (Brzycer Güter for the page's
+# "Brzezier Güter", Posen and Warschau in German, Hohenlohe-Ingelfingen).
+
+ihagrrep7cnr3709-001:
+- {claim: "die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre, die in der Sache Prusimska gegen den Fürsten von Hohenlohe an sie ergangen ist", verdict: supported, where: "p. 1: Die in Sachen Prusimska contra den Herrn Fürsten von Hohenlohe an uns erlaßene Cabinets Ordre überreichen wir ... abschriftlich"}
+- {claim: "die empfangende Behörde legt den Bericht am 23. Juni 1800 zu den Akten", verdict: supported, where: "p. 1, office note: ad acta. den 23 Juni 1800. G[oldbeck]"}
+
+ihagrrep7cnr3709-002:
+- {claim: "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen", verdict: supported, where: "p. 1: Copia ... Friedrich Wilhelm / An Die Regierung zu Posen"}
+- {claim: "dort eingegangen am 16. Juni 1800", verdict: supported, where: "p. 1: eingegangen den 16ten Juny 1800, at the head of the copy the Posen government made"}
+- {claim: "durch eine beiliegende Beschwerde der von Prusimska veranlasst, fordert der König die Akten ihrer Sache gegen den Fürsten von Hohenlohe-Ingelfingen wegen des mütterlichen Vermögens der Bittstellerin ein, so wie sie liegen", verdict: supported, where: "p. 1: durch die beykommende Beschwerde ... veranlaßt, die ... Acten wie sie liegen, einzufordern"}
+- {claim: "er befiehlt, sie sofort einzusenden", verdict: supported, where: "p. 1: solche Angesichts dieses einzusenden"}
+
+ihagrrep7cnr3709-003:
+- {claim: "die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre vom 1. Juli, eingegangen am 7. Juli", verdict: supported, where: "p. 1: Cabinets-Ordre vom 1ten & praes. den 7ten hujus; the report is of 10 July. The heading has 11ten hujus; the order itself (document 4) is dated 1 July"}
+- {claim: "unter Bezug auf ihren Bericht vom 18. des Vormonats", verdict: supported, where: "p. 1: Bericht vom 18ten m. pr."}
+- {claim: "der Termin zur Beweisaufnahme und zum Schlussverfahren in der Sache der Michalina von Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen steht auf den 22. Juli an", verdict: supported, where: "p. 1: Terminus zur Beweisaufnahme und zum Schluß Verfahren ... auf den 22 ten hujus"}
+- {claim: "die empfangende Behörde legt den Bericht am 1. August 1800 in Berlin zu den Akten", verdict: supported, where: "p. 1, office note: ad Acta Berlin d. 1 Aug: 1800 G[oldbeck]"}
+
+ihagrrep7cnr3709-004:
+- {claim: "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen", verdict: supported, where: "p. 1: Copia ... Friedrich Willhelm / An die Regierung zu Posen"}
+- {claim: "er sendet die mit dem Bericht vom 18. des Vormonats eingesandten Akten zurück", verdict: supported, where: "p. 1: bei Remission der mittelst Berichts vom 18ten v. M. ... eingesandten Acten"}
+- {claim: "die Regierung soll die Instruktion, die durch zu viel Nachsicht gegen den Bevollmächtigten des Beklagten sehr verzögert worden sei, mit allem Fleiß beenden", verdict: supported, where: "p. 1: durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein"}
+- {claim: "dann soll sie angemessene Vergleichsvorschläge machen lassen", verdict: supported, where: "p. 1: hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen"}
+- {claim: "kommt der Vergleich nicht zustande, soll sie für ein rasches Urteil sorgen, besonders falls nach den Gesetzen nochmals in erster Instanz erkannt werden müsste", verdict: supported, where: "p. 1: für die Beschleunigung des Erkenntnisses besonders auf den Fall ... daß nochmals in erster Instanz erkannt werden müste"}
+
+ihagrrep7cnr3709-005:
+- {claim: "der Fürst von Hohenlohe schreibt dem Großkanzler", verdict: supported, where: "p. 1: Hochzuverehrender Herr Groß Canzler; p. 2: F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe"}
+- {claim: "die minderjährige Michalina von Prusimska hat bei der Regierung zu Posen gegen ihn auf Herausgabe der ihm vom König geschenkten Brzycer Güter geklagt", verdict: supported, where: "p. 1: eine Klage wegen Vindication der mir von des [...] Majestät geschenkten Brzezier Güter"}
+- {claim: "die Sache soll nun zum Spruch vorgelegt werden", verdict: supported, where: "p. 1: ist jetzt instruirt und soll zum Spruch vorgelegt"}
+- {claim: "da das Pupillenkollegium zu Posen den Prozess im Namen der Klägerin betreibt und seine Mitglieder zugleich Mitglieder der Regierung sind, also seine Richter wären, bittet er, das Urteil der Regierung zu Kalisch zu übertragen und ihr die Akten zuzuschicken", verdict: supported, where: "p. 1: folglich meine Richter in der Sache seyn würden ... daß die Regierung zu Kalisch in dieser Sache das Erkenntniß abfaßen und ihr zu diesem Ende die Acten zugeschickt werden"}
+- {claim: "das Schreiben ging am 2. Dezember 1800 ein", verdict: overstated, where: "p. 1, office note: d. 2. Dec 1800. / H qm B. / No. 5957. A date and a journal number; it does not say presented or received", now: "die empfangende Behörde vermerkte darauf den 2. Dezember 1800"}
+
+ihagrrep7cnr3709-006:
+- {claim: "Begleitschreiben des Fürsten von Hohenlohe an den Großkanzler zu seinem Bittschreiben vom selben Tag", verdict: supported, where: "p. 1: mein Bittschreiben noch mit diesen wenigen Worten zu begleiten; both are of Breslau, 30 November 1800"}
+- {claim: "der Vergleichsvorschlag, den der Deputierte im letzten Termin gemacht hat, lasse ihn fürchten, dass die Regierung zu Posen nicht unbefangen urteilen werde", verdict: supported, where: "p. 2: macht mich besorgt, daß man ... nicht mit der gehörigen Unbefangenheit"}
+- {claim: "das Lebtagsrecht des noch lebenden Vaters der Klägerin am Vermögen seiner verstorbenen Frau sei ein Teil des ihm konfiszierten Vermögens", verdict: supported, where: "p. 2: Das LebtagsRecht, welches der noch lebende Vater der Klägerinn ... ist doch offenbar ein Theil des ihm confiscirten Vermögens"}
+- {claim: "der Deputierte habe dennoch bezweifelt, dass es dem Fiskus zustehe", verdict: supported, where: "p. 2: den sonderbaren Zweyfel ... daß es darum dem Fisco nicht zustehen würde"}
+- {claim: "der Fürst bittet nochmals dringend, den Spruch der Regierung zu Kalisch oder einem anderen südpreußischen Kollegium aufzutragen", verdict: supported, where: "p. 2: nochmals dringendst, entweder der Regierung zu Kalisch oder irgend einem andern Südpreussischen Collegio"}
+
+ihagrrep7cnr3709-007:
+- {claim: "Verfügung von Amts wegen", verdict: supported, where: "p. 1: Ex officio / 1., Rescribatur ... 2., Expediatur"}
+- {claim: "die meisten Räte der Regierung zu Posen sind Mitglieder des dortigen Vormundschaftskollegiums, das die Klage des Vormunds der minderjährigen Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und den Prozess leitet", verdict: supported, where: "p. 1: Da die meisten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären ... unter deßen direction der Proceß selbst betrieben"}
+- {claim: "die Sache soll in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Oberappellationssenat des Kammergerichts entschieden werden", verdict: supported, where: "p. 1: in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes"}
+- {claim: "dies ist der Regierung zu Posen mitzuteilen; Reskripte ergehen auch an die Regierung zu Warschau und an den Senat", verdict: supported, where: "p. 1: mache ihr solches zur Nachricht ... 2., ... an die Regierung zu Warschau und 3., an den Ober-Appell. Senat"}
+
+ihagrrep7cnr3709-008:
+- {claim: "Entwurf eines königlichen Reskripts an die Regierung zu Posen", verdict: supported, where: "p. 1: An die Süd. Preußische Regierung zu Posen ... Friedrich Wilhelm König p ... Ad mandatum; a draft by its form (rulings.yml)"}
+- {claim: "die meisten ihrer Räte sind Mitglieder des dortigen Vormundschaftskollegiums, das die Klage des Vormunds der Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und leitet", verdict: supported, where: "p. 1: Da die meisten Räthe Eürs Collegii Mitglieder des dortigen Vormundschafts-Collegii sind"}
+- {claim: "es wird festgesetzt, dass die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter vom Oberappellationssenat des Kammergerichts entschieden wird", verdict: supported, where: "p. 1: hiermit festzusetzen, daß die benannte Rechts-Sache in erster Instanz ..."}
+- {claim: "beide Kollegien sind am selben Tag angewiesen worden", verdict: supported, where: "p. 1: daß deshalb Dato das Nothige an gedachte beyde Collegia erlassen worden"}
+
+ihagrrep7cnr3709-009:
+- {claim: "Entwurf eines königlichen Reskripts an die Regierung zu Warschau", verdict: supported, where: "p. 1: An die Süd. Preußische Regierung zu Warschau; with its corrections on p. 2"}
+- {claim: "bei der Posener Regierung schwebt zwischen dem Vormund der minderjährigen Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen ein Prozess auf Herausgabe der Brzycer Güter", verdict: supported, where: "p. 1: Bey der Posenschen Regierung Schwebet ..."}
+- {claim: "da das dortige Pupillenkollegium die Klage veranlasst hat und leitet und die meisten Posener Räte ihm angehören, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau entschieden werden", verdict: supported, where: "p. 2: in erster Instanz von dem Pleno Euers Collegii abgeurthelt werden soll"}
+- {claim: "die Regierung zu Posen ist benachrichtigt", verdict: supported, where: "p. 2: daß die Regierung zu Posen hiervon benachrichtiget worden"}
+- {claim: "die Reskripte gingen am 13. zur Post", verdict: supported, where: "p. 1: d. 13. sämmtl. per Post"}
+
+ihagrrep7cnr3709-010:
+- {claim: "Entwurf eines königlichen Reskripts an den Oberappellationssenat des Kammergerichts", verdict: supported, where: "p. 1: An den Ober Appellations Senat des Kammergerichtes"}
+- {claim: "zwischen der minderjährigen Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen schwebt bei der Posener Regierung ein Prozess auf Herausgabe der Brzycer Güter", verdict: supported, where: "p. 1: Schwebet bey der Posenschen Regierung ein auf Vindication der Brzezier Güther gerichteter Proceß"}
+- {claim: "da das Posener Vormundschaftskollegium die Klage veranlasst hat und leitet und die meisten Posener Räte ihm angehören, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Senat entschieden werden", verdict: supported, where: "p. 1: in erster Instanz von dem Pleno der Regierung zu Warschau, und in zweyter Instanz von Euch"}
+- {claim: "die Regierungen in Posen und Warschau sind angewiesen", verdict: supported, where: "p. 1: daß solcherhalb das Nötige an die Regierungen in Posen und Warschau erlassen worden"}
+
+ihagrrep7cnr3709-011:
+- {claim: "Entwurf einer Antwort an den Fürsten von Hohenlohe", verdict: supported, where: "p. 1: An Sr Durchlaucht ... Fürsten von Hohenlohe Ingelfingen ... im Bureau zu mundiren"}
+- {claim: "sein Wunsch, dass seine Sache mit dem Vormund der Michalina von Prusimska nicht von der Regierung zu Posen entschieden werde, sei schon dadurch begründet, dass die meisten dortigen Räte dem Vormundschaftskollegium angehören, das den Rechtsstreit veranlasst hat", verdict: supported, where: "p. 1: durch den einzigen Umstand ... so sehr begründet"}
+- {claim: "der Schreiber hat deshalb verfügt, dass in erster Instanz das Plenum der Regierung zu Warschau und in zweiter der Appellationssenat des Kammergerichts entscheidet", verdict: supported, where: "p. 1: unterm heutigem dato die Verfügung zu treffen"}
+- {claim: "Warschau statt Kalisch habe er gewählt, weil der Posener Präsident Graf von Danckelmann kürzlich zur Regierung in Kalisch übergegangen ist", verdict: supported, where: "p. 2: weil kürzlich der President der Regierung zu Posen, der Graf von Danckelmann zu der Regierung in Kalisch übergegangen ist. The draft adds a second reason, which the summary leaves out: the Prince had said any South Prussian court but Posen would suit him"}
+
+ihagrrep7cnr3709-012:
+- {claim: "die Regierung zu Posen berichtet auf das Reskript vom 7., eingegangen am 16. Dezember", verdict: supported, where: "p. 1: Ad Rescriptum clementissimum vom 7ten et praes: den 16ten huj.; Posen den 18ten Decbr. 1800"}
+- {claim: "in der Sache des Vormunds der Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen ist bereits am 9. Dezember in erster Instanz erkannt worden", verdict: supported, where: "p. 1: bereits, unterm 9ten dieses Monaths in erster Instanz erkannt worden"}
+- {claim: "weil die Kabinettsordre vom 1. Juli die Beschleunigung besonders empfohlen hatte", verdict: supported, where: "p. 1: indem uns durch die Allerhöchste Cabinets-Ordre vom 1ten July curr: ... die Beschleunigung dieser Sache besonders anempfohlen ist"}
+- {claim: "wird ein Rechtsmittel eingelegt, will sie die Akten an den Oberappellationssenat des Kammergerichts zur Entscheidung in zweiter Instanz einsenden", verdict: supported, where: "p. 1: Sollte ... ein Rechtsmittel interponirt werden ... Acta nach beendigter Instruction an den Ober Appellations Senat"}
+- {claim: "die empfangende Behörde verfügt am 31. Dezember 1800, der Regierung zu Warschau mitzuteilen, dass das Reskript vom 7. Dezember keine Anwendung finde", verdict: supported, where: "p. 1, office note: Notificatur der Regierung zu Warschau ... Berlin den 31 Xbr. 1800 G[oldbeck]"}
+
+ihagrrep7cnr3709-013:
+- {claim: "Entwurf eines königlichen Reskripts an die Regierung zu Warschau", verdict: supported, where: "p. 1: An die Süd. Preußische Regierung zu Warschau. ex officio ... Ad mandatum"}
+- {claim: "ihr war durch das Reskript vom 7. Dezember das Urteil erster Instanz im Prozess zwischen dem Vormund der Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen wegen der Brzycer Güter aufgetragen worden", verdict: supported, where: "p. 1: durch das Rescript vom 7. d. M. aufgegeben"}
+- {claim: "die Posener Regierung hat angezeigt, dass sie das Urteil bereits am 9. gefällt hat, also vor Eingang der Verfügung; das Reskript findet daher keine Anwendung", verdict: supported, where: "p. 1: bereits unter dem 9. mithin vor dem Eingange ... keine Anwendung finden"}
+- {claim: "zur Post gegeben am 5. Januar 1801", verdict: supported, where: "p. 1: den 5. Januar 1801 zur Post"}
+
+ihagrrep7cnr3709-014:
+- {claim: "Entwurf eines Schreibens an den Fürsten von Hohenlohe", verdict: supported, where: "p. 1: An Sr durch laucht ... Fürsten von Hohenlohe-Ingelfingen ... Im Bureau zu mundiren"}
+- {claim: "stark korrigiert und schlecht lesbar", verdict: supported, where: "pp. 1-2 as transcribed: marginal insertions that do not construe and marks of doubt (intake/unresolved.md)"}
+- {claim: "die Regierung zu Posen hat seine Sache gegen Michalina von Prusimska infolge der Kabinettsordre vom 1. Juli, die ihr den schnellen Betrieb empfahl, so beschleunigt, dass bereits erkannt war, als die Verfügung vom 7. Dezember dort einging", verdict: supported, where: "p. 1: dergestalt beschleuniget worden, daß darin bereits erkannt war, als Verfügung vom 7ten d. M. dort eingieng"}
+- {claim: "es bleibt bei der Verfügung, dass die Akten zum Spruch in zweiter Instanz an den Oberappellationssenat des Kammergerichts eingeschickt werden", verdict: supported, where: "p. 2: verbleibt ... indeßen bey der Verfügung daß die Acten an den Ober-Appellations-Senat des Cammergerichtes zum Spruch in zweiter Instanz eingeschickt werden"}
+
+ihagrrep7cnr3709-015:
+- {claim: "Michalina Prusimska bittet den König auf Französisch um Beschleunigung", verdict: supported, where: "p. 2: la suplier de daigner presser le Jugement; signed Michaline Prusimska"}
+- {claim: "vor achtzehn Monaten habe sie ihm in Posen eine Denkschrift überreicht und um das Vermögen gebeten, das ihr nach dem Tod ihrer Mutter zustehe", verdict: supported, where: "p. 1: Il y a dix-huit mois ... à Posen ... je lui remis un Mémoire"}
+- {claim: "er habe versprochen, die Justiz zu beschleunigen", verdict: supported, where: "p. 1: me promitez d'accélérer la Justice"}
+- {claim: "nach vier Jahren sei der in Posen begonnene Prozess erst in erster Instanz entschieden", verdict: supported, where: "p. 1: voici quatre ans, que ce procés commencé à Posen, n'est encore jugé que dans la premiere instance"}
+- {claim: "die Entscheidung sei nun an den Gerichtshof in Berlin gegangen", verdict: supported, where: "p. 1: la décision vient d'en etre remise à la Cour de Justice à Berlin"}
+- {claim: "als verlassene Waise klage sie gegen den Fürsten von Hohenlohe", verdict: supported, where: "p. 2: une Orpheline délaissée ... je plaide contre le Prince de Hohenlohe"}
+- {claim: "das Kabinett gibt die Bitte am 26. Januar 1802 an Minister von der Reck", verdict: overstated, where: "p. 1, office note: An den Staats Minister Freyht[?] v. d. Reck zur Besthleunigung. Berlin 26. Januar 1802. The note names no office", now: "die Bitte wird am 26. Januar 1802 dem Minister von der Reck zur Beschleunigung zugewiesen"}
+- {claim: "er lässt ihr am 29. Januar mitteilen, sie habe die Publikation des Appellationsurteils zu erwarten", verdict: supported, where: "p. 1, office note: Notificatur der Suppl. ... publication zu erwarten habe. Berlin den 29 ten Januar 1802 Reck"}

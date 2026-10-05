@@ -6,7 +6,9 @@ scan. The same file is copied to `review/agad11740273/`.
 
 ## Document 1, the draft resolution (0005_a2)
 
-- **A struck-out clause at the end is not transcribed.** After "wróciły" the
+- **A struck-out clause at the end is not transcribed, and stays out:** the
+  editor ruled on 2026-10-05 that struck-out text is not transcribed
+  (`docs/EDITORIAL_RULES.md`). It is recorded here only. After "wróciły" the
   draft went on "z zachowaniem praw Im służących" (with the rights belonging
   to them preserved), and the clause is struck through. "Im" is the least
   certain word. Worth the editor's eye: a clause about rights, drafted and

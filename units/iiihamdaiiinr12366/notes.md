@@ -273,8 +273,9 @@ statement that document 4 is a copy rests on the scan's hand, not the text.
 ## Still to do
 
 - The editor's ruling on the era.
-- The words in `intake/unresolved.md`, should the editor read them on the
-  scan.
+- The words in `intake/unresolved.md` stand as written. On the three words
+  of the Polish judgment ("Assistant", "Rozdayczer[?]", "Likrę[?]") the
+  editor has no further reading (2026-10-05); the question is closed.
 - Reading the English against the scans, as for every holding.
 - The edition guide's counts of holdings and documents are written by hand
   and were stale before this holding; not touched.
