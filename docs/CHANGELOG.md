@@ -1693,6 +1693,10 @@ lose his estates. The era page writes Konotop, not Kontop.
   office, as with Goldbeck's paraph in Nr. 3709; Alvensleben is indexed. The edition has 610
   marks of doubt.
 
+- **Published** (2026-10-05, at the editor's word): I. HA Rep. 162, Nr. 295 and I. HA GR,
+  Rep. 7 C, Nr. 1414, with the rulings and readings of the same day. Sixteen holdings, 473
+  documents, are live.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

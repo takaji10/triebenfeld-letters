@@ -117,7 +117,7 @@ page in both languages; two timeline entries. Details are in
 - [x] Check each statement of the three summaries against its document:
       35 statements, two weakened.
 
-## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (added 2026-10-05)
+## 4. I. HA Rep. 162, Nr. 295: the capital on the Zagórów estates (added and published 2026-10-05)
 
 The file the folder list calls "Capital on the Zagorow estates": the cover
 and eleven pages, copies of the papers of January to March 1805 by which
@@ -135,8 +135,8 @@ summarised, translated and its summaries checked in session. Details are in
       images.
 - [x] Summaries, holding page, translation, claim check; links from the
       timeline, the era essay and three other holdings.
-- [ ] **You: say when to publish it.** Built and verified here, committed
-      locally, not pushed.
+- [x] Published at your word on 2026-10-05, with Nr. 1414 and the day's
+      rulings.
 - [x] The list of estates in the bond (page 3) ends "Grądzyn", not
       "Trąbczyn": confirmed by you on 2026-10-05 ("that's what the document
       stated"). Trąbczyn was not among the estates this loan was secured on.
@@ -146,7 +146,7 @@ summarised, translated and its summaries checked in session. Details are in
       the fee note on page 7 reads "2 gg." Applied to the text and the
       English.
 
-## 5. I. HA GR, Rep. 7 C, Nr. 1414: Prusimski at Venice (added 2026-10-05)
+## 5. I. HA GR, Rep. 7 C, Nr. 1414: Prusimski at Venice (added and published 2026-10-05)
 
 Three documents on four pages, December 1796 to March 1797: the extract of
 the Prussian resident's dispatch from Venice about Antoni Prusimski, the
@@ -157,8 +157,7 @@ passages corrected; summaries, holding page, translation and claim check
 done in session; a timeline entry and two sentences in section I of the era
 essay. Details are in `units/ihagrrep7cnr1414/notes.md`.
 
-- [ ] **You: say when to publish it** (with Nr. 295, section 4). Built and
-      verified here, committed locally, not pushed.
+- [x] Published at your word on 2026-10-05, with Nr. 295.
 - [ ] **You: look at the four page images**, and say if a cut is too close.
 - [x] Raumer, Goldbeck and Haugwitz stand (you, 2026-10-05).
 - [x] The first signature under the draft, where you read "Au[?]": you

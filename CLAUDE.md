@@ -163,11 +163,10 @@ so check them.
   (numbers in `intake/stitch.json`, found by `intake/find_stitch.py`, which
   needs OpenCV). The editor transcribed from those images; 34 passages
   corrected, summarised, translated and claim-checked in session; status
-  `translated`, untagged. Read `units/iharep162nr295/notes.md` first. Built
-  and verified locally, **committed but not pushed: publish when the editor
-  says**. The editor confirmed "Grądzyn" in the bond's list of estates and
+  `translated`, untagged. Read `units/iharep162nr295/notes.md` first. Published
+  at the editor's word on 2026-10-05. The editor confirmed "Grądzyn" in the bond's list of estates and
   the three documents, and answered a spot sheet of five readings, which
-  is applied (2026-10-05). Nothing is open but publishing.
+  is applied (2026-10-05). Nothing is open.
 - **I. HA GR, Rep. 7 C, Nr. 1414** (slug `ihagrrep7cnr1414`, added
   2026-10-05), "Anton Prusimski Venice Residence": three documents on four
   pages, December 1796 to March 1797 (the extract of the Prussian
@@ -177,12 +176,13 @@ so check them.
   `intake/build_pages.py`. The editor's line-by-line transcription cut to
   pages, office marks set apart (`office_notes.yml`), 20 passages corrected,
   summarised, translated and claim-checked in session; status `translated`,
-  untagged. Read `units/ihagrrep7cnr1414/notes.md` first. Built and verified
-  locally, **committed but not pushed: publish when the editor says**. The
+  untagged. Read `units/ihagrrep7cnr1414/notes.md` first. Published at
+  the editor's word on 2026-10-05, with Nr. 295. The
   editor confirmed Raumer, Goldbeck and Haugwitz and ruled that the papers
   are filed under no estate (2026-10-05). The first signature under the
   draft stands as "A[lvensleben]" (initial read, name supplied from his
-  office; the editor cannot verify it). Nothing is open but publishing.
+  office; the editor cannot verify it). Open: the editor's look at the four
+  crops.
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.
