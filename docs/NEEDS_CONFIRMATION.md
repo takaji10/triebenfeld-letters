@@ -11,10 +11,11 @@ repository; they are on the working machine.
 
 ## Waiting on material
 
-- **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed (2026-10-04): fifteen
-  documents, corrected and summarised in both languages. Still open: the
-  English translation and the claim check of the summaries (both paid, on
-  the editor's machine); the editor's eye on the paraph read as Goldbeck
+- **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated
+  (2026-10-04): fifteen documents, corrected and summarised in both
+  languages. Still open: the claim check of its fifteen summaries, the only
+  summaries written from the German that have not had it (it can be done in
+  session, as for the later holdings); the editor's eye on the paraph read as Goldbeck
   and on the words in `review/ihagrrep7cnr3709/unresolved.md`, some of them
   in the French petition.
 read, translate and summarise.
@@ -22,11 +23,16 @@ read, translate and summarise.
   requested in `review/oe1bu9454/rescan_request_final.md`. The trial reading
   of 245 (`review/oe1bu9454/trial_245.csv`, 101 rows) waits for them.
 - **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
-  list, 2026-10-02): Anton Prusimski Venice Residence; Minor Prusimska's
-  claims to her father's estates; Capital on the Zagorow estates; Hohenlohe
-  operations after Jena; the Biography of Hohenlohe (IV. HA); the two Klage
-  der Gräfin Michalina von Miączyńska files; Miaczynska compensation for
-  confiscation. Each is worked into the Hohenlohe-Ingelfingen years page as
+  list, 2026-10-02; state of 2026-10-05). Scans are in the editor's folders
+  and no transcription is with them: Anton Prusimski Venice Residence (I. HA
+  GR, Rep. 7 C, Nr. 1414, 7 images); Minor Prusimska's claims to her father's
+  estates (Nr. 1413, 8 images); Hohenlohe operations after Jena (VI. HA, Nl
+  Scharnhorst, Nr. 98, 56 images); Miaczynska compensation for confiscation
+  (I. HA Rep. 74, Nr. 4680, 12 images). Capital on the Zagorow estates (I. HA
+  Rep. 162, Nr. 295) is scaffolded and waits for its transcription. The
+  Biography of Hohenlohe (IV. HA) is not among the folders. The two Klage der
+  Gräfin Michalina von Miączyńska files are in (Nr. 12366, Nr. 12367). Each
+  is worked into the Hohenlohe-Ingelfingen years page as
   `docs/HOHENLOHE_ERA_PLAN.md` says, and three may open the restitution era
   instead: the era is to be confirmed as each is added.
 - **The confiscation judgment against Antoni Prusimski** of 27 June 1796
