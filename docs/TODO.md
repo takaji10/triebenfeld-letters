@@ -26,8 +26,9 @@ next steps.
 - [ ] **You: the era**, together with Nr. 12366. Both are placed in the
       Hohenlohe-Ingelfingen years for now; the alternative is the restitution
       era (1807 onward), which is still empty.
-- [ ] **You: say how the translation is to be done** (a paid run on this
-      machine, or in a working session as for Nr. 12366 and Nr. 3709).
+- [x] How the translation is to be done: in a cloud session, by you (said
+      2026-10-05), for this holding and the two in section 2. `CLAUDE.md`
+      tells that session what to follow.
 - [ ] Translate the eleven documents into English, check and publish them, and
       mark the holding `translated`.
 - [ ] Check each statement of the eleven summaries against its document (the

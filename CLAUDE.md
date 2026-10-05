@@ -123,6 +123,18 @@ so check them.
 - Nr. 12367 and the two AGAD holdings were published at the editor's word
   on 2026-10-05 (commit df7a05da). What is left for each is in
   `docs/TODO.md`.
+- **The translation of these three holdings (17 documents) is to be done in
+  a cloud session** (editor, 2026-10-05), in session and not by a paid run,
+  the way Nr. 12366 was: read `units/iiihamdaiiinr12366/notes.md`, section
+  "Translation", and copy its `intake/translation/` (one `doc<N>.yml` per
+  document and `write_cache.py`). No pilot is needed. Each unit's
+  `translation_note` in `unit.yml` says what the abbreviations and office
+  notes are; its `intake/unresolved.md` lists the words to leave visibly
+  doubtful. In the same pass, check each summary statement against its
+  document (`intake/claim_check.yml` in Nr. 12366 is the model). Then set
+  status `translated`, rule on any glossary candidates the gate reports,
+  and update each holding's "Still to do", `docs/TODO.md`,
+  NEEDS_CONFIRMATION and the changelog.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the
