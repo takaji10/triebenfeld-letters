@@ -52,7 +52,12 @@ recovered the estates in 1807.
 In 1794 the Poles rose against the partitioning powers. After the rising was put down, the
 Prussian crown confiscated the estates of landowners who had taken part in it. Antoni
 Prusimski was named by the Prussian authorities as one of its leaders, and he fled. His
-estates were declared forfeit to the Treasury by a judgment given at Toruń.
+estates were declared forfeit to the Treasury by a judgment given at Toruń. In December
+1796 he was at Venice: the Prussian resident there reported that he had come to him ill and
+broken by the death of his wife, and had asked for a certificate that he could not travel
+([extract]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). The department of foreign
+affairs passed the report to the ministers for the new provinces in January 1797
+([draft]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
 
 In the summer of 1796 Count Hoym, the minister responsible for Silesia and South Prussia,
 proposed that some of these estates, with others that had fallen vacant, be granted to

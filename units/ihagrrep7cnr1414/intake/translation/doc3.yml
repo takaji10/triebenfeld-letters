@@ -1,0 +1,49 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    To Your Excellencies and the Most Praiseworthy Department of Foreign Affairs I return my most obedient thanks for the intelligence, kindly communicated to me under the 11th of this month, concerning Anton Prusimski, who is settled in the new acquisition from Poland but is at present staying at Venice; and I do not fail at the same time most obediently to report hereby to Your Excellencies and the Most Praiseworthy Department of Foreign Affairs that I have found myself moved to inform the Minister of State Count von Hoym of it further, since it is not established whether Prusimski is settled in New East Prussia or else in South Prussia?
+
+    Berlin, 29 January 1797.
+
+    Schrötter
+
+    To the Most Praiseworthy Department of Foreign Affairs, here
+
+    [Written by the receiving office:]
+
+    No. 5 of 11 January
+
+    Presented the 8th of February 1797.
+
+    February B. No 709.
+
+    To the files, 16 March 97
+
+    Raumer
+  names:
+  - {de: Departement der auswärtigen Angelegenheiten, en: Department of Foreign Affairs, kind: other}
+  - {de: Pohlen, en: Poland, kind: place}
+  - {de: Venedig, en: Venice, kind: place}
+  - {de: Anton Prusimski, en: Anton Prusimski, kind: person}
+  - {de: Grafen v. Hoym, en: Count von Hoym, kind: person}
+  - {de: Neu-Ostpreußen, en: New East Prussia, kind: place}
+  - {de: Südpreußen, en: South Prussia, kind: place}
+  - {de: Berlin, en: Berlin, kind: place}
+  - {de: Schrötter, en: Schrötter, kind: person}
+  - {de: Raumer, en: Raumer, kind: person}
+  numbers: ['11', '29', '1797', '5', '11', '8', '1797', '709', '16', '97']
+  flagged:
+  - de: "ob der p Prusimski in Neu-Ostpreußen oder aber in Südpreußen angesessen ist?"
+    rendered_as: "whether Prusimski is settled in New East Prussia or else in South Prussia?"
+    alt: "(no other reading)"
+    why: "The writer ends the indirect question with a question mark; it is kept."
+  - de: "N 5 d 11 Jan"
+    rendered_as: "No. 5 of 11 January"
+    alt: "(no other reading)"
+    why: "The department's mark tying the reply to its own piece No. 5, the draft of 11 January."
+  - de: "Februar B. No 709."
+    rendered_as: "February B. No 709."
+    alt: "February 13. No 709."
+    why: "The journal number, in red. The letter is read as B, the journal after the \"A\" of January; the transcription had 13."

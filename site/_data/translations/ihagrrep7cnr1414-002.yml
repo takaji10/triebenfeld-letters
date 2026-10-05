@@ -1,0 +1,80 @@
+status: draft
+segments:
+- page: 1
+  en: '[Written by the receiving office:]
+
+
+    A. 10. 8 January 1797.
+
+
+    To be notified to
+
+
+    1. His Excellency Count von Hoym
+
+
+    2. His Excellency Baron von Schrötter
+
+
+    for such use as they may see fit
+
+
+    Raumer'
+  names:
+  - de: Gr. v. Hoym
+    en: Count von Hoym
+    kind: person
+  - de: Frh. v. Schrötter
+    en: Baron von Schrötter
+    kind: person
+  - de: Raumer
+    en: Raumer
+    kind: person
+  numbers:
+  - '10'
+  - '8'
+  - '1797'
+  - '1.'
+  - '2.'
+- page: 2
+  en: 'Extract from dispatch No. 423 of Count de Cattaneo, dated Venice, 14 December 1796.
+
+
+    The Polish gentleman Antoine Prusimski having presented himself at my house in a truly ruined state
+    of health, and affected almost to stupor by the death of his wife, asking me for a certificate of
+    his sad situation and of the impossibility in which he was, for the present and in this season, of
+    being able to set out on a journey, I did not think I could refuse it to him; for if he was wearied
+    to the point of prostration in passing from one house to another, how could he have set out on a journey
+    to pass from one country to another?
+
+
+    [Written by the receiving office:]
+
+
+    Mr von Raumer
+
+
+    Presented the 2nd of January 1797.
+
+
+    See Journal A. No. 10.'
+  names:
+  - de: C. de Cattaneo
+    en: Count de Cattaneo
+    kind: person
+  - de: Venise
+    en: Venice
+    kind: place
+  - de: Antoine Prusimski
+    en: Antoine Prusimski
+    kind: person
+  - de: Hr von Raumer
+    en: Mr von Raumer
+    kind: person
+  numbers:
+  - '423'
+  - '14'
+  - '1796'
+  - '2'
+  - '1797'
+  - '10'

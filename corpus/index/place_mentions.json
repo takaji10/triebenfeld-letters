@@ -2,8 +2,10 @@
  {
   "entity": "berlin",
   "display": "Berlin",
-  "count": 347,
+  "count": 350,
   "documents": [
+   "ihagrrep7cnr1414-1",
+   "ihagrrep7cnr1414-3",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3709-10",
    "ihagrrep7cnr3709-11",
@@ -304,6 +306,33 @@
     "scan": "I_HA_Rep_7_C_Nr_3570_0026_a2-L1_22.jpg",
     "line": 507,
     "doc_line": 441
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 19,
+    "doc_line": 17
+   },
+   {
+    "uid": "ihagrrep7cnr1414-3",
+    "surface": "Berlin",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
+    "line": 60,
+    "doc_line": 10
    },
    {
     "uid": "oe1bu14525-10",
@@ -21939,11 +21968,12 @@
  {
   "entity": "suedpreussen",
   "display": "Südpreußen",
-  "count": 64,
+  "count": 65,
   "documents": [
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
+   "ihagrrep7cnr1414-3",
    "ihagrrep7cnr3570-1",
    "iharep162nr295-1",
    "iharep162nr295-3",
@@ -22046,6 +22076,15 @@
     "scan": "I_HA_Rep_7_C_Nr_3570_0026_a2-L1_22.jpg",
     "line": 488,
     "doc_line": 422
+   },
+   {
+    "uid": "ihagrrep7cnr1414-3",
+    "surface": "Südpreußen",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
+    "line": 59,
+    "doc_line": 9
    },
    {
     "uid": "oe1bu9454-102",
@@ -38033,6 +38072,82 @@
     "scan": "Oe_1_Bu_9454_0543_a1-L303_02.jpg",
     "line": 21535,
     "doc_line": 35
+   }
+  ]
+ },
+ {
+  "entity": "venedig",
+  "display": "Venice (Venedig)",
+  "count": 7,
+  "documents": [
+   "ihagrrep7cnr1414-1",
+   "ihagrrep7cnr1414-2",
+   "ihagrrep7cnr1414-3",
+   "iiihamdaiiinr12366-2"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr1414-2",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0004_a2-L2_02.jpg",
+    "line": 36,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 13,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 17,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr1414-3",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
+    "line": 54,
+    "doc_line": 4
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venedig",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+    "line": 26,
+    "doc_line": 12
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+    "line": 27,
+    "doc_line": 13
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venise",
+    "page": 3,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
+    "line": 29,
+    "doc_line": 14
    }
   ]
  },

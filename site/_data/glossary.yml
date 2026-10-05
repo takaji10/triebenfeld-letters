@@ -1385,7 +1385,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 50
+  docs: 53
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1727,7 +1727,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 350
+  docs: 352
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1746,7 +1746,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 167
+  docs: 169
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"
@@ -1822,7 +1822,7 @@
   initial_en: "P"
   sort_de: "pp., p."
   initial_de: "P"
-  docs: 82
+  docs: 84
 - id: "geruhen"
   kind: "phrase"
   lang: "de"
@@ -1993,7 +1993,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 94
+  docs: 95
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

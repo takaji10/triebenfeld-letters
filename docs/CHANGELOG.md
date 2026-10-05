@@ -1642,6 +1642,25 @@ lose his estates. The era page writes Konotop, not Kontop.
   holdings, 470 documents and 1,558 pages; 465 have an English translation. See
   `units/iharep162nr295/notes.md`.
 
+- **I. HA GR, Rep. 7 C, Nr. 1414 added** (2026-10-05), "Aufenthalt des Anton v. Prusimski in
+  Venedig": three documents on four pages. An extract in French from dispatch No. 423 of Count
+  Cattaneo, the Prussian resident at Venice, of 14 December 1796 (Prusimski, ill and broken by
+  his wife's death, has asked for and been given a certificate that he cannot travel), with
+  the slip on which the councillor Raumer directs on 8 January 1797 that Hoym and Schrötter be
+  notified; the department of foreign affairs' draft of 11 January 1797 to Hoym, Schroetter
+  and the Grand Chancellor von Goldbeck; Schrötter's reply of 29 January. Of seven scans the
+  editor wanted four; three openings were cut to the written side. The editor's line-by-line
+  transcription was cut to pages, with the department's marks on the papers it received set
+  apart as office text. Corrected against the scans: 20 passages; Raumer (for Rammer, Maunes,
+  Maurer), Goldbeck as third addressee, Haugwitz and a doubtful Alvensleben as signatories,
+  "affatigué" restored in the extract. Summarised in both languages and claim-checked (19
+  statements, two weakened); translated in session, no check rows; holding page in both
+  languages; a timeline entry (14 December 1796) and two sentences in section I of the era
+  essay; Nr. 3570 and Nr. 3709 link to it. New people: Cattaneo, Raumer, Schroetter and
+  Haugwitz, who is now also indexed in the letters of Oe 1 Bü 9454 that name him. New place:
+  Venice. The edition has sixteen holdings, 473 documents and 1,562 pages; 468 have an
+  English translation. See `units/ihagrrep7cnr1414/notes.md`.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

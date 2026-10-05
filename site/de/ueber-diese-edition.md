@@ -9,14 +9,14 @@ alt_url: /reading-this-edition/
 
 ## Die Quelle
 
-Die 470 bisher veröffentlichten Dokumente stammen aus fünfzehn Beständen in vier Archiven:
+Die 473 bisher veröffentlichten Dokumente stammen aus sechzehn Beständen in vier Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, der Korrespondenz aus
   achtzehn Jahren (318 Dokumente); `Oe 1 Bü 14525` und `Oe 1 Bü 14526`, zwei Bänden mit
   Schenkungs- und Besitzurkunden und Pachtverträgen; und `Oe 1 U 199`, der königlichen
   Bestätigung des fürstlichen Fideikommisses von 1805;
-- dem **Geheimen Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: drei Akten der
-  preußischen Verwaltung Südpreußens (I. HA GR, Rep. 7 C, Nr. 3570, 3705 und 3709) drei
+- dem **Geheimen Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: vier Akten der
+  preußischen Verwaltung Südpreußens (I. HA GR, Rep. 7 C, Nr. 1414, 3570, 3705 und 3709), drei
   des preußischen Außenministeriums (III. HA MdA, III. Nr. 12765, 12366 und 12367), die dem
   Gut und den Schulden des Fürsten darauf bis 1832 folgen, und Abschriften von 1805 aus einer
   Akte der Staatsschatzverwaltung über ein auf Zagórów gesichertes Darlehen (I. HA Rep. 162,
@@ -54,8 +54,8 @@ im Archivtext einnimmt. Nichts läuft über einen Seitenumbruch hinweg. Ein Brie
 dennoch als Ganzes lesbar; die Seiten sind Gliederung darin, und neben ihnen stehen die
 Digitalisate.
 
-Auf die 470 Dokumente entfallen **1.558 Handschriftenseiten**. Die Korrespondenz hat 870
-davon, die beiden Urkundenbände 165 und 287; die übrigen zwölf Bestände haben jeweils 3 bis
+Auf die 473 Dokumente entfallen **1.562 Handschriftenseiten**. Die Korrespondenz hat 870
+davon, die beiden Urkundenbände 165 und 287; die übrigen dreizehn Bestände haben jeweils 3 bis
 50 Seiten. Die Zahlen, die unten zu Trennzeichen, Kustoden und Digitalisaten genannt werden,
 sind die der Korrespondenz, in der diese Fragen am dichtesten auftraten.
 
@@ -255,7 +255,7 @@ Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
 
 ## Englische Übersetzungen
 
-Jedes Dokument mit Text hat nun eine englische Übersetzung: 465 der 470. Die übrigen fünf
+Jedes Dokument mit Text hat nun eine englische Übersetzung: 468 der 473. Die übrigen fünf
 sind Nummern der Korrespondenz, unter denen kein Text überliefert ist. Jede Übersetzung
 erscheint unter dem Original mit ihrem Status, und die französischen und polnischen
 Dokumente wurden aus ihrer eigenen Sprache übersetzt. Keine Übersetzung gilt als

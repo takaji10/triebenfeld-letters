@@ -27,7 +27,7 @@ Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registra
 
 ### Verwandte Bestände
 
-Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschriften: <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Beschwerden der Tochter Prusimskis gegen Hohenlohe-Ingelfingen, 1800 bis 1802: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Der Entschädigungsanspruch nach dem Verlust der Güter 1807: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. <!-- context -->
+Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschriften: <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Beschwerden der Tochter Prusimskis gegen Hohenlohe-Ingelfingen, 1800 bis 1802: <a href="{{ '/de/quellen/ihagrrep7cnr3709/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3709</a>. Der Entschädigungsanspruch nach dem Verlust der Güter 1807: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. Schriftstücke aus dem Winter 1796 auf 1797 über Antoni Prusimski, den früheren Besitzer, der sich damals in Venedig aufhielt: <a href="{{ '/de/quellen/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>. <!-- context -->
 
 <!--prepared-->
 

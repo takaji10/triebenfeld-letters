@@ -1,0 +1,55 @@
+# Editorial rulings for I. HA GR, Rep. 7 C, Nr. 1414 (GStA PK).
+#
+# Three documents, one per letter, as in Nr. 3709 and III. HA MdA, III Nr.
+# 12765: the department's draft (1), the extract of the envoy's dispatch (2)
+# and Schrötter's reply (3). The archive numbers nothing on the scans, so the
+# documents are numbered in the order they are bound; that is not the order
+# of their dates. The slip with the councillor's direction (page 0003) is the
+# office's writing on the extract and opens document 2, as it lies in the
+# file. Of the seven scans the editor wanted four (0002 to 0005); the folder
+# and the blank leaves are left out. Established 2026-10-05.
+
+places:
+  overrides:
+    "1": Berlin
+    "2": Venedig
+    "3": Berlin
+
+dates:
+  # [year, month, day, precision]; read off each document.
+  read:
+    "1": [1797, 1, 11, "day"]      # "Berlin, d. 11. Januar 1797."
+    "2": [1796, 12, 14, "day"]     # "en date de Venise le 14 Décembre 1796."; presented 2 January 1797
+    "3": [1797, 1, 29, "day"]      # "Berlin d 29te Januar 1797."; presented 8 February
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # 1 is the department's draft, with its registry marks. 2 and 3 are letters
+  # (an extract from a dispatch is kept as `letter`, as copied letters are).
+  doc_type:
+    "1": draft
+
+  language:
+    "2": "fr"
+
+  duplicate_of: {}
+  split_note: {}
+
+  relations:
+    "1":
+      - kind: transmits
+        target: "2"
+        note: "'in Abschrift mitzutheilen, was der Königl. Resident Graf von Cattaneo zu Venedig ... einberichtet hat': document 2 is the extract that was copied for the three ministers."
+    "3":
+      - kind: answers
+        target: "1"
+        note: "Schrötter thanks the department for 'die mir unterm 11ten huj: beliebigst mitgetheilte ... Nachricht'; the department marked his letter 'N 5 d 11 Jan', the number of its draft."
+
+damage:
+  letters: []
+
+rough:
+  letters: []

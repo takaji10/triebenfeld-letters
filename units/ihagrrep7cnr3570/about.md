@@ -16,4 +16,4 @@ The papers are drafts and copies in German. Registry notes at the front of the f
 
 ### Related holdings
 
-The charter as issued to Hohenlohe-Ingelfingen, with its certified copies: [[unit:oe1bu14525]]. Complaints of Prusimski's daughter against Hohenlohe-Ingelfingen, 1800 to 1802: [[unit:ihagrrep7cnr3709]]. The claim for compensation after the loss of the estates in 1807: [[unit:iiihamdaiiinr12765]]. <!-- context -->
+The charter as issued to Hohenlohe-Ingelfingen, with its certified copies: [[unit:oe1bu14525]]. Complaints of Prusimski's daughter against Hohenlohe-Ingelfingen, 1800 to 1802: [[unit:ihagrrep7cnr3709]]. The claim for compensation after the loss of the estates in 1807: [[unit:iiihamdaiiinr12765]]. Papers of the winter of 1796 to 1797 on Antoni Prusimski, the former owner, then at Venice: [[unit:ihagrrep7cnr1414]]. <!-- context -->

@@ -1,0 +1,24 @@
+# Text the receiving office wrote on someone else's paper. Here the office is
+# the department of foreign affairs: its councillor's direction on the slip
+# (0003), its marks on the extract of the envoy's dispatch (0004), and its
+# marks on Schrötter's letter (0005). The lines are ordinary text in
+# corpus.txt; this file only says which they are, so the site can set them
+# apart. Each block stands at the end of its page, wherever it is written on
+# the sheet (intake/build_pages.py).
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '2'
+    page: '0003_a2'
+    first: 'A. 10. d. 8. Jan 1797.'
+    lines: 6
+  - letter: '2'
+    page: '0004_a2'
+    first: 'Hr von Raumer'
+    lines: 3
+  - letter: '3'
+    page: '0005_a2'
+    first: 'N 5 d 11 Jan'
+    lines: 6

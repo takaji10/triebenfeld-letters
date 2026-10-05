@@ -1,9 +1,11 @@
 [
  {
   "place": "Berlin",
-  "count": 88,
+  "count": 90,
   "documents": [
    "ihagrrep7cnr3570-1",
+   "ihagrrep7cnr1414-1",
+   "ihagrrep7cnr1414-3",
    "oe1bu9454-77",
    "oe1bu9454-79",
    "oe1bu9454-80",
@@ -604,6 +606,13 @@
   "documents": [
    "iiihamdaiiinr12765-25",
    "iiihamdaiiinr12366-5"
+  ]
+ },
+ {
+  "place": "Venedig",
+  "count": 1,
+  "documents": [
+   "ihagrrep7cnr1414-2"
   ]
  },
  {

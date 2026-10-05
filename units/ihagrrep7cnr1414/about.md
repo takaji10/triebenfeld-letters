@@ -1,0 +1,23 @@
+Four pages from a file of the Prussian central administration for South Prussia (I. HA Geheimer Rat, Rep. 7 C), kept in the Geheimes Staatsarchiv Preußischer Kulturbesitz, Berlin. The archive's title for the file is "Aufenthalt des Anton v. Prusimski in Venedig" (the stay of Anton von Prusimski at Venice). The papers were written in and for the department of foreign affairs between December 1796 and March 1797. They are three documents: two in German and one in French. <!-- context -->
+
+### Historical background
+
+Antoni Prusimski, Starost of Niszczewice, owned the Trąbczyn and Kamionna estates in the part of Poland that Prussia took in 1793. The Prussian authorities named him among the leaders of the Polish rising of 1794, and he left the country. His estates were declared forfeit, and in August 1796 King Friedrich Wilhelm II granted them to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. Prussia's share of Poland was then administered in two parts, each under its own minister in Berlin: South Prussia under Count Hoym and New East Prussia under Baron Schroetter. Prussia kept a resident, a diplomatic agent, at Venice. <!-- context -->
+
+### Contents
+
+**The resident's dispatch, 14 December 1796.** An extract in French from dispatch No. 423 of Count Cattaneo, the Prussian resident at Venice. The Polish gentleman Antoine Prusimski had come to him in ruined health and dulled almost to stupor by the death of his wife, and had asked for a certificate of his condition and that he could not travel at present and in that season. Cattaneo writes that he did not think he could refuse it: a man exhausted by going from one house to another could not go from one country to another. The department of foreign affairs received the extract on 2 January 1797 and routed it to its councillor Raumer, who directed on 8 January 1797 that Hoym and Schrötter be notified [[2]].
+
+**The department's letter, 11 January 1797.** The draft of the letter sent on that direction. It is addressed to Hoym and in the same words to Schroetter; a larger hand adds the Grand Chancellor von Goldbeck, and three fair copies are ordered. The department communicates a copy of what the resident has reported about Anton Prusimski, a resident of the provinces acquired from Poland who is at present at Venice. The second of the two signatures is that of the minister Haugwitz. The letters went to the post on the 12th [[1]].
+
+**Schrötter's reply, 29 January 1797.** Schrötter thanks the department and reports that he has passed the news on to Hoym, since it is not established whether Prusimski is settled in New East Prussia or in South Prussia. The department received the letter on 8 February 1797 and put it with the files in March [[3]].
+
+The papers do not say what Prusimski wanted the certificate for, or what was done with the news. <!-- context -->
+
+### Form and language
+
+The first page is the department's own draft, with its registry marks and two ministers' signatures. The extract is a clean copy made in the department. Schrötter's letter is the original he sent. On the extract and on Schrötter's letter the department noted the day of receipt, the journal number and what was to be done; on the pages of this edition these notes stand under a label after the text they were written on. The direction of 8 January 1797 is written on a slip of its own. <!-- context -->
+
+### Related holdings
+
+The grant of Prusimski's estates to Hohenlohe-Ingelfingen in 1796: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. The suit of his daughter Michalina for her mother's estates, 1800 to 1802, from the same record group: [[unit:ihagrrep7cnr3709]]. The return of the confiscated estates to her in 1807: [[unit:agad11740273]] and [[unit:agad1174016]]. <!-- context -->

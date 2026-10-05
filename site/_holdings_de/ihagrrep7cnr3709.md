@@ -31,7 +31,7 @@ Die Prusimska klagte durch ihren Vormund vor der Regierung in Poznań (Posen) ge
 
 ### Verwandte Bestände
 
-Die Verleihung von 1796: <a href="{{ '/de/quellen/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> und <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Der Entschädigungsanspruch Hohenlohe-Ingelfingens nach 1807, in dem sein Bevollmächtigter angibt, die Prusimska habe Brzyce als mütterliches Erbteil zurückerhalten: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. <!-- context -->
+Die Verleihung von 1796: <a href="{{ '/de/quellen/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> und <a href="{{ '/de/quellen/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. Der Entschädigungsanspruch Hohenlohe-Ingelfingens nach 1807, in dem sein Bevollmächtigter angibt, die Prusimska habe Brzyce als mütterliches Erbteil zurückerhalten: <a href="{{ '/de/quellen/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. Schriftstücke aus demselben Bestand über ihren Vater Antoni Prusimski in Venedig, 1796 und 1797: <a href="{{ '/de/quellen/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>. <!-- context -->
 
 <!--prepared-->
 

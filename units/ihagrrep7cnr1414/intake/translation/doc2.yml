@@ -1,0 +1,58 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: |-
+    [Written by the receiving office:]
+
+    A. 10. 8 January 1797.
+
+    To be notified to
+
+    1. His Excellency Count von Hoym
+
+    2. His Excellency Baron von Schrötter
+
+    for such use as they may see fit
+
+    Raumer
+  names:
+  - {de: Gr. v. Hoym, en: Count von Hoym, kind: person}
+  - {de: Frh. v. Schrötter, en: Baron von Schrötter, kind: person}
+  - {de: Raumer, en: Raumer, kind: person}
+  numbers: ['10', '8', '1797', '1.', '2.']
+  flagged:
+  - de: "A. 10."
+    rendered_as: "A. 10."
+    alt: "Journal A, No. 10"
+    why: "The department's journal number of the extract, which is marked \"vide Journal A. No. 10.\" on the next page."
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: |-
+    Extract from dispatch No. 423 of Count de Cattaneo, dated Venice, 14 December 1796.
+
+    The Polish gentleman Antoine Prusimski having presented himself at my house in a truly ruined state of health, and affected almost to stupor by the death of his wife, asking me for a certificate of his sad situation and of the impossibility in which he was, for the present and in this season, of being able to set out on a journey, I did not think I could refuse it to him; for if he was wearied to the point of prostration in passing from one house to another, how could he have set out on a journey to pass from one country to another?
+
+    [Written by the receiving office:]
+
+    Mr von Raumer
+
+    Presented the 2nd of January 1797.
+
+    See Journal A. No. 10.
+  names:
+  - {de: C. de Cattaneo, en: Count de Cattaneo, kind: person}
+  - {de: Venise, en: Venice, kind: place}
+  - {de: Antoine Prusimski, en: Antoine Prusimski, kind: person}
+  - {de: Hr von Raumer, en: Mr von Raumer, kind: person}
+  numbers: ['423', '14', '1796', '2', '1797', '10']
+  flagged:
+  - de: "affecté presqu'à la stupidité"
+    rendered_as: "affected almost to stupor"
+    alt: "affected almost to stupidity"
+    why: "\"stupidité\" in the sense of the time: numbness, the dulling of the mind by grief."
+  - de: "Hr von Raumer"
+    rendered_as: "Mr von Raumer"
+    alt: "(to) Mr von Raumer"
+    why: "A routing mark at the head of the extract: the piece goes to this councillor, who signs the direction on the slip."

@@ -1,0 +1,68 @@
+status: draft
+segments:
+- page: 1
+  en: 'Berlin, 11 January 1797.
+
+
+    To His Excellency the Royal etc. Minister Count von Hoym,
+
+
+    et in simili To His Excellency the Royal etc. Minister Baron von Schrötter.
+
+
+    Gr. In triplicate, fair copies.
+
+
+    We do ourselves the honour of communicating to Your Excellency herewith in copy, for such use as you
+    may see fit, what the Royal Resident at Venice, Count von Cattaneo, has reported, at that person''s
+    request, about a resident of the Royal provinces acquired from the former Republic of Poland, by name
+    Anton Prusimski, who is at present staying at Venice. Berlin, 11 January 1797.
+
+
+    The same to His Excellency the Grand Chancellor von Goldbeck.
+
+
+    [uncertain: Alvensleben]
+
+
+    Haugwitz
+
+
+    On the 12th, all sent to the post.'
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Grafen von Hoym
+    en: Count von Hoym
+    kind: person
+  - de: Frhrn von Schroetter
+    en: Baron von Schrötter
+    kind: person
+  - de: Graf von Cattaneo
+    en: Count von Cattaneo
+    kind: person
+  - de: Venedig
+    en: Venice
+    kind: place
+  - de: Republik Pohlen
+    en: Republic of Poland
+    kind: place
+  - de: Anton Prusimski
+    en: Anton Prusimski
+    kind: person
+  - de: H. G[roß]K[anzlers] v. Goldbeck
+    en: Grand Chancellor von Goldbeck
+    kind: person
+  - de: '[Alvensleben?]'
+    en: '[uncertain: Alvensleben]'
+    kind: person
+  - de: Haugwitz
+    en: Haugwitz
+    kind: person
+  numbers:
+  - '11'
+  - '1797'
+  - '11'
+  - '1797'
+  - '12'

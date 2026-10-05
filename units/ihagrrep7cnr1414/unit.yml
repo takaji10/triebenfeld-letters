@@ -1,0 +1,116 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: ihagrrep7cnr1414
+ref: I. HA GR, Rep. 7 C, Nr. 1414
+archive: Geheimes Staatsarchiv Preußischer Kulturbesitz (GStA PK)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt.
+title: >-
+  Three papers of the Prussian department of foreign affairs, December 1796
+  to February 1797, on Antoni Prusimski, the former owner of the Trąbczyn
+  estates, who was then at Venice: the Prussian resident there reports that
+  he has certified that Prusimski, ill and broken by his wife's death, cannot
+  travel, and the department passes the report to the ministers for the new
+  Polish provinces and to the Grand Chancellor.
+title_de: >-
+  Drei Schriftstücke des preußischen Departements der auswärtigen
+  Angelegenheiten, Dezember 1796 bis Februar 1797, über Antoni Prusimski, den
+  früheren Besitzer der Güter von Trąbczyn, der sich damals in Venedig
+  aufhielt: Der preußische Resident dort berichtet, er habe Prusimski
+  bescheinigt, dass dieser krank und durch den Tod seiner Frau gebrochen sei
+  und nicht reisen könne, und das Departement gibt den Bericht an die Minister
+  für die neuen polnischen Provinzen und an den Großkanzler weiter.
+# The archive's title of the file, from its finding aid. Kept for reference;
+# nothing displays it.
+archive_title: >-
+  Aufenthalt des Anton v. Prusimski in Venedig
+# The dispatch is of 14 December 1796, the last mark on the file of 16 March
+# 1797. The archive dates the file 1797.
+date_span: 1796-1797
+status: translated         # draft | transcribed | translated | published
+# Translated in session on 2026-10-05 into the untagged cache
+# (cache/translation-raw), as Nr. 12366 was: see notes.md.
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. Section I of the
+# era essay (docs/HOHENLOHE_ERA_PLAN.md): Prusimski after the confiscation.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: gstapk-berlin
+
+# 7 scans, of which the editor wanted four (2026-10-05): 0002 to 0005. 0001
+# is the modern folder; 0006 and 0007 are blank. 0002 is a single page and is
+# copied whole; 0003, 0004 and 0005 are openings whose left side is blank and
+# are cut to the written side (`_a2`), on 0003 to the slip that carries the
+# writing. intake/build_pages.py records the boxes.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Secret State Archives Prussian Cultural Heritage Foundation/Anton Prusimski Venice Residence (I. HA GR, Rep. 7 C, Nr. 1414)
+  raw_glob: I_HA_Rep_7_C_Nr_1414_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: I_HA_Rep_7_C_Nr_1414
+
+# One file per page, named I_HA_Rep_7_C_Nr_1414_<page id>.txt (0002_a,
+# 0003_a2). Made from the editor's one-file-per-scan transcriptions by
+# intake/build_pages.py, which records which source lines went where.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: "I_HA_Rep_7_C_Nr_1414_"
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Four pages from a file of the Prussian General Directory's department for
+  South Prussia, which received them from the department of foreign affairs:
+  the papers by which the news that Antoni Prusimski was at Venice went round
+  the Prussian ministries in the winter of 1796 to 1797. Prusimski, Starost of
+  Niszczewice, had taken part in the Polish rising of 1794 and left the
+  country; Prussia had confiscated his estates, Trąbczyn among them, and in
+  1796 given them to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. In his
+  dispatch No. 423 of 14 December 1796 the Prussian resident at Venice, Count
+  Cattaneo, reports in French that the Polish gentleman Antoine Prusimski came
+  to him in ruined health and dulled by grief at his wife's death, and asked
+  for a certificate of his condition and that he could not travel in that
+  season; Cattaneo did not think he could refuse it. The department's
+  councillor Raumer directs on 8 January 1797 that Count Hoym and Baron
+  Schrötter be told. The draft of 11 January 1797, signed by two ministers of
+  the department, sends a copy of the extract to Hoym, the minister for South
+  Prussia, to Schrötter, the minister for New East Prussia, and to the Grand
+  Chancellor von Goldbeck. Schrötter answers on 29 January that he has passed
+  it to Hoym, since it is not established whether Prusimski is settled in New
+  East Prussia or in South Prussia. The papers do not say why Prusimski
+  wanted the certificate.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A ministry file: one draft of the department of foreign affairs, one
+  extract in French from an envoy's dispatch, one incoming letter. Registry
+  marks are not prose: "Gr. in triplo md." (fair copies in triplicate), "d 12.
+  sämmtl. zur Post" (all sent to the post on the 12th), "N 5" (the piece's
+  number), "Praesent." and "Praesentl:" (received), "vide Journal A. No. 10."
+  and "Februar B. No 709." (journal numbers), "Notif." (let it be notified),
+  "Ad acta" (file it), "dH." (des Herrn), "et in simili" and "in simili" (and
+  the same to). "Hr von Raumer" at the head of the extract routes it to that
+  councillor, who signs the directions. "H. G[roß]K[anzlers] v. Goldbeck" is
+  the Grand Chancellor. "[Alvensleben?]" is a signature read with doubt. Text
+  that the receiving office wrote on a paper stands at the end of that page
+  and is not part of the letter; the whole of the first page of document 2 is
+  such a direction. "die neue Acquisition von Pohlen" and "die von der
+  ehemaligen Republik Pohlen acquirirten Provinzen" are the Prussian share of
+  the partitions of Poland. The French keeps the writer's spelling (Polonois,
+  étoit, crû, affatigué). A word followed by [?] is one the transcriber was
+  unsure of.

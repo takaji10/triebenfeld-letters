@@ -244,7 +244,7 @@ some cut short). "In" means already in the edition.
 | Complaint of Prusimska against Hoh... | Nr. 3709, in | II |
 | Olesnica estate lease from Hohe... | Nr. 3705, in | III |
 | Claims of Hohenlohe on Trabczyn | Nr. 12765, in | VII, VIII |
-| Anton Prusimski Venice Residence | to add: I. HA GR, Rep. 7 C, Nr. 1414 (1797) | I, or the boundary era: confirm |
+| Anton Prusimski Venice Residence | I. HA GR, Rep. 7 C, Nr. 1414 (1796-1797), in | I |
 | Minor Prusimska's claims to father's ... | to add: I. HA GR, Rep. 7 C, Nr. 1413 (1796-1798) | I or II |
 | Capital on the Zagorow estates | I. HA Rep. 162, Nr. 295 (copies of 1805), in | III |
 | Hohenlohe operations after Jena | to add | V, a sentence at most |

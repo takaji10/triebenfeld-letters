@@ -1,0 +1,37 @@
+# The claim check of the three German summaries of I. HA GR, Rep. 7 C, Nr.
+# 1414, made in session on 2026-10-05 under the rules read_letters.py --verify
+# gives its checker: each statement held to the document, as supported,
+# overstated or unsupported, and the summary only weakened or cut. Not the paid
+# run. The documents were read in the corpus text and in the session's English.
+#
+# Result: 19 statements, 17 supported, two overstated and weakened. Document
+# 1: the summary said "two ministers sign"; the first signature is read with
+# doubt, so it now says only that the second of two signatures is Haugwitz's.
+# Document 3: the summary called the writer "the minister von Schrötter"; the
+# letter gives only his signature. That Hoym and Schroetter were ministers
+# rests on the address of document 1 ("Ministri").
+
+ihagrrep7cnr1414-001:
+- {claim: "Konzept eines Schreibens des Departements der auswärtigen Angelegenheiten, Berlin, 11. Januar 1797", verdict: supported, where: "p. 1: Berlin, d. 11. Januar 1797; a draft by its registry marks and the hands; the department is named in the address of document 3"}
+- {claim: "an den Minister Graf von Hoym und gleichlautend an den Minister Freiherr von Schroetter", verdict: supported, where: "p. 1: An des Königl. p p Ministri Herrn Grafen von Hoym Excellenz, et in simili ... Frhrn von Schroetter"}
+- {claim: "eine größere Hand fügt den Großkanzler von Goldbeck hinzu", verdict: supported, where: "p. 1: in simili des H. G[roß]K[anzlers] v. Goldbeck Excell.; the hand by the scan"}
+- {claim: "drei Reinschriften werden angeordnet", verdict: supported, where: "p. 1: Gr. in triplo md."}
+- {claim: "teilt in Abschrift mit, was der königliche Resident in Venedig, Graf von Cattaneo, auf Verlangen des Anton Prusimski berichtet hat", verdict: supported, where: "p. 1: auf deßen Verlangen, einberichtet hat"}
+- {claim: "eines Eingesessenen der von der ehemaligen Republik Polen erworbenen Provinzen, der sich gegenwärtig in Venedig aufhält", verdict: supported, where: "p. 1"}
+- {claim: "zwei Minister unterzeichnen, der zweite ist Haugwitz", verdict: overstated, where: "p. 1: [Alvensleben?] / Haugwitz; the first signature is not securely read", now: "von den beiden Unterschriften ist die zweite die des Ministers Haugwitz"}
+- {claim: "am 12. gingen alle Schreiben zur Post", verdict: supported, where: "p. 1: d 12. sämmtl. zur Post."}
+
+ihagrrep7cnr1414-002:
+- {claim: "Auszug aus der Depesche Nr. 423 des Grafen Cattaneo, Venedig, 14. Dezember 1796, französisch", verdict: supported, where: "p. 2: Extrait de la dépêche N° 423 du C. de Cattaneo, en date de Venise le 14 Décembre 1796"}
+- {claim: "Antoine Prusimski ist bei ihm erschienen, in zerrütteter Gesundheit und durch den Tod seiner Frau fast bis zur Stumpfheit getroffen", verdict: supported, where: "p. 2"}
+- {claim: "er bat um ein Attest über seine traurige Lage und darüber, dass er gegenwärtig und in dieser Jahreszeit nicht reisen könne", verdict: supported, where: "p. 2"}
+- {claim: "Cattaneo glaubte es nicht verweigern zu können; wer von einem Haus ins andere erschöpft sei, könne nicht von einem Land ins andere reisen", verdict: supported, where: "p. 2: je n'ai pas crû pouvoir le lui refuser, car ..."}
+- {claim: "das Departement erhielt den Auszug am 2. Januar 1797 und leitete ihn dem Herrn von Raumer zu", verdict: supported, where: "p. 2: Hr von Raumer; Praesentl: d. 2ten Jan: 1797."}
+- {claim: "Raumer verfügte am 8. Januar, Hoym und Schrötter zu benachrichtigen", verdict: supported, where: "p. 1: A. 10. d. 8. Jan 1797. Notif. 1. ... Hoym 2. ... Schrötter ... Raumer"}
+
+ihagrrep7cnr1414-003:
+- {claim: "der Minister von Schrötter dankt dem Departement für die Nachricht vom 11. des Monats über Anton Prusimski", verdict: overstated, where: "p. 1: signed Schrötter; the letter does not give his office", now: "Schrötter dankt dem Departement der auswärtigen Angelegenheiten für die Nachricht vom 11. des Monats über Anton Prusimski"}
+- {claim: "der in der neuen Erwerbung von Polen ansässig ist und sich gegenwärtig in Venedig aufhält", verdict: supported, where: "p. 1"}
+- {claim: "er hat davon dem Staatsminister Graf von Hoym weiter Nachricht gegeben, weil nicht feststeht, ob Prusimski in Neuostpreußen oder in Südpreußen ansässig ist", verdict: supported, where: "p. 1: da es nicht constirt"}
+- {claim: "Berlin, 29. Januar 1797", verdict: supported, where: "p. 1"}
+- {claim: "das Departement erhielt das Schreiben am 8. Februar und legte es am 16. März zu den Akten", verdict: supported, where: "p. 1: Praesent. d. 8 Februar 1797.; Ad acta 16 Mart 97"}

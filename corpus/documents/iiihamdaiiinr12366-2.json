@@ -1669,6 +1669,39 @@
    "doc_line": 9
   },
   {
+   "entity": "venedig",
+   "display": "Venice (Venedig)",
+   "kind": "place",
+   "surface": "Venedig",
+   "page": 2,
+   "page_id": "0004_a1",
+   "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+   "line": 26,
+   "doc_line": 12
+  },
+  {
+   "entity": "venedig",
+   "display": "Venice (Venedig)",
+   "kind": "place",
+   "surface": "Venise",
+   "page": 2,
+   "page_id": "0004_a1",
+   "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+   "line": 27,
+   "doc_line": 13
+  },
+  {
+   "entity": "venedig",
+   "display": "Venice (Venedig)",
+   "kind": "place",
+   "surface": "Venise",
+   "page": 3,
+   "page_id": "0005_a2",
+   "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
+   "line": 29,
+   "doc_line": 14
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
    "kind": "place",

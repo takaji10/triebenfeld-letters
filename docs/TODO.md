@@ -143,7 +143,30 @@ summarised, translated and its summaries checked in session. Details are in
       the fee note on page 7 reads "2 gg." Applied to the text and the
       English.
 
-## 5. Carried over
+## 5. I. HA GR, Rep. 7 C, Nr. 1414: Prusimski at Venice (added 2026-10-05)
+
+Three documents on four pages, December 1796 to March 1797: the extract of
+the Prussian resident's dispatch from Venice about Antoni Prusimski, the
+draft by which the department of foreign affairs passed it on, and
+Schrötter's reply. Scans 0002 to 0005 only, as you said; the three openings
+are cut to the written side. Your transcription was cut to pages and 20
+passages corrected; summaries, holding page, translation and claim check
+done in session; a timeline entry and two sentences in section I of the era
+essay. Details are in `units/ihagrrep7cnr1414/notes.md`.
+
+- [ ] **You: say when to publish it** (with Nr. 295, section 4). Built and
+      verified here, committed locally, not pushed.
+- [ ] **You: look at the four page images**, and say if a cut is too close.
+- [ ] **You: three names I read differently from you.** (1) The councillor
+      who signs the directions: I read Raumer where you have Rammer, Maunes
+      and Maurer; "Hr von Raumer" is written out at the head of the French
+      extract. (2) The large hand in the left column of the draft: I read
+      "in simili des H. GK v. Goldbeck Excell.", the Grand Chancellor as a
+      third addressee. (3) The two signatures under the draft: Haugwitz,
+      and before him probably Alvensleben, which I have marked as
+      uncertain. A spot sheet can show all three.
+
+## 6. Carried over
 
 These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.

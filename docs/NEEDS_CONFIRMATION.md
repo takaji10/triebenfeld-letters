@@ -24,8 +24,7 @@ read, translate and summarise.
   of 245 (`review/oe1bu9454/trial_245.csv`, 101 rows) waits for them.
 - **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
   list, 2026-10-02; state of 2026-10-05). Scans are in the editor's folders
-  and no transcription is with them: Anton Prusimski Venice Residence (I. HA
-  GR, Rep. 7 C, Nr. 1414, 7 images); Minor Prusimska's claims to her father's
+  and no transcription is with them: Minor Prusimska's claims to her father's
   estates (Nr. 1413, 8 images); Hohenlohe operations after Jena (VI. HA, Nl
   Scharnhorst, Nr. 98, 56 images); Miaczynska compensation for confiscation
   (I. HA Rep. 74, Nr. 4680, 12 images). Capital on the Zagorow estates (I. HA
@@ -114,6 +113,17 @@ read, translate and summarise.
     the signatures, has his own entry and is kept apart from Martin Honrichs
     (the same attestation and spelling stand in Oe 1 Bü 14526, document 16).
     The editor to say if he knows them to be one man.
+
+- **I. HA GR, Rep. 7 C, Nr. 1414** is in (2026-10-05): three documents on
+  four pages, December 1796 to March 1797, on Antoni Prusimski at Venice:
+  the extract of the Prussian resident's dispatch, the draft by which the
+  department of foreign affairs passed it to Hoym, Schroetter and Goldbeck,
+  and Schrötter's reply. Scans cropped, the editor's transcription
+  corrected, summarised, translated and claim-checked in session. Still
+  open, for the editor's eye: three identifications made in correcting it
+  (the councillor Raumer for "Rammer", the Grand Chancellor Goldbeck as
+  third addressee, and the first signature under the draft, given as
+  "[Alvensleben?]"); `units/ihagrrep7cnr1414/intake/unresolved.md`.
 
 - **I. HA Rep. 162, Nr. 295** is in (2026-10-05): three documents on
   thirteen pages, copies of 1805 from a file of the state treasury:

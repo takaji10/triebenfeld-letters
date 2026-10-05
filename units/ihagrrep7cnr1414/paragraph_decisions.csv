@@ -1,0 +1,30 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,7,run,review,short_line,0.38,12,32,et in ſimili,An des Königl. pp Ministri Frhrn
+1,10,break,high,short_line,0.54,17,32,Gr. in triplo md.,Ew. Excellenz geben wir uns die Ehre
+1,21,run,held,rubric+short_line,0.41,13,32,in simili des,H. G[roß]K[anzlers] v. Goldbeck
+1,23,break,high,short_line,0.22,7,32,Excell.,[Alvensleben?]
+1,24,break,high,short_line+column,0.44,14,32,[Alvensleben?],Haugwitz
+1,25,break,held,short_line,0.25,8,32,Haugwitz,d 12. sämmtl. zur Post.
+2,30,break,high,rubric+short_line,0.27,6,22,Notif.,1. dH. Gr. v. Hoym Excell.
+2,31,break,high,rubric,1.18,26,22,1. dH. Gr. v. Hoym Excell.,2. dH. Frh. v. Schrötter Excell.
+2,37,break,high,short_line,0.52,30,58,de Venise le 14 Décembre 1796.,"Le Gentilhomme Polonois, Antoine Prusimski, s’étant présenté"
+2,46,break,high,short_line,0.48,28,58,passer d'un pays à un autre?,Hr von Raumer
+2,47,break,high,short_line+column,0.22,13,58,Hr von Raumer,Praesentl: d. 2ten Jan: 1797.
+2,48,break,high,short_line,0.5,29,58,Praesentl: d. 2ten Jan: 1797.,vide Journal A. No. 10.
+3,61,break,high,short_line,0.67,26,39,Berlin d 29te Januar 1797.,Schrötter
+3,62,break,held,short_line,0.23,9,39,Schrötter,An E: Hochlöbl. Departement der auswärtigen
+3,64,run,held,short_line+column,0.38,15,39,Angelegenheiten,hieselbst
+3,65,break,high,short_line+column,0.23,9,39,hieselbst,N 5 d 11 Jan
+3,66,break,high,short_line+column,0.31,12,39,N 5 d 11 Jan,Praesent. d. 8 Februar 1797.
+3,67,break,high,short_line,0.72,28,39,Praesent. d. 8 Februar 1797.,Februar B. No 709.
+3,68,break,high,short_line,0.46,18,39,Februar B. No 709.,Ad acta
+3,69,run,held,short_line+column,0.18,7,39,Ad acta,16 Mart 97
+3,70,break,high,short_line+column,0.26,10,39,16 Mart 97,Raumer
+1,4,break,held,hand,0,0,0,,An des Königl. p p Ministri Herrn Gra¬
+1,6,break,held,hand,0,0,0,,et in ſimili
+1,9,break,held,hand,0,0,0,,Gr. in triplo md.
+1,20,break,held,hand,0,0,0,,in simili des
+2,29,break,held,hand,0,0,0,,Notif.
+2,32,break,held,hand,0,0,0,,zu gefällig. Gebrauch
+2,33,break,held,hand,0,0,0,,Raumer
+3,60,break,held,hand,0,0,0,,Berlin d 29te Januar 1797.

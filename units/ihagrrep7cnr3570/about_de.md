@@ -16,4 +16,4 @@ Die Schriftstücke sind Entwürfe und Abschriften in deutscher Sprache. Registra
 
 ### Verwandte Bestände
 
-Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschriften: [[unit:oe1bu14525]]. Beschwerden der Tochter Prusimskis gegen Hohenlohe-Ingelfingen, 1800 bis 1802: [[unit:ihagrrep7cnr3709]]. Der Entschädigungsanspruch nach dem Verlust der Güter 1807: [[unit:iiihamdaiiinr12765]]. <!-- context -->
+Die Hohenlohe-Ingelfingen ausgestellte Urkunde mit ihren beglaubigten Abschriften: [[unit:oe1bu14525]]. Beschwerden der Tochter Prusimskis gegen Hohenlohe-Ingelfingen, 1800 bis 1802: [[unit:ihagrrep7cnr3709]]. Der Entschädigungsanspruch nach dem Verlust der Güter 1807: [[unit:iiihamdaiiinr12765]]. Schriftstücke aus dem Winter 1796 auf 1797 über Antoni Prusimski, den früheren Besitzer, der sich damals in Venedig aufhielt: [[unit:ihagrrep7cnr1414]]. <!-- context -->

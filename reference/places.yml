@@ -382,6 +382,14 @@ places:
          or the district's colonies collectively is not established."
 
   # --- Prussian and German places ----------------------------------------
+  venedig:
+    display: "Venice"
+    german: "Venedig"
+    kind: city
+    match: 'Venedig\w*|Venise'
+    tier: "Established"
+    variants: ["Venedig", "Venise"]
+
   berlin:
     display: "Berlin"
     kind: city

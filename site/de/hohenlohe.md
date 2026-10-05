@@ -56,7 +56,13 @@ Miączyńska, erhielt die Güter 1807 zurück.
 1794 erhoben sich die Polen gegen die Teilungsmächte. Nach der Niederschlagung des Aufstands
 zog die preußische Krone die Güter der Gutsbesitzer ein, die daran teilgenommen hatten. Die
 preußischen Behörden nannten Antoni Prusimski einen der Hauptinsurgenten; er floh. Seine
-Güter wurden durch ein in Toruń (Thorn) gefälltes Urteil dem Fiskus zugesprochen.
+Güter wurden durch ein in Toruń (Thorn) gefälltes Urteil dem Fiskus zugesprochen. Im
+Dezember 1796 war er in Venedig: Der preußische Resident dort berichtete, er sei krank und
+durch den Tod seiner Frau gebrochen zu ihm gekommen und habe um ein Attest gebeten, dass er
+nicht reisen könne ([Auszug]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url }})). Das
+Departement der auswärtigen Angelegenheiten gab den Bericht im Januar 1797 an die Minister
+für die neuen Provinzen weiter
+([Konzept]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
 
 Im Sommer 1796 schlug Graf Hoym, der für Schlesien und Südpreußen zuständige Minister, vor,
 einen Teil dieser Güter zusammen mit anderen, die frei geworden waren, an Offiziere zu

@@ -31,7 +31,7 @@ Prusimska, through her guardian, sued Hohenlohe-Ingelfingen before the Governmen
 
 ### Related holdings
 
-The grant of 1796: <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. The claim of Hohenlohe-Ingelfingen for compensation after 1807, in which his agent states that Prusimska recovered Brzyce as her mother's inheritance: <a href="{{ '/sources/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. <!-- context -->
+The grant of 1796: <a href="{{ '/sources/ihagrrep7cnr3570/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570</a> and <a href="{{ '/sources/oe1bu14525/' | relative_url }}">Oe 1 Bü 14525</a>. The claim of Hohenlohe-Ingelfingen for compensation after 1807, in which his agent states that Prusimska recovered Brzyce as her mother's inheritance: <a href="{{ '/sources/iiihamdaiiinr12765/' | relative_url }}">III. HA MdA, III Nr. 12765</a>. Papers from the same record group on her father, Antoni Prusimski, at Venice in 1796 and 1797: <a href="{{ '/sources/ihagrrep7cnr1414/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 1414</a>. <!-- context -->
 
 <!--prepared-->
 

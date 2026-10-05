@@ -1,0 +1,8 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,4,5,¬,Gra,fen,Grafen,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"An des Königl. p p Ministri Herrn Gra¬ || fen von Hoym Excellenz,"
+1,1,11,12,¬,Ab,schrift,Abschrift,join,high,"joined form attested in DWDS (55,269 hits)",False,0,55269,0,,1,,"hierneben zu gefälligem Gebrauch in Ab¬ || schrift mitzutheilen, was der Königl. Re¬"
+1,1,12,13,¬,Re,sident,Resident,join,high,"joined form attested in DWDS (54,766 hits)",False,0,54766,0,,1,,"schrift mitzutheilen, was der Königl. Re¬ || sident Graf von Cattaneo zu Venedig von"
+1,1,17,18,¬,auf,hält,aufhält,join,high,"joined form attested in DWDS (1,005,108 hits)",False,0,1005108,1,,1,,"welcher sich gegenwärtig zu Venedig auf¬ || hält, auf deßen Verlangen, einberichtet ha"
+3,1,52,53,¬,belie,bigst,beliebigst,join,high,"joined form attested in DWDS (835,934 hits)",False,0,835934,0,,1,,"enst, für die mir unterm 11ten huj: belie¬ || bigst mitgetheilte - den in der neuen Acqu"
+3,1,53,54,¬,gegen,wärtig,gegenwärtig,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"cquisition von Pohlen angesessenen, gegen¬ || wärtig sich aber zu Venedig aufhaltenden A"
+3,1,54,55,¬,Nach,richt,Nachricht,join,high,"joined form attested in DWDS (4,904,807 hits)",False,0,4904807,0,,1,,"altenden Anton Prusimski betreffende Nach¬ || richt, und ermangele nicht Ewr: Excellenzi"

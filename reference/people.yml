@@ -162,7 +162,7 @@ people:
     # Two men of the name, told apart by date (editor, 2026-10-04: one entry
     # per person): the Grand Chancellor in 1796-98, the president at Kalisz
     # from 1805.
-    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
+    only_in: [ihagrrep7cnr3570-1, oe1bu14525-1, oe1bu9454-75, oe1bu9454-79, ihagrrep7cnr1414-1, ihagrrep7cnr3709-1, ihagrrep7cnr3709-3, ihagrrep7cnr3709-7, ihagrrep7cnr3709-10, ihagrrep7cnr3709-11, ihagrrep7cnr3709-12, ihagrrep7cnr3709-13, ihagrrep7cnr3709-14]
     tier: "Externally confirmed"
     variants: []
     identity: "Heinrich Julius von Goldbeck (1733-1818), Grand Chancellor of Prussia, who countersigned the charters of 1796 and is named in Berlin in 1798 (letters 75, 79). In 1800 the Prince petitioned him to take the Prusimska suit away from the government at Poznań, and he ordered it (I. HA GR, Rep. 7 C, Nr. 3709)."
@@ -242,6 +242,34 @@ people:
     match: 'Hohenlohe|Hohenlo\[h\]e'
     tier: "Book-confirmed (the book's subject)"
     variants: []
+  cattaneo:
+    display: "Count Cattaneo"
+    render: "Cattaneo"
+    match: 'Cattaneo'
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Count Cattaneo, Prussian resident at Venice ('der Königl. Resident Graf von Cattaneo zu Venedig'), whose dispatch No. 423 of 14 December 1796 reports that he gave Antoni Prusimski a certificate of his ill health (I. HA GR, Rep. 7 C, Nr. 1414). Forename not given. Added 2026-10-05."
+  haugwitz:
+    display: "Christian von Haugwitz"
+    render: "Haugwitz"
+    match: 'Haugwitz'
+    tier: "Externally confirmed"
+    variants: []
+    identity: "Christian Count von Haugwitz (1752-1832), Prussian cabinet minister for foreign affairs. He signs the department's draft of 11 January 1797 (I. HA GR, Rep. 7 C, Nr. 1414, document 1), and Triebenfeld's letters name him as minister between 1798 and 1806 (Oe 1 Bü 9454). Added 2026-10-05; until then his name in the letters was not indexed."
+  raumer:
+    display: "Karl Georg von Raumer"
+    render: "Raumer"
+    match: 'Raumer'
+    tier: "Context-inferred (office)"
+    variants: []
+    identity: "A councillor of the Prussian department of foreign affairs to whom the extract about Prusimski was routed ('Hr von Raumer') and who signs the directions on it and on Schrötter's reply, January to March 1797 (I. HA GR, Rep. 7 C, Nr. 1414). Taken to be Karl Georg von Raumer (1753-1833), who served in that department; the papers give only the surname. The editor's transcription read Rammer, Maunes and Maurer. Added 2026-10-05."
+  schroetter:
+    display: "Friedrich Leopold von Schroetter"
+    render: "Schrötter"
+    match: 'Schr(?:oe|ö)tter'
+    tier: "Externally confirmed"
+    variants: ["Schrötter", "Schroetter"]
+    identity: "Friedrich Leopold Baron von Schroetter (1743-1815), Prussian minister for East Prussia and, from 1795, for New East Prussia. The department of foreign affairs sent him the news of Prusimski at Venice; he answers on 29 January 1797 that he has passed it to Hoym (I. HA GR, Rep. 7 C, Nr. 1414). Added 2026-10-05."
   heinrichs:
     display: "Heinrichs"
     match: 'Heinrichs(?![a-zà-ÿ])'

@@ -134,7 +134,7 @@ so check them.
   changelog. `match_scans.py` needs the raw scans and does not run here; a
   change to a document's pages means correcting `page_scan_map.csv` by hand
   (Nr. 12367's notes, "Mardi put back").
-- Every holding is now translated (465 documents with English; the five of
+- Every holding is now translated (468 documents with English; the five of
   Oe 1 Bü 9454 without text excepted).
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
   2026-10-05): three documents on sixteen pages, copies made about 1930
@@ -165,6 +165,19 @@ so check them.
   says**. The editor confirmed "Grądzyn" in the bond's list of estates and
   the three documents, and answered a spot sheet of five readings, which
   is applied (2026-10-05). Nothing is open but publishing.
+- **I. HA GR, Rep. 7 C, Nr. 1414** (slug `ihagrrep7cnr1414`, added
+  2026-10-05), "Anton Prusimski Venice Residence": three documents on four
+  pages, December 1796 to March 1797 (the extract of the Prussian
+  resident's dispatch from Venice, in French; the foreign department's draft
+  to Hoym, Schroetter and Goldbeck; Schrötter's reply). Scans 0002 to 0005
+  only (editor); three openings cut to the written side by boxes in
+  `intake/build_pages.py`. The editor's line-by-line transcription cut to
+  pages, office marks set apart (`office_notes.yml`), 20 passages corrected,
+  summarised, translated and claim-checked in session; status `translated`,
+  untagged. Read `units/ihagrrep7cnr1414/notes.md` first. Built and verified
+  locally, **committed but not pushed: publish when the editor says**. Open:
+  the editor's eye on Raumer, Goldbeck and "[Alvensleben?]" (`docs/TODO.md`
+  section 5).
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the
