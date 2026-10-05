@@ -120,8 +120,9 @@ so check them.
   the era (placed in `hohenlohe` for now; by `reference/eras.yml` they
   belong to `restitution`), the editor's look at the crops and at image 06,
   and a struck-out clause in the draft resolution.
-- **Nothing of 2026-10-04 after Nr. 12366 is committed**: Nr. 12367, the two
-  AGAD holdings and `docs/TODO.md` wait for the editor's word to publish.
+- Nr. 12367 and the two AGAD holdings were published at the editor's word
+  on 2026-10-05 (commit df7a05da). What is left for each is in
+  `docs/TODO.md`.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
   holdings' were (paid, about $5-10, on their machine).
 - Open before wider sharing: the archives' permission for the scans; the

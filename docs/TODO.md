@@ -6,12 +6,10 @@ item above it is settled. Open questions about readings and identifications
 stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md); this list is only the
 next steps.
 
-## 1. III. HA MdA, III. Nr. 12367 (added 2026-10-04, not yet published)
+## 1. III. HA MdA, III. Nr. 12367 (added 2026-10-04, live since 2026-10-05)
 
-The holding is built and verified on this machine. Nothing is committed.
-
-- [ ] **You: say whether to publish.** On your word the work is committed,
-      `main` is pushed and the "Build and deploy" run is checked.
+- [x] Published at your word on 2026-10-05 (commit df7a05da; the "Build and
+      deploy" run succeeded and the pages answer on the live site).
 - [ ] **You: the German translations beside the two Polish letters.** Scans
       0008, 0009 (right side) and 0010 each have a second column headed
       "Uebersetzung", a German translation made in 1830. Your transcription
@@ -41,22 +39,22 @@ The holding is built and verified on this machine. Nothing is committed.
 The remaining doubtful words are listed in
 `units/iiihamdaiiinr12367/intake/unresolved.md`. None of them blocks anything.
 
-## 2. Two holdings from the Governing Commission, 1807 (added 2026-10-04, not yet published)
+## 2. Two holdings from the Governing Commission, 1807 (added 2026-10-04, live since 2026-10-05)
 
-Both are built and verified on this machine: AGAD 1/174/0/2/73 (four
+Both are live: AGAD 1/174/0/2/73 (four
 documents: Michalina Dąbska's three petitions at Dresden and the commission's
 draft resolution of 21 July 1807) and AGAD 1/174/0/1/6 (two entries from the
 commission's register: the order for Wybicki of 12 July and the resolution of
 21 July). Pages cut out of the images, text corrected against the scans,
 summaries and holding pages in both languages, a timeline entry and two
-sentences in the era essay. Nothing is committed. Details are in
+sentences in the era essay. Details are in
 `units/agad11740273/notes.md` and `units/agad1174016/notes.md`.
 
 - [x] Which archive holds them: AGAD (editor, 2026-10-04).
-- [ ] **You: say whether to publish**, together with Nr. 12367 (section 1).
+- [x] Published with Nr. 12367 on 2026-10-05.
 - [ ] **You: look at the crops.** Each page was cut out of its opening by a
       box I placed. The eight page images are on the documents' pages of the
-      local build; say if any cuts too close or leaves too much.
+      live site; say if any cuts too close or leaves too much.
 - [ ] **You: image 06.** Your message named 05, 07, 08 and 047. Those are the
       pencil leaf numbers for the first three, so the Polish petition of 20
       July (leaf 7) is on image `06.jpg`, and I used that image too. Say if
