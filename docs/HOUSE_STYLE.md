@@ -18,7 +18,9 @@ on this project is not error but jargon and process where the reader needs plain
 sense: how the pipeline works, what a holding is called internally, which file a
 figure came from, why two copies let one settle the other. All of that is real
 and none of it belongs in a sentence a reader meets on the way to a document.
-Method goes in **About the edition**, and nowhere else.
+Method goes in **About the edition** and on a holding's "How it was prepared"
+tab, and only as much of it as a reader needs to judge the text (see "About the
+edition" below).
 
 ```
 NO   The documents set against the events that shaped them, from the
@@ -122,6 +124,39 @@ NO   A river decides everything.
 
 What goes in, the sections and the sources each rests on are in
 `docs/HOHENLOHE_ERA_PLAN.md`.
+
+## About the edition
+
+The About page (`site/reading-this-edition.md`, German `site/de/ueber-diese-edition.md`)
+is written for a reader or researcher who wants to know what the edition is and
+how far to trust it. The editor, 2026-10-05, of a version three times as long: "way
+too dense and includes information not relevant to the reader. It feels like
+you're treating it as your own memory for the project."
+
+It answers, in this order: what the edition contains; where the documents are
+held; how the text was made and how far it can be relied on; how to read a
+document page and its marks; what the translations and summaries are; dates,
+names and money; how documents are numbered and grouped; what is still open;
+where to find how to cite.
+
+It leaves out everything that is the project's own record: counts of line-break
+marks and how each was decided, the reference data and thresholds used, file
+names and paths, image sizes, what fails the build, the per-holding figures, and
+single unresolved readings. Those belong on the holding's "How it was prepared"
+tab, in the holding's notes, or in `docs/`.
+
+```
+NO   A form counts as a real word at a thousand corpus hits or more; below that,
+     what comes back is proper-name noise.
+NO   Every decision is recorded with its evidence in linebreak_decisions.csv.
+NO   The images published here are downscaled to 1100 pixels wide.
+```
+
+Few figures, because each is counted by hand: holdings, documents, pages,
+documents by language, translations, marks of doubt. A mark or a view is
+described as the reader meets it on the page, so check the page before
+describing it: the old text explained a line-end mark that the page no longer
+shows, and a fourth view that is not a view.
 
 ## Concision
 

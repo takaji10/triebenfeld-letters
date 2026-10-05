@@ -51,6 +51,13 @@ Where the rest is:
   Rep. 162, Nr. 295 their readings held four times out of five against
   Claude's doubts. When their view of content is needed, show it in English
   and ask about focus and usefulness.
+- **Pages for readers are not the project's memory.** The About page had
+  grown to 2,500 words of counts, thresholds and file names. The editor:
+  "It feels like you're treating it as your own memory for the project.
+  Think about what a reader or researcher would be interested in knowing."
+  What a page for readers answers, and what it leaves out, is now in
+  `docs/HOUSE_STYLE.md`, "About the edition". The project's own record goes
+  in `docs/` and the holdings' notes.
 - **Replies are short.** They said mid-project that the replies were "overly
   verbose" and that they were losing the thread. Lead with what changed or
   what is wrong, in their terms; no file names or tool names where a plain

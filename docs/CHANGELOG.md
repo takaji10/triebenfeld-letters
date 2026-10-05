@@ -1715,6 +1715,21 @@ lose his estates. The era page writes Konotop, not Kontop.
   without the notes changing and without that line, Claude is stopped from finishing once and
   told to answer. Tested on nine cases in a throwaway repository.
 
+- **The About page rewritten for the reader** (2026-10-05, at the editor's word: it was "way
+  too dense" and read like the project's own memory). `site/reading-this-edition.md` and its
+  German counterpart went from about 2,500 words to about 1,600, in the order a reader asks:
+  what the edition is, where the documents are held, how the text was made and how far to
+  trust it, how to read a document and its marks, the translations and summaries, dates,
+  names and money, numbering and grouping, what is open, how to cite. Removed: the counts of
+  line-break marks and how they were decided, the catchword table, file names, image sizes,
+  per-holding page counts and single unresolved readings. Corrected: the page described a
+  line-end mark the transcription view no longer shows and listed the page image as a
+  fourth view; it said "all 459" translations are drafts where there are 468. Added: that
+  the translations and summaries are drafted by an AI model, the bracketed-letters mark,
+  the labels for office notes and sideways text, and the advice to check a passage against
+  the page image. The site footer now names Warsaw among the archives. The rule for this
+  page is in `docs/HOUSE_STYLE.md`, "About the edition".
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

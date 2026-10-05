@@ -1,292 +1,190 @@
 ---
 layout: page
 title: Über diese Edition
-standfirst: Wie der Text erstellt wurde, was die editorischen Zeichen bedeuten und was noch offen ist.
+standfirst: Was die Edition enthält, wo die Dokumente liegen, wie der Text entstanden ist und wie weit man sich auf ihn verlassen kann.
 permalink: /de/ueber-diese-edition/
 lang: de
 alt_url: /reading-this-edition/
 ---
 
-## Die Quelle
+## Was diese Edition ist
 
-Die 473 bisher veröffentlichten Dokumente stammen aus sechzehn Beständen in vier Archiven:
+*Traces in the Sand* veröffentlicht die Schriftstücke, die über eine Gruppe von Gütern um
+Trąbczyn und Zagórów erhalten sind, in dem Teil Polens, den Preußen 1793 an sich nahm. 1796
+verlieh der König von Preußen die Güter einem seiner Generäle, dem Fürsten Friedrich Ludwig
+zu Hohenlohe-Ingelfingen. Einige davon waren einem polnischen Adligen, Antoni Prusimski,
+konfisziert worden. Hohenlohe-Ingelfingens Bevollmächtigter, Peter Friedrich von
+Triebenfeld, verwaltete die Güter und teilte sie unter Siedler auf. Hohenlohe-Ingelfingen
+verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufgenommen
+hatte, dauerte bis 1832.
+[Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-- dem **Hohenloher Zentralarchiv Neuenstein (HZAN)**: `Oe 1 Bü 9454`, der Korrespondenz aus
-  achtzehn Jahren (318 Dokumente); `Oe 1 Bü 14525` und `Oe 1 Bü 14526`, zwei Bänden mit
-  Schenkungs- und Besitzurkunden und Pachtverträgen; und `Oe 1 U 199`, der königlichen
-  Bestätigung des fürstlichen Fideikommisses von 1805;
-- dem **Geheimen Staatsarchiv Preußischer Kulturbesitz (GStA PK)** in Berlin: vier Akten der
-  preußischen Verwaltung Südpreußens (I. HA GR, Rep. 7 C, Nr. 1414, 3570, 3705 und 3709), drei
-  des preußischen Außenministeriums (III. HA MdA, III. Nr. 12765, 12366 und 12367), die dem
-  Gut und den Schulden des Fürsten darauf bis 1832 folgen, und Abschriften von 1805 aus einer
-  Akte der Staatsschatzverwaltung über ein auf Zagórów gesichertes Darlehen (I. HA Rep. 162,
-  Nr. 295);
-- dem **Staatsarchiv Posen (APP)**: einem Gerichtsprotokoll von 1806 (53/71/0/-/57) und um
-  1930 angefertigten Abschriften dreier Schriftstücke von 1805 und 1806 über die
-  Parzellierung der Güter Zagórów und Trąbczyn (53/968/0/-/801);
-- dem **Hauptarchiv Alter Akten (AGAD)** in Warschau: zwei Akten der Regierungskommission
-  von 1807 (1/174/0/2/73 und 1/174/0/1/6), die die konfiszierten Güter der Erbin Prusimska
-  zurückgab.
+Die Edition enthält 473 Dokumente auf 1.562 Handschriftenseiten aus den Jahren 1794 bis
+1832: Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
+preußischer Ministerien. Zu jedem Dokument gibt sie:
 
-Jeder Bestand hat unter „Quellen“ eine eigene Seite, die sagt, was er ist und wie sein Text
-entstand. Der Bestand, aus dem ein Dokument stammt, gehört zu seiner Zitierweise und hier zu
-seiner Adresse.
+- den Text in seiner Originalsprache, nach der Handschrift transkribiert;
+- eine englische Übersetzung;
+- eine kurze Zusammenfassung, englisch und deutsch;
+- die Aufnahme jeder Handschriftenseite neben ihrem Text.
 
-Der größte Teil des Textes ist deutsch, transkribiert nach den Originalhandschriften in
-*Kurrentschrift*, der deutschen Schreibschrift der Zeit, schwer zu lesen und leicht falsch
-zu lesen. Zweiundzwanzig Dokumente sind französisch und neun polnisch, und einige deutsche
-Urkunden enthalten Stellen in polnischer und lateinischer Sprache. All das ist Quellentext
-und wird aus seiner eigenen Sprache übersetzt, nicht als verderbtes Deutsch behandelt.
+Personen, Orte und Güter sind über alle Dokumente hinweg erschlossen, so dass sich eine
+Person von einem Brief über einen Vertrag bis in eine Gerichtsakte verfolgen lässt. Wörter
+der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
+[Glossar]({{ '/de/glossar/' | relative_url }}) erklärt.
 
-**Der größte Teil der Transkription wurde von einem KI-System angefertigt, nicht von einem Paläographen.**
-Das ist von Bedeutung, und die Edition verschweigt es nicht. Die maschinelle Transkription
-von Kurrentschrift macht einen eigenen Fehlertyp: neben gewöhnlichen Verwechslungen
-ähnlicher Buchstabenformen kann sie Text hervorbringen, der plausibles Deutsch ist, aber
-nicht das, was auf der Seite steht. Jede editorische Entscheidung wurde mit diesem Wissen
-getroffen, und Lesarten, die sich nicht aus Belegen klären ließen, blieben unangetastet,
-statt erraten zu werden.
+## Wo die Dokumente liegen
 
-## Seiten
+Die Dokumente stammen aus sechzehn Beständen in vier Archiven:
 
-Die Briefe werden Seite für Seite dargeboten, so wie sie im Archiv liegen. Jede
-Handschriftenseite erscheint als eigener Block, bezeichnet mit dem Zeilenbereich, den sie
-im Archivtext einnimmt. Nichts läuft über einen Seitenumbruch hinweg. Ein Brief bleibt
-dennoch als Ganzes lesbar; die Seiten sind Gliederung darin, und neben ihnen stehen die
-Digitalisate.
+- dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
+  Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
+  Verleihungs- und Besitzurkunden und Pachtverträgen; und einer königlichen Urkunde von
+  1805;
+- dem **Geheimen Staatsarchiv Preußischer Kulturbesitz** in Berlin: Akten der preußischen
+  Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
+- dem **Staatsarchiv Posen**: einem Gerichtsprotokoll von 1806 und um 1930 angefertigten
+  Abschriften von Schriftstücken über die Aufteilung der Güter;
+- dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
+  konfiszierten Güter an Prusimskis Tochter.
 
-Auf die 473 Dokumente entfallen **1.562 Handschriftenseiten**. Die Korrespondenz hat 870
-davon, die beiden Urkundenbände 165 und 287; die übrigen dreizehn Bestände haben jeweils 3 bis
-50 Seiten. Die Zahlen, die unten zu Trennzeichen, Kustoden und Digitalisaten genannt werden,
-sind die der Korrespondenz, in der diese Fragen am dichtesten auftraten.
+Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit seiner
+Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
+sein Text bearbeitet wurde.
 
-## Vier Ansichten jedes Dokuments
+Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch und neun polnisch, und
+einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
+eigenen Sprache übersetzt.
 
-Der Umschalter über dem Text wechselt zwischen ihnen.
+## Wie der Text entstanden ist und wie weit man ihm trauen kann
 
-**Transkription** ist die Grundeinstellung. Sie behält die Zeilenumbrüche der Handschrift
-bei, eine Zeile je Zeile der Seite, gezählt nach der Archivdatei, sodass eine Stelle
-zeilenweise zitiert werden kann. Sie ist jedoch *bearbeitet*, nicht roh. Wo ein Wort
-tatsächlich über die Zeile gebrochen ist, trägt es einen einfachen Bindestrich; wo die
-Transkription einen Umbruch markierte, der keiner ist, ist das Zeichen entfernt.
-Wiederkehrende Namen sind vereinheitlicht. Das ist, was die Briefe sagen, dargeboten so,
-wie die Herausgeber sie gelesen haben.
+Die Originale sind Handschriften, die meisten in *Kurrent*, der deutschen Schreibschrift
+der Zeit, die schwer zu lesen und leicht falsch zu lesen ist.
 
-**Lesefassung** nimmt denselben Text und führt die Zeilen zu fortlaufender Prosa zusammen.
+**Die Transkription stammt nicht von einem ausgebildeten Paläographen, der jede Seite
+gelesen hätte.** Sie entstand in drei Schritten:
 
-### Was geändert wurde, und warum
+1. Ein KI-System zur Handschriftenerkennung erstellte die erste Transkription. Der
+   Herausgeber korrigierte Namen und Anordnung von Hand.
+2. Ein KI-Modell (Claude) ging den Text dann durch und korrigierte ihn. Ein Wort wurde nur
+   geändert, wo etwas anderes als der Sinn des Satzes die Änderung stützt: eine zweite
+   Abschrift desselben Textes, dasselbe Wort an anderer Stelle deutlich geschrieben, eine
+   feste Formel oder, in den zuletzt aufgenommenen Beständen, die Seite selbst, Zeile für
+   Zeile mit dem Text verglichen. Jede Änderung ist mit ihrem Grund verzeichnet.
+3. Der Herausgeber prüfte Stichproben der Änderungen an den Aufnahmen und entschied über
+   Lesungen, die zweifelhaft blieben.
 
-Diese Edition bietet keine strenge diplomatische Umschrift, und der Grund ist ein
-bestimmter: die Transkription stammt von einem KI-System, nicht von einem Paläographen.
-Das meiste, was wie eine Eigenheit des Schreibers aussah, erwies sich als Maschinenfehler.
-Diese Fehler getreu wiederzugeben, bewahrte nichts von der Handschrift und führte die
-Leserschaft in die Irre.
+Dreierlei blieb unangetastet. Die Schreibweise der Zeit steht, wie sie geschrieben ist
+(*laßen*, *seyn*, *nöthig*). Wörter, die nicht zu lesen waren, sind als zweifelhaft
+bezeichnet und nicht erraten. Text, den ein Schreiber gestrichen hat, ist nicht
+transkribiert.
 
-Drei Arten von Eingriffen wurden vorgenommen, jede aufgrund von Belegen statt aufgrund von
-Eindrücken:
+Eines wurde durchgehend geändert: Eine Person oder ein Ort, die von den Schreibern
+verschieden geschrieben werden, steht in einer einzigen Schreibweise, damit sie zu finden
+sind.
 
-- **Trennzeichen am Zeilenende.** In der Korrespondenz verbanden von 1.317 Zeichen am
-  Zeilenende nur 826 tatsächlich ein Wort. 483 waren überflüssig, 5 waren Kustoden, und 3
-  hatten nichts, worin sie sich hätten fortsetzen können. Jedes wurde an diesem Korpus und
-  am historischen deutschen Sprachgebrauch geprüft, und jede Entscheidung ist mit ihrem
-  Beleg verzeichnet. Die Urkunden wurden ebenso geprüft; die Zahlen unten sind die der
-  Korrespondenz, in der die Zeichen am dichtesten standen.
-- **Wiederkehrende Namen.** Mehrfach unterschiedlich transkribierte Personen und Orte
-  wurden auf eine Schreibung vereinheitlicht, nur am Wortstamm, sodass deutsche und
-  polnische Flexionsendungen erhalten bleiben. Wo sich eine Variante als *andere* Person
-  herausstellte, blieb sie bewusst stehen.
-- **Nachweisbare Verschreibungen**, wo dasselbe Wort anderswo im Korpus richtig
-  geschrieben ist oder die Lesart einer zweiten Abschrift desselben Dokuments widerspricht.
+Die maschinelle Lesung dieser Schrift macht einen eigenen Fehler: Sie kann plausibles
+Deutsch hervorbringen, das nicht auf der Seite steht. **Wer sich auf eine Stelle verlassen
+muss, sollte sie mit der Aufnahme der Seite vergleichen, die daneben steht.**
 
-Die Orthographie der Zeit wird nicht berichtigt. Formen wie *laßen*, *seyn*, *nöthig*,
-*Ewr* und *dero* sind die Schreibweise der Verfasser und bleiben stehen. Ebenso die
-Zweifelszeichen des Transkribenten.
+## Ein Dokument lesen
 
-Der unbearbeitete Text besteht weiter. Jeder Bestand bewahrt seine Transkription genau so,
-wie sie erzeugt wurde, in `units/<Bestand>/corpus.txt`, und jede editorische Schicht wird
-gegen sie geprüft: eine Änderung, die keine verzeichnete Entscheidung deckt, lässt den Build
-scheitern.
+Die Schaltflächen über dem Text wechseln zwischen drei Ansichten:
 
-**Englisch** enthält die Übersetzung, Seite für Seite ergänzt. Wo noch keine vorliegt, sagt
-die Ansicht das, statt nichts zu zeigen.
+- **Transkription** folgt der Handschrift Zeile für Zeile. Die Zeilen sind gezählt, so dass
+  sich eine Stelle nach Dokument, Seite und Zeile zitieren lässt. Einige Dokumente sind
+  absatzweise transkribiert und sagen das.
+- **Lesefassung** ist derselbe Text, fortlaufend gesetzt; am Zeilenende getrennte Wörter
+  sind verbunden.
+- **Englisch** ist die Übersetzung, Seite für Seite.
 
-**Digitalisate** zeigen die Seite selbst. Jedes Bild wurde einzeln und von Auge seiner
-Seite zugeordnet; ein Klick öffnet es in voller Größe. In der Korrespondenz stehen von den
-872 aufgenommenen Bildern 865 neben einer transkribierten Seite. Die übrigen sieben sind das
-Titelblatt der Serie, fünf Blätter, die keine Handschriftenseiten sind, und eine Seite mit
-Rechenaufstellungen, die bewusst nicht transkribiert wurde.
+Die Aufnahme der Seite steht neben dem Text; ein Klick zeigt sie in voller Größe.
 
-Jede Seite verzeichnet, von welchem Bild sie gelesen wurde, sodass sich ein Verweis auf eine
-Zeile bis zur Handschrift zurückverfolgen lässt.
-
-Die hier veröffentlichten Bilder sind auf 1100 Pixel Breite verkleinert, was zum Lesen der
-Hand genügt. Die Originale in voller Auflösung, rund 1 GB, liegen offline als
-Archivmaster.
-
-## Warum die Trennzeichen geprüft werden mussten
-
-Die Transkription bezeichnet ein gebrochenes Wort mit `¬`, doch dieses Zeichen ist nicht
-für bare Münze zu nehmen, denn der Transkribent hat es sehr häufig falsch gesetzt. Von den
-1.317 Zeichen am Zeilenende in der Korrespondenz verbinden **483 (37 %) gar nichts**:
-
-| | |
-|---|---|
-| `die¬` + `serhalb` | *dieserhalb*, eine wirkliche Fügung. **Verbunden** |
-| `die¬` + `nöthigsten` | *dienöthigsten* ist kein Wort. **Getrennt gelassen** |
-| `auf¬` + `Übrigens` | zwei eigene Wörter. **Getrennt gelassen** |
-
-Jedes Zeichen wurde daher anhand von Belegen entschieden, nicht nach Annahme. Zwei Quellen
-dienten dazu: dieses Korpus selbst, das die Orthographie der Zeit kennt, und die
-Frequenzdaten der [DWDS](https://www.dwds.de), die lemmatisiert sind, sodass flektierte
-Formen wie `Mitgliedern` aufgelöst werden, und die historisches Deutsch abdecken. Als
-wirkliches Wort gilt eine Form ab tausend Korpustreffern; darunter kommt Rauschen aus
-Eigennamen zurück.
-
-Das Ergebnis: **826 echte Verbindungen, 483 Zeichen ohne Verbindung, 5 Kustoden** sowie 19
-Fälle, die an den Originalen zu prüfen sind. Jede Entscheidung ist mit ihrem Beleg in
-`linebreak_decisions.csv` verzeichnet, und jede lässt sich überstimmen.
-
-## Kustoden
-
-Fünf Seiten enden mit einer Kustode, dem alten Schreibbrauch, das erste Wort der nächsten
-Seite unten auf die laufende zu setzen, damit die Blattfolge erkennbar bleibt:
-
-| Brief | Seitenende | Anfang der nächsten Seite |
-|---|---|---|
-| 133 | `Con¬` | `Contract` |
-| 140 | `Vor-` | `Vorwerk` |
-| 168 | `Win¬` | `Winnickischen` |
-| 177 | `be¬` | `benennung` |
-| 235 | `ver-` | `verliehren` |
-
-Das sind keine gebrochenen Wörter. Sie zu verbinden erzeugte „ConContract“. Sie bleiben in
-der diplomatischen Ansicht, wo sie zur Seite gehören, und entfallen in der Lesefassung, wo
-sie nicht zum Text gehören.
-
-## Editorische Zeichen
+Zwei Arten von Text sind auf einer Seite unter einer eigenen Überschrift abgesetzt:
+Vermerke, die eine Behörde auf ein eingegangenes Schriftstück schrieb (der Tag des
+Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener Text.
 
 | Zeichen | Bedeutung |
 |---|---|
-| `¬` | Das Worttrennungszeichen des Transkribenten. In der diplomatischen Ansicht beibehalten, gleichviel ob es sich als echt erwies, denn das Zeichen ist selbst ein Beleg; die Lesefassung folgt der geprüften Entscheidung. |
-| `[?]` | Der Transkribent konnte das Wort oder die Buchstaben, für die es steht, nicht lesen. Unmittelbar hinter einem Wort bezeichnet es dieses Wort als unsicher. |
-| `[word?]` | Eine Vermutung zu einem Wort, das dem Transkribenten unklar war. |
+| `[?]` | Ein Wort oder ein Teil davon war nicht zu lesen. Unmittelbar nach einem Wort bezeichnet es dieses Wort als zweifelhaft. |
+| `[word?]` | Eine mit Zweifel angebotene Lesung. Wo nur die ersten Buchstaben gelesen sind: `[Rev…?]`. |
 | `[...]` | Eine Lücke: Die Seite ist beschädigt, oder der Text bricht ab. |
-| `(missing)` / `(skipped)` | Die Archivnummer besteht, doch unter ihr ist kein Text überliefert. |
-| `ſ` | Das lange s, wie im Original geschrieben. |
+| `G[oldbeck]` | Buchstaben in eckigen Klammern innerhalb eines Wortes sind von der Edition ergänzt: eine aufgelöste Abkürzung oder eine Unterschrift, die nur aus einer Initiale besteht. |
+| `ſ` | Das lange s, wie geschrieben. |
+| `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Im Korpus stehen **610** Zweifelszeichen in 233 Dokumenten: 390 `[?]`, 115 als `[word?]`
-angebotene Vermutungen und 105 Lücken. Sie bleiben im Text jedes betroffenen Dokuments
-sichtbar, statt geglättet zu werden, und sind noch an den Originalen zu prüfen.
+Die Edition enthält 610 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
-## Epochen
+## Die englischen Übersetzungen
 
-Das Archiv ist in drei Epochen gegliedert, eine für jeden Besitzer des Gutes. Die Zuordnung
-zu einer Epoche ist eine editorische Entscheidung: Ein Dokument gehört zu der Epoche, deren
-Geschichte es belegt, und das ist nicht dasselbe wie sein Datum. Viele Dokumente der
-Hohenlohe-Epoche sind datiert, nachdem die Hohenlohe das Gut 1807 verloren hatten, denn der
-Streit darum zog sich noch neun Jahre hin und der Streit um die Schulden des Fürsten darauf
-bis 1832.
+Jedes Dokument mit Text hat eine englische Übersetzung: 468 von 473. Alle sind
+**Entwürfe**. Sie wurden von einem KI-Modell nach Regeln des Herausgebers angefertigt. Noch
+keine ist von einem Menschen mit der Handschrift verglichen worden.
 
-Bisher gehört jedes veröffentlichte Dokument zur Hohenlohe-Epoche. Die beiden anderen, der
-Grenzstreit zwischen Trąbczyn und Łukom vor 1788 und die Rückgabe des Gutes an die Erben
-Prusimski ab 1807, sind noch nicht veröffentlicht.
+Die Übersetzung zeigt einen Zweifel überall dort, wo das Original einen hat, weil glattes
+Englisch ihn verdecken würde:
 
-Die für eine Epoche angegebenen Jahre sind daher die Jahre der ihr zugeordneten Dokumente,
-nicht die Jahre, in denen der Besitzer das Gut innehatte. Beides steht auf der Seite der
-jeweiligen Epoche.
+| Im Original | Im Englischen | Bedeutung |
+|---|---|---|
+| `[?]` | `[illegible]` | nichts war zu lesen |
+| `[word?]` | `[uncertain: word]` | eine mit Zweifel angebotene Lesung |
+| `[...]` | `[text lost]` | eine Lücke oder eine beschädigte Seite |
 
-## Datierung
+Zahlen und Namen sind so übersetzt, wie sie in der Transkription stehen, auch wo sie falsch
+aussehen; die Übersetzung berichtigt den Text nicht nebenbei. `[uncertain: …]` kann auch
+dort stehen, wo das Original kein Zeichen trägt: Die Transkription liest sich dort als
+gewöhnliches Deutsch, ergibt aber in ihrem Satz keinen Sinn und ist vermutlich verlesen.
 
-Etwa neun von zehn Dokumenten tragen ein Datum im Dokument selbst. Die übrigen sind auf eine
-von vier Weisen datiert, und jedes Dokument nennt die für es zutreffende:
+## Die Zusammenfassungen
 
-- **aus dem Brief gelesen**, die Datumszeile, wie sie geschrieben steht
-- **von der Forschung ergänzt**, anhand der Originalhandschriften ermittelt
-- **aus den Nachbarbriefen erschlossen**, eingegrenzt durch die Briefe davor und danach,
-  wobei die Begründung beim Dokument verzeichnet ist
-- **der Doppelüberlieferung entnommen**, wo ein Dokument in zwei Abschriften vorliegt
+Jedes Dokument hat eine kurze Zusammenfassung, die beim Auffinden hilft. Sie ist ein
+Findmittel und kein Teil des Textes. Die Zusammenfassungen wurden von einem KI-Modell
+entworfen. In den meisten Beständen wurden sie aus der Originalsprache geschrieben, und
+jede Aussage wurde danach am Dokument geprüft; die Seite jedes Bestands sagt, wie seine
+Zusammenfassungen entstanden sind.
 
-Neun Dokumente bleiben undatiert und stehen am Ende der chronologischen Folge.
+## Datierung, Namen und Geld
 
-Zu beachten ist, dass die Zählung eines Archivs nicht chronologisch sein muss. In der
-Korrespondenz bilden die Briefe 1 bis 74 einen ungeordneten Block über die Jahre 1806 bis
-1815; 75 bis 301 laufen von 1798 an der Reihe nach, und die Nummern 302 und 303 stehen
-außerhalb dieser Folge. Beide Ordnungen sind begehbar, und die Archivnummer ist der feste
-Zitierschlüssel. Sie ist nur innerhalb ihres Bestandes eindeutig; deshalb gehört der Bestand
-zur Adresse jedes Dokuments.
+**Datierung.** Etwa neun von zehn Dokumenten tragen ihr eigenes Datum. Die übrigen hat der
+Herausgeber nach der Handschrift, nach den benachbarten Briefen oder nach einer zweiten
+Abschrift datiert, und jedes Dokument sagt, was für es gilt. Neun bleiben undatiert.
 
-## Geld
+**Personen.** Unter [Personen]({{ '/de/personen/' | relative_url }}) steht jeder, der oft
+genug genannt ist, um ihm zu folgen, mit den Dokumenten, die ihn nennen. Manche
+Bestimmungen beruhen allein auf dem Zusammenhang; jeder Eintrag sagt, worauf er beruht.
 
-Beträge stehen im preußischen System, das bis 1821 galt: **1 Reichsthaler = 24 Groschen;
-1 Groschen = 12 Pfennig**, hier geschrieben als `Rthl`, `g` und `d`. Das Korpus hält diese
-Grenzen genau ein, und eben das machte es möglich, die vielen uneinheitlichen Abkürzungen
-des Originals ohne Raterei in eine einzige Schreibweise aufzulösen. Das `d` für Pfennig ist
-kein Fehler. Es ist die historische Abkürzung für *denarius*, dieselbe Übung, die hinter
-den britischen Pence vor der Dezimalumstellung steht.
+**Orte.** Ein Ort, der heute in Polen liegt, steht unter seinem polnischen Namen, der
+deutsche in Klammern dahinter, und trägt in den englischen Übersetzungen den polnischen
+Namen. Das Original behält den Namen, den sein Schreiber gebraucht.
 
-Die französischen Dokumente rechnen in *écus*, was im Französisch preußischer Schreiber
-Taler bedeutet; das Englische gibt sie als Reichsthaler wieder. Die polnischen Dokumente
-rechnen in Talern und in polnischen Gulden (*złote*), im Englischen Polish florins.
+**Geld.** Beträge stehen in der preußischen Währung der Zeit: 1 Reichstaler (`Rthl`) hat
+24 Groschen (`g`), 1 Groschen 12 Pfennig (`d`, für *denarius*). Die französischen Dokumente
+rechnen in *écus*, das sind dieselben Taler. Die polnischen Dokumente rechnen auch in
+polnischen Gulden (*złote*), sechs auf den Taler.
 
-## Zusammengefasste und doppelt überlieferte Dokumente
+## Wie die Dokumente gezählt und geordnet sind
 
-Mehrere Archivnummern enthielten mehr als ein Dokument. Diese wurden in Teilaufnahmen
-zerlegt, Brief 72 in 72a bis 72f, Brief 74 in 74a bis 74e und so fort, jede mit einer
-Verknüpfung zurück zum übergeordneten Stück. Dabei wurde nichts entfernt.
+Ein Dokument wird nach Archiv, Bestand und Nummer im Bestand zitiert. Die Nummern sind die
+des Archivs und folgen nicht immer dem Datum.
 
-Einige Dokumente sind in zwei Abschriften überliefert. In der Korrespondenz sind die Briefe
-**48 und 302** derselbe Brief vom 7. März 1809, zweimal transkribiert, ebenso 72d/72e
-(deutsch und polnisch) sowie 118b/118c. In den Urkunden steht der Erbpachtvertrag über
-Betsche als **18 und 19**, zweimal in den Band abgeschrieben, einmal ohne die königliche
-Genehmigung und die Beglaubigung des Archivs, die der anderen Abschrift folgen. Die
-Doppelüberlieferungen sind ungewöhnlich wertvoll, denn der
-Vergleich zweier unabhängiger Transkriptionen derselben Seite zeigt genau, wo
-Transkription fehlgeht, und beide Abschriften stehen unverändert nebeneinander.
+Wo eine Archivnummer mehrere Dokumente umfasst, sind sie als 72a, 72b und so weiter
+gezählt. Einige Dokumente sind in zwei Abschriften überliefert. Beide stehen hier, weil
+jede zeigt, wo die andere falsch abgeschrieben oder verlesen ist.
+
+Die Edition ist nach den Besitzern der Güter gegliedert. Alle bisher veröffentlichten
+Dokumente gehören in die Jahre Hohenlohe-Ingelfingens und ihre Nachgeschichte. Der ältere
+Grenzstreit zwischen Trąbczyn und dem Nachbargut Łukom und die Jahre nach der Rückgabe der
+Güter an die Familie Prusimski 1807 stehen noch aus.
 
 ## Was noch offen ist
 
-- Eine Geldsumme weicht zwischen den beiden Abschriften des Briefes vom 7. März 1809
-  voneinander ab (23.000 gegen 32.000 Rthl). Beide Transkriptionen sind ihrer jeweiligen
-  Seite treu, die Abweichung gehört also dem ursprünglichen Abschreiber, nicht dieser
-  Edition.
-- Unsichere Lesarten und beschädigte Stellen sind an den Originalen zu prüfen; ihre Zahl
-  steht für jedes Dokument auf dessen eigener Seite.
-- Manche Identifizierungen beruhen allein auf dem Zusammenhang. Die Personenseiten nennen
-  jeweils den Beleg.
+- Keine Übersetzung ist von einem Menschen mit der Handschrift verglichen worden.
+- Die Zweifelszeichen sind noch an den Originalen zu prüfen.
+- Dreizehn Briefe der Korrespondenz sind noch weitgehend eine unkorrigierte maschinelle
+  Lesung. Ihre Seiten sagen das.
+- Weitere Akten über die Güter aus den Berliner Archiven sind noch aufzunehmen.
 
-## Englische Übersetzungen
+## Zitieren und Weiterverwenden
 
-Jedes Dokument mit Text hat nun eine englische Übersetzung: 468 der 473. Die übrigen fünf
-sind Nummern der Korrespondenz, unter denen kein Text überliefert ist. Jede Übersetzung
-erscheint unter dem Original mit ihrem Status, und die französischen und polnischen
-Dokumente wurden aus ihrer eigenen Sprache übersetzt. Keine Übersetzung gilt als
-maßgeblich, bevor sie von Hand geprüft wurde, und bisher sind alle 459 als **draft**
-bezeichnet. Eine als **draft** bezeichnete Übersetzung hat die hier
-beschriebenen maschinellen Prüfungen durchlaufen, ist aber noch nicht gegen die Handschrift
-gelesen; **reviewed** heißt, dass eine Person jede dazu erhobene Rückfrage durchgegangen
-ist.
-
-**Das Englische zeigt eine Lücke, wo das Deutsche eine hat.** Das ist Absicht, und es ist
-das Wichtigste am Lesen der Übersetzung. Eine Übersetzerin oder ein Übersetzer, ob Mensch
-oder Maschine, kann fast jeden beschädigten Satz in glattes Englisch bringen, und glattes
-Englisch lässt die Leserschaft nicht erkennen, was gesicherter Text ist und was Vermutung.
-Darum gehen die Zweifelszeichen mit über:
-
-| Im Deutschen | Im Englischen | Bedeutung |
-|---|---|---|
-| `[?]` | `[illegible]` | in der Handschrift nichts Lesbares |
-| `[word?]` | `[uncertain: word]` | eine Lesart angeboten, aber unsicher |
-| `[...]` | `[text lost]` | eine Lücke oder ein beschädigter Seitenrand |
-
-Sie finden `[uncertain: …]` im Englischen mitunter auch dort, wo das Deutsche gar kein
-Zeichen trägt. Das heißt, dass die Transkription sich wie gewöhnliches Deutsch liest, im
-Zusammenhang aber keinen Sinn ergibt, eine Stelle also, an der die Handschrift
-wahrscheinlich unbemerkt falsch gelesen wurde. Diese Stellen sind zur Prüfung am Original
-gesammelt.
-
-Wo sich erschließen ließ, was die Handschrift *wahrscheinlich* sagte, bleibt dieser
-Vorschlag bewusst aus dem Englischen heraus und wird gesondert verzeichnet. Die
-Transkription zu berichtigen ist etwas anderes, als sie zu übersetzen, und es geschieht an
-der Handschrift, nicht am Sinn des Satzes. Zahlen und Eigennamen werden genau so
-wiedergegeben, wie sie transkribiert sind, niemals nebenbei berichtigt, auch dort nicht, wo
-sie offenkundig falsch sind. Eine stillschweigend verbesserte Zahl zerstörte den Beleg
-dafür, dass sie je falsch war.
+[Lizenzen, Nachweise und Datenschutz]({{ '/de/rechte/' | relative_url }}) sagt, wer die
+Edition betreibt, wie ein Dokument zu zitieren ist und was weiterverwendet werden darf.
