@@ -1605,6 +1605,15 @@ lose his estates. The era page writes Konotop, not Kontop.
   (Oe 1 Bü 14526, document 16), kept apart from Martin Honrichs. The edition has 467
   documents.
 
+- **What the rest of the site owed APP 53/968/0/-/801** (2026-10-05). The era essay said the
+  crown had licensed the division of Trąbczyn and Zagórów the year before the punctation of
+  April 1805. Both copies of the consent are dated 28 January 1806, on cabinet orders of
+  October and December 1805; the sentence is corrected in both languages and links both
+  copies. A short paragraph on the Drzewce lease added to section III (no entry money, four
+  free years, on uncleared forest). The holding pages of APP 53/71/0/-/57, Oe 1 Bü 14526,
+  Nr. 3705 and Oe 1 Bü 9454 name the new holding among their related holdings, in both
+  languages. APP 53/71/0/-/57 is no longer described as the only holding from Poznań.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

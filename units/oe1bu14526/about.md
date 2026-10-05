@@ -34,4 +34,4 @@ The documents are in German. Passages in Polish occur where a contract was read 
 
 ### Related holdings
 
-The grants of 1796 and 1797 and the registration of title: [[unit:oe1bu14525]]. A court file of one hereditary lease in the Trąbczyn forest: [[unit:app5371057]]. A petition of 1805 concerning lessees in arrears at Oleśnica: [[unit:ihagrrep7cnr3705]]. Letters of Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+The grants of 1796 and 1797 and the registration of title: [[unit:oe1bu14525]]. A court file of one hereditary lease in the Trąbczyn forest: [[unit:app5371057]]. A petition of 1805 concerning lessees in arrears at Oleśnica: [[unit:ihagrrep7cnr3705]]. Letters of Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Copies made about 1930 of the power of attorney, of the Chamber's consent of 1806 to the parcelling, and of a further lease, of forest at Drzewce: [[unit:app539680801]]. <!-- context -->

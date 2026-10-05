@@ -34,4 +34,4 @@ Die Dokumente sind deutsch. Polnische Stellen kommen vor, wo ein Vertrag in dies
 
 ### Verwandte Bestände
 
-Die Verleihungen von 1796 und 1797 und die Eintragung des Besitztitels: [[unit:oe1bu14525]]. Eine Gerichtsakte über eine Erbpacht im Trąbczyner Forst: [[unit:app5371057]]. Eine Bittschrift von 1805 wegen säumiger Pächter in Oleśnica: [[unit:ihagrrep7cnr3705]]. Briefe Triebenfelds an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+Die Verleihungen von 1796 und 1797 und die Eintragung des Besitztitels: [[unit:oe1bu14525]]. Eine Gerichtsakte über eine Erbpacht im Trąbczyner Forst: [[unit:app5371057]]. Eine Bittschrift von 1805 wegen säumiger Pächter in Oleśnica: [[unit:ihagrrep7cnr3705]]. Briefe Triebenfelds an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Um 1930 angefertigte Abschriften der Vollmacht, des Konsenses der Kammer von 1806 zur Parzellierung und einer weiteren Erbpacht, von Wald in Drzewce: [[unit:app539680801]]. <!-- context -->

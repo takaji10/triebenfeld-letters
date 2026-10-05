@@ -78,4 +78,4 @@ Triebenfeld wrote in haste and often when ill. Thirteen letters are transcribed 
 
 ### Related holdings
 
-The grants of the estates: [[unit:oe1bu14525]] and [[unit:ihagrrep7cnr3570]]. The contracts of sale and lease to which the letters of 1804 to 1806 refer: [[unit:oe1bu14526]] and [[unit:app5371057]]. A petition of 1805 concerning the lessees of Oleśnica: [[unit:ihagrrep7cnr3705]]. The ministry's file on the claim for Trąbczyn, 1814 to 1820: [[unit:iiihamdaiiinr12765]]. The entail of 1805: [[unit:oe1u199]]. <!-- context -->
+The grants of the estates: [[unit:oe1bu14525]] and [[unit:ihagrrep7cnr3570]]. The contracts of sale and lease to which the letters of 1804 to 1806 refer: [[unit:oe1bu14526]] and [[unit:app5371057]]. A petition of 1805 concerning the lessees of Oleśnica: [[unit:ihagrrep7cnr3705]]. The ministry's file on the claim for Trąbczyn, 1814 to 1820: [[unit:iiihamdaiiinr12765]]. The entail of 1805: [[unit:oe1u199]]. The Chamber's consent of January 1806 to the division of Zagórów and Trąbczyn, and a lease of forest at Drzewce: [[unit:app539680801]]. <!-- context -->

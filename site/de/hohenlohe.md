@@ -175,8 +175,12 @@ Im April 1805 unterzeichnete Triebenfeld eine
 Łazy, Osiny, Neudorff und Przybysław, zu 300 Reichstalern die Hufe und jährlich fünfzehn
 weiteren als unablöslichem Zins. Die neuen Dörfer sollten in zwei geraden Zeilen angelegt
 werden, mit dreizehn freien Morgen in jedem für den Schulmeister, den Schulzen und den
-Kirchhof. Die Krone hatte die Aufteilung im Jahr zuvor genehmigt; die Genehmigung liegt bei
-[einem anderen der Verträge]({{ '/documents/oe1bu14526/8/' | relative_url }}). Siebzehn Männer
+Kirchhof. Die Genehmigung der Krone kam erst danach. Am 28. Januar 1806 erlaubte die Kammer
+in Kalisch auf königliche Ordres vom Oktober und Dezember 1805, beide Herrschaften
+aufzuteilen, sofern keine Bauernstelle einging und die Untertanen für ihre Hütungs- und
+Holzungsrechte entschädigt wurden. Eine Abschrift der Genehmigung liegt bei
+[einem anderen der Verträge]({{ '/documents/oe1bu14526/8/' | relative_url }}); eine
+[zweite]({{ '/documents/app539680801/2/' | relative_url }}) wurde um 1930 angefertigt. Siebzehn Männer
 unterzeichneten die Punktation, zehn davon mit einem Kreuz. Deutsche und polnische Namen
 stehen in der Liste nebeneinander, und eine Stelle von drei Hufen nimmt eine Frau, Elisabetta
 di Simony, in eigenem Namen.
@@ -187,6 +191,12 @@ der Grundherr ein Zehntel des Preises. Er trug die Steuern, kaufte seine Geträn
 Herrschaft und mahlte in ihrer Mühle. Nach zwei Jahren Rückstand verlor er die Stelle. Und er
 verzichtete im Voraus und schriftlich auf jeden Nachlass bei Feuer, Wasser, Krieg oder
 Missernten.
+
+Wo das Land noch Wald war, waren die Bedingungen leichter. Hundert Hufen des Waldes von
+Drzewce in der Herrschaft Zagórów gingen an achtzehn Siedler ohne Einkaufsgeld und mit vier
+zinsfreien Jahren zum Roden, danach zu 30 Reichstalern die Hufe, wovon sie die Hälfte ablösen
+konnten ([Vertrag]({{ '/documents/app539680801/3/' | relative_url }})). Elf der achtzehn
+unterzeichneten mit drei Kreuzen.
 
 Eine solche Erbpacht lässt sich vom Vertrag bis zur Gerichtsakte verfolgen. Am 31. März 1806
 hielt das Patrimonialgericht der Trąbczyner Güter in Mariantów fest, dass Triebenfeld dem

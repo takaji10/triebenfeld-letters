@@ -25,7 +25,7 @@ Eine Reinschrift in deutscher Sprache. Die Buchstaben A bis H am Rand verweisen 
 
 ### Verwandte Bestände
 
-Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: <a href="{{ '/de/quellen/oe1bu9454/' | relative_url }}">Oe 1 Bü 9454</a>. Kauf- und Erbpachtverträge über die südpreußischen Güter: <a href="{{ '/de/quellen/oe1bu14526/' | relative_url }}">Oe 1 Bü 14526</a>. <!-- context -->
+Briefe Triebenfelds an Hohenlohe-Ingelfingen aus denselben Jahren: <a href="{{ '/de/quellen/oe1bu9454/' | relative_url }}">Oe 1 Bü 9454</a>. Kauf- und Erbpachtverträge über die südpreußischen Güter: <a href="{{ '/de/quellen/oe1bu14526/' | relative_url }}">Oe 1 Bü 14526</a>. Der Konsens der Kammer von 1806, der die Vererbpachtung von Oleśnica erlaubte: <a href="{{ '/de/quellen/app539680801/' | relative_url }}">53/968/0/-/801</a>. <!-- context -->
 
 <!--prepared-->
 

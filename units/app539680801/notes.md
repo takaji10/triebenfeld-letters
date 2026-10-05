@@ -144,8 +144,15 @@ Huta, Ratyń and Ląd.
 `about.md` and `process.md` in both languages; two timeline entries (the
 consent of 28 January 1806, with Oe 1 Bü 14526 document 8 as its other
 source; the contract of 21 March 1806) and this document added to the entry
-for the power of attorney. The era essay is not changed: section III already
-describes the leases and the consent in general terms.
+for the power of attorney. In the era essay, section III (both
+languages), the sentence on the crown's licence was wrong and is corrected:
+it said the division had been licensed the year before the punctation of
+April 1805, where both copies of the consent are dated 28 January 1806 and
+rest on cabinet orders of October and December 1805 (the letters agree: Oe 1
+Bü 9454, 166 and 179). The essay now links both copies, and has a short
+paragraph on the Drzewce lease as the case of uncleared forest. The
+holding pages of APP 53/71/0/-/57, Oe 1 Bü 14526, Nr. 3705 and Oe 1 Bü 9454
+name this holding among their related holdings.
 
 ## Still to do
 

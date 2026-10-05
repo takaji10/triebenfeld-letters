@@ -16,4 +16,4 @@ The file is in German, except the letter and bill of costs of 1811, which are in
 
 ### Related holdings
 
-Further hereditary leases made before the same court in the same weeks, in the copies kept by Hohenlohe-Ingelfingen: [[unit:oe1bu14526]]. Letters of Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+Further hereditary leases made before the same court in the same weeks, in the copies kept by Hohenlohe-Ingelfingen: [[unit:oe1bu14526]]. Letters of Triebenfeld to Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. A lease of forest at Drzewce engrossed by the same court ten days earlier, with another copy of the power of attorney and with the Chamber's consent to the parcelling, in copies made about 1930: [[unit:app539680801]]. <!-- context -->

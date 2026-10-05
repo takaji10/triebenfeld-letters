@@ -167,8 +167,12 @@ In April 1805 Triebenfeld signed a
 Trąbczyn, Łazy, Osiny, Neudorff and Przybysław at 300 Reichsthaler the *Hufe*, with fifteen
 more every year in a rent that could never be bought out. New villages were to be laid out
 in two straight lines, with thirteen free *Morgen* in each for the schoolmaster, the village
-head and the churchyard. The crown had licensed the division the year before, and the licence
-is filed with [another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}).
+head and the churchyard. The crown's licence came only afterwards. On 28 January
+1806 the chamber at Kalisz, acting on the King's orders of October and December 1805, allowed
+both lordships to be divided, provided that no peasant holding lapsed and that the subjects
+were compensated for their rights of pasture and wood. One copy of the licence is filed with
+[another of the contracts]({{ '/documents/oe1bu14526/8/' | relative_url }}); a
+[second]({{ '/documents/app539680801/2/' | relative_url }}) was made about 1930.
 Seventeen men signed the punctation, ten of them with a cross. German and Polish names stand
 side by side in the list, and one holding, three *Hufen*, is taken by a woman, Elisabetta di
 Simony, in her own name.
@@ -178,6 +182,12 @@ money and owed a fixed rent for ever, and the lord took a tenth of the price whe
 holding was sold. He paid the taxes, bought his drink from the lord's tavern and ground his
 corn at the lord's mill. Two years in arrears and he forfeited the holding. He also gave up,
 in advance and in writing, any claim to relief for fire, flood, war or bad harvests.
+
+Where the land was still forest the terms were lighter. A hundred *Hufen* of the forest of
+Drzewce, in the lordship of Zagórów, went to eighteen settlers with no entry money and four
+years free of rent while they cleared it, then at 30 Reichsthaler the *Hufe*, half of which
+they could buy out ([contract]({{ '/documents/app539680801/3/' | relative_url }})). Eleven of
+the eighteen signed with three crosses.
 
 One such lease can be followed from contract to court record. On 31 March 1806 the
 patrimonial court of the Trąbczyn estates, sitting at Mariantów, recorded that Triebenfeld

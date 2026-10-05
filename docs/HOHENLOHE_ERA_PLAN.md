@@ -142,8 +142,8 @@ nothing, and Triebenfeld's petition to the King of September 1805 to have it
 sequestered. The revenue survey of 1806. The debts growing faster than the
 rents: Countess Schlabrendorff, the Invalids' Fund loan of 1805.
 
-Sources: Oe 1 Bü 14526; Oe 1 Bü 9454; 53/71/0/-/57 (Erbet); Nr. 3705
-(Oleśnica); Oe 1 Bü 14525 (the mortgage entries, the loan of 250,000 Rthl on
+Sources: Oe 1 Bü 14526; Oe 1 Bü 9454; 53/71/0/-/57 (Erbet); 53/968/0/-/801
+(the consent of 28 January 1806, the Drzewce lease); Nr. 3705 (Oleśnica); Oe 1 Bü 14525 (the mortgage entries, the loan of 250,000 Rthl on
 Zagórów).
 
 Incoming: *Olesnica estate lease from Hohenlohe* is Nr. 3705, already in.

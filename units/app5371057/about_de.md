@@ -16,4 +16,4 @@ Die Akte ist deutsch, mit Ausnahme des Schreibens und der Kostenrechnung von 181
 
 ### Verwandte Bestände
 
-Weitere Erbpachtverträge, in denselben Wochen vor demselben Gericht geschlossen, in den bei Hohenlohe-Ingelfingen aufbewahrten Abschriften: [[unit:oe1bu14526]]. Briefe Triebenfelds an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. <!-- context -->
+Weitere Erbpachtverträge, in denselben Wochen vor demselben Gericht geschlossen, in den bei Hohenlohe-Ingelfingen aufbewahrten Abschriften: [[unit:oe1bu14526]]. Briefe Triebenfelds an Hohenlohe-Ingelfingen: [[unit:oe1bu9454]]. Eine Erbpacht von Wald in Drzewce, zehn Tage zuvor von demselben Gericht ausgefertigt, mit einer weiteren Abschrift der Vollmacht und dem Konsens der Kammer zur Parzellierung, in Abschriften von etwa 1930: [[unit:app539680801]]. <!-- context -->
