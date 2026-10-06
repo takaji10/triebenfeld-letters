@@ -395,6 +395,58 @@
   "permalink": "/documents/app53170koningr114/2/"
  },
  {
+  "uid": "app53150kaliszgr414-1",
+  "unit": "app53150kaliszgr414",
+  "letter_id": "1",
+  "doc_type": "delivery",
+  "language": "la,pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1771-11-04",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 9,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0402_a2",
+    "image": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0403_a1",
+    "image": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0403_a2",
+    "image": "APP_53_15_0_Kalisz_Gr_414_0403_a2-L1_03.jpg"
+   }
+  ],
+  "uncertainty_count": 4,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [
+   "lukomia",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "delivery 1",
+  "path": "documents/app53150kaliszgr414-1.json",
+  "text_path": "text/app53150kaliszgr414-1.txt",
+  "permalink": "/documents/app53150kaliszgr414/1/"
+ },
+ {
   "uid": "app53170koningr145-1",
   "unit": "app53170koningr145",
   "letter_id": "1",

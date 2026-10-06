@@ -1,0 +1,27 @@
+# What the check of APP 53/15/0/-/Kalisz Gr.414 against the scans changes for
+# anyone who has written about this document from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/15/0/-/Kalisz Gr.414: the delivery of possession of 1771"
+changes:
+- importance: significant
+  what: "The delivery was not challenged. The record says it was completed \"nemine impugnante\", no one contesting it; the earlier reading, \"per acta nomine impugnante\", was taken as a formal challenge entered in the records."
+  was: "the delivery having been formally challenged by name through the records"
+  now: "Which delivery of possession having thus been completed, no one contesting it"
+- importance: fact
+  what: "\"[I2867]\" after Bogusław Celmer was your own reference number and is taken out of the transcription."
+  was: "Bogusław Celmer [I2867], Samól Frinderberg"
+  now: "Bogusław Celmer, Samól Frinderberg"
+- importance: fact
+  what: "Dates by the calendar: the delivery was made on 4 November 1771 and brought to the castle court at Kalisz on 9 November."
+  was: "1771"
+  now: "4 and 9 November 1771"
+- importance: wording
+  what: "Chełmski is \"jurevincens\", the party that has won at law; the settlers are told to obey and it is \"enjoined\" (injunxitque); the record at Kalisz repeats \"in sylva seu Borra Lusnie\"."
+  was: "prevailing by right ... and imposed [this] ... in the aforesaid pine forest, or rather in the Lusnia pine forest"
+  now: "enjoined it ... in the woodland, or rather the pine forest, Lusnia"
+- importance: fact
+  what: "Not compared with the scans: the middle of the recital of the Tribunal's decrees (the foot of leaf 402 and the head of leaf 402 verso, about 200 words)."
+  was: "(not noted)"
+  now: "units/app53150kaliszgr414/notes.md"

@@ -2,13 +2,14 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 192,
+  "count": 193,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
    "agad11740273-2",
    "agad11740273-3",
    "agad11740273-4",
+   "app53150kaliszgr414-1",
    "app53170koningr114-1",
    "app53170koningr114-2",
    "app53170koningr136-1",
@@ -1273,6 +1274,22 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 9,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app536045-1"
+  ]
+ },
+ {
   "entity": "stolun",
   "display": "Stołuń (Stalluhn)",
   "count": 9,
@@ -1318,21 +1335,6 @@
    "oe1bu14525-7",
    "oe1bu14526-18",
    "oe1bu14526-19"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 8,
-  "documents": [
-   "app53170koningr114-1",
-   "app53170koningr114-2",
-   "app53170koningr145-1",
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536040-1",
-   "app536045-1"
   ]
  },
  {

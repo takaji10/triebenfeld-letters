@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 27
+  docs: 28
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 46
+  docs: 47
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -701,7 +701,7 @@
   initial_en: "I"
   sort_de: "inventarium"
   initial_de: "I"
-  docs: 15
+  docs: 16
 - id: "einsassen"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 65
+  docs: 66
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 18
+  docs: 19
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 50
+  docs: 51
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 27
+  docs: 28
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1575,7 +1575,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 35
+  docs: 36
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 65
+  docs: 66
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1803,7 +1803,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 62
+  docs: 63
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 21
+  docs: 22
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1917,7 +1917,7 @@
   initial_en: "D"
   sort_de: "de dato; vigore"
   initial_de: "D"
-  docs: 13
+  docs: 14
 - id: "months-by-number"
   kind: "phrase"
   lang: "la"

@@ -1,0 +1,48 @@
+# Editorial rulings for 53/15/0/-/Kalisz Gr.414 (APP).
+#
+# One document: the delivery of possession with the record of its entry.
+# Established 2026-10-07.
+
+places:
+  # Place of writing: "Actum in sylva seu Borra Lusnie", the wood between
+  # Trąbczyn and Łukom; entered at Kalisz. The wood is not a place of the
+  # index, so the place of entry is given.
+  overrides:
+    "1": Kalisz
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "Feria Secunda post Festum Omnium Sanctorum proxima Anno Domini
+    # Millesimo Septingentesimo Septuagesimo primo": All Saints 1771 was a
+    # Friday, the Monday after it 4 November. Brought to Kalisz "Sabbatho
+    # ante Festum Sancti Martini", 9 November.
+    "1": [1771, 11, 4, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": delivery
+
+  # Latin, with the act of delivery in Polish.
+  language:
+    "1": "la,pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lukomia, trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0402_a2", "0403_a1", "0403_a2"]
+
+damage:
+  letters: []

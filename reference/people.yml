@@ -287,7 +287,9 @@ people:
     render: "Szepczyński"
     match: 'Szepczy[nń]sk\w+|Szeptyck\w+'
     tier: "Text-confirmed"
-    variants: ["Szeptycki"]
+    # "Szeptycki" (1754) is matched but not listed as a variant: the editor's
+    # English keeps it with the usual form in brackets.
+    variants: []
     identity: "Bartłomiej Szepczyński of Trąbczyn, a sworn court messenger (woźny, Ministerialis Regni Generalis), a commoner ('Providus'). He made the inspection of Trąbczyn for Katarzyna Prusimska in 1754, where the record writes him Szeptycki (APP 53/17/0/-/Konin Gr.136), and reported twice in 1767 for Antoni Prusimski on the embankment at the pond-ground (APP 53/17/0/-/Konin Gr.114). The editor's notes identify him with the messenger Bartłomiej of Trąbczyn in the decree of 1775 and in a document of 1782. Added 2026-10-07."
     merge: false
   trampczynski:

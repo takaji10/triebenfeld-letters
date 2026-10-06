@@ -1,0 +1,88 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53150kaliszgr414
+ref: 53/15/0/-/Kalisz Gr.414
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The delivery of possession by which, on 4 November 1771, a sworn
+  commissioner handed the Lusnia wood and the twelve Olęder settlers living
+  in it to Stanisław Ścibor Chełmski of Łukomia, on the strength of
+  judgments won against Antoni Prusimski; the commission of 1775 later set
+  it aside.
+title_de: >-
+  Die Besitzeinweisung, mit der ein vereidigter Kommissar am 4. November
+  1771 den Wald Lusnia und die zwölf darin wohnenden Olęder-Siedler an
+  Stanisław Ścibor Chełmski von Łukomia übergab, gestützt auf Urteile gegen
+  Antoni Prusimski; die Kommission von 1775 hob sie später auf.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1771
+date_span: 1771
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Two openings, cut at the fold by intake/holding.py --crop; three of the four
+# pages are pages of the edition. The editor approves or moves the folds on
+# review/app53150kaliszgr414/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1771 (53.15.0.-.Kalisz Gr.414)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_15_0_Kalisz_Gr_414
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One document on leaves 402 and 403 of a book of the castle court of Kalisz
+  for 1771: the original of a delivery of possession (traditio), sewn into
+  the book, with the record of its being brought in. Latin, with the act of
+  delivery itself in Polish. On 4 November 1771, in the Lusnia wood, the
+  sworn commissioner of the provinces of Poznań and Kalisz, Wawrzyniec
+  Wstowski, acting for Stanisław Ścibor Chełmski, heir of Łukomia, recites
+  the judgments the delivery rests on (a condemnation of 1761, decrees of
+  the Crown Tribunal of 1766, 1767 and 1768 ordering the boundary between
+  Łukom and Trąbczyn to be drawn, and a third condemnation of 1770 against
+  Antoni Prusimski, Starost of Niszczewice, for contravention) and hands
+  over to Chełmski the wood called Lusnia with the Olęder settlement in it:
+  a tavern house with a new stable and twelve settlers, named. No one
+  objects; the settlers are told to obey Chełmski. On 9 November the act was
+  brought to the castle court at Kalisz for entry.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A delivery of possession (traditio) of 1771 in the Latin of the Polish
+  courts, with the act itself in Polish. The English is the editor's own
+  translation, with the editor's notes. "Traditio" is the putting of a
+  winning party into possession by an officer; "condemnatio" and "banitio" a
+  judgment by default and the outlawry that followed; "condescensio" the
+  court's going onto the ground; "jurevincens" the party that has won at
+  law; "olędrzy", "Holendi" settlers under Olęder law. Trąpczyn is Trąbczyn.
