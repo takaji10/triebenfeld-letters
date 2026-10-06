@@ -1,0 +1,19 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,4,break,high,by_paragraph,0,57,0,Ex Parte M Chełmski contra M Prusimski Citationis Relatio,Videatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In 
+2,8,break,high,by_paragraph,0,74,0,Actum in Conin Feria Tertia post Dominicam Exaudi proxima An,Ex Parte M Prusimski Contra H Her PP Łukom Drzewce Biskupice Tomice [?
+2,9,break,high,by_paragraph,0,85,0,Ex Parte M Prusimski Contra H Her PP Łukom Drzewce Biskupice,Videatur hoc Loco Citationis ex Parte Magnifici Antonii de Kolno Prusi
+2,10,break,high,by_paragraph,0,324,0,Videatur hoc Loco Citationis ex Parte Magnifici Antonii de K,Ex Parte M Chełmski contra H H et P P Tomic Drzewce Trąmpczyno Nowa Wi
+2,11,break,high,by_paragraph,0,85,0,Ex Parte M Chełmski contra H H et P P Tomic Drzewce Trąmpczy,Videatur hoc Loco Citationis ex Parte Magnifici Stanislai Chełmski In 
+3,15,break,high,by_paragraph,0,60,0,Pro Parte M Prusimski Approbationis ad Cassan~ factae Oblata,Videatur hoc Loco Extractus Authentici ex Actis Castren~ Bidgosten~ De
+4,19,break,high,by_paragraph,0,89,0,Actum in Conin Feria Secunda post Festum Sancti Andreae Apos,Pro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris 
+4,20,break,high,by_paragraph,0,76,0,Pro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum H,Videatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte M
+5,24,break,high,by_paragraph,0,79,0,Actum in Conin Feria Sexta pridie Festi Sancti Thomae Aposto,Pro Parte Magnifici Chełmski Armorum Praesentatio
+5,25,break,high,by_paragraph,0,49,0,Pro Parte Magnifici Chełmski Armorum Praesentatio,Ad Officium et Acta praesentia Castrensia Coninensia personaliter veni
+6,29,break,high,by_paragraph,0,53,0,Pro Parte Ejusdem Aggeris Disiectionis in Łukom Visio,Ad officium et Acta praesentia Castrensia Coninensia personaliter veni
+7,33,break,high,by_paragraph,0,88,0,Actum in Conin Feria Tertia post Festum Sancti Andreae Apost,Pro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio
+7,34,break,high,by_paragraph,0,62,0,Pro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Vis,Ad officium et Acta praesentia Castrensia Coninensia personaliter veni
+8,38,break,high,by_paragraph,0,110,0,Actum in Conin Feria Sexta post Cineres proxima Videlicet Di,Pro Parte M Prusimski Prorarum excisarum Visio
+8,39,break,high,by_paragraph,0,46,0,Pro Parte M Prusimski Prorarum excisarum Visio,Ad officium et Acta praesentia Castrensia Coninensia personaliter veni
+9,45,break,high,by_paragraph,0,59,0,Magnifici Chełmski contra Magnificum Prusimski Manifestatio,Ad officium et Acta praesentia Castrensia Coninensia personaliter veni
+9,46,break,high,by_paragraph,0,1049,0,Ad officium et Acta praesentia Castrensia Coninensia persona,Stanisław Scibor Chełmski mp
+10,50,break,high,by_paragraph,0,55,0,Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio,Ad Officium et Acta praesentia Castrensia Coninensia personaliter veni

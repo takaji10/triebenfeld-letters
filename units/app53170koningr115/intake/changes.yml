@@ -1,0 +1,39 @@
+# What the check of APP 53/17/0/-/Konin Gr.115 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.115: ten register entries, 1768 to 1773"
+changes:
+- importance: significant
+  what: "\"Gaza\" is a hut or house, not goods. On 16 December 1771 armed men besieged the innkeeper's house, and what the messenger lays to Prusimski's men is the shooting through of the house (the loopholes and shot-out windows he has just described), not a removal of goods."
+  was: "the besieging of the innkeeper's goods ... concerning the removal of goods, [carried out] by licentious subordinate men"
+  now: "the besieging of the innkeeper's house ... concerning the shooting through of the house, [carried out] by licentious subordinate men"
+- importance: significant
+  what: "In Chełmski's protest it is Prusimski who, by his own order or connivance, let Lipiński and Marzęcki ride upon the inn. The English had the mandate or connivance as Lipiński's and Marzęcki's. Chełmski is \"heir\" of Łukom and \"possessor\" of the Lusnia settlers; possession was adjudged \"to him, the protester\"."
+  was: "possessor by force of his rights of the estates of Łukom ... of the olędry called Lusnia by hereditary title ... acknowledged to him by right of a previously lodged manifest, nonetheless, by the special mandate or connivance of the Honourable Lipiński [his] steward, [of] Marzęcki"
+  now: "heir of the estates of Łukom with their appurtenances, possessor by force of his rights of the olędry called Lusnia ... acknowledged by law to him, the protester, nonetheless — whether by his special mandate or by his connivance — permitted the Honourables Lipiński, [his] steward, and Marzęcki, his chamber attendant"
+- importance: fact
+  what: "Chełmski signed his protest: \"Stanisław Scibor Chełmski mp\" stands under it on leaf 245 and is added. His signature also stands twice at the foot of leaf 186 verso (not transcribed)."
+  was: "(not transcribed)"
+  now: "Stanisław Scibor Chełmski mp"
+- importance: fact
+  what: "The two notes on leaf 35 verso, which you gave as \"Videatur hoc loco…\", are read as far as I could: Prusimski cited the Chełmskis, the Żychliński heirs, Ignacy Gałecki, Starost of Bydgoszcz, and the abbot and convent of Ląd before the Tribunal at Bydgoszcz for the fixing of the boundary; Chełmski cited the abbot Słowiecki and convent of Ląd, Prusimski and Gałecki. \"…\" marks what I did not read."
+  was: "Videatur hoc loco…"
+  now: "Videatur hoc Loco Citationis ex Parte Magnifici Antonii de Kolno Prusimski Capitanei Nieszczeviensis In et Contra Magnificos Chełmski Successores Żychlinianos Ignatium Gałecki Capitaneum Bydgostiensem … Abbatem et Venerabilem Conventum Landensem pro Judiciis Tribunalis Regni Bidg~ ad Granitian~ editt~ Relatio In Productis."
+- importance: fact
+  what: "The three early notes (leaves 3 verso, 35 verso, 37) had no English; I translated them."
+  was: "(no English)"
+  now: "documents 1 to 3"
+- importance: fact
+  what: "Dates. By the calendar: 17 May 1768; 2 and 20 December 1771 (the clash on Monday 16 December); 1 December 1772 (the inn stripped on Saturday 28 November); 26 February 1773. Three entries have no date line on a photographed page and are dated to the month: the note on leaf 3 verso to January 1768, the note on leaf 37 to May 1768, the protest and report on leaf 245 to March 1773."
+  was: "1768, 1771, 1772, 1773"
+  now: "see each document"
+- importance: fact
+  what: "The weapons were presented \"by special commission\" of Chełmski; the Lusnia wood is \"built upon by the settlers\"; the embankment was broken by \"the subjects of Trąbczyn\", to be named later; the inn's fittings were carried off by a band \"fitted out for attempting disturbances\"; the alders were cut by \"men\" of Podbiele, not one man."
+  was: "being present, on commission from ... among the olędry assigned to the estates of Łukom ... for the purpose of fomenting disturbances by [their] instruments ... [by] a man of the Podbiele estates"
+  now: "by special commission of ... built upon by the olędry, belonging to the estates of Łukom ... fitted out for attempting disturbances ... [by] men of the Podbiele estate"
+- importance: wording
+  what: "The note on leaf 37 is headed \"Approbationis ad Cassandum factae Oblata\" and speaks of the \"approbation\" of a term for quashing the condemnation."
+  was: "Approbatus ad Cassan~ factae ... et probationem Termini ad Cassanam Condemnationem"
+  now: "Approbationis ad Cassan~ factae ... et Approbationem Termini ad Cassandam Condemnationem"

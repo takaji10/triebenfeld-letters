@@ -292,6 +292,29 @@ Where the rest is:
   person's entry is shut out with `not_in`. A family named from a place
   (Trąmpczyński) is matched `only_in` too, because the same word is the
   place's adjective in Polish.
+- **A run without stops** (the editor, 2026-10-07): for the Prusimski-era
+  court books every unit is processed in turn, and questions, fold
+  adjustments and the editor's review of readings wait for the end. A
+  question is written into `docs/PRUSIMSKI_QUESTIONS.md` with the default
+  taken, and the holding is built on that default. Do not stop to ask.
+- **A rough register (Konin Gr.115).** Entries are a few lines among many,
+  and a sitting's date line may be pages earlier. Before anything else,
+  read the leaf numbers off the scans (a montage of the top right corners
+  does it in one look) and make small overviews of the pages to find each
+  entry. An entry whose date line is on a page that was not photographed
+  is dated to the month from the dated headings before and after it
+  (`dates: inferred`, with the basis). Photographs numbered in a series
+  are not numbered by leaf.
+- **"Gaza" is a hut or house**, not goods; "trajectio gazae" is shooting
+  through a house. The editor's English had "goods" for it.
+- **The translation check forbids "castle court" in an English
+  translation**: sąd grodzki is "municipal court" there, as in the
+  editor's English. The edition's own prose (holding pages, summaries)
+  says "castle court". Keep the two apart.
+- **Names in the English follow the edition's forms.** The estate is
+  Trąbczyn whatever the clerk wrote (`reference/english_forms.yml`, rule
+  `trabczyn-place`); Celmer is Zelmer. Run `uncanonical_names.py` after
+  publishing a holding's English and clear what it lists.
 - **The editor's own transcription and translation are kept as theirs.**
   That holding's Polish is in modern spelling and its English is the
   editor's: neither is redone, the English is cut to the pages by a

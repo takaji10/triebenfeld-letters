@@ -1,0 +1,113 @@
+{
+ "letter_id": "10",
+ "seq_archival": 10,
+ "parent_letter": "",
+ "unit": "app53170koningr115",
+ "uid": "app53170koningr115-10",
+ "pad": "app53170koningr115-010",
+ "permalink": "/documents/app53170koningr115/10/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1773-03",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1773-03]",
+ "date_inferred_from": "Entered on leaf 245, between the headings of the sittings of 2 March 1773 (leaf 242) and 13 March 1773 (leaf 246); the heading of its own sitting is on a page not among the scans.",
+ "year": 1773,
+ "month": 3,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 47,
+ "line_end": 51,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la,pl",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est.",
+ "text_reading": "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio\n\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0245_a2",
+   "line_start": 49,
+   "line_end": 50,
+   "n_lines": 2,
+   "diplomatic": "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est.",
+   "transcription": "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est.",
+   "reading": "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio\n\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est.",
+   "paragraphs": [
+    "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio",
+    "Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierki Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosis Michaeli Borkowski et Jacobo Krasniewski hic ad praesens Absentibus In Loco tamen Infrascripti Negotii pro tunc praesentibus Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Chełmski personaliter Condescenderat Ibidemque Taliter existens Vidit debiteque Conspexit et Quidem Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone i Porąbane Quae praemissa per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente Hollandos Eosdem Superagredientes Facta et Illata esse Asseruit de Quo praesentem Relationem fecit Eaque Omnia Se debite Vidisse ac Conspexisse Officio praesenti Attestatus est."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 49,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 50,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 1,
+   "page_id": "0245_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+   "line": 50,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Right Honourable Chełmski — Judicial Site Inspection of the Lusnia Olędry\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Joannes Bikierski of Węgierki, Royal Court Summoner, General, being sound, certified — because he, having with him two noblemen, namely the Honourables Michał Borkowski and Jakub Kraśniewski, although absent here from the court for the present, being nonetheless present at the time at the location of the below-written matter — on the immediately preceding Wednesday, [went] to the estate of the Lusnia olędry at the request and official requisition of the Right Honourable Stanisław Chełmski, having personally descended; and being there in such manner, saw and duly inspected:\n\nAt the tavern among the Lusnia [olędry]: the stove, three windows, four doors — newly repaired and fitted out by the Right Honourable His Worship Lord Chełmski — now chopped and cut out; the chimney demolished and the chimney stacks undercut; drinking vessels for beer and spirits smashed and chopped.\n\nWhich aforementioned things, by the Honourables Lipiński, Marzęcki, and others, late at night, on 29 January of the current year, violently attacking those same olędry, he asserted to have been done and inflicted. Concerning which he made the present report, and attested to the present office that he had duly seen and inspected all of these things."
+  }
+ ],
+ "text_english": "On behalf of the Right Honourable Chełmski — Judicial Site Inspection of the Lusnia Olędry\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Joannes Bikierski of Węgierki, Royal Court Summoner, General, being sound, certified — because he, having with him two noblemen, namely the Honourables Michał Borkowski and Jakub Kraśniewski, although absent here from the court for the present, being nonetheless present at the time at the location of the below-written matter — on the immediately preceding Wednesday, [went] to the estate of the Lusnia olędry at the request and official requisition of the Right Honourable Stanisław Chełmski, having personally descended; and being there in such manner, saw and duly inspected:\n\nAt the tavern among the Lusnia [olędry]: the stove, three windows, four doors — newly repaired and fitted out by the Right Honourable His Worship Lord Chełmski — now chopped and cut out; the chimney demolished and the chimney stacks undercut; drinking vessels for beer and spirits smashed and chopped.\n\nWhich aforementioned things, by the Honourables Lipiński, Marzęcki, and others, late at night, on 29 January of the current year, violently attacking those same olędry, he asserted to have been done and inflicted. Concerning which he made the present report, and attested to the present office that he had duly seen and inspected all of these things.",
+ "summary_en": "A report of the court messenger Joannes Bikierski of Węgierki, entered at Konin in March 1773, for Stanisław Chełmski. With two noblemen he inspected the Olęder settlement of Lusnia on the Wednesday before: in the tavern the stove, three windows and four doors, which Chełmski had newly had put in order, were hacked and cut out, the chimney was ruined, and the vessels for beer and spirits were smashed. He states that this was done by the noblemen Lipiński, Marzęcki and others in the night of 29 January of the current year.",
+ "summary_de": "Bericht des Gerichtsboten Joannes Bikierski von Węgierki, eingetragen in Konin im März 1773, für Stanisław Chełmski. Mit zwei Adligen hat er am vergangenen Mittwoch die Olęder-Siedlung Lusnia besichtigt: Im Schankhaus waren der Ofen, drei Fenster und vier Türen, die Chełmski neu hatte herrichten lassen, zerhauen und herausgeschlagen, der Schornstein zerstört, das Bier- und Branntweingeschirr zerschlagen. Nach seiner Angabe haben das die Adligen Lipiński, Marzęcki und andere in der Nacht des 29. Januar des laufenden Jahres getan.",
+ "reading": {}
+}

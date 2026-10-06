@@ -1,0 +1,95 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53170koningr115
+ref: 53/17/0/-/Konin Gr.115
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Ten entries from the register of the castle court at Konin, 1768 to 1773,
+  on the quarrel over the Lusnia wood: notes of citations and of the delivery
+  of the wood to Chełmski, and the court messengers' reports and a protest
+  on the fighting that followed, with an embankment broken, an inn shot at
+  and stripped, weapons taken and timber felled.
+title_de: >-
+  Zehn Einträge aus dem Register des Burggerichts Konin, 1768 bis 1773, zum
+  Streit um den Wald Lusnia: Vermerke über Ladungen und über die Einweisung
+  Chełmskis in den Wald sowie die Berichte der Gerichtsboten und ein Protest
+  über die folgenden Kämpfe, mit einem durchbrochenen Damm, einem
+  beschossenen und ausgeräumten Wirtshaus, erbeuteten Waffen und gefälltem
+  Holz.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1768-1774
+# The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
+fonds: Księgi sądu i urzędu grodzkiego w Koninie
+date_span: 1768-1773
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Sixteen openings; nine carry a transcribed entry, and one half of each is a
+# page of the edition (intake/holding.py). The editor approves or moves the
+# folds on review/app53170koningr115/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1768-1774 (53.17.0.-.Konin Gr.115)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_17_0_Konin_Gr_115
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Ten short entries from a register of the castle court of Konin for 1768 to
+  1774, in Latin, two of them with the thing seen described in Polish. Four
+  are one-line notes that a paper was brought in: Stanisław Chełmski's
+  citation of Antoni Prusimski and the heirs of Katarzyna Prusimska (January
+  1768), the two sides' citations of each other and of the abbey of Ląd
+  before the Crown Tribunal at Bydgoszcz (17 May 1768), Prusimski's
+  approbation for quashing a condemnation (May 1768), and the delivery of
+  the Lusnia wood with its Olęder settlers to Chełmski (2 December 1771).
+  Six are reports and a protest on the violence that followed that delivery:
+  on 20 December 1771 Chełmski's messenger lays captured weapons before the
+  office and reports an embankment at the pond-ground broken by Prusimski's
+  subjects and the settlers' inn shot at; on 1 December 1772 the inn's
+  windows and doors have been carried off to Trąbczyn; on 26 February 1773
+  Prusimski's messenger counts pines and alders felled by Chełmski's people;
+  in March 1773 Chełmski protests, and his messenger reports the inn wrecked
+  in the night of 29 January.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Entries of a court register of 1768 to 1773, in formulaic Latin with some
+  Polish. The English of documents 4 to 10 is the editor's own translation.
+  "Videatur hoc loco ... in Productis" notes that a paper is filed among
+  those produced; "citatio" a summons; "oblata" a paper brought in to be
+  entered; "traditio" a delivery of possession; "manifestatio" a protest;
+  "visio" a court messenger's inspection; "Ministerialis" the messenger
+  (woźny); "gaza" a hut or house; "Hollandi", "olędrzy" settlers under
+  Olęder law; "stawisko" the ground of a former pond. Trąmpczyn is Trąbczyn.

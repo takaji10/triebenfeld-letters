@@ -1,0 +1,94 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.115 (APP).
+#
+# Ten documents, one for each entry of the register; the two notes of one
+# sitting on leaf 35 verso are one document (docs/PRUSIMSKI_ERA_PLAN.md,
+# "One document or many"). Which entry is which is in intake/holding.py.
+# Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+    "3": Konin
+    "4": Konin
+    "5": Konin
+    "6": Konin
+    "7": Konin
+    "8": Konin
+    "9": Konin
+    "10": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." that the entry stands under on its own page.
+  read:
+    "2": [1768, 5, 17, "day"]     # Feria Tertia post Dominicam Exaudi proxima 1768 (Exaudi was 15 May)
+    "4": [1771, 12, 2, "day"]     # Feria Secunda post Festum Sancti Andreae Apostoli proxima 1771
+    "5": [1771, 12, 20, "day"]    # Feria Sexta pridie Festi Sancti Thomae Apostoli 1771
+    "6": [1771, 12, 20, "day"]    # the same sitting
+    "7": [1772, 12, 1, "day"]     # Feria Tertia post Festum Sancti Andreae Apostoli proxima 1772
+    "8": [1773, 2, 26, "day"]     # "Die Vigesima Sexta Mensis Februarii Anno Domini 1773"
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # Three entries stand under a sitting whose heading is on a page that is
+  # not among the scans. They are placed between the dated headings before
+  # and after them in the book.
+  inferred:
+    "1": [1768, 1, null, "month", "Entered on leaf 3 verso of the book for 1768, above the heading of the sitting of 15 January 1768; the heading of its own sitting is on an earlier page, not among the scans."]
+    "3": [1768, 5, null, "month", "Entered between the headings of the sittings of 18 May 1768 (leaf 35 verso) and 27 May 1768 (leaf 37); the heading of its own sitting is on a page not among the scans."]
+    "9": [1773, 3, null, "month", "Entered on leaf 245, between the headings of the sittings of 2 March 1773 (leaf 242) and 13 March 1773 (leaf 246); the heading of its own sitting is on a page not among the scans."]
+    "10": [1773, 3, null, "month", "Entered on leaf 245, between the headings of the sittings of 2 March 1773 (leaf 242) and 13 March 1773 (leaf 246); the heading of its own sitting is on a page not among the scans."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": note
+    "2": note
+    "3": note
+    "4": note
+    "5": report
+    "6": report
+    "7": report
+    "8": report
+    "9": protest
+    "10": report
+
+  language:
+    "1": la
+    "2": la
+    "3": la
+    "4": la
+    "5": la
+    "6": "la,pl"
+    "7": la
+    "8": la
+    "9": la
+    "10": "la,pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lukomia, trabczyn]
+    "2": [lukomia, trabczyn]
+    "3": [trabczyn]
+    "4": [lukomia, trabczyn]
+    "5": [lukomia, trabczyn]
+    "6": [lukomia, trabczyn]
+    "7": [lukomia, trabczyn]
+    "8": [trabczyn, lukomia]
+    "9": [lukomia, trabczyn]
+    "10": [lukomia, trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0004_a1", "0036_a1", "0037_a2", "0186_a1", "0187_a1", "0226_a2", "0241_a2", "0242_a1", "0245_a2"]
+
+damage:
+  letters: []

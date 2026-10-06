@@ -1,0 +1,115 @@
+{
+ "letter_id": "4",
+ "seq_archival": 4,
+ "parent_letter": "",
+ "unit": "app53170koningr115",
+ "uid": "app53170koningr115-4",
+ "pad": "app53170koningr115-004",
+ "permalink": "/documents/app53170koningr115/4/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1771-12-02",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1771-12-02",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1771,
+ "month": 12,
+ "day": 2,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 16,
+ "line_end": 20,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+ "text_reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0186_a1",
+   "line_start": 18,
+   "line_end": 20,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+   "transcription": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+   "reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+   "paragraphs": [
+    "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771",
+    "Pro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata",
+    "Videatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0186_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+   "line": 19,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0186_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+   "line": 20,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "lukomia",
+   "display": "Łukomia",
+   "kind": "place",
+   "surface": "Łukomia",
+   "page": 1,
+   "page_id": "0186_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+   "line": 20,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin on the Monday next after the Feast of Saint Andrew the Apostle in the year of the Lord 1771.\n\nOn behalf of the Right Honourable Chełmski — Oblata of the Delivery of Possession of the Lusnia Pine Forest with the Olędry\n\nLet it be seen here: the Oblata of the delivery of possession of the Lusnia pine forest with the olędry, issued on behalf of the Right Honourable Stanisław Ścibor Chełmski, heir of the estates of Łukomia, [placed] among the produced documents."
+  }
+ ],
+ "text_english": "Done in Konin on the Monday next after the Feast of Saint Andrew the Apostle in the year of the Lord 1771.\n\nOn behalf of the Right Honourable Chełmski — Oblata of the Delivery of Possession of the Lusnia Pine Forest with the Olędry\n\nLet it be seen here: the Oblata of the delivery of possession of the Lusnia pine forest with the olędry, issued on behalf of the Right Honourable Stanisław Ścibor Chełmski, heir of the estates of Łukomia, [placed] among the produced documents.",
+ "summary_en": "A register note of 2 December 1771: for Stanisław Ścibor Chełmski, heir of Łukomia, the delivery of possession of the Lusnia wood with the Olęder settlers is brought in; it is among the documents produced.",
+ "summary_de": "Registervermerk vom 2. Dezember 1771: Für Stanisław Ścibor Chełmski, Erbherrn von Łukomia, wird die Besitzeinweisung in den Wald Lusnia mit den Olędern vorgelegt; sie liegt bei den vorgelegten Schriftstücken.",
+ "reading": {}
+}

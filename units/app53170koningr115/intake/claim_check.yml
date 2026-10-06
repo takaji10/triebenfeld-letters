@@ -1,0 +1,63 @@
+# The claim check of the German summaries of APP 53/17/0/-/Konin Gr.115, made
+# in session on 2026-10-07 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The documents were read in the
+# Latin and Polish of corpus.txt as checked.
+#
+# Result: 31 statements, all supported. The months of documents 1, 3, 9 and
+# 10 are the edition's inference, stated as such in rulings.yml.
+
+app53170koningr115-001:
+- {claim: "Registervermerk im Buch des Burggerichts Konin, Januar 1768", verdict: supported, where: "the entry on leaf 3 verso, above the heading of 15 January 1768 (rulings.yml); Videatur hoc loco ... Relatio in Productis"}
+- {claim: "der Bericht über die Ladung, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Prusimska, geborene Rozdrażewska, vor das Kalischer Landgericht erwirkt hat, liegt bei den vorgelegten Schriftstücken", verdict: supported, where: "Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis"}
+
+app53170koningr115-002:
+- {claim: "zwei Registervermerke vom 17. Mai 1768 über Ladungen vor das Krontribunal in Bromberg", verdict: supported, where: "Actum in Conin Feria Tertia post Dominicam Exaudi proxima Anno Domini 1768; pro Judiciis Tribunalis Regni Bidg~"}
+- {claim: "Antoni Prusimski von Kolno, Starost von Niszczewice, hat die Chełmski, die Żychliński-Erben, Ignacy Gałecki, Starost von Bromberg, sowie Abt und Konvent von Ląd laden lassen, zur Festlegung der Grenze", verdict: supported, where: "ex Parte Magnifici Antonii de Kolno Prusimski Capitanei Nieszczeviensis In et Contra Magnificos Chełmski Successores Żychlinianos Ignatium Gałecki Capitaneum Bydgostiensem … Abbatem et Venerabilem Conventum Landensem ... ad Granitian~"}
+- {claim: "Stanisław Chełmski seinerseits den Abt Słowiecki und den Konvent von Ląd, Prusimski und Gałecki", verdict: supported, where: "ex Parte Magnifici Stanislai Chełmski In et Contra Illustrem Reverendissimum Słowiecki Abbatem et Conventum Landensem Magnificos Prusimski Gałecki …"}
+- {claim: "beide Vermerke sind nur teilweise transkribiert", verdict: supported, where: "the \"…\" in both notes (intake/holding.py, NOTES_35V)"}
+
+app53170koningr115-003:
+- {claim: "Registervermerk vom Mai 1768", verdict: supported, where: "the entry on leaf 37, between the headings of 18 and 27 May 1768 (rulings.yml)"}
+- {claim: "für Antoni Prusimski von Kolno, Starost von Niszczewice, wird ein beglaubigter Auszug aus den Akten des Burggerichts Bromberg vorgelegt; er enthält die von ihm dort erklärte Anerkennung des Termins zur Aufhebung der Verurteilung", verdict: supported, where: "Extractus Authentici ex Actis Castren~ Bidgosten~ Deprompti et Approbationem Termini ad Cassandam Condemnationem per Magnificum Antonium in Kolno Prusimski Capitaneum Nieszczeviensem Coram Actis Castrensibus Bidgostiensibus Recognitam in se complectentem Oblata"}
+
+app53170koningr115-004:
+- {claim: "Registervermerk vom 2. Dezember 1771", verdict: supported, where: "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771"}
+- {claim: "für Stanisław Ścibor Chełmski, Erbherrn von Łukomia, wird die Besitzeinweisung in den Wald Lusnia mit den Olędern vorgelegt; sie liegt bei den vorgelegten Schriftstücken", verdict: supported, where: "Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos"}
+
+app53170koningr115-005:
+- {claim: "Eintrag vom 20. Dezember 1771", verdict: supported, where: "Actum in Conin Feria Sexta pridie Festi Sancti Thomae Apostoli Anno Domini 1771"}
+- {claim: "der Gerichtsbote Nicolaus Krzepczyński von Myszaków legt im besonderen Auftrag von Stanisław Ścibor Chełmski dem Burgamt Konin Waffen vor", verdict: supported, where: "Providus Nicolaus Krzepczyński de Villa Myszaków Ministerialis Regni Generalis Speciali Commissione Magnifici Stanislai Scibor Chełmski ... presentavit Officio praesenti Arma Infrascripta"}
+- {claim: "vier Säbel in Scheiden mit Riemen und einen blanken, vier Spieße mit eisernen Spitzen, drei lange Büchsen und eine mit Messing beschlagene Flinte, mit Blei und feinem Pulver geladen", verdict: supported, where: "Frameas Quatuor in Vaginis cum Cingulis coreis Item unam evaginatam ... Chastas Quatuor Spiculis ferreis ... Bombardas Longiores Tres et Sclopetum unum Orichalco obductum Plumbo et Minuto Pulvere Onustas"}
+- {claim: "Chełmski hat sie am vergangenen Montag im Wald Lusnia erbeutet, als Antoni Prusimski von Kolno, Starost von Niszczewice, dort gewaltsam einfiel und Bewaffnete das Haus des Schankwirts belagerten", verdict: supported, where: "In Borra Lusnie ... Circa Violentam Magnifici Antonii a Kolno Prusimski Capitanei Nieszczeviensis ... Superinvasionem ac Armatis hominibus Licentiosis Gazae Tabernatoris Obsessionem Feria Secunda Immediate praeterita Arma eadem per Magnificum Chełmski Intercepta"}
+- {claim: "der Bote nimmt die Waffen wieder an sich", verdict: supported, where: "Quae sic praesentata rursus ad se recepit"}
+
+app53170koningr115-006:
+- {claim: "Bericht des Gerichtsboten Nicolaus Krzepczyński vom 20. Dezember 1771, für Stanisław Ścibor Chełmski", verdict: supported, where: "the same sitting as document 5; Pro Parte Ejusdem Aggeris Disiectionis in Łukom Visio ... ad Instantiam ... Magnifici Stanislai Scibor Chełmski"}
+- {claim: "mit zwei Adligen, Antoni Wolski und Konstanty Folwarski, hat er am vergangenen Montag den Grund von Łukomia und den Wald Lusnia besichtigt", verdict: supported, where: "Generosis Antonio Wolski et Constantino Folwarski ... Feria Secunda Immediate praeterita Fundum Bonorum Łukomia et Borrae Lusnie"}
+- {claim: "am Teichgrund im Łukomer Wald sahen sie den Damm aufgegraben, das Wehr mit Pfosten, Schützen und Rinnen mit Äxten zerhauen und völlig beseitigt, das Wasser mit den Fischen abgelassen; dort lagen zwanzig frisch geschnittene dicke Knüppel", verdict: supported, where: "Przybywszy do Stawiska w Boru Łukomskim Leżącego Widzieli Groblą rozkopaną ... Siekierami przyciętych Pogrodki z Słupami Stawidłami i rynami, do Szczętu Zniesione i Wodę z rybą wypuszczoną Tamże Kijów grubych Dwadzieścia nowo Ciętych"}
+- {claim: "im Schankhaus bei den Olędern im Wald Lusnia waren ringsum acht Schießlöcher in die Wände gehauen und drei Fenster zerschossen", verdict: supported, where: "w Boru Luśnie nazwanym na Hollendrach w Chałupie Kaczmarskiej w Ścianach na Okół budowia wyciętych Dziur Osm w blochach do przykładnego Strzelania Okna trzy ... wystrzelane"}
+- {claim: "der Dammbruch durch mehr als dreißig Untertanen von Trąbczyn in Gegenwart Prusimskis, das Durchschießen des Hauses durch seine Leute auf seinen Befehl, am selben Tag", verdict: supported, where: "circa aggeris disiectionem per Subditos Trąmpczynenses plus quam Triginta Congregatos ... in praesentia Magnifici Prusimski ... in Trajectione vero Gazae per Subordinatos Homines Licentiosos Mandato et jussu Magnifici Prusimski ... Die eadem"}
+
+app53170koningr115-007:
+- {claim: "Bericht des Gerichtsboten Joannes Bikierski von Węgierce vom 1. Dezember 1772, für Stanisław Ścibor Chełmski, Erbherrn von Łukom, Łomowo und Myszakowo und Besitzer der Olęder im Wald Lusnia", verdict: supported, where: "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772 ... Providus Joannes Bikierski de Węgierce ... Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris"}
+- {claim: "mit zwei Adligen hat er am vergangenen Samstag das Schankhaus in Lusnia besichtigt: drei Fenster und vier Türen mit eisernen Angeln waren aus dem Haus herausgenommen", verdict: supported, where: "Sabbattho Immediate elapso ... In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas"}
+- {claim: "das haben in derselben Nacht der Trąbczyner Verwalter Lipiński, der Schreiber Radzewski, der Vogt und Waldhüter und der Hofdiener Wąchnicki auf Befehl von Antoni Prusimski getan", verdict: supported, where: "per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski"}
+- {claim: "und die Stücke samt einem Tisch und einem Fass Bier mit einer Schar Trąbczyner Untertanen nach Trąbczyn fortgeschafft", verdict: supported, where: "una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ... evecta"}
+
+app53170koningr115-008:
+- {claim: "Bericht des Gerichtsboten Bartłomiej Szepczyński von Trąbczyn vom 26. Februar 1773, für Antoni Prusimski von Kolno, Starost von Niszczewice", verdict: supported, where: "p. 1: Die Vigesima Sexta Mensis Februarii Anno Domini 1773 ... Providus Bartholomaeus Szepczyński de Trąmpczyn; p. 2: Magnifici Antonii de Kolno Prusimski Capitanei"}
+- {claim: "mit zwei Adligen hat er am Vortag die Trąbczyner Wälder und Wiesen besichtigt und gezählt: im Wald hinter dem Gehölz Lusnia einundfünfzig Stümpfe gefällter, zum Bauen tauglicher Kiefern, auf den Wiesen namens Kąty zweiunddreißig Erlenstümpfe", verdict: supported, where: "p. 1: Die hesterna; p. 2: in Borra post Sylvam Lusnie vocitatam jaciente Stipites ab Arbore Pinatico ad aedificia valente exciso numero Quinquaginta unum Item in Pratis ... Kąty vocitatis Truncos Alneos ... in Numero Triginta Duos"}
+- {claim: "die Untertanen Chełmskis haben das Holz aus dem Wald abgefahren und Leute vom Gut Podbiele der Frau Zakrzewska die Erlen auf den Wiesen geschlagen", verdict: supported, where: "p. 2: per Subditos Magnifici Chełmski Bonorum Łukom Haeredis de Borra post Lusnie evecta tum Homines de Bonis Podbiele Magnificae Zakrzewska ex Pratis Succissa"}
+
+app53170koningr115-009:
+- {claim: "Protest von Stanisław Ścibor Chełmski, Erbherrn von Łukom und Besitzer der Olęder von Lusnia, gegen Antoni Prusimski von Kolno, Starost von Niszczewice, dessen Hofleute und Untertanen", verdict: supported, where: "Magnificus Stanislaus Ścibor Chełmski Bonorum Łukom Cum Attinentiis Haeres Hollandorum Lusnie Vocitatorum Vi Jurium Suorum Possessor ... In et Contra Magnificum Antonium de Kolno Prusimski ... tum Aulicos Famulos Ejus ac Subditos Intulit Manifestationem"}
+- {claim: "eingetragen in Konin im März 1773 und von Chełmski unterschrieben", verdict: supported, where: "the entry on leaf 245, between the headings of 2 and 13 March 1773 (rulings.yml); Stanisław Scibor Chełmski mp"}
+- {claim: "Prusimski habe, obwohl er wisse, dass der Besitz der Olęder von Lusnia Chełmski rechtlich zuerkannt sei, seinen Verwalter Lipiński und seinen Kammerdiener Marzęcki mit anderen das Schankhaus und die Olęder überfallen lassen; sie hätten dort Gewalttaten verübt", verdict: supported, where: "Licet quidem Optime Noverit Possessionem Hollandorum Lusnie Jure Sibi Manifestanti agnitam esse Nihilominus ... Nobiles Lipinski Economum Marzęcki Aulicum Cubicularem Suum ... Tabernam Hollandosque Superinequitare permissit Qui ... Varios excessus Violentias exequi"}
+
+app53170koningr115-010:
+- {claim: "Bericht des Gerichtsboten Joannes Bikierski von Węgierki, eingetragen in Konin im März 1773, für Stanisław Chełmski", verdict: supported, where: "Pro Parte Magnifici Chełmski in Hollandris Lusnie Visio ... Providus Joannes Bikierski de Węgierki; the same page as document 9"}
+- {claim: "mit zwei Adligen hat er am vergangenen Mittwoch die Olęder-Siedlung Lusnia besichtigt", verdict: supported, where: "Generosis Michaeli Borkowski et Jacobo Krasniewski ... Feria Quarta Immediate Praeterita In Fundum Hollandorum Lusnie"}
+- {claim: "im Schankhaus waren der Ofen, drei Fenster und vier Türen, die Chełmski neu hatte herrichten lassen, zerhauen und herausgeschlagen, der Schornstein zerstört, das Bier- und Branntweingeschirr zerschlagen", verdict: supported, where: "Karczmie na Lusniach Piec Okna trzy Drzwi Czworo Nowo przez Wielmożnego Jegomości Pana Chełmskiego Oporządzone Porąbane Wycięte Komin zrujnowany i Kominice podcięte Statki od Piwa i gorzałki Potłuczone"}
+- {claim: "das haben die Adligen Lipiński, Marzęcki und andere in der Nacht des 29. Januar des laufenden Jahres getan", verdict: supported, where: "per Nobiles Lipinski Marzęcki et Alios Sera Nocte Die Vigessima Nona Mensis Januarij Anno Currente"}

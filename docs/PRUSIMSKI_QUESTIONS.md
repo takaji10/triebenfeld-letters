@@ -50,3 +50,44 @@ the editor reviews. Nothing is published before that.
   page says what is left out; leaf 122, which has none of the transcribed
   text, is not shown.** Was the list left out on purpose? If not: send the
   text, or tell me to read it.
+
+### APP 53/17/0/-/Konin Gr.114 (1767)
+
+- Scans 336 to 345 (ten openings) carry nothing that is transcribed.
+  **Default: not used.** Is there an entry on them that should come in?
+- A second pair of text files for leaves 334 to 334v repeats the second
+  entry with a longer English and notes. **Default: the first file's
+  English is used for both entries; the second pair is not used.**
+
+### APP 53/15/0/-/Kalisz Gr.414 (1771)
+
+- "[I2867]" after Bogusław Celmer's name was taken to be your own reference
+  number. **Default: taken out of the transcription.**
+- Bogusław Celmer is given as Zelmer in the English, by your ruling of
+  2026-09-11 for this family; the Polish keeps "Celmer". **Default: so
+  done.**
+- The archive's name for fonds 53/15 is not known here.
+
+### APP 53/17/0/-/Konin Gr.115 (1768 to 1773)
+
+- Three early register notes (leaves 3 verso, 35 verso, 37) had no English.
+  **Default: I translated them.** Two of them you gave only as "Videatur
+  hoc loco…"; **default: I read them on the scans as far as I was sure and
+  left "…" for the rest.**
+- Stanisław Ścibor Chełmski's signature stands under his protest on leaf
+  245. **Default: added.** It also stands twice at the foot of leaf 186
+  verso; **default: not transcribed**, because it is not clear which entry
+  it signs.
+- Three entries have no date line on a photographed page (leaves 3 verso,
+  37, 245). **Default: dated to the month from the headings before and
+  after, and the page says so.** The images of leaves 3 recto, 36 verso and
+  242 verso to 244 recto would settle the days.
+- Seven scans (185, 224, 225, 227, 228, 244, 246) carry nothing that is
+  transcribed. **Default: not used.**
+- In the protest the transcription has "Filip Wąchnicki"; the scan may
+  have "Filio Wąchnik", the miller's son. **Default: left as you have it.**
+
+### Pyzdry Gr.75
+
+- Deferred by you on 2026-10-06 ("let's look at that later"). **Default:
+  not built.**

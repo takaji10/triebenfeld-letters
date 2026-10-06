@@ -1,0 +1,135 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app53170koningr115",
+ "uid": "app53170koningr115-1",
+ "pad": "app53170koningr115-001",
+ "permalink": "/documents/app53170koningr115/1/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1768-01",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1768-01]",
+ "date_inferred_from": "Entered on leaf 3 verso of the book for 1768, above the heading of the sitting of 15 January 1768; the heading of its own sitting is on an earlier page, not among the scans.",
+ "year": 1768,
+ "month": 1,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 4,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Ex Parte M Chełmski contra M Prusimski Citationis Relatio\nVideatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis.",
+ "text_reading": "Ex Parte M Chełmski contra M Prusimski Citationis Relatio\n\nVideatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0004_a1",
+   "line_start": 3,
+   "line_end": 4,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte M Chełmski contra M Prusimski Citationis Relatio\nVideatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis.",
+   "transcription": "Ex Parte M Chełmski contra M Prusimski Citationis Relatio\nVideatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis.",
+   "reading": "Ex Parte M Chełmski contra M Prusimski Citationis Relatio\n\nVideatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis.",
+   "paragraphs": [
+    "Ex Parte M Chełmski contra M Prusimski Citationis Relatio",
+    "Videatur hoc loco Citationis ex Parte Magnifici Stanislai Chełmski In et Contra Magnificos Antonium Prusimski tum Successores Magnificae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in Productis."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0004_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0004_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0004_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimska-katarzyna",
+   "display": "Katarzyna Prusimska, born Rozdrażewska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 1,
+   "page_id": "0004_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0004_a1",
+   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On the part of the Right Honourable Chełmski against the Right Honourable Prusimski — Report of a Citation\n\nLet there be seen here, among the produced documents, the report of the citation issued on the part of the Right Honourable Stanisław Chełmski against the Right Honourables Antoni Prusimski and the successors of the late Right Honourable Prusimska, born Rozdrażewska, for the Kalisz land courts to be held here."
+  }
+ ],
+ "text_english": "On the part of the Right Honourable Chełmski against the Right Honourable Prusimski — Report of a Citation\n\nLet there be seen here, among the produced documents, the report of the citation issued on the part of the Right Honourable Stanisław Chełmski against the Right Honourables Antoni Prusimski and the successors of the late Right Honourable Prusimska, born Rozdrażewska, for the Kalisz land courts to be held here.",
+ "summary_en": "A register note in the book of the castle court at Konin, January 1768: the report of the citation that Stanisław Chełmski obtained against Antoni Prusimski and the successors of the late Prusimska, born Rozdrażewska, before the Kalisz land court is among the documents produced.",
+ "summary_de": "Registervermerk im Buch des Burggerichts Konin, Januar 1768: Der Bericht über die Ladung, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Prusimska, geborene Rozdrażewska, vor das Kalischer Landgericht erwirkt hat, liegt bei den vorgelegten Schriftstücken.",
+ "reading": {}
+}

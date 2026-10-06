@@ -1,0 +1,181 @@
+{
+ "letter_id": "7",
+ "seq_archival": 7,
+ "parent_letter": "",
+ "unit": "app53170koningr115",
+ "uid": "app53170koningr115-7",
+ "pad": "app53170koningr115-007",
+ "permalink": "/documents/app53170koningr115/7/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1772-12-01",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1772-12-01",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1772,
+ "month": 12,
+ "day": 1,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 30,
+ "line_end": 34,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772\nPro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio\nAd officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio.",
+ "text_reading": "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772\n\nPro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio\n\nAd officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0226_a2",
+   "line_start": 32,
+   "line_end": 34,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772\nPro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio\nAd officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio.",
+   "transcription": "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772\nPro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio\nAd officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio.",
+   "reading": "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772\n\nPro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio\n\nAd officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio.",
+   "paragraphs": [
+    "Actum in Conin Feria Tertia post Festum Sancti Andreae Apostoli proxima Anno Domini 1772",
+    "Pro Parte Magnifici Chełmski Violatae Tabernae in Lusnie Visio",
+    "Ad officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Bikierski de Węgierce Ministerialis Regni Generalis Sanus existens Recognovit Quia Ipse habitis Secum duobus Nobilibus Videlicet Generosi Antonio Fulwarski et Jacobo Krasnieski hic licet ad praesens absentibus In Loco tamen Infrascripti Negotii pro tunc praesens Sabbattho Immediate elapso ad Instantiam et Officiosam Requisitionem Magnifici Stanislai Scibor Chełmski Bonorum Łukom Łumowo Myszakowo et Hollandorum in Borra Lusnie Plantatorum Haeredis Possessoris in Fundum Praefatorum Hollandorum Tabernam que Cauponatoriam Lusnensem personaliter ac Officiose Condescenderat Ibidemque taliter existens Vidit ac Debite Conspexit In Taberna Eadem ad Propinandos Liquores usitata Fenestras Tres Januas cum Cardinibus Ferreis Quatuor ex Domo eadem extractas Quae praemissa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem Vladarium Custodem Borrarum et Wąchnicki Dictum Famulum Curialem profunda Nocte de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis Violento modo una cum Mensa et Dolio Cerevisiae Intercepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum evecta esse asseruit de Quo praesens Relatio."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 33,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin on the Tuesday next after the Feast of Saint Andrew the Apostle in the year of the Lord 1772.\n\nOn behalf of the Right Honourable Chełmski — Judicial Site Inspection of the Violated Tavern in Lusnia\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Joannes Bikierski of Węgierce, Royal Court Summoner, General, being sound, certified — because he, having with him two noblemen, namely the Honourables Antoni Fulwarski and Jakub Kraśniewski, although absent here from the court for the present, being nonetheless present at the time at the location of the below-written matter — on the immediately preceding Saturday, at the request and official requisition of the Right Honourable Stanisław Ścibor Chełmski, heir and possessor of the estates of Łukom, Łumowo, Myszakowo, and the olędry planted in the Lusnia pine forest, had officially and personally descended to the estate of the said olędry and the Lusnia tavern, and being there in such manner, saw and duly inspected:\n\nIn that same tavern, accustomed to dispensing liquors — three windows [and] four doors with iron hinges removed from that same building.\n\nWhich aforementioned things, on the immediately preceding Saturday, by the Honourable Lipiński, steward of Trąbczyn; Radzewski, clerk; the revenue steward, keeper of the pine forests; and the one called Wąchnicki, manorial servant — deep in the night, by the mandate of the Right Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, heir of the estates of Trąbczyn — seized and removed in a violent manner, together with a table and a barrel of beer, and carried off to the Trąbczyn estate with a band of Trąbczyn subjects, fitted out for attempting disturbances — he asserted to be so. Concerning which, the present report."
+  }
+ ],
+ "text_english": "Done in Konin on the Tuesday next after the Feast of Saint Andrew the Apostle in the year of the Lord 1772.\n\nOn behalf of the Right Honourable Chełmski — Judicial Site Inspection of the Violated Tavern in Lusnia\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Joannes Bikierski of Węgierce, Royal Court Summoner, General, being sound, certified — because he, having with him two noblemen, namely the Honourables Antoni Fulwarski and Jakub Kraśniewski, although absent here from the court for the present, being nonetheless present at the time at the location of the below-written matter — on the immediately preceding Saturday, at the request and official requisition of the Right Honourable Stanisław Ścibor Chełmski, heir and possessor of the estates of Łukom, Łumowo, Myszakowo, and the olędry planted in the Lusnia pine forest, had officially and personally descended to the estate of the said olędry and the Lusnia tavern, and being there in such manner, saw and duly inspected:\n\nIn that same tavern, accustomed to dispensing liquors — three windows [and] four doors with iron hinges removed from that same building.\n\nWhich aforementioned things, on the immediately preceding Saturday, by the Honourable Lipiński, steward of Trąbczyn; Radzewski, clerk; the revenue steward, keeper of the pine forests; and the one called Wąchnicki, manorial servant — deep in the night, by the mandate of the Right Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, heir of the estates of Trąbczyn — seized and removed in a violent manner, together with a table and a barrel of beer, and carried off to the Trąbczyn estate with a band of Trąbczyn subjects, fitted out for attempting disturbances — he asserted to be so. Concerning which, the present report.",
+ "summary_en": "A report of the court messenger Joannes Bikierski of Węgierce of 1 December 1772, for Stanisław Ścibor Chełmski, heir of Łukom, Łomowo and Myszakowo and possessor of the Olęder settlers in the Lusnia wood. With two noblemen he inspected the tavern in Lusnia on the Saturday before: three windows and four doors with iron hinges had been taken out of the house. He states that this was done that night by the Trąbczyn steward Lipiński, the clerk Radzewski, the bailiff and forest keeper and the manor servant Wąchnicki, at the order of Antoni Prusimski, and that the pieces were carried off to Trąbczyn, with a table and a barrel of beer, by a band of Trąbczyn subjects.",
+ "summary_de": "Bericht des Gerichtsboten Joannes Bikierski von Węgierce vom 1. Dezember 1772, für Stanisław Ścibor Chełmski, Erbherrn von Łukom, Łomowo und Myszakowo und Besitzer der Olęder im Wald Lusnia. Mit zwei Adligen hat er am vergangenen Samstag das Schankhaus in Lusnia besichtigt: Drei Fenster und vier Türen mit eisernen Angeln waren aus dem Haus herausgenommen. Nach seiner Angabe haben das in derselben Nacht der Trąbczyner Verwalter Lipiński, der Schreiber Radzewski, der Vogt und Waldhüter und der Hofdiener Wąchnicki auf Befehl von Antoni Prusimski getan und die Stücke samt einem Tisch und einem Fass Bier mit einer Schar Trąbczyner Untertanen nach Trąbczyn fortgeschafft.",
+ "reading": {}
+}

@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 28
+  docs: 33
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 47
+  docs: 50
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 19
+  docs: 26
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 28
+  docs: 29
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 66
+  docs: 76
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 22
+  docs: 27
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

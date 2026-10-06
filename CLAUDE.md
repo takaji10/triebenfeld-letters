@@ -233,19 +233,28 @@ so check them.
   `intake/fold_sheet.py`) and seen the sheet of dropped phrases
   (`review/app53170koningr145/dropped/`, `intake/dropped_sheet.py`). The
   era's account and the glossary wait at their word.
-- **Prusimski era, batch 2 (2026-10-07): four holdings in, one waiting.**
-  Built, verified, committed locally, **not pushed: publish when the editor
-  says**, after they have approved or moved the folds. Six documents, all
-  Latin, entries of the land court at Konin: **APP 53/6/0/-/17**
-  (`app536017`, an order of 12 June 1589 for an inspection; read again whole
-  from the scans at the editor's word), **53/6/0/-/36** (`app536036`, two
-  default judgments of 1644), **53/6/0/-/40** (`app536040`, the decree of 26
-  January 1728 sending a commissioner onto the ground) and **53/6/0/-/45**
-  (`app536045`, the potash decree of 1763). Read each holding's `notes.md`
-  first. Each was read whole against its scans, the Latin corrected and the
-  editor's English revised to follow. **Konin Gr.136 (1754) is not built**:
-  its middle is in neither the editor's transcription nor their English;
-  the editor is asked whether that was meant.
+- **The Prusimski-era run (editor, 2026-10-07): process every unit without
+  stopping; all questions, fold adjustments and reviews of readings are held
+  for one review at the end.** Each question goes into
+  `docs/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
+  holding is built on the default. Nothing is published before the review.
+- **Batches 2 and 3 are built** (2026-10-07), verified, committed locally,
+  **not pushed**. Entries of the court books, Latin with some Polish, each
+  read against its scans, the editor's English revised to follow:
+  **53/6/0/-/17** (`app536017`, 1589), **-/36** (`app536036`, 1644), **-/40**
+  (`app536040`, 1728), **-/45** (`app536045`, 1763), **Konin Gr.136**
+  (`app53170koningr136`, the inspection of 1754; its middle is not
+  transcribed), **Konin Gr.114** (`app53170koningr114`, two reports of
+  1767), **Kalisz Gr.414** (`app53150kaliszgr414`, the delivery of Lusnia,
+  1771) and **Konin Gr.115** (`app53170koningr115`, ten register entries,
+  1768 to 1773). Read each holding's `notes.md` first; from Konin Gr.136
+  on, everything about how a holding was made is in the docstring of its
+  `intake/holding.py` (one script for all steps, `courtbook.holding_main`).
+  **Still to build:** batch 4 (Konin Gr.116, Kalisz Gr.424 and Gr.425,
+  53/6/0/-/46, Konin Gr.117) and batch 5 (Konin Gr.118, Gr.153, 53/6/0/-/47,
+  Konin Gr.119, Gr.120, Gr.121). Pyzdry Gr.75 is deferred by the editor.
+  The About page's figures are behind (it says 479 documents, 21 holdings;
+  there are now 493 and 25): bring them up at the end of the run.
 - **The fold pages** (`review/<slug>/folds/index.html`, made by each
   holding's `build_pages.py --sheet`; Konin Gr.145's by `fold_sheet.py`):
   the editor clicks where each fold should be and saves

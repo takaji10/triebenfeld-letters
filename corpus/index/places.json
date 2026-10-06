@@ -326,6 +326,30 @@
   ]
  },
  {
+  "place": "Konin",
+  "count": 18,
+  "documents": [
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app53170koningr136-1",
+   "app536045-1",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr115-1",
+   "app53170koningr115-3",
+   "app53170koningr115-2",
+   "app53170koningr115-4",
+   "app53170koningr115-5",
+   "app53170koningr115-6",
+   "app53170koningr115-7",
+   "app53170koningr115-8",
+   "app53170koningr115-9",
+   "app53170koningr115-10"
+  ]
+ },
+ {
   "place": "Kalisch",
   "count": 17,
   "documents": [
@@ -422,20 +446,6 @@
    "oe1bu9454-214",
    "oe1bu9454-72c",
    "oe1bu9454-237"
-  ]
- },
- {
-  "place": "Konin",
-  "count": 8,
-  "documents": [
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536040-1",
-   "app53170koningr136-1",
-   "app536045-1",
-   "app53170koningr114-1",
-   "app53170koningr114-2"
   ]
  },
  {
