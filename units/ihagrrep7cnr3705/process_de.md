@@ -4,7 +4,7 @@ Das Archiv hat die Akte in achtzehn Aufnahmen fotografiert: ein Titelblatt und s
 
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Er stammt nicht von einer in alten Handschriften geschulten Person.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme.
 
 ### Korrekturen
 

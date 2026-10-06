@@ -152,6 +152,16 @@ NO   Every decision is recorded with its evidence in linebreak_decisions.csv.
 NO   The images published here are downscaled to 1100 pixels wide.
 ```
 
+**How the edition describes who made the text** (the editor, 2026-10-06, correcting "The
+transcription was not made by a trained palaeographer"): the editor has
+transcribed this handwriting for some years, and the work is supported by AI.
+Do not write, on this page or a holding's, that the text was "not made by a
+trained reader". Say what was done: a machine reading, corrected; a language
+model that weighs context removes many character errors and not all; some
+inaccuracy always remains, which the editor has accepted for this project
+because of the number of documents; and anything taken from the texts for
+academic work should first be checked against the original document.
+
 Few figures, because each is counted by hand: holdings, documents, pages,
 documents by language, translations, marks of doubt. A mark or a view is
 described as the reader meets it on the page, so check the page before

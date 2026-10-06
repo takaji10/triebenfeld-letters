@@ -4,7 +4,7 @@ Das Archiv lieferte 22 Aufnahmen, jede eine Seite. Sie werden unbeschnitten verw
 
 ### Transkription
 
-Der deutsche und polnische Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite. Er stammt nicht von einer in alten Handschriften geschulten Person.
+Der deutsche und polnische Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite.
 
 ### Gliederung in Dokumente
 

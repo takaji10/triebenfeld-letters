@@ -4,7 +4,7 @@ Das Archiv hat die Akte in 46 Aufnahmen fotografiert, jeweils zwei gegenüberlie
 
 ### Transkription
 
-Der deutsche und französische Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Er stammt nicht von einer in alten Handschriften geschulten Person.
+Der deutsche und französische Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme.
 
 ### Gliederung in Dokumente
 

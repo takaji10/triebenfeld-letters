@@ -4,7 +4,7 @@ Das Archiv lieferte 549 Aufnahmen, jede mit einer oder zwei Seiten eines Briefes
 
 ### Transkription
 
-Der Text wurde von einem KI-System aus der deutschen Kurrentschrift transkribiert, nicht von einer in alten Handschriften geschulten Person. Die vorliegende Transkription ist eine zweite maschinelle Lesung vom September 2026, in der der Herausgeber Namen und Anordnung von Hand berichtigte. Typische Fehler sind ein einzelner falsch gelesener Buchstabe und, schwerwiegender, ein wirkliches Wort an Stelle des richtigen, ohne jedes Zweifelszeichen. Später transkribierte der Herausgeber siebzehn quer am Rand geschriebene Stellen, die die Maschine übergangen hatte; sie stehen auf ihrer Seite unter einer eigenen Bezeichnung.
+Der Text wurde von einem KI-System aus der deutschen Kurrentschrift transkribiert. Die vorliegende Transkription ist eine zweite maschinelle Lesung vom September 2026, in der der Herausgeber Namen und Anordnung von Hand berichtigte. Typische Fehler sind ein einzelner falsch gelesener Buchstabe und, schwerwiegender, ein wirkliches Wort an Stelle des richtigen, ohne jedes Zweifelszeichen. Später transkribierte der Herausgeber siebzehn quer am Rand geschriebene Stellen, die die Maschine übergangen hatte; sie stehen auf ihrer Seite unter einer eigenen Bezeichnung.
 
 ### Gliederung in Dokumente und Datierung
 

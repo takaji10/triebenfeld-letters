@@ -4,7 +4,7 @@ The archive photographed the file as eighteen images: a title page and seventeen
 
 ### Transcription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each scan. It was not made by a trained reader of old handwriting.
+The German text was transcribed by an AI system and supplied by the editor, one file for each scan.
 
 ### Corrections
 

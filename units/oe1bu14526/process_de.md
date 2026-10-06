@@ -4,7 +4,7 @@ Der Band wurde aufgeschlagen fotografiert, in 172 Aufnahmen, die meisten davon z
 
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite. Er stammt nicht von einer in alten Handschriften geschulten Person. Typische Fehler sind ein einzelner falscher Buchstabe und, schwerwiegender, ein wirkliches Wort an Stelle des richtigen, ohne jedes Zweifelszeichen.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite. Typische Fehler sind ein einzelner falscher Buchstabe und, schwerwiegender, ein wirkliches Wort an Stelle des richtigen, ohne jedes Zweifelszeichen.
 
 ### Gliederung in Dokumente
 

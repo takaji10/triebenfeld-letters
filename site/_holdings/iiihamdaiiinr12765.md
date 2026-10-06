@@ -59,7 +59,7 @@ The archive photographed the file as 46 openings, two facing pages at a time. Ni
 
 ### Transcription
 
-The German and French text was transcribed by an AI system and supplied by the editor, one file for each scan. It was not made by a trained reader of old handwriting.
+The German and French text was transcribed by an AI system and supplied by the editor, one file for each scan.
 
 ### Division into documents
 

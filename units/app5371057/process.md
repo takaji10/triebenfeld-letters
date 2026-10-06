@@ -4,7 +4,7 @@ The archive supplied 22 images, one page each. They are used as supplied, withou
 
 ### Transcription
 
-The German and Polish text was transcribed by an AI system and supplied by the editor, one file for each page. It was not made by a trained reader of old handwriting.
+The German and Polish text was transcribed by an AI system and supplied by the editor, one file for each page.
 
 ### Division into documents
 

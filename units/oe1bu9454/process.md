@@ -4,7 +4,7 @@ The archive supplied 549 images, each showing one or two sides of a letter. They
 
 ### Transcription
 
-The text was transcribed from German cursive handwriting by an AI system, not by a trained reader of old handwriting. The present transcription is a second machine reading, made in September 2026, in which the editor corrected names and layout by hand. Its typical errors are a single misread letter and, more seriously, a real word substituted for the right one without any mark of doubt. The editor later transcribed seventeen passages written sideways in the margins, which the machine had missed; these are shown on their page under a label.
+The text was transcribed from German cursive handwriting by an AI system. The present transcription is a second machine reading, made in September 2026, in which the editor corrected names and layout by hand. Its typical errors are a single misread letter and, more seriously, a real word substituted for the right one without any mark of doubt. The editor later transcribed seventeen passages written sideways in the margins, which the machine had missed; these are shown on their page under a label.
 
 ### Division into documents and dating
 

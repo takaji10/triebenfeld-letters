@@ -4,7 +4,7 @@ Das Archiv hat die Akte in 28 Aufnahmen fotografiert, die meisten davon Doppelse
 
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Er stammt nicht von einer in alten Handschriften geschulten Person. Zwölf Seiten blieben nach Entscheidung des Herausgebers untranskribiert, weil sie ein Urkundenformular für die sechs anderen Empfänger wiederholen. Jede dieser Seiten trägt neben ihrer Aufnahme den Vermerk „(not transcribed)“.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Aufnahme. Zwölf Seiten blieben nach Entscheidung des Herausgebers untranskribiert, weil sie ein Urkundenformular für die sechs anderen Empfänger wiederholen. Jede dieser Seiten trägt neben ihrer Aufnahme den Vermerk „(not transcribed)“.
 
 ### Gliederung in Dokumente
 

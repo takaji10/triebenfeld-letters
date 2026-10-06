@@ -4,7 +4,7 @@ Das Archiv lieferte zehn Aufnahmen. Aus ihnen wurden die fünfzehn Textseiten au
 
 ### Transkription
 
-Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite. Er stammt nicht von einer in alten Handschriften geschulten Person.
+Der deutsche Text wurde von einem KI-System transkribiert und vom Herausgeber geliefert, eine Datei je Seite.
 
 ### Korrekturen
 

@@ -4,7 +4,7 @@ The volume was photographed open, in 172 images, most of them two facing pages. 
 
 ### Transcription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each page. It was not made by a trained reader of old handwriting. Its typical errors are a single wrong letter and, more seriously, a real word substituted for the right one without any mark of doubt.
+The German text was transcribed by an AI system and supplied by the editor, one file for each page. Its typical errors are a single wrong letter and, more seriously, a real word substituted for the right one without any mark of doubt.
 
 ### Division into documents
 

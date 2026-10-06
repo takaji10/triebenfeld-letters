@@ -59,8 +59,9 @@ language.
 The originals are handwritten, most of them in *Kurrent*, the German cursive of the period,
 which is hard to read and easy to misread.
 
-**The transcription was not made by a trained palaeographer reading every page.** It was
-made in three steps:
+The editor has transcribed documents in this handwriting for some years. Because of the
+number of pages, the work for this edition was done with the support of AI, in three
+steps:
 
 1. An AI system for reading handwriting produced the first transcription. The editor
    corrected names and layout by hand.
@@ -79,9 +80,14 @@ Text that a writer struck out is not transcribed.
 One thing was changed throughout: a person or place that the writers spell in several ways
 is given in one spelling, so that it can be found.
 
-Machine reading of this handwriting makes a particular kind of mistake: it can produce
-plausible German that is not what the page says. **Anyone who needs to rely on a passage
-should check it against the image of the page, which is shown beside it.**
+Reading handwriting by machine gets a share of the characters wrong. Going through the
+text again with a language model, which weighs each word against its context, removes
+many of these errors but not all of them, and it can leave plausible German that is not
+what the page says. Some inaccuracy therefore always remains. Given the number of
+documents, the editor has accepted that for this project.
+
+**Anything taken from these texts for academic work should first be checked against the
+original document.** The image of each page is shown beside its text.
 
 ## Reading a document
 

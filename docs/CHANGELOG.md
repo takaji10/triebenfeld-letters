@@ -1730,6 +1730,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   the page image. The site footer now names Warsaw among the archives. The rule for this
   page is in `docs/HOUSE_STYLE.md`, "About the edition".
 
+- **How the edition describes who made the text** (2026-10-06, the editor's correction). The
+  About page said the transcription "was not made by a trained palaeographer". The editor
+  has transcribed this handwriting for some years, with the work supported by AI. The page
+  now says so, says that machine reading leaves a share of wrong characters which a language
+  model reduces but does not remove, that the editor has accepted the remaining inaccuracy
+  for this project because of the number of documents, and that anything taken from the
+  texts for academic work should first be checked against the original document. The
+  sentence "It was not made by a trained reader of old handwriting" was removed from the
+  "How it was prepared" text of eight holdings, in both languages.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

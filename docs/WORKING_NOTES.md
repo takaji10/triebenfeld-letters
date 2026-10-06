@@ -45,6 +45,11 @@ Where the rest is:
   really have an opinion on this." Bring them questions about the sources,
   editorial rulings and anything that costs money. Do not ask them to rule on
   staging, caches or checker internals; decide, and say it in a line.
+- **They have transcribed this handwriting for some years**, with their work
+  supported by AI, and they have accepted for this project that some
+  inaccuracy always remains (2026-10-06). The edition never says its text
+  was "not made by a trained reader"; the wording to use is in
+  `docs/HOUSE_STYLE.md`, "About the edition".
 - **They do not read German.** Whether a summary or a translation is faithful
   is for Claude and the checks to guarantee. They do compare words with the
   scans, letter by letter, and are good at it: on the spot sheet for I. HA

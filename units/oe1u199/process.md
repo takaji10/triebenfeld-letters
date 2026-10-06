@@ -4,7 +4,7 @@ The archive supplied ten images. The fifteen pages of text were cropped from the
 
 ### Transcription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each page. It was not made by a trained reader of old handwriting.
+The German text was transcribed by an AI system and supplied by the editor, one file for each page.
 
 ### Corrections
 

@@ -4,7 +4,7 @@ The archive photographed the file as 28 images, most of them openings of two fac
 
 ### Transcription
 
-The German text was transcribed by an AI system and supplied by the editor, one file for each scan. It was not made by a trained reader of old handwriting. Twelve pages were left untranscribed by the editor's choice, as repeating one form of charter for the other six recipients. Each of those pages carries the note "(not transcribed)" beside its scan.
+The German text was transcribed by an AI system and supplied by the editor, one file for each scan. Twelve pages were left untranscribed by the editor's choice, as repeating one form of charter for the other six recipients. Each of those pages carries the note "(not transcribed)" beside its scan.
 
 ### Division into documents
 

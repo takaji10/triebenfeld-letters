@@ -61,8 +61,9 @@ eigenen Sprache übersetzt.
 Die Originale sind Handschriften, die meisten in *Kurrent*, der deutschen Schreibschrift
 der Zeit, die schwer zu lesen und leicht falsch zu lesen ist.
 
-**Die Transkription stammt nicht von einem ausgebildeten Paläographen, der jede Seite
-gelesen hätte.** Sie entstand in drei Schritten:
+Der Herausgeber transkribiert seit einigen Jahren Dokumente in dieser Schrift. Wegen der
+Zahl der Seiten wurde die Arbeit für diese Edition mit Unterstützung von KI geleistet, in
+drei Schritten:
 
 1. Ein KI-System zur Handschriftenerkennung erstellte die erste Transkription. Der
    Herausgeber korrigierte Namen und Anordnung von Hand.
@@ -83,9 +84,15 @@ Eines wurde durchgehend geändert: Eine Person oder ein Ort, die von den Schreib
 verschieden geschrieben werden, steht in einer einzigen Schreibweise, damit sie zu finden
 sind.
 
-Die maschinelle Lesung dieser Schrift macht einen eigenen Fehler: Sie kann plausibles
-Deutsch hervorbringen, das nicht auf der Seite steht. **Wer sich auf eine Stelle verlassen
-muss, sollte sie mit der Aufnahme der Seite vergleichen, die daneben steht.**
+Die maschinelle Lesung von Handschrift liest einen Teil der Zeichen falsch. Ein
+Sprachmodell, das jedes Wort an seinem Zusammenhang misst, beseitigt in einem weiteren
+Durchgang viele dieser Fehler, aber nicht alle, und es kann plausibles Deutsch stehen
+lassen, das nicht auf der Seite steht. Eine gewisse Ungenauigkeit bleibt deshalb immer.
+Angesichts der Zahl der Dokumente hat der Herausgeber das für dieses Projekt in Kauf
+genommen.
+
+**Was aus diesen Texten in eine wissenschaftliche Arbeit übernommen wird, sollte zuvor am
+Originaldokument geprüft werden.** Die Aufnahme jeder Seite steht neben ihrem Text.
 
 ## Ein Dokument lesen
 
