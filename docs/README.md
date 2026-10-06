@@ -17,6 +17,7 @@ were true when they were written.
 | [TODO.md](TODO.md) | The next steps, in order, and which of them wait on the editor. |
 | [WORKING_NOTES.md](WORKING_NOTES.md) | How the editor works, the mistakes already made once, and the traps in the tools. The shared copy of what a desktop session keeps in memory, so a cloud session has it too. |
 | [HOHENLOHE_ERA_PLAN.md](HOHENLOHE_ERA_PLAN.md) | The Hohenlohe-Ingelfingen years page: what goes in, its sections and their sources, and what a new holding changes. |
+| [PRUSIMSKI_ERA_PLAN.md](PRUSIMSKI_ERA_PLAN.md) | The Prusimski era: the court books from Poznań still to add, how each is added, the spelling question, thoughts on the glossary. What the editor has decided and what waits on them. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 

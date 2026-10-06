@@ -180,18 +180,19 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       the scans, 23 readings corrected, 93 dropped accents put right.
 - [ ] **You: say when to publish it.** Built and verified here, committed
       locally, not pushed.
-- [ ] **You: whether you want the other 117 pages checked.** One of the four
-      pages I read had dropped a phrase of six words (leaf 673), in the
-      Polish and so in the English. More are likely. Finding them means
-      reading every page against its scan; I can do it in stages.
-- [ ] **You: the archive's description of the volume.** I could not open
-      the archive's page for the unit. If it names the fonds or says more
-      about the volume, paste it in.
-- [ ] Your glossary of 89 terms at the end of the English file is not yet
-      in the edition's glossary. Each needs a German definition and a
-      pattern; say if you want it done.
-- [ ] The Prusimski era has no account of its own like the Hohenlohe page.
-      With one document it would be thin; say when it should be written.
+- [ ] Check the other 117 pages for dropped phrases (you, 2026-10-06: yes),
+      and at the end list each one and say whether it matters to the
+      meaning; the English gets what was dropped. Planned, not started:
+      PRUSIMSKI_ERA_PLAN.md, section 1.
+- [ ] Put the fonds and its background, which you pasted, into the
+      holding's page (same plan, section 1).
+- [x] Your glossary of 89 terms: wait (you, 2026-10-06). Thoughts on
+      keeping the glossary useful are in the plan, section 6.
+- [x] An account of the Prusimski era: wait until more documents are in
+      (you, 2026-10-06).
+- [ ] **You: the five decisions at the end of PRUSIMSKI_ERA_PLAN.md**,
+      before the other twenty folders are started, and the texts for the
+      nine folders that have none (listed there).
 
 ## 7. Carried over
 

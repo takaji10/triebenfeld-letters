@@ -225,8 +225,13 @@ so check them.
   (`intake/corrections.py`). Status `translated`. Read
   `units/app53170koningr145/notes.md` first. Built and verified locally,
   **committed but not pushed: publish when the editor says**. Open: a full
-  check of the other 117 pages, the archive's description, the editor's
-  glossary of 89 terms, an account of the era (`docs/TODO.md` section 6).
+  check of the other 117 pages, which the editor has now asked for
+  (2026-10-06); the era's account and the glossary wait at their word.
+- **The Prusimski era is the current focus** (editor, 2026-10-06): twenty
+  more court-book folders from Poznań with texts, nine without. **Read
+  `docs/PRUSIMSKI_ERA_PLAN.md` before touching any of it**: it has the
+  editor's decisions, the inventory, the method, and five questions that
+  wait on the editor. Nothing in it is started. Desktop work only.
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.
