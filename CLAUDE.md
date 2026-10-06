@@ -233,22 +233,37 @@ so check them.
   `intake/fold_sheet.py`) and seen the sheet of dropped phrases
   (`review/app53170koningr145/dropped/`, `intake/dropped_sheet.py`). The
   era's account and the glossary wait at their word.
-- **Prusimski era, batch 2, in progress (2026-10-06).** In, built, verified,
-  committed locally, not pushed: **APP 53/6/0/-/45** (`app536045`, the
-  potash decree of 1763, one document) and **APP 53/6/0/-/36**
-  (`app536036`, two default judgments of 1644). Each has its `notes.md`
-  and a fold sheet in `review/<slug>/folds/` for the editor. Still to do
-  in the batch: 53/6/0/-/40 (1728, read but not started), Konin Gr.136
-  (1754), and 53/6/0/-/17 (1589), which is too rough to build as it is
-  (see WORKING_NOTES, "The early Latin court-book entries"). **Not yet
-  done for the batch:** the About page's figures and its line on Poznań
-  (now 477 documents, 19 holdings, from 1644), `docs/TODO.md`,
-  `docs/NEEDS_CONFIRMATION.md`, the changelog, `reference/eras.yml`.
+- **Prusimski era, batch 2 (2026-10-07): four holdings in, one waiting.**
+  Built, verified, committed locally, **not pushed: publish when the editor
+  says**, after they have approved or moved the folds. Six documents, all
+  Latin, entries of the land court at Konin: **APP 53/6/0/-/17**
+  (`app536017`, an order of 12 June 1589 for an inspection; read again whole
+  from the scans at the editor's word), **53/6/0/-/36** (`app536036`, two
+  default judgments of 1644), **53/6/0/-/40** (`app536040`, the decree of 26
+  January 1728 sending a commissioner onto the ground) and **53/6/0/-/45**
+  (`app536045`, the potash decree of 1763). Read each holding's `notes.md`
+  first. Each was read whole against its scans, the Latin corrected and the
+  editor's English revised to follow. **Konin Gr.136 (1754) is not built**:
+  its middle is in neither the editor's transcription nor their English;
+  the editor is asked whether that was meant.
+- **The fold pages** (`review/<slug>/folds/index.html`, made by each
+  holding's `build_pages.py --sheet`; Konin Gr.145's by `fold_sheet.py`):
+  the editor clicks where each fold should be and saves
+  `folds_<slug>.json`. `python pipeline/intake/courtbook.py folds <slug>
+  <file>` copies it to the holding's `intake/folds.json` and cuts, stages
+  and remakes the page images. The editor found Konin Gr.145's lines
+  crossing writing on many scans (2026-10-07) and is to move them.
+- **The page of changes** (`review/changes/index.html`, made by
+  `pipeline/review/changes_page.py` from each holding's
+  `intake/changes.yml`): what the check against the scans changed, graded,
+  for the editor to put right what they have written outside the project.
+  Write a holding's `changes.yml` when it is checked and run the script.
 - **The Prusimski era is the current focus** (editor, 2026-10-06): twenty
   more court-book folders from Poznań with texts, nine without. **Read
   `docs/PRUSIMSKI_ERA_PLAN.md` before touching any of it**: it has the
-  editor's decisions, the inventory, the method, and five questions that
-  wait on the editor. Nothing in it is started. Desktop work only.
+  editor's decisions, the inventory, the method and the batches (the next
+  is the third: Konin Gr.114, Pyzdry Gr.75, Kalisz Gr.414, Konin Gr.115).
+  Desktop work only: the scans are on the editor's machine.
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.

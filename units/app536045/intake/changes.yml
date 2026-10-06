@@ -1,0 +1,31 @@
+# What the check of APP 53/6/0/-/45 against the scan changes for anyone who
+# has written about this decree from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/6/0/-/45: the potash decree of 1763"
+changes:
+- importance: significant
+  what: "It was Prusimska who sent the potash-burners off with potash in 1761. The earlier sentence had the burners making \"arrangements concerning\" her potash."
+  was: "it is not established at what time, in the year 1761, the potash-burners made arrangements concerning the Right Honourable Prusimska's potash"
+  now: "the Right Honourable Prusimska, in the year 1761, dispatched the potash-burners with potash, prepared at what time is not established"
+- importance: significant
+  what: "The court assigned its summoner to speak the oath to the witnesses, and then went on to the reading of their testimony. There is no \"third roll\" and no \"fourth session\": \"rotha juramenti\" is the formula of an oath."
+  was: "shall add to these present [——] to [——] for the incorporation of the said third roll of the sworn inquiry ... and the same court proceeded to the fourth session"
+  now: "it assigns them the Court Summoner to pronounce the formula of the oath for the swearing-in of their witnesses ... to the reading of which this same court proceeded"
+- importance: fact
+  what: "The one who objected when the burners took the potash away was the notary of the customs house, with whom the arrest had been laid."
+  was: "although the Right Honourable customs officer opposed it"
+  now: "although the notary of the customs post opposed it"
+- importance: fact
+  what: "The year is 1763: the sitting opened on 30 May 1763 (Monday after Trinity), from the heading you transcribed from leaf 638. Your register has \"c. 1762-1765\"."
+  was: "c. 1762-1765"
+  now: "1763 (sitting opened 30 May)"
+- importance: fact
+  what: "Before the Crown Tribunal is the boundary case \"and other matters\"; only the fixing of the boundary \"that is to follow\" will show whose ground the potash was made on; the testimony is \"handed out\" to the parties in a closed roll."
+  was: "along with acts lodged therein ... as is to be established in the present proceeding ... be extracted from the land chancery in the enclosed sealed roll"
+  now: "and other matters ... will be shown only from the demarcation of the estates that is to follow ... be handed out to the parties from the land chancery in a closed roll"
+- importance: wording
+  what: "The inquiry is on \"the contents of the protestations and of the terms\"; the parties' claims are \"joined\"."
+  was: "regarding the contents of past matters and of sessions"
+  now: "regarding the contents of the protestations and of the terms"

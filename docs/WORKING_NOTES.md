@@ -261,6 +261,37 @@ Where the rest is:
     words, leaf 27 verso given twice, part of that page under a dark
     patch, and a related entry ("Eorundem Visio", leaves 27v-28) not
     transcribed. Put to the editor before it is built.
+- **Folds are the editor's to place** (2026-10-07). On Konin Gr.145 the
+  lines I found still ran through the ends of the left pages' lines on
+  many scans, and the editor asked for a page to move them on instead of
+  reporting scan numbers. `courtbook.fold_sheet` writes it for every
+  holding that is cut; `courtbook.py folds <slug> <file>` takes the saved
+  folds back. Do not publish a cut holding before the editor has saved or
+  approved its folds.
+- **Compare the scans with the text before building** (batch 2). Three
+  things turned up that the editor's files did not say: other entries
+  about the same people on the same scans (53/6/0/-/17 has three); a
+  page given twice (the end of that entry, in two readings: take one); and
+  a middle left out of both transcription and translation (Konin Gr.136,
+  the house-by-house list of the villages). The first two are noted and
+  the holding built; the third is put to the editor before building.
+- **A re-reading "only if you're confident"** (53/6/0/-/17): confidence
+  came from reading every phrase in each place it occurs, in the entries
+  that follow on the same scans. Replace the paragraph whole, keep the
+  editor's reading in the log, and leave marked whatever one place alone
+  cannot settle (an ending, one word).
+- **The decree of 1775 dates and explains the older entries.** It cites
+  the decrees of 1589 ("Monday before Saint Vitus", which settled a
+  weekday the editor could not read on a leaf with no scan) and of 1728,
+  and says who was grandfather and uncle of the Starost. Search its
+  English for the year before writing a holding's page.
+- **Person entries across two centuries.** "Prusimski" and "Prusimska"
+  are different people in different documents (Krzysztof and the elder
+  Antoni in 1728, Katarzyna in 1763, the Starost and Michalina later).
+  Each gets an entry matched `only_in` its documents, and the later
+  person's entry is shut out with `not_in`. A family named from a place
+  (Trąmpczyński) is matched `only_in` too, because the same word is the
+  place's adjective in Polish.
 - **The editor's own transcription and translation are kept as theirs.**
   That holding's Polish is in modern spelling and its English is the
   editor's: neither is redone, the English is cut to the pages by a
@@ -310,6 +341,14 @@ Where the rest is:
   checker forbids "hypothec" in English, Latin "sub hypotheca" included.
 
 ## Traps in the tools
+
+- **The glossary gate and Latin documents.** `glossary_candidates.py
+  --check` counted every common word of a wholly Latin document as a
+  Latin term needing an entry (partium, quibus, Judicium) and stopped the
+  build at the third such holding. It now skips documents whose language
+  is `la`. A Latin phrase inside a German or Polish document still counts.
+- **`new_unit.py` makes `units/<digits>/`.** Rename it to `app<digits>`
+  before writing anything into the new name, or two folders exist.
 
 - **A Python script typed into the shell loses its backslashes**, even
   inside a quoted heredoc: `'\n\n'` arrives as a line break and the file

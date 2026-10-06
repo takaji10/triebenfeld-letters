@@ -194,6 +194,27 @@ By this rule the twenty folders make very roughly 80 to 120 documents; the
 count is fixed in the inventory step and shown to the editor before a
 holding is built. **This is the main thing to confirm.**
 
+### Where the batches stand (2026-10-07)
+
+Batch 1 (Konin Gr.145) and four of the five holdings of batch 2 (53/6/0/-/17,
+-/36, -/40, -/45) are built and wait for the editor's folds and their word to
+publish. Konin Gr.136 waits for the editor's answer about its untranscribed
+middle. **What batch 2 changed in the method** (details in
+`docs/WORKING_NOTES.md`):
+
+- The early Latin entries were first readings, not corrected texts. Each is
+  read whole against its scans, with the neighbouring entries on the same
+  pages as the key to the set words, and the editor's English is revised
+  where the Latin changes. A light check is not enough for them.
+- Before building, compare the scans with the text for **what is on the
+  scans and not transcribed** (other entries about the same people; a
+  missing middle), and for duplicates in the editor's file.
+- Look in the decree of 1775 (Konin Gr.145) for the document in hand: it
+  cites the decrees of 1589 and 1728 by their days, and names who was whose
+  grandfather and uncle.
+- The fold page is one the editor moves the lines on; the page of changes
+  is made again after every holding.
+
 ### Order
 
 Five batches, each built, shown and published before the next is started:

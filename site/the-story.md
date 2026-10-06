@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The story
-standfirst: Three centuries of one estate in central Poland, told in the order the documents fall. One era is published and a second has its first document; the third is named here so you can see what is missing.
+standfirst: Three centuries of one estate in central Poland, told in the order the documents fall. One era is published and a second has its first documents; the third is named here so you can see what is missing.
 permalink: /the-story/
 lang: en
 alt_url: /de/die-geschichte/
@@ -14,7 +14,7 @@ earth mounds attested by a court, a tenancy was a privilege with a seal on it, a
 owner who could not produce his papers did not own much.
 
 This archive is being built era by era. Each has its own account below. The middle one is
-the one published so far. The first now has its first document. The last exists in the
+the one published so far. The first now has its first documents. The last exists in the
 research and in archives in Warsaw and Berlin, and is named here rather than left out, so
 that what is absent is at least visible.
 
@@ -33,11 +33,18 @@ again, a pond-ground that each side said was theirs. In 1771 the Łukom side too
 of twelve Olęder farmsteads along with the land they stood on, and the settlers found
 themselves the subject of a lawsuit between men they had never met.
 
-The first document of this era is here: the decree of the commission that the Polish
-parliament appointed to end the dispute, which walked the boundary in September 1775,
-ruled for the Prusimski side and had new mounds raised along the line
-([the decree]({{ '/documents/app53170koningr145/1/' | relative_url }})). The rest of the
-documents are in the municipal and land court books at the State Archive in Poznań.
+The first documents of this era are here. Four are entries of the land court at Konin: an
+order of 1589 for an inspection, after a new pond at Łukom flooded the woods of Trąbczyn
+([1589]({{ '/sources/app536017/' | relative_url }})); two judgments by default of 1644 over
+the notches ([1644]({{ '/sources/app536036/' | relative_url }})); a decree of 1728 that sent a
+commissioner onto the disputed ground ([1728]({{ '/sources/app536040/' | relative_url }}));
+and a decree of 1763 over potash stopped on its way to Gdańsk
+([1763]({{ '/sources/app536045/' | relative_url }})). The fifth is the decree of the
+commission that the Polish parliament appointed to end the dispute, which walked the
+boundary in September 1775, ruled for the Prusimski side and had new mounds raised along
+the line ([the decree]({{ '/documents/app53170koningr145/1/' | relative_url }})). More
+entries from the municipal and land court books at the State Archive in Poznań are still
+to be added.
 
 ---
 

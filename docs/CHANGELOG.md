@@ -1750,6 +1750,29 @@ lose his estates. The era page writes Konotop, not Kontop.
   drafts", which was also out of date (56 of its entries are checked), and an unchecked entry
   now reads "to be checked against" its reference work, without the word "draft".
 
+- **Four early entries from the court books of Konin added** (2026-10-06 and 10-07), the second
+  batch of the Prusimski era, all Latin, six documents: APP 53/6/0/-/17, an order of 12 June
+  1589 for an inspection after a new pond at Łukom flooded the woods of Trąbczyn, now the
+  earliest document of the edition; 53/6/0/-/36, two default judgments of 1644 for notches cut
+  into trees and timber felled; 53/6/0/-/40, the decree of 26 January 1728 sending a
+  commissioner onto the disputed ground; 53/6/0/-/45, the decree of 1763 suspending a suit
+  over potash until the boundary is decided. Each was read whole against its scans. The
+  editor's Latin of these was a first reading (the entry of 1589 had 109 marks of doubt in 713
+  words and was read again whole at the editor's word); the neighbouring entries on the same
+  pages, in the same set words, settled most of it. The editor's English is revised to follow:
+  the entries of 1644 are default judgments, not "concessions"; in 1589 the court adds one of
+  its messengers, not "a mutual term"; in 1728 six thousand shingles were burned, not 160; in
+  1763 it was Prusimska who sent the potash off. The decree of 1775 cites the orders of 1589
+  and 1728 by their days, which dates both. Summaries in both languages, claim-checked;
+  holding pages in both languages; new person entries (Katarzyna and Krzysztof Prusimski, the
+  Trąmpczyński and Łukomski families; the Chełmski family curated). For the tools: a shared
+  helper for court-book holdings (`pipeline/intake/courtbook.py`); a date taken from the
+  heading of a court's sitting (`dates: sitting`); a fold page on which the editor moves the
+  lines and saves them; a page of what the checks changed, graded
+  (`pipeline/review/changes_page.py`); the glossary gate skips wholly Latin documents. Konin
+  Gr.136 (1754) is not built: its middle is not transcribed. The edition has 21 holdings, 479
+  documents and 1,696 pages; 474 have an English translation. Not published.
+
 - **APP 53/17/0/-/Konin Gr.145 checked in full** (2026-10-06). The editor asked for the whole
   text to be checked for dropped phrases. All 122 pages were read against the scans: 233
   passages corrected, 26 of them places where the transcription lacked words that stand on

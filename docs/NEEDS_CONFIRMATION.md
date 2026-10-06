@@ -123,8 +123,10 @@ read, translate and summarise.
   a light check at the editor's word, and then, at their word, every page
   read against its scan (2026-10-06): 233 corrections, 27 dropped phrases
   restored in both languages. Still open:
-  - **the editor's approval of the folds** the scans are cut at
-    (`review/app53170koningr145/folds/`), before it is published;
+  - **the folds**: the editor found the lines crossing writing on many
+    scans (2026-10-07) and now has a page to move them on
+    (`review/app53170koningr145/folds/`); the pages are cut again from
+    the file it saves, before the holding is published;
   - **the editor's look at the dropped phrases**
     (`review/app53170koningr145/dropped/`), and at two changes to their
     English that are not from the scans: a paragraph on leaf 680 that the
@@ -134,6 +136,35 @@ read, translate and summarise.
     the name Krzeczkowski (leaf 709 verso);
   - **the editor's glossary of 89 terms** is not in the edition's glossary;
   - the era has no account of its own yet.
+
+- **Four early court-book holdings are in** (2026-10-06 and 10-07), not
+  published: APP 53/6/0/-/17 (1589), 53/6/0/-/36 (1644), 53/6/0/-/40
+  (1728), 53/6/0/-/45 (1763). Each read whole against its scans, the
+  editor's English revised to follow. Still open:
+  - **the folds** of each, for the editor to approve or move
+    (`review/<slug>/folds/`);
+  - **the editor's look at the changes** (`review/changes/`): their
+    English was changed in substance in several places (default
+    judgments, not "concessions", in 1644; a court messenger, not "a
+    mutual term", in 1589; six thousand shingles in 1728; who sent the
+    potash in 1763);
+  - **53/6/0/-/17: three more entries on the scans, not transcribed**,
+    about the same people; the editor to say whether they come in;
+  - **the headings of three sittings are quoted without a scan** (leaf 2
+    of unit 17, leaf 612 of unit 36, leaf 638 of unit 45): the years rest
+    on the editor's transcription of them. Unit 17 is dated to the day
+    (12 June 1589) from the decree of 1775, which cites it;
+  - words left with a doubt: "motibus[?]" and three unfinished endings
+    (unit 17); "a[ssignatis?]", and the messenger's name "Koelmarek",
+    which may be Kaczmarek (unit 36); "devehi[?]" (unit 40);
+    "deducendum", "deducendo" and "Rozdrazewska" (unit 45);
+  - **the archive's name for fonds 53/6** is not known here.
+
+- **APP 53/17/0/-/Konin Gr.136 (the inspection of Trąbczyn, 1754) is not
+  built.** Its middle, the house-by-house list of the villages (most of
+  leaf 121 verso, all of leaf 122, the top of leaf 122 verso), is in
+  neither the editor's transcription nor their English. The editor to
+  say whether that was meant.
 
 - **I. HA GR, Rep. 7 C, Nr. 1414** is in (2026-10-05): three documents on
   four pages, December 1796 to March 1797, on Antoni Prusimski at Venice:

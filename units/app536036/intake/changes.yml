@@ -1,0 +1,39 @@
+# What the check of APP 53/6/0/-/36 against the scan changes for anyone who
+# has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/6/0/-/36: two default judgments of 1644"
+changes:
+- importance: significant
+  what: "These are not \"concessions\". The heading is \"Contumaces\", in default, and both entries are judgments by default: the Trąmpczyńskis were called, did not appear at the first term, and Chełmski, with the court's leave, condemned them in the penalty of contumacy."
+  was: "Trąmpczyński Concession ... the penalty of contumacy to be admitted before the same court, the court granted"
+  now: "The Trąmpczyńskis, in default ... he has judicially condemned in the penalty of contumacy, the same court admitting it"
+- importance: fact
+  what: "Anna of Słończyce held her dower and a life interest in what her husband left (\"domina reformatoria et advitalis\"). She is not called administratrix or conductrix, and there is no \"female guardian\": the minors are cited with their guardians."
+  was: "lady administratrix and conductrix of the goods of the same, abandoned in the customary manner ... together with their female guardian"
+  now: "lady dower-holder and life-tenant of the goods left by his death ... together with their guardians"
+- importance: fact
+  what: "The notches were cut by the Trąmpczyńskis' subjects (subditi), the peasants of their estate, not by \"sub-agents\"."
+  was: "through the sending in of their own sub-agents"
+  now: "through the sending in of their own subjects"
+- importance: fact
+  what: "The harm is reckoned \"fundo intacto\", leaving the land itself aside. The unread \"siti\" and \"[total]\" are gone."
+  was: "reckoning the same [siti] against them on the estate in [total] at one thousand Polish marks"
+  now: "which he reckons for himself against them, the ground itself left untouched, at one thousand Polish marks"
+- importance: fact
+  what: "The marks are to be annulled once the sub-chamberlain's office has been brought out, \"the penalties being paid\"."
+  was: "the office of the Sub-chamberlain being directed, that they annul the same marks of this court under [the prescribed] penalties"
+  now: "the office of the Sub-chamberlain having been brought out, they shall annul the same marks, the penalties being paid"
+- importance: fact
+  what: "The messenger laid the citation \"on the Monday last past\" at the manor of the cited in Trąbczyn, before the household."
+  was: "on the Monday before the preceding [feast], and had placed it in the court of the citation of the village of Trąbczyn"
+  now: "on the Monday last past, at the manor of the cited, in the village of Trąbczyn, in the presence of the household of the house"
+- importance: fact
+  what: "The sitting opened on 6 June 1644 (the Monday after the octave of Corpus Christi)."
+  was: "1644"
+  now: "sitting opened 6 June 1644"
+- importance: wording
+  what: "Second entry: \"three hundred cartloads, on this side or beyond\" and the same reckoning \"fundo intacto\"."
+  was: "approximately or beyond ... [siti] ... in [total]"
+  now: "on this side or beyond ... the ground itself left untouched"

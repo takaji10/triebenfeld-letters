@@ -178,9 +178,10 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 
 - [x] Light touch, as you asked: four pages and the signatures read against
       the scans, 23 readings corrected, 93 dropped accents put right.
-- [ ] **You: look at the folds**, `review/app53170koningr145/folds/`: each
-      scan with the line it is cut at. Tell me any scan where the line
-      crosses writing.
+- [ ] **You: move the fold lines** where they cross writing (you found
+      many that do, 2026-10-07). `review/app53170koningr145/folds/` is now
+      a page on which you click where each fold should be; press "Save my
+      folds" and tell me, and I cut the pages again from your file.
 - [ ] **You: say when to publish it.** Built and verified here, committed
       locally, not pushed.
 - [x] All 122 pages checked against the scans for dropped phrases
@@ -210,7 +211,40 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 - [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
       come back to it.
 
-## 7. Carried over
+## 7. Four early court-book entries, 1589 to 1763 (added 2026-10-06 and 10-07)
+
+The second batch of the Prusimski era: APP 53/6/0/-/17 (an order of 1589
+for an inspection), 53/6/0/-/36 (two default judgments of 1644),
+53/6/0/-/40 (a decree of 1728 sending a commissioner onto the ground) and
+53/6/0/-/45 (the potash decree of 1763). Six documents. Each was read whole
+against its scans; the Latin was corrected and your English revised to
+follow. Built and verified here, committed locally, not pushed. Details in
+each holding's `notes.md`.
+
+- [ ] **You: look at the folds** of each, and move any line that crosses
+      writing: `review/app536017/folds/`, `review/app536036/folds/`,
+      `review/app536040/folds/`, `review/app536045/folds/`.
+- [ ] **You: read the page of changes**, `review/changes/`: what the
+      check changed in each holding, graded, for putting right what you
+      have written elsewhere. It is made again as each holding is checked.
+- [ ] **You: say when to publish them** (with Konin Gr.145).
+- [ ] **You: 53/6/0/-/17 has three more entries on its scans** that are
+      not transcribed (the same suit against Stanislaus Łukomski; two
+      suits of Nicolaus and Joannes Trąmpczyński against Albertus). Say
+      if you want them in. I can read the first with the same confidence.
+- [ ] **You: Konin Gr.136 (the inspection of 1754) is not built.** The
+      house-by-house list of the villages (most of leaf 121 verso, all of
+      leaf 122, the top of 122 verso) is in neither your transcription
+      nor your English. Was it left out on purpose? If so I build it as it
+      is and say on its page what is missing; if not, send the text or
+      tell me to try reading it.
+- [ ] If you have them: the archive's name for fonds 53/6, and the images
+      of leaves 2 (unit 17), 612 (unit 36) and 638 (unit 45), which carry
+      the headings of the sittings.
+- [ ] The next batch: Konin Gr.114, Pyzdry Gr.75, Kalisz Gr.414, Konin
+      Gr.115 (`docs/PRUSIMSKI_ERA_PLAN.md`).
+
+## 8. Carried over
 
 These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.

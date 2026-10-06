@@ -1,0 +1,36 @@
+# What the re-reading of APP 53/6/0/-/17 changes for anyone who has written
+# about this entry from the earlier text. Read by
+# pipeline/review/changes_page.py, which makes the editor's page of changes.
+# importance: significant (changes what the record says happened or was
+# ordered) | fact (adds or corrects a fact) | wording (nothing to act on).
+
+unit: "APP 53/6/0/-/17: the order of 1589 for an inspection"
+changes:
+- importance: significant
+  what: "The court did not set \"a mutual term\". It ordered a judicial inspection and added one of its messengers (Ministerialis terrestris), whom the defendant chooses and pays, to see where and on whose ground the wrong was done and whether it was done."
+  was: "added ... a mutual term which the cited party shall have chosen for itself ... having procured a [mutual surveyor]"
+  now: "it has added ... a land court Messenger, whom the cited party shall choose for itself, namely to see and to inspect in what place and on whose ground the aforesaid injury was inflicted, and whether it was done or not"
+- importance: significant
+  what: "The heading says that Łukomski is to carry out the inspection (\"Visionem expediet\"), not that inspections are pending."
+  was: "Łukomski — [Concerning] the Judicial Site Inspection (Visio[ru]m expe[cta]t)"
+  now: "Łukomski shall carry out the judicial site inspection"
+- importance: significant
+  what: "This entry is one of the \"four Kalisz land decrees ... on Monday before Saint Vitus of 1589\" that the boundary decree of 1775 cites: the one against Tomasz Łukomski. The inspection it orders is the inspection of 1589, entered at Konin in 1592, on which Chełmski rested his boundary in 1775 and which Prusimski attacked."
+  was: "(not noted)"
+  now: "Konin Gr.145, English pages 30, 45, 46, 61, 62, 74"
+- importance: fact
+  what: "The date is 12 June 1589: the decree of 1775 gives the Monday before St Vitus. The weekday in your reading of the sitting's heading, \"feria se[x?]ta\", is then \"secunda\"."
+  was: "1589, day not fixed"
+  now: "12 June 1589"
+- importance: fact
+  what: "Both parties are bound to attend the inspection; at the next court terms at Konin they have a final term to hear its outcome before the court from the messenger."
+  was: "Both parties having appeared at the inspection ... for hearing [the report] ... by [the] mutual [term]"
+  now: "At which inspection both parties are bound to be present ... a peremptory term to hear, upon the aforesaid inspection, the restitution of right before the court through the Messenger"
+- importance: fact
+  what: "Three more entries on the same scans are not transcribed: the same suit against Stanislaus Łukomski (leaves 27v to 28), and two suits of Nicolaus and Joannes Trąmpczyński against Albertus (leaves 28 to 29). The first is very likely another of the four decrees of 1589."
+  was: "(not noted)"
+  now: "units/app536017/notes.md"
+- importance: wording
+  what: "The harm is put \"to the grave damage and injury of the Plaintiff, of the value of ten thousand Hungarian florins\"; the suit begins \"Disputes having arisen ... upon a written citation\"."
+  was: "to the damage and excess ... the Plaintiff estimated"
+  now: "to the grave damage and injury of the Plaintiff, of the value of"

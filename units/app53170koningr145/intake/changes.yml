@@ -1,0 +1,406 @@
+# Made by changes_from_check.py from the record of the full check. Do not edit by hand.
+# importance: significant | fact | wording.
+
+unit: 'APP 53/17/0/-/Konin Gr.145: the boundary decree of 1775'
+changes:
+- importance: fact
+  kind: dropped phrase
+  where: leaf 673 recto, page 38 of 122
+  what: 'six words skipped between two words with the same ending: the eight mounds and forty-one blazes stretch
+    toward the corduroy crossings for several staje, "occupying and taking in the whole Lusnia woodland". Found
+    in the first, light check.'
+  was: (six Polish words missing)
+  now: las cały Lusnie zajmujących i zabierających
+  english_now: occupying and taking in the whole Lusnia woodland
+- importance: fact
+  kind: dropped phrase
+  where: leaf 655 recto, page 2 of 122
+  what: 'eight words skipped between two mentions of Drzewce and Trąbczyn. They say which neighbour each side acknowledged
+    the three corner mounds for: the Chełmski brothers for Łukomia, Bukowe and Drzewce but not for Trąbczyn; the
+    heirs of Drzewce and Trąbczyn for their own estates and Łukomia'
+  was: oraz dla Drzewiec konwentskich zaś Drzewice i Trąbczyna dla dóbr swoich
+  now: oraz dla Drzewiec konwentskich z odpychaniem tylko z tąd dziedziny Trąbczyna, dziedzicy zaś Drzewiec i Trąbczyna
+    dla dóbr swoich
+  english_was: and for the convent's Drzewce — and for Drzewce and Trąbczyn Mały, for their own estates and for
+    Łukomia with rejection, and also Bukowe
+  english_now: and for the convent's Drzewce, with rejection only of the estate of Trąbczyn from here — while the
+    heirs of Drzewce and Trąbczyn, for their own estates and for Łukomia, with rejection likewise of the Bukowe
+- importance: wording
+  kind: dropped phrase
+  where: leaf 659 verso, page 11 of 122
+  what: 'seven words: the court orders Prusimski to file his summonses "satisfying both the law of the Crown and
+    the constitution"'
+  was: ażeby urodzony Prusimski konstytucji wypadłej też przypozwy
+  now: ażeby urodzony Prusimski zadość czyniąc tak prawu koronnemu jako też konstytucji wypadłej też przypozwy
+  english_was: the Honourable Prusimski to submit and produce in court, in accordance with the enacted constitution,
+    the collateral citations
+  english_now: the Honourable Prusimski, satisfying both the law of the Crown and the enacted constitution, to submit
+    and produce in court the collateral citations
+- importance: fact
+  kind: dropped phrase
+  where: leaf 662 recto, page 16 of 122
+  what: 'eight words skipped between two "przez": the corner point is the one "formed by the Honourable Prusimski
+    before and now, and acknowledged by the Convent" at all three earlier sittings'
+  was: i jakoby od tegoż narożnika przez Konwent jednostajnie zawsze
+  now: i jakoby od tegoż narożnika przez urodzonego Prusimskiego przedtem i teraz formowanego a przez Konwent jednostajnie
+    zawsze
+  english_was: and as though from that corner mound consistently acknowledged at all times during the three field
+    sessions by the Convent
+  english_now: and as though from that corner mound, formed by the Honourable Prusimski before and now, and consistently
+    acknowledged at all times during the three field sessions by the Convent
+- importance: fact
+  kind: dropped phrase
+  where: leaf 666 recto, page 24 of 122
+  what: 'five words skipped between two "Łukomia": the heirs of Drzewce and Trąbczyn rejected Bukowe "as having
+    no boundaries of its own but lying within those of Łukomia", and acknowledged the corner mounds "not of Bukowe
+    but only of Łukomia, Drzewce and Trąbczyn"'
+  was: ale w granicach Łukomia Drzewiec i Trąbczyna przyznawali
+  now: ale w granicach Łukomia leżącą nie Bukowia ale tylko Łukomia Drzewiec i Trąbczyna przyznawali
+  english_was: as having no separate boundaries but lying within the boundaries of Łukomia, Drzewce, and Trąbczyn,
+    acknowledged it
+  english_now: as having no separate boundaries but lying within the boundaries of Łukomia, acknowledged them as
+    not of Bukowe but only of Łukomia, Drzewce, and Trąbczyn
+- importance: fact
+  kind: dropped phrase
+  where: leaf 670 verso, page 33 of 122
+  what: 'seven words of the description of the fifth wall mound: it is "flat, having a small ditch round it and
+    also a roundness"'
+  was: do kopca więcej nad inne większego niezbyt od ziemi wyniosłego
+  now: do kopca więcej nad inne większego płaskiego rowek koło siebie także okrągłość mającego niezbyt od ziemi
+    wyniosłego
+  english_was: he came to the fifth mound, larger than the others, not very raised above the ground
+  english_now: he came to the fifth mound, larger than the others, flat, having a small ditch round it and likewise
+    a roundness, not very raised above the ground
+- importance: fact
+  kind: dropped phrase
+  where: leaf 674 verso, page 41 of 122
+  what: 'one word, but it is the date of the Konin land court decree of 1647: the Monday before St Hedwig'
+  was: w poniedziałek Świętą Jadwigą nastąpiony
+  now: w poniedziałek przed Świętą Jadwigą nastąpiony
+  english_now: The English already had it. Not changed.
+- importance: wording
+  kind: dropped phrase
+  where: leaf 674 verso, page 41 of 122
+  what: 'eight words: the documents "set out and assert" that the mounds were newly raised on Trąbczyn ground, "and
+    these are actually found above the Lusnie wood"; it repeats what the sentence has already said'
+  was: usypane i poczynione być wyłuszczają się przeto mówi
+  now: usypane i poczynione być wyłuszczają i twierdzą a te aktu nad lasem Lusnie znajdują się przeto mówi
+  english_was: still extending considerably further. Therefore the Honourable Prusimski says
+  english_now: still extending considerably further, and assert it — and these are actually found above the Lusnia
+    woodland. Therefore the Honourable Prusimski says
+- importance: wording
+  kind: dropped phrase
+  where: leaf 675 recto, page 42 of 122
+  what: 'seven words of Prusimski''s argument: the mounds and blazes, "enclosing and taking in all this, openly
+    vindicate and prove it for Trąbczyn"'
+  was: jako to wszystko zagraniczające i rzeczywistą istność
+  now: jako to wszystko zagraniczające i zajmujące dla Trąpczyna jawnie ewinkują i dowodzą i rzeczywistą istność
+  english_was: as enclosing and establishing the actual substance and ownership of all these
+  english_now: as enclosing and taking in all this, openly vindicate and prove it for Trąbczyn — and the actual
+    substance and ownership of all these
+- importance: fact
+  kind: dropped phrase
+  where: leaf 676 recto, page 44 of 122
+  what: 'nine words skipped between two "gdy": one of Prusimski''s grounds against the inspection of 1592, that
+    "it is recorded only for his share" (Wojciech Trąpczyński''s), "and moreover" that he was then guardian of his
+    four nephews'
+  was: co i wizja sama okazuje gdy ta wizja w roku
+  now: co i wizja sama okazuje gdy tylko z części jego jest zeznana a nadto gdy ta wizja w roku
+  english_was: as the judicial site inspection itself shows. When this judicial site inspection was conducted in
+    1589
+  english_now: as the judicial site inspection itself shows, since it is attested only for his portion. And moreover,
+    when this judicial site inspection was conducted in 1589
+- importance: fact
+  kind: dropped phrase
+  where: leaf 677 recto, page 46 of 122
+  what: 'one word, "nie", and it reverses the sense: the decree proves that Wojciech Trąpczyński was NOT heir of
+    the whole of Trąbczyn but guardian of his nephews. The same is said correctly twice further down the page'
+  was: którym dowodzi że Wojciech Trąpczyńskie był całego Trąpczyna dziedzicem a był opiekunem
+  now: którym dowodzi że Wojciech Trąpczyński nie był całego Trąpczyna dziedzicem a był opiekunem
+  english_now: The English already had it. Not changed.
+- importance: fact
+  kind: dropped phrase
+  where: leaf 680 recto, page 52 of 122
+  what: 'nine words skipped between two "drogę Zagórowską": the Osiny road "falls into the Zagórów road a few staje
+    from here, and then also crosses the Zagórów road below the hill"'
+  was: i wpada w drogę Zagórowską pod górą przechodzi
+  now: i wpada w drogę Zagórowską o kilka staj stąd a potym i przez drogę Zagórowską pod górą przechodzi
+  english_was: (the English had no paragraph for this passage)
+  english_now: And so the Honourable Prusimski, having taken his stand at the corner mound in the place where the
+    Honourable Chełmski establishes his corner mound — that is, at the head, or beginning, of the woodland called
+    Ostrowce, at the Osiny road itself, which runs between the two mounds, supposedly corner mounds of the Honourable
+    Chełmski but in fact Drzewce and Trąbczyn wall mounds — and having led his court out onto that road toward Osiny,
+    showed his court that this road comes not from Trąbczyn but from Osiny, and falls into the Zagórów road a few
+    staj from here, and then also crosses the Zagórów road below the hill and goes by way of Łukom to Pyzdry — as
+    the past decrees, one of 1759 and the other of 1760, submitted and described in the boundary line, also express.
+- importance: fact
+  kind: dropped phrase
+  where: leaf 682 verso, page 57 of 122
+  what: 'eight words skipped between two "przez": the first corner point, at the Ostrowce wood and the Osiny road,
+    was acknowledged to Chełmski "by the Convent, and the second, at the Lusnie wood," by the heir of Biskupice.
+    As it stood, the heir of Biskupice acknowledged the first'
+  was: i drodze Osińskiej przez dziedzica Biskupic ex praehabito condicto przynane są
+  now: i drodze Osińskiej przez Konwent mu, a drugi przy lesie Lusnie przez dziedzica Biskupic ex praehabito condicto
+    przyznane są
+  english_was: acknowledged by the heir of Biskupice by prearranged arrangement — are acknowledged unjustly
+  english_now: acknowledged to him by the Convent, and the second at the Lusnia woodland by the heir of Biskupice,
+    by prearranged arrangement — are acknowledged unjustly
+- importance: wording
+  kind: dropped phrase
+  where: leaf 682 verso, page 57 of 122
+  what: 'five words, and "wyschniętego" (dried up) for "wytkniętego" (marked out): Chełmski''s whole line "formed
+    and marked out through Trąbczyn''s own ground"'
+  was: całego duktu urodzonego Chełmskiego i wyschniętego a oraz
+  now: całego duktu urodzonego Chełmskiego przez grunt własny Trąpczyna uformowanego i wytkniętego a oraz
+  english_was: of the entire boundary line of the Honourable Chełmski as run
+  english_now: of the entire boundary line of the Honourable Chełmski, formed and marked out through Trąbczyn's
+    own ground
+- importance: significant
+  kind: dropped phrase
+  where: leaf 683 verso, page 59 of 122
+  what: 'seven words: at the bank of Czarny Bród the court, unable to finish this boundary because of the rain,
+    "suspended the further line in it and meanwhile" turned to its other business. This is the suspension that the
+    adjournment to 21 May 1776 later takes up'
+  was: nie mogą o tej ściany dalej kończyć, dalszych czynności w wyprowadzonych duktach udał się
+  now: nie mogąc tej ściany dalej kończyć, dalszy w niej dukt zawiesił a tymczasem do dalszych czynności w wyprowadzonych
+    duktach udał się
+  english_was: where the court, unable to conclude this boundary due to excessively high water, proceeded with further
+    actions on the boundary lines already run
+  english_now: where the court, unable to conclude this boundary due to excessively high water, suspended the further
+    boundary line in it and meanwhile proceeded to further actions on the boundary lines already run
+- importance: wording
+  kind: dropped phrase
+  where: leaf 684 recto, page 60 of 122
+  what: 'two words of the oath Prusimski was to swear about his witnesses, added by the clerk at the foot of the
+    page: "nor hired"'
+  was: ani przez siebie nie namówiłem i nie przekupiłem
+  now: ani przez siebie nie namówiłem nie przenajęłem i nie przekupiłem
+  english_was: I have neither suborned nor bribed
+  english_now: I have neither suborned, nor hired, nor bribed
+- importance: fact
+  kind: dropped phrase
+  where: leaf 686 recto, page 64 of 122
+  what: 'seven words: the division of 1693 was "of Trąbczyn, Nowa Wieś, Osiny and Łazy"'
+  was: względem podziału z grodu pyzdrskiego wyjętym, is jeszcze
+  now: względem podziału Trąpczyna Nowej Wsi Osin i Łazów nastąpionym z grodu pyzdrskiego wyjętym, iż jeszcze
+  english_was: concerning the division, extracted from the Pyzdry municipal court
+  english_now: concerning the division of Trąbczyn, Nowa Wieś, Osiny, and Łazy, extracted from the Pyzdry municipal
+    court
+- importance: fact
+  kind: dropped phrase
+  where: leaf 691 recto, page 74 of 122
+  what: 'six words: in the division of 1693 the Trąpczyńskis, "dividing the Trąbczyn estate, besides the ponds Garmin
+    and Likerowa", reserve the other ponds for common fishing. Two ponds are named; "Garmin" is my reading of a
+    name I do not know from elsewhere'
+  was: którym aż Trąpczynscy dzieląc się likerowa insze stawy
+  now: którym urodzeni Trąpczynscy dzieląc się majętnością Trąpczyńską prócz stawów Garmin i Likerowa insze stawy
+  english_was: by which the Trąbczyński, dividing the estates, reserve to themselves the remaining ponds
+  english_now: by which the Honourables Trąbczyński, dividing the Trąbczyn estate, besides the ponds Garmin and
+    Likerowa, reserve to themselves the remaining ponds
+- importance: fact
+  kind: dropped phrase
+  where: leaf 691 recto, page 74 of 122
+  what: 'seven words saying what the oath of 1589 was about: "the flooding of grounds, meadows and pastures and
+    the killing of timber" on the estates of Trąbczyn Wielki and Mały and Osiny'
+  was: i potem nie prozekwowany na dziedzinie Trąpczyna Wielkiego
+  now: i potem nie prozekwowany, o zalewek gruntów, łąk, pastwisk, drzewa posuszenie na dziedzinie Trąpczyna Wielkiego
+  english_was: and thereafter not prosecuted — that the flooding was made and caused on
+  english_now: and thereafter not prosecuted — concerning the flooding of grounds, meadows, and pastures and the
+    drying-out of timber, made and caused on
+- importance: fact
+  kind: dropped phrase
+  where: leaf 691 verso, page 75 of 122
+  what: 'eight words skipped between two "wyrobiony": Chełmski''s own pond "is made out of the same kind of marsh
+    as this pond-ground, and so is overgrown" in the same way'
+  was: także w boru wyrobiony i jako jest kępami i różnym drzewem zarosły
+  now: także w boru wyrobiony i jako jest z takichże błot jako i to stawisko wyrobiony, tak jest kępami i różnym
+    drzewem zarosły
+  english_was: likewise in pine, and, as it is overgrown with clumps and various trees
+  english_now: likewise in pine; and, as it is made out of the same kind of marshes as this stawisko, so it is overgrown
+    with clumps and various trees
+- importance: fact
+  kind: dropped phrase
+  where: leaf 693 recto, page 78 of 122
+  what: 'eight words skipped between "kaczemi ługami" and "kacze ługi", in the court''s reasons: "As to the further
+    line in this boundary, running above the duck bogs: since it is shown that the duck bogs, as said above, belong
+    and belonged to Trąbczyn"'
+  was: w tej ścianie nad kacze ługami jako już wyżej wyrażono jest należą
+  now: w tej ścianie nad kaczemi ługami ciągnącego się ponieważ okazuje się iż kacze ługi jako już wyżej wyrażono
+    jest należą
+  english_was: in this boundary above the duck bogs [i.e., to the north of the duck bogs] — as expressed above,
+    these belong and belonged
+  english_now: in this boundary, running above the duck bogs [i.e., to the north of the duck bogs] — since it is
+    shown that the duck bogs, as expressed above, belong and belonged
+- importance: fact
+  kind: dropped phrase
+  where: leaf 693 recto, page 78 of 122
+  what: 'seven words skipped between "Studzienki" and "Studzience": the end point of the boundary is "at the Studzienka
+    and the tavern hills and bogs lying by that Studzienka"'
+  was: co do tej ściany aż u Studzience będących a przy tym
+  now: co do tej ściany aż u Studzienki i karczemnych gór i ługów przy tej Studzience będących a przy tym
+  english_was: as to this boundary, at Studzienka — and moreover
+  english_now: as to this boundary, at Studzienka and the tavern hills and bogs lying by that Studzienka — and moreover
+- importance: fact
+  kind: dropped phrase
+  where: leaf 695 recto, page 82 of 122
+  what: 'six words skipped between two "urodzony": "neither the Honourable Chełmski a corner point, nor the Honourable
+    Gałecki, Starost of Bydgoszcz, heir of Biskupice, his convergence" can have here. As it stood, the text made
+    Chełmski the heir of Biskupice and left Gałecki out'
+  was: że ani urodzony Chełmski dziedzic Biskupic konkurencji swojej
+  now: że ani urodzony Chełmski narożnika ani urodzony Gałecki starosta bydgoski dziedzic Biskupic konkurencji swojej
+  english_was: that neither the Honourable Chełmski nor the heir of Biskupice can or should have their convergence
+    here
+  english_now: that neither the Honourable Chełmski a corner mound, nor the Honourable Gałecki, Starost of Bydgoszcz,
+    heir of Biskupice, his convergence, can or should have here
+- importance: fact
+  kind: dropped phrase
+  where: leaf 699 verso, page 91 of 122
+  what: 'seven words placing the twenty-first wall mound: "not far from the Łomowo clearings, on which the stumps
+    still stand"'
+  was: dotykającym się niedaleko o prętów dwadzieścia pięć wysypany
+  now: dotykającym się niedaleko nowin Łomowskich na których jeszcze pnie stoją o prętów dwadzieścia pięć wysypany
+  english_was: touching the Kalisz road at its end — not far, twenty-five pręty — heaped
+  english_now: touching the Kalisz road at its end — not far from the new Łomowo clearings, on which the stumps
+    still stand, twenty-five pręty — heaped
+- importance: wording
+  kind: dropped phrase
+  where: leaf 703 verso, page 99 of 122
+  what: 'five words skipped between two "gruntu Trąpczyńskiego": "and this continuity of the Trąbczyn ground, taking
+    it from the Kalisz road" is shown to reach the corner point at Czarny Bród. It gives the long sentence its subject'
+  was: szerokość gruntu trąpczyńskiego biorąc ją od drogi Kaliskiej
+  now: szerokość gruntu trąpczyńskiego, ta zaś ciągłość gruntu Trąpczyńskiego biorąc ją od drogi Kaliskiej
+  english_was: show the further continuity and breadth of the Trąbczyn ground — taking it from
+  english_now: show the further continuity and breadth of the Trąbczyn ground — and this continuity of the Trąbczyn
+    ground, taking it from
+- importance: significant
+  kind: dropped phrase
+  where: leaf 708 recto, page 108 of 122
+  what: 'ten words skipped between two "względem": what the court now takes up again. Not only the acts of violence,
+    but "the revenues arising from the ground now bounded off, and the claims and the delivery of possession". These
+    are the heads on which the penalties that follow are given'
+  was: rozwiązując suspense swoje względem wiolencji z urodzonym Chełmskim wyżej uczynioną
+  now: rozwiązując suspensę swoją względem wiolencji i pochodzących prowentów z gruntu odgraniczonego tudzież względem
+    pretensji i tradycji z urodzonym Chełmskim wyżej uczynioną
+  english_was: resolving its suspension concerning the transgressions committed with the Honourable Chełmski expressed
+    above
+  english_now: resolving its suspension, made above, concerning the transgressions and the revenues arising from
+    the ground now bounded off, and likewise concerning the claims and the delivery of possession, with the Honourable
+    Chełmski
+- importance: significant
+  kind: dropped phrase
+  where: leaf 709 verso, page 111 of 122
+  what: 'THE LARGEST FIND: about sixty words, some five lines of the page, skipped between two "urodzony Chełmski".
+    They are the court''s finding of what Chełmski did at the inn: when Prusimski put his men into it, Chełmski,
+    "taking no step at law, but by force, in person, with several dozen men armed with firearms of various kinds,
+    rode upon the inn and at once ordered shooting through the window into it; a nobleman, the Honourable Krzeczkowski,
+    was nearly killed and had his heel shot off; and the inn was set on fire, and was barely saved after the men
+    on Chełmski''s own side had fled. During which attack" Chełmski himself shouted to beat, kill and shoot. The
+    penalties on the next leaf ("for the armed raid and the shooting and the burning of the inn", "for the unlawful
+    use of firearms") refer to exactly this. The name Krzeczkowski is written above the line; the second vowel could
+    be y. Also "osadził" (placed his men) for "osądził" (judged), and "tam" for "sam"'
+  was: gdy w tymże goscińcu ludzi swych osądził tak urodzony Chełmski bić zabić i strzelać wołał, także rzeczy wszystkie
+    sam, w gościńcu będące
+  now: gdy w tymże goscińcu ludzi swych osadził tak urodzony Chełmski w tym razie przeciw prawu sobie postępując
+    żadnego kroku do prawa nie uczyniwszy, ale gwałtem osobiście sam z kilkudziesiąt ludzi strzelbą różną uzbrojonemi
+    gościeniec ten najechawszy zaraz oknem do gościńca strzelać rozkazał i mało jednego szlachcica urodzonego Krzeczkowskiego
+    nie zabito i napiętek mu ustrzelono a przy tym i gościeniec zapalono który ledwie przecie po ucieczce ludzi
+    z strony samego urodzonego Chełmskiego uratowano. Podczas którego ataku sam urodzony Chełmski bić zabić i strzelać
+    wołał, także rzeczy wszystkie tam, w gościńcu będące
+  english_was: had settled his own people in that inn, the Honourable Chełmski cried out to beat, kill, and shoot
+    [them]; and likewise ordered all the items in the inn
+  english_now: had settled his own people in that inn, the Honourable Chełmski — proceeding in this against the
+    law, and taking no step at law, but by force, in person, with several dozen men armed with firearms of various
+    kinds, having ridden upon that inn — at once ordered shooting through the window into the inn; and a nobleman,
+    the Honourable Krzeczkowski, was very nearly killed, and had his heel shot off; and moreover the inn was set
+    on fire, and was barely saved after the flight of the men on the Honourable Chełmski's own side. During which
+    attack the Honourable Chełmski himself cried out to beat, kill, and shoot; and likewise ordered all the items
+    there in the inn
+- importance: significant
+  kind: misread word in a ruling
+  where: leaf 696 recto, page 84 of 122
+  what: '"się", not "nie": in the court''s reasons, the inspection of 1592, Chełmski''s boundary and his corner
+    point "are shown to be contrary to all these proofs". The transcription said they are not shown to be'
+  was: przeciwne tym wszystkiem dowodów być nie okazują, i sądowi swemu dowodzą
+  now: przeciwne tym wszystkiem dowodom być się okazują, i sądowi swemu dowodzą
+- importance: significant
+  kind: misread word in a ruling
+  where: leaf 696 verso, page 85 of 122
+  what: 'the first half of the ruling on the inspection of 1592: the court, "not regarding" it, "as unable to prejudice
+    the old boundaries or to set new ones"; see the next row'
+  was: ani też nowych stanowić nie mogą się nie zważając,
+  now: ani też nowych stanowić nie mogącą nie zważając,
+- importance: significant
+  kind: misread word in a ruling
+  where: leaf 696 verso, page 85 of 122
+  what: 'in the ruling itself: the court, "not regarding" the inspection of 1592, "as unable to prejudice the old
+    boundaries or set new ones", sets it aside "as unlawful and invalid". The transcription had "nie woźną" (not
+    a bailiff) for "nieważną" (invalid)'
+  was: i owszem one jako nie prawną i nie woźną prawem samem
+  now: i owszem onę jako nieprawną i nieważną prawem samem
+- importance: significant
+  kind: misread word in a ruling
+  where: leaf 714 recto, page 120 of 122
+  what: '"karze", to the penalty: the court "finds the Honourable Chełmski liable to penalty, both for himself and
+    for his official". The transcription had "każe" (orders)'
+  was: przeto sąd każe urodzonego Chełmskiego
+  now: przeto sąd karze urodzonego Chełmskiego
+- importance: fact
+  kind: English changed
+  where: leaf 655
+  what: 'the Latin formula was filled out wrongly: "officio praesenti ad acticandum", "inter haereditates", "per
+    ... commissarios prolatum"'
+  english_was: presented to the office for prosecution, and submitted for enrollment in the present records, a Commissorial
+    Boundary Decree, setting forth in the first instance the estates specified in the said decree, to be laid before
+    the illustrious Right Honourable commissioners, sealed with family seals
+  english_now: presented to the present office for entry, and submitted for enrollment in the present records, a
+    Commissorial Boundary Decree between the estates specified in the said decree, pronounced by the illustrious
+    Right Honourable commissioners, sealed with family seals
+- importance: fact
+  kind: English changed
+  where: leaf 665
+  what: the scan has "Czerniakowie", a surname in the plural
+  english_was: Tomasz and Kazimierz Czerniakowic, Tomasz and Fabian,
+  english_now: Tomasz and Kazimierz Czerniak, Tomasz and Fabian,
+- importance: fact
+  kind: English changed
+  where: leaf 665
+  what: the scan has "Piotr Szyman, Nadolnik"
+  english_was: 'Piotr, Szyman, [uncertain: narożnik], Wojciech Zelak'
+  english_now: Piotr Szyman, Nadolnik, Wojciech Zelak
+- importance: fact
+  kind: English changed
+  where: leaf 667v
+  what: the scan has "zmownie", in collusion; the transcription had "z mównic"
+  english_was: acting in the matter of the ruin and wrong of the complainant with the Honourable Chełmski from the
+    same platform
+  english_now: acting in collusion with the Honourable Chełmski to the ruin and wrong of the complainant
+- importance: fact
+  kind: English changed
+  where: leaf 696v
+  what: the scan has "nieważną", invalid; the transcription had "nie woźną"
+  english_was: dismissing and setting aside it as unlawful and irregular
+  english_now: dismissing and setting aside it as unlawful and invalid
+- importance: fact
+  kind: English changed
+  where: leaf 702
+  what: the scan has "Zdanowskim"
+  english_was: Jan Zalanowski
+  english_now: Jan Zdanowski
+- importance: fact
+  kind: English changed
+  where: leaf 710
+  what: 'not a dropped phrase: the Polish, "zasiadł wieżą ... za niedziel dwanaście od czasu dekretu ... i toż siedzenie
+    przez niedziel dwie kontynuował", sets the day he is to enter the tower (twelve weeks from the decree) and the
+    length of the sitting (two weeks); the English read as a sitting of twelve weeks'
+  english_was: shall sit in the tower of the Konin municipal court for twelve weeks from the time of the present
+    decree, and shall continue that sitting for two weeks consecutively
+  english_now: shall take his seat in the tower of the Konin municipal court twelve weeks from the time of the present
+    decree, and shall continue that sitting for two weeks consecutively
+- importance: fact
+  kind: English changed
+  where: leaf 711v
+  what: the scan has "na polu", in the field; the transcription had "na potem"
+  english_was: on Monday after Saint Bartholomew the Apostle, subsequently [obtained] on the late Honourable Antoni
+    Prusimski
+  english_now: on Monday after Saint Bartholomew the Apostle, in the field, [obtained] on the late Honourable Antoni
+    Prusimski

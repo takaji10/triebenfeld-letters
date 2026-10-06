@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Geschichte
-standfirst: Drei Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen. Eine Epoche ist veröffentlicht, eine zweite hat ihr erstes Dokument; die dritte steht hier, damit sichtbar ist, was fehlt.
+standfirst: Drei Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen. Eine Epoche ist veröffentlicht, eine zweite hat ihre ersten Dokumente; die dritte steht hier, damit sichtbar ist, was fehlt.
 permalink: /de/die-geschichte/
 lang: de
 alt_url: /the-story/
@@ -14,7 +14,7 @@ Erdhügeln, gerichtlich bezeugt, eine Ansiedlung ein Privileg mit einem Siegel, 
 seine Papiere nicht vorlegen konnte, besaß wenig.
 
 Dieses Archiv entsteht Epoche für Epoche. Bisher ist die mittlere veröffentlicht. Die
-erste hat nun ihr erstes Dokument. Die letzte liegt in Archiven in Warschau und Berlin;
+erste hat nun ihre ersten Dokumente. Die letzte liegt in Archiven in Warschau und Berlin;
 sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehlt.
 
 ---
@@ -33,11 +33,20 @@ aufgeworfen wurden, ein Teichgrund, den jede Seite für sich beanspruchte. 1771 
 fanden sich als Gegenstand eines Prozesses zwischen Männern wieder, die sie nie gesehen
 hatten.
 
-Das erste Dokument dieser Epoche liegt hier vor: das Dekret der Kommission, die der
-polnische Reichstag einsetzte, um den Streit zu beenden. Sie beging die Grenze im September
-1775, entschied für die Seite der Prusimski und ließ entlang der Linie neue Hügel aufwerfen
-([das Dekret]({{ '/documents/app53170koningr145/1/' | relative_url }})). Die übrigen
-Akten liegen in den Grod- und Landgerichtsbüchern im Staatsarchiv Posen.
+Die ersten Dokumente dieser Epoche liegen hier vor. Vier sind Einträge des Landgerichts in
+Konin: eine Anordnung von 1589 zu einer Besichtigung, nachdem ein neuer Teich bei Łukom die
+Wälder von Trąbczyn überschwemmt hatte ([1589]({{ '/de/quellen/app536017/' | relative_url }}));
+zwei Versäumnisurteile von 1644 wegen der Kerben
+([1644]({{ '/de/quellen/app536036/' | relative_url }})); ein Dekret von 1728, das einen
+Kommissar auf den strittigen Grund schickte
+([1728]({{ '/de/quellen/app536040/' | relative_url }})); und ein Dekret von 1763 über
+Pottasche, die auf dem Weg nach Danzig angehalten wurde
+([1763]({{ '/de/quellen/app536045/' | relative_url }})). Das fünfte ist das Dekret der
+Kommission, die der polnische Reichstag einsetzte, um den Streit zu beenden. Sie beging die
+Grenze im September 1775, entschied für die Seite der Prusimski und ließ entlang der Linie
+neue Hügel aufwerfen ([das Dekret]({{ '/documents/app53170koningr145/1/' | relative_url }})).
+Weitere Einträge aus den Grod- und Landgerichtsbüchern im Staatsarchiv Posen sind noch
+aufzunehmen.
 
 ---
 

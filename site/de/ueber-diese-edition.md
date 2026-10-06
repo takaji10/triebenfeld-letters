@@ -19,9 +19,10 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 474 Dokumente auf 1.684 Handschriftenseiten aus den Jahren 1776 bis
-1832. Das älteste ist das Dekret eines Gerichts von 1775, das die Grenze von Trąbczyn
-festlegte, aus der Zeit, als das Gut Prusimski gehörte. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
+Die Edition enthält 479 Dokumente auf 1.696 Handschriftenseiten aus den Jahren 1589 bis
+1832. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin zum Streit zwischen
+Trąbczyn und dem Nachbargut Łukom, den eine Kommission 1775 beendete, als Trąbczyn
+Prusimski gehörte. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
 preußischer Ministerien. Zu jedem Dokument gibt sie:
 
 - den Text in seiner Originalsprache, nach der Handschrift transkribiert;
@@ -36,7 +37,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus siebzehn Beständen in vier Archiven:
+Die Dokumente stammen aus einundzwanzig Beständen in vier Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -44,9 +45,10 @@ Die Dokumente stammen aus siebzehn Beständen in vier Archiven:
   1805;
 - dem **Geheimen Staatsarchiv Preußischer Kulturbesitz** in Berlin: Akten der preußischen
   Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
-- dem **Staatsarchiv Posen**: dem Grenzdekret von 1775 aus einem Gerichtsbuch von Konin,
-  einem Gerichtsprotokoll von 1806 und um 1930 angefertigten Abschriften von
-  Schriftstücken über die Aufteilung der Güter;
+- dem **Staatsarchiv Posen**: Einträgen aus den Gerichtsbüchern von Konin zur Grenze
+  zwischen Trąbczyn und Łukom, von 1589 bis zum Dekret von 1775, das sie festlegte, einem
+  Gerichtsprotokoll von 1806 und um 1930 angefertigten Abschriften von Schriftstücken über
+  die Aufteilung der Güter;
 - dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
   konfiszierten Güter an Prusimskis Tochter.
 
@@ -54,7 +56,8 @@ Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit sei
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
 sein Text bearbeitet wurde.
 
-Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch und zehn polnisch, und
+Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, zehn polnisch und fünf
+lateinisch, und
 einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
 
@@ -83,7 +86,8 @@ transkribiert.
 
 Ein Bestand weicht ab: Das Grenzdekret von 1775 steht in heutiger polnischer
 Rechtschreibung, so wie der Herausgeber es transkribiert hat. Seine Seite sagt, wie weit es
-geprüft wurde.
+geprüft wurde. In den lateinischen Einträgen aus den Gerichtsbüchern sind die Abkürzungen
+der Schreiber aufgelöst.
 
 Eines wurde durchgehend geändert: Eine Person oder ein Ort, die von den Schreibern
 verschieden geschrieben werden, steht in einer einzigen Schreibweise, damit sie zu finden
@@ -125,13 +129,14 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 612 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 615 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 469 von 474. Sie wurden von einem
-KI-Modell nach Regeln des Herausgebers angefertigt, außer der des Grenzdekrets von 1775, die
-vom Herausgeber selbst stammt.
+Jedes Dokument mit Text hat eine englische Übersetzung: 474 von 479. Sie wurden von einem
+KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
+und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
+überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.
 
 Die Übersetzung zeigt einen Zweifel überall dort, wo das Original einen hat, weil glattes
 Englisch ihn verdecken würde:

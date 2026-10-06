@@ -1,0 +1,39 @@
+# What the check of APP 53/6/0/-/40 against the scans changes for anyone who
+# has written about this decree from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/6/0/-/40: the decree of January 1728"
+changes:
+- importance: significant
+  what: "Six thousand shingles were burned, not one hundred and sixty: \"centum sexagenas\" is a hundred sixties (a hundred kopy)."
+  was: "shingles, otherwise called Szkudeł, one hundred and sixty of them"
+  now: "shingles, otherwise called Szkudeł, a hundred threescore of them"
+- importance: fact
+  what: "The hay was taken \"in no small number of cartloads\", and what followed was the loss of livestock (\"decessum inventarii\"), not the destruction of an inventory."
+  was: "to carry out the destruction of the inventory of the cause"
+  now: "in no small number of cartloads ... and thereby to cause the loss of livestock"
+- importance: fact
+  what: "There are no \"three decreed terms\" and no \"decree ordering them to adhere\". Both are set phrases: the land terms of the district of Konin, and the sons cited with their parents, the servants and subjects with their lords."
+  was: "before the three decreed particular land terms of Konin ... the sons together with the retainers and subjects of the parent, under a decree ordering them to adhere to the protest"
+  now: "the particular land terms of the district of Konin ... the sons with their parents, the retainers and subjects with their lords, to adhere to the protest"
+- importance: fact
+  what: "The court makes one finding: that a commissioner must go onto the ground. It does not first find \"that a decision must be reached\" or that the suit is \"properly instituted\". The question of the ground is before \"its own court\", not \"the same court\"."
+  was: "finds that a decision must be reached, and that the term sought by the plaintiff party ... is properly instituted before the present court, since the cause of the estate is being ventilated before the same court"
+  now: "deciding the term of the plaintiff party ...: since the cause of the estate is being ventilated before its own court, it finds that a commissarial descent ... is necessary"
+- importance: fact
+  what: "The earlier wrongs had been kept out of the public records for the sake of neighbourly friendship. There is no \"declaration of neighbourly friendship\"."
+  was: "in virtue of a declaration of neighbourly friendship not yet submitted to the public records of the Kingdom"
+  now: "which, for the sake of preserving the friendship that belongs to living as neighbours, have up to this time not yet been submitted to the public records of the Kingdom"
+- importance: fact
+  what: "The time of the burning is \"to be stated at the hearing\", the phrase used for the unnamed defendants; it is not \"a certain third session\"."
+  was: "expressing [it] most particularly at that time, in a certain third session"
+  now: "most particularly, at a certain time to be stated at the hearing of the cause"
+- importance: fact
+  what: "One commissioner, Wojciech (Albertus) Biskupski, with two friends of each side; the Prusimskis appear as \"husband and wife\", not \"and their wives\"."
+  was: "the said Honourable Commissioners ... the Honourables Prusimski and their wives"
+  now: "the said Honourable Commissioner ... the Honourables Prusimski, husband and wife"
+- importance: fact
+  what: "Dates: the sitting opened on 26 January 1728; the hearing on the ground was set for 12 April 1728 (Monday after Misericordia Sunday). The decree of 1775 cites this decree and the testimony taken on it, and calls Krzysztof Prusimski the Starost's grandfather and the Antoni named here his uncle."
+  was: "1728"
+  now: "26 January 1728; Konin Gr.145, English pages 15, 18, 31, 109, 115, 121"
