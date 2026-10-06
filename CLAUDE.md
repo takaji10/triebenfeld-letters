@@ -221,12 +221,18 @@ so check them.
   (`intake/build_pages.py`); the editor's Polish transcription, in modern
   spelling and by paragraph, and the editor's own English translation, cut
   to the pages (`intake/translation/build_doc1.py`), not translated again.
-  A light check at the editor's word: four pages read against the scans
-  (`intake/corrections.py`). Status `translated`. Read
+  A light check first, then at the editor's word all 122 pages read against
+  the scans (2026-10-06): 233 corrections, 27 dropped phrases restored
+  (`intake/full_check_rows.py`, `intake/corrections_full.py`, neither to be
+  run again); the English follows in 32 places
+  (`intake/translation/fixes_full.py`), one of them a paragraph the English
+  itself lacked. Status `translated`. Read
   `units/app53170koningr145/notes.md` first. Built and verified locally,
-  **committed but not pushed: publish when the editor says**. Open: a full
-  check of the other 117 pages, which the editor has now asked for
-  (2026-10-06); the era's account and the glossary wait at their word.
+  **committed but not pushed: publish when the editor says**, after they
+  have approved the folds (`review/app53170koningr145/folds/`, made by
+  `intake/fold_sheet.py`) and seen the sheet of dropped phrases
+  (`review/app53170koningr145/dropped/`, `intake/dropped_sheet.py`). The
+  era's account and the glossary wait at their word.
 - **The Prusimski era is the current focus** (editor, 2026-10-06): twenty
   more court-book folders from Poznań with texts, nine without. **Read
   `docs/PRUSIMSKI_ERA_PLAN.md` before touching any of it**: it has the

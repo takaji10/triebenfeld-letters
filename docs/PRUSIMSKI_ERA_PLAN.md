@@ -41,6 +41,13 @@ and authorities once a holding is built, but cannot build one.
 
 ## 1. Finishing Konin Gr.145
 
+**Done on 2026-10-06, all but publishing.** Every page read; 233
+corrections, 27 dropped phrases; the English follows; the report is the
+sheet `review/app53170koningr145/dropped/`; the fonds is on the holding's
+page. It waits for the editor's approval of the folds and their word to
+publish. What the reading taught is in `docs/WORKING_NOTES.md` ("A full
+check for dropped phrases"). The plan as it was written:
+
 1. **Dropped phrases.** Read the 117 pages not yet compared, each cut into
    three enlarged strips, against the Polish, looking for words on the scan
    that are missing from the text (and noting any other slip that changes

@@ -214,6 +214,32 @@ Where the rest is:
   a hundred words, but one page of three had dropped a phrase, which only
   a full reading finds. Say what a light touch will and will not catch,
   do it, and put on the holding's page how many pages were compared.
+- **A full check for dropped phrases** (the same holding, 2026-10-06; the
+  editor asked for it after the light check). What it took and what it
+  found, for the court books still to come:
+  - Read every page as two enlarged halves beside its text. Record each
+    find as a row (page, kind, old, new, the scan's own spelling, weight,
+    a note in plain English) in one file, apply them once with a script
+    that demands each `old` exactly once on its page, and log them.
+  - **A dropped phrase is nearly always a skip between two occurrences of
+    the same word** ("urodzony Chełmski ... urodzony Chełmski", "względem
+    ... względem"). 26 in 122 pages, from one word to sixty. The longest
+    was the most important passage in the document. A light check cannot
+    promise there are none.
+  - **The translation was right where the transcription was wrong** in most
+    places: it had been made from the scan or from an earlier state of the
+    text. So before changing the English for a corrected Polish word, look:
+    of 233 corrections the English needed 32 changes.
+  - **Check the other direction too.** The English had itself dropped a
+    paragraph (a hundred Polish words with no English, at the seam between
+    two of the editor's sections). A page whose English is much shorter
+    than its Polish is the place to look.
+  - Grade each find for the editor in three plain grades (changes what the
+    court found or did; adds a fact; legal wording) and give it to them on
+    a sheet (`intake/dropped_sheet.py`), not in the reply.
+  - A reading on one page is often settled by the next: "tęże" was Latin
+    "ferme", "komornik" was "Komisarz". Withdraw a row rather than keep a
+    guess.
 - **The editor's own transcription and translation are kept as theirs.**
   That holding's Polish is in modern spelling and its English is the
   editor's: neither is redone, the English is cut to the pages by a
@@ -243,7 +269,10 @@ Where the rest is:
   that belongs to another holding.
 - **The claim check only weakens or cuts.** Each statement of a German
   summary is held to its document as supported or overstated; nothing is
-  added. A date an office wrote on a paper is not the day it arrived unless
+  added. When the text itself gains something that matters (a passage
+  restored from the scan), the summary may be rewritten there, and the new
+  statements are then checked like the rest and the count corrected
+  wherever it is given (`claim_check.yml`, `process.md`, `notes.md`). A date an office wrote on a paper is not the day it arrived unless
   the mark says so; a note that names no office is not "the Cabinet".
 - **Fixing names in the English after an authority changes:** take the hits
   from `pipeline/review/uncanonical_names.py`. On the desktop, change the
@@ -260,6 +289,11 @@ Where the rest is:
   checker forbids "hypothec" in English, Latin "sub hypotheca" included.
 
 ## Traps in the tools
+
+- **A Python script typed into the shell loses its backslashes**, even
+  inside a quoted heredoc: `'\n\n'` arrives as a line break and the file
+  being patched is left broken. Write the script to a file with the Write
+  tool and run that. (Happened three times on 2026-10-06.)
 
 - **One very long document** (31,000 words) broke the merge: Python's CSV
   reader refuses a field over 131,072 characters. `unitlib.py` now raises

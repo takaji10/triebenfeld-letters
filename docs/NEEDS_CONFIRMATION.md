@@ -120,11 +120,18 @@ read, translate and summarise.
   the Prusimski era: one document of 122 pages, the decree of the boundary
   commission of 1775 between Trąbczyn and Łukomia, with the editor's own
   transcription (in modern Polish spelling) and English translation. Given
-  a light check at the editor's word. Still open:
-  - **117 of its 121 written pages were not compared with the scans.** Of
-    the four that were, one had dropped six words (leaf 673). A full check
-    waits for the editor's word;
-  - **the archive's description of the volume** could not be fetched;
+  a light check at the editor's word, and then, at their word, every page
+  read against its scan (2026-10-06): 233 corrections, 27 dropped phrases
+  restored in both languages. Still open:
+  - **the editor's approval of the folds** the scans are cut at
+    (`review/app53170koningr145/folds/`), before it is published;
+  - **the editor's look at the dropped phrases**
+    (`review/app53170koningr145/dropped/`), and at two changes to their
+    English that are not from the scans: a paragraph on leaf 680 that the
+    English lacked, translated in session, and the tower sentence (two
+    weeks, entered twelve weeks from the decree; the English had twelve);
+  - two readings left with a doubt: the pond name "Garmin" (leaf 691) and
+    the name Krzeczkowski (leaf 709 verso);
   - **the editor's glossary of 89 terms** is not in the edition's glossary;
   - the era has no account of its own yet.
 

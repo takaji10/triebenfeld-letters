@@ -28,6 +28,9 @@ over:
   family seal]".
 - FIXES are the few places where the Polish was corrected against the scan
   (intake/corrections.py) and the English had to follow.
+- FIXES_FULL (fixes_full.py) are the changes that follow the full check of
+  all 122 pages: the dropped phrases restored, and one paragraph the
+  English lacked.
 """
 import glob
 import io
@@ -36,6 +39,9 @@ import re
 import sys
 
 import yaml
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from fixes_full import FIXES_FULL  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAW = r"J:\Documents\Archive\Genealogy\References\Poznań State Archives\Relationes-oblatae [protocollon] 1776 (53.17.0.-.Konin Gr.145)"
@@ -156,6 +162,16 @@ def build():
         if not lines[i]:
             del lines[i]
         nxt[:0] = moved
+    # What the full check of the Polish changes in the English (fixes_full.py).
+    # Searched through the whole text: the English page marks do not sit
+    # exactly where the Polish ones do. A fix may cross a paragraph.
+    for old, new, leaf, why in FIXES_FULL:
+        hits = [k for k, (pid, lines) in enumerate(pages) if old in '\n\n'.join(lines)]
+        assert len(hits) == 1, ('full-check fix, leaf %s: found on %d pages: %s' % (leaf, len(hits), old[:60]))
+        k = hits[0]
+        joined = '\n\n'.join(pages[k][1])
+        assert joined.count(old) == 1, (leaf, old[:60])
+        pages[k][1][:] = joined.replace(old, new).split('\n\n')
     return pages, notes
 
 

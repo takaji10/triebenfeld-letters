@@ -7,9 +7,14 @@
 # beside it for the words quoted. Page numbers are the document's own, 1 to
 # 122; the leaf is given where it helps.
 #
-# Result: 16 statements, all supported. One rests on the editor's note as well
+# Result: 18 statements, all supported. One rests on the editor's note as well
 # as on the text: that the settlement was not reached (the note to page 9 says
 # so; the text has the proposal and then the court sitting divided).
+# The statement on Stanisław Chełmski's sentence was rewritten on 2026-10-06,
+# after the full check restored the finding on the raid on the inn (page 111)
+# to the Polish, and was then checked like the rest. It gives the sitting in
+# the tower as two weeks: the Polish sets the day he is to enter it (twelve
+# weeks from the decree) and the length (two weeks).
 # Names in the edition's forms count as supported (Brześć Kujawski for "Castro
 # Brestensi Cujaviae", Łukomia, Trąbczyn for Trąpczyn).
 
@@ -28,5 +33,7 @@ app53170koningr145-001:
 - {claim: "das Gericht prüfte auch die Linie Chełmskis", verdict: supported, where: "pp. 52-72; p. 79: that whole boundary line, as at the starting point improperly begun"}
 - {claim: "es erkannte Prusimskis Grenzlinie als die bessere an und legte ihm auf, sie auf dem letzten Hügel mit sechs Zeugen zu beschwören", verdict: supported, where: "p. 86: approves, confirms, and adjudges to be the better ... orders the Honourable Prusimski to swear on the last and final mound heaped above, with six witnesses of equal birth"}
 - {claim: "es ließ zwischen Trąbczyn und Łukomia und zwischen Trąbczyn und Biskupice neue Grenzhügel aufwerfen", verdict: supported, where: "pp. 87-95: the wall mounds, each 'heaped'; p. 107 (leaf 707 verso): kopcu ostatnim narożnym nowo teraz ... wysypanym; narożnemu kopcowi nakazuje usypać"}
-- {claim: "Chełmski wurde zu Bußen an Prusimski verurteilt; die Fortsetzung der Grenze gegen Biskupice wurde auf den 21. Mai 1776 vertagt", verdict: supported, where: "p. 112: three hundred grzywien to the Honourable Prusimski; p. 113: fourteen grzywien; p. 121: half-double pledge and double pledge; p. 108: na dzień dwudziesty pierwszy maja w roku przyszłym ... siedemdziesiątym szóstym"}
+- {claim: "Stanisław Chełmski wurde wegen der Übergriffe auf Trąbczyner Grund und wegen eines bewaffneten Überfalls auf das Wirtshaus an der Landstraße, bei dem in das Haus geschossen und es angezündet wurde, zu zwei Wochen Turmhaft in Konin und zu Bußen an Prusimski verurteilt", verdict: supported, where: "p. 111: gwałtem osobiście sam z kilkudziesiąt ludzi strzelbą różną uzbrojonemi gościeniec ten najechawszy zaraz oknem do gościńca strzelać rozkazał ... gościeniec zapalono; p. 112: z racji gwałtownego najechania i strzelania oraz zapalenia gościńca ... zasiadł wieżą grodu Konińskiego za niedziel dwanaście od czasu dekretu teraźniejszego i toż siedzenie przez niedziel dwie kontynuował ... grzywien trzysta urodzonemu Prusimskiemu; p. 113: fourteen grzywien; p. 121: half-double pledge and double pledge"}
+- {claim: "dazu zu 8.000 polnischen Gulden für gefälltes Holz und andere Schäden", verdict: supported, where: "p. 112: osiem tysięcy złotych polskich dla urodzonego Prusimskiego; p. 113, the oath: for the felled pine forests and woodlands, and the drying out of various timber, and for other wrongs done to him"}
+- {claim: "die Fortsetzung der Grenze gegen Biskupice wurde auf den 21. Mai 1776 vertagt", verdict: supported, where: "p. 108: na dzień dwudziesty pierwszy maja w roku przyszłym ... siedemdziesiątym szóstym"}
 - {claim: "sechs Kommissare und der Kalischer Grenzvermesser Wojciech Czarnecki, der die Hügel aufwarf, unterzeichnen", verdict: supported, where: "p. 122: Dąmbski, Brzeziński, Stanisław Dąmbski, Kwilecki, Umiński, Gurczyński, each 'komisarz'; Wojciech Czarnecki komornik graniczny kaliski ... kopce sypiący"}

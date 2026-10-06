@@ -178,14 +178,24 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 
 - [x] Light touch, as you asked: four pages and the signatures read against
       the scans, 23 readings corrected, 93 dropped accents put right.
+- [ ] **You: look at the folds**, `review/app53170koningr145/folds/`: each
+      scan with the line it is cut at. Tell me any scan where the line
+      crosses writing.
 - [ ] **You: say when to publish it.** Built and verified here, committed
       locally, not pushed.
-- [ ] Check the other 117 pages for dropped phrases (you, 2026-10-06: yes),
-      and at the end list each one and say whether it matters to the
-      meaning; the English gets what was dropped. Planned, not started:
-      PRUSIMSKI_ERA_PLAN.md, section 1.
-- [ ] Put the fonds and its background, which you pasted, into the
-      holding's page (same plan, section 1).
+- [x] All 122 pages checked against the scans for dropped phrases
+      (2026-10-06): 27 found and restored, in the Polish and the English,
+      and 207 misread words corrected. Three of the dropped phrases change
+      what the record says the court found or did; the largest is the
+      court's finding on Chełmski's armed raid on the inn.
+- [ ] **You: read the sheet of dropped phrases**,
+      `review/app53170koningr145/dropped/`. Each has a verdict. Two things
+      on it are mine and want your eye: a paragraph on leaf 680 that your
+      English lacked, which I translated; and the tower sentence, where I
+      read two weeks in the tower, entered twelve weeks after the decree,
+      and your English had twelve weeks.
+- [x] The fonds and its background, which you pasted, are on the holding's
+      page in both languages.
 - [x] Your glossary of 89 terms: wait (you, 2026-10-06). Thoughts on
       keeping the glossary useful are in the plan, section 6.
 - [x] An account of the Prusimski era: wait until more documents are in

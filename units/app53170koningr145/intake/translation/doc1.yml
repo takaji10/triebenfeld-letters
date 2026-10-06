@@ -24,11 +24,10 @@ pages:
 
 
     To the office and present records of the Starost''s Municipal Court of Brest Kuyavia, appearing in
-    person, the Worthy Simon Szaunski presented to the office for prosecution, and submitted for enrollment
-    in the present records, a Commissorial Boundary Decree, setting forth in the first instance the estates
-    specified in the said decree, to be laid before the illustrious Right Honourable commissioners, sealed
-    with family seals, sound, intact, and unharmed, and free from any mark of suspicion, the tenor of
-    which decree follows and is as follows:
+    person, the Worthy Simon Szaunski presented to the present office for entry, and submitted for enrollment
+    in the present records, a Commissorial Boundary Decree between the estates specified in the said decree,
+    pronounced by the illustrious Right Honourable commissioners, sealed with family seals, sound, intact,
+    and unharmed, and free from any mark of suspicion, the tenor of which decree follows and is as follows:
 
 
     [Section 1: Commissorial Boundary Decree]
@@ -44,8 +43,9 @@ pages:
 
     which all three parties, during the three field inspections, namely both Honourable Chełmski brothers,
     at that time still joint heirs of Łukomia, appearing for their estates of Łukomia and Bukowe deserted
-    lands, and for the convent''s Drzewce — and for Drzewce and Trąbczyn Mały, for their own estates and
-    for Łukomia with rejection, and also Bukowe'
+    lands, and for the convent''s Drzewce, with rejection only of the estate of Trąbczyn from here — while
+    the heirs of Drzewce and Trąbczyn, for their own estates and for Łukomia, with rejection likewise
+    of the Bukowe'
   names: []
   numbers: []
   flagged: []
@@ -570,11 +570,11 @@ pages:
     likewise recommends the same:
 
 
-    this court therefore orders the Honourable Prusimski to submit and produce in court, in accordance
-    with the enacted constitution, the collateral citations of his corner neighbours and collateral parties.
-    The Honourable Prusimski, complying with the orders of his court, submitted the aforementioned citations,
-    issued both against the principal parties bordering his estates and against the collateral parties;
-    and upon their production and compliance with'
+    this court therefore orders the Honourable Prusimski, satisfying both the law of the Crown and the
+    enacted constitution, to submit and produce in court the collateral citations of his corner neighbours
+    and collateral parties. The Honourable Prusimski, complying with the orders of his court, submitted
+    the aforementioned citations, issued both against the principal parties bordering his estates and
+    against the collateral parties; and upon their production and compliance with'
   names: []
   numbers: []
   flagged: []
@@ -748,11 +748,11 @@ pages:
 
     In this same showing, the Honourable Prusimski also remonstrates to his court that the Honourable
     Chełmski — forming for himself both at the past three field sessions and now a boundary as though
-    between Drzewce and Łukomia, and as though from that corner mound consistently acknowledged at all
-    times during the three field sessions by the Convent, which the serfs from Drzewce present here below
-    named now also acknowledge — stretching to a second supposed corner mound at the head, that is at
-    the beginning, of the woodland called Ostrowce, near the Osiny road itself, established by him, through
-    fourteen mounds only:'
+    between Drzewce and Łukomia, and as though from that corner mound, formed by the Honourable Prusimski
+    before and now, and consistently acknowledged at all times during the three field sessions by the
+    Convent, which the serfs from Drzewce present here below named now also acknowledge — stretching to
+    a second supposed corner mound at the head, that is at the beginning, of the woodland called Ostrowce,
+    near the Osiny road itself, established by him, through fourteen mounds only:'
   names: []
   numbers: []
   flagged: []
@@ -938,7 +938,7 @@ pages:
   flagged: []
 - page: 22
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: 'with the Honourable Chełmski, it unfailingly acknowledged in this place together with him, and
     moreover the Convent itself, as to the Drzewce boundary with Łukomia, established and ran it from
     the Zagórów corner mound together with the Honourable Chełmski all the way to here, and proved this
@@ -952,14 +952,14 @@ pages:
 
 
     as likewise from Trąbczyn, ready to acknowledge it when questioned by their court — namely from Drzewce:
-    the labourers Tomasz and Kazimierz Czerniakowic, Tomasz and Fabian, Stefan Głąbik the juror, Jan Kuwal,
+    the labourers Tomasz and Kazimierz Czerniak, Tomasz and Fabian, Stefan Głąbik the juror, Jan Kuwal,
     Kazimierz Dąbek the wheelwright; from Trąbczyn: Szyman Boderek aged ninety-nine, Bartłomiej the Court
-    Summoner, Maci Wąchnicki the forester, Piotr, Szyman, [uncertain: narożnik], Wojciech Zelak — and
-    likewise the Honourable Józef Pawłowski, a nobleman raised here in the neighbourhood and serving with
-    the predecessors of the Honourable Chełmski — showing the pine forests and woodlands of each estate
-    separately, namely: the Łukomia pine forest lying to the west, to the right of the Zagórów road and
-    at the same time the Drzewce road, belonging to Łukomia from of old and thus long called and named;
-    and the Ostrowce woodland with pine forest'
+    Summoner, Maci Wąchnicki the forester, Piotr Szyman, Nadolnik, Wojciech Zelak — and likewise the Honourable
+    Józef Pawłowski, a nobleman raised here in the neighbourhood and serving with the predecessors of
+    the Honourable Chełmski — showing the pine forests and woodlands of each estate separately, namely:
+    the Łukomia pine forest lying to the west, to the right of the Zagórów road and at the same time the
+    Drzewce road, belonging to Łukomia from of old and thus long called and named; and the Ostrowce woodland
+    with pine forest'
   names: []
   numbers: []
   flagged: []
@@ -1004,7 +1004,8 @@ pages:
     corner mound is here and the three mounds are truly corner mounds — which he himself acknowledged
     at the three field sessions, with only the difference that he judged Bukowe in place of Trąbczyn —
     whereas the heirs of Drzewce and Trąbczyn, pushing back the estate of Bukowe as having no separate
-    boundaries but lying within the boundaries of Łukomia, Drzewce, and Trąbczyn, acknowledged it —
+    boundaries but lying within the boundaries of Łukomia, acknowledged them as not of Bukowe but only
+    of Łukomia, Drzewce, and Trąbczyn —
 
 
     and finally he himself acknowledged and confirmed the same convergence and his own boundary, run from
@@ -1080,12 +1081,12 @@ pages:
 - page: 27
   confidence: high
   marker_count: 0
-  en: 'as clergy, and contrary to all justice and the proofs — acting in the matter of the ruin and wrong
-    of the complainant with the Honourable Chełmski from the same platform, and wrongly revoking their
-    recognition as though made through ignorance of the documents which they had then and now — to the
-    scandal of secular persons — acknowledge that corner mound to the Honourable Chełmski, do not contest
-    or block it, and thereby both the said Convent and the Honourable Chełmski intend and are preparing
-    to appropriate the complainant''s proper ground and to deprive him of it to his detriment.
+  en: 'as clergy, and contrary to all justice and the proofs — acting in collusion with the Honourable
+    Chełmski to the ruin and wrong of the complainant, and wrongly revoking their recognition as though
+    made through ignorance of the documents which they had then and now — to the scandal of secular persons
+    — acknowledge that corner mound to the Honourable Chełmski, do not contest or block it, and thereby
+    both the said Convent and the Honourable Chełmski intend and are preparing to appropriate the complainant''s
+    proper ground and to deprive him of it to his detriment.
 
 
     And therefore by this their acknowledgement and recognition contrary to their former position they
@@ -1294,7 +1295,8 @@ pages:
     a few strips wide and one staj long newly cleared in the pine by a Łomowo serf, as he alleges — he
     came to a second cross road running from Łomowo and Łukomia to the Trąbczyn olędry and joining the
     first [road] towards the olędry — and crossing this he came to the fifth mound, larger than the others,
-    not very raised above the ground — holding it to be a boundary mound.
+    flat, having a small ditch round it and likewise a roundness, not very raised above the ground — holding
+    it to be a boundary mound.
 
 
     From there, going through very sparse pine forest not far, a greater or lesser distance of one and
@@ -1564,8 +1566,9 @@ pages:
 
     and these mounds, blazes, and the documents submitted above set forth that they were newly and freshly
     heaped and made, beginning from the corduroy crossings above the Lusnia woodland, on proper Trąbczyn
-    ground, to the considerable detriment and harm of Trąbczyn ground still extending considerably further.
-    Therefore the Honourable Prusimski says that since these mounds and blazes'
+    ground, to the considerable detriment and harm of Trąbczyn ground still extending considerably further,
+    and assert it — and these are actually found above the Lusnia woodland. Therefore the Honourable Prusimski
+    says that since these mounds and blazes'
   names: []
   numbers: []
   flagged: []
@@ -1577,24 +1580,25 @@ pages:
     lie, but also the ground between them and the Lusnia woodland, and finally the entire Lusnia woodland,
     Dziadulina, Miąsykąt, Ostrowce, and the stawisko or empty marshes — in short, the entire and complete
     ground and the olędry unjustly taken and claimed by the boundary line of the Honourable Chełmski and
-    lying within his boundary line — as enclosing and establishing the actual substance and ownership
-    of all these, and as they must necessarily and are Trąbczyn''s — sufficiently prove and set forth.
-    And finally not only these themselves prove the ownership and substance of the grounds and woodlands
-    expressed above, but also demonstrate more broadly still, in breadth and in length, the extent of
-    his Trąbczyn grounds and pine forests, and likewise the further continuation of the boundary line
-    and boundary with Łukomia or Łomowo — halted opposite these mounds on the Kalisz road — and which
-    must extend all the way to Studzienka and the hills and tavern bogs to the corner mound there established.
-    And moreover the Honourable Prusimski says that these mounds and blazes not only assert and confirm
-    everything expressed above, but finally approve and corroborate the whole boundary line run to the
-    place described above in its entirety, and likewise everything within the boundary line his — and
-    assert and acknowledge his whole boundary line as accurate and good, confirmed by documents both written
-    and on the ground by mounds and blazes, and likewise by long-standing use — while on the contrary,
-    taking those same mounds and blazes, they overturn and rebuke the entire and general boundary line
-    of the Honourable Chełmski as contrary to those mounds and blazes, and as formed and marked through
-    the proper grounds, pine forests, and woodlands and the stawisko, that is the empty marshes of Trąbczyn
-    — and likewise his corner mounds established and formed on Trąbczyn ground, and the grounds wrongly
-    appropriated by him to himself and his reaching to Biskupice, and likewise the judicial site inspection
-    of 1592 as contrary in all respects to these mounds, proofs, and documents submitted above and below.
+    lying within his boundary line — as enclosing and taking in all this, openly vindicate and prove it
+    for Trąbczyn — and the actual substance and ownership of all these, and as they must necessarily and
+    are Trąbczyn''s — sufficiently prove and set forth. And finally not only these themselves prove the
+    ownership and substance of the grounds and woodlands expressed above, but also demonstrate more broadly
+    still, in breadth and in length, the extent of his Trąbczyn grounds and pine forests, and likewise
+    the further continuation of the boundary line and boundary with Łukomia or Łomowo — halted opposite
+    these mounds on the Kalisz road — and which must extend all the way to Studzienka and the hills and
+    tavern bogs to the corner mound there established. And moreover the Honourable Prusimski says that
+    these mounds and blazes not only assert and confirm everything expressed above, but finally approve
+    and corroborate the whole boundary line run to the place described above in its entirety, and likewise
+    everything within the boundary line his — and assert and acknowledge his whole boundary line as accurate
+    and good, confirmed by documents both written and on the ground by mounds and blazes, and likewise
+    by long-standing use — while on the contrary, taking those same mounds and blazes, they overturn and
+    rebuke the entire and general boundary line of the Honourable Chełmski as contrary to those mounds
+    and blazes, and as formed and marked through the proper grounds, pine forests, and woodlands and the
+    stawisko, that is the empty marshes of Trąbczyn — and likewise his corner mounds established and formed
+    on Trąbczyn ground, and the grounds wrongly appropriated by him to himself and his reaching to Biskupice,
+    and likewise the judicial site inspection of 1592 as contrary in all respects to these mounds, proofs,
+    and documents submitted above and below.
 
 
     And finally, that the Honourable Chełmski through'
@@ -1641,16 +1645,17 @@ pages:
     if it were granted from the outset, even if it had been conducted by Wojciech Trąbczyński himself
     and attested at his instance — it is not fitting: for Wojciech Trąbczyński at that time was not alone
     heir of all of Trąbczyn, but together with his four nephews, heir of Trąbczyn, that is the whole Trąbczyński
-    estate — as the judicial site inspection itself shows. When this judicial site inspection was conducted
-    in 1589, that Wojciech Trąbczyński was at that time guardian of his four nephews; then, having ceased
-    to be guardian of those his nephews, he at once began a lawsuit with them in 1591 — and so while that
-    lawsuit was ongoing between them, only then the attestation of this judicial site inspection in 1592
-    in the Konin municipal court to the detriment of his nephews and his own wards — and possibly by prearrangement
-    and previously arranged [arrangement] with the heirs of Łukomia as well — took place. For the said
-    Wojciech Trąbczyński, having a lawsuit with them concerning the flooding of the Trąbczyn and Osiny
-    grounds, pine forests, and woodlands, having obtained a decree against the heirs of Łukomia ordering
-    an oath or rather a swearing-off of the damages — as attested by the Konin land court decree of 1595
-    — limited that same oath for six years.
+    estate — as the judicial site inspection itself shows, since it is attested only for his portion.
+    And moreover, when this judicial site inspection was conducted in 1589, that Wojciech Trąbczyński
+    was at that time guardian of his four nephews; then, having ceased to be guardian of those his nephews,
+    he at once began a lawsuit with them in 1591 — and so while that lawsuit was ongoing between them,
+    only then the attestation of this judicial site inspection in 1592 in the Konin municipal court to
+    the detriment of his nephews and his own wards — and possibly by prearrangement and previously arranged
+    [arrangement] with the heirs of Łukomia as well — took place. For the said Wojciech Trąbczyński, having
+    a lawsuit with them concerning the flooding of the Trąbczyn and Osiny grounds, pine forests, and woodlands,
+    having obtained a decree against the heirs of Łukomia ordering an oath or rather a swearing-off of
+    the damages — as attested by the Konin land court decree of 1595 — limited that same oath for six
+    years.
 
 
     And therefore, since this judicial site inspection was made and conducted in such a manner — by an
@@ -1908,6 +1913,16 @@ pages:
     on the Starting Point]
 
 
+    And so the Honourable Prusimski, having taken his stand at the corner mound in the place where the
+    Honourable Chełmski establishes his corner mound — that is, at the head, or beginning, of the woodland
+    called Ostrowce, at the Osiny road itself, which runs between the two mounds, supposedly corner mounds
+    of the Honourable Chełmski but in fact Drzewce and Trąbczyn wall mounds — and having led his court
+    out onto that road toward Osiny, showed his court that this road comes not from Trąbczyn but from
+    Osiny, and falls into the Zagórów road a few staj from here, and then also crosses the Zagórów road
+    below the hill and goes by way of Łukom to Pyzdry — as the past decrees, one of 1759 and the other
+    of 1760, submitted and described in the boundary line, also express.
+
+
     And that this road between Trąbczyn, Drzewce, Łukomia, Wrąbczyn, and Zagórów, as the judicial site
     inspection states, can by no means go and does not go in any way other than as immediately described
     to his court — this he submitted and in that name protested. And likewise he showed his court the
@@ -2086,16 +2101,18 @@ pages:
     And so the stawisko and the other woodlands — Ostrowce, Miąsykąt, Dziadulina — and likewise the olędry,
     meadows, and fields have been wrongly taken from Trąbczyn by the boundary line and corner mounds of
     the Honourable Chełmski, contrary to all counter-proofs and proofs formed and run; and likewise the
-    corner mounds — the first at the Ostrowce woodland and the Osiny road, acknowledged by the heir of
-    Biskupice by prearranged arrangement — are acknowledged unjustly and dishonestly. Concerning all this
-    and in respect of all this — and concerning the unjust and unlawful acknowledgement of corner mounds
-    to him, both at the starting point and at the terminal point — and likewise concerning the invalidity
-    of the corner mounds and their acknowledgement, and of the entire boundary line of the Honourable
-    Chełmski as run, and of the judicial site inspection of 1592 as attested — as contrary to all proofs,
-    law, and justice, and to the terminality of the law — against the Honourable Chełmski, Gałecki, Starost
-    of Bydgoszcz, heir of Biskupice, and likewise against the Ląd Convent, heirs of Drzewce — unjustly
-    acknowledging corner mounds also contrary to their former acknowledgements and documents to the Honourable
-    Chełmski — the Honourable Prusimski protests and complains most solemnly before his court.'
+    corner mounds — the first at the Ostrowce woodland and the Osiny road, acknowledged to him by the
+    Convent, and the second at the Lusnia woodland by the heir of Biskupice, by prearranged arrangement
+    — are acknowledged unjustly and dishonestly. Concerning all this and in respect of all this — and
+    concerning the unjust and unlawful acknowledgement of corner mounds to him, both at the starting point
+    and at the terminal point — and likewise concerning the invalidity of the corner mounds and their
+    acknowledgement, and of the entire boundary line of the Honourable Chełmski, formed and marked out
+    through Trąbczyn''s own ground, and of the judicial site inspection of 1592 as attested — as contrary
+    to all proofs, law, and justice, and to the terminality of the law — against the Honourable Chełmski,
+    Gałecki, Starost of Bydgoszcz, heir of Biskupice, and likewise against the Ląd Convent, heirs of Drzewce
+    — unjustly acknowledging corner mounds also contrary to their former acknowledgements and documents
+    to the Honourable Chełmski — the Honourable Prusimski protests and complains most solemnly before
+    his court.'
   names: []
   numbers: []
   flagged: []
@@ -2148,8 +2165,8 @@ pages:
     that mound, beginning again his boundary between Trąbczyn Wielki or the deserted [lands] Drzęzgi and
     Biskupice or the deserted lands of Bystrzyce, he went further along that same beaten Jarocin road
     east one staj, and came about one staj to the very bank of Czarny Bród — where the court, unable to
-    conclude this boundary due to excessively high water, proceeded with further actions on the boundary
-    lines already run.'
+    conclude this boundary due to excessively high water, suspended the further boundary line in it and
+    meanwhile proceeded to further actions on the boundary lines already run.'
   names: []
   numbers: []
   flagged: []
@@ -2178,10 +2195,10 @@ pages:
     Prusimski to take an oath in this formula:
 
 
-    "That the witnesses whom I shall introduce for this sworn inquiry I have neither suborned nor bribed
-    — by anyone or by myself — nor have I engaged them in any other improper manner to the detriment of
-    my neighbour, and I shall not suborn, bribe, or engage them — so help me God and the innocent Passion
-    of His Son."
+    "That the witnesses whom I shall introduce for this sworn inquiry I have neither suborned, nor hired,
+    nor bribed — by anyone or by myself — nor have I engaged them in any other improper manner to the
+    detriment of my neighbour, and I shall not suborn, bribe, or engage them — so help me God and the
+    innocent Passion of His Son."
 
 
     For the proclamation of that oath,'
@@ -2287,9 +2304,9 @@ pages:
 
 
     And finally it is still further proved to his court by the partition of the sixth October 1693 in
-    Trąbczyn, between Andrzej, Jan, and Władysław Trąbczyński, concerning the division, extracted from
-    the Pyzdry municipal court — that in that year too there was divided ownership in Trąbczyn. And that
-    this divided ownership only then — as attested by the'
+    Trąbczyn, between Andrzej, Jan, and Władysław Trąbczyński, concerning the division of Trąbczyn, Nowa
+    Wieś, Osiny, and Łazy, extracted from the Pyzdry municipal court — that in that year too there was
+    divided ownership in Trąbczyn. And that this divided ownership only then — as attested by the'
   names: []
   numbers: []
   flagged: []
@@ -2565,21 +2582,22 @@ pages:
   marker_count: 0
   en: 'of the sixth October 1693, between Andrzej, Jan, and Władysław Trąbczyński, heirs of Trąbczyn with
     appurtenances, dated and made in Trąbczyn and extracted from the Pyzdry municipal court — by which
-    the Trąbczyński, dividing the estates, reserve to themselves the remaining ponds or rather empty marshes
-    for common fishing, and likewise the flat marshes overgrown with clumps for common use, and likewise
-    that meadows which serfs have long mown should not be taken from them — prove that this stawisko,
-    or rather the empty marshes from that pond depleted over time, belonged from of old to Trąbczyn and
-    Trąbczyn used them, and the serfs — especially from Nowa Wieś and Osiny — had meadows on that stawisko
-    and mowed them; and the grandfather or great-grandfather of the Honourable Chełmski (who once came
-    upon a serf mowing right below the dam itself) did not forbid it and said nothing to him — and indeed,
-    having spoken with him there, rode away. And moreover the four decrees of 1589 expressed above attest
-    this, and the oath ordered by the Konin land court upon the late Tomasz Łukomski, heir of Łukomia
-    — limited for six years in 1595 by the Honourable Wojciech Trąbczyński and thereafter not prosecuted
-    — that the flooding was made and caused on the Trąbczyn Wielki and Mały and Osiny estate by the pond
-    newly built with a dam below the stawisko [i.e., to the west of the stawisko] toward Łukomia on the
-    Łukomia estate by the heirs of Łukomia — and that that flooding was nowhere else but on that stawisko
-    and on those empty marshes — especially since not a little timber, both standing and fallen and dried
-    out, is present on that stawisko.
+    the Honourables Trąbczyński, dividing the Trąbczyn estate, besides the ponds Garmin and Likerowa,
+    reserve to themselves the remaining ponds or rather empty marshes for common fishing, and likewise
+    the flat marshes overgrown with clumps for common use, and likewise that meadows which serfs have
+    long mown should not be taken from them — prove that this stawisko, or rather the empty marshes from
+    that pond depleted over time, belonged from of old to Trąbczyn and Trąbczyn used them, and the serfs
+    — especially from Nowa Wieś and Osiny — had meadows on that stawisko and mowed them; and the grandfather
+    or great-grandfather of the Honourable Chełmski (who once came upon a serf mowing right below the
+    dam itself) did not forbid it and said nothing to him — and indeed, having spoken with him there,
+    rode away. And moreover the four decrees of 1589 expressed above attest this, and the oath ordered
+    by the Konin land court upon the late Tomasz Łukomski, heir of Łukomia — limited for six years in
+    1595 by the Honourable Wojciech Trąbczyński and thereafter not prosecuted — concerning the flooding
+    of grounds, meadows, and pastures and the drying-out of timber, made and caused on the Trąbczyn Wielki
+    and Mały and Osiny estate by the pond newly built with a dam below the stawisko [i.e., to the west
+    of the stawisko] toward Łukomia on the Łukomia estate by the heirs of Łukomia — and that that flooding
+    was nowhere else but on that stawisko and on those empty marshes — especially since not a little timber,
+    both standing and fallen and dried out, is present on that stawisko.
 
 
     And moreover that the stawisko or marshes stretch for nearly a mile past Osiny all the way to Czarny
@@ -2596,18 +2614,19 @@ pages:
     the duck bogs — and these too, as the sworn inquiry plainly sets forth, were used to Trąbczyn and
     Łukom did not use or forbid them. And moreover the Honourable Chełmski has below that stawisko [i.e.,
     to the west of it] toward Łukomia a pond — sufficiently large and long — worked on those same marshes
-    on the other side of the Kalisz road, likewise in pine, and, as it is overgrown with clumps and various
-    trees and has only a mill race cut before the mill below the dam, on which pond is a mill and the
-    dam is well made, two staj long, high, and wide — and that pond, having been newly contrived on the
-    marshes, is called the new pond. And it is by that pond and dam, and by holding the water so high,
-    that the flooding of that same stawisko — and of the meadows, pastures, and timber upon it — was caused.
-    Under the pretext of that pond — which the Łukomia heir still has to this day — the heirs of Łukomia,
-    that is the father or grandfather of the Honourable Chełmski, began to encroach upon the said stawisko;
-    and so on it first built a dam of clay and then of timber in the manner of a small weir or sluice
-    in the very middle of the dam — holding back the water so that too much should not go wastefully to
-    his mill — and thereafter encroached also for the meadows. But the heirs of Trąbczyn, that is the
-    predecessors of the Honourable Prusimski — as attested by the numerous judicial site inspections and
-    protests and the decree of 1728 and other acts — resisted and disputed this.
+    on the other side of the Kalisz road, likewise in pine; and, as it is made out of the same kind of
+    marshes as this stawisko, so it is overgrown with clumps and various trees and has only a mill race
+    cut before the mill below the dam, on which pond is a mill and the dam is well made, two staj long,
+    high, and wide — and that pond, having been newly contrived on the marshes, is called the new pond.
+    And it is by that pond and dam, and by holding the water so high, that the flooding of that same stawisko
+    — and of the meadows, pastures, and timber upon it — was caused. Under the pretext of that pond —
+    which the Łukomia heir still has to this day — the heirs of Łukomia, that is the father or grandfather
+    of the Honourable Chełmski, began to encroach upon the said stawisko; and so on it first built a dam
+    of clay and then of timber in the manner of a small weir or sluice in the very middle of the dam —
+    holding back the water so that too much should not go wastefully to his mill — and thereafter encroached
+    also for the meadows. But the heirs of Trąbczyn, that is the predecessors of the Honourable Prusimski
+    — as attested by the numerous judicial site inspections and protests and the decree of 1728 and other
+    acts — resisted and disputed this.
 
 
     And moreover'
@@ -2672,27 +2691,29 @@ pages:
   confidence: high
   marker_count: 0
   en: 'predecessor of the Honourable Chełmski, having at that time better knowledge than now, acknowledged
-    the Kalisz road and did not deny it. As to the further boundary line in this boundary above the duck
-    bogs [i.e., to the north of the duck bogs] — as expressed above, these belong and belonged to Trąbczyn
-    and Trąbczyn used them up to the time of the delivery of possession. And moreover the forked pine
-    is stated to stand on an actual mound and the mound under it is to be found there. And moreover the
-    sworn inquiries assert and show the further boundary line in that boundary and its continuity — and
-    weighing the continuity — since not only the sworn inquiries but also the documents expressed above
-    in the boundary line, namely the proceedings and decrees and the oath with the heirs of Biskupice
-    concerning the private nocturnal heaping of eight mounds and the making of forty-one blazes on trees,
-    attest that the eight mounds called Cygany are heaped privately and by night on Trąbczyn ground, at
-    no small expense and detriment to the Trąbczyn ground — but the mounds, taking from the first, lying
-    about one and a half staj from the boundary line of the Honourable Prusimski and the Kalisz road beside
-    it, and the Lusnia woodland enclose and show still more of the further boundary line and continuity
-    of the Trąbczyn boundary and ground, and repel the boundary line of the Honourable Chełmski.
+    the Kalisz road and did not deny it. As to the further boundary line in this boundary, running above
+    the duck bogs [i.e., to the north of the duck bogs] — since it is shown that the duck bogs, as expressed
+    above, belong and belonged to Trąbczyn and Trąbczyn used them up to the time of the delivery of possession.
+    And moreover the forked pine is stated to stand on an actual mound and the mound under it is to be
+    found there. And moreover the sworn inquiries assert and show the further boundary line in that boundary
+    and its continuity — and weighing the continuity — since not only the sworn inquiries but also the
+    documents expressed above in the boundary line, namely the proceedings and decrees and the oath with
+    the heirs of Biskupice concerning the private nocturnal heaping of eight mounds and the making of
+    forty-one blazes on trees, attest that the eight mounds called Cygany are heaped privately and by
+    night on Trąbczyn ground, at no small expense and detriment to the Trąbczyn ground — but the mounds,
+    taking from the first, lying about one and a half staj from the boundary line of the Honourable Prusimski
+    and the Kalisz road beside it, and the Lusnia woodland enclose and show still more of the further
+    boundary line and continuity of the Trąbczyn boundary and ground, and repel the boundary line of the
+    Honourable Chełmski.
 
 
     And finally, since the corner mound or confluence of the three estates — Trąbczyn, Łukomia, and Biskupice
-    — and the determination of the terminal point as to this boundary, at Studzienka — and moreover that
-    Studzienka itself, faced with brick and demolished by the Honourable Chełmski so that people going
-    on pilgrimage to Zagórów, not finding water in that well, might resort to his inn — which nonetheless
-    still exists, though without facingwork — and likewise the cross on the pine opposite that Studzienka,
-    above the very road, and likewise three corner mounds said to be there,'
+    — and the determination of the terminal point as to this boundary, at Studzienka and the tavern hills
+    and bogs lying by that Studzienka — and moreover that Studzienka itself, faced with brick and demolished
+    by the Honourable Chełmski so that people going on pilgrimage to Zagórów, not finding water in that
+    well, might resort to his inn — which nonetheless still exists, though without facingwork — and likewise
+    the cross on the pine opposite that Studzienka, above the very road, and likewise three corner mounds
+    said to be there,'
   names: []
   numbers: []
   flagged: []
@@ -2784,9 +2805,9 @@ pages:
     woodland and the mounds and blazes, together with the entire Lusnia woodland, and likewise that on
     which the mounds and blazes stand — and still further, in breadth and in length beyond the mounds
     — has without question been used; and it is thus openly and demonstrably apparent that neither the
-    Honourable Chełmski nor the heir of Biskupice can or should have their convergence here in this place
-    above the Lusnia woodland [i.e., to the north of it] as they claim, pursuant to the judicial site
-    inspection mentioned so many times.
+    Honourable Chełmski a corner mound, nor the Honourable Gałecki, Starost of Bydgoszcz, heir of Biskupice,
+    his convergence, can or should have here in this place above the Lusnia woodland [i.e., to the north
+    of it] as they claim, pursuant to the judicial site inspection mentioned so many times.
 
 
     For if the corner mound and convergence of the Biskupice estates were to be found here in this place,
@@ -2873,7 +2894,7 @@ pages:
     unable to establish new boundaries against them — not regarding it,
 
 
-    and on the contrary dismissing and setting aside it as unlawful and irregular, condemned by law itself
+    and on the contrary dismissing and setting aside it as unlawful and invalid, condemned by law itself
     — it dismisses and sets aside the boundary line of the Honourable Chełmski: both as to the corner
     mound at the starting point, already resolved, and as to the wall and the terminal point — as run
     through his own proper ground, pine forests, woodlands, the stawisko or empty marshes, likewise not
@@ -3066,8 +3087,8 @@ pages:
 
 
     The twenty-first wall mound to the left of that same Kalisz road and to the right of the second road
-    from Łomowo to Królikowo, beyond the drainage strip touching the Kalisz road at its end — not far,
-    twenty-five pręty — heaped.
+    from Łomowo to Królikowo, beyond the drainage strip touching the Kalisz road at its end — not far
+    from the new Łomowo clearings, on which the stumps still stand, twenty-five pręty — heaped.
 
 
     The twenty-second wall mound to the right of the Kalisz road beside the very Kalisz ford — likewise
@@ -3245,7 +3266,7 @@ pages:
   marker_count: 0
   en: 'The Honourable Prusimski, complying therewith both with the Crown law and with the sentence of
     his court, performed that oath with six witnesses possessing their own estates — namely the Honourables
-    Józef Pawłowski, Antoni Lipiński, Stefan Waliszewski, Jan Zalanowski, Jan Bagiński, and Piotr Makowiecki
+    Józef Pawłowski, Antoni Lipiński, Stefan Waliszewski, Jan Zdanowski, Jan Bagiński, and Piotr Makowiecki
     — on the image of Christ the Lord crucified, in the formula described above, on the last final (axialny)
     Trąbczyn mound, in the presence of many worthy persons.
 
@@ -3312,16 +3333,17 @@ pages:
   confidence: high
   marker_count: 0
   en: And so those mounds and blazes themselves show the further continuity and breadth of the Trąbczyn
-    ground — taking it from the Kalisz road and past those mounds and blazes toward the corduroy crossings,
-    as shown from the sworn inquiry not far from Czarny Bród, from which the blazes and mounds began to
-    be heaped there toward the corduroy crossings; and further toward the Biskupice corner mound with
-    Trąbczyn and Łazy — lying one staj from Czarny Bród beside the beaten road from Szetlewek to Jarocin
-    — and to that same corner mound and to Czarny Bród it is shown from the sworn inquiry to reach. And
-    as to the other side — the breadth of that Trąbczyn ground to the south of those mounds — although
-    the Honourable Prusimski does not prove in his court by any documents to which estate it extends and
-    with which estate it meets there — nor the judicial site inspection upon those mounds and blazes ordered
-    by the Tribunal decrees, from which the last Tribunal decree of 1646, ordering the performance of
-    the enjoined oath, issued; nor the second judicial site inspection of
+    ground — and this continuity of the Trąbczyn ground, taking it from the Kalisz road and past those
+    mounds and blazes toward the corduroy crossings, as shown from the sworn inquiry not far from Czarny
+    Bród, from which the blazes and mounds began to be heaped there toward the corduroy crossings; and
+    further toward the Biskupice corner mound with Trąbczyn and Łazy — lying one staj from Czarny Bród
+    beside the beaten road from Szetlewek to Jarocin — and to that same corner mound and to Czarny Bród
+    it is shown from the sworn inquiry to reach. And as to the other side — the breadth of that Trąbczyn
+    ground to the south of those mounds — although the Honourable Prusimski does not prove in his court
+    by any documents to which estate it extends and with which estate it meets there — nor the judicial
+    site inspection upon those mounds and blazes ordered by the Tribunal decrees, from which the last
+    Tribunal decree of 1646, ordering the performance of the enjoined oath, issued; nor the second judicial
+    site inspection of
   names: []
   numbers: []
   flagged: []
@@ -3590,12 +3612,13 @@ pages:
 
 
     After the conclusion of the demarcation of the above-mentioned estates and their boundaries, the present
-    commission court — resolving its suspension concerning the transgressions committed with the Honourable
-    Chełmski expressed above — first finds a sworn inquiry to be necessary, ordering the Honourable Prusimski
-    to draw up the interrogatories in that matter, sign them, and submit them to his court for the hearing
-    of witnesses; and to introduce into it witnesses not involved in this matter, credible, and — having
-    first sworn the preceding oath of non-subornation — trustworthy. The Honourable Prusimski, complying
-    with his court''s sentence, drew up, signed, and submitted the interrogatories to his court.'
+    commission court — resolving its suspension, made above, concerning the transgressions and the revenues
+    arising from the ground now bounded off, and likewise concerning the claims and the delivery of possession,
+    with the Honourable Chełmski — first finds a sworn inquiry to be necessary, ordering the Honourable
+    Prusimski to draw up the interrogatories in that matter, sign them, and submit them to his court for
+    the hearing of witnesses; and to introduce into it witnesses not involved in this matter, credible,
+    and — having first sworn the preceding oath of non-subornation — trustworthy. The Honourable Prusimski,
+    complying with his court''s sentence, drew up, signed, and submitted the interrogatories to his court.'
   names: []
   numbers: []
   flagged: []
@@ -3656,8 +3679,13 @@ pages:
     received the olędry and the inn through the delivery of possession — and moreover as will be expressed
     below, contrary to the statute law on boundaries and by an unlawful proceeding — when the Honourable
     Prusimski, obstructing at least that unlawful possession of the inn, had settled his own people in
-    that inn, the Honourable Chełmski cried out to beat, kill, and shoot [them]; and likewise ordered
-    all the items in the inn, expressed in the register submitted to his court by the Honourable Starost
+    that inn, the Honourable Chełmski — proceeding in this against the law, and taking no step at law,
+    but by force, in person, with several dozen men armed with firearms of various kinds, having ridden
+    upon that inn — at once ordered shooting through the window into the inn; and a nobleman, the Honourable
+    Krzeczkowski, was very nearly killed, and had his heel shot off; and moreover the inn was set on fire,
+    and was barely saved after the flight of the men on the Honourable Chełmski''s own side. During which
+    attack the Honourable Chełmski himself cried out to beat, kill, and shoot; and likewise ordered all
+    the items there in the inn, expressed in the register submitted to his court by the Honourable Starost
     of Niszczewice with his own signature and signed by the commission President, to be seized — and did
     not surrender them to the [municipal court] chancery.
 
@@ -3680,13 +3708,13 @@ pages:
     —
 
 
-    it finds and orders that the said Honourable Chełmski shall sit in the tower of the Konin municipal
-    court for twelve weeks from the time of the present decree, and shall continue that sitting for two
-    weeks consecutively; and upon leaving the tower shall pay and count out — four starost''s pledges
-    also in respect of the offence committed by his father, and separately for the unlawful use of firearms
-    three hundred grzywien — to the Honourable Prusimski or his authorised plenipotentiary in the Konin
-    municipal court, under outlawry in case of non-compliance with that decree, to be followed by the
-    manifest there lodged at that same court.
+    it finds and orders that the said Honourable Chełmski shall take his seat in the tower of the Konin
+    municipal court twelve weeks from the time of the present decree, and shall continue that sitting
+    for two weeks consecutively; and upon leaving the tower shall pay and count out — four starost''s
+    pledges also in respect of the offence committed by his father, and separately for the unlawful use
+    of firearms three hundred grzywien — to the Honourable Prusimski or his authorised plenipotentiary
+    in the Konin municipal court, under outlawry in case of non-compliance with that decree, to be followed
+    by the manifest there lodged at that same court.
 
 
     As to the damages caused by the flooding — of pine forests felled both to the glassworks and for buildings,
@@ -3778,7 +3806,7 @@ pages:
 
 
     As to the lawfulness of the delivery of possession and the proceeding — although the first default
-    judgement of 1761 on Monday after Saint Bartholomew the Apostle, subsequently [obtained] on the late
+    judgement of 1761 on Monday after Saint Bartholomew the Apostle, in the field, [obtained] on the late
     Honourable Antoni Prusimski, uncle of the present plaintiff — after the filed court appearance and
     withdrawal from it, with the hand-pledge adjournment made by him with the Honourables Chełmski brothers
     on the twenty-second April in Trąbczyn of that same year 1761, past the nephew who is the present

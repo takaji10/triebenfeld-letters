@@ -131,7 +131,7 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 20
+  docs: 21
 - id: "morgen"
   kind: "money"
   lang: "de"

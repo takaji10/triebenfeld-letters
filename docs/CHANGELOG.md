@@ -1750,6 +1750,23 @@ lose his estates. The era page writes Konotop, not Kontop.
   drafts", which was also out of date (56 of its entries are checked), and an unchecked entry
   now reads "to be checked against" its reference work, without the word "draft".
 
+- **APP 53/17/0/-/Konin Gr.145 checked in full** (2026-10-06). The editor asked for the whole
+  text to be checked for dropped phrases. All 122 pages were read against the scans: 233
+  passages corrected, 26 of them places where the transcription lacked words that stand on
+  the scan (27 with the one found before), the rest misread words that change a meaning.
+  Three of the dropped phrases change what the record says the court found or did; the
+  largest, about sixty words on leaf 709 verso, is the court's finding that Chełmski raided
+  the inn with armed men. The English, which is the editor's, already had the right sense in
+  most places and was changed in 32: 24 to add what had been dropped, seven where it had
+  followed a misread word, and one where it read the Polish differently (two weeks in the
+  tower, not twelve). One paragraph on leaf 680 which the English lacked was translated in
+  session. The summary's sentence on Chełmski's sentence was rewritten and checked (18
+  statements). The fonds and the archive's account of the castle court are on the holding's
+  page. The folds the scans are cut at were found again, after the first ones proved to cut
+  the line ends of left pages, and wait for the editor's approval
+  (`review/app53170koningr145/folds/`). The dropped phrases are on a sheet for the editor
+  (`review/app53170koningr145/dropped/`). Not published.
+
 - **APP 53/17/0/-/Konin Gr.145 added** (2026-10-06), the first holding of the Prusimski era:
   the decree of the commission that the Polish parliament appointed in 1774 to settle the
   boundary between Antoni Prusimski's Trąbczyn and the Chełmski brothers' Łukomia. It sat on

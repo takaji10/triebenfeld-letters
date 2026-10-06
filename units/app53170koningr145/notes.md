@@ -10,18 +10,26 @@ editor, 2026-10-06, "from the Prusimski era. It's not related to Hohenlohe."
 
 ## Provenance
 
-Archiwum Państwowe w Poznaniu, fonds 53/17, "Konin Gr. 145": a volume the
-editor's folder calls "Relationes-oblatae [protocollon] 1776". The archive's
-page for the unit (szukajwarchiwach.gov.pl, unit 982231) could not be opened
-from here: the site refuses automated access. What is said of the volume
-comes from the editor's files and the scans. **If the archive's description
-says more (the fonds' name, the volume's extent), it should be added.**
+Archiwum Państwowe w Poznaniu, fonds 53/17, "Księgi sądu i urzędu grodzkiego
+w Koninie" (books of the castle court and castle office of Konin), unit
+"Konin Gr. 145": a volume the editor's folder calls "Relationes-oblatae
+[protocollon] 1776". The archive's page for the unit (szukajwarchiwach.gov.pl,
+unit 982231) cannot be opened from here: the site refuses automated access.
+The editor pasted the fonds' name and the archive's account of the castle
+court on 2026-10-06; it is given, in English and German, in `about.md` and
+`about_de.md` under the historical background, and the name is in `unit.yml`
+(`fonds:`).
 
 - **Scans.** 62, `654.jpg` to `715.jpg`, each an opening, named after the
   leaf on its right. Scan 673 shows leaf 672 verso and leaf 673 recto.
 - **Pages.** `intake/build_pages.py --crop` cuts each at the fold, which it
-  records per scan (found by the darkest column near the middle, checked on
-  contact sheets). `<scan>_a1` is the left page, `<scan>_a2` the right. Two
+  records per scan. The first folds, taken at the darkest column near the
+  middle, stood 60 to 170 pixels left of the gutter on most scans and cut
+  the line ends of the left pages; they were found again as the thin dark
+  line of the gutter itself, and each page keeps 30 pixels beyond it.
+  **The editor approves the folds** on `review/app53170koningr145/folds/`
+  (`intake/fold_sheet.py`) before the holding is published.
+  `<scan>_a1` is the left page, `<scan>_a2` the right. Two
   halves are cut and not staged, kept in `processed/_not_staged/`: `0654_a1`
   (the end of another entry, Zakrzewski, dated at Konin 15 November 1776) and
   `0655_a1` (leaf 654 verso, blank and crossed through).
@@ -65,9 +73,42 @@ caveat, after reading pages word for word against the scans:
   page, and 93 accents put right through the whole text without the scans
   (non-words only, where the transcription itself has the right form many
   times). Logged in `transcription_decisions.csv`.
-- **Not done:** the other 117 pages were not compared with the scans. More
-  dropped phrases are likely. A full check means reading every page (three
-  enlarged strips a page); it can be done in stages if the editor wants it.
+
+## The full check (2026-10-06)
+
+The editor: "we should check for dropped phrases, and in the end I want you
+to highlight them for me and tell me if they are significant to the meaning
+of the text or not. You can update the English translations with anything
+that was dropped."
+
+- **All 122 pages read against the scans** (`intake/full_check_pages.txt`),
+  each as two enlarged halves. **233 findings** in
+  `intake/full_check_rows.py`, applied once by `intake/corrections_full.py
+  --write` and logged in `transcription_decisions.csv`. Do not run it, or
+  `build_pages.py --write`, or `corrections.py --write`, again.
+- **26 dropped phrases** (27 with the one of the light check), from one word
+  to about sixty. Nearly all were skipped between two occurrences of the
+  same word. **207 misread words** that change a meaning. Spelling slips
+  that change nothing were not collected.
+- By weight: 7 bear on what the court found or ordered, 58 add or correct a
+  fact, 168 are legal wording. The largest: about sixty words on leaf 709
+  verso, the court's finding that Chełmski raided the inn with armed men,
+  had shots fired into it, and that it was set on fire.
+- **The English was mostly right where the Polish had slipped.** It needed
+  32 changes (`intake/translation/fixes_full.py`): 24 for dropped phrases,
+  7 where it had followed a misread word, and one that is mine, not from the
+  check: the tower. The Polish has Chełmski enter the tower twelve weeks
+  from the decree and sit two weeks; the English read twelve weeks' sitting.
+- **The English had dropped a paragraph of its own**: about a hundred Polish
+  words at the head of leaf 680 (the start of the editor's section 5) had no
+  English. Translated from the Polish in the editor's terms; the process
+  page says so.
+- **The sheet for the editor**: `review/app53170koningr145/dropped/`
+  (`intake/dropped_sheet.py`), every dropped phrase with its verdict, the
+  four misreadings in the court's rulings, and the other English changes.
+- Left as read, with a doubt: the pond name "Garmin" (leaf 691); the name
+  Krzeczkowski, written above the line (leaf 709 verso; the second vowel
+  could be y).
 
 ## The document
 
@@ -100,14 +141,16 @@ publish_translations.py as for any holding.
 - Their page marks stand at sentence ends, so a page's English can run a few
   lines past the Polish. Two marks were most of a page late (pages 27 and
   107) and the English was moved (`MOVES`).
-- Five changes follow corrections to the Polish (`FIXES`, `EVERYWHERE`).
-- **check_translations.py: 49 rows, none a fault.** Most are the termbase
+- Five changes follow corrections to the Polish (`FIXES`, `EVERYWHERE`),
+  and 32 more the full check (`fixes_full.py`, searched through the whole
+  text, each found exactly once).
+- **check_translations.py: 48 rows, none a fault.** Most are the termbase
   expecting its own rendering where the editor's translation has another
   that is right here: "komornik" is a boundary surveyor in this record, not
   a lodger; the Olęder settlers; "wall mound". Three pages have twice as many
-  English words as Polish because the translator's notes stand on them. Two
-  doubts are the editor's own and stand in the English only ("[uncertain:
-  Stefan] Zielonacki", "[uncertain: narożnik]").
+  English words as Polish because the translator's notes stand on them. One
+  doubt is the editor's own and stands in the English only ("[uncertain:
+  Stefan] Zielonacki").
 - The translation calls the court "Brest Kuyavia Municipal Court"; the
   edition's prose says "the castle court at Brześć Kujawski". The translation
   is the editor's and is left.
@@ -118,9 +161,11 @@ publish_translations.py as for any holding.
 
 ## Summary and claim check (2026-10-06)
 
-One summary, German first (`intake/summaries_draft.py`), 16 statements, all
+One summary, German first (`intake/summaries_draft.py`), 18 statements, all
 supported (`intake/claim_check.yml`). One rests partly on the editor's note:
-that the settlement failed.
+that the settlement failed. After the full check the sentence on Chełmski's
+sentence was rewritten (the raid on the inn, two weeks in the tower, 8,000
+złoty) and checked again.
 
 ## Authorities (2026-10-06)
 
@@ -145,8 +190,13 @@ have documents).
 
 ## Still to do
 
-- The editor's word on a full check of the 117 pages not compared.
-- The archive's description of the volume, if the editor can paste it.
+- **The editor's approval of the folds** (`review/app53170koningr145/folds/`),
+  then publishing at their word.
+- The editor's look at the sheet of dropped phrases
+  (`review/app53170koningr145/dropped/`), above all the tower sentence and
+  the paragraph translated for leaf 680.
+- A `spelling:` label for the document (modern), once the field is built
+  (`docs/PRUSIMSKI_ERA_PLAN.md`).
 - The editor's glossary of 89 terms.
 - An account of the Prusimski era like the Hohenlohe one: this is its first
   document and the era has no essay.
