@@ -321,3 +321,14 @@ rules:
   why: >-
     Thorn is Toruń, by the house rule that the English uses the Polish name
     (editor, 2026-10-03); the register entry is torun.
+
+- id: trabczyn-place
+  pattern: "Tr[ąa]m?pczyn(?![a-ząćęłńóśźż])"
+  replace: "Trąbczyn"
+  why: >-
+    The court books of Konin and the editor's English of them write the estate
+    Trąmpczyn, Trąpczyn and Trampczyn. In the English it is given in the
+    edition's one spelling, as other places are (the names rulings of
+    2026-10-03). Only the place: the pattern stops before a further letter, so
+    the family named from it keeps its own form (Trąmpczyński). Added
+    2026-10-07.

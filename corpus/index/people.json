@@ -65532,6 +65532,44 @@
   ]
  },
  {
+  "entity": "prusimska-katarzyna",
+  "display": "Katarzyna Prusimska, born Rozdrażewska",
+  "count": 3,
+  "documents": [
+   "app53170koningr136-1",
+   "app536045-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimska",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0673_a1",
+    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
   "entity": "von-der-reck",
   "display": "Freiherr von der Reck",
   "count": 3,
@@ -66047,34 +66085,6 @@
     "page_id": "0027_a2",
     "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
     "line": 4,
-    "doc_line": 2
-   }
-  ]
- },
- {
-  "entity": "prusimska-katarzyna",
-  "display": "Katarzyna Prusimska, born Rozdrażewska",
-  "count": 2,
-  "documents": [
-   "app536045-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0673_a1",
-    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
     "doc_line": 2
    }
   ]
@@ -66863,6 +66873,25 @@
     "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
     "line": 21564,
     "doc_line": 62
+   }
+  ]
+ },
+ {
+  "entity": "prusimski-pawel",
+  "display": "Paweł Prusimski",
+  "count": 1,
+  "documents": [
+   "app53170koningr136-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimski",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
    }
   ]
  },

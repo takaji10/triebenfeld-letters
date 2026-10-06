@@ -2172,14 +2172,14 @@
   name: "Katarzyna Prusimska, born Rozdrażewska"
   heading: "Prusimska, Katarzyna (born Rozdrażewska)"
   heading_de: "Prusimska, Katarzyna (geb. Rozdrażewska)"
-  count: 2
-  docs: 1
-  life: "documented 1763"
-  life_de: "belegt 1763"
-  bio: "Katarzyna Prusimska, born Rozdrażewska, a widow of the family that owned Trąbczyn. In 1763 she was at law with Stanisław Ścibor Chełmski of Łukomia before the land court at Konin over potash he had stopped at Pyzdry in 1761."
-  bio_de: "Katarzyna Prusimska, geborene Rozdrażewska, eine Witwe aus der Familie, der Trąbczyn gehörte. 1763 stand sie vor dem Landgericht in Konin im Rechtsstreit mit Stanisław Ścibor Chełmski von Łukomia um Pottasche, die er 1761 in Pyzdry angehalten hatte."
-  span: "1763"
-  letters: [{id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}]
+  count: 3
+  docs: 2
+  life: "documented 1754-1763"
+  life_de: "belegt 1754-1763"
+  bio: "Katarzyna Prusimska, born Rozdrażewska, widow of Paweł Prusimski, who held Trąbczyn for life after his death. In 1754 she had the estate inspected, building by building. In 1763 she was at law with Stanisław Ścibor Chełmski of Łukomia before the land court at Konin over potash he had stopped at Pyzdry in 1761."
+  bio_de: "Katarzyna Prusimska, geborene Rozdrażewska, Witwe des Paweł Prusimski, die Trąbczyn nach seinem Tod auf Lebenszeit innehatte. 1754 ließ sie das Gut Gebäude für Gebäude besichtigen. 1763 stand sie vor dem Landgericht in Konin im Rechtsstreit mit Stanisław Ścibor Chełmski von Łukomia um Pottasche, die er 1761 in Pyzdry angehalten hatte."
+  span: "1754–1763"
+  letters: [{id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/", n: 1}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}]
 - slug: "prusimska"
   name: "Michalina z Prusimskich Dąbska, later Miączyńska"
   heading: "Prusimska, Michalina (married Dąbska, later Miączyńska)"
@@ -2216,6 +2216,18 @@
   bio_de: "Krzysztof Prusimski, in den 1720er Jahren Erbherr von Trąbczyn und Großvater des Starosten Antoni Prusimski. 1728 verklagten ihn, seinen Sohn Antoni und ihre Leute die Brüder Chełmski von Łukom wegen Brandstiftung, Viehwegnahme und eines bewaffneten Überfalls, und das Landgericht in Konin schickte einen Kommissar auf den strittigen Grund."
   span: "1728"
   letters: [{id: "1", uid: "app536040-1", url: "/documents/app536040/1/", n: 6}]
+- slug: "prusimski-pawel"
+  name: "Paweł Prusimski"
+  heading: "Prusimski, Paweł"
+  heading_de: "Prusimski, Paweł"
+  count: 1
+  docs: 1
+  life: "documented 1754"
+  life_de: "belegt 1754"
+  bio: "Paweł Prusimski, chamberlain of the King and heir of Trąbczyn, who died shortly before July 1754. His widow Katarzyna, born Rozdrażewska, then held the estate for life and had it inspected."
+  bio_de: "Paweł Prusimski, königlicher Kämmerer und Erbherr von Trąbczyn, der kurz vor Juli 1754 starb. Seine Witwe Katarzyna, geborene Rozdrażewska, hatte das Gut danach auf Lebenszeit und ließ es besichtigen."
+  span: "1754"
+  letters: [{id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/", n: 1}]
 - slug: "przespolewski"
   name: "Przespolewski"
   heading: "Przespolewski, Jacob von"

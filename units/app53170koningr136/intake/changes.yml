@@ -1,0 +1,31 @@
+# What the check of APP 53/17/0/-/Konin Gr.136 against the scans changes for
+# anyone who has written about this entry from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.136: the inspection of Trąbczyn, 1754"
+changes:
+- importance: significant
+  what: "A long part of the entry is in neither the transcription nor the English: the house-by-house description of the villages, on the rest of leaf 121 verso, all of leaf 122 and the top of leaf 122 verso. The holding is built without it and says so."
+  was: "(the transcription goes from the malthouse on leaf 121 verso to \"Wieś Nowa\" on leaf 122 verso)"
+  now: "(unchanged; the gap is stated)"
+- importance: fact
+  what: "\"Zelaga\" is \"żelaza\": ironware, the iron gear of a farm. It is not an unknown word."
+  was: "pigs; zelaga — all as is proper"
+  now: "pigs; ironware — all as is proper"
+- importance: fact
+  what: "Two figures in the count of people: each full farmer of Trąbczyn has 8 of the lord's working cattle (the 4 oxen and 4 horses that follow), not 6; the women lodgers of Trąbczyn are 8 in all, not 6."
+  was: "working cattle: 6 of the lord's ... Lodgers: in all, 6."
+  now: "working cattle: 8 of the lord's ... Female lodgers: in all, 8."
+- importance: fact
+  what: "The woods are described as reaching \"above Szetlewek\", the neighbouring estate; \"Szeklejowek\" as a watercourse does not exist."
+  was: "along the Szeklejowek toward Łazy"
+  now: "above Szetlewek toward Łazy"
+- importance: fact
+  what: "Bartłomiej Szeptycki is named in the Latin record as court messenger (Ministerialis Regni Generalis), in the place left as a gap; he went \"in person\" to Trąbczyn first, then to the villages, then to the woods."
+  was: "appearing in person — the Honest Bartłomiej Szeptycki ... had made a formal descent to the appurtenances of the Trąmpczyn estate, principally to the villages"
+  now: "the General Court Summoner of the Realm, the Honest Bartłomiej Szeptycki ... had made a formal descent in person to the same Trąmpczyn estate first, then to the villages"
+- importance: fact
+  what: "Not compared with the scans: the description of the manor buildings on leaf 121 and leaf 121 verso (about 540 words)."
+  was: "(not noted)"
+  now: "units/app53170koningr136/notes.md"

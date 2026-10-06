@@ -98,7 +98,14 @@ def main():
     # set in a German or Polish sentence, and none stays in the English.
     # Left in, every common word of it (partium, quibus, Judicium)
     # qualified as a term.
-    docs = [r for r in docs if (r.get('language') or '') != 'la']
+    # The same holds for a document that is partly Latin by its nature (a
+    # Polish inspection with the court's Latin record round it): its
+    # language is given as "pl,la" in rulings.yml.
+    # A German deed with Latin and Polish passages ("de,la,pl") stays in.
+    def _latin_by_nature(r):
+        langs = (r.get('language') or '').split(',')
+        return 'la' in langs and langs[0] != 'de'
+    docs = [r for r in docs if not _latin_by_nature(r)]
     texts = {r['uid']: (r.get('text') or '').replace('ſ', 's') for r in docs}
     pats, excluded = covered()
 

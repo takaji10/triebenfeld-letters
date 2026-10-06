@@ -1,0 +1,47 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.136 (APP).
+#
+# One document: the entry on leaves 121 to 123, the messenger's report with
+# the inspection it reports. Each entry of a court book is a document (the
+# editor's ruling of 2026-10-06, EDITORIAL_RULES). Established 2026-10-07.
+
+places:
+  # Place of writing: the record was made at Konin ("In Conin Feria Sexta
+  # ..."); the inspection itself "w Trąbczynie".
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "In Conin Feria Sexta pridie Festi Sanctae Margarithae Virginis et
+    # Martyris Anno Domini 1754": St Margaret is 13 July, the Friday before it
+    # 12 July 1754. The inspection was "dnia 9 Lipca", the Tuesday.
+    "1": [1754, 7, 12, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": report
+
+  # Polish, with the court's record in Latin at the end.
+  language:
+    "1": "pl,la"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0121_a2", "0122_a1", "0123_a1", "0123_a2"]
+
+damage:
+  letters: []

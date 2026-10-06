@@ -198,6 +198,62 @@
   "permalink": "/documents/app536040/1/"
  },
  {
+  "uid": "app53170koningr136-1",
+  "unit": "app53170koningr136",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "pl,la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1754-07-12",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 46,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0121_a2",
+    "image": "APP_53_17_0_Konin_Gr_136_0121_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0122_a1",
+    "image": "APP_53_17_0_Konin_Gr_136_0122_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0123_a1",
+    "image": "APP_53_17_0_Konin_Gr_136_0123_a1-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0123_a2",
+    "image": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg"
+   }
+  ],
+  "uncertainty_count": 4,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/app53170koningr136-1.json",
+  "text_path": "text/app53170koningr136-1.txt",
+  "permalink": "/documents/app53170koningr136/1/"
+ },
+ {
   "uid": "app536045-1",
   "unit": "app536045",
   "letter_id": "1",

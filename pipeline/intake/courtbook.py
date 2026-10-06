@@ -13,6 +13,8 @@ is, which halves are pages, and what was corrected.
                 ones that are wrong and saves them, before a holding is
                 published (the editor's rule, 2026-10-06). placed() and
                 take_folds() bring the saved folds back.
+- holding_main(): the steps of one holding, run from its intake/holding.py
+                (the later holdings; the first four have a script per step).
 - correct():    apply readings corrected against the scan to the page files
                 and corpus.txt, each demanded exactly once on its page, and
                 log them in transcription_decisions.csv.
@@ -487,6 +489,81 @@ def take_folds(root, slug, path):
                 ['pipeline/build/make_scan_derivatives.py', '--unit', slug, '--force']):
         print('>', ' '.join(cmd))
         subprocess.run([sys.executable, '-W', 'ignore'] + cmd, cwd=root, check=True)
+
+
+def save_cache(root, slug, tdir):
+    """Put intake/translation/doc<N>.yml into the translation cache with translate.py's own save().
+
+    The cache record then carries the hash of the source text it belongs to;
+    check_translations.py and publish_translations.py read it from there.
+    cache/ is not in the repository: doc<N>.yml and the holding's script are
+    the record.
+    """
+    import sys
+    import yaml
+    os.chdir(root)
+    argv, sys.argv = sys.argv, ['translate.py', '--unit', slug]
+    sys.path.insert(0, os.path.join(root, 'pipeline', 'translate'))
+    import translate as T
+    sys.argv = argv
+    for rec in T.load_letters():        # one holding: its documents in order
+        number = str(rec['letter_id'])
+        p = os.path.join(tdir, 'doc%s.yml' % number)
+        if not os.path.isfile(p):
+            continue
+        payload = yaml.safe_load(io.open(p, encoding='utf-8'))
+        assert len(payload['pages']) == len(rec['pages']), \
+            'document %s: %d pages of English, the corpus has %d' % (number, len(payload['pages']), len(rec['pages']))
+        T.save(rec, payload, {'input': 0, 'output': 0}, None, {'model': 'editor'})
+        print('saved', T.out_path(number))
+
+
+def holding_main(g):
+    """The steps of one court-book holding, run from its intake/holding.py.
+
+        python units/<slug>/intake/holding.py            # check only
+        ... --crop        cut the page images
+        ... --sheet       the fold page for the editor
+        ... --write       page files and corpus.txt from the editor's text (once)
+        ... --correct     apply ROWS, the readings corrected against the scans (once)
+        ... --english     write translation/doc<N>.yml from english()
+        ... --cache       put them into the translation cache
+        ... --summaries   write the summaries S everywhere they are kept
+
+    The holding's script supplies: SLUG, REF, RAW, SCANS, SKIP, LEAF, DOCS,
+    read_source() -> {(document, page id): [paragraphs]}, ROWS, english() ->
+    {document: [the English of each page]}, S, HOW. After --correct, --write
+    must not be run again: it would put the uncorrected text back.
+    """
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8')
+    here = os.path.dirname(os.path.abspath(g['__file__']))
+    unit_dir = os.path.dirname(here)
+    root = os.path.dirname(os.path.dirname(unit_dir))
+    arg = sys.argv[1:]
+    parts = g['read_source']()
+    print(len(parts), 'parts of pages,', sum(len(' '.join(p).split()) for p in parts.values()), 'words in the editor\'s text')
+    if '--crop' in arg:
+        cut(g['RAW'], placed(here, g['SCANS']), g.get('SKIP', ()))
+    if '--sheet' in arg:
+        fold_sheet(root, g['SLUG'], g['REF'], g['RAW'], placed(here, g['SCANS']), g.get('SKIP', ()), g.get('LEAF'),
+                   note=g.get('FOLD_NOTE', ''))
+    if '--write' in arg:
+        assert not os.path.exists(os.path.join(unit_dir, 'transcription_decisions.csv')), \
+            'corrections are already logged: --write would put the uncorrected text back'
+        write_pages(unit_dir, g['DOCS'], parts)
+    if '--correct' in arg or (not arg and os.path.exists(os.path.join(unit_dir, 'corpus.txt'))
+                              and io.open(os.path.join(unit_dir, 'corpus.txt'), encoding='utf-8').read().strip()):
+        correct(unit_dir, g['SLUG'], g['DOCS'], g.get('ROWS', []), '--correct' in arg)
+    if '--english' in arg:
+        tdir = os.path.join(here, 'translation')
+        os.makedirs(tdir, exist_ok=True)
+        for n, texts in sorted(g['english']().items()):
+            write_doc_yml(os.path.join(tdir, 'doc%d.yml' % n), texts)
+    if '--cache' in arg:
+        save_cache(root, g['SLUG'], os.path.join(here, 'translation'))
+    if '--summaries' in arg:
+        write_summaries(root, unit_dir, g['SLUG'], g['REF'], g['S'], g['HOW'])
 
 
 if __name__ == '__main__':
