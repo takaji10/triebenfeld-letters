@@ -132,8 +132,8 @@ en:
     address, and the events the letters take for granted. In the documents
     these words are faintly underlined; tap one to see what it means.
   gl_draft_note: >-
-    The definitions are drafts. Each is still to be checked against a
-    reference work of the period, named under the entry.
+    Each entry names the reference work of the period that its definition was
+    checked against, or is still to be checked against.
   gl_search: Search the glossary
   gl_kinds: Kind of word
   gl_kind_all: All
@@ -146,7 +146,7 @@ en:
   gl_none: Nothing in the glossary matches.
   gl_in_one: in 1 document
   gl_in_n: in %d documents
-  gl_unchecked: draft, to be checked against
+  gl_unchecked: to be checked against
   gl_source: "source:"
   f_term: Containing the glossary term
   f_term_clear: show all
@@ -411,8 +411,8 @@ de:
     die die Briefe voraussetzen. In den Dokumenten sind diese Wörter dezent
     unterstrichen; ein Tippen zeigt, was sie bedeuten.
   gl_draft_note: >-
-    Die Erklärungen sind Entwürfe. Jede ist noch an einem Nachschlagewerk der
-    Zeit zu prüfen, das beim Eintrag genannt ist.
+    Jeder Eintrag nennt das Nachschlagewerk der Zeit, an dem seine Erklärung
+    geprüft wurde oder noch zu prüfen ist.
   gl_search: Im Glossar suchen
   gl_kinds: Art des Wortes
   gl_kind_all: Alle
@@ -425,7 +425,7 @@ de:
   gl_none: Nichts im Glossar passt dazu.
   gl_in_one: in 1 Dokument
   gl_in_n: in %d Dokumenten
-  gl_unchecked: Entwurf, zu prüfen anhand von
+  gl_unchecked: zu prüfen anhand von
   gl_source: "Quelle:"
   f_term: Mit dem Glossarbegriff
   f_term_clear: alle zeigen

@@ -173,6 +173,9 @@ prepared" text: do not end one with "The English has not yet been read against
 the scans". The pages say that the translations were made by an AI model, and
 that anything taken for academic work should be checked against the original.
 The `status:` field in `site/_data/translations/` stays; it is the pipeline's.
+The same for the Glossary (the editor, 2026-10-06): its definitions are not
+called drafts. Each entry names the reference work it was checked against, or
+is still to be checked against, and that is all.
 
 Few figures, because each is counted by hand: holdings, documents, pages,
 documents by language, translations, marks of doubt. A mark or a view is

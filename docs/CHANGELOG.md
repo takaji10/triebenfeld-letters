@@ -1746,7 +1746,9 @@ lose his estates. The era page writes Konotop, not Kontop.
   the rights page says the translations were made by an AI model and to quote the original
   language; and the closing sentence "The English has not yet been read against the scans"
   is gone from the eight holdings that had it, in both languages. The `status:` field in the
-  translation files is unchanged.
+  translation files is unchanged. The Glossary page no longer opens with "The definitions are
+  drafts", which was also out of date (56 of its entries are checked), and an unchecked entry
+  now reads "to be checked against" its reference work, without the word "draft".
 
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
