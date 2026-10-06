@@ -116,6 +116,18 @@ read, translate and summarise.
     (the same attestation and spelling stand in Oe 1 Bü 14526, document 16).
     The editor ruled on 2026-10-05 that they are kept separate.
 
+- **APP 53/17/0/-/Konin Gr.145** is in (2026-10-06), the first holding of
+  the Prusimski era: one document of 122 pages, the decree of the boundary
+  commission of 1775 between Trąbczyn and Łukomia, with the editor's own
+  transcription (in modern Polish spelling) and English translation. Given
+  a light check at the editor's word. Still open:
+  - **117 of its 121 written pages were not compared with the scans.** Of
+    the four that were, one had dropped six words (leaf 673). A full check
+    waits for the editor's word;
+  - **the archive's description of the volume** could not be fetched;
+  - **the editor's glossary of 89 terms** is not in the edition's glossary;
+  - the era has no account of its own yet.
+
 - **I. HA GR, Rep. 7 C, Nr. 1414** is in (2026-10-05): three documents on
   four pages, December 1796 to March 1797, on Antoni Prusimski at Venice:
   the extract of the Prussian resident's dispatch, the draft by which the

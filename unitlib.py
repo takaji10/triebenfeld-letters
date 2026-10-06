@@ -28,6 +28,12 @@ import sys
 
 import yaml
 
+# A document's whole text is one CSV field in letters.csv. Python's default
+# limit, 131,072 characters, is smaller than one long court record (APP
+# 53/17/0/-/Konin Gr.145 is about 220,000), so every script that imports this
+# module reads with the limit raised.
+csv.field_size_limit(2 ** 31 - 1)
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 UNITS_DIR = os.path.join(ROOT, 'units')
 

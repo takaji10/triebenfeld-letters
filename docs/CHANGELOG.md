@@ -1750,6 +1750,27 @@ lose his estates. The era page writes Konotop, not Kontop.
   drafts", which was also out of date (56 of its entries are checked), and an unchecked entry
   now reads "to be checked against" its reference work, without the word "draft".
 
+- **APP 53/17/0/-/Konin Gr.145 added** (2026-10-06), the first holding of the Prusimski era:
+  the decree of the commission that the Polish parliament appointed in 1774 to settle the
+  boundary between Antoni Prusimski's Trąbczyn and the Chełmski brothers' Łukomia. It sat on
+  the disputed ground from 13 September 1775 under Ludwik Dąmbski, voivode of Brześć
+  Kujawski, and its decree was entered there on 23 September 1776 and copied into a court
+  book of Konin. One document, 122 pages, Polish with Latin. The 62 scans of openings were
+  cut at the fold. The editor's transcription (modern Polish spelling, by paragraph) and the
+  editor's own English translation were brought in page by page; the translation was not made
+  again. At the editor's word the text had a light check: four of 121 written pages and the
+  signatures were read against the scans, 23 readings corrected (one restores six dropped
+  words on leaf 673, in both languages), a line of the title page added, and 93 dropped
+  accents put right through the text. Summary in both languages, 16 statements checked;
+  holding page in both languages; the era is now populated and the story page and the About
+  page say so; a timeline entry for 13 September 1775. New person: Ludwik Dąmbski. New place:
+  Brześć Kujawski. Three changes to the tools: a document longer than Python's CSV field
+  limit can be read (`unitlib.py`); a person or place entry can be shut out of named
+  documents with `not_in` (`pipeline/build/entities.py`), used for seven entries that matched
+  other people or ordinary Polish words here; and `decree` is a kind of document. The
+  edition has seventeen holdings, 474 documents and 1,684 pages; 469 have an English
+  translation. See `units/app53170koningr145/notes.md`.
+
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one
   page image along a seam between two lines of writing (`units/iharep162nr295/intake/`), so

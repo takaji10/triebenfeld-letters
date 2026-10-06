@@ -19,8 +19,9 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 473 Dokumente auf 1.562 Handschriftenseiten aus den Jahren 1794 bis
-1832: Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
+Die Edition enthält 474 Dokumente auf 1.684 Handschriftenseiten aus den Jahren 1776 bis
+1832. Das älteste ist das Dekret eines Gerichts von 1775, das die Grenze von Trąbczyn
+festlegte, aus der Zeit, als das Gut Prusimski gehörte. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
 preußischer Ministerien. Zu jedem Dokument gibt sie:
 
 - den Text in seiner Originalsprache, nach der Handschrift transkribiert;
@@ -35,7 +36,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus sechzehn Beständen in vier Archiven:
+Die Dokumente stammen aus siebzehn Beständen in vier Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -43,8 +44,9 @@ Die Dokumente stammen aus sechzehn Beständen in vier Archiven:
   1805;
 - dem **Geheimen Staatsarchiv Preußischer Kulturbesitz** in Berlin: Akten der preußischen
   Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
-- dem **Staatsarchiv Posen**: einem Gerichtsprotokoll von 1806 und um 1930 angefertigten
-  Abschriften von Schriftstücken über die Aufteilung der Güter;
+- dem **Staatsarchiv Posen**: dem Grenzdekret von 1775 aus einem Gerichtsbuch von Konin,
+  einem Gerichtsprotokoll von 1806 und um 1930 angefertigten Abschriften von
+  Schriftstücken über die Aufteilung der Güter;
 - dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
   konfiszierten Güter an Prusimskis Tochter.
 
@@ -52,7 +54,7 @@ Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit sei
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
 sein Text bearbeitet wurde.
 
-Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch und neun polnisch, und
+Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch und zehn polnisch, und
 einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
 
@@ -78,6 +80,10 @@ Dreierlei blieb unangetastet. Die Schreibweise der Zeit steht, wie sie geschrieb
 (*laßen*, *seyn*, *nöthig*). Wörter, die nicht zu lesen waren, sind als zweifelhaft
 bezeichnet und nicht erraten. Text, den ein Schreiber gestrichen hat, ist nicht
 transkribiert.
+
+Ein Bestand weicht ab: Das Grenzdekret von 1775 steht in heutiger polnischer
+Rechtschreibung, so wie der Herausgeber es transkribiert hat. Seine Seite sagt, wie weit es
+geprüft wurde.
 
 Eines wurde durchgehend geändert: Eine Person oder ein Ort, die von den Schreibern
 verschieden geschrieben werden, steht in einer einzigen Schreibweise, damit sie zu finden
@@ -119,12 +125,13 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 610 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 612 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 468 von 473. Sie wurden von einem
-KI-Modell nach Regeln des Herausgebers angefertigt.
+Jedes Dokument mit Text hat eine englische Übersetzung: 469 von 474. Sie wurden von einem
+KI-Modell nach Regeln des Herausgebers angefertigt, außer der des Grenzdekrets von 1775, die
+vom Herausgeber selbst stammt.
 
 Die Übersetzung zeigt einen Zweifel überall dort, wo das Original einen hat, weil glattes
 Englisch ihn verdecken würde:
@@ -176,10 +183,10 @@ Wo eine Archivnummer mehrere Dokumente umfasst, sind sie als 72a, 72b und so wei
 gezählt. Einige Dokumente sind in zwei Abschriften überliefert. Beide stehen hier, weil
 jede zeigt, wo die andere falsch abgeschrieben oder verlesen ist.
 
-Die Edition ist nach den Besitzern der Güter gegliedert. Alle bisher veröffentlichten
-Dokumente gehören in die Jahre Hohenlohe-Ingelfingens und ihre Nachgeschichte. Der ältere
-Grenzstreit zwischen Trąbczyn und dem Nachbargut Łukom und die Jahre nach der Rückgabe der
-Güter an die Familie Prusimski 1807 stehen noch aus.
+Die Edition ist nach den Besitzern der Güter gegliedert. Fast alle bisher veröffentlichten
+Dokumente gehören in die Jahre Hohenlohe-Ingelfingens und ihre Nachgeschichte. Eines gehört
+zum älteren Grenzstreit zwischen Trąbczyn und dem Nachbargut Łukom, und weitere folgen. Die
+Jahre nach der Rückgabe der Güter an die Familie Prusimski 1807 stehen noch aus.
 
 ## Was noch offen ist
 

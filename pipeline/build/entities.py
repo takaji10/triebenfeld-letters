@@ -101,17 +101,28 @@ class _Rx:
              that names different people in different documents: "Wir Friedrich
              Wilhelm" is Friedrich Wilhelm II in a grant of June 1797 and his
              son in one of December 1797, and nothing in the words says which.
+    not_in   the uids of the documents this pattern must not match in. For a
+             pattern that is right everywhere but in one document, where the
+             same letters are another person or an ordinary word: in the Polish
+             decree of 1776 (APP 53/17/0/-/Konin Gr.145) "Florian" is Florian
+             Drewnowski, not Florian Gelanski, and "Brzeg" is a bank, not the
+             town.
     span     match across a line end. The ordinal that decides a king often
              sits on the next line ("des Königs Friedrich Wilhelm / des IIten
              Majestaet"), and the lines are matched one at a time.
     """
-    def __init__(self, rx, only_in=None, span=False):
+    def __init__(self, rx, only_in=None, span=False, not_in=None):
         self.rx, self.only_in, self.span = rx, only_in, span
+        self.not_in = not_in or set()
         self.pattern = rx.pattern
         self.search, self.finditer = rx.search, rx.finditer
 
+    def __getattr__(self, name):
+        # Anything else a caller asks of a compiled pattern (match, sub, ...).
+        return getattr(self.rx, name)
+
     def applies(self, uid):
-        return self.only_in is None or uid in self.only_in
+        return (self.only_in is None or uid in self.only_in) and uid not in self.not_in
 
 
 def _applies(rx, rec):
@@ -135,9 +146,10 @@ def load_people():
         rx = re.compile(_ANCHOR % pat, re.UNICODE)
         # only_in: a surname borne by several people, each found only in the
         # documents that name him or her (the three Michaelis, 2026-10-04).
-        if e.get('span_lines') or e.get('only_in'):
+        if e.get('span_lines') or e.get('only_in') or e.get('not_in'):
             rx = _Rx(rx, span=bool(e.get('span_lines')),
-                     only_in=set(e['only_in']) if e.get('only_in') else None)
+                     only_in=set(e['only_in']) if e.get('only_in') else None,
+                     not_in=set(e.get('not_in') or []))
         out.append((slug, e.get('display') or slug, rx))
         covered.append(re.compile(pat, re.UNICODE))
         # The same person named by a form that is only his in some documents
@@ -185,8 +197,10 @@ def place_authority():
         pat = _pattern_for(e)
         if pat:
             # the label, Polish (German), is what every listing shows
-            out.append((slug, unitlib.place_label(e) or slug,
-                        re.compile(_ANCHOR % pat, re.UNICODE)))
+            rx = re.compile(_ANCHOR % pat, re.UNICODE)
+            if e.get('not_in'):
+                rx = _Rx(rx, not_in=set(e['not_in']))
+            out.append((slug, unitlib.place_label(e) or slug, rx))
     return out
 
 

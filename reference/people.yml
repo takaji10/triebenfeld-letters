@@ -135,6 +135,8 @@ people:
     display: "Florian Gelanski"
     render: "Gelanski"
     match: "Florian|Gelanski"
+    # In the decree of 1776 "Florian" is Florian Junosza Drewnowski, secretary of the parliament of 1774.
+    not_in: [app53170koningr145-1]
     tier: ""
     variants:
       - {form: "Florian", canon: false}   # a given name, not a misspelling
@@ -269,6 +271,16 @@ people:
     tier: "Context-inferred (office)"
     variants: []
     identity: "Philipp Karl Count von Alvensleben (1745-1802), Prussian cabinet minister from 1791 to his death, one of the three ministers of the department of foreign affairs in 1797 with Finckenstein and Haugwitz. The first of the two signatures under the department's draft of 11 January 1797 (I. HA GR, Rep. 7 C, Nr. 1414, document 1) opens with a large A and is otherwise not read; it is taken to be his because he is the one minister of the department whose name begins with that letter. The editor could not verify the name on the scan (2026-10-05)."
+  dambski-ludwik:
+    display: "Ludwik Dąmbski, voivode of Brześć Kujawski"
+    render: "Dąmbski"
+    # Only with his forename: Stanisław and Maciej Dąmbski sit on the same
+    # commission, and Dąmbska is Michalina Prusimska's married name.
+    match: 'Ludwik\w* (?:hrabi\w* na Lubrańcu )?D[ąa]mbsk\w*'
+    only_in: [app53170koningr145-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Ludwik Dąmbski, Count of Lubraniec, voivode of Brześć Kujawski, Starost of Dybów and Gniewkowo: first named and president of the commission that the Polish parliament appointed in 1774 to settle the boundary between Trąbczyn and Łukomia, which sat from 13 September 1775; he signs its decree as 'preses commissionis' (APP 53/17/0/-/Konin Gr.145). Added 2026-10-06."
   raumer:
     display: "Karl Georg von Raumer"
     render: "Raumer"
@@ -684,6 +696,8 @@ people:
   simon:
     display: "Simon"
     match: "Simon"
+    # In the decree of 1776 "Simon" is Simon Szaunski, who presented it at Brześć Kujawski.
+    not_in: [app53170koningr145-1]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."
@@ -845,6 +859,8 @@ people:
     display: "Antoni Radziwiłł"
     render: "Radziwiłł"
     match: 'Radziwi[lł]{1,2}(?![a-zà-ÿ])'
+    # In the decree of 1776 the name is Michał Hieronim Radziwiłł, who signed the act of parliament of 1774.
+    not_in: [app53170koningr145-1]
     tier: "Context-inferred"
     variants: []
     identity: "Prince Antoni Radziwiłł, Prussian governor (Statthalter) of the Grand
@@ -1667,6 +1683,8 @@ people:
     display: "Małachowski"
     # Mał[achowski] is his paraph on the papers of 1/174/0/2/73.
     match: 'Małachowsk\w*|Mał\[achowski\]'
+    # In the decree of 1776 the name stands under the act of parliament of 1774; not shown to be Stanisław.
+    not_in: [app53170koningr145-1]
     tier: "Externally confirmed"
     variants: []
     identity: "Stanisław Małachowski (1736-1809), president of the Governing Commission in 1807. His name stands under the register entries of 12 and 21 July 1807 ('Stanisław Małachowski, Prezes'), his paraph 'St Mał' under the draft resolution and the received note of 21 July, and Michalina Dąbska's petition to the Emperor is addressed on the back to him (AGAD 1/174/0/1/6 and 1/174/0/2/73). Added 2026-10-04."

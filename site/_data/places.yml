@@ -21,6 +21,14 @@
   docs: 3
   span: "1811–1815"
   letters: [{id: "220", uid: "oe1bu9454-220", url: "/documents/oe1bu9454/220/"}, {id: "14", uid: "oe1bu9454-14", url: "/documents/oe1bu9454/14/"}, {id: "278", uid: "oe1bu9454-278", url: "/documents/oe1bu9454/278/"}]
+- name: "Brześć Kujawski"
+  slug: "brzes-kujawski"
+  count: 1
+  lat: 52.60528
+  lon: 18.90111
+  docs: 1
+  span: "1776"
+  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/"}]
 - name: "Charlottenburg"
   slug: "charlottenburg"
   count: 2

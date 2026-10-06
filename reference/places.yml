@@ -498,6 +498,8 @@ places:
     german: "Brieg"
     kind: town
     match: 'Brieg\b'
+    # In the Polish decree of 1776 "brzeg" is the common noun, a bank or edge.
+    not_in: [app53170koningr145-1]
     tier: ""
     variants: ["Brzeg"]
 
@@ -849,6 +851,8 @@ places:
     # inflection. Still NOT matched on a stem: Świechocin is a third name in
     # this group and stays its own entity.
     match: '[SŚ]wi[eę]ci[aen]\w*|Święca'
+    # In the Polish decree of 1776 "święcie" is the common noun, a feast day.
+    not_in: [app53170koningr145-1]
     tier: ""
     variants: ["Swięcer", "Swięcin", "Swięce", "Święcia", "Święca"]
     distinct_from: [swiechocin]
@@ -873,6 +877,8 @@ places:
     display: "Brzyce"
     kind: village
     match: 'Brzyc\w*'
+    # In the decree of 1776 "Brzyzna" is the seat of the commissioner Józef Brzeziński, not Brzyce.
+    not_in: [app53170koningr145-1]
     tier: ""
     variants:
       - "Brzyze"
@@ -1662,6 +1668,16 @@ places:
     german: "Czenstochau"
     kind: town
     match: 'Czenstochau'
+    tier: "Established"
+    variants: []
+
+  brzesc-kujawski:
+    display: "Brześć Kujawski"
+    kind: town
+    # The seat of the castle court where the boundary decree of 1775 was
+    # entered on 23 September 1776 (APP 53/17/0/-/Konin Gr.145): Latin
+    # "in Castro Brestensi Cujaviae", Polish "brzeski kujawski".
+    match: 'Castro Brestensi|Brestensis Cu[ij]aviae'
     tier: "Established"
     variants: []
 

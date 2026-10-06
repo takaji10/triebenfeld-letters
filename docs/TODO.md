@@ -167,7 +167,33 @@ essay. Details are in `units/ihagrrep7cnr1414/notes.md`.
       department in 1797 whose name begins with A.
 - [x] The Venice papers are not filed under any estate (you, 2026-10-05).
 
-## 6. Carried over
+## 6. APP 53/17/0/-/Konin Gr.145: the boundary decree of 1775 (added 2026-10-06)
+
+The first holding of the Prusimski era: one document of 122 pages, the
+decree of the commission that fixed the boundary between Trąbczyn and
+Łukomia, from a court book of Konin for 1776. Your scans were cut into
+pages, your Polish transcription and your English translation brought in,
+a summary and a holding page written in both languages, the era and the
+story page updated. Details are in `units/app53170koningr145/notes.md`.
+
+- [x] Light touch, as you asked: four pages and the signatures read against
+      the scans, 23 readings corrected, 93 dropped accents put right.
+- [ ] **You: say when to publish it.** Built and verified here, committed
+      locally, not pushed.
+- [ ] **You: whether you want the other 117 pages checked.** One of the four
+      pages I read had dropped a phrase of six words (leaf 673), in the
+      Polish and so in the English. More are likely. Finding them means
+      reading every page against its scan; I can do it in stages.
+- [ ] **You: the archive's description of the volume.** I could not open
+      the archive's page for the unit. If it names the fonds or says more
+      about the volume, paste it in.
+- [ ] Your glossary of 89 terms at the end of the English file is not yet
+      in the edition's glossary. Each needs a German definition and a
+      pattern; say if you want it done.
+- [ ] The Prusimski era has no account of its own like the Hohenlohe page.
+      With one document it would be thin; say when it should be written.
+
+## 7. Carried over
 
 These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.

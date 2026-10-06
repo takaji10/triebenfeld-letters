@@ -22,6 +22,26 @@
 #   refs  : optional, the documents the event rests on, as "<holding>/<number>";
 #           shown as links under the event.
 
+- date: 1775-09-13
+  title: A commission fixes the boundary between Trąbczyn and Łukomia
+  note: >-
+    A commission appointed by the Polish parliament meets in the forest on the disputed ground
+    between Antoni Prusimski's estate of Trąbczyn and the Chełmski brothers' estate of Łukomia.
+    It walks the boundary each side claims, finds Prusimski's line the better and has new
+    boundary mounds raised along it. The decree is entered in the court records at Brześć
+    Kujawski on 23 September 1776.
+  kind: estate
+  source: "decree of the boundary commission (court book of Konin, 1776)"
+  title_de: Eine Kommission legt die Grenze zwischen Trąbczyn und Łukomia fest
+  note_de: >-
+    Eine vom polnischen Reichstag eingesetzte Kommission tritt im Wald auf dem strittigen Grund
+    zwischen Antoni Prusimskis Gut Trąbczyn und dem Gut Łukomia der Brüder Chełmski zusammen.
+    Sie begeht die Grenze, die jede Seite beansprucht, erkennt Prusimskis Linie als die bessere
+    an und lässt entlang ihr neue Grenzhügel aufwerfen. Das Dekret wird am 23. September 1776
+    in die Gerichtsakten von Brześć Kujawski eingetragen.
+  source_de: "Dekret der Grenzkommission (Gerichtsbuch von Konin, 1776)"
+  refs: ["app53170koningr145/1"]
+
 - date: 1794
   title: The Kościuszko uprising; the Prusimski estates are confiscated
   note: >-

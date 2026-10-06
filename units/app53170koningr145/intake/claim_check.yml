@@ -1,0 +1,32 @@
+# The claim check of the German summary of APP 53/17/0/-/Konin Gr.145, made in
+# session on 2026-10-06 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The document was read in the
+# editor's English (site/_data/translations/), with the Polish of corpus.txt
+# beside it for the words quoted. Page numbers are the document's own, 1 to
+# 122; the leaf is given where it helps.
+#
+# Result: 16 statements, all supported. One rests on the editor's note as well
+# as on the text: that the settlement was not reached (the note to page 9 says
+# so; the text has the proposal and then the court sitting divided).
+# Names in the edition's forms count as supported (Brześć Kujawski for "Castro
+# Brestensi Cujaviae", Łukomia, Trąbczyn for Trąpczyn).
+
+app53170koningr145-001:
+- {claim: "Dekret einer Grenzkommission", verdict: supported, where: "p. 1: Oblata Decreti Commissorialis Granicialis; p. 2: Decretum Commissoriale graniciale"}
+- {claim: "am 23. September 1776 in die Burggerichtsakten von Brześć Kujawski eingetragen", verdict: supported, where: "p. 2: Actum in Castro Brestensi Cujavia ... die Vigesima Tertia Mensis Septembris ... Septuagesimo Sexto"}
+- {claim: "nach einem Auszug daraus in das Gerichtsbuch von Konin übernommen", verdict: supported, where: "p. 122: Ex Actis Castrensia Capitanealis Brestensis Cuiaviae Extraditis, with the seal and 'Legit Ubysz'; the volume is the Konin court's book of 1776"}
+- {claim: "die Kommission war durch einen Beschluss des Reichstags eingesetzt, der am 1. Juni 1774 in Warschau zu den Akten gegeben wurde", verdict: supported, where: "p. 4 (leaf 656): komisji albo raczej konstytucji w Warszawie na sejmie ... uchwalonej; Actum in Curia Regia Varsaviensi ... die prima Mensis Junij ... Septuagesimo Quarto"}
+- {claim: "um den seit Jahrzehnten geführten Grenzstreit zwischen Trąbczyn, dem Gut des Antoni Prusimski, Starost von Niszczewice, und Łukomia, dem Gut der Brüder Chełmski, endgültig zu entscheiden", verdict: supported, where: "p. 4: od lat więcej niż kilkudziesiąt rozpoczęta ... na ostateczne ony rozsądzenie; p. 7: Heliodor and Stanisław, brothers, heirs of Łukomia"}
+- {claim: "sie trat am 13. September 1775 unter dem Vorsitz von Ludwik Dąmbski, Woiwode von Brześć Kujawski, zusammen", verdict: supported, where: "p. 3: dnia trzynastego miesiąca Września roku ... siedemdziesiątego piątego przed ... Ludwikiem ... Dąmbskim wojewodą brzeskim kujawskim; p. 122: preses commissionis"}
+- {claim: "im Wald auf dem strittigen Grund", verdict: supported, where: "p. 2: Działo się w boru na gruncie w sporze będącym"}
+- {claim: "ein Streit darüber, welcher Kommissar die Feder führen solle, spaltete das Gericht", verdict: supported, where: "p. 8: the conferral of the pen (pióro) on Chmielewski, the objection, its conferral on Radoński; p. 9: having split away, they proceeded in the split court"}
+- {claim: "ein Vergleich, den es den Parteien vorschlug, kam nicht zustande, und es verhandelte geteilt weiter", verdict: supported, where: "p. 9: the reconciliation proposed to both parties by the whole court, four commissioners delegated; the editor's note to that page: the attempt failed; p. 121: since this act proceeds in a split court"}
+- {claim: "Prusimski führte das Gericht seine Grenzlinie entlang, an Wegen, Grenzhügeln, eingekerbten Bäumen, Waldstücken und einem Teichgrund vorbei", verdict: supported, where: "pp. 27-52, e.g. p. 38 (leaf 673): przyprowadził sąd swój ... do kopca; kopców ośmiu i poczynionych naciosów czterdzieści jeden; lasu Lusnie; stawiska pustego"}
+- {claim: "er berief sich auf Urkunden und beeidete Zeugenverhöre", verdict: supported, where: "p. 38: dokumentami dekretami; p. 121: four sworn inquiries (inkwizycje) sealed and handed to Prusimski"}
+- {claim: "das Gericht prüfte auch die Linie Chełmskis", verdict: supported, where: "pp. 52-72; p. 79: that whole boundary line, as at the starting point improperly begun"}
+- {claim: "es erkannte Prusimskis Grenzlinie als die bessere an und legte ihm auf, sie auf dem letzten Hügel mit sechs Zeugen zu beschwören", verdict: supported, where: "p. 86: approves, confirms, and adjudges to be the better ... orders the Honourable Prusimski to swear on the last and final mound heaped above, with six witnesses of equal birth"}
+- {claim: "es ließ zwischen Trąbczyn und Łukomia und zwischen Trąbczyn und Biskupice neue Grenzhügel aufwerfen", verdict: supported, where: "pp. 87-95: the wall mounds, each 'heaped'; p. 107 (leaf 707 verso): kopcu ostatnim narożnym nowo teraz ... wysypanym; narożnemu kopcowi nakazuje usypać"}
+- {claim: "Chełmski wurde zu Bußen an Prusimski verurteilt; die Fortsetzung der Grenze gegen Biskupice wurde auf den 21. Mai 1776 vertagt", verdict: supported, where: "p. 112: three hundred grzywien to the Honourable Prusimski; p. 113: fourteen grzywien; p. 121: half-double pledge and double pledge; p. 108: na dzień dwudziesty pierwszy maja w roku przyszłym ... siedemdziesiątym szóstym"}
+- {claim: "sechs Kommissare und der Kalischer Grenzvermesser Wojciech Czarnecki, der die Hügel aufwarf, unterzeichnen", verdict: supported, where: "p. 122: Dąmbski, Brzeziński, Stanisław Dąmbski, Kwilecki, Umiński, Gurczyński, each 'komisarz'; Wojciech Czarnecki komornik graniczny kaliski ... kopce sypiący"}

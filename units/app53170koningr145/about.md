@@ -1,0 +1,29 @@
+One entry of 122 pages in a book of the castle court of Konin for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The entry is the decree of a boundary commission that sat in 1775 between the estates of Trąbczyn and Łukomia. It is in Polish, with the Latin formulas of the Polish courts, and is one document. <!-- context -->
+
+### Historical background
+
+Trąbczyn lay in the district of Konin in the province of Kalisz, in the west of the Polish Commonwealth. In the 1770s it belonged to Antoni Prusimski, Starost of Niszczewice. The neighbouring estate of Łukomia belonged to the brothers Heliodor Chełmski, a canon of Chełmno, and Stanisław Chełmski. A third neighbour was the Cistercian abbey of Ląd, which owned the village of Drzewce. <!-- context -->
+
+Estates of this kind were bounded by earthen mounds raised at intervals and by marks cut into trees. Where three estates met stood a corner mound, from which each stretch of boundary was reckoned. A boundary was proved by leading a court along it on the ground, by older court records, and by the sworn testimony of old inhabitants. A judgment was entered in the records of a castle court, which gave it public standing, and copies were then drawn from those records. <!-- context -->
+
+### Contents
+
+**The entry.** The decree was presented at the castle court of Brześć Kujawski on 23 September 1776 by Simon Szaunski and entered in its records. The text here is an extract from those records, signed by Zboiński and sealed, as it was copied into the book of the court of Konin [[1]].
+
+**The commission.** The Polish parliament appointed a commission to end the boundary dispute between Prusimski's estates of Trąbczyn, Trąbczynek Mały or Nowa Wieś, Łazy and Osiny and Stanisław Chełmski's village of Łukom, a dispute which the act says had run for decades with violence and the seizure of land. The act, recorded at Warsaw on 1 June 1774, is given in full with the oath the commissioners were to swear. The commission met on 13 September 1775 in the forest on the disputed ground, under Ludwik Dąmbski, voivode of Brześć Kujawski [[1]].
+
+**A divided court.** In the first days the commissioners quarrelled over which of them should hold the pen, that is, write the court's record. The president gave it to one boundary surveyor of Kalisz; the sub-chamberlain of Poznań, with the commissioners who sat on Chełmski's side, gave it to another. A settlement between the parties was proposed and four commissioners were delegated to negotiate it. The court then went on sitting divided, and the decree says at its end that it was made by a divided court [[1]].
+
+**Prusimski's boundary.** The longest part of the decree follows Prusimski as he led the court along the line he claimed: from the corner mounds near the road from Zagórów to Kalisz, past an old wolf pit, the woods called Ostrowce, Miąsykąt, Dziadulina and Lusnie, a former pond, by then marsh, and eight mounds with forty-one marked trees, towards the ford called Czarny Bród. At each point the decree records what he showed, the documents and earlier judgments he produced, and his objections to the line Chełmski claimed and to a court inspection of 1592 [[1]].
+
+**The rulings.** The court examined Chełmski's line as well and heard sworn witnesses. It ruled on the corner point, found Prusimski's line the better, and required him to confirm it by oath on the last mound with six witnesses. It had new mounds raised along the boundary between Trąbczyn and Łukomia, each of which the decree lists with its distance from the one before, and on part of the boundary between Trąbczyn and Biskupice [[1]].
+
+**Penalties and adjournment.** Chełmski was ordered to pay Prusimski penalties, among them three hundred grzywnas, the unit in which fines were reckoned, for an unlawful use of firearms, and the penalties due for having walked out of an earlier court on the ground in 1760. The rest of the boundary with Biskupice, and the question of costs, were adjourned to 21 May 1776. The court handed Prusimski the four sets of sworn testimony and a map of the boundary signed by the president. Six commissioners signed the decree, and with them Wojciech Czarnecki, the boundary surveyor of Kalisz who raised the mounds [[1]].
+
+### Form and language
+
+The entry fills leaves 654 to 715 of the volume. Its opening and closing records, and the record of the Warsaw court that introduces the act of parliament, are in Latin; the rest is Polish with Latin legal phrases. The Polish is given here in modern spelling and by paragraph, as the editor transcribed it, and not in the spelling of the clerk. The English translation is the editor's own. Its section headings, in square brackets, and its translator's notes are the editor's additions and are not part of the record. <!-- context -->
+
+### Related holdings
+
+Twenty years after this decree Prussia confiscated Prusimski's estates and granted them to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. Prusimski in exile at Venice in 1796: [[unit:ihagrrep7cnr1414]]. The return of the estates to his daughter in 1807: [[unit:agad11740273]] and [[unit:agad1174016]]. <!-- context -->

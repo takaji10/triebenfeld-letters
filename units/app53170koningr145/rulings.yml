@@ -1,0 +1,68 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.145 (APP).
+#
+# One document: the whole entry is the decree of the boundary commission, as
+# it was entered in the court records (the package rule, EDITORIAL_RULES). The
+# seven sections of the editor's English are their own division for the
+# reader and are not documents. Established 2026-10-06.
+
+places:
+  # Place of writing: the entry opens "Actum in Castro Brestensi Cujaviae",
+  # the castle court at Brześć Kujawski. The commission itself sat "w boru na
+  # gruncie w sporze będącym", in the forest on the disputed ground between
+  # Trąbczyn Mały, Łukom and Drzewce.
+  overrides:
+    "1": Brześć Kujawski
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "die Vigesima Tertia Mensis Septembris Anno Domini Millesimo
+    # Septingentesimo Septuagesimo Sexto", the day the decree was entered at
+    # Brześć Kujawski. The commission opened on 13 September 1775.
+    "1": [1776, 9, 23, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  language:
+    "1": pl
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia, drzewce]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0654_a2", "0655_a2", "0656_a1", "0656_a2", "0657_a1", "0657_a2",
+                 "0658_a1", "0658_a2", "0659_a1", "0659_a2", "0660_a1", "0660_a2",
+                 "0661_a1", "0661_a2", "0662_a1", "0662_a2", "0663_a1", "0663_a2",
+                 "0664_a1", "0664_a2", "0665_a1", "0665_a2", "0666_a1", "0666_a2",
+                 "0667_a1", "0667_a2", "0668_a1", "0668_a2", "0669_a1", "0669_a2",
+                 "0670_a1", "0670_a2", "0671_a1", "0671_a2", "0672_a1", "0672_a2",
+                 "0673_a1", "0673_a2", "0674_a1", "0674_a2", "0675_a1", "0675_a2",
+                 "0676_a1", "0676_a2", "0677_a1", "0677_a2", "0678_a1", "0678_a2",
+                 "0679_a1", "0679_a2", "0680_a1", "0680_a2", "0681_a1", "0681_a2",
+                 "0682_a1", "0682_a2", "0683_a1", "0683_a2", "0684_a1", "0684_a2",
+                 "0685_a1", "0685_a2", "0686_a1", "0686_a2", "0687_a1", "0687_a2",
+                 "0688_a1", "0688_a2", "0689_a1", "0689_a2", "0690_a1", "0690_a2",
+                 "0691_a1", "0691_a2", "0692_a1", "0692_a2", "0693_a1", "0693_a2",
+                 "0694_a1", "0694_a2", "0695_a1", "0695_a2", "0696_a1", "0696_a2",
+                 "0697_a1", "0697_a2", "0698_a1", "0698_a2", "0699_a1", "0699_a2",
+                 "0700_a1", "0700_a2", "0701_a1", "0701_a2", "0702_a1", "0702_a2",
+                 "0703_a1", "0703_a2", "0704_a1", "0704_a2", "0705_a1", "0705_a2",
+                 "0706_a1", "0706_a2", "0707_a1", "0707_a2", "0708_a1", "0708_a2",
+                 "0709_a1", "0709_a2", "0710_a1", "0710_a2", "0711_a1", "0711_a2",
+                 "0712_a1", "0712_a2", "0713_a1", "0713_a2", "0714_a1", "0714_a2",
+                 "0715_a1", "0715_a2"]
+
+damage:
+  letters: []

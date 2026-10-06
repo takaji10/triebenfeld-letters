@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Geschichte
-standfirst: Drei Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen. Eine Epoche ist veröffentlicht; die beiden anderen stehen hier, damit sichtbar ist, was fehlt.
+standfirst: Drei Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen. Eine Epoche ist veröffentlicht, eine zweite hat ihr erstes Dokument; die dritte steht hier, damit sichtbar ist, was fehlt.
 permalink: /de/die-geschichte/
 lang: de
 alt_url: /the-story/
@@ -13,16 +13,17 @@ diesem Teil Europas durch Urkunden den Besitzer wechselte: eine Grenze war eine 
 Erdhügeln, gerichtlich bezeugt, eine Ansiedlung ein Privileg mit einem Siegel, und wer
 seine Papiere nicht vorlegen konnte, besaß wenig.
 
-Dieses Archiv entsteht Epoche für Epoche. Bisher hat nur die mittlere Dokumente auf der
-Website; die beiden anderen liegen in Archiven in Posen, Warschau und Berlin. Sie werden
-hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehlt.
+Dieses Archiv entsteht Epoche für Epoche. Bisher ist die mittlere veröffentlicht. Die
+erste hat nun ihr erstes Dokument. Die letzte liegt in Archiven in Warschau und Berlin;
+sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehlt.
 
 ---
 
 ## Der Grenzstreit zwischen Trąbczyn und Łukom
 
 **Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten
-Łukom. ca. 1589 bis 1788. Noch nicht veröffentlicht.**
+Łukom. ca. 1589 bis 1788.
+[Ein Dokument, 1776]({{ '/de/quellen/app53170koningr145/' | relative_url }}).**
 
 Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das
 andere begann. Er läuft durch die Gerichte in Konin, Pyzdry und Kalisch, und die Beweise
@@ -32,7 +33,11 @@ aufgeworfen wurden, ein Teichgrund, den jede Seite für sich beanspruchte. 1771 
 fanden sich als Gegenstand eines Prozesses zwischen Männern wieder, die sie nie gesehen
 hatten.
 
-Die Akten liegen in den Grod- und Landgerichtsbüchern im Staatsarchiv Posen.
+Das erste Dokument dieser Epoche liegt hier vor: das Dekret der Kommission, die der
+polnische Reichstag einsetzte, um den Streit zu beenden. Sie beging die Grenze im September
+1775, entschied für die Seite der Prusimski und ließ entlang der Linie neue Hügel aufwerfen
+([das Dekret]({{ '/documents/app53170koningr145/1/' | relative_url }})). Die übrigen
+Akten liegen in den Grod- und Landgerichtsbüchern im Staatsarchiv Posen.
 
 ---
 

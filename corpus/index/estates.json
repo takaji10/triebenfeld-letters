@@ -2,13 +2,14 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 183,
+  "count": 184,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
    "agad11740273-2",
    "agad11740273-3",
    "agad11740273-4",
+   "app53170koningr145-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -872,6 +873,37 @@
   ]
  },
  {
+  "entity": "drzewce",
+  "display": "Drzewce",
+  "count": 24,
+  "documents": [
+   "app53170koningr145-1",
+   "app539680801-3",
+   "oe1bu14525-10",
+   "oe1bu14525-17",
+   "oe1bu14525-19",
+   "oe1bu14525-20",
+   "oe1bu14525-22",
+   "oe1bu14525-29",
+   "oe1bu14525-30",
+   "oe1bu14525-5",
+   "oe1bu14525-8",
+   "oe1bu14525-9",
+   "oe1bu14526-10",
+   "oe1bu9454-136",
+   "oe1bu9454-151",
+   "oe1bu9454-177",
+   "oe1bu9454-179a",
+   "oe1bu9454-191",
+   "oe1bu9454-212",
+   "oe1bu9454-213",
+   "oe1bu9454-233",
+   "oe1bu9454-24",
+   "oe1bu9454-47",
+   "oe1bu9454-72b"
+  ]
+ },
+ {
   "entity": "kopojno",
   "display": "Kopojno (Kopoyno)",
   "count": 23,
@@ -899,36 +931,6 @@
    "oe1bu9454-233",
    "oe1bu9454-24",
    "oe1bu9454-32"
-  ]
- },
- {
-  "entity": "drzewce",
-  "display": "Drzewce",
-  "count": 23,
-  "documents": [
-   "app539680801-3",
-   "oe1bu14525-10",
-   "oe1bu14525-17",
-   "oe1bu14525-19",
-   "oe1bu14525-20",
-   "oe1bu14525-22",
-   "oe1bu14525-29",
-   "oe1bu14525-30",
-   "oe1bu14525-5",
-   "oe1bu14525-8",
-   "oe1bu14525-9",
-   "oe1bu14526-10",
-   "oe1bu9454-136",
-   "oe1bu9454-151",
-   "oe1bu9454-177",
-   "oe1bu9454-179a",
-   "oe1bu9454-191",
-   "oe1bu9454-212",
-   "oe1bu9454-213",
-   "oe1bu9454-233",
-   "oe1bu9454-24",
-   "oe1bu9454-47",
-   "oe1bu9454-72b"
   ]
  },
  {
@@ -1503,6 +1505,14 @@
   "documents": [
    "oe1bu9454-264",
    "oe1u199-1"
+  ]
+ },
+ {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 1,
+  "documents": [
+   "app53170koningr145-1"
   ]
  },
  {

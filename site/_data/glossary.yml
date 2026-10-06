@@ -359,7 +359,7 @@
   initial_en: "P"
   sort_de: "propination"
   initial_de: "P"
-  docs: 26
+  docs: 27
 - id: "majorat"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 23
+  docs: 24
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 42
+  docs: 43
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 63
+  docs: 64
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 57
+  docs: 58
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 16
+  docs: 17
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 47
+  docs: 48
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 24
+  docs: 25
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1480,7 +1480,7 @@
   initial_en: "C"
   sort_de: "cession"
   initial_de: "C"
-  docs: 15
+  docs: 16
 - id: "oberlandesgericht"
   kind: "law"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 60
+  docs: 61
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1860,7 +1860,7 @@
   initial_en: "L"
   sort_de: "l. s. (locus sigilli)"
   initial_de: "L"
-  docs: 25
+  docs: 26
 - id: "actum"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 17
+  docs: 18
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

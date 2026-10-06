@@ -3,14 +3,14 @@
 # are computed from the documents assigned to each.
 - slug: "prusimski-boundary"
   order: 1
-  status: "unpopulated"
-  count: 0
-  first: ""
-  last: ""
+  status: "populated"
+  count: 1
+  first: "1776"
+  last: "1776"
   label_en: "The Trąbczyn and Łukom boundary dispute"
   label_de: "Der Grenzstreit zwischen Trąbczyn und Łukom"
-  blurb_en: "Two hundred years of argument between neighbouring estates over where one ended and the other began: mounds, blazed trees, a disputed pond-ground, and the Olęder settlement that was annexed along with the land it stood on. The documents are in the municipal and land court books at Poznań and have not yet been added here."
-  blurb_de: "Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das andere begann. Die Akten liegen in den Grod- und Landgerichtsbüchern in Posen und sind hier noch nicht erfasst."
+  blurb_en: "Two hundred years of argument between neighbouring estates over where one ended and the other began: mounds, blazed trees, a disputed pond-ground, and the Olęder settlement that was annexed along with the land it stood on. The first document is here: the decree of the commission that fixed the boundary in 1775. The rest are in the court books at Poznań and have not yet been added."
+  blurb_de: "Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das andere begann. Das erste Dokument liegt hier vor: das Dekret der Kommission, die 1775 die Grenze festlegte. Die übrigen Akten liegen in den Gerichtsbüchern in Posen und sind noch nicht erfasst."
   ownership_en: "The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next door. c. 1589 to 1788"
   ownership_de: "Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten Łukom. ca. 1589 bis 1788"
 - slug: "hohenlohe"

@@ -18,7 +18,9 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 473 documents on 1,562 manuscript pages, dated from 1794 to 1832:
+The edition holds 474 documents on 1,684 manuscript pages, dated from 1776 to 1832. The
+oldest is a court's decree of 1775 fixing the boundary of Trąbczyn, from the time when it
+belonged to Prusimski. The documents are
 letters, royal grants, leases and contracts, court papers, and the files of Prussian
 ministries. For each document it gives:
 
@@ -34,15 +36,16 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from sixteen holdings in four archives:
+The documents come from seventeen holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
   grants, title deeds and leases; and a royal charter of 1805;
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
-- the **State Archive in Poznań**: a court record of 1806, and copies made about 1930 of
-  papers on the division of the estates;
+- the **State Archive in Poznań**: the boundary decree of 1775, from a court book of Konin;
+  a court record of 1806; and copies made about 1930 of papers on the division of the
+  estates;
 - the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
   of the confiscated estates to Prusimski's daughter.
 
@@ -50,7 +53,7 @@ The documents come from sixteen holdings in four archives:
 Each holding has a page of its own that describes what it contains and how its text was
 prepared.
 
-Most of the documents are in German. Twenty-two are in French and nine in Polish, and some
+Most of the documents are in German. Twenty-two are in French and ten in Polish, and some
 of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
 
@@ -75,6 +78,9 @@ edition was done with the support of AI, in three steps:
 Three things were left alone. The spelling of the period stands as written (*laßen*,
 *seyn*, *nöthig*). Words that could not be read are marked as doubtful and not guessed at.
 Text that a writer struck out is not transcribed.
+
+One holding differs: the boundary decree of 1775 is given in modern Polish spelling, as the
+editor transcribed it. Its page says how far it was checked.
 
 One thing was changed throughout: a person or place that the writers spell in several ways
 is given in one spelling, so that it can be found.
@@ -114,12 +120,13 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 610 marks of doubt in the edition. Each document's page says how many it has.
+There are 612 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 468 of the 473. They were made by
-an AI model under rules set by the editor.
+Every document that has text has an English translation: 469 of the 474. They were made by
+an AI model under rules set by the editor, except that of the boundary decree of 1775, which
+is the editor's own.
 
 The translation shows a doubt wherever the original has one, because smooth English would
 hide it:
@@ -170,10 +177,10 @@ Where one archive number covers several documents, they are numbered 72a, 72b an
 few documents survive in two copies. Both are given, because each copy shows where the
 other was miscopied or misread.
 
-The edition is arranged by the owners of the estates. All the documents published so far
-belong to the years of Hohenlohe-Ingelfingen and their aftermath. The earlier boundary
-dispute between Trąbczyn and its neighbour Łukom, and the years after the estates were
-returned to the Prusimski family in 1807, are still to come.
+The edition is arranged by the owners of the estates. Nearly all the documents published so
+far belong to the years of Hohenlohe-Ingelfingen and their aftermath. One belongs to the
+earlier boundary dispute between Trąbczyn and its neighbour Łukom, and more are to follow.
+The years after the estates were returned to the Prusimski family in 1807 are still to come.
 
 ## What is still open
 

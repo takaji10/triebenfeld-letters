@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The story
-standfirst: Three centuries of one estate in central Poland, told in the order the documents fall. One era is published; the other two are named here so you can see what is missing.
+standfirst: Three centuries of one estate in central Poland, told in the order the documents fall. One era is published and a second has its first document; the third is named here so you can see what is missing.
 permalink: /the-story/
 lang: en
 alt_url: /de/die-geschichte/
@@ -13,17 +13,18 @@ because land in this part of Europe changed hands by document: a boundary was a 
 earth mounds attested by a court, a tenancy was a privilege with a seal on it, and an
 owner who could not produce his papers did not own much.
 
-This archive is being built era by era. Each has its own account below. Only the middle one
-has documents on the site so far. The other two exist in the research and in archives in
-Poznań, Warsaw and Berlin, and are named here rather than left out, so that what is absent
-is at least visible.
+This archive is being built era by era. Each has its own account below. The middle one is
+the one published so far. The first now has its first document. The last exists in the
+research and in archives in Warsaw and Berlin, and is named here rather than left out, so
+that what is absent is at least visible.
 
 ---
 
 ## The Trąbczyn and Łukom boundary dispute
 
 **The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next
-door. c. 1589 to 1788. Not yet published.**
+door. c. 1589 to 1788.
+[One document, 1776]({{ '/sources/app53170koningr145/' | relative_url }}).**
 
 Two hundred years of argument between neighbouring estates about where one ended and the
 other began. It runs through courts at Konin, Pyzdry and Kalisz, and the evidence is
@@ -32,7 +33,11 @@ again, a pond-ground that each side said was theirs. In 1771 the Łukom side too
 of twelve Olęder farmsteads along with the land they stood on, and the settlers found
 themselves the subject of a lawsuit between men they had never met.
 
-The documents are in the municipal and land court books at the State Archive in Poznań.
+The first document of this era is here: the decree of the commission that the Polish
+parliament appointed to end the dispute, which walked the boundary in September 1775,
+ruled for the Prusimski side and had new mounds raised along the line
+([the decree]({{ '/documents/app53170koningr145/1/' | relative_url }})). The rest of the
+documents are in the municipal and land court books at the State Archive in Poznań.
 
 ---
 

@@ -8,6 +8,12 @@
 # identity is open has no entry and gets no link. `found` is what the search
 # returned, kept so a wrong match can be seen.
 
+"Brześć Kujawski":
+  lat: 52.60528
+  lon: 18.90111
+  query: "Brześć Kujawski, Polska"
+  found: "not looked up on Nominatim: the town's published coordinates (52°36′19″N 18°54′04″E), entered by hand 2026-10-06"
+
 "Altenburg":
   lat: 50.98524
   lon: 12.4341

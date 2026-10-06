@@ -196,6 +196,28 @@ Where the rest is:
 - **A holding's title** in `unit.yml` is one sentence saying what it is about,
   in English and in German, not the archive's heading with a gloss.
 
+- **A holding the editor has already worked over** (APP 53/17/0/-/Konin
+  Gr.145, 2026-10-06). They asked whether a light touch would do. The way
+  to answer: read three or four pages spread through the text word for
+  word against the scans before saying anything, and report the rate and
+  the kinds of slip found, with an example of the worst. There the
+  translation was sound and the transcription had about one small slip in
+  a hundred words, but one page of three had dropped a phrase, which only
+  a full reading finds. Say what a light touch will and will not catch,
+  do it, and put on the holding's page how many pages were compared.
+- **The editor's own transcription and translation are kept as theirs.**
+  That holding's Polish is in modern spelling and its English is the
+  editor's: neither is redone, the English is cut to the pages by a
+  script (`intake/translation/build_doc1.py`), their headings and notes
+  go in square brackets, and their page marks may sit a few lines from the
+  Polish ones (move only those that are most of a page out).
+- **Polish text and German-made patterns.** A new Polish holding matched
+  seven existing entries wrongly ("brzeg" as the town Brzeg, "święcie" as
+  Swięcia, "Florian" as Florian Gelanski). After adding a holding in
+  another language, list what the index finds in it and read every entry
+  that is not obviously right. `not_in:` on a person or place entry shuts
+  it out of named documents.
+
 ## The English, the summaries and the claim check
 
 - **Where one summary is kept.** Change all of them together:
@@ -230,13 +252,22 @@ Where the rest is:
 
 ## Traps in the tools
 
+- **One very long document** (31,000 words) broke the merge: Python's CSV
+  reader refuses a field over 131,072 characters. `unitlib.py` now raises
+  the limit for every script that imports it; a script that reads
+  `letters.csv` without importing `unitlib` must raise it itself.
+- **A new holding's folder is named `app<digits>` for Poznań** like the
+  others; `new_unit.py` does not add the prefix. Rename the folder and set
+  `slug` before anything is built. `review/<slug>/` must exist before the
+  first `regenerate.py --unit`.
 - **`python regenerate.py --help` prints no help.** It runs the whole pipeline
   for every holding. `--site` also rebuilds every holding first. Use
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
   not touched.
 - **Scripts with backslashes or apostrophes are written to a file and then
-  run.** In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`
+  run** (broken four more times on 2026-10-06, each time by a regex in a
+  heredoc: there is no exception for "a short one"). In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`
   into a backspace (this corrupted `reference/glossary.yml` once) and fails on
   an unbalanced apostrophe.
 - **A one-shot edit script asserts each replacement exactly once.** Commit

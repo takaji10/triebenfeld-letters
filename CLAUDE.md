@@ -213,6 +213,20 @@ so check them.
   draft stands as "A[lvensleben]" (initial read, name supplied from his
   office; the editor cannot verify it). Open: the editor's look at the four
   crops.
+- **APP 53/17/0/-/Konin Gr.145** (slug `app53170koningr145`, added
+  2026-10-06), the first holding of the Prusimski era
+  (`era: prusimski-boundary`): one document of 122 pages, the decree of the
+  commission that fixed the boundary between Trąbczyn and Łukomia in 1775,
+  from a court book of Konin for 1776. 62 openings cut at the fold
+  (`intake/build_pages.py`); the editor's Polish transcription, in modern
+  spelling and by paragraph, and the editor's own English translation, cut
+  to the pages (`intake/translation/build_doc1.py`), not translated again.
+  A light check at the editor's word: four pages read against the scans
+  (`intake/corrections.py`). Status `translated`. Read
+  `units/app53170koningr145/notes.md` first. Built and verified locally,
+  **committed but not pushed: publish when the editor says**. Open: a full
+  check of the other 117 pages, the archive's description, the editor's
+  glossary of 89 terms, an account of the era (`docs/TODO.md` section 6).
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.

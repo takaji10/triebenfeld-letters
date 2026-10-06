@@ -23,7 +23,7 @@
 eras:
   prusimski-boundary:
     order: 1
-    status: unpopulated
+    status: populated
     label_en: "The Trąbczyn and Łukom boundary dispute"
     label_de: "Der Grenzstreit zwischen Trąbczyn und Łukom"
     ownership_en: "The Prusimski family, who held Trąbczyn, against the Chełmski
@@ -34,12 +34,14 @@ eras:
       Two hundred years of argument between neighbouring estates over where one
       ended and the other began: mounds, blazed trees, a disputed pond-ground,
       and the Olęder settlement that was annexed along with the land it stood
-      on. The documents are in the municipal and land court books at Poznań and
-      have not yet been added here.
+      on. The first document is here: the decree of the commission that fixed
+      the boundary in 1775. The rest are in the court books at Poznań and have
+      not yet been added.
     blurb_de: >-
       Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine
-      endete und das andere begann. Die Akten liegen in den Grod- und
-      Landgerichtsbüchern in Posen und sind hier noch nicht erfasst.
+      endete und das andere begann. Das erste Dokument liegt hier vor: das
+      Dekret der Kommission, die 1775 die Grenze festlegte. Die übrigen Akten
+      liegen in den Gerichtsbüchern in Posen und sind noch nicht erfasst.
 
   hohenlohe:
     order: 2
