@@ -2,13 +2,15 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 190,
+  "count": 192,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
    "agad11740273-2",
    "agad11740273-3",
    "agad11740273-4",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
    "app53170koningr136-1",
    "app53170koningr145-1",
    "app536017-1",
@@ -1319,6 +1321,21 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 8,
+  "documents": [
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app536045-1"
+  ]
+ },
+ {
   "entity": "osiny",
   "display": "Osiny",
   "count": 7,
@@ -1386,19 +1403,6 @@
    "oe1bu9454-227",
    "oe1bu9454-266",
    "oe1bu9454-295"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 6,
-  "documents": [
-   "app53170koningr145-1",
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536040-1",
-   "app536045-1"
   ]
  },
  {

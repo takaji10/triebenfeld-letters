@@ -185,6 +185,28 @@
    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
    "line": 50,
    "doc_line": 45
+  },
+  {
+   "entity": "szepczynski",
+   "display": "Bartłomiej Szepczyński, court messenger",
+   "kind": "person",
+   "surface": "Szeptycki",
+   "page": 4,
+   "page_id": "0123_a2",
+   "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+   "line": 50,
+   "doc_line": 45
+  },
+  {
+   "entity": "szepczynski",
+   "display": "Bartłomiej Szepczyński, court messenger",
+   "kind": "person",
+   "surface": "Szepczyński",
+   "page": 4,
+   "page_id": "0123_a2",
+   "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+   "line": 50,
+   "doc_line": 45
   }
  ],
  "mentions_english": [],

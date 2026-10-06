@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 25
+  docs: 27
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 44
+  docs: 46
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 63
+  docs: 65
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 19
+  docs: 21
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

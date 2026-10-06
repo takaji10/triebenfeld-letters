@@ -239,7 +239,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 3,
   "estates": [
    "trabczyn"
@@ -299,6 +299,100 @@
   "path": "documents/app536045-1.json",
   "text_path": "text/app536045-1.txt",
   "permalink": "/documents/app536045/1/"
+ },
+ {
+  "uid": "app53170koningr114-1",
+  "unit": "app53170koningr114",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "la,pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1767-04-22",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 4,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0297_a2",
+    "image": "APP_53_17_0_Konin_Gr_114_0297_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0298_a1",
+    "image": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/app53170koningr114-1.json",
+  "text_path": "text/app53170koningr114-1.txt",
+  "permalink": "/documents/app53170koningr114/1/"
+ },
+ {
+  "uid": "app53170koningr114-2",
+  "unit": "app53170koningr114",
+  "letter_id": "2",
+  "doc_type": "report",
+  "language": "la,pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1767-08-06",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 5,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0334_a2",
+    "image": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0335_a1",
+    "image": "APP_53_17_0_Konin_Gr_114_0335_a1-L2_02.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 2",
+  "path": "documents/app53170koningr114-2.json",
+  "text_path": "text/app53170koningr114-2.txt",
+  "permalink": "/documents/app53170koningr114/2/"
  },
  {
   "uid": "app53170koningr145-1",

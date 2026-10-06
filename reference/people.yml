@@ -282,6 +282,14 @@ people:
     variants: ["Chełmsky", "Chelmski"]
     identity: "The family that owned Łukomia, the estate next to Trąbczyn: Jerzy Chełmski in 1644 (APP 53/6/0/-/36), Stanisław Ścibor Chełmski in 1763 (APP 53/6/0/-/45), the brothers Heliodor and Stanisław in the boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145), and a Chełmski at law over the South Prussian estates in 1798 and 1799. A family entry: the documents name several men, who are not yet told apart in the index."
     merge: false
+  szepczynski:
+    display: "Bartłomiej Szepczyński, court messenger"
+    render: "Szepczyński"
+    match: 'Szepczy[nń]sk\w+|Szeptyck\w+'
+    tier: "Text-confirmed"
+    variants: ["Szeptycki"]
+    identity: "Bartłomiej Szepczyński of Trąbczyn, a sworn court messenger (woźny, Ministerialis Regni Generalis), a commoner ('Providus'). He made the inspection of Trąbczyn for Katarzyna Prusimska in 1754, where the record writes him Szeptycki (APP 53/17/0/-/Konin Gr.136), and reported twice in 1767 for Antoni Prusimski on the embankment at the pond-ground (APP 53/17/0/-/Konin Gr.114). The editor's notes identify him with the messenger Bartłomiej of Trąbczyn in the decree of 1775 and in a document of 1782. Added 2026-10-07."
+    merge: false
   trampczynski:
     display: "Trąmpczyński (Otto-Trąmpczyński)"
     render: "Trąmpczyński"

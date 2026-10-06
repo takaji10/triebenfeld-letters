@@ -2,9 +2,11 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 617,
+  "count": 625,
   "documents": [
    "agad11740273-2",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
    "app53170koningr136-1",
    "app53170koningr145-1",
    "app536036-1",
@@ -289,6 +291,78 @@
     "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
     "line": 5,
     "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0297_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0297_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Trąmpczyn",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Trąmpczyn",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Trąmpczyn",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 11,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
    },
    {
     "uid": "app53170koningr145-1",
@@ -15676,11 +15750,21 @@
  {
   "entity": "lukomia",
   "display": "Łukomia",
-  "count": 179,
+  "count": 180,
   "documents": [
+   "app53170koningr114-2",
    "app53170koningr145-1"
   ],
   "mentions": [
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Łukomia",
+    "page": 2,
+    "page_id": "0335_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0335_a1-L2_02.jpg",
+    "line": 14,
+    "doc_line": 4
+   },
    {
     "uid": "app53170koningr145-1",
     "surface": "Łukomia",
@@ -24783,9 +24867,11 @@
  {
   "entity": "kolno",
   "display": "Kolno (Kulm)",
-  "count": 95,
+  "count": 97,
   "documents": [
    "agad11740273-2",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12366-2",
    "iiihamdaiiinr12765-14",
@@ -24818,6 +24904,24 @@
    "oe1bu9454-299"
   ],
   "mentions": [
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Kolno",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
+   },
    {
     "uid": "oe1bu14525-13",
     "surface": "Kolno",
@@ -33578,8 +33682,10 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 52,
+  "count": 54,
   "documents": [
+   "app53170koningr114-1",
+   "app53170koningr114-2",
    "app53170koningr145-1",
    "app536017-1",
    "app536036-1",
@@ -33678,6 +33784,24 @@
     "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
     "line": 5,
     "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Łukomskich",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
    },
    {
     "uid": "app53170koningr145-1",

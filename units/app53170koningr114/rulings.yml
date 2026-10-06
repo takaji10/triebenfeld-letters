@@ -1,0 +1,53 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.114 (APP).
+#
+# Two documents, one for each entry (the editor, 2026-10-06: "Gr. 114 as two
+# entries of the one volume"). Established 2026-10-07.
+
+places:
+  # Place of writing: both open "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "Feria Quarta post Festa Solemnia Sacri Paschalis proxima Anno Domini
+    # 1767": Easter 1767 was 19 April, the Wednesday after it 22 April. The
+    # inspection was on Holy Saturday, 18 April.
+    "1": [1767, 4, 22, "day"]
+    # "Feria Quinta Ipso Die Festi Transfigurationis Domini ... 1767": 6
+    # August, a Thursday in 1767. The inspection was on the Friday after St
+    # James (25 July), 31 July.
+    "2": [1767, 8, 6, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": report
+    "2": report
+
+  # Latin, with the thing seen described in Polish.
+  language:
+    "1": "la,pl"
+    "2": "la,pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+    "2": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0297_a2", "0298_a1", "0334_a2", "0335_a1"]
+
+damage:
+  letters: []

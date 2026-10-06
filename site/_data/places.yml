@@ -113,12 +113,12 @@
   letters: [{id: "211", uid: "oe1bu9454-211", url: "/documents/oe1bu9454/211/"}]
 - name: "Konin"
   slug: "konin"
-  count: 6
+  count: 8
   lat: 52.2559
   lon: 18.26787
-  docs: 6
-  span: "1589–1763"
-  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/"}, {id: "1", uid: "app536036-1", url: "/documents/app536036/1/"}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/"}, {id: "1", uid: "app536040-1", url: "/documents/app536040/1/"}, {id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/"}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/"}]
+  docs: 8
+  span: "1589–1767"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/"}, {id: "1", uid: "app536036-1", url: "/documents/app536036/1/"}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/"}, {id: "1", uid: "app536040-1", url: "/documents/app536040/1/"}, {id: "1", uid: "app53170koningr136-1", url: "/documents/app53170koningr136/1/"}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/"}, {id: "1", uid: "app53170koningr114-1", url: "/documents/app53170koningr114/1/"}, {id: "2", uid: "app53170koningr114-2", url: "/documents/app53170koningr114/2/"}]
 - name: "Konotop (Kontop)"
   slug: "konotop-kontop"
   count: 24

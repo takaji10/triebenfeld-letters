@@ -1,0 +1,23 @@
+# What the check of APP 53/17/0/-/Konin Gr.114 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.114: two reports on the embankment, 1767"
+changes:
+- importance: fact
+  what: "In both reports it is the court messenger who went onto the estate and saw the embankment, at Prusimski's request. The English read as if Prusimski had gone."
+  was: "heir of the estates of the village of Trąmpczyn with its appurtenances, who on the Holy Saturday not long past had descended"
+  now: "heir of the estates of the village of Trąbczyn with its appurtenances — on the Holy Saturday not long past had descended"
+- importance: fact
+  what: "The heading of the second report is \"Pro Parte Haeredis\", for the party of the heir, as over the first. \"Present\" is not in it."
+  was: "Boundary Judicial Site Inspection — for the Heir of Trąmpczyn, Present"
+  now: "Boundary Judicial Site Inspection — on behalf of the Heir of Trąbczyn"
+- importance: fact
+  what: "Dates by the calendar: the first report was entered on 22 April 1767 (inspection on Holy Saturday, 18 April), the second on 6 August 1767 (inspection on Friday 31 July)."
+  was: "1767"
+  now: "22 April and 6 August 1767"
+- importance: wording
+  what: "The flooding was done \"in these times\" (his temporibus), not \"here, at that time\"; the messenger is \"of Trąbczyn\" in the second report too."
+  was: "had been done here, at that time"
+  now: "had been done in these times"
