@@ -1,8 +1,9 @@
 # The Prusimski era: plan
 
 Written 2026-10-06 at the editor's request ("Before you start anything, make a
-plan for everything in this prompt"). Nothing in it has been started. It
-covers: finishing APP 53/17/0/-/Konin Gr.145; bringing in the other court
+plan for everything in this prompt"). The editor answered its questions the
+same day ("The editor's answers", at the end), and work began with section
+1. It covers: finishing APP 53/17/0/-/Konin Gr.145; bringing in the other court
 books from the State Archive in Poznań; the spelling question; the glossary;
 and what the rest of the site owes these holdings.
 
@@ -291,11 +292,29 @@ Open for the editor: whether an English rendering that is plain English
 ("corner mound") needs an entry at all, or only those a reader could not
 guess.
 
-## What is needed from the editor before work starts
+## The editor's answers (2026-10-06)
 
-1. **One document per court-book entry** (section 3), or another rule.
-2. **Accept and label the mixed spelling** (section 4).
-3. **Whole pages, cut at the fold, approved on a sheet per holding**
-   (section 3, step 2), or cropping to the entry.
-4. The four questions about the folders (section 2).
-5. The order of the batches, and that each is published before the next.
+1. **Each entry of a court book is a document.** ("Make each entry a
+   document.")
+2. **The mixed spelling is accepted and labelled.** Now a standing rule in
+   `docs/EDITORIAL_RULES.md`.
+3. **Whole pages**, cut at the fold, shown on a sheet per holding for
+   approval. No cropping to the entry.
+4. The folders:
+   - **The three folders of camera raw files (Konin Gr.79, Gr.80, Gr.81)
+     are not relevant to the project** and are ignored. They are no longer
+     on the list of folders that need texts.
+   - **"(43.4.0.-.76) (Kalisz) (Unrelated)" is left out.**
+   - **"Incorrect Pages" in Konin Gr.115 is ignored.**
+   - **Konin Gr.114: two entries of the one volume.**
+   - **Pyzdry Gr.75** (the signature that stands on two folders): "I'm not
+     sure ... let's look at that later." Both folders wait.
+5. **The order of the batches is Claude's to decide.** It stands as in
+   section 3, with Pyzdry Gr.75 taken out of batch 3 until it is settled.
+6. On the glossary: **"corner mound" could get a definition.** So a plain
+   English rendering of a term of the period may have an entry; the test
+   is whether the thing needs explaining, not whether the words are hard.
+
+Still needed from the editor: texts for five folders (Inscriptiones Pyzdry
+Gr.75, Relationes Poznań Gr.1181, Relationes Pyzdry Gr.115, Relationes-oblatae
+Konin Gr.142 and Gr.150), and the ruling on Pyzdry Gr.75.

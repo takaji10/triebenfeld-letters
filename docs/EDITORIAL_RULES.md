@@ -144,6 +144,23 @@ than where it sits.
   `A[lvensleben]`), and only where the name follows from something other
   than the unread letters, such as the office the signer held. The reason
   is given in the holding's notes.
+- **Modern spelling beside the scribe's spelling** (editor, 2026-10-06). The
+  Polish of the Prusimski-era court books was transcribed in modern
+  spelling in many places, to make it easier to read. That is accepted,
+  and each document says which it is: `as written`, `partly modern` or
+  `modern` (`rulings.yml`, shown on the document's page and said on the
+  holding's page). A text is not converted in either direction, and a
+  modernised form is not corrected "back" on one page. Latin is given as
+  written, with abbreviations filled out.
+- **Each entry of a court book is a document** (editor, 2026-10-06). A
+  court book is not a file about one matter: its entries are years apart
+  and unrelated to their neighbours, so the package rule above does not
+  apply to it. A run of one-line register notes of one sitting is one
+  document; a long entry with older decrees copied into it is one
+  document.
+- **Pages of a court book are whole pages** (editor, 2026-10-06): an
+  opening is cut at the fold and the page kept entire, never cropped to
+  the entry. The editor approves the folds and which halves are kept.
 - **Struck-out text is not transcribed** (editor, 2026-10-05). Where a writer
   struck words out, the edition gives the text as he corrected it and leaves
   the deleted words out. A deletion that matters to the sense is described in

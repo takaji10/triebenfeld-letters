@@ -190,9 +190,15 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       keeping the glossary useful are in the plan, section 6.
 - [x] An account of the Prusimski era: wait until more documents are in
       (you, 2026-10-06).
-- [ ] **You: the five decisions at the end of PRUSIMSKI_ERA_PLAN.md**,
-      before the other twenty folders are started, and the texts for the
-      nine folders that have none (listed there).
+- [x] The five decisions of PRUSIMSKI_ERA_PLAN.md: answered by you on
+      2026-10-06 (each entry a document; mixed spelling accepted and
+      labelled; whole pages; the raw-file folders, "Unrelated" and
+      "Incorrect Pages" left out; batch order mine).
+- [ ] **You: texts for five folders that have none**: Inscriptiones Pyzdry
+      Gr.75, Relationes Poznań Gr.1181, Relationes Pyzdry Gr.115,
+      Relationes-oblatae Konin Gr.142 and Gr.150.
+- [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
+      come back to it.
 
 ## 7. Carried over
 
