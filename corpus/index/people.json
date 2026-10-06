@@ -14925,7 +14925,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 177,
+  "count": 176,
   "documents": [
    "app53170koningr145-1",
    "ihagrrep7cnr1414-1",
@@ -15642,15 +15642,6 @@
     "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
     "line": 415,
     "doc_line": 300
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Prusimski",
-    "page": 115,
-    "page_id": "0712_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0712_a1-L1_115.jpg",
-    "line": 418,
-    "doc_line": 302
    },
    {
     "uid": "app53170koningr145-1",
@@ -33976,7 +33967,7 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 65,
+  "count": 66,
   "documents": [
    "app53170koningr145-1",
    "oe1bu9454-102",
@@ -34371,6 +34362,15 @@
     "scan": "APP_53_17_0_Konin_Gr_145_0709_a2-L1_110.jpg",
     "line": 398,
     "doc_line": 287
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 111,
+    "page_id": "0710_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+    "line": 401,
+    "doc_line": 289
    },
    {
     "uid": "app53170koningr145-1",
