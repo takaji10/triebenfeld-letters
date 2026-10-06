@@ -113,12 +113,12 @@
   letters: [{id: "211", uid: "oe1bu9454-211", url: "/documents/oe1bu9454/211/"}]
 - name: "Konin"
   slug: "konin"
-  count: 3
+  count: 4
   lat: 52.2559
   lon: 18.26787
-  docs: 3
-  span: "1644–1763"
-  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/"}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/"}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/"}]
+  docs: 4
+  span: "1589–1763"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/"}, {id: "1", uid: "app536036-1", url: "/documents/app536036/1/"}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/"}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/"}]
 - name: "Konotop (Kontop)"
   slug: "konotop-kontop"
   count: 24

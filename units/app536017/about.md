@@ -1,0 +1,27 @@
+One entry on two pages of a book of the land court at Konin for the year 1589, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the court's order for an inspection on the ground in a suit over a pond at Łukom that flooded the woods of Trąbczyn. It is in Latin, with one sentence in Polish, and is one document. It is the earliest document in this edition. <!-- context -->
+
+### Historical background
+
+In the sixteenth century Trąbczyn belonged to the family that took its name from it, the Trąmpczyńskis, who bore the by-name Otto, and the neighbouring village of Łukom to the Łukomskis. The quarrel between the two estates over woods, water and the line between them ran on under later owners for two hundred years, until a commission fixed the boundary in 1775: [[unit:app53170koningr145]]. <!-- context -->
+
+This entry mattered in that later suit. The decree of 1775 cites "four Kalisz land decrees in the Konin land court on Monday before Saint Vitus of 1589" between Wojciech (in Latin Albertus) Trąmpczyński and the heirs of Łukomia, Tomasz, Jan and Stanisław Łukomski among them, over the flooding caused by a newly built pond; this is the one against Tomasz. The inspection it orders was held on the ground on the eve of Saint James in 1589 and entered in the court records at Konin only in 1592. In 1775 the Chełmskis rested their whole boundary line on that inspection, and Prusimski argued that it was worthless, because Wojciech had owned only a share of Trąbczyn and had acted as guardian of his nephews to their harm. <!-- context -->
+
+A land court heard the civil suits of the nobility of its district. Where a claim turned on what had been done on the ground, the court ordered an inspection (visio): one of its sworn messengers went out, saw the place in the presence of both sides, and reported to the court at its next terms. A defendant who had ignored a first citation was "in contumacy" and was cited a second time. <!-- context -->
+
+### Contents
+
+**The claim.** Albertus Trąmpczyński Otha, plaintiff, has cited Thomas Łukomski for the second time, after a first default. He charges that in the present year Łukomski, with other neighbours against whom the plaintiff keeps his claim, built a pond in the estate of the village of Łukom, and by holding back too much water flooded a great quantity of woodland, pine forest, barren pasture and meadow in the estates of the villages of Trąbczyn, Nowa Wieś and Osiny. The clerk adds the plaintiff's own words in Polish: the flooding drowned and killed oak, beech and ash fit for building and for bee-trees. The plaintiff values the harm at ten thousand Hungarian florins of pure gold and as much again in damages [[1]].
+
+**The order.** The court has heard both sides. At the defendant's request it orders a judicial inspection, and it adds one of the land court's messengers, whom the defendant is to choose, to see in what place and on whose ground the wrong was done, and whether it was done. The defendant is to hire the messenger at his own cost and to have the inspection carried out within six weeks of the decree at the place in dispute. Both parties are bound to attend. Whether the inspection has taken place or not, both have a final term at the next land court terms at Konin, to hear its outcome before the court from the messenger and to proceed in the suit [[1]].
+
+### Form and language
+
+The entry begins halfway down leaf 27 under a heading in large letters, "Łukomski Visionem expediet", and ends in ten lines at the top of leaf 27 verso. The Latin is abbreviated in nearly every word; the transcription fills the abbreviations out, and marks the five places where a word is not fully read. <!-- context -->
+
+Three more entries on the same leaves concern the same people and are not transcribed. The next, on leaves 27 verso and 28, is the same plaintiff's suit against Stanislaus Łukomski in nearly the same words. Two more, on leaves 28 to 29, are suits of Nicolaus and Joannes Trąmpczyński against Albertus. <!-- context -->
+
+The entry has no date of its own. The heading of the sitting stands on leaf 2, which the editor transcribed but which is not among the scans: "Actum in terminis terrestribus particularibus Coninensibus feria se[x?]ta ante festum Sancti Viti Martyris proxima Anno Domini 1589 in Conin celebratis", that is, done at the particular land court terms of Konin, held at Konin on a weekday before the feast of Saint Vitus the Martyr (15 June) 1589. The editor read the weekday with a doubt. The decree of 1775 gives the day of these decrees as the Monday before Saint Vitus, which in 1589 was 12 June, and the document is dated from that. <!-- context -->
+
+### Related holdings
+
+Later suits between the two estates before the same court: [[unit:app536036]] and [[unit:app536045]]. The decree that ended the dispute in 1775: [[unit:app53170koningr145]]. <!-- context -->

@@ -1679,6 +1679,18 @@
   bio_de: "Ein Rat, der 1804 die Güter Kamionna (Kaemen) und Kolno für einen Kaufinteressenten taxierte."
   span: "1804"
   letters: [{id: "129", uid: "oe1bu9454-129", url: "/documents/oe1bu9454/129/", n: 1}, {id: "135", uid: "oe1bu9454-135", url: "/documents/oe1bu9454/135/", n: 2}]
+- slug: "lukomski"
+  name: "Łukomski"
+  heading: "Łukomski (family)"
+  heading_de: "Łukomski (Familie)"
+  count: 2
+  docs: 1
+  life: "documented 1589"
+  life_de: "belegt 1589"
+  bio: "The family named from Łukom, the estate next to Trąbczyn, which it held in the sixteenth century. In 1589 Thomas Łukomski was sued for building a pond there that flooded the woods and meadows of Trąbczyn."
+  bio_de: "Die Familie, die sich nach Łukom nannte, dem Nachbargut von Trąbczyn, das ihr im 16. Jahrhundert gehörte. 1589 wurde Thomas Łukomski verklagt, weil er dort einen Teich angelegt hatte, der Wälder und Wiesen von Trąbczyn überschwemmte."
+  span: "1589"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 2}]
 - slug: "luszczewski"
   name: "Łuszczewski"
   heading: "Łuszczewski, Jan Paweł"
@@ -2880,14 +2892,14 @@
   name: "Trąmpczyński (Otto-Trąmpczyński)"
   heading: "Trąmpczyński (family)"
   heading_de: "Trąmpczyński (Familie)"
-  count: 3
-  docs: 1
-  life: "documented 1644"
-  life_de: "belegt 1644"
-  bio: "The family that held Trąbczyn in the sixteenth and seventeenth centuries and took its name from it, with the by-name Otto. In 1644 four brothers of the family and their widowed mother were condemned by default at the suit of their neighbour Jerzy Chełmski of Łukom."
-  bio_de: "Die Familie, der Trąbczyn im 16. und 17. Jahrhundert gehörte und die sich nach dem Gut nannte, mit dem Beinamen Otto. 1644 wurden vier Brüder der Familie und ihre verwitwete Mutter auf Klage ihres Nachbarn Jerzy Chełmski von Łukom in Abwesenheit verurteilt."
-  span: "1644"
-  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 3}]
+  count: 4
+  docs: 2
+  life: "documented 1589-1644"
+  life_de: "belegt 1589-1644"
+  bio: "The family that held Trąbczyn in the sixteenth and seventeenth centuries and took its name from it, with the by-name Otto. In 1589 Albertus Trąmpczyński sued his neighbour Thomas Łukomski over a pond that flooded his woods. In 1644 four brothers of the family and their widowed mother were condemned by default at the suit of their neighbour Jerzy Chełmski of Łukom."
+  bio_de: "Die Familie, der Trąbczyn im 16. und 17. Jahrhundert gehörte und die sich nach dem Gut nannte, mit dem Beinamen Otto. 1589 verklagte Albertus Trąmpczyński seinen Nachbarn Thomas Łukomski wegen eines Teichs, der seine Wälder überschwemmte. 1644 wurden vier Brüder der Familie und ihre verwitwete Mutter auf Klage ihres Nachbarn Jerzy Chełmski von Łukom in Abwesenheit verurteilt."
+  span: "1589–1644"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 1}, {id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 3}]
 - slug: "triebenfeld"
   name: "v. Triebenfeld"
   heading: "Triebenfeld, Peter Friedrich August von"

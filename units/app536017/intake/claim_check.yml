@@ -1,0 +1,23 @@
+# The claim check of the German summary of APP 53/6/0/-/17, made in session
+# on 2026-10-07 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The document was read in the Latin
+# of corpus.txt as read again from the scans.
+#
+# Result: 9 statements, all supported. The year 1589 and the court come from
+# the heading of the sitting on leaf 2, which the editor transcribed and
+# which is not among the scans (intake/build_pages.py; quoted in about.md).
+# Names in the edition's forms count as supported (Trąbczyn for Trąmpczino,
+# Osiny for Osziny).
+
+app536017-001:
+- {claim: "Eintrag des Landgerichts in Konin von 1589, überschrieben damit, dass Łukomski eine Besichtigung durchzuführen hat", verdict: supported, where: "the heading on leaf 2: Actum in terminis terrestribus particularibus Coninensibus ... Anno Domini 1589 in Conin celebratis; p. 1: Łukomski Visionem exped[ie]t; Judicium praesens Terrestre Coninense"}
+- {claim: "Albertus Trąmpczyński Otha hat als Kläger Thomas Łukomski zum zweiten Mal geladen, nachdem dieser beim ersten Mal ausgeblieben war", verdict: supported, where: "p. 1: Nobilis Albertus Thrąmpczyńsky Otha ex interesse suo Actor Nobilem Thomam Łukomsky cittavit secundo post paenam Contumaciae"}
+- {claim: "er habe in diesem Jahr mit anderen Nachbarn im Gut des Dorfes Łukom einen Teich angelegt", verdict: supported, where: "p. 1: ipse anno praesenti constructo stagno cum caeteris vicinis suis ... in haereditate villae Łukom"}
+- {claim: "und durch zu starkes Aufstauen des Wassers eine große Menge Wald, Kiefernwald, unfruchtbare Weide und Wiesen in den Gütern der Dörfer Trąbczyn, Nowa Wieś und Osiny überschwemmt", verdict: supported, where: "p. 1: ingentem quantitatem silvae et borrae pascuorum sterilium necnon pratorum per nimiam dettentionem aquae in eisdem haereditatibus villarum Trąmpczino, Nowawiesz et Osziny inundavit"}
+- {claim: "ein polnischer Satz nennt Eichen, Buchen und Eschen, die zum Bauen und für Bienenbeuten taugten und durch die Überschwemmung abgestorben seien", verdict: supported, where: "p. 1: zalial drzewa pospolithego rodzaynego dembiny bucziny jeszyeniny thim zaliewkyem poszuszil do budowania i do barczi godnego"}
+- {claim: "den Schaden schätzt der Kläger auf zehntausend ungarische Goldgulden und ebenso viel Schadenersatz", verdict: supported, where: "p. 1: Aestimationis ad Decem millia florenorum Hungaricalium puri auri et iusti ponderis et totidem damni"}
+- {claim: "das Gericht ordnet auf Antrag des Beklagten eine gerichtliche Besichtigung an und gibt einen Gerichtsboten bei, den der Beklagte wählt und bezahlt; er soll sehen, an welchem Ort und auf wessen Grund das Unrecht geschehen ist und ob es geschehen ist", verdict: supported, where: "p. 1: Ad affectationem Juridicam partis Citatae ... decrevit praesentibusque decernit Visionem Juridicam Nihilominusque addidit ... Ministerialem terrestrem quem sibi pars Citata elegerit ad videndum videlicet et conspiciendum quo in loco cuius in fundo iniuria praefata illata et utrum facta necne ... sumptibus proprijs Ministeriali conducto"}
+- {claim: "der Beklagte hat die Besichtigung binnen sechs Wochen am strittigen Ort durchzuführen, beide Parteien müssen anwesend sein", verdict: supported, where: "pp. 1-2: a data praesentis decreti recte in sex septimanis ... in loco differentiarum expedire debet ... Cui Visioni partes ambae interesse debent"}
+- {claim: "bei den nächsten Gerichtsterminen in Konin haben sie einen letzten Termin, um das Ergebnis vor Gericht zu hören", verdict: supported, where: "p. 2: in proximis futuris terminis terrestribus Coninensibus proxime et immediate in Conin celebrandis habituri sunt terminum peremptorium ad audiendum a praefata Visione iuris restitutionem coram Judicio per Ministerialem"}

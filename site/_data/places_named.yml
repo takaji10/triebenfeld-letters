@@ -355,20 +355,20 @@
   docs: 12
   span: "1794–1818"
   letters: [{id: "13", uid: "oe1bu14525-13", url: "/documents/oe1bu14525/13/", n: 3}, {id: "101", uid: "oe1bu9454-101", url: "/documents/oe1bu9454/101/", n: 1}, {id: "27", uid: "oe1bu14525-27", url: "/documents/oe1bu14525/27/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 2}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 1}, {id: "23", uid: "oe1bu14526-23", url: "/documents/oe1bu14526/23/", n: 1}, {id: "254", uid: "oe1bu9454-254", url: "/documents/oe1bu9454/254/", n: 1}, {id: "265b", uid: "oe1bu9454-265b", url: "/documents/oe1bu9454/265b/", n: 1}, {id: "6", uid: "iiihamdaiiinr12765-6", url: "/documents/iiihamdaiiinr12765/6/", n: 1}, {id: "297", uid: "oe1bu9454-297", url: "/documents/oe1bu9454/297/", n: 1}, {id: "299", uid: "oe1bu9454-299", url: "/documents/oe1bu9454/299/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 1}]
+- slug: "nowawies-trabczyn"
+  name: "Nowawies"
+  count: 15
+  lat: 52.14177
+  lon: 17.93662
+  docs: 12
+  span: "1589–1830"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 1}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 3}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "2", uid: "app539680801-2", url: "/documents/app539680801/2/", n: 1}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "italien"
   name: "Italien"
   count: 14
   docs: 11
   span: "1815"
   letters: [{id: "281", uid: "oe1bu9454-281", url: "/documents/oe1bu9454/281/", n: 1}, {id: "271", uid: "oe1bu9454-271", url: "/documents/oe1bu9454/271/", n: 1}, {id: "274", uid: "oe1bu9454-274", url: "/documents/oe1bu9454/274/", n: 1}, {id: "10", uid: "oe1bu9454-10", url: "/documents/oe1bu9454/10/", n: 2}, {id: "11", uid: "oe1bu9454-11", url: "/documents/oe1bu9454/11/", n: 1}, {id: "277", uid: "oe1bu9454-277", url: "/documents/oe1bu9454/277/", n: 1}, {id: "284", uid: "oe1bu9454-284", url: "/documents/oe1bu9454/284/", n: 1}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}, {id: "287", uid: "oe1bu9454-287", url: "/documents/oe1bu9454/287/", n: 3}, {id: "16", uid: "oe1bu9454-16", url: "/documents/oe1bu9454/16/", n: 1}, {id: "288", uid: "oe1bu9454-288", url: "/documents/oe1bu9454/288/", n: 1}]
-- slug: "nowawies-trabczyn"
-  name: "Nowawies"
-  count: 14
-  lat: 52.14177
-  lon: 17.93662
-  docs: 11
-  span: "1776–1830"
-  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 1}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 3}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "2", uid: "app539680801-2", url: "/documents/app539680801/2/", n: 1}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "stoki"
   name: "Stoki (Stocki)"
   count: 27
@@ -415,6 +415,14 @@
   docs: 9
   span: "1797–1804"
   letters: [{id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/", n: 1}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/", n: 1}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", n: 1}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", n: 1}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/", n: 1}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/", n: 1}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 5}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 5}]
+- slug: "osiny"
+  name: "Osiny"
+  count: 57
+  lat: 52.12586
+  lon: 17.93077
+  docs: 9
+  span: "1589–1830"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 46}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "15", uid: "oe1bu14526-15", url: "/documents/oe1bu14526/15/", n: 1}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", n: 3}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "pyzdry"
   name: "Pyzdry (Peisern)"
   count: 11
@@ -431,14 +439,6 @@
   docs: 9
   span: "1797–1804"
   letters: [{id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/", n: 1}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/", n: 1}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", n: 1}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", n: 1}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/", n: 1}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/", n: 1}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 5}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 5}]
-- slug: "osiny"
-  name: "Osiny"
-  count: 56
-  lat: 52.12586
-  lon: 17.93077
-  docs: 8
-  span: "1776–1830"
-  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 46}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "15", uid: "oe1bu14526-15", url: "/documents/oe1bu14526/15/", n: 1}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", n: 3}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "pommern"
   name: "Pommern"
   count: 9
@@ -529,6 +529,14 @@
   docs: 6
   span: "1797–1804"
   letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 2}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 2}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 2}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 2}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 2}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 2}]
+- slug: "lukom"
+  name: "Łukom"
+  count: 49
+  lat: 52.13301
+  lon: 17.84485
+  docs: 6
+  span: "1589–1803"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 3}, {id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 2}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/", n: 1}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 41}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/", n: 1}]
 - slug: "boyadel"
   name: "Bojadła (Boyadel)"
   count: 10
@@ -613,14 +621,6 @@
   docs: 5
   span: "1799–1815"
   letters: [{id: "44", uid: "oe1bu14525-44", url: "/documents/oe1bu14525/44/", n: 1}, {id: "43", uid: "oe1bu14525-43", url: "/documents/oe1bu14525/43/", n: 1}, {id: "246", uid: "oe1bu9454-246", url: "/documents/oe1bu9454/246/", n: 1}, {id: "266", uid: "oe1bu9454-266", url: "/documents/oe1bu9454/266/", n: 1}, {id: "271", uid: "oe1bu9454-271", url: "/documents/oe1bu9454/271/", n: 1}]
-- slug: "lukom"
-  name: "Łukom"
-  count: 46
-  lat: 52.13301
-  lon: 17.84485
-  docs: 5
-  span: "1644–1803"
-  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 2}, {id: "2", uid: "app536036-2", url: "/documents/app536036/2/", n: 1}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 41}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/", n: 1}]
 - slug: "augustinow"
   name: "Augustinow"
   count: 5

@@ -288,10 +288,10 @@ people:
     # Only in the documents listed: in the Polish of the boundary decree
     # "Trąpczyński" is the adjective of the place (gruntu Trąpczyńskiego).
     match: 'Th?r[ąa]m?pczy[nń]s(?:k(?:iego|ich|i|y|a)|cy)(?![a-zà-ÿ])'
-    only_in: [app536036-1, app536036-2]
+    only_in: [app536017-1, app536036-1, app536036-2]
     tier: "Text-confirmed"
     variants: []
-    identity: "The family that held Trąbczyn before the Prusimskis and took its name from it, with the by-name Otto ('Ottow Trąmpczyńskich'). In 1644 the brothers Marcin, Wojciech, Władysław and Andrzej, sons of the late Stanisław, and his widow Anna of Słończyce were condemned by default at the suit of Jerzy Chełmski (APP 53/6/0/-/36). A family entry. Added 2026-10-06."
+    identity: "The family that held Trąbczyn before the Prusimskis and took its name from it, with the by-name Otto ('Otha', 'Ottow Trąmpczyńskich'). In 1589 Albertus Trąmpczyński Otha sued Thomas Łukomski for a pond at Łukom that flooded his woods (APP 53/6/0/-/17). In 1644 the brothers Marcin, Wojciech, Władysław and Andrzej, sons of the late Stanisław, and his widow Anna of Słończyce were condemned by default at the suit of Jerzy Chełmski (APP 53/6/0/-/36). A family entry. Added 2026-10-06."
     merge: false
   dambski-ludwik:
     display: "Ludwik Dąmbski, voivode of Brześć Kujawski"
@@ -600,6 +600,16 @@ people:
     variants: []
     identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The editor's register of the court books (reference/sources/poznan_cross_reference_map.md) has her as widow of Paweł Prusimski and holder of Trąbczyn for life, from the inspection of 1754 (APP 53/17/0/-/Konin Gr.136, not yet in the edition), and places her between Krzysztof Prusimski and Antoni, the Starost. Added 2026-10-06."
     distinct_from: [prusimska]
+    merge: false
+  lukomski:
+    display: "Łukomski"
+    # Only in the document listed, until other documents show who else
+    # bears the name.
+    match: 'Łukomsk(?:iego|ich|i|y)(?![a-zà-ÿ])'
+    only_in: [app536017-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The family named from Łukom, which held it in the sixteenth century, before the Chełmskis. In 1589 Thomas Łukomski was sued by Albertus Trąmpczyński Otha for building a pond in the estate of the village of Łukom that flooded the woods of Trąbczyn, Nowa Wieś and Osiny (APP 53/6/0/-/17). The entry after it on the same scans, not transcribed, is the same suit against Stanislaus Łukomski. A family entry. Added 2026-10-07."
     merge: false
   miaczynski:
     display: "Stanisław Miączyński"

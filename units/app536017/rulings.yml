@@ -1,0 +1,60 @@
+# Editorial rulings for 53/6/0/-/17 (APP).
+#
+# One document: the entry "Łukomski Visionem expediet", on leaf 27 with its
+# end on leaf 27 verso. Each entry of a court book is a document (the
+# editor's ruling of 2026-10-06, EDITORIAL_RULES). Three more entries on the
+# same scans are not transcribed (intake/build_pages.py). Established
+# 2026-10-07.
+
+places:
+  # Place of writing: the land court sat at Konin ("in Conin celebratis",
+  # the heading of the sitting on leaf 2).
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred: {}
+
+  # The date of the sitting the entry stands under:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # The entry has no date. The heading of the sitting is on leaf 2, which
+  # the editor transcribed but which is not among the scans: "feria se[x?]ta
+  # ante festum Sancti Viti Martyris proxima Anno Domini 1589". St Vitus is
+  # 15 June, a Thursday in 1589; "feria sexta", if that is the word, is the
+  # Friday before, 9 June; the word is in doubt and cannot be checked. But
+  # the boundary decree of 1775 (Konin Gr.145, pages 45 and 61 to 62) cites
+  # "four Kalisz land decrees in the Konin land court on Monday before Saint
+  # Vitus of 1589, between Wojciech Trąbczyński as plaintiff ... and the
+  # heirs of Łukomia ... concerning the flooding ... caused by a newly built
+  # pond": this entry is one of them. Monday before St Vitus 1589 is 12
+  # June ("feria secunda"; the doubtful word is then "secunda"). The day
+  # is taken from that, and the basis says so.
+  sitting:
+    "1": [1589, 6, 12, "day", "The boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145) cites the four decrees of this sitting on the flooding as given at Konin on the Monday before St Vitus 1589, which was 12 June. The heading of the sitting is on leaf 2, which is not among the scans; the entry itself has no date."]
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0027_a2", "0028_a1"]
+
+damage:
+  letters: []

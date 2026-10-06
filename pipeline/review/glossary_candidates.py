@@ -93,6 +93,12 @@ def main():
                 if (u.get('status') or '') in ('translated', 'published')}
     docs = [r for r in load('corpus/letters.json')
             if (not a.unit or r['unit'] == a.unit) and (live is None or r['unit'] in live)]
+    # A document wholly in Latin (the Poznań court books, 2026-10-07) is
+    # translated whole: its Latin words are its language, not Latin phrases
+    # set in a German or Polish sentence, and none stays in the English.
+    # Left in, every common word of it (partium, quibus, Judicium)
+    # qualified as a term.
+    docs = [r for r in docs if (r.get('language') or '') != 'la']
     texts = {r['uid']: (r.get('text') or '').replace('ſ', 's') for r in docs}
     pats, excluded = covered()
 

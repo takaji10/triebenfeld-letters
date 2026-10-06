@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 187,
+  "count": 188,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
@@ -10,6 +10,7 @@
    "agad11740273-3",
    "agad11740273-4",
    "app53170koningr145-1",
+   "app536017-1",
    "app536036-1",
    "app536036-2",
    "app536045-1",
@@ -1399,6 +1400,18 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 5,
+  "documents": [
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536045-1"
+  ]
+ },
+ {
   "entity": "tarmowo",
   "display": "Tarnowo",
   "count": 5,
@@ -1408,17 +1421,6 @@
    "oe1bu14525-22",
    "oe1bu14525-8",
    "oe1bu14525-9"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 4,
-  "documents": [
-   "app53170koningr145-1",
-   "app536036-1",
-   "app536036-2",
-   "app536045-1"
   ]
  },
  {

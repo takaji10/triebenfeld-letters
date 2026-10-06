@@ -1,0 +1,96 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app536017
+ref: 53/6/0/-/17
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  An entry of the land court at Konin of 1589, the earliest document in this
+  edition on the quarrel between Trąbczyn and Łukom: Albertus Trąmpczyński Otha sues
+  Thomas Łukomski for building a pond at Łukom that flooded the woods,
+  pastures and meadows of Trąbczyn, Nowa Wieś and Osiny, and the court
+  orders an inspection on the ground within six weeks, with one of its
+  messengers, at Łukomski's cost.
+title_de: >-
+  Ein Eintrag des Landgerichts in Konin von 1589, das früheste Dokument dieser
+  Edition zum Streit zwischen Trąbczyn und Łukom: Albertus Trąmpczyński Otha verklagt
+  Thomas Łukomski, weil dieser bei Łukom einen Teich angelegt habe, der
+  Wälder, Weiden und Wiesen von Trąbczyn, Nowa Wieś und Osiny überschwemmte,
+  und das Gericht ordnet binnen sechs Wochen eine Besichtigung im Gelände
+  mit einem seiner Boten an, auf Kosten Łukomskis.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Inscriptiones, relationes, decreta [inducta] 1589
+date_span: 1589
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The editor,
+# 2026-10-06: the court-book folders from Poznań are the Prusimski era.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Three scans from the archive, each an opening. Two halves are pages of the
+# edition: 0027_a2 (leaf 27) and 0028_a1 (leaf 27 verso); see
+# intake/build_pages.py for what the others carry. The editor approves or
+# moves the folds on review/app536017/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Inscriptiones, relationes, decreta [inducta] 1589 (53.6.0.-.17)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_6_0_17
+
+# One file per page, named by page id (0027_a2.txt). Made from the editor's
+# Markdown transcription by intake/build_pages.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry on leaves 27 and 27 verso of a book of the land court at Konin
+  for 1589, in Latin with a sentence of Polish. Its heading says that
+  Łukomski is to carry out an inspection. Albertus Trąmpczyński Otha,
+  plaintiff, has cited Thomas Łukomski a second time, after a first default:
+  Łukomski, with neighbours against whom the plaintiff keeps his claim, has
+  this year built a pond in the estate of the village of Łukom, and by
+  holding back too much water has flooded a great quantity of woodland, pine
+  forest, barren pasture and meadow in the plaintiff's estates of Trąbczyn,
+  Nowa Wieś and Osiny, killing oak, beech and ash fit for building and for
+  bee-trees. The plaintiff puts the harm at ten thousand Hungarian florins
+  and as much again. The court, at the defendant's request, orders an
+  inspection on the ground, and adds one of its messengers, whom the
+  defendant is to choose and pay, to see where and on whose ground the wrong
+  was done and whether it was done. The defendant must carry it out within
+  six weeks; both parties must attend; at the next court terms at Konin they
+  have a final term to hear the outcome.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  An entry of a Polish land court of 1589, in heavily abbreviated Latin; the
+  transcription fills the abbreviations out. One sentence is in the Polish
+  of the time ("zalial drzewa pospolithego rodzaynego ..."). "Visio" is an
+  inspection of the ground ordered by the court; "Ministerialis terrestris"
+  the land court's messenger (woźny), who views the ground and reports;
+  "terminus peremptorius" a final term; "borra" pine forest. Trąmpczino is
+  Trąbczyn; Osziny is Osiny. "motibus[?]" and the words ending in "~" are
+  not fully read.

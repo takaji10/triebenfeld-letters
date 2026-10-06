@@ -64582,6 +64582,53 @@
   ]
  },
  {
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
+  "count": 4,
+  "documents": [
+   "app536017-1",
+   "app536036-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app536017-1",
+    "surface": "Thrąmpczyńsky",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Trąmpczynscy",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Trąmpczyńskich",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Trąmpczyński",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
   "entity": "dambski-ludwik",
   "display": "Ludwik Dąmbski, voivode of Brześć Kujawski",
   "count": 4,
@@ -65384,43 +65431,6 @@
   ]
  },
  {
-  "entity": "trampczynski",
-  "display": "Trąmpczyński (Otto-Trąmpczyński)",
-  "count": 3,
-  "documents": [
-   "app536036-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczynscy",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczyńskich",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczyński",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   }
-  ]
- },
- {
   "entity": "von-der-reck",
   "display": "Freiherr von der Reck",
   "count": 3,
@@ -65909,6 +65919,34 @@
     "scan": "III_HA_MdA_III_Nr_12765_0044_a2-L30_01.jpg",
     "line": 1033,
     "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "lukomski",
+  "display": "Łukomski",
+  "count": 2,
+  "documents": [
+   "app536017-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app536017-1",
+    "surface": "Łukomski",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536017-1",
+    "surface": "Łukomsky",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
    }
   ]
  },
