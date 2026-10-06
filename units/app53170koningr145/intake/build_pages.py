@@ -12,8 +12,8 @@ page and where the text was cut.
 The images. Sixty-two scans from the archive, 654.jpg to 715.jpg, each an
 opening of the bound court book. The scan is named after the leaf on its right:
 scan 673 shows leaf 672 verso on the left and leaf 673 recto on the right. Each
-is cut at the fold (FOLDS, the darkest column near the middle of the opening,
-found by a script and checked on contact sheets, 2026-10-06) into
+is cut at the fold (FOLDS, the thin dark line of the gutter; see the note
+there on a first, wrong set) into
 <scan>_a1.jpg, the left page, and <scan>_a2.jpg, the right page, in
 raw_dir/processed/. Scan numbers are written with four digits there, as in the
 other holdings.
@@ -51,17 +51,25 @@ PROCESSED = os.path.join(RAW, 'processed')
 FIRST, LAST = 654, 715
 SKIP = {'0654_a1', '0655_a1'}
 
-# x of the fold on each scan, in pixels from the left.
+# x of the fold on each scan, in pixels from the left: the thin dark line of
+# the gutter. Found by a script and checked on strips cut round each fold,
+# 2026-10-06. A first set, found as the darkest band near the middle of the
+# opening, was wrong on most scans by 60 to 170 pixels and cut the ends of
+# the left page's lines; it was caught while the text was being read against
+# the pages, and replaced before anything was published.
 FOLDS = {
-    654: 2488, 655: 2572, 656: 2592, 657: 2608, 658: 2616, 659: 2624, 660: 2504, 661: 2528,
-    662: 2780, 663: 2548, 664: 2492, 665: 2648, 666: 2652, 667: 2528, 668: 2640, 669: 2696,
-    670: 2452, 671: 2436, 672: 2388, 673: 2460, 674: 2492, 675: 2444, 676: 2456, 677: 2460,
-    678: 2484, 679: 2464, 680: 2464, 681: 2424, 682: 2436, 683: 2540, 684: 2484, 685: 2460,
-    686: 2556, 687: 2444, 688: 2480, 689: 2512, 690: 2464, 691: 2500, 692: 2524, 693: 2488,
-    694: 2512, 695: 2536, 696: 2496, 697: 2520, 698: 2544, 699: 2512, 700: 2540, 701: 2520,
-    702: 2484, 703: 2496, 704: 2524, 705: 2476, 706: 2576, 707: 2740, 708: 2548, 709: 2572,
-    710: 2576, 711: 2512, 712: 2552, 713: 2520, 714: 2616, 715: 2548,
+    654: 2435, 655: 2583, 656: 2595, 657: 2600, 658: 2609, 659: 2623, 660: 2650, 661: 2635,
+    662: 2629, 663: 2661, 664: 2662, 665: 2648, 666: 2652, 667: 2646, 668: 2643, 669: 2772,
+    670: 2500, 671: 2496, 672: 2518, 673: 2528, 674: 2531, 675: 2537, 676: 2521, 677: 2535,
+    678: 2555, 679: 2572, 680: 2545, 681: 2534, 682: 2532, 683: 2557, 684: 2566, 685: 2559,
+    686: 2556, 687: 2564, 688: 2569, 689: 2586, 690: 2572, 691: 2529, 692: 2599, 693: 2592,
+    694: 2609, 695: 2605, 696: 2588, 697: 2603, 698: 2607, 699: 2582, 700: 2605, 701: 2596,
+    702: 2592, 703: 2573, 704: 2585, 705: 2581, 706: 2585, 707: 2567, 708: 2541, 709: 2575,
+    710: 2570, 711: 2524, 712: 2562, 713: 2527, 714: 2623, 715: 2554,
 }
+# Each page keeps this many pixels beyond the fold, so that a line running
+# into the gutter is whole even where the fold is a little out.
+OVERLAP = 30
 
 HEADER_DROP = (
     '# Relationes-oblatae [protocollon] 1776 - Polish Original',
@@ -123,8 +131,12 @@ def crop():
     for n in range(FIRST, LAST + 1):
         im = Image.open(os.path.join(RAW, '%d.jpg' % n)).convert('RGB')
         x = FOLDS[n]
-        for half, box in (('a1', (0, 0, x, im.height)), ('a2', (x, 0, im.width, im.height))):
-            im.crop(box).save(os.path.join(PROCESSED, '%04d_%s.jpg' % (n, half)), quality=92)
+        for half, box in (('a1', (0, 0, x + OVERLAP, im.height)), ('a2', (x - OVERLAP, 0, im.width, im.height))):
+            pid = '%04d_%s' % (n, half)
+            # the two halves that are not part of the entry are kept apart, not staged
+            folder = os.path.join(PROCESSED, '_not_staged') if pid in SKIP else PROCESSED
+            os.makedirs(folder, exist_ok=True)
+            im.crop(box).save(os.path.join(folder, pid + '.jpg'), quality=92)
     print('cut', (LAST - FIRST + 1) * 2, 'page images into', PROCESSED)
 
 

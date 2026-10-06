@@ -183,6 +183,15 @@ Where the rest is:
   an opening written on both sides stays whole. The editor says which is
   which. After cropping, look at the right margin at full size: first boxes
   for Nr. 1414 cut the line ends.
+- **Finding the fold of an opening by the darkest band near the middle is
+  wrong.** On APP 53/17/0/-/Konin Gr.145 it put the line 60 to 170 pixels
+  left of the gutter on most of 62 scans and cut the ends of the left
+  page's lines; a contact sheet of whole openings was too small to show it.
+  Look for the thin dark line of the gutter (a few pixels darker than the
+  paper 25 to 60 pixels either side), check every fold on a strip cut round
+  it at readable size, and let each page keep 30 pixels beyond the fold.
+  Then make the editor's approval sheet (`intake/fold_sheet.py` in that
+  holding) before the pages are used for anything.
 - **Pages photographed in two halves:** in `units/iharep162nr295/intake/`,
   `find_stitch.py` (needs OpenCV) and `build_pages.py --crop` join them into
   one image per page; the method and its pitfalls are in that holding's
