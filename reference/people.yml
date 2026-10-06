@@ -298,7 +298,7 @@ people:
     # Only in the documents listed: in the Polish of the boundary decree
     # "Trąpczyński" is the adjective of the place (gruntu Trąpczyńskiego).
     match: 'Th?r[ąa]m?pczy[nń]s(?:k(?:iego|ich|i|y|a)|cy)(?![a-zà-ÿ])'
-    only_in: [app536017-1, app536036-1, app536036-2]
+    only_in: [app536017-1, app536036-1, app536036-2, app53150kaliszgr425-1]
     tier: "Text-confirmed"
     variants: []
     identity: "The family that held Trąbczyn before the Prusimskis and took its name from it, with the by-name Otto ('Otha', 'Ottow Trąmpczyńskich'). In 1589 Albertus Trąmpczyński Otha sued Thomas Łukomski for a pond at Łukom that flooded his woods (APP 53/6/0/-/17). In 1644 the brothers Marcin, Wojciech, Władysław and Andrzej, sons of the late Stanisław, and his widow Anna of Słończyce were condemned by default at the suit of Jerzy Chełmski (APP 53/6/0/-/36). A family entry. Added 2026-10-06."

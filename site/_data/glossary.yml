@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 50
+  docs: 52
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1024,7 +1024,7 @@
   initial_en: "K"
   sort_de: "komornik"
   initial_de: "K"
-  docs: 8
+  docs: 9
 - id: "prefect"
   kind: "law"
   lang: "de_fr"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 26
+  docs: 28
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 51
+  docs: 53
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 29
+  docs: 30
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1575,7 +1575,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 36
+  docs: 37
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 76
+  docs: 78
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 27
+  docs: 28
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

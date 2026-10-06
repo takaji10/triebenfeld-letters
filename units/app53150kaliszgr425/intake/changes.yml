@@ -1,0 +1,27 @@
+# What the check of APP 53/15/0/-/Kalisz Gr.425 against the scans changes for
+# anyone who has written about this document from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/15/0/-/Kalisz Gr.425: the adjournment of 28 September 1776"
+changes:
+- importance: fact
+  what: "Two commissioners are \"Leszczyc\", not \"Leszczyński\": Stefan Leszczyc Zielonacki and Maciej Leszczyc Mierzewski. Leszczyc is the name of their arms, written before the surname; the signatures have it, and Kalisz Gr.424 writes \"Antonius Leszczyc Mierzewski\" in full."
+  was: "Stefan Leszczy[ńsk]i Zielonacki ... Maci Leszczy[ńsk]i Mierzewski"
+  now: "Stefan Leszczyc Zielonacki ... Maci Leszczyc Mierzewski"
+- importance: fact
+  what: "The act is dated \"at our residences\" (w Rezydencyach Naszych): each commissioner signed at home. It is not a place name that could not be read."
+  was: "Done at the Residences [location illegible]"
+  now: "Done at our Residences"
+- importance: fact
+  what: "None of the five who sign is among the six commissioners who signed the decree entered at Brześć Kujawski on 23 September 1776 (Konin Gr.145). That decree says the commission divided in its first days; this act of five days later is the other part of it, still treating the cause as unfinished."
+  was: "(not noted)"
+  now: "units/app53150kaliszgr425/about.md"
+- importance: wording
+  what: "The man who brought the act in is Antoni Czyżewski; the act is \"secured with the seals of their arms\"."
+  was: "Antoni Czyewski ... with their [aforementioned] seals"
+  now: "Antoni Czyżewski ... secured with the seals of their arms"
+- importance: fact
+  what: "Not compared with the scans: the body of the adjournment (about 170 words). Not transcribed: the docket on the back of the sheet and a register note on leaf 499 (photograph 504)."
+  was: "(not noted)"
+  now: "units/app53150kaliszgr425/notes.md"

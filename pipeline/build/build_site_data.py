@@ -390,6 +390,12 @@ def main():
         named = []
         r['_plmc'] = {}
         for slug, disp, rx in PLACES_RE:
+            # a place shut out of this document (`not_in` in places.yml): the
+            # pattern itself would still match, so ask it first. Until
+            # 2026-10-07 this was not asked, and "święcie", a feast day, was
+            # listed as the estate Swięcia in the Polish documents.
+            if hasattr(rx, 'applies') and not rx.applies(r['uid']):
+                continue
             _n = sum(1 for _ in rx.finditer(r['text']))
             if _n:
                 named.append(slug)

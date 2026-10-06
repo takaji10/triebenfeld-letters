@@ -1,0 +1,16 @@
+# The claim check of the German summary of APP 53/15/0/-/Kalisz Gr.425, made
+# in session on 2026-10-07 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The document was read in the Polish
+# and Latin of corpus.txt as checked.
+#
+# Result: 6 statements, all supported.
+
+app53150kaliszgr425-001:
+- {claim: "Vertagung in der Grenzsache zwischen Prusimski, Starost von Niszczewice und Erbherrn von Trąbczyn, und Stanisław Ścibor Chełmski, Erbherrn von Łukomia, ausgestellt am 28. September 1776 und am 30. September in die Akten des Burggerichts Kalisz eingetragen; das Original ist in das Buch eingenäht", verdict: supported, where: "p. 1: Sprawy Między Urodzonym Prusimskim Starostą Nieszczewickim Dobr Trąmpczyna z przyległościami Dziedzicem ... Stanisławem Scibór Chełmskim Dobr Łukomia; p. 2: Dnia Dwudziestego Osmego Miesiąca Wrzesnia Roku Pańskiego 1776; p. 3: Die 30 Mensis Septembris Anno Domini 1776to ... Originale ... in protocollon insutum est"}
+- {claim: "fünf von den Ständen der Republik bestellte Kommissare erklären, sie könnten die Sache im jetzt fälligen Termin nicht durch ein Endurteil abschließen, weil einige von ihnen beim Reichstag in Warschau, andere beim Krontribunal in Piotrków zu tun haben", verdict: supported, where: "p. 1: Kommissarze od Stanow Rzeczypospolitey ... dla Agituiącego się Aktualnie Seymu Ordynaryinego Walnego w Warszawie Jako też dla Sądzącego się Trybunału Koronnego Głownego w Piotrkowie ... przez ostateczną Sądową rezolucyą Zakończyć niemozemy; p. 2: five signatures"}
+- {claim: "der Termin geht auf die Vertagung im Dekret vom 13. September des Vorjahres zurück", verdict: supported, where: "p. 1: na terażnieyszym Terminie z Limity przypadaiącym, przez Dekret między temiz Stronami Dnia Trzynastego Miesziąca Września Roku przeszłego Zapadłym"}
+- {claim: "sie vertagen die Zusammenkunft auf den ersten Montag nach Dreikönig 1777", verdict: supported, where: "pp. 1-2: na Pierwszy Poniedziałek, po Swięcie Swięty Trzech Kroli w Roku przysztym Tysiąc Siedemset Siedmdziesiąt Siodmym ... Limituiemy y odraczamy"}
+- {claim: "und erhalten den Parteien den letzten Termin zum Erscheinen vor dem Kommissionsgericht auf dem Grund von Łukomia", verdict: supported, where: "p. 2: stronom ... Stawienia się przed Sądem Kommissarskiem który na Czaś na Grunt Dobr Łukomia Zieździe Mieli Termin Zawity Konserwuiemy"}
+- {claim: "es unterzeichnen und siegeln Stefan Leszczyc Zielonacki, Unterrichter des Kalischer Landgerichts, Maciej Leszczyc Mierzewski, Tomasz Radoński, Grenzvermesser von Kalisz, Stanisław Jabłkowski und Stanisław Otto-Trąmpczyński", verdict: supported, where: "p. 2: Stefan Leszczyc Zielonacki Podsędek Ziemski Kaliski Kommissarz ... Maci Leszczyc Mierzewski ... Tomasz Radoński Komornik Graniczny Kaliski ... Stanisław Jabłkowski ... Stanisław Otto-Trąmpczyński; p. 3: sigillisque eorum gentilitiis communitam"}

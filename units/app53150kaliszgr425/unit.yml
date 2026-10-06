@@ -1,0 +1,91 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53150kaliszgr425
+ref: 53/15/0/-/Kalisz Gr.425
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The act of 28 September 1776 by which five commissioners in the boundary
+  cause between Prusimski and Chełmski, kept away by the parliament at Warsaw
+  and the Tribunal at Piotrków, put their sitting on the ground of Łukom off
+  to January 1777; none of them is among the six who had signed the
+  commission's decree.
+title_de: >-
+  Der Akt vom 28. September 1776, mit dem fünf Kommissare in der Grenzsache
+  zwischen Prusimski und Chełmski, durch den Reichstag in Warschau und das
+  Tribunal in Piotrków verhindert, ihre Sitzung auf dem Grund von Łukom auf
+  Januar 1777 vertagten; keiner von ihnen gehört zu den sechs, die das Dekret
+  der Kommission unterzeichnet hatten.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1776
+date_span: 1776
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans are cut at the fold by intake/holding.py --crop. The editor
+# approves or moves the folds on review/app53150kaliszgr425/folds/ before the
+# holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1776 (53.15.0.-.Kalisz Gr.425)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_15_0_Kalisz_Gr_425
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One document on leaves 497 and 498 of a book of the castle court of Kalisz
+  for 1776: the original of an adjournment, in Polish, sewn into the book,
+  with the Latin record of its being brought in. Five commissioners appointed
+  by the Estates of the Commonwealth in the cause between Prusimski, Starost
+  of Niszczewice, heir of Trąbczyn, and Stanisław Ścibor Chełmski, heir of
+  Łukomia, declare that because of the ordinary parliament sitting at Warsaw
+  and the Crown Tribunal sitting at Piotrków, where some of them have
+  business, they cannot end the cause by a final judgment at the term now
+  falling under the adjournment made by the decree of 13 September of the year
+  before. They put the sitting off to the first Monday after Epiphany 1777 and
+  keep a final term for the parties to appear before the commission on the
+  ground of Łukomia. Done at their residences on 28 September 1776; signed and
+  sealed by Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court,
+  Maciej Leszczyc Mierzewski, Tomasz Radoński, boundary surveyor of Kalisz,
+  Stanisław Jabłkowski and Stanisław Otto-Trąmpczyński. Brought to the castle
+  office at Kalisz on 30 September 1776 by Antoni Czyżewski.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  An adjournment (limitacja) of a boundary commission of 1776, in Polish, with
+  a Latin record of entry. The English is the editor's own translation.
+  "Limita", "limitacja" is an adjournment; "termin zawity" a final
+  (peremptory) term; "zjazd" the commission's meeting on the ground; "komornik
+  graniczny" a boundary surveyor; "podsędek" a deputy judge of a land court.
+  "Leszczyc" is the name of a coat of arms, borne before the surname.
+  Trąmpczyn and Trąpczyn are Trąbczyn.

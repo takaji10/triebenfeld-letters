@@ -1,0 +1,43 @@
+# Editorial rulings for 53/15/0/-/Kalisz Gr.424 (APP).
+#
+# One document: the entry on leaf 323, with the date line of its sitting on
+# leaf 322 verso as its first page. Established 2026-10-07.
+
+places:
+  # "Actum in Castro Calissiensi".
+  overrides:
+    "1": Kalisz
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae
+    # proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776"
+    "1": [1776, 11, 23, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": certification
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0323_a1", "0323_a2"]
+
+damage:
+  letters: []

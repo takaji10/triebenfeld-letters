@@ -1519,6 +1519,105 @@
   "permalink": "/documents/app53170koningr145/1/"
  },
  {
+  "uid": "app53150kaliszgr425-1",
+  "unit": "app53150kaliszgr425",
+  "letter_id": "1",
+  "doc_type": "decree",
+  "language": "pl,la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1776-09-28",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 10,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0497_a2",
+    "image": "APP_53_15_0_Kalisz_Gr_425_0497_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0498_a1",
+    "image": "APP_53_15_0_Kalisz_Gr_425_0498_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0498_a2",
+    "image": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 3,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 1",
+  "path": "documents/app53150kaliszgr425-1.json",
+  "text_path": "text/app53150kaliszgr425-1.txt",
+  "permalink": "/documents/app53150kaliszgr425/1/"
+ },
+ {
+  "uid": "app53150kaliszgr424-1",
+  "unit": "app53150kaliszgr424",
+  "letter_id": "1",
+  "doc_type": "certification",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1776-11-23",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 4,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0323_a1",
+    "image": "APP_53_15_0_Kalisz_Gr_424_0323_a1-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0323_a2",
+    "image": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 3,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certification 1",
+  "path": "documents/app53150kaliszgr424-1.json",
+  "text_path": "text/app53150kaliszgr424-1.txt",
+  "permalink": "/documents/app53150kaliszgr424/1/"
+ },
+ {
   "uid": "oe1bu14525-13",
   "unit": "oe1bu14525",
   "letter_id": "13",
@@ -7192,7 +7291,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 7,
   "places_named": 3,
   "estates": [
    "witow"

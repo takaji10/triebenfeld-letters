@@ -851,8 +851,9 @@ places:
     # inflection. Still NOT matched on a stem: Świechocin is a third name in
     # this group and stays its own entity.
     match: '[SŚ]wi[eę]ci[aen]\w*|Święca'
-    # In the Polish decree of 1776 "święcie" is the common noun, a feast day.
-    not_in: [app53170koningr145-1]
+    # In the Polish decree of 1776 and the adjournment of 1776 "święcie" is
+    # the common noun, a feast day.
+    not_in: [app53170koningr145-1, app53150kaliszgr425-1]
     tier: ""
     variants: ["Swięcer", "Swięcin", "Swięce", "Święcia", "Święca"]
     distinct_from: [swiechocin]

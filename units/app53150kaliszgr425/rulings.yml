@@ -1,0 +1,45 @@
+# Editorial rulings for 53/15/0/-/Kalisz Gr.425 (APP).
+#
+# One document: the adjournment with the record of its entry. Established
+# 2026-10-07.
+
+places:
+  # The act says only "Działo się w Rezydencyach Naszych", at our residences;
+  # it was entered at Kalisz.
+  overrides:
+    "1": Kalisz
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    # "Dnia Dwudziestego Osmego Miesiąca Wrzesnia Roku Pańskiego 1776";
+    # brought in "Die 30 Mensis Septembris Anno Domini 1776to".
+    "1": [1776, 9, 28, "day"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  # Polish, with the record of entry in Latin.
+  language:
+    "1": "pl,la"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0497_a2", "0498_a1", "0498_a2"]
+
+damage:
+  letters: []

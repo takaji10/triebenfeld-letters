@@ -174,8 +174,11 @@ def load_people():
                 # Ended at the word's end: without it "Stein" was found in
                 # Steinkohlen, "Sommer" in Sommerfeld, "August" in the colony
                 # Augustinow (19 false mentions, 2026-09-30).
+                # Nor as the first half of a double name: "Otto" in "Stanisław
+                # Otto-Trąmpczyński" is a by-name of that family, not the Otto of
+                # the correspondence (2026-10-07).
                 pat = (re.escape(name) + r'(?:s|n|en|es|sche\w*|ische\w*)?'
-                       r'(?![a-zà-ÿ])')
+                       r'(?![a-zà-ÿ])(?!-[A-ZĄĆĘŁŃÓŚŹŻ])')
                 out.append((slug, name, re.compile(_ANCHOR % pat, re.UNICODE)))
     return out
 

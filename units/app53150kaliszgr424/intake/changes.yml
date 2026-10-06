@@ -1,0 +1,23 @@
+# What the check of APP 53/15/0/-/Kalisz Gr.424 against the scan changes for
+# anyone who has written about this entry from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/15/0/-/Kalisz Gr.424: the certificate of 23 November 1776"
+changes:
+- importance: significant
+  what: "There are no \"Cup-bearer Commissioners\". \"Pocillatores Magnificus\" was a misreading of \"per Illustres Magnificos\", the same words the entry uses of the commissioners a few lines earlier."
+  was: "issued by the Right Honourable Cup-bearer Commissioners designated on behalf of the Right Honourable Prusimski"
+  now: "issued by the Illustrious Right Honourable Commissioners designated on behalf of the Right Honourable Prusimski"
+- importance: fact
+  what: "Mierzewski did not ask for the decree; he asked whether it had been brought in at Kalisz (\"requisivit ... utrum ... sit porrectum vel ne\"), and the office certified that it had not, from 17 October to 23 November 1776."
+  was: "requisitioned from the present Office a certain Commissorial Boundary Decree"
+  now: "asked of the present Office whether the Commissorial Boundary Decree ... had been submitted to the present Records by oblata or not"
+- importance: fact
+  what: "Mierzewski signed the entry: \"A. L. Mierzewski mppa\" stands under it and is added. Your gloss \"[on behalf of Chełmski]\" is kept in the English; the entry itself does not say for whom he asked."
+  was: "(not transcribed)"
+  now: "A. L. Mierzewski mppa"
+- importance: wording
+  what: "The office searched \"the books of reports, where papers brought in are received\"; the commissioners were brought \"onto the ground\" of the estates."
+  was: "the Protocols of the Relation ... brought to the fund of those estates"
+  now: "brought onto the ground of those estates"

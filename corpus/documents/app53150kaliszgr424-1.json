@@ -1,0 +1,183 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app53150kaliszgr424",
+ "uid": "app53150kaliszgr424-1",
+ "pad": "app53150kaliszgr424-001",
+ "permalink": "/documents/app53150kaliszgr424/1/",
+ "doc_type": "certification",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1776-11-23",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1776-11-23",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1776,
+ "month": 11,
+ "day": 23,
+ "place": "Kalisz",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 7,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 4,
+ "n_pages": 2,
+ "text": "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776\nAd Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus\nA. L. Mierzewski mppa",
+ "text_reading": "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776\n\nAd Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus\n\nA. L. Mierzewski mppa",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0323_a1",
+   "line_start": 3,
+   "line_end": 3,
+   "n_lines": 1,
+   "diplomatic": "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776",
+   "transcription": "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776",
+   "reading": "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776",
+   "paragraphs": [
+    "Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a1-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 1,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0323_a2",
+   "line_start": 5,
+   "line_end": 6,
+   "n_lines": 2,
+   "diplomatic": "Ad Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus\nA. L. Mierzewski mppa",
+   "transcription": "Ad Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus\nA. L. Mierzewski mppa",
+   "reading": "Ad Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus\n\nA. L. Mierzewski mppa",
+   "paragraphs": [
+    "Ad Officium et Acta praesentia Castrensia Calissiensia personaliter veniens Magnificus Antonius Leszczyc Mierzewski requisivit ab Officio praesen~ utrum Decretum Commissoriale Granitiale inter Bona villarum Łukom Trąpczyn et alia per Illustres Magnificos Commissarios a Statibus R. Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~ Haeredis designatos pro parte Ejusdem Magnifici Prusimski inter eadem Bona prolatum ad Acta praesen~ per Oblatam sit porrectum vel ne Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi solent se se contulit. Quibus revisis et diligenter ab Actu Feriae Quintae post Festum Sanctae Hedvigis Viduae electae proximae videlicet Diei Decimae Septimae Mensis Octobris Anni praesen~ ad Actum Diei hodiernae perspectis nullum Decretum Commissoriale Granitiale inter suprascripta Bona per Illustres Magnificos Commissarios pro parte Magnifici Prusimski designatos et in Fundum Eorundem Bonorum conductos prolatum per Oblatam porrectum in Actis praesentibus extasse respondit de quo Officium praesens fecit fidem facitque praesentibus",
+    "A. L. Mierzewski mppa"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "doc_line_start": 2,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Kalisz",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyna",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in the Kalisz Municipal Court, on the Saturday nearest after the Feast of the Presentation of the Most Glorious Virgin Mary, namely the 23rd day of the month of November, in the Year of the Lord 1776."
+  },
+  {
+   "page": 2,
+   "en": "Coming in person before the present Kalisz Starost's Municipal Court and Records, the Right Honourable Antonius Leszczyc Mierzewski [on behalf of Chełmski] asked of the present Office whether the Commissorial Boundary Decree between the estates of the villages of Łukom, Trąbczyn, and others, issued by the Illustrious Right Honourable Commissioners from the Estates of the Republic on behalf of the Right Honourable Antoni of Kolno Prusimski, Starost of Niszczewice, heir of the estates of Trąbczyn with its appurtenances, designated on behalf of the same Right Honourable Prusimski, and issued between those same estates, had been submitted to the present Records by oblata or not. The present Office, consenting to this Requisition, betook itself to the revision of the Protocols of the Relation, where oblatas are customarily received. These having been revised and carefully examined from the act of Thursday next after the feast of Saint Hedwig the Widow, Elect, namely the seventeenth day of the month of October of the present year, to the act of this present day, the Office responded that no Commissorial Boundary Decree — between the above-written estates, issued by the Illustrious Right Honourable Commissioners designated on behalf of the Right Honourable Prusimski and brought onto the ground of those estates, and submitted by oblata — was found to have been in the present Records; of which the present Office has made, and makes, attestation by these presents.\n\nA. L. Mierzewski, by his own hand"
+  }
+ ],
+ "text_english": "Done in the Kalisz Municipal Court, on the Saturday nearest after the Feast of the Presentation of the Most Glorious Virgin Mary, namely the 23rd day of the month of November, in the Year of the Lord 1776.\n\nComing in person before the present Kalisz Starost's Municipal Court and Records, the Right Honourable Antonius Leszczyc Mierzewski [on behalf of Chełmski] asked of the present Office whether the Commissorial Boundary Decree between the estates of the villages of Łukom, Trąbczyn, and others, issued by the Illustrious Right Honourable Commissioners from the Estates of the Republic on behalf of the Right Honourable Antoni of Kolno Prusimski, Starost of Niszczewice, heir of the estates of Trąbczyn with its appurtenances, designated on behalf of the same Right Honourable Prusimski, and issued between those same estates, had been submitted to the present Records by oblata or not. The present Office, consenting to this Requisition, betook itself to the revision of the Protocols of the Relation, where oblatas are customarily received. These having been revised and carefully examined from the act of Thursday next after the feast of Saint Hedwig the Widow, Elect, namely the seventeenth day of the month of October of the present year, to the act of this present day, the Office responded that no Commissorial Boundary Decree — between the above-written estates, issued by the Illustrious Right Honourable Commissioners designated on behalf of the Right Honourable Prusimski and brought onto the ground of those estates, and submitted by oblata — was found to have been in the present Records; of which the present Office has made, and makes, attestation by these presents.\n\nA. L. Mierzewski, by his own hand",
+ "summary_en": "A certificate of the castle office at Kalisz of 23 November 1776. Antoni Leszczyc Mierzewski asks the office whether the boundary decree between the estates of the villages of Łukom, Trąbczyn and others, given by the commissioners appointed by the Estates of the Commonwealth on the part of Antoni Prusimski of Kolno, Starost of Niszczewice and heir of Trąbczyn, has been brought in for entry. The office goes through its books of reports, in which such papers are received, from 17 October 1776 to the present day, and answers that no such decree is found in its records. It certifies this; Mierzewski signs.",
+ "summary_de": "Bescheinigung des Burgamts Kalisz vom 23. November 1776. Antoni Leszczyc Mierzewski fragt das Amt, ob das Grenzdekret zwischen den Gütern der Dörfer Łukom, Trąbczyn und anderen, das die von den Ständen der Republik bestellten Kommissare aufseiten von Antoni Prusimski von Kolno, Starost von Niszczewice und Erbherrn von Trąbczyn, erlassen haben, zur Eintragung vorgelegt worden sei. Das Amt sieht seine Berichtsbücher, in die solche Vorlagen aufgenommen werden, vom 17. Oktober 1776 bis zum heutigen Tag durch und antwortet, in seinen Akten finde sich kein solches Dekret. Es bescheinigt das; Mierzewski unterschreibt.",
+ "reading": {}
+}

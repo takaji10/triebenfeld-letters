@@ -1,0 +1,79 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53150kaliszgr424
+ref: 53/15/0/-/Kalisz Gr.424
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The certificate of the castle office at Kalisz of 23 November 1776 that,
+  searched at the request of Antoni Leszczyc Mierzewski, its books held no
+  entry of the boundary decree given for Prusimski between Łukom and Trąbczyn.
+title_de: >-
+  Die Bescheinigung des Burgamts Kalisz vom 23. November 1776, dass seine
+  Bücher, auf Verlangen von Antoni Leszczyc Mierzewski durchgesehen, keinen
+  Eintrag des für Prusimski ergangenen Grenzdekrets zwischen Łukom und
+  Trąbczyn enthielten.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1776
+date_span: 1776
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans are cut at the fold by intake/holding.py --crop. The editor
+# approves or moves the folds on review/app53150kaliszgr424/folds/ before the
+# holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1776 (53.15.0.-.Kalisz Gr.424)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_15_0_Kalisz_Gr_424
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry on leaf 323 of a book of the castle court of Kalisz for 1776, in
+  Latin, under the date line of 23 November 1776 on leaf 322 verso. Antoni
+  Leszczyc Mierzewski asks the office whether the boundary decree between the
+  estates of the villages of Łukom, Trąbczyn and others, given by the
+  commissioners appointed by the Estates of the Commonwealth on the part of
+  Antoni Prusimski of Kolno, Starost of Niszczewice, heir of Trąbczyn, has
+  been brought in for entry. The office goes through its books of reports,
+  where such papers are received, from 17 October 1776 to the day, and answers
+  that no such decree is in its records, and certifies it. Mierzewski signs.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A certificate of a castle office of 1776 in formulaic Latin. The English is
+  the editor's own translation. "Requisivit ... utrum" is "asked whether";
+  "oblata" a paper brought in to be entered; "Decretum Commissoriale
+  Granitiale" the boundary decree of the commission; "fecit fidem" certifies.
+  "Leszczyc" is the name of a coat of arms. Trąpczyn is Trąbczyn.
