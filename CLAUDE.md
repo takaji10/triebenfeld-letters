@@ -233,6 +233,17 @@ so check them.
   `intake/fold_sheet.py`) and seen the sheet of dropped phrases
   (`review/app53170koningr145/dropped/`, `intake/dropped_sheet.py`). The
   era's account and the glossary wait at their word.
+- **Prusimski era, batch 2, in progress (2026-10-06).** In, built, verified,
+  committed locally, not pushed: **APP 53/6/0/-/45** (`app536045`, the
+  potash decree of 1763, one document) and **APP 53/6/0/-/36**
+  (`app536036`, two default judgments of 1644). Each has its `notes.md`
+  and a fold sheet in `review/<slug>/folds/` for the editor. Still to do
+  in the batch: 53/6/0/-/40 (1728, read but not started), Konin Gr.136
+  (1754), and 53/6/0/-/17 (1589), which is too rough to build as it is
+  (see WORKING_NOTES, "The early Latin court-book entries"). **Not yet
+  done for the batch:** the About page's figures and its line on Poznań
+  (now 477 documents, 19 holdings, from 1644), `docs/TODO.md`,
+  `docs/NEEDS_CONFIRMATION.md`, the changelog, `reference/eras.yml`.
 - **The Prusimski era is the current focus** (editor, 2026-10-06): twenty
   more court-book folders from Poznań with texts, nine without. **Read
   `docs/PRUSIMSKI_ERA_PLAN.md` before touching any of it**: it has the

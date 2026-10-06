@@ -240,6 +240,27 @@ Where the rest is:
   - A reading on one page is often settled by the next: "tęże" was Latin
     "ferme", "komornik" was "Komisarz". Withdraw a row rather than keep a
     guess.
+- **The early Latin court-book entries are not "already corrected"** (batch
+  2 of the Prusimski era, 2026-10-06). Their Latin is a first reading with
+  many doubts, and the English and its notes rest on it. What worked:
+  - Read the whole entry against the scan (they are one or two pages), and
+    **read the neighbouring entries on the same pages first**: they use the
+    same set words and settle most doubts ("Contumaces", not
+    "Concessionis"; "Ministerialem ad pronuntiandam ... rotham", the court's
+    messenger speaking the oath, not a roll).
+  - Then revise the editor's English where the Latin changed, keep their
+    terms, drop the notes that discuss readings now settled, and record
+    each passage as it stood and as it stands (`build_docs.py`, `FIXES`).
+  - The heading of the sitting is often on a leaf with no scan: it is not
+    a page; quote it on the holding's page and date the entry by it
+    (`dates: sitting:` in `rulings.yml`).
+  - `pipeline/intake/courtbook.py` has the shared steps (cutting, the fold
+    sheet, corrections, the English, summaries). Copy `units/app536036/`
+    for a holding with two entries on one page.
+  - 53/6/0/-/17 (1589) is far rougher than the rest: 109 doubts in 713
+    words, leaf 27 verso given twice, part of that page under a dark
+    patch, and a related entry ("Eorundem Visio", leaves 27v-28) not
+    transcribed. Put to the editor before it is built.
 - **The editor's own transcription and translation are kept as theirs.**
   That holding's Polish is in modern spelling and its English is the
   editor's: neither is redone, the English is cut to the pages by a
