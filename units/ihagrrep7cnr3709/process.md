@@ -15,7 +15,3 @@ The summaries were written in German from a reading of each document against its
 ### Translation
 
 Each document was translated in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms, and passages that do not read left visibly doubtful rather than smoothed. The French petition was translated from the French. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt in the German survives into the English. A translation can only be as good as the transcription under it: the draft of 31 December 1800 to the Prince is badly read, and much of its English is marked as illegible.
-
-### Still to do
-
-The English has not yet been read against the manuscript.

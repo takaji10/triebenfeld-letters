@@ -1732,13 +1732,21 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - **How the edition describes who made the text** (2026-10-06, the editor's correction). The
   About page said the transcription "was not made by a trained palaeographer". The editor
-  has transcribed this handwriting for some years, with the work supported by AI. The page
-  now says so, says that machine reading leaves a share of wrong characters which a language
+  is an amateur palaeographer, with the work supported by AI. The page now says so in those
+  words, says that machine reading leaves a share of wrong characters which a language
   model reduces but does not remove, that the editor has accepted the remaining inaccuracy
   for this project because of the number of documents, and that anything taken from the
   texts for academic work should first be checked against the original document. The
   sentence "It was not made by a trained reader of old handwriting" was removed from the
   "How it was prepared" text of eight holdings, in both languages.
+
+- **The English translations are no longer called drafts** (2026-10-06, the editor's ruling).
+  The About page no longer says that all translations are drafts or that none has been read
+  against the manuscript; a document page no longer shows "status: draft" above its English;
+  the rights page says the translations were made by an AI model and to quote the original
+  language; and the closing sentence "The English has not yet been read against the scans"
+  is gone from the eight holdings that had it, in both languages. The `status:` field in the
+  translation files is unchanged.
 
 - **I. HA Rep. 162, Nr. 295 scaffolded** (2026-10-05): the editor photographed each of its
   eleven pages twice, top and bottom. The two photographs of each page were joined into one

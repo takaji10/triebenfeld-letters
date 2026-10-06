@@ -24,4 +24,4 @@ Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit den Seitenbildern verglichen. Ein Stempelvermerk am Rand der fünften Seite ist nicht transkribiert.
+Ein Stempelvermerk am Rand der fünften Seite ist nicht transkribiert.

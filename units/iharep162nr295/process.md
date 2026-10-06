@@ -24,4 +24,4 @@ The documents were translated into English in a working session under the same r
 
 ### Still to do
 
-The English has not yet been read against the page images. A stamp note in the margin of the fifth page is not transcribed.
+A stamp note in the margin of the fifth page is not transcribed.

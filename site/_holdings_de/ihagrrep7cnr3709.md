@@ -52,7 +52,3 @@ Die Zusammenfassungen wurden auf Deutsch aus der Lektüre jedes Dokuments neben 
 ### Übersetzung
 
 Jedes Dokument wurde in einer Arbeitssitzung nach denselben Regeln übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Die französische Bittschrift wurde aus dem Französischen übersetzt. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen des deutschen Textes im englischen erhalten ist. Eine Übersetzung kann nur so gut sein wie die Transkription, auf der sie beruht: Der Entwurf vom 31. Dezember 1800 an den Fürsten ist schlecht gelesen, und ein großer Teil seines Englischen ist als unleserlich markiert.
-
-### Noch zu tun
-
-Das Englische ist noch nicht mit der Handschrift verglichen.

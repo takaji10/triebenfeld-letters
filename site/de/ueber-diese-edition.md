@@ -61,9 +61,8 @@ eigenen Sprache übersetzt.
 Die Originale sind Handschriften, die meisten in *Kurrent*, der deutschen Schreibschrift
 der Zeit, die schwer zu lesen und leicht falsch zu lesen ist.
 
-Der Herausgeber transkribiert seit einigen Jahren Dokumente in dieser Schrift. Wegen der
-Zahl der Seiten wurde die Arbeit für diese Edition mit Unterstützung von KI geleistet, in
-drei Schritten:
+Der Herausgeber ist Amateurpaläograph. Wegen der Zahl der Seiten wurde die Arbeit für
+diese Edition mit Unterstützung von KI geleistet, in drei Schritten:
 
 1. Ein KI-System zur Handschriftenerkennung erstellte die erste Transkription. Der
    Herausgeber korrigierte Namen und Anordnung von Hand.
@@ -124,9 +123,8 @@ Die Edition enthält 610 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 468 von 473. Alle sind
-**Entwürfe**. Sie wurden von einem KI-Modell nach Regeln des Herausgebers angefertigt. Noch
-keine ist von einem Menschen mit der Handschrift verglichen worden.
+Jedes Dokument mit Text hat eine englische Übersetzung: 468 von 473. Sie wurden von einem
+KI-Modell nach Regeln des Herausgebers angefertigt.
 
 Die Übersetzung zeigt einen Zweifel überall dort, wo das Original einen hat, weil glattes
 Englisch ihn verdecken würde:
@@ -185,7 +183,6 @@ Güter an die Familie Prusimski 1807 stehen noch aus.
 
 ## Was noch offen ist
 
-- Keine Übersetzung ist von einem Menschen mit der Handschrift verglichen worden.
 - Die Zweifelszeichen sind noch an den Originalen zu prüfen.
 - Dreizehn Briefe der Korrespondenz sind noch weitgehend eine unkorrigierte maschinelle
   Lesung. Ihre Seiten sagen das.

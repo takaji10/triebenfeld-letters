@@ -31,10 +31,9 @@ Die Dokumente sind über zweihundert Jahre alt, ihr Wortlaut gehört niemandem.
 Die Lizenz gilt für das, was diese Edition hinzufügt: die Lesung der
 Handschriften, die Übersetzung und den Kommentar.
 
-Die englischen Übersetzungen sind maschinell erstellte Entwürfe, die noch
-niemand an den Handschriften geprüft hat
+Die englischen Übersetzungen wurden von einem KI-Modell angefertigt
 ([Über die Edition]({{ '/de/ueber-diese-edition/' | relative_url }})). Zitieren
-Sie für alles, worauf es ankommt, den deutschen Text.
+Sie für alles, worauf es ankommt, den Text in der Originalsprache.
 
 Die Software, die die Website erzeugt, liegt im
 [Repository des Projekts](https://github.com/takaji10/triebenfeld-letters) und

@@ -24,4 +24,4 @@ The documents were translated into English in a working session under the same r
 
 ### Still to do
 
-The English has not yet been read against the scans. The note of the court's fees on the last page is not transcribed.
+The note of the court's fees on the last page is not transcribed.

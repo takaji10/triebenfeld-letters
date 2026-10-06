@@ -30,9 +30,9 @@ The documents are more than two hundred years old, and their own words belong
 to no one. The licence covers what this edition adds: the reading of the
 manuscripts, the translation and the commentary.
 
-The English translations are machine-made drafts that no one has yet checked
-against the manuscripts ([About the edition]({{ '/reading-this-edition/' | relative_url }})).
-Quote the German for anything that matters.
+The English translations were made by an AI model
+([About the edition]({{ '/reading-this-edition/' | relative_url }})).
+Quote the original language for anything that matters.
 
 The software that builds the site, in the
 [project's repository](https://github.com/takaji10/triebenfeld-letters), is

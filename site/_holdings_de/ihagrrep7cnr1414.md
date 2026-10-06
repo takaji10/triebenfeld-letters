@@ -63,4 +63,4 @@ Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit den Scans verglichen. Von der ersten Unterschrift unter dem Konzept ist nur die Initiale A gelesen; der Rest des Namens, Alvensleben, ist in eckigen Klammern ergänzt, weil er 1797 der einzige Minister des Departements war, dessen Name mit diesem Buchstaben beginnt. Zwei kurze Vermerke am Kopf und am Fuß des Konzepts sind nicht transkribiert.
+Von der ersten Unterschrift unter dem Konzept ist nur die Initiale A gelesen; der Rest des Namens, Alvensleben, ist in eckigen Klammern ergänzt, weil er 1797 der einzige Minister des Departements war, dessen Name mit diesem Buchstaben beginnt. Zwei kurze Vermerke am Kopf und am Fuß des Konzepts sind nicht transkribiert.

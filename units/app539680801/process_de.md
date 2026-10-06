@@ -24,4 +24,4 @@ Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische
 
 ### Noch zu tun
 
-Das Englische ist noch nicht mit den Scans verglichen. Der Vermerk über die Gerichtsgebühren auf der letzten Seite ist nicht transkribiert.
+Der Vermerk über die Gerichtsgebühren auf der letzten Seite ist nicht transkribiert.

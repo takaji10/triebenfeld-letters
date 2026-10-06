@@ -114,7 +114,7 @@ layout: default
       <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}" data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}" href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</span>
       <span class="viewhint" data-hint="reading" hidden><span data-i18n="hint_reading">{{ t.hint_reading }}</span></span>
       <span class="viewhint" data-hint="translation" hidden>
-        {% if tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_status">{{ t.hint_translation_status }}</span> <b>{{ tr.status }}</b>.
+        {% if tr and tr.status and tr.status != 'untranslated' %}<span data-i18n="hint_translation_status">{{ t.hint_translation_status }}</span>
         {% else %}<span data-i18n="hint_translation_none">{{ t.hint_translation_none }}</span>{% endif %}
       </span>
     </div>

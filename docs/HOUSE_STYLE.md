@@ -153,14 +153,26 @@ NO   The images published here are downscaled to 1100 pixels wide.
 ```
 
 **How the edition describes who made the text** (the editor, 2026-10-06, correcting "The
-transcription was not made by a trained palaeographer"): the editor has
-transcribed this handwriting for some years, and the work is supported by AI.
+transcription was not made by a trained palaeographer"): the editor is an
+amateur palaeographer, and that is the phrase to use (their word; they asked
+for it in place of "has transcribed this handwriting for some years"). The
+work is supported by AI.
 Do not write, on this page or a holding's, that the text was "not made by a
 trained reader". Say what was done: a machine reading, corrected; a language
 model that weighs context removes many character errors and not all; some
 inaccuracy always remains, which the editor has accepted for this project
 because of the number of documents; and anything taken from the texts for
 academic work should first be checked against the original document.
+
+**The English translations are not called drafts, and no page says they have not
+been checked** (the editor, 2026-10-06: "I don't think we need to mark the English
+translations as drafts, and we don't need to mention that they haven't been
+checked"). This holds for the About page, the document pages (which no longer
+show a translation's status), the rights page and every holding's "How it was
+prepared" text: do not end one with "The English has not yet been read against
+the scans". The pages say that the translations were made by an AI model, and
+that anything taken for academic work should be checked against the original.
+The `status:` field in `site/_data/translations/` stays; it is the pipeline's.
 
 Few figures, because each is counted by hand: holdings, documents, pages,
 documents by language, translations, marks of doubt. A mark or a view is

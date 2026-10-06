@@ -25,7 +25,3 @@ Die Zusammenfassungen wurden auf Deutsch nach einer Lektüre jedes Dokuments am 
 ### Übersetzung
 
 Die Dokumente wurden in einer Arbeitssitzung nach denselben Regeln ins Englische übersetzt wie die der anderen Bestände: jede Zahl, jeder Name und jedes Zweifelszeichen übernommen, Namen in den festgelegten Formen der Edition, wo sie welche festgelegt hat, sonst so, wie die Seite sie schreibt, und Stellen, die sich nicht lesen lassen, sichtbar als unsicher belassen statt geglättet. Die fünf französischen Dokumente wurden aus dem Französischen übersetzt, das Urteil aus dem Polnischen; ein französischer Brief und das polnische Urteil wurden zuerst als Probe übersetzt, weil Dokumente in diesen Sprachen für die Edition neu sind. Die deutschen Bleistiftnotizen wurden an ihrer Stelle übersetzt, unter derselben Bezeichnung wie in der Transkription. Dieselbe automatische Prüfung wie bei den anderen Beständen bestätigte danach, dass jede Zahl und jedes Zweifelszeichen im Englischen erhalten ist. Wo der Text Wörter doppelt hat, wie das polnische Urteil zweimal, wiederholt das Englische sie ebenfalls.
-
-### Noch zu tun
-
-Das Englische ist noch nicht mit den Scans verglichen.

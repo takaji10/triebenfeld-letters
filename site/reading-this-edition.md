@@ -59,9 +59,8 @@ language.
 The originals are handwritten, most of them in *Kurrent*, the German cursive of the period,
 which is hard to read and easy to misread.
 
-The editor has transcribed documents in this handwriting for some years. Because of the
-number of pages, the work for this edition was done with the support of AI, in three
-steps:
+The editor is an amateur palaeographer. Because of the number of pages, the work for this
+edition was done with the support of AI, in three steps:
 
 1. An AI system for reading handwriting produced the first transcription. The editor
    corrected names and layout by hand.
@@ -119,9 +118,8 @@ There are 610 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 468 of the 473. All of them are
-**drafts**. They were made by an AI model under rules set by the editor. None has yet
-been read against the manuscript by a person.
+Every document that has text has an English translation: 468 of the 473. They were made by
+an AI model under rules set by the editor.
 
 The translation shows a doubt wherever the original has one, because smooth English would
 hide it:
@@ -179,7 +177,6 @@ returned to the Prusimski family in 1807, are still to come.
 
 ## What is still open
 
-- No translation has been read against the manuscript by a person.
 - The marks of doubt wait to be checked against the originals.
 - Thirteen letters of the correspondence are still largely an uncorrected machine reading.
   Their pages say so.

@@ -21,7 +21,3 @@ The summaries were written in German from a reading of each document against its
 ### Translation
 
 The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. Both entries were translated from the Polish, with the forms of address given in English (the Most Illustrious, the Honourable, Mrs). The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English.
-
-### Still to do
-
-The English has not yet been read against the scans.

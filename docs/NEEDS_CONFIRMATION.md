@@ -257,6 +257,10 @@ Places (`reference/places.yml`, `open_questions`):
 
 ## Translations
 
+Since 2026-10-06 the site no longer shows a translation's status or says
+that the English is unchecked (the editor's ruling; HOUSE_STYLE, "About the
+edition"). What follows is the project's own record.
+
 All 459 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.

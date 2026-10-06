@@ -68,7 +68,3 @@ The summaries were written in German from a reading of each document against its
 ### Translation
 
 The documents were translated into English in a working session under the same rules as the other holdings: every figure, name and mark of doubt carried across, names in the edition's settled forms where it has settled them and otherwise as the page spells them, and passages that do not read left visibly doubtful rather than smoothed. The five French documents were translated from the French and the judgment from the Polish; one French letter and the Polish judgment were done first as a trial, since documents in these languages are new to the edition. The pencil notes in German were translated where they stand, under the same label as in the transcription. The same automatic check as elsewhere then confirmed that every figure and every mark of doubt survives into the English. Where the text repeats words, as the Polish judgment does twice, the English repeats them too.
-
-### Still to do
-
-The English has not yet been read against the scans.
