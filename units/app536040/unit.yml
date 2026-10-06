@@ -1,0 +1,108 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app536040
+ref: 53/6/0/-/40
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  A decree of the land court at Konin of January 1728 in the suit of the
+  brothers Franciszek and Józef Ścibor Chełmski of Łukom against Krzysztof
+  Prusimski of Trąbczyn, his son Antoni, their retainers and subjects, for
+  burning shingles and a hut, taking four oxen, and an armed raid in which
+  hay was taken: the court sends a sworn commissioner and
+  two friends of each side onto the disputed ground to examine witnesses
+  and decide who owns it and what harm was done.
+title_de: >-
+  Ein Dekret des Landgerichts in Konin vom Januar 1728 in der Klage der
+  Brüder Franciszek und Józef Ścibor Chełmski von Łukom gegen Krzysztof
+  Prusimski von Trąbczyn, dessen Sohn Antoni, ihre Dienstleute und
+  Untertanen wegen des Verbrennens von Schindeln und einer Hütte, der
+  Wegnahme von vier Ochsen und eines bewaffneten Überfalls, bei dem Heu
+  weggenommen wurde: Das Gericht schickt einen vereidigten
+  Kommissar und je zwei Freunde beider Seiten auf den strittigen Grund,
+  damit sie Zeugen vernehmen und entscheiden, wem er gehört und welcher
+  Schaden angerichtet wurde.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Decreta [inducta] 1722-1780
+# The sitting opened on the Monday after Septuagesima 1728 (26 January); the
+# suit was brought at the sitting after Trinity 1727.
+date_span: 1728
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The editor,
+# 2026-10-06: the court-book folders from Poznań are the Prusimski era.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Five images from the archive: three single pages (368, 372, 373v), one
+# opening (372v-373) and the label of the volume's cover, which is not used.
+# intake/build_pages.py --crop cuts the opening at the fold and copies the
+# single pages. The editor approves or moves the fold on
+# review/app536040/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Decreta [inducta] 1722-1780 (53.6.0.-.40)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_6_0_40
+
+# One file per page, named by page id (0372_a2.txt). Made from the editor's
+# Markdown transcription by intake/build_pages.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry, "Decretum Locationis", on leaves 372 to 373 verso of a book of
+  decrees of the land court at Konin for 1722 to 1780, in Latin, with the
+  heading of its sitting from leaf 368: the Monday after Septuagesima 1728,
+  adjourned from the autumn of 1727. Franciszek and Józef Ścibor Chełmski,
+  heirs of Łukom and Łomowo, had cited Krzysztof Prusimski, his son Antoni,
+  six named noblemen in his service and unnamed subjects of Trąbczyn at the
+  sitting after Trinity 1727. They charge that Prusimski, setting
+  neighbourly friendship aside, had six thousand shingles made on their
+  ground burned with a hut, so that children living in it barely escaped;
+  had four working oxen kept for their glassworks taken during an armed
+  raid; plotted against Józef Chełmski's life; and, while the brothers were
+  at the Crown Tribunal at Piotrków, sent his son, retainers and subjects in
+  arms onto ground belonging to Łukom, where they took cartloads of hay. Both sides appear. Because the question of whose the ground is
+  belongs before its own court, the land court finds that a sworn
+  commissioner of the provinces of Poznań and Kalisz, Wojciech Biskupski,
+  chosen by both, with two friends of each side, must go onto the ground on
+  the Monday after Misericordia Sunday, examine old sworn witnesses on
+  ownership, violence and damage, and decide; appeal lies only from the
+  final sentence. Each party pays a penalty of fourteen Polish marks; a
+  party that does not comply is banished.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A decree of a Polish land court of 1728, in the Latin of the court books;
+  the editor's transcription fills out the abbreviations. The English is the
+  editor's own translation. "Decretum locationis" is a decree appointing a
+  hearing on the ground; "condescensio" the going out onto the ground;
+  "amici" the friends each side names to sit with the commissioner;
+  "inquisitio" the sworn examination of witnesses; "tegulae alias Szkudeł"
+  wooden shingles; "sexagena" a threescore (kopa); "gaza" a hut;
+  "inventarium" the livestock of an estate; "officina vitriaria" a
+  glassworks; "bannitio" banishment. Trąpczyn and Trąmpczyn are Trąbczyn.

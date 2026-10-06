@@ -13238,10 +13238,11 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 184,
+  "count": 188,
   "documents": [
    "app53170koningr145-1",
    "app536036-1",
+   "app536040-1",
    "app536045-1",
    "oe1bu9454-102",
    "oe1bu9454-286",
@@ -13256,6 +13257,42 @@
     "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
     "line": 4,
     "doc_line": 2
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmscy",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmskich",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
    },
    {
     "uid": "app536045-1",
@@ -62714,6 +62751,70 @@
     "scan": "III_HA_MdA_III_Nr_12765_0044_a2-L30_01.jpg",
     "line": 1056,
     "doc_line": 27
+   }
+  ]
+ },
+ {
+  "entity": "prusimski-krzysztof",
+  "display": "Krzysztof Prusimski",
+  "count": 6,
+  "documents": [
+   "app536040-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Prusimskich",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
    }
   ]
  },

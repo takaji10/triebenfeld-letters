@@ -447,14 +447,14 @@
   name: "Chełmski"
   heading: "Chełmski"
   heading_de: "Chełmski"
-  count: 182
-  docs: 6
+  count: 186
+  docs: 7
   life: "documented 1644-1815"
   life_de: "belegt 1644-1815"
   bio: "The family that owned Łukomia, the estate next to Trąbczyn, and was at law with its owners over the boundary for two centuries. Jerzy Chełmski obtained judgments by default against the Trąmpczyńskis in 1644. Stanisław Ścibor Chełmski stopped Katarzyna Prusimska's potash at Pyzdry in 1761. The brothers Heliodor and Stanisław Chełmski were the other side in the boundary dispute that a commission decided in 1775, against them. A Chełmski was later party to a lawsuit over the South Prussian estates, which he lost in two instances in 1798 and 1799."
   bio_de: "Die Familie, der Łukomia gehörte, das Nachbargut von Trąbczyn, und die zwei Jahrhunderte lang mit dessen Besitzern um die Grenze stritt. Jerzy Chełmski erwirkte 1644 Versäumnisurteile gegen die Trąmpczyński. Stanisław Ścibor Chełmski hielt 1761 in Pyzdry die Pottasche der Katarzyna Prusimska an. Die Brüder Heliodor und Stanisław Chełmski waren die Gegenseite im Grenzstreit, den eine Kommission 1775 gegen sie entschied. Ein Chełmski war später Partei in einem Prozess um die südpreußischen Güter, den er 1798 und 1799 in zwei Instanzen verlor."
   span: "1644–1815"
-  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 1}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 176}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
+  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 1}, {id: "1", uid: "app536040-1", url: "/documents/app536040/1/", n: 4}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 176}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
 - slug: "chmara"
   name: "Johann Chmara"
   heading: "Chmara, Jan"
@@ -2204,6 +2204,18 @@
   bio_de: "Antoni Prusimski (Ostroróg-Prusimski), Starost von Niszczewice und Besitzer von Trąbczyn, Kamionna (Kaemen) und Kolno. Die preußischen Akten nennen ihn einen der Hauptinsurgenten des polnischen Aufstands von 1794; er floh, die Krone konfiszierte seine Güter, und 1796 schenkte der König sie Hohenlohe-Ingelfingen. 1807 gab eine Kommission des Herzogtums Warschau sie seiner Tochter Michalina zurück, die einen eigenen Eintrag hat. 1800 schrieb Hohenlohe-Ingelfingen von ihm als noch lebend und machte geltend, sein lebenslanges Nutzungsrecht am Vermögen seiner verstorbenen Frau sei mit seinem übrigen konfiszierten Vermögen an die Krone gefallen. Erwähnungen seiner Erben und der nach ihm benannten Güter sind hier mitgezählt."
   span: "1776–1827"
   letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 81}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 2}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 4}, {id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/", n: 1}, {id: "1", uid: "ihagrrep7cnr1414-1", url: "/documents/ihagrrep7cnr1414/1/", n: 1}, {id: "3", uid: "ihagrrep7cnr1414-3", url: "/documents/ihagrrep7cnr1414/3/", n: 2}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", n: 1}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", n: 1}, {id: "31", uid: "oe1bu14525-31", url: "/documents/oe1bu14525/31/", n: 1}, {id: "44", uid: "oe1bu14525-44", url: "/documents/oe1bu14525/44/", n: 2}, {id: "43", uid: "oe1bu14525-43", url: "/documents/oe1bu14525/43/", n: 3}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 2}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "105", uid: "oe1bu9454-105", url: "/documents/oe1bu9454/105/", n: 1}, {id: "28", uid: "oe1bu14526-28", url: "/documents/oe1bu14526/28/", n: 1}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/", n: 1}, {id: "6", uid: "ihagrrep7cnr3709-6", url: "/documents/ihagrrep7cnr3709/6/", n: 1}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", n: 1}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", n: 1}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", n: 1}, {id: "12", uid: "oe1bu14525-12", url: "/documents/oe1bu14525/12/", n: 4}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", n: 1}, {id: "164", uid: "oe1bu9454-164", url: "/documents/oe1bu9454/164/", n: 2}, {id: "179", uid: "oe1bu9454-179", url: "/documents/oe1bu9454/179/", n: 2}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 1}, {id: "27", uid: "oe1bu9454-27", url: "/documents/oe1bu9454/27/", n: 1}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 2}, {id: "265b", uid: "oe1bu9454-265b", url: "/documents/oe1bu9454/265b/", n: 2}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 2}, {id: "285", uid: "oe1bu9454-285", url: "/documents/oe1bu9454/285/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 3}, {id: "6", uid: "iiihamdaiiinr12765-6", url: "/documents/iiihamdaiiinr12765/6/", n: 3}, {id: "14", uid: "iiihamdaiiinr12765-14", url: "/documents/iiihamdaiiinr12765/14/", n: 1}, {id: "297", uid: "oe1bu9454-297", url: "/documents/oe1bu9454/297/", n: 1}, {id: "17", uid: "iiihamdaiiinr12765-17", url: "/documents/iiihamdaiiinr12765/17/", n: 1}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/", n: 6}, {id: "3", uid: "iiihamdaiiinr12366-3", url: "/documents/iiihamdaiiinr12366/3/", n: 2}, {id: "5", uid: "iiihamdaiiinr12366-5", url: "/documents/iiihamdaiiinr12366/5/", n: 2}]
+- slug: "prusimski-krzysztof"
+  name: "Krzysztof Prusimski"
+  heading: "Prusimski, Krzysztof"
+  heading_de: "Prusimski, Krzysztof"
+  count: 6
+  docs: 1
+  life: "documented 1728"
+  life_de: "belegt 1728"
+  bio: "Krzysztof Prusimski, heir of Trąbczyn in the 1720s and grandfather of Antoni Prusimski, the Starost. In 1728 the Chełmski brothers of Łukom sued him, his son Antoni and their people for burning, cattle-taking and an armed raid, and the land court at Konin sent a commissioner onto the disputed ground."
+  bio_de: "Krzysztof Prusimski, in den 1720er Jahren Erbherr von Trąbczyn und Großvater des Starosten Antoni Prusimski. 1728 verklagten ihn, seinen Sohn Antoni und ihre Leute die Brüder Chełmski von Łukom wegen Brandstiftung, Viehwegnahme und eines bewaffneten Überfalls, und das Landgericht in Konin schickte einen Kommissar auf den strittigen Grund."
+  span: "1728"
+  letters: [{id: "1", uid: "app536040-1", url: "/documents/app536040/1/", n: 6}]
 - slug: "przespolewski"
   name: "Przespolewski"
   heading: "Przespolewski, Jacob von"

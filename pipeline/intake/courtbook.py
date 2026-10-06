@@ -89,6 +89,9 @@ def read_english(path, drop_notes=()):
             line = re.sub(r'\s*\[see Glossary\]', '', line)
             line = re.sub(r'([^\s\[\]]+)\[\?\]', lambda k: '[uncertain: %s]' % k.group(1), line)
             line = re.sub(r'\[([^\[\]]{1,60})\?\]', lambda k: '[uncertain: %s]' % k.group(1).strip(), line)
+            # "[T.N.12]": the editor's other way of marking a note; the notes
+            # themselves are in the section that is cut off above
+            line = re.sub(r'\s*\[T\.N\.\d+\]', '', line)
             refs = re.findall(r'\[\^(\d+)\]', line)
             line = re.sub(r'\s+', ' ', re.sub(r'\[\^\d+\]', '', line)).strip()
             if line:

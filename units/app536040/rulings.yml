@@ -1,0 +1,52 @@
+# Editorial rulings for 53/6/0/-/40 (APP).
+#
+# One document: the entry "Inter Generosos Chełmskie et Generosum Prusimski
+# Decretum Locationis", leaves 372 to 373 verso, with the heading of its
+# sitting on leaf 368 as its first page. Each entry of a court book is a
+# document (the editor's ruling of 2026-10-06, EDITORIAL_RULES). Established
+# 2026-10-07.
+
+places:
+  # Place of writing: "Actum in Conin in judicijs terrestribus".
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred: {}
+
+  # The date of the sitting the entry stands under:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # Here the heading is the document's own first page: "feria secunda post
+  # Dominicam Septuagesimae proxima anno Domini millesimo septingentesimo
+  # vigesimo octavo". Easter 1728 was 28 March, Septuagesima 25 January, the
+  # Monday after it 26 January. The decree of 1775 (Konin Gr.145) cites this
+  # decree under the same day.
+  sitting:
+    "1": [1728, 1, 26, "day", "The heading of the sitting, on the document's first page: the Monday after Septuagesima Sunday 1728, which was 26 January."]
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lukomia, trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0368_a2", "0372_a2", "0373_a1", "0373_a2", "0374_a1"]
+
+damage:
+  letters: []

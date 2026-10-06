@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 188,
+  "count": 189,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
@@ -13,6 +13,7 @@
    "app536017-1",
    "app536036-1",
    "app536036-2",
+   "app536040-1",
    "app536045-1",
    "app5371057-1",
    "app539680801-1",
@@ -1387,6 +1388,19 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 6,
+  "documents": [
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app536045-1"
+  ]
+ },
+ {
   "entity": "batkowo",
   "display": "Bątkowo (Batkowo)",
   "count": 6,
@@ -1397,18 +1411,6 @@
    "oe1bu14525-28",
    "oe1bu14525-6",
    "oe1u199-1"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 5,
-  "documents": [
-   "app53170koningr145-1",
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536045-1"
   ]
  },
  {
