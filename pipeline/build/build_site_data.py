@@ -69,6 +69,7 @@ SOURCE_LABEL = {
     'dateline':  "read from the document's own dateline",
     'supplied':  'supplied by the researcher',
     'inferred':  'inferred from neighbouring letters',
+    'sitting':   "from the heading of the court's sitting",
     'twin':      'taken from its duplicate (letter 48)',
     'none':      'no date in the source',
 }
@@ -153,6 +154,7 @@ SOURCE_LABEL_DE = {
     'dateline':  'aus der Datumszeile des Dokuments gelesen',
     'supplied':  'vom Bearbeiter ergänzt',
     'inferred':  'aus benachbarten Briefen erschlossen',
+    'sitting':   'aus der Überschrift der Gerichtssitzung',
     'twin':      'aus dem Duplikat übernommen (Brief 48)',
     'none':      'kein Datum in der Quelle',
 }
@@ -435,7 +437,7 @@ def main():
         fm.append(f'date_source: {yaml_str(r["date_source"])}')
         fm.append(f'date_source_label: {yaml_opt(SOURCE_LABEL.get(r["date_source"], ""))}')
         # Only carry the basis when it says more than the source label already does.
-        basis = r['date_inferred_from'] if r['date_source'] in ('inferred', 'none') else ''
+        basis = r['date_inferred_from'] if r['date_source'] in ('inferred', 'sitting', 'none') else ''
         fm.append(f'date_basis: {yaml_opt(basis)}')
         fm.append(f'date_source_label_de: {yaml_opt(SOURCE_LABEL_DE.get(r["date_source"], ""))}')
         fm.append(f'date_basis_de: {yaml_opt(note_de(basis))}')

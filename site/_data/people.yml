@@ -447,14 +447,14 @@
   name: "Chełmski"
   heading: "Chełmski"
   heading_de: "Chełmski"
-  count: 62
-  docs: 5
-  life: "documented 1776-1815"
-  life_de: "belegt 1776-1815"
+  count: 64
+  docs: 6
+  life: "documented 1763-1815"
+  life_de: "belegt 1763-1815"
   bio: "The family that owned Łukomia, the estate next to Trąbczyn. The brothers Heliodor and Stanisław Chełmski were the other side in the boundary dispute that a commission decided in 1775, against them. A Chełmski was later party to a lawsuit over the South Prussian estates, which he lost in two instances in 1798 and 1799."
   bio_de: "Die Familie, der Łukomia gehörte, das Nachbargut von Trąbczyn. Die Brüder Heliodor und Stanisław Chełmski waren die Gegenseite im Grenzstreit, den eine Kommission 1775 gegen sie entschied. Ein Chełmski war später Partei in einem Prozess um die südpreußischen Güter, den er 1798 und 1799 in zwei Instanzen verlor."
-  span: "1776–1815"
-  letters: [{id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 57}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
+  span: "1763–1815"
+  letters: [{id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 57}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
 - slug: "chmara"
   name: "Johann Chmara"
   heading: "Chmara, Jan"
@@ -2156,6 +2156,18 @@
   bio_de: "Ein Beamter, 1799 als einer derjenigen genannt, die den Tausch gegen Krotoszyn regeln sollten."
   span: "1799"
   letters: [{id: "99", uid: "oe1bu9454-99", url: "/documents/oe1bu9454/99/", n: 2}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 2}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "104", uid: "oe1bu9454-104", url: "/documents/oe1bu9454/104/", n: 1}, {id: "105", uid: "oe1bu9454-105", url: "/documents/oe1bu9454/105/", n: 1}]
+- slug: "prusimska-katarzyna"
+  name: "Katarzyna Prusimska, born Rozdrażewska"
+  heading: "Prusimska, Katarzyna (born Rozdrażewska)"
+  heading_de: "Prusimska, Katarzyna (geb. Rozdrażewska)"
+  count: 2
+  docs: 1
+  life: "documented 1763"
+  life_de: "belegt 1763"
+  bio: "Katarzyna Prusimska, born Rozdrażewska, a widow of the family that owned Trąbczyn. In 1763 she was at law with Stanisław Ścibor Chełmski of Łukomia before the land court at Konin over potash he had stopped at Pyzdry in 1761."
+  bio_de: "Katarzyna Prusimska, geborene Rozdrażewska, eine Witwe aus der Familie, der Trąbczyn gehörte. 1763 stand sie vor dem Landgericht in Konin im Rechtsstreit mit Stanisław Ścibor Chełmski von Łukomia um Pottasche, die er 1761 in Pyzdry angehalten hatte."
+  span: "1763"
+  letters: [{id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}]
 - slug: "prusimska"
   name: "Michalina z Prusimskich Dąbska, later Miączyńska"
   heading: "Prusimska, Michalina (married Dąbska, later Miączyńska)"

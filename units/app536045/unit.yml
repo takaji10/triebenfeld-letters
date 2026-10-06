@@ -1,0 +1,99 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app536045
+ref: 53/6/0/-/45
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  A decree of the land court at Konin, of its sitting of 1763, in the suit
+  between the widow Katarzyna Prusimska and Stanisław Ścibor Chełmski over
+  potash which Chełmski had stopped at Pyzdry in 1761 on its way to Gdańsk:
+  the court heard sworn witnesses and then put the matter off until the
+  boundary between Trąbczyn and Łukom, then before the Crown Tribunal, should
+  show on whose ground the potash had been made.
+title_de: >-
+  Ein Dekret des Landgerichts in Konin aus dessen Sitzung von 1763 im
+  Rechtsstreit zwischen der Witwe Katarzyna Prusimska und Stanisław Ścibor
+  Chełmski um Pottasche, die Chełmski 1761 auf dem Weg nach Danzig in Pyzdry
+  angehalten hatte: Das Gericht vernahm beeidete Zeugen und setzte die Sache
+  dann aus, bis die Grenze zwischen Trąbczyn und Łukom, über die vor dem
+  Krontribunal gestritten wurde, zeige, auf wessen Grund die Pottasche
+  hergestellt worden war.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Decreta [protocollon] 1750-1765
+# The sitting opened on the Monday after Trinity Sunday 1763 (30 May); the
+# potash was stopped in 1761.
+date_span: 1763
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The editor,
+# 2026-10-06: the court-book folders from Poznań are the Prusimski era.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# One scan from the archive, 673.jpg: an opening, leaf 653 verso and leaf 654
+# recto. intake/build_pages.py --crop cuts it at the fold into 0673_a1 (left)
+# and 0673_a2 (right), whole pages. The editor approves the fold on
+# review/app536045/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Decreta [protocollon] 1750-1765 (53.6.0.-.45) (Konin)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_6_0_45
+
+# One file per page, named by page id (0673_a1.txt). Made from the editor's
+# Markdown transcription by intake/build_pages.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry, no. 17 on leaves 653 verso and 654, in a book of decrees of the
+  land court at Konin for 1750 to 1765, in Latin. It belongs to the court's
+  sitting that opened at Konin on the Monday after Trinity Sunday 1763. The
+  parties are Katarzyna Prusimska, born Rozdrażewska, a widow, with Józef
+  Puchalski on one side, and Stanisław Ścibor Chełmski with one Czajkowski
+  on the other; each side is both plaintiff and summoned. The court finds
+  that sworn testimony is needed, has the witnesses sworn and heard, and has
+  the testimony read. It is shown that in 1761 Prusimska sent potash-burners
+  with potash towards Gdańsk; that Chełmski, on his way to Poznań, came upon
+  them near Pyzdry, had the potash sequestered and lodged at an inn there
+  and laid an arrest on it with the notary of the customs house; and that
+  the burners, though the notary objected, took it on to Gdańsk. Because the
+  boundary between Trąbczyn and Łukom is before the Crown Tribunal between
+  the same parties, and only the boundary will show on whose ground the
+  potash was made, the court suspends the matter and orders the testimony
+  handed to the parties in a closed roll.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A decree of a Polish land court of 1763, in the abbreviated Latin of the
+  court books; the editor's transcription fills out the abbreviations. The
+  English is the editor's own translation. "Inquisitio" is the sworn
+  examination of witnesses; "Ministerialis" the court's summoner (woźny);
+  "rotha juramenti" the set words of an oath; "cineres" potash and
+  "cineatores" the men who burned it; "teloneum" the customs house;
+  "dislimitatio" the fixing of a boundary; "rothulus" a roll in which
+  testimony was closed up. Trąpczyn and Trąbczyn are one place.

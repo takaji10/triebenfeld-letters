@@ -111,6 +111,14 @@
   docs: 1
   span: "1810"
   letters: [{id: "211", uid: "oe1bu9454-211", url: "/documents/oe1bu9454/211/"}]
+- name: "Konin"
+  slug: "konin"
+  count: 1
+  lat: 52.2559
+  lon: 18.26787
+  docs: 1
+  span: "1763"
+  letters: [{id: "1", uid: "app536045-1", url: "/documents/app536045/1/"}]
 - name: "Konotop (Kontop)"
   slug: "konotop-kontop"
   count: 24

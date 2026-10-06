@@ -1,0 +1,25 @@
+# The claim check of the German summary of APP 53/6/0/-/45, made in session
+# on 2026-10-06 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The document was read in the Latin
+# of corpus.txt as corrected against the scan.
+#
+# Result: 10 statements, all supported. One rests on text that is not a page
+# of the edition: the year 1763 and the court come from the heading of the
+# sitting on leaf 638, which the editor transcribed and which is not among
+# the scans (intake/build_pages.py; quoted in about.md).
+# Names in the edition's forms count as supported (Katarzyna for Catharina,
+# Posen and Danzig in the German for Posnania and Gedanum).
+
+app536045-001:
+- {claim: "Dekret des Landgerichts in Konin aus dessen Sitzung von 1763", verdict: supported, where: "the heading on leaf 638: Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus ... Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin; p. 1: Judicium ... censet decernendo"}
+- {claim: "im Streit zwischen der Witwe Katarzyna Prusimska, geborene Rozdrażewska, mit Joseph Puchalski auf der einen und Stanisław Ścibor Chełmski mit einem Czajkowski auf der anderen Seite", verdict: supported, where: "p. 1: Inter Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam ... tum Generosum Josephum Puchalski actorem per Generosum Albertum Zurawski et Magnificum Stanislaum Ścibor Chełmski ac Generosum Czajkowski ... per Generosum Ignatium Byszewski"}
+- {claim: "beide Seiten klagen und sind zugleich geladen", verdict: supported, where: "p. 1: actricem et citatam ... citatos et actores; terminos partium mutuo sibi directos"}
+- {claim: "das Gericht hält eine Vernehmung beeideter Zeugen für nötig, lässt sie durchführen und die Aussagen verlesen", verdict: supported, where: "p. 1: necessariam esse inquisitionem per partes expediendam censet ... testibus juratis; p. 2: induxerunt eduxerunt et inquisitiones pro parte sui expediverunt ad quarum lectionem hoc idem judicium accessit quibus lectis"}
+- {claim: "danach hatte die Prusimska 1761 Pottaschebrenner mit Pottasche auf den Weg geschickt", verdict: supported, where: "p. 2: Magnificam Prusimska cum cineribus non constat quo tempore praeparatis in anno 1761 cineatores disposuisse"}
+- {claim: "Chełmski, der nach Posen reiste, traf sie bei Pyzdry, als sie nach Danzig zogen", verdict: supported, where: "p. 2: eosdemque Gedanum discedentes Magnificum Chełmski Posnaniam discedentem prope oppidum Pyzdry praevenisse"}
+- {claim: "er ließ die Pottasche beschlagnahmen und in einem Wirtshaus in Pyzdry einlagern und legte beim Notar des Zollamts Arrest darauf", verdict: supported, where: "p. 2: eisdemque cineribus sequestratis, eosdem in oppido Pyzdry in diversorio ibidem sitto locasse, arestum super eosdem cineres apud notarium Thaelonei imposuisse"}
+- {claim: "die Brenner schafften sie trotz des Widerspruchs des Notars mit Hilfe der Adligen Wawrowski und Gotartowski fort und brachten sie nach Danzig", verdict: supported, where: "p. 2: licet opponente se Notario Thelonei eosdem cineres de loco cineatores ad assistentiam Generosorum Wawrowski et Gotartowski movisse et Gedanum duxisse"}
+- {claim: "weil zwischen den Parteien der Streit um die Grenze zwischen Trąbczyn und Łukom vor dem Krontribunal noch unentschieden ist und erst die Grenzziehung zeigen wird, auf wessen Grund die Pottasche hergestellt wurde", verdict: supported, where: "p. 2: inter has partes causa respectu limitum inter bona Trąpczyn et Łukom ac alia in Judicio Tribunalis Regni ventilatur indecisa in cuius nam vero fundo sunt cineres praeparati ex dislimitatione bonorum subsequenda modo"}
+- {claim: "setzt das Gericht die Entscheidung aus und ordnet an, den Parteien die Zeugenaussagen aus der Kanzlei in verschlossener Rolle herauszugeben", verdict: supported, where: "p. 2: negotii praesentis resolutionem ad decisionem causae fundi Judicium suspendit et inquisitiones partibus ex cancellaria terrestri in occluso rothulo extradendas debere jubet"}

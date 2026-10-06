@@ -90,6 +90,7 @@ the same fact as one a researcher assigned, and the dataset must not blur them.
 | `dateline` | read off the dateline by the editor, recorded because the parser could not reach it - the deeds are formulaic, Latinate and often corrupt | 57 |
 | `supplied` | **assigned by a researcher**, not present in the document | 25 |
 | `inferred` | reasoned from neighbouring documents; `date_inferred_from` gives the basis, and it is shown to the reader | 9 |
+| `sitting` | an entry of a court book, which has no date of its own: **taken from the heading of the court's sitting** it stands under, often on another leaf (`dates: sitting:` in `rulings.yml`, with a basis that is shown to the reader). Read from the book, so shown without brackets. Added 2026-10-06 for the Poznań court books | 1 |
 | `twin` | taken from the document's own duplicate | 1 |
 | `none` | undated, and left so | 7 |
 

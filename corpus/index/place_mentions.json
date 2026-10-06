@@ -2,10 +2,11 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 604,
+  "count": 605,
   "documents": [
    "agad11740273-2",
    "app53170koningr145-1",
+   "app536045-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -169,6 +170,15 @@
    "oe1u199-1"
   ],
   "mentions": [
+   {
+    "uid": "app536045-1",
+    "surface": "Trąpczyn",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
    {
     "uid": "app53170koningr145-1",
     "surface": "Trąpczyn",
@@ -34350,12 +34360,22 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 42,
+  "count": 43,
   "documents": [
    "app53170koningr145-1",
+   "app536045-1",
    "oe1bu14525-23"
   ],
   "mentions": [
+   {
+    "uid": "app536045-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
    {
     "uid": "app53170koningr145-1",
     "surface": "Łukom",
@@ -43655,6 +43675,123 @@
   ]
  },
  {
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "count": 11,
+  "documents": [
+   "app536045-1",
+   "oe1bu14525-23",
+   "oe1bu14526-26",
+   "oe1bu14526-28",
+   "oe1bu14526-8",
+   "oe1bu9454-136",
+   "oe1bu9454-271",
+   "oe1bu9454-28",
+   "oe1bu9454-31"
+  ],
+  "mentions": [
+   {
+    "uid": "app536045-1",
+    "surface": "Pyzdry",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Pyzdry",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14526-28",
+    "surface": "Peysern",
+    "page": 1,
+    "page_id": "0163_a2",
+    "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
+    "line": 7973,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14526-26",
+    "surface": "Peisern",
+    "page": 1,
+    "page_id": "0159_a2",
+    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
+    "line": 7785,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Peysern",
+    "page": 2,
+    "page_id": "0092_a2",
+    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+    "line": 2972,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Peisern",
+    "page": 8,
+    "page_id": "0266_a",
+    "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
+    "line": 9985,
+    "doc_line": 156
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Peysern",
+    "page": 22,
+    "page_id": "0048_a1",
+    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
+    "line": 2510,
+    "doc_line": 708
+   },
+   {
+    "uid": "oe1bu9454-28",
+    "surface": "Peisern",
+    "page": 4,
+    "page_id": "0051_a",
+    "scan": "Oe_1_Bu_9454_0051_a-L28_04.jpg",
+    "line": 1926,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Peisern",
+    "page": 2,
+    "page_id": "0056_a1",
+    "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
+    "line": 2073,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Peisern",
+    "page": 4,
+    "page_id": "0057_a",
+    "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
+    "line": 2156,
+    "doc_line": 110
+   },
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Peisern",
+    "page": 1,
+    "page_id": "0493_b",
+    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+    "line": 19247,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
   "entity": "glogau",
   "display": "Głogów (Glogau)",
   "count": 11,
@@ -44593,104 +44730,6 @@
     "scan": "Oe_1_Bu_9454_0500_a1-L274_02.jpg",
     "line": 19537,
     "doc_line": 43
-   }
-  ]
- },
- {
-  "entity": "pyzdry",
-  "display": "Pyzdry (Peisern)",
-  "count": 9,
-  "documents": [
-   "oe1bu14525-23",
-   "oe1bu14526-26",
-   "oe1bu14526-28",
-   "oe1bu14526-8",
-   "oe1bu9454-136",
-   "oe1bu9454-271",
-   "oe1bu9454-28",
-   "oe1bu9454-31"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-28",
-    "surface": "Peysern",
-    "page": 1,
-    "page_id": "0163_a2",
-    "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
-    "line": 7973,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14526-26",
-    "surface": "Peisern",
-    "page": 1,
-    "page_id": "0159_a2",
-    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
-    "line": 7785,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Peysern",
-    "page": 2,
-    "page_id": "0092_a2",
-    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
-    "line": 2972,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Peisern",
-    "page": 8,
-    "page_id": "0266_a",
-    "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
-    "line": 9985,
-    "doc_line": 156
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Peysern",
-    "page": 22,
-    "page_id": "0048_a1",
-    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
-    "line": 2510,
-    "doc_line": 708
-   },
-   {
-    "uid": "oe1bu9454-28",
-    "surface": "Peisern",
-    "page": 4,
-    "page_id": "0051_a",
-    "scan": "Oe_1_Bu_9454_0051_a-L28_04.jpg",
-    "line": 1926,
-    "doc_line": 76
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Peisern",
-    "page": 2,
-    "page_id": "0056_a1",
-    "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
-    "line": 2073,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Peisern",
-    "page": 4,
-    "page_id": "0057_a",
-    "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
-    "line": 2156,
-    "doc_line": 110
-   },
-   {
-    "uid": "oe1bu9454-271",
-    "surface": "Peisern",
-    "page": 1,
-    "page_id": "0493_b",
-    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
-    "line": 19247,
-    "doc_line": 5
    }
   ]
  },

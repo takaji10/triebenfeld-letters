@@ -300,6 +300,10 @@ def load_rulings(unit):
         'SUPPLIED':       tuples(dates.get('supplied')),
         'TWIN':           tuples(dates.get('twin')),
         'INFERRED':       tuples(dates.get('inferred')),
+        # An entry of a court book has no date of its own: it stands under the
+        # heading of the sitting it was entered at, often on another leaf.
+        # [year, month, day, precision, basis]; the basis is shown.
+        'DATE_SITTING':   tuples(dates.get('sitting')),
         'NO_DATE':        set(dates.get('no_date') or []),
         'DOC_TYPE':       docs.get('doc_type') or {},
         # Era and themes. Both are EDITORIAL ASSIGNMENTS and neither is derived

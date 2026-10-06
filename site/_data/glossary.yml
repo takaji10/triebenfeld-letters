@@ -758,7 +758,7 @@
   initial_en: "S"
   sort_de: "sequestration"
   initial_de: "S"
-  docs: 38
+  docs: 39
 - id: "execution"
   kind: "law"
   lang: "de_la"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 48
+  docs: 49
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 25
+  docs: 26
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 61
+  docs: 62
 - id: "ew"
   kind: "title"
   lang: "de"

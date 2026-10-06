@@ -555,6 +555,9 @@ people:
     # Dąbskiey, Dambskiey, Dąmbskiey: the genitive in the Polish of 1807 (AGAD
     # 1/174/0/2/73 and 1/174/0/1/6) and of the judgment of 1827 (Nr. 12366).
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])|D[ąa]m?bskiey(?![a-zà-ÿ])"
+    # In the potash decree of 1763 (APP 53/6/0/-/45) "Prusimska" is Katarzyna,
+    # born Rozdrażewska, two generations before Michalina: prusimska-katarzyna.
+    not_in: [app536045-1]
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
@@ -563,6 +566,18 @@ people:
       - "Moszynska"
       - "Miaczynska"
     distinct_from: [prusimski]
+    merge: false
+  prusimska-katarzyna:
+    display: "Katarzyna Prusimska, born Rozdrażewska"
+    render: "Katarzyna Prusimska"
+    # Only in the documents where "Prusimska" is she: elsewhere the name is
+    # Michalina (prusimska). Add a document here when one of hers comes in.
+    match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])'
+    only_in: [app536045-1]
+    tier: "Text-confirmed (name, widow, party); whose widow from the editor's register"
+    variants: []
+    identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The editor's register of the court books (reference/sources/poznan_cross_reference_map.md) has her as widow of Paweł Prusimski and holder of Trąbczyn for life, from the inspection of 1754 (APP 53/17/0/-/Konin Gr.136, not yet in the edition), and places her between Krzysztof Prusimski and Antoni, the Starost. Added 2026-10-06."
+    distinct_from: [prusimska]
     merge: false
   miaczynski:
     display: "Stanisław Miączyński"

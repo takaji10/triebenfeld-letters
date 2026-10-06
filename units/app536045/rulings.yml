@@ -1,0 +1,53 @@
+# Editorial rulings for 53/6/0/-/45 (APP).
+#
+# One document: entry no. 17 of the court's sitting, on leaves 653 verso and
+# 654. Each entry of a court book is a document (the editor's ruling of
+# 2026-10-06, EDITORIAL_RULES). Established 2026-10-06.
+
+places:
+  # Place of writing: the land court sat at Konin ("in Conin in propria
+  # Cadentia Celebratis", the heading of the sitting on leaf 638).
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read: {}
+  supplied: {}
+  twin: {}
+
+  inferred: {}
+
+  # The date of the sitting the entry stands under:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # The entry itself carries no date. The heading of the sitting it belongs
+  # to stands on leaf 638, which the editor transcribed but which is not
+  # among the scans: "Feria Secunda post Festum Sanctissimae et Individuae
+  # Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo
+  # Tertio". Trinity Sunday 1763 was 29 May. The day of this decree within
+  # the sitting is not given, so only the year is claimed.
+  sitting:
+    "1": [1763, null, null, "year", "The sitting opened at Konin on the Monday after Trinity Sunday 1763 (30 May). Its heading is on leaf 638, which is not among the scans; the entry itself has no date."]
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0673_a1", "0673_a2"]
+
+damage:
+  letters: []

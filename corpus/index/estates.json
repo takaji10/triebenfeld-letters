@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 184,
+  "count": 185,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
@@ -10,6 +10,7 @@
    "agad11740273-3",
    "agad11740273-4",
    "app53170koningr145-1",
+   "app536045-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -1490,6 +1491,15 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 2,
+  "documents": [
+   "app53170koningr145-1",
+   "app536045-1"
+  ]
+ },
+ {
   "entity": "boronow",
   "display": "Boronów (Boronow)",
   "count": 2,
@@ -1505,14 +1515,6 @@
   "documents": [
    "oe1bu9454-264",
    "oe1u199-1"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 1,
-  "documents": [
-   "app53170koningr145-1"
   ]
  },
  {

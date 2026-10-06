@@ -128,6 +128,7 @@ for _lid, _ts in DOC_THEMES.items():
             sys.exit(f'{UNIT.slug} document {_lid}: theme {_t!r} is not in '
                      f'reference/themes.yml')
 INFERRED        = _R['INFERRED']
+DATE_SITTING    = _R['DATE_SITTING']
 DUP_OF          = _R['DUP_OF']
 SPLIT_NOTE      = _R['SPLIT_NOTE']
 DAMAGE_LETTERS  = _R['DAMAGE_LETTERS']
@@ -402,6 +403,9 @@ for L in nums:
         basis = f'same document as {_tw}' if _tw else 'same document as its duplicate'
     elif L in INFERRED:
         y, m, d, prec, basis = INFERRED[L]; srcv = 'inferred'
+    elif L in DATE_SITTING:
+        # an entry of a court book, dated by the heading of its sitting
+        y, m, d, prec, basis = DATE_SITTING[L]; srcv = 'sitting'
     else:
         p = parsed.get(L)
         if p:
@@ -427,7 +431,7 @@ for L in nums:
         # plain. Without this branch it fell through to `dline`, which is empty
         # for those, and every such document announced itself as undated.
         date_display=(f"[{iso(y,m,d)}]" if srcv in ('inferred', 'supplied', 'twin')
-                      else (iso(y, m, d) if srcv == 'dateline' else dline)),
+                      else (iso(y, m, d) if srcv in ('dateline', 'sitting') else dline)),
         date_inferred_from=(basis or note),
         year=y or '', month=m or '', day=d or '',
         place=place,
