@@ -204,46 +204,76 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
     print('wrote', os.path.join(out, 'index.html'), 'with', len(rows), 'scan(s)')
 
 
+def _put(unit_dir, docs, parts):
+    """parts: {(document number, page id): [lines]}. Writes corpus.txt and one file per page.
+
+    A page that carries the end of one document and the beginning of the
+    next stands under both in corpus.txt; its page file has both parts, in
+    the order of the documents.
+    """
+    tdir = os.path.join(unit_dir, 'transcriptions')
+    os.makedirs(tdir, exist_ok=True)
+    out, whole, order = [], {}, []
+    for n, ids in docs:
+        out.append('[DOC %d]' % n)
+        for pid in ids:
+            out.append('[PAGE %s]' % pid)
+            out.extend(parts[(n, pid)])
+            if pid not in whole:
+                whole[pid] = []
+                order.append(pid)
+            whole[pid].extend(parts[(n, pid)])
+    for pid in order:
+        io.open(os.path.join(tdir, pid + '.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(whole[pid]) + '\n')
+    io.open(os.path.join(unit_dir, 'corpus.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
+    return len(order)
+
+
+def _read_corpus(unit_dir):
+    """corpus.txt back into {(document number, page id): [lines]}."""
+    import re
+    parts, doc, key = {}, None, None
+    for line in io.open(os.path.join(unit_dir, 'corpus.txt'), encoding='utf-8').read().rstrip('\n').split('\n'):
+        m = re.match(r'^\[DOC (\d+)\]$', line)
+        if m:
+            doc = int(m.group(1))
+            continue
+        m = re.match(r'^\[PAGE (\S+)\]$', line)
+        if m:
+            key = (doc, m.group(1))
+            parts[key] = []
+            continue
+        parts[key].append(line)
+    return parts
+
+
 def correct(unit_dir, slug, docs, rows, write, source='read on the scan'):
     """docs: [(document number, [page ids])]; rows: [(page id, old, new, why)].
 
-    Each `old` must stand exactly once on its page. Returns the number
-    applied. With write=False only checks.
+    Each `old` must stand exactly once on its page (in whichever document's
+    part of it). Returns the number applied. With write=False only checks.
     """
-    tdir = os.path.join(unit_dir, 'transcriptions')
-    where = {}
-    for n, ids in docs:
-        for i, pid in enumerate(ids, 1):
-            where[pid] = (n, i)
-    text = {pid: io.open(os.path.join(tdir, pid + '.txt'), encoding='utf-8').read().rstrip('\n').split('\n')
-            for pid in where}
+    parts = _read_corpus(unit_dir)
+    assert set(parts) == {(n, pid) for n, ids in docs for pid in ids}, 'corpus.txt and DOCS disagree'
     log, bad = [], []
     for pid, old, new, why in rows:
-        hits = [i for i, l in enumerate(text[pid]) if old in l]
-        n = sum(text[pid][i].count(old) for i in hits)
+        hits = [(k, i) for k in parts if k[1] == pid for i, l in enumerate(parts[k]) if old in l]
+        n = sum(parts[k][i].count(old) for k, i in hits)
         if n != 1:
             bad.append('%s: found %d time(s): %r' % (pid, n, old[:70]))
             continue
-        i = hits[0]
-        text[pid][i] = text[pid][i].replace(old, new)
-        doc, page = where[pid]
+        k, i = hits[0]
+        parts[k][i] = parts[k][i].replace(old, new)
+        page = dict(docs)[k[0]].index(pid) + 1
         key = hashlib.md5(('%s|%s|%s' % (pid, old, new)).encode()).hexdigest()[:8]
-        log.append([key, '%s-%03d' % (slug, doc), page, old, new, '%s: %s -> %s' % (pid, old[:60], new[:60]),
+        log.append([key, '%s-%03d' % (slug, k[0]), page, old, new, '%s: %s -> %s' % (pid, old[:60], new[:60]),
                     '%s: %s' % (source, why)])
     print(len(rows), 'rows;', len(bad), 'do not apply')
     for b in bad:
         print('  ', b)
     if bad or not write:
         return 0
-    for pid in where:
-        io.open(os.path.join(tdir, pid + '.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(text[pid]) + '\n')
-    out = []
-    for n, ids in docs:
-        out.append('[DOC %d]' % n)
-        for pid in ids:
-            out.append('[PAGE %s]' % pid)
-            out.extend(text[pid])
-    io.open(os.path.join(unit_dir, 'corpus.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
+    _put(unit_dir, docs, parts)
     path = os.path.join(unit_dir, 'transcription_decisions.csv')
     new_file = not os.path.exists(path)
     with io.open(path, 'a', encoding='utf-8-sig' if new_file else 'utf-8', newline='') as f:
@@ -256,15 +286,47 @@ def correct(unit_dir, slug, docs, rows, write, source='read on the scan'):
 
 
 def write_pages(unit_dir, docs, pages):
-    """docs: [(document number, [page ids])]; pages: {page id: [lines]}. Writes page files and corpus.txt."""
-    tdir = os.path.join(unit_dir, 'transcriptions')
-    os.makedirs(tdir, exist_ok=True)
-    out = []
+    """docs: [(document number, [page ids])]; pages: {page id: [lines]} or {(document number, page id): [lines]}."""
+    parts = {}
     for n, ids in docs:
-        out.append('[DOC %d]' % n)
         for pid in ids:
-            io.open(os.path.join(tdir, pid + '.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(pages[pid]) + '\n')
-            out.append('[PAGE %s]' % pid)
-            out.extend(pages[pid])
-    io.open(os.path.join(unit_dir, 'corpus.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
-    print('wrote', sum(len(i) for _, i in docs), 'page files and corpus.txt')
+            parts[(n, pid)] = pages[(n, pid)] if (n, pid) in pages else pages[pid]
+    print('wrote', _put(unit_dir, docs, parts), 'page files and corpus.txt')
+
+
+def write_summaries(root, unit_dir, slug, ref, S, how):
+    """S: {document number: (German, English)}. Writes every place a summary is kept.
+
+    units/<slug>/summaries_de.yml, the two cache folders, and this holding's
+    lines in site/_data/summaries.yml and summaries_de.yml. In the site
+    files only this holding's own lines are replaced or put in; every other
+    line stays as it is (they carry corrections made by hand).
+    """
+    import json
+    import re
+    import yaml
+    with open(os.path.join(unit_dir, 'summaries_de.yml'), 'w', encoding='utf-8', newline='\n') as f:
+        f.write('# German summaries of %s, %s\n# Claim-checked in session (intake/claim_check.yml).\n'
+                '# A finding aid, not part of the edition text.\n' % (ref, how))
+        for n, (de, _en) in sorted(S.items()):
+            f.write('%s-%03d: %s\n' % (slug, n, json.dumps(de, ensure_ascii=False)))
+    for sub, i in (('summaries-raw-de', 0), ('summaries-raw', 1)):
+        d = os.path.join(root, 'cache', sub)
+        os.makedirs(d, exist_ok=True)
+        for n, pair in S.items():
+            pad = '%s-%03d' % (slug, n)
+            json.dump({'letter': str(n), 'pad': pad, 'summary': pair[i],
+                       'model': 'in-session; claim-checked in session',
+                       'usage': {'input': 0, 'output': 0, 'cache_read': 0}},
+                      open(os.path.join(d, pad + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    for name, i in (('summaries_de.yml', 0), ('summaries.yml', 1)):
+        path = os.path.join(root, 'site', '_data', name)
+        keep = [l for l in io.open(path, encoding='utf-8', newline='').read().split('\n') if not l.startswith(slug + '-')]
+        new = [yaml.safe_dump({'%s-%03d' % (slug, n): pair[i]}, allow_unicode=True, width=10 ** 9).rstrip('\n')
+               for n, pair in sorted(S.items())]
+        assert all('\n' not in l for l in new)
+        at = next((k for k, l in enumerate(keep)
+                   if re.match(r'^[a-z0-9]+-\d+[a-z]?: ', l) and l.split('-', 1)[0] > slug), len(keep))
+        keep[at:at] = new
+        io.open(path, 'w', encoding='utf-8', newline='').write('\n'.join(keep))
+    print(len(S), 'summary/ies written, German and English, and put into the site data')

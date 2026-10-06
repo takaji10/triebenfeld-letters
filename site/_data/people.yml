@@ -447,14 +447,14 @@
   name: "Chełmski"
   heading: "Chełmski"
   heading_de: "Chełmski"
-  count: 64
+  count: 182
   docs: 6
-  life: "documented 1763-1815"
-  life_de: "belegt 1763-1815"
-  bio: "The family that owned Łukomia, the estate next to Trąbczyn. The brothers Heliodor and Stanisław Chełmski were the other side in the boundary dispute that a commission decided in 1775, against them. A Chełmski was later party to a lawsuit over the South Prussian estates, which he lost in two instances in 1798 and 1799."
-  bio_de: "Die Familie, der Łukomia gehörte, das Nachbargut von Trąbczyn. Die Brüder Heliodor und Stanisław Chełmski waren die Gegenseite im Grenzstreit, den eine Kommission 1775 gegen sie entschied. Ein Chełmski war später Partei in einem Prozess um die südpreußischen Güter, den er 1798 und 1799 in zwei Instanzen verlor."
-  span: "1763–1815"
-  letters: [{id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 57}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 2}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
+  life: "documented 1644-1815"
+  life_de: "belegt 1644-1815"
+  bio: "The family that owned Łukomia, the estate next to Trąbczyn, and was at law with its owners over the boundary for two centuries. Jerzy Chełmski obtained judgments by default against the Trąmpczyńskis in 1644. Stanisław Ścibor Chełmski stopped Katarzyna Prusimska's potash at Pyzdry in 1761. The brothers Heliodor and Stanisław Chełmski were the other side in the boundary dispute that a commission decided in 1775, against them. A Chełmski was later party to a lawsuit over the South Prussian estates, which he lost in two instances in 1798 and 1799."
+  bio_de: "Die Familie, der Łukomia gehörte, das Nachbargut von Trąbczyn, und die zwei Jahrhunderte lang mit dessen Besitzern um die Grenze stritt. Jerzy Chełmski erwirkte 1644 Versäumnisurteile gegen die Trąmpczyński. Stanisław Ścibor Chełmski hielt 1761 in Pyzdry die Pottasche der Katarzyna Prusimska an. Die Brüder Heliodor und Stanisław Chełmski waren die Gegenseite im Grenzstreit, den eine Kommission 1775 gegen sie entschied. Ein Chełmski war später Partei in einem Prozess um die südpreußischen Güter, den er 1798 und 1799 in zwei Instanzen verlor."
+  span: "1644–1815"
+  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 1}, {id: "1", uid: "app536045-1", url: "/documents/app536045/1/", n: 2}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 176}, {id: "75", uid: "oe1bu9454-75", url: "/documents/oe1bu9454/75/", n: 1}, {id: "102", uid: "oe1bu9454-102", url: "/documents/oe1bu9454/102/", n: 1}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", n: 1}]
 - slug: "chmara"
   name: "Johann Chmara"
   heading: "Chmara, Jan"
@@ -2876,6 +2876,18 @@
   bio_de: "Carl Titz, Forstinspektor Hohenlohe-Ingelfingens auf den Gütern Trąbczyn und Zagórów. Er pachtete das Vorwerk Drzewce und nahm 1805 fünf Hufen des Vorwerks Trąbczyn in Erbzins. Die Briefe schreiben ihn auch Tietz."
   span: "1798–1808"
   letters: [{id: "77", uid: "oe1bu9454-77", url: "/documents/oe1bu9454/77/", n: 1}, {id: "27", uid: "oe1bu14526-27", url: "/documents/oe1bu14526/27/", n: 1}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/", n: 1}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/", n: 1}, {id: "15", uid: "oe1bu14526-15", url: "/documents/oe1bu14526/15/", n: 1}, {id: "14", uid: "oe1bu14526-14", url: "/documents/oe1bu14526/14/", n: 5}, {id: "13", uid: "oe1bu14526-13", url: "/documents/oe1bu14526/13/", n: 1}, {id: "10", uid: "oe1bu14526-10", url: "/documents/oe1bu14526/10/", n: 1}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/", n: 1}, {id: "191", uid: "oe1bu9454-191", url: "/documents/oe1bu9454/191/", n: 2}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 1}, {id: "34", uid: "oe1bu9454-34", url: "/documents/oe1bu9454/34/", n: 1}]
+- slug: "trampczynski"
+  name: "Trąmpczyński (Otto-Trąmpczyński)"
+  heading: "Trąmpczyński (family)"
+  heading_de: "Trąmpczyński (Familie)"
+  count: 3
+  docs: 1
+  life: "documented 1644"
+  life_de: "belegt 1644"
+  bio: "The family that held Trąbczyn in the sixteenth and seventeenth centuries and took its name from it, with the by-name Otto. In 1644 four brothers of the family and their widowed mother were condemned by default at the suit of their neighbour Jerzy Chełmski of Łukom."
+  bio_de: "Die Familie, der Trąbczyn im 16. und 17. Jahrhundert gehörte und die sich nach dem Gut nannte, mit dem Beinamen Otto. 1644 wurden vier Brüder der Familie und ihre verwitwete Mutter auf Klage ihres Nachbarn Jerzy Chełmski von Łukom in Abwesenheit verurteilt."
+  span: "1644"
+  letters: [{id: "1", uid: "app536036-1", url: "/documents/app536036/1/", n: 3}]
 - slug: "triebenfeld"
   name: "v. Triebenfeld"
   heading: "Triebenfeld, Peter Friedrich August von"

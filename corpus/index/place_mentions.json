@@ -2,10 +2,11 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 605,
+  "count": 606,
   "documents": [
    "agad11740273-2",
    "app53170koningr145-1",
+   "app536036-1",
    "app536045-1",
    "app5371057-1",
    "app539680801-1",
@@ -170,6 +171,15 @@
    "oe1u199-1"
   ],
   "mentions": [
+   {
+    "uid": "app536036-1",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
    {
     "uid": "app536045-1",
     "surface": "Trąpczyn",
@@ -34360,13 +34370,42 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 43,
+  "count": 46,
   "documents": [
    "app53170koningr145-1",
+   "app536036-1",
+   "app536036-2",
    "app536045-1",
    "oe1bu14525-23"
   ],
   "mentions": [
+   {
+    "uid": "app536036-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-2",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a2",
+    "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
    {
     "uid": "app536045-1",
     "surface": "Łukom",

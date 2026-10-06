@@ -1,0 +1,30 @@
+# The claim check of the German summaries of APP 53/6/0/-/36, made in session
+# on 2026-10-06 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The documents were read in the
+# Latin of corpus.txt as corrected against the scan.
+#
+# Result: 13 statements, all supported. Two rest on text that is not a page
+# of the edition: the year 1644 and the court come from the heading of the
+# sitting on leaf 612, which the editor transcribed and which is not among
+# the scans (intake/build_pages.py; quoted in about.md).
+# Names in the edition's forms count as supported (Jerzy for Georgius,
+# Wojciech for Albertus, Trąbczyn for Trampczyno).
+
+app536036-001:
+- {claim: "Versäumnisurteil des Landgerichts in Konin aus dessen Sitzung von 1644, überschrieben „Contumaces“", verdict: supported, where: "the heading on leaf 612: Actum in Terminis Terrestribus Particularibus Coninensibus ... Anno Domini Millesimo Sexcentesimo Quadragesimo Quarta in Conin; p. 1: Trąmpczynscy Con[tuma]ces; in paena contumaciae ... Condemnavit"}
+- {claim: "Jerzy Chełmski hat als Kläger die Brüder Marcin, Wojciech, Władysław und Andrzej Trąmpczyński, Söhne des verstorbenen Stanisław, und dessen Witwe Anna von Słończyce geladen", verdict: supported, where: "p. 1: Generosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consortem relictam ... Citatos"}
+- {claim: "die an seinem Nachlass ihr Leibgedinge und ein lebenslanges Nutzungsrecht hat", verdict: supported, where: "p. 1: bonorumque morte eiusdem derelictorum Dominam Reformatoriam et Advitalem"}
+- {claim: "sie hätten ihre Untertanen in seinen eigenen Wald beim Dorf Łukom geschickt und dort etwa achtzig Kerben nach Art von Grenzzeichen in Bäume schlagen lassen", verdict: supported, where: "p. 1: per immissionem Subditorum ipsorum ... in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt"}
+- {claim: "um einen großen Teil seines Grundes ihrem eigenen zuzuschlagen", verdict: supported, where: "p. 1: volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare"}
+- {claim: "den Schaden setzt er, den Grund selbst nicht gerechnet, auf tausend polnische Mark und ebenso viel Schadenersatz an", verdict: supported, where: "p. 1: Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem"}
+- {claim: "und verlangt, dass die Zeichen nach Hinzuziehung des Unterkämmereramts getilgt werden", verdict: supported, where: "p. 1: Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent"}
+- {claim: "die Beklagten wurden durch den Gerichtsboten Mikołaj Jaworowski von Karmin aufgerufen und erschienen im ersten Termin nicht; der Kläger verurteilte sie mit Zulassung des Gerichts in die Strafe des Ungehorsams", verdict: supported, where: "p. 1: Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit"}
+- {claim: "der Gerichtsbote Bartłomiej Koelmarek von Łukom erklärt, er habe die Ladung am vergangenen Montag im Hof der Geladenen im Dorf Trąbczyn in Gegenwart des Gesindes niedergelegt", verdict: supported, where: "p. 1: Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom ... Recognovit se Citationem ... Feria secunda proxime praeterita; p. 2: in Curia Citatorum Villae Trampczyno praesente familia domus posuisse"}
+
+app536036-002:
+- {claim: "zweites Versäumnisurteil derselben Sitzung von 1644, gegen dieselben Beklagten und mit denselben Worten wie das erste", verdict: supported, where: "Similis Contra Eosdem Ad Verba; it follows the first on leaf 642 under the same sitting"}
+- {claim: "sie hätten in den Wäldern, die zum Dorf und Gut Łukom gehören, vor kurzem etwa hundert zum Bauen taugliche Bäume, vor allem Kiefern, und etwa dreihundert Fuhren Brennholz schlagen lassen und nach Belieben verwendet", verdict: supported, where: "in desolationem borrarum et sylvarum ad villam et hereditatem Łukom pertinentium ... recenter arbores varii generis pro aedificiis valentes praecipue pinaticas Circiter Centum pro foco vero Trecentos Currus Citra vel Ultra exciderunt et quo voluerunt Conuerterunt"}
+- {claim: "den Schaden setzt er, den Grund selbst nicht gerechnet, auf dreihundert polnische Mark an", verdict: supported, where: "Quod sibi Contra Ipsos pensat fundo intacto ad Trecentas Marcas Polonicales"}
+- {claim: "für das Übrige verweist der Eintrag auf den vorangehenden", verdict: supported, where: "Reliqua Ex priori Usque ad Finem"}

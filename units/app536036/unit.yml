@@ -1,0 +1,103 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app536036
+ref: 53/6/0/-/36
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Two entries of the land court at Konin, of its sitting of 1644: judgments
+  by default which Jerzy Chełmski obtained against the four brothers
+  Trąmpczyński of Trąbczyn and their widowed mother, the first for eighty
+  notches cut into trees in his wood at Łukom in the manner of boundary
+  marks, the second for timber felled there.
+title_de: >-
+  Zwei Einträge des Landgerichts in Konin aus dessen Sitzung von 1644:
+  Versäumnisurteile, die Jerzy Chełmski gegen die vier Brüder Trąmpczyński
+  von Trąbczyn und ihre verwitwete Mutter erwirkte, das erste wegen achtzig
+  Kerben, die nach Art von Grenzzeichen in Bäume seines Waldes bei Łukom
+  geschlagen worden waren, das zweite wegen dort gefällten Holzes.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Decreta [inducta] 1641-1644
+# The sitting opened on the Monday after the octave of Corpus Christi 1644
+# (6 June).
+date_span: 1644
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The editor,
+# 2026-10-06: the court-book folders from Poznań are the Prusimski era.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# One scan from the archive, 53_6_0_-_36_91328209.jpg: an opening, leaf 641
+# verso and leaf 642 recto. intake/build_pages.py --crop cuts it at the fold
+# into 0642_a1 (left) and 0642_a2 (right), whole pages. The editor approves
+# the fold on review/app536036/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Decreta [inducta] 1641-1644 (53.6.0.-.36)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_6_0_36
+
+# One file per page, named by page id (0642_a1.txt). Made from the editor's
+# Markdown transcription by intake/build_pages.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Two entries on leaves 641 verso and 642 of a book of decrees of the land
+  court at Konin for 1641 to 1644, in Latin, of the sitting that opened at
+  Konin on the Monday after the octave of Corpus Christi 1644. Both are
+  judgments by default (the first is headed "Contumaces"). Jerzy Chełmski,
+  plaintiff, had cited Marcin, Wojciech, Władysław and Andrzej, brothers,
+  of the Otto-Trąmpczyński family, sons of the late Stanisław, and Anna of
+  Słończyce, Stanisław's widow, who held her dower and a life interest in
+  what he left. The first charge: they sent their subjects into Chełmski's
+  own woodland of the village of Łukom and had about eighty notches cut
+  into trees in the manner of boundary marks, meaning to add a great part
+  of his ground to theirs; he reckons the harm at a thousand Polish marks
+  and as much again in damages, and asks that the marks be annulled once
+  the sub-chamberlain's court has been brought out. Called by the court's
+  messenger, they did not appear at the first term, and he condemned them
+  in the penalty of contumacy with the court's leave. The messenger
+  Bartłomiej Koelmarek of Łukom declares that he laid the citation at their
+  manor in Trąbczyn before the household on the Monday before. The second
+  entry is the like judgment for about a hundred building trees, chiefly
+  pine, and three hundred cartloads of firewood felled in the woods of
+  Łukom, reckoned at three hundred Polish marks.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Entries of a Polish land court of 1644, in the abbreviated Latin of the
+  court books; square brackets in the Latin are the editor's expansions. The
+  English is the editor's own translation, revised where the Latin was
+  corrected. "Contumaces" heads a judgment by default: the plaintiff
+  "condemns" defendants who were called and did not appear, and the court
+  admits it. "Ministerialis Regni Generalis" is the court's messenger
+  (woźny), who serves citations and calls the parties; "Succamerarius" the
+  sub-chamberlain, whose court decided boundaries; "domina reformatoria et
+  advitalis" a widow holding her dower and a life interest; "borra" pine
+  woodland; "fundo intacto" a reckoning of harm that leaves the land itself
+  aside. Trampczyno is Trąbczyn.

@@ -1,0 +1,183 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app536036",
+ "uid": "app536036-1",
+ "pad": "app536036-001",
+ "permalink": "/documents/app536036/1/",
+ "doc_type": "decree",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1644",
+ "date_precision": "year",
+ "date_source": "sitting",
+ "date_display": "1644",
+ "date_inferred_from": "The sitting opened at Konin on the Monday after the octave of Corpus Christi 1644 (6 June). Its heading is on leaf 612, which is not among the scans; the entry itself has no date.",
+ "year": 1644,
+ "month": "",
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 6,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 2,
+ "text": "Trąmpczynscy Con[tuma]ces\nGenerosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita\nin Curia Citatorum Villae Trampczyno praesente familia domus posuisse.",
+ "text_reading": "Trąmpczynscy Con[tuma]ces\n\nGenerosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita\n\nin Curia Citatorum Villae Trampczyno praesente familia domus posuisse.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0642_a1",
+   "line_start": 3,
+   "line_end": 4,
+   "n_lines": 2,
+   "diplomatic": "Trąmpczynscy Con[tuma]ces\nGenerosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita",
+   "transcription": "Trąmpczynscy Con[tuma]ces\nGenerosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita",
+   "reading": "Trąmpczynscy Con[tuma]ces\n\nGenerosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita",
+   "paragraphs": [
+    "Trąmpczynscy Con[tuma]ces",
+    "Generosus Georgius Chełmsky Actor Generosos Martinum Albertum Vladislaum et Andream fratres germanos Ottow Trąmpczyńskich olim Stanislai filiis nec non Annam de Słończyce eiusdem olim Stanislai Trąmpczyński Consorte[m] relict[am] bonorumq[ue] morte eiusdem derelictorum Dominam Reform[atoriam] et Advit[alem] de bonis ipsorum generaliter omnibus in Judicium praesens Terrestre Coninense Minorennes si qui sunt cum Tutoribus ipsorum a[ssignatis?] Citatos pro eo quia Ipsi Non Contenti prioribus iniurijs damnis gravaminibus per immissionem Subditorum ipsorum eidem Actori in borra eiusdem Actoris propria Villae Łukom in arboribus incisiones ad instar signorum granicialium Octuaginta citra vel Ultra fecerunt et exciderunt procurarunt qu[i] de facto exciderunt volentes eiusmodi facto magnam partem fundi eiusdem Actoris proprii adiungere et fundo suo appropriare in grave damnum Actoris praemissa faciendo Quod sibi Contra ipsos fundo intacto pensat ad Mille Marcas Polonicales damnique totidem vel prout Judicium decernet Ac nihilominus educto officio Succamerali eadem signa luitis paenis annihilent. Citatione de praemissis latiori existente Per Ministerialem Regni Generalem Honestum Nicolaum Jaworowski de Karmin Juridice clamatos et non Comparentes in Termino primo in paena contumaciae Admittente Judicio eodem Judicialiter Condemnavit. Hicque personaliter stans Ministerialis Regni Generalis Providus Bartholomaeus Koelmarek de Łukom tanq[uam] palam Recognovit se Citationem ratione praemissorum editam Feria secunda proxime praeterita"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0642_a2",
+   "line_start": 6,
+   "line_end": 6,
+   "n_lines": 1,
+   "diplomatic": "in Curia Citatorum Villae Trampczyno praesente familia domus posuisse.",
+   "transcription": "in Curia Citatorum Villae Trampczyno praesente familia domus posuisse.",
+   "reading": "in Curia Citatorum Villae Trampczyno praesente familia domus posuisse.",
+   "paragraphs": [
+    "in Curia Citatorum Villae Trampczyno praesente familia domus posuisse."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
+   "doc_line_start": 3,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "trampczynski",
+   "display": "Trąmpczyński (Otto-Trąmpczyński)",
+   "kind": "person",
+   "surface": "Trąmpczynscy",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmsky",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trampczynski",
+   "display": "Trąmpczyński (Otto-Trąmpczyński)",
+   "kind": "person",
+   "surface": "Trąmpczyńskich",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trampczynski",
+   "display": "Trąmpczyński (Otto-Trąmpczyński)",
+   "kind": "person",
+   "surface": "Trąmpczyński",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The Trąmpczyńskis, in default\n\nThe Honourable Jerzy Chełmski, plaintiff: the Honourables Marcin, Wojciech, Władysław and Andrzej, full blood brothers of the Otto-Trąmpczyński family, sons of the late Stanisław, and likewise Anna of Słończyce, widow of the same late Stanisław Trąmpczyński, and lady dower-holder and life-tenant of the goods left by his death, being cited before the present Konin land court in respect of all their goods generally — the minors, if any there be, together with their guardians [uncertain: assigned to them] — for the reason that they themselves, not content with the prior injuries, damages and grievances, through the sending in of their own subjects against that same plaintiff, into the woodland of that same plaintiff's own village of Łukom, made notches on trees after the manner of boundary marks, eighty on this side or beyond, and cut them, and procured others who did in fact cut them — intending by such an act to annex a great part of the ground of that same plaintiff, his own, and to appropriate it to their own ground — doing the aforementioned things to the serious detriment of the plaintiff, which he reckons for himself against them, the ground itself left untouched, at one thousand Polish marks, and damages of the same amount, or as the court shall decree; and that none the less, the office of the Sub-chamberlain having been brought out, they shall annul the same marks, the penalties being paid —\n\n[Translator's note: Lat. ad instar signorum granicialium — \"after the manner of boundary marks\" — describing the tree notches as functionally equivalent to formal boundary marks, which is the legal basis of the complaint. The defendants are alleged to have created de facto boundary evidence on Chełmski's own land.]\n\nthe citation concerning the aforementioned matters being fuller — them, lawfully proclaimed through the General Royal Messenger, the Honest Mikołaj Jaworowski of Karmin, and not appearing at the first term, he has judicially condemned in the penalty of contumacy, the same court admitting it.\n\nAnd here standing in person, the General Royal Messenger, the Worthy Bartłomiej Koelmarek of Łukom, openly acknowledged that he had laid the citation issued on account of the aforementioned matters, on the Monday last past,"
+  },
+  {
+   "page": 2,
+   "en": "at the manor of the cited, in the village of Trąbczyn, in the presence of the household of the house."
+  }
+ ],
+ "text_english": "The Trąmpczyńskis, in default\n\nThe Honourable Jerzy Chełmski, plaintiff: the Honourables Marcin, Wojciech, Władysław and Andrzej, full blood brothers of the Otto-Trąmpczyński family, sons of the late Stanisław, and likewise Anna of Słończyce, widow of the same late Stanisław Trąmpczyński, and lady dower-holder and life-tenant of the goods left by his death, being cited before the present Konin land court in respect of all their goods generally — the minors, if any there be, together with their guardians [uncertain: assigned to them] — for the reason that they themselves, not content with the prior injuries, damages and grievances, through the sending in of their own subjects against that same plaintiff, into the woodland of that same plaintiff's own village of Łukom, made notches on trees after the manner of boundary marks, eighty on this side or beyond, and cut them, and procured others who did in fact cut them — intending by such an act to annex a great part of the ground of that same plaintiff, his own, and to appropriate it to their own ground — doing the aforementioned things to the serious detriment of the plaintiff, which he reckons for himself against them, the ground itself left untouched, at one thousand Polish marks, and damages of the same amount, or as the court shall decree; and that none the less, the office of the Sub-chamberlain having been brought out, they shall annul the same marks, the penalties being paid —\n\n[Translator's note: Lat. ad instar signorum granicialium — \"after the manner of boundary marks\" — describing the tree notches as functionally equivalent to formal boundary marks, which is the legal basis of the complaint. The defendants are alleged to have created de facto boundary evidence on Chełmski's own land.]\n\nthe citation concerning the aforementioned matters being fuller — them, lawfully proclaimed through the General Royal Messenger, the Honest Mikołaj Jaworowski of Karmin, and not appearing at the first term, he has judicially condemned in the penalty of contumacy, the same court admitting it.\n\nAnd here standing in person, the General Royal Messenger, the Worthy Bartłomiej Koelmarek of Łukom, openly acknowledged that he had laid the citation issued on account of the aforementioned matters, on the Monday last past,\n\nat the manor of the cited, in the village of Trąbczyn, in the presence of the household of the house.",
+ "summary_en": "A judgment by default of the land court at Konin, of its sitting of 1644, headed \"Contumaces\". Jerzy Chełmski, as plaintiff, has cited the brothers Marcin, Wojciech, Władysław and Andrzej Trąmpczyński, sons of the late Stanisław, and his widow Anna of Słończyce, who holds her dower and a life interest in what he left. He charges that they sent their subjects into his own woodland by the village of Łukom and had about eighty notches cut into trees there in the manner of boundary marks, so as to add a great part of his ground to their own. He reckons the harm, leaving the ground itself aside, at a thousand Polish marks and as much again in damages, and demands that the marks be annulled once the sub-chamberlain's office has been brought out. The defendants were called by the court messenger Mikołaj Jaworowski of Karmin and did not appear at the first term; the plaintiff condemned them, with the court's leave, in the penalty of contumacy. The court messenger Bartłomiej Koelmarek of Łukom declares that he laid the citation on the Monday before at the manor of the cited in the village of Trąbczyn, in the presence of the household.",
+ "summary_de": "Versäumnisurteil des Landgerichts in Konin aus dessen Sitzung von 1644, überschrieben „Contumaces“. Jerzy Chełmski hat als Kläger die Brüder Marcin, Wojciech, Władysław und Andrzej Trąmpczyński, Söhne des verstorbenen Stanisław, und dessen Witwe Anna von Słończyce geladen, die an seinem Nachlass ihr Leibgedinge und ein lebenslanges Nutzungsrecht hat. Er wirft ihnen vor, sie hätten ihre Untertanen in seinen eigenen Wald beim Dorf Łukom geschickt und dort etwa achtzig Kerben nach Art von Grenzzeichen in Bäume schlagen lassen, um einen großen Teil seines Grundes ihrem eigenen zuzuschlagen. Den Schaden setzt er, den Grund selbst nicht gerechnet, auf tausend polnische Mark und ebenso viel Schadenersatz an und verlangt, dass die Zeichen nach Hinzuziehung des Unterkämmereramts getilgt werden. Die Beklagten wurden durch den Gerichtsboten Mikołaj Jaworowski von Karmin aufgerufen und erschienen im ersten Termin nicht; der Kläger verurteilte sie mit Zulassung des Gerichts in die Strafe des Ungehorsams. Der Gerichtsbote Bartłomiej Koelmarek von Łukom erklärt, er habe die Ladung am vergangenen Montag im Hof der Geladenen im Dorf Trąbczyn in Gegenwart des Gesindes niedergelegt.",
+ "reading": {}
+}

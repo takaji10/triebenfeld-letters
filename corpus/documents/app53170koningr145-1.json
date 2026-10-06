@@ -2816,6 +2816,28 @@
  ],
  "mentions": [
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 2,
+   "page_id": "0655_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+   "line": 9,
+   "doc_line": 6
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmscy",
+   "page": 2,
+   "page_id": "0655_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+   "line": 10,
+   "doc_line": 7
+  },
+  {
    "entity": "dambski-ludwik",
    "display": "Ludwik Dąmbski, voivode of Brześć Kujawski",
    "kind": "person",
@@ -2836,6 +2858,28 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0656_a1-L1_03.jpg",
    "line": 13,
    "doc_line": 9
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 4,
+   "page_id": "0656_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
+   "line": 16,
+   "doc_line": 11
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 4,
+   "page_id": "0656_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
+   "line": 16,
+   "doc_line": 11
   },
   {
    "entity": "dambski-ludwik",
@@ -2860,6 +2904,28 @@
    "doc_line": 13
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 5,
+   "page_id": "0657_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0657_a1-L1_05.jpg",
+   "line": 20,
+   "doc_line": 14
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 7,
+   "page_id": "0658_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0658_a1-L1_07.jpg",
+   "line": 26,
+   "doc_line": 18
+  },
+  {
    "entity": "dambski-ludwik",
    "display": "Ludwik Dąmbski, voivode of Brześć Kujawski",
    "kind": "person",
@@ -2874,12 +2940,67 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 8,
+   "page_id": "0658_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
+   "line": 29,
+   "doc_line": 20
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 8,
+   "page_id": "0658_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
+   "line": 29,
+   "doc_line": 20
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 9,
+   "page_id": "0659_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
+   "line": 32,
+   "doc_line": 22
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 9,
    "page_id": "0659_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
    "line": 32,
    "doc_line": 22
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 10,
+   "page_id": "0659_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0659_a2-L1_10.jpg",
+   "line": 35,
+   "doc_line": 24
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 11,
+   "page_id": "0660_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0660_a1-L1_11.jpg",
+   "line": 38,
+   "doc_line": 26
   },
   {
    "entity": "prusimski",
@@ -2926,6 +3047,28 @@
    "doc_line": 28
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 13,
+   "page_id": "0661_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
+   "line": 44,
+   "doc_line": 30
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 13,
+   "page_id": "0661_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
+   "line": 44,
+   "doc_line": 30
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -2957,6 +3100,39 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
    "line": 45,
    "doc_line": 31
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 14,
+   "page_id": "0661_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
+   "line": 47,
+   "doc_line": 32
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 15,
+   "page_id": "0662_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+   "line": 50,
+   "doc_line": 34
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 15,
+   "page_id": "0662_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+   "line": 50,
+   "doc_line": 34
   },
   {
    "entity": "prusimski",
@@ -3025,6 +3201,28 @@
    "doc_line": 36
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 17,
+   "page_id": "0663_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+   "line": 56,
+   "doc_line": 38
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 17,
+   "page_id": "0663_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+   "line": 56,
+   "doc_line": 38
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3034,6 +3232,61 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
    "line": 56,
    "doc_line": 38
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 17,
+   "page_id": "0663_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+   "line": 57,
+   "doc_line": 39
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 18,
+   "page_id": "0663_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
+   "line": 59,
+   "doc_line": 40
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 18,
+   "page_id": "0663_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
+   "line": 59,
+   "doc_line": 40
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
   },
   {
    "entity": "prusimski",
@@ -3091,10 +3344,10 @@
    "doc_line": 46
   },
   {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "entity": "chemski",
+   "display": "Chełmski",
    "kind": "person",
-   "surface": "Prusimski",
+   "surface": "Chełmskiego",
    "page": 21,
    "page_id": "0665_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
@@ -3122,6 +3375,50 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
    "line": 68,
    "doc_line": 46
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 21,
+   "page_id": "0665_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
+   "line": 68,
+   "doc_line": 46
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 22,
+   "page_id": "0665_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+   "line": 71,
+   "doc_line": 48
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 22,
+   "page_id": "0665_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+   "line": 71,
+   "doc_line": 48
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 22,
+   "page_id": "0665_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+   "line": 71,
+   "doc_line": 48
   },
   {
    "entity": "prusimski",
@@ -3138,12 +3435,45 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 22,
+   "page_id": "0665_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+   "line": 72,
+   "doc_line": 49
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 23,
    "page_id": "0666_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
    "line": 74,
    "doc_line": 50
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 23,
+   "page_id": "0666_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
+   "line": 74,
+   "doc_line": 50
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 24,
+   "page_id": "0666_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0666_a2-L1_24.jpg",
+   "line": 77,
+   "doc_line": 52
   },
   {
    "entity": "prusimski",
@@ -3179,6 +3509,17 @@
    "doc_line": 55
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 26,
+   "page_id": "0667_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+   "line": 83,
+   "doc_line": 56
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3188,6 +3529,50 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
    "line": 83,
    "doc_line": 56
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 26,
+   "page_id": "0667_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+   "line": 84,
+   "doc_line": 57
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 26,
+   "page_id": "0667_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+   "line": 84,
+   "doc_line": 57
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 27,
+   "page_id": "0668_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
+   "line": 86,
+   "doc_line": 58
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 27,
+   "page_id": "0668_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
+   "line": 86,
+   "doc_line": 58
   },
   {
    "entity": "chemski",
@@ -3245,6 +3630,50 @@
    "doc_line": 64
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 31,
+   "page_id": "0670_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+   "line": 99,
+   "doc_line": 67
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 31,
+   "page_id": "0670_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+   "line": 99,
+   "doc_line": 67
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 31,
+   "page_id": "0670_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+   "line": 99,
+   "doc_line": 67
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmscy",
+   "page": 31,
+   "page_id": "0670_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+   "line": 100,
+   "doc_line": 68
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3254,6 +3683,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
    "line": 100,
    "doc_line": 68
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 32,
+   "page_id": "0670_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a2-L1_32.jpg",
+   "line": 102,
+   "doc_line": 69
   },
   {
    "entity": "prusimski",
@@ -3278,6 +3718,28 @@
    "doc_line": 71
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 35,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+   "line": 111,
+   "doc_line": 75
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 35,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+   "line": 111,
+   "doc_line": 75
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3300,6 +3762,17 @@
    "doc_line": 76
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 36,
+   "page_id": "0672_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0672_a2-L1_36.jpg",
+   "line": 114,
+   "doc_line": 77
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3320,6 +3793,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0672_a2-L1_36.jpg",
    "line": 115,
    "doc_line": 78
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 37,
+   "page_id": "0673_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0673_a1-L1_37.jpg",
+   "line": 117,
+   "doc_line": 79
   },
   {
    "entity": "prusimski",
@@ -3347,6 +3831,17 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 38,
+   "page_id": "0673_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
+   "line": 120,
+   "doc_line": 81
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 38,
    "page_id": "0673_a2",
@@ -3364,6 +3859,39 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
    "line": 120,
    "doc_line": 81
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 41,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+   "line": 129,
+   "doc_line": 87
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 41,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+   "line": 129,
+   "doc_line": 87
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 41,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+   "line": 129,
+   "doc_line": 87
   },
   {
    "entity": "prusimski",
@@ -3386,6 +3914,28 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
    "line": 130,
    "doc_line": 88
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 42,
+   "page_id": "0675_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
+   "line": 132,
+   "doc_line": 89
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 42,
+   "page_id": "0675_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
+   "line": 132,
+   "doc_line": 89
   },
   {
    "entity": "prusimski",
@@ -3435,6 +3985,17 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 45,
+   "page_id": "0677_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
+   "line": 142,
+   "doc_line": 96
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 45,
    "page_id": "0677_a1",
@@ -3452,6 +4013,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
    "line": 142,
    "doc_line": 96
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 47,
+   "page_id": "0678_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a1-L1_47.jpg",
+   "line": 147,
+   "doc_line": 99
   },
   {
    "entity": "prusimski",
@@ -3476,6 +4048,61 @@
    "doc_line": 100
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 48,
+   "page_id": "0678_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+   "line": 150,
+   "doc_line": 101
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 48,
+   "page_id": "0678_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+   "line": 150,
+   "doc_line": 101
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 48,
+   "page_id": "0678_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+   "line": 151,
+   "doc_line": 102
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 48,
+   "page_id": "0678_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+   "line": 151,
+   "doc_line": 102
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 48,
+   "page_id": "0678_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+   "line": 151,
+   "doc_line": 102
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3485,6 +4112,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0679_a1-L1_49.jpg",
    "line": 153,
    "doc_line": 103
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 49,
+   "page_id": "0679_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0679_a1-L1_49.jpg",
+   "line": 154,
+   "doc_line": 104
   },
   {
    "entity": "prusimski",
@@ -3531,6 +4169,28 @@
    "doc_line": 107
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 51,
+   "page_id": "0680_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
+   "line": 159,
+   "doc_line": 107
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 51,
+   "page_id": "0680_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
+   "line": 159,
+   "doc_line": 107
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3556,7 +4216,29 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 52,
+   "page_id": "0680_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+   "line": 162,
+   "doc_line": 109
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
+   "page": 52,
+   "page_id": "0680_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+   "line": 162,
+   "doc_line": 109
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
    "page": 52,
    "page_id": "0680_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
@@ -3597,6 +4279,39 @@
    "doc_line": 111
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 53,
+   "page_id": "0681_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+   "line": 165,
+   "doc_line": 111
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 53,
+   "page_id": "0681_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+   "line": 165,
+   "doc_line": 111
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 53,
+   "page_id": "0681_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+   "line": 165,
+   "doc_line": 111
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -3606,6 +4321,61 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
    "line": 166,
    "doc_line": 112
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 54,
+   "page_id": "0681_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0681_a2-L1_54.jpg",
+   "line": 169,
+   "doc_line": 114
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 55,
+   "page_id": "0682_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+   "line": 171,
+   "doc_line": 115
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 55,
+   "page_id": "0682_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+   "line": 171,
+   "doc_line": 115
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 55,
+   "page_id": "0682_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+   "line": 171,
+   "doc_line": 115
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 56,
+   "page_id": "0682_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
+   "line": 174,
+   "doc_line": 117
   },
   {
    "entity": "chemski",
@@ -3644,12 +4414,78 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 57,
+   "page_id": "0683_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+   "line": 177,
+   "doc_line": 119
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 57,
    "page_id": "0683_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
    "line": 177,
    "doc_line": 119
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 57,
+   "page_id": "0683_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+   "line": 178,
+   "doc_line": 120
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 57,
+   "page_id": "0683_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+   "line": 178,
+   "doc_line": 120
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 57,
+   "page_id": "0683_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+   "line": 178,
+   "doc_line": 120
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 57,
+   "page_id": "0683_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+   "line": 178,
+   "doc_line": 120
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 58,
+   "page_id": "0683_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0683_a2-L1_58.jpg",
+   "line": 180,
+   "doc_line": 121
   },
   {
    "entity": "prusimski",
@@ -3696,10 +4532,10 @@
    "doc_line": 125
   },
   {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "entity": "chemski",
+   "display": "Chełmski",
    "kind": "person",
-   "surface": "Prusimski",
+   "surface": "Chełmskiego",
    "page": 60,
    "page_id": "0684_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
@@ -3727,6 +4563,28 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
    "line": 186,
    "doc_line": 125
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 60,
+   "page_id": "0684_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
+   "line": 186,
+   "doc_line": 125
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 61,
+   "page_id": "0685_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+   "line": 189,
+   "doc_line": 127
   },
   {
    "entity": "prusimski",
@@ -3749,6 +4607,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
    "line": 190,
    "doc_line": 128
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 65,
+   "page_id": "0687_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0687_a1-L1_65.jpg",
+   "line": 202,
+   "doc_line": 136
   },
   {
    "entity": "chemski",
@@ -3831,6 +4700,17 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskim",
+   "page": 69,
+   "page_id": "0689_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
+   "line": 213,
+   "doc_line": 143
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 70,
    "page_id": "0689_a2",
@@ -3853,7 +4733,29 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 71,
+   "page_id": "0690_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
+   "line": 219,
+   "doc_line": 147
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
+   "page": 71,
+   "page_id": "0690_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
+   "line": 220,
+   "doc_line": 148
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
    "page": 71,
    "page_id": "0690_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
@@ -3870,6 +4772,28 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
    "line": 220,
    "doc_line": 148
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 72,
+   "page_id": "0690_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
+   "line": 222,
+   "doc_line": 149
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 72,
+   "page_id": "0690_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
+   "line": 222,
+   "doc_line": 149
   },
   {
    "entity": "chemski",
@@ -3886,12 +4810,12 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
-   "surface": "Chełmski",
-   "page": 75,
-   "page_id": "0692_a1",
-   "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-   "line": 231,
-   "doc_line": 155
+   "surface": "Chełmskiego",
+   "page": 74,
+   "page_id": "0691_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0691_a2-L1_74.jpg",
+   "line": 228,
+   "doc_line": 153
   },
   {
    "entity": "chemski",
@@ -3909,6 +4833,72 @@
    "display": "Chełmski",
    "kind": "person",
    "surface": "Chełmski",
+   "page": 75,
+   "page_id": "0692_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+   "line": 231,
+   "doc_line": 155
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 75,
+   "page_id": "0692_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+   "line": 231,
+   "doc_line": 155
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 76,
+   "page_id": "0692_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+   "line": 234,
+   "doc_line": 157
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 76,
+   "page_id": "0692_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+   "line": 234,
+   "doc_line": 157
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 76,
+   "page_id": "0692_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+   "line": 234,
+   "doc_line": 157
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 76,
+   "page_id": "0692_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+   "line": 234,
+   "doc_line": 157
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
    "page": 76,
    "page_id": "0692_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
@@ -3930,12 +4920,67 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 78,
+   "page_id": "0693_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+   "line": 240,
+   "doc_line": 161
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 78,
+   "page_id": "0693_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+   "line": 240,
+   "doc_line": 161
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 78,
+   "page_id": "0693_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+   "line": 241,
+   "doc_line": 162
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 79,
    "page_id": "0694_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0694_a1-L1_79.jpg",
    "line": 243,
    "doc_line": 163
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 81,
+   "page_id": "0695_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
+   "line": 249,
+   "doc_line": 167
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 81,
+   "page_id": "0695_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
+   "line": 250,
+   "doc_line": 168
   },
   {
    "entity": "chemski",
@@ -3969,6 +5014,39 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0696_a1-L1_83.jpg",
    "line": 256,
    "doc_line": 172
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 84,
+   "page_id": "0696_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0696_a2-L1_84.jpg",
+   "line": 258,
+   "doc_line": 173
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 85,
+   "page_id": "0697_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
+   "line": 261,
+   "doc_line": 175
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 85,
+   "page_id": "0697_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
+   "line": 262,
+   "doc_line": 176
   },
   {
    "entity": "prusimski",
@@ -4070,6 +5148,17 @@
    "doc_line": 280
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 108,
+   "page_id": "0708_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0708_a2-L1_108.jpg",
+   "line": 392,
+   "doc_line": 283
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -4150,6 +5239,17 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 111,
+   "page_id": "0710_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+   "line": 401,
+   "doc_line": 289
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 111,
    "page_id": "0710_a1",
@@ -4172,12 +5272,34 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 112,
+   "page_id": "0710_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
+   "line": 404,
+   "doc_line": 291
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 112,
    "page_id": "0710_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
    "line": 405,
    "doc_line": 292
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 112,
+   "page_id": "0710_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
+   "line": 406,
+   "doc_line": 293
   },
   {
    "entity": "chemski",
@@ -4224,6 +5346,17 @@
    "doc_line": 298
   },
   {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 114,
+   "page_id": "0711_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
+   "line": 415,
+   "doc_line": 300
+  },
+  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -4255,6 +5388,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
    "line": 416,
    "doc_line": 301
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskich",
+   "page": 115,
+   "page_id": "0712_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0712_a1-L1_115.jpg",
+   "line": 419,
+   "doc_line": 303
   },
   {
    "entity": "prusimski",
@@ -4293,6 +5437,50 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 117,
+   "page_id": "0713_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+   "line": 425,
+   "doc_line": 307
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskich",
+   "page": 117,
+   "page_id": "0713_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+   "line": 425,
+   "doc_line": 307
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 117,
+   "page_id": "0713_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+   "line": 425,
+   "doc_line": 307
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 117,
+   "page_id": "0713_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+   "line": 425,
+   "doc_line": 307
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 117,
    "page_id": "0713_a1",
@@ -4310,6 +5498,50 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
    "line": 426,
    "doc_line": 308
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 118,
+   "page_id": "0713_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+   "line": 429,
+   "doc_line": 310
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 118,
+   "page_id": "0713_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+   "line": 429,
+   "doc_line": 310
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 118,
+   "page_id": "0713_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+   "line": 429,
+   "doc_line": 310
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 118,
+   "page_id": "0713_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+   "line": 429,
+   "doc_line": 310
   },
   {
    "entity": "prusimski",
@@ -4326,12 +5558,45 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 118,
+   "page_id": "0713_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+   "line": 430,
+   "doc_line": 311
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiemu",
+   "page": 119,
+   "page_id": "0714_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
+   "line": 434,
+   "doc_line": 314
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
    "page": 119,
    "page_id": "0714_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
    "line": 434,
    "doc_line": 314
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 120,
+   "page_id": "0714_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+   "line": 436,
+   "doc_line": 315
   },
   {
    "entity": "chemski",
@@ -4348,7 +5613,29 @@
    "entity": "chemski",
    "display": "Chełmski",
    "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 120,
+   "page_id": "0714_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+   "line": 437,
+   "doc_line": 316
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
    "surface": "Chełmski",
+   "page": 120,
+   "page_id": "0714_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+   "line": 437,
+   "doc_line": 316
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
    "page": 120,
    "page_id": "0714_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
@@ -4365,6 +5652,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
    "line": 437,
    "doc_line": 316
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskim",
+   "page": 120,
+   "page_id": "0714_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+   "line": 438,
+   "doc_line": 317
   },
   {
    "entity": "chemski",
@@ -4387,6 +5685,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
    "line": 441,
    "doc_line": 319
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmskiego",
+   "page": 121,
+   "page_id": "0715_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
+   "line": 442,
+   "doc_line": 320
   },
   {
    "entity": "dambski-ludwik",

@@ -176,17 +176,6 @@
    "doc_line": 16
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmskische",
-   "page": 1,
-   "page_id": "0213_b",
-   "scan": "Oe_1_Bu_9454_0213_b-L103_01.jpg",
-   "line": 8090,
-   "doc_line": 19
-  },
-  {
    "entity": "rapacki",
    "display": "Rapacki",
    "kind": "person",
@@ -202,17 +191,6 @@
    "display": "Broniewski",
    "kind": "person",
    "surface": "Broniew",
-   "page": 2,
-   "page_id": "0214_a1",
-   "scan": "Oe_1_Bu_9454_0214_a1-L103_02.jpg",
-   "line": 8098,
-   "doc_line": 26
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmskische",
    "page": 2,
    "page_id": "0214_a1",
    "scan": "Oe_1_Bu_9454_0214_a1-L103_02.jpg",
@@ -350,7 +328,7 @@
    "page": 1
   },
   {
-   "entity": "chemski",
+   "entity": "",
    "display": "Chełmski",
    "kind": "person",
    "surface_de": "Chełmskische",
@@ -390,7 +368,7 @@
    "page": 2
   },
   {
-   "entity": "chemski",
+   "entity": "",
    "display": "Chełmski",
    "kind": "person",
    "surface_de": "Chełmskische",

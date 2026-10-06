@@ -1,5 +1,94 @@
 [
  {
+  "uid": "app536036-1",
+  "unit": "app536036",
+  "letter_id": "1",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1644",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 3,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0642_a1",
+    "image": "APP_53_6_0_36_0642_a1-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0642_a2",
+    "image": "APP_53_6_0_36_0642_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 2,
+  "estates": [
+   "lukomia",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 1",
+  "path": "documents/app536036-1.json",
+  "text_path": "text/app536036-1.txt",
+  "permalink": "/documents/app536036/1/"
+ },
+ {
+  "uid": "app536036-2",
+  "unit": "app536036",
+  "letter_id": "2",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1644",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 2,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0642_a2",
+    "image": "APP_53_6_0_36_0642_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 1,
+  "estates": [
+   "lukomia",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 2",
+  "path": "documents/app536036-2.json",
+  "text_path": "text/app536036-2.txt",
+  "permalink": "/documents/app536036/2/"
+ },
+ {
   "uid": "app536045-1",
   "unit": "app536045",
   "letter_id": "1",
@@ -3075,7 +3164,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 9,
+  "mentions": 8,
   "places_named": 12,
   "estates": [
    "krotoszyn",
