@@ -43,7 +43,9 @@ SLUG = 'app536036'
 REF = 'APP 53/6/0/-/36'
 RAW = r"J:\Documents\Archive\Genealogy\References\Poznań State Archives\Decreta [inducta] 1641-1644 (53.6.0.-.36)"
 
-# (file, x of the fold, left page, right page). The fold is the gutter between
+# (file, x of the fold, left page, right page). A first proposal: where the
+# editor has moved a fold on the fold page and saved it, folds.json beside
+# this script is used instead (courtbook.placed). The fold is the gutter between
 # the two leaves, looked at on the scan, 2026-10-06.
 SCANS = [('53_6_0_-_36_91328209.jpg', 1803, '0642_a1', '0642_a2')]
 SKIP = ()
@@ -71,9 +73,9 @@ def main():
     print('heading of the sitting (leaf 612, no scan): %s' % ' '.join(heading))
     print(len(parts), 'parts of pages,', sum(len(' '.join(p).split()) for p in parts.values()), 'words')
     if '--crop' in sys.argv:
-        courtbook.cut(RAW, SCANS, SKIP)
+        courtbook.cut(RAW, courtbook.placed(HERE, SCANS), SKIP)
     if '--sheet' in sys.argv:
-        courtbook.fold_sheet(ROOT, SLUG, REF, RAW, SCANS, SKIP, LEAF,
+        courtbook.fold_sheet(ROOT, SLUG, REF, RAW, courtbook.placed(HERE, SCANS), SKIP, LEAF,
                              note='Both pages carry other entries as well; they are kept whole.')
     if '--write' in sys.argv:
         courtbook.write_pages(UNIT_DIR, DOCS, parts)

@@ -67,6 +67,13 @@ FOLDS = {
     702: 2592, 703: 2573, 704: 2585, 705: 2581, 706: 2585, 707: 2567, 708: 2541, 709: 2575,
     710: 2570, 711: 2524, 712: 2562, 713: 2527, 714: 2623, 715: 2554,
 }
+# Where the editor has moved a fold on the fold page and saved it, folds.json
+# beside this script is used instead of the number above (2026-10-07).
+_MINE = os.path.join(HERE, 'folds.json')
+if os.path.isfile(_MINE):
+    import json
+    for _name, _x in json.load(io.open(_MINE, encoding='utf-8')).items():
+        FOLDS[int(os.path.splitext(_name)[0])] = int(_x)
 # Each page keeps this many pixels beyond the fold, so that a line running
 # into the gutter is whole even where the fold is a little out.
 OVERLAP = 30
