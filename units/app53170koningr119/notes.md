@@ -32,6 +32,7 @@ Status `translated`. Built and verified locally, **not published**.
 
 ## Still to do
 
-- The editor's approval of the folds (seven scans), then publishing at
-  their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 7 scan(s), 5 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The questions in `docs/PRUSIMSKI_QUESTIONS.md`.

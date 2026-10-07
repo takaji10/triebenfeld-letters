@@ -43,4 +43,6 @@ Regni Generalis" in the gap the editor left, "notus sanus existens",
 ## Still to do
 
 - The editor's answer on the untranscribed middle.
-- The editor's approval of the folds, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 3 scan(s), 3 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)

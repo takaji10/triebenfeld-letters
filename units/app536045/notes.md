@@ -5,8 +5,7 @@ decrees of the land court at Konin, the suit over potash between Katarzyna
 Prusimska and Stanisław Ścibor Chełmski. Latin. Added on 2026-10-06 from the
 editor's scan, transcription and English translation, the first holding of
 the second Prusimski-era batch (`docs/PRUSIMSKI_ERA_PLAN.md`). Status
-`translated`. Built and verified locally, **not published: the editor
-approves the fold first** (`review/app536045/folds/`).
+`translated`. Built and verified locally, **not published**; the editor reviewed the folds on 2026-10-07 (`intake/folds.json`).
 
 ## Provenance
 
@@ -93,7 +92,9 @@ comes from the editor's register (Paweł Prusimski, from the inspection of
 
 ## Still to do
 
-- The editor's approval of the fold, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 1 scan(s), 1 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The fonds' name for 53/6, and the image of leaf 638, if the editor has
   them.
 - The editor's look at the changes to their English.

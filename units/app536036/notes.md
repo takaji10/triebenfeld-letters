@@ -6,8 +6,7 @@ Trąmpczyński brothers and their mother, for notches cut in his wood at Łukom
 and for timber felled there. Latin. Added on 2026-10-06 from the editor's
 scan, transcription and English translation, in the second Prusimski-era
 batch (`docs/PRUSIMSKI_ERA_PLAN.md`). Status `translated`. Built and verified
-locally, **not published: the editor approves the fold first**
-(`review/app536036/folds/`).
+locally, **not published**; the editor reviewed the folds on 2026-10-07 (`intake/folds.json`).
 
 ## Provenance
 
@@ -89,5 +88,7 @@ supported (`intake/claim_check.yml`).
 
 ## Still to do
 
-- The editor's approval of the fold, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 1 scan(s), 1 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The editor's look at the revised English.

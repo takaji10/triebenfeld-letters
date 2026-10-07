@@ -16,7 +16,9 @@ differently are marked in `docs/TODO.md`, section 7.
 
 ## For every holding
 
-- **Folds.** Each holding that is cut has a fold page,
+- **Folds: settled 2026-10-07.** You reviewed every holding; the pages are
+  cut from your folds and angles. For the record, each holding that is cut
+  has a fold page,
   `review/<slug>/folds/index.html`: one opening at a time, shown whole. The
   left and right arrow keys page through the openings; drag the red line
   onto the fold; where the fold runs at a slant, turn the sheet with the

@@ -119,7 +119,8 @@ read, translate and summarise.
 - **The Prusimski-era court books** (2026-10-07): twenty holdings beside
   Konin Gr.145 are built and not published. Everything open about them is
   in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken;
-  the editor's review of the folds and of the page of changes comes first.
+  the editor reviewed the folds on 2026-10-07 (done); their look at the page
+  of changes comes next.
 
 - **APP 53/17/0/-/Konin Gr.145** is in (2026-10-06), the first holding of
   the Prusimski era: one document of 122 pages, the decree of the boundary
@@ -128,10 +129,8 @@ read, translate and summarise.
   a light check at the editor's word, and then, at their word, every page
   read against its scan (2026-10-06): 233 corrections, 27 dropped phrases
   restored in both languages. Still open:
-  - **the folds**: the editor found the lines crossing writing on many
-    scans (2026-10-07) and now has a page to move them on
-    (`review/app53170koningr145/folds/`); the pages are cut again from
-    the file it saves, before the holding is published;
+  - the folds: settled. The editor placed them on the fold page on
+    2026-10-07 and the pages are cut from their file;
   - **the editor's look at the dropped phrases**
     (`review/app53170koningr145/dropped/`), and at two changes to their
     English that are not from the scans: a paragraph on leaf 680 that the

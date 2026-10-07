@@ -222,7 +222,10 @@ locally, **not pushed**. Details in each holding's `notes.md`.
 
 Your review, in this order:
 
-- [ ] **The folds.** Each holding has a fold page,
+- [x] **The folds.** Done 2026-10-07: you went through all twenty holdings
+      (176 scans; you moved 110 folds and turned 122 sheets), and the pages
+      are cut again from your files (`units/<slug>/intake/folds.json`).
+      How the page works, for next time: each holding has a fold page,
       `review/<slug>/folds/index.html` (20 pages, Konin Gr.145's among
       them). It is the page you used before: one opening at a time, shown
       whole; left and right arrow keys to page through; drag the red line

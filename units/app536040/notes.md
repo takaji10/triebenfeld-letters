@@ -4,9 +4,7 @@ One document on five pages: the "Decretum Locationis" of the land court at
 Konin, 26 January 1728, Franciszek and Józef Ścibor Chełmski against
 Krzysztof Prusimski, his son Antoni and their people, sending a commissioner
 onto the disputed ground. Latin. Added on 2026-10-07 in the second
-Prusimski-era batch. Status `translated`. Built and verified locally, **not
-published: the editor approves or moves the fold first**
-(`review/app536040/folds/`).
+Prusimski-era batch. Status `translated`. Built and verified locally, **not published**; the editor reviewed the folds on 2026-10-07 (`intake/folds.json`).
 
 ## Provenance and pages
 
@@ -67,5 +65,7 @@ The field hearing was set for the Monday after Misericordia Sunday, 12 April
 
 ## Still to do
 
-- The editor's approval of the fold, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 4 scan(s), 4 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The editor's look at the changes to their English.

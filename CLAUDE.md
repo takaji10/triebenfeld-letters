@@ -254,11 +254,13 @@ so check them.
   a holding was made is in the docstring of its `intake/holding.py` (one
   script for all steps, `courtbook.holding_main`). Pyzdry Gr.75 is deferred
   by the editor.
-- **What waits on the editor, in this order:** (1) the folds of every
-  holding (`review/<slug>/folds/`); (2) the page of changes
-  (`review/changes/`: 20 holdings, 43 significant changes); (3) the
-  questions in `docs/PRUSIMSKI_QUESTIONS.md`, each with the default taken;
-  (4) their word to publish. Four holdings had only the light check and say
+- **The folds are done** (2026-10-07): the editor reviewed all twenty
+  holdings on the fold pages (176 scans, 110 folds moved, 122 sheets
+  turned); each holding's `intake/folds.json` has them and the pages are
+  cut from it. **What still waits on the editor, in this order:** (1) the
+  page of changes (`review/changes/`: 20 holdings, 43 significant
+  changes); (2) the questions in `docs/PRUSIMSKI_QUESTIONS.md`, each with
+  the default taken; (3) their word to publish. Four holdings had only the light check and say
   so on their pages (Konin Gr.117, Gr.118, Gr.153, Gr.119): the full check
   is a question for the editor. The era's account on the story page was
   only brought up to the facts; a fuller one waits at their word.
@@ -274,8 +276,8 @@ so check them.
   folds <slug> <file>` copies it to the holding's `intake/folds.json`,
   turns and cuts the scans, stages and remakes the page images. **Do not
   build another review page where one exists** (the editor, 2026-10-07).
-  The editor found Konin Gr.145's lines crossing writing on many scans and
-  is to move them.
+  A holding's `intake/folds.json` is the editor's and wins over the
+  numbers in its script; never overwrite it except with a file they saved.
 - **The page of changes** (`review/changes/index.html`, made by
   `pipeline/review/changes_page.py` from each holding's
   `intake/changes.yml`): what the check against the scans changed, graded,

@@ -31,6 +31,7 @@ batch. Status `translated`. Built and verified locally, **not published**.
 
 ## Still to do
 
-- The editor's approval of the folds (two frames), then publishing at their
-  word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The editor's word on entry no. 43.

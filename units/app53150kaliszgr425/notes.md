@@ -22,4 +22,6 @@ published**. How it was made is in the docstring of `intake/holding.py`.
 
 ## Still to do
 
-- The editor's approval of the folds, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)

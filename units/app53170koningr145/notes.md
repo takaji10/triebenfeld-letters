@@ -27,8 +27,9 @@ court on 2026-10-06; it is given, in English and German, in `about.md` and
   middle, stood 60 to 170 pixels left of the gutter on most scans and cut
   the line ends of the left pages; they were found again as the thin dark
   line of the gutter itself, and each page keeps 30 pixels beyond it.
-  **The editor approves the folds** on `review/app53170koningr145/folds/`
-  (`intake/fold_sheet.py`) before the holding is published.
+  **The folds are the editor's**: reviewed on
+  `review/app53170koningr145/folds/` on 2026-10-07 and saved in
+  `intake/folds.json` (53 of 62 moved, 39 sheets turned).
   `<scan>_a1` is the left page, `<scan>_a2` the right. Two
   halves are cut and not staged, kept in `processed/_not_staged/`: `0654_a1`
   (the end of another entry, Zakrzewski, dated at Konin 15 November 1776) and
@@ -190,8 +191,9 @@ have documents).
 
 ## Still to do
 
-- **The editor's approval of the folds** (`review/app53170koningr145/folds/`),
-  then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 62 scan(s), 39 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The editor's look at the sheet of dropped phrases
   (`review/app53170koningr145/dropped/`), above all the tower sentence and
   the paragraph translated for leaf 680.

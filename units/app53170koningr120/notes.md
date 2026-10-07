@@ -17,5 +17,6 @@ Latin. Added on 2026-10-07 in the fifth Prusimski-era batch. Status
 
 ## Still to do
 
-- The editor's approval of the folds (two scans), then publishing at their
-  word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 2 scan(s), 0 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)

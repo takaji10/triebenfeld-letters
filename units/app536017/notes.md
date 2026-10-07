@@ -5,8 +5,7 @@ for an inspection on the ground, in Albertus (Wojciech) Trąmpczyński's suit
 against Thomas Łukomski over a pond at Łukom that flooded the woods of
 Trąbczyn. Latin with a Polish sentence. The earliest document of the
 edition. Added on 2026-10-07 in the second Prusimski-era batch. Status
-`translated`. Built and verified locally, **not published: the editor
-approves or moves the folds first** (`review/app536017/folds/`).
+`translated`. Built and verified locally, **not published**; the editor reviewed the folds on 2026-10-07 (`intake/folds.json`).
 
 ## What the editor said (2026-10-07)
 
@@ -93,6 +92,8 @@ against Tomasz.** Hence the date: Monday before St Vitus 1589 = 12 June
 
 ## Still to do
 
-- The editor's approval of the folds, then publishing at their word.
+- Publishing, at the editor's word. (The folds are the editor's: reviewed on
+  the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
+  `intake/folds.json` and the pages cut again from it.)
 - The editor's word on the three entries not transcribed.
 - The editor's look at the reading and the English.
