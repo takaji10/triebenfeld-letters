@@ -327,6 +327,39 @@ Where the rest is:
   another language, list what the index finds in it and read every entry
   that is not obviously right. `not_in:` on a person or place entry shuts
   it out of named documents.
+- **A page can be shared only by neighbouring documents** (Konin Gr.117).
+  `match_scans.py` fails with "image assigned more than once" when the pages
+  of the corpus do not run in order: document 2 on leaves 54v, 55, 55v and
+  document 3 on leaf 54v again. Number the documents so that the one that
+  runs on comes second, and say why in `holding.py`. To renumber after a
+  build, reset the unit first (the generated files, `pages/`, the scans,
+  the translations: the scratch script for 53/6/0/-/46 is the pattern),
+  since `--write` refuses once corrections are logged.
+- **Kinship words decide who is who: look at them on the scan.** In Konin
+  Gr.117 "Patrui" (the uncle's, written "Patruj") had been read "Patrii"
+  sixteen times and put into English as "father" fifteen times; the same
+  text had "Patruum" and "Patruo" a few lines away. One look settled how
+  Paweł and Antoni Prusimski were related, which no other holding says.
+- **An unwritten entry is still an entry** (Konin Gr.116). A heading with
+  the clerk's "Vacuum" across the space, or pen strokes, and often a
+  signature under it: the party announced an entry and never supplied the
+  text. Build it as a short document, transcribe "Vacuum" and the
+  signature, and say on the page what it is.
+- **Signatures are usually missing from the editor's text** and are worth
+  adding: in a register they are the party's own hand. Give them as
+  written, "[?]" for a word not read, never the office the man is known to
+  have held.
+- **Folds on photographs**: `courtbook.find_fold` is 20 to 60 px too far
+  right. Cut the gutter strip of every scan side by side with a ruler
+  (ticks every 50 px) and read the folds off one image.
+- **The light check, when a holding is too long for a full one**
+  (PRUSIMSKI_ERA_PLAN): every heading and date line, every name of a judge
+  or party, and the short entries word for word; say on the holding's page
+  which pages were compared, mark the unread long documents `rough` in
+  `rulings.yml`, and hold each statement of a summary to words that carry
+  no mark of doubt.
+- **`courtbook.read_english` takes leaf marks dressed as headings**
+  ("### **[78v]**") as well as bare ones.
 
 ## The English, the summaries and the claim check
 
