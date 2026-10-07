@@ -31,6 +31,19 @@
     {% assign step = year | minus: prev %}
     {% if prev > 0 and step > 1 %}<div class="tl-skip" aria-hidden="true">&#8942;</div>{% endif %}
     {% assign prev = year %}
+    {%- comment -%} A band where an era begins (the editor, 2026-10-07). The eras are those of reference/eras.yml;
+      the Prusimski years end and the Hohenlohe-Ingelfingen years begin with Prusimski's flight in 1794. {%- endcomment -%}
+    {% assign era_slug = '' %}
+    {% if year == 1589 %}{% assign era_slug = 'prusimski-boundary' %}{% assign era_note = t.tl_era_note_prusimski %}{% endif %}
+    {% if year == 1794 %}{% assign era_slug = 'hohenlohe' %}{% assign era_note = t.tl_era_note_hohenlohe %}{% endif %}
+    {% if year == 1807 %}{% assign era_slug = 'restitution' %}{% assign era_note = t.tl_era_note_restitution %}{% endif %}
+    {% if era_slug != '' %}
+      {% assign era = site.data.eras | where: "slug", era_slug | first %}
+      <div class="tl-era">
+        <h2>{% if lang == 'de' %}{{ era.label_de }}{% else %}{{ era.label_en }}{% endif %}</h2>
+        <p>{{ era_note }}</p>
+      </div>
+    {% endif %}
 
     <div class="tl-year{% if count == 0 %} tl-quiet{% endif %}">
       <div class="tl-label">
@@ -93,6 +106,10 @@
   padding: .55rem 0; border-top: 1px solid var(--rule);
 }
 .tl-quiet { opacity: .62; }
+.tl-era { margin: 1.8rem 0 .3rem; padding: .7rem 1rem; background: var(--paper-2); border-left: 4px solid var(--accent); border-radius: 2px; }
+.tl-era:first-child { margin-top: 0; }
+.tl-era h2 { margin: 0; font-size: 1.1rem; }
+.tl-era p { margin: .25rem 0 0; font-size: .9rem; color: var(--ink-soft); max-width: 46rem; }
 .tl-skip { text-align: left; padding: .1rem 0 .1rem 1.2rem; color: var(--ink-faint); border-top: 1px solid var(--rule); font-size: 1rem; line-height: 1.2; }
 .tl-label { font-family: var(--sans); font-weight: 600; font-size: .9rem; padding-top: .1rem; }
 .tl-label a { text-decoration: none; }
