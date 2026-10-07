@@ -8,17 +8,17 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  A decree of the land court at Konin of its sitting of October 1777: Chełmski
-  shows by three searches that the boundary decree given for Prusimski is not
-  in the records of its own province, Prusimski shows that it was entered at
-  Brześć Kujawski, and the court orders him to enter it at Konin within four
-  weeks.
+  Two decrees of the land court at Konin of its sitting of October 1777: one
+  orders Prusimski to enter at Konin, within four weeks, the boundary decree
+  given for him, which stood only in the records of Brześć Kujawski; the
+  other sends Chełmski's claim under the debt bought from the merchant
+  Tracholz to a hearing on the ground of Trąbczyn.
 title_de: >-
-  Ein Dekret des Landgerichts in Konin aus dessen Sitzung vom Oktober 1777:
-  Chełmski weist durch drei Nachsuchen nach, dass das für Prusimski ergangene
-  Grenzdekret nicht in den Akten der eigenen Woiwodschaft steht, Prusimski
-  weist nach, dass es in Brześć Kujawski eingetragen wurde, und das Gericht
-  verpflichtet ihn, es binnen vier Wochen in Konin eintragen zu lassen.
+  Zwei Dekrete des Landgerichts in Konin aus dessen Sitzung vom Oktober 1777:
+  Das eine verpflichtet Prusimski, das für ihn ergangene Grenzdekret, das nur
+  in den Akten von Brześć Kujawski stand, binnen vier Wochen in Konin
+  einzutragen; das andere verweist Chełmskis Klage aus der vom Kaufmann
+  Tracholz gekauften Forderung auf einen Ortstermin auf dem Grund von Trąbczyn.
 # The name of the volume in the archive's inventory, as the editor's folder
 # gives it. Kept for reference; nothing displays it.
 archive_title: >-
@@ -81,6 +81,11 @@ description: >-
   in September 1776. Because rights, settlements and decrees must be entered
   in their own province, the court orders Prusimski to bring the decree to the
   castle records at Konin within four weeks, on pain of outlawry.
+  A second entry, no. 17 of the same sitting and between the same parties,
+  follows on leaf 183 recto: Chełmski sues under the transfer of 1768 by
+  which the merchant Jan Tracholz made over to him sums claimed from the
+  late Paweł Prusimski, and the court, finding its decree of 1766 for a
+  hearing on the ground not carried out, fixes one at Trąbczyn.
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.

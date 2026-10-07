@@ -20,9 +20,16 @@ batch. Status `translated`. Built and verified locally, **not published**.
   Gr.119, document 7); the first build had "did not forestall".
 - **Date**: `sitting`, year 1783 only; heading of 20 October 1783 on leaf
   213, not photographed.
-- **Not built:** entry no. 43 on leaf 295 verso (306.jpg), sitting of 3 May
-  1784, Chełmski against Prusimski; the editor's file has only the leaf
-  mark and that sitting's heading. In the questions file.
+- **Document 2 is entry no. 43** (leaves 295 verso and 296, 306.jpg, pages
+  `0296_a1`, `0296_a2`), added on 2026-10-07 at the editor's word: transcribed
+  from the film and translated in session (`NO43A`, `NO43B`, `EN43A`, `EN43B`
+  in `holding.py`). Skórzewski against Chełmski over the boundary of
+  Biskupice and Łomów; Prusimski and Stadnicki cited. On the page of changes
+  as a new source for the editor to read. **The fold of 306.jpg is set by
+  eye; the editor has not placed it** (the fold page is made again).
+- **For document 1, seen in document 2 and not followed up:** the proxy is
+  "Zeromski" (Wojciech Żeromski), plainly, twice; and the penalty is
+  "medium Vadii Capitalis". Look at both words in document 1.
 - **Left as the editor has them:** "[T/F?]eromski", "procuratorem", "ex
   monte", "gasam". The pen lines along the last two lines of writing on
   leaf 236 verso are taken for the closing rule, not a deletion.
@@ -34,4 +41,5 @@ batch. Status `translated`. Built and verified locally, **not published**.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The editor's word on entry no. 43.
+- The editor's reading of document 2 (page of changes) and their look at
+  the fold of 306.jpg.

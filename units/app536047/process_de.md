@@ -1,10 +1,12 @@
 ### Aufnahmen
 
-Der Ordner enthält drei Bilder eines Mikrofilms dieses Buchs, jedes mit zwei gegenüberliegenden Seiten. Zwei tragen den Eintrag. Sie wurden am Falz geschnitten, und drei ihrer vier Hälften sind wiedergegeben, in der Reihenfolge, in der der Eintrag zu lesen ist. Das dritte Bild hat einen späteren Eintrag, der nicht transkribiert ist, und wird nicht verwendet.
+Der Ordner enthält drei Bilder eines Mikrofilms dieses Buchs, jedes mit zwei gegenüberliegenden Seiten. Zwei tragen den Eintrag. Sie wurden am Falz geschnitten, und drei ihrer vier Hälften sind wiedergegeben, in der Reihenfolge, in der der Eintrag zu lesen ist. Das dritte Bild trägt auf beiden Seiten den zweiten Eintrag, und beide sind wiedergegeben.
 
 ### Transkription
 
 Der Herausgeber hat den Eintrag und die Überschrift seiner Sitzung transkribiert und absatzweise geliefert, mit ausgeschriebenem Latein.
+
+Den zweiten Eintrag, Nr. 43 der Sitzung vom Mai 1784, hatte der Herausgeber fotografiert und nicht transkribiert. Auf seinen Wunsch hat ein KI-Modell (Claude) ihn nach dem vergrößerten Film transkribiert und in den Begriffen des Herausgebers übersetzt. Einige seiner Wörter sind als zweifelhaft gekennzeichnet.
 
 ### Prüfung an den Aufnahmen
 
@@ -12,7 +14,7 @@ Ein KI-Modell (Claude) las den ganzen Eintrag neben dem Mikrofilm und korrigiert
 
 ### Abgrenzung und Datierung
 
-Der Eintrag ist ein Dokument. Er trägt kein eigenes Datum; er ist nach der Überschrift seiner Sitzung, 20. Oktober 1783, auf das Jahr datiert. Sie steht sechsundzwanzig Blatt früher auf einer Seite, die nicht unter den Aufnahmen ist, und das Dokument sagt das.
+Jeder der beiden Einträge ist ein Dokument. Keiner trägt ein eigenes Datum. Der zweite ist nach der Überschrift seiner Sitzung, 3. Mai 1784, auf das Jahr 1784 datiert; auch sie steht auf einer Seite, die nicht unter den Aufnahmen ist. Der erste ist nach der Überschrift seiner Sitzung, 20. Oktober 1783, auf das Jahr datiert. Sie steht sechsundzwanzig Blatt früher auf einer Seite, die nicht unter den Aufnahmen ist, und das Dokument sagt das.
 
 ### Übersetzung
 
@@ -20,4 +22,4 @@ Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu g
 
 ### Zusammenfassung
 
-Die Zusammenfassung wurde auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer elf Aussagen wurde danach am Dokument geprüft. Alle hielten stand.
+Die Zusammenfassung wurde auf Deutsch nach dem Lateinischen geschrieben und ins Englische übersetzt. Jede ihrer elf Aussagen wurde danach am Dokument geprüft. Alle hielten stand. Die Zusammenfassung des zweiten Eintrags hat sieben Aussagen, die ebenso geprüft wurden; alle hielten stand.

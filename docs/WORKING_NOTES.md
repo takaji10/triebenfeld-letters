@@ -411,6 +411,57 @@ Where the rest is:
   the holding in hand (its scratch images and the editor's two files), not
   from memory of readings: read the scans again before writing a row.
 
+- **What the full checks of the Konin registers taught** (Konin Gr.117,
+  Gr.118, Gr.153, Gr.119; 2026-10-07, 406 corrections in four holdings that
+  had already had the light check). The editor's first readings of these
+  hands go wrong in the same few ways, and a check should look for them
+  first:
+  - **A line passed over.** Ten times in four holdings. The eye jumps
+    from a word to the same word a line or two on ("Chełmski ... Chełmski",
+    "Calissien ... Calissien", "Tribunalitii ... Tribunalitii"), or joins
+    the end of one line to the start of the next but one ("verten|nem",
+    "Au|vis" read as "Auris"). The sign is a sentence that will not
+    construe. Count the lines of the scan against the text.
+  - **Abbreviation signs written out wrongly, everywhere.** "p" with a
+    stroke through the tail is "per", not "pro" (with an accusative: "by").
+    The hook after "b" is "-us" ("partibus"), not "-busque". "jurto" is
+    "juramento", an oath, or "jurato", sworn: never "jurisdictio".
+    "Cmrius", "Cmrlia" are "Camerarius", "camerarialia" (the boundary
+    chamberlain and his office), not "Commissarius". "Condnis" is
+    "condescensionis". "ol" with a stroke is "olim", the late. "Dcam",
+    "Dn" before the name of a Sunday is "Dominicam". "ptium" is "partium",
+    "pns" "praesens", "Mafnes" "Manifestationes", "Succores" "Successores".
+    Correct such a word in every place only after looking at several.
+  - **"Tibi", "Te", "tuis" in a citation.** A royal citation addresses the
+    man cited. The editor read "Sibi", "se", "suis", and the English then
+    lost who was cited. The close is a formula: "Sis pariturus Terminum
+    attentaturus et Judicialiter responsurus".
+  - **Case endings decide who does what.** "Illri Mgfco Prusimski" is a
+    dative: he is paid, he does not pay. "Illris Magnifice Prusimski" is a
+    vocative, not a lady. Read the ending before the English is trusted.
+  - **"invalibilis" is "invalid".** The English had "inviolable" for it.
+- **How a full check is recorded** when the light check's rows are already
+  applied: the new rows go into `units/<slug>/intake/full_check.json`
+  (ROWS, FIXES, DROP), written against the text as the light check left it,
+  and are applied once with `holding.py --full`; `english()` adds its FIXES
+  after the script's own. JSON, written with the Write tool, because the
+  rows quote Latin and English with every kind of quotation mark and a
+  here-document breaks on them.
+- **After a full check the claim check quotes the old text.** Bring the
+  Latin quoted under `where:` up to the corrected text and read each
+  statement against it again; say in the file's head that this was done.
+- **An entry first transcribed in session** (53/6/0/-/46 no. 17, 53/6/0/-/47
+  no. 43) is a document like any other, with its text and English as
+  constants in the holding's script. The holding is cleared and built again
+  (`--write` refuses once corrections are logged), and the entry goes on the
+  page of changes as a new source, with its whole text, for the editor to
+  read. A scan the editor has not seen cut gets a fold set by eye and a line
+  in the to-do list.
+- **The page of changes is the editor's working copy.** They read it once
+  and work from it afterwards. Whatever is added later carries `new:` in the
+  holding's `changes.yml` and is marked on the page; an entry that no longer
+  holds ("not checked") is taken out, and the new entry says so.
+
 ## The English, the summaries and the claim check
 
 - **Where one summary is kept.** Change all of them together:
@@ -504,6 +555,15 @@ Where the rest is:
 - **Dates and coordinates:** Wikidata's search rate-limits hard; one SPARQL
   request with a list of labels works. szukajwarchiwach.gov.pl blocks
   automated access.
+
+- **A rule in `reference/english_forms.yml` with `\b` in double quotes
+  needs two backslashes** (`"\\bGorski\\b"`): YAML reads `"\b"` as a
+  backspace and the rule then matches nothing, silently. Run
+  `english_forms.py` without `--apply` and see that it would change
+  something.
+- **`rest.sh`-style scripts with `set -e` stop at the first `grep` that
+  finds nothing.** Do not use `set -e` where the steps are filtered through
+  `grep`.
 
 ## Desktop and cloud
 

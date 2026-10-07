@@ -42,6 +42,18 @@ direction at the foot of leaf 182 verso is added (CONTINUED).
 The English. The editor's English of this entry rested on the first reading
 and marked ten places as unresolved. It is revised here throughout (PAGES),
 in the editor's terms. What differs in substance is listed in changes.yml.
+
+Entry no. 17 (document 2, added 2026-10-07 at the editor's word). It stands
+on leaf 183 recto, the right half of 193.jpg (page 0183_a2), and is the next
+entry of the same sitting, between the same parties. The editor's file has a
+first reading of it under "[182v] N. 16to", with more than forty marks of
+doubt and no English. It was transcribed again from the film, enlarged, with
+the editor's reading beside it (NO17), and translated in the editor's terms
+(EN17). Three words are marked as doubtful: the town of the merchant
+Tracholz ("Vit[k?]ovien~"), "initi[?]" and the two abbreviations left with a
+tilde. A word struck out before "Pyzdrensibus" is not transcribed (the
+ruling of 2026-10-05). The day of the hearing reads "Laetare"; the citation
+to that hearing in Konin Gr.117 (document 1) has "Invocavit". Not resolved.
 """
 import glob
 import os
@@ -62,10 +74,11 @@ SCANS = [
     ('192.jpg', 1727, '0182_a1', '0182_b2'),
     ('193.jpg', 1701, '0182_b1', '0183_a2'),
 ]
-SKIP = ('0182_a1', '0183_a2')
+SKIP = ('0182_a1',)
 LEAF = {'0182_a1': '181 verso', '0182_b2': '182 recto', '0182_b1': '182 verso', '0183_a2': '183 recto'}
-DOCS = [(1, ['0182_b1', '0182_b2'])]
-FOLD_NOTE = ('The entry begins on the left page of the second scan and ends at the foot of the right page of the first. '
+DOCS = [(1, ['0182_b1', '0182_b2']), (2, ['0183_a2'])]
+FOLD_NOTE = ('Entry no. 16 begins on the left page of the second scan and ends at the foot of the right page of the first; entry no. 17 '
+             'is on the right page of the second. '
              'The wide dark margins are the microfilm frame.')
 CONTINUED = 'sub nro 15. P. alt[?]'
 
@@ -165,6 +178,27 @@ S = {
      'A decree of the land court at Konin, of the sitting that opened on 20 October 1777, entry no. 16. Stanisław Chełmski, heir of Łukomia, as plaintiff demands of Antoni Prusimski, Starost of Niszczewice, the production of an act said to have been given, as though a boundary act, between the estates of Łukom and Trąbczyn by commissioners of the Estates. He lays down three searches, at Kalisz of the Saturday after the Presentation of the Virgin 1776, at Kościan of 2 January and at Konin of October of the current year, and proves by them that the act is not in the records of its own province. Prusimski for his part lays down a search made at the castle court of Brześć Kujawski on 10 October 1777 and entered at Konin on 16 October, and shows that the commission\'s decree was entered at Brześć Kujawski in 1776. Because rights, settlements and decrees are to be brought in in their own province, the court orders Prusimski to have the decree entered in the castle records at Konin within four weeks, on pain of outlawry. The reading rests on a microfilm and is uncertain in several places.'),
 }
 HOW = ('written in the working session from the Latin as read on the microfilm\n# (intake/holding.py, 2026-10-07).')
+
+# Entry no. 17, document 2: transcribed and translated in the working session (see the docstring).
+NO17 = "N. 17mo Inter Eundem Actorem per Eundem et Eundem Citatum personaliter Judicium etc. Terminum Partis Actoreae ad Judicium suum editum Decidendo controversiis exauditis Licet si Magnificus Stanislaus Chełmski virtute transfusionis coram actis Castrensibus Pyzdrensibus Feria 4ta in Vigilia Festi Nativitatis Beatissimae Virginis Mariae anno 1768 per Excellentem Joannem Tracholz mercatorem et Incolam Vit[k?]ovien~ super summas varias ab olim Magnifico Paulo Prusimski praetensas in Personam Ejusdem Magnifici Chełmski recognitae actoratum Magnifico Prusimski Capitaneo Nieszczevicen~ instituendo Comportationem contractus respectu Divenditionis Borrae Trąbczynen~ cum honorato Tracholz et olim M. Paulum Prusimski initi[?] praetendit Cum vero Judicio suo Deducitur Decretum in anteactis Judiciis suis Feria 2da post Dominicam Septuagesimae anno 1766 Inter honoratum Joannem Tracholz et M. Antonium Prusimski modernum Citatum remissionis causae ad Terminum Condescensionis intercessisse et non effectuatum esse proinde suspenso toto negotio necessariam esse Condescensionem in Fundum Bonorum Trąbczyn affectan~ Partibus Judicii sui In et pro Feria 2da post Dominicam Laetare Quadragesimalem in anno futuro venturam adinvenit Decernendo Quatenus Partes hoc Idem Judicium absentia Duorum uniusve non obstante Conducant Quod sive Qui Conducendus Comportationem contractus superius specificati per M. Prusimski Capitaneum Nieszczevicen~ demandabit Causamque praesentem pro exigentia Legis Justitiae nexus Documentorum contenta Partis actoreae Terminorum resolutis quibusvis dubiis et Intervenien~ finaliter decidet et disjudicabit satisfactionem cui quanta et a quo intererit Decernet Inquisitiones pro oportunitate negotii expediet Juramenta ubi necesse fuerit et a quo intererit excipiet rigores annectet. Cujus Judicii Condescensuri Partes parere et acquiescere sub paena banitionis coram Eodem Conducendo Judice super Parte contraveniente In casu contraventionis publicanda debebunt et tenebuntur. Luita paena 14 marcarum Polonicalium Parti per Partem compensanda Judicio in instanti sub solito rigore per medium solvenda pro quo Condescensionis Termino Partes quos negotium exigent adcitent adcitati sub rigore suprascripto compareant."
+EN17 = "No. 17: Between the same Plaintiff, through the same, and the same Cited, in person — the Court, etc., deciding the term of the Plaintiff party brought before it, the controversies having been heard:\n\nAlthough the Right Honourable Stanisław Chełmski — by virtue of a transfer, acknowledged before the records of the Pyzdry Municipal Court on Wednesday, the Eve of the Feast of the Nativity of the Most Blessed Virgin Mary, in the year 1768 by the Excellent Jan Tracholz, merchant and inhabitant of [a town: the name is not surely read], of various sums claimed from the late Right Honourable Paweł Prusimski, into the person of the same Right Honourable Chełmski — instituting a suit against the Right Honourable Prusimski, Starost of Niszczewice, claims the production of the contract concerning the sale of the Trąbczyn pine forest entered into with the Honest Tracholz and the late Right Honourable Paweł Prusimski;\n\nsince, however, it is shown to the Court that in its earlier sessions, on Monday after Septuagesima Sunday in the year 1766, a decree of remission of the cause to a condescension term had intervened between the Honest Jan Tracholz and the Right Honourable Antoni Prusimski, the present Cited, and has not been carried out: the Court therefore, the whole matter being suspended, finds a condescension of its court to the ground of the estates of Trąbczyn to be necessary, the parties requesting it, on and for the Monday after Laetare Sunday in Lent next coming in the coming year — decreeing that the parties shall bring this same court, the absence of two or of one notwithstanding; which court, or he who is to be brought, shall order the production of the contract specified above by the Right Honourable Prusimski, Starost of Niszczewice, and shall finally decide and adjudge the present cause as law, justice, the tenor of the documents and the contents of the Plaintiff party's terms require, all doubts and interventions being resolved; shall decree satisfaction, to whom, how much and from whom it shall be due; shall conduct inquisitions as the matter requires; shall receive oaths where necessary and from whom it shall be due; and shall attach rigours.\n\nThe parties shall be bound and obliged to obey and to acquiesce in that court of the condescension, under penalty of outlawry, to be published before the same judge who is to be brought, upon the contravening party in case of contravention. The penalty of fourteen Polish marks having been paid — to be set off party against party, and paid to the Court forthwith, under the usual rigour, by halves. For which condescension term the parties shall cite those whom the matter requires; those cited shall appear under the rigour written above."
+_source1, _english1 = read_source, english
+
+
+def read_source():
+    d = _source1()
+    d[(2, '0183_a2')] = [NO17]
+    return d
+
+
+def english():
+    d = _english1()
+    d[2] = [EN17]
+    return d
+
+
+S[2] = ("Dekret des Kalischer Landgerichts in Konin, Eintrag Nr. 17 der Sitzung, die am 20. Oktober 1777 begann, zwischen denselben Parteien wie der Eintrag davor: dem Kläger und dem Geladenen, der persönlich erschienen ist. Stanisław Chełmski klagt aus einer Übertragung, die am Mittwoch, dem Vorabend von Mariä Geburt 1768, vor dem Burggericht Pyzdry anerkannt wurde: Der Kaufmann Jan Tracholz hat ihm darin verschiedene Summen abgetreten, die er vom verstorbenen Paweł Prusimski forderte. Chełmski verlangt, dass Prusimski, Starost von Niszczewice, den Vertrag über den Verkauf des Trąbczyner Kiefernwaldes vorlegt, der mit Tracholz und Paweł Prusimski geschlossen wurde. Dem Gericht wird nachgewiesen, dass ein Dekret seiner früheren Sitzung vom Montag nach Septuagesima 1766 zwischen Tracholz und Antoni Prusimski die Sache auf einen Ortstermin verwiesen hat und dass es nicht ausgeführt worden ist. Das Gericht setzt deshalb die ganze Sache aus und hält auf Antrag der Parteien einen Ortstermin des Gerichts auf dem Grund von Trąbczyn für nötig, am Montag nach Laetare des kommenden Jahres. Der Richter, der dorthin geholt wird, soll Prusimski die Vorlage des Vertrags auferlegen, die Sache endgültig entscheiden, Zeugen verhören und Eide abnehmen. Die Parteien haben ihm bei Strafe der Acht zu gehorchen und zu laden, wen die Sache erfordert.",
+        "A decree of the land court of Kalisz sitting at Konin, entry no. 17 of the sitting that opened on 20 October 1777, between the same parties as the entry before it: the plaintiff and the man cited, who has appeared in person. Stanisław Chełmski sues under a transfer acknowledged before the castle court of Pyzdry on the Wednesday, the eve of the Nativity of the Virgin, 1768: by it the merchant Jan Tracholz made over to him various sums that he claimed from the late Paweł Prusimski. Chełmski demands that Prusimski, Starost of Niszczewice, produce the contract for the sale of the Trąbczyn pine wood that was made with Tracholz and Paweł Prusimski. It is shown to the court that a decree of its earlier sitting, of the Monday after Septuagesima Sunday 1766, between Tracholz and Antoni Prusimski, had sent the cause to a sitting on the ground, and that it has not been carried out. The court therefore suspends the whole matter and, at the parties' request, finds a sitting of the court on the ground of Trąbczyn necessary, on the Monday after Laetare Sunday of the coming year. The judge who is brought there is to order Prusimski to produce the contract, decide the cause finally, hold inquiries and take oaths. The parties are to obey him on pain of outlawry and to cite whom the matter requires.")
 
 if __name__ == '__main__':
     courtbook.holding_main(globals())

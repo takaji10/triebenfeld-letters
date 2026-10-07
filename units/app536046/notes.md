@@ -1,6 +1,6 @@
 # 53/6/0/-/46 (APP)
 
-One document on two pages: entry no. 16 of the sitting of October 1777 of the
+Two documents on three pages (the second added on 2026-10-07, see below). Document 1: entry no. 16 of the sitting of October 1777 of the
 land court at Konin, ordering Prusimski to enter the boundary decree at
 Konin. Latin, from a microfilm; marked rough. Added on 2026-10-07 in the
 fourth Prusimski-era batch. Status `translated`. Built and verified locally,
@@ -19,11 +19,15 @@ fourth Prusimski-era batch. Status `translated`. Built and verified locally,
   wrongly given out. Not resolved.
 - **Still in doubt:** "si[?]" and "cen~[?]" after "Licet"; "Magnificu[s?]";
   "[T?]anski"; "Data~"; the 28th or 20th of October; the clerk's "P. alt[?]".
-- **Not built:** entry no. 17 on leaf 183 recto (a suit with Jan Tracholz, a
-  merchant, over sums claimed from the late Paweł Prusimski and the sale of
-  Trąbczyn timber; the court sets a hearing on the ground). The editor's
-  Latin of it has more than forty doubts and there is no English. On the
-  list of questions held for the editor.
+- **Document 2 is entry no. 17** (leaf 183 recto, page `0183_a2`), added on
+  2026-10-07 at the editor's word: transcribed again from the film and
+  translated in session (`NO17`, `EN17` in `holding.py`; the editor's first
+  reading is in their Latin file under "[182v] N. 16to"). Not marked rough.
+  It is on the page of changes as a new source for the editor to read.
+- **Laetare or Invocavit.** Document 2 sets the hearing at Trąbczyn for the
+  Monday after Laetare Sunday (30 March 1778); the citation in Konin
+  Gr.117, document 1, has the Monday after Invocavit (9 March). Both
+  were looked at. Not resolved; the holding's page says so.
 - The heading of the sitting names the bench; Zielonacki, the deputy judge,
   signed the adjournment of 1776 (Kalisz Gr.425).
 
@@ -32,4 +36,5 @@ fourth Prusimski-era batch. Status `translated`. Built and verified locally,
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The editor's word on entry no. 17 and on a fuller re-reading.
+- The editor's reading of document 2 (page of changes), and their word on a
+  fuller re-reading of document 1.

@@ -14,6 +14,59 @@ are built on the defaults below. The sections follow the order in which the
 holdings were built. The questions that change most if you answer them
 differently are marked in `docs/TODO.md`, section 7.
 
+## The editor's answers of 2026-10-07, and what was done
+
+The editor read the page of changes ("fine") and answered the questions that
+mattered most. Each answer is carried out; the sections below are left as
+they were written, as the record of the defaults.
+
+- **The full check of Konin Gr.117, Gr.118, Gr.153 and Gr.119: yes.** Done
+  the same day. Every page of the four holdings is now read against the
+  scans: 159, 133, 106 and 8 more corrections, the English follows, no
+  document is marked as a rough reading. What it changed is on the page of
+  changes, marked "New" (the editor keeps that page to work from).
+- **Gorski or Górski: Górski.** The transcription keeps "Gorski" as the
+  clerk and the man himself wrote it; the English and everything written
+  about him has Górski (`gorski-name` in `reference/english_forms.yml`).
+- **Paweł Prusimski is Antoni's uncle, not his father:** confirmed.
+  **"jurato" and "condescensio":** confirmed.
+- **The account of the era waits** until the editor has supplied the
+  missing transcriptions, which come after this work.
+- **53/6/0/-/17:** nothing is needed from the editor. What is not in their
+  files is on their own scans: three more entries (the same suit against
+  Stanislaus Łukomski on leaves 27 verso to 28, and two suits of Nicolaus and
+  Joannes Trąmpczyński against Albertus on leaves 28 to 29), and the image of
+  leaf 2 with the heading of the sitting. Backlog.
+- **53/6/0/-/46 entry no. 17 and 53/6/0/-/47 entry no. 43: transcribe them,
+  if it can be done with confidence, and put them on the page of changes as
+  a new source to read.** Done: each is document 2 of its holding, with an
+  English, a summary and a claim check, and each is on the page of changes
+  as a new source. The few words not read with confidence are marked. The
+  fold of the new scan of 53/6/0/-/47 (306.jpg) is set by eye and waits for
+  the editor's look.
+- **The seven scans of Konin Gr.119 without a transcription: not relevant.**
+  They stay out. (One thing found since: entry no. 43 of 53/6/0/-/47 fixes a
+  hearing on the ground between Biskupice and Łomów for 16 July 1784, and
+  scans 680 and 681 of Konin Gr.119 are two short notes of September 1784
+  on that same cause, one of them a field decree between Biskupice, Łukom,
+  Trąbczyn and others being brought in. Said to the editor; their ruling
+  stands unless they change it.)
+- **The middle of Konin Gr.136 is not relevant;** it goes on the backlog to
+  be transcribed for completeness.
+- **The fonds:** 53/6 is "Księgi sądu ziemskiego w Koninie" and 53/15 is
+  "Księgi sądu i urzędu grodzkiego w Kaliszu"; the archive's description of
+  each is on the holdings' pages (`fonds:` in `unit.yml`).
+- **Skanoteka.** Some of the editor's photographs of the Konin and Kalisz
+  castle-court books carry the watermark of Skanoteka
+  (skanoteka.genealodzy.pl). The nine holdings where it is seen say so on
+  their pages (`scan_source:` in `unit.yml`).
+- **Images of the headings of sittings:** low priority, backlog. Where to
+  look is listed in `docs/TODO.md`, section 7.
+
+Still open after this: the editor's word to publish; their reading of the
+two new documents; the fold of 306.jpg; the smaller questions below, each
+built on its default.
+
 ## For every holding
 
 - **Folds: settled 2026-10-07.** You reviewed every holding; the pages are

@@ -2,14 +2,16 @@
 #
 # One document: entry no. 16 of the sitting, which begins on leaf 182 verso
 # and ends at the foot of leaf 182 recto (the clerk's own direction: "sub
-# nro 15"). The entry after it, no. 17 on leaf 183, is in the editor's Latin
-# file without an English and is not built (docs/PRUSIMSKI_QUESTIONS.md).
+# nro 15"). The entry after it, no. 17 on leaf 183 recto, is document 2:
+# transcribed and translated in the working session at the editor's word
+# (2026-10-07; intake/holding.py).
 # Established 2026-10-07.
 
 places:
   # "in Conin celebratis", the heading of the sitting.
   overrides:
     "1": Konin
+    "2": Konin
 
 dates:
   # [year, month, day, precision]; read off the document.
@@ -27,14 +29,17 @@ dates:
   # given some days into the sitting; only the year is claimed.
   sitting:
     "1": [1777, null, null, "year", "The sitting opened at Konin on 20 October 1777. Its heading is on a page not among the scans; the entry itself has no date, and it mentions a search made later in that October."]
+    "2": [1777, null, null, "year", "The sitting opened at Konin on 20 October 1777. Its heading is on a page not among the scans; the entry itself, no. 17 of the sitting, has no date, and the entry before it mentions a search made later in that October."]
   no_date: []
 
 documents:
   doc_type:
     "1": decree
+    "2": decree
 
   language:
     "1": la
+    "2": la
 
   duplicate_of: {}
   split_note: {}
@@ -43,10 +48,11 @@ documents:
   # The estate the document is ABOUT, as slugs from reference/places.yml.
   estates:
     "1": [trabczyn, lukomia]
+    "2": [trabczyn]
 
 pages:
   # The editor's transcription is by paragraph, not by line.
-  by_paragraph: ["0182_b1", "0182_b2"]
+  by_paragraph: ["0182_b1", "0182_b2", "0183_a2"]
 
 damage:
   letters: []

@@ -118,9 +118,14 @@ read, translate and summarise.
 
 - **The Prusimski-era court books** (2026-10-07): twenty holdings beside
   Konin Gr.145 are built and not published. Everything open about them is
-  in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken;
-  the editor reviewed the folds on 2026-10-07 (done); their look at the page
-  of changes comes next.
+  in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken.
+  The editor reviewed the folds and the page of changes on 2026-10-07 and
+  answered the main questions; all of it is carried out (the full check of
+  Konin Gr.117, Gr.118, Gr.153 and Gr.119; Górski; two entries newly
+  transcribed as documents). Open: their word to publish, their reading of
+  the two new documents, the fold of 306.jpg in 53/6/0/-/47, and the
+  backlog in `docs/TODO.md`, section 7. The account of the era waits for
+  the transcriptions the editor will supply.
 
 - **APP 53/17/0/-/Konin Gr.145** is in (2026-10-06), the first holding of
   the Prusimski era: one document of 122 pages, the decree of the boundary

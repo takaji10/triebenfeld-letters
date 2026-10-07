@@ -240,8 +240,8 @@ so check them.
   holding is built on the default. Nothing is published before the review.
 - **The run is finished: every court-book folder with a text is built**
   (2026-10-07), verified, committed locally, **not pushed, not published**.
-  Twenty-one Prusimski-era holdings, 92 documents, 1589 to 1788; the edition
-  has 564 documents in 36 holdings. Beside Konin Gr.145 they are:
+  Twenty-one Prusimski-era holdings, 94 documents, 1589 to 1788; the edition
+  has 566 documents in 36 holdings. Beside Konin Gr.145 they are:
   **53/6/0/-/17** (`app536017`, 1589), **-/36** (`app536036`, 1644), **-/40**
   (`app536040`, 1728), **-/45** (`app536045`, 1763), **-/46** (`app536046`,
   1777), **-/47** (`app536047`, 1783); **Kalisz Gr.414**
@@ -254,16 +254,22 @@ so check them.
   a holding was made is in the docstring of its `intake/holding.py` (one
   script for all steps, `courtbook.holding_main`). Pyzdry Gr.75 is deferred
   by the editor.
-- **The folds are done** (2026-10-07): the editor reviewed all twenty
-  holdings on the fold pages (176 scans, 110 folds moved, 122 sheets
-  turned); each holding's `intake/folds.json` has them and the pages are
-  cut from it. **What still waits on the editor, in this order:** (1) the
-  page of changes (`review/changes/`: 20 holdings, 43 significant
-  changes); (2) the questions in `docs/PRUSIMSKI_QUESTIONS.md`, each with
-  the default taken; (3) their word to publish. Four holdings had only the light check and say
-  so on their pages (Konin Gr.117, Gr.118, Gr.153, Gr.119): the full check
-  is a question for the editor. The era's account on the story page was
-  only brought up to the facts; a fuller one waits at their word.
+- **The editor's review is done but for the word to publish** (2026-10-07).
+  They placed the folds of all twenty holdings (each holding's
+  `intake/folds.json`), read the page of changes and answered the main
+  questions (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers"). Carried
+  out the same day: **the full check of Konin Gr.117, Gr.118, Gr.153 and
+  Gr.119** (every page read; the record is each holding's
+  `intake/full_check.json`, applied once by `holding.py --full`; no document
+  is marked rough); **Górski** in the English, "Gorski" kept in the
+  transcription; **two entries transcribed in session** as document 2 of
+  53/6/0/-/46 (no. 17) and of 53/6/0/-/47 (no. 43). **What waits on the
+  editor:** their word to publish; their reading of the two new documents;
+  the fold of 306.jpg in 53/6/0/-/47 (set by eye). **The account of the
+  era waits** until they have supplied the missing transcriptions. The
+  backlog (headings of sittings, the middle of Konin Gr.136, three entries
+  of 53/6/0/-/17) is in `docs/TODO.md`, section 7. The seven untranscribed
+  scans of Konin Gr.119 are not relevant (editor) and stay out.
 - **The fold pages** (`review/<slug>/folds/index.html`, made by each
   holding's `holding.py --sheet`, `build_pages.py --sheet` in the first
   four, `fold_sheet.py` for Konin Gr.145). **One fold page for every
@@ -283,6 +289,8 @@ so check them.
   `intake/changes.yml`): what the check against the scans changed, graded,
   for the editor to put right what they have written outside the project.
   Write a holding's `changes.yml` when it is checked and run the script.
+  **The editor keeps this page and works from it**: an entry written after
+  they read it (2026-10-07) carries `new:` and is marked on the page.
 - **The Prusimski era** (editor, 2026-10-06): `docs/PRUSIMSKI_ERA_PLAN.md`
   has the editor's decisions, the inventory, the method and the batches,
   all five now built. Nine folders without texts are listed there for the

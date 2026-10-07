@@ -2110,7 +2110,7 @@
   "sender": "",
   "recipient": "",
   "n_pages": 2,
-  "n_lines": 4,
+  "n_lines": 3,
   "scans": [
    {
     "page": 1,
@@ -2140,6 +2140,47 @@
   "path": "documents/app536046-1.json",
   "text_path": "text/app536046-1.txt",
   "permalink": "/documents/app536046/1/"
+ },
+ {
+  "uid": "app536046-2",
+  "unit": "app536046",
+  "letter_id": "2",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1777",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 2,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0183_a2",
+    "image": "APP_53_6_0_46_0183_a2-L2_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 2",
+  "path": "documents/app536046-2.json",
+  "text_path": "text/app536046-2.txt",
+  "permalink": "/documents/app536046/2/"
  },
  {
   "uid": "app53170koningr116-12",
@@ -4241,7 +4282,7 @@
   "sender": "",
   "recipient": "",
   "n_pages": 3,
-  "n_lines": 7,
+  "n_lines": 6,
   "scans": [
    {
     "page": 1,
@@ -4580,6 +4621,53 @@
   "path": "documents/app53170koningr119-7.json",
   "text_path": "text/app53170koningr119-7.txt",
   "permalink": "/documents/app53170koningr119/7/"
+ },
+ {
+  "uid": "app536047-2",
+  "unit": "app536047",
+  "letter_id": "2",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1784",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 3,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0296_a1",
+    "image": "APP_53_6_0_47_0296_a1-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0296_a2",
+    "image": "APP_53_6_0_47_0296_a2-L2_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "lukomia",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 2",
+  "path": "documents/app536047-2.json",
+  "text_path": "text/app536047-2.txt",
+  "permalink": "/documents/app536047/2/"
  },
  {
   "uid": "app53170koningr119-8",

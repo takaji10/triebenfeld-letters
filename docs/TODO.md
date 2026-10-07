@@ -214,7 +214,7 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 ## 7. The Prusimski era: twenty court-book holdings, 1589 to 1788 (added 2026-10-06 and 10-07)
 
 Every folder from Poznań that has a text is built: twenty holdings beside
-Konin Gr.145, 91 documents, from the order of 1589 to a register entry of
+Konin Gr.145, 93 documents, from the order of 1589 to a register entry of
 1788. Each entry of a court book is a document; your transcription and your
 English are kept and were corrected against the scans; summaries in both
 languages, each statement checked. Built and verified here, committed
@@ -234,13 +234,23 @@ Your review, in this order:
       upright under the line. What you do is kept in the browser as you
       go. Press "Save" at the end of a holding and tell me; I turn and
       cut the pages again from your file.
-- [ ] **The page of changes**, `review/changes/index.html`: what the check
-      against the scans changed in each holding, graded (43 significant,
-      118 facts, 22 wording), for putting right what you have written
-      elsewhere.
-- [ ] **The questions**, `docs/PRUSIMSKI_QUESTIONS.md`: every question I
-      would have stopped to ask, each with the default I took. The ones
-      that matter most:
+- [x] **The page of changes**, `review/changes/index.html`: you read it on
+      2026-10-07 ("fine") and keep it to work from. It has grown since:
+      what the four full checks changed and the two newly transcribed
+      entries are marked **New** in green (39 entries), and the list at the
+      top says which holdings have them. Now 57 significant, 136 facts,
+      26 wording.
+- [ ] **Read the two new documents** (on the page of changes, each a "new
+      source"): 53/6/0/-/46 entry no. 17 (the decree of 1777 on the debt
+      bought from Tracholz) and 53/6/0/-/47 entry no. 43 (the hearing
+      fixed in 1784 for the boundary of Biskupice and Łomów).
+- [ ] **One fold to place:** 306.jpg of 53/6/0/-/47, on
+      `review/app536047/folds/index.html`. It is set by eye.
+- [x] **The questions that mattered most**: answered on 2026-10-07 and
+      carried out (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers").
+      The full check of the four holdings is done; Górski, the uncle,
+      "jurato" and "condescensio" are settled. The smaller questions in
+      that file stand on their defaults. What the list was:
       - the full check of the four holdings that had only the light one
         (Konin Gr.117, Gr.118, Gr.153, Gr.119);
       - "Patrui" for "Patrii" in Konin Gr.117 (Paweł Prusimski is Antoni's
@@ -252,13 +262,31 @@ Your review, in this order:
         the middle of Konin Gr.136);
       - dates inferred where the heading of a sitting was not photographed.
 - [ ] **Say when to publish.**
-- [ ] **The account of the era** on the story page: I only brought it up to
-      the facts (the decree of 1775 did not end the dispute; the Tribunal
-      settled it in 1782). You said to wait until more documents were in;
-      they are in. Say if you want it written.
-- [ ] If you have them: the archive's name for fonds 53/6 and 53/15, and
-      images of the pages with the headings of sittings named in the
-      questions file.
+- [ ] **The account of the era** on the story page: waits until you have
+      supplied the missing transcriptions (your word, 2026-10-07). It is
+      only brought up to the facts for now.
+- [x] The archive's names for fonds 53/6 and 53/15: on the holdings' pages.
+      The Skanoteka watermark is noted on the nine holdings that have it.
+- **Backlog** (yours, low priority; none of it holds up publishing):
+  - [ ] *Images of the headings of sittings.* A document dated from the
+        heading of its sitting would be dated more surely, and the heading
+        could be shown, if the page with the heading were photographed.
+        Where to look: 53/6/0/-/17, leaf 2; 53/6/0/-/36, leaf 612;
+        53/6/0/-/45, leaf 638; 53/6/0/-/46, the page headed "Actum in
+        Judiciis Terrestribus ... Die 20 mensis Octobris Anno 1777", some
+        leaves before leaf 182; 53/6/0/-/47, leaves 213 (20 October 1783)
+        and 273 (3 May 1784). In the Konin registers (Gr.115 to Gr.121):
+        for each document whose page says its date is "inferred", the
+        nearest page before it with a line "Actum in Conin ..."; each
+        holding's `rulings.yml` names the leaf under `inferred:`.
+  - [ ] *The middle of Konin Gr.136* (the house-by-house list on leaves
+        121 verso to 122 verso): not relevant to the dispute; to be
+        transcribed for completeness.
+  - [ ] *53/6/0/-/17:* three more entries on your scans (leaves 27 verso
+        to 29) are not transcribed. Nothing is needed for what is built.
+  - [ ] *53/6/0/-/47, entry no. 26:* two words to look at again, seen
+        while reading entry no. 43: the proxy "[T/F?]eromski" is "Zeromski"
+        there, and "Capit~" after "Vadii" is "Capitalis".
 - [ ] Pyzdry Gr.75: deferred by you ("let's look at that later").
 
 ## 8. Carried over

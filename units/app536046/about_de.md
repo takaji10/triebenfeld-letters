@@ -1,4 +1,4 @@
-Ein Eintrag auf zwei Seiten eines Dekretbuchs des Landgerichts in Konin für die Jahre 1773 bis 1777, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist ein Dekret der Sitzung vom Oktober 1777 darüber, wo das Grenzdekret der Kommission einzutragen war. Er ist lateinisch und bildet ein einziges Dokument. Die Lesung beruht auf einem Mikrofilm und ist stellenweise unsicher. <!-- context -->
+Zwei Einträge auf drei Seiten eines Dekretbuchs des Landgerichts in Konin für die Jahre 1773 bis 1777, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Beide sind Dekrete der Sitzung vom Oktober 1777. Das erste entscheidet, wo das Grenzdekret der Kommission einzutragen war. Das zweite verweist eine Geldforderung, die Stanisław Chełmski von einem Kaufmann gekauft hatte, auf einen Ortstermin auf dem Grund von Trąbczyn. Beide sind lateinisch, und jedes bildet ein Dokument. Die Lesung beruht auf einem Mikrofilm und ist stellenweise unsicher. <!-- context -->
 
 ### Historischer Hintergrund
 
@@ -16,12 +16,16 @@ Der Band gehört zum Bestand „Księgi sądu ziemskiego w Koninie“ des Archiv
 
 **Das Dekret.** Rechte, Vergleiche und Dekrete müssen in der eigenen Woiwodschaft zur Eintragung vorgelegt werden. Das Gericht verpflichtet deshalb Prusimski, das Dekret binnen vier Wochen zu den Burgakten in Konin zu bringen, bei Strafe der Acht [[1]].
 
+**Der nächste Eintrag: die von Tracholz gekaufte Forderung.** Der Eintrag Nr. 17 betrifft dieselben Parteien. Chełmski klagt aus einer Übertragung, die 1768 vor dem Burggericht Pyzdry anerkannt wurde: Der Kaufmann Jan Tracholz hat ihm darin Summen abgetreten, die er vom verstorbenen Paweł Prusimski forderte. Chełmski verlangt den Vertrag über den Verkauf des Kiefernwaldes von Trąbczyn. Dem Gericht wird nachgewiesen, dass ein eigenes Dekret von 1766 zwischen Tracholz und Antoni Prusimski die Sache auf einen Ortstermin verwiesen hat und dass dieser nie stattfand. Es setzt die Sache aus und bestimmt einen Ortstermin des Gerichts auf dem Grund von Trąbczyn für den Montag nach Laetare des kommenden Jahres, bei dem Prusimski die Vorlage des Vertrags auferlegt werden soll [[2]].
+
 ### Form und Sprache
 
-Der Eintrag ist die Nr. 16 seiner Sitzung. Er beginnt in der Mitte von Blatt 182 verso und füllt die Seite; aus Platzmangel schrieb der Schreiber sein Ende an den Fuß der anderen Seite desselben Blattes, unter den Eintrag Nr. 15, und setzte am Fuß der Seite einen Verweis darauf. Das Latein steht in einer kleinen Hand, die fast jedes Wort abkürzt, und die Aufnahmen sind Bilder eines Schwarzweiß-Mikrofilms. Die Transkription schreibt die Abkürzungen aus, wo das Wort sicher ist, und bezeichnet vier Stellen, an denen es das nicht ist. <!-- context -->
+Der erste Eintrag ist die Nr. 16 seiner Sitzung. Er beginnt in der Mitte von Blatt 182 verso und füllt die Seite; aus Platzmangel schrieb der Schreiber sein Ende an den Fuß der anderen Seite desselben Blattes, unter den Eintrag Nr. 15, und setzte am Fuß der Seite einen Verweis darauf. Das Latein steht in einer kleinen Hand, die fast jedes Wort abkürzt, und die Aufnahmen sind Bilder eines Schwarzweiß-Mikrofilms. Die Transkription schreibt die Abkürzungen aus, wo das Wort sicher ist, und bezeichnet vier Stellen, an denen es das nicht ist. <!-- context -->
 
 Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung, die der Herausgeber von einer Seite transkribiert hat, die nicht unter den Aufnahmen ist, lautet: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctae Hedvigis Viduae Electae Dei videlicet Die 20 mensis Octobris Anno 1777 in Conin celebratis“, vor Franciszek Wierusz Walknowski, Richter, Stefan Leszczyc Zielonacki, Unterrichter, und Franciszek Ksawery Mikorski, Notar, des Landes Kalisz. Der Unterrichter ist einer der fünf Kommissare, die im September 1776 die Grenzsache vertagt hatten: [[unit:app53150kaliszgr425]]. <!-- context -->
 
+Der Eintrag Nr. 17 folgt auf Blatt 183 recto, in derselben Hand. Der Herausgeber hatte eine erste Lesung davon angefertigt; der hier gegebene Text wurde in der Arbeitssitzung neu vom Film gelesen, und drei Wörter darin sind als zweifelhaft gekennzeichnet. Er nennt für den Ortstermin den Montag nach Laetare. Die Ladung zu diesem Termin, im März 1778 in Konin eingetragen, nennt den Montag nach Invocavit, drei Wochen früher: [[unit:app53170koningr117]]. Welche Angabe stimmt, ist nicht geklärt. <!-- context -->
+
 ### Verwandte Bestände
 
-Das Dekret der Kommission: [[unit:app53170koningr145]]. Die Nachsuche in Kalisz: [[unit:app53150kaliszgr424]]. <!-- context -->
+Der Prozess um die von Tracholz gekaufte Forderung, ab 1778: [[unit:app53170koningr117]]. Das Dekret der Kommission: [[unit:app53170koningr145]]. Die Nachsuche in Kalisz: [[unit:app53150kaliszgr424]]. <!-- context -->

@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 777,
+  "count": 780,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -71,7 +71,9 @@
    "app536040-1",
    "app536045-1",
    "app536046-1",
+   "app536046-2",
    "app536047-1",
+   "app536047-2",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -3386,6 +3388,24 @@
     "doc_line": 1
    },
    {
+    "uid": "app536046-2",
+    "surface": "Trąbczynen",
+    "page": 1,
+    "page_id": "0183_a2",
+    "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-2",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0183_a2",
+    "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
     "uid": "app53170koningr116-12",
     "surface": "Trąmpczyn",
     "page": 1,
@@ -4302,6 +4322,15 @@
     "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
     "line": 27,
     "doc_line": 3
+   },
+   {
+    "uid": "app536047-2",
+    "surface": "Trąpczyna",
+    "page": 1,
+    "page_id": "0296_a1",
+    "scan": "APP_53_6_0_47_0296_a1-L2_01.jpg",
+    "line": 13,
+    "doc_line": 1
    },
    {
     "uid": "app53170koningr119-8",
@@ -15350,7 +15379,7 @@
  {
   "entity": "lukomia",
   "display": "Łukomia",
-  "count": 217,
+  "count": 218,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -15377,7 +15406,8 @@
    "app53170koningr119-6",
    "app53170koningr145-1",
    "app53170koningr153-1",
-   "app536046-1"
+   "app536046-1",
+   "app536047-2"
   ],
   "mentions": [
    {
@@ -17332,6 +17362,15 @@
     "scan": "APP_53_17_0_Konin_Gr_119_0131_a2-L6_01.jpg",
     "line": 31,
     "doc_line": 2
+   },
+   {
+    "uid": "app536047-2",
+    "surface": "Łukomia",
+    "page": 1,
+    "page_id": "0296_a1",
+    "scan": "APP_53_6_0_47_0296_a1-L2_01.jpg",
+    "line": 13,
+    "doc_line": 1
    }
   ]
  },
@@ -24939,7 +24978,7 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 129,
+  "count": 130,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -24987,6 +25026,7 @@
    "app536045-1",
    "app536046-1",
    "app536047-1",
+   "app536047-2",
    "oe1bu14525-23"
   ],
   "mentions": [
@@ -26132,6 +26172,15 @@
     "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
     "line": 27,
     "doc_line": 3
+   },
+   {
+    "uid": "app536047-2",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0296_a2",
+    "scan": "APP_53_6_0_47_0296_a2-L2_02.jpg",
+    "line": 15,
+    "doc_line": 2
    },
    {
     "uid": "app53170koningr121-1",
@@ -51318,6 +51367,35 @@
   ]
  },
  {
+  "entity": "ladek",
+  "display": "Lądek",
+  "count": 2,
+  "documents": [
+   "app536047-2",
+   "oe1bu9454-115"
+  ],
+  "mentions": [
+   {
+    "uid": "app536047-2",
+    "surface": "Lądek",
+    "page": 1,
+    "page_id": "0296_a1",
+    "scan": "APP_53_6_0_47_0296_a1-L2_01.jpg",
+    "line": 13,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu9454-115",
+    "surface": "Lądek",
+    "page": 2,
+    "page_id": "0232_a1",
+    "scan": "Oe_1_Bu_9454_0232_a1-L115_02.jpg",
+    "line": 8770,
+    "doc_line": 33
+   }
+  ]
+ },
+ {
   "entity": "popowo",
   "display": "Popowo",
   "count": 2,
@@ -52080,25 +52158,6 @@
     "scan": "Oe_1_Bu_14526_0169_a2-L32_01.jpg",
     "line": 8170,
     "doc_line": 135
-   }
-  ]
- },
- {
-  "entity": "ladek",
-  "display": "Lądek",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-115"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-115",
-    "surface": "Lądek",
-    "page": 2,
-    "page_id": "0232_a1",
-    "scan": "Oe_1_Bu_9454_0232_a1-L115_02.jpg",
-    "line": 8770,
-    "doc_line": 33
    }
   ]
  },

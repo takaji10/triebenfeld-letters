@@ -1,4 +1,4 @@
-One entry on two pages of a book of decrees of the land court at Konin for the years 1773 to 1777, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is a decree of the sitting of October 1777 on where the boundary decree of the commission had to be entered. It is in Latin and is one document. The reading is made from a microfilm and is uncertain in places. <!-- context -->
+Two entries on three pages of a book of decrees of the land court at Konin for the years 1773 to 1777, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). Both are decrees of the sitting of October 1777. The first rules on where the boundary decree of the commission had to be entered. The second sends a claim for money, which Stanisław Chełmski had bought from a merchant, to a hearing on the ground of Trąbczyn. Both are in Latin, and each is a document. The reading is made from a microfilm and is uncertain in places. <!-- context -->
 
 ### Historical background
 
@@ -16,12 +16,16 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The decree.** Rights, settlements and decrees must be brought in for entry in their own province. The court therefore orders Prusimski to bring the decree to the castle records at Konin within four weeks, on pain of outlawry [[1]].
 
+**The next entry: the debt bought from Tracholz.** Entry no. 17 is between the same parties. Chełmski sues under a transfer acknowledged at the castle court of Pyzdry in 1768, by which the merchant Jan Tracholz made over to him sums he claimed from the late Paweł Prusimski, and demands the contract for the sale of the pine wood of Trąbczyn. The court is shown that a decree of its own of 1766, between Tracholz and Antoni Prusimski, had sent the cause to a hearing on the ground, and that this was never held. It suspends the matter and fixes a hearing of the court on the ground of Trąbczyn for the Monday after Laetare Sunday of the coming year, at which Prusimski is to be ordered to produce the contract [[2]].
+
 ### Form and language
 
-The entry is no. 16 of its sitting. It begins halfway down leaf 182 verso and fills the page; for want of room the clerk wrote its end at the foot of the other side of the same leaf, under entry no. 15, and put a direction to it at the foot of the page. The Latin is in a small hand that abbreviates nearly every word, and the images are frames of a black and white microfilm. The transcription writes the abbreviations out where the word is sure and marks four places where it is not. <!-- context -->
+The first entry is no. 16 of its sitting. It begins halfway down leaf 182 verso and fills the page; for want of room the clerk wrote its end at the foot of the other side of the same leaf, under entry no. 15, and put a direction to it at the foot of the page. The Latin is in a small hand that abbreviates nearly every word, and the images are frames of a black and white microfilm. The transcription writes the abbreviations out where the word is sure and marks four places where it is not. <!-- context -->
 
 The entry has no date of its own. The heading of the sitting, which the editor transcribed from a page that is not among the images, reads: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctae Hedvigis Viduae Electae Dei videlicet Die 20 mensis Octobris Anno 1777 in Conin celebratis", before Franciszek Wierusz Walknowski, judge, Stefan Leszczyc Zielonacki, deputy judge, and Franciszek Ksawery Mikorski, notary, of the land of Kalisz. The deputy judge is one of the five commissioners who had adjourned the boundary cause in September 1776: [[unit:app53150kaliszgr425]]. <!-- context -->
 
+Entry no. 17 follows on leaf 183 recto, in the same hand. The editor had made a first reading of it; the text given here was read again from the film in the working session, and three words in it are marked as doubtful. It names the Monday after Laetare Sunday for the hearing on the ground. The citation to that hearing, entered at Konin in March 1778, names the Monday after Invocavit Sunday, three weeks earlier: [[unit:app53170koningr117]]. Which of the two is right is not settled. <!-- context -->
+
 ### Related holdings
 
-The commission's decree: [[unit:app53170koningr145]]. The search at Kalisz: [[unit:app53150kaliszgr424]]. <!-- context -->
+The suit on the debt bought from Tracholz, from 1778: [[unit:app53170koningr117]]. The commission's decree: [[unit:app53170koningr145]]. The search at Kalisz: [[unit:app53150kaliszgr424]]. <!-- context -->
