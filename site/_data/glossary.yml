@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 38
+  docs: 39
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 78
+  docs: 79
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 80
+  docs: 81
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 56
+  docs: 57
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 93
+  docs: 94
 - id: "ew"
   kind: "title"
   lang: "de"

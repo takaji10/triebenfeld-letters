@@ -1,0 +1,27 @@
+Ein Eintrag auf drei Seiten eines Dekretbuchs des Landgerichts in Konin für die Jahre 1781 bis 1791, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu). Er ist ein Dekret der Sitzung vom Herbst 1783 über einen Überfall von Leuten aus dem Hof Antoni Prusimskis auf einen Siedler Stanisław Chełmskis. Er ist lateinisch und bildet ein Dokument. <!-- context -->
+
+### Historischer Hintergrund
+
+Die Grenze zwischen Prusimskis Trąbczyn und Chełmskis Łukom war im Dezember 1782 nach dem Urteil des Krontribunals im Gelände bezeichnet worden: [[unit:app53170koningr153]]. Dieses Dekret zeigt die beiden Nachbarn binnen eines Jahres wieder vor Gericht, nun wegen einer Schlägerei. Die Olęder waren freie Zinsbauern, die beide Güter in den Wäldern entlang der alten Grenze angesetzt hatten; wem sie gehörten, war Teil des Grenzstreits gewesen. <!-- context -->
+
+Das Dekret beginnt mit einer älteren Sache. 1780 hatte Chełmski bei einem Ortstermin in Grab eine Verurteilung Prusimskis erwirkt, in dem Prozess um eine Forderung, die er vom Kaufmann Tracholz gekauft hatte: [[unit:app53170koningr117]], [[unit:app53170koningr118]]. Wer unter einer solchen Verurteilung stand, musste zuerst nachweisen, dass er überhaupt gehört werden durfte, ehe er sich auf eine neue Klage einlassen konnte. <!-- context -->
+
+### Inhalt
+
+**Das Recht, gehört zu werden.** Chełmski, Kläger, vertreten durch Józef Stablewski, hält Prusimski, dem Geladenen, die Verurteilung von 1780 entgegen. Prusimski weist sein Recht, gehört zu werden, nicht nach und unterwirft sich dem Ermessen des Gerichts. Das Gericht legt ihm eine Geldbuße auf, sofort zu zahlen bei Strafe der Verbannung, und lässt ihn zur Sache zu [[1]].
+
+**Die Untersuchung.** Weil es um Gewalttaten geht, ordnet das Gericht an, dass beide Parteien Zeugen unter Eid vernehmen, mit vorher ausgetauschten schriftlichen Fragen. Beide beschwören, dass ihre Zeugen nicht bestochen sind, und beide reichen ihre Protokolle ein [[1]].
+
+**Was das Gericht feststellt.** Leute im Dienst des Hofes Prusimskis kamen aus Trąbczyn, vom Weg abgeirrt, zur Wüstung Smoleniec, die zu Chełmskis Łukom gehört. Sie fragten den Olęder Jan Kłonica, wem das Dorf gehöre. Er antwortete, diese Siedler gehörten Chełmski. Prusimskis Unterkutscher nannte ihn einen Lügner und schlug ihn mit der Peitsche, der Kutscher schlug ihn mit einem Kiefernstock, bis dieser brach, und der Unterkutscher schrie, man solle ihn totschlagen. Kłonica floh in ein Erlengehölz. Die Leute gingen zu seinem Haus, holten gewaltsam einen Knecht heraus und schlugen ihn, auch auf dem Weg zum Krug von Tomice; der Knecht kam am nächsten Tag nach Hause. Ein Zeuge beschwerte sich noch an jenem Tag bei Prusimski selbst, der denselben Weg kam und versprach, die Sache zu Hause zu regeln [[1]].
+
+**Das Dekret.** Die Taten geschahen auf Chełmskis Grund. Die Untersuchung zeigt nicht, ob Prusimski davon wusste oder sie befahl, und beschuldigt sind nur der Kutscher Józef und der Unterkutscher Walenty; keiner von beiden ist mehr in Trąbczyn. Prusimski erklärt, er könne sie nicht stellen, und bietet einen Eid an. Das Gericht legt ihm auf, binnen sechs Wochen vor dem Burgamt Konin zu beschwören, dass er ihrer Festnahme, die Chełmski betrieben hatte, nicht zuvorgekommen ist und keine Möglichkeit hat, sie zu stellen, bei Strafe der Verbannung. Die Protokolle der Untersuchung bleiben in der Kanzlei [[1]].
+
+### Form und Sprache
+
+Der Eintrag ist Nr. 26 seiner Sitzung. Er füllt Blatt 239 verso und Blatt 240; aus Platzmangel schrieb der Schreiber sein Ende auf ein früheres Blatt, 236 verso, unter den Eintrag Nr. 22, und kennzeichnete beide Stellen. Die erste Seite ist in einer eiligen, stark abkürzenden Hand geschrieben; von den Feststellungen an schreibt eine zweite, klarere Hand. Die Aufnahmen sind Bilder eines Schwarzweiß-Mikrofilms. <!-- context -->
+
+Der Eintrag trägt kein eigenes Datum. Die Überschrift der Sitzung, die der Herausgeber von einer Seite transkribiert hat, die nicht unter den Aufnahmen ist, lautet: „Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis“. Der Eintrag steht sechsundzwanzig Blatt nach dieser Überschrift. <!-- context -->
+
+### Verwandte Bestände
+
+Die 1782 bezeichnete Grenze: [[unit:app53170koningr153]]. Der Prozess um die Forderung Tracholz und der Ortstermin in Grab: [[unit:app53170koningr117]], [[unit:app53170koningr118]]. Ein früheres Dekret desselben Gerichts, von 1777: [[unit:app536046]]. <!-- context -->

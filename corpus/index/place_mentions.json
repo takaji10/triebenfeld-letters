@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 758,
+  "count": 760,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -62,6 +62,7 @@
    "app536040-1",
    "app536045-1",
    "app536046-1",
+   "app536047-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -4193,6 +4194,24 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0674_a2-L27_03.jpg",
     "line": 150,
     "doc_line": 4
+   },
+   {
+    "uid": "app536047-1",
+    "surface": "Trąpczyn",
+    "page": 2,
+    "page_id": "0240_b2",
+    "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536047-1",
+    "surface": "Trąpczyn",
+    "page": 3,
+    "page_id": "0240_b3",
+    "scan": "APP_53_6_0_47_0240_b3-L1_03.jpg",
+    "line": 10,
+    "doc_line": 6
    },
    {
     "uid": "oe1bu14525-39",
@@ -24640,7 +24659,7 @@
  {
   "entity": "kolno",
   "display": "Kolno (Kulm)",
-  "count": 124,
+  "count": 125,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -24670,6 +24689,7 @@
    "app53170koningr118-26",
    "app53170koningr153-1",
    "app53170koningr153-2",
+   "app536047-1",
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12366-2",
    "iiihamdaiiinr12765-14",
@@ -24962,6 +24982,15 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
     "line": 142,
     "doc_line": 3
+   },
+   {
+    "uid": "app536047-1",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "0240_b1",
+    "scan": "APP_53_6_0_47_0240_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
     "uid": "oe1bu14525-13",
@@ -25823,7 +25852,7 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 121,
+  "count": 122,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -25865,6 +25894,7 @@
    "app536040-1",
    "app536045-1",
    "app536046-1",
+   "app536047-1",
    "oe1bu14525-23"
   ],
   "mentions": [
@@ -26946,6 +26976,15 @@
     "page_id": "0674_a1",
     "scan": "APP_53_17_0_Konin_Gr_118_0674_a1-L27_02.jpg",
     "line": 148,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536047-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0240_b2",
+    "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
+    "line": 6,
     "doc_line": 3
    },
    {

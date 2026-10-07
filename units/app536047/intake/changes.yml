@@ -1,0 +1,47 @@
+# What the check of APP 53/6/0/-/47 against the microfilm changes for anyone
+# who has written about this decree from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/6/0/-/47: the land court's decree of 1783 on the assault at Smoleniec"
+changes:
+- importance: significant
+  what: "A line was skipped on leaf 239 verso, between two \"et quoniam\". The film has: \"et quoniam reproducit Ideo Teneri Illrem M. Prusimski docere de Loco Standi adinvenit Et quoniam n~ docet Imo moderamini Judicii sui se subiicit\". So it is the objecting party (Chełmski) who is to produce a proxy and does; the court then finds PRUSIMSKI bound to show his right of standing, and he does not show it."
+  was: "censet et quoniam [n~?]d[a/o?]cet Imo moderamini Judicii sui se subiecet"
+  now: "censet et quoniam reproducit Ideo Teneri Illustrem M. Prusimski docere de Loco Standi adinvenit Et quoniam non docet Imo moderamini Judicii sui se subiicit"
+  english_was: "the Court holds that, for his part, he is bound to produce a proxy [as required] by the objecting party; and since he shows no cause, but rather shall submit himself"
+  english_now: "the Court holds that a proxy is to be produced on the part of the objecting party; and since he produces one, it therefore finds the Illustrious Right Honourable Prusimski bound to show his right of standing; and since he does not show it, but rather submits himself"
+- importance: significant
+  what: "What is objected against Prusimski is a CONDEMNATION obtained at Grab on the Monday after the Nativity of the Virgin 1780 (11 September), not a \"Condescension\": the film has \"Cond~nem\", and the Tribunal's decree of 1782 (Konin Gr.153) names the same condemnation. \"Decreto Tribunalitio\": the word is added in the margin."
+  was: "ad objectam Condescensionem in fundo Bonorum villae Grab ... in lucro contraven~ Decreto Tribunalis obtentam et publicatam"
+  now: "ad objectam Condemnationem in fundo Bonorum villae Grab ... in lucro contraven~ Decreto Tribunalitio obtentam et publicatam"
+  english_was: "regarding the objected Condescension in the estate of the village of Grab ... to his advantage, a contravention of the Decree of the Tribunal, obtained and published"
+  english_now: "regarding the objected condemnation at the estate of the village of Grab ... to his advantage, for contravention of the Tribunal's Decree, obtained and published"
+- importance: significant
+  what: "The order for the inquiry, read: the witnesses are examined on interrogatories \"drawn up and communicated to each other\", after the oath on the witnesses; and the unread word is \"Inculpatorum\": the production of the ACCUSED named in the plaintiff's citation is what the court puts off until the inquiries are read (the sentence runs over the page)."
+  was: "praeciis conscribendas et abi[n/r?][?]ie[s?] super incorrupt[o?] testium Juramentho educant et expediant addito Ministeriali ad pronunciandum Juramenthi rotham statuitionem In[?]tpator[um?] Termino Partis actoreae comprehensorum"
+  now: "praeciis conscribendis et ab invicem communicandis Interrogatoriis ac praestando super incorrupto testium Juramentho educant et expediant addito Ministeriali ad pronunciandum Juramenthi rotham statuitionem Inculpatorum Termino Partis actoreae comprehensorum"
+  english_was: "and for the form of the appointment of the matters interposed, comprehended within the Term of the Plaintiff Party. / The Court adjourned proceedings until the reading of the Inquisitions."
+  english_now: "the production of the accused comprehended within the Term of the Plaintiff Party / the Court suspends until the reading of the Inquisitions."
+- importance: fact
+  what: "The servant who came home the next day is \"praefatum famulum\", the aforesaid servant; your \"prolatum\" had become \"having been released\". Kłonica said that \"these very\" settlers (hoscemet) belonged to Chełmski."
+  was: "prolatum famulum ... Hollandos hoscem et ad Magnificum Chełmski"
+  now: "praefatum famulum ... Hollandos hoscemet ad Magnificum Chełmski"
+  english_was: "the servant, having been released, returned home ... these Hollanders also belonged"
+  english_now: "the aforesaid servant returned home ... these very Hollanders belonged"
+- importance: fact
+  what: "The end of the decree: Prusimski is to swear \"hinc et ab actu praesenti in sex septimanis\", from now and from this act within six weeks; the inquiries are those \"eductas\", now conducted; and the closing letters are \"D P Robore\" (Decreti Praesentis Robore)."
+  was: "[b?]iv[ic?] et ab actu praesenti ... ad praesens [?]ductas ... declarat D [R?] Robore"
+  now: "hinc et ab actu praesenti ... ad praesens eductas ... declarat D P Robore"
+- importance: fact
+  what: "The clerk's two directions were not in your text: \"Videatur Continuatio sub No 22do\" at the foot of leaf 240, and \"Continuatio ex No 26to.\" over the end on leaf 236 verso. Your leaf mark [236v] is right: the entry ends on the earlier leaf, under entry no. 22."
+  was: "(not transcribed)"
+  now: "Videatur Continuatio sub No 22do / Continuatio ex No 26to."
+- importance: fact
+  what: "Your third photograph (306) has entry no. 43 of the sitting of 3 May 1784, on leaf 295 verso, between Chełmski and Prusimski. Your file has the leaf mark and that sitting's heading but no text. It is not built."
+  was: "[273] heading, [295v] empty"
+  now: "(not built)"
+- importance: wording
+  what: "Smaller readings: \"medium vadii\", \"per medium\", \"in experimento siquidem\", \"Termini Partis Actoreae et manifestationum\", \"Juramenthum ... praestiterunt\", \"aufugisse\", \"superiusdescripta\"."
+  was: "medius vadii / per mediu[s?] / in experiment[o?] s[i?] quidem / Juramenthus / au[f?]ugisse / superiusdescr[ipt?]a"
+  now: "medium vadii / per medium / in experimento siquidem / Juramenthum / aufugisse / superiusdescripta"

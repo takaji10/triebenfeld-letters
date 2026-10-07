@@ -244,3 +244,22 @@ the editor reviews. Nothing is published before that.
   de standi"; the gap after "ex officio" on leaf 1391 verso.
 - Your info.txt dates the act at Hunt's house to 17 October 1782; it is of
   28 November. You may want to correct the note.
+
+### APP 53/6/0/-/47 (1783)
+
+- Your third photograph (306) has entry no. 43 of the sitting of 3 May 1784
+  on leaf 295 verso, Chełmski against Prusimski, and your file has its leaf
+  mark and the heading of that sitting but no text. **Default: not built.**
+  Do you want it transcribed? The film is as legible as for no. 26.
+- The entry is dated to the year 1783 from the heading of the sitting (20
+  October 1783, leaf 213, not photographed). **Default: year only**, as for
+  53/6/0/-/46.
+- "Albertum [T/F?]eromski", Prusimski's proxy. The first letter is the
+  clerk's T. **Default: left as you have it.**
+- "procuratorem": the film has "procurat~m", which could be "procuratorium",
+  a power of attorney. **Default: your reading kept.**
+- The last two lines of writing on leaf 236 verso have pen lines along
+  them. **Default: taken for the rule that closes the entry, not a
+  deletion, and the text kept.** Please look.
+- Your translator's notes are left out: most discussed readings that the
+  check settled. **Default: left out.**

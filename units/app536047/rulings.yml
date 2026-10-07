@@ -1,0 +1,52 @@
+# Editorial rulings for 53/6/0/-/47 (APP).
+#
+# One document: entry no. 26 of the sitting, which fills leaf 239 verso and
+# leaf 240 and ends on leaf 236 verso (the clerk's own directions: "Videatur
+# Continuatio sub No 22do", "Continuatio ex No 26to"). A second entry that
+# the editor photographed, no. 43 on leaf 295 verso, is not transcribed and
+# not built (docs/PRUSIMSKI_QUESTIONS.md). Established 2026-10-07.
+
+places:
+  # "in Conin Celebratis", the heading of the sitting.
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred: {}
+
+  # The date of the sitting the entry stands under:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # The heading, which the editor transcribed, is on leaf 213: "Feria Secunda
+  # post Festum Sanctae Haedvigis ... Die vigesima mensis Octobris Anno
+  # Domini Millesimo Septingentesimo Octuagesimo Tertio in Conin Celebratis".
+  # Entry no. 26 stands twenty-six leaves on; a sitting ran for weeks, so
+  # only the year is claimed.
+  sitting:
+    "1": [1783, null, null, "year", "The sitting opened at Konin on 20 October 1783. Its heading is on leaf 213, which is not among the scans; the entry itself, no. 26 of the sitting, has no date."]
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lukomia, trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0240_b1", "0240_b2", "0240_b3"]
+
+damage:
+  letters: []

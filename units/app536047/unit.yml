@@ -1,0 +1,87 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app536047
+ref: 53/6/0/-/47
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  A decree of the land court at Konin of 1783 on an assault: men of Antoni
+  Prusimski's household, having lost their way, beat an Olęder settler of
+  Chełmski's and a servant at Smoleniec; the court finds only the coachman and
+  under-coachman accused and puts Prusimski to an oath that he did not help
+  them escape arrest.
+title_de: >-
+  Ein Dekret des Landgerichts in Konin von 1783 über einen Überfall: Leute vom
+  Hof Antoni Prusimskis, die sich verirrt hatten, schlugen in Smoleniec einen
+  Olęder Chełmskis und einen Knecht; das Gericht sieht nur den Kutscher und
+  den Unterkutscher beschuldigt und legt Prusimski den Eid auf, dass er sie
+  nicht der Festnahme entzogen hat.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Decreta [protocollon] 1781-1791
+date_span: 1783
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans are cut at the fold by intake/holding.py --crop. The editor
+# approves or moves the folds on review/app536047/folds/ before the
+# holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Decreta [protocollon] 1781-1791 (53.6.0.-.47)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_6_0_47
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry, no. 26 of its sitting, in a book of decrees of the land court of
+  Kalisz sitting at Konin, in Latin, from the sitting that opened on 20
+  October 1783. Stanisław Chełmski, Treasurer of the land of Wschowa,
+  plaintiff, against Antoni Prusimski of Kolno, Starost of Niszczewice. The
+  court first deals with a condemnation that Chełmski had obtained against
+  Prusimski at the sitting on the ground at Grab in 1780, lets Prusimski be
+  heard on payment of a penalty, and orders inquiries with sworn witnesses.
+  From them it finds that men of Prusimski's household from Trąbczyn, off
+  their road at the deserted settlement of Smoleniec on Chełmski's Łukom, beat
+  the Olęder settler Jan Kłonica and a servant; that the inquiries do not show
+  whether Prusimski knew or ordered it; and that the coachman Józef and the
+  under-coachman Walenty, who alone are accused, are no longer at Trąbczyn.
+  Prusimski is to swear within six weeks at the castle office of Konin that he
+  did not forestall their arrest and cannot produce them.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  An entry of a book of decrees of 1783, in formulaic and abbreviated Latin,
+  read from a microfilm. The English is the editor's own translation. "Locus
+  standi" is the right to be heard; "vadium" a money penalty; "inquisitio" an
+  examination of sworn witnesses; "Hollandus" an Olęder settler; "evasio"
+  clearing oneself by oath; "rotha" the form of an oath.

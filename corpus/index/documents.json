@@ -4226,6 +4226,58 @@
   "permalink": "/documents/app53170koningr118/27/"
  },
  {
+  "uid": "app536047-1",
+  "unit": "app536047",
+  "letter_id": "1",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1783",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 7,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0240_b1",
+    "image": "APP_53_6_0_47_0240_b1-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0240_b2",
+    "image": "APP_53_6_0_47_0240_b2-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0240_b3",
+    "image": "APP_53_6_0_47_0240_b3-L1_03.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "lukomia",
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 1",
+  "path": "documents/app536047-1.json",
+  "text_path": "text/app536047-1.txt",
+  "permalink": "/documents/app536047/1/"
+ },
+ {
   "uid": "oe1bu14525-13",
   "unit": "oe1bu14525",
   "letter_id": "13",
