@@ -20,21 +20,19 @@ batch. Status `translated`. Built and verified locally, **not published**.
   Gr.119, document 7); the first build had "did not forestall".
 - **Date**: `sitting`, year 1783 only; heading of 20 October 1783 on leaf
   213, not photographed.
-- **Document 2 is entry no. 43** (leaves 295 verso and 296, 306.jpg, pages
-  `0296_a1`, `0296_a2`), added on 2026-10-07 at the editor's word: transcribed
-  from the film and translated in session (`NO43A`, `NO43B`, `EN43A`, `EN43B`
-  in `holding.py`). Skórzewski against Chełmski over the boundary of
-  Biskupice and Łomów; Prusimski and Stadnicki cited. On the page of changes
-  as a new source for the editor to read. The fold of 306.jpg was set by eye and
-  approved by the editor as it is (2026-10-07). The editor finds the entry
-  "not really relevant to the project"; it is left in as built until they
-  say whether it should come out.
-- **Zeromski.** Document 1 had "Albertum [T/F?]eromski"; document 2 writes the
-  same proxy "Zeromski" twice, plainly. Corrected in document 1 at the
+- **Entry no. 43 is not in the edition** (leaves 295 verso and 296, 306.jpg,
+  sitting of 3 May 1784: Skórzewski against Chełmski over the boundary of
+  Biskupice and Łomów; Prusimski and Stadnicki cited). It was transcribed
+  and translated in session on 2026-10-07 at the editor's word, built as
+  document 2, and taken out the same day at their word: not relevant to
+  the project. Its text is kept in `intake/entry_43.md`. Do not build it
+  again without the editor's word.
+- **Zeromski.** Document 1 had "Albertum [T/F?]eromski"; entry no. 43 writes the
+  same proxy "Zeromski", plainly. Corrected in document 1 at the
   editor's word (`intake/full_check.json`, applied with `--full`; not to be
   applied again).
 - **"Capitanealis" stands.** Document 1 has "medium vadii Capitanealis",
-  written out on the scan; document 2 has "medium Vadii Capitalis". I had
+  written out on the scan; entry no. 43 has "medium Vadii Capitalis". I had
   told the editor that document 1 had an abbreviation there. It does not;
   nothing is changed.
 - **Left as the editor has them:** "procuratorem", "ex monte", "gasam". The pen lines along the last two lines of writing on
@@ -47,4 +45,4 @@ batch. Status `translated`. Built and verified locally, **not published**.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The editor's word on whether document 2 stays in the edition.
+- Nothing else.

@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 68
+  docs: 67
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "vollmacht"
   initial_de: "V"
-  docs: 63
+  docs: 62
 - id: "bevollmaechtigter"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 91
+  docs: 90
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 85
+  docs: 84
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 62
+  docs: 61
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 107
+  docs: 106
 - id: "ew"
   kind: "title"
   lang: "de"

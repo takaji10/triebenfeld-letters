@@ -1,4 +1,4 @@
-Two entries on five pages of a book of decrees of the land court at Konin for the years 1781 to 1791, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The first is a decree of the sitting of autumn 1783 on an assault by men of Antoni Prusimski's household on a settler of Stanisław Chełmski's. The second, of the sitting of May 1784, fixes a hearing on the ground to mark the boundary between Chełmski's Łomów and the neighbouring estate of Biskupice; Prusimski is cited in it. Both are in Latin, and each is a document. <!-- context -->
+One entry on three pages of a book of decrees of the land court at Konin for the years 1781 to 1791, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is a decree of the sitting of autumn 1783 on an assault by men of Antoni Prusimski's household on a settler of Stanisław Chełmski's. It is in Latin and is one document. <!-- context -->
 
 ### Historical background
 
@@ -18,15 +18,11 @@ The volume belongs to the archive's fonds "Księgi sądu ziemskiego w Koninie", 
 
 **The decree.** The acts were done on Chełmski's ground. The inquiry does not show whether Prusimski knew of them or ordered them, and only the coachman Józef and the under-coachman Walenty are accused; neither is at Trąbczyn any longer. Prusimski says he cannot produce them and offers an oath. The court orders him to swear within six weeks before the castle office at Konin that the arrest Chełmski had obtained did not reach them, and that he has no means of producing them, on pain of banishment. The records of the inquiry stay in the chancery [[1]].
 
-**The later entry: the boundary of Biskupice and Łomów.** Entry no. 43 of a later sitting. Michał Drogosław Skórzewski, sub-chamberlain of Poznań and heir of Biskupie or Bystrzyca, and Chełmski, heir of Łukomia and Łomowa, sue each other. Franciszek Stadnicki, Starost of Ostrzeszów, with his children, and Prusimski are cited with them. The condemnation of 11 September 1780 is raised against Prusimski again, and again he is admitted on payment of a penalty. The court then fixes a hearing on the disputed ground for 16 July: the sub-chamberlain of the district of Kalisz is to mark the boundary, and the court itself or one of the chamberlains is to inquire into the acts of violence and the damage [[2]].
-
 ### Form and language
 
-The first entry is no. 26 of its sitting. It fills leaf 239 verso and leaf 240; for want of room the clerk wrote its end on an earlier leaf, 236 verso, under entry no. 22, and marked both places. The first page is in a hurried hand that abbreviates heavily; from the findings on, a second and clearer hand writes. The images are frames of a black and white microfilm. <!-- context -->
+The entry is no. 26 of its sitting. It fills leaf 239 verso and leaf 240; for want of room the clerk wrote its end on an earlier leaf, 236 verso, under entry no. 22, and marked both places. The first page is in a hurried hand that abbreviates heavily; from the findings on, a second and clearer hand writes. The images are frames of a black and white microfilm. <!-- context -->
 
 The entry has no date of its own. The heading of the sitting, which the editor transcribed from a page that is not among the images, reads: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districualibus Feria Secunda post Festum Sanctae Haedvigis Viduae Electae videlicet Die vigesima mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Tertia in Conin Celebratis". The entry stands twenty-six leaves after that heading. <!-- context -->
-
-Entry no. 43 fills leaf 295 verso and leaf 296 and is in the clearer hand. The editor photographed it and had not transcribed it; the text given here was read from the film in the working session, and a few words in it are marked as doubtful. It has no date of its own. The heading of its sitting, which the editor transcribed from a page that is not among the images, reads: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Dominicam Jubilate proxima videlicet die Tertia mensis Maii Anno Domini 1784o in Conin celebratis". The hearing it fixes was therefore for 16 July 1784. Nothing in the edition says whether it was held. <!-- context -->
 
 ### Related holdings
 

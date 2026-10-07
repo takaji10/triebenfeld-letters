@@ -8,18 +8,15 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Two decrees of the land court at Konin: one of 1783 on an assault, in which
-  men of Antoni Prusimski's household beat an Olęder settler of Chełmski's
-  and a servant at Smoleniec and Prusimski is put to an oath that he cannot
-  produce the two men accused; and one of 1784 fixing a hearing on the ground
-  to mark the boundary between Chełmski's Łomów and Skórzewski's Biskupice.
+  A decree of the land court at Konin of 1783 on an assault: men of Antoni
+  Prusimski's household, having lost their way, beat an Olęder settler of
+  Chełmski's and a servant at Smoleniec; the court finds only the coachman and
+  under-coachman accused and puts Prusimski to an oath that the arrest did not reach them and that he cannot produce them.
 title_de: >-
-  Zwei Dekrete des Landgerichts in Konin: eines von 1783 über einen Überfall,
-  bei dem Leute vom Hof Antoni Prusimskis in Smoleniec einen Olęder Chełmskis
-  und einen Knecht schlugen und Prusimski der Eid auferlegt wird, dass er die
-  beiden Beschuldigten nicht stellen kann; und eines von 1784, das einen
-  Ortstermin zur Abgrenzung von Chełmskis Łomów gegen Skórzewskis Biskupice
-  ansetzt.
+  Ein Dekret des Landgerichts in Konin von 1783 über einen Überfall: Leute vom
+  Hof Antoni Prusimskis, die sich verirrt hatten, schlugen in Smoleniec einen
+  Olęder Chełmskis und einen Knecht; das Gericht sieht nur den Kutscher und
+  den Unterkutscher beschuldigt und legt Prusimski den Eid auf, dass der Arrest sie nicht erreicht hat und er sie nicht stellen kann.
 # The name of the volume in the archive's inventory, as the editor's folder
 # gives it. Kept for reference; nothing displays it.
 archive_title: >-
@@ -30,7 +27,7 @@ archive_title: >-
 # pozwy, ekstrakty, inkwizycje". The description of the court is given in
 # about.md under "Historical background".
 fonds: Księgi sądu ziemskiego w Koninie
-date_span: 1783-1784
+date_span: 1783
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
 
@@ -82,12 +79,6 @@ description: >-
   whether Prusimski knew or ordered it; and that the coachman Józef and the
   under-coachman Walenty, who alone are accused, are no longer at Trąbczyn.
   Prusimski is to swear within six weeks at the castle office of Konin that the arrest did not reach them and that he cannot produce them.
-  A second entry, no. 43 of the sitting that opened on 3 May 1784, is between
-  Michał Skórzewski, heir of Biskupie or Bystrzyca, and Chełmski, heir of
-  Łukomia and Łomowa, with Franciszek Stadnicki and Prusimski cited: the
-  condemnation of 1780 is raised against Prusimski again, and the court
-  fixes a hearing on the disputed ground for 16 July to mark the boundary
-  between Biskupice and Łomowa or Łukom.
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.

@@ -1832,7 +1832,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The fonds of 53/6 ("Księgi sądu ziemskiego w Koninie") and 53/15 ("Księgi sądu i urzędu grodzkiego w Kaliszu"), with the archive's description, are on the nine holdings' pages; the Skanoteka watermark is noted on the nine holdings whose photographs carry it.
 - The page of changes marks what was written after the editor read it ("New"), and counts it at the top.
 - In 53/6/0/-/47, entry no. 26, Prusimski's proxy is "Zeromski" (Wojciech Żeromski), on the witness of entry no. 43 (the editor, 2026-10-07).
-- Figures: 566 documents on 1,835 pages in 36 holdings; 742 marks of doubt; 561 translated.
+- Entry no. 43 of 53/6/0/-/47, added earlier the same day, was taken out again at the editor's word: it is a suit between Skórzewski and Chełmski over the boundary of Biskupice and Łomów and not relevant to the project. Its text is kept in the holding (`intake/entry_43.md`), because the reading "Zeromski" in entry no. 26 rests on it.
+- Figures: 565 documents on 1,833 pages in 36 holdings; 739 marks of doubt; 560 translated.
 
 ## Deliverables produced
 

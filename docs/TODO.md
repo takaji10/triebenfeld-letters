@@ -178,10 +178,8 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 
 - [x] Light touch, as you asked: four pages and the signatures read against
       the scans, 23 readings corrected, 93 dropped accents put right.
-- [ ] **You: move the fold lines** where they cross writing (you found
-      many that do, 2026-10-07). `review/app53170koningr145/folds/` is now
-      a page on which you click where each fold should be; press "Save my
-      folds" and tell me, and I cut the pages again from your file.
+- [x] The fold lines: you placed them on 2026-10-07 with the other
+      holdings', and the pages are cut from your file.
 - [ ] **You: say when to publish it.** Built and verified here, committed
       locally, not pushed.
 - [x] All 122 pages checked against the scans for dropped phrases
@@ -214,7 +212,7 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 ## 7. The Prusimski era: twenty court-book holdings, 1589 to 1788 (added 2026-10-06 and 10-07)
 
 Every folder from Poznań that has a text is built: twenty holdings beside
-Konin Gr.145, 93 documents, from the order of 1589 to a register entry of
+Konin Gr.145, 92 documents, from the order of 1589 to a register entry of
 1788. Each entry of a court book is a document; your transcription and your
 English are kept and were corrected against the scans; summaries in both
 languages, each statement checked. Built and verified here, committed
@@ -240,15 +238,13 @@ Your review, in this order:
       entries are marked **New** in green (39 entries), and the list at the
       top says which holdings have them. Now 57 significant, 136 facts,
       26 wording.
-- [ ] **Read the two new documents** (on the page of changes, each a "new
-      source"): 53/6/0/-/46 entry no. 17 (the decree of 1777 on the debt
-      bought from Tracholz) and 53/6/0/-/47 entry no. 43 (the hearing
-      fixed in 1784 for the boundary of Biskupice and Łomów).
+- [ ] **Read the new document** (on the page of changes, a "new source"):
+      53/6/0/-/46 entry no. 17, the decree of 1777 on the debt bought from
+      Tracholz. It sets the hearing for the Monday after Laetare; the
+      citation in Konin Gr.117 has Invocavit. Not needed before publishing.
 - [x] The fold of 306.jpg of 53/6/0/-/47: fine as set (you, 2026-10-07).
-- [ ] **Entry no. 43 of 53/6/0/-/47:** you find it not really relevant to
-      the project. It is still in the edition as the holding's second
-      document. Say whether it should come out; its text is kept either
-      way.
+- [x] Entry no. 43 of 53/6/0/-/47: taken out at your word (2026-10-07);
+      its text is kept in `units/app536047/intake/entry_43.md`.
 - [x] **The questions that mattered most**: answered on 2026-10-07 and
       carried out (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers").
       The full check of the four holdings is done; Górski, the uncle,

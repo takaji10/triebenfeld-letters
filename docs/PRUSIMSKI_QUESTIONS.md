@@ -69,12 +69,14 @@ set; scans 680 and 681 of Konin Gr.119 are not relevant; "you can fix the
 Zeromski/Capitalis part". Done: the proxy in entry no. 26 is "Zeromski"
 (corrected on the witness of entry no. 43). "Capitanealis" in entry no. 26
 is left: the scan has the word written out, and what I had told the
-editor about it was wrong. Entry no. 43 is left in the edition as built
-until the editor says whether it should come out.
+editor about it was wrong. Asked whether entry no. 43 should then come out, the editor said: "Take
+it out." Done the same day: 53/6/0/-/47 is one document again, and the
+text of entry no. 43 is kept as a record in the holding
+(`intake/entry_43.md`).
 
-Still open after this: the editor's word to publish; whether entry no. 43
-of 53/6/0/-/47 stays in; their reading of the new document of 53/6/0/-/46;
-the smaller questions below, each built on its default.
+Still open after this: the editor's word to publish. Not holding it up:
+their reading of the new document of 53/6/0/-/46, and the smaller
+questions below, each built on its default.
 
 ## For every holding
 

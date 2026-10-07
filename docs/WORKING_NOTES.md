@@ -463,6 +463,15 @@ Where the rest is:
   the scan of no. 26 have "Capitanealis", written out; the editor then told
   me to "fix" it, and there was nothing to fix. A remark about another
   document is checked against that document's text and scan first.
+- **Ask whether an entry matters before building it.** Entry no. 43 of
+  53/6/0/-/47 was transcribed, translated, built and written up, and the
+  editor then found it not relevant and had it taken out: Prusimski is only
+  cited in it. Before an untranscribed entry is built, tell the editor in a
+  sentence who the parties are and what it decides, and let them say. To
+  take a document out: restore the holding's files from the commit before it
+  (`git show <commit>:<file>`), keep the text as a record in `intake/`,
+  clear what the build wrote (the letter page, the translation, the corpus
+  files, the scan images, the cache file) and build the holding again.
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer

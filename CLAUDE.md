@@ -240,8 +240,8 @@ so check them.
   holding is built on the default. Nothing is published before the review.
 - **The run is finished: every court-book folder with a text is built**
   (2026-10-07), verified, committed locally, **not pushed, not published**.
-  Twenty-one Prusimski-era holdings, 94 documents, 1589 to 1788; the edition
-  has 566 documents in 36 holdings. Beside Konin Gr.145 they are:
+  Twenty-one Prusimski-era holdings, 93 documents, 1589 to 1788; the edition
+  has 565 documents in 36 holdings. Beside Konin Gr.145 they are:
   **53/6/0/-/17** (`app536017`, 1589), **-/36** (`app536036`, 1644), **-/40**
   (`app536040`, 1728), **-/45** (`app536045`, 1763), **-/46** (`app536046`,
   1777), **-/47** (`app536047`, 1783); **Kalisz Gr.414**
@@ -262,11 +262,11 @@ so check them.
   Gr.119** (every page read; the record is each holding's
   `intake/full_check.json`, applied once by `holding.py --full`; no document
   is marked rough); **Górski** in the English, "Gorski" kept in the
-  transcription; **two entries transcribed in session** as document 2 of
-  53/6/0/-/46 (no. 17) and of 53/6/0/-/47 (no. 43). **What waits on the
-  editor:** their word to publish; whether entry no. 43 of 53/6/0/-/47,
-  which they find not really relevant, stays in the edition (it is in, as
-  built). The fold of 306.jpg is approved as set. **The account of the
+  transcription; **entry no. 17 of 53/6/0/-/46 transcribed in session** as that holding's
+  document 2. (Entry no. 43 of 53/6/0/-/47 was transcribed too and taken out
+  again at the editor's word, as not relevant; its text is kept in that
+  holding's `intake/entry_43.md`. Do not build it again.) **What waits on the
+  editor:** their word to publish, and nothing else that holds it up. **The account of the
   era waits** until they have supplied the missing transcriptions. The
   backlog (headings of sittings, the middle of Konin Gr.136, three entries
   of 53/6/0/-/17) is in `docs/TODO.md`, section 7. The seven untranscribed
