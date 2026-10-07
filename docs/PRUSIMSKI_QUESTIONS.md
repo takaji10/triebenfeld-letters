@@ -146,3 +146,45 @@ the editor reviews. Nothing is published before that.
 - The right half of photograph 098 (leaf 95 recto) carries only the heading
   of the sitting of 9 October 1775. **Default: not shown as a page; the
   date is taken from it.**
+
+### APP 53/17/0/-/Konin Gr.117 (1778 and 1779)
+
+- This holding had the light check your plan allows for the long ones: five
+  of eighteen pages word for word, every heading and date line, the judges'
+  names. The long Latin of seven documents stands as you first read it, with
+  about 190 marks of doubt, and is flagged as a rough transcription.
+  **Default: built so.** Do you want the full check?
+- "Patrii" / "Patris" is "Patrui" (seen on leaf 55, written "Patruj"): Paweł
+  Prusimski is Antoni's uncle, Katarzyna the uncle's widow. **Default:
+  corrected in all sixteen places, and "father" made "uncle" in the English
+  fifteen times**, without looking at each. Please confirm.
+- The decree of 20 October 1777 that these protests attack (the sitting on
+  the ground at Trąbczyn, the claim bought from Tracholz) is probably entry
+  no. 17 of 53/6/0/-/46, which you transcribed and I did not build. It now
+  matters to this holding. Do you want it worked in?
+- The note on leaf 82 verso points to a text "ex Opposito Sub signo #". The
+  top of leaf 83 is the end of another entry, so the text is not on the
+  photographs. **Default: said so on the page.** Is there a loose leaf?
+- Chełmski's protest on leaf 57 verso has no heading on the photograph (it
+  begins under a barred space he signed, with "in vim Diligentiae" above
+  its first line). **Default: built without a heading.** Leaf 57 recto
+  would show it, and the date of the sitting.
+- The heading on leaf 58 reads "M. Chełmski contra Magnificum Sokołowski
+  Manifestatur"; the text names no Sokołowski. **Default: left as written,
+  and the summary says so.**
+- Dates not on a photographed page. **Defaults:** Prusimski's first protest,
+  March 1778; the three entries on leaves 57 verso to 58 verso, April 1778
+  (between 1 and 3 April); the note on leaf 82 verso, 1778 (between 25 April
+  and 6 May); the note on leaf 507 verso, 1779 (its heading is cut off at
+  the top of the photograph).
+- Left as you have them: "Super Manifestationem Antonii Prusimski Starosti
+  Niesczevicensis" (the scan has his autograph signature in Polish);
+  "[T?]urnata", the name of the mound; "Joachimenski[?]" in the report of
+  January 1779 (elsewhere Jachimowicz, Joachimowicz); "In praepositurae
+  Trąmpczynen~", which your English gives as "at the estate" and which is
+  the provost's house.
+- "Condescensio" is "condescension term" and "Condescension Court" in your
+  English here; your translation of the decree of 1775 has "field
+  inspection" for "kondescensja". **Default: both left as you wrote them;**
+  the holding's page explains the word as a sitting of the court on the
+  ground.

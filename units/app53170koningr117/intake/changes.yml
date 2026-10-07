@@ -1,0 +1,67 @@
+# What the check of APP 53/17/0/-/Konin Gr.117 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py. The check was a light one: five of
+# eighteen pages word for word, with every heading, date line and judge's
+# name.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.117: thirteen register entries, 1778 and 1779"
+changes:
+- importance: significant
+  what: "Paweł Prusimski is Antoni's UNCLE, not his father, and Katarzyna, born Rozdrażewska, is the uncle's widow. The word is \"Patrui\" (written \"Patruj\" on leaf 55, where I looked at it three times); your text had \"Patrii\" or \"Patris\" sixteen times beside \"Patruum\" and \"Patruo\", and your English \"father\" fifteen times. I corrected all of them on that ground; I did not look at each."
+  was: "Relictae Patrii sui / Relictae viduae Patris sui / substantiam Patrii Sui"
+  now: "Relictae Patrui sui / Relictae viduae Patrui sui / substantiam Patrui Sui"
+  english_was: "the widow of his father ... his father's general estate ... the barren decease both of the plaintiff's father and of his widow"
+  english_now: "the widow of his uncle ... his uncle's general estate ... the barren decease both of the plaintiff's uncle and of his widow"
+- importance: significant
+  what: "In Prusimski's first protest it is Tracholz, not Chełmski, who is said to have been the uncle's debtor: \"cui non olim Patruus Manifestantis sed Ipse Patruo Debitor Extitit\". The second citation to the Tribunal says the same (sums \"contracted by Tracholz and owed to\" the uncle). I did not re-read this passage on the scan; it is the grammar of your own transcription."
+  was: "(English) a right for which not the manifestant's late uncle but Chełmski himself had stood as debtor to the uncle"
+  now: "(English) to whom the manifestant's late uncle had not been debtor, but who had himself been debtor to the uncle"
+- importance: significant
+  what: "The citation of 7 March 1778 orders Prusimski to PRODUCE four subjects at the sitting on the ground (\"Statuas\"), who by the citation are arrested in his keeping; it addresses him throughout as \"you\" (\"Qui Te Citat\", \"de bonis Tuis\", \"Quatenus Tu\")."
+  was: "Qui se citatum seu potius ... Quatenus [s?]u ... de bonis suis Subditos qui praesent[e?] Cittone~ apud se Arestant statim"
+  now: "Qui Te Citat seu potius ... Quatenus Tu ... de bonis Tuis Subditos qui praesenti Cittone~ apud Te Arestantur Statuas"
+  english_was: "who, having presented himself as cited ... insofar as you ... hold under arrest at their place forthwith upon the present citation the laboring subjects of his estates"
+  english_now: "who cites you ... to the effect that you ... produce the laboring subjects of your estates, who by the present citation are placed under arrest in your keeping"
+- importance: significant
+  what: "Nosalski's protest (leaves 359 and 359 verso), read whole. His people were carting trees \"on sledges\" (\"in Trahibus\", not beams); Prusimski's men \"did not blush to draw the penalties upon themselves\"; and what he offers is to prove the violence by inquiry and to have the two men SHUT OUT FROM GIVING TESTIMONY in the cause. The two are called \"Laboriosi\", working men (your \"ex Labris\", from the lips). He is \"Nosalski Thesaurarida Czerniechoviensis\", son of a treasurer of Czernihów, not treasurer of Czernichów."
+  was: "in [T?]ra[b?]ibus arboris vechen~ ... cum Trachibus ... paenas insetrahere ... deductiorum a per hibendoque hac in Causa Testimonio relegatarum Complicitatemque delicti S[e/c]orsivis punitis probaturum ... ex Labris~ ... Martinus [P?]alski Thesauranda"
+  now: "in Trahibus arbores vehentibus ... cum Trahibus ... paenas in se trahere ... deducturum a perhibendoque hac in Causa Testimonio relegaturum Complicitatemque delicti Seorsivis punctis probaturum ... ex Laboriosis ... Martinus Nosalski Thesaurarida"
+  english_was: "carrying timber ... together with the timber ... they did not blush to inflict penalties [on them] ... through a full sworn inquiry of witnesses to be adduced and cited to give testimony in this cause — and the complicity in the offence, each to be punished separately"
+  english_now: "carting trees on sledges ... together with the sledges ... they did not blush to draw the penalties wholly upon themselves ... through a full sworn inquiry, to have them shut out from giving testimony in this cause, and to prove their complicity in the offence in separate points"
+- importance: fact
+  what: "The judges of the Kalisz land court, in both citations to the Tribunal: Franciszek Wierusz Walknowski, judge; Stefan Zielonacki, sub-judge; Xawery Mikorski, notary (the bench named in the heading of the sitting of October 1777, 53/6/0/-/46). In the second citation Zielonacki is \"also judge at the condescension term\": your English had made that a fourth person."
+  was: "Francisco Morzyz[?] Wallenow[la?] ... Xaverio Miliorzlu[?] / Francisco Wieriss[?] Wallinoryki[?] ... Judicio Xaverio [?]nilierski[?]"
+  now: "Francisco Wierusz Walknowski ... Xaverio Mikorski / Francisco Wierusz Walknowski ... Judici Xaverio Mikorski"
+- importance: fact
+  what: "A line was passed over in the first citation to the Tribunal (leaf 54 verso): after \"Judicibus\" the scan has \"Gravaminosis De persona bonis ac Officio Vestris mandamus ut in Judiciis\". The judges are \"the judges complained of\", and the King commands them to appear."
+  was: "Causa Infrascriptae Judicibus Nostri Ordinarii Tribunalis Regni"
+  now: "Causae Infrascriptae Judicibus Gravaminosis De persona bonis ac Officio Vestris mandamus ut in Judiciis Nostris Ordinariis Tribunalis Regni"
+- importance: fact
+  what: "The boundary pine (leaf 58 verso): the name you read \"[T?]urnata\" and the word \"zwanym\" are written above the line with marks placing them after \"Kopcu\". It is the mound that is called so, not a second estate beside Trąbczyn."
+  was: "na Granicy Dobr [T?]urnata Trąmpczyna ... na Kopcu Granicznym zwanym Trąmpczyn od Biskupia Dzielącym"
+  now: "na Granicy Dobr Trąmpczyna ... na Kopcu [T?]urnata zwanym Granicznym Trąmpczyn od Biskupia Dzielącym"
+- importance: fact
+  what: "The report of 29 January 1779: the further stumps were \"pozcinanych\", cut down, by subjects of Rzgów (not \"recognised\"); and the twenty axes were taken from those subjects \"as they fled\" at night with the pines."
+  was: "poddanych pozunanych ... pinaticis facientibus Intercepto"
+  now: "poddanych pozcinanych ... pinaticis fugientibus Interceptas"
+- importance: fact
+  what: "Prusimski's protest noted at the end of the book (leaf 507 verso) is against the Nosalskis, the owners of Rzgów, not \"Wisalskie\"."
+  was: "Contra Magnificis Wisalskie"
+  now: "Contra Magnificos Nosalskie"
+- importance: fact
+  what: "Dates. On the pages: 7 March, 30 March and 15 April 1778; 29 January 1779. From headings you did not transcribe: Chełmski's citation of Prusimski to the land court, 25 April 1778 (top of leaf 78); Nosalski's protest, 1 May 1779 (leaf 358 verso). Inferred: Prusimski's first protest, March 1778; Chełmski's two protests and the report on the pine, between 1 and 3 April 1778; the note of the decree of remission, between 25 April and 6 May 1778; the note on leaf 507 verso, 1779."
+  was: "1778, 1779"
+  now: "see the dates on each document"
+- importance: fact
+  what: "Chełmski signed both his protests of April 1778 (leaves 57 verso and 58); the signatures are added."
+  was: "(not transcribed)"
+  now: "Stanisław Scibor Chełmski"
+- importance: fact
+  what: "Not checked. The long Latin of documents 2, 3, 4, 5, 7, 8 and 9 was not read against the scans beyond the names and the word \"Patrui\". About 190 marks of doubt remain in it, and your English for those passages stands as you wrote it."
+  was: "(first reading)"
+  now: "(first reading, marked as rough)"
+- importance: wording
+  what: "Smaller readings: \"Sanus existens Recognovit se\"; \"vi Decreti\" (by force of the decree); \"peremptorie\"; \"contra M. Stanislaum Chełmski\" for \"[?] termino[?]\"; \"facta Manifestatio ex opposito Inserta\"; the heading \"contra MM. Chełmski et Judicium Terrestre Calissiense ad Tribunal Relatio\"; \"pro Judiciis Terrestribus\" for \"pro quidem\"; \"Quia Ipse\"; \"Officiosam Requisitionem\"; \"zas za kopcami\"; \"Ministerialis ... viginti ... Expressa\"; \"de receptis\"; Prusimski's signature \"Star: Nieszczewski\"."
+  was: "Sanus [habens?] Recognovit[?] de / in Decreti / [?] termino[?] / pro quidem Terrestribus"
+  now: "Sanus existens Recognovit se / vi Decreti / contra / pro Judiciis Terrestribus"

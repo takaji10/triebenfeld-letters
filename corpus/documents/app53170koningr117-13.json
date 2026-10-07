@@ -1,0 +1,101 @@
+{
+ "letter_id": "13",
+ "seq_archival": 13,
+ "parent_letter": "",
+ "unit": "app53170koningr117",
+ "uid": "app53170koningr117-13",
+ "pad": "app53170koningr117-013",
+ "permalink": "/documents/app53170koningr117/13/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1779",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1779]",
+ "date_inferred_from": "Entered on leaf 507 verso of the book for 1778 and 1779, well after the sitting of 1 May 1779 (leaf 358 verso). The heading of the sitting at the top of the page is cut off by the edge of the photograph.",
+ "year": 1779,
+ "month": "",
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 71,
+ "line_end": 75,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis\nAntoni Prusimski Star: Nieszczewski",
+ "text_reading": "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis\n\nAntoni Prusimski Star: Nieszczewski",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0508_a1",
+   "line_start": 73,
+   "line_end": 74,
+   "n_lines": 2,
+   "diplomatic": "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis\nAntoni Prusimski Star: Nieszczewski",
+   "transcription": "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis\nAntoni Prusimski Star: Nieszczewski",
+   "reading": "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis\n\nAntoni Prusimski Star: Nieszczewski",
+   "paragraphs": [
+    "Videatur hoc Loco Copia Manifestationis Certa ex parte Illustris Magnifici Prusimski Contra Magnificos Nosalskie facta prout patet Copia in Productis",
+    "Antoni Prusimski Star: Nieszczewski"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0508_a1",
+   "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
+   "line": 73,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0508_a1",
+   "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
+   "line": 74,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Let there be seen in this place a certain copy of a manifest made on behalf of the Most Honourable Prusimski against the Honourables Nosalski, as is apparent from the copy in the produced documents.\n\nAntoni Prusimski, Starost of Niszczewice"
+  }
+ ],
+ "text_english": "Let there be seen in this place a certain copy of a manifest made on behalf of the Most Honourable Prusimski against the Honourables Nosalski, as is apparent from the copy in the produced documents.\n\nAntoni Prusimski, Starost of Niszczewice",
+ "summary_en": "A register note of 1779: a copy of the protest that Prusimski made against the Nosalskis is among the documents produced. Antoni Prusimski, Starost of Niszczewice, signed.",
+ "summary_de": "Registervermerk von 1779: Eine Abschrift des Protests, den Prusimski gegen die Nosalski eingelegt hat, liegt bei den vorgelegten Schriftstücken. Antoni Prusimski, Starost von Niszczewice, hat unterschrieben.",
+ "reading": {}
+}

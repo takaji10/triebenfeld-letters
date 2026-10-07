@@ -9018,6 +9018,2527 @@
   ]
  },
  {
+  "entity": "chemski",
+  "display": "Chełmski",
+  "count": 275,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app53150kaliszgr425-1",
+   "app53170koningr115-1",
+   "app53170koningr115-10",
+   "app53170koningr115-2",
+   "app53170koningr115-4",
+   "app53170koningr115-5",
+   "app53170koningr115-6",
+   "app53170koningr115-7",
+   "app53170koningr115-8",
+   "app53170koningr115-9",
+   "app53170koningr116-10",
+   "app53170koningr116-11",
+   "app53170koningr116-12",
+   "app53170koningr116-2",
+   "app53170koningr116-3",
+   "app53170koningr116-4",
+   "app53170koningr116-7",
+   "app53170koningr116-9",
+   "app53170koningr117-1",
+   "app53170koningr117-10",
+   "app53170koningr117-12",
+   "app53170koningr117-2",
+   "app53170koningr117-3",
+   "app53170koningr117-4",
+   "app53170koningr117-5",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr117-9",
+   "app53170koningr145-1",
+   "app536036-1",
+   "app536040-1",
+   "app536045-1",
+   "app536046-1",
+   "oe1bu9454-102",
+   "oe1bu9454-286",
+   "oe1bu9454-75"
+  ],
+  "mentions": [
+   {
+    "uid": "app536036-1",
+    "surface": "Chełmsky",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmscy",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmskich",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0673_a1",
+    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0004_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr115-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0004_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 9,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 10,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 11,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0402_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0402_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0402_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmskiemu",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr115-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0186_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+    "line": 19,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0186_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
+    "line": 20,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 24,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 25,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 25,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-6",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 29,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0226_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+    "line": 33,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0226_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+    "line": 34,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-8",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0242_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0242_a1-L8_02.jpg",
+    "line": 41,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr115-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 44,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr115-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 45,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 45,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 46,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-10",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 49,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr115-10",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 50,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-10",
+    "surface": "Chełmskiego",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 50,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr116-2",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0079_a2",
+    "scan": "APP_53_17_0_Konin_Gr_116_0079_a2-L2_02.jpg",
+    "line": 13,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr116-2",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0079_a2",
+    "scan": "APP_53_17_0_Konin_Gr_116_0079_a2-L2_02.jpg",
+    "line": 14,
+    "doc_line": 7
+   },
+   {
+    "uid": "app53170koningr116-3",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0090_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
+    "line": 18,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr116-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0090_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
+    "line": 27,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr116-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0096_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
+    "line": 40,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr116-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0096_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
+    "line": 41,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr116-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0096_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
+    "line": 42,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr116-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0175_a2",
+    "scan": "APP_53_17_0_Konin_Gr_116_0175_a2-L9_01.jpg",
+    "line": 53,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr116-10",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0202_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
+    "line": 58,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr116-10",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0202_a2",
+    "scan": "APP_53_17_0_Konin_Gr_116_0202_a2-L10_02.jpg",
+    "line": 62,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 9,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmscy",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 10,
+    "doc_line": 7
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 4,
+    "page_id": "0656_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
+    "line": 16,
+    "doc_line": 11
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 4,
+    "page_id": "0656_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
+    "line": 16,
+    "doc_line": 11
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 5,
+    "page_id": "0657_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0657_a1-L1_05.jpg",
+    "line": 20,
+    "doc_line": 14
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 7,
+    "page_id": "0658_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0658_a1-L1_07.jpg",
+    "line": 26,
+    "doc_line": 18
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 8,
+    "page_id": "0658_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
+    "line": 29,
+    "doc_line": 20
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 8,
+    "page_id": "0658_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
+    "line": 29,
+    "doc_line": 20
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 9,
+    "page_id": "0659_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
+    "line": 32,
+    "doc_line": 22
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 9,
+    "page_id": "0659_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
+    "line": 32,
+    "doc_line": 22
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 10,
+    "page_id": "0659_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0659_a2-L1_10.jpg",
+    "line": 35,
+    "doc_line": 24
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 11,
+    "page_id": "0660_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0660_a1-L1_11.jpg",
+    "line": 38,
+    "doc_line": 26
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 13,
+    "page_id": "0661_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
+    "line": 44,
+    "doc_line": 30
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 13,
+    "page_id": "0661_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
+    "line": 44,
+    "doc_line": 30
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 14,
+    "page_id": "0661_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
+    "line": 47,
+    "doc_line": 32
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 15,
+    "page_id": "0662_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+    "line": 50,
+    "doc_line": 34
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 15,
+    "page_id": "0662_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+    "line": 50,
+    "doc_line": 34
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 15,
+    "page_id": "0662_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+    "line": 51,
+    "doc_line": 35
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 16,
+    "page_id": "0662_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0662_a2-L1_16.jpg",
+    "line": 53,
+    "doc_line": 36
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 17,
+    "page_id": "0663_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+    "line": 56,
+    "doc_line": 38
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 17,
+    "page_id": "0663_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+    "line": 56,
+    "doc_line": 38
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 17,
+    "page_id": "0663_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
+    "line": 57,
+    "doc_line": 39
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 18,
+    "page_id": "0663_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
+    "line": 59,
+    "doc_line": 40
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 18,
+    "page_id": "0663_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
+    "line": 59,
+    "doc_line": 40
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 19,
+    "page_id": "0664_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+    "line": 62,
+    "doc_line": 42
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 19,
+    "page_id": "0664_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+    "line": 62,
+    "doc_line": 42
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 20,
+    "page_id": "0664_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a2-L1_20.jpg",
+    "line": 65,
+    "doc_line": 44
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 20,
+    "page_id": "0664_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a2-L1_20.jpg",
+    "line": 66,
+    "doc_line": 45
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 21,
+    "page_id": "0665_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
+    "line": 68,
+    "doc_line": 46
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 21,
+    "page_id": "0665_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
+    "line": 68,
+    "doc_line": 46
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 22,
+    "page_id": "0665_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+    "line": 71,
+    "doc_line": 48
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 22,
+    "page_id": "0665_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+    "line": 71,
+    "doc_line": 48
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 22,
+    "page_id": "0665_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+    "line": 71,
+    "doc_line": 48
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 22,
+    "page_id": "0665_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+    "line": 72,
+    "doc_line": 49
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 23,
+    "page_id": "0666_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
+    "line": 74,
+    "doc_line": 50
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 23,
+    "page_id": "0666_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
+    "line": 74,
+    "doc_line": 50
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 24,
+    "page_id": "0666_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0666_a2-L1_24.jpg",
+    "line": 77,
+    "doc_line": 52
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 25,
+    "page_id": "0667_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
+    "line": 80,
+    "doc_line": 54
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 25,
+    "page_id": "0667_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
+    "line": 81,
+    "doc_line": 55
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 26,
+    "page_id": "0667_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+    "line": 83,
+    "doc_line": 56
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 26,
+    "page_id": "0667_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+    "line": 84,
+    "doc_line": 57
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 26,
+    "page_id": "0667_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
+    "line": 84,
+    "doc_line": 57
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 27,
+    "page_id": "0668_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
+    "line": 86,
+    "doc_line": 58
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 27,
+    "page_id": "0668_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
+    "line": 86,
+    "doc_line": 58
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 27,
+    "page_id": "0668_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
+    "line": 86,
+    "doc_line": 58
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 31,
+    "page_id": "0670_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+    "line": 99,
+    "doc_line": 67
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 31,
+    "page_id": "0670_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+    "line": 99,
+    "doc_line": 67
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 31,
+    "page_id": "0670_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+    "line": 99,
+    "doc_line": 67
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmscy",
+    "page": 31,
+    "page_id": "0670_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
+    "line": 100,
+    "doc_line": 68
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 32,
+    "page_id": "0670_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0670_a2-L1_32.jpg",
+    "line": 102,
+    "doc_line": 69
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 36,
+    "page_id": "0672_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a2-L1_36.jpg",
+    "line": 114,
+    "doc_line": 77
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 37,
+    "page_id": "0673_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0673_a1-L1_37.jpg",
+    "line": 117,
+    "doc_line": 79
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 38,
+    "page_id": "0673_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
+    "line": 120,
+    "doc_line": 81
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 38,
+    "page_id": "0673_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
+    "line": 120,
+    "doc_line": 81
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 41,
+    "page_id": "0675_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+    "line": 129,
+    "doc_line": 87
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 41,
+    "page_id": "0675_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+    "line": 129,
+    "doc_line": 87
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 41,
+    "page_id": "0675_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
+    "line": 129,
+    "doc_line": 87
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 42,
+    "page_id": "0675_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
+    "line": 132,
+    "doc_line": 89
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 42,
+    "page_id": "0675_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
+    "line": 132,
+    "doc_line": 89
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 42,
+    "page_id": "0675_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
+    "line": 133,
+    "doc_line": 90
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 45,
+    "page_id": "0677_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
+    "line": 142,
+    "doc_line": 96
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 45,
+    "page_id": "0677_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
+    "line": 142,
+    "doc_line": 96
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 47,
+    "page_id": "0678_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a1-L1_47.jpg",
+    "line": 147,
+    "doc_line": 99
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 47,
+    "page_id": "0678_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a1-L1_47.jpg",
+    "line": 148,
+    "doc_line": 100
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 48,
+    "page_id": "0678_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+    "line": 150,
+    "doc_line": 101
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 48,
+    "page_id": "0678_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+    "line": 150,
+    "doc_line": 101
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 48,
+    "page_id": "0678_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+    "line": 151,
+    "doc_line": 102
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 48,
+    "page_id": "0678_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+    "line": 151,
+    "doc_line": 102
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 48,
+    "page_id": "0678_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
+    "line": 151,
+    "doc_line": 102
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 49,
+    "page_id": "0679_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0679_a1-L1_49.jpg",
+    "line": 154,
+    "doc_line": 104
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 51,
+    "page_id": "0680_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
+    "line": 159,
+    "doc_line": 107
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 51,
+    "page_id": "0680_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
+    "line": 159,
+    "doc_line": 107
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 51,
+    "page_id": "0680_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
+    "line": 159,
+    "doc_line": 107
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 52,
+    "page_id": "0680_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+    "line": 162,
+    "doc_line": 109
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 52,
+    "page_id": "0680_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+    "line": 162,
+    "doc_line": 109
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 52,
+    "page_id": "0680_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+    "line": 162,
+    "doc_line": 109
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 52,
+    "page_id": "0680_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+    "line": 163,
+    "doc_line": 110
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 53,
+    "page_id": "0681_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+    "line": 165,
+    "doc_line": 111
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 53,
+    "page_id": "0681_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+    "line": 165,
+    "doc_line": 111
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 53,
+    "page_id": "0681_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+    "line": 165,
+    "doc_line": 111
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 53,
+    "page_id": "0681_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
+    "line": 165,
+    "doc_line": 111
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 54,
+    "page_id": "0681_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0681_a2-L1_54.jpg",
+    "line": 169,
+    "doc_line": 114
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 55,
+    "page_id": "0682_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+    "line": 171,
+    "doc_line": 115
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 55,
+    "page_id": "0682_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+    "line": 171,
+    "doc_line": 115
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 55,
+    "page_id": "0682_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
+    "line": 171,
+    "doc_line": 115
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 56,
+    "page_id": "0682_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
+    "line": 174,
+    "doc_line": 117
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 56,
+    "page_id": "0682_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
+    "line": 174,
+    "doc_line": 117
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 56,
+    "page_id": "0682_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
+    "line": 175,
+    "doc_line": 118
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 177,
+    "doc_line": 119
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 177,
+    "doc_line": 119
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 178,
+    "doc_line": 120
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 178,
+    "doc_line": 120
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 178,
+    "doc_line": 120
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 57,
+    "page_id": "0683_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
+    "line": 178,
+    "doc_line": 120
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 58,
+    "page_id": "0683_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0683_a2-L1_58.jpg",
+    "line": 180,
+    "doc_line": 121
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 60,
+    "page_id": "0684_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
+    "line": 186,
+    "doc_line": 125
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 60,
+    "page_id": "0684_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
+    "line": 186,
+    "doc_line": 125
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 61,
+    "page_id": "0685_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+    "line": 189,
+    "doc_line": 127
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 61,
+    "page_id": "0685_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+    "line": 190,
+    "doc_line": 128
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 65,
+    "page_id": "0687_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a1-L1_65.jpg",
+    "line": 202,
+    "doc_line": 136
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 66,
+    "page_id": "0687_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
+    "line": 204,
+    "doc_line": 137
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 66,
+    "page_id": "0687_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
+    "line": 204,
+    "doc_line": 137
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 67,
+    "page_id": "0688_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
+    "line": 207,
+    "doc_line": 139
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 67,
+    "page_id": "0688_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
+    "line": 208,
+    "doc_line": 140
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 67,
+    "page_id": "0688_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
+    "line": 208,
+    "doc_line": 140
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 69,
+    "page_id": "0689_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
+    "line": 213,
+    "doc_line": 143
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 69,
+    "page_id": "0689_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
+    "line": 213,
+    "doc_line": 143
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 70,
+    "page_id": "0689_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",
+    "line": 216,
+    "doc_line": 145
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 71,
+    "page_id": "0690_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
+    "line": 219,
+    "doc_line": 147
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 71,
+    "page_id": "0690_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
+    "line": 220,
+    "doc_line": 148
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 71,
+    "page_id": "0690_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
+    "line": 220,
+    "doc_line": 148
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 72,
+    "page_id": "0690_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
+    "line": 222,
+    "doc_line": 149
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 72,
+    "page_id": "0690_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
+    "line": 222,
+    "doc_line": 149
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 73,
+    "page_id": "0691_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0691_a1-L1_73.jpg",
+    "line": 225,
+    "doc_line": 151
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 74,
+    "page_id": "0691_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0691_a2-L1_74.jpg",
+    "line": 228,
+    "doc_line": 153
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 75,
+    "page_id": "0692_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+    "line": 231,
+    "doc_line": 155
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 75,
+    "page_id": "0692_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+    "line": 231,
+    "doc_line": 155
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 75,
+    "page_id": "0692_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+    "line": 231,
+    "doc_line": 155
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 76,
+    "page_id": "0692_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+    "line": 234,
+    "doc_line": 157
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 76,
+    "page_id": "0692_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+    "line": 234,
+    "doc_line": 157
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 76,
+    "page_id": "0692_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+    "line": 234,
+    "doc_line": 157
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 76,
+    "page_id": "0692_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+    "line": 234,
+    "doc_line": 157
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 76,
+    "page_id": "0692_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
+    "line": 234,
+    "doc_line": 157
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 77,
+    "page_id": "0693_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
+    "line": 238,
+    "doc_line": 160
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 78,
+    "page_id": "0693_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+    "line": 240,
+    "doc_line": 161
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 78,
+    "page_id": "0693_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+    "line": 240,
+    "doc_line": 161
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 78,
+    "page_id": "0693_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
+    "line": 241,
+    "doc_line": 162
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 79,
+    "page_id": "0694_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0694_a1-L1_79.jpg",
+    "line": 243,
+    "doc_line": 163
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 81,
+    "page_id": "0695_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
+    "line": 249,
+    "doc_line": 167
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 81,
+    "page_id": "0695_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
+    "line": 250,
+    "doc_line": 168
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 82,
+    "page_id": "0695_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0695_a2-L1_82.jpg",
+    "line": 252,
+    "doc_line": 169
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 83,
+    "page_id": "0696_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0696_a1-L1_83.jpg",
+    "line": 256,
+    "doc_line": 172
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 83,
+    "page_id": "0696_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0696_a1-L1_83.jpg",
+    "line": 256,
+    "doc_line": 172
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 84,
+    "page_id": "0696_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0696_a2-L1_84.jpg",
+    "line": 258,
+    "doc_line": 173
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 85,
+    "page_id": "0697_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
+    "line": 261,
+    "doc_line": 175
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 85,
+    "page_id": "0697_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
+    "line": 262,
+    "doc_line": 176
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 108,
+    "page_id": "0708_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0708_a2-L1_108.jpg",
+    "line": 392,
+    "doc_line": 283
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 109,
+    "page_id": "0709_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0709_a1-L1_109.jpg",
+    "line": 395,
+    "doc_line": 285
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 110,
+    "page_id": "0709_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0709_a2-L1_110.jpg",
+    "line": 398,
+    "doc_line": 287
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 110,
+    "page_id": "0709_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0709_a2-L1_110.jpg",
+    "line": 398,
+    "doc_line": 287
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 111,
+    "page_id": "0710_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+    "line": 401,
+    "doc_line": 289
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 111,
+    "page_id": "0710_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+    "line": 401,
+    "doc_line": 289
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 111,
+    "page_id": "0710_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+    "line": 401,
+    "doc_line": 289
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 111,
+    "page_id": "0710_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
+    "line": 401,
+    "doc_line": 289
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 112,
+    "page_id": "0710_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
+    "line": 404,
+    "doc_line": 291
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 112,
+    "page_id": "0710_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
+    "line": 405,
+    "doc_line": 292
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 112,
+    "page_id": "0710_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
+    "line": 406,
+    "doc_line": 293
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 113,
+    "page_id": "0711_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0711_a1-L1_113.jpg",
+    "line": 410,
+    "doc_line": 296
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 113,
+    "page_id": "0711_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0711_a1-L1_113.jpg",
+    "line": 410,
+    "doc_line": 296
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 114,
+    "page_id": "0711_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
+    "line": 413,
+    "doc_line": 298
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 114,
+    "page_id": "0711_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
+    "line": 415,
+    "doc_line": 300
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 114,
+    "page_id": "0711_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
+    "line": 416,
+    "doc_line": 301
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskich",
+    "page": 115,
+    "page_id": "0712_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0712_a1-L1_115.jpg",
+    "line": 419,
+    "doc_line": 303
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 117,
+    "page_id": "0713_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+    "line": 425,
+    "doc_line": 307
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskich",
+    "page": 117,
+    "page_id": "0713_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+    "line": 425,
+    "doc_line": 307
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 117,
+    "page_id": "0713_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+    "line": 425,
+    "doc_line": 307
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 117,
+    "page_id": "0713_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+    "line": 425,
+    "doc_line": 307
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 117,
+    "page_id": "0713_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
+    "line": 426,
+    "doc_line": 308
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 118,
+    "page_id": "0713_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+    "line": 429,
+    "doc_line": 310
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 118,
+    "page_id": "0713_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+    "line": 429,
+    "doc_line": 310
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 118,
+    "page_id": "0713_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+    "line": 429,
+    "doc_line": 310
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 118,
+    "page_id": "0713_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+    "line": 429,
+    "doc_line": 310
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 118,
+    "page_id": "0713_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
+    "line": 430,
+    "doc_line": 311
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiemu",
+    "page": 119,
+    "page_id": "0714_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
+    "line": 434,
+    "doc_line": 314
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 119,
+    "page_id": "0714_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
+    "line": 434,
+    "doc_line": 314
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 436,
+    "doc_line": 315
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 436,
+    "doc_line": 315
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 437,
+    "doc_line": 316
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 437,
+    "doc_line": 316
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 437,
+    "doc_line": 316
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskim",
+    "page": 120,
+    "page_id": "0714_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
+    "line": 438,
+    "doc_line": 317
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 121,
+    "page_id": "0715_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
+    "line": 440,
+    "doc_line": 318
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmski",
+    "page": 121,
+    "page_id": "0715_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
+    "line": 441,
+    "doc_line": 319
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Chełmskiego",
+    "page": 121,
+    "page_id": "0715_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
+    "line": 442,
+    "doc_line": 320
+   },
+   {
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Chełmskim",
+    "page": 1,
+    "page_id": "0497_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0497_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0498_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+    "line": 13,
+    "doc_line": 9
+   },
+   {
+    "uid": "app53170koningr116-11",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0267_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0267_a1-L11_01.jpg",
+    "line": 65,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr116-12",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0336_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
+    "line": 70,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr116-12",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0336_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
+    "line": 71,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr116-12",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0336_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
+    "line": 72,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-10",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0083_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
+    "line": 57,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 13,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 14,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0056_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
+    "line": 20,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0056_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
+    "line": 20,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0056_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
+    "line": 20,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0056_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
+    "line": 20,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0035_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0035_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 9,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 24,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 27,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 29,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 37,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0073_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",
+    "line": 48,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0078_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
+    "line": 51,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-9",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0078_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
+    "line": 52,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-12",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0360_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0360_a1-L12_02.jpg",
+    "line": 69,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu9454-75",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0160_a2",
+    "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-75",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0160_a2",
+    "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
+    "line": 6309,
+    "doc_line": 38
+   },
+   {
+    "uid": "oe1bu9454-102",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0211_a",
+    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-102",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0211_a",
+    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
+    "line": 8003,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu9454-286",
+    "surface": "Chełmski",
+    "page": 3,
+    "page_id": "0517_a2",
+    "scan": "Oe_1_Bu_9454_0517_a2-L286_03.jpg",
+    "line": 20339,
+    "doc_line": 66
+   }
+  ]
+ },
+ {
   "entity": "glenck",
   "display": "Glenck",
   "count": 260,
@@ -11430,2178 +13951,9 @@
   ]
  },
  {
-  "entity": "chemski",
-  "display": "Chełmski",
-  "count": 237,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app53150kaliszgr425-1",
-   "app53170koningr115-1",
-   "app53170koningr115-10",
-   "app53170koningr115-2",
-   "app53170koningr115-4",
-   "app53170koningr115-5",
-   "app53170koningr115-6",
-   "app53170koningr115-7",
-   "app53170koningr115-8",
-   "app53170koningr115-9",
-   "app53170koningr116-10",
-   "app53170koningr116-11",
-   "app53170koningr116-12",
-   "app53170koningr116-2",
-   "app53170koningr116-3",
-   "app53170koningr116-4",
-   "app53170koningr116-7",
-   "app53170koningr116-9",
-   "app53170koningr145-1",
-   "app536036-1",
-   "app536040-1",
-   "app536045-1",
-   "app536046-1",
-   "oe1bu9454-102",
-   "oe1bu9454-286",
-   "oe1bu9454-75"
-  ],
-  "mentions": [
-   {
-    "uid": "app536036-1",
-    "surface": "Chełmsky",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Chełmscy",
-    "page": 2,
-    "page_id": "0372_a2",
-    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
-    "line": 6,
-    "doc_line": 3
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0373_a1",
-    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
-    "line": 8,
-    "doc_line": 4
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Chełmskich",
-    "page": 3,
-    "page_id": "0373_a1",
-    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
-    "line": 8,
-    "doc_line": 4
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0373_a1",
-    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
-    "line": 8,
-    "doc_line": 4
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0673_a1",
-    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0004_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr115-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0004_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 9,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 10,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 11,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0402_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0402_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0402_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 6,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmskiemu",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr115-4",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0186_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
-    "line": 19,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-4",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0186_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
-    "line": 20,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-5",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 24,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-5",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 25,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-5",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 25,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-6",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 29,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-7",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0226_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
-    "line": 33,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-7",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0226_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
-    "line": 34,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-8",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0242_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0242_a1-L8_02.jpg",
-    "line": 41,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr115-9",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 44,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr115-9",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 45,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-9",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 45,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-9",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 46,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-10",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 49,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr115-10",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 50,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-10",
-    "surface": "Chełmskiego",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 50,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr116-2",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0079_a2",
-    "scan": "APP_53_17_0_Konin_Gr_116_0079_a2-L2_02.jpg",
-    "line": 13,
-    "doc_line": 6
-   },
-   {
-    "uid": "app53170koningr116-2",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0079_a2",
-    "scan": "APP_53_17_0_Konin_Gr_116_0079_a2-L2_02.jpg",
-    "line": 14,
-    "doc_line": 7
-   },
-   {
-    "uid": "app53170koningr116-3",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0090_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
-    "line": 18,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr116-4",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0090_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
-    "line": 27,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr116-7",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0096_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
-    "line": 40,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr116-7",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0096_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
-    "line": 41,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr116-7",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0096_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
-    "line": 42,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr116-9",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0175_a2",
-    "scan": "APP_53_17_0_Konin_Gr_116_0175_a2-L9_01.jpg",
-    "line": 53,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr116-10",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0202_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
-    "line": 58,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr116-10",
-    "surface": "Chełmski",
-    "page": 2,
-    "page_id": "0202_a2",
-    "scan": "APP_53_17_0_Konin_Gr_116_0202_a2-L10_02.jpg",
-    "line": 62,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 9,
-    "doc_line": 6
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmscy",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 10,
-    "doc_line": 7
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 4,
-    "page_id": "0656_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
-    "line": 16,
-    "doc_line": 11
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 4,
-    "page_id": "0656_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0656_a2-L1_04.jpg",
-    "line": 16,
-    "doc_line": 11
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 5,
-    "page_id": "0657_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0657_a1-L1_05.jpg",
-    "line": 20,
-    "doc_line": 14
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 7,
-    "page_id": "0658_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0658_a1-L1_07.jpg",
-    "line": 26,
-    "doc_line": 18
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 8,
-    "page_id": "0658_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
-    "line": 29,
-    "doc_line": 20
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 8,
-    "page_id": "0658_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0658_a2-L1_08.jpg",
-    "line": 29,
-    "doc_line": 20
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 9,
-    "page_id": "0659_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
-    "line": 32,
-    "doc_line": 22
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 9,
-    "page_id": "0659_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0659_a1-L1_09.jpg",
-    "line": 32,
-    "doc_line": 22
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 10,
-    "page_id": "0659_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0659_a2-L1_10.jpg",
-    "line": 35,
-    "doc_line": 24
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 11,
-    "page_id": "0660_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0660_a1-L1_11.jpg",
-    "line": 38,
-    "doc_line": 26
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 13,
-    "page_id": "0661_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
-    "line": 44,
-    "doc_line": 30
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 13,
-    "page_id": "0661_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a1-L1_13.jpg",
-    "line": 44,
-    "doc_line": 30
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 14,
-    "page_id": "0661_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
-    "line": 47,
-    "doc_line": 32
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 15,
-    "page_id": "0662_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
-    "line": 50,
-    "doc_line": 34
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 15,
-    "page_id": "0662_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
-    "line": 50,
-    "doc_line": 34
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 15,
-    "page_id": "0662_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
-    "line": 51,
-    "doc_line": 35
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 16,
-    "page_id": "0662_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0662_a2-L1_16.jpg",
-    "line": 53,
-    "doc_line": 36
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 17,
-    "page_id": "0663_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
-    "line": 56,
-    "doc_line": 38
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 17,
-    "page_id": "0663_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
-    "line": 56,
-    "doc_line": 38
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 17,
-    "page_id": "0663_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0663_a1-L1_17.jpg",
-    "line": 57,
-    "doc_line": 39
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 18,
-    "page_id": "0663_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
-    "line": 59,
-    "doc_line": 40
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 18,
-    "page_id": "0663_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
-    "line": 59,
-    "doc_line": 40
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 19,
-    "page_id": "0664_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
-    "line": 62,
-    "doc_line": 42
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 19,
-    "page_id": "0664_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
-    "line": 62,
-    "doc_line": 42
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 20,
-    "page_id": "0664_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a2-L1_20.jpg",
-    "line": 65,
-    "doc_line": 44
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 20,
-    "page_id": "0664_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a2-L1_20.jpg",
-    "line": 66,
-    "doc_line": 45
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 21,
-    "page_id": "0665_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
-    "line": 68,
-    "doc_line": 46
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 21,
-    "page_id": "0665_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a1-L1_21.jpg",
-    "line": 68,
-    "doc_line": 46
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 22,
-    "page_id": "0665_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
-    "line": 71,
-    "doc_line": 48
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 22,
-    "page_id": "0665_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
-    "line": 71,
-    "doc_line": 48
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 22,
-    "page_id": "0665_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
-    "line": 71,
-    "doc_line": 48
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 22,
-    "page_id": "0665_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
-    "line": 72,
-    "doc_line": 49
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 23,
-    "page_id": "0666_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
-    "line": 74,
-    "doc_line": 50
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 23,
-    "page_id": "0666_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
-    "line": 74,
-    "doc_line": 50
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 24,
-    "page_id": "0666_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0666_a2-L1_24.jpg",
-    "line": 77,
-    "doc_line": 52
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 25,
-    "page_id": "0667_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
-    "line": 80,
-    "doc_line": 54
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 25,
-    "page_id": "0667_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
-    "line": 81,
-    "doc_line": 55
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 26,
-    "page_id": "0667_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
-    "line": 83,
-    "doc_line": 56
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 26,
-    "page_id": "0667_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
-    "line": 84,
-    "doc_line": 57
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 26,
-    "page_id": "0667_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a2-L1_26.jpg",
-    "line": 84,
-    "doc_line": 57
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 27,
-    "page_id": "0668_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
-    "line": 86,
-    "doc_line": 58
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 27,
-    "page_id": "0668_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
-    "line": 86,
-    "doc_line": 58
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 27,
-    "page_id": "0668_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0668_a1-L1_27.jpg",
-    "line": 86,
-    "doc_line": 58
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 31,
-    "page_id": "0670_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
-    "line": 99,
-    "doc_line": 67
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 31,
-    "page_id": "0670_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
-    "line": 99,
-    "doc_line": 67
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 31,
-    "page_id": "0670_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
-    "line": 99,
-    "doc_line": 67
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmscy",
-    "page": 31,
-    "page_id": "0670_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0670_a1-L1_31.jpg",
-    "line": 100,
-    "doc_line": 68
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 32,
-    "page_id": "0670_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0670_a2-L1_32.jpg",
-    "line": 102,
-    "doc_line": 69
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 36,
-    "page_id": "0672_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a2-L1_36.jpg",
-    "line": 114,
-    "doc_line": 77
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 37,
-    "page_id": "0673_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0673_a1-L1_37.jpg",
-    "line": 117,
-    "doc_line": 79
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 38,
-    "page_id": "0673_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
-    "line": 120,
-    "doc_line": 81
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 38,
-    "page_id": "0673_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0673_a2-L1_38.jpg",
-    "line": 120,
-    "doc_line": 81
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 41,
-    "page_id": "0675_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
-    "line": 129,
-    "doc_line": 87
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 41,
-    "page_id": "0675_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
-    "line": 129,
-    "doc_line": 87
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 41,
-    "page_id": "0675_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a1-L1_41.jpg",
-    "line": 129,
-    "doc_line": 87
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 42,
-    "page_id": "0675_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
-    "line": 132,
-    "doc_line": 89
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 42,
-    "page_id": "0675_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
-    "line": 132,
-    "doc_line": 89
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 42,
-    "page_id": "0675_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0675_a2-L1_42.jpg",
-    "line": 133,
-    "doc_line": 90
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 45,
-    "page_id": "0677_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
-    "line": 142,
-    "doc_line": 96
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 45,
-    "page_id": "0677_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0677_a1-L1_45.jpg",
-    "line": 142,
-    "doc_line": 96
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 47,
-    "page_id": "0678_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a1-L1_47.jpg",
-    "line": 147,
-    "doc_line": 99
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 47,
-    "page_id": "0678_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a1-L1_47.jpg",
-    "line": 148,
-    "doc_line": 100
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 48,
-    "page_id": "0678_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
-    "line": 150,
-    "doc_line": 101
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 48,
-    "page_id": "0678_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
-    "line": 150,
-    "doc_line": 101
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 48,
-    "page_id": "0678_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
-    "line": 151,
-    "doc_line": 102
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 48,
-    "page_id": "0678_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
-    "line": 151,
-    "doc_line": 102
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 48,
-    "page_id": "0678_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0678_a2-L1_48.jpg",
-    "line": 151,
-    "doc_line": 102
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 49,
-    "page_id": "0679_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0679_a1-L1_49.jpg",
-    "line": 154,
-    "doc_line": 104
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 51,
-    "page_id": "0680_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
-    "line": 159,
-    "doc_line": 107
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 51,
-    "page_id": "0680_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
-    "line": 159,
-    "doc_line": 107
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 51,
-    "page_id": "0680_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a1-L1_51.jpg",
-    "line": 159,
-    "doc_line": 107
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 52,
-    "page_id": "0680_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
-    "line": 162,
-    "doc_line": 109
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 52,
-    "page_id": "0680_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
-    "line": 162,
-    "doc_line": 109
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 52,
-    "page_id": "0680_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
-    "line": 162,
-    "doc_line": 109
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 52,
-    "page_id": "0680_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
-    "line": 163,
-    "doc_line": 110
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 53,
-    "page_id": "0681_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
-    "line": 165,
-    "doc_line": 111
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 53,
-    "page_id": "0681_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
-    "line": 165,
-    "doc_line": 111
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 53,
-    "page_id": "0681_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
-    "line": 165,
-    "doc_line": 111
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 53,
-    "page_id": "0681_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0681_a1-L1_53.jpg",
-    "line": 165,
-    "doc_line": 111
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 54,
-    "page_id": "0681_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0681_a2-L1_54.jpg",
-    "line": 169,
-    "doc_line": 114
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 55,
-    "page_id": "0682_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
-    "line": 171,
-    "doc_line": 115
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 55,
-    "page_id": "0682_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
-    "line": 171,
-    "doc_line": 115
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 55,
-    "page_id": "0682_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a1-L1_55.jpg",
-    "line": 171,
-    "doc_line": 115
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 56,
-    "page_id": "0682_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
-    "line": 174,
-    "doc_line": 117
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 56,
-    "page_id": "0682_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
-    "line": 174,
-    "doc_line": 117
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 56,
-    "page_id": "0682_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0682_a2-L1_56.jpg",
-    "line": 175,
-    "doc_line": 118
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 177,
-    "doc_line": 119
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 177,
-    "doc_line": 119
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 178,
-    "doc_line": 120
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 178,
-    "doc_line": 120
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 178,
-    "doc_line": 120
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 57,
-    "page_id": "0683_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a1-L1_57.jpg",
-    "line": 178,
-    "doc_line": 120
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 58,
-    "page_id": "0683_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0683_a2-L1_58.jpg",
-    "line": 180,
-    "doc_line": 121
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 60,
-    "page_id": "0684_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
-    "line": 186,
-    "doc_line": 125
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 60,
-    "page_id": "0684_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0684_a2-L1_60.jpg",
-    "line": 186,
-    "doc_line": 125
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 61,
-    "page_id": "0685_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
-    "line": 189,
-    "doc_line": 127
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 61,
-    "page_id": "0685_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
-    "line": 190,
-    "doc_line": 128
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 65,
-    "page_id": "0687_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a1-L1_65.jpg",
-    "line": 202,
-    "doc_line": 136
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 66,
-    "page_id": "0687_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
-    "line": 204,
-    "doc_line": 137
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 66,
-    "page_id": "0687_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
-    "line": 204,
-    "doc_line": 137
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 67,
-    "page_id": "0688_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
-    "line": 207,
-    "doc_line": 139
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 67,
-    "page_id": "0688_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
-    "line": 208,
-    "doc_line": 140
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 67,
-    "page_id": "0688_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
-    "line": 208,
-    "doc_line": 140
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 69,
-    "page_id": "0689_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
-    "line": 213,
-    "doc_line": 143
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 69,
-    "page_id": "0689_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
-    "line": 213,
-    "doc_line": 143
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 70,
-    "page_id": "0689_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",
-    "line": 216,
-    "doc_line": 145
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 71,
-    "page_id": "0690_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
-    "line": 219,
-    "doc_line": 147
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 71,
-    "page_id": "0690_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
-    "line": 220,
-    "doc_line": 148
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 71,
-    "page_id": "0690_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a1-L1_71.jpg",
-    "line": 220,
-    "doc_line": 148
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 72,
-    "page_id": "0690_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
-    "line": 222,
-    "doc_line": 149
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 72,
-    "page_id": "0690_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
-    "line": 222,
-    "doc_line": 149
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 73,
-    "page_id": "0691_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0691_a1-L1_73.jpg",
-    "line": 225,
-    "doc_line": 151
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 74,
-    "page_id": "0691_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0691_a2-L1_74.jpg",
-    "line": 228,
-    "doc_line": 153
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 75,
-    "page_id": "0692_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-    "line": 231,
-    "doc_line": 155
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 75,
-    "page_id": "0692_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-    "line": 231,
-    "doc_line": 155
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 75,
-    "page_id": "0692_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-    "line": 231,
-    "doc_line": 155
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 76,
-    "page_id": "0692_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
-    "line": 234,
-    "doc_line": 157
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 76,
-    "page_id": "0692_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
-    "line": 234,
-    "doc_line": 157
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 76,
-    "page_id": "0692_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
-    "line": 234,
-    "doc_line": 157
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 76,
-    "page_id": "0692_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
-    "line": 234,
-    "doc_line": 157
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 76,
-    "page_id": "0692_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a2-L1_76.jpg",
-    "line": 234,
-    "doc_line": 157
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 77,
-    "page_id": "0693_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a1-L1_77.jpg",
-    "line": 238,
-    "doc_line": 160
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 78,
-    "page_id": "0693_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
-    "line": 240,
-    "doc_line": 161
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 78,
-    "page_id": "0693_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
-    "line": 240,
-    "doc_line": 161
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 78,
-    "page_id": "0693_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0693_a2-L1_78.jpg",
-    "line": 241,
-    "doc_line": 162
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 79,
-    "page_id": "0694_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0694_a1-L1_79.jpg",
-    "line": 243,
-    "doc_line": 163
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 81,
-    "page_id": "0695_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
-    "line": 249,
-    "doc_line": 167
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 81,
-    "page_id": "0695_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0695_a1-L1_81.jpg",
-    "line": 250,
-    "doc_line": 168
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 82,
-    "page_id": "0695_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0695_a2-L1_82.jpg",
-    "line": 252,
-    "doc_line": 169
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 83,
-    "page_id": "0696_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0696_a1-L1_83.jpg",
-    "line": 256,
-    "doc_line": 172
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 83,
-    "page_id": "0696_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0696_a1-L1_83.jpg",
-    "line": 256,
-    "doc_line": 172
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 84,
-    "page_id": "0696_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0696_a2-L1_84.jpg",
-    "line": 258,
-    "doc_line": 173
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 85,
-    "page_id": "0697_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
-    "line": 261,
-    "doc_line": 175
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 85,
-    "page_id": "0697_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0697_a1-L1_85.jpg",
-    "line": 262,
-    "doc_line": 176
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 108,
-    "page_id": "0708_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0708_a2-L1_108.jpg",
-    "line": 392,
-    "doc_line": 283
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 109,
-    "page_id": "0709_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0709_a1-L1_109.jpg",
-    "line": 395,
-    "doc_line": 285
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 110,
-    "page_id": "0709_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0709_a2-L1_110.jpg",
-    "line": 398,
-    "doc_line": 287
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 110,
-    "page_id": "0709_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0709_a2-L1_110.jpg",
-    "line": 398,
-    "doc_line": 287
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 111,
-    "page_id": "0710_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
-    "line": 401,
-    "doc_line": 289
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 111,
-    "page_id": "0710_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
-    "line": 401,
-    "doc_line": 289
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 111,
-    "page_id": "0710_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
-    "line": 401,
-    "doc_line": 289
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 111,
-    "page_id": "0710_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a1-L1_111.jpg",
-    "line": 401,
-    "doc_line": 289
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 112,
-    "page_id": "0710_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
-    "line": 404,
-    "doc_line": 291
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 112,
-    "page_id": "0710_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
-    "line": 405,
-    "doc_line": 292
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 112,
-    "page_id": "0710_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0710_a2-L1_112.jpg",
-    "line": 406,
-    "doc_line": 293
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 113,
-    "page_id": "0711_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0711_a1-L1_113.jpg",
-    "line": 410,
-    "doc_line": 296
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 113,
-    "page_id": "0711_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0711_a1-L1_113.jpg",
-    "line": 410,
-    "doc_line": 296
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 114,
-    "page_id": "0711_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
-    "line": 413,
-    "doc_line": 298
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 114,
-    "page_id": "0711_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
-    "line": 415,
-    "doc_line": 300
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 114,
-    "page_id": "0711_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0711_a2-L1_114.jpg",
-    "line": 416,
-    "doc_line": 301
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskich",
-    "page": 115,
-    "page_id": "0712_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0712_a1-L1_115.jpg",
-    "line": 419,
-    "doc_line": 303
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 117,
-    "page_id": "0713_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
-    "line": 425,
-    "doc_line": 307
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskich",
-    "page": 117,
-    "page_id": "0713_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
-    "line": 425,
-    "doc_line": 307
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 117,
-    "page_id": "0713_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
-    "line": 425,
-    "doc_line": 307
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 117,
-    "page_id": "0713_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
-    "line": 425,
-    "doc_line": 307
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 117,
-    "page_id": "0713_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a1-L1_117.jpg",
-    "line": 426,
-    "doc_line": 308
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 118,
-    "page_id": "0713_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
-    "line": 429,
-    "doc_line": 310
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 118,
-    "page_id": "0713_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
-    "line": 429,
-    "doc_line": 310
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 118,
-    "page_id": "0713_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
-    "line": 429,
-    "doc_line": 310
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 118,
-    "page_id": "0713_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
-    "line": 429,
-    "doc_line": 310
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 118,
-    "page_id": "0713_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0713_a2-L1_118.jpg",
-    "line": 430,
-    "doc_line": 311
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiemu",
-    "page": 119,
-    "page_id": "0714_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
-    "line": 434,
-    "doc_line": 314
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 119,
-    "page_id": "0714_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a1-L1_119.jpg",
-    "line": 434,
-    "doc_line": 314
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 436,
-    "doc_line": 315
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 436,
-    "doc_line": 315
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 437,
-    "doc_line": 316
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 437,
-    "doc_line": 316
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 437,
-    "doc_line": 316
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskim",
-    "page": 120,
-    "page_id": "0714_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0714_a2-L1_120.jpg",
-    "line": 438,
-    "doc_line": 317
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 121,
-    "page_id": "0715_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
-    "line": 440,
-    "doc_line": 318
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmski",
-    "page": 121,
-    "page_id": "0715_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
-    "line": 441,
-    "doc_line": 319
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Chełmskiego",
-    "page": 121,
-    "page_id": "0715_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0715_a1-L1_121.jpg",
-    "line": 442,
-    "doc_line": 320
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Chełmskim",
-    "page": 1,
-    "page_id": "0497_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0497_a2-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0498_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
-    "line": 13,
-    "doc_line": 9
-   },
-   {
-    "uid": "app53170koningr116-11",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0267_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0267_a1-L11_01.jpg",
-    "line": 65,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536046-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0182_b1",
-    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536046-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0182_b1",
-    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536046-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0182_b1",
-    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536046-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0182_b1",
-    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536046-1",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0182_b1",
-    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr116-12",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0336_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
-    "line": 70,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr116-12",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0336_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
-    "line": 71,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr116-12",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0336_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
-    "line": 72,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu9454-75",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0160_a2",
-    "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-75",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0160_a2",
-    "scan": "Oe_1_Bu_9454_0160_a2-L75_03.jpg",
-    "line": 6309,
-    "doc_line": 38
-   },
-   {
-    "uid": "oe1bu9454-102",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0211_a",
-    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-102",
-    "surface": "Chełmski",
-    "page": 1,
-    "page_id": "0211_a",
-    "scan": "Oe_1_Bu_9454_0211_a-L102_01.jpg",
-    "line": 8003,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu9454-286",
-    "surface": "Chełmski",
-    "page": 3,
-    "page_id": "0517_a2",
-    "scan": "Oe_1_Bu_9454_0517_a2-L286_03.jpg",
-    "line": 20339,
-    "doc_line": 66
-   }
-  ]
- },
- {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 219,
+  "count": 256,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -13622,6 +13974,19 @@
    "app53170koningr116-4",
    "app53170koningr116-7",
    "app53170koningr116-8",
+   "app53170koningr117-1",
+   "app53170koningr117-10",
+   "app53170koningr117-11",
+   "app53170koningr117-12",
+   "app53170koningr117-13",
+   "app53170koningr117-2",
+   "app53170koningr117-3",
+   "app53170koningr117-4",
+   "app53170koningr117-5",
+   "app53170koningr117-6",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr117-9",
    "app53170koningr145-1",
    "app536046-1",
    "ihagrrep7cnr1414-1",
@@ -14778,6 +15143,339 @@
     "page_id": "0336_a1",
     "scan": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
     "line": 71,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-10",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0083_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
+    "line": 57,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 13,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 14,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 15,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0035_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0035_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 9,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-4",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+    "line": 23,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-5",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0058_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+    "line": 28,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-6",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0059_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0059_a1-L6_01.jpg",
+    "line": 32,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-6",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0059_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0059_a1-L6_01.jpg",
+    "line": 33,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 37,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 42,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 45,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-9",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0078_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
+    "line": 51,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-9",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0078_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
+    "line": 52,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-13",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0508_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
+    "line": 73,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-13",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0508_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0508_a1-L13_01.jpg",
+    "line": 74,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-11",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0272_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+    "line": 62,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-11",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0272_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+    "line": 63,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-12",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0359_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
+    "line": 67,
     "doc_line": 2
    },
    {
@@ -57915,6 +58613,142 @@
   ]
  },
  {
+  "entity": "szepczynski",
+  "display": "Bartłomiej Szepczyński, court messenger",
+  "count": 13,
+  "documents": [
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr115-8",
+   "app53170koningr116-8",
+   "app53170koningr117-11",
+   "app53170koningr117-12",
+   "app53170koningr117-2",
+   "app53170koningr117-6",
+   "app53170koningr117-8",
+   "app53170koningr136-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Szeptycki",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Szepczyński",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0297_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0297_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-8",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0241_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0241_a2-L8_01.jpg",
+    "line": 39,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr116-8",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0132_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0132_a1-L8_01.jpg",
+    "line": 47,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-6",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0059_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0059_a1-L6_01.jpg",
+    "line": 33,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-11",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0272_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+    "line": 63,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-12",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0359_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
+    "line": 67,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-12",
+    "surface": "Szepczyński",
+    "page": 1,
+    "page_id": "0359_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
+    "line": 67,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
   "entity": "struensee",
   "display": "Struensee",
   "count": 13,
@@ -59384,6 +60218,108 @@
     "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
     "line": 14236,
     "doc_line": 42
+   }
+  ]
+ },
+ {
+  "entity": "prusimski-pawel",
+  "display": "Paweł Prusimski",
+  "count": 10,
+  "documents": [
+   "app53170koningr117-3",
+   "app53170koningr117-7",
+   "app53170koningr136-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimski",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 13,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 14,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 15,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 37,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 42,
+    "doc_line": 6
    }
   ]
  },
@@ -63696,20 +64632,20 @@
   ]
  },
  {
-  "entity": "szepczynski",
-  "display": "Bartłomiej Szepczyński, court messenger",
+  "entity": "prusimska-katarzyna",
+  "display": "Katarzyna Prusimska, born Rozdrażewska",
   "count": 6,
   "documents": [
-   "app53170koningr114-1",
-   "app53170koningr114-2",
-   "app53170koningr115-8",
-   "app53170koningr116-8",
-   "app53170koningr136-1"
+   "app53170koningr115-1",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr136-1",
+   "app536045-1"
   ],
   "mentions": [
    {
     "uid": "app53170koningr136-1",
-    "surface": "Szeptycki",
+    "surface": "Prusimska",
     "page": 4,
     "page_id": "0123_a2",
     "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
@@ -63717,49 +64653,49 @@
     "doc_line": 45
    },
    {
-    "uid": "app53170koningr136-1",
-    "surface": "Szepczyński",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
-   },
-   {
-    "uid": "app53170koningr114-1",
-    "surface": "Szepczyński",
+    "uid": "app536045-1",
+    "surface": "Prusimska",
     "page": 1,
-    "page_id": "0297_a2",
-    "scan": "APP_53_17_0_Konin_Gr_114_0297_a2-L1_01.jpg",
+    "page_id": "0673_a1",
+    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
     "line": 5,
-    "doc_line": 3
+    "doc_line": 2
    },
    {
-    "uid": "app53170koningr114-2",
-    "surface": "Szepczyński",
+    "uid": "app53170koningr115-1",
+    "surface": "Prusimska",
     "page": 1,
-    "page_id": "0334_a2",
-    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
-    "line": 12,
-    "doc_line": 3
+    "page_id": "0004_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
    },
    {
-    "uid": "app53170koningr115-8",
-    "surface": "Szepczyński",
-    "page": 1,
-    "page_id": "0241_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0241_a2-L8_01.jpg",
-    "line": 39,
-    "doc_line": 3
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
    },
    {
-    "uid": "app53170koningr116-8",
-    "surface": "Szepczyński",
+    "uid": "app53170koningr117-8",
+    "surface": "Prusimska",
     "page": 1,
-    "page_id": "0132_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0132_a1-L8_01.jpg",
-    "line": 47,
-    "doc_line": 3
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
    }
   ]
  },
@@ -65747,54 +66683,6 @@
     "scan": "III_HA_MdA_III_Nr_12367_0011_a-L9_01.jpg",
     "line": 129,
     "doc_line": 4
-   }
-  ]
- },
- {
-  "entity": "prusimska-katarzyna",
-  "display": "Katarzyna Prusimska, born Rozdrażewska",
-  "count": 4,
-  "documents": [
-   "app53170koningr115-1",
-   "app53170koningr136-1",
-   "app536045-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr136-1",
-    "surface": "Prusimska",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0673_a1",
-    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0004_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
    }
   ]
  },
@@ -67858,25 +68746,6 @@
     "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
     "line": 21564,
     "doc_line": 62
-   }
-  ]
- },
- {
-  "entity": "prusimski-pawel",
-  "display": "Paweł Prusimski",
-  "count": 1,
-  "documents": [
-   "app53170koningr136-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr136-1",
-    "surface": "Prusimski",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
    }
   ]
  },

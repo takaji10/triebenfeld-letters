@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 55
+  docs: 61
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 66
+  docs: 70
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 36
+  docs: 49
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1081,7 +1081,7 @@
   initial_en: "O"
   sort_de: "ausfertigung"
   initial_de: "A"
-  docs: 23
+  docs: 25
 - id: "vidimirt"
   kind: "law"
   lang: "de_la"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 58
+  docs: 67
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 30
+  docs: 35
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1860,7 +1860,7 @@
   initial_en: "L"
   sort_de: "l. s. (locus sigilli)"
   initial_de: "L"
-  docs: 26
+  docs: 27
 - id: "actum"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 34
+  docs: 39
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1936,7 +1936,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 40
+  docs: 43
 - id: "d-j"
   kind: "phrase"
   lang: "de"

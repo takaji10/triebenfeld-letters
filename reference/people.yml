@@ -354,6 +354,9 @@ people:
   jankowski:
     display: "Jankowski"
     match: "Jankowski"
+    # Joseph von Jankowski of the Oe 1 Bü 14526 deeds. The court messenger Jan
+    # Jankowski of Łukom (Konin register, 1778) is another man.
+    not_in: [app53170koningr117-1, app53170koningr117-9]
     tier: ""
     variants: []
   kaleschke:
@@ -589,7 +592,7 @@ people:
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])|D[ąa]m?bskiey(?![a-zà-ÿ])"
     # In the potash decree of 1763 (APP 53/6/0/-/45) "Prusimska" is Katarzyna,
     # born Rozdrażewska, two generations before Michalina: prusimska-katarzyna.
-    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1]
+    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8]
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
@@ -605,7 +608,7 @@ people:
     # Only in the documents where "Prusimska" is she: elsewhere the name is
     # Michalina (prusimska). Add a document here when one of hers comes in.
     match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])'
-    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1]
+    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8]
     tier: "Text-confirmed"
     variants: []
     identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The record of the inspection of Trąbczyn made at her request in July 1754 calls her widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates (APP 53/17/0/-/Konin Gr.136). Added 2026-10-06."
@@ -673,10 +676,10 @@ people:
     # Only in the document that names him: elsewhere "Prusimski" is the
     # Starost (prusimski) or Krzysztof (prusimski-krzysztof).
     match: 'Pru[sz]+ie?mski(?![a-zà-ÿ])'
-    only_in: [app53170koningr136-1]
+    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7]
     tier: "Text-confirmed"
     variants: []
-    identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). How he stands to Krzysztof Prusimski and to Antoni, the Starost, the documents in the edition do not say. Added 2026-10-07."
+    identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). Antoni Prusimski, the Starost, calls him his paternal uncle in his protest of March 1778 ('apud olim Magnificum Paulum Prusimski, sui Manifestantis Patruum', APP 53/17/0/-/Konin Gr.117), where a contract of 1744 for oak timber between him and the townsman Jan Tracholz is the ground of a suit. How he stands to Krzysztof Prusimski the documents in the edition do not say. Added 2026-10-07."
     distinct_from: [prusimski, prusimski-krzysztof]
     merge: false
   prusimski-krzysztof:

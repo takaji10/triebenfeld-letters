@@ -1,0 +1,214 @@
+{
+ "letter_id": "5",
+ "seq_archival": 5,
+ "parent_letter": "",
+ "unit": "app53170koningr117",
+ "uid": "app53170koningr117-5",
+ "pad": "app53170koningr117-005",
+ "permalink": "/documents/app53170koningr117/5/",
+ "doc_type": "protest",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1778-04",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1778-04]",
+ "date_inferred_from": "Entered on leaves 57 verso to 58 verso, between the headings of the sittings of 1 April 1778 (leaf 56) and 3 April 1778 (foot of leaf 58 verso). Leaf 57 recto, where a heading of 2 April could stand, is not among the scans.",
+ "year": 1778,
+ "month": 4,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 25,
+ "line_end": 29,
+ "uncertainty_count": 7,
+ "has_damage": 0,
+ "rough_transcription": 1,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "M Chełmski contra Magnificum Sokołowski Manifestatur\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~\nStanisław Scibor Chełmski",
+ "text_reading": "M Chełmski contra Magnificum Sokołowski Manifestatur\n\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~\n\nStanisław Scibor Chełmski",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0058_a2",
+   "line_start": 27,
+   "line_end": 29,
+   "n_lines": 3,
+   "diplomatic": "M Chełmski contra Magnificum Sokołowski Manifestatur\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~\nStanisław Scibor Chełmski",
+   "transcription": "M Chełmski contra Magnificum Sokołowski Manifestatur\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~\nStanisław Scibor Chełmski",
+   "reading": "M Chełmski contra Magnificum Sokołowski Manifestatur\n\nAd Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~\n\nStanisław Scibor Chełmski",
+   "paragraphs": [
+    "M Chełmski contra Magnificum Sokołowski Manifestatur",
+    "Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor Chełmski Thesaurarius Vschoven~ Reassumendo anteriores Manifestationes contestat~ Decretum Campestre Graniciale inter Bona sui Łukom, Trąmpczyn JMci~ Prusimski Capitanei Nieszczevicen~ et alia pro Commissarios pro parte vn~tis conductos ad tenorem Visionis Anni 1592 per Ministerialem et Nobilibus (pro ut Consuetudo illius temporis voluit) et ad tenorem Decreti Terrestris Coninen~ recognitae, pro anteriores pro tunc Bonorum Trąpczyna cohaeredes, seu verius ad hujusque non incusatae, Decretis binis Tribunalibus Annorum 1766 et 1768, authorisatae et Observati in dislimitatione injunctae intercesisse, Scopulisque pro Commissarios Instrumenti seu Sanciti Statuum Regni nitentes erectos, praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse, ast JMcum~ Prusimski Capitaneum Nieszczevicen~ et Commissarii pro parte ejus impetrati licet de conclusa dislimitatione perfati noverint, sipatos pro parte vn~tis scopulos cern[?]rint, et de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam habuerint, attamen his minime adversis, et primo Commissarii pro parte JM Prusimski potestate sui abutentes, Magnifico Alberto Czarnecki Camerario Graniciali Calissiensi ae~ inchoationem Commissionis pro JMcum~ Prusimski in Ordine Lustrationis documentorum, efformationis ductuum, ac[?] probandi Patrocinii conducto lustrationem ductus sipationem scopulorum pro commiserunt[?] tam ad excipiendum a parte super realitatem ductuum juramentum, ac alia pro agenda admiserunt, et designaverunt, Qui M Camerarius prolibitu sui jam post Abscessum JMcorum~ Commissariorum aliquot Septimanarum interstiti[um?] Decretum conscribi curaverat, documentaque pro oportunitate in uno loco pro legitimis in altero pro invalibilibus attrahere facultatem sibi permiserat. Is Idem autem JM Prusimski habita protecta (ut superius est mentionatum) de prostito pro vn~tem jurti~ notitia, minus etiam gnarus gra~erum sui uti raro in praesentia sui attestatarum Juramentum contra Juramentorum offerre animadvertenter praesumpsit, testasque[?] ad simile cum Eodem prostandum Juramentum unum ex collateralitate ad Citatum Alterum Sensu praefato correntem, tertium in Servitiis Magnifici Czarnecki existentem immediate Petricoviae ad latus sui suscepitt[?], nec in his oris unquam existentem, ac alios inconsiderabiles adsciverat, Qua ex republiae praemissa exponendo JMcum~ Prusimski rne~ horum Omnium incusat et si opus fuerit etiam Inquitionibus praemissa probaturum[?] et deducturum se Offert~",
+    "Stanisław Scibor Chełmski"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 29,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyna",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The Honourable Chełmski against the Honourable Sokołowski — Manifest Filed\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honourable Stanisław Scibor Chełmski, Thesaurarius [Treasurer] of Wschowa — reassuming his prior manifests — attests that the commissarial boundary field decree between his estates of Łukom, [and] Trąbczyn of the Honourable Prusimski, Starost of Niszczewice, and others — [issued] by the commissioners engaged on behalf of the petitioning party, according to the tenor of the judicial site inspection of the year 1592 [conducted] by a court official and nobles as the custom of that time required, and according to the tenor of the recognised Konin Land Court decree — for the previous joint heirs of the estates of Trąbczyn at that time, or more accurately unchallenged to this day — authorised by the two Tribunal decrees of the years 1766 and 1768, and the demarcation enjoined therein having been carried out — had intervened; and the mounds erected by the commissioners relying on the instrument or statute of the Estates of the Realm, with jurisdiction rendered for the opposing party at the final axial mound, had been firmly confirmed;\n\nyet the Honourable Prusimski, Starost of Niszczewice, and the commissioners procured on his behalf — although, having declared that they knew of the concluded demarcation, had seen the mounds placed for the petitioning party, and had received due notice of the jurisdiction rendered for those appearing in accordance with the form of the Statute in confirmation of those same [mounds] — notwithstanding all these things, and first the commissioners on behalf of the Honourable Prusimski, abusing their authority, entrusted to the Honourable Albert Czarnecki, Boundary Surveyor of Kalisz — engaged for the Honourable Prusimski for the commencement of the commission in the matter of the review of documents, the formation of boundary lines, and the conduct of the advocacy — the lustration of the boundary line and the placing of the mounds; and admitted and designated him both for the reception of the oath from the party regarding the reality of the boundary lines and for other matters to be transacted. Which Honourable Boundary Surveyor, at his own pleasure, already after the departure of the Honourable Commissioners and an interval of several weeks, had caused the decree to be drawn up; and had allowed himself the ability to treat documents according to opportunity — in one place as legitimate, in another as inviolable.\n\nAnd the same Honourable Prusimski — having had protected notice, as mentioned above, of the oath rendered for the opposing party — not even being aware of his own grievances, as he rarely is, deliberately presumed in his own presence to offer a counter-oath against the oaths attested there; and had recruited as witnesses for standing the same oath alongside him: one from among the collateral cognates, having been cited; another running there under the aforesaid protection; a third — immediately from Piotrków, found in the service of the Honourable Czarnecki — having taken him to his side; never having been present in those parts; and had recruited other persons of no account.\n\nHaving set out these matters as contrary to the Republic, he incriminates the Honourable Prusimski for all of them, and offers that, if need be, he will prove and deduce the aforesaid matters through sworn inquiries.\n\nStanisław Ścibor Chełmski"
+  }
+ ],
+ "text_english": "The Honourable Chełmski against the Honourable Sokołowski — Manifest Filed\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honourable Stanisław Scibor Chełmski, Thesaurarius [Treasurer] of Wschowa — reassuming his prior manifests — attests that the commissarial boundary field decree between his estates of Łukom, [and] Trąbczyn of the Honourable Prusimski, Starost of Niszczewice, and others — [issued] by the commissioners engaged on behalf of the petitioning party, according to the tenor of the judicial site inspection of the year 1592 [conducted] by a court official and nobles as the custom of that time required, and according to the tenor of the recognised Konin Land Court decree — for the previous joint heirs of the estates of Trąbczyn at that time, or more accurately unchallenged to this day — authorised by the two Tribunal decrees of the years 1766 and 1768, and the demarcation enjoined therein having been carried out — had intervened; and the mounds erected by the commissioners relying on the instrument or statute of the Estates of the Realm, with jurisdiction rendered for the opposing party at the final axial mound, had been firmly confirmed;\n\nyet the Honourable Prusimski, Starost of Niszczewice, and the commissioners procured on his behalf — although, having declared that they knew of the concluded demarcation, had seen the mounds placed for the petitioning party, and had received due notice of the jurisdiction rendered for those appearing in accordance with the form of the Statute in confirmation of those same [mounds] — notwithstanding all these things, and first the commissioners on behalf of the Honourable Prusimski, abusing their authority, entrusted to the Honourable Albert Czarnecki, Boundary Surveyor of Kalisz — engaged for the Honourable Prusimski for the commencement of the commission in the matter of the review of documents, the formation of boundary lines, and the conduct of the advocacy — the lustration of the boundary line and the placing of the mounds; and admitted and designated him both for the reception of the oath from the party regarding the reality of the boundary lines and for other matters to be transacted. Which Honourable Boundary Surveyor, at his own pleasure, already after the departure of the Honourable Commissioners and an interval of several weeks, had caused the decree to be drawn up; and had allowed himself the ability to treat documents according to opportunity — in one place as legitimate, in another as inviolable.\n\nAnd the same Honourable Prusimski — having had protected notice, as mentioned above, of the oath rendered for the opposing party — not even being aware of his own grievances, as he rarely is, deliberately presumed in his own presence to offer a counter-oath against the oaths attested there; and had recruited as witnesses for standing the same oath alongside him: one from among the collateral cognates, having been cited; another running there under the aforesaid protection; a third — immediately from Piotrków, found in the service of the Honourable Czarnecki — having taken him to his side; never having been present in those parts; and had recruited other persons of no account.\n\nHaving set out these matters as contrary to the Republic, he incriminates the Honourable Prusimski for all of them, and offers that, if need be, he will prove and deduce the aforesaid matters through sworn inquiries.\n\nStanisław Ścibor Chełmski",
+ "summary_en": "A protest of Stanisław Ścibor Chełmski, Treasurer of Wschowa, entered at Konin in April 1778 and signed by him; the heading names as his opponent one Sokołowski, whom the text does not mention. Chełmski takes up his earlier protests: the boundary decree between his Łukom and Prusimski's Trąbczyn was given by the commissioners brought in on his side, following the inspection of 1592 and two Tribunal decrees of 1766 and 1768, and the boundary mounds were raised. Prusimski's commissioners knew of this and nonetheless abused their power: they left to Albert Czarnecki, boundary chamberlain of Kalisz, whom Prusimski had engaged, the inspection of the boundary line, the raising of the mounds and the taking of the oath. Czarnecki had the decree written only some weeks after the commissioners had left. Prusimski offered oath against oath and took as fellow-swearers a neighbour who was himself cited, a man in Czarnecki's service who had never been in those parts, and other persons of no account. Chełmski accuses Prusimski of all this and offers to prove it by an inquiry of witnesses.",
+ "summary_de": "Protest von Stanisław Ścibor Chełmski, Schatzmeister von Wschowa, eingetragen in Konin im April 1778 und von ihm unterschrieben; die Überschrift nennt als Gegner einen Sokołowski, den der Text nicht erwähnt. Chełmski nimmt seine früheren Proteste auf: Das Grenzdekret zwischen seinem Łukom und Prusimskis Trąbczyn sei durch die von seiner Seite beigezogenen Kommissare nach der Besichtigung von 1592 und nach zwei Tribunalsdekreten von 1766 und 1768 ergangen, und die Grenzhügel seien errichtet. Prusimskis Kommissare hätten davon gewusst und dennoch ihre Befugnis missbraucht: Sie hätten Albert Czarnecki, Grenzkämmerer von Kalisz, den Prusimski angenommen hatte, die Besichtigung des Grenzzugs, die Errichtung der Hügel und die Abnahme des Eides überlassen. Czarnecki habe das Dekret erst einige Wochen nach der Abreise der Kommissare schreiben lassen. Prusimski habe Eid gegen Eid angeboten und als Mitschwörer einen selbst geladenen Nachbarn, einen Mann aus Czarneckis Dienst, der nie in der Gegend gewesen sei, und andere unbedeutende Leute herangezogen. Chełmski beschuldigt Prusimski all dessen und bietet an, es durch Zeugenverhör zu beweisen.",
+ "reading": {}
+}
