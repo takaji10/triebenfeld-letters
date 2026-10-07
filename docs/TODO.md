@@ -244,8 +244,11 @@ Your review, in this order:
       source"): 53/6/0/-/46 entry no. 17 (the decree of 1777 on the debt
       bought from Tracholz) and 53/6/0/-/47 entry no. 43 (the hearing
       fixed in 1784 for the boundary of Biskupice and Łomów).
-- [ ] **One fold to place:** 306.jpg of 53/6/0/-/47, on
-      `review/app536047/folds/index.html`. It is set by eye.
+- [x] The fold of 306.jpg of 53/6/0/-/47: fine as set (you, 2026-10-07).
+- [ ] **Entry no. 43 of 53/6/0/-/47:** you find it not really relevant to
+      the project. It is still in the edition as the holding's second
+      document. Say whether it should come out; its text is kept either
+      way.
 - [x] **The questions that mattered most**: answered on 2026-10-07 and
       carried out (`docs/PRUSIMSKI_QUESTIONS.md`, "The editor's answers").
       The full check of the four holdings is done; Górski, the uncle,
@@ -284,9 +287,8 @@ Your review, in this order:
         transcribed for completeness.
   - [ ] *53/6/0/-/17:* three more entries on your scans (leaves 27 verso
         to 29) are not transcribed. Nothing is needed for what is built.
-  - [ ] *53/6/0/-/47, entry no. 26:* two words to look at again, seen
-        while reading entry no. 43: the proxy "[T/F?]eromski" is "Zeromski"
-        there, and "Capit~" after "Vadii" is "Capitalis".
+  - [x] *53/6/0/-/47, entry no. 26:* the proxy is "Zeromski" (corrected).
+        "Capitanealis" is what the scan has, written out; it stands.
 - [ ] Pyzdry Gr.75: deferred by you ("let's look at that later").
 
 ## 8. Carried over

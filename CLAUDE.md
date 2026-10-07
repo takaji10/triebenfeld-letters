@@ -264,8 +264,9 @@ so check them.
   is marked rough); **Górski** in the English, "Gorski" kept in the
   transcription; **two entries transcribed in session** as document 2 of
   53/6/0/-/46 (no. 17) and of 53/6/0/-/47 (no. 43). **What waits on the
-  editor:** their word to publish; their reading of the two new documents;
-  the fold of 306.jpg in 53/6/0/-/47 (set by eye). **The account of the
+  editor:** their word to publish; whether entry no. 43 of 53/6/0/-/47,
+  which they find not really relevant, stays in the edition (it is in, as
+  built). The fold of 306.jpg is approved as set. **The account of the
   era waits** until they have supplied the missing transcriptions. The
   backlog (headings of sittings, the middle of Konin Gr.136, three entries
   of 53/6/0/-/17) is in `docs/TODO.md`, section 7. The seven untranscribed

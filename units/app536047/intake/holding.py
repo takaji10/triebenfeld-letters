@@ -34,9 +34,7 @@ What read_source does to the editor's file beyond cutting it:
 
 The check (2026-10-07). The whole entry was read against the microfilm,
 enlarged. ROWS has what was corrected; a line the transcription had skipped
-on leaf 239 verso is restored. Left as the editor has them: "[T/F?]eromski"
-(the first letter is the clerk's T; no such name is known to me),
-"procuratorem" (the scan has "procurat~m", which could be "procuratorium", a
+on leaf 239 verso is restored. Left as the editor has them: "procuratorem" (the scan has "procurat~m", which could be "procuratorium", a
 power of attorney), "ex monte", "gasam". The last sentence, from "in
 Cancellaria", has pen lines drawn along its two lines of writing; they are
 taken for the rule that closes the entry and not for a deletion, since the
@@ -58,10 +56,15 @@ in the clearer of the two hands. Marked as doubtful: the first letter of
 page, and the first of the three letters at the close, "[S?]PK". The fold
 of 306.jpg (1741) is set by eye: the editor has not placed it.
 
-Seen while reading it, and not followed up: the proxy who is "[T/F?]eromski"
-in document 1 is written "Zeromski" here, twice, plainly; and the penalty
-is "medium Vadii Capitalis", half of a capital bail, where document 1 has
-"Capit~" read as the Starost's.
+Followed up at the editor's word (2026-10-07). The proxy who was
+"[T/F?]eromski" in document 1 is written "Zeromski" here, twice, plainly: the
+same man, and document 1 is corrected on that witness (full_check.json
+beside this file, applied with --full: one row and one place in the
+English for document 1, and a second row that takes a dot off the Z of
+"Zeromski" in NO43A below, which I had put there). The penalty here is "medium Vadii Capitalis", half of a capital
+bail. Document 1 has "medium vadii Capitanealis", and that is what its
+scan has, written out; it stands. The editor approved the fold of 306.jpg
+as set (2026-10-07).
 """
 import glob
 import os
@@ -71,6 +74,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
 import courtbook  # noqa: E402
+
+FULL = courtbook.full_check(HERE)
 
 SLUG = 'app536047'
 REF = 'APP 53/6/0/-/47'
@@ -178,7 +183,7 @@ def english():
     assert len(f) == 1, f
     leaves = courtbook.read_english(f[0])
     assert [(l, len(p)) for l, p in leaves] == [('213', 1), ('239v', 1), ('240', 2), ('236v', 1)], leaves
-    E = courtbook.fix_english({l: p for l, p in leaves}, FIXES)
+    E = courtbook.fix_english({l: p for l, p in leaves}, FIXES + FULL['FIXES'])
     j = '\n\n'.join
     return {1: [j(E['239v']), j(E['240'] + ['See the continuation under No. 22.']), j(['Continuation of No. 26.'] + E['236v'])]}
 

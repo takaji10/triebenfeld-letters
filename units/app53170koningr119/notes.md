@@ -38,4 +38,6 @@ Status `translated`. Built and verified locally, **not published**.
   the fold page on 2026-10-07, 7 scan(s), 5 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
 - Nothing else. The seven scans with entries that are not transcribed are
-  not relevant (editor, 2026-10-07) and stay out.
+  not relevant (editor, 2026-10-07) and stay out; asked again about scans 680
+  and 681, which touch the cause of 53/6/0/-/47 entry no. 43, the editor
+  said the same.

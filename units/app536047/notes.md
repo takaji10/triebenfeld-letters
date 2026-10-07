@@ -25,13 +25,19 @@ batch. Status `translated`. Built and verified locally, **not published**.
   from the film and translated in session (`NO43A`, `NO43B`, `EN43A`, `EN43B`
   in `holding.py`). Skórzewski against Chełmski over the boundary of
   Biskupice and Łomów; Prusimski and Stadnicki cited. On the page of changes
-  as a new source for the editor to read. **The fold of 306.jpg is set by
-  eye; the editor has not placed it** (the fold page is made again).
-- **For document 1, seen in document 2 and not followed up:** the proxy is
-  "Zeromski" (Wojciech Żeromski), plainly, twice; and the penalty is
-  "medium Vadii Capitalis". Look at both words in document 1.
-- **Left as the editor has them:** "[T/F?]eromski", "procuratorem", "ex
-  monte", "gasam". The pen lines along the last two lines of writing on
+  as a new source for the editor to read. The fold of 306.jpg was set by eye and
+  approved by the editor as it is (2026-10-07). The editor finds the entry
+  "not really relevant to the project"; it is left in as built until they
+  say whether it should come out.
+- **Zeromski.** Document 1 had "Albertum [T/F?]eromski"; document 2 writes the
+  same proxy "Zeromski" twice, plainly. Corrected in document 1 at the
+  editor's word (`intake/full_check.json`, applied with `--full`; not to be
+  applied again).
+- **"Capitanealis" stands.** Document 1 has "medium vadii Capitanealis",
+  written out on the scan; document 2 has "medium Vadii Capitalis". I had
+  told the editor that document 1 had an abbreviation there. It does not;
+  nothing is changed.
+- **Left as the editor has them:** "procuratorem", "ex monte", "gasam". The pen lines along the last two lines of writing on
   leaf 236 verso are taken for the closing rule, not a deletion.
 - Not indexed as people: Kłonica, Stablewski, the coachman and
   under-coachman.
@@ -41,5 +47,4 @@ batch. Status `translated`. Built and verified locally, **not published**.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 2 scan(s), 2 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The editor's reading of document 2 (page of changes) and their look at
-  the fold of 306.jpg.
+- The editor's word on whether document 2 stays in the edition.

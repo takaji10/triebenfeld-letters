@@ -1831,7 +1831,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Jakub Górski, boundary chamberlain of Inowrocław, has his Polish form in the English; the transcription keeps "Gorski" (the editor). Paweł Prusimski as Antoni's uncle, "jurato" and "condescensio" confirmed by the editor.
 - The fonds of 53/6 ("Księgi sądu ziemskiego w Koninie") and 53/15 ("Księgi sądu i urzędu grodzkiego w Kaliszu"), with the archive's description, are on the nine holdings' pages; the Skanoteka watermark is noted on the nine holdings whose photographs carry it.
 - The page of changes marks what was written after the editor read it ("New"), and counts it at the top.
-- Figures: 566 documents on 1,835 pages in 36 holdings; 743 marks of doubt; 561 translated.
+- In 53/6/0/-/47, entry no. 26, Prusimski's proxy is "Zeromski" (Wojciech Żeromski), on the witness of entry no. 43 (the editor, 2026-10-07).
+- Figures: 566 documents on 1,835 pages in 36 holdings; 742 marks of doubt; 561 translated.
 
 ## Deliverables produced
 

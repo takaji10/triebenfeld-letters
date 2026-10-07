@@ -457,6 +457,12 @@ Where the rest is:
   page of changes as a new source, with its whole text, for the editor to
   read. A scan the editor has not seen cut gets a fold set by eye and a line
   in the to-do list.
+- **Look at the word before saying what the text has.** While reading entry
+  no. 43 of 53/6/0/-/47 I told the editor that entry no. 26 had "Capit~"
+  where no. 43 has "Capitalis", from memory of its English. The text and
+  the scan of no. 26 have "Capitanealis", written out; the editor then told
+  me to "fix" it, and there was nothing to fix. A remark about another
+  document is checked against that document's text and scan first.
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer

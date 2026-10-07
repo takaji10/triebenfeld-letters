@@ -49,8 +49,8 @@ they were written, as the record of the defaults.
   hearing on the ground between Biskupice and Łomów for 16 July 1784, and
   scans 680 and 681 of Konin Gr.119 are two short notes of September 1784
   on that same cause, one of them a field decree between Biskupice, Łukom,
-  Trąbczyn and others being brought in. Said to the editor; their ruling
-  stands unless they change it.)
+  Trąbczyn and others being brought in. Said to the editor, who answered
+  the same day: scans 680 and 681 are not relevant.)
 - **The middle of Konin Gr.136 is not relevant;** it goes on the backlog to
   be transcribed for completeness.
 - **The fonds:** 53/6 is "Księgi sądu ziemskiego w Koninie" and 53/15 is
@@ -63,9 +63,18 @@ they were written, as the record of the defaults.
 - **Images of the headings of sittings:** low priority, backlog. Where to
   look is listed in `docs/TODO.md`, section 7.
 
-Still open after this: the editor's word to publish; their reading of the
-two new documents; the fold of 306.jpg; the smaller questions below, each
-built on its default.
+**A third round, the same day.** The editor: entry no. 43 of 53/6/0/-/47
+"is not really relevant to the project"; the fold of 306.jpg is fine as
+set; scans 680 and 681 of Konin Gr.119 are not relevant; "you can fix the
+Zeromski/Capitalis part". Done: the proxy in entry no. 26 is "Zeromski"
+(corrected on the witness of entry no. 43). "Capitanealis" in entry no. 26
+is left: the scan has the word written out, and what I had told the
+editor about it was wrong. Entry no. 43 is left in the edition as built
+until the editor says whether it should come out.
+
+Still open after this: the editor's word to publish; whether entry no. 43
+of 53/6/0/-/47 stays in; their reading of the new document of 53/6/0/-/46;
+the smaller questions below, each built on its default.
 
 ## For every holding
 

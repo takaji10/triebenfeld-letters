@@ -122,8 +122,9 @@ read, translate and summarise.
   The editor reviewed the folds and the page of changes on 2026-10-07 and
   answered the main questions; all of it is carried out (the full check of
   Konin Gr.117, Gr.118, Gr.153 and Gr.119; Górski; two entries newly
-  transcribed as documents). Open: their word to publish, their reading of
-  the two new documents, the fold of 306.jpg in 53/6/0/-/47, and the
+  transcribed as documents). Open: their word to publish, whether entry
+  no. 43 of 53/6/0/-/47 stays in the edition (they find it not really
+  relevant), and the
   backlog in `docs/TODO.md`, section 7. The account of the era waits for
   the transcriptions the editor will supply.
 
