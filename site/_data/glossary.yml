@@ -1290,7 +1290,7 @@
   initial_en: "P"
   sort_de: "pro memoria"
   initial_de: "P"
-  docs: 17
+  docs: 16
 - id: "notarius"
   kind: "law"
   lang: "la"
@@ -1822,7 +1822,7 @@
   initial_en: "P"
   sort_de: "pp., p."
   initial_de: "P"
-  docs: 84
+  docs: 85
 - id: "geruhen"
   kind: "phrase"
   lang: "de"

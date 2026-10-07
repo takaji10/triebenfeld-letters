@@ -303,9 +303,35 @@ The editor's convention: a word broken at the line end is marked ¬; a real hyph
 
 ## Rough transcription flag and open questions (2026-09-28)
 
-- 13 letters are marked `rough` in rulings.yml (17, 21, 33, 36, 38, 46, 114, 138, 161, 176, 217, 245, 296): the letter page says the text is still largely an uncorrected machine reading and to check the scan. Take a letter off the list when it has been re-read.
+- 12 letters are marked `rough` in rulings.yml (17, 21, 33, 36, 38, 46, 114, 138, 161, 176, 217, 296; 245 came off on 2026-10-07, see "Rescans of letters 245 and 289" below): the letter page says the text is still largely an uncorrected machine reading and to check the scan. Take a letter off the list when it has been re-read.
 - The editor cannot settle the remaining open questions from the page (letter 64 H. C. R. R. N, 207 H. R. R. Falz, Kircheisen in 8, L'Estocq in 56, Lottom / Stache / Ternuis / Rewen, 144 thenigtes, B. R. Glenck, Gen. B. at Jena in 20, der bidere B in 288). They stay as written.
-- Rescans requested for letter 245 (both pages) and 289 page 1: review/oe1bu9454/rescan_request_final.md. The trial reading of 245 (review/oe1bu9454/trial_245.csv, 101 rows) waits for them.
+- Rescans requested for letter 245 (both pages) and 289 page 1 (review/oe1bu9454/rescan_request_final.md): they came and are in, 2026-10-07; see "Rescans of letters 245 and 289" below. The trial reading of 245 (review/oe1bu9454/trial_245.csv) is superseded by it.
+
+## Rescans of letters 245 and 289 (2026-10-07)
+
+The archive's new scans of letter 245 (both pages) and letter 289 (both pages), with the editor's new transcription of each page, are in.
+The record is `intake/scripts/rescan_245_289.py` (text and images) and `intake/scripts/summaries_245_289.py` (summaries and reading
+record); neither is to be run again.
+
+- **Images.** 245 keeps its page ids (0455_a, 0456_a). 289 was two halves of two captures (0522_a2, 0523_a1); the new scans show each
+  page whole and are 0522_b and 0522_c, the editor's names. The old processed images are in the archive folder's `processed/_superseded/`.
+  `scan_rename_map.json` and `scan_decisions.json` are CRLF and in the archive's order: change a name in them in place, never rewrite them.
+- **Text.** Made line by line from the text that stood in the corpus (which had had every correcting pass), the editor's new
+  transcription, and the new scans read through enlarged. Where the two transcriptions differed the scan decided. 245 gained its last
+  line of page 1, which the old scan had lost at the torn foot; 289 gained the pencil date at the foot of page 1. Marks of doubt: 245
+  from 14 to 6, 289 from 13 to 1. 245 is off the `rough` list.
+- **Left as found** (nothing completed by guess): in 245 "praeciat" / "Praeciat" (a term for the son's 100,000 rt, twice; perhaps
+  Praecipuum), "Inträgen" on page 1 where page 2 has "Intrigen", the word after "Intresse" at the torn end of page 2 line 2, and "aus der
+  Casse" in an insertion above the line where a struck word between is not transcribed; in 289 "zu bring" (perhaps "zu Brieg"), "so
+  schrecklich bitte" (perhaps "litte"), "Circa 112/m" (perhaps "mit") and the name "Heneberg[?]". The editor's file had the pencil date
+  of 289 as "3. Mai 1815." at the head; it reads "5. Mai 1815." and stands at the foot.
+- **English.** Revised in session to follow the German (`intake/translation/doc245.yml`, `doc289.yml`, `write_cache.py` into the v2
+  cache; published with `--tag v2`, and only these two files changed).
+- **Summaries.** Written again in German and English, each statement held to the letter. `summarise.py --build` was NOT used to put
+  them into the site data: built from this machine's cache it would have reverted fifty summaries corrected in cloud sessions. The two
+  entries were replaced in `site/_data/summaries.yml` and `summaries_de.yml` by hand.
+- **Margin notes.** Both letters have a note in the margin (289 page 1, "welche an 80/m rt ..."; page 2, "wenn besonders die ...").
+  They stand where the editor's new transcription puts them, and the paragraph step still breaks them line by line, as before.
 
 ## Place names: German in the text, Polish (German) on the site (editor 2026-09-28)
 

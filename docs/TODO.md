@@ -265,7 +265,12 @@ Your review, in this order:
 - [x] **Published at your word on 2026-10-07**: the twenty-one Prusimski-era
       holdings are on the live site.
 - [x] **The timeline** takes in the Prusimski era (2026-10-07): sixteen
-      events, 1589 to 1788, each linked to its documents.
+      events, 1589 to 1788, each linked to its documents, and a band where
+      each era begins.
+- [x] **Oe 1 Bü 9454, letters 245 and 289**: the archive's new scans are in
+      (2026-10-07), with the text, English and summaries following them.
+      Eight words I could not settle are listed in the holding's notes;
+      they are on the spot sheet "Letters 245 and 289" if you want to look.
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
       only brought up to the facts for now.

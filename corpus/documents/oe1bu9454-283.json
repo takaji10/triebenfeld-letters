@@ -20,8 +20,8 @@
  "place": "Wien",
  "sender": "Beguelin",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 20069,
- "line_end": 20095,
+ "line_start": 20070,
+ "line_end": 20096,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0512_b",
-   "line_start": 20071,
-   "line_end": 20083,
+   "line_start": 20072,
+   "line_end": 20084,
    "n_lines": 13,
    "diplomatic": "283\nMonseigneur\nIl suffit que Votre Altesse Serenissime daigne me donner des ordres, pour\nque je mʼempresse de Lui obeïr selon mes facultés, je ne suis pas assés\npresomptueux pour oser croire quʼil soit possible que mon intervention\najoute un prix à une lettre qui vient de la part de Vôtre Altesse\nSerenissime ; Pour executer neanmoins Vos volontés Monseigneur, je remettrai\nincessament au Prince Chancellier dʼEtat la lettre qui lui est addressée\nje saisirai cette occasion pour lui mettre sous les yeux les desirs que Vôtre\nAltesse Serenissime a daignée me temoigner. Trop heureux si en executant\nles ordres du Prince Chancellier dʼetat je pouvois être lʼorgane dont il ſe\nservit pour remplir les volontés de Vôtre Altesse Serenissime. Ce nʼest\nquʼici à Vienne que jʼai appris à connoitre Mr. de Triebenfeld qui",
    "transcription": "283\nMonseigneur\nIl suffit que Votre Altesse Serenissime daigne me donner des ordres, pour\nque je mʼempresse de Lui obeïr selon mes facultés, je ne suis pas assés\npresomptueux pour oser croire quʼil soit possible que mon intervention\najoute un prix à une lettre qui vient de la part de Vôtre Altesse\nSerenissime ; Pour executer neanmoins Vos volontés Monseigneur, je remettrai\nincessament au Prince Chancellier dʼEtat la lettre qui lui est addressée\nje saisirai cette occasion pour lui mettre sous les yeux les desirs que Vôtre\nAltesse Serenissime a daignée me temoigner. Trop heureux si en executant\nles ordres du Prince Chancellier dʼetat je pouvois être lʼorgane dont il ſe\nservit pour remplir les volontés de Vôtre Altesse Serenissime. Ce nʼest\nquʼici à Vienne que jʼai appris à connoitre Mr. de Triebenfeld qui",
@@ -59,8 +59,8 @@
   {
    "page": 2,
    "page_id": "0513_a1",
-   "line_start": 20085,
-   "line_end": 20095,
+   "line_start": 20086,
+   "line_end": 20096,
    "n_lines": 11,
    "diplomatic": "mʼetoit entierement inconnu jusquʼà present. Il lui suffisoit du reste\nde me parler de Vôtre Altesse Serenissime pour que je pretasse la\nplus grande attention à tout ce quʼil avoit à me dire.\nDaignéz agréer Monseigneur lʼexpression du très profond respect\navec lequel jʼai lʼhonneur dʼêtre\nMonseigneur\nde Votre Altesse Serenissime\nVienne le 26 Mars 1815.\nle très humble & tres soumis\nserviteur\nBeguelin",
    "transcription": "mʼetoit entierement inconnu jusquʼà present. Il lui suffisoit du reste\nde me parler de Vôtre Altesse Serenissime pour que je pretasse la\nplus grande attention à tout ce quʼil avoit à me dire.\nDaignéz agréer Monseigneur lʼexpression du très profond respect\navec lequel jʼai lʼhonneur dʼêtre\nMonseigneur\nde Votre Altesse Serenissime\nVienne le 26 Mars 1815.\nle très humble & tres soumis\nserviteur\nBeguelin",
@@ -87,7 +87,7 @@
    "page": 1,
    "page_id": "0512_b",
    "scan": "Oe_1_Bu_9454_0512_b-L283_01.jpg",
-   "line": 20083,
+   "line": 20084,
    "doc_line": 13
   },
   {
@@ -98,7 +98,7 @@
    "page": 2,
    "page_id": "0513_a1",
    "scan": "Oe_1_Bu_9454_0513_a1-L283_02.jpg",
-   "line": 20095,
+   "line": 20096,
    "doc_line": 24
   }
  ],

@@ -498,6 +498,24 @@ Where the rest is:
   what the later holdings had disproved. When holdings change what is
   known, the timeline, the story page and the About page are read again
   as a reader sees them.
+- **New scans of pages already in the edition** (Oe 1 Bü 9454, letters 245
+  and 289, 2026-10-07). The text is not swapped for the new transcription:
+  it is made line by line from the corpus text (which carries every earlier
+  ruling), the new transcription and the new scan, the scan deciding. Then,
+  in this order: the images (archive folder, `pages/`, the two scan maps),
+  `regenerate.py --unit`, a diff of the letter's front matter against HEAD
+  (date, place, sender must not move), the English (`doc<N>.yml`,
+  `write_cache.py`, publish with the holding's tag, diff: only those
+  letters), the summaries, the `rough` list, the count of marks of doubt.
+- **Do not run `summarise.py --build` on this machine to publish a changed
+  summary.** It assembles the whole file from the local cache, which is
+  behind the repository: on 2026-10-07 it would have reverted fifty
+  summaries and brought back one for a document that no longer exists.
+  Change the entry in `site/_data/summaries.yml` and `summaries_de.yml`
+  directly, and the cache file too.
+- **`scan_rename_map.json` and `scan_decisions.json` are CRLF and unsorted.**
+  A script that loads and dumps them rewrites every line. Replace the name
+  in place as text.
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer

@@ -25881,112 +25881,111 @@
  },
  "oe1bu9454-245": {
   "letter": "245",
-  "legibility": "partly garbled",
-  "notes": "Line 2 shows this is a petition from Triebenfeld to Staats Kanzler Hardenberg, written on behalf of Prince Hohenlohe, who is in need (probably the piece enclosed in doc 246). Against Medicinalrath Cosmar, executor of the late Fürstin Sacken: the majorat estates Schlawenschitz, Lassowitz and Oppurg (worth over 2 million Rthl, yield 79500 Rthl) and the 1811 Transact. The Curische Erben's claim is 426000 Rthl, settled at 112000. It asks for an advance of 112/m, annulment of the Transact, removal of Cosmar, and a report from the OLG Brieg. Nothing on Trąbczyn. Rough transcription, many passages garbled.",
+  "legibility": "legible",
+  "notes": "Read again in the working session on 2026-10-07 from the text corrected against the archive's new scans. A petition from Triebenfeld at Vienna (20 October 1814) to State Chancellor Hardenberg for Prince Hohenlohe, against the Medicinalrath Cosmar, executor of the late Princess Sacken: the entailed estates Schlawenschitz, Lassowitz and Oppurg (worth over 2 million Rthl, yield 79500 Rthl) and the Transact of 1811. The claim of the Curische Erben, 426000 Rthl, guaranteed by the King, is settled at 112000. It asks for an advance of 112/m, the annulment of the Transact, the removal of Cosmar and a report from the OLG Brieg. Nothing on Trąbczyn. The text is now legible throughout; six places are lost or in doubt.",
   "claims": [
    {
-    "statement": "Eingabe an Hardenberg für den Fürsten Hohenlohe in Not",
+    "statement": "Eingabe Triebenfelds an Staats Kanzler Hardenberg für den notleidenden Fürsten Hohenlohe",
     "lines": [
      2,
-     5,
-     6,
      7,
-     8
+     99
     ]
    },
    {
-    "statement": "Cosmar, Medizinalrat, beherrscht als Testamentsvollstrecker der Fürstin Sacken die Majoratsgüter Schlawenschitz, Lassowitz, Oppurg mit 79500 Rthl Ertrag",
+    "statement": "Medizinalrat Cosmar habe sich als Testamentsvollstrecker der Fürstin Sacken in die Majoratsgüter Sławięcice, Lasowice und Oppurg (79500 Rthl Ertrag) eingenistet",
     "lines": [
-     11,
-     12,
      14,
-     15,
-     16,
      17,
-     18,
      19,
-     20,
      21
     ]
    },
    {
-    "statement": "stützt sich auf Transact von 1811, zahlt nichts, legt keine Rechnung",
+    "statement": "gestützt auf einen Transact von 1811, den die Sterbende nur mit drei Kreuzen zeichnete",
     "lines": [
-     30,
-     31,
-     43,
-     45,
-     46,
-     47,
-     55
+     32,
+     33,
+     56
     ]
    },
    {
-    "statement": "Curische Erben wollen für 426000 Rthl 112000 nehmen",
+    "statement": "er ziehe alle Einkünfte ein und lege keine Rechnung",
     "lines": [
-     53,
-     54,
-     67
+     20,
+     47
     ]
    },
    {
-    "statement": "Bitte um Vorschuss von 112000 Rthl, Aufhebung des Transacts, Absetzung Cosmars",
+    "statement": "Die Curischen Erben wollen für 426000 Rthl 112000 nehmen",
     "lines": [
-     71,
+     68
+    ]
+   },
+   {
+    "statement": "Erbeten werden ein Vorschuss von 112000 Rthl, Aufhebung des Transacts, Cosmars Entfernung",
+    "lines": [
      72,
-     74,
      75,
      76
     ]
    },
    {
-    "statement": "Bericht des Oberlandesgerichts Brieg erbeten",
+    "statement": "und ein Bericht des Oberlandesgerichts Brzeg",
     "lines": [
-     89,
-     90,
      91
     ]
    },
    {
-    "statement": "Triebenfeld bietet Kaution von 60000 Rthl",
+    "statement": "Triebenfeld bietet 60000 Rthl Kaution",
     "lines": [
-     76
+     77
     ]
    }
   ],
   "doubtful_words": [
    {
     "line": 5,
-    "word": "allerhäbniße[...]",
-    "note": "garbled, perhaps 'allerunterthänigst'"
+    "word": "allersubmiße[...]",
+    "note": "the end of the word is torn away"
    },
    {
     "line": 22,
-    "word": "Advitalitaets besiztern",
-    "note": "probably 'Advitalitäts Besitzerin'"
+    "word": "geschied[en?]",
+    "note": "the end of the line is at the edge"
    },
    {
-    "line": 27,
-    "word": "Besuchrund",
-    "note": "garbled, perhaps 'Bevollmächtigter'"
+    "line": 23,
+    "word": "gekrän[...]",
+    "note": "the end of the line is lost"
    },
    {
-    "line": 43,
-    "word": "canckwirten",
-    "note": "probably 'sanctionirten'"
-   },
-   {
-    "line": 50,
-    "word": "Mk.",
-    "note": "elsewhere rt; probably a misreading"
+    "line": 48,
+    "word": "praeciat",
+    "note": "the letters as read; the term is not identified"
    },
    {
     "line": 52,
-    "word": "Einwendigung",
-    "note": "garbled line"
+    "word": "Exc. [...]",
+    "note": "a small word is torn away"
+   },
+   {
+    "line": 54,
+    "word": "Intresse v[?]",
+    "note": "the torn end of the line"
+   },
+   {
+    "line": 55,
+    "word": "unterschrieb[...]",
+    "note": "the end of the line is lost"
+   },
+   {
+    "line": 80,
+    "word": "Praeciat",
+    "note": "the same term as on page 1"
    }
   ],
-  "read_against": "97bac67b2ec16cee"
+  "read_against": "session 2026-10-07 (intake/scripts/summaries_245_289.py)"
  },
  "oe1bu9454-246": {
   "letter": "246",
@@ -30556,112 +30555,83 @@
  },
  "oe1bu9454-289": {
   "letter": "289",
-  "legibility": "partly garbled",
-  "notes": "Triebenfeld in Wien schreibt an Cabinets Rath Albrecht über die Forderung der Curischen Erben gegen den Fürsten Hohenlohe: 300/m rt, mit Zinsen 426/m rt. Der König hatte die Schuld als Selbstschuldner unterschrieben, hatte sich dann losgesagt und in Wien eine neue Prüfung in Berlin zugesagt. Darauf wurden die Vergleichsverhandlungen um ca. 112/m rt abgebrochen. Triebenfeld bittet um einen kategorischen Bescheid: Entweder zahlt der König und die Cosmarische Administration der Majoratsgüter wird aufgehoben, oder der König sagt sich los, damit der Vergleich geschlossen werden kann, und schießt die Vergleichssumme vor. Trąbczyn kommt nicht vor.",
+  "legibility": "legible",
+  "notes": "Read again in the working session on 2026-10-07 from the text corrected against the archive's new scans. Triebenfeld at Vienna (5 May 1815) to Cabinets Rath Albrecht on the claim of the Curische Erben against Prince Hohenlohe: 300/m rt, with interest 426/m rt. The late King signed as principal debtor; the King disclaimed it, then at Vienna promised the heiresses to have it laid before him at Berlin, and the heirs withdrew from the settlement at about 112/m rt. Triebenfeld asks for a categorical decision. Trąbczyn is not mentioned.",
   "claims": [
    {
-    "statement": "Die Curischen Erben fordern 300/m Rthl, mit Zinsen 426/m Rthl; der König hat als Selbstschuldner unterschrieben",
+    "statement": "Triebenfeld bittet Albrecht, beim König einen kategorischen Bescheid zur Forderung der Curischen Erben zu erwirken",
     "lines": [
-     4,
+     39,
+     80,
+     94
+    ]
+   },
+   {
+    "statement": "Die Schuld beträgt 300/m Rthl, mit Zinsen 426/m Rthl, und der verstorbene König hat sie als Selbstschuldner unterschrieben",
+    "lines": [
      5,
-     6,
      7,
      10
     ]
    },
    {
-    "statement": "Früher wollten die Erben sich mit circa 112/m Rthl vergleichen",
-    "lines": [
-     16,
-     17,
-     18
-    ]
-   },
-   {
-    "statement": "Bitte an Albrecht um einen kategorischen Bescheid des Königs",
-    "lines": [
-     39,
-     40,
-     41,
-     42,
-     43,
-     77,
-     78,
-     79
-    ]
-   },
-   {
-    "statement": "Zahlt der König, soll die Cosmarische Administration aufgehoben werden",
+    "statement": "Zahlt der König, soll die Cosmarische Administration der Majoratsgüter aufgehoben werden",
     "lines": [
      51,
-     52,
-     53,
-     54,
-     55
+     54
     ]
    },
    {
-    "statement": "Sagt der König sich los, soll der Vergleich geschlossen und die Summe vom König vorgeschossen werden",
+    "statement": "der Fürst habe in vier Jahren statt 96/m nur 2500 Rthl erhalten",
     "lines": [
-     56,
+     42,
+     43
+    ]
+   },
+   {
+    "statement": "Sagt er sich los, will Triebenfeld mit den Erben vergleichen, die zuvor circa 112/m Rthl annehmen wollten",
+    "lines": [
+     17,
      57,
-     58,
-     59,
-     60,
-     64,
-     65,
-     66
+     60
     ]
    },
    {
-    "statement": "Cosmar verwaltet die Majoratsgüter und legt seit 4 Jahren keine Rechnung",
+    "statement": "und bittet um einen königlichen Vorschuss dafür",
     "lines": [
-     35,
-     36,
+     67
+    ]
+   },
+   {
+    "statement": "Cosmar legt keine Rechnung",
+    "lines": [
      37
-    ],
-    "check": "overstated",
-    "why": "Lines 35-37 say Cosmar administers the Majorat estates and 'gibt keinem Menschen davon schon seit 4 Jahr wenig oder nichts, legt keine Rechnung'. The 4 years belong to his paying out little or nothing. The letter says he keeps no accounts but gives no time span for that."
+    ]
    }
   ],
   "doubtful_words": [
    {
-    "line": 5,
-    "word": "E.",
-    "note": "wohl F. (Fürst) v. Hohenlohe"
-   },
-   {
-    "line": 17,
-    "word": "noch",
-    "note": "wohl 'nach welchem'"
-   },
-   {
-    "line": 68,
-    "word": "noch",
-    "note": "wohl 'nach'"
-   },
-   {
     "line": 23,
-    "word": "roth",
-    "note": "wohl 'Rath'"
+    "word": "Heneberg[?]",
+    "note": "the name is not surely read"
    },
    {
-    "line": 15,
-    "word": "Beweg",
-    "note": "wohl 'bewog'"
+    "line": 24,
+    "word": "zu bring",
+    "note": "perhaps \"zu Brieg\""
    },
    {
-    "line": 34,
+    "line": 28,
     "word": "bitte",
-    "note": "wohl 'litte'"
+    "note": "perhaps \"litte\""
    },
    {
     "line": 17,
-    "word": "einzuschreiten",
-    "note": "wohl 'einzugehen/einzutreten'"
+    "word": "Circa",
+    "note": "perhaps \"mit\""
    }
   ],
-  "read_against": "f32cb869892679e5"
+  "read_against": "session 2026-10-07 (intake/scripts/summaries_245_289.py)"
  },
  "oe1bu9454-290": {
   "letter": "290",

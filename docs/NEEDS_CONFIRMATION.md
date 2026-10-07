@@ -18,9 +18,11 @@ repository; they are on the working machine.
   and on the words in `review/ihagrrep7cnr3709/unresolved.md`, some of them
   in the French petition.
 read, translate and summarise.
-- **Rescans, Oe 1 Bü 9454**: letter 245 (both pages) and letter 289 page 1,
-  requested in `review/oe1bu9454/rescan_request_final.md`. The trial reading
-  of 245 (`review/oe1bu9454/trial_245.csv`, 101 rows) waits for them.
+- **Rescans, Oe 1 Bü 9454**: settled 2026-10-07. The archive's new scans of
+  letter 245 and letter 289 are in, with the text corrected against them,
+  the English revised and the summaries written again
+  (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289"). A few
+  words in them are left as found and listed there.
 - **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
   list, 2026-10-02; state of 2026-10-05). Scans are in the editor's folders
   and no transcription is with them: Minor Prusimska's claims to her father's
