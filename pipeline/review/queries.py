@@ -78,11 +78,33 @@ def pages(corpus):
     return out
 
 
+_OTHER = {}
+
+
+def other_unit(slug):
+    """The corpus of another holding, for a row that names it in a `unit` column.
+
+    A sheet belongs to one holding, but a list of things to settle before
+    publishing runs across several (2026-10-07). Such a row carries the slug
+    of its own holding; its line number is a line of that holding's corpus.
+    """
+    if slug not in _OTHER:
+        u = unitlib.one_unit(slug)
+        c = io.open(os.path.join(u.dir, u.get('corpus') or 'corpus.txt'), encoding='utf-8').read().split('\n')
+        _OTHER[slug] = (c, letter_lines(c), pages(c), str(u.get('ref') or slug))
+    return _OTHER[slug]
+
+
 def build(rows, answers, corpus, slug, stem='open_queries'):
-    shown, pg = letter_lines(corpus), pages(corpus)
+    shown0, pg0, slug0, corpus0 = letter_lines(corpus), pages(corpus), slug, corpus
     out = []
     for i, r in enumerate(rows, 1):
         n = int(r['line'])
+        corpus, shown, pg, slug, where = corpus0, shown0, pg0, slug0, 'Letter'
+        if r.get('unit'):
+            slug = r['unit']
+            corpus, shown, pg, ref = other_unit(slug)
+            where = ref + ', document'
         a = answers.get(r['key'], {})
         v = a.get('reading', '')
         text = html.escape(corpus[n - 1])
@@ -101,7 +123,7 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         url = f"{SITE}/documents/{slug}/{r['letter']}/#p{pg.get(n, 1)}"
         out.append(
             f"<div class='row' data-key='{r['key']}' data-v='{html.escape(v, quote=True)}'>"
-            f"<div>{i}. <a href='{url}' target='_blank'>Letter {html.escape(r['letter'])}, "
+            f"<div>{i}. <a href='{url}' target='_blank'>{html.escape(where)} {html.escape(r['letter'])}, "
             f"page {pg.get(n, 1)}</a>, <b>line {shown.get(n, '?')}</b></div>"
             f"<div class=line>{text}</div>"
             f"<small>{html.escape(r['note'])}</small><div style='margin-top:8px'>{buttons}"
@@ -138,6 +160,9 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'rescan_choice': ('Pages to request from the archive', 'One row per page on the shortlist, worst first. Open the letter, look at the scan, and choose Request or Skip.'),
         'date_queries': ('Dates: yours against the page', 'Where the new transcription reads a date differently from the date you supplied. Pick the date the letter should carry.'),
         'pilot_summaries': ('Pilot: ten letters read', 'English renderings of the German summaries for ten letters. Their accuracy has been checked against the letters claim by claim, so you are not asked to judge that. Say only whether each picks out what you want: the right focus, something missing, too much detail, or the wrong emphasis.'),
+        'before_publishing': ('Before publishing', 'What still wants your word across the Prusimski-era holdings: readings to '
+                              'settle on the page, and a few decisions. For a decision, pick a button or type under "Something else". '
+                              'Every row is built on the first button already, so nothing here holds up publishing but the last two rows.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

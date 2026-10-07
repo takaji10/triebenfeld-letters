@@ -75,6 +75,15 @@ Where the rest is:
   chat reply (2026-09-28): `pipeline/review/queries.py --unit <slug>`, with
   the site served beside it. Keep sheets short, and decide first what can be
   decided without them.
+  A sheet can run across holdings (2026-10-07): a row with a `unit` column
+  is a line of that holding's corpus, and a row with a `summary` column asks
+  for a decision instead of a reading (its options are the buttons). The
+  sheet "Before publishing" was made so: `python pipeline/review/queries.py
+  --unit app536046 --sheet before_publishing.csv`, with the built site
+  served on port 4000 (`python -m http.server 4000` in `site/_site`); a
+  copy of its rows is `docs/PRUSIMSKI_before_publishing.csv`, and the
+  answers are read with `--read`. The first option of each row is what
+  is already built.
 - **A list of rows to rule on is not a deliverable.** Given 173 paragraph
   decisions to review, they answered: "I can't review 173 rows. Please take
   informed decisions on what to do." Read every row in context, decide it

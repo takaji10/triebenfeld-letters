@@ -260,6 +260,11 @@ Your review, in this order:
         53/6/0/-/46 no. 17, 53/6/0/-/47 no. 43, seven scans of Konin Gr.119,
         the middle of Konin Gr.136);
       - dates inferred where the heading of a sitting was not photographed.
+- [ ] **The sheet "Before publishing"** (14 rows, 2026-10-07): everything
+      that still wants your word, readings and decisions, on one spot
+      sheet at http://127.0.0.1:4101 while this session runs. Every row is
+      built on its first button; only the last two (the scans, and the
+      word to publish) decide anything about publishing.
 - [ ] **Say when to publish.**
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
