@@ -74,9 +74,32 @@ it out." Done the same day: 53/6/0/-/47 is one document again, and the
 text of entry no. 43 is kept as a record in the holding
 (`intake/entry_43.md`).
 
-Still open after this: the editor's word to publish. Not holding it up:
-their reading of the new document of 53/6/0/-/46, and the smaller
-questions below, each built on its default.
+**The spot sheet "Before publishing"** (fourteen rows, answered by the
+editor the same day; the rows are `docs/PRUSIMSKI_before_publishing.csv`,
+the answers `docs/PRUSIMSKI_before_publishing_answers.json`):
+
+- 53/6/0/-/46, entry no. 17: "Laetare" stands; the town is "Vitkovien~" (the
+  editor asked whether other mentions of Tracholz name it: none does; the
+  English gives Witkowo, my identification); "initorum". Entry no. 16: the
+  28th of October stands.
+- Konin Gr.117, document 1: "Invocavit" stands. So the decree and the
+  citation disagree on the day of the hearing, and the pages say so.
+- 53/6/0/-/47, entry no. 26: the pen lines are the closing rule; the
+  sentence stays.
+- Konin Gr.145: the tower sentence as I read it (he enters twelve weeks
+  after the decree and sits two weeks); my English of the paragraph on leaf
+  680 is fine.
+- Konin Gr.118, the note on leaf 266 verso that I transcribed: fine.
+- Konin Gr.116, Rajewicz's protest: the editor reads "Cumque", not my
+  "Citraque". Applied; "without his consent" is withdrawn everywhere.
+  ("Utraque" was also typed in the sheet's box; asked.)
+- Konin Gr.120: the Kinos entry stays.
+- Konin Gr.119: "Starost" for "Capitaneus" throughout the English.
+- The page images from Poznań: go ahead, as with the earlier holdings.
+- **Publish now.** Done on 2026-10-07.
+
+Nothing is open after this but the backlog (`docs/TODO.md`, section 7) and
+the smaller questions below, each built on its default.
 
 ## For every holding
 

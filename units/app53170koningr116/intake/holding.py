@@ -60,6 +60,13 @@ and the endings the editor gave to abbreviated words.
 
 The English is the editor's own. FIXES are the places where it followed a
 reading that was corrected, and SIGN_EN the signatures.
+
+The spot sheet of 2026-10-07. In Rajewicz's protest (document 5) the check
+had read "Citraque Ejus Assensum", without his consent. The editor, against
+the page, reads "Cumque". Their reading stands (full_check.json beside this
+file, applied with --full after --correct), their own English "with his
+consent [?]" is put back, and the summary no longer says anything about
+consent.
 """
 import glob
 import os
@@ -69,6 +76,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
 import courtbook  # noqa: E402
+
+FULL = courtbook.full_check(HERE)
 
 SLUG = 'app53170koningr116'
 REF = 'APP 53/17/0/-/Konin Gr.116'
@@ -235,7 +244,7 @@ def english():
     assert [(l, len(p)) for l, p in leaves] == [
         ('78v', 7), ('79', 2), ('89v', 4), ('90', 2), ('94v', 2), ('95v', 2), ('131v', 3), ('132', 1), ('175', 1),
         ('201v', 1), ('266v', 3), ('335v', 2)], [(l, len(p)) for l, p in leaves]
-    L = courtbook.fix_english(dict(leaves), FIXES)
+    L = courtbook.fix_english(dict(leaves), FIXES + FULL['FIXES'])
     j = '\n\n'.join
     return {
         1: [j(L['78v'][:2])],
@@ -262,8 +271,8 @@ S = {
      'A register note of a protest, entered at Konin in September 1775. Five commissioners of the field commission between Trąbczyn and Łukom appeared in person: Dąmbski, voivode of Brześć Kujawski, Brzeziński, Starost of Inowrocław, Dąmbski, standard-bearer of Brześć Kujawski, Kwilecki and Umiński. They protest against Chełmski and the commissioners brought in on his side, for an act that these made unilaterally on the disputed ground of Łukom and Trąbczyn. All five signed in their own hands, Ludwik Dąmbski as commissioner and president.'),
  4: ('Registervermerk über einen Protest, eingetragen in Konin im September 1775. Antoni Prusimski, Starost von Niszczewice und Erbherr von Trąbczyn, ist persönlich erschienen und protestiert gegen die Gliszczyński von Tomice, gegen Stanisław Chełmski von Łukomia und andere, wegen der Verwicklung des Grenzverfahrens im Feld und anderer Umstände. Der Protest wurde im Original eingereicht und liegt bei den vorgelegten Schriftstücken. Prusimski hat unterschrieben.',
      'A register note of a protest, entered at Konin in September 1775. Antoni Prusimski, Starost of Niszczewice and heir of Trąbczyn, appeared in person and protests against the Gliszczyńskis of Tomice, Stanisław Chełmski of Łukomia and others, for the entangling of the boundary proceedings in the field and for other circumstances. The protest was handed in in the original and is among the documents produced. Prusimski signed.'),
- 5: ('Registervermerk über einen Protest, eingetragen in Konin im September 1775. Piotr Rajewicz ist persönlich erschienen und erklärt vorsorglich, er habe sich in das zwischen Łukom und Trąbczyn betriebene Grenzverfahren in keiner Weise eingelassen, und was geschehen sei, sei ohne seine Zustimmung geschehen. Er hat unterschrieben.',
-     'A register note of a protest, entered at Konin in September 1775. Piotr Rajewicz appeared in person and declares, as a precaution, that he in no way took part in the boundary proceedings conducted between Łukom and Trąbczyn, and that what was done was done without his consent. He signed.'),
+ 5: ('Registervermerk über einen Protest, eingetragen in Konin im September 1775. Piotr Rajewicz ist persönlich erschienen und erklärt vorsorglich, er habe sich in das zwischen Łukom und Trąbczyn betriebene Grenzverfahren in keiner Weise eingelassen. Er hat unterschrieben.',
+     'A register note of a protest, entered at Konin in September 1775. Piotr Rajewicz appeared in person and declares, as a precaution, that he in no way took part in the boundary proceedings conducted between Łukom and Trąbczyn. He signed.'),
  6: ('Überschrift eines Eintrags vom 3. Oktober 1775: für den Erbherrn von Trąbczyn, Besichtigung des Grenzzugs. Der Eintrag selbst wurde nicht geschrieben.',
      'The heading of an entry of 3 October 1775: for the heir of Trąbczyn, an inspection of the boundary line. The entry itself was not written.'),
  7: ('Registervermerk über einen Gegenprotest vom 9. Oktober 1775. Stanisław Ścibor Chełmski, Erbherr des Gebiets von Łukomia, ist persönlich erschienen und protestiert seinerseits gegen Antoni Prusimski, Starost von Niszczewice, und gegen die Handlung der Grenzkommission zwischen Trąbczyn und Łukom. Der Gegenprotest liegt bei den vorgelegten Schriftstücken. Chełmski hat unterschrieben.',

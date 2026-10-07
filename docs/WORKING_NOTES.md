@@ -481,6 +481,16 @@ Where the rest is:
   (`git show <commit>:<file>`), keep the text as a record in `intake/`,
   clear what the build wrote (the letter page, the translation, the corpus
   files, the scan images, the cache file) and build the holding again.
+- **The editor's reading on the page overrules the check's.** In Rajewicz's
+  protest (Konin Gr.116) the check read "Citraque", built "without his
+  consent" on it, and said so in the English, the summary, the holding's
+  page and the page of changes. The editor, on the spot sheet, read
+  "Cumque". A reading that turns the sense of a sentence goes on a spot
+  sheet before anything is built on it; and when it is withdrawn, the
+  summary and the pages are cut back to what the remaining words say.
+- **A spot-sheet answer can carry leftover text.** The sheet keeps what was
+  typed under "Something else" after another button is picked. Read the
+  button as the answer, and ask about the leftover.
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer

@@ -238,8 +238,8 @@ so check them.
   for one review at the end.** Each question goes into
   `docs/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
   holding is built on the default. Nothing is published before the review.
-- **The run is finished: every court-book folder with a text is built**
-  (2026-10-07), verified, committed locally, **not pushed, not published**.
+- **The run is finished and published: every court-book folder with a text
+  is built** (2026-10-07) and went live the same day at the editor's word.
   Twenty-one Prusimski-era holdings, 93 documents, 1589 to 1788; the edition
   has 565 documents in 36 holdings. Beside Konin Gr.145 they are:
   **53/6/0/-/17** (`app536017`, 1589), **-/36** (`app536036`, 1644), **-/40**
@@ -265,8 +265,11 @@ so check them.
   transcription; **entry no. 17 of 53/6/0/-/46 transcribed in session** as that holding's
   document 2. (Entry no. 43 of 53/6/0/-/47 was transcribed too and taken out
   again at the editor's word, as not relevant; its text is kept in that
-  holding's `intake/entry_43.md`. Do not build it again.) **What waits on the
-  editor:** their word to publish, and nothing else that holds it up. **The account of the
+  holding's `intake/entry_43.md`. Do not build it again.) **Published at the
+  editor's word on 2026-10-07**, after they answered the spot sheet "Before
+  publishing" (`docs/PRUSIMSKI_QUESTIONS.md` lists the answers; the rows are
+  `docs/PRUSIMSKI_before_publishing.csv`). Nothing waits on the editor for
+  these holdings. **The account of the
   era waits** until they have supplied the missing transcriptions. The
   backlog (headings of sittings, the middle of Konin Gr.136, three entries
   of 53/6/0/-/17) is in `docs/TODO.md`, section 7. The seven untranscribed

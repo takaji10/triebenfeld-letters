@@ -43,6 +43,12 @@ editor's file.
   Stanisław Dąmbski, Rajewicz, Lipiński, Ostrowski, Zielonacki, the
   Gliszczyńskis.
 
+- **Rajewicz's protest (document 5): "Cumque".** The check read "Citraque
+  Ejus Assensum", without his consent. The editor, on the spot sheet of
+  2026-10-07, reads "Cumque" on the page; that stands, their English "with
+  his consent [?]" is back, and the summary and the holding's page no longer
+  speak of consent. ("Utraque" was also typed into the sheet's box.)
+
 ## Still to do
 
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on

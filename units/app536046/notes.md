@@ -24,10 +24,14 @@ fourth Prusimski-era batch. Status `translated`. Built and verified locally,
   translated in session (`NO17`, `EN17` in `holding.py`; the editor's first
   reading is in their Latin file under "[182v] N. 16to"). Not marked rough.
   It is on the page of changes as a new source for the editor to read.
+- **Spot sheet of 2026-10-07** (the editor, against the pages): in document
+  2 "Vitkovien~" and "initorum"; "Laetare" stands; in document 1 the search
+  at Konin is of the 28th. "Witkowo" in the English is my identification.
 - **Laetare or Invocavit.** Document 2 sets the hearing at Trąbczyn for the
   Monday after Laetare Sunday (30 March 1778); the citation in Konin
-  Gr.117, document 1, has the Monday after Invocavit (9 March). Both
-  were looked at. Not resolved; the holding's page says so.
+  Gr.117, document 1, has the Monday after Invocavit (9 March). The
+  editor looked at both: each stands as written; the holding's page says
+  so.
 - The heading of the sitting names the bench; Zielonacki, the deputy judge,
   signed the adjournment of 1776 (Kalisz Gr.425).
 

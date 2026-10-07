@@ -180,8 +180,8 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       the scans, 23 readings corrected, 93 dropped accents put right.
 - [x] The fold lines: you placed them on 2026-10-07 with the other
       holdings', and the pages are cut from your file.
-- [ ] **You: say when to publish it.** Built and verified here, committed
-      locally, not pushed.
+- [x] Published at your word on 2026-10-07, with the other Prusimski-era
+      holdings.
 - [x] All 122 pages checked against the scans for dropped phrases
       (2026-10-06): 27 found and restored, in the Polish and the English,
       and 207 misread words corrected. Three of the dropped phrases change
@@ -238,10 +238,9 @@ Your review, in this order:
       entries are marked **New** in green (39 entries), and the list at the
       top says which holdings have them. Now 57 significant, 136 facts,
       26 wording.
-- [ ] **Read the new document** (on the page of changes, a "new source"):
-      53/6/0/-/46 entry no. 17, the decree of 1777 on the debt bought from
-      Tracholz. It sets the hearing for the Monday after Laetare; the
-      citation in Konin Gr.117 has Invocavit. Not needed before publishing.
+- [x] The new document, 53/6/0/-/46 entry no. 17: you settled its open
+      words on the spot sheet. It has Laetare for the hearing and the
+      citation in Konin Gr.117 has Invocavit; both stand.
 - [x] The fold of 306.jpg of 53/6/0/-/47: fine as set (you, 2026-10-07).
 - [x] Entry no. 43 of 53/6/0/-/47: taken out at your word (2026-10-07);
       its text is kept in `units/app536047/intake/entry_43.md`.
@@ -260,12 +259,11 @@ Your review, in this order:
         53/6/0/-/46 no. 17, 53/6/0/-/47 no. 43, seven scans of Konin Gr.119,
         the middle of Konin Gr.136);
       - dates inferred where the heading of a sitting was not photographed.
-- [ ] **The sheet "Before publishing"** (14 rows, 2026-10-07): everything
-      that still wants your word, readings and decisions, on one spot
-      sheet at http://127.0.0.1:4101 while this session runs. Every row is
-      built on its first button; only the last two (the scans, and the
-      word to publish) decide anything about publishing.
-- [ ] **Say when to publish.**
+- [x] **The sheet "Before publishing"** (14 rows): you answered it on
+      2026-10-07 and the answers are applied (`docs/PRUSIMSKI_QUESTIONS.md`
+      lists them).
+- [x] **Published at your word on 2026-10-07**: the twenty-one Prusimski-era
+      holdings are on the live site.
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
       only brought up to the facts for now.

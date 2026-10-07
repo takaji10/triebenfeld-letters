@@ -117,14 +117,14 @@ read, translate and summarise.
     The editor ruled on 2026-10-05 that they are kept separate.
 
 - **The Prusimski-era court books** (2026-10-07): twenty holdings beside
-  Konin Gr.145 are built and not published. Everything open about them is
+  Konin Gr.145 were published at the editor's word on 2026-10-07. What was open about them is
   in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken.
   The editor reviewed the folds and the page of changes on 2026-10-07 and
   answered the main questions; all of it is carried out (the full check of
   Konin Gr.117, Gr.118, Gr.153 and Gr.119; Górski; entry no. 17 of
   53/6/0/-/46 transcribed as a document; entry no. 43 of 53/6/0/-/47
-  transcribed and then taken out as not relevant). Open: their word to
-  publish, and the
+  transcribed and then taken out as not relevant). The editor answered the spot sheet
+  "Before publishing" the same day and said to publish. Open: the
   backlog in `docs/TODO.md`, section 7. The account of the era waits for
   the transcriptions the editor will supply.
 

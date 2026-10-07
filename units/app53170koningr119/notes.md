@@ -32,6 +32,11 @@ Status `translated`. Built and verified locally, **not published**.
 - Not indexed as people: Maszewski, Jaroszewski, Liberacki, Raczyński, the
   messengers Stachowski, Bekierski, Matuszkiewicz.
 
+- **"Starost", not "Captain".** The editor's English of this holding had
+  "Captain of Niszczewice" and "Captain-General of Greater Poland"; at their
+  word (spot sheet, 2026-10-07) it is "Starost" throughout, as in their
+  other translations (`english()` in `holding.py`).
+
 ## Still to do
 
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on

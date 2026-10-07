@@ -8,7 +8,7 @@ Der Herausgeber hat die Einträge transkribiert, die die Grenzkommission betreff
 
 ### Prüfung an den Aufnahmen
 
-Die Einträge sind kurz, und ein KI-Modell (Claude) las sie alle neben den Aufnahmen und korrigierte 18 Lesungen. Den Sinn ändern: Rajewicz protestiert, es sei „ohne seine Zustimmung“ gehandelt worden, wo die erste Lesung kein klares Wort hatte; Dąmbski ist der „Palatin“, der Woiwode selbst, und die Überschrift des Protests der Kommissare nennt keinen Präses; der Starost von Inowrocław heißt Brzeziński; und die vier Überschriften, die auf ein ungelesenes Wort endeten, enden auf „Manifestatur“ oder „Remanifestatur“, Proteste und Gegenproteste. Die Unterschriften unter sieben Einträgen und das Wort „Vacuum“ mit der Unterschrift darunter bei zwei weiteren wurden ergänzt. Jede Änderung ist mit ihrem Grund verzeichnet.
+Die Einträge sind kurz, und ein KI-Modell (Claude) las sie alle neben den Aufnahmen und korrigierte 18 Lesungen. Den Sinn ändern: Dąmbski ist der „Palatin“, der Woiwode selbst, und die Überschrift des Protests der Kommissare nennt keinen Präses; der Starost von Inowrocław heißt Brzeziński; und die vier Überschriften, die auf ein ungelesenes Wort endeten, enden auf „Manifestatur“ oder „Remanifestatur“, Proteste und Gegenproteste. Die Unterschriften unter sieben Einträgen und das Wort „Vacuum“ mit der Unterschrift darunter bei zwei weiteren wurden ergänzt. Jede Änderung ist mit ihrem Grund verzeichnet.
 
 ### Abgrenzung und Datierung
 

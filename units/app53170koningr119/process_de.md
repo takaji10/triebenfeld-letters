@@ -18,7 +18,7 @@ Jeder Eintrag ist ein Dokument. Drei sind nach der Zeile „Actum in Conin“ un
 
 ### Übersetzung
 
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an vierzehn Stellen geändert, an denen der Text korrigiert worden war.
+Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an vierzehn Stellen geändert, an denen der Text korrigiert worden war, und „Captain“ für „Capitaneus“ wurde auf Wunsch des Herausgebers durchgehend zu „Starost“, wie in seinen übrigen Übersetzungen.
 
 ### Zusammenfassungen
 

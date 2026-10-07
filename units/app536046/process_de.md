@@ -6,7 +6,7 @@ Der Ordner enthält zwei Bilder eines Schwarzweiß-Mikrofilms, jedes mit zwei ge
 
 Der Herausgeber hat den Eintrag nach dem Film transkribiert und absatzweise geliefert, mit etwa dreißig Zweifelszeichen: Die Hand ist klein und kürzt fast jedes Wort ab. Die Datei des Herausgebers enthält außerdem die Überschrift der Sitzung, von einer Seite, die nicht unter den Aufnahmen ist, und eine erste Lesung des folgenden Eintrags Nr. 17, ohne Übersetzung.
 
-Auf Wunsch des Herausgebers hat ein KI-Modell (Claude) den Eintrag Nr. 17 neu nach dem vergrößerten Film transkribiert, mit der Lesung des Herausgebers daneben, und in dessen Begriffen übersetzt. Er ist das zweite Dokument. Drei seiner Wörter sind als zweifelhaft gekennzeichnet, und ein vom Schreiber gestrichenes Wort ist nicht wiedergegeben.
+Auf Wunsch des Herausgebers hat ein KI-Modell (Claude) den Eintrag Nr. 17 neu nach dem vergrößerten Film transkribiert, mit der Lesung des Herausgebers daneben, und in dessen Begriffen übersetzt. Er ist das zweite Dokument. Zwei seiner Wörter hat der Herausgeber danach an der Seite entschieden. Ein vom Schreiber gestrichenes Wort ist nicht wiedergegeben.
 
 ### Prüfung an den Aufnahmen
 

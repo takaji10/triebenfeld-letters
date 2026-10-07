@@ -6,12 +6,6 @@
 unit: "APP 53/17/0/-/Konin Gr.116: twelve register entries, 1775 to 1777"
 changes:
 - importance: significant
-  what: "Rajewicz protests that things were done WITHOUT his consent. The scan has \"Citr\" at the end of one line and \"que Ejus Assensum res sunt gestae\" on the next: citraque ejus assensum. Your English had \"with his consent [?]\"."
-  was: "Involverat [U?]tr?g[em?] Ejus Assensam res Sunt gesta"
-  now: "Involverat Citraque Ejus Assensum res Sunt gestae"
-  english_was: "yet things were done with his consent [?]"
-  english_now: "and that things were done without his consent"
-- importance: significant
   what: "The heading of the commissioners' protest has no \"Prezes\": it reads \"Illustres Magnifici Commissarii Campestres ... contra Actum Granitt. Manifestantur\". And Dąmbski is \"Palatini\", the palatine (voivode) himself, not \"of the Palatinate\"; he signs below as \"Wojewoda Brzeski Kujawski Jako Kommissarz Prezes\"."
   was: "Illustrissimi Prezes Magnifici Commissarii Campestres ... Illn [?]str~ / Dąmbski Palatinati Bresto Cujavia"
   now: "Illustres Magnifici Commissarii Campestres ... Manifestantur / Dąmbski Palatini Bresto Cujavia"
@@ -55,3 +49,10 @@ changes:
   what: "Smaller readings: \"Litt.\" (letters) of notice, not \"Lu~\"; \"pro Commissione ad Campum editarum\"; \"se de nullo modo\"; \"Requisiverunt\" for \"Recogno[si?]verunt\"; \"ad Diem hodiernam ... extradere Nequit\"; \"Sibique Extradi Petiit Decretum quoddam\"; \"ac si More oblatae in Actis Officii reperibile\". In the English \"[H?]\" is \"[Heirs]\": HH is plain on the scan."
   was: "Lu~ / se se nullo modo / Recogno[si?]verunt / ac Diem hodiernam ... extradens / Sibi qui ... quidam / ac si [?]eore oblatae in statis Officii seperibile"
   now: "Litt~ / se de nullo modo / Requisiverunt / ad Diem hodiernam ... extradere / Sibique ... quoddam / ac si More oblatae in Actis Officii reperibile"
+- importance: fact
+  new: "your answer on the spot sheet, 2026-10-07"
+  what: "Rajewicz's protest. I had read \"Citraque Ejus Assensum\", WITHOUT his consent, and changed your English to match. On the spot sheet you read the word on the page as \"Cumque\". Your reading stands: my \"Citraque\" and \"without his consent\" are withdrawn, and your English, with its mark of doubt, is back. If you wrote \"without his consent\" anywhere on the strength of this page, take it out. The other words of the clause stand as corrected (\"Ejus Assensum res Sunt gestae\")."
+  was: "Involverat [U?]tr?g[em?] Ejus Assensam res Sunt gesta"
+  now: "Involverat Cumque Ejus Assensum res Sunt gestae"
+  english_was: "yet things were done with his consent [?]"
+  english_now: "yet things were done with his consent [?]"

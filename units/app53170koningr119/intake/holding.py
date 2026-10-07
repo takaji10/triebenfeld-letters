@@ -217,6 +217,10 @@ def english():
     assert [(l, len(p)) for l, p in leaves] == [('62', 3), ('62v', 3), ('62v', 3), ('63', 3), ('73', 5), ('73', 2), ('128', 6),
                                                ('131', 2), ('304v', 4), ('685', 5)], [(l, len(p)) for l, p in leaves]
     E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES + FULL['FIXES'])
+    # "Capitaneus" is "Starost", as in the editor's other translations (the editor, spot sheet of 2026-10-07)
+    E = {i: [x.replace('Captain-General of Greater Poland', 'Starost General of Greater Poland')
+              .replace('Captain of Niszczewice', 'Starost of Niszczewice') for x in p] for i, p in E.items()}
+    assert not any('Captain' in x for p in E.values() for x in p)
     j = '\n\n'.join
     return {1: [j(E[0]), j(E[1])], 2: [j(E[2]), j(E[3])], 3: [j(E[4])], 4: [j(E[5])], 5: [j(E[6])], 6: [j(E[7])],
             7: [j(E[8])], 8: [j(E[9])]}

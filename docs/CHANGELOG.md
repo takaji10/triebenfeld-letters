@@ -1834,6 +1834,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 - In 53/6/0/-/47, entry no. 26, Prusimski's proxy is "Zeromski" (Wojciech Żeromski), on the witness of entry no. 43 (the editor, 2026-10-07).
 - Entry no. 43 of 53/6/0/-/47, added earlier the same day, was taken out again at the editor's word: it is a suit between Skórzewski and Chełmski over the boundary of Biskupice and Łomów and not relevant to the project. Its text is kept in the holding (`intake/entry_43.md`), because the reading "Zeromski" in entry no. 26 rests on it.
 - Figures: 565 documents on 1,833 pages in 36 holdings; 739 marks of doubt; 560 translated.
+- **The spot sheet "Before publishing"** (fourteen rows across the holdings, answered by the editor on 2026-10-07; `docs/PRUSIMSKI_before_publishing.csv` and `..._answers.json`). Readings settled against the page: in 53/6/0/-/46, entry no. 17, "Vitkovien~" and "initorum"; "Laetare" there and "Invocavit" in Konin Gr.117 both stand, so the two documents disagree on the day of the hearing; the search of the 28th of October stands; in Rajewicz's protest (Konin Gr.116) the editor reads "Cumque", and "Citraque", "without his consent", is withdrawn from the text, the English, the summary and the holding's page. Confirmed as built: the closing sentence of 53/6/0/-/47 no. 26, the tower sentence and the paragraph on leaf 680 in Konin Gr.145, the note on leaf 266 verso in Konin Gr.118, the Kinos entry in Konin Gr.120. "Capitaneus" is "Starost" throughout the English of Konin Gr.119.
+- **The Prusimski-era holdings were published at the editor's word on 2026-10-07**: twenty-one holdings, 93 documents, 1589 to 1788. Figures: 565 documents on 1,833 pages in 36 holdings; 737 marks of doubt; 560 translated.
 
 ## Deliverables produced
 

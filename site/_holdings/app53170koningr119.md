@@ -57,7 +57,7 @@ Each entry is a document. Three are dated by the line "Actum in Conin" directly 
 
 ### Translation
 
-The English is the editor's own translation and was not made again. It was changed in fourteen places where the text had been corrected.
+The English is the editor's own translation and was not made again. It was changed in fourteen places where the text had been corrected, and "Captain" for "Capitaneus" was made "Starost" throughout at the editor's word, as in their other translations.
 
 ### Summaries
 

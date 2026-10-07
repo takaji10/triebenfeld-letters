@@ -8,7 +8,7 @@ The editor transcribed the entries that concern the boundary commission and supp
 
 ### Check against the scans
 
-The entries are short, and an AI model (Claude) read all of them against the scans and corrected 18 readings. Those that change the sense: Rajewicz protests that things were done "without his consent", where the first reading had no clear word; Dąmbski is the "palatine", the voivode himself, and the heading of the commissioners' protest does not name a president; the Starost of Inowrocław is Brzeziński; and the four headings that ended in an unread word end in "Manifestatur" or "Remanifestatur", protests and counter-protests. The signatures under seven entries, and the word "Vacuum" with the signature under it in two more, were added. Each change is logged with its reason.
+The entries are short, and an AI model (Claude) read all of them against the scans and corrected 18 readings. Those that change the sense: Dąmbski is the "palatine", the voivode himself, and the heading of the commissioners' protest does not name a president; the Starost of Inowrocław is Brzeziński; and the four headings that ended in an unread word end in "Manifestatur" or "Remanifestatur", protests and counter-protests. The signatures under seven entries, and the word "Vacuum" with the signature under it in two more, were added. Each change is logged with its reason.
 
 ### Division and dating
 

@@ -6,7 +6,7 @@ The folder has two frames of a black and white microfilm, each showing two facin
 
 The editor transcribed the entry from the film and supplied it by paragraph, with about thirty marks of doubt in it: the hand is small and abbreviates nearly every word. The editor's file also has the heading of the sitting, from a page not among the images, and a first reading of the entry that follows, no. 17, without a translation.
 
-At the editor's word an AI model (Claude) transcribed entry no. 17 again from the film, enlarged, with the editor's reading beside it, and translated it in the editor's terms. It is the second document. Three of its words are marked as doubtful, and a word the clerk struck out is not given.
+At the editor's word an AI model (Claude) transcribed entry no. 17 again from the film, enlarged, with the editor's reading beside it, and translated it in the editor's terms. It is the second document. The editor then settled two of its words against the page. A word the clerk struck out is not given.
 
 ### Check against the scans
 
