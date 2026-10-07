@@ -1,0 +1,93 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53170koningr116
+ref: 53/17/0/-/Konin Gr.116
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Twelve entries from the register of the castle court at Konin, 1775 to
+  1777, on the commission that fixed the boundary between Trąbczyn and
+  Łukomia: the notices of its coming, the protests of the commissioners, of
+  Prusimski and of Chełmski while it sat, and the searches each side then
+  made at Konin for a decree that was not found there.
+title_de: >-
+  Zwölf Einträge aus dem Register des Burggerichts Konin, 1775 bis 1777, zur
+  Kommission, die die Grenze zwischen Trąbczyn und Łukomia festlegte: die
+  Bekanntmachungen ihres Kommens, die Proteste der Kommissare, Prusimskis
+  und Chełmskis während ihrer Sitzung und die Nachsuchen, die beide Seiten
+  danach in Konin nach einem Dekret anstellten, das dort nicht zu finden
+  war.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1775-1777
+# The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
+fonds: Księgi sądu i urzędu grodzkiego w Koninie
+date_span: 1775-1777
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Nine openings, each cut at the fold; thirteen of the halves are pages of
+# the edition (intake/holding.py). The editor approves or moves the folds on
+# review/app53170koningr116/folds/ before the holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1775-1777 (53.17.0.-.Konin Gr.116)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_17_0_Konin_Gr_116
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Twelve short entries from a register of the castle court of Konin for 1775
+  to 1777, in Latin, several with autograph signatures in Polish. They
+  concern the commission that the Estates appointed to fix the boundary
+  between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukom.
+  Two record the papers announcing it (August 1775). Four are protests
+  registered while it sat: by five of the commissioners against Chełmski and
+  commissioners of his own for an act made unilaterally, by Prusimski, by
+  Piotr Rajewicz, and Chełmski's counter-protest (9 October 1775). One is a
+  bare heading for an inspection of the boundary line (3 October 1775). On
+  16 February 1776 Prusimski's men ask for a commission decree given in
+  default against him; it has not been brought in. Two headings of 1776
+  announce searches for Chełmski and were left blank. One undated heading is
+  a protest by Prusimski for which no text was supplied. In the last, of
+  1777, Chełmski in person asks for the commission's decree signed by the
+  commissioners on Prusimski's side; it is not found.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Entries of a court register of 1775 to 1777, in formulaic Latin. The
+  English is the editor's own translation. "Videatur hoc loco ... in
+  Productis" notes that a paper is filed among those produced; "innotescentia"
+  a formal notice; "citatio" a summons; "oblata" a paper brought in to be
+  entered; "manifestatio" a protest and "remanifestatio" a counter-protest;
+  "requisitio" a request that the office search its records; "Vacuum" marks
+  a space left empty.

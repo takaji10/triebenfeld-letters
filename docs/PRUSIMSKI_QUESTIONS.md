@@ -116,3 +116,33 @@ the editor reviews. Nothing is published before that.
   image of leaves 182 and 182 verso would settle them.
 - The search at Konin: your text has the 28th of October; the film may have
   the 20th. **Default: left as the 28th.**
+
+### APP 53/17/0/-/Konin Gr.116 (1775 to 1777)
+
+- Three entries are a heading with nothing written under it (leaves 94
+  verso, 175, 201 verso). **Default: each is a document**, with the word
+  "Vacuum" and the signature under it where they stand.
+- Signatures were not in your text. **Default: added under seven entries**,
+  as written. Three words in the commissioners' signatures are not read and
+  are marked "[?]": after "Jo Brzezinski Sta", after "Stanisław Dąmbski" (a
+  blot), and after "Podwoie:" in Umiński's.
+- Rajewicz's protest: the scan has "Citr|que Ejus Assensum res sunt
+  gestae", without his consent; your English had "with his consent [?]".
+  **Default: changed.** Please look at it on the changes page.
+- "Bonorum Tomic Pdpesmie[?]" in Prusimski's protest. **Default: read as
+  "Possessores[?]" and left marked.**
+- Dates not on a photographed page. **Defaults:** the note of the
+  constitution, August 1775; the three protests on leaves 89 verso and 90,
+  September 1775; Prusimski's unwritten protest on leaf 266 verso, 1777;
+  Chełmski's search on leaf 335 verso, October 1777 (from the land court's
+  decree, 53/6/0/-/46). Photographs of the pages with the headings of those
+  sittings would settle the days.
+- "Limitatur" on leaf 266 verso: your "the matter is thereby restricted" is
+  kept. It may mean that the entry is closed off because no text was
+  supplied within three days. **Default: your English kept.**
+- A "Vacuum" signed by Chełmski stands at the top of leaf 95 verso, above
+  his counter-protest; its heading is on a page not photographed.
+  **Default: not transcribed.**
+- The right half of photograph 098 (leaf 95 recto) carries only the heading
+  of the sitting of 9 October 1775. **Default: not shown as a page; the
+  date is taken from it.**

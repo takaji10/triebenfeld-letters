@@ -1,0 +1,103 @@
+{
+ "letter_id": "5",
+ "seq_archival": 5,
+ "parent_letter": "",
+ "unit": "app53170koningr116",
+ "uid": "app53170koningr116-5",
+ "pad": "app53170koningr116-005",
+ "permalink": "/documents/app53170koningr116/5/",
+ "doc_type": "protest",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1775-09",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1775-09]",
+ "date_inferred_from": "Entered on leaves 89 verso and 90, between the headings of the sittings of 19 August 1775 (leaf 79) and 3 October 1775 (leaf 94 verso); the commission it concerns opened on 13 September 1775. The heading of its own sitting is on a page not among the scans.",
+ "year": 1775,
+ "month": 9,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 29,
+ "line_end": 33,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "N Rajewicz in Vim Diligentiae Manifestatur\nVideatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.\nPetrus Rajewicz mp",
+ "text_reading": "N Rajewicz in Vim Diligentiae Manifestatur\n\nVideatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.\n\nPetrus Rajewicz mp",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0090_a2",
+   "line_start": 31,
+   "line_end": 33,
+   "n_lines": 3,
+   "diplomatic": "N Rajewicz in Vim Diligentiae Manifestatur\nVideatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.\nPetrus Rajewicz mp",
+   "transcription": "N Rajewicz in Vim Diligentiae Manifestatur\nVideatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.\nPetrus Rajewicz mp",
+   "reading": "N Rajewicz in Vim Diligentiae Manifestatur\n\nVideatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.\n\nPetrus Rajewicz mp",
+   "paragraphs": [
+    "N Rajewicz in Vim Diligentiae Manifestatur",
+    "Videatur hoc Loco Manifestatio Certa ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae [de?] Diligenter Facta in Productis.",
+    "Petrus Rajewicz mp"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_116_0090_a2-L5_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0090_a2",
+   "scan": "APP_53_17_0_Konin_Gr_116_0090_a2-L5_01.jpg",
+   "line": 32,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0090_a2",
+   "scan": "APP_53_17_0_Konin_Gr_116_0090_a2-L5_01.jpg",
+   "line": 32,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "The Honourable Rajewicz — by force of due diligence — Protest\n\nLet there be seen here the Formal Protest made in fact and upon the personal appearance of the Honourable Piotr Rajewicz, declaring that he in no way had involved himself in the Boundary Act being conducted between the goods of Łukom and Trąbczyn — and that things were done without his consent — duly and diligently made, among the Produced Documents.\n\nPetrus Rajewicz, by his own hand"
+  }
+ ],
+ "text_english": "The Honourable Rajewicz — by force of due diligence — Protest\n\nLet there be seen here the Formal Protest made in fact and upon the personal appearance of the Honourable Piotr Rajewicz, declaring that he in no way had involved himself in the Boundary Act being conducted between the goods of Łukom and Trąbczyn — and that things were done without his consent — duly and diligently made, among the Produced Documents.\n\nPetrus Rajewicz, by his own hand",
+ "summary_en": "A register note of a protest, entered at Konin in September 1775. Piotr Rajewicz appeared in person and declares, as a precaution, that he in no way took part in the boundary proceedings conducted between Łukom and Trąbczyn, and that what was done was done without his consent. He signed.",
+ "summary_de": "Registervermerk über einen Protest, eingetragen in Konin im September 1775. Piotr Rajewicz ist persönlich erschienen und erklärt vorsorglich, er habe sich in das zwischen Łukom und Trąbczyn betriebene Grenzverfahren in keiner Weise eingelassen, und was geschehen sei, sei ohne seine Zustimmung geschehen. Er hat unterschrieben.",
+ "reading": {}
+}

@@ -309,7 +309,7 @@ people:
     # Only with his forename: Stanisław and Maciej Dąmbski sit on the same
     # commission, and Dąmbska is Michalina Prusimska's married name.
     match: 'Ludwik\w* (?:hrabi\w* na Lubrańcu )?D[ąa]mbsk\w*'
-    only_in: [app53170koningr145-1]
+    only_in: [app53170koningr145-1, app53170koningr116-3]
     tier: "Text-confirmed"
     variants: []
     identity: "Ludwik Dąmbski, Count of Lubraniec, voivode of Brześć Kujawski, Starost of Dybów and Gniewkowo: first named and president of the commission that the Polish parliament appointed in 1774 to settle the boundary between Trąbczyn and Łukomia, which sat from 13 September 1775; he signs its decree as 'preses commissionis' (APP 53/17/0/-/Konin Gr.145). Added 2026-10-06."

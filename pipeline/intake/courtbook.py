@@ -74,7 +74,8 @@ def read_english(path, drop_notes=()):
     cut = re.search(r"(?m)^#+\s*\**\s*(Translator's Notes|Translator’s Notes|Glossary)", s)
     if cut:
         s = s[:cut.start()]
-    parts = re.split(r'(?m)^\\?\[(\d+v?)\\?\]\s*$', s)
+    # the mark alone on its line, or dressed as a heading: "### **[78v]**"
+    parts = re.split(r'(?m)^(?:#+\s*)?\**\\?\[(\d+v?)\\?\]\**\s*$', s)
     out = []
     for leaf, text in zip(parts[1::2], parts[2::2]):
         paras = []

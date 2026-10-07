@@ -1,0 +1,72 @@
+# The claim check of the German summaries of APP 53/17/0/-/Konin Gr.116, made
+# in session on 2026-10-07 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The documents were read in the
+# Latin of corpus.txt as checked.
+#
+# Result: 37 statements, all supported. The dates of documents 1, 3, 4, 5, 11
+# and 12 are the edition's inference, stated as such in rulings.yml, and the
+# summaries of 11 and 12 say "wohl".
+
+app53170koningr116-001:
+- {claim: "Registervermerk im Buch des Burggerichts Konin, August 1775", verdict: supported, where: "the entry on leaf 78 verso, directly above the heading of 16 August 1775 (rulings.yml)"}
+- {claim: "vorgelegt wird ein Auszug der Konstitution, mit der die Stände der Republik eine Kommission auf den Grund von Trąbczyn angeordnet haben, um dieses Gut gegen Łukom abzugrenzen; der Auszug ist den Akten des königlichen Hofes in Warschau entnommen und liegt bei den vorgelegten Schriftstücken", verdict: supported, where: "Extractus Sancitae Constitutionis in Ordine demandatae ad Fundum Bonorum Trąmpczyn fine Dislimitationis Bonorum Eorundem cum Bonis Łukom a Statibus Reipublicae Commissionis et Actis Curiae Regiae Varsavie~ deprompti Oblata in Productis"}
+
+app53170koningr116-002:
+- {claim: "drei Registervermerke vom 16. August 1775 zur Bekanntmachung der Grenzkommission", verdict: supported, where: "Actum in Conin Feria Quarta post Festum Assumptionis ... Die 16ta Mensis Augusti Anno Domini 1775; three notes under it"}
+- {claim: "für Prusimski wird das Bekanntmachungsschreiben für die auf den Grund von Trąbczyn angesetzte Kommission vorgelegt, eingereicht vom ersten der Unterzeichner", verdict: supported, where: "Pro Parte Illustris Magnificus Prusimski Litt~ Innotescen~ Oblata. Videatur hoc Loco Litt~ Innotescentialium pro Commissione In Fundum Bonorum Trąpczyn Assignata per Primum In ordine Subscriptarum Oblata"}
+- {claim: "der Bericht über die Ladungen, die Antoni Prusimski, Starost von Niszczewice und Erbherr von Trąbczyn, an die Erbherren und Besitzer von Łukom, Podbiele und Szetlew sowie an Abt und Konvent von Ląd hat ergehen lassen", verdict: supported, where: "Citt~ Innotescentialium ex Parte Magnifici Antonii Prusimski Capitanei Nieszczevicens[em?] Bonorum Trąmpczyn haeredis In et Contra HH[?] et Possessores Bonorum Łukom Podbiele Szetlew tum Illustrissimum Reverendissimum Abbatem et Conventum Landensem ... Relatio"}
+- {claim: "der Bericht über die Ladungen, die Chełmski, Erbherr von Łukom, an die Erbherren von Trąbczyn, Drzewce und Biskupice zum Termin der Grenzkommission zwischen Trąbczyn und Łukom hat ergehen lassen", verdict: supported, where: "Citt~ Innotescentialium ex Parte Magnifici Chełmski Bonorum Łukom Haeredis contra H [?] Trąpczyn Drzewce Biskupice pro Termino Commissionis Granitialis Inter Trąpczyn et Łukom a Statibus Regni Assignatae Incidenti edita Relatio"}
+
+app53170koningr116-003:
+- {claim: "Registervermerk über einen Protest, eingetragen in Konin im September 1775", verdict: supported, where: "Videatur hoc Loco Manifestatio ... facta in Productis; leaf 89 verso, between the headings of 19 August and 3 October 1775 (rulings.yml)"}
+- {claim: "fünf Kommissare der Feldkommission zwischen Trąbczyn und Łukom sind persönlich erschienen: Dąmbski, Woiwode von Brześć Kujawski, Brzeziński, Starost von Inowrocław, Dąmbski, Fähnrich von Brześć Kujawski, Kwilecki und Umiński", verdict: supported, where: "Commissarii Campestres Inter Trąmpczyn et Łukom; ex re et Personali Comparitione Illustrium Magnificorum Dąmbski Palatini Bresto Cujavia Brzezinski Capitanei Junivladislaviensi[?] Dąmbski Vexilliferi Bresto Cujaviae Kwilecki Dapiferi Vschoven~ Umiński Dapiferi Kovale~"}
+- {claim: "sie protestieren gegen Chełmski und die von seiner Seite beigezogenen Kommissare wegen einer Handlung, die diese einseitig auf dem strittigen Grund von Łukom und Trąbczyn vorgenommen haben", verdict: supported, where: "contra M Chełmski tum Illustres ex Parte Ejus Conductos Commissarios Idque ratione Actus Unilateraliter per Eos in Fundo Controverso Bonorum Łukom et Trąmpczyn Confecti"}
+- {claim: "alle fünf haben eigenhändig unterschrieben, Ludwik Dąmbski als Kommissar und Präses", verdict: supported, where: "Ludwik Dąmbski Wojewoda Brzeski Kujawski Jako Kommissarz Prezes mp; Jo Brzezinski ... mp; Stanisław Dąmbski ... mp; Jan na Kwilczu Kwilecki ... mp; Kaietan Uminski ... Komisarz"}
+
+app53170koningr116-004:
+- {claim: "Registervermerk über einen Protest, eingetragen in Konin im September 1775", verdict: supported, where: "Videatur hoc Loco Manifestatio ...; leaf 89 verso (rulings.yml)"}
+- {claim: "Antoni Prusimski, Starost von Niszczewice und Erbherr von Trąbczyn, ist persönlich erschienen und protestiert gegen die Gliszczyński von Tomice, gegen Stanisław Chełmski von Łukomia und andere, wegen der Verwicklung des Grenzverfahrens im Feld und anderer Umstände", verdict: supported, where: "ex re et Personali Comparitione Magnifici Antonii Prusimski Capitanei Niszczevicen~ Bonorum Trąmpczyn Haeredis In et Contra Magnificos Gliszczyński Bonorum Tomic Possessores[?] Stanislaus Chełmski Bonorum Łukomia Haeredes &c. Idque ratione Actus Campestris Granitialis Involutionis Aliarumque Circumstantiarum"}
+- {claim: "der Protest wurde im Original eingereicht und liegt bei den vorgelegten Schriftstücken", verdict: supported, where: "Facta et in Originali Porrecta in Productis"}
+- {claim: "Prusimski hat unterschrieben", verdict: supported, where: "Antoni na Kolnie Prusimski Sta: Nieszczew: mp"}
+
+app53170koningr116-005:
+- {claim: "Registervermerk über einen Protest, eingetragen in Konin im September 1775", verdict: supported, where: "Videatur hoc Loco Manifestatio ...; leaf 90 (rulings.yml)"}
+- {claim: "Piotr Rajewicz ist persönlich erschienen und erklärt vorsorglich, er habe sich in das zwischen Łukom und Trąbczyn betriebene Grenzverfahren in keiner Weise eingelassen, und was geschehen sei, sei ohne seine Zustimmung geschehen", verdict: supported, where: "in Vim Diligentiae; ex re et personali Comparitione N Petri Rajewicz prout se de nullo modo in Actum Granitialem Inter Bona i Łukom et Trąmpczyn Agitatum Involverat Citraque Ejus Assensum res Sunt gestae"}
+- {claim: "er hat unterschrieben", verdict: supported, where: "Petrus Rajewicz mp"}
+
+app53170koningr116-006:
+- {claim: "Überschrift eines Eintrags vom 3. Oktober 1775: für den Erbherrn von Trąbczyn, Besichtigung des Grenzzugs", verdict: supported, where: "Actum in Conin Feria Tertia Ante Festum Sancti Francisci Confessoris proxima Videlicet Die Tertio Mensis Octobris Anno Domini 1775. Ex Parte H Trąmpczyn Ductus Granitialis Visio"}
+- {claim: "der Eintrag selbst wurde nicht geschrieben", verdict: supported, where: "nothing follows the heading; the space under it on leaf 94 verso is barred with pen strokes (intake/holding.py)"}
+
+app53170koningr116-007:
+- {claim: "Registervermerk über einen Gegenprotest vom 9. Oktober 1775", verdict: supported, where: "Videatur hoc Loco Remanifestatio; the heading of the sitting on leaf 95 recto (rulings.yml)"}
+- {claim: "Stanisław Ścibor Chełmski, Erbherr des Gebiets von Łukomia, ist persönlich erschienen und protestiert seinerseits gegen Antoni Prusimski, Starost von Niszczewice, und gegen die Handlung der Grenzkommission zwischen Trąbczyn und Łukom", verdict: supported, where: "Remanifestatio Certa ex re et personali Comparitione Magnifici Stanislai Scibór Chełmski Bonorum Tractus Łukomia Haeredis In et Contra M Antonium Prusimski Capitaneum Nieszczevicensem et Actum Commissionis Granitialis Int~ Trąmpczyn et Łukom expeditae"}
+- {claim: "der Gegenprotest liegt bei den vorgelegten Schriftstücken; Chełmski hat unterschrieben", verdict: supported, where: "facta in Productis; Stanisław Chełmski mp"}
+
+app53170koningr116-008:
+- {claim: "Eintrag vom 16. Februar 1776", verdict: supported, where: "Actum in Conin Feria Sexta post Dominicam Sexagesimae proxima Videlicet Die Decima Sexta Mensis Februarii Anno Domini 1776"}
+- {claim: "Antoni Lipiński und Nicolaus Ostrowski erscheinen mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn vor dem Burgamt Konin", verdict: supported, where: "Ad officium et Acta praesenti Castrensia Coninensi personaliter veniens Generosi Antonius Lipiński et Nicolaus Ostrowski habito penes se Provido Bartholomaeo Szepczyński de Trąmpczyno Ministeriali Regni Generali"}
+- {claim: "im Namen von Antoni Prusimski von Kolno, Starost von Niszczewice und Erbherr von Trąbczyn, verlangen sie die Herausgabe eines Kommissionsdekrets, das kraft der neuen Konstitution auf dem strittigen Grund von Trąbczyn und Łukom als Versäumnisdekret gegen Prusimski ergangen und angeblich dem Amt zur Eintragung eingereicht worden sei", verdict: supported, where: "nomine Magnifici Antonii de Kolno Prusimski Capitanei Niszczevicensis Bonorum Trąmpczyn cum attinentiis extradi Pe[t?][?]erunt Decretum Commissoriale Vi Constitutionis Novellae in Fundo Controverso Bonorum Trąmpczyn et Łukom in Contumaciam Magnifici Prusimski Prolatum ac si ad Acta praesenti more Oblatae porrectum"}
+- {claim: "das Amt hat sein Protokoll durchgesehen: das Dekret ist bis zum heutigen Tag nicht eingereicht worden; das Amt kann es nicht herausgeben und bescheinigt die Nachsuche", verdict: supported, where: "reviso Protocollo Officii Porrectum eo[u?]sque ad Acta praesentia non est Idcirco Decretum praemissum exclusive ad Diem hodiernam hic Irreperibile extradere Nequit Eoque nomine Publicam requisitionis facit fidem"}
+- {claim: "die beiden haben unterschrieben", verdict: supported, where: "Antoni Lipinski Mikołaj Ostroski"}
+
+app53170koningr116-009:
+- {claim: "Überschrift eines Eintrags vom 1. Juli 1776: für Chełmski, Nachsuche nach dem in Trąbczyn und Łukom ergangenen Kommissionsdekret", verdict: supported, where: "Pro Parte M Chełmski Decreti Commissorialis in Trąpczyn et Łukom Lati Requisitio; the heading of the sitting at the top of the page (rulings.yml)"}
+- {claim: "der Eintrag wurde nicht geschrieben; über dem leeren Platz steht Vacuum, darunter die Unterschrift Fr. Zielonacki", verdict: supported, where: "Vacuum; Fr Zielonacki"}
+
+app53170koningr116-010:
+- {claim: "Überschrift eines Eintrags vom 5. September 1776: für Chełmski, Nachsuche nach dem Mandat und dem Felddekret, die zwischen den Gütern Łukom und Trąbczyn ergangen sind", verdict: supported, where: "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio; the heading of the sitting higher on the page (rulings.yml)"}
+- {claim: "der Eintrag wurde nicht geschrieben; über dem leeren Platz steht Vacuum, auf der folgenden Seite unterschrieben von Stanisław Ścibor Chełmski", verdict: supported, where: "Vacuum (leaf 201 verso); Vacuum, Stanisław Scibor Chełmski (leaf 202)"}
+
+app53170koningr116-011:
+- {claim: "Überschrift eines Protests von Prusimski gegen Chełmski, ohne Datum, wohl 1777", verdict: supported, where: "M Prusimski contra M Chełmski Manifestatur; no heading of a sitting on the page (rulings.yml)"}
+- {claim: "darunter vermerkt der Schreiber, dass die Angaben dazu nicht geliefert wurden und dass auf Verlangen der Partei nach Ablauf von drei Tagen limitiert wird", verdict: supported, where: "Quoniam Informatio non est Data ad Requisitionem Partis post Elapsum Triduum Limitatur"}
+- {claim: "Antoni Prusimski von Kolno, Starost von Niszczewice, hat unterschrieben", verdict: supported, where: "Antoni na Kolnie Prusimski Starosta Nieszczewice manupropria"}
+
+app53170koningr116-012:
+- {claim: "Eintrag ohne Datum, wohl vom Oktober 1777", verdict: supported, where: "no heading of a sitting on the page; the land court decree of October 1777 cites the search (rulings.yml)"}
+- {claim: "Stanisław Ścibor Chełmski, Erbherr von Łukom, erscheint persönlich vor dem Burgamt Konin und verlangt die Herausgabe eines Feldkommissionsdekrets, das zwischen den Erbherren der Dörfer Nowa Wieś, Łazy, Osiny, Trąbczyn, Łukom und anderer ergangen sei, kraft der von den Ständen mit der Konstitution von 1775 erteilten Kommission, und das die Kommissare auf Seiten Prusimskis unterschrieben hätten", verdict: supported, where: "personaliter venientes Magnificus Stanislaus Scibór Chełmski Bonorum Łukom cum Attinentiis haeres Requisivit ... Decretum quoddam Commissoriale Campestre Inter haeredes Villarum Nowawieś Łazy Osiny Trąmpczyn Łukom et Alias ... vi Commissionis A Statibus Regni Republicae Constitutione Anni Millesimi Septingentesimi Septuagesimi Quinti emanatae Prolatum et per Illustres Magnificos Commissarios ex parte Magnifici Prusimski Capitanei Nieszczevice~ Subscript~"}
+- {claim: "das Amt findet es in seinen Akten nicht, kann es nicht herausgeben und bescheinigt die Nachsuche", verdict: supported, where: "Quoniam requisito temporis spatio in Actis non reperitur Ideo illud uti Irreperibile extradere non valet"}
+- {claim: "Chełmski hat unterschrieben", verdict: supported, where: "Stanisław Scibor Chełmski mp"}

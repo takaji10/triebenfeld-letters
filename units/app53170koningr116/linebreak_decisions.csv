@@ -1,0 +1,2 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+10,1,59,61,,Vacuum,Vacuum,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,Vacuum || Vacuum

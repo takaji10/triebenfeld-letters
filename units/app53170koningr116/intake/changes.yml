@@ -1,0 +1,57 @@
+# What the check of APP 53/17/0/-/Konin Gr.116 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.116: twelve register entries, 1775 to 1777"
+changes:
+- importance: significant
+  what: "Rajewicz protests that things were done WITHOUT his consent. The scan has \"Citr\" at the end of one line and \"que Ejus Assensum res sunt gestae\" on the next: citraque ejus assensum. Your English had \"with his consent [?]\"."
+  was: "Involverat [U?]tr?g[em?] Ejus Assensam res Sunt gesta"
+  now: "Involverat Citraque Ejus Assensum res Sunt gestae"
+  english_was: "yet things were done with his consent [?]"
+  english_now: "and that things were done without his consent"
+- importance: significant
+  what: "The heading of the commissioners' protest has no \"Prezes\": it reads \"Illustres Magnifici Commissarii Campestres ... contra Actum Granitt. Manifestantur\". And Dąmbski is \"Palatini\", the palatine (voivode) himself, not \"of the Palatinate\"; he signs below as \"Wojewoda Brzeski Kujawski Jako Kommissarz Prezes\"."
+  was: "Illustrissimi Prezes Magnifici Commissarii Campestres ... Illn [?]str~ / Dąmbski Palatinati Bresto Cujavia"
+  now: "Illustres Magnifici Commissarii Campestres ... Manifestantur / Dąmbski Palatini Bresto Cujavia"
+  english_was: "The Most Illustrious President and Right Honourable Field Commissioners ... Dąmbski, of the Palatinate of Brest-Kuyavia"
+  english_now: "The Most Illustrious Right Honourable Field Commissioners ... protest against the Boundary Act ... Dąmbski, Palatine of Brest-Kuyavia"
+- importance: fact
+  what: "The Starost of Inowrocław is Brzeziński (\"Brzezinski\" in the entry and in his signature; Józef Brzeziński in the decree of 1775), not Brzetiński."
+  was: "Brzetinski"
+  now: "Brzezinski"
+- importance: fact
+  what: "Signatures stand under seven entries and were not in your text. Under the commissioners' protest: Ludwik Dąmbski as commissioner and president, Jo. Brzeziński, Stanisław Dąmbski, Jan Kwilecki of Kwilcz, cup-bearer of Wschowa, and Kajetan Umiński, cup-bearer of Kowal and deputy voivode (three words in them not read). Under the others: Prusimski, Rajewicz, Chełmski (twice), and Lipiński with Ostrowski. The clerk's Latin calls Kwilecki and Umiński \"Dapiferi\" (pantler); they sign \"Czesnik\" (cup-bearer)."
+  was: "(not transcribed)"
+  now: "Ludwik Dąmbski Wojewoda Brzeski Kujawski Jako Kommissarz Prezes mp / Jo Brzezinski Sta [?] jako kommissarz mp / Stanisław Dąmbski [?] Komisarz mp / Jan na Kwilczu Kwilecki Czesnik Wschowski iako komisarz mp / Kaietan Uminski Czesnik Kowalski Podwoie: [?] Komisarz"
+- importance: fact
+  what: "The two searches announced for Chełmski in 1776 (leaves 175 and 201 verso) were never written: the space under each heading is filled with the word \"Vacuum\" and signed, the first by \"Fr Zielonacki\", the second, on leaf 202, by \"Stanisław Scibor Chełmski\". Both headings end \"Lati Requisitio\": the decree \"given\". Their dates are on the pages: 1 July 1776 and 5 September 1776."
+  was: "Lat[i/e?] Requisitio / La[?] Requisitio"
+  now: "Lati Requisitio / Vacuum / Fr Zielonacki; Lati Requisitio / Vacuum / Stanisław Scibor Chełmski"
+- importance: fact
+  what: "The four headings that ended in an unread word end in \"Manifestatur\" (Prusimski's protest, Rajewicz's), \"Manifestantur\" (the commissioners') and \"Remanifestatur\" (Chełmski's counter-protest)."
+  was: "[Anfso~?] / Ilorfstr[?] / Illn [?]str~ / Remnsstr[?]"
+  now: "Manifestatur / Manifestatur / Manifestantur / Remanifestatur"
+- importance: fact
+  what: "In Prusimski's protest the word after \"Bonorum Tomic\" is not a second place: it begins \"Poss\" and ends \"es\", and the heading has \"PP. Tomic\". I read \"Possessores\" and left it marked: the Gliszczyńskis, possessors of Tomice."
+  was: "Magnificos Gliszczyński Bonorum Tomic Pdpesmie[?]"
+  now: "Magnificos Gliszczyński Bonorum Tomic Possessores[?]"
+  english_was: "the Right Honourables Gliszczyński, heirs of the goods of Tomic [and] Pdpesmie[?]"
+  english_now: "the Right Honourables Gliszczyński, [uncertain: possessors] of the goods of Tomic"
+- importance: fact
+  what: "The note of the commissioners' protest does not say that it was handed in in the original; that is said only of Prusimski's protest, the next entry."
+  was: "(English) made and in the original submitted among the Produced Documents"
+  now: "(English) made, among the Produced Documents"
+- importance: fact
+  what: "Dates. On the pages: 16 August 1775 (the three notes), 3 October 1775 (the inspection heading), 9 October 1775 (Chełmski's counter-protest; the heading is on leaf 95 recto), 16 February 1776, 1 July 1776, 5 September 1776. Not on a photographed page, and inferred: the note of the constitution (August 1775), the three protests on leaves 89 verso and 90 (September 1775), Prusimski's unwritten protest on leaf 266 verso (1777), and Chełmski's search on leaf 335 verso (October 1777)."
+  was: "1775, 1776"
+  now: "see the dates on each document"
+- importance: fact
+  what: "Chełmski's own search on leaf 335 verso is the one the land court's decree of October 1777 (53/6/0/-/46) cites as made by him at Konin that October. The decree for which Prusimski's men searched on 16 February 1776 was one given \"in contumaciam\" of Prusimski: not the parliament's commission's decree, which was for him, and presumably the act of Chełmski's own commissioners. That last point is my reading; the entry does not say it."
+  was: "(no link drawn)"
+  now: "see the holding's page"
+- importance: wording
+  what: "Smaller readings: \"Litt.\" (letters) of notice, not \"Lu~\"; \"pro Commissione ad Campum editarum\"; \"se de nullo modo\"; \"Requisiverunt\" for \"Recogno[si?]verunt\"; \"ad Diem hodiernam ... extradere Nequit\"; \"Sibique Extradi Petiit Decretum quoddam\"; \"ac si More oblatae in Actis Officii reperibile\". In the English \"[H?]\" is \"[Heirs]\": HH is plain on the scan."
+  was: "Lu~ / se se nullo modo / Recogno[si?]verunt / ac Diem hodiernam ... extradens / Sibi qui ... quidam / ac si [?]eore oblatae in statis Officii seperibile"
+  now: "Litt~ / se de nullo modo / Requisiverunt / ad Diem hodiernam ... extradere / Sibique ... quoddam / ac si More oblatae in Actis Officii reperibile"

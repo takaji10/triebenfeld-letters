@@ -1,0 +1,150 @@
+{
+ "letter_id": "10",
+ "seq_archival": 10,
+ "parent_letter": "",
+ "unit": "app53170koningr116",
+ "uid": "app53170koningr116-10",
+ "pad": "app53170koningr116-010",
+ "permalink": "/documents/app53170koningr116/10/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1776-09-05",
+ "date_precision": "day",
+ "date_source": "sitting",
+ "date_display": "1776-09-05",
+ "date_inferred_from": "The heading of the sitting, higher on the same page: the Thursday after St Giles 1776, 'Die Quinta Mensis Septembris'.",
+ "year": 1776,
+ "month": 9,
+ "day": 5,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 56,
+ "line_end": 62,
+ "uncertainty_count": 2,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 4,
+ "n_pages": 2,
+ "text": "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio\nVacuum\nVacuum\nStanisław Scibor Chełmski",
+ "text_reading": "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio\n\nVacuum\n\nStanisław Scibor Chełmski",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0202_a1",
+   "line_start": 58,
+   "line_end": 59,
+   "n_lines": 2,
+   "diplomatic": "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio\nVacuum",
+   "transcription": "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio\nVacuum",
+   "reading": "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio",
+   "paragraphs": [
+    "Pro Parte M Chełmski Mandati et Decreti Campestris int[?] Bona Łukom [et?] Trąmpczyn Lati Requisitio"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0202_a2",
+   "line_start": 61,
+   "line_end": 62,
+   "n_lines": 2,
+   "diplomatic": "Vacuum\nStanisław Scibor Chełmski",
+   "transcription": "Vacuum\nStanisław Scibor Chełmski",
+   "reading": "Vacuum\n\nStanisław Scibor Chełmski",
+   "paragraphs": [
+    "Vacuum",
+    "Stanisław Scibor Chełmski"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a2-L10_02.jpg",
+   "doc_line_start": 3,
+   "doc_line_end": 4,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0202_a1",
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
+   "line": 58,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 2,
+   "page_id": "0202_a2",
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a2-L10_02.jpg",
+   "line": 62,
+   "doc_line": 4
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0202_a1",
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
+   "line": 58,
+   "doc_line": 1
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0202_a1",
+   "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
+   "line": 58,
+   "doc_line": 1
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Right Honourable Chełmski — Requisition of the Mandate and Field Decree issued between the goods of Łukom and Trąbczyn\n\nVacuum [\"empty\": the space left for the entry was not filled]"
+  },
+  {
+   "page": 2,
+   "en": "Vacuum\n\nStanisław Ścibor Chełmski"
+  }
+ ],
+ "text_english": "On behalf of the Right Honourable Chełmski — Requisition of the Mandate and Field Decree issued between the goods of Łukom and Trąbczyn\n\nVacuum [\"empty\": the space left for the entry was not filled]\n\nVacuum\n\nStanisław Ścibor Chełmski",
+ "summary_en": "The heading of an entry of 5 September 1776: for Chełmski, a search for the mandate and the field decree given between the estates of Łukom and Trąbczyn. The entry was not written; \"Vacuum\" stands across the empty space, signed on the following page by Stanisław Ścibor Chełmski.",
+ "summary_de": "Überschrift eines Eintrags vom 5. September 1776: für Chełmski, Nachsuche nach dem Mandat und dem Felddekret, die zwischen den Gütern Łukom und Trąbczyn ergangen sind. Der Eintrag wurde nicht geschrieben; über dem leeren Platz steht „Vacuum“, auf der folgenden Seite unterschrieben von Stanisław Ścibor Chełmski.",
+ "reading": {}
+}

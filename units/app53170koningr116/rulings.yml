@@ -1,0 +1,110 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.116 (APP).
+#
+# Twelve documents, one for each entry of the register; the three notes of
+# the sitting of 16 August 1775 are one document (docs/PRUSIMSKI_ERA_PLAN.md,
+# "One document or many"). Three entries are a heading with nothing written
+# under it (6, 9, 10); each is a document all the same
+# (docs/PRUSIMSKI_QUESTIONS.md). Which entry is which is in
+# intake/holding.py. Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+    "3": Konin
+    "4": Konin
+    "5": Konin
+    "6": Konin
+    "7": Konin
+    "8": Konin
+    "9": Konin
+    "10": Konin
+    "11": Konin
+    "12": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." directly above the entry, which the editor transcribed with it.
+  read:
+    "2": [1775, 8, 16, "day"]     # Feria Quarta post Festum Assumptionis ... Die 16ta Mensis Augusti 1775
+    "6": [1775, 10, 3, "day"]     # Feria Tertia Ante Festum Sancti Francisci ... Die Tertio Mensis Octobris 1775
+    "8": [1776, 2, 16, "day"]     # Feria Sexta post Dominicam Sexagesimae ... Die Decima Sexta Mensis Februarii 1776
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # Entries with no heading of a sitting on a photographed page.
+  inferred:
+    "1": [1775, 8, null, "month", "Entered on leaf 78 verso directly above the heading of the sitting of 16 August 1775; the heading of its own sitting is on an earlier page, not among the scans. The office sat every few days, so the entry is placed in the same month."]
+    "3": [1775, 9, null, "month", "Entered on leaves 89 verso and 90, between the headings of the sittings of 19 August 1775 (leaf 79) and 3 October 1775 (leaf 94 verso); the commission it concerns opened on 13 September 1775. The heading of its own sitting is on a page not among the scans."]
+    "4": [1775, 9, null, "month", "Entered on leaves 89 verso and 90, between the headings of the sittings of 19 August 1775 (leaf 79) and 3 October 1775 (leaf 94 verso); the commission it concerns opened on 13 September 1775. The heading of its own sitting is on a page not among the scans."]
+    "5": [1775, 9, null, "month", "Entered on leaves 89 verso and 90, between the headings of the sittings of 19 August 1775 (leaf 79) and 3 October 1775 (leaf 94 verso); the commission it concerns opened on 13 September 1775. The heading of its own sitting is on a page not among the scans."]
+    "11": [1777, null, null, "year", "No heading of a sitting is on the page. The entry stands on leaf 266 verso, between the sitting of 5 September 1776 (leaf 201 verso) and October 1777 (leaf 335 verso); the book fills about ten leaves a month, which puts it in the first months of 1777."]
+    "12": [1777, 10, null, "month", "No heading of a sitting is on the page. The land court's decree of October 1777 (APP 53/6/0/-/46) cites a search for the commission's decree that Chełmski made himself at the castle court of Konin in October of that year; this entry, in which he appears in person, answers to it."]
+
+  # The date of the sitting the entry stands under, where the heading is not
+  # directly above it and is not part of the transcription:
+  # [year, month, day, precision, basis].
+  sitting:
+    "7": [1775, 10, 9, "day", "The heading of the sitting is on the other side of the leaf, leaf 95 recto: the Monday after St Francis 1775, which was 9 October. The entry itself has no date."]
+    "9": [1776, 7, 1, "day", "The heading of the sitting, at the top of the same page: the Monday after Saints Peter and Paul 1776, 'Die Prima Mensis Julii'."]
+    "10": [1776, 9, 5, "day", "The heading of the sitting, higher on the same page: the Thursday after St Giles 1776, 'Die Quinta Mensis Septembris'."]
+  no_date: []
+
+documents:
+  # 3, 4, 5 and 7 are the registration of a protest, signed by the one who
+  # makes it; 8 and 12 the office's certificate of a search; the rest notes.
+  doc_type:
+    "1": note
+    "2": note
+    "3": protest
+    "4": protest
+    "5": protest
+    "6": note
+    "7": protest
+    "8": certification
+    "9": note
+    "10": note
+    "11": note
+    "12": certification
+
+  language:
+    "1": la
+    "2": la
+    "3": la
+    "4": la
+    "5": la
+    "6": la
+    "7": la
+    "8": la
+    "9": la
+    "10": la
+    "11": la
+    "12": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+    "2": [trabczyn, lukomia]
+    "3": [trabczyn, lukomia]
+    "4": [trabczyn, lukomia]
+    "5": [trabczyn, lukomia]
+    "6": [trabczyn, lukomia]
+    "7": [trabczyn, lukomia]
+    "8": [trabczyn, lukomia]
+    "9": [trabczyn, lukomia]
+    "10": [trabczyn, lukomia]
+    "11": [trabczyn, lukomia]
+    "12": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0079_a1", "0079_a2", "0090_a1", "0090_a2", "0095_a1", "0096_a1", "0132_a1", "0132_a2", "0175_a2", "0202_a1", "0202_a2", "0267_a1", "0336_a1"]
+
+damage:
+  letters: []
