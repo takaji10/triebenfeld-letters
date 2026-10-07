@@ -9020,7 +9020,7 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 395,
+  "count": 399,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -9079,6 +9079,8 @@
    "app53170koningr119-6",
    "app53170koningr119-7",
    "app53170koningr119-8",
+   "app53170koningr120-2",
+   "app53170koningr121-1",
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app53170koningr153-2",
@@ -12603,6 +12605,42 @@
     "doc_line": 3
    },
    {
+    "uid": "app53170koningr120-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0624_a1",
+    "scan": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
+    "line": 8,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr120-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0624_a1",
+    "scan": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr121-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0563_a2",
+    "scan": "APP_53_17_0_Konin_Gr_121_0563_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr121-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0563_a2",
+    "scan": "APP_53_17_0_Konin_Gr_121_0563_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
     "uid": "oe1bu9454-75",
     "surface": "Chełmski",
     "page": 3,
@@ -12652,7 +12690,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 392,
+  "count": 397,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -12721,6 +12759,8 @@
    "app53170koningr119-6",
    "app53170koningr119-7",
    "app53170koningr119-8",
+   "app53170koningr120-2",
+   "app53170koningr121-1",
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app53170koningr153-2",
@@ -15438,6 +15478,51 @@
     "scan": "APP_53_17_0_Konin_Gr_119_0685_a2-L8_01.jpg",
     "line": 41,
     "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr120-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0624_a1",
+    "scan": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
+    "line": 8,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr120-2",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0624_a1",
+    "scan": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr121-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0563_a2",
+    "scan": "APP_53_17_0_Konin_Gr_121_0563_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr121-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0563_a2",
+    "scan": "APP_53_17_0_Konin_Gr_121_0563_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr121-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0564_a1",
+    "scan": "APP_53_17_0_Konin_Gr_121_0564_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
    },
    {
     "uid": "oe1bu14525-39",

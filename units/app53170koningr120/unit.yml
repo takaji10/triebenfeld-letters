@@ -1,0 +1,83 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53170koningr120
+ref: 53/17/0/-/Konin Gr.120
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Two entries from the register of the castle court at Konin: a Trąbczyn
+  subject shows the injuries of a beating on the road (14 March 1785), and
+  Chełmski cites Prusimski before the Crown Tribunal to produce the contract
+  of 1744 with the merchant Tracholz (October 1786).
+title_de: >-
+  Zwei Einträge aus dem Register des Burggerichts Konin: Ein Trąbczyner
+  Untertan zeigt die Verletzungen eines Überfalls auf der Landstraße (14. März
+  1785), und Chełmski lädt Prusimski vor das Krontribunal, damit er den
+  Vertrag von 1744 mit dem Kaufmann Tracholz vorlegt (Oktober 1786).
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1785-1786
+# The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
+fonds: Księgi sądu i urzędu grodzkiego w Koninie
+date_span: 1785-1786
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans are cut at the fold by intake/holding.py --crop. The editor
+# approves or moves the folds on review/app53170koningr120/folds/ before the
+# holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1785-1786 (53.17.0.-.Konin Gr.120)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_17_0_Konin_Gr_120
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Two entries from the register of the castle court of Konin for 1785 and
+  1786, in Latin. In the first Andrzej Kinos, a subject from Trąbczyn, shows
+  the office the injuries he says Marcin Sarzyński gave him on the public road
+  at Obory (14 March 1785). The second is a court messenger's report of a
+  citation of 2 October 1786 by which Stanisław Chełmski summons Antoni
+  Prusimski before the Crown Tribunal: Prusimski is to produce under oath the
+  contract for the sale of an oak wood made with the merchant Jan Tracholz,
+  and the land court's decrees fixing a sitting on the ground are to be
+  carried out.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Two entries of a court register of 1785 and 1786, in formulaic and
+  abbreviated Latin. The English is the editor's own translation. "Obduxit"
+  heads the formal showing of wounds to the office; "relatio" is a court
+  messenger's report that he has served a citation; "condescensio" a sitting
+  of a court on the ground in dispute; "comportatio" the production of a
+  document.

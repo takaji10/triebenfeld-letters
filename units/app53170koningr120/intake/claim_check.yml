@@ -1,0 +1,19 @@
+# The claim check of the German summaries of APP 53/17/0/-/Konin Gr.120, made in session on
+# 2026-10-07 under the rules read_letters.py --verify gives its checker: each
+# statement held to the document, as supported, overstated or unsupported,
+# and the summary then only weakened or cut, never added to. Not the paid
+# run; there is no reading.json. The documents were read in the Latin and
+# Polish of corpus.txt as checked.
+#
+# Result: 7 statements, all supported.
+
+app53170koningr120-001:
+- {claim: "Eintrag vom 14. März 1785 im Buch des Burggerichts Konin. Andrzej Kinos, ein Untertan aus dem Dorf Trąbczyn, zeigt dem Amt seine Verletzungen: das rechte Auge ringsum blutunterlaufen, darunter geschwollen und blau, das linke Auge blutunterlaufen und blau, das ganze Gesicht geschwollen, die rechte Schulter geschwollen", verdict: supported, where: "Actum in Conin Die 14 Mensis Martii Anno Domini 1785; Laboriosus Andraeas Kinos de Bonis Villae Trąmpczyn ... Commonstravit Officio praesenti Contusiones Infrascriptas ut pote Oculum dextrum in circum Sanguine obortum sub Oculo Eodem Corpus Intumefactum et lividum Item Oculum Sinistrum ... Item totum Vultus Intumefactum Item Humeros dextros intumefactos"}
+- {claim: "Er gibt an, Marcin Sarzyński habe sie ihm am vergangenen Samstag mit Fäusten und einem Stock zugefügt, als er ihm im Dorf Obory auf öffentlicher Straße den Weg zur Stadt Pleszew versperrte", verdict: supported, where: "per Generosum Martinum Sarzyński in Via publica Domo, ad Oppidum Pleszew discedenti in Villa Obory viam praecludens Sabbatho proximo praeterito vi et violenter pugnis et baculo illata et inflicta esse"}
+
+app53170koningr120-002:
+- {claim: "Bericht des Gerichtsboten Sebastian Biegański von Sławsk, eingetragen in Konin Ende 1786", verdict: supported, where: "Providus Sebastianus Biegański de Villa Słask Miniterialis Regni Generalis; leaf 623 verso (rulings.yml)"}
+- {claim: "Er hat Antoni Prusimski von Kolno, Starost von Niszczewice, eine königliche Ladung vor das Krontribunal in Petrikau zugestellt, ausgestellt in Petrikau am 2. Oktober 1786, auf Betreiben von Stanisław Chełmski, Schatzmeister von Wschowa", verdict: supported, where: "Tibi Illustri Magnifico Antoni in Kolno Prusimski Capitaneo Nieszczevicen~ ... Ad Instantiam Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ Actt~; Datum Petricoviae Die Secunda Mensis Octobris Anno Domini Millesimo Septingentesimo Octuagesimo Sexto"}
+- {claim: "Prusimski soll unter Eid angehalten werden, eine bestimmte Urkunde vorzulegen, die bei ihm verblieben sei: den mit dem Kaufmann Jan Tracholz geschlossenen Vertrag über den Verkauf eines Eichenwaldes", verdict: supported, where: "ad Comportationem Specifici Documenti Scilicet Contractus Intuitu Divenditionis Sylvae quercineae cum Spectabili Joanne Trachultz Initi et Confecti Penes Te remansi, praevio Juramento Stringi"}
+- {claim: "Er soll ferner dafür bestraft werden, dass er die Sache vom Gericht des Ortstermins an das volle Landgericht und von dort an das Tribunal hat verweisen lassen; die Dekrete des Kalischer Landgerichts in Konin, die den Ortstermin ansetzen, sollen vollzogen werden", verdict: supported, where: "Paenis Super Te Citato tam respectu Causatae a Judiciis Condescensoriali ad Judicium plenum, quam deinde a Judicio Pleno Nostrum ad Judicium Tribunalitium exprocuratae Remissionis ... Decreta Terrestria Calissien~ in Cadentia Districtus Coninensis lata ... Condescensionem designantia effectuanda disponi"}
+- {claim: "Der Bote hat die Ladung im Gutshof von Trąbczyn hinterlegt", verdict: supported, where: "In Curia Bonorum Villae Trąpczyn Super Mensa hippercausti ... posuisse et Notificato reliquisse"}

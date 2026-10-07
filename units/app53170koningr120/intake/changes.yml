@@ -1,0 +1,31 @@
+# What the check of APP 53/17/0/-/Konin Gr.120 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.120: two register entries, 1785 and 1786"
+changes:
+- importance: significant
+  what: "The wood sold to Tracholz is an OAK wood: the scan has \"Sylvae quer|cineae\" over the line end, where you had \"[?]cineae\" and your English \"pine woodland\". It is the oak timber of the contract of 1744 in Prusimski's protest of 1778 (Konin Gr.117). And what Prusimski is to produce is a \"Documenti\", a document; your English had \"settlement\" and called Tracholz \"defendant\", which is not in the text."
+  was: "Specifici Di[?]menti Scilicet Contractus Intuita Divenditionis Sylvae [?]cineae cum Spectabili Joanne Trachultz Incti et Confe[c?][?]"
+  now: "Specifici Documenti Scilicet Contractus Intuitu Divenditionis Sylvae quercineae cum Spectabili Joanne Trachultz Initi et Confecti"
+  english_was: "the specific settlement, namely the contract for the sale of pine woodland, entered into and concluded with the Honourable Joannes Trachultz, defendant"
+  english_now: "a specific document, namely the contract for the sale of oak woodland, entered into and concluded with the Honourable Joannes Trachultz"
+- importance: fact
+  what: "Four words were passed over near the end of the citation (leaf 624): \"Injungi. Caetera Secundum Conclusionem ponendam\"."
+  was: "et praestandam ac Anteriores Actoris Terminos"
+  now: "et praestandam Injungi. Caetera Secundum Conclusionem ponendam ac Anteriores Actoris Terminos"
+- importance: fact
+  what: "Kinos \"showed the bruises written below\" (Commonstravit ... Contusiones Infrascriptas); Sarzyński was \"barring\" his way (praecludens). The word after \"intumefactos\" is struck out."
+  was: "Commonstrant Officio praesenti Concessiones Infrascripta ... intumefactos [i?]ctos ... viam praecidendo"
+  now: "Commonstravit Officio praesenti Contusiones Infrascriptas ... intumefactos ... viam praecludens"
+  english_was: "showing to the present office the following submissions below ... swollen and struck"
+  english_now: "showed to the present office the bruises written below ... swollen"
+- importance: fact
+  what: "The date of the second entry. The citation is dated 2 October 1786 and was left at Trąbczyn \"on the second day of the month and year of the act\", so the entry is of November or December 1786. Six lines near its head are struck out on the page and are not transcribed."
+  was: "1786"
+  now: "late 1786"
+- importance: wording
+  what: "Smaller readings: \"Oculum ... Sinistrum ... Obducens ... violenter\"; \"de Bonis Tuis Mandamus ut in Judiciis\"; \"recte in Quatuor Septimanis\"; \"Regestro Sibi Competenti\"; \"legitimeque ... Instantiam\"; \"Qui Te ... Connexas et Competentes\"; \"praevio Juramento\"; \"plenum\"; \"Contraque\"; \"expressorum\"."
+  was: "see the list"
+  now: "see the list"

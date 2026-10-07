@@ -1159,7 +1159,9 @@ forbidden_renders:
       von Triebenfeld is a surname and stays, 175 times over. The test is
       whether the particle points at a territory or at a name.
   - render: 'chestnut'
-    when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|\bcastane\w*'
+    # Not where the Latin has a chestnut mare ("Equam Castaneam", Konin Gr.121):
+    # there the word is right.
+    when: '\bhypocaust\w*|\bhippocaust\w*|\bhippi\w*|(?<![Ee]quam )(?<![Ee]qua )\bcastane\w*'
     note: 'hypocaustum misread. The table stands in the heated room, not on a chestnut.'
   - render: 'Lagurowo'
     note: 'a Z/L letterform error for Zagórów (Zagorowo); not a place.'

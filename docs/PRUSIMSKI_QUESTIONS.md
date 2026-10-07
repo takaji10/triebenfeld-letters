@@ -288,3 +288,18 @@ the editor reviews. Nothing is published before that.
 - Prusimski's protest on leaf 304 verso is dated October 1783 from the land
   court's decree that cites it (53/6/0/-/47). **Default: so, with the
   reason shown.**
+
+### APP 53/17/0/-/Konin Gr.120 (1785 and 1786)
+
+- The entry on Andrzej Kinos (leaf 63) names neither Prusimski nor
+  Chełmski. **Default: built, because you transcribed it and he is a
+  Trąbczyn subject.** Who is Marcin Sarzyński to this story?
+- The second entry is dated to the year 1786 (November or December) from
+  the citation it reports. **Default: so, with the reason shown.**
+- Six struck-out lines near the head of the second entry. **Default: not
+  transcribed** (your ruling of 2026-10-05).
+
+### APP 53/17/0/-/Konin Gr.121 (1788)
+
+- Nothing open beyond the folds. "płony", "przekobiały" and "szybowanemi"
+  in the Polish description are left as you read them.

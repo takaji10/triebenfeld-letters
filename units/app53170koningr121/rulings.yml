@@ -1,0 +1,43 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.121 (APP).
+#
+# One document: the entry of 9 June 1788 on leaves 563 and 563 verso. Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." directly above the entry, which the editor transcribed with it.
+  read:
+    "1": [1788, 6, 9, "day"]      # Die Nona Mensis Junii Anno Domini Millesimo Septingentesimo Octuagesimo Octavo
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": report
+
+  language:
+    "1": "la,pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0563_a2", "0564_a1"]
+
+damage:
+  letters: []

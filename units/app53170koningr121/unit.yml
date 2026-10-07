@@ -1,0 +1,80 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53170koningr121
+ref: 53/17/0/-/Konin Gr.121
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  An entry from the register of the castle court at Konin of 9 June 1788:
+  Prusimski's man brings before the office the cart, oxen, cow and mare of a
+  peasant of Chełmski's, taken in the Trąbczyn pine wood as he carted off a
+  felled tree.
+title_de: >-
+  Ein Eintrag aus dem Register des Burggerichts Konin vom 9. Juni 1788:
+  Prusimskis Diener führt dem Amt Wagen, Ochsen, Kuh und Stute eines Bauern
+  Chełmskis vor, die im Trąbczyner Kiefernwald beschlagnahmt wurden, als er
+  einen gefällten Baum abfuhr.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes [protocollon] 1787-1788
+# The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
+fonds: Księgi sądu i urzędu grodzkiego w Koninie
+date_span: 1788
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# The scans are cut at the fold by intake/holding.py --crop. The editor
+# approves or moves the folds on review/app53170koningr121/folds/ before the
+# holding is published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes [protocollon] 1787-1788 (53.17.0.-.Konin Gr.121)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_17_0_Konin_Gr_121
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One entry from the register of the castle court of Konin for 1787 and 1788,
+  in Latin with the cart and animals described in Polish as well. On 9 June
+  1788 Ludwik Żurawski, a servant of Antoni Prusimski, presents to the office
+  the cart, two oxen, cow and mare of Marcin Gryndel, a peasant of Chełmski's
+  estate of Łomowo, whom the Trąbczyn forest keeper caught in the Trąbczyn
+  pine wood carting off a felled tree fit for building, and leaves them at the
+  chancery to be given back to Gryndel.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  An entry of a court register of 1788, in formulaic Latin with Polish glosses
+  introduced by "als" or "alias". The English is the editor's own translation.
+  "Praesentatio" is the showing of seized things to the office as proof;
+  "extraditio" their return to the owner; "quietatio" a receipt; "cmetho" a
+  peasant farmer.

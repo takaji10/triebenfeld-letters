@@ -1,0 +1,48 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.120 (APP).
+#
+# Two documents, one for each entry of the register. Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." directly above the entry, which the editor transcribed with it.
+  read:
+    "1": [1785, 3, 14, "day"]     # Die 14 Mensis Martii Anno Domini 1785
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred:
+    "2": [1786, null, null, "year", "The citation it reports is dated at Piotrków on 2 October 1786 and was left at Trąbczyn 'on the second day of the month and year of this act'; the entry was therefore made in November or December 1786. No heading of a sitting is on the photographed pages."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": report
+    "2": report
+
+  language:
+    "1": la
+    "2": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0063_a2", "0624_a1", "0624_a2"]
+
+damage:
+  letters: []

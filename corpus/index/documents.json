@@ -4624,6 +4624,141 @@
   "permalink": "/documents/app53170koningr119/8/"
  },
  {
+  "uid": "app53170koningr120-1",
+  "unit": "app53170koningr120",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1785-03-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 3,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0063_a2",
+    "image": "APP_53_17_0_Konin_Gr_120_0063_a2-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/app53170koningr120-1.json",
+  "text_path": "text/app53170koningr120-1.txt",
+  "permalink": "/documents/app53170koningr120/1/"
+ },
+ {
+  "uid": "app53170koningr120-2",
+  "unit": "app53170koningr120",
+  "letter_id": "2",
+  "doc_type": "report",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1786",
+  "date_precision": "year",
+  "date_source": "inferred",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 5,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0624_a1",
+    "image": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0624_a2",
+    "image": "APP_53_17_0_Konin_Gr_120_0624_a2-L2_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 2,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 2",
+  "path": "documents/app53170koningr120-2.json",
+  "text_path": "text/app53170koningr120-2.txt",
+  "permalink": "/documents/app53170koningr120/2/"
+ },
+ {
+  "uid": "app53170koningr121-1",
+  "unit": "app53170koningr121",
+  "letter_id": "1",
+  "doc_type": "report",
+  "language": "la,pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1788-06-09",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 5,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0563_a2",
+    "image": "APP_53_17_0_Konin_Gr_121_0563_a2-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0564_a1",
+    "image": "APP_53_17_0_Konin_Gr_121_0564_a1-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 2,
+  "places_named": 3,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "report 1",
+  "path": "documents/app53170koningr121-1.json",
+  "text_path": "text/app53170koningr121-1.txt",
+  "permalink": "/documents/app53170koningr121/1/"
+ },
+ {
   "uid": "oe1bu14525-13",
   "unit": "oe1bu14525",
   "letter_id": "13",

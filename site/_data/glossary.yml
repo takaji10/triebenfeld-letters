@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 87
+  docs: 89
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 82
+  docs: 83
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 60
+  docs: 61
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1461,7 +1461,7 @@
   initial_en: "D"
   sort_de: "landrath"
   initial_de: "L"
-  docs: 23
+  docs: 25
 - id: "cession"
   kind: "law"
   lang: "de_la"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 102
+  docs: 105
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 57
+  docs: 59
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

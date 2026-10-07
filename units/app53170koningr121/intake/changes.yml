@@ -1,0 +1,23 @@
+# What the check of APP 53/17/0/-/Konin Gr.121 against the scans changes for
+# anyone who has written about this entry from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.121: the presentation of a seized team, 9 June 1788"
+changes:
+- importance: fact
+  what: "The end of the entry: the receipt \"sets it out more fully\" (fusius in se edisserit), and Żurawski \"left them and leaves them by these presents\" (reliquit relinquitque per praesentia). Your English had \"unless he shall have explained otherwise\" and \"left and left them further\"."
+  was: "fusius nisi edisserit) reliquit reliquitque plus[?] praesentia"
+  now: "fusius in se edisserit) reliquit relinquitque per praesentia"
+  english_was: "will set forth more fully, unless [he] shall have explained otherwise) — and left and left [them] further with the present [Chancellery]"
+  english_now: "sets forth more fully) — and left, and leaves [them], by these presents"
+- importance: fact
+  what: "What is presented is a cart (\"Currum\"), and the cow's coat is \"z bura pstrey sierci\", dun and mottled, the same word as for the second ox."
+  was: "Officio Eidem Currentem ... z bura potrey sierci"
+  now: "Officio Eidem Currum ... z bura pstrey sierci"
+  english_was: "the vehicle ... of dun, [potrey] coat"
+  english_now: "a cart ... of dun mottled coat"
+- importance: wording
+  what: "Smaller readings: \"z bosemi przedniemi Kołami\"; \"Vaccam\"; \"suprascripto\"; \"Is Idem\"; \"ad statim\"."
+  was: "zbosemi przedmiemi / Vacam / suprascripti / I[d?] Idem / ad statim[?]"
+  now: "z bosemi przedniemi / Vaccam / suprascripto / Is Idem / ad statim"
