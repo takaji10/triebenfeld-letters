@@ -263,12 +263,19 @@ so check them.
   is a question for the editor. The era's account on the story page was
   only brought up to the facts; a fuller one waits at their word.
 - **The fold pages** (`review/<slug>/folds/index.html`, made by each
-  holding's `build_pages.py --sheet`; Konin Gr.145's by `fold_sheet.py`):
-  the editor clicks where each fold should be and saves
-  `folds_<slug>.json`. `python pipeline/intake/courtbook.py folds <slug>
-  <file>` copies it to the holding's `intake/folds.json` and cuts, stages
-  and remakes the page images. The editor found Konin Gr.145's lines
-  crossing writing on many scans (2026-10-07) and is to move them.
+  holding's `holding.py --sheet`, `build_pages.py --sheet` in the first
+  four, `fold_sheet.py` for Konin Gr.145). **One fold page for every
+  holding** (`pipeline/intake/fold_page.py`, the page `review_folds.py`
+  always wrote): one opening at a time, shown whole, arrow keys to page
+  through, the red line dragged onto the fold. For the court books the
+  sheet can also be turned with the mouse (wheel, or shift-drag) where the
+  fold was photographed at a slant. "Save" gives `folds_<slug>.json` with
+  the fold and angle of every scan; `python pipeline/intake/courtbook.py
+  folds <slug> <file>` copies it to the holding's `intake/folds.json`,
+  turns and cuts the scans, stages and remakes the page images. **Do not
+  build another review page where one exists** (the editor, 2026-10-07).
+  The editor found Konin Gr.145's lines crossing writing on many scans and
+  is to move them.
 - **The page of changes** (`review/changes/index.html`, made by
   `pipeline/review/changes_page.py` from each holding's
   `intake/changes.yml`): what the check against the scans changed, graded,

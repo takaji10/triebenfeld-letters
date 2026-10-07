@@ -222,9 +222,15 @@ locally, **not pushed**. Details in each holding's `notes.md`.
 
 Your review, in this order:
 
-- [ ] **The folds.** Each holding has a page on which you move the red
-      lines: `review/<slug>/folds/index.html` (21 pages, Konin Gr.145's
-      among them). Save, and tell me; I cut the pages again from your file.
+- [ ] **The folds.** Each holding has a fold page,
+      `review/<slug>/folds/index.html` (20 pages, Konin Gr.145's among
+      them). It is the page you used before: one opening at a time, shown
+      whole; left and right arrow keys to page through; drag the red line
+      onto the fold. New: where a fold runs at a slant, turn the sheet
+      with the mouse wheel, or hold shift and drag, until the fold stands
+      upright under the line. What you do is kept in the browser as you
+      go. Press "Save" at the end of a holding and tell me; I turn and
+      cut the pages again from your file.
 - [ ] **The page of changes**, `review/changes/index.html`: what the check
       against the scans changed in each holding, graded (43 significant,
       118 facts, 22 wording), for putting right what you have written

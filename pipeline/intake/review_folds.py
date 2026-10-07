@@ -117,136 +117,9 @@ def collect(processed, review, done, include_hand):
     return items
 
 
-PAGE = """<!doctype html>
-<meta charset="utf-8">
-<title>Fold review - %(unit)s</title>
-<style>
-  :root { color-scheme: light dark; }
-  body { margin: 0; font: 14px/1.45 system-ui, sans-serif; background: #1a1a1a; color: #eee; }
-  header { position: sticky; top: 0; z-index: 5; display: flex; gap: .9rem;
-           align-items: center; flex-wrap: wrap;
-           padding: .5rem .8rem; background: #111; border-bottom: 1px solid #333; }
-  .muted { color: #999; }
-  .moved { color: #7ec87e; }
-  button { font: inherit; padding: .3rem .7rem; background: #2a2a2a; color: #eee;
-           border: 1px solid #444; border-radius: 4px; cursor: pointer; }
-  button:hover { background: #333; }
-  button.primary { background: #2d5a2d; border-color: #3d7a3d; }
-  #stage { position: relative; margin: 0 auto; width: fit-content; }
-  #img { display: block; max-width: 100vw; max-height: calc(100vh - 92px); }
-  #line { position: absolute; top: 0; bottom: 0; width: 2px; background: #ff2020; }
-  #line::after { content: ''; position: absolute; left: -14px; right: -14px;
-                 top: 0; bottom: 0; cursor: ew-resize; }
-  #orig { position: absolute; top: 0; bottom: 0; width: 1px; background: #4a90d9; opacity: .8; }
-  #out { width: 100%%; height: 9rem; font: 12px/1.4 ui-monospace, monospace;
-         background: #111; color: #ddd; border: 1px solid #333; display: none; }
-  kbd { background: #333; border-radius: 3px; padding: 0 .3em; }
-</style>
-
-<header>
-  <button id="prev">&larr;</button>
-  <b id="pos"></b>
-  <button id="next">&rarr;</button>
-  <span id="name" class="muted"></span>
-  <span>cut <b id="frac"></b></span>
-  <span id="was" class="muted"></span>
-  <span id="chg" class="moved"></span>
-  <span style="flex:1"></span>
-  <button id="reset">Reset this</button>
-  <button id="save" class="primary">Save folds.json</button>
-  <button id="copy">Copy</button>
-  <span class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> page,
-    <kbd>,</kbd><kbd>.</kbd> nudge the line, <kbd>shift</kbd> x10,
-    blue line = current cut</span>
-</header>
-
-<div id="stage">
-  <img id="img" alt="">
-  <div id="orig"></div>
-  <div id="line"></div>
-</div>
-<textarea id="out" spellcheck="false"></textarea>
-
-<script>
-const ITEMS = %(items)s;
-const moved = {};              // only spreads you actually adjust
-let i = 0, shown = 0.5;
-
-const img = document.getElementById('img');
-const line = document.getElementById('line');
-const orig = document.getElementById('orig');
-const stage = document.getElementById('stage');
-const cur = () => ITEMS[i];
-
-function show() {
-  const it = cur();
-  img.src = it.src;
-  document.getElementById('name').textContent = it.file;
-  document.getElementById('pos').textContent = (i + 1) + ' / ' + ITEMS.length;
-  document.getElementById('was').textContent = it.conf + ' ' + it.fold.toFixed(3);
-  draw(moved[it.file] !== undefined ? moved[it.file] : it.fold, false);
-}
-
-function draw(frac, byUser) {
-  frac = Math.max(0.02, Math.min(0.98, frac));
-  shown = frac;
-  const w = img.clientWidth || 1;
-  line.style.left = (frac * w) + 'px';
-  orig.style.left = (cur().fold * w) + 'px';
-  document.getElementById('frac').textContent = frac.toFixed(4);
-  if (byUser) moved[cur().file] = frac;
-  const d = Object.keys(moved).length;
-  document.getElementById('chg').textContent = d ? d + ' moved' : '';
-}
-
-function fromEvent(e) {
-  const r = img.getBoundingClientRect();
-  draw(((e.touches ? e.touches[0].clientX : e.clientX) - r.left) / r.width, true);
-}
-
-let dragging = false;
-stage.addEventListener('pointerdown', e => { dragging = true; fromEvent(e);
-                                             stage.setPointerCapture(e.pointerId); });
-stage.addEventListener('pointermove', e => { if (dragging) fromEvent(e); });
-stage.addEventListener('pointerup', () => { dragging = false; });
-img.addEventListener('load', () => draw(moved[cur().file] ?? cur().fold, false));
-window.addEventListener('resize', () => draw(shown, false));
-
-function step(d) { i = (i + d + ITEMS.length) %% ITEMS.length; show(); }
-document.getElementById('next').onclick = () => step(1);
-document.getElementById('prev').onclick = () => step(-1);
-document.getElementById('reset').onclick = () => { delete moved[cur().file];
-                                                   draw(cur().fold, false); };
-
-document.addEventListener('keydown', e => {
-  const px = e.shiftKey ? 10 : 1;
-  // arrows page through the spreads; comma and full stop nudge the line
-  if (e.key === 'ArrowLeft')  { step(-1); e.preventDefault(); }
-  if (e.key === 'ArrowRight') { step(1);  e.preventDefault(); }
-  if (e.key === ',' || e.key === '<') { draw((line.offsetLeft - px) / img.clientWidth, true); e.preventDefault(); }
-  if (e.key === '.' || e.key === '>') { draw((line.offsetLeft + px) / img.clientWidth, true); e.preventDefault(); }
-  if (e.key === 'n') step(1);
-  if (e.key === 'p') step(-1);
-});
-
-const json = () => JSON.stringify(moved, null, 1);
-
-document.getElementById('save').onclick = () => {
-  if (!Object.keys(moved).length) { alert('Nothing moved yet.'); return; }
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(new Blob([json()], {type: 'application/json'}));
-  a.download = 'folds.json';
-  a.click();
-};
-document.getElementById('copy').onclick = async () => {
-  const out = document.getElementById('out');
-  out.value = json(); out.style.display = 'block'; out.select();
-  try { await navigator.clipboard.writeText(json()); } catch (err) {}
-};
-
-show();
-</script>
-"""
+# The page itself is in fold_page.py, which the court-book holdings use too
+# (courtbook.fold_sheet), so that the editor has one fold page and not two.
+import fold_page  # noqa: E402
 
 
 def main():
@@ -274,8 +147,7 @@ def main():
 
     out = os.path.join(review, 'review.html')
     with open(out, 'w', encoding='utf-8', newline='\n') as f:
-        f.write(PAGE % {'unit': unit.slug,
-                        'items': json.dumps(items, ensure_ascii=False)})
+        f.write(fold_page.render(unit.slug, items, save='folds.json', key='folds:' + unit.slug))
 
     hand = len([x for x in items if x['conf'] == 'by hand'])
     print(f'  {len(items)} spread(s) to look at'

@@ -26,7 +26,9 @@ import courtbook  # noqa: E402
 
 
 def main():
-    scans, leaf = [], {}
+    scans, leaf = courtbook.Scans(), {}
+    scans.angles = B.ANGLES
+    scans.mine = set(B.ANGLES) | ({'%d.jpg' % n for n in B.FOLDS} if os.path.isfile(B._MINE) else set())
     for n in range(B.FIRST, B.LAST + 1):
         left, right = '%04d_a1' % n, '%04d_a2' % n
         scans.append(('%d.jpg' % n, B.FOLDS[n], left, right))

@@ -349,6 +349,23 @@ Where the rest is:
   adding: in a register they are the party's own hand. Give them as
   written, "[?]" for a word not read, never the office the man is known to
   have held.
+- **Use the review page the editor already knows; do not build another**
+  (the editor, 2026-10-07). For the court books I wrote a new fold page (a
+  long page of narrow strips with a small picture beside each) when
+  `review_folds.py` already had one the editor used: one opening at a time,
+  shown whole, arrow keys to page through. They asked for the old one back.
+  The page is now `pipeline/intake/fold_page.py`, used by both
+  `review_folds.py` and `courtbook.fold_sheet`. Before writing any page for
+  the editor to work on, look in `pipeline/intake/` for `review_*.py`.
+- **A fold photographed at a slant needs the sheet turned, not only the
+  line moved** (the editor, 2026-10-07). On the court-book fold page the
+  mouse wheel, or shift-drag, turns the sheet about its centre under the
+  vertical line; the saved file has `{"fold": x, "angle": degrees}` for
+  every scan, the angle counter-clockwise as PIL's rotate() takes it.
+  `courtbook.cut` turns the scan first (the canvas grows, nothing is lost)
+  and cuts at the fold plus the shift of the left edge, which is what the
+  page shows. `take_folds` runs `make_scan_derivatives.py` without
+  `--force`: with it, every web image of the edition is remade.
 - **Folds on photographs**: `courtbook.find_fold` is 20 to 60 px too far
   right. Cut the gutter strip of every scan side by side with a ruler
   (ticks every 50 px) and read the folds off one image.

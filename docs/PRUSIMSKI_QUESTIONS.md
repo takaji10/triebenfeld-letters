@@ -16,9 +16,13 @@ differently are marked in `docs/TODO.md`, section 7.
 
 ## For every holding
 
-- **Folds.** Each holding that is cut has a fold page on which the lines can
-  be moved and saved. Default: my proposed folds, pages already cut from
-  them. Konin Gr.145's lines are known to cross writing on many scans
+- **Folds.** Each holding that is cut has a fold page,
+  `review/<slug>/folds/index.html`: one opening at a time, shown whole. The
+  left and right arrow keys page through the openings; drag the red line
+  onto the fold; where the fold runs at a slant, turn the sheet with the
+  mouse wheel (or hold shift and drag) until the fold is upright under the
+  line. Press "Save" when you have been through a holding, and tell me.
+  Default: my proposed folds, no sheet turned, pages already cut from them. Konin Gr.145's lines are known to cross writing on many scans
   (editor, 2026-10-07).
 - **Readings and English.** Each holding's corrections and the changes to
   the editor's English are on the page of changes, graded. Default: applied.

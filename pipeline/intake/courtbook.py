@@ -9,10 +9,13 @@ is, which halves are pages, and what was corrected.
 - cut():        cut each opening at its fold into two whole pages. Each page
                 keeps OVERLAP pixels beyond the fold, so a line that runs into
                 the gutter stays whole. A scan that is one page is copied.
-- fold_sheet(): the page on which the editor sees every fold, moves the
-                ones that are wrong and saves them, before a holding is
-                published (the editor's rule, 2026-10-06). placed() and
-                take_folds() bring the saved folds back.
+- fold_sheet(): the page on which the editor sees every opening whole, pages
+                through them with the arrow keys, drags the fold line and
+                turns a sheet that was photographed at a slant, and saves,
+                before a holding is published (the editor's rule,
+                2026-10-06). It is the page of fold_page.py, the same one
+                review_folds.py writes for the other holdings. placed() and
+                take_folds() bring the saved folds and angles back.
 - holding_main(): the steps of one holding, run from its intake/holding.py
                 (the later holdings; the first four have a script per step).
 - correct():    apply readings corrected against the scan to the page files
@@ -25,7 +28,6 @@ looked at on a strip before it is written into the holding's script.
 """
 import csv
 import hashlib
-import html
 import io
 import os
 
@@ -151,23 +153,33 @@ def cut(raw, scans, skip=()):
 
     A scan with fold None is one page; its id is the third field. Pages go to
     raw/processed/; halves named in `skip` go to raw/processed/_not_staged/.
+    Where the editor turned a sheet on the fold page (placed()), the scan is
+    turned first, so that the cut runs along the fold.
     """
     from PIL import Image
     processed = os.path.join(raw, 'processed')
     apart = os.path.join(processed, '_not_staged')
     os.makedirs(apart, exist_ok=True)
+    angles = getattr(scans, 'angles', {})
     n = 0
     for name, fold, left, right in scans:
-        im = Image.open(os.path.join(raw, name)).convert('RGB')
+        im, dx = turned(Image.open(os.path.join(raw, name)).convert('RGB'), angles.get(name, 0))
         if fold is None:
             parts = [(left, (0, 0, im.width, im.height))]
         else:
-            parts = [(left, (0, 0, fold + OVERLAP, im.height)), (right, (fold - OVERLAP, 0, im.width, im.height))]
+            x = int(round(fold + dx))
+            parts = [(left, (0, 0, x + OVERLAP, im.height)), (right, (x - OVERLAP, 0, im.width, im.height))]
         for pid, box in parts:
             folder = apart if pid in skip else processed
             im.crop(box).save(os.path.join(folder, pid + '.jpg'), quality=92)
             n += 1
-    print('cut', n, 'page images into', processed)
+    print('cut', n, 'page images into', processed, ('(%d sheet(s) turned)' % len(angles)) if angles else '')
+
+
+class Scans(list):
+    """A holding's SCANS with the editor's folds put in; `.angles` is {file name: degrees} where they turned a sheet."""
+    angles = {}
+    mine = ()
 
 
 def placed(here, scans):
@@ -176,165 +188,103 @@ def placed(here, scans):
     The fold page offers "folds_<slug>.json"; `python pipeline/intake/courtbook.py
     folds <slug> <that file>` copies it to units/<slug>/intake/folds.json and
     cuts the pages again. The numbers in the script stay as the first proposal.
+
+    The file is {scan: {"fold": x in pixels, "angle": degrees}}; a file saved
+    by the first fold page (2026-10-07), {scan: x}, is read too. The angle is
+    how far the sheet is turned, counter-clockwise, before it is cut: cut()
+    and fold_sheet() take it from the list this returns.
     """
     import json
+    out = Scans(scans)
+    out.angles, out.mine = {}, set()
     p = os.path.join(here, 'folds.json')
     if not os.path.isfile(p):
-        return scans
+        return out
     mine = json.load(io.open(p, encoding='utf-8'))
-    return [(name, (int(mine[name]) if fold is not None and name in mine else fold), left, right)
-            for name, fold, left, right in scans]
+    for k, (name, fold, left, right) in enumerate(scans):
+        v = mine.get(name)
+        if v is None:
+            continue
+        if not isinstance(v, dict):
+            v = {'fold': v}
+        if fold is not None and v.get('fold') is not None:
+            fold = int(v['fold'])
+        if v.get('angle'):
+            out.angles[name] = float(v['angle'])
+        out[k] = (name, fold, left, right)
+        out.mine.add(name)
+    return out
 
 
-STRIP_HALF = 650      # the fold page shows this many pixels either side of the proposed fold
-STRIP_SCALE = 0.5
+def turned(im, angle):
+    """The scan turned by `angle` degrees counter-clockwise about its centre, and how far its left edge moved.
 
-_FOLD_PAGE = r"""<!doctype html><html lang="en"><meta charset="utf-8"><title>Folds: __REF__</title>
-<style>
-body{font:16px/1.5 Georgia,serif;margin:0;background:#fbfaf7;color:#222}
-header{position:sticky;top:0;z-index:5;background:#222;color:#eee;padding:.5em 1em;display:flex;gap:1em;align-items:center;flex-wrap:wrap}
-header button{font:inherit;padding:.3em .9em;cursor:pointer}
-main{max-width:1250px;margin:1em auto;padding:0 16px}
-section{margin:2.2em 0;padding-top:.6em;border-top:1px solid #ccc}
-h2{margin:0 0 .2em;font-size:1.1em}
-.row{display:flex;gap:18px;align-items:flex-start}
-.whole{width:420px;flex:none}.whole img{width:100%;border:1px solid #ccc}
-.strip{position:relative;flex:none;cursor:crosshair;user-select:none;border:1px solid #999;overflow:hidden}
-.strip img{display:block;pointer-events:none}
-.line{position:absolute;top:0;bottom:0;width:2px;background:#f00;pointer-events:none}
-.band{position:absolute;top:0;bottom:0;background:rgba(255,0,0,.13);pointer-events:none}
-.first{position:absolute;top:0;bottom:0;width:1px;background:#06c;opacity:.7;pointer-events:none}
-.tools{margin:.3em 0}.tools button{font:inherit;padding:.1em .7em;cursor:pointer}
-.moved{color:#b3261e;font-weight:bold}
-textarea{width:100%;height:7em;display:none;margin-top:.5em}
-</style>
-<header><b>Folds: __REF__</b><span id="count"></span>
-<button id="save">Save my folds</button><button id="resetall">Put all back</button></header>
-<main>
-<p>Each opening is cut at the red line into two pages. Each page also keeps the pink strip beyond the line, so writing
-inside the pink strip is on both pages and is not lost. <b>To move a line, click in the wide picture where the fold
-is</b> (or drag; the arrow buttons move it a little). The thin blue line is where I first put it. Your changes are
-kept in this browser as you go. When you are done, press <b>Save my folds</b>: the browser saves a small file,
-<code>folds___SLUG__.json</code>, into your Downloads folder. Tell me, and I cut the pages again from it.</p>
-__NOTE__
-<textarea id="out" readonly></textarea>
-<div id="list"></div>
-</main>
-<script>
-const SLUG = "__SLUG__", OVERLAP = __OVERLAP__, SCALE = __SCALE__;
-const ITEMS = __ITEMS__;
-const KEY = 'folds_' + SLUG;
-let mine = {};
-try { mine = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) {}
-const list = document.getElementById('list');
-function cur(it) { return (it.name in mine) ? mine[it.name] : it.fold; }
-function draw(it) {
-  const x = (cur(it) - it.x0) * SCALE;
-  it.line.style.left = (x - 1) + 'px';
-  it.band.style.left = (x - OVERLAP * SCALE) + 'px';
-  it.band.style.width = (2 * OVERLAP * SCALE) + 'px';
-  const d = cur(it) - it.fold;
-  it.say.textContent = d ? ('moved ' + Math.abs(d) + ' pixels to the ' + (d > 0 ? 'right' : 'left')) : 'not moved';
-  it.say.className = d ? 'moved' : '';
-  const n = ITEMS.filter(i => i.fold !== null && cur(i) !== i.fold).length;
-  document.getElementById('count').textContent = n + ' of ' + ITEMS.filter(i => i.fold !== null).length + ' moved';
-}
-function set(it, v) {
-  v = Math.round(Math.max(it.x0 + 5, Math.min(it.x0 + it.w / SCALE - 5, v)));
-  if (v === it.fold) delete mine[it.name]; else mine[it.name] = v;
-  try { localStorage.setItem(KEY, JSON.stringify(mine)); } catch (e) {}
-  draw(it);
-}
-for (const it of ITEMS) {
-  const sec = document.createElement('section');
-  sec.innerHTML = '<h2>' + it.name + '</h2><p>' + it.text + '</p>';
-  const row = document.createElement('div'); row.className = 'row';
-  if (it.fold === null) {
-    row.innerHTML = '<div class="whole" style="width:700px"><img loading="lazy" src="' + it.whole + '"></div>';
-    sec.appendChild(row); list.appendChild(sec); continue;
-  }
-  const strip = document.createElement('div'); strip.className = 'strip';
-  strip.style.width = it.w + 'px'; strip.style.height = it.h + 'px';
-  strip.innerHTML = '<img loading="lazy" width="' + it.w + '" height="' + it.h + '" src="' + it.strip + '">' +
-    '<div class="first" style="left:' + ((it.fold - it.x0) * SCALE) + 'px"></div><div class="band"></div><div class="line"></div>';
-  it.line = strip.querySelector('.line'); it.band = strip.querySelector('.band');
-  const at = e => set(it, it.x0 + (e.clientX - strip.getBoundingClientRect().left) / SCALE);
-  let down = false;
-  strip.addEventListener('pointerdown', e => { down = true; strip.setPointerCapture(e.pointerId); at(e); });
-  strip.addEventListener('pointermove', e => { if (down) at(e); });
-  strip.addEventListener('pointerup', e => { down = false; });
-  const side = document.createElement('div');
-  side.innerHTML = '<div class="tools"><button data-d="-4">&#9664; left</button> <button data-d="4">right &#9654;</button> ' +
-    '<button data-d="0">put back</button></div><div class="say"></div>' +
-    '<div class="whole" style="margin-top:1em"><img loading="lazy" src="' + it.whole + '"></div>';
-  it.say = side.querySelector('.say');
-  side.querySelectorAll('button').forEach(bt => bt.addEventListener('click', () => {
-    const d = +bt.dataset.d; set(it, d ? cur(it) + d : it.fold); }));
-  row.appendChild(strip); row.appendChild(side); sec.appendChild(row); list.appendChild(sec);
-  draw(it);
-}
-document.getElementById('resetall').addEventListener('click', () => {
-  if (!confirm('Put every line back where it was first?')) return;
-  mine = {}; try { localStorage.removeItem(KEY); } catch (e) {}
-  ITEMS.forEach(it => { if (it.fold !== null) draw(it); });
-});
-document.getElementById('save').addEventListener('click', async () => {
-  const all = {}; ITEMS.forEach(it => { if (it.fold !== null) all[it.name] = cur(it); });
-  const text = JSON.stringify(all, null, 1);
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(new Blob([text], {type: 'application/json'}));
-  a.download = 'folds_' + SLUG + '.json'; a.click();
-  const out = document.getElementById('out'); out.value = text; out.style.display = 'block';
-  try { await navigator.clipboard.writeText(text); } catch (e) {}
-});
-</script></html>
-"""
+    The canvas grows to hold the turned sheet, so nothing is lost; the
+    corners this opens are filled with the colour of the scan's own border.
+    An x on the unturned scan is x + the second value on the turned one,
+    which is how the fold page shows it (the sheet turns about its centre
+    under a vertical line).
+    """
+    from PIL import Image
+    if not angle or abs(angle) < 0.01:
+        return im, 0
+    g = im.resize((64, 64))
+    edge = [g.getpixel((x, y)) for x in range(64) for y in (0, 63)] + [g.getpixel((x, y)) for y in range(64) for x in (0, 63)]
+    fill = tuple(sorted(c[k] for c in edge)[len(edge) // 2] for k in range(3))
+    rot = im.rotate(angle, resample=Image.BICUBIC, expand=True, fillcolor=fill)
+    return rot, (rot.width - im.width) / 2.0
+
+
+FOLD_PAGE_WIDTH = 2400      # the fold page shows each scan at this width at most
 
 
 def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
-    """Write review/<slug>/folds/index.html: every scan, with a fold line the editor can move and save.
+    """Write review/<slug>/folds/index.html: the fold page, one opening at a time.
 
-    For each opening the page shows the whole scan small, and beside it a
-    strip STRIP_HALF pixels either side of the proposed fold at half size, on
-    which a click places the line. "Save my folds" gives folds_<slug>.json
-    with the x of every fold; see placed().
+    The page is fold_page.py's, the one review_folds.py has always written:
+    the whole opening in the window, the arrow keys to page through, the red
+    line dragged onto the fold. Here the sheet can also be turned with the
+    mouse. "Save" gives folds_<slug>.json with the x of every fold and the
+    angle of every sheet; see placed().
     """
-    import json
-    from PIL import Image, ImageDraw
+    import fold_page
+    from PIL import Image
     out = os.path.join(root, 'review', slug, 'folds')
     os.makedirs(out, exist_ok=True)
+    for old in os.listdir(out):                  # the strips of the first fold page
+        if old.endswith('_strip.jpg'):
+            os.remove(os.path.join(out, old))
     leaf_of = leaf_of or {}
+    angles = getattr(scans, 'angles', {})
+    mine = getattr(scans, 'mine', ())
     items = []
-    for name, fold, left, right in scans:
-        im = Image.open(os.path.join(raw, name)).convert('RGB')
-        stem = os.path.splitext(name)[0]
 
-        def say(pid):
-            what = 'left out' if pid in skip else 'a page of the edition'
-            leaf = leaf_of.get(pid)
-            return '%s<b>%s</b>' % (('leaf %s: ' % leaf) if leaf else '', what)
-        small = im.copy()
-        if fold is not None:
-            ImageDraw.Draw(small).line([(fold, 0), (fold, im.height)], fill=(255, 0, 0), width=8)
-        k = 700 / im.width
-        small.resize((700, int(im.height * k)), Image.LANCZOS).save(os.path.join(out, stem + '.jpg'), quality=78)
-        item = {'name': name, 'fold': fold, 'whole': stem + '.jpg'}
+    def say(pid):
+        leaf = leaf_of.get(pid)
+        return '%s%s' % (('leaf %s, ' % leaf) if leaf else '', 'left out' if pid in skip else 'a page of the edition')
+    for name, fold, left, right in scans:
+        src = os.path.join(raw, name)
+        stem = os.path.splitext(name)[0]
+        dst = os.path.join(out, stem + '.jpg')
+        with Image.open(src) as im:
+            w, h = im.size
+            if not os.path.isfile(dst) or os.path.getmtime(dst) < os.path.getmtime(src) \
+                    or Image.open(dst).width != min(w, FOLD_PAGE_WIDTH):
+                k = min(1.0, FOLD_PAGE_WIDTH / w)
+                im.convert('RGB').resize((int(round(w * k)), int(round(h * k))), Image.LANCZOS).save(dst, quality=85)
+        item = {'file': name, 'src': stem + '.jpg', 'w': w, 'h': h, 'angle': angles.get(name, 0),
+                'fold': None if fold is None else round(fold / w, 6),
+                'conf': 'placed by you' if name in mine else 'first proposal'}
         if fold is None:
-            item['text'] = 'One page, not cut. %s.' % say(left)
+            item['note'] = 'One page, not cut: %s.' % say(left)
         else:
-            x0 = max(0, fold - STRIP_HALF)
-            x1 = min(im.width, fold + STRIP_HALF)
-            strip = im.crop((x0, 0, x1, im.height))
-            w, h = int(strip.width * STRIP_SCALE), int(strip.height * STRIP_SCALE)
-            strip.resize((w, h), Image.LANCZOS).save(os.path.join(out, stem + '_strip.jpg'), quality=82)
-            item.update({'strip': stem + '_strip.jpg', 'x0': x0, 'w': w, 'h': h,
-                         'text': 'Left half, %s. Right half, %s.' % (say(left), say(right))})
+            item['note'] = 'Left of the line: %s. Right of the line: %s.' % (say(left), say(right))
+        if note:
+            item['note'] += '  ' + note
         items.append(item)
-    page = (_FOLD_PAGE.replace('__REF__', html.escape(ref)).replace('__SLUG__', slug)
-            .replace('__OVERLAP__', str(OVERLAP)).replace('__SCALE__', str(STRIP_SCALE))
-            .replace('__NOTE__', ('<p>%s</p>' % html.escape(note)) if note else '')
-            .replace('__ITEMS__', json.dumps(items, ensure_ascii=False)))
-    io.open(os.path.join(out, 'index.html'), 'w', encoding='utf-8').write(page)
+    page = fold_page.render(ref, items, save='folds_%s.json' % slug, key='folds2:' + slug, rotate=True, pixels=True,
+                            overlap=OVERLAP)
+    io.open(os.path.join(out, 'index.html'), 'w', encoding='utf-8', newline='\n').write(page)
     print('wrote', os.path.join(out, 'index.html'), 'with', len(items), 'scan(s)')
 
 
@@ -469,25 +419,35 @@ def write_summaries(root, unit_dir, slug, ref, S, how):
 def take_folds(root, slug, path):
     """The editor's saved folds become the holding's: copied to units/<slug>/intake/folds.json, pages cut again.
 
-    Runs the holding's own build_pages.py --crop --sheet (which reads the
-    file through placed()), stages the new page images over the old and
-    remakes the web images. Nothing else of the holding changes.
+    Runs the holding's own script with --crop --sheet (holding.py, or
+    build_pages.py in the first holdings; it reads the file through
+    placed()), stages the new page images over the old and remakes the web
+    images. Nothing else of the holding changes.
     """
     import json
     import shutil
     import subprocess
     import sys
     mine = json.load(io.open(path, encoding='utf-8'))
-    assert mine and all(isinstance(v, int) for v in mine.values()), 'not a folds file'
+    assert mine and all(isinstance(v, int) or (isinstance(v, dict) and 'fold' in v) for v in mine.values()), 'not a folds file'
     intake = os.path.join(root, 'units', slug, 'intake')
     dst = os.path.join(intake, 'folds.json')
     old = json.load(io.open(dst, encoding='utf-8')) if os.path.isfile(dst) else {}
-    shutil.copyfile(path, dst)
-    print(len(mine), 'folds taken;', sum(1 for k, v in mine.items() if old.get(k) != v), 'differ from the ones on file')
-    for cmd in (['units/%s/intake/build_pages.py' % slug, '--crop', '--sheet'],
-                ['pipeline/intake/stage_pages.py', '--unit', slug, '--force'],
-                ['pipeline/build/relabel_scans.py', '--unit', slug, '--apply'],
-                ['pipeline/build/make_scan_derivatives.py', '--unit', slug, '--force']):
+    if os.path.abspath(path) != os.path.abspath(dst):
+        shutil.copyfile(path, dst)
+    turned_n = sum(1 for v in mine.values() if isinstance(v, dict) and v.get('angle'))
+    print(len(mine), 'scans in the file;', sum(1 for k, v in mine.items() if old.get(k) != v), 'differ from the ones on file;',
+          turned_n, 'turned')
+    script = 'holding.py' if os.path.isfile(os.path.join(intake, 'holding.py')) else 'build_pages.py'
+    cmds = [['units/%s/intake/%s' % (slug, script), '--crop', '--sheet']]
+    if os.path.isfile(os.path.join(intake, 'fold_sheet.py')):       # Konin Gr.145 writes its fold page with its own script
+        cmds.append(['units/%s/intake/fold_sheet.py' % slug])
+    cmds += [['pipeline/intake/stage_pages.py', '--unit', slug, '--force'],
+             ['pipeline/build/relabel_scans.py', '--unit', slug, '--apply'],
+             # no --force: that remakes every web image of the edition (three minutes); the pages just
+             # staged are newer than their web images, which is what the script goes by
+             ['pipeline/build/make_scan_derivatives.py', '--unit', slug]]
+    for cmd in cmds:
         print('>', ' '.join(cmd))
         subprocess.run([sys.executable, '-W', 'ignore'] + cmd, cwd=root, check=True)
 

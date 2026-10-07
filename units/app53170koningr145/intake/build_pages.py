@@ -68,12 +68,21 @@ FOLDS = {
     710: 2570, 711: 2524, 712: 2562, 713: 2527, 714: 2623, 715: 2554,
 }
 # Where the editor has moved a fold on the fold page and saved it, folds.json
-# beside this script is used instead of the number above (2026-10-07).
+# beside this script is used instead of the number above (2026-10-07). The
+# file gives, for each scan, the x of the fold and the angle by which the
+# sheet is turned before it is cut ({scan: {"fold": x, "angle": degrees}}; the
+# first fold page saved {scan: x}).
+ANGLES = {}
 _MINE = os.path.join(HERE, 'folds.json')
 if os.path.isfile(_MINE):
     import json
-    for _name, _x in json.load(io.open(_MINE, encoding='utf-8')).items():
-        FOLDS[int(os.path.splitext(_name)[0])] = int(_x)
+    for _name, _v in json.load(io.open(_MINE, encoding='utf-8')).items():
+        if not isinstance(_v, dict):
+            _v = {'fold': _v}
+        if _v.get('fold') is not None:
+            FOLDS[int(os.path.splitext(_name)[0])] = int(_v['fold'])
+        if _v.get('angle'):
+            ANGLES[_name] = float(_v['angle'])
 # Each page keeps this many pixels beyond the fold, so that a line running
 # into the gutter is whole even where the fold is a little out.
 OVERLAP = 30
@@ -133,18 +142,13 @@ def read_source():
 
 
 def crop():
-    from PIL import Image
-    os.makedirs(PROCESSED, exist_ok=True)
-    for n in range(FIRST, LAST + 1):
-        im = Image.open(os.path.join(RAW, '%d.jpg' % n)).convert('RGB')
-        x = FOLDS[n]
-        for half, box in (('a1', (0, 0, x + OVERLAP, im.height)), ('a2', (x - OVERLAP, 0, im.width, im.height))):
-            pid = '%04d_%s' % (n, half)
-            # the two halves that are not part of the entry are kept apart, not staged
-            folder = os.path.join(PROCESSED, '_not_staged') if pid in SKIP else PROCESSED
-            os.makedirs(folder, exist_ok=True)
-            im.crop(box).save(os.path.join(folder, pid + '.jpg'), quality=92)
-    print('cut', (LAST - FIRST + 1) * 2, 'page images into', PROCESSED)
+    """Cut every opening at its fold (courtbook.cut, which also turns a sheet the editor turned)."""
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(HERE))), 'pipeline', 'intake'))
+    import courtbook
+    assert courtbook.OVERLAP == OVERLAP
+    scans = courtbook.Scans(('%d.jpg' % n, FOLDS[n], '%04d_a1' % n, '%04d_a2' % n) for n in range(FIRST, LAST + 1))
+    scans.angles = ANGLES
+    courtbook.cut(RAW, scans, SKIP)
 
 
 def main():
