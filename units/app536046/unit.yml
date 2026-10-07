@@ -23,6 +23,12 @@ title_de: >-
 # gives it. Kept for reference; nothing displays it.
 archive_title: >-
   Decreta [protocollon] 1773-1777
+# The fonds, with the archive's description of it, from the editor (2026-10-07):
+# 53/6, "Księgi sądu ziemskiego w Koninie". Contents, as the archive lists
+# them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty, regestry spraw,
+# pozwy, ekstrakty, inkwizycje". The description of the court is given in
+# about.md under "Historical background".
+fonds: Księgi sądu ziemskiego w Koninie
 date_span: 1777
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

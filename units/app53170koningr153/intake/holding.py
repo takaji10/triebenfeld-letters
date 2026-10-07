@@ -23,13 +23,22 @@ openings: Image00004 is leaves 1391v|1392, and so on to Image00016, leaves
 1403 recto is blank, barred with pen strokes, and is set apart. The folds
 are courtbook.find_fold's; they are first proposals for the editor.
 
-The check (2026-10-07) was the light one the plan sets for the long
+The first check (2026-10-07) was the light one the plan sets for the long
 holdings. Read against the scans, enlarged, word for word: leaf 1391 from
 "per decretum commissionis" on, leaves 1391 verso, 1401, 1401 verso, 1402,
 1402 verso, 1403 verso and 1404; and parts of leaves 1395, 1395 verso, 1396
 verso, 1397 verso, 1399 verso, 1400 and 1400 verso. ROWS has what was
 corrected. The rest of the Tribunal's decree (leaves 1392 to 1399) was not
 read through.
+
+At the editor's word the whole holding was then read against the scans,
+page by page (the full check, 2026-10-07): every page of leaves 1391 verso
+to 1400 verso, and the top of leaf 1391. Its record is full_check.json
+beside this file (courtbook.full_check): 106 more corrections (ROWS, applied
+with --full after --correct), 33 more places where the English follows
+(FIXES) and 12 more of the editor's notes left out because they discuss a
+reading that is now corrected (DROP). The rows there are written against
+the text as the light check left it; ROWS below come first.
 
 Three words were corrected throughout, on the ground of the places where
 they were looked at, and not each occurrence was seen:
@@ -105,6 +114,8 @@ def read_source():
     assert [l for l, _ in leaves] == LEAVES, [l for l, _ in leaves]
     return {(2 if l == '1404' else 1, page_of(l)): p for l, p in leaves}
 
+
+FULL = courtbook.full_check(HERE)
 
 JUR = '"Jur~to" on the scan: jurato, sworn, not "jurisdictione"'
 JUR2 = JUR + ' (corrected on the ground of the places looked at; this one was not)'
@@ -246,13 +257,13 @@ FIXES = [
 def english():
     f = glob.glob(os.path.join(glob.escape(RAW), '*English*.md'))
     assert len(f) == 1, f
-    leaves = courtbook.read_english(f[0], drop_notes=DROP)
+    leaves = courtbook.read_english(f[0], drop_notes=tuple(DROP) + tuple(FULL['DROP']))
     assert [l for l, _ in leaves] == LEAVES[:24] + ['1403v', '1403v', '1404'], [l for l, _ in leaves]
     n = sum(x.count('Gerski') for _, p in leaves for x in p)
     m = sum(x.count('[uncertain: demarcation]') for _, p in leaves for x in p)
     assert (n, m) == (4, 3), (n, m)
     leaves = [(l, [x.replace('Gerski', 'Gorski').replace('[uncertain: demarcation]', 'raising') for x in p]) for l, p in leaves]
-    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES)
+    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES + FULL['FIXES'])
     assert E[25][-1].startswith('[Section 6'), E[25][-1]
     j = '\n\n'.join
     return {1: [j(E[i]) for i in range(24)] + [j(E[24] + E[25][:-1])], 2: [j(E[25][-1:] + E[26])]}

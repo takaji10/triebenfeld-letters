@@ -43,7 +43,7 @@ The delivery of possession of 1771: <a href="{{ '/sources/app53150kaliszgr414/' 
 
 ### Scans
 
-The folder has sixteen images of this book, each showing two facing pages: eleven from the archive and five photographs. Nine carry an entry that is transcribed. Each of those was cut at the fold, and the half with the entry is shown. Seven images, and a subfolder of pages the editor set aside as not the right ones, are not used.
+The folder has sixteen images of this book, each showing two facing pages: eleven from the archive and five photographs. Nine carry an entry that is transcribed. Each of those was cut at the fold, and the half with the entry is shown. Seven images, and a subfolder of pages the editor set aside as not the right ones, are not used. The five photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

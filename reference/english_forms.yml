@@ -332,3 +332,12 @@ rules:
     2026-10-03). Only the place: the pattern stops before a further letter, so
     the family named from it keeps its own form (Trąmpczyński). Added
     2026-10-07.
+
+- id: gorski-name
+  pattern: "\\bGorski\\b"
+  replace: "Górski"
+  why: >-
+    Jakub Pomian Górski, boundary chamberlain of Inowrocław (Konin Gr.118 and
+    Gr.153, 1782). The clerks and he himself write "Gorski", without the
+    accent, as Latin of the time does; the transcription keeps that. In the
+    English the name has its Polish form (the editor, 2026-10-07).

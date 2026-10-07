@@ -7,8 +7,10 @@ Status `translated`. Built and verified locally, **not published**.
 
 **Read the docstring of `intake/holding.py` first.**
 
-- **Checked:** documents 3, 4, 7, 8 whole; most of 1 (second half), 2, 5.
-  Document 6 and the first half of document 1 not read.
+- **Fully checked** (2026-10-07): every entry read against the scans. 48
+  corrections in `holding.py` (ROWS), 8 more in `intake/full_check.json`
+  (the first half of document 1, document 6), applied with `--full`.
+  Neither is to be applied again.
 - **"Arestum X non praevenit"** means that the arrest (laid by the
   citation) did not reach the man, not that someone forestalled it. The
   editor's English had it both ways; see also 53/6/0/-/47, corrected the
@@ -35,4 +37,5 @@ Status `translated`. Built and verified locally, **not published**.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 7 scan(s), 5 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The questions in `docs/PRUSIMSKI_QUESTIONS.md`.
+- Nothing else. The seven scans with entries that are not transcribed are
+  not relevant (editor, 2026-10-07) and stay out.

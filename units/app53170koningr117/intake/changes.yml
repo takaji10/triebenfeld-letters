@@ -1,8 +1,9 @@
 # What the check of APP 53/17/0/-/Konin Gr.117 against the scans changes for
 # anyone who has written about these entries from the earlier text. Read by
-# pipeline/review/changes_page.py. The check was a light one: five of
+# pipeline/review/changes_page.py. The first check was a light one: five of
 # eighteen pages word for word, with every heading, date line and judge's
-# name.
+# name. The editor read that record on 2026-10-07 and asked for the full
+# check; what it added is marked `new:`.
 # importance: significant | fact | wording.
 
 unit: "APP 53/17/0/-/Konin Gr.117: thirteen register entries, 1778 and 1779"
@@ -57,11 +58,103 @@ changes:
   what: "Chełmski signed both his protests of April 1778 (leaves 57 verso and 58); the signatures are added."
   was: "(not transcribed)"
   now: "Stanisław Scibor Chełmski"
-- importance: fact
-  what: "Not checked. The long Latin of documents 2, 3, 4, 5, 7, 8 and 9 was not read against the scans beyond the names and the word \"Patrui\". About 190 marks of doubt remain in it, and your English for those passages stands as you wrote it."
-  was: "(first reading)"
-  now: "(first reading, marked as rough)"
 - importance: wording
   what: "Smaller readings: \"Sanus existens Recognovit se\"; \"vi Decreti\" (by force of the decree); \"peremptorie\"; \"contra M. Stanislaum Chełmski\" for \"[?] termino[?]\"; \"facta Manifestatio ex opposito Inserta\"; the heading \"contra MM. Chełmski et Judicium Terrestre Calissiense ad Tribunal Relatio\"; \"pro Judiciis Terrestribus\" for \"pro quidem\"; \"Quia Ipse\"; \"Officiosam Requisitionem\"; \"zas za kopcami\"; \"Ministerialis ... viginti ... Expressa\"; \"de receptis\"; Prusimski's signature \"Star: Nieszczewski\"."
   was: "Sanus [habens?] Recognovit[?] de / in Decreti / [?] termino[?] / pro quidem Terrestribus"
   now: "Sanus existens Recognovit se / vi Decreti / contra / pro Judiciis Terrestribus"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Chełmski's two protests of April 1778, leaves 57 verso and 58"
+  what: "The word you read as \"jurisdictio\" is \"juramento\", an OATH. The scan has \"jurto\" and \"jurtum\" with a mark. Chełmski says the decree of his commissioners of 1775 was confirmed \"by the oath performed at the last mound with neighbouring witnesses\" (\"juramento in ultimo scopulo cum vicinis Testibus expleto Authorisatum\"), and that Prusimski's commissioners acted after \"the oath sworn by the appearing party\", that is, by Chełmski himself. Lower on leaf 58 you read the same abbreviation as \"Juramentum\" yourself (\"oath against oath\"). The \"appearing party\" (\"veniens\") is Chełmski throughout; your English had \"the opposing party\" for it in several places."
+  was: "conditum, jurisdictioni[?] in ultimo scopulo cum vicinis Testibus expleti[?] Authorisatum ... ac [pro/prae]stitum pro Venientem jurisdictionem[?] ... praestito pro Vn~tr in ultimo Aciali scopulo jurisdicti solidatos esse ... de prostito pro vn~tes ad formam Statuti in corroborationem eorundem jurisdictioni ad aequatam notitiam"
+  now: "conditum, juramento in ultimo scopulo cum vicinis Testibus expleto Authorisatum ... ac praestitum per Venientem juramentum ... praestito per Vn~tem in ultimo Aciali scopulo juramento solidatos esse ... de praestito per vn~tem ad formam Statuti in corroborationem eorundem juramento adaequatam notitiam"
+  english_was: "authorised with jurisdiction completed at the final mound with neighbouring witnesses ... after the mounds were erected and jurisdiction had been rendered for the opposing party ... with jurisdiction rendered for the opposing party at the final axial mound, had been firmly confirmed ... had received due notice of the jurisdiction rendered for those appearing"
+  english_now: "authorised by the oath performed at the last mound with neighbouring witnesses ... after the mounds were erected and the oath sworn by the appearing party ... had been made firm by the oath sworn by the appearing party at the last axial mound ... had full notice of the oath sworn by the appearing party"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Leaves 57 verso and 58"
+  what: "\"Invalid\", not \"inviolable\". Chełmski argues that Prusimski, by not entering his commissioners' act in the records and not acting on it, \"himself acknowledged it as invalid\" (\"pro invalibili agnovisse\"); and that Czarnecki treated documents \"in one place as legitimate, in another as invalid\" (\"pro invalibilibus\"). Your English had \"inviolable\" in both places, which turns the argument round."
+  was: "(the Latin is unchanged: pro invalibili agnovisse ... in altero pro invalibilibus)"
+  now: "(the Latin is unchanged)"
+  english_was: "had acknowledged that same act, which followed in his favour, as inviolable ... in one place as legitimate, in another as inviolable"
+  english_now: "had acknowledged that same act, which followed in his favour, as invalid ... in one place as legitimate, in another as invalid"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Prusimski's protest of 15 April 1778, leaf 71 verso"
+  what: "Two passages where a line, or part of one, was passed over. (1) After \"Decreti Terrestris Calissiensis Coninensis\" a line is missing: Prusimski \"laid the same prosecutions before the sub-judge at the term of the sitting on the ground\". (2) Between two occurrences of \"Calissien\" these words are missing: Prusimski \"had sought and concluded that the remission of the cause to the Tribunal should be made by the sub-judge; for the same land judge, instead of making it ...\". What follows then reads differently: the judge sent the cause back \"to himself and the whole court, who were under prosecution\" and bound to stop judging it. Your English had Prusimski \"again prosecuting the sub-judge himself and the entire court\"."
+  was: "Decreti Terrestris Calissiensis Coninensis Mgcum~ Subjudici reposuit et pro[u/c?]it totum Judicium ... Remissione Causae hujus ad Tribunal pro Magnificum Subjudicum Terrestre Calissien~ loco faciendae virtutae [pro/prae]missanon[?] Rationum Remissionis ... rursus ad se Ipsum totumque Judicium prosecutis et adisjudicatione Causae Istius[?]"
+  now: "Decreti Terrestris Calissiensis Coninensis Actumque perficien[?] ejusdem Condescensionis Easdem prosecutiones in Termino Condescensionis Mgco~ Subjudici reposuit et prout totum Judicium ... Remissionem Causae hujus ad Tribunal per Magnificum Subjudicem Terrestrem Calissien~ faciendam esse Expetierat, et Concluserat, Nam Idem M. Judex Terrestris Calissien~ Loco faciendae virtute praemissarum Rationum Remissionis ... rursus ad se Ipsum totumque Judicium prosecutos et a dijudicatione Causae Istius"
+  english_was: "he placed and brought the whole matter before the Honourable Sub-judge ... [and] the remission of this cause to the Tribunal, which the Honourable Sub-judge of the Kalisz Land Court ought to have made ... he again prosecuted the Sub-judge himself and the entire court; and [they], by force of law now obliged to desist from adjudication of that cause, improperly remitted it"
+  english_now: "he laid the same prosecutions before the Honourable Sub-judge at the condescension term ... had sought and concluded that the remission of this cause to the Tribunal should be made by the Honourable Sub-judge of the Kalisz Land Court. For the same Honourable Land Judge of Kalisz, instead of making the remission to the Tribunal ... improperly made that remission back to himself and the whole court, who were under prosecution and by force of law already bound to desist from adjudicating that cause"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "The citation served on Prusimski, leaf 78 verso"
+  what: "A line was passed over, and your \"Auris\" joined the end of one line to the start of the next but one. Chełmski cites Prusimski \"to see and hear the suit of himself the plaintiff, instituted against you, adjudged notwithstanding any protests and terms of yours\". The citation addresses Prusimski as \"you\" throughout (\"Tibi\", \"Te\", \"tuis\"), where your text had \"Sibi\", \"se\", \"suis\"; and it ends with the usual formula, \"Citatus sis pariturus Terminum attentaturus et Judicialiter responsurus\"."
+  was: "et [s?]e Cittan~ parte ab altera prolatum ad citt~ adviden~ et Auris Manifestationibus et Terminis tuis ... super [s?]e decerni Statui et Sententiam proquo litaris lis parituriae[?] Terminum attentatioris[?] et Judicialiter responsumis"
+  now: "et Te Cittum~ parte ab altera prolatum adcitt~ ad viden~ et Audien~ actoratum Sui Actoris tibi Institutum non obstantibus quibusvis Manifestationibus et Terminis tuis ... super Te decerni Statui et Sententiari proquo Citatus sis pariturus Terminum attentaturus et Judicialiter responsurus"
+  english_was: "cites you to see and hear: your manifests and prosecution terms, if they had intervened, to be adjudicated in connection with the plaintiff's documents"
+  english_now: "cites you to see and hear: the suit of himself the plaintiff, instituted against you, to be adjudged, notwithstanding any manifests and prosecution terms of yours, if such have intervened, in connection with the plaintiff's documents"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "The citation to the Tribunal, leaf 72 verso"
+  what: "Who owed whom. The sums in question were \"contracted from the plaintiff's late uncle by the late Tracholz, and owed to the uncle\" (\"ab olim Magnifico Patruo Actoris per olim Honoratum Tracholz Contractae et Eidem debitae\"). Your English had it the other way round, the uncle borrowing from Tracholz. This agrees with leaf 55, where Tracholz is the uncle's debtor. If the papers show such a debt, Chełmski, who took over Tracholz's right, is to pay it to Prusimski."
+  was: "(the Latin is unchanged, but for \"praetensio\" and \"Patruo\" without its mark of doubt)"
+  now: "major praetensio et Summae ab olim Magnifico Patruo Actoris per olim Honoratum Tracholz Contractae et Eidem debitae"
+  english_was: "a greater pretension and sums contracted by the late uncle of the plaintiff from the late Honest Tracholz and owed to him"
+  english_now: "a greater pretension, and sums contracted by the late Honest Tracholz from the late uncle of the plaintiff and owed to the uncle"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "All the long entries"
+  what: "One sign misread throughout: the clerk's \"p\" with a stroke through its tail is \"per\", where you wrote \"pro\". With an accusative it means \"by\". So the right was acquired \"by\" Chełmski from Tracholz (\"per Magnificum Chełmski ... quaesiti\"; your English \"acquired for\"); the decree of 1775 was given \"by\" Chełmski's commissioners; the inspection of 1592 was acknowledged \"by\" the then co-heirs of Trąbczyn; Czarnecki was engaged \"by\" Prusimski; and the term was not had \"by\" Chełmski. Corrected in about fifteen places."
+  was: "Jure illegali pro M Chełmski ... pro Commissarios pro parte vn~tis conductos ... pro anteriores pro tunc Bonorum Trąpczyna cohaeredes ... pro JMcum~ Prusimski ... pro Magnificum Chełmsi non habito"
+  now: "Jure illegali per M Chełmski ... per Commissarios pro parte vn~tis conductos ... per anteriores pro tunc Bonorum Trąpczyna cohaeredes ... per JMcum~ Prusimski ... per Magnificum Chełmski non habito"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaf 54 verso"
+  what: "In the first citation to the Tribunal, what is to be quashed is \"the transfer\" of Tracholz's right to Chełmski: \"Cassata Transfusione\", where you had \"Cassat[io?] Man[ifestationem?]\" and translated \"the cassation of the manifest\". The same words stand in full on leaves 55 verso and 72. The close of the citation is the usual \"quae Juris Justitiae ac Documentorum erunt\"; and the new law is cited \"ex praescripto novellae Legis\" (\"praescripto\" was passed over)."
+  was: "Nihilominus Cassat[io?] Man[ifestationem?] seu Jure illegali pro M Chełmski a Famat[o?] Joanne Tracholz in debitae ... quae Iteris Jusitia[???] ac Documentorum [????] ... ex Novella Legis"
+  now: "Nihilominus Cassata Transfusione seu Jure illegali per M Chełmski a Famato Joanne Tracholz indebite ... quae Juris Justitiae ac Documentorum erunt ... ex praescripto novellae Legis"
+  english_was: "the cassation of the manifest or the illegal right acquired for the Honourable Chełmski from the Honest Jan Tracholz improperly"
+  english_now: "the transfer, or right, unlawfully acquired by the Honourable Chełmski from the Honest Jan Tracholz, unduly ... being cassated"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Chełmski's second protest, leaf 58"
+  what: "Read whole. The inspection of 1592 was \"acknowledged by the then co-heirs of Trąbczyn\" and \"ordered to be observed in the delimitation\" (\"Observari\") by the Tribunal decrees of 1766 and 1768. Prusimski had \"full\" notice of the oath (\"perfecta\", your \"protecta\") and was \"little acquainted with his own boundaries\" (\"gra~erum\" is \"granicierum\"; your English \"grievances\"). Of his three fellow-swearers the second is \"lacking full sense\" (\"Sensu perfecto carentem\"; your \"Sensu praefato correntem\", \"running there under the aforesaid protection\"), and the third was \"taken to his side\" straight from Piotrków. The close is \"Qua ex re publice praemissa exponendo\", \"for which reason, publicly setting out the foregoing\": there is no \"Republic\" in it."
+  was: "recognitae, pro anteriores ... authorisatae et Observati in dislimitatione injunctae intercesisse ... habita protecta ... attestatarum Juramentum contra Juramentorum offerre ... Alterum Sensu praefato correntem ... ad latus sui suscepitt[?] ... Qua ex republiae praemissa exponendo"
+  now: "recognitae, per anteriores ... authorisatae et Observari in dislimitatione injunctae intercessisse ... habita perfecta ... attentatarum Juramentum contra Juramentum offerre ... Alterum Sensu perfecto carentem ... ad latus sui susceptum ... Qua ex re publice praemissa exponendo"
+  english_was: "for the previous joint heirs of the estates of Trąbczyn at that time ... and the demarcation enjoined therein having been carried out ... not even being aware of his own grievances, as he rarely is ... another running there under the aforesaid protection ... Having set out these matters as contrary to the Republic"
+  english_now: "an inspection acknowledged by the then co-heirs of the estates of Trąbczyn ... and ordered to be observed in the delimitation ... being little acquainted even with his own boundaries, which were seldom gone over in his presence ... another lacking full sense ... For which reason, publicly setting out the foregoing"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Chełmski's first protest, leaf 57 verso"
+  what: "Łukom is described as \"his own, the appearing party's\" (your English: \"of the opposing party\"). Prusimski's commissioners acted \"after the aforesaid delimitation\" (\"praefatam\", your \"prolatam\"), and their act was drawn up \"by persons related to the Starost\" (\"per Cognatas ... Personas\"; your English \"for the cognate persons\"). Chełmski protests \"to meet a future contrary interpretation\" (\"Ideo futurae contrariae interpretationi subveniendo\"). The decree of 1775 was brought \"duly and lawfully\" (\"rite et legitime\") to the records \"of its own palatinate\"."
+  was: "post dislimitationem prolatam ... pro Cognata[xa?] JMcae~ Capitanei ... Id eo futurae contrariae inter praeta~ori subveniendo ... Ad Acta propriis Palt~us in tempore per Oblatam porrectus verite et legitime"
+  now: "post dislimitationem praefatam ... per Cognatas[?] JMci~ Capitanei ... Ideo futurae contrariae interpretationi subveniendo ... Ad Acta proprii Palatinatus in tempore per Oblatam porrectum rite et legitime"
+  english_was: "after the extended demarcation ... drawn up for the cognate persons of the Honourable Starost ... coming thereby to the aid of future contrary arguments among those advancing them"
+  english_now: "after the aforesaid delimitation ... drawn up by persons related to the Honourable Starost ... therefore, to meet a future contrary interpretation"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Prusimski's protests, leaves 55, 55 verso, 71 and 71 verso"
+  what: "Chełmski sought lawsuits with Prusimski \"of his own accord\" (\"Ultronee\"), and \"dared and presumed\". The earlier decrees involved \"the successors\" of the uncle's widow (\"Successoribus\"; your \"Successionibus\", \"successions\", and on leaf 71 \"claims\"). The remission of the cause was made \"with Chełmski's assignor\", Tracholz (\"cum Jurisdatore\"; your \"Jurisdatione\"). Zielonacki is named as \"judge\" of the cause both in the full court and at the sitting on the ground (\"Judicem\"). What Prusimski fears is \"some entanglement of the boundary cause\" (\"involutionem aliquam Causae Granicialis\"; your \"in Solutionem aliquam Causae Generalis\", \"some resolution of the general cause\")."
+  was: "Ultranec Se[r?]um Maante[Manifestatione?] Litigiae querens, acesces[?] est et prosumpsit ... cum Eisdem Successionibus ... cum Jurisdatione Magnifici Chełmski ... Judiciorum[?] Manifestatur ... in Solutionem aliquam Causae Generalis"
+  now: "Ultronee Secum Manifestante Litigia querens, ausus est et praesumpsit ... cum Eisdem Successoribus ... cum Jurisdatore Magnifici Chełmski ... Judicem Manifestatur ... involutionem aliquam Causae Granicialis"
+  english_was: "going beyond all bounds and seeking litigation against the manifestant — came forward and presumed ... together with those same successions ... together with the legal assignment of the Honourable Chełmski ... some resolution of the manifestant's general cause"
+  english_now: "of his own accord seeking lawsuits with the manifestant — dared and presumed ... with those same successors ... with the Honourable Chełmski's assignor ... some entanglement of the manifestant's boundary cause"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "The citation to the Tribunal, leaves 72 and 72 verso"
+  what: "The royal title has \"Kijoviae\", Kiev, not Kuiavia. The judges are cited as to \"your persons, goods, sums and offices\". The cause began under \"the new law\" (\"Novellae Legis\"; your \"Novellae Regis\", \"the King's new statute\"). The first copy was left \"at the provost's house at Trąbczyn\" (\"In praepositura\"; your English \"at the estate\"); the second at Konin \"where\" the land court's chancery is (\"ubi\"); the third before \"a girl\" (\"Virgine\"). Chełmski himself is to be punished or to make good the costs (\"Ipsum ... per Eum\"; your English \"the same [defendants]\")."
+  was: "Samogitiae Kujaviae ... de personis [?]nis Summis acossiu[?] vestris ... ex praescripto Novellae Regis omnino dec[t?]on debente ... In praepositurae Trąmpczynen~ ... Paulszewicz sibi Cancellaria ... praesenti Virgis[?]e"
+  now: "Samogitiae Kijoviae ... de personis bonis Summis ac officiis vestris ... ex praescripto Novellae Legis omnino decerni debente ... In praepositura Trąmpczynen~ ... Paulszewicz ubi Cancellaria ... praesenti Virgine"
+  english_was: "of Kuiavia ... regarding your persons and all claims and amounts of yours ... the King's new statute ... at the estate of Trąmpczyn"
+  english_now: "of Kiev ... regarding your persons, goods, sums and offices ... the new statute of the law ... at the provost's house at Trąmpczyn"
+- importance: fact
+  new: "full check, 2026-10-07"
+  what: "The seven long entries are now read through against the scans (the full check you asked for): 159 more corrections on eleven pages and 39 more places in the English. The marks of doubt in the holding's text fell from 171 to 45; those that remain were looked at and could not be read with confidence. No document of this holding is marked as a rough reading any more. The entry that said these documents were not checked is taken out."
+  was: "(light check: 50 corrections; seven documents marked rough)"
+  now: "(full check: 209 corrections; none marked rough)"
+- importance: wording
+  new: "full check, 2026-10-07"
+  what: "Smaller readings of the full check, among them many marks of doubt resolved: \"Kijoviae Podoliae\", \"Czerniechoviae\"; \"peremptorie\"; \"inhaerendo\"; \"factae sive faciendae\"; \"in Contrarium priori\"; \"Imo Causam\"; \"quaesito\"; \"Decreti Gravaminosi paenas super parte quam super Judicio\"; \"distinctim\"; \"Capitaneus\"; \"discrimen amovendo\"; \"contra Judicium\"; \"Judices Manifestatur\"; \"Extitit\"; \"inermis\"; \"exindeque\"; \"Earundem Condescensionum\"; \"indebite\"; \"perindeque\"; \"Incubuerat\"; \"expunctis\"; \"iterum atque iterum\"; \"Salvandis\"; \"bona\"; \"adimpletis\"; \"illudque\"; \"curasse\"; \"de insubsistentia\"; \"Nobiles\"; \"adhucusque\"; \"praefata noverint\"; \"praebendi Patrocinii\"; \"peragenda\"; \"interstitio\"; \"testesque\"; \"gravaminose prolatum ex Permissione Legis Coram Actis\"; \"Manifestans ex rationibus\"; \"Decretorum priorum\"; \"extraforanee\"; \"animadvertens\"; \"Connexitatis\"; \"dijudicare\"; \"praeconceperit\"; \"Concitatum\"; \"adauxit\"; \"per seorsivam Manifestationem\" (a separate protest); \"aggravationis\"; \"Diminuendi\"; \"unius ejusque essentiae\"; \"Seu tum dum et quando\"; \"reiterando easdem prosecutiones Sistendoque disjudicationem\"; \"plenum\"; \"Decretorum primitivorum\"; \"principiumque Suum habente\"; \"recipiendis\"; \"derelictorum\"; \"quodsi\"; \"Jureque\"; \"resarcimentum Litis Expensarum\"; \"Emicuerit\"; \"Dominicam Laetare\"; \"Tracholtz\"; \"refusione litis Expensarum\"; \"posuisse\"."
+  was: "see the list"
+  now: "see the list"

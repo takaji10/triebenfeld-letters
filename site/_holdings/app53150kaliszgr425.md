@@ -17,6 +17,8 @@ The Polish parliament appointed a commission in 1774 to end the boundary dispute
 
 The five commissioners who sign this adjournment are not among those six. One of them, Tomasz Radoński, is the boundary surveyor to whom the other part of the divided court had given the pen in 1775. Five days after the decree was entered at Brześć Kujawski, they treat the cause as still open before them and adjourn it. <!-- context -->
 
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Kaliszu", the books of the castle court and castle office of Kalisz. According to the archive's description of the fonds, the castle court took shape at the end of the fourteenth century. For the nobility it first heard criminal cases under the four "castle articles": arson, an attack on a nobleman's house, robbery on the public road, and rape. In time its competence changed and came to include the other criminal cases, and suits over land and over sums of money, and it took over appeals from the town courts. Beside the court grew the castle office, where the court books were kept. The office was open every day for the entry of uncontested business, and its books had public credit. The fonds holds resignations, inscriptions, reports, judgments, papers brought in for entry, registers of causes, loose papers, oaths, citations, judgments under Magdeburg law and powers of attorney. <!-- context -->
+
 ### Contents
 
 **The adjournment.** The commissioners appointed by the Estates of the Commonwealth to judge the cause between Prusimski, Starost of Niszczewice, heir of Trąbczyn, and Stanisław Ścibor Chełmski, heir of Łukomia, declare that they cannot bring it to an end by a final judgment at the term now falling due. The ordinary parliament is sitting at Warsaw and the Crown Tribunal at Piotrków, and some of them have business at the one and some at the other. The term in question had itself come from the adjournment made in the decree of 13 September of the year before. They put the meeting off to the first Monday after Epiphany 1777 and keep for the parties the final term for appearing before the commission on the ground of Łukomia. The act is done at their residences on 28 September 1776 <span class="cite">[<a href="{{ '/documents/app53150kaliszgr425/1/' | relative_url }}">1</a>]</span>.
@@ -37,7 +39,7 @@ The decree of the commission: <a href="{{ '/sources/app53170koningr145/' | relat
 
 ### Scans
 
-The folder has three photographs of the book, each showing two facing pages. Two were cut at the fold, and three of their four pages belong to the document. The third photograph has nothing that is transcribed and is not used.
+The folder has three photographs of the book, each showing two facing pages. Two were cut at the fold, and three of their four pages belong to the document. The third photograph has nothing that is transcribed and is not used. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

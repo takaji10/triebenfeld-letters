@@ -74,6 +74,32 @@ ground in the twelve other places, which were not each looked at).
 The English is the editor's own. FIXES are the places where it followed a
 reading that was corrected. "father" was the English of "Patrii": all
 fifteen are made "uncle" (english()).
+
+The full check (2026-10-07, at the editor's word, after they had read the
+record of the light one). The long Latin that the light check had left was
+read against the scans, enlarged, word for word: leaf 54 verso (document 2),
+leaves 55 and 55 verso (3), leaf 57 verso (4), leaf 58 (5), leaves 71 and
+71 verso (7), leaves 72 and 72 verso (8), leaves 78 and 78 verso (9). With
+the five pages of the light check that is every page of the long entries;
+the two register notes (10, 13) had been read as headings. Its record is
+full_check.json beside this file (courtbook.full_check): 159 corrections
+(ROWS, applied with --full after --correct) and 39 places where the English
+follows (FIXES, applied after the FIXES below). The rows there are written
+against the text as the light check left it.
+
+What it found, beyond single words:
+- The sign "p" with a stroke through its tail is "per", and the editor had
+  written "pro" for it throughout. With an accusative it is "by": the right
+  acquired "per Magnificum Chełmski", by Chełmski, not for him.
+- "jurto", "jurtum" is "juramento", "juramentum": the oath Chełmski swore
+  at the last mound in 1775 (leaves 57 verso and 58). The editor had
+  "jurisdictio" in four places and "oath" in two.
+- Three passages where a line or part of one was passed over: leaf 71 verso
+  twice, leaf 78 verso once. They are restored.
+- "Cassata Transfusione" on leaf 54 verso: the transfer of Tracholz's right
+  to Chełmski, which leaves 55 verso and 72 have in full.
+What is still marked as doubtful in the text was looked at and could not be
+read with confidence; nothing was completed by guess.
 """
 import glob
 import os
@@ -83,6 +109,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
 import courtbook  # noqa: E402
+
+FULL = courtbook.full_check(HERE)
 
 SLUG = 'app53170koningr117'
 REF = 'APP 53/17/0/-/Konin Gr.117'
@@ -337,7 +365,7 @@ def english():
     # "Patrui", read as "Patrii", had become "father" in the English: Paweł Prusimski is the uncle
     n = sum(x.count('father') for _, p in leaves for x in p)
     assert n == 15, n
-    L = courtbook.fix_english({l: [x.replace('father', 'uncle') for x in p] for l, p in leaves}, FIXES)
+    L = courtbook.fix_english({l: [x.replace('father', 'uncle') for x in p] for l, p in leaves}, FIXES + FULL['FIXES'])
     j = '\n\n'.join
     return {
         1: [j(L['35'])],
@@ -363,8 +391,8 @@ S = {
      "A protest of Antoni Prusimski, Starost of Niszczewice, entered at Konin in March 1778: a note with his signature and, on the facing leaf, the text from a prepared copy. It is directed against Stanisław Chełmski, heir of Łukom, and against the judges of the Kalisz land court. Chełmski, he says, has acquired from the townsman Jan Tracholz an unlawful claim arising from a contract for oak timber made in 1744 with Prusimski's late uncle Paweł Prusimski, and now pursues it against him. He lacks the papers he needs: they are with the heirs of his uncle's widow, and he has sued for them but not yet received them. The land court had earlier sent the cause with Tracholz to a sitting on the ground with those heirs; yet at Chełmski's instance a contrary decree was given, ordering a sitting on the ground of Trąbczyn. Prusimski declares that decree, given at Konin on 20 October of the year before, null, and protests against the transfer of the claim to Chełmski."),
  2: ('Bericht der Gerichtsboten Bartłomiej Szepczyński von Trąbczyn und Mateusz Matuszkiewicz von Szetlewek vom 30. März 1778. Sie haben zwei Ausfertigungen einer königlichen Ladung vor das Krontribunal in Petrikau zugestellt, ausgestellt in Petrikau am Samstag nach Reminiscere 1778. Geladen sind Stanisław Chełmski, Erbherr von Łukomia, und die Richter des Kalischer Landgerichts: der Richter Franciszek Wierusz Walknowski, der Unterrichter Stefan Zielonacki und der Notar Xawery Mikorski, auf Betreiben Prusimskis. Das Dekret des Landgerichts vom 20. Oktober des Vorjahres, das dem früheren widerspreche, soll aufgehoben und die Sache an das Tribunal verwiesen werden; Prusimski verlangt, von der Forderung befreit zu werden, die Chełmski von Jan Tracholz erworben hat. Eine Ausfertigung wurde in Konin im Haus des Bürgers Palszewicz hinterlegt, die andere im Gutshof von Łukom.',
      "A report of the court messengers Bartłomiej Szepczyński of Trąbczyn and Mateusz Matuszkiewicz of Szetlewek of 30 March 1778. They have served two copies of a royal citation before the Crown Tribunal at Piotrków, dated at Piotrków on the Saturday after Reminiscere Sunday 1778. Cited are Stanisław Chełmski, heir of Łukomia, and the officers of the Kalisz land court: the judge Franciszek Wierusz Walknowski, the sub-judge Stefan Zielonacki and the notary Xawery Mikorski, at Prusimski's instance. The land court's decree of 20 October of the year before, said to contradict its earlier one, is to be lifted and the cause sent to the Tribunal; Prusimski asks to be freed from the claim that Chełmski acquired from Jan Tracholz. One copy was left at Konin in the house of the townsman Palszewicz, the other at the manor of Łukom."),
- 4: ('Protest von Stanisław Ścibor Chełmski, Schatzmeister von Wschowa, Erbherr von Łukomia, Łomów, Imielno und Bukowo, eingetragen in Konin im April 1778 und von ihm unterschrieben. Er beruft sich auf das Felddekret, das die von seiner Seite beigezogenen Kommissare 1775 zwischen Łukom und Trąbczyn erlassen haben: gestützt auf Urkunden und namentlich auf die Besichtigung von 1592, am letzten Grenzhügel mit benachbarten Zeugen bekräftigt und rechtzeitig zu den Akten der eigenen Woiwodschaft eingereicht. Dagegen sei die Handlung, die die von Prusimski beigezogenen Kommissare später, nach der Grenzziehung und nach Errichtung der Hügel, privat und mit größter Gunst abgefasst hätten, unrechtmäßig. Prusimski habe sie weder zu den Akten der eigenen Woiwodschaft eingereicht noch ihre Auflagen befolgt und sie damit selbst als ungültig behandelt. Damit sein Schweigen nicht als Anerkennung gelte, erklärt Chełmski sie für ungültig und kündigt an, ihre Aufhebung zu betreiben.',
-     'A protest of Stanisław Ścibor Chełmski, Treasurer of Wschowa, heir of Łukomia, Łomów, Imielno and Bukowo, entered at Konin in April 1778 and signed by him. He relies on the field decree that the commissioners brought in on his side gave in 1775 between Łukom and Trąbczyn: resting on documents and in particular on the inspection of 1592, confirmed at the last boundary mound with neighbouring witnesses, and brought in good time to the records of its own province. Against it, he says, the act that the commissioners engaged by Prusimski drew up later, after the boundary had been drawn and the mounds raised, privately and with the greatest favour, is unlawful. Prusimski neither brought it to the records of his own province nor carried out what it prescribed, and so himself treated it as invalid. So that his silence should not pass for acceptance, Chełmski declares it invalid and announces that he will seek to have it quashed.'),
+ 4: ('Protest von Stanisław Ścibor Chełmski, Schatzmeister von Wschowa, Erbherr von Łukomia, Łomów, Imielno und Bukowo, eingetragen in Konin im April 1778 und von ihm unterschrieben. Er beruft sich auf das Felddekret, das die von seiner Seite beigezogenen Kommissare 1775 zwischen Łukom und Trąbczyn erlassen haben: gestützt auf Urkunden und namentlich auf die Besichtigung von 1592, am letzten Grenzhügel mit benachbarten Zeugen durch Eid bekräftigt und rechtzeitig zu den Akten der eigenen Woiwodschaft eingereicht. Dagegen sei die Handlung, die die von Prusimski beigezogenen Kommissare später, nach der Grenzziehung und nach Errichtung der Hügel, privat und mit größter Gunst abgefasst hätten, unrechtmäßig. Prusimski habe sie weder zu den Akten der eigenen Woiwodschaft eingereicht noch ihre Auflagen befolgt und sie damit selbst als ungültig behandelt. Damit sein Schweigen nicht als Anerkennung gelte, erklärt Chełmski sie für ungültig und kündigt an, ihre Aufhebung zu betreiben.',
+     'A protest of Stanisław Ścibor Chełmski, Treasurer of Wschowa, heir of Łukomia, Łomów, Imielno and Bukowo, entered at Konin in April 1778 and signed by him. He relies on the field decree that the commissioners brought in on his side gave in 1775 between Łukom and Trąbczyn: resting on documents and in particular on the inspection of 1592, confirmed by oath at the last boundary mound with neighbouring witnesses, and brought in good time to the records of its own province. Against it, he says, the act that the commissioners engaged by Prusimski drew up later, after the boundary had been drawn and the mounds raised, privately and with the greatest favour, is unlawful. Prusimski neither brought it to the records of his own province nor carried out what it prescribed, and so himself treated it as invalid. So that his silence should not pass for acceptance, Chełmski declares it invalid and announces that he will seek to have it quashed.'),
  5: ('Protest von Stanisław Ścibor Chełmski, Schatzmeister von Wschowa, eingetragen in Konin im April 1778 und von ihm unterschrieben; die Überschrift nennt als Gegner einen Sokołowski, den der Text nicht erwähnt. Chełmski nimmt seine früheren Proteste auf: Das Grenzdekret zwischen seinem Łukom und Prusimskis Trąbczyn sei durch die von seiner Seite beigezogenen Kommissare nach der Besichtigung von 1592 und nach zwei Tribunalsdekreten von 1766 und 1768 ergangen, und die Grenzhügel seien errichtet. Prusimskis Kommissare hätten davon gewusst und dennoch ihre Befugnis missbraucht: Sie hätten Albert Czarnecki, Grenzkämmerer von Kalisz, den Prusimski angenommen hatte, die Besichtigung des Grenzzugs, die Errichtung der Hügel und die Abnahme des Eides überlassen. Czarnecki habe das Dekret erst einige Wochen nach der Abreise der Kommissare schreiben lassen. Prusimski habe Eid gegen Eid angeboten und als Mitschwörer einen selbst geladenen Nachbarn, einen Mann aus Czarneckis Dienst, der nie in der Gegend gewesen sei, und andere unbedeutende Leute herangezogen. Chełmski beschuldigt Prusimski all dessen und bietet an, es durch Zeugenverhör zu beweisen.',
      "A protest of Stanisław Ścibor Chełmski, Treasurer of Wschowa, entered at Konin in April 1778 and signed by him; the heading names as his opponent one Sokołowski, whom the text does not mention. Chełmski takes up his earlier protests: the boundary decree between his Łukom and Prusimski's Trąbczyn was given by the commissioners brought in on his side, following the inspection of 1592 and two Tribunal decrees of 1766 and 1768, and the boundary mounds were raised. Prusimski's commissioners knew of this and nonetheless abused their power: they left to Albert Czarnecki, boundary chamberlain of Kalisz, whom Prusimski had engaged, the inspection of the boundary line, the raising of the mounds and the taking of the oath. Czarnecki had the decree written only some weeks after the commissioners had left. Prusimski offered oath against oath and took as fellow-swearers a neighbour who was himself cited, a man in Czarnecki's service who had never been in those parts, and other persons of no account. Chełmski accuses Prusimski of all this and offers to prove it by an inquiry of witnesses."),
  6: ('Bericht des Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, eingetragen in Konin im April 1778, für Antoni Prusimski von Kolno, Starost von Niszczewice. Mit zwei Adligen, Piotr Gostarski und Tomasz Jachimowicz, war er am Samstag, dem 21. Februar des laufenden Jahres, an der Grenze von Trąbczyn. Dort sah er, dass eine mehrere Jahrzehnte alte Kiefer auf dem Grenzhügel, der Trąbczyn von Biskupie scheidet, mit drei Kreuzen als Grenzzeichen versehen, gefällt und weggeschafft war, nach seiner Angabe bei Nacht durch Herrn Bogusławski, Erbherrn eines Teils von Kurów.',

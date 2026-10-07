@@ -39,7 +39,7 @@ Die 1782 bezeichnete Grenze: <a href="{{ '/de/quellen/app53170koningr153/' | rel
 
 ### Aufnahmen
 
-Der Ordner enthält vierzehn Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Sieben tragen einen transkribierten Eintrag; jede von ihnen wurde am Falz geschnitten, und acht Hälften sind ganz wiedergegeben. Sieben Fotografien zeigen Einträge, die der Herausgeber nicht transkribiert hat, und werden nicht verwendet.
+Der Ordner enthält vierzehn Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Sieben tragen einen transkribierten Eintrag; jede von ihnen wurde am Falz geschnitten, und acht Hälften sind ganz wiedergegeben. Sieben Fotografien zeigen Einträge, die der Herausgeber nicht transkribiert hat, und werden nicht verwendet. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
 
 ### Transkription
 
@@ -47,9 +47,9 @@ Der Herausgeber hat acht Einträge transkribiert und absatzweise geliefert, mit 
 
 ### Prüfung an den Aufnahmen
 
-Ein KI-Modell (Claude) las neben den Aufnahmen jede Überschrift und Datumszeile, vier Einträge ganz und drei weitere größtenteils, und korrigierte 48 Lesungen. Ein Eintrag und die erste Hälfte eines weiteren wurden nicht gelesen.
+Ein KI-Modell (Claude) las jeden Eintrag Wort für Wort neben den Aufnahmen und korrigierte 56 Lesungen: 48 in einem ersten Durchgang, der einen Eintrag und die erste Hälfte eines weiteren ungelesen ließ, und 8, als diese auf Wunsch des Herausgebers gelesen wurden.
 
-Den Sinn ändern: In der Nachsuche vom September 1784 war eine Zeile übergangen worden, und das Amt bescheinigt, dass der Bericht über die Ladung „nicht vorliegt“; in Chełmskis zweiter Ladung wurde eine Wendung wiederhergestellt, dass Łomowo „zum Hauptgut Łukom des Klägers gehört“; die Taten werden als auf „deinen“ Befehl geschehen vorgeworfen, den Prusimskis, nicht den seines Verwalters; die Ladung verlangt, „die Stellung der Leute anzuordnen und eine Untersuchung zu führen“, wo zwei Wörter ungelesen geblieben waren; und in seinem Protest bietet Prusimski an, „sich zu reinigen“, nicht Wiedergutmachung zu leisten. Jede Änderung ist mit ihrem Grund verzeichnet.
+Den Sinn ändern: In der Nachsuche vom September 1784 war eine Zeile übergangen worden, und das Amt bescheinigt, dass der Bericht über die Ladung „nicht vorliegt“; in Chełmskis zweiter Ladung wurde eine Wendung wiederhergestellt, dass Łomowo „zum Hauptgut Łukom des Klägers gehört“; die Taten werden als auf „deinen“ Befehl geschehen vorgeworfen, den Prusimskis, nicht den seines Verwalters; die Ladung verlangt, „die Stellung der Leute anzuordnen und eine Untersuchung zu führen“, wo zwei Wörter ungelesen geblieben waren; in seinem Protest bietet Prusimski an, „sich zu reinigen“, nicht Wiedergutmachung zu leisten; und im Bericht vom Mai 1783 war eine Zeile übergangen worden, die sagt, dass die Ladung im Vorwerk von Nowa Wieś hinterlegt wurde. Jede Änderung ist mit ihrem Grund verzeichnet.
 
 ### Abgrenzung und Datierung
 
@@ -57,7 +57,7 @@ Jeder Eintrag ist ein Dokument. Drei sind nach der Zeile „Actum in Conin“ un
 
 ### Übersetzung
 
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an zehn Stellen geändert, an denen der Text korrigiert worden war.
+Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an vierzehn Stellen geändert, an denen der Text korrigiert worden war.
 
 ### Zusammenfassungen
 

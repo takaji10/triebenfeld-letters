@@ -1,6 +1,6 @@
 ### Scans
 
-The folder has one photograph of the book, showing two facing pages. It was cut at the fold into two pages. Both are shown whole, though the entry and its date line are a small part of them.
+The folder has one photograph of the book, showing two facing pages. It was cut at the fold into two pages. Both are shown whole, though the entry and its date line are a small part of them. The photograph is from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

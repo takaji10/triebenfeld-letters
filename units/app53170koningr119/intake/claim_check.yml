@@ -3,14 +3,16 @@
 # checker: each statement held to the document, as supported, overstated or
 # unsupported, and the summary then only weakened or cut, never added to. Not
 # the paid run; there is no reading.json. The documents were read in the
-# Latin of corpus.txt as checked.
+# Latin of corpus.txt as checked. After the full check of the same day one
+# statement was added for document 6, from the line restored there (where
+# the citation was left); the others stand.
 #
-# Result: 27 statements, all supported. The months of documents 1, 2, 6 and 7
+# Result: 28 statements, all supported. The months of documents 1, 2, 6 and 7
 # are the edition's inference, stated as such in rulings.yml.
 
 app53170koningr119-001:
 - {claim: "Bericht des Gerichtsboten Stanisław Stachowski von Łukomia, eingetragen in Konin im März 1783", verdict: supported, where: "Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis; leaf 62 (rulings.yml)"}
-- {claim: "Er hat eine Ladung des großpolnischen Generalstarosten Kazimierz Raczyński vom 10. März 1783 vor das Burggericht Kalisz zugestellt: an Antoni Prusimski, Starost von Niszczewice und Erbherrn von Trąbczyn, und an dessen Verwalter Leon Maszewski, auf Betreiben von Stanisław Chełmski, Schatzmeister von Wschowa und Erbherr von Łukom, und dessen Verwalter Ignacy Jaroszewski", verdict: supported, where: "Casimirus Nałęcz in Raczyno ... Raczyński Majoris Poloniae Generalis ... Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski ... atque Generoso Leone Maszewski Bonorum Eorundem Economo ... Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi; Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio"}
+- {claim: "Er hat eine Ladung des großpolnischen Generalstarosten Kazimierz Raczyński vom 10. März 1783 vor das Burggericht Kalisz zugestellt: an Antoni Prusimski, Starost von Niszczewice und Erbherrn von Trąbczyn, und an dessen Verwalter Leon Maszewski, auf Betreiben von Stanisław Chełmski, Schatzmeister von Wschowa und Erbherr von Łukom, und dessen Verwalter Ignacy Jaroszewski", verdict: supported, where: "Casimirus Nałęcz in Raczyno ... Raczyński Majoris Poloniae Generalis ... Capitaneus Vobis Illustri Magnifico Antonio Prusimski ... atque Generoso Leone Maszewski Bonorum Eorundem Economo ... Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi; Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio"}
 - {claim: "Maszewski sei in den Kiefernwald eingefallen, den die Linie des nachkommissarischen Dekrets auf der Karte samt einem Olęder dem Gut Łukom belassen habe, und habe Chełmskis Leuten, die dort nur das nötige Holz holten, Ochsen, Wagen und Äxte abgenommen", verdict: supported, where: "Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale ... in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae ... Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~"}
 - {claim: "Genannte Leute aus Trąbczyn und Nowa Wieś werden mit der Ladung unter Arrest gestellt; auch Prusimski soll bestraft werden, falls die Gewalttaten auf seinen Befehl geschahen", verdict: supported, where: "cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae ... qui praesente Cittone~ apud Vos Arestantur ... distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae de mandato Tui executae esse apparuerint"}
 - {claim: "Der Bote hat die Ladung im Vorwerk von Nowa Wieś hinterlegt", verdict: supported, where: "In Bonis Nowawieś Praedioque Ibidem Sitto~ ... posuisse et notificatt~ reliquisse"}
@@ -40,6 +42,7 @@ app53170koningr119-005:
 app53170koningr119-006:
 - {claim: "Bericht des Gerichtsboten Stanisław Stachowski von Łukomia, eingetragen in Konin im Mai 1783", verdict: supported, where: "Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis; leaf 131 (rulings.yml)"}
 - {claim: "Er hat eine Ladung vor das Burggericht Kalisz zugestellt, die Stanisław Chełmski, Schatzmeister von Wschowa, und andere gegen Antoni Prusimski von Kolno, Starost von Niszczewice, und andere erwirkt haben", verdict: supported, where: "ex Parte et ad Instantiam Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ Aliorumque Actt~ In et contra Illustrem Magnificum Antonium In Kolno Prusimski Capitaneum Niesczevicen~ Aliosque Cittos~ ... posuisse et notificatt~ reliquisse"}
+- {claim: "Er hat sie im Vorwerk von Nowa Wieś hinterlegt", verdict: supported, where: "In Bonis Nowawieś Praedioque Ibidem Sito super Scrinio hippi praesen~ Matre familias"}
 
 app53170koningr119-007:
 - {claim: "Protest von Antoni Prusimski von Kolno, Starost von Niszczewice, gegen Stanisław Chełmski, Schatzmeister von Wschowa, eingetragen in Konin im Oktober 1783 und von ihm unterschrieben", verdict: supported, where: "Illustris Magnificus Antonius de Kolno Prusimski Capitaneus Nieszczevicen~ ... contra Magnificum Stanislaum Chełmski Thaesaurariam Vschoven~ ... infert~ querelam; Antoni Prusimski; leaf 304 verso (rulings.yml)"}

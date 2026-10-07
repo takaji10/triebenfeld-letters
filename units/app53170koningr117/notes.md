@@ -7,14 +7,20 @@ Prusimski-era batch. Status `translated`. Built and verified locally, **not
 published**.
 
 **Read the docstring of `intake/holding.py` first**: it has the table of
-which entry is on which leaf, scan and page, what was checked and what was
-not.
+which entry is on which leaf, scan and page, and the two passes of the check.
 
-- **Light check only.** Five of eighteen pages word for word, every heading
-  and date line, the judges' names. Documents 2, 3, 4, 5, 7, 8 and 9 (the
-  long Latin) are marked `rough` in `rulings.yml` and still carry about 190
-  marks of doubt. A full check is an afternoon's work per two pages; the
-  editor has not asked for it.
+- **Fully checked** (2026-10-07, at the editor's word, after a light check
+  the same day). 50 corrections in `holding.py` (ROWS), 159 more in
+  `intake/full_check.json`, applied with `--full`. Neither is to be applied
+  again. No document is marked `rough` any more; about 45 marks of doubt
+  remain, each looked at and not readable with confidence.
+- **"per", not "pro".** The clerk's "p" with a stroke through the tail is
+  "per". The editor wrote "pro" for it throughout; with an accusative it
+  means "by" (docs/WORKING_NOTES.md).
+- **"jurto" is "juramento"**: Chełmski's oath at the last mound in 1775
+  (documents 4 and 5), not "jurisdiction".
+- **Three passed-over lines restored**: leaf 71 verso (twice), leaf 78
+  verso.
 - **"Patrui", not "Patrii".** Paweł Prusimski is Antoni's paternal uncle
   ("sui Manifestantis Patruum", leaf 55), and "Relicta Patrui" is Katarzyna,
   born Rozdrażewska. The editor's text had "Patrii"/"Patris" sixteen times
@@ -40,9 +46,9 @@ not.
   his autograph "Antoni Prusimski Sta: Niesz..."); "Sokołowski" in the
   heading of document 5, who is not in its text; the name of the mound
   "[T?]urnata"; "Joachimenski[?]" / "Joachimczyki[?]" in document 11 (the
-  same man is Jachimowicz and Joachimowicz elsewhere); "In praepositurae
-  Trąmpczynen~" in document 8, which the English gives as "at the estate"
-  and which is the provost's house.
+  same man is Jachimowicz and Joachimowicz elsewhere); "Providens" for Szepczyński in document 8;
+  "Expedite", "officina Ibidem" in document 9; the expansions of the place
+  adjectives ("Calissiens[i?]").
 - Szepczyński, "Providus" and court messenger in his own reports, is
   "Laboriosus", a working man, in Nosalski's protest.
 - People: Katarzyna Prusimska's entry takes documents 7 and 8, Paweł
@@ -55,4 +61,4 @@ not.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 15 scan(s), 9 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The questions in `docs/PRUSIMSKI_QUESTIONS.md`, the full check among them.
+- Nothing else: the full check is done.

@@ -22,6 +22,13 @@ title_de: >-
 # gives it. Kept for reference; nothing displays it.
 archive_title: >-
   Relationes [protocollon] 1771
+# The fonds, with the archive's description of it, from the editor (2026-10-07):
+# 53/15, "Księgi sądu i urzędu grodzkiego w Kaliszu". Contents, as the
+# archive lists them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty,
+# regestry spraw, dissoluta, juramenta, pozwy, wyroki wg prawa
+# magdeburskiego, plenipotencje". The description of the court is given in
+# about.md under "Historical background".
+fonds: Księgi sądu i urzędu grodzkiego w Kaliszu
 date_span: 1771
 status: translated         # draft | transcribed | translated | published
 published_tag: ""

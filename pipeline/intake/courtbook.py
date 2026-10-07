@@ -29,6 +29,7 @@ looked at on a strip before it is written into the holding's script.
 import csv
 import hashlib
 import io
+import json
 import os
 
 OVERLAP = 30
@@ -369,6 +370,18 @@ def correct(unit_dir, slug, docs, rows, write, source='read on the scan'):
     return len(log)
 
 
+def full_check(here):
+    """The record of a holding's full check, intake/full_check.json: ROWS (as for correct), FIXES (as for
+    fix_english, applied after the holding's own FIXES) and DROP (more translator's notes to leave out). The rows
+    are written against the text as the first, light check left it. Kept as JSON because the rows are many and
+    quote Latin, Polish and English with every kind of quotation mark."""
+    path = os.path.join(here, 'full_check.json')
+    if not os.path.exists(path):
+        return {'ROWS': [], 'FIXES': [], 'DROP': []}
+    d = json.load(io.open(path, encoding='utf-8'))
+    return {'ROWS': [tuple(r) for r in d['ROWS']], 'FIXES': [tuple(r) for r in d['FIXES']], 'DROP': list(d['DROP'])}
+
+
 def write_pages(unit_dir, docs, pages):
     """docs: [(document number, [page ids])]; pages: {page id: [lines]} or {(document number, page id): [lines]}."""
     parts = {}
@@ -487,6 +500,7 @@ def holding_main(g):
         ... --sheet       the fold page for the editor
         ... --write       page files and corpus.txt from the editor's text (once)
         ... --correct     apply ROWS, the readings corrected against the scans (once)
+        ... --full        apply the rows of intake/full_check.json, a later full check (once, after --correct)
         ... --english     write translation/doc<N>.yml from english()
         ... --cache       put them into the translation cache
         ... --summaries   write the summaries S everywhere they are kept
@@ -516,6 +530,8 @@ def holding_main(g):
     if '--correct' in arg or (not arg and os.path.exists(os.path.join(unit_dir, 'corpus.txt'))
                               and io.open(os.path.join(unit_dir, 'corpus.txt'), encoding='utf-8').read().strip()):
         correct(unit_dir, g['SLUG'], g['DOCS'], g.get('ROWS', []), '--correct' in arg)
+    if '--full' in arg:
+        correct(unit_dir, g['SLUG'], g['DOCS'], full_check(here)['ROWS'], True, source='read on the scan, full check')
     if '--english' in arg:
         tdir = os.path.join(here, 'translation')
         os.makedirs(tdir, exist_ok=True)

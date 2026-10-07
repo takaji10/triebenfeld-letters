@@ -114,8 +114,8 @@ pages:
 damage:
   letters: []
 
-# The long Latin entries are a first reading of a heavily abbreviated hand
-# and still carry many words in doubt; they had only the light check
-# (intake/holding.py). The reader is told so on the document's page.
+# No document is marked as a rough reading: the long Latin entries, which
+# were (2, 3, 4, 5, 7, 8, 9), had the full check on 2026-10-07
+# (intake/holding.py, intake/full_check.json).
 rough:
-  letters: ["2", "3", "4", "5", "7", "8", "9"]
+  letters: []

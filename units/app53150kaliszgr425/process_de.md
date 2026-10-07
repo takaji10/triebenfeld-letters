@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Der Ordner enthält drei Fotografien des Buchs, jede mit zwei gegenüberliegenden Seiten. Zwei wurden am Falz geschnitten, und drei ihrer vier Seiten gehören zum Dokument. Die dritte Fotografie trägt nichts, was transkribiert ist, und wird nicht verwendet.
+Der Ordner enthält drei Fotografien des Buchs, jede mit zwei gegenüberliegenden Seiten. Zwei wurden am Falz geschnitten, und drei ihrer vier Seiten gehören zum Dokument. Die dritte Fotografie trägt nichts, was transkribiert ist, und wird nicht verwendet. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
 
 ### Transkription
 

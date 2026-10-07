@@ -7,10 +7,21 @@ Latin, three in Polish. Added on 2026-10-07 in the fifth Prusimski-era
 batch. Status `translated`. Built and verified locally, **not published**.
 
 **Read the docstring of `intake/holding.py` first**: it has the table of
-which entry is on which leaf and scan, what was checked and what was not.
+which entry is on which leaf and scan, and the two passes of the check.
 
-- **Light check only.** Documents 13, 14, 17, 19 and 23 are marked `rough`
-  in `rulings.yml`; the Polish of 27 was not read through either.
+- **Fully checked** (2026-10-07, at the editor's word, after a light check
+  the same day). 42 corrections in `holding.py` (ROWS), 133 more in
+  `intake/full_check.json`, applied with `--full`. Neither is to be applied
+  again. No document is marked `rough` any more; 19 marks of doubt remain.
+- **Five passed-over passages restored**: three lines in document 13, one
+  line in document 10, some words in document 17.
+- **Document 14** is addressed to Prusimski and to the Bogdańskis: Teresa,
+  born Rozdrażewska, is the successor of her late sisters Katarzyna
+  Prusimska (heiress of Grab) and Molska, castellan's wife of Rogoźno.
+  "Illustris Magnifice Prusimski" is the vocative: there is no "Magnifica
+  Prusimska" in it. Its citation is dated 26 November 1781 and was served
+  on 7 December 1781, yet the entry stands among those of spring 1782 and
+  names 3 June 1782: the date in `rulings.yml` (1782, inferred) is left.
 - **Leaf numbers** are the later ones in the margins; the struck-through
   numbers at the head of the pages are an older count. The right-hand leaf
   of each scan is in `SCANS`.
@@ -34,8 +45,9 @@ which entry is on which leaf and scan, what was checked and what was not.
 - **"anteacti ... Praesentanei"** (document 6): the former and the present
   heir of Biskupice. The editor's English had "formerly Starost".
 - **Left as the editor has them:** "Loci busto" (document 18; the English
-  has "at the mound"); "pro quo pa[c?]em Cavet" (13); the many doubts of
-  the long entries.
+  has "at the mound"); "pro quo pa[c?]em Cavet" (13); in document 27 the
+  name before "Szkudlarka", "z Torami", and the words lost at the edge of
+  leaf 673 verso; "ac [A?] cum Haerede" (10).
 - Not indexed as people: Zielonacki, Górski, Gosławski, Malechowski,
   Lubstowski, the Zakrzewskis and the other heirs, Maszewski, the
   messengers Głabik, Wrzask and Matuszkiewicz.
@@ -45,4 +57,4 @@ which entry is on which leaf and scan, what was checked and what was not.
 - Publishing, at the editor's word. (The folds are the editor's: reviewed on
   the fold page on 2026-10-07, 32 scan(s), 21 of them turned; saved in
   `intake/folds.json` and the pages cut again from it.)
-- The questions in `docs/PRUSIMSKI_QUESTIONS.md`, the full check among them.
+- Nothing else: the full check is done.

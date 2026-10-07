@@ -41,6 +41,12 @@ repository: app-poznan
 # the edition (intake/holding.py). The editor approves or moves the folds on
 # review/app53170koningr117/folds/ before the holding is published.
 
+# Where the images come from. The photographs are from Skanoteka, the scanning project
+# of the Polish genealogical society (https://skanoteka.genealodzy.pl/), and
+# carry its watermark "SKANOTEKA.GENEALODZY.PL" across the middle (the
+# editor, 2026-10-07). The holding's page says so under "Scans".
+scan_source: Skanoteka (https://skanoteka.genealodzy.pl/)
+
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.
 scans:

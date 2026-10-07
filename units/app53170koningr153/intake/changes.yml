@@ -1,7 +1,9 @@
 # What the check of APP 53/17/0/-/Konin Gr.153 against the scans changes for
 # anyone who has written about these acts from the earlier text. Read by
-# pipeline/review/changes_page.py. The check was a light one: eight of
-# twenty-six pages word for word and parts of seven more.
+# pipeline/review/changes_page.py. The first check was a light one: eight of
+# twenty-six pages word for word and parts of seven more. The editor read
+# that record on 2026-10-07 and asked for the full check; what it added is
+# marked `new:` (the entries from "Who pays whom" on).
 # importance: significant | fact | wording.
 
 unit: "APP 53/17/0/-/Konin Gr.153: the boundary decree of 1782 and the delivery of Martin Hunt"
@@ -29,7 +31,7 @@ changes:
   english_was: "at a calculated reckoning, in a separately described act ... from this act, by personal presence; and left the said Freeborn Martin Hunt in peaceful possession, no one challenging, under no process having been declared ... in obedience to him ... General Commissioner Official"
   english_now: "at a calculated reckoning ... who was present in person at this act; and left him in peaceful possession, no one challenging, obedience to the Most Honourable Prusimski ... having been enjoined on the said Freeborn Martin Hunt ... General Commissioner ..., by his own hand"
 - importance: fact
-  what: "The boundary chamberlain of Inowrocław is Gorski (so on leaf 1391 verso; he signs \"Jacobus Pomian Gorski\" in Konin Gr.118), not Gerski; his proxy is Ujazdowski, not Ijazdowski. Before the Tribunal only Chełmski appeared in person: \"citatum et actorem personaliter\" is his, in the singular. Prusimski is \"actorem et c[itatum]\", where you had a gap."
+  what: "The boundary chamberlain of Inowrocław is Górski, not Gerski: the scan has \"Gorski\" on leaf 1391 verso, and he signs \"Jacobus Pomian Gorski\" in Konin Gr.118. The transcription keeps \"Gorski\" as written and the English has Górski, as you settled on 2026-10-07; his proxy is Ujazdowski, not Ijazdowski. Before the Tribunal only Chełmski appeared in person: \"citatum et actorem personaliter\" is his, in the singular. Prusimski is \"actorem et c[itatum]\", where you had a gap."
   was: "Equitem actorem, __ per Magnificum Mathiam Rudnicki, Magnificum Stanislaum Chełmski Thesaurarium Vschovensem citatos et actores personaliter Generosum Jacobum Gerski ... per Generosum Ignatium Ijazdowski"
   now: "Equitem actorem et c[itatum] per Magnificum Mathiam Rudnicki, Magnificum Stanislaum Chełmski Thesaurarium Vschovensem citatum et actorem personaliter Generosum Jacobum Gorski ... per Generosum Ignatium Ujazdowski"
 - importance: fact
@@ -64,11 +66,102 @@ changes:
   what: "Seventeen of your forty-two translator's notes are left out of the edition because the reading they discuss is corrected (notes 3, 5, 7, 8, 15, 30 to 35, 38, 39, 41, 42), or because they are about your own working (40), or about the name Tesselin, which Konin Gr.118 confirms (28)."
   was: "(42 notes)"
   now: "(25 notes kept)"
-- importance: fact
-  what: "Not checked. Leaves 1392 to 1399, most of the Tribunal's decree, were not read against the scans beyond the passages named in the holding's script."
-  was: "(first reading)"
-  now: "(first reading)"
 - importance: wording
   what: "Smaller readings: \"subalterno\"; \"ad actum praesentem congregatis\"; \"judicium praesens ordinarium generale\"; \"notarius Terrestris\"; no \"decreti\" in \"Judicium officii campestris camerarialis\"; \"decretoque\"; \"sequentem\"; \"ubi ob advesperascentem diem actum suum\"; \"imponi consueta\"; \"nemine contradicente\"; \"Franciscus Xaverius\" in Jasiński's signature; \"iisdem insutum\"; \"Generosis\"; \"actum praesentem\"; \"granicialem\"; \"conducendo\"."
+  was: "see the list"
+  now: "see the list"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Leaf 1399"
+  what: "Who pays whom. Orłowski, the boundary chamberlain of Dobrzyń whom Chełmski had engaged, is sentenced to pay Prusimski. Your English had Prusimski paying: \"the Most Honourable Prusimski or his plenipotentiary shall pay a double principal surety bond\". The scan has the dative, \"Illri Mgfco Prusimski seu ejus plenipotentiario\": to Prusimski or his plenipotentiary. And what Orłowski is punished for is raising \"a certain doubt\" (\"cujusdam\") about the Tribunal's line."
+  was: "pro dubietatis cuius porrectione, Illustrissimus Magnificus Prusimski seu ejus plenipotentiario ... enumeret, sui itidem eundem"
+  now: "pro dubietatis cujusdam porrectione, Illustri Magnifico Prusimski seu ejus plenipotentiario ... enumeret, seu itidem eundem"
+  english_was: "and for the extension of doubt as to the line placed by the Tribunal decree: the Most Honourable Prusimski or his plenipotentiary shall pay a double principal surety bond, and to the court a single [surety bond] ... and likewise the Right Honourable Chełmski shall stand surety"
+  english_now: "and for raising a certain doubt as to the line placed by the Tribunal decree: shall pay to the Most Honourable Prusimski or his plenipotentiary ... a double principal surety bond, and to the court a single one ... or likewise the Right Honourable Chełmski shall stand surety"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Leaves 1392 to 1398 verso"
+  what: "The two officers who failed to carry out the first decree are boundary CHAMBERLAINS, and the two field offices that sat on 27 May 1782 are the chamberlains' offices. The scan has \"Cmrium\", \"Cmrlia\", \"Cmrle\" with a mark (Camerarium, camerarialia, camerariale) in the nine places where your text had \"Commissarium\", \"commissorialia\", \"comitialia\", \"comitale\" or \"cmle\". So Górski of Inowrocław and Orławski of Dobrzyń hold the same office as Jasiński of Gniezno, who carries the decree out in the end; none of them is a commissioner. In your English \"Boundary Commissioner\" and \"commissarial office\" become \"Boundary Surveyor\" and \"Boundary Surveyor's office\", your own word for Jasiński's office."
+  was: "Orławski Commissarium Granicialem ... Gorski Comissarium Granicialem ... per officii condescensorialia commissaria ... per officiorum cmle Dobrinensis ... officia commissorialia campestria ... officium comitiale Dobrinensis ... per officia comitalia campestria"
+  now: "Orławski Camerarium Granicialem ... Gorski Camerarium Granicialem ... per officia condescensorialia camerarial[ia] ... per officium camerariale Dobrinensis ... officia camerarialia campestria ... officium camerariale Dobrinensis ... per officia camerarialia campestria"
+  english_was: "Jan Orławski, Boundary Commissioner of the Dobrzyń Land ... Jakub Gorski, Boundary Commissioner of Inowrocław ... the field inspection commissioner offices of Inowrocław and Dobrzyń ... the Dobrzyń commissarial office"
+  english_now: "Jan Orławski, Boundary Surveyor of the Dobrzyń Land ... Jakub Górski, Boundary Surveyor of Inowrocław ... the Boundary Surveyors' field inspection offices of Inowrocław and Dobrzyń ... the Dobrzyń Boundary Surveyor's office"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Leaf 1397"
+  what: "Words were passed over in the Tribunal's ruling on Martin Hunt, between two occurrences of \"Chełmski\". The Tribunal says that Hunt does not sit to the right of its line \"and cannot belong to the Right Honourable Chełmski; yet the Right Honourable Chełmski has possessed that same settler until now\". Your text ran the two together. The act for Hunt on leaf 1404 quotes the sentence whole, and your text has it there."
+  was: "et ad Magnificum Chełmski eundem Hollandum ad usque possedisse"
+  now: "et ad Magnificum Chełmski spectare posse. Jam verò Magnificum Chełmski eundem Hollandum adusque possedisse"
+  english_was: "determined by the Tribunal court, and the Right Honourable Chełmski has continued to possess that same olęder until now"
+  english_now: "determined by the Tribunal court, and cannot belong to the Right Honourable Chełmski, yet that the Right Honourable Chełmski has possessed that same olęder until now"
+- importance: significant
+  new: "full check, 2026-10-07"
+  where: "Leaves 1392 verso and 1393"
+  what: "The opening of the Tribunal's account sets out the pleadings of the two parties, each in the genitive after \"in controversiis partium\" (\"in the controversies of the parties\"; your text had \"parte\"). It is Prusimski's pleading, not a finding of the court, that he stands by the decree of 23 January, and that a judicial inspection of 23 February, entered at Konin on 10 June \"of the present year\" (1782; your \"previous year\"), shows that the burnt settler's ground is \"on the side of Chełmski\" (\"in parte Magnifici Chełmski esse\") and that the map, as to the line, \"is verified\". Your English had the inspection \"having gone in favour of\" Chełmski and the map \"to be verified, it being discordant\"."
+  was: "controversiis parte ut pote Illustrissimus Magnificus Prusimski Capitaneus Niszczeviensis ... anno praeveniente relata, in parte Magnifici Chełmski isse determinantis ... per decretum ad super appositam actibusque praemissis discordantibusque deducentibusque verificari"
+  now: "controversiis partium utpote Illustris Magnifici Prusimski Capitanei Niszczeviensis ... anno praesenti relata, in parte Magnifici Chełmski esse determinantis ... per decretum de super appositam actibus praemissis discordantibus deducentibus verificari"
+  english_was: "In the settling of the controversies, the Most Honourable Prusimski ... determining nevertheless the existence of this olęder or his estate through the burning thereof ... recorded in the Konin court records on 10 June of the previous year — [that inspection] having gone in favour of the Right Honourable Chełmski; and explaining that the map ... should be verified, it being discordant with the aforementioned acts"
+  english_now: "In the settling of the controversies of the parties: namely of the Most Honourable Prusimski ... who stands by the decree ... establishing nevertheless, by a judicial inspection ... recorded in the Konin court records on 10 June of the present year, that the existence of this olęder, or his ground by the burning of the same, is on the side of the Right Honourable Chełmski; and explaining that the map ... is verified, as the aforementioned discordant acts show"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaf 1394 verso"
+  what: "How the settlers came back to Prusimski in March 1782. The first decree had ordered a separate sitting on the ground (\"distinctam condescensionem\") by the office of the castle court of Gniezno, for the settlers \"whom Chełmski had occupied beforehand by way of a delivery of possession\" (\"modo traditorio praeoccupatorum\"); and Hunt was left to Chełmski \"by the resolution\" of that court (your \"revolutionem\", translated \"reversal\"). The day is the 6th: the figure is plain, and the Wednesday after Oculi Sunday 1782 was 6 March."
+  was: "Hollandorum per Magnificum Chełmski modo traditione preoccupationem distinctam cond[itional]um officii ... acsi per revolutionem judicii ... nempe die 6[?] mensis"
+  now: "Hollandorum per Magnificum Chełmski modo traditorio praeoccupatorum distinctam condescensionem officii ... acsi per resolutionem judicii ... nempe die 6[ta] mensis"
+  english_was: "for the recovery of possession of the olędry previously handed over by the Right Honourable Chełmski, a distinct [procedure] of the field inspection offices of the notarial office of the Gniezno Municipal Court had been devised ... by a reversal of that prior court"
+  english_now: "for the recovery of possession of the olędry whom the Right Honourable Chełmski had occupied beforehand by way of a delivery of possession, a separate field inspection by the office of the Gniezno Municipal Court had been adjudged ... by the resolution of that prior court"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaves 1395 verso and 1396"
+  what: "The Tribunal's reasoning about the burnt holding. The settler is \"Hollandus Joannes\", the settler Jan (your \"Joannis\", translated \"the olęder of Jan\"). \"Although\" Chełmski, \"heir\" of Łukom, shelters behind the first decree, which seems to leave the settler \"to him\", a surveyor draws only \"the boundary lines of the parties\" (\"ductus partium\"; your \"praesentium\" three times) and marks houses \"geographice tantum\", by position only. The first decree had assumed that the settler would \"fall to the estate of Łukom\" by the line; in fact he \"is not found\" on that side (\"non reperitur\"; your \"nam reperitur\")."
+  was: "Hollandus Joannis tempore ... quocirca quam v[erò] magnificus Chełmski ... cum attinentibus haereditates ... sese tutand[ae?] ... ipse relinqui ... solummodo ductum praesentium ... geographicae tantum ad notari ... Hollandus haereditatis bonorum Łukom ... in vim calculi quarto et praecidente actum ... in fundo nam reperitur"
+  now: "Hollandus Joannes tempore ... quocirca quamv[is] magnificus Chełmski ... cum attinentibus haeres ... sese tutan[do] ... ipsi relinqui ... solummodo ductus partium ... geographice tantum adnotari ... Hollandus haereditati bonorum Łukom ... in vim calculi quanto et praecedente actum ... in fundo non reperitur"
+  english_was: "the place where the olęder of Jan had been ... the Right Honourable Chełmski, protecting the estates of Łukom with appurtenances under the above-mentioned decree of his prior court ... seemed itself to have been ordered to be left ... that the same olęder of the estates of Łukom would yield to the line ... having constituted a calculation by the fourth act preceding the field act"
+  english_now: "the place where the olęder Jan had been ... although the Right Honourable Chełmski, heir of the estates of Łukom with appurtenances, protecting himself by the above-mentioned decree of the prior court ... seems to have been ordered to be left to him ... that the same olęder would fall to the estate of Łukom by the line ... an amount having been fixed by way of reckoning and a term for the recovery of possession of the olędry prefixed before the field act"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaf 1398 verso"
+  what: "Górski's punishment. He is to present himself at the tower of Radziejów castle on the Monday after Invocavit Sunday of the coming year (\"post Dominicam Invocavit\"; your \"post decretam invocavit\"), having been \"found punishable\" (\"punibili\"), and to \"continue and complete\" his week there \"without a break\" (\"sine intermissione continuet et expleat\"). Prusimski may pay the bonds for him, \"as his officer\" (\"qua sui officialem\"; your \"officium\")."
+  was: "idcirco paenibili adinvento ... post decretam invocavit ... sine immisione continuet et explicat ... qua sui officium in solutione"
+  now: "idcirco punibili adinvento ... post Dominicam Invocavit ... sine intermissione continuet et expleat ... qua sui officialem in solutione"
+  english_was: "on and for the Monday after the decree of the Sunday Invocavit of the coming year ... and shall continue his tower session without interruption for the space of one week"
+  english_now: "on and for the Monday after Invocavit Sunday of the coming year ... and shall continue and complete his session there, without interruption, for the space of one week"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaves 1392 to 1393 verso and 1399"
+  what: "The convent of Ląd. The second citation was issued \"at the castle of Radziejów\" (\"in Castro Radziejoviensi\"), not in a court of that name; Prusimski cites the abbot \"and the whole convent\" (\"totumque Conventum\"; your \"continuum\"); Prusimski's claim against the convent is \"on account of the manifest lodged against the decree\" (\"contra\"; your \"cen\", which you left unread in the English); and Ignacy Gzowski withdrew the manifest \"in the name of\" the convent (\"nomine\"), where your text made him its \"tutor\", translated \"guardian\"."
+  was: "in Castrensis Radziejoviensis omnes ... totumque continuum cassatis ... ex re illata cen toties ... Gzowski tutorem ejusdem conventus"
+  now: "in Castro Radziejoviensi omnes ... totumque Conventum cassatis ... ex re illatae contra toties ... Gzowski nomine ejusdem conventus"
+  english_was: "in the Radziejów Municipal Court ... arising from the matter — [cen] of the said decree as a manifest lodged ... by the Honourable Ignacy Gzowski, guardian of the same convent"
+  english_now: "at the castle of Radziejów ... on account of the manifest lodged against the said decree ... by the Honourable Ignacy Gzowski in the name of the same convent"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaf 1393 verso"
+  what: "The document Prusimski had laid before the field offices was noted in their decrees but, \"as the searches attest\", is not in the records (\"attestantibus requisitionibus non existentis\"). Your English had it \"noted in those same records and in the witness documents\"."
+  was: "pro Illustrissimum Magnificum Prusimski repositae connotatae in actis verò iisdem attestantibusque requisitionibusque non"
+  now: "per Illustrem Magnificum Prusimski repositae et connotatae in actis verò iisdem attestantibus requisitionibus non"
+  english_was: "placed there on behalf of the Most Honourable Prusimski, noted in those same records and in the witness documents, but not in existence"
+  english_now: "laid down by the Most Honourable Prusimski at the field decrees and noted in them, but not existing in those same records, as the searches attest"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Leaf 1397"
+  what: "The Tribunal's order stands \"no regard being had to an opposition of citations or an appeal\": the word you left as \"trnm\" is \"terminorum\", citations."
+  was: "oppositioneque trnm vel appelatione"
+  now: "oppositioneque terminorum vel appellatione"
+  english_was: "notwithstanding any party's default, withdrawal, opposition of [trnm] or appeal, not attended to"
+  english_now: "notwithstanding any party's default or withdrawal, and no regard being had to an opposition of citations or an appeal"
+- importance: fact
+  new: "full check, 2026-10-07"
+  what: "The whole holding is now read against the scans (the full check you asked for): 106 more corrections on leaves 1391 verso to 1400 verso, 33 more places in the English, and twelve more of your translator's notes left out because the reading they discuss is corrected (notes 11, 13, 14, 17 to 24 and 27). Thirteen of your forty-two notes are kept. The entry further down that says leaves 1392 to 1399 were not checked no longer holds."
+  was: "(light check: 67 corrections, 25 notes kept)"
+  now: "(full check: 173 corrections, 13 notes kept)"
+- importance: wording
+  new: "full check, 2026-10-07"
+  what: "One sign misread throughout. After a \"b\" the clerk's hook means \"-us\"; your text wrote it out as \"-busque\" in about twenty places (\"partibusque\", \"à statibusque regni\", \"ductibusque\", \"actibusque\", \"quatenusque\", \"Nihilominusque\"). They are now \"partibus\", \"à statibus regni\", \"ductibus\", \"actibus\", \"quatenus\", \"Nihilominus\". The sense is the same; an \"and\" falls away here and there."
+  was: "ab altera partibusque longo ... à statibusque regni ... in ductibusque reperibilia ... patet ex actibusque officiorum"
+  now: "ab altera partibus longo ... à statibus regni ... in ductibus reperibilia ... patet ex actibus officiorum"
+- importance: wording
+  new: "full check, 2026-10-07"
+  what: "Smaller readings of the full check: \"tantisper\"; \"pro obsignatione\"; \"inter bona Łukom et Trąmpczyn\" (twice); \"vimque im[mo]vibilitatis\"; \"haereditatum\"; \"in mappa [ap]positam\"; \"fa[ctam]\"; \"duos nobiles\"; \"E converso\"; \"adjudicatum\"; \"explica[ntis]\"; \"deductum est\"; \"immovibile ... comparitionem\"; \"Mareschalci\"; \"eisdemque\"; \"juxta lineam in mappa positam\" (your \"terram\"); \"Iunivladislaviense\"; \"ad causam praesentem\"; \"angularitatem et acialitatem\"; \"adinvenit\"; \"adsit\"; \"decreti tribunalitii\"; \"deoccupatorio\"; \"per partem compensanda\"; \"anteacti judicii\"; \"eidem decreto\" (twice); \"coram eisdem actis\"; \"altius factam\"; \"officiorum\"; \"vadiorum\"; \"causae praesentis\"; \"super venerabili conventu\"; \"ministeriali\"; \"Judicium officii praesentis campestris\"; \"judicium officii praesens intimat\"; \"Illustris\" for \"Illustrissimus\" where a row touched it."
   was: "see the list"
   now: "see the list"

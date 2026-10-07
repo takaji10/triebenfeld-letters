@@ -35,7 +35,7 @@ Der Prozess um die Forderung Tracholz: <a href="{{ '/de/quellen/app53170koningr1
 
 ### Aufnahmen
 
-Der Ordner enthält zwei Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten; drei der vier Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben.
+Der Ordner enthält zwei Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten; drei der vier Hälften tragen einen transkribierten Eintrag und sind ganz wiedergegeben. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
 
 ### Transkription
 

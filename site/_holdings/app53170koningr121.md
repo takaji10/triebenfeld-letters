@@ -33,7 +33,7 @@ The boundary as marked in 1782: <a href="{{ '/sources/app53170koningr153/' | rel
 
 ### Scans
 
-The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; the two halves that carry the entry are shown whole.
+The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; the two halves that carry the entry are shown whole. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

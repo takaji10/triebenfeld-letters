@@ -1,0 +1,75 @@
+{
+ "ROWS": [
+  [
+   "0062_a2",
+   "Capitaneus [V?]obis Illustri",
+   "Capitaneus Vobis Illustri",
+   "the scan has \"Vobis\""
+  ],
+  [
+   "0062_a2",
+   "Sancti Stanislai Equitis Bonorum",
+   "Sancti Stanislai Equiti Bonorum",
+   "the scan has \"Equiti\": the dative, with \"Antonio\""
+  ],
+  [
+   "0062_a2",
+   "Eo [per/pro?]tinen~ haeredi",
+   "Eo pertinen~ haeredi",
+   "the scan has the sign for \"per\""
+  ],
+  [
+   "0062_a2",
+   "In Judiciis Nostri Castrensia Calissien~ propriis et proximis",
+   "In Judiciis Nostris Castren~ Calissien~ primis et proximis",
+   "the scan has \"Nostris Castren Calissien primis et proximis\": the first and next sessions, the usual words"
+  ],
+  [
+   "0062_a2",
+   "Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant",
+   "Vos Inhaerendo Documentis Suis, tum Manifestat~ factae sive faciendae Citant",
+   "the scan has \"Inhaerendo\", \"tum\" and \"facien\" with a mark"
+  ],
+  [
+   "0062_a2",
+   "Decreti Tribunalii pactae Erectionis",
+   "Decreti Tribunalii peractae Erectionis",
+   "the scan has \"pactae\" with the sign for \"per\": peractae, the raising of the mounds that was carried out"
+  ],
+  [
+   "0131_a2",
+   "Calissien~ per in Castro",
+   "Calissien~ proxime in Castro",
+   "the scan has \"pxe\" with a mark: proxime, next"
+  ],
+  [
+   "0131_a2",
+   "porrigenda Similem editt~ praesen~ Matre familias",
+   "porrigendae Similem editt~ In Bonis Nowawieś Praedioque Ibidem Sito super Scrinio hippi praesen~ Matre familias",
+   "a line was passed over: the scan has \"porrigendae Similem / editt In Bonis Nowawieś Praedioq Ibid Sitto super Scrinio / hippi pnte Matre familias\": where the citation was left"
+  ]
+ ],
+ "FIXES": [
+  [
+   "existing pursuant to the agreed erection of boundary stakes per the Tribunal decree; of the wagons and axes",
+   "of the erection of the boundary mounds carried out under the Tribunal decree; of the oxen, wagons and axes",
+   "\"ex mente Decreti Tribunalii peractae Erectionis Scopulorum\"; \"Boum Currus et Securium\""
+  ],
+  [
+   "together with its pastures, with Thomas Fryzyer",
+   "together with the working men Thomas Fryzyer",
+   "\"cum Laboriosis Thoma Fryzyer\": the working men who are to be punished with him"
+  ],
+  [
+   "who are arrested in your presence upon the serving of this citation",
+   "who by the present citation are arrested in your keeping",
+   "\"qui praesente Citatione apud Vos Arestantur\""
+  ],
+  [
+   "similarly issued, with the lady of the household present,",
+   "similarly issued — at the estate of Nowa Wieś, in the manor farm there, on the chest in the heated room, with the lady of the household present,",
+   "the line restored: \"In Bonis Nowawieś Praedioque Ibidem Sito super Scrinio hippi\""
+  ]
+ ],
+ "DROP": []
+}

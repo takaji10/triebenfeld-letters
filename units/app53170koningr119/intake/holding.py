@@ -40,6 +40,17 @@ transcription had passed over in document 2 is restored.
 
 The English is the editor's own. FIXES are the places where it followed a
 reading that was corrected.
+
+The full check (2026-10-07, at the editor's word, after they had read the
+record of the first one). The two parts the first check had left were read
+against the scans, enlarged, word for word: the first half of document 1
+(leaf 62) and document 6 (leaf 131). Every entry of the holding is now read.
+Its record is full_check.json beside this file (courtbook.full_check): 8
+corrections (ROWS, applied with --full after --correct) and 4 places where
+the English follows (FIXES, applied after the FIXES below). In document 6 a
+line had been passed over: the citation was left "In Bonis Nowawieś
+Praedioque Ibidem Sito super Scrinio hippi". The summary of document 6 says
+so now (S).
 """
 import glob
 import os
@@ -49,6 +60,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
 import courtbook  # noqa: E402
+
+FULL = courtbook.full_check(HERE)
 
 SLUG = 'app53170koningr119'
 REF = 'APP 53/17/0/-/Konin Gr.119'
@@ -203,7 +216,7 @@ def english():
     leaves = courtbook.read_english(f[0])
     assert [(l, len(p)) for l, p in leaves] == [('62', 3), ('62v', 3), ('62v', 3), ('63', 3), ('73', 5), ('73', 2), ('128', 6),
                                                ('131', 2), ('304v', 4), ('685', 5)], [(l, len(p)) for l, p in leaves]
-    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES)
+    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES + FULL['FIXES'])
     j = '\n\n'.join
     return {1: [j(E[0]), j(E[1])], 2: [j(E[2]), j(E[3])], 3: [j(E[4])], 4: [j(E[5])], 5: [j(E[6])], 6: [j(E[7])],
             7: [j(E[8])], 8: [j(E[9])]}
@@ -220,8 +233,8 @@ S = {
      'A report of the court messenger Bartłomiej Szepczyński of Trąbczyn of 18 March 1783. He has served a citation before the castle court of Kalisz that Antoni Prusimski of Kolno, Starost of Niszczewice, with Leon Maszewski, Franciszek Liberacki and others, obtained against Stanisław Chełmski, Treasurer of Wschowa, and others. He left it the day before at the manor of Łukom in the presence of the man cited.'),
  5: ('Bericht des Gerichtsboten Bartłomiej Szepczyński von Trąbczyn vom 22. Mai 1783. Er hat Stanisław Chełmski, Schatzmeister von Wschowa, eine Ladung des Generalstarosten Kazimierz Raczyński vom 15. Mai 1783 vor das Burggericht Kalisz zugestellt, auf Betreiben von Antoni Prusimski von Kolno, Starost von Niszczewice. Es geht um eine Strafe von vierzehn polnischen Mark, die an die Kasse des Instigators des Krontribunals in Petrikau gezahlt wurde; das deswegen aus dem Strafregister gegen Prusimski erwirkte Verfahren soll aufgehoben und Prusimski freigesprochen werden. Der Bote hat die Ladung im Gutshof von Łukom hinterlegt.',
      'A report of the court messenger Bartłomiej Szepczyński of Trąbczyn of 22 May 1783. He has served on Stanisław Chełmski, Treasurer of Wschowa, a citation of the Starost General Kazimierz Raczyński of 15 May 1783 before the castle court of Kalisz, at the instance of Antoni Prusimski of Kolno, Starost of Niszczewice. It concerns a penalty of fourteen Polish marks paid into the chest of the Instigator of the Crown Tribunal at Piotrków; the process obtained against Prusimski on that account from the register of penalties is to be quashed and Prusimski declared free. The messenger left the citation at the manor of Łukom.'),
- 6: ('Bericht des Gerichtsboten Stanisław Stachowski von Łukomia, eingetragen in Konin im Mai 1783. Er hat eine Ladung vor das Burggericht Kalisz zugestellt, die Stanisław Chełmski, Schatzmeister von Wschowa, und andere gegen Antoni Prusimski von Kolno, Starost von Niszczewice, und andere erwirkt haben.',
-     'A report of the court messenger Stanisław Stachowski of Łukomia, entered at Konin in May 1783. He has served a citation before the castle court of Kalisz that Stanisław Chełmski, Treasurer of Wschowa, and others obtained against Antoni Prusimski of Kolno, Starost of Niszczewice, and others.'),
+ 6: ('Bericht des Gerichtsboten Stanisław Stachowski von Łukomia, eingetragen in Konin im Mai 1783. Er hat eine Ladung vor das Burggericht Kalisz zugestellt, die Stanisław Chełmski, Schatzmeister von Wschowa, und andere gegen Antoni Prusimski von Kolno, Starost von Niszczewice, und andere erwirkt haben. Er hat sie im Vorwerk von Nowa Wieś hinterlegt.',
+     'A report of the court messenger Stanisław Stachowski of Łukomia, entered at Konin in May 1783. He has served a citation before the castle court of Kalisz that Stanisław Chełmski, Treasurer of Wschowa, and others obtained against Antoni Prusimski of Kolno, Starost of Niszczewice, and others. He left it at the farm at Nowa Wieś.'),
  7: ('Protest von Antoni Prusimski von Kolno, Starost von Niszczewice, gegen Stanisław Chełmski, Schatzmeister von Wschowa, eingetragen in Konin im Oktober 1783 und von ihm unterschrieben. Chełmski habe ihn vor das Landgericht in Konin geladen, damit er Leute stelle, von denen einige in seinem Dienst stehen und andere bei ihm nicht zu finden sind, und damit er wegen einer angeblich verübten Gewalttat bestraft werde. Prusimski erklärt: Sollte die Gewalttat von diesen Leuten begangen worden sein, so geschah sie ohne sein Wissen und ohne seinen Befehl; stellen könne er nur zwei der in der Ladung Genannten, Gregor und Thomas; die anderen habe der Arrest nicht erreicht. Er bietet an, sich auch durch Zeugenverhöre zu reinigen, und will wegen der unbegründeten Belästigung Strafen fordern.',
      'A protest of Antoni Prusimski of Kolno, Starost of Niszczewice, against Stanisław Chełmski, Treasurer of Wschowa, entered at Konin in October 1783 and signed by him. Chełmski has cited him before the land court at Konin to produce men, some of them in his service and others not to be found with him, and to be punished for an act of violence said to have been done. Prusimski declares: if the act was done by those men, it was done without his knowledge and without his order; he can produce only two of those named in the citation, Gregory and Thomas; the arrest did not reach the others. He offers to clear himself by an examination of witnesses as well, and means to claim penalties for the groundless vexation.'),
  8: ('Eintrag vom 15. September 1784. Leon Maszewski, Kommissar der Trąbczyner Güter, fragt im Namen von Antoni Prusimski von Kolno, Starost von Niszczewice, ob der Bericht über eine Ladung vor das Krontribunal in Petrikau, die Stanisław Ścibor Chełmski, Schatzmeister von Wschowa, erwirkt hat und die am Donnerstag nach Mariä Geburt des laufenden Jahres nach Trąbczyn gebracht wurde, vor dem Amt erklärt worden ist. Das Amt hat sein Register durchgesehen und bescheinigt, dass ein solcher Bericht nicht vorliegt. Maszewski hat im Namen Prusimskis unterschrieben.',

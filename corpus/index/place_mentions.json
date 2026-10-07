@@ -3963,7 +3963,7 @@
    },
    {
     "uid": "app53170koningr153-1",
-    "surface": "Trąpczyn",
+    "surface": "Trąmpczyn",
     "page": 9,
     "page_id": "1395_a2",
     "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
@@ -45451,12 +45451,13 @@
  {
   "entity": "nowawies-trabczyn",
   "display": "Nowawies",
-  "count": 20,
+  "count": 21,
   "documents": [
    "app53170koningr116-12",
    "app53170koningr117-1",
    "app53170koningr118-14",
    "app53170koningr119-1",
+   "app53170koningr119-6",
    "app53170koningr145-1",
    "app536017-1",
    "app539680801-2",
@@ -45533,6 +45534,15 @@
     "scan": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
     "line": 6,
     "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr119-6",
+    "surface": "Nowawieś",
+    "page": 1,
+    "page_id": "0131_a2",
+    "scan": "APP_53_17_0_Konin_Gr_119_0131_a2-L6_01.jpg",
+    "line": 31,
+    "doc_line": 2
    },
    {
     "uid": "oe1bu14525-39",

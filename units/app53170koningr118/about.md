@@ -22,7 +22,7 @@ Most entries of a register like this one are one-line notes that a paper was bro
 
 ### Form and language
 
-Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated; five long entries are given as first read, with many words marked as doubtful, and are flagged as a rough transcription. Fifteen entries have no dated heading of a sitting above them and are dated from the headings before and after, some only to the year; each says so. One heading gives a weekday and a day of the month that do not agree, and the weekday is followed. One note is unfinished, and one entry is a heading with nothing written under it. One note, which the editor had photographed but not transcribed, was transcribed for the edition. <!-- context -->
+Each entry stands among others on its page; the pages are shown whole and the other entries are not transcribed. The Latin is heavily abbreviated; the long entries were read against the scans a second time, word for word, and a few words in them remain marked as doubtful. Fifteen entries have no dated heading of a sitting above them and are dated from the headings before and after, some only to the year; each says so. One heading gives a weekday and a day of the month that do not agree, and the weekday is followed. One note is unfinished, and one entry is a heading with nothing written under it. One note, which the editor had photographed but not transcribed, was transcribed for the edition. <!-- context -->
 
 Antoni Prusimski appears here as "Ostroróg Prusimski" and as knight of the Order of St Stanislaus. The citation of September 1782 is the only document in the edition that names his parents and grandparents. <!-- context -->
 

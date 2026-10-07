@@ -9020,7 +9020,7 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 399,
+  "count": 401,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -11327,6 +11327,15 @@
     "doc_line": 3
    },
    {
+    "uid": "app53170koningr117-2",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
     "uid": "app53170koningr117-4",
     "surface": "Chełmski",
     "page": 1,
@@ -12081,6 +12090,15 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1397_a2-L1_13.jpg",
     "line": 47,
     "doc_line": 33
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Chełmski",
+    "page": 13,
+    "page_id": "1397_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a2-L1_13.jpg",
+    "line": 49,
+    "doc_line": 35
    },
    {
     "uid": "app53170koningr153-1",

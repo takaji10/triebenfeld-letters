@@ -17,6 +17,8 @@ The decree of the commission that fixed the boundary between Trąbczyn and Łuko
 
 The man who asks here, Antoni Leszczyc Mierzewski, bears the same name and arms as Maciej Leszczyc Mierzewski, one of the five commissioners who, two months earlier, had adjourned the cause as still open: <a href="{{ '/sources/app53150kaliszgr425/' | relative_url }}">53/15/0/-/Kalisz Gr.425</a>. <!-- context -->
 
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Kaliszu", the books of the castle court and castle office of Kalisz. According to the archive's description of the fonds, the castle court took shape at the end of the fourteenth century. For the nobility it first heard criminal cases under the four "castle articles": arson, an attack on a nobleman's house, robbery on the public road, and rape. In time its competence changed and came to include the other criminal cases, and suits over land and over sums of money, and it took over appeals from the town courts. Beside the court grew the castle office, where the court books were kept. The office was open every day for the entry of uncontested business, and its books had public credit. The fonds holds resignations, inscriptions, reports, judgments, papers brought in for entry, registers of causes, loose papers, oaths, citations, judgments under Magdeburg law and powers of attorney. <!-- context -->
+
 ### Contents
 
 **The question.** On Saturday 23 November 1776 Antoni Leszczyc Mierzewski came before the castle office at Kalisz and asked whether the boundary decree between the estates of the villages of Łukom, Trąbczyn and others had been brought in to its records for entry: the decree given by the commissioners whom the Estates of the Commonwealth had appointed on the part of Antoni Prusimski of Kolno, Starost of Niszczewice, heir of Trąbczyn <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
@@ -35,7 +37,7 @@ The decree that was looked for: <a href="{{ '/sources/app53170koningr145/' | rel
 
 ### Scans
 
-The folder has one photograph of the book, showing two facing pages. It was cut at the fold into two pages. Both are shown whole, though the entry and its date line are a small part of them.
+The folder has one photograph of the book, showing two facing pages. It was cut at the fold into two pages. Both are shown whole, though the entry and its date line are a small part of them. The photograph is from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

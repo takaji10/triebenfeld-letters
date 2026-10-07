@@ -1,6 +1,7 @@
 # What the check of APP 53/17/0/-/Konin Gr.119 against the scans changes for
 # anyone who has written about these entries from the earlier text. Read by
-# pipeline/review/changes_page.py.
+# pipeline/review/changes_page.py. The editor read this record on 2026-10-07;
+# what the full check of the same day added is marked `new:`.
 # importance: significant | fact | wording.
 
 unit: "APP 53/17/0/-/Konin Gr.119: eight register entries, 1783 and 1784"
@@ -47,3 +48,19 @@ changes:
   what: "Smaller readings: \"peremptorie\"; \"Audien~\"; \"Evehendarum non nisi\"; \"Ministerialibus\"; \"Censeri\"; \"Praedioque ... Sella ... Scriba ... Die horna\"; \"injungi ... paritt~ ... responsurus\"; \"utrum Relationes Citationum ... Recognitae ... Easdem ... praeteriti ... Matuszkiewicz ... Recognitam ... Ideo de inexistentia Earundem ... fidem\"; \"Imieniem\"; \"proxime ... Qua ex Parte ... Generosorum ... essentiae ... praecedente\"; \"tenoris ... Raczyński ... Tuis ... Nris~ ... Compareas ... pariturus et\"; \"Eques succurrendo ... Etenim ... extiterit ... quod ... peracta ... videatur ... offert\"; \"Commisso ... Petiit Relationem edittae ... Tribunalis Regni ... exportatae utrum\"."
   was: "see the list"
   now: "see the list"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Document 6, leaf 131"
+  what: "A line was passed over in the report of May 1783. It says where Chełmski's citation was left: \"at the estate of Nowa Wieś, in the manor farm there, on the chest in the heated room\", before the lady of the household. The sessions are the \"next\" ones at Kalisz castle (\"proxime\", your \"per\")."
+  was: "pro Judiciis Castren~ Calissien~ per in Castro ... porrigenda Similem editt~ praesen~ Matre familias"
+  now: "pro Judiciis Castren~ Calissien~ proxime in Castro ... porrigendae Similem editt~ In Bonis Nowawieś Praedioque Ibidem Sito super Scrinio hippi praesen~ Matre familias"
+  english_was: "similarly issued, with the lady of the household present"
+  english_now: "similarly issued — at the estate of Nowa Wieś, in the manor farm there, on the chest in the heated room, with the lady of the household present"
+- importance: fact
+  new: "full check, 2026-10-07"
+  where: "Document 1, leaf 62"
+  what: "The first half of Chełmski's citation of March 1783, read whole. The men named with Maszewski are \"working men\" (\"cum Laboriosis\"; your English \"together with its pastures\"), and they \"are arrested in your keeping by the present citation\" (\"apud Vos Arestantur\"; your English \"in your presence\"). What was taken from Chełmski's people is \"oxen, carts and axes\" (your English left out the oxen). The mounds are those \"raised\" under the Tribunal's decree (\"peractae Erectionis Scopulorum\"; your \"pactae\", translated \"agreed\"). Nothing else in this half changes; with it, every entry of the holding has been read against the scans."
+  was: "In Judiciis Nostri Castrensia Calissien~ propriis et proximis ... tam Manifestat~ factae sive faciendem ... Decreti Tribunalii pactae Erectionis Scopulorum"
+  now: "In Judiciis Nostris Castren~ Calissien~ primis et proximis ... tum Manifestat~ factae sive faciendae ... Decreti Tribunalii peractae Erectionis Scopulorum"
+  english_was: "existing pursuant to the agreed erection of boundary stakes per the Tribunal decree; of the wagons and axes ... together with its pastures, with Thomas Fryzyer ... who are arrested in your presence upon the serving of this citation"
+  english_now: "of the erection of the boundary mounds carried out under the Tribunal decree; of the oxen, wagons and axes ... together with the working men Thomas Fryzyer ... who by the present citation are arrested in your keeping"

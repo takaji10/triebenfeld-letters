@@ -78,6 +78,28 @@ a chat window are taken out (JUNK). FIXES are the places where the English
 followed a reading that was corrected; document 2 is translated here in the
 editor's terms (EN_266V). In documents 8 and 13 the English page break is moved
 to where the page of the text ends (carry).
+
+The full check (2026-10-07, at the editor's word, after they had read the
+record of the light one). What the light check had left was read against the
+scans, enlarged, word for word: documents 13 (leaves 475, 475 verso), 14
+(495 verso), 17 (523 verso), 19 (530, 530 verso) and 23 (622 to 623 verso);
+the Polish of 26 and 27 (673 to 674); document 10 (416, 416 verso) and the
+second page of 8 (396 verso, which agrees with the editor's text). With the
+light check that is every entry of the holding. Its record is
+full_check.json beside this file (courtbook.full_check): 133 corrections
+(ROWS, applied with --full after --correct) and 36 places where the English
+follows (FIXES, applied after the FIXES below).
+
+What it found, beyond single words:
+- Five passages where a line or part of one was passed over: three in
+  document 13, one each in 10 and 17; they are restored.
+- "ott~", "oto[?]" is "olim", the late (documents 14 and 23).
+- In document 14 "Illustris Magnifice Prusimski" is the form of address to
+  Antoni Prusimski ("you, Prusimski"); there is no "Magnifica Prusimska".
+  Teresa Bogdańska is the successor of her two dead sisters.
+What is still marked as doubtful was looked at and could not be read with
+confidence; nothing was completed by guess. Not read again: the name before
+"Szkudlarka" and "z Torami" in document 27.
 """
 import glob
 import os
@@ -88,6 +110,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
 import courtbook  # noqa: E402
+
+FULL = courtbook.full_check(HERE)
 
 SLUG = 'app53170koningr118'
 REF = 'APP 53/17/0/-/Konin Gr.118'
@@ -310,7 +334,7 @@ def english():
     assert n == 6, n
     leaves = [(l, [x for x in p if not JUNK.match(x)]) for l, p in leaves]
     assert [(l, len(p)) for l, p in leaves] == COUNTS_EN, [(l, len(p)) for l, p in leaves]
-    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES)
+    E = courtbook.fix_english({i: p for i, (_, p) in enumerate(leaves)}, FIXES + FULL['FIXES'])
 
     def carry(i, k, mark):
         """The editor's page break stands later in the English than in the text: move it to `mark`."""

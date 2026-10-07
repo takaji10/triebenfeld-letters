@@ -283,6 +283,14 @@
   docs: 17
   span: "1805–1815"
   letters: [{id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", n: 1}, {id: "29", uid: "oe1bu9454-29", url: "/documents/oe1bu9454/29/", n: 1}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/", n: 1}, {id: "220", uid: "oe1bu9454-220", url: "/documents/oe1bu9454/220/", n: 1}, {id: "238", uid: "oe1bu9454-238", url: "/documents/oe1bu9454/238/", n: 1}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", n: 1}, {id: "259", uid: "oe1bu9454-259", url: "/documents/oe1bu9454/259/", n: 1}, {id: "260", uid: "oe1bu9454-260", url: "/documents/oe1bu9454/260/", n: 2}, {id: "263", uid: "oe1bu9454-263", url: "/documents/oe1bu9454/263/", n: 2}, {id: "267", uid: "oe1bu9454-267", url: "/documents/oe1bu9454/267/", n: 2}, {id: "268", uid: "oe1bu9454-268", url: "/documents/oe1bu9454/268/", n: 2}, {id: "273", uid: "oe1bu9454-273", url: "/documents/oe1bu9454/273/", n: 1}, {id: "14", uid: "oe1bu9454-14", url: "/documents/oe1bu9454/14/", n: 1}, {id: "276", uid: "oe1bu9454-276", url: "/documents/oe1bu9454/276/", n: 2}, {id: "278", uid: "oe1bu9454-278", url: "/documents/oe1bu9454/278/", n: 1}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 1}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/", n: 1}]
+- slug: "nowawies-trabczyn"
+  name: "Nowawies"
+  count: 21
+  lat: 52.14177
+  lon: 17.93662
+  docs: 17
+  span: "1589–1830"
+  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 1}, {id: "12", uid: "app53170koningr116-12", url: "/documents/app53170koningr116/12/", n: 1}, {id: "1", uid: "app53170koningr117-1", url: "/documents/app53170koningr117/1/", n: 1}, {id: "14", uid: "app53170koningr118-14", url: "/documents/app53170koningr118/14/", n: 1}, {id: "1", uid: "app53170koningr119-1", url: "/documents/app53170koningr119/1/", n: 2}, {id: "6", uid: "app53170koningr119-6", url: "/documents/app53170koningr119/6/", n: 1}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 3}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "2", uid: "app539680801-2", url: "/documents/app539680801/2/", n: 1}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "skokum"
   name: "Skokum"
   count: 23
@@ -299,14 +307,6 @@
   docs: 16
   span: "1804–1809"
   letters: [{id: "21", uid: "oe1bu14525-21", url: "/documents/oe1bu14525/21/", n: 1}, {id: "35", uid: "oe1bu9454-35", url: "/documents/oe1bu9454/35/", n: 2}, {id: "40", uid: "oe1bu9454-40", url: "/documents/oe1bu9454/40/", n: 2}, {id: "41", uid: "oe1bu9454-41", url: "/documents/oe1bu9454/41/", n: 2}, {id: "42", uid: "oe1bu9454-42", url: "/documents/oe1bu9454/42/", n: 1}, {id: "54", uid: "oe1bu9454-54", url: "/documents/oe1bu9454/54/", n: 1}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/", n: 2}, {id: "56", uid: "oe1bu9454-56", url: "/documents/oe1bu9454/56/", n: 2}, {id: "51", uid: "oe1bu9454-51", url: "/documents/oe1bu9454/51/", n: 1}, {id: "52", uid: "oe1bu9454-52", url: "/documents/oe1bu9454/52/", n: 1}, {id: "57", uid: "oe1bu9454-57", url: "/documents/oe1bu9454/57/", n: 3}, {id: "53", uid: "oe1bu9454-53", url: "/documents/oe1bu9454/53/", n: 1}, {id: "58", uid: "oe1bu9454-58", url: "/documents/oe1bu9454/58/", n: 1}, {id: "59", uid: "oe1bu9454-59", url: "/documents/oe1bu9454/59/", n: 5}, {id: "61", uid: "oe1bu9454-61", url: "/documents/oe1bu9454/61/", n: 1}, {id: "63", uid: "oe1bu9454-63", url: "/documents/oe1bu9454/63/", n: 1}]
-- slug: "nowawies-trabczyn"
-  name: "Nowawies"
-  count: 20
-  lat: 52.14177
-  lon: 17.93662
-  docs: 16
-  span: "1589–1830"
-  letters: [{id: "1", uid: "app536017-1", url: "/documents/app536017/1/", n: 1}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 1}, {id: "12", uid: "app53170koningr116-12", url: "/documents/app53170koningr116/12/", n: 1}, {id: "1", uid: "app53170koningr117-1", url: "/documents/app53170koningr117/1/", n: 1}, {id: "14", uid: "app53170koningr118-14", url: "/documents/app53170koningr118/14/", n: 1}, {id: "1", uid: "app53170koningr119-1", url: "/documents/app53170koningr119/1/", n: 2}, {id: "39", uid: "oe1bu14525-39", url: "/documents/oe1bu14525/39/", n: 1}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 3}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", n: 1}, {id: "2", uid: "app539680801-2", url: "/documents/app539680801/2/", n: 1}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", n: 1}, {id: "7", uid: "iiihamdaiiinr12367-7", url: "/documents/iiihamdaiiinr12367/7/", n: 1}]
 - slug: "wieniec"
   name: "Wieniec (Wienietz)"
   count: 39

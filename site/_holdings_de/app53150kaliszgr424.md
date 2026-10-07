@@ -17,6 +17,8 @@ Das Dekret der Kommission, die die Grenze zwischen Trąbczyn und Łukomia festle
 
 Der Mann, der hier fragt, Antoni Leszczyc Mierzewski, führt denselben Namen und dasselbe Wappen wie Maciej Leszczyc Mierzewski, einer der fünf Kommissare, die zwei Monate zuvor die Sache als noch offen vertagt hatten: <a href="{{ '/de/quellen/app53150kaliszgr425/' | relative_url }}">53/15/0/-/Kalisz Gr.425</a>. <!-- context -->
 
+Der Band gehört zum Bestand „Księgi sądu i urzędu grodzkiego w Kaliszu“ des Archivs, den Büchern des Burggerichts und des Burgamts Kalisch. Nach der Bestandsbeschreibung des Archivs bildete sich das Burggericht am Ende des 14. Jahrhunderts heraus. Für den Adel war es zunächst für Strafsachen aus den vier „Burgartikeln“ zuständig: Brandstiftung, Überfall auf das Haus eines Adligen, Raub auf öffentlicher Straße und Vergewaltigung. Mit der Zeit änderte sich seine Zuständigkeit und umfasste auch die übrigen Strafsachen sowie Streitigkeiten um Land und um Geldsummen, und das Gericht übernahm die Berufungen von den Stadtgerichten. Neben dem Gericht entstand das Burgamt, in dem die Gerichtsbücher geführt wurden. Das Amt stand täglich für die Eintragung nichtstreitiger Sachen offen, und seine Bücher genossen öffentlichen Glauben. Der Bestand enthält Auflassungen, Inskriptionen, Berichte, Urteile, zur Eintragung vorgelegte Schriftstücke, Sachregister, lose Schriftstücke, Eide, Ladungen, Urteile nach Magdeburger Recht und Vollmachten. <!-- context -->
+
 ### Inhalt
 
 **Die Frage.** Am Samstag, dem 23. November 1776, erschien Antoni Leszczyc Mierzewski vor dem Burgamt Kalisz und fragte, ob das Grenzdekret zwischen den Gütern der Dörfer Łukom, Trąbczyn und anderen zur Eintragung in dessen Akten vorgelegt worden sei: das Dekret der Kommissare, die die Stände der Republik aufseiten von Antoni Prusimski von Kolno, Starost von Niszczewice, Erbherrn von Trąbczyn, bestellt hatten <span class="cite">[<a href="{{ '/documents/app53150kaliszgr424/1/' | relative_url }}">1</a>]</span>.
@@ -35,7 +37,7 @@ Das gesuchte Dekret: <a href="{{ '/de/quellen/app53170koningr145/' | relative_ur
 
 ### Aufnahmen
 
-Der Ordner enthält eine Fotografie des Buchs mit zwei gegenüberliegenden Seiten. Sie wurde am Falz in zwei Seiten geschnitten. Beide sind ganz wiedergegeben, obwohl der Eintrag und seine Datumszeile nur einen kleinen Teil davon ausmachen.
+Der Ordner enthält eine Fotografie des Buchs mit zwei gegenüberliegenden Seiten. Sie wurde am Falz in zwei Seiten geschnitten. Beide sind ganz wiedergegeben, obwohl der Eintrag und seine Datumszeile nur einen kleinen Teil davon ausmachen. Die Fotografie stammt von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
 
 ### Transkription
 

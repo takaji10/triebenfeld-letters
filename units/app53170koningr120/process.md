@@ -1,6 +1,6 @@
 ### Scans
 
-The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; three of the four halves carry a transcribed entry and are shown whole.
+The folder has two photographs of this book, each showing two facing pages. Each was cut at the fold; three of the four halves carry a transcribed entry and are shown whole. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

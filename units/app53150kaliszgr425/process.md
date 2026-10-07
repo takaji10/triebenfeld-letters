@@ -1,6 +1,6 @@
 ### Scans
 
-The folder has three photographs of the book, each showing two facing pages. Two were cut at the fold, and three of their four pages belong to the document. The third photograph has nothing that is transcribed and is not used.
+The folder has three photographs of the book, each showing two facing pages. Two were cut at the fold, and three of their four pages belong to the document. The third photograph has nothing that is transcribed and is not used. The photographs are from Skanoteka, the scanning project of the Polish genealogical society (skanoteka.genealodzy.pl), and carry its watermark across the middle of the image.
 
 ### Transcription
 

@@ -23,6 +23,13 @@ title_de: >-
 # gives it. Kept for reference; nothing displays it.
 archive_title: >-
   Relationes [protocollon] 1776
+# The fonds, with the archive's description of it, from the editor (2026-10-07):
+# 53/15, "Księgi sądu i urzędu grodzkiego w Kaliszu". Contents, as the
+# archive lists them: "Rezygnacje, inskrypcje, relacje, wyroki, oblaty,
+# regestry spraw, dissoluta, juramenta, pozwy, wyroki wg prawa
+# magdeburskiego, plenipotencje". The description of the court is given in
+# about.md under "Historical background".
+fonds: Księgi sądu i urzędu grodzkiego w Kaliszu
 date_span: 1776
 status: translated         # draft | transcribed | translated | published
 published_tag: ""
@@ -36,6 +43,12 @@ repository: app-poznan
 # The scans are cut at the fold by intake/holding.py --crop. The editor
 # approves or moves the folds on review/app53150kaliszgr425/folds/ before the
 # holding is published.
+
+# Where the images come from. The photographs are from Skanoteka, the scanning project
+# of the Polish genealogical society (https://skanoteka.genealodzy.pl/), and
+# carry its watermark "SKANOTEKA.GENEALODZY.PL" across the middle (the
+# editor, 2026-10-07). The holding's page says so under "Scans".
+scan_source: Skanoteka (https://skanoteka.genealodzy.pl/)
 
 # Raw scans live outside the project. crop_scans.py reads from raw_dir and
 # writes single pages into raw_dir/processed/.

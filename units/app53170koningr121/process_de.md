@@ -1,6 +1,6 @@
 ### Aufnahmen
 
-Der Ordner enthält zwei Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten; die beiden Hälften, die den Eintrag tragen, sind ganz wiedergegeben.
+Der Ordner enthält zwei Fotografien dieses Buchs, jede mit zwei gegenüberliegenden Seiten. Jede wurde am Falz geschnitten; die beiden Hälften, die den Eintrag tragen, sind ganz wiedergegeben. Die Fotografien stammen von Skanoteka, dem Digitalisierungsprojekt der polnischen genealogischen Gesellschaft (skanoteka.genealodzy.pl), und tragen dessen Wasserzeichen quer über die Bildmitte.
 
 ### Transkription
 
