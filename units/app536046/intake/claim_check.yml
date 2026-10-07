@@ -1,0 +1,19 @@
+# The claim check of the German summary of APP 53/6/0/-/46, made in session
+# on 2026-10-07 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary then only weakened or cut, never added to. Not
+# the paid run; there is no reading.json. The document was read in the Latin
+# of corpus.txt as checked against the microfilm.
+#
+# Result: 7 statements, all supported after one was weakened: the day of the
+# search at Konin is given in the text as the 28th, but the film may have the
+# 20th, so the summary says only "October".
+
+app536046-001:
+- {claim: "Dekret des Landgerichts in Konin aus der Sitzung, die am 20. Oktober 1777 begann, Eintrag Nr. 16", verdict: supported, where: "the heading of the sitting (intake/holding.py): Die 20 mensis Octobris Anno 1777 in Conin celebratis; p. 1: No. 16: ... Judicium ... Decidendo"}
+- {claim: "Stanisław Chełmski, Erbherr von Łukomia, verlangt als Kläger von Antoni Prusimski, Starost von Niszczewice, die Vorlage eines Akts, der wie ein Grenzakt zwischen den Gütern Łukom und Trąbczyn von Kommissaren der Stände erlassen worden sei", verdict: supported, where: "p. 1: Magnificus Chełmski ... Prusimski Eden~ comportat~ actus cujusdam ac si Granitialis per Commissarios a statibus Regni designatos ... Inter Bona Łukom et Trąbczyn prolati praetendit"}
+- {claim: "er legt drei Nachsuchen vor, in Kalisz vom Samstag nach Mariä Opferung 1776, in Kościan vom 2. Januar und in Konin vom Oktober des laufenden Jahres", verdict: supported, where: "p. 1: Requisitionesque trinas ... primam coram actis Castrensibus Calissiensibu Sabbatho post Festum Praesentationis Gloriosissimae Virginis Mariae anno 1776 ... secundam coram actis Castrensibus Costenensibus Die 2da mensis Januarii ... tertiam coram actis Castren~ Coninen~ Die 28 mensis 8bris anno praesenti. First written with the day; weakened to the month"}
+- {claim: "und beweist damit, dass der Akt nicht in den Akten der eigenen Woiwodschaft steht", verdict: supported, where: "p. 1: Actumque Eundem Campestrem Comportari praetensum in actis proprii Palatinatus non extasse probat"}
+- {claim: "Prusimski legt seinerseits eine Nachsuche vor, die am 10. Oktober 1777 beim Burggericht Brześć Kujawski vorgenommen und am 16. Oktober in Konin eingetragen wurde", verdict: supported, where: "pp. 1-2: Requisitionem ... Decreti Commissorialis Granitialis ... coram actis Castrensibus Bresten~ Cujaviae Die 10 mensis praesentis 8bris anno praesen~ factam et actis Castrensibus Coninensibus die 16 mensis Ejusdem ... oblatuatam"}
+- {claim: "und zeigt, dass das Dekret der Kommission 1776 in Brześć Kujawski eingetragen worden ist", verdict: supported, where: "p. 2: Decretum hocce Commissoriale sub actu Feriae Tertiae post festum Sancti Matthaei Apostoli et Evangelistae anno praeterlapso 1776 coram actis Castrensibus Brestensibus Cujaviae oblatuatum esse deducit"}
+- {claim: "weil Rechte, Vergleiche und Dekrete in der eigenen Woiwodschaft vorzulegen sind, verpflichtet das Gericht Prusimski, das Dekret binnen vier Wochen bei den Burgakten in Konin eintragen zu lassen, bei Strafe der Acht", verdict: supported, where: "p. 2: Jura vero transactiones omnes et decreta in proprio Palatinatu oblatam porrigi Debent Ideo Decernit Judicium Quatenus Magnificus Prusimski ... Decretum superius specificatum in spatio quatuor septimanarum ab actu praesenti ad acta Castren~ Coninen~ sub paena banitionis ... per oblatam porrigat"}

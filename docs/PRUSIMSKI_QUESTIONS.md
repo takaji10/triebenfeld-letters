@@ -91,3 +91,28 @@ the editor reviews. Nothing is published before that.
 
 - Deferred by you on 2026-10-06 ("let's look at that later"). **Default:
   not built.**
+
+### APP 53/15/0/-/Kalisz Gr.425 (1776)
+
+- The third photograph (504) has the docket on the back of the adjournment
+  and a register note on leaf 499; neither is transcribed. **Default: not
+  used.**
+
+### APP 53/15/0/-/Kalisz Gr.424 (1776)
+
+- Your English has "[on behalf of Chełmski]" after Mierzewski's name; the
+  Latin does not say for whom he asked. **Default: your gloss is kept, in
+  square brackets.** (The land court's decree of 1777, 53/6/0/-/46, does say
+  the search at Kalisz was made "in the name of Chełmski".)
+
+### APP 53/6/0/-/46 (1777)
+
+- Your Latin file has a second entry, headed "N. 16to" under "[182v]": it is
+  entry no. 17, on leaf 183 recto (the suit with the merchant Jan Tracholz).
+  It has no English and more than forty doubts. **Default: not built.**
+  Do you want it read again and translated?
+- Entry no. 16 is read from a microfilm and is marked as a rough
+  transcription. **Default: built so, with four doubts left.** A better
+  image of leaves 182 and 182 verso would settle them.
+- The search at Konin: your text has the 28th of October; the film may have
+  the 20th. **Default: left as the 28th.**

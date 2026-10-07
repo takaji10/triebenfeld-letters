@@ -1618,6 +1618,53 @@
   "permalink": "/documents/app53150kaliszgr424/1/"
  },
  {
+  "uid": "app536046-1",
+  "unit": "app536046",
+  "letter_id": "1",
+  "doc_type": "decree",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1777",
+  "date_precision": "year",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 4,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0182_b1",
+    "image": "APP_53_6_0_46_0182_b1-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0182_b2",
+    "image": "APP_53_6_0_46_0182_b2-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 5,
+  "has_damage": false,
+  "rough_transcription": true,
+  "mentions": 2,
+  "places_named": 4,
+  "estates": [
+   "trabczyn",
+   "lukomia"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "decree 1",
+  "path": "documents/app536046-1.json",
+  "text_path": "text/app536046-1.txt",
+  "permalink": "/documents/app536046/1/"
+ },
+ {
   "uid": "oe1bu14525-13",
   "unit": "oe1bu14525",
   "letter_id": "13",

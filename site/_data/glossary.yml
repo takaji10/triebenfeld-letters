@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 52
+  docs: 53
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 28
+  docs: 29
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 53
+  docs: 54
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 78
+  docs: 79
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1936,7 +1936,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 39
+  docs: 40
 - id: "d-j"
   kind: "phrase"
   lang: "de"

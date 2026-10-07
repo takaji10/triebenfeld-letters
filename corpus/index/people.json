@@ -11432,7 +11432,7 @@
  {
   "entity": "chemski",
   "display": "Chełmski",
-  "count": 218,
+  "count": 223,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -11449,6 +11449,7 @@
    "app536036-1",
    "app536040-1",
    "app536045-1",
+   "app536046-1",
    "oe1bu9454-102",
    "oe1bu9454-286",
    "oe1bu9454-75"
@@ -13372,6 +13373,51 @@
     "doc_line": 9
    },
    {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Chełmski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
     "uid": "oe1bu9454-75",
     "surface": "Chełmski",
     "page": 3,
@@ -13421,7 +13467,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 202,
+  "count": 206,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -13437,6 +13483,7 @@
    "app53170koningr115-8",
    "app53170koningr115-9",
    "app53170koningr145-1",
+   "app536046-1",
    "ihagrrep7cnr1414-1",
    "ihagrrep7cnr1414-2",
    "ihagrrep7cnr1414-3",
@@ -14439,6 +14486,42 @@
     "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
     "line": 5,
     "doc_line": 2
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0182_b2",
+    "scan": "APP_53_6_0_46_0182_b2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
    },
    {
     "uid": "oe1bu14525-39",

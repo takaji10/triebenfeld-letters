@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 205,
+  "count": 206,
   "documents": [
    "agad1174016-2",
    "agad11740273-1",
@@ -31,6 +31,7 @@
    "app536036-2",
    "app536040-1",
    "app536045-1",
+   "app536046-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -1013,6 +1014,34 @@
   ]
  },
  {
+  "entity": "lukomia",
+  "display": "Łukomia",
+  "count": 21,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app53150kaliszgr424-1",
+   "app53150kaliszgr425-1",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr115-1",
+   "app53170koningr115-10",
+   "app53170koningr115-2",
+   "app53170koningr115-4",
+   "app53170koningr115-5",
+   "app53170koningr115-6",
+   "app53170koningr115-7",
+   "app53170koningr115-8",
+   "app53170koningr115-9",
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app536045-1",
+   "app536046-1"
+  ]
+ },
+ {
   "entity": "brzyce",
   "display": "Brzyce",
   "count": 21,
@@ -1066,33 +1095,6 @@
    "oe1bu9454-96",
    "oe1bu9454-97",
    "oe1bu9454-99"
-  ]
- },
- {
-  "entity": "lukomia",
-  "display": "Łukomia",
-  "count": 20,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app53150kaliszgr424-1",
-   "app53150kaliszgr425-1",
-   "app53170koningr114-1",
-   "app53170koningr114-2",
-   "app53170koningr115-1",
-   "app53170koningr115-10",
-   "app53170koningr115-2",
-   "app53170koningr115-4",
-   "app53170koningr115-5",
-   "app53170koningr115-6",
-   "app53170koningr115-7",
-   "app53170koningr115-8",
-   "app53170koningr115-9",
-   "app53170koningr145-1",
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536040-1",
-   "app536045-1"
   ]
  },
  {

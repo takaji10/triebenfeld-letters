@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 646,
+  "count": 648,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -21,6 +21,7 @@
    "app536036-1",
    "app536040-1",
    "app536045-1",
+   "app536046-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -3144,6 +3145,24 @@
     "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
     "line": 5,
     "doc_line": 2
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
     "uid": "oe1bu14525-39",
@@ -15948,14 +15967,15 @@
  {
   "entity": "lukomia",
   "display": "Łukomia",
-  "count": 188,
+  "count": 189,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
    "app53170koningr114-2",
    "app53170koningr115-4",
    "app53170koningr115-6",
-   "app53170koningr145-1"
+   "app53170koningr145-1",
+   "app536046-1"
   ],
   "mentions": [
    {
@@ -17649,6 +17669,15 @@
     "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a1-L1_02.jpg",
     "line": 5,
     "doc_line": 2
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Łukomia",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    }
   ]
  },
@@ -20738,11 +20767,12 @@
  {
   "entity": "drzewce",
   "display": "Drzewce",
-  "count": 135,
+  "count": 136,
   "documents": [
    "app53170koningr115-2",
    "app53170koningr136-1",
    "app53170koningr145-1",
+   "app536046-1",
    "app5371057-1",
    "app539680801-2",
    "app539680801-3",
@@ -21593,6 +21623,15 @@
     "scan": "APP_53_17_0_Konin_Gr_145_0700_a1-L1_91.jpg",
     "line": 299,
     "doc_line": 207
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Drzewiec",
+    "page": 2,
+    "page_id": "0182_b2",
+    "scan": "APP_53_6_0_46_0182_b2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
    },
    {
     "uid": "oe1bu14525-10",
@@ -28689,6 +28728,691 @@
   ]
  },
  {
+  "entity": "lukom",
+  "display": "Łukom",
+  "count": 73,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app53150kaliszgr424-1",
+   "app53150kaliszgr425-1",
+   "app53170koningr114-1",
+   "app53170koningr114-2",
+   "app53170koningr115-2",
+   "app53170koningr115-5",
+   "app53170koningr115-6",
+   "app53170koningr115-7",
+   "app53170koningr115-8",
+   "app53170koningr115-9",
+   "app53170koningr145-1",
+   "app536017-1",
+   "app536036-1",
+   "app536036-2",
+   "app536040-1",
+   "app536045-1",
+   "app536046-1",
+   "oe1bu14525-23"
+  ],
+  "mentions": [
+   {
+    "uid": "app536017-1",
+    "surface": "Łukomski",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536017-1",
+    "surface": "Łukomsky",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536017-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536036-2",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0642_a2",
+    "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0372_a2",
+    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0373_a1",
+    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+    "line": 8,
+    "doc_line": 4
+   },
+   {
+    "uid": "app536040-1",
+    "surface": "Łukom",
+    "page": 4,
+    "page_id": "0373_a2",
+    "scan": "APP_53_6_0_40_0373_a2-L1_04.jpg",
+    "line": 10,
+    "doc_line": 5
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr114-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0298_a1",
+    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr114-2",
+    "surface": "Łukomskich",
+    "page": 1,
+    "page_id": "0334_a2",
+    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+    "line": 12,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 8,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0402_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0402_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0403_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a2-L1_03.jpg",
+    "line": 12,
+    "doc_line": 8
+   },
+   {
+    "uid": "app53170koningr115-5",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 25,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-5",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 25,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-6",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 28,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr115-6",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 29,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-6",
+    "surface": "Łukomskim",
+    "page": 1,
+    "page_id": "0187_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
+    "line": 29,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-7",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0226_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+    "line": 34,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-8",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0242_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0242_a1-L8_02.jpg",
+    "line": 41,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr115-9",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0245_a2",
+    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
+    "line": 45,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 9,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0656_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0656_a1-L1_03.jpg",
+    "line": 12,
+    "doc_line": 8
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0656_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0656_a1-L1_03.jpg",
+    "line": 12,
+    "doc_line": 8
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 14,
+    "page_id": "0661_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
+    "line": 47,
+    "doc_line": 32
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 14,
+    "page_id": "0661_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
+    "line": 47,
+    "doc_line": 32
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 14,
+    "page_id": "0661_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
+    "line": 47,
+    "doc_line": 32
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiej",
+    "page": 19,
+    "page_id": "0664_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+    "line": 62,
+    "doc_line": 42
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiej",
+    "page": 19,
+    "page_id": "0664_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+    "line": 62,
+    "doc_line": 42
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 19,
+    "page_id": "0664_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+    "line": 62,
+    "doc_line": 42
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 22,
+    "page_id": "0665_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
+    "line": 72,
+    "doc_line": 49
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 23,
+    "page_id": "0666_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
+    "line": 75,
+    "doc_line": 51
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomską",
+    "page": 25,
+    "page_id": "0667_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
+    "line": 80,
+    "doc_line": 54
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 28,
+    "page_id": "0668_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0668_a2-L1_28.jpg",
+    "line": 89,
+    "doc_line": 60
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiego",
+    "page": 29,
+    "page_id": "0669_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0669_a1-L1_29.jpg",
+    "line": 93,
+    "doc_line": 63
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 29,
+    "page_id": "0669_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0669_a1-L1_29.jpg",
+    "line": 93,
+    "doc_line": 63
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskim",
+    "page": 30,
+    "page_id": "0669_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0669_a2-L1_30.jpg",
+    "line": 96,
+    "doc_line": 65
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiemu",
+    "page": 30,
+    "page_id": "0669_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0669_a2-L1_30.jpg",
+    "line": 96,
+    "doc_line": 65
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiego",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskich",
+    "page": 35,
+    "page_id": "0672_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
+    "line": 111,
+    "doc_line": 75
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 52,
+    "page_id": "0680_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
+    "line": 162,
+    "doc_line": 109
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiemi",
+    "page": 61,
+    "page_id": "0685_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+    "line": 190,
+    "doc_line": 128
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskim",
+    "page": 64,
+    "page_id": "0686_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0686_a2-L1_64.jpg",
+    "line": 198,
+    "doc_line": 133
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 65,
+    "page_id": "0687_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a1-L1_65.jpg",
+    "line": 202,
+    "doc_line": 136
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 66,
+    "page_id": "0687_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
+    "line": 204,
+    "doc_line": 137
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 66,
+    "page_id": "0687_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
+    "line": 204,
+    "doc_line": 137
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 67,
+    "page_id": "0688_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
+    "line": 207,
+    "doc_line": 139
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 68,
+    "page_id": "0688_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
+    "line": 210,
+    "doc_line": 141
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 68,
+    "page_id": "0688_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
+    "line": 210,
+    "doc_line": 141
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 68,
+    "page_id": "0688_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
+    "line": 210,
+    "doc_line": 141
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskich",
+    "page": 69,
+    "page_id": "0689_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
+    "line": 213,
+    "doc_line": 143
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 69,
+    "page_id": "0689_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
+    "line": 213,
+    "doc_line": 143
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 70,
+    "page_id": "0689_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",
+    "line": 216,
+    "doc_line": 145
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 72,
+    "page_id": "0690_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
+    "line": 222,
+    "doc_line": 149
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskim",
+    "page": 73,
+    "page_id": "0691_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0691_a1-L1_73.jpg",
+    "line": 225,
+    "doc_line": 151
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomskiemu",
+    "page": 74,
+    "page_id": "0691_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0691_a2-L1_74.jpg",
+    "line": 228,
+    "doc_line": 153
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 75,
+    "page_id": "0692_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+    "line": 231,
+    "doc_line": 155
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 75,
+    "page_id": "0692_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
+    "line": 231,
+    "doc_line": 155
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 88,
+    "page_id": "0698_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0698_a2-L1_88.jpg",
+    "line": 270,
+    "doc_line": 181
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 88,
+    "page_id": "0698_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0698_a2-L1_88.jpg",
+    "line": 270,
+    "doc_line": 181
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukom",
+    "page": 94,
+    "page_id": "0701_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0701_a2-L1_94.jpg",
+    "line": 328,
+    "doc_line": 233
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Łukomski",
+    "page": 94,
+    "page_id": "0701_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0701_a2-L1_94.jpg",
+    "line": 328,
+    "doc_line": 233
+   },
+   {
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0498_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+    "line": 13,
+    "doc_line": 9
+   },
+   {
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0498_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+    "line": 13,
+    "doc_line": 9
+   },
+   {
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "0498_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+    "line": 13,
+    "doc_line": 9
+   },
+   {
+    "uid": "app53150kaliszgr424-1",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0323_a2",
+    "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-1",
+    "surface": "Łu[kom]",
+    "page": 1,
+    "page_id": "0182_b1",
+    "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Łukom",
+    "page": 2,
+    "page_id": "0092_a2",
+    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+    "line": 2979,
+    "doc_line": 36
+   }
+  ]
+ },
+ {
   "entity": "kontop",
   "display": "Konotop (Kontop)",
   "count": 72,
@@ -29393,672 +30117,6 @@
     "scan": "Oe_1_Bu_9454_0438_a-L232_04.jpg",
     "line": 16977,
     "doc_line": 85
-   }
-  ]
- },
- {
-  "entity": "lukom",
-  "display": "Łukom",
-  "count": 71,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app53150kaliszgr424-1",
-   "app53150kaliszgr425-1",
-   "app53170koningr114-1",
-   "app53170koningr114-2",
-   "app53170koningr115-2",
-   "app53170koningr115-5",
-   "app53170koningr115-6",
-   "app53170koningr115-7",
-   "app53170koningr115-8",
-   "app53170koningr115-9",
-   "app53170koningr145-1",
-   "app536017-1",
-   "app536036-1",
-   "app536036-2",
-   "app536040-1",
-   "app536045-1",
-   "oe1bu14525-23"
-  ],
-  "mentions": [
-   {
-    "uid": "app536017-1",
-    "surface": "Łukomski",
-    "page": 1,
-    "page_id": "0027_a2",
-    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536017-1",
-    "surface": "Łukomsky",
-    "page": 1,
-    "page_id": "0027_a2",
-    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536017-1",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0027_a2",
-    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-2",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0642_a2",
-    "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
-    "line": 9,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0372_a2",
-    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
-    "line": 6,
-    "doc_line": 3
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0373_a1",
-    "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
-    "line": 8,
-    "doc_line": 4
-   },
-   {
-    "uid": "app536040-1",
-    "surface": "Łukom",
-    "page": 4,
-    "page_id": "0373_a2",
-    "scan": "APP_53_6_0_40_0373_a2-L1_04.jpg",
-    "line": 10,
-    "doc_line": 5
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr114-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0298_a1",
-    "scan": "APP_53_17_0_Konin_Gr_114_0298_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr114-2",
-    "surface": "Łukomskich",
-    "page": 1,
-    "page_id": "0334_a2",
-    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
-    "line": 12,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 8,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0402_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0402_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0402_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0403_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a2-L1_03.jpg",
-    "line": 12,
-    "doc_line": 8
-   },
-   {
-    "uid": "app53170koningr115-5",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 25,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-5",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 25,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-6",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 28,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr115-6",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 29,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-6",
-    "surface": "Łukomskim",
-    "page": 1,
-    "page_id": "0187_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0187_a1-L6_01.jpg",
-    "line": 29,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-7",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0226_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
-    "line": 34,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-8",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0242_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0242_a1-L8_02.jpg",
-    "line": 41,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr115-9",
-    "surface": "Łukom",
-    "page": 1,
-    "page_id": "0245_a2",
-    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-    "line": 45,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 9,
-    "doc_line": 6
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0656_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0656_a1-L1_03.jpg",
-    "line": 12,
-    "doc_line": 8
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0656_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0656_a1-L1_03.jpg",
-    "line": 12,
-    "doc_line": 8
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 14,
-    "page_id": "0661_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
-    "line": 47,
-    "doc_line": 32
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 14,
-    "page_id": "0661_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
-    "line": 47,
-    "doc_line": 32
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 14,
-    "page_id": "0661_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0661_a2-L1_14.jpg",
-    "line": 47,
-    "doc_line": 32
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiej",
-    "page": 19,
-    "page_id": "0664_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
-    "line": 62,
-    "doc_line": 42
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiej",
-    "page": 19,
-    "page_id": "0664_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
-    "line": 62,
-    "doc_line": 42
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 19,
-    "page_id": "0664_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
-    "line": 62,
-    "doc_line": 42
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 22,
-    "page_id": "0665_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0665_a2-L1_22.jpg",
-    "line": 72,
-    "doc_line": 49
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 23,
-    "page_id": "0666_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0666_a1-L1_23.jpg",
-    "line": 75,
-    "doc_line": 51
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomską",
-    "page": 25,
-    "page_id": "0667_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0667_a1-L1_25.jpg",
-    "line": 80,
-    "doc_line": 54
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 28,
-    "page_id": "0668_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0668_a2-L1_28.jpg",
-    "line": 89,
-    "doc_line": 60
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiego",
-    "page": 29,
-    "page_id": "0669_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0669_a1-L1_29.jpg",
-    "line": 93,
-    "doc_line": 63
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 29,
-    "page_id": "0669_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0669_a1-L1_29.jpg",
-    "line": 93,
-    "doc_line": 63
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskim",
-    "page": 30,
-    "page_id": "0669_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0669_a2-L1_30.jpg",
-    "line": 96,
-    "doc_line": 65
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiemu",
-    "page": 30,
-    "page_id": "0669_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0669_a2-L1_30.jpg",
-    "line": 96,
-    "doc_line": 65
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiego",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskich",
-    "page": 35,
-    "page_id": "0672_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0672_a1-L1_35.jpg",
-    "line": 111,
-    "doc_line": 75
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 52,
-    "page_id": "0680_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0680_a2-L1_52.jpg",
-    "line": 162,
-    "doc_line": 109
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiemi",
-    "page": 61,
-    "page_id": "0685_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
-    "line": 190,
-    "doc_line": 128
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskim",
-    "page": 64,
-    "page_id": "0686_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0686_a2-L1_64.jpg",
-    "line": 198,
-    "doc_line": 133
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 65,
-    "page_id": "0687_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a1-L1_65.jpg",
-    "line": 202,
-    "doc_line": 136
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 66,
-    "page_id": "0687_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
-    "line": 204,
-    "doc_line": 137
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 66,
-    "page_id": "0687_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0687_a2-L1_66.jpg",
-    "line": 204,
-    "doc_line": 137
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 67,
-    "page_id": "0688_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a1-L1_67.jpg",
-    "line": 207,
-    "doc_line": 139
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 68,
-    "page_id": "0688_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
-    "line": 210,
-    "doc_line": 141
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 68,
-    "page_id": "0688_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
-    "line": 210,
-    "doc_line": 141
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 68,
-    "page_id": "0688_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0688_a2-L1_68.jpg",
-    "line": 210,
-    "doc_line": 141
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskich",
-    "page": 69,
-    "page_id": "0689_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
-    "line": 213,
-    "doc_line": 143
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 69,
-    "page_id": "0689_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a1-L1_69.jpg",
-    "line": 213,
-    "doc_line": 143
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 70,
-    "page_id": "0689_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",
-    "line": 216,
-    "doc_line": 145
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 72,
-    "page_id": "0690_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0690_a2-L1_72.jpg",
-    "line": 222,
-    "doc_line": 149
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskim",
-    "page": 73,
-    "page_id": "0691_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0691_a1-L1_73.jpg",
-    "line": 225,
-    "doc_line": 151
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomskiemu",
-    "page": 74,
-    "page_id": "0691_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0691_a2-L1_74.jpg",
-    "line": 228,
-    "doc_line": 153
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 75,
-    "page_id": "0692_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-    "line": 231,
-    "doc_line": 155
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 75,
-    "page_id": "0692_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0692_a1-L1_75.jpg",
-    "line": 231,
-    "doc_line": 155
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 88,
-    "page_id": "0698_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0698_a2-L1_88.jpg",
-    "line": 270,
-    "doc_line": 181
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 88,
-    "page_id": "0698_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0698_a2-L1_88.jpg",
-    "line": 270,
-    "doc_line": 181
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukom",
-    "page": 94,
-    "page_id": "0701_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0701_a2-L1_94.jpg",
-    "line": 328,
-    "doc_line": 233
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Łukomski",
-    "page": 94,
-    "page_id": "0701_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0701_a2-L1_94.jpg",
-    "line": 328,
-    "doc_line": 233
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0498_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
-    "line": 13,
-    "doc_line": 9
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0498_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
-    "line": 13,
-    "doc_line": 9
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Łukom",
-    "page": 3,
-    "page_id": "0498_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
-    "line": 13,
-    "doc_line": 9
-   },
-   {
-    "uid": "app53150kaliszgr424-1",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0323_a2",
-    "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Łukom",
-    "page": 2,
-    "page_id": "0092_a2",
-    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
-    "line": 2979,
-    "doc_line": 36
    }
   ]
  },

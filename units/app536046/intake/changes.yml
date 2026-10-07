@@ -1,0 +1,31 @@
+# What the check of APP 53/6/0/-/46 against the microfilm changes for anyone
+# who has written about this decree from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/6/0/-/46: the land court's decree of October 1777"
+changes:
+- importance: significant
+  what: "Who proves what was the other way round. It is Chełmski who lays down the three searches and proves by them that the act was NOT in the records of its own province (\"in actis proprii Palatinatus non extasse probat\"). The English had Prusimski producing the acts, requisitioning three oblatas, and claiming they HAD been noted there."
+  was: "the Right Honourable Prusimski, having produced and brought forward certain acts ... and having likewise requisitioned three [oblatas] ... and [claiming] that the field acts likewise brought forward as alleged had been noted in the records of the proper palatinate; proves [this claim]"
+  now: "Although the Right Honourable Chełmski ... claims from the Right Honourable Prusimski the production of a certain act ... and, laying before the court three searches for that same Boundary act ... proves that the said field act, whose production is claimed, was not in the records of its proper palatinate"
+- importance: significant
+  what: "What Prusimski lays down is a search for the decree, made at Brześć Kujawski on 10 October 1777 and entered at Konin on 16 October. The English had the decree itself \"inserted\" and filed on those days."
+  was: "[having] requisitioned through the Honourable Ludwik Łański in the name of his party, inserted the Commissorial Boundary Decree ... filed before the records of the Brest [Kuyavia] Municipal Court on the 10th day of the [aforesaid?] month of October"
+  now: "[lays down] a search, made through the Honourable Ludwik [uncertain: Łański] in the name of the party concerned, for the Commissorial Boundary Decree ... a search made before the records of the Municipal Court of Brest in Kuyavia on the 10th day of the present month of October"
+- importance: significant
+  what: "This decree is why the boundary decree stands in the Konin book (Konin Gr.145): the land court orders Prusimski to enter it at Konin, in its own province, within four weeks. The first of Chełmski's three searches, at Kalisz on 23 November 1776, is Kalisz Gr.424."
+  was: "(not noted)"
+  now: "units/app536046/about.md"
+- importance: fact
+  what: "The entry is in two places: it begins on leaf 182 verso and ends at the foot of leaf 182 recto, where the clerk sent the reader (\"sub nro 15\"). The part your file heads \"[182v] N. 16to\" is the next entry, no. 17, on leaf 183 recto. It has no English and a very doubtful Latin, and is not built."
+  was: "[182v], [182], [182v]"
+  now: "leaf 182 verso, then the foot of leaf 182 recto; entry no. 17 left out"
+- importance: fact
+  what: "The opening is the set formula of a decree: the court, \"deciding the term of the plaintiff party brought before it\". Prusimski is \"cited, in person\"."
+  was: "as Defendant, personally appearing — the Court having heard the parties judicially and the term having been called — a Decree is issued to the Plaintiff's side"
+  now: "cited, in person — the Court, deciding the term of the Plaintiff party brought before it, the controversies having been heard"
+- importance: fact
+  what: "Still in doubt on the film: two words after \"Licet\"; the surname of Ludwik (Łański?); a word before \"erronee extraditam\" (the date wrongly given out?); and whether the search at Konin is of the 28th or the 20th of October."
+  was: "(ten places marked)"
+  now: "units/app536046/notes.md"
