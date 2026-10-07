@@ -7,12 +7,30 @@
 {% assign maxc = 0 %}
 {% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
 
+{%- comment -%}
+  The edition runs from 1589, but before 1794 only a few years have anything. From 1794 on every year
+  is a row; before it a year is a row only if it has documents or an event, and a mark stands where
+  years are passed over.
+{%- endcomment -%}
+{% assign evyears = ',' %}
+{% for e in site.data.timeline %}{% assign ey = e.date | slice: 0, 4 %}{% assign evyears = evyears | append: ey | append: ',' %}{% endfor %}
+{% assign prev = 0 %}
+
 <div class="timeline">
-  {% for year in (1794..1832) %}
+  {% for year in (1589..1832) %}
     {% assign ys = year | append: '' %}
     {% assign yrec = site.data.stats.years | where: "year", ys | first %}
     {% assign count = 0 %}
     {% if yrec %}{% assign count = yrec.count %}{% endif %}
+    {% assign shown = true %}
+    {% if year < 1794 and count == 0 %}
+      {% assign key = ',' | append: ys | append: ',' %}
+      {% unless evyears contains key %}{% assign shown = false %}{% endunless %}
+    {% endif %}
+    {% if shown %}
+    {% assign step = year | minus: prev %}
+    {% if prev > 0 and step > 1 %}<div class="tl-skip" aria-hidden="true">&#8942;</div>{% endif %}
+    {% assign prev = year %}
 
     <div class="tl-year{% if count == 0 %} tl-quiet{% endif %}">
       <div class="tl-label">
@@ -63,6 +81,7 @@
         {% endfor %}
       </div>
     </div>
+    {% endif %}
   {% endfor %}
 </div>
 
@@ -74,6 +93,7 @@
   padding: .55rem 0; border-top: 1px solid var(--rule);
 }
 .tl-quiet { opacity: .62; }
+.tl-skip { text-align: left; padding: .1rem 0 .1rem 1.2rem; color: var(--ink-faint); border-top: 1px solid var(--rule); font-size: 1rem; line-height: 1.2; }
 .tl-label { font-family: var(--sans); font-weight: 600; font-size: .9rem; padding-top: .1rem; }
 .tl-label a { text-decoration: none; }
 .tl-label a:hover { text-decoration: underline; }

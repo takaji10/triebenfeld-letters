@@ -22,25 +22,373 @@
 #   refs  : optional, the documents the event rests on, as "<holding>/<number>";
 #           shown as links under the event.
 
-- date: 1775-09-13
-  title: A commission fixes the boundary between Trąbczyn and Łukomia
+# The Prusimski era, 1589 to 1788 (added 2026-10-07): one entry per matter, not per document, each resting on
+# the court-book holdings named in refs. Years before 1794 are shown on the page only where they have
+# documents or an event (site/_includes/timeline.html).
+
+- date: 1589-06-12
+  title: "The heir of Trąbczyn sues his neighbour at Łukom over a flooded wood"
   note: >-
-    A commission appointed by the Polish parliament meets in the forest on the disputed ground
-    between Antoni Prusimski's estate of Trąbczyn and the Chełmski brothers' estate of Łukomia.
-    It walks the boundary each side claims, finds Prusimski's line the better and has new
-    boundary mounds raised along it. The decree is entered in the court records at Brześć
-    Kujawski on 23 September 1776.
+    Albertus Trąmpczyński Otha, of Trąbczyn, charges Thomas Łukomski before the land court at Konin
+    with building a pond at Łukom that flooded woodland and meadow of Trąbczyn, Nowa Wieś and Osiny.
+    The court orders an inspection of the place. It is the earliest document of the quarrel between
+    the two estates, which later owners carried on for two hundred years.
   kind: estate
-  source: "decree of the boundary commission (court book of Konin, 1776)"
-  title_de: Eine Kommission legt die Grenze zwischen Trąbczyn und Łukomia fest
+  source: "land court of Konin, entry of 1589"
+  title_de: "Der Erbherr von Trąbczyn verklagt seinen Nachbarn in Łukom wegen eines überschwemmten Waldes"
   note_de: >-
-    Eine vom polnischen Reichstag eingesetzte Kommission tritt im Wald auf dem strittigen Grund
-    zwischen Antoni Prusimskis Gut Trąbczyn und dem Gut Łukomia der Brüder Chełmski zusammen.
-    Sie begeht die Grenze, die jede Seite beansprucht, erkennt Prusimskis Linie als die bessere
-    an und lässt entlang ihr neue Grenzhügel aufwerfen. Das Dekret wird am 23. September 1776
-    in die Gerichtsakten von Brześć Kujawski eingetragen.
-  source_de: "Dekret der Grenzkommission (Gerichtsbuch von Konin, 1776)"
-  refs: ["app53170koningr145/1"]
+    Albertus Trąmpczyński Otha von Trąbczyn wirft Thomas Łukomski vor dem Landgericht in Konin vor, in
+    Łukom einen Teich angelegt zu haben, der Wald und Wiesen von Trąbczyn, Nowa Wieś und Osiny
+    überschwemmt habe. Das Gericht ordnet eine Besichtigung des Ortes an. Es ist das früheste Dokument
+    des Streits zwischen den beiden Gütern, den spätere Besitzer zweihundert Jahre lang fortführten.
+  source_de: "Landgericht Konin, Eintrag von 1589"
+  refs:
+    - app536017/1
+
+- date: 1644
+  title: "Boundary marks cut in the Łukom wood"
+  note: >-
+    Jerzy Chełmski, now owner of Łukom, charges the Trąmpczyński brothers of Trąbczyn with sending
+    their subjects into his wood to cut about eighty boundary marks into trees, so as to take a large
+    part of his ground, and with felling about a hundred building trees. They do not appear, and the
+    land court at Konin condemns them by default. From here on the quarrel is about where the boundary
+    runs.
+  kind: estate
+  source: "land court of Konin, two judgments by default of 1644"
+  title_de: "Grenzzeichen im Wald von Łukom"
+  note_de: >-
+    Jerzy Chełmski, nun Besitzer von Łukom, wirft den Brüdern Trąmpczyński von Trąbczyn vor, sie
+    hätten ihre Untertanen in seinen Wald geschickt und etwa achtzig Grenzzeichen in Bäume hauen
+    lassen, um einen großen Teil seines Grundes an sich zu ziehen, und etwa hundert Bauhölzer fällen
+    lassen. Sie erscheinen nicht, und das Landgericht in Konin verurteilt sie in Abwesenheit. Von nun
+    an geht der Streit darum, wo die Grenze verläuft.
+  source_de: "Landgericht Konin, zwei Versäumnisurteile von 1644"
+  refs:
+    - app536036/1
+    - app536036/2
+
+- date: 1728-01-26
+  title: "The Chełmskis sue Krzysztof Prusimski; a commissioner is sent to the ground"
+  note: >-
+    The Prusimski family now holds Trąbczyn. Franciszek and Józef Chełmski of Łukom charge Krzysztof
+    Prusimski, his son Antoni and their men with burning shingles and a hut on their ground, seizing
+    four oxen in an armed raid and carting off hay. The land court at Konin sends a sworn commissioner
+    onto the disputed ground to examine old witnesses on oath about who owns it.
+  kind: estate
+  source: "land court of Konin, decree of 1728"
+  title_de: "Die Chełmski verklagen Krzysztof Prusimski; ein Kommissar wird auf den Grund geschickt"
+  note_de: >-
+    Trąbczyn gehört nun der Familie Prusimski. Franciszek und Józef Chełmski von Łukom werfen
+    Krzysztof Prusimski, seinem Sohn Antoni und ihren Leuten vor, auf ihrem Grund Schindeln und eine
+    Hütte verbrannt, bei einem bewaffneten Überfall vier Ochsen weggenommen und Heu abgefahren zu
+    haben. Das Landgericht in Konin schickt einen vereidigten Kommissar auf den strittigen Grund, der
+    alte Zeugen unter Eid darüber vernehmen soll, wem er gehört.
+  source_de: "Landgericht Konin, Dekret von 1728"
+  refs:
+    - app536040/1
+
+- date: 1754-07-09
+  title: "Paweł Prusimski is dead; his widow has Trąbczyn inspected"
+  note: >-
+    Katarzyna Prusimska, born Rozdrażewska, widow of Paweł Prusimski and holder of his estates for her
+    life, has the manor farm, the villages and the woods of Trąbczyn inspected and described. Two
+    noblemen state that the better pines and oaks have been felled. Paweł was the uncle of Antoni
+    Prusimski, who had the estate by 1767; the papers he left stayed with the widow's heirs, and
+    Antoni says in 1778 that he has sued for them and not yet received them.
+  kind: personal
+  source: "castle court of Konin, inspection entered 12 July 1754"
+  title_de: "Paweł Prusimski ist tot; seine Witwe lässt Trąbczyn besichtigen"
+  note_de: >-
+    Katarzyna Prusimska, geborene Rozdrażewska, Witwe von Paweł Prusimski und auf Lebenszeit Inhaberin
+    seiner Güter, lässt das Vorwerk, die Dörfer und die Wälder von Trąbczyn besichtigen und
+    beschreiben. Zwei Adlige erklären, die besseren Kiefern und Eichen seien gefällt. Paweł war der
+    Onkel von Antoni Prusimski, der das Gut spätestens 1767 besaß; die Urkunden, die er hinterließ,
+    blieben bei den Erben der Witwe, und Antoni erklärt 1778, er habe auf ihre Herausgabe geklagt und
+    sie noch nicht erhalten.
+  source_de: "Burggericht Konin, Besichtigung, eingetragen am 12. Juli 1754"
+  refs:
+    - app53170koningr136/1
+    - app53170koningr117/3
+
+- date: 1763
+  title: "A case that cannot be judged until the boundary is fixed"
+  note: >-
+    Stanisław Chełmski had seized potash that the widow Prusimska's burners were taking to Gdańsk. The
+    land court at Konin hears the witnesses and then suspends its judgment: the boundary between
+    Trąbczyn and Łukom is still before the Crown Tribunal, and only the boundary will show on whose
+    ground the potash was made.
+  kind: estate
+  source: "land court of Konin, decree of 1763"
+  title_de: "Eine Sache, die erst entschieden werden kann, wenn die Grenze feststeht"
+  note_de: >-
+    Stanisław Chełmski hatte Pottasche beschlagnahmen lassen, die die Sieder der Witwe Prusimska nach
+    Danzig brachten. Das Landgericht in Konin hört die Zeugen und setzt dann sein Urteil aus: Die
+    Grenze zwischen Trąbczyn und Łukom ist noch vor dem Krontribunal anhängig, und erst die Grenze
+    wird zeigen, auf wessen Grund die Pottasche hergestellt wurde.
+  source_de: "Landgericht Konin, Dekret von 1763"
+  refs:
+    - app536045/1
+
+- date: 1767-04-22
+  title: "Antoni Prusimski, heir of Trąbczyn: his Olęder settlers are flooded"
+  note: >-
+    Antoni Prusimski of Kolno appears as heir of Trąbczyn. His court messenger reports that an
+    embankment newly raised by the people of Łukom, on their lord's order, has backed up the water and
+    flooded the Olęder settlers in the Trąbczyn woods, with their fields and meadows. A second report
+    follows in August.
+  kind: estate
+  source: "castle court of Konin, two reports of 1767"
+  title_de: "Antoni Prusimski, Erbherr von Trąbczyn: seine Olęder werden überschwemmt"
+  note_de: >-
+    Antoni Prusimski von Kolno tritt als Erbherr von Trąbczyn auf. Sein Gerichtsbote berichtet, ein
+    von den Leuten von Łukom auf Befehl ihres Herrn neu aufgeworfener Damm habe das Wasser gestaut und
+    die Olęder in den Wäldern von Trąbczyn samt ihren Feldern und Wiesen überschwemmt. Ein zweiter
+    Bericht folgt im August.
+  source_de: "Burggericht Konin, zwei Berichte von 1767"
+  refs:
+    - app53170koningr114/1
+    - app53170koningr114/2
+
+- date: 1771-11-04
+  title: "Chełmski is put in possession of the Lusnia wood and its settlers"
+  note: >-
+    Stanisław Chełmski has won before the Crown Tribunal: three decrees of 1766 to 1768 and a
+    condemnation of Antoni Prusimski in 1770. A commissioner hands over to him the pine wood called
+    Lusnia as belonging to Łukom from of old, with the Olęder settlement lately founded in it: a
+    tavern and twelve settlers, who are ordered to obey him. These are the settlers whom the Tribunal
+    gave back to Prusimski in 1782, all but one.
+  kind: estate
+  source: "castle court of Kalisz, delivery of possession entered 9 November 1771"
+  title_de: "Chełmski wird in den Besitz des Waldes Lusnia und seiner Siedler eingewiesen"
+  note_de: >-
+    Stanisław Chełmski hat vor dem Krontribunal gewonnen: drei Dekrete von 1766 bis 1768 und eine
+    Verurteilung Antoni Prusimskis von 1770. Ein Kommissar übergibt ihm den Kiefernwald Lusnia als von
+    alters her zu Łukom gehörig, samt der kürzlich darin angelegten Olęder-Siedlung: einem Krug und
+    zwölf Siedlern, denen Gehorsam ihm gegenüber befohlen wird. Es sind die Siedler, die das Tribunal
+    1782 Prusimski zurückgab, bis auf einen.
+  source_de: "Burggericht Kalisz, Besitzeinweisung, eingetragen am 9. November 1771"
+  refs:
+    - app53150kaliszgr414/1
+    - app53170koningr115/4
+
+- date: 1771-12-20
+  title: "A broken dam and shots at the Lusnia tavern"
+  note: >-
+    Six weeks after the delivery, Chełmski's court messenger lays weapons before the office at Konin
+    and reports what he saw: the embankment at the Łukom pond dug through and the water let out with
+    the fish, loopholes cut in the walls of the Lusnia tavern and its windows shot out. He says more
+    than thirty Trąbczyn subjects did it in Prusimski's presence. Chełmski protests again in 1773 that
+    Prusimski's steward and servants rode upon the tavern and the settlers.
+  kind: estate
+  source: "castle court of Konin, reports and a protest of 1771 to 1773"
+  title_de: "Ein durchstochener Damm und Schüsse auf den Krug von Lusnia"
+  note_de: >-
+    Sechs Wochen nach der Einweisung legt Chełmskis Gerichtsbote dem Amt in Konin Waffen vor und
+    berichtet, was er gesehen hat: den Damm am Teich von Łukom durchstochen und das Wasser samt den
+    Fischen abgelassen, Schießscharten in den Wänden des Krugs von Lusnia und dessen Fenster
+    zerschossen. Er sagt, mehr als dreißig Untertanen von Trąbczyn hätten es in Prusimskis Gegenwart
+    getan. Chełmski protestiert 1773 erneut, Prusimskis Verwalter und Diener seien über den Krug und
+    die Siedler hergefallen.
+  source_de: "Burggericht Konin, Berichte und ein Protest von 1771 bis 1773"
+  refs:
+    - app53170koningr115/5
+    - app53170koningr115/6
+    - app53170koningr115/9
+    - app53170koningr115/10
+
+- date: 1775-09-13
+  title: "A commission of the parliament sits on the boundary and ends in two decrees"
+  note: >-
+    A commission appointed by the Polish parliament to end the dispute meets in the forest between
+    Trąbczyn and Łukomia. It splits. The commissioners under Ludwik Dąmbski, voivode of Brześć
+    Kujawski, find Antoni Prusimski's boundary line the better, have mounds raised along it and
+    sentence Stanisław Chełmski to the tower and to damages. The commissioners Chełmski had brought
+    give a decree of their own for his line. Each side protests against the other's decree, and
+    nothing is settled.
+  kind: estate
+  source: "decree of the boundary commission (court book of Konin, 1776); register of the castle court of Konin"
+  title_de: "Eine Kommission des Reichstags tagt an der Grenze und endet in zwei Dekreten"
+  note_de: >-
+    Eine vom polnischen Reichstag eingesetzte Kommission, die den Streit beenden soll, tritt im Wald
+    zwischen Trąbczyn und Łukomia zusammen. Sie spaltet sich. Die Kommissare unter Ludwik Dąmbski,
+    Woiwode von Brześć Kujawski, erkennen Antoni Prusimskis Grenzlinie als die bessere an, lassen
+    entlang ihr Grenzhügel aufwerfen und verurteilen Stanisław Chełmski zu Turmhaft und Schadenersatz.
+    Die Kommissare, die Chełmski beigezogen hatte, erlassen ein eigenes Dekret für seine Linie. Jede
+    Seite protestiert gegen das Dekret der anderen, und nichts ist entschieden.
+  source_de: "Dekret der Grenzkommission (Gerichtsbuch von Konin, 1776); Register des Burggerichts Konin"
+  refs:
+    - app53170koningr145/1
+    - app53170koningr116/3
+    - app53170koningr116/7
+    - app53170koningr117/4
+
+- date: 1777-10-20
+  title: "Prusimski is ordered to enter his boundary decree at Konin"
+  note: >-
+    Prusimski had entered the decree given for him at Brześć Kujawski, in another province. Chełmski
+    shows by three searches that it is not in the records of its own province. The land court at Konin
+    orders Prusimski to bring it to the castle records there within four weeks, on pain of outlawry.
+    That is the likely reason the decree survives in the Konin book.
+  kind: estate
+  source: "land court of Konin, decree of the sitting that opened on 20 October 1777"
+  title_de: "Prusimski wird verpflichtet, sein Grenzdekret in Konin einzutragen"
+  note_de: >-
+    Prusimski hatte das für ihn ergangene Dekret in Brześć Kujawski eingetragen, in einer anderen
+    Woiwodschaft. Chełmski weist durch drei Nachsuchen nach, dass es nicht in den Akten der eigenen
+    Woiwodschaft steht. Das Landgericht in Konin verpflichtet Prusimski, es binnen vier Wochen zu den
+    dortigen Burgakten zu bringen, bei Strafe der Acht. Das ist wahrscheinlich der Grund, weshalb das
+    Dekret im Koniner Buch erhalten ist.
+  source_de: "Landgericht Konin, Dekret der Sitzung, die am 20. Oktober 1777 begann"
+  refs:
+    - app536046/1
+    - app53150kaliszgr424/1
+    - app53170koningr116/12
+
+- date: 1778-03-30
+  title: "A second front: the debt Chełmski bought from the merchant Tracholz"
+  note: >-
+    Chełmski had taken over in 1768 a merchant's claim against Antoni Prusimski's late uncle Paweł,
+    from a sale of Trąbczyn timber, and sues Antoni on it. In October 1777 the land court fixes a
+    hearing on the ground of Trąbczyn. In March and April 1778 Prusimski protests and has Chełmski and
+    the judges cited before the Crown Tribunal: the papers he needs are with the heirs of his uncle's
+    widow, and it was the merchant who owed the uncle. The suit is still running in 1786.
+  kind: estate
+  source: "land court and castle court of Konin, 1777 to 1786"
+  title_de: "Eine zweite Front: die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hat"
+  note_de: >-
+    Chełmski hatte 1768 die Forderung eines Kaufmanns gegen Antoni Prusimskis verstorbenen Onkel Paweł
+    übernommen, aus einem Verkauf von Trąbczyner Holz, und verklagt Antoni daraus. Im Oktober 1777
+    setzt das Landgericht einen Ortstermin auf dem Grund von Trąbczyn an. Im März und April 1778
+    protestiert Prusimski und lässt Chełmski und die Richter vor das Krontribunal laden: Die Urkunden,
+    die er braucht, liegen bei den Erben der Witwe seines Onkels, und der Kaufmann sei dem Onkel
+    schuldig gewesen. Der Prozess läuft noch 1786.
+  source_de: "Landgericht und Burggericht Konin, 1777 bis 1786"
+  refs:
+    - app536046/2
+    - app53170koningr117/1
+    - app53170koningr117/3
+    - app53170koningr117/7
+    - app53170koningr117/8
+    - app53170koningr120/2
+
+- date: 1782-01-23
+  title: "The Crown Tribunal decides between the two decrees"
+  note: >-
+    A law of 1776 had sent causes left with two contradictory commission decrees to the Crown
+    Tribunal. Its decree of 23 January 1782 fixes the corner of Trąbczyn, Łukom and Drzewce and the
+    end point at Biskupice as the commissioners on Prusimski's side had them, and draws a straight
+    line between the two on the map. The Olęder settlers Chełmski had taken are to go back to
+    Prusimski, all but one, Martin Hunt; that is done on 6 March.
+  kind: estate
+  source: "the Tribunal's decree, as recited in the boundary decree of 1782 (court book of Konin)"
+  title_de: "Das Krontribunal entscheidet zwischen den beiden Dekreten"
+  note_de: >-
+    Ein Gesetz von 1776 hatte Sachen, die mit zwei einander widersprechenden Kommissionsdekreten
+    liegen geblieben waren, an das Krontribunal verwiesen. Sein Dekret vom 23. Januar 1782 bestimmt
+    den Eckpunkt von Trąbczyn, Łukom und Drzewce und den Endpunkt bei Biskupice so, wie die Kommissare
+    der Seite Prusimskis sie hatten, und zieht zwischen beiden auf der Karte eine gerade Linie. Die
+    Olęder, die Chełmski an sich genommen hatte, sollen an Prusimski zurückgehen, bis auf einen,
+    Martin Hunt; das geschieht am 6. März.
+  source_de: "Dekret des Tribunals, wiedergegeben im Grenzdekret von 1782 (Gerichtsbuch von Konin)"
+  refs:
+    - app53170koningr153/1
+    - app53170koningr118/11
+
+- date: 1782-05-27
+  title: "The first attempt to mark the line breaks down"
+  note: >-
+    Two boundary chamberlains come to the ground, one engaged by each side. The surveyor draws the
+    Tribunal's line, and Hunt's holding turns out not to lie on Chełmski's side of it. The
+    chamberlains disagree about what to do. Chełmski in person pushes away the man with the surveyor's
+    chain and kicks the chain off the line; the chamberlain engaged by Prusimski, Jakub Górski, stops
+    and asks the War Department for soldiers.
+  kind: estate
+  source: "castle court of Konin, protests of June 1782; the boundary decree of 1782"
+  title_de: "Der erste Versuch, die Linie zu bezeichnen, scheitert"
+  note_de: >-
+    Zwei Grenzkämmerer kommen auf den Grund, jeder von einer Seite beigezogen. Der Geometer zieht die
+    Linie des Tribunals, und es zeigt sich, dass Hunts Stelle nicht auf Chełmskis Seite liegt. Die
+    Kämmerer sind uneins, was zu tun ist. Chełmski selbst stößt den Mann mit der Messkette weg und
+    tritt die Kette von der Linie; der von Prusimski beigezogene Kämmerer Jakub Górski bricht ab und
+    bittet das Kriegsdepartement um Soldaten.
+  source_de: "Burggericht Konin, Proteste vom Juni 1782; das Grenzdekret von 1782"
+  refs:
+    - app53170koningr118/17
+    - app53170koningr118/19
+    - app53170koningr153/1
+
+- date: 1782-11-28
+  end: 1782-12-03
+  title: "The boundary of Trąbczyn and Łukom is marked: forty-one mounds"
+  note: >-
+    On 17 October 1782 the Tribunal rules that its line cannot be changed, quashes the acts of both
+    chamberlains and sentences Górski to a week in the tower for trying to correct it. The boundary
+    chamberlain of Gniezno, Franciszek Ksawery Jasiński, then carries it out: forty-one mounds are
+    thrown up along the line and thirty-one stakes driven into the marsh, the older mounds of both
+    sides are levelled, and Martin Hunt is delivered to Prusimski. The boundary dispute of two
+    centuries is decided.
+  kind: estate
+  source: "decree of the boundary chamberlain of Gniezno (court book of Konin, 1782)"
+  title_de: "Die Grenze zwischen Trąbczyn und Łukom wird bezeichnet: einundvierzig Hügel"
+  note_de: >-
+    Am 17. Oktober 1782 entscheidet das Tribunal, dass seine Linie nicht geändert werden kann, hebt
+    die Akten beider Kämmerer auf und verurteilt Górski zu einer Woche Turmhaft, weil er sie
+    verbessern wollte. Der Grenzkämmerer von Gnesen, Franciszek Ksawery Jasiński, vollzieht es darauf:
+    Einundvierzig Hügel werden entlang der Linie aufgeworfen und einunddreißig Pfähle in den Sumpf
+    geschlagen, die älteren Hügel beider Seiten werden geschleift, und Martin Hunt wird Prusimski
+    übergeben. Der Grenzstreit zweier Jahrhunderte ist entschieden.
+  source_de: "Dekret des Grenzkämmerers von Gnesen (Gerichtsbuch von Konin, 1782)"
+  refs:
+    - app53170koningr153/1
+    - app53170koningr153/2
+    - app53170koningr118/28
+    - app53170koningr118/29
+
+- date: 1783-03-10
+  title: "The line is drawn, the quarrel goes on"
+  note: >-
+    On the day the chamberlain's court opened, Chełmski's people felled 221 pines on Trąbczyn's side
+    of the new line; Prusimski's steward protests. In 1783 Chełmski has Prusimski and his steward
+    cited before the castle court of Kalisz for seizing oxen, carts and axes in the wood, and
+    Prusimski cites him in turn. In the autumn the land court finds that men of Prusimski's household
+    beat one of Chełmski's settlers and puts Prusimski to an oath. The boundary is fixed; the
+    neighbours are not reconciled.
+  kind: estate
+  source: "castle court and land court of Konin, 1782 and 1783"
+  title_de: "Die Linie ist gezogen, der Streit geht weiter"
+  note_de: >-
+    An dem Tag, an dem das Gericht des Kämmerers eröffnet wurde, fällten Chełmskis Leute 221 Kiefern
+    auf der Trąbczyner Seite der neuen Linie; Prusimskis Verwalter protestiert. 1783 lässt Chełmski
+    Prusimski und dessen Verwalter vor das Burggericht Kalisz laden, weil sie im Wald Ochsen, Wagen
+    und Äxte weggenommen hätten, und Prusimski lädt ihn seinerseits. Im Herbst stellt das Landgericht
+    fest, dass Leute vom Hof Prusimskis einen Siedler Chełmskis geschlagen haben, und legt Prusimski
+    einen Eid auf. Die Grenze steht fest; versöhnt sind die Nachbarn nicht.
+  source_de: "Burggericht und Landgericht Konin, 1782 und 1783"
+  refs:
+    - app53170koningr118/26
+    - app53170koningr118/27
+    - app53170koningr119/1
+    - app53170koningr119/4
+    - app536047/1
+
+- date: 1788-06-09
+  title: "The last entry: a cart stopped in the Trąbczyn wood"
+  note: >-
+    Prusimski's forest keeper stops a peasant of Łomowo, one of Chełmski's villages, carting a felled
+    building tree out of the pine wood of Trąbczyn; his cart, two oxen, a cow and a mare are shown to
+    the office at Konin and given back. It is the last document of the Prusimski years in the edition.
+    Six years later the estates were confiscated.
+  kind: estate
+  source: "castle court of Konin, entry of 9 June 1788"
+  title_de: "Der letzte Eintrag: ein Wagen, im Wald von Trąbczyn angehalten"
+  note_de: >-
+    Prusimskis Waldwärter hält einen Bauern aus Łomowo an, einem Dorf Chełmskis, der einen gefällten
+    Baustamm aus dem Kiefernwald von Trąbczyn fährt; sein Wagen, zwei Ochsen, eine Kuh und eine Stute
+    werden dem Amt in Konin vorgezeigt und zurückgegeben. Es ist das letzte Dokument der
+    Prusimski-Jahre in der Edition. Sechs Jahre später wurden die Güter eingezogen.
+  source_de: "Burggericht Konin, Eintrag vom 9. Juni 1788"
+  refs:
+    - app53170koningr121/1
 
 - date: 1794
   title: The Kościuszko uprising; the Prusimski estates are confiscated

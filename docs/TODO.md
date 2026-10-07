@@ -264,6 +264,8 @@ Your review, in this order:
       lists them).
 - [x] **Published at your word on 2026-10-07**: the twenty-one Prusimski-era
       holdings are on the live site.
+- [x] **The timeline** takes in the Prusimski era (2026-10-07): sixteen
+      events, 1589 to 1788, each linked to its documents.
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
       only brought up to the facts for now.

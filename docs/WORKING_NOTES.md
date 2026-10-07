@@ -491,6 +491,13 @@ Where the rest is:
 - **A spot-sheet answer can carry leftover text.** The sheet keeps what was
   typed under "Something else" after another button is picked. Read the
   button as the answer, and ask about the leftover.
+- **Look at the page, not only at the data, when an era is added.** The
+  timeline page listed the years 1794 to 1832 in its template, so the
+  entry written for the commission of 1775 was in the data and never on
+  the page, through a whole run and a publish; and that entry still said
+  what the later holdings had disproved. When holdings change what is
+  known, the timeline, the story page and the About page are read again
+  as a reader sees them.
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer
