@@ -1,0 +1,49 @@
+# What the check of APP 53/17/0/-/Konin Gr.119 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.119: eight register entries, 1783 and 1784"
+changes:
+- importance: significant
+  what: "The search of 15 September 1784 (leaf 685): a line was passed over. The office reviewed its register \"from the Thursday last past\" and certifies the NON-EXISTENCE of the report of citation. Your text and English had it certifying \"the made relatio\"."
+  was: "Reviso Protocollo pro factae Relationis publicam facis~ fide[m/n?]"
+  now: "Reviso Protocollo Relationum a Feria Quinta proxime praeterita. De inexistentia praefatae Relationis, publicam facit fidem"
+  english_was: "reviewing the Protocol, makes public certification of the made relatio"
+  english_now: "having reviewed the Protocol of Relationes from the Thursday last past, makes public certification of the non-existence of the aforesaid relatio"
+- importance: significant
+  what: "Chełmski's second citation of 10 March 1783 (leaf 63): a phrase was passed over after \"Łomowo\": the estate \"belongs to the plaintiff's hereditary principal estate of Łukom\". And the citation speaks to Prusimski as \"you\" (Te), not of the plaintiffs (Se)."
+  was: "Qui Se Inhaerendo Manifestantibus[?] factus sive faciendis Citant, Idque adviden~ et Audien~ Se paenis Respectu Bonorum Łomowo cum querra hominum"
+  now: "Qui Te Inhaerendo Manifestationibus factis sive faciendis Citant, Idque adviden~ et Audien~ Te paenis Respectu Bonorum Łomowo ad Principaliora Bona Łukom Sui Actt~ haereditt~ spectan~ cum querra hominum"
+  english_was: "in respect of the invasion of the estates of Łomowo with a hunting party"
+  english_now: "in respect of the invasion of the estate of Łomowo, which belongs to the plaintiff's hereditary principal estate of Łukom, with a hunting party"
+- importance: significant
+  what: "\"Arestum ... non praevenit\" in Prusimski's protest (leaf 304 verso) means that the arrest did not REACH the men: he can produce only Gregory and Thomas, and the arrest did not reach the others. And he offers to \"clear himself\" (Emundaturum), not to make amends. The same phrase is in the land court's decree, 53/6/0/-/47."
+  was: "Alios vero arestum non provenit ... quod Arestum praemissos Homines non prevenit Emandaturum"
+  now: "Alios vero arestum non praevenit ... quod Arestum praemissos Homines non praevenit Emundaturum"
+  english_was: "while as for the others, the arrest did not proceed ... and that he will make amends for the arrest of the aforementioned men not having proceeded"
+  english_now: "while the others the arrest did not reach ... and to clear himself that the arrest did not reach the aforementioned men"
+- importance: fact
+  what: "Chełmski's first citation (leaves 62 and 62 verso): what Maszewski is charged with taking is \"oxen, carts and axes\" (Boum Currus et Securium); the men under arrest are \"Laboriosis\", working men; the acts would be Prusimski's if done \"at your order\" (de mandato Tui); and the citation asks that \"the production of the men be ordered and an inquiry conducted\" (Statuitionem hominum demandari Scrutinium educendum)."
+  was: "Inva[s?]orem Bo[u?][m?] Currus et Securum ... cum Pab~sis ... de mandato Sui ... Statutionem hominum demandeoque[?] Simiti[?]nium educendum"
+  now: "Invasorem Boum Currus et Securium ... cum Laboriosis ... de mandato Tui ... Statuitionem hominum demandari Scrutinium educendum"
+  english_was: "carried out on his orders ... the stationing of men and the leading out of [Simitinium] to be sentenced"
+  english_now: "carried out on your orders ... the production of the men to be ordered and an inquiry to be conducted"
+- importance: fact
+  what: "The citation of 15 May 1783 (leaf 128): \"Leves\" is a verb. Prusimski asks that Chełmski LIFT from him the penalty of fourteen marks and that the process obtained against him in the register of penalties be quashed; your English had \"minor processes\". The treasury is \"Aerarium\"."
+  was: "Quatenus [T/S?]a Penam ... per Se Citt~ pro se Actt~ ad Erranium[?] ... Leves procescumque[?] [?]e[i?]per se Actt~"
+  now: "Quatenus Tu Penam ... per Te Citt~ pro se Actt~ ad Aerarium ... Leves processumque super se Actt~"
+  english_was: "insofar as that penalty of fourteen Polish marks, paid by the cited party upon the plaintiff ... and the minor processes against the plaintiff on that account ... be quashed"
+  english_now: "that you lift from the plaintiff the penalty of fourteen Polish marks, paid for the plaintiff ... and that the process obtained against the plaintiff on that account ... be quashed"
+- importance: fact
+  what: "Dates. On the pages: 18 March 1783 (the search and, under the same heading, Prusimski's citation), 22 May 1783, 15 September 1784. Inferred: the two reports on leaves 62 to 63, March 1783 (the citations are of 10 March; the next heading is of 18 March); the report on leaf 131, May 1783; Prusimski's protest on leaf 304 verso, October 1783: the land court's decree of that sitting (53/6/0/-/47) cites it, and leaf 316 is headed 3 November 1783."
+  was: "1783, 1784"
+  now: "see the dates on each document"
+- importance: fact
+  what: "Seven of your photographs show entries you did not transcribe: 144 (your note: Bronikowski and Prusimski), 320 (a receipt for the \"quarta\" paid from the royal estate of Smiłowice, brought in for Prusimski, with a text in Polish), 321, 348 (the Zakrzewskis cite Prusimski to a sitting on the ground at Trąbczyn, early 1784), 349, 680 (16 September 1784: Chełmski cites Skórzewski, Stadnicki, Prusimski, Kunegunda Gliszczyńska and others to the Tribunal) and 681 (a field decree between Biskupice, Gorzyce, Kotuchów, Łukom, Trąbczyn and others, brought in). None is built."
+  was: "(not transcribed)"
+  now: "(not built)"
+- importance: wording
+  what: "Smaller readings: \"peremptorie\"; \"Audien~\"; \"Evehendarum non nisi\"; \"Ministerialibus\"; \"Censeri\"; \"Praedioque ... Sella ... Scriba ... Die horna\"; \"injungi ... paritt~ ... responsurus\"; \"utrum Relationes Citationum ... Recognitae ... Easdem ... praeteriti ... Matuszkiewicz ... Recognitam ... Ideo de inexistentia Earundem ... fidem\"; \"Imieniem\"; \"proxime ... Qua ex Parte ... Generosorum ... essentiae ... praecedente\"; \"tenoris ... Raczyński ... Tuis ... Nris~ ... Compareas ... pariturus et\"; \"Eques succurrendo ... Etenim ... extiterit ... quod ... peracta ... videatur ... offert\"; \"Commisso ... Petiit Relationem edittae ... Tribunalis Regni ... exportatae utrum\"."
+  was: "see the list"
+  now: "see the list"

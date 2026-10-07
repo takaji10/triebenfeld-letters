@@ -790,7 +790,7 @@ people:
     match: "Simon"
     # In the decree of 1776 "Simon" is Simon Szaunski, who presented it at Brześć Kujawski;
     # in the Konin register of 1781-82 the feast of SS Simon and Jude and the messenger Simon Głabik.
-    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10]
+    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."

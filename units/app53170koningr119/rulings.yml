@@ -1,0 +1,85 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.119 (APP).
+#
+# Eight documents, one for each entry of the register
+# (docs/PRUSIMSKI_ERA_PLAN.md, "One document or many"). Which entry is which
+# is in intake/holding.py. Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+    "3": Konin
+    "4": Konin
+    "5": Konin
+    "6": Konin
+    "7": Konin
+    "8": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." directly above the entry, which the editor transcribed with it.
+  read:
+    "3": [1783, 3, 18, "day"]     # Feria Tertia post Dominicam Reminiscere ... 18va Mensis Martii 1783
+    "5": [1783, 5, 22, "day"]     # Feria Quinta post Dominicam Cantate ... Vigesima Secunda Mensis Maii 1783
+    "8": [1784, 9, 15, "day"]     # Feria Quarta post Festum Exaltationis Sanctae Crucis ... Decima Quinta Mensis Septembris 1784
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred:
+    "1": [1783, 3, null, "month", "The citation it reports is dated 10 March 1783, and the next heading of a sitting, on leaf 73, is of 18 March 1783. The heading of its own sitting is on a page not among the scans."]
+    "2": [1783, 3, null, "month", "The citation it reports is dated 10 March 1783, and the next heading of a sitting, on leaf 73, is of 18 March 1783. The heading of its own sitting is on a page not among the scans."]
+    "6": [1783, 5, null, "month", "Entered on leaf 131, three leaves after the heading of the sitting of 22 May 1783 (leaf 128); the heading of its own sitting is on a page not among the scans."]
+    "7": [1783, 10, null, "month", "Entered on leaf 304 verso, twelve leaves before the heading of the sitting of 3 November 1783 (leaf 316). The land court's decree of the sitting that opened on 20 October 1783 (APP 53/6/0/-/47) says that Prusimski entered this protest at the castle office of Konin while that court was sitting."]
+
+  # The date of the sitting the entry stands under, where the heading is not
+  # directly above it: [year, month, day, precision, basis].
+  sitting:
+    "4": [1783, 3, 18, "day", "The heading of the sitting, at the top of the same page: the Tuesday after Reminiscere Sunday, 18 March 1783."]
+  no_date: []
+
+documents:
+  # report: a court messenger's "relatio"; certification: the office's
+  # certificate of a search; protest: a "manifestatio".
+  doc_type:
+    "1": report
+    "2": report
+    "3": certification
+    "4": report
+    "5": report
+    "6": report
+    "7": protest
+    "8": certification
+
+  language:
+    "1": la
+    "2": la
+    "3": la
+    "4": la
+    "5": la
+    "6": la
+    "7": la
+    "8": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lukomia, trabczyn]
+    "2": [lukomia, trabczyn]
+    "3": [lukomia, trabczyn]
+    "4": [lukomia, trabczyn]
+    "5": [lukomia, trabczyn]
+    "6": [lukomia, trabczyn]
+    "7": [lukomia, trabczyn]
+    "8": [lukomia, trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0062_a2", "0063_a1", "0063_a2", "0073_a2", "0128_a2", "0131_a2", "0305_a1", "0685_a2"]
+
+damage:
+  letters: []

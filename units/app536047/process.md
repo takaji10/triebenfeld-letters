@@ -16,7 +16,7 @@ The entry is one document. It has no date of its own; it is dated to the year fr
 
 ### Translation
 
-The English is the editor's own translation and was not made again. It was changed in nine places where the text had been corrected. The editor's translator's notes, which discussed readings now settled, are left out.
+The English is the editor's own translation and was not made again. It was changed in ten places where the text had been corrected. The editor's translator's notes, which discussed readings now settled, are left out.
 
 ### Summary
 

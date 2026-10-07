@@ -1,0 +1,170 @@
+{
+ "letter_id": "5",
+ "seq_archival": 5,
+ "parent_letter": "",
+ "unit": "app53170koningr119",
+ "uid": "app53170koningr119-5",
+ "pad": "app53170koningr119-005",
+ "permalink": "/documents/app53170koningr119/5/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1783-05-22",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1783-05-22",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1783,
+ "month": 5,
+ "day": 22,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 23,
+ "line_end": 27,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio\nPersonaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse",
+ "text_reading": "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio\n\nPersonaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0128_a2",
+   "line_start": 25,
+   "line_end": 27,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio\nPersonaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse",
+   "transcription": "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio\nPersonaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse",
+   "reading": "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio\n\nPersonaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse",
+   "paragraphs": [
+    "Actum in Conin Feria Quinta post Dominicam Cantate proxima Die scilicet Vigesima Secunda Mensis Maii Anno Domini 1783tio",
+    "Ex Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Thaesaurarium Vschoven~ Relatio",
+    "Personaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Calissien~ Infrascripti editt~ tenoris sequentis Casimirus Nałęcz de Raczyno et Matoszyno Raczyński Majoris Poloniae Generalis [d?] Capitaneus Tibi Magnifico Stanislao Chełmski Thaesaurario Vschoven~ de Bonis Tuis ac Summis quibusvis pecuniariis generaliter omnibus habitis et haben~ mandamus Ut In Judiciis Nris~ Castren~ Calissien~ proxime in Castro Calissiensi Celebran~ personaliter ac perempto~ Compareas Ad Instantiam Illustris Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevicen~ Actt~ Qui Te Citt~ Idque pro Eo: Quatenus Tu Penam Quatuordecem Marcarum Polonicalium per Te Citt~ pro se Actt~ ad Aerarium Instigatorii Judicii Tribunalis Regni Petricovien~ exolutt~ a se Actt~ Leves processumque super se Actt~ Eo nomine ex Regestro Penalium obtentum Cassari et se Actt~ liberum [prae/pro]nuntiari Citationis sis pariturus et Judicialiter responsurus Datum in Castro Calissien~ Die Decima Quinta Mensis Maii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Curia Bonorum Villae Łukom super sella Atrii praesen~ Ephaebo Die hodierna Actum hornum praecedente posuisse et Notificatt~ reliquisse"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 26,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 26,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  },
+  {
+   "entity": "szepczynski",
+   "display": "Bartłomiej Szepczyński, court messenger",
+   "kind": "person",
+   "surface": "Szepczyński",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0128_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
+   "line": 27,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin on Thursday next after the Sunday Cantate, being 22 May 1783.\n\nOn behalf of His Honour Prusimski, Captain of Niszczewice, against the Right Honourable Chełmski, Treasurer of Wschowa — Report\n\nAppearing in person, the Honest Bartłomiej Szepczyński of the village of Trąbczyn, General Royal Court Summoner, being sound, recognized that he had served authentic citation letters for the Kalisz Municipal Court sessions, of the underwritten tenor as follows:\n\nCasimir Nałęcz Raczyński of Raczyno and Matoszyn, Captain-General of Greater Poland — to you, the Right Honourable Stanisław Chełmski, Treasurer of Wschowa — from your estates and from all sums of money of every kind generally, had and to be had, we command: that you appear in person and peremptorily at our next Kalisz Municipal Court sessions, next to be held at the Kalisz Municipal Court, at the instance of the Illustrious Right Honourable Antoni of Kolno Prusimski, Captain of Niszczewice, as plaintiff — who cites you — and this for the following: that you lift from the plaintiff the penalty of fourteen Polish marks, paid for the plaintiff to the exchequer of the Instigator of the Court of the Crown Tribunal of Piotrków, and that the process obtained against the plaintiff on that account from the Register of Penalties be quashed, and the plaintiff declared free — you are to comply with the citation and respond judicially.\n\nGiven in the Kalisz Municipal Court on 15 May 1783.\n\nAt the manor house of the estates of the village of Łukom, at the chair in the entrance hall, with a household youth present, on this present day, preceding the present act, set down and left notified."
+  }
+ ],
+ "text_english": "Done in Konin on Thursday next after the Sunday Cantate, being 22 May 1783.\n\nOn behalf of His Honour Prusimski, Captain of Niszczewice, against the Right Honourable Chełmski, Treasurer of Wschowa — Report\n\nAppearing in person, the Honest Bartłomiej Szepczyński of the village of Trąbczyn, General Royal Court Summoner, being sound, recognized that he had served authentic citation letters for the Kalisz Municipal Court sessions, of the underwritten tenor as follows:\n\nCasimir Nałęcz Raczyński of Raczyno and Matoszyn, Captain-General of Greater Poland — to you, the Right Honourable Stanisław Chełmski, Treasurer of Wschowa — from your estates and from all sums of money of every kind generally, had and to be had, we command: that you appear in person and peremptorily at our next Kalisz Municipal Court sessions, next to be held at the Kalisz Municipal Court, at the instance of the Illustrious Right Honourable Antoni of Kolno Prusimski, Captain of Niszczewice, as plaintiff — who cites you — and this for the following: that you lift from the plaintiff the penalty of fourteen Polish marks, paid for the plaintiff to the exchequer of the Instigator of the Court of the Crown Tribunal of Piotrków, and that the process obtained against the plaintiff on that account from the Register of Penalties be quashed, and the plaintiff declared free — you are to comply with the citation and respond judicially.\n\nGiven in the Kalisz Municipal Court on 15 May 1783.\n\nAt the manor house of the estates of the village of Łukom, at the chair in the entrance hall, with a household youth present, on this present day, preceding the present act, set down and left notified.",
+ "summary_en": "A report of the court messenger Bartłomiej Szepczyński of Trąbczyn of 22 May 1783. He has served on Stanisław Chełmski, Treasurer of Wschowa, a citation of the Starost General Kazimierz Raczyński of 15 May 1783 before the castle court of Kalisz, at the instance of Antoni Prusimski of Kolno, Starost of Niszczewice. It concerns a penalty of fourteen Polish marks paid into the chest of the Instigator of the Crown Tribunal at Piotrków; the process obtained against Prusimski on that account from the register of penalties is to be quashed and Prusimski declared free. The messenger left the citation at the manor of Łukom.",
+ "summary_de": "Bericht des Gerichtsboten Bartłomiej Szepczyński von Trąbczyn vom 22. Mai 1783. Er hat Stanisław Chełmski, Schatzmeister von Wschowa, eine Ladung des Generalstarosten Kazimierz Raczyński vom 15. Mai 1783 vor das Burggericht Kalisz zugestellt, auf Betreiben von Antoni Prusimski von Kolno, Starost von Niszczewice. Es geht um eine Strafe von vierzehn polnischen Mark, die an die Kasse des Instigators des Krontribunals in Petrikau gezahlt wurde; das deswegen aus dem Strafregister gegen Prusimski erwirkte Verfahren soll aufgehoben und Prusimski freigesprochen werden. Der Bote hat die Ladung im Gutshof von Łukom hinterlegt.",
+ "reading": {}
+}

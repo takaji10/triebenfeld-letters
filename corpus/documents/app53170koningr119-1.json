@@ -1,0 +1,260 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "app53170koningr119",
+ "uid": "app53170koningr119-1",
+ "pad": "app53170koningr119-001",
+ "permalink": "/documents/app53170koningr119/1/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1783-03",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1783-03]",
+ "date_inferred_from": "The citation it reports is dated 10 March 1783, and the next heading of a sitting, on leaf 73, is of 18 March 1783. The heading of its own sitting is on a page not among the scans.",
+ "year": 1783,
+ "month": 3,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 6,
+ "uncertainty_count": 7,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "lukomia",
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 2,
+ "text": "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio\nPersonaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae\nde mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+ "text_reading": "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio\n\nPersonaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae\n\nde mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0062_a2",
+   "line_start": 3,
+   "line_end": 4,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio\nPersonaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae",
+   "transcription": "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio\nPersonaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae",
+   "reading": "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio\n\nPersonaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae",
+   "paragraphs": [
+    "Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio",
+    "Personaliter veniens Providus Stanislaus Stachowski de Villa Łukomie Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authe~ pro Judiciis Castrensia Calissien~ Infrascripti editt~ tenoris talis Casimirus Nałęcz in Raczyno et Matoszyn[?] Raczyński Majoris Poloniae Generalis [d?] Capitaneus [V?]obis Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyn et Aliorum Eo [per/pro?]tinen~ haeredi, atque Generoso Leone Maszewski Bonorum Eorundem Economo de Bonis Vestris generaliter omnibus ac Summis quibusvis pecun~habitis et haben~mandamus, Ut In Judiciis Nostri Castrensia Calissien~ propriis et proximis personaliter ac peremptorie Compareatis Ad Instantiam Magnifici Ignatii Stanislai Chełmski Thaesaurarii Vschoven~ Bonorum Łukom et Aliorum haeredis et Generosi Ignatii Jaroszewski Eorundem Bonorum Economi Actt~ Quidem Vos In haerendo Documentis Suis, tam Manifestat~ factae sive faciendem Citant ad viden~ et Audien~ Vos seu potius Te Generosum Leonem Maszewski Borrae Linea, per Decretum Postcommissoriale circa disjudicationem dislimitationis Bonorum Trąmpczyna à Bonis Łukom in Mappa apposita, una cum Hollando pro re Bonorum Łukom Actt~ haereditt~ reservatae et relictae in pacificaque Sui Actt~ Possessione Continuo usque ad Actum nunc ex mente Decreti Tribunalii pactae Erectionis Scopulorum existentis Invasorem Boum Currus et Securium hominibus Actt~, Borram Eandem Causa Evehendarum non nisi pro necessitate Arborum ingredientibus interceptt~ respectu, commissae Ejusdem Interceptionis Invasionisque Borrae cum Laboriosis Thoma Fryzyer Stanislao Lokay Joanne Wochnicki Sylvae Trąmpczynen~ Custodae Simone Jachowski Sylvae Nowawieś Itidem Custodae Stanislao Josepho et Gregorio Aurigis Joanni Mathiae Ministerialibus qui praesente Cittone~ apud Vos Arestantur, paenis Condignis mulctan~ Censeri, distinctas quoque paenas et super Te J Magnifico Prusimski si Eaedem Violentae"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0063_a1",
+   "line_start": 6,
+   "line_end": 6,
+   "n_lines": 1,
+   "diplomatic": "de mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "transcription": "de mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "reading": "de mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "paragraphs": [
+    "de mandato Tui executae esse apparuerint, extendi non obstanteque Vestri Manifestatione ac Visione per Vos illegaliter procuratis Imo his Cassatis et pro nihilo reputatis in Actoratu Vestri Incompetentem Vobis Actionem decerni Statutionem hominum per Vos nulliter praetensa[m?] removeri praesumptas violentias per Vos pro nullis reputari Statuitionem hominum demandari Scrutinium educendum Sententiari Cittni~ Sitis parit[i?] et Judicialiter respon[dem?] Datt~ in Castro Calissien~ Die Decima Mensis Martii Anno Domini Millesimo Septingentesimo Octuagesimo Tertio In Bonis Nowawieś Praedioque Ibidem Sitto~ super Sella hippi praesen~ Scriba proventuali, Die horna Actu Contenta posuisse et notificatt~ reliquisse."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
+   "doc_line_start": 3,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukomia",
+   "display": "Łukomia",
+   "kind": "place",
+   "surface": "Łukomie",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawieś",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0062_a2",
+   "scan": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "nowawies-trabczyn",
+   "display": "Nowawies",
+   "kind": "place",
+   "surface": "Nowawieś",
+   "page": 2,
+   "page_id": "0063_a1",
+   "scan": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
+   "line": 6,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Right Honourable Chełmski, Treasurer of Wschowa, against His Honour Prusimski — Report\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Stanisław Stachowski of the village of Łukomia, General Royal Court Summoner, being sound, recognized that he had served authentic citation letters for the Kalisz Municipal Court sessions, of the underwritten tenor as follows:\n\nCasimir Nałęcz Raczyński of Raczyno and Matoszyn, Captain-General of Greater Poland — to you, the Illustrious Right Honourable Antoni Prusimski, Captain of Niszczewice, Knight of the Distinguished Order of Saint Stanislaus, heir of the estates of Trąbczyn and others pertaining thereto, and to the Honourable Leon Maszewski, steward of those same estates — from all your estates generally and from all sums of money of every kind, had and to be had, we command: that you appear in person and peremptorily at our own next Kalisz Municipal Court sessions, at the instance of the Right Honourable Ignacy Stanisław Chełmski, Treasurer of Wschowa, heir of the estates of Łukom and others, and of the Honourable Ignacy Jaroszewski, steward of those same estates, as plaintiff — who, adhering to his documents, both manifestos made and to be made, cite you to see and hear: you, or rather you, the Honourable Leon Maszewski — as an invader of the estates — with respect to the pine forest line, assigned by the post-commissorial decree concerning the adjudication of the boundary delimitation between the estates of Trąbczyn and the estates of Łukom as marked on the map, together with the Hollandry, hereditarily reserved and left as belonging to the estates of Łukom as the plaintiff's property, and held in the plaintiff's continuous peaceful possession up to the present act now existing pursuant to the agreed erection of boundary stakes per the Tribunal decree; of the wagons and axes of the plaintiff's men entering that same pine forest only for the necessary extraction of timber, who were intercepted; in respect of the said interception and invasion of the pine forest together with its pastures, with Thomas Fryzyer, Stanisław Lokaj, Jan Wochnicki — keepers of the Trąbczyn forest — Simon Jachowski — likewise keeper of the Nowa Wieś forest — Stanisław, Józef, and Grzegorz, coachmen, and Jan Mathias, court summoner, who are arrested in your presence upon the serving of this citation: to be adjudged deserving of condign penalties; and that distinct penalties should also be extended to you, the Right Honourable Prusimski, if the same violent acts"
+  },
+  {
+   "page": 2,
+   "en": "are found to have been carried out on your orders; notwithstanding your manifesto and site inspection illegally procured by you — these being on the contrary annulled and held for nothing — for your action in the plaintiff's role to be adjudged incompetent against you; the stationing of men by you, pretended as null, to be removed; the presumed violences by you to be held as null; the production of the men to be ordered and an inquiry to be conducted; that you be cited and respond judicially.\n\nGiven in the Kalisz Municipal Court on 10 March 1783.\n\nIn the estates of Nowa Wieś and at the farmstead located there, at the seat in the heated room, in the presence of the revenue scribe, on this present day, the contents of the present act set down and left notified."
+  }
+ ],
+ "text_english": "On behalf of the Right Honourable Chełmski, Treasurer of Wschowa, against His Honour Prusimski — Report\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Stanisław Stachowski of the village of Łukomia, General Royal Court Summoner, being sound, recognized that he had served authentic citation letters for the Kalisz Municipal Court sessions, of the underwritten tenor as follows:\n\nCasimir Nałęcz Raczyński of Raczyno and Matoszyn, Captain-General of Greater Poland — to you, the Illustrious Right Honourable Antoni Prusimski, Captain of Niszczewice, Knight of the Distinguished Order of Saint Stanislaus, heir of the estates of Trąbczyn and others pertaining thereto, and to the Honourable Leon Maszewski, steward of those same estates — from all your estates generally and from all sums of money of every kind, had and to be had, we command: that you appear in person and peremptorily at our own next Kalisz Municipal Court sessions, at the instance of the Right Honourable Ignacy Stanisław Chełmski, Treasurer of Wschowa, heir of the estates of Łukom and others, and of the Honourable Ignacy Jaroszewski, steward of those same estates, as plaintiff — who, adhering to his documents, both manifestos made and to be made, cite you to see and hear: you, or rather you, the Honourable Leon Maszewski — as an invader of the estates — with respect to the pine forest line, assigned by the post-commissorial decree concerning the adjudication of the boundary delimitation between the estates of Trąbczyn and the estates of Łukom as marked on the map, together with the Hollandry, hereditarily reserved and left as belonging to the estates of Łukom as the plaintiff's property, and held in the plaintiff's continuous peaceful possession up to the present act now existing pursuant to the agreed erection of boundary stakes per the Tribunal decree; of the wagons and axes of the plaintiff's men entering that same pine forest only for the necessary extraction of timber, who were intercepted; in respect of the said interception and invasion of the pine forest together with its pastures, with Thomas Fryzyer, Stanisław Lokaj, Jan Wochnicki — keepers of the Trąbczyn forest — Simon Jachowski — likewise keeper of the Nowa Wieś forest — Stanisław, Józef, and Grzegorz, coachmen, and Jan Mathias, court summoner, who are arrested in your presence upon the serving of this citation: to be adjudged deserving of condign penalties; and that distinct penalties should also be extended to you, the Right Honourable Prusimski, if the same violent acts\n\nare found to have been carried out on your orders; notwithstanding your manifesto and site inspection illegally procured by you — these being on the contrary annulled and held for nothing — for your action in the plaintiff's role to be adjudged incompetent against you; the stationing of men by you, pretended as null, to be removed; the presumed violences by you to be held as null; the production of the men to be ordered and an inquiry to be conducted; that you be cited and respond judicially.\n\nGiven in the Kalisz Municipal Court on 10 March 1783.\n\nIn the estates of Nowa Wieś and at the farmstead located there, at the seat in the heated room, in the presence of the revenue scribe, on this present day, the contents of the present act set down and left notified.",
+ "summary_en": "A report of the court messenger Stanisław Stachowski of Łukomia, entered at Konin in March 1783. He has served a citation of the Starost General of Greater Poland, Kazimierz Raczyński, of 10 March 1783, before the castle court of Kalisz: on Antoni Prusimski, Starost of Niszczewice and heir of Trąbczyn, and on his steward Leon Maszewski, at the instance of Stanisław Chełmski, Treasurer of Wschowa and heir of Łukom, and of his steward Ignacy Jaroszewski. Maszewski is charged with breaking into the pine wood that the line of the post-commission decree on the map left, with one Olęder settler, to the estate of Łukom, and with taking oxen, carts and axes from Chełmski's people, who were fetching only the wood they needed. Named men of Trąbczyn and Nowa Wieś are put under arrest by the citation; Prusimski too is to be punished if the acts of violence were done at his order. The messenger left the citation at the farm at Nowa Wieś.",
+ "summary_de": "Bericht des Gerichtsboten Stanisław Stachowski von Łukomia, eingetragen in Konin im März 1783. Er hat eine Ladung des großpolnischen Generalstarosten Kazimierz Raczyński vom 10. März 1783 vor das Burggericht Kalisz zugestellt: an Antoni Prusimski, Starost von Niszczewice und Erbherrn von Trąbczyn, und an dessen Verwalter Leon Maszewski, auf Betreiben von Stanisław Chełmski, Schatzmeister von Wschowa und Erbherr von Łukom, und dessen Verwalter Ignacy Jaroszewski. Maszewski sei in den Kiefernwald eingefallen, den die Linie des nachkommissarischen Dekrets auf der Karte samt einem Olęder dem Gut Łukom belassen habe, und habe Chełmskis Leuten, die dort nur das nötige Holz holten, Ochsen, Wagen und Äxte abgenommen. Genannte Leute aus Trąbczyn und Nowa Wieś werden mit der Ladung unter Arrest gestellt; auch Prusimski soll bestraft werden, falls die Gewalttaten auf seinen Befehl geschahen. Der Bote hat die Ladung im Vorwerk von Nowa Wieś hinterlegt.",
+ "reading": {}
+}

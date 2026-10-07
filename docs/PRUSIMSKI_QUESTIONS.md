@@ -263,3 +263,28 @@ the editor reviews. Nothing is published before that.
   deletion, and the text kept.** Please look.
 - Your translator's notes are left out: most discussed readings that the
   check settled. **Default: left out.**
+
+### APP 53/17/0/-/Konin Gr.119 (1783 and 1784)
+
+- Seven photographs show entries you did not transcribe. **Default: not
+  built.** They are: 144 (your note "[140]": Bronikowski and Prusimski);
+  320 (leaf 316 verso or so: a receipt for the "quarta" from the royal
+  estate of Smiłowice, brought in for Prusimski, with a Polish text); 321;
+  348 (leaf 345: the Zakrzewskis cite Prusimski to a sitting on the ground
+  at Trąbczyn); 349; 680 (leaf 686, 16 September 1784: Chełmski cites
+  Skórzewski, Stadnicki, Prusimski, Kunegunda Gliszczyńska and others to
+  the Tribunal, five lines, clear); 681 (leaf 686 verso: a field decree
+  between Biskupice, Gorzyce, Kotuchów, Łukom, Trąbczyn and others brought
+  in, five lines, clear). Which of them do you want in? I can transcribe
+  the two short notes on 680 and 681 as I did one in Konin Gr.118.
+- Document 6 (leaf 131) and the first half of document 1 (leaf 62) were not
+  read against the scans. **Default: built as you have them.**
+- Your English here has "Captain of Niszczewice" and "Captain-General of
+  Greater Poland" for "Capitaneus"; your other translations have "Starost".
+  **Default: left as you wrote it.** Do you want "Starost" throughout?
+- Your English has "station" for "statuere" (to produce a man before the
+  court). **Default: left, except where a correction touched the
+  sentence.**
+- Prusimski's protest on leaf 304 verso is dated October 1783 from the land
+  court's decree that cites it (53/6/0/-/47). **Default: so, with the
+  reason shown.**

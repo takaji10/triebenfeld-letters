@@ -16,7 +16,7 @@ Der Eintrag ist ein Dokument. Er trägt kein eigenes Datum; er ist nach der Übe
 
 ### Übersetzung
 
-Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an neun Stellen geändert, an denen der Text korrigiert worden war. Die Anmerkungen des Herausgebers zur Übersetzung, die inzwischen geklärte Lesungen erörterten, bleiben weg.
+Das Englische ist die eigene Übersetzung des Herausgebers und wurde nicht neu gemacht. Es wurde an zehn Stellen geändert, an denen der Text korrigiert worden war. Die Anmerkungen des Herausgebers zur Übersetzung, die inzwischen geklärte Lesungen erörterten, bleiben weg.
 
 ### Zusammenfassung
 

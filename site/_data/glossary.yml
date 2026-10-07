@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 38
+  docs: 39
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 39
+  docs: 41
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 66
+  docs: 67
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 79
+  docs: 87
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 81
+  docs: 82
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 57
+  docs: 60
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1575,7 +1575,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 38
+  docs: 40
 - id: "ex-officio"
   kind: "law"
   lang: "la"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 94
+  docs: 102
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 52
+  docs: 57
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

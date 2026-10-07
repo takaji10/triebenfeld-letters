@@ -16,6 +16,8 @@ batch. Status `translated`. Built and verified locally, **not published**.
   condemnation at Grab is named; the editor had "Condescensionem". The
   abbreviations Cond~nis (condescensionis) and Cond~nem (condemnationem)
   differ by one letter: look at each.
+- **"Arestum ... non praevenit"**: the arrest did not reach the men (so read with Konin
+  Gr.119, document 7); the first build had "did not forestall".
 - **Date**: `sitting`, year 1783 only; heading of 20 October 1783 on leaf
   213, not photographed.
 - **Not built:** entry no. 43 on leaf 295 verso (306.jpg), sitting of 3 May
