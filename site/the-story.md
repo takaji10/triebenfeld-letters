@@ -24,7 +24,7 @@ that what is absent is at least visible.
 
 **The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next
 door. c. 1589 to 1788.
-[One document, 1776]({{ '/sources/app53170koningr145/' | relative_url }}).**
+[92 documents, 1589 to 1788]({{ '/sources/' | relative_url }}).**
 
 Two hundred years of argument between neighbouring estates about where one ended and the
 other began. It runs through courts at Konin, Pyzdry and Kalisz, and the evidence is
@@ -42,9 +42,16 @@ and a decree of 1763 over potash stopped on its way to Gdańsk
 ([1763]({{ '/sources/app536045/' | relative_url }})). The fifth is the decree of the
 commission that the Polish parliament appointed to end the dispute, which walked the
 boundary in September 1775, ruled for the Prusimski side and had new mounds raised along
-the line ([the decree]({{ '/documents/app53170koningr145/1/' | relative_url }})). More
-entries from the municipal and land court books at the State Archive in Poznań are still
-to be added.
+the line ([the decree]({{ '/documents/app53170koningr145/1/' | relative_url }})). That decree did
+not end it. The Łukom side had brought commissioners of its own, who gave a decree the
+other way, and both sides went on protesting and searching the court books for each
+other's decree ([1775 to 1777]({{ '/sources/app53170koningr116/' | relative_url }})). The
+Crown Tribunal decided between the two decrees in 1782 and had forty-one mounds raised along
+a line drawn on the map ([the decree of 1782]({{ '/sources/app53170koningr153/' | relative_url }})).
+Entries from the court registers of Konin and Kalisz, from 1754 to 1788, follow the quarrel
+on the ground and in court before and after; each holding is listed under
+[Sources]({{ '/sources/' | relative_url }}). A fuller account of these years is still to be
+written.
 
 ---
 

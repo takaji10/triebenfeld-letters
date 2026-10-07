@@ -360,6 +360,39 @@ Where the rest is:
   no mark of doubt.
 - **`courtbook.read_english` takes leaf marks dressed as headings**
   ("### **[78v]**") as well as bare ones.
+- **A later holding can correct an earlier one: go back.** Prusimski's
+  protest in Konin Gr.119 ("Alios vero arestum non praevenit": the arrest
+  did not reach the others) showed that the oath in the land court's decree
+  53/6/0/-/47, built an hour before, had been misunderstood by the editor's
+  English and by me ("he did not forestall the arrest"). The decree, its
+  summary, its page and its English were corrected in the same sitting.
+  When two holdings use the same formula, read them side by side.
+- **An abbreviation written out wrongly is wrong everywhere.** In Konin
+  Gr.153 "Jur~to" had been written "jurisdictione" eleven times (it is
+  "jurato", sworn) and "Cond~nis" "conditionis" nineteen times (it is
+  "condescensionis"). Look at three or four occurrences on the scan, then
+  correct all, and say in `holding.py` and on the page of changes which
+  were seen and which follow. But "Cond~nem" is "condemnationem": one
+  letter apart, so look at each form.
+- **Skipped lines hide between repeated words.** Three were found where the
+  same two words stand twice a line apart ("et quoniam ... et quoniam" in
+  53/6/0/-/47; "Judicibus ... Judiciis" in Konin Gr.117; "Protocollo ...
+  Relationis" in Konin Gr.119). A sentence that does not construe, or a
+  certificate that certifies the wrong thing, is the sign.
+- **What the editor photographed and did not transcribe** is listed in the
+  questions file with what each scan shows, and is not built, except a
+  note of a few clear lines that belongs to the story (Konin Gr.118,
+  document 2).
+- **The check for "chestnut"** (a misread hypocaustum) fired on a real
+  chestnut mare; the rule in `reference/translation_glossary.yml` now
+  excepts "Equam Castaneam". A forbidden rendering that blocks a page may
+  be the rule's fault: read the Latin before changing the English.
+- **Apostrophes in a "why" string written through a shell heredoc** broke
+  two `holding.py` files (the backslash was lost). Write scripts with the
+  Write tool, or avoid the apostrophe.
+- **When the context was summarised mid-run**, the next step was taken from
+  the holding in hand (its scratch images and the editor's two files), not
+  from memory of readings: read the scans again before writing a row.
 
 ## The English, the summaries and the claim check
 

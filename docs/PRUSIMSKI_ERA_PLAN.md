@@ -196,10 +196,13 @@ holding is built. **This is the main thing to confirm.**
 
 ### Where the batches stand (2026-10-07)
 
-Batch 1 (Konin Gr.145) and four of the five holdings of batch 2 (53/6/0/-/17,
--/36, -/40, -/45) are built and wait for the editor's folds and their word to
-publish. Konin Gr.136 waits for the editor's answer about its untranscribed
-middle. **What batch 2 changed in the method** (details in
+**All five batches are built** (2026-10-07), in one run without stops, as the
+editor asked: twenty-one holdings, 92 documents. Nothing is published. The
+editor reviews the folds, the page of changes and
+`docs/PRUSIMSKI_QUESTIONS.md` and then says when to publish. Pyzdry Gr.75 is
+deferred.
+
+**What the run changed in the method** (details in
 `docs/WORKING_NOTES.md`):
 
 - The early Latin entries were first readings, not corrected texts. Each is
@@ -214,6 +217,14 @@ middle. **What batch 2 changed in the method** (details in
   grandfather and uncle.
 - The fold page is one the editor moves the lines on; the page of changes
   is made again after every holding.
+- The long registers (Konin Gr.117, Gr.118, Gr.119) and the decree of 1782
+  (Konin Gr.153) had the light check: every heading, date line and name, the
+  short entries word for word, and the opening and close of the long ones.
+  Each holding's page says which pages were compared, and the long entries
+  not read through are flagged as a rough transcription.
+- The holdings explain one another, and a later one can correct an earlier:
+  Konin Gr.119 showed what the oath in 53/6/0/-/47 means; Konin Gr.118 and
+  Gr.153 show that the decree of 1775 did not end the dispute.
 
 ### Order
 

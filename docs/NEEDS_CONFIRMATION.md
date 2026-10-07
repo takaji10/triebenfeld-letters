@@ -116,6 +116,11 @@ read, translate and summarise.
     (the same attestation and spelling stand in Oe 1 Bü 14526, document 16).
     The editor ruled on 2026-10-05 that they are kept separate.
 
+- **The Prusimski-era court books** (2026-10-07): twenty holdings beside
+  Konin Gr.145 are built and not published. Everything open about them is
+  in `docs/PRUSIMSKI_QUESTIONS.md`, each question with the default taken;
+  the editor's review of the folds and of the page of changes comes first.
+
 - **APP 53/17/0/-/Konin Gr.145** is in (2026-10-06), the first holding of
   the Prusimski era: one document of 122 pages, the decree of the boundary
   commission of 1775 between Trąbczyn and Łukomia, with the editor's own

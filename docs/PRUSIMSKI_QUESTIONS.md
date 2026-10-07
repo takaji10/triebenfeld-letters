@@ -9,6 +9,11 @@ holding is built on that default. At the end this list, the fold pages
 (`review/<slug>/folds/`) and the page of changes (`review/changes/`) are what
 the editor reviews. Nothing is published before that.
 
+**The run is finished (2026-10-07).** Twenty holdings beside Konin Gr.145
+are built on the defaults below. The sections follow the order in which the
+holdings were built. The questions that change most if you answer them
+differently are marked in `docs/TODO.md`, section 7.
+
 ## For every holding
 
 - **Folds.** Each holding that is cut has a fold page on which the lines can

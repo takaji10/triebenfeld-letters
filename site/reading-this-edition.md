@@ -18,9 +18,10 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 479 documents on 1,696 manuscript pages, dated from 1589 to 1832. The
-oldest are entries from the court books of Konin on the quarrel between Trąbczyn and its
-neighbour Łukom, which a commission ended in 1775, when Trąbczyn belonged to Prusimski. The documents are
+The edition holds 564 documents on 1,832 manuscript pages, dated from 1589 to 1832. The
+oldest are entries from the court books of Konin and Kalisz on the quarrel between Trąbczyn
+and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
+on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
 letters, royal grants, leases and contracts, court papers, and the files of Prussian
 ministries. For each document it gives:
 
@@ -36,16 +37,17 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from twenty-one holdings in four archives:
+The documents come from thirty-six holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
   grants, title deeds and leases; and a royal charter of 1805;
 - the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
   administration of its Polish provinces, of the foreign ministry and of the state treasury;
-- the **State Archive in Poznań**: entries from the court books of Konin on the boundary
-  between Trąbczyn and Łukom, from 1589 to the decree of 1775 that fixed it; a court record
-  of 1806; and copies made about 1930 of papers on the division of the estates;
+- the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
+  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (21
+  holdings, 92 documents); a court record of 1806; and copies made about 1930 of papers on
+  the division of the estates;
 - the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
   of the confiscated estates to Prusimski's daughter.
 
@@ -53,8 +55,9 @@ The documents come from twenty-one holdings in four archives:
 Each holding has a page of its own that describes what it contains and how its text was
 prepared.
 
-Most of the documents are in German. Twenty-two are in French, ten in Polish and five in
-Latin, and some of the German deeds have passages in Polish and Latin. Each is translated from its own
+Most of the documents are in German. Twenty-two are in French, fourteen in Polish and
+eighty-six in Latin, the court entries often with passages in the other of the two, and some
+of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
 
 ## How the text was made, and how far to trust it
@@ -121,11 +124,11 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 615 marks of doubt in the edition. Each document's page says how many it has.
+There are 912 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 474 of the 479. They were made by
+Every document that has text has an English translation: 559 of the 564. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

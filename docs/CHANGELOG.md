@@ -1817,6 +1817,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   that no line stands twice. Twelve page images wait for the editor's transcription; the unit
   is `draft` and not built.
 
+## The Prusimski era: the court books of Konin and Kalisz, 1589 to 1788 (2026-10-06 and 10-07)
+
+- Twenty-one holdings from the State Archive in Poznań added in one run, 92 documents: the boundary decree of 1775 (Konin Gr.145), six entries of the land court's books of decrees (53/6/0/-/17, -/36, -/40, -/45, -/46, -/47), three of the castle court of Kalisz (Kalisz Gr.414, Gr.424, Gr.425), and the Konin castle court registers Gr.136, Gr.114, Gr.115, Gr.116, Gr.117, Gr.118, Gr.119, Gr.120, Gr.121 and the decree of 1782 in Gr.153. Each entry of a court book is a document. Not published: the editor reviews the folds, the page of changes and `docs/PRUSIMSKI_QUESTIONS.md` first.
+- The editor's transcriptions and English translations are kept. Every holding was read against its scans, the short ones whole, four long ones (Konin Gr.117, Gr.118, Gr.153, Gr.119) by the light check, which their pages say. Each correction is logged with its reason, and `review/changes/` lists for the editor what changed and how much it matters.
+- Readings that changed what the documents say: Paweł Prusimski is Antoni's uncle ("Patrui", not "Patrii"; Konin Gr.117); the surveyor of 1782 is sworn ("jurato", not "jurisdictione"), and the sittings on the ground are "condescensio", not "conditio" (Konin Gr.153); the oath laid on Prusimski in 1783 is that the arrest did not reach his two men ("Arestum non praevenit"; 53/6/0/-/47, read with Konin Gr.119); the wood sold to Tracholz is oak (Konin Gr.120).
+- What the holdings established together: the commission of 1775 ended in two decrees, one for each side (Konin Gr.116, Gr.117); the Crown Tribunal decided between them on 23 January 1782 and confirmed it on 17 October 1782, and forty-one mounds were raised from 30 November to 3 December 1782 (Konin Gr.118, Gr.153). The About page, the story page and the era's blurb say so now; they said that the decree of 1775 fixed the boundary.
+- `pipeline/intake/courtbook.py` (new): the shared steps of a court-book holding, from cutting the scans to the summaries, driven by one `intake/holding.py` per holding. `pipeline/review/changes_page.py` (new): the page of changes. Dates may be taken from the heading of the court's sitting (`dates: sitting` in rulings.yml). Kinds of document added: report, delivery, protest.
+- The translation check no longer takes a chestnut mare ("Equam Castaneam") for a misread "hypocaustum".
+- Figures: 564 documents on 1,832 pages in 36 holdings, 1589 to 1832; 86 in Latin; 912 marks of doubt; 559 translated.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

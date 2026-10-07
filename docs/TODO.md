@@ -211,38 +211,46 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
 - [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
       come back to it.
 
-## 7. Four early court-book entries, 1589 to 1763 (added 2026-10-06 and 10-07)
+## 7. The Prusimski era: twenty court-book holdings, 1589 to 1788 (added 2026-10-06 and 10-07)
 
-The second batch of the Prusimski era: APP 53/6/0/-/17 (an order of 1589
-for an inspection), 53/6/0/-/36 (two default judgments of 1644),
-53/6/0/-/40 (a decree of 1728 sending a commissioner onto the ground) and
-53/6/0/-/45 (the potash decree of 1763). Six documents. Each was read whole
-against its scans; the Latin was corrected and your English revised to
-follow. Built and verified here, committed locally, not pushed. Details in
-each holding's `notes.md`.
+Every folder from Poznań that has a text is built: twenty holdings beside
+Konin Gr.145, 91 documents, from the order of 1589 to a register entry of
+1788. Each entry of a court book is a document; your transcription and your
+English are kept and were corrected against the scans; summaries in both
+languages, each statement checked. Built and verified here, committed
+locally, **not pushed**. Details in each holding's `notes.md`.
 
-- [ ] **You: look at the folds** of each, and move any line that crosses
-      writing: `review/app536017/folds/`, `review/app536036/folds/`,
-      `review/app536040/folds/`, `review/app536045/folds/`.
-- [ ] **You: read the page of changes**, `review/changes/`: what the
-      check changed in each holding, graded, for putting right what you
-      have written elsewhere. It is made again as each holding is checked.
-- [ ] **You: say when to publish them** (with Konin Gr.145).
-- [ ] **You: 53/6/0/-/17 has three more entries on its scans** that are
-      not transcribed (the same suit against Stanislaus Łukomski; two
-      suits of Nicolaus and Joannes Trąmpczyński against Albertus). Say
-      if you want them in. I can read the first with the same confidence.
-- [ ] **You: Konin Gr.136 (the inspection of 1754) is not built.** The
-      house-by-house list of the villages (most of leaf 121 verso, all of
-      leaf 122, the top of 122 verso) is in neither your transcription
-      nor your English. Was it left out on purpose? If so I build it as it
-      is and say on its page what is missing; if not, send the text or
-      tell me to try reading it.
-- [ ] If you have them: the archive's name for fonds 53/6, and the images
-      of leaves 2 (unit 17), 612 (unit 36) and 638 (unit 45), which carry
-      the headings of the sittings.
-- [ ] The next batch: Konin Gr.114, Pyzdry Gr.75, Kalisz Gr.414, Konin
-      Gr.115 (`docs/PRUSIMSKI_ERA_PLAN.md`).
+Your review, in this order:
+
+- [ ] **The folds.** Each holding has a page on which you move the red
+      lines: `review/<slug>/folds/index.html` (21 pages, Konin Gr.145's
+      among them). Save, and tell me; I cut the pages again from your file.
+- [ ] **The page of changes**, `review/changes/index.html`: what the check
+      against the scans changed in each holding, graded (43 significant,
+      118 facts, 22 wording), for putting right what you have written
+      elsewhere.
+- [ ] **The questions**, `docs/PRUSIMSKI_QUESTIONS.md`: every question I
+      would have stopped to ask, each with the default I took. The ones
+      that matter most:
+      - the full check of the four holdings that had only the light one
+        (Konin Gr.117, Gr.118, Gr.153, Gr.119);
+      - "Patrui" for "Patrii" in Konin Gr.117 (Paweł Prusimski is Antoni's
+        uncle, not his father), and "jurato", "condescensio", "Gorski" in
+        Konin Gr.153: corrected throughout on the strength of the places I
+        looked at;
+      - entries on your photographs that you did not transcribe (53/6/0/-/17,
+        53/6/0/-/46 no. 17, 53/6/0/-/47 no. 43, seven scans of Konin Gr.119,
+        the middle of Konin Gr.136);
+      - dates inferred where the heading of a sitting was not photographed.
+- [ ] **Say when to publish.**
+- [ ] **The account of the era** on the story page: I only brought it up to
+      the facts (the decree of 1775 did not end the dispute; the Tribunal
+      settled it in 1782). You said to wait until more documents were in;
+      they are in. Say if you want it written.
+- [ ] If you have them: the archive's name for fonds 53/6 and 53/15, and
+      images of the pages with the headings of sittings named in the
+      questions file.
+- [ ] Pyzdry Gr.75: deferred by you ("let's look at that later").
 
 ## 8. Carried over
 

@@ -23,7 +23,7 @@ sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was 
 
 **Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten
 Łukom. ca. 1589 bis 1788.
-[Ein Dokument, 1776]({{ '/de/quellen/app53170koningr145/' | relative_url }}).**
+[92 Dokumente, 1589 bis 1788]({{ '/de/quellen/' | relative_url }}).**
 
 Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das
 andere begann. Er läuft durch die Gerichte in Konin, Pyzdry und Kalisch, und die Beweise
@@ -45,8 +45,18 @@ Pottasche, die auf dem Weg nach Danzig angehalten wurde
 Kommission, die der polnische Reichstag einsetzte, um den Streit zu beenden. Sie beging die
 Grenze im September 1775, entschied für die Seite der Prusimski und ließ entlang der Linie
 neue Hügel aufwerfen ([das Dekret]({{ '/documents/app53170koningr145/1/' | relative_url }})).
-Weitere Einträge aus den Grod- und Landgerichtsbüchern im Staatsarchiv Posen sind noch
-aufzunehmen.
+Dieses Dekret
+beendete den Streit nicht. Die Łukomer Seite hatte eigene Kommissare beigezogen, die ein
+Dekret in der Gegenrichtung erließen, und beide Seiten protestierten weiter und suchten in
+den Gerichtsbüchern nach dem Dekret der anderen
+([1775 bis 1777]({{ '/de/quellen/app53170koningr116/' | relative_url }})). Das Krontribunal
+entschied 1782 zwischen den beiden Dekreten und ließ einundvierzig Hügel entlang einer in
+die Karte eingezeichneten Linie aufwerfen
+([das Dekret von 1782]({{ '/de/quellen/app53170koningr153/' | relative_url }})). Einträge aus
+den Gerichtsregistern von Konin und Kalisch, von 1754 bis 1788, folgen dem Streit im
+Gelände und vor Gericht davor und danach; jeder Bestand steht unter
+[Quellen]({{ '/de/quellen/' | relative_url }}). Eine ausführlichere Darstellung dieser Jahre
+ist noch zu schreiben.
 
 ---
 

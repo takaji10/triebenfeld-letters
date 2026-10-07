@@ -238,23 +238,30 @@ so check them.
   for one review at the end.** Each question goes into
   `docs/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
   holding is built on the default. Nothing is published before the review.
-- **Batches 2 and 3 are built** (2026-10-07), verified, committed locally,
-  **not pushed**. Entries of the court books, Latin with some Polish, each
-  read against its scans, the editor's English revised to follow:
+- **The run is finished: every court-book folder with a text is built**
+  (2026-10-07), verified, committed locally, **not pushed, not published**.
+  Twenty-one Prusimski-era holdings, 92 documents, 1589 to 1788; the edition
+  has 564 documents in 36 holdings. Beside Konin Gr.145 they are:
   **53/6/0/-/17** (`app536017`, 1589), **-/36** (`app536036`, 1644), **-/40**
-  (`app536040`, 1728), **-/45** (`app536045`, 1763), **Konin Gr.136**
-  (`app53170koningr136`, the inspection of 1754; its middle is not
-  transcribed), **Konin Gr.114** (`app53170koningr114`, two reports of
-  1767), **Kalisz Gr.414** (`app53150kaliszgr414`, the delivery of Lusnia,
-  1771) and **Konin Gr.115** (`app53170koningr115`, ten register entries,
-  1768 to 1773). Read each holding's `notes.md` first; from Konin Gr.136
-  on, everything about how a holding was made is in the docstring of its
-  `intake/holding.py` (one script for all steps, `courtbook.holding_main`).
-  **Still to build:** batch 4 (Konin Gr.116, Kalisz Gr.424 and Gr.425,
-  53/6/0/-/46, Konin Gr.117) and batch 5 (Konin Gr.118, Gr.153, 53/6/0/-/47,
-  Konin Gr.119, Gr.120, Gr.121). Pyzdry Gr.75 is deferred by the editor.
-  The About page's figures are behind (it says 479 documents, 21 holdings;
-  there are now 493 and 25): bring them up at the end of the run.
+  (`app536040`, 1728), **-/45** (`app536045`, 1763), **-/46** (`app536046`,
+  1777), **-/47** (`app536047`, 1783); **Kalisz Gr.414**
+  (`app53150kaliszgr414`, 1771), **Gr.424** and **Gr.425** (1776); and the
+  Konin registers **Gr.136** (1754), **Gr.114** (1767), **Gr.115**
+  (1768-73), **Gr.116** (1775-77), **Gr.117** (1778-79), **Gr.118**
+  (1780-82), **Gr.153** (the boundary decree of 1782), **Gr.119** (1783-84),
+  **Gr.120** (1785-86), **Gr.121** (1788), slugs `app53170koningr<n>`. Read
+  each holding's `notes.md` first; from Konin Gr.136 on, everything about how
+  a holding was made is in the docstring of its `intake/holding.py` (one
+  script for all steps, `courtbook.holding_main`). Pyzdry Gr.75 is deferred
+  by the editor.
+- **What waits on the editor, in this order:** (1) the folds of every
+  holding (`review/<slug>/folds/`); (2) the page of changes
+  (`review/changes/`: 20 holdings, 43 significant changes); (3) the
+  questions in `docs/PRUSIMSKI_QUESTIONS.md`, each with the default taken;
+  (4) their word to publish. Four holdings had only the light check and say
+  so on their pages (Konin Gr.117, Gr.118, Gr.153, Gr.119): the full check
+  is a question for the editor. The era's account on the story page was
+  only brought up to the facts; a fuller one waits at their word.
 - **The fold pages** (`review/<slug>/folds/index.html`, made by each
   holding's `build_pages.py --sheet`; Konin Gr.145's by `fold_sheet.py`):
   the editor clicks where each fold should be and saves
@@ -267,12 +274,10 @@ so check them.
   `intake/changes.yml`): what the check against the scans changed, graded,
   for the editor to put right what they have written outside the project.
   Write a holding's `changes.yml` when it is checked and run the script.
-- **The Prusimski era is the current focus** (editor, 2026-10-06): twenty
-  more court-book folders from Poznań with texts, nine without. **Read
-  `docs/PRUSIMSKI_ERA_PLAN.md` before touching any of it**: it has the
-  editor's decisions, the inventory, the method and the batches (the next
-  is the third: Konin Gr.114, Pyzdry Gr.75, Kalisz Gr.414, Konin Gr.115).
-  Desktop work only: the scans are on the editor's machine.
+- **The Prusimski era** (editor, 2026-10-06): `docs/PRUSIMSKI_ERA_PLAN.md`
+  has the editor's decisions, the inventory, the method and the batches,
+  all five now built. Nine folders without texts are listed there for the
+  editor. Desktop work only: the scans are on the editor's machine.
 - **Rulings of 2026-10-05, standing** (`docs/EDITORIAL_RULES.md`):
   struck-out text is not transcribed; a translation of the time written
   beside a document is not transcribed where the original is given.
