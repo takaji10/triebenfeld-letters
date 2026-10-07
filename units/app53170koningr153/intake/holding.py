@@ -199,7 +199,7 @@ ROWS = [
 DROP = ('3', '5', '7', '8', '15', '28', '30', '31', '32', '33', '34', '35', '38', '39', '40', '41', '42')
 FIXES = [
     ('another road running from Zagórowo and Drzewce', 'another road running from Zagórów and Drzewce',
-     'the edition's form of the name; the Latin has "de Zagurowo"'),
+     'the form of the name used in the edition; the Latin has "de Zagurowo"'),
     ('licensed and privileged geometer', 'sworn and privileged geometer', '"Geomethra Jurato et Privilegiato"'),
     ('Józef Łukaszewicz, Boundary Commissioner of Greater Poland', 'Józef Łukaszewicz, sworn General Commissioner of Greater Poland',
      '"Commissario Generali Jurato Majoris Poloniae"'),
