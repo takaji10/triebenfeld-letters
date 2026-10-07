@@ -1693,6 +1693,8 @@ places:
     display: "Kiew"
     kind: city
     match: 'Kijow'
+    # "Kijowiae" in the King's title in a citation of 1782 is not a place named.
+    not_in: [app53170koningr118-10]
     tier: "Established"
     variants: []
 

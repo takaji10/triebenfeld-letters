@@ -592,7 +592,9 @@ people:
     match: "(?:Pru[sz]+ie?msk|D[ąa]m?bsk|Mosci[nń]sk|Moszy[nń]sk|Moscy[nń]sk|Mi[ąaęe]czy[nń]sk)a(?![a-zà-ÿ])|D[ąa]m?bskiey(?![a-zà-ÿ])"
     # In the potash decree of 1763 (APP 53/6/0/-/45) "Prusimska" is Katarzyna,
     # born Rozdrażewska, two generations before Michalina: prusimska-katarzyna.
-    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8]
+    # In the citation of 1782 (Konin Gr.118, document 23) "Prusimska" is Marianna,
+    # Wiktoria and Konstancja, of an earlier generation: no entry.
+    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app53170koningr118-23]
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
@@ -608,7 +610,7 @@ people:
     # Only in the documents where "Prusimska" is she: elsewhere the name is
     # Michalina (prusimska). Add a document here when one of hers comes in.
     match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])'
-    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8]
+    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14]
     tier: "Text-confirmed"
     variants: []
     identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The record of the inspection of Trąbczyn made at her request in July 1754 calls her widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates (APP 53/17/0/-/Konin Gr.136). Added 2026-10-06."
@@ -676,10 +678,10 @@ people:
     # Only in the document that names him: elsewhere "Prusimski" is the
     # Starost (prusimski) or Krzysztof (prusimski-krzysztof).
     match: 'Pru[sz]+ie?mski(?![a-zà-ÿ])'
-    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7]
+    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7, app53170koningr118-23]
     tier: "Text-confirmed"
     variants: []
-    identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). Antoni Prusimski, the Starost, calls him his paternal uncle in his protest of March 1778 ('apud olim Magnificum Paulum Prusimski, sui Manifestantis Patruum', APP 53/17/0/-/Konin Gr.117), where a contract of 1744 for oak timber between him and the townsman Jan Tracholz is the ground of a suit. How he stands to Krzysztof Prusimski the documents in the edition do not say. Added 2026-10-07."
+    identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). Antoni Prusimski, the Starost, calls him his paternal uncle in his protest of March 1778 ('apud olim Magnificum Paulum Prusimski, sui Manifestantis Patruum', APP 53/17/0/-/Konin Gr.117), where a contract of 1744 for oak timber between him and the townsman Jan Tracholz is the ground of a suit. A citation of 1782 names him among the sons of Krzysztof Prusimski and Teresa Golińska, with Jan, Bogumił, Antoni and Stefan, the Starost's father, and says that he died childless (APP 53/17/0/-/Konin Gr.118, document 23). Added 2026-10-07."
     distinct_from: [prusimski, prusimski-krzysztof]
     merge: false
   prusimski-krzysztof:
@@ -688,7 +690,7 @@ people:
     # Only in the documents where "Prusimski" is he or his son, the elder
     # Antoni: elsewhere the name is the Starost (prusimski).
     match: 'Pru[sz]+ie?msk(?:ich|i)(?![a-zà-ÿ])'
-    only_in: [app536040-1]
+    only_in: [app536040-1, app53170koningr118-23]
     tier: "Text-confirmed (name, heir of Trąbczyn); his kinship to the Starost from the decree of 1775"
     variants: []
     identity: "Krzysztof Prusimski, heir of Trąbczyn, principal defendant in the suit of Franciszek and Józef Ścibor Chełmski before the land court at Konin, which in January 1728 sent a commissioner onto the disputed ground (APP 53/6/0/-/40: 'Generosis Christophoro Prusimski parenti principali tum et Antonio Prusimski filio'). The boundary decree of 1775 calls him grandfather of Antoni Prusimski, the Starost of Niszczewice, and names the elder Antoni, his son, cited with him here, as the Starost's uncle, who died before 1775 (APP 53/17/0/-/Konin Gr.145). This entry stands for father and son in the decree of 1728. Added 2026-10-07."
@@ -714,6 +716,8 @@ people:
   rapacki:
     display: "Rapacki"
     match: "Rapacki"
+    # Ignacy Rapacki, chamberlain of the Kalisz land court in 1782, is another man.
+    not_in: [app53170koningr118-23]
     tier: "Role unclear"
     variants: []
   reinhardt:
@@ -784,8 +788,9 @@ people:
   simon:
     display: "Simon"
     match: "Simon"
-    # In the decree of 1776 "Simon" is Simon Szaunski, who presented it at Brześć Kujawski.
-    not_in: [app53170koningr145-1]
+    # In the decree of 1776 "Simon" is Simon Szaunski, who presented it at Brześć Kujawski;
+    # in the Konin register of 1781-82 the feast of SS Simon and Jude and the messenger Simon Głabik.
+    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."

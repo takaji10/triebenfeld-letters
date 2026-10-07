@@ -188,3 +188,33 @@ the editor reviews. Nothing is published before that.
   inspection" for "kondescensja". **Default: both left as you wrote them;**
   the holding's page explains the word as a sitting of the court on the
   ground.
+
+### APP 53/17/0/-/Konin Gr.118 (1780 to 1782)
+
+- The light check again: every heading and date line, the twenty short
+  entries word for word, the opening and close of the long ones. Five long
+  Latin entries are flagged as a rough transcription. **Default: built
+  so.** Do you want the full check?
+- The entry under your "[173]" (a decree between Rafał Gurowski and the
+  townsmen of Brdów) has its own heading and does not concern Trąbczyn; it
+  is not the end of the note on leaf 172 verso, which is unfinished.
+  **Default: left out.** Do you want it in?
+- Photograph 272 has a note you did not transcribe, on leaf 266 verso:
+  Zielonacki cites Prusimski to the sitting at Grab. **Default: transcribed
+  and translated by me, and said so on the page.** Please check it.
+- Fifteen entries have no dated heading on a photographed page.
+  **Default: six dated to the month, nine to the year, with the reason
+  shown.** The pages before leaves 172 verso, 266 verso, 343 verso, 382
+  verso, 475, 495 verso, 617 and 671 verso would give the days.
+- Leaf 626: the heading says "Sabbatho ante Festum Sancti Michaelis ... 29".
+  The Saturday was the 28th. **Default: dated 28 September 1782, with the
+  reason shown.**
+- "hujusce[?] Spatii" for your "[?]uinocae Spati" on leaf 515. **Default:
+  my reading, left marked.**
+- "Loci busto" (leaf 526 verso), which your English gives as "at the
+  mound". **Default: left as you have it.** It may be "busti", a burnt
+  place.
+- Six lines from a chat window are in your English file ("9:24 p.m.",
+  "Please fix the most recent one." and others). **Default: left out.** You
+  may want to clean the file.
+- Three words in the added signatures are not read and are marked "[?]".

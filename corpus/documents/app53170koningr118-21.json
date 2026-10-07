@@ -1,0 +1,124 @@
+{
+ "letter_id": "21",
+ "seq_archival": 21,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-21",
+ "pad": "app53170koningr118-021",
+ "permalink": "/documents/app53170koningr118/21/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1782]",
+ "date_inferred_from": "Entered on leaf 617 directly above the heading of the sitting of 17 September 1782; the sitting before it among the scans is that of 16 August (leaf 585 verso).",
+ "year": 1782,
+ "month": "",
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 110,
+ "line_end": 113,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio\nVideatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis.",
+ "text_reading": "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio\n\nVideatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0617_a2",
+   "line_start": 112,
+   "line_end": 113,
+   "n_lines": 2,
+   "diplomatic": "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio\nVideatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis.",
+   "transcription": "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio\nVideatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis.",
+   "reading": "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio\n\nVideatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis.",
+   "paragraphs": [
+    "Ex parte M Chełmski T V contra JM Prusimski Capitanei Nieszczevicen~ ad Tribunal Relatio",
+    "Videatur hoc loco ex parte M Stanislai Chełmski Thesaurarii Vschoven~ contra J Magnificum Antonium Prusimski Capitaneum Nieszczevicen~ et Generosum Jacobum Gorski Camerarium Granicialum Junivladislav~ pro Judiciis ordinariis Generalibus Tribunalis Regni Petricovien~ editt~ Citationis Relatio in productis."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0617_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
+   "line": 112,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0617_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
+   "line": 112,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0617_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
+   "line": 113,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0617_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
+   "line": 113,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Illustrious Chełmski, Treasurer of Wschowa, against the Illustrious Prusimski, Starost of Niszczewice — Report to the Tribunal\n\nLet there be seen at this place, on behalf of the Illustrious Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Honourable Jakub Gorski, Boundary Surveyor of Inowrocław — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — the issued Citation Report in the submitted documents."
+  }
+ ],
+ "text_english": "On behalf of the Illustrious Chełmski, Treasurer of Wschowa, against the Illustrious Prusimski, Starost of Niszczewice — Report to the Tribunal\n\nLet there be seen at this place, on behalf of the Illustrious Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Honourable Jakub Gorski, Boundary Surveyor of Inowrocław — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — the issued Citation Report in the submitted documents.",
+ "summary_en": "A register note of 1782: the report of the citation that Stanisław Chełmski, Treasurer of Wschowa, obtained against Antoni Prusimski, Starost of Niszczewice, and Jakub Górski, boundary chamberlain of Inowrocław, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk von 1782: Bericht über die Ladung, die Stanisław Chełmski, Schatzmeister von Wschowa, gegen Antoni Prusimski, Starost von Niszczewice, und Jakub Górski, Grenzkämmerer von Inowrocław, vor das Krontribunal in Petrikau erwirkt hat.",
+ "reading": {}
+}

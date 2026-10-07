@@ -1,0 +1,125 @@
+{
+ "letter_id": "5",
+ "seq_archival": 5,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-5",
+ "pad": "app53170koningr118-005",
+ "permalink": "/documents/app53170koningr118/5/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1781-10-30",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1781-10-30",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1781,
+ "month": 10,
+ "day": 30,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 19,
+ "line_end": 23,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo\nEx Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio\nVideatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat",
+ "text_reading": "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo\n\nEx Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio\n\nVideatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0381_a2",
+   "line_start": 21,
+   "line_end": 23,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo\nEx Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio\nVideatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat",
+   "transcription": "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo\nEx Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio\nVideatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat",
+   "reading": "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo\n\nEx Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio\n\nVideatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat",
+   "paragraphs": [
+    "Actum in Conin Feria Tertia post Festum Sanctorum Simonis et Judae Apostolorum proxima Die scilicet 30 Mensis 8bris Anno Domini 1781mo",
+    "Ex Parte M Chełmski contra JM Prusimski Capitanei Nieszczevicen~ et Alios Relatio",
+    "Videatur hoc loco Relatio positt~ Citationis ex parte Magnifici Stanislai Chełmski Thaesaurarii Vschoven~ contra Illustrem Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judiciis Ordin~ Generalibus Tribunalis Regni Petricovien~ Infrascripti prout Copia in productis extat"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0381_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
+   "line": 22,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0381_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
+   "line": 22,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0381_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
+   "line": 23,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0381_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
+   "line": 23,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Tuesday, next after the Feast of Saints Simon and Jude, Apostles, namely the 30th day of the month of October, in the Year of the Lord 1781.\n\nOn behalf of the Illustrious Chełmski, against the Illustrious Prusimski, Starost of Niszczewice, and others — a Report\n\nLet there be seen at this place a Report of the served Citation on behalf of the Illustrious Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków below-written — as the copy in the submitted documents stands."
+  }
+ ],
+ "text_english": "Done in Konin, on Tuesday, next after the Feast of Saints Simon and Jude, Apostles, namely the 30th day of the month of October, in the Year of the Lord 1781.\n\nOn behalf of the Illustrious Chełmski, against the Illustrious Prusimski, Starost of Niszczewice, and others — a Report\n\nLet there be seen at this place a Report of the served Citation on behalf of the Illustrious Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków below-written — as the copy in the submitted documents stands.",
+ "summary_en": "A register note of 30 October 1781: the report that the citation was served which Stanisław Chełmski, Treasurer of Wschowa, obtained against Antoni Prusimski, Starost of Niszczewice, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk vom 30. Oktober 1781: Bericht über die Zustellung der Ladung, die Stanisław Chełmski, Schatzmeister von Wschowa, gegen Antoni Prusimski, Starost von Niszczewice, vor das Krontribunal in Petrikau erwirkt hat.",
+ "reading": {}
+}

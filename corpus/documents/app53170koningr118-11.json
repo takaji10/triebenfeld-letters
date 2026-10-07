@@ -1,0 +1,126 @@
+{
+ "letter_id": "11",
+ "seq_archival": 11,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-11",
+ "pad": "app53170koningr118-011",
+ "permalink": "/documents/app53170koningr118/11/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-03-18",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1782-03-18",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1782,
+ "month": 3,
+ "day": 18,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 50,
+ "line_end": 54,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782\nDecreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~",
+ "text_reading": "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782\n\nDecreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata\n\nVideatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0460_a2",
+   "line_start": 52,
+   "line_end": 54,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782\nDecreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~",
+   "transcription": "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782\nDecreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~",
+   "reading": "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782\n\nDecreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata\n\nVideatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~",
+   "paragraphs": [
+    "Actum in Conin Feria Secunda post Dominicam Judica Quadrlm~ proxima Die scilicet Decima Octava Mensis Martii Anno Domini 1782",
+    "Decreti Condescensorialis in Fundo ad Bona Trąpczyn specta~ prolati Oblata",
+    "Videatur hoc loco Oblata Decreti Condescensorialis in Hollandris ad Bona Trąpczyn specta~ Inter J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ et Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ prolati prout Originale in productis insutt~"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0460_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
+   "line": 54,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0460_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
+   "line": 54,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 1,
+   "page_id": "0460_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
+   "line": 53,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 1,
+   "page_id": "0460_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
+   "line": 54,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Monday, next after the Sunday of Judica in Lent, namely the 18th day of the month of March, in the Year of the Lord 1782.\n\nEnrollment of a Condescensorial Decree issued concerning the settlement belonging to the estate of Trąbczyn\n\nLet there be seen at this place the Enrollment of a Condescensorial Decree concerning the Olęder [settlement] belonging to the estate of Trąbczyn, issued between the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Illustrious Stanisław Chełmski, Treasurer of Wschowa — as the original in the submitted documents, sewn in."
+  }
+ ],
+ "text_english": "Done in Konin, on Monday, next after the Sunday of Judica in Lent, namely the 18th day of the month of March, in the Year of the Lord 1782.\n\nEnrollment of a Condescensorial Decree issued concerning the settlement belonging to the estate of Trąbczyn\n\nLet there be seen at this place the Enrollment of a Condescensorial Decree concerning the Olęder [settlement] belonging to the estate of Trąbczyn, issued between the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Illustrious Stanisław Chełmski, Treasurer of Wschowa — as the original in the submitted documents, sewn in.",
+ "summary_en": "A register note of 18 March 1782: the decree of the sitting on the ground concerning the Olęder settlement that belongs to Trąbczyn, given between Antoni Prusimski, Starost of Niszczewice, and Stanisław Chełmski, Treasurer of Wschowa, is brought in for entry; the original is sewn in among the documents produced.",
+ "summary_de": "Registervermerk vom 18. März 1782: Das Dekret des Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung, ergangen zwischen Antoni Prusimski, Starost von Niszczewice, und Stanisław Chełmski, Schatzmeister von Wschowa, wird zur Eintragung vorgelegt; das Original ist bei den vorgelegten Schriftstücken eingeheftet.",
+ "reading": {}
+}

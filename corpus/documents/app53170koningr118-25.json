@@ -1,0 +1,180 @@
+{
+ "letter_id": "25",
+ "seq_archival": 25,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-25",
+ "pad": "app53170koningr118-025",
+ "permalink": "/documents/app53170koningr118/25/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1782]",
+ "date_inferred_from": "Entered at the foot of leaf 671 verso; the next heading of a sitting, at the top of leaf 672, is of the Monday after St Andrew 1782, 2 December. The heading of its own sitting is on a page not among the scans.",
+ "year": 1782,
+ "month": "",
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 134,
+ "line_end": 137,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+ "text_reading": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\n\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0672_a1",
+   "line_start": 136,
+   "line_end": 137,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+   "transcription": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+   "reading": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\n\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+   "paragraphs": [
+    "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio",
+    "Personaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Citt~ Litt~ authen~ Judiciis Castrensis Calissien~ proxima in Castro Calissien~ Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven~ Bonorum Łukom haeredem et alios Citt~ pro paenis r~ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 136,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 136,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szetlewko",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
+   "line": 137,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Illustrious Prusimski, against the Illustrious Chełmski — a Report\n\nHaving come in person, the Honest Mateusz Matuszkiewicz of the village of Szetlewek, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the sessions of the Kalisz Municipal Court next to be held in the Kalisz Castle — on behalf of and at the instance of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn and others, and other Plaintiffs — against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, Heir of the estates of Łukom, and other Cited parties — for penalties on account of attempted violence with the arrest of people, [in Imo~] to be similarly carried out in the future, issued — in the manor of the estates of the village of Łukom, upon the small cupboard in the heated room, in the presence of the Cited party, on this very day — having placed [the citation] and having left notification."
+  }
+ ],
+ "text_english": "On behalf of the Illustrious Prusimski, against the Illustrious Chełmski — a Report\n\nHaving come in person, the Honest Mateusz Matuszkiewicz of the village of Szetlewek, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the sessions of the Kalisz Municipal Court next to be held in the Kalisz Castle — on behalf of and at the instance of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn and others, and other Plaintiffs — against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, Heir of the estates of Łukom, and other Cited parties — for penalties on account of attempted violence with the arrest of people, [in Imo~] to be similarly carried out in the future, issued — in the manor of the estates of the village of Łukom, upon the small cupboard in the heated room, in the presence of the Cited party, on this very day — having placed [the citation] and having left notification.",
+ "summary_en": "A report of the court messenger Mateusz Matuszkiewicz of Szetlewek, entered at Konin in 1782. He has served on Stanisław Chełmski, Treasurer of Wschowa and heir of Łukom, and on others a citation before the castle court of Kalisz, at the instance of Antoni Prusimski of Kolno, Starost of Niszczewice: for the penalties for acts of violence committed, with the seizing of people. He left it at the manor of Łukom in the presence of the man cited.",
+ "summary_de": "Bericht des Gerichtsboten Mateusz Matuszkiewicz von Szetlewek, eingetragen in Konin 1782. Er hat Stanisław Chełmski, Schatzmeister von Wschowa und Erbherr von Łukom, und anderen eine Ladung vor das Burggericht Kalisz zugestellt, auf Betreiben von Antoni Prusimski von Kolno, Starost von Niszczewice: wegen der Strafen für verübte Gewalttaten samt der Festnahme von Leuten. Er hat sie im Gutshof von Łukom in Gegenwart des Geladenen hinterlegt.",
+ "reading": {}
+}

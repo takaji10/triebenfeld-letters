@@ -1,0 +1,101 @@
+{
+ "letter_id": "6",
+ "seq_archival": 6,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-6",
+ "pad": "app53170koningr118-006",
+ "permalink": "/documents/app53170koningr118/6/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1781",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1781]",
+ "date_inferred_from": "Entered on leaves 382 verso and 383, between the headings of the sittings of 30 October 1781 (leaf 381) and 22 November 1781 (leaf 396). The heading of its own sitting is on a page not among the scans.",
+ "year": 1781,
+ "month": "",
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 24,
+ "line_end": 27,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis",
+ "text_reading": "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio\n\nVideatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0383_a1",
+   "line_start": 26,
+   "line_end": 27,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis",
+   "transcription": "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis",
+   "reading": "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio\n\nVideatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis",
+   "paragraphs": [
+    "Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra Illustrem Magnificum Prusimski Capitanei Nieszczevicen~ Relatio",
+    "Videatur hoc loco Relatio ex Parte Illustris Magnifici Ignatii Gałecki Capitanei Bidgostien~ anteacti et Illustris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum contra Illustrem Magnificum Antonium Prusimski Capitaneum Nieszczevicencem pro Judiciis Orind~ Generalibus Tribunalis Regni Petricovien~ prout Copia in productis"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0383_a1-L6_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0383_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0383_a1-L6_01.jpg",
+   "line": 26,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0383_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0383_a1-L6_01.jpg",
+   "line": 27,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Illustrious Gałecki, Starost of Bydgoszcz, and Skorzewski, Sub-chamberlain of Poznań, against the Illustrious Magnificent Prusimski, Starost of Niszczewice — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Ignacy Gałecki, Starost of Bydgoszcz, the former heir, and the Illustrious Magnificent Michał Drogosław Skorzewski, Sub-chamberlain of Poznań, the present heir of the estate of Biskupice — against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the copy in the submitted documents [attests]."
+  }
+ ],
+ "text_english": "On behalf of the Illustrious Gałecki, Starost of Bydgoszcz, and Skorzewski, Sub-chamberlain of Poznań, against the Illustrious Magnificent Prusimski, Starost of Niszczewice — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Ignacy Gałecki, Starost of Bydgoszcz, the former heir, and the Illustrious Magnificent Michał Drogosław Skorzewski, Sub-chamberlain of Poznań, the present heir of the estate of Biskupice — against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the copy in the submitted documents [attests].",
+ "summary_en": "A register note of 1781: the report of the citation that Ignacy Gałecki, Starost of Bydgoszcz, and Michał Drogosław Skórzewski, sub-chamberlain of Poznań, the former and the present heir of Biskupice, obtained against Antoni Prusimski, Starost of Niszczewice, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk von 1781: Bericht über die Ladung, die Ignacy Gałecki, Starost von Bromberg, und Michał Drogosław Skórzewski, Unterkämmerer von Posen, der frühere und der jetzige Erbherr von Biskupice, gegen Antoni Prusimski, Starost von Niszczewice, vor das Krontribunal in Petrikau erwirkt haben.",
+ "reading": {}
+}

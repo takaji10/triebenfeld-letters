@@ -1,0 +1,71 @@
+# What the check of APP 53/17/0/-/Konin Gr.118 against the scans changes for
+# anyone who has written about these entries from the earlier text. Read by
+# pipeline/review/changes_page.py. The check was a light one: every heading
+# and date line, the short entries word for word, the opening and close of
+# the long ones.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.118: twenty-nine register entries, 1780 to 1782"
+changes:
+- importance: significant
+  what: "The entry you have under [173] is not the continuation of the note on leaf 172 verso. That note is unfinished: it stops after the plaintiffs' names. Leaf 173 begins a new entry with its own heading, a commission decree between Rafał Gurowski, castellan, and the townsmen of Brdów. It does not concern Trąbczyn, and I left it out. Your English had joined the two into one sentence."
+  was: "(English) on behalf of the Illustrious Stefan Zielonacki ... and Stanisław Chełmski, Treasurer of Wschowa, the Enrollment of a Commissorial Decree issued between the residents of Brdów and the Illustrious Raphael Gurowski"
+  now: "(English) on behalf of the Illustrious Stefan Zielonacki ... and Stanisław Chełmski, Treasurer of Wschowa, [the note ends]"
+- importance: significant
+  what: "The first note is a report of a citation TO THE TRIBUNAL (\"ad Tribl Rel\"), against the Prusimskis and the Bogdańskis, and Zielonacki is \"Judicis\", the judge of the land court, as plaintiff beside Chełmski."
+  was: "Ex parte MM Zielonacki Judicium Terrestris Calissiensis et Chełmski contra MM Prusimski Bogdanskie a[d?] nbl Relatio"
+  now: "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio"
+  english_was: "Report to the Noble [Court]"
+  english_now: "Report to the Tribunal"
+- importance: significant
+  what: "A note on leaf 266 verso (your photograph 272) was not in your text; I transcribed and translated it. Zielonacki, judge of the land court, cites Prusimski to the sitting on the ground at Grab. It stands shortly before the heading of 9 May 1781."
+  was: "(not transcribed)"
+  now: "Ex Parte M Zielonacki Judicis Terrestris Calissiensis contra JM Prusimski Capitaneum Nieszczevicen~ Relatio / Videatur hoc loco Relatio ex parte Magnifici Stephani Zielonacki ... pro Termino Condescensionis In Fundo Bonorum Grab agitt~ Inciden~ prout Copia in productis"
+- importance: fact
+  what: "Gałecki and Skórzewski (leaf 382 verso) are the FORMER and the PRESENT heir of Biskupice: \"anteacti et ... Praesentanei Bonorum Biskupice Haeredum\". Your English had \"formerly Starost of Bydgoszcz\" and an unread word."
+  was: "Succamerariuu Posnaniensis B[ae?]septanei Bonorum Biskupice Haearedum"
+  now: "Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice Haearedum"
+  english_was: "Ignacy Gałecki, formerly Starost of Bydgoszcz, and ... Skorzewski, Sub-chamberlain of Poznań, [B[ae?]septanei], Heirs of the estate of Biskupice"
+  english_now: "Ignacy Gałecki, Starost of Bydgoszcz, the former heir, and ... Skorzewski, Sub-chamberlain of Poznań, the present heir of the estate of Biskupice"
+- importance: fact
+  what: "The citation on leaf 398 is for the term \"Condescensionis\", the sitting on the ground, at Grab, as its heading says; your text had \"Conditionis\"."
+  was: "pro Termino Conditionis in Fundo Bonorum Grab [A?]agitt~"
+  now: "pro Termino Condescensionis in Fundo Bonorum Grab agitt~"
+- importance: fact
+  what: "The abbot of Ląd is Ludwik Benedykt Lubstowski (\"Lu|dovici Benedicti\", leaf 416), and the citation was left with a maidservant present (\"Ancilla\")."
+  was: "Ladovie~ Benedicti Lubstowski ... praesen~ Ancitta Die horna Acta"
+  now: "Ludovici Benedicti Lubstowski ... praesen~ Ancilla Die horna Actu"
+- importance: fact
+  what: "The note of 16 August 1782 under Chełmski's protest (leaf 530 verso): the witnesses are Tomasz Reczkowski and Świętosław Bogusławski and the messenger Mateusz Matuszkiewicz of Szetlewek, the same men as in the search on leaf 585 verso. Chełmski signed the protest above the note and again below it."
+  was: "Thoma Reczkoyki[?] et Suent[o/i?] elai[?] Bogusławski nec non Providi Mathaei Matuszewski nie[x?] de Szetlewek"
+  now: "Thoma Reczkowski et Sventoslai Bogusławski nec non Providi Mathaei Matuszkiewicz de Szetlewek"
+- importance: fact
+  what: "The heading on leaf 674 verso ends \"Prolati Oblata\": the boundary decree of the sitting on the ground was GIVEN and is brought in; nothing about a protocol. The commissioner who delivered the settler Martin Hunt is Józef Łukaszewicz."
+  was: "Decreti Condescensorialis Granicialis Inter bona Trąmpczyn et Łukom Protocollo Obl[ata?] ... per M Josephus Lukaszewicz ... peractis"
+  now: "Decreti Condescensorialis Granicialis Inter bona Trąmpczyn et Łukom Prolati Oblata ... per M Josephum Łukaszewicz ... peracta"
+  english_was: "between the estates of Trąbczyn and Łukom — enrolled in the Protocol"
+  english_now: "issued between the estates of Trąbczyn and Łukom"
+- importance: fact
+  what: "Signatures stand under six entries and were not in your text: Prusimski's under his protest on leaf 343 verso (\"Antoni Ostrorog na Kolnie Prusimski\"); Father Tesselinus Malechowski's under the convent's protest; Gosławski's under his protest on leaf 475 verso; Chełmski's under the unwritten entry on leaf 515 and twice on leaf 530 verso; and Maszewski's goes on \"Imieniem Pana mego\", in the name of my lord."
+  was: "(not transcribed)"
+  now: "Super manifestationem Antoni Ostrorog na Kolnie Prusimski [?] / F Tesselinus Malechowski [?] qua Plens~ mpp / Petrus Gosławski qua [?] / Stanisław Scibor Chełmski / Leon Maszewski Imieniem Pana mego"
+- importance: fact
+  what: "Leaf numbers. The entry you put under [523] (Górski's protest) is on leaf 523 verso. Your line under [496] is your own note; leaf 496 begins another entry, and the citation of leaf 495 verso ends on that page. The heading on leaf 514 verso is only the date; the entry it dates is on leaf 515."
+  was: "[523] / [496] Tracholz/Chełmski/Grab/Rozdrażewska/Prusimski (same as 495v)"
+  now: "leaf 523 verso / (left out)"
+- importance: fact
+  what: "Dates. Read on the pages: 15 and 30 October 1781, 22 November 1781, 18 March, 19 April, 25 May, 1 June, 15 June, 21 September and 7 December 1782. From headings you did not transcribe: 4 December 1781 (leaf 398), 16 August 1782 (leaf 585 verso). The heading on leaf 626 says the Saturday before Michaelmas and \"29\", with the month you could not read: it is \"7bris\", and the Saturday was the 28th. Fifteen entries have no heading on a photographed page: six are dated to the month, nine to the year only."
+  was: "Die scilicet 29 Mensis [????] Anno Domini 1782"
+  now: "Die scilicet 29 Mensis 7bris Anno Domini 1782 (dated 28 September)"
+- importance: fact
+  what: "Six lines in your English file are not translation: \"9:24 p.m.\", \"Please fix the most recent one.\", \"9:28 p.m.\", \"Show more\", \"9:32 p.m.\" and \"Claude responded: [523]\". They are left out."
+  was: "(chat-window lines)"
+  now: "(removed)"
+- importance: fact
+  what: "Not checked. The long Latin of documents 13, 14, 17, 19 and 23 and the Polish of Maszewski's protest (27) were not read against the scans beyond their openings, names and closes. Their marks of doubt remain, and your English for them stands as you wrote it."
+  was: "(first reading)"
+  now: "(first reading, marked as rough)"
+- importance: wording
+  what: "Smaller readings: \"Manifestatio Certa\"; in the convent's Polish protest \"Osobiscie\", \"ręczy\", \"oczyszczaiąc się\", \"sprzyianiem\", \"gotowość\", \"przyzwoitych\"; \"seu tunc\"; \"pronuntiari\"; \"in Hollandris\"; \"praemisso attestato\"; \"in Papyro ... Eorundem\"; \"Cui Requisitioni ... de Inexistentia\"; \"Chełmski T V\"; \"Citationes Litteras ... ejusdemque essentiae trinas\"; \"attentatarum Violentiarum ... armariolo\"; in the report on the pines \"nalezącym\", \"wyciętey\", \"Kołkami\", \"Budynkowych\", \"WJmc\". On leaf 515 I read \"hujusce[?] Spatii\" for \"[?]uinocae Spati\" and left it marked."
+  was: "see the list"
+  now: "see the list"

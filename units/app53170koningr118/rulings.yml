@@ -1,0 +1,200 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.118 (APP).
+#
+# Twenty-nine documents, one for each entry of the register
+# (docs/PRUSIMSKI_ERA_PLAN.md, "One document or many"). Which entry is which
+# is in intake/holding.py. Established 2026-10-07.
+
+places:
+  # Place of writing: every sitting is headed "Actum in Conin".
+  overrides:
+    "1": Konin
+    "2": Konin
+    "3": Konin
+    "4": Konin
+    "5": Konin
+    "6": Konin
+    "7": Konin
+    "8": Konin
+    "9": Konin
+    "10": Konin
+    "11": Konin
+    "12": Konin
+    "13": Konin
+    "14": Konin
+    "15": Konin
+    "16": Konin
+    "17": Konin
+    "18": Konin
+    "19": Konin
+    "20": Konin
+    "21": Konin
+    "22": Konin
+    "23": Konin
+    "24": Konin
+    "25": Konin
+    "26": Konin
+    "27": Konin
+    "28": Konin
+    "29": Konin
+
+dates:
+  # [year, month, day, precision]; read off the document: the line "Actum in
+  # Conin ..." directly above the entry, which the editor transcribed with it.
+  read:
+    "4": [1781, 10, 15, "day"]    # Feria Secunda Ipso Die Festi Sanctae Haedvigis ... Decima Quinta Mensis Octobris 1781
+    "5": [1781, 10, 30, "day"]    # Feria Tertia post Festum Sanctorum Simonis et Judae ... 30 Mensis 8bris 1781
+    "8": [1781, 11, 22, "day"]    # Feria Quinta ante Festum Sanctae Catharinae ... 22 Mensis 9bris 1781
+    "11": [1782, 3, 18, "day"]    # Feria Secunda post Dominicam Judica ... Decima Octava Mensis Martii 1782
+    "12": [1782, 4, 19, "day"]    # Feria Sexta post Dominicam Misericordiae ... Decima Nona Mensis Aprilis 1782
+    "15": [1782, 5, 25, "day"]    # Sabbatho post Festa Solennia Sacri Pentecostes ... 25 Mensis Maii 1782
+    "16": [1782, 6, 1, "day"]     # Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi ... Prima Mensis Junii 1782
+    "19": [1782, 6, 15, "day"]    # Sabbatho Ipso Die Festi Sanctorum Viti et Modesti ... 15 Mensis Junii 1782
+    "23": [1782, 9, 21, "day"]    # Sabbatho Ipso Die Festi Sancti Mathaei ... Vigesima Prima Mensis Septembris 1782
+    "26": [1782, 12, 7, "day"]    # Sabbatho In vigilia Festi Immaculatae Conceptionis ... Septima Mensis Decembris 1782
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  # Entries with no heading of a sitting on a photographed page, and the
+  # entry whose heading gives a day that does not agree with its weekday (24).
+  inferred:
+    "1": [1780, null, null, "year", "Entered at the foot of leaf 172 verso; the next heading of a sitting, on leaf 173, is of 23 October 1780. The heading of its own sitting is on a page not among the scans."]
+    "2": [1781, null, null, "year", "Entered on leaf 266 verso; the next heading of a sitting, at the foot of leaf 267, is of 9 May 1781. The heading of its own sitting is on a page not among the scans."]
+    "3": [1781, null, null, "year", "Entered at the foot of leaf 343 verso; the next heading of a sitting, on leaf 344, is of 6 September 1781. The heading of its own sitting is on a page not among the scans."]
+    "6": [1781, null, null, "year", "Entered on leaves 382 verso and 383, between the headings of the sittings of 30 October 1781 (leaf 381) and 22 November 1781 (leaf 396). The heading of its own sitting is on a page not among the scans."]
+    "7": [1781, null, null, "year", "Entered on leaves 382 verso and 383, between the headings of the sittings of 30 October 1781 (leaf 381) and 22 November 1781 (leaf 396). The heading of its own sitting is on a page not among the scans."]
+    "10": [1782, 1, null, "month", "The citation it reports is dated 4 January 1782, and the next heading of a sitting, on leaf 416 verso, is of 16 January 1782."]
+    "13": [1782, null, null, "year", "Entered on leaves 475 and 475 verso, between the headings of the sittings of 19 April 1782 (leaf 469) and 25 May 1782 (leaf 514 verso). The heading of its own sitting is on a page not among the scans."]
+    "14": [1782, null, null, "year", "Entered on leaf 495 verso, between the headings of the sittings of 19 April 1782 (leaf 469) and 25 May 1782 (leaf 514 verso). The heading of its own sitting is on a page not among the scans."]
+    "17": [1782, 6, null, "month", "Entered on leaf 523 verso, between the headings of the sittings of 1 June 1782 (leaf 519) and 11 June 1782 (leaf 526 verso)."]
+    "18": [1782, 6, null, "month", "Entered at the top of leaf 526 verso, above the heading of the sitting of 11 June 1782 and after that of 1 June (leaf 519)."]
+    "21": [1782, null, null, "year", "Entered on leaf 617 directly above the heading of the sitting of 17 September 1782; the sitting before it among the scans is that of 16 August (leaf 585 verso)."]
+    "22": [1782, 9, null, "month", "Entered on leaf 622 above the heading of the sitting of 19 September 1782 and after that of 17 September (leaf 617)."]
+    "24": [1782, 9, 28, "day", "The heading reads 'Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29'. The Saturday before Michaelmas 1782 was 28 September; the 29th, which the clerk wrote, was the feast itself, a Sunday, and the next sitting is headed Monday the 30th."]
+    "25": [1782, null, null, "year", "Entered at the foot of leaf 671 verso; the next heading of a sitting, at the top of leaf 672, is of the Monday after St Andrew 1782, 2 December. The heading of its own sitting is on a page not among the scans."]
+    "28": [1782, 12, null, "month", "Entered at the top of leaf 674 verso, between the headings of the sittings of 7 December 1782 (leaf 673) and 9 December 1782 (lower on the same page)."]
+    "29": [1782, 12, null, "month", "Entered at the top of leaf 674 verso, between the headings of the sittings of 7 December 1782 (leaf 673) and 9 December 1782 (lower on the same page)."]
+
+  # The date of the sitting the entry stands under, where the heading is not
+  # directly above it and is not part of the transcription:
+  # [year, month, day, precision, basis].
+  sitting:
+    "9": [1781, 12, 4, "day", "The heading of the sitting is at the top of the facing page, leaf 397 verso: the Tuesday after St Andrew 1781, 'Die Scilicet Quarta Mensis Xbris'."]
+    "20": [1782, 8, 16, "day", "The heading of the sitting, higher on leaf 585 verso: the Friday after St Lawrence 1782, 'Decima Sexta mensis Augusti'."]
+    "27": [1782, 12, 7, "day", "The heading of the sitting is higher on leaf 673, above the entry before this one: the Saturday on the eve of the Immaculate Conception 1782, 'Septima Mensis Decembris'."]
+  no_date: []
+
+documents:
+  # note: a one-line register note; report: a court messenger's "relatio"
+  # given in full; protest: a "manifestatio"; certification: the office's
+  # certificate of a search.
+  doc_type:
+    "1": note
+    "2": note
+    "3": protest
+    "4": note
+    "5": note
+    "6": note
+    "7": note
+    "8": protest
+    "9": note
+    "10": report
+    "11": note
+    "12": note
+    "13": protest
+    "14": report
+    "15": note
+    "16": note
+    "17": protest
+    "18": note
+    "19": protest
+    "20": certification
+    "21": note
+    "22": note
+    "23": report
+    "24": note
+    "25": report
+    "26": report
+    "27": protest
+    "28": note
+    "29": note
+
+  language:
+    "1": la
+    "2": la
+    "3": la
+    "4": la
+    "5": la
+    "6": la
+    "7": la
+    "8": "pl,la"
+    "9": la
+    "10": la
+    "11": la
+    "12": la
+    "13": la
+    "14": la
+    "15": la
+    "16": la
+    "17": la
+    "18": la
+    "19": la
+    "20": la
+    "21": la
+    "22": la
+    "23": la
+    "24": la
+    "25": la
+    "26": "la,pl"
+    "27": "pl,la"
+    "28": la
+    "29": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+    "2": [trabczyn, lukomia]
+    "3": [trabczyn, lukomia]
+    "4": [trabczyn]
+    "5": [trabczyn, lukomia]
+    "6": [trabczyn]
+    "7": [trabczyn, lukomia]
+    "8": [trabczyn, lukomia]
+    "9": [trabczyn, lukomia]
+    "10": [trabczyn, lukomia]
+    "11": [trabczyn, lukomia]
+    "12": [trabczyn]
+    "13": [trabczyn]
+    "14": [trabczyn, lukomia]
+    "15": [trabczyn, lukomia]
+    "16": [trabczyn, lukomia]
+    "17": [trabczyn, lukomia]
+    "18": [trabczyn]
+    "19": [trabczyn, lukomia]
+    "20": [trabczyn, lukomia]
+    "21": [trabczyn, lukomia]
+    "22": [trabczyn, lukomia]
+    "23": [trabczyn]
+    "24": [trabczyn, lukomia]
+    "25": [trabczyn, lukomia]
+    "26": [trabczyn, lukomia]
+    "27": [trabczyn, lukomia]
+    "28": [trabczyn, lukomia]
+    "29": [trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0173_a1", "0267_a1", "0344_a1", "0368_a1", "0381_a2", "0383_a1", "0383_a2", "0396_a2", "0397_a1", "0398_a2", "0416_a2", "0417_a1", "0460_a2", "0469_a2", "0475_a2", "0476_a1", "0496_a1", "0515_a1", "0515_a2", "0519_a2", "0524_a1", "0527_a1", "0530_a2", "0531_a1", "0586_a1", "0586_a2", "0617_a2", "0622_a2", "0623_a1", "0623_a2", "0624_a1", "0626_a2", "0672_a1", "0673_a2", "0674_a1", "0674_a2", "0675_a1"]
+
+damage:
+  letters: []
+
+# The long Latin entries are a first reading of a heavily abbreviated hand
+# and still carry many words in doubt; they had only the light check
+# (intake/holding.py). The reader is told so on the document's page.
+rough:
+  letters: ["13", "14", "17", "19", "23"]

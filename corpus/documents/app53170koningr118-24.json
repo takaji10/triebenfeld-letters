@@ -1,0 +1,103 @@
+{
+ "letter_id": "24",
+ "seq_archival": 24,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-24",
+ "pad": "app53170koningr118-024",
+ "permalink": "/documents/app53170koningr118/24/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-09-28",
+ "date_precision": "day",
+ "date_source": "inferred",
+ "date_display": "[1782-09-28]",
+ "date_inferred_from": "The heading reads 'Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29'. The Saturday before Michaelmas 1782 was 28 September; the 29th, which the clerk wrote, was the feast itself, a Sunday, and the next sitting is headed Monday the 30th.",
+ "year": 1782,
+ "month": 9,
+ "day": 28,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 129,
+ "line_end": 133,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782\nEx parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis",
+ "text_reading": "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782\n\nEx parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\n\nVideatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0626_a2",
+   "line_start": 131,
+   "line_end": 133,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782\nEx parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis",
+   "transcription": "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782\nEx parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nVideatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis",
+   "reading": "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782\n\nEx parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\n\nVideatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis",
+   "paragraphs": [
+    "Actum in Conin Sabbatho ante Festum Sancti Michaelis Archangeli proximo Die scilicet 29 Mensis 7bris Anno Domini 1782",
+    "Ex parte Venerabilis Conventus Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio",
+    "Videatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski Capitanei Nieszczevicen~ pro Judicium Ordine~ Generalis Tribunalis Regni Petricovien~ prout Copia extat in productis"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0626_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
+   "line": 132,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0626_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
+   "line": 133,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Saturday, next before the Feast of Saint Michael the Archangel, namely the 29th day of the month of September, in the Year of the Lord 1782.\n\nOn behalf of the Venerable Ląd Convent, against the Illustrious Prusimski, Starost of Niszczewice — a Report\n\nLet there be seen at this place a Report on behalf of the Venerable Ląd Convent, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the copy stands in the submitted documents."
+  }
+ ],
+ "text_english": "Done in Konin, on Saturday, next before the Feast of Saint Michael the Archangel, namely the 29th day of the month of September, in the Year of the Lord 1782.\n\nOn behalf of the Venerable Ląd Convent, against the Illustrious Prusimski, Starost of Niszczewice — a Report\n\nLet there be seen at this place a Report on behalf of the Venerable Ląd Convent, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the copy stands in the submitted documents.",
+ "summary_en": "A register note of September 1782: the report of the citation that the convent of Ląd obtained against Antoni Prusimski, Starost of Niszczewice, before the Crown Tribunal at Piotrków; a copy is among the documents produced.",
+ "summary_de": "Registervermerk vom September 1782: Bericht über die Ladung, die der Konvent von Ląd gegen Antoni Prusimski, Starost von Niszczewice, vor das Krontribunal in Petrikau erwirkt hat; eine Abschrift liegt bei den vorgelegten Schriftstücken.",
+ "reading": {}
+}

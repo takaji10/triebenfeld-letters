@@ -1,0 +1,136 @@
+{
+ "letter_id": "22",
+ "seq_archival": 22,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-22",
+ "pad": "app53170koningr118-022",
+ "permalink": "/documents/app53170koningr118/22/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-09",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1782-09]",
+ "date_inferred_from": "Entered on leaf 622 above the heading of the sitting of 19 September 1782 and after that of 17 September (leaf 617).",
+ "year": 1782,
+ "month": 9,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 114,
+ "line_end": 117,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis.",
+ "text_reading": "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio\n\nVideatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0622_a2",
+   "line_start": 116,
+   "line_end": 117,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis.",
+   "transcription": "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis.",
+   "reading": "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio\n\nVideatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis.",
+   "paragraphs": [
+    "Ex Parte JM Prusimski Capitaneum Nieszczevicen~ contra M Chełmski Relatio",
+    "Videatur hoc loco Relatio positt~ Citt~ ex parte Illustris Magnifici Antonii in Kolno Prusimski Capitaneum Nieszczevicen~ Ordinis Sancti Stanislai contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissimum Benedictum Lubstowski Abbatem Claustralem Landensem seu totum Conventum Landensem pro Judiciis Ordine~ Generalibus Tribunalitatis Regni Petricovien~ pro ut Copia porrecta extat in productis."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0622_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "line": 116,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0622_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "line": 116,
+   "doc_line": 1
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0622_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "line": 117,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0622_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "line": 117,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "0622_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+   "line": 117,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Chełmski — a Report\n\nLet there be seen at this place a Citation Return Report on behalf of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, of the Order of Saint Stanislaus, against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, and Jan Alojzy Orłowski, Land Chamberlain of the Dobrzyń Land, and also the Most Illustrious and Most Reverend Benedykt Lubstowski, Cloistered Abbot of Ląd, or the entire Ląd Convent — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the submitted copy stands in the submitted documents."
+  }
+ ],
+ "text_english": "On behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Chełmski — a Report\n\nLet there be seen at this place a Citation Return Report on behalf of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, of the Order of Saint Stanislaus, against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, and Jan Alojzy Orłowski, Land Chamberlain of the Dobrzyń Land, and also the Most Illustrious and Most Reverend Benedykt Lubstowski, Cloistered Abbot of Ląd, or the entire Ląd Convent — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — as the submitted copy stands in the submitted documents.",
+ "summary_en": "A register note of September 1782: the report that the citation was served which Antoni Prusimski of Kolno, Starost of Niszczewice, obtained against Stanisław Chełmski, Treasurer of Wschowa, against Jan Alojzy Orłowski, chamberlain of the land of Dobrzyń, and against Abbot Benedykt Lubstowski and the whole convent of Ląd, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk vom September 1782: Bericht über die Zustellung der Ladung, die Antoni Prusimski von Kolno, Starost von Niszczewice, gegen Stanisław Chełmski, Schatzmeister von Wschowa, gegen Jan Alojzy Orłowski, Kämmerer des Landes Dobrzyń, und gegen Abt Benedykt Lubstowski und den ganzen Konvent von Ląd vor das Krontribunal in Petrikau erwirkt hat.",
+ "reading": {}
+}

@@ -1,0 +1,194 @@
+{
+ "letter_id": "10",
+ "seq_archival": 10,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-10",
+ "pad": "app53170koningr118-010",
+ "permalink": "/documents/app53170koningr118/10/",
+ "doc_type": "report",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-01",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1782-01]",
+ "date_inferred_from": "The citation it reports is dated 4 January 1782, and the next heading of a sitting, on leaf 416 verso, is of 16 January 1782.",
+ "year": 1782,
+ "month": 1,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 44,
+ "line_end": 49,
+ "uncertainty_count": 3,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 2,
+ "text": "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nAd Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum\nDrzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+ "text_reading": "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\n\nAd Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum\n\nDrzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0416_a2",
+   "line_start": 46,
+   "line_end": 47,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nAd Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum",
+   "transcription": "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\nAd Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum",
+   "reading": "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio\n\nAd Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum",
+   "paragraphs": [
+    "Ex Parte Venerabilis Conventem Landensem contra JM Prusimski Capitanei Nieszczevicen~ Relatio",
+    "Ad Officium et Acta praesente Castrensia Coninensia personaliter veniens Providus Simon Głabik de Drzewce Ministerialis Regni Generalis Sanus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ Infrascripti editt~ tenoris talis Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithovaniae Russiae Prussiae Masoviae Samogiciae, Kijowiae Wotchiniae Podoliae Podlachiae Livoniae Smolensciae Severiae Czerniechoviae que sibi Illustri Magnifico Antonio Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyno Haeredi de Causa Infrascripta Bonisque Suis generaliter omnibus mandamus Ut Coram Nobis Judicio[que?] Nostro Ordine~ Generali Tribunalis Regni Petricovien~ recte in Quatuor Septimanis seu tunc dum et quando Causa praesens ad judicandem acclamata Inciderit personaliter peremptoneque Compareas Ad Instantiam Illustrissimi Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus Bonorum"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0417_a1",
+   "line_start": 49,
+   "line_end": 49,
+   "n_lines": 1,
+   "diplomatic": "Drzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "transcription": "Drzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "reading": "Drzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse.",
+   "paragraphs": [
+    "Drzewce Haeredum Actt~ Qui Actt~ Inhaerendo Ma[f?]nibus Suis Citant Se seu potius adcitant ad Incidentiam Causae cum Haerede Bonorum Łukomia et Aliorum Idque ad viden~ et Audien~ se Actt~ ab Obiecto Condictamine ac [A?] cum Haerede Bonorum Łukomia attentis Documentis videlicet Decretis Tribunalitiis et Visione Anno Domini Millesimo Quingentesimo Nonagesimo Secundo per Eadem Decreta approbata liberos pronuntiari paenas respu objectae Condictaminis extendi Litisque expensas refundendas adinveniri Caeteraque pro Causae attentaturus et Judicialiter respon~ Datum Petricoviae Die Quarta Januarii Anno Domini Millesimo Septingesimo Octuagesimo Secundo In Curia Bonorum Trąpczyn super Mensa hippi praesen~ Ancilla Die horna Actu Contenta posuisse et notificatt~ reliquisse."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
+   "doc_line_start": 3,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0416_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+   "line": 46,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0416_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+   "line": 47,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 1,
+   "page_id": "0416_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+   "line": 47,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyno",
+   "page": 1,
+   "page_id": "0416_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+   "line": 47,
+   "doc_line": 2
+  },
+  {
+   "entity": "drzewce",
+   "display": "Drzewce",
+   "kind": "place",
+   "surface": "Drzewce",
+   "page": 2,
+   "page_id": "0417_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
+   "line": 49,
+   "doc_line": 3
+  },
+  {
+   "entity": "lukomia",
+   "display": "Łukomia",
+   "kind": "place",
+   "surface": "Łukomia",
+   "page": 2,
+   "page_id": "0417_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
+   "line": 49,
+   "doc_line": 3
+  },
+  {
+   "entity": "lukomia",
+   "display": "Łukomia",
+   "kind": "place",
+   "surface": "Łukomia",
+   "page": 2,
+   "page_id": "0417_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
+   "line": 49,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 2,
+   "page_id": "0417_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
+   "line": 49,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "On behalf of the Venerable Ląd Convent, against the Illustrious Prusimski, Starost of Niszczewice — a Report\n\nHaving come in person to the present Office and Records of the Konin Municipal Court, the Honest Simon Głabik of Drzewce, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków below-written, of the following tenor:\n\nStanisław August, by the Grace of God, King of Poland, Grand Duke of Lithuania, Russia, Prussia, Masovia, Samogitia, Kyiv, Volhynia, Podolia, Podlachia, Livonia, Smolensk, Severia, and Chernihiv — to the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, Heir of the estate of Trąbczyn, concerning the cause below-written and all his estates generally — we command: that before Us and Our Ordinary General Court of the Crown Tribunal of the Kingdom at Piotrków, exactly within four weeks [uncertain: seco], then when and at such time as the present cause shall fall to be judged when called, you appear in person and peremptorily — at the instance of the Most Illustrious Most Reverend Benedykt Lubstowski of Ląd, Abbot of the Sacred Cistercian Order's Convent of Ląd, and of the entire same Convent, Heirs of the estates of"
+  },
+  {
+   "page": 2,
+   "en": "Drzewce — Plaintiffs. Which Plaintiffs, adhering to their own [documents], cite themselves, or rather summon [parties] to the joinder of the cause with the Heir of the estates of Łukomia and others; and this to see and hear themselves, the Plaintiffs, [declared free] from the alleged counterclaim, and [uncertain: A] with the Heir of the estates of Łukomia, the documents having been considered — namely the Tribunal Decrees and the Survey of the Year of the Lord 1592, approved by those same Decrees — [to be] declared free [from the accusation], the penalties of the alleged counterclaim to be extended [to Prusimski], and court expenses to be found refundable; and other matters to be pursued for the cause and responded to judicially. Given at Piotrków, on the 4th day of January, in the Year of the Lord 1782. In the manor of the estate of Trąbczyn, upon the table in the heated room, a maidservant present, on this very day, having placed the contents of the present Acts and having left notification."
+  }
+ ],
+ "text_english": "On behalf of the Venerable Ląd Convent, against the Illustrious Prusimski, Starost of Niszczewice — a Report\n\nHaving come in person to the present Office and Records of the Konin Municipal Court, the Honest Simon Głabik of Drzewce, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków below-written, of the following tenor:\n\nStanisław August, by the Grace of God, King of Poland, Grand Duke of Lithuania, Russia, Prussia, Masovia, Samogitia, Kyiv, Volhynia, Podolia, Podlachia, Livonia, Smolensk, Severia, and Chernihiv — to the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, Heir of the estate of Trąbczyn, concerning the cause below-written and all his estates generally — we command: that before Us and Our Ordinary General Court of the Crown Tribunal of the Kingdom at Piotrków, exactly within four weeks [uncertain: seco], then when and at such time as the present cause shall fall to be judged when called, you appear in person and peremptorily — at the instance of the Most Illustrious Most Reverend Benedykt Lubstowski of Ląd, Abbot of the Sacred Cistercian Order's Convent of Ląd, and of the entire same Convent, Heirs of the estates of\n\nDrzewce — Plaintiffs. Which Plaintiffs, adhering to their own [documents], cite themselves, or rather summon [parties] to the joinder of the cause with the Heir of the estates of Łukomia and others; and this to see and hear themselves, the Plaintiffs, [declared free] from the alleged counterclaim, and [uncertain: A] with the Heir of the estates of Łukomia, the documents having been considered — namely the Tribunal Decrees and the Survey of the Year of the Lord 1592, approved by those same Decrees — [to be] declared free [from the accusation], the penalties of the alleged counterclaim to be extended [to Prusimski], and court expenses to be found refundable; and other matters to be pursued for the cause and responded to judicially. Given at Piotrków, on the 4th day of January, in the Year of the Lord 1782. In the manor of the estate of Trąbczyn, upon the table in the heated room, a maidservant present, on this very day, having placed the contents of the present Acts and having left notification.",
+ "summary_en": "A report of the court messenger Simon Głabik of Drzewce, entered at Konin in January 1782. He has served on Antoni Prusimski, Starost of Niszczewice and heir of Trąbczyn, a royal citation before the Crown Tribunal at Piotrków, dated at Piotrków on 4 January 1782, at the instance of Abbot Benedykt Lubstowski and the convent of Ląd, heirs of Drzewce. The convent asks to be cleared of the charge of collusion with the heir of Łukomia and relies on Tribunal decrees and the inspection of 1592. The messenger left the citation at the manor of Trąbczyn.",
+ "summary_de": "Bericht des Gerichtsboten Simon Głabik von Drzewce, eingetragen in Konin im Januar 1782. Er hat Antoni Prusimski, Starost von Niszczewice und Erbherr von Trąbczyn, eine königliche Ladung vor das Krontribunal in Petrikau zugestellt, ausgestellt in Petrikau am 4. Januar 1782, auf Betreiben von Abt Benedykt Lubstowski und dem Konvent von Ląd, Erbherren von Drzewce. Der Konvent will von dem Vorwurf der Absprache mit dem Erbherrn von Łukomia freigesprochen werden und beruft sich auf Tribunalsdekrete und die Besichtigung von 1592. Der Bote hat die Ladung im Gutshof von Trąbczyn hinterlegt.",
+ "reading": {}
+}

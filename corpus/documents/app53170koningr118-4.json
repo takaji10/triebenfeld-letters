@@ -1,0 +1,102 @@
+{
+ "letter_id": "4",
+ "seq_archival": 4,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-4",
+ "pad": "app53170koningr118-004",
+ "permalink": "/documents/app53170koningr118/4/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1781-10-15",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1781-10-15",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1781,
+ "month": 10,
+ "day": 15,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 14,
+ "line_end": 18,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis.",
+ "text_reading": "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0368_a1",
+   "line_start": 16,
+   "line_end": 18,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis.",
+   "transcription": "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis.",
+   "reading": "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis.",
+   "paragraphs": [
+    "Actum in Conin Feria Secunda Ipso Die Festi Sanctae Haedvigis Viduae Electae Dei scilicet Decima Quinta Mensis Octobris Anno Domini 1781",
+    "Ex Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ ad Tribunal Relatio",
+    "Videatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ contra Magnificos Casimirum Parentem Nepomucenum Ignatium et Ludovicum Filios Zakrzewski atque Judicium Terrestre Calissien~ ad Tribunal Regni Petricovien~ prout Copia in productis."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0368_a1-L4_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0368_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0368_a1-L4_01.jpg",
+   "line": 17,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0368_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0368_a1-L4_01.jpg",
+   "line": 18,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Monday, on the very day of the Feast of Saint Hedwig, Widow, Elect of God, namely the 15th day of the month of October, in the Year of the Lord 1781.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Zakrzewskis and the Kalisz Land Court — Report to the Tribunal\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, against the Illustrious Casimir, father, and Nepomucen, Ignacy, and Ludwik, sons, Zakrzewski, and [against] the Kalisz Land Court — to the Crown Tribunal of the Kingdom at Piotrków — as the copy in the submitted documents [attests]."
+  }
+ ],
+ "text_english": "Done in Konin, on Monday, on the very day of the Feast of Saint Hedwig, Widow, Elect of God, namely the 15th day of the month of October, in the Year of the Lord 1781.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Zakrzewskis and the Kalisz Land Court — Report to the Tribunal\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, against the Illustrious Casimir, father, and Nepomucen, Ignacy, and Ludwik, sons, Zakrzewski, and [against] the Kalisz Land Court — to the Crown Tribunal of the Kingdom at Piotrków — as the copy in the submitted documents [attests].",
+ "summary_en": "A register note of 15 October 1781: the report of the citation that Antoni Prusimski, Starost of Niszczewice, obtained against Kazimierz Zakrzewski and his sons Nepomucen, Ignacy and Ludwik, and against the Kalisz land court, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk vom 15. Oktober 1781: Bericht über die Ladung, die Antoni Prusimski, Starost von Niszczewice, gegen Kazimierz Zakrzewski und dessen Söhne Nepomucen, Ignacy und Ludwik sowie gegen das Kalischer Landgericht vor das Krontribunal in Petrikau erwirkt hat.",
+ "reading": {}
+}

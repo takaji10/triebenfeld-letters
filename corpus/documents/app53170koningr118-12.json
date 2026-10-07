@@ -1,0 +1,102 @@
+{
+ "letter_id": "12",
+ "seq_archival": 12,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-12",
+ "pad": "app53170koningr118-012",
+ "permalink": "/documents/app53170koningr118/12/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-04-19",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1782-04-19",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1782,
+ "month": 4,
+ "day": 19,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 55,
+ "line_end": 59,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat",
+ "text_reading": "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0469_a2",
+   "line_start": 57,
+   "line_end": 59,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat",
+   "transcription": "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat",
+   "reading": "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat",
+   "paragraphs": [
+    "Actum in Conin Feria Sexta post Dominicam Misericordiae proxima Die scilicet Decima Nona Mensis Aprilis Anno Domini 1782do",
+    "Ex Parte JM Prusimski Capitanei Nieszczevicen~ contra MM Zakrzewskie et Judicium Terrestre Calissien~ Relatio",
+    "Videatur hoc loco Relatio ex parte Illustris Magnifici Antonii Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis contra Magnificos Parentem et Filios Zakrzewskie atque Judicium Terrestre Calissien~ pro Judiciis Ordine~ Generalibus Tribunalis Regni Petricovien~ editt~ prout Copia in productis extat"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0469_a2-L12_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0469_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0469_a2-L12_01.jpg",
+   "line": 58,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0469_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0469_a2-L12_01.jpg",
+   "line": 59,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Friday, next after the Sunday of Misericordia, namely the 19th day of the month of April, in the Year of the Lord 1782.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Zakrzewskis and the Kalisz Land Court — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, against the Illustrious [Casimir] the father and the sons Zakrzewski, and [against] the Kalisz Land Court — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków, issued — as the copy in the submitted documents stands."
+  }
+ ],
+ "text_english": "Done in Konin, on Friday, next after the Sunday of Misericordia, namely the 19th day of the month of April, in the Year of the Lord 1782.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Zakrzewskis and the Kalisz Land Court — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, against the Illustrious [Casimir] the father and the sons Zakrzewski, and [against] the Kalisz Land Court — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków, issued — as the copy in the submitted documents stands.",
+ "summary_en": "A register note of 19 April 1782: the report of the citation that Antoni Prusimski, Starost of Niszczewice, knight of the Order of St Stanislaus, obtained against the Zakrzewskis, father and sons, and against the Kalisz land court, before the Crown Tribunal at Piotrków.",
+ "summary_de": "Registervermerk vom 19. April 1782: Bericht über die Ladung, die Antoni Prusimski, Starost von Niszczewice, Ritter des St.-Stanislaus-Ordens, gegen Vater und Söhne Zakrzewski sowie gegen das Kalischer Landgericht vor das Krontribunal in Petrikau erwirkt hat.",
+ "reading": {}
+}

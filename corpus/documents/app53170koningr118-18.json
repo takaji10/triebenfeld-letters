@@ -1,0 +1,113 @@
+{
+ "letter_id": "18",
+ "seq_archival": 18,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-18",
+ "pad": "app53170koningr118-018",
+ "permalink": "/documents/app53170koningr118/18/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-06",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1782-06]",
+ "date_inferred_from": "Entered at the top of leaf 526 verso, above the heading of the sitting of 11 June 1782 and after that of 1 June (leaf 519).",
+ "year": 1782,
+ "month": 6,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 88,
+ "line_end": 91,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 2,
+ "n_pages": 1,
+ "text": "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+ "text_reading": "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata\n\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0527_a1",
+   "line_start": 90,
+   "line_end": 91,
+   "n_lines": 2,
+   "diplomatic": "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+   "transcription": "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+   "reading": "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata\n\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+   "paragraphs": [
+    "Pro Parte JM Prusimski Capitanei Nieszczevicen~ Loci Visionis Oblata",
+    "Videatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen~ haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0527_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "line": 90,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0527_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "line": 91,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 1,
+   "page_id": "0527_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "line": 91,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Enrollment of a Judicial Site Inspection of the Location\n\nLet there be seen at this place the Enrollment of a judicial site inspection of the location at the mound belonging to the hereditary estates of Trąbczyn of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — conducted by two Nobles and a Process Server, written on paper from the Treasury of the Kingdom of one silver grosz, and subscribed by the own hands of the same Nobles — as the original stands in the submitted documents."
+  }
+ ],
+ "text_english": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Enrollment of a Judicial Site Inspection of the Location\n\nLet there be seen at this place the Enrollment of a judicial site inspection of the location at the mound belonging to the hereditary estates of Trąbczyn of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — conducted by two Nobles and a Process Server, written on paper from the Treasury of the Kingdom of one silver grosz, and subscribed by the own hands of the same Nobles — as the original stands in the submitted documents.",
+ "summary_en": "A register note of June 1782: for Antoni Prusimski, Starost of Niszczewice, the inspection of a place on the hereditary ground of Trąbczyn is brought in for entry, drawn up by two noblemen and a court messenger on paper stamped at one silver grosz and signed by the noblemen in their own hands; the original is among the documents produced.",
+ "summary_de": "Registervermerk vom Juni 1782: Für Antoni Prusimski, Starost von Niszczewice, wird die Besichtigung eines Ortes auf Trąbczyner Erbgrund zur Eintragung vorgelegt, von zwei Adligen und einem Gerichtsboten auf Stempelpapier zu einem Silbergroschen aufgesetzt und von den Adligen eigenhändig unterschrieben; das Original liegt bei den vorgelegten Schriftstücken.",
+ "reading": {}
+}

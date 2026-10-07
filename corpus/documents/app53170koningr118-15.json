@@ -1,0 +1,128 @@
+{
+ "letter_id": "15",
+ "seq_archival": 15,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-15",
+ "pad": "app53170koningr118-015",
+ "permalink": "/documents/app53170koningr118/15/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-05-25",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1782-05-25",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1782,
+ "month": 5,
+ "day": 25,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 71,
+ "line_end": 77,
+ "uncertainty_count": 1,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 4,
+ "n_pages": 2,
+ "text": "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782\nM Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur\nPetrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria\nStanisław Scibor Chełmski",
+ "text_reading": "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782\n\nM Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur\n\nPetrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria\n\nStanisław Scibor Chełmski",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0515_a1",
+   "line_start": 73,
+   "line_end": 73,
+   "n_lines": 1,
+   "diplomatic": "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782",
+   "transcription": "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782",
+   "reading": "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782",
+   "paragraphs": [
+    "Actum in Conin Sabbatho post Festa Solennia Sacri Pentecosteri proximo Die scilicet 25 Mensis Maii Anno Domini 1782"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_17_0_Konin_Gr_118_0515_a1-L15_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 1,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0515_a2",
+   "line_start": 75,
+   "line_end": 77,
+   "n_lines": 3,
+   "diplomatic": "M Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur\nPetrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria\nStanisław Scibor Chełmski",
+   "transcription": "M Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur\nPetrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria\nStanisław Scibor Chełmski",
+   "reading": "M Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur\n\nPetrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria\n\nStanisław Scibor Chełmski",
+   "paragraphs": [
+    "M Chełmski Thaesaurarii Vschoven~ contra Decretum Tribunalium Regni Manifestatur",
+    "Petrus Gosławski quia Plenipotens Super requisitionem hujusce[?] Spatii manupropria",
+    "Stanisław Scibor Chełmski"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
+   "doc_line_start": 2,
+   "doc_line_end": 4,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 2,
+   "page_id": "0515_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
+   "line": 75,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 2,
+   "page_id": "0515_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
+   "line": 77,
+   "doc_line": 4
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Saturday, next after the Solemn Feasts of Holy Pentecost, namely the 25th day of the month of May, in the Year of the Lord 1782."
+  },
+  {
+   "page": 2,
+   "en": "The Illustrious Chełmski, Treasurer of Wschowa, against a Decree of the Crown Tribunal — a Manifest is lodged\n\nPiotr Gosławski, as Plenipotentiary, upon the requisition of [uncertain: this] space — by his own hand.\n\nStanisław Ścibor Chełmski"
+  }
+ ],
+ "text_english": "Done in Konin, on Saturday, next after the Solemn Feasts of Holy Pentecost, namely the 25th day of the month of May, in the Year of the Lord 1782.\n\nThe Illustrious Chełmski, Treasurer of Wschowa, against a Decree of the Crown Tribunal — a Manifest is lodged\n\nPiotr Gosławski, as Plenipotentiary, upon the requisition of [uncertain: this] space — by his own hand.\n\nStanisław Ścibor Chełmski",
+ "summary_en": "The heading of an entry of 25 May 1782: Chełmski, Treasurer of Wschowa, protests against a decree of the Crown Tribunal. The text was not written. Under it Piotr Gosławski, as plenipotentiary, on his inquiry about the space, and Stanisław Ścibor Chełmski signed.",
+ "summary_de": "Überschrift eines Eintrags vom 25. Mai 1782: Chełmski, Schatzmeister von Wschowa, protestiert gegen ein Dekret des Krontribunals. Der Text wurde nicht geschrieben. Darunter haben Piotr Gosławski als Bevollmächtigter, auf seine Nachfrage wegen des Platzes, und Stanisław Ścibor Chełmski unterschrieben.",
+ "reading": {}
+}

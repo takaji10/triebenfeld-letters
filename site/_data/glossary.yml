@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 33
+  docs: 36
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -549,7 +549,7 @@
   initial_en: "C"
   sort_de: "competenz"
   initial_de: "C"
-  docs: 29
+  docs: 30
 - id: "pertinenz"
   kind: "land"
   lang: "de_la"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 61
+  docs: 65
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 70
+  docs: 73
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 58
+  docs: 63
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 49
+  docs: 76
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1081,7 +1081,7 @@
   initial_en: "O"
   sort_de: "ausfertigung"
   initial_de: "A"
-  docs: 25
+  docs: 26
 - id: "vidimirt"
   kind: "law"
   lang: "de_la"
@@ -1138,7 +1138,7 @@
   initial_en: "S"
   sort_de: "transact"
   initial_de: "T"
-  docs: 16
+  docs: 17
 - id: "indult"
   kind: "law"
   lang: "de_la"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 67
+  docs: 78
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1385,7 +1385,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 53
+  docs: 55
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 35
+  docs: 54
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1670,7 +1670,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 352
+  docs: 354
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 88
+  docs: 91
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1803,7 +1803,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 63
+  docs: 64
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 39
+  docs: 50
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1936,7 +1936,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 43
+  docs: 46
 - id: "d-j"
   kind: "phrase"
   lang: "de"

@@ -1,0 +1,137 @@
+{
+ "letter_id": "16",
+ "seq_archival": 16,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-16",
+ "pad": "app53170koningr118-016",
+ "permalink": "/documents/app53170koningr118/16/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-06-01",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1782-06-01",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1782,
+ "month": 6,
+ "day": 1,
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 78,
+ "line_end": 82,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn",
+  "lukomia"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat",
+ "text_reading": "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0519_a2",
+   "line_start": 80,
+   "line_end": 82,
+   "n_lines": 3,
+   "diplomatic": "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat",
+   "transcription": "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat",
+   "reading": "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782\n\nEx Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio\n\nVideatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat",
+   "paragraphs": [
+    "Actum in Conin Sabbatho Intra Octavas Festi Sacratissimi Corporis Christi Domini Die scilicet Prima Mensis Junii Anno Ejusdem 1782",
+    "Ex Parte JM Prusimski Capitanei Nieszczevicen~ contra M Chełmski Relatio",
+    "Videatur hoc loco Relatio ex parte Illustris Magnifici Antonii a Kolno Prusimski Capitanei Nieszczevicen~ contra Magnificum Stanislaum Chełmski Thaesaurarius Vschoven~ pro Termino Cond~nis in Bonis Grab agitt~ Inciden~ prout Copia porrecta in productis extat"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0519_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "line": 81,
+   "doc_line": 2
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0519_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "line": 81,
+   "doc_line": 2
+  },
+  {
+   "entity": "chemski",
+   "display": "Chełmski",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0519_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "line": 82,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0519_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "line": 82,
+   "doc_line": 3
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
+   "kind": "place",
+   "surface": "Kolno",
+   "page": 1,
+   "page_id": "0519_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
+   "line": 82,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Done in Konin, on Saturday, within the Octave of the Feast of the Most Sacred Body of Christ the Lord, namely the 1st day of the month of June, in the Year of the same 1782.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Chełmski — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, against the Illustrious Stanisław Chełmski, Treasurer of Wschowa — for the Term of the Condescension in the estates of Grab, being conducted, upcoming — as the submitted copy stands in the submitted documents."
+  }
+ ],
+ "text_english": "Done in Konin, on Saturday, within the Octave of the Feast of the Most Sacred Body of Christ the Lord, namely the 1st day of the month of June, in the Year of the same 1782.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Chełmski — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, against the Illustrious Stanisław Chełmski, Treasurer of Wschowa — for the Term of the Condescension in the estates of Grab, being conducted, upcoming — as the submitted copy stands in the submitted documents.",
+ "summary_en": "A register note of 1 June 1782: the report of the citation that Antoni Prusimski of Kolno, Starost of Niszczewice, obtained against Stanisław Chełmski, Treasurer of Wschowa, for the sitting on the ground at the estate of Grab; a copy is among the documents produced.",
+ "summary_de": "Registervermerk vom 1. Juni 1782: Bericht über die Ladung, die Antoni Prusimski von Kolno, Starost von Niszczewice, gegen Stanisław Chełmski, Schatzmeister von Wschowa, zum Ortstermin auf dem Gut Grab erwirkt hat; eine Abschrift liegt bei den vorgelegten Schriftstücken.",
+ "reading": {}
+}

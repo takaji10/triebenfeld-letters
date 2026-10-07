@@ -1,0 +1,113 @@
+{
+ "letter_id": "29",
+ "seq_archival": 29,
+ "parent_letter": "",
+ "unit": "app53170koningr118",
+ "uid": "app53170koningr118-29",
+ "pad": "app53170koningr118-029",
+ "permalink": "/documents/app53170koningr118/29/",
+ "doc_type": "note",
+ "era": "prusimski-boundary",
+ "themes": [],
+ "date_iso": "1782-12",
+ "date_precision": "month",
+ "date_source": "inferred",
+ "date_display": "[1782-12]",
+ "date_inferred_from": "Entered at the top of leaf 674 verso, between the headings of the sittings of 7 December 1782 (leaf 673) and 9 December 1782 (lower on the same page).",
+ "year": 1782,
+ "month": 12,
+ "day": "",
+ "place": "Konin",
+ "sender": "",
+ "recipient": "",
+ "line_start": 156,
+ "line_end": 160,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio\nVideatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat.",
+ "text_reading": "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio\n\nVideatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0675_a1",
+   "line_start": 158,
+   "line_end": 159,
+   "n_lines": 2,
+   "diplomatic": "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio\nVideatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat.",
+   "transcription": "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio\nVideatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat.",
+   "reading": "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio\n\nVideatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat.",
+   "paragraphs": [
+    "Pro parte JM Prusimski Capitanei Nieszczevicen~ Hollandri Traditio",
+    "Videatur hoc Loco pro parte J Magnificis Antonii Prusimski Capitanei Nieszczevicen~ Honesti Martini Hunt Hollandri Trąmpczynen~ Traditio, per M Josephum Łukaszewicz Commissarum Palatinatus Majoris Poloniae peracta prout in productis extat."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 2,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
+   "line": 158,
+   "doc_line": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prusimski",
+   "page": 1,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
+   "line": 159,
+   "doc_line": 2
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Konin",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąmpczyn",
+   "page": 1,
+   "page_id": "0675_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
+   "line": 159,
+   "doc_line": 2
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Delivery of the Olęder\n\nLet there be seen at this place, for the part of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — the Delivery of the Honest Martin Hunt, Olęder of Trąbczyn, carried out by the Illustrious Józef Łukaszewicz, Commissioner of the Greater Poland Palatinate — as stands in the submitted documents."
+  }
+ ],
+ "text_english": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Delivery of the Olęder\n\nLet there be seen at this place, for the part of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — the Delivery of the Honest Martin Hunt, Olęder of Trąbczyn, carried out by the Illustrious Józef Łukaszewicz, Commissioner of the Greater Poland Palatinate — as stands in the submitted documents.",
+ "summary_en": "A register note of December 1782: for Antoni Prusimski, Starost of Niszczewice, the delivery of Martin Hunt, an Olęder settler of Trąbczyn, carried out by Józef Łukaszewicz, commissioner of the palatinates of Greater Poland, is among the documents produced.",
+ "summary_de": "Registervermerk vom Dezember 1782: Für Antoni Prusimski, Starost von Niszczewice, liegt die Übergabe des Trąbczyner Olęders Martin Hunt bei den vorgelegten Schriftstücken, vorgenommen von Józef Łukaszewicz, Kommissar der großpolnischen Woiwodschaften.",
+ "reading": {}
+}
