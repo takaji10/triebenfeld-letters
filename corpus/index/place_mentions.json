@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 732,
+  "count": 758,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -56,6 +56,8 @@
    "app53170koningr118-8",
    "app53170koningr136-1",
    "app53170koningr145-1",
+   "app53170koningr153-1",
+   "app53170koningr153-2",
    "app536036-1",
    "app536040-1",
    "app536045-1",
@@ -3858,6 +3860,240 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
     "line": 122,
     "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 2,
+    "page_id": "1392_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 4,
+    "page_id": "1393_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1393_a1-L1_04.jpg",
+    "line": 14,
+    "doc_line": 9
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 4,
+    "page_id": "1393_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1393_a1-L1_04.jpg",
+    "line": 15,
+    "doc_line": 10
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 5,
+    "page_id": "1393_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+    "line": 17,
+    "doc_line": 11
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 6,
+    "page_id": "1394_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
+    "line": 21,
+    "doc_line": 14
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 24,
+    "doc_line": 16
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 25,
+    "doc_line": 17
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 8,
+    "page_id": "1395_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a1-L1_08.jpg",
+    "line": 29,
+    "doc_line": 20
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąpczyn",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 10,
+    "page_id": "1396_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1396_a1-L1_10.jpg",
+    "line": 35,
+    "doc_line": 24
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 44,
+    "doc_line": 31
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 44,
+    "doc_line": 31
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 13,
+    "page_id": "1397_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a2-L1_13.jpg",
+    "line": 47,
+    "doc_line": 33
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 18,
+    "page_id": "1400_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a1-L1_18.jpg",
+    "line": 75,
+    "doc_line": 56
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 22,
+    "page_id": "1402_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1402_a1-L1_22.jpg",
+    "line": 97,
+    "doc_line": 74
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 23,
+    "page_id": "1402_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1402_a2-L1_23.jpg",
+    "line": 100,
+    "doc_line": 76
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Trąmpczyn",
+    "page": 23,
+    "page_id": "1402_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1402_a2-L1_23.jpg",
+    "line": 100,
+    "doc_line": 76
+   },
+   {
+    "uid": "app53170koningr153-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "1404_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1404_a2-L2_01.jpg",
+    "line": 112,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-2",
+    "surface": "Trąmpczyn",
+    "page": 1,
+    "page_id": "1404_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1404_a2-L2_01.jpg",
+    "line": 113,
+    "doc_line": 2
    },
    {
     "uid": "app53170koningr118-28",
@@ -12689,9 +12925,10 @@
  {
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
-  "count": 236,
+  "count": 237,
   "documents": [
    "app53170koningr145-1",
+   "app53170koningr153-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -13288,6 +13525,15 @@
     "scan": "APP_53_17_0_Konin_Gr_145_0700_a1-L1_91.jpg",
     "line": 299,
     "doc_line": 207
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Zagurowo",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
     "uid": "oe1bu14525-10",
@@ -14923,7 +15169,7 @@
  {
   "entity": "lukomia",
   "display": "Łukomia",
-  "count": 209,
+  "count": 210,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -14945,6 +15191,7 @@
    "app53170koningr118-3",
    "app53170koningr118-8",
    "app53170koningr145-1",
+   "app53170koningr153-1",
    "app536046-1"
   ],
   "mentions": [
@@ -16774,6 +17021,15 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0586_a2-L20_02.jpg",
     "line": 108,
     "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukomia",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
    },
    {
     "uid": "app53170koningr118-26",
@@ -18672,9 +18928,10 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 168,
+  "count": 169,
   "documents": [
    "app53170koningr145-1",
+   "app53170koningr153-1",
    "app5371057-1",
    "app539680801-1",
    "app539680801-2",
@@ -18845,6 +19102,15 @@
     "scan": "APP_53_17_0_Konin_Gr_145_0700_a1-L1_91.jpg",
     "line": 294,
     "doc_line": 202
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Kalisz",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
     "uid": "oe1bu14525-31",
@@ -21755,7 +22021,7 @@
  {
   "entity": "drzewce",
   "display": "Drzewce",
-  "count": 142,
+  "count": 150,
   "documents": [
    "app53170koningr115-2",
    "app53170koningr116-2",
@@ -21764,6 +22030,7 @@
    "app53170koningr118-8",
    "app53170koningr136-1",
    "app53170koningr145-1",
+   "app53170koningr153-1",
    "app536046-1",
    "app5371057-1",
    "app539680801-2",
@@ -22669,6 +22936,78 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
     "line": 49,
     "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 24,
+    "doc_line": 16
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 25,
+    "doc_line": 17
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 8,
+    "page_id": "1395_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a1-L1_08.jpg",
+    "line": 29,
+    "doc_line": 20
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 44,
+    "doc_line": 31
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Drzewce",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
    },
    {
     "uid": "app53170koningr118-27",
@@ -24301,7 +24640,7 @@
  {
   "entity": "kolno",
   "display": "Kolno (Kulm)",
-  "count": 120,
+  "count": 124,
   "documents": [
    "agad11740273-2",
    "app53150kaliszgr414-1",
@@ -24329,6 +24668,8 @@
    "app53170koningr118-23",
    "app53170koningr118-25",
    "app53170koningr118-26",
+   "app53170koningr153-1",
+   "app53170koningr153-2",
    "ihagrrep7cnr3570-1",
    "iiihamdaiiinr12366-2",
    "iiihamdaiiinr12765-14",
@@ -24576,6 +24917,42 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
     "line": 124,
     "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Kolno",
+    "page": 3,
+    "page_id": "1392_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+    "line": 11,
+    "doc_line": 7
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Kolno",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 78,
+    "doc_line": 58
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Kolno",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
+   },
+   {
+    "uid": "app53170koningr153-2",
+    "surface": "Kolno",
+    "page": 1,
+    "page_id": "1404_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1404_a2-L2_01.jpg",
+    "line": 114,
+    "doc_line": 3
    },
    {
     "uid": "app53170koningr118-26",
@@ -25446,7 +25823,7 @@
  {
   "entity": "lukom",
   "display": "Łukom",
-  "count": 102,
+  "count": 121,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
@@ -25481,6 +25858,7 @@
    "app53170koningr118-27",
    "app53170koningr118-28",
    "app53170koningr145-1",
+   "app53170koningr153-1",
    "app536017-1",
    "app536036-1",
    "app536036-2",
@@ -26371,6 +26749,177 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0524_a1-L17_01.jpg",
     "line": 86,
     "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "1392_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+    "line": 12,
+    "doc_line": 8
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 3,
+    "page_id": "1392_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+    "line": 12,
+    "doc_line": 8
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 4,
+    "page_id": "1393_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1393_a1-L1_04.jpg",
+    "line": 15,
+    "doc_line": 10
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 6,
+    "page_id": "1394_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
+    "line": 21,
+    "doc_line": 14
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 24,
+    "doc_line": 16
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 7,
+    "page_id": "1394_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
+    "line": 25,
+    "doc_line": 17
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 8,
+    "page_id": "1395_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a1-L1_08.jpg",
+    "line": 29,
+    "doc_line": 20
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 31,
+    "doc_line": 21
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 10,
+    "page_id": "1396_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1396_a1-L1_10.jpg",
+    "line": 35,
+    "doc_line": 24
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 10,
+    "page_id": "1396_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1396_a1-L1_10.jpg",
+    "line": 35,
+    "doc_line": 24
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 11,
+    "page_id": "1396_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1396_a2-L1_11.jpg",
+    "line": 38,
+    "doc_line": 26
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 44,
+    "doc_line": 31
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 44,
+    "doc_line": 31
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 13,
+    "page_id": "1397_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a2-L1_13.jpg",
+    "line": 47,
+    "doc_line": 33
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 79,
+    "doc_line": 59
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 23,
+    "page_id": "1402_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1402_a2-L1_23.jpg",
+    "line": 100,
+    "doc_line": 76
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Łukom",
+    "page": 23,
+    "page_id": "1402_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1402_a2-L1_23.jpg",
+    "line": 100,
+    "doc_line": 76
    },
    {
     "uid": "app53170koningr118-28",
@@ -46032,6 +46581,133 @@
   ]
  },
  {
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "count": 12,
+  "documents": [
+   "app53170koningr153-1",
+   "app536045-1",
+   "oe1bu14525-23",
+   "oe1bu14526-26",
+   "oe1bu14526-28",
+   "oe1bu14526-8",
+   "oe1bu9454-136",
+   "oe1bu9454-271",
+   "oe1bu9454-28",
+   "oe1bu9454-31"
+  ],
+  "mentions": [
+   {
+    "uid": "app536045-1",
+    "surface": "Pyzdry",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Pyzdry",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Pyzdry",
+    "page": 9,
+    "page_id": "1395_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+    "line": 32,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu14526-28",
+    "surface": "Peysern",
+    "page": 1,
+    "page_id": "0163_a2",
+    "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
+    "line": 7973,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu14526-26",
+    "surface": "Peisern",
+    "page": 1,
+    "page_id": "0159_a2",
+    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
+    "line": 7785,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Peysern",
+    "page": 2,
+    "page_id": "0092_a2",
+    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+    "line": 2972,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Peisern",
+    "page": 8,
+    "page_id": "0266_a",
+    "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
+    "line": 9985,
+    "doc_line": 156
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Peysern",
+    "page": 22,
+    "page_id": "0048_a1",
+    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
+    "line": 2510,
+    "doc_line": 708
+   },
+   {
+    "uid": "oe1bu9454-28",
+    "surface": "Peisern",
+    "page": 4,
+    "page_id": "0051_a",
+    "scan": "Oe_1_Bu_9454_0051_a-L28_04.jpg",
+    "line": 1926,
+    "doc_line": 76
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Peisern",
+    "page": 2,
+    "page_id": "0056_a1",
+    "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
+    "line": 2073,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Peisern",
+    "page": 4,
+    "page_id": "0057_a",
+    "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
+    "line": 2156,
+    "doc_line": 110
+   },
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Peisern",
+    "page": 1,
+    "page_id": "0493_b",
+    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+    "line": 19247,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
   "entity": "tarmowo",
   "display": "Tarnowo",
   "count": 12,
@@ -46277,123 +46953,6 @@
     "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
     "line": 21508,
     "doc_line": 9
-   }
-  ]
- },
- {
-  "entity": "pyzdry",
-  "display": "Pyzdry (Peisern)",
-  "count": 11,
-  "documents": [
-   "app536045-1",
-   "oe1bu14525-23",
-   "oe1bu14526-26",
-   "oe1bu14526-28",
-   "oe1bu14526-8",
-   "oe1bu9454-136",
-   "oe1bu9454-271",
-   "oe1bu9454-28",
-   "oe1bu9454-31"
-  ],
-  "mentions": [
-   {
-    "uid": "app536045-1",
-    "surface": "Pyzdry",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Pyzdry",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14526-28",
-    "surface": "Peysern",
-    "page": 1,
-    "page_id": "0163_a2",
-    "scan": "Oe_1_Bu_14526_0163_a2-L28_01.jpg",
-    "line": 7973,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu14526-26",
-    "surface": "Peisern",
-    "page": 1,
-    "page_id": "0159_a2",
-    "scan": "Oe_1_Bu_14526_0159_a2-L26_01.jpg",
-    "line": 7785,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu14525-23",
-    "surface": "Peysern",
-    "page": 2,
-    "page_id": "0092_a2",
-    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
-    "line": 2972,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Peisern",
-    "page": 8,
-    "page_id": "0266_a",
-    "scan": "Oe_1_Bu_9454_0266_a-L136_08.jpg",
-    "line": 9985,
-    "doc_line": 156
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Peysern",
-    "page": 22,
-    "page_id": "0048_a1",
-    "scan": "Oe_1_Bu_14526_0048_a1-L8_22.jpg",
-    "line": 2510,
-    "doc_line": 708
-   },
-   {
-    "uid": "oe1bu9454-28",
-    "surface": "Peisern",
-    "page": 4,
-    "page_id": "0051_a",
-    "scan": "Oe_1_Bu_9454_0051_a-L28_04.jpg",
-    "line": 1926,
-    "doc_line": 76
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Peisern",
-    "page": 2,
-    "page_id": "0056_a1",
-    "scan": "Oe_1_Bu_9454_0056_a1-L31_02.jpg",
-    "line": 2073,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Peisern",
-    "page": 4,
-    "page_id": "0057_a",
-    "scan": "Oe_1_Bu_9454_0057_a-L31_04.jpg",
-    "line": 2156,
-    "doc_line": 110
-   },
-   {
-    "uid": "oe1bu9454-271",
-    "surface": "Peisern",
-    "page": 1,
-    "page_id": "0493_b",
-    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
-    "line": 19247,
-    "doc_line": 5
    }
   ]
  },
@@ -48309,6 +48868,62 @@
   ]
  },
  {
+  "entity": "brzesc-kujawski",
+  "display": "Brześć Kujawski",
+  "count": 5,
+  "documents": [
+   "app53170koningr145-1",
+   "app53170koningr153-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Castro Brestensi",
+    "page": 1,
+    "page_id": "0654_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0654_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Castro Brestensi",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Brestensis Cuiaviae",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 8,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Brestensis Cuiaviae",
+    "page": 122,
+    "page_id": "0715_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0715_a2-L1_122.jpg",
+    "line": 454,
+    "doc_line": 331
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Brestensis Cujaviae",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   }
+  ]
+ },
+ {
   "entity": "boehmen",
   "display": "Böhmen",
   "count": 5,
@@ -49232,52 +49847,6 @@
     "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
     "line": 20048,
     "doc_line": 57
-   }
-  ]
- },
- {
-  "entity": "brzesc-kujawski",
-  "display": "Brześć Kujawski",
-  "count": 4,
-  "documents": [
-   "app53170koningr145-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Castro Brestensi",
-    "page": 1,
-    "page_id": "0654_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0654_a2-L1_01.jpg",
-    "line": 5,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Castro Brestensi",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Brestensis Cuiaviae",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 8,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Brestensis Cuiaviae",
-    "page": 122,
-    "page_id": "0715_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0715_a2-L1_122.jpg",
-    "line": 454,
-    "doc_line": 331
    }
   ]
  },
@@ -50276,6 +50845,35 @@
   ]
  },
  {
+  "entity": "wielun",
+  "display": "Wieluń",
+  "count": 2,
+  "documents": [
+   "app53170koningr153-1",
+   "oe1bu9454-177"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Vielun",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Wieluń",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12617,
+    "doc_line": 139
+   }
+  ]
+ },
+ {
   "entity": "popowo",
   "display": "Popowo",
   "count": 2,
@@ -51128,25 +51726,6 @@
    {
     "uid": "oe1bu9454-177",
     "surface": "Lenschitz",
-    "page": 7,
-    "page_id": "0334_a2",
-    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
-    "line": 12617,
-    "doc_line": 139
-   }
-  ]
- },
- {
-  "entity": "wielun",
-  "display": "Wieluń",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-177"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Wieluń",
     "page": 7,
     "page_id": "0334_a2",
     "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",

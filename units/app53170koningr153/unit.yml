@@ -1,0 +1,96 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53170koningr153
+ref: 53/17/0/-/Konin Gr.153
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  The decree of the boundary chamberlain of Gniezno, 28 November to 3
+  December 1782, that carried out the Crown Tribunal's judgment on the
+  boundary between Trąbczyn and Łukomia, with the Tribunal's decree of 17
+  October 1782 copied into it and the record of the forty-one mounds raised
+  along the line; and the act of the same days that put the Olęder settler
+  Martin Hunt into Prusimski's possession.
+title_de: >-
+  Das Dekret des Grenzkämmerers von Gnesen, 28. November bis 3. Dezember
+  1782, das das Urteil des Krontribunals über die Grenze zwischen Trąbczyn
+  und Łukomia vollzog, mit dem darin eingerückten Tribunalsdekret vom 17.
+  Oktober 1782 und dem Protokoll der einundvierzig entlang der Linie
+  errichteten Grenzhügel; sowie die Urkunde derselben Tage, die den Olęder
+  Martin Hunt in den Besitz Prusimskis einwies.
+# The name of the volume in the archive's inventory, as the editor's folder
+# gives it. Kept for reference; nothing displays it.
+archive_title: >-
+  Relationes-oblatae [protocollon] 1782
+# The fonds, as for Konin Gr.145 (the editor, 2026-10-06).
+fonds: Księgi sądu i urzędu grodzkiego w Koninie
+date_span: 1782
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# One single page and thirteen openings, each opening cut at the fold; one
+# blank half is left out (intake/holding.py). The editor approves or moves
+# the folds on review/app53170koningr153/folds/ before the holding is
+# published.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Relationes-oblatae [protocollon] 1782 (53.17.0.-.Konin Gr.153)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_17_0_Konin_Gr_153
+
+# One file per page, named by page id. Made from the editor's Markdown
+# transcription by intake/holding.py.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Two original acts of late 1782, sewn into a book of the castle court of
+  Konin, in Latin. The first, on twenty-five pages, is the decree of the
+  field court of Franciszek Ksawery Jasiński, boundary chamberlain of the
+  palatinate of Gniezno, held on the ground between Trąbczyn and Łukom from
+  28 November to 3 December 1782. It copies in full the decree of the Crown
+  Tribunal at Piotrków of 17 October 1782 between Antoni Prusimski and
+  Stanisław Ścibor Chełmski, which confirmed the Tribunal's decree of 23
+  January 1782, ordered the boundary mounds raised along the straight line
+  drawn on the map, awarded the Olęder settler Martin Hunt to Prusimski and
+  punished the two officers who had failed to carry the first decree out;
+  and it records the line set out by the sworn surveyor, the forty-one
+  mounds and thirty-one stakes placed along it, and the demolition of the
+  older mounds. A note records that the decree was brought to the Konin
+  office on 7 December 1782. The second act, on one page, is the delivery
+  of Martin Hunt into Prusimski's possession by the commissioner Józef
+  Łukaszewicz on 28 November 1782.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Two acts of 1782 in formulaic, abbreviated Latin. The English is the
+  editor's own translation. "Condescensio" is a sitting of a court or
+  officer on the ground in dispute (the editor's "field inspection");
+  "scopuli" are boundary mounds: "angulares" where three estates meet,
+  "aciales" at the far end of the line, "parietales" along it; "geomethra
+  juratus" a sworn surveyor; "Hollandus" an Olęder settler; "vadium" a
+  money penalty; "sipatio" the raising of mounds.

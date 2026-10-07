@@ -1,0 +1,74 @@
+# What the check of APP 53/17/0/-/Konin Gr.153 against the scans changes for
+# anyone who has written about these acts from the earlier text. Read by
+# pipeline/review/changes_page.py. The check was a light one: eight of
+# twenty-six pages word for word and parts of seven more.
+# importance: significant | fact | wording.
+
+unit: "APP 53/17/0/-/Konin Gr.153: the boundary decree of 1782 and the delivery of Martin Hunt"
+changes:
+- importance: significant
+  what: "The surveyor is SWORN, not a holder of \"jurisdiction\". The scan has \"Jur~to\" (jurato) wherever I looked: \"Geomethra Jurato et Privilegiato\", \"geomethram juratum\", \"geomethras juratos\"; the court messenger is \"authentico et jurato\" and Łukaszewicz \"Commissario Generali Jurato\". Your text had \"jurisdictione\" eleven times and your English \"the geometer's jurisdiction\", \"licensed\", \"jurisdictional\". I corrected all of them; five I saw, the rest follow."
+  was: "Geomethra Jurisdictione et Privilegiato / geomethrae jurisdictionem / geomethras jurisdictionis / authentico et jurisdictione / Commissario Graniciali Jurisdictionis"
+  now: "Geomethra Jurato et Privilegiato / geomethrae jurato / geomethras juratos / authentico et jurato / Commissario Generali Jurato"
+  english_was: "licensed and privileged geometer ... had ordered the geometer's jurisdiction to complete the straight line ... authenticated and jurisdictional"
+  english_now: "sworn and privileged geometer ... had ordered the sworn geometer to complete the straight line ... authentic and sworn"
+- importance: significant
+  what: "\"Cond~nis\" and \"Cond~lis\" are condescensionis and condescensorialis, the sitting on the ground, not \"conditionis\" and \"conditionalis\". Your English already has \"field inspection\" for them, so it does not change; the Latin does, in nineteen places (four seen)."
+  was: "in termino verò conditionis graniciali / officia conditionalia / actu officii conditionali"
+  now: "in termino verò condescensionis graniciali / officia condescensorialia / actu officii condescensoriali"
+- importance: significant
+  what: "At the head of the Tribunal's decree, what was objected against Prusimski is the CONDEMNATION that Chełmski obtained on 11 September 1780 at the field inspection at Grab, not a field inspection \"alleged on that side\": the scan has \"Condonem\" (condemnationem), and the same condemnation is \"objecta sibi condemnatione\" at the foot of the page. Prusimski \"does not show\" his standing ([do]cet), where you had \"does not say\"."
+  was: "ad objectam latere conditionem die undecima mensis 7bris anno 1780 in conditionis in fundo bonorum Grab ... quoniam non dicit"
+  now: "ad objectam latere condemnationem die undecima mensis 7bris anno 1780 in condescensionis in fundo bonorum Grab ... quoniam non [do]cet"
+  english_was: "concerning the field inspection alleged on that side, conducted on 11 September 1780 at the estate of Grab ... a condemnation having been obtained to his advantage"
+  english_now: "concerning the condemnation objected from that side, obtained on 11 September 1780 at the field inspection held at the estate of Grab ... to his advantage"
+- importance: significant
+  what: "The act for Martin Hunt (leaf 1404), read whole. Hunt is delivered \"in actualem possessionem\", into actual possession (your \"in actu aliam positionem\", for which you had a note); Prusimski was PRESENT IN PERSON (\"circa actum hunc personaliter praesentis\"); no one opposed (\"nemine impugnante\"); and obedience to Prusimski was enjoined on Hunt (\"indicta ... obedientia\"). Łukaszewicz signs \"Generalis Commissarius mp\"; there is no \"Officialis\"."
+  was: "in actu aliam positionem praeciso calculo ... circa actum hinc personali praesentis ... nomine impugnante ... obedientiae eundem reliquit pro ut relinquit actus praesentia vigore ... Generalis Commissarius Officialis"
+  now: "in actualem possessionem praeciso calculo ... circa actum hunc personaliter praesentis ... nemine impugnante ... obedientia eundem reliquit prout relinquit actus praesentis vigore ... Generalis Commissarius mp"
+  english_was: "at a calculated reckoning, in a separately described act ... from this act, by personal presence; and left the said Freeborn Martin Hunt in peaceful possession, no one challenging, under no process having been declared ... in obedience to him ... General Commissioner Official"
+  english_now: "at a calculated reckoning ... who was present in person at this act; and left him in peaceful possession, no one challenging, obedience to the Most Honourable Prusimski ... having been enjoined on the said Freeborn Martin Hunt ... General Commissioner ..., by his own hand"
+- importance: fact
+  what: "The boundary chamberlain of Inowrocław is Gorski (so on leaf 1391 verso; he signs \"Jacobus Pomian Gorski\" in Konin Gr.118), not Gerski; his proxy is Ujazdowski, not Ijazdowski. Before the Tribunal only Chełmski appeared in person: \"citatum et actorem personaliter\" is his, in the singular. Prusimski is \"actorem et c[itatum]\", where you had a gap."
+  was: "Equitem actorem, __ per Magnificum Mathiam Rudnicki, Magnificum Stanislaum Chełmski Thesaurarium Vschovensem citatos et actores personaliter Generosum Jacobum Gerski ... per Generosum Ignatium Ijazdowski"
+  now: "Equitem actorem et c[itatum] per Magnificum Mathiam Rudnicki, Magnificum Stanislaum Chełmski Thesaurarium Vschovensem citatum et actorem personaliter Generosum Jacobum Gorski ... per Generosum Ignatium Ujazdowski"
+- importance: fact
+  what: "The word you marked \"siparitionem[?]\" three times is \"sipationem\": the raising of mounds (from the Polish \"sypać\"). Seen on leaf 1400 verso: \"ad Sipationem Seu Erectionem Scopulorum\"."
+  was: "siparitionem[?]"
+  now: "sipationem"
+  english_was: "[uncertain: demarcation]"
+  english_now: "raising"
+- importance: fact
+  what: "The Marshal of the Tribunal who signed the line on the map is Ksawery Nałęcz Kęszycki, CASTELLAN of Gniezno (\"Cllni\" for your \"Clia*\"); the President is Sebastian Sierakowski (your English had the name right, the Latin \"Sierabowski\")."
+  was: "Comitis Sierabowski ... Kęszycki Clia*"
+  now: "Comitis Sierakowski ... Kęszycki Castellani"
+- importance: fact
+  what: "When the chamberlain's court opened, it was proclaimed \"by the voice of the court messenger of the realm named at the head of the book\", and adjourned \"videlicet\" to the 29th. Your text had \"veri nobilis, regni, granatialis\" and \"vidulit\", both with notes."
+  was: "veri nobilis, regni, granatialis capite libri de nomine expressi ... ad diem crastinam vidulit 29 9bris"
+  now: "voce ministerialis, regni, generalis in capite libri de nomine expressi ... ad diem crastinam videlicet 29 9bris"
+- importance: fact
+  what: "30 November is \"Sabbatho ipso Festo Sancti Andreae Apostoli\", the feast day itself, not \"ipso facto\". The first mounds are measured from \"the corner mounds specified in the act\" (\"specificatorum\"). Nothing is missing before \"lineam quam rectissimam\" on leaf 1400 verso: your gap is a pen flourish."
+  was: "Sabbatho ipso facto ... in actu specificat[ionis] linea recta formata ... _ lineam quam rectissimam"
+  now: "Sabbatho ipso Festo ... in actu specificatorum linea recte formata ... lineam quam rectissimam"
+- importance: fact
+  what: "The note of entry (leaf 1403 verso): Maszewski brought the decree \"ad acticandum\", to be entered in the acts. The payment of 20 January 1783 is to be made \"coram officio et actis\" of the castle court of Poznań (your \"conditionis\")."
+  was: "ad acti camae* ad actis hisce in originali relinquendum ... proxime incidenti conditionis officio et actis"
+  now: "ad acticandum et actis hisce in originali relinquendum ... proxime incidenti coram officio et actis"
+  english_was: "for the act of the [boundary surveyor's] court, to be left in the original in these records"
+  english_now: "to be entered in the acts and left in the original in these records"
+- importance: fact
+  what: "Your info.txt says the commissioner's court was held on 17 October 1782 in Hunt's house. 17 October is the date of the Tribunal's decree at Piotrków; the act at Hunt's house, and the opening of the chamberlain's court at the corner mounds, are both of 28 November 1782."
+  was: "held on October 17, 1782 in the house of Olęder Marcin Hunt"
+  now: "28 November 1782"
+- importance: fact
+  what: "Seventeen of your forty-two translator's notes are left out of the edition because the reading they discuss is corrected (notes 3, 5, 7, 8, 15, 30 to 35, 38, 39, 41, 42), or because they are about your own working (40), or about the name Tesselin, which Konin Gr.118 confirms (28)."
+  was: "(42 notes)"
+  now: "(25 notes kept)"
+- importance: fact
+  what: "Not checked. Leaves 1392 to 1399, most of the Tribunal's decree, were not read against the scans beyond the passages named in the holding's script."
+  was: "(first reading)"
+  now: "(first reading)"
+- importance: wording
+  what: "Smaller readings: \"subalterno\"; \"ad actum praesentem congregatis\"; \"judicium praesens ordinarium generale\"; \"notarius Terrestris\"; no \"decreti\" in \"Judicium officii campestris camerarialis\"; \"decretoque\"; \"sequentem\"; \"ubi ob advesperascentem diem actum suum\"; \"imponi consueta\"; \"nemine contradicente\"; \"Franciscus Xaverius\" in Jasiński's signature; \"iisdem insutum\"; \"Generosis\"; \"actum praesentem\"; \"granicialem\"; \"conducendo\"."
+  was: "see the list"
+  now: "see the list"

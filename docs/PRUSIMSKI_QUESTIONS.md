@@ -218,3 +218,29 @@ the editor reviews. Nothing is published before that.
   "Please fix the most recent one." and others). **Default: left out.** You
   may want to clean the file.
 - Three words in the added signatures are not read and are marked "[?]".
+
+### APP 53/17/0/-/Konin Gr.153 (1782)
+
+- The light check: eight of twenty-six pages word for word, parts of seven.
+  Leaves 1392 to 1399 (most of the Tribunal's decree) were not read through.
+  **Default: built so.** This is the decree that ends the boundary dispute;
+  it deserves the full check. Do you want it?
+- Three words corrected in every place, though only some were looked at:
+  "jurato" (sworn) for "jurisdictione" beside the surveyor and the messenger;
+  "condescensio" for "conditio"; "Gorski" for "Gerski". **Default:
+  corrected throughout**, in the Latin and, for the first and third, in your
+  English. Please confirm.
+- Two documents: the chamberlain's decree with the Tribunal's decree inside
+  it and the note of its entry (25 pages), and the delivery of Martin Hunt
+  (1 page). **Default: so.** The Tribunal's decree could be a document of
+  its own; it is the longer part.
+- Seventeen of your forty-two translator's notes are left out, because the
+  readings they discuss are corrected. **Default: the other twenty-five
+  kept, in square brackets.**
+- Your section headings ("Section 2 — Embedded Tribunal Decree ...") and
+  day headings are kept in the English, in square brackets. **Default:
+  kept.**
+- Left as you have them: "Orławski" / "Orłowski"; "Borzysławski"; "docere
+  de standi"; the gap after "ex officio" on leaf 1391 verso.
+- Your info.txt dates the act at Hunt's house to 17 October 1782; it is of
+  28 November. You may want to correct the note.

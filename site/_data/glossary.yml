@@ -188,7 +188,7 @@
   initial_en: "R"
   sort_de: "ruthe"
   initial_de: "R"
-  docs: 12
+  docs: 13
 - id: "centner"
   kind: "money"
   lang: "de"
@@ -302,7 +302,7 @@
   initial_en: "C"
   sort_de: "canon"
   initial_de: "C"
-  docs: 39
+  docs: 40
 - id: "erbzins"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 36
+  docs: 38
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 65
+  docs: 66
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 73
+  docs: 74
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 63
+  docs: 64
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1062,7 +1062,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 76
+  docs: 78
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1309,7 +1309,7 @@
   initial_en: "N"
   sort_de: "notarius publicus"
   initial_de: "N"
-  docs: 6
+  docs: 7
 - id: "landrecht"
   kind: "law"
   lang: "de"
@@ -1366,7 +1366,7 @@
   initial_en: "D"
   sort_de: "decret"
   initial_de: "D"
-  docs: 78
+  docs: 80
 - id: "departement"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1423,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 54
+  docs: 56
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1594,7 +1594,7 @@
   initial_en: "E"
   sort_de: "ex officio"
   initial_de: "E"
-  docs: 9
+  docs: 10
 - id: "in-solidum"
   kind: "law"
   lang: "la"
@@ -1708,7 +1708,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 91
+  docs: 93
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1803,7 +1803,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 64
+  docs: 66
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -1879,7 +1879,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 50
+  docs: 52
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1917,7 +1917,7 @@
   initial_en: "D"
   sort_de: "de dato; vigore"
   initial_de: "D"
-  docs: 14
+  docs: 16
 - id: "months-by-number"
   kind: "phrase"
   lang: "la"
@@ -1936,7 +1936,7 @@
   initial_en: "#"
   sort_de: "7br., 8br., 9br., xbr."
   initial_de: "#"
-  docs: 46
+  docs: 47
 - id: "d-j"
   kind: "phrase"
   lang: "de"

@@ -1,0 +1,50 @@
+# Editorial rulings for 53/17/0/-/Konin Gr.153 (APP).
+#
+# Two documents. 1: the decree of the boundary chamberlain's field court,
+# with the Tribunal's decree copied into it, on leaves 1391 to 1402 verso,
+# and the note of its entry on leaf 1403 verso (a decree and the note of its
+# entry are one document). 2: the delivery of Martin Hunt on leaf 1404, an
+# act of another officer with its own date line. Established 2026-10-07.
+
+places:
+  # Place of writing: "Actum in fundo bonorum Trąmpczyn"; "Actum in Fundo
+  # Hollandorum Trąmpczynensium".
+  overrides:
+    "1": Trąbczyn
+    "2": Trąbczyn
+
+dates:
+  # [year, month, day, precision]; read off the document.
+  read:
+    "1": [1782, 11, 28, "day"]    # feria 5ta post Festum Sanctae Catharinae ... die vigesima octava mensis 9bris 1782 (it sat until 3 December)
+    "2": [1782, 11, 28, "day"]    # Feria Quinta post Festum Sanctae Catharinae ... vigesima octava mensis Novembris 1782
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": decree
+    "2": delivery
+
+  language:
+    "1": la
+    "2": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+    "2": [trabczyn, lukomia]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["1391_a2", "1392_a1", "1392_a2", "1393_a1", "1393_a2", "1394_a1", "1394_a2", "1395_a1", "1395_a2", "1396_a1", "1396_a2", "1397_a1", "1397_a2", "1398_a1", "1398_a2", "1399_a1", "1399_a2", "1400_a1", "1400_a2", "1401_a1", "1401_a2", "1402_a1", "1402_a2", "1403_a1", "1404_a1", "1404_a2"]
+
+damage:
+  letters: []
