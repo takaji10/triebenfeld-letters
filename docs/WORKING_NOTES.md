@@ -556,6 +556,25 @@ Where the rest is:
   there, and in `intake/translation/doc<N>.yml` (with its `marker_count`).
   Then `write_cache.py <N>`, `check_translations.py`,
   `publish_translations.py`.
+- **Summaries written again for a holding already published** (Oe 1 Bü 14525
+  and 14526, 2026-10-08). Read each document whole in `corpus/text/<pad>.txt`
+  (the German part, above `--- SUMMARY`), write the German, translate it, then
+  hold every statement to a quoted line in `intake/claim_check.yml`. Two free
+  checks catch most slips before the file is closed: every quoted fragment
+  must occur in the document's text, and every figure in a summary must occur
+  in the document (a sum written out in words, "Sechs und Siebenzig Tausend",
+  shows up as missing and is read). Where several copies of one deed stand in
+  a holding, summarise what each copy says: two copies of the grant of 1796
+  leave out villages the original names. The holding's `summaries_draft.py`
+  writes the site's two summary files itself, and passes the English through
+  `numerals.group_digits`, or `english_forms.py --apply` and a re-run of the
+  script undo each other. Run `english_forms.py` (without `--apply`) after
+  writing English summaries: it also fixes name spellings (Tietz is Titz).
+- **The site's downscaled scans settle a word in the cloud.** The raw scans
+  are on the editor's machine, but `site/assets/scans/` (about 1100 px wide)
+  is in the repository and readable enough for a date or a dropped line: crop
+  the part of the page with PIL and look at it. It settled "1801" in 14525,
+  document 7. It is not enough for a doubtful name; leave those to the editor.
 - **After publishing English, read the holding's glossary matches.** English
   "entails" and "cession" drew false glossary marks and were reworded. The
   checker forbids "hypothec" in English, Latin "sub hypotheca" included.
@@ -588,6 +607,14 @@ Where the rest is:
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
   not touched.
+- **Building on Linux rewrites the desktop's CRLF files as LF.** In the cloud,
+  `build_db.py`, `merge_corpus.py`, `build_dataset.py` and
+  `build_site_data.py` rewrote 180 generated files whose committed form is
+  CRLF (`letters.json`, `corpus/text/`, `corpus/documents/`), so `git diff`
+  showed 68,000 changed lines for 500 real ones. Compare each changed file
+  with `git show HEAD:<file>` ignoring carriage returns: restore it if equal,
+  otherwise rewrite it with the line endings HEAD had. `git diff --stat` and
+  `git diff --ignore-cr-at-eol --stat` must then agree.
 - **Scripts with backslashes or apostrophes are written to a file and then
   run** (broken four more times on 2026-10-06, each time by a regex in a
   heredoc: there is no exception for "a short one"). In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`

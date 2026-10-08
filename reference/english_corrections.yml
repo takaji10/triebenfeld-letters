@@ -77,3 +77,6 @@ corrections:
 
 # A stray full stop (editor, 2026-10-03).
 - {pad: iiihamdaiiinr12765-008, page: 2, find: "from whom the estates have been taken. and who must be compensated", replace: "from whom the estates have been taken and who must be compensated", why: "den man die Gütter genommen hat und der Entschädiget werden muß: one clause; the full stop after hat was a slip, removed from the transcription"}
+
+# A date corrected in the German (2026-10-08).
+- {pad: oe1bu14525-007, page: 7, find: "Kalisz, the 7th of July 1804.", replace: "Kalisz, the 7th of July 1801.", why: "Kalisch den 7. July 1801: the scan reads 1801 (the transcription had 1804); document 22 has the same attestation and date"}

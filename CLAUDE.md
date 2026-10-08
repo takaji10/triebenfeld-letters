@@ -120,8 +120,14 @@ so check them.
   from the old text, the editor's new transcription and the scans; English
   and summaries follow; the editor settled ten words on a spot sheet).
   The edition has 565 documents in 36 holdings and 719 marks of doubt.
-  Open offer, unanswered: redo the summaries of Oe 1 Bü 14525 and 14526 in
-  session (no longer a paid run).
+- **The summaries of Oe 1 Bü 14525 and 14526 were written again** at the
+  editor's word (2026-10-08, cloud session): read whole in the German,
+  summarised in German, English from the German, claim-checked (212 and 182
+  statements; each holding's `intake/summaries_draft.py` and
+  `intake/claim_check.yml`, "Summaries" in its `notes.md`). Every holding's
+  summaries have now had the check. One date corrected against the scan
+  (14525, doc. 7). Two dates on the site wait on the editor
+  (NEEDS_CONFIRMATION). Not yet published.
 - **Spot sheets** (`pipeline/review/queries.py`): a sheet can run across
   holdings (a `unit` column), ask for a decision (a `summary` column) and
   show a picture of a line (an `image` column). `docs/WORKING_NOTES.md`,
@@ -322,9 +328,6 @@ so check them.
 - The fifteen summaries of Nr. 3709 were claim-checked in session on
   2026-10-05 (`units/ihagrrep7cnr3709/intake/claim_check.yml`): every
   holding's summaries written from the German have now had the check.
-- Deferred by the editor: redoing the 14525/14526 summaries the way the other
-  holdings' were. It can be done in session now, at no cost; offered
-  2026-10-07, not yet answered.
 - Open before wider sharing: the archives' permission for the scans; the
   editor's full name for the licences (`site/_data/rights.yml` and `LICENSE`).
 - Everything else open is in `docs/NEEDS_CONFIRMATION.md`.

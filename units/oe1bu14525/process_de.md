@@ -22,4 +22,4 @@ Ein Schreiber setzte oft das erste Wort der nächsten Seite an den Fuß der Seit
 
 ### Zusammenfassungen und Übersetzung
 
-Das Modell übersetzte jedes Dokument ins Englische und schrieb die Zusammenfassungen aus den Übersetzungen. Diese Zusammenfassungen haben den zweiten, getrennten Prüfdurchlauf nicht durchlaufen, der bei den später hinzugekommenen Beständen angewandt wurde.
+Das Modell übersetzte jedes Dokument ins Englische. Die Zusammenfassungen wurden zunächst aus diesen Übersetzungen geschrieben. Im Oktober 2026 wurden sie neu verfasst, auf Deutsch, nach einer Lektüre jedes Dokuments im deutschen Text, und jede ihrer 212 Aussagen wurde danach am Dokument geprüft. In der endgültigen Fassung trafen alle zu; wo eine Aussage auf einem nicht sicher gelesenen Wort beruhte, wurde sie gestrichen oder allgemein gehalten. Die englischen Zusammenfassungen sind Übersetzungen der deutschen.

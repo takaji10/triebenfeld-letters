@@ -150,7 +150,7 @@ but makes no sense in its sentence, and was probably misread.
 ## The summaries
 
 Each document has a short summary to help a reader find it. It is a finding aid and not
-part of the text. The summaries were drafted by an AI model. In most holdings they were
+part of the text. The summaries were drafted by an AI model. In every holding they were
 written from the original language and each statement was then checked against the
 document; the page of each holding says how its summaries were made.
 

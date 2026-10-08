@@ -156,7 +156,7 @@ gewöhnliches Deutsch, ergibt aber in ihrem Satz keinen Sinn und ist vermutlich 
 
 Jedes Dokument hat eine kurze Zusammenfassung, die beim Auffinden hilft. Sie ist ein
 Findmittel und kein Teil des Textes. Die Zusammenfassungen wurden von einem KI-Modell
-entworfen. In den meisten Beständen wurden sie aus der Originalsprache geschrieben, und
+entworfen. In jedem Bestand wurden sie aus der Originalsprache geschrieben, und
 jede Aussage wurde danach am Dokument geprüft; die Seite jedes Bestands sagt, wie seine
 Zusammenfassungen entstanden sind.
 

@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 272
+  docs: 271
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 40
+  docs: 38
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -283,7 +283,7 @@
   initial_en: "H"
   sort_de: "erbpacht"
   initial_de: "E"
-  docs: 41
+  docs: 38
 - id: "canon"
   kind: "land"
   lang: "de_la"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 37
+  docs: 41
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -587,7 +587,7 @@
   initial_en: "E"
   sort_de: "einstandsgeld"
   initial_de: "E"
-  docs: 25
+  docs: 26
 - id: "lehn"
   kind: "land"
   lang: "de"
@@ -720,7 +720,7 @@
   initial_en: "E"
   sort_de: "einsassen"
   initial_de: "E"
-  docs: 13
+  docs: 15
 - id: "rata"
   kind: "money"
   lang: "la"
@@ -815,7 +815,7 @@
   initial_en: "R"
   sort_de: "resignation"
   initial_de: "R"
-  docs: 14
+  docs: 13
 - id: "vollmacht"
   kind: "law"
   lang: "de"
@@ -834,7 +834,7 @@
   initial_en: "P"
   sort_de: "vollmacht"
   initial_de: "V"
-  docs: 62
+  docs: 61
 - id: "bevollmaechtigter"
   kind: "law"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 64
+  docs: 63
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -910,7 +910,7 @@
   initial_en: "C"
   sort_de: "kammer"
   initial_de: "K"
-  docs: 76
+  docs: 77
 - id: "kriegsrath"
   kind: "law"
   lang: "de"
@@ -1081,7 +1081,7 @@
   initial_en: "O"
   sort_de: "ausfertigung"
   initial_de: "A"
-  docs: 26
+  docs: 27
 - id: "vidimirt"
   kind: "law"
   lang: "de_la"
@@ -1100,7 +1100,7 @@
   initial_en: "C"
   sort_de: "vidimirte abschrift"
   initial_de: "V"
-  docs: 17
+  docs: 15
 - id: "revers"
   kind: "law"
   lang: "de_fr"
@@ -1385,7 +1385,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 55
+  docs: 54
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1556,7 +1556,7 @@
   initial_en: "A"
   sort_de: "auditeur"
   initial_de: "A"
-  docs: 9
+  docs: 11
 - id: "protocoll"
   kind: "law"
   lang: "de_la"

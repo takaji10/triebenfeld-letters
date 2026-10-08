@@ -175,6 +175,39 @@ The date range is **1766-1808**, wider than the volume's own subject suggests.
 The 1766 outlier is the Czartoryski privilege for Głażewo, filed thirty years
 early as evidence of title.
 
+## Summaries (written again 2026-10-08)
+
+The first summaries were written by the model from the English translations,
+and the German beside them was never checked. They were written again in a
+working session: every document read whole in its German text, a German
+summary written from that reading, the English translated from the German, and
+each of the 182 statements held to the document (`intake/summaries_draft.py`,
+`intake/claim_check.yml`). What the reading found:
+
+- **Documents 16 and 17 are one matter.** 17 is the contract of 26 May 1804 by
+  which Kunkel, as the Prince's agent, sold ten Hufen of the Alte Hütte farm to
+  six Olęder settlers, subject to the Prince's approval; 16 is the hereditary
+  lease of 20 December 1804 to the same six, signed by the Prince, which
+  cancels Kunkel's contract.
+- **Documents 18, 19 and 24 are one matter.** The Prince's sale of the whole
+  lordship of Pszczew to its burgesses and villages (18, 19; July 1804) was
+  refused by the Chamber at Poznań in May 1805 (24: the nobility's estates,
+  the forest, the poverty of the buyers), and approved by the King in 1806
+  (the rescript appended to 18).
+- **Documents 25 to 28** are the first attempt (1798-99) to divide Szetlewek
+  among settlers, through the miller Lucke, which broke on the pledge holder's
+  refusal to leave. Document 28 also reports, as hearsay from Prusimski's
+  commissary von Kramplitz, that the Trąbczyn Olęder settlers' privilege runs
+  only to the first holders, their sons and grandsons.
+- **Document 26, line 3**: transcribed "Der Schütze Reise aus Wrąbczynek". The
+  scan (0159_a2) has "Schultze" (a village mayor), and the name is probably
+  Kriede: the protocol is signed "Jacob Kriede" and document 28 names the three
+  as Luck, Kriede and Nüchler. The downscaled scan does not settle the name,
+  so the text is left as it stands; the summary says "a third man".
+- **Document 21** writes the colonel's widow "von Schliesen" and "v.
+  Schliefen"; document 2 has "Obristen v Schlieben". The summary of 21 leaves
+  her unnamed.
+
 ## Next
 
 `rulings.yml` still has no `documents.relations`: the typed links between an

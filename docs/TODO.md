@@ -318,10 +318,12 @@ NEEDS_CONFIRMATION.md.
       languages) up to date: done 2026-10-05 (thirteen holdings in four
       archives, 464 documents, 1,529 pages, 609 marks of doubt, all
       translated as drafts). The home page's span is now generated.
-- [ ] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
-      holdings' were done. No longer a paid run: it can be done in a working
-      session, as every holding since 2026-10-04 has been (74 documents,
-      a few hours). Offered on 2026-10-07; you have not said.
+- [x] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
+      holdings' were done: done in a working session on 2026-10-08, at your
+      word. 74 documents read whole in the German, summarised in German, the
+      English translated from it, 394 statements checked. On the way one date
+      was corrected against the scan (14525, document 7: 1801, not 1804).
+      Two dates on the site to rule on are in NEEDS_CONFIRMATION.
 - [ ] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the

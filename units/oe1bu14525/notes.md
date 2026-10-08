@@ -135,6 +135,45 @@ an abbreviation (`des Hochfürstl.`) looks like a closed sentence; and `v.`,
 1798.`) looks like a section number. 17 such breaks were reversed by hand; the
 numbered clauses of the deeds themselves are genuine and were kept.
 
+## Summaries (written again 2026-10-08)
+
+The first summaries were written by the model from the English translations,
+and the German beside them was never checked. At the editor's word
+(2026-10-08) they were written again in a working session: every document read whole in
+its German text, a German summary written from that reading, the English
+translated from the German, and each of the 212 statements held to the
+document (`intake/summaries_draft.py`, `intake/claim_check.yml`). The script
+writes `summaries_de.yml` and replaces this holding's lines in the site's two
+summary files; it applies the English digit grouping itself. What the reading
+found:
+
+- **Documents 3 and 4** (copies of the grant of 1796 made in 1798 and 1802):
+  the text of the deed names only Kamionna, Kolno and Brzyce; Trąbczyn and the
+  other villages of the Konin district stand only in the endorsement.
+  Document 1 has the full list. The scans (0010_a2, 0012_a2) show that both
+  copyists wrote it so; it is not a line lost in transcription. The summaries
+  say what each copy says.
+- **Document 7**: the Kalisz attestation was transcribed "7. July 1804". The
+  scan (0021_a2) reads 1801, as the same attestation does in document 22, and
+  the copy is itself certified in 1802. Corrected in the corpus, the page file
+  and the English (`transcription_decisions.csv`, key 7030ab57;
+  `reference/english_corrections.yml`).
+- **Two dates on the site are not the documents' own** (in
+  `docs/NEEDS_CONFIRMATION.md`): document 13 is dated 22 July 1794, which is
+  the date of the West Prussian valuation principles it applies (the
+  correction of the valuation is attested at Berlin on 16 May 1804); document
+  21 is dated 25 January 1804, the date of a settlement it mentions, while the
+  extract is certified at Kalisz on 18 September 1811 and its entries run to
+  1806.
+- **Document 21's bond** for Triebenfeld's 250,000 Rthl is dated "1 Juny
+  1814" in the text, which cannot be (it was entered in 1804); left as
+  written, and the summary gives no date for it.
+- **Documents 39 to 41** (Hoym's letters of 1796 and 1797, certified copies)
+  say the most about how the grants were meant: the Prusimski estates were
+  burdened with debts, so the church estates were added in 1797; the handing
+  over of 1797 was "a superficial ceremony", and the Chambers were told to
+  examine the claimants' contracts and hand the estates to the Prince's agents.
+
 ## Damage
 
 None recorded beyond what the transcription itself marks: 56 `[?]` readings
