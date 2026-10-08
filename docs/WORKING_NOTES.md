@@ -75,6 +75,10 @@ Where the rest is:
   chat reply (2026-09-28): `pipeline/review/queries.py --unit <slug>`, with
   the site served beside it. Keep sheets short, and decide first what can be
   decided without them.
+  A row can carry a picture of its line (an `image` column, a file in
+  `review/<slug>/spot_img/`): use it wherever the editor would have to count
+  lines on a dense page. On 2026-10-08 they could not find four lines of
+  letter 289 by number, although the numbers matched the page.
   A sheet can run across holdings (2026-10-07): a row with a `unit` column
   is a line of that holding's corpus, and a row with a `summary` column asks
   for a decision instead of a reading (its options are the buttons). The

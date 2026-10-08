@@ -269,8 +269,11 @@ Your review, in this order:
       each era begins.
 - [x] **Oe 1 Bü 9454, letters 245 and 289**: the archive's new scans are in
       (2026-10-07), with the text, English and summaries following them.
-      Eight words I could not settle are listed in the holding's notes;
-      they are on the spot sheet "Letters 245 and 289" if you want to look.
+      You answered the six rows of letter 245 on the spot sheet "Letters
+      245 and 289" and they are applied.
+- [ ] **Four words of letter 289** on the same sheet (rows 7 to 10), each
+      now with a picture of its line: "zu bring" or "zu Brieg", "bitte" or
+      "litte", "Circa", and the name "Heneberg".
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
       only brought up to the facts for now.

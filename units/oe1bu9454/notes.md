@@ -319,10 +319,14 @@ record); neither is to be run again.
 - **Text.** Made line by line from the text that stood in the corpus (which had had every correcting pass), the editor's new
   transcription, and the new scans read through enlarged. Where the two transcriptions differed the scan decided. 245 gained its last
   line of page 1, which the old scan had lost at the torn foot; 289 gained the pencil date at the foot of page 1. Marks of doubt: 245
-  from 14 to 6, 289 from 13 to 1. 245 is off the `rough` list.
-- **Left as found** (nothing completed by guess): in 245 "praeciat" / "Praeciat" (a term for the son's 100,000 rt, twice; perhaps
-  Praecipuum), "Inträgen" on page 1 where page 2 has "Intrigen", the word after "Intresse" at the torn end of page 2 line 2, and "aus der
-  Casse" in an insertion above the line where a struck word between is not transcribed; in 289 "zu bring" (perhaps "zu Brieg"), "so
+  from 14 to 6 (9 after the editor's answers on the spot sheet), 289 from 13 to 1. 245 is off the `rough` list.
+- **The spot sheet "Letters 245 and 289"** (`intake/scripts/spot_245_289.py`; ten rows). The editor answered the six rows of 245 on
+  2026-10-07 and they are applied (`intake/scripts/spot_answers_245_289.py`, not to be run again): "praedikat" / "Praedikat" for my
+  "praeciat"; "Inträgen" and "Ersaz" stand; "dringen[?]" for my "darin" (the editor: "Looks like dringen?"); "Erröthen[?]" (the editor
+  cannot tell); "aus der B[...] Casse" (the editor sees a word beginning with B between). The four rows of 289 are open: the editor
+  could not find the lines by their numbers, although the numbers agree with the document page, so the sheet now shows a picture of
+  each line.
+- **Left as found** (nothing completed by guess): in 245 the word after "Intresse" at the torn end of page 2 line 2; in 289 "zu bring" (perhaps "zu Brieg"), "so
   schrecklich bitte" (perhaps "litte"), "Circa 112/m" (perhaps "mit") and the name "Heneberg[?]". The editor's file had the pencil date
   of 289 as "3. Mai 1815." at the head; it reads "5. Mai 1815." and stands at the foot.
 - **English.** Revised in session to follow the German (`intake/translation/doc245.yml`, `doc289.yml`, `write_cache.py` into the v2

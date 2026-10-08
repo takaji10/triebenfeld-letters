@@ -126,6 +126,10 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
             f"<div>{i}. <a href='{url}' target='_blank'>{html.escape(where)} {html.escape(r['letter'])}, "
             f"page {pg.get(n, 1)}</a>, <b>line {shown.get(n, '?')}</b></div>"
             f"<div class=line>{text}</div>"
+            # A picture of the line itself, where the row names one (an `image` column: a file in
+            # review/<slug>/spot_img/). The editor could not find four lines by their numbers (2026-10-08).
+            + (f"<a href='/img/{html.escape(r['image'])}' target='_blank'><img src='/img/{html.escape(r['image'])}' "
+               f"style='max-width:100%;border:1px solid var(--line);margin:.3em 0'></a>" if r.get('image') else '') +
             f"<small>{html.escape(r['note'])}</small><div style='margin-top:8px'>{buttons}"
             f"<input placeholder='What the page says' "
             f"value='{html.escape(a.get('other', ''), quote=True)}'"
@@ -213,6 +217,16 @@ def main():
             pass
 
         def do_GET(self):
+            if self.path.startswith('/img/'):
+                p = os.path.join(rev, 'spot_img', os.path.basename(self.path))
+                if not os.path.isfile(p):
+                    self.send_error(404)
+                    return
+                self.send_response(200)
+                self.send_header('Content-Type', 'image/jpeg')
+                self.end_headers()
+                self.wfile.write(open(p, 'rb').read())
+                return
             body = build(rows, answers, corpus, slug, stem).encode('utf-8')
             self.send_response(200)
             self.send_header('Content-Type', 'text/html; charset=utf-8')
