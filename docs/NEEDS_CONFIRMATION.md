@@ -21,8 +21,9 @@ read, translate and summarise.
 - **Rescans, Oe 1 Bü 9454**: settled 2026-10-07. The archive's new scans of
   letter 245 and letter 289 are in, with the text corrected against them,
   the English revised and the summaries written again
-  (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289"). A few
-  words in them are left as found and listed there.
+  (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289"). The
+  editor settled the ten words left open on a spot sheet (2026-10-07 and
+  10-08); published 2026-10-08.
 - **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
   list, 2026-10-02; state of 2026-10-05). Scans are in the editor's folders
   and no transcription is with them: Minor Prusimska's claims to her father's
@@ -357,9 +358,10 @@ Fixes to the English that survive a re-publish go in
   and a few street names and personal names that may rightly stay.
 - **Summaries of Oe 1 Bü 14525 and 14526** (74 documents) were written from
   the English and never had the claim-by-claim check the other holdings had.
-  Redoing them the way the others were done is a paid run, estimated at
-  $5-10, deferred by the editor (2026-10-02); it also yields transcription
-  fixes to review.
+  Redoing them the way the others were done was a paid run, estimated at
+  $5-10, deferred by the editor (2026-10-02). It can now be done in a
+  working session at no cost (offered 2026-10-07, not yet answered); done
+  that way it does not yield the paid run's list of suspected slips.
 
 ## Glossary
 

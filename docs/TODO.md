@@ -271,9 +271,10 @@ Your review, in this order:
       (2026-10-07), with the text, English and summaries following them.
       You answered the six rows of letter 245 on the spot sheet "Letters
       245 and 289" and they are applied.
-- [ ] **Four words of letter 289** on the same sheet (rows 7 to 10), each
-      now with a picture of its line: "zu bring" or "zu Brieg", "bitte" or
-      "litte", "Circa", and the name "Heneberg".
+- [x] The four words of letter 289 on the same sheet: answered 2026-10-08
+      ("zu Brieg", "Heneberg"; "bitte" and "Circa" stand) and applied.
+- [x] **Published at your word on 2026-10-08**: the timeline with the
+      Prusimski era and the era bands, and letters 245 and 289.
 - [ ] **The account of the era** on the story page: waits until you have
       supplied the missing transcriptions (your word, 2026-10-07). It is
       only brought up to the facts for now.
@@ -318,7 +319,9 @@ NEEDS_CONFIRMATION.md.
       archives, 464 documents, 1,529 pages, 609 marks of doubt, all
       translated as drafts). The home page's span is now generated.
 - [ ] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
-      holdings' were done (paid, about $5 to $10; you deferred it).
+      holdings' were done. No longer a paid run: it can be done in a working
+      session, as every holding since 2026-10-04 has been (74 documents,
+      a few hours). Offered on 2026-10-07; you have not said.
 - [ ] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the

@@ -44802,6 +44802,240 @@
   ]
  },
  {
+  "entity": "brieg",
+  "display": "Brzeg (Brieg)",
+  "count": 23,
+  "documents": [
+   "iharep162nr295-3",
+   "oe1bu9454-14",
+   "oe1bu9454-220",
+   "oe1bu9454-238",
+   "oe1bu9454-245",
+   "oe1bu9454-259",
+   "oe1bu9454-260",
+   "oe1bu9454-263",
+   "oe1bu9454-267",
+   "oe1bu9454-268",
+   "oe1bu9454-273",
+   "oe1bu9454-276",
+   "oe1bu9454-278",
+   "oe1bu9454-289",
+   "oe1bu9454-29",
+   "oe1bu9454-303",
+   "oe1bu9454-55",
+   "oe1bu9454-6"
+  ],
+  "mentions": [
+   {
+    "uid": "iharep162nr295-3",
+    "surface": "Brieg",
+    "page": 3,
+    "page_id": "0010_a",
+    "scan": "I_HA_Rep_162_Nr_295_0010_a-L3_03.jpg",
+    "line": 242,
+    "doc_line": 55
+   },
+   {
+    "uid": "oe1bu9454-29",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0051_b",
+    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
+    "line": 1936,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0104_b",
+    "scan": "Oe_1_Bu_9454_0104_b-L55_01.jpg",
+    "line": 4090,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-220",
+    "surface": "Brieg",
+    "page": 3,
+    "page_id": "0413_a2",
+    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
+    "line": 15928,
+    "doc_line": 53
+   },
+   {
+    "uid": "oe1bu9454-238",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0446_a1",
+    "scan": "Oe_1_Bu_9454_0446_a1-L238_02.jpg",
+    "line": 17349,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu9454-245",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0456_a",
+    "scan": "Oe_1_Bu_9454_0456_a-L245_02.jpg",
+    "line": 17780,
+    "doc_line": 91
+   },
+   {
+    "uid": "oe1bu9454-259",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0473_b",
+    "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
+    "line": 18437,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0474_b",
+    "scan": "Oe_1_Bu_9454_0474_b-L260_01.jpg",
+    "line": 18486,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-260",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0475_a1",
+    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
+    "line": 18531,
+    "doc_line": 52
+   },
+   {
+    "uid": "oe1bu9454-263",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0480_b",
+    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
+    "line": 18717,
+    "doc_line": 18
+   },
+   {
+    "uid": "oe1bu9454-263",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0480_b",
+    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
+    "line": 18723,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-267",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0486_a2",
+    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
+    "line": 18972,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-267",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0487_a1",
+    "scan": "Oe_1_Bu_9454_0487_a1-L267_02.jpg",
+    "line": 18997,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0487_a2",
+    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
+    "line": 19014,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-268",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0488_a1",
+    "scan": "Oe_1_Bu_9454_0488_a1-L268_02.jpg",
+    "line": 19052,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-273",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0498_a1",
+    "scan": "Oe_1_Bu_9454_0498_a1-L273_02.jpg",
+    "line": 19407,
+    "doc_line": 32
+   },
+   {
+    "uid": "oe1bu9454-14",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "Oe_1_Bu_9454_0022_a-L14_01.jpg",
+    "line": 774,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-276",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0502_b",
+    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
+    "line": 19616,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-276",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0502_b",
+    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
+    "line": 19621,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu9454-278",
+    "surface": "Brieg",
+    "page": 3,
+    "page_id": "0505_a2",
+    "scan": "Oe_1_Bu_9454_0505_a2-L278_03.jpg",
+    "line": 19798,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu9454-289",
+    "surface": "Brieg",
+    "page": 1,
+    "page_id": "0522_b",
+    "scan": "Oe_1_Bu_9454_0522_b-L289_01.jpg",
+    "line": 20623,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Brieg",
+    "page": 2,
+    "page_id": "0011_a1",
+    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
+    "line": 423,
+    "doc_line": 25
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Brieg",
+    "page": 7,
+    "page_id": "0545_a2",
+    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
+    "line": 21617,
+    "doc_line": 110
+   }
+  ]
+ },
+ {
   "entity": "frankreich",
   "display": "Frankreich",
   "count": 23,
@@ -45250,230 +45484,6 @@
     "scan": "Oe_1_Bu_14526_0002_b-L1_01.jpg",
     "line": 29,
     "doc_line": 5
-   }
-  ]
- },
- {
-  "entity": "brieg",
-  "display": "Brzeg (Brieg)",
-  "count": 22,
-  "documents": [
-   "iharep162nr295-3",
-   "oe1bu9454-14",
-   "oe1bu9454-220",
-   "oe1bu9454-238",
-   "oe1bu9454-245",
-   "oe1bu9454-259",
-   "oe1bu9454-260",
-   "oe1bu9454-263",
-   "oe1bu9454-267",
-   "oe1bu9454-268",
-   "oe1bu9454-273",
-   "oe1bu9454-276",
-   "oe1bu9454-278",
-   "oe1bu9454-29",
-   "oe1bu9454-303",
-   "oe1bu9454-55",
-   "oe1bu9454-6"
-  ],
-  "mentions": [
-   {
-    "uid": "iharep162nr295-3",
-    "surface": "Brieg",
-    "page": 3,
-    "page_id": "0010_a",
-    "scan": "I_HA_Rep_162_Nr_295_0010_a-L3_03.jpg",
-    "line": 242,
-    "doc_line": 55
-   },
-   {
-    "uid": "oe1bu9454-29",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0051_b",
-    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-    "line": 1936,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0104_b",
-    "scan": "Oe_1_Bu_9454_0104_b-L55_01.jpg",
-    "line": 4090,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-220",
-    "surface": "Brieg",
-    "page": 3,
-    "page_id": "0413_a2",
-    "scan": "Oe_1_Bu_9454_0413_a2-L220_03.jpg",
-    "line": 15928,
-    "doc_line": 53
-   },
-   {
-    "uid": "oe1bu9454-238",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0446_a1",
-    "scan": "Oe_1_Bu_9454_0446_a1-L238_02.jpg",
-    "line": 17349,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu9454-245",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0456_a",
-    "scan": "Oe_1_Bu_9454_0456_a-L245_02.jpg",
-    "line": 17780,
-    "doc_line": 91
-   },
-   {
-    "uid": "oe1bu9454-259",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0473_b",
-    "scan": "Oe_1_Bu_9454_0473_b-L259_01.jpg",
-    "line": 18437,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0474_b",
-    "scan": "Oe_1_Bu_9454_0474_b-L260_01.jpg",
-    "line": 18486,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-260",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0475_a1",
-    "scan": "Oe_1_Bu_9454_0475_a1-L260_02.jpg",
-    "line": 18531,
-    "doc_line": 52
-   },
-   {
-    "uid": "oe1bu9454-263",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0480_b",
-    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-    "line": 18717,
-    "doc_line": 18
-   },
-   {
-    "uid": "oe1bu9454-263",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0480_b",
-    "scan": "Oe_1_Bu_9454_0480_b-L263_01.jpg",
-    "line": 18723,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-267",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0486_a2",
-    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
-    "line": 18972,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-267",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0487_a1",
-    "scan": "Oe_1_Bu_9454_0487_a1-L267_02.jpg",
-    "line": 18997,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0487_a2",
-    "scan": "Oe_1_Bu_9454_0487_a2-L268_01.jpg",
-    "line": 19014,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-268",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0488_a1",
-    "scan": "Oe_1_Bu_9454_0488_a1-L268_02.jpg",
-    "line": 19052,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-273",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0498_a1",
-    "scan": "Oe_1_Bu_9454_0498_a1-L273_02.jpg",
-    "line": 19407,
-    "doc_line": 32
-   },
-   {
-    "uid": "oe1bu9454-14",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "Oe_1_Bu_9454_0022_a-L14_01.jpg",
-    "line": 774,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-276",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0502_b",
-    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
-    "line": 19616,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-276",
-    "surface": "Brieg",
-    "page": 1,
-    "page_id": "0502_b",
-    "scan": "Oe_1_Bu_9454_0502_b-L276_01.jpg",
-    "line": 19621,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu9454-278",
-    "surface": "Brieg",
-    "page": 3,
-    "page_id": "0505_a2",
-    "scan": "Oe_1_Bu_9454_0505_a2-L278_03.jpg",
-    "line": 19798,
-    "doc_line": 58
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Brieg",
-    "page": 2,
-    "page_id": "0011_a1",
-    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
-    "line": 423,
-    "doc_line": 25
-   },
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Brieg",
-    "page": 7,
-    "page_id": "0545_a2",
-    "scan": "Oe_1_Bu_9454_0545_a2-L303_07.jpg",
-    "line": 21617,
-    "doc_line": 110
    }
   ]
  },

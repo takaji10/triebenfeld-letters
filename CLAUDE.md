@@ -108,8 +108,24 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-05)
+## Where things stand (2026-10-08)
 
+- **Everything is published and pushed (2026-10-08).** Nothing is held
+  locally. The last sitting (2026-10-07 and 10-08) published the
+  twenty-one Prusimski-era holdings, put that era on the timeline (sixteen
+  events, 1589 to 1788, and a band where each era begins;
+  `site/_data/timeline.yml`, `site/_includes/timeline.html`), and worked in
+  the archive's new scans of **Oe 1 Bü 9454, letters 245 and 289**
+  (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289": text made
+  from the old text, the editor's new transcription and the scans; English
+  and summaries follow; the editor settled ten words on a spot sheet).
+  The edition has 565 documents in 36 holdings and 719 marks of doubt.
+  Open offer, unanswered: redo the summaries of Oe 1 Bü 14525 and 14526 in
+  session (no longer a paid run).
+- **Spot sheets** (`pipeline/review/queries.py`): a sheet can run across
+  holdings (a `unit` column), ask for a decision (a `summary` column) and
+  show a picture of a line (an `image` column). `docs/WORKING_NOTES.md`,
+  "Working with the editor".
 - Glossary live: 108 entries, 98 words ruled out. 55 checked: the
   patrimonial court (the editor's Szukaj w Archiwach source) and 54 read
   against Krünitz, Adelung, Grimm and Gloger. The other 53 wait on works not
@@ -227,17 +243,18 @@ so check them.
   run again); the English follows in 32 places
   (`intake/translation/fixes_full.py`), one of them a paragraph the English
   itself lacked. Status `translated`. Read
-  `units/app53170koningr145/notes.md` first. Built and verified locally,
-  **committed but not pushed: publish when the editor says**, after they
-  have approved the folds (`review/app53170koningr145/folds/`, made by
-  `intake/fold_sheet.py`) and seen the sheet of dropped phrases
-  (`review/app53170koningr145/dropped/`, `intake/dropped_sheet.py`). The
-  era's account and the glossary wait at their word.
+  `units/app53170koningr145/notes.md` first. Published on 2026-10-07 with
+  the other Prusimski-era holdings; the editor placed its folds and
+  confirmed the tower sentence and the paragraph on leaf 680 on the spot
+  sheet "Before publishing". The era's fuller account waits for the
+  transcriptions the editor will supply; the glossary for these Latin and
+  Polish holdings has not been begun.
 - **The Prusimski-era run (editor, 2026-10-07): process every unit without
   stopping; all questions, fold adjustments and reviews of readings are held
   for one review at the end.** Each question goes into
   `docs/PRUSIMSKI_QUESTIONS.md` with the default that was taken, and the
   holding is built on the default. Nothing is published before the review.
+  (The review was held on 2026-10-07 and the holdings published that day.)
 - **The run is finished and published: every court-book folder with a text
   is built** (2026-10-07) and went live the same day at the editor's word.
   Twenty-one Prusimski-era holdings, 93 documents, 1589 to 1788; the edition
@@ -306,7 +323,8 @@ so check them.
   2026-10-05 (`units/ihagrrep7cnr3709/intake/claim_check.yml`): every
   holding's summaries written from the German have now had the check.
 - Deferred by the editor: redoing the 14525/14526 summaries the way the other
-  holdings' were (paid, about $5-10, on their machine).
+  holdings' were. It can be done in session now, at no cost; offered
+  2026-10-07, not yet answered.
 - Open before wider sharing: the archives' permission for the scans; the
   editor's full name for the licences (`site/_data/rights.yml` and `LICENSE`).
 - Everything else open is in `docs/NEEDS_CONFIRMATION.md`.
