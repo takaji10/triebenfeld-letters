@@ -1844,7 +1844,8 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - At the editor's word, in a working session and at no cost: the 74 documents of the two Neuenstein volumes were read whole in their German text and summarised afresh in German, and the English summaries translated from the German. The first summaries had been written by the model from the English translations and never checked. Each statement was then held to its document (212 in Oe 1 Bü 14525, 182 in 14526; each holding's `intake/claim_check.yml`). Every holding's summaries have now been written from the original language and checked; the edition guide says so in both languages, and the two holdings' pages say how theirs were made.
 - Oe 1 Bü 14525, document 7: the Government at Kalisz attested the copy on 7 July **1801**, not 1804; corrected against the scan (0021_a2) in the transcription and the English. Documents 3 and 4 were checked against the scans: both copies of the grant of 1796 name only Kamionna, Kolno and Brzyce in the deed's text, as transcribed.
-- Two dates on the site that are not the documents' own (14525, documents 13 and 21) are put to the editor in `NEEDS_CONFIRMATION.md`. Not yet published.
+- Two dates on the site that are not the documents' own (14525, documents 13 and 21) stay as they are (the editor, 2026-10-09).
+- Oe 1 Bü 14526, document 26: the third party is **Kriede**, not "Reise" (the editor, 2026-10-09; the protocol is signed Jacob Kriede); corrected in the transcription, the English and the summary. Not yet published.
 
 ## Deliverables produced
 

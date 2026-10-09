@@ -199,11 +199,12 @@ each of the 182 statements held to the document (`intake/summaries_draft.py`,
   refusal to leave. Document 28 also reports, as hearsay from Prusimski's
   commissary von Kramplitz, that the Trąbczyn Olęder settlers' privilege runs
   only to the first holders, their sons and grandsons.
-- **Document 26, line 3**: transcribed "Der Schütze Reise aus Wrąbczynek". The
-  scan (0159_a2) has "Schultze" (a village mayor), and the name is probably
-  Kriede: the protocol is signed "Jacob Kriede" and document 28 names the three
-  as Luck, Kriede and Nüchler. The downscaled scan does not settle the name,
-  so the text is left as it stands; the summary says "a third man".
+- **Document 26, line 3**: transcribed "Der Schütze Reise aus Wrąbczynek".
+  The name is Kriede (editor, 2026-10-09): the protocol is signed "Jacob
+  Kriede" and document 28 names the three as Luck, Kriede and Nüchler.
+  Corrected in the text and the English, and the summary names him. The word
+  before it stands as "Schütze"; on the downscaled scan it looked like
+  "Schultze" (a village mayor), which the editor did not take up.
 - **Document 21** writes the colonel's widow "von Schliesen" and "v.
   Schliefen"; document 2 has "Obristen v Schlieben". The summary of 21 leaves
   her unnamed.

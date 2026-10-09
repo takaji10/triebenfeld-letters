@@ -356,15 +356,6 @@ Fixes to the English that survive a re-publish go in
 - **German left in the English**, each to be read: *Königl.* (9454: 39, 200;
   3570), *Münze* in "4000 Rthl in Münze" (9454, 40: coin as against Courant),
   and a few street names and personal names that may rightly stay.
-- **Two dates in Oe 1 Bü 14525 are not the documents' own** (found when the
-  summaries were written again, 2026-10-08; `units/oe1bu14525/notes.md`,
-  "Summaries"). Document 13, a valuation of Kamionna and Kolno, is dated 22
-  July 1794: that is the date of the valuation principles it follows; its
-  correction is attested at Berlin on 16 May 1804. Document 21, an extract
-  from the mortgage book of Zagórów, is dated 25 January 1804: that is a
-  settlement it mentions; the extract is certified at Kalisz on 18 September
-  1811. Default if you do not say: date 13 by the attestation (1804-05-16)
-  and 21 by the certificate (1811-09-18).
 
 ## Glossary
 

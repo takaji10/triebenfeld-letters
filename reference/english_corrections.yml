@@ -80,3 +80,4 @@ corrections:
 
 # A date corrected in the German (2026-10-08).
 - {pad: oe1bu14525-007, page: 7, find: "Kalisz, the 7th of July 1804.", replace: "Kalisz, the 7th of July 1801.", why: "Kalisch den 7. July 1801: the scan reads 1801 (the transcription had 1804); document 22 has the same attestation and date"}
+- {pad: oe1bu14526-026, page: 1, find: "The marksman Reise of Wrąbczynek", replace: "The marksman Kriede of Wrąbczynek", why: "Der Schütze Kriede: the name was misread as Reise (editor, 2026-10-09); the protocol is signed Jacob Kriede"}

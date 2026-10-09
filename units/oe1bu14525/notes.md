@@ -158,8 +158,8 @@ found:
   the copy is itself certified in 1802. Corrected in the corpus, the page file
   and the English (`transcription_decisions.csv`, key 7030ab57;
   `reference/english_corrections.yml`).
-- **Two dates on the site are not the documents' own** (in
-  `docs/NEEDS_CONFIRMATION.md`): document 13 is dated 22 July 1794, which is
+- **Two dates on the site are not the documents' own, and stay as they are**
+  (editor, 2026-10-09: "keep the dates as written"): document 13 is dated 22 July 1794, which is
   the date of the West Prussian valuation principles it applies (the
   correction of the valuation is attested at Berlin on 16 May 1804); document
   21 is dated 25 January 1804, the date of a settlement it mentions, while the

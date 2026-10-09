@@ -138,6 +138,13 @@ Where the rest is:
   depend on the unread letters** and can be checked, and that reasoning is
   given to them in a sentence. So "A[lvensleben]" in I. HA GR, Rep. 7 C,
   Nr. 1414: the initial is read, the name comes from his office.
+- **A signature in the same document is a witness for a name** (editor,
+  2026-10-09). In Oe 1 Bü 14526, document 26, "Der Schütze Reise" was left
+  as transcribed because the downscaled scan did not settle it, although the
+  protocol is signed "Jacob Kriede" and another letter names him Kriede. The
+  editor: it should be Kriede. Where the same document signs or names the
+  person plainly, propose the correction with that witness instead of
+  leaving the reading.
 - **Old rulings are candidates, not decisions.** Readings carried over from an
   earlier transcription, and the editor's own standardised names, can be
   wrong (Beugelin was Beguelin). A signature or a second source outranks them.

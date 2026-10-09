@@ -30,10 +30,12 @@
 # - 21: the colonel's widow is written "von Schliesen" and "v. Schliefen"
 #   here, and the name is open in the edition (Schlieben, Schliefen); the
 #   summary leaves her out.
-# - 26: the third party is written "der Schütze Reise"; document 28 names the
-#   three as Luck, Kriede and Nüchler, and the protocol is signed by Jacob
-#   Kriede. The summary says "a third man", and does not name the pledge
-#   holder, who is "v. Brzezinski" in one line and "Raczinski" in the next.
+# - 26: the third party was transcribed "der Schütze Reise"; document 28 names
+#   the three as Luck, Kriede and Nüchler, and the protocol is signed by Jacob
+#   Kriede. The editor ruled (2026-10-09) that the name is Kriede, and the text
+#   and the English were corrected; the summary names him. It does not name
+#   the pledge holder, who is "v. Brzezinski" in one line and "Raczinski" in
+#   the next.
 # - 27: the councillor addressed is not named; the summary does not name him.
 # - 29: the term for declaring is unread ("binnen S. Wochen"); the summary
 #   says "within a set time".
@@ -242,7 +244,7 @@ oe1bu14526-025:
 
 oe1bu14526-026:
 - {claim: "Protokoll vor dem Polizeimagistrat zu Zagórów", verdict: supported, where: "Actum Zagorowo den 1ten July 1799. Es erschienen Dato für hiesigem Polizei Magistrat"}
-- {claim: "der Polizeibürgermeister Nüchler aus Pyzdry, der Müller Luka aus Białobrzeg und ein dritter Mann aus Wrąbczynek", verdict: supported, where: "1. Der Polizei Bürgermeister H. Nüchler aus Peisern 2. der Müller Luka aus Białobrzeg und 3. Der Schütze Reise aus Wrąbczynek"}
+- {claim: "der Polizeibürgermeister Nüchler aus Pyzdry, der Müller Luka aus Białobrzeg und Kriede aus Wrąbczynek", verdict: supported, where: "1. Der Polizei Bürgermeister H. Nüchler aus Peisern 2. der Müller Luka aus Białobrzeg und 3. Der Schütze Kriede aus Wrąbczynek"}
 - {claim: "hatten am 20. November 1798 mit Glenck, dem Generalbevollmächtigten des Fürsten zu Hohenlohe, vereinbart, das Gut Szetlewek aufzuteilen, Ansiedler zu stellen und den Kaufpreis zu Johanni zu zahlen", verdict: supported, where: "Unterm 20t. Novbr 1798 hatten Sie mit dem Hochfürstliche Hohenloheschen Bau und Oeconom Rath qua General Bevollmächtigten Herrn Glencke. Wegen Vertheilung des Guths Szetlewek ... einen Contract gemacht, worin Sie sich anheischig gemacht ... hinlängliche Subjecte zur besezzung derselben zu verschaffen, und daß ebenfalls bestimmt kauff Geld auf Johanni d. J. zu erlegen"}
 - {claim: "weil der Pfandbesitzer von Szetlewek die Räumung erschwert", verdict: supported, where: "wenn nicht der jezzige Besitzer v. Brzezinski welcher das Guth Szetlewek in Pfand Schilling besizt; einige Schwürig: keiten wegen der Räumung gemacht hatte"}
 - {claim: "sagen sie sich vom Vertrag los, wenn ihnen 200 Rthl Reisekosten ersetzt werden und die angeworbenen Leute, die schon Handgeld gezahlt haben, sich an die Herrschaft halten", verdict: supported, where: "so wollen Sie sich den Erfüllung des qu.- Contracts Contracts entsagen ... unter der Bedingung ... wenn Ihnen die bey dieser Geschichte gehabte Reise Kosten etc. mit 200 rt ... vergültigt werden möchten; und daß die anhero gezogene Leuthe welche bereits Hand Geld erlegt keine Ansprüche an Sie haben sondern sich lediglich an dem Hochfürstl. Dominio halten möchte"}

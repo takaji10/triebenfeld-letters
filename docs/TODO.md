@@ -323,7 +323,8 @@ NEEDS_CONFIRMATION.md.
       word. 74 documents read whole in the German, summarised in German, the
       English translated from it, 394 statements checked. On the way one date
       was corrected against the scan (14525, document 7: 1801, not 1804).
-      Two dates on the site to rule on are in NEEDS_CONFIRMATION.
+      You ruled on 2026-10-09: the dates of 14525, documents 13 and 21,
+      stay as they are, and the name in 14526, document 26, is Kriede.
 - [ ] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the

@@ -126,8 +126,9 @@ so check them.
   statements; each holding's `intake/summaries_draft.py` and
   `intake/claim_check.yml`, "Summaries" in its `notes.md`). Every holding's
   summaries have now had the check. One date corrected against the scan
-  (14525, doc. 7). Two dates on the site wait on the editor
-  (NEEDS_CONFIRMATION). Not yet published.
+  (14525, doc. 7) and one name (14526, doc. 26: Kriede, editor 2026-10-09);
+  the dates of 14525, docs 13 and 21, stay as they are (editor). Not yet
+  published.
 - **Spot sheets** (`pipeline/review/queries.py`): a sheet can run across
   holdings (a `unit` column), ask for a decision (a `summary` column) and
   show a picture of a line (an `image` column). `docs/WORKING_NOTES.md`,
