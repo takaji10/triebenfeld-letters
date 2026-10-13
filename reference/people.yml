@@ -88,6 +88,8 @@ people:
   broniewski:
     display: "Broniewski"
     match: "Broniew|Bronisz"
+    # "Broniszewice" in the hearth-tax register of 1789 is a village.
+    not_in: [app53640kalisztab21-1]
     tier: ""
     variants:
       - "Broniewsky"

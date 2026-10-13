@@ -355,3 +355,51 @@ and you checked every line of it. Details: `units/agad1169011745/notes.md`.
 - [ ] **You: whether you want** the modern name of each of the 164 villages
       added (nothing identifies them yet), and a sentence on the table in
       the account of the Hohenlohe-Ingelfingen years.
+
+## 10. APP 53/968/0/-/783: the summons of 1860 (added 2026-10-13, not published)
+
+A printed summons in Polish: Count Włodzimierz Miączyński of Trąbczyn
+counterclaims against 97 colonists of two colonies over pasture and
+wood-gathering in his forest; the copy served on Karolina Fridenberg.
+Your Polish was checked against the scans (34 corrections), and the English
+written again, because the one in your file was a machine's and wrong in
+substance. Details: `units/app539680783/notes.md`.
+
+- [ ] **You: read the page of changes** (`review/changes/index.html`, the
+      entries marked new for this holding): what the check changed in the
+      Polish and in the English, for anything you have written from the
+      old text.
+- [ ] **You: look at five places on page 1** where the court messenger
+      altered the print in pen: the name in the margin for no. 58 (read
+      "Marcina [Hetke?]"), and nos. 7, 55, 70, 53 and 54 (the holding's
+      notes, "For the editor's eye").
+- [ ] **You: place the folds** of the two openings
+      (`review/app539680783/folds/index.html`).
+- [ ] **You: how Count Włodzimierz Miączyński was related** to Michalina
+      and Stanisław Miączyński, if you know; the paper does not say.
+- [ ] **You: whether the Staro-Łazińska and Nowo-Łazińska colonies** are
+      the "Łazy" of the grant of 1796 and of the tables of 1789 and 1797
+      (today Łazińsk?), before any link is made between them.
+- [ ] **You: say when to publish.**
+
+## 11. APP 53/64/0/-/Kalisz Tab.21: the hearth-tax register of 1789 (added 2026-10-13, not published)
+
+Thirteen pages of the register of the hearth tax of the Kalisz voivodeship:
+387 entries of the Pyzdry, Kalisz and Konin districts, Trąbczyn and its
+neighbours among them. There was no transcription; the register was read
+from your scans in the session. Details:
+`units/app53640kalisztab21/notes.md`.
+
+- [ ] **You: check the register** on the spreadsheet
+      `review/app53640kalisztab21/table_check.xlsx`. Each line has a picture
+      of that part of the scan beside it (two or three lines: find yours by
+      its number). 45 names are marked "[?]" and 85 lines have a note. The
+      figures have no totals to hold them; twelve are marked LOOK because
+      they do not fit the rate of the tax (ten of them are towns).
+- [ ] Your corrections worked in (`holding.py --take`), the English, the
+      summary and the page brought into line, and the clean spreadsheet
+      made (`holding.py --archive`).
+- [ ] **You: the file `017v.jpg`.** By its receipt numbers it is the back of
+      leaf 9, not of leaf 17, and it is placed there. Say if your notes
+      have it otherwise.
+- [ ] **You: say when to publish.**

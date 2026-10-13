@@ -1,0 +1,1492 @@
+status: draft
+segments:
+- page: 1
+  en: 'Receipts. No.,Names of the towns and villages.,Sum collected.,,Sum of the order to pay.,
+
+    ,,Złoty.,Gr.,Złoty.,Gr.
+
+    ,Pyzdry district,,,,
+
+    1,Village Bieganow in the parish of Krerowo,77,,,
+
+    2,Brzostkowo,119,,,
+
+    3,Small town Bnin,230,,,
+
+    4,Baszkow,185,15,,
+
+    5,Parsonage at Baszkowie,10,15,,
+
+    6,Bestwin,133,,,
+
+    7,Ruda,91,,,
+
+    8,Roch demesne farm,28,,,
+
+    9,Demesne farm Dziewiąte,17,15,,
+
+    10,Demesne farm [uncertain: Tra…ry],10,15,,
+
+    11,Demesne farm [uncertain: Sztrząski],10,15,,
+
+    12,Demesne farm [uncertain: Lille],14,,,
+
+    13,Village Kochaly,63,,,
+
+    14,Demesne farm Pyżyce,112,,,
+
+    15,Village Uiazd,21,,,
+
+    16,Borownik demesne farm,31,15,,
+
+    17,Three demesne farms,38,15,,
+
+    18,Village Biechowo in the parish of per Se,77,,,
+
+    19,Village Babino,66,15,,
+
+    20,Bonice in the parish of Grodzisko,31,15,,
+
+    21,Village Bieganowo,94,15,,
+
+    22,Demesne farm [uncertain: Bieczewo],14,,,
+
+    23,Village Borkowo,24,15,,
+
+    24,Small town Borek,278,,,
+
+    25,Village Bozęciczki,164,15,,
+
+    26,Of the parish priest,7,,,
+
+    27,Demesne farm [uncertain: Mycielinek],28,,,
+
+    28,Demesne farm Dembowiec,38,15,,
+
+    29,Village Gałązki,87,15,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <caption>Names of the towns and villages.</caption>
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">1</td><td class="name">Village Bieganow in the parish of Krerowo</td><td
+    class="num">77</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">2</td><td
+    class="name">Brzostkowo</td><td class="num">119</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">3</td><td class="name">Small town Bnin</td><td class="num">230</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">4</td><td class="name">Baszkow</td><td
+    class="num">185</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">5</td><td class="name">Parsonage at Baszkowie</td><td class="num">10</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">6</td><td class="name">Bestwin</td><td
+    class="num">133</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">7</td><td
+    class="name">Ruda</td><td class="num">91</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">8</td><td class="name">Roch demesne farm</td><td class="num">28</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">9</td><td class="name">Demesne farm
+    Dziewiąte</td><td class="num">17</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">10</td><td class="name">Demesne farm [uncertain: Tra…ry]</td><td class="num">10</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">11</td><td class="name">Demesne
+    farm [uncertain: Sztrząski]</td><td class="num">10</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">12</td><td class="name">Demesne farm [uncertain: Lille]</td><td
+    class="num">14</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">13</td><td
+    class="name">Village Kochaly</td><td class="num">63</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">14</td><td class="name">Demesne farm Pyżyce</td><td class="num">112</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">15</td><td class="name">Village
+    Uiazd</td><td class="num">21</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">16</td><td class="name">Borownik demesne farm</td><td class="num">31</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">17</td><td class="name">Three demesne
+    farms</td><td class="num">38</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">18</td><td class="name">Village Biechowo in the parish of per Se</td><td class="num">77</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">19</td><td class="name">Village
+    Babino</td><td class="num">66</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">20</td><td class="name">Bonice in the parish of Grodzisko</td><td class="num">31</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">21</td><td class="name">Village
+    Bieganowo</td><td class="num">94</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">22</td><td class="name">Demesne farm [uncertain: Bieczewo]</td><td class="num">14</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">23</td><td class="name">Village
+    Borkowo</td><td class="num">24</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">24</td><td class="name">Small town Borek</td><td class="num">278</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">25</td><td class="name">Village Bozęciczki</td><td
+    class="num">164</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">26</td><td class="name">Of the parish priest</td><td class="num">7</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">27</td><td class="name">Demesne farm
+    [uncertain: Mycielinek]</td><td class="num">28</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">28</td><td class="name">Demesne farm Dembowiec</td><td class="num">38</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">29</td><td class="name">Village Gałązki</td><td
+    class="num">87</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 2
+  en: '379,Chotunia,63,,,
+
+    380,[uncertain: Gutkowo],42,,,
+
+    381,Samarzewo,147,,,
+
+    382,Skarboszewo,101,15,,
+
+    383,Chrustowo,38,15,,
+
+    384,Giecz,70,,,
+
+    385,Gozdowo,129,15,,
+
+    386,Garby,70,,,
+
+    387,Gałęzowo part belonging to [uncertain: Duchowny],,,7,
+
+    388,Part belonging to the church of Samarzew:,17,15,,
+
+    389,"The same place, the wójt''s holding",14,,,
+
+    390,Gablin,31,15,,
+
+    391,Kaczanowo,94,15,,
+
+    392,Krerowo,105,,,
+
+    393,[uncertain: Luberz],49,,,
+
+    394,Mała Gorka,42,,,
+
+    395,Mączniki with the demesne farm,91,,,
+
+    396,Mądre,59,15,,
+
+    397,Niesłabino,77,,,
+
+    398,Nadzieiewo,45,15,,
+
+    399,Orkowo,59,15,,
+
+    400,Poswiątne,28,,,
+
+    401,Pogorzelica,28,,,
+
+    402,Pętkowo,28,,,
+
+    403,Staniszewo,17,15,,
+
+    404,Snieciska,66,15,,
+
+    405,Stępocin,42,,,
+
+    406,[uncertain: Szabłki] parts of OO. Franciszkan:,7,,,
+
+    407,Topola demesne farm,,,14,
+
+    408,Wójt''s holding [uncertain: Włoczewskie],,,17,15'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">379</td><td class="name">Chotunia</td><td class="num">63</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">380</td><td class="name">[uncertain:
+    Gutkowo]</td><td class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">381</td><td class="name">Samarzewo</td><td class="num">147</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">382</td><td class="name">Skarboszewo</td><td
+    class="num">101</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">383</td><td class="name">Chrustowo</td><td class="num">38</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">384</td><td class="name">Giecz</td><td
+    class="num">70</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">385</td><td
+    class="name">Gozdowo</td><td class="num">129</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">386</td><td class="name">Garby</td><td class="num">70</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">387</td><td class="name">Gałęzowo part belonging to [uncertain:
+    Duchowny]</td><td class="num"></td><td class="num"></td><td class="num">7</td><td class="num"></td></tr><tr><td
+    class="no">388</td><td class="name">Part belonging to the church of Samarzew:</td><td class="num">17</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">389</td><td class="name">The
+    same place, the wójt&#x27;s holding</td><td class="num">14</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">390</td><td class="name">Gablin</td><td class="num">31</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">391</td><td class="name">Kaczanowo</td><td
+    class="num">94</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">392</td><td
+    class="name">Krerowo</td><td class="num">105</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">393</td><td class="name">[uncertain: Luberz]</td><td class="num">49</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">394</td><td class="name">Mała Gorka</td><td
+    class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">395</td><td
+    class="name">Mączniki with the demesne farm</td><td class="num">91</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">396</td><td class="name">Mądre</td><td class="num">59</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">397</td><td class="name">Niesłabino</td><td
+    class="num">77</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">398</td><td
+    class="name">Nadzieiewo</td><td class="num">45</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">399</td><td class="name">Orkowo</td><td class="num">59</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">400</td><td class="name">Poswiątne</td><td
+    class="num">28</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">401</td><td
+    class="name">Pogorzelica</td><td class="num">28</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">402</td><td class="name">Pętkowo</td><td class="num">28</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">403</td><td class="name">Staniszewo</td><td
+    class="num">17</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">404</td><td
+    class="name">Snieciska</td><td class="num">66</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">405</td><td class="name">Stępocin</td><td class="num">42</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">406</td><td class="name">[uncertain:
+    Szabłki] parts of OO. Franciszkan:</td><td class="num">7</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">407</td><td class="name">Topola demesne farm</td><td class="num"></td><td
+    class="num"></td><td class="num">14</td><td class="num"></td></tr><tr><td class="no">408</td><td class="name">Wójt&#x27;s
+    holding [uncertain: Włoczewskie]</td><td class="num"></td><td class="num"></td><td class="num">17</td><td
+    class="num">15</td></tr></tbody>
+
+    </table></div>'
+- page: 3
+  en: '409,[uncertain: Usięcino],28,,,
+
+    410,Winna Gora,136,15,,
+
+    411,Brzezie,49,,,
+
+    412,Pięczkowo,157,15,,
+
+    413,[uncertain: Witerzi],94,15,,
+
+    414,Krzykosy,84,,,
+
+    415,Rogusko,35,,,
+
+    416,Solec,73,15,,
+
+    417,Włostowo,,,38,15
+
+    418,Wójt''s holding Zaiezierze,35,,,
+
+    419,Grabowo,,,87,15
+
+    420,Krzywagora,,,49,
+
+    421,Kleszczewo,52,15,,
+
+    422,Town Pyzdry,292,,,
+
+    423,Ciesle,42,,,
+
+    424,Pyzdry castle,38,15,,
+
+    425,Wójt''s holding of Pyzdry,24,15,,
+
+    426,Dłusko,52,15,,
+
+    427,Rataje,84,,,
+
+    428,Sokolniki,87,15,,
+
+    429,"The same place, the wójt''s holding",17,15,,
+
+    430,Nowa Wieś,98,,,
+
+    431,"The same place, the wybraniec''s holding",3,15,,
+
+    432,Lisewo,101,15,,
+
+    433,Borzykowo,38,15,,
+
+    434,Pławce,,,49,
+
+    435,Pietrzykow,91,,,
+
+    436,Rąmbczynek,35,,,
+
+    437,Adamierz with Pustk: [uncertain: Młynem],28,,,
+
+    438,Town Sroda,376,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">409</td><td class="name">[uncertain: Usięcino]</td><td class="num">28</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">410</td><td class="name">Winna
+    Gora</td><td class="num">136</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">411</td><td class="name">Brzezie</td><td class="num">49</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">412</td><td class="name">Pięczkowo</td><td class="num">157</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">413</td><td class="name">[uncertain:
+    Witerzi]</td><td class="num">94</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">414</td><td class="name">Krzykosy</td><td class="num">84</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">415</td><td class="name">Rogusko</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">416</td><td class="name">Solec</td><td
+    class="num">73</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">417</td><td
+    class="name">Włostowo</td><td class="num"></td><td class="num"></td><td class="num">38</td><td class="num">15</td></tr><tr><td
+    class="no">418</td><td class="name">Wójt&#x27;s holding Zaiezierze</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">419</td><td class="name">Grabowo</td><td
+    class="num"></td><td class="num"></td><td class="num">87</td><td class="num">15</td></tr><tr><td class="no">420</td><td
+    class="name">Krzywagora</td><td class="num"></td><td class="num"></td><td class="num">49</td><td class="num"></td></tr><tr><td
+    class="no">421</td><td class="name">Kleszczewo</td><td class="num">52</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">422</td><td class="name">Town Pyzdry</td><td
+    class="num">292</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">423</td><td
+    class="name">Ciesle</td><td class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">424</td><td class="name">Pyzdry castle</td><td class="num">38</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">425</td><td class="name">Wójt&#x27;s
+    holding of Pyzdry</td><td class="num">24</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">426</td><td class="name">Dłusko</td><td class="num">52</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">427</td><td class="name">Rataje</td><td class="num">84</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">428</td><td class="name">Sokolniki</td><td
+    class="num">87</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">429</td><td
+    class="name">The same place, the wójt&#x27;s holding</td><td class="num">17</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">430</td><td class="name">Nowa Wieś</td><td
+    class="num">98</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">431</td><td
+    class="name">The same place, the wybraniec&#x27;s holding</td><td class="num">3</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">432</td><td class="name">Lisewo</td><td
+    class="num">101</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">433</td><td class="name">Borzykowo</td><td class="num">38</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">434</td><td class="name">Pławce</td><td
+    class="num"></td><td class="num"></td><td class="num">49</td><td class="num"></td></tr><tr><td class="no">435</td><td
+    class="name">Pietrzykow</td><td class="num">91</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">436</td><td class="name">Rąmbczynek</td><td class="num">35</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">437</td><td class="name">Adamierz with
+    Pustk: [uncertain: Młynem]</td><td class="num">28</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">438</td><td class="name">Town Sroda</td><td class="num">376</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 4
+  en: '439,Murzynow with the demesne farm,80,15,,
+
+    440,Sabaszczewo,17,15,,
+
+    441,Wójt''s holding Sabaszczewskie,10,15,,
+
+    442,[uncertain: Zdzienica],52,15,,
+
+    443,Wójt''s holding [uncertain: Zdziennickie],31,15,,
+
+    444,Hereditary lands,42,,,
+
+    445,Lease Trzebiesławsk:,,,49,
+
+    446,Uleyno,24,15,,
+
+    447,Village [uncertain: Rumieiowice],21,,,
+
+    448,Zbrudzewo,87,15,,
+
+    ,Kalisz district,,,,
+
+    1,Village Bachorzewo,91,,,
+
+    2,Village Bronow,91,,,
+
+    3,Będzieszyn,45,15,,
+
+    4,Bogucice,28,,,
+
+    5,Boczkow,56,,,
+
+    6,Bogwidze,,,66,15
+
+    7,Bieganin,147,,,
+
+    8,Bilczew,,,35,
+
+    9,Brzezie,84,,,
+
+    10,Kotowiecko,77,,,
+
+    11,Pawłowo wielki,35,,,
+
+    12,Pawłowek mały,42,,,
+
+    13,Będziechow,35,,,
+
+    14,Borucin,21,,,
+
+    15,Dobiesław,45,15,,
+
+    16,Broniszewice,147,,,
+
+    17,Polskie,56,,,
+
+    18,Bieniewo,,,70,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">439</td><td class="name">Murzynow with the demesne farm</td><td class="num">80</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">440</td><td class="name">Sabaszczewo</td><td
+    class="num">17</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">441</td><td
+    class="name">Wójt&#x27;s holding Sabaszczewskie</td><td class="num">10</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">442</td><td class="name">[uncertain:
+    Zdzienica]</td><td class="num">52</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">443</td><td class="name">Wójt&#x27;s holding [uncertain: Zdziennickie]</td><td class="num">31</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">444</td><td class="name">Hereditary
+    lands</td><td class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">445</td><td class="name">Lease Trzebiesławsk:</td><td class="num"></td><td class="num"></td><td
+    class="num">49</td><td class="num"></td></tr><tr><td class="no">446</td><td class="name">Uleyno</td><td
+    class="num">24</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">447</td><td
+    class="name">Village [uncertain: Rumieiowice]</td><td class="num">21</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">448</td><td class="name">Zbrudzewo</td><td
+    class="num">87</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr class="sum"><td
+    class="no"></td><td class="name">Kalisz district</td><td class="num"></td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">1</td><td class="name">Village Bachorzewo</td><td
+    class="num">91</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">2</td><td
+    class="name">Village Bronow</td><td class="num">91</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">3</td><td class="name">Będzieszyn</td><td class="num">45</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">4</td><td class="name">Bogucice</td><td
+    class="num">28</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">5</td><td
+    class="name">Boczkow</td><td class="num">56</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">6</td><td class="name">Bogwidze</td><td class="num"></td><td class="num"></td><td class="num">66</td><td
+    class="num">15</td></tr><tr><td class="no">7</td><td class="name">Bieganin</td><td class="num">147</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">8</td><td class="name">Bilczew</td><td
+    class="num"></td><td class="num"></td><td class="num">35</td><td class="num"></td></tr><tr><td class="no">9</td><td
+    class="name">Brzezie</td><td class="num">84</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">10</td><td class="name">Kotowiecko</td><td class="num">77</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">11</td><td class="name">Pawłowo wielki</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">12</td><td
+    class="name">Pawłowek mały</td><td class="num">42</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">13</td><td class="name">Będziechow</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">14</td><td class="name">Borucin</td><td
+    class="num">21</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">15</td><td
+    class="name">Dobiesław</td><td class="num">45</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">16</td><td class="name">Broniszewice</td><td class="num">147</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">17</td><td class="name">Polskie</td><td
+    class="num">56</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">18</td><td
+    class="name">Bieniewo</td><td class="num"></td><td class="num"></td><td class="num">70</td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 5
+  en: '19,Brudzew,70,,,
+
+    20,Bolimow,31,15,,
+
+    21,Strzałkow,94,15,,
+
+    22,Czermin,101,15,,
+
+    23,Czekanow,129,15,,
+
+    24,Czarnuszka,,,45,15
+
+    25,Czachory part of Anto: Kiedrz:,45,15,,
+
+    26,From the part at Gołuchowie Kiedrz:,7,,,
+
+    27,From the part of Zakrzewskiego,21,,,
+
+    28,Ciechel,56,,,
+
+    29,Choyno,49,,,
+
+    30,Głowczyn,63,,,
+
+    31,Bronczyn,84,,,
+
+    32,Chwaliszew,140,,,
+
+    33,Chudki,28,,,
+
+    34,Krowica wielka and [uncertain: Pustki],49,,,
+
+    35,Modła,35,,,
+
+    36,[uncertain: Tursko],21,,,
+
+    37,Chlewo,28,,,
+
+    38,[uncertain: Fałęcice],56,,,
+
+    39,Small town Chocz,,,224,
+
+    40,Small town [uncertain: Chorab].,44,,,
+
+    41,Dobrzyca,,,133,15
+
+    42,"The same place, of the parish priest",35,,,
+
+    43,Izbica Hollander settlement,84,,,
+
+    44,Bukowa Hollander settlement,14,,,
+
+    45,Dzierzbino,80,15,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">19</td><td class="name">Brudzew</td><td class="num">70</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">20</td><td class="name">Bolimow</td><td
+    class="num">31</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">21</td><td
+    class="name">Strzałkow</td><td class="num">94</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">22</td><td class="name">Czermin</td><td class="num">101</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">23</td><td class="name">Czekanow</td><td
+    class="num">129</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">24</td><td class="name">Czarnuszka</td><td class="num"></td><td class="num"></td><td class="num">45</td><td
+    class="num">15</td></tr><tr><td class="no">25</td><td class="name">Czachory part of Anto: Kiedrz:</td><td
+    class="num">45</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">26</td><td
+    class="name">From the part at Gołuchowie Kiedrz:</td><td class="num">7</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">27</td><td class="name">From the part
+    of Zakrzewskiego</td><td class="num">21</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">28</td><td class="name">Ciechel</td><td class="num">56</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">29</td><td class="name">Choyno</td><td class="num">49</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">30</td><td class="name">Głowczyn</td><td
+    class="num">63</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">31</td><td
+    class="name">Bronczyn</td><td class="num">84</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">32</td><td class="name">Chwaliszew</td><td class="num">140</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">33</td><td class="name">Chudki</td><td
+    class="num">28</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">34</td><td
+    class="name">Krowica wielka and [uncertain: Pustki]</td><td class="num">49</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">35</td><td class="name">Modła</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">36</td><td
+    class="name">[uncertain: Tursko]</td><td class="num">21</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">37</td><td class="name">Chlewo</td><td class="num">28</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">38</td><td class="name">[uncertain:
+    Fałęcice]</td><td class="num">56</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">39</td><td class="name">Small town Chocz</td><td class="num"></td><td class="num"></td><td
+    class="num">224</td><td class="num"></td></tr><tr><td class="no">40</td><td class="name">Small town
+    [uncertain: Chorab].</td><td class="num">44</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">41</td><td class="name">Dobrzyca</td><td class="num"></td><td class="num"></td><td class="num">133</td><td
+    class="num">15</td></tr><tr><td class="no">42</td><td class="name">The same place, of the parish priest</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">43</td><td
+    class="name">Izbica Hollander settlement</td><td class="num">84</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">44</td><td class="name">Bukowa Hollander settlement</td><td
+    class="num">14</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">45</td><td
+    class="name">Dzierzbino</td><td class="num">80</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 6
+  en: '46,Dęmbsko,101,15,,
+
+    47,Dąmbrowa,,,42,
+
+    48,Droszewo,101,15,,
+
+    49,Small town Dobrzyca,,,164,
+
+    50,Gorzuchy from the part of Sieroszews:,14,,,
+
+    51,From the part of Jerzmanowskiego,10,15,,
+
+    52,From the part of Mi: Jerzmanowskieg:,14,,,
+
+    53,Gołuchow,213,15,,
+
+    54,"The same place, the subjects",7,,,
+
+    55,Jedlec,161,,,
+
+    56,"The same place, the subjects",14,,,
+
+    57,Macew demesne farm,38,15,,
+
+    58,Czerminek,87,15,,
+
+    59,Tursko,255,15,,
+
+    60,"The same place, the subjects",17,15,,
+
+    61,Kaiewo,136,15,,
+
+    62,Ciesle,14,,,
+
+    63,Małe Gałązki,49,,,
+
+    64,Głuski from the part of Pawłowskiego,,,28,
+
+    65,From the part of [uncertain: Brzeskiego],,,7,
+
+    66,Grab,105,,,
+
+    67,[uncertain: Gazewo],56,,,
+
+    68,Gutow part of Przespolews:,45,15,,
+
+    69,From the part of Malczewskiego,42,,,
+
+    70,From the part of [uncertain: Kożuchow],10,15,,
+
+    71,Gać [uncertain: Moskowia],45,15,,
+
+    72,Gora,59,15,,
+
+    73,Gizyce,56,,,
+
+    74,"The same place, the subjects",7,,,
+
+    75,Mączniki,91,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">46</td><td class="name">Dęmbsko</td><td class="num">101</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">47</td><td class="name">Dąmbrowa</td><td
+    class="num"></td><td class="num"></td><td class="num">42</td><td class="num"></td></tr><tr><td class="no">48</td><td
+    class="name">Droszewo</td><td class="num">101</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">49</td><td class="name">Small town Dobrzyca</td><td class="num"></td><td
+    class="num"></td><td class="num">164</td><td class="num"></td></tr><tr><td class="no">50</td><td class="name">Gorzuchy
+    from the part of Sieroszews:</td><td class="num">14</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">51</td><td class="name">From the part of Jerzmanowskiego</td><td
+    class="num">10</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">52</td><td
+    class="name">From the part of Mi: Jerzmanowskieg:</td><td class="num">14</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">53</td><td class="name">Gołuchow</td><td
+    class="num">213</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">54</td><td class="name">The same place, the subjects</td><td class="num">7</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">55</td><td class="name">Jedlec</td><td
+    class="num">161</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">56</td><td
+    class="name">The same place, the subjects</td><td class="num">14</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">57</td><td class="name">Macew demesne farm</td><td class="num">38</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">58</td><td class="name">Czerminek</td><td
+    class="num">87</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">59</td><td
+    class="name">Tursko</td><td class="num">255</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">60</td><td class="name">The same place, the subjects</td><td class="num">17</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">61</td><td class="name">Kaiewo</td><td
+    class="num">136</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">62</td><td class="name">Ciesle</td><td class="num">14</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">63</td><td class="name">Małe Gałązki</td><td class="num">49</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">64</td><td class="name">Głuski
+    from the part of Pawłowskiego</td><td class="num"></td><td class="num"></td><td class="num">28</td><td
+    class="num"></td></tr><tr><td class="no">65</td><td class="name">From the part of [uncertain: Brzeskiego]</td><td
+    class="num"></td><td class="num"></td><td class="num">7</td><td class="num"></td></tr><tr><td class="no">66</td><td
+    class="name">Grab</td><td class="num">105</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">67</td><td class="name">[uncertain: Gazewo]</td><td class="num">56</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">68</td><td class="name">Gutow part of
+    Przespolews:</td><td class="num">45</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">69</td><td class="name">From the part of Malczewskiego</td><td class="num">42</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">70</td><td class="name">From the part
+    of [uncertain: Kożuchow]</td><td class="num">10</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">71</td><td class="name">Gać [uncertain: Moskowia]</td><td
+    class="num">45</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">72</td><td
+    class="name">Gora</td><td class="num">59</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">73</td><td class="name">Gizyce</td><td class="num">56</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">74</td><td class="name">The same place, the subjects</td><td
+    class="num">7</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">75</td><td
+    class="name">Mączniki</td><td class="num">91</td><td class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 7
+  en: '76,[uncertain: Zamęzcie],31,15,,
+
+    77,Niwiska,35,,,
+
+    78,Grudzielec,154,,,
+
+    79,Godziątkow,35,,,
+
+    80,[uncertain: Janiszow],91,,,
+
+    81,Gać Pawęzowa,87,15,,
+
+    82,Grodzisko,,,94,15
+
+    83,"The same place, the subjects",35,,,
+
+    84,Gostyczyna,66,15,,
+
+    85,"The same place, subjects of the parish priest",7,,,
+
+    86,Gałązki wielkie,73,15,,
+
+    87,Gurzno,84,,,
+
+    88,Jastrzębniki,122,15,,
+
+    89,[uncertain: Pokrzykow],21,,,
+
+    90,Szadek,42,,,
+
+    91,Pamięcin,,,14,
+
+    92,Part of the village of Pruszkowa,17,15,,
+
+    93,Small town Jwanowice,142,,,
+
+    94,"The same place, subjects of the parish priest",24,,,
+
+    95,Jankow,122,15,,
+
+    96,Brudzowek,52,15,,
+
+    97,Kuznia,35,,,
+
+    98,Piła,31,15,,
+
+    99,Kwileń,38,15,,
+
+    100,Part of [uncertain: Niniewa],38,15,,
+
+    101,Olesiec,31,15,,
+
+    102,Kurowo,42,,,
+
+    103,Gniazdow,45,15,,
+
+    104,Kakawa,84,,,
+
+    105,Karsy,45,15,,
+
+    106,Wierzchosław,42,,,
+
+    107,Bobry,56,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">76</td><td class="name">[uncertain: Zamęzcie]</td><td class="num">31</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">77</td><td class="name">Niwiska</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">78</td><td
+    class="name">Grudzielec</td><td class="num">154</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">79</td><td class="name">Godziątkow</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">80</td><td class="name">[uncertain:
+    Janiszow]</td><td class="num">91</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">81</td><td class="name">Gać Pawęzowa</td><td class="num">87</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">82</td><td class="name">Grodzisko</td><td
+    class="num"></td><td class="num"></td><td class="num">94</td><td class="num">15</td></tr><tr><td class="no">83</td><td
+    class="name">The same place, the subjects</td><td class="num">35</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">84</td><td class="name">Gostyczyna</td><td class="num">66</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">85</td><td class="name">The
+    same place, subjects of the parish priest</td><td class="num">7</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">86</td><td class="name">Gałązki wielkie</td><td class="num">73</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">87</td><td class="name">Gurzno</td><td
+    class="num">84</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">88</td><td
+    class="name">Jastrzębniki</td><td class="num">122</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">89</td><td class="name">[uncertain: Pokrzykow]</td><td class="num">21</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">90</td><td class="name">Szadek</td><td
+    class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">91</td><td
+    class="name">Pamięcin</td><td class="num"></td><td class="num"></td><td class="num">14</td><td class="num"></td></tr><tr><td
+    class="no">92</td><td class="name">Part of the village of Pruszkowa</td><td class="num">17</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">93</td><td class="name">Small
+    town Jwanowice</td><td class="num">142</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">94</td><td class="name">The same place, subjects of the parish priest</td><td class="num">24</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">95</td><td class="name">Jankow</td><td
+    class="num">122</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">96</td><td class="name">Brudzowek</td><td class="num">52</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">97</td><td class="name">Kuznia</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">98</td><td
+    class="name">Piła</td><td class="num">31</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">99</td><td class="name">Kwileń</td><td class="num">38</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">100</td><td class="name">Part of [uncertain: Niniewa]</td><td
+    class="num">38</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">101</td><td
+    class="name">Olesiec</td><td class="num">31</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">102</td><td class="name">Kurowo</td><td class="num">42</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">103</td><td class="name">Gniazdow</td><td class="num">45</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">104</td><td class="name">Kakawa</td><td
+    class="num">84</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">105</td><td
+    class="name">Karsy</td><td class="num">45</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">106</td><td class="name">Wierzchosław</td><td class="num">42</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">107</td><td class="name">Bobry</td><td
+    class="num">56</td><td class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 8
+  en: '58,[uncertain: Gardowo],52,15,,
+
+    59,Grochowy,57,15,,
+
+    60,Janiszewo,75,,,
+
+    61,Podłużyce,15,,,
+
+    62,Ostrow,7,15,,
+
+    63,Kuznica,5,,,
+
+    64,Kordownia,2,15,,
+
+    65,Jaroszewice Małe from the part of Krzyz:,7,15,,
+
+    66,From the part of Mr Biernackiego,10,,,
+
+    67,From the part of Mr Bardzińskieg:,5,,,
+
+    68,Jabłkowo,37,15,,
+
+    69,Krągolice,12,15,,
+
+    70,Karsy,27,15,,
+
+    71,Zdzary,32,15,,
+
+    72,Kazmirz,,,32,15
+
+    73,Głowy,,,22,15
+
+    74,Kuznica with Dąmbrową and [uncertain: Kieliską],,,22,15
+
+    75,[uncertain: Sączky],,,2,15
+
+    76,Lekaszyn,,,45,
+
+    77,Kozubow,,,25,
+
+    78,Krasnica,,,35,
+
+    79,Kęszewy with Ciołkiem and [uncertain: Dzią],32,15,,
+
+    80,Kwiatkow,52,15,,
+
+    81,Kurowko from the part of Gałeckiego,5,,,
+
+    82,From the part of Karo: Dobrzyckiego,10,,,
+
+    83,Kuchary Borowe,50,,,
+
+    84,Kiełczewo major,57,15,,
+
+    85,Kozia gora,15,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">58</td><td class="name">[uncertain: Gardowo]</td><td class="num">52</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">59</td><td class="name">Grochowy</td><td
+    class="num">57</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">60</td><td
+    class="name">Janiszewo</td><td class="num">75</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">61</td><td class="name">Podłużyce</td><td class="num">15</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">62</td><td class="name">Ostrow</td><td class="num">7</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">63</td><td class="name">Kuznica</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">64</td><td
+    class="name">Kordownia</td><td class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">65</td><td class="name">Jaroszewice Małe from the part of Krzyz:</td><td class="num">7</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">66</td><td class="name">From
+    the part of Mr Biernackiego</td><td class="num">10</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">67</td><td class="name">From the part of Mr Bardzińskieg:</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">68</td><td
+    class="name">Jabłkowo</td><td class="num">37</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">69</td><td class="name">Krągolice</td><td class="num">12</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">70</td><td class="name">Karsy</td><td
+    class="num">27</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">71</td><td
+    class="name">Zdzary</td><td class="num">32</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">72</td><td class="name">Kazmirz</td><td class="num"></td><td class="num"></td><td class="num">32</td><td
+    class="num">15</td></tr><tr><td class="no">73</td><td class="name">Głowy</td><td class="num"></td><td
+    class="num"></td><td class="num">22</td><td class="num">15</td></tr><tr><td class="no">74</td><td
+    class="name">Kuznica with Dąmbrową and [uncertain: Kieliską]</td><td class="num"></td><td class="num"></td><td
+    class="num">22</td><td class="num">15</td></tr><tr><td class="no">75</td><td class="name">[uncertain:
+    Sączky]</td><td class="num"></td><td class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td
+    class="no">76</td><td class="name">Lekaszyn</td><td class="num"></td><td class="num"></td><td class="num">45</td><td
+    class="num"></td></tr><tr><td class="no">77</td><td class="name">Kozubow</td><td class="num"></td><td
+    class="num"></td><td class="num">25</td><td class="num"></td></tr><tr><td class="no">78</td><td class="name">Krasnica</td><td
+    class="num"></td><td class="num"></td><td class="num">35</td><td class="num"></td></tr><tr><td class="no">79</td><td
+    class="name">Kęszewy with Ciołkiem and [uncertain: Dzią]</td><td class="num">32</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">80</td><td class="name">Kwiatkow</td><td
+    class="num">52</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">81</td><td
+    class="name">Kurowko from the part of Gałeckiego</td><td class="num">5</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">82</td><td class="name">From the part
+    of Karo: Dobrzyckiego</td><td class="num">10</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">83</td><td class="name">Kuchary Borowe</td><td class="num">50</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">84</td><td class="name">Kiełczewo major</td><td
+    class="num">57</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">85</td><td
+    class="name">Kozia gora</td><td class="num">15</td><td class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 9
+  en: '86,Kuchary,40,,,
+
+    87,Kiełczewo minus,72,15,,
+
+    88,Kawnice,52,15,,
+
+    89,Demesne farm Kosocha and Ruda,10,,,
+
+    90,Isolated farm Bandura,2,15,,
+
+    91,Krzymow,30,,,
+
+    92,Borow,5,,,
+
+    93,Drążno,25,,,
+
+    94,Kurowo from the part of Wa: Wardęsk:,5,,,
+
+    95,From the part of Woy: Wardęskiego,7,15,,
+
+    96,From the part of [uncertain: Krzeczkowskiego],5,,,
+
+    97,From the part of Sta: Jaroszewskiego,5,,,
+
+    98,From the part of Kurowskiego,5,,,
+
+    99,Lisiec minor from the part of Toma: Lisieckiego,27,15,,
+
+    100,From the part of Jana Lisieckiego,20,,,
+
+    101,Leszcze,,,27,15
+
+    102,Leyszcze,,,30,
+
+    103,Daniszew,,,37,15
+
+    104,Laskowice,15,,,
+
+    105,Lychynek,22,15,,
+
+    106,Łukom,,,97,15
+
+    107,Lumow,,,40,
+
+    108,Myszakow,,,40,
+
+    109,Hollander settlement Lusnie,35,,,
+
+    110,Łęka,20,,,
+
+    111,Mostki,65,,,
+
+    112,Mąkolino,30,,,
+
+    113,Przystronie,25,,,
+
+    114,Smolniki and Siedliska,35,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">86</td><td class="name">Kuchary</td><td class="num">40</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">87</td><td class="name">Kiełczewo minus</td><td
+    class="num">72</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">88</td><td
+    class="name">Kawnice</td><td class="num">52</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">89</td><td class="name">Demesne farm Kosocha and Ruda</td><td class="num">10</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">90</td><td class="name">Isolated farm
+    Bandura</td><td class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">91</td><td class="name">Krzymow</td><td class="num">30</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">92</td><td class="name">Borow</td><td class="num">5</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">93</td><td class="name">Drążno</td><td
+    class="num">25</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">94</td><td
+    class="name">Kurowo from the part of Wa: Wardęsk:</td><td class="num">5</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">95</td><td class="name">From the part
+    of Woy: Wardęskiego</td><td class="num">7</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">96</td><td class="name">From the part of [uncertain: Krzeczkowskiego]</td><td class="num">5</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">97</td><td class="name">From
+    the part of Sta: Jaroszewskiego</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">98</td><td class="name">From the part of Kurowskiego</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">99</td><td
+    class="name">Lisiec minor from the part of Toma: Lisieckiego</td><td class="num">27</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">100</td><td class="name">From the part
+    of Jana Lisieckiego</td><td class="num">20</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">101</td><td class="name">Leszcze</td><td class="num"></td><td class="num"></td><td class="num">27</td><td
+    class="num">15</td></tr><tr><td class="no">102</td><td class="name">Leyszcze</td><td class="num"></td><td
+    class="num"></td><td class="num">30</td><td class="num"></td></tr><tr><td class="no">103</td><td class="name">Daniszew</td><td
+    class="num"></td><td class="num"></td><td class="num">37</td><td class="num">15</td></tr><tr><td class="no">104</td><td
+    class="name">Laskowice</td><td class="num">15</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">105</td><td class="name">Lychynek</td><td class="num">22</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">106</td><td class="name">Łukom</td><td
+    class="num"></td><td class="num"></td><td class="num">97</td><td class="num">15</td></tr><tr><td class="no">107</td><td
+    class="name">Lumow</td><td class="num"></td><td class="num"></td><td class="num">40</td><td class="num"></td></tr><tr><td
+    class="no">108</td><td class="name">Myszakow</td><td class="num"></td><td class="num"></td><td class="num">40</td><td
+    class="num"></td></tr><tr><td class="no">109</td><td class="name">Hollander settlement Lusnie</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">110</td><td
+    class="name">Łęka</td><td class="num">20</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">111</td><td class="name">Mostki</td><td class="num">65</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">112</td><td class="name">Mąkolino</td><td class="num">30</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">113</td><td class="name">Przystronie</td><td
+    class="num">25</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">114</td><td
+    class="name">Smolniki and Siedliska</td><td class="num">35</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 10
+  en: '115,Modlibogowice,50,,,
+
+    116,Mysleborz,70,,,
+
+    117,"The same place, subjects of the parish priest",10,,,
+
+    118,Nowa Wieś,35,,,
+
+    119,Ochle majus,17,15,,
+
+    120,Ochle minus,15,,,
+
+    121,Dzierzna,5,,,
+
+    122,Osiecza,50,,,
+
+    123,Mill Nowe,5,,,
+
+    124,Barłogi,35,,,
+
+    125,Zakrzewek,20,,,
+
+    126,Ozorzyn,27,15,,
+
+    127,Osiek minor,80,,,
+
+    128,Police [uncertain: wsrzednie],5,,,
+
+    129,Tarnowa,20,,,
+
+    130,Pąchowo,27,15,,
+
+    131,[uncertain: Pętowo],25,,,
+
+    132,Powiercie,47,15,,
+
+    133,Leznica,25,,,
+
+    134,Zawadki,17,15,,
+
+    135,Podbiele,,,17,15
+
+    136,Paprotnica,37,15,,
+
+    137,Rzgow,,,95,
+
+    138,[uncertain: Modłabiena],,,47,15
+
+    139,Dąmbrowa,,,5,
+
+    140,Babie,,,12,15
+
+    141,[uncertain: Zaskoze],,,17,15
+
+    142,Isolated farm Grądy with the mill,,,7,15
+
+    143,Small town Rychwał,,,102,
+
+    144,Starawies,55,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">115</td><td class="name">Modlibogowice</td><td class="num">50</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">116</td><td class="name">Mysleborz</td><td
+    class="num">70</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">117</td><td
+    class="name">The same place, subjects of the parish priest</td><td class="num">10</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">118</td><td class="name">Nowa Wieś</td><td
+    class="num">35</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">119</td><td
+    class="name">Ochle majus</td><td class="num">17</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">120</td><td class="name">Ochle minus</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">121</td><td class="name">Dzierzna</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">122</td><td
+    class="name">Osiecza</td><td class="num">50</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">123</td><td class="name">Mill Nowe</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">124</td><td class="name">Barłogi</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">125</td><td class="name">Zakrzewek</td><td
+    class="num">20</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">126</td><td
+    class="name">Ozorzyn</td><td class="num">27</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">127</td><td class="name">Osiek minor</td><td class="num">80</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">128</td><td class="name">Police [uncertain:
+    wsrzednie]</td><td class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">129</td><td class="name">Tarnowa</td><td class="num">20</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">130</td><td class="name">Pąchowo</td><td class="num">27</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">131</td><td class="name">[uncertain:
+    Pętowo]</td><td class="num">25</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">132</td><td class="name">Powiercie</td><td class="num">47</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">133</td><td class="name">Leznica</td><td
+    class="num">25</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">134</td><td
+    class="name">Zawadki</td><td class="num">17</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">135</td><td class="name">Podbiele</td><td class="num"></td><td class="num"></td><td class="num">17</td><td
+    class="num">15</td></tr><tr><td class="no">136</td><td class="name">Paprotnica</td><td class="num">37</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">137</td><td class="name">Rzgow</td><td
+    class="num"></td><td class="num"></td><td class="num">95</td><td class="num"></td></tr><tr><td class="no">138</td><td
+    class="name">[uncertain: Modłabiena]</td><td class="num"></td><td class="num"></td><td class="num">47</td><td
+    class="num">15</td></tr><tr><td class="no">139</td><td class="name">Dąmbrowa</td><td class="num"></td><td
+    class="num"></td><td class="num">5</td><td class="num"></td></tr><tr><td class="no">140</td><td class="name">Babie</td><td
+    class="num"></td><td class="num"></td><td class="num">12</td><td class="num">15</td></tr><tr><td class="no">141</td><td
+    class="name">[uncertain: Zaskoze]</td><td class="num"></td><td class="num"></td><td class="num">17</td><td
+    class="num">15</td></tr><tr><td class="no">142</td><td class="name">Isolated farm Grądy with the mill</td><td
+    class="num"></td><td class="num"></td><td class="num">7</td><td class="num">15</td></tr><tr><td class="no">143</td><td
+    class="name">Small town Rychwał</td><td class="num"></td><td class="num"></td><td class="num">102</td><td
+    class="num"></td></tr><tr><td class="no">144</td><td class="name">Starawies</td><td class="num">55</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 11
+  en: '145,Mill [uncertain: Kuczimia],,,2,15
+
+    146,Wola Rychwalska,,,15,
+
+    147,Jaroszewice,30,,,
+
+    148,[uncertain: Bikorzew],,,17,15
+
+    149,Dąmbroszyn,27,15,,
+
+    150,Ruszkowo,50,,,
+
+    151,Police mostowe,10,,,
+
+    152,Radolina,65,,,
+
+    153,[uncertain: Rozięcice] from the part of Bernar: Bąg:,,,12,15
+
+    154,From the part of Tomasza Bąg:,,,12,15
+
+    155,From the part of Woy: Krasnickieg:,12,15,,
+
+    156,From the part of Wilkostowskich,,,12,15
+
+    157,Łuczywno from the part of Ber: Bąg:,,,10,
+
+    158,Łuczywno from the part of J: Bąg:,,,2,15
+
+    159,From the part of Woy: Krasnickieg:,5,,,
+
+    160,From the part of Wilkostowskich,,,5,
+
+    161,Smolniki from the part of Toma: Bąg:,,,2,15
+
+    162,From the part of Krasnickiego,2,15,,
+
+    163,From the part of Wilkostowskich,,,2,15
+
+    164,[uncertain: Pycewo],42,15,,
+
+    165,Sługocinek,57,15,,
+
+    166,Sokołowo major,37,15,,
+
+    167,Siąszyce,67,15,,
+
+    168,Szetlewo from the part of Jaroszews:,5,,,
+
+    169,From the part of Jana Jaroszews:,5,,,
+
+    170,From the part of Folwarskiego,5,,,
+
+    171,From the part of Mr Zakrzewskiey,27,15,,
+
+    172,Szetlewek,55,,,
+
+    173,[uncertain: Szawłowice],10,,,
+
+    174,Sławsk,105,,,
+
+    175,Hollander settlement Sławskie,30,,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">145</td><td class="name">Mill [uncertain: Kuczimia]</td><td class="num"></td><td
+    class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td class="no">146</td><td
+    class="name">Wola Rychwalska</td><td class="num"></td><td class="num"></td><td class="num">15</td><td
+    class="num"></td></tr><tr><td class="no">147</td><td class="name">Jaroszewice</td><td class="num">30</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">148</td><td class="name">[uncertain:
+    Bikorzew]</td><td class="num"></td><td class="num"></td><td class="num">17</td><td class="num">15</td></tr><tr><td
+    class="no">149</td><td class="name">Dąmbroszyn</td><td class="num">27</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">150</td><td class="name">Ruszkowo</td><td
+    class="num">50</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">151</td><td
+    class="name">Police mostowe</td><td class="num">10</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">152</td><td class="name">Radolina</td><td class="num">65</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">153</td><td class="name">[uncertain:
+    Rozięcice] from the part of Bernar: Bąg:</td><td class="num"></td><td class="num"></td><td class="num">12</td><td
+    class="num">15</td></tr><tr><td class="no">154</td><td class="name">From the part of Tomasza Bąg:</td><td
+    class="num"></td><td class="num"></td><td class="num">12</td><td class="num">15</td></tr><tr><td class="no">155</td><td
+    class="name">From the part of Woy: Krasnickieg:</td><td class="num">12</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">156</td><td class="name">From the part
+    of Wilkostowskich</td><td class="num"></td><td class="num"></td><td class="num">12</td><td class="num">15</td></tr><tr><td
+    class="no">157</td><td class="name">Łuczywno from the part of Ber: Bąg:</td><td class="num"></td><td
+    class="num"></td><td class="num">10</td><td class="num"></td></tr><tr><td class="no">158</td><td class="name">Łuczywno
+    from the part of J: Bąg:</td><td class="num"></td><td class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td
+    class="no">159</td><td class="name">From the part of Woy: Krasnickieg:</td><td class="num">5</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">160</td><td class="name">From
+    the part of Wilkostowskich</td><td class="num"></td><td class="num"></td><td class="num">5</td><td
+    class="num"></td></tr><tr><td class="no">161</td><td class="name">Smolniki from the part of Toma:
+    Bąg:</td><td class="num"></td><td class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td
+    class="no">162</td><td class="name">From the part of Krasnickiego</td><td class="num">2</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">163</td><td class="name">From the part
+    of Wilkostowskich</td><td class="num"></td><td class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td
+    class="no">164</td><td class="name">[uncertain: Pycewo]</td><td class="num">42</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">165</td><td class="name">Sługocinek</td><td
+    class="num">57</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">166</td><td
+    class="name">Sokołowo major</td><td class="num">37</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">167</td><td class="name">Siąszyce</td><td class="num">67</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">168</td><td class="name">Szetlewo
+    from the part of Jaroszews:</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">169</td><td class="name">From the part of Jana Jaroszews:</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">170</td><td
+    class="name">From the part of Folwarskiego</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">171</td><td class="name">From the part of Mr Zakrzewskiey</td><td
+    class="num">27</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">172</td><td
+    class="name">Szetlewek</td><td class="num">55</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">173</td><td class="name">[uncertain: Szawłowice]</td><td class="num">10</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">174</td><td class="name">Sławsk</td><td
+    class="num">105</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">175</td><td
+    class="name">Hollander settlement Sławskie</td><td class="num">30</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr></tbody>
+
+    </table></div>'
+- page: 12
+  en: '176,Demesne farm Kowalewek,2,15,,
+
+    177,Demesne farm Ostrow,2,15,,
+
+    178,Trąbczyn,80,,,
+
+    179,"The same place, subjects of the parish priest",20,,,
+
+    180,Łazy,12,15,,
+
+    181,Osiny,17,15,,
+
+    182,Nowawies,12,15,,
+
+    183,Hollander settlement of Trąbczyn,35,,,
+
+    184,Mill Drążki,5,,,
+
+    185,Small town Tuliszkow,94,,,
+
+    186,Zadworna,60,,,
+
+    187,Ogorzelczyn,40,,,
+
+    188,Tarnowa,37,15,,
+
+    189,Krempa,37,15,,
+
+    190,Sarbicko,67,15,,
+
+    191,Trzebuchow Kamionna,40,,,
+
+    192,Small town Władysławow,166,,,
+
+    193,Russocice,75,,,
+
+    194,Międzylesie,15,,,
+
+    195,Polichno,25,,,
+
+    196,Demesne farm Skarbki,5,,,
+
+    197,Tury,10,,,
+
+    198,Małoszyna,10,,,
+
+    199,Wrząca major,52,15,,
+
+    200,"The same place, subjects of the parish priest",,,5,
+
+    201,Wrząca minor,60,,,
+
+    202,Wola Podłęzna,22,15,,
+
+    203,Wierzchociny,45,,,
+
+    204,Węglewo,30,,,
+
+    205,Wysokie,,,52,15
+
+    206,Isolated farm Borki,,,2,15'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">176</td><td class="name">Demesne farm Kowalewek</td><td class="num">2</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">177</td><td class="name">Demesne
+    farm Ostrow</td><td class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">178</td><td class="name">Trąbczyn</td><td class="num">80</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">179</td><td class="name">The same place, subjects of the
+    parish priest</td><td class="num">20</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">180</td><td class="name">Łazy</td><td class="num">12</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">181</td><td class="name">Osiny</td><td class="num">17</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">182</td><td class="name">Nowawies</td><td
+    class="num">12</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">183</td><td
+    class="name">Hollander settlement of Trąbczyn</td><td class="num">35</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">184</td><td class="name">Mill Drążki</td><td
+    class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">185</td><td
+    class="name">Small town Tuliszkow</td><td class="num">94</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">186</td><td class="name">Zadworna</td><td class="num">60</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">187</td><td class="name">Ogorzelczyn</td><td
+    class="num">40</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">188</td><td
+    class="name">Tarnowa</td><td class="num">37</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">189</td><td class="name">Krempa</td><td class="num">37</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">190</td><td class="name">Sarbicko</td><td class="num">67</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">191</td><td class="name">Trzebuchow
+    Kamionna</td><td class="num">40</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">192</td><td class="name">Small town Władysławow</td><td class="num">166</td><td class="num"></td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">193</td><td class="name">Russocice</td><td
+    class="num">75</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">194</td><td
+    class="name">Międzylesie</td><td class="num">15</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">195</td><td class="name">Polichno</td><td class="num">25</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">196</td><td class="name">Demesne
+    farm Skarbki</td><td class="num">5</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">197</td><td class="name">Tury</td><td class="num">10</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">198</td><td class="name">Małoszyna</td><td class="num">10</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">199</td><td class="name">Wrząca
+    major</td><td class="num">52</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">200</td><td class="name">The same place, subjects of the parish priest</td><td class="num"></td><td
+    class="num"></td><td class="num">5</td><td class="num"></td></tr><tr><td class="no">201</td><td class="name">Wrząca
+    minor</td><td class="num">60</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">202</td><td class="name">Wola Podłęzna</td><td class="num">22</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">203</td><td class="name">Wierzchociny</td><td
+    class="num">45</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">204</td><td
+    class="name">Węglewo</td><td class="num">30</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">205</td><td class="name">Wysokie</td><td class="num"></td><td class="num"></td><td class="num">52</td><td
+    class="num">15</td></tr><tr><td class="no">206</td><td class="name">Isolated farm Borki</td><td class="num"></td><td
+    class="num"></td><td class="num">2</td><td class="num">15</td></tr></tbody>
+
+    </table></div>'
+- page: 13
+  en: '207,Podgor,,,20,
+
+    208,Kuznica,,,7,15
+
+    209,[uncertain: Wilany],,,10,
+
+    210,Isolated farm Drążek,,,2,15
+
+    211,Wardęzino minor,30,,,
+
+    212,Wyszyna,92,15,,
+
+    213,Jabłonna,15,,,
+
+    214,Mill Piła and Folusz,22,15,,
+
+    215,Smolnik,47,15,,
+
+    216,Mill Wierzchny,2,15,,
+
+    217,Przyborowie,2,15,,
+
+    218,Kotunia,2,15,,
+
+    219,Piorunow,,,50,
+
+    220,Mill Krupa,2,15,,
+
+    221,Village Kuny with the mill,,,37,15
+
+    222,Kamionka,,,20,
+
+    223,Wola [uncertain: Rozostowa],17,15,,
+
+    224,Demesne farm Galewo,5,,,
+
+    225,[uncertain: Kliwany],35,,,
+
+    226,Bogdałow,27,15,,
+
+    227,Kalinowa,27,15,,
+
+    228,Bratuszyn,32,15,,
+
+    229,Mill Dzierzązna,2,15,,
+
+    230,Wardęzyn major from the part of Węs:,7,15,,
+
+    231,From the part of Szomanskiego,15,,,
+
+    232,Złotkowy,40,,,
+
+    233,Zakrzew,,,37,15
+
+    234,Zabłocie,,,25,
+
+    235,Żychlin,62,15,,
+
+    236,Janowice major,32,15,,
+
+    237,Janowice minor,5,,,
+
+    238,Lipiny,12,15,,'
+  html: '<div class="ledger-wrap"><table class="ledger">
+
+    <thead><tr><th rowspan="3" class="no"></th><th rowspan="3" class="name">Pyzdry district</th><th colspan="2"
+    class="grp">Sum collected.</th><th colspan="2" class="grp">Sum of the order to pay.</th></tr>
+
+    <tr><th colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th><th
+    colspan="1" rowspan="2" class="grp">Złoty.</th><th colspan="1" rowspan="2" class="grp">Gr.</th></tr>
+
+    <tr></tr></thead>
+
+    <tbody><tr><td class="no">207</td><td class="name">Podgor</td><td class="num"></td><td class="num"></td><td
+    class="num">20</td><td class="num"></td></tr><tr><td class="no">208</td><td class="name">Kuznica</td><td
+    class="num"></td><td class="num"></td><td class="num">7</td><td class="num">15</td></tr><tr><td class="no">209</td><td
+    class="name">[uncertain: Wilany]</td><td class="num"></td><td class="num"></td><td class="num">10</td><td
+    class="num"></td></tr><tr><td class="no">210</td><td class="name">Isolated farm Drążek</td><td class="num"></td><td
+    class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td class="no">211</td><td
+    class="name">Wardęzino minor</td><td class="num">30</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">212</td><td class="name">Wyszyna</td><td class="num">92</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">213</td><td class="name">Jabłonna</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">214</td><td
+    class="name">Mill Piła and Folusz</td><td class="num">22</td><td class="num">15</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">215</td><td class="name">Smolnik</td><td class="num">47</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">216</td><td class="name">Mill
+    Wierzchny</td><td class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">217</td><td class="name">Przyborowie</td><td class="num">2</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">218</td><td class="name">Kotunia</td><td
+    class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">219</td><td
+    class="name">Piorunow</td><td class="num"></td><td class="num"></td><td class="num">50</td><td class="num"></td></tr><tr><td
+    class="no">220</td><td class="name">Mill Krupa</td><td class="num">2</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">221</td><td class="name">Village Kuny
+    with the mill</td><td class="num"></td><td class="num"></td><td class="num">37</td><td class="num">15</td></tr><tr><td
+    class="no">222</td><td class="name">Kamionka</td><td class="num"></td><td class="num"></td><td class="num">20</td><td
+    class="num"></td></tr><tr><td class="no">223</td><td class="name">Wola [uncertain: Rozostowa]</td><td
+    class="num">17</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">224</td><td
+    class="name">Demesne farm Galewo</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">225</td><td class="name">[uncertain: Kliwany]</td><td class="num">35</td><td
+    class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td class="no">226</td><td class="name">Bogdałow</td><td
+    class="num">27</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">227</td><td
+    class="name">Kalinowa</td><td class="num">27</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">228</td><td class="name">Bratuszyn</td><td class="num">32</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">229</td><td class="name">Mill Dzierzązna</td><td
+    class="num">2</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">230</td><td
+    class="name">Wardęzyn major from the part of Węs:</td><td class="num">7</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">231</td><td class="name">From the part
+    of Szomanskiego</td><td class="num">15</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
+    class="no">232</td><td class="name">Złotkowy</td><td class="num">40</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">233</td><td class="name">Zakrzew</td><td class="num"></td><td
+    class="num"></td><td class="num">37</td><td class="num">15</td></tr><tr><td class="no">234</td><td
+    class="name">Zabłocie</td><td class="num"></td><td class="num"></td><td class="num">25</td><td class="num"></td></tr><tr><td
+    class="no">235</td><td class="name">Żychlin</td><td class="num">62</td><td class="num">15</td><td
+    class="num"></td><td class="num"></td></tr><tr><td class="no">236</td><td class="name">Janowice major</td><td
+    class="num">32</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">237</td><td
+    class="name">Janowice minor</td><td class="num">5</td><td class="num"></td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no">238</td><td class="name">Lipiny</td><td class="num">12</td><td
+    class="num">15</td><td class="num"></td><td class="num"></td></tr></tbody>
+
+    </table></div>'

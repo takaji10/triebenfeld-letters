@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 89
+  docs: 90
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 39
+  docs: 40
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 43
+  docs: 44
 - id: "schulze"
   kind: "land"
   lang: "de"

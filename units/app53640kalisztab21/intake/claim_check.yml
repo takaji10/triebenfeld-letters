@@ -1,0 +1,28 @@
+# The claim check of the German summary of APP 53/64/0/-/Kalisz Tab.21, made
+# in session on 2026-10-13 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run.
+#
+# Result: 14 statements, all supported. Two rest on more than a line of the
+# table: that the volume is of the Kalisz voivodeship (the cover's label and
+# the archive's title; the printed title does not name it), and that the
+# places of the third district lie around Konin (from the names; the summary
+# says the heading is missing). Where a figure is cited the entry is given by
+# its number; if the editor's check of the table changes a figure, the
+# summary, about.md and this file change with it.
+
+app53640kalisztab21-001:
+- {claim: "Dreizehn Seiten des Registers der Rauchfangsteuer (podymne) ... auf einem gedruckten Formular in polnischer Sprache", verdict: supported, where: "pp. 1-13; the title: REGESTR Wybranego Podatku Podymnego"}
+- {claim: "der Woiwodschaft Kalisch", verdict: supported, where: "the cover: Podymne z Wojewodz: Kalisk:; not in the printed title"}
+- {claim: "für die Johannisrate 1789", verdict: supported, where: "the title: w Racie Swięto-Jańskiey Roku 1789"}
+- {claim: "das Register der erhobenen Rauchfangsteuer und der daraus dem Kronheer erteilten Zahlungsanweisungen (delaty)", verdict: supported, where: "the title: Wybranego Podatku Podymnego i z tegoż Podatku Wydanych Delat Woysku Koronnemu"}
+- {claim: "jede Zeile gibt die Nummer der Quittung, den Namen ... und eine Summe in Złoty und Groschen, entweder als erhoben oder als Anweisung", verdict: supported, where: "the heading: Kwity. Nro.; Nazwiska Miast i Wsiow.; Summa wybrana.; Summa Delaty.; Złote. Gr:"}
+- {claim: "Kreis Pyzdry mit den Einträgen 1 bis 29 und 379 bis 448", verdict: supported, where: "p. 1: Powiat Pyzdrski, 1 ... 29; pp. 2-4: 379 ... 448"}
+- {claim: "Kreis Kalisch mit den Einträgen 1 bis 107", verdict: supported, where: "p. 4: Powiat Kaliski, 1 ...; p. 7: ... 107, Bobry"}
+- {claim: "Einträge 58 bis 238 eines dritten Kreises, dessen Überschrift auf diesen Seiten fehlt; seine Orte, darunter Tuliszkow, Władysławow und Rychwał, liegen um Konin", verdict: supported, where: "pp. 8-13: 58 ... 238; nos. 185 (Miasteczko Tuliszkow), 192 (Miasteczko Władysławow), 143 (Miasteczko Rychwał); the position is from the names"}
+- {claim: "Trąbczyn, geschrieben Trąpczyn, Eintrag 178 mit 80 Złoty", verdict: supported, where: "p. 12: 178, Trąpczyn, 80"}
+- {claim: "die Untertanen des Pfarrers am selben Ort mit 20 Złoty, Łazy mit 12 Złoty 15 Groschen, Osiny mit 17 Złoty 15 Groschen, Nowa Wieś mit 12 Złoty 15 Groschen", verdict: supported, where: "p. 12: 179, Tamże Poddani Pleban:, 20; 180, Łazy, 12, 15; 181, Osiny, 17, 15; 182, Nowa Wies, 12, 15"}
+- {claim: "die Trąbczyner Olęder (Olendry Trąbczynskie) mit 35 Złoty", verdict: supported, where: "p. 12: 183, Olendry Trąbczynskie, 35"}
+- {claim: "Łukom als Eintrag 106 mit 97 Złoty 15 Groschen unter den Anweisungen", verdict: supported, where: "p. 9: 106, Łukom, under Summa Delaty: 97, 15"}
+- {claim: "die Olęder-Siedlung Olędry Lusnie als Eintrag 109 mit 35 Złoty und Szetlewek als Eintrag 172 mit 55 Złoty", verdict: supported, where: "p. 9: 109, Olędry Lusnie, 35; p. 11: 172, Szetlewek, 55"}
+- {claim: "Summen der Seiten oder der Kreise stehen auf diesen Seiten nicht", verdict: supported, where: "pp. 1-13"}

@@ -1,0 +1,98 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app53640kalisztab21
+ref: 53/64/0/-/Kalisz Tab.21
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Thirteen pages of the register of the hearth tax collected in the Kalisz
+  voivodeship in the summer of 1789: for each town, village and part of a
+  village of the Pyzdry, Kalisz and Konin districts, the sum paid, among
+  them Trąbczyn, its Olęder settlement, Łazy, Osiny, Nowa Wieś and Łukom.
+title_de: >-
+  Dreizehn Seiten des Registers der Rauchfangsteuer, die im Sommer 1789 in
+  der Woiwodschaft Kalisch erhoben wurde: für jede Stadt, jedes Dorf und
+  jeden Dorfanteil der Kreise Pyzdry, Kalisch und Konin die gezahlte Summe,
+  darunter Trąbczyn, seine Olęder-Siedlung, Łazy, Osiny, Nowa Wieś und
+  Łukom.
+# The archive's own title of the volume, as the editor gave it. Kept for
+# reference; nothing displays it.
+archive_title: >-
+  Podymne z woj. kaliskiego [protocollon]
+fonds: Zbiór tabel podatkowych i lustracji
+# The title of the register: "w Racie Swięto-Jańskiey Roku 1789", the
+# instalment due at St John's (24 June) 1789.
+date_span: "1789"
+status: translated        # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. In 1789 Trąbczyn
+# belonged to Antoni Prusimski.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Fourteen images, each one page: the cover (000.jpg) and thirteen pages
+# named by leaf (001.jpg, 007.jpg, 007v.jpg ...). The file named 017v.jpg is
+# the verso of leaf 9 (intake/holding.py says why). intake/holding.py --crop
+# copies them into raw_dir/processed/ under their page ids: 0000_a (the
+# cover), 0001_a, 0007_a, 0007_b ... 0020_b (a recto is _a, a verso _b).
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Podymne z woj. kaliskiego [protocollon] 1789, 53.64.0.-.Kalisz Tab.21)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_64_0_Kalisz_Tab_21
+
+# One file per page, named by page id (0001_a.txt). Made by intake/holding.py
+# from intake/table.csv, the reading of the register.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Thirteen pages of a tax register of the Polish Commonwealth, on a printed
+  form filled in by hand, in Polish: the register of the hearth tax
+  (podymne) collected in the Kalisz voivodeship, and of the orders to pay
+  (delaty) issued out of it to the Crown army, for the instalment due at St
+  John's 1789. Each line has the number of the receipt, the name of a town,
+  a village or a part of a village, and a sum in złoty and groszy under one
+  of two headings, "collected" or "delata". The receipts are numbered
+  district by district. The pages are leaf 1 (the Pyzdry district, entries 1
+  to 29), leaves 7 to 9 (the end of the Pyzdry district, entries 379 to 448,
+  and the Kalisz district, entries 1 to 107) and leaves 18 to 20 (entries 58
+  to 238 of a third district, whose heading is not on these pages and whose
+  places are those of the Konin district). Trąbczyn is entry 178 of the
+  third district, with 80 złoty.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  The document is a table and is transcribed as one: each line of the text
+  is a line of the register, its cells separated by commas. "Podymne" is
+  the hearth tax; "delata" an order to pay a tax straight to a body of
+  troops; "Kwity. Nro." the number of the receipt. "Powiat" is a district.
+  "Wieś" is a village, "Miasteczko" a small town, "Folwark" a demesne farm,
+  "Młyn" a mill, "Pustkowie" an isolated farm, "Olędry", "Olendry" and
+  "Holendry" a Hollander settlement, "Woytostwo" the holding of a wójt,
+  "Plebania" a parsonage. "Tamże" is "at the same place"; "Poddani
+  Pleban:" are the subjects of the parish priest; "z Części ..." is the
+  part of a village that belongs to the person named. Names of villages are
+  as the clerk wrote them and stay so. "Trąpczyn" is Trąbczyn. A word
+  followed by [?] or written [word?] is one read with doubt.

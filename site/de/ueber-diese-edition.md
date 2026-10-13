@@ -19,8 +19,8 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 566 Dokumente auf 1.839 Handschriftenseiten aus den Jahren 1589 bis
-1832. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
+Die Edition enthält 568 Dokumente auf 1.857 Handschriftenseiten aus den Jahren 1589 bis
+1860. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
 zwischen Trąbczyn und dem Nachbargut Łukom, als Trąbczyn der Familie Prusimski gehörte: Eine
 Kommission entschied 1775 über die Grenze, und das Krontribunal legte sie 1782 endgültig fest. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
 preußischer Ministerien. Zu jedem Dokument gibt sie:
@@ -37,7 +37,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus siebenunddreißig Beständen in vier Archiven:
+Die Dokumente stammen aus neununddreißig Beständen in vier Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -47,8 +47,11 @@ Die Dokumente stammen aus siebenunddreißig Beständen in vier Archiven:
   Verwaltung der polnischen Provinzen, des Außenministeriums und der Staatskasse;
 - dem **Staatsarchiv Posen**: Einträgen aus den Gerichtsbüchern von Konin und Kalisch zur
   Grenze zwischen Trąbczyn und Łukom und zu den Prozessen darum, von 1589 bis 1788 (21
-  Bestände, 92 Dokumente), einem Gerichtsprotokoll von 1806 und um 1930 angefertigten
-  Abschriften von Schriftstücken über die Aufteilung der Güter;
+  Bestände, 92 Dokumente), dreizehn Seiten des Registers der Rauchfangsteuer der
+  Woiwodschaft Kalisch für 1789, einem Gerichtsprotokoll von 1806, um 1930 angefertigten
+  Abschriften von Schriftstücken über die Aufteilung der Güter und einer gedruckten
+  Vorladung von 1860 in einem Prozess zwischen dem Besitzer von Trąbczyn und dessen
+  Kolonisten;
 - dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
   konfiszierten Güter an Prusimskis Tochter; und sechs Seiten einer preußischen Tabelle der
   Dörfer um Konin, um 1797.
@@ -57,7 +60,7 @@ Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit sei
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
 sein Text bearbeitet wurde.
 
-Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, vierzehn polnisch und
+Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, sechzehn polnisch und
 sechsundachtzig lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
 beiden Sprachen, und einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
@@ -130,11 +133,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 719 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 759 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 561 von 566. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 563 von 568. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

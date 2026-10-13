@@ -138,6 +138,10 @@ Oe 1 Bü 9454, document 303, the older one.
   of each line (`holding.py --xlsx`).
 - **The English** is the same table with the heading and the common words
   translated; names stay as written unless the edition has settled a form.
+- **Where the pages have no totals**, look for another regularity that
+  holds the figures (a tax rate: every sum a multiple of it), and for
+  running numbers that place the pages. APP 53/64/0/-/Kalisz Tab.21 is the
+  model, with headings inside the table and a printed title as its caption.
 - **When the editor has checked it**, take their spreadsheet back
   (`holding.py --take <file> --apply`: their cells and their "Doubt"
   column), list what they changed in the holding's `notes.md`, and write

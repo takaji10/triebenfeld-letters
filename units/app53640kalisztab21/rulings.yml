@@ -1,0 +1,41 @@
+# Editorial rulings for 53/64/0/-/Kalisz Tab.21 (APP).
+#
+# One document: thirteen pages of the hearth-tax register of 1789, a table.
+# The cover is front matter. Established 2026-10-13.
+
+places:
+  overrides: {}
+
+dates:
+  # [year, month, day, precision]; read off the document: the printed title
+  # on leaf 1, "w Racie Swięto-Jańskiey Roku 1789". The instalment was due at
+  # St John's, 24 June; the day the register was written is not given.
+  read:
+    "1": [1789, null, null, "year"]
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": register
+
+  language:
+    "1": "pl"
+
+  # Transcribed as a table: each line of the text is a row, cells separated
+  # by commas.
+  tables: ["1"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn, lukomia]
+
+damage:
+  letters: []

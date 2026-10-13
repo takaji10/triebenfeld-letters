@@ -110,9 +110,31 @@ so check them.
 
 ## Where things stand (2026-10-13)
 
-- **Everything is published and pushed (2026-10-13).** The edition has
-  566 documents in 37 holdings and 719 marks of doubt. All four cloud
-  branches are in `main`.
+- **Two holdings are built and committed but NOT published** (added
+  2026-10-13, both from the State Archive in Poznań). The edition's
+  figures already count them (568 documents, 39 holdings, 759 marks of
+  doubt): do not publish anything else from `main` without saying that
+  they go with it. `docs/TODO.md`, sections 10 and 11.
+  - **APP 53/968/0/-/783** (slug `app539680783`): a printed summons of
+    1860 in Polish, Count Włodzimierz Miączyński's counterclaim against 97
+    colonists of Trąbczyn over pasture and wood in his forest; one
+    document on five pages, with the cover. The editor's Polish checked
+    against the scans; **the editor's English, a machine's, was wrong in
+    substance and was written again** (`intake/changes.yml`, on the page
+    of changes). Read `units/app539680783/notes.md` first. Waits for the
+    editor's look at the changes and at five pen alterations on page 1,
+    their folds and their word.
+  - **APP 53/64/0/-/Kalisz Tab.21** (slug `app53640kalisztab21`): thirteen
+    pages of the hearth-tax register of 1789, a table of 387 entries
+    (Trąbczyn is 178 of the third district). No transcription existed: read
+    from the scans in session, like AGAD 1/169/0/1/1745; the reading is
+    `intake/table.csv` and everything is made from it by
+    `intake/holding.py`. **Waits for the editor's check** of
+    `review/app53640kalisztab21/table_check.xlsx` (back with `holding.py
+    --take <file> --apply`) and their word. The file `017v.jpg` is placed
+    as leaf 9 verso.
+- **Everything else is published and pushed (2026-10-13)**: 566 documents
+  in 37 holdings. All four cloud branches are in `main`.
 - **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and
   published 2026-10-13), "Die neuesten topografischen Nachrichten von
   Südpreussen": six pages of a Prussian table of the villages around

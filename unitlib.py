@@ -406,6 +406,14 @@ def table_of(page_lines):
     allrows = [(pg, r) for pg in sorted(pages) for r in pages[pg]]
     first = next(k for k, (_, r) in enumerate(allrows) if is_entry(r))
     last = max(k for k, (_, r) in enumerate(allrows) if is_entry(r))
+
+    def is_section(r):
+        """A heading inside the table (a district's name over its entries): only the name cell is filled."""
+        return (len(r) > 1 and not r[0].strip() and r[1].strip() and not any(c.strip() for c in r[2:]))
+    # Such a row directly above the first entry belongs to the body, not to
+    # the header of the table (APP 53/64/0/-/Kalisz Tab.21, "Powiat Pyzdrski").
+    while first > 1 and is_section(allrows[first - 1][1]):
+        first -= 1
     head = [r for _, r in allrows[:first]]
     foot = [r for _, r in allrows[last + 1:]]
     body = {}

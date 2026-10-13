@@ -598,6 +598,64 @@ Where the rest is:
   and "the folds look fine", was taken as the editor's word to publish
   (2026-10-13). "The site" in the editor's mouth is the live one.
 
+- **An English translation in the editor's folder may be a machine's**
+  (APP 53/968/0/-/783, 2026-10-13; the editor: "I'd check the English
+  translation to ensure it's accurate"). Read it against the original
+  sentence by sentence before using a word of it. There it was wrong where
+  the paper turns: "Zapozwałem" (I have summoned) was "I have acquainted
+  myself with", a counterclaim's demands were told as things done, "ojcu"
+  was "her husband", "dworu" (the manor) "the court", the masculine
+  accusative "Bogumiła" a woman five times. Such an English is written
+  again from the corrected text, in the edition's terms, and the
+  differences that matter go on the page of changes
+  (`intake/changes.yml`), since the editor may have written from the old
+  one. The signs of a machine: a passage it could not read left out with
+  "<...>", untranslated words carried over ("SSrów"), and names put through
+  a grammar they do not have.
+- **A transcription of print reads like machine recognition and errs like
+  it**: "Scbonfisch", "czynszowmkami", "lego" for "tego", "§111" for "§
+  III", "11stu" for "14stu", "10/28" for "16/28". Check every figure, date
+  and name; a double date of the Kingdom of Poland is twelve days apart,
+  which catches a wrong one.
+- **A printed form filled in by hand has two texts.** The print is the same
+  on every copy; the pen is this copy: names struck out and replaced in the
+  margin, letters written over, the server's own lines and signature. Read
+  the pen separately and enlarged, and say on the holding's page which is
+  which. A struck-out name is left out (the rule), but a name written in
+  its place is text.
+- **A tax register has no totals, but it has a rate** (APP 53/64/0/-/Kalisz
+  Tab.21, 2026-10-13). The hearth tax was so much a hearth, so every
+  village's sum is a multiple of the rate (3 zł 15 gr in two districts, 2
+  zł 15 gr in the third). Finding the rate from the data and listing the
+  lines that do not fit took a minute and is the only witness the figures
+  have (`holding.py --look`). Look for such a regularity in any list of
+  sums before saying the figures cannot be checked.
+- **Receipt numbers place a page.** The file named `017v.jpg` continued
+  leaf 9 recto exactly (75, then 76) and could not stand before leaf 18
+  (which begins at 58 of another district). A verso has no leaf number: a
+  file's name is not evidence. Check that the numbers run on across every
+  pair of pages before the pages are named.
+- **A table with headings inside it.** A district's name over its entries
+  is a row with only the name cell filled; `unitlib.table_of` now keeps
+  such a row directly above the first entry in the body. The printed title
+  of a table goes into the name cell of the first heading row and becomes
+  the caption; the labels of the first two columns stand in the last
+  heading row.
+- **Row pictures without finding every row**: where the lines are ruled at
+  even distances, the first and last line of each page are enough
+  (`POS` in that holding's script). The pictures then show two or three
+  lines, and the spreadsheet tells the editor to go by the number.
+- **Word rules for the English of a list** catch words inside names:
+  `\bWieś\b` turned "Nowa Wieś" into "Nowa Village". Anchor a kind-of-place
+  word to the start of the cell, and print one example of every kind of
+  line before publishing (`scratch` script `en_sample.py` was the pattern).
+- **The glossary gate also stops on an abbreviation** in a newly translated
+  holding ("JP."): rule it under `excluded:` with the reason.
+- **Front matter with a table or with `courtbook`**: the cover is put
+  before `[DOC 1]` after the pages are written (`with_cover` in both new
+  holdings' scripts); `courtbook.correct` and `write_pages` do not know a
+  cover and would drop it.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other

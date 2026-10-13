@@ -258,6 +258,9 @@ places:
     display: "Kamionna"
     german: "Kaemen"
     kind: estate
+    # "Trzebuchow Kamienne" in the hearth-tax register of 1789 is a village of
+    # the Konin district, not this estate.
+    not_in: [app53640kalisztab21-1]
     # `Kamionn?o` demanded a final o and the corpus never writes one: it has
     # Kamionne 14 times and Kamionna 3. Both are inflections of this one
     # toponym, so the ending is not the identifying part of it.
@@ -1129,6 +1132,9 @@ places:
     display: "Amt Sokolnik"
     kind: estate
     match: 'Sokolnik\w*'
+    # "Sokolniki" in the hearth-tax register of 1789 is a village of the
+    # Pyzdry district; the Amt lay by Wieruszów.
+    not_in: [app53640kalisztab21-1]
     tier: "Context-inferred"
     variants: []
     # Prussian domain proposed as compensation for Trąbczyn, 1815 (9454 letters 6, 288).
@@ -1527,6 +1533,9 @@ places:
     display: "Lille"
     kind: city
     match: 'Lille'
+    # "Folwark Lille[?]" in the hearth-tax register of 1789 is a demesne farm
+    # of the Pyzdry district, and a doubtful reading.
+    not_in: [app53640kalisztab21-1]
     tier: "Established"
     variants: []
 
@@ -1784,8 +1793,9 @@ places:
     kind: town
     match: 'Ostr[oó]w(?![a-zà-ÿ])'
     # In the table of villages of 1797 "Ostrow" is a village of three houses
-    # near Konin, not the town.
-    not_in: [agad1169011745-1]
+    # near Konin, not the town; in the hearth-tax register of 1789 it is that
+    # village and a demesne farm.
+    not_in: [agad1169011745-1, app53640kalisztab21-1]
     tier: "Established"
     variants: []
 

@@ -245,6 +245,20 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
+- **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
+  2026-10-13): the whole reading is Claude's, from the scans, and waits for
+  the editor's check on `review/app53640kalisztab21/table_check.xlsx`. 45
+  names carry "[?]". Open with it: that the file `017v.jpg` is leaf 9 verso
+  (from the receipt numbers); that the third district is Konin (from the
+  places; its heading is on no page); why the hearth rate is 3 zł 15 gr in
+  two districts and 2 zł 15 gr on leaves 18 to 20.
+- **APP 53/968/0/-/783** (the summons of 1860, added 2026-10-13): the name
+  written in the margin for defendant 58, "Marcina [Hetke?]"; three printed
+  names written over in pen (nos. 7, 55, 70); the blotted figure in the
+  note of costs, "[47?]". Not said by the paper: how Count Włodzimierz
+  Miączyński was related to Michalina and Stanisław, and whether the two
+  Łazińska colonies are the "Łazy" of the other holdings. Its era is open
+  like that of the other holdings after 1807.
 - **AGAD 1/169/0/1/1745** (the table of villages of about 1797): the
   editor checked every line against the scan on 2026-10-13 and no mark of
   doubt is left. Not confirmed by the pages themselves, and written as

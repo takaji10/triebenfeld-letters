@@ -1,0 +1,15 @@
+﻿letter,page,line_start,line_end,n_lines,image,status,confidence,note
+1,1,10,41,32,APP_53_64_0_Kalisz_Tab_21_0001_a-L1_01.jpg,declared,ok,
+1,2,43,72,30,APP_53_64_0_Kalisz_Tab_21_0007_a-L1_02.jpg,declared,ok,
+1,3,74,103,30,APP_53_64_0_Kalisz_Tab_21_0007_b-L1_03.jpg,declared,ok,
+1,4,105,133,29,APP_53_64_0_Kalisz_Tab_21_0008_a-L1_04.jpg,declared,ok,
+1,5,135,161,27,APP_53_64_0_Kalisz_Tab_21_0008_b-L1_05.jpg,declared,ok,
+1,6,163,192,30,APP_53_64_0_Kalisz_Tab_21_0009_a-L1_06.jpg,declared,ok,
+1,7,194,225,32,APP_53_64_0_Kalisz_Tab_21_0009_b-L1_07.jpg,declared,ok,
+1,8,227,254,28,APP_53_64_0_Kalisz_Tab_21_0018_a-L1_08.jpg,declared,ok,
+1,9,256,284,29,APP_53_64_0_Kalisz_Tab_21_0018_b-L1_09.jpg,declared,ok,
+1,10,286,315,30,APP_53_64_0_Kalisz_Tab_21_0019_a-L1_10.jpg,declared,ok,
+1,11,317,347,31,APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg,declared,ok,
+1,12,349,379,31,APP_53_64_0_Kalisz_Tab_21_0020_a-L1_12.jpg,declared,ok,
+1,13,381,412,32,APP_53_64_0_Kalisz_Tab_21_0020_b-L1_13.jpg,declared,ok,
+0,,,,,APP_53_64_0_Kalisz_Tab_21_0000_a-front.jpg,front_matter,n/a,not part of any letter

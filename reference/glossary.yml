@@ -2544,3 +2544,5 @@ excluded:
   - {word: "vol.", reason: "volume, the same in English; a reference into the mortgage book"}
   - {word: "Cop.", reason: "a head in a court's note of its fees (copying), left abbreviated in the English"}
   - {word: "Ins.", reason: "a head in a court's note of its fees, left abbreviated in the English; its expansion is not settled"}
+  # ruled 2026-10-13, from APP 53/64/0/-/Kalisz Tab.21 (the hearth-tax register of 1789)
+  - {word: "JP.", reason: "Jegomość Pan, the Polish courtesy before a nobleman's name; the English gives it as Mr"}
