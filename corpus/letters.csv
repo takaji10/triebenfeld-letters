@@ -1,12 +1,12 @@
 ﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,rough_transcription,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
-agad1169011745,agad1169011745-1,agad1169011745-001,/documents/agad1169011745/1/,1,1,,register,1797,year,supplied,[1797],supplied by researcher,1797,,,,,,1,181,6,0,0,,0,174,6,hohenlohe,",,Anzahl der Häuser,Anzahl der Kirchen,Menschen-Zahl,,,,,,Summa aller Menschen
+agad1169011745,agad1169011745-1,agad1169011745-001,/documents/agad1169011745/1/,1,1,,register,1797,year,supplied,[1797],supplied by researcher,1797,,,,,,1,181,0,0,0,,0,174,6,hohenlohe,",,Anzahl der Häuser,Anzahl der Kirchen,Menschen-Zahl,,,,,,Summa aller Menschen
 ,,,,Christen,,,Juden,,,
 No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Christen,männlichen Geschlechts,weiblichen Geschlechts,Summa,
 140,Dorf Kurow Grab:,12,—,49,41,90,—,—,—,90
 141,d° d° Koninsk.,7,—,25,17,42,—,—,—,42
 142,Kurowek.,4,—,27,23,50,—,—,—,50
-143,Kuznica Janisz:,3,—,19,16,35,—,—,—,35
-144,d° Kozmin:,5,—,11,12,23,—,—,—,23
+143,Kuźnica Janisz:,3,—,19,16,35,—,—,—,35
+144,d° Koźmin:,5,—,11,12,23,—,—,—,23
 145,d° Wysocka.,4,—,13,12,25,—,—,—,25
 146,Kwiatkow.,13,—,30,35,65,—,—,—,65
 147,Lagiewniki.,13,—,40,57,97,—,—,—,97
@@ -18,9 +18,9 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 153,Lekaszyn,9,—,20,29,49,—,—,—,49
 154,Leszcze.,10,—,26,32,58,—,—,—,58
 155,Lesnica.,8,—,31,43,74,—,—,—,74
-156,Leysce[?].,12,—,44,37,81,2,2,4,85
+156,Leysce.,12,—,44,37,81,2,2,4,85
 157,Haul. Laski stare y nowe,34,—,73,69,142,—,—,—,142
-158,Dorf Lęzec.,10,—,43,44,87,—,—,—,87
+158,Dorf Lęka.,10,—,43,44,87,—,—,—,87
 159,Lęk wielki.,4,—,9,10,19,—,—,—,19
 160,Haul. Lipicze.,4,—,17,18,35,—,—,—,35
 161,Dorf Lipiny.,5,—,29,17,46,—,—,—,46
@@ -28,10 +28,10 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 163,Lisiec wielki,26,—,106,99,205,—,—,—,205
 164,Haul. dito.,4,—,6,8,14,—,—,—,14
 165,Dorf Lisiec mały.,21,—,89,89,178,—,—,—,178
-166,Lomow.,23,—,53,52,105,—,—,—,105
+166,Łomow.,23,—,53,52,105,—,—,—,105
 167,Mühle Lowigusz.,1,—,3,5,8,—,—,—,8
 ,Latus 6.,311,1,1125,1066,2191,2,2,4,2195
-168,Dorf Lubinia[?] wielka,19,—,63,66,129,—,—,—,129
+168,Dorf Lubinia wielka,19,—,63,66,129,—,—,—,129
 169,Haul. dito dito.,16,—,65,62,127,—,—,—,127
 170,d° Lubinskie,23,—,78,68,146,—,—,—,146
 171,Dorf Łukom.,28,—,83,66,149,—,—,—,149
@@ -45,19 +45,19 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 179,Vorw. Mniszek,1,—,3,4,7,—,—,—,7
 180,Dorf Modla Księża,11,—,26,27,53,—,—,—,53
 181,d° Krolewska.,12,—,51,43,94,—,—,—,94
-182,d° Bienna[?].,15,—,100,74,174,—,—,—,174
+182,d° Bienna.,15,—,100,74,174,—,—,—,174
 183,Modlibogowice,16,—,52,44,96,—,—,—,96
-184,Mokre Groice[?],11,—,75,50,125,—,—,—,125
+184,Mokre Groice,11,—,75,50,125,—,—,—,125
 185,Morzysław.,7,1,24,30,54,—,—,—,54
 186,Myśliborz,32,1,154,137,291,—,—,—,291
 187,Haul. dito.,3,—,13,7,20,—,—,—,20
-188,Dorf Myzakow.,13,—,45,37,82,—,—,—,82
-189,Haul. Myzakowskie,17,—,35,36,71,—,—,—,71
+188,Dorf Myżakow.,13,—,45,37,82,—,—,—,82
+189,Haul. Myżakowskie,17,—,35,36,71,—,—,—,71
 190,Dorf Nagorna,3,—,8,16,24,—,—,—,24
 191,Mühle Niklas,2,—,3,2,5,—,—,—,5
 192,Nowa wieś Bru.,13,—,65,56,121,—,—,—,121
 193,dito Szyman.,7,—,14,12,26,—,—,—,26
-194,dito Trąmpcz.,5,—,21,28,49,—,—,—,49
+194,dito Trąmpczyn.,5,—,21,28,49,—,—,—,49
 195,dito Wierzchy,4,—,18,14,32,—,—,—,32
 ,Latus 7.,317,2,1181,1057,2238,—,—,—,2238
 196,Nowy Dwor.,1,—,3,2,5,—,—,—,5
@@ -68,10 +68,10 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 201,d° d° wielkie,10,—,40,29,69,—,—,—,69
 202,Ogorzelczyn,15,—,50,46,96,—,—,—,96
 203,Oleśnica.,18,—,101,101,202,—,—,—,202
-204,Olszyny.,4,—,17,17,34,—,—,—,34
-205,Osiek mały.,24,—,87,88,175,—,—,—,175
+204,Ołszyny.,4,—,17,17,34,—,—,—,34
+205,Ośiek mały.,24,—,87,88,175,—,—,—,175
 206,d° wielki,40,1,121,100,221,—,—,—,221
-207,Osiecza.,16,—,52,49,101,—,—,—,101
+207,Ośiecza.,16,—,52,49,101,—,—,—,101
 208,Ostrow.,3,1,13,13,26,—,—,—,26
 209,Vorw. dito.,1,—,3,7,10,—,—,—,10
 210,Haul. Orlinskie,34,—,146,134,280,—,—,—,280
@@ -81,11 +81,11 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 214,Dorf Patrzykow,28,—,125,100,225,—,—,—,225
 215,Pąchow.,14,—,49,43,92,—,—,—,92
 216,Haul. dito.,4,—,6,6,12,—,—,—,12
-217,Dorf Pępocin,10,—,39,33,72,—,—,—,72
+217,Dorf Pępoćin,10,—,39,33,72,—,—,—,72
 218,Mühle Pierszka,2,—,7,5,12,—,—,—,12
 219,d° Piła.,4,—,22,24,46,—,—,—,46
 220,Dorf Piorunow.,18,—,62,61,123,—,—,—,123
-221,Piskoszew[?].,6,—,20,16,36,—,—,—,36
+221,Piskoszew.,6,—,20,16,36,—,—,—,36
 222,Haul. Plebanki.,7,—,28,28,56,—,—,—,56
 223,Dorf Podbiele,5,—,20,20,40,—,—,—,40
 224,Podgur.,9,—,32,31,63,—,—,—,63
@@ -94,7 +94,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 226,Podłuszyce,5,—,16,10,26,—,—,—,26
 227,Police Kramsk.,1,—,4,3,7,—,—,—,7
 228,Haul. d° mostowe,10,—,45,51,96,—,—,—,96
-229,Dorf d° wsrzednie[?],3,—,6,3,9,—,—,—,9
+229,Dorf d° wsrzednie,3,—,6,3,9,—,—,—,9
 230,Haul. Polichno.,14,—,38,37,75,—,—,—,75
 231,Mühle Posoka.,4,—,11,13,24,—,—,—,24
 232,Dorf Powierce.,19,—,59,70,129,—,—,—,129
@@ -111,7 +111,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 243,Ruchenna.,12,—,38,34,72,—,—,—,72
 244,Ruda Wiecz.,18,—,72,60,132,3,1,4,136
 245,Mühle Ruda,1,—,3,3,6,—,—,—,6
-246,Dorf Rudzica,9,—,25,30,55,—,—,—,55
+246,Dorf Rudźica,9,—,25,30,55,—,—,—,55
 247,Rumin.,38,—,102,102,204,—,—,—,204
 248,Russocice.,48,1,172,173,345,—,—,—,345
 249,Ruszkowo.,21,—,109,77,186,—,—,—,186
@@ -120,15 +120,15 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 ,Latus 9.,353,2,1267,1211,2478,8,7,15,2493
 252,Dorf Sarbice.,7,—,11,9,20,—,—,—,20
 253,Sarbicko.,25,—,88,65,153,—,—,—,153
-254,Sięszyce.,45,—,102,79,181,1,1,2,183
-255,Siekierzyn.,2,—,4,4,8,—,—,—,8
-256,Sięszew.,11,—,30,33,63,—,—,—,63
+254,Siąszyce.,45,—,102,79,181,1,1,2,183
+255,Siekierszyn.,2,—,4,4,8,—,—,—,8
+256,Sierszew.,11,—,30,33,63,—,—,—,63
 257,Skarbki.,2,—,4,7,11,—,—,—,11
 258,Skokum.,21,—,88,75,163,—,—,—,163
 259,Sławsk.,43,1,191,187,378,—,—,—,378
 260,Haul. Sławskie.,12,—,45,44,89,—,—,—,89
-261,Dorf Sługocin,23,—,81,85,166,—,—,—,166
-262,Sługocinek,12,—,40,37,77,—,—,—,77
+261,Dorf Sługoćin,23,—,81,85,166,—,—,—,166
+262,Sługoćinek,12,—,40,37,77,—,—,—,77
 263,Smaszew.,26,—,90,107,197,—,—,—,197
 264,Haul. Smaszewsk.,4,—,11,13,24,—,—,—,24
 265,Vorw. Smolina,3,—,9,6,15,—,—,—,15
@@ -149,7 +149,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 279,Szetlewek.,20,—,70,66,136,2,2,4,140
 280,Szymanowice,37,1,76,70,146,—,—,—,146
 281,Stara Huta Lukom.,9,—,25,20,45,—,—,—,45
-282,d° d° Grod.,5,—,17,14,31,—,—,—,31
+282,d° d° Groi.,5,—,17,14,31,—,—,—,31
 283,d° d° Trąpcz.,2,—,5,4,9,—,—,—,9
 284,Dorf Straszkow.,11,—,33,42,75,—,—,—,75
 285,Tarnowa Brud.,11,—,51,50,101,—,—,—,101
@@ -164,7 +164,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 294,Tuliszkow.,4,—,12,18,30,—,—,—,30
 295,Tury.,18,—,61,71,132,—,—,—,132
 296,Wakowy.,14,—,41,47,88,—,—,—,88
-297,Wardęzynek.,8,—,34,41,75,—,—,—,75
+297,Wardężynek.,8,—,34,41,75,—,—,—,75
 298,Wardęzyn,11,—,31,31,62,—,—,—,62
 299,Vorw. Wielodwor,6,—,46,46,92,—,—,—,92
 300,Haul. Wielołęka.,33,—,117,113,230,—,—,—,230
@@ -177,8 +177,8 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 140,Dorf Kurow Grab:,12,—,49,41,90,—,—,—,90
 141,d° d° Koninsk.,7,—,25,17,42,—,—,—,42
 142,Kurowek.,4,—,27,23,50,—,—,—,50
-143,Kuznica Janisz:,3,—,19,16,35,—,—,—,35
-144,d° Kozmin:,5,—,11,12,23,—,—,—,23
+143,Kuźnica Janisz:,3,—,19,16,35,—,—,—,35
+144,d° Koźmin:,5,—,11,12,23,—,—,—,23
 145,d° Wysocka.,4,—,13,12,25,—,—,—,25
 146,Kwiatkow.,13,—,30,35,65,—,—,—,65
 147,Lagiewniki.,13,—,40,57,97,—,—,—,97
@@ -190,9 +190,9 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 153,Lekaszyn,9,—,20,29,49,—,—,—,49
 154,Leszcze.,10,—,26,32,58,—,—,—,58
 155,Lesnica.,8,—,31,43,74,—,—,—,74
-156,Leysce[?].,12,—,44,37,81,2,2,4,85
+156,Leysce.,12,—,44,37,81,2,2,4,85
 157,Haul. Laski stare y nowe,34,—,73,69,142,—,—,—,142
-158,Dorf Lęzec.,10,—,43,44,87,—,—,—,87
+158,Dorf Lęka.,10,—,43,44,87,—,—,—,87
 159,Lęk wielki.,4,—,9,10,19,—,—,—,19
 160,Haul. Lipicze.,4,—,17,18,35,—,—,—,35
 161,Dorf Lipiny.,5,—,29,17,46,—,—,—,46
@@ -200,11 +200,11 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 163,Lisiec wielki,26,—,106,99,205,—,—,—,205
 164,Haul. dito.,4,—,6,8,14,—,—,—,14
 165,Dorf Lisiec mały.,21,—,89,89,178,—,—,—,178
-166,Lomow.,23,—,53,52,105,—,—,—,105
+166,Łomow.,23,—,53,52,105,—,—,—,105
 167,Mühle Lowigusz.,1,—,3,5,8,—,—,—,8
 ,Latus 6.,311,1,1125,1066,2191,2,2,4,2195
 
-168,Dorf Lubinia[?] wielka,19,—,63,66,129,—,—,—,129
+168,Dorf Lubinia wielka,19,—,63,66,129,—,—,—,129
 169,Haul. dito dito.,16,—,65,62,127,—,—,—,127
 170,d° Lubinskie,23,—,78,68,146,—,—,—,146
 171,Dorf Łukom.,28,—,83,66,149,—,—,—,149
@@ -218,19 +218,19 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 179,Vorw. Mniszek,1,—,3,4,7,—,—,—,7
 180,Dorf Modla Księża,11,—,26,27,53,—,—,—,53
 181,d° Krolewska.,12,—,51,43,94,—,—,—,94
-182,d° Bienna[?].,15,—,100,74,174,—,—,—,174
+182,d° Bienna.,15,—,100,74,174,—,—,—,174
 183,Modlibogowice,16,—,52,44,96,—,—,—,96
-184,Mokre Groice[?],11,—,75,50,125,—,—,—,125
+184,Mokre Groice,11,—,75,50,125,—,—,—,125
 185,Morzysław.,7,1,24,30,54,—,—,—,54
 186,Myśliborz,32,1,154,137,291,—,—,—,291
 187,Haul. dito.,3,—,13,7,20,—,—,—,20
-188,Dorf Myzakow.,13,—,45,37,82,—,—,—,82
-189,Haul. Myzakowskie,17,—,35,36,71,—,—,—,71
+188,Dorf Myżakow.,13,—,45,37,82,—,—,—,82
+189,Haul. Myżakowskie,17,—,35,36,71,—,—,—,71
 190,Dorf Nagorna,3,—,8,16,24,—,—,—,24
 191,Mühle Niklas,2,—,3,2,5,—,—,—,5
 192,Nowa wieś Bru.,13,—,65,56,121,—,—,—,121
 193,dito Szyman.,7,—,14,12,26,—,—,—,26
-194,dito Trąmpcz.,5,—,21,28,49,—,—,—,49
+194,dito Trąmpczyn.,5,—,21,28,49,—,—,—,49
 195,dito Wierzchy,4,—,18,14,32,—,—,—,32
 ,Latus 7.,317,2,1181,1057,2238,—,—,—,2238
 
@@ -242,10 +242,10 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 201,d° d° wielkie,10,—,40,29,69,—,—,—,69
 202,Ogorzelczyn,15,—,50,46,96,—,—,—,96
 203,Oleśnica.,18,—,101,101,202,—,—,—,202
-204,Olszyny.,4,—,17,17,34,—,—,—,34
-205,Osiek mały.,24,—,87,88,175,—,—,—,175
+204,Ołszyny.,4,—,17,17,34,—,—,—,34
+205,Ośiek mały.,24,—,87,88,175,—,—,—,175
 206,d° wielki,40,1,121,100,221,—,—,—,221
-207,Osiecza.,16,—,52,49,101,—,—,—,101
+207,Ośiecza.,16,—,52,49,101,—,—,—,101
 208,Ostrow.,3,1,13,13,26,—,—,—,26
 209,Vorw. dito.,1,—,3,7,10,—,—,—,10
 210,Haul. Orlinskie,34,—,146,134,280,—,—,—,280
@@ -255,11 +255,11 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 214,Dorf Patrzykow,28,—,125,100,225,—,—,—,225
 215,Pąchow.,14,—,49,43,92,—,—,—,92
 216,Haul. dito.,4,—,6,6,12,—,—,—,12
-217,Dorf Pępocin,10,—,39,33,72,—,—,—,72
+217,Dorf Pępoćin,10,—,39,33,72,—,—,—,72
 218,Mühle Pierszka,2,—,7,5,12,—,—,—,12
 219,d° Piła.,4,—,22,24,46,—,—,—,46
 220,Dorf Piorunow.,18,—,62,61,123,—,—,—,123
-221,Piskoszew[?].,6,—,20,16,36,—,—,—,36
+221,Piskoszew.,6,—,20,16,36,—,—,—,36
 222,Haul. Plebanki.,7,—,28,28,56,—,—,—,56
 223,Dorf Podbiele,5,—,20,20,40,—,—,—,40
 224,Podgur.,9,—,32,31,63,—,—,—,63
@@ -269,7 +269,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 226,Podłuszyce,5,—,16,10,26,—,—,—,26
 227,Police Kramsk.,1,—,4,3,7,—,—,—,7
 228,Haul. d° mostowe,10,—,45,51,96,—,—,—,96
-229,Dorf d° wsrzednie[?],3,—,6,3,9,—,—,—,9
+229,Dorf d° wsrzednie,3,—,6,3,9,—,—,—,9
 230,Haul. Polichno.,14,—,38,37,75,—,—,—,75
 231,Mühle Posoka.,4,—,11,13,24,—,—,—,24
 232,Dorf Powierce.,19,—,59,70,129,—,—,—,129
@@ -286,7 +286,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 243,Ruchenna.,12,—,38,34,72,—,—,—,72
 244,Ruda Wiecz.,18,—,72,60,132,3,1,4,136
 245,Mühle Ruda,1,—,3,3,6,—,—,—,6
-246,Dorf Rudzica,9,—,25,30,55,—,—,—,55
+246,Dorf Rudźica,9,—,25,30,55,—,—,—,55
 247,Rumin.,38,—,102,102,204,—,—,—,204
 248,Russocice.,48,1,172,173,345,—,—,—,345
 249,Ruszkowo.,21,—,109,77,186,—,—,—,186
@@ -296,15 +296,15 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 
 252,Dorf Sarbice.,7,—,11,9,20,—,—,—,20
 253,Sarbicko.,25,—,88,65,153,—,—,—,153
-254,Sięszyce.,45,—,102,79,181,1,1,2,183
-255,Siekierzyn.,2,—,4,4,8,—,—,—,8
-256,Sięszew.,11,—,30,33,63,—,—,—,63
+254,Siąszyce.,45,—,102,79,181,1,1,2,183
+255,Siekierszyn.,2,—,4,4,8,—,—,—,8
+256,Sierszew.,11,—,30,33,63,—,—,—,63
 257,Skarbki.,2,—,4,7,11,—,—,—,11
 258,Skokum.,21,—,88,75,163,—,—,—,163
 259,Sławsk.,43,1,191,187,378,—,—,—,378
 260,Haul. Sławskie.,12,—,45,44,89,—,—,—,89
-261,Dorf Sługocin,23,—,81,85,166,—,—,—,166
-262,Sługocinek,12,—,40,37,77,—,—,—,77
+261,Dorf Sługoćin,23,—,81,85,166,—,—,—,166
+262,Sługoćinek,12,—,40,37,77,—,—,—,77
 263,Smaszew.,26,—,90,107,197,—,—,—,197
 264,Haul. Smaszewsk.,4,—,11,13,24,—,—,—,24
 265,Vorw. Smolina,3,—,9,6,15,—,—,—,15
@@ -326,7 +326,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 279,Szetlewek.,20,—,70,66,136,2,2,4,140
 280,Szymanowice,37,1,76,70,146,—,—,—,146
 281,Stara Huta Lukom.,9,—,25,20,45,—,—,—,45
-282,d° d° Grod.,5,—,17,14,31,—,—,—,31
+282,d° d° Groi.,5,—,17,14,31,—,—,—,31
 283,d° d° Trąpcz.,2,—,5,4,9,—,—,—,9
 284,Dorf Straszkow.,11,—,33,42,75,—,—,—,75
 285,Tarnowa Brud.,11,—,51,50,101,—,—,—,101
@@ -341,7 +341,7 @@ No.,Nahmen der Dörfer,,,männlichen Geschlechts,weiblichen Geschlechts,Summa Ch
 294,Tuliszkow.,4,—,12,18,30,—,—,—,30
 295,Tury.,18,—,61,71,132,—,—,—,132
 296,Wakowy.,14,—,41,47,88,—,—,—,88
-297,Wardęzynek.,8,—,34,41,75,—,—,—,75
+297,Wardężynek.,8,—,34,41,75,—,—,—,75
 298,Wardęzyn,11,—,31,31,62,—,—,—,62
 299,Vorw. Wielodwor,6,—,46,46,92,—,—,—,92
 300,Haul. Wielołęka.,33,—,117,113,230,—,—,—,230
@@ -9431,7 +9431,7 @@ genannten Güter auf den Nahmen des
 Herrn Fürsten zu Hohenlohe Ingelfingen
 Liebden gefertigt worden. So geschehen
 unter der gewöhnlichen Unterschrift und
-größern Insiegel Kalisch den 7. July 1804
+größern Insiegel Kalisch den 7. July 1801
 Königl. Preußl. Regierung.
 (L. S.)
 Schultz
@@ -9540,7 +9540,7 @@ Verleihungs-Urkunde für den regierenden Fürsten von Hohenlohe Hoym. Reck Ingel
 
 Urkundlich ist diese beglaubte Abschrift Behufs der Eintragung des Tituli
 
-possessionis in Abschrift der darin genannten Güter auf den Nahmen des Herrn Fürsten zu Hohenlohe Ingelfingen Liebden gefertigt worden. So geschehen unter der gewöhnlichen Unterschrift und größern Insiegel Kalisch den 7. July 1804 Königl. Preußl. Regierung. (L. S.)
+possessionis in Abschrift der darin genannten Güter auf den Nahmen des Herrn Fürsten zu Hohenlohe Ingelfingen Liebden gefertigt worden. So geschehen unter der gewöhnlichen Unterschrift und größern Insiegel Kalisch den 7. July 1801 Königl. Preußl. Regierung. (L. S.)
 
 Schultz
 
@@ -23319,7 +23319,7 @@ sigem Polizei Magistrat.
 H. Nüchler aus Peisern
 2. der Müller Luka aus
 Białobrzeg und
-3. Der Schütze Reise aus
+3. Der Schütze Kriede aus
 Wrąbczynek
 und trugen an, folgendes
 ad Protocollum nieder zu
@@ -23417,7 +23417,7 @@ H. Nüchler aus Peisern
 
 2. der Müller Luka aus Białobrzeg und
 
-3. Der Schütze Reise aus Wrąbczynek und trugen an, folgendes ad Protocollum nieder zu schreiben Unterm 20t. Novbr 1798 hatten Sie mit dem Hochfürstliche Hohenloheschen Bau und Oeconom Rath qua General Bevollmächtigten Herrn Glencke.
+3. Der Schütze Kriede aus Wrąbczynek und trugen an, folgendes ad Protocollum nieder zu schreiben Unterm 20t. Novbr 1798 hatten Sie mit dem Hochfürstliche Hohenloheschen Bau und Oeconom Rath qua General Bevollmächtigten Herrn Glencke.
 
 Wegen Vertheilung des Guths Szetlewek in Trąbczyner Güthern belegen einen Contract gemacht, worin Sie sich anheischig gemacht auf die darin bestimte
 

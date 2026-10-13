@@ -125,7 +125,7 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 725 marks of doubt in the edition. Each document's page says how many it has.
+There are 719 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
@@ -151,7 +151,7 @@ but makes no sense in its sentence, and was probably misread.
 ## The summaries
 
 Each document has a short summary to help a reader find it. It is a finding aid and not
-part of the text. The summaries were drafted by an AI model. In most holdings they were
+part of the text. The summaries were drafted by an AI model. In every holding they were
 written from the original language and each statement was then checked against the
 document; the page of each holding says how its summaries were made.
 

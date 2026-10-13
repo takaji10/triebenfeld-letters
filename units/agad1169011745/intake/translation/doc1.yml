@@ -1,7 +1,7 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: ',,Number of houses,Number of churches,Population,,,,,,Total of all persons
 
     ,,,,Christians,,,Jews,,,
@@ -14,9 +14,9 @@ pages:
 
     142,Kurowek.,4,—,27,23,50,—,—,—,50
 
-    143,Kuznica Janisz:,3,—,19,16,35,—,—,—,35
+    143,Kuźnica Janisz:,3,—,19,16,35,—,—,—,35
 
-    144,ditto Kozmin:,5,—,11,12,23,—,—,—,23
+    144,ditto Koźmin:,5,—,11,12,23,—,—,—,23
 
     145,ditto Wysocka.,4,—,13,12,25,—,—,—,25
 
@@ -40,11 +40,11 @@ pages:
 
     155,Lesnica.,8,—,31,43,74,—,—,—,74
 
-    156,[uncertain: Leysce].,12,—,44,37,81,2,2,4,85
+    156,Leysce.,12,—,44,37,81,2,2,4,85
 
     157,Hollander settlement Laski stare y nowe,34,—,73,69,142,—,—,—,142
 
-    158,Village Lęzec.,10,—,43,44,87,—,—,—,87
+    158,Village Lęka.,10,—,43,44,87,—,—,—,87
 
     159,Lęk wielki.,4,—,9,10,19,—,—,—,19
 
@@ -60,7 +60,7 @@ pages:
 
     165,Village Lisiec mały.,21,—,89,89,178,—,—,—,178
 
-    166,Lomow.,23,—,53,52,105,—,—,—,105
+    166,Łomow.,23,—,53,52,105,—,—,—,105
 
     167,Mill Lowigusz.,1,—,3,5,8,—,—,—,8
 
@@ -70,8 +70,8 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 3
-  en: '168,Village [uncertain: Lubinia] wielka,19,—,63,66,129,—,—,—,129
+  marker_count: 0
+  en: '168,Village Lubinia wielka,19,—,63,66,129,—,—,—,129
 
     169,Hollander settlement ditto ditto.,16,—,65,62,127,—,—,—,127
 
@@ -99,11 +99,11 @@ pages:
 
     181,ditto Krolewska.,12,—,51,43,94,—,—,—,94
 
-    182,ditto [uncertain: Bienna].,15,—,100,74,174,—,—,—,174
+    182,ditto Bienna.,15,—,100,74,174,—,—,—,174
 
     183,Modlibogowice,16,—,52,44,96,—,—,—,96
 
-    184,Mokre [uncertain: Groice],11,—,75,50,125,—,—,—,125
+    184,Mokre Groice,11,—,75,50,125,—,—,—,125
 
     185,Morzysław.,7,1,24,30,54,—,—,—,54
 
@@ -111,9 +111,9 @@ pages:
 
     187,Hollander settlement ditto.,3,—,13,7,20,—,—,—,20
 
-    188,Village Myzakow.,13,—,45,37,82,—,—,—,82
+    188,Village Myżakow.,13,—,45,37,82,—,—,—,82
 
-    189,Hollander settlement Myzakowskie,17,—,35,36,71,—,—,—,71
+    189,Hollander settlement Myżakowskie,17,—,35,36,71,—,—,—,71
 
     190,Village Nagorna,3,—,8,16,24,—,—,—,24
 
@@ -123,7 +123,7 @@ pages:
 
     193,ditto Szyman.,7,—,14,12,26,—,—,—,26
 
-    194,ditto Trąmpcz.,5,—,21,28,49,—,—,—,49
+    194,ditto Trąbczyn.,5,—,21,28,49,—,—,—,49
 
     195,ditto Wierzchy,4,—,18,14,32,—,—,—,32
 
@@ -133,7 +133,7 @@ pages:
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '196,Nowy Dwor.,1,—,3,2,5,—,—,—,5
 
     197,Nowy Swiat.,3,—,22,18,40,—,—,—,40
@@ -150,13 +150,13 @@ pages:
 
     203,Oleśnica.,18,—,101,101,202,—,—,—,202
 
-    204,Olszyny.,4,—,17,17,34,—,—,—,34
+    204,Ołszyny.,4,—,17,17,34,—,—,—,34
 
-    205,Osiek mały.,24,—,87,88,175,—,—,—,175
+    205,Ośiek mały.,24,—,87,88,175,—,—,—,175
 
     206,ditto wielki,40,1,121,100,221,—,—,—,221
 
-    207,Osiecza.,16,—,52,49,101,—,—,—,101
+    207,Ośiecza.,16,—,52,49,101,—,—,—,101
 
     208,Ostrow.,3,1,13,13,26,—,—,—,26
 
@@ -176,7 +176,7 @@ pages:
 
     216,Hollander settlement ditto.,4,—,6,6,12,—,—,—,12
 
-    217,Village Pępocin,10,—,39,33,72,—,—,—,72
+    217,Village Pępoćin,10,—,39,33,72,—,—,—,72
 
     218,Mill Pierszka,2,—,7,5,12,—,—,—,12
 
@@ -184,7 +184,7 @@ pages:
 
     220,Village Piorunow.,18,—,62,61,123,—,—,—,123
 
-    221,[uncertain: Piskoszew].,6,—,20,16,36,—,—,—,36
+    221,Piskoszew.,6,—,20,16,36,—,—,—,36
 
     222,Hollander settlement Plebanki.,7,—,28,28,56,—,—,—,56
 
@@ -198,7 +198,7 @@ pages:
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '225,Village Podlesie.,9,—,32,31,63,—,—,—,63
 
     226,Podłuszyce,5,—,16,10,26,—,—,—,26
@@ -207,7 +207,7 @@ pages:
 
     228,Hollander settlement ditto mostowe,10,—,45,51,96,—,—,—,96
 
-    229,Village ditto [uncertain: wsrzednie],3,—,6,3,9,—,—,—,9
+    229,Village ditto wsrzednie,3,—,6,3,9,—,—,—,9
 
     230,Hollander settlement Polichno.,14,—,38,37,75,—,—,—,75
 
@@ -241,7 +241,7 @@ pages:
 
     245,Mill Ruda,1,—,3,3,6,—,—,—,6
 
-    246,Village Rudzica,9,—,25,30,55,—,—,—,55
+    246,Village Rudźica,9,—,25,30,55,—,—,—,55
 
     247,Rumin.,38,—,102,102,204,—,—,—,204
 
@@ -264,11 +264,11 @@ pages:
 
     253,Sarbicko.,25,—,88,65,153,—,—,—,153
 
-    254,Sięszyce.,45,—,102,79,181,1,1,2,183
+    254,Siąszyce.,45,—,102,79,181,1,1,2,183
 
-    255,Siekierzyn.,2,—,4,4,8,—,—,—,8
+    255,Siekierszyn.,2,—,4,4,8,—,—,—,8
 
-    256,Sięszew.,11,—,30,33,63,—,—,—,63
+    256,Sierszew.,11,—,30,33,63,—,—,—,63
 
     257,Skarbki.,2,—,4,7,11,—,—,—,11
 
@@ -278,9 +278,9 @@ pages:
 
     260,Hollander settlement Sławskie.,12,—,45,44,89,—,—,—,89
 
-    261,Village Sługocin,23,—,81,85,166,—,—,—,166
+    261,Village Sługoćin,23,—,81,85,166,—,—,—,166
 
-    262,Sługocinek,12,—,40,37,77,—,—,—,77
+    262,Sługoćinek,12,—,40,37,77,—,—,—,77
 
     263,Smaszew.,26,—,90,107,197,—,—,—,197
 
@@ -327,7 +327,7 @@ pages:
 
     281,Stara Huta Lukom.,9,—,25,20,45,—,—,—,45
 
-    282,ditto ditto Grod.,5,—,17,14,31,—,—,—,31
+    282,ditto ditto Groi.,5,—,17,14,31,—,—,—,31
 
     283,ditto ditto Trąpcz.,2,—,5,4,9,—,—,—,9
 
@@ -357,7 +357,7 @@ pages:
 
     296,Wakowy.,14,—,41,47,88,—,—,—,88
 
-    297,Wardęzynek.,8,—,34,41,75,—,—,—,75
+    297,Wardężynek.,8,—,34,41,75,—,—,—,75
 
     298,Wardęzyn,11,—,31,31,62,—,—,—,62
 

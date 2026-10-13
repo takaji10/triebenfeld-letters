@@ -245,16 +245,11 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
-- **AGAD 1/169/0/1/1745** (the table of villages of about 1797, added
-  2026-10-13): the whole reading is Claude's, from the scans, and waits for
-  the editor's check on `review/agad1169011745/table_check.xlsx`. The
-  figures are held by the table's own sums; the names are not. Six names
-  carry "[?]" (Leysce, Lubinia, Bienna, Groice, Piskoszew, wsrzednie) and 29
-  more lines have a note in `units/agad1169011745/intake/table.csv`. Open
-  with it: how the clerk's tailed abbreviation stroke is to be shown (now a
-  period, or his colon); that the district is Konin (inferred from the
-  places, not stated on the pages); and the date, 1797, which is the
-  archive's for the volume and is on no page.
+- **AGAD 1/169/0/1/1745** (the table of villages of about 1797): the
+  editor checked every line against the scan on 2026-10-13 and no mark of
+  doubt is left. Not confirmed by the pages themselves, and written as
+  inferences wherever they are said: that the district is Konin (from the
+  places), and the date, 1797, which is the archive's for the volume.
 - Words left as written for want of a witness, one list per holding, in
   `review/<slug>/unresolved.md`: Oe 1 Bü 9454, III. HA MdA, III Nr. 12765,
   I. HA GR, Rep. 7 C, Nr. 3705, Oe 1 U 199, 53/71/0/-/57.
@@ -366,12 +361,6 @@ Fixes to the English that survive a re-publish go in
 - **German left in the English**, each to be read: *Königl.* (9454: 39, 200;
   3570), *Münze* in "4000 Rthl in Münze" (9454, 40: coin as against Courant),
   and a few street names and personal names that may rightly stay.
-- **Summaries of Oe 1 Bü 14525 and 14526** (74 documents) were written from
-  the English and never had the claim-by-claim check the other holdings had.
-  Redoing them the way the others were done was a paid run, estimated at
-  $5-10, deferred by the editor (2026-10-02). It can now be done in a
-  working session at no cost (offered 2026-10-07, not yet answered); done
-  that way it does not yield the paid run's list of suspected slips.
 
 ## Glossary
 

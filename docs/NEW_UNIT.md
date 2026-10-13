@@ -138,6 +138,12 @@ Oe 1 Bü 9454, document 303, the older one.
   of each line (`holding.py --xlsx`).
 - **The English** is the same table with the heading and the common words
   translated; names stay as written unless the edition has settled a form.
+- **When the editor has checked it**, take their spreadsheet back
+  (`holding.py --take <file> --apply`: their cells and their "Doubt"
+  column), list what they changed in the holding's `notes.md`, and write
+  the clean workbook to keep into the unit's folder (`holding.py
+  --archive`). `docs/WORKING_NOTES.md`, "Taking back a spreadsheet the
+  editor has checked".
 
 ## 2. Build, and read what it says
 

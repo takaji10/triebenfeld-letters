@@ -18,7 +18,7 @@ In 1796 the King gave the confiscated estate of Trąbczyn to Prince Friedrich Lu
 
 ### Form and language
 
-The heading of the table is printed, in German. It stands on a taller leaf that lies behind the written leaves and shows above each of them, so that one heading serves every page. The entries are in one clerk's hand. He wrote the kinds of place in German script and the names in Latin script. The names are Polish, in his spelling, and a number of them are shortened ("Kurow Grab:", "Nowa wieś Trąmpcz."). In every line the men and women add up to the sum given, and the lines of each page add up to its total. <!-- context -->
+The heading of the table is printed, in German. It stands on a taller leaf that lies behind the written leaves and shows above each of them, so that one heading serves every page. The entries are in one clerk's hand. He wrote the kinds of place in German script and the names in Latin script. The names are Polish, in his spelling, and a number of them are shortened ("Kurow Grab:", "dito Szyman."). In every line the men and women add up to the sum given, and the lines of each page add up to its total. <!-- context -->
 
 ### Related holdings
 

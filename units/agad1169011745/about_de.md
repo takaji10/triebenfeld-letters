@@ -18,7 +18,7 @@ Preußen bildete die Provinz Südpreußen aus den polnischen Gebieten, die es in
 
 ### Form und Sprache
 
-Der Kopf der Tabelle ist gedruckt, in deutscher Sprache. Er steht auf einem höheren Blatt, das hinter den beschriebenen Blättern liegt und über jedem von ihnen sichtbar ist, so dass ein Kopf für alle Seiten dient. Die Einträge stammen von der Hand eines Schreibers. Er schrieb die Art der Orte in deutscher Schrift und die Namen in lateinischer Schrift. Die Namen sind polnisch, in seiner Schreibung, und einige sind gekürzt („Kurow Grab:“, „Nowa wieś Trąmpcz.“). In jeder Zeile ergeben Männer und Frauen die angegebene Summe, und die Zeilen jeder Seite ergeben deren Seitensumme. <!-- context -->
+Der Kopf der Tabelle ist gedruckt, in deutscher Sprache. Er steht auf einem höheren Blatt, das hinter den beschriebenen Blättern liegt und über jedem von ihnen sichtbar ist, so dass ein Kopf für alle Seiten dient. Die Einträge stammen von der Hand eines Schreibers. Er schrieb die Art der Orte in deutscher Schrift und die Namen in lateinischer Schrift. Die Namen sind polnisch, in seiner Schreibung, und einige sind gekürzt („Kurow Grab:“, „dito Szyman.“). In jeder Zeile ergeben Männer und Frauen die angegebene Summe, und die Zeilen jeder Seite ergeben deren Seitensumme. <!-- context -->
 
 ### Verwandte Bestände
 

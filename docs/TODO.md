@@ -318,39 +318,40 @@ NEEDS_CONFIRMATION.md.
       languages) up to date: done 2026-10-05 (thirteen holdings in four
       archives, 464 documents, 1,529 pages, 609 marks of doubt, all
       translated as drafts). The home page's span is now generated.
-- [ ] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
-      holdings' were done. No longer a paid run: it can be done in a working
-      session, as every holding since 2026-10-04 has been (74 documents,
-      a few hours). Offered on 2026-10-07; you have not said.
+- [x] Redo the summaries of Oe 1 Bü 14525 and 14526 the way the other
+      holdings' were done: done in a working session on 2026-10-08, at your
+      word. 74 documents read whole in the German, summarised in German, the
+      English translated from it, 394 statements checked. On the way one date
+      was corrected against the scan (14525, document 7: 1801, not 1804).
+      You ruled on 2026-10-09: the dates of 14525, documents 13 and 21,
+      stay as they are, and the name in 14526, document 26, is Kriede.
 - [ ] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
       on the Zagorow estates" is in (section 4 above).
 
-## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added 2026-10-13, not published)
+## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added, checked and published 2026-10-13)
 
 Six pages of a Prussian table of the villages around Konin: 164 places,
 Trąbczyn among them, with their houses, churches and inhabitants. There was
-no transcription; the table was read from your three scans in the session.
-It is built on the local site as a table, with a summary, an English
-version and its own page. Details: `units/agad1169011745/notes.md`.
+no transcription; the table was read from your three scans in the session
+and you checked every line of it. Details: `units/agad1169011745/notes.md`.
 
-- [ ] **You: check the table** on the spreadsheet
-      `review/agad1169011745/table_check.xlsx`. Each line of the table has a
-      picture of that line of the scan beside it. Correct a cell where the
-      scan has something else and save the file. The figures add up in
-      every line and on every page, so the names are what needs your eye:
-      35 lines have a note saying what is in doubt, and six names carry
-      "[?]".
-- [ ] Your corrections worked in (`holding.py --take`), the English, the
-      summary and the page brought into line.
-- [ ] **You: one question on the spreadsheet.** The clerk ends a shortened
-      name with a tailed stroke ("Grab" + stroke + colon). It is written as
-      a period, or as his colon. Say if you want it shown another way.
-- [ ] **You: place the folds** of the three openings on the fold page
-      (`review/agad1169011745/folds/index.html`).
-- [ ] **You: say when to publish.**
+- [x] You checked the table on the spreadsheet (2026-10-13): 25 names
+      corrected, the six "[?]" taken away, no figure changed.
+- [x] Your corrections worked in; the English and the holding's page
+      brought into line. Two periods you had dropped with the "[?]" were
+      put back from the scan ("Leysce.", "Lęka.").
+- [x] The clerk's tailed stroke stays a period, or his colon. "Szyman." is
+      short for Szymanowice (you, 2026-10-13); the text keeps the short
+      form and a note on the line says so.
+- [x] The folds stand as proposed (you, 2026-10-13).
+- [x] The clean spreadsheet to keep:
+      `units/agad1169011745/AGAD_1_169_0_1_1745_table.xlsx` (the table as
+      written, the table in English, and a sheet on the source).
+- [x] Published at your word on 2026-10-13, with the summaries of Oe 1 Bü
+      14525 and 14526 from the cloud session.
 - [ ] **You: whether you want** the modern name of each of the 164 villages
       added (nothing identifies them yet), and a sentence on the table in
       the account of the Hohenlohe-Ingelfingen years.

@@ -110,22 +110,24 @@ so check them.
 
 ## Where things stand (2026-10-13)
 
-- **One holding is built and committed but NOT published: AGAD
-  1/169/0/1/1745** (slug `agad1169011745`, added 2026-10-13), "Die neuesten
-  topografischen Nachrichten von Südpreussen": six pages of a Prussian
-  table of the villages around Konin, of about 1797 (entries 140 to 303,
-  Trąbczyn is 291), one document, a table. There was no transcription: the
-  table was read from the scans in session. The reading is
-  `units/agad1169011745/intake/table.csv`; the text, the English, the
-  summary and the editor's spreadsheet are made from it by
-  `intake/holding.py` (read its docstring and the unit's `notes.md`
-  first). **It waits for the editor's check** of
-  `review/agad1169011745/table_check.xlsx` (their corrections come back
-  with `holding.py --take <file> --apply`), their folds, and their word to
-  publish. `docs/TODO.md`, section 9. The edition's figures already count
-  it (566 documents, 37 holdings, 725 marks of doubt): do not publish
-  anything else from `main` without saying that this holding goes with it.
-- **Everything else is published and pushed (2026-10-08).** The last sitting (2026-10-07 and 10-08) published the
+- **Everything is published and pushed (2026-10-13).** The edition has
+  566 documents in 37 holdings and 719 marks of doubt. All four cloud
+  branches are in `main`.
+- **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and
+  published 2026-10-13), "Die neuesten topografischen Nachrichten von
+  Südpreussen": six pages of a Prussian table of the villages around
+  Konin, of about 1797 (entries 140 to 303, Trąbczyn is 291), one document,
+  a table. There was no transcription: the table was read from the scans
+  in session, and the editor then checked every line on a spreadsheet with
+  a picture of each line (25 names corrected, no mark of doubt left, no
+  figure changed) and let the folds stand. The reading is
+  `units/agad1169011745/intake/table.csv`; the text, the English and the
+  clean spreadsheet to keep (`AGAD_1_169_0_1_1745_table.xlsx` in the
+  unit's folder) are made from it by `intake/holding.py` (read its
+  docstring and the unit's `notes.md` first). "Szyman." in it is short for
+  Szymanowice (editor). Nothing waits on the editor; offered and not
+  answered: modern names for the 164 villages, a sentence in the era essay.
+- **The sitting of 2026-10-07 and 10-08** published the
   twenty-one Prusimski-era holdings, put that era on the timeline (sixteen
   events, 1589 to 1788, and a band where each era begins;
   `site/_data/timeline.yml`, `site/_includes/timeline.html`), and worked in
@@ -133,10 +135,16 @@ so check them.
   (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289": text made
   from the old text, the editor's new transcription and the scans; English
   and summaries follow; the editor settled ten words on a spot sheet).
-  The published edition has 565 documents in 36 holdings and 719 marks of
-  doubt.
-  Open offer, unanswered: redo the summaries of Oe 1 Bü 14525 and 14526 in
-  session (no longer a paid run).
+  The edition then had 565 documents in 36 holdings.
+- **The summaries of Oe 1 Bü 14525 and 14526 were written again** at the
+  editor's word (2026-10-08, cloud session): read whole in the German,
+  summarised in German, English from the German, claim-checked (212 and 182
+  statements; each holding's `intake/summaries_draft.py` and
+  `intake/claim_check.yml`, "Summaries" in its `notes.md`). Every holding's
+  summaries have now had the check. One date corrected against the scan
+  (14525, doc. 7) and one name (14526, doc. 26: Kriede, editor 2026-10-09);
+  the dates of 14525, docs 13 and 21, stay as they are (editor). Merged
+  into `main` and published on 2026-10-13.
 - **Spot sheets** (`pipeline/review/queries.py`): a sheet can run across
   holdings (a `unit` column), ask for a decision (a `summary` column) and
   show a picture of a line (an `image` column). `docs/WORKING_NOTES.md`,
@@ -337,9 +345,6 @@ so check them.
 - The fifteen summaries of Nr. 3709 were claim-checked in session on
   2026-10-05 (`units/ihagrrep7cnr3709/intake/claim_check.yml`): every
   holding's summaries written from the German have now had the check.
-- Deferred by the editor: redoing the 14525/14526 summaries the way the other
-  holdings' were. It can be done in session now, at no cost; offered
-  2026-10-07, not yet answered.
 - Open before wider sharing: the archives' permission for the scans; the
   editor's full name for the licences (`site/_data/rights.yml` and `LICENSE`).
 - Everything else open is in `docs/NEEDS_CONFIRMATION.md`.

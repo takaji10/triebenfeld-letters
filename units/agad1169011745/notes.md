@@ -5,12 +5,14 @@ South Prussia, with the houses, churches and inhabitants of each. Added on
 2026-10-12 and 13 at the editor's request: the pages cut from three scans,
 the table read from the scans in the working session (there was no
 transcription), built as a table, summarised in both languages, given an
-English version and its page. **Not yet published, and not yet checked by
-the editor**: their check is on the spreadsheet
-`review/agad1169011745/table_check.xlsx`.
+English version and its page. **Checked by the editor line by line and
+published at their word on 2026-10-13.**
 
 Everything about how the holding was made is in the docstring of
-`intake/holding.py`. The reading itself is `intake/table.csv`.
+`intake/holding.py`. The reading itself is `intake/table.csv`. The clean
+spreadsheet of the table, to keep, is `AGAD_1_169_0_1_1745_table.xlsx` in
+this folder (`holding.py --archive`): the table as written, the table in
+English, and a sheet on the source and the conventions.
 
 ## Provenance
 
@@ -32,9 +34,10 @@ for the volume. Nothing on the six pages gives a date or names the district.
   showing above each of them. The editor: "the headers stay the same on
   each page". It is transcribed once, at the head of the first page; the
   site repeats it over every page of the table.
-- **Folds** are first proposals (3122, 2625, 2632), read off strips of the
-  gutter. The fold page is `review/agad1169011745/folds/index.html`; the
-  editor has not placed them yet.
+- **Folds** (3122, 2625, 2632) were read off strips of the gutter. The
+  editor looked at them on the fold page and let them stand (2026-10-13:
+  "The folds look fine as you set them"). There is no `intake/folds.json`;
+  the numbers in `holding.py` are the ones in use.
 
 ## The table
 
@@ -57,27 +60,77 @@ is an inference and is written as one wherever it is said.
 - **Kind of place and name in one cell.** On the page they stand in one
   ruled column, the kind in German script (Dorf, Haul., Mühle, Vorw.,
   Kloster, Krug, Alt Haul.), the name in Latin script. `table.csv` and the
-  spreadsheet keep them in two columns so each can be checked.
+  spreadsheets keep them in two columns so each can be checked.
 - **Figures.** The stop after each figure and number is left out. The
   clerk's dash in an empty column is "—".
 - **The tailed stroke.** The clerk ends a shortened name with a stroke that
   drops below the line, like a z with a tail, mostly followed by a colon or
   a period: "Grab" + stroke + colon, "Szyman" + stroke + period. It is an
-  abbreviation sign and not a letter (Grabieński, Szymanowski and Kramski
-  have no z there). It is given as a period, or as the colon where he set
-  one: "Kurow Grab:", "dito Szyman.", "Police Kramsk.". In "d° d° Grod."
-  and "Tarnowa Brud." the same stroke could be read as the letter z
-  (Grodz., Brudz.); they are given like the rest. **One question for the
-  editor**, on the spreadsheet: whether they want the stroke shown some
-  other way.
-- **Diacritics** are given where a mark is on the page (Ląd, Małoszyn,
-  Myśliborz, Trąpczyn) and not supplied where there is none (Lagiewniki,
-  Krolewska, Lomow).
-- **Doubt.** Six names carry "[?]": Leysce (156), Lubinia (168), Bienna
-  (182), Groice (184), Piskoszew (221), wsrzednie (229). `table.csv` has a
-  note on these and on 29 other lines (a letter that could be one of two, a
-  figure written over another). The notes are in the spreadsheet beside
-  each line.
+  abbreviation sign and not a letter. It is given as a period, or as the
+  colon where he set one: "Kurow Grab:", "dito Szyman.", "Police Kramsk.".
+  The editor was asked whether they wanted it shown another way; they
+  checked the table with it and changed nothing about it, and their own
+  corrections follow it ("Groi."). It stands.
+- **"Szyman." is short for Szymanowice** (the editor, 2026-10-13). "dito
+  Szyman." (193) is the Nowa wieś of Szymanowice, which is itself entry
+  280. The text keeps the short form; the note on the line says what it
+  stands for.
+- **Diacritics** are given where a mark is on the page and not supplied
+  where there is none. The editor's check added the marks the first reading
+  had missed or doubted (Kuźnica, Koźmin, Łomow, Myżakow, Ołszyny, Ośiek,
+  Ośiecza, Pępoćin, Rudźica, Sługoćin, Wardężynek): the clerk marks a c, s
+  or z before an i, which modern Polish does not, and it is kept.
+- **No mark of doubt is left.** The notes still in the last column of
+  `table.csv` describe the page (a name shortened with the tailed sign, a
+  name entered twice); the editor cleared every note that was a doubt.
+
+## The editor's check (2026-10-13)
+
+The editor went through `review/agad1169011745/table_check.xlsx` (each line
+beside a picture of the same line of the scan), corrected 25 names, took
+away the six "[?]" and cleared 24 notes of doubt. No figure was changed. It
+came back with `holding.py --take <file> --apply`.
+
+| No. | First reading | The editor |
+|---|---|---|
+| 143 | Kuznica Janisz: | Kuźnica Janisz: |
+| 144 | d° Kozmin: | d° Koźmin: |
+| 156 | Leysce[?]. | Leysce. |
+| 158 | Lęzec. | Lęka. |
+| 166 | Lomow. | Łomow. |
+| 168 | Lubinia[?] wielka | Lubinia wielka |
+| 182 | d° Bienna[?]. | d° Bienna. |
+| 184 | Mokre Groice[?] | Mokre Groice |
+| 188 | Myzakow. | Myżakow. |
+| 189 | Myzakowskie | Myżakowskie |
+| 194 | dito Trąmpcz. | dito Trąmpczyn. |
+| 204 | Olszyny. | Ołszyny. |
+| 205 | Osiek mały. | Ośiek mały. |
+| 207 | Osiecza. | Ośiecza. |
+| 217 | Pępocin | Pępoćin |
+| 221 | Piskoszew[?]. | Piskoszew. |
+| 229 | d° wsrzednie[?] | d° wsrzednie |
+| 246 | Rudzica | Rudźica |
+| 254 | Sięszyce. | Siąszyce. |
+| 255 | Siekierzyn. | Siekierszyn. |
+| 256 | Sięszew. | Sierszew. |
+| 261 | Sługocin | Sługoćin |
+| 262 | Sługocinek | Sługoćinek |
+| 282 | d° d° Grod. | d° d° Groi. |
+| 297 | Wardęzynek. | Wardężynek. |
+
+Three things about it that a later session should know:
+
+- **Two periods were put back from the scan.** The editor's cells for 156
+  and 158 came back as "Leysce" and "Lęka", without the period that stands
+  after both names on the page; it went with the "[?]" when the cell was
+  retyped. They are "Leysce." and "Lęka.". The editor was told.
+- **194, "dito Trąmpczyn."** The page has "Trąmpczy" and the tailed sign;
+  the first reading had missed the y. The editor writes the n the sign
+  stands for. Their form is kept and the note on the line says what is on
+  the page. The same sign in 283 follows "Trąpcz" and stays "Trąpcz.".
+- **158, "Lęka."** The first reading saw more letters after the k
+  ("Lęzec" or "Lękec"). The editor's reading stands.
 
 ## The check of the figures
 
@@ -85,8 +138,9 @@ is an inference and is written as one wherever it is said.
 up to the sum, the two sums to the total, and the lines of each page to its
 Latus in all nine columns. All hold. This is the witness for the figures:
 a misread digit breaks a sum. On the first reading nothing had to be
-corrected for it. Figures written over others, which the sums confirm: the
-sum of 149, the women of 213, the sum of 281, the total of 166.
+corrected for it, and the editor's check changed no figure. Figures written
+over others, which the sums confirm: the sum of 149, the women of 213, the
+sum of 281, the total of 166.
 
 ## Worth knowing from the reading
 
@@ -98,12 +152,13 @@ sum of 149, the women of 213, the sum of 281, the total of 166.
   houses, 271 people, larger than the village.
 - Two entries are both "Międzylesie." (176 and 177), with different
   figures.
-- "Nowa wieś" has four entries (192 to 195), told apart by a shortened
-  second word: "Bru.", "Szyman.", "Trąmpcz.", "Wierzchy". The edition's
-  Nowawies (the place entry `nowawies-trabczyn`) is 194. The index finds
-  the place through the words "Nowa wieś" on line 192, which is another
-  village; the document does name the edition's one two lines on.
-- "Stara Huta" has three (281 to 283): "Lukom.", "Grod.", "Trąpcz.".
+- "Nowa wieś" has four entries (192 to 195), told apart by a second word:
+  "Bru.", "Szyman.", "Trąmpczyn.", "Wierzchy". The edition's Nowawies (the
+  place entry `nowawies-trabczyn`) is 194. The index finds the place
+  through the words "Nowa wieś" on line 192, which is another village; the
+  document does name the edition's one two lines on. The English has
+  "Nowawies" in 192 for the same reason (the edition's rule for the name).
+- "Stara Huta" has three (281 to 283): "Lukom.", "Groi.", "Trąpcz.".
 - Places of the edition found by the index: Trąbczyn, Łukom, Szetlewek
   (which also takes Szetlew), Świątniki, Oleśnica, Swięcia, Osiny, Skokum,
   Lądek, Nowawies. "Kurow Koninsk." is not the town of Konin and the
@@ -119,15 +174,17 @@ page's total); `publish_translations.py` accepts an English table whose
 heading is translated. Oe 1 Bü 9454, document 303, the only other table,
 comes out as before.
 
+## A later correction
+
+A name or figure is changed in `intake/table.csv`; then `holding.py --write
+--english --cache --archive`, `publish_translations.py --unit
+agad1169011745`, and a rebuild. The summary, `about.md` and
+`intake/claim_check.yml` cite entries 151, 152, 171, 251, 278, 279, 291 and
+292: change them with the table. `holding.py --xlsx` writes the checking
+spreadsheet again and refuses while the editor's file is in `review/`.
+
 ## Still to do
 
-1. **The editor's check** of the spreadsheet. Their corrections come back
-   with `holding.py --take <file> --apply`, then `--write --english
-   --cache`, `publish_translations.py`, the summary and `about` texts if a
-   figure or name they cite changed, and a rebuild. The count of "[?]" is
-   given by hand in `process.md`, `process_de.md` and these notes.
-2. **The folds**, on the fold page.
-3. **Publishing**, at the editor's word.
-4. Not done, and for the editor to say whether they want them: the modern
-   name of each village (nothing here identifies the 164 places), and a
-   sentence on the table in the era essay.
+Nothing waits on the editor. Offered on 2026-10-13 and not answered: the
+modern name of each village (nothing here identifies the 164 places), and a
+sentence on the table in the account of the Hohenlohe-Ingelfingen years.

@@ -130,7 +130,7 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 725 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 719 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
@@ -157,7 +157,7 @@ gewöhnliches Deutsch, ergibt aber in ihrem Satz keinen Sinn und ist vermutlich 
 
 Jedes Dokument hat eine kurze Zusammenfassung, die beim Auffinden hilft. Sie ist ein
 Findmittel und kein Teil des Textes. Die Zusammenfassungen wurden von einem KI-Modell
-entworfen. In den meisten Beständen wurden sie aus der Originalsprache geschrieben, und
+entworfen. In jedem Bestand wurden sie aus der Originalsprache geschrieben, und
 jede Aussage wurde danach am Dokument geprüft; die Seite jedes Bestands sagt, wie seine
 Zusammenfassungen entstanden sind.
 

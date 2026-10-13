@@ -7,6 +7,7 @@
     ... --xlsx        the spreadsheet for the editor's check (review/<slug>/)
     ... --take FILE   read the editor's spreadsheet back: what differs from table.csv
     ... --take FILE --apply    and write those differences into table.csv
+    ... --archive     the clean spreadsheet of the table, to keep (the unit's folder)
     ... --write       page files and corpus.txt from table.csv
     ... --english     write translation/doc1.yml
     ... --cache       put it into the translation cache
@@ -55,7 +56,27 @@ rows.json has, for every line, where it stands on its scan (the height of
 the line and the slant of the page). It is only used to cut the picture of
 each line that the spreadsheet shows; nothing in the edition depends on it.
 
-The folds are read off strips of the gutter; first proposals for the editor.
+The folds are read off strips of the gutter. The editor looked at them on
+the fold page and let them stand (2026-10-13).
+
+The editor's check (2026-10-13). They went through the checking
+spreadsheet line by line against the pictures of the scan, changed 25 names
+(mostly a mark on a letter: Kuźnica, Łomow, Myżakow, Ośiek, Pępoćin,
+Sługoćin; and Lęka, Siąszyce, Siekierszyn, Sierszew, Groi., Trąmpczyn.),
+took the six "[?]" away and cleared the doubts they had settled. No figure
+changed. It came back with --take --apply, which also takes their "Doubt"
+column as the notes of table.csv: what is left there describes the page and
+is no longer a doubt. Two things were set by hand afterwards, both from the
+scan: the period after "Leysce." (156) and after "Lęka." (158), which went
+with the "[?]" when the cells were retyped. notes.md lists all 25.
+
+The editor: "Szyman." (193, "dito Szyman.") is short for Szymanowice, which
+is itself entry 280. The text keeps the clerk's short form.
+
+--xlsx would write the checking spreadsheet again over the file the editor
+saved; it refuses while that file is there. --archive writes the clean
+workbook from table.csv: the table as written, the table in English, and a
+sheet on the source and the conventions; no pictures, no formulas.
 """
 import csv
 import io
@@ -75,7 +96,7 @@ REF = 'AGAD 1/169/0/1/1745'
 RAW = (r"J:\Documents\Archive\Genealogy\References\Central Archives of Historical Records in Warsaw (AGAD)"
        r"\Die neuesten topografischen Nachrichten von Südpreussen (1.169.0.1.1745) (1797)")
 
-# (file, x of the fold, left page, right page). First proposals.
+# (file, x of the fold, left page, right page). Let stand by the editor, 2026-10-13.
 SCANS = [
     ('401-402.jpg', 3122, '0401_a1', '0402_a2'),
     ('403-404.jpg', 2625, '0403_a1', '0404_a2'),
@@ -108,8 +129,9 @@ KIND_EN = {'Dorf': 'Village', 'Haul.': 'Hollander settlement', 'Alt Haul.': 'Old
            'Mühle': 'Mill', 'Vorw.': 'Demesne farm', 'Kloster': 'Monastery', 'Krug': 'Inn', 'd°': 'ditto', '': ''}
 # Names the edition has settled take its form in the English; every other
 # name stands as the clerk wrote it. "Nowa wieś Bru." (192) is not the
-# edition's Nowawies, which is entry 194, and stays as written.
-NAME_EN = (('Trąpczyn', 'Trąbczyn'), ('Swiątniki', 'Świątniki'))
+# edition's Nowawies, which is entry 194 ("dito Trąmpczyn."), and stays as
+# written here; the edition's rule for the name turns it at publishing.
+NAME_EN = (('Trąpczyn', 'Trąbczyn'), ('Trąmpczyn', 'Trąbczyn'), ('Swiątniki', 'Świątniki'))
 
 
 def table():
@@ -174,16 +196,20 @@ def read_source():
     return parts
 
 
+def en_words(s):
+    """A name cell in English: the doubtful word marked as elsewhere, ditto, the edition's settled names."""
+    s = re.sub(r'(\S+)\[\?\]', r'[uncertain: \1]', s)
+    for old, new in (('d°', 'ditto'), ('dito', 'ditto')) + NAME_EN:
+        s = s.replace(old, new)
+    if s.startswith('Latus '):
+        s = 'Page total ' + s[len('Latus '):]
+    return s
+
+
 def english():
     """The table in English, page by page: the heading and the kinds of place translated, the names as written."""
     def en_name(r):
-        s = name_cell(r, KIND_EN)
-        s = re.sub(r'(\S+)\[\?\]', r'[uncertain: \1]', s)        # the doubtful word, marked as elsewhere
-        for old, new in (('d°', 'ditto'), ('dito', 'ditto')) + NAME_EN:
-            s = s.replace(old, new)
-        if s.startswith('Latus '):
-            s = 'Page total ' + s[len('Latus '):]
-        return s
+        return en_words(name_cell(r, KIND_EN))
     pages = {}
     for r in table():
         pid = PAGE_ID[r['page']]
@@ -225,6 +251,9 @@ def row_pictures(out_dir, scale=0.5, height=132):
 
 
 def xlsx(rows):
+    path = os.path.join(ROOT, 'review', SLUG, XLSX)
+    if os.path.exists(path) and '--again' not in sys.argv:
+        sys.exit('%s is there, and may be the file the editor corrected. Move it away, or add --again.' % path)
     from openpyxl import Workbook
     from openpyxl.drawing.image import Image as XLImage
     from openpyxl.formatting.rule import CellIsRule
@@ -333,10 +362,10 @@ def take(path, apply):
         def s(x):
             return '' if x is None else str(x).strip()
         fig = ['-' if s(x) in ('—', '-', '') else str(int(float(s(x)))) for x in v[4:13]]
-        got.append(dict(zip(['page', 'no', 'kind', 'name'] + FIGURES + ['remark'],
-                            [s(v[0]), s(v[1]), s(v[2]), s(v[3])] + fig + [s(v[15])])))
+        got.append(dict(zip(['page', 'no', 'kind', 'name'] + FIGURES + ['note', 'remark'],
+                            [s(v[0]), s(v[1]), s(v[2]), s(v[3])] + fig + [s(v[14]), s(v[15])])))
     assert len(got) == len(rows), 'the spreadsheet has %d lines, table.csv %d' % (len(got), len(rows))
-    changed = 0
+    changed = notes = 0
     for old, new in zip(rows, got):
         label = old['no'] or old['name']
         for k in ['page', 'no', 'kind', 'name'] + FIGURES:
@@ -347,17 +376,142 @@ def take(path, apply):
                     old[k] = new[k]
         if new['remark']:
             print('  %-10s remark    %s' % (label, new['remark']))
-    print(changed, 'cell(s) differ from table.csv')
+        if old['note'] != new['note']:          # the editor clears a doubt they have settled
+            notes += 1
+            if apply:
+                old['note'] = new['note']
+    print(changed, 'cell(s) differ from table.csv;', notes, 'note(s) cleared or changed in the "Doubt" column')
     bad = check(rows if apply else [dict(o, **{k: n[k] for k in FIGURES}) for o, n in zip(rows, got)])
     for b in bad:
         print('  does not add up:', b)
-    if apply and changed:
+    if apply and (changed or notes):
         with io.open(os.path.join(HERE, 'table.csv'), 'w', encoding='utf-8', newline='') as f:
             w = csv.DictWriter(f, fieldnames=list(rows[0]), lineterminator='\n')
             w.writeheader()
             w.writerows(rows)
         print('table.csv written. Clear a doubt in its last column where the remark settles it; then --write, '
               '--english, --cache and rebuild.')
+
+
+# ---------------------------------------------------------------- the spreadsheet to keep
+
+ARCHIVE = 'AGAD_1_169_0_1_1745_table.xlsx'
+ABOUT = [
+    ('Source', 'Archiwum Główne Akt Dawnych (AGAD), Warsaw, 1/169/0/1/1745, "Die neuesten topografischen Nachrichten '
+               'von Südpreussen". Fonds 1/169/0: Generalne Dyrektorium. Departament Prus Południowych. The archive '
+               'dates the volume 1797.'),
+    ('What is here', 'Six pages of the volume, numbered 401 to 406 in pencil: entries 140 to 303 of an alphabetical '
+                     'table of villages, from Kurow to Wierzbna, with the total of each page ("Latus 6." to '
+                     '"Latus 11."). The pages name no district and carry no date; the places lie around Konin.'),
+    ('The sheets', '"Table" is the table as it is written. "English" is the same table with the heading and the '
+                   'kinds of place in English; the names stand as written, except Trąbczyn and Świątniki, which '
+                   'take the form the edition uses.'),
+    ('The heading', 'Printed, on a leaf that lies behind the written leaves and shows above each of them: one '
+                    'heading serves every page. "Männlichen" and "weiblichen" share the one word "Geschlechts" on '
+                    'the page; each column is given the whole phrase.'),
+    ('Kind of place and name', 'They stand in one column of the page ("Nahmen der Dörfer"), the kind in German '
+                               'script (Dorf, Haul., Mühle, Vorw., Kloster, Krug, Alt Haul.), the name in Latin '
+                               'script. They are in two columns here. A line without a kind has none on the page.'),
+    ('Figures', 'The stop the clerk sets after every figure is left out. "—" is his dash in an empty column.'),
+    ('Shortened names', 'The clerk ends a shortened name with a tailed stroke, often with a colon or a period after '
+                        'it. It is given as a period, or as his colon: "Kurow Grab:", "dito Szyman.". "Szyman." '
+                        'is short for Szymanowice (entry 280). "d°" and "dito" repeat the word above.'),
+    ('Spelling', 'Names are spelt as on the page, with the marks the clerk set on the letters and no others.'),
+    ('The sums', 'In every line the men and women add up to the sum and the two sums to the total, and the lines of '
+                 'each page add up to its "Latus" in all nine columns.'),
+    ('How it was made', 'Read from the scans by Claude (Anthropic) in a working session, 12 and 13 October 2026; '
+                        'every line then checked against the scan by the editor of the edition, 13 October 2026, '
+                        'who corrected 25 names.'),
+    ('Page and Note', 'The columns "Page" and "Note" are added by the edition. "Page" is the pencil number of the '
+                      'page.'),
+]
+
+
+def archive(rows):
+    """The table to keep: as written, in English, and what a reader of the file needs to know. Values only."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Border, Font, Side
+    from openpyxl.utils import get_column_letter as L
+    assert not check(rows), 'the table does not add up'
+    assert not any('[?]' in r['name'] for r in rows), 'a name still carries [?]'
+    bold, grey = Font(bold=True), Font(italic=True, color='666666')
+    thin, medium = Side(style='thin', color='999999'), Side(style='medium')
+    centre = Alignment(horizontal='center', vertical='center', wrap_text=True)
+    wb = Workbook()
+    wb.properties.title = '%s: Die neuesten topografischen Nachrichten von Südpreussen, pages 401 to 406' % REF
+    wb.properties.creator = 'takaji10'
+    top = 5                                              # the first line of the heading
+
+    def sheet(ws, head, kinds, words, line3):
+        ws['A1'] = 'Die neuesten topografischen Nachrichten von Südpreussen'
+        ws['A1'].font = Font(bold=True, size=14)
+        ws['A2'] = ('Archiwum Główne Akt Dawnych, Warsaw, 1/169/0/1/1745 (Generalne Dyrektorium. Departament Prus '
+                    'Południowych)')
+        ws['A3'] = line3
+        for i, h in enumerate(head):
+            for j, t in enumerate(h):
+                if t and j >= 2:
+                    ws.cell(top + i, 3 + j, t)
+        ws.cell(top + 2, 1, 'Page')
+        ws.cell(top + 2, 2, head[2][0])
+        ws.cell(top + 2, 3, head[2][1])
+        ws.cell(top + 2, 14, 'Note')
+        ws.merge_cells('C%d:D%d' % (top + 2, top + 2))
+        for a in ('E', 'F', 'M'):                        # labels with nothing under them
+            ws.merge_cells('%s%d:%s%d' % (a, top, a, top + 2))
+        ws.merge_cells('G%d:L%d' % (top, top))
+        ws.merge_cells('G%d:I%d' % (top + 1, top + 1))
+        ws.merge_cells('J%d:L%d' % (top + 1, top + 1))
+        for i in range(3):
+            for j in range(1, 15):
+                c = ws.cell(top + i, j)
+                c.alignment = centre
+                c.font = grey if j in (1, 14) else bold  # the two columns the edition adds
+                if i == 2:
+                    c.border = Border(bottom=medium)
+        ws.row_dimensions[top + 2].height = 48
+        n = top + 3
+        for r in rows:
+            ws.cell(n, 1, int(r['page'])).font = grey
+            if r['no']:
+                ws.cell(n, 2, int(r['no']))
+            ws.cell(n, 3, kinds[r['kind']])
+            ws.cell(n, 4, words(r['name']))
+            for j, k in enumerate(FIGURES):
+                ws.cell(n, 5 + j, '—' if r[k] == '-' else int(r[k])).alignment = Alignment(horizontal='right')
+            if r['note']:
+                ws.cell(n, 14, r['note']).font = grey
+            if not r['no']:                              # the total of the page
+                for j in range(2, 14):
+                    ws.cell(n, j).font = bold
+                    ws.cell(n, j).border = Border(top=thin, bottom=thin)
+            n += 1
+        for j, wd in enumerate([6, 6, 24, 26] + [12] * 9 + [70], 1):
+            ws.column_dimensions[L(j)].width = wd
+        ws.freeze_panes = 'E%d' % (top + 3)
+        ws.print_title_rows = '%d:%d' % (top, top + 2)
+        ws.page_setup.orientation = 'landscape'
+        ws.sheet_properties.pageSetUpPr.fitToPage = True
+        ws.page_setup.fitToWidth, ws.page_setup.fitToHeight = 1, 0
+
+    ws = wb.active
+    ws.title = 'Table'
+    sheet(ws, HEAD, {k: k for k in KIND_EN}, lambda s: s,
+          'Pages 401 to 406: entries 140 to 303, as written. The sheet "About" says how.')
+    sheet(wb.create_sheet('English'), HEAD_EN, KIND_EN, en_words,
+          'Pages 401 to 406: entries 140 to 303, in English; the names as written. The sheet "About" says how.')
+    ab = wb.create_sheet('About')
+    ab['A1'] = '%s: about this table' % REF
+    ab['A1'].font = Font(bold=True, size=14)
+    for i, (k, t) in enumerate(ABOUT, 3):
+        ab.cell(i, 1, k).font = bold
+        ab.cell(i, 1).alignment = Alignment(vertical='top', wrap_text=True)
+        ab.cell(i, 2, t).alignment = Alignment(vertical='top', wrap_text=True)
+        ab.row_dimensions[i].height = 15 * (1 + len(t) // 105)
+    ab.column_dimensions['A'].width, ab.column_dimensions['B'].width = 26, 110
+    path = os.path.join(UNIT_DIR, ARCHIVE)
+    wb.save(path)
+    print('wrote', path)
 
 
 # ---------------------------------------------------------------- the summaries
@@ -384,6 +538,8 @@ def main():
         courtbook.fold_sheet(ROOT, SLUG, REF, RAW, courtbook.placed(HERE, SCANS), (), LEAF, note=FOLD_NOTE)
     if '--xlsx' in arg:
         xlsx(rows)
+    if '--archive' in arg:
+        archive(rows)
     if '--take' in arg:
         take(arg[arg.index('--take') + 1], '--apply' in arg)
     if '--write' in arg:

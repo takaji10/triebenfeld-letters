@@ -22,4 +22,4 @@ A scribe often wrote the first word of the next page at the foot of a page. Thes
 
 ### Summaries and translation
 
-The model translated each document into English and wrote the summaries from the translations. These summaries were not put through the second, separate checking run that was used for the holdings added later.
+The model translated each document into English. The summaries were first written from those translations. In October 2026 they were written again, in German, from a reading of each document in its German text, and each of their 212 statements was then checked against the document. All held as finally worded; where a statement rested on a word not read with certainty, it was cut or left general. The English summaries are translations of the German.

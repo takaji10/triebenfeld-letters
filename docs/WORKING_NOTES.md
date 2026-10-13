@@ -138,6 +138,13 @@ Where the rest is:
   depend on the unread letters** and can be checked, and that reasoning is
   given to them in a sentence. So "A[lvensleben]" in I. HA GR, Rep. 7 C,
   Nr. 1414: the initial is read, the name comes from his office.
+- **A signature in the same document is a witness for a name** (editor,
+  2026-10-09). In Oe 1 Bü 14526, document 26, "Der Schütze Reise" was left
+  as transcribed because the downscaled scan did not settle it, although the
+  protocol is signed "Jacob Kriede" and another letter names him Kriede. The
+  editor: it should be Kriede. Where the same document signs or names the
+  person plainly, propose the correction with that witness instead of
+  leaving the reading.
 - **Old rulings are candidates, not decisions.** Readings carried over from an
   earlier transcription, and the editor's own standardised names, can be
   wrong (Beugelin was Beguelin). A signature or a second source outranks them.
@@ -564,6 +571,69 @@ Where the rest is:
   adding a list of places, read every place the index finds in it.
 - **`uncanonical_names.py` dies on the desktop console** when a hit has a
   Polish letter (cp1252). Run it with `PYTHONIOENCODING=utf-8`.
+- **Taking back a spreadsheet the editor has checked** (AGAD 1/169/0/1/1745,
+  2026-10-13). Four things the first version of `holding.py --take` did not
+  allow for:
+  - The editor clears a doubt by emptying the "Doubt" cell, and may shorten
+    one. Take that column back as well as the data, or the notes of the
+    reading keep doubts the editor has settled.
+  - Taking a "[?]" out of a cell, the editor retypes it and a period after
+    the name can go with it ("Leysce[?]." came back as "Leysce"). Look at
+    every changed cell that lost its last character against the scan, put
+    the period back if it is on the page, and say so in the report.
+  - The editor may write out what an abbreviation sign stands for
+    ("Trąmpczyn." where the page has "Trąmpczy" and the sign). Keep their
+    form and say in the line's note what is on the page.
+  - The script that made the spreadsheet must not be able to write over the
+    file they saved (`--xlsx` now refuses while it is there). The record of
+    their changes is a table in the holding's `notes.md`, not the
+    spreadsheet, which is in `review/` and not in the repository.
+- **"A clean, archival version of the spreadsheet"** (editor, 2026-10-13)
+  is a workbook in the unit's folder, tracked: the table as written, the
+  table in English (the editor does not read German headings), and a sheet
+  saying what the source is, how it is written down and who read and
+  checked it. Values only: no pictures, formulas, check columns or colours
+  (`holding.py --archive`).
+- **"Update the table to the site"**, said together with their corrections
+  and "the folds look fine", was taken as the editor's word to publish
+  (2026-10-13). "The site" in the editor's mouth is the live one.
+
+## Merging a cloud branch on the desktop
+
+Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
+cloud branches").
+
+- **See first which branches have anything.** `git fetch --prune`, then for
+  each remote branch `git rev-list --count main..origin/<branch>`. Of four
+  cloud branches one was ahead of `main`; the other three were already in
+  it.
+- **Conflicts fall in the generated files** (`site/assets/cards.json`,
+  `search-index.json`, `site/_data/glossary.yml`, `glossary_hits.json`),
+  because both sides rebuilt them, and in "Where things stand" in
+  `CLAUDE.md`. Take the desktop's copy of the generated files
+  (`git checkout --ours`) and let the rebuild write them; settle
+  `CLAUDE.md` by hand.
+- **Before any rebuild, bring the desktop's cache up to the cloud's work.**
+  The cloud cannot write `cache/`. For summaries written there, run the
+  holding's `intake/summaries_draft.py` on the desktop: it writes the cache
+  files as well, and leaves the committed files unchanged (check with
+  `git status`). Corrections to the English made there are in
+  `reference/english_corrections.yml` and survive a republish.
+- **Then rebuild each holding the branch touched** (`regenerate.py --unit
+  <slug>`), the site once, and read `git status` for files of any other
+  holding.
+- `relabel_scans.py` reports three labels to update in Oe 1 Bü 14526
+  (scans 0167 to 0169, from the merging of documents 30 to 32). It has said
+  so since that merge, the site checks pass with it, and it was left alone.
+
+## Traps in this shell (2026-10-13)
+
+- A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
+  is quoted. Write any script that holds prose with the Write tool and run
+  the file.
+- The session's scratch folder can be withdrawn in the middle of a sitting.
+  One-shot scripts worth a second look go into `scratch/` at the project
+  root, which git ignores.
 
 ## The English, the summaries and the claim check
 
@@ -596,6 +666,25 @@ Where the rest is:
   there, and in `intake/translation/doc<N>.yml` (with its `marker_count`).
   Then `write_cache.py <N>`, `check_translations.py`,
   `publish_translations.py`.
+- **Summaries written again for a holding already published** (Oe 1 Bü 14525
+  and 14526, 2026-10-08). Read each document whole in `corpus/text/<pad>.txt`
+  (the German part, above `--- SUMMARY`), write the German, translate it, then
+  hold every statement to a quoted line in `intake/claim_check.yml`. Two free
+  checks catch most slips before the file is closed: every quoted fragment
+  must occur in the document's text, and every figure in a summary must occur
+  in the document (a sum written out in words, "Sechs und Siebenzig Tausend",
+  shows up as missing and is read). Where several copies of one deed stand in
+  a holding, summarise what each copy says: two copies of the grant of 1796
+  leave out villages the original names. The holding's `summaries_draft.py`
+  writes the site's two summary files itself, and passes the English through
+  `numerals.group_digits`, or `english_forms.py --apply` and a re-run of the
+  script undo each other. Run `english_forms.py` (without `--apply`) after
+  writing English summaries: it also fixes name spellings (Tietz is Titz).
+- **The site's downscaled scans settle a word in the cloud.** The raw scans
+  are on the editor's machine, but `site/assets/scans/` (about 1100 px wide)
+  is in the repository and readable enough for a date or a dropped line: crop
+  the part of the page with PIL and look at it. It settled "1801" in 14525,
+  document 7. It is not enough for a doubtful name; leave those to the editor.
 - **After publishing English, read the holding's glossary matches.** English
   "entails" and "cession" drew false glossary marks and were reworded. The
   checker forbids "hypothec" in English, Latin "sub hypotheca" included.
@@ -628,6 +717,14 @@ Where the rest is:
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
   not touched.
+- **Building on Linux rewrites the desktop's CRLF files as LF.** In the cloud,
+  `build_db.py`, `merge_corpus.py`, `build_dataset.py` and
+  `build_site_data.py` rewrote 180 generated files whose committed form is
+  CRLF (`letters.json`, `corpus/text/`, `corpus/documents/`), so `git diff`
+  showed 68,000 changed lines for 500 real ones. Compare each changed file
+  with `git show HEAD:<file>` ignoring carriage returns: restore it if equal,
+  otherwise rewrite it with the line endings HEAD had. `git diff --stat` and
+  `git diff --ignore-cr-at-eol --stat` must then agree.
 - **Scripts with backslashes or apostrophes are written to a file and then
   run** (broken four more times on 2026-10-06, each time by a regex in a
   heredoc: there is no exception for "a short one"). In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`
