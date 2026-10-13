@@ -1,0 +1,90 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: agad1169011745
+ref: 1/169/0/1/1745
+archive: Archiwum Główne Akt Dawnych, Warszawa (AGAD)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  Six pages of a table of villages drawn up for the Prussian administration
+  of South Prussia about 1797: for each of 164 places around Konin, among
+  them Trąbczyn and its Hollander settlement, the number of houses and
+  churches and of Christian and Jewish inhabitants.
+title_de: >-
+  Sechs Seiten einer Tabelle der Dörfer, die um 1797 für die preußische
+  Verwaltung Südpreußens angelegt wurde: für jeden von 164 Orten um Konin,
+  darunter Trąbczyn und sein Hauland, die Zahl der Häuser und Kirchen und
+  der christlichen und jüdischen Einwohner.
+# The archive's own title of the volume. Kept for reference; nothing displays it.
+archive_title: >-
+  Die neuesten topografischen Nachrichten von Südpreussen
+fonds: Generalne Dyrektorium. Departament Prus Południowych
+# The pages carry no date; 1797 is the archive's date for the volume, as the
+# editor gave it (2026-10-12).
+date_span: "1797"
+status: translated        # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. The table was made
+# in the first year after the King gave Trąbczyn to Hohenlohe-Ingelfingen.
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: agad-warszawa
+
+# Three images, each an opening of two pages of the table: the pages numbered
+# 401 to 406 in pencil. intake/holding.py cuts them at the fold into
+# raw_dir/processed/. Page ids carry the pencil number and the side of the
+# opening: 0401_a1, 0402_a2, 0403_a1, 0404_a2, 0405_a1, 0406_a2.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Central Archives of Historical Records in Warsaw (AGAD)/Die neuesten topografischen Nachrichten von Südpreussen (1.169.0.1.1745) (1797)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: AGAD_1_169_0_1_1745
+
+# One file per page, named by page id (0401_a1.txt). Made by intake/holding.py
+# from intake/table.csv, the reading of the table.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Six pages of a statistical table from the files of the South Prussian
+  department of the General Directory in Berlin, the central authority that
+  governed the Polish lands Prussia took in 1793 and 1795. The table lists
+  the villages of a district in alphabetical order; the six pages hold
+  entries 140 to 303, from Kurow to Wierzbna, and the places lie around
+  Konin. Under a printed heading each entry gives its number, the kind of
+  place and its name, the number of houses and of churches, the Christians
+  and the Jews, each counted as male and female and summed, and the total
+  of all persons. Each page ends with its own total, headed "Latus" and
+  numbered 6 to 11. The heading and the kinds of place are German; the
+  names are Polish, in the clerk's spelling. The archive dates the volume
+  1797; the pages carry no date and no name of a district.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  The document is a table and is transcribed as one: each line of the text
+  is a line of the table, its cells separated by commas. The kinds of place
+  are abbreviated: "Haul." is Hauland, a Hollander settlement; "Vorw." is
+  Vorwerk; "d°" and "dito" repeat the word above. "Latus" is the total of
+  one page. A dash stands where the clerk left a column empty. The names of
+  the villages are Polish names in a German clerk's spelling, many of them
+  shortened ("Kurow Grab:", "Nowa wieś Trąmpcz."), and stay as written.
+  "Trąpczyn" and "Trąmpcz." are Trąbczyn.

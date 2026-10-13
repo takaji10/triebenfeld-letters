@@ -1,0 +1,27 @@
+# The claim check of the German summary of AGAD 1/169/0/1/1745, made in
+# session on 2026-10-13 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run.
+#
+# Result: 13 statements, all supported. One rests on the names and not on a
+# statement of the table: that the places lie around Konin. It is kept
+# because the three places it names are on the pages and their position is
+# not in doubt; the summary says in its last sentence that the table itself
+# names no district. Where a figure is cited the row is given by its number;
+# if the editor's check of the table changes a figure, the summary and this
+# file change with it.
+
+agad1169011745-001:
+- {claim: "Sechs Seiten einer Tabelle der Dörfer", verdict: supported, where: "pp. 1-6; heading: Nahmen der Dörfer"}
+- {claim: "aus den Akten der preußischen Verwaltung Südpreußens", verdict: supported, where: "the holding (fonds: Generalne Dyrektorium, Departament Prus Południowych); not stated on the pages"}
+- {claim: "die Einträge 140 bis 303 eines alphabetischen Verzeichnisses, von Kurow bis Wierzbna", verdict: supported, where: "p. 1: 140, Dorf Kurow Grab: ... p. 6: 303, Dorf Wierzbna"}
+- {claim: "die genannten Orte, darunter Ląd mit seinem Kloster, Lądek und Rzgow, liegen um Konin", verdict: supported, where: "nos. 151 (Kloster Ląd.), 152 (Dorf Lądek.), 251 (Dorf Rzgow.); the position is from the names"}
+- {claim: "unter einem gedruckten Kopf: Art des Ortes, Name, Häuser, Kirchen, Christen und Juden nach Geschlecht, summiert", verdict: supported, where: "p. 1, heading: Anzahl der Häuser, Anzahl der Kirchen, Menschen-Zahl, Christen, Juden, Summa aller Menschen"}
+- {claim: "Dorf, Hauland, Mühle, Vorwerk, Kloster, Krug", verdict: supported, where: "nos. 140 (Dorf), 150 (Haul.), 148 (Mühle), 179 (Vorw.), 151 (Kloster), 235 (Krug)"}
+- {claim: "jede Seite schließt mit ihrer eigenen Summe, überschrieben Latus und von 6 bis 11 gezählt", verdict: supported, where: "the last line of each page: Latus 6. ... Latus 11."}
+- {claim: "Trąbczyn, geschrieben Trąpczyn, Eintrag 291: 32 Häuser, 1 Kirche, 165 Einwohner, 51 männlich und 114 weiblich", verdict: supported, where: "no. 291: Trąpczyn., 32, 1, 51, 114, 165"}
+- {claim: "sein Hauland, Eintrag 292: 34 Häuser, 271 Einwohner", verdict: supported, where: "no. 292: Haul. dito., 34, 137, 134, 271"}
+- {claim: "Szetlew: 11 Häuser, 84 Einwohner", verdict: supported, where: "no. 278"}
+- {claim: "Szetlewek: 20 Häuser, 140 Einwohner, darunter 4 Juden", verdict: supported, where: "no. 279: 20, 70, 66, 136, 2, 2, 4, 140"}
+- {claim: "Łukom: 28 Häuser, 149 Einwohner", verdict: supported, where: "no. 171"}
+- {claim: "die Seiten tragen kein Datum und nennen den Kreis nicht", verdict: supported, where: "pp. 1-6"}

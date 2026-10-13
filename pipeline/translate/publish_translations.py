@@ -84,11 +84,18 @@ def english_table(tbl_de, segs):
         return None
 
     def figures(t):
-        rows = t['head'][1:] + [r for pg in sorted(t['pages']) for r in t['pages'][pg]] + t['foot']
+        rows = [r for pg in sorted(t['pages']) for r in t['pages'][pg]] + t['foot']
         return [[c.strip() for k, c in enumerate(r) if k != 1] for r in rows]
+
+    def heading(t):
+        # The words of a heading are translated (Christen, Christians); what
+        # must stay is which cells hold a label, since that is what places
+        # each label over its columns.
+        return [[bool(c.strip()) for c in r] for r in t['head']]
 
     if ({pg: len(r) for pg, r in tbl['pages'].items()}
             != {pg: len(r) for pg, r in tbl_de['pages'].items()}
+            or heading(tbl) != heading(tbl_de)
             or figures(tbl) != figures(tbl_de)):
         return None
     return {pg: unitlib.render_table(tbl, pg) for pg in tbl['pages']}

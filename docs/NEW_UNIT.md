@@ -119,6 +119,26 @@ letters with the office's own writing on them, photographed as openings:
   `pages: by_paragraph:`. Every line then begins a paragraph, and the page
   says how it was transcribed.
 
+### A holding that is a table
+
+AGAD 1/169/0/1/1745 (a table of villages, 2026-10-13) is the model, and
+Oe 1 Bü 9454, document 303, the older one.
+
+- **The text is the table.** Each line of `corpus.txt` is one row, its cells
+  separated by commas, on the `[PAGE ...]` it stands on; the document is
+  listed under `documents: tables:` in `rulings.yml` and is a `register`.
+  The heading rows open the first page, one row for each level of the
+  heading (a label stands over the blanks that follow it). A row with no
+  number between the entries is a page's own total.
+- **Keep the reading in one file** (`intake/table.csv`) and make the page
+  files, the corpus, the English and the checking spreadsheet from it with
+  the holding's script.
+- **Check the sums** in every row and on every page before anything else is
+  built on the figures, and give the editor the spreadsheet with a picture
+  of each line (`holding.py --xlsx`).
+- **The English** is the same table with the heading and the common words
+  translated; names stay as written unless the edition has settled a form.
+
 ## 2. Build, and read what it says
 
 ```

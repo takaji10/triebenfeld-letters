@@ -327,3 +327,30 @@ NEEDS_CONFIRMATION.md.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
       on the Zagorow estates" is in (section 4 above).
+
+## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added 2026-10-13, not published)
+
+Six pages of a Prussian table of the villages around Konin: 164 places,
+Trąbczyn among them, with their houses, churches and inhabitants. There was
+no transcription; the table was read from your three scans in the session.
+It is built on the local site as a table, with a summary, an English
+version and its own page. Details: `units/agad1169011745/notes.md`.
+
+- [ ] **You: check the table** on the spreadsheet
+      `review/agad1169011745/table_check.xlsx`. Each line of the table has a
+      picture of that line of the scan beside it. Correct a cell where the
+      scan has something else and save the file. The figures add up in
+      every line and on every page, so the names are what needs your eye:
+      35 lines have a note saying what is in doubt, and six names carry
+      "[?]".
+- [ ] Your corrections worked in (`holding.py --take`), the English, the
+      summary and the page brought into line.
+- [ ] **You: one question on the spreadsheet.** The clerk ends a shortened
+      name with a tailed stroke ("Grab" + stroke + colon). It is written as
+      a period, or as his colon. Say if you want it shown another way.
+- [ ] **You: place the folds** of the three openings on the fold page
+      (`review/agad1169011745/folds/index.html`).
+- [ ] **You: say when to publish.**
+- [ ] **You: whether you want** the modern name of each of the 164 villages
+      added (nothing identifies them yet), and a sentence on the table in
+      the account of the Hohenlohe-Ingelfingen years.

@@ -245,6 +245,16 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
+- **AGAD 1/169/0/1/1745** (the table of villages of about 1797, added
+  2026-10-13): the whole reading is Claude's, from the scans, and waits for
+  the editor's check on `review/agad1169011745/table_check.xlsx`. The
+  figures are held by the table's own sums; the names are not. Six names
+  carry "[?]" (Leysce, Lubinia, Bienna, Groice, Piskoszew, wsrzednie) and 29
+  more lines have a note in `units/agad1169011745/intake/table.csv`. Open
+  with it: how the clerk's tailed abbreviation stroke is to be shown (now a
+  period, or his colon); that the district is Konin (inferred from the
+  places, not stated on the pages); and the date, 1797, which is the
+  archive's for the volume and is on no page.
 - Words left as written for want of a witness, one list per holding, in
   `review/<slug>/unresolved.md`: Oe 1 Bü 9454, III. HA MdA, III Nr. 12765,
   I. HA GR, Rep. 7 C, Nr. 3705, Oe 1 U 199, 53/71/0/-/57.

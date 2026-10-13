@@ -427,6 +427,8 @@ table.ledger .name { text-align: left; }
 table.ledger .num { text-align: right; white-space: nowrap; }
 table.ledger tbody tr:nth-child(even) { background: var(--paper-2); }
 table.ledger tfoot td { border-top: 2px solid var(--rule); font-weight: 600; }
+/* A page's own total, between the entries. */
+table.ledger tbody tr.sum td { border-top: 2px solid var(--rule); font-weight: 600; }
 /* The page image itself. */
 .scan-link { display: block; text-decoration: none; }
 img.scan {

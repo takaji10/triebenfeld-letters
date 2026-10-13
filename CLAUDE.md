@@ -108,10 +108,24 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-08)
+## Where things stand (2026-10-13)
 
-- **Everything is published and pushed (2026-10-08).** Nothing is held
-  locally. The last sitting (2026-10-07 and 10-08) published the
+- **One holding is built and committed but NOT published: AGAD
+  1/169/0/1/1745** (slug `agad1169011745`, added 2026-10-13), "Die neuesten
+  topografischen Nachrichten von Südpreussen": six pages of a Prussian
+  table of the villages around Konin, of about 1797 (entries 140 to 303,
+  Trąbczyn is 291), one document, a table. There was no transcription: the
+  table was read from the scans in session. The reading is
+  `units/agad1169011745/intake/table.csv`; the text, the English, the
+  summary and the editor's spreadsheet are made from it by
+  `intake/holding.py` (read its docstring and the unit's `notes.md`
+  first). **It waits for the editor's check** of
+  `review/agad1169011745/table_check.xlsx` (their corrections come back
+  with `holding.py --take <file> --apply`), their folds, and their word to
+  publish. `docs/TODO.md`, section 9. The edition's figures already count
+  it (566 documents, 37 holdings, 725 marks of doubt): do not publish
+  anything else from `main` without saying that this holding goes with it.
+- **Everything else is published and pushed (2026-10-08).** The last sitting (2026-10-07 and 10-08) published the
   twenty-one Prusimski-era holdings, put that era on the timeline (sixteen
   events, 1589 to 1788, and a band where each era begins;
   `site/_data/timeline.yml`, `site/_includes/timeline.html`), and worked in
@@ -119,7 +133,8 @@ so check them.
   (`units/oe1bu9454/notes.md`, "Rescans of letters 245 and 289": text made
   from the old text, the editor's new transcription and the scans; English
   and summaries follow; the editor settled ten words on a spot sheet).
-  The edition has 565 documents in 36 holdings and 719 marks of doubt.
+  The published edition has 565 documents in 36 holdings and 719 marks of
+  doubt.
   Open offer, unanswered: redo the summaries of Oe 1 Bü 14525 and 14526 in
   session (no longer a paid run).
 - **Spot sheets** (`pipeline/review/queries.py`): a sheet can run across

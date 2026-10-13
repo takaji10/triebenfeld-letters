@@ -421,9 +421,13 @@ def render_table(tbl, page_no):
 
     The first two columns are the entry number and the name; the rest are
     amounts. The first header row carries the column groups (Gold, Courant), a
-    label opening a group and the blanks after it continuing it; the second
-    carries the units. The title heads the first page, the closing rows (the
-    Summa) close the last.
+    label opening a group and the blanks after it continuing it; the last
+    carries the units. A heading of more than two levels has a row for each
+    level between them (Menschen-Zahl, then Christen and Juden, then the
+    sexes); a label with nothing under it reaches down to the last row. The
+    title heads the first page, the closing rows (the Summa) close the last.
+    A row between the entries that has no number, a page's own total, is set
+    off like the closing rows.
     """
     import html
     rows = tbl['pages'].get(page_no) or []
@@ -445,22 +449,48 @@ def render_table(tbl, page_no):
     if page_no == min(tbl['pages']) and tbl['caption']:
         out.append(f'<caption>{html.escape(tbl["caption"])}</caption>')
     if head:
-        top, sub = pad(head[0]), pad(head[-1])
-        grp = []
-        i = 2
-        while i < ncol:
-            j = i + 1
-            while j < ncol and not top[j].strip():
-                j += 1
-            grp.append(f'<th colspan="{j - i}" class="grp">{html.escape(top[i].strip())}</th>')
-            i = j
-        out.append('<thead><tr>'
-                   f'<th rowspan="2" class="no">{html.escape(sub[0].strip())}</th>'
-                   f'<th rowspan="2" class="name">{html.escape(sub[1].strip())}</th>'
-                   + ''.join(grp) + '</tr>')
-        out.append('<tr>' + ''.join(f'<th class="num">{html.escape(c.strip())}</th>'
-                                    for c in sub[2:]) + '</tr></thead>')
-    out.append('<tbody>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in rows) + '</tbody>')
+        hrows = [pad(r) for r in head] if len(head) > 1 else [pad(head[0])] * 2
+        n = len(hrows)
+        # end[i][j]: one past the last column of the cell that stands over
+        # column j in row i; taken[i][j]: that cell began in a row above.
+        end = [[ncol] * ncol for _ in hrows]
+        taken = [[False] * ncol for _ in hrows]
+        for i, r in enumerate(hrows):
+            ths = []
+            if i == 0:
+                ths.append(f'<th rowspan="{n}" class="no">{html.escape(hrows[-1][0].strip())}</th>'
+                           f'<th rowspan="{n}" class="name">{html.escape(hrows[-1][1].strip())}</th>')
+            j = 2
+            while j < ncol:
+                if taken[i][j]:
+                    j += 1
+                elif i == n - 1:
+                    ths.append(f'<th class="num">{html.escape(r[j].strip())}</th>')
+                    j += 1
+                else:
+                    # A group reaches over the blanks after it, inside the
+                    # group above it, and down while nothing stands under it.
+                    bound = end[i - 1][j] if i else ncol
+                    k = j + 1
+                    while k < bound and not r[k].strip() and not taken[i][k]:
+                        k += 1
+                    down = 1
+                    while i + down < n and not any(hrows[i + down][c].strip() for c in range(j, k)):
+                        down += 1
+                    for d in range(down):
+                        for c in range(j, k):
+                            end[i + d][c] = k
+                            taken[i + d][c] = d > 0
+                    span = f' rowspan="{down}"' if down > 1 else ''
+                    ths.append(f'<th colspan="{k - j}"{span} class="grp">{html.escape(r[j].strip())}</th>')
+                    j = k
+            out.append(('<thead>' if i == 0 else '') + '<tr>' + ''.join(ths) + '</tr>'
+                       + ('</thead>' if i == n - 1 else ''))
+
+    def tr(r):
+        # a row between the entries without a number: a page's own total
+        return f'<tr class="sum">{cells(r, "td")}</tr>' if not pad(r)[0].strip() else f'<tr>{cells(r, "td")}</tr>'
+    out.append('<tbody>' + ''.join(tr(r) for r in rows) + '</tbody>')
     if foot and page_no == max(tbl['pages']):
         out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot) + '</tfoot>')
     out.append('</table></div>')
@@ -492,7 +522,7 @@ def table_rows_in_page(page_html):
     return [_table_cells(re.findall(r'<td[^>]*>(.*?)</td>', tr, re.S))
             for v in views
             for part in re.findall(r'<t(?:body|foot)>(.*?)</t(?:body|foot)>', v, re.S)
-            for tr in re.findall(r'<tr>(.*?)</tr>', part, re.S)]
+            for tr in re.findall(r'<tr[^>]*>(.*?)</tr>', part, re.S)]
 
 
 def require_fresh_corpus(*extra):

@@ -593,6 +593,9 @@ places:
     display: "Konin"
     kind: town
     match: 'Konin\w*|Konińsk\w*'   # Powiatu Konińskiego (app5371057 doc 2)
+    # In the table of villages of 1797 "Kurow Koninsk." is a village's name,
+    # not the town.
+    not_in: [agad1169011745-1]
     tier: "Established"
     variants: []
 
@@ -1780,6 +1783,9 @@ places:
     display: "Ostrów"
     kind: town
     match: 'Ostr[oó]w(?![a-zà-ÿ])'
+    # In the table of villages of 1797 "Ostrow" is a village of three houses
+    # near Konin, not the town.
+    not_in: [agad1169011745-1]
     tier: "Established"
     variants: []
 

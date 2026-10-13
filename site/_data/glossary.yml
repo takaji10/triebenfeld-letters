@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 40
+  docs: 41
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 41
+  docs: 42
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -1993,7 +1993,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 95
+  docs: 96
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

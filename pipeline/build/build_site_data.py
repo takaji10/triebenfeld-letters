@@ -519,7 +519,9 @@ def main():
             # the table's rows for that page, in every text view, and is cited
             # by entry number rather than by the lines of a text export.
             _table = render_table(tbl, p['page']) if tbl else ''
-            _entries = [row[0].strip() for row in tbl['pages'].get(p['page'], [])] if _table else []
+            # numbered entries only: a page's own total has no number
+            _entries = [row[0].strip() for row in tbl['pages'].get(p['page'], [])
+                        if row and row[0].strip()] if _table else []
             body.append(f'<section class="ms-page" id="p{p["page"]}" '
                         f'data-page="{p["page"]}" '
                         f'data-lines="{p["doc_line_start"]}-{p["doc_line_end"]}">')

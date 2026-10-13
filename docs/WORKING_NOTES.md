@@ -525,6 +525,46 @@ Where the rest is:
   holding's `changes.yml` and is marked on the page; an entry that no longer
   holds ("not checked") is taken out, and the new entry says so.
 
+- **A table with no transcription, read from the scans in session** (AGAD
+  1/169/0/1/1745, 2026-10-13). What worked, in this order:
+  - Look at the top of the page before anything else. The heading was
+    printed on a leaf behind the written ones and was outside the first
+    crops; the editor's "the headers stay the same on each page" meant
+    that.
+  - Read each page in overlapping bands of six or seven lines at full
+    size, figures first. Then check the arithmetic before believing
+    anything: every line (men + women = sum, sums = total) and every page
+    against its "Latus", in every column. 164 lines and six page totals
+    held at the first reading; a misread digit cannot hide. Names have no
+    such witness: read them a second time on strips enlarged twice, and a
+    third time at three times for the doubtful ones.
+  - Keep the reading in one file (`intake/table.csv`) and make everything
+    from it: page files, corpus, the English table, the spreadsheet. A
+    correction is then made in one place.
+  - For the editor's check, a spreadsheet with a picture of each line of
+    the scan beside its row (`holding.py --xlsx`; row positions found from
+    the dark pixels of the figure columns, the slant of each page measured
+    and taken out), check formulas that turn to LOOK when a sum breaks,
+    and a way back (`--take`). It needs `openpyxl` (`pip install openpyxl`;
+    the row finder in the scratch folder also used `numpy`).
+  - The kind of place and the name share a column on the page: one cell in
+    the text, two columns in the spreadsheet.
+  - The site's table code took a two-level heading and one closing row.
+    It now takes any number of heading rows and sets off a row without a
+    number (`unitlib.render_table`); the English table may translate its
+    heading (`publish_translations.english_table` compares where the
+    labels stand, not their words).
+- **`courtbook.find_fold` looks between 40 and 60 per cent of the width.**
+  On a scan with a colour chart beside the book the fold lies outside that
+  and the function returns a ruled column line (2393 for a fold at 3122).
+  Read every fold off a strip, as the notes above say; here it mattered.
+- **A place pattern made for running text matches a village's by-name in a
+  list.** "Kurow Koninsk." was indexed as the town of Konin and the village
+  "Ostrow" as the town of Ostrów; both are shut out with `not_in`. After
+  adding a list of places, read every place the index finds in it.
+- **`uncanonical_names.py` dies on the desktop console** when a hit has a
+  Polish letter (cp1252). Run it with `PYTHONIOENCODING=utf-8`.
+
 ## The English, the summaries and the claim check
 
 - **Where one summary is kept.** Change all of them together:

@@ -1,0 +1,53 @@
+# Editorial rulings for AGAD 1/169/0/1/1745.
+#
+# One document: the six pages of the table of villages that the editor has,
+# with entries 140 to 303. What it is, and why, is in notes.md. Established
+# 2026-10-13.
+
+places:
+  # The pages name no place of writing.
+  overrides: {}
+
+dates:
+  # [year, month, day, precision]
+  read: {}
+  # The pages carry no date. 1797 is the archive's date for the volume
+  # ("Die neuesten topografischen Nachrichten von Südpreussen"), as the
+  # editor gave it with the scans (2026-10-12): a date assigned from outside
+  # the document, so `supplied`, not `read`.
+  supplied:
+    "1": [1797, null, null, "year"]
+  twin: {}
+  inferred: {}
+  no_date: []
+
+documents:
+  # `register` is the vocabulary's word for a document that is a table
+  # (Oe 1 Bü 9454, document 303; Oe 1 Bü 14525, documents 13 and 14).
+  doc_type:
+    "1": register
+
+  # The heading and the kinds of place are German; the names are Polish.
+  language:
+    "1": "de"
+
+  # Documents transcribed as a table: their text in corpus.txt is CSV, one row
+  # per line, each row on the [PAGE ...] it stands on. The site shows them as
+  # tables and checks every cell against the corpus.
+  tables: ["1"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  # The table covers a whole district; Trąbczyn (entries 291 and 292) is the
+  # estate the edition follows.
+  estates:
+    "1": [trabczyn]
+
+damage:
+  letters: []
+
+rough:
+  letters: []
