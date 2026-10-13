@@ -1,0 +1,27 @@
+One printed summons of 1860 in Polish, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) among the papers of Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a historian of the German settlements in central Poland. It is the copy that a court messenger handed to one of the colonists of the Trąbczyn estate, and is one document of five pages. <!-- context -->
+
+### Historical background
+
+Trąbczyn lay after 1815 in the Kingdom of Poland, under the Russian emperor; its courts used the Polish language and dated by both calendars, which is why the paper gives each day twice. The estate had belonged to Antoni Prusimski, Starost of Niszczewice. Prussia confiscated it after the rising of 1794 and the King gave it in 1796 to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, who sold and let land to settlers until he lost the estate in 1807, when the Governing Commission of the Duchy of Warsaw returned it to Prusimski's daughter Michalina Dąbska, later Countess Miączyńska: [[unit:agad1174016]]. The Polish courts afterwards held that her restoration had cancelled the debts Hohenlohe-Ingelfingen had raised on the estate: [[unit:iiihamdaiiinr12366]]. <!-- context -->
+
+The settlers of the estate were Olęders, in the print "holendrzy": colonists who held their land by contract with the owner, for rent, and whose rights in the owner's forest were set down in those contracts. By 1860 the estate belonged to Count Włodzimierz Miączyński. The paper does not say how he was related to Michalina Miączyńska. <!-- context -->
+
+### Contents
+
+The colonists on the Trąbczyn estate had sued Miączyński by a summons of 6/18 August 1859. This paper is his counterclaim. At his request the court messenger summons 97 numbered defendants, some of them widows for their children or the heirs of a dead colonist, to appear within eight days before the Civil Tribunal of the Warsaw Governorate at Kalisz: 80 of the Staro-Łazińska colony and 17 of the Nowo-Łazińska colony, both in the commune of Trąbczyn [[1]].
+
+Miączyński asks the court for eight things. The contract that Hohenlohe-Ingelfingen concluded with fourteen colonists on 18 May 1805, before his patrimonial court at Zagórów, is to be declared not binding on him. The right of pasture and of gathering wood in the Studzianka district of the Trąbczyn forest is to be awarded only to the holdings of a contract of 21 December 1828 between Michalina Miączyńska and seven colonists, or, if the court will not go so far, only to the fourteen holdings named in 1805. Experts are to say for how many cattle, and for how much wood on each day when gathering is allowed, measured by what one holding in one settler's hands would need. All other defendants are to be forbidden the forest [[1]].
+
+The grounds give the history as Miączyński's lawyers saw it. A privilege of 1746 from Paweł Prusimski and his wife Katarzyna allowed the Olęders pasture "by agreement", which the paper reads as an agreement of each settler with the owner. Hohenlohe-Ingelfingen's contract of 1805 sold fourteen Olęders 42 Hufen of forest and marsh and gave them free pasture and wood-gathering in the district then called Zarzyński. The return of the estate on 21 July 1807 annulled what Hohenlohe-Ingelfingen had undertaken, as the highest court held on 7 July 1826 against Weigel, a creditor who claimed interest on 200,000 Polish złoty lent on the estate. The contract of 1828 took over some terms of the contract of 1805 without confirming it. Since then the holdings have been divided among more settlers, with more hearths and cattle; a resolution of the Administrative Council of 1858 is cited against such division [[1]].
+
+On the fifth page the court messenger, Michał Piechowski, certifies that he handed this copy to Karolina Fridenberg in the Staro-Łazińska colony on 7/19 October 1860. The list of the summoned has a "Karolina Friedenberg, widow" as its number 34 [[1]].
+
+### Form and language
+
+Four pages are printed, on paper with a revenue stamp of 7½ kopecks at the head. One summons was printed for all the defendants, and the court messenger completed each copy by hand: the line in which he names himself, the name of the person served, the place and day, and his signature. On this copy he also corrected the printed list in pen. He struck out one name and wrote another in the margin, changed a letter in several names, and signed under the print beside a note of costs. The language is the legal Polish of the Kingdom of Poland, with German surnames in Polish spelling. <!-- context -->
+
+The family that this edition follows as Zelmer appears in the list as "Celmer": Henryk, August and Michał, and Anna Elżbieta, widow of Daniel, for her five children [[1]].
+
+### Related holdings
+
+The resolution of 1807 that returned the estate: [[unit:agad1174016]] and [[unit:agad11740273]]. Weigel's claim and the judgments on it: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingen's dealings with settlers in 1805 and 1806, from the same papers of Albert Breyer: [[unit:app539680801]]. The contract of 18 May 1805 itself, the contract of 1828 and the privilege of 1746 are not in the edition. <!-- context -->

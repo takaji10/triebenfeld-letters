@@ -111,6 +111,12 @@
   docs: 1
   span: "1810"
   letters: [{id: "211", uid: "oe1bu9454-211", url: "/documents/oe1bu9454/211/"}]
+- name: "Kolonia Staro-Łazińska"
+  slug: "kolonia-staro-lazinska"
+  count: 1
+  docs: 1
+  span: "1860"
+  letters: [{id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/"}]
 - name: "Konin"
   slug: "konin"
   count: 86

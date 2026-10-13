@@ -8,22 +8,24 @@
 {% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
 
 {%- comment -%}
-  The edition runs from 1589, but before 1794 only a few years have anything. From 1794 on every year
-  is a row; before it a year is a row only if it has documents or an event, and a mark stands where
-  years are passed over.
+  The edition runs from 1589 to 1860, but before 1794 and after 1832 only a few years have anything.
+  From 1794 to 1832 every year is a row; outside those years a year is a row only if it has documents
+  or an event, and a mark stands where years are passed over.
 {%- endcomment -%}
 {% assign evyears = ',' %}
 {% for e in site.data.timeline %}{% assign ey = e.date | slice: 0, 4 %}{% assign evyears = evyears | append: ey | append: ',' %}{% endfor %}
 {% assign prev = 0 %}
 
 <div class="timeline">
-  {% for year in (1589..1832) %}
+  {% for year in (1589..1860) %}
     {% assign ys = year | append: '' %}
     {% assign yrec = site.data.stats.years | where: "year", ys | first %}
     {% assign count = 0 %}
     {% if yrec %}{% assign count = yrec.count %}{% endif %}
     {% assign shown = true %}
-    {% if year < 1794 and count == 0 %}
+    {% assign thin = false %}
+    {% if year < 1794 or year > 1832 %}{% assign thin = true %}{% endif %}
+    {% if thin and count == 0 %}
       {% assign key = ',' | append: ys | append: ',' %}
       {% unless evyears contains key %}{% assign shown = false %}{% endunless %}
     {% endif %}

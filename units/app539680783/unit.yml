@@ -1,0 +1,129 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680783
+ref: 53/968/0/-/783
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  A printed summons served on 19 October 1860 on Karolina Fridenberg of the
+  Staro-Łazińska colony: Count Włodzimierz Miączyński, owner of Trąbczyn,
+  counterclaims before the Civil Tribunal at Kalisz against 97 colonists of
+  two colonies on his estate, to have the Prince of Hohenlohe-Ingelfingen's
+  contract of 1805 declared void and their pasture and wood-gathering in his
+  forest cut back to seven, or at most fourteen, holdings.
+title_de: >-
+  Eine gedruckte Vorladung, am 19. Oktober 1860 Karolina Fridenberg in der
+  Kolonie Staro-Łazińska zugestellt: Graf Włodzimierz Miączyński, Besitzer
+  von Trąbczyn, erhebt vor dem Zivilgericht in Kalisch Widerklage gegen 97
+  Kolonisten zweier Kolonien seines Gutes, um den Vertrag des Fürsten zu
+  Hohenlohe-Ingelfingen von 1805 für unwirksam erklären und ihre Weide und
+  ihr Holzsammeln in seinem Wald auf sieben, höchstens vierzehn Stellen
+  beschränken zu lassen.
+# The archivist's title on the cover, in square brackets there, as the editor
+# gave it. Kept for reference; nothing displays it.
+archive_title: >-
+  [Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w
+  Kaliszu w sporze kolonistów kolonii Staro-Łozińskiej i Nowo-Łozińskiej w
+  dobrach Trąbczyn osiadłych z Włodzimierzem Mieczyńskim, właścicielem tegoż
+  Trąbczyna, pow słupski]
+fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
+# The summons was served on 7/19 October 1860 (the two calendars of the
+# Kingdom of Poland).
+date_span: "1860"
+status: translated         # draft | transcribed | translated | published
+# The English was written in session on 2026-10-13 into the untagged cache
+# (cache/translation-raw): see notes.md.
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. By its date and
+# its parties it belongs to the Miączyński years ("restitution"), which is
+# not yet populated; it stands with the Hohenlohe-Ingelfingen years for now,
+# like the other holdings of 1807 and later, and the Prince's contract of
+# 1805 is what it is about. The editor rules (docs/NEEDS_CONFIRMATION.md).
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Four images from the archive, Image00004.jpg to Image00007.jpg: the cover,
+# page 1, and two openings (pages 2 and 3; page 4 and the note of service).
+# intake/holding.py --crop copies the two single pages and cuts the openings
+# at the fold into raw_dir/processed/: 0004_a (the cover), 0005_a, 0006_a1,
+# 0006_a2, 0007_a1, 0007_a2.
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Pozew dla Karoliny Fridenberg stawienia się przed Trybunałem Cywilnym w Kaliszu w sporze kolonistów (53.968.0.-.783)
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_968_0_783
+
+# One file per page, named by page id (0005_a.txt). Made from the editor's
+# single Markdown transcription by intake/holding.py, which records where the
+# text was cut and what was corrected against the scans.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  One printed legal paper of 1860 in Polish, from the papers of Albert Breyer
+  (1889-1939), a teacher and historian of the German settlements in central
+  Poland: a summons of four printed pages with a fifth page on which the
+  court summoner certifies its service, filled in and signed by hand. Count
+  Włodzimierz Miączyński, heir of Trąbczyn in the Pyzdry district of the
+  Kingdom of Poland, had been sued on 6/18 August 1859 by the colonists on
+  his estate. By this paper he counterclaims before the Civil Tribunal of
+  the Warsaw Governorate at Kalisz and has 97 named persons summoned, 80 of
+  the Staro-Łazińska colony and 17 of the Nowo-Łazińska colony. He asks the
+  court to declare that the contract of 18 May 1805 between the Prince of
+  Hohenlohe-Ingelfingen and fourteen colonists, made before the Prince's
+  patrimonial court at Zagórów, does not bind him; to award the servitude of
+  pasture and wood-gathering in the Studzianka district of the Trąbczyn
+  forest only to the seven holdings of the contract of 21 December 1828
+  between Michalina Countess Miączyńska and seven colonists, or at most
+  to the fourteen holdings of 1805; and to have
+  experts say for how many cattle and how much wood. The grounds recount the
+  privilege of 1746, the Prussian confiscation and the gift to the Prince,
+  the restoration of the estate to Michalina Dąbska on 21 July 1807, and the
+  judgment of 7 July 1826 against the creditor Weigel. This copy was served
+  on Karolina Fridenberg in the Staro-Łazińska colony on 7/19 October 1860
+  by the court summoner Michał Piechowski; the list has a widow Karolina
+  Friedenberg as its number 34.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  A printed court paper of the Kingdom of Poland of 1860, in the legal Polish
+  of the time and in its spelling (kolonji, processie, Juljanny; the print's
+  "é" is given as "e"). Dates are given in both calendars ("7/19
+  Października"). "Woźny" is the court summoner who serves the paper;
+  "Patronowie Trybunału" are the advocates admitted at the Tribunal;
+  "rekonwencyjnie" is by way of counterclaim, and the "powód
+  rekonwencyjny" is the Count. "SSrów" is "sukcesorów", the heirs of.
+  "Holendrzy" are the Hollanders of the edition, and "kolonja" in the
+  argument is one colonist's holding, not the settlement; "zbieranina" is
+  the gathering of fallen wood, a "dzień gajowy" a day on which it is
+  allowed; "rewir" is a district of the forest; "huba" is the Hufe;
+  "Regent" or "Rejent" is a notary; "okupni czynszownicy" are rent-payers
+  who hold by purchase; "dwór" and "dominja" are the manor. "K. P. S." is
+  the Kodeks Postępowania Sądowego; "d. j. w." is "dnia jak wyżej", date as
+  above. The print spells the family Prusimski "Prusiński" and the banker
+  Weigel "Wejgel"; "Celmer" is the Zelmer of the edition. In the list of
+  the summoned the names stand in the accusative: "Bogumiła Runge" is
+  Bogumił Runge, a man. A name in the margin of page 1 replaces a printed
+  name the summoner struck out. A word followed by [?] or written [word?] is
+  one read with doubt.

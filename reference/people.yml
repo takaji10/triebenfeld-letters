@@ -609,8 +609,10 @@ people:
     render: "Katarzyna Prusimska"
     # Only in the documents where "Prusimska" is she: elsewhere the name is
     # Michalina (prusimska). Add a document here when one of hers comes in.
-    match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])'
-    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14]
+    # "Katarzyna z Rozdrażewskich Prusińska" in the summons of 1860 (APP
+    # 53/968/0/-/783).
+    match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])|(?<=Rozdrażewskich )Prusińska'
+    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app539680783-1]
     tier: "Text-confirmed"
     variants: []
     identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The record of the inspection of Trąbczyn made at her request in July 1754 calls her widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates (APP 53/17/0/-/Konin Gr.136). Added 2026-10-06."
@@ -631,7 +633,11 @@ people:
     render: "Miączyński"
     # Masculine forms only: her names end in -a, his in -i or -y. "Madame
     # Mięczynsky" in the French letter of 1815 is she, and stays hers.
-    match: "(?<!Madame )(?:Mi[ąaęe]czy[nń]sk[iyÿ]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])"
+    # In the summons of 1860 (APP 53/968/0/-/783) "Hrabia Miączyński" and
+    # "Włodzimierz Miączyński" are the Count who then held Trąbczyn
+    # (miaczynski-wlodzimierz); Stanisław is named there once, in the
+    # genitive after his forename.
+    match: "(?<!Madame )(?<!Hrabia )(?:Mi[ąaęe]czy[nń]sk[iyÿ]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])|(?<=Stanisława )Mi[ąa]czy[nń]skiego"
     tier: "Text-confirmed (as her husband); forename user-provided via the register"
     identity: >-
       Stanisław Miączyński, second husband of Michalina Prusimska (married about
@@ -642,12 +648,25 @@ people:
     distinct_from: [prusimska]
     merge: false
     variants: []
+  miaczynski-wlodzimierz:
+    display: "Włodzimierz Miączyński"
+    render: "Włodzimierz Miączyński"
+    # Only in the summons of 1860, where the name without a forename is his.
+    match: '(?<!Stanisława )Mi[ąa]czy[nń]sk(?:iego|iemu|i)(?![a-zà-ÿ])'
+    only_in: [app539680783-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Count Włodzimierz Miączyński, heir of the Trąbczyn estate and living at Trąbczyn in 1860, who counterclaimed before the Civil Tribunal at Kalisz against 97 colonists of the Staro-Łazińska and Nowo-Łazińska colonies over pasture and wood-gathering in the Studzianka district of his forest (APP 53/968/0/-/783: 'Na żądanie Włodzimierza Hrabiego Miączyńskiego, dziedzica dóbr Trąbczyna'). The summons does not say how he was related to Michalina and Stanisław Miączyński."
+    distinct_from: [miaczynski]
+    merge: false
   prusimski:
     display: "Antoni Prusimski, Starost of Niszczewice"
     render: "Antoni Prusimski"
     # "Johann von Prusimski", whose inscription of 1673 charges an annuity on
     # Kolno (14525), is a different and earlier man, and is not matched.
-    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])"
+    # The summons of 1860 (APP 53/968/0/-/783) prints the family "Prusiński":
+    # "Antoniego Prusińskiego Starosty", "Antoniemu Prusińskiemu".
+    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu"
     # In the decree of 1728 (APP 53/6/0/-/40) "Prusimski" is Krzysztof, his
     # grandfather, and "Antonio Prusimski filio" the uncle of the same name:
     # prusimski-krzysztof.
@@ -677,8 +696,10 @@ people:
     render: "Paweł Prusimski"
     # Only in the document that names him: elsewhere "Prusimski" is the
     # Starost (prusimski) or Krzysztof (prusimski-krzysztof).
-    match: 'Pru[sz]+ie?mski(?![a-zà-ÿ])'
-    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7, app53170koningr118-23]
+    # "Paweł z Kolna Prusiński" in the summons of 1860 (APP 53/968/0/-/783),
+    # which recounts his privilege of 1746 for the Hollanders.
+    match: 'Pru[sz]+ie?mski(?![a-zà-ÿ])|(?<=Kolna )Prusiński'
+    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7, app53170koningr118-23, app539680783-1]
     tier: "Text-confirmed"
     variants: []
     identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). Antoni Prusimski, the Starost, calls him his paternal uncle in his protest of March 1778 ('apud olim Magnificum Paulum Prusimski, sui Manifestantis Patruum', APP 53/17/0/-/Konin Gr.117), where a contract of 1744 for oak timber between him and the townsman Jan Tracholz is the ground of a suit. A citation of 1782 names him among the sons of Krzysztof Prusimski and Teresa Golińska, with Jan, Bogumił, Antoni and Stefan, the Starost's father, and says that he died childless (APP 53/17/0/-/Konin Gr.118, document 23). Added 2026-10-07."
@@ -889,7 +910,8 @@ people:
     variants: []
   weigel:
     display: "Weigel"
-    match: "Weigel"
+    # "Wejgel", "Wejgla" in the Polish summons of 1860 (APP 53/968/0/-/783).
+    match: "Weigel|Wejg(?:el|la)"
     tier: "Context-inferred"
     variants: []
   winzingerode:

@@ -514,6 +514,18 @@ gewesen ([Antwort]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). De
 1832 wurde die Schätzung von Trąbczyn erneut angeordnet ([Schreiben]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). Die bisher
 veröffentlichten Dokumente zeigen nicht, ob Weigel bezahlt wurde.
 
+Das Urteil von 1826 wurde noch eine Generation später herangezogen, nun gegen die Siedler.
+1859 verklagten die Kolonisten von Trąbczyn den Besitzer des Gutes, Graf Włodzimierz
+Miączyński. Er antwortete im Oktober 1860 mit einer Widerklage gegen 97 von ihnen aus zwei
+Kolonien des Gutes. Ein Vertrag vom 18. Mai 1805 zwischen Hohenlohe-Ingelfingen und vierzehn
+Kolonisten hatte ihnen Wald und Bruch verkauft und ihnen freie Weide und das Holzsammeln in
+einem Teil seines Waldes gegeben. Miączyński verlangte vom Zivilgericht in Kalisch die
+Feststellung, dass dieser Vertrag ihn nicht binde, nach dem Grundsatz von 1826: Was
+Hohenlohe-Ingelfingen eingegangen war, sei mit seinem Titel gefallen, als das Gut 1807
+zurückgegeben wurde
+([Vorladung]({{ '/documents/app539680783/1/' | relative_url }})). Wie das Gericht entschied,
+ist in der Edition nicht überliefert.
+
 ## Die Personen, denen Sie immer wieder begegnen
 
 Auf Hohenlohe-Ingelfingens Seite verwaltet Glenck zuerst die Güter und erscheint später, in

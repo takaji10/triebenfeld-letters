@@ -1,0 +1,27 @@
+Eine gedruckte Vorladung von 1860 in polnischer Sprache, verwahrt im Staatsarchiv Posen (Archiwum Państwowe w Poznaniu) im Nachlass von Albert Breyer (1889-1939), Lehrer an der deutschen Schule in Sompolno und Erforscher der deutschen Siedlungen in Mittelpolen. Es ist das Exemplar, das ein Gerichtsbote einer Kolonistin des Gutes Trąbczyn aushändigte, und bildet ein Dokument von fünf Seiten. <!-- context -->
+
+### Historischer Hintergrund
+
+Trąbczyn lag nach 1815 im Königreich Polen, unter dem russischen Kaiser; dessen Gerichte verhandelten polnisch und datierten nach beiden Kalendern, weshalb das Schriftstück jeden Tag doppelt angibt. Das Gut hatte Antoni Prusimski gehört, dem Starosten von Niszczewice. Preußen konfiszierte es nach dem Aufstand von 1794, und der König schenkte es 1796 dem Fürsten Friedrich Ludwig zu Hohenlohe-Ingelfingen, der Land an Siedler verkaufte und verpachtete, bis er das Gut 1807 verlor: Die Regierungskommission des Herzogtums Warschau gab es Prusimskis Tochter Michalina Dąbska zurück, der späteren Gräfin Miączyńska: [[unit:agad1174016]]. Die polnischen Gerichte entschieden danach, ihre Wiedereinsetzung habe die Schulden aufgehoben, die Hohenlohe-Ingelfingen auf das Gut aufgenommen hatte: [[unit:iiihamdaiiinr12366]]. <!-- context -->
+
+Die Siedler des Gutes waren Olęder, im Druck „holendrzy“: Kolonisten, die ihr Land durch Vertrag mit dem Gutsherrn gegen Zins besaßen und deren Rechte im herrschaftlichen Wald in diesen Verträgen festgelegt waren. 1860 gehörte das Gut dem Grafen Włodzimierz Miączyński. Das Schriftstück sagt nicht, wie er mit Michalina Miączyńska verwandt war. <!-- context -->
+
+### Inhalt
+
+Die Kolonisten des Gutes Trąbczyn hatten Miączyński mit einer Vorladung vom 6./18. August 1859 verklagt. Dieses Schriftstück ist seine Widerklage. Auf seinen Antrag lädt der Gerichtsbote unter 97 Nummern die Beklagten, darunter Witwen für ihre Kinder und die Erben verstorbener Kolonisten, binnen acht Tagen vor das Zivilgericht des Gouvernements Warschau in Kalisch: 80 aus der Kolonie Staro-Łazińska und 17 aus der Kolonie Nowo-Łazińska, beide in der Gemeinde Trąbczyn [[1]].
+
+Miączyński stellt acht Anträge. Der Vertrag, den Hohenlohe-Ingelfingen am 18. Mai 1805 vor seinem Patrimonialgericht in Zagórów mit vierzehn Kolonisten schloss, soll für ihn unverbindlich erklärt werden. Das Recht auf Weide und Holzsammeln im Revier Studzianka des Trąbczyner Waldes soll nur den Stellen eines Vertrags vom 21. Dezember 1828 zwischen Michalina Miączyńska und sieben Kolonisten zugesprochen werden oder, falls das Gericht so weit nicht geht, nur den vierzehn Stellen von 1805. Sachverständige sollen sagen, für wie viel Vieh und für wie viel Holz an jedem Tag, an dem das Sammeln erlaubt ist, gemessen am Bedarf einer Stelle in der Hand eines einzigen Siedlers. Allen übrigen Beklagten soll der Wald verboten werden [[1]].
+
+Die Begründung gibt die Geschichte so wieder, wie Miączyńskis Anwälte sie sahen. Ein Privileg von 1746 von Paweł Prusimski und seiner Frau Katarzyna erlaubte den Olędern die Weide „nach Einigung“, was das Schriftstück als Einigung jedes einzelnen Siedlers mit dem Gutsherrn liest. Hohenlohe-Ingelfingens Vertrag von 1805 verkaufte vierzehn Olędern 42 Hufen Wald und Bruch und gab ihnen freie Weide und freies Holzsammeln in dem Revier, das damals Zarzyński hieß. Die Rückgabe des Gutes am 21. Juli 1807 habe aufgehoben, was Hohenlohe-Ingelfingen eingegangen war; so habe das höchste Gericht am 7. Juli 1826 gegen Weigel entschieden, einen Gläubiger, der Zinsen von 200.000 polnischen Gulden forderte, die auf das Gut geliehen waren. Der Vertrag von 1828 habe einige Bedingungen des Vertrags von 1805 übernommen, ohne ihn zu bestätigen. Seither seien die Stellen unter mehr Siedler geteilt worden, mit mehr Feuerstellen und mehr Vieh; gegen solche Teilung wird ein Beschluss des Administrationsrats von 1858 angeführt [[1]].
+
+Auf der fünften Seite bescheinigt der Gerichtsbote Michał Piechowski, dass er dieses Exemplar am 7./19. Oktober 1860 Karolina Fridenberg in der Kolonie Staro-Łazińska ausgehändigt hat. Die Liste der Geladenen nennt als Nummer 34 eine „Karolina Friedenberg, Witwe“ [[1]].
+
+### Form und Sprache
+
+Vier Seiten sind gedruckt, auf Papier mit einem Stempel zu 7½ Kopeken am Kopf. Eine Vorladung wurde für alle Beklagten gedruckt, und der Gerichtsbote vervollständigte jedes Exemplar von Hand: die Zeile, in der er sich selbst nennt, den Namen der Person, der er zustellte, Ort und Tag und seine Unterschrift. Auf diesem Exemplar berichtigte er auch die gedruckte Liste mit der Feder. Er strich einen Namen und schrieb einen anderen an den Rand, änderte in mehreren Namen einen Buchstaben und unterschrieb unter dem Druck neben einem Kostenvermerk. Die Sprache ist das juristische Polnisch des Königreichs Polen, mit deutschen Familiennamen in polnischer Schreibung. <!-- context -->
+
+Die Familie, die diese Edition als Zelmer führt, steht in der Liste als „Celmer“: Henryk, August und Michał sowie Anna Elżbieta, Witwe des Daniel, für ihre fünf Kinder [[1]].
+
+### Verwandte Bestände
+
+Der Beschluss von 1807, der das Gut zurückgab: [[unit:agad1174016]] und [[unit:agad11740273]]. Weigels Forderung und die Urteile darüber: [[unit:iiihamdaiiinr12366]], [[unit:iiihamdaiiinr12367]]. Hohenlohe-Ingelfingens Geschäfte mit Siedlern 1805 und 1806, aus demselben Nachlass Albert Breyers: [[unit:app539680801]]. Der Vertrag vom 18. Mai 1805 selbst, der Vertrag von 1828 und das Privileg von 1746 sind nicht in der Edition. <!-- context -->

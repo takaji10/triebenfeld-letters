@@ -1,0 +1,75 @@
+# What the check of APP 53/968/0/-/783 against the scans changes for anyone
+# who has written about this paper from the earlier text or its English.
+# Read by pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "APP 53/968/0/-/783: the summons served on Karolina Fridenberg, 19 October 1860"
+changes:
+- importance: significant
+  new: "2026-10-13"
+  what: "The English is written again throughout. Your file's English was a machine's, and it was wrong where the paper turns. \"Zapozwałem\" is \"I have summoned\": the 97 people are defendants, called to court. \"Rekonwencyjnie\" is \"by way of counterclaim\": the Count had been sued by the colonists in 1859 and here sues back. The demands are things he asks the court to do, not things already decided."
+  was: "Zapozwałem ... który domagać się będzie: Ażeby ... był uznany"
+  now: "(the Polish is unchanged)"
+  english_was: "I have acquainted myself with ... the requests of the reconvening reason that will be demanded: ... the contract ... was declared null and void"
+  english_now: "I have summoned ... the motions of the counterclaiming plaintiff, who will demand: That ... the contract ... be declared not binding on the counterclaiming plaintiff"
+- importance: significant
+  new: "2026-10-13"
+  what: "The estate was confiscated from Michalina Dąbska's father, Antoni Prusimski. Your English had \"her husband\"; your Polish had \"cjcu\" for the print's \"ojcu\"."
+  was: "cjcu jej Antoniemu Prusińskiemu skonfiskowanych"
+  now: "ojcu jej Antoniemu Prusińskiemu skonfiskowanych"
+  english_was: "which had been confiscated from her husband Antoni Prusiński"
+  english_now: "which had been confiscated from her father Antoni Prusimski"
+- importance: significant
+  new: "2026-10-13"
+  what: "On page 4 the print has fourteen holdings (\"14stu\") in the question for the experts, as everywhere else. Your Polish had \"11stu\" and your English \"eleven colonies\"."
+  was: "a eventualnie dla 11stu kolonji kontraktem z dnia 18 Maja 1805 roku objętych"
+  now: "a eventualnie dla 14stu kolonji kontraktem z dnia 18 Maja 1805 roku objętych"
+  english_was: "potentially, for the eleven colonies covered by the contract of May 18, 1805"
+  english_now: "and in the alternative for the 14 holdings covered by the contract of 18 May 1805"
+- importance: significant
+  new: "2026-10-13"
+  what: "A leaseholder may not divide his farm without the permission of the manor (\"dworu\"). Your English had \"the court\". The harm of subdivision is to the manor (\"dominji\"), and a \"Donatarjusz\" is the one who received the gift, Hohenlohe-Ingelfingen: a donee, not a donor."
+  was: "(the Polish is unchanged)"
+  now: "bez wyraźnego zezwolenia dworu ... z widoczną szkodą dominji ... dług przez Donatarjusza zaciągnięty"
+  english_was: "without explicit permission from the court ... causing visible harm to the estate ... the debt incurred by the donor"
+  english_now: "without the express permission of the manor ... to the evident harm of the manor ... a debt contracted by the donee"
+- importance: fact
+  new: "2026-10-13"
+  what: "The law on servitudes is dated 16/28 June 1830 (the two calendars are twelve days apart). Your text had 10/28."
+  was: "z dnia 10/28 Czerwca 1830 roku"
+  now: "z dnia 16/28 Czerwca 1830 roku"
+  english_was: "dated June 10/28, 1830"
+  english_now: "of 16/28 June 1830"
+- importance: fact
+  new: "2026-10-13"
+  what: "Names in the list of the summoned. No. 53 is Paweł Rogacki in the print, like no. 54 (you had Bogacki). Nos. 6 and 18 are Goska, no. 37 Drewle, no. 9 Schönfisch, no. 96 is numbered 96. The masculine name Bogumił stands in the accusative (\"Bogumiła\") and is a man in nos. 47, 48, 56, 61 and 84; no. 63 is Emanuel Bandzert; \"SSrów\" is \"the heirs of\"; \"Karolina z Rutchingów primo voto Kitke\" is born Rutching, by her first marriage Kitke."
+  was: "53. Pawła Bogackiego ... 6. Karola Gośka ... SSrów Krystjana Drewie ... 90. Jakóba Zelek"
+  now: "53. Pawła Rogackiego ... 6. Karola Goska ... SSrów Krystjana Drewle ... 96. Jakóba Zelek"
+  english_was: "53. Paweł Bogacki ... 47. Bogumiła Runge ... 63. Emanuela Bandzert ... Krystjan Kitke's SSrów ... Karolina from Rutchingów, née Kitke"
+  english_now: "53. Paweł Rogacki ... 47. Bogumił Runge ... 63. Emanuel Bandzert ... The heirs of Krystjan Kitke ... Karolina née Rutching, by her first marriage Kitke"
+- importance: fact
+  new: "2026-10-13"
+  what: "No. 58. The printed name is struck out, as you have it. In the margin beside it the court messenger wrote the name that takes its place: \"Marcina\" and a surname read as Hetke, with doubt. It is now in the text as \"58. Marcina [Hetke?]\". Please look at the margin of page 1."
+  was: "58. (struck out) 59. Karola Merk."
+  now: "58. Marcina [Hetke?]. 59. Karola Merk."
+  english_was: "58. (struck out)"
+  english_now: "58. Marcin [uncertain: Hetke]."
+- importance: fact
+  new: "2026-10-13"
+  what: "The court messenger's own lines. He names himself as \"residing in Kalisz\" (your text had \"nie p?ający\"); under his note of service he adds \"do rąk własnych oddałem świadczę\", I delivered it into her own hands, I attest it; and he signs twice, \"Michał Piechowski\", once under the print beside a note of costs (\"Koszta. Raz Rs [47?] k 21.\") and once under the note of service, which is numbered \"No 173.\"."
+  was: "nominowany w Kaliszu nie p?ający ... w zamieszkaniu tegoż."
+  now: "nominowany w Kaliszu mieszkający — ... w zamieszkaniu tegoż. do rąk własnych oddałem świadczę —"
+  english_was: "(left out, marked <...>)"
+  english_now: "I, the undersigned Court Summoner at the Civil Tribunal in Kalisz, appointed by the Honourable President of that Tribunal, residing in Kalisz — ... I delivered it into her own hands; I attest it —"
+- importance: wording
+  new: "2026-10-13"
+  what: "Terms in the English, in the edition's forms: \"woźny\" is the Court Summoner; \"holendrzy\" are Hollanders, not \"Dutch settlers\"; \"hub 42\" is 42 Hufen; \"Regent\" and \"Rejent\" are a notary, Mikołaj Kroszczyński, not a \"Kroszczyn Regent\"; \"Patronowie Trybunału\" are advocates of the Tribunal; \"zbieranina\" is the gathering of wood and \"dni gajowe\" the forest days; \"kolonja\" in the argument is one colonist's holding; \"§ III\" of the contract of 1828 was read as \"§111\"; \"nie stwierdziły\" is \"did not confirm\"; \"zaoczność zastrzegam\" reserves judgment by default; \"d. j. w.\" is \"date as above\"."
+  was: "znajduje się §111"
+  now: "znajduje się § III"
+  english_was: "the Bailiff ... the 14 Dutch settlers ... 42 Magdeburg measurements ... the Kroszczyn Regent ... the Guardians of the Court ... they did not find any evidence of it"
+  english_now: "the Court Summoner ... the 14 Hollanders ... 42 Hufen of Magdeburg measure ... the notary Kroszczyński ... advocates of the Tribunal ... they did not confirm it in the least"
+- importance: wording
+  new: "2026-10-13"
+  what: "Smaller readings of the print: \"zawisłe\", \"szczegółowej\", \"pojedyńczego\"; \"Miączyńska domagała się\"; \"czynszownikami\"; \"Według tego\"; \"przy tem\"; \"wyłącznem\"; \"niemniej\" twice; \"ad 1um\"; the questions lettered A) and B); \"Stósownie\", \"kopję\"; and line-end hyphens taken out."
+  was: "zawisie / szczegółówej / czynszowmkami / lego / tein / wjłącznem / niemej, niemu ej / ad primum"
+  now: "zawisłe / szczegółowej / czynszownikami / tego / tem / wyłącznem / niemniej / ad 1um"

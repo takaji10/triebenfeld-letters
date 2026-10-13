@@ -131,7 +131,7 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 21
+  docs: 22
 - id: "morgen"
   kind: "money"
   lang: "de"
@@ -169,7 +169,7 @@
   initial_en: "H"
   sort_de: "hufe"
   initial_de: "H"
-  docs: 41
+  docs: 42
 - id: "ruthe"
   kind: "money"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 42
+  docs: 43
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -872,7 +872,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 79
+  docs: 80
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -967,7 +967,7 @@
   initial_en: "P"
   sort_de: "patrimonialgericht"
   initial_de: "P"
-  docs: 14
+  docs: 15
 - id: "justitiarius"
   kind: "law"
   lang: "de_la"
@@ -1044,6 +1044,25 @@
   sort_de: "prafekt, unterprafekt"
   initial_de: "P"
   docs: 27
+- id: "wozny"
+  kind: "law"
+  lang: "pl"
+  head_en: "woźny (court messenger)"
+  head_de: "Woźny (Gerichtsbote)"
+  orig: "woźny, Woźny; in Latin ministerialis"
+  short_en: "A sworn officer of a Polish court, in Latin ministerialis. He served summonses on the parties, called out the court's orders in public, and went to see wounds, damage or a boundary and reported what he saw to the court's books. His report that a summons had been served made it valid. The office went on in the courts of the Kingdom of Poland in the nineteenth century. The translations call him the Court Summoner, the summaries the court messenger."
+  short_de: "Ein vereidigter Bediensteter eines polnischen Gerichts, lateinisch ministerialis. Er stellte den Parteien die Ladungen zu, rief die Anordnungen des Gerichts öffentlich aus, besichtigte Wunden, Schäden oder eine Grenze und berichtete darüber in die Bücher des Gerichts. Erst sein Bericht über die Zustellung machte eine Ladung gültig. Das Amt bestand in den Gerichten des Königreichs Polen im neunzehnten Jahrhundert fort. Die deutschen Texte dieser Edition nennen ihn Gerichtsbote."
+  long_en: ""
+  long_de: ""
+  source: ""
+  check_against: "Gloger, Encyklopedia staropolska (woźny)"
+  source_html: ""
+  checked: false
+  sort_en: "wozny (court messenger)"
+  initial_en: "W"
+  sort_de: "wozny (gerichtsbote)"
+  initial_de: "W"
+  docs: 41
 - id: "starost"
   kind: "law"
   lang: "pl"
@@ -1062,7 +1081,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 90
+  docs: 91
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1404,7 +1423,7 @@
   initial_en: "G"
   sort_de: "gouvernement"
   initial_de: "G"
-  docs: 24
+  docs: 25
 - id: "tribunal"
   kind: "law"
   lang: "de_fr"
@@ -1423,7 +1442,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 61
+  docs: 62
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"

@@ -497,6 +497,17 @@ finance, Prince Lubecki, called the sum excessive and had the estates valued
 the valuation of Trąbczyn was ordered again ([letter]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). The documents published so
 far do not show whether Weigel was paid.
 
+The judgment of 1826 was still being used a generation later, and against the settlers. In
+1859 the colonists of Trąbczyn sued its owner, Count Włodzimierz Miączyński. He answered in
+October 1860 with a counterclaim against 97 of them, from two colonies of the estate. A
+contract of 18 May 1805 between Hohenlohe-Ingelfingen and fourteen colonists had sold them
+forest and marsh and given them free pasture and the gathering of wood in a part of his
+forest. Miączyński asked the Civil Tribunal at Kalisz to hold that this contract did not bind
+him, on the principle of 1826: what Hohenlohe-Ingelfingen had undertaken fell with his title
+when the estate was returned in 1807
+([summons]({{ '/documents/app539680783/1/' | relative_url }})). What the court decided is not
+in the edition.
+
 ## The people you will keep meeting
 
 On Hohenlohe-Ingelfingen's side, Glenck manages the estates at first and later appears, in

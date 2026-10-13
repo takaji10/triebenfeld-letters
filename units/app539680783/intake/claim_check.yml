@@ -1,0 +1,32 @@
+# The claim check of the German summary of APP 53/968/0/-/783, made in session
+# on 2026-10-13 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# document was read in the corpus text as corrected against the scans.
+#
+# Result: 17 statements, 16 supported, one overstated and weakened. The first
+# draft called the woman served "die Witwe Karolina Fridenberg". The note of
+# service names her without that word; the widow is no. 34 of the list,
+# "Karolinę Friedenberg wdowę", spelt with ie. The summary now says each
+# thing where the paper says it. Names in the edition's forms (Prusimski for
+# the print's Prusiński, Zelmer for Celmer, Weigel for Wejgel, Olęder for
+# holender) count as supported.
+
+app539680783-001:
+- {claim: "Gedruckte Vorladung in polnischer Sprache", verdict: supported, where: "pp. 1-4 are print; p. 1: Zapozwałem"}
+- {claim: "die der Gerichtsbote Michał Piechowski am 7./19. Oktober 1860 Karolina Fridenberg in der Kolonie Staro-Łazińska zustellte", verdict: supported, where: "p. 5: kopję tego pozwu ... wręczyłem Karolinie Fridenberg w kolonji Staro Łazińskiej ... dnia 7/19 Pazdziernika 1860 r. Michał Piechowski"}
+- {claim: "die Liste der Geladenen nennt unter Nummer 34 eine Witwe Karolina Friedenberg", verdict: supported, where: "p. 1: 34. Karolinę Friedenberg wdowę. First written as 'der Witwe Karolina Fridenberg' of the woman served: overstated, weakened"}
+- {claim: "Graf Włodzimierz Miączyński, Erbherr von Trąbczyn", verdict: supported, where: "p. 1: Na żądanie Włodzimierza Hrabiego Miączyńskiego, dziedzica dóbr Trąbczyna"}
+- {claim: "den die Kolonisten seines Gutes am 6./18. August 1859 verklagt hatten", verdict: supported, where: "p. 1: W związku z pozwem na żądanie kolonistów w dobrach Trąbczyn, przeciwko Włodzimierzowi Miączyńskiemu, dnia 6/18 Sierpnia 1859 roku wydanym"}
+- {claim: "erhebt vor dem Zivilgericht des Gouvernements Warschau in Kalisch Widerklage", verdict: supported, where: "p. 1: rekonwencyjnie; p. 2: na audyencji Trybunału Cywilnego Gubernji Warszawskiej w Kaliszu"}
+- {claim: "lässt die Beklagten unter 97 Nummern laden: 80 aus der Kolonie Staro-Łazińska und 17 aus der Kolonie Nowo-Łazińska", verdict: supported, where: "p. 1: 79. ... wszystkich w kolonji Staro-Łazińskiej mieszkających. 80. Jana Kłodzińskiego, w tejże kolonji; p. 2: 81. ... 97. Krystjana Kinast — w kolonji Nowo-Łazińskiej"}
+- {claim: "darunter Henryk, August und Michał Zelmer (im Druck Celmer) sowie die Witwe und die Kinder des Daniel Zelmer", verdict: supported, where: "p. 1: 55. Henryka Celmer; 78. Annę Elżbietę Celmer, wdowę po Danielu Celmer, jako matkę ... nieletnich swych dzieci; p. 2: 92. Augusta Celmer; 95. Michała Celmer"}
+- {claim: "den Vertrag vom 18. Mai 1805 zwischen dem Fürsten zu Hohenlohe-Ingelfingen und vierzehn Kolonisten für ihn unverbindlich zu erklären", verdict: supported, where: "p. 2, 1.: kontrakt pomiędzy Księciem Hohenlohe Ingelfingen, a czternastu kolonistami ... dnia 18 Maja 1805 roku zawarty, za nieobowiązujący rekonwencyjnego powoda"}
+- {claim: "das Recht auf Weide und Holzsammeln im Revier Studzianka des Trąbczyner Waldes nur den sieben Stellen des Vertrags vom 21. Dezember 1828 zuzusprechen, hilfsweise den vierzehn Stellen von 1805", verdict: supported, where: "p. 2, 2. and 3.: tym tylko kolonjom prawo służebności pastwiska i zbieraniny w rewirze Studzianka ... kontraktu ... dnia 21 Grudnia 1828 roku ... a siedmiu kolonistami; była przyznana 14 tylko kolonjom"}
+- {claim: "Sachverständige sollen sagen, für wie viel Vieh und wie viel Holz", verdict: supported, where: "p. 2, 4.: relacja biegłych ... A) Dla jakiej ilości bydła ... B) Jaka ma być dozwolona najwyższa ilość zbieraniny"}
+- {claim: "nach dem Privileg von Paweł und Katarzyna Prusimski von 1746 hing die Weide von der Einigung jedes Olęders mit dem Gutsherrn ab", verdict: supported, where: "p. 2: Paweł z Kolna Prusiński i żona jego Katarzyna ... w r. 1746 holendrom ... nadali przywilej; p. 3: prawo pastwiska zawisłe było od szczegółowej ugody każdego pojedyńczego holendra, z właścicielem dóbr"}
+- {claim: "als die Regierungskommission das konfiszierte Gut am 21. Juli 1807 Michalina Dąbska zurückgab, seien die Verpflichtungen des Fürsten erloschen", verdict: supported, where: "p. 3: Kommissja Rządowa ... postanowieniem z dnia 21 Lipca 1807 roku wróciła Michalinę z Prusińskich Dąbskę, do własności dóbr Trąbczyna ... wszelkie działania i zobowiązania przez Księcia Hohenlohe zaciągnięte, zniweczone zostały"}
+- {claim: "so habe das höchste Gericht am 7. Juli 1826 gegen Weigel entschieden, der Zinsen von 200.000 polnischen Gulden forderte", verdict: supported, where: "p. 3: wyrokiem Sądu Najwyższej Instancji ... dnia 7 Lipca 1826 r. zapadłym. W processie tym Wejgel dochodził procentów od kapitału 200000 złp."}
+- {claim: "durch die Teilung der Stellen hätten sich Feuerstellen, Bewohner und Vieh zum Schaden der Gutsherrschaft vermehrt", verdict: supported, where: "p. 4: Skutkiem rozdrobnienia kolonji, powstała nierównie większa ilość dymów, mieszkańców i inwentarzy ... z widoczną szkodą dominji"}
+- {claim: "ein Beschluss des Administrationsrats von 1858 verbiete Erbpächtern, einen Hof ohne Erlaubnis des Gutshofs zu teilen", verdict: supported, where: "p. 4: postanowienie Rady Administracyjnej w roku 1858 ... wieczysty dzierżawca nadanego sobie gospodarstwa ani poddzierżawiać, ani podzielac na części, bez wyraźnego zezwolenia dworu, nie może"}
+- {claim: "unter dem Druck stehen die Unterschrift des Gerichtsboten und ein Kostenvermerk", verdict: supported, where: "p. 4, in pen: Michał Piechowski; Koszta; Raz Rs [47?] k 21."}

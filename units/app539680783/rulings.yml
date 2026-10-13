@@ -1,0 +1,47 @@
+# Editorial rulings for 53/968/0/-/783 (APP).
+#
+# One document: the printed summons with the summoner's note of service, five
+# pages. The archive's cover is front matter. Established 2026-10-13.
+
+places:
+  # Place of writing: the summoner dates his note of service "w Kolonji Staro
+  # Łazińskiej dnia 7/19 Października 1860 r". The heading of the print itself
+  # says only "Działo się jak w poświadczeniu Woźnego".
+  overrides:
+    "1": Kolonia Staro-Łazińska
+
+dates:
+  # [year, month, day, precision]; read off the document: the summoner's own
+  # date under his note of service, in both calendars. The day given is the
+  # second, the one of the calendar now in use.
+  read:
+    "1": [1860, 10, 19, "day"]      # w Kolonji Staro Łazińskiej dnia 7/19 Października 1860 r
+  supplied: {}
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": summons
+
+  language:
+    "1": "pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0005_a", "0006_a1", "0006_a2", "0007_a1", "0007_a2"]
+
+damage:
+  letters: []

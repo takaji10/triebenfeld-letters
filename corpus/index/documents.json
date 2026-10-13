@@ -29918,6 +29918,67 @@
   "permalink": "/documents/iiihamdaiiinr12367/11/"
  },
  {
+  "uid": "app539680783-1",
+  "unit": "app539680783",
+  "letter_id": "1",
+  "doc_type": "summons",
+  "language": "pl",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1860-10-19",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kolonia Staro-Łazińska",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 5,
+  "n_lines": 47,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0005_a",
+    "image": "APP_53_968_0_783_0005_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0006_a1",
+    "image": "APP_53_968_0_783_0006_a1-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0006_a2",
+    "image": "APP_53_968_0_783_0006_a2-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0007_a1",
+    "image": "APP_53_968_0_783_0007_a1-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0007_a2",
+    "image": "APP_53_968_0_783_0007_a2-L1_05.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 9,
+  "places_named": 3,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "summons 1",
+  "path": "documents/app539680783-1.json",
+  "text_path": "text/app539680783-1.txt",
+  "permalink": "/documents/app539680783/1/"
+ },
+ {
   "uid": "iiihamdaiiinr12367-2",
   "unit": "iiihamdaiiinr12367",
   "letter_id": "2",
