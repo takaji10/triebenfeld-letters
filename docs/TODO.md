@@ -369,10 +369,14 @@ substance. Details: `units/app539680783/notes.md`.
       entries marked new for this holding): what the check changed in the
       Polish and in the English, for anything you have written from the
       old text.
-- [ ] **You: look at five places on page 1** where the court messenger
-      altered the print in pen: the name in the margin for no. 58 (read
-      "Marcina [Hetke?]"), and nos. 7, 55, 70, 53 and 54 (the holding's
-      notes, "For the editor's eye").
+- [ ] **You: the spot sheet "Pen marks on the summons"** (six rows, each
+      with a picture of the place on the scan): the name in the margin for
+      no. 58 (read "Marcina [Hetke?]"), nos. 7, 55, 70, 53 and 54, and the
+      blotted figure in the note of costs on page 4. Served with
+      `python pipeline/review/queries.py --unit app539680783 --sheet
+      pen_marks.csv` (port 4101) and the built site on port 4000; the rows
+      are `review/app539680783/pen_marks.csv` (a copy in the holding's
+      `intake/`), the pictures in its `spot_img/`.
 - [x] The folds: approved as proposed (2026-10-14).
 - [x] Count Włodzimierz Miączyński was Michalina's son (you, 2026-10-14):
       in his biography and on the holding's page.

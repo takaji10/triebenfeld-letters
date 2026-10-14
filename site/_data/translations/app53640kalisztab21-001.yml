@@ -360,7 +360,7 @@ segments:
 
     444,Hereditary lands,42,,,
 
-    445,Lease Trzebiesławę,,,49,
+    445,Lease Trzebiesław:,,,49,
 
     446,Uleyno,24,15,,
 
@@ -422,7 +422,7 @@ segments:
     class="name">Wójt&#x27;s holding Zdrziennickie</td><td class="num">31</td><td class="num">15</td><td
     class="num"></td><td class="num"></td></tr><tr><td class="no">444</td><td class="name">Hereditary
     lands</td><td class="num">42</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
-    class="no">445</td><td class="name">Lease Trzebiesławę</td><td class="num"></td><td class="num"></td><td
+    class="no">445</td><td class="name">Lease Trzebiesław:</td><td class="num"></td><td class="num"></td><td
     class="num">49</td><td class="num"></td></tr><tr><td class="no">446</td><td class="name">Uleyno</td><td
     class="num">24</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">447</td><td
     class="name">Village [uncertain: Rumieiowice]</td><td class="num">21</td><td class="num"></td><td
@@ -468,9 +468,9 @@ segments:
 
     24,Czarnuszka,,,45,15
 
-    25,Czachory part of Anto: Kiedrowę,45,15,,
+    25,Czachory part of Anto: Kiedrow:,45,15,,
 
-    26,From the part at Gołuchowie Kiedrowę,7,,,
+    26,From the part at Gołuchowie Kiedrow:,7,,,
 
     27,From the part of Zakrzewskiego,21,,,
 
@@ -525,9 +525,9 @@ segments:
     class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">23</td><td class="name">Czekanow</td><td
     class="num">129</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td
     class="no">24</td><td class="name">Czarnuszka</td><td class="num"></td><td class="num"></td><td class="num">45</td><td
-    class="num">15</td></tr><tr><td class="no">25</td><td class="name">Czachory part of Anto: Kiedrowę</td><td
+    class="num">15</td></tr><tr><td class="no">25</td><td class="name">Czachory part of Anto: Kiedrow:</td><td
     class="num">45</td><td class="num">15</td><td class="num"></td><td class="num"></td></tr><tr><td class="no">26</td><td
-    class="name">From the part at Gołuchowie Kiedrowę</td><td class="num">7</td><td class="num"></td><td
+    class="name">From the part at Gołuchowie Kiedrow:</td><td class="num">7</td><td class="num"></td><td
     class="num"></td><td class="num"></td></tr><tr><td class="no">27</td><td class="name">From the part
     of Zakrzewskiego</td><td class="num">21</td><td class="num"></td><td class="num"></td><td class="num"></td></tr><tr><td
     class="no">28</td><td class="name">Ciechel</td><td class="num">56</td><td class="num"></td><td class="num"></td><td
@@ -821,7 +821,7 @@ segments:
 
     73,Głowy,,,22,15
 
-    74,Kuznica with Dąmbrową and Siedliskę,,,22,15
+    74,Kuznica with Dąmbrową and Siedlisk:,,,22,15
 
     75,[uncertain: Sacały],,,2,15
 
@@ -874,7 +874,7 @@ segments:
     class="no">72</td><td class="name">Kazmirz</td><td class="num"></td><td class="num"></td><td class="num">32</td><td
     class="num">15</td></tr><tr><td class="no">73</td><td class="name">Głowy</td><td class="num"></td><td
     class="num"></td><td class="num">22</td><td class="num">15</td></tr><tr><td class="no">74</td><td
-    class="name">Kuznica with Dąmbrową and Siedliskę</td><td class="num"></td><td class="num"></td><td
+    class="name">Kuznica with Dąmbrową and Siedlisk:</td><td class="num"></td><td class="num"></td><td
     class="num">22</td><td class="num">15</td></tr><tr><td class="no">75</td><td class="name">[uncertain:
     Sacały]</td><td class="num"></td><td class="num"></td><td class="num">2</td><td class="num">15</td></tr><tr><td
     class="no">76</td><td class="name">Lekaszyn</td><td class="num"></td><td class="num"></td><td class="num">45</td><td

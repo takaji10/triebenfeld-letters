@@ -150,6 +150,11 @@ sum of 281, the total of 166.
   with it.
 - "Haul. dito." (292) after it is the Trąbczyn Hollander settlement: 34
   houses, 271 people, larger than the village.
+- "Haul. Lazy." (150), 5 houses, is probably the Łazińskie Olędry, one of
+  the two Olęder colonies of the Trąbczyn estate, and not the village of
+  Łazy (editor, 2026-10-14). It names neither the old nor the new colony
+  and is not matched to either place entry; the English keeps "Lazy." as
+  written.
 - Two entries are both "Międzylesie." (176 and 177), with different
   figures.
 - "Nowa wieś" has four entries (192 to 195), told apart by a second word:

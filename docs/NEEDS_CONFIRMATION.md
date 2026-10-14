@@ -323,10 +323,9 @@ Places (`reference/places.yml`, `open_questions`):
   The colony's later name is Łazińskie Stare Olędry (editor, 2026-10-14),
   which makes it likely but does not settle it.
 - "Haul. Lazy." in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150):
-  a Hauland, a settlement of Olęders, by the name of Łazy. Łazy is a
-  village distinct from the two colonies (editor, 2026-10-14); whether
-  this entry is that village or one of the colonies is not settled, and
-  it is linked to neither.
+  probably the Łazińskie Olędry and not the village of Łazy (editor,
+  2026-10-14). Which of the two colonies, old or new, the entry does not
+  say; it is linked to neither.
 - The Peyserschen Hauland: one settlement, or the district's colonies taken
   together.
 - To split when the documents arrive: Łukomskie Olędry (two places under one

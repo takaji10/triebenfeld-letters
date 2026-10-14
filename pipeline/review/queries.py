@@ -169,6 +169,9 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
                               'Every row is built on the first button already, so nothing here holds up publishing but the last two rows.'),
         'rescan_245_289': ('Letters 245 and 289', 'The archive\'s new scans are in and the text is corrected against them. These are '
                            'the few words the scans did not let me settle; each stands in the text as the first button has it.'),
+        'pen_marks': ('Pen marks on the summons', 'Where the court messenger changed the printed list, or wrote '
+                      'by hand, on this copy of the summons of 1860. Each row has a picture of the place on the scan; '
+                      'the first button is what the text has now. Pick what the page shows.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

@@ -592,6 +592,13 @@ Where the rest is:
     writing out an abbreviation (APP 53/64/0/-/Kalisz Tab.21, 2026-10-14):
     three were written in full on the page, and the first reading had
     shortened them in error. Look at the picture before writing a note.
+  - **A tailed stroke at the end of a name can look like ę.** In the
+    hearth-tax register of 1789 (Kalisz Tab.21) the clerk ends a shortened
+    name with a looped, tailed stroke; at the end of "Kiedrow" it was taken
+    for ę, by the first reading and by the editor, until the editor saw it
+    as the sign for -skiego (2026-10-14). Compare such a letter with the
+    sign on lines already given as shortened ("Jaroszew:") before reading
+    it as a letter.
   - A corrected name can fall out of the English word table (`WORDS` in
     `holding.py`): three did on Kalisz Tab.21 and stood untranslated in
     the English. After `--take`, run `--english` and read

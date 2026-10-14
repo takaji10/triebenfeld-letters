@@ -345,7 +345,9 @@ places:
   # "kolonja Staro-Łazińska" and "Nowo-Łazińska", and those forms are matched.
   # Łazy (lazy-trabczyn) is a distinct village, not either colony. The
   # "Olendry Trąbczynskie" of the hearth-tax register of 1789 (APP 53/64/0/-/
-  # Kalisz Tab.21, entry 183) names no old or new, and is not matched.
+  # Kalisz Tab.21, entry 183) names no old or new, and is not matched. Nor is
+  # "Haul. Lazy." of the table of about 1797 (AGAD 1/169/0/1/1745, no. 150),
+  # probably the Łazińskie Olędry and not the village (editor, 2026-10-14).
   trabczynskie-stare-oledry:
     display: "Trąbczyńskie Stare Olędry"
     kind: settlement

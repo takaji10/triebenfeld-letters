@@ -131,9 +131,10 @@ reasons are in the docstring and the main differences in
   The print's "kolonja Staro-Łazińska" and "Nowo-Łazińska" are matched to
   the place entries `trabczynskie-stare-oledry` and
   `trabczynskie-nowe-oledry`. **Łazy is a distinct village**, not either
-  colony (`lazy-trabczyn`, the grant of 1796); "Haul. Lazy." in the table
-  of about 1797 (AGAD 1/169/0/1/1745, no. 150) is not linked to the
-  colonies. Studzianka, the
+  colony (`lazy-trabczyn`, the grant of 1796). "Haul. Lazy." in the table
+  of about 1797 (AGAD 1/169/0/1/1745, no. 150) is probably the Łazińskie
+  Olędry, not the village (editor, 2026-10-14); it says neither old nor
+  new and is not matched. Studzianka, the
   forest district also called Zarzyński, and Biskupice, the neighbouring
   estate, have no entries either; the existing "Biskupice" entry is a
   Silesian Bischdorf and is not matched here.

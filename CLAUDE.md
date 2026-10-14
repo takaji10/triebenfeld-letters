@@ -125,8 +125,9 @@ so check them.
     approved; the Count was Michalina's son; the Staro- and Nowo-Łazińska
     colonies are the estate's two Olęder colonies (earlier Trąbczyńskie
     Stare / Nowe Olędry), not the village of Łazy (editor, 2026-10-14).
-    Waits for the editor's look at the changes and at five pen alterations
-    on page 1, and their word.
+    Waits for the editor's look at the changes, their answers on the spot
+    sheet "Pen marks on the summons" (`review/app539680783/pen_marks.csv`,
+    `docs/TODO.md` section 10), and their word.
   - **APP 53/64/0/-/Kalisz Tab.21** (slug `app53640kalisztab21`): thirteen
     pages of the hearth-tax register of 1789, a table of 387 entries
     (Trąbczyn is 178 of the third district). No transcription existed: read

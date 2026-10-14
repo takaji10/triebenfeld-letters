@@ -132,8 +132,12 @@ looked at again on the pictures. "Jerzmanowskiego" (9, 52),
 the page: the first reading had them shortened in error. "Przespolewskiego"
 (9, 68) runs into the ruled line, and the editor gives it in full; the
 line's note says so. "Kiedrowę" (8v, 25 and 26) and "Trzebiesławę" (8,
-445) end in a letter with a long tail, which the editor reads as ę; the
-notes say so.
+445) end in a letter with a long tail, first taken as ę. The editor then
+saw it as the sign for an ending such as -skiego (2026-10-14): it is the
+same tailed sign that ends "Jaroszew:" and "Bągin:", which the register
+gives as a colon. So these three, and "Siedliskę" (18, 74; there the
+ending is -iem, "z Siedliskiem"), stand as "Kiedrow:", "Trzebiesław:" and
+"Siedlisk:", each with a note.
 
 The English word table needed three new forms for corrected names (nos.
 94, 142 and 437 of their districts); every other line came out of it
