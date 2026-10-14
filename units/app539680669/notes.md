@@ -42,6 +42,18 @@ four, the one their English notes render). Not published.
   name of Nowo-Lipsk; neither is the 9454 Lipski. Left: the name list has
   no way to shut a document out.
 - The glossary entry Morgen now also takes "Mor." after a figure.
+- **The editor's answers on readings4** (2026-10-14), in notebook2.py:
+  kaite[r/n?] (not katen); Neihe[?] (not Retzr.); Kirschhacker; Nintz[?]
+  (not Birtz); Brudzewo (not Brudzyn); Fru[c?]ksucht; Swirkhaber and
+  Servitut without doubt; "nach [Ko…?]-Chocz." (the editor read Chocz);
+  Firstgugge[?] (not Siebzigjährige). Where the editor could not tell and
+  offered another reading that disagrees with Claude's (u01 "…eorret" for
+  "Verwand.", u10 "Pohnethe" for "Kosmatki"), the word now stands as [?];
+  both readings are kept here. u07 and u09 could not be read because the
+  picture cut the line off; they are asked again on **readings5**
+  (`intake/spot_sheet5.py`, three rows, port 4102), with the line under
+  "Firstgugge", read "Dreissigjährige" on the same reasoning. 29 marks of
+  doubt remain in document 2.
 
 ## Provenance
 

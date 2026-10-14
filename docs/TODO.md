@@ -441,9 +441,11 @@ claim-checked. The last photo needed no turning in the end: the picture
 inside the file is upright, only the camera's flag said otherwise. Details:
 `units/app539680669/notes.md`, "Document 2".
 
-- [ ] **You: the spot sheet "Readings in Breyer's second notebook"** (15
-      rows with pictures from your photos). Served with `python
-      pipeline/review/queries.py --unit app539680669 --sheet readings4.csv`
-      (port 4102).
+- [x] You answered the spot sheet "Readings in Breyer's second notebook"
+      (15 rows, 2026-10-14). Worked in the same day.
+- [ ] **You: the spot sheet "Three more in Breyer's second notebook"**
+      (three rows: two the last pictures cut off, and the line under
+      "Firstgugge"). Served with `python pipeline/review/queries.py --unit
+      app539680669 --sheet readings5.csv` (port 4102).
 - [ ] **You: say when to publish.** The holding is live with document 1
       only; publishing adds document 2.

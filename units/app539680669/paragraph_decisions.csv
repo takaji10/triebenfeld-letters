@@ -155,7 +155,7 @@
 2,661,run,review,short_line,0.25,4,16,Merk,Gustav Stark
 2,664,break,high,short_line,0.62,10,16,Herzfelde.,Der Bruder
 2,665,break,high,rubric+short_line,0.62,10,16,Der Bruder,G. Merk hat
-2,668,run,review,short_line,0.5,8,16,verkauft,hat gekauft i. [Brudzyn?]
+2,668,run,review,short_line,0.5,8,16,verkauft,hat gekauft i. Brudzewo
 2,686,break,high,short_line,0.38,9,24,gekommen.,Amerikaner: Ed. Buch 4 M.
 2,691,break,high,short_line+column,0.67,16,24,"Bauch aus Obory,",Merk —
 2,692,break,high,short_line+column,0.25,6,24,Merk —,"Deckert,"
@@ -166,9 +166,9 @@
 2,707,run,review,short_line,0.13,3,23,—o—,Es gibt auf [Rheinwochenmarkt?]
 2,709,break,high,short_line,0.39,9,23,im Dorfe?,Ein altes Paar liegt im Winter
 2,714,run,review,short_line,0.13,3,23,—o—,Geschlechtliche Krankheiten
-2,719,break,high,short_line,0.25,5,20,viel.,"[Frucht?]sucht auf [Wanderschaft?],"
+2,719,break,high,short_line,0.25,5,20,viel.,"Fru[c?]ksucht auf [Wanderschaft?],"
 2,724,run,review,short_line,0.25,5,20,nicht,Die [Holländer?] [Sachsengänger?] gehen
-2,730,break,high,short_line,0.4,8,20,Mädchen.,Aus [Kosmatki?] 50 Personen.
+2,730,break,high,short_line,0.4,8,20,Mädchen.,Aus [?] 50 Personen.
 2,734,break,high,short_line,0.26,5,20,Höfe.,—o—
 2,735,run,review,short_line,0.15,3,20,—o—,"Mursch, schwarze Erde"
 2,741,run,review,short_line,0.15,3,20,—o—,Im [Sü…?] haben die
@@ -185,8 +185,8 @@
 2,804,break,high,rubric,0.93,14,15,Kirchhof dicht,a. d. Kirche.
 2,807,run,review,short_line,0.67,10,15,in Łazinsk,Zementdenkmäler
 2,813,run,review,short_line,0.2,3,15,—o—,Bei Józefów eine Neue
-2,819,break,high,short_line+column,0.5,7,14,""" barwy",Józefów
-2,820,run,review,short_line,0.5,7,14,Józefów,[Siebzigjährige?]
+2,819,break,high,short_line+column,0.58,7,12,""" barwy",Józefów
+2,820,run,review,short_line,0.58,7,12,Józefów,Firstgugge[?]
 2,828,break,high,rubric,0.81,11,14,Ständerhaus,i. Józefów
 2,833,break,high,rubric,1.78,24,14,Józefów: Grabbretter auf,d. Friedhof wie Łazinsk.
 2,840,break,high,rubric,1.07,29,27,40 dt. Wirte i. Józefów. Land,"i. einem Stück, Wald 2 Morgen"

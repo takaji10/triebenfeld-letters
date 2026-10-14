@@ -1887,6 +1887,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Document 2**, Breyer's notebook "V. Grodziec Juli 1936", from the editor's raw photos IMG_5192 to IMG_5205: 25 pages read in session (33 marks of doubt), English, summary in both languages claim-checked (15 statements, three weakened), the holding's page and title for two notebooks. The camera's full-size picture inside each raw file was used; the last photo, flagged by the camera as turned, is upright inside the file.
 - A spot sheet of 15 readings for the editor. Koppe, Küster and Stanisław Miączyński shut out of the new document; the glossary's Morgen takes "Mor." after a figure.
 - Figures: 570 documents on 1,917 pages in 40 holdings; 828 marks of doubt.
+- The editor's answers on the sheet of 15 readings worked in (Brudzewo, Kirschhacker, Swirkhaber, Chocz, Firstgugge and others); 824 marks of doubt. Three rows asked again on a short sheet.
 
 ## Three holdings published (2026-10-14)
 

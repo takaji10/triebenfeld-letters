@@ -927,3 +927,8 @@ cloud branches").
   `processed/`, and give the pages ids that cannot collide with the scans'
   (the photo number: 5193_a2). `save_cache` finds a new document only
   after a build has put it in the database.
+- **A spot-sheet picture must show its line whole, with a line of margin
+  below** (2026-10-14): two rows of readings4 came back "image is not
+  cropped correctly" because the line sat at the very foot of the picture.
+  Check that the target line is not on the bottom edge, not only that it is
+  in the picture.

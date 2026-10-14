@@ -44,12 +44,12 @@ hat hier Geld.
 Kurz vor d. Kriege sind
 auch Wolhyn. zurückgek.""",
  '5194_a1': """haben den Wald dort
-ausgerodet, die [Verwand.?]
+ausgerodet, die [?]
 haben dann [?]
 [?], sind zurück¬
 gekommen (Hom, Liske)
 Łazinsker Lehm¬
-[katen?], alle nehmen
+kaite[r/n?], alle nehmen
 Lehm.
 —o—
 Augustenhoff
@@ -108,7 +108,7 @@ zu Grabina""",
  '5196_a2': """Neu angesiedelt auf
 Waldland rechts der
 Strasse die Deutschen
-Bochenski 20 M., Kinast, Winterfeld, [Retzr.?]
+Bochenski 20 M., Kinast, Winterfeld, Neihe[?]
 Retzläff, ein Pole, Schwarz
 Lipelt, Schmechel.
 Das Land war Wald, der
@@ -122,7 +122,7 @@ heisst Trompczyn D.""",
 Kazimierka
 Józefów
 „Oberscher"
-„[Kirschkacker?]"
+„Kirschhacker"
 hie = hier
 do = dort
 Sünde
@@ -132,7 +132,7 @@ Kuchen zum Fleisch
 Mit d. Vieh u. den Hunden
 zur Hochzeit getanzt.""",
  '5197_a2': """Herzfeld b. Berlin
-Robert [Birtz?],
+Robert Nintz[?],
 [?]
 hat dort geheir.
 Merk, Bruders
@@ -147,7 +147,7 @@ Der Bruder
 G. Merk hat
 hier 10 Morgen
 verkauft
-hat gekauft i. [Brudzyn?]
+hat gekauft i. Brudzewo
 bei Strzałkowo; jetzt i. Pommer¬
 ellen 48 Morg. gutes Land
 Bukowiec bei Jabłonowo
@@ -195,7 +195,7 @@ Geschlechtliche Krankheiten
 nicht vorhanden.""",
  '5199_a1': """Uneheliche Kinder
 viel.
-[Frucht?]sucht auf [Wanderschaft?],
+Fru[c?]ksucht auf [Wanderschaft?],
 [stärker?] Sommerarbeit
 auf früheren [Gottmanns?]¬
 [?], jetzt [verkauft?]
@@ -206,7 +206,7 @@ sehr oft Kinder mit.
 Nach Danzig gegangen
 an 20 Mann, mehr
 Mädchen.
-Aus [Kosmatki?] 50 Personen.""",
+Aus [?] 50 Personen.""",
  '5199_a2': """Wege gehen durch die
 Höfe.
 —o—
@@ -219,9 +219,9 @@ Sonst geht sogar die
 Im [Sü…?] haben die
 Łazinsker v. Tromp¬
 czyn C, Wald angekauft
-„[Swirkhaber?]\"""",
+„Swirkhaber\"""",
  '5200_a1': """Vor 10 Jahren bekamen die Białoblot
-u. Orlin [Servitut?] zu
+u. Orlin Servitut zu
 4 Morgen auch grossen
 Wald, hauen ihn aus.
 Vom Gute Biała
@@ -284,11 +284,11 @@ Ziegeln geschenkt.
 —o—
 Bei Józefów eine Neue
 Welt, ein Dorf,
-nach [Koście…?].""",
+nach [Ko…?]-Chocz.""",
  '5203_a1': """Na olędrach
 " barwy
 Józefów
-[Siebzigjährige?]
+Firstgugge[?]
 [Dreissigjährige?]
 Józefów: guter Boden
 Viel Weizen""",
@@ -376,12 +376,12 @@ has money here.
 Shortly before the war people from
 Volhynia also came back.""",
  '5194_a1': """cleared the forest
-there, the [uncertain: relatives]
+there, the [illegible]
 then [illegible]
 [illegible], came back
 (Hom, Liske)
 Łazinsk clay
-[uncertain: cottages], everyone takes
+kaite[uncertain: r/n], everyone takes
 clay.
 —o—
 Augustenhoff
@@ -439,7 +439,7 @@ to Grabina""",
  '5196_a2': """Newly settled on
 forest land to the right of the
 road: the Germans
-Bochenski (20 Morgen), Kinast, Winterfeld, [uncertain: Retzr.]
+Bochenski (20 Morgen), Kinast, Winterfeld, [uncertain: Neihe]
 Retzläff, a Pole, Schwarz,
 Lipelt, Schmechel.
 The land was forest; it
@@ -453,7 +453,7 @@ is called Trąbczyn D.""",
 Kazimierka
 Józefów
 "Oberscher"
-"[uncertain: Kirschkacker]"
+"Kirschhacker"
 hie = here
 do = there
 Sin
@@ -463,7 +463,7 @@ Cake with the meat
 At the wedding danced with
 the cattle and the dogs.""",
  '5197_a2': """Herzfeld near Berlin
-Robert [uncertain: Birtz],
+Robert [uncertain: Nintz],
 [illegible]
 married there.
 Merk, his brother's
@@ -477,7 +477,7 @@ Herzfelde.
 The brother
 G. Merk sold
 10 Morgen here,
-bought in [uncertain: Brudzyn]
+bought in Brudzewo
 near Strzałkowo; now in Pomerelia
 48 Morgen of good land,
 Bukowiec near Jabłonowo,
@@ -524,7 +524,7 @@ Venereal diseases
 not present.""",
  '5199_a1': """Illegitimate children,
 many.
-[uncertain: Fruit]-seeking [uncertain: on the road],
+Fru[uncertain: c]ksucht [uncertain: on the road],
 [uncertain: more] summer work
 on former [uncertain: Gottmann's]
 [illegible], now [uncertain: sold]
@@ -535,7 +535,7 @@ bring children back.
 Went to Danzig,
 some 20 men, more
 girls.
-From [uncertain: Kosmatki] 50 persons.""",
+From [illegible] 50 persons.""",
  '5199_a2': """Roads run through the
 farmyards.
 —o—
@@ -548,9 +548,9 @@ Otherwise even the
 In [uncertain: Sü…] the people of
 Łazinsk bought forest from
 Trąbczyn C,
-"[uncertain: Swirkhaber]\"""",
+"Swirkhaber\"""",
  '5200_a1': """10 years ago Białobłoty
-and Orlin got [uncertain: a servitude] of
+and Orlin got a servitude of
 4 Morgen, and a large
 forest too; they are cutting it down.
 From the Biała estate,
@@ -612,11 +612,11 @@ to the church.
 —o—
 Near Józefów a New
 World, a village,
-towards [uncertain: Koście…].""",
+towards [uncertain: Ko…]-Chocz.""",
  '5203_a1': """Na olędrach
 " barwy
 Józefów
-[uncertain: Seventy-year-old]
+[uncertain: Firstgugge]
 [uncertain: Thirty-year-old]
 Józefów: good soil
 Much wheat""",
