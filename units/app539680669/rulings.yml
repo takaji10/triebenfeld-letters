@@ -1,19 +1,25 @@
 # Editorial rulings for 53/968/0/-/669 (APP).
 #
-# One document: Albert Breyer's notebook of July 1936, 35 pages with the
-# covers. Established 2026-10-14.
+# Two documents, two of Albert Breyer's notebooks of July 1936: 1, the one on
+# Łazińsk and Emilienheim (the archive's scans, 35 pages); 2, "V. Grodziec
+# Juli 1936" (the editor's photos, 25 pages), added the same day at the
+# editor's request. Established 2026-10-14.
 
 places:
   # No dateline. The notes were taken in the colony of Łazińsk and in
   # Emilienheim; the cover names both.
   overrides:
     "1": Łazińsk
+    # Document 2 has no dateline either; it opens with notes from Łazińsk.
+    "2": Łazińsk
 
 dates:
   # [year, month, day, precision]; read off the cover, "Juli 1936". One page of
   # the photograph log at the back is headed "Juli 1935" (notes.md).
   read:
     "1": [1936, 7, null, "month"]
+    # Document 2: the cover, "V. Grodziec Juli 1936".
+    "2": [1936, 7, null, "month"]
   supplied: {}
   twin: {}
   inferred: {}
@@ -23,9 +29,11 @@ dates:
 documents:
   doc_type:
     "1": note
+    "2": note
 
   language:
     "1": "de"
+    "2": "de"
 
   duplicate_of: {}
   split_note: {}
@@ -34,6 +42,7 @@ documents:
   # The estate the document is ABOUT, as slugs from reference/places.yml.
   estates:
     "1": [trabczyn]
+    "2": [trabczyn]
 
 damage:
   letters: []

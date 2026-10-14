@@ -183,6 +183,10 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'readings3': ('Sm or Sw in Breyer\'s notebook', 'Three readings that rest on the same letters as two you '
                       'corrected on the last sheet ("Swięcer", "St[?]pin"). The first button is what the text has '
                       'now. Pick what the page shows.'),
+        'readings4': ('Readings in Breyer\'s second notebook', 'The doubtful readings of the notebook "V. Grodziec '
+                      'Juli 1936" that a name, a place or the sense of a note rests on, each with a picture of its line '
+                      'from your photographs. The first button is what the text has now. Pick what the page shows, '
+                      'type it under "Something else", or say you cannot tell.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

@@ -113,10 +113,12 @@ nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }
 ## Das zwanzigste Jahrhundert
 
 **Der Gutshof parzelliert; die deutschen Siedlungen der Gemeinde Trąbczyn.
-[1 Dokument, 1936]({{ '/de/quellen/app539680669/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+[2 Dokumente, 1936]({{ '/de/quellen/app539680669/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 In den 1930er Jahren war der Gutshof parzelliert, und sein Restgut, das ein Mann namens Jesse
 gekauft hatte, hieß Włodzimierow. Der Historiker Albert Breyer ging im Juli 1936 nach Łazińsk
 und Emilienheim und schrieb auf, was ihm die Siedler erzählten: über ihr Land und ihre Schulen,
 wer nach Wolhynien, Russland, Amerika oder Brasilien gegangen war, wie sie sprachen und wie sie
-ihre Gräber kennzeichneten ([sein Notizheft]({{ '/documents/app539680669/1/' | relative_url }})).
+ihre Gräber kennzeichneten ([seine Notizhefte]({{ '/de/quellen/app539680669/' | relative_url }})). Ein zweites Heft fügt
+hinzu, dass Włodzimierow um 1911 parzelliert worden war, fast alles an Deutsche
+([das zweite Heft]({{ '/documents/app539680669/2/' | relative_url }})).

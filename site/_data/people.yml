@@ -1623,14 +1623,14 @@
   name: "Lipski"
   heading: "Lipski"
   heading_de: "Lipski"
-  count: 5
-  docs: 5
-  life: "documented 1807-1812"
-  life_de: "belegt 1807-1812"
+  count: 7
+  docs: 6
+  life: "documented 1807-1936"
+  life_de: "belegt 1807-1936"
   bio: "An appellate judge who took over the Trąbczyn estates in October 1807 on the order of the governing commission and handed them to the representative of Frau von Dąbska. A Count Lipski appears in 1812 as public prosecutor at Kalisz."
   bio_de: "Ein Appellationsrichter, der im Oktober 1807 auf Anordnung der regierenden Kommission die Trąbczyner Güter übernahm und dem Bevollmächtigten der Frau von Dąbska übergab. Ein Graf Lipski erscheint 1812 als Generalprokurator in Kalisz (Kalisch)."
-  span: "1807–1812"
-  letters: [{id: "28", uid: "oe1bu9454-28", url: "/documents/oe1bu9454/28/", n: 1}, {id: "68", uid: "oe1bu9454-68", url: "/documents/oe1bu9454/68/", n: 1}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/", n: 1}, {id: "229", uid: "oe1bu9454-229", url: "/documents/oe1bu9454/229/", n: 1}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/", n: 1}]
+  span: "1807–1936"
+  letters: [{id: "28", uid: "oe1bu9454-28", url: "/documents/oe1bu9454/28/", n: 1}, {id: "68", uid: "oe1bu9454-68", url: "/documents/oe1bu9454/68/", n: 1}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/", n: 1}, {id: "229", uid: "oe1bu9454-229", url: "/documents/oe1bu9454/229/", n: 1}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/", n: 1}, {id: "2", uid: "app539680669-2", url: "/documents/app539680669/2/", n: 2}]
 - slug: "lombardini"
   name: "Lombardini"
   heading: "Lombardini"

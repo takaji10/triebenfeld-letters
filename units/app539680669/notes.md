@@ -11,6 +11,38 @@ readings (2026-10-14); the rest of the reading is unchecked.
 Everything about how the holding was made is in the docstring of
 `intake/holding.py`; the English is `intake/english.py`.
 
+## Document 2, "V. Grodziec Juli 1936" (added 2026-10-14)
+
+At the editor's request, after the holding was published, the notebook of
+the raw photos IMG_5192 to IMG_5205 was added as document 2 (the editor had
+first chosen the archive's scans only; this is the second notebook of the
+four, the one their English notes render). Not published.
+
+- **Images**: `intake/photos.py` takes the camera's full-size JPEG out of
+  each CR2 and cuts it to the notebook (BOXES) into `photos_V_Grodziec/`
+  under the scans folder; `holding.py --crop2` cuts them at the fold into
+  `processed/` like the scans. Page ids `5192_a` (the cover), `5193_a2` to
+  `5205_a1`; the blank inside covers `5193_a1` and `5205_a2` are left out.
+- **IMG_5205** carries the EXIF orientation 6, so viewers show it on its
+  side, which is why the editor asked for it turned; the preview inside the
+  file is stored unturned and is upright. Nothing to turn.
+- **Reading**: `intake/notebook2.py` (TEXT2, and the English ENGLISH2),
+  25 pages, 329 lines, 33 marks of doubt. Read in three strips a page at
+  about four times the size. One page in Kurrent (5199_a1) is the weakest.
+  The editor's "Breyer Notes.md" was compared after the reading and agrees.
+- **Summary**: `S[2]` in `holding.py`, claim-checked in
+  `intake/claim_check.yml` (15 statements, three weakened).
+- **Spot sheet** "Readings in Breyer's second notebook", 15 rows
+  (`intake/spot_sheet4.py`, rows in `intake/readings4.csv`, port 4102).
+- **Index**: Koppe, Küster and Stanisław Miączyński shut out of document 2
+  ("Koppen" is sheaf stacks, the Küster is the sexton of Józefów, the Count
+  of about 1911 is a later, unidentified Miączyński); Holland as for
+  document 1. The surname-only "Lipski" of the name list is found twice:
+  once the owner of the Chocz estate about 1790, once "Lipski" as the new
+  name of Nowo-Lipsk; neither is the 9454 Lipski. Left: the name list has
+  no way to shut a document out.
+- The glossary entry Morgen now also takes "Mor." after a figure.
+
 ## Provenance
 
 Archiwum Państwowe w Poznaniu, fonds 968 (Albert Breyer - spuścizna), unit

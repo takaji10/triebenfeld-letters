@@ -1,25 +1,47 @@
 ﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
-1,3,33,34,-,Nowo,u,Nowou,join,high,head is not a word on its own,False,0,0,0,615,9,,häufig dafür: Nowo- || u. Alt Łazinsk u.
-1,4,49,50,¬,durch,mischt,durchmischt,join,high,"joined form attested in DWDS (44,638 hits)",False,0,44638,0,,1,,"mit Polen stark durch¬ || mischt, sprechen mit"
+1,3,33,34,-,Nowo,u,Nowou,join,held,head is not a word on its own,False,0,0,1,615,19,2115894,häufig dafür: Nowo- || u. Alt Łazinsk u.
+1,4,49,50,¬,durch,mischt,durchmischt,join,high,"joined form attested in DWDS (44,638 hits)",False,0,44638,1,,1,,"mit Polen stark durch¬ || mischt, sprechen mit"
 1,5,65,66,¬,ausge,prägt,ausgeprägt,join,high,"joined form attested in DWDS (644,191 hits)",False,0,644191,0,,1,,jedoch nicht rein ausge¬ || prägt
 1,7,83,84,¬,Gesang,bücher,Gesangbücher,join,high,"joined form attested in DWDS (23,984 hits)",False,0,23984,0,,5,,Meist Breslauer Gesang¬ || bücher. —
 1,15,203,204,¬,Hilfs,kraft,Hilfskraft,join,high,"joined form attested in DWDS (90,225 hits)",False,0,90225,0,,1,,"Seit 2 Jahren eine Hilfs¬ || kraft, da ein neues Schul¬"
 1,15,204,205,¬,Schul,gebäude,Schulgebäude,join,high,"joined form attested in DWDS (178,264 hits)",False,0,178264,0,,1,,"kraft, da ein neues Schul¬ || gebäude gebaut wurde."
-1,15,208,209,¬,Trąb,czyn,Trąbczyn,join,high,joined form occurs elsewhere in this corpus,False,3,,0,,1,,die Rekruten d. Gem. Trąb¬ || czyn nicht polnisch können.
-1,18,255,256,¬,Viel,leicht,Vielleicht,join,high,"joined form attested in DWDS (13,084,893 hits)",False,0,13084893,2,,1,,Pastor wendet ein: Viel¬ || leicht. —
+1,15,208,209,¬,Trąb,czyn,Trąbczyn,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,3,,die Rekruten d. Gem. Trąb¬ || czyn nicht polnisch können.
+1,18,255,256,¬,Viel,leicht,Vielleicht,join,high,"joined form attested in DWDS (13,084,893 hits)",False,0,13084893,7,,1,,Pastor wendet ein: Viel¬ || leicht. —
 1,20,274,275,¬,ver,grössert,vergrössert,join,high,"joined form attested in DWDS (53,793 hits)",False,0,53793,0,,1,,"Vor zwei Jahren Schule ver¬ || grössert, bezäunt, Gmina"
 1,20,280,281,¬,Schwierig,keiten,Schwierigkeiten,join,high,"joined form attested in DWDS (1,658,139 hits)",False,0,1658139,0,,1,,daraus grosse Schwierig¬ || keiten. Der Schulze i. Drzewce
-1,21,298,299,¬,Emilien,heim,Emilienheim,join,high,joined form occurs elsewhere in this corpus,False,14,,0,,1,,Breslauer Bücher in Emilien¬ || heim.
+1,21,298,299,¬,Emilien,heim,Emilienheim,join,high,joined form occurs elsewhere in this corpus,False,17,,0,,2,,Breslauer Bücher in Emilien¬ || heim.
 1,24,332,333,¬,Leinwand,platte,Leinwandplatte,split,high,joined form unattested; both halves are real words,False,0,14,0,656517,1,266204,"„In der Tür eine Leinwand¬ || platte gegen d. Hitze"""
-1,24,336,337,¬,Win,ter,Winter,join,high,"joined form attested in DWDS (3,775,728 hits)",False,0,3775728,0,,1,,"Lehm ausgefüllt, im Win¬ || ter kalt."
+1,24,336,337,¬,Win,ter,Winter,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"Lehm ausgefüllt, im Win¬ || ter kalt."
 1,25,351,352,¬,verzwei,gen,verzweigen,join,high,"joined form attested in DWDS (27,272 hits)",False,0,27272,0,,1,,"aber nicht kerzengerade, verzwei¬ || gen sich mehr."
 1,25,357,358,¬,Zement,kreuze,Zementkreuze,split,high,joined form unattested; both halves are real words,False,0,7,0,85563,1,249498,auch die neuen Zement¬ || kreuze sind den Łazinsker
-1,26,368,369,¬,Włodzi,mierow,Włodzimierow,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,wann? Heisst heute Włodzi¬ || mierow. Noch lange vor dem
+1,26,368,369,¬,Włodzi,mierow,Włodzimierow,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,wann? Heisst heute Włodzi¬ || mierow. Noch lange vor dem
 1,27,388,389,¬,ande,res,anderes,split,high,joined form unattested; both halves are real words,False,0,0,0,5805,1,26759,"In jedem Holland ein ande¬ || res Buch, darum gleiche"
 1,28,405,406,¬,Gesang,bücher,Gesangbücher,join,high,"joined form attested in DWDS (23,984 hits)",False,0,23984,0,,5,,Früher Breslauer Gesang¬ || bücher.
-1,28,409,410,¬,Eng,land,England,join,high,"joined form attested in DWDS (1,928,075 hits)",False,0,1928075,0,,11,,"Postbeamte, Missionar, Indien, Eng¬ || land, Krieg, Dänemark, Rostock."
-1,29,416,417,¬,aus,gewandert,ausgewandert,join,high,"joined form attested in DWDS (130,020 hits)",False,0,130020,14,,1,,"Nach Wolhynien sind aus¬ || gewandert 4 Brüder d. Schulz,"
+1,28,409,410,¬,Eng,land,England,join,high,"joined form attested in DWDS (1,928,075 hits)",False,0,1928075,0,,17,,"Postbeamte, Missionar, Indien, Eng¬ || land, Krieg, Dänemark, Rostock."
+1,29,416,417,¬,aus,gewandert,ausgewandert,join,high,"joined form attested in DWDS (130,020 hits)",False,0,130020,22,,2,,"Nach Wolhynien sind aus¬ || gewandert 4 Brüder d. Schulz,"
 1,29,421,422,¬,ge,zogen,gezogen,join,high,joined form occurs elsewhere in this corpus,False,1,,1,,1,,"Nach Amerika viel ge¬ || zogen, kam zurück, kaufte"
 1,30,442,443,¬,Abga,ben,Abgaben,join,high,"joined form attested in DWDS (723,989 hits)",False,0,723989,0,,1,,zahlen gut Abga¬ || ben sagte d. Steuerinspek.
 1,30,444,445,¬,zusammen,schliessen,zusammenschliessen,join,high,"joined form attested in DWDS (4,899 hits)",False,0,4899,2,,1,,nicht zusammen¬ || schliessen; dann aber doch.
 1,35,528,529,¬,verbo,ten,verboten,join,high,"joined form attested in DWDS (2,375,338 hits)",False,0,2375338,0,,1,,haben d. Polen verbo¬ || ten d. [Rutkowski?] [?]
+2,3,560,561,¬,zurück,gekommen,zurückgekommen,join,high,"joined form attested in DWDS (386,684 hits)",False,0,386684,4,,4,,"[?], sind zurück¬ || gekommen (Hom, Liske)"
+2,3,562,563,¬,Lehm,katen,Lehmkaten,split,high,joined form unattested; both halves are real words,False,0,180,4,94037,1,4329,"Łazinsker Lehm¬ || [katen?], alle nehmen"
+2,3,567,568,¬,Emilien,heim,Emilienheim,join,high,joined form occurs elsewhere in this corpus,False,17,,0,,2,,"Augustynow u. Emilien¬ || heim zusammengegründet,"
+2,3,570,572,,nach,Nach,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,nach Emilienheim || Nach Włodzimierow.
+2,4,576,577,¬,Tramb,czyn,Trambczyn,join,high,head is not a word on its own,False,0,0,0,7,3,,"vor 25 Jahre vom Gute Tramb¬ || czyn, Besitzer hiess: Graf"
+2,4,584,585,¬,Schwind,sucht,Schwindsucht,join,high,"joined form attested in DWDS (7,678 hits)",False,0,7678,0,,3,,In Łazinsk ist Schwind¬ || sucht verbreitet. Doktor Brede
+2,4,586,587,¬,da,rüber,darüber,join,high,"joined form attested in DWDS (11,721,585 hits)",False,0,11721585,2,,1,,"in Zagórów wundert sich da¬ || rüber; er meint, in dieser Gegend"
+2,5,589,590,¬,ver,zierung,verzierung,join,high,"joined form attested in DWDS (91,351 hits)",False,0,91351,0,,1,,[Tür?]ver¬ || zierung
+2,5,594,595,¬,Schwind,sucht,Schwindsucht,join,high,"joined form attested in DWDS (7,678 hits)",False,0,7678,0,,3,,dürfte doch keine Schwind¬ || sucht herrschen.
+2,7,615,616,¬,Wło,dzimierzow,Włodzimierzow,split,high,joined form unattested; both halves are real words,False,0,0,0,20666500,1,0,Bei 40 Jahre als Wło¬ || dzimierzow entstand
+2,10,669,670,¬,Pommer,ellen,Pommerellen,join,high,"joined form attested in DWDS (1,391 hits)",False,0,1391,0,,1,,bei Strzałkowo; jetzt i. Pommer¬ || ellen 48 Morg. gutes Land
+2,10,675,676,¬,ge,denkt,gedenkt,join,high,joined form occurs elsewhere in this corpus,False,2,,1,,1,,"Merk hat 53 Jahre, ge¬ || denkt die russ. Auswand."
+2,12,711,712,¬,gestoh,len,gestohlen,join,high,"joined form attested in DWDS (1,150,308 hits)",False,0,1150308,0,,1,,"Es wurden Kartoffeln gestoh¬ || len, aus Gutmütigkeit. —"
+2,13,721,722,¬,Gottmanns,jetzt,Gottmannsjetzt,split,high,joined form unattested; both halves are real words,False,0,0,0,3468,3,38239277,"auf früheren [Gottmanns?]¬ || [?], jetzt [verkauft?]"
+2,14,742,743,¬,Tromp,czyn,Trompczyn,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,3,,"Łazinsker v. Tromp¬ || czyn C, Wald angekauft"
+2,15,755,756,¬,Schorn,steine,Schornsteine,join,high,"joined form attested in DWDS (115,973 hits)",False,0,115973,0,,1,,niedrige Schorn¬ || steine.
+2,17,772,773,¬,schlech,ter,schlechter,join,high,"joined form attested in DWDS (8,501,055 hits)",False,0,8501055,0,,2,,In Obory viel schlech¬ || ter Wald für Servi¬
+2,17,773,774,¬,Servi,tut,Servitut,join,high,joined form occurs elsewhere in this corpus,False,4,,0,,1,,ter Wald für Servi¬ || tut. Bekommen
+2,18,781,782,¬,An,deres,Anderes,split,high,joined form unattested; both halves are real words,False,0,0,9,203629291,1,1728,wenig Wiesen. An¬ || deres Landsch.-Bild
+2,19,791,792,¬,Ge,treide,Getreide,join,high,"joined form attested in DWDS (359,945 hits)",False,0,359945,1,,1,,Mit Karren Ge¬ || treide eingefahren.
+2,19,793,794,¬,Stän,derscheune,Ständerscheune,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,Dicht neben d. Stän¬ || derscheune eine
+2,23,851,852,¬,Ge,lächter,Gelächter,join,high,"joined form attested in DWDS (115,148 hits)",False,0,115148,1,,1,,"machen: es ist aber ein Ge¬ || lächter, übt m. 2 d. [Hochz?],"

@@ -208,6 +208,9 @@ entries:
   match_de:
     - '(?:\d[\d.,/]*\s*|hundert\s+|Magdeburger\s+|[Kk]ulmische?n?\s+|preu(?:ß|ss)ische?n?\s+)(?P<w>Morgen)\b'
     - '(?:\d[\d.,/]*\s*)(?P<w>Morg)\b\.?'
+    # "15 Mor." in Breyer's notebook of 1936, and "24 Mor¬gen" broken at a
+    # line end (2026-10-14)
+    - '(?:\d[\d.,/]*\s*)(?P<w>Mor)(?=\.|¬)'
   match_en: '\bMorgen\b'
   short_en: >-
     A measure of land, roughly what a team could plough in a day or, as the

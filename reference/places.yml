@@ -1433,7 +1433,7 @@ places:
     match: 'Holland(?![a-zà-ÿ])'
     # In Breyer's notebook of 1936 "Holland" is an Olęder settlement ("Altes
     # Holland", "In jedem Holland"), not the country.
-    not_in: [app539680669-1]
+    not_in: [app539680669-1, app539680669-2]
     tier: "Established"
     variants: []
 

@@ -29,3 +29,27 @@ app539680669-001:
 - {claim: "Flurnamen, Redensarten der Brücher (ick war do)", verdict: supported, where: "p. 8: Flurnamen; p. 22: Flurnamen 1) Bronikel ...; p. 27: ick war do = Brücher."}
 - {claim: "Häuser, Scheunen und hölzerne Grabbretter", verdict: supported, where: "p. 5: Pommersche Scheunen ... Häuser aus Lehm; p. 25: ähnliche hölzerne Grabbretter wie in Łazinsk"}
 - {claim: "die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift Juli 1935 und nennt Gostynin, Leonberg und Grabie", verdict: supported, where: "pp. 30-33: exposures, aperture (Bl.), filter, times; p. 33: Juli 1935 ... Gostynin, Kirche ... Leonberg, Schule ... Grabie, Landwirt."}
+
+# Page numbers of document 2: 1 the cover (5192_a), 2 = 5193_a2, then in order to 25 = 5205_a1.
+# Document 2 (added 2026-10-14), the notebook "V. Grodziec Juli 1936". 15
+# statements, 12 supported as first written, three weakened: the teachers and
+# sextons of 1895 to 1928 were first placed "in Józefów" (the page does not
+# name the place); the years of the last page were first called founding
+# years (the page gives the years only); and "Sachsengänger" was cut, a word
+# read with doubt.
+app539680669-002:
+- {claim: "Zweites Notizbuch Albert Breyers vom Juli 1936, mit Bleistift geschrieben, auf dem Umschlag V. Grodziec Juli 1936", verdict: supported, where: "p. 1: V. Grodziec / Juli 1936"}
+- {claim: "es handelt jedoch von Łazińsk und den Nachbarorten", verdict: supported, where: "p. 2: Łazinsk; pp. 4-24 Włodzimierow, Emilienheim, Obory, Kazimierka, Józefów"}
+- {claim: "vor 65 Jahren seien im März sehr viele aus Łazińsk nach Russland gegangen, einen Monat zu Fuß", verdict: supported, where: "p. 2: Vor 65 Jahren im März, sehr viele nach Russland. Ein Monat gewandert, wenn es gut war."}
+- {claim: "kurz vor dem Krieg seien auch Leute aus Wolhynien zurückgekehrt", verdict: supported, where: "p. 2: Kurz vor d. Kriege sind auch Wolhyn. zurückgek."}
+- {claim: "Włodzimierów sei vor 25 Jahren vom Gut Trąbczyn parzelliert worden, dessen Besitzer Graf Miączyński hieß, fast alles an Deutsche", verdict: supported, where: "p. 4: Włodzimierow parzeliert fast alles Deutsche. Parzeliert Włodzimierow vor 25 Jahre vom Gute Trambczyn, Besitzer hiess: Graf Miączyński."}
+- {claim: "das Restgut hatte etwa 60 Morgen, Jesse kam aus Białobłoty", verdict: supported, where: "p. 4: Restgut hatte an 60 Morgen. Jesse kam aus Białobłoty."}
+- {claim: "auf Waldland des Gutes Trąbczyn, das ein Jude gekauft und 5–6 Jahre vor dem Krieg an Deutsche weiterverkauft hatte, liegt die Neusiedlung Trompczyn D.", verdict: supported, where: "p. 8: Das Land war Wald, der gehörte zum Gute Trombczyn ... kaufte ein Jude; 5–6 Jahre vor dem Kriege an Deutsche abverkauft. Die Neusiedl. heisst Trompczyn D."}
+- {claim: "mit Bochenski, Kinast, Retzlaff, Schwarz, Lipelt, Schmechel und einem Polen", verdict: supported, where: "p. 8: Bochenski 20 M., Kinast, Winterfeld, ... Retzläff, ein Pole, Schwarz Lipelt, Schmechel."}
+- {claim: "in Łazińsk ist nach dem Arzt Brede in Zagórów die Schwindsucht verbreitet", verdict: supported, where: "p. 4: In Łazinsk ist Schwindsucht verbreitet. Doktor Brede in Zagórów wundert sich darüber"}
+- {claim: "beim Gebet kniet die Gemeinde", verdict: supported, where: "p. 7: Gottesdienst i. Łazinsk ... Bei dem allgemeinen Gebet kniet die Gemeinde."}
+- {claim: "Deutsche aus Łazińsk erhielten durch die Kolonisationskommission drainiertes Land und wurden in Ostfelde bei Września von den Polen vertrieben", verdict: supported, where: "p. 11: Kolonisationskommission ... Haben gutes, drainiertes Land bekommen. In Ostfelde Wrześ. die Deutschen aus Łazinsk von d. Polen runtergejagt"}
+- {claim: "Lehrer und Küster von 1895 bis 1928", verdict: supported, where: "p. 24: Küster bis v. 1907 ... 1907 – 1928 Fr. Lehmann. vor Kuske Thiem 1895 – 1898. First written 'in Józefów': overstated, weakened"}
+- {claim: "Plattdeutsch und Kaschubisch, Servitute von den Gütern Biała, Niniew und Chocz", verdict: supported, where: "pp. 24-25: kaschub., plattdeutsch; p. 15: Vom Gute Biała; p. 17: Servitut vom Gute Niniew; p. 23: Vom Gute Chocz"}
+- {claim: "Ständer- und pommersche Scheunen, Grabbretter in Kazimierka und Józefów und uneheliche Kinder", verdict: supported, where: "p. 19: Ständerscheune ... pommersche; pp. 20, 22: Grabbretter; p. 13: Uneheliche Kinder viel. 'Sachsengänger' cut: read with doubt"}
+- {claim: "die letzte Seite nennt Jahreszahlen: ein Züllichauer Gesangbuch von 1744, Alt-Kazimierka 1782, Józefów 9. November 1790, vom Gute Chocz, dessen Besitzer Lipski hieß", verdict: supported, where: "p. 25: Züllichau Gesangb. 1744. Alt-Kazimierka 1782 Józefów 9 Nov. 1790. vom Gute Chocz, Besit. Lipski. First written as founding years: weakened"}

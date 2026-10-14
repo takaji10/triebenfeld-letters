@@ -4,7 +4,8 @@
     python units/app539680669/intake/holding.py            # check only
     ... --crop        cut the page images at the folds
     ... --sheet       the fold page for the editor
-    ... --write       page files and corpus.txt from TEXT
+    ... --crop2       cut the page images of document 2 (photos.py first)
+    ... --write       page files and corpus.txt from TEXT and TEXT2
     ... --english     write translation/doc1.yml from ENGLISH
     ... --cache       put it into the translation cache
     ... --summaries   write the summaries S everywhere they are kept
@@ -107,7 +108,6 @@ FOLDS = {2: 1264, 3: 1286, 4: 1286, 5: 1288, 6: 1290, 7: 1290, 8: 1293, 9: 1293,
 SCANS = [('Image00001.jpg', None, '0001_a', None)] + [
     ('Image%05d.jpg' % n, x, '%04d_a1' % n, '%04d_a2' % n) for n, x in sorted(FOLDS.items())]
 PAGE_IDS = ['0001_a'] + ['%04d_a%d' % (n, s) for n in sorted(FOLDS) for s in (1, 2)]
-DOCS = [(1, PAGE_IDS)]
 LEAF = {'0001_a': 'the cover', '0002_a1': 'inside the front cover', '0018_a2': 'inside the back cover'}
 FOLD_NOTE = 'Both halves are pages of the edition.'
 
@@ -616,31 +616,47 @@ die Welt unter.""",
 }
 
 from english import ENGLISH  # noqa: E402  (the English, page by page: intake/english.py)
+# Document 2, the notebook "V. Grodziec Juli 1936" (the editor's photos; notebook2.py, photos.py).
+from notebook2 import BLANK2, ENGLISH2, FOLDS2, PAGE_IDS2, TEXT2  # noqa: E402
+from photos import PHOTOS  # noqa: E402
+
+SCANS2 = [(PHOTOS + '/IMG_5192.jpg', None, '5192_a', None)] + [
+    (PHOTOS + '/IMG_%d.jpg' % n, x, '%d_a1' % n, '%d_a2' % n) for n, x in sorted(FOLDS2.items())]
+DOCS = [(1, PAGE_IDS), (2, PAGE_IDS2)]
 
 S = {
  1: ('Notizbuch Albert Breyers, mit Bleistift geschrieben, auf dem Umschlag „Juli 1936“, „Łazinsk“ und „Emilienheim“: Notizen nach den Angaben der Bewohner der deutschen Siedlungen der Gemeinde Trąbczyn. Die Kolonie Łazińsk, bei der der Stempel ihres Schulzen im Heft steht, hat 2040 Morgen und 250 Wirte; vom Gut Trąbczyn erhielt sie um 1880, mit Fragezeichen, Servitute, die beim Notar dem alten Land zugeschrieben wurden und hoch besteuert sind. Breyer fragt, wann das Restgut Trąbczyn parzelliert wurde, das Jesse kaufte und das heute Włodzimierow heißt. Er notiert die Lehrer in Łazińsk: Mielke seit 1925, Klingbeil 9 Jahre, Ed. Zelmer 34 Jahre, Radke 10 Jahre, Rasch 50 Jahre, der noch mit 80 Jahren unterrichtete; am ersten Unterrichtstag waren 186 Kinder in der Schule, und zehn Jahre lang hatte ein Lehrer 170 Schüler. Die Militärbehörden klagten beim Unterrichtsministerium, die Rekruten der Gemeinde Trąbczyn könnten nicht Polnisch. Viele sind nach Wolhynien ausgewandert, aus Łazinsk auch nach Russland und zurück, andere nach Amerika und Brasilien. Emilienheim wurde an Drzewce angeschlossen, weil 11 Personen zur Zahl 200 fehlten. Weiter: Heiratskreise, Gesangbücher aus Breslau und Züllichau, Flurnamen, Redensarten der „Brücher“ („ick war do“), Häuser, Scheunen und hölzerne Grabbretter. Die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift „Juli 1935“ und nennt Gostynin, Leonberg und Grabie.',
      'Albert Breyer\'s notebook, written in pencil, with "Juli 1936", "Łazinsk" and "Emilienheim" on the cover: notes from what the people of the German settlements of the commune of Trąbczyn told him. The colony of Łazińsk, beside which the stamp of its village mayor stands in the notebook, has 2,040 Morgen and 250 farmers; about 1880, with a question mark, it received servitudes from the Trąbczyn estate, which were added to the old land at the notary\'s and are heavily taxed. Breyer asks when the remaining manor land of Trąbczyn was parcelled out, which Jesse bought and which is now called Włodzimierow. He lists the teachers of Łazińsk: Mielke since 1925, Klingbeil 9 years, Ed. Zelmer 34 years, Radke 10 years, Rasch 50 years, who still taught at 80; on the first day of lessons there were 186 children in the school, and for ten years one teacher had 170 pupils. The military authorities complained to the Ministry of Education that the recruits of the commune of Trąbczyn could not speak Polish. Many emigrated to Volhynia, people from Łazinsk also to Russia and back, others to America and Brazil. Emilienheim was joined to Drzewce because 11 persons were lacking to make 200. Further notes cover marriage circles, hymn books from Wrocław and Züllichau, field names, the speech of the "Brücher" ("ick war do"), houses, barns and wooden grave boards. The last pages are a log of his photographs; one of them is headed "Juli 1935" and names Gostynin, Leonberg and Grabie.'),
+ 2: ('Zweites Notizbuch Albert Breyers vom Juli 1936, mit Bleistift geschrieben, auf dem Umschlag „V. Grodziec Juli 1936“; es handelt jedoch von Łazińsk und den Nachbarorten. Vor 65 Jahren seien im März sehr viele aus Łazińsk nach Russland gegangen, einen Monat zu Fuß; kurz vor dem Krieg seien auch Leute aus Wolhynien zurückgekehrt. Włodzimierów sei vor 25 Jahren vom Gut Trąbczyn parzelliert worden, dessen Besitzer Graf Miączyński hieß, fast alles an Deutsche; das Restgut hatte etwa 60 Morgen, Jesse kam aus Białobłoty. Auf Waldland des Gutes Trąbczyn, das ein Jude gekauft und 5–6 Jahre vor dem Krieg an Deutsche weiterverkauft hatte, liegt die Neusiedlung „Trompczyn D.“ mit Bochenski, Kinast, Retzlaff, Schwarz, Lipelt, Schmechel und einem Polen. In Łazińsk ist nach dem Arzt Brede in Zagórów die Schwindsucht verbreitet; beim Gebet kniet die Gemeinde. Deutsche aus Łazińsk erhielten durch die Kolonisationskommission drainiertes Land und wurden in Ostfelde bei Września von den Polen vertrieben. Weiter: Lehrer und Küster von 1895 bis 1928, Plattdeutsch und Kaschubisch, Servitute von den Gütern Biała, Niniew und Chocz, Ständer- und pommersche Scheunen, Grabbretter in Kazimierka und Józefów und uneheliche Kinder. Die letzte Seite nennt Jahreszahlen: ein Züllichauer Gesangbuch von 1744, Alt-Kazimierka 1782, Józefów 9. November 1790, „vom Gute Chocz“, dessen Besitzer Lipski hieß.',
+     'Albert Breyer\'s second notebook of July 1936, written in pencil, with "V. Grodziec Juli 1936" on the cover; it is, however, about Łazińsk and the places around it. 65 years earlier, in March, very many people from Łazińsk had gone to Russia, a month on foot; shortly before the war people from Volhynia had come back as well. Włodzimierów had been parcelled out 25 years earlier from the Trąbczyn estate, whose owner was called Count Miączyński, almost all of it to Germans; the remaining manor had some 60 Morgen, and Jesse came from Białobłoty. On forest land of the Trąbczyn estate, which a Jew had bought and sold on to Germans 5–6 years before the war, lies the new settlement "Trompczyn D." with Bochenski, Kinast, Retzlaff, Schwarz, Lipelt, Schmechel and a Pole. In Łazińsk, according to the doctor Brede in Zagórów, consumption is widespread; during prayers the congregation kneels. Germans from Łazińsk received drained land through the Colonisation Commission and were driven out by the Poles at Ostfelde near Września. Further notes cover teachers and sextons from 1895 to 1928, Low German and Kashubian, servitudes from the estates of Biała, Niniew and Chocz, post-built and Pomeranian barns, grave boards at Kazimierka and Józefów, and illegitimate children. The last page gives dates: a Züllichau hymn book of 1744, Old Kazimierka 1782, Józefów 9 November 1790, "from the Chocz estate", whose owner was called Lipski.'),
 }
 HOW = 'written in the working session from the German as read (intake/holding.py, 2026-10-14).'
 
 
 def read_source():
-    return {(1, pid): TEXT[pid].split('\n') for pid in PAGE_IDS}
+    out = {(1, pid): TEXT[pid].split('\n') for pid in PAGE_IDS}
+    out.update({(2, pid): TEXT2[pid].split('\n') for pid in PAGE_IDS2})
+    return out
 
 
 def english():
-    return {1: [ENGLISH[pid] for pid in PAGE_IDS]}
+    return {1: [ENGLISH[pid] for pid in PAGE_IDS], 2: [ENGLISH2[pid] for pid in PAGE_IDS2]}
 
 
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
     arg = sys.argv[1:]
     assert sorted(TEXT) == sorted(PAGE_IDS), set(TEXT) ^ set(PAGE_IDS)
-    lines = sum(len(t.split('\n')) for t in TEXT.values())
-    marks = sum(t.count('?]') for t in TEXT.values())
-    print(len(TEXT), 'pages,', lines, 'lines,', marks, 'marks of doubt')
+    assert sorted(TEXT2) == sorted(PAGE_IDS2) == sorted(ENGLISH2), set(TEXT2) ^ set(PAGE_IDS2)
+    for n, t in ((1, TEXT), (2, TEXT2)):
+        print('document %d:' % n, len(t), 'pages,', sum(len(x.split('\n')) for x in t.values()), 'lines,',
+              sum(x.count('?]') for x in t.values()), 'marks of doubt')
     if '--crop' in arg:
         courtbook.cut(RAW, courtbook.placed(HERE, SCANS))
+    if '--crop2' in arg:
+        # the photos stand in PHOTOS under RAW, so the pages go to the same processed/ as the scans;
+        # the blank inside covers go to processed/_not_staged/
+        courtbook.cut(RAW, SCANS2, skip=BLANK2)
     if '--sheet' in arg:
         courtbook.fold_sheet(ROOT, SLUG, REF, RAW, courtbook.placed(HERE, SCANS), (), LEAF, note=FOLD_NOTE)
     if '--write' in arg:
@@ -648,7 +664,8 @@ def main():
     if '--english' in arg:
         tdir = os.path.join(HERE, 'translation')
         os.makedirs(tdir, exist_ok=True)
-        courtbook.write_doc_yml(os.path.join(tdir, 'doc1.yml'), english()[1])
+        for n, pages in english().items():
+            courtbook.write_doc_yml(os.path.join(tdir, 'doc%d.yml' % n), pages)
     if '--cache' in arg:
         courtbook.save_cache(ROOT, SLUG, os.path.join(HERE, 'translation'))
     if '--summaries' in arg:

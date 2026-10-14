@@ -915,3 +915,15 @@ cloud branches").
   editor read "Swięcer" and "St?pin" where Claude read "Smięcer" and "Sm…".
   Read such a name against the places of the edition (Swięcia is one) before
   settling it, and do not take the first reading of it without doubt.
+- **A Canon CR2 the viewer shows on its side** (APP 53/968/0/-/669,
+  IMG_5205, 2026-10-14) carries EXIF orientation 6; the full-size JPEG
+  inside the file is stored unturned. Read the orientation tag before
+  turning anything: here the picture taken from the file was already
+  upright although the editor asked for it turned.
+- **Adding a document to a holding read from photos of a table top**: cut
+  each photo to the notebook first (the wood around it confuses the fold
+  finder and the line positions), keep the photos in a folder under the
+  scans folder so that `courtbook.cut` writes the pages to the same
+  `processed/`, and give the pages ids that cannot collide with the scans'
+  (the photo number: 5193_a2). `save_cache` finds a new document only
+  after a build has put it in the database.

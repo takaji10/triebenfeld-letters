@@ -104,10 +104,12 @@ Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 ## The twentieth century
 
 **The manor parcelled out; the German settlements of the commune of Trąbczyn.
-[1 document, 1936]({{ '/sources/app539680669/' | relative_url }}).** The name of this era is a working name.
+[2 documents, 1936]({{ '/sources/app539680669/' | relative_url }}).** The name of this era is a working name.
 
 By the 1930s the manor had been parcelled out, and its remaining land, bought by a man named
 Jesse, was called Włodzimierow. The historian Albert Breyer went to Łazińsk and Emilienheim in
 July 1936 and wrote down what the settlers told him: about their land and their schools, who had
 gone to Volhynia, Russia, America or Brazil, how they spoke, and how they marked their graves
-([his notebook]({{ '/documents/app539680669/1/' | relative_url }})).
+([his notebooks]({{ '/sources/app539680669/' | relative_url }})). A second notebook adds that
+Włodzimierow had been parcelled out about 1911, almost all of it to Germans
+([the second notebook]({{ '/documents/app539680669/2/' | relative_url }})).

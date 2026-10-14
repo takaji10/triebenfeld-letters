@@ -63155,6 +63155,120 @@
   ]
  },
  {
+  "entity": "lipski",
+  "display": "Lipski",
+  "count": 11,
+  "documents": [
+   "app539680669-2",
+   "oe1bu9454-215",
+   "oe1bu9454-229",
+   "oe1bu9454-232",
+   "oe1bu9454-28",
+   "oe1bu9454-68"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-28",
+    "surface": "Lipski",
+    "page": 1,
+    "page_id": "0049_b",
+    "scan": "Oe_1_Bu_9454_0049_b-L28_01.jpg",
+    "line": 1856,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-68",
+    "surface": "Lipski",
+    "page": 2,
+    "page_id": "0133_a1",
+    "scan": "Oe_1_Bu_9454_0133_a1-L68_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-68",
+    "surface": "Lipski",
+    "page": 2,
+    "page_id": "0133_a1",
+    "scan": "Oe_1_Bu_9454_0133_a1-L68_02.jpg",
+    "line": 5378,
+    "doc_line": 38
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Lipski",
+    "page": 2,
+    "page_id": "0402_a1",
+    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-215",
+    "surface": "Lipski",
+    "page": 2,
+    "page_id": "0402_a1",
+    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
+    "line": 15362,
+    "doc_line": 64
+   },
+   {
+    "uid": "oe1bu9454-229",
+    "surface": "Lipski",
+    "page": 1,
+    "page_id": "0431_b",
+    "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-229",
+    "surface": "Lipski",
+    "page": 1,
+    "page_id": "0431_b",
+    "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
+    "line": 16711,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-232",
+    "surface": "Lipski",
+    "page": 1,
+    "page_id": "0436_b",
+    "scan": "Oe_1_Bu_9454_0436_b-L232_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-232",
+    "surface": "Lipski",
+    "page": 1,
+    "page_id": "0436_b",
+    "scan": "Oe_1_Bu_9454_0436_b-L232_01.jpg",
+    "line": 16909,
+    "doc_line": 20
+   },
+   {
+    "uid": "app539680669-2",
+    "surface": "Lipski",
+    "page": 25,
+    "page_id": "5205_a1",
+    "scan": "APP_53_968_0_669_5205_a1-L2_25.jpg",
+    "line": 886,
+    "doc_line": 323
+   },
+   {
+    "uid": "app539680669-2",
+    "surface": "Lipski",
+    "page": 25,
+    "page_id": "5205_a1",
+    "scan": "APP_53_968_0_669_5205_a1-L2_25.jpg",
+    "line": 889,
+    "doc_line": 326
+   }
+  ]
+ },
+ {
   "entity": "kaiser-alexander",
   "display": "Kaiser Alexander I.",
   "count": 11,
@@ -64676,101 +64790,6 @@
     "scan": "Oe_1_Bu_9454_0496_a2-L272_03.jpg",
     "line": 19340,
     "doc_line": 47
-   }
-  ]
- },
- {
-  "entity": "lipski",
-  "display": "Lipski",
-  "count": 9,
-  "documents": [
-   "oe1bu9454-215",
-   "oe1bu9454-229",
-   "oe1bu9454-232",
-   "oe1bu9454-28",
-   "oe1bu9454-68"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-28",
-    "surface": "Lipski",
-    "page": 1,
-    "page_id": "0049_b",
-    "scan": "Oe_1_Bu_9454_0049_b-L28_01.jpg",
-    "line": 1856,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-68",
-    "surface": "Lipski",
-    "page": 2,
-    "page_id": "0133_a1",
-    "scan": "Oe_1_Bu_9454_0133_a1-L68_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-68",
-    "surface": "Lipski",
-    "page": 2,
-    "page_id": "0133_a1",
-    "scan": "Oe_1_Bu_9454_0133_a1-L68_02.jpg",
-    "line": 5378,
-    "doc_line": 38
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Lipski",
-    "page": 2,
-    "page_id": "0402_a1",
-    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-215",
-    "surface": "Lipski",
-    "page": 2,
-    "page_id": "0402_a1",
-    "scan": "Oe_1_Bu_9454_0402_a1-L215_02.jpg",
-    "line": 15362,
-    "doc_line": 64
-   },
-   {
-    "uid": "oe1bu9454-229",
-    "surface": "Lipski",
-    "page": 1,
-    "page_id": "0431_b",
-    "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-229",
-    "surface": "Lipski",
-    "page": 1,
-    "page_id": "0431_b",
-    "scan": "Oe_1_Bu_9454_0431_b-L229_01.jpg",
-    "line": 16711,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu9454-232",
-    "surface": "Lipski",
-    "page": 1,
-    "page_id": "0436_b",
-    "scan": "Oe_1_Bu_9454_0436_b-L232_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-232",
-    "surface": "Lipski",
-    "page": 1,
-    "page_id": "0436_b",
-    "scan": "Oe_1_Bu_9454_0436_b-L232_01.jpg",
-    "line": 16909,
-    "doc_line": 20
    }
   ]
  },

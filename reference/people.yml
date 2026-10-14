@@ -643,6 +643,9 @@ people:
     # (miaczynski-wlodzimierz); Stanisław is named there once, in the
     # genitive after his forename.
     match: "(?<!Madame )(?<!Hrabia )(?:Mi[ąaęe]czy[nń]sk[iyÿ]|Mosci[nń]sk[iy]|Moszy[nń]sk[iy])(?![a-zà-ÿ])|(?<=Stanisława )Mi[ąa]czy[nń]skiego"
+    # "Graf Miączyński", owner of Trąbczyn about 1911, in Breyer's notebook of
+    # 1936: a later Miączyński, not identified.
+    not_in: [app539680669-2]
     tier: "Text-confirmed (as her husband); forename user-provided via the register"
     identity: >-
       Stanisław Miączyński, second husband of Michalina Prusimska (married about
@@ -1041,6 +1044,8 @@ people:
   koppe:
     display: "Koppe"
     match: 'Koppen?(?![a-zà-ÿ])'
+    # "Koppen — Garbenhaufen" in Breyer's notebook of 1936 is a word, sheaf stacks.
+    not_in: [app539680669-2]
     tier: "Context-inferred"
     variants: ["Koppen"]
     identity: "Secretary Koppe at Stettin (letter 26), later Assessor, back from abroad in March 1808 (letter 36) and written Koppen in May, 'just returned from Paris', in the same Eysenhardt business (letter 37); employed in Hanover by 1815 (letter 291). Koppen merged here 2026-10-04."
@@ -1595,6 +1600,8 @@ people:
   kuester:
     display: "Küster"
     match: 'Küster(?![a-zà-ÿ])'
+    # "Küster" in Breyer's notebook of 1936 is the sexton of Józefów.
+    not_in: [app539680669-2]
     tier: "Text-confirmed"
     variants: ["Küsler"]
     identity: "An official of the State Chancellor's chancery at Vienna, who noted on 20 November 1814 that Triebenfeld's petition had been handed to Stägemann. The transcription read Küsler; the scan has Küster (III. HA MdA, III Nr. 12765). Added 2026-10-01."

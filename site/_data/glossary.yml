@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 90
+  docs: 91
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 39
+  docs: 40
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 45
+  docs: 46
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -701,7 +701,7 @@
   initial_en: "I"
   sort_de: "inventarium"
   initial_de: "I"
-  docs: 16
+  docs: 17
 - id: "einsassen"
   kind: "land"
   lang: "de"
@@ -1214,7 +1214,7 @@
   initial_en: "L"
   sort_de: "landschaft"
   initial_de: "L"
-  docs: 8
+  docs: 9
 - id: "invalidenkasse"
   kind: "law"
   lang: "de"

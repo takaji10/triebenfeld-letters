@@ -1882,6 +1882,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
+## APP 53/968/0/-/669: a second notebook added (2026-10-14; not published)
+
+- **Document 2**, Breyer's notebook "V. Grodziec Juli 1936", from the editor's raw photos IMG_5192 to IMG_5205: 25 pages read in session (33 marks of doubt), English, summary in both languages claim-checked (15 statements, three weakened), the holding's page and title for two notebooks. The camera's full-size picture inside each raw file was used; the last photo, flagged by the camera as turned, is upright inside the file.
+- A spot sheet of 15 readings for the editor. Koppe, Küster and Stanisław Miączyński shut out of the new document; the glossary's Morgen takes "Mor." after a figure.
+- Figures: 570 documents on 1,917 pages in 40 holdings; 828 marks of doubt.
+
 ## Three holdings published (2026-10-14)
 
 - **APP 53/968/0/-/783** (the summons of 1860), **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789) and **APP 53/968/0/-/669** (Albert Breyer's notebook of 1936) published at the editor's word, with the two new eras under working names and the timeline to 1936. Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 795 marks of doubt.
