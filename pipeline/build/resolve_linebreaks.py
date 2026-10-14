@@ -46,7 +46,8 @@ REPORT = os.path.join(ROOT, 'review', UNIT.slug, 'linebreak_report.md')
 
 OFFLINE = '--offline' in sys.argv
 
-WORD = re.compile(r'[A-Za-zÀ-ÿĄąĘęŁłŃńÓóŚśŹźŻżſ]+')
+# Cyrillic for the Russian of 53/968/0/-/716 (2026-10-14), the old letters ѣ і ѳ ѵ included.
+WORD = re.compile(r'[A-Za-zÀ-ÿĄąĘęŁłŃńÓóŚśŹźŻżſ\u0400-\u04ff]+')
 TAG = re.compile(r'^\[DOC (\w+)\]$')
 
 # A DWDS hit count at or above this is treated as "a real word". Chosen from the
@@ -162,7 +163,7 @@ def build_vocab(letters):
             toks = WORD.findall(s)
             if not toks:
                 continue
-            if s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--')):
+            if s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')):
                 toks = toks[:-1]        # last token is a fragment, not a word
             for t in toks:
                 vocab[t.lower().replace('ſ', 's')] += 1
@@ -179,7 +180,7 @@ def collect_wraps(letters):
                 s = text.rstrip()
                 if s.endswith('¬'):
                     mark = '¬'
-                elif re.search(r'\w-$', s) and not s.endswith('--'):
+                elif re.search(r'[^\W\d_]-$', s) and not s.endswith('--'):
                     mark = '-'
                 else:
                     continue
@@ -270,13 +271,23 @@ def collect_unmarked_catchwords(letters):
     as well; the others keep the strict test they were adjudicated under.
     """
     loose = bool((UNIT.get('linebreaks') or {}).get('loose_catchwords'))
+    # A table has no catchwords: two entries of one family on either side of a
+    # page break are two entries ("Хауптъ Готфр." | "Хауптъ Кристьянъ",
+    # 53/968/0/-/716, 2026-10-14).
+    import yaml
+    tables = set()
+    if os.path.isfile(UNIT.rulings_path):
+        with open(UNIT.rulings_path, encoding='utf-8') as f:
+            tables = {str(x) for x in (((yaml.safe_load(f) or {}).get('documents') or {}).get('tables') or [])}
     out = []
     for lid, body in letters.items():
+        if str(lid) in tables:
+            continue
         pages = pages_of(body)
         for pi, page in enumerate(pages[:-1]):
             lineno, text = page[-1]
             s = text.rstrip()
-            if not s or s.endswith('¬') or (re.search(r'\w-$', s) and not s.endswith('--')):
+            if not s or s.endswith('¬') or (re.search(r'[^\W\d_]-$', s) and not s.endswith('--')):
                 continue
             nxt_lineno, nxt_text = pages[pi + 1][0]
             if len(s.strip()) > 28:

@@ -627,7 +627,7 @@ for r in records:
                 dip_lines.append(txt)
                 continue
             t = txt.rstrip()
-            if t.endswith('¬') or (re.search(r'\w-$', t) and not t.endswith('--')):
+            if t.endswith('¬') or (re.search(r'[^\W\d_]-$', t) and not t.endswith('--')):
                 exempt = True             # marked: part of a line goes
                 break
             # unmarked: the whole line goes, so simply leave it out

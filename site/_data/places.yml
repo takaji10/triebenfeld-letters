@@ -135,12 +135,12 @@
   letters: [{id: "43", uid: "oe1bu9454-43", url: "/documents/oe1bu9454/43/"}, {id: "45", uid: "oe1bu9454-45", url: "/documents/oe1bu9454/45/"}, {id: "47", uid: "oe1bu9454-47", url: "/documents/oe1bu9454/47/"}, {id: "48", uid: "oe1bu9454-48", url: "/documents/oe1bu9454/48/"}, {id: "302", uid: "oe1bu9454-302", url: "/documents/oe1bu9454/302/"}, {id: "49", uid: "oe1bu9454-49", url: "/documents/oe1bu9454/49/"}, {id: "56", uid: "oe1bu9454-56", url: "/documents/oe1bu9454/56/"}, {id: "51", uid: "oe1bu9454-51", url: "/documents/oe1bu9454/51/"}, {id: "59", uid: "oe1bu9454-59", url: "/documents/oe1bu9454/59/"}, {id: "60", uid: "oe1bu9454-60", url: "/documents/oe1bu9454/60/"}, {id: "61", uid: "oe1bu9454-61", url: "/documents/oe1bu9454/61/"}, {id: "62", uid: "oe1bu9454-62", url: "/documents/oe1bu9454/62/"}, {id: "65", uid: "oe1bu9454-65", url: "/documents/oe1bu9454/65/"}, {id: "66", uid: "oe1bu9454-66", url: "/documents/oe1bu9454/66/"}, {id: "67", uid: "oe1bu9454-67", url: "/documents/oe1bu9454/67/"}, {id: "22", uid: "oe1bu9454-22", url: "/documents/oe1bu9454/22/"}, {id: "23", uid: "oe1bu9454-23", url: "/documents/oe1bu9454/23/"}, {id: "21", uid: "oe1bu9454-21", url: "/documents/oe1bu9454/21/"}, {id: "68", uid: "oe1bu9454-68", url: "/documents/oe1bu9454/68/"}, {id: "69", uid: "oe1bu9454-69", url: "/documents/oe1bu9454/69/"}, {id: "70", uid: "oe1bu9454-70", url: "/documents/oe1bu9454/70/"}, {id: "71", uid: "oe1bu9454-71", url: "/documents/oe1bu9454/71/"}, {id: "193", uid: "oe1bu9454-193", url: "/documents/oe1bu9454/193/"}, {id: "194", uid: "oe1bu9454-194", url: "/documents/oe1bu9454/194/"}]
 - name: "Kopojno (Kopoyno)"
   slug: "kopojno-kopoyno"
-  count: 3
+  count: 4
   lat: 52.16667
   lon: 17.98333
-  docs: 3
-  span: "1812"
-  letters: [{id: "72a", uid: "oe1bu9454-72a", url: "/documents/oe1bu9454/72a/"}, {id: "72f", uid: "oe1bu9454-72f", url: "/documents/oe1bu9454/72f/"}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/"}]
+  docs: 4
+  span: "1812–1858"
+  letters: [{id: "72a", uid: "oe1bu9454-72a", url: "/documents/oe1bu9454/72a/"}, {id: "72f", uid: "oe1bu9454-72f", url: "/documents/oe1bu9454/72f/"}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/"}, {id: "1", uid: "app539680716-1", url: "/documents/app539680716/1/"}]
 - name: "Königsberg"
   slug: "koenigsberg"
   count: 2
@@ -183,6 +183,12 @@
   docs: 1
   span: "1810"
   letters: [{id: "197", uid: "oe1bu9454-197", url: "/documents/oe1bu9454/197/"}]
+- name: "Orlin"
+  slug: "orlin"
+  count: 2
+  docs: 2
+  span: "1935–1936"
+  letters: [{id: "7", uid: "app539680716-7", url: "/documents/app539680716/7/"}, {id: "9", uid: "app539680716-9", url: "/documents/app539680716/9/"}]
 - name: "Paris"
   slug: "paris"
   count: 1
@@ -249,6 +255,14 @@
   docs: 13
   span: "1808–1815"
   letters: [{id: "29", uid: "oe1bu9454-29", url: "/documents/oe1bu9454/29/"}, {id: "20", uid: "oe1bu9454-20", url: "/documents/oe1bu9454/20/"}, {id: "50", uid: "oe1bu9454-50", url: "/documents/oe1bu9454/50/"}, {id: "223", uid: "oe1bu9454-223", url: "/documents/oe1bu9454/223/"}, {id: "228", uid: "oe1bu9454-228", url: "/documents/oe1bu9454/228/"}, {id: "73", uid: "oe1bu9454-73", url: "/documents/oe1bu9454/73/"}, {id: "238", uid: "oe1bu9454-238", url: "/documents/oe1bu9454/238/"}, {id: "264", uid: "oe1bu9454-264", url: "/documents/oe1bu9454/264/"}, {id: "265a", uid: "oe1bu9454-265a", url: "/documents/oe1bu9454/265a/"}, {id: "265b", uid: "oe1bu9454-265b", url: "/documents/oe1bu9454/265b/"}, {id: "1", uid: "oe1bu9454-1", url: "/documents/oe1bu9454/1/"}, {id: "6", uid: "iiihamdaiiinr12765-6", url: "/documents/iiihamdaiiinr12765/6/"}, {id: "8", uid: "iiihamdaiiinr12765-8", url: "/documents/iiihamdaiiinr12765/8/"}]
+- name: "Słupca"
+  slug: "slupca"
+  count: 1
+  lat: 52.28729
+  lon: 17.87136
+  docs: 1
+  span: "1868"
+  letters: [{id: "4", uid: "app539680716-4", url: "/documents/app539680716/4/"}]
 - name: "Trąbczyn"
   slug: "trabczyn"
   count: 25
@@ -325,7 +339,7 @@
   letters: [{id: "212", uid: "oe1bu9454-212", url: "/documents/oe1bu9454/212/"}, {id: "213", uid: "oe1bu9454-213", url: "/documents/oe1bu9454/213/"}]
 - name: "Unknown"
   slug: "unknown"
-  count: 31
-  docs: 31
-  span: "1789–1815"
-  letters: [{id: "1", uid: "app53640kalisztab21-1", url: "/documents/app53640kalisztab21/1/"}, {id: "13", uid: "oe1bu14525-13", url: "/documents/oe1bu14525/13/"}, {id: "1", uid: "agad1169011745-1", url: "/documents/agad1169011745/1/"}, {id: "101", uid: "oe1bu9454-101", url: "/documents/oe1bu9454/101/"}, {id: "112", uid: "oe1bu9454-112", url: "/documents/oe1bu9454/112/"}, {id: "24", uid: "oe1bu14525-24", url: "/documents/oe1bu14525/24/"}, {id: "150", uid: "oe1bu9454-150", url: "/documents/oe1bu9454/150/"}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/"}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/"}, {id: "183", uid: "oe1bu9454-183", url: "/documents/oe1bu9454/183/"}, {id: "44", uid: "oe1bu9454-44", url: "/documents/oe1bu9454/44/"}, {id: "64", uid: "oe1bu9454-64", url: "/documents/oe1bu9454/64/"}, {id: "63", uid: "oe1bu9454-63", url: "/documents/oe1bu9454/63/"}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/"}, {id: "224", uid: "oe1bu9454-224", url: "/documents/oe1bu9454/224/"}, {id: "230", uid: "oe1bu9454-230", url: "/documents/oe1bu9454/230/"}, {id: "72", uid: "oe1bu9454-72", url: "/documents/oe1bu9454/72/"}, {id: "17", uid: "oe1bu9454-17", url: "/documents/oe1bu9454/17/"}, {id: "19", uid: "oe1bu9454-19", url: "/documents/oe1bu9454/19/"}, {id: "257", uid: "oe1bu9454-257", url: "/documents/oe1bu9454/257/"}, {id: "272", uid: "oe1bu9454-272", url: "/documents/oe1bu9454/272/"}, {id: "285", uid: "oe1bu9454-285", url: "/documents/oe1bu9454/285/"}, {id: "2", uid: "iiihamdaiiinr12367-2", url: "/documents/iiihamdaiiinr12367/2/"}, {id: "3", uid: "iiihamdaiiinr12367-3", url: "/documents/iiihamdaiiinr12367/3/"}, {id: "1", uid: "oe1bu14526-1", url: "/documents/oe1bu14526/1/"}, {id: "9", uid: "oe1bu9454-9", url: "/documents/oe1bu9454/9/"}, {id: "121", uid: "oe1bu9454-121", url: "/documents/oe1bu9454/121/"}, {id: "181", uid: "oe1bu9454-181", url: "/documents/oe1bu9454/181/"}, {id: "225", uid: "oe1bu9454-225", url: "/documents/oe1bu9454/225/"}, {id: "293", uid: "oe1bu9454-293", url: "/documents/oe1bu9454/293/"}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/"}]
+  count: 38
+  docs: 38
+  span: "1789–1936"
+  letters: [{id: "1", uid: "app53640kalisztab21-1", url: "/documents/app53640kalisztab21/1/"}, {id: "13", uid: "oe1bu14525-13", url: "/documents/oe1bu14525/13/"}, {id: "1", uid: "agad1169011745-1", url: "/documents/agad1169011745/1/"}, {id: "101", uid: "oe1bu9454-101", url: "/documents/oe1bu9454/101/"}, {id: "112", uid: "oe1bu9454-112", url: "/documents/oe1bu9454/112/"}, {id: "24", uid: "oe1bu14525-24", url: "/documents/oe1bu14525/24/"}, {id: "150", uid: "oe1bu9454-150", url: "/documents/oe1bu9454/150/"}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/"}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/"}, {id: "183", uid: "oe1bu9454-183", url: "/documents/oe1bu9454/183/"}, {id: "44", uid: "oe1bu9454-44", url: "/documents/oe1bu9454/44/"}, {id: "64", uid: "oe1bu9454-64", url: "/documents/oe1bu9454/64/"}, {id: "63", uid: "oe1bu9454-63", url: "/documents/oe1bu9454/63/"}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/"}, {id: "224", uid: "oe1bu9454-224", url: "/documents/oe1bu9454/224/"}, {id: "230", uid: "oe1bu9454-230", url: "/documents/oe1bu9454/230/"}, {id: "72", uid: "oe1bu9454-72", url: "/documents/oe1bu9454/72/"}, {id: "17", uid: "oe1bu9454-17", url: "/documents/oe1bu9454/17/"}, {id: "19", uid: "oe1bu9454-19", url: "/documents/oe1bu9454/19/"}, {id: "257", uid: "oe1bu9454-257", url: "/documents/oe1bu9454/257/"}, {id: "272", uid: "oe1bu9454-272", url: "/documents/oe1bu9454/272/"}, {id: "285", uid: "oe1bu9454-285", url: "/documents/oe1bu9454/285/"}, {id: "2", uid: "app539680716-2", url: "/documents/app539680716/2/"}, {id: "8", uid: "app539680716-8", url: "/documents/app539680716/8/"}, {id: "3", uid: "app539680716-3", url: "/documents/app539680716/3/"}, {id: "5", uid: "app539680716-5", url: "/documents/app539680716/5/"}, {id: "6", uid: "app539680716-6", url: "/documents/app539680716/6/"}, {id: "11", uid: "app539680716-11", url: "/documents/app539680716/11/"}, {id: "10", uid: "app539680716-10", url: "/documents/app539680716/10/"}, {id: "2", uid: "iiihamdaiiinr12367-2", url: "/documents/iiihamdaiiinr12367/2/"}, {id: "3", uid: "iiihamdaiiinr12367-3", url: "/documents/iiihamdaiiinr12367/3/"}, {id: "1", uid: "oe1bu14526-1", url: "/documents/oe1bu14526/1/"}, {id: "9", uid: "oe1bu9454-9", url: "/documents/oe1bu9454/9/"}, {id: "121", uid: "oe1bu9454-121", url: "/documents/oe1bu9454/121/"}, {id: "181", uid: "oe1bu9454-181", url: "/documents/oe1bu9454/181/"}, {id: "225", uid: "oe1bu9454-225", url: "/documents/oe1bu9454/225/"}, {id: "293", uid: "oe1bu9454-293", url: "/documents/oe1bu9454/293/"}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/"}]

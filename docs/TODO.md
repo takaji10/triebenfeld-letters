@@ -446,3 +446,19 @@ inside the file is upright, only the camera's flag said otherwise. Details:
 - [x] You answered the sheet "Three more in Breyer's second notebook"
       (2026-10-14). Worked in the same day.
 - [x] Published at your word, 2026-10-14.
+
+## 14. APP 53/968/0/-/716: Breyer's Łazińsk notebook, with the tables of 1868 (added 2026-10-14, not published)
+
+Your photos IMG_5159 to IMG_5180: Breyer's notebook and the sheet of 1858
+laid in it, eleven documents by content, six of them tables. Read from the
+photos, translated, summarised and claim-checked; holding page, a timeline
+entry and a paragraph in the story. Details: `units/app539680716/notes.md`.
+
+- [ ] Look at the folds: `review/app539680716/folds/index.html` (placed in
+      session; save and send the file only if you move one).
+- [ ] Answer the spot sheet "Readings in Breyer's Łazińsk notebook"
+      (17 rows, `python pipeline/review/queries.py --unit app539680716
+      --sheet readings.csv --port 4102`).
+- [ ] Say whether the sheet of 1858 and the tables of 1868 stay in the
+      twentieth-century era with Breyer's notebook, or go under Włodzimierz.
+- [ ] Your word to publish.

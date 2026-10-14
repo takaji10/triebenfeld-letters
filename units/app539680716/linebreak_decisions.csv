@@ -1,0 +1,13 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+7,6,322,323,¬,Biało,bloter,Białobloter,join,high,head is not a word on its own,False,0,0,0,0,1,,Die Orliner schimpfen die Biało¬ || bloter: die dummen Kaschuben
+7,6,324,325,¬,Guts,besitzer,Gutsbesitzer,join,high,"joined form attested in DWDS (30,056 hits)",False,0,30056,0,,1,,In Wielki Bór ein evang. Guts¬ || besitzer Riedel. Schenkte d. Herrn
+7,7,331,332,¬,Kar,toffeln,Kartoffeln,join,high,"joined form attested in DWDS (788,208 hits)",False,0,788208,0,,1,,"ten?], stehlen einander Holz, stehlen Kar¬ || toffeln, träumen Hühnerstehlen"
+7,7,348,349,¬,Tätig,keit,Tätigkeit,join,high,"joined form attested in DWDS (2,864,088 hits)",False,0,2864088,0,,1,," Assimilationstendenzen! Politische Tätig¬ || keit nicht besonders, aber Mitgliedsbeiträ"
+7,7,349,350,¬,zah,len,zahlen,join,high,"joined form attested in DWDS (5,058,665 hits)",False,0,5058665,0,,1,,"cht besonders, aber Mitgliedsbeiträge zah¬ || len sie nicht. Volksverband hat mehr Einfl"
+7,8,358,359,¬,Kamillen,blüten,Kamillenblüten,join,high,"joined form attested in DWDS (7,259 hits)",False,0,7259,0,,1,,Am Sonnabend kein Dung fahren. - Kamillen¬ || blüten nur in d. Johannisnacht.
+7,8,363,364,¬,verbrei,tet,verbreitet,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,"he, aber Ausnahme. Diebstahl sehr verbrei¬ || tet. Viel Beter, aber schlecht dabei. Schl"
+11,2,518,519,¬,пастбищ,ныя,пастбищныя,join,high,head is not a word on its own,False,0,0,0,0,1,,имѣютъ право на лѣсныя и пастбищ¬ || ныя сервитуты въ половинѣ
+11,2,530,531,¬,усадеб,ники,усадебники,join,high,head is not a word on its own,False,0,0,0,0,1,,"матерiялъ для топлива усадеб¬ || ники увозятъ фурами, считая"
+11,3,538,539,¬,дiа,метрѣ,дiаметрѣ,join,high,head is not a word on its own,False,0,0,0,0,1,,2 локтей отъ пня 8 цолей въ дiа¬ || метрѣ и выдается крестьянамъ
+11,3,542,543,¬,Сен,тябрѣ,Сентябрѣ,join,high,head is not a word on its own,False,0,0,0,0,1,,"въ мѣсяцахъ: апрѣлѣ, маѣ, Сен¬ || тябрѣ, октябрѣ и ноябрѣ стилку"
+11,3,546,547,¬,паст,бище,пастбище,join,high,head is not a word on its own,False,0,0,0,0,1,,"каждой усадьбѣ выпускать на паст¬ || бище, опредѣляется по нижеслѣдующей"

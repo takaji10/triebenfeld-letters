@@ -1,0 +1,77 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680716
+ref: 53/968/0/-/716
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German.
+title: >-
+  Albert Breyer's notebook on Łazińsk, Emilienheim and Orliny: his copies of
+  the Russian liquidation tables of 1868 that gave the settlers their land,
+  with their rights in the landowner's forest, his counts of farmers and
+  land from 1840 to 1935, his notes of 1935 and 1936, and a list of hearth
+  tax due from Emilienheim in 1858.
+title_de: >-
+  Albert Breyers Notizheft über Łazińsk, Emilienheim und Orliny: seine
+  Abschriften der russischen Liquidationstabellen von 1868, die den Siedlern
+  ihr Land gaben, mit ihren Rechten im herrschaftlichen Wald, seine Zahlen
+  der Wirte und des Landes von 1840 bis 1935, seine Notizen von 1935 und
+  1936 und eine Liste der Rauchfangsteuer von Emilienheim aus dem Jahr 1858.
+# The archive's title, on its title page; the folder's name gives it as
+# "Łazińsk [woj. poznańskie][Emalienheim] - [notatki różnej treści, zestawienia]".
+archive_title: >-
+  Łazińsk [pow. słupecki, woj. poznańskie - notatki, statystyka] 1937
+fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolno pow. kolski, badacz - regionalista)
+date_span: "1858-1936"
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# The twentieth century of the estate, like Breyer's other notebooks
+# (53/968/0/-/669): the notebook was written in 1935 and 1936, though most of
+# what it copies is of 1858 and 1868.
+era: twentieth-century
+
+repository: app-poznan
+
+# The editor's photos (raw files) IMG_5159 to IMG_5180 in the unit's folder,
+# made into images of the paper by intake/photos.py (photos/ under raw_dir),
+# cut at the fold by intake/holding.py --crop into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Łazińsk [woj. poznańskie][Emalienheim] - [notatki różnej treści, zestawienia] (53.968.0.-.716)
+  raw_glob: "*.jpg"
+  ascii_prefix: APP_53_968_0_716
+
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+corpus: corpus.txt
+
+description: >-
+  A school exercise book of Albert Breyer (1889-1939), teacher at the German
+  school in Sompolno and historian of the German settlements in central
+  Poland, with a loose sheet laid in it. In the notebook Breyer copied, in
+  Russian, the liquidation tables of 1868 by which the peasants of the
+  German colonies of Emilienheim (later Michalinów), Łazińsk (on the former
+  Trąbczyn estate) and Orliny (of Count Albert Taczanowski) received their
+  holdings after the emancipation of 1864, with the extent of each holding in
+  Morgen and rods, the sum due to the former owner, and their servitudes of
+  pasture and wood in the landowner's forest. He added in pencil who held the
+  Łazińsk holdings in 1875 and the number of farmers and Morgen from 1840 to
+  1935, and wrote notes of his visits in July 1935 and July 1936 to Orlin,
+  Józefów, Obory and Huta Trąbczyńska: speech, customs, houses, morals,
+  church life, emigration. The loose sheet is a Polish list of the hearth
+  tax and barracks money due from the 29 householders of Emilienheim,
+  dated at Kopojno on 3/15 December 1858.
+
+translation_note: >-
+  Several languages: Russian in the old orthography (ѣ, і, ъ) in the copied
+  tables and servitude terms; German in Breyer's notes, much abbreviated,
+  some in Kurrent; Polish on the loose sheet of 1858. Tables: "мор." Morgen,
+  "пр." or "прут." rods (Prussian Ruten); a figure "17-71" is 17 Morgen 71
+  rods. "Неудобн." unusable land; "Вообще" in all; "Насл." heirs of. On the
+  sheet of 1858 "1-50" is 1 złoty 50 groszy. "Holl." Holland or Hauland, a
+  Hollander (Olęder) settlement; "Wirte" farmers; "Servitut" a right of
+  pasture or wood. A word followed by [?] or written [word?] is read with
+  doubt; [?] alone is a word not read.

@@ -67,7 +67,7 @@ PRICES = {'claude-opus-5': (5, 25), 'claude-fable-5-1': (10, 50),
 # Language and pilot sample are properties of the holding, not of the
 # translator, and used to sit here as constants naming one unit's documents.
 # They now come from units/<slug>/rulings.yml and units/<slug>/unit.yml.
-LANG_NAME = {'pl': 'Polish', 'fr': 'French', 'la': 'Latin', 'de': 'German',
+LANG_NAME = {'pl': 'Polish', 'fr': 'French', 'la': 'Latin', 'de': 'German', 'ru': 'Russian',
              'la,pl': 'Latin and Polish'}
 
 

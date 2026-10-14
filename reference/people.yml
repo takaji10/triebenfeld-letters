@@ -540,7 +540,8 @@ people:
     match: "Neumann"
     # Breyer's notebook of 1936 names a teacher Neumann of Łazińsk and an
     # Agnes Schütz née Neumann (APP 53/968/0/-/669): not this Neumann.
-    not_in: [app539680669-1]
+    # Neumann in Breyer's list of the farmers of Orlin (53/968/0/-/716): not this one.
+    not_in: [app539680669-1, app539680716-8]
     tier: ""
     variants: []
   niedzwiecki:
@@ -1026,6 +1027,8 @@ people:
   kuh:
     display: "Gebrüder Kuh"
     match: 'Kuh(?![a-zà-ÿ\[.])'
+    # "Wenn eine Kuh kalbt" in Breyer's notes (53/968/0/-/716) is a cow.
+    not_in: [app539680716-7]
     tier: "Context-inferred"
     variants: []
     identity: "Jewish bankers and creditors: sue Triebenfeld for 5800 rthl (letter 108); a draft on the Gebrüder Kuh (letter 159); among the complainants against Cosmar (letter 292). Added 2026-09-28 in the names pass."

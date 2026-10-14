@@ -1,0 +1,76 @@
+# Editorial rulings for 53/968/0/-/716 (APP).
+#
+# Eleven documents in one notebook of Albert Breyer and a loose sheet laid in
+# it, divided by content (editor, 2026-10-14; intake/holding.py lists them).
+# The archive's title page and the notebook's cover are front matter.
+
+places:
+  overrides:
+    "1": Kopojno
+    # Breyer's extracts: no place of writing (left empty, or the last line
+    # would be taken for one)
+    "3": ""
+    "4": Słupca
+    "7": Orlin
+    "9": Orlin
+
+dates:
+  # read off the document
+  read:
+    "1": [1858, 12, 15, "day"]      # Kopojno d. 3/15 Grudnia 1858 r.
+    "2": [1868, 3, 28, "day"]       # 28 марта 1868 г., the date of the table Breyer copied
+    "4": [1868, 6, 29, "day"]       # Слупца 29 iюня 1868 г.
+    "7": [1935, 7, null, "month"]   # In Orlin i. 7. 1935
+    "9": [1936, 7, null, "month"]   # 7. 1936
+  supplied: {}
+  twin: {}
+  # [year, month, day, precision, basis]
+  inferred:
+    "3": [1936, null, null, "year", "Breyer's notes in a notebook he used in July 1935 and July 1936; they copy entries of 1870 and 1892."]
+    "5": [1936, null, null, "year", "Breyer's copy and notes in a notebook he used in July 1935 and July 1936; his last figures are of 1914."]
+    "6": [1936, null, null, "year", "Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935."]
+    "8": [1935, 7, null, "month", "Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936."]
+    "11": [1936, null, null, "year", "Breyer's notes and copy at the end of a notebook he used in July 1935 and July 1936."]
+  sitting: {}
+  no_date: ["10"]
+
+documents:
+  doc_type:
+    "1": register
+    "2": register
+    "3": note
+    "4": register
+    "5": note
+    "6": register
+    "7": note
+    "8": register
+    "9": note
+    "10": register
+    "11": note
+
+  language:
+    "1": "pl"
+    "2": "ru"
+    "3": "de"
+    "4": "ru"
+    "5": "ru"
+    "6": "de"
+    "7": "de"
+    "8": "de"
+    "9": "de"
+    "10": "ru"
+    "11": "ru"
+
+  tables: ["1", "2", "4", "6", "8", "10"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  estates:
+    "4": [trabczyn]
+    "5": [trabczyn]
+    "6": [trabczyn]
+
+damage:
+  letters: []

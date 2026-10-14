@@ -252,11 +252,20 @@ written until there is a witness or a better scan.
   not put to the editor. A third sheet settled Swięcia on page 22. Open:
   whether the photograph log headed "Juli 1935" was written a year before
   the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
+- **APP 53/968/0/-/716** (Albert Breyer's Łazińsk notebook and the sheet of
+  1858, added 2026-10-14, not published): read from the editor's photos by
+  Claude, 68 marks of doubt; 17 put to the editor on a spot sheet. Not
+  asked: the doubtful names of the Russian tables and Breyer's pencil of
+  1875. Open: the folds (placed in session); the heading of the Orlin list
+  (four lines of Kurrent, partly read); its era (see the next item).
 - **Two eras without names** (editor, 2026-10-14): the era after Michalina
   Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
   53/968/0/-/783), and the twentieth century of the estate
-  (`twentieth-century`, APP 53/968/0/-/669). Both carry working names in
-  `reference/eras.yml` until the editor names them.
+  (`twentieth-century`, APP 53/968/0/-/669 and -/716). Both carry working
+  names in `reference/eras.yml` until the editor names them. The sheet of
+  1858 and the tables of 1868 in -/716 fall in Włodzimierz's years but
+  stand with Breyer's notebook in the twentieth century until the editor
+  says otherwise.
 
 - **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
   2026-10-13): read from the scans by Claude and checked line by line by

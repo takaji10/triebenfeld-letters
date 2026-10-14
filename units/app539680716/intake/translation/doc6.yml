@@ -1,0 +1,26 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 0
+  en: 'Year,Farmers:,Morgen
+
+    1840,87,1368
+
+    1868,91 farmers.,1691
+
+    1875,93,1691
+
+    1890,94,1655
+
+    1895,96,1657
+
+    1901,97,1660
+
+    1906,112,2044
+
+    1914,137,2037
+
+    1935,146,1996'
+  names: []
+  numbers: []
+  flagged: []

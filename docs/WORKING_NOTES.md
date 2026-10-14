@@ -671,6 +671,50 @@ Where the rest is:
   holdings' scripts); `courtbook.correct` and `write_pages` do not know a
   cover and would drop it.
 
+- **A notebook in three languages, divided by content** (APP 53/968/0/-/716,
+  2026-10-14; the editor chose "by content" over one document). A page that
+  ends one document and starts the next stands under both (`DOCS` in
+  `intake/text716.py`); a document's place and date come from its own
+  lines, so a note with no place of writing needs `places: overrides: ""`,
+  or its last line is taken for one.
+- **Tables in a notebook do not keep the shape of a printed register.** The
+  title can stand on the page before the entries, the totals on the page
+  after them, and a heading can be one row of column labels. `unitlib`
+  now records the pages of the heading and of the closing rows
+  (`head_pages`, `foot_pages`) and shows them where they stand; a heading
+  row that holds only a title goes into the caption; a single row of labels
+  is one heading row, not a title. Before that, the title of the Łazińsk
+  table and its totals page were missing from the table view, and the
+  English publish stopped (`KeyError`). The other tables render byte for
+  byte as before: compare `render_table` against `git show HEAD:unitlib.py`
+  for every table page after any change to it.
+- **An English table cell with a figure inside words** ("To the landowner
+  4420 roubles 53 kopecks") must be quoted in the CSV: the house forms make
+  it "4,420" and the comma splits the cell, so the English no longer has
+  the German's shape and is published as plain text. 716's `english()`
+  quotes such cells.
+- **Summaries of a copied table** (716): say what the table says. The first
+  draft added from the edition's knowledge that the table "gave the
+  peasants their land after the emancipation of 1864" and that Łazińsk lay
+  on the Trąbczyn estate; that belongs in the holding's description. Count
+  the rows, not the last number (numbers are skipped and doubled), and add
+  up a column before quoting its total: Breyer's own sum on one page was 6
+  Morgen out, and the summary says so. Do not give a German form of a name
+  that the English transliterates from the Russian.
+- **The page check of `about.md` reads only the first of two adjacent
+  citations** (`[[5]] [[6]]`): figures from the second are reported as
+  missing. Cite the one document that holds them.
+- **The edition guide's page figure** is kept by adding each new holding's
+  pages, a page shared by two documents counted once (716: 34). The
+  build's "manuscript pages" counts such a page twice and is not the
+  guide's figure.
+- **Spot-sheet pictures for a holding whose pages stand under two
+  documents**: find the corpus line within the document and the page, and
+  place the picture by the line's place in `transcriptions/<page>.txt`
+  (716's `intake/spot_sheet.py`). Where the page has two columns or a
+  heading in large script, set the picture's box by hand (`BOX`). Look at
+  every picture before serving the sheet: 5 of 17 needed moving.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
@@ -840,6 +884,26 @@ cloud branches").
 - **`rest.sh`-style scripts with `set -e` stop at the first `grep` that
   finds nothing.** Do not use `set -e` where the steps are filtered through
   `grep`.
+
+- **Two holdings' `intake/photos.py` share a module name.** A holding
+  that reuses another's `preview()` must load it by path
+  (`importlib.util.spec_from_file_location`), or Python imports its own
+  `photos.py` again and the name is missing (716, 2026-10-14).
+- **`courtbook.fold_sheet` with image names in a subfolder**
+  (`photos/IMG_5163.jpg`): it now takes the base name for the page id.
+- **Line breaks in Russian.** `resolve_linebreaks.py` matched words in
+  Latin letters only, so a Russian word broken with "¬" was left undecided
+  and `build_db.py` reported that the transcription layer changed
+  something. Cyrillic is now in `WORD`. And a hyphen after a figure in a
+  table cell ("39-", 39 złoty) was taken for a broken word: the test now
+  needs a letter before the hyphen, in both scripts. A table has no
+  catchwords: two entries of one family either side of a page break looked
+  like one ("Хауптъ" / "Хауптъ"), so documents listed under `tables:` are
+  skipped in the catchword check.
+- **A false glossary or name hit on a verb**: "schenkte" (gave) is raised
+  as the name Schenk by `check_translations.py`; "Kuh" (cow) matched the
+  person `kuh`. Shut a person out of the document with `not_in` in
+  `reference/people.yml`; the translation row needs nothing.
 
 ## Desktop and cloud
 

@@ -265,7 +265,8 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
         return '%s%s' % (('leaf %s, ' % leaf) if leaf else '', 'left out' if pid in skip else 'a page of the edition')
     for name, fold, left, right in scans:
         src = os.path.join(raw, name)
-        stem = os.path.splitext(name)[0]
+        # the file's own name: a scan may stand in a folder under raw (the photos of 53/968/0/-/716)
+        stem = os.path.splitext(os.path.basename(name))[0]
         dst = os.path.join(out, stem + '.jpg')
         with Image.open(src) as im:
             w, h = im.size

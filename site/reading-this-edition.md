@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 570 documents on 1,917 manuscript pages, dated from 1589 to 1936. The
+The edition holds 581 documents on 1,951 manuscript pages, dated from 1589 to 1936. The
 oldest are entries from the court books of Konin and Kalisz on the quarrel between Trąbczyn
 and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
 on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
@@ -37,7 +37,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty holdings in four archives:
+The documents come from forty-one holdings in four archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -50,7 +50,9 @@ The documents come from forty holdings in four archives:
   voivodeship for 1789; a court record of 1806; copies made about 1930 of papers on the
   division of the estates; a printed summons of 1860 in a lawsuit between the owner of
   Trąbczyn and its colonists; and two notebooks of 1936 in which the historian Albert Breyer
-  wrote down what the German settlers of Łazińsk and the places around it told him;
+  wrote down what the German settlers of Łazińsk and the places around it told him, and a
+  third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
+  settlers of Łazińsk, Emilienheim and Orliny their land;
 - the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
   of the confiscated estates to Prusimski's daughter; and six pages of a Prussian table of
   the villages around Konin, of about 1797.
@@ -128,11 +130,11 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 812 marks of doubt in the edition. Each document's page says how many it has.
+There are 880 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 565 of the 570. They were made by
+Every document that has text has an English translation: 576 of the 581. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

@@ -113,7 +113,7 @@ nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }
 ## Das zwanzigste Jahrhundert
 
 **Der Gutshof parzelliert; die deutschen Siedlungen der Gemeinde Trąbczyn.
-[2 Dokumente, 1936]({{ '/de/quellen/app539680669/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+[13 Dokumente, 1858 bis 1936]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 In den 1930er Jahren war der Gutshof parzelliert, und sein Restgut, das ein Mann namens Jesse
 gekauft hatte, hieß Włodzimierow. Der Historiker Albert Breyer ging im Juli 1936 nach Łazińsk
@@ -122,3 +122,13 @@ wer nach Wolhynien, Russland, Amerika oder Brasilien gegangen war, wie sie sprac
 ihre Gräber kennzeichneten ([seine Notizhefte]({{ '/de/quellen/app539680669/' | relative_url }})). Ein zweites Heft fügt
 hinzu, dass Włodzimierow um 1911 parzelliert worden war, fast alles an Deutsche
 ([das zweite Heft]({{ '/documents/app539680669/2/' | relative_url }})).
+
+Ein drittes Heft Breyers, von 1935 und 1936, enthält seine Abschriften der russischen
+Liquidationstabellen von 1868, nach denen die Bauern von Łazińsk, Emilienheim und Orliny nach der
+Bauernbefreiung von 1864 ihr Land erhielten: 1691 Morgen für 91 Stellen in Łazińsk, mit einer
+Liquidationssumme von 10.055 Rubel für den früheren Besitzer, und die Rechte der Łazińsker Siedler,
+ihr Vieh im Wald „Studzianki“ zu weiden und dort Holz zu lesen. Breyer zählte die Wirte von Łazińsk,
+von 87 im Jahr 1840 bis 146 im Jahr 1935, und notierte über Orlin und Józefów
+([das Heft]({{ '/de/quellen/app539680716/' | relative_url }})). Ein loses Blatt darin verzeichnet
+die Rauchfangsteuer von Emilienheim 1858
+([das Blatt]({{ '/documents/app539680716/1/' | relative_url }})).

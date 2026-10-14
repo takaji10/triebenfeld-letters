@@ -104,7 +104,7 @@ Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 ## The twentieth century
 
 **The manor parcelled out; the German settlements of the commune of Trąbczyn.
-[2 documents, 1936]({{ '/sources/app539680669/' | relative_url }}).** The name of this era is a working name.
+[13 documents, 1858 to 1936]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 By the 1930s the manor had been parcelled out, and its remaining land, bought by a man named
 Jesse, was called Włodzimierow. The historian Albert Breyer went to Łazińsk and Emilienheim in
@@ -113,3 +113,12 @@ gone to Volhynia, Russia, America or Brazil, how they spoke, and how they marked
 ([his notebooks]({{ '/sources/app539680669/' | relative_url }})). A second notebook adds that
 Włodzimierow had been parcelled out about 1911, almost all of it to Germans
 ([the second notebook]({{ '/documents/app539680669/2/' | relative_url }})).
+
+A third notebook of Breyer's, of 1935 and 1936, holds his copies of the Russian liquidation tables
+of 1868, by which the peasants of Łazińsk, Emilienheim and Orliny received their land after the
+emancipation of 1864: 1,691 Morgen for 91 holdings in Łazińsk, with a liquidation sum of 10,055
+roubles for the former owner, and the Łazińsk settlers' rights to graze their cattle and gather wood
+in the forest "Studzianki". Breyer counted the farmers of Łazińsk from 87 in 1840 to 146 in 1935,
+and wrote notes on Orlin and Józefów ([the notebook]({{ '/sources/app539680716/' | relative_url }})).
+A loose sheet in it lists the hearth tax of Emilienheim in 1858
+([the sheet]({{ '/documents/app539680716/1/' | relative_url }})).

@@ -419,9 +419,25 @@ def table_of(page_lines):
     body = {}
     for pg, r in allrows[first:last + 1]:
         body.setdefault(pg, []).append(r)
+    # Where the heading and the closing rows stand. In most tables the heading
+    # opens the first page of entries and the closing rows end the last; in a
+    # notebook they may stand on a page of their own (the title of the Łazińsk
+    # table, its totals overleaf: 53/968/0/-/716, 2026-10-14), and that page
+    # shows them (render_table).
+    head_pages, foot_pages = {}, {}
+    for pg, r in allrows[:first]:
+        head_pages.setdefault(pg, []).append(r)
+    for pg, r in allrows[last + 1:]:
+        foot_pages.setdefault(pg, []).append(r)
     # The title sits in the first header row, over the name column.
     caption = head[0][1].strip() if head and len(head[0]) > 1 else ''
-    return {'caption': caption, 'head': head, 'pages': body, 'foot': foot}
+    return {'caption': caption, 'head': head, 'pages': body, 'foot': foot,
+            'head_pages': head_pages, 'foot_pages': foot_pages}
+
+
+def table_page_numbers(tbl):
+    """Every page that shows part of a table: its entries, its heading or its closing rows."""
+    return sorted(set(tbl['pages']) | set(tbl.get('head_pages') or {}) | set(tbl.get('foot_pages') or {}))
 
 
 def render_table(tbl, page_no):
@@ -439,9 +455,18 @@ def render_table(tbl, page_no):
     """
     import html
     rows = tbl['pages'].get(page_no) or []
-    if not rows:
-        return ''
     head, foot = tbl['head'], tbl['foot']
+    # the closing rows on the page where they stand (the last page of entries
+    # in most tables); a page before the first entries shows the heading alone
+    if 'foot_pages' in tbl:
+        foot_here = tbl['foot_pages'].get(page_no) or []
+    else:
+        foot_here = foot if tbl['pages'] and page_no == max(tbl['pages']) else []
+    head_only = (not rows and not foot_here and page_no in (tbl.get('head_pages') or {})
+                 and (not tbl['pages'] or page_no < min(tbl['pages'])))
+    if not rows and not foot_here and not head_only:
+        return ''
+    first_page = min(table_page_numbers(tbl))
     ncol = max(len(r) for r in head + foot + rows)
 
     def pad(r):
@@ -453,11 +478,27 @@ def render_table(tbl, page_no):
                 f'<{tag} class="name">{html.escape(r[1].strip())}</{tag}>'
                 + ''.join(f'<{tag} class="num">{html.escape(c.strip())}</{tag}>' for c in r[2:]))
 
+    # The title: the first heading row's name cell, unless that row labels
+    # the number column too (a row of column labels, "Jahr", "Wirte:",
+    # "Morgen", has none). A further row with nothing but a title over the
+    # name column joins the caption rather than the heading (the place and the
+    # title above the Łazińsk table, 53/968/0/-/716, 2026-10-14).
+    def title_only(r):
+        r = pad(r)
+        return bool(r[1].strip()) and not any(c.strip() for k, c in enumerate(r) if k != 1)
+    hp = [pad(r) for r in head]
+    first_is_title = bool(hp) and bool(hp[0][1].strip()) and not hp[0][0].strip()
+    caption = [hp[0][1].strip()] if first_is_title else []
+    caption += [r[1].strip() for r in hp[1:] if title_only(r)]
+    keep = [i for i, r in enumerate(hp) if not title_only(r)]
+    # over the name column: the last label given there below the title
+    names = [hp[i][1].strip() for i in keep if hp[i][1].strip() and not (i == 0 and first_is_title)]
     out = ['<div class="ledger-wrap"><table class="ledger">']
-    if page_no == min(tbl['pages']) and tbl['caption']:
-        out.append(f'<caption>{html.escape(tbl["caption"])}</caption>')
-    if head:
-        hrows = [pad(r) for r in head] if len(head) > 1 else [pad(head[0])] * 2
+    if page_no == first_page and caption:
+        out.append('<caption>' + '<br>'.join(html.escape(c) for c in caption) + '</caption>')
+    if keep:
+        hrows = [hp[i] for i in keep]
+        name_label = names[-1] if names else ''
         n = len(hrows)
         # end[i][j]: one past the last column of the cell that stands over
         # column j in row i; taken[i][j]: that cell began in a row above.
@@ -467,7 +508,7 @@ def render_table(tbl, page_no):
             ths = []
             if i == 0:
                 ths.append(f'<th rowspan="{n}" class="no">{html.escape(hrows[-1][0].strip())}</th>'
-                           f'<th rowspan="{n}" class="name">{html.escape(hrows[-1][1].strip())}</th>')
+                           f'<th rowspan="{n}" class="name">{html.escape(name_label)}</th>')
             j = 2
             while j < ncol:
                 if taken[i][j]:
@@ -498,9 +539,10 @@ def render_table(tbl, page_no):
     def tr(r):
         # a row between the entries without a number: a page's own total
         return f'<tr class="sum">{cells(r, "td")}</tr>' if not pad(r)[0].strip() else f'<tr>{cells(r, "td")}</tr>'
-    out.append('<tbody>' + ''.join(tr(r) for r in rows) + '</tbody>')
-    if foot and page_no == max(tbl['pages']):
-        out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot) + '</tfoot>')
+    if rows:
+        out.append('<tbody>' + ''.join(tr(r) for r in rows) + '</tbody>')
+    if foot_here:
+        out.append('<tfoot>' + ''.join(f'<tr>{cells(r, "td")}</tr>' for r in foot_here) + '</tfoot>')
     out.append('</table></div>')
     return '\n'.join(out)
 

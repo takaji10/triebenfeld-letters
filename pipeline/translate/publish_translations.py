@@ -98,7 +98,7 @@ def english_table(tbl_de, segs):
             or heading(tbl) != heading(tbl_de)
             or figures(tbl) != figures(tbl_de)):
         return None
-    return {pg: unitlib.render_table(tbl, pg) for pg in tbl['pages']}
+    return {pg: unitlib.render_table(tbl, pg) for pg in unitlib.table_page_numbers(tbl)}
 
 
 def existing_status(path):

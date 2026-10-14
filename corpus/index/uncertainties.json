@@ -7210,6 +7210,566 @@
   "context": "Karnecki Likrę[?] za Pisarza"
  },
  {
+  "uid": "app539680716-1",
+  "marker": "[7.?]",
+  "page": 1,
+  "page_id": "5160_a",
+  "scan": "APP_53_968_0_716_5160_a-L1_01.jpg",
+  "line": 14,
+  "doc_line": 1,
+  "context": ",[7.?] 1858,,,"
+ },
+ {
+  "uid": "app539680716-2",
+  "marker": "[Мар.?]",
+  "page": 2,
+  "page_id": "5164_a1",
+  "scan": "APP_53_968_0_716_5164_a1-L2_02.jpg",
+  "line": 69,
+  "doc_line": 14,
+  "context": "11,Цигельсдорфъ [Мар.?],24,22-187"
+ },
+ {
+  "uid": "app539680716-2",
+  "marker": "[Дикгофъ?]",
+  "page": 2,
+  "page_id": "5164_a1",
+  "scan": "APP_53_968_0_716_5164_a1-L2_02.jpg",
+  "line": 83,
+  "doc_line": 28,
+  "context": "26,[Дикгофъ?] Готл.,33,4-283"
+ },
+ {
+  "uid": "app539680716-2",
+  "marker": "[Диконфъ?]",
+  "page": 3,
+  "page_id": "5164_a2",
+  "scan": "APP_53_968_0_716_5164_a2-L2_03.jpg",
+  "line": 85,
+  "doc_line": 29,
+  "context": "27,[Диконфъ?] Готфр.,,3-74"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Тромбчинъ?]",
+  "page": 1,
+  "page_id": "5165_a1",
+  "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+  "line": 116,
+  "doc_line": 2,
+  "context": ",\"Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. [Тромбчинъ?]\",,"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Брушк.?]",
+  "page": 2,
+  "page_id": "5165_a2",
+  "scan": "APP_53_968_0_716_5165_a2-L4_02.jpg",
+  "line": 132,
+  "doc_line": 17,
+  "context": "14,Холмъ Вильг. — [Брушк.?] Клиге,13,280"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Франц.?]",
+  "page": 3,
+  "page_id": "5166_a1",
+  "scan": "APP_53_968_0_716_5166_a1-L4_03.jpg",
+  "line": 137,
+  "doc_line": 21,
+  "context": "18,Санниковскій Осипъ — [Франц.?],27,244"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[пол.?]",
+  "page": 3,
+  "page_id": "5166_a1",
+  "scan": "APP_53_968_0_716_5166_a1-L4_03.jpg",
+  "line": 139,
+  "doc_line": 23,
+  "context": "20,Санниковскій Иванъ — [пол.?] 14; 10 м.,27,187"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Кинастъ?]",
+  "page": 3,
+  "page_id": "5166_a1",
+  "scan": "APP_53_968_0_716_5166_a1-L4_03.jpg",
+  "line": 141,
+  "doc_line": 25,
+  "context": "22,Блудзинскій Ив. — Дан. [Кинастъ?],9,294"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[пол.?]",
+  "page": 3,
+  "page_id": "5166_a1",
+  "scan": "APP_53_968_0_716_5166_a1-L4_03.jpg",
+  "line": 145,
+  "doc_line": 29,
+  "context": "26,Рунга Войцѣхъ — [пол.?] 18; Рунга Войц. 18,36,222"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Бромке?]",
+  "page": 4,
+  "page_id": "5166_a2",
+  "scan": "APP_53_968_0_716_5166_a2-L4_04.jpg",
+  "line": 156,
+  "doc_line": 39,
+  "context": "36,Фриденбергъ Кристофъ — Эд. [Бромке?],19,220"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Цельмеръ Фр.?]",
+  "page": 4,
+  "page_id": "5166_a2",
+  "scan": "APP_53_968_0_716_5166_a2-L4_04.jpg",
+  "line": 157,
+  "doc_line": 40,
+  "context": "37,[Цельмеръ Фр.?] — Шульцъ Фрид.,26,14"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Геп.?]",
+  "page": 5,
+  "page_id": "5167_a1",
+  "scan": "APP_53_968_0_716_5167_a1-L4_05.jpg",
+  "line": 169,
+  "doc_line": 51,
+  "context": "48,Зееръ Крист. — Ив. Генке 29; [Геп.?] Зееръ 13,42,99"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Дет.?]",
+  "page": 5,
+  "page_id": "5167_a1",
+  "scan": "APP_53_968_0_716_5167_a1-L4_05.jpg",
+  "line": 181,
+  "doc_line": 63,
+  "context": "60,Штаркъ [Дет.?],8,187"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Пашка?]",
+  "page": 6,
+  "page_id": "5167_a2",
+  "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+  "line": 191,
+  "doc_line": 72,
+  "context": "69,Готтеръ Авг. — Кар. [Пашка?],19,64"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Обстъ?]",
+  "page": 6,
+  "page_id": "5167_a2",
+  "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+  "line": 193,
+  "doc_line": 74,
+  "context": "71,[Обстъ?] Вильг. — 2 ×,5,272"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Торно?]",
+  "page": 6,
+  "page_id": "5167_a2",
+  "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+  "line": 195,
+  "doc_line": 76,
+  "context": "73,Швебсъ Иванъ — Эрн. [Торно?],12,221"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Шменель?]",
+  "page": 6,
+  "page_id": "5167_a2",
+  "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+  "line": 196,
+  "doc_line": 77,
+  "context": "74,Хауптъ Готл. — Ферд. [Шменель?],8,124"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Готтлибъ?]",
+  "page": 7,
+  "page_id": "5169_a1",
+  "scan": "APP_53_968_0_716_5169_a1-L4_07.jpg",
+  "line": 212,
+  "doc_line": 92,
+  "context": "88,Нас. Тарновскій Мих. — [Готтлибъ?] Готл.,2,30"
+ },
+ {
+  "uid": "app539680716-4",
+  "marker": "[Бенцлеръ?]",
+  "page": 7,
+  "page_id": "5169_a1",
+  "scan": "APP_53_968_0_716_5169_a1-L4_07.jpg",
+  "line": 213,
+  "doc_line": 93,
+  "context": "89,Роговичъ Марцинъ — [Бенцлеръ?],–,193"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Бредъ?]",
+  "page": 3,
+  "page_id": "5172_a1",
+  "scan": "APP_53_968_0_716_5172_a1-L7_03.jpg",
+  "line": 285,
+  "doc_line": 13,
+  "context": "[Бредъ?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Гедпаръ?]",
+  "page": 3,
+  "page_id": "5172_a1",
+  "scan": "APP_53_968_0_716_5172_a1-L7_03.jpg",
+  "line": 289,
+  "doc_line": 17,
+  "context": "[Гедпаръ?], Крешня.\""
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "5172_a1",
+  "scan": "APP_53_968_0_716_5172_a1-L7_03.jpg",
+  "line": 290,
+  "doc_line": 18,
+  "context": "1909 [?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[entgekoit?]",
+  "page": 3,
+  "page_id": "5172_a1",
+  "scan": "APP_53_968_0_716_5172_a1-L7_03.jpg",
+  "line": 291,
+  "doc_line": 19,
+  "context": "hat das [entgekoit?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Jäke?]",
+  "page": 4,
+  "page_id": "5172_a2",
+  "scan": "APP_53_968_0_716_5172_a2-L7_04.jpg",
+  "line": 294,
+  "doc_line": 21,
+  "context": "[Jäke?], Becker, Wegert, [Jesswein?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Jesswein?]",
+  "page": 4,
+  "page_id": "5172_a2",
+  "scan": "APP_53_968_0_716_5172_a2-L7_04.jpg",
+  "line": 294,
+  "doc_line": 21,
+  "context": "[Jäke?], Becker, Wegert, [Jesswein?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[L…?]",
+  "page": 4,
+  "page_id": "5172_a2",
+  "scan": "APP_53_968_0_716_5172_a2-L7_04.jpg",
+  "line": 296,
+  "doc_line": 23,
+  "context": "Alte Häuser mit [L…?]"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Sattlern?]",
+  "page": 5,
+  "page_id": "5173_a1",
+  "scan": "APP_53_968_0_716_5173_a1-L7_05.jpg",
+  "line": 310,
+  "doc_line": 36,
+  "context": "Von den [Sattlern?] machten"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Mądrosza?]",
+  "page": 5,
+  "page_id": "5173_a1",
+  "scan": "APP_53_968_0_716_5173_a1-L7_05.jpg",
+  "line": 314,
+  "doc_line": 40,
+  "context": "[Mądrosza?],"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Hufe?]",
+  "page": 6,
+  "page_id": "5173_a2",
+  "scan": "APP_53_968_0_716_5173_a2-L7_06.jpg",
+  "line": 319,
+  "doc_line": 44,
+  "context": "je 1 [Hufe?] an 40 Wirte"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Holędry?]",
+  "page": 6,
+  "page_id": "5173_a2",
+  "scan": "APP_53_968_0_716_5173_a2-L7_06.jpg",
+  "line": 329,
+  "doc_line": 54,
+  "context": "[Holędry?] Orliny Biskupicki"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Sollten?]",
+  "page": 7,
+  "page_id": "5174_a1",
+  "scan": "APP_53_968_0_716_5174_a1-L7_07.jpg",
+  "line": 331,
+  "doc_line": 55,
+  "context": "[Sollten?], stehlen einander Holz, stehlen Kar¬"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Zwrsze?]",
+  "page": 7,
+  "page_id": "5174_a1",
+  "scan": "APP_53_968_0_716_5174_a1-L7_07.jpg",
+  "line": 334,
+  "doc_line": 58,
+  "context": "auf [Zwrsze?], bestohlen. In Grodziec arm"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Frierk?]",
+  "page": 7,
+  "page_id": "5174_a1",
+  "scan": "APP_53_968_0_716_5174_a1-L7_07.jpg",
+  "line": 337,
+  "doc_line": 61,
+  "context": "[Frierk?], ein Prediger, die Söhne stehlen."
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Brenda?]",
+  "page": 7,
+  "page_id": "5174_a1",
+  "scan": "APP_53_968_0_716_5174_a1-L7_07.jpg",
+  "line": 341,
+  "doc_line": 65,
+  "context": "[Brenda?] Tropfen zu Hause getrunken."
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[Zogel.?]",
+  "page": 7,
+  "page_id": "5174_a1",
+  "scan": "APP_53_968_0_716_5174_a1-L7_07.jpg",
+  "line": 344,
+  "doc_line": 68,
+  "context": "[Zogel.?] Kinder 7 uneheliche"
+ },
+ {
+  "uid": "app539680716-7",
+  "marker": "[schlagen sich?]",
+  "page": 8,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 355,
+  "doc_line": 78,
+  "context": "Nach dem Gottesdienst [schlagen sich?] jeden Sonntag Tanzvergnügung"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L8_01.jpg",
+  "line": 367,
+  "doc_line": 1,
+  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Skrzydlewski?]",
+  "page": 2,
+  "page_id": "5175_a1",
+  "scan": "APP_53_968_0_716_5175_a1-L8_02.jpg",
+  "line": 383,
+  "doc_line": 16,
+  "context": "14,[Skrzydlewski?] Fr.,28"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Christ.?]",
+  "page": 2,
+  "page_id": "5175_a1",
+  "scan": "APP_53_968_0_716_5175_a1-L8_02.jpg",
+  "line": 392,
+  "doc_line": 25,
+  "context": "23,[Christ.?] Kasner,17"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Gottfr.?]",
+  "page": 2,
+  "page_id": "5175_a1",
+  "scan": "APP_53_968_0_716_5175_a1-L8_02.jpg",
+  "line": 393,
+  "doc_line": 26,
+  "context": "24,\"[Gottfr.?] \"\"\",17"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Gottfr.?]",
+  "page": 2,
+  "page_id": "5175_a1",
+  "scan": "APP_53_968_0_716_5175_a1-L8_02.jpg",
+  "line": 394,
+  "doc_line": 27,
+  "context": "25,[Gottfr.?] M.,16"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Tilson?]",
+  "page": 3,
+  "page_id": "5175_a2",
+  "scan": "APP_53_968_0_716_5175_a2-L8_03.jpg",
+  "line": 400,
+  "doc_line": 32,
+  "context": "31,[Tilson?],7"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Seling?]",
+  "page": 4,
+  "page_id": "5176_a1",
+  "scan": "APP_53_968_0_716_5176_a1-L9_01.jpg",
+  "line": 414,
+  "doc_line": 45,
+  "context": ",[Seling?],7"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Rohrfuss?]",
+  "page": 4,
+  "page_id": "5176_a1",
+  "scan": "APP_53_968_0_716_5176_a1-L9_01.jpg",
+  "line": 415,
+  "doc_line": 46,
+  "context": ",[Rohrfuss?],18"
+ },
+ {
+  "uid": "app539680716-8",
+  "marker": "[Jaschek?]",
+  "page": 4,
+  "page_id": "5176_a1",
+  "scan": "APP_53_968_0_716_5176_a1-L9_01.jpg",
+  "line": 416,
+  "doc_line": 47,
+  "context": ",[Jaschek?],15"
+ },
+ {
+  "uid": "app539680716-3",
+  "marker": "[переименов.?]",
+  "page": 1,
+  "page_id": "5165_a1",
+  "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+  "line": 108,
+  "doc_line": 5,
+  "context": "Калишск. губ. присутствiе [переименов.?]"
+ },
+ {
+  "uid": "app539680716-3",
+  "marker": "[j. Wloch?]",
+  "page": 1,
+  "page_id": "5165_a1",
+  "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
+  "line": 112,
+  "doc_line": 9,
+  "context": "Eingeschrieben [j. Wloch?] i. April 1892"
+ },
+ {
+  "uid": "app539680716-5",
+  "marker": "[паленный?]",
+  "page": 1,
+  "page_id": "5169_a2",
+  "scan": "APP_53_968_0_716_5169_a2-L5_01.jpg",
+  "line": 231,
+  "doc_line": 3,
+  "context": "1) пасти весь свой [паленный?] скотъ"
+ },
+ {
+  "uid": "app539680716-5",
+  "marker": "[тлахтами?]",
+  "page": 2,
+  "page_id": "5170_a1",
+  "scan": "APP_53_968_0_716_5170_a1-L5_02.jpg",
+  "line": 238,
+  "doc_line": 9,
+  "context": "уносить [тлахтами?]."
+ },
+ {
+  "uid": "app539680716-11",
+  "marker": "[напоръ?]",
+  "page": 2,
+  "page_id": "5179_a2",
+  "scan": "APP_53_968_0_716_5179_a2-L11_02.jpg",
+  "line": 529,
+  "doc_line": 21,
+  "context": "[напоръ?]. Собранный такимъ образомъ"
+ },
+ {
   "uid": "app539680669-1",
   "marker": "[?]",
   "page": 2,
@@ -8078,6 +8638,126 @@
   "line": 861,
   "doc_line": 295,
   "context": "Land liegt d. [Gemeinde?] Wald."
+ },
+ {
+  "uid": "app539680716-9",
+  "marker": "[gemorden?]",
+  "page": 1,
+  "page_id": "5176_a1",
+  "scan": "APP_53_968_0_716_5176_a1-L9_01.jpg",
+  "line": 427,
+  "doc_line": 7,
+  "context": "Bankrott [gemorden?]."
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Стурценгеръ?]",
+  "page": 1,
+  "page_id": "5177_a1",
+  "scan": "APP_53_968_0_716_5177_a1-L10_01.jpg",
+  "line": 448,
+  "doc_line": 9,
+  "context": "8,[Стурценгеръ?] Осип.,"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Ланитцъ?]",
+  "page": 1,
+  "page_id": "5177_a1",
+  "scan": "APP_53_968_0_716_5177_a1-L10_01.jpg",
+  "line": 452,
+  "doc_line": 13,
+  "context": "12,[Ланитцъ?] Ад.,"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Гралька?]",
+  "page": 2,
+  "page_id": "5177_a2",
+  "scan": "APP_53_968_0_716_5177_a2-L10_02.jpg",
+  "line": 458,
+  "doc_line": 18,
+  "context": "16,[Гралька?] Войц.,40"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Вангольдъ?]",
+  "page": 2,
+  "page_id": "5177_a2",
+  "scan": "APP_53_968_0_716_5177_a2-L10_02.jpg",
+  "line": 462,
+  "doc_line": 22,
+  "context": "20,[Вангольдъ?] Готл.,15"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Веречъ?]",
+  "page": 2,
+  "page_id": "5177_a2",
+  "scan": "APP_53_968_0_716_5177_a2-L10_02.jpg",
+  "line": 465,
+  "doc_line": 25,
+  "context": "23,[Веречъ?] Мат.,20"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Дайгеръ?]",
+  "page": 2,
+  "page_id": "5177_a2",
+  "scan": "APP_53_968_0_716_5177_a2-L10_02.jpg",
+  "line": 467,
+  "doc_line": 27,
+  "context": "25,[Дайгеръ?] Мар.,12"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Ш.?]",
+  "page": 3,
+  "page_id": "5178_a1",
+  "scan": "APP_53_968_0_716_5178_a1-L10_03.jpg",
+  "line": 474,
+  "doc_line": 33,
+  "context": "31,Янке [Ш.?],7"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Куркина?]",
+  "page": 3,
+  "page_id": "5178_a1",
+  "scan": "APP_53_968_0_716_5178_a1-L10_03.jpg",
+  "line": 483,
+  "doc_line": 42,
+  "context": "40,Нас. Яна [Куркина?],4"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Шпицеръ?]",
+  "page": 3,
+  "page_id": "5178_a1",
+  "scan": "APP_53_968_0_716_5178_a1-L10_03.jpg",
+  "line": 485,
+  "doc_line": 44,
+  "context": "42,[Шпицеръ?] Дан.,18"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Шиммеръ?]",
+  "page": 4,
+  "page_id": "5178_a2",
+  "scan": "APP_53_968_0_716_5178_a2-L10_04.jpg",
+  "line": 496,
+  "doc_line": 54,
+  "context": "52,[Шиммеръ?] Леоп.,12"
+ },
+ {
+  "uid": "app539680716-10",
+  "marker": "[Курвина?]",
+  "page": 5,
+  "page_id": "5179_a1",
+  "scan": "APP_53_968_0_716_5179_a1-L11_01.jpg",
+  "line": 502,
+  "doc_line": 59,
+  "context": "57,Наслѣд. [Курвина?],3"
  },
  {
   "uid": "iiihamdaiiinr12367-3",

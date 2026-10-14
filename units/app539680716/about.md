@@ -1,0 +1,25 @@
+A school exercise book of Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a historian of the German settlements in central Poland, with a loose sheet of 1858 laid in it. It is kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) among his papers, under the archive's title "Łazińsk [pow. słupecki, woj. poznańskie - notatki, statystyka] 1937". The cover names Łazińsk and Emilienheim and, in Russian, a liquidation table. Breyer used the notebook in July 1935 and July 1936: in it he copied the Russian tables by which the peasants of three German colonies received their land in 1868, with their rights in the landowner's forest, and wrote his own counts and notes. The holding is divided by content into eleven documents, six of them tables. <!-- context -->
+
+### Historical background
+
+After the Russian ukase of 1864 on the peasants of the Kingdom of Poland, the land the peasants farmed became their own, and each village was given a liquidation table: the holdings, their extent, and the sum the former owner was to receive for them. The peasants also kept their servitudes, rights of pasture and of gathering wood in the landowner's forest; these were later bought out or exchanged for land, a process called separation. Łazińsk lay on the Trąbczyn estate, where two Olęder colonies, later called Łazińskie Stare Olędry and Łazińskie Nowe Olędry, had been founded; the dispute of their settlers with the owner over pasture and wood in his forest is the subject of the summons of 1860, [[unit:app539680783]]. Breyer went to these villages in 1935 and 1936 for his studies of the German settlements; his notebooks of July 1936 are [[unit:app539680669]]. <!-- context -->
+
+### Contents
+
+The loose sheet is a Polish list, made out at Kopojno on 3/15 December 1858 by the wójt (village head) of the commune of Kopojno, of the hearth tax and barracks money that 29 householders of the colony of Emilienheim were to pay in two instalments, in March and September; most of them owe 1 złoty 50 groszy, and the whole comes to 40 złoty 50 groszy [[1]].
+
+Breyer copied three liquidation tables. That of Emilienheim, "now Mikhalenov", dated 28 March 1868, lists 35 holdings, 319 Morgen 250 rods in all, with 4,420 roubles 53 kopecks due to the landowner [[2]]; his notes add the survey of 1870 and a note of 1892 on the village's local name, Michalinów [[3]]. That of the colony of Łazińsk, dated at Słupca on 29 June 1868, is the longest: 91 holdings, the school farmstead, the cemetery, the common land and the roads, 1,691 Morgen 219 rods in all, and a liquidation sum of 10,055 roubles 70 kopecks for the former owner. Beside many holdings Breyer wrote in pencil who held them in 1875 [[4]]. The third is that of Orliny, of the landowner Count Albert Taczanowski: 57 holdings, 850 Morgen 272 rods, and 6,049 roubles 89 kopecks to be paid [[10]].
+
+He copied the servitudes too. The Łazińsk Hollanders may graze their cattle in the forest "Studzianki" and gather fallen wood there twice a week, and have no other rights [[5]]. Every farmstead of Orliny may gather wood in half of the forest "Velskii Bor" on Saturdays, receives a tree a year for its buildings, and may graze cattle and rake litter there [[11]]. Breyer notes that the servitude in Orlin was 300 Morgen, and that the separation was carried out in Great Orlin and Czarny Bród sixty years before and in Białobłoty and Little Orlin two years before [[11]].
+
+His figures for Łazińsk follow the farmers and their land from 1840 to 1935: 87 farmers on 1,368 Morgen in 1840, 91 on 1,691 in 1868, 112 on 2,044 in 1906, and 146 on 1,996 in 1935 [[6]]. For Orlin he lists the farmers of the Hauland of Biskupice with their Morgen [[8]], and the land of the village by classes in July 1936 [[9]].
+
+His notes of July 1935 [[7]] and July 1936 [[9]] are on Huta Trąbczyńska, Orlin, Józefów and the villages around them: the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty, marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German".
+
+### Form and language
+
+The tables and the servitudes are copied in Russian, in the spelling of before 1918; Breyer's notes are in German, in Latin script and some in Kurrent, short and much abbreviated; the sheet of 1858 is in Polish. In the tables a figure such as "17-71" is 17 Morgen 71 rods, and on the sheet of 1858 "1-50" is 1 złoty 50 groszy. Breyer separates his notes with a short line and a small circle. The tables are given as tables, the entry's number first and the name second. <!-- context -->
+
+### Related holdings
+
+Breyer's notebooks of July 1936 on Łazińsk, Emilienheim and their neighbours: [[unit:app539680669]]. The summons of 1860 against the colonists of the two Łazińska colonies, from the same papers: [[unit:app539680783]]. Breyer's copies on the parcelling of Zagórów and Trąbczyn in 1806: [[unit:app539680801]]. <!-- context -->

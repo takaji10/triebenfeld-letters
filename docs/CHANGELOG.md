@@ -1912,6 +1912,14 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Figures: 808 marks of doubt.
 - **APP 53/968/0/-/669, the second sheet**: 29 of the most uncertain readings put to the editor; 22 changed or settled. Strażniki is a village (not the name Krainik), Noga a field name (not Kroge), Swięcer of Swięcia (not Smięcer), Mühle (not Müller). 70 marks of doubt remain; 795 in the edition. A third sheet of three readings on Breyer's Sm and Sw: the editor read Swięcia twice where the first reading had Smięcia, and St[y?]pin.
 
+## APP 53/968/0/-/716 added, not published (2026-10-14)
+
+- **APP 53/968/0/-/716**, Albert Breyer's notebook "Łazińsk, Emilienheim, Ликвидац. табель", with a loose sheet of 1858, from the editor's raw photos IMG_5159 to IMG_5180: eleven documents by content (the editor's choice), six of them tables. Breyer's Russian copies of the liquidation tables of Emilienheim (28 March 1868), Łazińsk (Słupca, 29 June 1868, 91 holdings, 1,691 Morgen 219 rods, with his pencil of who held each holding in 1875) and Orliny (of Count Albert Taczanowski), and of the servitudes of Łazińsk and Orliny; his counts of farmers and Morgen of Łazińsk from 1840 to 1935; his German notes of July 1935 and July 1936 on Orlin, Józefów, Huta Trąbczyńska and their people; a list of the farmers of the Orlin Hauland Biskupice; and the Polish list of the hearth tax of Emilienheim, Kopojno, 3/15 December 1858.
+- Read from the photos in session (68 marks of doubt), translated, summarised in both languages and claim-checked (83 statements, 16 weakened or cut); holding page in both languages, a timeline entry for 29 June 1868, a paragraph in the story and the era's blurb. Breyer's own total on one page is 6 Morgen more than his figures; the summary says so.
+- Tables: a table's title or totals standing on a page of their own now show there, a heading row that is only a title joins the caption, and a single row of column labels is shown as one heading row. Every other table of the edition renders as before. Line breaks in Russian are now decided, a figure ending in a hyphen in a table is no longer taken for a broken word, and tables are left out of the catchword check.
+- A spot sheet of 17 readings for the editor. Kl., Wirte and dt. ruled out of the glossary; Kuh and Neumann shut out of the documents where they are not the people of the name list.
+- Figures: 581 documents on 1,951 pages in 41 holdings, 1589 to 1936; 880 marks of doubt; 576 translated. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

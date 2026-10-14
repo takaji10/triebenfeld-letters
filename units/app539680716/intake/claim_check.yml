@@ -1,0 +1,131 @@
+# The claim check of the German summaries of APP 53/968/0/-/716, made in
+# session on 2026-10-14 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# documents were read in the corpus text as read from the photos
+# (intake/text716.py); "p." is the page of the document.
+#
+# Result: 83 statements, 67 supported as first written, 16 overstated or
+# unsupported and weakened or cut (marked below). What the first draft got
+# wrong, for the next notebook:
+# - It put into the liquidation tables (2, 4) what the edition knows from
+#   elsewhere: that they gave the peasants their land after the emancipation
+#   of 1864, and that Łazińsk lay on the former Trąbczyn estate. The tables
+#   say neither (the commune in the heading of 4 is read with doubt). Cut;
+#   the holding's description gives the context.
+# - It counted rows wrongly where numbers are skipped or doubled (4: 91
+#   holdings, 86 twice; 8: 36 entries, 27 missing) and gave a smallest
+#   holding that was not the smallest (4: no. 89 has 193 rods).
+# - It read meaning into unlabelled columns (1: "hearths").
+# - It named people from the Russian tables in German forms the English
+#   does not use (Gottfried Schultz, Merz): the English transliterates
+#   (Shults Gotfr., Merzh). Cut; numbers given instead.
+# - It added the sum of 9 without saying that Breyer's total (1157.69) is
+#   6 Morgen more than the figures (1151.69). Checked on the photo
+#   (5176_a2): the figures are read rightly; the summary now says so.
+# Nothing in the summaries rests on a word marked as doubtful.
+
+app539680716-001:
+- {claim: "polnische Liste der Rauchfangsteuer samt dem Kasernengeld der Kolonie Emilienheim", verdict: supported, where: "p. 2: Wykaz opłacać się mających podatków podymnych łącznie z kaszarkowym Kol. Emilienheim"}
+- {claim: "in zwei gleichen Raten im März und im September", verdict: supported, where: "p. 2: w dwuch równych Ratach w mies. Marcu i Wrześniu"}
+- {claim: "ausgestellt in Kopojno am 3./15. Dezember 1858 vom Vogt der Gemeinde Kopojno", verdict: supported, where: "p. 2: Kopojno d. 3/15 Grudnia 1858 r. / Woyt Gminy Kopojna"}
+- {claim: "ein loses Blatt, das in Albert Breyers Heft liegt", verdict: supported, where: "the photos (IMG_5159, 5160) show the sheet laid in the notebook; the archive's unit is from Breyer's papers"}
+- {claim: "29 Wirte von Krystyan Szejnwald bis Gottlieb Dykhof, darunter zwei Witwen", verdict: supported, where: "nos. 1-29; 6 Wdowa Kiepcke, 23 Wdowa Szurak"}
+- {claim: "27 stehen mit 1 in der zweiten Spalte und 1 Złoty 50 Groschen in der letzten", verdict: supported, where: "every entry but 11 and 23. First written as 'haben je einen Rauchfang': the column has no heading; overstated, weakened"}
+- {claim: "Gottlieb Liepelt und die Witwe Szurak mit 1-3 in der ersten Spalte", verdict: supported, where: "11 Gottlieb Liepelt,1-3; 23 Wdowa Szurak,1-3"}
+- {claim: "Summe nach dem letzten Eintrag 2-6, 27 und 40 Złoty 50 Groschen", verdict: supported, where: "p. 2, last line before the date: ,,2-6,27,40-50"}
+
+app539680716-002:
+- {claim: "Breyers russische Abschrift der Liquidationstabelle des Dorfes Emilienheim, jetzt Michalenow", verdict: supported, where: "p. 1: Ликвидацiонная табель селенiя Эмилейнхаймъ (нынѣ Михаленовъ); in Breyer's notebook"}
+- {claim: "Gouvernement Kalisz, Kreis Słupca, Bezirk Pyzdry", verdict: supported, where: "p. 1: Калишск. губ., Слупецк. уѣз., Пыздрск. округа"}
+- {claim: "vom 28. März 1868", verdict: supported, where: "p. 3: 28 марта 1868 г."}
+- {claim: "die Tabelle, nach der die Bauern nach der Bauernbefreiung von 1864 ihr Land erhielten", verdict: unsupported, where: "the table does not say so; cut"}
+- {claim: "35 Stellen, von 1 bis 36 gezählt, Nr. 19 fehlt", verdict: supported, where: "pp. 1-3: 18 is followed by 20"}
+- {claim: "Unland in Morgen und ganze Fläche in Morgen und Ruten", verdict: supported, where: "p. 1 heading: Неудобн. мор. / Вообще мор. прут."}
+- {claim: "einige Namen in lateinischer Schrift", verdict: supported, where: "p. 1: nos. 5-10, Reinisch Krist. to Schönfisch Gottl."}
+- {claim: "die größte Stelle, Nr. 14, 30 Morgen 182 Ruten", verdict: supported, where: "p. 2: 14,Шульцъ Готфр.,41,30-182. First written with the name as Gottfried Schultz: the English gives the Russian names transliterated; the name cut"}
+- {claim: "Anteil des Schulzen, Schulgehöft mit 7 Morgen 116 Ruten, Friedhof, Wege", verdict: supported, where: "p. 3: Участокъ солтыса / Школьн. усадьба 7-116 / Кладбище / Дороги"}
+- {claim: "zusammen 319 Morgen 250 Ruten; dem Gutsbesitzer 4420 Rubel 53 Kopeken", verdict: supported, where: "p. 3: Всего 319 мор. 250 пр. / Помѣщ. 4420 р. 53 коп."}
+
+app539680716-003:
+- {claim: "Breyers Notizen zu Emilienheim, deutsch und russisch", verdict: supported, where: "p. 1"}
+- {claim: "bereits am 26. November 1870 nach der Vermessung durch den Geometer in Kalisz 331 Morgen 179 Ruten nutzbares und 5 Morgen 179 Ruten unbrauchbares Land", verdict: supported, where: "Bereits 26 Nov. 1870 nach Messung d. Geom. Kal. удобной 331 мор. 179 пр. / неудобной 5 \" 179 \""}
+- {claim: "ein Vermerk über die Behörde des Gouvernements Kalisz vom 29. September 1892, Emilienheim und seinen örtlichen Namen Michalinów", verdict: supported, where: "Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. The renaming itself rests on the doubtful word and is not said"}
+- {claim: "eine Eintragung vom April 1892", verdict: supported, where: "Eingeschrieben [j. Wloch?] i. April 1892; the doubtful words left out"}
+
+app539680716-004:
+- {claim: "Breyers russische Abschrift der Liquidationstabelle der Kolonie Łazińsk, Gouvernement Kalisz, Kreis Słupca, Bezirk Pyzdry", verdict: supported, where: "p. 1: Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр."}
+- {claim: "datiert Słupca, 29. Juni 1868", verdict: supported, where: "p. 8: Слупца 29 iюня 1868 г."}
+- {claim: "nach der Bauernbefreiung von 1864, auf dem früheren Gut Trąbczyn", verdict: unsupported, where: "not in the table; the commune is read with doubt ([Тромбчинъ?]); cut"}
+- {claim: "91 Stellen, von 1 bis 90 gezählt, die Nummer 86 zweimal", verdict: supported, where: "pp. 2-7. First written as 90 holdings: overstated, corrected"}
+- {claim: "die größte mit 54 Morgen 292 Ruten", verdict: supported, where: "p. 6: 70,Морицъ Готфр.,54,292. First written 'von 1 Morgen 196 Ruten': no. 89 has 193 rods; the smallest cut"}
+- {claim: "die Namen der Inhaber sind deutsche und polnische", verdict: supported, where: "e.g. 1 Кончинскій, 8 Стржижиковскій; 5 Мержъ, 7 Кинастъ. First written with German forms of the names (Hirsch, Merz, Zellner): the English transliterates; cut"}
+- {claim: "mit Bleistift, unter der Überschrift Bleistift Jahr 1875, wer die Stellen 1875 innehatte, neben vielen Stellen", verdict: supported, where: "p. 1 heading: Bleistift Jahr 1875; the additions after the dash in the name cells"}
+- {claim: "Gehöft der Dorfschule 20 Morgen 218 Ruten, Friedhof, Gemeindeland, Anteil des Schulzen, Wege, 9 Morgen 224 Ruten Unland", verdict: supported, where: "p. 8: Усадьба сельск. шк. 20 218 / Кладб. / Общественн. земля / Солтысъ / Подъ дорогами / Неудоб. 9-224"}
+- {claim: "zusammen 1691 Morgen 219 Ruten; Liquidationssumme für den früheren Besitzer 10.055 Rubel 70 Kopeken", verdict: supported, where: "p. 8: Вообще 1691 мор. 219 пр. / Ликвид. сумма для бывшаго владѣльца 10055 р. 70 к."}
+
+app539680716-005:
+- {claim: "Breyers russische Abschrift der Servitute der Bauern von Łazińsk mit deutschen Zahlen", verdict: supported, where: "pp. 1-3"}
+- {claim: "alle Bauern des Dorfes der Łazińsker Holländer haben das Recht, ihr ganzes Vieh im Wald Studzianki zu weiden", verdict: supported, where: "p. 1: Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право: 1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки\"; the doubtful word left out"}
+- {claim: "zweimal in der Woche Leseholz, liegendes Holz und trockene Äste, sammeln und fortzutragen", verdict: supported, where: "pp. 1-2: два раза въ недѣлю сбиранину состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]; the doubtful word left out"}
+- {claim: "andere Rechte auf Servitute haben sie nicht", verdict: supported, where: "p. 2: Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ."}
+- {claim: "nach der russischen Eintragung nach 1875 1655 Morgen 63 Ruten und 94 Wirte", verdict: supported, where: "p. 2: Rus. Eintragung nach 1875 Morgen 1655 Rut. 63 Wirte 94"}
+- {claim: "1901 1660 Morgen 271 Ruten, 91 Wirte; 1906 2044 Morgen 181 Ruten, 91 alte und 21 neue Wirte mit 112 Morgen", verdict: supported, where: "p. 2"}
+- {claim: "1907 91 alte und 21 neue Wirte; 1914 137 Wirte mit 2037 Morgen", verdict: supported, where: "p. 3"}
+
+app539680716-006:
+- {claim: "Tabelle der Wirte und Morgen in neun Jahren von 1840 bis 1935", verdict: supported, where: "heading Jahr, Wirte:, Morgen; nine rows"}
+- {claim: "1840 87/1368, 1868 91/1691, 1890 94/1655, 1906 112/2044, 1914 137/2037, 1935 146/1996", verdict: supported, where: "the rows"}
+- {claim: "die Tabelle nennt kein Dorf; ihre 1691 Morgen von 1868 sind die der Liquidationstabelle von Łazińsk", verdict: supported, where: "document 4, p. 8: Вообще 1691 мор. 219 пр."}
+
+app539680716-007:
+- {claim: "Notizen vom Juli 1935, deutsch und zum Teil russisch", verdict: supported, where: "p. 2: In Orlin i. 7. 1935; p. 3 in Russian"}
+- {claim: "Huta Trąbczyńska 1935 18 Wirte und 217 Morgen, Orlin im Juli 1935 85 Wirte", verdict: supported, where: "pp. 1-2"}
+- {claim: "für Orliny 152 Kühe und 343 Schafe", verdict: supported, where: "p. 3: Скотъ Орлины. ×× 152 коровъ 343 овецъ"}
+- {claim: "1879 für das ganze Dorf 52 Fuhren Brennmaterial, 1880 300 Morgen 97 Ruten", verdict: supported, where: "p. 3. First written as 'Brennholz': the note has Brennmaterial; corrected"}
+- {claim: "Namen aus einem Forstwirtschaftsplan, darunter Biskupice, Szetlew und Grzebień", verdict: supported, where: "p. 3: лѣсохозяйств. планъ: Вдовьiй боръ, Бискупице, Подбель, Шетлевъ, Гржебень ... First written as 'Waldnamen': what the names are the note does not say; weakened"}
+- {claim: "in Józefów Becker und Wegert unter den ersten Wirten", verdict: supported, where: "p. 4: In Józefów [Jäke?], Becker, Wegert, [Jesswein?] die ersten Wirte."}
+- {claim: "alte Häuser mit dem Giebel zur Straße; Gesangbücher, darunter das Züllichauer", verdict: supported, where: "p. 4: Giebel z. Strasse / 1056 Liede / 1017 Lieder i. Züllichauer Gesang. First written 'man singt aus dem Züllichauer Gesangbuch': overstated, weakened"}
+- {claim: "die Frauen tragen Schürzen rund um den Körper, die Hauben sind vor 30 Jahren verschwunden", verdict: supported, where: "pp. 4-5"}
+- {claim: "die Alten sprachen etwas Plattdeutsch", verdict: supported, where: "p. 6, after the line on Klein-Orlin. First written 'In Orlin': which place is meant the page does not say; cut"}
+- {claim: "die Orliner schimpfen die Leute von Białobłoty die dummen Kaschuben", verdict: supported, where: "p. 6"}
+- {claim: "ein evangelischer Gutsbesitzer Riedel in Wielki Bór schenkte Herrn Schmidt ein Gesangbuch", verdict: supported, where: "p. 6"}
+- {claim: "über die deutschen Siedler, mit Grodziec, Łazińsk, Białobłoty und Obory: Diebstahl von Holz und Kartoffeln, meist aus Armut, in Łazińsk weniger", verdict: supported, where: "p. 7: stehlen einander Holz, stehlen Kartoffeln ... d. dt. Volksgenossen ... Łazińsk nicht so grosse Dieberei ... Die Armut macht es meist.; p. 8: Obory"}
+- {claim: "wilde Ehen und uneheliche Kinder; viele heiraten nach Białobłoty", verdict: supported, where: "p. 7"}
+- {claim: "mit den Polen kommen sie gut aus, die Polen sprechen gut Deutsch, keine Neigung zur Assimilation", verdict: supported, where: "p. 7"}
+- {claim: "der Volksverband wirkt durch den Volksfreund und den Kalender", verdict: supported, where: "p. 7: Volksverband hat mehr Einfluss durch d. „Volksfreund\" u. d. Kalender."}
+- {claim: "in Orlin zwei Prediger und seit zwei Jahren Pfingstler und Baptisten", verdict: supported, where: "p. 8"}
+- {claim: "Bräuche und der Zug der Jugend, meist Mädchen, ins Posensche", verdict: supported, where: "p. 8: Am Sonnabend kein Dung fahren ... Jugend meist Mädchen ins Posenschen."}
+- {claim: "die Notizen brechen mitten im Satz ab", verdict: supported, where: "p. 8: Schlechte Diebs-. First written 'am Ende der Seite': true, but the point is the sentence; reworded"}
+
+app539680716-008:
+- {claim: "Liste der Wirte des Orliner Haulands Biskupice mit ihrem Land in Morgen; Überschrift nur zum Teil gelesen", verdict: supported, where: "p. 1: [?] von dem Orliner Hauland Biskupice [?] ...; Morg."}
+- {claim: "36 Einträge, von 1 bis 37 gezählt, Nr. 27 fehlt, von Bloch bis Hoffmann", verdict: supported, where: "pp. 1-3. First written as 37 entries: overstated, corrected"}
+- {claim: "15 Morgen zur Schule gehörig und 34 Morgen gemeinschaftliches Land", verdict: supported, where: "15,Zur Schule gehörig,15; 22,Gemeinschaftl. Land,34"}
+- {claim: "ohne Nummer zehn weitere Wirte von Ziebart bis Kress", verdict: supported, where: "p. 3-4: Ziebart ... Kress"}
+- {claim: "der größte Besitz Kolańskis mit 43 Morgen", verdict: supported, where: "13,Kolański,43"}
+- {claim: "die Summe lautet 27 Hufen 28 Morgen", verdict: supported, where: "last line: 27 Huf. 28 M."}
+
+app539680716-009:
+- {claim: "Notizen über Orlin vom Juli 1936: Orlin Hauland 1 Okt. 1806", verdict: supported, where: "p. 1; p. 2: 7. 1936"}
+- {claim: "in Orlin wurde Kaschubisch gesprochen", verdict: supported, where: "p. 1"}
+- {claim: "eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische", verdict: supported, where: "p. 1: (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin). First written 'nach Weber sprach auch der Vater Blochs, aus Czarny Bród, Kaschubisch': the note is too broken for that; weakened"}
+- {claim: "die nassen Jahre in Orlin und ein Bankrott; das Wort Kjaufft", verdict: supported, where: "p. 1: Der nassen Jahre wegen i. Orlin Bankrott [gemorden?]. „Kjaufft\"-Wort.; the doubtful verb left out"}
+- {claim: "auf der folgenden Seite die Fläche des Dorfes Orlino nach Klassen: I 17, II 370, IV 464,69 Morgen, 300 Morgen Unland", verdict: supported, where: "p. 2. First written 'darunter, polnisch' and 'Bodenklassen': the page is the next one, the classes are in German abbreviation (Kl.); corrected"}
+- {claim: "Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69", verdict: supported, where: "p. 2: 1157,69 morgen; 17 + 370 + 464.69 + 300 = 1151.69; figures checked on the photo 5176_a2"}
+
+app539680716-010:
+- {claim: "Breyers russische Abschrift der Liquidationstabelle des Dorfes Orliny des Gutsbesitzers Graf Albert Taczanowski, ohne Datum", verdict: supported, where: "p. 1: Ликвидац. табель селенiя Орлины помѣщика гр. Альбер. Тачановскаго; no date"}
+- {claim: "57 Stellen mit ihrer Fläche in Morgen, bei einigen auch in Ruten, bei einigen ohne Zahl, die größte mit 48 Morgen", verdict: supported, where: "nos. 1-57; 1 10-245, 2 37-201; 8, 11, 12 empty; 19 48"}
+- {claim: "das Gehöft des Schulzen mit 4 Morgen", verdict: supported, where: "p. 5: Усадьба солт.,4"}
+- {claim: "zusammen 850 Morgen 272 Ruten; zu zahlen 6049 Rubel 89 Kopeken", verdict: supported, where: "p. 5: Вообще 850 мор. 272 пр. / Уплатить 6049 р. 89 к."}
+
+app539680716-011:
+- {claim: "Notizen zur Separation in Groß-Orlin und Czarny Bród vor 60 Jahren, nach der Nummer, dann nach Morgen", verdict: supported, where: "p. 1: Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat. nach d. Nummer, dann nach Morgen."}
+- {claim: "in Białobłoty und Klein-Orlin vor zwei Jahren, nach der Nummer", verdict: supported, where: "p. 1"}
+- {claim: "die Servitut in Orlin umfasst 300 Morgen", verdict: supported, where: "p. 2: Servitut i. Orlin 300 Mor"}
+- {claim: "alle Höfe von Orliny haben Wald- und Weideservitute in einer Hälfte des an das Dorf grenzenden Waldes Welski Bor", verdict: supported, where: "p. 2"}
+- {claim: "jeden Sonnabend Leseholz sammeln, trockene Äste brechen, Stubben roden; je Hof höchstens eine Fuhre in der Woche", verdict: supported, where: "pp. 2-3; the doubtful [напоръ?] left out"}
+- {claim: "jährlich je Hof ein Baum zur Ausbesserung der Gebäude, 8 Zoll stark in 2 Ellen Höhe, mit Wipfel und Ästen", verdict: supported, where: "p. 3"}
+- {claim: "Vieh weiden und im April, Mai, September, Oktober und November Streu rechen", verdict: supported, where: "p. 3"}
+- {claim: "die Zahl der Fuhren und des Viehs lege die folgende Liste fest; die Abschrift endet dort mit dem Zeichen ××, das auch neben Breyers Zahlen zum Vieh von Orliny steht", verdict: supported, where: "p. 3: ... по нижеслѣдующей вѣдомости: ××; document 7, p. 3: Скотъ Орлины. ××. First written 'die Breyer nicht mehr abschrieb': unsupported, he may have meant the figures in 7; weakened"}
