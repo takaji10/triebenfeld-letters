@@ -305,6 +305,12 @@
   docs: 3
   span: "1805–1808"
   letters: [{id: "167", uid: "oe1bu9454-167", url: "/documents/oe1bu9454/167/"}, {id: "190", uid: "oe1bu9454-190", url: "/documents/oe1bu9454/190/"}, {id: "36", uid: "oe1bu9454-36", url: "/documents/oe1bu9454/36/"}]
+- name: "Łazińsk"
+  slug: "lazinsk"
+  count: 1
+  docs: 1
+  span: "1936"
+  letters: [{id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/"}]
 - name: "Świniary (Schweinern)"
   slug: "swiniary-schweinern"
   count: 3

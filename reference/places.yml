@@ -1264,6 +1264,8 @@ places:
     # Warszawa in the Polish documents, in the forms of the noun only: the
     # adjective (Departament Warszawski) names the department, not the city.
     match: 'Warschau\w*|Varsovie|Warsovie|Warszaw(?:a|y|ie|ę|ą)(?![a-zà-ÿ])'
+    # "Neu-Warschau" in Breyer's notebook of 1936 is a field name in Łazińsk.
+    not_in: [app539680669-1]
     tier: "Established"
     variants: []
 
@@ -1429,6 +1431,9 @@ places:
     display: "Holland"
     kind: country
     match: 'Holland(?![a-zà-ÿ])'
+    # In Breyer's notebook of 1936 "Holland" is an Olęder settlement ("Altes
+    # Holland", "In jedem Holland"), not the country.
+    not_in: [app539680669-1]
     tier: "Established"
     variants: []
 

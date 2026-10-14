@@ -2424,6 +2424,7 @@ excluded:
   - {word: Freiherr, reason: "plain in English as Baron"}
   - {word: Moratorium, reason: "the same word in English"}
   - {word: Codizill, reason: "the same word in English, codicil"}
+  - {word: "geb.", reason: "geboren, born ('geb. Neumann', née Neumann); in 9454 a broken 'gegeben'. Plain in the English (2026-10-14, APP 53/968/0/-/669)"}
   # ruled 2026-10-02, from the abbreviation and Latin probe and the termbase leftovers
   - {word: "Gnädigster Fürst und Herr", reason: "salutation; the English gives it plainly, Most gracious Prince and Lord"}
   - {word: "Gnädigster Herr", reason: "salutation; plain in the English"}

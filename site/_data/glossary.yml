@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 38
+  docs: 39
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 40
+  docs: 41
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 44
+  docs: 45
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -492,7 +492,7 @@
   initial_en: "V"
   sort_de: "schulze"
   initial_de: "S"
-  docs: 8
+  docs: 9
 - id: "donation"
   kind: "land"
   lang: "de_la"

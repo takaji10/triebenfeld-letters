@@ -110,11 +110,11 @@ so check them.
 
 ## Where things stand (2026-10-14)
 
-- **Two holdings are built and committed but NOT published** (added
-  2026-10-13, both from the State Archive in Poznań). The edition's
-  figures already count them (568 documents, 39 holdings, 727 marks of
+- **Three holdings are built and committed but NOT published** (added
+  2026-10-13 and 14, all from the State Archive in Poznań). The edition's
+  figures already count them (569 documents, 40 holdings, 815 marks of
   doubt): do not publish anything else from `main` without saying that
-  they go with it. `docs/TODO.md`, sections 10 and 11.
+  they go with it. `docs/TODO.md`, sections 10 to 12.
   - **APP 53/968/0/-/783** (slug `app539680783`): a printed summons of
     1860 in Polish, Count Włodzimierz Miączyński's counterclaim against 97
     colonists of Trąbczyn over pasture and wood in his forest; one
@@ -137,6 +137,17 @@ so check them.
     corrected, no figure changed) and worked in; the clean spreadsheet is
     in the unit's folder. `017v.jpg` is leaf 9 verso (editor). Waits only
     for their word.
+  - **APP 53/968/0/-/669** (slug `app539680669`): Albert Breyer's pencil
+    notebook of July 1936 from Łazińsk and Emilienheim, 35 pages in German,
+    one document. Only the notebook in the scans folder "Notes on Łazińsk"
+    (editor); the editor's "Breyer Notes.md" there renders another notebook
+    and was not used. No transcription existed: read from the scans in
+    session (`intake/holding.py`), English in `intake/english.py`,
+    summaries claim-checked. Read `units/app539680669/notes.md` first.
+    Waits for the editor's answers on the spot sheet "Readings in Breyer's
+    notebook" (`review/app539680669/readings.csv`), their ruling on its
+    era (placed in `hohenlohe`, which now runs to 1936 on the site), and
+    their word.
 - **Everything else is published and pushed (2026-10-13)**: 566 documents
   in 37 holdings. All four cloud branches are in `main`.
 - **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and

@@ -881,3 +881,21 @@ cloud branches").
   notebook in the same archival unit. Read the pages before relying on
   the file, and ask which notebook makes the holding. Raw CR2 photos can be
   viewed through their embedded full-size JPEG preview.
+- **Pages cut by a holding's own script are named by page id** (0002_a1.jpg
+  in `processed/`). Its `unit.yml` then needs `raw_glob: "*.jpg"`:
+  `stage_pages.py` takes the part before the wildcard as the start of every
+  name, and with "Image*.jpg" it staged nothing and said so only by a count
+  of 0 (APP 53/968/0/-/669, 2026-10-14).
+- **A mark of doubt stays on one line.** "[Krai¬" / "nik?]" across a line
+  break made the manifest and the uncertainty index count differently and
+  stopped build_dataset.py. Give such a word whole on the line where it
+  ends, and say so in the holding's notes.
+- **The name list made from the corpus matched half a word broken at a line
+  end** ("Emilien¬" as Emilie). Its pattern now refuses a following "¬".
+  After adding a holding, read the people and places the index finds in it
+  (`corpus/documents/<uid>.json`, `mentions` and `place_mentions`) and shut
+  out the false ones with `not_in`.
+- **A picture for a spot-sheet row** worked out from a line's place among
+  the page's lines misses on a page written only at the top. Space the
+  lines at the pitch of the ruled lines, and look at every picture before
+  serving the sheet.

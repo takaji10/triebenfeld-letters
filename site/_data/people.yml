@@ -3252,14 +3252,14 @@
   name: "Zelmer"
   heading: "Zelmer (family)"
   heading_de: "Zelmer (Familie)"
-  count: 7
-  docs: 2
-  life: "documented 1771-1860"
-  life_de: "belegt 1771-1860"
+  count: 8
+  docs: 3
+  life: "documented 1771-1936"
+  life_de: "belegt 1771-1936"
   bio: "A family of Olęder settlers on the Trąbczyn estate, also written Celmer. In the summons of 1860 Henryk Celmer and the widow and five children of Daniel Celmer are among the colonists of the Staro-Łazińska colony, and August and Michał Celmer among those of the Nowo-Łazińska colony, whom Count Włodzimierz Miączyński had summoned over pasture and wood-gathering in his forest."
   bio_de: "Eine Familie von Olędern auf dem Gut Trąbczyn, auch Celmer geschrieben. In der Vorladung von 1860 stehen Henryk Celmer sowie die Witwe und die fünf Kinder des Daniel Celmer unter den Kolonisten der Kolonie Staro-Łazińska, August und Michał Celmer unter denen der Kolonie Nowo-Łazińska, die Graf Włodzimierz Miączyński wegen der Weide und des Holzsammelns in seinem Wald laden ließ."
-  span: "1771–1860"
-  letters: [{id: "1", uid: "app53150kaliszgr414-1", url: "/documents/app53150kaliszgr414/1/", n: 1}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 6}]
+  span: "1771–1936"
+  letters: [{id: "1", uid: "app53150kaliszgr414-1", url: "/documents/app53150kaliszgr414/1/", n: 1}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 6}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 1}]
 - slug: "zerboni"
   name: "Zerboni"
   heading: "Zerboni di Sposetti, Joseph"

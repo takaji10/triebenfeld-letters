@@ -65235,6 +65235,90 @@
   ]
  },
  {
+  "entity": "zelmer",
+  "display": "Zelmer",
+  "count": 8,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app539680669-1",
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 16,
+    "doc_line": 7
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 16,
+    "doc_line": 7
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Zelmer",
+    "page": 17,
+    "page_id": "0009_a2",
+    "scan": "APP_53_968_0_669_0009_a2-L1_17.jpg",
+    "line": 237,
+    "doc_line": 219
+   }
+  ]
+ },
+ {
   "entity": "rapacki",
   "display": "Rapacki",
   "count": 8,
@@ -66414,80 +66498,6 @@
     "scan": "III_HA_MdA_III_Nr_12765_0041_a1-L27_04.jpg",
     "line": 948,
     "doc_line": 20
-   }
-  ]
- },
- {
-  "entity": "zelmer",
-  "display": "Zelmer",
-  "count": 7,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app539680783-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 16,
-    "doc_line": 7
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 16,
-    "doc_line": 7
    }
   ]
  },

@@ -55,6 +55,9 @@ channel. TEXT is the reading, line by line as on the page.
 - Not transcribed: his sketches (the fronts of houses and barns, 0003_a2;
   the corner bracing of a barn, 0005_a2; the shapes of grave boards in
   Łazińsk and Emilienheim, 0016_a1); the boxes and braces round notes.
+- A doubtful word broken across two lines is given whole on the second
+  line ("[Krainik?]", 0016_a1, where the page has "Krai-" / "nik"): a
+  mark of doubt must stand on one line for the counts.
 - The stamp of the village headman of the colony of Łazińsk on 0006_a1 is
   given in its own three lines, as it reads.
 - The English (ENGLISH) translates the notes and keeps the names as he
@@ -499,8 +502,8 @@ Emilienheimer
 zahlen gut Abga¬
 ben sagte d. Steuerinspek.
 nicht zusammen¬
-schliessen; dann aber doch. [Krai¬
-nik?]: im Dorfe, der einzige
+schliessen; dann aber doch.
+[Krainik?]: im Dorfe, der einzige
 Pole, Ladenbesitzer, zahlt kein Steuern""",
  '0016_a2': """N 6, 10 Uhr Sonne Bl. 18, 1/10
 7 " " B. 25 1/10 Mädch.
@@ -589,8 +592,12 @@ fertig ist, dann geht
 die Welt unter.""",
 }
 
-ENGLISH = {}
-S = {}
+from english import ENGLISH  # noqa: E402  (the English, page by page: intake/english.py)
+
+S = {
+ 1: ('Notizbuch Albert Breyers, mit Bleistift geschrieben, auf dem Umschlag „Juli 1936“, „Łazinsk“ und „Emilienheim“: Notizen nach den Angaben der Bewohner der deutschen Siedlungen der Gemeinde Trąbczyn. Die Kolonie Łazińsk, bei der der Stempel ihres Schulzen im Heft steht, hat 2040 Morgen und 250 Wirte; vom Gut Trąbczyn erhielt sie um 1880, mit Fragezeichen, Servitute, die beim Notar dem alten Land zugeschrieben wurden und hoch besteuert sind. Breyer fragt, wann das Restgut Trąbczyn parzelliert wurde, das Jesse kaufte und das heute Włodzimierow heißt. Er notiert die Lehrer in Łazińsk: Mielke seit 1925, Klingbeil 9 Jahre, Ed. Zelmer 34 Jahre, Radke 10 Jahre, Rasch 50 Jahre, der noch mit 80 Jahren unterrichtete; am ersten Unterrichtstag waren 186 Kinder in der Schule, und zehn Jahre lang hatte ein Lehrer 170 Schüler. Die Militärbehörden klagten beim Unterrichtsministerium, die Rekruten der Gemeinde Trąbczyn könnten nicht Polnisch. Viele sind nach Wolhynien ausgewandert, aus Łazinsk auch nach Russland und zurück, andere nach Amerika und Brasilien. Emilienheim wurde an Drzewce angeschlossen, weil 11 Personen zur Zahl 200 fehlten. Weiter: Heiratskreise, Gesangbücher aus Breslau und Züllichau, Flurnamen, Redensarten der „Brücher“ („ick war do“), Häuser, Scheunen und hölzerne Grabbretter. Die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift „Juli 1935“ und nennt Gostynin, Leonberg und Grabie.',
+     'Albert Breyer\'s notebook, written in pencil, with "Juli 1936", "Łazinsk" and "Emilienheim" on the cover: notes from what the people of the German settlements of the commune of Trąbczyn told him. The colony of Łazińsk, beside which the stamp of its village mayor stands in the notebook, has 2,040 Morgen and 250 farmers; about 1880, with a question mark, it received servitudes from the Trąbczyn estate, which were added to the old land at the notary\'s and are heavily taxed. Breyer asks when the remaining manor land of Trąbczyn was parcelled out, which Jesse bought and which is now called Włodzimierow. He lists the teachers of Łazińsk: Mielke since 1925, Klingbeil 9 years, Ed. Zelmer 34 years, Radke 10 years, Rasch 50 years, who still taught at 80; on the first day of lessons there were 186 children in the school, and for ten years one teacher had 170 pupils. The military authorities complained to the Ministry of Education that the recruits of the commune of Trąbczyn could not speak Polish. Many emigrated to Volhynia, people from Łazinsk also to Russia and back, others to America and Brazil. Emilienheim was joined to Drzewce because 11 persons were lacking to make 200. Further notes cover marriage circles, hymn books from Wrocław and Züllichau, field names, the speech of the "Brücher" ("ick war do"), houses, barns and wooden grave boards. The last pages are a log of his photographs; one of them is headed "Juli 1935" and names Gostynin, Leonberg and Grabie.'),
+}
 HOW = 'written in the working session from the German as read (intake/holding.py, 2026-10-14).'
 
 

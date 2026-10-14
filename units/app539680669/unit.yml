@@ -2,28 +2,61 @@
 # material came from and how its files are named.
 
 slug: app539680669
-ref: APP 53/968/0/-/669
-archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+ref: 53/968/0/-/669
+archive: Archiwum Państwowe w Poznaniu (APP)
 # One sentence on what the holding is about, in English and in German. It is
 # the line under the reference on the Sources page and opens the translator's
-# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+# prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  TODO: one sentence on what this holding is about.
+  Albert Breyer's field notebook of July 1936 from Łazińsk and Emilienheim,
+  German settlements in the commune of Trąbczyn: notes taken from the
+  settlers on their land, schools and teachers, emigration, field names,
+  speech, houses and graves, with a log of his photographs.
 title_de: >-
-  TODO: derselbe Satz auf Deutsch.
-date_span: TODO
-status: draft              # draft | transcribed | translated | published
+  Albert Breyers Feldnotizbuch vom Juli 1936 aus Łazińsk und Emilienheim,
+  deutschen Siedlungen der Gemeinde Trąbczyn: Notizen nach den Angaben der
+  Siedler über ihr Land, Schulen und Lehrer, Auswanderung, Flurnamen,
+  Sprache, Häuser und Gräber, mit einem Verzeichnis seiner Aufnahmen.
+# The archive's title of the whole unit, as the editor gave it. Kept for
+# reference; nothing displays it. The holding is one notebook of the unit.
+archive_title: >-
+  Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska]
+fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
+# The cover is dated "Juli 1936"; one page of the photograph log at the back
+# is headed "Juli 1935" (notes.md).
+date_span: "1936"
+status: translated         # draft | transcribed | translated | published
+# The English was written in session on 2026-10-14 into the untagged cache.
+published_tag: ""
 
-# Raw scans live outside the project. crop_scans.py reads from raw_dir and
-# writes single pages into raw_dir/processed/.
+# Which era this holding belongs to - reference/eras.yml. None of the eras
+# is about the twentieth century; it stands with the other papers of Albert
+# Breyer (53/968/0/-/783 and -/801) for now. The editor rules
+# (docs/NEEDS_CONFIRMATION.md).
+era: hohenlohe
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Eighteen images from the archive, Image00001.jpg to Image00018.jpg: the
+# front cover, then seventeen openings. intake/holding.py --crop copies the
+# cover and cuts the openings at the fold into raw_dir/processed/: 0001_a,
+# 0002_a1, 0002_a2 ... 0018_a1, 0018_a2.
 scans:
   raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska] (53.968.0.-.669)/Notes on Łazińsk (53.968.0.-.669)
-  raw_glob: TODO_*.jpg
+  raw_glob: "*.jpg"
 
   # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
   # prefix, because source names carry spaces and umlauts. Later stages parse
   # this prefix, so it must not change once the unit is published.
-  ascii_prefix: TODO
+  ascii_prefix: APP_53_968_0_669
+
+# One file per page, named by page id (0002_a1.txt). Made from the reading in
+# intake/holding.py (TEXT).
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
 
 # The transcription. Documents are delimited by [DOC N] on its own line.
 corpus: corpus.txt
@@ -32,4 +65,30 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  TODO: a paragraph on what this holding is.
+  One small exercise book of pencil notes in German, from the papers of
+  Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a
+  historian of the German settlements in central Poland. He wrote it in July
+  1936 in Łazińsk and Emilienheim, Protestant German settlements of the
+  commune of Trąbczyn, from what the people there told him: the land of the
+  settlements and how it was divided and classed, the schools and their
+  teachers, cantors and pupils, hymn books, emigration to Volhynia, Russia,
+  America and Brazil, servitudes granted by the Trąbczyn estate, the
+  parcelling of the manor's remaining land, field names, turns of speech,
+  houses, barns and grave boards. The last pages, written from the back,
+  are a log of his photographs, one of them headed July 1935.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Field notes in German, in pencil, written fast and much shortened ("d."
+  der/die/das, "i." in, "u." und, "Gem." Gemeinde, "Holl." Holland or
+  Hauland, "Morg." Morgen, "Bl." Blende, "Gf." Gelbfilter). They are not
+  sentences: give them as notes. "Holland" and "Hauland" are the edition's
+  Hollander or Olęder settlements; "Kaveln", "Baustücke", "Viermorgen" are
+  kinds of plot; "Bruch" is marsh land and "Brücher" its people; "Restgut"
+  is what was left of the manor after parcelling; "Servitut" a right of
+  pasture or wood; "Rejent" a notary. Quoted words are local speech or
+  field names and stay as written. In the photograph log a line gives the
+  number of the exposure, the subject, the aperture, the filter or "ohne",
+  the exposure time and the hour. A word followed by [?] or written [word?]
+  is one read with doubt; [?] alone is a word not read.

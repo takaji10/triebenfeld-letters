@@ -400,3 +400,28 @@ from your scans in the session. Details:
       the clean spreadsheet (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`).
 - [x] `017v.jpg` is the back of leaf 9 (you, 2026-10-14).
 - [ ] **You: say when to publish.**
+
+## 12. APP 53/968/0/-/669: Albert Breyer's notebook of July 1936 (added 2026-10-14, not published)
+
+A pencil notebook of 35 pages in German: what the settlers of Łazińsk and
+Emilienheim told Breyer about their land, schools and teachers,
+emigration, field names, speech, houses and graves, with a log of his
+photographs at the back. There was no transcription; it was read from the
+archive's scans in the session, translated and summarised. Only the
+notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
+`units/app539680669/notes.md`.
+
+- [ ] **You: the spot sheet "Readings in Breyer's notebook"** (ten rows,
+      each with a picture): the names, dates and numbers read with doubt.
+      Served with `python pipeline/review/queries.py --unit app539680669
+      --sheet readings.csv` (port 4102) and the built site on port 4000.
+- [ ] **You: the folds** of the seventeen openings, if you want to place
+      them (`review/app539680669/folds/index.html`).
+- [ ] **You: its era.** It stands with the Hohenlohe-Ingelfingen years for
+      now, like the other Breyer papers, and that era's span on the site
+      now runs to 1936.
+- [ ] **You: whether "Łazinsk" of 1936** is the two Łazińskie colonies
+      together, before it is linked to them.
+- [ ] Not begun: the other three notebooks of the unit (Grodziec 1938,
+      "V. Grodziec Juli 1936", Białobłoty and Dembe), if you want them.
+- [ ] **You: say when to publish.**

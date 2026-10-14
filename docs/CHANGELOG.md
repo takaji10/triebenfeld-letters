@@ -1874,6 +1874,14 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **A spot sheet for the summons**, "Pen marks on the summons": the six places where the court messenger wrote on the print, each with a picture.
 - Figures: 568 documents in 39 holdings; 727 marks of doubt.
 
+## APP 53/968/0/-/669 added: Albert Breyer's notebook of July 1936 (2026-10-14; not published)
+
+- **APP 53/968/0/-/669**: a pencil notebook of 35 pages in German from the papers of Albert Breyer, written in Łazińsk and Emilienheim, German settlements of the commune of Trąbczyn, with a log of his photographs at the back. Only the notebook whose scans are in the folder "Notes on Łazińsk" (editor); the editor's English notes beside it belong to another notebook of the unit and were not used.
+- There was no transcription: read from the scans in session (88 marks of doubt), translated, summarised in both languages and claim-checked (16 statements, two weakened); holding page in both languages. A spot sheet of ten readings, with pictures, for the editor.
+- The name list made from the corpus no longer takes a word cut by the line-break mark ("Emilien¬heim" was found as Emilie); nothing else in the edition changed. Neumann, Geheimer Finanzrat Schulze, Holland and Warszawa shut out of this document.
+- "geb." ruled out of the glossary (geboren).
+- Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

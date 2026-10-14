@@ -1,0 +1,31 @@
+# The claim check of the German summary of APP 53/968/0/-/669, made in session
+# on 2026-10-14 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# document was read in the corpus text as read from the scans; page numbers
+# are the document's (1 the cover, 2 inside the front cover, 3 = 0002_a2 ...).
+#
+# Result: 16 statements, 14 supported, two overstated and weakened. The
+# first draft said the village mayor "versah das Heft mit seinem Stempel":
+# the stamp is in the notebook beside "Kolonja Łazińsk", but who put it
+# there the page does not say. And it put the 170 pupils "in der Schule" of
+# Łazińsk: the note does not name the school. Nothing in the summary rests
+# on a word marked as doubtful.
+
+app539680669-001:
+- {claim: "Notizbuch Albert Breyers, mit Bleistift geschrieben, auf dem Umschlag Juli 1936, Łazinsk und Emilienheim", verdict: supported, where: "p. 1: Juli 1936 / Łazinsk / Emilienheim; the archive's unit is from Breyer's papers"}
+- {claim: "Notizen nach den Angaben der Bewohner der deutschen Siedlungen der Gemeinde Trąbczyn", verdict: supported, where: "pp. 9, 17, 24-28: Alter Krüger; Mielke; Bei Schultz; Der Vater d. alten Schultz; p. 10: GMINA Trąbczyn"}
+- {claim: "die Kolonie Łazińsk, bei der der Stempel ihres Schulzen im Heft steht, hat 2040 Morgen und 250 Wirte", verdict: supported, where: "p. 10: Kolonja Łazińsk. / GROMADA ŁAZIŃSKA KOLONJA / SOŁTYS / GMINA Trąbczyn / 2040 Morgen. / Wirte 250 Wirte. First written as 'deren Schulze das Heft mit seinem Stempel versah': overstated, weakened"}
+- {claim: "vom Gut Trąbczyn erhielt sie um 1880, mit Fragezeichen, Servitute, die beim Notar dem alten Land zugeschrieben wurden und hoch besteuert sind", verdict: supported, where: "p. 11: Servitut bekommen vom Gute Trombczyn um 1880? ... Die Servitute wurden zum alten Land beim Rejenten zugeschrieben, müssen auch davon hohe Steuern zahlen."}
+- {claim: "Breyer fragt, wann das Restgut Trąbczyn parzelliert wurde, das Jesse kaufte und das heute Włodzimierow heißt", verdict: supported, where: "p. 26: Wann parzelliert Restgut Trąbczyn? Jesse gekauft, wann? Heisst heute Włodzimierow. Also p. 7: Restgut Trąbczyn. Jesse gekauft, wann?"}
+- {claim: "Lehrer in Łazińsk: Mielke seit 1925, Klingbeil 9 Jahre, Ed. Zelmer 34 Jahre, Radke 10 Jahre, Rasch 50 Jahre", verdict: supported, where: "p. 17: Lehrer i. Łazinsk: Mielke seit 1925. Klingbeil war 9 Jahre. Zelmer Ed. war 34 Jahre. ... Radke 10 Jahre / Rasch 50 Jahre"}
+- {claim: "Rasch, der noch mit 80 Jahren unterrichtete", verdict: supported, where: "p. 18: Rasch war noch mit 80 Jahren Lehrer, hier in Łazinsk gestorben."}
+- {claim: "am ersten Unterrichtstag waren 186 Kinder in der Schule", verdict: supported, where: "p. 17: Im ersten Unterrichtstag waren i. d. Schule 186 Kinder."}
+- {claim: "und zehn Jahre lang hatte ein Lehrer 170 Schüler", verdict: supported, where: "p. 15: 10 Jahre hindurch 170 Schüler bei einem Lehrer. First written as 'in der Schule' of Łazińsk: the note does not name the school; weakened"}
+- {claim: "die Militärbehörden klagten beim Unterrichtsministerium, die Rekruten der Gemeinde Trąbczyn könnten nicht Polnisch", verdict: supported, where: "p. 15: Militärbehörden beklagten sich im Unter.-Min., dass die Rekruten d. Gem. Trąbczyn nicht polnisch können."}
+- {claim: "viele sind nach Wolhynien ausgewandert, aus Łazinsk auch nach Russland und zurück, andere nach Amerika und Brasilien", verdict: supported, where: "p. 7: Nach Wolhynien sind viele ausgewand.; p. 16: Aus Łazinsk sind nach Russland gegangen kamen auch zurück.; p. 29: Nach Amerika viel gezogen; p. 26: Eine Tante d. Krügers ... nach Brasilien"}
+- {claim: "Emilienheim wurde an Drzewce angeschlossen, weil 11 Personen zur Zahl 200 fehlten", verdict: supported, where: "p. 20: Emilienheim angeschlossen an Drzewce, weil 11 Person fehlten zur Zahl 200."}
+- {claim: "Heiratskreise, Gesangbücher aus Breslau und Züllichau", verdict: supported, where: "pp. 3-4: verschwägert ... heiraten aus Orlin; p. 7: Meist Breslauer Gesangbücher; p. 16: Breslauer u. Züllichauer"}
+- {claim: "Flurnamen, Redensarten der Brücher (ick war do)", verdict: supported, where: "p. 8: Flurnamen; p. 22: Flurnamen 1) Bronikel ...; p. 27: ick war do = Brücher."}
+- {claim: "Häuser, Scheunen und hölzerne Grabbretter", verdict: supported, where: "p. 5: Pommersche Scheunen ... Häuser aus Lehm; p. 25: ähnliche hölzerne Grabbretter wie in Łazinsk"}
+- {claim: "die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift Juli 1935 und nennt Gostynin, Leonberg und Grabie", verdict: supported, where: "pp. 30-33: exposures, aperture (Bl.), filter, times; p. 33: Juli 1935 ... Gostynin, Kirche ... Leonberg, Schule ... Grabie, Landwirt."}

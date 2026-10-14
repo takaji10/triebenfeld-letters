@@ -1,0 +1,135 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,10,run,review,short_line,0.58,7,12,Bahnhof,Töpferecke:
+1,16,run,review,short_line,0.67,8,12,nach [?],Neu-[Schl…?]
+1,18,run,review,short_line,0.58,7,12,[?] [?],"[Wal…?], [?]"
+1,19,break,high,rubric,1.0,12,12,"[Wal…?], [?]",d. Wald
+1,24,break,high,short_line,0.68,13,19,[Lodz.?] Sem.,ist seit 5 Jahren.
+1,27,break,high,short_line,0.37,7,19,Kantor.,(die Akten bei ihm)
+1,30,run,review,short_line,0.42,8,19,P. Gross,Konin u. Słupca
+1,32,run,review,short_line,0.58,11,19,mit Zagórow,wenig verschwägert —
+1,40,break,high,short_line,0.59,11,18,Posenschen.,Aus Smaszew Gem.
+1,48,run,review,short_line,0.16,3,18,—o—,Wrąbczynek. Kolonia
+1,58,break,high,short_line+column,0.16,3,19,—o—,Michalinow
+1,59,run,review,short_line,0.53,10,19,Michalinow,Pommersche Scheunen in
+1,63,break,high,short_line+column,0.58,11,19,Holzbindung,Lehm
+1,64,run,review,short_line,0.21,4,19,Lehm,die pommersche Scheune
+1,69,break,high,short_line,0.61,11,18,Michalinow.,Land: 1) Baustücke
+1,71,break,high,rubric+short_line,0.44,8,18,2 Morgen,2) Kaveln 4 Morgen
+1,72,break,high,rubric,1.0,18,18,2) Kaveln 4 Morgen,3) 4 Morgenstücke magdeb.
+1,73,break,high,rubric,1.39,25,18,3) 4 Morgenstücke magdeb.,4) Wiesen b. Oleśnica
+1,74,break,high,rubric,1.17,21,18,4) Wiesen b. Oleśnica,"1, 2, 3 Morgen"
+1,76,break,high,rubric,1.17,21,18,4a) Wiesen b. Olchowo,"1, 2, 3 Morg."
+1,79,break,high,short_line,0.39,7,18,1 M. W.,1 Morg. Wiese für [Müller?]
+1,83,run,review,short_line,0.18,3,17,—o—,Meist Breslauer Gesang¬
+1,85,run,review,short_line,0.53,9,17,bücher. —,Nach Wolhynien
+1,89,run,review,short_line,0.18,3,17,—o—,Wohnhäuser in [?] Fachwerk
+1,96,run,review,short_line,0.48,6,12,Mielke,in Łazinsk.
+1,100,run,review,short_line,0.24,3,12,—o—,"„Die [Kavelung?]"""
+1,107,break,high,short_line+column,0.68,14,20,"„[Bärwinkel?]""","„Morast"". —"
+1,108,break,high,short_line+column,0.54,11,20,"„Morast"". —",—o—
+1,109,run,review,short_line,0.15,3,20,—o—,Alter Krüger (86 J.)
+1,119,run,review,short_line,0.49,10,20,Querbalken,In Emilienheim sprechen nicht
+1,125,run,review,short_line,0.38,6,16,SOŁTYS,GMINA Trąbczyn
+1,131,break,high,rubric,1.38,22,16,ein Restgut aufgeteilt,II. Kategorie
+1,137,break,high,short_line,0.52,12,23,mitgenommen.,z. B. bei Schröter Ludwig
+1,140,run,review,short_line,0.7,16,23,"niemand gedenkt,",wann dieser gelebt hat.
+1,142,run,review,short_line,0.13,3,23,—o—,Servitut bekommen vom
+1,145,run,review,short_line,0.7,16,23,Grünwald um 1904,Die Servitute wurden zum
+1,150,run,review,short_line,0.13,3,23,—o—,Die 60 Wirte sind i. d. Zeit
+1,156,break,high,short_line,0.68,17,25,für den Hofreite.,In Emilienheim heisst
+1,158,break,high,short_line,0.52,13,25,es Baustelle.,"Jeder hat um Hause seine Hütung,"
+1,161,break,high,short_line,0.48,12,25,nur besitzt.,Der grösste bis zum kleinsten
+1,164,run,review,short_line,0.12,3,25,—o—,Torf auf d. Wiesen d. Lehrers
+1,168,break,high,short_line,0.28,7,25,Bedarf.,Die Birkenrinde findet
+1,172,break,high,short_line,0.61,10,16,mannshoch.,—o—
+1,173,run,review,short_line,0.18,3,16,—o—,Der Graben geht bis Peisern
+1,178,run,review,short_line,0.67,11,16,"„Bärwinkel""","„Neues Holland"""
+1,187,run,review,short_line,0.21,4,19,aus),1929 [Lieder?].
+1,193,break,high,rubric,1.0,19,19,geb. 17. [IV?] 1832,31. I. 1864 [gestor…?]
+1,197,run,review,short_line,0.44,11,25,zwei Mal im,Seminar aufgenommen.
+1,201,run,review,short_line,0.12,3,25,—o—,10 Jahre hindurch 170 Schüler
+1,203,break,high,short_line,0.68,17,25,bei einem Lehrer.,Seit 2 Jahren eine Hilfs¬
+1,217,run,review,short_line,0.17,3,18,—o—,Neu Holland hinter
+1,218,break,high,rubric,1.0,18,18,Neu Holland hinter,d. Hütte.
+1,220,run,review,short_line,0.17,3,18,—o—,Die Schwiegermutter des
+1,226,break,high,short_line+column,0.13,3,23,—o—,Mielke
+1,227,run,review,short_line,0.26,6,23,Mielke,"Der alte Ludw. Klingbeil,"
+1,239,break,high,short_line+column,0.48,11,23,aus Łazinsk,Radke 10 Jahre
+1,240,break,high,short_line+column,0.61,14,23,Radke 10 Jahre,Rasch 50 Jahre
+1,241,run,review,short_line,0.61,14,23,Rasch 50 Jahre,ein anderer hat für ihn die
+1,248,run,review,short_line,0.14,3,22,—o—,Mutter schwer krank. Es
+1,257,run,review,short_line,0.41,9,22,leicht. —,Die Oborer: Hockerling.
+1,261,run,review,short_line,0.18,3,17,—o—,Auf d. Mädchen
+1,264,break,high,short_line,0.41,7,17,in [?].,heiratstüchtige
+1,268,break,high,short_line,0.71,12,17,Hockerlinge.,In Orlin u. Białoblot:
+1,272,break,high,short_line,0.71,17,24,Michalinow Olesn.,Kühe ziehen Erntewagen
+1,287,break,high,short_line+column,0.52,13,25,Nach Russland,Budendorfs
+1,288,run,review,short_line,0.4,10,25,Budendorfs,ist des Vaters Schwester
+1,294,run,review,short_line,0.68,17,25,sich aufgebaut. —,"Was [Halwege?] war, ging"
+1,300,break,high,short_line,0.2,5,25,heim.,2 St. Religion i. d. Woche
+1,305,break,high,rubric+short_line,0.67,9,14,Flurnamen,1) Bronikel
+1,306,break,high,rubric,0.81,11,14,1) Bronikel,2) Steinbruch
+1,307,break,high,rubric,0.96,13,14,2) Steinbruch,3) Grüne [Kaveln?]
+1,308,break,high,rubric,1.33,18,14,3) Grüne [Kaveln?],4) Gänseblotte
+1,309,break,high,rubric,1.04,14,14,4) Gänseblotte,5) [?]
+1,310,break,high,rubric,0.44,6,14,5) [?],6) [Gr…berge?].
+1,311,break,high,rubric,1.11,15,14,6) [Gr…berge?].,7) Grosse Blotte
+1,312,break,high,rubric,1.19,16,14,7) Grosse Blotte,8) Baustellen.
+1,318,run,review,short_line,0.13,3,23,—o—,Bruch ist hinter Oleśnica
+1,325,run,review,short_line,0.13,3,23,—o—,"Myśliborer Holl., Węglewer"
+1,327,break,high,short_line+column,0.61,14,23,[?] Holl. Kein,Bruch.
+1,332,break,high,short_line,0.23,5,22,kurz.,„In der Tür eine Leinwand¬
+1,335,run,review,short_line,0.14,3,22,—o—,Die Häuser Ständer mit
+1,338,break,high,short_line,0.41,9,22,ter kalt.,—o—
+1,339,run,review,short_line,0.14,3,22,—o—,"[Schabeln?] geraten nicht, schlechtes"
+1,341,break,high,short_line,0.23,5,22,Land.,"„alle essen gern Mohnklösse"""
+1,343,run,review,short_line,0.14,3,22,—o—,Bei Schultz i. d. Küche sauber.
+1,345,run,review,short_line,0.14,3,22,—o—,Deutsche Dienstboten bei Schultz.
+1,353,break,high,short_line,0.56,14,25,gen sich mehr.,—o—
+1,354,run,review,short_line,0.12,3,25,—o—,Auf d. Friedhof i. Emilienheim
+1,357,run,review,short_line,0.56,14,25,wie in Łazinsk,auch die neuen Zement¬
+1,360,run,review,short_line,0.44,11,25,gleich. —o—,"„Kopitzen"": Garbenhaufen"
+1,371,run,review,short_line,0.34,9,26,Kriege. —,Eine Tante d. Krügers vor mehr 40 Jahren
+1,383,run,review,short_line,0.17,3,18,—o—,"„ick war do"" = Brücher."
+1,385,run,review,short_line,0.57,10,18,ich war da,er hud = er hatte
+1,387,break,high,short_line+column,0.17,3,18,—o—,alte Schultz
+1,388,run,review,short_line,0.69,12,18,alte Schultz,In jedem Holland ein ande¬
+1,395,break,high,short_line+column,0.42,10,24,aus Tomice,1889 — [1928?]
+1,396,run,review,short_line,0.58,14,24,1889 — [1928?],immer 80–90 auch 100 Kind.
+1,398,break,high,short_line,0.67,16,24,Kantor bis 1934.,Neumann L. 18[?]9 – 1849
+1,400,run,review,short_line,0.67,16,24,Pflegel. 1849. —,Schulchronik geschrieben
+1,401,break,high,rubric,1.0,24,24,Schulchronik geschrieben,v. Schultz.
+1,404,run,review,short_line,0.38,9,24,nieużytek,(Matura gemacht das schwerste i. Leben)
+1,407,break,high,short_line,0.29,7,24,bücher.,(als Kind immer Pastor werden. —)
+1,421,break,high,short_line,0.64,16,25,dort hingezogen.,Nach Amerika viel ge¬
+1,427,break,high,short_line,0.28,7,25,Farmer.,Das Gut Drzewce parzelliert
+1,433,break,high,short_line+column,0.44,7,16,Łazinsk,Emilienheim
+1,434,break,high,short_line+column,0.69,11,16,Emilienheim,Łazinsk
+1,435,break,high,short_line+column,0.44,7,16,Łazinsk,Sonne
+1,436,run,review,short_line,0.31,5,16,Sonne,N 4 Haus 12 1/25
+1,438,run,review,short_line,0.5,8,16,"Ohne 6,3",1 Uhr 8 Mann 1/25 B. 6
+1,439,break,high,rubric,1.38,22,16,1 Uhr 8 Mann 1/25 B. 6,7. Haus 1/10 Bl. 9
+1,453,break,high,short_line,0.69,11,16,Michalinow!,—o—
+1,454,run,review,short_line,0.19,3,16,—o—,"Haus 11 Uhr,"
+1,457,break,high,short_line,0.25,4,16,Fam.,[Film?] ohne
+1,459,break,high,short_line,0.31,5,16,Morg.,"Emilienheim N 1, Bethaus"
+1,460,break,high,rubric,1.5,24,16,"Emilienheim N 1, Bethaus","7. 1933 12 Uhr, Gf"
+1,471,run,review,short_line,0.2,5,25,Sonne,"N 8 Schule Lehr. Bl. 12. Gf. 1/5 "" 12½ Uhr"
+1,473,run,review,short_line,0.16,4,25,Sonn,"5 [Kistler?] Bl. 18 Ohne 1/15 """
+1,476,run,review,short_line,0.2,5,25,Sonne,N 1 Neue [W…?]. Bl. 12 Ohne 1/10 5!
+1,477,break,high,rubric,1.4,35,25,N 1 Neue [W…?]. Bl. 12 Ohne 1/10 5!,2. [?] Bl. Ohne 1/5 5
+1,482,break,high,rubric,1.0,25,25,"Mann Bl. 6,3 "" 1/10 6 Uhr",8. [Kazm.?] 11 Uhr. Gf B. 9. 1/5
+1,485,break,high,short_line,0.42,10,24,Juli 1935.,9 Uhr Haus Radatz i. Schatten
+1,487,run,review,short_line,0.5,12,24,mit 7 Gänsen,Bl. 9. Ohne 1/25 Sek.
+1,492,break,high,rubric,1.0,24,24,Bl. 12. Selbf. 1/10 Sek.,g. d. Sonne.
+1,496,run,review,short_line,0.21,5,24,Sonne,"Gostynin, Kirche, 11 Uhr. Gf. Bl. 6 1/5"
+1,498,break,high,short_line,0.58,14,24,viel Vordergr.,"Leonberg, Schule, 10 Uhr, Ohne Bl. 25 1/10"
+1,503,run,review,short_line,0.25,6,24,Montag,N 9 Wirtsch. 7 Uhr Bl. 9 1/2 Sek Oh.
+1,508,break,high,short_line,0.37,9,24,Landgüte:,Białobł.
+1,509,break,high,short_line,0.33,8,24,Białobł.,Leit = Leine
+1,510,run,review,short_line,0.49,12,24,Leit = Leine,übergreigeln = überfahren
+1,512,run,review,short_line,0.24,6,24,Müller,Vor 54 Jahren aus [Sm…?]
+1,517,run,review,short_line,0.69,17,24,und heirateten. —,"Neu Czarkow, Briesen, [Paprot…?]"
+1,519,run,review,short_line,0.49,12,24,auch Brücher,Psary verkopp. im J. 1868
+1,531,run,review,short_line,0.51,11,22,[?] [?] [?],den [Rutkowski?] nach [Wars…?]
+1,534,break,high,short_line,0.19,4,22,[?].,[?] das Pflaster [?] [?]

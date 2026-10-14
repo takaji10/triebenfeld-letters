@@ -172,6 +172,9 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'pen_marks': ('Pen marks on the summons', 'Where the court messenger changed the printed list, or wrote '
                       'by hand, on this copy of the summons of 1860. Each row has a picture of the place on the scan; '
                       'the first button is what the text has now. Pick what the page shows.'),
+        'readings': ('Readings in Breyer\'s notebook', 'The readings in the notebook of 1936 that a name, a date or a '
+                     'number rests on, each with a picture of its place on the page. The first button is what the text '
+                     'has now; a word followed by [?] is read with doubt. Pick what the page shows.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

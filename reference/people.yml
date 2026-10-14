@@ -538,6 +538,9 @@ people:
   neumann:
     display: "Neumann"
     match: "Neumann"
+    # Breyer's notebook of 1936 names a teacher Neumann of Łazińsk and an
+    # Agnes Schütz née Neumann (APP 53/968/0/-/669): not this Neumann.
+    not_in: [app539680669-1]
     tier: ""
     variants: []
   niedzwiecki:
@@ -1346,6 +1349,8 @@ people:
   schulze:
     display: "Geheimer Finanzrat Schulze"
     match: 'Schulze(?![a-zà-ÿ])|Schulzische\w*'
+    # "Der Schulze i. Drzewce" in Breyer's notebook of 1936 is a village mayor.
+    not_in: [app539680669-1]
     tier: "Context-inferred"
     variants: []
     identity: "Geheimer Finanz Rath Schulze, Berlin, in the Krotoszyn exchange (9454 letters 79-81). Kept apart from the Schulz of Strelitz and from Wilhelm Daniel Schulz (editor 2026-09-28)."

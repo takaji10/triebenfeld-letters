@@ -245,6 +245,15 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
+- **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
+  2026-10-14): read from the scans by Claude, not yet checked by the
+  editor; 88 marks of doubt, many on the two faint inside covers. Open: the
+  readings on the spot sheet "Readings in Breyer's notebook"; whether the
+  photograph log headed "Juli 1935" was written a year before the notes;
+  whether "Łazinsk" of 1936 is both Łazińskie colonies; its era (placed
+  with the Hohenlohe-Ingelfingen years, which makes that era run to 1936
+  on the site).
+
 - **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
   2026-10-13): read from the scans by Claude and checked line by line by
   the editor on 2026-10-14 (69 names corrected, no figure changed); 13
