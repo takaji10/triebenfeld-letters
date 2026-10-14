@@ -190,9 +190,10 @@ so check them.
   holdings (a `unit` column), ask for a decision (a `summary` column) and
   show a picture of a line (an `image` column). `docs/WORKING_NOTES.md`,
   "Working with the editor".
-- Glossary live: 108 entries, 98 words ruled out. 55 checked: the
+- Glossary live: 111 entries, 125 words ruled out (2026-10-14; Matura added
+  at the editor's word). 55 checked: the
   patrimonial court (the editor's Szukaj w Archiwach source) and 54 read
-  against Krünitz, Adelung, Grimm and Gloger. The other 53 wait on works not
+  against Krünitz, Adelung, Grimm and Gloger. The other 56 wait on works not
   online here, or have no entry in those that are (NEEDS_CONFIRMATION).
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.

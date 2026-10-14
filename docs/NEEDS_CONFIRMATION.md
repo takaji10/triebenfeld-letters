@@ -398,11 +398,11 @@ Fixes to the English that survive a re-publish go in
 
 ## Glossary
 
-108 entries (`reference/glossary.yml`), on the site since 2026-10-02.
+111 entries (`reference/glossary.yml`), on the site since 2026-10-02.
 Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
-- **53 definitions are still drafts** (`checked: false`; the page marks
-  them). 55 are checked: the patrimonial court, and 54 read on 2026-10-02
+- **56 definitions are still drafts** (`checked: false`; the page marks
+  them). The newest, Matura (2026-10-14), waits on the Encyklopedia PWN. 55 are checked: the patrimonial court, and 54 read on 2026-10-02
   against Krünitz, Adelung, Grimm and Gloger (changelog, "The glossary
   checked against the reference works"), live since then. What the rest wait
   on:

@@ -1882,6 +1882,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
+## Glossary: Matura (2026-10-14)
+
+- A glossary entry for the Matura, the school-leaving examination, at the editor's word, in English and German; it marks the word in Breyer's first notebook (page 28). To be checked against the Encyklopedia PWN. Published.
+
 ## APP 53/968/0/-/669: the editor's corrections to the first notebook (2026-10-14)
 
 - The editor read the English of Breyer's first notebook against the scans: Grodziec and Ciswica for Smaszew and Czarnica, Grądzeń, Moraß, Ed[uard] Zelmer, Chruściki, Kinder and Birke in the photo log, and others; the order of some lines; the German of the sayings kept beside the English; the inside back cover read again with the editor and completed (`units/app539680669/intake/editor_corrections.py`).
