@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Geschichte
-standfirst: Drei Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen. Eine Epoche ist veröffentlicht, eine zweite hat ihre ersten Dokumente; die dritte steht hier, damit sichtbar ist, was fehlt.
+standfirst: Dreieinhalb Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen, Epoche für Epoche. Manche Epochen sind ganz veröffentlicht, manche haben ihre ersten Dokumente, und eine steht hier, damit sichtbar ist, was fehlt.
 permalink: /de/die-geschichte/
 lang: de
 alt_url: /the-story/
@@ -13,9 +13,11 @@ diesem Teil Europas durch Urkunden den Besitzer wechselte: eine Grenze war eine 
 Erdhügeln, gerichtlich bezeugt, eine Ansiedlung ein Privileg mit einem Siegel, und wer
 seine Papiere nicht vorlegen konnte, besaß wenig.
 
-Dieses Archiv entsteht Epoche für Epoche. Bisher ist die mittlere veröffentlicht. Die
-erste hat nun ihre ersten Dokumente. Die letzte liegt in Archiven in Warschau und Berlin;
-sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch fehlt.
+Dieses Archiv entsteht Epoche für Epoche. Am vollständigsten veröffentlicht sind die Jahre
+Hohenlohe-Ingelfingens. Der Grenzstreit davor hat seine Dokumente, und die beiden Epochen nach
+Michalina Miączyńska haben ihre ersten. Ihre eigene Epoche liegt in Archiven in Warschau und
+Berlin; sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch
+fehlt.
 
 ---
 
@@ -92,3 +94,29 @@ Schenkung hinweg auf den Titel ihres Vaters zurück; die Akten dieser Epoche str
 
 Die Unterlagen liegen im Hauptarchiv Alter Akten in Warschau und im Geheimen Staatsarchiv
 in Berlin.
+
+---
+
+## Das Gut unter Włodzimierz Miączyński
+
+**Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut nach ihr führte.
+[1 Dokument, 1860]({{ '/de/quellen/app539680783/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+
+Die Kolonisten des Gutes Trąbczyn, in den beiden Olęderkolonien, die damals Staro-Łazińska und
+Nowo-Łazińska hießen, verklagten den Grafen 1859 wegen ihrer Weide- und Holzrechte in seinem
+Wald. Er antwortete mit einer Widerklage gegen 97 von ihnen und machte geltend, der Vertrag, den
+der Fürst zu Hohenlohe-Ingelfingen 1805 mit vierzehn Kolonisten geschlossen hatte, binde ihn
+nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }})).
+
+---
+
+## Das zwanzigste Jahrhundert
+
+**Der Gutshof parzelliert; die deutschen Siedlungen der Gemeinde Trąbczyn.
+[1 Dokument, 1936]({{ '/de/quellen/app539680669/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+
+In den 1930er Jahren war der Gutshof parzelliert, und sein Restgut, das ein Mann namens Jesse
+gekauft hatte, hieß Włodzimierow. Der Historiker Albert Breyer ging im Juli 1936 nach Łazińsk
+und Emilienheim und schrieb auf, was ihm die Siedler erzählten: über ihr Land und ihre Schulen,
+wer nach Wolhynien, Russland, Amerika oder Brasilien gegangen war, wie sie sprachen und wie sie
+ihre Gräber kennzeichneten ([sein Notizheft]({{ '/documents/app539680669/1/' | relative_url }})).

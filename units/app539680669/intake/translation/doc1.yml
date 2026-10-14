@@ -229,8 +229,8 @@ pages:
   flagged: []
 - page: 9
   confidence: high
-  marker_count: 3
-  en: '"[uncertain: Bärwinkel]"
+  marker_count: 2
+  en: '"Bärwinkel"
 
     "Morast" (bog). —
 
@@ -248,7 +248,7 @@ pages:
 
     Krüger has also made over 4 Morgen of land
 
-    to his daughter, to [uncertain: Wagels].
+    to his daughter, to [uncertain: Wagelt].
 
     At the corners the barns are
 
@@ -400,7 +400,7 @@ pages:
   flagged: []
 - page: 14
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: 'Old [uncertain: pine stumps] are still
 
     found. (dug
@@ -417,7 +417,7 @@ pages:
 
     In Neustädtl in Silesia,
 
-    born 17 [uncertain: April] 1832
+    born 17 April 1832
 
     31 January 1864 [uncertain: died…]'
   names: []
@@ -621,7 +621,7 @@ pages:
   flagged: []
 - page: 21
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: 'To Russia
 
     The Budendorfs
@@ -638,7 +638,7 @@ pages:
 
     built himself up. —
 
-    Those who were [uncertain: halfway well off] went
+    Those who were halfway well off went
 
     to Germany. The Budendorfs
 
@@ -682,7 +682,7 @@ pages:
 - page: 23
   confidence: high
   marker_count: 4
-  en: 'A [uncertain: Gullat], [uncertain: Hossmann]
+  en: 'A [uncertain: Gullat], [uncertain: Hormann]
 
     to Russia. Budendorf
 
@@ -854,7 +854,7 @@ pages:
   flagged: []
 - page: 28
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: 'Old Schultz''s father came
 
     from Tomice
@@ -865,7 +865,7 @@ pages:
 
     Cantor until 1934.
 
-    Neumann L. 18[illegible]9 – 1849
+    Neumann L. 1889 – 1849
 
     Pflegel. 1849. —
 
@@ -893,10 +893,10 @@ pages:
   flagged: []
 - page: 29
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: 'The school community includes:
 
-    Augustynow, [uncertain: Wlodziemen]
+    Augustynow, Włodzimierow
 
     Michalinow, also Drzewce.
 

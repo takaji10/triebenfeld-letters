@@ -82,16 +82,24 @@ These are on the page of changes (`review/changes/index.html`) or need a
 look at page 1. None is built on.
 
 1. **No. 58, the margin.** "Marcina" and a surname: Hetke, Hecke or Heck.
-   Given as "[Hetke?]". Under it is the summoner's paraph, not a third
-   word.
+   Given as "[Hetke?]"; **the editor read "Heck"** (spot sheet,
+   2026-10-14). Under it is the summoner's paraph, not a third word.
 2. **No. 7, "Jana Fryderyka Rasch".** The printed second name is covered by
    pen strokes. Struck out, or written over with another name? Left as the
    editor read it.
 3. **No. 55, "Henryka Celmer".** The first letter is written over in pen
    and looks like a Z. Left "Celmer". The English has Zelmer either way.
 4. **No. 70, "Krystjana Grünwald".** The "ja" is written over in pen.
+   **The editor read Krystof** (2026-10-14): the line is now "Krystofa
+   Grünwald", the printed ending "a" kept, the accusative of the list.
 5. **Nos. 53 and 54** have a pen "c" over a printed letter: "Rogackiego" in
    both. The editor had "Bogackiego" for 53; the print's first letter is R.
+
+**The editor's answers on the spot sheet "Pen marks on the summons"**
+(2026-10-14): no. 58 is Marcina Heck; no. 70 Krystofa Grünwald; the costs
+47 roubles 21 kopecks; nos. 7, 53, 54 and 55 stand as they were. Applied by
+`intake/spot_answers.py` (a record, not to be run again) and logged in
+`transcription_decisions.csv`.
 
 ## The English
 
@@ -151,9 +159,10 @@ reasons are in the docstring and the main differences in
 
 ## Era
 
-Placed in `hohenlohe` for now, like the other holdings of 1807 and later;
-by `reference/eras.yml` it belongs to `restitution`, which is still empty.
-The editor's ruling on that era is open for five holdings now.
+**The era after Michalina Miączyńska, when her son Włodzimierz ran the
+estate** (editor, 2026-10-14): era `wlodzimierz`, made that day under a
+working name, "The estate under Włodzimierz Miączyński"; the editor will
+name it.
 
 ## Still to do
 

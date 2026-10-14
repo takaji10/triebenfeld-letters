@@ -5,7 +5,8 @@ German settlements of the commune of Trąbczyn: one document of 35 pages
 with its covers, in German. Added on 2026-10-14 at the editor's request:
 read from the scans in session (there was no transcription), translated,
 summarised in both languages and claim-checked, with its page. **Built and
-committed; not published. The editor has not yet checked the reading.**
+committed; not published.** The editor answered the spot sheet of ten
+readings (2026-10-14); the rest of the reading is unchecked.
 
 Everything about how the holding was made is in the docstring of
 `intake/holding.py`; the English is `intake/english.py`.
@@ -63,6 +64,16 @@ on port 4000. Rows and pictures are made by `intake/spot_sheet.py`; a copy
 of the rows is `intake/readings.csv`. The first button is what the text
 has now. Worth the editor's eye beyond the sheet: the inside covers.
 
+**The editor's answers** (2026-10-14, `readings_answers.json`), in TEXT
+and the English: Wagelt[?] (not Wagels), 17. IV 1832, Halwege, Hormann[?]
+(not Hossmann), Neumann L. 1889 – 1849 (as the editor reads it; the years
+run backwards as written), Włodzimierow (the editor's reading of what was
+read Wlodziemen), Bärwinkel. Gullat[?], 1928[?] and Wolwachówka[?] stand.
+Three of the ten came out different from the first reading: the readings
+still marked deserve the same look. 83 marks remain: 29 on the two inside
+covers, 12 on the Kurrent page 8, 7 in the photograph log, 35 in the
+rest.
+
 ## The English and the summary
 
 Written in session (`intake/english.py`, `S` in `holding.py`). The
@@ -92,16 +103,16 @@ The summary's 16 statements were checked against the reading
 
 ## Era
 
-Placed in `hohenlohe`, like the other Breyer papers, for want of a
-twentieth-century era. With it the era's span on the site runs to 1936.
-The editor's ruling on the eras after 1807 is open (NEEDS_CONFIRMATION).
+**The twentieth century of the estate** (editor, 2026-10-14): era
+`twentieth-century`, made that day in `reference/eras.yml` under a working
+name, "The twentieth century"; the editor will name it.
 
 ## Still to do
 
 1. **The editor's answers** on the spot sheet, and their look at the folds
    (`review/app539680669/folds/index.html`).
-2. **The editor's word** on the era, and whether "Łazinsk" of 1936 is both
-   colonies together.
+2. **The editor's word** on whether "Łazinsk" of 1936 is both colonies
+   together, and the era's name.
 3. **Publishing**, at the editor's word.
 4. Not done: a timeline entry or a sentence in the era essay (the notebook
    bears on the settlers, not on the owners of the estate); the other three

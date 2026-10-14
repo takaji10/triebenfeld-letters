@@ -29,11 +29,10 @@ status: translated         # draft | transcribed | translated | published
 # The English was written in session on 2026-10-14 into the untagged cache.
 published_tag: ""
 
-# Which era this holding belongs to - reference/eras.yml. None of the eras
-# is about the twentieth century; it stands with the other papers of Albert
-# Breyer (53/968/0/-/783 and -/801) for now. The editor rules
-# (docs/NEEDS_CONFIRMATION.md).
-era: hohenlohe
+# Which era this holding belongs to - reference/eras.yml. The twentieth
+# century of the estate (editor, 2026-10-14; the era's name is a working
+# name).
+era: twentieth-century
 
 # Which archive holds it - reference/repositories.yml.
 repository: app-poznan

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The story
-standfirst: Three centuries of one estate in central Poland, told in the order the documents fall. One era is published and a second has its first documents; the third is named here so you can see what is missing.
+standfirst: Three and a half centuries of one estate in central Poland, told in the order the documents fall, era by era. Some eras are published in full, some have their first documents, and one is named here so you can see what is missing.
 permalink: /the-story/
 lang: en
 alt_url: /de/die-geschichte/
@@ -13,10 +13,11 @@ because land in this part of Europe changed hands by document: a boundary was a 
 earth mounds attested by a court, a tenancy was a privilege with a seal on it, and an
 owner who could not produce his papers did not own much.
 
-This archive is being built era by era. Each has its own account below. The middle one is
-the one published so far. The first now has its first documents. The last exists in the
-research and in archives in Warsaw and Berlin, and is named here rather than left out, so
-that what is absent is at least visible.
+This archive is being built era by era. Each has its own account below. The Hohenlohe-Ingelfingen
+years are the most fully published. The boundary dispute before them has its documents, and the
+two eras after Michalina Miączyńska have their first. Her own era exists in the research and in
+archives in Warsaw and Berlin, and is named here rather than left out, so that what is absent is
+at least visible.
 
 ---
 
@@ -84,3 +85,29 @@ the documents of this era argue about the same boundaries as the first.
 
 The records are at the Central Archives of Historical Records in Warsaw and the Secret State
 Archives in Berlin.
+
+---
+
+## The estate under Włodzimierz Miączyński
+
+**Count Włodzimierz Miączyński, Michalina's son, who ran the estate after her.
+[1 document, 1860]({{ '/sources/app539680783/' | relative_url }}).** The name of this era is a working name.
+
+The colonists on the Trąbczyn estate, in the two Olęder colonies then called Staro-Łazińska
+and Nowo-Łazińska, sued the Count in 1859 over their rights of pasture and wood in his forest.
+He answered with a counterclaim against 97 of them, arguing that the contract the Prince of
+Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
+([the summons of 1860]({{ '/documents/app539680783/1/' | relative_url }})).
+
+---
+
+## The twentieth century
+
+**The manor parcelled out; the German settlements of the commune of Trąbczyn.
+[1 document, 1936]({{ '/sources/app539680669/' | relative_url }}).** The name of this era is a working name.
+
+By the 1930s the manor had been parcelled out, and its remaining land, bought by a man named
+Jesse, was called Włodzimierow. The historian Albert Breyer went to Łazińsk and Emilienheim in
+July 1936 and wrote down what the settlers told him: about their land and their schools, who had
+gone to Volhynia, Russia, America or Brazil, how they spoke, and how they marked their graves
+([his notebook]({{ '/documents/app539680669/1/' | relative_url }})).

@@ -105,7 +105,7 @@ Farms: "[uncertain: Gehege]"
 "Die [uncertain: Kroge]"
 ([illegible] foot)
 "Trieb" [illegible] "[uncertain: Gehege]" [illegible] in [illegible]""",
- '0005_a2': """"[uncertain: Bärwinkel]"
+ '0005_a2': """"Bärwinkel"
 "Morast" (bog). —
 —o—
 Old Krüger (86 years old)
@@ -114,7 +114,7 @@ his teacher Neumann
 The Kosiniery did no damage
 in the village
 Krüger has also made over 4 Morgen of land
-to his daughter, to [uncertain: Wagels].
+to his daughter, to [uncertain: Wagelt].
 At the corners the barns are
 braced with narrow
 cross-beams
@@ -186,7 +186,7 @@ in the Wrocław book.
 Cemetery: Józefow
 Agnes Schütz, née Neumann
 In Neustädtl in Silesia,
-born 17 [uncertain: April] 1832
+born 17 April 1832
 31 January 1864 [uncertain: died…]""",
  '0008_a2': """Peltzer (of the Kulturbund)
 twice
@@ -279,7 +279,7 @@ and 2 more from Michalinow.
 Father-in-law got two
 Morgen of sandy land and has
 built himself up. —
-Those who were [uncertain: halfway well off] went
+Those who were halfway well off went
 to Germany. The Budendorfs
 could only pay off the farm
 in this way.
@@ -296,7 +296,7 @@ Field names
 6) [uncertain: Gr…berge].
 7) Grosse Blotte (great mire)
 8) Baustellen (building plots).""",
- '0012_a2': """A [uncertain: Gullat], [uncertain: Hossmann]
+ '0012_a2': """A [uncertain: Gullat], [uncertain: Hormann]
 to Russia. Budendorf
 [uncertain: bought], 50 years ago.
 —o—
@@ -375,7 +375,7 @@ from Tomice
 1889 — [uncertain: 1928]
 always 80–90, even 100 children.
 Cantor until 1934.
-Neumann L. 18[illegible]9 – 1849
+Neumann L. 1889 – 1849
 Pflegel. 1849. —
 School chronicle written
 by Schultz.
@@ -388,7 +388,7 @@ books.
 A son of Schultz's a pastor in Germany.
 Post official, missionary, India, England, war, Denmark, Rostock.""",
  '0015_a2': """The school community includes:
-Augustynow, [uncertain: Wlodziemen]
+Augustynow, Włodzimierow
 Michalinow, also Drzewce.
 [uncertain: provisionally] about 1876
 To Volhynia emigrated

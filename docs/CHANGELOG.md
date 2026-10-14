@@ -1882,6 +1882,13 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
+## The editor's answers on both spot sheets; two new eras (2026-10-14; not published)
+
+- **APP 53/968/0/-/783**: no. 58 is Marcina Heck, no. 70 Krystofa Grünwald (the court messenger's pen over the printed "ja"), the note of costs 47 roubles 21 kopecks; the other pen alterations stand as printed. Text, English, process pages and the page of changes brought into line (`intake/spot_answers.py`).
+- **APP 53/968/0/-/669**: seven of ten doubtful readings settled by the editor, three differently from the first reading (Wagelt, Hormann, Neumann L. 1889); Włodzimierow in the list of the school community. 83 marks of doubt remain.
+- **Two new eras** at the editor's word, under working names until the editor names them: "The estate under Włodzimierz Miączyński" (`wlodzimierz`), the era after Michalina, with the summons of 1860; "The twentieth century" (`twentieth-century`), with Breyer's notebook. Each has its band on the timeline, which now runs to 1936, and its section on the story page, in both languages.
+- Figures: 808 marks of doubt.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

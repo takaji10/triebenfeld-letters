@@ -246,13 +246,16 @@ written until there is a witness or a better scan.
 ## Readings, the other holdings
 
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
-  2026-10-14): read from the scans by Claude, not yet checked by the
-  editor; 88 marks of doubt, many on the two faint inside covers. Open: the
-  readings on the spot sheet "Readings in Breyer's notebook"; whether the
-  photograph log headed "Juli 1935" was written a year before the notes;
-  whether "Łazinsk" of 1936 is both Łazińskie colonies; its era (placed
-  with the Hohenlohe-Ingelfingen years, which makes that era run to 1936
-  on the site).
+  2026-10-14): read from the scans by Claude; the editor read ten
+  doubtful readings on a spot sheet (2026-10-14) and settled seven. 83
+  marks of doubt remain, 29 of them on the two faint inside covers. Open:
+  whether the photograph log headed "Juli 1935" was written a year before
+  the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
+- **Two eras without names** (editor, 2026-10-14): the era after Michalina
+  Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
+  53/968/0/-/783), and the twentieth century of the estate
+  (`twentieth-century`, APP 53/968/0/-/669). Both carry working names in
+  `reference/eras.yml` until the editor names them.
 
 - **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
   2026-10-13): read from the scans by Claude and checked line by line by
@@ -262,14 +265,13 @@ written until there is a witness or a better scan.
   on no page); why the hearth rate is 3 zł 15 gr in two districts and 2 zł
   15 gr on leaves 18 to 20, and why the twelve figures that depart from it
   do (the editor confirmed they are read correctly).
-- **APP 53/968/0/-/783** (the summons of 1860, added 2026-10-13): the name
-  written in the margin for defendant 58, "Marcina [Hetke?]"; three printed
-  names written over in pen (nos. 7, 55, 70); the blotted figure in the
-  note of costs, "[47?]". Settled by the editor (2026-10-14): the Count
-  was Michalina's son; the two Łazińska colonies are the Olęder colonies
-  of the estate (earlier Trąbczyńskie Stare / Nowe Olędry), not the
-  village of Łazy. Its era is open like that of the other holdings after
-  1807.
+- **APP 53/968/0/-/783** (the summons of 1860, added 2026-10-13): settled
+  by the editor (2026-10-14): no. 58 is Marcina Heck, no. 70 Krystofa
+  Grünwald, the costs 47 roubles 21 kopecks, nos. 7, 53 to 55 as printed;
+  the Count was Michalina's son; the two Łazińska colonies are the Olęder
+  colonies of the estate (earlier Trąbczyńskie Stare / Nowe Olędry), not
+  the village of Łazy; its era is the one after Michalina, when
+  Włodzimierz ran the estate. Nothing of its reading is open.
 - **AGAD 1/169/0/1/1745** (the table of villages of about 1797): the
   editor checked every line against the scan on 2026-10-13 and no mark of
   doubt is left. Not confirmed by the pages themselves, and written as

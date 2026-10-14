@@ -92,3 +92,53 @@ eras:
       Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch
       die Regierungskommission des Herzogtums Warschau zurück. Die Akten liegen
       in Warschau und Berlin und sind hier noch nicht erfasst.
+
+  # The two eras below were set by the editor on 2026-10-14. Their names are
+  # WORKING NAMES: the editor has not named them yet. Change label_en and
+  # label_de when they do; the slugs can stay.
+  wlodzimierz:
+    order: 4
+    status: populated
+    label_en: "The estate under Włodzimierz Miączyński"
+    label_de: "Das Gut unter Włodzimierz Miączyński"
+    ownership_en: "Count Włodzimierz Miączyński, Michalina's son, who ran the
+      estate after her. Held it in 1860"
+    ownership_de: "Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut nach
+      ihr führte. Besaß es 1860"
+    blurb_en: >-
+      After Michalina Miączyńska her son Count Włodzimierz Miączyński ran the
+      Trąbczyn estate. The colonists on it sued him in 1859 over their rights
+      of pasture and wood in his forest, and he answered with a counterclaim
+      that went back to the privilege of 1746 and the contracts of
+      Hohenlohe-Ingelfingen's years. One document is here so far: the printed
+      summons of 1860.
+    blurb_de: >-
+      Nach Michalina Miączyńska führte ihr Sohn, Graf Włodzimierz Miączyński,
+      das Gut Trąbczyn. Die Kolonisten des Gutes verklagten ihn 1859 wegen
+      ihrer Weide- und Holzrechte in seinem Wald, und er antwortete mit einer
+      Widerklage, die auf das Privileg von 1746 und die Verträge aus den
+      Jahren Hohenlohe-Ingelfingens zurückging. Bisher liegt ein Dokument vor:
+      die gedruckte Vorladung von 1860.
+
+  twentieth-century:
+    order: 5
+    status: populated
+    label_en: "The twentieth century"
+    label_de: "Das zwanzigste Jahrhundert"
+    ownership_en: "The manor parcelled out; the German settlements of the
+      commune of Trąbczyn. 1900 onward"
+    ownership_de: "Der Gutshof parzelliert; die deutschen Siedlungen der Gemeinde
+      Trąbczyn. ab 1900"
+    blurb_en: >-
+      By the twentieth century the manor of Trąbczyn had been parcelled out,
+      and the German settlements on its former land, Łazińsk and Emilienheim
+      among them, were villages of the commune of Trąbczyn in the Polish
+      state. The historian Albert Breyer visited them in 1936 and wrote down
+      what the settlers remembered. One document is here so far: his
+      notebook.
+    blurb_de: >-
+      Im zwanzigsten Jahrhundert war der Gutshof Trąbczyn parzelliert, und die
+      deutschen Siedlungen auf seinem früheren Land, darunter Łazińsk und
+      Emilienheim, waren Dörfer der Gemeinde Trąbczyn im polnischen Staat. Der
+      Historiker Albert Breyer besuchte sie 1936 und schrieb auf, woran sich
+      die Siedler erinnerten. Bisher liegt ein Dokument vor: sein Notizheft.

@@ -10,7 +10,7 @@ The editor supplied a transcription of the Polish by paragraph. The print's "é"
 
 An AI model (Claude) read all five pages against the scans and corrected 34 readings. Most are single letters of the print. Four change a fact: a date of a law is 16/28 June 1830; a number of holdings is fourteen, where the transcription had eleven; a defendant is Paweł Rogacki, where it had Bogacki; and the line in which the court messenger names himself ends "residing in Kalisz". Five lines in his hand that the transcription did not have were added: his two signatures, a note of costs in two lines and the number of the service. His closing words under the note of service were added as well. Each change is logged with its reason.
 
-One name stays in doubt. The court messenger struck out the printed name of defendant 58 and wrote "Marcina" and a surname in the margin; the surname is given as "[Hetke?]". Three printed names are written over in pen in a way that could not be made out, and stand as the editor read them.
+The editor then read the court messenger's pen alterations on the scan, on a sheet that shows each beside a picture of it. The name he wrote in the margin for defendant 58, in place of the printed one he struck out, is Marcin Heck; he changed defendant 70 from Krystjan to Krystof Grünwald; and his note of costs is 47 roubles 21 kopecks. The other printed names he wrote over stand as printed.
 
 ### Division and dating
 

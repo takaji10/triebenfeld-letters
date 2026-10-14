@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""The spot sheet "Readings in Breyer's notebook" for the editor (2026-10-14).
+"""The spot sheet "Readings in Breyer's notebook" for the editor (2026-10-14). Answered the same
+day; the answers are in TEXT (holding.py docstring). The ROWS below are the questions as asked.
 
     python units/app539680669/intake/spot_sheet.py
     python pipeline/review/queries.py --unit app539680669 --sheet readings.csv

@@ -369,14 +369,13 @@ substance. Details: `units/app539680783/notes.md`.
       entries marked new for this holding): what the check changed in the
       Polish and in the English, for anything you have written from the
       old text.
-- [ ] **You: the spot sheet "Pen marks on the summons"** (six rows, each
-      with a picture of the place on the scan): the name in the margin for
-      no. 58 (read "Marcina [Hetke?]"), nos. 7, 55, 70, 53 and 54, and the
-      blotted figure in the note of costs on page 4. Served with
-      `python pipeline/review/queries.py --unit app539680783 --sheet
-      pen_marks.csv` (port 4101) and the built site on port 4000; the rows
-      are `review/app539680783/pen_marks.csv` (a copy in the holding's
-      `intake/`), the pictures in its `spot_img/`.
+- [x] You answered the spot sheet "Pen marks on the summons" (2026-10-14):
+      no. 58 is Marcina Heck, no. 70 Krystofa Grünwald, the costs 47; the
+      rest stands. Worked in the same day.
+- [x] Its era: the era after Michalina, when Włodzimierz ran the estate
+      (you, 2026-10-14). A new era, `wlodzimierz`, under the working name
+      "The estate under Włodzimierz Miączyński".
+- [ ] **You: a name for that era.**
 - [x] The folds: approved as proposed (2026-10-14).
 - [x] Count Włodzimierz Miączyński was Michalina's son (you, 2026-10-14):
       in his biography and on the holding's page.
@@ -411,15 +410,19 @@ archive's scans in the session, translated and summarised. Only the
 notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
 `units/app539680669/notes.md`.
 
-- [ ] **You: the spot sheet "Readings in Breyer's notebook"** (ten rows,
-      each with a picture): the names, dates and numbers read with doubt.
-      Served with `python pipeline/review/queries.py --unit app539680669
-      --sheet readings.csv` (port 4102) and the built site on port 4000.
+- [x] You answered the spot sheet "Readings in Breyer's notebook"
+      (2026-10-14): seven readings settled, three of them differently
+      from the first reading. Worked in the same day. 83 marks of doubt
+      remain.
+- [ ] **You: whether to look at the remaining readings** with doubt: 35 in
+      the body of the notebook, 12 on the Kurrent page of field names, 7
+      in the photograph log, 29 on the two faint inside covers.
 - [ ] **You: the folds** of the seventeen openings, if you want to place
       them (`review/app539680669/folds/index.html`).
-- [ ] **You: its era.** It stands with the Hohenlohe-Ingelfingen years for
-      now, like the other Breyer papers, and that era's span on the site
-      now runs to 1936.
+- [x] Its era: the twentieth century of the estate (you, 2026-10-14). A
+      new era, `twentieth-century`, under the working name "The twentieth
+      century".
+- [ ] **You: a name for that era.**
 - [ ] **You: whether "Łazinsk" of 1936** is the two Łazińskie colonies
       together, before it is linked to them.
 - [ ] Not begun: the other three notebooks of the unit (Grodziec 1938,

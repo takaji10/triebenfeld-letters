@@ -899,3 +899,15 @@ cloud branches").
   the page's lines misses on a page written only at the top. Space the
   lines at the pitch of the ruled lines, and look at every picture before
   serving the sheet.
+- **A new era needs four things beside its entry in `reference/eras.yml`**
+  (2026-10-14): a band in `site/_includes/timeline.html` at the first year
+  shown that has its documents, a `tl_era_note_<name>` in both languages
+  of `site/_data/i18n.yml`, the timeline's year range reaching that year
+  (the loop stopped at 1860 and the band of 1936 was silently missing),
+  and a section on the story page in both languages. Then the holdings'
+  `era:`. An era the editor has not named carries a working name, said to
+  be one on the story page.
+- **The editor's reading of doubtful words differs from Claude's often
+  enough to matter**: on the notebook's sheet three of ten (2026-10-14),
+  on Rep. 162 Nr. 295 one of five. A word left marked is not a word to
+  build on.

@@ -30025,7 +30025,7 @@
   "letter_id": "1",
   "doc_type": "summons",
   "language": "pl",
-  "era": "hohenlohe",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1860-10-19",
@@ -30063,7 +30063,7 @@
     "image": "APP_53_968_0_783_0007_a2-L1_05.jpg"
    }
   ],
-  "uncertainty_count": 2,
+  "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 9,
@@ -30086,7 +30086,7 @@
   "letter_id": "1",
   "doc_type": "note",
   "language": "de",
-  "era": "hohenlohe",
+  "era": "twentieth-century",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1936-07",
@@ -30274,7 +30274,7 @@
     "image": "APP_53_968_0_669_0018_a2-L1_35.jpg"
    }
   ],
-  "uncertainty_count": 88,
+  "uncertainty_count": 83,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,

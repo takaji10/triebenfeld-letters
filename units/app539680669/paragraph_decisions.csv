@@ -25,7 +25,7 @@
 1,89,run,review,short_line,0.18,3,17,—o—,Wohnhäuser in [?] Fachwerk
 1,96,run,review,short_line,0.48,6,12,Mielke,in Łazinsk.
 1,100,run,review,short_line,0.24,3,12,—o—,"„Die [Kavelung?]"""
-1,107,break,high,short_line+column,0.68,14,20,"„[Bärwinkel?]""","„Morast"". —"
+1,107,break,high,short_line+column,0.54,11,20,"„Bärwinkel""","„Morast"". —"
 1,108,break,high,short_line+column,0.54,11,20,"„Morast"". —",—o—
 1,109,run,review,short_line,0.15,3,20,—o—,Alter Krüger (86 J.)
 1,119,run,review,short_line,0.49,10,20,Querbalken,In Emilienheim sprechen nicht
@@ -44,8 +44,8 @@
 1,172,break,high,short_line,0.61,10,16,mannshoch.,—o—
 1,173,run,review,short_line,0.18,3,16,—o—,Der Graben geht bis Peisern
 1,178,run,review,short_line,0.67,11,16,"„Bärwinkel""","„Neues Holland"""
-1,187,run,review,short_line,0.21,4,19,aus),1929 [Lieder?].
-1,193,break,high,rubric,1.0,19,19,geb. 17. [IV?] 1832,31. I. 1864 [gestor…?]
+1,187,run,review,short_line,0.24,4,17,aus),1929 [Lieder?].
+1,193,break,high,rubric,0.94,16,17,geb. 17. IV 1832,31. I. 1864 [gestor…?]
 1,197,run,review,short_line,0.44,11,25,zwei Mal im,Seminar aufgenommen.
 1,201,run,review,short_line,0.12,3,25,—o—,10 Jahre hindurch 170 Schüler
 1,203,break,high,short_line,0.68,17,25,bei einem Lehrer.,Seit 2 Jahren eine Hilfs¬
@@ -65,7 +65,7 @@
 1,272,break,high,short_line,0.71,17,24,Michalinow Olesn.,Kühe ziehen Erntewagen
 1,287,break,high,short_line+column,0.52,13,25,Nach Russland,Budendorfs
 1,288,run,review,short_line,0.4,10,25,Budendorfs,ist des Vaters Schwester
-1,294,run,review,short_line,0.68,17,25,sich aufgebaut. —,"Was [Halwege?] war, ging"
+1,294,run,review,short_line,0.68,17,25,sich aufgebaut. —,"Was Halwege war, ging"
 1,300,break,high,short_line,0.2,5,25,heim.,2 St. Religion i. d. Woche
 1,305,break,high,rubric+short_line,0.67,9,14,Flurnamen,1) Bronikel
 1,306,break,high,rubric,0.81,11,14,1) Bronikel,2) Steinbruch
@@ -94,15 +94,15 @@
 1,385,run,review,short_line,0.57,10,18,ich war da,er hud = er hatte
 1,387,break,high,short_line+column,0.17,3,18,—o—,alte Schultz
 1,388,run,review,short_line,0.69,12,18,alte Schultz,In jedem Holland ein ande¬
-1,395,break,high,short_line+column,0.42,10,24,aus Tomice,1889 — [1928?]
-1,396,run,review,short_line,0.58,14,24,1889 — [1928?],immer 80–90 auch 100 Kind.
-1,398,break,high,short_line,0.67,16,24,Kantor bis 1934.,Neumann L. 18[?]9 – 1849
-1,400,run,review,short_line,0.67,16,24,Pflegel. 1849. —,Schulchronik geschrieben
-1,401,break,high,rubric,1.0,24,24,Schulchronik geschrieben,v. Schultz.
-1,404,run,review,short_line,0.38,9,24,nieużytek,(Matura gemacht das schwerste i. Leben)
-1,407,break,high,short_line,0.29,7,24,bücher.,(als Kind immer Pastor werden. —)
-1,421,break,high,short_line,0.64,16,25,dort hingezogen.,Nach Amerika viel ge¬
-1,427,break,high,short_line,0.28,7,25,Farmer.,Das Gut Drzewce parzelliert
+1,395,break,high,short_line+column,0.43,10,23,aus Tomice,1889 — [1928?]
+1,396,run,review,short_line,0.61,14,23,1889 — [1928?],immer 80–90 auch 100 Kind.
+1,398,break,high,short_line,0.7,16,23,Kantor bis 1934.,Neumann L. 1889 – 1849
+1,400,run,review,short_line,0.7,16,23,Pflegel. 1849. —,Schulchronik geschrieben
+1,401,break,high,rubric,1.04,24,23,Schulchronik geschrieben,v. Schultz.
+1,404,run,review,short_line,0.39,9,23,nieużytek,(Matura gemacht das schwerste i. Leben)
+1,407,break,high,short_line,0.3,7,23,bücher.,(als Kind immer Pastor werden. —)
+1,421,break,high,short_line,0.65,16,24,dort hingezogen.,Nach Amerika viel ge¬
+1,427,break,high,short_line,0.29,7,24,Farmer.,Das Gut Drzewce parzelliert
 1,433,break,high,short_line+column,0.44,7,16,Łazinsk,Emilienheim
 1,434,break,high,short_line+column,0.69,11,16,Emilienheim,Łazinsk
 1,435,break,high,short_line+column,0.44,7,16,Łazinsk,Sonne

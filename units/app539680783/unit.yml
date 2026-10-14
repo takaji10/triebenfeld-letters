@@ -38,12 +38,10 @@ status: translated         # draft | transcribed | translated | published
 # (cache/translation-raw): see notes.md.
 published_tag: ""
 
-# Which era this holding belongs to - reference/eras.yml. By its date and
-# its parties it belongs to the Miączyński years ("restitution"), which is
-# not yet populated; it stands with the Hohenlohe-Ingelfingen years for now,
-# like the other holdings of 1807 and later, and the Prince's contract of
-# 1805 is what it is about. The editor rules (docs/NEEDS_CONFIRMATION.md).
-era: hohenlohe
+# Which era this holding belongs to - reference/eras.yml. The era after
+# Michalina Miączyńska, when her son Włodzimierz ran the estate (editor,
+# 2026-10-14; the era's name is a working name).
+era: wlodzimierz
 
 # Which archive holds it - reference/repositories.yml.
 repository: app-poznan

@@ -112,7 +112,7 @@ so check them.
 
 - **Three holdings are built and committed but NOT published** (added
   2026-10-13 and 14, all from the State Archive in Poznań). The edition's
-  figures already count them (569 documents, 40 holdings, 815 marks of
+  figures already count them (569 documents, 40 holdings, 808 marks of
   doubt): do not publish anything else from `main` without saying that
   they go with it. `docs/TODO.md`, sections 10 to 12.
   - **APP 53/968/0/-/783** (slug `app539680783`): a printed summons of
@@ -125,9 +125,12 @@ so check them.
     approved; the Count was Michalina's son; the Staro- and Nowo-Łazińska
     colonies are the estate's two Olęder colonies (earlier Trąbczyńskie
     Stare / Nowe Olędry), not the village of Łazy (editor, 2026-10-14).
-    Waits for the editor's look at the changes, their answers on the spot
-    sheet "Pen marks on the summons" (`review/app539680783/pen_marks.csv`,
-    `docs/TODO.md` section 10), and their word.
+    Their answers on the spot sheet "Pen marks on the summons"
+    (`review/app539680783/pen_marks.csv`,
+    `docs/TODO.md` section 10) are worked in (no. 58 Heck, no. 70
+    Krystofa, costs 47). Its era is the new `wlodzimierz` (editor,
+    2026-10-14; working name). Waits for their look at the page of
+    changes and their word.
   - **APP 53/64/0/-/Kalisz Tab.21** (slug `app53640kalisztab21`): thirteen
     pages of the hearth-tax register of 1789, a table of 387 entries
     (Trąbczyn is 178 of the third district). No transcription existed: read
@@ -144,10 +147,10 @@ so check them.
     and was not used. No transcription existed: read from the scans in
     session (`intake/holding.py`), English in `intake/english.py`,
     summaries claim-checked. Read `units/app539680669/notes.md` first.
-    Waits for the editor's answers on the spot sheet "Readings in Breyer's
-    notebook" (`review/app539680669/readings.csv`), their ruling on its
-    era (placed in `hohenlohe`, which now runs to 1936 on the site), and
-    their word.
+    The editor answered the spot sheet "Readings in Breyer's notebook"
+    (seven of ten settled; 83 marks of doubt remain, the editor to say
+    whether to look at them). Its era is the new `twentieth-century`
+    (editor, 2026-10-14; working name). Waits for their word.
 - **Everything else is published and pushed (2026-10-13)**: 566 documents
   in 37 holdings. All four cloud branches are in `main`.
 - **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and

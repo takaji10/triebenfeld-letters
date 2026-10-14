@@ -60,6 +60,12 @@ channel. TEXT is the reading, line by line as on the page.
   mark of doubt must stand on one line for the counts.
 - The stamp of the village headman of the colony of Łazińsk on 0006_a1 is
   given in its own three lines, as it reads.
+- The editor's answers on the spot sheet "Readings in Breyer's notebook"
+  (2026-10-14, review/app539680669/readings_answers.json) are in TEXT:
+  Wagelt[?] for Wagels[?]; 17. IV 1832; Halwege; Hormann[?] for
+  Hossmann[?]; Neumann L. 1889 – 1849 (the editor's reading; the years run
+  backwards as written); Włodzimierow for Wlodziemen[?]; Bärwinkel. Gullat[?],
+  1928[?] and Wolwachówka[?] stand with their doubt.
 - The English (ENGLISH) translates the notes and keeps the names as he
   wrote them; Trąbczyn takes the edition's spelling.
 """
@@ -184,7 +190,7 @@ Wirtschaften: „[Gehege?]"
 „Die [Kroge?]"
 ([?] Fuß)
 „Trieb" [?] „[Gehege?]" [?] in [?]""",
- '0005_a2': """„[Bärwinkel?]"
+ '0005_a2': """„Bärwinkel"
 „Morast". —
 —o—
 Alter Krüger (86 J.)
@@ -193,7 +199,7 @@ sein Lehrer Neumann
 Kosiniery im Dorf keinen
 Schaden gemacht
 Krüger hat d. Tochter auch 4 Morgen Land
-verschrieben an [Wagels?].
+verschrieben an [Wagelt?].
 An den Ecken d. Scheunen
 gestützt mit schmalen
 Querbalken
@@ -265,7 +271,7 @@ im Bresl. Buch.
 Friedhof: Józefow
 Agnes Schütz, geb. Neumann
 In Neustädtl in Schlesien,
-geb. 17. [IV?] 1832
+geb. 17. IV 1832
 31. I. 1864 [gestor…?]""",
  '0008_a2': """Peltzer (vom Kulturbund)
 zwei Mal im
@@ -360,7 +366,7 @@ auch noch 2 aus Michalinow
 Schwiegervater bekam zwei
 Morgen sandiges Land, hat
 sich aufgebaut. —
-Was [Halwege?] war, ging
+Was Halwege war, ging
 nach Deutschland. Budendorf
 haben sich nur auf diese Art
 die Wirtschaft auszahlen können.
@@ -378,7 +384,7 @@ Flurnamen
 6) [Gr…berge?].
 7) Grosse Blotte
 8) Baustellen.""",
- '0012_a2': """Ein [Gullat?], [Hossmann?]
+ '0012_a2': """Ein [Gullat?], [Hormann?]
 nach Russland. Budendorf
 [gekauft?], vor 50 Jahren.
 —o—
@@ -457,7 +463,7 @@ aus Tomice
 1889 — [1928?]
 immer 80–90 auch 100 Kind.
 Kantor bis 1934.
-Neumann L. 18[?]9 – 1849
+Neumann L. 1889 – 1849
 Pflegel. 1849. —
 Schulchronik geschrieben
 v. Schultz.
@@ -471,7 +477,7 @@ Ein Sohn d. Schultz Pastor i. Deutschl.
 Postbeamte, Missionar, Indien, Eng¬
 land, Krieg, Dänemark, Rostock.""",
  '0015_a2': """Zur Schulgem. gehören:
-Augustynow, [Wlodziemen?]
+Augustynow, Włodzimierow
 Michalinow, auch Drzewce.
 [vorläufig?] um 1876
 Nach Wolhynien sind aus¬

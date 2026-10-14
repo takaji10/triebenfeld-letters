@@ -14,7 +14,7 @@
 1,24,336,337,¬,Win,ter,Winter,join,high,"joined form attested in DWDS (3,775,728 hits)",False,0,3775728,0,,1,,"Lehm ausgefüllt, im Win¬ || ter kalt."
 1,25,351,352,¬,verzwei,gen,verzweigen,join,high,"joined form attested in DWDS (27,272 hits)",False,0,27272,0,,1,,"aber nicht kerzengerade, verzwei¬ || gen sich mehr."
 1,25,357,358,¬,Zement,kreuze,Zementkreuze,split,high,joined form unattested; both halves are real words,False,0,7,0,85563,1,249498,auch die neuen Zement¬ || kreuze sind den Łazinsker
-1,26,368,369,¬,Włodzi,mierow,Włodzimierow,join,high,head is not a word on its own,False,0,0,0,0,1,,wann? Heisst heute Włodzi¬ || mierow. Noch lange vor dem
+1,26,368,369,¬,Włodzi,mierow,Włodzimierow,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,wann? Heisst heute Włodzi¬ || mierow. Noch lange vor dem
 1,27,388,389,¬,ande,res,anderes,split,high,joined form unattested; both halves are real words,False,0,0,0,5805,1,26759,"In jedem Holland ein ande¬ || res Buch, darum gleiche"
 1,28,405,406,¬,Gesang,bücher,Gesangbücher,join,high,"joined form attested in DWDS (23,984 hits)",False,0,23984,0,,5,,Früher Breslauer Gesang¬ || bücher.
 1,28,409,410,¬,Eng,land,England,join,high,"joined form attested in DWDS (1,928,075 hits)",False,0,1928075,0,,11,,"Postbeamte, Missionar, Indien, Eng¬ || land, Krieg, Dänemark, Rostock."
