@@ -1,0 +1,35 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680669
+ref: APP 53/968/0/-/669
+archive: Hohenloher Zentralarchiv Neuenstein (HZAN)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: keep that, if wanted, as archive_title.
+title: >-
+  TODO: one sentence on what this holding is about.
+title_de: >-
+  TODO: derselbe Satz auf Deutsch.
+date_span: TODO
+status: draft              # draft | transcribed | translated | published
+
+# Raw scans live outside the project. crop_scans.py reads from raw_dir and
+# writes single pages into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Grodziec [Notatki dotyczące Grodźca, Józefowa Zamentu, Łazińska] (53.968.0.-.669)/Notes on Łazińsk (53.968.0.-.669)
+  raw_glob: TODO_*.jpg
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: TODO
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  TODO: a paragraph on what this holding is.

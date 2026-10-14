@@ -875,3 +875,9 @@ cloud branches").
   background (`gh run watch <id> --exit-status`) and then fetch one page of
   each kind from the live site: a document is `/documents/<slug>/<n>/`, a
   holding page `/sources/<slug>/`, a scan `/assets/scans/<file>.jpg`.
+- **A file the editor leaves beside the scans may belong to other pages.**
+  For APP 53/968/0/-/669 (2026-10-14) "Breyer Notes.md" in the folder of
+  one notebook's scans was a partial English rendering of a different
+  notebook in the same archival unit. Read the pages before relying on
+  the file, and ask which notebook makes the holding. Raw CR2 photos can be
+  viewed through their embedded full-size JPEG preview.
