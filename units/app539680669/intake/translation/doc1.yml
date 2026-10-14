@@ -85,7 +85,7 @@ pages:
   marker_count: 0
   en: 'Poznań province.
 
-    From the Smaszew congregation
+    From the Grodziec congregation
 
     they marry from Orlin
 
@@ -97,7 +97,7 @@ pages:
 
     less often: Wojciechowo,
 
-    Czarnica, Grondy.
+    Ciswica, Grondy.
 
     —o—
 
@@ -202,8 +202,8 @@ pages:
   flagged: []
 - page: 8
   confidence: high
-  marker_count: 11
-  en: '[illegible] [illegible] of the [illegible]
+  marker_count: 8
+  en: '[uncertain: Westlig] of the school
 
     Mielke
 
@@ -223,7 +223,7 @@ pages:
 
     ([illegible] foot)
 
-    "Trieb" [illegible] "[uncertain: Gehege]" [illegible] in [illegible]'
+    "Trieb" [illegible] "[uncertain: Gehege]" [illegible] in Grądzeń'
   names: []
   numbers: []
   flagged: []
@@ -232,7 +232,7 @@ pages:
   marker_count: 2
   en: '"Bärwinkel"
 
-    "Morast" (bog). —
+    "Moraß" (bog). —
 
     —o—
 
@@ -392,7 +392,9 @@ pages:
 
     The canal is called "Graben" (the ditch)
 
-    Baustellen (building plots). In Emilienheim.
+    In Emilienheim.
+
+    Baustellen (building plots).
 
     "Kafeln" "Viermorgen"'
   names: []
@@ -400,7 +402,7 @@ pages:
   flagged: []
 - page: 14
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: 'Old Kühnstubben (pine stumps) are still
 
     found. (dug
@@ -419,7 +421,7 @@ pages:
 
     born 17 April 1832
 
-    31 January 1864 [uncertain: died…]'
+    31 January 1864 died'
   names: []
   numbers: []
   flagged: []
@@ -461,9 +463,9 @@ pages:
 - page: 16
   confidence: high
   marker_count: 0
-  en: 'In the Pyzdry Hollands
+  en: 'In the Pyzdry Hollendry
 
-    Wrocław and Züllichau [books]
+    people from Wrocław (Breslau) and Züllichau
 
     People from Łazinsk
 
@@ -516,7 +518,7 @@ pages:
 
     Klingbeil was there 9 years.
 
-    Ed. Zelmer was there 34 years.
+    Ed[uard] Zelmer was there 34 years.
 
     from Łazinsk
 
@@ -526,7 +528,7 @@ pages:
 
     someone else passed the
 
-    examination for him.'
+    examination for him (Zelmer).'
   names: []
   numbers: []
   flagged: []
@@ -570,13 +572,13 @@ pages:
 
     Of the girls
 
-    they say "[uncertain: Züchten]"
+    they say "[uncertain: Züchten]",
+
+    marriageable,
 
     in Zamęty.
 
-    marriageable
-
-    Plötzer = gallants
+    Plötzer = Kavaliere (gallants, bachelors)
 
     When they speak coarsely:
 
@@ -669,7 +671,7 @@ pages:
 
     4) Gänseblotte (goose mire)
 
-    5) Gä[uncertain: ehe]blotte
+    5) Oldergschie[uncertain: h]
 
     6) Griefenberge.
 
@@ -686,7 +688,7 @@ pages:
 
     to Russia. Budendorf
 
-    ge[illegible]kt, 50 years ago.
+    [uncertain: gefinkt], 50 years ago.
 
     —o—
 
@@ -721,9 +723,11 @@ pages:
 
     short.
 
-    "In the door a linen
+    "In der Tür eine Leinwandplatte
 
-    panel against the heat"
+    gegen d. Hitze" (in the door a linen
+
+    panel against the heat)
 
     —o—
 
@@ -739,7 +743,7 @@ pages:
 
     land.
 
-    "they all like poppy-seed dumplings"
+    "alle essen gern Mohnklösse" (they all like poppy-seed dumplings)
 
     —o—
 
@@ -822,7 +826,7 @@ pages:
   marker_count: 0
   en: 'Tarszewo, Olchowo, Mały
 
-    Las, Chruścik — Brücher
+    Las, Chruściki — Brücher
 
     "speak slowly, drawn out,
 
@@ -834,9 +838,9 @@ pages:
 
     "ick war do" = Brücher.
 
-    I was there
+    ich war da (I was there)
 
-    er hud = he had
+    er hud = er hatte (he had)
 
     —o—
 
@@ -883,9 +887,9 @@ pages:
 
     books.
 
-    (as a child always [wanted to] be a pastor. —)
-
     A son of Schultz''s a pastor in Germany.
+
+    (as a child always [wanted to] be a pastor. —)
 
     Post official, missionary, India, England, war, Denmark, Rostock.'
   names: []
@@ -936,7 +940,7 @@ pages:
   flagged: []
 - page: 30
   confidence: high
-  marker_count: 0
+  marker_count: 1
   en: 'Łazinsk
 
     Emilienheim
@@ -945,7 +949,7 @@ pages:
 
     Sun
 
-    No. 4 house 12 1/25
+    No. 4 [uncertain: Fam.] 12 1/25
 
     without 6.3
 
@@ -980,7 +984,7 @@ pages:
 
     Janina Bednarek
 
-    Michalinow!
+    Michalinow
 
     —o—
 
@@ -998,23 +1002,31 @@ pages:
 
     7. 1933 12 o''clock, yellow filter
 
-    Class I 14 Morgen ap. 9. 1/10 sec.
+    Class I 14 Morgen
 
-    II " 235 " land.
+    II " 235 "
 
-    III " 25 " 5 o''clock ap. 12
+    III " 25 "
 
-    IV " 49 " yellow filter 1/5
+    IV " 49 "
 
     Waste land 14 "
 
-    337 Morgen.'
+    337 Morgen.
+
+    ap. 9. 1/10 sec.
+
+    land.
+
+    5 o''clock ap. 12
+
+    yellow filter 1/5'
   names: []
   numbers: []
   flagged: []
 - page: 32
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: 'No. 4 house ap. 12, yellow filter 1/5 sec. 4 o''clock
 
     No. 6 Krüger ap. 9, yellow filter 1/5 " 4 o''clock
@@ -1025,7 +1037,7 @@ pages:
 
     sun
 
-    5 [uncertain: Kistler] ap. 18 without 1/15 "
+    5 children ap. 18 without 1/15 "
 
     3 " ap. 12 " 1/25 "
 
@@ -1049,7 +1061,7 @@ pages:
   flagged: []
 - page: 33
   confidence: high
-  marker_count: 3
+  marker_count: 2
   en: 'July 1935.
 
     9 o''clock, Radatz''s house in the shade
@@ -1090,7 +1102,7 @@ pages:
 
     No. 9 farm 7 o''clock ap. 9 1/2 sec. without
 
-    3 [uncertain: Mielke] 9 o''clock ap. [illegible] 1/10 sec. without
+    3 birch 9 o''clock ap. [illegible] 1/10 sec. without
 
     6 Obory 10 " ap. 9 1/10 yellow filter'
   names: []
@@ -1141,22 +1153,22 @@ pages:
   flagged: []
 - page: 35
   confidence: high
-  marker_count: 15
-  en: '[illegible]: spring of water
+  marker_count: 9
+  en: 'Prayer [uncertain: book]: spring of water
 
-    the Poles have forbidden the [uncertain: Rutkowski] [illegible]
+    the pastors have forbidden
 
-    [illegible] [illegible] [illegible]
+    Rutkowski [uncertain: because]
 
-    took [uncertain: Rutkowski] to [uncertain: Wars…]
+    [uncertain: his] [illegible] [uncertain: vorynier]
 
-    away, the commune [illegible]
+    took Rutkowski away to Warsaw,
 
-    [illegible].
+    the community rescued [uncertain: him].
 
-    [illegible] the paving [illegible] [illegible]
+    [illegible] the paving in [uncertain: hell]
 
-    [illegible] Poznań and [uncertain: Pfaffen]
+    [uncertain: of] pastors and priests
 
     is finished, then the world
 

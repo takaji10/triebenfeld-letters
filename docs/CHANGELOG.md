@@ -1882,12 +1882,19 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
-## APP 53/968/0/-/669: a second notebook added (2026-10-14; not published)
+## APP 53/968/0/-/669: the editor's corrections to the first notebook (2026-10-14)
+
+- The editor read the English of Breyer's first notebook against the scans: Grodziec and Ciswica for Smaszew and Czarnica, Grądzeń, Moraß, Ed[uard] Zelmer, Chruściki, Kinder and Birke in the photo log, and others; the order of some lines; the German of the sayings kept beside the English; the inside back cover read again with the editor and completed (`units/app539680669/intake/editor_corrections.py`).
+- Years from 1900 on were shown with a thousands comma ("1,907"): `numerals.py` now takes 1500 to 1999 as years.
+- The English naming rule for Trąbczyn no longer rewrites a spelling quoted from the page ('written "Trąpczyn"'), which a run of it had done in two summaries; both kept as they were.
+- Figures: 812 marks of doubt.
+
+## APP 53/968/0/-/669: a second notebook added and published (2026-10-14)
 
 - **Document 2**, Breyer's notebook "V. Grodziec Juli 1936", from the editor's raw photos IMG_5192 to IMG_5205: 25 pages read in session (33 marks of doubt), English, summary in both languages claim-checked (15 statements, three weakened), the holding's page and title for two notebooks. The camera's full-size picture inside each raw file was used; the last photo, flagged by the camera as turned, is upright inside the file.
 - A spot sheet of 15 readings for the editor. Koppe, Küster and Stanisław Miączyński shut out of the new document; the glossary's Morgen takes "Mor." after a figure.
 - Figures: 570 documents on 1,917 pages in 40 holdings; 828 marks of doubt.
-- The editor's answers on the sheet of 15 readings worked in (Brudzewo, Kirschhacker, Swirkhaber, Chocz, Firstgugge and others); 824 marks of doubt. Three rows asked again on a short sheet.
+- The editor's answers on the sheet of 15 readings worked in (Brudzewo, Kirschhacker, Swirkhaber, Chocz, Firstgugge and others); 824 marks of doubt. Three rows asked again on a short sheet and answered (Rhein…, "Die nach ins Posenschen gehen", Dachgugge). Published at the editor's word; 823 marks of doubt.
 
 ## Three holdings published (2026-10-14)
 

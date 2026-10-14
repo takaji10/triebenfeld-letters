@@ -932,3 +932,11 @@ cloud branches").
   cropped correctly" because the line sat at the very foot of the picture.
   Check that the target line is not on the bottom edge, not only that it is
   in the picture.
+- **Years after 1899 were grouped as sums** ("1,907") until 2026-10-14:
+  `numerals.py` took only 1500-1899 as years, and the edition had reached
+  the twentieth century. When an era or a holding extends the edition's
+  range of dates, check the numerals rule.
+- **`english_forms.py --apply` runs on every English summary**, and a place
+  rule rewrote a spelling quoted from the page ('written "Trąpczyn"'). A
+  rule for a name must not touch a quoted form; after running it, compare
+  the summaries with HEAD and look at every one that changed.

@@ -7387,27 +7387,7 @@
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
   "line": 94,
   "doc_line": 85,
-  "context": "[?] [?] der [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 8,
-  "page_id": "0005_a1",
-  "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
-  "line": 94,
-  "doc_line": 85,
-  "context": "[?] [?] der [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 8,
-  "page_id": "0005_a1",
-  "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
-  "line": 94,
-  "doc_line": 85,
-  "context": "[?] [?] der [?]"
+  "context": "Westlig[?] der Schule"
  },
  {
   "uid": "app539680669-1",
@@ -7457,7 +7437,7 @@
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
   "line": 104,
   "doc_line": 95,
-  "context": "„Trieb\" [?] „[Gehege?]\" [?] in [?]"
+  "context": "„Trieb\" [?] „[Gehege?]\" [?] in Grądzeń"
  },
  {
   "uid": "app539680669-1",
@@ -7467,7 +7447,7 @@
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
   "line": 104,
   "doc_line": 95,
-  "context": "„Trieb\" [?] „[Gehege?]\" [?] in [?]"
+  "context": "„Trieb\" [?] „[Gehege?]\" [?] in Grądzeń"
  },
  {
   "uid": "app539680669-1",
@@ -7477,17 +7457,7 @@
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
   "line": 104,
   "doc_line": 95,
-  "context": "„Trieb\" [?] „[Gehege?]\" [?] in [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 8,
-  "page_id": "0005_a1",
-  "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
-  "line": 104,
-  "doc_line": 95,
-  "context": "„Trieb\" [?] „[Gehege?]\" [?] in [?]"
+  "context": "„Trieb\" [?] „[Gehege?]\" [?] in Grądzeń"
  },
  {
   "uid": "app539680669-1",
@@ -7511,22 +7481,12 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[gestor…?]",
-  "page": 14,
-  "page_id": "0008_a1",
-  "scan": "APP_53_968_0_669_0008_a1-L1_14.jpg",
-  "line": 193,
-  "doc_line": 178,
-  "context": "31. I. 1864 [gestor…?]"
- },
- {
-  "uid": "app539680669-1",
   "marker": "[Züchten?]",
   "page": 19,
   "page_id": "0010_a2",
   "scan": "APP_53_968_0_669_0010_a2-L1_19.jpg",
-  "line": 262,
-  "doc_line": 242,
+  "line": 263,
+  "doc_line": 243,
   "context": "sagt man „[Züchten?]\""
  },
  {
@@ -7535,19 +7495,19 @@
   "page": 22,
   "page_id": "0012_a1",
   "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
-  "line": 307,
-  "doc_line": 284,
+  "line": 308,
+  "doc_line": 285,
   "context": "3) Grüne [Kaveln?]"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[ehe?]",
+  "marker": "[h?]",
   "page": 22,
   "page_id": "0012_a1",
   "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
-  "line": 309,
-  "doc_line": 286,
-  "context": "5) Gä[ehe?]blotte"
+  "line": 310,
+  "doc_line": 287,
+  "context": "5) Oldergschie[h?]"
  },
  {
   "uid": "app539680669-1",
@@ -7555,8 +7515,8 @@
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
-  "line": 314,
-  "doc_line": 290,
+  "line": 315,
+  "doc_line": 291,
   "context": "Ein [Gullat?], [Hormann?]"
  },
  {
@@ -7565,19 +7525,19 @@
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
-  "line": 314,
-  "doc_line": 290,
+  "line": 315,
+  "doc_line": 291,
   "context": "Ein [Gullat?], [Hormann?]"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[gefinkt?]",
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
-  "line": 316,
-  "doc_line": 292,
-  "context": "ge[?]kt, vor 50 Jahren."
+  "line": 317,
+  "doc_line": 293,
+  "context": "[gefinkt?], vor 50 Jahren."
  },
  {
   "uid": "app539680669-1",
@@ -7585,8 +7545,8 @@
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
-  "line": 326,
-  "doc_line": 302,
+  "line": 327,
+  "doc_line": 303,
   "context": "[Hausker?] Holl. Kein"
  },
  {
@@ -7595,8 +7555,8 @@
   "page": 26,
   "page_id": "0014_a1",
   "scan": "APP_53_968_0_669_0014_a1-L1_26.jpg",
-  "line": 373,
-  "doc_line": 346,
+  "line": 374,
+  "doc_line": 347,
   "context": "[?] i. Brasilien. Früher war"
  },
  {
@@ -7605,8 +7565,8 @@
   "page": 28,
   "page_id": "0015_a1",
   "scan": "APP_53_968_0_669_0015_a1-L1_28.jpg",
-  "line": 395,
-  "doc_line": 366,
+  "line": 396,
+  "doc_line": 367,
   "context": "1889 — [1928?]"
  },
  {
@@ -7615,8 +7575,8 @@
   "page": 29,
   "page_id": "0015_a2",
   "scan": "APP_53_968_0_669_0015_a2-L1_29.jpg",
-  "line": 415,
-  "doc_line": 385,
+  "line": 416,
+  "doc_line": 386,
   "context": "[vortüng Kr?] um 1876"
  },
  {
@@ -7625,9 +7585,19 @@
   "page": 29,
   "page_id": "0015_a2",
   "scan": "APP_53_968_0_669_0015_a2-L1_29.jpg",
-  "line": 418,
-  "doc_line": 388,
+  "line": 419,
+  "doc_line": 389,
   "context": "in d. Gegend v. [Wolwachówka?],"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[?]",
+  "page": 30,
+  "page_id": "0016_a1",
+  "scan": "APP_53_968_0_669_0016_a1-L1_30.jpg",
+  "line": 437,
+  "doc_line": 406,
+  "context": "N 4 Fam[?] 12 1/25"
  },
  {
   "uid": "app539680669-1",
@@ -7635,19 +7605,9 @@
   "page": 31,
   "page_id": "0016_a2",
   "scan": "APP_53_968_0_669_0016_a2-L1_31.jpg",
-  "line": 457,
-  "doc_line": 425,
+  "line": 458,
+  "doc_line": 426,
   "context": "[Film?] ohne"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Kistler?]",
-  "page": 32,
-  "page_id": "0017_a1",
-  "scan": "APP_53_968_0_669_0017_a1-L1_32.jpg",
-  "line": 473,
-  "doc_line": 440,
-  "context": "5 [Kistler?] Bl. 18 Ohne 1/15 \""
  },
  {
   "uid": "app539680669-1",
@@ -7655,8 +7615,8 @@
   "page": 32,
   "page_id": "0017_a1",
   "scan": "APP_53_968_0_669_0017_a1-L1_32.jpg",
-  "line": 476,
-  "doc_line": 443,
+  "line": 481,
+  "doc_line": 448,
   "context": "N 1 Neue [W…?]. Bl. 12 Ohne 1/10 5!"
  },
  {
@@ -7665,8 +7625,8 @@
   "page": 32,
   "page_id": "0017_a1",
   "scan": "APP_53_968_0_669_0017_a1-L1_32.jpg",
-  "line": 477,
-  "doc_line": 444,
+  "line": 482,
+  "doc_line": 449,
   "context": "2. [?] Bl. Ohne 1/5 5"
  },
  {
@@ -7675,8 +7635,8 @@
   "page": 32,
   "page_id": "0017_a1",
   "scan": "APP_53_968_0_669_0017_a1-L1_32.jpg",
-  "line": 482,
-  "doc_line": 449,
+  "line": 487,
+  "doc_line": 454,
   "context": "8. [Kazm.?] 11 Uhr. Gf B. 9. 1/5"
  },
  {
@@ -7685,39 +7645,19 @@
   "page": 33,
   "page_id": "0017_a2",
   "scan": "APP_53_968_0_669_0017_a2-L1_33.jpg",
-  "line": 499,
-  "doc_line": 465,
+  "line": 504,
+  "doc_line": 470,
   "context": "\" Friedhof, 10 \" Gf. Bl. [4,5?], 1/10"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Mielke?]",
-  "page": 33,
-  "page_id": "0017_a2",
-  "scan": "APP_53_968_0_669_0017_a2-L1_33.jpg",
-  "line": 504,
-  "doc_line": 470,
-  "context": "3 [Mielke?] 9 Uh Bl. [?] 1/10 Sek O."
- },
- {
-  "uid": "app539680669-1",
   "marker": "[?]",
   "page": 33,
   "page_id": "0017_a2",
   "scan": "APP_53_968_0_669_0017_a2-L1_33.jpg",
-  "line": 504,
-  "doc_line": 470,
-  "context": "3 [Mielke?] 9 Uh Bl. [?] 1/10 Sek O."
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 34,
-  "page_id": "0018_a1",
-  "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
-  "line": 512,
-  "doc_line": 477,
-  "context": "Vor 54 Jahren aus St[?]pin"
+  "line": 509,
+  "doc_line": 475,
+  "context": "3 Birke 9 Uh Bl. [?] 1/10 Sek O."
  },
  {
   "uid": "app539680669-1",
@@ -7727,6 +7667,16 @@
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
   "line": 517,
   "doc_line": 482,
+  "context": "Vor 54 Jahren aus St[?]pin"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[?]",
+  "page": 34,
+  "page_id": "0018_a1",
+  "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
+  "line": 522,
+  "doc_line": 487,
   "context": "Neu Czarkow, Briesen, Paprotk[?]"
  },
  {
@@ -7735,8 +7685,8 @@
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
-  "line": 520,
-  "doc_line": 485,
+  "line": 525,
+  "doc_line": 490,
   "context": "In St[y?]pin bei 6 Stücke: um 1868"
  },
  {
@@ -7745,8 +7695,8 @@
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
-  "line": 521,
-  "doc_line": 486,
+  "line": 526,
+  "doc_line": 491,
   "context": "[Bloh.?]: hinterm Kanal."
  },
  {
@@ -7755,139 +7705,39 @@
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
-  "line": 524,
-  "doc_line": 489,
+  "line": 529,
+  "doc_line": 494,
   "context": "nach Izbitz „[?]\" im Gute"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 527,
-  "doc_line": 491,
-  "context": "[?]: Wasserquelle"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Rutkowski?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 529,
-  "doc_line": 493,
-  "context": "ten d. [Rutkowski?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 529,
-  "doc_line": 493,
-  "context": "ten d. [Rutkowski?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 530,
-  "doc_line": 494,
-  "context": "[?] [?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 530,
-  "doc_line": 494,
-  "context": "[?] [?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 530,
-  "doc_line": 494,
-  "context": "[?] [?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Rutkowski?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 531,
-  "doc_line": 495,
-  "context": "den [Rutkowski?] nach [Wars…?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Wars…?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 531,
-  "doc_line": 495,
-  "context": "den [Rutkowski?] nach [Wars…?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[buch?]",
   "page": 35,
   "page_id": "0018_a2",
   "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
   "line": 532,
   "doc_line": 496,
-  "context": "abgeholt, die Gem. [?]"
+  "context": "Gebet[buch?]: Wasserquelle"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 533,
-  "doc_line": 497,
-  "context": "[?]."
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[weil?]",
   "page": 35,
   "page_id": "0018_a2",
   "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
   "line": 534,
   "doc_line": 498,
-  "context": "[?] das Pflaster [?] [?]"
+  "context": "ten d. Rutkowski [weil?]"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[sein?]",
   "page": 35,
   "page_id": "0018_a2",
   "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 534,
-  "doc_line": 498,
-  "context": "[?] das Pflaster [?] [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 35,
-  "page_id": "0018_a2",
-  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
-  "line": 534,
-  "doc_line": 498,
-  "context": "[?] das Pflaster [?] [?]"
+  "line": 535,
+  "doc_line": 499,
+  "context": "[sein?] [?] [vorynier?]"
  },
  {
   "uid": "app539680669-1",
@@ -7897,17 +7747,57 @@
   "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
   "line": 535,
   "doc_line": 499,
-  "context": "[?] Posen u. [Pfaffen?]"
+  "context": "[sein?] [?] [vorynier?]"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Pfaffen?]",
+  "marker": "[vorynier?]",
   "page": 35,
   "page_id": "0018_a2",
   "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
   "line": 535,
   "doc_line": 499,
-  "context": "[?] Posen u. [Pfaffen?]"
+  "context": "[sein?] [?] [vorynier?]"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[ihn?]",
+  "page": 35,
+  "page_id": "0018_a2",
+  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
+  "line": 537,
+  "doc_line": 501,
+  "context": "abgeholt, die Gem. [ihn?]"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[?]",
+  "page": 35,
+  "page_id": "0018_a2",
+  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
+  "line": 539,
+  "doc_line": 503,
+  "context": "[?] das Pflaster i. d. [Hölle?]"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[Hölle?]",
+  "page": 35,
+  "page_id": "0018_a2",
+  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
+  "line": 539,
+  "doc_line": 503,
+  "context": "[?] das Pflaster i. d. [Hölle?]"
+ },
+ {
+  "uid": "app539680669-1",
+  "marker": "[von?]",
+  "page": 35,
+  "page_id": "0018_a2",
+  "scan": "APP_53_968_0_669_0018_a2-L1_35.jpg",
+  "line": 540,
+  "doc_line": 504,
+  "context": "[von?] Pastoren u. Pfaffen"
  },
  {
   "uid": "app539680669-2",
@@ -7915,7 +7805,7 @@
   "page": 3,
   "page_id": "5194_a1",
   "scan": "APP_53_968_0_669_5194_a1-L2_03.jpg",
-  "line": 558,
+  "line": 563,
   "doc_line": 17,
   "context": "ausgerodet, die [?]"
  },
@@ -7925,7 +7815,7 @@
   "page": 3,
   "page_id": "5194_a1",
   "scan": "APP_53_968_0_669_5194_a1-L2_03.jpg",
-  "line": 559,
+  "line": 564,
   "doc_line": 18,
   "context": "haben dann [?]"
  },
@@ -7935,7 +7825,7 @@
   "page": 3,
   "page_id": "5194_a1",
   "scan": "APP_53_968_0_669_5194_a1-L2_03.jpg",
-  "line": 560,
+  "line": 565,
   "doc_line": 19,
   "context": "[?], sind zurück¬"
  },
@@ -7945,7 +7835,7 @@
   "page": 3,
   "page_id": "5194_a1",
   "scan": "APP_53_968_0_669_5194_a1-L2_03.jpg",
-  "line": 563,
+  "line": 568,
   "doc_line": 22,
   "context": "kaite[r/n?], alle nehmen"
  },
@@ -7955,7 +7845,7 @@
   "page": 5,
   "page_id": "5195_a1",
   "scan": "APP_53_968_0_669_5195_a1-L2_05.jpg",
-  "line": 589,
+  "line": 594,
   "doc_line": 46,
   "context": "[Tür?]ver¬"
  },
@@ -7965,7 +7855,7 @@
   "page": 6,
   "page_id": "5195_a2",
   "scan": "APP_53_968_0_669_5195_a2-L2_06.jpg",
-  "line": 604,
+  "line": 609,
   "doc_line": 60,
   "context": "[Grenzwald?]"
  },
@@ -7975,7 +7865,7 @@
   "page": 8,
   "page_id": "5196_a2",
   "scan": "APP_53_968_0_669_5196_a2-L2_08.jpg",
-  "line": 627,
+  "line": 632,
   "doc_line": 81,
   "context": "Bochenski 20 M., Kinast, Winterfeld, Neihe[?]"
  },
@@ -7985,7 +7875,7 @@
   "page": 10,
   "page_id": "5197_a2",
   "scan": "APP_53_968_0_669_5197_a2-L2_10.jpg",
-  "line": 653,
+  "line": 658,
   "doc_line": 105,
   "context": "Robert Nintz[?],"
  },
@@ -7995,7 +7885,7 @@
   "page": 10,
   "page_id": "5197_a2",
   "scan": "APP_53_968_0_669_5197_a2-L2_10.jpg",
-  "line": 654,
+  "line": 659,
   "doc_line": 106,
   "context": "[?]"
  },
@@ -8005,19 +7895,19 @@
   "page": 10,
   "page_id": "5197_a2",
   "scan": "APP_53_968_0_669_5197_a2-L2_10.jpg",
-  "line": 657,
+  "line": 662,
   "doc_line": 109,
   "context": "4 Kinder [Kin…?]"
  },
  {
   "uid": "app539680669-2",
-  "marker": "[Rheinwochenmarkt?]",
+  "marker": "[Rhein…?]",
   "page": 12,
   "page_id": "5198_a2",
   "scan": "APP_53_968_0_669_5198_a2-L2_12.jpg",
-  "line": 707,
+  "line": 712,
   "doc_line": 157,
-  "context": "Es gibt auf [Rheinwochenmarkt?]"
+  "context": "Es gibt auf [Rhein…?]"
  },
  {
   "uid": "app539680669-2",
@@ -8025,7 +7915,7 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 719,
+  "line": 724,
   "doc_line": 168,
   "context": "Fru[c?]ksucht auf [Wanderschaft?],"
  },
@@ -8035,7 +7925,7 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 719,
+  "line": 724,
   "doc_line": 168,
   "context": "Fru[c?]ksucht auf [Wanderschaft?],"
  },
@@ -8045,7 +7935,7 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 720,
+  "line": 725,
   "doc_line": 169,
   "context": "[stärker?] Sommerarbeit"
  },
@@ -8055,7 +7945,7 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 721,
+  "line": 726,
   "doc_line": 170,
   "context": "auf früheren [Gottmanns?]¬"
  },
@@ -8065,7 +7955,7 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 722,
+  "line": 727,
   "doc_line": 171,
   "context": "[?], jetzt [verkauft?]"
  },
@@ -8075,29 +7965,9 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 722,
+  "line": 727,
   "doc_line": 171,
   "context": "[?], jetzt [verkauft?]"
- },
- {
-  "uid": "app539680669-2",
-  "marker": "[Holländer?]",
-  "page": 13,
-  "page_id": "5199_a1",
-  "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 724,
-  "doc_line": 173,
-  "context": "Die [Holländer?] [Sachsengänger?] gehen"
- },
- {
-  "uid": "app539680669-2",
-  "marker": "[Sachsengänger?]",
-  "page": 13,
-  "page_id": "5199_a1",
-  "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 724,
-  "doc_line": 173,
-  "context": "Die [Holländer?] [Sachsengänger?] gehen"
  },
  {
   "uid": "app539680669-2",
@@ -8105,7 +7975,27 @@
   "page": 13,
   "page_id": "5199_a1",
   "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
-  "line": 730,
+  "line": 729,
+  "doc_line": 173,
+  "context": "Die nach ins[?] Posen[schen?] gehen"
+ },
+ {
+  "uid": "app539680669-2",
+  "marker": "[schen?]",
+  "page": 13,
+  "page_id": "5199_a1",
+  "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
+  "line": 729,
+  "doc_line": 173,
+  "context": "Die nach ins[?] Posen[schen?] gehen"
+ },
+ {
+  "uid": "app539680669-2",
+  "marker": "[?]",
+  "page": 13,
+  "page_id": "5199_a1",
+  "scan": "APP_53_968_0_669_5199_a1-L2_13.jpg",
+  "line": 735,
   "doc_line": 179,
   "context": "Aus [?] 50 Personen."
  },
@@ -8115,7 +8005,7 @@
   "page": 14,
   "page_id": "5199_a2",
   "scan": "APP_53_968_0_669_5199_a2-L2_14.jpg",
-  "line": 739,
+  "line": 744,
   "doc_line": 187,
   "context": "[Sprachweizen?] zugrunde."
  },
@@ -8125,7 +8015,7 @@
   "page": 14,
   "page_id": "5199_a2",
   "scan": "APP_53_968_0_669_5199_a2-L2_14.jpg",
-  "line": 741,
+  "line": 746,
   "doc_line": 189,
   "context": "Im [Sü…?] haben die"
  },
@@ -8135,7 +8025,7 @@
   "page": 19,
   "page_id": "5202_a1",
   "scan": "APP_53_968_0_669_5202_a1-L2_19.jpg",
-  "line": 797,
+  "line": 802,
   "doc_line": 240,
   "context": "[sehe ich?] die zweite."
  },
@@ -8145,7 +8035,7 @@
   "page": 20,
   "page_id": "5202_a2",
   "scan": "APP_53_968_0_669_5202_a2-L2_20.jpg",
-  "line": 810,
+  "line": 815,
   "doc_line": 252,
   "context": "Zur Kirche hat [Pydde?]"
  },
@@ -8155,7 +8045,7 @@
   "page": 20,
   "page_id": "5202_a2",
   "scan": "APP_53_968_0_669_5202_a2-L2_20.jpg",
-  "line": 815,
+  "line": 820,
   "doc_line": 257,
   "context": "nach [Ko…?]-Chocz."
  },
@@ -8165,19 +8055,9 @@
   "page": 21,
   "page_id": "5203_a1",
   "scan": "APP_53_968_0_669_5203_a1-L2_21.jpg",
-  "line": 820,
+  "line": 825,
   "doc_line": 261,
   "context": "Firstgugge[?]"
- },
- {
-  "uid": "app539680669-2",
-  "marker": "[Dreissigjährige?]",
-  "page": 21,
-  "page_id": "5203_a1",
-  "scan": "APP_53_968_0_669_5203_a1-L2_21.jpg",
-  "line": 821,
-  "doc_line": 262,
-  "context": "[Dreissigjährige?]"
  },
  {
   "uid": "app539680669-2",
@@ -8185,7 +8065,7 @@
   "page": 23,
   "page_id": "5204_a1",
   "scan": "APP_53_968_0_669_5204_a1-L2_23.jpg",
-  "line": 852,
+  "line": 857,
   "doc_line": 291,
   "context": "lächter, übt m. 2 d. [Hochz?],"
  },
@@ -8195,7 +8075,7 @@
   "page": 23,
   "page_id": "5204_a1",
   "scan": "APP_53_968_0_669_5204_a1-L2_23.jpg",
-  "line": 856,
+  "line": 861,
   "doc_line": 295,
   "context": "Land liegt d. [Gemeinde?] Wald."
  },

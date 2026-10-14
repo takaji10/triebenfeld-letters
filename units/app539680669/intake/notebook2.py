@@ -184,7 +184,7 @@ Koppen — Garbenhaufen
 In Łazinsk stellenweise
 schöner Weizen
 —o—
-Es gibt auf [Rheinwochenmarkt?]
+Es gibt auf [Rhein…?]
 im Dorfe?
 Ein altes Paar liegt im Winter
 „mich angegrölt" — angeschrien. unbeweglich
@@ -200,7 +200,7 @@ Fru[c?]ksucht auf [Wanderschaft?],
 auf früheren [Gottmanns?]¬
 [?], jetzt [verkauft?]
 nicht
-Die [Holländer?] [Sachsengänger?] gehen
+Die nach ins[?] Posen[schen?] gehen
 die Mädchen bringen
 sehr oft Kinder mit.
 Nach Danzig gegangen
@@ -289,7 +289,7 @@ nach [Ko…?]-Chocz.""",
 " barwy
 Józefów
 Firstgugge[?]
-[Dreissigjährige?]
+Dachgugge
 Józefów: guter Boden
 Viel Weizen""",
  '5203_a2': """Erlenreihen
@@ -513,7 +513,7 @@ Koppen — sheaf stacks
 In Łazinsk here and there
 fine wheat
 —o—
-Is there on a [uncertain: weekly market]
+Is there on a [uncertain: Rhein…]
 in the village?
 An old couple lies in winter, motionless.
 "bawled at me" — shouted at me.
@@ -529,7 +529,7 @@ Fru[uncertain: c]ksucht [uncertain: on the road],
 on former [uncertain: Gottmann's]
 [illegible], now [uncertain: sold]
 not
-The [uncertain: Hollanders] [uncertain: seasonal workers] go,
+Those who go [uncertain: into] the Poznań [uncertain: province],
 the girls very often
 bring children back.
 Went to Danzig,
@@ -616,8 +616,8 @@ towards [uncertain: Ko…]-Chocz.""",
  '5203_a1': """Na olędrach
 " barwy
 Józefów
-[uncertain: Firstgugge]
-[uncertain: Thirty-year-old]
+[uncertain: Firstgugge] (a ridge ornament)
+Dachgugge (a roof ornament)
 Józefów: good soil
 Much wheat""",
  '5203_a2': """Rows of alders

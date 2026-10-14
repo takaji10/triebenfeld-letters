@@ -54,6 +54,12 @@ four, the one their English notes render). Not published.
   (`intake/spot_sheet5.py`, three rows, port 4102), with the line under
   "Firstgugge", read "Dreissigjährige" on the same reasoning. 29 marks of
   doubt remain in document 2.
+- **The editor's answers on readings5** (2026-10-14): "[Rhein…?]" (the
+  editor read "Rhein n?ti?ma?" and could not tell the rest; Claude had
+  "Rheinwochenmarkt"); "Die nach ins[?] Posen[schen?] gehen" (not
+  Holländer Sachsengänger); "Dachgugge", a roof ornament, for what Claude
+  read "Dreissigjährige", like "Firstgugge" above it. 28 marks of doubt
+  remain in document 2. Published at the editor's word the same day.
 
 ## Provenance
 
@@ -143,6 +149,22 @@ first field name there is "Bronikel"), and the second "[Sm…?]" on page 34.
 Breyer's S before m or w, and before t, is not to be trusted to the first
 reading. **Answered (2026-10-14):** Swięcia both times, and St[y?]pin;
 Swięcia is now matched three times in the notebook.
+
+**The editor's corrections to document 1** (2026-10-14), after reading
+the English against the scans: `intake/editor_corrections.py` (a record, not
+to be run again) lists every one. The main ones: Grodziec for "Smaszew" and
+Ciswica for "Czarnica" (p. 4); "Westlig[?] der Schule" and "in Grądzeń"
+(p. 8); Moraß (p. 9); "In Emilienheim" is the heading of the field names
+on p. 13; gestor[ben] (p. 14); the "Breslauer u. Züllichauer" of p. 16 are
+people, and "Peisern Holl." the Pyzdry Hollendry; Ed[uard] Zelmer, and the
+"him" of the examination is Zelmer (p. 17); "heiratstüchtige" glosses
+Züchten (p. 19); Oldergschie[h?] (p. 22); [gefinkt?] (p. 23); Chruściki
+(p. 27); Fam[?], Kinder and Birke in the photo log; the photo notes on p. 31
+separated from the table of land classes. The sayings on pp. 24 and 27 keep
+their German in the English. **Page 35** was the editor's reading, completed
+from the scan: "weil", "ihn" "herausgerettet", "i. d. [Hölle?]", "[von?]",
+"Pfaffen". Years shown "1,907" were the edition's thousands grouping, now
+taking 1500 to 1999 as years (`numerals.py`).
 
 ## The English and the summary
 

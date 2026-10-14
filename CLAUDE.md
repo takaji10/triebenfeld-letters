@@ -110,10 +110,8 @@ so check them.
 
 ## Where things stand (2026-10-14)
 
-- **Published and pushed (2026-10-14)**: 569 documents in 40 holdings,
-  1589 to 1936. **Since then, on `main` and NOT published**: document 2 of
-  APP 53/968/0/-/669 (below); with it the figures are 570 documents and
-  824 marks of doubt, and nothing goes out from `main` without it. The last three, all from
+- **Everything is published and pushed (2026-10-14)**: 570 documents in
+  40 holdings, 1589 to 1936. The last three, all from
   the State Archive in Poznań, went out together at the editor's word
   (`docs/TODO.md`, sections 10 to 12). Two eras carry working names until
   the editor names them: `wlodzimierz` and `twentieth-century`
@@ -152,10 +150,9 @@ so check them.
     The editor answered three spot sheets (42 readings; 70 marks of
     doubt remain, on the inside covers and in the photo log, not asked). Its era is the new `twentieth-century`
     (editor, 2026-10-14; working name). Published 2026-10-14 with document
-    1 only. **Document 2**, the notebook "V. Grodziec Juli 1936" from the
-    editor's photos IMG_5192 to IMG_5205, was added the same day and is NOT
-    published. Its sheet readings4 is answered and worked in; a short
-    sheet `review/app539680669/readings5.csv` (three rows) waits.
+    1. **Document 2**, the notebook "V. Grodziec Juli 1936" from the
+    editor's photos IMG_5192 to IMG_5205, was added the same day, its
+    readings checked by the editor on two spot sheets, and published.
 - All cloud branches are in `main` (2026-10-14).
 - **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and
   published 2026-10-13), "Die neuesten topografischen Nachrichten von

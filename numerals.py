@@ -10,7 +10,8 @@ separator where they use one ("36,000 rtt", "80,000 écus").
 What is grouped:
   - every number of five digits or more;
   - a number of four digits when a currency or measure follows it ("1800 rt",
-    "2500 Morgen"), or when it cannot be a year (outside 1500-1899).
+    "2500 Morgen"), or when it cannot be a year (outside 1500-1999; the
+    edition reached 1936 with Breyer's notebooks, 2026-10-14).
 What is not:
   - a four-digit year standing alone ("1797", "in 1805");
   - a number already grouped, a decimal, a fraction or the "/m" thousands
@@ -46,7 +47,7 @@ def group_digits(text):
         if len(num) == 4:
             v = int(num)
             unit = re.match(r'\s*' + _UNIT, text[m.end():])
-            if 1500 <= v <= 1899 and not unit:
+            if 1500 <= v <= 1999 and not unit:
                 return num
         return _group(num)
     return _NUM.sub(f, text)

@@ -433,7 +433,7 @@ notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
       "V. Grodziec Juli 1936", Białobłoty and Dembe), if you want them.
 - [x] Published at your word, 2026-10-14.
 
-## 13. APP 53/968/0/-/669, document 2: Breyer's notebook "V. Grodziec Juli 1936" (added 2026-10-14, not published)
+## 13. APP 53/968/0/-/669, document 2: Breyer's notebook "V. Grodziec Juli 1936" (added and published 2026-10-14)
 
 Your photos IMG_5192 to IMG_5205, added to the published holding as its
 second document: 25 pages read from the photos, translated, summarised and
@@ -443,9 +443,6 @@ inside the file is upright, only the camera's flag said otherwise. Details:
 
 - [x] You answered the spot sheet "Readings in Breyer's second notebook"
       (15 rows, 2026-10-14). Worked in the same day.
-- [ ] **You: the spot sheet "Three more in Breyer's second notebook"**
-      (three rows: two the last pictures cut off, and the line under
-      "Firstgugge"). Served with `python pipeline/review/queries.py --unit
-      app539680669 --sheet readings5.csv` (port 4102).
-- [ ] **You: say when to publish.** The holding is live with document 1
-      only; publishing adds document 2.
+- [x] You answered the sheet "Three more in Breyer's second notebook"
+      (2026-10-14). Worked in the same day.
+- [x] Published at your word, 2026-10-14.

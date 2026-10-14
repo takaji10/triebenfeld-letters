@@ -146,13 +146,13 @@ Józefow; seltener i. Zagórow
 mehr nach Lissa-Peisern
 heiraten auch aus dem""",
  '0003_a1': """Posenschen.
-Aus Smaszew Gem.
+Aus Grodziec Gem.
 heiraten aus Orlin
 u. Białobłoty, Obory
 auch Borowiec in die
 Zagórower Gem.
 seltener: Wojciechowo,
-Czarnica, Grondy.
+Ciswica, Grondy.
 —o—
 Wrąbczynek. Kolonia
 mit Polen stark durch¬
@@ -196,7 +196,7 @@ Wohnhäuser in annähre[t/s?]den Fachwerk
 Restgut Trąbczyn.
 Jesse gekauft, wann?
 Wie ist das Land klassiert? i. Mich.""",
- '0005_a1': """[?] [?] der [?]
+ '0005_a1': """Westlig[?] der Schule
 Mielke
 in Łazinsk.
 „Die Büschen" Flurnamen
@@ -206,9 +206,9 @@ Wirtschaften: „[Gehege?]"
 „Rotkapp"
 „Die Noga"
 ([?] Fuß)
-„Trieb" [?] „[Gehege?]" [?] in [?]""",
+„Trieb" [?] „[Gehege?]" [?] in Grądzeń""",
  '0005_a2': """„Bärwinkel"
-„Morast". —
+„Moraß". —
 —o—
 Alter Krüger (86 J.)
 Sohn d. Krüg. im Posenschen Schmied.
@@ -278,7 +278,8 @@ Bei d. Schule „Altes Holland"
 „Neues Holland"
 „Neu-Warschau"
 Der Kanal heisst „Graben"
-Baustellen. In Emilienheim.
+In Emilienheim.
+Baustellen.
 „Kafeln" „Viermorgen\"""",
  '0008_a1': """Man findet noch alte
 Kühnstubben. (gräbt ihn
@@ -289,7 +290,7 @@ Friedhof: Józefow
 Agnes Schütz, geb. Neumann
 In Neustädtl in Schlesien,
 geb. 17. IV 1832
-31. I. 1864 [gestor…?]""",
+31. I. 1864 gestor[ben]""",
  '0008_a2': """Peltzer (vom Kulturbund)
 zwei Mal im
 Seminar aufgenommen.
@@ -330,7 +331,7 @@ waren i. d. Schule 186 Kinder.
 Lehrer i. Łazinsk:
 Mielke seit 1925.
 Klingbeil war 9 Jahre.
-Zelmer Ed. war 34 Jahre.
+Zelmer Ed[uard] war 34 Jahre.
 aus Łazinsk
 Radke 10 Jahre
 Rasch 50 Jahre
@@ -354,8 +355,8 @@ Die Oborer: Hockerling.""",
 —o—
 Auf d. Mädchen
 sagt man „[Züchten?]"
-in Zamęty.
 heiratstüchtige
+in Zamęty.
 Plötzer = Kavaliere
 Wenn sie grob sprechen:
 Hockerlinge.
@@ -397,13 +398,13 @@ Flurnamen
 2) Steinbruch
 3) Grüne [Kaveln?]
 4) Gänseblotte
-5) Gä[ehe?]blotte
+5) Oldergschie[h?]
 6) Griefenberge.
 7) Grosse Blotte
 8) Baustellen.""",
  '0012_a2': """Ein [Gullat?], [Hormann?]
 nach Russland. Budendorf
-ge[?]kt, vor 50 Jahren.
+[gefinkt?], vor 50 Jahren.
 —o—
 Bruch ist hinter Oleśnica
 Tarszewo, Olchowo, Mały
@@ -461,7 +462,7 @@ nach Brasilien mit ihrem Manne.
 die Epistel drin, konnte man
 zusammen mit Kantor lesen.""",
  '0014_a2': """Tarszewo, Olchowo, Mały
-Las, Chruścik — Brücher
+Las, Chruściki — Brücher
 „sprechen langsam gedehnt
 „j" anstatt g
 „jejen" „jejangen"
@@ -489,8 +490,8 @@ nieużytek
 (Matura gemacht das schwerste i. Leben)
 Früher Breslauer Gesang¬
 bücher.
-(als Kind immer Pastor werden. —)
 Ein Sohn d. Schultz Pastor i. Deutschl.
+(als Kind immer Pastor werden. —)
 Postbeamte, Missionar, Indien, Eng¬
 land, Krieg, Dänemark, Rostock.""",
  '0015_a2': """Zur Schulgem. gehören:
@@ -516,7 +517,7 @@ um 1900""",
 Emilienheim
 Łazinsk
 Sonne
-N 4 Haus 12 1/25
+N 4 Fam[?] 12 1/25
 Ohne 6,3
 1 Uhr 8 Mann 1/25 B. 6
 7. Haus 1/10 Bl. 9
@@ -531,7 +532,7 @@ Pole, Ladenbesitzer, zahlt kein Steuern""",
  '0016_a2': """N 6, 10 Uhr Sonne Bl. 18, 1/10
 7 " " B. 25 1/10 Mädch.
 Janina Bednarek
-Michalinow!
+Michalinow
 —o—
 Haus 11 Uhr,
 Kind 25 Bl. 1/10
@@ -540,18 +541,22 @@ Fam.
 Morg.
 Emilienheim N 1, Bethaus
 7. 1933 12 Uhr, Gf
-I Kl. 14 Mor. Bl. 9. 1/10 Sek
-II " 235 " Land.
-III " 25 " 5 Uhr Bl. 12
-IV " 49 " Gf. 1/5
+I Kl. 14 Mor.
+II " 235 "
+III " 25 "
+IV " 49 "
 Nieużyt. 14 "
-337 morg.""",
+337 morg.
+Bl. 9. 1/10 Sek
+Land.
+5 Uhr Bl. 12
+Gf. 1/5""",
  '0017_a1': """N 4 Haus B. 12, Gf. 1/5 Sek 4 Uhr
 N 6 Krüger Bl. 9. Gf 1/5 " 4 Uhr
 Sonne
 N 8 Schule Lehr. Bl. 12. Gf. 1/5 " 12½ Uhr
 Sonn
-5 [Kistler?] Bl. 18 Ohne 1/15 "
+5 Kinder Bl. 18 Ohne 1/15 "
 3 " Bl. 12 " 1/25 "
 Sonne
 N 1 Neue [W…?]. Bl. 12 Ohne 1/10 5!
@@ -581,7 +586,7 @@ Grabie, Landwirt. 5½ " Ohne Bl. 9. 1/10
 Frau Vogel, 3 Uhr, Gf. Bl. 4,5 1/25
 Montag
 N 9 Wirtsch. 7 Uhr Bl. 9 1/2 Sek Oh.
-3 [Mielke?] 9 Uh Bl. [?] 1/10 Sek O.
+3 Birke 9 Uh Bl. [?] 1/10 Sek O.
 6 Obory 10 " Bl. 9 1/10 Gf""",
  '0018_a1': """Landgüte:
 Białobł.
@@ -602,15 +607,15 @@ Trockene, Neuland, hinterm
 Kirchhof; Vermessen: Dornstein
 nach Izbitz „[?]" im Gute
 „Grochowisko".""",
- '0018_a2': """[?]: Wasserquelle
-haben d. Polen verbo¬
-ten d. [Rutkowski?] [?]
-[?] [?] [?]
-den [Rutkowski?] nach [Wars…?]
-abgeholt, die Gem. [?]
-[?].
-[?] das Pflaster [?] [?]
-[?] Posen u. [Pfaffen?]
+ '0018_a2': """Gebet[buch?]: Wasserquelle
+haben d. Pastoren verbo¬
+ten d. Rutkowski [weil?]
+[sein?] [?] [vorynier?]
+den Rutkowski nach Warschau
+abgeholt, die Gem. [ihn?]
+herausgerettet.
+[?] das Pflaster i. d. [Hölle?]
+[von?] Pastoren u. Pfaffen
 fertig ist, dann geht
 die Welt unter.""",
 }
@@ -625,8 +630,8 @@ SCANS2 = [(PHOTOS + '/IMG_5192.jpg', None, '5192_a', None)] + [
 DOCS = [(1, PAGE_IDS), (2, PAGE_IDS2)]
 
 S = {
- 1: ('Notizbuch Albert Breyers, mit Bleistift geschrieben, auf dem Umschlag „Juli 1936“, „Łazinsk“ und „Emilienheim“: Notizen nach den Angaben der Bewohner der deutschen Siedlungen der Gemeinde Trąbczyn. Die Kolonie Łazińsk, bei der der Stempel ihres Schulzen im Heft steht, hat 2040 Morgen und 250 Wirte; vom Gut Trąbczyn erhielt sie um 1880, mit Fragezeichen, Servitute, die beim Notar dem alten Land zugeschrieben wurden und hoch besteuert sind. Breyer fragt, wann das Restgut Trąbczyn parzelliert wurde, das Jesse kaufte und das heute Włodzimierow heißt. Er notiert die Lehrer in Łazińsk: Mielke seit 1925, Klingbeil 9 Jahre, Ed. Zelmer 34 Jahre, Radke 10 Jahre, Rasch 50 Jahre, der noch mit 80 Jahren unterrichtete; am ersten Unterrichtstag waren 186 Kinder in der Schule, und zehn Jahre lang hatte ein Lehrer 170 Schüler. Die Militärbehörden klagten beim Unterrichtsministerium, die Rekruten der Gemeinde Trąbczyn könnten nicht Polnisch. Viele sind nach Wolhynien ausgewandert, aus Łazinsk auch nach Russland und zurück, andere nach Amerika und Brasilien. Emilienheim wurde an Drzewce angeschlossen, weil 11 Personen zur Zahl 200 fehlten. Weiter: Heiratskreise, Gesangbücher aus Breslau und Züllichau, Flurnamen, Redensarten der „Brücher“ („ick war do“), Häuser, Scheunen und hölzerne Grabbretter. Die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift „Juli 1935“ und nennt Gostynin, Leonberg und Grabie.',
-     'Albert Breyer\'s notebook, written in pencil, with "Juli 1936", "Łazinsk" and "Emilienheim" on the cover: notes from what the people of the German settlements of the commune of Trąbczyn told him. The colony of Łazińsk, beside which the stamp of its village mayor stands in the notebook, has 2,040 Morgen and 250 farmers; about 1880, with a question mark, it received servitudes from the Trąbczyn estate, which were added to the old land at the notary\'s and are heavily taxed. Breyer asks when the remaining manor land of Trąbczyn was parcelled out, which Jesse bought and which is now called Włodzimierow. He lists the teachers of Łazińsk: Mielke since 1925, Klingbeil 9 years, Ed. Zelmer 34 years, Radke 10 years, Rasch 50 years, who still taught at 80; on the first day of lessons there were 186 children in the school, and for ten years one teacher had 170 pupils. The military authorities complained to the Ministry of Education that the recruits of the commune of Trąbczyn could not speak Polish. Many emigrated to Volhynia, people from Łazinsk also to Russia and back, others to America and Brazil. Emilienheim was joined to Drzewce because 11 persons were lacking to make 200. Further notes cover marriage circles, hymn books from Wrocław and Züllichau, field names, the speech of the "Brücher" ("ick war do"), houses, barns and wooden grave boards. The last pages are a log of his photographs; one of them is headed "Juli 1935" and names Gostynin, Leonberg and Grabie.'),
+ 1: ('Notizbuch Albert Breyers, mit Bleistift geschrieben, auf dem Umschlag „Juli 1936“, „Łazinsk“ und „Emilienheim“: Notizen nach den Angaben der Bewohner der deutschen Siedlungen der Gemeinde Trąbczyn. Die Kolonie Łazińsk, bei der der Stempel ihres Schulzen im Heft steht, hat 2040 Morgen und 250 Wirte; vom Gut Trąbczyn erhielt sie um 1880, mit Fragezeichen, Servitute, die beim Notar dem alten Land zugeschrieben wurden und hoch besteuert sind. Breyer fragt, wann das Restgut Trąbczyn parzelliert wurde, das Jesse kaufte und das heute Włodzimierow heißt. Er notiert die Lehrer in Łazińsk: Mielke seit 1925, Klingbeil 9 Jahre, Ed[uard] Zelmer 34 Jahre, Radke 10 Jahre, Rasch 50 Jahre, der noch mit 80 Jahren unterrichtete; am ersten Unterrichtstag waren 186 Kinder in der Schule, und zehn Jahre lang hatte ein Lehrer 170 Schüler. Die Militärbehörden klagten beim Unterrichtsministerium, die Rekruten der Gemeinde Trąbczyn könnten nicht Polnisch. Viele sind nach Wolhynien ausgewandert, aus Łazinsk auch nach Russland und zurück, andere nach Amerika und Brasilien. Emilienheim wurde an Drzewce angeschlossen, weil 11 Personen zur Zahl 200 fehlten. Weiter: Heiratskreise, Gesangbücher aus Breslau und Züllichau, Flurnamen, Redensarten der „Brücher“ („ick war do“), Häuser, Scheunen und hölzerne Grabbretter. Die letzten Seiten sind ein Verzeichnis seiner Aufnahmen; eine davon trägt die Überschrift „Juli 1935“ und nennt Gostynin, Leonberg und Grabie.',
+     'Albert Breyer\'s notebook, written in pencil, with "Juli 1936", "Łazinsk" and "Emilienheim" on the cover: notes from what the people of the German settlements of the commune of Trąbczyn told him. The colony of Łazińsk, beside which the stamp of its village mayor stands in the notebook, has 2,040 Morgen and 250 farmers; about 1880, with a question mark, it received servitudes from the Trąbczyn estate, which were added to the old land at the notary\'s and are heavily taxed. Breyer asks when the remaining manor land of Trąbczyn was parcelled out, which Jesse bought and which is now called Włodzimierow. He lists the teachers of Łazińsk: Mielke since 1925, Klingbeil 9 years, Ed[uard] Zelmer 34 years, Radke 10 years, Rasch 50 years, who still taught at 80; on the first day of lessons there were 186 children in the school, and for ten years one teacher had 170 pupils. The military authorities complained to the Ministry of Education that the recruits of the commune of Trąbczyn could not speak Polish. Many emigrated to Volhynia, people from Łazinsk also to Russia and back, others to America and Brazil. Emilienheim was joined to Drzewce because 11 persons were lacking to make 200. Further notes cover marriage circles, hymn books from Wrocław and Züllichau, field names, the speech of the "Brücher" ("ick war do"), houses, barns and wooden grave boards. The last pages are a log of his photographs; one of them is headed "Juli 1935" and names Gostynin, Leonberg and Grabie.'),
  2: ('Zweites Notizbuch Albert Breyers vom Juli 1936, mit Bleistift geschrieben, auf dem Umschlag „V. Grodziec Juli 1936“; es handelt jedoch von Łazińsk und den Nachbarorten. Vor 65 Jahren seien im März sehr viele aus Łazińsk nach Russland gegangen, einen Monat zu Fuß; kurz vor dem Krieg seien auch Leute aus Wolhynien zurückgekehrt. Włodzimierów sei vor 25 Jahren vom Gut Trąbczyn parzelliert worden, dessen Besitzer Graf Miączyński hieß, fast alles an Deutsche; das Restgut hatte etwa 60 Morgen, Jesse kam aus Białobłoty. Auf Waldland des Gutes Trąbczyn, das ein Jude gekauft und 5–6 Jahre vor dem Krieg an Deutsche weiterverkauft hatte, liegt die Neusiedlung „Trompczyn D.“ mit Bochenski, Kinast, Retzlaff, Schwarz, Lipelt, Schmechel und einem Polen. In Łazińsk ist nach dem Arzt Brede in Zagórów die Schwindsucht verbreitet; beim Gebet kniet die Gemeinde. Deutsche aus Łazińsk erhielten durch die Kolonisationskommission drainiertes Land und wurden in Ostfelde bei Września von den Polen vertrieben. Weiter: Lehrer und Küster von 1895 bis 1928, Plattdeutsch und Kaschubisch, Servitute von den Gütern Biała, Niniew und Chocz, Ständer- und pommersche Scheunen, Grabbretter in Kazimierka und Józefów und uneheliche Kinder. Die letzte Seite nennt Jahreszahlen: ein Züllichauer Gesangbuch von 1744, Alt-Kazimierka 1782, Józefów 9. November 1790, „vom Gute Chocz“, dessen Besitzer Lipski hieß.',
      'Albert Breyer\'s second notebook of July 1936, written in pencil, with "V. Grodziec Juli 1936" on the cover; it is, however, about Łazińsk and the places around it. 65 years earlier, in March, very many people from Łazińsk had gone to Russia, a month on foot; shortly before the war people from Volhynia had come back as well. Włodzimierów had been parcelled out 25 years earlier from the Trąbczyn estate, whose owner was called Count Miączyński, almost all of it to Germans; the remaining manor had some 60 Morgen, and Jesse came from Białobłoty. On forest land of the Trąbczyn estate, which a Jew had bought and sold on to Germans 5–6 years before the war, lies the new settlement "Trompczyn D." with Bochenski, Kinast, Retzlaff, Schwarz, Lipelt, Schmechel and a Pole. In Łazińsk, according to the doctor Brede in Zagórów, consumption is widespread; during prayers the congregation kneels. Germans from Łazińsk received drained land through the Colonisation Commission and were driven out by the Poles at Ostfelde near Września. Further notes cover teachers and sextons from 1895 to 1928, Low German and Kashubian, servitudes from the estates of Biała, Niniew and Chocz, post-built and Pomeranian barns, grave boards at Kazimierka and Józefów, and illegitimate children. The last page gives dates: a Züllichau hymn book of 1744, Old Kazimierka 1782, Józefów 9 November 1790, "from the Chocz estate", whose owner was called Lipski.'),
 }

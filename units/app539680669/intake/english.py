@@ -45,13 +45,13 @@ Józefow; less often in Zagórow
 more towards Lissa-Pyzdry
 they also marry from""",
  '0003_a1': """Poznań province.
-From the Smaszew congregation
+From the Grodziec congregation
 they marry from Orlin
 and Białobłoty, Obory,
 also Borowiec into the
 Zagórów congregation;
 less often: Wojciechowo,
-Czarnica, Grondy.
+Ciswica, Grondy.
 —o—
 Wrąbczynek. A colony
 much mixed with Poles; they
@@ -94,7 +94,7 @@ Dwelling houses in [uncertain: annähre…den] half-timbering
 Remaining manor land of Trąbczyn.
 Jesse bought it, when?
 How is the land classed? in Michalinow.""",
- '0005_a1': """[illegible] [illegible] of the [illegible]
+ '0005_a1': """[uncertain: Westlig] of the school
 Mielke
 in Łazinsk.
 "Die Büschen" (the bushes), field names
@@ -104,9 +104,9 @@ Farms: "[uncertain: Gehege]"
 "Rotkapp"
 "Die Noga"
 ([illegible] foot)
-"Trieb" [illegible] "[uncertain: Gehege]" [illegible] in [illegible]""",
+"Trieb" [illegible] "[uncertain: Gehege]" [illegible] in Grądzeń""",
  '0005_a2': """"Bärwinkel"
-"Morast" (bog). —
+"Moraß" (bog). —
 —o—
 Old Krüger (86 years old)
 Son of a Krüger, a smith in the Poznań province.
@@ -176,7 +176,8 @@ By the school "Altes Holland" (Old Holland)
 "Neues Holland" (New Holland)
 "Neu-Warschau" (New Warsaw)
 The canal is called "Graben" (the ditch)
-Baustellen (building plots). In Emilienheim.
+In Emilienheim.
+Baustellen (building plots).
 "Kafeln" "Viermorgen\"""",
  '0008_a1': """Old Kühnstubben (pine stumps) are still
 found. (dug
@@ -187,7 +188,7 @@ Cemetery: Józefow
 Agnes Schütz, née Neumann
 In Neustädtl in Silesia,
 born 17 April 1832
-31 January 1864 [uncertain: died…]""",
+31 January 1864 died""",
  '0008_a2': """Peltzer (of the Kulturbund)
 twice
 admitted to the seminary.
@@ -203,8 +204,8 @@ The military authorities complained
 to the Ministry of Education that
 the recruits of the commune of Trąbczyn
 cannot speak Polish.""",
- '0009_a1': """In the Pyzdry Hollands
-Wrocław and Züllichau [books]
+ '0009_a1': """In the Pyzdry Hollendry
+people from Wrocław (Breslau) and Züllichau
 People from Łazinsk
 went to Russia,
 and came back too.
@@ -228,12 +229,12 @@ there were 186 children in the school.
 Teachers in Łazinsk:
 Mielke since 1925.
 Klingbeil was there 9 years.
-Ed. Zelmer was there 34 years.
+Ed[uard] Zelmer was there 34 years.
 from Łazinsk
 Radke 10 years
 Rasch 50 years
 someone else passed the
-examination for him.""",
+examination for him (Zelmer).""",
  '0010_a1': """Rasch was still a teacher
 at 80, and died here
 in Łazinsk.
@@ -250,10 +251,10 @@ The people of Obory: Hockerling.""",
  '0010_a2': """Obory cherry-crackers
 —o—
 Of the girls
-they say "[uncertain: Züchten]"
+they say "[uncertain: Züchten]",
+marriageable,
 in Zamęty.
-marriageable
-Plötzer = gallants
+Plötzer = Kavaliere (gallants, bachelors)
 When they speak coarsely:
 Hockerlinge.
 In Orlin and Białobłoty:
@@ -292,13 +293,13 @@ Field names
 2) Steinbruch (quarry)
 3) Grüne [uncertain: Kaveln] (green strips)
 4) Gänseblotte (goose mire)
-5) Gä[uncertain: ehe]blotte
+5) Oldergschie[uncertain: h]
 6) Griefenberge.
 7) Grosse Blotte (great mire)
 8) Baustellen (building plots).""",
  '0012_a2': """A [uncertain: Gullat], [uncertain: Hormann]
 to Russia. Budendorf
-ge[illegible]kt, 50 years ago.
+[uncertain: gefinkt], 50 years ago.
 —o—
 The Bruch (marsh) is beyond Oleśnica,
 Tarszewo, Olchowo, Mały
@@ -313,8 +314,9 @@ marsh.""",
  '0013_a1': """The people in the Bruch speak
 in the Swięcia way, everything
 short.
-"In the door a linen
-panel against the heat"
+"In der Tür eine Leinwandplatte
+gegen d. Hitze" (in the door a linen
+panel against the heat)
 —o—
 The houses are posts filled
 with clay, cold in
@@ -322,7 +324,7 @@ winter.
 —o—
 Schabeln do not thrive, poor
 land.
-"they all like poppy-seed dumplings"
+"alle essen gern Mohnklösse" (they all like poppy-seed dumplings)
 —o—
 At Schultz's the kitchen is clean.
 —o—
@@ -356,14 +358,14 @@ to Brazil with her husband.
 the Epistle was in it, one could
 read it along with the cantor.""",
  '0014_a2': """Tarszewo, Olchowo, Mały
-Las, Chruścik — Brücher
+Las, Chruściki — Brücher
 "speak slowly, drawn out,
 "j" instead of g
 "jejen" "jejangen" (gegen, gegangen)
 —o—
 "ick war do" = Brücher.
-I was there
-er hud = he had
+ich war da (I was there)
+er hud = er hatte (he had)
 —o—
 old Schultz
 In every Holland a different
@@ -384,8 +386,8 @@ waste land
 (passed the Matura, the hardest thing in life)
 Formerly Wrocław hymn
 books.
-(as a child always [wanted to] be a pastor. —)
 A son of Schultz's a pastor in Germany.
+(as a child always [wanted to] be a pastor. —)
 Post official, missionary, India, England, war, Denmark, Rostock.""",
  '0015_a2': """The school community includes:
 Augustynow, Włodzimierow
@@ -410,7 +412,7 @@ about 1900""",
 Emilienheim
 Łazinsk
 Sun
-No. 4 house 12 1/25
+No. 4 [uncertain: Fam.] 12 1/25
 without 6.3
 1 o'clock 8 man 1/25 ap. 6
 7. house 1/10 ap. 9
@@ -425,7 +427,7 @@ Pole, a shopkeeper, pays no taxes""",
  '0016_a2': """No. 6, 10 o'clock, sun, ap. 18, 1/10
 7 " " ap. 25 1/10 girl
 Janina Bednarek
-Michalinow!
+Michalinow
 —o—
 House 11 o'clock,
 child 25 ap. 1/10
@@ -434,18 +436,22 @@ family
 morning
 Emilienheim No. 1, prayer house
 7. 1933 12 o'clock, yellow filter
-Class I 14 Morgen ap. 9. 1/10 sec.
-II " 235 " land.
-III " 25 " 5 o'clock ap. 12
-IV " 49 " yellow filter 1/5
+Class I 14 Morgen
+II " 235 "
+III " 25 "
+IV " 49 "
 Waste land 14 "
-337 Morgen.""",
+337 Morgen.
+ap. 9. 1/10 sec.
+land.
+5 o'clock ap. 12
+yellow filter 1/5""",
  '0017_a1': """No. 4 house ap. 12, yellow filter 1/5 sec. 4 o'clock
 No. 6 Krüger ap. 9, yellow filter 1/5 " 4 o'clock
 sun
 No. 8 school, teacher ap. 12, yellow filter 1/5 " 12½ o'clock
 sun
-5 [uncertain: Kistler] ap. 18 without 1/15 "
+5 children ap. 18 without 1/15 "
 3 " ap. 12 " 1/25 "
 sun
 No. 1 new [uncertain: W…]. ap. 12 without 1/10 5!
@@ -475,7 +481,7 @@ Grabie, farmer 5½ " without ap. 9. 1/10
 Mrs Vogel, 3 o'clock, yellow filter ap. 4.5 1/25
 Monday
 No. 9 farm 7 o'clock ap. 9 1/2 sec. without
-3 [uncertain: Mielke] 9 o'clock ap. [illegible] 1/10 sec. without
+3 birch 9 o'clock ap. [illegible] 1/10 sec. without
 6 Obory 10 " ap. 9 1/10 yellow filter""",
  '0018_a1': """Estates:
 Białobłoty
@@ -496,14 +502,14 @@ Dry, new land, behind the
 churchyard; surveyed: Dornstein
 towards Izbitz "[illegible]" on the estate
 "Grochowisko".""",
- '0018_a2': """[illegible]: spring of water
-the Poles have forbidden the [uncertain: Rutkowski] [illegible]
-[illegible] [illegible] [illegible]
-took [uncertain: Rutkowski] to [uncertain: Wars…]
-away, the commune [illegible]
-[illegible].
-[illegible] the paving [illegible] [illegible]
-[illegible] Poznań and [uncertain: Pfaffen]
+ '0018_a2': """Prayer [uncertain: book]: spring of water
+the pastors have forbidden
+Rutkowski [uncertain: because]
+[uncertain: his] [illegible] [uncertain: vorynier]
+took Rutkowski away to Warsaw,
+the community rescued [uncertain: him].
+[illegible] the paving in [uncertain: hell]
+[uncertain: of] pastors and priests
 is finished, then the world
 will end.""",
 }
