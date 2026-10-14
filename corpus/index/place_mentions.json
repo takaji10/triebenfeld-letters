@@ -38402,9 +38402,10 @@
  {
   "entity": "swiecia",
   "display": "Swięcia",
-  "count": 48,
+  "count": 49,
   "documents": [
    "agad1169011745-1",
+   "app539680669-1",
    "app539680801-2",
    "app539680801-3",
    "oe1bu14525-11",
@@ -38872,6 +38873,15 @@
     "scan": "Oe_1_Bu_9454_0029_a2-L18_03.jpg",
     "line": 1061,
     "doc_line": 56
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Swięcer",
+    "page": 24,
+    "page_id": "0013_a1",
+    "scan": "APP_53_968_0_669_0013_a1-L1_24.jpg",
+    "line": 330,
+    "doc_line": 305
    }
   ]
  },

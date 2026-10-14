@@ -55,9 +55,9 @@ channel. TEXT is the reading, line by line as on the page.
 - Not transcribed: his sketches (the fronts of houses and barns, 0003_a2;
   the corner bracing of a barn, 0005_a2; the shapes of grave boards in
   Łazińsk and Emilienheim, 0016_a1); the boxes and braces round notes.
-- A doubtful word broken across two lines is given whole on the second
-  line ("[Krainik?]", 0016_a1, where the page has "Krai-" / "nik"): a
-  mark of doubt must stand on one line for the counts.
+- A word broken across two lines is given whole on the second line
+  ("Strażniki", 0016_a1, where the page has "Kraż-" / "niki", first read
+  "[Krainik?]"): a mark of doubt must stand on one line for the counts.
 - The stamp of the village headman of the colony of Łazińsk on 0006_a1 is
   given in its own three lines, as it reads.
 - The editor's answers on the spot sheet "Readings in Breyer's notebook"
@@ -66,6 +66,19 @@ channel. TEXT is the reading, line by line as on the page.
   Hossmann[?]; Neumann L. 1889 – 1849 (the editor's reading; the years run
   backwards as written); Włodzimierow for Wlodziemen[?]; Bärwinkel. Gullat[?],
   1928[?] and Wolwachówka[?] stand with their doubt.
+- The editor's answers on the second spot sheet, "More readings in
+  Breyer's notebook" (2026-10-14, readings2_answers.json), are in TEXT as
+  the editor typed them, with the edition's marks: Mühle (not Müller);
+  annähre[t/s?]den; Birk[?]la[ch?] (not Kavelung); Rotkapp; Noga (not
+  Kroge: the same field name stands on 0007_a2); Kühnstubben; Lieder;
+  Oborscher; Zamęty; Gä[ehe?]blotte; Griefenberge (typed "Griefenbergr.",
+  taken as the evident slip for the "-berge" first read); ge[?]kt (not
+  gekauft); Hausker[?] (the editor could not tell, and offered it);
+  Swięcer (not Smięcer); Schabeln; Olszewo; vortüng Kr[?] (not
+  vorläufig); Parkre; Strażniki (a village, not the name Krainik);
+  St[?]pin (not Sm…); Paprotk[?]; Izbitz. Lodz., Kb., Gehege, grob,
+  Züchten (the editor offered Züchter), Kaveln and the word before "i.
+  Brasilien" stand with their doubt.
 - The English (ENGLISH) translates the notes and keeps the names as he
   wrote them; Trąbczyn takes the edition's spelling.
 """
@@ -166,7 +179,7 @@ Land: 1) Baustücke
 1, 2, 3 Morg.
 Schulzenland sind 2 M. L.
 1 M. W.
-1 Morg. Wiese für [Müller?]""",
+1 Morg. Wiese für Mühle""",
  '0004_a2': """Schule 7 Morgen.
 —o—
 Meist Breslauer Gesang¬
@@ -175,7 +188,7 @@ Nach Wolhynien
 sind viele ausgewand.
 nach Nowograd-Wolyn.
 —o—
-Wohnhäuser in [?] Fachwerk
+Wohnhäuser in annähre[t/s?]den Fachwerk
 Restgut Trąbczyn.
 Jesse gekauft, wann?
 Wie ist das Land klassiert? i. Mich.""",
@@ -185,9 +198,9 @@ in Łazinsk.
 „Die Büschen" Flurnamen
 Wirtschaften: „[Gehege?]"
 —o—
-„Die [Kavelung?]"
-„[Rot…?]"
-„Die [Kroge?]"
+„Die Birk[?]la[ch?]"
+„Rotkapp"
+„Die Noga"
 ([?] Fuß)
 „Trieb" [?] „[Gehege?]" [?] in [?]""",
  '0005_a2': """„Bärwinkel"
@@ -264,9 +277,9 @@ Der Kanal heisst „Graben"
 Baustellen. In Emilienheim.
 „Kafeln" „Viermorgen\"""",
  '0008_a1': """Man findet noch alte
-[Kühnstubben?]. (gräbt ihn
+Kühnstubben. (gräbt ihn
 aus)
-1929 [Lieder?].
+1929 Lieder.
 im Bresl. Buch.
 Friedhof: Józefow
 Agnes Schütz, geb. Neumann
@@ -333,11 +346,11 @@ tod, ehe wir hinkommen.
 Pastor wendet ein: Viel¬
 leicht. —
 Die Oborer: Hockerling.""",
- '0010_a2': """[Oborscher?] Kirschknacker
+ '0010_a2': """Oborscher Kirschknacker
 —o—
 Auf d. Mädchen
 sagt man „[Züchten?]"
-in [?].
+in Zamęty.
 heiratstüchtige
 Plötzer = Kavaliere
 Wenn sie grob sprechen:
@@ -380,13 +393,13 @@ Flurnamen
 2) Steinbruch
 3) Grüne [Kaveln?]
 4) Gänseblotte
-5) [?]
-6) [Gr…berge?].
+5) Gä[ehe?]blotte
+6) Griefenberge.
 7) Grosse Blotte
 8) Baustellen.""",
  '0012_a2': """Ein [Gullat?], [Hormann?]
 nach Russland. Budendorf
-[gekauft?], vor 50 Jahren.
+ge[?]kt, vor 50 Jahren.
 —o—
 Bruch ist hinter Oleśnica
 Tarszewo, Olchowo, Mały
@@ -396,10 +409,10 @@ Menschen werden „Die
 Brücher" genannt.
 —o—
 Myśliborer Holl., Węglewer
-[?] Holl. Kein
+[Hausker?] Holl. Kein
 Bruch.""",
  '0013_a1': """Die Leute im Bruch sprechen
-nach d. [Smięcer?] Sprache, alles
+nach d. Swięcer Sprache, alles
 kurz.
 „In der Tür eine Leinwand¬
 platte gegen d. Hitze"
@@ -408,7 +421,7 @@ Die Häuser Ständer mit
 Lehm ausgefüllt, im Win¬
 ter kalt.
 —o—
-[Schabeln?] geraten nicht, schlechtes
+Schabeln geraten nicht, schlechtes
 Land.
 „alle essen gern Mohnklösse"
 —o—
@@ -432,7 +445,7 @@ gleich. —o—
 sagen i. Emilienheim.""",
  '0014_a1': """Neues Holl. i. Łazinsk?
 Wie sprechen i. Emilienheim?
-Wie in Tarszewo, [Olszewo?]
+Wie in Tarszewo, Olszewo
 Wann parzelliert Restgut
 Trąbczyn? Jesse gekauft,
 wann? Heisst heute Włodzi¬
@@ -479,7 +492,7 @@ land, Krieg, Dänemark, Rostock.""",
  '0015_a2': """Zur Schulgem. gehören:
 Augustynow, Włodzimierow
 Michalinow, auch Drzewce.
-[vorläufig?] um 1876
+[vortüng Kr?] um 1876
 Nach Wolhynien sind aus¬
 gewandert 4 Brüder d. Schulz,
 in d. Gegend v. [Wolwachówka?],
@@ -489,7 +502,7 @@ Nach Amerika viel ge¬
 zogen, kam zurück, kaufte
 sich Land oder zahlte
 das angekaufte aus. Ein
-Sohn d. Schultz i. [Parkre?], ist
+Sohn d. Schultz i. Parkre, ist
 Farmer.
 Das Gut Drzewce parzelliert
 haben auch einige Deutsche
@@ -509,7 +522,7 @@ zahlen gut Abga¬
 ben sagte d. Steuerinspek.
 nicht zusammen¬
 schliessen; dann aber doch.
-[Krainik?]: im Dorfe, der einzige
+Strażniki: im Dorfe, der einzige
 Pole, Ladenbesitzer, zahlt kein Steuern""",
  '0016_a2': """N 6, 10 Uhr Sonne Bl. 18, 1/10
 7 " " B. 25 1/10 Mädch.
@@ -571,19 +584,19 @@ Białobł.
 Leit = Leine
 übergreigeln = überfahren
 Müller
-Vor 54 Jahren aus [Sm…?]
+Vor 54 Jahren aus St[?]pin
 nach Deutschl. zur Arbeit.
 kamen aus Emilienheim mit
 einem Mädchen zusammen
 und heirateten. —
-Neu Czarkow, Briesen, [Paprot…?]
+Neu Czarkow, Briesen, Paprotk[?]
 auch Brücher
 Psary verkopp. im J. 1868
 In [Sm…?] bei 6 Stücke: um 1868
 [Bloh.?]: hinterm Kanal.
 Trockene, Neuland, hinterm
 Kirchhof; Vermessen: Dornstein
-nach [Izbitz?] „[?]" im Gute
+nach Izbitz „[?]" im Gute
 „Grochowisko".""",
  '0018_a2': """[?]: Wasserquelle
 haben d. Polen verbo¬

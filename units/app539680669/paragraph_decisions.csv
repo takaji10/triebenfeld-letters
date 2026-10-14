@@ -19,12 +19,12 @@
 1,73,break,high,rubric,1.39,25,18,3) 4 Morgenstücke magdeb.,4) Wiesen b. Oleśnica
 1,74,break,high,rubric,1.17,21,18,4) Wiesen b. Oleśnica,"1, 2, 3 Morgen"
 1,76,break,high,rubric,1.17,21,18,4a) Wiesen b. Olchowo,"1, 2, 3 Morg."
-1,79,break,high,short_line,0.39,7,18,1 M. W.,1 Morg. Wiese für [Müller?]
+1,79,break,high,short_line,0.39,7,18,1 M. W.,1 Morg. Wiese für Mühle
 1,83,run,review,short_line,0.18,3,17,—o—,Meist Breslauer Gesang¬
 1,85,run,review,short_line,0.53,9,17,bücher. —,Nach Wolhynien
-1,89,run,review,short_line,0.18,3,17,—o—,Wohnhäuser in [?] Fachwerk
-1,96,run,review,short_line,0.48,6,12,Mielke,in Łazinsk.
-1,100,run,review,short_line,0.24,3,12,—o—,"„Die [Kavelung?]"""
+1,89,run,review,short_line,0.18,3,17,—o—,Wohnhäuser in annähre[t/s?]den Fachwerk
+1,96,run,review,short_line,0.57,6,10,Mielke,in Łazinsk.
+1,100,run,review,short_line,0.29,3,10,—o—,"„Die Birk[?]la[ch?]"""
 1,107,break,high,short_line+column,0.54,11,20,"„Bärwinkel""","„Morast"". —"
 1,108,break,high,short_line+column,0.54,11,20,"„Morast"". —",—o—
 1,109,run,review,short_line,0.15,3,20,—o—,Alter Krüger (86 J.)
@@ -44,7 +44,8 @@
 1,172,break,high,short_line,0.61,10,16,mannshoch.,—o—
 1,173,run,review,short_line,0.18,3,16,—o—,Der Graben geht bis Peisern
 1,178,run,review,short_line,0.67,11,16,"„Bärwinkel""","„Neues Holland"""
-1,187,run,review,short_line,0.24,4,17,aus),1929 [Lieder?].
+1,187,break,high,short_line+column,0.24,4,17,aus),1929 Lieder.
+1,188,break,high,short_line,0.71,12,17,1929 Lieder.,im Bresl. Buch.
 1,193,break,high,rubric,0.94,16,17,geb. 17. IV 1832,31. I. 1864 [gestor…?]
 1,197,run,review,short_line,0.44,11,25,zwei Mal im,Seminar aufgenommen.
 1,201,run,review,short_line,0.12,3,25,—o—,10 Jahre hindurch 170 Schüler
@@ -60,28 +61,27 @@
 1,248,run,review,short_line,0.14,3,22,—o—,Mutter schwer krank. Es
 1,257,run,review,short_line,0.41,9,22,leicht. —,Die Oborer: Hockerling.
 1,261,run,review,short_line,0.18,3,17,—o—,Auf d. Mädchen
-1,264,break,high,short_line,0.41,7,17,in [?].,heiratstüchtige
+1,264,break,high,short_line,0.59,10,17,in Zamęty.,heiratstüchtige
 1,268,break,high,short_line,0.71,12,17,Hockerlinge.,In Orlin u. Białoblot:
 1,272,break,high,short_line,0.71,17,24,Michalinow Olesn.,Kühe ziehen Erntewagen
 1,287,break,high,short_line+column,0.52,13,25,Nach Russland,Budendorfs
 1,288,run,review,short_line,0.4,10,25,Budendorfs,ist des Vaters Schwester
 1,294,run,review,short_line,0.68,17,25,sich aufgebaut. —,"Was Halwege war, ging"
 1,300,break,high,short_line,0.2,5,25,heim.,2 St. Religion i. d. Woche
-1,305,break,high,rubric+short_line,0.67,9,14,Flurnamen,1) Bronikel
-1,306,break,high,rubric,0.81,11,14,1) Bronikel,2) Steinbruch
-1,307,break,high,rubric,0.96,13,14,2) Steinbruch,3) Grüne [Kaveln?]
-1,308,break,high,rubric,1.33,18,14,3) Grüne [Kaveln?],4) Gänseblotte
-1,309,break,high,rubric,1.04,14,14,4) Gänseblotte,5) [?]
-1,310,break,high,rubric,0.44,6,14,5) [?],6) [Gr…berge?].
-1,311,break,high,rubric,1.11,15,14,6) [Gr…berge?].,7) Grosse Blotte
-1,312,break,high,rubric,1.19,16,14,7) Grosse Blotte,8) Baustellen.
+1,305,break,high,rubric+short_line,0.6,9,15,Flurnamen,1) Bronikel
+1,306,break,high,rubric,0.73,11,15,1) Bronikel,2) Steinbruch
+1,307,break,high,rubric,0.87,13,15,2) Steinbruch,3) Grüne [Kaveln?]
+1,308,break,high,rubric,1.2,18,15,3) Grüne [Kaveln?],4) Gänseblotte
+1,309,break,high,rubric,0.93,14,15,4) Gänseblotte,5) Gä[ehe?]blotte
+1,310,break,high,rubric,1.13,17,15,5) Gä[ehe?]blotte,6) Griefenberge.
+1,311,break,high,rubric,1.07,16,15,6) Griefenberge.,7) Grosse Blotte
+1,312,break,high,rubric,1.07,16,15,7) Grosse Blotte,8) Baustellen.
 1,318,run,review,short_line,0.13,3,23,—o—,Bruch ist hinter Oleśnica
 1,325,run,review,short_line,0.13,3,23,—o—,"Myśliborer Holl., Węglewer"
-1,327,break,high,short_line+column,0.61,14,23,[?] Holl. Kein,Bruch.
 1,332,break,high,short_line,0.23,5,22,kurz.,„In der Tür eine Leinwand¬
 1,335,run,review,short_line,0.14,3,22,—o—,Die Häuser Ständer mit
 1,338,break,high,short_line,0.41,9,22,ter kalt.,—o—
-1,339,run,review,short_line,0.14,3,22,—o—,"[Schabeln?] geraten nicht, schlechtes"
+1,339,run,review,short_line,0.14,3,22,—o—,"Schabeln geraten nicht, schlechtes"
 1,341,break,high,short_line,0.23,5,22,Land.,"„alle essen gern Mohnklösse"""
 1,343,run,review,short_line,0.14,3,22,—o—,Bei Schultz i. d. Küche sauber.
 1,345,run,review,short_line,0.14,3,22,—o—,Deutsche Dienstboten bei Schultz.
@@ -89,7 +89,7 @@
 1,354,run,review,short_line,0.12,3,25,—o—,Auf d. Friedhof i. Emilienheim
 1,357,run,review,short_line,0.56,14,25,wie in Łazinsk,auch die neuen Zement¬
 1,360,run,review,short_line,0.44,11,25,gleich. —o—,"„Kopitzen"": Garbenhaufen"
-1,371,run,review,short_line,0.34,9,26,Kriege. —,Eine Tante d. Krügers vor mehr 40 Jahren
+1,371,run,review,short_line,0.35,9,26,Kriege. —,Eine Tante d. Krügers vor mehr 40 Jahren
 1,383,run,review,short_line,0.17,3,18,—o—,"„ick war do"" = Brücher."
 1,385,run,review,short_line,0.57,10,18,ich war da,er hud = er hatte
 1,387,break,high,short_line+column,0.17,3,18,—o—,alte Schultz
@@ -125,11 +125,11 @@
 1,496,run,review,short_line,0.21,5,24,Sonne,"Gostynin, Kirche, 11 Uhr. Gf. Bl. 6 1/5"
 1,498,break,high,short_line,0.58,14,24,viel Vordergr.,"Leonberg, Schule, 10 Uhr, Ohne Bl. 25 1/10"
 1,503,run,review,short_line,0.25,6,24,Montag,N 9 Wirtsch. 7 Uhr Bl. 9 1/2 Sek Oh.
-1,508,break,high,short_line,0.37,9,24,Landgüte:,Białobł.
-1,509,break,high,short_line,0.33,8,24,Białobł.,Leit = Leine
-1,510,run,review,short_line,0.49,12,24,Leit = Leine,übergreigeln = überfahren
-1,512,run,review,short_line,0.24,6,24,Müller,Vor 54 Jahren aus [Sm…?]
-1,517,run,review,short_line,0.69,17,24,und heirateten. —,"Neu Czarkow, Briesen, [Paprot…?]"
-1,519,run,review,short_line,0.49,12,24,auch Brücher,Psary verkopp. im J. 1868
+1,508,break,high,short_line,0.36,9,25,Landgüte:,Białobł.
+1,509,break,high,short_line,0.32,8,25,Białobł.,Leit = Leine
+1,510,run,review,short_line,0.48,12,25,Leit = Leine,übergreigeln = überfahren
+1,512,run,review,short_line,0.24,6,25,Müller,Vor 54 Jahren aus St[?]pin
+1,517,run,review,short_line,0.68,17,25,und heirateten. —,"Neu Czarkow, Briesen, Paprotk[?]"
+1,519,run,review,short_line,0.48,12,25,auch Brücher,Psary verkopp. im J. 1868
 1,531,run,review,short_line,0.51,11,22,[?] [?] [?],den [Rutkowski?] nach [Wars…?]
 1,534,break,high,short_line,0.19,4,22,[?].,[?] das Pflaster [?] [?]

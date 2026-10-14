@@ -7371,23 +7371,13 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Müller?]",
-  "page": 6,
-  "page_id": "0004_a1",
-  "scan": "APP_53_968_0_669_0004_a1-L1_06.jpg",
-  "line": 79,
-  "doc_line": 72,
-  "context": "1 Morg. Wiese für [Müller?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[t/s?]",
   "page": 7,
   "page_id": "0004_a2",
   "scan": "APP_53_968_0_669_0004_a2-L1_07.jpg",
   "line": 89,
   "doc_line": 81,
-  "context": "Wohnhäuser in [?] Fachwerk"
+  "context": "Wohnhäuser in annähre[t/s?]den Fachwerk"
  },
  {
   "uid": "app539680669-1",
@@ -7431,33 +7421,23 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Kavelung?]",
+  "marker": "[?]",
   "page": 8,
   "page_id": "0005_a1",
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
   "line": 100,
   "doc_line": 91,
-  "context": "„Die [Kavelung?]\""
+  "context": "„Die Birk[?]la[ch?]\""
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Rot…?]",
+  "marker": "[ch?]",
   "page": 8,
   "page_id": "0005_a1",
   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
-  "line": 101,
-  "doc_line": 92,
-  "context": "„[Rot…?]\""
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Kroge?]",
-  "page": 8,
-  "page_id": "0005_a1",
-  "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
-  "line": 102,
-  "doc_line": 93,
-  "context": "„Die [Kroge?]\""
+  "line": 100,
+  "doc_line": 91,
+  "context": "„Die Birk[?]la[ch?]\""
  },
  {
   "uid": "app539680669-1",
@@ -7531,26 +7511,6 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Kühnstubben?]",
-  "page": 14,
-  "page_id": "0008_a1",
-  "scan": "APP_53_968_0_669_0008_a1-L1_14.jpg",
-  "line": 185,
-  "doc_line": 170,
-  "context": "[Kühnstubben?]. (gräbt ihn"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Lieder?]",
-  "page": 14,
-  "page_id": "0008_a1",
-  "scan": "APP_53_968_0_669_0008_a1-L1_14.jpg",
-  "line": 187,
-  "doc_line": 172,
-  "context": "1929 [Lieder?]."
- },
- {
-  "uid": "app539680669-1",
   "marker": "[gestor…?]",
   "page": 14,
   "page_id": "0008_a1",
@@ -7558,16 +7518,6 @@
   "line": 193,
   "doc_line": 178,
   "context": "31. I. 1864 [gestor…?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Oborscher?]",
-  "page": 19,
-  "page_id": "0010_a2",
-  "scan": "APP_53_968_0_669_0010_a2-L1_19.jpg",
-  "line": 259,
-  "doc_line": 239,
-  "context": "[Oborscher?] Kirschknacker"
  },
  {
   "uid": "app539680669-1",
@@ -7581,16 +7531,6 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
-  "page": 19,
-  "page_id": "0010_a2",
-  "scan": "APP_53_968_0_669_0010_a2-L1_19.jpg",
-  "line": 263,
-  "doc_line": 243,
-  "context": "in [?]."
- },
- {
-  "uid": "app539680669-1",
   "marker": "[Kaveln?]",
   "page": 22,
   "page_id": "0012_a1",
@@ -7601,23 +7541,13 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[ehe?]",
   "page": 22,
   "page_id": "0012_a1",
   "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
   "line": 309,
   "doc_line": 286,
-  "context": "5) [?]"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Gr…berge?]",
-  "page": 22,
-  "page_id": "0012_a1",
-  "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
-  "line": 310,
-  "doc_line": 287,
-  "context": "6) [Gr…berge?]."
+  "context": "5) Gä[ehe?]blotte"
  },
  {
   "uid": "app539680669-1",
@@ -7641,53 +7571,23 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[gekauft?]",
+  "marker": "[?]",
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
   "line": 316,
   "doc_line": 292,
-  "context": "[gekauft?], vor 50 Jahren."
+  "context": "ge[?]kt, vor 50 Jahren."
  },
  {
   "uid": "app539680669-1",
-  "marker": "[?]",
+  "marker": "[Hausker?]",
   "page": 23,
   "page_id": "0012_a2",
   "scan": "APP_53_968_0_669_0012_a2-L1_23.jpg",
   "line": 326,
   "doc_line": 302,
-  "context": "[?] Holl. Kein"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Smięcer?]",
-  "page": 24,
-  "page_id": "0013_a1",
-  "scan": "APP_53_968_0_669_0013_a1-L1_24.jpg",
-  "line": 330,
-  "doc_line": 305,
-  "context": "nach d. [Smięcer?] Sprache, alles"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Schabeln?]",
-  "page": 24,
-  "page_id": "0013_a1",
-  "scan": "APP_53_968_0_669_0013_a1-L1_24.jpg",
-  "line": 339,
-  "doc_line": 314,
-  "context": "[Schabeln?] geraten nicht, schlechtes"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Olszewo?]",
-  "page": 26,
-  "page_id": "0014_a1",
-  "scan": "APP_53_968_0_669_0014_a1-L1_26.jpg",
-  "line": 365,
-  "doc_line": 338,
-  "context": "Wie in Tarszewo, [Olszewo?]"
+  "context": "[Hausker?] Holl. Kein"
  },
  {
   "uid": "app539680669-1",
@@ -7711,13 +7611,13 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[vorläufig?]",
+  "marker": "[vortüng Kr?]",
   "page": 29,
   "page_id": "0015_a2",
   "scan": "APP_53_968_0_669_0015_a2-L1_29.jpg",
   "line": 415,
   "doc_line": 385,
-  "context": "[vorläufig?] um 1876"
+  "context": "[vortüng Kr?] um 1876"
  },
  {
   "uid": "app539680669-1",
@@ -7728,26 +7628,6 @@
   "line": 418,
   "doc_line": 388,
   "context": "in d. Gegend v. [Wolwachówka?],"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Parkre?]",
-  "page": 29,
-  "page_id": "0015_a2",
-  "scan": "APP_53_968_0_669_0015_a2-L1_29.jpg",
-  "line": 425,
-  "doc_line": 395,
-  "context": "Sohn d. Schultz i. [Parkre?], ist"
- },
- {
-  "uid": "app539680669-1",
-  "marker": "[Krainik?]",
-  "page": 30,
-  "page_id": "0016_a1",
-  "scan": "APP_53_968_0_669_0016_a1-L1_30.jpg",
-  "line": 446,
-  "doc_line": 415,
-  "context": "[Krainik?]: im Dorfe, der einzige"
  },
  {
   "uid": "app539680669-1",
@@ -7831,23 +7711,23 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Sm…?]",
+  "marker": "[?]",
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
   "line": 512,
   "doc_line": 477,
-  "context": "Vor 54 Jahren aus [Sm…?]"
+  "context": "Vor 54 Jahren aus St[?]pin"
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Paprot…?]",
+  "marker": "[?]",
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
   "line": 517,
   "doc_line": 482,
-  "context": "Neu Czarkow, Briesen, [Paprot…?]"
+  "context": "Neu Czarkow, Briesen, Paprotk[?]"
  },
  {
   "uid": "app539680669-1",
@@ -7871,23 +7751,13 @@
  },
  {
   "uid": "app539680669-1",
-  "marker": "[Izbitz?]",
-  "page": 34,
-  "page_id": "0018_a1",
-  "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
-  "line": 524,
-  "doc_line": 489,
-  "context": "nach [Izbitz?] „[?]\" im Gute"
- },
- {
-  "uid": "app539680669-1",
   "marker": "[?]",
   "page": 34,
   "page_id": "0018_a1",
   "scan": "APP_53_968_0_669_0018_a1-L1_34.jpg",
   "line": 524,
   "doc_line": 489,
-  "context": "nach [Izbitz?] „[?]\" im Gute"
+  "context": "nach Izbitz „[?]\" im Gute"
  },
  {
   "uid": "app539680669-1",

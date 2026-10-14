@@ -82,6 +82,23 @@ The pictures were each looked at; a line's place on the page is worked out
 at the pitch of the ruled lines and moved by `SHIFT` where the writing
 does not keep to it.
 
+**The editor's answers on the second sheet** (2026-10-14,
+`readings2_answers.json`) are in TEXT and the English; the list is in the
+docstring of `intake/holding.py`. Of 29 rows, 14 were settled outright and
+eight more changed with some doubt left; seven could not be told. The ones
+that change the sense: "Strażniki", a village, where Claude read the name
+"Krainik"; "Noga", a field name that also stands on page 13, where Claude
+read "Kroge"; "Swięcer" (of Swięcia, a place of the edition, matched),
+where Claude read "Smięcer"; "St[?]pin", where Claude read "Sm…"; "Mühle"
+for "Müller". 70 marks of doubt remain.
+
+**The third sheet, "Sm or Sw in Breyer's notebook"** (three rows,
+`intake/spot_sheet3.py`, port 4102): the two "Smięcia" on page 22, read
+without doubt, which may be Swięcia (an estate with a farm Broniki; the
+first field name there is "Bronikel"), and the second "[Sm…?]" on page 34.
+Breyer's S before m or w, and before t, is not to be trusted to the first
+reading.
+
 ## The English and the summary
 
 Written in session (`intake/english.py`, `S` in `holding.py`). The

@@ -81,7 +81,7 @@ Land: 1) house plots
 1, 2, 3 Morgen
 The village mayor's land is 2 Morgen of land,
 1 Morgen of meadow.
-1 Morgen of meadow for the [uncertain: miller]""",
+1 Morgen of meadow for the mill""",
  '0004_a2': """School 7 Morgen.
 —o—
 Mostly Wrocław (Breslau) hymn
@@ -90,7 +90,7 @@ To Volhynia
 many have emigrated,
 to Novograd-Volynsk.
 —o—
-Dwelling houses in [illegible] half-timbering
+Dwelling houses in [uncertain: annähre…den] half-timbering
 Remaining manor land of Trąbczyn.
 Jesse bought it, when?
 How is the land classed? in Michalinow.""",
@@ -100,9 +100,9 @@ in Łazinsk.
 "Die Büschen" (the bushes), field names
 Farms: "[uncertain: Gehege]"
 —o—
-"Die [uncertain: Kavelung]"
-"[uncertain: Rot…]"
-"Die [uncertain: Kroge]"
+"Die Birk[illegible]la[uncertain: ch]"
+"Rotkapp"
+"Die Noga"
 ([illegible] foot)
 "Trieb" [illegible] "[uncertain: Gehege]" [illegible] in [illegible]""",
  '0005_a2': """"Bärwinkel"
@@ -178,10 +178,10 @@ By the school "Altes Holland" (Old Holland)
 The canal is called "Graben" (the ditch)
 Baustellen (building plots). In Emilienheim.
 "Kafeln" "Viermorgen\"""",
- '0008_a1': """Old [uncertain: pine stumps] are still
+ '0008_a1': """Old Kühnstubben (pine stumps) are still
 found. (dug
 out)
-1929 [uncertain: hymns].
+1929 hymns.
 in the Wrocław book.
 Cemetery: Józefow
 Agnes Schütz, née Neumann
@@ -247,11 +247,11 @@ I hope she is already
 dead before we get there.
 The pastor objects: Perhaps. —
 The people of Obory: Hockerling.""",
- '0010_a2': """[uncertain: Obory] cherry-crackers
+ '0010_a2': """Obory cherry-crackers
 —o—
 Of the girls
 they say "[uncertain: Züchten]"
-in [illegible].
+in Zamęty.
 marriageable
 Plötzer = gallants
 When they speak coarsely:
@@ -292,13 +292,13 @@ Field names
 2) Steinbruch (quarry)
 3) Grüne [uncertain: Kaveln] (green strips)
 4) Gänseblotte (goose mire)
-5) [illegible]
-6) [uncertain: Gr…berge].
+5) Gä[uncertain: ehe]blotte
+6) Griefenberge.
 7) Grosse Blotte (great mire)
 8) Baustellen (building plots).""",
  '0012_a2': """A [uncertain: Gullat], [uncertain: Hormann]
 to Russia. Budendorf
-[uncertain: bought], 50 years ago.
+ge[illegible]kt, 50 years ago.
 —o—
 The Bruch (marsh) is beyond Oleśnica,
 Tarszewo, Olchowo, Mały
@@ -308,10 +308,10 @@ people are called "Die
 Brücher" (the marsh people).
 —o—
 Myślibórz Holland, Węglewo
-[illegible] Holland. No
+[uncertain: Hausker] Holland. No
 marsh.""",
  '0013_a1': """The people in the Bruch speak
-in the [uncertain: Smięcia] way, everything
+in the Swięcia way, everything
 short.
 "In the door a linen
 panel against the heat"
@@ -320,7 +320,7 @@ The houses are posts filled
 with clay, cold in
 winter.
 —o—
-[uncertain: Schabeln] do not thrive, poor
+Schabeln do not thrive, poor
 land.
 "they all like poppy-seed dumplings"
 —o—
@@ -344,7 +344,7 @@ as the Łazinsk ones. —o—
 they say in Emilienheim.""",
  '0014_a1': """New Holland in Łazinsk?
 How do they speak in Emilienheim?
-As in Tarszewo, [uncertain: Olszewo]?
+As in Tarszewo, Olszewo?
 When was the remaining manor of
 Trąbczyn parcelled out? Jesse bought it,
 when? Today it is called Włodzimierow.
@@ -390,7 +390,7 @@ Post official, missionary, India, England, war, Denmark, Rostock.""",
  '0015_a2': """The school community includes:
 Augustynow, Włodzimierow
 Michalinow, also Drzewce.
-[uncertain: provisionally] about 1876
+[uncertain: vortüng Kr] about 1876
 To Volhynia emigrated
 4 brothers of Schulz,
 to the neighbourhood of [uncertain: Wolwachówka],
@@ -400,7 +400,7 @@ Many went to America,
 came back, bought
 land or paid off
 what they had bought. A
-son of Schultz's in [uncertain: Parkre] is
+son of Schultz's in Parkre is
 a farmer.
 The Drzewce estate, parcelled out:
 some Germans also
@@ -419,7 +419,7 @@ The people of Emilienheim
 pay their dues well,
 said the tax inspector.
 not to join together; but
-then they did after all. [uncertain: Krainik]:
+then they did after all. Strażniki:
 in the village, the only
 Pole, a shopkeeper, pays no taxes""",
  '0016_a2': """No. 6, 10 o'clock, sun, ap. 18, 1/10
@@ -482,19 +482,19 @@ Białobłoty
 Leit = Leine (rope)
 übergreigeln = run over
 Müller
-54 years ago from [uncertain: Sm…]
+54 years ago from St[illegible]pin
 to Germany to work.
 came together with a girl
 from Emilienheim
 and married. —
-Neu Czarkow, Briesen, [uncertain: Paprot…]
+Neu Czarkow, Briesen, Paprotk[illegible]
 also Brücher
 Psary consolidated in the year 1868
 In [uncertain: Sm…] 6 pieces each: about 1868
 [uncertain: Bloh.]: behind the canal.
 Dry, new land, behind the
 churchyard; surveyed: Dornstein
-towards [uncertain: Izbica] "[illegible]" on the estate
+towards Izbitz "[illegible]" on the estate
 "Grochowisko".""",
  '0018_a2': """[illegible]: spring of water
 the Poles have forbidden the [uncertain: Rutkowski] [illegible]

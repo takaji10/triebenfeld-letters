@@ -180,6 +180,9 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
                       'middle of the picture or a little below). The first button is what the text has now; [?] alone '
                       'is a word not read. Pick what the page shows, type it under "Something else", or say you '
                       'cannot tell.'),
+        'readings3': ('Sm or Sw in Breyer\'s notebook', 'Three readings that rest on the same letters as two you '
+                      'corrected on the last sheet ("Swięcer", "St[?]pin"). The first button is what the text has '
+                      'now. Pick what the page shows.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

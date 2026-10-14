@@ -112,7 +112,7 @@ so check them.
 
 - **Three holdings are built and committed but NOT published** (added
   2026-10-13 and 14, all from the State Archive in Poznań). The edition's
-  figures already count them (569 documents, 40 holdings, 808 marks of
+  figures already count them (569 documents, 40 holdings, 795 marks of
   doubt): do not publish anything else from `main` without saying that
   they go with it. `docs/TODO.md`, sections 10 to 12.
   - **APP 53/968/0/-/783** (slug `app539680783`): a printed summons of
@@ -147,9 +147,9 @@ so check them.
     and was not used. No transcription existed: read from the scans in
     session (`intake/holding.py`), English in `intake/english.py`,
     summaries claim-checked. Read `units/app539680669/notes.md` first.
-    The editor answered the spot sheet "Readings in Breyer's notebook"
-    (seven of ten settled; 83 marks of doubt remain, the editor to say
-    whether to look at them). Its era is the new `twentieth-century`
+    The editor answered two spot sheets (39 readings; 70 marks of doubt
+    remain); a third, "Sm or Sw in Breyer's notebook" (three rows,
+    `review/app539680669/readings3.csv`), waits. Its era is the new `twentieth-century`
     (editor, 2026-10-14; working name). Waits for their word.
 - **Everything else is published and pushed (2026-10-13)**: 566 documents
   in 37 holdings. All four cloud branches are in `main`.

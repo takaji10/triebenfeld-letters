@@ -1888,6 +1888,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **APP 53/968/0/-/669**: seven of ten doubtful readings settled by the editor, three differently from the first reading (Wagelt, Hormann, Neumann L. 1889); Włodzimierow in the list of the school community. 83 marks of doubt remain.
 - **Two new eras** at the editor's word, under working names until the editor names them: "The estate under Włodzimierz Miączyński" (`wlodzimierz`), the era after Michalina, with the summons of 1860; "The twentieth century" (`twentieth-century`), with Breyer's notebook. Each has its band on the timeline, which now runs to 1936, and its section on the story page, in both languages.
 - Figures: 808 marks of doubt.
+- **APP 53/968/0/-/669, the second sheet**: 29 of the most uncertain readings put to the editor; 22 changed or settled. Strażniki is a village (not the name Krainik), Noga a field name (not Kroge), Swięcer of Swięcia (not Smięcer), Mühle (not Müller). 70 marks of doubt remain; 795 in the edition. A third sheet of three readings on Breyer's Sm and Sw.
 
 ## Deliverables produced
 

@@ -911,3 +911,7 @@ cloud branches").
   enough to matter**: on the notebook's sheet three of ten (2026-10-14),
   on Rep. 162 Nr. 295 one of five. A word left marked is not a word to
   build on.
+- **Breyer's S before m, w or t** (APP 53/968/0/-/669, 2026-10-14): the
+  editor read "Swięcer" and "St?pin" where Claude read "Smięcer" and "Sm…".
+  Read such a name against the places of the edition (Swięcia is one) before
+  settling it, and do not take the first reading of it without doubt.

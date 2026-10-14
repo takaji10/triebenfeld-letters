@@ -96,7 +96,8 @@ ROWS = [
 SHIFT = {'s03': 5, 's04': 1, 's06': 2, 's07': 4.5, 's29': 3.5, 's08': 1.5, 's10': 1, 's16': 1, 's21': 3, 's22': 5, 's25': 1}
 
 
-def main():
+def main(rows=None, shift=None, sheet='readings2.csv'):
+    rows, shift = rows or ROWS, SHIFT if shift is None else shift
     sys.stdout.reconfigure(encoding='utf-8')
     corpus = io.open(os.path.join(UNIT_DIR, 'corpus.txt'), encoding='utf-8').read().split('\n')
     start = {l[len('[PAGE '):-1]: i for i, l in enumerate(corpus, 1) if l.startswith('[PAGE ')}
@@ -104,7 +105,7 @@ def main():
     img_dir = os.path.join(rev, 'spot_img')
     os.makedirs(img_dir, exist_ok=True)
     out = []
-    for key, pid, locate, word, options, note in ROWS:
+    for key, pid, locate, word, options, note in rows:
         lines = TEXT[pid].split('\n')
         k = [i for i, l in enumerate(lines) if locate in l]
         assert len(k) == 1, (key, pid, locate, k)
@@ -114,13 +115,13 @@ def main():
         im = Image.open(os.path.join(RAW, 'processed', pid + '.jpg'))
         W, H = im.size
         top, bottom = int(H * 0.06), int(H * 0.95)
-        y = top + (bottom - top) * (k + 0.5 + SHIFT.get(key, 0)) / max(len(lines), 18)
+        y = top + (bottom - top) * (k + 0.5 + shift.get(key, 0)) / max(len(lines), 18)
         box = (0, max(0, int(y - H * 0.10)), W, min(H, int(y + H * 0.10)))
         name = '%s_%s.jpg' % (key, pid)
         im.crop(box).convert('L').save(os.path.join(img_dir, name), quality=85)
         out.append({'key': key, 'letter': '1', 'line': line_no, 'word': word, 'options': options,
                     'note': note, 'image': name})
-    with io.open(os.path.join(rev, 'readings2.csv'), 'w', encoding='utf-8', newline='') as f:
+    with io.open(os.path.join(rev, sheet), 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=['key', 'letter', 'line', 'word', 'options', 'note', 'image'])
         w.writeheader()
         w.writerows(out)

@@ -144,7 +144,7 @@ pages:
   flagged: []
 - page: 6
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: 'Michalinow.
 
     Land: 1) house plots
@@ -167,7 +167,7 @@ pages:
 
     1 Morgen of meadow.
 
-    1 Morgen of meadow for the [uncertain: miller]'
+    1 Morgen of meadow for the mill'
   names: []
   numbers: []
   flagged: []
@@ -190,7 +190,7 @@ pages:
 
     —o—
 
-    Dwelling houses in [illegible] half-timbering
+    Dwelling houses in [uncertain: annähre…den] half-timbering
 
     Remaining manor land of Trąbczyn.
 
@@ -202,7 +202,7 @@ pages:
   flagged: []
 - page: 8
   confidence: high
-  marker_count: 12
+  marker_count: 11
   en: '[illegible] [illegible] of the [illegible]
 
     Mielke
@@ -215,11 +215,11 @@ pages:
 
     —o—
 
-    "Die [uncertain: Kavelung]"
+    "Die Birk[illegible]la[uncertain: ch]"
 
-    "[uncertain: Rot…]"
+    "Rotkapp"
 
-    "Die [uncertain: Kroge]"
+    "Die Noga"
 
     ([illegible] foot)
 
@@ -400,14 +400,14 @@ pages:
   flagged: []
 - page: 14
   confidence: high
-  marker_count: 3
-  en: 'Old [uncertain: pine stumps] are still
+  marker_count: 1
+  en: 'Old Kühnstubben (pine stumps) are still
 
     found. (dug
 
     out)
 
-    1929 [uncertain: hymns].
+    1929 hymns.
 
     in the Wrocław book.
 
@@ -563,8 +563,8 @@ pages:
   flagged: []
 - page: 19
   confidence: high
-  marker_count: 3
-  en: '[uncertain: Obory] cherry-crackers
+  marker_count: 1
+  en: 'Obory cherry-crackers
 
     —o—
 
@@ -572,7 +572,7 @@ pages:
 
     they say "[uncertain: Züchten]"
 
-    in [illegible].
+    in Zamęty.
 
     marriageable
 
@@ -654,7 +654,7 @@ pages:
   flagged: []
 - page: 22
   confidence: high
-  marker_count: 3
+  marker_count: 2
   en: 'From Smięcia
 
     Budendorf comes from Smięcia
@@ -669,9 +669,9 @@ pages:
 
     4) Gänseblotte (goose mire)
 
-    5) [illegible]
+    5) Gä[uncertain: ehe]blotte
 
-    6) [uncertain: Gr…berge].
+    6) Griefenberge.
 
     7) Grosse Blotte (great mire)
 
@@ -686,7 +686,7 @@ pages:
 
     to Russia. Budendorf
 
-    [uncertain: bought], 50 years ago.
+    ge[illegible]kt, 50 years ago.
 
     —o—
 
@@ -706,7 +706,7 @@ pages:
 
     Myślibórz Holland, Węglewo
 
-    [illegible] Holland. No
+    [uncertain: Hausker] Holland. No
 
     marsh.'
   names: []
@@ -714,10 +714,10 @@ pages:
   flagged: []
 - page: 24
   confidence: high
-  marker_count: 2
+  marker_count: 0
   en: 'The people in the Bruch speak
 
-    in the [uncertain: Smięcia] way, everything
+    in the Swięcia way, everything
 
     short.
 
@@ -735,7 +735,7 @@ pages:
 
     —o—
 
-    [uncertain: Schabeln] do not thrive, poor
+    Schabeln do not thrive, poor
 
     land.
 
@@ -788,12 +788,12 @@ pages:
   flagged: []
 - page: 26
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: 'New Holland in Łazinsk?
 
     How do they speak in Emilienheim?
 
-    As in Tarszewo, [uncertain: Olszewo]?
+    As in Tarszewo, Olszewo?
 
     When was the remaining manor of
 
@@ -893,14 +893,14 @@ pages:
   flagged: []
 - page: 29
   confidence: high
-  marker_count: 3
+  marker_count: 2
   en: 'The school community includes:
 
     Augustynow, Włodzimierow
 
     Michalinow, also Drzewce.
 
-    [uncertain: provisionally] about 1876
+    [uncertain: vortüng Kr] about 1876
 
     To Volhynia emigrated
 
@@ -920,7 +920,7 @@ pages:
 
     what they had bought. A
 
-    son of Schultz''s in [uncertain: Parkre] is
+    son of Schultz''s in Parkre is
 
     a farmer.
 
@@ -936,7 +936,7 @@ pages:
   flagged: []
 - page: 30
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: 'Łazinsk
 
     Emilienheim
@@ -963,7 +963,7 @@ pages:
 
     not to join together; but
 
-    then they did after all. [uncertain: Krainik]:
+    then they did after all. Strażniki:
 
     in the village, the only
 
@@ -1098,7 +1098,7 @@ pages:
   flagged: []
 - page: 34
   confidence: high
-  marker_count: 6
+  marker_count: 5
   en: 'Estates:
 
     Białobłoty
@@ -1109,7 +1109,7 @@ pages:
 
     Müller
 
-    54 years ago from [uncertain: Sm…]
+    54 years ago from St[illegible]pin
 
     to Germany to work.
 
@@ -1119,7 +1119,7 @@ pages:
 
     and married. —
 
-    Neu Czarkow, Briesen, [uncertain: Paprot…]
+    Neu Czarkow, Briesen, Paprotk[illegible]
 
     also Brücher
 
@@ -1133,7 +1133,7 @@ pages:
 
     churchyard; surveyed: Dornstein
 
-    towards [uncertain: Izbica] "[illegible]" on the estate
+    towards Izbitz "[illegible]" on the estate
 
     "Grochowisko".'
   names: []

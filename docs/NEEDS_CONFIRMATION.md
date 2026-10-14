@@ -246,9 +246,10 @@ written until there is a witness or a better scan.
 ## Readings, the other holdings
 
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
-  2026-10-14): read from the scans by Claude; the editor read ten
-  doubtful readings on a spot sheet (2026-10-14) and settled seven. 83
-  marks of doubt remain, 29 of them on the two faint inside covers. Open:
+  2026-10-14): read from the scans by Claude; the editor read 39 doubtful
+  readings on two spot sheets (2026-10-14). 70 marks of doubt remain, 29
+  of them on the two faint inside covers and 7 in the photograph log. A
+  third sheet asks whether the two "Smięcia" of page 22 are Swięcia. Open:
   whether the photograph log headed "Juli 1935" was written a year before
   the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
 - **Two eras without names** (editor, 2026-10-14): the era after Michalina
