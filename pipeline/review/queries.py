@@ -175,6 +175,11 @@ def build(rows, answers, corpus, slug, stem='open_queries'):
         'readings': ('Readings in Breyer\'s notebook', 'The readings in the notebook of 1936 that a name, a date or a '
                      'number rests on, each with a picture of its place on the page. The first button is what the text '
                      'has now; a word followed by [?] is read with doubt. Pick what the page shows.'),
+        'readings2': ('More readings in Breyer\'s notebook', 'The most uncertain of the readings still marked in the '
+                      'notebook: names, places and field names, each with a picture of its line (the line is in the '
+                      'middle of the picture or a little below). The first button is what the text has now; [?] alone '
+                      'is a word not read. Pick what the page shows, type it under "Something else", or say you '
+                      'cannot tell.'),
         'unknown_names': ('Unidentified names', 'None of these could be identified from the '
                           'letters. Where the context suggests a reading it is offered; '
                           'otherwise say what the page reads, or who or where it is.'),

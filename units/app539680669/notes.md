@@ -74,6 +74,14 @@ still marked deserve the same look. 83 marks remain: 29 on the two inside
 covers, 12 on the Kurrent page 8, 7 in the photograph log, 35 in the
 rest.
 
+**The second spot sheet, "More readings in Breyer's notebook"**
+(2026-10-14, at the editor's request for the most uncertain): 29 rows,
+made by `intake/spot_sheet2.py` (copy of the rows `intake/readings2.csv`),
+served on port 4102. Left out: the inside covers and the photograph log.
+The pictures were each looked at; a line's place on the page is worked out
+at the pitch of the ruled lines and moved by `SHIFT` where the writing
+does not keep to it.
+
 ## The English and the summary
 
 Written in session (`intake/english.py`, `S` in `holding.py`). The

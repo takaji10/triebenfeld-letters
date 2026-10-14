@@ -414,9 +414,13 @@ notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
       (2026-10-14): seven readings settled, three of them differently
       from the first reading. Worked in the same day. 83 marks of doubt
       remain.
-- [ ] **You: whether to look at the remaining readings** with doubt: 35 in
-      the body of the notebook, 12 on the Kurrent page of field names, 7
-      in the photograph log, 29 on the two faint inside covers.
+- [ ] **You: the spot sheet "More readings in Breyer's notebook"** (29
+      rows with pictures, 2026-10-14): the most uncertain of the 83 left,
+      the names, places and field names in the body of the notebook.
+      Served with `python pipeline/review/queries.py --unit app539680669
+      --sheet readings2.csv` (port 4102) and the built site on port 4000;
+      made by `units/app539680669/intake/spot_sheet2.py`. Not asked: the
+      29 on the inside covers and the 7 in the photograph log.
 - [ ] **You: the folds** of the seventeen openings, if you want to place
       them (`review/app539680669/folds/index.html`).
 - [x] Its era: the twentieth century of the estate (you, 2026-10-14). A
