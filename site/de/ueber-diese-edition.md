@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 581 Dokumente auf 1.951 Handschriftenseiten aus den Jahren 1589 bis
+Die Edition enthält 583 Dokumente auf 1.951 Handschriftenseiten aus den Jahren 1589 bis
 1936. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
 zwischen Trąbczyn und dem Nachbargut Łukom, als Trąbczyn der Familie Prusimski gehörte: Eine
 Kommission entschied 1775 über die Grenze, und das Krontribunal legte sie 1782 endgültig fest. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
@@ -140,7 +140,7 @@ Die Edition enthält 880 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 576 von 581. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 578 von 583. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

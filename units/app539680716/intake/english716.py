@@ -126,8 +126,8 @@ what is gathered away [uncertain: by tlakhty].
 The peasants have no other
 rights to servitudes
 whatever.
-—o—
-Russian entry after 1875:
+—o—''',
+ (6, '5170_a1'): '''Russian entry after 1875:
 Morgen 1655, rods 63
 farmers 94
 —o—
@@ -136,15 +136,15 @@ Year from 1901: 1660 Morgen 271 rods,
 Year 1906: 2044 Morgen 181 rods,
 91 old farmers - 21 new farmers
 with 112 Morgen.''',
- (5, '5170_a2'): '''Year 1907: 91 old farmers
+ (6, '5170_a2'): '''Year 1907: 91 old farmers
 and 21 new farmers
 Year 1914: 137 farmers,
 with 2037 Morgen.''',
- (7, '5171_a1'): '''Huta Trąbczyńska
+ (8, '5171_a1'): '''Huta Trąbczyńska
 1935 - 18 farmers, 217 Morgen.''',
- (7, '5171_a2'): '''In Orlin, July 1935
+ (8, '5171_a2'): '''In Orlin, July 1935
 85 farmers.''',
- (7, '5172_a1'): '''Livestock of Orliny. ××
+ (8, '5172_a1'): '''Livestock of Orliny. ××
 152 cows
 343 sheep
 furshtiki 330.
@@ -159,7 +159,7 @@ Podbel, Szetlew, Grzebień,
 [uncertain: Gedpar], Kreshnia."
 1909 [illegible]
 has [uncertain: entgekoit] that''',
- (7, '5172_a2'): '''In Józefów
+ (8, '5172_a2'): '''In Józefów
 [uncertain: Jäke], Becker, Wegert, [uncertain: Jesswein]
 the first farmers.
 Old houses with [uncertain: L…]
@@ -173,7 +173,7 @@ from Querlin
 —o—
 Women wear aprons
 right round the body''',
- (7, '5173_a1'): '''30 years ago the
+ (8, '5173_a1'): '''30 years ago the
 bonnets disappeared.
 Bonnets were made from the
 [uncertain: saddlers].
@@ -182,7 +182,7 @@ Little Orlin, Great Orlin
 [uncertain: Mądrosza],
 Bystrzyca: 1 Protestant family
 160 families.''',
- (7, '5173_a2'): '''In Little Orlin
+ (8, '5173_a2'): '''In Little Orlin
 1 [uncertain: Hufe] each for 40 farmers
 The old people spoke
 Low German, a little
@@ -194,7 +194,7 @@ Schmidt a hymn book
 In Orlin post-built houses (Bloch)
 —o—
 [uncertain: Holędry] Orliny Biskupicki''',
- (7, '5174_a1'): '''[uncertain: Sollten], they steal wood from one another, steal pota¬
+ (8, '5174_a1'): '''[uncertain: Sollten], they steal wood from one another, steal pota¬
 toes, dream of stealing hens
 The German fellow countrymen robbed the teacher
 on [uncertain: Zwrsze]. In Grodziec poor,
@@ -216,7 +216,7 @@ activity not much, but they do not pay their
 membership dues. The Volksverband has more influence
 through the "Volksfreund" and the calendar.
 Volksverband: farmers - J.D.P. - youth''',
- (7, '5174_a2'): '''Near Grodziec "Ukerlinge", "in Obory cheeky, vulgar.
+ (8, '5174_a2'): '''Near Grodziec "Ukerlinge", "in Obory cheeky, vulgar.
 After the service [uncertain: they fight] every Sunday, dance amusement
 In Orlin: the praying brethren, in the village two preachers,
 for 2 years Pentecostalists and Baptists.
@@ -227,7 +227,7 @@ The young, mostly girls, to the Poznań region. 50%
 with big bellies. Everything goes to the pastor; lawsuits
 there are some too, but they are the exception. Theft very wide¬
 spread. Many who pray, but bad with it. Bad thie-''',
- (9, '5176_a1'): '''Orlin Hauland, 1 Oct. 1806
+ (10, '5176_a1'): '''Orlin Hauland, 1 Oct. 1806
 In Orlin Kashubian was spoken.
 (Weber, " Bloch's father also
 from Czarny Bród, spoke Kashubian
@@ -235,7 +235,7 @@ come from Orlin)
 Because of the wet years in Orlin
 bankrupt [uncertain: gemorden].
 "Kjaufft" word.''',
- (9, '5176_a2'): '''July 1936
+ (10, '5176_a2'): '''July 1936
 Class I 17
 II " 370
 III " —
@@ -243,15 +243,15 @@ IV " 464.69
 waste land 300 =
 1157.69 Morgen
 village of Orlino.''',
- (11, '5179_a1'): '''Great Orlin and Czarny Bród 60 years ago.
+ (12, '5179_a1'): '''Great Orlin and Czarny Bród 60 years ago.
 Separation.
 by the number, then by
 Morgen. —
 Białobłoty and Little Orlin
 2 years ago
 by the number.''',
- (11, '5179_a2'): '''Servitude in Orlin 300 Morgen
-All the farmsteads of the village of Orliny
+ (12, '5179_a2'): '''Servitude in Orlin 300 Morgen''',
+ (13, '5179_a2'): '''All the farmsteads of the village of Orliny
 have the right to forest and pasture
 servitudes in one half of
 the forest called "Velskii
@@ -267,7 +267,7 @@ grubbing up stumps a
 the farmstead holders
 carry away by carts, reckoning
 no more than one cart to a farmstead''',
- (11, '5180_a'): '''a week; b) to receive every year
+ (13, '5180_a'): '''a week; b) to receive every year
 for each farmstead 1 tree for
 the repair and mending of buildings.
 The tree must measure, at a height

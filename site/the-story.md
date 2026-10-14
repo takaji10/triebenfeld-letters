@@ -91,7 +91,7 @@ Archives in Berlin.
 ## The estate under Włodzimierz Miączyński
 
 **Count Włodzimierz Miączyński, Michalina's son, who ran the estate after her.
-[1 document, 1860]({{ '/sources/app539680783/' | relative_url }}).** The name of this era is a working name.
+[8 documents, 1858 to 1870]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 The colonists on the Trąbczyn estate, in the two Olęder colonies then called Staro-Łazińska
 and Nowo-Łazińska, sued the Count in 1859 over their rights of pasture and wood in his forest.
@@ -99,12 +99,22 @@ He answered with a counterclaim against 97 of them, arguing that the contract th
 Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 ([the summons of 1860]({{ '/documents/app539680783/1/' | relative_url }})).
 
+In 1858 the colony of Emilienheim owed hearth tax and barracks money for 29 householders
+([the tax list]({{ '/documents/app539680716/1/' | relative_url }})). After the Russian reform of
+1864 the peasants were given the land they farmed. The liquidation table of the colony of
+Łazińsk, of 29 June 1868, lists 91 holdings, 1,691 Morgen in all, with a liquidation sum of
+10,055 roubles for the former owner ([the table]({{ '/documents/app539680716/4/' | relative_url }})),
+and leaves the settlers the right to graze their cattle and gather wood in the forest
+"Studzianki", and no other ([the servitudes]({{ '/documents/app539680716/5/' | relative_url }})).
+Emilienheim and Orliny had tables of their own. All of them survive in copies the historian
+Albert Breyer made in the 1930s ([his notebook]({{ '/sources/app539680716/' | relative_url }})).
+
 ---
 
 ## The twentieth century
 
 **The manor parcelled out; the German settlements of the commune of Trąbczyn.
-[13 documents, 1858 to 1936]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
+[8 documents, 1935 and 1936]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 By the 1930s the manor had been parcelled out, and its remaining land, bought by a man named
 Jesse, was called Włodzimierow. The historian Albert Breyer went to Łazińsk and Emilienheim in
@@ -114,11 +124,7 @@ gone to Volhynia, Russia, America or Brazil, how they spoke, and how they marked
 Włodzimierow had been parcelled out about 1911, almost all of it to Germans
 ([the second notebook]({{ '/documents/app539680669/2/' | relative_url }})).
 
-A third notebook of Breyer's, of 1935 and 1936, holds his copies of the Russian liquidation tables
-of 1868, by which the peasants of Łazińsk, Emilienheim and Orliny received their land after the
-emancipation of 1864: 1,691 Morgen for 91 holdings in Łazińsk, with a liquidation sum of 10,055
-roubles for the former owner, and the Łazińsk settlers' rights to graze their cattle and gather wood
-in the forest "Studzianki". Breyer counted the farmers of Łazińsk from 87 in 1840 to 146 in 1935,
-and wrote notes on Orlin and Józefów ([the notebook]({{ '/sources/app539680716/' | relative_url }})).
-A loose sheet in it lists the hearth tax of Emilienheim in 1858
-([the sheet]({{ '/documents/app539680716/1/' | relative_url }})).
+In a third notebook, of 1935 and 1936, Breyer counted the farmers of Łazińsk, from 87 in 1840
+to 146 in 1935 ([his table]({{ '/documents/app539680716/7/' | relative_url }})), and wrote notes
+on Orlin and Józefów: their speech, houses and customs, their poverty, and their dealings with
+the Poles ([the notebook]({{ '/sources/app539680716/' | relative_url }})).

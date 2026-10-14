@@ -113,13 +113,16 @@ so check them.
 - **One holding is built and committed but NOT published** (added
   2026-10-14): **APP 53/968/0/-/716** (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet
-  of 1858: eleven documents by content (the editor's choice), six of them
+  of 1858: thirteen documents by content (the editor's choice), six of them
   tables (Russian liquidation tables of 1868, Breyer's counts, the Polish
   hearth-tax list of 1858), read from the editor's raw photos in session.
-  The edition's figures already count it (581 documents, 41 holdings, 880
+  **A copy takes the date and era of what it copies** (editor,
+  2026-10-14): Breyer's copies of 1858 to 1892 stand in `wlodzimierz`, his
+  own notes in `twentieth-century` (`reference/eras.yml`, header).
+  The edition's figures already count it (583 documents, 41 holdings, 880
   marks of doubt): do not publish anything else from `main` without saying
   that it goes with it. Waits for the editor's look at the folds, the spot
-  sheet of 17 readings, the era of the sheet and the tables, and their word
+  sheet of 17 readings, and their word
   (`docs/TODO.md`, section 14). Read `units/app539680716/notes.md` first.
 - **Everything else is published and pushed (2026-10-14)**: 570 documents in
   40 holdings, 1589 to 1936. The last three, all from

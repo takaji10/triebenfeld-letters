@@ -30025,7 +30025,7 @@
   "letter_id": "1",
   "doc_type": "register",
   "language": "pl",
-  "era": "twentieth-century",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1858-12-15",
@@ -30125,12 +30125,58 @@
   "permalink": "/documents/app539680783/1/"
  },
  {
+  "uid": "app539680716-5",
+  "unit": "app539680716",
+  "letter_id": "5",
+  "doc_type": "note",
+  "language": "ru",
+  "era": "wlodzimierz",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1868",
+  "date_precision": "year",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 13,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "5169_a2",
+    "image": "APP_53_968_0_716_5169_a2-L5_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "5170_a1",
+    "image": "APP_53_968_0_716_5170_a1-L6_01.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 5",
+  "path": "documents/app539680716-5.json",
+  "text_path": "text/app539680716-5.txt",
+  "permalink": "/documents/app539680716/5/"
+ },
+ {
   "uid": "app539680716-2",
   "unit": "app539680716",
   "letter_id": "2",
   "doc_type": "register",
   "language": "ru",
-  "era": "twentieth-century",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-03-28",
@@ -30179,7 +30225,7 @@
   "letter_id": "4",
   "doc_type": "register",
   "language": "ru",
-  "era": "twentieth-century",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-06-29",
@@ -30250,145 +30296,17 @@
   "permalink": "/documents/app539680716/4/"
  },
  {
-  "uid": "app539680716-7",
-  "unit": "app539680716",
-  "letter_id": "7",
-  "doc_type": "note",
-  "language": "de",
-  "era": "twentieth-century",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "1935-07",
-  "date_precision": "month",
-  "date_source": "dateline",
-  "place": "Orlin",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 8,
-  "n_lines": 87,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "5171_a1",
-    "image": "APP_53_968_0_716_5171_a1-L7_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "5171_a2",
-    "image": "APP_53_968_0_716_5171_a2-L7_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "5172_a1",
-    "image": "APP_53_968_0_716_5172_a1-L7_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "5172_a2",
-    "image": "APP_53_968_0_716_5172_a2-L7_04.jpg"
-   },
-   {
-    "page": 5,
-    "page_id": "5173_a1",
-    "image": "APP_53_968_0_716_5173_a1-L7_05.jpg"
-   },
-   {
-    "page": 6,
-    "page_id": "5173_a2",
-    "image": "APP_53_968_0_716_5173_a2-L7_06.jpg"
-   },
-   {
-    "page": 7,
-    "page_id": "5174_a1",
-    "image": "APP_53_968_0_716_5174_a1-L7_07.jpg"
-   },
-   {
-    "page": 8,
-    "page_id": "5174_a2",
-    "image": "APP_53_968_0_716_5174_a2-L8_01.jpg"
-   }
-  ],
-  "uncertainty_count": 17,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 0,
-  "estates": [],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "note 7",
-  "path": "documents/app539680716-7.json",
-  "text_path": "text/app539680716-7.txt",
-  "permalink": "/documents/app539680716/7/"
- },
- {
-  "uid": "app539680716-8",
-  "unit": "app539680716",
-  "letter_id": "8",
-  "doc_type": "register",
-  "language": "de",
-  "era": "twentieth-century",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "1935-07",
-  "date_precision": "month",
-  "date_source": "inferred",
-  "place": "Unknown",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 4,
-  "n_lines": 49,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "5174_a2",
-    "image": "APP_53_968_0_716_5174_a2-L8_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "5175_a1",
-    "image": "APP_53_968_0_716_5175_a1-L8_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "5175_a2",
-    "image": "APP_53_968_0_716_5175_a2-L8_03.jpg"
-   },
-   {
-    "page": 4,
-    "page_id": "5176_a1",
-    "image": "APP_53_968_0_716_5176_a1-L9_01.jpg"
-   }
-  ],
-  "uncertainty_count": 14,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 0,
-  "estates": [],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "register 8",
-  "path": "documents/app539680716-8.json",
-  "text_path": "text/app539680716-8.txt",
-  "permalink": "/documents/app539680716/8/"
- },
- {
   "uid": "app539680716-3",
   "unit": "app539680716",
   "letter_id": "3",
   "doc_type": "note",
   "language": "de",
-  "era": "twentieth-century",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
-  "date_iso": "1936",
-  "date_precision": "year",
-  "date_source": "inferred",
+  "date_iso": "1870-11-26",
+  "date_precision": "day",
+  "date_source": "dateline",
   "place": "Unknown",
   "sender": "",
   "recipient": "",
@@ -30417,11 +30335,139 @@
   "permalink": "/documents/app539680716/3/"
  },
  {
-  "uid": "app539680716-5",
+  "uid": "app539680716-8",
   "unit": "app539680716",
-  "letter_id": "5",
+  "letter_id": "8",
   "doc_type": "note",
-  "language": "ru",
+  "language": "de",
+  "era": "twentieth-century",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1935-07",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Orlin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 8,
+  "n_lines": 87,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "5171_a1",
+    "image": "APP_53_968_0_716_5171_a1-L8_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "5171_a2",
+    "image": "APP_53_968_0_716_5171_a2-L8_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "5172_a1",
+    "image": "APP_53_968_0_716_5172_a1-L8_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "5172_a2",
+    "image": "APP_53_968_0_716_5172_a2-L8_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "5173_a1",
+    "image": "APP_53_968_0_716_5173_a1-L8_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "5173_a2",
+    "image": "APP_53_968_0_716_5173_a2-L8_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "5174_a1",
+    "image": "APP_53_968_0_716_5174_a1-L8_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "5174_a2",
+    "image": "APP_53_968_0_716_5174_a2-L9_01.jpg"
+   }
+  ],
+  "uncertainty_count": 17,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 8",
+  "path": "documents/app539680716-8.json",
+  "text_path": "text/app539680716-8.txt",
+  "permalink": "/documents/app539680716/8/"
+ },
+ {
+  "uid": "app539680716-9",
+  "unit": "app539680716",
+  "letter_id": "9",
+  "doc_type": "register",
+  "language": "de",
+  "era": "twentieth-century",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1935-07",
+  "date_precision": "month",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 4,
+  "n_lines": 49,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "5174_a2",
+    "image": "APP_53_968_0_716_5174_a2-L9_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "5175_a1",
+    "image": "APP_53_968_0_716_5175_a1-L9_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "5175_a2",
+    "image": "APP_53_968_0_716_5175_a2-L9_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "5176_a1",
+    "image": "APP_53_968_0_716_5176_a1-L10_01.jpg"
+   }
+  ],
+  "uncertainty_count": 14,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 9",
+  "path": "documents/app539680716-9.json",
+  "text_path": "text/app539680716-9.txt",
+  "permalink": "/documents/app539680716/9/"
+ },
+ {
+  "uid": "app539680716-6",
+  "unit": "app539680716",
+  "letter_id": "6",
+  "doc_type": "note",
+  "language": "de",
   "era": "twentieth-century",
   "themes": [],
   "repository": "app-poznan",
@@ -30431,26 +30477,21 @@
   "place": "Unknown",
   "sender": "",
   "recipient": "",
-  "n_pages": 3,
-  "n_lines": 26,
+  "n_pages": 2,
+  "n_lines": 13,
   "scans": [
    {
     "page": 1,
-    "page_id": "5169_a2",
-    "image": "APP_53_968_0_716_5169_a2-L5_01.jpg"
+    "page_id": "5170_a1",
+    "image": "APP_53_968_0_716_5170_a1-L6_01.jpg"
    },
    {
     "page": 2,
-    "page_id": "5170_a1",
-    "image": "APP_53_968_0_716_5170_a1-L5_02.jpg"
-   },
-   {
-    "page": 3,
     "page_id": "5170_a2",
-    "image": "APP_53_968_0_716_5170_a2-L6_01.jpg"
+    "image": "APP_53_968_0_716_5170_a2-L7_01.jpg"
    }
   ],
-  "uncertainty_count": 2,
+  "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
@@ -30462,15 +30503,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 5",
-  "path": "documents/app539680716-5.json",
-  "text_path": "text/app539680716-5.txt",
-  "permalink": "/documents/app539680716/5/"
+  "title": "note 6",
+  "path": "documents/app539680716-6.json",
+  "text_path": "text/app539680716-6.txt",
+  "permalink": "/documents/app539680716/6/"
  },
  {
-  "uid": "app539680716-6",
+  "uid": "app539680716-7",
   "unit": "app539680716",
-  "letter_id": "6",
+  "letter_id": "7",
   "doc_type": "register",
   "language": "de",
   "era": "twentieth-century",
@@ -30488,7 +30529,7 @@
    {
     "page": 1,
     "page_id": "5170_a2",
-    "image": "APP_53_968_0_716_5170_a2-L6_01.jpg"
+    "image": "APP_53_968_0_716_5170_a2-L7_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -30503,17 +30544,17 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "register 6",
-  "path": "documents/app539680716-6.json",
-  "text_path": "text/app539680716-6.txt",
-  "permalink": "/documents/app539680716/6/"
+  "title": "register 7",
+  "path": "documents/app539680716-7.json",
+  "text_path": "text/app539680716-7.txt",
+  "permalink": "/documents/app539680716/7/"
  },
  {
-  "uid": "app539680716-11",
+  "uid": "app539680716-12",
   "unit": "app539680716",
-  "letter_id": "11",
+  "letter_id": "12",
   "doc_type": "note",
-  "language": "ru",
+  "language": "de",
   "era": "twentieth-century",
   "themes": [],
   "repository": "app-poznan",
@@ -30523,26 +30564,21 @@
   "place": "Unknown",
   "sender": "",
   "recipient": "",
-  "n_pages": 3,
-  "n_lines": 40,
+  "n_pages": 2,
+  "n_lines": 8,
   "scans": [
    {
     "page": 1,
     "page_id": "5179_a1",
-    "image": "APP_53_968_0_716_5179_a1-L11_01.jpg"
+    "image": "APP_53_968_0_716_5179_a1-L12_01.jpg"
    },
    {
     "page": 2,
     "page_id": "5179_a2",
-    "image": "APP_53_968_0_716_5179_a2-L11_02.jpg"
-   },
-   {
-    "page": 3,
-    "page_id": "5180_a",
-    "image": "APP_53_968_0_716_5180_a-L11_03.jpg"
+    "image": "APP_53_968_0_716_5179_a2-L13_01.jpg"
    }
   ],
-  "uncertainty_count": 1,
+  "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
@@ -30552,10 +30588,10 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 11",
-  "path": "documents/app539680716-11.json",
-  "text_path": "text/app539680716-11.txt",
-  "permalink": "/documents/app539680716/11/"
+  "title": "note 12",
+  "path": "documents/app539680716-12.json",
+  "text_path": "text/app539680716-12.txt",
+  "permalink": "/documents/app539680716/12/"
  },
  {
   "uid": "app539680669-1",
@@ -30930,9 +30966,9 @@
   "permalink": "/documents/app539680669/2/"
  },
  {
-  "uid": "app539680716-9",
+  "uid": "app539680716-10",
   "unit": "app539680716",
-  "letter_id": "9",
+  "letter_id": "10",
   "doc_type": "note",
   "language": "de",
   "era": "twentieth-century",
@@ -30950,12 +30986,12 @@
    {
     "page": 1,
     "page_id": "5176_a1",
-    "image": "APP_53_968_0_716_5176_a1-L9_01.jpg"
+    "image": "APP_53_968_0_716_5176_a1-L10_01.jpg"
    },
    {
     "page": 2,
     "page_id": "5176_a2",
-    "image": "APP_53_968_0_716_5176_a2-L9_02.jpg"
+    "image": "APP_53_968_0_716_5176_a2-L10_02.jpg"
    }
   ],
   "uncertainty_count": 1,
@@ -30968,18 +31004,18 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 9",
-  "path": "documents/app539680716-9.json",
-  "text_path": "text/app539680716-9.txt",
-  "permalink": "/documents/app539680716/9/"
+  "title": "note 10",
+  "path": "documents/app539680716-10.json",
+  "text_path": "text/app539680716-10.txt",
+  "permalink": "/documents/app539680716/10/"
  },
  {
-  "uid": "app539680716-10",
+  "uid": "app539680716-11",
   "unit": "app539680716",
-  "letter_id": "10",
+  "letter_id": "11",
   "doc_type": "register",
   "language": "ru",
-  "era": "twentieth-century",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "",
@@ -30994,27 +31030,27 @@
    {
     "page": 1,
     "page_id": "5177_a1",
-    "image": "APP_53_968_0_716_5177_a1-L10_01.jpg"
+    "image": "APP_53_968_0_716_5177_a1-L11_01.jpg"
    },
    {
     "page": 2,
     "page_id": "5177_a2",
-    "image": "APP_53_968_0_716_5177_a2-L10_02.jpg"
+    "image": "APP_53_968_0_716_5177_a2-L11_02.jpg"
    },
    {
     "page": 3,
     "page_id": "5178_a1",
-    "image": "APP_53_968_0_716_5178_a1-L10_03.jpg"
+    "image": "APP_53_968_0_716_5178_a1-L11_03.jpg"
    },
    {
     "page": 4,
     "page_id": "5178_a2",
-    "image": "APP_53_968_0_716_5178_a2-L10_04.jpg"
+    "image": "APP_53_968_0_716_5178_a2-L11_04.jpg"
    },
    {
     "page": 5,
     "page_id": "5179_a1",
-    "image": "APP_53_968_0_716_5179_a1-L11_01.jpg"
+    "image": "APP_53_968_0_716_5179_a1-L12_01.jpg"
    }
   ],
   "uncertainty_count": 11,
@@ -31027,10 +31063,54 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "register 10",
-  "path": "documents/app539680716-10.json",
-  "text_path": "text/app539680716-10.txt",
-  "permalink": "/documents/app539680716/10/"
+  "title": "register 11",
+  "path": "documents/app539680716-11.json",
+  "text_path": "text/app539680716-11.txt",
+  "permalink": "/documents/app539680716/11/"
+ },
+ {
+  "uid": "app539680716-13",
+  "unit": "app539680716",
+  "letter_id": "13",
+  "doc_type": "note",
+  "language": "ru",
+  "era": "wlodzimierz",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "",
+  "date_precision": "unknown",
+  "date_source": "none",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 32,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "5179_a2",
+    "image": "APP_53_968_0_716_5179_a2-L13_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "5180_a",
+    "image": "APP_53_968_0_716_5180_a-L13_02.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 13",
+  "path": "documents/app539680716-13.json",
+  "text_path": "text/app539680716-13.txt",
+  "permalink": "/documents/app539680716/13/"
  },
  {
   "uid": "iiihamdaiiinr12367-2",

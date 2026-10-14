@@ -1,52 +1,78 @@
 # Editorial rulings for 53/968/0/-/716 (APP).
 #
-# Eleven documents in one notebook of Albert Breyer and a loose sheet laid in
-# it, divided by content (editor, 2026-10-14; intake/holding.py lists them).
-# The archive's title page and the notebook's cover are front matter.
+# Thirteen documents in one notebook of Albert Breyer and a loose sheet laid
+# in it, divided by content (editor, 2026-10-14; intake/holding.py lists
+# them). Breyer's copies stand apart from his own notes, because a copy
+# takes the date and the era of what it copies, not of the notebook (editor,
+# 2026-10-14: "a copy of an 1828 document from 1939 should not belong to the
+# 20th century"). The archive's title page and the notebook's cover are
+# front matter.
 
 places:
   overrides:
     "1": Kopojno
-    # Breyer's extracts: no place of writing (left empty, or the last line
-    # would be taken for one)
+    # Breyer's copies and notes: no place of writing (left empty, or the
+    # last line would be taken for one)
     "3": ""
     "4": Słupca
-    "7": Orlin
-    "9": Orlin
+    "5": ""
+    "6": ""
+    "8": Orlin
+    "10": Orlin
+    "12": ""
+    "13": ""
 
 dates:
   # read off the document
   read:
     "1": [1858, 12, 15, "day"]      # Kopojno d. 3/15 Grudnia 1858 r.
     "2": [1868, 3, 28, "day"]       # 28 марта 1868 г., the date of the table Breyer copied
+    "3": [1870, 11, 26, "day"]      # Bereits 26 Nov. 1870: the first of the two entries Breyer copied; the second is of 29 сент. 1892
     "4": [1868, 6, 29, "day"]       # Слупца 29 iюня 1868 г.
-    "7": [1935, 7, null, "month"]   # In Orlin i. 7. 1935
-    "9": [1936, 7, null, "month"]   # 7. 1936
+    "8": [1935, 7, null, "month"]   # In Orlin i. 7. 1935
+    "10": [1936, 7, null, "month"]  # 7. 1936
   supplied: {}
   twin: {}
   # [year, month, day, precision, basis]
   inferred:
-    "3": [1936, null, null, "year", "Breyer's notes in a notebook he used in July 1935 and July 1936; they copy entries of 1870 and 1892."]
-    "5": [1936, null, null, "year", "Breyer's copy and notes in a notebook he used in July 1935 and July 1936; his last figures are of 1914."]
-    "6": [1936, null, null, "year", "Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935."]
-    "8": [1935, 7, null, "month", "Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936."]
-    "11": [1936, null, null, "year", "Breyer's notes and copy at the end of a notebook he used in July 1935 and July 1936."]
+    "5": [1868, null, null, "year", "Breyer's copy of the servitudes of Łazińsk, written directly after his copy of the liquidation table of Łazińsk of 29 June 1868; the liquidation tables set out the peasants' servitudes."]
+    "6": [1936, null, null, "year", "Breyer's own figures, in a notebook he used in July 1935 and July 1936; his last figures are of 1914."]
+    "7": [1936, null, null, "year", "Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935."]
+    "9": [1935, 7, null, "month", "Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936."]
+    "12": [1936, null, null, "year", "Breyer's notes at the end of a notebook he used in July 1935 and July 1936."]
   sitting: {}
-  no_date: ["10"]
+  no_date: ["11", "13"]
 
 documents:
+  # A copy belongs to the era of what it copies (editor, 2026-10-14). The
+  # sheet of 1858 and the copies of 1868 to 1892 fall after Michalina, in the
+  # years of Włodzimierz Miączyński, the era before the twentieth century;
+  # the undated copies of Orliny (11, 13) are its liquidation table and
+  # servitudes, of the same reform of 1864 as the tables of 1868. Breyer's
+  # own notes and figures keep the holding's era.
+  era:
+    "1": wlodzimierz
+    "2": wlodzimierz
+    "3": wlodzimierz
+    "4": wlodzimierz
+    "5": wlodzimierz
+    "11": wlodzimierz
+    "13": wlodzimierz
+
   doc_type:
     "1": register
     "2": register
     "3": note
     "4": register
     "5": note
-    "6": register
-    "7": note
-    "8": register
-    "9": note
-    "10": register
-    "11": note
+    "6": note
+    "7": register
+    "8": note
+    "9": register
+    "10": note
+    "11": register
+    "12": note
+    "13": note
 
   language:
     "1": "pl"
@@ -58,10 +84,12 @@ documents:
     "7": "de"
     "8": "de"
     "9": "de"
-    "10": "ru"
+    "10": "de"
     "11": "ru"
+    "12": "de"
+    "13": "ru"
 
-  tables: ["1", "2", "4", "6", "8", "10"]
+  tables: ["1", "2", "4", "7", "9", "11"]
 
   duplicate_of: {}
   split_note: {}
@@ -71,6 +99,7 @@ documents:
     "4": [trabczyn]
     "5": [trabczyn]
     "6": [trabczyn]
+    "7": [trabczyn]
 
 damage:
   letters: []

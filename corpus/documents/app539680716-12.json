@@ -1,0 +1,99 @@
+{
+ "letter_id": "12",
+ "seq_archival": 12,
+ "parent_letter": "",
+ "unit": "app539680716",
+ "uid": "app539680716-12",
+ "pad": "app539680716-012",
+ "permalink": "/documents/app539680716/12/",
+ "doc_type": "note",
+ "era": "twentieth-century",
+ "themes": [],
+ "date_iso": "1936",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1936]",
+ "date_inferred_from": "Breyer's notes at the end of a notebook he used in July 1935 and July 1936.",
+ "year": 1936,
+ "month": "",
+ "day": "",
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 508,
+ "line_end": 518,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "de",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [],
+ "is_missing": 0,
+ "n_lines": 8,
+ "n_pages": 2,
+ "text": "Gross-Orlin u. Czarny Bród vor 60 Jahr.\nSeparat.\nnach d. Nummer, dann nach\nMorgen. —\nBiałoblot i Kl. Orlin\nvor 2 Jahren\nnach der Nummer.\nServitut i. Orlin 300 Mor",
+ "text_reading": "Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat.\n\nnach d. Nummer, dann nach Morgen. — Białoblot i Kl. Orlin vor 2 Jahren nach der Nummer.\n\nServitut i. Orlin 300 Mor",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "5179_a1",
+   "line_start": 510,
+   "line_end": 516,
+   "n_lines": 7,
+   "diplomatic": "Gross-Orlin u. Czarny Bród vor 60 Jahr.\nSeparat.\nnach d. Nummer, dann nach\nMorgen. —\nBiałoblot i Kl. Orlin\nvor 2 Jahren\nnach der Nummer.",
+   "transcription": "Gross-Orlin u. Czarny Bród vor 60 Jahr.\nSeparat.\nnach d. Nummer, dann nach\nMorgen. —\nBiałoblot i Kl. Orlin\nvor 2 Jahren\nnach der Nummer.",
+   "reading": "Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat.\n\nnach d. Nummer, dann nach Morgen. — Białoblot i Kl. Orlin vor 2 Jahren nach der Nummer.",
+   "paragraphs": [
+    "Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat.",
+    "nach d. Nummer, dann nach Morgen. — Białoblot i Kl. Orlin vor 2 Jahren nach der Nummer."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APP_53_968_0_716_5179_a1-L12_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 7
+  },
+  {
+   "page": 2,
+   "page_id": "5179_a2",
+   "line_start": 518,
+   "line_end": 518,
+   "n_lines": 1,
+   "diplomatic": "Servitut i. Orlin 300 Mor",
+   "transcription": "Servitut i. Orlin 300 Mor",
+   "reading": "Servitut i. Orlin 300 Mor",
+   "paragraphs": [
+    "Servitut i. Orlin 300 Mor"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_968_0_716_5179_a2-L13_01.jpg",
+   "doc_line_start": 8,
+   "doc_line_end": 8
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Great Orlin and Czarny Bród 60 years ago.\nSeparation.\nby the number, then by\nMorgen. —\nBiałobłoty and Little Orlin\n2 years ago\nby the number."
+  },
+  {
+   "page": 2,
+   "en": "Servitude in Orlin 300 Morgen"
+  }
+ ],
+ "text_english": "Great Orlin and Czarny Bród 60 years ago.\nSeparation.\nby the number, then by\nMorgen. —\nBiałobłoty and Little Orlin\n2 years ago\nby the number.\n\nServitude in Orlin 300 Morgen",
+ "summary_en": "Albert Breyer's notes on the separation in Great Orlin and Czarny Bród 60 years earlier, by the number and then by Morgen, and in Białobłoty and Little Orlin two years earlier, by the number; and that the servitude in Orlin covers 300 Morgen.",
+ "summary_de": "Albert Breyers Notizen zur Separation in Groß-Orlin und Czarny Bród vor 60 Jahren, nach der Nummer, dann nach Morgen, und in Białobłoty und Klein-Orlin vor zwei Jahren, nach der Nummer; dazu, dass die Servitut in Orlin 300 Morgen umfasst.",
+ "reading": {}
+}

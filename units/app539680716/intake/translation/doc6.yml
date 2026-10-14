@@ -2,25 +2,36 @@ pages:
 - page: 1
   confidence: high
   marker_count: 0
-  en: 'Year,Farmers:,Morgen
+  en: 'Russian entry after 1875:
 
-    1840,87,1368
+    Morgen 1655, rods 63
 
-    1868,91 farmers.,1691
+    farmers 94
 
-    1875,93,1691
+    —o—
 
-    1890,94,1655
+    Year from 1901: 1660 Morgen 271 rods,
 
-    1895,96,1657
+    91 farmers.
 
-    1901,97,1660
+    Year 1906: 2044 Morgen 181 rods,
 
-    1906,112,2044
+    91 old farmers - 21 new farmers
 
-    1914,137,2037
+    with 112 Morgen.'
+  names: []
+  numbers: []
+  flagged: []
+- page: 2
+  confidence: high
+  marker_count: 0
+  en: 'Year 1907: 91 old farmers
 
-    1935,146,1996'
+    and 21 new farmers
+
+    Year 1914: 137 farmers,
+
+    with 2037 Morgen.'
   names: []
   numbers: []
   flagged: []

@@ -1920,6 +1920,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - A spot sheet of 17 readings for the editor. Kl., Wirte and dt. ruled out of the glossary; Kuh and Neumann shut out of the documents where they are not the people of the name list.
 - Figures: 581 documents on 1,951 pages in 41 holdings, 1589 to 1936; 880 marks of doubt; 576 translated. Not published.
 
+## Copies take the era of what they copy (2026-10-14)
+
+- **The editor's ruling**: a copy belongs to the time of the document it copies, not to the date of the copy or the holding it is in ("a copy of an 1828 document from 1939 should not belong to the 20th century"). Recorded in `reference/eras.yml`.
+- **APP 53/968/0/-/716** brought into line: two documents that held one of Breyer's copies and his own notes together were divided (now thirteen documents). The sheet of 1858, the liquidation tables of 1868, Breyer's extracts of 1870 and 1892 (now dated 26 November 1870) and his copies of the servitudes of Łazińsk (dated 1868) and Orliny now stand in the era of Włodzimierz Miączyński; Breyer's own notes and figures stay in the twentieth century. The story page and both era descriptions follow. No other holding has a copy dated by its copying: APP 53/968/0/-/801 and I. HA Rep. 162 Nr. 295 already carry their originals' dates.
+- Figures: 583 documents; 880 marks of doubt; 578 translated. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

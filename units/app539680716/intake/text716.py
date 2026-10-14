@@ -41,7 +41,7 @@ FRONT = [
     ]),
 ]
 
-TABLES = {1, 2, 4, 6, 8, 10}
+TABLES = {1, 2, 4, 7, 9, 11}
 
 DOCS = {
  # ---------------------------------------------------------------- 1: the loose sheet of 1858, a table
@@ -253,7 +253,7 @@ Eingeschrieben [j. Wloch?] i. April 1892'''),
 |Ликвид. сумма для бывшаго владѣльца 10055 р. 70 к.||
 |Слупца 29 iюня 1868 г.||'''),
  ],
- # ---------------------------------------------------------------- 5: Łazińsk, the servitudes, and Breyer's counts
+ # ---------------------------------------------------------------- 5: Łazińsk, the servitudes (Breyer's copy)
  5: [
   ('5169_a2', '''Всѣ крестьяне селенiя Лазинскiй
 Голендры имѣютъ право:
@@ -267,8 +267,11 @@ Eingeschrieben [j. Wloch?] i. April 1892'''),
 Болѣе никакихъ правъ на
 сервитуты крестьяне не
 имѣютъ.
-—o—
-Rus. Eintragung nach 1875
+—o—'''),
+ ],
+ # ---------------------------------------------------------------- 6: Łazińsk, Breyer's counts of farmers and land, 1875 to 1914
+ 6: [
+  ('5170_a1', '''Rus. Eintragung nach 1875
 Morgen 1655 Rut. 63
 Wirte 94
 —o—
@@ -282,8 +285,8 @@ und 21 neue Wirte
 Jahr 1914. 137 Wirte,
 bei 2037 Morg.'''),
  ],
- # ---------------------------------------------------------------- 6: Łazińsk, farmers and Morgen 1840 to 1935, a table
- 6: [
+ # ---------------------------------------------------------------- 7: Łazińsk, farmers and Morgen 1840 to 1935, a table
+ 7: [
   ('5170_a2', '''Jahr|Wirte:|Morgen
 1840|87|1368
 1868|91 Wirte.|1691
@@ -295,8 +298,8 @@ bei 2037 Morg.'''),
 1914|137|2037
 1935|146|1996'''),
  ],
- # ---------------------------------------------------------------- 7: notes of 1935: Huta, Orlin, Józefów, Obory
- 7: [
+ # ---------------------------------------------------------------- 8: notes of 1935: Huta, Orlin, Józefów, Obory
+ 8: [
   ('5171_a1', '''Huta Trąbczyńska
 1935 - 18 Wirte 217 Morg.'''),
   ('5171_a2', '''In Orlin i. 7. 1935
@@ -385,8 +388,8 @@ mit dicken Bäuchen. Alles geht zum Pastor, Prozesse
 sind auch etliche, aber Ausnahme. Diebstahl sehr verbrei¬
 tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
  ],
- # ---------------------------------------------------------------- 8: Orlin, the farmers and their Morgen, a table
- 8: [
+ # ---------------------------------------------------------------- 9: Orlin, the farmers and their Morgen, a table
+ 9: [
   ('5174_a2', '''|[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?]|
 ||Morg.
 1|Bloch|18
@@ -437,8 +440,8 @@ tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
 |Kress|36
 |27 Huf. 28 M.|'''),
  ],
- # ---------------------------------------------------------------- 9: notes on Orlin, 1936
- 9: [
+ # ---------------------------------------------------------------- 10: notes on Orlin, 1936
+ 10: [
   ('5176_a1', '''Orlin Hauland 1 Okt. 1806
 In Orlin wurde Kaschubisch gesprochen.
 (Weber, „ Der Vater d. Bloch hat auch
@@ -456,8 +459,8 @@ nieużytki 300 =
 1157,69 morgen
 wieś Orlino.'''),
  ],
- # ---------------------------------------------------------------- 10: Orlin, the liquidation table, a table
- 10: [
+ # ---------------------------------------------------------------- 11: Orlin, the liquidation table, a table
+ 11: [
   ('5177_a1', '''|Ликвидац. табель селенiя Орлины помѣщика гр. Альбер. Тачановскаго|
 1|Цессъ Фома|10-245
 2|Куске Людов.|37-201
@@ -521,8 +524,8 @@ wieś Orlino.'''),
 |Вообще 850 мор. 272 пр.|
 |Уплатить 6049 р. 89 к.|'''),
  ],
- # ---------------------------------------------------------------- 11: Orlin: Breyer's notes, and the servitudes
- 11: [
+ # ---------------------------------------------------------------- 12: Orlin: Breyer's notes on the separation
+ 12: [
   ('5179_a1', '''Gross-Orlin u. Czarny Bród vor 60 Jahr.
 Separat.
 nach d. Nummer, dann nach
@@ -530,8 +533,11 @@ Morgen. —
 Białoblot i Kl. Orlin
 vor 2 Jahren
 nach der Nummer.'''),
-  ('5179_a2', '''Servitut i. Orlin 300 Mor
-Всѣ усадьбы селенiя Орлины
+  ('5179_a2', '''Servitut i. Orlin 300 Mor'''),
+ ],
+ # ---------------------------------------------------------------- 13: Orliny, the servitudes (Breyer's copy)
+ 13: [
+  ('5179_a2', '''Всѣ усадьбы селенiя Орлины
 имѣютъ право на лѣсныя и пастбищ¬
 ныя сервитуты въ половинѣ
 лѣса называемаго „Вельскій

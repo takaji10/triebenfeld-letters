@@ -6,22 +6,22 @@
  "uid": "app539680716-6",
  "pad": "app539680716-006",
  "permalink": "/documents/app539680716/6/",
- "doc_type": "register",
+ "doc_type": "note",
  "era": "twentieth-century",
  "themes": [],
  "date_iso": "1936",
  "date_precision": "year",
  "date_source": "inferred",
  "date_display": "[1936]",
- "date_inferred_from": "Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935.",
+ "date_inferred_from": "Breyer's own figures, in a notebook he used in July 1935 and July 1936; his last figures are of 1914.",
  "year": 1936,
  "month": "",
  "day": "",
  "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 257,
- "line_end": 268,
+ "line_start": 243,
+ "line_end": 258,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -32,30 +32,52 @@
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 10,
- "n_pages": 1,
- "text": "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
- "text_reading": "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
+ "n_lines": 13,
+ "n_pages": 2,
+ "text": "Rus. Eintragung nach 1875\nMorgen 1655 Rut. 63\nWirte 94\n—o—\nJahr v. 1901 1660 M. 271 Rut.\n91 Wirte.\nJahr 1906 2044 Mor. 181 Rut.\n91 alte Wirte - 21 neue Wirte\nmit 112 Mor.\nJahr 1907 91 alte Wirte\nund 21 neue Wirte\nJahr 1914. 137 Wirte,\nbei 2037 Morg.",
+ "text_reading": "Rus. Eintragung nach 1,875 Morgen 1655 Rut. 63 Wirte 94\n\n—o— Jahr v. 1901 1,660 M. 271 Rut. 91 Wirte.\n\nJahr 1906 2,044 Mor. 181 Rut. 91 alte Wirte - 21 neue Wirte mit 112 Mor.\n\nJahr 1907 91 alte Wirte und 21 neue Wirte Jahr 1914. 137 Wirte, bei 2,037 Morg.",
  "pages": [
   {
    "page": 1,
-   "page_id": "5170_a2",
-   "line_start": 259,
-   "line_end": 268,
-   "n_lines": 10,
-   "diplomatic": "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
-   "transcription": "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
-   "reading": "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
+   "page_id": "5170_a1",
+   "line_start": 245,
+   "line_end": 253,
+   "n_lines": 9,
+   "diplomatic": "Rus. Eintragung nach 1875\nMorgen 1655 Rut. 63\nWirte 94\n—o—\nJahr v. 1901 1660 M. 271 Rut.\n91 Wirte.\nJahr 1906 2044 Mor. 181 Rut.\n91 alte Wirte - 21 neue Wirte\nmit 112 Mor.",
+   "transcription": "Rus. Eintragung nach 1875\nMorgen 1655 Rut. 63\nWirte 94\n—o—\nJahr v. 1901 1660 M. 271 Rut.\n91 Wirte.\nJahr 1906 2044 Mor. 181 Rut.\n91 alte Wirte - 21 neue Wirte\nmit 112 Mor.",
+   "reading": "Rus. Eintragung nach 1,875 Morgen 1655 Rut. 63 Wirte 94\n\n—o— Jahr v. 1901 1,660 M. 271 Rut. 91 Wirte.\n\nJahr 1906 2,044 Mor. 181 Rut. 91 alte Wirte - 21 neue Wirte mit 112 Mor.",
    "paragraphs": [
-    "Jahr,Wirte:,Morgen\n1840,87,1368\n1868,91 Wirte.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996"
+    "Rus. Eintragung nach 1,875 Morgen 1655 Rut. 63 Wirte 94",
+    "—o— Jahr v. 1901 1,660 M. 271 Rut. 91 Wirte.",
+    "Jahr 1906 2,044 Mor. 181 Rut. 91 alte Wirte - 21 neue Wirte mit 112 Mor."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": false,
-   "scan": "APP_53_968_0_716_5170_a2-L6_01.jpg",
+   "continues_next": true,
+   "scan": "APP_53_968_0_716_5170_a1-L6_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 10
+   "doc_line_end": 9
+  },
+  {
+   "page": 2,
+   "page_id": "5170_a2",
+   "line_start": 255,
+   "line_end": 258,
+   "n_lines": 4,
+   "diplomatic": "Jahr 1907 91 alte Wirte\nund 21 neue Wirte\nJahr 1914. 137 Wirte,\nbei 2037 Morg.",
+   "transcription": "Jahr 1907 91 alte Wirte\nund 21 neue Wirte\nJahr 1914. 137 Wirte,\nbei 2037 Morg.",
+   "reading": "Jahr 1907 91 alte Wirte und 21 neue Wirte Jahr 1914. 137 Wirte, bei 2,037 Morg.",
+   "paragraphs": [
+    "Jahr 1907 91 alte Wirte und 21 neue Wirte Jahr 1914. 137 Wirte, bei 2,037 Morg."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APP_53_968_0_716_5170_a2-L7_01.jpg",
+   "doc_line_start": 10,
+   "doc_line_end": 13
   }
  ],
  "mentions": [],
@@ -66,12 +88,15 @@
  "translation": [
   {
    "page": 1,
-   "en": "Year,Farmers:,Morgen\n1840,87,1368\n1868,91 farmers.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
-   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"1\" class=\"no\">Year</th><th rowspan=\"1\" class=\"name\">Farmers:</th><th class=\"num\">Morgen</th></tr></thead>\n<tbody><tr><td class=\"no\">1840</td><td class=\"name\">87</td><td class=\"num\">1,368</td></tr><tr><td class=\"no\">1868</td><td class=\"name\">91 farmers.</td><td class=\"num\">1691</td></tr><tr><td class=\"no\">1875</td><td class=\"name\">93</td><td class=\"num\">1691</td></tr><tr><td class=\"no\">1890</td><td class=\"name\">94</td><td class=\"num\">1655</td></tr><tr><td class=\"no\">1895</td><td class=\"name\">96</td><td class=\"num\">1657</td></tr><tr><td class=\"no\">1901</td><td class=\"name\">97</td><td class=\"num\">1660</td></tr><tr><td class=\"no\">1906</td><td class=\"name\">112</td><td class=\"num\">2,044</td></tr><tr><td class=\"no\">1914</td><td class=\"name\">137</td><td class=\"num\">2,037</td></tr><tr><td class=\"no\">1935</td><td class=\"name\">146</td><td class=\"num\">1996</td></tr></tbody>\n</table></div>"
+   "en": "Russian entry after 1875:\nMorgen 1655, rods 63\nfarmers 94\n—o—\nYear from 1901: 1,660 Morgen 271 rods,\n91 farmers.\nYear 1906: 2,044 Morgen 181 rods,\n91 old farmers - 21 new farmers\nwith 112 Morgen."
+  },
+  {
+   "page": 2,
+   "en": "Year 1907: 91 old farmers\nand 21 new farmers\nYear 1914: 137 farmers,\nwith 2,037 Morgen."
   }
  ],
- "text_english": "Year,Farmers:,Morgen\n1840,87,1368\n1868,91 farmers.,1691\n1875,93,1691\n1890,94,1655\n1895,96,1657\n1901,97,1660\n1906,112,2044\n1914,137,2037\n1935,146,1996",
- "summary_en": "Albert Breyer's table of farmers and Morgen in nine years from 1840 to 1935: in 1840, 87 farmers and 1,368 Morgen; in 1868, 91 farmers and 1,691 Morgen; in 1890, 94 farmers and 1,655 Morgen; in 1906, 112 farmers and 2,044 Morgen; in 1914, 137 farmers and 2,037 Morgen; in 1935, 146 farmers and 1,996 Morgen. The table names no village; its 1,691 Morgen of 1868 are those of the liquidation table of Łazińsk.",
- "summary_de": "Albert Breyers Tabelle der Wirte und Morgen in neun Jahren von 1840 bis 1935: 1840 87 Wirte und 1368 Morgen, 1868 91 Wirte und 1691 Morgen, 1890 94 Wirte und 1655 Morgen, 1906 112 Wirte und 2044 Morgen, 1914 137 Wirte und 2037 Morgen, 1935 146 Wirte und 1996 Morgen. Die Tabelle nennt kein Dorf; ihre 1691 Morgen von 1868 sind die der Liquidationstabelle von Łazińsk.",
+ "text_english": "Russian entry after 1875:\nMorgen 1655, rods 63\nfarmers 94\n—o—\nYear from 1901: 1,660 Morgen 271 rods,\n91 farmers.\nYear 1906: 2,044 Morgen 181 rods,\n91 old farmers - 21 new farmers\nwith 112 Morgen.\n\nYear 1907: 91 old farmers\nand 21 new farmers\nYear 1914: 137 farmers,\nwith 2,037 Morgen.",
+ "summary_en": "Albert Breyer's figures of farmers and land, in German, written in the notebook below his copy of the servitudes of Łazińsk; they name no village. By the Russian entry after 1875, 1,655 Morgen 63 rods and 94 farmers; in 1901, 1,660 Morgen 271 rods and 91 farmers; in 1906, 2,044 Morgen 181 rods, 91 old and 21 new farmers with 112 Morgen; in 1907, 91 old and 21 new farmers; in 1914, 137 farmers with 2,037 Morgen.",
+ "summary_de": "Albert Breyers Zahlen der Wirte und des Landes, deutsch, im Heft unter seiner Abschrift der Servitute von Łazińsk; ein Dorf nennen sie nicht. Nach der russischen Eintragung nach 1875 1655 Morgen 63 Ruten und 94 Wirte; 1901 1660 Morgen 271 Ruten und 91 Wirte; 1906 2044 Morgen 181 Ruten, 91 alte und 21 neue Wirte mit 112 Morgen; 1907 91 alte und 21 neue Wirte; 1914 137 Wirte mit 2037 Morgen.",
  "reading": {}
 }

@@ -26,14 +26,17 @@ loose sheet is the Polish list of hearth tax due from the colony of
 Emilienheim, dated at Kopojno on 3/15 December 1858 by the wójt.
 
 Documents (by content, the editor's choice, 2026-10-14): 1 the sheet of
-1858 (table); 2 the Emilienheim table (table); 3 notes on Emilienheim of
-1870 and 1892; 4 the Łazińsk table (table); 5 the Łazińsk servitudes and
-Breyer's counts; 6 farmers and Morgen of Łazińsk 1840 to 1935 (table); 7
-Breyer's notes of 1935 on Huta Trąbczyńska, Orlin, Józefów and Obory; 8 the
-farmers of Orlin and their Morgen (table); 9 notes on Orlin of 1936; 10 the
-Orliny table (table); 11 Breyer's notes on the separation and the Orliny
-servitudes. A page that holds the end of one and the start of the next
-stands under both.
+1858 (table); 2 the Emilienheim table (table); 3 Breyer's extracts on
+Emilienheim of 1870 and 1892; 4 the Łazińsk table (table); 5 the Łazińsk
+servitudes (copy); 6 Breyer's counts of farmers and land, 1875 to 1914; 7
+farmers and Morgen of Łazińsk 1840 to 1935 (table); 8 Breyer's notes of 1935
+on Huta Trąbczyńska, Orlin, Józefów and Obory; 9 the farmers of Orlin and
+their Morgen (table); 10 notes on Orlin of 1936; 11 the Orliny table
+(table); 12 Breyer's notes on the separation; 13 the Orliny servitudes
+(copy). A page that holds the end of one and the start of the next stands
+under both. Breyer's copies stand apart from his own notes because a copy
+takes the date and era of what it copies (editor, 2026-10-14): 5 and 6, 12
+and 13 were one document each until then.
 
 Pages: the photo number and the side. Front matter: 5159_a (the archive's
 title page) and 5162_a (the notebook's cover: "Łazinsk", "Emilienheim",

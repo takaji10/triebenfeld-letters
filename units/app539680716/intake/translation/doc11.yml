@@ -1,94 +1,150 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 0
-  en: 'Great Orlin and Czarny Bród 60 years ago.
+  marker_count: 2
+  en: ',"Liquidation table of the village of Orliny, of the landowner Count Albert Taczanowski",
 
-    Separation.
+    1,Tsess Foma,10-245
 
-    by the number, then by
+    2,Kuske Liudov.,37-201
 
-    Morgen. —
+    3,Volter Bogumil,15-
 
-    Białobłoty and Little Orlin
+    4,Fitsner Ivan,22
 
-    2 years ago
+    5,Kolodzinskii Lavr.,31
 
-    by the number.'
+    6,Retslav Bogusl.,15
+
+    7,Vishnevskii Osip,22
+
+    8,[uncertain: Sturtsenger] Osip.,
+
+    9,Peda Bogumil,15
+
+    10,Iurkevich Avg.,15
+
+    11,Iurikh Gust.,
+
+    12,[uncertain: Lanitts] Ad.,'
   names: []
   numbers: []
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 1
-  en: 'Servitude in Orlin 300 Morgen
+  marker_count: 4
+  en: ',,2 49.
 
-    All the farmsteads of the village of Orliny
+    13,Tsebel Andr.,11
 
-    have the right to forest and pasture
+    14,""" Mikh.",25
 
-    servitudes in one half of
+    15,Berka Gotl.,25
 
-    the forest called "Velskii
+    16,[uncertain: Gralka] Voits.,40
 
-    Bor", adjoining the village,
+    17,Gade Andr.,22
 
-    namely: a) to enter the forest
+    18,Khukh Ant.,30
 
-    every week on Saturdays to
+    19,""" Iv.",48
 
-    gather fallen wood, break off
+    20,[uncertain: Vangold] Gotl.,15
 
-    dry branches and grub up stumps.
+    21,Tukholka Andr.,14
 
-    Branches may be broken off
+    22,Shiller Liud.,15
 
-    the trees with a [tree] hook, and in
+    23,[uncertain: Verech] Mat.,20
 
-    grubbing up stumps a
+    24,Reiman M.,17
 
-    [uncertain: lever] may be used. The fuel so gathered
+    25,[uncertain: Daiger] Mar.,12
 
-    the farmstead holders
+    26,Gesse Gotl.,17
 
-    carry away by carts, reckoning
-
-    no more than one cart to a farmstead'
+    27,""" widow",12'
   names: []
   numbers: []
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 0
-  en: 'a week; b) to receive every year
+  marker_count: 3
+  en: '28,Gesse Andr.,25
 
-    for each farmstead 1 tree for
+    29,Shilke Andr. Dan.,18
 
-    the repair and mending of buildings.
+    30,Zandek Iv.,15
 
-    The tree must measure, at a height
+    31,Ianke [uncertain: Sh.],7
 
-    of 2 ells from the stump, 8 inches in dia¬
+    32,Martin Iv.,16
 
-    meter, and is given to the peasants
+    33,Krol Dan.,7
 
-    with its top and branches. c)
+    34,Shmidt Gotl.,7
 
-    To graze their cattle, and to rake
+    35,Vartke Kris.,11
 
-    in the months of April, May, Sep¬
+    36,Arendt Gotl.,16
 
-    tember, October and November litter
+    37,Martin Iv.,16
 
-    for the cattle. The number of carts
+    38,Ott Iv.,16
 
-    of litter and of head of cattle each
+    39,Gaupter Krist.,4
 
-    farmstead may put out to pas¬
+    40,heirs of Iana [uncertain: Kurkina],4
 
-    ture is laid down by the following
+    41,Shmidtke Frid.,16
 
-    list: ××'
+    42,[uncertain: Shpitser] Dan.,18
+
+    43,Berngard. Mikh.,='
+  names: []
+  numbers: []
+  flagged: []
+- page: 4
+  confidence: high
+  marker_count: 1
+  en: '44,Greger Gotl.,4
+
+    45,Rosentreter Frid.,8
+
+    46,Dresher Fr.,7
+
+    47,Betke Mikh.,22
+
+    48,Greger Voits.,11
+
+    49,Rozentreter,15
+
+    50,Geze Iv.,—
+
+    51,Shults Avg.,7
+
+    52,[uncertain: Shimmer] Leop.,12
+
+    53,Greger Avg.,15'
+  names: []
+  numbers: []
+  flagged: []
+- page: 5
+  confidence: high
+  marker_count: 1
+  en: '54,Bergold Gotl.,15
+
+    55,Kasse Iv.,9
+
+    56,Berminskii Voits.,3
+
+    57,heirs of [uncertain: Kurvina],3
+
+    ,The village headman''s farmstead,4
+
+    ,In all 850 Morgen 272 rods,
+
+    "","To be paid 6049 roubles 89 kopecks",""'
   names: []
   numbers: []
   flagged: []

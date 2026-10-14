@@ -1,43 +1,119 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 1
-  en: 'Orlin Hauland, 1 Oct. 1806
+  marker_count: 6
+  en: ',[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible],
 
-    In Orlin Kashubian was spoken.
+    ,,Morgen
 
-    (Weber, " Bloch''s father also
+    1,Bloch,18
 
-    from Czarny Bród, spoke Kashubian
+    2,Schmidt P.,15
 
-    come from Orlin)
+    3,Kuske,28
 
-    Because of the wet years in Orlin
+    4,Büch,22
 
-    bankrupt [uncertain: gemorden].
+    5,Ullrich,29
 
-    "Kjaufft" word.'
+    6,Kasner Mar.,14
+
+    7,""" Joh",22
+
+    8,Ludewig,14
+
+    9,Hermann,17
+
+    10,Bischof,9'
   names: []
   numbers: []
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 0
-  en: 'July 1936
+  marker_count: 4
+  en: '11,Frank,17
 
-    Class I 17
+    12,Stefan,18
 
-    II " 370
+    13,Kolański,43
 
-    III " —
+    14,[uncertain: Skrzydlewski] Fr.,28
 
-    IV " 464.69
+    15,Belonging to the school,15
 
-    waste land 300 =
+    16,Zobel,33
 
-    1157.69 Morgen
+    17,Baumann,15
 
-    village of Orlino.'
+    18,Borowski,22
+
+    19,Ratsch,7
+
+    20,Kientopf,28
+
+    21,Schiller,34
+
+    22,Common land,34
+
+    23,[uncertain: Christ.] Kasner,17
+
+    24,"[uncertain: Gottfr.] """,17
+
+    25,[uncertain: Gottfr.] M.,16'
+  names: []
+  numbers: []
+  flagged: []
+- page: 3
+  confidence: high
+  marker_count: 1
+  en: '26,Kaźmierczak,12
+
+    28,Gallas,15
+
+    29,Kientopf,32
+
+    30,Wieczorek,11
+
+    31,[uncertain: Tilson],7
+
+    32,Gierke,9
+
+    33,Chmielowski,4
+
+    34,Silberman,23
+
+    35,Krisiak,22
+
+    36,Miszkiewicz,7
+
+    37,Hoffmann,14
+
+    ,Ziebart,7
+
+    ,Zielke,4
+
+    ,Pelz,15
+
+    ,Lehman,7'
+  names: []
+  numbers: []
+  flagged: []
+- page: 4
+  confidence: high
+  marker_count: 3
+  en: ',Neumann,10
+
+    ,Galant,16
+
+    ,[uncertain: Seling],7
+
+    ,[uncertain: Rohrfuss],18
+
+    ,[uncertain: Jaschek],15
+
+    ,Kress,36
+
+    ,27 Hufen 28 Morgen,'
   names: []
   numbers: []
   flagged: []

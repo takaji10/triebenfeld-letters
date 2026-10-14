@@ -5,7 +5,7 @@
 # documents were read in the corpus text as read from the photos
 # (intake/text716.py); "p." is the page of the document.
 #
-# Result: 83 statements, 67 supported as first written, 16 overstated or
+# Result: 86 statements, 70 supported as first written, 16 overstated or
 # unsupported and weakened or cut (marked below). What the first draft got
 # wrong, for the next notebook:
 # - It put into the liquidation tables (2, 4) what the edition knows from
@@ -24,6 +24,11 @@
 #   6 Morgen more than the figures (1151.69). Checked on the photo
 #   (5176_a2): the figures are read rightly; the summary now says so.
 # Nothing in the summaries rests on a word marked as doubtful.
+#
+# Documents 5 and 11 were each divided in two on 2026-10-14 (a copy takes
+# the era of what it copies): their statements stand under the part they
+# belong to, and one statement on where each copy stands was added to 5, 6
+# and 13. Document numbers from 6 on are the new ones.
 
 app539680716-001:
 - {claim: "polnische Liste der Rauchfangsteuer samt dem Kasernengeld der Kolonie Emilienheim", verdict: supported, where: "p. 2: Wykaz opłacać się mających podatków podymnych łącznie z kaszarkowym Kol. Emilienheim"}
@@ -65,20 +70,24 @@ app539680716-004:
 - {claim: "zusammen 1691 Morgen 219 Ruten; Liquidationssumme für den früheren Besitzer 10.055 Rubel 70 Kopeken", verdict: supported, where: "p. 8: Вообще 1691 мор. 219 пр. / Ликвид. сумма для бывшаго владѣльца 10055 р. 70 к."}
 
 app539680716-005:
-- {claim: "Breyers russische Abschrift der Servitute der Bauern von Łazińsk mit deutschen Zahlen", verdict: supported, where: "pp. 1-3"}
+- {claim: "Breyers russische Abschrift der Servitute der Bauern von Łazińsk", verdict: supported, where: "pp. 1-2"}
 - {claim: "alle Bauern des Dorfes der Łazińsker Holländer haben das Recht, ihr ganzes Vieh im Wald Studzianki zu weiden", verdict: supported, where: "p. 1: Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право: 1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки\"; the doubtful word left out"}
 - {claim: "zweimal in der Woche Leseholz, liegendes Holz und trockene Äste, sammeln und fortzutragen", verdict: supported, where: "pp. 1-2: два раза въ недѣлю сбиранину состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]; the doubtful word left out"}
 - {claim: "andere Rechte auf Servitute haben sie nicht", verdict: supported, where: "p. 2: Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ."}
+- {claim: "im Heft unmittelbar nach seiner Abschrift der Liquidationstabelle von Łazińsk von 1868; die Abschrift trägt kein Datum", verdict: supported, where: "5169_a2: the copy begins below the end of the table (Слупца 29 iюня 1868 г.); no date in it. Written when document 5 was divided (2026-10-14)"}
+
+app539680716-006:
+- {claim: "Zahlen der Wirte und des Landes, im Heft unter seiner Abschrift der Servitute von Łazińsk; ein Dorf nennen sie nicht", verdict: supported, where: "5170_a1: after the divider below the copy; no village named. Written when document 5 was divided (2026-10-14)"}
 - {claim: "nach der russischen Eintragung nach 1875 1655 Morgen 63 Ruten und 94 Wirte", verdict: supported, where: "p. 2: Rus. Eintragung nach 1875 Morgen 1655 Rut. 63 Wirte 94"}
 - {claim: "1901 1660 Morgen 271 Ruten, 91 Wirte; 1906 2044 Morgen 181 Ruten, 91 alte und 21 neue Wirte mit 112 Morgen", verdict: supported, where: "p. 2"}
 - {claim: "1907 91 alte und 21 neue Wirte; 1914 137 Wirte mit 2037 Morgen", verdict: supported, where: "p. 3"}
 
-app539680716-006:
+app539680716-007:
 - {claim: "Tabelle der Wirte und Morgen in neun Jahren von 1840 bis 1935", verdict: supported, where: "heading Jahr, Wirte:, Morgen; nine rows"}
 - {claim: "1840 87/1368, 1868 91/1691, 1890 94/1655, 1906 112/2044, 1914 137/2037, 1935 146/1996", verdict: supported, where: "the rows"}
 - {claim: "die Tabelle nennt kein Dorf; ihre 1691 Morgen von 1868 sind die der Liquidationstabelle von Łazińsk", verdict: supported, where: "document 4, p. 8: Вообще 1691 мор. 219 пр."}
 
-app539680716-007:
+app539680716-008:
 - {claim: "Notizen vom Juli 1935, deutsch und zum Teil russisch", verdict: supported, where: "p. 2: In Orlin i. 7. 1935; p. 3 in Russian"}
 - {claim: "Huta Trąbczyńska 1935 18 Wirte und 217 Morgen, Orlin im Juli 1935 85 Wirte", verdict: supported, where: "pp. 1-2"}
 - {claim: "für Orliny 152 Kühe und 343 Schafe", verdict: supported, where: "p. 3: Скотъ Орлины. ×× 152 коровъ 343 овецъ"}
@@ -98,7 +107,7 @@ app539680716-007:
 - {claim: "Bräuche und der Zug der Jugend, meist Mädchen, ins Posensche", verdict: supported, where: "p. 8: Am Sonnabend kein Dung fahren ... Jugend meist Mädchen ins Posenschen."}
 - {claim: "die Notizen brechen mitten im Satz ab", verdict: supported, where: "p. 8: Schlechte Diebs-. First written 'am Ende der Seite': true, but the point is the sentence; reworded"}
 
-app539680716-008:
+app539680716-009:
 - {claim: "Liste der Wirte des Orliner Haulands Biskupice mit ihrem Land in Morgen; Überschrift nur zum Teil gelesen", verdict: supported, where: "p. 1: [?] von dem Orliner Hauland Biskupice [?] ...; Morg."}
 - {claim: "36 Einträge, von 1 bis 37 gezählt, Nr. 27 fehlt, von Bloch bis Hoffmann", verdict: supported, where: "pp. 1-3. First written as 37 entries: overstated, corrected"}
 - {claim: "15 Morgen zur Schule gehörig und 34 Morgen gemeinschaftliches Land", verdict: supported, where: "15,Zur Schule gehörig,15; 22,Gemeinschaftl. Land,34"}
@@ -106,7 +115,7 @@ app539680716-008:
 - {claim: "der größte Besitz Kolańskis mit 43 Morgen", verdict: supported, where: "13,Kolański,43"}
 - {claim: "die Summe lautet 27 Hufen 28 Morgen", verdict: supported, where: "last line: 27 Huf. 28 M."}
 
-app539680716-009:
+app539680716-010:
 - {claim: "Notizen über Orlin vom Juli 1936: Orlin Hauland 1 Okt. 1806", verdict: supported, where: "p. 1; p. 2: 7. 1936"}
 - {claim: "in Orlin wurde Kaschubisch gesprochen", verdict: supported, where: "p. 1"}
 - {claim: "eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische", verdict: supported, where: "p. 1: (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin). First written 'nach Weber sprach auch der Vater Blochs, aus Czarny Bród, Kaschubisch': the note is too broken for that; weakened"}
@@ -114,16 +123,19 @@ app539680716-009:
 - {claim: "auf der folgenden Seite die Fläche des Dorfes Orlino nach Klassen: I 17, II 370, IV 464,69 Morgen, 300 Morgen Unland", verdict: supported, where: "p. 2. First written 'darunter, polnisch' and 'Bodenklassen': the page is the next one, the classes are in German abbreviation (Kl.); corrected"}
 - {claim: "Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69", verdict: supported, where: "p. 2: 1157,69 morgen; 17 + 370 + 464.69 + 300 = 1151.69; figures checked on the photo 5176_a2"}
 
-app539680716-010:
+app539680716-011:
 - {claim: "Breyers russische Abschrift der Liquidationstabelle des Dorfes Orliny des Gutsbesitzers Graf Albert Taczanowski, ohne Datum", verdict: supported, where: "p. 1: Ликвидац. табель селенiя Орлины помѣщика гр. Альбер. Тачановскаго; no date"}
 - {claim: "57 Stellen mit ihrer Fläche in Morgen, bei einigen auch in Ruten, bei einigen ohne Zahl, die größte mit 48 Morgen", verdict: supported, where: "nos. 1-57; 1 10-245, 2 37-201; 8, 11, 12 empty; 19 48"}
 - {claim: "das Gehöft des Schulzen mit 4 Morgen", verdict: supported, where: "p. 5: Усадьба солт.,4"}
 - {claim: "zusammen 850 Morgen 272 Ruten; zu zahlen 6049 Rubel 89 Kopeken", verdict: supported, where: "p. 5: Вообще 850 мор. 272 пр. / Уплатить 6049 р. 89 к."}
 
-app539680716-011:
+app539680716-012:
 - {claim: "Notizen zur Separation in Groß-Orlin und Czarny Bród vor 60 Jahren, nach der Nummer, dann nach Morgen", verdict: supported, where: "p. 1: Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat. nach d. Nummer, dann nach Morgen."}
 - {claim: "in Białobłoty und Klein-Orlin vor zwei Jahren, nach der Nummer", verdict: supported, where: "p. 1"}
 - {claim: "die Servitut in Orlin umfasst 300 Morgen", verdict: supported, where: "p. 2: Servitut i. Orlin 300 Mor"}
+
+app539680716-013:
+- {claim: "Breyers russische Abschrift der Servitute von Orliny, ohne Datum", verdict: supported, where: "5179_a2: Всѣ усадьбы селенiя Орлины ...; no date. Written when document 11 was divided (2026-10-14)"}
 - {claim: "alle Höfe von Orliny haben Wald- und Weideservitute in einer Hälfte des an das Dorf grenzenden Waldes Welski Bor", verdict: supported, where: "p. 2"}
 - {claim: "jeden Sonnabend Leseholz sammeln, trockene Äste brechen, Stubben roden; je Hof höchstens eine Fuhre in der Woche", verdict: supported, where: "pp. 2-3; the doubtful [напоръ?] left out"}
 - {claim: "jährlich je Hof ein Baum zur Ausbesserung der Gebäude, 8 Zoll stark in 2 Ellen Höhe, mit Wipfel und Ästen", verdict: supported, where: "p. 3"}

@@ -1,119 +1,215 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 6
-  en: ',[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible],
+  marker_count: 0
+  en: 'Huta Trąbczyńska
 
-    ,,Morgen
-
-    1,Bloch,18
-
-    2,Schmidt P.,15
-
-    3,Kuske,28
-
-    4,Büch,22
-
-    5,Ullrich,29
-
-    6,Kasner Mar.,14
-
-    7,""" Joh",22
-
-    8,Ludewig,14
-
-    9,Hermann,17
-
-    10,Bischof,9'
+    1935 - 18 farmers, 217 Morgen.'
   names: []
   numbers: []
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 4
-  en: '11,Frank,17
+  marker_count: 0
+  en: 'In Orlin, July 1935
 
-    12,Stefan,18
-
-    13,Kolański,43
-
-    14,[uncertain: Skrzydlewski] Fr.,28
-
-    15,Belonging to the school,15
-
-    16,Zobel,33
-
-    17,Baumann,15
-
-    18,Borowski,22
-
-    19,Ratsch,7
-
-    20,Kientopf,28
-
-    21,Schiller,34
-
-    22,Common land,34
-
-    23,[uncertain: Christ.] Kasner,17
-
-    24,"[uncertain: Gottfr.] """,17
-
-    25,[uncertain: Gottfr.] M.,16'
+    85 farmers.'
   names: []
   numbers: []
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 1
-  en: '26,Kaźmierczak,12
+  marker_count: 4
+  en: 'Livestock of Orliny. ××
 
-    28,Gallas,15
+    152 cows
 
-    29,Kientopf,32
+    343 sheep
 
-    30,Wieczorek,11
+    furshtiki 330.
 
-    31,[uncertain: Tilson],7
+    1879 fuel
 
-    32,Gierke,9
+    for the whole village 52 cartloads
 
-    33,Chmielowski,4
+    1880 - 300 Morgen 97 rods
 
-    34,Silberman,23
+    4 Morgen of waste land.
 
-    35,Krisiak,22
+    [uncertain: Bred]
 
-    36,Miszkiewicz,7
+    forestry plan:
 
-    37,Hoffmann,14
+    "Vdovii Bor, Biskupice,
 
-    ,Ziebart,7
+    Podbel, Szetlew, Grzebień,
 
-    ,Zielke,4
+    [uncertain: Gedpar], Kreshnia."
 
-    ,Pelz,15
+    1909 [illegible]
 
-    ,Lehman,7'
+    has [uncertain: entgekoit] that'
   names: []
   numbers: []
   flagged: []
 - page: 4
   confidence: high
   marker_count: 3
-  en: ',Neumann,10
+  en: 'In Józefów
 
-    ,Galant,16
+    [uncertain: Jäke], Becker, Wegert, [uncertain: Jesswein]
 
-    ,[uncertain: Seling],7
+    the first farmers.
 
-    ,[uncertain: Rohrfuss],18
+    Old houses with [uncertain: L…]
 
-    ,[uncertain: Jaschek],15
+    gable to the street
 
-    ,Kress,36
+    1056 hymns
 
-    ,27 Hufen 28 Morgen,'
+    1017 hymns in the Züllichau
+
+    hymn book
+
+    —o—
+
+    Clay for Łazińsk
+
+    from Querlin
+
+    —o—
+
+    Women wear aprons
+
+    right round the body'
+  names: []
+  numbers: []
+  flagged: []
+- page: 5
+  confidence: high
+  marker_count: 2
+  en: '30 years ago the
+
+    bonnets disappeared.
+
+    Bonnets were made from the
+
+    [uncertain: saddlers].
+
+    Czarny Bród,
+
+    Little Orlin, Great Orlin
+
+    [uncertain: Mądrosza],
+
+    Bystrzyca: 1 Protestant family
+
+    160 families.'
+  names: []
+  numbers: []
+  flagged: []
+- page: 6
+  confidence: high
+  marker_count: 2
+  en: 'In Little Orlin
+
+    1 [uncertain: Hufe] each for 40 farmers
+
+    The old people spoke
+
+    Low German, a little
+
+    The people of Orlin abuse those of Biało¬
+
+    błoty: the stupid Kashubians
+
+    In Wielki Bór a Protestant estate
+
+    owner, Riedel. Gave Mr
+
+    Schmidt a hymn book
+
+    In Orlin post-built houses (Bloch)
+
+    —o—
+
+    [uncertain: Holędry] Orliny Biskupicki'
+  names: []
+  numbers: []
+  flagged: []
+- page: 7
+  confidence: high
+  marker_count: 5
+  en: '[uncertain: Sollten], they steal wood from one another, steal pota¬
+
+    toes, dream of stealing hens
+
+    The German fellow countrymen robbed the teacher
+
+    on [uncertain: Zwrsze]. In Grodziec poor,
+
+    Łazińsk not such great thieving
+
+    The more converted, the more perverted.
+
+    [uncertain: Frierk], a preacher, the sons steal.
+
+    Protestant communists, believe in nothing.
+
+    Poverty does it mostly.
+
+    They get on well with the Poles. In Białobłoty
+
+    [uncertain: Brenda] drops drunk at home.
+
+    Immorality among married men not
+
+    widespread. Many wild marriages (3-4)
+
+    [uncertain: Zogel.] children, 7 illegitimate,
+
+    otherwise also 2-3
+
+    They marry mostly to Białobłoty. Many girls
+
+    do not marry. The Poles all speak good German
+
+    No tendencies to assimilation! Political
+
+    activity not much, but they do not pay their
+
+    membership dues. The Volksverband has more influence
+
+    through the "Volksfreund" and the calendar.
+
+    Volksverband: farmers - J.D.P. - youth'
+  names: []
+  numbers: []
+  flagged: []
+- page: 8
+  confidence: high
+  marker_count: 1
+  en: 'Near Grodziec "Ukerlinge", "in Obory cheeky, vulgar.
+
+    After the service [uncertain: they fight] every Sunday, dance amusement
+
+    In Orlin: the praying brethren, in the village two preachers,
+
+    for 2 years Pentecostalists and Baptists.
+
+    On Saturday no carting of dung. - Camomile
+
+    flowers only on St John''s night.
+
+    When a cow calves, nothing is lent, but things are borrowed.
+
+    The young, mostly girls, to the Poznań region. 50%
+
+    with big bellies. Everything goes to the pastor; lawsuits
+
+    there are some too, but they are the exception. Theft very wide¬
+
+    spread. Many who pray, but bad with it. Bad thie-'
   names: []
   numbers: []
   flagged: []

@@ -7,6 +7,15 @@
 # outlived the possession. Sorting those by date would scatter them across eras
 # they have nothing to do with.
 #
+# A copy belongs to the time of what it copies, not to when it was copied or
+# the holding it is kept in (the editor, 2026-10-14: "a copy of an 1828
+# document from 1939 should not belong to the 20th century"). A copy carries
+# its original's date, and its era is that of its original: Albert Breyer's
+# copies of the tables of 1868 stand with Włodzimierz Miączyński's years,
+# his own notes of 1936 in the twentieth century (53/968/0/-/716, set per
+# document under `documents: era:` in its rulings). Where a copy and the
+# copyist's own notes share a page, they are two documents.
+#
 # So no date appears in this file. Each era's span is COMPUTED from the
 # documents assigned to it and written into site/_data/eras.yml at build time,
 # which means it corrects itself when a holding is added. `ownership` below is
@@ -110,15 +119,19 @@ eras:
       Trąbczyn estate. The colonists on it sued him in 1859 over their rights
       of pasture and wood in his forest, and he answered with a counterclaim
       that went back to the privilege of 1746 and the contracts of
-      Hohenlohe-Ingelfingen's years. One document is here so far: the printed
-      summons of 1860.
+      Hohenlohe-Ingelfingen's years. Here so far are the printed summons of
+      1860, a tax list of Emilienheim of 1858, and Albert Breyer's copies of
+      the liquidation tables of 1868, by which the peasants received their
+      land, and of their servitudes.
     blurb_de: >-
       Nach Michalina Miączyńska führte ihr Sohn, Graf Włodzimierz Miączyński,
       das Gut Trąbczyn. Die Kolonisten des Gutes verklagten ihn 1859 wegen
       ihrer Weide- und Holzrechte in seinem Wald, und er antwortete mit einer
       Widerklage, die auf das Privileg von 1746 und die Verträge aus den
-      Jahren Hohenlohe-Ingelfingens zurückging. Bisher liegt ein Dokument vor:
-      die gedruckte Vorladung von 1860.
+      Jahren Hohenlohe-Ingelfingens zurückging. Bisher liegen die gedruckte
+      Vorladung von 1860 vor, eine Steuerliste von Emilienheim von 1858 und
+      Albert Breyers Abschriften der Liquidationstabellen von 1868, nach denen
+      die Bauern ihr Land erhielten, und ihrer Servitute.
 
   twentieth-century:
     order: 5
@@ -134,14 +147,14 @@ eras:
       and the German settlements on its former land, Łazińsk and Emilienheim
       among them, were villages of the commune of Trąbczyn in the Polish
       state. The historian Albert Breyer visited them in 1935 and 1936 and
-      wrote down what the settlers remembered; he also copied the Russian
-      tables of 1868 that gave the peasants their land. Three of his
-      notebooks are here so far, with a sheet of 1858 laid in one of them.
+      wrote down what the settlers remembered and counted their farms.
+      Three of his notebooks are here so far; his copies of older papers in
+      them stand with the era of those papers.
     blurb_de: >-
       Im zwanzigsten Jahrhundert war der Gutshof Trąbczyn parzelliert, und die
       deutschen Siedlungen auf seinem früheren Land, darunter Łazińsk und
       Emilienheim, waren Dörfer der Gemeinde Trąbczyn im polnischen Staat. Der
       Historiker Albert Breyer besuchte sie 1935 und 1936 und schrieb auf,
-      woran sich die Siedler erinnerten; er schrieb auch die russischen
-      Tabellen von 1868 ab, nach denen die Bauern ihr Land erhielten. Bisher
-      liegen drei seiner Notizhefte vor, in einem davon ein Blatt von 1858.
+      woran sich die Siedler erinnerten, und zählte ihre Höfe. Bisher liegen
+      drei seiner Notizhefte vor; seine Abschriften älterer Papiere darin
+      stehen bei der Epoche dieser Papiere.

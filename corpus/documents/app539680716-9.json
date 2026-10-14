@@ -6,23 +6,23 @@
  "uid": "app539680716-9",
  "pad": "app539680716-009",
  "permalink": "/documents/app539680716/9/",
- "doc_type": "note",
+ "doc_type": "register",
  "era": "twentieth-century",
  "themes": [],
- "date_iso": "1936-07",
+ "date_iso": "1935-07",
  "date_precision": "month",
- "date_source": "dateline",
- "date_display": "1936-07",
- "date_inferred_from": "read from the document's own dateline",
- "year": 1936,
+ "date_source": "inferred",
+ "date_display": "[1935-07]",
+ "date_inferred_from": "Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936.",
+ "year": 1935,
  "month": 7,
  "day": "",
- "place": "Orlin",
+ "place": "",
  "sender": "",
  "recipient": "",
- "line_start": 419,
- "line_end": 437,
- "uncertainty_count": 1,
+ "line_start": 367,
+ "line_end": 420,
+ "uncertainty_count": 14,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
@@ -30,74 +30,121 @@
  "relations": [],
  "estates": [],
  "is_missing": 0,
- "n_lines": 16,
- "n_pages": 2,
- "text": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.\n7. 1936\nI. Kl. 17\nII. \" 370\nIII. \" —\nIV. \" 464,69\nnieużytki 300 =\n1157,69 morgen\nwieś Orlino.",
- "text_reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].\n\n„Kjaufft\"-Wort.\n\n7. 1936\n\nI. Kl. 17\n\nII. \" 370\n\nIII. \" —\n\nIV. \" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino.",
+ "n_lines": 49,
+ "n_pages": 4,
+ "text": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9\n11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16\n26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7\n,Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,",
+ "text_reading": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9\n\n11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16\n\n26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7\n\n,Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,",
  "pages": [
   {
    "page": 1,
-   "page_id": "5176_a1",
-   "line_start": 421,
-   "line_end": 428,
-   "n_lines": 8,
-   "diplomatic": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.",
-   "transcription": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.",
-   "reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].\n\n„Kjaufft\"-Wort.",
+   "page_id": "5174_a2",
+   "line_start": 369,
+   "line_end": 380,
+   "n_lines": 12,
+   "diplomatic": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9",
+   "transcription": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9",
+   "reading": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9",
    "paragraphs": [
-    "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].",
-    "„Kjaufft\"-Wort."
+    ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],\n,,Morg.\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "scan": "APP_53_968_0_716_5176_a1-L9_01.jpg",
+   "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 8
+   "doc_line_end": 12
   },
   {
    "page": 2,
-   "page_id": "5176_a2",
-   "line_start": 430,
-   "line_end": 437,
-   "n_lines": 8,
-   "diplomatic": "7. 1936\nI. Kl. 17\nII. \" 370\nIII. \" —\nIV. \" 464,69\nnieużytki 300 =\n1157,69 morgen\nwieś Orlino.",
-   "transcription": "7. 1936\nI. Kl. 17\nII. \" 370\nIII. \" —\nIV. \" 464,69\nnieużytki 300 =\n1157,69 morgen\nwieś Orlino.",
-   "reading": "7. 1936\n\nI. Kl. 17\n\nII. \" 370\n\nIII. \" —\n\nIV. \" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino.",
+   "page_id": "5175_a1",
+   "line_start": 382,
+   "line_end": 396,
+   "n_lines": 15,
+   "diplomatic": "11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16",
+   "transcription": "11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16",
+   "reading": "11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16",
    "paragraphs": [
-    "7. 1936",
-    "I. Kl. 17",
-    "II. \" 370",
-    "III. \" —",
-    "IV. \" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino."
+    "11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[Skrzydlewski?] Fr.,28\n15,Zur Schule gehörig,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Gemeinschaftl. Land,34\n23,[Christ.?] Kasner,17\n24,\"[Gottfr.?] \"\"\",17\n25,[Gottfr.?] M.,16"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "scan": "APP_53_968_0_716_5175_a1-L9_02.jpg",
+   "doc_line_start": 13,
+   "doc_line_end": 27
+  },
+  {
+   "page": 3,
+   "page_id": "5175_a2",
+   "line_start": 398,
+   "line_end": 412,
+   "n_lines": 15,
+   "diplomatic": "26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7",
+   "transcription": "26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7",
+   "reading": "26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7",
+   "paragraphs": [
+    "26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[Tilson?],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "scan": "APP_53_968_0_716_5175_a2-L9_03.jpg",
+   "doc_line_start": 28,
+   "doc_line_end": 42
+  },
+  {
+   "page": 4,
+   "page_id": "5176_a1",
+   "line_start": 414,
+   "line_end": 420,
+   "n_lines": 7,
+   "diplomatic": ",Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,",
+   "transcription": ",Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,",
+   "reading": ",Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,",
+   "paragraphs": [
+    ",Neumann,10\n,Galant,16\n,[Seling?],7\n,[Rohrfuss?],18\n,[Jaschek?],15\n,Kress,36\n,27 Huf. 28 M.,"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "scan": "APP_53_968_0_716_5176_a2-L9_02.jpg",
-   "doc_line_start": 9,
-   "doc_line_end": 16
+   "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
+   "doc_line_start": 43,
+   "doc_line_end": 49
   }
  ],
  "mentions": [],
  "mentions_english": [],
- "place_canonical": "Orlin",
+ "place_canonical": "Unknown",
  "place_mentions": [],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nbankrupt [uncertain: gemorden].\n\"Kjaufft\" word."
+   "en": ",[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible],\n,,Morgen\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9",
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<caption>[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible]</caption>\n<thead><tr><th rowspan=\"1\" class=\"no\"></th><th rowspan=\"1\" class=\"name\"></th><th class=\"num\">Morgen</th></tr></thead>\n<tbody><tr><td class=\"no\">1</td><td class=\"name\">Bloch</td><td class=\"num\">18</td></tr><tr><td class=\"no\">2</td><td class=\"name\">Schmidt P.</td><td class=\"num\">15</td></tr><tr><td class=\"no\">3</td><td class=\"name\">Kuske</td><td class=\"num\">28</td></tr><tr><td class=\"no\">4</td><td class=\"name\">Büch</td><td class=\"num\">22</td></tr><tr><td class=\"no\">5</td><td class=\"name\">Ullrich</td><td class=\"num\">29</td></tr><tr><td class=\"no\">6</td><td class=\"name\">Kasner Mar.</td><td class=\"num\">14</td></tr><tr><td class=\"no\">7</td><td class=\"name\">&quot; Joh</td><td class=\"num\">22</td></tr><tr><td class=\"no\">8</td><td class=\"name\">Ludewig</td><td class=\"num\">14</td></tr><tr><td class=\"no\">9</td><td class=\"name\">Hermann</td><td class=\"num\">17</td></tr><tr><td class=\"no\">10</td><td class=\"name\">Bischof</td><td class=\"num\">9</td></tr></tbody>\n</table></div>"
   },
   {
    "page": 2,
-   "en": "July 1936\nClass I 17\nII \" 370\nIII \" —\nIV \" 464.69\nwaste land 300 =\n1157.69 Morgen\nvillage of Orlino."
+   "en": "11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[uncertain: Skrzydlewski] Fr.,28\n15,Belonging to the school,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Common land,34\n23,[uncertain: Christ.] Kasner,17\n24,\"[uncertain: Gottfr.] \"\"\",17\n25,[uncertain: Gottfr.] M.,16",
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"1\" class=\"no\"></th><th rowspan=\"1\" class=\"name\"></th><th class=\"num\">Morgen</th></tr></thead>\n<tbody><tr><td class=\"no\">11</td><td class=\"name\">Frank</td><td class=\"num\">17</td></tr><tr><td class=\"no\">12</td><td class=\"name\">Stefan</td><td class=\"num\">18</td></tr><tr><td class=\"no\">13</td><td class=\"name\">Kolański</td><td class=\"num\">43</td></tr><tr><td class=\"no\">14</td><td class=\"name\">[uncertain: Skrzydlewski] Fr.</td><td class=\"num\">28</td></tr><tr><td class=\"no\">15</td><td class=\"name\">Belonging to the school</td><td class=\"num\">15</td></tr><tr><td class=\"no\">16</td><td class=\"name\">Zobel</td><td class=\"num\">33</td></tr><tr><td class=\"no\">17</td><td class=\"name\">Baumann</td><td class=\"num\">15</td></tr><tr><td class=\"no\">18</td><td class=\"name\">Borowski</td><td class=\"num\">22</td></tr><tr><td class=\"no\">19</td><td class=\"name\">Ratsch</td><td class=\"num\">7</td></tr><tr><td class=\"no\">20</td><td class=\"name\">Kientopf</td><td class=\"num\">28</td></tr><tr><td class=\"no\">21</td><td class=\"name\">Schiller</td><td class=\"num\">34</td></tr><tr><td class=\"no\">22</td><td class=\"name\">Common land</td><td class=\"num\">34</td></tr><tr><td class=\"no\">23</td><td class=\"name\">[uncertain: Christ.] Kasner</td><td class=\"num\">17</td></tr><tr><td class=\"no\">24</td><td class=\"name\">[uncertain: Gottfr.] &quot;</td><td class=\"num\">17</td></tr><tr><td class=\"no\">25</td><td class=\"name\">[uncertain: Gottfr.] M.</td><td class=\"num\">16</td></tr></tbody>\n</table></div>"
+  },
+  {
+   "page": 3,
+   "en": "26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[uncertain: Tilson],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7",
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"1\" class=\"no\"></th><th rowspan=\"1\" class=\"name\"></th><th class=\"num\">Morgen</th></tr></thead>\n<tbody><tr><td class=\"no\">26</td><td class=\"name\">Kaźmierczak</td><td class=\"num\">12</td></tr><tr><td class=\"no\">28</td><td class=\"name\">Gallas</td><td class=\"num\">15</td></tr><tr><td class=\"no\">29</td><td class=\"name\">Kientopf</td><td class=\"num\">32</td></tr><tr><td class=\"no\">30</td><td class=\"name\">Wieczorek</td><td class=\"num\">11</td></tr><tr><td class=\"no\">31</td><td class=\"name\">[uncertain: Tilson]</td><td class=\"num\">7</td></tr><tr><td class=\"no\">32</td><td class=\"name\">Gierke</td><td class=\"num\">9</td></tr><tr><td class=\"no\">33</td><td class=\"name\">Chmielowski</td><td class=\"num\">4</td></tr><tr><td class=\"no\">34</td><td class=\"name\">Silberman</td><td class=\"num\">23</td></tr><tr><td class=\"no\">35</td><td class=\"name\">Krisiak</td><td class=\"num\">22</td></tr><tr><td class=\"no\">36</td><td class=\"name\">Miszkiewicz</td><td class=\"num\">7</td></tr><tr><td class=\"no\">37</td><td class=\"name\">Hoffmann</td><td class=\"num\">14</td></tr></tbody>\n<tfoot><tr><td class=\"no\"></td><td class=\"name\">Ziebart</td><td class=\"num\">7</td></tr><tr><td class=\"no\"></td><td class=\"name\">Zielke</td><td class=\"num\">4</td></tr><tr><td class=\"no\"></td><td class=\"name\">Pelz</td><td class=\"num\">15</td></tr><tr><td class=\"no\"></td><td class=\"name\">Lehman</td><td class=\"num\">7</td></tr></tfoot>\n</table></div>"
+  },
+  {
+   "page": 4,
+   "en": ",Neumann,10\n,Galant,16\n,[uncertain: Seling],7\n,[uncertain: Rohrfuss],18\n,[uncertain: Jaschek],15\n,Kress,36\n,27 Hufen 28 Morgen,",
+   "html": "<div class=\"ledger-wrap\"><table class=\"ledger\">\n<thead><tr><th rowspan=\"1\" class=\"no\"></th><th rowspan=\"1\" class=\"name\"></th><th class=\"num\">Morgen</th></tr></thead>\n<tfoot><tr><td class=\"no\"></td><td class=\"name\">Neumann</td><td class=\"num\">10</td></tr><tr><td class=\"no\"></td><td class=\"name\">Galant</td><td class=\"num\">16</td></tr><tr><td class=\"no\"></td><td class=\"name\">[uncertain: Seling]</td><td class=\"num\">7</td></tr><tr><td class=\"no\"></td><td class=\"name\">[uncertain: Rohrfuss]</td><td class=\"num\">18</td></tr><tr><td class=\"no\"></td><td class=\"name\">[uncertain: Jaschek]</td><td class=\"num\">15</td></tr><tr><td class=\"no\"></td><td class=\"name\">Kress</td><td class=\"num\">36</td></tr><tr><td class=\"no\"></td><td class=\"name\">27 Hufen 28 Morgen</td><td class=\"num\"></td></tr></tfoot>\n</table></div>"
   }
  ],
- "text_english": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nbankrupt [uncertain: gemorden].\n\"Kjaufft\" word.\n\nJuly 1936\nClass I 17\nII \" 370\nIII \" —\nIV \" 464.69\nwaste land 300 =\n1157.69 Morgen\nvillage of Orlino.",
- "summary_en": "Albert Breyer's notes on Orlin of July 1936: \"Orlin Hauland 1 Oct. 1806\". In Orlin Kashubian was spoken; with it a statement of Weber's about Bloch's father, Czarny Bród and Kashubian. The wet years in Orlin and a bankruptcy; the word \"Kjaufft\". On the next page the land of the village of Orlino (wieś Orlino) by classes: class I 17, II 370 and IV 464.69 Morgen, and 300 Morgen of waste land (nieużytki); Breyer's total is 1,157.69 Morgen, the figures add up to 1,151.69.",
- "summary_de": "Albert Breyers Notizen über Orlin vom Juli 1936: „Orlin Hauland 1 Okt. 1806“. In Orlin wurde Kaschubisch gesprochen; dazu eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische. Die nassen Jahre in Orlin und ein Bankrott; das Wort „Kjaufft“. Auf der folgenden Seite die Fläche des Dorfes Orlino (wieś Orlino) nach Klassen: Klasse I 17, II 370, IV 464,69 Morgen und 300 Morgen Unland (nieużytki); Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69.",
+ "text_english": ",[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible],\n,,Morgen\n1,Bloch,18\n2,Schmidt P.,15\n3,Kuske,28\n4,Büch,22\n5,Ullrich,29\n6,Kasner Mar.,14\n7,\"\"\" Joh\",22\n8,Ludewig,14\n9,Hermann,17\n10,Bischof,9\n\n11,Frank,17\n12,Stefan,18\n13,Kolański,43\n14,[uncertain: Skrzydlewski] Fr.,28\n15,Belonging to the school,15\n16,Zobel,33\n17,Baumann,15\n18,Borowski,22\n19,Ratsch,7\n20,Kientopf,28\n21,Schiller,34\n22,Common land,34\n23,[uncertain: Christ.] Kasner,17\n24,\"[uncertain: Gottfr.] \"\"\",17\n25,[uncertain: Gottfr.] M.,16\n\n26,Kaźmierczak,12\n28,Gallas,15\n29,Kientopf,32\n30,Wieczorek,11\n31,[uncertain: Tilson],7\n32,Gierke,9\n33,Chmielowski,4\n34,Silberman,23\n35,Krisiak,22\n36,Miszkiewicz,7\n37,Hoffmann,14\n,Ziebart,7\n,Zielke,4\n,Pelz,15\n,Lehman,7\n\n,Neumann,10\n,Galant,16\n,[uncertain: Seling],7\n,[uncertain: Rohrfuss],18\n,[uncertain: Jaschek],15\n,Kress,36\n,27 Hufen 28 Morgen,",
+ "summary_en": "Albert Breyer's list of the farmers of the Orlin Hauland of Biskupice with their land in Morgen; the heading is only partly read. It counts 36 entries, numbered 1 to 37 (the number 27 is missing), from Bloch to Hoffmann, among them 15 Morgen belonging to the school and 34 Morgen of common land, and below them, without numbers, ten more farmers from Ziebart to Kress. The largest holding is Kolański's, with 43 Morgen. The total reads 27 Hufen 28 Morgen.",
+ "summary_de": "Albert Breyers Liste der Wirte des Orliner Haulands Biskupice mit ihrem Land in Morgen; die Überschrift ist nur zum Teil gelesen. Sie zählt 36 Einträge, von 1 bis 37 gezählt (die Nummer 27 fehlt), von Bloch bis Hoffmann, darunter 15 Morgen, die zur Schule gehören, und 34 Morgen gemeinschaftliches Land, und darunter ohne Nummer zehn weitere Wirte von Ziebart bis Kress. Der größte Besitz ist der Kolańskis mit 43 Morgen. Die Summe lautet 27 Hufen 28 Morgen.",
  "reading": {}
 }

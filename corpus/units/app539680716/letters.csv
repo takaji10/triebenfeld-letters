@@ -1,5 +1,5 @@
 ﻿unit,uid,pad,permalink,letter_id,seq_archival,parent_letter,doc_type,date_iso,date_precision,date_source,date_display,date_inferred_from,year,month,day,place,sender,recipient,line_start,line_end,uncertainty_count,has_damage,rough_transcription,duplicate_of,is_missing,n_lines,n_pages,era,text,text_reading
-app539680716,app539680716-1,app539680716-001,/documents/app539680716/1/,1,1,,register,1858-12-15,day,dateline,1858-12-15,read from the document's own dateline,1858,12,15,Kopojno,,,12,52,1,0,0,,0,38,2,twentieth-century,",[7.?] 1858,,,
+app539680716,app539680716-1,app539680716-001,/documents/app539680716/1/,1,1,,register,1858-12-15,day,dateline,1858-12-15,read from the document's own dateline,1858,12,15,Kopojno,,,12,52,1,0,0,,0,38,2,wlodzimierz,",[7.?] 1858,,,
 ,Emilienheim,,,
 1,Krystyan Szejnwald,,1.,1-50
 2,Frydrych Hintz,,1.,1-50
@@ -75,7 +75,7 @@ app539680716,app539680716-1,app539680716-001,/documents/app539680716/1/,1,1,,reg
 ,,2-6,27,40-50
 ,Kopojno d. 3/15 Grudnia 1,858 r.,,,
 ,Woyt Gminy Kopojna,,,"
-app539680716,app539680716-2,app539680716-002,/documents/app539680716/2/,2,2,,register,1868-03-28,day,dateline,1868-03-28,read from the document's own dateline,1868,3,28,,,,53,101,3,0,0,,0,45,3,twentieth-century,",""Ликвидацiонная табель селенiя Эмилейнхаймъ (нынѣ Михаленовъ) состоящ. Калишск. губ., Слупецк. уѣз., Пыздрск. округа и гмины"",,
+app539680716,app539680716-2,app539680716-002,/documents/app539680716/2/,2,2,,register,1868-03-28,day,dateline,1868-03-28,read from the document's own dateline,1868,3,28,,,,53,101,3,0,0,,0,45,3,wlodzimierz,",""Ликвидацiонная табель селенiя Эмилейнхаймъ (нынѣ Михаленовъ) состоящ. Калишск. губ., Слупецк. уѣз., Пыздрск. округа и гмины"",,
 ,Эмилейнхаймъ,Неудобн.,Вообще
 ,,мор.,мор. прут.
 1,Шенвальдъ Кр.,6,17-71
@@ -166,7 +166,7 @@ app539680716,app539680716-2,app539680716-002,/documents/app539680716/2/,2,2,,reg
 ,Всего 319 мор. 250 пр.,,
 ,Помѣщ. 4,420 р. 53 коп.,,
 ,28 марта 1868 г.,,"
-app539680716,app539680716-3,app539680716-003,/documents/app539680716/3/,3,3,,note,1936,year,inferred,[1936],Breyer's notes in a notebook he used in July 1935 and July 1936; they copy entries of 1870 and 1892.,1936,,,,,,102,112,2,0,0,,0,9,1,twentieth-century,"Bereits 26 Nov. 1870 nach Messung
+app539680716,app539680716-3,app539680716-003,/documents/app539680716/3/,3,3,,note,1870-11-26,day,dateline,1870-11-26,read from the document's own dateline,1870,11,26,,,,102,112,2,0,0,,0,9,1,wlodzimierz,"Bereits 26 Nov. 1870 nach Messung
 d. Geom. Kal. удобной 331 мор. 179 пр.
 неудобной 5 "" 179 ""
 —o—
@@ -177,7 +177,7 @@ d. Geom. Kal. удобной 331 мор. 179 пр.
 Eingeschrieben [j. Wloch?] i. April 1892","Bereits 26 Nov. 1870 nach Messung
 
 d. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 "" 179 "" —o— Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892"
-app539680716,app539680716-4,app539680716-004,/documents/app539680716/4/,4,4,,register,1868-06-29,day,dateline,1868-06-29,read from the document's own dateline,1868,6,29,Słupca,,,113,226,16,0,0,,0,105,8,twentieth-century,",Łazińsk,,
+app539680716,app539680716-4,app539680716-004,/documents/app539680716/4/,4,4,,register,1868-06-29,day,dateline,1868-06-29,read from the document's own dateline,1868,6,29,Słupca,,,113,226,16,0,0,,0,105,8,wlodzimierz,",Łazińsk,,
 ,""Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. [Тромбчинъ?]"",,
 ,Bleistift Jahr 1875,Мор.,пр.
 1,Кончинскій Яковъ,17,84
@@ -393,7 +393,7 @@ app539680716,app539680716-4,app539680716-004,/documents/app539680716/4/,4,4,,reg
 ,Вообще 1691 мор. 219 пр.,,
 ,Ликвид. сумма для бывшаго владѣльца 10,055 р. 70 к.,,
 ,Слупца 29 iюня 1868 г.,,"
-app539680716,app539680716-5,app539680716-005,/documents/app539680716/5/,5,5,,note,1936,year,inferred,[1936],Breyer's copy and notes in a notebook he used in July 1935 and July 1936; his last figures are of 1914.,1936,,,,,,227,256,2,0,0,,0,26,3,twentieth-century,"Всѣ крестьяне селенiя Лазинскiй
+app539680716,app539680716-5,app539680716-005,/documents/app539680716/5/,5,5,,note,1868,year,inferred,[1868],"Breyer's copy of the servitudes of Łazińsk, written directly after his copy of the liquidation table of Łazińsk of 29 June 1868; the liquidation tables set out the peasants' servitudes.",1868,,,,,,227,242,2,0,0,,0,13,2,wlodzimierz,"Всѣ крестьяне селенiя Лазинскiй
 Голендры имѣютъ право:
 1) пасти весь свой [паленный?] скотъ
 въ лѣсу „Студзiанки""
@@ -405,8 +405,16 @@ app539680716,app539680716-5,app539680716-005,/documents/app539680716/5/,5,5,,not
 Болѣе никакихъ правъ на
 сервитуты крестьяне не
 имѣютъ.
-—o—
-Rus. Eintragung nach 1875
+—o—","Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:
+
+1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки""
+
+2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину
+
+состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.
+
+—o—"
+app539680716,app539680716-6,app539680716-006,/documents/app539680716/6/,6,6,,note,1936,year,inferred,[1936],"Breyer's own figures, in a notebook he used in July 1935 and July 1936; his last figures are of 1914.",1936,,,,,,243,258,0,0,0,,0,13,2,twentieth-century,"Rus. Eintragung nach 1875
 Morgen 1655 Rut. 63
 Wirte 94
 —o—
@@ -418,22 +426,14 @@ mit 112 Mor.
 Jahr 1907 91 alte Wirte
 und 21 neue Wirte
 Jahr 1914. 137 Wirte,
-bei 2037 Morg.","Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:
-
-1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки""
-
-2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину
-
-состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.
-
-—o— Rus. Eintragung nach 1,875 Morgen 1655 Rut. 63 Wirte 94
+bei 2037 Morg.","Rus. Eintragung nach 1,875 Morgen 1655 Rut. 63 Wirte 94
 
 —o— Jahr v. 1901 1,660 M. 271 Rut. 91 Wirte.
 
 Jahr 1906 2,044 Mor. 181 Rut. 91 alte Wirte - 21 neue Wirte mit 112 Mor.
 
 Jahr 1907 91 alte Wirte und 21 neue Wirte Jahr 1914. 137 Wirte, bei 2,037 Morg."
-app539680716,app539680716-6,app539680716-006,/documents/app539680716/6/,6,6,,register,1936,year,inferred,[1936],Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935.,1936,,,,,,257,268,0,0,0,,0,10,1,twentieth-century,"Jahr,Wirte:,Morgen
+app539680716,app539680716-7,app539680716-007,/documents/app539680716/7/,7,7,,register,1936,year,inferred,[1936],Breyer's table in a notebook he used in July 1935 and July 1936; its last row is of 1935.,1936,,,,,,259,270,0,0,0,,0,10,1,twentieth-century,"Jahr,Wirte:,Morgen
 1840,87,1368
 1868,91 Wirte.,1691
 1875,93,1691
@@ -452,7 +452,7 @@ app539680716,app539680716-6,app539680716-006,/documents/app539680716/6/,6,6,,reg
 1906,112,2044
 1914,137,2037
 1935,146,1996"
-app539680716,app539680716-7,app539680716-007,/documents/app539680716/7/,7,7,,note,1935-07,month,dateline,1935-07,read from the document's own dateline,1935,7,,Orlin,,,269,364,16,0,0,,0,87,8,twentieth-century,"Huta Trąbczyńska
+app539680716,app539680716-8,app539680716-008,/documents/app539680716/8/,8,8,,note,1935-07,month,dateline,1935-07,read from the document's own dateline,1935,7,,Orlin,,,271,366,16,0,0,,0,87,8,twentieth-century,"Huta Trąbczyńska
 1935 - 18 Wirte 217 Morg.
 In Orlin i. 7. 1935
 85 Wirte.
@@ -565,7 +565,7 @@ Mit Polen kommen gut aus. In Białoblot [Brenda?] Tropfen zu Hause getrunken. Di
 Bei Grodziec „Ukerlinge"" „in Obory frech, gemein. Nach dem Gottesdienst [schlagen sich?] jeden Sonntag Tanzvergnügung In Orlin: die Betbrüder, im Dorfe zwei Prediger, seit 2 Jahren Pfingstler u. Baptisten. Am Sonnabend kein Dung fahren. - Kamillenblüten nur in d. Johannisnacht.
 
 Wenn eine Kuh kalbt, wird nicht verborgt, aber geborgt. Jugend meist Mädchen ins Posenschen. 50% mit dicken Bäuchen. Alles geht zum Pastor, Prozesse sind auch etliche, aber Ausnahme. Diebstahl sehr verbreitet. Viel Beter, aber schlecht dabei. Schlechte Diebs-"
-app539680716,app539680716-8,app539680716-008,/documents/app539680716/8/,8,8,,register,1935-07,month,inferred,[1935-07],"Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936.",1935,7,,,,,365,418,14,0,0,,0,49,4,twentieth-century,",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],
+app539680716,app539680716-9,app539680716-009,/documents/app539680716/9/,9,9,,register,1935-07,month,inferred,[1935-07],"Breyer's list of the farmers of Orlin, written after his notes of July 1935 in Orlin and before those of July 1936.",1935,7,,,,,367,420,14,0,0,,0,49,4,twentieth-century,",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],
 ,,Morg.
 1,Bloch,18
 2,Schmidt P.,15
@@ -665,7 +665,7 @@ app539680716,app539680716-8,app539680716-008,/documents/app539680716/8/,8,8,,reg
 ,[Jaschek?],15
 ,Kress,36
 ,27 Huf. 28 M.,"
-app539680716,app539680716-9,app539680716-009,/documents/app539680716/9/,9,9,,note,1936-07,month,dateline,1936-07,read from the document's own dateline,1936,7,,Orlin,,,419,437,1,0,0,,0,16,2,twentieth-century,"Orlin Hauland 1 Okt. 1806
+app539680716,app539680716-10,app539680716-010,/documents/app539680716/10/,10,10,,note,1936-07,month,dateline,1936-07,read from the document's own dateline,1936,7,,Orlin,,,421,439,1,0,0,,0,16,2,twentieth-century,"Orlin Hauland 1 Okt. 1806
 In Orlin wurde Kaschubisch gesprochen.
 (Weber, „ Der Vater d. Bloch hat auch
 aus Czarny Bród, Kasub. gesprochen
@@ -693,7 +693,7 @@ II. "" 370
 III. "" —
 
 IV. "" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino."
-app539680716,app539680716-10,app539680716-010,/documents/app539680716/10/,10,10,,register,,unknown,none,,"register/ledger document, no date given in the source",,,,,,,438,505,11,0,0,,0,62,5,twentieth-century,",Ликвидац. табель селенiя Орлины помѣщика гр. Альбер. Тачановскаго,
+app539680716,app539680716-11,app539680716-011,/documents/app539680716/11/,11,11,,register,,unknown,none,,"register/ledger document, no date given in the source",,,,,,,440,507,11,0,0,,0,62,5,wlodzimierz,",Ликвидац. табель селенiя Орлины помѣщика гр. Альбер. Тачановскаго,
 1,Цессъ Фома,10-245
 2,Куске Людов.,37-201
 3,Вольтеръ Богумилъ,15-
@@ -820,15 +820,19 @@ app539680716,app539680716-10,app539680716-010,/documents/app539680716/10/,10,10,
 ,Усадьба солт.,4
 ,Вообще 850 мор. 272 пр.,
 ,Уплатить 6,049 р. 89 к.,"
-app539680716,app539680716-11,app539680716-011,/documents/app539680716/11/,11,11,,note,1936,year,inferred,[1936],Breyer's notes and copy at the end of a notebook he used in July 1935 and July 1936.,1936,,,,,,506,549,1,0,0,,0,40,3,twentieth-century,"Gross-Orlin u. Czarny Bród vor 60 Jahr.
+app539680716,app539680716-12,app539680716-012,/documents/app539680716/12/,12,12,,note,1936,year,inferred,[1936],Breyer's notes at the end of a notebook he used in July 1935 and July 1936.,1936,,,,,,508,518,0,0,0,,0,8,2,twentieth-century,"Gross-Orlin u. Czarny Bród vor 60 Jahr.
 Separat.
 nach d. Nummer, dann nach
 Morgen. —
 Białoblot i Kl. Orlin
 vor 2 Jahren
 nach der Nummer.
-Servitut i. Orlin 300 Mor
-Всѣ усадьбы селенiя Орлины
+Servitut i. Orlin 300 Mor","Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat.
+
+nach d. Nummer, dann nach Morgen. — Białoblot i Kl. Orlin vor 2 Jahren nach der Nummer.
+
+Servitut i. Orlin 300 Mor"
+app539680716,app539680716-13,app539680716-013,/documents/app539680716/13/,13,13,,note,,unknown,none,,letter missing/skipped in the archive,,,,,,,519,553,1,0,0,,0,32,2,wlodzimierz,"Всѣ усадьбы селенiя Орлины
 имѣютъ право на лѣсныя и пастбищ¬
 ныя сервитуты въ половинѣ
 лѣса называемаго „Вельскій
@@ -858,10 +862,6 @@ Servitut i. Orlin 300 Mor
 стилки и головъ скота дозволяется
 каждой усадьбѣ выпускать на паст¬
 бище, опредѣляется по нижеслѣдующей
-вѣдомости: ××","Gross-Orlin u. Czarny Bród vor 60 Jahr. Separat.
-
-nach d. Nummer, dann nach Morgen. — Białoblot i Kl. Orlin vor 2 Jahren nach der Nummer.
-
-Servitut i. Orlin 300 Mor Всѣ усадьбы селенiя Орлины имѣютъ право на лѣсныя и пастбищныя сервитуты въ половинѣ лѣса называемаго „Вельскій Боръ"" прилегающаго къ селенiю а именно: а) Входить въ лѣсъ еженедѣльно по субботамъ для собиранiя лежанины, ломанiя сухихъ вѣтвей и корчеванiя пней. Вѣтви дозволяется ломать съ деревъ съ дерев. крюкомъ а при корчеванiи пней употреблять [напоръ?]. Собранный такимъ образомъ матерiялъ для топлива усадебники увозятъ фурами, считая на усадьбу не болѣе одной фуры
+вѣдомости: ××","Всѣ усадьбы селенiя Орлины имѣютъ право на лѣсныя и пастбищныя сервитуты въ половинѣ лѣса называемаго „Вельскій Боръ"" прилегающаго къ селенiю а именно: а) Входить въ лѣсъ еженедѣльно по субботамъ для собиранiя лежанины, ломанiя сухихъ вѣтвей и корчеванiя пней. Вѣтви дозволяется ломать съ деревъ съ дерев. крюкомъ а при корчеванiи пней употреблять [напоръ?]. Собранный такимъ образомъ матерiялъ для топлива усадебники увозятъ фурами, считая на усадьбу не болѣе одной фуры
 
 въ недѣлю б) получать ежегодно на каждую усадьбу по 1 дереву на поправку и починку строенiй. Дерево должно имѣть по высотѣ 2 локтей отъ пня 8 цолей въ дiаметрѣ и выдается крестьянамъ съ вершиной и вѣтвями. в) Пасти свой скотъ и сгребать въ мѣсяцахъ: апрѣлѣ, маѣ, Сентябрѣ, октябрѣ и ноябрѣ стилку для скота. Количество фуръ стилки и головъ скота дозволяется каждой усадьбѣ выпускать на пастбище, опредѣляется по нижеслѣдующей вѣдомости: ××"

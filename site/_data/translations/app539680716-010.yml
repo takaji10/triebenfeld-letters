@@ -1,204 +1,34 @@
 status: draft
 segments:
 - page: 1
-  en: ',"Liquidation table of the village of Orliny, of the landowner Count Albert Taczanowski",
+  en: 'Orlin Hauland, 1 Oct. 1806
 
-    1,Tsess Foma,10-245
+    In Orlin Kashubian was spoken.
 
-    2,Kuske Liudov.,37-201
+    (Weber, " Bloch''s father also
 
-    3,Volter Bogumil,15-
+    from Czarny Bród, spoke Kashubian
 
-    4,Fitsner Ivan,22
+    come from Orlin)
 
-    5,Kolodzinskii Lavr.,31
+    Because of the wet years in Orlin
 
-    6,Retslav Bogusl.,15
+    bankrupt [uncertain: gemorden].
 
-    7,Vishnevskii Osip,22
-
-    8,[uncertain: Sturtsenger] Osip.,
-
-    9,Peda Bogumil,15
-
-    10,Iurkevich Avg.,15
-
-    11,Iurikh Gust.,
-
-    12,[uncertain: Lanitts] Ad.,'
-  html: '<div class="ledger-wrap"><table class="ledger">
-
-    <caption>Liquidation table of the village of Orliny, of the landowner Count Albert Taczanowski</caption>
-
-    <tbody><tr><td class="no">1</td><td class="name">Tsess Foma</td><td class="num">10-245</td></tr><tr><td
-    class="no">2</td><td class="name">Kuske Liudov.</td><td class="num">37-201</td></tr><tr><td class="no">3</td><td
-    class="name">Volter Bogumil</td><td class="num">15-</td></tr><tr><td class="no">4</td><td class="name">Fitsner
-    Ivan</td><td class="num">22</td></tr><tr><td class="no">5</td><td class="name">Kolodzinskii Lavr.</td><td
-    class="num">31</td></tr><tr><td class="no">6</td><td class="name">Retslav Bogusl.</td><td class="num">15</td></tr><tr><td
-    class="no">7</td><td class="name">Vishnevskii Osip</td><td class="num">22</td></tr><tr><td class="no">8</td><td
-    class="name">[uncertain: Sturtsenger] Osip.</td><td class="num"></td></tr><tr><td class="no">9</td><td
-    class="name">Peda Bogumil</td><td class="num">15</td></tr><tr><td class="no">10</td><td class="name">Iurkevich
-    Avg.</td><td class="num">15</td></tr><tr><td class="no">11</td><td class="name">Iurikh Gust.</td><td
-    class="num"></td></tr><tr><td class="no">12</td><td class="name">[uncertain: Lanitts] Ad.</td><td
-    class="num"></td></tr></tbody>
-
-    </table></div>'
+    "Kjaufft" word.'
 - page: 2
-  en: ',,2 49.
+  en: 'July 1936
 
-    13,Tsebel Andr.,11
+    Class I 17
 
-    14,""" Mikh.",25
+    II " 370
 
-    15,Berka Gotl.,25
+    III " —
 
-    16,[uncertain: Gralka] Voits.,40
+    IV " 464.69
 
-    17,Gade Andr.,22
+    waste land 300 =
 
-    18,Khukh Ant.,30
+    1157.69 Morgen
 
-    19,""" Iv.",48
-
-    20,[uncertain: Vangold] Gotl.,15
-
-    21,Tukholka Andr.,14
-
-    22,Shiller Liud.,15
-
-    23,[uncertain: Verech] Mat.,20
-
-    24,Reiman M.,17
-
-    25,[uncertain: Daiger] Mar.,12
-
-    26,Gesse Gotl.,17
-
-    27,""" widow",12'
-  html: '<div class="ledger-wrap"><table class="ledger">
-
-    <tbody><tr class="sum"><td class="no"></td><td class="name"></td><td class="num">2 49.</td></tr><tr><td
-    class="no">13</td><td class="name">Tsebel Andr.</td><td class="num">11</td></tr><tr><td class="no">14</td><td
-    class="name">&quot; Mikh.</td><td class="num">25</td></tr><tr><td class="no">15</td><td class="name">Berka
-    Gotl.</td><td class="num">25</td></tr><tr><td class="no">16</td><td class="name">[uncertain: Gralka]
-    Voits.</td><td class="num">40</td></tr><tr><td class="no">17</td><td class="name">Gade Andr.</td><td
-    class="num">22</td></tr><tr><td class="no">18</td><td class="name">Khukh Ant.</td><td class="num">30</td></tr><tr><td
-    class="no">19</td><td class="name">&quot; Iv.</td><td class="num">48</td></tr><tr><td class="no">20</td><td
-    class="name">[uncertain: Vangold] Gotl.</td><td class="num">15</td></tr><tr><td class="no">21</td><td
-    class="name">Tukholka Andr.</td><td class="num">14</td></tr><tr><td class="no">22</td><td class="name">Shiller
-    Liud.</td><td class="num">15</td></tr><tr><td class="no">23</td><td class="name">[uncertain: Verech]
-    Mat.</td><td class="num">20</td></tr><tr><td class="no">24</td><td class="name">Reiman M.</td><td
-    class="num">17</td></tr><tr><td class="no">25</td><td class="name">[uncertain: Daiger] Mar.</td><td
-    class="num">12</td></tr><tr><td class="no">26</td><td class="name">Gesse Gotl.</td><td class="num">17</td></tr><tr><td
-    class="no">27</td><td class="name">&quot; widow</td><td class="num">12</td></tr></tbody>
-
-    </table></div>'
-- page: 3
-  en: '28,Gesse Andr.,25
-
-    29,Shilke Andr. Dan.,18
-
-    30,Zandek Iv.,15
-
-    31,Ianke [uncertain: Sh.],7
-
-    32,Martin Iv.,16
-
-    33,Krol Dan.,7
-
-    34,Shmidt Gotl.,7
-
-    35,Vartke Kris.,11
-
-    36,Arendt Gotl.,16
-
-    37,Martin Iv.,16
-
-    38,Ott Iv.,16
-
-    39,Gaupter Krist.,4
-
-    40,heirs of Iana [uncertain: Kurkina],4
-
-    41,Shmidtke Frid.,16
-
-    42,[uncertain: Shpitser] Dan.,18
-
-    43,Berngard. Mikh.,='
-  html: '<div class="ledger-wrap"><table class="ledger">
-
-    <tbody><tr><td class="no">28</td><td class="name">Gesse Andr.</td><td class="num">25</td></tr><tr><td
-    class="no">29</td><td class="name">Shilke Andr. Dan.</td><td class="num">18</td></tr><tr><td class="no">30</td><td
-    class="name">Zandek Iv.</td><td class="num">15</td></tr><tr><td class="no">31</td><td class="name">Ianke
-    [uncertain: Sh.]</td><td class="num">7</td></tr><tr><td class="no">32</td><td class="name">Martin
-    Iv.</td><td class="num">16</td></tr><tr><td class="no">33</td><td class="name">Krol Dan.</td><td class="num">7</td></tr><tr><td
-    class="no">34</td><td class="name">Shmidt Gotl.</td><td class="num">7</td></tr><tr><td class="no">35</td><td
-    class="name">Vartke Kris.</td><td class="num">11</td></tr><tr><td class="no">36</td><td class="name">Arendt
-    Gotl.</td><td class="num">16</td></tr><tr><td class="no">37</td><td class="name">Martin Iv.</td><td
-    class="num">16</td></tr><tr><td class="no">38</td><td class="name">Ott Iv.</td><td class="num">16</td></tr><tr><td
-    class="no">39</td><td class="name">Gaupter Krist.</td><td class="num">4</td></tr><tr><td class="no">40</td><td
-    class="name">heirs of Iana [uncertain: Kurkina]</td><td class="num">4</td></tr><tr><td class="no">41</td><td
-    class="name">Shmidtke Frid.</td><td class="num">16</td></tr><tr><td class="no">42</td><td class="name">[uncertain:
-    Shpitser] Dan.</td><td class="num">18</td></tr><tr><td class="no">43</td><td class="name">Berngard.
-    Mikh.</td><td class="num">=</td></tr></tbody>
-
-    </table></div>'
-- page: 4
-  en: '44,Greger Gotl.,4
-
-    45,Rosentreter Frid.,8
-
-    46,Dresher Fr.,7
-
-    47,Betke Mikh.,22
-
-    48,Greger Voits.,11
-
-    49,Rozentreter,15
-
-    50,Geze Iv.,—
-
-    51,Shults Avg.,7
-
-    52,[uncertain: Shimmer] Leop.,12
-
-    53,Greger Avg.,15'
-  html: '<div class="ledger-wrap"><table class="ledger">
-
-    <tbody><tr><td class="no">44</td><td class="name">Greger Gotl.</td><td class="num">4</td></tr><tr><td
-    class="no">45</td><td class="name">Rosentreter Frid.</td><td class="num">8</td></tr><tr><td class="no">46</td><td
-    class="name">Dresher Fr.</td><td class="num">7</td></tr><tr><td class="no">47</td><td class="name">Betke
-    Mikh.</td><td class="num">22</td></tr><tr><td class="no">48</td><td class="name">Greger Voits.</td><td
-    class="num">11</td></tr><tr><td class="no">49</td><td class="name">Rozentreter</td><td class="num">15</td></tr><tr><td
-    class="no">50</td><td class="name">Geze Iv.</td><td class="num">—</td></tr><tr><td class="no">51</td><td
-    class="name">Shults Avg.</td><td class="num">7</td></tr><tr><td class="no">52</td><td class="name">[uncertain:
-    Shimmer] Leop.</td><td class="num">12</td></tr><tr><td class="no">53</td><td class="name">Greger Avg.</td><td
-    class="num">15</td></tr></tbody>
-
-    </table></div>'
-- page: 5
-  en: '54,Bergold Gotl.,15
-
-    55,Kasse Iv.,9
-
-    56,Berminskii Voits.,3
-
-    57,heirs of [uncertain: Kurvina],3
-
-    ,The village headman''s farmstead,4
-
-    ,In all 850 Morgen 272 rods,
-
-    "","To be paid 6,049 roubles 89 kopecks",""'
-  html: '<div class="ledger-wrap"><table class="ledger">
-
-    <tbody><tr><td class="no">54</td><td class="name">Bergold Gotl.</td><td class="num">15</td></tr><tr><td
-    class="no">55</td><td class="name">Kasse Iv.</td><td class="num">9</td></tr><tr><td class="no">56</td><td
-    class="name">Berminskii Voits.</td><td class="num">3</td></tr><tr><td class="no">57</td><td class="name">heirs
-    of [uncertain: Kurvina]</td><td class="num">3</td></tr></tbody>
-
-    <tfoot><tr><td class="no"></td><td class="name">The village headman&#x27;s farmstead</td><td class="num">4</td></tr><tr><td
-    class="no"></td><td class="name">In all 850 Morgen 272 rods</td><td class="num"></td></tr><tr><td
-    class="no"></td><td class="name">To be paid 6,049 roubles 89 kopecks</td><td class="num"></td></tr></tfoot>
-
-    </table></div>'
+    village of Orlino.'

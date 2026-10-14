@@ -671,6 +671,17 @@ Where the rest is:
   holdings' scripts); `courtbook.correct` and `write_pages` do not know a
   cover and would drop it.
 
+- **A copy takes the date and era of what it copies** (the editor,
+  2026-10-14: "a copy of an 1828 document from 1939 should not belong to
+  the 20th century"). The first build of 53/968/0/-/716 put the whole
+  notebook in the twentieth century, Breyer's copies of 1858 to 1892
+  included. Where a copyist's own notes and a copy share a document,
+  divide it, give the copy its original's date (or an inferred one with its
+  basis, or none) and set its era per document (`documents: era:` in the
+  rulings). Renumbering means: the reading, the English keys, rulings,
+  summaries, claim record, `about` citations, timeline `refs`, `not_in` in
+  `reference/people.yml`, spot-sheet rows, then `relabel_scans.py --apply`
+  and two rebuilds (scan labels carry the document number).
 - **A notebook in three languages, divided by content** (APP 53/968/0/-/716,
   2026-10-14; the editor chose "by content" over one document). A page that
   ends one document and starts the next stands under both (`DOCS` in

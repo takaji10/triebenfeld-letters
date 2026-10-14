@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 581 documents on 1,951 manuscript pages, dated from 1589 to 1936. The
+The edition holds 583 documents on 1,951 manuscript pages, dated from 1589 to 1936. The
 oldest are entries from the court books of Konin and Kalisz on the quarrel between Trąbczyn
 and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
 on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
@@ -134,7 +134,7 @@ There are 880 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 576 of the 581. They were made by
+Every document that has text has an English translation: 578 of the 583. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.
