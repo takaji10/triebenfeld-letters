@@ -1876,8 +1876,8 @@
   docs: 1
   life: "documented 1860"
   life_de: "belegt 1860"
-  bio: "Count Włodzimierz Miączyński, heir of the Trąbczyn estate, where he lived in 1860. Sued by the colonists of his estate in 1859, he counterclaimed before the Civil Tribunal at Kalisz to have their pasture and wood-gathering in his forest cut back, and had 97 of them summoned. The summons does not say how he was related to Michalina and Stanisław Miączyński, who held the estate before him."
-  bio_de: "Graf Włodzimierz Miączyński, Erbherr des Gutes Trąbczyn, wo er 1860 wohnte. 1859 von den Kolonisten seines Gutes verklagt, erhob er vor dem Zivilgericht in Kalisch Widerklage, um ihre Weide und ihr Holzsammeln in seinem Wald einschränken zu lassen, und ließ 97 von ihnen vorladen. Die Vorladung sagt nicht, wie er mit Michalina und Stanisław Miączyński verwandt war, denen das Gut vor ihm gehörte."
+  bio: "Count Włodzimierz Miączyński, heir of the Trąbczyn estate, where he lived in 1860. Sued by the colonists of his estate in 1859, he counterclaimed before the Civil Tribunal at Kalisz to have their pasture and wood-gathering in his forest cut back, and had 97 of them summoned. He was the son of Michalina Miączyńska, born Prusimska, who held the estate before him."
+  bio_de: "Graf Włodzimierz Miączyński, Erbherr des Gutes Trąbczyn, wo er 1860 wohnte. 1859 von den Kolonisten seines Gutes verklagt, erhob er vor dem Zivilgericht in Kalisch Widerklage, um ihre Weide und ihr Holzsammeln in seinem Wald einschränken zu lassen, und ließ 97 von ihnen vorladen. Er war der Sohn von Michalina Miączyńska, geborene Prusimska, der das Gut vor ihm gehörte."
   span: "1860"
   letters: [{id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 3}]
 - slug: "michaelis-hoffiskal"
@@ -2244,14 +2244,14 @@
   name: "Przespolewski"
   heading: "Przespolewski, Jacob von"
   heading_de: "Przespolewski, Jacob von"
-  count: 8
-  docs: 6
-  life: "documented 1799-1808"
-  life_de: "belegt 1799-1808"
+  count: 9
+  docs: 7
+  life: "documented 1789-1808"
+  life_de: "belegt 1789-1808"
   bio: "Jacob von Przespolewski, who had a claim of 30,000 Polish florins against the former owner Prusimski registered on Szetlewek and obtained an order of execution against Hohenlohe-Ingelfingen in 1804."
   bio_de: "Jacob von Przespolewski, für den eine Forderung von 30.000 polnischen Gulden gegen den früheren Besitzer Prusimski auf Szetlewek eingetragen war und der 1804 eine Exekution gegen Hohenlohe-Ingelfingen erwirkte."
-  span: "1799–1808"
-  letters: [{id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/", n: 1}, {id: "146", uid: "oe1bu9454-146", url: "/documents/oe1bu9454/146/", n: 2}, {id: "169", uid: "oe1bu9454-169", url: "/documents/oe1bu9454/169/", n: 1}, {id: "154", uid: "oe1bu9454-154", url: "/documents/oe1bu9454/154/", n: 1}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/", n: 1}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 2}]
+  span: "1789–1808"
+  letters: [{id: "1", uid: "app53640kalisztab21-1", url: "/documents/app53640kalisztab21/1/", n: 1}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/", n: 1}, {id: "146", uid: "oe1bu9454-146", url: "/documents/oe1bu9454/146/", n: 2}, {id: "169", uid: "oe1bu9454-169", url: "/documents/oe1bu9454/169/", n: 1}, {id: "154", uid: "oe1bu9454-154", url: "/documents/oe1bu9454/154/", n: 1}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/", n: 1}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 2}]
 - slug: "radzinski"
   name: "Ignatz von Radzinski"
   heading: "Radzinski, Ignatz von"

@@ -6,6 +6,8 @@ Die Rauchfangsteuer (podymne) war eine Steuer der polnischen Adelsrepublik, die 
 
 Eine Tabelle der Dörfer um Konin, die etwa acht Jahre später für die preußische Verwaltung angelegt wurde, zählt die Häuser und Einwohner vieler derselben Orte: [[unit:agad1169011745]]. <!-- context -->
 
+Auf dem Gut Trąbczyn waren zwei Kolonien von Olędern angelegt worden, Siedlern, die ihr Land durch Vertrag mit dem Gutsherrn besaßen. Ihre Namen änderten sich mit der Zeit: zuerst Trąbczyńskie Stare Olędry und Trąbczyńskie Nowe Olędry, die alte und die neue Olęderkolonie von Trąbczyn, später Łazińskie Stare Olędry und Łazińskie Nowe Olędry; die Quellen schreiben sie in mehreren Formen. Łazy, das das Register neben ihnen aufführt, ist ein eigenes Dorf des Gutes. <!-- context -->
+
 ### Inhalt
 
 Der gedruckte Titel auf Blatt 1 nennt den Band das Register der erhobenen Rauchfangsteuer und der aus dieser Steuer dem Kronheer erteilten Zahlungsanweisungen (delaty) für die Johannisrate 1789 [[1]]. Jede Zeile hat die Nummer einer Quittung, den Namen einer Stadt, eines Dorfes, eines Vorwerks oder eines Dorfanteils und eine Summe in Złoty und Groschen. Die Summe steht unter einer von zwei Überschriften: „erhoben“ oder „Delata“, wo das Geld auf Anweisung unmittelbar an das Heer gezahlt wurde [[1]].

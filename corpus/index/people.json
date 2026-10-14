@@ -63040,6 +63040,121 @@
   ]
  },
  {
+  "entity": "przespolewski",
+  "display": "Przespolewski",
+  "count": 11,
+  "documents": [
+   "app53640kalisztab21-1",
+   "oe1bu14525-2",
+   "oe1bu9454-146",
+   "oe1bu9454-154",
+   "oe1bu9454-163",
+   "oe1bu9454-169",
+   "oe1bu9454-31"
+  ],
+  "mentions": [
+   {
+    "uid": "app53640kalisztab21-1",
+    "surface": "Przespolewski",
+    "page": 6,
+    "page_id": "0009_a",
+    "scan": "APP_53_64_0_Kalisz_Tab_21_0009_a-L1_06.jpg",
+    "line": 185,
+    "doc_line": 171
+   },
+   {
+    "uid": "oe1bu14525-2",
+    "surface": "Przespolewski",
+    "page": 2,
+    "page_id": "0007_a1",
+    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
+    "line": 231,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-146",
+    "surface": "Przespolewski",
+    "page": 4,
+    "page_id": "0285_a",
+    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-146",
+    "surface": "Przespolewski",
+    "page": 4,
+    "page_id": "0285_a",
+    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
+    "line": 10659,
+    "doc_line": 78
+   },
+   {
+    "uid": "oe1bu9454-146",
+    "surface": "Przespolewski",
+    "page": 4,
+    "page_id": "0285_a",
+    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
+    "line": 10662,
+    "doc_line": 81
+   },
+   {
+    "uid": "oe1bu9454-169",
+    "surface": "Przespolewski",
+    "page": 4,
+    "page_id": "0319_a",
+    "scan": "Oe_1_Bu_9454_0319_a-L169_04.jpg",
+    "line": 12062,
+    "doc_line": 80
+   },
+   {
+    "uid": "oe1bu9454-154",
+    "surface": "Przespolewski",
+    "page": 1,
+    "page_id": "0294_a",
+    "scan": "Oe_1_Bu_9454_0294_a-L154_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-154",
+    "surface": "Przespolewski",
+    "page": 1,
+    "page_id": "0294_a",
+    "scan": "Oe_1_Bu_9454_0294_a-L154_01.jpg",
+    "line": 11005,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu9454-163",
+    "surface": "Przespolewski",
+    "page": 3,
+    "page_id": "0308_a2",
+    "scan": "Oe_1_Bu_9454_0308_a2-L163_03.jpg",
+    "line": 11552,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Przespolewski",
+    "page": 3,
+    "page_id": "0056_a2",
+    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+    "line": 2120,
+    "doc_line": 75
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Przespolewski",
+    "page": 3,
+    "page_id": "0056_a2",
+    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+    "line": 2131,
+    "doc_line": 86
+   }
+  ]
+ },
+ {
   "entity": "kaiser-alexander",
   "display": "Kaiser Alexander I.",
   "count": 11,
@@ -63262,111 +63377,6 @@
     "scan": "Oe_1_Bu_9454_0375_a2-L197_03.jpg",
     "line": 14236,
     "doc_line": 42
-   }
-  ]
- },
- {
-  "entity": "przespolewski",
-  "display": "Przespolewski",
-  "count": 10,
-  "documents": [
-   "oe1bu14525-2",
-   "oe1bu9454-146",
-   "oe1bu9454-154",
-   "oe1bu9454-163",
-   "oe1bu9454-169",
-   "oe1bu9454-31"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14525-2",
-    "surface": "Przespolewski",
-    "page": 2,
-    "page_id": "0007_a1",
-    "scan": "Oe_1_Bu_14525_0007_a1-L2_02.jpg",
-    "line": 231,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-146",
-    "surface": "Przespolewski",
-    "page": 4,
-    "page_id": "0285_a",
-    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-146",
-    "surface": "Przespolewski",
-    "page": 4,
-    "page_id": "0285_a",
-    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
-    "line": 10659,
-    "doc_line": 78
-   },
-   {
-    "uid": "oe1bu9454-146",
-    "surface": "Przespolewski",
-    "page": 4,
-    "page_id": "0285_a",
-    "scan": "Oe_1_Bu_9454_0285_a-L146_04.jpg",
-    "line": 10662,
-    "doc_line": 81
-   },
-   {
-    "uid": "oe1bu9454-169",
-    "surface": "Przespolewski",
-    "page": 4,
-    "page_id": "0319_a",
-    "scan": "Oe_1_Bu_9454_0319_a-L169_04.jpg",
-    "line": 12062,
-    "doc_line": 80
-   },
-   {
-    "uid": "oe1bu9454-154",
-    "surface": "Przespolewski",
-    "page": 1,
-    "page_id": "0294_a",
-    "scan": "Oe_1_Bu_9454_0294_a-L154_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-154",
-    "surface": "Przespolewski",
-    "page": 1,
-    "page_id": "0294_a",
-    "scan": "Oe_1_Bu_9454_0294_a-L154_01.jpg",
-    "line": 11005,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu9454-163",
-    "surface": "Przespolewski",
-    "page": 3,
-    "page_id": "0308_a2",
-    "scan": "Oe_1_Bu_9454_0308_a2-L163_03.jpg",
-    "line": 11552,
-    "doc_line": 54
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Przespolewski",
-    "page": 3,
-    "page_id": "0056_a2",
-    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
-    "line": 2120,
-    "doc_line": 75
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Przespolewski",
-    "page": 3,
-    "page_id": "0056_a2",
-    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
-    "line": 2131,
-    "doc_line": 86
    }
   ]
  },

@@ -246,19 +246,21 @@ written until there is a witness or a better scan.
 ## Readings, the other holdings
 
 - **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
-  2026-10-13): the whole reading is Claude's, from the scans, and waits for
-  the editor's check on `review/app53640kalisztab21/table_check.xlsx`. 45
-  names carry "[?]". Open with it: that the file `017v.jpg` is leaf 9 verso
-  (from the receipt numbers); that the third district is Konin (from the
-  places; its heading is on no page); why the hearth rate is 3 zł 15 gr in
-  two districts and 2 zł 15 gr on leaves 18 to 20.
+  2026-10-13): read from the scans by Claude and checked line by line by
+  the editor on 2026-10-14 (69 names corrected, no figure changed); 13
+  names still carry "[?]". Settled: `017v.jpg` is leaf 9 verso (editor).
+  Open: that the third district is Konin (from the places; its heading is
+  on no page); why the hearth rate is 3 zł 15 gr in two districts and 2 zł
+  15 gr on leaves 18 to 20, and why the twelve figures that depart from it
+  do (the editor confirmed they are read correctly).
 - **APP 53/968/0/-/783** (the summons of 1860, added 2026-10-13): the name
   written in the margin for defendant 58, "Marcina [Hetke?]"; three printed
   names written over in pen (nos. 7, 55, 70); the blotted figure in the
-  note of costs, "[47?]". Not said by the paper: how Count Włodzimierz
-  Miączyński was related to Michalina and Stanisław, and whether the two
-  Łazińska colonies are the "Łazy" of the other holdings. Its era is open
-  like that of the other holdings after 1807.
+  note of costs, "[47?]". Settled by the editor (2026-10-14): the Count
+  was Michalina's son; the two Łazińska colonies are the Olęder colonies
+  of the estate (earlier Trąbczyńskie Stare / Nowe Olędry), not the
+  village of Łazy. Its era is open like that of the other holdings after
+  1807.
 - **AGAD 1/169/0/1/1745** (the table of villages of about 1797): the
   editor checked every line against the scan on 2026-10-13 and no mark of
   doubt is left. Not confirmed by the pages themselves, and written as
@@ -318,6 +320,13 @@ Places (`reference/places.yml`, `open_questions`):
   separate settlement.
 - Guhrwitz (Górzyce): Stillfried's ownership in 1805 is unconfirmed.
 - Łazińsk / Łaziny: whether they name Trąbczyńskie Stare Olędry or a part of it.
+  The colony's later name is Łazińskie Stare Olędry (editor, 2026-10-14),
+  which makes it likely but does not settle it.
+- "Haul. Lazy." in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150):
+  a Hauland, a settlement of Olęders, by the name of Łazy. Łazy is a
+  village distinct from the two colonies (editor, 2026-10-14); whether
+  this entry is that village or one of the colonies is not settled, and
+  it is linked to neither.
 - The Peyserschen Hauland: one settlement, or the district's colonies taken
   together.
 - To split when the documents arrive: Łukomskie Olędry (two places under one

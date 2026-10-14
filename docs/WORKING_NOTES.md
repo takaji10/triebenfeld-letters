@@ -588,6 +588,14 @@ Where the rest is:
     file they saved (`--xlsx` now refuses while it is there). The record of
     their changes is a table in the holding's `notes.md`, not the
     spreadsheet, which is in `review/` and not in the repository.
+  - A name that comes back without its colon is not always the editor
+    writing out an abbreviation (APP 53/64/0/-/Kalisz Tab.21, 2026-10-14):
+    three were written in full on the page, and the first reading had
+    shortened them in error. Look at the picture before writing a note.
+  - A corrected name can fall out of the English word table (`WORDS` in
+    `holding.py`): three did on Kalisz Tab.21 and stood untranslated in
+    the English. After `--take`, run `--english` and read
+    `git diff --word-diff` of `translation/doc1.yml` line by line.
 - **"A clean, archival version of the spreadsheet"** (editor, 2026-10-13)
   is a workbook in the unit's folder, tracked: the table as written, the
   table in English (the editor does not read German headings), and a sheet
@@ -797,6 +805,9 @@ cloud branches").
   era plan, the site essays and the edition guide are CRLF; this file,
   `CLAUDE.md`, TODO, NEEDS_CONFIRMATION, HOUSE_STYLE and the holdings'
   `about` files are LF.
+- **`sed -i` in Git Bash writes the whole file back with LF.** On
+  2026-10-14 it turned a one-number change in the two edition guides into
+  400-line diffs. In a CRLF file, replace in bytes with Python.
 - **Marks of doubt** are counted by hand in the edition guide. Recount from
   `corpus/index/uncertainties.json` after any change to a marker.
 - **A local build after pulling a cloud session's work** can rewrite

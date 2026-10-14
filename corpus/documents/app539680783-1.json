@@ -586,6 +586,17 @@
    "doc_line": 4
   },
   {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Staro-Łazińskiej",
+   "page": 1,
+   "page_id": "0005_a",
+   "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+   "line": 14,
+   "doc_line": 6
+  },
+  {
    "entity": "kalisz",
    "display": "Kalisz (Kalisch)",
    "kind": "place",
@@ -601,6 +612,17 @@
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "0006_a1",
+   "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+   "line": 16,
+   "doc_line": 7
+  },
+  {
+   "entity": "trabczynskie-nowe-oledry",
+   "display": "Trąbczyńskie Nowe Olędry",
+   "kind": "place",
+   "surface": "Nowo-Łazińskiej",
    "page": 2,
    "page_id": "0006_a1",
    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
@@ -793,6 +815,28 @@
    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
    "line": 56,
    "doc_line": 44
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Staro Łazińskiej",
+   "page": 5,
+   "page_id": "0007_a2",
+   "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+   "line": 56,
+   "doc_line": 44
+  },
+  {
+   "entity": "trabczynskie-stare-oledry",
+   "display": "Trąbczyńskie Stare Olędry",
+   "kind": "place",
+   "surface": "Staro Łazińskiej",
+   "page": 5,
+   "page_id": "0007_a2",
+   "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+   "line": 57,
+   "doc_line": 45
   }
  ],
  "translation_status": "draft",

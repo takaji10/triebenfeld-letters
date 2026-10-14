@@ -17,6 +17,8 @@ Die Rauchfangsteuer (podymne) war eine Steuer der polnischen Adelsrepublik, die 
 
 Eine Tabelle der Dörfer um Konin, die etwa acht Jahre später für die preußische Verwaltung angelegt wurde, zählt die Häuser und Einwohner vieler derselben Orte: <a href="{{ '/de/quellen/agad1169011745/' | relative_url }}">1/169/0/1/1745</a>. <!-- context -->
 
+Auf dem Gut Trąbczyn waren zwei Kolonien von Olędern angelegt worden, Siedlern, die ihr Land durch Vertrag mit dem Gutsherrn besaßen. Ihre Namen änderten sich mit der Zeit: zuerst Trąbczyńskie Stare Olędry und Trąbczyńskie Nowe Olędry, die alte und die neue Olęderkolonie von Trąbczyn, später Łazińskie Stare Olędry und Łazińskie Nowe Olędry; die Quellen schreiben sie in mehreren Formen. Łazy, das das Register neben ihnen aufführt, ist ein eigenes Dorf des Gutes. <!-- context -->
+
 ### Inhalt
 
 Der gedruckte Titel auf Blatt 1 nennt den Band das Register der erhobenen Rauchfangsteuer und der aus dieser Steuer dem Kronheer erteilten Zahlungsanweisungen (delaty) für die Johannisrate 1789 <span class="cite">[<a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">1</a>]</span>. Jede Zeile hat die Nummer einer Quittung, den Namen einer Stadt, eines Dorfes, eines Vorwerks oder eines Dorfanteils und eine Summe in Złoty und Groschen. Die Summe steht unter einer von zwei Überschriften: „erhoben“ oder „Delata“, wo das Geld auf Anweisung unmittelbar an das Heer gezahlt wurde <span class="cite">[<a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">1</a>]</span>.
@@ -43,13 +45,13 @@ Der Herausgeber stellte vierzehn Aufnahmen bereit: den Umschlag und dreizehn Sei
 
 ### Transkription
 
-Eine frühere Transkription gab es nicht. Ein KI-Modell (Claude) las das Register Zeile für Zeile von den Scans, jede Seite in vergrößerten Streifen und jeden unklaren Namen noch einmal in größerem Maßstab. Das Register wird als Tabelle wiedergegeben: eine Zeile für jede Zeile der Seite, in den Spalten der Seite. Der gedruckte Titel und der Kopf des Formulars stehen einmal, über der ersten Seite.
+Eine frühere Transkription gab es nicht. Ein KI-Modell (Claude) las das Register Zeile für Zeile von den Scans, jede Seite in vergrößerten Streifen und jeden unklaren Namen noch einmal in größerem Maßstab. Der Herausgeber prüfte diese Lesung danach Zeile für Zeile an den Scans, auf einem Blatt, das jede Zeile der Tabelle neben einem Bild derselben Stelle der Seite zeigt; 69 Namen wurden berichtigt, keine Zahl wurde geändert. Das Register wird als Tabelle wiedergegeben: eine Zeile für jede Zeile der Seite, in den Spalten der Seite. Der gedruckte Titel und der Kopf des Formulars stehen einmal, über der ersten Seite.
 
-Die Namen sind geschrieben wie auf der Seite, mit den Zeichen, die der Schreiber auf die Buchstaben setzte, und ohne weitere; ein Wort, das er kürzte, behält seinen Doppelpunkt. 45 Namen, die nicht sicher zu lesen waren, sind mit „[?]“ gekennzeichnet. Der Herausgeber hat die Lesung noch nicht geprüft.
+Die Namen sind geschrieben wie auf der Seite, mit den Zeichen, die der Schreiber auf die Buchstaben setzte, und ohne weitere; ein Wort, das er kürzte, behält seinen Doppelpunkt. 13 Namen, die nicht sicher zu lesen waren, sind mit „[?]“ gekennzeichnet.
 
 ### Prüfung der Zahlen
 
-Die Seiten haben keine Summen, die Zahlen lassen sich also nicht nachrechnen. Die Steuer selbst gibt eine Prüfung: Ein Dorf zahlte für jede Feuerstelle einen festen Betrag, seine Summe ist also ein Vielfaches dieses Satzes. In den Kreisen Pyzdry und Kalisch ist die Summe jedes Dorfes ein Vielfaches von 3 Złoty 15 Groschen, auf den Blättern 18 bis 20 ein Vielfaches von 2 Złoty 15 Groschen. Zwölf Zeilen passen nicht: Zehn sind Städte, die beiden anderen wurden erneut angesehen und stehen wie gelesen.
+Die Seiten haben keine Summen, die Zahlen lassen sich also nicht nachrechnen. Die Steuer selbst gibt eine Prüfung: Ein Dorf zahlte für jede Feuerstelle einen festen Betrag, seine Summe ist also ein Vielfaches dieses Satzes. In den Kreisen Pyzdry und Kalisch ist die Summe jedes Dorfes ein Vielfaches von 3 Złoty 15 Groschen, auf den Blättern 18 bis 20 ein Vielfaches von 2 Złoty 15 Groschen. Zwölf Zeilen passen nicht: Zehn sind Städte, die beiden anderen wurden erneut angesehen und stehen wie gelesen. Der Herausgeber bestätigte alle zwölf Zahlen an den Scans.
 
 ### Gliederung und Datierung
 

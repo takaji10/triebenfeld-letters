@@ -1,7 +1,7 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 5
+  marker_count: 0
   en: ',"REGISTER of the hearth tax collected, and of the orders to pay issued out of that tax to the
     Crown army, under the title of the Offering established for this occasion, in the St John''s instalment
     of the year 1789.",Sum collected.,,Sum of the order to pay.,
@@ -28,15 +28,15 @@ pages:
 
     9,Demesne farm Dziewiąte,17,15,,
 
-    10,Demesne farm [uncertain: Tra…ry],10,15,,
+    10,Demesne farm Trafary,10,15,,
 
-    11,Demesne farm [uncertain: Sztrząski],10,15,,
+    11,Demesne farm Sztrząski,10,15,,
 
-    12,Demesne farm [uncertain: Lille],14,,,
+    12,Demesne farm Lille,14,,,
 
     13,Village Kochaly,63,,,
 
-    14,Demesne farm Pyżyce,112,,,
+    14,Demesne farm Pyzyce,112,,,
 
     15,Village Uiazd,21,,,
 
@@ -52,17 +52,17 @@ pages:
 
     21,Village Bieganowo,94,15,,
 
-    22,Demesne farm [uncertain: Bieczewo],14,,,
+    22,Demesne farm Bieczewo,14,,,
 
     23,Village Borkowo,24,15,,
 
     24,Small town Borek,278,,,
 
-    25,Village Bozęciczki,164,15,,
+    25,Village Bozęciezki,164,15,,
 
     26,Of the parish priest,7,,,
 
-    27,Demesne farm [uncertain: Mycielinek],28,,,
+    27,Demesne farm Mycielinek,28,,,
 
     28,Demesne farm Dembowiec,38,15,,
 
@@ -72,10 +72,10 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 5
+  marker_count: 1
   en: '379,Chotunia,63,,,
 
-    380,[uncertain: Gutkowo],42,,,
+    380,Gułkowo,42,,,
 
     381,Samarzewo,147,,,
 
@@ -89,7 +89,7 @@ pages:
 
     386,Garby,70,,,
 
-    387,Gałęzowo part belonging to [uncertain: Duchowny],,,7,
+    387,Gałęzowo part belonging to Dziekany,,,7,
 
     388,Part belonging to the church of Samarzew:,17,15,,
 
@@ -101,7 +101,7 @@ pages:
 
     392,Krerowo,105,,,
 
-    393,[uncertain: Luberz],49,,,
+    393,Łuberz,49,,,
 
     394,Mała Gorka,42,,,
 
@@ -127,18 +127,18 @@ pages:
 
     405,Stępocin,42,,,
 
-    406,[uncertain: Szabłki] parts of OO. Franciszkan:,7,,,
+    406,Srabki parts of OO. Franciszkan:,7,,,
 
     407,Topola demesne farm,,,14,
 
-    408,Wójt''s holding [uncertain: Włoczewskie],,,17,15'
+    408,Wójt''s holding [uncertain: Właczewskie],,,17,15'
   names: []
   numbers: []
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 3
-  en: '409,[uncertain: Usięcino],28,,,
+  marker_count: 2
+  en: '409,Usięcino,28,,,
 
     410,Winna Gora,136,15,,
 
@@ -146,7 +146,7 @@ pages:
 
     412,Pięczkowo,157,15,,
 
-    413,[uncertain: Witerzi],94,15,,
+    413,[uncertain: Witerczi],94,15,,
 
     414,Krzykosy,84,,,
 
@@ -194,28 +194,28 @@ pages:
 
     436,Rąmbczynek,35,,,
 
-    437,Adamierz with Pustk: [uncertain: Młynem],28,,,
+    437,Adamierz with the [uncertain: isolated farm] and the mill,28,,,
 
-    438,Town Sroda,376,,,'
+    438,Town Szroda,376,,,'
   names: []
   numbers: []
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 3
+  marker_count: 1
   en: '439,Murzynow with the demesne farm,80,15,,
 
     440,Sabaszczewo,17,15,,
 
     441,Wójt''s holding Sabaszczewskie,10,15,,
 
-    442,[uncertain: Zdzienica],52,15,,
+    442,Zdrzenica,52,15,,
 
-    443,Wójt''s holding [uncertain: Zdziennickie],31,15,,
+    443,Wójt''s holding Zdrziennickie,31,15,,
 
     444,Hereditary lands,42,,,
 
-    445,Lease Trzebiesławsk:,,,49,
+    445,Lease Trzebiesławę,,,49,
 
     446,Uleyno,24,15,,
 
@@ -245,7 +245,7 @@ pages:
 
     10,Kotowiecko,77,,,
 
-    11,Pawłowo wielki,35,,,
+    11,Pawłow wielki,35,,,
 
     12,Pawłowek mały,42,,,
 
@@ -265,12 +265,12 @@ pages:
   flagged: []
 - page: 5
   confidence: high
-  marker_count: 4
+  marker_count: 2
   en: '19,Brudzew,70,,,
 
     20,Bolimow,31,15,,
 
-    21,Strzałkow,94,15,,
+    21,Sztrzałkow,94,15,,
 
     22,Czermin,101,15,,
 
@@ -278,9 +278,9 @@ pages:
 
     24,Czarnuszka,,,45,15
 
-    25,Czachory part of Anto: Kiedrz:,45,15,,
+    25,Czachory part of Anto: Kiedrowę,45,15,,
 
-    26,From the part at Gołuchowie Kiedrz:,7,,,
+    26,From the part at Gołuchowie Kiedrowę,7,,,
 
     27,From the part of Zakrzewskiego,21,,,
 
@@ -296,19 +296,19 @@ pages:
 
     33,Chudki,28,,,
 
-    34,Krowica wielka and [uncertain: Pustki],49,,,
+    34,Krowica wielka and [uncertain: Pinki],49,,,
 
     35,Modła,35,,,
 
-    36,[uncertain: Tursko],21,,,
+    36,[uncertain: Junikow],21,,,
 
     37,Chlewo,28,,,
 
-    38,[uncertain: Fałęcice],56,,,
+    38,Fałęcice,56,,,
 
     39,Small town Chocz,,,224,
 
-    40,Small town [uncertain: Chorab].,44,,,
+    40,Small town Chorab.,44,,,
 
     41,Dobrzyca,,,133,15
 
@@ -324,7 +324,7 @@ pages:
   flagged: []
 - page: 6
   confidence: high
-  marker_count: 4
+  marker_count: 1
   en: '46,Dęmbsko,101,15,,
 
     47,Dąmbrowa,,,42,
@@ -333,11 +333,11 @@ pages:
 
     49,Small town Dobrzyca,,,164,
 
-    50,Gorzuchy from the part of Sieroszews:,14,,,
+    50,Gorzuchy from the part of Sieroszew:,14,,,
 
     51,From the part of Jerzmanowskiego,10,15,,
 
-    52,From the part of Mi: Jerzmanowskieg:,14,,,
+    52,From the part of Mi: Jerzmanowskiego,14,,,
 
     53,Gołuchow,213,15,,
 
@@ -363,19 +363,19 @@ pages:
 
     64,Głuski from the part of Pawłowskiego,,,28,
 
-    65,From the part of [uncertain: Brzeskiego],,,7,
+    65,From the part of [uncertain: Przciekiego],,,7,
 
     66,Grab,105,,,
 
-    67,[uncertain: Gazewo],56,,,
+    67,Gazewo,56,,,
 
-    68,Gutow part of Przespolews:,45,15,,
+    68,Gutow part of Przespolewskiego,45,15,,
 
     69,From the part of Malczewskiego,42,,,
 
-    70,From the part of [uncertain: Kożuchow],10,15,,
+    70,From the part of Kosiekich,10,15,,
 
-    71,Gać [uncertain: Moskowia],45,15,,
+    71,Gać Moskomia,45,15,,
 
     72,Gora,59,15,,
 
@@ -389,8 +389,8 @@ pages:
   flagged: []
 - page: 7
   confidence: high
-  marker_count: 4
-  en: '76,[uncertain: Zamęzcie],31,15,,
+  marker_count: 2
+  en: '76,[uncertain: Zamoscie],31,15,,
 
     77,Niwiska,35,,,
 
@@ -398,7 +398,7 @@ pages:
 
     79,Godziątkow,35,,,
 
-    80,[uncertain: Janiszow],91,,,
+    80,Jaruntow,91,,,
 
     81,Gać Pawęzowa,87,15,,
 
@@ -416,7 +416,7 @@ pages:
 
     88,Jastrzębniki,122,15,,
 
-    89,[uncertain: Pokrzykow],21,,,
+    89,[uncertain: Poklękow],21,,,
 
     90,Szadek,42,,,
 
@@ -424,7 +424,7 @@ pages:
 
     92,Part of the village of Pruszkowa,17,15,,
 
-    93,Small town Jwanowice,142,,,
+    93,Small town Iwanowice,142,,,
 
     94,"The same place, subjects of the parish priest",24,,,
 
@@ -438,7 +438,7 @@ pages:
 
     99,Kwileń,38,15,,
 
-    100,Part of [uncertain: Niniewa],38,15,,
+    100,Part of Niniowa,38,15,,
 
     101,Olesiec,31,15,,
 
@@ -458,7 +458,7 @@ pages:
   flagged: []
 - page: 8
   confidence: high
-  marker_count: 4
+  marker_count: 2
   en: '58,[uncertain: Gardowo],52,15,,
 
     59,Grochowy,57,15,,
@@ -473,11 +473,11 @@ pages:
 
     64,Kordownia,2,15,,
 
-    65,Jaroszewice Małe from the part of Krzyz:,7,15,,
+    65,Jaroszewice Mokre from the part of hurczew:,7,15,,
 
     66,From the part of Mr Biernackiego,10,,,
 
-    67,From the part of Mr Bardzińskieg:,5,,,
+    67,From the part of Mr Bardzińskiego,5,,,
 
     68,Jabłkowo,37,15,,
 
@@ -491,9 +491,9 @@ pages:
 
     73,Głowy,,,22,15
 
-    74,Kuznica with Dąmbrową and [uncertain: Kieliską],,,22,15
+    74,Kuznica with Dąmbrową and Siedliskę,,,22,15
 
-    75,[uncertain: Sączky],,,2,15
+    75,[uncertain: Sacały],,,2,15
 
     76,Lekaszyn,,,45,
 
@@ -501,7 +501,7 @@ pages:
 
     78,Krasnica,,,35,
 
-    79,Kęszewy with Ciołkiem and [uncertain: Dzią],32,15,,
+    79,Kęszewy with Ciołkiem and Dryią,32,15,,
 
     80,Kwiatkow,52,15,,
 
@@ -519,7 +519,7 @@ pages:
   flagged: []
 - page: 9
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '86,Kuchary,40,,,
 
     87,Kiełczewo minus,72,15,,
@@ -540,7 +540,7 @@ pages:
 
     95,From the part of Woy: Wardęskiego,7,15,,
 
-    96,From the part of [uncertain: Krzeczkowskiego],5,,,
+    96,From the part of Krzeczkowskiego,5,,,
 
     97,From the part of Sta: Jaroszewskiego,5,,,
 
@@ -582,7 +582,7 @@ pages:
   flagged: []
 - page: 10
   confidence: high
-  marker_count: 4
+  marker_count: 1
   en: '115,Modlibogowice,50,,,
 
     116,Mysleborz,70,,,
@@ -609,13 +609,13 @@ pages:
 
     127,Osiek minor,80,,,
 
-    128,Police [uncertain: wsrzednie],5,,,
+    128,Police [uncertain: wesrednie],5,,,
 
     129,Tarnowa,20,,,
 
     130,Pąchowo,27,15,,
 
-    131,[uncertain: Pętowo],25,,,
+    131,Perłowo,25,,,
 
     132,Powiercie,47,15,,
 
@@ -629,13 +629,13 @@ pages:
 
     137,Rzgow,,,95,
 
-    138,[uncertain: Modłabiena],,,47,15
+    138,Modłabiena,,,47,15
 
     139,Dąmbrowa,,,5,
 
     140,Babie,,,12,15
 
-    141,[uncertain: Zaskoze],,,17,15
+    141,Zastroze,,,17,15
 
     142,Isolated farm Grądy with the mill,,,7,15
 
@@ -647,14 +647,14 @@ pages:
   flagged: []
 - page: 11
   confidence: high
-  marker_count: 5
-  en: '145,Mill [uncertain: Kuczimia],,,2,15
+  marker_count: 1
+  en: '145,Mill Rudzimia,,,2,15
 
     146,Wola Rychwalska,,,15,
 
     147,Jaroszewice,30,,,
 
-    148,[uncertain: Bikorzew],,,17,15
+    148,Piskoszew,,,17,15
 
     149,Dąmbroszyn,27,15,,
 
@@ -664,29 +664,29 @@ pages:
 
     152,Radolina,65,,,
 
-    153,[uncertain: Rozięcice] from the part of Bernar: Bąg:,,,12,15
+    153,[uncertain: Racięcice] from the part of Bernar: Bągin:,,,12,15
 
-    154,From the part of Tomasza Bąg:,,,12,15
+    154,From the part of Tomasza Bągin:,,,12,15
 
     155,From the part of Woy: Krasnickieg:,12,15,,
 
     156,From the part of Wilkostowskich,,,12,15
 
-    157,Łuczywno from the part of Ber: Bąg:,,,10,
+    157,Łuczywno from the part of Ber: Bągin:,,,10,
 
-    158,Łuczywno from the part of J: Bąg:,,,2,15
+    158,Łuczywno from the part of J: Bągin:,,,2,15
 
     159,From the part of Woy: Krasnickieg:,5,,,
 
     160,From the part of Wilkostowskich,,,5,
 
-    161,Smolniki from the part of Toma: Bąg:,,,2,15
+    161,Smolniki from the part of Toma: Bągin:,,,2,15
 
     162,From the part of Krasnickiego,2,15,,
 
     163,From the part of Wilkostowskich,,,2,15
 
-    164,[uncertain: Pycewo],42,15,,
+    164,Sycewo,42,15,,
 
     165,Sługocinek,57,15,,
 
@@ -694,9 +694,9 @@ pages:
 
     167,Siąszyce,67,15,,
 
-    168,Szetlewo from the part of Jaroszews:,5,,,
+    168,Szetlewo from the part of Jaroszew:,5,,,
 
-    169,From the part of Jana Jaroszews:,5,,,
+    169,From the part of Jana Jaroszew:,5,,,
 
     170,From the part of Folwarskiego,5,,,
 
@@ -704,7 +704,7 @@ pages:
 
     172,Szetlewek,55,,,
 
-    173,[uncertain: Szawłowice],10,,,
+    173,Szawłowice,10,,,
 
     174,Sławsk,105,,,
 
@@ -745,7 +745,7 @@ pages:
 
     190,Sarbicko,67,15,,
 
-    191,Trzebuchow Kamienne,40,,,
+    191,Trzebuchowo Kamienne,40,,,
 
     192,Small town Władysławow,166,,,
 
@@ -781,12 +781,12 @@ pages:
   flagged: []
 - page: 13
   confidence: high
-  marker_count: 3
+  marker_count: 0
   en: '207,Podgor,,,20,
 
     208,Kuznica,,,7,15
 
-    209,[uncertain: Wilany],,,10,
+    209,Wilany,,,10,
 
     210,Isolated farm Drążek,,,2,15
 
@@ -804,7 +804,7 @@ pages:
 
     217,Przyborowie,2,15,,
 
-    218,Kotunia,2,15,,
+    218,Kotonia,2,15,,
 
     219,Piorunow,,,50,
 
@@ -814,11 +814,11 @@ pages:
 
     222,Kamionka,,,20,
 
-    223,Wola [uncertain: Rozostowa],17,15,,
+    223,Wola Rozostawa,17,15,,
 
     224,Demesne farm Galewo,5,,,
 
-    225,[uncertain: Kliwany],35,,,
+    225,Klwany,35,,,
 
     226,Bogdałow,27,15,,
 
@@ -828,7 +828,7 @@ pages:
 
     229,Mill Dzierzązna,2,15,,
 
-    230,Wardęzyn major from the part of Węs:,7,15,,
+    230,Wardęzyn major from the part of Węgie:,7,15,,
 
     231,From the part of Szomanskiego,15,,,
 

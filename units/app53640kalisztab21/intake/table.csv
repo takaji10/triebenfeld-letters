@@ -9,11 +9,11 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 1,7,Ruda,91,,,,
 1,8,Roch Folwark,28,,,,
 1,9,Folwark Dziewiąte,17,15,,,
-1,10,Folwark [Tra…ry?],10,15,,,A blot on the middle letters: Trafary or Tragary.
-1,11,Folwark Sztrząski[?],10,15,,,Sztrząski or Strzążki: the letters after S are crowded.
-1,12,Folwark Lille[?],14,,,,Lille or Litte.
-1,13,Wies Kochaly,63,,,,First letter K or R.
-1,14,Folwark Pyżyce,112,,,,A dot stands over the z.
+1,10,Folwark Trafary,10,15,,,
+1,11,Folwark Sztrząski,10,15,,,
+1,12,Folwark Lille,14,,,,
+1,13,Wies Kochaly,63,,,,
+1,14,Folwark Pyzyce,112,,,,
 1,15,Wieś Uiazd,21,,,,
 1,16,Borownik Folwark,31,15,,,
 1,17,Trzy Folwarki,38,15,,,
@@ -21,29 +21,29 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 1,19,Wies Babino,66,15,,,
 1,20,Bonice w Par: Grodzisko,31,15,,,
 1,21,Wies Bieganowo,94,15,,,
-1,22,Folwark Bieczewo[?],14,,,,Bieczewo or Buczewo.
+1,22,Folwark Bieczewo,14,,,,
 1,23,Wies Borkowo,24,15,,,
 1,24,Miasteczko Borek,278,,,,
-1,25,Wies Bozęciczki,164,15,,,The letters after ę are crowded.
+1,25,Wies Bozęciezki,164,15,,,
 1,26,Plebanskich,7,,,,
-1,27,Folwark Mycielinek[?],28,,,,Mycielinek or Myscielinek.
+1,27,Folwark Mycielinek,28,,,,
 1,28,Folwark Dembowiec,38,15,,,
 1,29,Wies Gałązki,87,15,,,
-7,379,Chotunia,63,,,,Third letter t or c.
-7,380,Gutkowo[?],42,,,,Gutkowo or Gułkowo.
+7,379,Chotunia,63,,,,
+7,380,Gułkowo,42,,,,
 7,381,Samarzewo,147,,,,
 7,382,Skarboszewo,101,15,,,
 7,383,Chrustowo,38,15,,,
 7,384,Giecz,70,,,,
 7,385,Gozdowo,129,15,,,
 7,386,Garby,70,,,,
-7,387,Gałęzowo Część do Duchowny[?],,,7,,The last word: Duchowny or Duchanij.
+7,387,Gałęzowo Część do Dziekany,,,7,,
 7,388,Część do Kościoła Samarzew:,17,15,,,The last word is shortened with a flourish.
 7,389,Tamże Woytostwo,14,,,,
 7,390,Gablin,31,15,,,
 7,391,Kaczanowo,94,15,,,
 7,392,Krerowo,105,,,,
-7,393,Luberz[?],49,,,,Luberz or Lubcz.
+7,393,Łuberz,49,,,,
 7,394,Mała Gorka,42,,,,
 7,395,Mączniki z Folwarkiem,91,,,,
 7,396,Mądre,59,15,,,
@@ -56,14 +56,14 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 7,403,Staniszewo,17,15,,,
 7,404,Snieciska,66,15,,,
 7,405,Stępocin,42,,,,
-7,406,Szabłki[?] Części OO. Franciszkan:,7,,,,First word: Szabłki or Srabki. The last word is shortened.
+7,406,Srabki Części OO. Franciszkan:,7,,,,The last word is shortened.
 7,407,Topola Folwark,,,14,,
-7,408,Woytostwo Włoczewskie[?],,,17,15,Second word: Włoczewskie or Utaczewskie.
-7v,409,Usięcino[?],28,,,,Second letter s or r.
+7,408,Woytostwo Właczewskie[?],,,17,15,
+7v,409,Usięcino,28,,,,
 7v,410,Winna Gora,136,15,,,
 7v,411,Brzezie,49,,,,
 7v,412,Pięczkowo,157,15,,,
-7v,413,Witerzi[?],94,15,,,The ending is not sure.
+7v,413,Witerczi[?],94,15,,,
 7v,414,Krzykosy,84,,,,
 7v,415,Rogusko,35,,,,
 7v,416,Solec,73,15,,,
@@ -87,17 +87,17 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 7v,434,Pławce,,,49,,
 7v,435,Pietrzykow,91,,,,
 7v,436,Rąmbczynek,35,,,,
-7v,437,Adamierz z Pustk: Młynem[?],28,,,,The last word runs into the ruled line.
-7v,438,Miasto Sroda,376,,,,
+7v,437,Adamierz z Pustk[owie?]: Młynem,28,,,,
+7v,438,Miasto Szroda,376,,,,
 8,439,Murzynow z Folwarkiem,80,15,,,
 8,440,Sabaszczewo,17,15,,,
 8,441,Woytostwo Sabaszczewskie,10,15,,,
-8,442,Zdzienica[?],52,15,,,Zdzienica or Zdrzenica.
-8,443,Woytostwo Zdziennickie[?],31,15,,,The letters between Zd and ckie are crowded.
+8,442,Zdrzenica,52,15,,,
+8,443,Woytostwo Zdrziennickie,31,15,,,
 8,444,Grunta Dziedziczne,42,,,,
-8,445,Dzierzawa Trzebiesławsk:,,,49,,The last word is shortened with a flourish.
+8,445,Dzierzawa Trzebiesławę,,,49,,The last letter is written with a long tail; the editor reads it as ę.
 8,446,Uleyno,24,15,,,
-8,447,Wies Rumieiowice[?],21,,,,Rumieiowice or Rumieiewice.
+8,447,Wies Rumieiowice[?],21,,,,
 8,448,Zbrudzewo,87,15,,,
 8,,Powiat Kaliski,,,,,The heading of the district; underlined.
 8,1,Wies Bachorzewo,91,,,,
@@ -110,7 +110,7 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 8,8,Bilczew,,,35,,
 8,9,Brzezie,84,,,,
 8,10,Kotowiecko,77,,,,
-8,11,Pawłowo wielki,35,,,,Pawłowo or Pawłow.
+8,11,Pawłow wielki,35,,,,
 8,12,Pawłowek mały,42,,,,
 8,13,Będziechow,35,,,,
 8,14,Borucin,21,,,,
@@ -120,12 +120,12 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 8,18,Bieniewo,,,70,,
 8v,19,Brudzew,70,,,,
 8v,20,Bolimow,31,15,,,
-8v,21,Strzałkow,94,15,,,The letters after S are crowded.
+8v,21,Sztrzałkow,94,15,,,
 8v,22,Czermin,101,15,,,
 8v,23,Czekanow,129,15,,,
 8v,24,Czarnuszka,,,45,15,
-8v,25,Czachory Część Anto: Kiedrz:,45,15,,,The last word is shortened with a flourish.
-8v,26,z Części w Gołuchowie Kiedrz:,7,,,,The last word is shortened with a flourish.
+8v,25,Czachory Część Anto: Kiedrowę,45,15,,,The last letter is written with a long tail; the editor reads it as ę.
+8v,26,z Części w Gołuchowie Kiedrowę,7,,,,The last letter is written with a long tail; the editor reads it as ę.
 8v,27,z Części Zakrzewskiego,21,,,,
 8v,28,Ciechel,56,,,,
 8v,29,Choyno,49,,,,
@@ -133,25 +133,25 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 8v,31,Bronczyn,84,,,,
 8v,32,Chwaliszew,140,,,,
 8v,33,Chudki,28,,,,
-8v,34,Krowica wielka y Pustki[?],49,,,,The last word: Pustki or Pinki.
+8v,34,Krowica wielka y Pinki[?],49,,,,
 8v,35,Modła,35,,,,
-8v,36,Tursko[?],21,,,,The middle letters are not sure: Tursko or Juniko.
+8v,36,Junikow[?],21,,,,
 8v,37,Chlewo,28,,,,
-8v,38,Fałęcice[?],56,,,,First letter F or T.
+8v,38,Fałęcice,56,,,,
 8v,39,Miasteczko Chocz,,,224,,
-8v,40,Miasteczko Chorab[?].,44,,,,The name is shortened with a period; the letters after Ch are not sure.
-8v,41,Dobrzyca,,,133,15,"The sum is not a multiple of 3 zł 15 gr, as every other village sum on these leaves is; the figures are plain."
+8v,40,Miasteczko Chorab.,44,,,,
+8v,41,Dobrzyca,,,133,15,"The sum is not a multiple of 3 zł 15 gr, as every other village sum on these leaves are."
 8v,42,Tamże Plebanskich,35,,,,
-8v,43,Izbica Holendry,84,,,,First word: Izbica or Trbica.
-8v,44,Bukowa Olędry,14,,,,First word: Bukowa or Bułowa.
+8v,43,Izbica Holendry,84,,,,
+8v,44,Bukowa Olędry,14,,,,
 8v,45,Dzierzbino,80,15,,,
 9,46,Dęmbsko,101,15,,,
 9,47,Dąmbrowa,,,42,,
 9,48,Droszewo,101,15,,,
 9,49,Miasteczko Dobrzyca,,,164,,
-9,50,Gorzuchy z Części Sieroszews:,14,,,,The last word is shortened and runs into the ruled line.
+9,50,Gorzuchy z Części Sieroszew:,14,,,,The last word is shortened and runs into the ruled line.
 9,51,z Części Jerzmanowskiego,10,15,,,
-9,52,z Części Mi: Jerzmanowskieg:,14,,,,The last word runs into the ruled line.
+9,52,z Części Mi: Jerzmanowskiego,14,,,,
 9,53,Gołuchow,213,15,,,
 9,54,Tamże Poddanych,7,,,,
 9,55,Jedlec,161,,,,
@@ -164,71 +164,71 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 9,62,Ciesle,14,,,,
 9,63,Małe Gałązki,49,,,,
 9,64,Głuski z Części Pawłowskiego,,,28,,
-9,65,z Części Brzeskiego[?],,,7,,The surname: Brzeskiego or Braskiego.
+9,65,z Części Przciekiego[?],,,7,,
 9,66,Grab,105,,,,
-9,67,Gazewo[?],56,,,,Gazewo or Garzewo.
-9,68,Gutow Część Przespolews:,45,15,,,The last word is shortened and runs into the ruled line.
+9,67,Gazewo,56,,,,
+9,68,Gutow Część Przespolewskiego,45,15,,,The end of the surname runs into the ruled line of the column; the editor gives it in full.
 9,69,z Części Malczewskiego,42,,,,
-9,70,z Części Kożuchow[?],10,15,,,The last word is not sure.
-9,71,Gać Moskowia[?],45,15,,,Second word: Moskowia or Maskowia.
+9,70,z Części Kosiekich,10,15,,,
+9,71,Gać Moskomia,45,15,,,
 9,72,Gora,59,15,,,
 9,73,Gizyce,56,,,,
 9,74,Tamże Poddanych,7,,,,
 9,75,Mączniki,91,,,,
-17v,76,Zamęzcie[?],31,15,,,The middle letters are not sure.
-17v,77,Niwiska,35,,,,
-17v,78,Grudzielec,154,,,,
-17v,79,Godziątkow,35,,,,
-17v,80,Janiszow[?],91,,,,Janiszow or Jankow: the middle letters are crowded.
-17v,81,Gać Pawęzowa,87,15,,,
-17v,82,Grodzisko,,,94,15,
-17v,83,Tamże Poddanych,35,,,,
-17v,84,Gostyczyna,66,15,,,
-17v,85,Tamże Poddanych Pleban:,7,,,,The last word runs into the ruled line.
-17v,86,Gałązki wielkie,73,15,,,
-17v,87,Gurzno,84,,,,
-17v,88,Jastrzębniki,122,15,,,
-17v,89,Pokrzykow[?],21,,,,The middle letters are not sure.
-17v,90,Szadek,42,,,,
-17v,91,Pamięcin,,,14,,
-17v,92,Część Wsi Pruszkowa,17,15,,,
-17v,93,Miasteczko Jwanowice,142,,,,
-17v,94,Tamże poddanych Pleb:,24,,,,"The last word is shortened with a flourish. The sum is not a multiple of 3 zł 15 gr; the figure is plain, and the place is a town."
-17v,95,Jankow,122,15,,,
-17v,96,Brudzowek,52,15,,,
-17v,97,Kuznia,35,,,,
-17v,98,Piła,31,15,,,
-17v,99,Kwileń,38,15,,,
-17v,100,Część Niniewa[?],38,15,,,Niniewa or Niniowa.
-17v,101,Olesiec,31,15,,,
-17v,102,Kurowo,42,,,,
-17v,103,Gniazdow,45,15,,,
-17v,104,Kakawa,84,,,,
-17v,105,Karsy,45,15,,,
-17v,106,Wierzchosław,42,,,,
-17v,107,Bobry,56,,,,
-18,58,Gardowo[?],52,15,,,Third letter r or z: Gardowo or Gazdowo.
+9v,76,Zamoscie[?],31,15,,,
+9v,77,Niwiska,35,,,,
+9v,78,Grudzielec,154,,,,
+9v,79,Godziątkow,35,,,,
+9v,80,Jaruntow,91,,,,
+9v,81,Gać Pawęzowa,87,15,,,
+9v,82,Grodzisko,,,94,15,
+9v,83,Tamże Poddanych,35,,,,
+9v,84,Gostyczyna,66,15,,,
+9v,85,Tamże Poddanych Pleban:,7,,,,
+9v,86,Gałązki wielkie,73,15,,,
+9v,87,Gurzno,84,,,,
+9v,88,Jastrzębniki,122,15,,,
+9v,89,Poklękow[?],21,,,,
+9v,90,Szadek,42,,,,
+9v,91,Pamięcin,,,14,,
+9v,92,Część Wsi Pruszkowa,17,15,,,
+9v,93,Miasteczko Iwanowice,142,,,,
+9v,94,Tamże poddanych Pleban:,24,,,,"The last word is shortened with a flourish. The sum is not a multiple of 3 zł 15 gr; the figure is plain, and the place is a town."
+9v,95,Jankow,122,15,,,
+9v,96,Brudzowek,52,15,,,
+9v,97,Kuznia,35,,,,
+9v,98,Piła,31,15,,,
+9v,99,Kwileń,38,15,,,
+9v,100,Część Niniowa,38,15,,,
+9v,101,Olesiec,31,15,,,
+9v,102,Kurowo,42,,,,
+9v,103,Gniazdow,45,15,,,
+9v,104,Kakawa,84,,,,
+9v,105,Karsy,45,15,,,
+9v,106,Wierzchosław,42,,,,
+9v,107,Bobry,56,,,,
+18,58,Gardowo[?],52,15,,,
 18,59,Grochowy,57,15,,,
 18,60,Janiszewo,75,,,,
 18,61,Podłużyce,15,,,,
 18,62,Ostrow,7,15,,,
 18,63,Kuznica,5,,,,
 18,64,Kordownia,2,15,,,
-18,65,Jaroszewice Małe z Częś: Krzyz:,7,15,,,The last word is shortened with a flourish.
+18,65,Jaroszewice Mokre z Częś: hurczew:,7,15,,,The last word is shortened with a flourish.
 18,66,z Części JP. Biernackiego,10,,,,
-18,67,z Części JP. Bardzińskieg:,5,,,,The last word runs into the ruled line.
+18,67,z Części JP. Bardzińskiego,5,,,,
 18,68,Jabłkowo,37,15,,,
 18,69,Krągolice,12,15,,,
 18,70,Karsy,27,15,,,
 18,71,Zdzary,32,15,,,
 18,72,Kazmirz,,,32,15,
 18,73,Głowy,,,22,15,
-18,74,Kuznica z Dąmbrową y Kieliską[?],,,22,15,The last word is not sure and runs into the ruled line.
-18,75,Sączky[?],,,2,15,The ending is not sure.
+18,74,Kuznica z Dąmbrową y Siedliskę,,,22,15,The last word is shortened with a flourish.
+18,75,Sacały[?],,,2,15,
 18,76,Lekaszyn,,,45,,
 18,77,Kozubow,,,25,,
 18,78,Krasnica,,,35,,
-18,79,Kęszewy z Ciołkiem y Dzią[?],32,15,,,The last word is not sure.
+18,79,Kęszewy z Ciołkiem y Dryią,32,15,,,
 18,80,Kwiatkow,52,15,,,
 18,81,Kurowko z Częś: Gałeckiego,5,,,,
 18,82,z Częś: Karo: Dobrzyckiego,10,,,,
@@ -238,14 +238,14 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 18v,86,Kuchary,40,,,,
 18v,87,Kiełczewo minus,72,15,,,
 18v,88,Kawnice,52,15,,,
-18v,89,Folwark Kosocha y Ruda,10,,,,Kosocha or Rosocha.
+18v,89,Folwark Kosocha y Ruda,10,,,,
 18v,90,Pustkowie Bandura,2,15,,,
 18v,91,Krzymow,30,,,,
 18v,92,Borow,5,,,,
 18v,93,Drążno,25,,,,
 18v,94,Kurowo z Częś: Wa: Wardęsk:,5,,,,The last word is shortened with a flourish.
 18v,95,z Częś: Woy: Wardęskiego,7,15,,,
-18v,96,z Części Krzeczkowskiego[?],5,,,,The middle letters of the surname are not sure.
+18v,96,z Części Krzeczkowskiego,5,,,,
 18v,97,z Częś: Sta: Jaroszewskiego,5,,,,
 18v,98,z Częś: Kurowskiego,5,,,,
 18v,99,Lisiec minor z Częś: Toma: Lisieckiego,27,15,,,
@@ -277,52 +277,52 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 19,125,Zakrzewek,20,,,,
 19,126,Ozorzyn,27,15,,,
 19,127,Osiek minor,80,,,,
-19,128,Police wsrzednie[?],5,,,,The second word begins w and ends -nie; the middle is crowded.
+19,128,Police wesrednie[?],5,,,,
 19,129,Tarnowa,20,,,,
 19,130,Pąchowo,27,15,,,
-19,131,Pętowo[?],25,,,,Pętowo or Perłowo.
+19,131,Perłowo,25,,,,
 19,132,Powiercie,47,15,,,
 19,133,Leznica,25,,,,
 19,134,Zawadki,17,15,,,
-19,135,Podbiele,,,17,15,A figure 17 and 15 in the first pair of columns is rubbed out; the sum stands under the second.
+19,135,Podbiele,,,17,15,
 19,136,Paprotnica,37,15,,,
 19,137,Rzgow,,,95,,
-19,138,Modłabiena[?],,,47,15,The letters after Mod are not sure.
+19,138,Modłabiena,,,47,15,
 19,139,Dąmbrowa,,,5,,
 19,140,Babie,,,12,15,
-19,141,Zaskoze[?],,,17,15,Zaskoze or Zastoze.
-19,142,Pustkowie Grądy z Młyne:,,,7,15,The last word runs into the ruled line.
+19,141,Zastroze,,,17,15,
+19,142,Pustkowie Grądy z Młynem,,,7,15,
 19,143,Miasteczko Rychwał,,,102,,
 19,144,Starawies,55,,,,
-19v,145,Młyn Kuczimia[?],,,2,15,The second word is not sure.
+19v,145,Młyn Rudzimia,,,2,15,
 19v,146,Wola Rychwalska,,,15,,
-19v,147,Jaroszewice,30,,,,A figure 17 and 15 in the second pair of columns is rubbed out.
-19v,148,Bikorzew[?],,,17,15,The letters between Bi and rzew are crowded.
+19v,147,Jaroszewice,30,,,,
+19v,148,Piskoszew,,,17,15,
 19v,149,Dąmbroszyn,27,15,,,
 19v,150,Ruszkowo,50,,,,
 19v,151,Police mostowe,10,,,,
 19v,152,Radolina,65,,,,
-19v,153,Rozięcice[?] z Częś: Bernar: Bąg:,,,12,15,The first word is not sure. The surname is shortened with a flourish.
-19v,154,z Części Tomasza Bąg:,,,12,15,The surname is shortened with a flourish.
+19v,153,Racięcice[?] z Częś: Bernar: Bągin:,,,12,15,The surname is shortened with a flourish.
+19v,154,z Części Tomasza Bągin:,,,12,15,The surname is shortened with a flourish.
 19v,155,z Części Woy: Krasnickieg:,12,15,,,
 19v,156,z Części Wilkostowskich,,,12,15,
-19v,157,Łuczywno z Częś: Ber: Bąg:,,,10,,The surname is shortened with a flourish.
-19v,158,Łuczywno z Częś: J: Bąg:,,,2,15,The surname is shortened with a flourish.
+19v,157,Łuczywno z Częś: Ber: Bągin:,,,10,,The surname is shortened with a flourish.
+19v,158,Łuczywno z Częś: J: Bągin:,,,2,15,The surname is shortened with a flourish.
 19v,159,z Części Woy: Krasnickieg:,5,,,,
 19v,160,z Części Wilkostowskich,,,5,,
-19v,161,Smolniki z Częś: Toma: Bąg:,,,2,15,The surname is shortened with a flourish.
+19v,161,Smolniki z Częś: Toma: Bągin:,,,2,15,The surname is shortened with a flourish.
 19v,162,z Części Krasnickiego,2,15,,,
 19v,163,z Częś: Wilkostowskich,,,2,15,
-19v,164,Pycewo[?],42,15,,,First letter P or S; third letter c or cz.
+19v,164,Sycewo,42,15,,,
 19v,165,Sługocinek,57,15,,,
 19v,166,Sokołowo major,37,15,,,
 19v,167,Siąszyce,67,15,,,
-19v,168,Szetlewo z Częś: Jaroszews:,5,,,,The surname is shortened with a flourish.
-19v,169,z Części Jana Jaroszews:,5,,,,The surname is shortened with a flourish.
+19v,168,Szetlewo z Częś: Jaroszew:,5,,,,The surname is shortened with a flourish.
+19v,169,z Części Jana Jaroszew:,5,,,,The surname is shortened with a flourish.
 19v,170,z Części Folwarskiego,5,,,,
 19v,171,z Części JP. Zakrzewskiey,27,15,,,
 19v,172,Szetlewek,55,,,,
-19v,173,Szawłowice[?],10,,,,The letters after S are not sure.
+19v,173,Szawłowice,10,,,,
 19v,174,Sławsk,105,,,,
 19v,175,Olędry Sławskie,30,,,,
 20,176,Folwark Kowalewek,2,15,,,
@@ -340,7 +340,7 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 20,188,Tarnowa,37,15,,,
 20,189,Krempa,37,15,,,
 20,190,Sarbicko,67,15,,,
-20,191,Trzebuchow Kamienne,40,,,,The end of the second word runs into the ruled line.
+20,191,Trzebuchowo Kamienne,40,,,,
 20,192,Miasteczko Władysławow,166,,,,
 20,193,Russocice,75,,,,
 20,194,Międzylesie,15,,,,
@@ -349,16 +349,16 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 20,197,Tury,10,,,,
 20,198,Małoszyna,10,,,,
 20,199,Wrząca major,52,15,,,
-20,200,Tamże Poddani Pleba:,,,5,,The last word runs into the ruled line.
+20,200,Tamże Poddani Pleban:,,,5,,The last word is shortened with a flourish.
 20,201,Wrząca minor,60,,,,
 20,202,Wola Podłęzna,22,15,,,
 20,203,Wierzchociny,45,,,,
 20,204,Węglewo,30,,,,
 20,205,Wysokie,,,52,15,
 20,206,Pustkowie Borki,,,2,15,
-20v,207,Podgor,,,20,,A pen cross is drawn over the first pair of columns beside entries 207 to 210.
+20v,207,Podgor,,,20,,
 20v,208,Kuznica,,,7,15,
-20v,209,Wilany[?],,,10,,The middle letters are not sure.
+20v,209,Wilany,,,10,,
 20v,210,Pustkowie Drążek,,,2,15,
 20v,211,Wardęzino minor,30,,,,
 20v,212,Wyszyna,92,15,,,
@@ -367,19 +367,19 @@ page,no,name,w_zl,w_gr,d_zl,d_gr,note
 20v,215,Smolnik,47,15,,,
 20v,216,Młyn Wierzchny,2,15,,,
 20v,217,Przyborowie,2,15,,,
-20v,218,Kotunia,2,15,,,Kotunia or Kotonia.
+20v,218,Kotonia,2,15,,,
 20v,219,Piorunow,,,50,,
 20v,220,Młyn Krupa,2,15,,,
 20v,221,Wies Kuny z Młynem,,,37,15,
 20v,222,Kamionka,,,20,,
-20v,223,Wola Rozostowa[?],17,15,,,The second word is not sure.
+20v,223,Wola Rozostawa,17,15,,,
 20v,224,Folwark Galewo,5,,,,
-20v,225,Kliwany[?],35,,,,Kliwany or Klwany.
+20v,225,Klwany,35,,,,
 20v,226,Bogdałow,27,15,,,
 20v,227,Kalinowa,27,15,,,
 20v,228,Bratuszyn,32,15,,,
 20v,229,Młyn Dzierzązna,2,15,,,
-20v,230,Wardęzyn major z Częś: Węs:,7,15,,,The last word is shortened and runs into the ruled line.
+20v,230,Wardęzyn major z Częś: Węgie:,7,15,,,The last word is shortened.
 20v,231,z Części Szomanskiego,15,,,,
 20v,232,Złotkowy,40,,,,
 20v,233,Zakrzew,,,37,15,

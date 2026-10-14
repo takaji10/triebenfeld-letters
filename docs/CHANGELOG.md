@@ -1864,6 +1864,13 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The archive's descriptions of both fonds are in `reference/sources/`, with working translations.
 - Figures with them: 568 documents on 1,857 pages in 39 holdings; 759 marks of doubt; 563 translated; sixteen documents in Polish; the edition now runs from 1589 to 1860.
 
+## The editor's answers on the two Poznań holdings worked in (2026-10-14; not published)
+
+- **APP 53/64/0/-/Kalisz Tab.21**: the editor checked the hearth-tax register line by line on the spreadsheet with a picture of each line. 69 names corrected, no figure changed; the twelve figures off the rate of the tax confirmed as read; 13 names keep "[?]" (45 before). Three names the first reading had shortened are written in full on the page (Jerzmanowskiego, Bardzińskiego, z Młynem). The text, the English (three new forms in the word table), `process.md` and the page brought into line; the clean spreadsheet made (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`). `017v.jpg` is leaf 9 verso (editor). The list of corrections is in the unit's `notes.md`. Publishing the English again also mended its table: the version on file had been published before the heading was settled, without the printed title.
+- **APP 53/968/0/-/783**: the folds approved as proposed. Count Włodzimierz Miączyński was Michalina Miączyńska's son (editor): in his biography and on the holding's page.
+- **The Olęder colonies of Trąbczyn** (editor): two colonies, first Trąbczyńskie Stare / Nowe Olędry, later Łazińskie Stare / Nowe Olędry, in several spellings; Łazy is a separate village. The summons' Staro- and Nowo-Łazińska colonies are matched to the two place entries, and Łazy is kept apart from both. A paragraph on this in the pages of both holdings.
+- Figures: 568 documents in 39 holdings; 727 marks of doubt.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

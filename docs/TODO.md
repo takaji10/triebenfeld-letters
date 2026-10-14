@@ -373,13 +373,13 @@ substance. Details: `units/app539680783/notes.md`.
       altered the print in pen: the name in the margin for no. 58 (read
       "Marcina [Hetke?]"), and nos. 7, 55, 70, 53 and 54 (the holding's
       notes, "For the editor's eye").
-- [ ] **You: place the folds** of the two openings
-      (`review/app539680783/folds/index.html`).
-- [ ] **You: how Count Włodzimierz Miączyński was related** to Michalina
-      and Stanisław Miączyński, if you know; the paper does not say.
-- [ ] **You: whether the Staro-Łazińska and Nowo-Łazińska colonies** are
-      the "Łazy" of the grant of 1796 and of the tables of 1789 and 1797
-      (today Łazińsk?), before any link is made between them.
+- [x] The folds: approved as proposed (2026-10-14).
+- [x] Count Włodzimierz Miączyński was Michalina's son (you, 2026-10-14):
+      in his biography and on the holding's page.
+- [x] The Staro- and Nowo-Łazińska colonies are not Łazy (you,
+      2026-10-14): the two Olęder colonies of the estate, first
+      Trąbczyńskie and later Łazińskie Stare / Nowe Olędry. Matched to
+      those place entries; Łazy kept apart.
 - [ ] **You: say when to publish.**
 
 ## 11. APP 53/64/0/-/Kalisz Tab.21: the hearth-tax register of 1789 (added 2026-10-13, not published)
@@ -390,16 +390,9 @@ neighbours among them. There was no transcription; the register was read
 from your scans in the session. Details:
 `units/app53640kalisztab21/notes.md`.
 
-- [ ] **You: check the register** on the spreadsheet
-      `review/app53640kalisztab21/table_check.xlsx`. Each line has a picture
-      of that part of the scan beside it (two or three lines: find yours by
-      its number). 45 names are marked "[?]" and 85 lines have a note. The
-      figures have no totals to hold them; twelve are marked LOOK because
-      they do not fit the rate of the tax (ten of them are towns).
-- [ ] Your corrections worked in (`holding.py --take`), the English, the
-      summary and the page brought into line, and the clean spreadsheet
-      made (`holding.py --archive`).
-- [ ] **You: the file `017v.jpg`.** By its receipt numbers it is the back of
-      leaf 9, not of leaf 17, and it is placed there. Say if your notes
-      have it otherwise.
+- [x] You checked the register (2026-10-14): 69 names corrected, no
+      figure changed, the twelve LOOK figures confirmed; 13 names keep
+      "[?]". Worked in the same day: the text, the English, the page and
+      the clean spreadsheet (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`).
+- [x] `017v.jpg` is the back of leaf 9 (you, 2026-10-14).
 - [ ] **You: say when to publish.**

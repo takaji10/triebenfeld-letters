@@ -7,7 +7,8 @@ counterclaims against 97 colonists over pasture and wood-gathering in his
 forest. Added on 2026-10-13 at the editor's request: pages cut, the
 editor's Polish checked against the scans, the English written again,
 summarised in both languages, with its page. **Built and committed; not
-published. The editor has not yet seen the folds or the changes.**
+published.** The editor approved the folds on 2026-10-14; the page of
+changes and the five places on page 1 wait for their look.
 
 Everything about how the holding was made is in the docstring of
 `intake/holding.py`.
@@ -25,9 +26,9 @@ Breyer's own copies; this one is an original of 1860 that he collected.
   service.
 - **Pages.** `0004_a` (the cover, front matter before the document, as in
   801), `0005_a`, `0006_a1`, `0006_a2`, `0007_a1`, `0007_a2`.
-- **Folds** of the two openings are first proposals (2520 on both), read off
-  strips of the gutter. The fold page is
-  `review/app539680783/folds/index.html`; the editor has not placed them.
+- **Folds** of the two openings: 2520 on both, read off strips of the
+  gutter, and approved by the editor as proposed (2026-10-14; their file
+  is `intake/folds.json`).
 - **The cover** has the fonds stamp, the archivist's title in pencil in
   square brackets, the date "1860. 7/19. X.", the stamp with "Spuśc. A
   Breyera" and "783", and a struck-out "567". The pencil title has "z
@@ -115,19 +116,24 @@ reasons are in the docstring and the main differences in
 
 - **Włodzimierz Miączyński** has his own person entry
   (`miaczynski-wlodzimierz`), matched only in this document; Stanisław's
-  entry no longer takes "Hrabia Miączyński". How the Count was related to
-  Michalina and Stanisław the paper does not say: **a question for the
-  editor**, who may know.
+  entry no longer takes "Hrabia Miączyński". He was Michalina's son
+  (editor, 2026-10-14); the paper does not say so, and the page and his
+  biography give it as context, not as the document's word.
 - The print's "Prusiński" is matched to Paweł, Katarzyna and Antoni
   Prusimski by the forename or word beside it; "Wejgel" to Weigel;
   "Celmer" to the Zelmer family.
 - The 97 colonists have no person entries. The Zelmers among them: Henryk
   (55), Anna Elżbieta, widow of Daniel, with Karolina, Krystyna, Julja,
   Krystjan and August (78), August (92), Michał (95).
-- **The two colonies** have no place entry. "Łazy" of the grant of 1796
-  (`lazy-trabczyn`) and "Haul. Lazy." in the table of about 1797 (AGAD
-  1/169/0/1/1745, no. 150) may be the same settlement, today Łazińsk:
-  **a question for the editor** before any link is made. Studzianka, the
+- **The two colonies** (editor, 2026-10-14): two Olęder colonies were
+  founded on the Trąbczyn estate, first called Trąbczyńskie Stare and Nowe
+  Olędry and later Łazińskie Stare and Nowe Olędry, in several spellings.
+  The print's "kolonja Staro-Łazińska" and "Nowo-Łazińska" are matched to
+  the place entries `trabczynskie-stare-oledry` and
+  `trabczynskie-nowe-oledry`. **Łazy is a distinct village**, not either
+  colony (`lazy-trabczyn`, the grant of 1796); "Haul. Lazy." in the table
+  of about 1797 (AGAD 1/169/0/1/1745, no. 150) is not linked to the
+  colonies. Studzianka, the
   forest district also called Zarzyński, and Biskupice, the neighbouring
   estate, have no entries either; the existing "Biskupice" entry is a
   Silesian Bischdorf and is not matched here.
@@ -152,5 +158,4 @@ The editor's ruling on that era is open for five holdings now.
 
 1. **The editor's look** at the page of changes and at the five places
    above.
-2. **The folds**, on the fold page.
-3. **Publishing**, at the editor's word.
+2. **Publishing**, at the editor's word.

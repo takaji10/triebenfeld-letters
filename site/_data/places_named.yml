@@ -1353,6 +1353,18 @@
   docs: 1
   span: "1813"
   letters: [{id: "239", uid: "oe1bu9454-239", url: "/documents/oe1bu9454/239/", n: 1}]
+- slug: "trabczynskie-nowe-oledry"
+  name: "Trąbczyńskie Nowe Olędry"
+  count: 1
+  docs: 1
+  span: "1860"
+  letters: [{id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 1}]
+- slug: "trabczynskie-stare-oledry"
+  name: "Trąbczyńskie Stare Olędry"
+  count: 3
+  docs: 1
+  span: "1860"
+  letters: [{id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", n: 3}]
 - slug: "ujest"
   name: "Ujazd (Ujest)"
   count: 2

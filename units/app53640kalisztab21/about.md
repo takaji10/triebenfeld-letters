@@ -6,6 +6,8 @@ The hearth tax (podymne) was a tax of the Polish Commonwealth laid on houses, co
 
 A table of the villages around Konin made for the Prussian administration about eight years later counts the houses and inhabitants of many of the same places: [[unit:agad1169011745]]. <!-- context -->
 
+Two colonies of Olęders, settlers who held their land by contract with the owner, had been founded on the Trąbczyn estate. Their names changed over time: first Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry, the old and the new Olęder colony of Trąbczyn, and later Łazińskie Stare Olędry and Łazińskie Nowe Olędry; the sources write them in several forms. Łazy, which the register enters beside them, is a separate village of the estate. <!-- context -->
+
 ### Contents
 
 The printed title on leaf 1 calls the volume the register of the hearth tax collected and of the orders to pay (delaty) issued out of that tax to the Crown army, for the instalment due at St John's 1789 [[1]]. Each line has the number of a receipt, the name of a town, a village, a demesne farm or a part of a village, and a sum in złoty and groszy. The sum stands under one of two headings: "collected", or "delata", where the money was paid on an order straight to the army [[1]].

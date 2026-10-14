@@ -51741,6 +51741,43 @@
   ]
  },
  {
+  "entity": "trabczynskie-stare-oledry",
+  "display": "Trąbczyńskie Stare Olędry",
+  "count": 3,
+  "documents": [
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro-Łazińskiej",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro Łazińskiej",
+    "page": 5,
+    "page_id": "0007_a2",
+    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+    "line": 56,
+    "doc_line": 44
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Staro Łazińskiej",
+    "page": 5,
+    "page_id": "0007_a2",
+    "scan": "APP_53_968_0_783_0007_a2-L1_05.jpg",
+    "line": 57,
+    "doc_line": 45
+   }
+  ]
+ },
+ {
   "entity": "wielun",
   "display": "Wieluń",
   "count": 2,
@@ -53188,6 +53225,25 @@
     "scan": "Oe_1_Bu_9454_0521_b-L288_01.jpg",
     "line": 20561,
     "doc_line": 26
+   }
+  ]
+ },
+ {
+  "entity": "trabczynskie-nowe-oledry",
+  "display": "Trąbczyńskie Nowe Olędry",
+  "count": 1,
+  "documents": [
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app539680783-1",
+    "surface": "Nowo-Łazińskiej",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 16,
+    "doc_line": 7
    }
   ]
  }

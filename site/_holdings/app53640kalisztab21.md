@@ -17,6 +17,8 @@ The hearth tax (podymne) was a tax of the Polish Commonwealth laid on houses, co
 
 A table of the villages around Konin made for the Prussian administration about eight years later counts the houses and inhabitants of many of the same places: <a href="{{ '/sources/agad1169011745/' | relative_url }}">1/169/0/1/1745</a>. <!-- context -->
 
+Two colonies of Olęders, settlers who held their land by contract with the owner, had been founded on the Trąbczyn estate. Their names changed over time: first Trąbczyńskie Stare Olędry and Trąbczyńskie Nowe Olędry, the old and the new Olęder colony of Trąbczyn, and later Łazińskie Stare Olędry and Łazińskie Nowe Olędry; the sources write them in several forms. Łazy, which the register enters beside them, is a separate village of the estate. <!-- context -->
+
 ### Contents
 
 The printed title on leaf 1 calls the volume the register of the hearth tax collected and of the orders to pay (delaty) issued out of that tax to the Crown army, for the instalment due at St John's 1789 <span class="cite">[<a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">1</a>]</span>. Each line has the number of a receipt, the name of a town, a village, a demesne farm or a part of a village, and a sum in złoty and groszy. The sum stands under one of two headings: "collected", or "delata", where the money was paid on an order straight to the army <span class="cite">[<a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">1</a>]</span>.
@@ -43,13 +45,13 @@ The editor supplied fourteen images: the cover and thirteen pages, each a single
 
 ### Transcription
 
-There was no earlier transcription. An AI model (Claude) read the register from the scans, line by line, each page in enlarged strips and every unclear name again at a larger size. The register is given as a table: one row for each line of the page, in the page's own columns. The printed title and the heading of the form are given once, above the first page.
+There was no earlier transcription. An AI model (Claude) read the register from the scans, line by line, each page in enlarged strips and every unclear name again at a larger size. The editor then checked that reading against the scans, line by line, on a sheet that shows each line of the table beside a picture of the same part of the page; 69 names were corrected, and no figure changed. The register is given as a table: one row for each line of the page, in the page's own columns. The printed title and the heading of the form are given once, above the first page.
 
-Names are spelt as on the page, with the marks the clerk set on the letters and no others; a word he shortened keeps his colon. 45 names that could not be read with certainty are marked "[?]". The editor has not yet checked the reading.
+Names are spelt as on the page, with the marks the clerk set on the letters and no others; a word he shortened keeps his colon. 13 names that could not be read with certainty are marked "[?]".
 
 ### Checking the figures
 
-The pages have no totals, so the figures cannot be added up. The tax itself gives a check: a village paid a fixed sum for each hearth, so its sum is a multiple of that rate. In the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy. Twelve lines do not fit: ten are towns, and the other two were looked at again and stand as read.
+The pages have no totals, so the figures cannot be added up. The tax itself gives a check: a village paid a fixed sum for each hearth, so its sum is a multiple of that rate. In the Pyzdry and Kalisz districts every village's sum is a multiple of 3 złoty 15 groszy, and on leaves 18 to 20 a multiple of 2 złoty 15 groszy. Twelve lines do not fit: ten are towns, and the other two were looked at again and stand as read. The editor confirmed all twelve figures against the scans.
 
 ### Division and dating
 

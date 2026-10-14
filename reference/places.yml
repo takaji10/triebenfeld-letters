@@ -337,25 +337,43 @@ places:
   # also appearing as Łazińsk and Łaziny, and Łukomskie Olędry of 1771-81 as a
   # different entity from the Łukomskie Olędry of 1798. Recording the names
   # first, and the identities when they are settled, is the right order.
+  #
+  # Settled for Trąbczyn (editor, 2026-10-14): two Olęder colonies were founded
+  # on the Trąbczyn estate and their names changed over time, first
+  # Trąbczyńskie Stare / Nowe Olędry, later Łazińskie Stare / Nowe Olędry, in
+  # several spellings. The summons of 1860 (APP 53/968/0/-/783) has them as the
+  # "kolonja Staro-Łazińska" and "Nowo-Łazińska", and those forms are matched.
+  # Łazy (lazy-trabczyn) is a distinct village, not either colony. The
+  # "Olendry Trąbczynskie" of the hearth-tax register of 1789 (APP 53/64/0/-/
+  # Kalisz Tab.21, entry 183) names no old or new, and is not matched.
   trabczynskie-stare-oledry:
     display: "Trąbczyńskie Stare Olędry"
     kind: settlement
     tier: "Book-confirmed"
+    match: 'Staro[- ]Łazińsk(?:a|iej|ą)'
+    distinct_from: [lazy-trabczyn, trabczynskie-nowe-oledry]
     variants:
       - {form: "Trombschino-Hauland", match: false, seen_in: ["Hohenlohe-era estate inventory"]}
       - {form: "Trąbczyner Holländ",  match: false, seen_in: ["oe1bu14526-17"]}
       - {form: "Łazińsk",             match: false}
       - {form: "Łaziny",              match: false}
+      - {form: "Łazińskie Stare Olędry", match: false}
+      - {form: "Staro-Łazińska",      match: true, seen_in: ["app539680783-1"]}
     open_questions:
       - "The 1746 foundation, and the primary chronological anchor of the whole
-         project. Whether Łazińsk / Łaziny name this settlement or a part of it
-         is not established here."
+         project. The later name is Łazińskie Stare Olędry (editor, 2026-10-14);
+         whether the register's Łazińsk / Łaziny is that name or a part of the
+         colony is not established here."
 
   trabczynskie-nowe-oledry:
     display: "Trąbczyńskie Nowe Olędry"
     kind: settlement
     tier: "Book-confirmed"
-    variants: []
+    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)'
+    distinct_from: [lazy-trabczyn, trabczynskie-stare-oledry]
+    variants:
+      - {form: "Łazińskie Nowe Olędry", match: false}
+      - {form: "Nowo-Łazińska",       match: true, seen_in: ["app539680783-1"]}
     open_questions:
       - "First attested in metrical records 29 September 1776 (register)."
 
@@ -1944,7 +1962,10 @@ places:
     tier: "Text-confirmed"
     variants: []
     # One of the villages of the 1796 grant (12765, document 4). Matched only
-    # in that list: "lazy" is too short to match anywhere else.
+    # in that list: "lazy" is too short to match anywhere else. A village of
+    # its own, not the Łazińska colonies (editor, 2026-10-14); entry 180 of
+    # the hearth-tax register of 1789 (APP 53/64/0/-/Kalisz Tab.21).
+    distinct_from: [trabczynskie-stare-oledry, trabczynskie-nowe-oledry]
 
   wloclawek:
     # The seat of the bishops of Kuyavia, whose cathedral chapter held Batkowo
