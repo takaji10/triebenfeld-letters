@@ -285,8 +285,8 @@ could only pay off the farm
 in this way.
 Wrocław books in Emilienheim.
 2 hours of religion a week""",
- '0012_a1': """From Smięcia
-Budendorf comes from Smięcia
+ '0012_a1': """From Swięcia
+Budendorf comes from Swięcia
 Field names
 1) Bronikel
 2) Steinbruch (quarry)
@@ -490,7 +490,7 @@ and married. —
 Neu Czarkow, Briesen, Paprotk[illegible]
 also Brücher
 Psary consolidated in the year 1868
-In [uncertain: Sm…] 6 pieces each: about 1868
+In St[uncertain: y]pin 6 pieces each: about 1868
 [uncertain: Bloh.]: behind the canal.
 Dry, new land, behind the
 churchyard; surveyed: Dornstein

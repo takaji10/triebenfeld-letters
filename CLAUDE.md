@@ -147,9 +147,8 @@ so check them.
     and was not used. No transcription existed: read from the scans in
     session (`intake/holding.py`), English in `intake/english.py`,
     summaries claim-checked. Read `units/app539680669/notes.md` first.
-    The editor answered two spot sheets (39 readings; 70 marks of doubt
-    remain); a third, "Sm or Sw in Breyer's notebook" (three rows,
-    `review/app539680669/readings3.csv`), waits. Its era is the new `twentieth-century`
+    The editor answered three spot sheets (42 readings; 70 marks of
+    doubt remain, on the inside covers and in the photo log, not asked). Its era is the new `twentieth-century`
     (editor, 2026-10-14; working name). Waits for their word.
 - **Everything else is published and pushed (2026-10-13)**: 566 documents
   in 37 holdings. All four cloud branches are in `main`.

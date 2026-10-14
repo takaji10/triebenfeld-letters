@@ -79,6 +79,10 @@ channel. TEXT is the reading, line by line as on the page.
   St[?]pin (not Sm…); Paprotk[?]; Izbitz. Lodz., Kb., Gehege, grob,
   Züchten (the editor offered Züchter), Kaveln and the word before "i.
   Brasilien" stand with their doubt.
+- The third sheet, "Sm or Sw in Breyer's notebook" (2026-10-14,
+  readings3_answers.json): "Aus Swięcia" and "Budendorf stammt aus
+  Swięcia" on 0012_a1 (first read Smięcia, without doubt), and St[y?]pin
+  for the second "[Sm…?]" on 0018_a1.
 - The English (ENGLISH) translates the notes and keeps the names as he
   wrote them; Trąbczyn takes the edition's spelling.
 """
@@ -386,8 +390,8 @@ die Wirtschaft auszahlen können.
 Breslauer Bücher in Emilien¬
 heim.
 2 St. Religion i. d. Woche""",
- '0012_a1': """Aus Smięcia
-Budendorf stammt aus Smięcia
+ '0012_a1': """Aus Swięcia
+Budendorf stammt aus Swięcia
 Flurnamen
 1) Bronikel
 2) Steinbruch
@@ -592,7 +596,7 @@ und heirateten. —
 Neu Czarkow, Briesen, Paprotk[?]
 auch Brücher
 Psary verkopp. im J. 1868
-In [Sm…?] bei 6 Stücke: um 1868
+In St[y?]pin bei 6 Stücke: um 1868
 [Bloh.?]: hinterm Kanal.
 Trockene, Neuland, hinterm
 Kirchhof; Vermessen: Dornstein

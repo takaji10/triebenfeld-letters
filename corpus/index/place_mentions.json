@@ -37907,6 +37907,510 @@
   ]
  },
  {
+  "entity": "swiecia",
+  "display": "Swięcia",
+  "count": 51,
+  "documents": [
+   "agad1169011745-1",
+   "app539680669-1",
+   "app539680801-2",
+   "app539680801-3",
+   "oe1bu14525-11",
+   "oe1bu14525-18",
+   "oe1bu14525-19",
+   "oe1bu14525-20",
+   "oe1bu14525-21",
+   "oe1bu14525-30",
+   "oe1bu14525-6",
+   "oe1bu14525-7",
+   "oe1bu14526-20",
+   "oe1bu14526-8",
+   "oe1bu9454-136",
+   "oe1bu9454-146",
+   "oe1bu9454-147",
+   "oe1bu9454-148",
+   "oe1bu9454-149",
+   "oe1bu9454-151",
+   "oe1bu9454-152",
+   "oe1bu9454-164",
+   "oe1bu9454-168",
+   "oe1bu9454-179a",
+   "oe1bu9454-18",
+   "oe1bu9454-188",
+   "oe1bu9454-192",
+   "oe1bu9454-213",
+   "oe1bu9454-214",
+   "oe1bu9454-232",
+   "oe1bu9454-233",
+   "oe1bu9454-24",
+   "oe1bu9454-28",
+   "oe1bu9454-31",
+   "oe1bu9454-32",
+   "oe1bu9454-64"
+  ],
+  "mentions": [
+   {
+    "uid": "agad1169011745-1",
+    "surface": "Swięcia",
+    "page": 5,
+    "page_id": "0405_a1",
+    "scan": "AGAD_1_169_0_1_1745_0405_a1-L1_05.jpg",
+    "line": 149,
+    "doc_line": 143
+   },
+   {
+    "uid": "oe1bu14525-11",
+    "surface": "Swięcin",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
+    "line": 1191,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu14525-19",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0077_b",
+    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
+    "line": 2396,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu14525-20",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0079_a2",
+    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
+    "line": 2418,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14525-30",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0127_b",
+    "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
+    "line": 3574,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu14525-6",
+    "surface": "Swięcin",
+    "page": 1,
+    "page_id": "0016_a2",
+    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
+    "line": 582,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Swięcin",
+    "page": 3,
+    "page_id": "0019_a2",
+    "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
+    "line": 708,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Swięcia",
+    "page": 7,
+    "page_id": "0021_a2",
+    "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
+    "line": 816,
+    "doc_line": 151
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Swięcia",
+    "page": 8,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
+    "line": 831,
+    "doc_line": 165
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Swięcia",
+    "page": 8,
+    "page_id": "0022_a1",
+    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
+    "line": 854,
+    "doc_line": 188
+   },
+   {
+    "uid": "oe1bu14525-7",
+    "surface": "Swięcia",
+    "page": 9,
+    "page_id": "0022_a2",
+    "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
+    "line": 878,
+    "doc_line": 211
+   },
+   {
+    "uid": "oe1bu14525-18",
+    "surface": "Swięcin",
+    "page": 3,
+    "page_id": "0072_a2",
+    "scan": "Oe_1_Bu_14525_0072_a2-L18_03.jpg",
+    "line": 2217,
+    "doc_line": 39
+   },
+   {
+    "uid": "oe1bu14526-20",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0134_b",
+    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+    "line": 6813,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14526-20",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0134_b",
+    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+    "line": 6819,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu14526-20",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0134_b",
+    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
+    "line": 6821,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu14525-21",
+    "surface": "Swięcia",
+    "page": 8,
+    "page_id": "0085_a1",
+    "scan": "Oe_1_Bu_14525_0085_a1-L21_08.jpg",
+    "line": 2635,
+    "doc_line": 194
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Swięcia",
+    "page": 5,
+    "page_id": "0264_b",
+    "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
+    "line": 9924,
+    "doc_line": 98
+   },
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Swięcia",
+    "page": 6,
+    "page_id": "0265_a1",
+    "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
+    "line": 9932,
+    "doc_line": 105
+   },
+   {
+    "uid": "oe1bu9454-146",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0284_a1",
+    "scan": "Oe_1_Bu_9454_0284_a1-L146_02.jpg",
+    "line": 10617,
+    "doc_line": 38
+   },
+   {
+    "uid": "oe1bu9454-146",
+    "surface": "Swięcier",
+    "page": 2,
+    "page_id": "0284_a1",
+    "scan": "Oe_1_Bu_9454_0284_a1-L146_02.jpg",
+    "line": 10620,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-147",
+    "surface": "Swięcier",
+    "page": 2,
+    "page_id": "0286_a1",
+    "scan": "Oe_1_Bu_9454_0286_a1-L147_02.jpg",
+    "line": 10708,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-148",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0287_b",
+    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+    "line": 10753,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-148",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0287_b",
+    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
+    "line": 10754,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-149",
+    "surface": "Swięcier",
+    "page": 1,
+    "page_id": "0288_a",
+    "scan": "Oe_1_Bu_9454_0288_a-L149_01.jpg",
+    "line": 10777,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-151",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0291_a1",
+    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
+    "line": 10880,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-152",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0292_a",
+    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
+    "line": 10931,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-164",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0310_a1",
+    "scan": "Oe_1_Bu_9454_0310_a1-L164_02.jpg",
+    "line": 11626,
+    "doc_line": 32
+   },
+   {
+    "uid": "oe1bu9454-168",
+    "surface": "Swięcier",
+    "page": 4,
+    "page_id": "0317_a",
+    "scan": "Oe_1_Bu_9454_0317_a-L168_04.jpg",
+    "line": 11973,
+    "doc_line": 100
+   },
+   {
+    "uid": "app539680801-2",
+    "surface": "Święca",
+    "page": 1,
+    "page_id": "0039_a",
+    "scan": "APP_53_968_0_801_0039_a-L2_01.jpg",
+    "line": 34,
+    "doc_line": 3
+   },
+   {
+    "uid": "app539680801-3",
+    "surface": "Święcia",
+    "page": 1,
+    "page_id": "0042_a",
+    "scan": "APP_53_968_0_801_0042_a-L3_01.jpg",
+    "line": 53,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Swięcia",
+    "page": 17,
+    "page_id": "0045_a2",
+    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
+    "line": 2353,
+    "doc_line": 556
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0340_b",
+    "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
+    "line": 12905,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0341_a2",
+    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
+    "line": 12926,
+    "doc_line": 40
+   },
+   {
+    "uid": "oe1bu9454-179a",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0341_a2",
+    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
+    "line": 12930,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu9454-188",
+    "surface": "Swięcier",
+    "page": 2,
+    "page_id": "0355_a1",
+    "scan": "Oe_1_Bu_9454_0355_a1-L188_02.jpg",
+    "line": 13406,
+    "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-192",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0368_a1",
+    "scan": "Oe_1_Bu_9454_0368_a1-L192_02.jpg",
+    "line": 13935,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0041_a2",
+    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+    "line": 1598,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu9454-24",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0041_a2",
+    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
+    "line": 1599,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-28",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0050_a1",
+    "scan": "Oe_1_Bu_9454_0050_a1-L28_02.jpg",
+    "line": 1893,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Swięcia",
+    "page": 3,
+    "page_id": "0056_a2",
+    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+    "line": 2130,
+    "doc_line": 85
+   },
+   {
+    "uid": "oe1bu9454-31",
+    "surface": "Swięcia",
+    "page": 3,
+    "page_id": "0056_a2",
+    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
+    "line": 2138,
+    "doc_line": 93
+   },
+   {
+    "uid": "oe1bu9454-32",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0057_b",
+    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
+    "line": 2192,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-64",
+    "surface": "Swięcia",
+    "page": 3,
+    "page_id": "0122_a1",
+    "scan": "Oe_1_Bu_9454_0122_a1-L64_03.jpg",
+    "line": 4944,
+    "doc_line": 89
+   },
+   {
+    "uid": "oe1bu9454-213",
+    "surface": "Swięcia",
+    "page": 3,
+    "page_id": "0398_a2",
+    "scan": "Oe_1_Bu_9454_0398_a2-L213_03.jpg",
+    "line": 15139,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-214",
+    "surface": "Swięcia",
+    "page": 2,
+    "page_id": "0400_a1",
+    "scan": "Oe_1_Bu_9454_0400_a1-L214_02.jpg",
+    "line": 15237,
+    "doc_line": 36
+   },
+   {
+    "uid": "oe1bu9454-232",
+    "surface": "Swięcia",
+    "page": 4,
+    "page_id": "0438_a",
+    "scan": "Oe_1_Bu_9454_0438_a-L232_04.jpg",
+    "line": 16958,
+    "doc_line": 66
+   },
+   {
+    "uid": "oe1bu9454-233",
+    "surface": "Swięcia",
+    "page": 1,
+    "page_id": "0438_b",
+    "scan": "Oe_1_Bu_9454_0438_b-L233_01.jpg",
+    "line": 16998,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-18",
+    "surface": "Swięce",
+    "page": 3,
+    "page_id": "0029_a2",
+    "scan": "Oe_1_Bu_9454_0029_a2-L18_03.jpg",
+    "line": 1061,
+    "doc_line": 56
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Swięcia",
+    "page": 22,
+    "page_id": "0012_a1",
+    "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
+    "line": 302,
+    "doc_line": 279
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Swięcia",
+    "page": 22,
+    "page_id": "0012_a1",
+    "scan": "APP_53_968_0_669_0012_a1-L1_22.jpg",
+    "line": 303,
+    "doc_line": 280
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Swięcer",
+    "page": 24,
+    "page_id": "0013_a1",
+    "scan": "APP_53_968_0_669_0013_a1-L1_24.jpg",
+    "line": 330,
+    "doc_line": 305
+   }
+  ]
+ },
+ {
   "entity": "koschentin",
   "display": "Koszęcin (Koschentin)",
   "count": 51,
@@ -38396,492 +38900,6 @@
     "scan": "Oe_1_Bu_9454_0507_a2-L280_01.jpg",
     "line": 19890,
     "doc_line": 31
-   }
-  ]
- },
- {
-  "entity": "swiecia",
-  "display": "Swięcia",
-  "count": 49,
-  "documents": [
-   "agad1169011745-1",
-   "app539680669-1",
-   "app539680801-2",
-   "app539680801-3",
-   "oe1bu14525-11",
-   "oe1bu14525-18",
-   "oe1bu14525-19",
-   "oe1bu14525-20",
-   "oe1bu14525-21",
-   "oe1bu14525-30",
-   "oe1bu14525-6",
-   "oe1bu14525-7",
-   "oe1bu14526-20",
-   "oe1bu14526-8",
-   "oe1bu9454-136",
-   "oe1bu9454-146",
-   "oe1bu9454-147",
-   "oe1bu9454-148",
-   "oe1bu9454-149",
-   "oe1bu9454-151",
-   "oe1bu9454-152",
-   "oe1bu9454-164",
-   "oe1bu9454-168",
-   "oe1bu9454-179a",
-   "oe1bu9454-18",
-   "oe1bu9454-188",
-   "oe1bu9454-192",
-   "oe1bu9454-213",
-   "oe1bu9454-214",
-   "oe1bu9454-232",
-   "oe1bu9454-233",
-   "oe1bu9454-24",
-   "oe1bu9454-28",
-   "oe1bu9454-31",
-   "oe1bu9454-32",
-   "oe1bu9454-64"
-  ],
-  "mentions": [
-   {
-    "uid": "agad1169011745-1",
-    "surface": "Swięcia",
-    "page": 5,
-    "page_id": "0405_a1",
-    "scan": "AGAD_1_169_0_1_1745_0405_a1-L1_05.jpg",
-    "line": 149,
-    "doc_line": 143
-   },
-   {
-    "uid": "oe1bu14525-11",
-    "surface": "Swięcin",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "Oe_1_Bu_14525_0030_a2-L11_01.jpg",
-    "line": 1191,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu14525-19",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0077_b",
-    "scan": "Oe_1_Bu_14525_0077_b-L19_01.jpg",
-    "line": 2396,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu14525-20",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0079_a2",
-    "scan": "Oe_1_Bu_14525_0079_a2-L20_01.jpg",
-    "line": 2418,
-    "doc_line": 4
-   },
-   {
-    "uid": "oe1bu14525-30",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0127_b",
-    "scan": "Oe_1_Bu_14525_0127_b-L30_01.jpg",
-    "line": 3574,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu14525-6",
-    "surface": "Swięcin",
-    "page": 1,
-    "page_id": "0016_a2",
-    "scan": "Oe_1_Bu_14525_0016_a2-L6_01.jpg",
-    "line": 582,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Swięcin",
-    "page": 3,
-    "page_id": "0019_a2",
-    "scan": "Oe_1_Bu_14525_0019_a2-L7_03.jpg",
-    "line": 708,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Swięcia",
-    "page": 7,
-    "page_id": "0021_a2",
-    "scan": "Oe_1_Bu_14525_0021_a2-L7_07.jpg",
-    "line": 816,
-    "doc_line": 151
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Swięcia",
-    "page": 8,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
-    "line": 831,
-    "doc_line": 165
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Swięcia",
-    "page": 8,
-    "page_id": "0022_a1",
-    "scan": "Oe_1_Bu_14525_0022_a1-L7_08.jpg",
-    "line": 854,
-    "doc_line": 188
-   },
-   {
-    "uid": "oe1bu14525-7",
-    "surface": "Swięcia",
-    "page": 9,
-    "page_id": "0022_a2",
-    "scan": "Oe_1_Bu_14525_0022_a2-L7_09.jpg",
-    "line": 878,
-    "doc_line": 211
-   },
-   {
-    "uid": "oe1bu14525-18",
-    "surface": "Swięcin",
-    "page": 3,
-    "page_id": "0072_a2",
-    "scan": "Oe_1_Bu_14525_0072_a2-L18_03.jpg",
-    "line": 2217,
-    "doc_line": 39
-   },
-   {
-    "uid": "oe1bu14526-20",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0134_b",
-    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
-    "line": 6813,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14526-20",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0134_b",
-    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
-    "line": 6819,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu14526-20",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0134_b",
-    "scan": "Oe_1_Bu_14526_0134_b-L20_01.jpg",
-    "line": 6821,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu14525-21",
-    "surface": "Swięcia",
-    "page": 8,
-    "page_id": "0085_a1",
-    "scan": "Oe_1_Bu_14525_0085_a1-L21_08.jpg",
-    "line": 2635,
-    "doc_line": 194
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Swięcia",
-    "page": 5,
-    "page_id": "0264_b",
-    "scan": "Oe_1_Bu_9454_0264_b-L136_05.jpg",
-    "line": 9924,
-    "doc_line": 98
-   },
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Swięcia",
-    "page": 6,
-    "page_id": "0265_a1",
-    "scan": "Oe_1_Bu_9454_0265_a1-L136_06.jpg",
-    "line": 9932,
-    "doc_line": 105
-   },
-   {
-    "uid": "oe1bu9454-146",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0284_a1",
-    "scan": "Oe_1_Bu_9454_0284_a1-L146_02.jpg",
-    "line": 10617,
-    "doc_line": 38
-   },
-   {
-    "uid": "oe1bu9454-146",
-    "surface": "Swięcier",
-    "page": 2,
-    "page_id": "0284_a1",
-    "scan": "Oe_1_Bu_9454_0284_a1-L146_02.jpg",
-    "line": 10620,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-147",
-    "surface": "Swięcier",
-    "page": 2,
-    "page_id": "0286_a1",
-    "scan": "Oe_1_Bu_9454_0286_a1-L147_02.jpg",
-    "line": 10708,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-148",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0287_b",
-    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-    "line": 10753,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-148",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0287_b",
-    "scan": "Oe_1_Bu_9454_0287_b-L148_01.jpg",
-    "line": 10754,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-149",
-    "surface": "Swięcier",
-    "page": 1,
-    "page_id": "0288_a",
-    "scan": "Oe_1_Bu_9454_0288_a-L149_01.jpg",
-    "line": 10777,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-151",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0291_a1",
-    "scan": "Oe_1_Bu_9454_0291_a1-L151_02.jpg",
-    "line": 10880,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-152",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0292_a",
-    "scan": "Oe_1_Bu_9454_0292_a-L152_01.jpg",
-    "line": 10931,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-164",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0310_a1",
-    "scan": "Oe_1_Bu_9454_0310_a1-L164_02.jpg",
-    "line": 11626,
-    "doc_line": 32
-   },
-   {
-    "uid": "oe1bu9454-168",
-    "surface": "Swięcier",
-    "page": 4,
-    "page_id": "0317_a",
-    "scan": "Oe_1_Bu_9454_0317_a-L168_04.jpg",
-    "line": 11973,
-    "doc_line": 100
-   },
-   {
-    "uid": "app539680801-2",
-    "surface": "Święca",
-    "page": 1,
-    "page_id": "0039_a",
-    "scan": "APP_53_968_0_801_0039_a-L2_01.jpg",
-    "line": 34,
-    "doc_line": 3
-   },
-   {
-    "uid": "app539680801-3",
-    "surface": "Święcia",
-    "page": 1,
-    "page_id": "0042_a",
-    "scan": "APP_53_968_0_801_0042_a-L3_01.jpg",
-    "line": 53,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Swięcia",
-    "page": 17,
-    "page_id": "0045_a2",
-    "scan": "Oe_1_Bu_14526_0045_a2-L8_17.jpg",
-    "line": 2353,
-    "doc_line": 556
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0340_b",
-    "scan": "Oe_1_Bu_9454_0340_b-L179a_01.jpg",
-    "line": 12905,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0341_a2",
-    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
-    "line": 12926,
-    "doc_line": 40
-   },
-   {
-    "uid": "oe1bu9454-179a",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0341_a2",
-    "scan": "Oe_1_Bu_9454_0341_a2-L179a_02.jpg",
-    "line": 12930,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu9454-188",
-    "surface": "Swięcier",
-    "page": 2,
-    "page_id": "0355_a1",
-    "scan": "Oe_1_Bu_9454_0355_a1-L188_02.jpg",
-    "line": 13406,
-    "doc_line": 34
-   },
-   {
-    "uid": "oe1bu9454-192",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0368_a1",
-    "scan": "Oe_1_Bu_9454_0368_a1-L192_02.jpg",
-    "line": 13935,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-24",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0041_a2",
-    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-    "line": 1598,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu9454-24",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0041_a2",
-    "scan": "Oe_1_Bu_9454_0041_a2-L24_02.jpg",
-    "line": 1599,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-28",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0050_a1",
-    "scan": "Oe_1_Bu_9454_0050_a1-L28_02.jpg",
-    "line": 1893,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Swięcia",
-    "page": 3,
-    "page_id": "0056_a2",
-    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
-    "line": 2130,
-    "doc_line": 85
-   },
-   {
-    "uid": "oe1bu9454-31",
-    "surface": "Swięcia",
-    "page": 3,
-    "page_id": "0056_a2",
-    "scan": "Oe_1_Bu_9454_0056_a2-L31_03.jpg",
-    "line": 2138,
-    "doc_line": 93
-   },
-   {
-    "uid": "oe1bu9454-32",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0057_b",
-    "scan": "Oe_1_Bu_9454_0057_b-L32_01.jpg",
-    "line": 2192,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-64",
-    "surface": "Swięcia",
-    "page": 3,
-    "page_id": "0122_a1",
-    "scan": "Oe_1_Bu_9454_0122_a1-L64_03.jpg",
-    "line": 4944,
-    "doc_line": 89
-   },
-   {
-    "uid": "oe1bu9454-213",
-    "surface": "Swięcia",
-    "page": 3,
-    "page_id": "0398_a2",
-    "scan": "Oe_1_Bu_9454_0398_a2-L213_03.jpg",
-    "line": 15139,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-214",
-    "surface": "Swięcia",
-    "page": 2,
-    "page_id": "0400_a1",
-    "scan": "Oe_1_Bu_9454_0400_a1-L214_02.jpg",
-    "line": 15237,
-    "doc_line": 36
-   },
-   {
-    "uid": "oe1bu9454-232",
-    "surface": "Swięcia",
-    "page": 4,
-    "page_id": "0438_a",
-    "scan": "Oe_1_Bu_9454_0438_a-L232_04.jpg",
-    "line": 16958,
-    "doc_line": 66
-   },
-   {
-    "uid": "oe1bu9454-233",
-    "surface": "Swięcia",
-    "page": 1,
-    "page_id": "0438_b",
-    "scan": "Oe_1_Bu_9454_0438_b-L233_01.jpg",
-    "line": 16998,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-18",
-    "surface": "Swięce",
-    "page": 3,
-    "page_id": "0029_a2",
-    "scan": "Oe_1_Bu_9454_0029_a2-L18_03.jpg",
-    "line": 1061,
-    "doc_line": 56
-   },
-   {
-    "uid": "app539680669-1",
-    "surface": "Swięcer",
-    "page": 24,
-    "page_id": "0013_a1",
-    "scan": "APP_53_968_0_669_0013_a1-L1_24.jpg",
-    "line": 330,
-    "doc_line": 305
    }
   ]
  },

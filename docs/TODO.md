@@ -417,11 +417,8 @@ notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
 - [x] You answered the spot sheet "More readings in Breyer's notebook"
       (29 rows, 2026-10-14): 22 changed or settled, 7 could not be told.
       Worked in the same day; 70 marks of doubt remain.
-- [ ] **You: the spot sheet "Sm or Sw in Breyer's notebook"** (three rows):
-      the two "Smięcia" of the field-name page, likely Swięcia, and the
-      second "Sm…" on the last page. Served with `python
-      pipeline/review/queries.py --unit app539680669 --sheet readings3.csv`
-      (port 4102).
+- [x] You answered the spot sheet "Sm or Sw in Breyer's notebook"
+      (2026-10-14): Swięcia twice, St[y?]pin. Worked in the same day.
 - [ ] Not asked, unless you want them: the 29 readings with doubt on the
       two inside covers and the 7 in the photograph log.
 - [ ] **You: the folds** of the seventeen openings, if you want to place

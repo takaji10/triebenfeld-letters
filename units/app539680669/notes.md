@@ -97,7 +97,8 @@ for "Müller". 70 marks of doubt remain.
 without doubt, which may be Swięcia (an estate with a farm Broniki; the
 first field name there is "Bronikel"), and the second "[Sm…?]" on page 34.
 Breyer's S before m or w, and before t, is not to be trusted to the first
-reading.
+reading. **Answered (2026-10-14):** Swięcia both times, and St[y?]pin;
+Swięcia is now matched three times in the notebook.
 
 ## The English and the summary
 
