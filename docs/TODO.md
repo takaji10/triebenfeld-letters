@@ -356,7 +356,7 @@ and you checked every line of it. Details: `units/agad1169011745/notes.md`.
       added (nothing identifies them yet), and a sentence on the table in
       the account of the Hohenlohe-Ingelfingen years.
 
-## 10. APP 53/968/0/-/783: the summons of 1860 (added 2026-10-13, not published)
+## 10. APP 53/968/0/-/783: the summons of 1860 (added 2026-10-13, published 2026-10-14)
 
 A printed summons in Polish: Count Włodzimierz Miączyński of Trąbczyn
 counterclaims against 97 colonists of two colonies over pasture and
@@ -365,7 +365,7 @@ Your Polish was checked against the scans (34 corrections), and the English
 written again, because the one in your file was a machine's and wrong in
 substance. Details: `units/app539680783/notes.md`.
 
-- [ ] **You: read the page of changes** (`review/changes/index.html`, the
+- [x] You read the page of changes (2026-10-14) (`review/changes/index.html`, the
       entries marked new for this holding): what the check changed in the
       Polish and in the English, for anything you have written from the
       old text.
@@ -383,9 +383,9 @@ substance. Details: `units/app539680783/notes.md`.
       2026-10-14): the two Olęder colonies of the estate, first
       Trąbczyńskie and later Łazińskie Stare / Nowe Olędry. Matched to
       those place entries; Łazy kept apart.
-- [ ] **You: say when to publish.**
+- [x] Published at your word, 2026-10-14.
 
-## 11. APP 53/64/0/-/Kalisz Tab.21: the hearth-tax register of 1789 (added 2026-10-13, not published)
+## 11. APP 53/64/0/-/Kalisz Tab.21: the hearth-tax register of 1789 (added 2026-10-13, published 2026-10-14)
 
 Thirteen pages of the register of the hearth tax of the Kalisz voivodeship:
 387 entries of the Pyzdry, Kalisz and Konin districts, Trąbczyn and its
@@ -398,9 +398,9 @@ from your scans in the session. Details:
       "[?]". Worked in the same day: the text, the English, the page and
       the clean spreadsheet (`units/app53640kalisztab21/APP_53_64_0_Kalisz_Tab_21_register.xlsx`).
 - [x] `017v.jpg` is the back of leaf 9 (you, 2026-10-14).
-- [ ] **You: say when to publish.**
+- [x] Published at your word, 2026-10-14.
 
-## 12. APP 53/968/0/-/669: Albert Breyer's notebook of July 1936 (added 2026-10-14, not published)
+## 12. APP 53/968/0/-/669: Albert Breyer's notebook of July 1936 (added and published 2026-10-14)
 
 A pencil notebook of 35 pages in German: what the settlers of Łazińsk and
 Emilienheim told Breyer about their land, schools and teachers,
@@ -431,4 +431,4 @@ notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
       together, before it is linked to them.
 - [ ] Not begun: the other three notebooks of the unit (Grodziec 1938,
       "V. Grodziec Juli 1936", Białobłoty and Dembe), if you want them.
-- [ ] **You: say when to publish.**
+- [x] Published at your word, 2026-10-14.

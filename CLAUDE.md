@@ -110,11 +110,12 @@ so check them.
 
 ## Where things stand (2026-10-14)
 
-- **Three holdings are built and committed but NOT published** (added
-  2026-10-13 and 14, all from the State Archive in Poznań). The edition's
-  figures already count them (569 documents, 40 holdings, 795 marks of
-  doubt): do not publish anything else from `main` without saying that
-  they go with it. `docs/TODO.md`, sections 10 to 12.
+- **Everything is published and pushed (2026-10-14)**: 569 documents in
+  40 holdings, 1589 to 1936, 795 marks of doubt. The last three, all from
+  the State Archive in Poznań, went out together at the editor's word
+  (`docs/TODO.md`, sections 10 to 12). Two eras carry working names until
+  the editor names them: `wlodzimierz` and `twentieth-century`
+  (`reference/eras.yml`).
   - **APP 53/968/0/-/783** (slug `app539680783`): a printed summons of
     1860 in Polish, Count Włodzimierz Miączyński's counterclaim against 97
     colonists of Trąbczyn over pasture and wood in his forest; one
@@ -129,8 +130,7 @@ so check them.
     (`review/app539680783/pen_marks.csv`,
     `docs/TODO.md` section 10) are worked in (no. 58 Heck, no. 70
     Krystofa, costs 47). Its era is the new `wlodzimierz` (editor,
-    2026-10-14; working name). Waits for their look at the page of
-    changes and their word.
+    2026-10-14; working name). Published 2026-10-14.
   - **APP 53/64/0/-/Kalisz Tab.21** (slug `app53640kalisztab21`): thirteen
     pages of the hearth-tax register of 1789, a table of 387 entries
     (Trąbczyn is 178 of the third district). No transcription existed: read
@@ -138,8 +138,8 @@ so check them.
     `intake/table.csv` and everything is made from it by
     `intake/holding.py`. **Checked by the editor** (2026-10-14: 69 names
     corrected, no figure changed) and worked in; the clean spreadsheet is
-    in the unit's folder. `017v.jpg` is leaf 9 verso (editor). Waits only
-    for their word.
+    in the unit's folder. `017v.jpg` is leaf 9 verso (editor). Published
+    2026-10-14.
   - **APP 53/968/0/-/669** (slug `app539680669`): Albert Breyer's pencil
     notebook of July 1936 from Łazińsk and Emilienheim, 35 pages in German,
     one document. Only the notebook in the scans folder "Notes on Łazińsk"
@@ -149,9 +149,8 @@ so check them.
     summaries claim-checked. Read `units/app539680669/notes.md` first.
     The editor answered three spot sheets (42 readings; 70 marks of
     doubt remain, on the inside covers and in the photo log, not asked). Its era is the new `twentieth-century`
-    (editor, 2026-10-14; working name). Waits for their word.
-- **Everything else is published and pushed (2026-10-13)**: 566 documents
-  in 37 holdings. All four cloud branches are in `main`.
+    (editor, 2026-10-14; working name). Published 2026-10-14.
+- All cloud branches are in `main` (2026-10-14).
 - **AGAD 1/169/0/1/1745** (slug `agad1169011745`, added, checked and
   published 2026-10-13), "Die neuesten topografischen Nachrichten von
   Südpreussen": six pages of a Prussian table of the villages around

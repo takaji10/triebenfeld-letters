@@ -6,9 +6,9 @@ Staro-Łazińska colony, by which Count Włodzimierz Miączyński of Trąbczyn
 counterclaims against 97 colonists over pasture and wood-gathering in his
 forest. Added on 2026-10-13 at the editor's request: pages cut, the
 editor's Polish checked against the scans, the English written again,
-summarised in both languages, with its page. **Built and committed; not
-published.** The editor approved the folds on 2026-10-14; the page of
-changes and the five places on page 1 wait for their look.
+summarised in both languages, with its page. **Published at the editor's
+word on 2026-10-14**, after they approved the folds, answered the spot
+sheet on the pen marks and read the page of changes.
 
 Everything about how the holding was made is in the docstring of
 `intake/holding.py`.
@@ -168,4 +168,4 @@ name it.
 
 1. **The editor's look** at the page of changes and at the five places
    above.
-2. **Publishing**, at the editor's word.
+2. Published 2026-10-14.

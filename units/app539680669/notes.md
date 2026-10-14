@@ -5,7 +5,7 @@ German settlements of the commune of Trąbczyn: one document of 35 pages
 with its covers, in German. Added on 2026-10-14 at the editor's request:
 read from the scans in session (there was no transcription), translated,
 summarised in both languages and claim-checked, with its page. **Built and
-committed; not published.** The editor answered the spot sheet of ten
+published at the editor's word on 2026-10-14.** The editor answered the spot sheet of ten
 readings (2026-10-14); the rest of the reading is unchecked.
 
 Everything about how the holding was made is in the docstring of
@@ -139,7 +139,7 @@ name, "The twentieth century"; the editor will name it.
    (`review/app539680669/folds/index.html`).
 2. **The editor's word** on whether "Łazinsk" of 1936 is both colonies
    together, and the era's name.
-3. **Publishing**, at the editor's word.
+3. Published 2026-10-14.
 4. Not done: a timeline entry or a sentence in the era essay (the notebook
    bears on the settlers, not on the owners of the estate); the other three
    notebooks of the unit.

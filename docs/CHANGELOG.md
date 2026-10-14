@@ -1882,7 +1882,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "geb." ruled out of the glossary (geboren).
 - Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 815 marks of doubt; 564 translated.
 
-## The editor's answers on both spot sheets; two new eras (2026-10-14; not published)
+## Three holdings published (2026-10-14)
+
+- **APP 53/968/0/-/783** (the summons of 1860), **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789) and **APP 53/968/0/-/669** (Albert Breyer's notebook of 1936) published at the editor's word, with the two new eras under working names and the timeline to 1936. Figures: 569 documents on 1,892 pages in 40 holdings, 1589 to 1936; 795 marks of doubt.
+
+## The editor's answers on both spot sheets; two new eras (2026-10-14)
 
 - **APP 53/968/0/-/783**: no. 58 is Marcina Heck, no. 70 Krystofa Grünwald (the court messenger's pen over the printed "ja"), the note of costs 47 roubles 21 kopecks; the other pen alterations stand as printed. Text, English, process pages and the page of changes brought into line (`intake/spot_answers.py`).
 - **APP 53/968/0/-/669**: seven of ten doubtful readings settled by the editor, three differently from the first reading (Wagelt, Hormann, Neumann L. 1889); Włodzimierow in the list of the school community. 83 marks of doubt remain.

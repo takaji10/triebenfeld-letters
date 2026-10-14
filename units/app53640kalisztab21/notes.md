@@ -232,6 +232,6 @@ tables come out as before.
    files and `process.md` brought into line, the clean workbook made
    (`APP_53_64_0_Kalisz_Tab_21_register.xlsx` in this folder). No entry the
    summary or `claim_check.yml` cites was changed, so neither was touched.
-2. **Publishing**, at the editor's word.
+2. Published at the editor's word, 2026-10-14.
 3. Not done: modern names for the places; anything in the account of the
    Prusimski years, which waits for the editor's transcriptions.
