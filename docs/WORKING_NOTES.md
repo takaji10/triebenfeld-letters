@@ -930,9 +930,11 @@ cloud branches").
 - **Line endings.** `git ls-files --eol <file>` tells the truth; `grep` for a
   carriage return does not in Git Bash. The files differ, so check each one
   before editing: the changelog, EDITORIAL_RULES, NEW_UNIT, DATA_MODEL, the
-  era plan, the site essays and the edition guide are CRLF; this file,
-  `CLAUDE.md`, TODO, NEEDS_CONFIRMATION, HOUSE_STYLE and the holdings'
-  `about` files are LF.
+  era plan, the site essays, the edition guide and TODO are CRLF (TODO was
+  listed as LF here until 2026-10-15, when a rewrite turned all 471 lines
+  to LF); this file, `CLAUDE.md`, NEEDS_CONFIRMATION, HOUSE_STYLE and the
+  holdings' `about` files are LF. Run `file` on a file before writing it
+  whole, and never read it with Python's text mode and write it back.
 - **`sed -i` in Git Bash writes the whole file back with LF.** On
   2026-10-14 it turned a one-number change in the two edition guides into
   400-line diffs. In a CRLF file, replace in bytes with Python.
