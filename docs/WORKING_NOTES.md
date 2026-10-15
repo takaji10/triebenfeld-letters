@@ -682,6 +682,18 @@ Where the rest is:
   summaries, claim record, `about` citations, timeline `refs`, `not_in` in
   `reference/people.yml`, spot-sheet rows, then `relabel_scans.py --apply`
   and two rebuilds (scan labels carry the document number).
+- **Page edges on the fold page** (the editor, 2026-10-15): besides the red
+  fold line, two green lines mark what is kept of each scan, the outer edge
+  of each page or both sides of a single page; outside them is shaded and
+  cut away. They are saved as "left" and "right" in pixels in
+  `folds_<slug>.json`, read by `courtbook.placed()` and applied by
+  `courtbook.cut()`; a holding proposes them with `placed(here, scans,
+  EDGES)`. A page cut at the fold alone kept the edge of the facing page
+  (716, the last page) or a blank half (the back of the sheet of 1858).
+  The court-book holdings get the lines the next time their `--sheet` is
+  run; nothing of theirs changes until the editor saves a file.
+  `review_folds.py` pages are unchanged (`crop=False`). Test the page's
+  script with `node --check` and a stub DOM before handing it over.
 - **A spot sheet's answers are saved as `review/<slug>/<sheet>_answers.json`**
   (`readings.csv` gives `readings_answers.json`); only `open_queries.csv`
   uses `query_answers.json`. Look for the right name before saying nothing

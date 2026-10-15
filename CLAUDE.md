@@ -379,8 +379,11 @@ so check them.
   always wrote): one opening at a time, shown whole, arrow keys to page
   through, the red line dragged onto the fold. For the court books the
   sheet can also be turned with the mouse (wheel, or shift-drag) where the
-  fold was photographed at a slant. "Save" gives `folds_<slug>.json` with
-  the fold and angle of every scan; `python pipeline/intake/courtbook.py
+  fold was photographed at a slant. Two green lines mark the page edges,
+  what is kept on each side (editor, 2026-10-15: "give me the ability to
+  mark vertical lines for where to crop pages"); a holding can propose
+  them (`EDGES` in 53/968/0/-/716's `holding.py`). "Save" gives
+  `folds_<slug>.json` with the fold, angle and edges of every scan; `python pipeline/intake/courtbook.py
   folds <slug> <file>` copies it to the holding's `intake/folds.json`,
   turns and cuts the scans, stages and remakes the page images. **Do not
   build another review page where one exists** (the editor, 2026-10-07).

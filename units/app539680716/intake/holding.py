@@ -74,6 +74,13 @@ FOLDS = {5163: 1612, 5164: 1651, 5165: 1634, 5166: 1609, 5167: 1617, 5169: 1601,
          5172: 1624, 5173: 1638, 5174: 1662, 5175: 1661, 5176: 1660, 5177: 1670, 5178: 1693, 5179: 1694}
 SINGLE = (5159, 5160, 5161, 5162, 5180)
 SKIP = {'5163_a1'}
+# Page edges, the first proposal (2026-10-15; the editor: "Page 3 should be
+# cropped to remove the empty page parts", and on page 5 too much of the
+# other side was left): the back of the sheet of 1858 ends at its fold, where
+# its writing ends; the last page ends before the inside back cover. In
+# pixels of the photo, (left, right); the green lines of the fold page move
+# them, and folds.json, once the editor saves it, wins (courtbook.placed).
+EDGES = {PHOTOS + '/IMG_5161.jpg': (None, 2260), PHOTOS + '/IMG_5180.jpg': (None, 1680)}
 SCANS = ([(PHOTOS + '/IMG_%d.jpg' % n, None, '%d_a' % n, None) for n in SINGLE]
          + [(PHOTOS + '/IMG_%d.jpg' % n, x, '%d_a1' % n, '%d_a2' % n) for n, x in sorted(FOLDS.items())])
 LEAF = {'5159_a': "the archive's title page", '5162_a': 'the cover', '5160_a': 'the loose sheet, front',
@@ -163,9 +170,9 @@ def main():
     arg = sys.argv[1:]
     check()
     if '--crop' in arg:
-        courtbook.cut(RAW, courtbook.placed(HERE, SCANS), skip=SKIP)
+        courtbook.cut(RAW, courtbook.placed(HERE, SCANS, EDGES), skip=SKIP)
     if '--sheet' in arg:
-        courtbook.fold_sheet(ROOT, SLUG, REF, RAW, courtbook.placed(HERE, SCANS), SKIP, LEAF, note=FOLD_NOTE)
+        courtbook.fold_sheet(ROOT, SLUG, REF, RAW, courtbook.placed(HERE, SCANS, EDGES), SKIP, LEAF, note=FOLD_NOTE)
     if '--write' in arg:
         write()
     if '--english' in arg:

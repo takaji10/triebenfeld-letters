@@ -51,7 +51,12 @@ session) into `processed/`. IMG_5159: only the archive's title page is
 taken (editor). IMG_5168 repeats IMG_5169 and is not used; the blank
 inside front cover (5163_a1) is left out. The fold page is
 `review/app539680716/folds/index.html` (`holding.py --sheet`); the editor
-has not yet looked at it.
+has not yet looked at it. Page edges (2026-10-15, the editor): the back
+of the sheet of 1858 (IMG_5161) is cut at its fold, x 2260, where its
+writing ends, and the last page (IMG_5180) at x 1680, before the inside
+back cover (`EDGES` in `holding.py`, the first proposal; the green lines
+of the fold page move them). The blank lower half of IMG_5161 is still in
+the picture: the lines are vertical only.
 
 ## The reading
 

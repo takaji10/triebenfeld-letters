@@ -20,6 +20,15 @@ Two ways of using it:
                                 opening is saved, as {file: {"fold": x in
                                 pixels of the scan, "angle": degrees}}.
 
+Page edges (crop=True; the editor, 2026-10-15: "You need to give me the
+ability to mark vertical lines for where to crop pages"). Two green lines
+mark the outer edges of what is kept: the left edge of the left page and the
+right edge of the right page, or the two sides of a scan that is one page.
+What lies outside them is shaded and is cut away (courtbook.cut). A click
+moves the nearest line to it; Tab chooses the line that the comma and full
+stop keys move. They are saved with the fold, as "left" and "right" in
+pixels of the scan.
+
 Turning. The red line stays vertical, because the cut is vertical; it is the
 sheet that turns under it, about its centre. The mouse wheel turns it a tenth
 of a degree at a time (half a degree with shift); holding shift, or the right
@@ -56,6 +65,11 @@ PAGE = """<!doctype html>
                  top: 0; bottom: 0; cursor: ew-resize; }
   #band { position: absolute; top: 0; bottom: 0; background: rgba(255, 32, 32, .13); pointer-events: none; }
   #orig { position: absolute; top: 0; bottom: 0; width: 1px; background: #4a90d9; opacity: .8; }
+  .cut { position: absolute; top: -40px; bottom: -40px; width: 2px; background: #30d060; }
+  .cut::after { content: ''; position: absolute; left: -14px; right: -14px;
+                top: 0; bottom: 0; cursor: ew-resize; }
+  .shade { position: absolute; top: 0; bottom: 0; background: rgba(0, 0, 0, .55); pointer-events: none; }
+  .active { outline: 2px solid #fff; outline-offset: 1px; }
   #grid { position: absolute; inset: -40px 0; pointer-events: none; display: none;
           background: repeating-linear-gradient(90deg, rgba(80, 200, 255, .55) 0 1px, transparent 1px 5%%); }
   #note { position: relative; z-index: 4; padding: .25rem .8rem; background: #151515;
@@ -73,6 +87,7 @@ PAGE = """<!doctype html>
   <span id="name" class="muted"></span>
   <span id="cutbox">cut <b id="frac"></b></span>
   <span id="anglebox">turned <b id="angle"></b>&deg;</span>
+  <span id="edgebox">page edges <b id="edges"></b></span>
   <span id="was" class="muted"></span>
   <span id="chg" class="moved"></span>
   <span style="flex:1"></span>
@@ -84,7 +99,9 @@ PAGE = """<!doctype html>
     <b>mouse wheel</b> or <kbd>shift</kbd>+drag (or right-drag) turn the sheet,
     <kbd>[</kbd><kbd>]</kbd> turn a little, <kbd>0</kbd> upright,
     <kbd>g</kbd> guide lines</span>; <kbd>shift</kbd> = bigger steps;
-    blue line = current cut</span>
+    blue line = current cut<span id="edgehelp">;
+    <b>green lines</b> = the edges of what is kept: a click moves the nearest line,
+    <kbd>Tab</kbd> chooses the line <kbd>,</kbd><kbd>.</kbd> move</span></span>
 </header>
 <div id="note" class="muted"></div>
 
@@ -93,6 +110,10 @@ PAGE = """<!doctype html>
   <div id="grid"></div>
   <div id="band"></div>
   <div id="orig"></div>
+  <div id="shadeL" class="shade"></div>
+  <div id="shadeR" class="shade"></div>
+  <div id="lcut" class="cut"></div>
+  <div id="rcut" class="cut"></div>
   <div id="line"></div>
 </div>
 <textarea id="out" spellcheck="false"></textarea>
@@ -109,20 +130,30 @@ const img = $('img'), line = $('line'), orig = $('orig'), band = $('band'), stag
 const cur = () => ITEMS[i];
 const fold = it => (mine[it.file] && mine[it.file].fold !== undefined) ? mine[it.file].fold : it.fold;
 const angle = it => (mine[it.file] && mine[it.file].angle !== undefined) ? mine[it.file].angle : (it.angle || 0);
+// the page edges, as fractions of the width: what lies outside them is cut away
+const edge0 = (it, k) => (it[k] === undefined || it[k] === null) ? (k === 'left' ? 0 : 1) : it[k];
+const edge = (it, k) => (mine[it.file] && mine[it.file][k] !== undefined) ? mine[it.file][k] : edge0(it, k);
+const lcut = $('lcut'), rcut = $('rcut');
+let active = 'fold';             // the line that , and . move
+const lines = it => (it.fold === null ? [] : ['fold']).concat(CFG.crop ? ['left', 'right'] : []);
 const keep = () => { try { localStorage.setItem(CFG.key, JSON.stringify(mine)); } catch (e) {} };
 const touched = it => {
   const m = mine[it.file];
   return !!m && ((m.fold !== undefined && Math.abs(m.fold - it.fold) > 1e-6) ||
-                 (m.angle !== undefined && Math.abs(m.angle - (it.angle || 0)) > 1e-6));
+                 (m.angle !== undefined && Math.abs(m.angle - (it.angle || 0)) > 1e-6) ||
+                 (m.left !== undefined && Math.abs(m.left - edge0(it, 'left')) > 1e-6) ||
+                 (m.right !== undefined && Math.abs(m.right - edge0(it, 'right')) > 1e-6));
 };
 
 if (!CFG.rotate) { $('anglebox').style.display = 'none'; $('turnhelp').style.display = 'none'; }
+if (!CFG.crop) { $('edgebox').style.display = 'none'; $('edgehelp').style.display = 'none'; }
 
 function show() {
   const it = cur();
   img.src = it.src;
   $('name').textContent = it.file;
   $('pos').textContent = (i + 1) + ' / ' + ITEMS.length;
+  active = lines(it)[0] || 'fold';
   $('note').textContent = it.note || '';
   $('was').textContent = it.fold === null ? 'one page, not cut'
       : (it.conf || '') + ' ' + (CFG.pixels ? Math.round(it.fold * it.w) : it.fold.toFixed(3));
@@ -142,6 +173,18 @@ function draw() {
     band.style.width = (2 * o) + 'px';
     $('frac').textContent = CFG.pixels ? Math.round(f * it.w) : f.toFixed(4);
   }
+  for (const el of [lcut, rcut, $('shadeL'), $('shadeR')]) el.style.display = CFG.crop ? 'block' : 'none';
+  if (CFG.crop) {
+    const L = edge(it, 'left'), R = edge(it, 'right');
+    lcut.style.left = (L * w - 1) + 'px';
+    rcut.style.left = (R * w - 1) + 'px';
+    $('shadeL').style.left = '0px'; $('shadeL').style.width = (L * w) + 'px';
+    $('shadeR').style.left = (R * w) + 'px'; $('shadeR').style.width = ((1 - R) * w) + 'px';
+    $('edges').textContent = Math.round(L * it.w) + ' to ' + Math.round(R * it.w);
+  }
+  line.classList.toggle('active', active === 'fold');
+  lcut.classList.toggle('active', active === 'left');
+  rcut.classList.toggle('active', active === 'right');
   const a = angle(it);
   img.style.transform = 'rotate(' + (-a) + 'deg)';     // CSS turns clockwise, the angle is counter-clockwise
   $('angle').textContent = (a > 0 ? '+' : '') + a.toFixed(2);
@@ -153,9 +196,20 @@ function setFold(f) {
   const it = cur();
   if (it.fold === null) return;
   f = Math.max(0.02, Math.min(0.98, f));
+  if (CFG.crop) f = Math.max(edge(it, 'left') + 0.02, Math.min(edge(it, 'right') - 0.02, f));
   (mine[it.file] = mine[it.file] || {}).fold = f;
   keep(); draw();
 }
+function setEdge(k, f) {
+  const it = cur(), gap = 0.02;
+  let lo = 0, hi = 1;
+  if (k === 'left') hi = (it.fold === null ? edge(it, 'right') : fold(it)) - gap;
+  else lo = (it.fold === null ? edge(it, 'left') : fold(it)) + gap;
+  (mine[it.file] = mine[it.file] || {})[k] = Math.max(lo, Math.min(hi, f));
+  keep(); draw();
+}
+function setLine(k, f) { if (k === 'fold') setFold(f); else setEdge(k, f); }
+function where(k) { const it = cur(); return k === 'fold' ? fold(it) : edge(it, k); }
 function setAngle(a) {
   if (!CFG.rotate) return;
   const it = cur();
@@ -170,7 +224,13 @@ function box() {
   return {left: r.left, top: r.top, width: img.clientWidth, height: img.clientHeight,
           cx: r.left + img.clientWidth / 2, cy: r.top + img.clientHeight / 2};
 }
-const lineAt = e => { const b = box(); setFold((e.clientX - b.left) / b.width); };
+const lineAt = e => { const b = box(); setLine(active, (e.clientX - b.left) / b.width); };
+function nearest(e) {
+  const b = box(), x = (e.clientX - b.left) / b.width;
+  let best = active, d = 9;
+  for (const k of lines(cur())) { const dd = Math.abs(where(k) - x); if (dd < d) { d = dd; best = k; } }
+  return best;
+}
 const bearing = e => { const b = box(); return Math.atan2(e.clientY - b.cy, e.clientX - b.cx) * 180 / Math.PI; };
 
 let mode = null, a0 = 0, b0 = 0;
@@ -178,7 +238,7 @@ stage.addEventListener('pointerdown', e => {
   stage.setPointerCapture(e.pointerId);
   if (CFG.rotate && (e.shiftKey || e.button === 2)) {
     mode = 'turn'; a0 = angle(cur()); b0 = bearing(e); document.body.classList.add('turning');
-  } else if (e.button === 0) { mode = 'line'; lineAt(e); }
+  } else if (e.button === 0 && lines(cur()).length) { mode = 'line'; active = nearest(e); lineAt(e); }
   e.preventDefault();
 });
 stage.addEventListener('pointermove', e => {
@@ -214,8 +274,13 @@ document.addEventListener('keydown', e => {
   // arrows page through the openings; comma and full stop nudge the line; brackets turn the sheet
   if (e.key === 'ArrowLeft')  { step(-1); e.preventDefault(); }
   else if (e.key === 'ArrowRight') { step(1);  e.preventDefault(); }
-  else if (e.key === ',' || e.key === '<') { setFold(fold(cur()) - px / w); e.preventDefault(); }
-  else if (e.key === '.' || e.key === '>') { setFold(fold(cur()) + px / w); e.preventDefault(); }
+  else if (e.key === ',' || e.key === '<') { setLine(active, where(active) - px / w); e.preventDefault(); }
+  else if (e.key === '.' || e.key === '>') { setLine(active, where(active) + px / w); e.preventDefault(); }
+  else if (e.key === 'Tab') {
+    const ls = lines(cur());
+    if (ls.length) { active = ls[(ls.indexOf(active) + (e.shiftKey ? ls.length - 1 : 1)) %% ls.length]; draw(); }
+    e.preventDefault();
+  }
   else if (e.key === '[' || e.key === '{') { setAngle(angle(cur()) + deg); e.preventDefault(); }
   else if (e.key === ']' || e.key === '}') { setAngle(angle(cur()) - deg); e.preventDefault(); }
   else if (e.key === '0') setAngle(0);
@@ -228,7 +293,9 @@ function result() {
   const out = {};
   if (CFG.pixels) {            // every opening, in pixels of the scan, with its angle
     for (const it of ITEMS)
-      out[it.file] = {fold: it.fold === null ? null : Math.round(fold(it) * it.w), angle: angle(it)};
+      out[it.file] = Object.assign({fold: it.fold === null ? null : Math.round(fold(it) * it.w), angle: angle(it)},
+                                   CFG.crop ? {left: Math.round(edge(it, 'left') * it.w),
+                                               right: Math.round(edge(it, 'right') * it.w)} : {});
   } else {                     // only the openings whose line was moved, as a fraction of the width
     for (const it of ITEMS) if (touched(it)) out[it.file] = fold(it);
   }
@@ -254,14 +321,16 @@ show();
 """
 
 
-def render(title, items, save='folds.json', key=None, rotate=False, pixels=False, overlap=0):
+def render(title, items, save='folds.json', key=None, rotate=False, pixels=False, overlap=0, crop=False):
     """The page as a string.
 
     items: [{'file', 'src', 'w', 'h', 'fold' (fraction of the width, or None
-    for a scan that is one page), 'angle' (degrees, optional), 'conf' (a word
-    on where the fold comes from), 'note' (a line shown under the header)}].
+    for a scan that is one page), 'angle' (degrees, optional), 'left' and
+    'right' (the page edges as fractions of the width, with crop=True;
+    0 and 1 if absent), 'conf' (a word on where the fold comes from), 'note'
+    (a line shown under the header)}].
     """
     cfg = {'save': save, 'key': key or ('folds:' + title), 'rotate': bool(rotate), 'pixels': bool(pixels),
-           'overlap': overlap}
+           'overlap': overlap, 'crop': bool(crop)}
     return PAGE % {'title': title, 'save': save, 'items': json.dumps(items, ensure_ascii=False),
                    'cfg': json.dumps(cfg, ensure_ascii=False)}

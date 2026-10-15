@@ -155,35 +155,45 @@ def cut(raw, scans, skip=()):
     A scan with fold None is one page; its id is the third field. Pages go to
     raw/processed/; halves named in `skip` go to raw/processed/_not_staged/.
     Where the editor turned a sheet on the fold page (placed()), the scan is
-    turned first, so that the cut runs along the fold.
+    turned first, so that the cut runs along the fold. Where page edges are
+    set (placed(); the green lines of the fold page), what lies outside them
+    is cut away: the left edge of the left page, the right edge of the right
+    page, or both sides of a scan that is one page.
     """
     from PIL import Image
     processed = os.path.join(raw, 'processed')
     apart = os.path.join(processed, '_not_staged')
     os.makedirs(apart, exist_ok=True)
     angles = getattr(scans, 'angles', {})
+    edges = getattr(scans, 'edges', {})
     n = 0
     for name, fold, left, right in scans:
         im, dx = turned(Image.open(os.path.join(raw, name)).convert('RGB'), angles.get(name, 0))
+        lo, hi = edges.get(name, (None, None))
+        a = 0 if lo is None else max(0, int(round(lo + dx)))
+        b = im.width if hi is None else min(im.width, int(round(hi + dx)))
         if fold is None:
-            parts = [(left, (0, 0, im.width, im.height))]
+            parts = [(left, (a, 0, b, im.height))]
         else:
             x = int(round(fold + dx))
-            parts = [(left, (0, 0, x + OVERLAP, im.height)), (right, (x - OVERLAP, 0, im.width, im.height))]
+            parts = [(left, (a, 0, x + OVERLAP, im.height)), (right, (x - OVERLAP, 0, b, im.height))]
         for pid, box in parts:
             folder = apart if pid in skip else processed
             im.crop(box).save(os.path.join(folder, pid + '.jpg'), quality=92)
             n += 1
-    print('cut', n, 'page images into', processed, ('(%d sheet(s) turned)' % len(angles)) if angles else '')
+    print('cut', n, 'page images into', processed, ('(%d sheet(s) turned)' % len(angles)) if angles else '',
+          ('(%d with page edges)' % len(edges)) if edges else '')
 
 
 class Scans(list):
-    """A holding's SCANS with the editor's folds put in; `.angles` is {file name: degrees} where they turned a sheet."""
+    """A holding's SCANS with the editor's folds put in; `.angles` is {file name: degrees} where they turned a sheet,
+    `.edges` {file name: (left, right)} in pixels of the scan where page edges are set."""
     angles = {}
+    edges = {}
     mine = ()
 
 
-def placed(here, scans):
+def placed(here, scans, edges=None):
     """`scans` with the folds the editor placed, if they saved any (folds.json beside the holding's script).
 
     The fold page offers "folds_<slug>.json"; `python pipeline/intake/courtbook.py
@@ -194,10 +204,16 @@ def placed(here, scans):
     by the first fold page (2026-10-07), {scan: x}, is read too. The angle is
     how far the sheet is turned, counter-clockwise, before it is cut: cut()
     and fold_sheet() take it from the list this returns.
+
+    Page edges (2026-10-15): "left" and "right" in the file, in pixels of the
+    scan, are where the green lines of the fold page stand; `edges`
+    ({scan: (left, right)}, either may be None) is the holding's own first
+    proposal, which the file overrides.
     """
     import json
     out = Scans(scans)
     out.angles, out.mine = {}, set()
+    out.edges = {k: tuple(v) for k, v in (edges or {}).items()}
     p = os.path.join(here, 'folds.json')
     if not os.path.isfile(p):
         return out
@@ -212,6 +228,8 @@ def placed(here, scans):
             fold = int(v['fold'])
         if v.get('angle'):
             out.angles[name] = float(v['angle'])
+        if 'left' in v or 'right' in v:
+            out.edges[name] = (v.get('left'), v.get('right'))
         out[k] = (name, fold, left, right)
         out.mine.add(name)
     return out
@@ -245,8 +263,9 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
     The page is fold_page.py's, the one review_folds.py has always written:
     the whole opening in the window, the arrow keys to page through, the red
     line dragged onto the fold. Here the sheet can also be turned with the
-    mouse. "Save" gives folds_<slug>.json with the x of every fold and the
-    angle of every sheet; see placed().
+    mouse, and two green lines mark the page edges, what is kept. "Save"
+    gives folds_<slug>.json with the x of every fold, the angle of every
+    sheet and its edges; see placed().
     """
     import fold_page
     from PIL import Image
@@ -257,6 +276,7 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
             os.remove(os.path.join(out, old))
     leaf_of = leaf_of or {}
     angles = getattr(scans, 'angles', {})
+    edges = getattr(scans, 'edges', {})
     mine = getattr(scans, 'mine', ())
     items = []
 
@@ -274,8 +294,10 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
                     or Image.open(dst).width != min(w, FOLD_PAGE_WIDTH):
                 k = min(1.0, FOLD_PAGE_WIDTH / w)
                 im.convert('RGB').resize((int(round(w * k)), int(round(h * k))), Image.LANCZOS).save(dst, quality=85)
+        lo, hi = edges.get(name, (None, None))
         item = {'file': name, 'src': stem + '.jpg', 'w': w, 'h': h, 'angle': angles.get(name, 0),
                 'fold': None if fold is None else round(fold / w, 6),
+                'left': 0 if lo is None else round(lo / w, 6), 'right': 1 if hi is None else round(hi / w, 6),
                 'conf': 'placed by you' if name in mine else 'first proposal'}
         if fold is None:
             item['note'] = 'One page, not cut: %s.' % say(left)
@@ -285,7 +307,7 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
             item['note'] += '  ' + note
         items.append(item)
     page = fold_page.render(ref, items, save='folds_%s.json' % slug, key='folds2:' + slug, rotate=True, pixels=True,
-                            overlap=OVERLAP)
+                            overlap=OVERLAP, crop=True)
     io.open(os.path.join(out, 'index.html'), 'w', encoding='utf-8', newline='\n').write(page)
     print('wrote', os.path.join(out, 'index.html'), 'with', len(items), 'scan(s)')
 
