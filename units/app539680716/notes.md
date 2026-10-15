@@ -87,6 +87,15 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
   allow (the renaming of 1892, the commune of Trąbczyn, Jesswein, the
   heading Holędry Orliny Biskupicki, the bankruptcy); recorded in
   `intake/claim_check.yml`.
+  The answers as saved are kept in `intake/readings_answers.json`.
+- **Second spot sheet** "The other readings in Breyer's Łazińsk notebook"
+  (2026-10-15, at the editor's request): `intake/spot_sheet2.py`, rows in
+  `review/app539680716/readings2.csv`, answers in `readings2_answers.json`
+  there; port 4102. All 46 marks not yet asked, each Cyrillic word also in
+  Latin letters, and one unmarked reading a second look put in doubt: the
+  first name of the forestry plan on 5172_a1, read Вдовьiй боръ, which may
+  be Вельскiй боръ, the forest of the Orliny servitudes (s47). The picture
+  of s46 suggests напоръ is broken across two lines ("на-" / "поръ").
 
 ## The English
 

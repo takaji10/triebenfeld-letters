@@ -682,6 +682,15 @@ Where the rest is:
   summaries, claim record, `about` citations, timeline `refs`, `not_in` in
   `reference/people.yml`, spot-sheet rows, then `relabel_scans.py --apply`
   and two rebuilds (scan labels carry the document number).
+- **A spot sheet's answers are saved as `review/<slug>/<sheet>_answers.json`**
+  (`readings.csv` gives `readings_answers.json`); only `open_queries.csv`
+  uses `query_answers.json`. Look for the right name before saying nothing
+  was answered, and copy the answers into the holding's `intake/` when they
+  are worked in, as `review/` is not in the repository.
+- **Checking the pictures of a spot sheet is a second reading.** On
+  53/968/0/-/716 it showed a word read without doubt that looks otherwise
+  (Вдовьiй / Вельскiй) and a word broken across two lines that was
+  transcribed on one. Put such finds on the sheet as rows of their own.
 - **The era bands on the timeline are fixed years** in
   `site/_includes/timeline.html`, and a band only shows on a year the
   timeline shows (one with a document or an event). When documents of an

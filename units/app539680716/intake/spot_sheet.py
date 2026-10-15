@@ -75,14 +75,17 @@ SHIFT = {'r01': -1.5, 'r03': 4.5, 'r04': 2, 'r07': 4, 'r09': 3.5, 'r13': 1, 'r14
 BOX = {'r11': (0.19, 0.13)}
 
 
-def main():
+def main(rows=None, shift=None, box=None, sheet='readings.csv'):
+    rows = ROWS if rows is None else rows
+    shift = SHIFT if shift is None else shift
+    box = BOX if box is None else box
     sys.stdout.reconfigure(encoding='utf-8')
     corpus = io.open(os.path.join(UNIT_DIR, 'corpus.txt'), encoding='utf-8').read().split('\n')
     rev = os.path.join(ROOT, 'review', 'app539680716')
     img_dir = os.path.join(rev, 'spot_img')
     os.makedirs(img_dir, exist_ok=True)
     out = []
-    for key, doc, pid, locate, word, options, note in ROWS:
+    for key, doc, pid, locate, word, options, note in rows:
         # the corpus line: within the document, within the page
         d = p = None
         hits = []
@@ -105,16 +108,16 @@ def main():
         im = Image.open(os.path.join(RAW, 'processed', pid + '.jpg'))
         W, H = im.size
         top, bottom = int(H * 0.06), int(H * 0.95)
-        y = top + (bottom - top) * (k + 0.5 + SHIFT.get(key, 0)) / max(len(lines), 18)
+        y = top + (bottom - top) * (k + 0.5 + shift.get(key, 0)) / max(len(lines), 18)
         half = 0.10
-        if key in BOX:
-            y, half = H * BOX[key][0], BOX[key][1]
+        if key in box:
+            y, half = H * box[key][0], box[key][1]
         box = (0, max(0, int(y - H * half)), W, min(H, int(y + H * half)))
         name = '%s_%s.jpg' % (key, pid)
         im.crop(box).convert('L').save(os.path.join(img_dir, name), quality=85)
         out.append({'key': key, 'letter': str(doc), 'line': line_no, 'word': word, 'options': options,
                     'note': note, 'image': name})
-    with io.open(os.path.join(rev, 'readings.csv'), 'w', encoding='utf-8', newline='') as f:
+    with io.open(os.path.join(rev, sheet), 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=['key', 'letter', 'line', 'word', 'options', 'note', 'image'])
         w.writeheader()
         w.writerows(out)
