@@ -10,9 +10,10 @@ German and Polish; six documents are tables. Added on 2026-10-14 at the
 editor's request: read from the editor's photos in session (there was no
 transcription), translated, summarised in both languages and
 claim-checked, with its page, a timeline entry (29 June 1868) and a
-paragraph in the story. **Built and committed; not published.** The editor
+paragraph in the story. The editor
 approved the folds and page edges (2026-10-15) and answered both spot
-sheets; it waits for their word.
+sheets. **Published 2026-10-15** at the editor's word, with APŁ
+39/98/0/-/6603.
 
 Everything about how the holding was made is in the docstrings of
 `intake/holding.py` (the steps), `intake/photos.py` (the images),

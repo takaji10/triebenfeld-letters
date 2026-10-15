@@ -1966,6 +1966,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - All 21 marks of doubt in APŁ 39/98/0/-/6603 put on a spot sheet, "Doubtful readings in the liquidation table of Łazińsk": 16 rows, each with a picture, the signatures that recur under three documents asked once.
 - The editor's answers worked in: the pencil figure under the table (10055 70), Глебель (no. 2 of the copy) and Стурценбекеръ (no. 19 of the copy) read without doubt; the rest, among them all eleven signatures, kept with their doubt. Marks of doubt: 18 in the original, 865 in the edition.
 
+## Published (2026-10-15)
+
+- At the editor's word, APP 53/968/0/-/716 (Breyer's Łazińsk notebook) and APŁ 39/98/0/-/6603 (the liquidation table of Łazińsk) published together: 589 documents in 42 holdings, 865 marks of doubt, with the new era `liquidation`.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -108,18 +108,22 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-14)
+## Where things stand (2026-10-15)
 
-- **APŁ 39/98/0/-/6603** (slug `apl399806603`, added 2026-10-15, NOT
-  published), the first holding from the State Archive in Łódź: the
+- **Everything is published and pushed (2026-10-15)**: 589 documents in
+  42 holdings, 865 marks of doubt. The last two went out together at the
+  editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Three
+  eras carry working names until the editor names them: `wlodzimierz`,
+  `liquidation` and `twentieth-century` (`reference/eras.yml`).
+- **APŁ 39/98/0/-/6603** (slug `apl399806603`, added and published
+  2026-10-15), the first holding from the State Archive in Łódź: the
   liquidation table of the Łazińsk colony (1868), its copy (1869) and the
   entries to 1901, six documents, three of them tables; openings joined into
   one page by cut edges (`EDGES` in its `holding.py`). It and Breyer's copies
   of the tables in -/716 stand in the new era `liquidation` (editor,
-  working name). Read `units/apl399806603/notes.md` first. With -/716 the
-  edition's figures count it: 589 documents, 42 holdings, 865 marks.
-- **One holding is built and committed but NOT published** (added
-  2026-10-14): **APP 53/968/0/-/716** (slug `app539680716`), Albert
+  working name). Read `units/apl399806603/notes.md` first. The editor
+  approved its page edges and answered its spot sheet (18 marks remain).
+- **APP 53/968/0/-/716** (added 2026-10-14, published 2026-10-15) (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet
   of 1858: thirteen documents by content (the editor's choice), six of them
   tables (Russian liquidation tables of 1868, Breyer's counts, the Polish
@@ -127,14 +131,12 @@ so check them.
   **A copy takes the date and era of what it copies** (editor,
   2026-10-14): Breyer's copies of 1858 to 1892 stand in `wlodzimierz`, his
   own notes in `twentieth-century` (`reference/eras.yml`, header).
-  The edition's figures already count it (583 documents, 41 holdings, 867
-  marks of doubt): do not publish anything else from `main` without saying
-  that it goes with it. The editor's spot-sheet answers are in
-  (2026-10-15). Michalina died 19 January 1851, Włodzimierz 20 December
+  The editor's answers on both spot sheets are in (2026-10-15); names and
+  figures in Breyer's copy of the Łazińsk table follow the original
+  (6603), and Zelmer is always Цельмеръ (editor). Michalina died 19 January 1851, Włodzimierz 20 December
   1879, then his nephew Władysław was heir (editor). The folds and page
-  edges are approved (editor, 2026-10-15); waits for their word
-  (`docs/TODO.md`, section 14). Read `units/app539680716/notes.md` first.
-- **Everything else is published and pushed (2026-10-14)**: 570 documents in
+  edges are approved (editor, 2026-10-15). Read `units/app539680716/notes.md` first.
+- **Published 2026-10-14**: 570 documents in
   40 holdings, 1589 to 1936. The last three, all from
   the State Archive in Poznań, went out together at the editor's word
   (`docs/TODO.md`, sections 10 to 12). Two eras carry working names until

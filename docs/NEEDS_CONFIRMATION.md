@@ -253,7 +253,7 @@ written until there is a witness or a better scan.
   whether the photograph log headed "Juli 1935" was written a year before
   the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
 - **APP 53/968/0/-/716** (Albert Breyer's Łazińsk notebook and the sheet of
-  1858, added 2026-10-14, not published): read from the editor's photos by
+  1858, added 2026-10-14, published 2026-10-15): read from the editor's photos by
   Claude, 68 marks of doubt; 17 put to the editor on a spot sheet and
   answered (2026-10-15); a second sheet of the rest, all answered the
   same day; 35 marks remain, after the answers and a comparison with the
@@ -264,7 +264,7 @@ written until there is a witness or a better scan.
   1875. Folds and page edges approved (2026-10-15). Open: the heading of the Orlin list
   (four lines of Kurrent, partly read).
 - **APŁ 39/98/0/-/6603** (the liquidation table of Łazińsk, added
-  2026-10-15, not published): read from the scans by Claude, 21 marks of
+  2026-10-15, published 2026-10-15): read from the scans by Claude, 21 marks of
   doubt, all read by the editor on a spot sheet (2026-10-15), three
   settled; 18 remain, eleven of them signatures; the page edges
   of the four joined openings approved by the editor. In the statement of 1896 four rows do not

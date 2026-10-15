@@ -8,7 +8,7 @@ documents, 1868 to 1901, on 23 page images made from 27 scans; Russian;
 three are tables. Added on 2026-10-15 at the editor's request: read from
 the scans in session (there was no transcription of the tables),
 translated, summarised in both languages and claim-checked, with its page.
-**Built and committed; not published.** Era: `liquidation`, new on
+**Published 2026-10-15** at the editor's word, with APP 53/968/0/-/716. Era: `liquidation`, new on
 2026-10-15 at the editor's word ("a general liquidation era ... which began
 under Włodzimierz's ownership").
 

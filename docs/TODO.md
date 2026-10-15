@@ -447,7 +447,7 @@ inside the file is upright, only the camera's flag said otherwise. Details:
       (2026-10-14). Worked in the same day.
 - [x] Published at your word, 2026-10-14.
 
-## 14. APP 53/968/0/-/716: Breyer's Łazińsk notebook, with the tables of 1868 (added 2026-10-14, not published)
+## 14. APP 53/968/0/-/716: Breyer's Łazińsk notebook, with the tables of 1868 (added 2026-10-14, published 2026-10-15)
 
 Your photos IMG_5159 to IMG_5180: Breyer's notebook and the sheet of 1858
 laid in it, eleven documents by content, six of them tables. Read from the
@@ -467,9 +467,9 @@ copies. Details: `units/app539680716/notes.md`.
       the era of what it copies (your ruling, 2026-10-14). They stand under
       Włodzimierz; two documents were divided so that copies and Breyer's
       own notes stand apart (thirteen documents now).
-- [ ] Your word to publish.
+- [x] Published at your word (2026-10-15).
 
-## 15. APŁ 39/98/0/-/6603: the liquidation table of Łazińsk (added 2026-10-15, not published)
+## 15. APŁ 39/98/0/-/6603: the liquidation table of Łazińsk (added 2026-10-15, published 2026-10-15)
 
 The scans you supplied from the State Archive in Łódź: the table of 1868,
 its copy of 1869 and the entries to 1901, six documents, read from the
@@ -482,4 +482,4 @@ liquidation. Details: `units/apl399806603/notes.md`.
       table of Łazińsk" (16 rows, 2026-10-15): three readings settled, the
       rest kept with their doubt; 18 marks remain. Worked in the same day.
 - [ ] A name for the era (`liquidation` is a working name).
-- [ ] Your word to publish.
+- [x] Published at your word (2026-10-15).
