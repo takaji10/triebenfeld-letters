@@ -99,7 +99,7 @@ in Berlin.
 
 ## Das Gut unter Włodzimierz Miączyński
 
-**Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut nach ihr führte.
+**Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut von ihrem Tod 1851 bis zu seinem eigenen 1879 besaß.
 [8 Dokumente, 1858 bis 1870]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 Die Kolonisten des Gutes Trąbczyn, in den beiden Olęderkolonien, die damals Staro-Łazińska und

@@ -4,7 +4,7 @@ The editor photographed the notebook in 2023, as camera raw files, IMG_5159 to I
 
 ### Transcription
 
-There was no transcription. An AI model (Claude) read the notebook and the sheet from the photographs, line by line, each page in three enlarged strips. Words not read are marked "[?]"; words read with doubt carry "?" inside square brackets; where only some letters were read, those letters are given. There are 68 such marks. A word broken at the end of a line ends in "¬". Breyer's dividers between notes, a short line with a small circle, are kept. Words he struck out are left out, as everywhere in this edition. The Russian keeps its old spelling (ѣ, і, ъ). The editor has not yet checked the reading.
+There was no transcription. An AI model (Claude) read the notebook and the sheet from the photographs, line by line, each page in three enlarged strips. Words not read are marked "[?]"; words read with doubt carry "?" inside square brackets; where only some letters were read, those letters are given. There were 68 such marks. The editor then read 17 of them, the ones a name, a place, a heading or the sense of a note rests on, on a sheet that shows each beside a picture of its line, and settled or changed 13 of them; 55 marks remain. A word broken at the end of a line ends in "¬". Breyer's dividers between notes, a short line with a small circle, are kept. Words he struck out are left out, as everywhere in this edition. The Russian keeps its old spelling (ѣ, і, ъ). The editor has not checked the rest of the reading.
 
 ### Division and dating
 

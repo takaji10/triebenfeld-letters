@@ -55,10 +55,12 @@ app539680716-002:
 app539680716-003:
 - {claim: "Breyers Notizen zu Emilienheim, deutsch und russisch", verdict: supported, where: "p. 1"}
 - {claim: "bereits am 26. November 1870 nach der Vermessung durch den Geometer in Kalisz 331 Morgen 179 Ruten nutzbares und 5 Morgen 179 Ruten unbrauchbares Land", verdict: supported, where: "Bereits 26 Nov. 1870 nach Messung d. Geom. Kal. удобной 331 мор. 179 пр. / неудобной 5 \" 179 \""}
-- {claim: "ein Vermerk über die Behörde des Gouvernements Kalisz vom 29. September 1892, Emilienheim und seinen örtlichen Namen Michalinów", verdict: supported, where: "Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. The renaming itself rests on the doubtful word and is not said"}
+- {claim: "die Behörde des Gouvernements Kalisz benannte am 29. September 1892 Emilienheim nach seinem örtlichen Namen in Michalinów um", verdict: supported, where: "переименов. read without doubt by the editor (spot sheet, 2026-10-15); the statement strengthened from 'ein Vermerk über ...'. Earlier:"}
+- {claim: "(earlier wording) ein Vermerk über die Behörde des Gouvernements Kalisz vom 29. September 1892, Emilienheim und seinen örtlichen Namen Michalinów", verdict: supported, where: "Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. The renaming itself rests on the doubtful word and is not said"}
 - {claim: "eine Eintragung vom April 1892", verdict: supported, where: "Eingeschrieben [j. Wloch?] i. April 1892; the doubtful words left out"}
 
 app539680716-004:
+- {claim: "Gemeinde Trąbczyn", verdict: supported, where: "p. 1: гмин. Тромбчинъ, read without doubt by the editor (spot sheet, 2026-10-15)"}
 - {claim: "Breyers russische Abschrift der Liquidationstabelle der Kolonie Łazińsk, Gouvernement Kalisz, Kreis Słupca, Bezirk Pyzdry", verdict: supported, where: "p. 1: Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр."}
 - {claim: "datiert Słupca, 29. Juni 1868", verdict: supported, where: "p. 8: Слупца 29 iюня 1868 г."}
 - {claim: "nach der Bauernbefreiung von 1864, auf dem früheren Gut Trąbczyn", verdict: unsupported, where: "not in the table; the commune is read with doubt ([Тромбчинъ?]); cut"}
@@ -88,12 +90,14 @@ app539680716-007:
 - {claim: "die Tabelle nennt kein Dorf; ihre 1691 Morgen von 1868 sind die der Liquidationstabelle von Łazińsk", verdict: supported, where: "document 4, p. 8: Вообще 1691 мор. 219 пр."}
 
 app539680716-008:
+- {claim: "unter der Überschrift Holędry Orliny Biskupicki", verdict: supported, where: "p. 6: Holędry Orliny Biskupicki, read without doubt by the editor (spot sheet, 2026-10-15)"}
 - {claim: "Notizen vom Juli 1935, deutsch und zum Teil russisch", verdict: supported, where: "p. 2: In Orlin i. 7. 1935; p. 3 in Russian"}
 - {claim: "Huta Trąbczyńska 1935 18 Wirte und 217 Morgen, Orlin im Juli 1935 85 Wirte", verdict: supported, where: "pp. 1-2"}
 - {claim: "für Orliny 152 Kühe und 343 Schafe", verdict: supported, where: "p. 3: Скотъ Орлины. ×× 152 коровъ 343 овецъ"}
 - {claim: "1879 für das ganze Dorf 52 Fuhren Brennmaterial, 1880 300 Morgen 97 Ruten", verdict: supported, where: "p. 3. First written as 'Brennholz': the note has Brennmaterial; corrected"}
 - {claim: "Namen aus einem Forstwirtschaftsplan, darunter Biskupice, Szetlew und Grzebień", verdict: supported, where: "p. 3: лѣсохозяйств. планъ: Вдовьiй боръ, Бискупице, Подбель, Шетлевъ, Гржебень ... First written as 'Waldnamen': what the names are the note does not say; weakened"}
-- {claim: "in Józefów Becker und Wegert unter den ersten Wirten", verdict: supported, where: "p. 4: In Józefów [Jäke?], Becker, Wegert, [Jesswein?] die ersten Wirte."}
+- {claim: "in Józefów Becker, Wegert und Jesswein unter den ersten Wirten", verdict: supported, where: "Jesswein read by the editor (spot sheet, 2026-10-15); Jäke still doubtful and left out"}
+- {claim: "(earlier wording) in Józefów Becker und Wegert unter den ersten Wirten", verdict: supported, where: "p. 4: In Józefów [Jäke?], Becker, Wegert, [Jesswein?] die ersten Wirte."}
 - {claim: "alte Häuser mit dem Giebel zur Straße; Gesangbücher, darunter das Züllichauer", verdict: supported, where: "p. 4: Giebel z. Strasse / 1056 Liede / 1017 Lieder i. Züllichauer Gesang. First written 'man singt aus dem Züllichauer Gesangbuch': overstated, weakened"}
 - {claim: "die Frauen tragen Schürzen rund um den Körper, die Hauben sind vor 30 Jahren verschwunden", verdict: supported, where: "pp. 4-5"}
 - {claim: "die Alten sprachen etwas Plattdeutsch", verdict: supported, where: "p. 6, after the line on Klein-Orlin. First written 'In Orlin': which place is meant the page does not say; cut"}
@@ -119,7 +123,8 @@ app539680716-010:
 - {claim: "Notizen über Orlin vom Juli 1936: Orlin Hauland 1 Okt. 1806", verdict: supported, where: "p. 1; p. 2: 7. 1936"}
 - {claim: "in Orlin wurde Kaschubisch gesprochen", verdict: supported, where: "p. 1"}
 - {claim: "eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische", verdict: supported, where: "p. 1: (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin). First written 'nach Weber sprach auch der Vater Blochs, aus Czarny Bród, Kaschubisch': the note is too broken for that; weakened"}
-- {claim: "die nassen Jahre in Orlin und ein Bankrott; das Wort Kjaufft", verdict: supported, where: "p. 1: Der nassen Jahre wegen i. Orlin Bankrott [gemorden?]. „Kjaufft\"-Wort.; the doubtful verb left out"}
+- {claim: "wegen der nassen Jahre sei man in Orlin bankrott geworden; das Wort Kjaufft", verdict: supported, where: "p. 1: Der nassen Jahre wegen i. Orlin Bankrott geworden. (geworden read by the editor, spot sheet 2026-10-15). Earlier:"}
+- {claim: "(earlier wording) die nassen Jahre in Orlin und ein Bankrott; das Wort Kjaufft", verdict: supported, where: "p. 1: Der nassen Jahre wegen i. Orlin Bankrott [gemorden?]. „Kjaufft\"-Wort.; the doubtful verb left out"}
 - {claim: "auf der folgenden Seite die Fläche des Dorfes Orlino nach Klassen: I 17, II 370, IV 464,69 Morgen, 300 Morgen Unland", verdict: supported, where: "p. 2. First written 'darunter, polnisch' and 'Bodenklassen': the page is the next one, the classes are in German abbreviation (Kl.); corrected"}
 - {claim: "Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69", verdict: supported, where: "p. 2: 1157,69 morgen; 17 + 370 + 464.69 + 300 = 1151.69; figures checked on the photo 5176_a2"}
 

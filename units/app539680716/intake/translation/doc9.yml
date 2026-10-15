@@ -1,8 +1,8 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 6
-  en: ',[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible],
+  marker_count: 3
+  en: ',"[illegible] belonging to the Orlin Hauland at Biskupice, all [uncertain: on/from] the [illegible]",
 
     ,,Morgen
 
@@ -30,14 +30,14 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: '11,Frank,17
 
     12,Stefan,18
 
     13,Kolański,43
 
-    14,[uncertain: Skrzydlewski] Fr.,28
+    14,Skrzydlewski Fr.,28
 
     15,Belonging to the school,15
 
@@ -65,7 +65,7 @@ pages:
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '26,Kaźmierczak,12
 
     28,Gallas,15
@@ -74,7 +74,7 @@ pages:
 
     30,Wieczorek,11
 
-    31,[uncertain: Tilson],7
+    31,Tilson,7
 
     32,Gierke,9
 
@@ -100,14 +100,14 @@ pages:
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 3
+  marker_count: 2
   en: ',Neumann,10
 
     ,Galant,16
 
-    ,[uncertain: Seling],7
+    ,Seling,7
 
-    ,[uncertain: Rohrfuss],18
+    ,Polzfu[uncertain: h]l,18
 
     ,[uncertain: Jaschek],15
 

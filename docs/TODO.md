@@ -457,9 +457,8 @@ copies. Details: `units/app539680716/notes.md`.
 
 - [ ] Look at the folds: `review/app539680716/folds/index.html` (placed in
       session; save and send the file only if you move one).
-- [ ] Answer the spot sheet "Readings in Breyer's Łazińsk notebook"
-      (17 rows, `python pipeline/review/queries.py --unit app539680716
-      --sheet readings.csv --port 4102`).
+- [x] You answered the spot sheet "Readings in Breyer's Łazińsk notebook"
+      (17 rows, 2026-10-15). Worked in the same day.
 - [x] The era of the sheet of 1858 and the tables of 1868: a copy takes
       the era of what it copies (your ruling, 2026-10-14). They stand under
       Włodzimierz; two documents were divided so that copies and Breyer's

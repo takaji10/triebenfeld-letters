@@ -45,8 +45,8 @@ CELL = {
     'Помѣщ. 4420 р. 53 коп.': 'To the landowner 4420 roubles 53 kopecks', '28 марта 1868 г.': '28 March 1868',
     # doc 4
     'Łazińsk': 'Łazińsk',
-    'Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. [Тромбчинъ?]':
-        'Liquidation table of the village of the Łazińsk Colony, Kalisz governorate, Słupca district, Pyzdry circuit, commune of [uncertain: Trąbczyn]',
+    'Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. Тромбчинъ':
+        'Liquidation table of the village of the Łazińsk Colony, Kalisz governorate, Słupca district, Pyzdry circuit, commune of Trąbczyn',
     'Bleistift Jahr 1875': 'In pencil: the year 1875', 'Мор.': 'Morgen', 'пр.': 'rods',
     'Усадьба сельск. шк.': 'Farmstead of the village school', 'Кладб.': 'Cemetery',
     '— Готфр. Хауптъ 8-179': '— Gotfr. Khaupt 8-179',
@@ -57,8 +57,8 @@ CELL = {
     # doc 6
     'Jahr': 'Year', 'Wirte:': 'Farmers:', 'Morgen': 'Morgen', '91 Wirte.': '91 farmers.',
     # doc 8
-    '[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?]':
-        '[illegible] from the Orlin Hauland Biskupice [illegible] [illegible] [illegible] [illegible] [illegible]',
+    '[?] von dem Orliner Hauland zu Biskupice gehörig, sämtlich au[f/s?] das [?]':
+        '[illegible] belonging to the Orlin Hauland at Biskupice, all [uncertain: on/from] the [illegible]',
     'Morg.': 'Morgen', 'Zur Schule gehörig': 'Belonging to the school', 'Gemeinschaftl. Land': 'Common land',
     '27 Huf. 28 M.': '27 Hufen 28 Morgen',
     # doc 10
@@ -109,7 +109,7 @@ TEXT_EN = {
 by the Kalisz surveyor: usable 331 Morgen 179 rods,
 unusable 5 " 179 "
 —o—
-Kalisz governorate board, [uncertain: renamings]
+Kalisz governorate board renamed,
 29 Sept. 1892
 Emilienheim to the local
 name Mikhalinova.
@@ -160,7 +160,7 @@ Podbel, Szetlew, Grzebień,
 1909 [illegible]
 has [uncertain: entgekoit] that''',
  (8, '5172_a2'): '''In Józefów
-[uncertain: Jäke], Becker, Wegert, [uncertain: Jesswein]
+[uncertain: Jäke], Becker, Wegert, Jesswein
 the first farmers.
 Old houses with [uncertain: L…]
 gable to the street
@@ -179,11 +179,11 @@ Bonnets were made from the
 [uncertain: saddlers].
 Czarny Bród,
 Little Orlin, Great Orlin
-[uncertain: Mądrosza],
+Maradza,
 Bystrzyca: 1 Protestant family
 160 families.''',
  (8, '5173_a2'): '''In Little Orlin
-1 [uncertain: Hufe] each for 40 farmers
+1 Hufe each for 40 farmers
 The old people spoke
 Low German, a little
 The people of Orlin abuse those of Biało¬
@@ -193,11 +193,11 @@ owner, Riedel. Gave Mr
 Schmidt a hymn book
 In Orlin post-built houses (Bloch)
 —o—
-[uncertain: Holędry] Orliny Biskupicki''',
+Holędry Orliny Biskupicki''',
  (8, '5174_a1'): '''[uncertain: Sollten], they steal wood from one another, steal pota¬
 toes, dream of stealing hens
 The German fellow countrymen robbed the teacher
-on [uncertain: Zwrsze]. In Grodziec poor,
+on [uncertain: Zrost]. In Grodziec poor,
 Łazińsk not such great thieving
 The more converted, the more perverted.
 [uncertain: Frierk], a preacher, the sons steal.
@@ -233,7 +233,7 @@ In Orlin Kashubian was spoken.
 from Czarny Bród, spoke Kashubian
 come from Orlin)
 Because of the wet years in Orlin
-bankrupt [uncertain: gemorden].
+went bankrupt.
 "Kjaufft" word.''',
  (10, '5176_a2'): '''July 1936
 Class I 17

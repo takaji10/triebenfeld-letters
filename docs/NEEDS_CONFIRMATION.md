@@ -254,7 +254,8 @@ written until there is a witness or a better scan.
   the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
 - **APP 53/968/0/-/716** (Albert Breyer's Łazińsk notebook and the sheet of
   1858, added 2026-10-14, not published): read from the editor's photos by
-  Claude, 68 marks of doubt; 17 put to the editor on a spot sheet. Not
+  Claude, 68 marks of doubt; 17 put to the editor on a spot sheet and
+  answered (2026-10-15), 55 marks remain. Not
   asked: the doubtful names of the Russian tables and Breyer's pencil of
   1875. Open: the folds (placed in session); the heading of the Orlin list
   (four lines of Kurrent, partly read).
@@ -264,9 +265,10 @@ written until there is a witness or a better scan.
   (`twentieth-century`, APP 53/968/0/-/669 and -/716). Both carry working
   names in `reference/eras.yml` until the editor names them. Breyer's
   copies in -/716 of papers of 1858 to 1892 stand in `wlodzimierz` (a copy
-  takes the era of what it copies: editor, 2026-10-14). Not known: whether
-  1858 was already Włodzimierz's time or still his mother Michalina's; the
-  edition has him holding the estate in 1860.
+  takes the era of what it copies: editor, 2026-10-14). Michalina died on
+  19 January 1851, Włodzimierz on 20 December 1879; his nephew Władysław
+  Miączyński became heir (editor, 2026-10-15). The years after 1879 have no
+  era and no document yet.
 
 - **APP 53/64/0/-/Kalisz Tab.21** (the hearth-tax register of 1789, added
   2026-10-13): read from the scans by Claude and checked line by line by

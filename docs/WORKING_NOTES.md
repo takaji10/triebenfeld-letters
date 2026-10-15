@@ -682,6 +682,20 @@ Where the rest is:
   summaries, claim record, `about` citations, timeline `refs`, `not_in` in
   `reference/people.yml`, spot-sheet rows, then `relabel_scans.py --apply`
   and two rebuilds (scan labels carry the document number).
+- **The era bands on the timeline are fixed years** in
+  `site/_includes/timeline.html`, and a band only shows on a year the
+  timeline shows (one with a document or an event). When documents of an
+  era are added earlier than its band, or an era's dates change, move the
+  band to the era's first shown year: 2026-10-15 the Włodzimierz band went
+  from 1860 to 1858 (the tax sheet) and the twentieth century's from 1936
+  to 1935, though the era itself begins in 1851 (Michalina's death, a year
+  with no document).
+- **Dates the editor gives for people** go into `reference/people_bios.yml`
+  (`life`, and a sentence in both languages, with a comment naming the
+  editor as the source) and the person's `identity` in
+  `reference/people.yml`; an owner's dates also into the era's `ownership`
+  and blurb (`reference/eras.yml`), the timeline note (`i18n.yml`) and the
+  story's era heading.
 - **A notebook in three languages, divided by content** (APP 53/968/0/-/716,
   2026-10-14; the editor chose "by content" over one document). A page that
   ends one document and starts the next stands under both (`DOCS` in

@@ -139,7 +139,7 @@ DOCS = {
 d. Geom. Kal. удобной 331 мор. 179 пр.
 неудобной 5 " 179 "
 —o—
-Калишск. губ. присутствiе [переименов.?]
+Калишск. губ. присутствiе переименов.
 29 сент. 1892
 Эмилейнхаймъ на мѣстное
 назв. Михалинова.
@@ -148,7 +148,7 @@ Eingeschrieben [j. Wloch?] i. April 1892'''),
  # ---------------------------------------------------------------- 4: Łazińsk, the liquidation table of 1868, a table
  4: [
   ('5165_a1', '''|Łazińsk||
-|Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. [Тромбчинъ?]||'''),
+|Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. Тромбчинъ||'''),
   ('5165_a2', '''|Bleistift Jahr 1875|Мор.|пр.
 1|Кончинскій Яковъ|17|84
 2|Гебель Март. — Войц. Рунга|29|262
@@ -320,7 +320,7 @@ für ganze Dorf 52 Fuhr
 1909 [?]
 hat das [entgekoit?]'''),
   ('5172_a2', '''In Józefów
-[Jäke?], Becker, Wegert, [Jesswein?]
+[Jäke?], Becker, Wegert, Jesswein
 die ersten Wirte.
 Alte Häuser mit [L…?]
 Giebel z. Strasse
@@ -339,11 +339,11 @@ Von den [Sattlern?] machten
 man Hauben.
 Czarny Bród,
 Kl. Orlin, Gr. Orlin
-[Mądrosza?],
+Maradza,
 Bystrzyca 1 ev. Fam
 160 Fam.'''),
   ('5173_a2', '''In Klein - Orlin
-je 1 [Hufe?] an 40 Wirte
+je 1 Hufe an 40 Wirte
 Die Alten sprachen
 plattdeutsch, etwas
 Die Orliner schimpfen die Biało¬
@@ -353,11 +353,11 @@ besitzer Riedel. Schenkte d. Herrn
 Schmidt ein Gesangbuch
 In Orlin Ständerhäuse (Bloch)
 —o—
-[Holędry?] Orliny Biskupicki'''),
+Holędry Orliny Biskupicki'''),
   ('5174_a1', '''[Sollten?], stehlen einander Holz, stehlen Kar¬
 toffeln, träumen Hühnerstehlen
 Den Lehrer haben d. dt. Volksgenossen
-auf [Zwrsze?], bestohlen. In Grodziec arm
+auf [Zrost?], bestohlen. In Grodziec arm
 Łazińsk nicht so grosse Dieberei
 Je bekehrter, desto verkehrter.
 [Frierk?], ein Prediger, die Söhne stehlen.
@@ -390,7 +390,7 @@ tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
  ],
  # ---------------------------------------------------------------- 9: Orlin, the farmers and their Morgen, a table
  9: [
-  ('5174_a2', '''|[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?]|
+  ('5174_a2', '''|[?] von dem Orliner Hauland zu Biskupice gehörig, sämtlich au[f/s?] das [?]|
 ||Morg.
 1|Bloch|18
 2|Schmidt P.|15
@@ -405,7 +405,7 @@ tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
   ('5175_a1', '''11|Frank|17
 12|Stefan|18
 13|Kolański|43
-14|[Skrzydlewski?] Fr.|28
+14|Skrzydlewski Fr.|28
 15|Zur Schule gehörig|15
 16|Zobel|33
 17|Baumann|15
@@ -421,7 +421,7 @@ tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
 28|Gallas|15
 29|Kientopf|32
 30|Wieczorek|11
-31|[Tilson?]|7
+31|Tilson|7
 32|Gierke|9
 33|Chmielowski|4
 34|Silberman|23
@@ -434,8 +434,8 @@ tet. Viel Beter, aber schlecht dabei. Schlechte Diebs-'''),
 |Lehman|7'''),
   ('5176_a1', '''|Neumann|10
 |Galant|16
-|[Seling?]|7
-|[Rohrfuss?]|18
+|Seling|7
+|Polzfu[h?]l|18
 |[Jaschek?]|15
 |Kress|36
 |27 Huf. 28 M.|'''),
@@ -448,7 +448,7 @@ In Orlin wurde Kaschubisch gesprochen.
 aus Czarny Bród, Kasub. gesprochen
 stammen aus Orlin)
 Der nassen Jahre wegen i. Orlin
-Bankrott [gemorden?].
+Bankrott geworden.
 „Kjaufft"-Wort.'''),
   ('5176_a2', '''7. 1936
 I. Kl. 17

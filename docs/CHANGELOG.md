@@ -1926,6 +1926,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **APP 53/968/0/-/716** brought into line: two documents that held one of Breyer's copies and his own notes together were divided (now thirteen documents). The sheet of 1858, the liquidation tables of 1868, Breyer's extracts of 1870 and 1892 (now dated 26 November 1870) and his copies of the servitudes of Łazińsk (dated 1868) and Orliny now stand in the era of Włodzimierz Miączyński; Breyer's own notes and figures stay in the twentieth century. The story page and both era descriptions follow. No other holding has a copy dated by its copying: APP 53/968/0/-/801 and I. HA Rep. 162 Nr. 295 already carry their originals' dates.
 - Figures: 583 documents; 880 marks of doubt; 578 translated. Not published.
 
+## APP 53/968/0/-/716: the editor's answers; Michalina's and Włodzimierz's dates (2026-10-15)
+
+- The editor answered the spot sheet of 17 readings in Breyer's notebook: 13 settled or changed (the renaming of Emilienheim in 1892, the commune of Trąbczyn in the heading of the Łazińsk table, Jesswein among the first farmers of Józefów, Maradza, Holędry Orliny Biskupicki, Skrzydlewski, Tilson, Seling, Polzfu[h?]l, "Bankrott geworden", and most of the heading of the Orlin list). Text, English, four summaries and the holding's pages follow. 55 marks of doubt remain in the notebook, 867 in the edition.
+- **Dates from the editor**: Michalina Miączyńska, born Prusimska, died on 19 January 1851; her son Włodzimierz on 20 December 1879, and his nephew Władysław Miączyński became heir of Trąbczyn. In the people's notes, the era's description (now 1851 to 1879), the story and the timeline note; the era's band on the timeline now begins at its first document, 1858, and the twentieth century's at 1935.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

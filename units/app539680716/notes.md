@@ -55,7 +55,7 @@ has not yet looked at it.
 
 ## The reading
 
-68 marks of doubt. The tables follow the edition's convention (number
+55 marks of doubt (68 before the editor's answers). The tables follow the edition's convention (number
 first, name second; abbreviated numbers in full; the copyist's dash after
 a name dropped; a heading repeated on a page given once). In the Łazińsk
 table Breyer's pencil of 1875 stands in the name cell after " — ".
@@ -66,12 +66,27 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
 - **The heading of document 9** (5174_a2) is four lines of Kurrent. Read
   first as "[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?]";
   read again on a closer picture (2026-10-14) as "... gehörig, sämtlich auf
-  das Buch ...". Not put into the text: offered on the spot sheet.
+  das Buch ...". The editor's reading (2026-10-15): "von dem Orliner Hauland
+  zu Biskupice gehörig, sämtlich au[f/s?] das [?]". Their answer begins at
+  "von dem"; the long first word, on its own line, is not read and stays
+  "[?]" before it.
 - **Spot sheet** "Readings in Breyer's Łazińsk notebook": 17 rows
   (`intake/spot_sheet.py`, port 4102), the readings a name, a place, a
   heading or the sense rests on. Not asked: the doubtful names of the
   Russian tables (documents 2, 4, 11) and the pencil of 1875, which the
   editor may not read in Cyrillic; the rest of document 8's marks.
+- **The editor's answers** (2026-10-15), worked into `intake/text716.py`
+  and `intake/english716.py`: переименов. (renamed), Тромбчинъ (the
+  commune, Trąbczyn), Jesswein, Hufe, Holędry, Skrzydlewski, Tilson,
+  Seling and geworden ("Bankrott geworden", went bankrupt) read without
+  doubt; Maradza for Mądrosza (the editor: a locality called Maradz is
+  likely meant); [Zrost?] for [Zwrsze?]; Polzfu[h?]l for [Rohrfuss?]; the
+  heading of document 9 as above. Kept with their doubt: [7.?] on the sheet
+  of 1858, [паленный?], [Jäke?], [Jaschek?] (the editor could not tell).
+  The summaries of documents 3, 4, 8 and 10 now say what the settled words
+  allow (the renaming of 1892, the commune of Trąbczyn, Jesswein, the
+  heading Holędry Orliny Biskupicki, the bankruptcy); recorded in
+  `intake/claim_check.yml`.
 
 ## The English
 
@@ -99,10 +114,11 @@ named people from the Russian tables in German forms).
 
 ## Open
 
-- The editor's look at the folds and their answers on the spot sheet.
-- Whether 1858 already falls in Włodzimierz's years or still in his
-  mother Michalina's: the edition knows only that he held the estate in
-  1860. The sheet stands in `wlodzimierz`, the nearest era.
+- The editor's look at the folds.
+- Settled (editor, 2026-10-15): Michalina died on 19 January 1851 and
+  Włodzimierz on 20 December 1879, so 1858 to 1870 are his years. His
+  nephew Władysław Miączyński became heir; the edition has no era for the
+  years after 1879 yet, and no document of them.
 
 ## Damage
 

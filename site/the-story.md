@@ -90,7 +90,7 @@ Archives in Berlin.
 
 ## The estate under Włodzimierz Miączyński
 
-**Count Włodzimierz Miączyński, Michalina's son, who ran the estate after her.
+**Count Włodzimierz Miączyński, Michalina's son, who held the estate from her death in 1851 to his own in 1879.
 [8 documents, 1858 to 1870]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 The colonists on the Trąbczyn estate, in the two Olęder colonies then called Staro-Łazińska

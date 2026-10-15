@@ -119,10 +119,12 @@ so check them.
   **A copy takes the date and era of what it copies** (editor,
   2026-10-14): Breyer's copies of 1858 to 1892 stand in `wlodzimierz`, his
   own notes in `twentieth-century` (`reference/eras.yml`, header).
-  The edition's figures already count it (583 documents, 41 holdings, 880
+  The edition's figures already count it (583 documents, 41 holdings, 867
   marks of doubt): do not publish anything else from `main` without saying
-  that it goes with it. Waits for the editor's look at the folds, the spot
-  sheet of 17 readings, and their word
+  that it goes with it. The editor's spot-sheet answers are in
+  (2026-10-15). Michalina died 19 January 1851, Włodzimierz 20 December
+  1879, then his nephew Władysław was heir (editor). Waits for the
+  editor's look at the folds and their word
   (`docs/TODO.md`, section 14). Read `units/app539680716/notes.md` first.
 - **Everything else is published and pushed (2026-10-14)**: 570 documents in
   40 holdings, 1589 to 1936. The last three, all from

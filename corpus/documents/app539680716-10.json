@@ -22,7 +22,7 @@
  "recipient": "",
  "line_start": 421,
  "line_end": 439,
- "uncertainty_count": 1,
+ "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
@@ -32,8 +32,8 @@
  "is_missing": 0,
  "n_lines": 16,
  "n_pages": 2,
- "text": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.\n7. 1936\nI. Kl. 17\nII. \" 370\nIII. \" —\nIV. \" 464,69\nnieużytki 300 =\n1157,69 morgen\nwieś Orlino.",
- "text_reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].\n\n„Kjaufft\"-Wort.\n\n7. 1936\n\nI. Kl. 17\n\nII. \" 370\n\nIII. \" —\n\nIV. \" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino.",
+ "text": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott geworden.\n„Kjaufft\"-Wort.\n7. 1936\nI. Kl. 17\nII. \" 370\nIII. \" —\nIV. \" 464,69\nnieużytki 300 =\n1157,69 morgen\nwieś Orlino.",
+ "text_reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott geworden.\n\n„Kjaufft\"-Wort.\n\n7. 1936\n\nI. Kl. 17\n\nII. \" 370\n\nIII. \" —\n\nIV. \" 464,69 nieużytki 300 = 1157,69 morgen wieś Orlino.",
  "pages": [
   {
    "page": 1,
@@ -41,11 +41,11 @@
    "line_start": 423,
    "line_end": 430,
    "n_lines": 8,
-   "diplomatic": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.",
-   "transcription": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott [gemorden?].\n„Kjaufft\"-Wort.",
-   "reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].\n\n„Kjaufft\"-Wort.",
+   "diplomatic": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott geworden.\n„Kjaufft\"-Wort.",
+   "transcription": "Orlin Hauland 1 Okt. 1806\nIn Orlin wurde Kaschubisch gesprochen.\n(Weber, „ Der Vater d. Bloch hat auch\naus Czarny Bród, Kasub. gesprochen\nstammen aus Orlin)\nDer nassen Jahre wegen i. Orlin\nBankrott geworden.\n„Kjaufft\"-Wort.",
+   "reading": "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott geworden.\n\n„Kjaufft\"-Wort.",
    "paragraphs": [
-    "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott [gemorden?].",
+    "Orlin Hauland 1 Okt. 1806 In Orlin wurde Kaschubisch gesprochen. (Weber, „ Der Vater d. Bloch hat auch aus Czarny Bród, Kasub. gesprochen stammen aus Orlin) Der nassen Jahre wegen i. Orlin Bankrott geworden.",
     "„Kjaufft\"-Wort."
    ],
    "sideways_lines": [],
@@ -89,15 +89,15 @@
  "translation": [
   {
    "page": 1,
-   "en": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nbankrupt [uncertain: gemorden].\n\"Kjaufft\" word."
+   "en": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nwent bankrupt.\n\"Kjaufft\" word."
   },
   {
    "page": 2,
    "en": "July 1936\nClass I 17\nII \" 370\nIII \" —\nIV \" 464.69\nwaste land 300 =\n1157.69 Morgen\nvillage of Orlino."
   }
  ],
- "text_english": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nbankrupt [uncertain: gemorden].\n\"Kjaufft\" word.\n\nJuly 1936\nClass I 17\nII \" 370\nIII \" —\nIV \" 464.69\nwaste land 300 =\n1157.69 Morgen\nvillage of Orlino.",
- "summary_en": "Albert Breyer's notes on Orlin of July 1936: \"Orlin Hauland 1 Oct. 1806\". In Orlin Kashubian was spoken; with it a statement of Weber's about Bloch's father, Czarny Bród and Kashubian. The wet years in Orlin and a bankruptcy; the word \"Kjaufft\". On the next page the land of the village of Orlino (wieś Orlino) by classes: class I 17, II 370 and IV 464.69 Morgen, and 300 Morgen of waste land (nieużytki); Breyer's total is 1,157.69 Morgen, the figures add up to 1,151.69.",
- "summary_de": "Albert Breyers Notizen über Orlin vom Juli 1936: „Orlin Hauland 1 Okt. 1806“. In Orlin wurde Kaschubisch gesprochen; dazu eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische. Die nassen Jahre in Orlin und ein Bankrott; das Wort „Kjaufft“. Auf der folgenden Seite die Fläche des Dorfes Orlino (wieś Orlino) nach Klassen: Klasse I 17, II 370, IV 464,69 Morgen und 300 Morgen Unland (nieużytki); Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69.",
+ "text_english": "Orlin Hauland, 1 Oct. 1806\nIn Orlin Kashubian was spoken.\n(Weber, \" Bloch's father also\nfrom Czarny Bród, spoke Kashubian\ncome from Orlin)\nBecause of the wet years in Orlin\nwent bankrupt.\n\"Kjaufft\" word.\n\nJuly 1936\nClass I 17\nII \" 370\nIII \" —\nIV \" 464.69\nwaste land 300 =\n1157.69 Morgen\nvillage of Orlino.",
+ "summary_en": "Albert Breyer's notes on Orlin of July 1936: \"Orlin Hauland 1 Oct. 1806\". In Orlin Kashubian was spoken; with it a statement of Weber's about Bloch's father, Czarny Bród and Kashubian. Because of the wet years people in Orlin went bankrupt; the word \"Kjaufft\". On the next page the land of the village of Orlino (wieś Orlino) by classes: class I 17, II 370 and IV 464.69 Morgen, and 300 Morgen of waste land (nieużytki); Breyer's total is 1,157.69 Morgen, the figures add up to 1,151.69.",
+ "summary_de": "Albert Breyers Notizen über Orlin vom Juli 1936: „Orlin Hauland 1 Okt. 1806“. In Orlin wurde Kaschubisch gesprochen; dazu eine Angabe Webers über den Vater Blochs, Czarny Bród und das Kaschubische. Wegen der nassen Jahre sei man in Orlin bankrott geworden; das Wort „Kjaufft“. Auf der folgenden Seite die Fläche des Dorfes Orlino (wieś Orlino) nach Klassen: Klasse I 17, II 370, IV 464,69 Morgen und 300 Morgen Unland (nieużytki); Breyers Summe ist 1157,69 Morgen, die Zahlen ergeben 1151,69.",
  "reading": {}
 }

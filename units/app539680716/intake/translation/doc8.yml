@@ -54,10 +54,10 @@ pages:
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 3
+  marker_count: 2
   en: 'In Józefów
 
-    [uncertain: Jäke], Becker, Wegert, [uncertain: Jesswein]
+    [uncertain: Jäke], Becker, Wegert, Jesswein
 
     the first farmers.
 
@@ -87,7 +87,7 @@ pages:
   flagged: []
 - page: 5
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: '30 years ago the
 
     bonnets disappeared.
@@ -100,7 +100,7 @@ pages:
 
     Little Orlin, Great Orlin
 
-    [uncertain: Mądrosza],
+    Maradza,
 
     Bystrzyca: 1 Protestant family
 
@@ -110,10 +110,10 @@ pages:
   flagged: []
 - page: 6
   confidence: high
-  marker_count: 2
+  marker_count: 0
   en: 'In Little Orlin
 
-    1 [uncertain: Hufe] each for 40 farmers
+    1 Hufe each for 40 farmers
 
     The old people spoke
 
@@ -133,7 +133,7 @@ pages:
 
     —o—
 
-    [uncertain: Holędry] Orliny Biskupicki'
+    Holędry Orliny Biskupicki'
   names: []
   numbers: []
   flagged: []
@@ -146,7 +146,7 @@ pages:
 
     The German fellow countrymen robbed the teacher
 
-    on [uncertain: Zwrsze]. In Grodziec poor,
+    on [uncertain: Zrost]. In Grodziec poor,
 
     Łazińsk not such great thieving
 

@@ -7271,16 +7271,6 @@
  },
  {
   "uid": "app539680716-4",
-  "marker": "[Тромбчинъ?]",
-  "page": 1,
-  "page_id": "5165_a1",
-  "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
-  "line": 116,
-  "doc_line": 2,
-  "context": ",\"Ликвидац. табель селенiя Колонiи Лазинской Кал. губ., Слупецк. уѣз. Пыздр. окр. гмин. [Тромбчинъ?]\",,"
- },
- {
-  "uid": "app539680716-4",
   "marker": "[Брушк.?]",
   "page": 2,
   "page_id": "5165_a2",
@@ -7431,16 +7421,6 @@
  },
  {
   "uid": "app539680716-3",
-  "marker": "[переименов.?]",
-  "page": 1,
-  "page_id": "5165_a1",
-  "scan": "APP_53_968_0_716_5165_a1-L4_01.jpg",
-  "line": 108,
-  "doc_line": 5,
-  "context": "Калишск. губ. присутствiе [переименов.?]"
- },
- {
-  "uid": "app539680716-3",
   "marker": "[j. Wloch?]",
   "page": 1,
   "page_id": "5165_a1",
@@ -7497,17 +7477,7 @@
   "scan": "APP_53_968_0_716_5172_a2-L8_04.jpg",
   "line": 296,
   "doc_line": 21,
-  "context": "[Jäke?], Becker, Wegert, [Jesswein?]"
- },
- {
-  "uid": "app539680716-8",
-  "marker": "[Jesswein?]",
-  "page": 4,
-  "page_id": "5172_a2",
-  "scan": "APP_53_968_0_716_5172_a2-L8_04.jpg",
-  "line": 296,
-  "doc_line": 21,
-  "context": "[Jäke?], Becker, Wegert, [Jesswein?]"
+  "context": "[Jäke?], Becker, Wegert, Jesswein"
  },
  {
   "uid": "app539680716-8",
@@ -7531,36 +7501,6 @@
  },
  {
   "uid": "app539680716-8",
-  "marker": "[Mądrosza?]",
-  "page": 5,
-  "page_id": "5173_a1",
-  "scan": "APP_53_968_0_716_5173_a1-L8_05.jpg",
-  "line": 316,
-  "doc_line": 40,
-  "context": "[Mądrosza?],"
- },
- {
-  "uid": "app539680716-8",
-  "marker": "[Hufe?]",
-  "page": 6,
-  "page_id": "5173_a2",
-  "scan": "APP_53_968_0_716_5173_a2-L8_06.jpg",
-  "line": 321,
-  "doc_line": 44,
-  "context": "je 1 [Hufe?] an 40 Wirte"
- },
- {
-  "uid": "app539680716-8",
-  "marker": "[Holędry?]",
-  "page": 6,
-  "page_id": "5173_a2",
-  "scan": "APP_53_968_0_716_5173_a2-L8_06.jpg",
-  "line": 331,
-  "doc_line": 54,
-  "context": "[Holędry?] Orliny Biskupicki"
- },
- {
-  "uid": "app539680716-8",
   "marker": "[Sollten?]",
   "page": 7,
   "page_id": "5174_a1",
@@ -7571,13 +7511,13 @@
  },
  {
   "uid": "app539680716-8",
-  "marker": "[Zwrsze?]",
+  "marker": "[Zrost?]",
   "page": 7,
   "page_id": "5174_a1",
   "scan": "APP_53_968_0_716_5174_a1-L8_07.jpg",
   "line": 336,
   "doc_line": 58,
-  "context": "auf [Zwrsze?], bestohlen. In Grodziec arm"
+  "context": "auf [Zrost?], bestohlen. In Grodziec arm"
  },
  {
   "uid": "app539680716-8",
@@ -7627,7 +7567,17 @@
   "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
   "line": 369,
   "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
+  "context": ",\"[?] von dem Orliner Hauland zu Biskupice gehörig, sämtlich au[f/s?] das [?]\","
+ },
+ {
+  "uid": "app539680716-9",
+  "marker": "[f/s?]",
+  "page": 1,
+  "page_id": "5174_a2",
+  "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
+  "line": 369,
+  "doc_line": 1,
+  "context": ",\"[?] von dem Orliner Hauland zu Biskupice gehörig, sämtlich au[f/s?] das [?]\","
  },
  {
   "uid": "app539680716-9",
@@ -7637,57 +7587,7 @@
   "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
   "line": 369,
   "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "5174_a2",
-  "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
-  "line": 369,
-  "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "5174_a2",
-  "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
-  "line": 369,
-  "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "5174_a2",
-  "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
-  "line": 369,
-  "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "5174_a2",
-  "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
-  "line": 369,
-  "doc_line": 1,
-  "context": ",[?] von dem Orliner Hauland Biskupice [?] [?] [?] [?] [?],"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[Skrzydlewski?]",
-  "page": 2,
-  "page_id": "5175_a1",
-  "scan": "APP_53_968_0_716_5175_a1-L9_02.jpg",
-  "line": 385,
-  "doc_line": 16,
-  "context": "14,[Skrzydlewski?] Fr.,28"
+  "context": ",\"[?] von dem Orliner Hauland zu Biskupice gehörig, sämtlich au[f/s?] das [?]\","
  },
  {
   "uid": "app539680716-9",
@@ -7721,33 +7621,13 @@
  },
  {
   "uid": "app539680716-9",
-  "marker": "[Tilson?]",
-  "page": 3,
-  "page_id": "5175_a2",
-  "scan": "APP_53_968_0_716_5175_a2-L9_03.jpg",
-  "line": 402,
-  "doc_line": 32,
-  "context": "31,[Tilson?],7"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[Seling?]",
-  "page": 4,
-  "page_id": "5176_a1",
-  "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
-  "line": 416,
-  "doc_line": 45,
-  "context": ",[Seling?],7"
- },
- {
-  "uid": "app539680716-9",
-  "marker": "[Rohrfuss?]",
+  "marker": "[h?]",
   "page": 4,
   "page_id": "5176_a1",
   "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
   "line": 417,
   "doc_line": 46,
-  "context": ",[Rohrfuss?],18"
+  "context": ",Polzfu[h?]l,18"
  },
  {
   "uid": "app539680716-9",
@@ -8628,16 +8508,6 @@
   "line": 861,
   "doc_line": 295,
   "context": "Land liegt d. [Gemeinde?] Wald."
- },
- {
-  "uid": "app539680716-10",
-  "marker": "[gemorden?]",
-  "page": 1,
-  "page_id": "5176_a1",
-  "scan": "APP_53_968_0_716_5176_a1-L10_01.jpg",
-  "line": 429,
-  "doc_line": 7,
-  "context": "Bankrott [gemorden?]."
  },
  {
   "uid": "app539680716-11",

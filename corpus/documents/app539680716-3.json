@@ -22,7 +22,7 @@
  "recipient": "",
  "line_start": 102,
  "line_end": 112,
- "uncertainty_count": 2,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
@@ -32,8 +32,8 @@
  "is_missing": 0,
  "n_lines": 9,
  "n_pages": 1,
- "text": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе [переименов.?]\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
- "text_reading": "Bereits 26 Nov. 1870 nach Messung\n\nd. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892",
+ "text": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе переименов.\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
+ "text_reading": "Bereits 26 Nov. 1870 nach Messung\n\nd. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе переименов. 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892",
  "pages": [
   {
    "page": 1,
@@ -41,12 +41,12 @@
    "line_start": 104,
    "line_end": 112,
    "n_lines": 9,
-   "diplomatic": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе [переименов.?]\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
-   "transcription": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе [переименов.?]\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
-   "reading": "Bereits 26 Nov. 1870 nach Messung\n\nd. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892",
+   "diplomatic": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе переименов.\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
+   "transcription": "Bereits 26 Nov. 1870 nach Messung\nd. Geom. Kal. удобной 331 мор. 179 пр.\nнеудобной 5 \" 179 \"\n—o—\nКалишск. губ. присутствiе переименов.\n29 сент. 1892\nЭмилейнхаймъ на мѣстное\nназв. Михалинова.\nEingeschrieben [j. Wloch?] i. April 1892",
+   "reading": "Bereits 26 Nov. 1870 nach Messung\n\nd. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе переименов. 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892",
    "paragraphs": [
     "Bereits 26 Nov. 1870 nach Messung",
-    "d. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе [переименов.?] 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892"
+    "d. Geom. Kal. удобной 331 мор. 179 пр. неудобной 5 \" 179 \" —o— Калишск. губ. присутствiе переименов. 29 сент. 1892 Эмилейнхаймъ на мѣстное назв. Михалинова. Eingeschrieben [j. Wloch?] i. April 1892"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
@@ -65,11 +65,11 @@
  "translation": [
   {
    "page": 1,
-   "en": "Already 26 Nov. 1870, after measurement\nby the Kalisz surveyor: usable 331 Morgen 179 rods,\nunusable 5 \" 179 \"\n—o—\nKalisz governorate board, [uncertain: renamings]\n29 Sept. 1892\nEmilienheim to the local\nname Mikhalinova.\nEntered [uncertain: j. Wloch] in April 1892"
+   "en": "Already 26 Nov. 1870, after measurement\nby the Kalisz surveyor: usable 331 Morgen 179 rods,\nunusable 5 \" 179 \"\n—o—\nKalisz governorate board renamed,\n29 Sept. 1892\nEmilienheim to the local\nname Mikhalinova.\nEntered [uncertain: j. Wloch] in April 1892"
   }
  ],
- "text_english": "Already 26 Nov. 1870, after measurement\nby the Kalisz surveyor: usable 331 Morgen 179 rods,\nunusable 5 \" 179 \"\n—o—\nKalisz governorate board, [uncertain: renamings]\n29 Sept. 1892\nEmilienheim to the local\nname Mikhalinova.\nEntered [uncertain: j. Wloch] in April 1892",
- "summary_en": "Albert Breyer's notes on Emilienheim, in German and Russian: already on 26 November 1870, after the survey by the surveyor at Kalisz, 331 Morgen 179 rods of usable and 5 Morgen 179 rods of unusable land. With them a note on the board of the governorate of Kalisz of 29 September 1892, Emilienheim and its local name, Michalinów, and an entry of April 1892.",
- "summary_de": "Albert Breyers Notizen zu Emilienheim, deutsch und russisch: bereits am 26. November 1870, nach der Vermessung durch den Geometer in Kalisz, 331 Morgen 179 Ruten nutzbares und 5 Morgen 179 Ruten unbrauchbares Land. Dazu ein Vermerk über die Behörde des Gouvernements Kalisz vom 29. September 1892, Emilienheim und seinen örtlichen Namen Michalinów, und eine Eintragung vom April 1892.",
+ "text_english": "Already 26 Nov. 1870, after measurement\nby the Kalisz surveyor: usable 331 Morgen 179 rods,\nunusable 5 \" 179 \"\n—o—\nKalisz governorate board renamed,\n29 Sept. 1892\nEmilienheim to the local\nname Mikhalinova.\nEntered [uncertain: j. Wloch] in April 1892",
+ "summary_en": "Albert Breyer's notes on Emilienheim, in German and Russian: already on 26 November 1870, after the survey by the surveyor at Kalisz, 331 Morgen 179 rods of usable and 5 Morgen 179 rods of unusable land. With them, that on 29 September 1892 the board of the governorate of Kalisz renamed Emilienheim Michalinów, after its local name, and an entry of April 1892.",
+ "summary_de": "Albert Breyers Notizen zu Emilienheim, deutsch und russisch: bereits am 26. November 1870, nach der Vermessung durch den Geometer in Kalisz, 331 Morgen 179 Ruten nutzbares und 5 Morgen 179 Ruten unbrauchbares Land. Dazu, dass die Behörde des Gouvernements Kalisz am 29. September 1892 Emilienheim nach seinem örtlichen Namen in Michalinów umbenannte, und eine Eintragung vom April 1892.",
  "reading": {}
 }

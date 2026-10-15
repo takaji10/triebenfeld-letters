@@ -4,7 +4,7 @@ Der Herausgeber fotografierte das Heft 2023, als Rohdateien der Kamera, IMG_5159
 
 ### Transkription
 
-Eine Transkription gab es nicht. Ein KI-Modell (Claude) las das Heft und das Blatt von den Fotografien, Zeile für Zeile, jede Seite in drei vergrößerten Streifen. Nicht gelesene Wörter sind mit „[?]“ markiert; unsicher gelesene tragen „?“ in eckigen Klammern; wo nur einige Buchstaben gelesen wurden, stehen diese. Es gibt 68 solche Zeichen. Ein am Zeilenende getrenntes Wort endet mit „¬“. Breyers Trennzeichen zwischen den Notizen, ein kurzer Strich mit einem kleinen Kreis, sind beibehalten. Gestrichene Wörter sind weggelassen, wie überall in dieser Edition. Das Russische behält seine alte Rechtschreibung (ѣ, і, ъ). Der Herausgeber hat die Lesung noch nicht geprüft.
+Eine Transkription gab es nicht. Ein KI-Modell (Claude) las das Heft und das Blatt von den Fotografien, Zeile für Zeile, jede Seite in drei vergrößerten Streifen. Nicht gelesene Wörter sind mit „[?]“ markiert; unsicher gelesene tragen „?“ in eckigen Klammern; wo nur einige Buchstaben gelesen wurden, stehen diese. Es gab 68 solche Zeichen. Der Herausgeber las danach 17 davon, die, auf denen ein Name, ein Ort, eine Überschrift oder der Sinn einer Notiz beruht, auf einem Blatt, das jedes neben einem Bild seiner Zeile zeigt, und klärte oder änderte 13 davon; 55 Zeichen bleiben. Ein am Zeilenende getrenntes Wort endet mit „¬“. Breyers Trennzeichen zwischen den Notizen, ein kurzer Strich mit einem kleinen Kreis, sind beibehalten. Gestrichene Wörter sind weggelassen, wie überall in dieser Edition. Das Russische behält seine alte Rechtschreibung (ѣ, і, ъ). Den Rest der Lesung hat der Herausgeber nicht geprüft.
 
 ### Gliederung und Datierung
 
