@@ -25,6 +25,7 @@ TRANS = {
 # whole words in a name cell, before transliteration
 WORDS = [
     (r'\bНасл(?:ѣд)?\.', 'heirs of'), (r'\bНас\.', 'heirs of'), (r'\bВдова\b', 'widow'), (r'\bвдова\b', 'widow'),
+    (r'(\w+)\[\?\]', r'[uncertain: \1]'),   # a word read with doubt in the editor's form, "nur[?]"
     (r'\bсынъ\b', 'son'), (r'\bм\.$', 'Morgen'), (r'(?<=\d) м\.', ' Morgen'), (r'\bWdowa\b', 'Widow'),
 ]
 
@@ -113,7 +114,7 @@ Kalisz governorate board renamed,
 29 Sept. 1892
 Emilienheim to the local
 name Mikhalinova.
-Entered [uncertain: j. Wloch] in April 1892''',
+Entered, however, in April 1892''',
  (5, '5169_a2'): '''All the peasants of the village of the Łazińsk
 Hollanders have the right:
 1) to graze all their [uncertain: paleny] cattle

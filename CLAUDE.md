@@ -117,7 +117,7 @@ so check them.
   one page by cut edges (`EDGES` in its `holding.py`). It and Breyer's copies
   of the tables in -/716 stand in the new era `liquidation` (editor,
   working name). Read `units/apl399806603/notes.md` first. With -/716 the
-  edition's figures count it: 589 documents, 42 holdings, 891 marks.
+  edition's figures count it: 589 documents, 42 holdings, 882 marks.
 - **One holding is built and committed but NOT published** (added
   2026-10-14): **APP 53/968/0/-/716** (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet

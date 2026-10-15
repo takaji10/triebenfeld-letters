@@ -60,7 +60,7 @@ the picture: the lines are vertical only.
 
 ## The reading
 
-55 marks of doubt (68 before the editor's answers). The tables follow the edition's convention (number
+46 marks of doubt (68 before the editor's answers on two sheets). The tables follow the edition's convention (number
 first, name second; abbreviated numbers in full; the copyist's dash after
 a name dropped; a heading repeated on a page given once). In the Łazińsk
 table Breyer's pencil of 1875 stands in the name cell after " — ".
@@ -101,6 +101,16 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
   first name of the forestry plan on 5172_a1, read Вдовьiй боръ, which may
   be Вельскiй боръ, the forest of the Orliny servitudes (s47). The picture
   of s46 suggests напоръ is broken across two lines ("на-" / "поръ").
+- **The editor's answers on the second sheet** (2026-10-15, 18 of 47 rows;
+  kept in `intake/readings2_answers.json`): Дикгофъ, Диконфъ, Кинастъ,
+  Обстъ, Готтлибъ and Дет. read without doubt; "Eingeschrieben jedoch"
+  (not "j. Wloch"); Цельмеръ Готф. (not Фр.); Шмехель, Schmechel (not
+  [Шменель?]); "nur[?]" for [пол.?] twice, the editor's form for a word read
+  with doubt, which the English gives as "[uncertain: nur]". Kept with their
+  doubt: [Мар.?], [Брушк.?], [Франц.?], [Бромке?], [Геп.?], [Пашка?],
+  [Торно?]. The answered rows are taken off the sheet (`ANSWERED` in
+  `spot_sheet2.py`); 30 rows remain, with s20 and a new row s48 giving the
+  original's плахтами and наличный (APŁ 39/98/0/-/6603, document 2).
 
 ## The English
 

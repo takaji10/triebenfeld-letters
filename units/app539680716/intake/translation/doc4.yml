@@ -48,7 +48,7 @@ pages:
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: '16,Merzh Krist. — Kar. 16-125,23,125
 
     17,Merzh Mart. — Krist.,8,293
@@ -57,11 +57,11 @@ pages:
 
     19,Stirtsenbekher Kris.,15,24
 
-    20,Sannikovskii Ivan — [uncertain: pol.] 14; 10 Morgen,27,187
+    20,Sannikovskii Ivan — [uncertain: nur] 14; 10 Morgen,27,187
 
     21,heirs of Goske Karla,25,129
 
-    22,Bludzinskii Iv. — Dan. [uncertain: Kinast],9,294
+    22,Bludzinskii Iv. — Dan. Kinast,9,294
 
     23,Shmigelskii Vilg. — 31-70; 18 Karl Morits,49,70
 
@@ -69,7 +69,7 @@ pages:
 
     25,Prominst Shchepan,13,87
 
-    26,Runga Voitsekh — [uncertain: pol.] 18; Runga Voits. 18,36,222
+    26,Runga Voitsekh — [uncertain: nur] 18; Runga Voits. 18,36,222
 
     27,heirs of Runga Gotfr.,18,65
 
@@ -83,7 +83,7 @@ pages:
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: '31,Knakfus Vilg. — Gotl.,1,196
 
     32,heirs of Runge Voits. — Gotl.,5,135
@@ -96,7 +96,7 @@ pages:
 
     36,Fridenberg Kristof — Ed. [uncertain: Bromke],19,220
 
-    37,[uncertain: Tselmer Fr.] — Shults Frid.,26,14
+    37,Tselmer Gotf. — Shults Frid.,26,14
 
     38,Malinovskii Petr — + 7,5,277
 
@@ -118,7 +118,7 @@ pages:
   flagged: []
 - page: 5
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: '46,Kun Gotfr.,38,61
 
     47,Bandzert Morits — Dan. Zeer,36,135
@@ -147,13 +147,13 @@ pages:
 
     59,Gints Liudv. — 39-245,16,287
 
-    60,Shtark [uncertain: Det.],8,187'
+    60,Shtark Det.,8,187'
   names: []
   numbers: []
   flagged: []
 - page: 6
   confidence: high
-  marker_count: 4
+  marker_count: 2
   en: '61,Kinast Voits. — widow,52,97
 
     62,Kusman Gotl.,2,66
@@ -174,13 +174,13 @@ pages:
 
     70,Morits Gotfr. — widow,54,292
 
-    71,[uncertain: Obst] Vilg. — 2 ×,5,272
+    71,Obst Vilg. — 2 ×,5,272
 
     72,Reikh Kristiian,28,297
 
     73,Shvebs Ivan — Ern. [uncertain: Torno],12,221
 
-    74,Khaupt Gotl. — Ferd. [uncertain: Shmenel],8,124
+    74,Khaupt Gotl. — Ferd. Shmekhel,8,124
 
     75,Khaupt Gotfr.,31,98'
   names: []
@@ -188,7 +188,7 @@ pages:
   flagged: []
 - page: 7
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: '76,Khaupt Kristian Kristianov,13,33
 
     77,Khaupt Gotfridov Kristiian,12,48
@@ -215,7 +215,7 @@ pages:
 
     87,German Voitsekh — 2,1,218
 
-    88,heirs of Tarnovskii Mikh. — [uncertain: Gottlib] Gotl.,2,30
+    88,heirs of Tarnovskii Mikh. — Gottlib Gotl.,2,30
 
     89,Rogovich Martsin — [uncertain: Bentsler],–,193
 

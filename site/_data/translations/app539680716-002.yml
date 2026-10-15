@@ -78,7 +78,7 @@ segments:
 
     25,Kintsel Fr.,–,6-40
 
-    26,[uncertain: Dikgof] Gotl.,33,4-283'
+    26,Dikgof Gotl.,33,4-283'
   html: '<div class="ledger-wrap"><table class="ledger">
 
     <thead><tr><th rowspan="2" class="no"></th><th rowspan="2" class="name">Emilienheim</th><th colspan="1"
@@ -100,12 +100,12 @@ segments:
     Gotl.</td><td class="num">5</td><td class="num">10-217</td></tr><tr><td class="no">23</td><td class="name">Kriger
     Daniil</td><td class="num">11</td><td class="num">10-94</td></tr><tr><td class="no">24</td><td class="name">Shurek
     Avg.</td><td class="num">–</td><td class="num">16-79</td></tr><tr><td class="no">25</td><td class="name">Kintsel
-    Fr.</td><td class="num">–</td><td class="num">6-40</td></tr><tr><td class="no">26</td><td class="name">[uncertain:
-    Dikgof] Gotl.</td><td class="num">33</td><td class="num">4-283</td></tr></tbody>
+    Fr.</td><td class="num">–</td><td class="num">6-40</td></tr><tr><td class="no">26</td><td class="name">Dikgof
+    Gotl.</td><td class="num">33</td><td class="num">4-283</td></tr></tbody>
 
     </table></div>'
 - page: 3
-  en: '27,[uncertain: Dikonf] Gotfr.,,3-74
+  en: '27,Dikonf Gotfr.,,3-74
 
     28,Shteinbart Mikh.,,5-90
 
@@ -145,17 +145,16 @@ segments:
 
     <tr><th class="num">Morgen</th><th class="num">Morgen, rods</th></tr></thead>
 
-    <tbody><tr><td class="no">27</td><td class="name">[uncertain: Dikonf] Gotfr.</td><td class="num"></td><td
-    class="num">3-74</td></tr><tr><td class="no">28</td><td class="name">Shteinbart Mikh.</td><td class="num"></td><td
-    class="num">5-90</td></tr><tr><td class="no">29</td><td class="name">Shtiltser Kris.</td><td class="num"></td><td
-    class="num">3-120</td></tr><tr><td class="no">30</td><td class="name">Leman Fr.</td><td class="num"></td><td
-    class="num">3-150</td></tr><tr><td class="no">31</td><td class="name">Tsilke Mikh.</td><td class="num"></td><td
-    class="num">3-150</td></tr><tr><td class="no">32</td><td class="name">Shmidt Gotfr.</td><td class="num"></td><td
-    class="num">2-</td></tr><tr><td class="no">33</td><td class="name">Esse Mikh.</td><td class="num"></td><td
-    class="num">3-150</td></tr><tr><td class="no">34</td><td class="name">Shtreze Ian</td><td class="num"></td><td
-    class="num">3-</td></tr><tr><td class="no">35</td><td class="name">Sheinfish Avg.</td><td class="num"></td><td
-    class="num">2-138</td></tr><tr><td class="no">36</td><td class="name">Neiman Liudv.</td><td class="num"></td><td
-    class="num">4-205</td></tr></tbody>
+    <tbody><tr><td class="no">27</td><td class="name">Dikonf Gotfr.</td><td class="num"></td><td class="num">3-74</td></tr><tr><td
+    class="no">28</td><td class="name">Shteinbart Mikh.</td><td class="num"></td><td class="num">5-90</td></tr><tr><td
+    class="no">29</td><td class="name">Shtiltser Kris.</td><td class="num"></td><td class="num">3-120</td></tr><tr><td
+    class="no">30</td><td class="name">Leman Fr.</td><td class="num"></td><td class="num">3-150</td></tr><tr><td
+    class="no">31</td><td class="name">Tsilke Mikh.</td><td class="num"></td><td class="num">3-150</td></tr><tr><td
+    class="no">32</td><td class="name">Shmidt Gotfr.</td><td class="num"></td><td class="num">2-</td></tr><tr><td
+    class="no">33</td><td class="name">Esse Mikh.</td><td class="num"></td><td class="num">3-150</td></tr><tr><td
+    class="no">34</td><td class="name">Shtreze Ian</td><td class="num"></td><td class="num">3-</td></tr><tr><td
+    class="no">35</td><td class="name">Sheinfish Avg.</td><td class="num"></td><td class="num">2-138</td></tr><tr><td
+    class="no">36</td><td class="name">Neiman Liudv.</td><td class="num"></td><td class="num">4-205</td></tr></tbody>
 
     <tfoot><tr><td class="no"></td><td class="name">The village headman&#x27;s plot</td><td class="num"></td><td
     class="num">2-257</td></tr><tr><td class="no"></td><td class="name">School farmstead</td><td class="num"></td><td

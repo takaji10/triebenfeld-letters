@@ -24,13 +24,13 @@
 17,Мержъ Март. — Крист.,8,293
 18,Санниковскій Осипъ — [Франц.?],27,244
 19,Стирценбехеръ Крис.,15,24
-20,Санниковскій Иванъ — [пол.?] 14; 10 м.,27,187
+20,Санниковскій Иванъ — nur[?] 14; 10 м.,27,187
 21,Насл. Госке Карла,25,129
-22,Блудзинскій Ив. — Дан. [Кинастъ?],9,294
+22,Блудзинскій Ив. — Дан. Кинастъ,9,294
 23,Шмигельскій Вильг. — 31-70; 18 Карлъ Морицъ,49,70
 24,Насл. Рогацкаго Петра — Пав. 15; Вдова Рогацк. 15,30,235
 25,Проминстъ Щепанъ,13,87
-26,Рунга Войцѣхъ — [пол.?] 18; Рунга Войц. 18,36,222
+26,Рунга Войцѣхъ — nur[?] 18; Рунга Войц. 18,36,222
 27,Насл. Рунга Готфр.,18,65
 28,Фалькенбергъ Март.,41,94
 29,Госка Осипъ — + 3 м.,15,184
@@ -41,7 +41,7 @@
 34,Рунге Март.,2,115
 35,Китке Кристіянъ — Адлеръ Вильг.,6,46
 36,Фриденбергъ Кристофъ — Эд. [Бромке?],19,220
-37,[Цельмеръ Фр.?] — Шульцъ Фрид.,26,14
+37,Цельмеръ Готф. — Шульцъ Фрид.,26,14
 38,Малиновскій Петръ — + 7,5,277
 39,Хауптъ Францъ — Крист. сынъ; + 2 м.,13,174
 40,Швебсъ Кар. — Сам. Штильцеръ,4,168
@@ -64,7 +64,7 @@
 57,Бартель Карл. Людв. — Вильг.,6,68
 58,Госке Войцѣхъ,16,147
 59,Гинцъ Людв. — 39-245,16,287
-60,Штаркъ [Дет.?],8,187
+60,Штаркъ Дет.,8,187
 61,Кинастъ Войц. — Вдова,52,97
 62,Кусманъ Готл.,2,66
 63,Нас. Кинастъ Войц. — Готф.,15,192
@@ -75,10 +75,10 @@
 68,Липельтъ Март. — Генр. Рунга,14,121
 69,Готтеръ Авг. — Кар. [Пашка?],19,64
 70,Морицъ Готфр. — Вдова,54,292
-71,[Обстъ?] Вильг. — 2 ×,5,272
+71,Обстъ Вильг. — 2 ×,5,272
 72,Рейхъ Кристіянъ,28,297
 73,Швебсъ Иванъ — Эрн. [Торно?],12,221
-74,Хауптъ Готл. — Ферд. [Шменель?],8,124
+74,Хауптъ Готл. — Ферд. Шмехель,8,124
 75,Хауптъ Готфр.,31,98
 76,Хауптъ Кристьянъ Кристьяновъ,13,33
 77,Хауптъ Готфридовъ Кристіянъ,12,48
@@ -93,7 +93,7 @@
 86,Хауптъ Готфр. — Фр. Хиршъ,4,37
 86,Хауптъ Вильг. — 2,14,179
 87,Германъ Войцѣхъ — 2,1,218
-88,Нас. Тарновскій Мих. — [Готтлибъ?] Готл.,2,30
+88,Нас. Тарновскій Мих. — Готтлибъ Готл.,2,30
 89,Роговичъ Марцинъ — [Бенцлеръ?],–,193
 90,Марыльскій Ив.,5,98
 ,Усадьба сельск. шк.,20,218
@@ -139,13 +139,13 @@ Albert Breyer's Russian copy of the liquidation table of the colony of Łazińsk
 17,Merzh Mart. — Krist.,8,293
 18,Sannikovskii Osip — [uncertain: Frants.],27,244
 19,Stirtsenbekher Kris.,15,24
-20,Sannikovskii Ivan — [uncertain: pol.] 14; 10 Morgen,27,187
+20,Sannikovskii Ivan — [uncertain: nur] 14; 10 Morgen,27,187
 21,heirs of Goske Karla,25,129
-22,Bludzinskii Iv. — Dan. [uncertain: Kinast],9,294
+22,Bludzinskii Iv. — Dan. Kinast,9,294
 23,Shmigelskii Vilg. — 31-70; 18 Karl Morits,49,70
 24,heirs of Rogatskago Petra — Pav. 15; widow Rogatsk. 15,30,235
 25,Prominst Shchepan,13,87
-26,Runga Voitsekh — [uncertain: pol.] 18; Runga Voits. 18,36,222
+26,Runga Voitsekh — [uncertain: nur] 18; Runga Voits. 18,36,222
 27,heirs of Runga Gotfr.,18,65
 28,Falkenberg Mart.,41,94
 29,Goska Osip — + 3 Morgen,15,184
@@ -157,7 +157,7 @@ Albert Breyer's Russian copy of the liquidation table of the colony of Łazińsk
 34,Runge Mart.,2,115
 35,Kitke Kristiian — Adler Vilg.,6,46
 36,Fridenberg Kristof — Ed. [uncertain: Bromke],19,220
-37,[uncertain: Tselmer Fr.] — Shults Frid.,26,14
+37,Tselmer Gotf. — Shults Frid.,26,14
 38,Malinovskii Petr — + 7,5,277
 39,Khaupt Frants — Krist. son; + 2 Morgen,13,174
 40,Shvebs Kar. — Sam. Shtiltser,4,168
@@ -181,7 +181,7 @@ Albert Breyer's Russian copy of the liquidation table of the colony of Łazińsk
 57,Bartel Karl. Liudv. — Vilg.,6,68
 58,Goske Voitsekh,16,147
 59,Gints Liudv. — 39-245,16,287
-60,Shtark [uncertain: Det.],8,187
+60,Shtark Det.,8,187
 
 61,Kinast Voits. — widow,52,97
 62,Kusman Gotl.,2,66
@@ -193,10 +193,10 @@ Albert Breyer's Russian copy of the liquidation table of the colony of Łazińsk
 68,Lipelt Mart. — Genr. Runga,14,121
 69,Gotter Avg. — Kar. [uncertain: Pashka],19,64
 70,Morits Gotfr. — widow,54,292
-71,[uncertain: Obst] Vilg. — 2 ×,5,272
+71,Obst Vilg. — 2 ×,5,272
 72,Reikh Kristiian,28,297
 73,Shvebs Ivan — Ern. [uncertain: Torno],12,221
-74,Khaupt Gotl. — Ferd. [uncertain: Shmenel],8,124
+74,Khaupt Gotl. — Ferd. Shmekhel,8,124
 75,Khaupt Gotfr.,31,98
 
 76,Khaupt Kristian Kristianov,13,33
@@ -212,7 +212,7 @@ Albert Breyer's Russian copy of the liquidation table of the colony of Łazińsk
 86,Khaupt Gotfr. — Fr. Khirsh,4,37
 86,Khaupt Vilg. — 2,14,179
 87,German Voitsekh — 2,1,218
-88,heirs of Tarnovskii Mikh. — [uncertain: Gottlib] Gotl.,2,30
+88,heirs of Tarnovskii Mikh. — Gottlib Gotl.,2,30
 89,Rogovich Martsin — [uncertain: Bentsler],–,193
 90,Marylskii Iv.,5,98
 ,Farmstead of the village school,20,218

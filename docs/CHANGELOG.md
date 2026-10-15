@@ -1939,6 +1939,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The State Archive in Łódź in the repositories and on the credits page, and the Central Archives of Historical Records, which was missing from the credits. Two new relation kinds, "Copy of" and "Entered in".
 - Figures: 589 documents on 1,974 pages in 42 holdings, five archives; 891 marks of doubt; 584 translated. Not published.
 
+## APP 53/968/0/-/716: the editor's answers on the second sheet (2026-10-15)
+
+- 18 of the 47 readings answered and worked in: Дикгофъ, Диконфъ, Кинастъ, Обстъ, Готтлибъ, Дет., "Eingeschrieben jedoch", Цельмеръ Готф., Шмехель (Schmechel), and "nur[?]" twice. 46 marks of doubt remain in the notebook, 882 in the edition. The other 30 rows stay on the sheet, with two words the original table of 1869 now settles (плахтами, наличный) put to the editor.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

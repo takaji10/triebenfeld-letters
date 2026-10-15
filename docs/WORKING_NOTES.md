@@ -671,6 +671,19 @@ Where the rest is:
   holdings' scripts); `courtbook.correct` and `write_pages` do not know a
   cover and would drop it.
 
+- **The editor writes a word read with doubt as "nur[?]"**, the word with
+  "[?]" after it (and "Polzfu[h?]l" for one letter). Keep their form in the
+  text; the English needs a rule that turns it into "[uncertain: nur]"
+  before "[?]" becomes "[illegible]" (716's `english716.WORDS`).
+- **Answered rows come off a spot sheet** when the sheet is made again:
+  their words have changed, so the sheet script can no longer find them.
+  Copy the answers file into the holding's `intake/` first and list the
+  answered keys in the script (716's `spot_sheet2.ANSWERED`). A note in a
+  row without a choice ("Should be Schmechel") is an answer too.
+- **When an original turns up for a copy already in the edition**, read the
+  copy's doubtful words against it and put them to the editor; do not
+  change the copy's text to the original's (Breyer's [паленный?] and
+  [тлахтами?] against "наличный" and "плахтами" in APŁ 39/98/0/-/6603).
 - **Page ids must read `NNNN_[a-h]`** (`match_scans.py`): a capture
   number of four digits and a side. "000" or "013_014" do not parse, the
   scan mapping finds no images and the build stops in `write_inventory`

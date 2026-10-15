@@ -64,8 +64,10 @@ ROWS = [
      T4 + ', no. 88. ' + P4 + ': "... Gottl.", the first word read Готтлибъ (Gottlib) with doubt.'),
     ('s19', 4, '5169_a1', '[Бенцлеръ?]', '[Бенцлеръ?]', '[Бенцлеръ?]|Бенцлеръ',
      T4 + ', no. 89. ' + P4 + ': read Бенцлеръ (Bentsler, Benzler) with doubt.'),
-    ('s20', 5, '5170_a1', '[тлахтами?]', '[тлахтами?]', '[тлахтами?]|тлахтами',
-     'Breyer\'s copy of the Łazińsk servitudes: "to carry away what is gathered ...". The last word, how the wood is carried, read тлахтами (tlakhtami) with doubt.'),
+    ('s20', 5, '5170_a1', '[тлахтами?]', '[тлахтами?]', '[тлахтами?]|плахтами|тлахтами',
+     'Breyer\'s copy of the Łazińsk servitudes: "to carry away what is gathered ...". The last word, how the wood is carried, read тлахтами (tlakhtami) with doubt. The original copy of 1869 (APŁ 39/98/0/-/6603, document 2) has плахтами (plakhtami, "in sheets of cloth"); choose it if Breyer\'s hand allows.'),
+    ('s48', 5, '5169_a2', '[паленный?]', '[паленный?]', '[паленный?]|наличный',
+     'Asked again: the same servitudes, "to graze all their ... cattle". You kept паленный (palennyi) with doubt on the first sheet; the original copy of 1869 has наличный (nalichnyi, "the cattle they have"), which Breyer was copying. Choose it if his hand allows.'),
     ('s21', 8, '5172_a1', '[Бредъ?]', '[Бредъ?]', '[Бредъ?]|Бредъ',
      'Breyer\'s notes of 1935, on Orliny: a word on its own line after "4 Morgen of waste land", read Бредъ (Bred) with doubt.'),
     ('s22', 8, '5172_a1', '[Гедпаръ?]', '[Гедпаръ?]', '[Гедпаръ?]|Гедпаръ',
@@ -123,9 +125,14 @@ ROWS = [
 ]
 SHIFT = {'s02': 2, 's03': -1, 's08': 1, 's09': 0.7, 's13': 1.5, 's16': 1, 's17': 1, 's22': 1.3, 's23': 2.5,
          's24': 3, 's30': 1, 's32': 1, 's33': 1, 's34': 2, 's35': 3.5, 's36': 4, 's38': 1, 's39': 0.5,
-         's40': 1, 's42': 1.5, 's43': 2, 's44': 1, 's45': 1.5, 's46': 0.3, 's47': 2}
+         's40': 1, 's42': 1.5, 's43': 2, 's44': 1, 's45': 1.5, 's46': 0.3, 's47': 2, 's48': 2}
 # s31 stands in the narrow right-hand column at the top of the page
 BOX = {'s31': (0.17, 0.12)}
 
+# Answered by the editor on 2026-10-15 and worked in (intake/readings2_answers.json
+# keeps their answers); taken off the sheet, as their words have changed.
+ANSWERED = {'s01', 's02', 's03', 's04', 's05', 's06', 's07', 's08', 's09', 's10', 's11', 's12', 's13',
+            's14', 's15', 's16', 's17', 's18'}
+
 if __name__ == '__main__':
-    spot_sheet.main(ROWS, SHIFT, BOX, 'readings2.csv')
+    spot_sheet.main([r for r in ROWS if r[0] not in ANSWERED], SHIFT, BOX, 'readings2.csv')

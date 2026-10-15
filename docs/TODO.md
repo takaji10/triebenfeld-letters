@@ -461,7 +461,9 @@ copies. Details: `units/app539680716/notes.md`.
       send the file if you move any).
 - [x] You answered the spot sheet "Readings in Breyer's Łazińsk notebook"
       (17 rows, 2026-10-15). Worked in the same day.
-- [ ] Answer the second spot sheet "The other readings in Breyer's
+- [ ] Answer the rest of the second spot sheet (18 of 47 answered and
+      worked in, 2026-10-15; 30 open, with two words the original table
+      settles) "The other readings in Breyer's
       Łazińsk notebook" (47 rows, `python pipeline/review/queries.py --unit
       app539680716 --sheet readings2.csv --port 4102`).
 - [x] The era of the sheet of 1858 and the tables of 1868: a copy takes

@@ -33,7 +33,7 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: '11,Tsigelsdorf [uncertain: Mar.],24,22-187
 
     12,Fink Fr.,31,12-113
@@ -62,14 +62,14 @@ pages:
 
     25,Kintsel Fr.,–,6-40
 
-    26,[uncertain: Dikgof] Gotl.,33,4-283'
+    26,Dikgof Gotl.,33,4-283'
   names: []
   numbers: []
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 1
-  en: '27,[uncertain: Dikonf] Gotfr.,,3-74
+  marker_count: 0
+  en: '27,Dikonf Gotfr.,,3-74
 
     28,Shteinbart Mikh.,,5-90
 
