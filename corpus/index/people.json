@@ -51664,6 +51664,274 @@
   ]
  },
  {
+  "entity": "zelmer",
+  "display": "Zelmer",
+  "count": 28,
+  "documents": [
+   "apl399806603-1",
+   "apl399806603-2",
+   "apl399806603-6",
+   "app53150kaliszgr414-1",
+   "app539680669-1",
+   "app539680716-4",
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53150kaliszgr414-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0403_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
+    "line": 14,
+    "doc_line": 6
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 16,
+    "doc_line": 7
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Celmer",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 16,
+    "doc_line": 7
+   },
+   {
+    "uid": "apl399806603-1",
+    "surface": "Цельмеръ",
+    "page": 4,
+    "page_id": "0005_a",
+    "scan": "APL_39_98_0_6603_0005_a-L1_04.jpg",
+    "line": 54,
+    "doc_line": 49
+   },
+   {
+    "uid": "apl399806603-1",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "0007_a",
+    "scan": "APL_39_98_0_6603_0007_a-L1_05.jpg",
+    "line": 69,
+    "doc_line": 63
+   },
+   {
+    "uid": "apl399806603-1",
+    "surface": "Цельмера",
+    "page": 5,
+    "page_id": "0007_a",
+    "scan": "APL_39_98_0_6603_0007_a-L1_05.jpg",
+    "line": 72,
+    "doc_line": 66
+   },
+   {
+    "uid": "apl399806603-1",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "0007_a",
+    "scan": "APL_39_98_0_6603_0007_a-L1_05.jpg",
+    "line": 84,
+    "doc_line": 78
+   },
+   {
+    "uid": "apl399806603-1",
+    "surface": "Цельмеръ",
+    "page": 6,
+    "page_id": "0009_a",
+    "scan": "APL_39_98_0_6603_0009_a-L1_06.jpg",
+    "line": 88,
+    "doc_line": 81
+   },
+   {
+    "uid": "app539680716-4",
+    "surface": "Цельмеръ",
+    "page": 4,
+    "page_id": "5166_a2",
+    "scan": "APP_53_968_0_716_5166_a2-L4_04.jpg",
+    "line": 157,
+    "doc_line": 40
+   },
+   {
+    "uid": "app539680716-4",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "5167_a1",
+    "scan": "APP_53_968_0_716_5167_a1-L4_05.jpg",
+    "line": 171,
+    "doc_line": 53
+   },
+   {
+    "uid": "app539680716-4",
+    "surface": "Цельмера",
+    "page": 5,
+    "page_id": "5167_a1",
+    "scan": "APP_53_968_0_716_5167_a1-L4_05.jpg",
+    "line": 174,
+    "doc_line": 56
+   },
+   {
+    "uid": "app539680716-4",
+    "surface": "Цельмеръ",
+    "page": 6,
+    "page_id": "5167_a2",
+    "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+    "line": 187,
+    "doc_line": 68
+   },
+   {
+    "uid": "app539680716-4",
+    "surface": "Цельмеръ",
+    "page": 6,
+    "page_id": "5167_a2",
+    "scan": "APP_53_968_0_716_5167_a2-L4_06.jpg",
+    "line": 189,
+    "doc_line": 70
+   },
+   {
+    "uid": "apl399806603-2",
+    "surface": "Цельмеръ",
+    "page": 4,
+    "page_id": "0020_a",
+    "scan": "APL_39_98_0_6603_0020_a-L2_04.jpg",
+    "line": 192,
+    "doc_line": 53
+   },
+   {
+    "uid": "apl399806603-2",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "0022_a",
+    "scan": "APL_39_98_0_6603_0022_a-L2_05.jpg",
+    "line": 206,
+    "doc_line": 66
+   },
+   {
+    "uid": "apl399806603-2",
+    "surface": "Цельмера",
+    "page": 5,
+    "page_id": "0022_a",
+    "scan": "APL_39_98_0_6603_0022_a-L2_05.jpg",
+    "line": 209,
+    "doc_line": 69
+   },
+   {
+    "uid": "apl399806603-2",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "0022_a",
+    "scan": "APL_39_98_0_6603_0022_a-L2_05.jpg",
+    "line": 221,
+    "doc_line": 81
+   },
+   {
+    "uid": "apl399806603-2",
+    "surface": "Цельмеръ",
+    "page": 5,
+    "page_id": "0022_a",
+    "scan": "APL_39_98_0_6603_0022_a-L2_05.jpg",
+    "line": 223,
+    "doc_line": 83
+   },
+   {
+    "uid": "apl399806603-6",
+    "surface": "Цельмеръ",
+    "page": 2,
+    "page_id": "0035_a",
+    "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+    "line": 424,
+    "doc_line": 42
+   },
+   {
+    "uid": "apl399806603-6",
+    "surface": "Цельмеръ",
+    "page": 2,
+    "page_id": "0035_a",
+    "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+    "line": 437,
+    "doc_line": 55
+   },
+   {
+    "uid": "apl399806603-6",
+    "surface": "Цельмера",
+    "page": 2,
+    "page_id": "0035_a",
+    "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+    "line": 440,
+    "doc_line": 58
+   },
+   {
+    "uid": "apl399806603-6",
+    "surface": "Цельмеръ",
+    "page": 2,
+    "page_id": "0035_a",
+    "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+    "line": 452,
+    "doc_line": 70
+   },
+   {
+    "uid": "apl399806603-6",
+    "surface": "Цельмеръ",
+    "page": 2,
+    "page_id": "0035_a",
+    "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+    "line": 454,
+    "doc_line": 72
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Zelmer",
+    "page": 17,
+    "page_id": "0009_a2",
+    "scan": "APP_53_968_0_669_0009_a2-L1_17.jpg",
+    "line": 238,
+    "doc_line": 220
+   }
+  ]
+ },
+ {
   "entity": "melzer",
   "display": "Melzer",
   "count": 28,
@@ -65250,90 +65518,6 @@
     "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
     "line": 28,
     "doc_line": 19
-   }
-  ]
- },
- {
-  "entity": "zelmer",
-  "display": "Zelmer",
-  "count": 8,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app539680669-1",
-   "app539680783-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53150kaliszgr414-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0403_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_414_0403_a1-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "APP_53_968_0_783_0005_a-L1_01.jpg",
-    "line": 14,
-    "doc_line": 6
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 16,
-    "doc_line": 7
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Celmer",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 16,
-    "doc_line": 7
-   },
-   {
-    "uid": "app539680669-1",
-    "surface": "Zelmer",
-    "page": 17,
-    "page_id": "0009_a2",
-    "scan": "APP_53_968_0_669_0009_a2-L1_17.jpg",
-    "line": 238,
-    "doc_line": 220
    }
   ]
  },

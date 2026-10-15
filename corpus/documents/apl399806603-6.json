@@ -104,7 +104,63 @@
    "doc_line_end": 106
   }
  ],
- "mentions": [],
+ "mentions": [
+  {
+   "entity": "zelmer",
+   "display": "Zelmer",
+   "kind": "person",
+   "surface": "Цельмеръ",
+   "page": 2,
+   "page_id": "0035_a",
+   "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+   "line": 424,
+   "doc_line": 42
+  },
+  {
+   "entity": "zelmer",
+   "display": "Zelmer",
+   "kind": "person",
+   "surface": "Цельмеръ",
+   "page": 2,
+   "page_id": "0035_a",
+   "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+   "line": 437,
+   "doc_line": 55
+  },
+  {
+   "entity": "zelmer",
+   "display": "Zelmer",
+   "kind": "person",
+   "surface": "Цельмера",
+   "page": 2,
+   "page_id": "0035_a",
+   "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+   "line": 440,
+   "doc_line": 58
+  },
+  {
+   "entity": "zelmer",
+   "display": "Zelmer",
+   "kind": "person",
+   "surface": "Цельмеръ",
+   "page": 2,
+   "page_id": "0035_a",
+   "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+   "line": 452,
+   "doc_line": 70
+  },
+  {
+   "entity": "zelmer",
+   "display": "Zelmer",
+   "kind": "person",
+   "surface": "Цельмеръ",
+   "page": 2,
+   "page_id": "0035_a",
+   "scan": "APL_39_98_0_6603_0035_a-L6_02.jpg",
+   "line": 454,
+   "doc_line": 72
+  }
+ ],
  "mentions_english": [],
  "place_canonical": "Unknown",
  "place_mentions": [],

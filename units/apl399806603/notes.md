@@ -73,10 +73,11 @@ line (no. 11 22, no. 44 53) or are plain (no. 87 1-288). What Breyer did
 write otherwise: Мержъ for Мерцъ, Скипковскій for Саниковскій (no. 9),
 Кнакфусъ, Штирценбекеръ, Кинастъ Эман. for Матеушъ (no. 43), and other
 names; at the editor's word (2026-10-15) his names in 716 now follow this
-table's spelling (716's notes list them). His figures stand as he wrote
-them: no. 12 222 rods (original 122), no. 29 184 (188), no. 46
-38-61 (66, written over a struck 42-99), nos. 47 and 48 in the other order,
-and тлахтами for плахтами in the servitudes.
+table's spelling (716's notes list them). The figures in 716 follow this
+table too (the editor: "the authority with the numbers"): no. 12 was read
+222 rods (original 122), no. 29 184 (188), no. 46 38-61 (66, written over a
+struck 42-99), and nos. 47 and 48 stood in the other order. Breyer's
+тлахтами for плахтами in the servitudes stands as he wrote it.
 
 **Zelmer is always written with m** (the editor, 2026-10-15: "there's
 no Zelner, ever in this project"): Цельмеръ at nos. 37, 50, 53, 65 and 67

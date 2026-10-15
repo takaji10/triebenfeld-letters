@@ -693,9 +693,12 @@ Where the rest is:
   2026-10-15: "Don't use Breyer's spelling, standardise it to the actual
   liquidation table"). Where a copyist spelled a name otherwise than the
   original does, the text gives the original's spelling; list what the
-  copyist wrote in the holding's notes and say so on its process page. The
-  ruling is about names: the copyist's figures stay as written unless the
-  editor says otherwise.
+  copyist wrote in the holding's notes and say so on its process page.
+  **The original is the authority for the figures too** (the editor, the
+  same day: "you may have transcribed Breyer's incorrectly, or he might
+  have made mistakes"). I had kept a copyist's figures where they differed,
+  reading the ruling on names narrowly; when an original exists, compare
+  every figure and give the original's.
 - **The editor writes a word read with doubt as "nur[?]"**, the word with
   "[?]" after it (and "Polzfu[h?]l" for one letter). Keep their form in the
   text; the English needs a rule that turns it into "[uncertain: nur]"

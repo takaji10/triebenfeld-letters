@@ -149,9 +149,16 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
   Шейнфишъ) and Хиршъ (86; Гиршъ). No. 19 stays Стирценбехеръ: the
   original's own reading there is in doubt. **Zelmer is always written
   with m** (the editor: "there's no Zelner, ever in this project"):
-  Цельмеръ at nos. 37, 50, 53, 65 and 67, and the same in 6603. Breyer's
-  figures still stand as he wrote them (nos. 12, 29, 46, and the order of
-  47 and 48): the ruling was about names.
+  Цельмеръ at nos. 37, 50, 53, 65 and 67, and the same in 6603.
+- **Figures follow the original too** (the editor, 2026-10-15: "The
+  original liquidation table is the authority with the numbers - you may
+  have transcribed Breyer's incorrectly, or he might have made mistakes").
+  Every figure of document 4 was compared with the original; four
+  differed and now follow it: no. 12 122 rods (read 222), no. 29 188 (read
+  184), no. 46 38-66 (read 38-61, written over a struck 42-99), and nos.
+  47 and 48 in the original's order and numbering (Breyer: 47 Бандзертъ,
+  48 Зееръ; each row keeps its name, figures and pencil). Whether these
+  were Breyer's slips or misreadings is not decided.
 
 ## The English
 

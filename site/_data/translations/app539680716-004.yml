@@ -39,7 +39,7 @@ segments:
 
     11,Grunvald Krist.,22,273
 
-    12,Slivinskii Gotl. — Gotl. Kinast,14,222
+    12,Slivinskii Gotl. — Gotl. Kinast,14,122
 
     13,Shteinbord Iul.,17,75
 
@@ -64,7 +64,7 @@ segments:
     class="num">22</td></tr><tr><td class="no">10</td><td class="name">Marek Vilg. — Merts</td><td class="num">32</td><td
     class="num">179</td></tr><tr><td class="no">11</td><td class="name">Grunvald Krist.</td><td class="num">22</td><td
     class="num">273</td></tr><tr><td class="no">12</td><td class="name">Slivinskii Gotl. — Gotl. Kinast</td><td
-    class="num">14</td><td class="num">222</td></tr><tr><td class="no">13</td><td class="name">Shteinbord
+    class="num">14</td><td class="num">122</td></tr><tr><td class="no">13</td><td class="name">Shteinbord
     Iul.</td><td class="num">17</td><td class="num">75</td></tr><tr><td class="no">14</td><td class="name">Kholm
     Vilg. — [uncertain: Brushk.] Klige</td><td class="num">13</td><td class="num">280</td></tr><tr><td
     class="no">15</td><td class="name">Falk Avg.</td><td class="num">5</td><td class="num">15</td></tr></tbody>
@@ -97,7 +97,7 @@ segments:
 
     28,Falkenberg Martsin,41,94
 
-    29,Goska Osip — + 3 Morgen,15,184
+    29,Goska Osip — + 3 Morgen,15,188
 
     30,Shults Krist.,7,196'
   html: '<div class="ledger-wrap"><table class="ledger">
@@ -121,7 +121,7 @@ segments:
     class="num">222</td></tr><tr><td class="no">27</td><td class="name">heirs of Runga Gotfr.</td><td
     class="num">18</td><td class="num">65</td></tr><tr><td class="no">28</td><td class="name">Falkenberg
     Martsin</td><td class="num">41</td><td class="num">94</td></tr><tr><td class="no">29</td><td class="name">Goska
-    Osip — + 3 Morgen</td><td class="num">15</td><td class="num">184</td></tr><tr><td class="no">30</td><td
+    Osip — + 3 Morgen</td><td class="num">15</td><td class="num">188</td></tr><tr><td class="no">30</td><td
     class="name">Shults Krist.</td><td class="num">7</td><td class="num">196</td></tr></tbody>
 
     </table></div>'
@@ -180,11 +180,11 @@ segments:
 
     </table></div>'
 - page: 5
-  en: '46,Kun Gotfr.,38,61
+  en: '46,Kun Gotfr.,38,66
 
-    47,Bandzert Morits — Dan. Zeer,36,135
+    47,Zeer Krist. — Iv. Genke 29; [uncertain: Gep.] Zeer 13,42,99
 
-    48,Zeer Krist. — Iv. Genke 29; [uncertain: Gep.] Zeer 13,42,99
+    48,Bandzert Morits — Dan. Zeer,36,135
 
     49,Merts Avg.,33,93
 
@@ -214,19 +214,20 @@ segments:
     <thead><tr><th rowspan="1" class="no"></th><th rowspan="1" class="name">In pencil: the year 1875</th><th
     class="num">Morgen</th><th class="num">rods</th></tr></thead>
 
-    <tbody><tr><td class="no">46</td><td class="name">Kun Gotfr.</td><td class="num">38</td><td class="num">61</td></tr><tr><td
-    class="no">47</td><td class="name">Bandzert Morits — Dan. Zeer</td><td class="num">36</td><td class="num">135</td></tr><tr><td
-    class="no">48</td><td class="name">Zeer Krist. — Iv. Genke 29; [uncertain: Gep.] Zeer 13</td><td class="num">42</td><td
-    class="num">99</td></tr><tr><td class="no">49</td><td class="name">Merts Avg.</td><td class="num">33</td><td
-    class="num">93</td></tr><tr><td class="no">50</td><td class="name">Tselmer Genr.</td><td class="num">35</td><td
-    class="num">42</td></tr><tr><td class="no">51</td><td class="name">Gebel Karl. — Kr. Girsh</td><td
-    class="num">14</td><td class="num">105</td></tr><tr><td class="no">52</td><td class="name">Shmigelskii
-    Sam. — Kar. Kholm</td><td class="num">14</td><td class="num">13</td></tr><tr><td class="no">53</td><td
-    class="name">heirs of Tselmera Dan. — Avg. Shmigel</td><td class="num">12</td><td class="num">60</td></tr><tr><td
-    class="no">54</td><td class="name">Bitner Andr. — Vil. Kovalski</td><td class="num">30</td><td class="num">115</td></tr><tr><td
-    class="no">55</td><td class="name">Rytamer Anton. — Gotfr.</td><td class="num">13</td><td class="num">142</td></tr><tr><td
-    class="no">56</td><td class="name">Przhistanskii Ant.</td><td class="num">5</td><td class="num">59</td></tr><tr><td
-    class="no">57</td><td class="name">Bartel Karl. Liudv. — Vilg.</td><td class="num">6</td><td class="num">68</td></tr><tr><td
+    <tbody><tr><td class="no">46</td><td class="name">Kun Gotfr.</td><td class="num">38</td><td class="num">66</td></tr><tr><td
+    class="no">47</td><td class="name">Zeer Krist. — Iv. Genke 29; [uncertain: Gep.] Zeer 13</td><td class="num">42</td><td
+    class="num">99</td></tr><tr><td class="no">48</td><td class="name">Bandzert Morits — Dan. Zeer</td><td
+    class="num">36</td><td class="num">135</td></tr><tr><td class="no">49</td><td class="name">Merts Avg.</td><td
+    class="num">33</td><td class="num">93</td></tr><tr><td class="no">50</td><td class="name">Tselmer
+    Genr.</td><td class="num">35</td><td class="num">42</td></tr><tr><td class="no">51</td><td class="name">Gebel
+    Karl. — Kr. Girsh</td><td class="num">14</td><td class="num">105</td></tr><tr><td class="no">52</td><td
+    class="name">Shmigelskii Sam. — Kar. Kholm</td><td class="num">14</td><td class="num">13</td></tr><tr><td
+    class="no">53</td><td class="name">heirs of Tselmera Dan. — Avg. Shmigel</td><td class="num">12</td><td
+    class="num">60</td></tr><tr><td class="no">54</td><td class="name">Bitner Andr. — Vil. Kovalski</td><td
+    class="num">30</td><td class="num">115</td></tr><tr><td class="no">55</td><td class="name">Rytamer
+    Anton. — Gotfr.</td><td class="num">13</td><td class="num">142</td></tr><tr><td class="no">56</td><td
+    class="name">Przhistanskii Ant.</td><td class="num">5</td><td class="num">59</td></tr><tr><td class="no">57</td><td
+    class="name">Bartel Karl. Liudv. — Vilg.</td><td class="num">6</td><td class="num">68</td></tr><tr><td
     class="no">58</td><td class="name">Goske Voitsekh</td><td class="num">16</td><td class="num">147</td></tr><tr><td
     class="no">59</td><td class="name">Gints Liudv. — 39-245</td><td class="num">16</td><td class="num">287</td></tr><tr><td
     class="no">60</td><td class="name">Shtark Daniil</td><td class="num">8</td><td class="num">157</td></tr></tbody>
