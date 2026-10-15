@@ -455,8 +455,10 @@ photos, translated, summarised and claim-checked; holding page, a timeline
 entry and paragraphs in the story. Thirteen documents since your ruling on
 copies. Details: `units/app539680716/notes.md`.
 
-- [ ] Look at the folds: `review/app539680716/folds/index.html` (placed in
-      session; save and send the file only if you move one).
+- [ ] Look at the folds and the page edges:
+      `review/app539680716/folds/index.html` (placed in session; the red
+      line is the fold, the green lines what is kept of each page; save and
+      send the file if you move any).
 - [x] You answered the spot sheet "Readings in Breyer's Łazińsk notebook"
       (17 rows, 2026-10-15). Worked in the same day.
 - [ ] Answer the second spot sheet "The other readings in Breyer's
