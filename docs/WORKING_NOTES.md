@@ -788,6 +788,12 @@ Where the rest is:
   (after `rescan_245_289.py`): text from the editor's file and the scan, the
   date, place and writer rulings, the reading record and the summaries in one
   script run once; the English as `intake/translation/doc<N>.yml`.
+- **The paid run's reading notes are a witness worth reading before re-reading a letter**
+  (9454 letter 300, 2026-10-15): `reading.json` (doubtful_words) and the translation cache
+  (`emendation_suggestions`, `flagged`) had suspected gerüffelt, zurück and kömt, and the new
+  crops confirmed all three. They are not evidence on their own, but they say where to look.
+  After re-making a letter's text, update its reading record: claim lines below an inserted
+  line move, and settled doubtful words come off (`recrop_300.py`, `reading_record`).
 - **The edition's "marks of doubt" count includes "[...]"** (lost text):
   `corpus/index/uncertainties.json` is the number the essays give. Recount
   from it, not with a regex for "[word?]" alone.

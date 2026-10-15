@@ -25412,10 +25412,10 @@
     "image": "Oe_1_Bu_9454_0015_b-L9_01.jpg"
    }
   ],
-  "uncertainty_count": 20,
+  "uncertainty_count": 21,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 1,
   "estates": [
    "koschentin",
@@ -28350,54 +28350,6 @@
   "permalink": "/documents/oe1bu9454/298/"
  },
  {
-  "uid": "oe1bu9454-300",
-  "unit": "oe1bu9454",
-  "letter_id": "300",
-  "doc_type": "letter",
-  "language": "de",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "hzan-neuenstein",
-  "date_iso": "1816-01",
-  "date_precision": "month",
-  "date_source": "signature",
-  "place": "Blizanów",
-  "sender": "von Triebenfeld",
-  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
-  "n_pages": 2,
-  "n_lines": 48,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0537_b",
-    "image": "Oe_1_Bu_9454_0537_b-L300_01.jpg"
-   },
-   {
-    "page": 2,
-    "page_id": "0538_a",
-    "image": "Oe_1_Bu_9454_0538_a-L300_02.jpg"
-   }
-  ],
-  "uncertainty_count": 25,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 7,
-  "estates": [
-   "betsche",
-   "trabczyn",
-   "kamionno"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "partly garbled",
-  "title": "letter 300",
-  "path": "documents/oe1bu9454-300.json",
-  "text_path": "text/oe1bu9454-300.txt",
-  "permalink": "/documents/oe1bu9454/300/"
- },
- {
   "uid": "oe1bu9454-299",
   "unit": "oe1bu9454",
   "letter_id": "299",
@@ -28449,6 +28401,54 @@
   "path": "documents/oe1bu9454-299.json",
   "text_path": "text/oe1bu9454-299.txt",
   "permalink": "/documents/oe1bu9454/299/"
+ },
+ {
+  "uid": "oe1bu9454-300",
+  "unit": "oe1bu9454",
+  "letter_id": "300",
+  "doc_type": "letter",
+  "language": "de",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "hzan-neuenstein",
+  "date_iso": "1816-01-20",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Blizanów",
+  "sender": "von Triebenfeld",
+  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+  "n_pages": 2,
+  "n_lines": 49,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0537_b",
+    "image": "Oe_1_Bu_9454_0537_b-L300_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0538_a",
+    "image": "Oe_1_Bu_9454_0538_a-L300_02.jpg"
+   }
+  ],
+  "uncertainty_count": 18,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 7,
+  "estates": [
+   "betsche",
+   "trabczyn",
+   "kamionno"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "partly garbled",
+  "title": "letter 300",
+  "path": "documents/oe1bu9454-300.json",
+  "text_path": "text/oe1bu9454-300.txt",
+  "permalink": "/documents/oe1bu9454/300/"
  },
  {
   "uid": "oe1bu9454-5",

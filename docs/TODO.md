@@ -491,7 +491,9 @@ single damaged leaf from Vienna, about January 1815. Read against the scan,
 translated and summarised in session. Details: `units/oe1bu9454/notes.md`,
 "Letter 9".
 
-- [ ] Answer the spot sheet "Letter 9": eleven places where the text departs
-      from your file (`python pipeline/review/queries.py --unit oe1bu9454
-      --sheet letter_9.csv --port 4104`).
+- [x] You answered the spot sheet "Letter 9" (eleven rows, 2026-10-15).
+      Worked in the same day; four marks of doubt remain.
+- [x] Letter 300 made again from your new crops and transcription
+      (2026-10-15): the restored edges settle eight readings; dated 20
+      January 1816 by the archive's pencil note.
 - [ ] Your word to publish.

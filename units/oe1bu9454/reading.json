@@ -1028,14 +1028,19 @@
   ],
   "doubtful_words": [
    {
-    "line": 5,
-    "word": "[säh?]",
-    "note": "the vowel is not clear; the sense would be \"gerne säh ich dem Patron [ins] Gesicht\""
+    "line": 4,
+    "word": "[Kedl?]",
+    "note": "a name; neither the editor nor the session can confirm it on the scan"
    },
    {
-    "line": 7,
-    "word": "[St. K. F. H.?]",
-    "note": "four initials; perhaps Staats Kanzler Fürst Hardenberg"
+    "line": 5,
+    "word": "[seie?]",
+    "note": "the editor's reading (\"Possibly\"); säh (would see) was the other reading"
+   },
+   {
+    "line": 8,
+    "word": "[weiß?]",
+    "note": "the editor cannot tell; their file had \"aus\""
    },
    {
     "line": 13,
@@ -1043,7 +1048,7 @@
     "note": "the letters as the editor read them; no word is found in them"
    }
   ],
-  "read_against": "session 2026-10-15 (intake/scripts/letter_9.py)"
+  "read_against": "session 2026-10-15 (intake/scripts/letter_9.py); the editor's spot-sheet answers (intake/scripts/spot_answers_9.py)"
  },
  "oe1bu9454-010": {
   "letter": "10",
@@ -31723,9 +31728,7 @@
      10,
      11,
      12
-    ],
-    "check": "overstated",
-    "why": "Zeilen 11-12 sagen, dass Zerboni das Gutachten mit seinem Sekretär Schmidt entwarf. Nur steht dort 'des G L. Posens'. Die Auflösung der Abkürzung als 'Großherzogtum' ist eine Deutung des verderbten Textes."
+    ]
    },
    {
     "statement": "Radziwiłł verweigerte die Mitunterschrift, weil es dem Befehl des Königs widersprach",
@@ -31746,29 +31749,29 @@
    {
     "statement": "Zerboni wurde nach Berlin geschickt",
     "lines": [
-     26
+     27
     ]
    },
    {
     "statement": "Gerücht: Senat in Petersburg soll die polnische Verfassung verworfen haben",
     "lines": [
-     30,
      31,
-     32
+     32,
+     33
     ]
    },
    {
     "statement": "Großfürst Constantin eilte nach Petersburg",
     "lines": [
-     38
+     39
     ]
    },
    {
     "statement": "Nach Rückkehr des Boten aus Sławięcice will er nach Pszczew und dann nach Berlin wegen der Entschädigung",
     "lines": [
-     39,
      40,
-     41
+     41,
+     42
     ]
    }
   ],
@@ -31776,50 +31779,30 @@
    {
     "line": 4,
     "word": "Gosztiszyn",
-    "note": "The writer spells it Gostyszyn elsewhere (doc 298)."
+    "note": "The writer spells it Gostyszyn elsewhere (doc 298); a recorded variant of the place."
    },
    {
-    "line": 9,
-    "word": "gerichtfelt",
-    "note": "Probably 'gerüffelt'."
+    "line": 11,
+    "word": "Organication",
+    "note": "Organisation; the writer's own spelling."
    },
    {
-    "line": 17,
-    "word": "zuvöd",
-    "note": "Probably 'zurück'."
+    "line": 25,
+    "word": "[wüste?]",
+    "note": "the first word of the quoted line; the old reading had \"wirten\""
    },
    {
-    "line": 30,
-    "word": "gänztig",
-    "note": "Unclear, perhaps 'gräßlich'."
-   },
-   {
-    "line": 32,
-    "word": "Cziszewska",
-    "note": "Name doubtful."
-   },
-   {
-    "line": 35,
+    "line": 36,
     "word": "aufopfar¬",
     "note": "Probably 'aufopfern'."
    },
    {
     "line": 39,
-    "word": "könne",
-    "note": "Probably 'kömt'."
-   },
-   {
-    "line": 43,
-    "word": "Ehrfurchts woll",
-    "note": "Probably 'Ehrfurchtsvoll'."
-   },
-   {
-    "line": 11,
-    "word": "Organication",
-    "note": "Organisation; may be the writer's own spelling."
+    "word": "[gegen?]",
+    "note": "the letters at the edge after \"Peterbourg\"; the old reading had \"ge[...]\""
    }
   ],
-  "read_against": "5eae7be37d6388a6"
+  "read_against": "5eae7be37d6388a6; text made again from the new crops, 2026-10-15 (intake/scripts/recrop_300.py)"
  },
  "oe1bu9454-301": {
   "letter": "301",

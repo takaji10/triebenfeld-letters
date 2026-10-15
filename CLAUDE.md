@@ -277,8 +277,11 @@ so check them.
   excepted: 121, 181, 225, 293). **Letter 9 of Oe 1 Bü 9454**, long marked
   "skipped", was added from the editor's transcription on 2026-10-15
   (`units/oe1bu9454/notes.md`, "Letter 9"; spot sheet `letter_9.csv`).
-  **Committed, not published**; with it the edition counts 885 marks of
-  doubt (17 of them its "[...]").
+  The editor answered its spot sheet the same day. **Letter 300** of the
+  same holding was made again from the editor's new crops and
+  transcription (2026-10-15, `intake/scripts/recrop_300.py`). Both
+  **committed, not published**; with them the edition counts 879 marks of
+  doubt (the count includes "[...]").
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
   2026-10-05): three documents on sixteen pages, copies made about 1930
   (papers of Albert Breyer): the Prince's power of attorney for Triebenfeld

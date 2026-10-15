@@ -357,9 +357,30 @@ reading record, summaries; its docstring lists every reading that departs from t
   `reading.json` and were put into `site/_data/summaries*.yml` by hand, as for 245 and 289.
 - **Spot sheet "Letter 9"** (`intake/scripts/spot_9.py`, `review/oe1bu9454/letter_9.csv`, port 4104):
   eleven rows where the text departs from the editor's file or keeps a reading the scan does not confirm.
-  The text stands on the first option of each until the editor answers.
+  The text stands on the first option of each until the editor answers. **Answered the same day**
+  (`intake/scripts/spot_answers_9.py`, answers in `intake/letter_9_answers.json`): seven readings
+  confirmed; St[aats]. K[anzler]. F[ürst]. H[ardenberg]. confirmed and expanded; [seie?] (the editor:
+  "seie", "Possibly"); [Kedl?] and [weiß?] (the editor cannot tell either). Four marks of doubt.
 - Adding the 17 lines moved every later line of corpus.txt by 17: line numbers recorded before this in
   `transcription_decisions.csv` for letters 10 and after are out of date, as after letter 254's move.
+
+## Letter 300: new crops (2026-10-15)
+
+The two pages of letter 300 (0537_b, 0538_a) had been cropped badly: page 1 lost its torn lower left and right
+edge, page 2 its right edge lower down. The editor cropped both again and supplied a new transcription. The record
+is `intake/scripts/recrop_300.py` (images, text, date, reading record; its docstring lists every change) and
+`intake/translation/doc300.yml` (the English, revised in session); not to be run again.
+
+- **Images.** The new crops replace the processed images under the same page ids; the old ones are in the
+  archive folder's `processed/_superseded/`; `pages/` and the web images are made again.
+- **Text.** Made line by line from the corpus text, the editor's file and the new crops; the scan decided. The
+  restored edges give the line starts of page 1 from "rufen" down; the scan settles gerüffelt, zurück, die
+  Piece, kömt, Peterbourg, gärstig, Ciszewska and voll, as the paid run's reading notes had suspected for most
+  of them. Doubtful now: [wüste?], [gegen?]. Marks: 25 before, 18 now (13 of them "[...]" on page 2's torn edge,
+  5 on page 1's torn top).
+- **Date.** "d 20t Januar", the year torn away, replaces "2[9?] Januar 1816"; the archive's pencil note at the
+  foot of page 1, "20. Jan 1816", is added there (as for letter 289) and dates the letter: 20 January 1816
+  (`rulings.yml`, dates.read). The summary needed no change.
 
 ## Place names: German in the text, Polish (German) on the site (editor 2026-09-28)
 

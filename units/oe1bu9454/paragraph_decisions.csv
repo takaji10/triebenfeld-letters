@@ -112,10 +112,10 @@
 8,537,break,high,short_line+column,0.41,33,81,meine arme Tochter — Fürst helfen,Sie oder mich hohlt der Teufel
 8,538,break,high,short_line+column,0.37,30,81,Sie oder mich hohlt der Teufel,Meine Kinder und ich gehen im Elend
 8,539,break,high,short_line+column,0.43,35,81,Meine Kinder und ich gehen im Elend,unter und das in Ihrentwillen.
-9,543,run,review,short_line,0.02,1,61,9,"der Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelun"
-9,551,run,review,short_line,0.23,14,61,alles mög[...],"Über die [...] 1811 ist schon alles einig, wenn nur erst die 112/m"
-9,553,run,review,short_line,0.28,17,61,rt. accordir[...],Eben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas
-9,557,run,review,short_line,0.56,34,61,meine Zuflucht zum Borgen nehmen —,"Meinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, d"
+9,543,run,review,short_line,0.02,1,65,9,"der Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelun"
+9,551,run,review,short_line,0.22,14,65,alles mög[...],"Über die [...] 1811 ist schon alles einig, wenn nur erst die 112/m"
+9,553,run,review,short_line,0.26,17,65,rt. accordir[...],Eben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas
+9,557,run,review,short_line,0.52,34,65,meine Zuflucht zum Borgen nehmen —,"Meinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, d"
 10,563,break,high,short_line+column,0.03,2,79,10,"Durchlauchtigster Fürst,"
 10,564,break,high,short_line+column,0.3,24,79,"Durchlauchtigster Fürst,",Gnädigster Herr!
 10,565,break,high,short_line,0.2,16,79,Gnädigster Herr!,Ewr Durchlaucht höchst verehrtes Schreiben vom 24ten v. M. erhielt ich
@@ -3976,171 +3976,171 @@
 299,21351,break,high,rubric+short_line,0.13,8,60,Blizanow,d. 16ten Januar
 299,21353,break,high,short_line,0.08,5,60,1816.,unterthänigster diener
 299,21354,break,high,short_line+column,0.36,22,60,unterthänigster diener,v Triebenfeld
-300,21358,break,high,short_line+column,0.05,3,57,300,Durchlauchtigſter Fürſt
-300,21359,break,high,short_line+column,0.4,23,57,Durchlauchtigſter Fürſt,Gnädigster Furst und Herr!
-300,21360,break,high,short_line,0.46,26,57,Gnädigster Furst und Herr!,[...]halte ich die Nachricht daß im Gosztiszyn ein
-300,21364,run,review,short_line,0.49,28,57,[...]Gebrauch davon machen —,[...]sei könte d 22 nach Posen zurück — Er ward nach Berlin ge¬
-300,21382,break,high,short_line+column,0.57,25,44,"""wirten wohl daß der[...]","der p. ist ein neu[...]"""
-300,21383,break,high,short_line+column,0.55,24,44,"der p. ist ein neu[...]""",Z ward sofort nach Berlin[...]
-300,21384,break,high,short_line+column,0.68,30,44,Z ward sofort nach Berlin[...],unbekandt — Es heißt Klew[...]
-300,21385,run,review,short_line,0.68,30,44,unbekandt — Es heißt Klew[...],aber die Geld Männer als Stag[...]
-300,21401,break,high,short_line+column,0.55,24,44,ersterbe Ehrfurchts woll,Ewr Durchlaucht
-300,21402,break,high,short_line+column,0.34,15,44,Ewr Durchlaucht,Blizanow
-300,21403,break,high,short_line+column,0.18,8,44,Blizanow,2[9?] Januar 1816
-300,21404,break,high,short_line+column,0.39,17,44,2[9?] Januar 1816,ganz unterthäniger Diener
-300,21405,break,high,short_line+column,0.57,25,44,ganz unterthäniger Diener,v Triebenfeld
-301,21409,break,high,short_line+column,0.32,23,72,Durchlauchtigſter Fürſt,Gnädigſter Fürſt und Herr!
-301,21410,break,high,short_line,0.36,26,72,Gnädigſter Fürſt und Herr!,301
-301,21411,run,review,short_line,0.04,3,72,301,Ewr Durchlaucht höchſt verehrtes Schreiben vom 26 ten d. M erhielt ich
-301,21415,break,high,short_line,0.64,46,72,Kummer und glaubte der Mensch ſey verunglückt.,doppelt angenehm iſt es mir jezt durch den Andern Lombardini Ewr Hochf
-301,21425,run,review,short_line,0.67,48,72,"Weisen Entschlüße, und Benehmen wißen zu laßen —",der redliche Lombardini wird Ewr Durchlaucht über alles den treuesten
-301,21430,run,review,short_line,0.5,36,72,der Gift=Blume ihren Honig sammlet —,dermalen erwarte ich Sehnsuchts voll meinen Sohn und einen Pächter
-301,21445,break,high,short_line+column,0.27,8,30,Blizanow,den 31ten Januar
-301,21446,break,high,short_line+column,0.53,16,30,den 31ten Januar,1816.
-301,21447,break,high,short_line,0.17,5,30,1816.,ganz gehorſamſter Diener
-302,21452,break,high,short_line+column,0.3,23,77,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
-302,21453,break,high,short_line,0.34,26,77,Gnädigster Fürst und Herr!,Ich habe den Justiz Bürgermeister Hawich aus Zagorowo der alswirkl. He
-302,21459,break,high,short_line,0.51,39,77,dazu Vollmacht und Instruction gegeben.,Zweitens zur gänzlichen Aufhebung der Sequestration die Vollmacht gege
-302,21463,run,review,short_line,0.26,20,77,ankömmt; so habe ich,"Drittens dem Hawich die Vollmacht die Zinsen beizutreiben, und solche "
-302,21474,run,review,short_line,0.22,17,77,"Eben so habe ich,",sechstens eine Vollmacht gegeben von dem Niedźwiecki die restirende Pa
-302,21486,break,high,short_line,0.33,24,72,die sehr bedeutend sind.,neuntens ist eine Vollmacht ausgestellt die Olesnicer Erbpächter zu zw
-302,21490,run,review,short_line,0.52,38,72,weit ausgethan werden können. Auch ist,Zehntens Eine Vollmacht an H. Hawich zur Betreibung aller Gränzs[?]-Pr
-302,21502,break,high,short_line,0.15,11,72,abzuführen.,"dreyzehentens Und endlich, iſt Hawich noch eine Vollmacht ausgefertigt"
-302,21513,break,high,short_line,0.57,41,72,Sache von Zeit zu Zeit treulich erhalten.,Ehrfurchtsvoll ersterbe ich
-302,21514,break,high,short_line+column,0.37,27,72,Ehrfurchtsvoll ersterbe ich,Ewr Hochfürstl. Durchlaucht
-302,21515,break,high,short_line+column,0.37,27,72,Ewr Hochfürstl. Durchlaucht,treu gehorsamster Diener
-302,21516,break,high,short_line+column,0.33,24,72,treu gehorsamster Diener,v Triebenfeld
-303,21521,break,high,rubric,0.95,38,40,",Kapital Forderungen,Rthl,g,d,Rthl,g,d","1,Der ehemalige Küchenmeister Kuch,100,,,""5,050"",,"
-303,21522,break,high,rubric,1.25,50,40,"1,Der ehemalige Küchenmeister Kuch,100,,,""5,050"",,","2,Geheimetzath Strahlen zu Wallerstein,,,,""2,666"",16,"
-303,21523,break,high,rubric,1.32,53,40,"2,Geheimetzath Strahlen zu Wallerstein,,,,""2,666"",16,","3,die v Sobottendorffischen Erben.,,,,""44,200"",,"
-303,21524,break,high,rubric,1.2,48,40,"3,die v Sobottendorffischen Erben.,,,,""44,200"",,","4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,""5,000"",,"
-303,21525,break,high,rubric,1.27,51,40,"4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,""5,000"",,","5,Der H. v. Feannert[?],,,,200,,"
-303,21526,break,high,rubric,0.8,32,40,"5,Der H. v. Feannert[?],,,,200,,","6,Der H. v. Czarnetzki,,,,400,,"
-303,21527,break,high,rubric,0.78,31,40,"6,Der H. v. Czarnetzki,,,,400,,","7,Der Sattler Gleisberger zu Potsdam,,,,64,,"
-303,21528,break,high,rubric,1.1,44,40,"7,Der Sattler Gleisberger zu Potsdam,,,,64,,","8,Der H. v. Bornstädt,,,,""5,000"",,"
-303,21529,break,high,rubric,0.85,34,40,"8,Der H. v. Bornstädt,,,,""5,000"",,","9,Der schlossen Rass,,,,""2,370"",,"
-303,21530,break,high,rubric,0.82,33,40,"9,Der schlossen Rass,,,,""2,370"",,","10,Der Tischler Schick,,,,""3,400"",,"
-303,21531,break,high,rubric,0.88,35,40,"10,Der Tischler Schick,,,,""3,400"",,","11,Der H. v. Kluge,,,,""3,000"",,"
-303,21532,break,high,rubric,0.78,31,40,"11,Der H. v. Kluge,,,,""3,000"",,","12,Der Franz Apfelfeld in Ujest,,,,310,,"
-303,21533,break,high,rubric,1.0,40,40,"12,Der Franz Apfelfeld in Ujest,,,,310,,","13,Der ehm: Tafeldesker Deuser,,,,200,,"
-303,21534,break,high,rubric,0.97,39,40,"13,Der ehm: Tafeldesker Deuser,,,,200,,","14,Der Oberförster Krippendorff,,,,""3,700"",,"
-303,21535,break,high,rubric,1.1,44,40,"14,Der Oberförster Krippendorff,,,,""3,700"",,","15,Der p. Jung zu Benshausen,""3,635"",,,,,"
-303,21536,break,high,rubric,1.02,41,40,"15,Der p. Jung zu Benshausen,""3,635"",,,,,","16,Der p. Lombardini +,,,,,,"
-303,21539,break,high,rubric,1.01,42,42,"17,Die Judin Golde in Breslau,,,,""6,000"",,","18,der Herrenmirth Köber in Ansbach,,,,319,12,"
-303,21540,break,high,rubric,1.11,46,42,"18,der Herrenmirth Köber in Ansbach,,,,319,12,","19,Fr. Bergräthin Bernhardi in Breslau,,,,,,"
-303,21541,break,high,rubric,1.06,44,42,"19,Fr. Bergräthin Bernhardi in Breslau,,,,,,","20,Erben des Label Joseph Levin,,,,""13,275"",,"
-303,21542,break,high,rubric,1.08,45,42,"20,Erben des Label Joseph Levin,,,,""13,275"",,","21,Grafen von Lichtenau,250,,,,,"
-303,21543,break,high,rubric,0.77,32,42,"21,Grafen von Lichtenau,250,,,,,","22,Fr. Charlotte von Triebenfeld,,,,""112,000"",,"
-303,21544,break,high,rubric,1.13,47,42,"22,Fr. Charlotte von Triebenfeld,,,,""112,000"",,","23,Hoffrath Hahn,,,,,,"
-303,21545,break,high,rubric,0.53,22,42,"23,Hoffrath Hahn,,,,,,","24,Wirthschafterin Hoffmann,,,,,,"
-303,21546,break,high,rubric,0.8,33,42,"24,Wirthschafterin Hoffmann,,,,,,","25,Fraube & Schlesinger in Ujest.,,,,""2,978"",18,"
-303,21547,break,high,rubric,1.16,48,42,"25,Fraube & Schlesinger in Ujest.,,,,""2,978"",18,","26,Goldstücker,,,,""170,000"",,"
-303,21548,break,high,rubric,0.7,29,42,"26,Goldstücker,,,,""170,000"",,","27,Klempner Schweizhoffers Wittwe,,,,90,,"
-303,21549,break,high,rubric,0.99,41,42,"27,Klempner Schweizhoffers Wittwe,,,,90,,","28,Joh. Eleon: Pedell in Carlsruhe,,,,""4,000"",,"
-303,21550,break,high,rubric,1.13,47,42,"28,Joh. Eleon: Pedell in Carlsruhe,,,,""4,000"",,","29,H Graf v. Pückler,,,,,,"
-303,21551,break,high,rubric,0.63,26,42,"29,H Graf v. Pückler,,,,,,","30,Fleischer Rilitzer in Schlawenschitz,,,,""1,188"",13,"
-303,21552,break,high,rubric,1.3,54,42,"30,Fleischer Rilitzer in Schlawenschitz,,,,""1,188"",13,","31,H von Delitz,,,,300,,"
-303,21553,break,high,rubric,0.58,24,42,"31,H von Delitz,,,,300,,","32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,"
-303,21554,break,high,rubric,1.11,46,42,"32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,","33,Burghards Wittwe in Erfurt,,,,,,"
-303,21555,break,high,rubric,0.84,35,42,"33,Burghards Wittwe in Erfurt,,,,,,","34,Chirurgus Sternitzky,,,,222,21,6"
-303,21556,break,high,rubric,0.84,35,42,"34,Chirurgus Sternitzky,,,,222,21,6","35,Dorrs Wittwe in Griesbach.,,,,342,20,"
-303,21559,break,high,rubric,1.4,51,36,"36,Der ehemaliger Kammerdiener Günther,,,,""1,342"",,","37,Pfarrer in Schlawenschitz,,,,300,,"
-303,21560,break,high,rubric,1.01,37,36,"37,Pfarrer in Schlawenschitz,,,,300,,","38,Schoen in Jacobswalde,,,,800,,"
-303,21561,break,high,rubric,0.9,33,36,"38,Schoen in Jacobswalde,,,,800,,","39,Lieutenant Ludwig in Breslau,,,,""11,200"",,"
-303,21562,break,high,rubric,1.23,45,36,"39,Lieutenant Ludwig in Breslau,,,,""11,200"",,","40,Förster Palemba Wittwe,,,,""1,114"",6,10"
-303,21563,break,high,rubric,1.12,41,36,"40,Förster Palemba Wittwe,,,,""1,114"",6,10","41,Maxiliano von Holly in Munster,,,,300,,"
-303,21564,break,high,rubric,1.15,42,36,"41,Maxiliano von Holly in Munster,,,,300,,","42,Kaufmann Giesche in Breslau,,,,850,,"
-303,21565,break,high,rubric,1.07,39,36,"42,Kaufmann Giesche in Breslau,,,,850,,","43,Kaufmann Focke,""10,000"",,,,,"
-303,21566,break,high,rubric,0.85,31,36,"43,Kaufmann Focke,""10,000"",,,,,","44,Abraham Hirsch Schweizer,,,,400,,"
-303,21567,break,high,rubric,0.99,36,36,"44,Abraham Hirsch Schweizer,,,,400,,","45,Coffetur Krause in Scheitnich,,,,142,18,11"
-303,21568,break,high,rubric,1.23,45,36,"45,Coffetur Krause in Scheitnich,,,,142,18,11","46,Oberamtmann Koenig,,,,""3,000"",,"
-303,21569,break,high,rubric,0.93,34,36,"46,Oberamtmann Koenig,,,,""3,000"",,","47,Barter Gluttmann,,,,""2,103"",13,9"
-303,21570,break,high,rubric,0.96,35,36,"47,Barter Gluttmann,,,,""2,103"",13,9","48,Fleischer Schumann,,,,""8,966"",4,11"
-303,21571,break,high,rubric,1.01,37,36,"48,Fleischer Schumann,,,,""8,966"",4,11","49,Werner & Comp,,,,""1,983"",,"
-303,21572,break,high,rubric,0.79,29,36,"49,Werner & Comp,,,,""1,983"",,","50,Loebel Fraenkel,,,,""4,000"",,"
-303,21573,break,high,rubric,0.85,31,36,"50,Loebel Fraenkel,,,,""4,000"",,","51,Oberamtmann Koehler,,,,""1,327"",2,"
-303,21574,break,high,rubric,0.99,36,36,"51,Oberamtmann Koehler,,,,""1,327"",2,","52,Freihabers Minorenne,,,,""1,222"",20,11"
-303,21575,break,high,rubric,1.1,40,36,"52,Freihabers Minorenne,,,,""1,222"",20,11","53,Hofagent E Heimann,,,,""8,000"",,"
-303,21576,break,high,rubric,0.93,34,36,"53,Hofagent E Heimann,,,,""8,000"",,","54,H Carl v Stoessel,,,,""191,000"",,"
-303,21579,break,high,rubric,1.12,36,32,"55,Hr. Sigismund v Stoessel,,,,100,,","56,K. S. Mützel,,,,650,,"
-303,21580,break,high,rubric,0.75,24,32,"56,K. S. Mützel,,,,650,,","57,Major v. Sak,,,,500,,"
-303,21581,break,high,rubric,0.75,24,32,"57,Major v. Sak,,,,500,,","58,v. Zerboni,,,,""1,000"",,"
-303,21582,break,high,rubric,0.81,26,32,"58,v. Zerboni,,,,""1,000"",,","59,Lieutenant Gas,,,,500,,"
-303,21583,break,high,rubric,0.81,26,32,"59,Lieutenant Gas,,,,500,,","60,Infiz. Franz. Meyer,,,,,,"
-303,21584,break,high,rubric,0.88,28,32,"60,Infiz. Franz. Meyer,,,,,,","61,der Wittwe Brosemann,,,,300,,"
-303,21585,break,high,rubric,1.0,32,32,"61,der Wittwe Brosemann,,,,300,,","62,dem J. K[?]. R. Brasfert,,,,,,"
-303,21586,break,high,rubric,1.03,33,32,"62,dem J. K[?]. R. Brasfert,,,,,,","63,den Kaufmann Schmidts Erben.,,,,""15,500"",,"
-303,21587,break,high,rubric,1.41,45,32,"63,den Kaufmann Schmidts Erben.,,,,""15,500"",,","64,der p Über,,,,449,,"
-303,21588,break,high,rubric,0.69,22,32,"64,der p Über,,,,449,,","65,Major von Münchow,,,,600,,"
-303,21589,break,high,rubric,0.91,29,32,"65,Major von Münchow,,,,600,,","66,Der verwitt. Fr. Oberst. Brehmer.,,,,""5,000"",,"
-303,21590,break,high,rubric,1.53,49,32,"66,Der verwitt. Fr. Oberst. Brehmer.,,,,""5,000"",,","67,der Gärtner Nickel,,,,341,19,"
-303,21591,break,high,rubric,1.0,32,32,"67,der Gärtner Nickel,,,,341,19,","68,den Tagezier Elsnerschen Erben,,,,834,10,"
-303,21592,break,high,rubric,1.38,44,32,"68,den Tagezier Elsnerschen Erben,,,,834,10,","69,den Sattler Hennig,,,,671,20,6"
-303,21593,break,high,rubric,1.03,33,32,"69,den Sattler Hennig,,,,671,20,6","70,dem Sigesm. p. Stoesselschen Curator,,,,""169,400"",,"
-303,21594,break,high,rubric,1.69,54,32,"70,dem Sigesm. p. Stoesselschen Curator,,,,""169,400"",,","71,J[ustiz]. C[ommissarius]. Panz für Zerboni,,,,""4,974"",,"
-303,21597,break,high,rubric,1.04,41,40,"72,Dem Kaufmann Schlipalius,,,,""22,808"",,","73,Banquier Frank,,,,""4,079"",11,"
-303,21598,break,high,rubric,0.81,32,40,"73,Banquier Frank,,,,""4,079"",11,","74,Abraham Hirschel,,,,""5,079"",16,"
-303,21599,break,high,rubric,0.86,34,40,"74,Abraham Hirschel,,,,""5,079"",16,","75,den Zingerschen Erben.,,,,""4,000"",,"
-303,21600,break,high,rubric,0.96,38,40,"75,den Zingerschen Erben.,,,,""4,000"",,","76,dem stöpfen Bettner,,,,342,5,7"
-303,21601,break,high,rubric,0.84,33,40,"76,dem stöpfen Bettner,,,,342,5,7","77,Den v Köckritzschen Erben,,,,""50,000"",,"
-303,21602,break,high,rubric,1.06,42,40,"77,Den v Köckritzschen Erben,,,,""50,000"",,","78,der Gebrüder Gottheimer,,,,""16,237"",2,6"
-303,21603,break,high,rubric,1.06,42,40,"78,der Gebrüder Gottheimer,,,,""16,237"",2,6","79,Meyer Herz Cohn,,,,""1,200"",,"
-303,21604,break,high,rubric,0.78,31,40,"79,Meyer Herz Cohn,,,,""1,200"",,","80,Valentin Jung in Brenzhausen.,,,,,,"
-303,21605,break,high,rubric,0.96,38,40,"80,Valentin Jung in Brenzhausen.,,,,,,","81,Kaufmauer Lampe sehr Con.e. Masse,,,,""7,066"",10,6"
-303,21606,break,high,rubric,1.32,52,40,"81,Kaufmauer Lampe sehr Con.e. Masse,,,,""7,066"",10,6","82,der Fiscus,,,,""35,000"",,"
-303,21607,break,high,rubric,0.68,27,40,"82,der Fiscus,,,,""35,000"",,","83,Kaufmann Barnheim in Berlin,,,,""76,791"",,"
-303,21608,break,high,rubric,1.11,44,40,"83,Kaufmann Barnheim in Berlin,,,,""76,791"",,","84,die Eichterschen Minorennen,,,,864,16,"
-303,21609,break,high,rubric,1.04,41,40,"84,die Eichterschen Minorennen,,,,864,16,","85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2"
-303,21610,break,high,rubric,1.27,50,40,"85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2","86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,"
-303,21611,break,high,rubric,1.16,46,40,"86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,","87,Kaufmann Weinhold,,,,291,8,"
-303,21612,break,high,rubric,0.76,30,40,"87,Kaufmann Weinhold,,,,291,8,","88,der verw. Kaufmann Adolph,,,,333,8,"
-303,21615,break,high,rubric,1.42,64,45,"89,der Kauf: Gold und Silber Manufactur in Breslau,,,,""1,188","90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,"
-303,21616,break,high,rubric,1.09,49,45,"90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,","91,der Mendel Oettingerschen Masse,,,,""1,800"",,"
-303,21617,break,high,rubric,1.04,47,45,"91,der Mendel Oettingerschen Masse,,,,""1,800"",,","92,verw. Stiftkanzler Homuth,,,,""1,000"",,"
-303,21618,break,high,rubric,0.91,41,45,"92,verw. Stiftkanzler Homuth,,,,""1,000"",,","93,Der Fraußmann Fauk,,,,""1,794"",17,8"
-303,21619,break,high,rubric,0.82,37,45,"93,Der Fraußmann Fauk,,,,""1,794"",17,8","94,Geheimer Rath Strehn,,,,""2,666"",16,"
-303,21620,break,high,rubric,0.84,38,45,"94,Geheimer Rath Strehn,,,,""2,666"",16,","95,den Präsident Seidlitzschen Erben,,,,""30,000"",,"
-303,21621,break,high,rubric,1.11,50,45,"95,den Präsident Seidlitzschen Erben,,,,""30,000"",,","96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,""2,000"",,"
-303,21622,break,high,rubric,1.47,66,45,"96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,""2,","97,Justitiarius Witinsky,,,,764,,"
-303,21623,break,high,rubric,0.73,33,45,"97,Justitiarius Witinsky,,,,764,,","98,Jude Mattersdorff,,,,600,,"
-303,21624,break,high,rubric,0.64,29,45,"98,Jude Mattersdorff,,,,600,,","99,Der v d Brelingschen Handlung in Dresden,,,,""19,000"",,"
-303,21625,break,high,rubric,1.27,57,45,"99,Der v d Brelingschen Handlung in Dresden,,,,""19,000"",,","100,Buchhandlung W. G. Korn,,,,""1,071"",21,3"
-303,21626,break,high,rubric,0.96,43,45,"100,Buchhandlung W. G. Korn,,,,""1,071"",21,3","101,Kaufmann Bauditz in Frankfurth a/O.,,,,""6,000"",,"
-303,21627,break,high,rubric,1.16,52,45,"101,Kaufmann Bauditz in Frankfurth a/O.,,,,""6,000"",,","102,Negotiant Zadik,,,,""8,250"",,"
-303,21628,break,high,rubric,0.71,32,45,"102,Negotiant Zadik,,,,""8,250"",,","103,dem Mr. R. Prubrechtischen Erben.,,,,""9,400"",,"
-303,21631,break,high,rubric,1.42,61,43,"104,dem Baugnur Meyer Bernhard Frankfurth a/od.,,,,""12,000"",","105,H v Rothkirch,,,,""10,000"",,"
-303,21632,break,high,rubric,0.72,31,43,"105,H v Rothkirch,,,,""10,000"",,","106,Hertschmer Hein in Breslau,,,,""165,000"",,"
-303,21633,break,high,rubric,1.05,45,43,"106,Hertschmer Hein in Breslau,,,,""165,000"",,","107,der Ges. Schlabrendorffschen Erben,,,,""35,000"",,"
-303,21634,break,high,rubric,1.21,52,43,"107,der Ges. Schlabrendorffschen Erben,,,,""35,000"",,","108,dem stehender Diet in Brieg,,,,""1,000"",,"
-303,21635,break,high,rubric,1.02,44,43,"108,dem stehender Diet in Brieg,,,,""1,000"",,","109,dem stehender Binek,,,,""4,500"",,"
-303,21636,break,high,rubric,0.84,36,43,"109,dem stehender Binek,,,,""4,500"",,","110,Den v. Zimetzkyschen Erben.,,,,""12,000"",,"
-303,21637,break,high,rubric,1.05,45,43,"110,Den v. Zimetzkyschen Erben.,,,,""12,000"",,","111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,"
-303,21638,break,high,rubric,1.35,58,43,"111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,","112,Dok. Michaelis in Breslau,,,,""5,000"",,"
-303,21639,break,high,rubric,0.98,42,43,"112,Dok. Michaelis in Breslau,,,,""5,000"",,","113,Banquier Ottenſoser,.,,,601,9,"
-303,21640,break,high,rubric,0.79,34,43,"113,Banquier Ottenſoser,.,,,601,9,","114,Johann Hoffmann.,,,,""2,000"",,"
-303,21641,break,high,rubric,0.77,33,43,"114,Johann Hoffmann.,,,,""2,000"",,","115,Baron v Hénneberg,,,,""1,354"",,"
-303,21642,break,high,rubric,0.79,34,43,"115,Baron v Hénneberg,,,,""1,354"",,","116,Kaufmann Koppan in Breslau,,,,""80,000"",,"
-303,21643,break,high,rubric,1.02,44,43,"116,Kaufmann Koppan in Breslau,,,,""80,000"",,","117,Guthsbesitzer Schindler.,,,,""1,000"",,"
-303,21644,break,high,rubric,0.95,41,43,"117,Guthsbesitzer Schindler.,,,,""1,000"",,","118,der Handlung Maper und Scholtz,""3,464"",,,,,"
-303,21647,break,high,rubric,1.33,44,33,"119,Dem Major Friedr: v. Koopf,,,,""15,000"",,","120,Zimmermeister Krause,,,,629,21,9"
-303,21648,break,high,rubric,1.09,36,33,"120,Zimmermeister Krause,,,,629,21,9","121,Baugerin Kohn,,,,""2,000"",,"
-303,21649,break,high,rubric,0.91,30,33,"121,Baugerin Kohn,,,,""2,000"",,","122,den Fehr v. Lanschen Erben,,,,,,"
-303,21650,break,high,rubric,1.09,36,33,"122,den Fehr v. Lanschen Erben,,,,,,","123,den Kaufmann Benthan,350,,,,,"
-303,21651,break,high,rubric,1.0,33,33,"123,den Kaufmann Benthan,350,,,,,","124,Weigel und Sohn,,,,""2,510"",,"
-303,21652,break,high,rubric,0.97,32,33,"124,Weigel und Sohn,,,,""2,510"",,","125,Mendel Panofskaschen Curatel,,,,""1,000"",,"
-303,21653,break,high,rubric,1.36,45,33,"125,Mendel Panofskaschen Curatel,,,,""1,000"",,","126,v. Rechthoffschen Erben,,,,,,"
-303,21654,break,high,rubric,1.0,33,33,"126,v. Rechthoffschen Erben,,,,,,","127,Kaufmann Molinari,,,,""5,199"",10,"
-303,21655,break,high,rubric,1.09,36,33,"127,Kaufmann Molinari,,,,""5,199"",10,","128,Förster Nerlech,,,,335,,"
-303,21656,break,high,rubric,0.85,28,33,"128,Förster Nerlech,,,,335,,","129,Glester Friedrich,,,,119,2,"
-303,21657,break,high,rubric,0.94,31,33,"129,Glester Friedrich,,,,119,2,","130,Schneider Siebert,,,,155,18,"
-303,21660,break,high,rubric,0.99,36,36,"131,Dem Schmidt Gümmler,,,,""1,108"",,","132,dem Zimmermeister Linneschen Erben,,,,""1,625"",2,4"
-303,21661,break,high,rubric,1.45,53,36,"132,dem Zimmermeister Linneschen Erben,,,,""1,625"",2,4","133,dem Klempner Fürst,,,,339,22,"
-303,21662,break,high,rubric,0.9,33,36,"133,dem Klempner Fürst,,,,339,22,","134,dem Freiherrn von Eichendorff,,,,""3,333"",,"
-303,21663,break,high,rubric,1.26,46,36,"134,dem Freiherrn von Eichendorff,,,,""3,333"",,","135,der Oberlandes Gerichts Sporte Casse,,,,""1,140"",2,"
-303,21664,break,high,rubric,1.48,54,36,"135,der Oberlandes Gerichts Sporte Casse,,,,""1,140"",2,","136,dem Moses Bawitscher,,,,""1,200"",,"
-303,21665,break,high,rubric,1.01,37,36,"136,dem Moses Bawitscher,,,,""1,200"",,","137,der Witwe Müller,,,,97,,"
-303,21666,break,high,rubric,0.77,28,36,"137,der Witwe Müller,,,,97,,","138,der Ober Post Director Scheffler,,,,""1,526"",7,10"
-303,21667,break,high,rubric,1.42,52,36,"138,der Ober Post Director Scheffler,,,,""1,526"",7,10","139,Der Wittwe Lordemann,,,,,,"
-303,21668,break,high,rubric,0.82,30,36,"139,Der Wittwe Lordemann,,,,,,","140,verehelichten Herzog,,,,,,"
-303,21669,break,high,rubric,0.82,30,36,"140,verehelichten Herzog,,,,,,","141,Der Glaser Stark,,,,,,"
-303,21670,break,high,rubric,0.71,26,36,"141,Der Glaser Stark,,,,,,","142,der Handlung Ziepult & Sohn,,,,,,"
+300,21358,break,high,short_line+column,0.05,3,56,300,[Durchlauch]tigster Fürst
+300,21359,break,high,short_line+column,0.45,25,56,[Durchlauch]tigster Fürst,[Gnädigster] Fürst und Herr!
+300,21360,break,high,short_line,0.5,28,56,[Gnädigster] Fürst und Herr!,[...]halte ich die Nachricht daß in Gosztiszyn ein
+300,21364,run,review,short_line,0.5,28,56,[...]Gebrauch davon machen —,[...]ni kömt d 22 nach Posen zurück — Er ward nach Berlin ge¬
+300,21376,break,high,rubric,0.93,52,56,Unterschrift nicht — Ich bin hier regierender Herr —,20. Jan 1816
+300,21383,break,high,short_line+column,0.57,25,44,"""[wüste?] wohl daß d[...]","der p. ist ein un[...]"""
+300,21384,run,review,short_line,0.53,23,44,"der p. ist ein un[...]""",Z[erboni] ward sofort nach Berlin[...]
+300,21386,run,review,short_line,0.69,30,44,unbekandt — Es heißt Klew[...],aber die Geld Männer als Stag[...]
+300,21402,break,high,short_line+column,0.55,24,44,ersterbe Ehrfurchts voll,[Ew]r Durchlaucht
+300,21403,break,high,short_line+column,0.39,17,44,[Ew]r Durchlaucht,Blizanow
+300,21404,break,high,short_line+column,0.18,8,44,Blizanow,d 20t Januar
+300,21405,break,high,short_line+column,0.28,12,44,d 20t Januar,ganz unterthäniger Diener
+300,21406,break,high,short_line+column,0.57,25,44,ganz unterthäniger Diener,v Triebenfeld
+301,21410,break,high,short_line+column,0.32,23,72,Durchlauchtigſter Fürſt,Gnädigſter Fürſt und Herr!
+301,21411,break,high,short_line,0.36,26,72,Gnädigſter Fürſt und Herr!,301
+301,21412,run,review,short_line,0.04,3,72,301,Ewr Durchlaucht höchſt verehrtes Schreiben vom 26 ten d. M erhielt ich
+301,21416,break,high,short_line,0.64,46,72,Kummer und glaubte der Mensch ſey verunglückt.,doppelt angenehm iſt es mir jezt durch den Andern Lombardini Ewr Hochf
+301,21426,run,review,short_line,0.67,48,72,"Weisen Entschlüße, und Benehmen wißen zu laßen —",der redliche Lombardini wird Ewr Durchlaucht über alles den treuesten
+301,21431,run,review,short_line,0.5,36,72,der Gift=Blume ihren Honig sammlet —,dermalen erwarte ich Sehnsuchts voll meinen Sohn und einen Pächter
+301,21446,break,high,short_line+column,0.27,8,30,Blizanow,den 31ten Januar
+301,21447,break,high,short_line+column,0.53,16,30,den 31ten Januar,1816.
+301,21448,break,high,short_line,0.17,5,30,1816.,ganz gehorſamſter Diener
+302,21453,break,high,short_line+column,0.3,23,77,Durchlauchtigſter Fürſt,Gnädigster Fürst und Herr!
+302,21454,break,high,short_line,0.34,26,77,Gnädigster Fürst und Herr!,Ich habe den Justiz Bürgermeister Hawich aus Zagorowo der alswirkl. He
+302,21460,break,high,short_line,0.51,39,77,dazu Vollmacht und Instruction gegeben.,Zweitens zur gänzlichen Aufhebung der Sequestration die Vollmacht gege
+302,21464,run,review,short_line,0.26,20,77,ankömmt; so habe ich,"Drittens dem Hawich die Vollmacht die Zinsen beizutreiben, und solche "
+302,21475,run,review,short_line,0.22,17,77,"Eben so habe ich,",sechstens eine Vollmacht gegeben von dem Niedźwiecki die restirende Pa
+302,21487,break,high,short_line,0.33,24,72,die sehr bedeutend sind.,neuntens ist eine Vollmacht ausgestellt die Olesnicer Erbpächter zu zw
+302,21491,run,review,short_line,0.52,38,72,weit ausgethan werden können. Auch ist,Zehntens Eine Vollmacht an H. Hawich zur Betreibung aller Gränzs[?]-Pr
+302,21503,break,high,short_line,0.15,11,72,abzuführen.,"dreyzehentens Und endlich, iſt Hawich noch eine Vollmacht ausgefertigt"
+302,21514,break,high,short_line,0.57,41,72,Sache von Zeit zu Zeit treulich erhalten.,Ehrfurchtsvoll ersterbe ich
+302,21515,break,high,short_line+column,0.37,27,72,Ehrfurchtsvoll ersterbe ich,Ewr Hochfürstl. Durchlaucht
+302,21516,break,high,short_line+column,0.37,27,72,Ewr Hochfürstl. Durchlaucht,treu gehorsamster Diener
+302,21517,break,high,short_line+column,0.33,24,72,treu gehorsamster Diener,v Triebenfeld
+303,21522,break,high,rubric,0.95,38,40,",Kapital Forderungen,Rthl,g,d,Rthl,g,d","1,Der ehemalige Küchenmeister Kuch,100,,,""5,050"",,"
+303,21523,break,high,rubric,1.25,50,40,"1,Der ehemalige Küchenmeister Kuch,100,,,""5,050"",,","2,Geheimetzath Strahlen zu Wallerstein,,,,""2,666"",16,"
+303,21524,break,high,rubric,1.32,53,40,"2,Geheimetzath Strahlen zu Wallerstein,,,,""2,666"",16,","3,die v Sobottendorffischen Erben.,,,,""44,200"",,"
+303,21525,break,high,rubric,1.2,48,40,"3,die v Sobottendorffischen Erben.,,,,""44,200"",,","4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,""5,000"",,"
+303,21526,break,high,rubric,1.27,51,40,"4,die Fr. Gräfen Hoym geb. v Tauenzien,,,,""5,000"",,","5,Der H. v. Feannert[?],,,,200,,"
+303,21527,break,high,rubric,0.8,32,40,"5,Der H. v. Feannert[?],,,,200,,","6,Der H. v. Czarnetzki,,,,400,,"
+303,21528,break,high,rubric,0.78,31,40,"6,Der H. v. Czarnetzki,,,,400,,","7,Der Sattler Gleisberger zu Potsdam,,,,64,,"
+303,21529,break,high,rubric,1.1,44,40,"7,Der Sattler Gleisberger zu Potsdam,,,,64,,","8,Der H. v. Bornstädt,,,,""5,000"",,"
+303,21530,break,high,rubric,0.85,34,40,"8,Der H. v. Bornstädt,,,,""5,000"",,","9,Der schlossen Rass,,,,""2,370"",,"
+303,21531,break,high,rubric,0.82,33,40,"9,Der schlossen Rass,,,,""2,370"",,","10,Der Tischler Schick,,,,""3,400"",,"
+303,21532,break,high,rubric,0.88,35,40,"10,Der Tischler Schick,,,,""3,400"",,","11,Der H. v. Kluge,,,,""3,000"",,"
+303,21533,break,high,rubric,0.78,31,40,"11,Der H. v. Kluge,,,,""3,000"",,","12,Der Franz Apfelfeld in Ujest,,,,310,,"
+303,21534,break,high,rubric,1.0,40,40,"12,Der Franz Apfelfeld in Ujest,,,,310,,","13,Der ehm: Tafeldesker Deuser,,,,200,,"
+303,21535,break,high,rubric,0.97,39,40,"13,Der ehm: Tafeldesker Deuser,,,,200,,","14,Der Oberförster Krippendorff,,,,""3,700"",,"
+303,21536,break,high,rubric,1.1,44,40,"14,Der Oberförster Krippendorff,,,,""3,700"",,","15,Der p. Jung zu Benshausen,""3,635"",,,,,"
+303,21537,break,high,rubric,1.02,41,40,"15,Der p. Jung zu Benshausen,""3,635"",,,,,","16,Der p. Lombardini +,,,,,,"
+303,21540,break,high,rubric,1.01,42,42,"17,Die Judin Golde in Breslau,,,,""6,000"",,","18,der Herrenmirth Köber in Ansbach,,,,319,12,"
+303,21541,break,high,rubric,1.11,46,42,"18,der Herrenmirth Köber in Ansbach,,,,319,12,","19,Fr. Bergräthin Bernhardi in Breslau,,,,,,"
+303,21542,break,high,rubric,1.06,44,42,"19,Fr. Bergräthin Bernhardi in Breslau,,,,,,","20,Erben des Label Joseph Levin,,,,""13,275"",,"
+303,21543,break,high,rubric,1.08,45,42,"20,Erben des Label Joseph Levin,,,,""13,275"",,","21,Grafen von Lichtenau,250,,,,,"
+303,21544,break,high,rubric,0.77,32,42,"21,Grafen von Lichtenau,250,,,,,","22,Fr. Charlotte von Triebenfeld,,,,""112,000"",,"
+303,21545,break,high,rubric,1.13,47,42,"22,Fr. Charlotte von Triebenfeld,,,,""112,000"",,","23,Hoffrath Hahn,,,,,,"
+303,21546,break,high,rubric,0.53,22,42,"23,Hoffrath Hahn,,,,,,","24,Wirthschafterin Hoffmann,,,,,,"
+303,21547,break,high,rubric,0.8,33,42,"24,Wirthschafterin Hoffmann,,,,,,","25,Fraube & Schlesinger in Ujest.,,,,""2,978"",18,"
+303,21548,break,high,rubric,1.16,48,42,"25,Fraube & Schlesinger in Ujest.,,,,""2,978"",18,","26,Goldstücker,,,,""170,000"",,"
+303,21549,break,high,rubric,0.7,29,42,"26,Goldstücker,,,,""170,000"",,","27,Klempner Schweizhoffers Wittwe,,,,90,,"
+303,21550,break,high,rubric,0.99,41,42,"27,Klempner Schweizhoffers Wittwe,,,,90,,","28,Joh. Eleon: Pedell in Carlsruhe,,,,""4,000"",,"
+303,21551,break,high,rubric,1.13,47,42,"28,Joh. Eleon: Pedell in Carlsruhe,,,,""4,000"",,","29,H Graf v. Pückler,,,,,,"
+303,21552,break,high,rubric,0.63,26,42,"29,H Graf v. Pückler,,,,,,","30,Fleischer Rilitzer in Schlawenschitz,,,,""1,188"",13,"
+303,21553,break,high,rubric,1.3,54,42,"30,Fleischer Rilitzer in Schlawenschitz,,,,""1,188"",13,","31,H von Delitz,,,,300,,"
+303,21554,break,high,rubric,0.58,24,42,"31,H von Delitz,,,,300,,","32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,"
+303,21555,break,high,rubric,1.11,46,42,"32,Mendels Wittwe in Frankfurt a.m.,,,,483,12,","33,Burghards Wittwe in Erfurt,,,,,,"
+303,21556,break,high,rubric,0.84,35,42,"33,Burghards Wittwe in Erfurt,,,,,,","34,Chirurgus Sternitzky,,,,222,21,6"
+303,21557,break,high,rubric,0.84,35,42,"34,Chirurgus Sternitzky,,,,222,21,6","35,Dorrs Wittwe in Griesbach.,,,,342,20,"
+303,21560,break,high,rubric,1.4,51,36,"36,Der ehemaliger Kammerdiener Günther,,,,""1,342"",,","37,Pfarrer in Schlawenschitz,,,,300,,"
+303,21561,break,high,rubric,1.01,37,36,"37,Pfarrer in Schlawenschitz,,,,300,,","38,Schoen in Jacobswalde,,,,800,,"
+303,21562,break,high,rubric,0.9,33,36,"38,Schoen in Jacobswalde,,,,800,,","39,Lieutenant Ludwig in Breslau,,,,""11,200"",,"
+303,21563,break,high,rubric,1.23,45,36,"39,Lieutenant Ludwig in Breslau,,,,""11,200"",,","40,Förster Palemba Wittwe,,,,""1,114"",6,10"
+303,21564,break,high,rubric,1.12,41,36,"40,Förster Palemba Wittwe,,,,""1,114"",6,10","41,Maxiliano von Holly in Munster,,,,300,,"
+303,21565,break,high,rubric,1.15,42,36,"41,Maxiliano von Holly in Munster,,,,300,,","42,Kaufmann Giesche in Breslau,,,,850,,"
+303,21566,break,high,rubric,1.07,39,36,"42,Kaufmann Giesche in Breslau,,,,850,,","43,Kaufmann Focke,""10,000"",,,,,"
+303,21567,break,high,rubric,0.85,31,36,"43,Kaufmann Focke,""10,000"",,,,,","44,Abraham Hirsch Schweizer,,,,400,,"
+303,21568,break,high,rubric,0.99,36,36,"44,Abraham Hirsch Schweizer,,,,400,,","45,Coffetur Krause in Scheitnich,,,,142,18,11"
+303,21569,break,high,rubric,1.23,45,36,"45,Coffetur Krause in Scheitnich,,,,142,18,11","46,Oberamtmann Koenig,,,,""3,000"",,"
+303,21570,break,high,rubric,0.93,34,36,"46,Oberamtmann Koenig,,,,""3,000"",,","47,Barter Gluttmann,,,,""2,103"",13,9"
+303,21571,break,high,rubric,0.96,35,36,"47,Barter Gluttmann,,,,""2,103"",13,9","48,Fleischer Schumann,,,,""8,966"",4,11"
+303,21572,break,high,rubric,1.01,37,36,"48,Fleischer Schumann,,,,""8,966"",4,11","49,Werner & Comp,,,,""1,983"",,"
+303,21573,break,high,rubric,0.79,29,36,"49,Werner & Comp,,,,""1,983"",,","50,Loebel Fraenkel,,,,""4,000"",,"
+303,21574,break,high,rubric,0.85,31,36,"50,Loebel Fraenkel,,,,""4,000"",,","51,Oberamtmann Koehler,,,,""1,327"",2,"
+303,21575,break,high,rubric,0.99,36,36,"51,Oberamtmann Koehler,,,,""1,327"",2,","52,Freihabers Minorenne,,,,""1,222"",20,11"
+303,21576,break,high,rubric,1.1,40,36,"52,Freihabers Minorenne,,,,""1,222"",20,11","53,Hofagent E Heimann,,,,""8,000"",,"
+303,21577,break,high,rubric,0.93,34,36,"53,Hofagent E Heimann,,,,""8,000"",,","54,H Carl v Stoessel,,,,""191,000"",,"
+303,21580,break,high,rubric,1.12,36,32,"55,Hr. Sigismund v Stoessel,,,,100,,","56,K. S. Mützel,,,,650,,"
+303,21581,break,high,rubric,0.75,24,32,"56,K. S. Mützel,,,,650,,","57,Major v. Sak,,,,500,,"
+303,21582,break,high,rubric,0.75,24,32,"57,Major v. Sak,,,,500,,","58,v. Zerboni,,,,""1,000"",,"
+303,21583,break,high,rubric,0.81,26,32,"58,v. Zerboni,,,,""1,000"",,","59,Lieutenant Gas,,,,500,,"
+303,21584,break,high,rubric,0.81,26,32,"59,Lieutenant Gas,,,,500,,","60,Infiz. Franz. Meyer,,,,,,"
+303,21585,break,high,rubric,0.88,28,32,"60,Infiz. Franz. Meyer,,,,,,","61,der Wittwe Brosemann,,,,300,,"
+303,21586,break,high,rubric,1.0,32,32,"61,der Wittwe Brosemann,,,,300,,","62,dem J. K[?]. R. Brasfert,,,,,,"
+303,21587,break,high,rubric,1.03,33,32,"62,dem J. K[?]. R. Brasfert,,,,,,","63,den Kaufmann Schmidts Erben.,,,,""15,500"",,"
+303,21588,break,high,rubric,1.41,45,32,"63,den Kaufmann Schmidts Erben.,,,,""15,500"",,","64,der p Über,,,,449,,"
+303,21589,break,high,rubric,0.69,22,32,"64,der p Über,,,,449,,","65,Major von Münchow,,,,600,,"
+303,21590,break,high,rubric,0.91,29,32,"65,Major von Münchow,,,,600,,","66,Der verwitt. Fr. Oberst. Brehmer.,,,,""5,000"",,"
+303,21591,break,high,rubric,1.53,49,32,"66,Der verwitt. Fr. Oberst. Brehmer.,,,,""5,000"",,","67,der Gärtner Nickel,,,,341,19,"
+303,21592,break,high,rubric,1.0,32,32,"67,der Gärtner Nickel,,,,341,19,","68,den Tagezier Elsnerschen Erben,,,,834,10,"
+303,21593,break,high,rubric,1.38,44,32,"68,den Tagezier Elsnerschen Erben,,,,834,10,","69,den Sattler Hennig,,,,671,20,6"
+303,21594,break,high,rubric,1.03,33,32,"69,den Sattler Hennig,,,,671,20,6","70,dem Sigesm. p. Stoesselschen Curator,,,,""169,400"",,"
+303,21595,break,high,rubric,1.69,54,32,"70,dem Sigesm. p. Stoesselschen Curator,,,,""169,400"",,","71,J[ustiz]. C[ommissarius]. Panz für Zerboni,,,,""4,974"",,"
+303,21598,break,high,rubric,1.04,41,40,"72,Dem Kaufmann Schlipalius,,,,""22,808"",,","73,Banquier Frank,,,,""4,079"",11,"
+303,21599,break,high,rubric,0.81,32,40,"73,Banquier Frank,,,,""4,079"",11,","74,Abraham Hirschel,,,,""5,079"",16,"
+303,21600,break,high,rubric,0.86,34,40,"74,Abraham Hirschel,,,,""5,079"",16,","75,den Zingerschen Erben.,,,,""4,000"",,"
+303,21601,break,high,rubric,0.96,38,40,"75,den Zingerschen Erben.,,,,""4,000"",,","76,dem stöpfen Bettner,,,,342,5,7"
+303,21602,break,high,rubric,0.84,33,40,"76,dem stöpfen Bettner,,,,342,5,7","77,Den v Köckritzschen Erben,,,,""50,000"",,"
+303,21603,break,high,rubric,1.06,42,40,"77,Den v Köckritzschen Erben,,,,""50,000"",,","78,der Gebrüder Gottheimer,,,,""16,237"",2,6"
+303,21604,break,high,rubric,1.06,42,40,"78,der Gebrüder Gottheimer,,,,""16,237"",2,6","79,Meyer Herz Cohn,,,,""1,200"",,"
+303,21605,break,high,rubric,0.78,31,40,"79,Meyer Herz Cohn,,,,""1,200"",,","80,Valentin Jung in Brenzhausen.,,,,,,"
+303,21606,break,high,rubric,0.96,38,40,"80,Valentin Jung in Brenzhausen.,,,,,,","81,Kaufmauer Lampe sehr Con.e. Masse,,,,""7,066"",10,6"
+303,21607,break,high,rubric,1.32,52,40,"81,Kaufmauer Lampe sehr Con.e. Masse,,,,""7,066"",10,6","82,der Fiscus,,,,""35,000"",,"
+303,21608,break,high,rubric,0.68,27,40,"82,der Fiscus,,,,""35,000"",,","83,Kaufmann Barnheim in Berlin,,,,""76,791"",,"
+303,21609,break,high,rubric,1.11,44,40,"83,Kaufmann Barnheim in Berlin,,,,""76,791"",,","84,die Eichterschen Minorennen,,,,864,16,"
+303,21610,break,high,rubric,1.04,41,40,"84,die Eichterschen Minorennen,,,,864,16,","85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2"
+303,21611,break,high,rubric,1.27,50,40,"85,den J[ustiz]. C[ommissarius]. Müller,,,,10,16,2","86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,"
+303,21612,break,high,rubric,1.16,46,40,"86,J[ustiz]. Com[missarius]. Münezer,75,,,50,,","87,Kaufmann Weinhold,,,,291,8,"
+303,21613,break,high,rubric,0.76,30,40,"87,Kaufmann Weinhold,,,,291,8,","88,der verw. Kaufmann Adolph,,,,333,8,"
+303,21616,break,high,rubric,1.42,64,45,"89,der Kauf: Gold und Silber Manufactur in Breslau,,,,""1,188","90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,"
+303,21617,break,high,rubric,1.09,49,45,"90,Dem J[ustiz]. C[ommissarius]. Dzeieba,,,,593,,","91,der Mendel Oettingerschen Masse,,,,""1,800"",,"
+303,21618,break,high,rubric,1.04,47,45,"91,der Mendel Oettingerschen Masse,,,,""1,800"",,","92,verw. Stiftkanzler Homuth,,,,""1,000"",,"
+303,21619,break,high,rubric,0.91,41,45,"92,verw. Stiftkanzler Homuth,,,,""1,000"",,","93,Der Fraußmann Fauk,,,,""1,794"",17,8"
+303,21620,break,high,rubric,0.82,37,45,"93,Der Fraußmann Fauk,,,,""1,794"",17,8","94,Geheimer Rath Strehn,,,,""2,666"",16,"
+303,21621,break,high,rubric,0.84,38,45,"94,Geheimer Rath Strehn,,,,""2,666"",16,","95,den Präsident Seidlitzschen Erben,,,,""30,000"",,"
+303,21622,break,high,rubric,1.11,50,45,"95,den Präsident Seidlitzschen Erben,,,,""30,000"",,","96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,""2,000"",,"
+303,21623,break,high,rubric,1.47,66,45,"96,dem Frankner Lazarus Schlesinger in Frankfurt a/M.,,,,""2,","97,Justitiarius Witinsky,,,,764,,"
+303,21624,break,high,rubric,0.73,33,45,"97,Justitiarius Witinsky,,,,764,,","98,Jude Mattersdorff,,,,600,,"
+303,21625,break,high,rubric,0.64,29,45,"98,Jude Mattersdorff,,,,600,,","99,Der v d Brelingschen Handlung in Dresden,,,,""19,000"",,"
+303,21626,break,high,rubric,1.27,57,45,"99,Der v d Brelingschen Handlung in Dresden,,,,""19,000"",,","100,Buchhandlung W. G. Korn,,,,""1,071"",21,3"
+303,21627,break,high,rubric,0.96,43,45,"100,Buchhandlung W. G. Korn,,,,""1,071"",21,3","101,Kaufmann Bauditz in Frankfurth a/O.,,,,""6,000"",,"
+303,21628,break,high,rubric,1.16,52,45,"101,Kaufmann Bauditz in Frankfurth a/O.,,,,""6,000"",,","102,Negotiant Zadik,,,,""8,250"",,"
+303,21629,break,high,rubric,0.71,32,45,"102,Negotiant Zadik,,,,""8,250"",,","103,dem Mr. R. Prubrechtischen Erben.,,,,""9,400"",,"
+303,21632,break,high,rubric,1.42,61,43,"104,dem Baugnur Meyer Bernhard Frankfurth a/od.,,,,""12,000"",","105,H v Rothkirch,,,,""10,000"",,"
+303,21633,break,high,rubric,0.72,31,43,"105,H v Rothkirch,,,,""10,000"",,","106,Hertschmer Hein in Breslau,,,,""165,000"",,"
+303,21634,break,high,rubric,1.05,45,43,"106,Hertschmer Hein in Breslau,,,,""165,000"",,","107,der Ges. Schlabrendorffschen Erben,,,,""35,000"",,"
+303,21635,break,high,rubric,1.21,52,43,"107,der Ges. Schlabrendorffschen Erben,,,,""35,000"",,","108,dem stehender Diet in Brieg,,,,""1,000"",,"
+303,21636,break,high,rubric,1.02,44,43,"108,dem stehender Diet in Brieg,,,,""1,000"",,","109,dem stehender Binek,,,,""4,500"",,"
+303,21637,break,high,rubric,0.84,36,43,"109,dem stehender Binek,,,,""4,500"",,","110,Den v. Zimetzkyschen Erben.,,,,""12,000"",,"
+303,21638,break,high,rubric,1.05,45,43,"110,Den v. Zimetzkyschen Erben.,,,,""12,000"",,","111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,"
+303,21639,break,high,rubric,1.35,58,43,"111,der Dok. Schindlerschen Testarius Executorié,,,,693,8,","112,Dok. Michaelis in Breslau,,,,""5,000"",,"
+303,21640,break,high,rubric,0.98,42,43,"112,Dok. Michaelis in Breslau,,,,""5,000"",,","113,Banquier Ottenſoser,.,,,601,9,"
+303,21641,break,high,rubric,0.79,34,43,"113,Banquier Ottenſoser,.,,,601,9,","114,Johann Hoffmann.,,,,""2,000"",,"
+303,21642,break,high,rubric,0.77,33,43,"114,Johann Hoffmann.,,,,""2,000"",,","115,Baron v Hénneberg,,,,""1,354"",,"
+303,21643,break,high,rubric,0.79,34,43,"115,Baron v Hénneberg,,,,""1,354"",,","116,Kaufmann Koppan in Breslau,,,,""80,000"",,"
+303,21644,break,high,rubric,1.02,44,43,"116,Kaufmann Koppan in Breslau,,,,""80,000"",,","117,Guthsbesitzer Schindler.,,,,""1,000"",,"
+303,21645,break,high,rubric,0.95,41,43,"117,Guthsbesitzer Schindler.,,,,""1,000"",,","118,der Handlung Maper und Scholtz,""3,464"",,,,,"
+303,21648,break,high,rubric,1.33,44,33,"119,Dem Major Friedr: v. Koopf,,,,""15,000"",,","120,Zimmermeister Krause,,,,629,21,9"
+303,21649,break,high,rubric,1.09,36,33,"120,Zimmermeister Krause,,,,629,21,9","121,Baugerin Kohn,,,,""2,000"",,"
+303,21650,break,high,rubric,0.91,30,33,"121,Baugerin Kohn,,,,""2,000"",,","122,den Fehr v. Lanschen Erben,,,,,,"
+303,21651,break,high,rubric,1.09,36,33,"122,den Fehr v. Lanschen Erben,,,,,,","123,den Kaufmann Benthan,350,,,,,"
+303,21652,break,high,rubric,1.0,33,33,"123,den Kaufmann Benthan,350,,,,,","124,Weigel und Sohn,,,,""2,510"",,"
+303,21653,break,high,rubric,0.97,32,33,"124,Weigel und Sohn,,,,""2,510"",,","125,Mendel Panofskaschen Curatel,,,,""1,000"",,"
+303,21654,break,high,rubric,1.36,45,33,"125,Mendel Panofskaschen Curatel,,,,""1,000"",,","126,v. Rechthoffschen Erben,,,,,,"
+303,21655,break,high,rubric,1.0,33,33,"126,v. Rechthoffschen Erben,,,,,,","127,Kaufmann Molinari,,,,""5,199"",10,"
+303,21656,break,high,rubric,1.09,36,33,"127,Kaufmann Molinari,,,,""5,199"",10,","128,Förster Nerlech,,,,335,,"
+303,21657,break,high,rubric,0.85,28,33,"128,Förster Nerlech,,,,335,,","129,Glester Friedrich,,,,119,2,"
+303,21658,break,high,rubric,0.94,31,33,"129,Glester Friedrich,,,,119,2,","130,Schneider Siebert,,,,155,18,"
+303,21661,break,high,rubric,0.99,36,36,"131,Dem Schmidt Gümmler,,,,""1,108"",,","132,dem Zimmermeister Linneschen Erben,,,,""1,625"",2,4"
+303,21662,break,high,rubric,1.45,53,36,"132,dem Zimmermeister Linneschen Erben,,,,""1,625"",2,4","133,dem Klempner Fürst,,,,339,22,"
+303,21663,break,high,rubric,0.9,33,36,"133,dem Klempner Fürst,,,,339,22,","134,dem Freiherrn von Eichendorff,,,,""3,333"",,"
+303,21664,break,high,rubric,1.26,46,36,"134,dem Freiherrn von Eichendorff,,,,""3,333"",,","135,der Oberlandes Gerichts Sporte Casse,,,,""1,140"",2,"
+303,21665,break,high,rubric,1.48,54,36,"135,der Oberlandes Gerichts Sporte Casse,,,,""1,140"",2,","136,dem Moses Bawitscher,,,,""1,200"",,"
+303,21666,break,high,rubric,1.01,37,36,"136,dem Moses Bawitscher,,,,""1,200"",,","137,der Witwe Müller,,,,97,,"
+303,21667,break,high,rubric,0.77,28,36,"137,der Witwe Müller,,,,97,,","138,der Ober Post Director Scheffler,,,,""1,526"",7,10"
+303,21668,break,high,rubric,1.42,52,36,"138,der Ober Post Director Scheffler,,,,""1,526"",7,10","139,Der Wittwe Lordemann,,,,,,"
+303,21669,break,high,rubric,0.82,30,36,"139,Der Wittwe Lordemann,,,,,,","140,verehelichten Herzog,,,,,,"
+303,21670,break,high,rubric,0.82,30,36,"140,verehelichten Herzog,,,,,,","141,Der Glaser Stark,,,,,,"
+303,21671,break,high,rubric,0.71,26,36,"141,Der Glaser Stark,,,,,,","142,der Handlung Ziepult & Sohn,,,,,,"

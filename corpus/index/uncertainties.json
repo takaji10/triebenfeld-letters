@@ -4035,7 +4035,7 @@
   "page": 1,
   "page_id": "0540_a",
   "scan": "Oe_1_Bu_9454_0540_a-L302_01.jpg",
-  "line": 21453,
+  "line": 21454,
   "doc_line": 3,
   "context": "Ich habe den Justiz Bürgermeister Hawich aus Zagorowo der alswirkl. Herzog Co[?]"
  },
@@ -4045,7 +4045,7 @@
   "page": 2,
   "page_id": "0541_a",
   "scan": "Oe_1_Bu_9454_0541_a-L302_02.jpg",
-  "line": 21490,
+  "line": 21491,
   "doc_line": 39,
   "context": "Zehntens Eine Vollmacht an H. Hawich zur Betreibung aller Gränzs[?]-Prozeße"
  },
@@ -5841,13 +5841,23 @@
  },
  {
   "uid": "oe1bu9454-9",
+  "marker": "[Kedl?]",
+  "page": 1,
+  "page_id": "0015_b",
+  "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
+  "line": 545,
+  "doc_line": 4,
+  "context": "[Kedl?] [...] hat ihm gesagt, daß er die ganze Herrschaft[...]"
+ },
+ {
+  "uid": "oe1bu9454-9",
   "marker": "[...]",
   "page": 1,
   "page_id": "0015_b",
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 545,
   "doc_line": 4,
-  "context": "Kedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...]"
+  "context": "[Kedl?] [...] hat ihm gesagt, daß er die ganze Herrschaft[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5857,7 +5867,7 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 545,
   "doc_line": 4,
-  "context": "Kedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...]"
+  "context": "[Kedl?] [...] hat ihm gesagt, daß er die ganze Herrschaft[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5867,17 +5877,17 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 546,
   "doc_line": 5,
-  "context": "schentin [...] haben könne — gerne [säh?] ich dem Patron[...]"
+  "context": "schentin [...] haben könne — gerne [seie?] ich dem Patron[...]"
  },
  {
   "uid": "oe1bu9454-9",
-  "marker": "[säh?]",
+  "marker": "[seie?]",
   "page": 1,
   "page_id": "0015_b",
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 546,
   "doc_line": 5,
-  "context": "schentin [...] haben könne — gerne [säh?] ich dem Patron[...]"
+  "context": "schentin [...] haben könne — gerne [seie?] ich dem Patron[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5887,7 +5897,7 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 546,
   "doc_line": 5,
-  "context": "schentin [...] haben könne — gerne [säh?] ich dem Patron[...]"
+  "context": "schentin [...] haben könne — gerne [seie?] ich dem Patron[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5917,17 +5927,7 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 548,
   "doc_line": 7,
-  "context": "für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]"
- },
- {
-  "uid": "oe1bu9454-9",
-  "marker": "[St. K. F. H.?]",
-  "page": 1,
-  "page_id": "0015_b",
-  "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
-  "line": 548,
-  "doc_line": 7,
-  "context": "für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]"
+  "context": "für [...] St[aats]. K[anzler]. F[ürst]. H[ardenberg]. was anzubringen ist, auch, wie[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5937,7 +5937,7 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 548,
   "doc_line": 7,
-  "context": "für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]"
+  "context": "für [...] St[aats]. K[anzler]. F[ürst]. H[ardenberg]. was anzubringen ist, auch, wie[...]"
  },
  {
   "uid": "oe1bu9454-9",
@@ -5947,7 +5947,17 @@
   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
   "line": 549,
   "doc_line": 8,
-  "context": "mit da [...] weiß ich das wie und wo, so mache ich hier"
+  "context": "mit da [...] [weiß?] ich das wie und wo, so mache ich hier"
+ },
+ {
+  "uid": "oe1bu9454-9",
+  "marker": "[weiß?]",
+  "page": 1,
+  "page_id": "0015_b",
+  "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
+  "line": 549,
+  "doc_line": 8,
+  "context": "mit da [...] [weiß?] ich das wie und wo, so mache ich hier"
  },
  {
   "uid": "oe1bu9454-9",
@@ -6810,6 +6820,36 @@
   "context": "Schreiben an ihm den Schenck mit der Abschrift des Zerbonischen Brogst[?]"
  },
  {
+  "uid": "oe1bu9454-299",
+  "marker": "[?]",
+  "page": 1,
+  "page_id": "0535_a2",
+  "scan": "Oe_1_Bu_9454_0535_a2-L299_01.jpg",
+  "line": 21265,
+  "doc_line": 22,
+  "context": "Hälfte Ceedirt[?] sind den die Güter waren nur für 64000 rt abgeschäzt"
+ },
+ {
+  "uid": "oe1bu9454-299",
+  "marker": "[7?]",
+  "page": 1,
+  "page_id": "0535_a2",
+  "scan": "Oe_1_Bu_9454_0535_a2-L299_01.jpg",
+  "line": 21271,
+  "doc_line": 28,
+  "context": "2. Sie müßen sofort den rükständigen Canon und Competenz mit circa [7?]000 bezahlen"
+ },
+ {
+  "uid": "oe1bu9454-299",
+  "marker": "[?]",
+  "page": 3,
+  "page_id": "0536_a2",
+  "scan": "Oe_1_Bu_9454_0536_a2-L299_03.jpg",
+  "line": 21326,
+  "doc_line": 81,
+  "context": "\"Der Wb[?] P schrieb auch lezthin am Landrath v Kurnatowski, er solle"
+ },
+ {
   "uid": "oe1bu9454-300",
   "marker": "[...]",
   "page": 1,
@@ -6817,7 +6857,7 @@
   "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
   "line": 21360,
   "doc_line": 4,
-  "context": "[...]halte ich die Nachricht daß im Gosztiszyn ein"
+  "context": "[...]halte ich die Nachricht daß in Gosztiszyn ein"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6857,67 +6897,7 @@
   "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
   "line": 21364,
   "doc_line": 8,
-  "context": "[...]sei könte d 22 nach Posen zurück — Er ward nach Berlin ge¬"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 1,
-  "page_id": "0537_b",
-  "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
-  "line": 21365,
-  "doc_line": 9,
-  "context": "[...]ten um verabschiedet oder wenigstens derbe gerichtfelt zu"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 1,
-  "page_id": "0537_b",
-  "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
-  "line": 21368,
-  "doc_line": 12,
-  "context": "[...]warf das mit seinen Secretaire Schmidt und sandte es am Ende"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 1,
-  "page_id": "0537_b",
-  "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
-  "line": 21369,
-  "doc_line": 13,
-  "context": "[...] Fürsten Radziwiłł zur mit Unterschrift zu — Radziwill ver¬"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 1,
-  "page_id": "0537_b",
-  "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
-  "line": 21372,
-  "doc_line": 16,
-  "context": "[...] F. Rad[ziwiłł]: sandte also dem Zerboni die Prese[?] mit dem gehörigen"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "0537_b",
-  "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
-  "line": 21372,
-  "doc_line": 16,
-  "context": "[...] F. Rad[ziwiłł]: sandte also dem Zerboni die Prese[?] mit dem gehörigen"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 2,
-  "page_id": "0538_a",
-  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-  "line": 21377,
-  "doc_line": 20,
-  "context": "Dies ward dem Fürsten Radziwiłł so gleich[...]"
+  "context": "[...]ni kömt d 22 nach Posen zurück — Er ward nach Berlin ge¬"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6927,7 +6907,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21378,
   "doc_line": 21,
-  "context": "im höchsten Grad aigrirt gieng sogleich mit[...]"
+  "context": "Dies ward dem Fürsten Radziwiłł soglei[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6937,7 +6917,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21379,
   "doc_line": 22,
-  "context": "Gemahlin folgte ihm, und beide beſte[...]"
+  "context": "im höchsten Grad aigrirt gieng sogleich mit[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6947,7 +6927,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21380,
   "doc_line": 23,
-  "context": "der König ließ den Fürsten Hau[...]"
+  "context": "Gemahlin folgte ihm, und beide beste[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6957,7 +6937,17 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21381,
   "doc_line": 24,
-  "context": "\"wirten wohl daß der[...]"
+  "context": "der König ließ den Fürsten Ha[...]"
+ },
+ {
+  "uid": "oe1bu9454-300",
+  "marker": "[wüste?]",
+  "page": 2,
+  "page_id": "0538_a",
+  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+  "line": 21382,
+  "doc_line": 25,
+  "context": "\"[wüste?] wohl daß d[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6967,7 +6957,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21382,
   "doc_line": 25,
-  "context": "der p. ist ein neu[...]\""
+  "context": "\"[wüste?] wohl daß d[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6977,7 +6967,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21383,
   "doc_line": 26,
-  "context": "Z ward sofort nach Berlin[...]"
+  "context": "der p. ist ein un[...]\""
  },
  {
   "uid": "oe1bu9454-300",
@@ -6987,7 +6977,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21384,
   "doc_line": 27,
-  "context": "unbekandt — Es heißt Klew[...]"
+  "context": "Z[erboni] ward sofort nach Berlin[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -6997,7 +6987,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21385,
   "doc_line": 28,
-  "context": "aber die Geld Männer als Stag[...]"
+  "context": "unbekandt — Es heißt Klew[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -7007,17 +6997,7 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21386,
   "doc_line": 29,
-  "context": "ich gehe Behutsam mit meine Sachen —[...]"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 2,
-  "page_id": "0538_a",
-  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-  "line": 21387,
-  "doc_line": 30,
-  "context": "zu Petersburg ſoll es gänztig ausſehen.[...]"
+  "context": "aber die Geld Männer als Stag[...]"
  },
  {
   "uid": "oe1bu9454-300",
@@ -7027,67 +7007,27 @@
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
   "line": 21388,
   "doc_line": 31,
+  "context": "zu Peterbourg soll es gärstig aussehen —[...]"
+ },
+ {
+  "uid": "oe1bu9454-300",
+  "marker": "[...]",
+  "page": 2,
+  "page_id": "0538_a",
+  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+  "line": 21389,
+  "doc_line": 32,
   "context": "Senat sollen die Pohln[ische] Constitution, welche der[...]"
  },
  {
   "uid": "oe1bu9454-300",
-  "marker": "[...]",
+  "marker": "[gegen?]",
   "page": 2,
   "page_id": "0538_a",
   "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-  "line": 21395,
-  "doc_line": 38,
-  "context": "Gr Furst Constantin ist wie auf Windes Flügeln nach Petersburg ge[...]"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[...]",
-  "page": 2,
-  "page_id": "0538_a",
-  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-  "line": 21399,
-  "doc_line": 42,
-  "context": "In der Haupt Sache beziehe ich mich auf mein lezteres Schreiben, [...]"
- },
- {
-  "uid": "oe1bu9454-300",
-  "marker": "[9?]",
-  "page": 2,
-  "page_id": "0538_a",
-  "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-  "line": 21403,
-  "doc_line": 46,
-  "context": "2[9?] Januar 1816"
- },
- {
-  "uid": "oe1bu9454-299",
-  "marker": "[?]",
-  "page": 1,
-  "page_id": "0535_a2",
-  "scan": "Oe_1_Bu_9454_0535_a2-L299_01.jpg",
-  "line": 21265,
-  "doc_line": 22,
-  "context": "Hälfte Ceedirt[?] sind den die Güter waren nur für 64000 rt abgeschäzt"
- },
- {
-  "uid": "oe1bu9454-299",
-  "marker": "[7?]",
-  "page": 1,
-  "page_id": "0535_a2",
-  "scan": "Oe_1_Bu_9454_0535_a2-L299_01.jpg",
-  "line": 21271,
-  "doc_line": 28,
-  "context": "2. Sie müßen sofort den rükständigen Canon und Competenz mit circa [7?]000 bezahlen"
- },
- {
-  "uid": "oe1bu9454-299",
-  "marker": "[?]",
-  "page": 3,
-  "page_id": "0536_a2",
-  "scan": "Oe_1_Bu_9454_0536_a2-L299_03.jpg",
-  "line": 21326,
-  "doc_line": 81,
-  "context": "\"Der Wb[?] P schrieb auch lezthin am Landrath v Kurnatowski, er solle"
+  "line": 21396,
+  "doc_line": 39,
+  "context": "Gr Furst Constantin ist wie auf Windes Flügeln nach Peterbourg [gegen?]"
  },
  {
   "uid": "iiihamdaiiinr12765-15",
@@ -8835,7 +8775,7 @@
   "page": 1,
   "page_id": "0542_a",
   "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
-  "line": 21525,
+  "line": 21526,
   "doc_line": 7,
   "context": "5,Der H. v. Feannert[?],,,,200,,"
  },
@@ -8845,7 +8785,7 @@
   "page": 4,
   "page_id": "0544_a1",
   "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
-  "line": 21585,
+  "line": 21586,
   "doc_line": 64,
   "context": "62,dem J. K[?]. R. Brasfert,,,,,,"
  }

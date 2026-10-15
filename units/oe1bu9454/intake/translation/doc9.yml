@@ -1,16 +1,17 @@
 # Oe 1 Bü 9454, letter 9: the English, written in the working session on 2026-10-15 from the text made from
 # the editor's transcription and the scan (intake/scripts/letter_9.py). The letter had no English before.
 # "[text lost]" stands for each "[...]" of the German (text lost in the hole or under the folded corner), and
-# words read with doubt are "[uncertain: ...]", as in the rest of the holding: 17 and 3, as in the German.
+# words read with doubt are "[uncertain: ...]", as in the rest of the holding: 17 and 4, as in the German
+# (after the editor's answers on the spot sheet, intake/scripts/spot_answers_9.py).
 # Koschentin is Koszęcin, as in the holding's English. Written to the cache by write_cache.py.
 pages:
 - page: 1
   confidence: medium
-  marker_count: 20
+  marker_count: 21
   en: |-
     9
 
-    the Privy Councillor of State von Beguelin is working through Barbe's mediation [text lost] for [text lost] the Koszęcin business I am pursuing through him — But the very [text lost] Kedl [text lost] has told him that he could have the whole lordship [text lost]schentin [text lost] — I should gladly [uncertain: see] the Patron [text lost] face [text lost] me after all through whom and what you [text lost] for [text lost] [uncertain: St. K. F. H.] is to be brought forward, also how [text lost] with the [text lost] I know the how and where, so here I am doing everything poss[text lost]
+    the Privy Councillor of State von Beguelin is working through Barbe's mediation [text lost] for [text lost] the Koszęcin business I am pursuing through him — But the very [text lost] [uncertain: Kedl] [text lost] has told him that he could have the whole lordship [text lost]schentin [text lost] — I should gladly [uncertain: seie] the Patron [text lost] face [text lost] me after all through whom and what you [text lost] for [text lost] the State Chancellor Prince Hardenberg is to be brought forward, also how [text lost] with the [text lost] I [uncertain: know] the how and where, so here I am doing everything poss[text lost]
 
     About the [text lost] 1811 everything is already agreed, if only the 112/m Rthl are first granted [text lost]
 
