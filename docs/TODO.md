@@ -455,10 +455,8 @@ photos, translated, summarised and claim-checked; holding page, a timeline
 entry and paragraphs in the story. Thirteen documents since your ruling on
 copies. Details: `units/app539680716/notes.md`.
 
-- [ ] Look at the folds and the page edges:
-      `review/app539680716/folds/index.html` (placed in session; the red
-      line is the fold, the green lines what is kept of each page; save and
-      send the file if you move any).
+- [x] You looked at the folds and the page edges and let them stand
+      (2026-10-15).
 - [x] You answered the spot sheet "Readings in Breyer's Łazińsk notebook"
       (17 rows, 2026-10-15). Worked in the same day.
 - [x] You answered the second spot sheet "The other readings in Breyer's
@@ -478,8 +476,11 @@ its copy of 1869 and the entries to 1901, six documents, read from the
 scans, translated, summarised and claim-checked; in the new era of the
 liquidation. Details: `units/apl399806603/notes.md`.
 
-- [ ] Look at the page edges where two scans are joined into one page:
-      `review/apl399806603/folds/index.html` (the green lines).
-- [ ] The doubtful readings (21), on a spot sheet when you want them.
+- [x] You looked at the page edges where two scans are joined into one
+      page and let them stand (2026-10-15).
+- [ ] Answer the spot sheet "Doubtful readings in the liquidation table of
+      Łazińsk": all 21 marks of doubt on 16 rows, the clerks' recurring
+      signatures asked once (`python pipeline/review/queries.py --unit
+      apl399806603 --sheet readings.csv --port 4103`).
 - [ ] A name for the era (`liquidation` is a working name).
 - [ ] Your word to publish.

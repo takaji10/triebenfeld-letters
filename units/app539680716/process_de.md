@@ -1,6 +1,6 @@
 ### Bilder
 
-Der Herausgeber fotografierte das Heft 2023, als Rohdateien der Kamera, IMG_5159 bis IMG_5180. Ein Rohkonverter wurde nicht benutzt: Jede Datei enthält das Bild der Kamera in voller Größe, und dieses wurde auf das Papier zugeschnitten und bei den Doppelseiten am Falz geteilt, sodass jede Seite ihr eigenes Bild hat. IMG_5159 zeigt das Titelblatt des Archivs neben dem Heft und dem Blatt; nur das Titelblatt wird daraus genommen. IMG_5160 und IMG_5161 sind die beiden Seiten des losen Blattes, IMG_5162 der Umschlag. IMG_5168 wiederholt die Doppelseite von IMG_5169 und wird nicht benutzt; die leere Innenseite des vorderen Umschlags ist weggelassen. Die Falze wurden in der Sitzung gesetzt; der Herausgeber hat sie noch nicht angesehen.
+Der Herausgeber fotografierte das Heft 2023, als Rohdateien der Kamera, IMG_5159 bis IMG_5180. Ein Rohkonverter wurde nicht benutzt: Jede Datei enthält das Bild der Kamera in voller Größe, und dieses wurde auf das Papier zugeschnitten und bei den Doppelseiten am Falz geteilt, sodass jede Seite ihr eigenes Bild hat. IMG_5159 zeigt das Titelblatt des Archivs neben dem Heft und dem Blatt; nur das Titelblatt wird daraus genommen. IMG_5160 und IMG_5161 sind die beiden Seiten des losen Blattes, IMG_5162 der Umschlag. IMG_5168 wiederholt die Doppelseite von IMG_5169 und wird nicht benutzt; die leere Innenseite des vorderen Umschlags ist weggelassen. Die Falze wurden in der Sitzung gesetzt und vom Herausgeber gebilligt.
 
 ### Transkription
 

@@ -131,8 +131,8 @@ so check them.
   marks of doubt): do not publish anything else from `main` without saying
   that it goes with it. The editor's spot-sheet answers are in
   (2026-10-15). Michalina died 19 January 1851, Włodzimierz 20 December
-  1879, then his nephew Władysław was heir (editor). Waits for the
-  editor's look at the folds and their word
+  1879, then his nephew Władysław was heir (editor). The folds and page
+  edges are approved (editor, 2026-10-15); waits for their word
   (`docs/TODO.md`, section 14). Read `units/app539680716/notes.md` first.
 - **Everything else is published and pushed (2026-10-14)**: 570 documents in
   40 holdings, 1589 to 1936. The last three, all from

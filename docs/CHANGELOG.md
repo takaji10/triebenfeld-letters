@@ -1960,6 +1960,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The editor's ruling: the original liquidation table is the authority for the numbers too. Every figure of Breyer's copy (APP 53/968/0/-/716, document 4) compared with APŁ 39/98/0/-/6603; four differed and now follow the original: no. 12 122 rods (read 222), no. 29 188 (read 184), no. 46 38-66 (read 38-61), and nos. 47 and 48 in the original's order. The notes record what was read.
 - At the editor's word, the Zelmer family in the people index now also matches Цельмеръ: the table, its copy and the statement of 6603 and Breyer's copy are linked to the family, and its bio names the five holdings of 1868.
 
+## Page edges approved; a spot sheet for the original table (2026-10-15)
+
+- The editor let the folds and page edges of APP 53/968/0/-/716 and APŁ 39/98/0/-/6603 stand ("The page edges look fine").
+- All 21 marks of doubt in APŁ 39/98/0/-/6603 put on a spot sheet, "Doubtful readings in the liquidation table of Łazińsk": 16 rows, each with a picture, the signatures that recur under three documents asked once.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

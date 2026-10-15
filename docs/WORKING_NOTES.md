@@ -771,6 +771,15 @@ Where the rest is:
   uses `query_answers.json`. Look for the right name before saying nothing
   was answered, and copy the answers into the holding's `intake/` when they
   are worked in, as `review/` is not in the repository.
+- **On a printed table form, place a spot sheet's pictures by box, not by
+  line count** (APŁ 39/98/0/-/6603's `intake/spot_sheet.py`, 2026-10-15):
+  the ruled rows of a form do not fall at an even pitch. Find each box on a
+  gridded preview, then look at every crop before serving the sheet. On a
+  joined, wide page the preview is shorter than it is wide: read the
+  position from the grid lines, not from pixels (one crop showed row 5
+  for row 4). Say clearly which sheets the editor has had: they asked
+  whether they had gone over the original's readings, which had never
+  been put on a sheet.
 - **Checking the pictures of a spot sheet is a second reading.** On
   53/968/0/-/716 it showed a word read without doubt that looks otherwise
   (Вдовьiй / Вельскiй) and a word broken across two lines that was

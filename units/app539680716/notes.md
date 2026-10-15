@@ -10,8 +10,9 @@ German and Polish; six documents are tables. Added on 2026-10-14 at the
 editor's request: read from the editor's photos in session (there was no
 transcription), translated, summarised in both languages and
 claim-checked, with its page, a timeline entry (29 June 1868) and a
-paragraph in the story. **Built and committed; not published.** Waits for
-the editor's look at the folds, the spot sheet and their word.
+paragraph in the story. **Built and committed; not published.** The editor
+approved the folds and page edges (2026-10-15) and answered both spot
+sheets; it waits for their word.
 
 Everything about how the holding was made is in the docstrings of
 `intake/holding.py` (the steps), `intake/photos.py` (the images),
@@ -51,7 +52,8 @@ session) into `processed/`. IMG_5159: only the archive's title page is
 taken (editor). IMG_5168 repeats IMG_5169 and is not used; the blank
 inside front cover (5163_a1) is left out. The fold page is
 `review/app539680716/folds/index.html` (`holding.py --sheet`); the editor
-has not yet looked at it. Page edges (2026-10-15, the editor): the back
+looked at it and let the folds and edges stand (2026-10-15: "The page
+edges look fine"). Page edges (2026-10-15, the editor): the back
 of the sheet of 1858 (IMG_5161) is cut at its fold, x 2260, where its
 writing ends, and the last page (IMG_5180) at x 1680, before the inside
 back cover (`EDGES` in `holding.py`, the first proposal; the green lines
@@ -186,7 +188,6 @@ named people from the Russian tables in German forms).
 
 ## Open
 
-- The editor's look at the folds.
 - Settled (editor, 2026-10-15): Michalina died on 19 January 1851 and
   Włodzimierz on 20 December 1879, so 1858 to 1870 are his years. His
   nephew Władysław Miączyński became heir; the edition has no era for the

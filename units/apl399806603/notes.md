@@ -38,7 +38,7 @@ entries) are joined: each scan cut at its page edge (`EDGES` in
 `holding.py`, placed in session) and the halves set side by side as the
 left scan's page (`0013_a` and so on). The fold page
 (`review/apl399806603/folds/index.html`) shows the green edge lines; the
-editor has not yet looked at it.
+editor let them stand (2026-10-15: "The page edges look fine").
 
 ## The reading
 
@@ -90,5 +90,9 @@ the table, its copy and the statement alike (was [Мануилъ?] and
 
 ## Open
 
-- The editor's look at the reading and at the page edges.
+- The editor's look at the reading: all 21 marks of doubt on the spot sheet
+  "Doubtful readings in the liquidation table of Łazińsk" (16 rows, the
+  recurring signatures asked once; `intake/spot_sheet.py`, rows in
+  `review/apl399806603/readings.csv`, `queries.py --unit apl399806603
+  --sheet readings.csv --port 4103`), 2026-10-15.
 - The era's name (`liquidation`, a working name).
