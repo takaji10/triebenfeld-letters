@@ -382,7 +382,8 @@ terms:
     render: 'Morgen'
     gloss: 'a land measure, roughly a quarter-hectare in Prussia'
   - term: Komornik                          # 5 in corpus
-    pattern: '\bKomornik\w*'
+    # Not "Komornikow": in ADWł 85 (leaf 29v) the cottagers living on a clearing.
+    pattern: '\bKomornik(?!ow\b)\w*'
     policy: keep
     render: 'komornik'
     gloss: 'a Polish court bailiff / enforcement officer'

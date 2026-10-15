@@ -9129,8 +9129,9 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 404,
+  "count": 407,
   "documents": [
+   "adwl85-1",
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
    "app53150kaliszgr425-1",
@@ -12009,6 +12010,33 @@
     "scan": "APP_53_17_0_Konin_Gr_121_0564_a1-L1_02.jpg",
     "line": 7,
     "doc_line": 4
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Prusimskiego",
+    "page": 1,
+    "page_id": "0023_b",
+    "scan": "ADWl_85_0023_b-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Prusimskiego",
+    "page": 2,
+    "page_id": "0024_a",
+    "scan": "ADWl_85_0024_a-L1_02.jpg",
+    "line": 9,
+    "doc_line": 6
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Prusimski",
+    "page": 5,
+    "page_id": "0025_b",
+    "scan": "ADWl_85_0025_b-L1_05.jpg",
+    "line": 41,
+    "doc_line": 35
    },
    {
     "uid": "oe1bu14525-39",
@@ -64642,6 +64670,104 @@
   ]
  },
  {
+  "entity": "prusimska-katarzyna",
+  "display": "Katarzyna Prusimska, born Rozdrażewska",
+  "count": 9,
+  "documents": [
+   "adwl85-1",
+   "app53170koningr115-1",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr118-14",
+   "app53170koningr136-1",
+   "app536045-1",
+   "app539680783-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimska",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0673_a1",
+    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-1",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0004_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-14",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0496_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
+    "line": 70,
+    "doc_line": 2
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Prusimskiey",
+    "page": 5,
+    "page_id": "0025_b",
+    "scan": "ADWl_85_0025_b-L1_05.jpg",
+    "line": 40,
+    "doc_line": 34
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Prusińska",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 28,
+    "doc_line": 19
+   }
+  ]
+ },
+ {
   "entity": "dolffs",
   "display": "von Dolffs",
   "count": 9,
@@ -65482,90 +65608,87 @@
   ]
  },
  {
-  "entity": "prusimska-katarzyna",
-  "display": "Katarzyna Prusimska, born Rozdrażewska",
+  "entity": "trampczynski",
+  "display": "Trąmpczyński (Otto-Trąmpczyński)",
   "count": 8,
   "documents": [
-   "app53170koningr115-1",
-   "app53170koningr117-7",
-   "app53170koningr117-8",
-   "app53170koningr118-14",
-   "app53170koningr136-1",
-   "app536045-1",
-   "app539680783-1"
+   "adwl85-1",
+   "app53150kaliszgr425-1",
+   "app536017-1",
+   "app536036-1"
   ],
   "mentions": [
    {
-    "uid": "app53170koningr136-1",
-    "surface": "Prusimska",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
+    "uid": "app536017-1",
+    "surface": "Thrąmpczyńsky",
     "page": 1,
-    "page_id": "0673_a1",
-    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0004_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "page_id": "0027_a2",
+    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
     "line": 4,
     "doc_line": 2
    },
    {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0072_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
-    "line": 41,
-    "doc_line": 5
+    "uid": "app536036-1",
+    "surface": "Trąmpczynscy",
+    "page": 1,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
-    "uid": "app53170koningr117-8",
-    "surface": "Prusimska",
+    "uid": "app536036-1",
+    "surface": "Trąmpczyńskich",
     "page": 1,
-    "page_id": "0072_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
-    "line": 46,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
     "doc_line": 2
    },
    {
-    "uid": "app53170koningr118-14",
-    "surface": "Prusimska",
+    "uid": "app536036-1",
+    "surface": "Trąmpczyński",
     "page": 1,
-    "page_id": "0496_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
-    "line": 70,
+    "page_id": "0642_a1",
+    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+    "line": 4,
     "doc_line": 2
    },
    {
-    "uid": "app539680783-1",
-    "surface": "Prusińska",
+    "uid": "app53150kaliszgr425-1",
+    "surface": "Trąmpczyński",
     "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 28,
-    "doc_line": 19
+    "page_id": "0498_a1",
+    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a1-L1_02.jpg",
+    "line": 10,
+    "doc_line": 7
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Trąmbczyńskich",
+    "page": 5,
+    "page_id": "0025_b",
+    "scan": "ADWl_85_0025_b-L1_05.jpg",
+    "line": 40,
+    "doc_line": 34
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Trąbczyński",
+    "page": 7,
+    "page_id": "0029_a",
+    "scan": "ADWl_85_0029_a-L1_07.jpg",
+    "line": 51,
+    "doc_line": 43
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Trąmbczyński",
+    "page": 8,
+    "page_id": "0029_b",
+    "scan": "ADWl_85_0029_b-L1_08.jpg",
+    "line": 54,
+    "doc_line": 45
    }
   ]
  },
@@ -69199,63 +69322,6 @@
   ]
  },
  {
-  "entity": "trampczynski",
-  "display": "Trąmpczyński (Otto-Trąmpczyński)",
-  "count": 5,
-  "documents": [
-   "app53150kaliszgr425-1",
-   "app536017-1",
-   "app536036-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app536017-1",
-    "surface": "Thrąmpczyńsky",
-    "page": 1,
-    "page_id": "0027_a2",
-    "scan": "APP_53_6_0_17_0027_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczynscy",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczyńskich",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app536036-1",
-    "surface": "Trąmpczyński",
-    "page": 1,
-    "page_id": "0642_a1",
-    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53150kaliszgr425-1",
-    "surface": "Trąmpczyński",
-    "page": 2,
-    "page_id": "0498_a1",
-    "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a1-L1_02.jpg",
-    "line": 10,
-    "doc_line": 7
-   }
-  ]
- },
- {
   "entity": "dambski-ludwik",
   "display": "Ludwik Dąmbski, voivode of Brześć Kujawski",
   "count": 5,
@@ -72027,6 +72093,139 @@
     "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
     "line": 21584,
     "doc_line": 62
+   }
+  ]
+ },
+ {
+  "entity": "czartoryski-teodor",
+  "display": "Teodor Czartoryski, Bishop of Poznań",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Czartoryskiego",
+    "page": 1,
+    "page_id": "0023_b",
+    "scan": "ADWl_85_0023_b-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
+  "entity": "kozierowski",
+  "display": "Ignacy Augustyn Kozierowski, bishop",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Kozierowskiego",
+    "page": 1,
+    "page_id": "0023_b",
+    "scan": "ADWl_85_0023_b-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
+  "entity": "zurkowski",
+  "display": "Józef Zurkowski",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Zurkowski",
+    "page": 1,
+    "page_id": "0023_b",
+    "scan": "ADWl_85_0023_b-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
+  "entity": "dorposki",
+  "display": "Dorposki",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Dorposkiego",
+    "page": 6,
+    "page_id": "0028_b",
+    "scan": "ADWl_85_0028_b-L1_06.jpg",
+    "line": 46,
+    "doc_line": 39
+   }
+  ]
+ },
+ {
+  "entity": "paprocki",
+  "display": "Paprocki, parish priest of Trąbczyn",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Paprockiego",
+    "page": 6,
+    "page_id": "0028_b",
+    "scan": "ADWl_85_0028_b-L1_06.jpg",
+    "line": 46,
+    "doc_line": 39
+   }
+  ]
+ },
+ {
+  "entity": "strzalkowski",
+  "display": "Strzałkowski",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Strzałkowskiego",
+    "page": 7,
+    "page_id": "0029_a",
+    "scan": "ADWl_85_0029_a-L1_07.jpg",
+    "line": 51,
+    "doc_line": 43
+   }
+  ]
+ },
+ {
+  "entity": "wardencki",
+  "display": "Stefan Wardencki",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Wardenckiego",
+    "page": 7,
+    "page_id": "0029_a",
+    "scan": "ADWl_85_0029_a-L1_07.jpg",
+    "line": 51,
+    "doc_line": 43
    }
   ]
  },

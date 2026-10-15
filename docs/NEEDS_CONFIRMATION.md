@@ -319,6 +319,13 @@ written until there is a witness or a better scan.
   transcribed, in `units/iiihamdaiiinr12367/intake/unresolved.md`. The chief
   ones are two doubtful words in the margin line of Mohrenheim's note on
   scan 0004 and the unread signature on scan 0007.
+- **ADWł 85** (the visitation of Trąbczyn, 1790-1791, added 2026-10-15):
+  12 marks of doubt, all on the spot sheet `readings.csv`, not yet
+  answered. The chief ones are the names of two benefactors on leaf 29
+  (Bagusławski[?], Golinska[?]), the farm "Uta[?]" on leaf 24 and the boys
+  of the town of Zagórów (58[?], perhaps 68). The clerk's own totals of the
+  Zagórów table do not agree with his figures (women 1030 against 1040,
+  all 2734 against 2740): transcribed as written.
 - **AGAD 1/174/0/2/73 and 1/174/0/1/6**: words left as written, in each
   unit's `intake/unresolved.md`. The chief one is "upoznieniem" in the
   closing formula of the petition of 23 July 1807.

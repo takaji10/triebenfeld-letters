@@ -299,8 +299,10 @@ people:
     render: "Trąmpczyński"
     # Only in the documents listed: in the Polish of the boundary decree
     # "Trąpczyński" is the adjective of the place (gruntu Trąpczyńskiego).
-    match: 'Th?r[ąa]m?pczy[nń]s(?:k(?:iego|ich|i|y|a)|cy)(?![a-zà-ÿ])'
-    only_in: [app536017-1, app536036-1, app536036-2, app53150kaliszgr425-1]
+    # In the visitation of 1791 (ADWł 85) only after "W" or "Andrzy": "od W Trąmbczyńskich
+    # niegdy Dziedzicow", "W. Trąbczyński Dziedzic", "W. Andrzy Trąmbczyński".
+    match: 'Th?r[ąa]m?pczy[nń]s(?:k(?:iego|ich|i|y|a)|cy)(?![a-zà-ÿ])|(?<=W )Trąmbczyńskich|(?<=W\. )Trąbczyński(?![a-zà-ÿ])|(?<=Andrzy )Trąmbczyński(?![a-zà-ÿ])'
+    only_in: [app536017-1, app536036-1, app536036-2, app53150kaliszgr425-1, adwl85-1]
     tier: "Text-confirmed"
     variants: []
     identity: "The family that held Trąbczyn before the Prusimskis and took its name from it, with the by-name Otto ('Otha', 'Ottow Trąmpczyńskich'). In 1589 Albertus Trąmpczyński Otha sued Thomas Łukomski for a pond at Łukom that flooded his woods (APP 53/6/0/-/17). In 1644 the brothers Marcin, Wojciech, Władysław and Andrzej, sons of the late Stanisław, and his widow Anna of Słończyce were condemned by default at the suit of Jerzy Chełmski (APP 53/6/0/-/36). A family entry. Added 2026-10-06."
@@ -617,8 +619,10 @@ people:
     # Michalina (prusimska). Add a document here when one of hers comes in.
     # "Katarzyna z Rozdrażewskich Prusińska" in the summons of 1860 (APP
     # 53/968/0/-/783).
-    match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])|(?<=Rozdrażewskich )Prusińska'
-    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app539680783-1]
+    # "Pani z Rozrazeskich Prusimskiey Szambelanowey", the chamberlain's wife
+    # who enlarged the church of Trąbczyn (ADWł 85, the visitation of 1791).
+    match: 'Pru[sz]+ie?mska(?![a-zà-ÿ])|(?<=Rozdrażewskich )Prusińska|(?<=Rozrazeskich )Prusimskiey'
+    only_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app539680783-1, adwl85-1]
     tier: "Text-confirmed"
     variants: []
     identity: "Katarzyna Prusimska, born Rozdrażewska, a widow, party against Stanisław Ścibor Chełmski before the land court at Konin in 1763 over potash stopped at Pyzdry in 1761 (APP 53/6/0/-/45: 'Magnificam Catharinam de Rozdrazewska Prusimska relicta viduam'). The record of the inspection of Trąbczyn made at her request in July 1754 calls her widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates (APP 53/17/0/-/Konin Gr.136). Added 2026-10-06."
@@ -675,7 +679,7 @@ people:
     # Kolno (14525), is a different and earlier man, and is not matched.
     # The summons of 1860 (APP 53/968/0/-/783) prints the family "Prusiński":
     # "Antoniego Prusińskiego Starosty", "Antoniemu Prusińskiemu".
-    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu"
+    match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu|(?<=JWo Antoniego )Prusimskiego|(?<=JWo Mści Antoniego )Prusimskiego"
     # In the decree of 1728 (APP 53/6/0/-/40) "Prusimski" is Krzysztof, his
     # grandfather, and "Antonio Prusimski filio" the uncle of the same name:
     # prusimski-krzysztof.
@@ -1835,3 +1839,57 @@ people:
     tier: "Context-inferred"
     variants: ["Bischoffswerder"]
     identity: "A Prussian general 'Bischoffswerder' whom Michalina Dąbska names in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those to whom her father's estates were given (AGAD 1/174/0/2/73, documents 2 and 3). Probably Johann Rudolf von Bischoffwerder (1741-1803), the favourite of King Friedrich Wilhelm II, of whom Triebenfeld also speaks (Oe 1 Bü 9454). No other holding names him among the donees. Added 2026-10-04."
+  # --- ADWł 85, the visitation of 1790-1791, added 2026-10-15 ----------------
+  zurkowski:
+    display: "Józef Zurkowski"
+    match: '[ZŻ]urkowsk\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The Reverend Józef Zurkowski (so written; Żurkowski in modern spelling), parish priest of Trąbczyn at the visitation of 1790-1791: born in the diocese of Poznań on 9 July 1740, ordained priest on 24 February 1767, instituted to Trąbczyn by the consistory of Gniezno on 21 February 1785 on the presentation of Antoni Prusimski, Starost of Niszczewice (ADWł 85, leaf 23 verso). Added 2026-10-15."
+  czartoryski-teodor:
+    display: "Teodor Czartoryski, Bishop of Poznań"
+    render: "Teodor Czartoryski"
+    match: 'Czartorysk\w*'
+    # In Oe 1 Bü 14526 the name is another bearer of it.
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"X. Teodor Hrabia na Klewaniu i Żukowie Czartoryski, Biskup Poznański\", who gave Józef Zurkowski letters dimissory on 17 December 1766 (ADWł 85, leaf 23 verso): Teodor Kazimierz Czartoryski, Bishop of Poznań. Added 2026-10-15."
+  kozierowski:
+    display: "Ignacy Augustyn Kozierowski, bishop"
+    render: "Ignacy Augustyn Kozierowski"
+    match: 'Kozierowsk\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"X. Ignacy Augustyn Sariusz Kozierok[?] Kozierowski, Biskup Adratyński\", who ordained Józef Zurkowski priest on 24 February 1767 (ADWł 85, leaf 23 verso). The word before Kozierowski is read with doubt. Added 2026-10-15."
+  paprocki:
+    display: "Paprocki, parish priest of Trąbczyn"
+    render: "Paprocki"
+    match: 'Paprock\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"S.P. JMść X. Paprocki, tuteyszy Pasterz\", a late parish priest of Trąbczyn, to whose creditors the parish books were given that are missing in 1791 (ADWł 85, leaf 28 verso). Added 2026-10-15."
+  dorposki:
+    display: "Dorposki"
+    match: 'Dorposk\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"JMść X. Dorposki\", a priest at whose visitation of Trąbczyn books were found that were no longer there in 1791 (ADWł 85, leaf 28 verso). Added 2026-10-15."
+  wardencki:
+    display: "Stefan Wardencki"
+    match: 'Wardenck\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"JMć Pan Stefan Wardencki\", who in 1668 secured 350 Polish złoty for the church of Trąbczyn on part of Kurów (ADWł 85, leaf 29). Added 2026-10-15."
+  strzalkowski:
+    display: "Strzałkowski"
+    match: 'Strzałkowsk\w*'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"JMć Pan Strzałkowski\", who in 1670 secured 500 Polish złoty for the church of Trąbczyn on Strzałkowo, recorded at Kalisz and Pyzdry (ADWł 85, leaf 29). Added 2026-10-15."

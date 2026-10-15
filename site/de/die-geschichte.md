@@ -25,7 +25,7 @@ fehlt.
 
 **Die Familie Prusimski, der Trąbczyn gehörte, gegen die Familie Chełmski im benachbarten
 Łukom. ca. 1589 bis 1788.
-[92 Dokumente, 1589 bis 1788]({{ '/de/quellen/' | relative_url }}).**
+[95 Dokumente, 1589 bis 1791]({{ '/de/quellen/' | relative_url }}).**
 
 Zweihundert Jahre Streit zwischen benachbarten Gütern darüber, wo das eine endete und das
 andere begann. Er läuft durch die Gerichte in Konin, Pyzdry und Kalisch, und die Beweise
@@ -57,8 +57,11 @@ die Karte eingezeichneten Linie aufwerfen
 ([das Dekret von 1782]({{ '/de/quellen/app53170koningr153/' | relative_url }})). Einträge aus
 den Gerichtsregistern von Konin und Kalisch, von 1754 bis 1788, folgen dem Streit im
 Gelände und vor Gericht davor und danach; jeder Bestand steht unter
-[Quellen]({{ '/de/quellen/' | relative_url }}). Eine ausführlichere Darstellung dieser Jahre
-ist noch zu schreiben.
+[Quellen]({{ '/de/quellen/' | relative_url }}). Aus den letzten Jahren vor der Teilung stammen
+ein Register der Rauchfangsteuer von 1789 ([1789]({{ '/de/quellen/app53640kalisztab21/' | relative_url }}))
+und die Visitation der Pfarrei Trąbczyn 1790 und 1791, die ihre 760 Seelen zählt
+([die Visitation]({{ '/de/quellen/adwl85/' | relative_url }})). Eine ausführlichere Darstellung
+dieser Jahre ist noch zu schreiben.
 
 ---
 

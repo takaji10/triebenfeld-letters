@@ -42,7 +42,7 @@ places:
   trabczyn:
     display: "Trąbczyn"
     kind: village
-    match: 'Tr[ąa][bmp]c?z[yi]n\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
+    match: 'Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
     tier: "Book-confirmed"
     variants:
       - "Trąbczin"
@@ -248,7 +248,7 @@ places:
     display: "Mariantów"
     german: "Marianton"
     kind: village
-    match: 'Mariant[oóe][nw]\w*'
+    match: 'Mariant[oóe][nw]\w*|Maryant[oó]n\w*'
     tier: "Context-inferred"
     variants: ["Marianton", "Marianten", "Mariantow"]   # the last two: the copy of about 1930, APP 53/968/0/-/801
 
@@ -352,7 +352,9 @@ places:
     display: "Trąbczyńskie Stare Olędry"
     kind: settlement
     tier: "Book-confirmed"
-    match: 'Staro[- ]Łazińsk(?:a|iej|ą)'
+    # "Olędry nowe i stare" and the table's "Olendry" in the visitation of 1791
+    # (ADWł 85) are the two settlements together.
+    match: 'Staro[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
     distinct_from: [lazy-trabczyn, trabczynskie-nowe-oledry]
     variants:
       - {form: "Trombschino-Hauland", match: false, seen_in: ["Hohenlohe-era estate inventory"]}
@@ -371,7 +373,7 @@ places:
     display: "Trąbczyńskie Nowe Olędry"
     kind: settlement
     tier: "Book-confirmed"
-    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)'
+    match: 'Nowo[- ]Łazińsk(?:a|iej|ą)|Olędry(?= nowe i stare)|Olendry(?= \| \d)'
     distinct_from: [lazy-trabczyn, trabczynskie-stare-oledry]
     variants:
       - {form: "Łazińskie Nowe Olędry", match: false}
@@ -877,9 +879,10 @@ places:
     # inflection. Still NOT matched on a stem: Świechocin is a third name in
     # this group and stays its own entity.
     match: '[SŚ]wi[eę]ci[aen]\w*|Święca'
-    # In the Polish decree of 1776 and the adjournment of 1776 "święcie" is
-    # the common noun, a feast day.
-    not_in: [app53170koningr145-1, app53150kaliszgr425-1]
+    # In the Polish decree of 1776, the adjournment of 1776 and the visitation
+    # of 1791 (ADWł 85, "po Swięcie S. Mateusza") "święcie" is the common
+    # noun, a feast day.
+    not_in: [app53170koningr145-1, app53150kaliszgr425-1, adwl85-1]
     tier: ""
     variants: ["Swięcer", "Swięcin", "Swięce", "Święcia", "Święca"]
     distinct_from: [swiechocin]
@@ -1000,7 +1003,7 @@ places:
   skokum:
     display: "Skokum"
     kind: village
-    match: 'Skokum\w*'
+    match: 'Skokum\w*|Skokom\b'
     tier: ""
     variants: []
 
@@ -1953,7 +1956,9 @@ places:
   nowawies-trabczyn:
     display: "Nowawies"
     kind: village
-    match: 'Nowawie[sś]'
+    # "Nowa Wieś" only where the visitation of 1791 lists the parish (ADWł 85):
+    # the name is too common to match anywhere.
+    match: 'Nowawie[sś]|Nowa Wie[sś](?= \|| ?\. Wsie)'
     tier: "Text-confirmed"
     variants:
       - "Nowa wies"
@@ -1965,7 +1970,7 @@ places:
   lazy-trabczyn:
     display: "Łazy"
     kind: village
-    match: '(?<=Nowawies, )Lazy'
+    match: '(?<=Nowawies, )Lazy|(?<=stare )Łazy|Łazy(?= \| \d)'
     tier: "Text-confirmed"
     variants: []
     # One of the villages of the 1796 grant (12765, document 4). Matched only

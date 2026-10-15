@@ -1,0 +1,101 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: adwl85
+ref: "85"
+archive: Archiwum Diecezjalne we Włocławku (ADWł)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Nine pages from the visitation of the Konin deanery of 1790 and 1791: the
+  parish of Trąbczyn, with its priest, its church, its souls counted village
+  by village, its books and its foundations, under Antoni Prusimski as heir
+  and patron, and the table of the souls of the neighbouring parish of
+  Zagórów.
+title_de: >-
+  Neun Seiten aus der Visitation des Dekanats Konin von 1790 und 1791: die
+  Pfarrei Trąbczyn mit ihrem Pfarrer, ihrer Kirche, ihren nach Dörfern
+  gezählten Seelen, ihren Büchern und Stiftungen, unter Antoni Prusimski als
+  Erbherrn und Patron, und die Tabelle der Seelen der Nachbarpfarrei Zagórów.
+# The archive's own title of the volume, as the editor gave it. Kept for
+# reference; nothing displays it.
+archive_title: >-
+  Akta wizytacji dekanatu konińskiego 1790-1791
+# The tables are dated 1791 and the register extract 1790; the priest was
+# approved for confession at the deanery retreat held "w Rku ninieyszym",
+# on 15 October.
+date_span: "1790-1791"
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. In 1790 and 1791
+# Trąbczyn belonged to Antoni Prusimski, as the Kalisz hearth-tax register of
+# 1789 (53/64/0/-/Kalisz Tab.21) does.
+era: prusimski-boundary
+
+# Which archive holds it - reference/repositories.yml.
+repository: adwl-wloclawek
+
+# Nine photographs, each one page, named by leaf (Wizytacja_0385_k_23v.jpg,
+# ..._k_25_v.jpg, ..._k_34a.jpg). Only the pages the editor's transcript
+# covers are in the edition (the editor, 2026-10-15); the folder holds 50.
+# intake/holding.py --crop copies them into raw_dir/processed/ under their page
+# ids: 0023_b (leaf 23 verso), 0024_a, 0024_b, 0025_a, 0025_b, 0028_b,
+# 0029_a, 0029_b, and 0034_c for leaf 34a (34 recto and verso being _a and _b).
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Archiwum Diecezjalne we Włocławku/Wizytacja
+  raw_glob: "*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: ADWl_85
+
+# One file per page, named by page id (0024_a.txt). Made by intake/holding.py
+# from intake/text85.py, the text as read against the scans.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Nine pages, in Polish, from the record of the visitation of the churches of
+  the Konin deanery made in 1790 and 1791, when the deanery belonged to the
+  archdiocese of Gniezno; the volume is kept in the Diocesan Archive in
+  Włocławek. A visitation is the bishop's inspection of a parish, written up
+  under set headings. Document 1 is the parish of Trąbczyn (leaves 23 verso
+  to 25 verso, and 28 verso to 29 verso): the parish priest Józef Żurkowski,
+  his ordination and his institution in 1785 on the presentation of Antoni
+  Prusimski, Starost of Niszczewice, heir and patron of Trąbczyn; the
+  villages of the parish and their distances; its 760 souls, Catholics and
+  dissidents, in a table by village for 1791, and the baptisms, marriages
+  and burials of 1790; the church of St Martin, its wooden chapels,
+  measurements, windows, cemetery, belfry and ossuary; its founders and the
+  right of patronage; its altars; its registers from 1597 and its books; its
+  foundations and decrees from 1636 to 1697; and the beginning of the
+  account of the parsonage. Leaves 26 to 28 recto, and what follows leaf 29
+  verso, are not in the edition. Document 2 is the table of the souls of the
+  parish of Zagórów in 1791, village by village (leaf 34a).
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Polish of 1790, in its spelling (i for j, y for j: iest, ktorey, Dyecezyi;
+  z often without its dot). Abbreviations stand as written: "JWo Mści" is
+  Jaśnie Wielmożnego Mości, the most illustrious; "JMci", "JMści" Jegomości;
+  "X." Xiądz, the Reverend, "XX." the clergy; "Rku" roku; "S." święty,
+  Saint; "SS." Mass(es) ("Mszy SS."); "zło" złoty; "S.P." of blessed memory;
+  "Offła" the Official (the archbishop's judge). "Starosta Nieszczewicki" is
+  the Starost of Niszczewice. "Olędry", "Olendry" are the Hollander
+  settlement of the edition; "Dyssydenci" are Protestants. "Babieniec" is the
+  porch; "pozytew" a small organ; "Kostnica" the ossuary; "łokieć" the ell;
+  "staje" (stay) a furlong; "laska" a rod. "Trambczyn", "Trąmbczyn" are
+  Trąbczyn. The tables are given row by row, cells parted by " | ". A word
+  followed by [?] is read with doubt.

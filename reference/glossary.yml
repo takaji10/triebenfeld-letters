@@ -1174,7 +1174,9 @@ entries:
   head_en: komornik
   head_de: Komornik
   orig: Komornik
-  match_de: '\bKomornik\w*'
+  # Not "Komornikow": the one place it stands (ADWł 85, leaf 29v, "mieszka trzech
+  # Komornikow") it is the landless cottager, not the court officer.
+  match_de: '\bKomornik(?!ow\b)\w*'
   match_en: '\bkomorniks?\b'
   short_en: >-
     A Polish court officer, who in the Duchy of Warsaw served writs and carried

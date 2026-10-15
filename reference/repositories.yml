@@ -56,3 +56,12 @@ repositories:
     country_en: "Poland"
     country_de: "Polen"
     url: "https://www.lodz.ap.gov.pl/"
+
+  adwl-wloclawek:
+    name_en: "Diocesan Archive in Włocławek"
+    name_de: "Diözesanarchiv Włocławek"
+    short: "ADWł"
+    city: "Włocławek"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: ""

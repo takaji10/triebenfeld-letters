@@ -92,8 +92,8 @@ lukomski:
   bio: The family named from Łukom, the estate next to Trąbczyn, which it held in the sixteenth century. In 1589 Thomas Łukomski was sued for building a pond there that flooded the woods and meadows of Trąbczyn.
   bio_de: Die Familie, die sich nach Łukom nannte, dem Nachbargut von Trąbczyn, das ihr im 16. Jahrhundert gehörte. 1589 wurde Thomas Łukomski verklagt, weil er dort einen Teich angelegt hatte, der Wälder und Wiesen von Trąbczyn überschwemmte.
 prusimska-katarzyna:
-  bio: Katarzyna Prusimska, born Rozdrażewska, widow of Paweł Prusimski, who held Trąbczyn for life after his death. In 1754 she had the estate inspected, building by building. In 1763 she was at law with Stanisław Ścibor Chełmski of Łukomia before the land court at Konin over potash he had stopped at Pyzdry in 1761.
-  bio_de: Katarzyna Prusimska, geborene Rozdrażewska, Witwe des Paweł Prusimski, die Trąbczyn nach seinem Tod auf Lebenszeit innehatte. 1754 ließ sie das Gut Gebäude für Gebäude besichtigen. 1763 stand sie vor dem Landgericht in Konin im Rechtsstreit mit Stanisław Ścibor Chełmski von Łukomia um Pottasche, die er 1761 in Pyzdry angehalten hatte.
+  bio: Katarzyna Prusimska, born Rozdrażewska, widow of Paweł Prusimski, who held Trąbczyn for life after his death. In 1754 she had the estate inspected, building by building. In 1763 she was at law with Stanisław Ścibor Chełmski of Łukomia before the land court at Konin over potash he had stopped at Pyzdry in 1761. The visitation of 1791 says that she, "the Chamberlain's wife", enlarged the church of Trąbczyn, at a time no one then knew.
+  bio_de: Katarzyna Prusimska, geborene Rozdrażewska, Witwe des Paweł Prusimski, die Trąbczyn nach seinem Tod auf Lebenszeit innehatte. 1754 ließ sie das Gut Gebäude für Gebäude besichtigen. 1763 stand sie vor dem Landgericht in Konin im Rechtsstreit mit Stanisław Ścibor Chełmski von Łukomia um Pottasche, die er 1761 in Pyzdry angehalten hatte. Die Visitation von 1791 berichtet, dass sie, „die Kammerherrin“, die Kirche von Trąbczyn erweiterte, wann, wusste man damals nicht.
 voss:
   life: "1755-1823"
   bio: Otto Karl Friedrich von Voss, Prussian minister of state responsible for South Prussia. His report led the King to refuse the exchange for Krotoszyn in 1798, and in 1805 he suspended the division of the Trąbczyn and Zagórów estates.
@@ -920,3 +920,24 @@ luszczewski:
 bischoffwerder:
   bio: A Prussian general whom Michalina Dąbska named in July 1807, beside Hohenlohe-Ingelfingen and Sanitz, among those who had been given her father's confiscated estates. He is probably Johann Rudolf von Bischoffwerder, the favourite of King Friedrich Wilhelm II. No other document in the edition names him among the recipients.
   bio_de: Ein preußischer General, den Michalina Dąbska im Juli 1807 neben Hohenlohe-Ingelfingen und Sanitz unter denen nannte, die die konfiszierten Güter ihres Vaters erhalten hatten. Wahrscheinlich Johann Rudolf von Bischoffwerder, der Günstling König Friedrich Wilhelms II. Kein anderes Dokument der Edition nennt ihn unter den Beschenkten.
+zurkowski:
+  bio: Parish priest of Trąbczyn at the visitation of 1790 and 1791. Born in the diocese of Poznań in 1740 and ordained priest in 1767, he was instituted to Trąbczyn in 1785 on the presentation of Antoni Prusimski, the estate's heir and patron.
+  bio_de: Pfarrer von Trąbczyn bei der Visitation von 1790 und 1791. 1740 in der Diözese Posen geboren und 1767 zum Priester geweiht, wurde er 1785 auf die Präsentation Antoni Prusimskis, des Erbherrn und Patrons des Gutes, in Trąbczyn eingesetzt.
+czartoryski-teodor:
+  bio: Teodor Czartoryski, Bishop of Poznań, "Count of Klewań and Żuków" in the visitation of 1791, which says that he gave the future parish priest of Trąbczyn, Józef Zurkowski, letters dimissory for his ordination in December 1766.
+  bio_de: Teodor Czartoryski, Bischof von Posen, in der Visitation von 1791 „Graf auf Klewań und Żuków“; sie berichtet, dass er dem späteren Pfarrer von Trąbczyn, Józef Zurkowski, im Dezember 1766 das Entlassschreiben für seine Weihe gab.
+kozierowski:
+  bio: The bishop who ordained Józef Zurkowski, later parish priest of Trąbczyn, in February 1767, named in the visitation of 1791 as Ignacy Augustyn Kozierowski, Bishop "Adratyński", with a word before the surname read with doubt.
+  bio_de: Der Bischof, der Józef Zurkowski, den späteren Pfarrer von Trąbczyn, im Februar 1767 weihte, in der Visitation von 1791 Ignacy Augustyn Kozierowski, Bischof „Adratyński“ genannt; ein Wort vor dem Familiennamen ist unsicher gelesen.
+paprocki:
+  bio: A late parish priest of Trąbczyn. The visitation of 1791 records that books of the parish were given to his creditors, through a trick and because no one knew to whom they belonged.
+  bio_de: Ein verstorbener Pfarrer von Trąbczyn. Die Visitation von 1791 hält fest, dass Bücher der Pfarrei durch einen Betrug, und weil man nicht wusste, wem sie gehörten, seinen Gläubigern gegeben wurden.
+dorposki:
+  bio: A priest at whose visitation of Trąbczyn, before 1791, books of the parish were found that were no longer there in 1791.
+  bio_de: Ein Geistlicher, bei dessen Visitation von Trąbczyn vor 1791 Bücher der Pfarrei vorhanden waren, die 1791 fehlten.
+wardencki:
+  bio: A benefactor of the church of Trąbczyn, who in 1668 secured 350 Polish złoty for it on part of Kurów, as the visitation of 1791 records.
+  bio_de: Ein Wohltäter der Kirche von Trąbczyn, der ihr 1668 350 polnische Gulden auf einem Teil von Kurów sicherte, wie die Visitation von 1791 festhält.
+strzalkowski:
+  bio: A benefactor of the church of Trąbczyn, who in 1670 secured 500 Polish złoty for it on Strzałkowo, as the visitation of 1791 records.
+  bio_de: Ein Wohltäter der Kirche von Trąbczyn, der ihr 1670 500 polnische Gulden auf Strzałkowo sicherte, wie die Visitation von 1791 festhält.

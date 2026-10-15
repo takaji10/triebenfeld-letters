@@ -1,0 +1,8 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+1,1,5,7,,Koni,Koninie,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,Koni: || Koninie odprawionych w Rku ninieyszym Dnia
+1,2,10,11,-,Ochrzczo,nych,Ochrzczonych,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,2,,"790 podług wpisow Metryk, Dzieci Ochrzczo- || nych"
+1,2,11,13,,nych,nych,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,nych || nych Płci męskiey 13 Płci niewieściey 15 z
+1,4,37,39,,malo,malowane,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,malo: || malowane białemi obruskami przykryte.
+1,6,46,47,-,Proz,porczyk,Prozporczyk,split,high,joined form unattested; both halves are real words,False,0,0,0,5501,1,25,ny 1. pulpit 1. Chorągiew załobna 1. Proz- || porczyk
+1,6,47,49,,porczyk,porczykow,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,"porczyk || porczykow 5, Chorągiewek 2."
+1,7,51,52,-,te,raz,teraz,join,high,joined form occurs elsewhere in this corpus,False,4,,3,,2,, Dekrecie wyrazony dom na szkołę ktory te- || raz

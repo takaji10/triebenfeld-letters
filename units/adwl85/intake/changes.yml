@@ -1,0 +1,45 @@
+# What reading ADWł 85 against the scans changes for anyone who has written
+# from the editor's transcript (intake/editor_transcript.md).
+# Read by pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+#
+# There was no English before: the English is new, and so not listed. All the
+# figures of both tables agreed with the scans; none is changed.
+
+unit: "ADWł 85: the visitation of the parish of Trąbczyn, 1790-1791, and the table of Zagórów"
+changes:
+- importance: significant
+  new: "2026-10-15"
+  what: "Passages of these pages that your transcript did not have are now transcribed (at your request): the foot of leaf 24 and the head of 24 verso, with the 760 souls of the parish and the baptisms (13 boys, 15 girls), marriages (10) and burials (10 men, 15 women, 4 children) of 1790; the small table of 1790 on 24 verso; the end of leaf 25 (the measurements of the porch, the windows, the confessionals and pews); the second half of 25 verso (the bells, the ossuary, the patronage, now Antoni Prusimski's, and the altars); the head of 28 verso; the second half of 29 and the head of 29 verso (the foundations of 1668 to 1694, the decrees of 1692 and 1694, the clearing called Porąbki); the end of 29 verso (the parsonage); and the note beside the Zagórów table, a woman of 110 at Myszakowko."
+  was: "(not transcribed)"
+  now: "Parafia ta rościąga się na dobre w puł mili. w tey całey Parafij ogułem rachuie się Dusz 760 ... Jus Patronatus czyli Kollacya Kościoła tego swiecka ... Kollatorem iego teraz iest JW. Antoni Prusimski ..."
+- importance: fact
+  new: "2026-10-15"
+  what: "Leaf 24, the distances of the church: a phrase dropped between two occurrences of \"Miasta\" is restored. Kalisz is 5 miles away, and Konin, the district town, 2 miles. Your text gave the 2 miles to Kalisz. The \"Jli Magnifici\" before Kalisz is JKMci, His Royal Majesty's (a royal town), and \"towicza\" is Łowicz, the archbishop's seat."
+  was: "od towicza na mil 21 od Jli Magnifici Miasta Kalisza powiatowego na mil 2"
+  now: "od Łowicza na mil 21. od JKMci Miasta Kalisza na mil 5 od Konina Miasta powiatowego na mil 2"
+- importance: fact
+  new: "2026-10-15"
+  what: "The titles. \"JWo Mści\" is not \"Jego Wysokość Magnifici\" (His Highness) but the usual Jaśnie Wielmożnego Mości, the Most Illustrious; the edition gives the abbreviation as written, and the English \"the Most Illustrious\". The bishop of Poznań is \"Hrabia na Klewaniu i Żukowie\", Count of Klewań and Żuków."
+  was: "od Jego Wysokość Magnifici X. Teodora Hrabina Klewarziu i Zukowie Czartoryskiego"
+  now: "od JWo Mści X. Teodora Hrabi na Klewaniu i Zukowie Czartoryskiego"
+- importance: fact
+  new: "2026-10-15"
+  what: "Leaf 29: the second foundation sum, 1,500 złoty in 1637, was recorded by \"W.\" (the noble) Trąbczyński, heir, at Kalisz and Pyzdry; not \"the village\" (Wieś). The founders of the church on leaf 25 verso are likewise the Trąmpczyński family."
+  was: "ktora Wieś Trąbczyński Dziedzić w Kaliszu w Pyzdrach zapisał"
+  now: "ktorą W. Trąbczyński Dziedzic w Kaliszu i w Pyzdrach zapisał"
+- importance: fact
+  new: "2026-10-15"
+  what: "Leaf 28 verso: the missing books were those found at the visitation of the Reverend Dorposki, given to the creditors of the late parish priest Paprocki \"through a trick\" (przez podstęp) and through not knowing whose they were. The banner is a mourning banner (żałobna)."
+  was: "reszta Xiązek znajduiączych się w Wizycie _ X Dorposkiego zełu nie jest wyrazona ... Chorągiew zotobna"
+  now: "reszta Xiązek znayduiących się w Wizycie JMści X. Dorposkiego ze tu nie iest wyrazona ... Chorągiew załobna"
+- importance: fact
+  new: "2026-10-15"
+  what: "Leaf 25: the widths you left open are 8½ ells (the chapel of St Martin), 8¼ ells (the chapel of St Aloysius) and 8 ells (the length of the sacristy); the treasury is 2¾ ells wide. Leaf 25 verso: the railing is \"covered with white cloths\" (obruskami przykryte)."
+  was: "szero kośći łokci ?. i ½ ... szeroka łokci ? i cwierc? Zakrystji dłogśćłokci ?"
+  now: "szerokości łokci 8. i ½ ... szeroka łokci 8 i ćwierć Zakrystyi długość łokci 8."
+- importance: wording
+  new: "2026-10-15"
+  what: "The column headings of both tables are \"Mężczyźni, Niewiasty\" (men, women), not \"Mężczyźni, Kobiety\"; on the Trąbczyn table the scribe cut them short (Męzczy, Niewia, Chłopc, Dziewc). Many small readings follow the page: urodzony (not wrodzony), iako Metryka, posadzka ... z tarcic, pozytew, Babieńca, Homilia Sanctor:, Manuale Parochorum, and the scribe's spelling throughout (iest, ktorey, Kościoł)."
+  was: "Mężczyźni | Kobiety | Chłocy | Dziewczęta"
+  now: "Męzczy | Niewia | Chłopc | Dziewc"

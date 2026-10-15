@@ -25,7 +25,7 @@ at least visible.
 
 **The Prusimski family, who held Trąbczyn, against the Chełmski family of Łukom next
 door. c. 1589 to 1788.
-[92 documents, 1589 to 1788]({{ '/sources/' | relative_url }}).**
+[95 documents, 1589 to 1791]({{ '/sources/' | relative_url }}).**
 
 Two hundred years of argument between neighbouring estates about where one ended and the
 other began. It runs through courts at Konin, Pyzdry and Kalisz, and the evidence is
@@ -51,8 +51,11 @@ Crown Tribunal decided between the two decrees in 1782 and had forty-one mounds 
 a line drawn on the map ([the decree of 1782]({{ '/sources/app53170koningr153/' | relative_url }})).
 Entries from the court registers of Konin and Kalisz, from 1754 to 1788, follow the quarrel
 on the ground and in court before and after; each holding is listed under
-[Sources]({{ '/sources/' | relative_url }}). A fuller account of these years is still to be
-written.
+[Sources]({{ '/sources/' | relative_url }}). From the last years before the partition come a
+register of the hearth tax of 1789 ([1789]({{ '/sources/app53640kalisztab21/' | relative_url }}))
+and the visitation of the parish of Trąbczyn in 1790 and 1791, which counts its 760 souls
+([the visitation]({{ '/sources/adwl85/' | relative_url }})). A fuller account of these years
+is still to be written.
 
 ---
 

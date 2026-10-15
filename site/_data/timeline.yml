@@ -376,19 +376,40 @@
   note: >-
     Prusimski's forest keeper stops a peasant of Łomowo, one of Chełmski's villages, carting a felled
     building tree out of the pine wood of Trąbczyn; his cart, two oxen, a cow and a mare are shown to
-    the office at Konin and given back. It is the last document of the Prusimski years in the edition.
-    Six years later the estates were confiscated.
+    the office at Konin and given back. It is the last entry of the court books in the edition. Six
+    years later the estates were confiscated.
   kind: estate
   source: "castle court of Konin, entry of 9 June 1788"
   title_de: "Der letzte Eintrag: ein Wagen, im Wald von Trąbczyn angehalten"
   note_de: >-
     Prusimskis Waldwärter hält einen Bauern aus Łomowo an, einem Dorf Chełmskis, der einen gefällten
     Baustamm aus dem Kiefernwald von Trąbczyn fährt; sein Wagen, zwei Ochsen, eine Kuh und eine Stute
-    werden dem Amt in Konin vorgezeigt und zurückgegeben. Es ist das letzte Dokument der
-    Prusimski-Jahre in der Edition. Sechs Jahre später wurden die Güter eingezogen.
+    werden dem Amt in Konin vorgezeigt und zurückgegeben. Es ist der letzte Eintrag der Gerichtsbücher
+    in der Edition. Sechs Jahre später wurden die Güter eingezogen.
   source_de: "Burggericht Konin, Eintrag vom 9. Juni 1788"
   refs:
     - app53170koningr121/1
+
+- date: 1791
+  title: "The visitation of the parish of Trąbczyn: 760 souls"
+  note: >-
+    The record of the visitation of the Konin deanery describes the parish of Trąbczyn under Antoni
+    Prusimski, its heir and patron: the priest Józef Zurkowski, instituted on Prusimski's presentation
+    in 1785; the church of St Martin, consecrated in 1546, built in part by the Trąmpczyński family and
+    enlarged by Katarzyna Prusimska; and 760 souls in the villages of the parish, the dissidents among
+    them living almost all in the Olęder settlements.
+  kind: estate
+  source: "the visitation of the Konin deanery, 1790 and 1791 (Diocesan Archive in Włocławek)"
+  title_de: "Die Visitation der Pfarrei Trąbczyn: 760 Seelen"
+  note_de: >-
+    Der Bericht über die Visitation des Dekanats Konin beschreibt die Pfarrei Trąbczyn unter Antoni
+    Prusimski, ihrem Erbherrn und Patron: den Pfarrer Józef Zurkowski, 1785 auf Prusimskis
+    Präsentation eingesetzt; die Kirche des heiligen Martin, 1546 geweiht, zum Teil von der Familie
+    Trąmpczyński erbaut und von Katarzyna Prusimska erweitert; und 760 Seelen in den Dörfern der
+    Pfarrei, deren Dissidenten fast alle in den Olęder-Siedlungen leben.
+  source_de: "Visitation des Dekanats Konin, 1790 und 1791 (Diözesanarchiv Włocławek)"
+  refs:
+    - adwl85/1
 
 - date: 1794
   title: The Kościuszko uprising; the Prusimski estates are confiscated

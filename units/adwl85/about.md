@@ -1,0 +1,29 @@
+Nine pages from a volume in the Diocesan Archive in Włocławek (Archiwum Diecezjalne we Włocławku), signature 85, which the archive calls "Akta wizytacji dekanatu konińskiego 1790-1791", the records of the visitation of the Konin deanery in 1790 and 1791. The pages are leaves 23 verso to 25 verso and 28 verso to 29 verso, on the parish of Trąbczyn, and leaf 34a, a table of the parish of Zagórów. They are two documents. <!-- context -->
+
+### Historical background
+
+A visitation was the inspection of a parish on behalf of its bishop. The record of each parish follows set headings: the priest and how he came to the parish, the villages of the parish and its souls, the church and its furnishings, the right of patronage, the altars, the parish books, the rights and documents of the church, and its income. The Konin deanery then belonged to the archdiocese of Gniezno; the volume is now kept at Włocławek with other visitation records of that archdiocese. <!-- context -->
+
+In 1791 the village of Trąbczyn and the villages of its parish belonged to Antoni Prusimski, Starost of Niszczewice, who was also the patron of the church and had presented its priest [[1]].
+
+In 1793 Prussia took the region in the Second Partition of Poland, and in 1796 the King gave Prusimski's confiscated estate to the Prince of Hohenlohe-Ingelfingen. The visitation is therefore the last account of the parish under the Prusimski family before the Prussian years. <!-- context -->
+
+### Contents
+
+**Document 1, the parish of Trąbczyn.** The parish priest is the Reverend Józef Zurkowski, born in the diocese of Poznań in 1740 and ordained in 1767, and instituted to Trąbczyn by the consistory of Gniezno in 1785 on Antoni Prusimski's presentation. A fund for a vicar, an organist and a schoolmaster is recorded in the documents, but none of them is at the church. The parish takes in Trąbczyn itself, Mariantów, Porąbki, a farm, the new and the old Olędry (the Hollander settlements), Łazy, Osiny and Nowa Wieś, all Prusimski's, and the record gives the distance of each from the church. It counts 760 souls; a table of 1791 sets them out village by village, Catholics and dissidents (Protestants), men, women, boys and girls, and the dissidents of the parish live almost all in the Olędry. A second, small table gives the baptisms, marriages and burials of 1790 from the registers [[1]].
+
+The church of St Martin is in the form of a cross, with two wooden chapels, of St Martin and of St Aloysius. The record gives its measurements in ells, its organ, sacristy, library and treasury, its windows, confessionals and pews, and what needs repair. It was built in part by the Trąmpczyński family, the earlier heirs of Trąbczyn, and enlarged by "the Chamberlain's wife", Katarzyna Prusimska, born Rozdrażewska, at a time no one could then say; it was consecrated in 1546. The cemetery, the belfry with its two bells and the ossuary follow. The patronage is lay and belongs to Antoni Prusimski; the church has five altars, the high altar with a picture of the Mother of God of the Scapular [[1]].
+
+The pages between leaf 25 verso and leaf 28 verso are not in the edition. Leaf 28 verso ends a list of furnishings and lists the parish books: registers of baptisms and marriages from 1597, of burials from 1728, of the scapular confraternity from 1662, a description of the benefice of 1688, the liturgical books, and a short list of sermons and handbooks. Books that had been there at the visitation of the Reverend Dorposki had been given to the creditors of a late parish priest, Paprocki [[1]].
+
+The rights and documents of the church run from 1636 to 1697: sums of money secured for Masses on Trąbczyn in 1636 and 1637, the second by a Trąmpczyński, heir of the village; on Kurów by Stefan Wardencki in 1668, on Strzałkowo in 1670 and on Przespolew; a decree of the consistory of Gniezno of 1692 that awarded the church tithes; and a decree of 1694 that confirmed the inn and named the school house, a wood of the parish and the clearing by it called Porąbki, where three cottagers lived; and the land Andrzej Trąmpczyński, heir of part of Trąbczyn, resigned to the church in 1697. The last page begins the account of the parish's income with its parsonage, a house in the form of a cross; the rest of that account is not in the edition [[1]].
+
+**Document 2, the parish of Zagórów.** The table of the souls of the neighbouring parish of Zagórów in 1791, in the same form: twenty-four places, from the town of Zagórów to the Hollander settlement of Holendry Wrąbczyn, among them Łukom, Drzewce, Oleśnica, Kopojno and Skokum. Dissidents live in four of the places only. The clerk's totals are 1028, 1030, 270 and 246 Catholics and 57, 55, 27 and 27 dissidents, 2734 in all; they do not quite agree with his own figures, since the women's column adds up to ten more than its total, and the grand total is six short of his column totals. A note in the margin records a woman of 110 at Myszakowko [[2]].
+
+### Form and language
+
+Polish, in one clear hand, in the spelling of its time (iest, ktorey, Dyecezyi), with the usual abbreviations of titles (JWo, JMść, X.) and a few Latin phrases. The two tables of Trąbczyn and the table of Zagórów are drawn with ruled lines; the column headings stand upright and are cut short in the narrow columns. Leaf numbers are written in the top right corners. <!-- context -->
+
+### Related holdings
+
+The hearth-tax register of 1789, which enters Trąbczyn, its Olęder settlers, Łazy, Osiny, Nowa Wieś and Łukom: [[unit:app53640kalisztab21]]. The Prussian table of the villages around Konin of about 1797, which counts the houses and inhabitants of many of the same places: [[unit:agad1169011745]]. The inspection of Trąbczyn made for Katarzyna Prusimska in 1754: [[unit:app53170koningr136]]. The two Olęder colonies of Trąbczyn under their later names: [[unit:app539680783]]. <!-- context -->

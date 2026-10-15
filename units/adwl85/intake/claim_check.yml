@@ -1,0 +1,62 @@
+# The claim check of the German summaries of ADWł 85, made in session on
+# 2026-10-15 under the rules read_letters.py --verify gives its checker:
+# each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. The
+# documents were read in the corpus text as read against the scans
+# (intake/text85.py).
+#
+# Result: 34 statements (27 and 7), all supported once one overstated
+# statement was corrected before the summaries were written out. The first
+# draft said the books given to
+# Paprocki's creditors were "listed at an earlier visitation": the text says
+# they were there at the visitation of the Reverend Dorposki, and the
+# summary now says so. The holding's description first called the church
+# wooden: the text says its two chapels are wooden, and the sacristy; it
+# does not say what the church is built of.
+#
+# Figures the text does not state but which are sums of figures it does
+# state are marked as such: 555 Catholics and 205 dissidents (the four
+# columns of each), 189 dissidents in the Olendry (the row), 28 baptisms and
+# 29 burials of 1790 (the cells of the small table), 1040 for the Zagórów
+# women's column and 2740 for the clerk's eight totals. Names in the
+# edition's forms (Trąmpczyński for Trąmbczyński, Rozdrażewska for
+# Rozrazeska, Mariantów for Maryanton, Nowawies for Nowa Wieś) count as
+# supported.
+
+adwl85-001:
+- {claim: "Der Bericht über die Visitation der Pfarrei Trąbczyn im Dekanat Konin, auf Polnisch, von 1790 und 1791", verdict: supported, where: "23v: Wies Trąbczyn w ktorey Kościoł; 24: Dekanacie Koninskim; 24v: Roku 1791 ... Wypisy z Metryk Rku 1790; the volume: Akta wizytacji dekanatu konińskiego 1790-1791"}
+- {claim: "Blatt 23 Rückseite bis 25 Rückseite und 28 Rückseite bis 29 Rückseite; die Blätter dazwischen sind nicht in der Edition", verdict: supported, where: "the pages of the holding (unit.yml)"}
+- {claim: "Der Pfarrer Józef Zurkowski, 1740 in der Diözese Posen geboren", verdict: supported, where: "23v: Plebanem iest X. Jozef Zurkowski urodzony w Dyecezyi Poznanskiey iako Metryka okazuie Rku 1740. Dnia 9 Lipca"}
+- {claim: "1767 zum Priester geweiht", verdict: supported, where: "23v: Poswięcony na Kapłana ... w Rku 1767. Dnia 24. Lutego"}
+- {claim: "wurde 1785 auf die Präsentation Antoni Prusimskis, Starosten von Niszczewice, Erbherrn und Patrons von Trąbczyn, eingesetzt", verdict: supported, where: "23v: instytuowany do tego Kościoła ... Dnia 21. Lutego Rku 1785 za prezentą JWo Mści Antoniego Prusimskiego Starosty Nieszczewickiego ... Dobr tych Dziedzica i Kollatora"}
+- {claim: "für einen Vikar, einen Organisten und einen Schulmeister gibt es eine Stiftung, doch keiner von ihnen ist an der Kirche", verdict: supported, where: "24: Wikaryego, Organisty i Bakałarza fundusz w Dokumentach znayduie się, Lecz ci przy Kościele nie znayduią się"}
+- {claim: "Zur Pfarrei gehören Trąbczyn, Mariantów, Porąbki, ein Vorwerk, die neuen und alten Olędry, Łazy, Osiny und Nowawies, alle Erbgut des Starosten", verdict: supported, where: "24: Zamyka w sobie prawem farnym wieś rzeczoną Trąbczyn ... Maryanton, Porąbki, Folwark Uta[?] zwany, Olędry nowe i stare Łazy, Osiny, Nowa Wieś ... Wszystkie te dziedziczne JWo Starosty"}
+- {claim: "Sie zählt 760 Seelen", verdict: supported, where: "24: w tey całey Parafij ogułem rachuie się Dusz 760; 24v: Summa Sumar: 760"}
+- {claim: "555 Katholiken und 205 Dissidenten", verdict: supported, where: "sums of the stated figures: 24: Męzczyzn 170. Niewiast 191, Chłopcow ... 95. Dziewcząt 99. Dyssydentow Męzczyzn 63 Niewiast 60. Chłopcow 40. Dziewcząt 42"}
+- {claim: "189 davon in den Olendry", verdict: supported, where: "24v: Olendry | 24 | 20 | 18 | 24 | 56 | 57 | 34 | 42 (56 + 57 + 34 + 42)"}
+- {claim: "die Tabelle für 1791 gibt die Zahlen Dorf für Dorf", verdict: supported, where: "24v: Roku 1791. | Specyfikacya Liczby Osob do Parafij Trąbczyńskiey nalezących, eight rows of places"}
+- {claim: "für 1790 nennen die Kirchenbücher 28 Taufen, 10 Trauungen und 29 Begräbnisse", verdict: supported, where: "24/24v: w Roku zeszłym 1790 podług wpisow Metryk, Dzieci Ochrzczonych Płci męskiey 13 Płci niewieściey 15 zaślubionych par 10. Umarłych męzczyzn 10. Niewiast 15 obojey płci Dzieci 4"}
+- {claim: "Die kreuzförmige Kirche des heiligen Martin mit zwei hölzernen Kapellen", verdict: supported, where: "24v: Kościoł ten Krzyzową formą z dwiema Kaplicami drzewianemi; 25v: Tytularny patron Jego S. Marcin Biskup"}
+- {claim: "zum Teil von den einstigen Erben Trąmpczyński erbaut und später von der Kammerherrin Prusimska, geborene Rozdrażewska, erweitert (wann, weiß man nicht)", verdict: supported, where: "25v: Kościoł ten od W Trąmbczyńskich niegdy Dziedzicow po części wystawiony pozniey od W Mści Pani z Rozrazeskich Prusimskiey Szambelanowey JMści Dziedziczki (kiedy? wiedzieć nie mozno) rozprzestrzeniony"}
+- {claim: "wurde 1546 geweiht", verdict: supported, where: "25v: konsekrowany Roku 1546 Dnia 26 Września"}
+- {claim: "der Bericht gibt ihre Maße, ihre Ausstattung und was auszubessern ist", verdict: supported, where: "25: Długość Kościoła tego całkowicie łokci 47 ...; 24v-25: pozytew, mensa, Tabernakulum, Skrzynia, szafa; 24v: przełozenia potrzebuiąca, reperacyi i podłogi nowey potrzebuiąca; 25: Okien ... reperacyi potrzebuiących 4"}
+- {claim: "den Friedhof, den Glockenturm mit zwei Glocken und das Beinhaus", verdict: supported, where: "25v: Cmętarz ... ma parkan; tamze Dzwonica ... w tey dwa Dzwony; iest Kostnica drzewiana"}
+- {claim: "Das Patronat ist weltlich und liegt jetzt bei Antoni Prusimski", verdict: supported, where: "25v: Jus Patronatus czyli Kollacya Kościoła tego swiecka ... Kollatorem iego teraz iest JW. Antoni Prusimski"}
+- {claim: "es gibt fünf Altäre", verdict: supported, where: "25v: w Tymze Kościele iest Ołtarzy 5"}
+- {claim: "Die Bücher der Taufen und Trauungen beginnen 1597, das der Toten 1728", verdict: supported, where: "28v: Metryka pierwsza do wpisywania Chrztow 1597. zaczęta ... Xięga od Slubow od 1597 ... Xięga od wpisywania umarłych od Roku 1728"}
+- {claim: "Bücher, die bei der Visitation des Geistlichen Dorposki vorhanden waren, sind durch einen Betrug und weil man nicht wusste, wem sie gehörten, den Gläubigern des verstorbenen Pfarrers Paprocki gegeben worden", verdict: supported, where: "28v: reszta Xiązek znayduiących się w Wizycie JMści X. Dorposkiego ... przez podstęp uczyniony pod ninieyszym Rządcą Kościoła tego i przez niewiadomość do kogoby nalezały oddane są wierzycielom S.P. JMści X. Paprockiego tuteyszego Pasterza. First written 'bei einer früheren Visitation verzeichnet': overstated, corrected to what the text says"}
+- {claim: "Die Stiftungen und Urkunden reichen von 1636 bis 1697", verdict: supported, where: "29: 1636 pierwsza summa funduszowa; 29v: 1697. Rezygnacya (1662 is listed first, and 1636 is the earliest date)"}
+- {claim: "Summen auf Trąbczyn, Kurów, Strzałkowo und Przespolew für Messen", verdict: supported, where: "29: na Trąmbczynie zapisana ... na obowiązek spiewania Mszy Swiętych; na części Kurowa ... na odprawienie Mszy SS. 52; na Strzałkowie ... na mszy SS. 12; na Dobrach Przespolewie na odprawienie Mszy SS. co rok 104"}
+- {claim: "die Zehnten, die das Konsystorium in Gnesen 1692 zusprach", verdict: supported, where: "29: 1692. dnia 16 Grudnia Dekret Konsystarza Gnieznin: ... w ktorym przysądza się dziesięcina z Folwarku Drezgi[?] toz z Folwarku nowina zwanego"}
+- {claim: "der Krug, der 1694 bestätigt wurde", verdict: supported, where: "29: 1694. Karczma Dekretem Illust:[?] Offła Gnież: utwierdzona"}
+- {claim: "das Land, das Andrzej Trąmpczyński 1697 der Kirche abtrat", verdict: supported, where: "29v: 1697. Rezygnacya ... Pod tymze Aktem W. Andrzy Trąmbczyński Dziedzic Trąmbczyna części, czyni submissyą ... na rzeczone grunta od siebie Kościołowi Trąbczyńskiemu rezygnowane"}
+- {claim: "Auf der letzten Seite beginnt die Beschreibung des Pfarrhauses", verdict: supported, where: "29v: Stan Ekonomiczny i Dochodowy Kościoła tego ... A nayprzod plebania formą krzyzową"}
+
+adwl85-002:
+- {claim: "Die Tabelle der Seelen der Pfarrei Zagórów im Jahr 1791, Ort für Ort, auf Polnisch", verdict: supported, where: "34a: Specyfikacya Liczby Osob do Parafij Zagurowski. ... Roku 1791."}
+- {claim: "Vierundzwanzig Orte, von der Stadt Zagórów (275 Männer, 298 Frauen) bis zur Hauländersiedlung Holendry Wrąbczyn", verdict: supported, where: "34a: 24 rows, Miasto Zagurow | 275 | 298 ... to Holendry Wrąbczyn"}
+- {claim: "darunter Łukom, Drzewce, Oleśnica, Kopojno, Skokum und Wrąbczyn", verdict: supported, where: "34a: Olesnica, Skokom, Kopoyno, Drzewce, Wrąbczyn Wielki, Łukom"}
+- {claim: "Dissidenten leben nur in Łomow, Myszakowko, Imielno und Holendry Wrąbczyn", verdict: supported, where: "34a: the only rows with figures in the dissidents' columns"}
+- {claim: "Die Summen des Schreibers sind 1028, 1030, 270 und 246 Katholiken und 57, 55, 27 und 27 Dissidenten, 2734 im Ganzen", verdict: supported, where: "34a: Summa | 1028 | 1030 | 270 | 246 | 57 | 55 | 27 | 27 | 2734"}
+- {claim: "seine Spalte der Frauen ergibt zusammengezählt 1040, seine Summen zusammen 2740", verdict: supported, where: "sums of the stated figures; the boys' column, with 58[?] for the town, gives the clerk's 270"}
+- {claim: "Eine Notiz neben Myszakowko verzeichnet dort eine Frau von 110 Jahren", verdict: supported, where: "34a, in the margin level with Myszakowko: Tamze niewiasta maiąca lat 110."}

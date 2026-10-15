@@ -1977,6 +1977,14 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Letter 300 made again from the editor's new crops and transcription: the restored edges give the line starts of page 1 and settle gerüffelt, zurück, die Piece, kömt, Peterbourg, gärstig, Ciszewska and voll; the dateline reads "d 20t Januar", and the archive's pencil note "20. Jan 1816" dates it. Marks of doubt 25 to 18; English revised in session. The edition counts 879. Not published.
 - Letters 9 and 300 published at the editor's word (2026-10-15).
 
+## ADWł 85: the visitation of the parish of Trąbczyn (2026-10-15)
+
+- A new archive and a new holding: nine pages of the volume of the visitation of the Konin deanery of 1790 and 1791 (Diocesan Archive in Włocławek, signature 85), the pages the editor's transcript covers. Two documents at the editor's word: the parish of Trąbczyn, and the table of the souls of the parish of Zagórów. Era `prusimski-boundary`.
+- At the editor's word, the passages of these pages the transcript left out were transcribed in session; every page then read against the scans. A dropped phrase restored (leaf 24: Kalisz 5 miles, Konin 2); the editor's expansions of titles ("Jego Wysokość Magnifici") replaced by the abbreviations as written. All figures of both tables agreed. 12 marks of doubt, on a spot sheet.
+- English and summaries written in session; 34 statements claim-checked. Holding page in both languages; timeline entry for 1791; the edition guide, the story page and the era's blurb brought up to 591 documents in 43 holdings and six archives, 891 marks of doubt. The 1788 timeline entry no longer calls itself the last document of the Prusimski years.
+- Index: Katarzyna Prusimska (the Chamberlain's wife who enlarged the church), Antoni Prusimski, the Trąmpczyński family, seven new people; the parish's places; "po Swięcie" shut out of Swięcia and "Komornikow" (cottagers) out of the glossary's komornik. A document type "visitation"; an archive with no website is credited without a link.
+- Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

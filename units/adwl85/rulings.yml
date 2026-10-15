@@ -1,0 +1,47 @@
+# Editorial rulings for ADWł 85.
+#
+# Two documents (the editor, 2026-10-15): the visitation of the parish of
+# Trąbczyn (1) and the table of the souls of the parish of Zagórów (2).
+
+places:
+  # The visitation is not a letter: it has no place of writing. The parish it
+  # describes is the estate below.
+  overrides:
+    "1": ""
+    "2": ""
+
+dates:
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred:
+    "1": [1791, null, null, "year", "The visitation of the Konin deanery of 1790 and 1791: the table of the parish's souls is headed \"Roku 1791\", and the register extract is of 1790, \"w Roku zeszłym\", the year before."]
+    "2": [1791, null, null, "year", "The table is headed \"Roku 1791\"."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": visitation
+    "2": register
+
+  language:
+    "1": "pl"
+    "2": "pl"
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [trabczyn]
+    "2": []
+
+pages:
+  # The text is given by paragraph, as the editor's transcript was.
+  by_paragraph: ["0023_b", "0024_a", "0024_b", "0025_a", "0025_b", "0028_b", "0029_a", "0029_b", "0034_c"]
+
+damage:
+  letters: []

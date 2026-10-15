@@ -859,6 +859,47 @@ Where the rest is:
   heading in large script, set the picture's box by hand (`BOX`). Look at
   every picture before serving the sheet: 5 of 17 needed moving.
 
+- **A transcript "of these pages" may cover only parts of them** (ADWł 85,
+  2026-10-15). The editor's file named nine leaves, but left out the souls
+  of the parish, a small table, half of two pages and the foundations of
+  1668 to 1694, some of the most useful passages. Before building, look at
+  every page the transcript names beside it and list what is not there; put
+  that to the editor in one question with a sentence on what each gap holds
+  (they chose to have the gaps transcribed in session). Say which passages
+  belong to another document of the volume and are left out.
+- **The editor's expansions of abbreviations are readings too.** Their
+  Polish wrote "JWo Mści" as "Jego Wysokość Magnifici" (it is Jaśnie
+  Wielmożnego Mości) and "JKMci" as "Jli Magnifici". The edition gives
+  abbreviations as written (EDITORIAL_RULES), and the English renders them.
+- **A table without numbered rows cannot use the site's table view**:
+  `unitlib.table_of` takes an entry to be a row with a number in its first
+  cell. ADWł 85's population tables, two of them inside a page of prose, are
+  lines of text with cells parted by " | "; process.md says so.
+- **Before adding `not_in` to a person or place entry, read the whole
+  entry.** Swięcia already had one; the second key silently replaced the
+  first in YAML, and the false hit stayed. Put the new document into the
+  existing list.
+- **A catchword that is only the end of a broken word** ("te=" at the foot
+  of leaf 29, "raz" below it, "teraz" overleaf): the line-break pass joins
+  "te-" and "raz" and the reading text says "teraz" twice. A line in the
+  holding's `catchwords.yml` (drop: line) settles it.
+- **A word with a second sense in an old Polish document**: "komornik" is a
+  court officer in the glossary and the termbase, but "trzech Komornikow"
+  on a clearing are landless cottagers. Narrow the pattern (count its hits
+  first) rather than let the definition attach.
+- **"tymże Dekretem" refers to the decree named last.** The land and tithes
+  after the inn of 1694 belong to the decree of 1694, not to that of 1692;
+  the first draft of the holding's page had them wrong.
+- **The story page's era headings are written by hand** ("92 documents,
+  1589 to 1788"): two holdings had been added to the Prusimski era without
+  it changing. The count and span are in the generated
+  `site/_data/eras.yml`; copy them from there after adding a holding to an
+  era, and read the era's blurb in `reference/eras.yml` too.
+- **An archive with no website of its own** (the Diocesan Archive in
+  Włocławek): `url: ""` in `reference/repositories.yml` and
+  `site/_data/rights.yml`; `site/_includes/rights_archives.html` names it
+  without a link.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other

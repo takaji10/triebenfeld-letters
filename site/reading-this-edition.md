@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 589 documents on 1,974 manuscript pages, dated from 1589 to 1936. The
+The edition holds 591 documents on 1,983 manuscript pages, dated from 1589 to 1936. The
 oldest are entries from the court books of Konin and Kalisz on the quarrel between Trąbczyn
 and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
 on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
@@ -37,7 +37,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-two holdings in five archives:
+The documents come from forty-three holdings in six archives:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -58,13 +58,16 @@ The documents come from forty-two holdings in five archives:
   the villages around Konin, of about 1797;
 - the **State Archive in Łódź**: the liquidation table of 1868 by which the colonists of
   Łazińsk received their land, its copy of 1869, and the entries to 1901 on their rights in
-  the manor forest, their exchange for land and the survey of 1896.
+  the manor forest, their exchange for land and the survey of 1896;
+- the **Diocesan Archive in Włocławek**: nine pages of the visitation of the Konin deanery
+  of 1790 and 1791, on the parish of Trąbczyn and the souls of the neighbouring parish of
+  Zagórów.
 
 [Sources]({{ '/sources/' | relative_url }}) lists every holding with its archive reference.
 Each holding has a page of its own that describes what it contains and how its text was
 prepared.
 
-Most of the documents are in German. Twenty-two are in French, sixteen in Polish and
+Most of the documents are in German. Twenty-two are in French, eighteen in Polish and
 eighty-six in Latin, the court entries often with passages in the other of the two, and some
 of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
@@ -133,11 +136,11 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 879 marks of doubt in the edition. Each document's page says how many it has.
+There are 891 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 584 of the 589. They were made by
+Every document that has text has an English translation: 586 of the 591. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

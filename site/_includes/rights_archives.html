@@ -8,7 +8,8 @@
 {%- for a in site.data.rights.archives -%}
   {%- assign held = site.data.units | where: "repository", a.slug -%}
   {%- if held.size > 0 -%}
-  <dt><a href="{{ a.url }}" rel="noopener">{% if lang == "de" %}{{ a.name_de }}{% else %}{{ a.name_en }}{% endif %}</a></dt>
+  {%- comment -%} An archive with no website of its own (the Diocesan Archive in Włocławek) is named without a link. {%- endcomment -%}
+  <dt>{% if a.url != "" %}<a href="{{ a.url }}" rel="noopener">{% endif %}{% if lang == "de" %}{{ a.name_de }}{% else %}{{ a.name_en }}{% endif %}{% if a.url != "" %}</a>{% endif %}</dt>
   <dd>
     <ul>
     {%- for u in held -%}
