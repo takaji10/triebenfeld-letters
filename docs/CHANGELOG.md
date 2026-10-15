@@ -1964,6 +1964,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - The editor let the folds and page edges of APP 53/968/0/-/716 and APŁ 39/98/0/-/6603 stand ("The page edges look fine").
 - All 21 marks of doubt in APŁ 39/98/0/-/6603 put on a spot sheet, "Doubtful readings in the liquidation table of Łazińsk": 16 rows, each with a picture, the signatures that recur under three documents asked once.
+- The editor's answers worked in: the pencil figure under the table (10055 70), Глебель (no. 2 of the copy) and Стурценбекеръ (no. 19 of the copy) read without doubt; the rest, among them all eleven signatures, kept with their doubt. Marks of doubt: 18 in the original, 865 in the edition.
 
 ## Deliverables produced
 

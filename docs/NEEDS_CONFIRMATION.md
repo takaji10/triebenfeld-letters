@@ -265,7 +265,8 @@ written until there is a witness or a better scan.
   (four lines of Kurrent, partly read).
 - **APŁ 39/98/0/-/6603** (the liquidation table of Łazińsk, added
   2026-10-15, not published): read from the scans by Claude, 21 marks of
-  doubt, all on a spot sheet for the editor (2026-10-15); the page edges
+  doubt, all read by the editor on a spot sheet (2026-10-15), three
+  settled; 18 remain, eleven of them signatures; the page edges
   of the four joined openings approved by the editor. In the statement of 1896 four rows do not
   add up as written (notes).
 - **The liquidation era** (`liquidation`, 2026-10-15) carries a working

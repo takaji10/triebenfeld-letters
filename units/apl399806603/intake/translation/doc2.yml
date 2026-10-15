@@ -19,7 +19,7 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: ',,,"Amount of land in each farmstead holding, in Morgen and rods.",,,,,,,,,,,,Amount of the dues
     to be compensated by the Government under articles 14 to 26 of the Ukase on the Liquidation Commission.,
 
@@ -33,7 +33,7 @@ pages:
 
     1,Konchinskii Iakov,1,,,,,,,,,,,17,84,,
 
-    2,[uncertain: Glebel] Martin,2,,,,,,,,,,,29,262,,
+    2,Glebel Martin,2,,,,,,,,,,,29,262,,
 
     3,Merts Karl,3,,,,,,,,,,,48,56,,
 
@@ -74,7 +74,7 @@ pages:
   flagged: []
 - page: 3
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '14,Kholm Vilgelm,14,,,,,,,,,,,13,280,,
 
     15,Falk Avgust,15,,,,,,,,,,,5,15,,
@@ -85,7 +85,7 @@ pages:
 
     18,Sanikovskii Iosif,18,,,,,,,,,,,27,244,,
 
-    19,[uncertain: Sturtsenbeker] Kristian,19,,,,,,,,,,,15,24,,
+    19,Sturtsenbeker Kristian,19,,,,,,,,,,,15,24,,
 
     20,Sanikovskii Ivan,20,,,,,,,,,,,24,187,,
 

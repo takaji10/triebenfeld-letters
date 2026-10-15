@@ -775,7 +775,7 @@ segments:
 
     ,603 34 20/6,,,,,,,,,,,,,,,
 
-    "","[uncertain: 10,055 70]","","","","","","","","","","","","","","",""'
+    ,10055 70,,,,,,,,,,,,,,,'
   html: '<div class="ledger-wrap"><table class="ledger">
 
     <thead><tr><th rowspan="3" class="no">No. of the farmstead, in order.</th><th rowspan="3" class="name">Farmsteads
@@ -853,7 +853,7 @@ segments:
     class="name">603 34 20/6</td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
     class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
     class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
-    class="num"></td></tr><tr><td class="no"></td><td class="name">[uncertain: 10,055 70]</td><td class="num"></td><td
+    class="num"></td></tr><tr><td class="no"></td><td class="name">10,055 70</td><td class="num"></td><td
     class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
     class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td
     class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr></tfoot>

@@ -103,6 +103,13 @@ ROWS = [
 ]
 
 
+# Answered by the editor on 2026-10-15 and worked in (intake/readings_answers.json
+# keeps their answers): 10055 70, Глебель and Стурценбекеръ read without doubt; the
+# rest kept with their doubt. Answered rows are left off if the sheet is made again,
+# as their words have changed.
+ANSWERED = {'t%02d' % i for i in range(1, 17)}
+
+
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
     corpus = io.open(os.path.join(UNIT_DIR, 'corpus.txt'), encoding='utf-8').read().split('\n')
@@ -111,6 +118,8 @@ def main():
     os.makedirs(img_dir, exist_ok=True)
     out = []
     for key, doc, pid, locate, word, options, note, box in ROWS:
+        if key in ANSWERED:
+            continue
         d = p = None
         hits = []
         for i, l in enumerate(corpus, 1):

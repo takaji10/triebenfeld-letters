@@ -42,7 +42,8 @@ editor let them stand (2026-10-15: "The page edges look fine").
 
 ## The reading
 
-21 marks of doubt (24 before the comparison with Breyer's copy). Checks: copy A's land adds up to 1691 Morgen 219 rods
+18 marks of doubt (24 before the comparison with Breyer's copy and the
+editor's spot sheet). Checks: copy A's land adds up to 1691 Morgen 219 rods
 and its dues to 603 roubles 34⅕ kopecks; every row and column of the
 statement was added.
 
@@ -55,8 +56,10 @@ statement was added.
   confirms); no. 48 only "Мурицъ" (A: "Мурицъ" struck through, "Бандзертъ
   Морицъ" written under it); no. 91 without its sum of dues. Names in B in
   its own spelling (Мартинъ for A's Марцинъ, Іосифъ for Осипъ).
-- **Doubtful names**: A no. 19 [Стурценбехеръ?], B no. 2 [Глебель?], no. 4
-  [Холмъ?].
+- **Doubtful names**: A no. 19 [Стурценбехеръ?], B no. 4 [Холмъ?] (kept by
+  the editor). B no. 2 is Глебель and B no. 19 Стурценбекеръ, B's own
+  spellings (A: Гебель, [Стурценбехеръ?]), read without doubt by the
+  editor.
 - **Not transcribed**: the archive's stamps and numbers, the seals (the
   Commission's on 028, the Governorate Government's stamp and a wax seal on
   030), dotted leaders.
@@ -90,9 +93,12 @@ the table, its copy and the statement alike (was [Мануилъ?] and
 
 ## Open
 
-- The editor's look at the reading: all 21 marks of doubt on the spot sheet
+- Done: the editor's look at the reading: all 21 marks of doubt on the spot sheet
   "Doubtful readings in the liquidation table of Łazińsk" (16 rows, the
   recurring signatures asked once; `intake/spot_sheet.py`, rows in
   `review/apl399806603/readings.csv`, `queries.py --unit apl399806603
-  --sheet readings.csv --port 4103`), 2026-10-15.
+  --sheet readings.csv --port 4103`), 2026-10-15. Answered the same day
+  (`intake/readings_answers.json`): 10055 70 (the pencil figure under the
+  table), Глебель and Стурценбекеръ read without doubt; the rest kept,
+  among them all eleven signatures ("can't tell"). 18 marks remain.
 - The era's name (`liquidation`, a working name).

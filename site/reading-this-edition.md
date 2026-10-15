@@ -133,7 +133,7 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 868 marks of doubt in the edition. Each document's page says how many it has.
+There are 865 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 

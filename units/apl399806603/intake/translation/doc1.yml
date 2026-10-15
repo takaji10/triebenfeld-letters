@@ -260,7 +260,7 @@ pages:
   flagged: []
 - page: 8
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: ',carried forward,,,,,,,,,,,,,,,
 
     95,The village headman''s plot,93,,,,,,,,,,,2,263,3,45 ⅕
@@ -294,7 +294,7 @@ pages:
 
     ,603 34 20/6,,,,,,,,,,,,,,,
 
-    "","[uncertain: 10055 70]","","","","","","","","","","","","","","",""'
+    ,10055 70,,,,,,,,,,,,,,,'
   names: []
   numbers: []
   flagged: []

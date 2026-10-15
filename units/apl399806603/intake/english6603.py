@@ -87,7 +87,7 @@ CELL = {
         'tion capital of ten thousand and fifty-five roubles seventy kopecks (10055 roubles 70 kopecks).',
     'Подлинную подписали Предсѣдательствующій и Члены Центральной Коммиссіи.—':
         'The original was signed by the presiding member and the members of the Central Commission.',
-    '603 34 20/6': '603 34 20/6', '[10055 70?]': '[uncertain: 10055 70]',
+    '603 34 20/6': '603 34 20/6', '10055 70': '10055 70',
     # copy B
     'Сервитуты.': 'Servitudes.',
     'Всѣ крестьяне сел. Лазинскіе Голендры имѣютъ право:': 'All the peasants of the village of the Łazińsk Hollanders have the right:',

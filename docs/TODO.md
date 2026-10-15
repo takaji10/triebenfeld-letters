@@ -478,9 +478,8 @@ liquidation. Details: `units/apl399806603/notes.md`.
 
 - [x] You looked at the page edges where two scans are joined into one
       page and let them stand (2026-10-15).
-- [ ] Answer the spot sheet "Doubtful readings in the liquidation table of
-      Łazińsk": all 21 marks of doubt on 16 rows, the clerks' recurring
-      signatures asked once (`python pipeline/review/queries.py --unit
-      apl399806603 --sheet readings.csv --port 4103`).
+- [x] You answered the spot sheet "Doubtful readings in the liquidation
+      table of Łazińsk" (16 rows, 2026-10-15): three readings settled, the
+      rest kept with their doubt; 18 marks remain. Worked in the same day.
 - [ ] A name for the era (`liquidation` is a working name).
 - [ ] Your word to publish.
