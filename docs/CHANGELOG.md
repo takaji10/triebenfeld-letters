@@ -1975,6 +1975,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Letter 9, marked "skipped" since the holding was built, added from the editor's transcription: a single leaf in Triebenfeld's hand, holed and with a folded corner, 18 lines with 17 places of lost text and 3 marks of doubt. Read against the scan; where the editor's file and the scan differed the scan decided (Borgen, Bösewicht, schändlich, weiß, betreibe ... durch ihn), and those places are on a spot sheet for the editor. Dated to about January 1815 at Vienna, Triebenfeld to the Prince; English and summaries written in session. Not published.
 - The editor's answers on the spot sheet worked in: seven readings confirmed, St[aats]. K[anzler]. F[ürst]. H[ardenberg]. confirmed and expanded, [seie?], [Kedl?] and [weiß?] marked as doubtful. Four marks of doubt.
 - Letter 300 made again from the editor's new crops and transcription: the restored edges give the line starts of page 1 and settle gerüffelt, zurück, die Piece, kömt, Peterbourg, gärstig, Ciszewska and voll; the dateline reads "d 20t Januar", and the archive's pencil note "20. Jan 1816" dates it. Marks of doubt 25 to 18; English revised in session. The edition counts 879. Not published.
+- Letters 9 and 300 published at the editor's word (2026-10-15).
 
 ## Deliverables produced
 

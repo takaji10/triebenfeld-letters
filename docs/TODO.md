@@ -484,7 +484,7 @@ liquidation. Details: `units/apl399806603/notes.md`.
 - [ ] A name for the era (`liquidation` is a working name).
 - [x] Published at your word (2026-10-15).
 
-## 16. Oe 1 Bü 9454, letter 9 (added 2026-10-15, not published)
+## 16. Oe 1 Bü 9454, letter 9 (added 2026-10-15, published 2026-10-15)
 
 Your transcription of letter 9, which stood in the holding as "skipped": a
 single damaged leaf from Vienna, about January 1815. Read against the scan,
@@ -496,4 +496,4 @@ translated and summarised in session. Details: `units/oe1bu9454/notes.md`,
 - [x] Letter 300 made again from your new crops and transcription
       (2026-10-15): the restored edges settle eight readings; dated 20
       January 1816 by the archive's pencil note.
-- [ ] Your word to publish.
+- [x] Published at your word (2026-10-15).

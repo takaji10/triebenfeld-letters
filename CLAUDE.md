@@ -111,7 +111,8 @@ so check them.
 ## Where things stand (2026-10-15)
 
 - **Everything is published and pushed (2026-10-15)**: 589 documents in
-  42 holdings, 865 marks of doubt. The last two went out together at the
+  42 holdings, 879 marks of doubt (with letters 9 and 300 of Oe 1 Bü 9454,
+  published later the same day). The last two went out together at the
   editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Three
   eras carry working names until the editor names them: `wlodzimierz`,
   `liquidation` and `twentieth-century` (`reference/eras.yml`).
@@ -280,8 +281,8 @@ so check them.
   The editor answered its spot sheet the same day. **Letter 300** of the
   same holding was made again from the editor's new crops and
   transcription (2026-10-15, `intake/scripts/recrop_300.py`). Both
-  **committed, not published**; with them the edition counts 879 marks of
-  doubt (the count includes "[...]").
+  **published 2026-10-15** at the editor's word; the edition counts 879
+  marks of doubt (the count includes "[...]").
 - **APP 53/968/0/-/801** (slug `app539680801`, added and published
   2026-10-05): three documents on sixteen pages, copies made about 1930
   (papers of Albert Breyer): the Prince's power of attorney for Triebenfeld
