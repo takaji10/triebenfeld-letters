@@ -22,7 +22,7 @@
  "recipient": "",
  "line_start": 227,
  "line_end": 242,
- "uncertainty_count": 2,
+ "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "ru",
@@ -34,8 +34,8 @@
  "is_missing": 0,
  "n_lines": 13,
  "n_pages": 2,
- "text": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой [паленный?] скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину\nсостоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить [тлахтами?].\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
- "text_reading": "Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:\n\n1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки\"\n\n2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину\n\nсостоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.\n\n—o—",
+ "text": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой наличный скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину\nсостоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить тлахтами.\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
+ "text_reading": "Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:\n\n1) пасти весь свой наличный скотъ въ лѣсу „Студзiанки\"\n\n2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину\n\nсостоящую изъ лежанины и сухихъ вѣтвей; собранное уносить тлахтами. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.\n\n—o—",
  "pages": [
   {
    "page": 1,
@@ -43,12 +43,12 @@
    "line_start": 229,
    "line_end": 234,
    "n_lines": 6,
-   "diplomatic": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой [паленный?] скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину",
-   "transcription": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой [паленный?] скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину",
-   "reading": "Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:\n\n1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки\"\n\n2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину",
+   "diplomatic": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой наличный скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину",
+   "transcription": "Всѣ крестьяне селенiя Лазинскiй\nГолендры имѣютъ право:\n1) пасти весь свой наличный скотъ\nвъ лѣсу „Студзiанки\"\n2) собирать въ томъ же лѣсу\nдва раза въ недѣлю сбиранину",
+   "reading": "Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:\n\n1) пасти весь свой наличный скотъ въ лѣсу „Студзiанки\"\n\n2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину",
    "paragraphs": [
     "Всѣ крестьяне селенiя Лазинскiй Голендры имѣютъ право:",
-    "1) пасти весь свой [паленный?] скотъ въ лѣсу „Студзiанки\"",
+    "1) пасти весь свой наличный скотъ въ лѣсу „Студзiанки\"",
     "2) собирать въ томъ же лѣсу два раза въ недѣлю сбиранину"
    ],
    "sideways_lines": [],
@@ -65,11 +65,11 @@
    "line_start": 236,
    "line_end": 242,
    "n_lines": 7,
-   "diplomatic": "состоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить [тлахтами?].\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
-   "transcription": "состоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить [тлахтами?].\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
-   "reading": "состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.\n\n—o—",
+   "diplomatic": "состоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить тлахтами.\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
+   "transcription": "состоящую изъ лежанины\nи сухихъ вѣтвей; собранное\nуносить тлахтами.\nБолѣе никакихъ правъ на\nсервитуты крестьяне не\nимѣютъ.\n—o—",
+   "reading": "состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить тлахтами. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.\n\n—o—",
    "paragraphs": [
-    "состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить [тлахтами?]. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.",
+    "состоящую изъ лежанины и сухихъ вѣтвей; собранное уносить тлахтами. Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ.",
     "—o—"
    ],
    "sideways_lines": [],
@@ -89,14 +89,14 @@
  "translation": [
   {
    "page": 1,
-   "en": "All the peasants of the village of the Łazińsk\nHollanders have the right:\n1) to graze all their [uncertain: paleny] cattle\nin the forest \"Studzianki\";\n2) to gather in the same forest\ntwice a week fallen wood"
+   "en": "All the peasants of the village of the Łazińsk\nHollanders have the right:\n1) to graze all the cattle they have\nin the forest \"Studzianki\";\n2) to gather in the same forest\ntwice a week fallen wood"
   },
   {
    "page": 2,
-   "en": "consisting of lying wood\nand dry branches; to carry\nwhat is gathered away [uncertain: by tlakhty].\nThe peasants have no other\nrights to servitudes\nwhatever.\n—o—"
+   "en": "consisting of lying wood\nand dry branches; to carry\nwhat is gathered away in cloths (\"tlakhtami\", the plakhtami of the original).\nThe peasants have no other\nrights to servitudes\nwhatever.\n—o—"
   }
  ],
- "text_english": "All the peasants of the village of the Łazińsk\nHollanders have the right:\n1) to graze all their [uncertain: paleny] cattle\nin the forest \"Studzianki\";\n2) to gather in the same forest\ntwice a week fallen wood\n\nconsisting of lying wood\nand dry branches; to carry\nwhat is gathered away [uncertain: by tlakhty].\nThe peasants have no other\nrights to servitudes\nwhatever.\n—o—",
+ "text_english": "All the peasants of the village of the Łazińsk\nHollanders have the right:\n1) to graze all the cattle they have\nin the forest \"Studzianki\";\n2) to gather in the same forest\ntwice a week fallen wood\n\nconsisting of lying wood\nand dry branches; to carry\nwhat is gathered away in cloths (\"tlakhtami\", the plakhtami of the original).\nThe peasants have no other\nrights to servitudes\nwhatever.\n—o—",
  "summary_en": "Albert Breyer's Russian copy of the servitudes of the peasants of Łazińsk, written in the notebook directly after his copy of the liquidation table of Łazińsk of 1868. All the peasants of the village of the Łazińsk Hollanders have the right to graze all their cattle in the forest \"Studzianki\" and to gather there twice a week fallen wood, lying wood and dry branches, and carry it away; they have no other rights to servitudes. The copy carries no date.",
  "summary_de": "Albert Breyers russische Abschrift der Servitute der Bauern von Łazińsk, im Heft unmittelbar nach seiner Abschrift der Liquidationstabelle von Łazińsk von 1868. Alle Bauern des Dorfes der Łazińsker Holländer haben das Recht, ihr ganzes Vieh im Wald „Studzianki“ zu weiden und dort zweimal in der Woche Leseholz, liegendes Holz und trockene Äste, zu sammeln und fortzutragen; andere Rechte auf Servitute haben sie nicht. Die Abschrift trägt kein Datum.",
  "reading": {}

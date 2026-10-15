@@ -1943,6 +1943,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - 18 of the 47 readings answered and worked in: Дикгофъ, Диконфъ, Кинастъ, Обстъ, Готтлибъ, Дет., "Eingeschrieben jedoch", Цельмеръ Готф., Шмехель (Schmechel), and "nur[?]" twice. 46 marks of doubt remain in the notebook, 882 in the edition. The other 30 rows stay on the sheet, with two words the original table of 1869 now settles (плахтами, наличный) put to the editor.
 
+## Breyer's Łazińsk table read against the original (2026-10-15)
+
+- At the editor's request, every row of Breyer's copy of the Łazińsk liquidation table (APP 53/968/0/-/716, document 4) compared with the original (APŁ 39/98/0/-/6603). Most differences were misreadings of Breyer's hand and are corrected: figures at nos. 11, 12, 20, 44, 51, 52, 60, 61, 65 and 87, the names Саниковскій, Промистъ, Цельнеръ, Штирценбекеръ and Феттеръ, and наличный and тлахтами in the servitudes. Breyer's own departures from the original stand as he wrote them and are listed in the notes. In the original, no. 43 is Матеушъ in all three witnesses.
+- Marks of doubt: 44 in the notebook, 21 in the original, 877 in the edition.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

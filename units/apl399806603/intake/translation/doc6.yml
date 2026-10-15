@@ -79,7 +79,7 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '32,heirs of Rungi Voitsekha,,72,1,1969,,1962,1,1812,,233,4,1248
 
     33,heirs of Rungi Gotfrida,,522,9,910,,953,4,2039,,942,15,566
@@ -102,7 +102,7 @@ pages:
 
     42,heirs of Betke Kristiiana,,234,4,399,,,1,2258,,192,6,683
 
-    43,Kinast [uncertain: Mateush],,50,1,1894,,,1,2021,,96,3,1661
+    43,Kinast Mateush,,50,1,1894,,,1,2021,,96,3,1661
 
     44,Rash Friderik,,1377,18,2217,2,681,6,410,,781,28,666
 

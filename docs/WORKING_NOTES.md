@@ -671,6 +671,15 @@ Where the rest is:
   holdings' scripts); `courtbook.correct` and `write_pages` do not know a
   cover and would drop it.
 
+- **Read a copy against its original before deciding what the copyist got
+  wrong** (the editor, 2026-10-15: "It should match the actual table").
+  Comparing Breyer's copy with the original table showed that most of the
+  "errors" I had listed were my misreadings of his hand: his 4 looks like
+  Ч, his 5 has a flat top, his н and п are both a Latin n, and figures run
+  across the ruled line. Look at every difference on the photo, correct
+  what the hand allows, and keep, as written, only what the hand clearly
+  says otherwise. Learn a hand's letter forms from words whose reading is
+  certain before trusting a single letter.
 - **The editor writes a word read with doubt as "nur[?]"**, the word with
   "[?]" after it (and "Polzfu[h?]l" for one letter). Keep their form in the
   text; the English needs a rule that turns it into "[uncertain: nur]"

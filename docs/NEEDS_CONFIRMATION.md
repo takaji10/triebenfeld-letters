@@ -256,12 +256,13 @@ written until there is a witness or a better scan.
   1858, added 2026-10-14, not published): read from the editor's photos by
   Claude, 68 marks of doubt; 17 put to the editor on a spot sheet and
   answered (2026-10-15); a second sheet of the rest, 18 answered so far,
-  30 open; 46 marks remain. Not
+  28 open; 44 marks remain after a comparison with the original table
+  (APŁ 39/98/0/-/6603). Not
   asked: the doubtful names of the Russian tables and Breyer's pencil of
   1875. Open: the folds (placed in session); the heading of the Orlin list
   (four lines of Kurrent, partly read).
 - **APŁ 39/98/0/-/6603** (the liquidation table of Łazińsk, added
-  2026-10-15, not published): read from the scans by Claude, 24 marks of
+  2026-10-15, not published): read from the scans by Claude, 21 marks of
   doubt, not yet put to the editor; the page edges of the four joined
   openings placed in session. In the statement of 1896 four rows do not
   add up as written (notes).

@@ -117,13 +117,13 @@ name Mikhalinova.
 Entered, however, in April 1892''',
  (5, '5169_a2'): '''All the peasants of the village of the Łazińsk
 Hollanders have the right:
-1) to graze all their [uncertain: paleny] cattle
+1) to graze all the cattle they have
 in the forest "Studzianki";
 2) to gather in the same forest
 twice a week fallen wood''',
  (5, '5170_a1'): '''consisting of lying wood
 and dry branches; to carry
-what is gathered away [uncertain: by tlakhty].
+what is gathered away in cloths ("tlakhtami", the plakhtami of the original).
 The peasants have no other
 rights to servitudes
 whatever.

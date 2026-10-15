@@ -115,7 +115,7 @@ pages:
   flagged: []
 - page: 4
   confidence: high
-  marker_count: 1
+  marker_count: 0
   en: '32,heirs of Runge Voitsekha,32,,,,,,,,,,,5,135,,
 
     33,heirs of Runge Gotfrida,33,,,,,,,,,,,26,45,,
@@ -138,7 +138,7 @@ pages:
 
     42,heirs of Betke Kristiana,42,,,,,,,,,,,8,192,,
 
-    43,Kinast [uncertain: Mateush],43,,,,,,,,,,,3,248,,
+    43,Kinast Mateush,43,,,,,,,,,,,3,248,,
 
     44,Rash Friderik Ivan,44,,,,,,,,,,,53,196,,
 

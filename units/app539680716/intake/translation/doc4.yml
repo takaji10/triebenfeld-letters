@@ -34,9 +34,9 @@ pages:
 
     10,Marek Vilg. — Merzh,32,179
 
-    11,Grunvald Krist.,20,273
+    11,Grunvald Krist.,22,273
 
-    12,Slivinskii Gotl. — Gotl. Kinast,17,22
+    12,Slivinskii Gotl. — Gotl. Kinast,14,222
 
     13,Shteinbord Iul.,17,75
 
@@ -53,11 +53,11 @@ pages:
 
     17,Merzh Mart. — Krist.,8,293
 
-    18,Sannikovskii Osip — [uncertain: Frants.],27,244
+    18,Sanikovskii Osip — [uncertain: Frants.],27,244
 
     19,Stirtsenbekher Kris.,15,24
 
-    20,Sannikovskii Ivan — [uncertain: nur] 14; 10 Morgen,27,187
+    20,Sanikovskii Ivan — [uncertain: nur] 14; 10 Morgen,24,187
 
     21,heirs of Goske Karla,25,129
 
@@ -67,7 +67,7 @@ pages:
 
     24,heirs of Rogatskago Petra — Pav. 15; widow Rogatsk. 15,30,235
 
-    25,Prominst Shchepan,13,87
+    25,Promist Shchepan,13,87
 
     26,Runga Voitsekh — [uncertain: nur] 18; Runga Voits. 18,36,222
 
@@ -96,7 +96,7 @@ pages:
 
     36,Fridenberg Kristof — Ed. [uncertain: Bromke],19,220
 
-    37,Tselmer Gotf. — Shults Frid.,26,14
+    37,Tselner Gotf. — Shults Frid.,26,14
 
     38,Malinovskii Petr — + 7,5,277
 
@@ -104,13 +104,13 @@ pages:
 
     40,Shvebs Kar. — Sam. Shtiltser,4,168
 
-    41,Shtirtsenbekher Kar.,8,45
+    41,Shtirtsenbeker Kar.,8,45
 
     42,heirs of Betke Kristiian.,8,192
 
     43,Kinast Eman. — Gotfr.,3,248
 
-    44,Rash Frid. Ivan,3,196
+    44,Rash Frid. Ivan,53,196
 
     45,Bandzert Eman.,4,48'
   names: []
@@ -129,9 +129,9 @@ pages:
 
     50,Tselner Genr.,35,42
 
-    51,Gebel Karl. — Kr. Girsh,17,105
+    51,Gebel Karl. — Kr. Girsh,14,105
 
-    52,Shmigelskii Sam. — Kar. Kholm,17,13
+    52,Shmigelskii Sam. — Kar. Kholm,14,13
 
     53,heirs of Tselnera Dan. — Avg. Shmigel,12,60
 
@@ -147,14 +147,14 @@ pages:
 
     59,Gints Liudv. — 39-245,16,287
 
-    60,Shtark Det.,8,187'
+    60,Shtark Det.,8,157'
   names: []
   numbers: []
   flagged: []
 - page: 6
   confidence: high
   marker_count: 2
-  en: '61,Kinast Voits. — widow,52,97
+  en: '61,Kinast Voits. — widow,52,94
 
     62,Kusman Gotl.,2,66
 
@@ -162,7 +162,7 @@ pages:
 
     64,Gerke Gotfr.,5,277
 
-    65,Tselner Mikh. — Gotf.,36,257
+    65,Tselner Mikh. — Gotf.,36,254
 
     66,Shtark Avg. — widow,18,241
 
@@ -203,9 +203,9 @@ pages:
 
     82,Rogatskii Stanisl.,16,269
 
-    83,Fretter Iv. — Gotl. Rybitskii,2,206
+    83,Fetter Iv. — Gotl. Rybitskii,2,206
 
-    84,Shtirtsenbekher Iv.,5,30
+    84,Shtirtsenbeker Iv.,5,30
 
     85,Kinast Kristiian — Krist. Shenfish,2,12
 
@@ -213,7 +213,7 @@ pages:
 
     86,Khaupt Vilg. — 2,14,179
 
-    87,German Voitsekh — 2,1,218
+    87,German Voitsekh — 2,1,288
 
     88,heirs of Tarnovskii Mikh. — Gottlib Gotl.,2,30
 

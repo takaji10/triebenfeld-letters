@@ -132,7 +132,9 @@ BOX = {'s31': (0.17, 0.12)}
 # Answered by the editor on 2026-10-15 and worked in (intake/readings2_answers.json
 # keeps their answers); taken off the sheet, as their words have changed.
 ANSWERED = {'s01', 's02', 's03', 's04', 's05', 's06', 's07', 's08', 's09', 's10', 's11', 's12', 's13',
-            's14', 's15', 's16', 's17', 's18'}
+            's14', 's15', 's16', 's17', 's18',
+            # settled from the original table of 1869 (APŁ 39/98/0/-/6603), 2026-10-15
+            's20', 's48'}
 
 if __name__ == '__main__':
     spot_sheet.main([r for r in ROWS if r[0] not in ANSWERED], SHIFT, BOX, 'readings2.csv')

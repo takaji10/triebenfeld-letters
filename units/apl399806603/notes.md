@@ -42,7 +42,7 @@ editor has not yet looked at it.
 
 ## The reading
 
-24 marks of doubt. Checks: copy A's land adds up to 1691 Morgen 219 rods
+21 marks of doubt (24 before the comparison with Breyer's copy). Checks: copy A's land adds up to 1691 Morgen 219 rods
 and its dues to 603 roubles 34⅕ kopecks; every row and column of the
 statement was added.
 
@@ -55,24 +55,30 @@ statement was added.
   confirms); no. 48 only "Мурицъ" (A: "Мурицъ" struck through, "Бандзертъ
   Морицъ" written under it); no. 91 without its sum of dues. Names in B in
   its own spelling (Мартинъ for A's Марцинъ, Іосифъ for Осипъ).
-- **Doubtful names**: A no. 19 [Стурценбехеръ?], no. 43 Кинастъ
-  [Мануилъ?] (B [Матеушъ?]), B no. 2 [Глебель?], no. 4 [Холмъ?].
+- **Doubtful names**: A no. 19 [Стурценбехеръ?], B no. 2 [Глебель?], no. 4
+  [Холмъ?].
 - **Not transcribed**: the archive's stamps and numbers, the seals (the
   Commission's on 028, the Governorate Government's stamp and a wax seal on
   030), dotted leaders.
 
 ## Against Breyer's copy (53/968/0/-/716, document 4)
 
-This table settles many of Breyer's figures and names: the original has
-no. 9 Саниковскій (Breyer Скипковскій), no. 11 22-273 (Breyer 20), no. 12
-14-122 (17-22), no. 20 24-187 (27), no. 29 15-188 (184), no. 37 Цельнеръ
-Готфридъ (Breyer [Цельмеръ Фр.?]), no. 44 53-196 (3-196), no. 46 38-66
-(61), nos. 51 and 52 14 (17), no. 60 Штаркъ Даніилъ 8-157 ([Дет.?] 8-187),
-no. 61 52-94 (97), no. 65 36-254 (257), no. 71 Обстъ, no. 88 1-288 (218);
-Breyer also gives nos. 45 to 48 in another order. The servitudes in the
-copy read "наличный скотъ" and "плахтами" where Breyer's copy has
-[паленный?] and [тлахтами?]. Breyer's copy is transcribed as he wrote it;
-these are for the editor's answers on 716.
+Compared row by row on 2026-10-15 at the editor's request ("It should
+match the actual table"), each difference looked up again on Breyer's
+photo. Most were misreadings of Breyer's hand, now corrected in 716: his 4
+is shaped like Ч (nos. 12, 20, 51, 52, 61, 65), his 5 has a flat top (no.
+60), his н and п are both shaped like a Latin n (наличный, Саниковскій,
+Цельнеръ at no. 37, Промистъ), and some figures stand across the ruled
+line (no. 11 22, no. 44 53) or are plain (no. 87 1-288). What Breyer did
+write otherwise, and stands as he wrote it: Мержъ for Мерцъ, Скипковскій
+for Саниковскій (no. 9), Кнакфусъ, Штирценбекеръ, Кинастъ Эман. for
+Матеушъ (no. 43), no. 12 222 rods (original 122), no. 29 184 (188), no. 46
+38-61 (66, written over a struck 42-99), nos. 47 and 48 in the other order,
+and тлахтами for плахтами in the servitudes.
+
+The comparison settled one doubt in this holding too: no. 43 is Матеушъ in
+the table, its copy and the statement alike (was [Мануилъ?] and
+[Матеушъ?]).
 
 ## Open
 

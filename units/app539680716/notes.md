@@ -60,7 +60,7 @@ the picture: the lines are vertical only.
 
 ## The reading
 
-46 marks of doubt (68 before the editor's answers on two sheets). The tables follow the edition's convention (number
+44 marks of doubt (68 before the editor's answers on two sheets and the comparison with the original). The tables follow the edition's convention (number
 first, name second; abbreviated numbers in full; the copyist's dash after
 a name dropped; a heading repeated on a page given once). In the Łazińsk
 table Breyer's pencil of 1875 stands in the name cell after " — ".
@@ -111,6 +111,19 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
   [Торно?]. The answered rows are taken off the sheet (`ANSWERED` in
   `spot_sheet2.py`); 30 rows remain, with s20 and a new row s48 giving the
   original's плахтами and наличный (APŁ 39/98/0/-/6603, document 2).
+
+- **Against the original table** (APŁ 39/98/0/-/6603, 2026-10-15, at the
+  editor's request: "It should match the actual table"). Every row of
+  document 4 was compared with the original and each difference looked up
+  again on the photo. Corrected, as misreadings of Breyer's hand: nos. 11
+  (22), 12 (14), 18 and 20 Саниковскій, 20 (24), 25 Промистъ, 37 Цельнеръ
+  (the editor's sheet had Цельмеръ: Breyer's н looks like a Latin n,
+  as in Иванъ; the original has Цельнеръ), 41 and 84 Штирценбекеръ, 44
+  (53, the 5 left of the ruled line), 51 and 52 (14), 60 (157), 61 (94),
+  65 (254), 83 Феттеръ, 87 (1-288); in document 5 наличный (was
+  [паленный?]) and тлахтами without doubt (Breyer's т, his slip for
+  плахтами). Breyer's own departures from the original stand as written
+  (the original's notes list them).
 
 ## The English
 
