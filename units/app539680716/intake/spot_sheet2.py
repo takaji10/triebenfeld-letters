@@ -47,7 +47,7 @@ ROWS = [
     ('s10', 4, '5166_a2', 'Эд. [Бромке?]', '[Бромке?]', '[Бромке?]|Бромке',
      T4 + ', no. 36. ' + P4 + ': "Ed. ...", the surname read Бромке (Bromke) with doubt.'),
     ('s11', 4, '5166_a2', '[Цельмеръ Фр.?]', '[Цельмеръ Фр.?]', '[Цельмеръ Фр.?]|Цельмеръ Фр.',
-     T4 + ', no. 37: the holder of 1868, read Цельмеръ Фр. (Tselmer Fr., Zelmer) with doubt. The holders of nos. 50, 53, 65 and 67 are Цельнеръ (Tselner).'),
+     T4 + ', no. 37: the holder of 1868, read Цельмеръ Фр. (Tselmer Fr., Zelmer) with doubt. The holders of nos. 50, 53, 65 and 67 are Цельмеръ (Tselmer).'),
     ('s12', 4, '5167_a1', '[Геп.?] Зееръ', '[Геп.?]', '[Геп.?]|Геп.',
      T4 + ', no. 48. ' + P4 + ': "Iv. Henke 29; ... Seer 13", the forename read Геп. (Gep.) with doubt.'),
     ('s13', 4, '5167_a1', 'Штаркъ [Дет.?]', '[Дет.?]', '[Дет.?]|Дет.',
@@ -134,7 +134,11 @@ BOX = {'s31': (0.17, 0.12)}
 ANSWERED = {'s01', 's02', 's03', 's04', 's05', 's06', 's07', 's08', 's09', 's10', 's11', 's12', 's13',
             's14', 's15', 's16', 's17', 's18',
             # settled from the original table of 1869 (APŁ 39/98/0/-/6603), 2026-10-15
-            's20', 's48'}
+            's20', 's48',
+            # the second round, 2026-10-15: every row answered ("can't tell" leaves the doubt)
+            's19', 's21', 's22', 's23', 's24', 's25', 's26', 's27', 's28', 's29', 's30', 's31',
+            's32', 's33', 's34', 's35', 's36', 's37', 's38', 's39', 's40', 's41', 's42', 's43',
+            's44', 's45', 's46', 's47'}
 
 if __name__ == '__main__':
     spot_sheet.main([r for r in ROWS if r[0] not in ANSWERED], SHIFT, BOX, 'readings2.csv')

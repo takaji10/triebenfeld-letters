@@ -255,9 +255,11 @@ written until there is a witness or a better scan.
 - **APP 53/968/0/-/716** (Albert Breyer's Łazińsk notebook and the sheet of
   1858, added 2026-10-14, not published): read from the editor's photos by
   Claude, 68 marks of doubt; 17 put to the editor on a spot sheet and
-  answered (2026-10-15); a second sheet of the rest, 18 answered so far,
-  28 open; 44 marks remain after a comparison with the original table
-  (APŁ 39/98/0/-/6603). Not
+  answered (2026-10-15); a second sheet of the rest, all answered the
+  same day; 35 marks remain, after the answers and a comparison with the
+  original table (APŁ 39/98/0/-/6603). The names in Breyer's copy of the
+  table follow the original's spelling, and Zelmer is always Цельмеръ
+  (editor, 2026-10-15). Not
   asked: the doubtful names of the Russian tables and Breyer's pencil of
   1875. Open: the folds (placed in session); the heading of the Orlin list
   (four lines of Kurrent, partly read).

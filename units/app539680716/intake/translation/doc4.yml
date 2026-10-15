@@ -18,11 +18,11 @@ pages:
 
     2,Gebel Mart. — Voits. Runga,29,262
 
-    3,Merzh Karl — Avg.,48,56
+    3,Merts Karl — Avg.,48,56
 
     4,Kholm Dan. — Ernst 26-161; Avg. Kholm 14,40,161
 
-    5,Merzh Gotl.,7,289
+    5,Merts Gotl.,7,289
 
     6,Girsh Krist. — Vilg. Kholm,17,233
 
@@ -30,9 +30,9 @@ pages:
 
     8,Strzhizhikovskii Fr.,11,148
 
-    9,Skipkovskii Mart. — Iosif Vavrzhiniak,19,22
+    9,Sanikovskii Martsin — Iosif Vavrzhiniak,19,22
 
-    10,Marek Vilg. — Merzh,32,179
+    10,Marek Vilg. — Merts,32,179
 
     11,Grunvald Krist.,22,273
 
@@ -49,9 +49,9 @@ pages:
 - page: 3
   confidence: high
   marker_count: 3
-  en: '16,Merzh Krist. — Kar. 16-125,23,125
+  en: '16,Merts Krist. — Kar. 16-125,23,125
 
-    17,Merzh Mart. — Krist.,8,293
+    17,Merts Martsin — Krist.,8,293
 
     18,Sanikovskii Osip — [uncertain: Frants.],27,244
 
@@ -73,7 +73,7 @@ pages:
 
     27,heirs of Runga Gotfr.,18,65
 
-    28,Falkenberg Mart.,41,94
+    28,Falkenberg Martsin,41,94
 
     29,Goska Osip — + 3 Morgen,15,184
 
@@ -84,7 +84,7 @@ pages:
 - page: 4
   confidence: high
   marker_count: 1
-  en: '31,Knakfus Vilg. — Gotl.,1,196
+  en: '31,Knafkus Vilg. — Gotl.,1,196
 
     32,heirs of Runge Voits. — Gotl.,5,135
 
@@ -96,7 +96,7 @@ pages:
 
     36,Fridenberg Kristof — Ed. [uncertain: Bromke],19,220
 
-    37,Tselner Gotf. — Shults Frid.,26,14
+    37,Tselmer Gotf. — Shults Frid.,26,14
 
     38,Malinovskii Petr — + 7,5,277
 
@@ -104,11 +104,11 @@ pages:
 
     40,Shvebs Kar. — Sam. Shtiltser,4,168
 
-    41,Shtirtsenbeker Kar.,8,45
+    41,Shtirtsenbekher Kar.,8,45
 
     42,heirs of Betke Kristiian.,8,192
 
-    43,Kinast Eman. — Gotfr.,3,248
+    43,Kinast Mateush — Gotfr.,3,248
 
     44,Rash Frid. Ivan,53,196
 
@@ -125,15 +125,15 @@ pages:
 
     48,Zeer Krist. — Iv. Genke 29; [uncertain: Gep.] Zeer 13,42,99
 
-    49,Merzh Avg.,33,93
+    49,Merts Avg.,33,93
 
-    50,Tselner Genr.,35,42
+    50,Tselmer Genr.,35,42
 
     51,Gebel Karl. — Kr. Girsh,14,105
 
     52,Shmigelskii Sam. — Kar. Kholm,14,13
 
-    53,heirs of Tselnera Dan. — Avg. Shmigel,12,60
+    53,heirs of Tselmera Dan. — Avg. Shmigel,12,60
 
     54,Bitner Andr. — Vil. Kovalski,30,115
 
@@ -147,7 +147,7 @@ pages:
 
     59,Gints Liudv. — 39-245,16,287
 
-    60,Shtark Det.,8,157'
+    60,Shtark Daniil,8,157'
   names: []
   numbers: []
   flagged: []
@@ -158,17 +158,17 @@ pages:
 
     62,Kusman Gotl.,2,66
 
-    63,heirs of Kinast Voits. — Gotf.,15,192
+    63,heirs of Kinasta Voits. — Gotf.,15,192
 
     64,Gerke Gotfr.,5,277
 
-    65,Tselner Mikh. — Gotf.,36,254
+    65,Tselmer Mikh. — Gotf.,36,254
 
     66,Shtark Avg. — widow,18,241
 
-    67,Tselner Avg.,22,227
+    67,Tselmer Avg.,22,227
 
-    68,Lipelt Mart. — Genr. Runga,14,121
+    68,Lipelt Martsin — Genr. Runga,14,121
 
     69,Gotter Avg. — Kar. [uncertain: Pashka],19,64
 
@@ -205,19 +205,19 @@ pages:
 
     83,Fetter Iv. — Gotl. Rybitskii,2,206
 
-    84,Shtirtsenbeker Iv.,5,30
+    84,Shtirtsenbekher Iv.,5,30
 
-    85,Kinast Kristiian — Krist. Shenfish,2,12
+    85,Kinast Kristiian — Krist. Sheinfish,2,12
 
-    86,Khaupt Gotfr. — Fr. Khirsh,4,37
+    86,Khaupt Gotfr. — Fr. Girsh,4,37
 
     86,Khaupt Vilg. — 2,14,179
 
     87,German Voitsekh — 2,1,288
 
-    88,heirs of Tarnovskii Mikh. — Gottlib Gotl.,2,30
+    88,heirs of Tarnovskago Mikh. — Gottlib Gotl.,2,30
 
-    89,Rogovich Martsin — [uncertain: Bentsler],–,193
+    89,Rogovich Martsin — [uncertain: Bontsler],–,193
 
     90,Marylskii Iv.,5,98
 

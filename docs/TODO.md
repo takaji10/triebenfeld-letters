@@ -461,11 +461,10 @@ copies. Details: `units/app539680716/notes.md`.
       send the file if you move any).
 - [x] You answered the spot sheet "Readings in Breyer's Łazińsk notebook"
       (17 rows, 2026-10-15). Worked in the same day.
-- [ ] Answer the rest of the second spot sheet (18 of 47 answered and
-      worked in, 2026-10-15; 30 open, with two words the original table
-      settles) "The other readings in Breyer's
-      Łazińsk notebook" (47 rows, `python pipeline/review/queries.py --unit
-      app539680716 --sheet readings2.csv --port 4102`).
+- [x] You answered the second spot sheet "The other readings in Breyer's
+      Łazińsk notebook" (47 rows, 2026-10-15). Worked in the same day; 35
+      marks of doubt remain. The names in Breyer's copy of the table now
+      follow the original's spelling, Zelmer always with m (your ruling).
 - [x] The era of the sheet of 1858 and the tables of 1868: a copy takes
       the era of what it copies (your ruling, 2026-10-14). They stand under
       Włodzimierz; two documents were divided so that copies and Breyer's
@@ -481,6 +480,6 @@ liquidation. Details: `units/apl399806603/notes.md`.
 
 - [ ] Look at the page edges where two scans are joined into one page:
       `review/apl399806603/folds/index.html` (the green lines).
-- [ ] The doubtful readings (24), on a spot sheet when you want them.
+- [ ] The doubtful readings (21), on a spot sheet when you want them.
 - [ ] A name for the era (`liquidation` is a working name).
 - [ ] Your word to publish.

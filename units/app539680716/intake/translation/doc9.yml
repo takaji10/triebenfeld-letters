@@ -30,7 +30,7 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 3
+  marker_count: 1
   en: '11,Frank,17
 
     12,Stefan,18
@@ -55,11 +55,11 @@ pages:
 
     22,Common land,34
 
-    23,[uncertain: Christ.] Kasner,17
+    23,[uncertain: Crist.] Kasner,17
 
-    24,"[uncertain: Gottfr.] """,17
+    24,"Gottfr. """,17
 
-    25,[uncertain: Gottfr.] M.,16'
+    25,Gottfr. M.,16'
   names: []
   numbers: []
   flagged: []

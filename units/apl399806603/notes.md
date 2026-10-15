@@ -68,13 +68,20 @@ match the actual table"), each difference looked up again on Breyer's
 photo. Most were misreadings of Breyer's hand, now corrected in 716: his 4
 is shaped like Ч (nos. 12, 20, 51, 52, 61, 65), his 5 has a flat top (no.
 60), his н and п are both shaped like a Latin n (наличный, Саниковскій,
-Цельнеръ at no. 37, Промистъ), and some figures stand across the ruled
+Промистъ), and some figures stand across the ruled
 line (no. 11 22, no. 44 53) or are plain (no. 87 1-288). What Breyer did
-write otherwise, and stands as he wrote it: Мержъ for Мерцъ, Скипковскій
-for Саниковскій (no. 9), Кнакфусъ, Штирценбекеръ, Кинастъ Эман. for
-Матеушъ (no. 43), no. 12 222 rods (original 122), no. 29 184 (188), no. 46
+write otherwise: Мержъ for Мерцъ, Скипковскій for Саниковскій (no. 9),
+Кнакфусъ, Штирценбекеръ, Кинастъ Эман. for Матеушъ (no. 43), and other
+names; at the editor's word (2026-10-15) his names in 716 now follow this
+table's spelling (716's notes list them). His figures stand as he wrote
+them: no. 12 222 rods (original 122), no. 29 184 (188), no. 46
 38-61 (66, written over a struck 42-99), nos. 47 and 48 in the other order,
 and тлахтами for плахтами in the servitudes.
+
+**Zelmer is always written with m** (the editor, 2026-10-15: "there's
+no Zelner, ever in this project"): Цельмеръ at nos. 37, 50, 53, 65 and 67
+in the table, its copy and the statement (read Цельнеръ at first; the
+clerk's м is easily taken for н).
 
 The comparison settled one doubt in this holding too: no. 43 is Матеушъ in
 the table, its copy and the statement alike (was [Мануилъ?] and

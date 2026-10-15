@@ -1948,6 +1948,13 @@ lose his estates. The era page writes Konotop, not Kontop.
 - At the editor's request, every row of Breyer's copy of the Łazińsk liquidation table (APP 53/968/0/-/716, document 4) compared with the original (APŁ 39/98/0/-/6603). Most differences were misreadings of Breyer's hand and are corrected: figures at nos. 11, 12, 20, 44, 51, 52, 60, 61, 65 and 87, the names Саниковскій, Промистъ, Цельнеръ, Штирценбекеръ and Феттеръ, and наличный and тлахтами in the servitudes. Breyer's own departures from the original stand as he wrote them and are listed in the notes. In the original, no. 43 is Матеушъ in all three witnesses.
 - Marks of doubt: 44 in the notebook, 21 in the original, 877 in the edition.
 
+## Zelmer with m, Breyer's names to the original, the rest of the second sheet (2026-10-15)
+
+- The editor's ruling: Zelmer is always written with m ("there's no Zelner, ever in this project"). Цельмеръ at nos. 37, 50, 53, 65 and 67 in both holdings, in the table, its copy and the statement of APŁ 39/98/0/-/6603 and in Breyer's copy (APP 53/968/0/-/716, document 4); the change to Цельнеръ the day before is undone.
+- The editor's ruling: names in Breyer's copy of the Łazińsk table follow the original's spelling, not Breyer's: Мерцъ (for Мержъ), Саниковскій Марцинъ (no. 9), Марцинъ (for Март.), Кнафкусъ, Штирценбехеръ, Матеушъ (no. 43), Даніилъ (no. 60), the genitives Кинаста and Тарновскаго, and in the pencil Шейнфишъ and Гиршъ. What Breyer wrote is listed in the holding's notes and on its "How it was made" page. His figures stand as he wrote them.
+- The editor's answers on the last 28 rows of the second sheet worked in: Brenda, "schlagen sich", Gottfr., Вангольдъ, Студзенка, "1909 9 Nov. hat das aufgehört", "mit d.", Велькiй боръ read without doubt; [Бонцлеръ?], [Гредъ?], […etli…?], [Solten?], [Zoget.?], [Crist.?] and [топоръ?] (an axe) changed with their doubt; eleven kept as they were.
+- Marks of doubt: 35 in the notebook, 21 in the original, 868 in the edition.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

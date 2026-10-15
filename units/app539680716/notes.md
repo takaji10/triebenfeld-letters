@@ -60,7 +60,7 @@ the picture: the lines are vertical only.
 
 ## The reading
 
-44 marks of doubt (68 before the editor's answers on two sheets and the comparison with the original). The tables follow the edition's convention (number
+35 marks of doubt (68 before the editor's answers on two sheets and the comparison with the original). The tables follow the edition's convention (number
 first, name second; abbreviated numbers in full; the copyist's dash after
 a name dropped; a heading repeated on a page given once). In the Łazińsk
 table Breyer's pencil of 1875 stands in the name cell after " — ".
@@ -111,19 +111,47 @@ table Breyer's pencil of 1875 stands in the name cell after " — ".
   [Торно?]. The answered rows are taken off the sheet (`ANSWERED` in
   `spot_sheet2.py`); 30 rows remain, with s20 and a new row s48 giving the
   original's плахтами and наличный (APŁ 39/98/0/-/6603, document 2).
+- **The rest of the second sheet** (2026-10-15, the last 28 rows; every row
+  now answered and in `ANSWERED`). Read without doubt: Brenda, "schlagen
+  sich", Gottfr. twice (doc. 9, nos. 24, 25), Вангольдъ (doc. 11, no. 20),
+  Студзенка for [Стурценгеръ?] (doc. 11, no. 8), "1909 9 Nov. hat das
+  aufgehört" for "1909 [?] hat das [entgekoit?]", "mit d." for "mit
+  [L…?]", Велькiй боръ for Вдовьiй боръ (the editor: "It's Velkiy"; no с
+  is to be seen on the picture). Changed, still doubtful: [Бонцлеръ?] for
+  [Бенцлеръ?] (doc. 4, no. 89), [Гредъ?] for [Бредъ?] (the editor: the first
+  letter is a G), […etli…?] for [Sattlern?], [Solten?], [Zoget.?],
+  [Crist.?], and [топоръ?] (an axe) for [напоръ?] (the editor: the first
+  letter may be т; the sense, an axe for grubbing stumps, agrees). Kept
+  with their doubt ("can't tell"): [Гедпаръ?], [Frierk?], and in doc. 11
+  [Ланитцъ?], [Гралька?], [Веречъ?], [Дайгеръ?], [Ш.?], [Куркина?],
+  [Шпицеръ?], [Шиммеръ?], [Курвина?].
 
 - **Against the original table** (APŁ 39/98/0/-/6603, 2026-10-15, at the
   editor's request: "It should match the actual table"). Every row of
   document 4 was compared with the original and each difference looked up
   again on the photo. Corrected, as misreadings of Breyer's hand: nos. 11
-  (22), 12 (14), 18 and 20 Саниковскій, 20 (24), 25 Промистъ, 37 Цельнеръ
-  (the editor's sheet had Цельмеръ: Breyer's н looks like a Latin n,
-  as in Иванъ; the original has Цельнеръ), 41 and 84 Штирценбекеръ, 44
+  (22), 12 (14), 18 and 20 Саниковскій, 20 (24), 25 Промистъ, 44
   (53, the 5 left of the ruled line), 51 and 52 (14), 60 (157), 61 (94),
   65 (254), 83 Феттеръ, 87 (1-288); in document 5 наличный (was
   [паленный?]) and тлахтами without doubt (Breyer's т, his slip for
-  плахтами). Breyer's own departures from the original stand as written
-  (the original's notes list them).
+  плахтами).
+- **Names standardised to the original** (the editor, 2026-10-15: "Don't
+  use Breyer's spelling, standardise it to the actual liquidation table").
+  Where Breyer spelled a name otherwise than the original's table
+  (6603, document 1), it now stands as the original writes it; his
+  abbreviations stay where they fit the original's name. Breyer wrote:
+  Мержъ (nos. 3, 5, 16, 17, 49, and the pencil at 10; now Мерцъ),
+  Скипковскій Март. (9; Саниковскій Марцинъ), Март. where the original
+  has Марцинъ (17, 28, 68), Кнакфусъ (31; Кнафкусъ), Штирценбекеръ (41,
+  84; Штирценбехеръ), Эман. (43; Матеушъ), Дет. (60, the editor's reading
+  of Breyer; Даніилъ), Кинастъ and Тарновскій after Нас. (63, 88; the
+  genitive Кинаста, Тарновскаго), and in the pencil Шенфишъ (85;
+  Шейнфишъ) and Хиршъ (86; Гиршъ). No. 19 stays Стирценбехеръ: the
+  original's own reading there is in doubt. **Zelmer is always written
+  with m** (the editor: "there's no Zelner, ever in this project"):
+  Цельмеръ at nos. 37, 50, 53, 65 and 67, and the same in 6603. Breyer's
+  figures still stand as he wrote them (nos. 12, 29, 46, and the order of
+  47 and 48): the ruling was about names.
 
 ## The English
 

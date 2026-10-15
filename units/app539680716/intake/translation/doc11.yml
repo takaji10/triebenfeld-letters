@@ -1,7 +1,7 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 2
+  marker_count: 1
   en: ',"Liquidation table of the village of Orliny, of the landowner Count Albert Taczanowski",
 
     1,Tsess Foma,10-245
@@ -18,7 +18,7 @@ pages:
 
     7,Vishnevskii Osip,22
 
-    8,[uncertain: Sturtsenger] Osip.,
+    8,Studzenka Osip.,
 
     9,Peda Bogumil,15
 
@@ -32,7 +32,7 @@ pages:
   flagged: []
 - page: 2
   confidence: high
-  marker_count: 4
+  marker_count: 3
   en: ',,2 49.
 
     13,Tsebel Andr.,11
@@ -49,7 +49,7 @@ pages:
 
     19,""" Iv.",48
 
-    20,[uncertain: Vangold] Gotl.,15
+    20,Vangold Gotl.,15
 
     21,Tukholka Andr.,14
 

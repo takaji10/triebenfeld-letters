@@ -680,6 +680,22 @@ Where the rest is:
   what the hand allows, and keep, as written, only what the hand clearly
   says otherwise. Learn a hand's letter forms from words whose reading is
   certain before trusting a single letter.
+- **Never overrule the editor's answer on a name from my own reading of a
+  letter** (2026-10-15). The editor had answered Цельмеръ at no. 37; I
+  changed it to Цельнеръ because the original table seemed to read so, and
+  read the original's four other Zelmers as Цельнеръ too. The editor:
+  "there's no Zelner, ever in this project. There's Celmer, Zelmer,
+  Zellmer, but all have the -m." Before a name departs from the family the
+  edition already knows (people.yml, the editor's answers), check that
+  family's spellings; a clerk's м is easily taken for н. If the hand still
+  seems to say otherwise, put it to the editor: do not change it.
+- **A copy's names follow the original it copies** (the editor,
+  2026-10-15: "Don't use Breyer's spelling, standardise it to the actual
+  liquidation table"). Where a copyist spelled a name otherwise than the
+  original does, the text gives the original's spelling; list what the
+  copyist wrote in the holding's notes and say so on its process page. The
+  ruling is about names: the copyist's figures stay as written unless the
+  editor says otherwise.
 - **The editor writes a word read with doubt as "nur[?]"**, the word with
   "[?]" after it (and "Polzfu[h?]l" for one letter). Keep their form in the
   text; the English needs a rule that turns it into "[uncertain: nur]"

@@ -153,17 +153,17 @@ furshtiki 330.
 for the whole village 52 cartloads
 1880 - 300 Morgen 97 rods
 4 Morgen of waste land.
-[uncertain: Bred]
+[uncertain: Gred]
 forestry plan:
-"Vdovii Bor, Biskupice,
+"Velkii Bor, Biskupice,
 Podbel, Szetlew, Grzebień,
 [uncertain: Gedpar], Kreshnia."
-1909 [illegible]
-has [uncertain: entgekoit] that''',
+1909 9 Nov.
+that stopped''',
  (8, '5172_a2'): '''In Józefów
 [uncertain: Jäke], Becker, Wegert, Jesswein
 the first farmers.
-Old houses with [uncertain: L…]
+Old houses with the
 gable to the street
 1056 hymns
 1017 hymns in the Züllichau
@@ -177,7 +177,7 @@ right round the body''',
  (8, '5173_a1'): '''30 years ago the
 bonnets disappeared.
 Bonnets were made from the
-[uncertain: saddlers].
+[uncertain: …etli…].
 Czarny Bród,
 Little Orlin, Great Orlin
 Maradza,
@@ -195,7 +195,7 @@ Schmidt a hymn book
 In Orlin post-built houses (Bloch)
 —o—
 Holędry Orliny Biskupicki''',
- (8, '5174_a1'): '''[uncertain: Sollten], they steal wood from one another, steal pota¬
+ (8, '5174_a1'): '''[uncertain: Solten], they steal wood from one another, steal pota¬
 toes, dream of stealing hens
 The German fellow countrymen robbed the teacher
 on [uncertain: Zrost]. In Grodziec poor,
@@ -205,10 +205,10 @@ The more converted, the more perverted.
 Protestant communists, believe in nothing.
 Poverty does it mostly.
 They get on well with the Poles. In Białobłoty
-[uncertain: Brenda] drops drunk at home.
+Brenda drops drunk at home.
 Immorality among married men not
 widespread. Many wild marriages (3-4)
-[uncertain: Zogel.] children, 7 illegitimate,
+[uncertain: Zoget.] children, 7 illegitimate,
 otherwise also 2-3
 They marry mostly to Białobłoty. Many girls
 do not marry. The Poles all speak good German
@@ -218,7 +218,7 @@ membership dues. The Volksverband has more influence
 through the "Volksfreund" and the calendar.
 Volksverband: farmers - J.D.P. - youth''',
  (8, '5174_a2'): '''Near Grodziec "Ukerlinge", "in Obory cheeky, vulgar.
-After the service [uncertain: they fight] every Sunday, dance amusement
+After the service they fight every Sunday, dance amusement
 In Orlin: the praying brethren, in the village two preachers,
 for 2 years Pentecostalists and Baptists.
 On Saturday no carting of dung. - Camomile
@@ -264,7 +264,7 @@ dry branches and grub up stumps.
 Branches may be broken off
 the trees with a [tree] hook, and in
 grubbing up stumps a
-[uncertain: lever] may be used. The fuel so gathered
+[uncertain: an axe] may be used. The fuel so gathered
 the farmstead holders
 carry away by carts, reckoning
 no more than one cart to a farmstead''',
