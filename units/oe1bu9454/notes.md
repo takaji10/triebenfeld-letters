@@ -30,7 +30,8 @@ than guessed at.
   23,000 against 32,000 Rthl. Both are faithful to their own page, so the discrepancy
   belongs to the original copyist.
 - **Letter 72e is Polish and 283 is French.** Everything else is German.
-- **Four archival numbers have no surviving text**: 121, 181, 225, 293.
+- **Four archival numbers have no surviving text**: 121, 181, 225, 293. Letter 9 was marked
+  "skipped" until 2026-10-15, although its scan shows a damaged leaf (see "Letter 9" below).
 - **150 uncertain readings** stand marked in the text, 98 illegible and 52 offered as
   guesses.
 - **Letter 48's two page-image pairings were never human-confirmed.** They are
@@ -336,6 +337,29 @@ record); neither is to be run again.
   entries were replaced in `site/_data/summaries.yml` and `summaries_de.yml` by hand.
 - **Margin notes.** Both letters have a note in the margin (289 page 1, "welche an 80/m rt ..."; page 2, "wenn besonders die ...").
   They stand where the editor's new transcription puts them, and the paragraph step still breaks them line by line, as before.
+
+## Letter 9 (2026-10-15)
+
+The page map called letter 9 "missing/skipped in the archive - no document to scan", and the corpus held
+"(skipped)". The scan (0015_b; the left half of scan 0015 is a blank leaf) shows a single leaf in
+Triebenfeld's hand, holed in its left middle, its top right corner folded over. The editor supplied a
+transcription on 2026-10-15. The record is `intake/scripts/letter_9.py` (text, date, place, writer,
+reading record, summaries; its docstring lists every reading that departs from the editor's file) and
+`intake/translation/doc9.yml` (the English, written in session); neither script is to be run again.
+
+- **Text.** 18 lines, made from the editor's file and the scan; the scan decided. "[...]" marks text lost
+  in the hole or under the fold (17 places). Three marks of doubt: [säh?], [St. K. F. H.?] and
+  [vorgerübene?] (the editor's letters, kept; no word is found in them). Beugelin is written Beguelin.
+- **Date, place, writer.** About January 1815, Vienna[?], Triebenfeld to the Prince (rulings.yml,
+  correspondents.json): the 112/m Rthl and the Transact of 1811 as in letter 265a (8 Jan 1815), Beguelin,
+  Barbe and Koschentin as in letters 8 and 13. Estates: Koschentin and the majorat.
+- **English and summaries.** Written in session; the summaries are held to the letter in
+  `reading.json` and were put into `site/_data/summaries*.yml` by hand, as for 245 and 289.
+- **Spot sheet "Letter 9"** (`intake/scripts/spot_9.py`, `review/oe1bu9454/letter_9.csv`, port 4104):
+  eleven rows where the text departs from the editor's file or keeps a reading the scan does not confirm.
+  The text stands on the first option of each until the editor answers.
+- Adding the 17 lines moved every later line of corpus.txt by 17: line numbers recorded before this in
+  `transcription_decisions.csv` for letters 10 and after are out of date, as after letter 254's move.
 
 ## Place names: German in the text, Polish (German) on the site (editor 2026-09-28)
 

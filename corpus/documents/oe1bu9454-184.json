@@ -20,8 +20,8 @@
  "place": "Ingelfingen",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
- "line_start": 13210,
- "line_end": 13243,
+ "line_start": 13227,
+ "line_end": 13260,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0350_a",
-   "line_start": 13212,
-   "line_end": 13226,
+   "line_start": 13229,
+   "line_end": 13243,
    "n_lines": 15,
    "diplomatic": "184\nIn der Eile sind anliegende Blanquets\nneulich bey Abgang der Estaffette ver¬\ngessen worden; Euer Hochwohlgebohren,\nwerden dies Versehen gnädig verzeihen.\nIch empfehle mich Denenselben zu Gna¬\nden, und wünsche, daß dieselben ver¬\ngnügter als ich leben mögten; denn ich\nhabe in kurzer Zeit, im Herrendienste\nallerley traurige Erfahrungen gemacht,\nWir alt Ingelfingische Diener werden,\nüber den neuern vergeßen, welche lezten\nsie seyen noch so verdienstlos — dennoch glük¬\nlich gemacht werden. Mich ehrlichen Teufel\nwird man an der magern Angel zu tode",
    "transcription": "184\nIn der Eile sind anliegende Blanquets\nneulich bey Abgang der Estaffette ver-\ngessen worden; Euer Hochwohlgebohren,\nwerden dies Versehen gnädig verzeihen.\nIch empfehle mich Denenselben zu Gna-\nden, und wünsche, daß dieselben ver-\ngnügter als ich leben mögten; denn ich\nhabe in kurzer Zeit, im Herrendienste\nallerley traurige Erfahrungen gemacht,\nWir alt Ingelfingische Diener werden,\nüber den neuern vergeßen, welche lezten\nsie seyen noch so verdienstlos — dennoch glük-\nlich gemacht werden. Mich ehrlichen Teufel\nwird man an der magern Angel zu tode",
@@ -58,8 +58,8 @@
   {
    "page": 2,
    "page_id": "0351_a1",
-   "line_start": 13228,
-   "line_end": 13243,
+   "line_start": 13245,
+   "line_end": 13260,
    "n_lines": 16,
    "diplomatic": "wollen zäppeln lassen, wo andre vom\nFette des hohenlichischen Landes schwelgen.\naber wenn das Glück mir nicht ganz un¬\nhold ist, werde ich mich aus eigener Kraff\nloswinden, da man alle treue unin¬\ntressirte Dienste vergessen zu haben scheint.\nIch habe zu grenzenloses Vertrauen in\ndieselben, als daß ich glauben konnte fünd¬\nHochwohlgebohren würden irgend von\ndem Ausbruch meines Herzens Gebrauch ma¬\nchen; aber etwas mußte ich dieselben\ndoch fühlen lassen, wie man mit mir ver¬\nführt. Die treuſte Verehrung bleibt\ndenenselben, auf ewig gewidmet.\nIngelfingen d 15ten Maj 1806.\nA: Hahn",
    "transcription": "wollen zäppeln lassen, wo andre vom\nFette des hohenlichischen Landes schwelgen.\naber wenn das Glück mir nicht ganz un-\nhold ist, werde ich mich aus eigener Kraff\nloswinden, da man alle treue unin-\ntressirte Dienste vergessen zu haben scheint.\nIch habe zu grenzenloses Vertrauen in\ndieselben, als daß ich glauben konnte fünd-\nHochwohlgebohren würden irgend von\ndem Ausbruch meines Herzens Gebrauch ma-\nchen; aber etwas mußte ich dieselben\ndoch fühlen lassen, wie man mit mir ver-\nführt. Die treuſte Verehrung bleibt\ndenenselben, auf ewig gewidmet.\nIngelfingen d 15ten Maj 1806.\nA: Hahn",
@@ -121,7 +121,7 @@
    "page": 1,
    "page_id": "0350_a",
    "scan": "Oe_1_Bu_9454_0350_a-L184_01.jpg",
-   "line": 13222,
+   "line": 13239,
    "doc_line": 11
   },
   {
@@ -132,7 +132,7 @@
    "page": 2,
    "page_id": "0351_a1",
    "scan": "Oe_1_Bu_9454_0351_a1-L184_02.jpg",
-   "line": 13242,
+   "line": 13259,
    "doc_line": 30
   }
  ],

@@ -390,8 +390,9 @@ edition"). What follows is the project's own record.
 All 459 English translations are machine drafts (`status: draft` in
 `site/_data/translations/`); none has been read against the manuscript. Each
 holding's `review/<slug>/translation_review.csv` lists the rows to rule on.
-Five documents without English have no text to translate: in Oe 1 Bü 9454
-the skipped number 9 and the missing 121, 181, 225, 293. The fifteen of
+Four documents without English have no text to translate: in Oe 1 Bü 9454
+the missing 121, 181, 225, 293. (Letter 9, long marked skipped, was
+transcribed by the editor and translated in session on 2026-10-15.) The fifteen of
 Nr. 3709 were translated in session on 2026-10-04 (not by the paid run); its
 nine review rows are none blocking: three damaged pages shown as gaps, three
 "Cammer" matches that are the Kammergericht, three places marked doubtful in

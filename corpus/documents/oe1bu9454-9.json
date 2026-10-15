@@ -9,43 +9,48 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "",
- "date_precision": "unknown",
- "date_source": "none",
- "date_display": "",
- "date_inferred_from": "letter missing/skipped in the archive",
- "year": "",
- "month": "",
+ "date_iso": "1815-01",
+ "date_precision": "inferred",
+ "date_source": "inferred",
+ "date_display": "[1815-01]",
+ "date_inferred_from": "about January 1815, at Vienna: like letter 265a (8 Jan 1815) it waits only for the advance of 112/m Rthl to be granted, after the Transact of 1811; Beguelin, Barbe and the Koschentin business are those of the Vienna letters of that winter (8, 13). A single damaged leaf; its beginning, date and signature are lost",
+ "year": 1815,
+ "month": 1,
  "day": "",
- "place": "",
- "sender": "",
- "recipient": "",
+ "place": "Wien[?]",
+ "sender": "von Triebenfeld",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
  "line_start": 540,
- "line_end": 542,
- "uncertainty_count": 0,
- "has_damage": 0,
+ "line_end": 559,
+ "uncertainty_count": 20,
+ "has_damage": 1,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
  "relations": [],
- "estates": [],
- "is_missing": 1,
- "n_lines": 1,
+ "estates": [
+  "koschentin",
+  "oppurg",
+  "schlawenschitz",
+  "lassowitz"
+ ],
+ "is_missing": 0,
+ "n_lines": 18,
  "n_pages": 1,
- "text": "(skipped)",
- "text_reading": "(skipped)",
+ "text": "9\nder Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...]\nfür [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...]\nKedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...]\nschentin [...] haben könne — gerne [säh?] ich dem Patron[...]\nGesicht [...] mir doch durch wenn und was Sie dar[...]\nfür [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]\nmit da [...] weiß ich das wie und wo, so mache ich hier\nalles mög[...]\nÜber die [...] 1811 ist schon alles einig, wenn nur erst die 112/m\nrt. accordir[...]\nEben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas\nLuft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt.\nKümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder\nmeine Zuflucht zum Borgen nehmen —\nMeinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht\ndavon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier\nviel schlechte Streiche gemacht —",
+ "text_reading": "9 der Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...] für [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...] Kedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...] schentin [...] haben könne — gerne [säh?] ich dem Patron[...] Gesicht [...] mir doch durch wenn und was Sie dar[...] für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...] mit da [...] weiß ich das wie und wo, so mache ich hier alles mög[...] Über die [...] 1811 ist schon alles einig, wenn nur erst die 112/m rt. accordir[...] Eben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas Luft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt. Kümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder meine Zuflucht zum Borgen nehmen — Meinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht davon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier viel schlechte Streiche gemacht —",
  "pages": [
   {
    "page": 1,
    "page_id": "0015_b",
    "line_start": 542,
-   "line_end": 542,
-   "n_lines": 1,
-   "diplomatic": "(skipped)",
-   "transcription": "(skipped)",
-   "reading": "(skipped)",
+   "line_end": 559,
+   "n_lines": 18,
+   "diplomatic": "9\nder Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...]\nfür [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...]\nKedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...]\nschentin [...] haben könne — gerne [säh?] ich dem Patron[...]\nGesicht [...] mir doch durch wenn und was Sie dar[...]\nfür [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]\nmit da [...] weiß ich das wie und wo, so mache ich hier\nalles mög[...]\nÜber die [...] 1811 ist schon alles einig, wenn nur erst die 112/m\nrt. accordir[...]\nEben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas\nLuft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt.\nKümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder\nmeine Zuflucht zum Borgen nehmen —\nMeinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht\ndavon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier\nviel schlechte Streiche gemacht —",
+   "transcription": "9\nder Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...]\nfür [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...]\nKedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...]\nschentin [...] haben könne — gerne [säh?] ich dem Patron[...]\nGesicht [...] mir doch durch wenn und was Sie dar[...]\nfür [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...]\nmit da [...] weiß ich das wie und wo, so mache ich hier\nalles mög[...]\nÜber die [...] 1811 ist schon alles einig, wenn nur erst die 112/m\nrt. accordir[...]\nEben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas\nLuft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt.\nKümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder\nmeine Zuflucht zum Borgen nehmen —\nMeinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht\ndavon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier\nviel schlechte Streiche gemacht —",
+   "reading": "9 der Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...] für [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...] Kedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...] schentin [...] haben könne — gerne [säh?] ich dem Patron[...] Gesicht [...] mir doch durch wenn und was Sie dar[...] für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...] mit da [...] weiß ich das wie und wo, so mache ich hier alles mög[...] Über die [...] 1811 ist schon alles einig, wenn nur erst die 112/m rt. accordir[...] Eben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas Luft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt. Kümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder meine Zuflucht zum Borgen nehmen — Meinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht davon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier viel schlechte Streiche gemacht —",
    "paragraphs": [
-    "(skipped)"
+    "9 der Geheime Etats Rath von Beguelin, arbeitet durch Barbes Vermittelung[...] für [...] die Koschentiner Sache betreibe ich durch ihn — Aber der sehr[...] Kedl [...] hat ihm gesagt, daß er die ganze Herrschaft[...] schentin [...] haben könne — gerne [säh?] ich dem Patron[...] Gesicht [...] mir doch durch wenn und was Sie dar[...] für [...] [St. K. F. H.?] was anzubringen ist, auch, wie[...] mit da [...] weiß ich das wie und wo, so mache ich hier alles mög[...] Über die [...] 1811 ist schon alles einig, wenn nur erst die 112/m rt. accordir[...] Eben so gl[...] [...]derung des halben Gehalts — Sobald nur etwas Luft ist, werde ich [vorgerübene?] Meine Kinder helfen Ewr Durchlaucht ja mit 100 rt. Kümmerlich und eingezogen muß ich hier leben in 6-7 Tägen muß ich schon wieder meine Zuflucht zum Borgen nehmen — Meinen krummen Bedienten laßen Ewr Durchlaucht dorten ja beobachten, daß er nicht davon läuft der Bösewicht hat mich schändlich geärgert, aber außerdem hier viel schlechte Streiche gemacht —"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
@@ -53,17 +58,133 @@
    "continues_next": false,
    "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 1
+   "doc_line_end": 18
   }
  ],
- "mentions": [],
+ "mentions": [
+  {
+   "entity": "barbe",
+   "display": "Barbe",
+   "kind": "person",
+   "surface": "Barbe",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
+   "line": 543,
+   "doc_line": 2
+  },
+  {
+   "entity": "beguelin",
+   "display": "Beguelin",
+   "kind": "person",
+   "surface": "Beguelin",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
+   "line": 543,
+   "doc_line": 2
+  }
+ ],
  "mentions_english": [],
- "place_canonical": "Unknown",
- "place_mentions": [],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "",
- "summary_de": "",
- "reading": {}
+ "place_canonical": "Wien[?]",
+ "place_mentions": [
+  {
+   "entity": "koschentin",
+   "display": "Koszęcin (Koschentin)",
+   "kind": "place",
+   "surface": "Koschentiner",
+   "page": 1,
+   "page_id": "0015_b",
+   "scan": "Oe_1_Bu_9454_0015_b-L9_01.jpg",
+   "line": 544,
+   "doc_line": 3
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "9\n\nthe Privy Councillor of State von Beguelin is working through Barbe's mediation [text lost] for [text lost] the Koszęcin business I am pursuing through him — But the very [text lost] Kedl [text lost] has told him that he could have the whole lordship [text lost]schentin [text lost] — I should gladly [uncertain: see] the Patron [text lost] face [text lost] me after all through whom and what you [text lost] for [text lost] [uncertain: St. K. F. H.] is to be brought forward, also how [text lost] with the [text lost] I know the how and where, so here I am doing everything poss[text lost]\n\nAbout the [text lost] 1811 everything is already agreed, if only the 112/m Rthl are first granted [text lost]\n\nLikewise gl[text lost] [text lost] of the half salary — As soon as there is only a little breathing space, I shall [uncertain: vorgerübene] Do help my children, Your Serene Highness, with 100 Rthl. Wretchedly and in retirement I must live here; in 6-7 days I must already take refuge in borrowing again —\n\nDo have my crooked servant watched there, Your Serene Highness, so that he does not run away; the scoundrel has angered me shamefully, but besides that has played many bad tricks here —"
+  }
+ ],
+ "text_english": "9\n\nthe Privy Councillor of State von Beguelin is working through Barbe's mediation [text lost] for [text lost] the Koszęcin business I am pursuing through him — But the very [text lost] Kedl [text lost] has told him that he could have the whole lordship [text lost]schentin [text lost] — I should gladly [uncertain: see] the Patron [text lost] face [text lost] me after all through whom and what you [text lost] for [text lost] [uncertain: St. K. F. H.] is to be brought forward, also how [text lost] with the [text lost] I know the how and where, so here I am doing everything poss[text lost]\n\nAbout the [text lost] 1811 everything is already agreed, if only the 112/m Rthl are first granted [text lost]\n\nLikewise gl[text lost] [text lost] of the half salary — As soon as there is only a little breathing space, I shall [uncertain: vorgerübene] Do help my children, Your Serene Highness, with 100 Rthl. Wretchedly and in retirement I must live here; in 6-7 days I must already take refuge in borrowing again —\n\nDo have my crooked servant watched there, Your Serene Highness, so that he does not run away; the scoundrel has angered me shamefully, but besides that has played many bad tricks here —",
+ "summary_en": "Fragment of a letter from Triebenfeld to the Prince, a single damaged leaf without its beginning. He says the Privy Councillor of State Beguelin is working through Barbe's mediation, and that through him he is pursuing the Koschentin business. Everything is already agreed, he says, if only the 112/m Rthl are granted first. He asks the Prince to help his children with 100 Rthl; he says he lives meagrely and must borrow again in 6-7 days. His servant there should be watched so that he does not run away; he says the man has angered him.",
+ "summary_de": "Bruchstück eines Briefes Triebenfelds an den Fürsten, ein einzelnes beschädigtes Blatt ohne Anfang. Der Geheime Etatsrat Beguelin arbeite durch Barbes Vermittlung, und durch ihn betreibe Triebenfeld die Koschentiner Sache. Es sei schon alles einig, wenn nur erst die 112/m Rthl bewilligt würden. Der Fürst möge seinen Kindern mit 100 Rthl helfen; Triebenfeld lebe kümmerlich und müsse in 6-7 Tagen wieder borgen. Sein Diener dort solle beobachtet werden, damit er nicht davonlaufe; er habe ihn geärgert.",
+ "reading": {
+  "letter": "9",
+  "legibility": "legible",
+  "notes": "Read in the working session on 2026-10-15 from the editor's transcription and the scan. A single leaf in Triebenfeld's hand to the Prince, without beginning, date or signature, holed in its left middle and folded at the top right corner, so that many lines are broken. Vienna, about January 1815: Beguelin works through Barbe and through him the Koschentin business is pursued; everything is agreed if only the 112/m Rthl are granted (the Transact of 1811); the half salary; 100 Rthl for his children; he lives on borrowing; his servant, who has run up tricks, is to be watched. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bruchstück eines Briefes Triebenfelds an den Fürsten, ein einzelnes beschädigtes Blatt ohne Anfang",
+    "lines": [
+     2,
+     16
+    ]
+   },
+   {
+    "statement": "Der Geheime Etatsrat Beguelin arbeite durch Barbes Vermittlung",
+    "lines": [
+     2
+    ]
+   },
+   {
+    "statement": "und durch ihn betreibe Triebenfeld die Koschentiner Sache",
+    "lines": [
+     3
+    ]
+   },
+   {
+    "statement": "Es sei schon alles einig, wenn nur erst die 112/m Rthl bewilligt würden",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Der Fürst möge seinen Kindern mit 100 Rthl helfen",
+    "lines": [
+     13
+    ]
+   },
+   {
+    "statement": "Triebenfeld lebe kümmerlich und müsse in 6-7 Tagen wieder borgen",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Sein Diener dort solle beobachtet werden, damit er nicht davonlaufe",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "er habe ihn geärgert",
+    "lines": [
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "[säh?]",
+    "note": "the vowel is not clear; the sense would be \"gerne säh ich dem Patron [ins] Gesicht\""
+   },
+   {
+    "line": 7,
+    "word": "[St. K. F. H.?]",
+    "note": "four initials; perhaps Staats Kanzler Fürst Hardenberg"
+   },
+   {
+    "line": 13,
+    "word": "[vorgerübene?]",
+    "note": "the letters as the editor read them; no word is found in them"
+   }
+  ],
+  "read_against": "session 2026-10-15 (intake/scripts/letter_9.py)"
+ }
 }

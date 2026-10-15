@@ -20,8 +20,8 @@
  "place": "Breslau",
  "sender": "von Triebenfeld",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 9151,
- "line_end": 9164,
+ "line_start": 9168,
+ "line_end": 9181,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -40,8 +40,8 @@
   {
    "page": 1,
    "page_id": "0244_a2",
-   "line_start": 9153,
-   "line_end": 9164,
+   "line_start": 9170,
+   "line_end": 9181,
    "n_lines": 12,
    "diplomatic": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen — Sie wollen im 4 Uhr bey Ewr Hoch¬\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü¬\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen — ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
    "transcription": "125\nSeiner Hochfürstliche\nDurchlaucht\nDie Leute aus Olesnica sind mit die Gelder an\ngekommen — Sie wollen im 4 Uhr bey Ewr Hoch-\nfürstliche Durchlaucht sein.\nIch habe hier etwas mit sie verhandelt, darü-\nber werde ich Euer Durchlaucht Nachmittag\nVortrag machen — ich glaube es wird Ewr\nDurchlaucht nicht unlieb sein\nBreslau den 28ten April 1804\nv Triebenfeld",
@@ -67,7 +67,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9164,
+   "line": 9181,
    "doc_line": 12
   }
  ],
@@ -107,7 +107,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9156,
+   "line": 9173,
    "doc_line": 4
   },
   {
@@ -118,7 +118,7 @@
    "page": 1,
    "page_id": "0244_a2",
    "scan": "Oe_1_Bu_9454_0244_a2-L125_01.jpg",
-   "line": 9163,
+   "line": 9180,
    "doc_line": 11
   }
  ],

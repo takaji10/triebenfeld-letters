@@ -20,8 +20,8 @@
  "place": "Berlin",
  "sender": "Amelang",
  "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "line_start": 10521,
- "line_end": 10539,
+ "line_start": 10538,
+ "line_end": 10556,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0281_a2",
-   "line_start": 10523,
-   "line_end": 10539,
+   "line_start": 10540,
+   "line_end": 10556,
    "n_lines": 17,
    "diplomatic": "144\nDurchlauchtigster Fürst!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht Befehl vom\n31. v. h. habe ich heute erhalten.\nMorgen Früh werde ich zu dem Graf\nvon Schulenburg gehen, das an ihn\ngerichtete Schreiben ihm überhändigen u seine\nnähere Erklärung erwarten.\nMit der nächsten Post werde ich in Unter\nthenigtes das Resultat meiner Conferenz\neinzuberichten nicht unterlaßen.\nder ich erſterbe.\nEw hochfürstlichen Durchlaucht\nBerlin den 3. Nov. 1804.\nunterthänigster Diener\nAmelang",
    "transcription": "144\nDurchlauchtigster Fürst!\nGnädigster Fürst und Herr!\nEw. Hochfürstlichen Durchlaucht Befehl vom\n31. v. h. habe ich heute erhalten.\nMorgen Früh werde ich zu dem Graf\nvon Schulenburg gehen, das an ihn\ngerichtete Schreiben ihm überhändigen u seine\nnähere Erklärung erwarten.\nMit der nächsten Post werde ich in Unter\nthenigtes das Resultat meiner Conferenz\neinzuberichten nicht unterlaßen.\nder ich erſterbe.\nEw hochfürstlichen Durchlaucht\nBerlin den 3. Nov. 1804.\nunterthänigster Diener\nAmelang",
@@ -69,7 +69,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10529,
+   "line": 10546,
    "doc_line": 7
   },
   {
@@ -80,7 +80,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10539,
+   "line": 10556,
    "doc_line": 17
   }
  ],
@@ -120,7 +120,7 @@
    "page": 1,
    "page_id": "0281_a2",
    "scan": "Oe_1_Bu_9454_0281_a2-L144_01.jpg",
-   "line": 10537,
+   "line": 10554,
    "doc_line": 15
   }
  ],

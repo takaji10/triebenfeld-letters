@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 271
+  docs: 272
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -416,7 +416,7 @@
   initial_en: "L"
   sort_de: "herrschaft"
   initial_de: "H"
-  docs: 41
+  docs: 42
 - id: "unterthanen"
   kind: "land"
   lang: "de"
@@ -1708,7 +1708,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 354
+  docs: 355
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1765,7 +1765,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 352
+  docs: 353
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"

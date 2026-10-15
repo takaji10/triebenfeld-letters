@@ -103,7 +103,7 @@ and `inferred` are editorial acts.
 |---|---|---|
 | `draft` | machine-translated, mechanically checked, published; **not yet read against the manuscript by a human** | 421 |
 | `reviewed` | every row raised against it in `review/<slug>/translation_review.csv` has been ruled on | 0 |
-| `untranslated` | no English, because there is no text to translate: a document not yet transcribed (I. HA GR, Rep. 7 C, Nr. 3709), a skipped number and four missing from the archive (9454: 9, 121, 181, 225, 293) | 6 |
+| `untranslated` | no English, because there is no text to translate: four numbers missing from the archive (9454: 121, 181, 225, 293) | 4 |
 
 The distinction matters the way `date_source` does: a `draft` translation is
 evidence of what the German probably says, not a settled reading. Quote the

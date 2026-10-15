@@ -483,3 +483,15 @@ liquidation. Details: `units/apl399806603/notes.md`.
       rest kept with their doubt; 18 marks remain. Worked in the same day.
 - [ ] A name for the era (`liquidation` is a working name).
 - [x] Published at your word (2026-10-15).
+
+## 16. Oe 1 Bü 9454, letter 9 (added 2026-10-15, not published)
+
+Your transcription of letter 9, which stood in the holding as "skipped": a
+single damaged leaf from Vienna, about January 1815. Read against the scan,
+translated and summarised in session. Details: `units/oe1bu9454/notes.md`,
+"Letter 9".
+
+- [ ] Answer the spot sheet "Letter 9": eleven places where the text departs
+      from your file (`python pipeline/review/queries.py --unit oe1bu9454
+      --sheet letter_9.csv --port 4104`).
+- [ ] Your word to publish.

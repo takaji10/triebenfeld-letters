@@ -968,6 +968,83 @@
   ],
   "read_against": "363ae4778848a0bc"
  },
+ "oe1bu9454-009": {
+  "letter": "9",
+  "legibility": "legible",
+  "notes": "Read in the working session on 2026-10-15 from the editor's transcription and the scan. A single leaf in Triebenfeld's hand to the Prince, without beginning, date or signature, holed in its left middle and folded at the top right corner, so that many lines are broken. Vienna, about January 1815: Beguelin works through Barbe and through him the Koschentin business is pursued; everything is agreed if only the 112/m Rthl are granted (the Transact of 1811); the half salary; 100 Rthl for his children; he lives on borrowing; his servant, who has run up tricks, is to be watched. Nothing on Trąbczyn.",
+  "claims": [
+   {
+    "statement": "Bruchstück eines Briefes Triebenfelds an den Fürsten, ein einzelnes beschädigtes Blatt ohne Anfang",
+    "lines": [
+     2,
+     16
+    ]
+   },
+   {
+    "statement": "Der Geheime Etatsrat Beguelin arbeite durch Barbes Vermittlung",
+    "lines": [
+     2
+    ]
+   },
+   {
+    "statement": "und durch ihn betreibe Triebenfeld die Koschentiner Sache",
+    "lines": [
+     3
+    ]
+   },
+   {
+    "statement": "Es sei schon alles einig, wenn nur erst die 112/m Rthl bewilligt würden",
+    "lines": [
+     10,
+     11
+    ]
+   },
+   {
+    "statement": "Der Fürst möge seinen Kindern mit 100 Rthl helfen",
+    "lines": [
+     13
+    ]
+   },
+   {
+    "statement": "Triebenfeld lebe kümmerlich und müsse in 6-7 Tagen wieder borgen",
+    "lines": [
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Sein Diener dort solle beobachtet werden, damit er nicht davonlaufe",
+    "lines": [
+     16,
+     17
+    ]
+   },
+   {
+    "statement": "er habe ihn geärgert",
+    "lines": [
+     17
+    ]
+   }
+  ],
+  "doubtful_words": [
+   {
+    "line": 5,
+    "word": "[säh?]",
+    "note": "the vowel is not clear; the sense would be \"gerne säh ich dem Patron [ins] Gesicht\""
+   },
+   {
+    "line": 7,
+    "word": "[St. K. F. H.?]",
+    "note": "four initials; perhaps Staats Kanzler Fürst Hardenberg"
+   },
+   {
+    "line": 13,
+    "word": "[vorgerübene?]",
+    "note": "the letters as the editor read them; no word is found in them"
+   }
+  ],
+  "read_against": "session 2026-10-15 (intake/scripts/letter_9.py)"
+ },
  "oe1bu9454-010": {
   "letter": "10",
   "legibility": "partly garbled",

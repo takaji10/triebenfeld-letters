@@ -20,8 +20,8 @@
  "place": "Erfurt",
  "sender": "Hahn",
  "recipient": "von Triebenfeld",
- "line_start": 12119,
- "line_end": 12154,
+ "line_start": 12136,
+ "line_end": 12171,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0320_a2",
-   "line_start": 12121,
-   "line_end": 12135,
+   "line_start": 12138,
+   "line_end": 12152,
    "n_lines": 15,
    "diplomatic": "171\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath\nDa ich weis, Euer Hochwohlgebohren intressiren\nNachrichten von meinem gnädigsten Herrn\nso erlaube ich mir, denenselben, die Versiche¬\nrung zuertheilen, daß Sr Durchlaucht\nfast vollkommen, von dem Bibel am Fuße\ngeheilt, und im übrigen vollkommen, wol\nsind, der Fuß ist nur wenig mehr ge¬\nschwollen, und verursacht keine Schmer¬\nzen. Sr durchlaucht wollen sich bestens empfehlen,\nder Andreas Orden hat Freude, doch das\nartige Benehmen Sr Majestät, des Kay¬\nsers noch mehr Vergnügen hervorgebracht",
    "transcription": "171\nHochwohlgebohrner Herr\nHochzuverehrender Herr Krieges und Forst Rath\nDa ich weis, Euer Hochwohlgebohren intressiren\nNachrichten von meinem gnädigsten Herrn\nso erlaube ich mir, denenselben, die Versiche-\nrung zuertheilen, daß Sr Durchlaucht\nfast vollkommen, von dem Bibel am Fuße\ngeheilt, und im übrigen vollkommen, wol\nsind, der Fuß ist nur wenig mehr ge-\nschwollen, und verursacht keine Schmer-\nzen. Sr durchlaucht wollen sich bestens empfehlen,\nder Andreas Orden hat Freude, doch das\nartige Benehmen Sr Majestät, des Kay-\nsers noch mehr Vergnügen hervorgebracht",
@@ -59,8 +59,8 @@
   {
    "page": 2,
    "page_id": "0321_a1",
-   "line_start": 12137,
-   "line_end": 12154,
+   "line_start": 12154,
+   "line_end": 12171,
    "n_lines": 18,
    "diplomatic": "der Fürst, ist ganz bezaubert von diesem\njungen artigen Monarchen Auch in\nbreslau soll der Kayser mit den schmeichel¬\nhaftesten Ausdrüken von Sr. Durchlaucht\ngesprochen haben.\nHeute marschirte das Regiment Hohen¬\nlohe hier durch, der Fürst war ihm entge¬\ngengeritten. Morgen wird der Herzog\nvon Weimar hier erwartet.\nIch empfehle mich Euer Hochwohlgebohren\nzu Gnaden und habe die Ehre in der\nunbegrenztesten Hochachtung zu behar¬\nren.\nEuer Hochwohlgebohren,\nErfurt d. 24. Nov.\n1805\nunterthäniger Diener\nA. Hahn",
    "transcription": "der Fürst, ist ganz bezaubert von diesem\njungen artigen Monarchen Auch in\nbreslau soll der Kayser mit den schmeichel-\nhaftesten Ausdrüken von Sr. Durchlaucht\ngesprochen haben.\nHeute marschirte das Regiment Hohen-\nlohe hier durch, der Fürst war ihm entge-\ngengeritten. Morgen wird der Herzog\nvon Weimar hier erwartet.\nIch empfehle mich Euer Hochwohlgebohren\nzu Gnaden und habe die Ehre in der\nunbegrenztesten Hochachtung zu behar-\nren.\nEuer Hochwohlgebohren,\nErfurt d. 24. Nov.\n1805\nunterthäniger Diener\nA. Hahn",
@@ -92,7 +92,7 @@
    "page": 2,
    "page_id": "0321_a1",
    "scan": "Oe_1_Bu_9454_0321_a1-L171_02.jpg",
-   "line": 12142,
+   "line": 12159,
    "doc_line": 21
   }
  ],
@@ -212,7 +212,7 @@
    "page": 2,
    "page_id": "0321_a1",
    "scan": "Oe_1_Bu_9454_0321_a1-L171_02.jpg",
-   "line": 12145,
+   "line": 12162,
    "doc_line": 24
   },
   {
@@ -223,7 +223,7 @@
    "page": 2,
    "page_id": "0321_a1",
    "scan": "Oe_1_Bu_9454_0321_a1-L171_02.jpg",
-   "line": 12151,
+   "line": 12168,
    "doc_line": 30
   }
  ],

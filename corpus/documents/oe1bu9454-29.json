@@ -20,8 +20,8 @@
  "place": "Schlawenschitz",
  "sender": "Bally",
  "recipient": "von Triebenfeld",
- "line_start": 1930,
- "line_end": 1958,
+ "line_start": 1947,
+ "line_end": 1975,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
@@ -38,8 +38,8 @@
   {
    "page": 1,
    "page_id": "0051_b",
-   "line_start": 1932,
-   "line_end": 1942,
+   "line_start": 1949,
+   "line_end": 1959,
    "n_lines": 11,
    "diplomatic": "29\nHochwohlgeborner Herr,\nHöchst zu verehrender Herr Krieges Rath!\nals Ew. Hochwohlgeboren ich die Ehr hatte mit dem Hoffrath\nHahn in Lohsen bei Brieg zu begegnen, waren Sie so gnädig\nnur ein Rendez Vous zu versprechen, noch der Retour von\nMemel. Da dies noch nicht geschehen und ich vermuthen, daß\nHochdieselben schon wieder in Breslau seyn werden, so unter¬\nstehen mich hiermit gehorsamst zu bitten, ob ich Hoffnung\nhaben kann und wann durch in Breslau war aufzuwarten\nda ich von meinen gnädigsten Herrn Durchlaucht darum gefragt wor[den]",
    "transcription": "29\nHochwohlgeborner Herr,\nHöchst zu verehrender Herr Krieges Rath!\nals Ew. Hochwohlgeboren ich die Ehr hatte mit dem Hoffrath\nHahn in Lohsen bei Brieg zu begegnen, waren Sie so gnädig\nnur ein Rendez Vous zu versprechen, noch der Retour von\nMemel. Da dies noch nicht geschehen und ich vermuthen, daß\nHochdieselben schon wieder in Breslau seyn werden, so unter-\nstehen mich hiermit gehorsamst zu bitten, ob ich Hoffnung\nhaben kann und wann durch in Breslau war aufzuwarten\nda ich von meinen gnädigsten Herrn Durchlaucht darum gefragt wor[den]",
@@ -61,8 +61,8 @@
   {
    "page": 2,
    "page_id": "0052_a1",
-   "line_start": 1944,
-   "line_end": 1958,
+   "line_start": 1961,
+   "line_end": 1975,
    "n_lines": 15,
    "diplomatic": "Sehr glücklich, wann Ew. Hochwohlgeboren ich die Ehre haben\nkönnten zu sprechen, würden es mich machen, nur im Augen,\nBlick hör ich, daß wir auch hier französisch Einquartierung\nbekommen sollen: da könnte ich nicht vom Fleck und noch\nhärten wären es, wann ich die Stallungen räumen sollten.\nund wird einen andern Aufenthalts Ort suchen.\nDemohngeachtet hoffe ich bald mündlich die Ehren haben zu\nkönnen, zu versichern, daß ich in tiefster Hochachtung\nerstorben ad\nEw. Hochwohlgeboren\nSchlawenschitz\nd. 10. Februar\n1808\ntreu gehorſamſt\nBally",
    "transcription": "Sehr glücklich, wann Ew. Hochwohlgeboren ich die Ehre haben\nkönnten zu sprechen, würden es mich machen, nur im Augen,\nBlick hör ich, daß wir auch hier französisch Einquartierung\nbekommen sollen: da könnte ich nicht vom Fleck und noch\nhärten wären es, wann ich die Stallungen räumen sollten.\nund wird einen andern Aufenthalts Ort suchen.\nDemohngeachtet hoffe ich bald mündlich die Ehren haben zu\nkönnen, zu versichern, daß ich in tiefster Hochachtung\nerstorben ad\nEw. Hochwohlgeboren\nSchlawenschitz\nd. 10. Februar\n1808\ntreu gehorſamſt\nBally",
@@ -93,7 +93,7 @@
    "page": 2,
    "page_id": "0052_a1",
    "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
-   "line": 1958,
+   "line": 1975,
    "doc_line": 26
   }
  ],
@@ -165,7 +165,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1936,
+   "line": 1953,
    "doc_line": 5
   },
   {
@@ -176,7 +176,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1936,
+   "line": 1953,
    "doc_line": 5
   },
   {
@@ -187,7 +187,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1938,
+   "line": 1955,
    "doc_line": 7
   },
   {
@@ -198,7 +198,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1939,
+   "line": 1956,
    "doc_line": 8
   },
   {
@@ -209,7 +209,7 @@
    "page": 1,
    "page_id": "0051_b",
    "scan": "Oe_1_Bu_9454_0051_b-L29_01.jpg",
-   "line": 1941,
+   "line": 1958,
    "doc_line": 10
   },
   {
@@ -220,7 +220,7 @@
    "page": 2,
    "page_id": "0052_a1",
    "scan": "Oe_1_Bu_9454_0052_a1-L29_02.jpg",
-   "line": 1954,
+   "line": 1971,
    "doc_line": 22
   }
  ],

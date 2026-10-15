@@ -551,6 +551,19 @@
   ]
  },
  {
+  "place": "Wien[?]",
+  "count": 7,
+  "documents": [
+   "oe1bu9454-254",
+   "oe1bu9454-8",
+   "oe1bu9454-9",
+   "oe1bu9454-3",
+   "oe1bu9454-13",
+   "oe1bu9454-12",
+   "oe1bu9454-279"
+  ]
+ },
+ {
   "place": "Betsche",
   "count": 6,
   "documents": [
@@ -560,18 +573,6 @@
    "oe1bu14526-18",
    "oe1bu14526-19",
    "oe1bu14526-29"
-  ]
- },
- {
-  "place": "Wien[?]",
-  "count": 6,
-  "documents": [
-   "oe1bu9454-254",
-   "oe1bu9454-8",
-   "oe1bu9454-3",
-   "oe1bu9454-13",
-   "oe1bu9454-12",
-   "oe1bu9454-279"
   ]
  },
  {
@@ -896,7 +897,7 @@
  },
  {
   "place": "Unknown",
-  "count": 42,
+  "count": 41,
   "documents": [
    "app53640kalisztab21-1",
    "oe1bu14525-13",
@@ -934,7 +935,6 @@
    "iiihamdaiiinr12367-2",
    "iiihamdaiiinr12367-3",
    "oe1bu14526-1",
-   "oe1bu9454-9",
    "oe1bu9454-121",
    "oe1bu9454-181",
    "oe1bu9454-225",

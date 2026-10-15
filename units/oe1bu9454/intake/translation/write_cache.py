@@ -9,7 +9,8 @@ holding, was revised in a Claude Code session to follow the corrected German;
 each doc<N>.yml beside this file holds the pages in the shape of the
 submit_translation tool. This writes them with translate.py's own save(),
 into the holding's published generation of the cache (tag v2), so the record
-carries the source_hash of the text as it now stands; check_translations.py
+carries the source_hash of the text as it now stands (letter 9, transcribed by the editor
+and translated in session on 2026-10-15, was written the same way: doc9.yml); check_translations.py
 and publish_translations.py (both with --tag v2) read it from there. cache/
 is not in the repository: these files are the record.
 """

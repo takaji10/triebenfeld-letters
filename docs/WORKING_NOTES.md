@@ -780,6 +780,17 @@ Where the rest is:
   for row 4). Say clearly which sheets the editor has had: they asked
   whether they had gone over the original's readings, which had never
   been put on a sheet.
+- **"Missing" or "skipped" in a page map is a claim, not a fact** (Oe 1 Bü 9454,
+  letter 9, 2026-10-15). The map said "no document to scan" and the corpus held
+  "(skipped)", yet the archive's processed folder had the page, a damaged leaf
+  with eighteen lines. Before treating a number as lost, open its scan. The
+  holding's method for a letter added later is `intake/scripts/letter_9.py`
+  (after `rescan_245_289.py`): text from the editor's file and the scan, the
+  date, place and writer rulings, the reading record and the summaries in one
+  script run once; the English as `intake/translation/doc<N>.yml`.
+- **The edition's "marks of doubt" count includes "[...]"** (lost text):
+  `corpus/index/uncertainties.json` is the number the essays give. Recount
+  from it, not with a regex for "[word?]" alone.
 - **Checking the pictures of a spot sheet is a second reading.** On
   53/968/0/-/716 it showed a word read without doubt that looks otherwise
   (Вдовьiй / Вельскiй) and a word broken across two lines that was

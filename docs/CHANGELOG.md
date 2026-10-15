@@ -1970,6 +1970,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - At the editor's word, APP 53/968/0/-/716 (Breyer's Łazińsk notebook) and APŁ 39/98/0/-/6603 (the liquidation table of Łazińsk) published together: 589 documents in 42 holdings, 865 marks of doubt, with the new era `liquidation`.
 
+## Oe 1 Bü 9454, letter 9 (2026-10-15)
+
+- Letter 9, marked "skipped" since the holding was built, added from the editor's transcription: a single leaf in Triebenfeld's hand, holed and with a folded corner, 18 lines with 17 places of lost text and 3 marks of doubt. Read against the scan; where the editor's file and the scan differed the scan decided (Borgen, Bösewicht, schändlich, weiß, betreibe ... durch ihn), and those places are on a spot sheet for the editor. Dated to about January 1815 at Vienna, Triebenfeld to the Prince; English and summaries written in session. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
