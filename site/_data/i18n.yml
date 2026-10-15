@@ -113,6 +113,8 @@ en:
   rel_supplements: Adds appurtenances to
   rel_registers: Registers title under
   rel_answers: Answers
+  rel_copies: Copy of
+  rel_entered_in: Entered in
   estates_label: Estates in focus
   estates_h2: Estates in focus
   estates_lede: >-
@@ -258,7 +260,9 @@ en:
   tl_era_note_restitution: >-
     From 1807. The estates go back to Prusimski's daughter. Hohenlohe-Ingelfingen's claim to them, and the claims of his creditors, are argued for another twenty-five years.
   tl_era_note_wlodzimierz: >-
-    Michalina Miączyńska dies in 1851, and her son, Count Włodzimierz Miączyński, holds the estate until his death in 1879. In 1859 and 1860 he and its colonists go to law over their rights in his forest; in 1868 the colonists of Łazińsk are given their land.
+    Michalina Miączyńska dies in 1851, and her son, Count Włodzimierz Miączyński, holds the estate until his death in 1879. In 1859 and 1860 he and its colonists go to law over their rights in his forest.
+  tl_era_note_liquidation: >-
+    After the reform of 1864 the colonists of Łazińsk are given their land in 1868; their rights in the manor forest are fixed in 1884 and exchanged for land in 1892.
   tl_era_note_twentieth: >-
     The manor has been parcelled out, and its former land holds German settlements of the commune of Trąbczyn. In 1935 and 1936 Albert Breyer writes down what their people remember.
   sort: Sort
@@ -406,6 +410,8 @@ de:
   rel_supplements: Ergänzt die Verleihung
   rel_registers: Trägt den Besitztitel ein aufgrund von
   rel_answers: Beantwortet
+  rel_copies: Abschrift von
+  rel_entered_in: Eingetragen in
   estates_label: Betroffene Güter
   estates_h2: Betroffene Güter
   estates_lede: >-
@@ -555,7 +561,9 @@ de:
   tl_era_note_restitution: >-
     Ab 1807. Die Güter gehen an Prusimskis Tochter zurück. Um den Anspruch Hohenlohe-Ingelfingens und um die Forderungen seiner Gläubiger wird noch fünfundzwanzig Jahre gestritten.
   tl_era_note_wlodzimierz: >-
-    Michalina Miączyńska stirbt 1851, und ihr Sohn, Graf Włodzimierz Miączyński, besitzt das Gut bis zu seinem Tod 1879. 1859 und 1860 streiten er und die Kolonisten des Gutes vor Gericht um ihre Rechte in seinem Wald; 1868 erhalten die Kolonisten von Łazińsk ihr Land.
+    Michalina Miączyńska stirbt 1851, und ihr Sohn, Graf Włodzimierz Miączyński, besitzt das Gut bis zu seinem Tod 1879. 1859 und 1860 streiten er und die Kolonisten des Gutes vor Gericht um ihre Rechte in seinem Wald.
+  tl_era_note_liquidation: >-
+    Nach der Reform von 1864 erhalten die Kolonisten von Łazińsk 1868 ihr Land; ihre Rechte im herrschaftlichen Wald werden 1884 festgesetzt und 1892 gegen Land getauscht.
   tl_era_note_twentieth: >-
     Der Gutshof ist parzelliert, und auf seinem früheren Land liegen deutsche Siedlungen der Gemeinde Trąbczyn. 1935 und 1936 schreibt Albert Breyer auf, woran sich ihre Bewohner erinnern.
   sort: Sortieren

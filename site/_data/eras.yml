@@ -40,17 +40,29 @@
 - slug: "wlodzimierz"
   order: 4
   status: "populated"
-  count: 8
+  count: 2
   first: "1858"
-  last: "1870"
+  last: "1860"
   label_en: "The estate under Włodzimierz Miączyński"
   label_de: "Das Gut unter Włodzimierz Miączyński"
-  blurb_en: "After Michalina Miączyńska died in 1851, her son Count Włodzimierz Miączyński held the Trąbczyn estate until his death in 1879, when it passed to his nephew Władysław Miączyński. The colonists on it sued him in 1859 over their rights of pasture and wood in his forest, and he answered with a counterclaim that went back to the privilege of 1746 and the contracts of Hohenlohe-Ingelfingen's years. Here so far are the printed summons of 1860, a tax list of Emilienheim of 1858, and Albert Breyer's copies of the liquidation tables of 1868, by which the peasants received their land, and of their servitudes."
-  blurb_de: "Nach dem Tod Michalina Miączyńskas 1851 besaß ihr Sohn, Graf Włodzimierz Miączyński, das Gut Trąbczyn bis zu seinem Tod 1879; dann ging es an seinen Neffen Władysław Miączyński. Die Kolonisten des Gutes verklagten ihn 1859 wegen ihrer Weide- und Holzrechte in seinem Wald, und er antwortete mit einer Widerklage, die auf das Privileg von 1746 und die Verträge aus den Jahren Hohenlohe-Ingelfingens zurückging. Bisher liegen die gedruckte Vorladung von 1860 vor, eine Steuerliste von Emilienheim von 1858 und Albert Breyers Abschriften der Liquidationstabellen von 1868, nach denen die Bauern ihr Land erhielten, und ihrer Servitute."
+  blurb_en: "After Michalina Miączyńska died in 1851, her son Count Włodzimierz Miączyński held the Trąbczyn estate until his death in 1879, when it passed to his nephew Władysław Miączyński. The colonists on it sued him in 1859 over their rights of pasture and wood in his forest, and he answered with a counterclaim that went back to the privilege of 1746 and the contracts of Hohenlohe-Ingelfingen's years. Here so far are the printed summons of 1860 and a tax list of Emilienheim of 1858; the liquidation of the peasants' land, which began in his years, has its own era."
+  blurb_de: "Nach dem Tod Michalina Miączyńskas 1851 besaß ihr Sohn, Graf Włodzimierz Miączyński, das Gut Trąbczyn bis zu seinem Tod 1879; dann ging es an seinen Neffen Władysław Miączyński. Die Kolonisten des Gutes verklagten ihn 1859 wegen ihrer Weide- und Holzrechte in seinem Wald, und er antwortete mit einer Widerklage, die auf das Privileg von 1746 und die Verträge aus den Jahren Hohenlohe-Ingelfingens zurückging. Bisher liegen die gedruckte Vorladung von 1860 und eine Steuerliste von Emilienheim von 1858 vor; die Liquidation des Bauernlandes, die in seinen Jahren begann, hat eine eigene Epoche."
   ownership_en: "Count Włodzimierz Miączyński, Michalina's son, who held the estate from her death in 1851 to his own in 1879. 1851 to 1879"
   ownership_de: "Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut von ihrem Tod 1851 bis zu seinem eigenen 1879 besaß. 1851 bis 1879"
-- slug: "twentieth-century"
+- slug: "liquidation"
   order: 5
+  status: "populated"
+  count: 12
+  first: "1868"
+  last: "1897"
+  label_en: "The liquidation: the peasants' land and the servitudes"
+  label_de: "Die Liquidation: Bauernland und Servitute"
+  blurb_en: "The Russian reform of 1864 made the peasants of the Kingdom of Poland owners of the land they farmed. A liquidation table fixed each village's farmsteads, their land and the capital due to the former owner, and the peasants kept their servitudes of pasture and wood in the manor forest. For the Łazińsk colony on the Trąbczyn estate the table was confirmed in 1868; its rights in the forest \"Studzianka\" were fixed again in 1882 to 1884 and given up in 1892 for 393 Morgen of manor land, and the whole allotment was surveyed in 1896."
+  blurb_de: "Die russische Reform von 1864 machte die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten. Eine Liquidationstabelle setzte für jedes Dorf die Höfe, ihr Land und das dem früheren Besitzer geschuldete Kapital fest, und die Bauern behielten ihre Weide- und Holzservitute im herrschaftlichen Wald. Für die Kolonie Łazińsk auf dem Gut Trąbczyn wurde die Tabelle 1868 bestätigt; ihre Rechte im Wald „Studzianka“ wurden 1882 bis 1884 neu festgesetzt und 1892 gegen 393 Morgen herrschaftliches Land aufgegeben, und 1896 wurde der ganze Anteil vermessen."
+  ownership_en: "From the Russian reform of 1864, under Włodzimierz Miączyński and the owners after him: the colonists of the Trąbczyn estate receive their land, and their rights in the manor forest are fixed and then exchanged for land. 1864 to 1901"
+  ownership_de: "Seit der russischen Reform von 1864, unter Włodzimierz Miączyński und den Besitzern nach ihm: Die Kolonisten des Gutes Trąbczyn erhalten ihr Land, ihre Rechte im herrschaftlichen Wald werden festgesetzt und dann gegen Land getauscht. 1864 bis 1901"
+- slug: "twentieth-century"
+  order: 6
   status: "populated"
   count: 8
   first: "1935"

@@ -42,6 +42,7 @@
     {%- comment -%} The two eras of 2026-10-14 begin at the first year shown that has their documents; move the
       band if an earlier document of the era is added. {%- endcomment -%}
     {% if year == 1858 %}{% assign era_slug = 'wlodzimierz' %}{% assign era_note = t.tl_era_note_wlodzimierz %}{% endif %}
+    {% if year == 1868 %}{% assign era_slug = 'liquidation' %}{% assign era_note = t.tl_era_note_liquidation %}{% endif %}
     {% if year == 1935 %}{% assign era_slug = 'twentieth-century' %}{% assign era_note = t.tl_era_note_twentieth %}{% endif %}
     {% if era_slug != '' %}
       {% assign era = site.data.eras | where: "slug", era_slug | first %}

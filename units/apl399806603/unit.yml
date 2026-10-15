@@ -1,0 +1,74 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: apl399806603
+ref: 39/98/0/-/6603
+archive: Archiwum Państwowe w Łodzi (APŁ)
+# One sentence on what the holding is about, in English and in German.
+title: >-
+  The liquidation table of 1868 by which the peasants of the Łazińsk colony
+  on the Trąbczyn estate received their land, its copy of 1869 with the
+  servitudes of pasture and wood, and the later entries: the fuel and
+  pasture rights of 1884, the exchange of the servitudes for 393 Morgen of
+  manor land in 1892 to 1894, and the survey of 1896 with each farmstead's
+  land.
+title_de: >-
+  Die Liquidationstabelle von 1868, nach der die Bauern der Kolonie Łazińsk
+  auf dem Gut Trąbczyn ihr Land erhielten, ihre Abschrift von 1869 mit den
+  Weide- und Holzservituten und die späteren Eintragungen: die Brennholz-
+  und Weiderechte von 1884, der Tausch der Servitute gegen 393 Morgen
+  herrschaftliches Land 1892 bis 1894 und die Vermessung von 1896 mit dem
+  Land jedes Hofes.
+# The archive's title of the unit, as the folder gives it.
+archive_title: >-
+  Ликвидационная табель селения Лазинская Слупецкий уездъ гмина Тромбчинъ
+fonds: Urząd Gubernialny Kaliski do Spraw Włościańskich (39/98)
+date_span: "1868-1901"
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# The liquidation of the peasants' land and servitudes, the era that began
+# under Włodzimierz Miączyński (the editor, 2026-10-15).
+era: liquidation
+
+repository: apl-lodz
+
+# The archive's scans, 39_98_0_0_6603_000 to _036 (only the written sides),
+# cut to their page edges and joined where the writing runs across an
+# opening by intake/holding.py --crop, into raw_dir/processed/.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Łódź State Archives/Ликвидационная табель селения Лазинская Слупецкий уездъ гмина Тромбчинъ (39.98.0.-.6603)
+  raw_glob: "*.jpg"
+  ascii_prefix: APL_39_98_0_6603
+
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+corpus: corpus.txt
+
+description: >-
+  The file of the liquidation table of the village "Колонія Лазинская" (the
+  Łazińsk colony, the Łazińskie Olędry) in the commune of Trąbczyn, from the
+  records of the Kalisz Governorate Board for Peasant Affairs. The table,
+  approved by the Central Commission for Peasant Affairs in Warsaw on 8
+  February 1868, lists the 91 farmsteads that passed into the ownership of
+  the peasants under the Ukases of 1864, with the school, the cemetery, the
+  common land and the roads, 1,691 Morgen 219 rods in all, and fixes the
+  liquidation capital for the former owner at 10,055 roubles 70 kopecks. Its
+  copy of 1869 for the Governorate Government states the servitudes: pasture
+  and wood-gathering in the manor forest "Studzianka". Later inscriptions in
+  the copy, and certified copies of others, record the fuel and pasture
+  rights fixed in 1882 to 1884, the voluntary transaction of 1892 by which the
+  colonists gave up their servitudes to Countess Maria Wielopolska, owner of
+  Trąbczyn, for 393 Morgen 154 rods of manor land, and the survey of 1896,
+  whose statement gives each farmstead's land in desiatins and sazhens.
+
+translation_note: >-
+  Russian, in the spelling of before 1918 (ѣ, і, ъ). Land in the table in
+  Morgen (м.) and rods (п., the Polish pręt, 300 to the Morgen); in the
+  statement of 1896 in desiatins and sazhens (2,400 square sazhens to the
+  desiatina). Names are transliterated letter by letter in the English. A
+  word followed by [?] or written [word?] is read with doubt; [?] alone is a
+  word not read.

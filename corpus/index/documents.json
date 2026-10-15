@@ -30130,7 +30130,7 @@
   "letter_id": "5",
   "doc_type": "note",
   "language": "ru",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868",
@@ -30171,12 +30171,88 @@
   "permalink": "/documents/app539680716/5/"
  },
  {
+  "uid": "apl399806603-1",
+  "unit": "apl399806603",
+  "letter_id": "1",
+  "doc_type": "register",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1868-02-08",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 8,
+  "n_lines": 125,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0000_a",
+    "image": "APL_39_98_0_6603_0000_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0001_a",
+    "image": "APL_39_98_0_6603_0001_a-L1_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0003_a",
+    "image": "APL_39_98_0_6603_0003_a-L1_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0005_a",
+    "image": "APL_39_98_0_6603_0005_a-L1_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0007_a",
+    "image": "APL_39_98_0_6603_0007_a-L1_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0009_a",
+    "image": "APL_39_98_0_6603_0009_a-L1_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0011_a",
+    "image": "APL_39_98_0_6603_0011_a-L1_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0013_a",
+    "image": "APL_39_98_0_6603_0013_a-L1_08.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 1",
+  "path": "documents/apl399806603-1.json",
+  "text_path": "text/apl399806603-1.txt",
+  "permalink": "/documents/apl399806603/1/"
+ },
+ {
   "uid": "app539680716-2",
   "unit": "app539680716",
   "letter_id": "2",
   "doc_type": "register",
   "language": "ru",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-03-28",
@@ -30225,7 +30301,7 @@
   "letter_id": "4",
   "doc_type": "register",
   "language": "ru",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-06-29",
@@ -30296,12 +30372,88 @@
   "permalink": "/documents/app539680716/4/"
  },
  {
+  "uid": "apl399806603-2",
+  "unit": "apl399806603",
+  "letter_id": "2",
+  "doc_type": "certified_copy",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1869-09-10",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 8,
+  "n_lines": 131,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0015_a",
+    "image": "APL_39_98_0_6603_0015_a-L2_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0016_a",
+    "image": "APL_39_98_0_6603_0016_a-L2_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0018_a",
+    "image": "APL_39_98_0_6603_0018_a-L2_03.jpg"
+   },
+   {
+    "page": 4,
+    "page_id": "0020_a",
+    "image": "APL_39_98_0_6603_0020_a-L2_04.jpg"
+   },
+   {
+    "page": 5,
+    "page_id": "0022_a",
+    "image": "APL_39_98_0_6603_0022_a-L2_05.jpg"
+   },
+   {
+    "page": 6,
+    "page_id": "0024_a",
+    "image": "APL_39_98_0_6603_0024_a-L2_06.jpg"
+   },
+   {
+    "page": 7,
+    "page_id": "0026_a",
+    "image": "APL_39_98_0_6603_0026_a-L2_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0028_a",
+    "image": "APL_39_98_0_6603_0028_a-L3_01.jpg"
+   }
+  ],
+  "uncertainty_count": 7,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certified copy 2",
+  "path": "documents/apl399806603-2.json",
+  "text_path": "text/apl399806603-2.txt",
+  "permalink": "/documents/apl399806603/2/"
+ },
+ {
   "uid": "app539680716-3",
   "unit": "app539680716",
   "letter_id": "3",
   "doc_type": "note",
   "language": "de",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1870-11-26",
@@ -30333,6 +30485,190 @@
   "path": "documents/app539680716-3.json",
   "text_path": "text/app539680716-3.txt",
   "permalink": "/documents/app539680716/3/"
+ },
+ {
+  "uid": "apl399806603-3",
+  "unit": "apl399806603",
+  "letter_id": "3",
+  "doc_type": "certification",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1884-03",
+  "date_precision": "month",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 21,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0028_a",
+    "image": "APL_39_98_0_6603_0028_a-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0030_a",
+    "image": "APL_39_98_0_6603_0030_a-L3_02.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certification 3",
+  "path": "documents/apl399806603-3.json",
+  "text_path": "text/apl399806603-3.txt",
+  "permalink": "/documents/apl399806603/3/"
+ },
+ {
+  "uid": "apl399806603-4",
+  "unit": "apl399806603",
+  "letter_id": "4",
+  "doc_type": "certified_copy",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1894-10-12",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 49,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0031_a",
+    "image": "APL_39_98_0_6603_0031_a-L4_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0032_a",
+    "image": "APL_39_98_0_6603_0032_a-L4_02.jpg"
+   }
+  ],
+  "uncertainty_count": 2,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certified copy 4",
+  "path": "documents/apl399806603-4.json",
+  "text_path": "text/apl399806603-4.txt",
+  "permalink": "/documents/apl399806603/4/"
+ },
+ {
+  "uid": "apl399806603-6",
+  "unit": "apl399806603",
+  "letter_id": "6",
+  "doc_type": "register",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1897",
+  "date_precision": "year",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 3,
+  "n_lines": 107,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0034_a",
+    "image": "APL_39_98_0_6603_0034_a-L6_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0035_a",
+    "image": "APL_39_98_0_6603_0035_a-L6_02.jpg"
+   },
+   {
+    "page": 3,
+    "page_id": "0036_a",
+    "image": "APL_39_98_0_6603_0036_a-L6_03.jpg"
+   }
+  ],
+  "uncertainty_count": 6,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "register 6",
+  "path": "documents/apl399806603-6.json",
+  "text_path": "text/apl399806603-6.txt",
+  "permalink": "/documents/apl399806603/6/"
+ },
+ {
+  "uid": "apl399806603-5",
+  "unit": "apl399806603",
+  "letter_id": "5",
+  "doc_type": "certified_copy",
+  "language": "ru",
+  "era": "liquidation",
+  "themes": [],
+  "repository": "apl-lodz",
+  "date_iso": "1897-11-29",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 27,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0033_a",
+    "image": "APL_39_98_0_6603_0033_a-L5_01.jpg"
+   }
+  ],
+  "uncertainty_count": 3,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 0,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "certified copy 5",
+  "path": "documents/apl399806603-5.json",
+  "text_path": "text/apl399806603-5.txt",
+  "permalink": "/documents/apl399806603/5/"
  },
  {
   "uid": "app539680716-8",
@@ -31015,7 +31351,7 @@
   "letter_id": "11",
   "doc_type": "register",
   "language": "ru",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "",
@@ -31074,7 +31410,7 @@
   "letter_id": "13",
   "doc_type": "note",
   "language": "ru",
-  "era": "wlodzimierz",
+  "era": "liquidation",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "",

@@ -1,0 +1,229 @@
+pages:
+- page: 1
+  confidence: high
+  marker_count: 3
+  en: ',Statement,,,,,,,,,,,,
+
+    ,"of the amount of the peasant allotment entered in the liquidation table for the village ""Łazińsk
+    Colony, the Łazińsk Hollanders"", Słupca district.",,,,,,,,,,,,
+
+    ,,Amount of the allotment [uncertain: found] by this survey. Desiatins and sazhens.,,,,,,,,,,,
+
+    ,,Under buildings and gardens.,,Arable.,,Meadow.,,Under pasture.,,Unusable.,,In all.,
+
+    No. in the table.,Farmsteads that passed into the ownership of the peasants.,,,,,,,,,,,,
+
+    1,Konchinskii Iakov,,162,6,703,,,4,904,,279,10,2048
+
+    2,Gebel Martin,,558,7,984,2,910,6,216,,574,16,844
+
+    3,Merts Karl,1,232,14,51,3,474,9,166,,1079,27,2002
+
+    4,Kholm Daniil,,1588,13,1261,1,1888,6,449,,770,22,1156
+
+    5,Merts Gotlib,,542,3,81,,1498,2,386,,280,6,187
+
+    6,Girsh Kristiian,,414,6,183,2,100,3,710,,301,11,1708
+
+    7,Kinast Vilgelm,,459,4,1916,1,1613,3,778,,315,10,281
+
+    8,Strzhizhikovskii Frants,,170,2,14,1,538,4,274,,89,7,1085
+
+    9,Sanikovskii Martin,,144,5,2284,,1954,4,1918,,128,11,1628
+
+    10,Marek Vilgelm,,686,9,1005,3,28,6,444,,797,19,560
+
+    11,Grunvald Kristof,,864,8,1663,,1120,5,248,,454,14,1949
+
+    12,[uncertain: Slivinskii] Gotlib,,,2,628,2,1255,4,26,,419,8,2328
+
+    13,Shteinbord Iulian,,594,5,2144,1,2104,2,2058,,393,11,103
+
+    14,Kholm Vilgelm,,360,4,1305,2,1478,3,1199,,653,11,195
+
+    15,Falk Avgust,,297,2,960,,,2,31,,26,4,1314
+
+    16,Merts Kristiian,,1134,8,1799,2,1936,3,447,,457,15,973
+
+    17,Merts Martin,,360,3,873,,237,2,1735,,302,6,1107
+
+    18,Sanikovskii Osip,,594,7,872,3,2168,3,1918,,551,15,1303
+
+    19,Stirtsenbeker Kristiian,,276,5,993,,556,3,599,,1514,9,1538
+
+    20,Sanikovskii Ian,,324,8,975,1,354,4,1601,,748,14,1602
+
+    21,heirs of Goske Karla,,1032,8,1596,1,384,4,1121,,219,14,1952
+
+    22,Bludzinskii Ivan,,324,4,208,,120,2,2026,,368,7,646
+
+    23,Shmigelskii Vilgelm,,1493,17,1435,3,1610,4,1849,,1687,27,874
+
+    24,heirs of Rogatskago Petra,,281,9,114,3,1123,4,800,,974,17,892
+
+    25,[uncertain: Promins] Shchepan,,,5,1509,,,3,149,,397,8,2055
+
+    26,Runga Voitsekh,,1223,12,1674,2,893,5,429,,982,21,401
+
+    27,heirs of Runga Gotfrida,,234,6,1972,,756,4,839,,358,11,1759
+
+    28,Falkenberg Martin,,882,15,559,,2322,6,187,,622,22,2172
+
+    29,Goska Osip,,618,6,120,,1457,4,1393,,212,11,1400
+
+    30,Shults Kristiian,,605,3,677,,-,2,690,,362,5,2334
+
+    31,Knafkus Vilgelm,,162,,1368,,-,1,2280,,83,2,1493'
+  names: []
+  numbers: []
+  flagged: []
+- page: 2
+  confidence: high
+  marker_count: 1
+  en: '32,heirs of Rungi Voitsekha,,72,1,1969,,1962,1,1812,,233,4,1248
+
+    33,heirs of Rungi Gotfrida,,522,9,910,,953,4,2039,,942,15,566
+
+    34,Runge Martin,,128,,2132,,647,2,107,,107,3,721
+
+    35,Kitke Kristiian,,235,2,1454,,,2,1473,,98,5,860
+
+    36,Fridenberg Kristof,,429,6,1383,,,4,1446,,255,11,1113
+
+    37,Tselner Gotfrid,,624,9,1474,1,2120,3,1344,,395,15,1157
+
+    38,Malinovskii Petr,,288,2,312,,,2,1460,,412,5,78
+
+    39,Khaupt Kristiian,,288,5,948,,1285,2,1535,,582,8,2238
+
+    40,Shvebs Karl Veniiamin,,144,1,191,1,902,1,1776,,163,4,776
+
+    41,Shtirtsenbeker Karl,,108,3,1191,,,2,820,,166,5,2285
+
+    42,heirs of Betke Kristiiana,,234,4,399,,,1,2258,,192,6,683
+
+    43,Kinast [uncertain: Mateush],,50,1,1894,,,1,2021,,96,3,1661
+
+    44,Rash Friderik,,1377,18,2217,2,681,6,410,,781,28,666
+
+    45,Bandzert Emanuil,,,,665,2,216,1,2313,,226,4,1020
+
+    46,Kun Gotfrid,,1242,10,2068,1,1634,7,1591,,474,20,2209
+
+    47,Zeer Kristiian,,1026,14,2254,,720,10,1580,,1142,26,1922
+
+    48,Bandzert Morits,,540,8,1496,3,710,7,1444,,775,20,165
+
+    49,Merts Avgust,,636,11,662,1,359,5,937,,715,18,909
+
+    50,Tselner Genrikh,,1029,12,1199,,2164,5,2110,,1114,20,416
+
+    51,Gebel Karl,,360,5,592,,846,3,1766,,403,9,1567
+
+    52,Shmigelskii Samuil,,802,4,1918,,1898,3,979,,328,9,1125
+
+    53,heirs of Tselnera Daniila,,497,4,634,,,4,418,,339,8,1888
+
+    54,Bitner Andrei,,342,11,58,,,5,1517,,1958,17,1475
+
+    55,Rytamer Anton,,368,5,1456,,,2,2232,,456,8,2112
+
+    56,Przhistanskii Anton,,144,1,1935,,,2,1658,,371,4,1708
+
+    57,Bartel Karl Liudvik,,216,2,254,,,3,672,,419,5,1561
+
+    58,Goske Voitsekh,,486,5,1361,,1890,3,987,,382,10,306
+
+    59,Gints Liudvik,,486,4,829,1,1888,5,428,,625,11,1856
+
+    60,Shtark Daniil,,264,2,686,1,972,2,1110,,362,6,994
+
+    61,Kinast Voitsekh,,540,17,522,3,516,7,432,,817,28,427
+
+    62,Kusman Gotlib,,120,,2030,,,1,2399,,86,2,2235
+
+    63,heirs of Kinasta Voitsekha,,240,6,2192,1,576,4,1261,,823,13,292
+
+    64,Gerke Gotfrid,,154,2,1739,,,2,902,,266,5,661
+
+    65,Tselner Mikhail,,264,13,146,2,948,4,1509,,945,20,1412
+
+    66,Shtark Avgust,,300,6,661,1,564,4,2169,,673,12,1967
+
+    67,Tselner Avgust,,636,5,2216,1,1636,5,781,,1059,13,1528
+
+    68,Lipelt Martin,,144,3,1272,1,1712,4,87,,766,9,1581
+
+    69,Gotter Avgust,,240,5,1840,3,1484,2,30,,777,11,1971
+
+    70,Morits Gotfrid,,1416,17,498,6,780,5,1259,,2285,30,1438'
+  names: []
+  numbers: []
+  flagged: []
+- page: 3
+  confidence: high
+  marker_count: 2
+  en: '71,Obst Vilgelm,,,2,1521,,,2,135,,664,4,2320
+
+    72,Reikh Kristiian,,216,8,1239,3,726,3,2030,,1544,16,955
+
+    73,Shvebs Ivan,,648,4,1679,,672,3,864,,567,8,2030
+
+    74,Khaupt Gotlib,,204,3,616,,,2,1566,,545,6,531
+
+    75,Khaupt Gotfrid,,576,8,740,2,352,7,341,,470,18,79
+
+    76,Khaupt Kristiian,,480,5,324,1,24,2,432,,455,8,1715
+
+    77,Gebel Kristiian,,300,5,1444,,1232,2,88,,418,8,1082
+
+    78,Zelchak Foma,,240,2,1602,,888,2,392,,175,5,897
+
+    79,Shchepinskii Petr,,289,2,936,,1462,2,184,,140,5,611
+
+    80,Fogel Vilgelm,,,1,217,,,2,720,,176,3,1113
+
+    81,Sheinfish Vilgelm,,486,15,722,4,996,9,1633,,1422,30,459
+
+    82,Rogatskii Stanislav,,288,6,446,,,3,1153,,532,10,19
+
+    83,Fetter Ivan,,144,,2076,,1109,2,165,,56,3,1150
+
+    84,heirs of Shtirtsenbekera,,208,1,2108,,,2,1680,,88,4,1684
+
+    85,Kinast Kristiian,,,,1648,,814,2,82,,42,3,186
+
+    86,Khaupt Gotfrid,,90,1,2071,,,2,486,,341,4,588
+
+    87,Khaupt Vilgelm,,321,3,2021,,,3,1980,,408,7,2330
+
+    88,German Voitsekh,,184,,1990,,,1,2371,,74,2,2219
+
+    89,heirs of Tarnovskago Mikhaila,,202,,1836,,,1,2097,,39,2,1774
+
+    90,Rogovich Martin,,107,,481,,179,1,2342,,40,2,749
+
+    91,Marylskii Ivan,,189,1,1390,,2383,2,148,,293,4,2003
+
+    92,Village school,,326,7,2014,1,1630,,,,649,9,2219
+
+    93,Common cemetery,,,,,,,,,1,1320,1,1320
+
+    94,Plot of common land,,,,,,,,,,1881,,1881
+
+    95,The village headman''s plot,,,,,1,612,,,,,1,612
+
+    96,Reikh Kristiian,,,..,557,..,539,2,110,,113,2,1319
+
+    ,Unusable land,,,,,,,,,12,741,12,741
+
+    ,In all,17,501,558,1269,106,567,351,1541,34,2194,1068,1272
+
+    ,True to the original:,,,,,,,,,,,,
+
+    ,"Permanent member of the Board, N. [illegible]",,,,,,,,,,,,
+
+    ,Secretary A. [illegible],,,,,,,,,,,,'
+  names: []
+  numbers: []
+  flagged: []

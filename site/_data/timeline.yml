@@ -1607,27 +1607,48 @@
   source_de: "die gedruckte Vorladung, die Karolina Fridenberg zugestellt wurde"
   refs: ["app539680783/1"]
 
-- date: 1868-06-29
+- date: 1868-02-08
   title: The colonists of Łazińsk are given their land
   note: >-
     Under the Russian reform of 1864 the land the peasants farmed became their own, and each
-    village was given a liquidation table. That of the colony of Łazińsk, made at Słupca, lists 91
-    holdings, the school farmstead, the cemetery, the common land and the roads, 1,691 Morgen
-    219 rods in all, and sets the liquidation sum for the former owner at 10,055 roubles 70
-    kopecks. The settlers may graze their cattle in the forest "Studzianki" and gather fallen
-    wood there twice a week, and have no other servitudes. The table survives in Albert
-    Breyer's copy of the 1930s, with his pencil notes of who held each holding in 1875.
+    village was given a liquidation table. The Central Commission for Peasant Affairs confirms
+    that of the Łazińsk colony: 91 farmsteads, the school, the cemetery, the common land and the
+    roads, 1,691 Morgen 219 rods in all, and a liquidation capital of 10,055 roubles 70 kopecks
+    for the former owner. Its copy of 1869 leaves the settlers the right to graze their cattle in
+    the forest "Studzianka" and gather fallen wood there twice a week, and no other servitudes.
+    Albert Breyer copied the table in the 1930s from a copy dated at Słupca on 29 June 1868.
   kind: estate
-  source: "Albert Breyer's copy of the liquidation table of Łazińsk, and of its servitudes"
+  source: "the liquidation table of the Łazińsk colony and its copy of 1869; Breyer's copies"
   title_de: Die Kolonisten von Łazińsk erhalten ihr Land
   note_de: >-
     Nach der russischen Reform von 1864 wurde das Land, das die Bauern bewirtschafteten, ihr
-    Eigentum, und jedes Dorf erhielt eine Liquidationstabelle. Die der Kolonie Łazińsk, in
-    Słupca aufgestellt, verzeichnet 91 Stellen, das Schulgehöft, den Friedhof, das
-    Gemeindeland und die Wege, zusammen 1691 Morgen 219 Ruten, und setzt die
-    Liquidationssumme für den früheren Besitzer auf 10.055 Rubel 70 Kopeken fest. Die Siedler
-    dürfen ihr Vieh im Wald „Studzianki“ weiden und dort zweimal in der Woche Leseholz sammeln;
-    andere Servitute haben sie nicht. Die Tabelle ist in Albert Breyers Abschrift aus den
-    1930er Jahren erhalten, mit seinen Bleistiftnotizen, wer jede Stelle 1875 innehatte.
-  source_de: "Albert Breyers Abschrift der Liquidationstabelle von Łazińsk und ihrer Servitute"
-  refs: ["app539680716/4", "app539680716/5"]
+    Eigentum, und jedes Dorf erhielt eine Liquidationstabelle. Die Zentrale Kommission für
+    Bauernangelegenheiten bestätigt die der Kolonie Łazińsk: 91 Höfe, die Schule, den Friedhof,
+    das Gemeindeland und die Wege, zusammen 1691 Morgen 219 Ruten, und ein Liquidationskapital
+    von 10.055 Rubel 70 Kopeken für den früheren Besitzer. Ihre Abschrift von 1869 lässt den
+    Siedlern das Recht, ihr Vieh im Wald „Studzianka“ zu weiden und dort zweimal in der Woche
+    Leseholz zu sammeln, und keine anderen Servitute. Albert Breyer schrieb die Tabelle in den
+    1930er Jahren nach einer Abschrift ab, datiert Słupca, 29. Juni 1868.
+  source_de: "die Liquidationstabelle der Kolonie Łazińsk und ihre Abschrift von 1869; Breyers Abschriften"
+  refs: ["apl399806603/1", "apl399806603/2", "app539680716/4", "app539680716/5"]
+
+- date: 1894-10-12
+  title: The colonists give up their rights in the forest for land
+  note: >-
+    By a voluntary transaction of 14 June 1892, confirmed in April 1894, the colonists of
+    Łazińsk give up once and for all their pasture and wood-gathering in the forest "Studzianka"
+    to the owner of Trąbczyn, Countess Maria Wielopolska. In return they receive 393 Morgen
+    154 rods of manor land: 4 Morgen to most farmsteads, 6 to seven of them. The governorate
+    board for peasant affairs enters the transaction in the liquidation table.
+  kind: estate
+  source: "the certified copy of the inscription in the liquidation table"
+  title_de: Die Kolonisten geben ihre Rechte im Wald gegen Land auf
+  note_de: >-
+    Durch einen freiwilligen Vertrag vom 14. Juni 1892, im April 1894 bestätigt, geben die
+    Kolonisten von Łazińsk ihre Weide und ihr Holzsammeln im Wald „Studzianka“ ein für allemal
+    an die Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, auf. Dafür erhalten sie 393 Morgen
+    154 Ruten herrschaftliches Land: 4 Morgen die meisten Höfe, 6 Morgen sieben von ihnen. Die
+    Gouvernementsbehörde für Bauernangelegenheiten trägt den Vertrag in die Liquidationstabelle
+    ein.
+  source_de: "die beglaubigte Abschrift der Eintragung in die Liquidationstabelle"
+  refs: ["apl399806603/4"]

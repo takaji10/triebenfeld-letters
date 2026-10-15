@@ -1,0 +1,107 @@
+{
+ "letter_id": "3",
+ "seq_archival": 3,
+ "parent_letter": "",
+ "unit": "apl399806603",
+ "uid": "apl399806603-3",
+ "pad": "apl399806603-003",
+ "permalink": "/documents/apl399806603/3/",
+ "doc_type": "certification",
+ "era": "liquidation",
+ "themes": [],
+ "date_iso": "1884-03",
+ "date_precision": "month",
+ "date_source": "dateline",
+ "date_display": "1884-03",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1884,
+ "month": 3,
+ "day": "",
+ "place": "Kalisz",
+ "sender": "",
+ "recipient": "",
+ "line_start": 275,
+ "line_end": 298,
+ "uncertainty_count": 3,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "ru",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "entered_in",
+   "target": "2",
+   "note": "written into the copy"
+  }
+ ],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 21,
+ "n_pages": 2,
+ "text": "„На основаніи 1302 и 2800 статей Постановленія Учредительнаго Коми-\nтета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ\nПрисутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись\nсія вносится въ сію табель въ удостовѣ-\nреніе того, что крестьяне селе-\nнія Колонія Лазинская, имѣющіе\nправо на сервитутъ топлива въ\nопредѣленномъ табелью видѣ,\nвправѣ получать изъ дворскаго\nлѣса „Студзянка\" по 104 плах-\nты, равняющихся 10½ обыкно-\nвенныхъ пароконныхъ кресть-\nянскихъ фурамъ въ годъ на\nкаждую усадьбу и что тѣ же\nусадьбы вправѣ пасти въ томъ же\nурочищѣ четыреста восемь штукъ\nрогатаго скота.—\"\nГородъ Калишъ Марта 1884 года.\nВице-Губернаторъ [?]\nСовѣтникъ [?]\nза Стар. Дѣлопроизводителя [?]",
+ "text_reading": "„На основаніи 1,302 и 2,800 статей Постановленія Учредительнаго Комитета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись\n\nсія вносится въ сію табель въ удостовѣреніе того, что крестьяне селенія Колонія Лазинская, имѣющіе право на сервитутъ топлива въ опредѣленномъ табелью видѣ, вправѣ получать изъ дворскаго лѣса „Студзянка\" по 104 плахты, равняющихся 10½ обыкновенныхъ пароконныхъ крестьянскихъ фурамъ въ годъ на каждую усадьбу и что тѣ же усадьбы вправѣ пасти въ томъ же урочищѣ четыреста восемь штукъ рогатаго скота.—\" Городъ Калишъ Марта 1884 года. Вице-Губернаторъ [?]\n\nСовѣтникъ [?] за Стар. Дѣлопроизводителя [?]",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0028_a",
+   "line_start": 277,
+   "line_end": 279,
+   "n_lines": 3,
+   "diplomatic": "„На основаніи 1302 и 2800 статей Постановленія Учредительнаго Коми-\nтета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ\nПрисутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись",
+   "transcription": "„На основаніи 1302 и 2800 статей Постановленія Учредительнаго Коми-\nтета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ\nПрисутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись",
+   "reading": "„На основаніи 1,302 и 2,800 статей Постановленія Учредительнаго Комитета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись",
+   "paragraphs": [
+    "„На основаніи 1,302 и 2,800 статей Постановленія Учредительнаго Комитета и по постановленію Калишскаго Губернскаго по крестьянскимъ дѣламъ Присутствія, состоявшимуся 25 Февраля 1882 года опредѣлено: что надпись"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": true,
+   "scan": "APL_39_98_0_6603_0028_a-L3_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3
+  },
+  {
+   "page": 2,
+   "page_id": "0030_a",
+   "line_start": 281,
+   "line_end": 298,
+   "n_lines": 18,
+   "diplomatic": "сія вносится въ сію табель въ удостовѣ-\nреніе того, что крестьяне селе-\nнія Колонія Лазинская, имѣющіе\nправо на сервитутъ топлива въ\nопредѣленномъ табелью видѣ,\nвправѣ получать изъ дворскаго\nлѣса „Студзянка\" по 104 плах-\nты, равняющихся 10½ обыкно-\nвенныхъ пароконныхъ кресть-\nянскихъ фурамъ въ годъ на\nкаждую усадьбу и что тѣ же\nусадьбы вправѣ пасти въ томъ же\nурочищѣ четыреста восемь штукъ\nрогатаго скота.—\"\nГородъ Калишъ Марта 1884 года.\nВице-Губернаторъ [?]\nСовѣтникъ [?]\nза Стар. Дѣлопроизводителя [?]",
+   "transcription": "сія вносится въ сію табель въ удостовѣ-\nреніе того, что крестьяне селе-\nнія Колонія Лазинская, имѣющіе\nправо на сервитутъ топлива въ\nопредѣленномъ табелью видѣ,\nвправѣ получать изъ дворскаго\nлѣса „Студзянка\" по 104 плах-\nты, равняющихся 10½ обыкно-\nвенныхъ пароконныхъ кресть-\nянскихъ фурамъ въ годъ на\nкаждую усадьбу и что тѣ же\nусадьбы вправѣ пасти въ томъ же\nурочищѣ четыреста восемь штукъ\nрогатаго скота.—\"\nГородъ Калишъ Марта 1884 года.\nВице-Губернаторъ [?]\nСовѣтникъ [?]\nза Стар. Дѣлопроизводителя [?]",
+   "reading": "сія вносится въ сію табель въ удостовѣреніе того, что крестьяне селенія Колонія Лазинская, имѣющіе право на сервитутъ топлива въ опредѣленномъ табелью видѣ, вправѣ получать изъ дворскаго лѣса „Студзянка\" по 104 плахты, равняющихся 10½ обыкновенныхъ пароконныхъ крестьянскихъ фурамъ въ годъ на каждую усадьбу и что тѣ же усадьбы вправѣ пасти въ томъ же урочищѣ четыреста восемь штукъ рогатаго скота.—\" Городъ Калишъ Марта 1884 года. Вице-Губернаторъ [?]\n\nСовѣтникъ [?] за Стар. Дѣлопроизводителя [?]",
+   "paragraphs": [
+    "сія вносится въ сію табель въ удостовѣреніе того, что крестьяне селенія Колонія Лазинская, имѣющіе право на сервитутъ топлива въ опредѣленномъ табелью видѣ, вправѣ получать изъ дворскаго лѣса „Студзянка\" по 104 плахты, равняющихся 10½ обыкновенныхъ пароконныхъ крестьянскихъ фурамъ въ годъ на каждую усадьбу и что тѣ же усадьбы вправѣ пасти въ томъ же урочищѣ четыреста восемь штукъ рогатаго скота.—\" Городъ Калишъ Марта 1884 года. Вице-Губернаторъ [?]",
+    "Совѣтникъ [?] за Стар. Дѣлопроизводителя [?]"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "scan": "APL_39_98_0_6603_0030_a-L3_02.jpg",
+   "doc_line_start": 4,
+   "doc_line_end": 21
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Kalisz",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "\"On the basis of articles 1,302 and 2,800 of the Resolution of the Constituent Commi-\nttee, and by the resolution of the Kalisz Governorate Board for Peasant Affairs\nof 25 February 1882, it has been determined that this inscription"
+  },
+  {
+   "page": 2,
+   "en": "be entered in this table in certifi-\ncation that the peasants of the vil-\nlage of the Łazińsk Colony, who have\nthe right to the servitude of fuel in\nthe form set by the table,\nare entitled to receive from the manor\nforest \"Studzianka\" 104 sheet-\nloads, equal to 10½ ordi-\nnary two-horse peas-\nant carts, a year for\neach farmstead, and that the same\nfarmsteads are entitled to graze in the same\ntract four hundred and eight head\nof horned cattle.\"\nTown of Kalisz, March 1884.\nVice-Governor [illegible]\nCouncillor [illegible]\nfor the Senior Clerk [illegible]"
+  }
+ ],
+ "text_english": "\"On the basis of articles 1,302 and 2,800 of the Resolution of the Constituent Commi-\nttee, and by the resolution of the Kalisz Governorate Board for Peasant Affairs\nof 25 February 1882, it has been determined that this inscription\n\nbe entered in this table in certifi-\ncation that the peasants of the vil-\nlage of the Łazińsk Colony, who have\nthe right to the servitude of fuel in\nthe form set by the table,\nare entitled to receive from the manor\nforest \"Studzianka\" 104 sheet-\nloads, equal to 10½ ordi-\nnary two-horse peas-\nant carts, a year for\neach farmstead, and that the same\nfarmsteads are entitled to graze in the same\ntract four hundred and eight head\nof horned cattle.\"\nTown of Kalisz, March 1884.\nVice-Governor [illegible]\nCouncillor [illegible]\nfor the Senior Clerk [illegible]",
+ "summary_en": "Inscription in the copy of the liquidation table, Kalisz, March 1884, signed by the vice-governor, a councillor and for the senior clerk, with the stamp of the Kalisz Governorate Government. Under articles 1302 and 2800 of the resolutions of the Constituent Committee and the resolution of the Kalisz Governorate Board for Peasant Affairs of 25 February 1882, it certifies that the peasants of the Łazińsk colony who have the right to the servitude of fuel may receive from the manor forest \"Studzianka\" 104 cloth-loads a year for each farmstead, equal to 10½ ordinary two-horse peasant carts, and that the same farmsteads may graze 408 head of horned cattle in the same tract.",
+ "summary_de": "Eintragung in die Abschrift der Liquidationstabelle, Kalisch, März 1884, unterschrieben vom Vizegouverneur, einem Rat und für den älteren Kanzleibeamten, mit dem Stempel der Kalischer Gouvernementsregierung. Nach den Artikeln 1302 und 2800 der Beschlüsse des Konstituierenden Komitees und dem Beschluss der Kalischer Gouvernementsbehörde für Bauernangelegenheiten vom 25. Februar 1882 bescheinigt sie, dass die Bauern der Kolonie Łazińsk mit dem Recht auf die Brennholzservitut aus dem herrschaftlichen Wald „Studzianka“ jährlich je Hof 104 Tuchladungen erhalten dürfen, gleich 10½ gewöhnlichen zweispännigen Bauernfuhren, und dass dieselben Höfe im selben Waldstück 408 Stück Hornvieh weiden dürfen.",
+ "reading": {}
+}

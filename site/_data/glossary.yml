@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 50
+  docs: 53
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -188,7 +188,7 @@
   initial_en: "R"
   sort_de: "ruthe"
   initial_de: "R"
-  docs: 19
+  docs: 22
 - id: "centner"
   kind: "money"
   lang: "de"
@@ -473,7 +473,7 @@
   initial_en: "H"
   sort_de: "haulander (oledrzy)"
   initial_de: "H"
-  docs: 46
+  docs: 48
 - id: "schulze"
   kind: "land"
   lang: "de"
@@ -492,7 +492,7 @@
   initial_en: "V"
   sort_de: "schulze"
   initial_de: "S"
-  docs: 12
+  docs: 14
 - id: "donation"
   kind: "land"
   lang: "de_la"
@@ -1385,7 +1385,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 97
+  docs: 100
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1442,7 +1442,7 @@
   initial_en: "G"
   sort_de: "gouvernement"
   initial_de: "G"
-  docs: 28
+  docs: 33
 - id: "tribunal"
   kind: "law"
   lang: "de_fr"
@@ -1613,7 +1613,7 @@
   initial_en: "R"
   sort_de: "protocoll"
   initial_de: "P"
-  docs: 40
+  docs: 41
 - id: "ex-officio"
   kind: "law"
   lang: "la"

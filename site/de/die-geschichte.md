@@ -100,7 +100,7 @@ in Berlin.
 ## Das Gut unter Włodzimierz Miączyński
 
 **Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut von ihrem Tod 1851 bis zu seinem eigenen 1879 besaß.
-[8 Dokumente, 1858 bis 1870]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+[2 Dokumente, 1858 und 1860]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 Die Kolonisten des Gutes Trąbczyn, in den beiden Olęderkolonien, die damals Staro-Łazińska und
 Nowo-Łazińska hießen, verklagten den Grafen 1859 wegen ihrer Weide- und Holzrechte in seinem
@@ -109,15 +109,33 @@ der Fürst zu Hohenlohe-Ingelfingen 1805 mit vierzehn Kolonisten geschlossen hat
 nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }})).
 
 1858 schuldete die Kolonie Emilienheim Rauchfangsteuer und Kasernengeld für 29 Wirte
-([die Steuerliste]({{ '/documents/app539680716/1/' | relative_url }})). Nach der russischen Reform
-von 1864 erhielten die Bauern das Land, das sie bewirtschafteten. Die Liquidationstabelle der
-Kolonie Łazińsk vom 29. Juni 1868 verzeichnet 91 Stellen, zusammen 1691 Morgen, und eine
-Liquidationssumme von 10.055 Rubel für den früheren Besitzer
-([die Tabelle]({{ '/documents/app539680716/4/' | relative_url }})); den Siedlern lässt sie das Recht,
-ihr Vieh im Wald „Studzianki“ zu weiden und dort Holz zu lesen, und kein anderes
-([die Servitute]({{ '/documents/app539680716/5/' | relative_url }})). Emilienheim und Orliny hatten
-eigene Tabellen. Alle sind in Abschriften erhalten, die der Historiker Albert Breyer in den
-1930er Jahren anfertigte ([sein Heft]({{ '/de/quellen/app539680716/' | relative_url }})).
+([die Steuerliste]({{ '/documents/app539680716/1/' | relative_url }})).
+
+---
+
+## Die Liquidation: Bauernland und Servitute
+
+**Seit der russischen Reform von 1864, unter Włodzimierz Miączyński und den Besitzern nach ihm.
+[12 Dokumente, 1868 bis 1897]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+
+Die russische Reform von 1864 machte die Bauern zu Eigentümern des Landes, das sie
+bewirtschafteten. Die Liquidationstabelle der Kolonie Łazińsk, am 8. Februar 1868 von der
+Zentralen Kommission für Bauernangelegenheiten bestätigt, verzeichnet ihre 91 Höfe, die Schule,
+den Friedhof und das Gemeindeland, zusammen 1691 Morgen, und setzt ein Liquidationskapital von
+10.055 Rubel 70 Kopeken für den früheren Besitzer fest
+([die Tabelle]({{ '/documents/apl399806603/1/' | relative_url }})). Ihre Abschrift von 1869 lässt
+den Siedlern das Recht, ihr Vieh im Wald „Studzianka“ zu weiden und dort zweimal in der Woche
+Leseholz zu sammeln, und kein anderes
+([die Abschrift]({{ '/documents/apl399806603/2/' | relative_url }})).
+
+1884 wurde das Brennholz jedes Hofes aus dem Wald auf 104 Tuchladungen im Jahr festgesetzt
+([die Eintragung]({{ '/documents/apl399806603/3/' | relative_url }})). 1892 gaben die Kolonisten
+ihre Rechte im Wald an die Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, gegen 393 Morgen
+herrschaftliches Land auf ([die Eintragung von 1894]({{ '/documents/apl399806603/4/' | relative_url }})),
+und eine Vermessung von 1896 maß den ganzen Anteil und das Land jedes Hofes
+([das Verzeichnis]({{ '/documents/apl399806603/6/' | relative_url }})). Der Historiker Albert Breyer
+schrieb die Tabelle von Łazińsk und die von Emilienheim und Orliny in den 1930er Jahren ab
+([sein Heft]({{ '/de/quellen/app539680716/' | relative_url }})).
 
 ---
 

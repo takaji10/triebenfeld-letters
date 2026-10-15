@@ -420,6 +420,30 @@
   ]
  },
  {
+  "place": "Kalisz",
+  "count": 18,
+  "documents": [
+   "app53150kaliszgr414-1",
+   "app53150kaliszgr425-1",
+   "app53150kaliszgr424-1",
+   "oe1bu9454-145",
+   "oe1bu9454-169",
+   "oe1bu9454-162",
+   "oe1bu9454-163",
+   "oe1bu9454-164",
+   "oe1bu9454-174",
+   "oe1bu9454-207",
+   "oe1bu9454-210",
+   "oe1bu9454-214",
+   "oe1bu9454-72c",
+   "oe1bu9454-237",
+   "apl399806603-2",
+   "apl399806603-3",
+   "apl399806603-4",
+   "apl399806603-5"
+  ]
+ },
+ {
   "place": "Kalisch",
   "count": 17,
   "documents": [
@@ -440,26 +464,6 @@
    "iharep162nr295-3",
    "app539680801-2",
    "iiihamdaiiinr12366-6"
-  ]
- },
- {
-  "place": "Kalisz",
-  "count": 14,
-  "documents": [
-   "app53150kaliszgr414-1",
-   "app53150kaliszgr425-1",
-   "app53150kaliszgr424-1",
-   "oe1bu9454-145",
-   "oe1bu9454-169",
-   "oe1bu9454-162",
-   "oe1bu9454-163",
-   "oe1bu9454-164",
-   "oe1bu9454-174",
-   "oe1bu9454-207",
-   "oe1bu9454-210",
-   "oe1bu9454-214",
-   "oe1bu9454-72c",
-   "oe1bu9454-237"
   ]
  },
  {
@@ -892,7 +896,7 @@
  },
  {
   "place": "Unknown",
-  "count": 40,
+  "count": 42,
   "documents": [
    "app53640kalisztab21-1",
    "oe1bu14525-13",
@@ -917,8 +921,10 @@
    "oe1bu9454-272",
    "oe1bu9454-285",
    "app539680716-5",
+   "apl399806603-1",
    "app539680716-2",
    "app539680716-3",
+   "apl399806603-6",
    "app539680716-9",
    "app539680716-6",
    "app539680716-7",

@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 583 Dokumente auf 1.951 Handschriftenseiten aus den Jahren 1589 bis
+Die Edition enthält 589 Dokumente auf 1.974 Handschriftenseiten aus den Jahren 1589 bis
 1936. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
 zwischen Trąbczyn und dem Nachbargut Łukom, als Trąbczyn der Familie Prusimski gehörte: Eine
 Kommission entschied 1775 über die Grenze, und das Krontribunal legte sie 1782 endgültig fest. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
@@ -37,7 +37,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus einundvierzig Beständen in vier Archiven:
+Die Dokumente stammen aus zweiundvierzig Beständen in fünf Archiven:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -57,7 +57,10 @@ Die Dokumente stammen aus einundvierzig Beständen in vier Archiven:
   nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten;
 - dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
   konfiszierten Güter an Prusimskis Tochter; und sechs Seiten einer preußischen Tabelle der
-  Dörfer um Konin, um 1797.
+  Dörfer um Konin, um 1797;
+- dem **Staatsarchiv Łódź**: der Liquidationstabelle von 1868, nach der die Kolonisten von
+  Łazińsk ihr Land erhielten, ihrer Abschrift von 1869 und den Eintragungen bis 1901 über
+  ihre Rechte im herrschaftlichen Wald, deren Tausch gegen Land und die Vermessung von 1896.
 
 Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit seiner
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
@@ -136,11 +139,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 867 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 891 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 578 von 583. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 584 von 589. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

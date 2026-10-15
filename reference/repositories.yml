@@ -47,3 +47,12 @@ repositories:
     country_en: "Poland"
     country_de: "Polen"
     url: "https://agad.gov.pl/"
+
+  apl-lodz:
+    name_en: "State Archive in Łódź"
+    name_de: "Staatsarchiv Łódź"
+    short: "APŁ"
+    city: "Łódź"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: "https://www.lodz.ap.gov.pl/"

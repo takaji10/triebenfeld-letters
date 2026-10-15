@@ -671,6 +671,37 @@ Where the rest is:
   holdings' scripts); `courtbook.correct` and `write_pages` do not know a
   cover and would drop it.
 
+- **Page ids must read `NNNN_[a-h]`** (`match_scans.py`): a capture
+  number of four digits and a side. "000" or "013_014" do not parse, the
+  scan mapping finds no images and the build stops in `write_inventory`
+  (APŁ 39/98/0/-/6603, 2026-10-15). An archive's scan 001 is page `0001_a`.
+- **Two scans of one opening, joined into one page** (the editor: where
+  "the text runs across both pages, they should be displayed together").
+  Each archive scan of a page in a bound file shows a strip of the facing
+  page; cut each at its page edge with the green lines (`EDGES`,
+  `courtbook.placed`), then set the halves side by side as the left scan's
+  page and move the right half to `_not_staged` (6603's `holding.py`,
+  `join()`). Transcribe a line that runs across as one line.
+- **A table with totals checks its own reading.** Add the column to its
+  total before anything else: on 6603 it confirmed every figure of 97 rows
+  and showed which of Breyer's copied figures in 53/968/0/-/716 were wrong.
+  Where every row has parts and a total, add each row across and each
+  column down: a misread digit then shows in both its row and its column,
+  and a clerk's own slip shows in its row only, or against the written
+  totals; look at the scan before deciding which it is, and transcribe the
+  clerk's figure as written.
+- **A table's text rows (a title page, a section heading, a confirmation
+  across the foot) are rows with only the name cell**; every one needs an
+  entry in the English `CELL`, or it is transliterated as a name.
+- **A heading row of units under the column groups** ("Десятины и сажени"
+  under six groups) renders under the first group only; put it with the
+  group heading above and say so in the conventions.
+- **New relation kinds need labels**: `rel_<kind>` in both languages of
+  `site/_data/i18n.yml` (6603 added `copies` and `entered_in`).
+- **A new archive** goes into `reference/repositories.yml` and the credits
+  in `site/_data/rights.yml`; the Central Archives of Historical Records
+  had been left out of the credits since its first holding (found
+  2026-10-15).
 - **A copy takes the date and era of what it copies** (the editor,
   2026-10-14: "a copy of an 1828 document from 1939 should not belong to
   the 20th century"). The first build of 53/968/0/-/716 put the whole

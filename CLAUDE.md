@@ -110,6 +110,14 @@ so check them.
 
 ## Where things stand (2026-10-14)
 
+- **APŁ 39/98/0/-/6603** (slug `apl399806603`, added 2026-10-15, NOT
+  published), the first holding from the State Archive in Łódź: the
+  liquidation table of the Łazińsk colony (1868), its copy (1869) and the
+  entries to 1901, six documents, three of them tables; openings joined into
+  one page by cut edges (`EDGES` in its `holding.py`). It and Breyer's copies
+  of the tables in -/716 stand in the new era `liquidation` (editor,
+  working name). Read `units/apl399806603/notes.md` first. With -/716 the
+  edition's figures count it: 589 documents, 42 holdings, 891 marks.
 - **One holding is built and committed but NOT published** (added
   2026-10-14): **APP 53/968/0/-/716** (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet

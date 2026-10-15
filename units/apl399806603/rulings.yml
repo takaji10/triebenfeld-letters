@@ -1,0 +1,86 @@
+# Editorial rulings for 39/98/0/-/6603 (APŁ).
+#
+# Six documents, the editor's choice (2026-10-15): the table, its copy of
+# 1869 (labelled the copy), the inscription of 1884, the certified copies of
+# the inscriptions of 1894 and 1897, and the statement after the survey of
+# 1896 (intake/holding.py lists them). A copy takes the date of what it
+# copies (the editor, 2026-10-14).
+
+places:
+  overrides:
+    # the table was approved by the Central Commission, which the paper does not place
+    "1": ""
+    "2": Kalisz
+    "3": Kalisz
+    "4": Kalisz
+    "5": Kalisz
+    "6": ""
+
+dates:
+  read:
+    "1": [1868, 2, 8, "day"]      # 1868 года 8 Февраля ... Коммиссія постановила
+    "2": [1869, 9, 10, "day"]     # Г. Калишъ 10 Сентября 1869 г.
+    "3": [1884, 3, null, "month"] # Городъ Калишъ Марта 1884 года (the day left blank)
+    "4": [1894, 10, 12, "day"]    # the resolution of 12 Октября 1894 г. that the copy (Калишъ 10 Іюня 1900) gives
+    "5": [1897, 11, 29, "day"]    # the resolution of 29 ноября 1897 года that the copy (Калишъ 14 Іюля 1901) gives
+  supplied: {}
+  twin: {}
+  # [year, month, day, precision, basis]
+  inferred:
+    "6": [1897, null, null, "year", "The statement of each farmstead's land after the survey of 1896, which the inscription of 29 November 1897 put into the table; certified by the same permanent member and secretary as the copies of 1900 and 1901."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": register
+    "2": certified_copy
+    "3": certification
+    "4": certified_copy
+    "5": certified_copy
+    "6": register
+
+  language:
+    "1": "ru"
+    "2": "ru"
+    "3": "ru"
+    "4": "ru"
+    "5": "ru"
+    "6": "ru"
+
+  tables: ["1", "2", "6"]
+
+  duplicate_of: {}
+  split_note: {}
+  relations:
+    "2":
+      - kind: copies
+        target: "1"
+        note: "the copy made at Kalisz in 1869 for the Governorate Government"
+    "3":
+      - kind: entered_in
+        target: "2"
+        note: "written into the copy"
+    "4":
+      - kind: entered_in
+        target: "1"
+        note: "a certified copy of an inscription in the liquidation table"
+    "5":
+      - kind: entered_in
+        target: "1"
+        note: "a certified copy of an inscription in the liquidation table"
+    "6":
+      - kind: entered_in
+        target: "1"
+        note: "the figures for each farmstead that the inscription of 1897 put into the table"
+
+  estates:
+    "1": [trabczyn]
+    "2": [trabczyn]
+    "3": [trabczyn]
+    "4": [trabczyn]
+    "5": [trabczyn]
+    "6": [trabczyn]
+
+damage:
+  letters: []

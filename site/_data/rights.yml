@@ -33,3 +33,13 @@ archives:
     name_de: "Staatsarchiv Posen (Archiwum Państwowe w Poznaniu)"
     url: "https://poznan.ap.gov.pl/"
     credit: "Archiwum Państwowe w Poznaniu"
+  - slug: agad-warszawa
+    name_en: "Central Archives of Historical Records, Warsaw (Archiwum Główne Akt Dawnych)"
+    name_de: "Hauptarchiv Alter Akten, Warschau (Archiwum Główne Akt Dawnych)"
+    url: "https://agad.gov.pl/"
+    credit: "Archiwum Główne Akt Dawnych w Warszawie"
+  - slug: apl-lodz
+    name_en: "State Archive in Łódź (Archiwum Państwowe w Łodzi)"
+    name_de: "Staatsarchiv Łódź (Archiwum Państwowe w Łodzi)"
+    url: "https://www.lodz.ap.gov.pl/"
+    credit: "Archiwum Państwowe w Łodzi"

@@ -469,3 +469,16 @@ copies. Details: `units/app539680716/notes.md`.
       Włodzimierz; two documents were divided so that copies and Breyer's
       own notes stand apart (thirteen documents now).
 - [ ] Your word to publish.
+
+## 15. APŁ 39/98/0/-/6603: the liquidation table of Łazińsk (added 2026-10-15, not published)
+
+The scans you supplied from the State Archive in Łódź: the table of 1868,
+its copy of 1869 and the entries to 1901, six documents, read from the
+scans, translated, summarised and claim-checked; in the new era of the
+liquidation. Details: `units/apl399806603/notes.md`.
+
+- [ ] Look at the page edges where two scans are joined into one page:
+      `review/apl399806603/folds/index.html` (the green lines).
+- [ ] The doubtful readings (24), on a spot sheet when you want them.
+- [ ] A name for the era (`liquidation` is a working name).
+- [ ] Your word to publish.

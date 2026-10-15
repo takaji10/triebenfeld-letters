@@ -259,6 +259,13 @@ written until there is a witness or a better scan.
   asked: the doubtful names of the Russian tables and Breyer's pencil of
   1875. Open: the folds (placed in session); the heading of the Orlin list
   (four lines of Kurrent, partly read).
+- **APŁ 39/98/0/-/6603** (the liquidation table of Łazińsk, added
+  2026-10-15, not published): read from the scans by Claude, 24 marks of
+  doubt, not yet put to the editor; the page edges of the four joined
+  openings placed in session. In the statement of 1896 four rows do not
+  add up as written (notes).
+- **The liquidation era** (`liquidation`, 2026-10-15) carries a working
+  name until the editor names it.
 - **Two eras without names** (editor, 2026-10-14): the era after Michalina
   Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
   53/968/0/-/783), and the twentieth century of the estate

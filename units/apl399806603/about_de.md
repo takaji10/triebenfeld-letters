@@ -1,0 +1,21 @@
+Die Akte der Liquidationstabelle des Dorfes „Колонія Лазинская“, der Kolonie Łazińsk in der Gemeinde Trąbczyn, im Staatsarchiv Łódź (Archiwum Państwowe w Łodzi) unter den Akten der Kalischer Gouvernementsbehörde für Bauernangelegenheiten (Urząd Gubernialny Kaliski do Spraw Włościańskich). Sie enthält die 1868 bestätigte Tabelle, die 1869 für die Gouvernementsregierung angefertigte Abschrift und die Eintragungen und das Verzeichnis, die sie später bis 1901 änderten. Albert Breyer schrieb dieselbe Tabelle in den 1930er Jahren in sein Notizheft ab, nach einer Abschrift, datiert Słupca, 29. Juni 1868, [[unit:app539680716]]. <!-- context -->
+
+### Historischer Hintergrund
+
+Die russischen Ukase vom 19. Februar (2. März) 1864 machten die Bauern des Königreichs Polen zu Eigentümern des Landes, das sie bewirtschafteten. Für jedes Dorf verzeichnete eine Liquidationstabelle die Höfe, ihr Land, die Abgaben, die die Regierung entschädigte, und das dem früheren Besitzer geschuldete Kapital; die Bauern behielten ihre Servitute, Rechte auf Weide und Holz im herrschaftlichen Wald, die später abgelöst oder gegen Land getauscht wurden. Die Kalischer Kommission für Bauernangelegenheiten, ab 1870 die Gouvernementsbehörde, stellte diese Tabellen auf, verwahrte sie und trug spätere Änderungen ein. Die Kolonie Łazińsk war eine der beiden Olęderkolonien auf dem Gut Trąbczyn, deren Siedler 1859 und 1860 mit Graf Włodzimierz Miączyński um denselben Wald stritten, [[unit:app539680783]]. <!-- context -->
+
+### Inhalt
+
+Die Tabelle verzeichnet 91 Höfe der Kolonie, jeden mit seinem Land in Morgen und Ruten, dann das Gehöft der Dorfschule, den Gemeindefriedhof, ein Stück Gemeindeland, den Anteil des Schulzen, einen weiteren Hof und das Land unter den Wegen: zusammen 1691 Morgen 219 Ruten, davon 9 Morgen 224 Ruten Unland. Die Abgaben, die die Regierung entschädigt, betragen 603 Rubel 34⅕ Kopeken. Am 8. Februar 1868 bestätigte die Zentrale Kommission für Bauernangelegenheiten die Tabelle und setzte das Liquidationskapital für den früheren Besitzer auf 10.055 Rubel 70 Kopeken fest [[1]].
+
+Die Abschrift, in Kalisch am 10. September 1869 zur Aufbewahrung in der Gouvernementsregierung angefertigt, hat dieselben Einträge in einer anderen Hand. Neben den ersten Einträgen nennt sie die Servitute: Alle Bauern der Łazińsker Holländer dürfen ihr vorhandenes Vieh im Wald „Studzianka“ weiden und dort zweimal in der Woche Leseholz sammeln, andere Rechte haben sie nicht [[2]].
+
+Im März 1884 setzte eine Eintragung in die Abschrift, nach einem Beschluss der Gouvernementsbehörde vom 25. Februar 1882, das Brennholz jedes Hofes aus dem Wald auf jährlich 104 Tuchladungen fest, gleich 10½ zweispännigen Fuhren, und erlaubte den Höfen, dort 408 Stück Hornvieh zu weiden [[3]]. Durch einen freiwilligen Vertrag vom 14. Juni 1892, festgehalten in einer Eintragung vom 12. Oktober 1894, gaben die Bauern ihre Weide- und Holzrechte im Wald an die Besitzerin von Trąbczyn, Gräfin Maria Wielopolska, auf und erhielten 393 Morgen 154 Ruten herrschaftliches Land [[4]]. Eine Vermessung von 1896, festgehalten in einer Eintragung vom 29. November 1897, ergab für den ganzen Anteil 1068 Desjatinen 1272 Saschen [[5]], und ein Verzeichnis nennt danach das Land jedes Hofes, unter Gebäuden und Gärten, Acker, Wiese, Weide und Unland [[6]].
+
+### Form und Sprache
+
+Russisch, in der Rechtschreibung vor 1918. Die Tabelle ist ein gedrucktes, von Hand ausgefülltes Formular mit Spalten für das Land jedes Hofes und für die Abgaben; die Abschrift ist eine andere Hand auf demselben Formular; die Eintragungen von 1894 und 1897 sind beglaubigte Abschriften auf eigenen Blättern. Die Tabellen sind als Tabellen wiedergegeben. Wo die Schrift über eine Doppelseite läuft, sind beide Seiten als eine gezeigt. <!-- context -->
+
+### Verwandte Bestände
+
+Albert Breyers Notizheft mit seinen Abschriften dieser Tabelle und der Servitute sowie der Tabellen von Emilienheim und Orliny: [[unit:app539680716]]. Die Vorladung von 1860 im Streit der Kolonisten um den Wald: [[unit:app539680783]]. Breyers Notizhefte von 1936 über Łazińsk: [[unit:app539680669]]. <!-- context -->

@@ -91,7 +91,7 @@ Archives in Berlin.
 ## The estate under Włodzimierz Miączyński
 
 **Count Włodzimierz Miączyński, Michalina's son, who held the estate from her death in 1851 to his own in 1879.
-[8 documents, 1858 to 1870]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
+[2 documents, 1858 and 1860]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 The colonists on the Trąbczyn estate, in the two Olęder colonies then called Staro-Łazińska
 and Nowo-Łazińska, sued the Count in 1859 over their rights of pasture and wood in his forest.
@@ -100,14 +100,32 @@ Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 ([the summons of 1860]({{ '/documents/app539680783/1/' | relative_url }})).
 
 In 1858 the colony of Emilienheim owed hearth tax and barracks money for 29 householders
-([the tax list]({{ '/documents/app539680716/1/' | relative_url }})). After the Russian reform of
-1864 the peasants were given the land they farmed. The liquidation table of the colony of
-Łazińsk, of 29 June 1868, lists 91 holdings, 1,691 Morgen in all, with a liquidation sum of
-10,055 roubles for the former owner ([the table]({{ '/documents/app539680716/4/' | relative_url }})),
-and leaves the settlers the right to graze their cattle and gather wood in the forest
-"Studzianki", and no other ([the servitudes]({{ '/documents/app539680716/5/' | relative_url }})).
-Emilienheim and Orliny had tables of their own. All of them survive in copies the historian
-Albert Breyer made in the 1930s ([his notebook]({{ '/sources/app539680716/' | relative_url }})).
+([the tax list]({{ '/documents/app539680716/1/' | relative_url }})).
+
+---
+
+## The liquidation: the peasants' land and the servitudes
+
+**From the Russian reform of 1864, under Włodzimierz Miączyński and the owners after him.
+[12 documents, 1868 to 1897]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
+
+The Russian reform of 1864 made the peasants owners of the land they farmed. The liquidation
+table of the Łazińsk colony, confirmed by the Central Commission for Peasant Affairs on
+8 February 1868, lists its 91 farmsteads, the school, the cemetery and the common land, 1,691
+Morgen in all, and fixes a liquidation capital of 10,055 roubles 70 kopecks for the former owner
+([the table]({{ '/documents/apl399806603/1/' | relative_url }})). Its copy of 1869 leaves the
+settlers the right to graze their cattle in the forest "Studzianka" and to gather fallen wood
+there twice a week, and no other
+([the copy]({{ '/documents/apl399806603/2/' | relative_url }})).
+
+In 1884 the fuel each farmstead might take from the forest was fixed at 104 cloth-loads a year
+([the inscription]({{ '/documents/apl399806603/3/' | relative_url }})). In 1892 the colonists gave
+up their rights in the forest to the owner of Trąbczyn, Countess Maria Wielopolska, for 393 Morgen
+of manor land ([the inscription of 1894]({{ '/documents/apl399806603/4/' | relative_url }})), and
+a survey of 1896 measured the whole allotment and each farmstead's land
+([the statement]({{ '/documents/apl399806603/6/' | relative_url }})). The historian Albert Breyer
+copied the table of Łazińsk, and those of Emilienheim and Orliny, in the 1930s
+([his notebook]({{ '/sources/app539680716/' | relative_url }})).
 
 ---
 

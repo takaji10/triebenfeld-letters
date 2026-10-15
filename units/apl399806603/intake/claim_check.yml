@@ -1,0 +1,71 @@
+# The claim check of the German summaries of APŁ 39/98/0/-/6603, made in
+# session on 2026-10-15 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. Not the paid run. Pages
+# are the document's own (1 the first page of the document).
+#
+# Result: 46 statements, 44 supported as first written, two corrected. The
+# first draft of 6 said "für jeden der 96 Höfe": entries 1 to 96 are 91
+# farmsteads, the school, the cemetery, the common land, the village head's
+# plot and one more farmstead; corrected. Of 2 it said the copy was signed by
+# the chairman: the word is read with doubt ([Предсѣдатель?]); weakened to
+# "two signatures". Nothing in the summaries rests on a word marked as
+# doubtful.
+
+apl399806603-001:
+- {claim: "Russische Liquidationstabelle der Kolonie Łazińsk", verdict: supported, where: "p. 1: ЛИКВИДАЦІОННАЯ ТАБЕЛЬ селенія Колоніи Лазинской"}
+- {claim: "Gouvernement Kalisch, Kreis Słupca, Bezirk Pyzdry, Gemeinde Trąbczyn", verdict: supported, where: "p. 1: Калишской губерніи, Слупецкаго уѣзда, Пыздрскаго округа въ гминѣ Тромбчинъ"}
+- {claim: "aus dem Amtsbereich der Kalischer Kommission für Bauernangelegenheiten", verdict: supported, where: "p. 1: Вѣдомства Калишской Коммиссіи по крестьянскимъ дѣламъ"}
+- {claim: "Höfe, die nach den Ukasen vom 19. Februar (2. März) 1864 in das volle Eigentum der Bauern übergingen", verdict: supported, where: "p. 2, column head: Усадьбы, поступившія въ полную собственность крестьянъ на основаніи Высочайшихъ Указовъ 19 Февраля (2 Марта) 1864 года"}
+- {claim: "die erste Abteilung zählt 91 Höfe mit ihrer Fläche in Morgen und Ruten", verdict: supported, where: "pp. 2-7: nos. 1 to 91; columns М., П."}
+- {claim: "die zweite: Schule, Friedhof, Gemeindeland, Anteil des Schulzen, ein Hof von einem Morgen, Land unter den Wegen", verdict: supported, where: "pp. 7-8: nos. 92 to 97; no. 96 Рейхъ Кристіянъ 1 .."}
+- {claim: "zusammen 1691 Morgen 219 Ruten, davon 9 Morgen 224 Ruten Unland", verdict: supported, where: "p. 8: Итого 9 224 | 1691 219"}
+- {claim: "die Abgaben, die die Regierung entschädigt, 603 Rubel 34⅕ Kopeken", verdict: supported, where: "p. 2 column head (Размѣръ повинности, подлежащій вознагражденію отъ Правительства); p. 8: 603 34 ⅕"}
+- {claim: "am 8. Februar 1868 bestätigte die Zentrale Kommission beim Konstituierenden Komitee die durchgesehene und berichtigte Tabelle", verdict: supported, where: "p. 8: 1868 года 8 Февраля ... Центральная по крестьянскимъ дѣламъ Коммиссія постановила: сію разсмотрѣнную и исправленную ликвидаціонную табель ... утвердить"}
+- {claim: "Liquidationskapital für den früheren Besitzer 10.055 Rubel 70 Kopeken", verdict: supported, where: "p. 8: въ пользу бывшаго владѣльца селенія ликвидаціонный капиталъ ... (10055 руб. 70 коп.)"}
+
+apl399806603-002:
+- {claim: "Abschrift derselben Liquidationstabelle, nach Artikel 56 des Ukases bei der Kalischer Kommission zur Aufbewahrung in der Gouvernementsregierung angefertigt, Kalisch, 10. September 1869", verdict: supported, where: "p. 8: На основаніи 56 ст. Указа ... сія Копія ... списана въ Калишской Коммиссіи ... для храненія въ Губернскомъ Правленіи. Г. Калишъ 10 Сентября 1869 г."}
+- {claim: "mit zwei Unterschriften", verdict: supported, where: "p. 8: [Предсѣдатель?]: [?] / Секретарь: [Бергъ?]. First written 'vom Vorsitzenden und vom Sekretär unterschrieben': the first word is doubtful; weakened"}
+- {claim: "dieselben Einträge, Flächen und Summen in einer anderen Hand und Schreibung", verdict: supported, where: "pp. 2-7 against document 1; totals p. 7: 9 224 | 1691 219 | 603 34 ⅕"}
+- {claim: "bei Nr. 65 36 Morgen 234 Ruten, in der Tabelle 254", verdict: supported, where: "p. 5: 65 ... 36 234; document 1, p. 5: 36 254"}
+- {claim: "bei Nr. 48 nur Мурицъ", verdict: supported, where: "p. 4: 48 Мурицъ 36 135"}
+- {claim: "alle Bauern der Łazińsker Holländer dürfen ihr ganzes vorhandenes Vieh im Wald Studzianka weiden", verdict: supported, where: "p. 2: Всѣ крестьяне сел. Лазинскіе Голендры имѣютъ право: 1) Пасти весь свой наличный скотъ въ лѣсу „Студзіанка“"}
+- {claim: "zweimal in der Woche Leseholz aus liegendem Holz und trockenen Ästen sammeln und in Tüchern forttragen", verdict: supported, where: "p. 2: 2) Собирать ... два раза въ недѣлю сбиранину состоящую изъ лежанины и сухихъ вѣтвей. Собранное уносить плахтами"}
+- {claim: "andere Rechte auf Servitute haben sie nicht", verdict: supported, where: "p. 2: Болѣе никакихъ правъ на сервитуты крестьяне не имѣютъ"}
+- {claim: "die Bestätigung vom 8. Februar 1868 mit dem Liquidationskapital ist abgeschrieben", verdict: supported, where: "pp. 7-8"}
+
+apl399806603-003:
+- {claim: "Eintragung in die Abschrift der Liquidationstabelle, Kalisch, März 1884", verdict: supported, where: "p. 1 (the end of document 2's last page): надпись сія вносится въ сію табель; p. 2: Городъ Калишъ Марта 1884 года"}
+- {claim: "unterschrieben vom Vizegouverneur, einem Rat und für den älteren Kanzleibeamten", verdict: supported, where: "p. 2: Вице-Губернаторъ [?] / Совѣтникъ [?] / за Стар. Дѣлопроизводителя [?]"}
+- {claim: "mit dem Stempel der Kalischer Gouvernementsregierung", verdict: supported, where: "the stamp on p. 2 reads ПЕЧАТЬ КАЛИШСКАГО ГУБ. ПРАВЛЕНІЯ (on the scan, not transcribed)"}
+- {claim: "nach den Artikeln 1302 und 2800 der Beschlüsse des Konstituierenden Komitees und dem Beschluss der Gouvernementsbehörde vom 25. Februar 1882", verdict: supported, where: "p. 1"}
+- {claim: "die Bauern mit dem Recht auf die Brennholzservitut dürfen aus dem Wald Studzianka jährlich je Hof 104 Tuchladungen erhalten, gleich 10½ zweispännigen Bauernfuhren", verdict: supported, where: "p. 2: по 104 плахты, равняющихся 10½ обыкновенныхъ пароконныхъ крестьянскихъ фурамъ въ годъ на каждую усадьбу"}
+- {claim: "dieselben Höfe dürfen im selben Waldstück 408 Stück Hornvieh weiden", verdict: supported, where: "p. 2: тѣ же усадьбы вправѣ пасти въ томъ же урочищѣ четыреста восемь штукъ рогатаго скота"}
+
+apl399806603-004:
+- {claim: "beglaubigte Abschrift, Kalisch, 10. Juni 1900, der Eintragung nach dem Beschluss vom 12. Oktober 1894", verdict: supported, where: "p. 1: Копія надписи ... отъ 12 Октября 1894 г.; p. 2: Г. Калишъ 10 Іюня 1900 года ... Съ подлиннымъ вѣрно"}
+- {claim: "freiwilliger Vertrag vom 14. Juni 1892 nach einem Beschluss der Dorfversammlung vom selben Tag (Nr. 4), am 29. April 1894 bestätigt", verdict: supported, where: "p. 1"}
+- {claim: "Verzicht für die Höfe Nr. 1 bis 91 und 96 zugunsten der Besitzerin des Gutes Trąbczyn, Gräfin Maria Wielopolska, auf Weideservitut und Sammeln von liegendem Holz und trockenen Ästen im Wald Studzianka", verdict: supported, where: "p. 1"}
+- {claim: "84 Höfe je 4 Morgen, sieben Höfe je 6 Morgen, Nr. 47 5 Morgen, zusammen 383 Morgen", verdict: supported, where: "p. 1: 84хъ усадебъ ... 336 морговъ; №№ 8, 14, 59, 61, 63, 66 и 75 по 6 ... 42 морга и № 47 – 5 морговъ, а всего 383 мор."}
+- {claim: "dazu 10 Morgen 154 Ruten Unland unter Wegen und Grenzen, insgesamt 393 Morgen 154 Ruten", verdict: supported, where: "p. 1"}
+- {claim: "in den Grenzen des Protokolls des Kommissars des Kreises Słupca vom 27. und 28. Juni 1893", verdict: supported, where: "p. 2"}
+- {claim: "beglaubigt vom ständigen Mitglied der Behörde und dem Sekretär", verdict: supported, where: "p. 2: Непремѣнный Членъ Присутствія, Н. [?] / Секретарь, А. [?]"}
+
+apl399806603-005:
+- {claim: "beglaubigte Abschrift, Kalisch, 14. Juli 1901, der Eintragung nach dem Beschluss vom 29. November 1897", verdict: supported, where: "p. 1"}
+- {claim: "Vermessung durch einen Landmesser im Jahr 1896", verdict: supported, where: "p. 1: измѣренія, произведеннаго въ 1896 году землемѣромъ [Пелзуцкимъ?]; the name is doubtful and left out"}
+- {claim: "ganzer bäuerlicher Anteil mit dem Land für die Wald- und Weideservitute nach dem Vertrag vom 14. Juni 1892", verdict: supported, where: "p. 1"}
+- {claim: "1068 Desjatinen 1272 Saschen, davon 1034 Desjatinen 2102 Saschen nutzbar und 33 Desjatinen 1570 Saschen Unland", verdict: supported, where: "p. 1"}
+- {claim: "Flächen jeder Art in jedem Hof in den Spalten der Tabelle, die früheren unrichtigen Zahlen ausgeschieden", verdict: supported, where: "p. 1: показано въ подлежащихъ графахъ табели, по исключеніи прежнихъ цифръ, оказавшихся невѣрными"}
+- {claim: "beglaubigt vom ständigen Mitglied der Behörde und dem Sekretär", verdict: supported, where: "p. 1"}
+
+apl399806603-006:
+- {claim: "Verzeichnis des bäuerlichen Anteils in der Liquidationstabelle der Kolonie Łazińskie Olędry im Kreis Słupca", verdict: supported, where: "p. 1: Вѣдомость о количествѣ крестьянскаго надѣла, записаннаго въ ликвидаціонной табели на селеніе „Колонія Лазинскіе Голендры“, Слупецкаго уѣзда"}
+- {claim: "nach der Vermessung", verdict: supported, where: "p. 1: по сему измѣренію"}
+- {claim: "für die Einträge 1 bis 96 unter ihren Nummern, sechs Arten Land in Desjatinen und Saschen", verdict: supported, where: "pp. 1-3. First written 'für jeden der 96 Höfe': corrected"}
+- {claim: "91 Höfe, einige mit einem anderen Namen als 1868 (so Nr. 77)", verdict: supported, where: "p. 3: 77 Гебель Кристіянъ; document 1: 77 Хауптъ Готфридовъ Кристіянъ"}
+- {claim: "Schule, Friedhof, Gemeindeland, Anteil des Schulzen, ein weiterer Hof; 12 Desjatinen 741 Saschen Unland", verdict: supported, where: "p. 3: nos. 92 to 96; Неудобной земли 12 741"}
+- {claim: "Summe 1068 Desjatinen 1272 Saschen, die Zahl der Eintragung von 1897", verdict: supported, where: "p. 3: Всего ... 1068 1272; document 5"}
+- {claim: "in vier Zeilen ergeben die Teile nicht die Summe der Zeile", verdict: supported, where: "rows 2, 5, 13 and 38, by 2, 200, 10 and 6 sazhens (holding notes)"}
+- {claim: "beglaubigt vom ständigen Mitglied der Behörde und dem Sekretär; ohne Datum", verdict: supported, where: "p. 3"}
