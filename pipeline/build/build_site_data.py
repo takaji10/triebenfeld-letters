@@ -32,6 +32,36 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNITS = unitlib.load_units()
+
+
+_CITATIONS = {}
+
+
+def citation_of(slug, lid):
+    """(English, German) citation of a document inside a printed edition, or None.
+
+    rulings.yml `documents: citation:` maps a document number to
+    {work, volume, number, page, url} (page and url optional; page "56" or
+    "56-58"; url the volume online). Returns (English, German, url). Added for the
+    Kodeks Dyplomatyczny Wielkopolski (2026-10-16), whose entries from many
+    volumes are documents of one holding.
+    """
+    if slug not in _CITATIONS:
+        import yaml
+        u = next((x for x in UNITS if x.slug == slug), None)
+        cit = {}
+        if u is not None and os.path.isfile(u.rulings_path):
+            with open(u.rulings_path, encoding='utf-8') as f:
+                cit = ((yaml.safe_load(f) or {}).get('documents') or {}).get('citation') or {}
+        _CITATIONS[slug] = {str(k): v for k, v in cit.items()}
+    c = _CITATIONS[slug].get(str(lid))
+    if not c:
+        return None
+    page = str(c.get('page') or '')
+    many = '-' in page
+    en = f"{c['work']}, vol. {c['volume']}, no. {c['number']}" + (f", pp. {page.replace('-', '–')}" if many else f", p. {page}" if page else '')
+    de = f"{c['work']}, Bd. {c['volume']}, Nr. {c['number']}" + (f", S. {page.replace('-', '–')}" if page else '')
+    return en, de, str(c.get('url') or '')
 SITE = os.path.join(ROOT, 'site')
 LETTERS_DIR = os.path.join(SITE, '_letters')
 DATA_DIR = os.path.join(SITE, '_data')
@@ -455,6 +485,16 @@ def main():
         fm.append(f'recipient: {yaml_opt(correspondent(r.get("recipient", "")))}')
         fm.append(f'recipient_de: {yaml_opt(correspondent(r.get("recipient", ""), "de"))}')
         fm.append(f'parent_letter: {yaml_opt(r["parent_letter"])}')
+        # Where the document stands in a printed edition that holds many
+        # (the Kodeks Dyplomatyczny Wielkopolski: volume, number, page),
+        # from `documents: citation:` in the holding's rulings. Written only
+        # where there is one, so no other page changes.
+        _cit = citation_of(r['unit'], lid)
+        if _cit:
+            fm.append(f'citation: {yaml_str(_cit[0])}')
+            fm.append(f'citation_de: {yaml_str(_cit[1])}')
+            if _cit[2]:
+                fm.append(f'citation_url: {yaml_str(_cit[2])}')
         # The parent's own kind, so an enclosure reads "part of contract 18"
         # rather than "part of letter 18" over a deed.
         _par = _by_unit_lid.get((r['unit'], r['parent_letter'])) if r['parent_letter'] else None
@@ -545,6 +585,11 @@ def main():
                     f'alt="Manuscript page {p["page"]} of letter {lid}">'
                     f'<span class="scan-cap">{html.escape(img)} '
                     f', open full size</span></a>')
+            elif citation_of(r['unit'], lid):
+                # An entry of a printed edition read from its electronic text has no
+                # page image at all (the Kodeks Dyplomatyczny Wielkopolski).
+                body.append('<p class="muted noscan" data-i18n="noscan_printed">From the electronic text '
+                            'of a printed edition: there is no page image.</p>')
             else:
                 body.append('<p class="muted noscan">No scan matched to this page.</p>')
             body.append('</div>')
@@ -568,7 +613,11 @@ def main():
                 # the same way, under its own label.
                 side = set(p.get('sideways_lines') or [])
                 office = set(p.get('office_lines') or [])
-                if p.get('by_paragraph'):
+                if p.get('by_paragraph') and citation_of(r['unit'], lid):
+                    body.append('<div class="sideways-note" data-i18n="by_paragraph_printed">'
+                                'The whole entry of the printed edition, one paragraph to '
+                                'each numbered line.</div>')
+                elif p.get('by_paragraph'):
                     body.append('<div class="sideways-note" data-i18n="by_paragraph">'
                                 'Transcribed by paragraph, not line by line: each '
                                 'numbered entry is a paragraph of the manuscript.</div>')

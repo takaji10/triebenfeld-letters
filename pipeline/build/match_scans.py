@@ -456,8 +456,11 @@ def write_inventory(caps, recs, per_letter, unparsed, unused):
     L = []
     A = L.append
     A('# Scan inventory\n')
+    # A holding read from an electronic text has no images at all (the Kodeks
+    # Dyplomatyczny Wielkopolski, 2026-10-16): say so rather than fail.
+    span = f' (0001–{caps[-1][0]:04d})' if caps else ''
     A(f'`pages/` holds **{sum(len(i) for _, i in caps)} images** across '
-      f'**{len(caps)} captures** (0001–{caps[-1][0]:04d}), against '
+      f'**{len(caps)} captures**{span}, against '
       f'**{sum(r["n_pages"] for r in recs)} transcribed pages**.\n')
     A('Each image is one manuscript page. Blank pages were deleted before this ran, '
       'so gaps in the filename sequence are deliberate and are recorded below as '

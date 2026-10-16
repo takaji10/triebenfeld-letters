@@ -1,0 +1,38 @@
+# Editorial rulings for BK PAN Kodeks Dyplomatyczny Wielkopolski.
+#
+# Each document is one entry of the Kodeks (intake/holding.py, ENTRIES). The
+# `citation:` block is written by `holding.py --write` from ENTRIES; the rest
+# is by hand, one line per document as entries come in.
+
+places:
+  # Place of writing: the editors' heading (volumes 6 to 11) or the document's
+  # dateline, read by hand.
+  overrides: {}
+
+dates:
+  # [year, month, day, precision]: the document's own date, as the editors'
+  # heading or the dateline gives it.
+  read: {}
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type: {}
+  language: {}
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+  estates: {}
+
+  # Where each document stands in the Kodeks: {work, volume, number}.
+  citation:
+
+pages:
+  # Every page is given by paragraph (one line, one paragraph of the entry).
+  by_paragraph: []
+
+damage:
+  letters: []

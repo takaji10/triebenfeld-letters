@@ -1,0 +1,75 @@
+# One holding for every entry of the Kodeks Dyplomatyczny Wielkopolski the
+# edition uses, whatever its volume (the editor, 2026-10-16: "They should be
+# presented as a single unit on the site ... Each entry should be treated as
+# its own document"). A printed edition, read in the Wielkopolska Digital
+# Library's electronic text of each volume; there are no page images (the
+# editor: text only).
+
+slug: kdw
+# The site prints the library's short name before it: "BK PAN Kodeks
+# Dyplomatyczny Wielkopolski". Each document's own place in the Kodeks
+# (volume, number) is in rulings.yml, `documents: citation:`, and is shown on
+# its page.
+ref: "Kodeks Dyplomatyczny Wielkopolski"
+archive: PAN Biblioteka Kórnicka (BK PAN)
+title: >-
+  Medieval documents on Trąbczyn and its neighbourhood printed in the Kodeks
+  Dyplomatyczny Wielkopolski, the edition of the charters of Greater Poland
+  to 1444, each entry with its editors' heading, summary, sources and notes.
+title_de: >-
+  Mittelalterliche Urkunden über Trąbczyn und seine Umgebung aus dem Kodeks
+  Dyplomatyczny Wielkopolski, der Edition der großpolnischen Urkunden bis
+  1444, jeder Eintrag mit Überschrift, Regest, Quellen und Anmerkungen seiner
+  Herausgeber.
+archive_title: >-
+  Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)
+date_span: "984-1444"
+status: draft              # draft | transcribed | translated | published
+published_tag: ""
+
+# The era of the Middle Ages, a working name until the editor names it
+# (the editor, 2026-10-16: a new era).
+era: medieval
+
+repository: bkpan-kornik
+
+# The source of the text: the WBC's electronic text of each volume
+# (intake/kdw_source.py, VOLUMES, has the eight links). Saved in raw_dir.
+scan_source: Wielkopolska Biblioteka Cyfrowa, electronic text of each volume (https://www.wbc.poznan.pl/)
+
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Kodeks Dyplomatyczny Wielkopolski
+  raw_glob: "*.jpg"
+  ascii_prefix: BKPAN_KDW
+
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+corpus: corpus.txt
+
+description: >-
+  Entries of the Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus
+  Maioris Poloniae), the edition of the medieval documents of Greater
+  Poland to 1444, published at Poznań in eleven volumes from 1877 to 1999:
+  volumes 1 to 4 (1877-1881) and 5 (1908) for the Poznań Society of Friends
+  of Learning, 6 to 11 (1982-1999) in its series of source editions. Each
+  document of this holding is one entry, given whole: the entry's number,
+  the editors' heading (place and date), their summary of the document (in
+  Latin in volumes 1 to 5, in Polish in 6 to 11), the list of manuscripts
+  and earlier editions, the text of the document (Latin, at times Polish or
+  German), and the editors' notes and identifications of places. Some
+  entries of volume 5 are a summary only. The entries come from the
+  electronic text of each volume in the Wielkopolska Digital Library, from
+  the copies of the Kórnik Library of the Polish Academy of Sciences.
+
+translation_note: >-
+  An entry of a printed edition: the first lines are the modern editors'
+  (heading, summary, sources), then the medieval text, then their notes. The
+  editors' summary is Latin in volumes 1 to 5 and Polish in 6 to 11; the
+  sources use their abbreviations (Or. original, Kop. copy, Wyd. edition,
+  Reg. regest). "^1" is a footnote mark; "[s. 443]" is the page of the
+  manuscript the editors printed from. Names of places are given as the
+  document writes them, and the notes say what place the editors take them
+  to be.

@@ -110,6 +110,13 @@ so check them.
 
 ## Where things stand (2026-10-16)
 
+- **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, set up 2026-10-16,
+  **waiting for the editor's entries**): one holding, each entry of the
+  Kodeks a document; text only (the WBC has no page images); the whole
+  entry is the transcription; a new era `medieval` (working name), held
+  back as `units/kdw/intake/add_era.py`. The settings are
+  `units/kdw/unit.yml.draft` so the holding stays off the site until
+  there are documents. Read `units/kdw/notes.md` first.
 - **Kuryer Polski 1754, nr 75** (slug `kuryerpolski1754075`, added
   2026-10-16, **published 2026-10-16**): the first holding from print and from a
   library (repository `bkpan-kornik`, document type `newspaper`): the

@@ -534,3 +534,17 @@ claim-checked in session. Details: `units/kuryerpolski1754075/notes.md`.
 - [x] You looked at the one word on the spot sheet, "[Cleri?]", and kept
       it as it stands (2026-10-16).
 - [x] Published at your word (2026-10-16).
+
+## 19. Kodeks Dyplomatyczny Wielkopolski (set up 2026-10-16)
+
+One holding for the entries of the Kodeks you choose, each entry a document,
+text only (the digital library has no page images), the whole entry as the
+text, in a new era of the Middle Ages. The eight volumes' texts are saved,
+and any entry can be read in by volume and number. Details:
+`units/kdw/notes.md`.
+
+- [ ] **You: the entries** (volume and number of each).
+- [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
+      Ages", `medieval`).
+- [ ] Then: the documents, their dates and places, English, summaries,
+      the era on the timeline and the story page; publish at your word.

@@ -489,3 +489,10 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   claims no permission; once an archive grants it, say so there.
 - **The holder's name.** The licences and that page name `takaji10`. To use a
   full name, change `site/_data/rights.yml` and `LICENSE` together.
+
+- **Kodeks Dyplomatyczny Wielkopolski** (set up 2026-10-16): volumes 6 to
+  11 were published 1982 to 1999, and the Wielkopolska Digital Library
+  names the Kórnik Library as rights holder. The edition will reproduce
+  whole entries of them (text, no images). Before the site is shared
+  widely, ask whether that needs the library's permission. Also open: the
+  name of the medieval era.

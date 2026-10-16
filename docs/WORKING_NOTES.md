@@ -934,6 +934,32 @@ Where the rest is:
   Ląd" in two other holdings, all right; a looser "L[ąa]d" would have
   needed checking against Polish "ład".
 
+- **A holding with no images** (the Kodeks Dyplomatyczny Wielkopolski,
+  2026-10-16: the digital library has only an electronic text). The
+  pipeline takes it: each document is one page with an id and no image.
+  `match_scans.py` failed on a holding with no captures at all and now
+  says so instead. A document with a `citation:` (below) says in the image
+  pane that it comes from a printed edition and has no page image, and its
+  by-paragraph note says "the whole entry of the printed edition".
+- **`documents: citation:` in rulings.yml** gives a document's place in a
+  printed edition that holds many ({work, volume, number, page, url});
+  `build_site_data.citation_of()` writes it into the page's front matter
+  only where there is one, and the page shows it under the place, linked
+  to the volume. Added for the Kodeks, whose entries come from many volumes
+  and whose numbers restart in volumes 5 and 6.
+- **A holding set up before its documents exist is kept off the site** by
+  naming its settings `unit.yml.draft`: every folder with a `unit.yml` is a
+  holding to the build, and an empty one would show on the Sources page.
+  Likewise an era with no documents: keep its entry as a script until then.
+- **Try a new kind of holding end to end with one sample document**, then
+  take it out: `git checkout` the generated files (corpus/, site/_data/
+  except i18n.yml, site/assets/), delete the sample's generated files, and
+  rebuild to see that nothing generated differs from HEAD.
+- **The Wielkopolska Digital Library** serves a volume's electronic text at
+  `https://www.wbc.poznan.pl/Content/<id>/download/`, and answers a burst
+  of requests with a 1.7 KB "High Load" page with status 200: check the
+  size of every download.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
