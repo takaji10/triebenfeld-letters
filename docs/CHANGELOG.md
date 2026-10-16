@@ -1997,6 +1997,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - A new repository `bkpan-kornik` (a library) and document type `newspaper`. Łęd is Ląd (editor): Ląd added to the places, which also links the boundary decree of 1775, the Prussian table of about 1797 and six contracts of Oe 1 Bü 14526. Paweł, Antoni and Katarzyna Prusimski matched in the print's spelling; the abbot Głowiecki added.
 - Not published.
 
+## Kuryer Polski 1754, nr 75: published (2026-10-16)
+
+- The editor looked at the one doubtful word on the spot sheet and kept "[Cleri?]" as it stands. Published at the editor's word: 592 documents in 44 holdings, 883 marks of doubt.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

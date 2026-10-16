@@ -523,7 +523,7 @@ summarised and claim-checked in session. Details: `units/adwl85/notes.md`.
       (leaves 26 to 28 recto and what follows 29 verso) and the description
       of the church of Zagórów under its table; all photographed.
 
-## 18. Kuryer Polski 1754, nr 75: the funeral of Paweł Prusimski (added 2026-10-16)
+## 18. Kuryer Polski 1754, nr 75: the funeral of Paweł Prusimski (added and published 2026-10-16)
 
 The first holding from print and from a library: one report in the Warsaw
 newspaper Kuryer Polski (Kórnik Library, Cz2271, in the Wielkopolska
@@ -531,7 +531,6 @@ Digital Library), read from your image, translated, summarised and
 claim-checked in session. Details: `units/kuryerpolski1754075/notes.md`.
 
 - [x] Łęd is Ląd (you, 2026-10-16).
-- [ ] **You: one word on a spot sheet** ("[Cleri?]", faint print):
-      `python pipeline/review/queries.py --unit kuryerpolski1754075 --sheet
-      readings.csv`.
-- [ ] **You: publish** (the word to push).
+- [x] You looked at the one word on the spot sheet, "[Cleri?]", and kept
+      it as it stands (2026-10-16).
+- [x] Published at your word (2026-10-16).

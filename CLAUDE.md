@@ -111,12 +111,12 @@ so check them.
 ## Where things stand (2026-10-16)
 
 - **Kuryer Polski 1754, nr 75** (slug `kuryerpolski1754075`, added
-  2026-10-16, **not published**): the first holding from print and from a
+  2026-10-16, **published 2026-10-16**): the first holding from print and from a
   library (repository `bkpan-kornik`, document type `newspaper`): the
   report on the funeral of Paweł Prusimski at Trąbczyn, 5 December 1754.
   The editor means to add more newspaper items; the slug for another issue
-  is `kuryerpolski<year><number>`. Waits on: one word on the spot sheet,
-  the word to publish. Read `units/kuryerpolski1754075/notes.md` first.
+  is `kuryerpolski<year><number>`. The editor kept the one doubtful word,
+  "[Cleri?]". Nothing waits. Read `units/kuryerpolski1754075/notes.md` first.
 - **ADWł 85** (slug `adwl85`, added 2026-10-15, **published 2026-10-16**), the
   first holding from the Diocesan Archive in Włocławek: nine pages of the
   visitation of the Konin deanery of 1790 and 1791, the pages the editor's

@@ -28,7 +28,9 @@ ROWS = [
      '"Cleri" (Cleri Sæcularis, the secular clergy) with doubt, as the usual phrase.',
      (0.03, 0.525, 0.53, 0.585)),
 ]
-ANSWERED = set()
+# Answered by the editor on 2026-10-16: "[Cleri?]" kept as it stands, with its doubt
+# (intake/readings_answers.json). Nothing in the text changed.
+ANSWERED = {'k01'}
 
 
 def main():

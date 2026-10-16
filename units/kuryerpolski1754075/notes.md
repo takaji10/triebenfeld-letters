@@ -6,8 +6,9 @@ Polski, no. 75 of 1754 (25 December). The first holding from print and
 from a library (the editor, 2026-10-16: units "that might not necessarily
 come from archives - think articles/announcements from newspapers").
 Added 2026-10-16: read from the image in session, translated, summarised,
-claim-checked, with its page. **Not published**: waits for the editor's
-word, and their look at one word (spot sheet `readings.csv`).
+claim-checked, with its page. The editor looked at the one doubtful word
+on the spot sheet and kept it as it stands; **published at their word on
+2026-10-16**.
 
 Everything about how the holding was made is in the docstring of
 `intake/holding.py`.
@@ -39,8 +40,8 @@ digital library's.
   a broken line end. The line-break pass did not know words with the long
   s and split five of them ("Pru¬ſińſkich", "Gło¬wiecki"): ruled as joins
   by hand in `linebreak_decisions.csv`.
-- One mark of doubt: "[Cleri?]" before "Sæcularis", faint print. The
-  summaries do not rest on it.
+- One mark of doubt: "[Cleri?]" before "Sæcularis", faint print, kept by
+  the editor on the spot sheet (2026-10-16). The summaries do not rest on it.
 - "Łędzki" is Ląd, the Cistercian abbey (the editor, 2026-10-16). Kaźmierz
   is said on the holding's page to be probably Kazimierz Biskupi; not
   confirmed, and not in the place index.
@@ -56,4 +57,4 @@ digital library's.
 
 ## Still to do
 
-- The editor's look at "[Cleri?]" on the spot sheet; their word to publish.
+Nothing.
