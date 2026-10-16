@@ -900,6 +900,19 @@ Where the rest is:
   `site/_data/rights.yml`; `site/_includes/rights_archives.html` names it
   without a link.
 
+- **A script that applies answers to several files checks them all before
+  writing any** (ADWł 85, 2026-10-16). `spot_answers.py` wrote the Polish,
+  then stopped on a pattern in the English, and could not be run again. And
+  quote a word, not a phrase: the texts in `text85.py` are Python strings
+  wrapped across lines, so a phrase may span a line break and match nothing.
+- **Run `check_translations.py` after `regenerate.py`, not before.** Run on
+  the old `corpus/letters.json`, it reported five false marker-count rows
+  for marks the editor had just settled.
+- **A note without a button can carry the answer** ("Maybe Ułazwany, if
+  that's a word?"). Read it against the hand: this scribe's ł is a t with a
+  bar, so it was "Uła" and the separate word "zwany", kept with its doubt
+  because the editor was unsure. Say in the report how it was taken.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
