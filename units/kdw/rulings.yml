@@ -1,18 +1,61 @@
 # Editorial rulings for BK PAN Kodeks Dyplomatyczny Wielkopolski.
 #
-# Each document is one entry of the Kodeks (intake/holding.py, ENTRIES). The
-# `citation:` block is written by `holding.py --write` from ENTRIES; the rest
-# is by hand, one line per document as entries come in.
+# Each document is one entry of the Kodeks (intake/holding.py, ENTRIES, in
+# order of date). The place, date, type, language, estates and citation of
+# every document are written by `holding.py --write` from ENTRIES: change
+# ENTRIES, not them. "4": "Sechowa" is the place as the document writes it
+# (the editors: Czechowo or Szetlew); "2" has none ("s. l.").
 
 places:
-  # Place of writing: the editors' heading (volumes 6 to 11) or the document's
-  # dateline, read by hand.
-  overrides: {}
+  # Place of issue, from the editors' heading or regest.
+  overrides:
+    "1": "Gniezno"
+    "2": ""
+    "3": "Gniezno"
+    "4": "Sechowa"
+    "5": "Dłusk"
+    "6": "Kalisz"
+    "7": "Gniezno"
+    "8": "Kalisz"
+    "9": "Pyzdry"
+    "10": "Pyzdry"
+    "11": "Gniezno"
+    "12": "Poznań"
+    "13": "Ląd"
+    "14": "Niepołomice"
+    "15": "Ląd"
+    "16": "Ląd"
+    "17": "Gniezno"
+    "18": "Ląd"
+    "19": "Trąbczyn"
+    "20": "Buda"
+    "21": "Buda"
 
 dates:
   # [year, month, day, precision]: the document's own date, as the editors'
   # heading or the dateline gives it.
-  read: {}
+  read:
+    "1": [1173, 8, 31, "day"]   # Mieszko gives 'parvum Vronchin', Wrąbczynek, to the Cisterci, vol. 1 no. 20
+    "2": [1240, 9, 30, "day"]   # the tithes of Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Ł, vol. 1 no. 222
+    "3": [1243, 5, 4, "day"]   # the hospital of Gniezno given to the Holy Sepulchre of Miech, vol. 1 no. 238
+    "4": [1261, 12, 10, "day"]   # the possessions of Ląd confirmed: Szethowo (Szetlew), the Sa, vol. 1 no. 393
+    "5": [1276, 3, 27, "day"]   # Trąbczyn given to Count Nicholas, treasurer of Ląd, vol. 1 no. 460
+    "6": [1280, 10, 18, "day"]   # the possessions of Ląd confirmed: Szechouo (probably Szetlew, vol. 6 no. 27
+    "7": [1291, 10, 21, "day"]   # Kopojno exchanged to Ląd for Głowiew, Sławsk and Chocicza, vol. 2 no. 678
+    "8": [1292, 9, 29, "day"]   # the exchange of Wroncino (Wrąbczyn) and Bieganin for Niałek , vol. 2 no. 685
+    "9": [1346, 11, 13, "day"]   # Stropiszyn and Pępocin adjudged to the church of Gniezno aga, vol. 2 no. 1252
+    "10": [1346, 11, 13, "day"]   # the same, against Andrzej, heir of Trąbczyn, and his kin, vol. 2 no. 1253
+    "11": [1377, 5, 27, "day"]   # the judges attest that Wrąbczynek with Adamierz belong to Lą, vol. 3 no. 1739
+    "12": [1384, 1, 31, "day"]   # Vronczino adjudged to Ląd; the editors: Wrąbczyn or Wrąbczyn, vol. 6 no. 283
+    "13": [1399, 10, 13, "day"]   # the sheaf tithe of Trąbczyn adjudged to Ląd against the pari, vol. 3 no. 2014
+    "14": [1407, 11, 19, "day"]   # the King allows Ląd to found a town at Zagórów, vol. 5 no. 117
+    "15": [1411, 11, 30, "day"]   # the abbot of Ląd exchanges with the schultheiss of Nowe Zagó, vol. 5 no. 191
+    "16": [1414, 6, 13, "day"]   # the parish church of Zagórów handed over to Ląd, vol. 7 no. 733
+    "17": [1415, 4, 16, "day"]   # a plot at Gniezno sold to Ląd; Mikołaj and Andrzej of Trąbcz, vol. 7 no. 755
+    "18": [1418, 6, 3, "day"]   # the abbot of Ląd exchanges the farm in Wrąbczyn Wielki for o, vol. 5 no. 280
+    "19": [1434, 5, 15, "day"]   # Wojciech of Trąbczyn, canon of Kruszwica, empowers his broth, vol. 11 no. 2000
+    "20": [1440, 8, 10, "day"]   # the King charges 300 marks on Wrąbczynek, Adamierz and Borzy, vol. 10 no. 1520
+    "21": [1440, 11, 22, "day"]   # the King charges 200 marks on Adamierz, Borzykowo and Wrąbcz, vol. 10 no. 1532
   supplied: {}
   twin: {}
   inferred: {}
@@ -20,19 +63,103 @@ dates:
   no_date: []
 
 documents:
-  doc_type: {}
-  language: {}
+  doc_type:
+    "1": donation
+    "2": donation
+    "3": donation
+    "4": confirmation
+    "5": donation
+    "6": confirmation
+    "7": confirmation
+    "8": confirmation
+    "9": decree
+    "10": decree
+    "11": attestation
+    "12": decree
+    "13": decree
+    "14": privilege
+    "15": contract
+    "16": notarial_attestation
+    "17": certification
+    "18": contract
+    "19": power_of_attorney
+    "20": donation
+    "21": donation
+  language:
+    "1": "la"
+    "2": "la"
+    "3": "la"
+    "4": "la"
+    "5": "la"
+    "6": "la"
+    "7": "la"
+    "8": "la"
+    "9": "la"
+    "10": "la"
+    "11": "la"
+    "12": "la"
+    "13": "la"
+    "14": "la"
+    "15": "la"
+    "16": "la"
+    "17": "la"
+    "18": "la"
+    "19": "la"
+    "20": "la"
+    "21": "la"
   duplicate_of: {}
   split_note: {}
   relations: {}
-  estates: {}
+  estates:
+    "1": [wrabczynek, lad]
+    "2": [lad, zagorowo, skokum, kopojno, trabczyn, szetlew, lukom, wrabczyn]
+    "3": []
+    "4": [lad, szetlew, swiatniki, zagorowo, skokum, olesnica, kopojno]
+    "5": [trabczyn]
+    "6": [lad, szetlew, swiatniki]
+    "7": [kopojno, lad]
+    "8": [wrabczyn]
+    "9": [trabczyn]
+    "10": [trabczyn]
+    "11": [wrabczynek, adamierz, lad]
+    "12": [wrabczyn, wrabczynek, lad]
+    "13": [trabczyn, lad]
+    "14": [zagorowo, lad]
+    "15": [zagorowo, drzewce, lad]
+    "16": [zagorowo, lad]
+    "17": [lad]
+    "18": [wrabczyn, drzewce, zagorowo, lad]
+    "19": [trabczyn]
+    "20": [wrabczynek, adamierz]
+    "21": [adamierz, wrabczynek]
 
   # Where each document stands in the Kodeks: {work, volume, number}.
   citation:
+    "1": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "20", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "2": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "222", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "3": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "238", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "4": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "393", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "5": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 1, number: "460", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20061"}
+    "6": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 6, number: "27", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20109"}
+    "7": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "678", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "8": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "685", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "9": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "1252", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "10": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 2, number: "1253", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20067"}
+    "11": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "1739", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "12": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 6, number: "283", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20109"}
+    "13": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 3, number: "2014", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20085"}
+    "14": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 5, number: "117", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20103"}
+    "15": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 5, number: "191", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20103"}
+    "16": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 7, number: "733", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20111"}
+    "17": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 7, number: "755", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20111"}
+    "18": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 5, number: "280", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20103"}
+    "19": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 11, number: "2000", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20119"}
+    "20": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 10, number: "1520", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20117"}
+    "21": {work: "Kodeks Dyplomatyczny Wielkopolski", volume: 10, number: "1532", url: "https://www.wbc.poznan.pl/dlibra/doccontent?id=20117"}
 
 pages:
   # Every page is given by paragraph (one line, one paragraph of the entry).
-  by_paragraph: []
+  by_paragraph: ["0001_a", "0002_a", "0003_a", "0004_a", "0005_a", "0006_a", "0007_a", "0008_a", "0009_a", "0010_a", "0011_a", "0012_a", "0013_a", "0014_a", "0015_a", "0016_a", "0017_a", "0018_a", "0019_a", "0020_a", "0021_a"]
 
 damage:
   letters: []

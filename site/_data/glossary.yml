@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 92
+  docs: 93
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -131,7 +131,7 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 22
+  docs: 23
 - id: "morgen"
   kind: "money"
   lang: "de"
@@ -169,7 +169,7 @@
   initial_en: "H"
   sort_de: "hufe"
   initial_de: "H"
-  docs: 44
+  docs: 45
 - id: "ruthe"
   kind: "money"
   lang: "de"
@@ -226,7 +226,7 @@
   initial_en: "C"
   sort_de: "klafter"
   initial_de: "K"
-  docs: 5
+  docs: 8
 - id: "scheffel"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 42
+  docs: 43
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -302,7 +302,7 @@
   initial_en: "C"
   sort_de: "canon"
   initial_de: "C"
-  docs: 40
+  docs: 42
 - id: "erbzins"
   kind: "land"
   lang: "de"
@@ -492,7 +492,7 @@
   initial_en: "V"
   sort_de: "schulze"
   initial_de: "S"
-  docs: 14
+  docs: 15
 - id: "donation"
   kind: "land"
   lang: "de_la"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 67
+  docs: 72
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 63
+  docs: 64
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1024,7 +1024,7 @@
   initial_en: "K"
   sort_de: "komornik"
   initial_de: "K"
-  docs: 9
+  docs: 10
 - id: "prefect"
   kind: "law"
   lang: "de_fr"
@@ -1100,7 +1100,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 92
+  docs: 93
 - id: "ausfertigung"
   kind: "law"
   lang: "de"
@@ -1841,7 +1841,7 @@
   initial_en: "M"
   sort_de: "johannis, michaelis, martini"
   initial_de: "J"
-  docs: 66
+  docs: 70
 - id: "pp"
   kind: "phrase"
   lang: "la"
@@ -1917,7 +1917,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 59
+  docs: 67
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"
@@ -1936,7 +1936,7 @@
   initial_en: "I"
   sort_de: "in fidem"
   initial_de: "I"
-  docs: 19
+  docs: 21
 - id: "de-dato"
   kind: "phrase"
   lang: "la"

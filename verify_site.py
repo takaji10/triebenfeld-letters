@@ -48,6 +48,8 @@ BASEURL = _baseurl()
 failures = []
 
 
+FN_MARKUP = re.compile(r'<sup class="fn">|</sup>|<span class="fn-note">|</span>')
+
 def fail(msg):
     failures.append(msg)
     print('  FAIL ' + msg)
@@ -104,7 +106,10 @@ def main():
         # <ol class="dip">. Scope the extraction to those lists: the page also
         # carries other <li> - the typed relations to other documents - and a
         # bare <li> match would read them back as if they were transcription.
-        recovered = [html.unescape(x)
+        # A printed edition's footnote markers are raised and its note lines
+        # set apart (build_site_data.footnote_html); the text under the markup
+        # is what is checked.
+        recovered = [html.unescape(FN_MARKUP.sub('', x))
                      for blk in re.findall(r'<ol class="dip"[^>]*>(.*?)</ol>', page, re.S)
                      for x in re.findall(r'<li>(.*?)</li>', blk, re.S)]
         # The rendered view is the transcription layer: the manuscript's own

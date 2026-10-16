@@ -2001,6 +2001,15 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - The editor looked at the one doubtful word on the spot sheet and kept "[Cleri?]" as it stands. Published at the editor's word: 592 documents in 44 holdings, 883 marks of doubt.
 
+## Kodeks Dyplomatyczny Wielkopolski: twenty-one medieval entries (2026-10-16)
+
+- A new holding, `kdw`: twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski, 1173 to 1440, from volumes 1, 2, 3, 5, 6, 7, 10 and 11 (volume 8 left out at the editor's word), each entry one document in order of date, given whole from the editor's file and not corrected. Text only, from the Wielkopolska Digital Library's electronic text; each page names its volume and number, linked to the volume.
+- The editors' footnote marks are raised and their notes set apart on the site (`units/kdw/footnotes.yml`), without changing the text; both verifications allow for it.
+- Estates tagged from the editor's sixteen; new places Szetlew and Adamierz; medieval spellings with their years for thirteen places, shown on the Places page. Thirteen people of Trąbczyn added, each to its document.
+- A new era `medieval`, "Trąbczyn in the Middle Ages" (working name): on the timeline from 1173 with six events, on the story page, in the era list. English and summaries written in session; 107 statements claim-checked. Holding page in both languages; the edition guide brought up to 613 documents in 45 holdings, 2,005 pages, 1173 to 1936.
+- Years before 1500 no longer get a thousands comma in the reading text and English of this holding (`numerals.YEARS_FROM`); no other holding changed.
+- Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

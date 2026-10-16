@@ -6,7 +6,7 @@
 The Wielkopolska Digital Library (WBC) gives each volume of the Kodeks as one
 HTML file, a proofed electronic text of the printed volume, not page images
 and without the printed page numbers (2026-10-16). The eight volumes the
-editor named are saved in RAW as KDW_T<vv>_wbc<id>.html (VOLUMES below has the
+editor uses are saved in RAW as KDW_T<vv>_wbc<id>.html (VOLUMES below has the
 links). In each, an entry is:
 
     Dokument Nr <n>                     the Kodeks's own number
@@ -41,7 +41,7 @@ VOLUMES = {
     5: (20103, 1908, 'Kodeks Dyplomatyczny Wielkopolski T.5 Zawierający dokumenta z lat 1400-1444', '1400-1444', '1-738'),
     6: (20109, 1982, 'Kodeks Dyplomatyczny Wielkopolski T.6 Zawiera dokumenty nr 1-400 z lat 1174-1400', '1174-1400', '1-400'),
     7: (20111, 1985, 'Kodeks Dyplomatyczny Wielkopolski T.7 Zawiera dokumenty nr 401-773 z lat 1401-1415', '1401-1415', '401-773'),
-    8: (20113, 1989, 'Kodeks Dyplomatyczny Wielkopolski T.8 Zawiera dokumenty nr 774-1074 z lat 1416-1425', '1416-1425', '774-1074'),
+    10: (20117, 1993, 'Kodeks Dyplomatyczny Wielkopolski T.10 Zawiera dokumenty nr 1381-1699 z lat 1435-1444', '1435-1444', '1381-1699'),
     11: (20119, 1999, 'Kodeks Dyplomatyczny Wielkopolski T.11 Zawiera suplementy (dokumenty nr 1700-2023 z lat 1225-1444) '
                       'oraz erratę i indeksy do tomów VI-XI', '1225-1444', '1700-2023'),
 }

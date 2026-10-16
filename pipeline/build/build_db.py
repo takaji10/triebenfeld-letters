@@ -365,7 +365,7 @@ for L in nums:
     numbered = [(j, lines[j-1]) for j in range(s+1, e+1)]
     pages = build_pages(numbered, L, DECISIONS,
                         is_register=(DOC_TYPE.get(L, 'letter') == 'register'),
-                        paras=PARAS, sideways=SIDEWAYS)
+                        paras=PARAS, sideways=SIDEWAYS, slug=UNIT.slug)
     # A page transcribed by paragraph says so, so the reader does not take its
     # numbered lines for the lines of the manuscript.
     for _p in pages:

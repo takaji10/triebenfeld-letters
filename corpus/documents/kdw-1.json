@@ -1,0 +1,128 @@
+{
+ "letter_id": "1",
+ "seq_archival": 1,
+ "parent_letter": "",
+ "unit": "kdw",
+ "uid": "kdw-1",
+ "pad": "kdw-001",
+ "permalink": "/documents/kdw/1/",
+ "doc_type": "donation",
+ "era": "medieval",
+ "themes": [],
+ "date_iso": "1173-08-31",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1173-08-31",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1173,
+ "month": 8,
+ "day": 31,
+ "place": "Gniezno",
+ "sender": "",
+ "recipient": "",
+ "line_start": 1,
+ "line_end": 8,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "wrabczynek",
+  "lad"
+ ],
+ "is_missing": 0,
+ "n_lines": 6,
+ "n_pages": 1,
+ "text": "Dokument Nr 20\nMesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.\nPergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.\nBibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.\nIn nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.\nLendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek.",
+ "text_reading": "Dokument Nr 20\n\nMesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.\n\nPergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.\n\nBibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.\n\nIn nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.\n\nLendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0001_a",
+   "line_start": 3,
+   "line_end": 8,
+   "n_lines": 6,
+   "diplomatic": "Dokument Nr 20\nMesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.\nPergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.\nBibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.\nIn nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.\nLendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek.",
+   "transcription": "Dokument Nr 20\nMesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.\nPergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.\nBibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.\nIn nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.\nLendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek.",
+   "reading": "Dokument Nr 20\n\nMesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.\n\nPergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.\n\nBibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.\n\nIn nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.\n\nLendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek.",
+   "paragraphs": [
+    "Dokument Nr 20",
+    "Mesico dux Polonie 1173 Aug. 31, in Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd.",
+    "Pergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszenia pieczęci, w jednej z nich nitki żółtego jedwabiu. Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła.",
+    "Bibl. XX. Czartoryskich. Diplomata, Vol. I. Nr. 1.",
+    "In nomine Domini amen. Memorie oblivio novercatur et longinquitate temporis gestarum series obscuratur, nisi vivacibus litterarum indiciis ad posteros propaletur. Igitur ego Mesico Dei gracia dux Polonie notum facio tam presentibus quam futuris, quod favorem et graciam quam gero specialiter ad fratres Ordinis Cisterciensis domus Lendensis nostre fundacionis intendens ampliare ut eo melius valeant persistere in divini nominis famulatu, ad peticionem pii patris domini Bertoldi abbatis eiusdem monasterii suique devoti Conventus donavi hereditatem nostram dictam parvum Vronchin eisdem, cum sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure hereditario possidendam. Huius rei testes sunt: Iarostius palatinus Kalisiensis, Bronis castellanus Gneznensis, Odollanus pincerna, Ilicus capellanus, et quam plures alii fide digni. Datum in Gnezna anno Domini millesimo centesimo septuagesimo tercio, pridie Kalendas Septembris, Indictione sexta. Ut autem hec rata et firma permaneant, presentem cedulam sigilli nostri appensione fecimus communiri.",
+    "Lendensis, t. j. de Ląd. Parvum Vronchin, dziś Wrąbczynek."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 6,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Gniezno",
+ "place_mentions": [
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0001_a",
+   "scan": "",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "wrabczynek",
+   "display": "Wrąbczynek",
+   "kind": "place",
+   "surface": "Wrąbczynek",
+   "page": 1,
+   "page_id": "0001_a",
+   "scan": "",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0001_a",
+   "scan": "",
+   "line": 8,
+   "doc_line": 6
+  },
+  {
+   "entity": "wrabczynek",
+   "display": "Wrąbczynek",
+   "kind": "place",
+   "surface": "Wrąbczynek",
+   "page": 1,
+   "page_id": "0001_a",
+   "scan": "",
+   "line": 8,
+   "doc_line": 6
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Document no. 20\n\nMieszko, Duke of Poland, 31 August 1,173, at Gniezno; gives the estate of Wrąbczynek to the monastery of Ląd.\n\nOriginal on parchment. The lower edge, folded over, shows 4 small holes for hanging the seal, in one of them threads of yellow silk. The script seems to be of the first half of the thirteenth century. The seal is lost.\n\nLibrary of the Princes Czartoryski. Diplomata, vol. I, no. 1.\n\nIn the name of the Lord, amen. Forgetting is a stepmother to memory, and the course of deeds is darkened by the length of time, unless it is made known to those who come after by the living tokens of letters. Therefore I, Mieszko, by the grace of God Duke of Poland, make known to those present and to come that, meaning to increase the favour and grace which I bear especially towards the brothers of the Cistercian Order of the house of Ląd, of our foundation, so that they may the better persevere in the service of the name of God, at the request of the pious father Lord Bertold, abbot of that monastery, and of his devout convent, I have given them our estate called little Vronchin, with salt, lakes, fishing and hunting, and the other uses there at present and to come, free of all the rights of Poland by whatever names they are called, to be possessed by hereditary right. Witnesses of this are: Jarost, palatine of Kalisz; Bronis, castellan of Gniezno; Odolan the cupbearer; Ilik the chaplain; and many others worthy of trust. Given at Gniezno in the year of the Lord one thousand one hundred and seventy-three, on the day before the Kalends of September, in the sixth indiction. And that this may remain valid and firm, we have had the present document strengthened by the hanging of our seal.\n\nLendensis, that is of Ląd. Parvum Vronchin, today Wrąbczynek."
+  }
+ ],
+ "text_english": "Document no. 20\n\nMieszko, Duke of Poland, 31 August 1,173, at Gniezno; gives the estate of Wrąbczynek to the monastery of Ląd.\n\nOriginal on parchment. The lower edge, folded over, shows 4 small holes for hanging the seal, in one of them threads of yellow silk. The script seems to be of the first half of the thirteenth century. The seal is lost.\n\nLibrary of the Princes Czartoryski. Diplomata, vol. I, no. 1.\n\nIn the name of the Lord, amen. Forgetting is a stepmother to memory, and the course of deeds is darkened by the length of time, unless it is made known to those who come after by the living tokens of letters. Therefore I, Mieszko, by the grace of God Duke of Poland, make known to those present and to come that, meaning to increase the favour and grace which I bear especially towards the brothers of the Cistercian Order of the house of Ląd, of our foundation, so that they may the better persevere in the service of the name of God, at the request of the pious father Lord Bertold, abbot of that monastery, and of his devout convent, I have given them our estate called little Vronchin, with salt, lakes, fishing and hunting, and the other uses there at present and to come, free of all the rights of Poland by whatever names they are called, to be possessed by hereditary right. Witnesses of this are: Jarost, palatine of Kalisz; Bronis, castellan of Gniezno; Odolan the cupbearer; Ilik the chaplain; and many others worthy of trust. Given at Gniezno in the year of the Lord one thousand one hundred and seventy-three, on the day before the Kalends of September, in the sixth indiction. And that this may remain valid and firm, we have had the present document strengthened by the hanging of our seal.\n\nLendensis, that is of Ląd. Parvum Vronchin, today Wrąbczynek.",
+ "summary_en": "Duke Mieszko of Poland gives the Cistercian abbey of Ląd, his own foundation, at the request of Abbot Bertold, the estate of \"parvum Vronchin\", today Wrąbczynek, with salt, lakes, fishing and hunting, free of all the rights of Poland, to be held by hereditary right. Gniezno, 31 August 1173. Kodeks Dyplomatyczny Wielkopolski I, no. 20, from the original held by the Princes Czartoryski; the editors judge its script to be of the first half of the thirteenth century.",
+ "summary_de": "Herzog Mieszko von Polen schenkt dem Zisterzienserkloster Ląd, seiner Gründung, auf Bitten des Abtes Bertold das Gut „parvum Vronchin“, heute Wrąbczynek, mit Salz, Seen, Fischerei und Jagd, frei von allen polnischen Rechten, zu erblichem Besitz. Gnesen, 31. August 1173. Kodeks Dyplomatyczny Wielkopolski I, Nr. 20, nach dem Original im Besitz der Fürsten Czartoryski; die Schrift scheint nach den Herausgebern aus der ersten Hälfte des 13. Jahrhunderts zu sein.",
+ "reading": {}
+}

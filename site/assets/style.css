@@ -400,6 +400,9 @@ ol.dip li::marker {
    office wrote on a letter (office_notes.yml) is set apart the same way. */
 .sideways { border-left: 3px solid var(--rule); padding-left: .8em; margin: .6em 0; }
 .sideways-note { font-family: var(--sans); font-size: .8em; font-style: italic; color: var(--ink-soft); }
+/* footnotes of a printed edition (units/<slug>/footnotes.yml) */
+sup.fn { font-size: .7em; line-height: 0; vertical-align: super; color: var(--ink-soft); padding: 0 .05em; }
+.fn-note { font-size: .88em; color: var(--ink-soft); }
 .sideways ol.dip { margin-top: .2em; margin-bottom: 0; }
 .text-view[data-view="reading"] .sideways p,
 .text-view[data-view="translation"] .sideways p { text-indent: 0; margin-top: .2em; }

@@ -959,6 +959,48 @@ Where the rest is:
   `https://www.wbc.poznan.pl/Content/<id>/download/`, and answers a burst
   of requests with a 1.7 KB "High Load" page with status 200: check the
   size of every download.
+- **Footnotes of a printed edition** (the Kodeks, 2026-10-16). The marks
+  stand in the electronic text glued to their words ("Mezeconis1",
+  "Zagorowo,1)"), and the text is not to be changed. `units/<slug>/
+  footnotes.yml` records each mark as a piece of text with the mark in
+  braces (`"Mezeconis{1},"`) and each note line by its start (`"{1}Mieszko"`);
+  `build_site_data.footnote_html()` raises them on the site, and both
+  verifications (build_site_data's and `verify_site.py`, `FN_MARKUP`) strip
+  that markup before comparing the text. A mark with no note, or a note
+  with no mark, goes under `unmatched:` with the reason. The holding's
+  `intake/check_footnotes.py` checks every mark and note is found once.
+- **The figures of a medieval holding are years** (2026-10-16). The
+  reading text and the English group four-digit numbers by thousands
+  unless they can be a year, which `numerals.py` took to mean 1500 to 1999:
+  the Kodeks's 1411 became "1,411". A holding whose documents are older is
+  named in `numerals.YEARS_FROM` (`kdw: 1100`), and the slug or document id
+  is passed down (`build_pages(slug=)`, `english_forms.apply(pad=)`).
+  Lowering the floor for everyone was tried and is wrong: it took the
+  commas out of sums such as 1,302 in the tables of the 1860s. After any
+  change there, compare the reading text and `site/_data/translations/`
+  with a copy taken before, and see that only the intended holding moved.
+- **Medieval spellings of a place** go in `reference/places.yml` as a
+  `medieval:` list of "year: forms" (the editor: "1252: Trupcino"); the
+  build copies them into `site/_data/estates.yml` and the Places page shows
+  them as "Medieval: ...". Collect them from the documents' Latin, not the
+  editors' notes.
+- **A long-tail name the index finds by itself** (name_seeds) can be shut
+  out of a document with `seed_not_in:` at the top of
+  `reference/people.yml` (`{Otto: [kdw-19]}`), where the person has a full
+  entry of their own in that document.
+- **A case ending can cross from one place to its neighbour**: Wrąbczyn's
+  pattern also caught "Wrąbczynka", a form of Wrąbczynek; the patterns now
+  exclude each other's endings (`(?!ek|k[aui])`). With two places whose
+  names differ by a suffix, read the hits of both.
+- **An editor's note can be wrong where the text is plain**: the Kodeks's
+  note puts "Magna Wronczino" (1418) in the district of Poznań, but the
+  document sets it between the abbey's estates of Great Wrąbczyn and
+  Zagórów. The note stays as printed; the tag follows the text, and the
+  summary and the holding page say so.
+- **The translation check's flags on a Latin holding are mostly noise**:
+  footnote numbers of 10 and more become superscripts (¹⁰) and read as
+  "numeral missing", and the German termbase catches Latin words
+  ("Dominium", "Johannis"). Read them, and say in the report that they were.
 
 ## Merging a cloud branch on the desktop
 
@@ -993,6 +1035,14 @@ cloud branches").
 - A heredoc in the Bash tool fails on an unbalanced apostrophe even when it
   is quoted. Write any script that holds prose with the Write tool and run
   the file.
+- A heredoc also eats backslashes and turns "\'" into "'" (2026-10-16):
+  a Python patch with regular expressions or escaped quotes, sent through
+  a heredoc, half-applied twice in one sitting. Use the Edit tool for such
+  changes, or Write the script whole.
+- **`regenerate.py` has no `--help`**: it ignores unknown arguments and
+  rebuilds every holding (it was started that way by mistake on
+  2026-10-16 and stopped; nothing tracked changed). Read its docstring
+  instead (`--unit <slug>`, `--site`).
 - The session's scratch folder can be withdrawn in the middle of a sitting.
   One-shot scripts worth a second look go into `scratch/` at the project
   root, which git ignores.

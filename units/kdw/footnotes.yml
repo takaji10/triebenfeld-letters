@@ -1,0 +1,93 @@
+# The footnotes of the Kodeks entries, as the site shows them (the editor,
+# 2026-10-16: "Style them as footnotes for the site so that it looks proper.
+# Don't try to amend any of the transcription").
+#
+# In the editor's file a footnote marker stands glued to its word
+# ("Mezeconis1", "quatuordecimoa", "Zagorowo,1)") and each note begins with its
+# marker ("1Mieszko III ...", "atak Kop. ..."). Nothing in the text changes:
+# this file says where the markers are, and build_site_data.py raises them
+# (<sup class="fn">) and sets the note lines apart (<span class="fn-note">).
+# verify_site.py reads through that markup when it checks the text.
+#
+# Per document number:
+#   markers  a piece of the text with the marker in braces, unique in the
+#            document once the braces are taken out
+#   notes    the beginning of a note line, its marker in braces; it must
+#            begin exactly one line of the document
+#   unmatched  markers or notes that have no partner, and why
+#
+# Checked by units/kdw/intake/check_footnotes.py. Volumes 1 to 3 have no
+# markers (their last line is the editors' list of place names).
+
+"6":     # vol. 6 no. 27
+  markers: ["Mezeconis{1},", "Kosczol{2},", "Dolan{3},", "Morscho{4},", "Cloba{5} et", "Gotschene{6}.",
+            "cum cocis{7},", "stabulariis{8},", "camerariis{9},", "piscatoribus{10},", "Wiranouo{11}.",
+            "Quascouo, {12},", "Choren{13},", "Staralancha{14},", "Suinareuo{15}.", "Siraz{16} et",
+            "Vladislau{17} per", "Poloniam{18},", "Chleu{19},", "Thur{20}.", "Sobotka{21},",
+            "cancellario Kalisiensi{22},", "venatore Kalisiensi{23},", "pincerna Poznaniensi{24},",
+            "conarski Kalisiensi{25},", "procuratore Kalisiensi{26},", "curie nostre{27}."]
+  notes: ["{1}Mieszko", "{2}Kościół", "{3}Dolany", "{4}Morsko", "{5}Kłobia", "{6}Choceń", "{7}Zapewne",
+          "{8}Rzgów", "{9}Grabienice", "{10}Sławsk", "{11}Wiranowo", "{12}Wiranowo", "{13}Chorzeń",
+          "{14}Stara", "{15}Może", "{16}Sieradz", "{17}Włocławek", "{18}Polonia", "{19}Chlew",
+          "{20}Chlew", "{21}Chlew", "{22}Andrzej", "{23}Żegota", "{24}Piotrek", "{25}Naszan",
+          "{26}Chwalisz", "{27}Tylo"]
+
+"12":    # vol. 6 no. 283
+  markers: ["Kalisiensis{1} notum", "de Lang{2}", "de Land{3}", "Poznaniensis{4} et strennuorum",
+            "capitanei Polonie{5},", "Santocensi{6},", "Franczkone pincerna{7},", "Poznaniensibus{8}",
+            "archidiaconi Poznaniensis{9},", "cantoris Poznaniensis{10},", "Vronczino{11}"]
+  notes: ["{1}Mikołaj", "{2}Piotr", "{3}Klucznik", "{4}Jan Kropidło", "{5}Peregryn", "{6}Dziersław",
+          "{7}Franciszek", "{8}Stefan", "{9}Wojciech", "{10}Mikołaj", "{11}Wrąbczyn"]
+
+"14":    # vol. 5 no. 117
+  markers: ["Zagorowo,{1)}"]
+  notes: ["{1)}Zagorów"]
+
+"15":    # vol. 5 no. 191
+  markers: ["Sagorowo,{1)}", "Cownathi{2)} villa"]
+  notes: ["{1)}Zagorów", "{2)}Kownaty"]
+
+"16":    # vol. 7 no. 733
+  markers: ["{a}In nomine", "abbas{b} et", "nutu{c} quocienscumque", "Gneznensis{1} signifi",
+            "dyocesis{2} ecclesiam", "dicte dyocesis{3} |", "duodecimi{4}", "in Zagorowo{5} ad",
+            "Johanne priore{6},", "in Landa{7},", "Goblino bursario{8},", "celerario{9} et",
+            "Gerardo fratribus{10}", "heredibus{11}", "Zagorowo{12} testibus", "notarius{13},"]
+  notes: ["{a}inicjał", "{b}abb as", "{c}odczyt", "{2}Opat", "{3}Zagórów", "{4}Grzegorz", "{5}Pleban",
+          "{6}Przeor", "{7}Pleban", "{8}Gobelin", "{9}Zewrzyd", "{10}Gerard", "{11}Kiki",
+          "{12}Przybysław", "{13}Maciej"]
+  unmatched:
+    "1": "The note to marker 1 stands in the editor's file on the line of note c, without its own
+      number: \"codczyt niezupełnie pewny Mikołaj Kicki, zob. wyżej, nr 439/8.\" The second half is
+      note 1. The line is shown as it is."
+
+"17":    # vol. 7 no. 755
+  markers: ["quatuordecimo{a},", "[de{b}]", "generalis{1}", "Golczewo{2}", "Landensis{3} rite",
+            "Gunice{4}", "Trambczyno{5}", "ibidem{6}", "Kuchary{7}", "Swinary{8}", "Grabienice{9} et"]
+  notes: ["{a}tak Kop.", "{b}brak Kop.", "{1}Jan ze", "{2}Gulczewo", "{3}Opat", "{4}Piotr",
+          "{5-6}Trąbczyn", "{7}Kuchary", "{8}Świniary", "{9}Grabienice"]
+
+"18":    # vol. 5 no. 280
+  markers: ["Wronczino{1)}", "Drzewcza,{2)}"]
+  notes: ["{1)}Wronczyn", "{2)}Drzewce"]
+
+"19":    # vol. 11 no. 2000
+  markers: ["quinto{a},", "Msinchne{b}", "Cruschui(censis){1}", "Trambczino{2},", "canonico{3}",
+            "Nyewesch decanum{4}", "Wladislau(ienses){5}", "Drya decanum{6}", "Poznanien(ses){7}",
+            "Jo(hannes){8}"]
+  notes: ["{a}tak Kop., zamiast", "{b}tak Kop.", "{1}Trąbczyn", "{2}Jan z", "{3}Jarand", "{4}Jan syn",
+          "{5}Świętosław", "{6}Maciej", "{7}Mikołaj", "{8}Notariusz"]
+
+"20":    # vol. 10 no. 1520
+  markers: ["XLXVIII{a} gr", "assecuran(tes){b}", "fidelem{1}", "Wraczina{2},", "Nadomirz{3}",
+            "Pizdrensi{4}", "quadragesimo{5}.", "Wlad(islauiensis){6}"]
+  notes: ["{a}tak Kop., zamiast XLVIII", "{b}tak Kop., zamiast assecurare", "{c}tak Kop.", "{1}Stanisław",
+          "{2}Wrąbczynek", "{3}Wrąbczynek", "{4}Wrąbczynek", "{5}Data", "{6}Mikołaj"]
+  unmatched:
+    "c": "Note c has no marker in the editor's file: the letter is not in the text, probably lost in
+      the electronic edition. The note is shown without a link."
+
+"21":    # vol. 10 no. 1532
+  markers: ["Bartassii{a}", "{b-c}damus", "emolimentis{d}", "Pietrzikow{1}", "Niedomirz{2}",
+            "Borzikowo{3}", "Pizdrensis{4}", "Plomikowski{5}", "quadragesimo{6}.", "Tanczin{7}"]
+  notes: ["{a}tak Kop.", "{b-c}tak Kop.", "{d}tak Kop.", "{1}Zob.", "{2}Zob.", "{3}Zob.", "{4}Zob.",
+          "{5}Bartosz", "{6}Data", "{7}Andrzej"]

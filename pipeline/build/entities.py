@@ -159,6 +159,14 @@ def load_people():
                         _Rx(re.compile(_ANCHOR % e['issuer_match'], re.UNICODE),
                             only_in=set(e.get('issued_in') or []))))
 
+    # A long-tail name that is another person in some documents is shut out of
+    # them by `seed_not_in:` in reference/people.yml ({name: [uids]}): "Otto" of
+    # the correspondence is not Otto of Trąbczyn in the Kodeks Dyplomatyczny
+    # Wielkopolski (2026-10-16). A curated pattern for the second man must not
+    # match the bare name, or it would hide the first everywhere (`covered`).
+    import yaml
+    with open(os.path.join(ROOT, 'reference', 'people.yml'), encoding='utf-8') as f:
+        seed_not_in = (yaml.safe_load(f) or {}).get('seed_not_in') or {}
     seeds = os.path.join(ROOT, 'reference', 'name_seeds.json')
     if os.path.isfile(seeds):
         with open(seeds, encoding='utf-8') as f:
@@ -181,7 +189,10 @@ def load_people():
                 # place Emilienheim, not Emilie (2026-10-14).
                 pat = (re.escape(name) + r'(?:s|n|en|es|sche\w*|ische\w*)?'
                        r'(?![a-zà-ÿ¬])(?!-[A-ZĄĆĘŁŃÓŚŹŻ])')
-                out.append((slug, name, re.compile(_ANCHOR % pat, re.UNICODE)))
+                rx = re.compile(_ANCHOR % pat, re.UNICODE)
+                if seed_not_in.get(name):
+                    rx = _Rx(rx, not_in=set(seed_not_in[name]))
+                out.append((slug, name, rx))
     return out
 
 

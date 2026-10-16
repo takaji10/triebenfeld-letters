@@ -214,7 +214,7 @@ def main():
             shown = english_table(tables[pad], segs) if not dropped else None
             if shown:
                 for seg in segs:
-                    seg['html'] = english_forms.apply(shown[int(seg['page'])])
+                    seg['html'] = english_forms.apply(shown[int(seg['page'])], pad=pad)
             else:
                 print(f'  !! {pad}: the English did not keep the rows and figures '
                       f'of the table - published as plain text')

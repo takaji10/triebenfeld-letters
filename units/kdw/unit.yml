@@ -23,8 +23,8 @@ title_de: >-
   Herausgeber.
 archive_title: >-
   Kodeks Dyplomatyczny Wielkopolski (Codex diplomaticus Maioris Poloniae)
-date_span: "984-1444"
-status: draft              # draft | transcribed | translated | published
+date_span: "1173-1440"      # the documents' dates (the Kodeks itself runs from 984 to 1444)
+status: translated        # draft | transcribed | translated | published
 published_tag: ""
 
 # The era of the Middle Ages, a working name until the editor names it
@@ -69,7 +69,8 @@ translation_note: >-
   (heading, summary, sources), then the medieval text, then their notes. The
   editors' summary is Latin in volumes 1 to 5 and Polish in 6 to 11; the
   sources use their abbreviations (Or. original, Kop. copy, Wyd. edition,
-  Reg. regest). "^1" is a footnote mark; "[s. 443]" is the page of the
+  Reg. regest). The raised numbers and letters are the editors' footnote
+  marks, and the notes stand at the end of the entry; "[s. 443]" is the page of the
   manuscript the editors printed from. Names of places are given as the
   document writes them, and the notes say what place the editors take them
   to be.

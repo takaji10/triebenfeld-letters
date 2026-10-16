@@ -19,13 +19,15 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 592 Dokumente auf 1.984 Handschriftenseiten aus den Jahren 1589 bis
-1936. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
+Die Edition enthält 613 Dokumente auf 2.005 Seiten aus den Jahren 1173 bis 1936. Die
+ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
+gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
+Konin und Kalisch zum Streit
 zwischen Trąbczyn und dem Nachbargut Łukom, als Trąbczyn der Familie Prusimski gehörte: Eine
 Kommission entschied 1775 über die Grenze, und das Krontribunal legte sie 1782 endgültig fest. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
 preußischer Ministerien. Zu jedem Dokument gibt sie:
 
-- den Text in seiner Originalsprache, nach der Handschrift transkribiert;
+- den Text in seiner Originalsprache, nach der Handschrift oder dem Druck transkribiert;
 - eine englische Übersetzung;
 - eine kurze Zusammenfassung, englisch und deutsch;
 - die Aufnahme jeder Handschriftenseite neben ihrem Text.
@@ -37,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus vierundvierzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus fünfundvierzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -65,14 +67,16 @@ Die Dokumente stammen aus vierundvierzig Beständen in sechs Archiven und einer 
   und 1791, über die Pfarrei Trąbczyn und die Seelen der Nachbarpfarrei Zagórów;
 - der **Bibliothek Kórnik der Polnischen Akademie der Wissenschaften**, in ihrer digitalen
   Ausgabe: einem Bericht der Warschauer Zeitung Kuryer Polski von 1754 über das Begräbnis
-  Paweł Prusimskis in Trąbczyn.
+  Paweł Prusimskis in Trąbczyn, und einundzwanzig Einträgen des Kodeks Dyplomatyczny
+  Wielkopolski, der gedruckten Edition der mittelalterlichen Urkunden Großpolens, von 1173 bis
+  1440, wiedergegeben nach seinem elektronischen Text, ohne Seitenbilder.
 
 Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit seiner
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
 sein Text bearbeitet wurde.
 
 Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, neunzehn polnisch und
-sechsundachtzig lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
+hundertsieben lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
 beiden Sprachen, und einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
 
@@ -148,7 +152,7 @@ Die Edition enthält 883 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 587 von 592. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 608 von 613. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

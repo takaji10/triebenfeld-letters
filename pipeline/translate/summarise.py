@@ -342,7 +342,7 @@ def build():
     # money abbreviations written out, Fr. d'or as Friedrich d'or.
     if os.path.basename(DEST) == 'summaries.yml':
         import english_forms
-        out = {k: english_forms.apply(v) for k, v in out.items()}
+        out = {k: english_forms.apply(v, pad=k) for k, v in out.items()}
     # A project-wide file rebuilt from a unit-scoped walk once wrote a file of
     # 32 summaries over one of 345 and said nothing about it. The guard against
     # that used to be "never write fewer than last time", which also refuses a

@@ -138,7 +138,8 @@ people:
     render: "Gelanski"
     match: "Florian|Gelanski"
     # In the decree of 1776 "Florian" is Florian Junosza Drewnowski, secretary of the parliament of 1774.
-    not_in: [app53170koningr145-1]
+    # "beati Floriani", the saint, in the Kodeks Dyplomatyczny Wielkopolski (1243).
+    not_in: [app53170koningr145-1, kdw-3]
     tier: ""
     variants:
       - {form: "Florian", canon: false}   # a given name, not a misspelling
@@ -826,7 +827,9 @@ people:
     match: "Simon"
     # In the decree of 1776 "Simon" is Simon Szaunski, who presented it at Brześć Kujawski;
     # in the Konin register of 1781-82 the feast of SS Simon and Jude and the messenger Simon Głabik.
-    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1]
+    # In the Kodeks Dyplomatyczny Wielkopolski "Simon" is the castellan of Gniezno (1261) and the
+    # father of Janko (1276).
+    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1, kdw-4, kdw-5]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."
@@ -1919,3 +1922,124 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "\"Jmć X. Głowiecki Opat Łędzki\", the Cistercian abbot of Ląd (the print's Łęd; the editor, 2026-10-16), invited to sing the High Mass at the funeral of Paweł Prusimski at Trąbczyn on 5 December 1754 and kept away by an unexpected frost on the Warta (Kuryer Polski 1754, nr 75). Added 2026-10-16."
+  # --- Kodeks Dyplomatyczny Wielkopolski, added 2026-10-16 ------------------
+  # Only people tied to Trąbczyn (the editor). Each is matched only in the
+  # entry that names him or her, by a pattern that needs the context: a bare
+  # first name would hide other people of that name (entities.py, `covered`).
+  janko-syn-szymona:
+    display: "Janko, son of Szymon"
+    render: "Janko son of Szymon"
+    match: 'Ianchon\w*'
+    only_in: [kdw-5]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"comes Iancho filius Simonis\", to whom Duke Bolesław had once given Trąbczyn; he died without children and the village returned to the duke (Kodeks Dyplomatyczny Wielkopolski I, no. 460, 1276). Added 2026-10-16."
+  mikolaj-pleban-sroda:
+    display: "Mikołaj, parish priest of Środa"
+    render: "Mikołaj"
+    match: 'Nicholao(?= qui viam)|Nicholay(?= plebani)'
+    only_in: [kdw-5]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"dominus Nicholaus ... plebanus quondam de Sroda\", to whom Duke Bolesław gave Trąbczyn after Janko son of Szymon; he died without heirs (Kodeks Dyplomatyczny Wielkopolski I, no. 460, 1276). Added 2026-10-16."
+  mikolaj-podskarbi-ladzki:
+    display: "Mikołaj, treasurer of Ląd"
+    render: "Count Mikołaj"
+    match: 'Nicholay(?= tesaurarii)|Nicolao(?=, thesaurario)'
+    only_in: [kdw-5]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"comes Nicholaus tesaurarius noster de Lenda\", the duke's treasurer at Ląd, to whom Duke Bolesław, with his son Przemysł and his wife Jolenta, gave the village of Trąbczyn by hereditary right at Dłusk on 27 March 1276, free of the ducal dues (Kodeks Dyplomatyczny Wielkopolski I, no. 460). Added 2026-10-16."
+  jan-z-trabczyna-1346:
+    display: "Jan, heir of Trąbczyn (1346)"
+    render: "Jan"
+    match: 'Iohannis(?= et Prze[dt]pelkonis)'
+    only_in: [kdw-9]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Jan, with his brother Przedpełk heir of Trąbczyn (\"Iohannis et Przetpelkonis fratrum, heredum de Trampczino\"), whose claim to Stropiszyn and Pępocin the land judge of Gniezno and Kalisz rejected at Pyzdry on 13 November 1346 (Kodeks Dyplomatyczny Wielkopolski II, no. 1252). Added 2026-10-16."
+  przedpelk-z-trabczyna:
+    display: "Przedpełk, heir of Trąbczyn"
+    render: "Przedpełk"
+    match: 'Prze[dt]pelkon\w*'
+    only_in: [kdw-9]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Przedpełk, with his brother Jan heir of Trąbczyn, whose claim to Stropiszyn and Pępocin was rejected at Pyzdry on 13 November 1346 (Kodeks Dyplomatyczny Wielkopolski II, no. 1252). Added 2026-10-16."
+  andrzej-z-trabczyna-1346:
+    display: "Andrzej, heir of Trąbczyn (1346)"
+    render: "Andrzej"
+    match: 'Andre(?:e|ae)(?= (?:de Trampczino|heredis de Trąbczyn))'
+    only_in: [kdw-10]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Andreas de Trampczino heres\", who sued with all his kin for Stropiszyn and Pępocin and was put to perpetual silence at Pyzdry on 13 November 1346 (Kodeks Dyplomatyczny Wielkopolski II, no. 1253). Added 2026-10-16."
+  jan-pleban-trabczyna:
+    display: "Jan, parish priest of Trąbczyn (1399)"
+    render: "Jan"
+    match: 'Iohann\w*(?= (?:rectorem|plebano|plebani))'
+    only_in: [kdw-13]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Iohannes rector ecclesie in Trapczyno\", against whom the Archbishop of Gniezno adjudged the sheaf tithe of Trąbczyn to the abbey of Ląd on 13 October 1399 (Kodeks Dyplomatyczny Wielkopolski III, no. 2014). Added 2026-10-16."
+  mikolaj-z-trabczyna-1415:
+    display: "Mikołaj of Trąbczyn (1415)"
+    render: "Mikołaj of Trąbczyn"
+    match: 'Nicolao(?= de Trambczyno)|Mikołaj(?= wyst\. od 1402)'
+    only_in: [kdw-17]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Nicolaus de Trambczyno\", a witness at Gniezno on 16 April 1415; the editors: documented from 1402, later deputy standard-bearer of Gniezno 1434-1440 (Kodeks Dyplomatyczny Wielkopolski VII, no. 755, note 5-6). Added 2026-10-16."
+  andrzej-z-trabczyna-1415:
+    display: "Andrzej of Trąbczyn (1415)"
+    render: "Andrzej of Trąbczyn"
+    match: 'Andrea(?= de ibidem)|Andrzej(?= wyst\. 1414)'
+    only_in: [kdw-17]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Andreas de ibidem\", of Trąbczyn, a witness at Gniezno on 16 April 1415 beside Mikołaj of Trąbczyn; the editors: documented 1414 to 1428 (Kodeks Dyplomatyczny Wielkopolski VII, no. 755, note 5-6). Added 2026-10-16."
+  otto-z-trabczyna:
+    display: "Otto, heir of Trąbczyn"
+    render: "Otto"
+    match: 'Otthe(?= heredis)|Otto(?=, Ota)'
+    only_in: [kdw-19]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Otto heres in Trampczino\", in whose house at Trąbczyn his son Wojciech made his brother Jan his proxy on 15 May 1434; the editors: documented to 1426 (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000, note 1). Added 2026-10-16."
+  mscichna-z-trabczyna:
+    display: "Mścichna, wife of Otto of Trąbczyn"
+    render: "Mścichna"
+    match: 'Msinchne\w*|Mścichna'
+    only_in: [kdw-19]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"nobilis Msinchna conthoralis Otthe heredis in Trampczino\", in whose house at Trąbczyn the act of 15 May 1434 was made (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000). Added 2026-10-16."
+  wojciech-z-trabczyna:
+    display: "Wojciech of Trąbczyn, canon of Kruszwica"
+    render: "Wojciech of Trąbczyn"
+    match: 'Albert(?:us|um)(?= (?:Otte|ab una))|Wojciech(?= z Trąbczyna)|Wojciech(?= kanonik)|Wojciecha(?= i młodszego)'
+    only_in: [kdw-19]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Albertus Otte de Trampczino canonicus Cruschuicensis\", son of Otto, who on 15 May 1434 at Trąbczyn made his brother Jan his proxy to collect 70 Hungarian florins from Jarand, scholastic of Kruszwica (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000). Added 2026-10-16."
+  jan-z-trabczyna-1434:
+    display: "Jan of Trąbczyn, son of Otto"
+    render: "Jan of Trąbczyn"
+    match: 'Johannem(?= suum germanum)|Jana(?= z Trąbczyna)|Jan(?= z Trąbczyna syn)'
+    only_in: [kdw-19]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"Johannes suus germanus, heres in Trambczino\", son of Otto, made proxy by his brother Wojciech on 15 May 1434; the editors find him hard to tell from a namesake at Trąbczyn at the same time (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000, note 2). Added 2026-10-16."
+  tomasz-ocic:
+    display: "Tomasz Ocic of Trąbczyn"
+    render: "Tomasz Ocic"
+    match: 'Tomasza Ocica'
+    only_in: [kdw-19]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Tomasz Ocic, the younger son of Otto of Trąbczyn, named by the editors (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000, note 2). Added 2026-10-16."
+
+# Long-tail names (reference/name_seeds.json) shut out of named documents.
+seed_not_in:
+  # Otto of Trąbczyn (otto-z-trabczyna), not the Otto of the correspondence.
+  Otto: [kdw-19]

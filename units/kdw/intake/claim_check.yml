@@ -1,0 +1,162 @@
+# The claim check of the German summaries of the Kodeks Dyplomatyczny Wielkopolski
+# entries, made in session on 2026-10-16 under the rules read_letters.py --verify
+# gives its checker: each statement held to the document (the Latin text and the
+# editors' regest, description of the sources and notes), as supported, overstated
+# or unsupported, and the summary only weakened or cut.
+#
+# Result: 107 statements, all supported, after two summaries were corrected before
+# they were written out: in document 4 the first draft listed Kopojno among the
+# abbey's estates (the text names it only as a boundary) and gave Świątniki as if
+# the text had it (the text has Rzgowo with the sanctuarii; Świątniki is the
+# editors' identification of the sanctuarii); in document 6 Świątniki is likewise
+# marked as the editors'. "where" quotes the passage found. Dates and places are the
+# editors' headings, which read the dateline. Names stand in the edition's forms.
+
+kdw-001:
+- {claim: "Herzog Mieszko von Polen schenkt dem Zisterzienserkloster Ląd, seiner Gründung", verdict: supported, where: "Mesico dux Polonie"}
+- {claim: "auf Bitten des Abtes Bertold", verdict: supported, where: "Bertoldi"}
+- {claim: "das Gut „parvum Vronchin“, heute Wrąbczynek", verdict: supported, where: "parvum Vronchin"}
+- {claim: "mit Salz, Seen, Fischerei und Jagd, frei von allen polnischen Rechten, zu erblichem Besitz", verdict: supported, where: "sale, lacubus, piscacione ac venacione, aliisque usibus in presenciarum in ibi existentibus et in posterum accrescentibus, ab omnibus iuribus Polonie absolutam quibuscunque censeantur nominibus, iure here"}
+- {claim: "Gnesen, 31. August 1173", verdict: supported, where: "Gnezna; donat hereditatem Wrąbczynek monasterio de Ląd. Pergam. orygin. Brzeg dolny założony okazuje 4 dziurki od przywieszen"}
+- {claim: "nach dem Original im Besitz der Fürsten Czartoryski", verdict: supported, where: "Czartoryskich. Diplomata, Vol. I. Nr. 1. In nomine Domini amen. Memorie o"}
+- {claim: "die Schrift scheint nach den Herausgebern aus der ersten Hälfte des 13. Jahrhunderts zu sein", verdict: supported, where: "Pismo zdaje się z pierwszej połowy XIII wieku. Pieczęć znikła. Bibl. XX. Czartoryskic"}
+
+kdw-002:
+- {claim: "Erzbischof Fulko von Gnesen gibt dem Kloster Ląd die Zehnten der Kapellen St. Peter und St. Andreas", verdict: supported, where: "Fulco Gneznens. ecclesie archiepiscop. 1240 (sic) Sept. 30, s. l.; confert monasterio"}
+- {claim: "darunter die aus Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom und Wrąbczyn", verdict: supported, where: "Zagorovo, Skokome, Kopanino, Trampczino, Szetlevo, Lukome, Wronczino; que decime quocunque iure excollantur, sive ville dividant"}
+- {claim: "auch wenn die Dörfer geteilt, verlegt oder anders genannt werden", verdict: supported, where: "dividantur sive transponantur vel alio nomine nuncupentur, totum quod iuris nostri esse poterit, libenti animo"}
+- {claim: "Ohne Ort, 30. September 1240; die Herausgeber setzen „sic“ zum Jahr", verdict: supported, where: "(sic) Sept. 30, s. l.; confert monasterio de Ląd decimas capellar"}
+- {claim: "aus dem Privilegienbuch B von Ląd", verdict: supported, where: "Lib. privil. B, Nr. 38"}
+
+kdw-003:
+- {claim: "Herzog Przemysł von Polen gibt mit seinem Bruder Bolesław und ihrer Mutter Jadwiga das Spital von Gnesen", verdict: supported, where: "Premisl dux Polonie 1243 Mai. 4, in ecclesia hospitalis in Gnezna; tradit una cum fratre suo duce Boleslao hospitale in Gniezno, amplissime bonis dotatum, sub regimen sancti Sepulchri domus Miechoviensis. Po"}
+- {claim: "den Kanonikern vom Heiligen Grab in Miechów unter ihrem Propst Heinrich", verdict: supported, where: "Sepulchri domus Miechoviensis. Poznań. Königl. Staats Arch. Fascicul. Mączniki, B. IV. (Kopia z XVIII w. sporządzona z oryginału opatrzonego pieczęcią) - Nakielski, Miec"}
+- {claim: "mit Zustimmung des Erzbischofs Fulko", verdict: supported, where: "Fulcone archiepiscopo Gneznensi et suo Capitulo, consilio quoque baronum nostrorum, ded"}
+- {claim: "das Spital soll Kranke und arme Schüler versorgen", verdict: supported, where: "infirmi cuncti elemosinarum indigentes, non raptores, non violenti, debent pro facultate domus recreari. Aliqui eciam scolares pauperes ibidem tenebuntur confoveri in expensis, non in vestimentis, ex volunta"}
+- {claim: "Die Dörfer des Spitals werden aufgezählt und von Lasten befreit", verdict: supported, where: "ville hospitalis istius: Zdechova cum suis ascriptis, Leccovo, Chemelino, Pawlowo cum lacu nomin"}
+- {claim: "Gnesen, in der Spitalkirche, 4. Mai 1243", verdict: supported, where: "1243-05-04  Gniezno # /documents/kdw/3/  Dokument Nr 238 Premisl"}
+- {claim: "Keines der Güter um Trąbczyn kommt darin vor", verdict: supported, where: "ville hospitalis istius: Zdechova cum suis ascriptis, Leccovo, Chemelino, Pawlowo cum lacu nomine Prenevo, et Preseca, Cymellowo, Ugasd, taberne in Clech, et Ielemno cum pleno lacu et molendino et cum castoribus libere c"}
+
+kdw-004:
+- {claim: "Herzog Bolesław von Polen bestätigt dem Kloster Ląd die Güter und Freiheiten, die Herzog Mieszko ihm bei der Gründung 1145 gegeben hatte, und fügt neue hinzu", verdict: supported, where: "1145 occasione fundationis ipsius factas, eisque pro sua parte novas adiicit. Poznań. Königl. Staats Archiv. Ląd, Lib. privi"}
+- {claim: "Darunter sind Szetlew mit den Köchen, Rzgów mit den Kirchendienern (nach den Herausgebern Świątniki)", verdict: supported, where: "Szethowo cum cocis, Rzgowo cum sanctuariis et stabulariis, Grabienice cum camerariis, Slavsko cum piscatoribus, Wiramowo, Kwasko"}
+- {claim: "und Zagórów, Skokum und Oleśnica, die polnische Adlige dem Kloster gegeben hatten", verdict: supported, where: "nobiles Polonie ipsis hereditario iure collatas, scilicet Skarbossewo, Marcinkowo, Iarossyno, Gorzyza, Zagorowo, Skokom, Oleszyno. Et ob remissionem nostrorum peccaminum absolvimus omnes homines in prefatis"}
+- {claim: "Kopojno nennt eine Grenze", verdict: supported, where: ", a terminis antiqui castri usque in Dretino episcopi et in alia parte usque in Capayn, cum piscationibus, utilitatibus et cas"}
+- {claim: "Sechowa, 10. Dezember 1261", verdict: supported, where: "Sechowa # /documents/kdw/4/  Dokument Nr 393 Bolezlavus dux Polonie 1261 Dec. 10, in Se"}
+- {claim: "aus dem Privilegienbuch B von Ląd", verdict: supported, where: "Lib. privil. B, Nr. 4"}
+
+kdw-005:
+- {claim: "Herzog Bolesław von Polen gibt das Dorf Trąbczyn („Trupcino“) dem Grafen Mikołaj, Schatzmeister von Ląd, und seinen Erben", verdict: supported, where: "ra domina Iolentha, prospectis fidelibus serviciis comitis Nicholay tesaurarii nostri de Lenda, finaliter ac intencione pura contulimus sibi nostram villam que Trupcino nominatur, sibi suisque posteris iure hereditario i"}
+- {claim: "frei von den herzoglichen Lasten", verdict: supported, where: "liberamusque sepius villam predictam ab hiis solucionibus: a bove, a vacca, ab opole, a castro, a poradlne, a strosa, a podvorove, a"}
+- {claim: "Das Dorf hatte der Herzog zuvor dem Grafen Janko, Sohn des Szymon, und dann einem Priester Mikołaj gegeben, die beide ohne Erben starben", verdict: supported, where: "Ianchoni filio Simonis quondam dederamus qui mortuus est prolem non habendo, sic iterum ad nos cessit villa fata .. (sic) dederamusque villam nominatam domino Nicholao qui viam universe carnis est ingressus s"}
+- {claim: "Dłusk, 27. März 1276", verdict: supported, where: "Dluscho; confert comiti Nicolao, thesaurario de Ląd, villam Trąbczyn. Pergam. orygin. N"}
+- {claim: "nach dem Original mit den Siegeln der Herzöge Bolesław und Przemysł", verdict: supported, where: "pieczęcie. Pierwsza Bolesława księcia, (pieczęć XVI); druga znikła, pozostało tylko pasmo nici jedwabn.; trzecia Przemysława księcia, (pieczęć XXI). Biblioteka XX. Czartoryskich. Diplomata. In nomine Domini am"}
+
+kdw-006:
+- {claim: "Herzog Przemysł II. erneuert das Privileg Herzog Mieszkos für das Kloster Ląd", verdict: supported, where: "privilegium gloriosi | proavi nostri, domini ducis Polonie Mezeconis"}
+- {claim: "er bestätigt dessen Dörfer mit ihren Leuten, Abgaben und Diensten", verdict: supported, where: "confirmantes prefatis fratribus has hereditates subscriptas cum hominibus et omnibus utilitatibus, que in eis sunt ac in posterum pr"}
+- {claim: "darunter Szechouo mit den Köchen (nach den Herausgebern wohl Szetlew)", verdict: supported, where: "Szechouo cum cocis7, Irgouo cum sanctuariis et stabulariis8, Grabono"}
+- {claim: "und Irgouo mit den Kirchendienern (nach den Herausgebern Świątniki)", verdict: supported, where: "Irgouo cum sanctuariis et stabulariis8, Grabonowiz cum camerariis9, Slausco cum piscat"}
+- {claim: "drei Märkte mit Krügen", verdict: supported, where: "tria fora cum tabernis Chleu19, Thur20. Sobotka21, confirmamus eciam tabernarios harum vi"}
+- {claim: "und befreit die Leute von allen herzoglichen Lasten und Gerichten", verdict: supported, where: "absolvimus omnes homines in premissis villis conmorantes a pouoz, ab omni preuod, a stroza, a dan, a nar"}
+- {claim: "Kalisch, 18. Oktober 1280", verdict: supported, where: "Kalisz # /documents/kdw/6/  Dokument Nr 27 Kalisz, 18 październik"}
+
+kdw-007:
+- {claim: "Herzog Przemysł II. von Großpolen bestätigt den Tausch der Güter des Klosters Ląd, Głowiew, Sławsk und Chocicza, gegen das Gut Kopojno des Grafen Sędziwój, Unterkämmerers", verdict: supported, where: "hereditatum monasterii Ląd, vocatarum Głowiew, Sławsk et Chocicza, cum hereditate comitis Sendyvoii subcamerarii, dicta Kopojno, quam amplissimis munit privilegiis. Pergam. orygin. Na grubym sznurze nici jed"}
+- {claim: "und stattet Kopojno mit den weitesten Freiheiten aus", verdict: supported, where: "liberam et exemptam ab omni iure Polonico quocunque nomine censeatur, filiis dicti Sendivoii, scilicet Iancone et Martino, ad q"}
+- {claim: "Gnesen, 21. Oktober 1291", verdict: supported, where: "Gnezna; roborat commutationem hereditatum monasterii Ląd, vocatarum Głowiew, Sławsk et"}
+- {claim: "nach dem Original", verdict: supported, where: "Pergam. orygin."}
+
+kdw-008:
+- {claim: "Herzog Przemysł II. von Polen bestätigt einen fünf Jahre früher geschlossenen Tausch", verdict: supported, where: "quinque annos factam. Pergam. orygin. Na niciach jedwabn. czerwon. przywieszona pieczęć Przemysława księcia; (pieczęć XXVI). Wa"}
+- {claim: "Wojsław, Sohn des Gosław, gibt sein Gut Niałek gegen die Güter Wrąbczyn („Wroncino“) und Bieganin des Wisław, Sohn des Gerlach", verdict: supported, where: "efatus Wisslaus, suscipiens hereditatem Woysslay supra nominati nominatam vulgariter Nalcho, duas hereditates proprias, Wroncino quam cum Pribislao filio Luthognevi commutaverat, et Beganino donavit et resignavit racione"}
+- {claim: "Kalisch, 29. September 1292", verdict: supported, where: "Kalisz # /documents/kdw/8/  Dokument Nr 685 Premisl secundus dux Polonie 1292 Sept. 29"}
+- {claim: "nach dem Original", verdict: supported, where: "Pergam. orygin."}
+
+kdw-009:
+- {claim: "Dobiesław, Richter der Länder Gnesen und Kalisch, spricht der Kirche von Gnesen die Güter Stropiszyn und Pępocin zu", verdict: supported, where: "Dobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkon"}
+- {claim: "gegen die Ansprüche der Brüder Jan und Przedpełk, Erben von Trąbczyn", verdict: supported, where: "inum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, do"}
+- {claim: "und das Gut Kokanin gegen die Klage des Pietrasz, Erben von Rzegocin", verdict: supported, where: "Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat. Gniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fo"}
+- {claim: "Pyzdry, 13. November 1346", verdict: supported, where: "Pyzdry # /documents/kdw/9/  Dokument Nr 1252 Dobeslaus iudex terrarum Gneznens. et Kal"}
+- {claim: "aus einem Privilegienbuch des Gnesener Kapitels", verdict: supported, where: "Archiv. Capituli Metropol. Lib. privil. XV sec."}
+
+kdw-010:
+- {claim: "Dobiesław, Richter der Länder Gnesen und Kalisch, spricht der Kirche von Gnesen die Güter Stropiszyn und Pępocin zu", verdict: supported, where: "Dobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pysdri; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Andreae heredis de Trąb"}
+- {claim: "gegen die Ansprüche Andrzejs, Erben von Trąbczyn, und seiner Verwandtschaft", verdict: supported, where: "Pysdri; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Andreae heredis de Trąbczyn eiusque cognatorum adiudicat. Gniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v. Nos Dobeslaus "}
+- {claim: "denen ewiges Schweigen auferlegt wird", verdict: supported, where: "silencium imposuimus, predicto domino Kelczoni et ecclesie Gneznensi"}
+- {claim: "Pyzdry, 13. November 1346, am selben Tag wie das vorige Urteil", verdict: supported, where: "Pyzdry # /documents/kdw/10/  Dokument Nr 1253 Dobeslaus iudex terrarum Gneznens. et Ka"}
+
+kdw-011:
+- {claim: "Przecław, Wojewode von Kalisch, und die anderen Richter erklären vor König Ludwig", verdict: supported, where: "Magnifico principi Lodoyco Ungarie ac Polonie regi, Preczslaus palatinus, Thomislaus iudex, Iohannes castellanus, Nicolaus subcamerarius Kalisiens"}
+- {claim: "dass die Dörfer Wrąbczynek und Adamierz mit der Mühle bei der Stadt Pyzdry seit alters dem Kloster Ląd gehören", verdict: supported, where: "molendino prope civitatem Pyzdry sito, ab antiquo ad monasterium Ląd pertinere. Pergam. orygin. Na skrawkach pergamin. przywieszono 6 małych okrągłych pieczęci. Pierwsza"}
+- {claim: "Gnesen, 27. Mai 1377", verdict: supported, where: "1377 Mai. 27, Gnezdne"}
+- {claim: "nach dem Original mit sechs Siegeln", verdict: supported, where: "Pergam. orygin. Na skrawkach pergamin. przywieszono 6 małych okrągłych pieczęci. Pier"}
+
+kdw-012:
+- {claim: "Mikołaj von Wenecja, Richter von Kalisch", verdict: supported, where: "Wenecji sędzia kaliski przysądza Wrąbczyn(ek) k"}
+- {claim: "spricht in einem Streit zwischen Piotrko, Erben von Łęg, und Rudger, dem Schlüsselträger des Klosters Ląd, dem Kloster die Investitur des Gutes „Vronczino“ zu", verdict: supported, where: "Rudgerus claviger et procurator fratrum et conventus mo- nasterii de Land3 parte ex altera, in presencia reverendi in Christo patris domini Johannis ducis Opoliensis et episcopi Poznaniensis4 et strennuorum m"}
+- {claim: "Piotrko und sein Bruder dürfen es auf dem Rechtsweg weiter fordern", verdict: supported, where: "non removentes Petrkonem nec fratrem ipsius agere contra villam iuridice memoratam. Ita tamen, quod iure possint attemptare villam supradictam,"}
+- {claim: "Nach den Herausgebern ist Wrąbczyn oder Wrąbczynek gemeint", verdict: supported, where: "Wrąbczyn(ek) klasztorowi Cystersów w Lądzie. Or.: Kraków, WAP. D. Dep. 344. Pergamin 229 - 219 × 130 - 126 + 23 mm. Trzy dziury"}
+- {claim: "Posen, 31. Januar 1384", verdict: supported, where: "Poznań, 31 stycznia 1384 Mikołaj z Wenec"}
+- {claim: "nach dem Original", verdict: supported, where: "Or.: Kraków, WAP. D. Dep. 344. Pergamin 229 - 219 × 130 - 126 +"}
+
+kdw-013:
+- {claim: "Erzbischof Dobrogost von Gnesen entscheidet im Streit zwischen dem Kloster Ląd und Jan, dem Pfarrer von Trąbczyn", verdict: supported, where: "Dobrogostius s. Gneznens. ecclesie archiepiscopus 1399 Oct. 13, in stuba murata monasterii Landensis; decimam manipularem de villa T"}
+- {claim: "der Garbenzehnte der Felder des Dorfes Trąbczyn gehört dem Kloster", verdict: supported, where: "decimam manipularem de villa Trąbczyn, monasterio Ląd contra petitionem Iohannis plebani de Trąbczyn adiudicat. Włocławek. Lib. privilegior. monasterii Ląd, pag. 181."}
+- {claim: "In der Steinstube des Klosters Ląd, 13. Oktober 1399", verdict: supported, where: "e archiepiscopus 1399 Oct. 13, in stuba murata monasterii Landensis; decimam manipularem de villa Trąbczyn"}
+- {claim: "aus dem Privilegienbuch von Ląd", verdict: supported, where: "Lib. privilegior. monasterii Ląd, pag. 181"}
+
+kdw-014:
+- {claim: "König Władysław II. von Polen erlaubt dem Abt Gerhard und dem Konvent von Ląd, in ihrem Dorf Zagórów im Bezirk Konin eine Stadt zu gründen", verdict: supported, where: "villa ipsorum dicta Zagorowo,1) in terra nostra Maiori Polonia, in districtu vero Conynensi sita, ciuitatem locare ibidem et efficere perpetuo duraturam, plenam damus e"}
+- {claim: "und gibt ihr deutsches, Magdeburger Recht", verdict: supported, where: "ius Theutunicum, quod Meydeburgense dicitur, transferimus perpetu"}
+- {claim: "befreit von der Gerichtsbarkeit der königlichen Amtsträger", verdict: supported, where: "ab omni iurisdiccione et potestate omnium regni nostri palatinorum, castellanorum, iudicum, subiudicum et quorumuis offic"}
+- {claim: "mit einem Wochenmarkt am Mittwoch", verdict: supported, where: "diem fori ebdomadalis singulis quartis ferijs"}
+- {claim: "Niepołomice, 19. November 1407", verdict: supported, where: "Niepołomice # /documents/kdw/14/  Dokument Nr 117 1"}
+
+kdw-015:
+- {claim: "Abt Gerhard von Ląd tauscht mit Piotr, Schulzen in Nowe Zagórowo, auch Drzewiec genannt, das Schulzenamt in Drzewiec gegen das in Kownaty", verdict: supported, where: "cum prouido viro Petro sculteto in Nouo Sagorowo,1) alias Drzewycz nuncupato, suisque successoribus legittimis, dantes eidem Petro sculteto pretaxato successoribusque legitimis suis mansum cum medio in Cownathi2) villa n"}
+- {claim: "und verkauft ihm dort anderthalb Hufen für zwölf Mark", verdict: supported, where: "vendidimus ac pro presenti vendimus mansum cum medio in Cownathi villa nostra prefixa, pro quibus ipse nobis duodecim marcas latorum grossorum, XLVIII grossos pro qualibet marca computando, de"}
+- {claim: "das Dokument setzt die Freijahre, Zinsen und Dienste des Schulzen und der Bauern von Kownaty fest", verdict: supported, where: "libertatem habebit viginti quatuor annos duraturam, simili modo et kmethones a tempore, quo aduenerint, computando, viginti annos libertatem se nouerint d"}
+- {claim: "Ląd, 30. November 1411", verdict: supported, where: "Datum in monasterio nostro Landa, sub anno Domini M° CCCC° undecimo, in die s. Andree apostoli. Presentibus disc"}
+- {claim: "aus dem Kölner Kopialbuch von Ląd", verdict: supported, where: "Z kolońskiego kopiarza przywileji lądzkicb, karta 29 N. 64 i karta 36 N. 77. 1)Zag"}
+
+kdw-016:
+- {claim: "Notariatsinstrument: Mikołaj Kicki, Archidiakon von Gnesen, beurkundet", verdict: supported, where: "I. N. Mikołaj Kicki archidiakon gnieźnieński poświadcza przekazanie kościoła pa"}
+- {claim: "dass Paweł, Pfarrer von Zagórów, die Pfarrkirche von Zagórów, die der Papst dem Kloster Ląd inkorporiert hatte, dem Abt Gerard und dem Konvent abtritt", verdict: supported, where: "dominus Paulus rector ecclesie prefate in Zagorowo5 ad dictum monasterium habens specialem caritatem ac volens, quod dicta gracia incorporacionis debitum sorciatur effectum, eandem ecclesiam et ipsius possessionem eidem "}
+- {claim: "dafür nimmt das Kloster ihn auf Lebenszeit mit Kost, Kleidung und einem Diener auf", verdict: supported, where: "in domum dicti monasterii graciose assumpsit. Qui pro victu expensarum mensam suam abbacialem, pro amictu vero singulis Quatuor Temporibus per circulum anni unam ma"}
+- {claim: "Ląd, 13. Juni 1414", verdict: supported, where: "Ląd, 13 czerwca 1414"}
+- {claim: "nach dem Original", verdict: supported, where: "Or.: Warszawa, AGAD, dok. perg. 1930. Pergamin 29"}
+- {claim: "Ein Przybysław, Kirchendiener von Zagórów, ist Zeuge", verdict: supported, where: "Przibislao ministro ecclesie de Zagorowo12 testibus ad premissa vocatis specialiter et rogatis. Z. N"}
+
+kdw-017:
+- {claim: "Jan von Szczekociny, Generalstarost von Großpolen, beurkundet", verdict: supported, where: "Nos Joannes de Sczecocini castellanus Lublinensis et capitaneus Maioris Poloniae generalis1 significamus tenore pra"}
+- {claim: "dass die Brüder Swanseck und Supracht von Gulczewo dem Abt Gerhard und dem Konvent von Ląd ihren Grund bei der Kirche St. Laurentius in der Gnesener Vorstadt für sechzehn Mark verkauft haben", verdict: supported, where: "Swanseck et Supracht fratres germani de Golczewo2, non compu"}
+- {claim: "Unter den Zeugen sind Mikołaj und Andrzej von Trąbczyn", verdict: supported, where: "Nicolao de Trambczyno5, Andrea de ibidem6"}
+- {claim: "Gnesen, 16. April 1415; die Abschrift hat 1414, nach den Herausgebern ein Schreibfehler", verdict: supported, where: "atak Kop., ale musi to być pomyłka kopisty (quarto - quinto), bowiem w 1414 r. Jan"}
+
+kdw-018:
+- {claim: "Abt Zygfryd und der Konvent von Ląd tauschen mit dem Bauern Wawrzyniec Jeleniowicz ihr Vorwerk in Groß-Wrąbczyn mit den Wiesen Obroczna und Dokolowka gegen sein Vorwerk in Drzewce", verdict: supported, where: "allodium nostrum in Magno Wronczino cum agris ad ipsum ex antiquo pertinentibus et cum hoc pratis ibidem consistentibus, dictis Obroczna et Dokolowka, pro alio allodio nostro in Drzewcza,2) quod ipse alias a fratre Heinr"}
+- {claim: "und geben ihm für seine Bienenstöcke im Wald zwischen Groß-Wrąbczyn und Zagórów vier Gärtner", verdict: supported, where: "racione mellificiorum suorum, que alias barcz dicuntur, inter hereditates nostras Magna Wronczino et Zagorowe consistencium, que in borra nostra habuit et possedit, ibidem in Magna Wronczino quatuor ortulanos, qui alias "}
+- {claim: "er zahlt anderthalb Mark Zins und hütet den Wald", verdict: supported, where: "pro censu vnam marcam cum media in tali moneta, prout alij sui vicini e"}
+- {claim: "Ląd, 3. Juni 1418", verdict: supported, where: "feria sexta post octauas Corporis Christi, anno Domini M CCCC XVIII. Presentibus"}
+- {claim: "Die Anmerkung der Herausgeber setzt Wronczyn in den Kreis Posen, der Text aber neben Zagórów", verdict: supported, where: "inter hereditates nostras Magna Wronczino et Zagorowe"}
+
+kdw-019:
+- {claim: "Notariatsinstrument: Wojciech, Sohn des Otto von Trąbczyn, Kanoniker von Kruszwica", verdict: supported, where: "Albertus Otte de Trampczino canonicus Cruschui(censis)"}
+- {claim: "bestellt im Haus seiner Mutter Mścichna in Trąbczyn seinen Bruder Jan, Erben in Trąbczyn, zum Bevollmächtigten", verdict: supported, where: "in domo nobilis Msinchneb conthoralis Otthe heredis in Trampcz(i)no constitutus pers"}
+- {claim: "um von Jarand, Scholaster von Kruszwica, siebzig ungarische Gulden einzuziehen", verdict: supported, where: "domino Jerando scolastico Crusuiczensis, Wladislauiensis et Wyeluniensis ecclesiarum canonico3 LXX florenos Vngaricales, occa"}
+- {claim: "die ihm aus einem Vergleich über eine Pfründe in Wieluń zustehen", verdict: supported, where: "occasione concordie per venerabiles dominos Johannem de Nye"}
+- {claim: "Trąbczyn, 15. Mai 1434; die Abschrift hat 1435, nach den Herausgebern statt 1434", verdict: supported, where: "Trąbczyn, 15 maja 1434"}
+
+kdw-020:
+- {claim: "König Władysław III. schreibt Stanisław Czarny 300 Mark auf die königlichen Dörfer Wrąbczynek, Adamierz und Borzykowo im Bezirk Pyzdry", verdict: supported, where: "Król Władysław III zapisuje 300 grzywien na wsiach Wrąbczynek, Adamierz i Borzykowo Stanisławowi Czarnemu. Kop.: Warszaw"}
+- {claim: "bis sie ihm zurückgezahlt sind", verdict: supported, where: "tamdiu, quousque sibi vel suis successoribus legitimis prefatae trecentae marcae ex integro fuer"}
+- {claim: "hundert Mark für ein Pferd, zweihundert für seine Dienste auf der Reise nach Ungarn zur Krönung", verdict: supported, where: "equum seu szpadonem pro centum marcis monetae et numeri Polonicalium per fori"}
+- {claim: "Buda, 10. August 1440", verdict: supported, where: "Datum Budae feria quarta festi sancti Laurentii Martiris anno Domini millesim"}
+- {claim: "aus der Kronmetrik", verdict: supported, where: "Metryka koronna, t. 109, s. 11-12. Oblata 2"}
+
+kdw-021:
+- {claim: "König Władysław III. schreibt Stanisław Czarny von Pietrzyków für seine Dienste bei der Krönung in Ungarn weitere 200 Mark auf die Dörfer Adamierz, Borzykowo und Wrąbczynek", verdict: supported, where: "Stanislai Czarni de Pietrzikow1 a diu nobis et praesertim in adap(ta)t"}
+- {claim: "die er aus der Hand des Bartosz Płomikowski auslösen darf", verdict: supported, where: "de manibus nobilis Bartassiia Plomiko"}
+- {claim: "Buda, 22. November 1440", verdict: supported, where: "Datum Budae feria tercia post festum sanctae Elizabeth"}
+- {claim: "aus der Kronmetrik", verdict: supported, where: "Metryka koronna, t. 109, s. 8-9. Oblata 27"}

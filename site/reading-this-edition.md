@@ -18,14 +18,15 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 592 documents on 1,984 manuscript pages, dated from 1589 to 1936. The
-oldest are entries from the court books of Konin and Kalisz on the quarrel between Trąbczyn
-and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
+The edition holds 613 documents on 2,005 pages, dated from 1173 to 1936. The oldest are
+medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
+of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
+on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
 on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
 letters, royal grants, leases and contracts, court papers, and the files of Prussian
 ministries. For each document it gives:
 
-- the text in its original language, transcribed from the manuscript;
+- the text in its original language, transcribed from the manuscript or the print;
 - an English translation;
 - a short summary, in English and in German;
 - the image of each manuscript page, beside its text.
@@ -37,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-four holdings in six archives and a library:
+The documents come from forty-five holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -63,14 +64,17 @@ The documents come from forty-four holdings in six archives and a library:
   of 1790 and 1791, on the parish of Trąbczyn and the souls of the neighbouring parish of
   Zagórów;
 - the **Kórnik Library of the Polish Academy of Sciences**, in its digital copy: a report in
-  the Warsaw newspaper Kuryer Polski of 1754 on the funeral of Paweł Prusimski at Trąbczyn.
+  the Warsaw newspaper Kuryer Polski of 1754 on the funeral of Paweł Prusimski at Trąbczyn,
+  and twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski, the printed edition of the
+  medieval charters of Greater Poland, from 1173 to 1440, given from its electronic text, without
+  page images.
 
 [Sources]({{ '/sources/' | relative_url }}) lists every holding with its archive reference.
 Each holding has a page of its own that describes what it contains and how its text was
 prepared.
 
 Most of the documents are in German. Twenty-two are in French, nineteen in Polish and
-eighty-six in Latin, the court entries often with passages in the other of the two, and some
+a hundred and seven in Latin, the court entries often with passages in the other of the two, and some
 of the German deeds have passages in Polish and Latin. Each is translated from its own
 language.
 
@@ -142,7 +146,7 @@ There are 883 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 587 of the 592. They were made by
+Every document that has text has an English translation: 608 of the 613. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

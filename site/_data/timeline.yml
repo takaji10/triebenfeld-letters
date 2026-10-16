@@ -22,6 +22,110 @@
 #   refs  : optional, the documents the event rests on, as "<holding>/<number>";
 #           shown as links under the event.
 
+# The Middle Ages (added 2026-10-16): from the entries of the Kodeks Dyplomatyczny Wielkopolski
+# (units/kdw), one entry per matter.
+
+- date: 1173-08-31
+  title: "Wrąbczynek is given to the Cistercians of Ląd"
+  note: >-
+    Duke Mieszko gives "parvum Vronchin", little Wrąbczynek, to the Cistercian abbey of Ląd on the
+    Warta, which he had founded, with its salt, lakes, fishing and hunting, free of all Polish dues.
+  kind: estate
+  source: "charter of Duke Mieszko, Gniezno, 31 August 1173 (Kodeks Dyplomatyczny Wielkopolski I, no. 20)"
+  title_de: "Wrąbczynek wird den Zisterziensern von Ląd geschenkt"
+  note_de: >-
+    Herzog Mieszko schenkt „parvum Vronchin“, das kleine Wrąbczynek, dem von ihm gegründeten
+    Zisterzienserkloster Ląd an der Warthe, mit Salz, Seen, Fischerei und Jagd, frei von allen
+    polnischen Abgaben.
+  source_de: "Urkunde Herzog Mieszkos, Gnesen, 31. August 1173 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 20)"
+  refs:
+    - kdw/1
+
+- date: 1240-09-30
+  title: "The tithes of Trąbczyn and its neighbours go to Ląd"
+  note: >-
+    Archbishop Fulko of Gniezno gives the abbey of Ląd the tithes of the chapels of St Peter and St
+    Andrew, from Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom and Wrąbczyn, "whether the
+    villages are divided or moved or called by another name". The year, 1240, is the document's,
+    marked by its editors as doubtful.
+  kind: estate
+  source: "charter of Archbishop Fulko, dated 30 September 1240 (Kodeks Dyplomatyczny Wielkopolski I, no. 222)"
+  title_de: "Die Zehnten von Trąbczyn und seinen Nachbarn gehen an Ląd"
+  note_de: >-
+    Erzbischof Fulko von Gnesen gibt dem Kloster Ląd die Zehnten der Kapellen St. Peter und St.
+    Andreas aus Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom und Wrąbczyn, „ob die Dörfer
+    geteilt oder verlegt oder anders genannt werden“. Das Jahr 1240 ist das der Urkunde, von ihren
+    Herausgebern als zweifelhaft bezeichnet.
+  source_de: "Urkunde Erzbischof Fulkos, datiert 30. September 1240 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 222)"
+  refs:
+    - kdw/2
+
+- date: 1276-03-27
+  title: "Duke Bolesław gives Trąbczyn to Count Mikołaj"
+  note: >-
+    The village of Trąbczyn, "Trupcino", had been the duke's to give: first to Count Janko son of
+    Szymon, then to a priest Mikołaj, both dead without heirs. Now Duke Bolesław gives it to Count
+    Mikołaj, his treasurer at Ląd, and his heirs, free of the ducal dues.
+  kind: estate
+  source: "charter of Duke Bolesław, Dłusk, 27 March 1276 (Kodeks Dyplomatyczny Wielkopolski I, no. 460)"
+  title_de: "Herzog Bolesław gibt Trąbczyn dem Grafen Mikołaj"
+  note_de: >-
+    Das Dorf Trąbczyn, „Trupcino“, hatte der Herzog zu vergeben: zuerst an den Grafen Janko, Sohn des
+    Szymon, dann an einen Priester Mikołaj, beide ohne Erben gestorben. Nun gibt Herzog Bolesław es
+    dem Grafen Mikołaj, seinem Schatzmeister in Ląd, und dessen Erben, frei von den herzoglichen
+    Abgaben.
+  source_de: "Urkunde Herzog Bolesławs, Dłusk, 27. März 1276 (Kodeks Dyplomatyczny Wielkopolski I, Nr. 460)"
+  refs:
+    - kdw/5
+
+- date: 1346-11-13
+  title: "The heirs of Trąbczyn lose their suit"
+  note: >-
+    At Pyzdry the land judge of Gniezno and Kalisz adjudges Stropiszyn and Pępocin to the church of
+    Gniezno against the brothers Jan and Przedpełk, heirs of Trąbczyn, and against Andrzej of
+    Trąbczyn and all his kin, and puts them to perpetual silence.
+  kind: estate
+  source: "two judgments of the land judge, Pyzdry, 13 November 1346 (Kodeks Dyplomatyczny Wielkopolski II, nos 1252, 1253)"
+  title_de: "Die Erben von Trąbczyn verlieren ihren Prozess"
+  note_de: >-
+    In Pyzdry spricht der Landrichter von Gnesen und Kalisch Stropiszyn und Pępocin der Kirche von
+    Gnesen zu, gegen die Brüder Jan und Przedpełk, Erben von Trąbczyn, und gegen Andrzej von Trąbczyn
+    und seine ganze Verwandtschaft, und erlegt ihnen ewiges Schweigen auf.
+  source_de: "zwei Urteile des Landrichters, Pyzdry, 13. November 1346 (Kodeks Dyplomatyczny Wielkopolski II, Nr. 1252, 1253)"
+  refs:
+    - kdw/9
+    - kdw/10
+
+- date: 1399-10-13
+  title: "The tithe of Trąbczyn is adjudged to Ląd"
+  note: >-
+    In the abbey of Ląd the Archbishop of Gniezno decides between the abbot and Jan, parish priest of
+    Trąbczyn: the sheaf tithe of the fields of Trąbczyn belongs to the abbey.
+  kind: estate
+  source: "judgment of Archbishop Dobrogost, Ląd, 13 October 1399 (Kodeks Dyplomatyczny Wielkopolski III, no. 2014)"
+  title_de: "Der Zehnte von Trąbczyn wird Ląd zugesprochen"
+  note_de: >-
+    Im Kloster Ląd entscheidet der Erzbischof von Gnesen zwischen dem Abt und Jan, dem Pfarrer von
+    Trąbczyn: der Garbenzehnte der Felder von Trąbczyn gehört dem Kloster.
+  source_de: "Urteil Erzbischof Dobrogosts, Ląd, 13. Oktober 1399 (Kodeks Dyplomatyczny Wielkopolski III, Nr. 2014)"
+  refs:
+    - kdw/13
+
+- date: 1407-11-19
+  title: "Zagórów becomes a town"
+  note: >-
+    King Władysław allows the abbey of Ląd to found a town at its village of Zagórów under the law of
+    Magdeburg, with a weekly market on Wednesdays.
+  kind: estate
+  source: "privilege of King Władysław, Niepołomice, 19 November 1407 (Kodeks Dyplomatyczny Wielkopolski V, no. 117)"
+  title_de: "Zagórów wird Stadt"
+  note_de: >-
+    König Władysław erlaubt dem Kloster Ląd, in seinem Dorf Zagórów eine Stadt nach Magdeburger Recht
+    zu gründen, mit einem Wochenmarkt am Mittwoch.
+  source_de: "Privileg König Władysławs, Niepołomice, 19. November 1407 (Kodeks Dyplomatyczny Wielkopolski V, Nr. 117)"
+  refs:
+    - kdw/14
+
 # The Prusimski era, 1589 to 1788 (added 2026-10-07): one entry per matter, not per document, each resting on
 # the court-book holdings named in refs. Years before 1794 are shown on the page only where they have
 # documents or an event (site/_includes/timeline.html).

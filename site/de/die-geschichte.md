@@ -1,23 +1,47 @@
 ---
 layout: page
 title: Die Geschichte
-standfirst: Dreieinhalb Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen, Epoche für Epoche. Manche Epochen sind ganz veröffentlicht, manche haben ihre ersten Dokumente, und eine steht hier, damit sichtbar ist, was fehlt.
+standfirst: Siebeneinhalb Jahrhunderte eines Guts in Mittelpolen, in der Reihenfolge, in der die Dokumente liegen, Epoche für Epoche. Manche Epochen sind ganz veröffentlicht, manche haben ihre ersten Dokumente, und eine steht hier, damit sichtbar ist, was fehlt.
 permalink: /de/die-geschichte/
 lang: de
 alt_url: /the-story/
 ---
 
-Trąbczyn ist ein Dorf und ein Gut im Land zwischen Konin und Kalisch. Seit mindestens 1589
-wird schriftlich darüber gestritten, und zwar deshalb schriftlich, weil Grund und Boden in
+Trąbczyn ist ein Dorf und ein Gut im Land zwischen Konin und Kalisch. Es ist seit 1240
+schriftlich genannt, seit mindestens 1399 wird schriftlich darüber gestritten, und zwar deshalb schriftlich, weil Grund und Boden in
 diesem Teil Europas durch Urkunden den Besitzer wechselte: eine Grenze war eine Reihe von
 Erdhügeln, gerichtlich bezeugt, eine Ansiedlung ein Privileg mit einem Siegel, und wer
 seine Papiere nicht vorlegen konnte, besaß wenig.
 
-Dieses Archiv entsteht Epoche für Epoche. Am vollständigsten veröffentlicht sind die Jahre
+Dieses Archiv entsteht Epoche für Epoche. Das Mittelalter hat seine ersten Dokumente, aus den
+gedruckten Urkunden Großpolens. Am vollständigsten veröffentlicht sind die Jahre
 Hohenlohe-Ingelfingens. Der Grenzstreit davor hat seine Dokumente, und die beiden Epochen nach
 Michalina Miączyńska haben ihre ersten. Ihre eigene Epoche liegt in Archiven in Warschau und
 Berlin; sie wird hier genannt und nicht weggelassen, damit wenigstens sichtbar ist, was noch
 fehlt.
+
+---
+
+## Trąbczyn im Mittelalter
+
+**Das Zisterzienserkloster Ląd, dem die Dörfer um Trąbczyn gehörten, und die Ritter, denen
+Trąbczyn selbst gehörte. 1173 bis 1440.
+[21 Dokumente, 1173 bis 1440]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitsname.
+
+Diese Dokumente stammen nicht aus einem Archiv, sondern aus dem Kodeks Dyplomatyczny
+Wielkopolski, der gedruckten Edition der mittelalterlichen Urkunden Großpolens, jeder Eintrag
+vollständig mit Regest und Anmerkungen seiner Herausgeber. Die meisten betreffen das Kloster Ląd
+an der Warthe, eine Gründung der Herzöge von Polen. Herzog Mieszko schenkte ihm 1173 „das kleine
+Vronchin“, Wrąbczynek ([die Schenkung]({{ '/documents/kdw/1/' | relative_url }})), und Erzbischof Fulko die Zehnten von Zagórów, Skokum, Kopojno,
+Trąbczyn, Szetlew, Łukom und Wrąbczyn, in einer Urkunde mit dem Datum 1240 ([die Zehnten]({{ '/documents/kdw/2/' | relative_url }})). Kopojno kam
+1291 durch Tausch an das Kloster, und 1407 erlaubte ihm der König, sein Dorf Zagórów zu einer
+Stadt nach Magdeburger Recht zu machen ([das Stadtprivileg]({{ '/documents/kdw/14/' | relative_url }})).
+
+Trąbczyn selbst gehörte Rittern. Herzog Bolesław gab das Dorf 1276 dem Grafen Mikołaj, dem
+Schatzmeister von Ląd ([die Schenkung Trąbczyns]({{ '/documents/kdw/5/' | relative_url }})). Die Erben von Trąbczyn erscheinen 1346 in einem Prozess, und 1399
+sprach der Erzbischof von Gnesen den Zehnten der Felder Trąbczyns dem Kloster zu, gegen den
+Pfarrer von Trąbczyn ([das Urteil]({{ '/documents/kdw/13/' | relative_url }})). 1434 bestellte ein Kanoniker von Kruszwica, Wojciech, Sohn des Otto
+von Trąbczyn, im Haus seiner Mutter in Trąbczyn seinen Bruder Jan zum Bevollmächtigten ([die Vollmacht]({{ '/documents/kdw/19/' | relative_url }})).
 
 ---
 

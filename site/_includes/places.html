@@ -23,6 +23,10 @@
   <div class="person" id="estate-{{ es.slug }}"
        data-name="{{ es.name | escape }}" data-count="{{ es.count }}">
     <h2>{{ es.name }}</h2>
+    {%- comment -%} The medieval spellings, beside the German form in the heading (editor, 2026-10-16). {%- endcomment -%}
+    {%- if es.medieval %}
+    <p class="refs forms">{{ t.forms_medieval }} {{ es.medieval | join: '; ' }}</p>
+    {%- endif %}
     <p class="refs counts">{% if es.docs == 1 %}{{ t.counts_estate_one }}{% else %}{{ t.counts_estate | replace: '%d', es.docs }}{% endif %}{% if es.span %} · {{ es.span }}{% endif %}</p>
     {%- if es.lat %}
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>

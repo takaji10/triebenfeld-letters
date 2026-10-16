@@ -1,0 +1,149 @@
+{
+ "letter_id": "9",
+ "seq_archival": 9,
+ "parent_letter": "",
+ "unit": "kdw",
+ "uid": "kdw-9",
+ "pad": "kdw-009",
+ "permalink": "/documents/kdw/9/",
+ "doc_type": "decree",
+ "era": "medieval",
+ "themes": [],
+ "date_iso": "1346-11-13",
+ "date_precision": "day",
+ "date_source": "dateline",
+ "date_display": "1346-11-13",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1346,
+ "month": 11,
+ "day": 13,
+ "place": "Pyzdry",
+ "sender": "",
+ "recipient": "",
+ "line_start": 91,
+ "line_end": 97,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [],
+ "estates": [
+  "trabczyn"
+ ],
+ "is_missing": 0,
+ "n_lines": 5,
+ "n_pages": 1,
+ "text": "Dokument Nr 1252\nDobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.\nGniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.\nNos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.\nTropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+ "text_reading": "Dokument Nr 1252\n\nDobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.\n\nGniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.\n\nNos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.\n\nTropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0009_a",
+   "line_start": 93,
+   "line_end": 97,
+   "n_lines": 5,
+   "diplomatic": "Dokument Nr 1252\nDobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.\nGniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.\nNos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.\nTropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+   "transcription": "Dokument Nr 1252\nDobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.\nGniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.\nNos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.\nTropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+   "reading": "Dokument Nr 1252\n\nDobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.\n\nGniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.\n\nNos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.\n\nTropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+   "paragraphs": [
+    "Dokument Nr 1252",
+    "Dobeslaus iudex terrarum Gneznens. et Kalisiens. 1346 Nov. 13, in Pisdry; ecclesiae Gneznensi hereditates Stropiszyn et Pępocin contra petitiones Iohannis et Przedpelkonis fratrum, heredum de Trąbczyn, nec non hereditatem Kokanin contra instantiam Petrassii, heredis de Rzegocin adiudicat.",
+    "Gniezno. Archiv. Capituli Metropol. Lib. privil. XV sec. fol. 93 v.",
+    "Nos Dobeslaus iudex terrarum Gneznensis et Kalisiensis notum facimus universis et presentibus recognoscimus, quod de hereditatum Tropessino et Panpicza, in presencia nobilium virorum Nicolai capitanei Polonie, Maczconis Poznaniensis et Nicolai Kalisiensis palatinorum et aliorum infrascriptorum testium, dominum Kelczonem custodem et ecclesiam Gneznensem peticione et ab instancia Iohannis et Przetpelkonis fratrum, heredum de Trampczino; ac venerabilem in Christo patrem et dominum reverendum, dominum Iaroslaum sancte Gneznensis ecclesie archiepiscopum, similiter ab instancia et peticione Petrassii heredis de Stregoczino pro hereditate Cokanino tenore presencium absolvimus, ipsis dictas hereditates adiudicantes et prenominatis heredibus super ipsis perpetuum silencium imponentes; in cuius rei testimonium, nostrum sigillum presentibus est appensum. Actum et datum in Pisdry in die sancti Briccii, anno Domini millesimo trecentesimo quadragesimo sexto, presentibus viris nobilibus, palatinis Maczkone Poznaniensi, Nicolao Kalisiensi; Thomislao Poznaniensi, Sbiluto Gneznensi ac Ianussio Kalisiensi castellanis, atque aliis fide dignis.",
+    "Tropessino, Stropiszyn. Panpicza, poniżéj z dodatkiem: alias Kopydlowo, może bydź Pępocin, lub też Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "",
+   "doc_line_start": 1,
+   "doc_line_end": 5,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [
+  {
+   "entity": "jan-z-trabczyna-1346",
+   "display": "Jan, heir of Trąbczyn (1346)",
+   "kind": "person",
+   "surface": "Iohannis",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 94,
+   "doc_line": 2
+  },
+  {
+   "entity": "przedpelk-z-trabczyna",
+   "display": "Przedpełk, heir of Trąbczyn",
+   "kind": "person",
+   "surface": "Przedpelkonis",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 94,
+   "doc_line": 2
+  },
+  {
+   "entity": "jan-z-trabczyna-1346",
+   "display": "Jan, heir of Trąbczyn (1346)",
+   "kind": "person",
+   "surface": "Iohannis",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 96,
+   "doc_line": 4
+  },
+  {
+   "entity": "przedpelk-z-trabczyna",
+   "display": "Przedpełk, heir of Trąbczyn",
+   "kind": "person",
+   "surface": "Przetpelkonis",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 96,
+   "doc_line": 4
+  }
+ ],
+ "mentions_english": [],
+ "place_canonical": "Pyzdry",
+ "place_mentions": [
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 94,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0009_a",
+   "scan": "",
+   "line": 97,
+   "doc_line": 5
+  }
+ ],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Document no. 1252\n\nDobiesław, judge of the lands of Gniezno and Kalisz, 13 November 1,346, at Pyzdry; adjudges to the church of Gniezno the estates of Stropiszyn and Pępocin against the claims of the brothers Jan and Przedpełk, heirs of Trąbczyn, and the estate of Kokanin against the suit of Pietrasz, heir of Rzegocin.\n\nGniezno. Archive of the Metropolitan Chapter. Liber privilegiorum of the 15th century, fol. 93v.\n\nWe, Dobiesław, judge of the lands of Gniezno and Kalisz, make known to all and acknowledge to those present that, concerning the estates of Stropiszyn and Panpicza, in the presence of the noble men Mikołaj, captain of Poland, Maćko of Poznań and Mikołaj of Kalisz, palatines, and of the other witnesses written below, we absolve by the tenor of these presents Lord Kiełcz the custodian and the church of Gniezno from the claim and suit of the brothers Jan and Przedpełk, heirs of Trąbczyn; and likewise the venerable father in Christ and reverend lord, Lord Jarosław, Archbishop of the holy church of Gniezno, from the suit and claim of Pietrasz, heir of Rzegocin, for the estate of Kokanin, adjudging the said estates to them and imposing perpetual silence on the said heirs concerning them; in witness of which our seal is hung on these presents. Done and given at Pyzdry on the feast of St Brice, in the year of the Lord one thousand three hundred and forty-six, in the presence of the noble men, the palatines Maćko of Poznań and Mikołaj of Kalisz; the castellans Tomisław of Poznań, Zbylut of Gniezno and Janusz of Kalisz, and others worthy of trust.\n\nTropessino, Stropiszyn. Panpicza, below with the addition: alias Kopydlowo, perhaps Pępocin, or else Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin."
+  }
+ ],
+ "text_english": "Document no. 1252\n\nDobiesław, judge of the lands of Gniezno and Kalisz, 13 November 1,346, at Pyzdry; adjudges to the church of Gniezno the estates of Stropiszyn and Pępocin against the claims of the brothers Jan and Przedpełk, heirs of Trąbczyn, and the estate of Kokanin against the suit of Pietrasz, heir of Rzegocin.\n\nGniezno. Archive of the Metropolitan Chapter. Liber privilegiorum of the 15th century, fol. 93v.\n\nWe, Dobiesław, judge of the lands of Gniezno and Kalisz, make known to all and acknowledge to those present that, concerning the estates of Stropiszyn and Panpicza, in the presence of the noble men Mikołaj, captain of Poland, Maćko of Poznań and Mikołaj of Kalisz, palatines, and of the other witnesses written below, we absolve by the tenor of these presents Lord Kiełcz the custodian and the church of Gniezno from the claim and suit of the brothers Jan and Przedpełk, heirs of Trąbczyn; and likewise the venerable father in Christ and reverend lord, Lord Jarosław, Archbishop of the holy church of Gniezno, from the suit and claim of Pietrasz, heir of Rzegocin, for the estate of Kokanin, adjudging the said estates to them and imposing perpetual silence on the said heirs concerning them; in witness of which our seal is hung on these presents. Done and given at Pyzdry on the feast of St Brice, in the year of the Lord one thousand three hundred and forty-six, in the presence of the noble men, the palatines Maćko of Poznań and Mikołaj of Kalisz; the castellans Tomisław of Poznań, Zbylut of Gniezno and Janusz of Kalisz, and others worthy of trust.\n\nTropessino, Stropiszyn. Panpicza, below with the addition: alias Kopydlowo, perhaps Pępocin, or else Kopydłowo. Trampczino, Trąbczyn. Stregoczino, Rzegocin. Cokanino, Kokanin.",
+ "summary_en": "Dobiesław, judge of the lands of Gniezno and Kalisz, adjudges the estates of Stropiszyn and Pępocin to the church of Gniezno against the claims of the brothers Jan and Przedpełk, heirs of Trąbczyn, and the estate of Kokanin against the suit of Pietrasz, heir of Rzegocin. Pyzdry, 13 November 1346. Kodeks Dyplomatyczny Wielkopolski II, no. 1252, from a Liber privilegiorum of the chapter of Gniezno.",
+ "summary_de": "Dobiesław, Richter der Länder Gnesen und Kalisch, spricht der Kirche von Gnesen die Güter Stropiszyn und Pępocin zu, gegen die Ansprüche der Brüder Jan und Przedpełk, Erben von Trąbczyn, und das Gut Kokanin gegen die Klage des Pietrasz, Erben von Rzegocin. Pyzdry, 13. November 1346. Kodeks Dyplomatyczny Wielkopolski II, Nr. 1252, aus einem Privilegienbuch des Gnesener Kapitels.",
+ "reading": {}
+}

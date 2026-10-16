@@ -191,6 +191,7 @@ en:
   by_paragraph: "Transcribed by paragraph, not line by line: each numbered entry is a paragraph of the manuscript."
   by_paragraph_printed: "The whole entry of the printed edition, one paragraph to each numbered line."
   noscan_printed: "From the electronic text of a printed edition: there is no page image."
+  forms_medieval: "Medieval:"
   place: Place
   extent: Extent
   lines: lines
@@ -257,6 +258,8 @@ en:
   timeline_h1: Timeline
   timeline_lede: >-
     How many documents survive from each year, set against the events of the period. Click a year to read what it holds.
+  tl_era_note_medieval: >-
+    1173 to 1444. Trąbczyn and its neighbours in the medieval charters of Greater Poland: the Cistercian abbey of Ląd, which came to hold Wrąbczynek, Kopojno, Zagórów and the tithe of Trąbczyn, and the knights and heirs who held Trąbczyn itself.
   tl_era_note_prusimski: >-
     1589 to 1794. Trąbczyn under its Polish owners, the Trąmpczyński and then the Prusimski family, and their two centuries of quarrel with Łukom next door. It ends when Antoni Prusimski flees after the failed Kościuszko Uprising.
   tl_era_note_hohenlohe: >-
@@ -493,6 +496,7 @@ de:
   by_paragraph: "Absatzweise transkribiert, nicht Zeile für Zeile: jeder nummerierte Eintrag ist ein Absatz der Handschrift."
   by_paragraph_printed: "Der ganze Eintrag der gedruckten Edition, ein Absatz je nummerierter Zeile."
   noscan_printed: "Aus dem elektronischen Text einer gedruckten Edition: es gibt kein Seitenbild."
+  forms_medieval: "Mittelalterlich:"
   place: Ort
   extent: Umfang
   lines: Zeilen
@@ -562,6 +566,8 @@ de:
   timeline_h1: Zeitleiste
   timeline_lede: >-
     Wie viele Dokumente aus jedem Jahr überliefert sind, vor dem Hintergrund der Ereignisse der Zeit. Klicken Sie ein Jahr an, um zu lesen, was es enthält.
+  tl_era_note_medieval: >-
+    1173 bis 1444. Trąbczyn und seine Nachbarn in den mittelalterlichen Urkunden Großpolens: das Zisterzienserkloster Ląd, das Wrąbczynek, Kopojno, Zagórów und den Zehnten von Trąbczyn erwarb, und die Ritter und Erben, die Trąbczyn selbst besaßen.
   tl_era_note_prusimski: >-
     1589 bis 1794. Trąbczyn unter seinen polnischen Besitzern, den Familien Trąmpczyński und dann Prusimski, und ihr zweihundertjähriger Streit mit dem benachbarten Łukom. Die Zeit endet, als Antoni Prusimski nach dem gescheiterten Kościuszko-Aufstand flieht.
   tl_era_note_hohenlohe: >-

@@ -334,8 +334,9 @@
  },
  {
   "place": "Trąbczyn",
-  "count": 25,
+  "count": 26,
   "documents": [
+   "kdw-19",
    "app53170koningr153-1",
    "app53170koningr153-2",
    "oe1bu9454-128",
@@ -393,6 +394,33 @@
   ]
  },
  {
+  "place": "Kalisz",
+  "count": 21,
+  "documents": [
+   "kdw-6",
+   "kdw-8",
+   "kuryerpolski1754075-1",
+   "app53150kaliszgr414-1",
+   "app53150kaliszgr425-1",
+   "app53150kaliszgr424-1",
+   "oe1bu9454-145",
+   "oe1bu9454-169",
+   "oe1bu9454-162",
+   "oe1bu9454-163",
+   "oe1bu9454-164",
+   "oe1bu9454-174",
+   "oe1bu9454-207",
+   "oe1bu9454-210",
+   "oe1bu9454-214",
+   "oe1bu9454-72c",
+   "oe1bu9454-237",
+   "apl399806603-2",
+   "apl399806603-3",
+   "apl399806603-4",
+   "apl399806603-5"
+  ]
+ },
+ {
   "place": "Kontop",
   "count": 21,
   "documents": [
@@ -417,31 +445,6 @@
    "oe1bu9454-71",
    "oe1bu9454-193",
    "oe1bu9454-194"
-  ]
- },
- {
-  "place": "Kalisz",
-  "count": 19,
-  "documents": [
-   "kuryerpolski1754075-1",
-   "app53150kaliszgr414-1",
-   "app53150kaliszgr425-1",
-   "app53150kaliszgr424-1",
-   "oe1bu9454-145",
-   "oe1bu9454-169",
-   "oe1bu9454-162",
-   "oe1bu9454-163",
-   "oe1bu9454-164",
-   "oe1bu9454-174",
-   "oe1bu9454-207",
-   "oe1bu9454-210",
-   "oe1bu9454-214",
-   "oe1bu9454-72c",
-   "oe1bu9454-237",
-   "apl399806603-2",
-   "apl399806603-3",
-   "apl399806603-4",
-   "apl399806603-5"
   ]
  },
  {
@@ -577,6 +580,17 @@
   ]
  },
  {
+  "place": "Gniezno",
+  "count": 5,
+  "documents": [
+   "kdw-1",
+   "kdw-3",
+   "kdw-7",
+   "kdw-11",
+   "kdw-17"
+  ]
+ },
+ {
   "place": "Zagórów",
   "count": 5,
   "documents": [
@@ -588,6 +602,16 @@
   ]
  },
  {
+  "place": "Ląd",
+  "count": 4,
+  "documents": [
+   "kdw-13",
+   "kdw-15",
+   "kdw-16",
+   "kdw-18"
+  ]
+ },
+ {
   "place": "Kopojno",
   "count": 4,
   "documents": [
@@ -595,6 +619,15 @@
    "oe1bu9454-72f",
    "oe1bu9454-232",
    "app539680716-1"
+  ]
+ },
+ {
+  "place": "Pyzdry",
+  "count": 3,
+  "documents": [
+   "kdw-9",
+   "kdw-10",
+   "oe1bu9454-28"
   ]
  },
  {
@@ -622,6 +655,14 @@
    "oe1bu9454-220",
    "oe1bu9454-14",
    "oe1bu9454-278"
+  ]
+ },
+ {
+  "place": "Buda",
+  "count": 2,
+  "documents": [
+   "kdw-20",
+   "kdw-21"
   ]
  },
  {
@@ -729,6 +770,34 @@
   ]
  },
  {
+  "place": "Sechowa",
+  "count": 1,
+  "documents": [
+   "kdw-4"
+  ]
+ },
+ {
+  "place": "Dłusk",
+  "count": 1,
+  "documents": [
+   "kdw-5"
+  ]
+ },
+ {
+  "place": "Poznań",
+  "count": 1,
+  "documents": [
+   "kdw-12"
+  ]
+ },
+ {
+  "place": "Niepołomice",
+  "count": 1,
+  "documents": [
+   "kdw-14"
+  ]
+ },
+ {
   "place": "Brześć Kujawski",
   "count": 1,
   "documents": [
@@ -820,13 +889,6 @@
   ]
  },
  {
-  "place": "Pyzdry",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-28"
-  ]
- },
- {
   "place": "Öhringen[?]",
   "count": 1,
   "documents": [
@@ -898,8 +960,9 @@
  },
  {
   "place": "Unknown",
-  "count": 43,
+  "count": 44,
   "documents": [
+   "kdw-2",
    "app53640kalisztab21-1",
    "adwl85-1",
    "adwl85-2",

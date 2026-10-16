@@ -42,6 +42,15 @@ places:
   trabczyn:
     display: "Trąbczyn"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Trampczino"
+      - "1276: Trupcino"
+      - "1346: Trampczino"
+      - "1399: Trapczyno, Trambczyno"
+      - "1415: Trambczyno"
+      - "1434: Trampcz(i)no, Trampczino, Trambczino"
     match: 'Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner'
     tier: "Book-confirmed"
     variants:
@@ -68,7 +77,15 @@ places:
   wrabczyn:
     display: "Wrąbczyn"
     kind: village
-    match: 'Wr[ąa]bcz[yi]n(?!ek)\w*'
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Wronczino"
+      - "1292: Wroncino"
+      - "1384: Vronczino (Wrąbczyn or Wrąbczynek)"
+      - "1418: Maiori Wronczino, Magno Wronczino"
+    # Not Wrąbczynek in any case: "Wrąbczynka" (the Kodeks, 1377).
+    match: 'Wr[ąa]bcz[yi]n(?!ek|k[aui])\w*'
     tier: "Book-confirmed"
     variants:
       - "Wrąbczin"
@@ -81,7 +98,15 @@ places:
   wrabczynek:
     display: "Wrąbczynek"
     kind: village
-    match: 'Wr[ąa]bcz[yi]nek\w*'
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1173: parvum Vronchin"
+      - "1377: Parvum Wronczino"
+      - "1384: Vronczino (Wrąbczyn or Wrąbczynek)"
+      - "1440: Wraczina, Wrączino"
+    # and its other cases: "Wrąbczynka" (the Kodeks, 1377)
+    match: 'Wr[ąa]bcz[yi]n(?:ek|k[aui])\w*'
     tier: "Book-confirmed"
     variants: []
     distinct_from: [trabczyn, wrabczyn]
@@ -89,6 +114,10 @@ places:
   lukom:
     display: "Łukom"
     kind: settlement
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Lukome"
     match: '[ŁL]ukom(?!i)\w*'
     tier: "Book-confirmed"
     variants: []
@@ -103,6 +132,8 @@ places:
     display: "Łukomia"
     kind: estate
     match: '[ŁL]ukomi\w*'
+    # In the Kodeks Dyplomatyczny Wielkopolski (1240) the editors' "Łukomie" is Łukom.
+    not_in: [kdw-2]
     tier: "Book-confirmed"
     variants: []
     distinct_from: [lukom]
@@ -114,6 +145,14 @@ places:
     display: "Zagórów"
     german: "Zagorowo"
     kind: town
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Zagorovo"
+      - "1261: Zagorowo"
+      - "1407: Zagorowo, Sogorow, Zogorow, Zagorow"
+      - "1414: Zagorowo"
+      - "1418: Zagorowe"
     match: 'Zag[oó]r[oó]w\w*|Zagurow\w*'
     tier: "Book-confirmed"
     variants:
@@ -136,6 +175,11 @@ places:
     # Świątniki, with its accent (editor, 2026-10-03); the letters write Swiątniki.
     display: "Świątniki"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1261: sanctuariis (\"Rzgowo cum sanctuariis\", the people of the sanctuary)"
+      - "1280: sanctuariis (\"Irgouo cum sanctuariis\")"
     match: '[SŚ]wi[ąę]tnik\w*'
     tier: ""
     variants: ["Swiątniki", "Swiątniker", "Swiętnik", "Swiętniki", "Świątnik"]
@@ -148,6 +192,8 @@ places:
     # 12366, documents 2 and 6). Matched, not made variants: the English keeps
     # the page's spelling, as it does for Kamienno (2026-10-04).
     match: 'Sz[ei]tt?lew\w*|Szedlew\w*|Szetlow\w*|Szeltow\w*'
+    # In the Kodeks Dyplomatyczny Wielkopolski Szetlewo is Szetlew (the estate szetlew).
+    not_in: [kdw-2, kdw-4, kdw-6]
     tier: "Context-inferred"
     variants:
       - "Szedlewek"    # the copy of about 1930, APP 53/968/0/-/801
@@ -168,10 +214,49 @@ places:
       - "The register records Szeklejówek as a tentative identification with
          Szetlewek. Not settled, so not matched."
 
+  szetlew:
+    # The village south-east of Zagórów, beside Szetlewek. Not matched in the
+    # text: szetlewek's pattern already takes "Szetlew..." spellings, and the
+    # two are not told apart there. An estate of focus of the Kodeks
+    # Dyplomatyczny Wielkopolski entries (the editor's list, 2026-10-16).
+    display: "Szetlew"
+    kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Szetlevo"
+      - "1261: Szethowo"
+      - "1280: Szechouo"
+    tier: "Text-confirmed"
+    variants: []
+    distinct_from: [szetlewek]
+
+  adamierz:
+    # Adamierz, parish of Zagórów; "Nadamirza" (1377), "Nadomirz",
+    # "Niedomirz" (1440) in the Kodeks Dyplomatyczny Wielkopolski, whose
+    # editors identify it. Matched in its modern form only: the register of
+    # 1789 and the Zagórów table of 1791 (2026-10-16).
+    display: "Adamierz"
+    kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1377: Nadamirza"
+      - "1440: Nadomirz, Niedomirz"
+    match: 'Adamierz\w*'
+    tier: "Text-confirmed"
+    variants: []
+
   kopojno:
     display: "Kopojno"
     german: "Kopoyno"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Kopanino"
+      - "1261: Capayn"
+      - "1291: Copaino, Copayno"
     match: 'Kop[oa]yn\w*|Kopojn\w*'
     tier: ""
     variants: ["Kopoyno", "Kopoino"]
@@ -523,8 +608,9 @@ places:
     german: "Brieg"
     kind: town
     match: 'Brieg\b'
-    # In the Polish decree of 1776 "brzeg" is the common noun, a bank or edge.
-    not_in: [app53170koningr145-1]
+    # In the Polish decree of 1776 "brzeg" is the common noun, a bank or edge; in the Kodeks
+    # Dyplomatyczny Wielkopolski (1173) "Brzeg dolny" is the lower edge of the parchment.
+    not_in: [app53170koningr145-1, kdw-1]
     tier: ""
     variants: ["Brzeg"]
 
@@ -800,6 +886,10 @@ places:
     display: "Oleśnica"
     german: "Olesnice"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1261: Oleszyno"
     # Not preceded by Michalinów: Michalinów Oleśnicki is a DIFFERENT place and
     # the register says so twice over.
     match: '(?<!w )(?<!ów )Ole[sś]ni[csz]\w*'   # Olesnize (I. HA GR, Rep. 7 C, Nr. 3705)
@@ -866,6 +956,11 @@ places:
   drzewce:
     display: "Drzewce"
     kind: estate
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1411: Drzewycz (\"in Nouo Sagorowo, alias Drzewycz\")"
+      - "1418: Drzewcza"
     match: 'Drzewce\w*|Drzewiec\w*'   # Polish 'z Drzewiec' (app5371057 doc 2)
     tier: ""
     variants: ["Drzewitz"]
@@ -1003,6 +1098,11 @@ places:
   skokum:
     display: "Skokum"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1240: Skokome"
+      - "1261: Skokom"
     match: 'Skokum\w*|Skokom\b'
     tier: ""
     variants: []
@@ -1012,6 +1112,23 @@ places:
     # Kuryer Polski of 1754: the print's Łęd is Ląd (the editor, 2026-10-16).
     display: "Ląd"
     kind: village
+    # The medieval spellings, from the Kodeks Dyplomatyczny Wielkopolski (the editor,
+    # 2026-10-16), shown on the Places page.
+    medieval:
+      - "1173: Lendensis"
+      - "1240: Lenda, Landense"
+      - "1261: Landensis"
+      - "1276: Lenda, Lendensi"
+      - "1280: Lendensi"
+      - "1291: Lenda, Lendensem"
+      - "1377: Landensis, Landense"
+      - "1384: Land"
+      - "1399: Landensis"
+      - "1407: Landa"
+      - "1411: Landa"
+      - "1414: Landensis, Landa"
+      - "1415: Landensis"
+      - "1418: Landensis, Landa"
     match: 'Łędzk\w*|Ląd(?:zk\w*)?(?![a-zà-ÿ])'
     tier: "Text-confirmed"
     variants: []
@@ -1879,6 +1996,9 @@ places:
     display: "Przybysław"
     kind: village
     match: 'Przyb[iy]s[lł]aw\w*'
+    # In the Kodeks Dyplomatyczny Wielkopolski (1414) Przybysław is a man, the church servant
+    # of Zagórów.
+    not_in: [kdw-16]
     tier: "Established"
     variants:
       - "Przybisław"

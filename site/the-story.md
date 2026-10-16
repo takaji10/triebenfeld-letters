@@ -1,23 +1,47 @@
 ---
 layout: page
 title: The story
-standfirst: Three and a half centuries of one estate in central Poland, told in the order the documents fall, era by era. Some eras are published in full, some have their first documents, and one is named here so you can see what is missing.
+standfirst: Seven and a half centuries of one estate in central Poland, told in the order the documents fall, era by era. Some eras are published in full, some have their first documents, and one is named here so you can see what is missing.
 permalink: /the-story/
 lang: en
 alt_url: /de/die-geschichte/
 ---
 
-Trąbczyn is a village and an estate in the country between Konin and Kalisz. People have
-been arguing over it in writing since at least 1589, and the arguments were written down
+Trąbczyn is a village and an estate in the country between Konin and Kalisz. It is named in
+writing from 1240, and people have been arguing over it in writing since at least 1399, and the arguments were written down
 because land in this part of Europe changed hands by document: a boundary was a line of
 earth mounds attested by a court, a tenancy was a privilege with a seal on it, and an
 owner who could not produce his papers did not own much.
 
-This archive is being built era by era. Each has its own account below. The Hohenlohe-Ingelfingen
+This archive is being built era by era. Each has its own account below. The Middle Ages have
+their first documents, from the printed charters of Greater Poland. The Hohenlohe-Ingelfingen
 years are the most fully published. The boundary dispute before them has its documents, and the
 two eras after Michalina Miączyńska have their first. Her own era exists in the research and in
 archives in Warsaw and Berlin, and is named here rather than left out, so that what is absent is
 at least visible.
+
+---
+
+## Trąbczyn in the Middle Ages
+
+**The Cistercian abbey of Ląd, which held the villages around Trąbczyn, and the knights who held
+Trąbczyn itself. 1173 to 1440.
+[21 documents, 1173 to 1440]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
+
+These documents are not from an archive but from the Kodeks Dyplomatyczny Wielkopolski, the
+printed edition of the medieval charters of Greater Poland, each entry given whole with its
+editors' summary and notes. Most of them concern the abbey of Ląd on the Warta, founded by the
+dukes of Poland. Duke Mieszko gave it "little Vronchin", Wrąbczynek, in 1173
+([the gift]({{ '/documents/kdw/1/' | relative_url }})), and Archbishop Fulko the tithes of Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom and
+Wrąbczyn, in a document dated 1240 ([the tithes]({{ '/documents/kdw/2/' | relative_url }})). Kopojno came to the abbey by exchange in 1291, and in
+1407 the King allowed it to make its village of Zagórów a town under the law of Magdeburg
+([the town privilege]({{ '/documents/kdw/14/' | relative_url }})).
+
+Trąbczyn itself was held by knights. Duke Bolesław gave the village to Count Mikołaj, the
+treasurer of Ląd, in 1276 ([the gift of Trąbczyn]({{ '/documents/kdw/5/' | relative_url }})). The heirs of Trąbczyn appear in a lawsuit of 1346, and in 1399
+the Archbishop of Gniezno gave the tithe of Trąbczyn's fields to the abbey against the parish
+priest of Trąbczyn ([the judgment]({{ '/documents/kdw/13/' | relative_url }})). In 1434 a canon of Kruszwica, Wojciech, son of Otto of Trąbczyn, made
+his brother Jan his proctor in their mother's house at Trąbczyn ([the power of attorney]({{ '/documents/kdw/19/' | relative_url }})).
 
 ---
 

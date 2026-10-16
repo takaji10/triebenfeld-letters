@@ -43,8 +43,9 @@ def _word_sub(word, text):
     return f
 
 
-def apply(text, counts=None):
-    """The text with every rule applied, in order. Adds to `counts` by rule id."""
+def apply(text, counts=None, pad=None):
+    """The text with every rule applied, in order. Adds to `counts` by rule id.
+    `pad` (document id) tells the grouping of figures which years to expect."""
     if not text:
         return text
     for r in rules():
@@ -63,7 +64,7 @@ def apply(text, counts=None):
             counts[r['id']] += n
         text = new
     # Sums grouped by thousands (editor, 2026-10-03; numerals.py).
-    new = group_digits(text)
+    new = group_digits(text, pad)
     if new != text and counts is not None:
         counts['digit-groups'] += 1
     return new
@@ -83,7 +84,7 @@ def corrections():
 def apply_page(pad, page, text, counts=None, problems=None):
     """The house forms, then this page's own corrections. A correction whose
     words are not on the page exactly once is not applied, and is reported."""
-    text = apply(text, counts)
+    text = apply(text, counts, pad)
     for c in corrections():
         if c['pad'] != pad or str(c['page']) != str(page):
             continue
@@ -125,7 +126,7 @@ def main():
             for k in ('en', 'html'):
                 if seg.get(k):
                     new = (apply_page(fn[:-4], seg.get('page'), seg[k], counts, problems)
-                           if k == 'en' else apply(seg[k], counts))
+                           if k == 'en' else apply(seg[k], counts, fn[:-4]))
                     if new != seg[k]:
                         if len(samples) < 12 and k == 'en':
                             i = next((i for i, (x, y) in enumerate(zip(seg[k], new)) if x != y),

@@ -69352,6 +69352,61 @@
   ]
  },
  {
+  "entity": "wojciech-z-trabczyna",
+  "display": "Wojciech of Trąbczyn, canon of Kruszwica",
+  "count": 5,
+  "documents": [
+   "kdw-19"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-19",
+    "surface": "Wojciech",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 209,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Albertus",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Albertum",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Wojciech",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 216,
+    "doc_line": 10
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Wojciecha",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 217,
+    "doc_line": 11
+   }
+  ]
+ },
+ {
   "entity": "dambski-ludwik",
   "display": "Ludwik Dąmbski, voivode of Brześć Kujawski",
   "count": 5,
@@ -70783,6 +70838,80 @@
   ]
  },
  {
+  "entity": "jan-pleban-trabczyna",
+  "display": "Jan, parish priest of Trąbczyn (1399)",
+  "count": 3,
+  "documents": [
+   "kdw-13"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-13",
+    "surface": "Iohannis",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 134,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Iohannem",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 136,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Iohannique",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 136,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "jan-z-trabczyna-1434",
+  "display": "Jan of Trąbczyn, son of Otto",
+  "count": 3,
+  "documents": [
+   "kdw-19"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-19",
+    "surface": "Jana",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 209,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Johannem",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Jan",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 217,
+    "doc_line": 11
+   }
+  ]
+ },
+ {
   "entity": "von-der-reck",
   "display": "Freiherr von der Reck",
   "count": 3,
@@ -71308,6 +71437,286 @@
     "scan": "APP_53_968_0_783_0007_a1-L1_04.jpg",
     "line": 44,
     "doc_line": 33
+   }
+  ]
+ },
+ {
+  "entity": "mikolaj-podskarbi-ladzki",
+  "display": "Mikołaj, treasurer of Ląd",
+  "count": 2,
+  "documents": [
+   "kdw-5"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-5",
+    "surface": "Nicolao",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 33,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-5",
+    "surface": "Nicholay",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
+  "entity": "janko-syn-szymona",
+  "display": "Janko, son of Szymon",
+  "count": 2,
+  "documents": [
+   "kdw-5"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-5",
+    "surface": "Ianchoni",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-5",
+    "surface": "Ianchonis",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
+  "entity": "mikolaj-pleban-sroda",
+  "display": "Mikołaj, parish priest of Środa",
+  "count": 2,
+  "documents": [
+   "kdw-5"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-5",
+    "surface": "Nicholao",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-5",
+    "surface": "Nicholay",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
+  "entity": "jan-z-trabczyna-1346",
+  "display": "Jan, heir of Trąbczyn (1346)",
+  "count": 2,
+  "documents": [
+   "kdw-9"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-9",
+    "surface": "Iohannis",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 94,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-9",
+    "surface": "Iohannis",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 96,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "przedpelk-z-trabczyna",
+  "display": "Przedpełk, heir of Trąbczyn",
+  "count": 2,
+  "documents": [
+   "kdw-9"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-9",
+    "surface": "Przedpelkonis",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 94,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-9",
+    "surface": "Przetpelkonis",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 96,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "andrzej-z-trabczyna-1346",
+  "display": "Andrzej, heir of Trąbczyn (1346)",
+  "count": 2,
+  "documents": [
+   "kdw-10"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-10",
+    "surface": "Andreae",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-10",
+    "surface": "Andree",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "andrzej-z-trabczyna-1415",
+  "display": "Andrzej of Trąbczyn (1415)",
+  "count": 2,
+  "documents": [
+   "kdw-17"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-17",
+    "surface": "Andrea",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 185,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Andrzej",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 192,
+    "doc_line": 12
+   }
+  ]
+ },
+ {
+  "entity": "mikolaj-z-trabczyna-1415",
+  "display": "Mikołaj of Trąbczyn (1415)",
+  "count": 2,
+  "documents": [
+   "kdw-17"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-17",
+    "surface": "Nicolao",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 185,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Mikołaj",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 192,
+    "doc_line": 12
+   }
+  ]
+ },
+ {
+  "entity": "mscichna-z-trabczyna",
+  "display": "Mścichna, wife of Otto of Trąbczyn",
+  "count": 2,
+  "documents": [
+   "kdw-19"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-19",
+    "surface": "Msinchneb",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Mścichna",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 216,
+    "doc_line": 10
+   }
+  ]
+ },
+ {
+  "entity": "otto-z-trabczyna",
+  "display": "Otto, heir of Trąbczyn",
+  "count": 2,
+  "documents": [
+   "kdw-19"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-19",
+    "surface": "Otthe",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
+    "surface": "Otto",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 216,
+    "doc_line": 10
    }
   ]
  },
@@ -72123,6 +72532,25 @@
     "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
     "line": 21584,
     "doc_line": 62
+   }
+  ]
+ },
+ {
+  "entity": "tomasz-ocic",
+  "display": "Tomasz Ocic of Trąbczyn",
+  "count": 1,
+  "documents": [
+   "kdw-19"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-19",
+    "surface": "Tomasza Ocica",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 217,
+    "doc_line": 11
    }
   ]
  },

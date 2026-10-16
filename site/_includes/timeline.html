@@ -8,7 +8,8 @@
 {% for y in site.data.stats.years %}{% if y.count > maxc %}{% assign maxc = y.count %}{% endif %}{% endfor %}
 
 {%- comment -%}
-  The edition runs from 1589 to 1936, but before 1794 and after 1832 only a few years have anything.
+  The edition runs from 1173 to 1936 (from 1589 before the Kodeks Dyplomatyczny Wielkopolski came in,
+  2026-10-16), but before 1794 and after 1832 only a few years have anything.
   From 1794 to 1832 every year is a row; outside those years a year is a row only if it has documents
   or an event, and a mark stands where years are passed over.
 {%- endcomment -%}
@@ -17,7 +18,7 @@
 {% assign prev = 0 %}
 
 <div class="timeline">
-  {% for year in (1589..1936) %}
+  {% for year in (1173..1936) %}
     {% assign ys = year | append: '' %}
     {% assign yrec = site.data.stats.years | where: "year", ys | first %}
     {% assign count = 0 %}
@@ -36,6 +37,7 @@
     {%- comment -%} A band where an era begins (the editor, 2026-10-07). The eras are those of reference/eras.yml;
       the Prusimski years end and the Hohenlohe-Ingelfingen years begin with Prusimski's flight in 1794. {%- endcomment -%}
     {% assign era_slug = '' %}
+    {% if year == 1173 %}{% assign era_slug = 'medieval' %}{% assign era_note = t.tl_era_note_medieval %}{% endif %}
     {% if year == 1589 %}{% assign era_slug = 'prusimski-boundary' %}{% assign era_note = t.tl_era_note_prusimski %}{% endif %}
     {% if year == 1794 %}{% assign era_slug = 'hohenlohe' %}{% assign era_note = t.tl_era_note_hohenlohe %}{% endif %}
     {% if year == 1807 %}{% assign era_slug = 'restitution' %}{% assign era_note = t.tl_era_note_restitution %}{% endif %}

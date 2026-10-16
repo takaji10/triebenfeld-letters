@@ -543,8 +543,12 @@ text, in a new era of the Middle Ages. The eight volumes' texts are saved,
 and any entry can be read in by volume and number. Details:
 `units/kdw/notes.md`.
 
-- [ ] **You: the entries** (volume and number of each).
+- [x] **You: the entries** (supplied 2026-10-16 in `kodeks.txt`: 21
+      entries from volumes 1, 2, 3, 5, 6, 7, 10 and 11; volume 8 not used).
+- [x] The documents, dates, places, estates, footnotes, English,
+      summaries (claim-checked, 107 statements), the holding page, the era
+      on the timeline (from 1173) and the story page, medieval spellings on
+      the Places page (2026-10-16).
+- [ ] **You: the word to publish.**
 - [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
       Ages", `medieval`).
-- [ ] Then: the documents, their dates and places, English, summaries,
-      the era on the timeline and the story page; publish at your word.

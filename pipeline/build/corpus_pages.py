@@ -365,8 +365,10 @@ def page_reading(page, letter_id, decisions, is_register=False, paras=None,
 
 
 def build_pages(body, letter_id, decisions, is_register=False, paras=None,
-                sideways=None):
+                sideways=None, slug=None):
     """
+    `slug` is the holding's, for the years numerals.group_digits expects.
+
     Returns a list of page dicts:
       page, page_id, line_start, line_end, n_lines, diplomatic, reading,
       paragraphs, continues_previous, continues_next, scan
@@ -386,7 +388,7 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
                                   sideways, flags)
         # Sums grouped by thousands in the reading text only (numerals.py); the
         # diplomatic text and the transcription keep the page's figures.
-        paragraphs = [group_digits(p) for p in paragraphs]
+        paragraphs = [group_digits(p, slug) for p in paragraphs]
         # A paragraph runs on across a page break unless the first line of this
         # page was itself ruled a paragraph start. The reading text still never
         # crosses the break - the flag only tells the reader that it did.
