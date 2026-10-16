@@ -163,6 +163,17 @@
  "place_canonical": "Unknown",
  "place_mentions": [
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 1,
+   "page_id": "0401_a1",
+   "scan": "AGAD_1_169_0_1_1745_0401_a1-L1_01.jpg",
+   "line": 17,
+   "doc_line": 15
+  },
+  {
    "entity": "ladek",
    "display": "Lądek",
    "kind": "place",

@@ -1991,6 +1991,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The reference stays "ADWł 85": the archive's holdings have no series name (editor).
 - Published at the editor's word: 591 documents in 43 holdings.
 
+## Kuryer Polski 1754, nr 75: the funeral of Paweł Prusimski (2026-10-16)
+
+- The first holding from print and from a library: the report from Kalisz of 5 December 1754 in the Warsaw newspaper Kuryer Polski, no. 75 of 1754 (Kórnik Library of the Polish Academy of Sciences, Cz2271, in the Wielkopolska Digital Library). Read from the editor's image in session, line by line with the printer's letters; one mark of doubt. Translated, summarised, claim-checked (11 statements), holding page in both languages, timeline entry, guide, story page and era blurb brought up to 592 documents in 44 holdings, 883 marks of doubt.
+- A new repository `bkpan-kornik` (a library) and document type `newspaper`. Łęd is Ląd (editor): Ląd added to the places, which also links the boundary decree of 1775, the Prussian table of about 1797 and six contracts of Oe 1 Bü 14526. Paweł, Antoni and Katarzyna Prusimski matched in the print's spelling; the abbot Głowiecki added.
+- Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

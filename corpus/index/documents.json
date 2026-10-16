@@ -254,6 +254,47 @@
   "permalink": "/documents/app53170koningr136/1/"
  },
  {
+  "uid": "kuryerpolski1754075-1",
+  "unit": "kuryerpolski1754075",
+  "letter_id": "1",
+  "doc_type": "newspaper",
+  "language": "pl",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "bkpan-kornik",
+  "date_iso": "1754-12-05",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 27,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg"
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 4,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "newspaper 1",
+  "path": "documents/kuryerpolski1754075-1.json",
+  "text_path": "text/kuryerpolski1754075-1.txt",
+  "permalink": "/documents/kuryerpolski1754075/1/"
+ },
+ {
   "uid": "app536045-1",
   "unit": "app536045",
   "letter_id": "1",
@@ -1938,7 +1979,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 15,
+  "places_named": 16,
   "estates": [
    "trabczyn",
    "lukomia",
@@ -5411,7 +5452,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 10,
+  "places_named": 11,
   "estates": [
    "trabczyn"
   ],
@@ -15354,7 +15395,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -15511,7 +15552,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "trabczyn"
   ],
@@ -15602,7 +15643,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn"
   ],
@@ -15713,7 +15754,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 5,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "drzewce",
    "wrabczyn"
@@ -16063,7 +16104,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 6,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "kopojno"
   ],
@@ -16762,7 +16803,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 8,
-  "places_named": 20,
+  "places_named": 21,
   "estates": [
    "trabczyn"
   ],

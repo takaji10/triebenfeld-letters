@@ -5790,6 +5790,17 @@
    "doc_line": 6
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Lądzkiego",
+   "page": 2,
+   "page_id": "0655_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+   "line": 9,
+   "doc_line": 6
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -10850,6 +10861,17 @@
    "doc_line": 124
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Lądzki",
+   "page": 61,
+   "page_id": "0685_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+   "line": 189,
+   "doc_line": 127
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -10881,6 +10903,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
    "line": 190,
    "doc_line": 128
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Lądzkiem",
+   "page": 62,
+   "page_id": "0685_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0685_a2-L1_62.jpg",
+   "line": 192,
+   "doc_line": 129
   },
   {
    "entity": "lukomia",

@@ -65,3 +65,14 @@ repositories:
     country_en: "Poland"
     country_de: "Polen"
     url: ""
+
+  # A library, not an archive: the first printed source (Kuryer Polski,
+  # 2026-10-16), seen in the Wielkopolska Digital Library.
+  bkpan-kornik:
+    name_en: "Kórnik Library of the Polish Academy of Sciences"
+    name_de: "Bibliothek Kórnik der Polnischen Akademie der Wissenschaften"
+    short: "BK PAN"
+    city: "Kórnik"
+    country_en: "Poland"
+    country_de: "Polen"
+    url: "https://www.bkpan.poznan.pl/"

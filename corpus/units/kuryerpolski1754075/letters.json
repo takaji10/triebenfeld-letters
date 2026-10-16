@@ -1,0 +1,64 @@
+[
+ {
+  "letter_id": "1",
+  "seq_archival": 1,
+  "parent_letter": "",
+  "unit": "kuryerpolski1754075",
+  "uid": "kuryerpolski1754075-1",
+  "pad": "kuryerpolski1754075-001",
+  "permalink": "/documents/kuryerpolski1754075/1/",
+  "doc_type": "newspaper",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "date_iso": "1754-12-05",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "date_display": "1754-12-05",
+  "date_inferred_from": "read from the document's own dateline",
+  "year": 1754,
+  "month": 12,
+  "day": 5,
+  "place": "Kalisz",
+  "sender": "",
+  "recipient": "",
+  "line_start": 1,
+  "line_end": 29,
+  "uncertainty_count": 1,
+  "has_damage": 0,
+  "rough_transcription": 0,
+  "language": "pl",
+  "duplicate_of": "",
+  "relations": [],
+  "estates": [
+   "trabczyn"
+  ],
+  "is_missing": 0,
+  "n_lines": 27,
+  "n_pages": 1,
+  "text": "Z Kalißa die 5. Decemb: W Trąb¬\nczynie pięć mil od Kaliſza w Dobrach\nDziedzicznych Jchmćw Pańſtwa Pru¬\nſińſkich, odprawił ſię Akt Pogrzebo¬\nwy ś. p. Jmći Pana Pawłá Pruſińſkie¬\ngo Szambelana J. K. Mći, przy zná¬\nczney frekwencyi Domow zkolligo¬\nwanych, [Cleri?] Sæcularis; XX. Cy¬\nſterſow z Konwentu Łędzkiego. Zá¬\nproſzony ná Summę Jmć X. Gło¬\nwiecki Opat Łędzki, lecz nieſpo¬\ndziany mroz zatamował przebycie\nprzez rzekę Wartę. Kazanie miał\nX. Prefekt Szkoł Coll: Kaliſkiego\nSocietatis Jeſu. Oracyą Pogrzebo¬\nwą po Kondukcie Jmć Pan Antoni\nPruſińſki Synowiec Rodzony. W\nKlaſztorach zaś bliſkich, iako to: w\nPyzdrach, Koninie, Kaźmierzu, zá\ndyſpozycyą Jeymći Pani Katarzyny\nz Rozdrażewſkich Pruſińſkiey, pozo¬\nſtałey Małżonki, odprawiły ſię tegoż\ndnia Exekwie z Wigiliami y liczne¬\nmi Mſzami, dla ſczupłości mieyſca\nw Kościele Parafialnym Trąbczyń¬\nſkim.",
+  "text_reading": "Z Kalißa die 5. Decemb: W Trąbczynie pięć mil od Kaliſza w Dobrach Dziedzicznych Jchmćw Pańſtwa Pruſińſkich, odprawił ſię Akt Pogrzebowy ś. p. Jmći Pana Pawłá Pruſińſkiego Szambelana J. K. Mći, przy znáczney frekwencyi Domow zkolligowanych, [Cleri?] Sæcularis; XX. Cyſterſow z Konwentu Łędzkiego. Záproſzony ná Summę Jmć X. Głowiecki Opat Łędzki, lecz nieſpodziany mroz zatamował przebycie przez rzekę Wartę. Kazanie miał\n\nX. Prefekt Szkoł Coll: Kaliſkiego Societatis Jeſu. Oracyą Pogrzebową po Kondukcie Jmć Pan Antoni Pruſińſki Synowiec Rodzony. W Klaſztorach zaś bliſkich, iako to: w Pyzdrach, Koninie, Kaźmierzu, zá dyſpozycyą Jeymći Pani Katarzyny z Rozdrażewſkich Pruſińſkiey, pozoſtałey Małżonki, odprawiły ſię tegoż dnia Exekwie z Wigiliami y licznemi Mſzami, dla ſczupłości mieyſca w Kościele Parafialnym Trąbczyńſkim.",
+  "pages": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "line_start": 3,
+    "line_end": 28,
+    "n_lines": 26,
+    "diplomatic": "Z Kalißa die 5. Decemb: W Trąb¬\nczynie pięć mil od Kaliſza w Dobrach\nDziedzicznych Jchmćw Pańſtwa Pru¬\nſińſkich, odprawił ſię Akt Pogrzebo¬\nwy ś. p. Jmći Pana Pawłá Pruſińſkie¬\ngo Szambelana J. K. Mći, przy zná¬\nczney frekwencyi Domow zkolligo¬\nwanych, [Cleri?] Sæcularis; XX. Cy¬\nſterſow z Konwentu Łędzkiego. Zá¬\nproſzony ná Summę Jmć X. Gło¬\nwiecki Opat Łędzki, lecz nieſpo¬\ndziany mroz zatamował przebycie\nprzez rzekę Wartę. Kazanie miał\nX. Prefekt Szkoł Coll: Kaliſkiego\nSocietatis Jeſu. Oracyą Pogrzebo¬\nwą po Kondukcie Jmć Pan Antoni\nPruſińſki Synowiec Rodzony. W\nKlaſztorach zaś bliſkich, iako to: w\nPyzdrach, Koninie, Kaźmierzu, zá\ndyſpozycyą Jeymći Pani Katarzyny\nz Rozdrażewſkich Pruſińſkiey, pozo¬\nſtałey Małżonki, odprawiły ſię tegoż\ndnia Exekwie z Wigiliami y liczne¬\nmi Mſzami, dla ſczupłości mieyſca\nw Kościele Parafialnym Trąbczyń¬\nſkim.",
+    "transcription": "Z Kalißa die 5. Decemb: W Trąb-\nczynie pięć mil od Kaliſza w Dobrach\nDziedzicznych Jchmćw Pańſtwa Pru-\nſińſkich, odprawił ſię Akt Pogrzebo-\nwy ś. p. Jmći Pana Pawłá Pruſińſkie-\ngo Szambelana J. K. Mći, przy zná-\nczney frekwencyi Domow zkolligo-\nwanych, [Cleri?] Sæcularis; XX. Cy-\nſterſow z Konwentu Łędzkiego. Zá-\nproſzony ná Summę Jmć X. Gło-\nwiecki Opat Łędzki, lecz nieſpo-\ndziany mroz zatamował przebycie\nprzez rzekę Wartę. Kazanie miał\nX. Prefekt Szkoł Coll: Kaliſkiego\nSocietatis Jeſu. Oracyą Pogrzebo-\nwą po Kondukcie Jmć Pan Antoni\nPruſińſki Synowiec Rodzony. W\nKlaſztorach zaś bliſkich, iako to: w\nPyzdrach, Koninie, Kaźmierzu, zá\ndyſpozycyą Jeymći Pani Katarzyny\nz Rozdrażewſkich Pruſińſkiey, pozo-\nſtałey Małżonki, odprawiły ſię tegoż\ndnia Exekwie z Wigiliami y liczne-\nmi Mſzami, dla ſczupłości mieyſca\nw Kościele Parafialnym Trąbczyń-\nſkim.",
+    "reading": "Z Kalißa die 5. Decemb: W Trąbczynie pięć mil od Kaliſza w Dobrach Dziedzicznych Jchmćw Pańſtwa Pruſińſkich, odprawił ſię Akt Pogrzebowy ś. p. Jmći Pana Pawłá Pruſińſkiego Szambelana J. K. Mći, przy znáczney frekwencyi Domow zkolligowanych, [Cleri?] Sæcularis; XX. Cyſterſow z Konwentu Łędzkiego. Záproſzony ná Summę Jmć X. Głowiecki Opat Łędzki, lecz nieſpodziany mroz zatamował przebycie przez rzekę Wartę. Kazanie miał\n\nX. Prefekt Szkoł Coll: Kaliſkiego Societatis Jeſu. Oracyą Pogrzebową po Kondukcie Jmć Pan Antoni Pruſińſki Synowiec Rodzony. W Klaſztorach zaś bliſkich, iako to: w Pyzdrach, Koninie, Kaźmierzu, zá dyſpozycyą Jeymći Pani Katarzyny z Rozdrażewſkich Pruſińſkiey, pozoſtałey Małżonki, odprawiły ſię tegoż dnia Exekwie z Wigiliami y licznemi Mſzami, dla ſczupłości mieyſca w Kościele Parafialnym Trąbczyńſkim.",
+    "paragraphs": [
+     "Z Kalißa die 5. Decemb: W Trąbczynie pięć mil od Kaliſza w Dobrach Dziedzicznych Jchmćw Pańſtwa Pruſińſkich, odprawił ſię Akt Pogrzebowy ś. p. Jmći Pana Pawłá Pruſińſkiego Szambelana J. K. Mći, przy znáczney frekwencyi Domow zkolligowanych, [Cleri?] Sæcularis; XX. Cyſterſow z Konwentu Łędzkiego. Záproſzony ná Summę Jmć X. Głowiecki Opat Łędzki, lecz nieſpodziany mroz zatamował przebycie przez rzekę Wartę. Kazanie miał",
+     "X. Prefekt Szkoł Coll: Kaliſkiego Societatis Jeſu. Oracyą Pogrzebową po Kondukcie Jmć Pan Antoni Pruſińſki Synowiec Rodzony. W Klaſztorach zaś bliſkich, iako to: w Pyzdrach, Koninie, Kaźmierzu, zá dyſpozycyą Jeymći Pani Katarzyny z Rozdrażewſkich Pruſińſkiey, pozoſtałey Małżonki, odprawiły ſię tegoż dnia Exekwie z Wigiliami y licznemi Mſzami, dla ſczupłości mieyſca w Kościele Parafialnym Trąbczyńſkim."
+    ],
+    "sideways_lines": [],
+    "sideways_paragraphs": [],
+    "continues_previous": false,
+    "continues_next": false,
+    "scan": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg",
+    "doc_line_start": 1,
+    "doc_line_end": 26
+   }
+  ]
+ }
+]

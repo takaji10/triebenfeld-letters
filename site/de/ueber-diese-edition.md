@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 591 Dokumente auf 1.983 Handschriftenseiten aus den Jahren 1589 bis
+Die Edition enthält 592 Dokumente auf 1.984 Handschriftenseiten aus den Jahren 1589 bis
 1936. Die ältesten sind Einträge aus den Gerichtsbüchern von Konin und Kalisch zum Streit
 zwischen Trąbczyn und dem Nachbargut Łukom, als Trąbczyn der Familie Prusimski gehörte: Eine
 Kommission entschied 1775 über die Grenze, und das Krontribunal legte sie 1782 endgültig fest. Die Dokumente sind Briefe, königliche Verleihungen, Pacht- und andere Verträge, Gerichtsakten und Akten
@@ -37,7 +37,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus dreiundvierzig Beständen in sechs Archiven:
+Die Dokumente stammen aus vierundvierzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -62,13 +62,16 @@ Die Dokumente stammen aus dreiundvierzig Beständen in sechs Archiven:
   Łazińsk ihr Land erhielten, ihrer Abschrift von 1869 und den Eintragungen bis 1901 über
   ihre Rechte im herrschaftlichen Wald, deren Tausch gegen Land und die Vermessung von 1896;
 - dem **Diözesanarchiv Włocławek**: neun Seiten der Visitation des Dekanats Konin von 1790
-  und 1791, über die Pfarrei Trąbczyn und die Seelen der Nachbarpfarrei Zagórów.
+  und 1791, über die Pfarrei Trąbczyn und die Seelen der Nachbarpfarrei Zagórów;
+- der **Bibliothek Kórnik der Polnischen Akademie der Wissenschaften**, in ihrer digitalen
+  Ausgabe: einem Bericht der Warschauer Zeitung Kuryer Polski von 1754 über das Begräbnis
+  Paweł Prusimskis in Trąbczyn.
 
 Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit seiner
 Archivsignatur. Jeder Bestand hat eine eigene Seite, die beschreibt, was er enthält und wie
 sein Text bearbeitet wurde.
 
-Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, achtzehn polnisch und
+Die meisten Dokumente sind deutsch. Zweiundzwanzig sind französisch, neunzehn polnisch und
 sechsundachtzig lateinisch, die Gerichtseinträge oft mit Stellen in der jeweils anderen der
 beiden Sprachen, und einige deutsche Urkunden enthalten polnische und lateinische Stellen. Jedes ist aus seiner
 eigenen Sprache übersetzt.
@@ -141,11 +144,11 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 882 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 883 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 586 von 591. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 587 von 592. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

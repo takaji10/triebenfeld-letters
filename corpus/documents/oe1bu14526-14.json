@@ -536,6 +536,17 @@
    "scan": "Oe_1_Bu_14526_0083_a1-L14_02.jpg",
    "line": 4412,
    "doc_line": 46
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Ląd",
+   "page": 5,
+   "page_id": "0084_a2",
+   "scan": "Oe_1_Bu_14526_0084_a2-L14_05.jpg",
+   "line": 4532,
+   "doc_line": 163
   }
  ],
  "translation_status": "draft",

@@ -522,3 +522,16 @@ summarised and claim-checked in session. Details: `units/adwl85/notes.md`.
 - [ ] Offered, not asked for: the rest of the visitation of Trąbczyn
       (leaves 26 to 28 recto and what follows 29 verso) and the description
       of the church of Zagórów under its table; all photographed.
+
+## 18. Kuryer Polski 1754, nr 75: the funeral of Paweł Prusimski (added 2026-10-16)
+
+The first holding from print and from a library: one report in the Warsaw
+newspaper Kuryer Polski (Kórnik Library, Cz2271, in the Wielkopolska
+Digital Library), read from your image, translated, summarised and
+claim-checked in session. Details: `units/kuryerpolski1754075/notes.md`.
+
+- [x] Łęd is Ląd (you, 2026-10-16).
+- [ ] **You: one word on a spot sheet** ("[Cleri?]", faint print):
+      `python pipeline/review/queries.py --unit kuryerpolski1754075 --sheet
+      readings.csv`.
+- [ ] **You: publish** (the word to push).

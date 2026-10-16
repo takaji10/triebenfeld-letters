@@ -9129,7 +9129,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 407,
+  "count": 408,
   "documents": [
    "adwl85-1",
    "app53150kaliszgr414-1",
@@ -9220,6 +9220,7 @@
    "iiihamdaiiinr12765-17",
    "iiihamdaiiinr12765-4",
    "iiihamdaiiinr12765-6",
+   "kuryerpolski1754075-1",
    "oe1bu14525-10",
    "oe1bu14525-12",
    "oe1bu14525-17",
@@ -9248,6 +9249,15 @@
    "oe1bu9454-31"
   ],
   "mentions": [
+   {
+    "uid": "kuryerpolski1754075-1",
+    "surface": "Pruſińſki",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg",
+    "line": 19,
+    "doc_line": 17
+   },
    {
     "uid": "app53170koningr114-1",
     "surface": "Prusimski",
@@ -56810,6 +56820,192 @@
   ]
  },
  {
+  "entity": "prusimski-pawel",
+  "display": "Paweł Prusimski",
+  "count": 19,
+  "documents": [
+   "app53170koningr117-3",
+   "app53170koningr117-7",
+   "app53170koningr118-23",
+   "app53170koningr136-1",
+   "app539680783-1",
+   "kuryerpolski1754075-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimski",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "kuryerpolski1754075-1",
+    "surface": "Pruſińſkie",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg",
+    "line": 7,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 13,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 14,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 15,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 37,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0071_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
+    "line": 39,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 42,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0622_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+    "line": 121,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0623_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
+    "line": 124,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0623_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
+    "line": 124,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0623_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
+    "line": 124,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 2,
+    "page_id": "0623_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
+    "line": 124,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 3,
+    "page_id": "0623_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg",
+    "line": 126,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Prusimski",
+    "page": 3,
+    "page_id": "0623_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg",
+    "line": 126,
+    "doc_line": 5
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Prusiński",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 28,
+    "doc_line": 19
+   }
+  ]
+ },
+ {
   "entity": "szepczynski",
   "display": "Bartłomiej Szepczyński, court messenger",
   "count": 19,
@@ -57937,182 +58133,6 @@
     "scan": "Oe_1_Bu_9454_0542_a-L303_01.jpg",
     "line": 21524,
     "doc_line": 5
-   }
-  ]
- },
- {
-  "entity": "prusimski-pawel",
-  "display": "Paweł Prusimski",
-  "count": 18,
-  "documents": [
-   "app53170koningr117-3",
-   "app53170koningr117-7",
-   "app53170koningr118-23",
-   "app53170koningr136-1",
-   "app539680783-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr136-1",
-    "surface": "Prusimski",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
-   },
-   {
-    "uid": "app53170koningr117-3",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0055_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
-    "line": 13,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr117-3",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0055_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
-    "line": 14,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr117-3",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0055_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
-    "line": 15,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr117-3",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0055_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
-    "line": 18,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr117-3",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0055_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
-    "line": 18,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0071_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
-    "line": 37,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0071_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
-    "line": 39,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0071_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
-    "line": 39,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0072_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
-    "line": 42,
-    "doc_line": 6
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 1,
-    "page_id": "0622_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
-    "line": 121,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0623_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
-    "line": 124,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0623_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
-    "line": 124,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0623_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
-    "line": 124,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 2,
-    "page_id": "0623_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
-    "line": 124,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 3,
-    "page_id": "0623_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg",
-    "line": 126,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr118-23",
-    "surface": "Prusimski",
-    "page": 3,
-    "page_id": "0623_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg",
-    "line": 126,
-    "doc_line": 5
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Prusiński",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 28,
-    "doc_line": 19
    }
   ]
  },
@@ -63839,6 +63859,114 @@
   ]
  },
  {
+  "entity": "prusimska-katarzyna",
+  "display": "Katarzyna Prusimska, born Rozdrażewska",
+  "count": 10,
+  "documents": [
+   "adwl85-1",
+   "app53170koningr115-1",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr118-14",
+   "app53170koningr136-1",
+   "app536045-1",
+   "app539680783-1",
+   "kuryerpolski1754075-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr136-1",
+    "surface": "Prusimska",
+    "page": 4,
+    "page_id": "0123_a2",
+    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
+    "line": 50,
+    "doc_line": 45
+   },
+   {
+    "uid": "kuryerpolski1754075-1",
+    "surface": "Pruſińſkiey",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg",
+    "line": 23,
+    "doc_line": 21
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0673_a1",
+    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536045-1",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0673_a2",
+    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr115-1",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0004_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Prusimska",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-14",
+    "surface": "Prusimska",
+    "page": 1,
+    "page_id": "0496_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
+    "line": 70,
+    "doc_line": 2
+   },
+   {
+    "uid": "adwl85-1",
+    "surface": "Prusimskiey",
+    "page": 5,
+    "page_id": "0025_b",
+    "scan": "ADWl_85_0025_b-L1_05.jpg",
+    "line": 40,
+    "doc_line": 34
+   },
+   {
+    "uid": "app539680783-1",
+    "surface": "Prusińska",
+    "page": 2,
+    "page_id": "0006_a1",
+    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
+    "line": 28,
+    "doc_line": 19
+   }
+  ]
+ },
+ {
   "entity": "michaelis-christiane",
   "display": "Christiane Dorothea Michaelis",
   "count": 10,
@@ -64666,104 +64794,6 @@
     "scan": "III_HA_MdA_III_Nr_12367_0004_a-L3_01.jpg",
     "line": 19,
     "doc_line": 1
-   }
-  ]
- },
- {
-  "entity": "prusimska-katarzyna",
-  "display": "Katarzyna Prusimska, born Rozdrażewska",
-  "count": 9,
-  "documents": [
-   "adwl85-1",
-   "app53170koningr115-1",
-   "app53170koningr117-7",
-   "app53170koningr117-8",
-   "app53170koningr118-14",
-   "app53170koningr136-1",
-   "app536045-1",
-   "app539680783-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr136-1",
-    "surface": "Prusimska",
-    "page": 4,
-    "page_id": "0123_a2",
-    "scan": "APP_53_17_0_Konin_Gr_136_0123_a2-L1_04.jpg",
-    "line": 50,
-    "doc_line": 45
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0673_a1",
-    "scan": "APP_53_6_0_45_0673_a1-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app536045-1",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0673_a2",
-    "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
-    "line": 5,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr115-1",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0004_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr117-7",
-    "surface": "Prusimska",
-    "page": 2,
-    "page_id": "0072_a1",
-    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
-    "line": 41,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr117-8",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0072_a2",
-    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
-    "line": 46,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-14",
-    "surface": "Prusimska",
-    "page": 1,
-    "page_id": "0496_a1",
-    "scan": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
-    "line": 70,
-    "doc_line": 2
-   },
-   {
-    "uid": "adwl85-1",
-    "surface": "Prusimskiey",
-    "page": 5,
-    "page_id": "0025_b",
-    "scan": "ADWl_85_0025_b-L1_05.jpg",
-    "line": 40,
-    "doc_line": 34
-   },
-   {
-    "uid": "app539680783-1",
-    "surface": "Prusińska",
-    "page": 2,
-    "page_id": "0006_a1",
-    "scan": "APP_53_968_0_783_0006_a1-L1_02.jpg",
-    "line": 28,
-    "doc_line": 19
    }
   ]
  },
@@ -72093,6 +72123,25 @@
     "scan": "Oe_1_Bu_9454_0544_a1-L303_04.jpg",
     "line": 21584,
     "doc_line": 62
+   }
+  ]
+ },
+ {
+  "entity": "glowiecki",
+  "display": "Głowiecki, Abbot of Ląd",
+  "count": 1,
+  "documents": [
+   "kuryerpolski1754075-1"
+  ],
+  "mentions": [
+   {
+    "uid": "kuryerpolski1754075-1",
+    "surface": "Głowiecki",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg",
+    "line": 12,
+    "doc_line": 10
    }
   ]
  },

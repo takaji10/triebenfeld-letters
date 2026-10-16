@@ -1007,6 +1007,15 @@ places:
     tier: ""
     variants: []
 
+  lad:
+    # The Cistercian abbey on the Warta. "Konwent Łędzki", "Opat Łędzki" in the
+    # Kuryer Polski of 1754: the print's Łęd is Ląd (the editor, 2026-10-16).
+    display: "Ląd"
+    kind: village
+    match: 'Łędzk\w*|Ląd(?:zk\w*)?(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+
 # Fragments that look like a place in a dateline but are not one.
 
   sachsen:

@@ -319,6 +319,10 @@ written until there is a witness or a better scan.
   transcribed, in `units/iiihamdaiiinr12367/intake/unresolved.md`. The chief
   ones are two doubtful words in the margin line of Mohrenheim's note on
   scan 0004 and the unread signature on scan 0007.
+- **Kuryer Polski 1754, nr 75** (added 2026-10-16): one word read with
+  doubt, "[Cleri?] Sæcularis" (faint print), on a spot sheet. Kaźmierz,
+  where exequies were said, is called probably Kazimierz Biskupi on the
+  holding's page; not confirmed.
 - **ADWł 85** (the visitation of Trąbczyn, 1790-1791, published
   2026-10-16): the editor answered the spot sheet; three marks of doubt
   remain, all looked at by the editor: Kozierog[?] (the word before the

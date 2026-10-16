@@ -913,6 +913,27 @@ Where the rest is:
   bar, so it was "Uła" and the separate word "zwany", kept with its doubt
   because the editor was unsure. Say in the report how it was taken.
 
+- **A holding from print, not from an archive** (Kuryer Polski 1754, nr 75,
+  2026-10-16; the editor means to add more newspaper items). The library
+  is a repository like an archive (`bkpan-kornik`); the reference is its
+  shelfmark and the issue, and the digital library's link goes in
+  `scan_source:` and the holding's page. Transcribe only the item, from its
+  dateline, line by line as printed, with the printer's letters (ſ, ß, æ,
+  á). Date it by its own dateline and place it where it was written; the
+  issue's date is said in the rulings and the page.
+- **The line-break pass does not know words spelt with the long s**: it
+  split five words of the newspaper that the print breaks with a hyphen
+  ("Pru¬ſińſkich", "Gło¬wiecki"). Read `linebreak_decisions.csv` after the
+  first build of any text with ſ and rule such rows `join` by hand (they
+  are kept as "held"). The name matcher, by contrast, reads ſ as s.
+- **A summary never rests on a word read with doubt**: the first draft of
+  the newspaper's summary named "the secular clergy" from "[Cleri?]". It
+  was cut, and the claim check says so.
+- **Before a place pattern goes in, read every hit**: Ląd (from the print's
+  "Łędzki") also found "konwent Lądzki" in the decree of 1775 and "Kloster
+  Ląd" in two other holdings, all right; a looser "L[ąa]d" would have
+  needed checking against Polish "ład".
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
