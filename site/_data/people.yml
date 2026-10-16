@@ -311,6 +311,18 @@
   bio_de: "Generalmajor von Blücher, dem 1796 durch dieselbe Order wie Hohenlohe-Ingelfingen die konfiszierten Güter Duninów verliehen wurden. Vermutlich Gebhard Leberecht von Blücher, der spätere Feldmarschall, dessen Lebensdaten hier stehen."
   span: "1796"
   letters: [{id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", n: 5}]
+- slug: "boguslawski"
+  name: "Bogusławski"
+  heading: "Bogusławski"
+  heading_de: "Bogusławski"
+  count: 1
+  docs: 1
+  life: "documented 1791"
+  life_de: "belegt 1791"
+  bio: "A benefactor of the church of Trąbczyn, by whom 250 złoty were placed for Masses there, as the visitation of 1791 records."
+  bio_de: "Ein Wohltäter der Kirche von Trąbczyn, durch den 250 Gulden für Messen angelegt wurden, wie die Visitation von 1791 festhält."
+  span: "1791"
+  letters: [{id: "1", uid: "adwl85-1", url: "/documents/adwl85/1/", n: 1}]
 - slug: "boidelang"
   name: "Boidelang"
   heading: "Boidelang"
@@ -935,6 +947,18 @@
   bio_de: "Ein von Goldbeck, der 1805 Präsident der Kriegs- und Domänenkammer in Kalisz wurde und die Aufteilung der Güter an Siedler unterstützte."
   span: "1805"
   letters: [{id: "152", uid: "oe1bu9454-152", url: "/documents/oe1bu9454/152/", n: 1}, {id: "162", uid: "oe1bu9454-162", url: "/documents/oe1bu9454/162/", n: 2}, {id: "172", uid: "oe1bu9454-172", url: "/documents/oe1bu9454/172/", n: 1}, {id: "168", uid: "oe1bu9454-168", url: "/documents/oe1bu9454/168/", n: 1}]
+- slug: "golinska"
+  name: "Golińska"
+  heading: "Golińska"
+  heading_de: "Golińska"
+  count: 1
+  docs: 1
+  life: "documented 1791"
+  life_de: "belegt 1791"
+  bio: "A benefactress of the church of Trąbczyn, who recorded 2,000 złoty on the estate of Przespolew for 104 Masses a year, as the visitation of 1791 records. The edition knows two other women of the name from the Prusimski court books and has not shown her to be either."
+  bio_de: "Eine Wohltäterin der Kirche von Trąbczyn, die 2.000 Gulden auf dem Gut Przespolew für jährlich 104 Messen verschrieb, wie die Visitation von 1791 festhält. Die Edition kennt zwei andere Frauen dieses Namens aus den Gerichtsbüchern der Prusimski-Zeit und hat sie mit keiner von ihnen gleichgesetzt."
+  span: "1791"
+  letters: [{id: "1", uid: "adwl85-1", url: "/documents/adwl85/1/", n: 1}]
 - slug: "goeschel"
   name: "Göschel"
   heading: "Göschel"

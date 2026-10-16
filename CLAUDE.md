@@ -108,9 +108,9 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-15, evening)
+## Where things stand (2026-10-16)
 
-- **ADWł 85** (slug `adwl85`, added 2026-10-15, **not published**), the
+- **ADWł 85** (slug `adwl85`, added 2026-10-15, **published 2026-10-16**), the
   first holding from the Diocesan Archive in Włocławek: nine pages of the
   visitation of the Konin deanery of 1790 and 1791, the pages the editor's
   transcript covers. Two documents (editor): the parish of Trąbczyn (leaves
@@ -118,10 +118,12 @@ so check them.
   (leaf 34a). The passages of these pages the transcript left out were
   transcribed in session at the editor's word; every page read against the
   scans; English, summaries and claim check in session; era
-  `prusimski-boundary`. Waits on the editor: the spot sheet `readings.csv`
-  (12 rows), the page of changes, whether the reference "ADWł 85" needs a
-  series name, and the word to publish. Read `units/adwl85/notes.md` first.
-- **Everything before ADWł 85 is published and pushed (2026-10-15)**: 589 documents in
+  `prusimski-boundary`. The editor answered the spot sheet (3 marks of
+  doubt remain); the reference has no series name. Published at the
+  editor's word; the edition now has 591 documents in 43 holdings and 882
+  marks of doubt. Still offered: the rest of the visitation of Trąbczyn.
+  Read `units/adwl85/notes.md` first.
+- **Published and pushed before ADWł 85 (2026-10-15)**: 589 documents in
   42 holdings, 879 marks of doubt (with letters 9 and 300 of Oe 1 Bü 9454,
   published later the same day). The last two went out together at the
   editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Three

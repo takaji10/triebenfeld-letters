@@ -1,7 +1,7 @@
 pages:
 - page: 1
   confidence: high
-  marker_count: 2
+  marker_count: 0
   en: 'Specification of the number of persons in the parish of Zagórów.
 
 
@@ -11,7 +11,7 @@ pages:
     Year 1791. | Men | Women | Boys | Girls | Men | Women | Boys | Girls
 
 
-    The town of Zagórów | 275 | 298 | [uncertain: 58] | 48 | — | — | — | —
+    The town of Zagórów | 275 | 298 | 58 | 48 | — | — | — | —
 
 
     Oleśnica | 86 | 83 | 16 | 16 | — | — | — | —
@@ -39,7 +39,7 @@ pages:
 
 
     Myszakowko | — | — | — | — | 5 | 5 | 2 | 4 | At the same place a woman aged 110, whose great-grandchildren
-    are [uncertain: rozrządzone].
+    are settled.
 
 
     Smoleniec | 24 | 14 | 5 | 2 | — | — | — | —

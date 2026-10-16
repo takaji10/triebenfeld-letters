@@ -85,7 +85,9 @@ ROWS = [
      (0.72, 0.33, 1.0, 0.40)),
 ]
 
-ANSWERED = set()
+# Answered by the editor on 2026-10-16 and worked in (intake/spot_answers.py,
+# intake/readings_answers.json). Answered rows are left off if the sheet is made again.
+ANSWERED = {'s%02d' % i for i in range(1, 13)}
 
 
 def main():

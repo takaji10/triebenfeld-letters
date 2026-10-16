@@ -141,7 +141,7 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 891 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 882 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 

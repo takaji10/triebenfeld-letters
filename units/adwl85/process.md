@@ -8,11 +8,11 @@ The editor transcribed the parts of the nine pages that concern Trąbczyn and th
 
 Two passages on these pages are not transcribed, because they belong to other parts of the visitation: the top of leaf 23 verso, the end of the record of the parish before Trąbczyn; and on leaf 34a the description of the church of Zagórów under the table.
 
-The text keeps the spelling of the page (iest, ktorey, Dyecezyi), and the scribe's abbreviations as he wrote them (JWo, JMści, X., Rku); a colon marks a word he cut short. Each line of the transcription is a paragraph of the page. The word the scribe wrote at the foot of a page to announce the next stands on a line of its own and is not repeated in the reading text. The tables are given row by row, their cells separated by an upright stroke ( | ); the column headings, which the scribe cut short in narrow columns, are given as far as he wrote them. A word read with doubt is marked "[?]"; there are 12.
+The text keeps the spelling of the page (iest, ktorey, Dyecezyi), and the scribe's abbreviations as he wrote them (JWo, JMści, X., Rku); a colon marks a word he cut short. Each line of the transcription is a paragraph of the page. The word the scribe wrote at the foot of a page to announce the next stands on a line of its own and is not repeated in the reading text. The tables are given row by row, their cells separated by an upright stroke ( | ); the column headings, which the scribe cut short in narrow columns, are given as far as he wrote them. A word read with doubt is marked "[?]". The editor looked at all twelve such words on the scans and settled nine of them; three remain.
 
 ### Checking the figures
 
-The table of the souls of Trąbczyn checks itself: every column adds up to the scribe's total, and the totals to his 760, the number the text gives above the table. The Zagórów table does not: the women's column adds up to ten more than the scribe's total, and his grand total is six short of his own column totals. The figures are given as the scribe wrote them; one figure, the boys of the town of Zagórów, is marked as read with doubt (58, or perhaps 68).
+The table of the souls of Trąbczyn checks itself: every column adds up to the scribe's total, and the totals to his 760, the number the text gives above the table. The Zagórów table does not: the women's column adds up to ten more than the scribe's total, and his grand total is six short of his own column totals. The figures are given as the scribe wrote them. One digit, among the boys of the town of Zagórów, looks like the scribe's 6, but the column comes out at his total only with 5, and the editor read it as 58.
 
 ### Division and dating
 

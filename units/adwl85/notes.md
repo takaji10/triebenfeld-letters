@@ -8,8 +8,8 @@ on 2026-10-15 at the editor's request: the editor's transcript read in,
 the passages it left out of these pages transcribed in session at the
 editor's word, every page read against the scans, translated and
 summarised in session, the summaries claim-checked, with the holding's page.
-**Not published**: waits for the editor's answers on the spot sheet and
-their word.
+The editor answered the spot sheet on 2026-10-16, said the reference has no
+series name, and gave the word to publish: **published 2026-10-16**.
 
 Everything about how the holding was made is in the docstrings of
 `intake/holding.py` and `intake/text85.py`.
@@ -57,7 +57,12 @@ them to `processed/`.
   od Konina") is restored: the editor's text gave Kalisz the 2 miles of
   Konin. What changed for the editor is in `intake/changes.yml`.
 - 12 marks of doubt, all on the spot sheet `readings.csv`
-  (`intake/spot_sheet.py`), each with a picture. Not yet answered.
+  (`intake/spot_sheet.py`), each with a picture. The editor answered
+  (2026-10-16; `intake/spot_answers.py` says how each was taken): nine
+  settled (obok, trumną, Bogusławskiego, Golinską, Dręzgi, Illust:,
+  Gralewska, 58, rozrządzonę), three kept with doubt (Kozierog[?],
+  Uła[?], podciorze[?]). Their note "Maybe Ułazwany" was taken as "Uła"
+  and the separate word "zwany", called: in this hand ł is a t with a bar.
 
 ## The figures
 
@@ -67,8 +72,8 @@ them to `processed/`.
 - The Zagórów table: the women's column adds up to 1040 against the clerk's
   1030, and his eight totals to 2740 against his 2734. Every figure was
   looked at on the scan (his 8 is a loop with a stroke inside, like a θ).
-  The boys of the town are read 58 with doubt: the digit looks like his 6,
-  but 270 comes out only with 58.
+  The boys of the town: the digit looks like his 6, but 270 comes out
+  only with 58, and the editor read 58.
 - All figures of both tables agree with the editor's transcript.
 
 ## People and places
@@ -77,9 +82,10 @@ them to `processed/`.
   Prusimska Szambelanowa", is Katarzyna Prusimska, born Rozdrażewska, widow
   of the chamberlain Paweł Prusimski (people.yml, `prusimska-katarzyna`).
 - New people: Józef Zurkowski, Teodor Czartoryski, Ignacy Augustyn
-  Kozierowski, Paprocki, Dorposki, Stefan Wardencki, Strzałkowski. Not
-  entered until the spot sheet settles them: Bagusławski[?] and
-  Golinska[?] (a Teresa Golińska married Krzysztof Prusimski).
+  Kozierowski, Paprocki, Dorposki, Stefan Wardencki, Strzałkowski; after
+  the spot sheet, Bogusławski and Golińska (not shown to be the Teresa
+  Golińska who married Krzysztof Prusimski, nor the Anna Golińska, born
+  Bojanowska, of the decree of 1775).
 - Patterns added for this holding's spellings: Trąmbczyn/Trambczyn,
   Maryanton, Skokom, the parish's Nowa Wieś, Łazy and Olędry; "po Swięcie"
   (the feast) shut out of Swięcia; "Komornikow" (cottagers) shut out of the
@@ -89,9 +95,8 @@ them to `processed/`.
 
 ## Still to do
 
-- The editor's answers on the spot sheet, then their word to publish.
-- The archive's reference: given as "ADWł 85". Ask whether the archive
-  cites it with a series name before the number.
+- The reference stays "ADWł 85": the archive's holdings have no series
+  name to put before it (editor, 2026-10-16).
 - Offered: the rest of the visitation of Trąbczyn (leaves 26 to 28 recto,
   and the parsonage and income after leaf 29 verso) and the text under the
   Zagórów table, all photographed.

@@ -1863,7 +1863,7 @@ people:
     only_in: [adwl85-1]
     tier: "Text-confirmed"
     variants: []
-    identity: "\"X. Ignacy Augustyn Sariusz Kozierok[?] Kozierowski, Biskup Adratyński\", who ordained Józef Zurkowski priest on 24 February 1767 (ADWł 85, leaf 23 verso). The word before Kozierowski is read with doubt. Added 2026-10-15."
+    identity: "\"X. Ignacy Augustyn Sariusz Kozierog[?] Kozierowski, Biskup Adratyński\", who ordained Józef Zurkowski priest on 24 February 1767 (ADWł 85, leaf 23 verso). The word before Kozierowski is read with doubt (the editor, 2026-10-16: Kozierog[?]). Added 2026-10-15."
   paprocki:
     display: "Paprocki, parish priest of Trąbczyn"
     render: "Paprocki"
@@ -1893,3 +1893,18 @@ people:
     tier: "Text-confirmed"
     variants: []
     identity: "\"JMć Pan Strzałkowski\", who in 1670 secured 500 Polish złoty for the church of Trąbczyn on Strzałkowo, recorded at Kalisz and Pyzdry (ADWł 85, leaf 29). Added 2026-10-15."
+  boguslawski:
+    display: "Bogusławski"
+    match: 'Bogusławskiego'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"JMć Pan Bogusławski\", by whom 250 złoty for Masses at Trąbczyn were placed, with the sum of 1668 on Kurów (ADWł 85, leaf 29; the reading the editor's, 2026-10-16). Added 2026-10-16."
+  golinska:
+    display: "Golińska"
+    render: "Golinska"
+    match: 'Golinską'
+    only_in: [adwl85-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "\"JMa Pani Golinska\", who recorded 2,000 złoty for 104 Masses a year at Trąbczyn on the estate of Przespolew (ADWł 85, leaf 29; the reading the editor's, 2026-10-16). Not shown to be Teresa Golińska, wife of Krzysztof Prusimski (APP 53/17/0/-/Konin Gr.118), or Anna, born Bojanowska, by her first marriage Trąpczyńska and later Golińska (APP 53/17/0/-/Konin Gr.145). Added 2026-10-16."

@@ -72192,6 +72192,44 @@
   ]
  },
  {
+  "entity": "boguslawski",
+  "display": "Bogusławski",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Bogusławskiego",
+    "page": 7,
+    "page_id": "0029_a",
+    "scan": "ADWl_85_0029_a-L1_07.jpg",
+    "line": 51,
+    "doc_line": 43
+   }
+  ]
+ },
+ {
+  "entity": "golinska",
+  "display": "Golińska",
+  "count": 1,
+  "documents": [
+   "adwl85-1"
+  ],
+  "mentions": [
+   {
+    "uid": "adwl85-1",
+    "surface": "Golinską",
+    "page": 7,
+    "page_id": "0029_a",
+    "scan": "ADWl_85_0029_a-L1_07.jpg",
+    "line": 51,
+    "doc_line": 43
+   }
+  ]
+ },
+ {
   "entity": "strzalkowski",
   "display": "Strzałkowski",
   "count": 1,

@@ -31,7 +31,7 @@ TEXT = {
  '0023_b': [
   'Wies Trąbczyn',
   'w ktorey Kościoł, tego Plebanem iest X. Jozef Zurkowski urodzony w Dyecezyi Poznanskiey iako Metryka okazuie '
-  'Rku 1740. Dnia 9 Lipca. Poswięcony na Kapłana od JWo Mści X. Ignacego Augustyna Sariusza Kozierok[?] '
+  'Rku 1740. Dnia 9 Lipca. Poswięcony na Kapłana od JWo Mści X. Ignacego Augustyna Sariusza Kozierog[?] '
   'Kozierowskiego Biskupa Adratyńskiego w Rku 1767. Dnia 24. Lutego, wprzod miawszy Literas dimissoriales ad '
   'suscipiendos ordines Diaconatus et Presbyteratus od JWo Mści X. Teodora Hrabi na Klewaniu i Zukowie '
   'Czartoryskiego Biskupa Poznanskiego dane sobie Dnia 17. Grudnia Roku 1766 instytuowany do tego Kościoła w '
@@ -48,7 +48,7 @@ TEXT = {
   'Orderu S. Stanisława lezy w Woiewodztwie Kaliskim, powiecie i Dekanacie Koninskim Archi Dyakonacie y '
   'Officyalacie Gnieznin: odległy od Metropolitalnego Miasta Gniezna na mil 6 od Łowicza na mil 21. od JKMci '
   'Miasta Kalisza na mil 5 od Konina Miasta powiatowego na mil 2. Zamyka w sobie prawem farnym wieś rzeczoną '
-  'Trąbczyn, w ktorey Kościoł; Maryanton, Porąbki, Folwark Uta[?] zwany, Olędry nowe i stare Łazy, Osiny, Nowa '
+  'Trąbczyn, w ktorey Kościoł; Maryanton, Porąbki, Folwark Uła[?] zwany, Olędry nowe i stare Łazy, Osiny, Nowa '
   'Wieś. Wsie te względem Kościoła na wschod zimowy odległe na stay 8. na przed południe takoz, na po południe '
   'o puł mili, na przed zachod o ćwierć mili, na zachod o stay 10. Wszystkie te dziedziczne JWo Starosty.',
   'Parafia ta rościąga się na dobre w puł mili. w tey całey Parafij ogułem rachuie się Dusz 760. to iest '
@@ -79,7 +79,7 @@ TEXT = {
   'Kościoł ten Krzyzową formą z dwiema Kaplicami drzewianemi na ktorym Dach nowy, sufit dla zacieku z dzdzu po '
   'dawniey mieyscami nadwerezony, posadzka w całym Kościele z tarcic w wielkim chorze przełozenia potrzebuiąca. '
   'Kościoł ten stoi na wschod słońca. drzwi wielkie na zachod dobrze zamknione, chor ma wyniosły, dobry na nim '
-  'pozytew stoiący z siedmiu głosami, trzema miechami, oboki[?] od strony południowey drzwi do Babieńca z '
+  'pozytew stoiący z siedmiu głosami, trzema miechami, obok od strony południowey drzwi do Babieńca z '
   'cmętarza dobrze zamknione z ktorego wchodzi się do Kaplicy a z tey do Kościoła, zakrystya drzewiana w '
   'oknach reperacyi i podłogi nowey potrzebuiąca,',
   'w tey',
@@ -132,7 +132,7 @@ TEXT = {
   'Promptuarium morale, Catechismus Romanus, Manuale Parochorum reszta Xiązek znayduiących się w Wizycie JMści '
   'X. Dorposkiego ze tu nie iest wyrazona przyczyna tego iz przez podstęp uczyniony pod ninieyszym Rządcą '
   'Kościoła tego i przez niewiadomość do kogoby nalezały oddane są wierzycielom S.P. JMści X. Paprockiego '
-  'tuteyszego Pasterza. Katafalk dobry z trumną[?], mary, Krzyz Processyonalny 1. pulpit 1. Chorągiew załobna '
+  'tuteyszego Pasterza. Katafalk dobry z trumną, mary, Krzyz Processyonalny 1. pulpit 1. Chorągiew załobna '
   '1. Proz-',
   'porczyk',
  ],
@@ -145,12 +145,12 @@ TEXT = {
   'zapisał od tych nalezy się teraz po zło: 80 i puł. na obowiązek spiewania Mszy Swiętych na Rok 52. czytanych '
   '156 Litanij spiewanych od Organisty 208. z tego dochodu na fabrykę takze do Kościoła 1668. Summa zło Pol: '
   '350. na części Kurowa tamze zapisana od JMci Pana Stefana Wardenckiego toz zło 250 przez JMci Pana '
-  'Bagusławskiego[?] lokowana od tey nalezy zło 21. na odprawienie Mszy SS. 52 1670. Zło Pol: 500 na '
+  'Bogusławskiego lokowana od tey nalezy zło 21. na odprawienie Mszy SS. 52 1670. Zło Pol: 500 na '
   'Strzałkowie zapisane w Kaliszu i Pyzdrach od JMci Pana Strzałkowskiego od tey nalezy zło 17 i puł. na mszy '
-  'SS. 12. Tamze Summa zło 2000. pod tymze Rokiem i aktem zapisana przez JMą Panią Golinską[?] na Dobrach '
+  'SS. 12. Tamze Summa zło 2000. pod tymze Rokiem i aktem zapisana przez JMą Panią Golinską na Dobrach '
   'Przespolewie na odprawienie Mszy SS. co rok 104. 1692. dnia 16 Grudnia Dekret Konsystarza Gnieznin: z '
-  'Archiwum tegoz wyięty w ktorym przysądza się dziesięcina z Folwarku Drezgi[?] toz z Folwarku nowina '
-  'zwanego. 1694. Karczma Dekretem Illust:[?] Offła Gnież: utwierdzona i propinowanie w niey piwa i gorzałki, '
+  'Archiwum tegoz wyięty w ktorym przysądza się dziesięcina z Folwarku Dręzgi toz z Folwarku nowina '
+  'zwanego. 1694. Karczma Dekretem Illust: Offła Gnież: utwierdzona i propinowanie w niey piwa i gorzałki, '
   'w tymze Dekrecie wyrazony dom na szkołę ktory te-',
   'raz',
  ],
@@ -158,7 +158,7 @@ TEXT = {
   'teraz ma nazwisko Dom Organisty Item w tymze Dekrecie Skład Roli Plebańskiey borek osobny sosnowy przy '
   'ktorym chłopi za pozwoleniem plebanow wyrudowali sobie Niwy i Łączki pustkowie to ma nazwisko porąbki na '
   'ktorym teraz mieszka trzech Komornikow, toz łąka znaczna za Borkiem i Porąbkami Plebańska, tymze Dekretem '
-  'Dziesięcina wytyczna z folwarkow Panskich Łąka nazwana Jalewska[?] z dawna od Dziedzicow darowana przysądza '
+  'Dziesięcina wytyczna z folwarkow Panskich Łąka nazwana Gralewska z dawna od Dziedzicow darowana przysądza '
   'się 1697. Rezygnacya w poł Składu i niwy uczyniona na Kapturach w Kaliszu po smierci Jana trzeciego Krola '
   'Polskiego toz nowiny na Bakałarza przy Borku Kościelnym od strony połnocny lezącey. Pod tymze Aktem W. '
   'Andrzy Trąmbczyński Dziedzic Trąmbczyna części, czyni submissyą na podeymowanie wszelkich danin podatkow '
@@ -166,7 +166,7 @@ TEXT = {
   'tych dokumentow przy Kościele niema.',
   'Stan Ekonomiczny i Dochodowy Kościoła tego.',
   'Obok Kościoła od strony południowey plac znaczny długości i szerokości do 50 lasek niemieckich maiący, na nim '
-  'ogrody sadowne[?] i budowle Plebańskie. A nayprzod plebania formą krzyzową z facyatą na południe, sień iey '
+  'ogrody podciorze[?] i budowle Plebańskie. A nayprzod plebania formą krzyzową z facyatą na południe, sień iey '
   'dosyć obszerna, na prawey stronie od wniyścia, izba pierwsza z tey pokoik sypialny daley schowanie czyli '
   'spizarnia potym Komora, na lewey izba czeladna dosyć obszerna, przy ktorey komory dwie z tych w iedney '
   'schody czyli wniyście na gorę, w srodku tego',
@@ -176,7 +176,7 @@ TEXT = {
   'Specyfikacya Liczby Osob do Parafij Zagurowski.',
   'Katolicy | Dyssydenci',
   'Roku 1791. | Męzczyzni | Niewiasty | Chłopcy | Dziewczęta | Męzczyzni | Niewiasty | Chłopcy | Dziewczęta',
-  'Miasto Zagurow | 275 | 298 | 58[?] | 48 | — | — | — | —',
+  'Miasto Zagurow | 275 | 298 | 58 | 48 | — | — | — | —',
   'Olesnica | 86 | 83 | 16 | 16 | — | — | — | —',
   'Skokom | 77 | 73 | 16 | 16 | — | — | — | —',
   'Kopoyno | 85 | 90 | 32 | 25 | — | — | — | —',
@@ -185,7 +185,7 @@ TEXT = {
   'Łukom | 79 | 76 | 22 | 24 | — | — | — | —',
   'Łomow | 53 | 49 | 20 | 19 | 2 | 2 | 3 | 2',
   'Myszakow | 39 | 31 | 6 | 6 | — | — | — | —',
-  'Myszakowko | — | — | — | — | 5 | 5 | 2 | 4 | Tamze niewiasta maiąca lat 110. Ktorey prawnuki rozrządzone[?].',
+  'Myszakowko | — | — | — | — | 5 | 5 | 2 | 4 | Tamze niewiasta maiąca lat 110. Ktorey prawnuki rozrządzonę.',
   'Smoleniec | 24 | 14 | 5 | 2 | — | — | — | —',
   'Grądzień | 16 | 19 | 4 | 9 | — | — | — | —',
   'Hagrowo | 13 | 12 | 2 | 5 | — | — | — | —',

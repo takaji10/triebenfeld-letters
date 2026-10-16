@@ -1985,6 +1985,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Index: Katarzyna Prusimska (the Chamberlain's wife who enlarged the church), Antoni Prusimski, the Trąmpczyński family, seven new people; the parish's places; "po Swięcie" shut out of Swięcia and "Komornikow" (cottagers) out of the glossary's komornik. A document type "visitation"; an archive with no website is credited without a link.
 - Not published.
 
+## ADWł 85: the spot sheet, published (2026-10-16)
+
+- The editor answered the spot sheet "Doubtful readings in the visitation of Trąbczyn": obok, trumną, Bogusławskiego, Golinską, Dręzgi, Illust:, Gralewska, 58 and rozrządzonę settled; Kozierog[?], Uła[?] and podciorze[?] kept with their doubt (`units/adwl85/intake/spot_answers.py`). 3 marks of doubt remain in the holding, 882 in the edition. Bogusławski and Golińska added to the index.
+- The reference stays "ADWł 85": the archive's holdings have no series name (editor).
+- Published at the editor's word: 591 documents in 43 holdings.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

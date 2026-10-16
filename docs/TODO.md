@@ -498,7 +498,7 @@ translated and summarised in session. Details: `units/oe1bu9454/notes.md`,
       January 1816 by the archive's pencil note.
 - [x] Published at your word (2026-10-15).
 
-## 17. ADWł 85: the visitation of the parish of Trąbczyn, 1790-1791 (added 2026-10-15)
+## 17. ADWł 85: the visitation of the parish of Trąbczyn, 1790-1791 (added 2026-10-15, published 2026-10-16)
 
 Nine pages of the volume of the visitation of the Konin deanery in the
 Diocesan Archive in Włocławek, the first holding from that archive: the
@@ -509,17 +509,16 @@ summarised and claim-checked in session. Details: `units/adwl85/notes.md`.
 
 - [x] The gaps on the nine pages transcribed, and two documents (you,
       2026-10-15).
-- [ ] **You: the spot sheet "Doubtful readings in the visitation of
-      Trąbczyn"** (12 rows, each with a picture): `python
-      pipeline/review/queries.py --unit adwl85 --sheet readings.csv`, with
-      the site served beside it.
+- [x] You answered the spot sheet "Doubtful readings in the visitation of
+      Trąbczyn" (12 rows, 2026-10-16): nine readings settled, three kept
+      with their doubt. Worked in the same day.
 - [ ] **You: read the new entry on the page of changes**
       (`review/changes/index.html`): what the check changed against your
       transcript, chief among them the distance of Kalisz and Konin on
       leaf 24 and the titles ("JWo Mści").
-- [ ] **You: the archive's reference.** The holding is cited "ADWł 85".
-      Does the archive put a series name before the number?
-- [ ] **You: publish** (the word to push).
+- [x] The reference stays "ADWł 85": there is no series name (you,
+      2026-10-16).
+- [x] Published at your word (2026-10-16).
 - [ ] Offered, not asked for: the rest of the visitation of Trąbczyn
       (leaves 26 to 28 recto and what follows 29 verso) and the description
       of the church of Zagórów under its table; all photographed.
