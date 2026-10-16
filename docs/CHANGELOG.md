@@ -2010,6 +2010,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Years before 1500 no longer get a thousands comma in the reading text and English of this holding (`numerals.YEARS_FROM`); no other holding changed.
 - Not published.
 
+## Kodeks Dyplomatyczny Wielkopolski: Imielno, published (2026-10-16)
+
+- Imielno is an estate of focus (editor): a new place, matched also in its medieval form "Chemelino". The gift of the hospital of Gniezno (1243), which lists "Chemelino" among the hospital's villages, is tagged with it, and its summary and the holding page say so (claim check rewritten for that statement). Imielno also links the boundary decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of 1791.
+- Published at the editor's word: 613 documents in 45 holdings, 1173 to 1936.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

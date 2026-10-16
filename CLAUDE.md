@@ -110,14 +110,15 @@ so check them.
 
 ## Where things stand (2026-10-16)
 
-- **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built 2026-10-16,
-  **not published; waits for the editor's word**): twenty-one entries,
+- **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
+  **published 2026-10-16**): twenty-one entries,
   1173 to 1440, each a document, text only (the WBC has no page images),
   the whole entry from the editor's `intake/kodeks.txt`, never corrected;
   footnotes raised on the site (`footnotes.yml`); translated, summarised
   and claim-checked in session; status `translated`. A new era `medieval`
-  (working name), on the timeline from 1173 and the story page. The
-  edition would then have 613 documents in 45 holdings. Read
+  (working name), on the timeline from 1173 and the story page. Imielno
+  was added to the estates of focus at the editor's word. The edition has
+  613 documents in 45 holdings. Only the era's name is open. Read
   `units/kdw/notes.md` first.
 - **Kuryer Polski 1754, nr 75** (slug `kuryerpolski1754075`, added
   2026-10-16, **published 2026-10-16**): the first holding from print and from a

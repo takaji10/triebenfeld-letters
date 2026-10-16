@@ -21,7 +21,7 @@ The Cistercian abbey of Ląd, on the Warta between Konin and Pyzdry, was the gre
 
 **Trąbczyn and its knights.** In 1276 Duke Bolesław gives the village of Trąbczyn, "Trupcino", to Count Mikołaj, treasurer of Ląd, after two earlier holders had died without heirs <span class="cite">[<a href="{{ '/documents/kdw/5/' | relative_url }}">5</a>]</span>. In 1346 the brothers Jan and Przedpełk, heirs of Trąbczyn, and Andrzej of Trąbczyn with his kin lose their claim to Stropiszyn and Pępocin against the church of Gniezno <span class="cite">[<a href="{{ '/documents/kdw/9/' | relative_url }}">9</a>, <a href="{{ '/documents/kdw/10/' | relative_url }}">10</a>]</span>. Mikołaj and Andrzej of Trąbczyn witness a sale to the abbey at Gniezno in 1415 <span class="cite">[<a href="{{ '/documents/kdw/17/' | relative_url }}">17</a>]</span>. In 1434, in the house of Mścichna, wife of Otto, heir in Trąbczyn, their son Wojciech, a canon of Kruszwica, makes his brother Jan of Trąbczyn his proctor <span class="cite">[<a href="{{ '/documents/kdw/19/' | relative_url }}">19</a>]</span>: the only one of these documents written at Trąbczyn.
 
-**Other hands.** Wisław son of Gerlach gives up Wrąbczyn in an exchange confirmed in 1292 <span class="cite">[<a href="{{ '/documents/kdw/8/' | relative_url }}">8</a>]</span>. In 1440 King Władysław III charges sums for Stanisław Czarny on Wrąbczynek, Adamierz and Borzykowo, which the editors call royal villages near Pyzdry <span class="cite">[<a href="{{ '/documents/kdw/20/' | relative_url }}">20</a>, <a href="{{ '/documents/kdw/21/' | relative_url }}">21</a>]</span>. The gift of the hospital of Gniezno to the canons of Miechów in 1243 names none of these places <span class="cite">[<a href="{{ '/documents/kdw/3/' | relative_url }}">3</a>]</span>.
+**Other hands.** Wisław son of Gerlach gives up Wrąbczyn in an exchange confirmed in 1292 <span class="cite">[<a href="{{ '/documents/kdw/8/' | relative_url }}">8</a>]</span>. In 1440 King Władysław III charges sums for Stanisław Czarny on Wrąbczynek, Adamierz and Borzykowo, which the editors call royal villages near Pyzdry <span class="cite">[<a href="{{ '/documents/kdw/20/' | relative_url }}">20</a>, <a href="{{ '/documents/kdw/21/' | relative_url }}">21</a>]</span>. Among the villages of the hospital of Gniezno, given to the canons of Miechów in 1243, is "Chemelino", which the editors identify as Imielno, the neighbour of Łukom <span class="cite">[<a href="{{ '/documents/kdw/3/' | relative_url }}">3</a>]</span>.
 
 The editors' notes are of their time and are kept as they are. Their note to the exchange of 1418 puts Wronczyn in the district of Poznań and could not say which Drzewce is meant, but the document places Great Wrąbczyn beside Zagórów, and the edition tags it so <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
 
@@ -31,7 +31,7 @@ The documents are in Latin. The editors' apparatus is in Latin and Polish in vol
 
 ### Estates and people
 
-The estates tagged are the editor's sixteen around Trąbczyn and Zagórów: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce and Przybysław. Łazy and Szetlewek do not occur in these entries, and Przybysław only as the name of a man, the servant of the church of Zagórów in 1414 <span class="cite">[<a href="{{ '/documents/kdw/16/' | relative_url }}">16</a>]</span>; none of the three is tagged. People are named in the index only where they are of Trąbczyn (the editor). <!-- context -->
+The estates tagged are the editor's seventeen around Trąbczyn and Zagórów: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Imielno, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce and Przybysław. Łazy and Szetlewek do not occur in these entries, and Przybysław only as the name of a man, the servant of the church of Zagórów in 1414 <span class="cite">[<a href="{{ '/documents/kdw/16/' | relative_url }}">16</a>]</span>; none of the three is tagged. People are named in the index only where they are of Trąbczyn (the editor). <!-- context -->
 
 ### Related holdings
 
@@ -53,7 +53,7 @@ Each document is dated and placed by the editors' heading, which reads its datel
 
 ### Estates and people
 
-Each document is tagged by hand with the estates of the editor's list of sixteen that it names, read with the editors' identifications. People are entered in the index only where they are of Trąbczyn (the editor): the knights and heirs of Trąbczyn of 1276 to 1434, and the parish priest of 1399. Many people of other places are left unnamed in the index.
+Each document is tagged by hand with the estates of the editor's list of seventeen that it names, read with the editors' identifications. People are entered in the index only where they are of Trąbczyn (the editor): the knights and heirs of Trąbczyn of 1276 to 1434, and the parish priest of 1399. Many people of other places are left unnamed in the index.
 
 ### Summary and translation
 

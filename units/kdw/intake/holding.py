@@ -19,10 +19,11 @@ How the holding is made (the editor, 2026-10-16):
 - the footnote markers of the volumes 5 to 11 stand in the text glued to their
   words ("Mezeconis1", "quatuordecimoa"); footnotes.yml records where each is,
   and the site raises them and sets the notes apart. The text is unchanged.
-- the estates of focus are from the editor's list of sixteen, by hand, per
+- the estates of focus are from the editor's list of seventeen, by hand, per
   entry (ESTATES below): Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek,
   Łukom, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz,
-  Drzewce, Przybysław. Łazy and Szetlewek are not in these entries;
+  Drzewce, Przybysław, and Imielno (added by the editor the same day, for the
+  gift of 1243). Łazy and Szetlewek are not in these entries;
   Przybysław occurs only as a man's name.
 """
 import io
@@ -52,8 +53,8 @@ ENTRIES = [
      'Mieszko gives "parvum Vronchin", Wrąbczynek, to the Cistercians of Ląd'),
     (2, 1, 222, [1240, 9, 30], '', 'donation', ['lad', 'zagorowo', 'skokum', 'kopojno', 'trabczyn', 'szetlew', 'lukom', 'wrabczyn'],
      'the tithes of Zagórów, Skokum, Kopojno, Trąbczyn, Szetlew, Łukom and Wrąbczyn given to Ląd; "s. l.", no place'),
-    (3, 1, 238, [1243, 5, 4], 'Gniezno', 'donation', [],
-     'the hospital of Gniezno given to the Holy Sepulchre of Miechów; none of the sixteen estates'),
+    (3, 1, 238, [1243, 5, 4], 'Gniezno', 'donation', ['imielno'],
+     'the hospital of Gniezno given to the Holy Sepulchre of Miechów; among its villages "Chemelino", Imielno (the editor)'),
     (4, 1, 393, [1261, 12, 10], 'Sechowa', 'confirmation', ['lad', 'szetlew', 'swiatniki', 'zagorowo', 'skokum', 'olesnica', 'kopojno'],
      'the possessions of Ląd confirmed: Szethowo (Szetlew), the Sanctuarii (Świątniki), Zagorowo, Skokom, Oleszyno, Capayn; '
      'place as written, the editors take it to be Czechowo or Szetlew'),

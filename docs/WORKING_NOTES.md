@@ -997,6 +997,14 @@ Where the rest is:
   document sets it between the abbey's estates of Great Wrąbczyn and
   Zagórów. The note stays as printed; the tag follows the text, and the
   summary and the holding page say so.
+- **A document the editor chose that gets no estate tag is a question,
+  not a ruling** (the Kodeks, 2026-10-16). The gift of 1243 named none of
+  the sixteen estates on the editor's list and was left untagged; the
+  editor then said Imielno, among its villages, "should have been on the
+  list of estates in focus". The editor's list is not closed: when a
+  chosen document matches none of it, read its places against the
+  holding's neighbourhood (Imielno is Łukom's neighbour in the decree of
+  1775) and propose the place before building.
 - **The translation check's flags on a Latin holding are mostly noise**:
   footnote numbers of 10 and more become superscripts (¹⁰) and read as
   "numeral missing", and the German termbase catches Latin words

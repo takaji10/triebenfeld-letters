@@ -687,6 +687,12 @@
   docs: 4
   span: "1805–1806"
   letters: [{id: "1", uid: "app539680801-1", url: "/documents/app539680801/1/", n: 3}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", n: 1}, {id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/", n: 2}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", n: 2}]
+- slug: "imielno"
+  name: "Imielno"
+  count: 12
+  docs: 4
+  span: "1243–1791"
+  letters: [{id: "3", uid: "kdw-3", url: "/documents/kdw/3/", n: 3}, {id: "1", uid: "app53170koningr145-1", url: "/documents/app53170koningr145/1/", n: 7}, {id: "4", uid: "app53170koningr117-4", url: "/documents/app53170koningr117/4/", n: 1}, {id: "2", uid: "adwl85-2", url: "/documents/adwl85/2/", n: 1}]
 - slug: "kirchberg"
   name: "Kirchberg"
   count: 4

@@ -117,8 +117,10 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 0,
-  "estates": [],
+  "places_named": 1,
+  "estates": [
+   "imielno"
+  ],
   "translation_status": "draft",
   "has_summary": true,
   "has_summary_de": true,
@@ -2869,7 +2871,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 16,
+  "places_named": 17,
   "estates": [
    "trabczyn",
    "lukomia",
@@ -3361,7 +3363,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -5936,7 +5938,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 10,
+  "places_named": 11,
   "estates": [],
   "translation_status": "draft",
   "has_summary": true,

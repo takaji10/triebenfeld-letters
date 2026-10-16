@@ -170,7 +170,9 @@
   "language": "la",
   "duplicate_of": "",
   "relations": [],
-  "estates": [],
+  "estates": [
+   "imielno"
+  ],
   "is_missing": 0,
   "n_lines": 5,
   "n_pages": 1,

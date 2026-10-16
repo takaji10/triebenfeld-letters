@@ -12,7 +12,7 @@ Each document is dated and placed by the editors' heading, which reads its datel
 
 ### Estates and people
 
-Each document is tagged by hand with the estates of the editor's list of sixteen that it names, read with the editors' identifications. People are entered in the index only where they are of Trąbczyn (the editor): the knights and heirs of Trąbczyn of 1276 to 1434, and the parish priest of 1399. Many people of other places are left unnamed in the index.
+Each document is tagged by hand with the estates of the editor's list of seventeen that it names, read with the editors' identifications. People are entered in the index only where they are of Trąbczyn (the editor): the knights and heirs of Trąbczyn of 1276 to 1434, and the parish priest of 1399. Many people of other places are left unnamed in the index.
 
 ### Summary and translation
 

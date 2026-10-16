@@ -138,6 +138,22 @@ places:
     variants: []
     distinct_from: [lukom]
 
+  imielno:
+    # Imielno, Łukom's neighbour: the Chełmski family held "Łukomia, Imielno i
+    # Łomowo" together (the boundary decree of 1775, Konin Gr.145; the protest of
+    # 1778, Konin Gr.117); the visitation of 1791 has dissidents there. In the
+    # Kodeks Dyplomatyczny Wielkopolski it is one of the villages of the hospital of
+    # Gniezno in 1243, "Chemelino", which the editors identify as Imielno. One of
+    # the estates of focus (the editor, 2026-10-16). Polish case forms: Imielnym,
+    # Imielna.
+    display: "Imielno"
+    kind: village
+    medieval:
+      - "1243: Chemelino"
+    match: '(?:Imieln|Chemelin)\w*'
+    tier: "Text-confirmed"
+    variants: []
+
   zagorowo:
     # The register gives Zagórów / Zagórowo / Zagurowo. The edition printed
     # Zagorowo, the corpus dateline form, until the editor ruled on 2026-09-15

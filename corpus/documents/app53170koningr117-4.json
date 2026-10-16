@@ -155,6 +155,17 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielno",
+   "page": 1,
+   "page_id": "0058_a1",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
+   "line": 23,
+   "doc_line": 1
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",

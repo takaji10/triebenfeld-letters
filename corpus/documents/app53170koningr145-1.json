@@ -7242,6 +7242,17 @@
    "doc_line": 40
   },
   {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielnym",
+   "page": 18,
+   "page_id": "0663_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0663_a2-L1_18.jpg",
+   "line": 59,
+   "doc_line": 40
+  },
+  {
    "entity": "lukomia",
    "display": "Łukomia",
    "kind": "place",
@@ -7367,6 +7378,50 @@
    "display": "Drzewce",
    "kind": "place",
    "surface": "Drzewiec",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielna",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielna",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielna",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 62,
+   "doc_line": 42
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielno",
    "page": 19,
    "page_id": "0664_a1",
    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
@@ -7515,6 +7570,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
    "line": 62,
    "doc_line": 42
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielno",
+   "page": 19,
+   "page_id": "0664_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0664_a1-L1_19.jpg",
+   "line": 63,
+   "doc_line": 43
   },
   {
    "entity": "lukomia",
@@ -12031,6 +12097,17 @@
    "display": "Drzewce",
    "kind": "place",
    "surface": "Drzewiecką",
+   "page": 70,
+   "page_id": "0689_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",
+   "line": 216,
+   "doc_line": 145
+  },
+  {
+   "entity": "imielno",
+   "display": "Imielno",
+   "kind": "place",
+   "surface": "Imielno",
    "page": 70,
    "page_id": "0689_a2",
    "scan": "APP_53_17_0_Konin_Gr_145_0689_a2-L1_70.jpg",

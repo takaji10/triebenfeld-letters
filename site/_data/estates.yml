@@ -423,6 +423,13 @@
   docs: 1
   span: "1805"
   letters: [{id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/"}]
+- slug: "imielno"
+  name: "Imielno"
+  medieval: ["1243: Chemelino"]
+  count: 1
+  docs: 1
+  span: "1243"
+  letters: [{id: "3", uid: "kdw-3", url: "/documents/kdw/3/"}]
 - slug: "klunowo"
   name: "Klunowo"
   count: 1

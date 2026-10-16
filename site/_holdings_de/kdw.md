@@ -21,7 +21,7 @@ Das Zisterzienserkloster Ląd an der Warthe zwischen Konin und Pyzdry war im Mit
 
 **Trąbczyn und seine Ritter.** 1276 gibt Herzog Bolesław das Dorf Trąbczyn, „Trupcino“, dem Grafen Mikołaj, Schatzmeister von Ląd, nachdem zwei frühere Inhaber ohne Erben gestorben waren <span class="cite">[<a href="{{ '/documents/kdw/5/' | relative_url }}">5</a>]</span>. 1346 verlieren die Brüder Jan und Przedpełk, Erben von Trąbczyn, und Andrzej von Trąbczyn mit seiner Verwandtschaft ihren Anspruch auf Stropiszyn und Pępocin gegen die Kirche von Gnesen <span class="cite">[<a href="{{ '/documents/kdw/9/' | relative_url }}">9</a>, <a href="{{ '/documents/kdw/10/' | relative_url }}">10</a>]</span>. Mikołaj und Andrzej von Trąbczyn bezeugen 1415 in Gnesen einen Verkauf an das Kloster <span class="cite">[<a href="{{ '/documents/kdw/17/' | relative_url }}">17</a>]</span>. 1434 bestellt im Haus der Mścichna, Frau des Otto, Erben in Trąbczyn, ihr Sohn Wojciech, Kanoniker von Kruszwica, seinen Bruder Jan von Trąbczyn zum Bevollmächtigten <span class="cite">[<a href="{{ '/documents/kdw/19/' | relative_url }}">19</a>]</span>: die einzige dieser Urkunden, die in Trąbczyn geschrieben ist.
 
-**Andere Hände.** Wisław, Sohn des Gerlach, gibt Wrąbczyn in einem Tausch ab, der 1292 bestätigt wird <span class="cite">[<a href="{{ '/documents/kdw/8/' | relative_url }}">8</a>]</span>. 1440 schreibt König Władysław III. Stanisław Czarny Summen auf Wrąbczynek, Adamierz und Borzykowo, die die Herausgeber königliche Dörfer bei Pyzdry nennen <span class="cite">[<a href="{{ '/documents/kdw/20/' | relative_url }}">20</a>, <a href="{{ '/documents/kdw/21/' | relative_url }}">21</a>]</span>. Die Schenkung des Spitals von Gnesen an die Kanoniker von Miechów 1243 nennt keinen dieser Orte <span class="cite">[<a href="{{ '/documents/kdw/3/' | relative_url }}">3</a>]</span>.
+**Andere Hände.** Wisław, Sohn des Gerlach, gibt Wrąbczyn in einem Tausch ab, der 1292 bestätigt wird <span class="cite">[<a href="{{ '/documents/kdw/8/' | relative_url }}">8</a>]</span>. 1440 schreibt König Władysław III. Stanisław Czarny Summen auf Wrąbczynek, Adamierz und Borzykowo, die die Herausgeber königliche Dörfer bei Pyzdry nennen <span class="cite">[<a href="{{ '/documents/kdw/20/' | relative_url }}">20</a>, <a href="{{ '/documents/kdw/21/' | relative_url }}">21</a>]</span>. Unter den Dörfern des Spitals von Gnesen, das 1243 den Kanonikern von Miechów gegeben wird, ist „Chemelino“, nach den Herausgebern Imielno, der Nachbar von Łukom <span class="cite">[<a href="{{ '/documents/kdw/3/' | relative_url }}">3</a>]</span>.
 
 Die Anmerkungen der Herausgeber sind aus ihrer Zeit und bleiben, wie sie sind. Ihre Anmerkung zum Tausch von 1418 setzt Wronczyn in den Kreis Posen und weiß nicht, welches Drzewce gemeint ist; die Urkunde aber legt Groß-Wrąbczyn neben Zagórów, und so ist sie hier zugeordnet <span class="cite">[<a href="{{ '/documents/kdw/18/' | relative_url }}">18</a>]</span>. <!-- context -->
 
@@ -31,7 +31,7 @@ Die Urkunden sind lateinisch. Der Apparat der Herausgeber ist in den Bänden 1 b
 
 ### Güter und Personen
 
-Zugeordnet sind die sechzehn Güter um Trąbczyn und Zagórów, die der Herausgeber genannt hat: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce und Przybysław. Łazy und Szetlewek kommen in diesen Einträgen nicht vor, Przybysław nur als Name eines Mannes, des Kirchendieners von Zagórów 1414 <span class="cite">[<a href="{{ '/documents/kdw/16/' | relative_url }}">16</a>]</span>; keines der drei ist zugeordnet. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber). <!-- context -->
+Zugeordnet sind die siebzehn Güter um Trąbczyn und Zagórów, die der Herausgeber genannt hat: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Imielno, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce und Przybysław. Łazy und Szetlewek kommen in diesen Einträgen nicht vor, Przybysław nur als Name eines Mannes, des Kirchendieners von Zagórów 1414 <span class="cite">[<a href="{{ '/documents/kdw/16/' | relative_url }}">16</a>]</span>; keines der drei ist zugeordnet. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber). <!-- context -->
 
 ### Verwandte Bestände
 
@@ -53,7 +53,7 @@ Jedes Dokument ist nach der Überschrift der Herausgeber datiert und verortet, d
 
 ### Güter und Personen
 
-Jedes Dokument ist von Hand den Gütern aus der Liste der sechzehn zugeordnet, die es nennt, gelesen mit den Bestimmungen der Herausgeber. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber): die Ritter und Erben von Trąbczyn von 1276 bis 1434 und der Pfarrer von 1399. Viele Personen anderer Orte bleiben im Register ungenannt.
+Jedes Dokument ist von Hand den Gütern aus der Liste der siebzehn zugeordnet, die es nennt, gelesen mit den Bestimmungen der Herausgeber. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber): die Ritter und Erben von Trąbczyn von 1276 bis 1434 und der Pfarrer von 1399. Viele Personen anderer Orte bleiben im Register ungenannt.
 
 ### Zusammenfassung und Übersetzung
 

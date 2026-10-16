@@ -10,7 +10,7 @@ Das Zisterzienserkloster Ląd an der Warthe zwischen Konin und Pyzdry war im Mit
 
 **Trąbczyn und seine Ritter.** 1276 gibt Herzog Bolesław das Dorf Trąbczyn, „Trupcino“, dem Grafen Mikołaj, Schatzmeister von Ląd, nachdem zwei frühere Inhaber ohne Erben gestorben waren [[5]]. 1346 verlieren die Brüder Jan und Przedpełk, Erben von Trąbczyn, und Andrzej von Trąbczyn mit seiner Verwandtschaft ihren Anspruch auf Stropiszyn und Pępocin gegen die Kirche von Gnesen [[9, 10]]. Mikołaj und Andrzej von Trąbczyn bezeugen 1415 in Gnesen einen Verkauf an das Kloster [[17]]. 1434 bestellt im Haus der Mścichna, Frau des Otto, Erben in Trąbczyn, ihr Sohn Wojciech, Kanoniker von Kruszwica, seinen Bruder Jan von Trąbczyn zum Bevollmächtigten [[19]]: die einzige dieser Urkunden, die in Trąbczyn geschrieben ist.
 
-**Andere Hände.** Wisław, Sohn des Gerlach, gibt Wrąbczyn in einem Tausch ab, der 1292 bestätigt wird [[8]]. 1440 schreibt König Władysław III. Stanisław Czarny Summen auf Wrąbczynek, Adamierz und Borzykowo, die die Herausgeber königliche Dörfer bei Pyzdry nennen [[20, 21]]. Die Schenkung des Spitals von Gnesen an die Kanoniker von Miechów 1243 nennt keinen dieser Orte [[3]].
+**Andere Hände.** Wisław, Sohn des Gerlach, gibt Wrąbczyn in einem Tausch ab, der 1292 bestätigt wird [[8]]. 1440 schreibt König Władysław III. Stanisław Czarny Summen auf Wrąbczynek, Adamierz und Borzykowo, die die Herausgeber königliche Dörfer bei Pyzdry nennen [[20, 21]]. Unter den Dörfern des Spitals von Gnesen, das 1243 den Kanonikern von Miechów gegeben wird, ist „Chemelino“, nach den Herausgebern Imielno, der Nachbar von Łukom [[3]].
 
 Die Anmerkungen der Herausgeber sind aus ihrer Zeit und bleiben, wie sie sind. Ihre Anmerkung zum Tausch von 1418 setzt Wronczyn in den Kreis Posen und weiß nicht, welches Drzewce gemeint ist; die Urkunde aber legt Groß-Wrąbczyn neben Zagórów, und so ist sie hier zugeordnet [[18]]. <!-- context -->
 
@@ -20,7 +20,7 @@ Die Urkunden sind lateinisch. Der Apparat der Herausgeber ist in den Bänden 1 b
 
 ### Güter und Personen
 
-Zugeordnet sind die sechzehn Güter um Trąbczyn und Zagórów, die der Herausgeber genannt hat: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce und Przybysław. Łazy und Szetlewek kommen in diesen Einträgen nicht vor, Przybysław nur als Name eines Mannes, des Kirchendieners von Zagórów 1414 [[16]]; keines der drei ist zugeordnet. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber). <!-- context -->
+Zugeordnet sind die siebzehn Güter um Trąbczyn und Zagórów, die der Herausgeber genannt hat: Zagórów, Skokum, Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Imielno, Trąbczyn, Wrąbczyn, Wrąbczynek, Świątniki, Oleśnica, Łazy, Adamierz, Drzewce und Przybysław. Łazy und Szetlewek kommen in diesen Einträgen nicht vor, Przybysław nur als Name eines Mannes, des Kirchendieners von Zagórów 1414 [[16]]; keines der drei ist zugeordnet. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber). <!-- context -->
 
 ### Verwandte Bestände
 

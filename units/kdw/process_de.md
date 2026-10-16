@@ -12,7 +12,7 @@ Jedes Dokument ist nach der Überschrift der Herausgeber datiert und verortet, d
 
 ### Güter und Personen
 
-Jedes Dokument ist von Hand den Gütern aus der Liste der sechzehn zugeordnet, die es nennt, gelesen mit den Bestimmungen der Herausgeber. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber): die Ritter und Erben von Trąbczyn von 1276 bis 1434 und der Pfarrer von 1399. Viele Personen anderer Orte bleiben im Register ungenannt.
+Jedes Dokument ist von Hand den Gütern aus der Liste der siebzehn zugeordnet, die es nennt, gelesen mit den Bestimmungen der Herausgeber. Personen stehen im Register nur, wenn sie zu Trąbczyn gehören (der Herausgeber): die Ritter und Erben von Trąbczyn von 1276 bis 1434 und der Pfarrer von 1399. Viele Personen anderer Orte bleiben im Register ungenannt.
 
 ### Zusammenfassung und Übersetzung
 

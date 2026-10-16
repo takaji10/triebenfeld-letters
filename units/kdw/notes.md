@@ -1,9 +1,9 @@
 # BK PAN Kodeks Dyplomatyczny Wielkopolski
 
-**Built, translated and claim-checked (2026-10-16); not published.** Twenty-one
+**Built, translated and claim-checked; published 2026-10-16.** Twenty-one
 entries, 1173 to 1440, each one document, in the era `medieval` (working name
-"Trąbczyn in the Middle Ages"). Nothing waits on the editor but the word to
-publish and the era's name.
+"Trąbczyn in the Middle Ages"). Nothing waits on the editor but the era's
+name.
 
 ## What the editor decided (2026-10-16)
 
@@ -22,9 +22,11 @@ publish and the era's name.
   corrected, not even the editors' evident slips.
 - **Footnotes styled as footnotes** on the site (the editor: in the file
   they "look like letters").
-- **Estates of focus: the editor's sixteen only**: Zagórów, Skokum,
+- **Estates of focus: the editor's seventeen only**: Zagórów, Skokum,
   Kopojno, Ląd, Szetlew, Szetlewek, Łukom, Trąbczyn, Wrąbczyn, Wrąbczynek,
-  Świątniki, Oleśnica, Łazy, Adamierz, Drzewce, Przybysław.
+  Świątniki, Oleśnica, Łazy, Adamierz, Drzewce, Przybysław; and Imielno,
+  added by the editor after the first build ("should have been on the list
+  of estates in focus"), for the gift of 1243.
 - **People only where they are of Trąbczyn** ("No need to identify people
   in here ... unless they are people associated with Trąbczyn").
 - **A new era**, working name `medieval`, first in order.
@@ -69,8 +71,11 @@ one string per document, and holds S and HOW). Then `check_translations.py
 
 ## Rulings taken
 
-- **Estates.** Document 3 (the hospital of Gniezno, 1243) names none of the
-  sixteen and is untagged. Łazy and Szetlewek occur in no entry.
+- **Estates.** Document 3 (the hospital of Gniezno, 1243) is tagged Imielno
+  ("Chemelino", the editors' identification; the editor, 2026-10-16). Imielno
+  is a new place (`reference/places.yml`), which also links the boundary
+  decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of
+  1791. Łazy and Szetlewek occur in no entry.
   Przybysław occurs only as a man (the servant of the church of Zagórów,
   document 16) and is not tagged. In document 2 "Szetlevo" is Szetlew, not
   Szetlewek (`szetlewek not_in`).

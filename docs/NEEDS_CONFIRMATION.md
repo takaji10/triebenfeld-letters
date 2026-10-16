@@ -497,7 +497,5 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   widely, ask whether that needs the library's permission. Also open: the
   name of the medieval era. Decided in session, not asked (2026-10-16):
   the entry of 1418 is tagged Wrąbczyn and Drzewce by its text, though the
-  editors' note puts Wronczyn in the district of Poznań; the gift of the
-  hospital of Gniezno (1243), which the editor chose, carries no estate;
-  Przybysław is only a man's name in these entries and is not tagged
+  editors' note puts Wronczyn in the district of Poznań; Przybysław is only a man's name in these entries and is not tagged
   (`units/kdw/notes.md`, "Rulings taken").

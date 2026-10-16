@@ -549,6 +549,7 @@ and any entry can be read in by volume and number. Details:
       summaries (claim-checked, 107 statements), the holding page, the era
       on the timeline (from 1173) and the story page, medieval spellings on
       the Places page (2026-10-16).
-- [ ] **You: the word to publish.**
+- [x] Imielno added to the estates of focus (editor) and the gift of 1243
+      tagged with it; published at the editor's word (2026-10-16).
 - [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
       Ages", `medieval`).
