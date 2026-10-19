@@ -221,6 +221,15 @@ read, translate and summarise.
   EDITORIAL_RULES.md), so the clause struck out at the end of the draft
   resolution ("z zachowaniem praw Im służących") stays out.
 
+- **The literature** (`literature/`, begun 2026-10-19;
+  `docs/LITERATURE_PLAN.md`). Waiting on the editor: Guradze's corrected
+  text and its page numbers (until then it is cut by chapter); the missing
+  mark of page 27 in the English of Paciorkowski; the notes of Seidel's
+  book, untranscribed in both files. Not looked into: the Materialien
+  (p. 135) lists Cölln's six corrections as "nos. 7, 10, 14, 18, 20 and
+  28", but the one on Triebenfeld stands at his entry, numbered 16/38
+  (`literature/materialien1861/notes.md`).
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

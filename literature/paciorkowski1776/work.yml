@@ -1,0 +1,36 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied. The editor's
+# file of the original was named "(French)"; it is the Latin.
+slug: paciorkowski1776
+visible: true
+kind: handbook
+title: "Regula processus granicialis campestris Regni Poloniae, secundum praxim moderni saeculi ad dislimitanda bona regalia, spiritualia et terrestria. Editio secunda"
+title_en: "Rule of the Field Boundary Process of the Kingdom of Poland, according to the practice of the present age, for the delimitation of royal, ecclesiastical and noble estates. Second edition"
+cite: "Paciorkowski (1776)"
+author: "Marcin Paciorkowski"
+published: "Częstochowa: Jasna Góra press, 1776"
+year: 1776
+language: la
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A handbook of the procedure for settling boundaries between estates in the
+  Kingdom of Poland, by Marcin Paciorkowski, a sworn sub-delegate of the
+  castle court of Opoczno, who worked such cases. Approved by the censor in
+  1749; this is the enlarged second edition of 1776, with the laws on
+  boundaries, the law of 1768 among them. It explains the commissions, the
+  boundary chamberlain, the summons, the inspection of the mounds and the
+  decree, step by step, as the practice of the time had them. It does not
+  name Trąbczyn, but it is the procedure of the boundary decrees of 1775 and
+  1782 between Trąbczyn and its neighbours.
+account_de: >-
+  Ein Handbuch des Verfahrens zur Festsetzung der Grenzen zwischen Gütern im
+  Königreich Polen, von Marcin Paciorkowski, vereidigtem Subdelegaten des
+  Grodgerichts Opoczno, der solche Sachen selbst führte. Vom Zensor 1749
+  genehmigt; dies ist die erweiterte zweite Auflage von 1776, mit den
+  Gesetzen über die Grenzen, darunter dem Gesetz von 1768. Es erklärt die
+  Kommissionen, den Grenzkämmerer, die Ladung, die Besichtigung der
+  Grenzhügel und das Dekret Schritt für Schritt, wie die Praxis der Zeit sie
+  kannte. Trąbczyn nennt es nicht, aber es ist das Verfahren der
+  Grenzdekrete von 1775 und 1782 zwischen Trąbczyn und seinen Nachbarn.

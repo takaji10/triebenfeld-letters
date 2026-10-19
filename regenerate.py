@@ -50,6 +50,10 @@ MERGED = [
     # website and the verifier both read those rather than the merged array.
     ('pipeline/build/build_dataset.py', 'queryable dataset',
      'corpus/index/ and corpus/documents/ - what a research agent reads'),
+    # The literature (docs/LITERATURE_PLAN.md): books about the sources, kept
+    # apart from them, cut into pages in both languages for questions.
+    ('pipeline/literature/build_literature.py --quiet', 'literature',
+     'corpus/literature/ - each work page by page, original and English'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # Each holding's description cites the documents it rests on; this holds

@@ -1,0 +1,42 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied.
+slug: held1801
+visible: true
+kind: pamphlet
+title: "Die wahren Jacobiner im preussischen Staate, oder actenmässige Darstellung der bösen Ränke und betrügerischen Dienstführung zweyer preussischer Staatsminister"
+title_en: "The True Jacobins in the Prussian State, or: A Documentary Account of the Wicked Intrigues and Fraudulent Conduct in Office of Two Prussian Ministers of State"
+cite: "Held (1801)"
+author: "[Hans von Held]"
+published: "\"Überall und nirgends\" [no place], 1801"
+year: 1801
+language: de
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A pamphlet printed without the author's name or place in 1801, later
+  called the "black book", written by the Prussian official Hans von Held
+  against two ministers: Karl Georg von Hoym, who governed Silesia and South
+  Prussia, and the Grand Chancellor Heinrich Julius von Goldbeck. Its matter
+  is the case of the bailiff Früson, who held the lease of the lordship of
+  Krotoszyn and was made to give it up, by a settlement Held says
+  Triebenfeld and Neumann forced on him, and who sued for it in vain for
+  years. It prints the letters and court papers of the case at length, with
+  Held's commentary. Triebenfeld, then a war councillor at Krotoszyn, is
+  named on some fifty pages. It is an accusation, written to bring the
+  ministers down; what it says of Triebenfeld is Held's charge, to be held
+  against the documents.
+account_de: >-
+  Eine 1801 ohne Namen des Verfassers und ohne Druckort erschienene
+  Streitschrift, später das „schwarze Buch“ genannt, des preußischen
+  Beamten Hans von Held gegen zwei Minister: Karl Georg von Hoym, der
+  Schlesien und Südpreußen verwaltete, und den Großkanzler Heinrich Julius
+  von Goldbeck. Ihr Gegenstand ist die Sache des Oberamtmanns Früson, der
+  die Herrschaft Krotoszyn gepachtet hatte und die Pacht aufgeben musste,
+  durch einen Vergleich, den nach Held Triebenfeld und Neumann ihm
+  abzwangen, und der jahrelang vergeblich darum prozessierte. Sie druckt die
+  Briefe und Prozessakten der Sache ausführlich ab, mit Helds Kommentar.
+  Triebenfeld, damals Kriegsrat in Krotoszyn, wird auf etwa fünfzig Seiten
+  genannt. Die Schrift ist eine Anklage, geschrieben, um die Minister zu
+  stürzen; was sie über Triebenfeld sagt, ist Helds Vorwurf und an den
+  Dokumenten zu prüfen.

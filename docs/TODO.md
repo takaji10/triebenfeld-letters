@@ -553,3 +553,29 @@ and any entry can be read in by volume and number. Details:
       tagged with it; published at the editor's word (2026-10-16).
 - [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
       Ages", `medieval`).
+
+## 20. The literature (begun 2026-10-19)
+
+Books and articles about the sources, in their own language and in English,
+kept apart from the archival documents: `docs/LITERATURE_PLAN.md`. Each
+work's `literature/<slug>/notes.md` says what is known about its text.
+
+- [x] Six works brought in, each cut into pages in both languages and
+      checked to give back the whole file (`corpus/literature/`, made by
+      `pipeline/literature/build_literature.py`); Seidel kept off the site
+      (editor).
+- [ ] The site: a "Literature" menu entry, a list page and a page per work
+      with original and English side by side, cited by printed page; the
+      Materialien first, then the other visible works.
+- [ ] An index of the people, places and documents each page names, every
+      hit read; then the links from a work's page to the documents
+      (`literature/links.yml`), the black register first.
+- [ ] **You: Guradze's text corrected**, and its page numbers added
+      (archive.org's page-by-page OCR can find where each page begins).
+      Its footnotes are numbered differently in the English (192 against
+      189).
+- [ ] **You (when convenient): Paciorkowski, page 27** has no mark in the
+      English; its text runs on under page 26.
+- [ ] **You (if you want them): the notes of Seidel's book** (pages 257 to
+      266) are empty in both files.
+- [ ] Later and selectively: events from the books on the timeline.

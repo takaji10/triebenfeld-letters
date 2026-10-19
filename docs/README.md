@@ -19,6 +19,7 @@ were true when they were written.
 | [HOHENLOHE_ERA_PLAN.md](HOHENLOHE_ERA_PLAN.md) | The Hohenlohe-Ingelfingen years page: what goes in, its sections and their sources, and what a new holding changes. |
 | [PRUSIMSKI_ERA_PLAN.md](PRUSIMSKI_ERA_PLAN.md) | The Prusimski era: the court books from Poznań still to add, how each is added, the spelling question, thoughts on the glossary. What the editor has decided and what waits on them. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
+| [LITERATURE_PLAN.md](LITERATURE_PLAN.md) | The books and articles about the sources (`literature/`): kept apart from the archival documents, original and English page by page, for questions; which are shown on the site and how. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 
 ## Reports — a record of how something was settled

@@ -1,0 +1,40 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied.
+#
+# NOT ON THE SITE. The book is under copyright (its imprint forbids copying,
+# translation and electronic use without the author's consent). The editor
+# chose, knowing the repository is public, to keep it here for questions and
+# to give it no page (2026-10-19; LITERATURE_PLAN.md, section 4). With
+# visible: false the site build skips it entirely. Do not change this without
+# the editor's word.
+slug: seidel2018
+visible: false
+kind: biography
+title: "Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen. Stadterneuerer, dynamischer preußischer General, verlassener Ehemann, Schuldenmacher"
+title_en: "Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen. Urban renewer, dynamic Prussian general, deserted husband, debtor"
+cite: "Seidel (2018)"
+author: "Hans-Joachim Seidel"
+published: "Ulm: Klemm+Oelschläger, 2018"
+year: 2018
+language: de
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A modern biography of the Prince of Hohenlohe-Ingelfingen, written from the
+  papers in the Hohenlohe Central Archive at Neuenstein, the archive of the
+  correspondence in this edition. It covers his rebuilding of Ingelfingen,
+  his Prussian career, his marriage and his debts, and the South Prussian
+  estates and Triebenfeld's part in them; its appendix 6 transcribes the
+  letter of 7 March 1809 that stands in the edition as letters 48 and 302 of
+  Oe 1 Bü 9454. The edition's documents are the authority where the two
+  differ (editor, 2026-10-03: primary sources before Seidel).
+account_de: >-
+  Eine moderne Biographie des Fürsten zu Hohenlohe-Ingelfingen, geschrieben
+  aus den Akten des Hohenlohe-Zentralarchivs Neuenstein, des Archivs der
+  Korrespondenz dieser Edition. Sie behandelt seine Erneuerung Ingelfingens,
+  seine preußische Laufbahn, seine Ehe und seine Schulden sowie die
+  südpreußischen Güter und Triebenfelds Rolle darin; ihr Anhang 6 gibt den
+  Brief vom 7. März 1809 wieder, der in der Edition als Briefe 48 und 302
+  von Oe 1 Bü 9454 steht. Wo beide abweichen, gelten die Dokumente der
+  Edition (Herausgeber, 2026-10-03: Primärquellen vor Seidel).

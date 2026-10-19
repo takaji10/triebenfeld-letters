@@ -6,9 +6,13 @@
 # is bulk that can be re-derived, or that is not ours.
 
 # ---------------------------------------------------------------------------
-# COPYRIGHTED SOURCE - must never be committed or published.
-# The Seidel (2018) biography is a research reference: facts and short cited
-# quotations may appear in the edition, the book itself may not.
+# COPYRIGHTED SOURCE. The Seidel (2018) biography was kept out from the start
+# (2026-09-04): facts and short cited quotations in the edition, never the book.
+# The editor ruled otherwise on 2026-10-19, told that the repository is public
+# and that committing the book publishes it: the text and Claude's English are
+# kept in literature/seidel2018/ for questions, with no page on the site
+# (visible: false; docs/LITERATURE_PLAN.md, section 4). The patterns below
+# still keep out the editor's copies under their old file names.
 # ---------------------------------------------------------------------------
 Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen*
 *(2018, Seidel)*

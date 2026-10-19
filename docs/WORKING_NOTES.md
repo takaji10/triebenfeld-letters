@@ -1054,6 +1054,38 @@ cloud branches").
 - The session's scratch folder can be withdrawn in the middle of a sitting.
   One-shot scripts worth a second look go into `scratch/` at the project
   root, which git ignores.
+- **PyYAML missing on the desktop Python** (2026-10-19): `import yaml`
+  failed under `C:\Program Files\Python312`, because APPDATA is empty in
+  this shell and Python looks for the user's packages in the wrong place.
+  `python -m pip install --user pyyaml` mended it.
+- **archive.org through curl** needs `--ssl-no-revoke` on this machine
+  (the certificate check fails otherwise).
+
+## The literature (2026-10-19)
+
+- **The repository is public: committing a file publishes it**, whether or
+  not the site shows it. The editor chose to keep Seidel's book (2018,
+  under copyright) in it for questions, with no page on the site
+  (`visible: false` in its `work.yml`). Every page of the site that lists
+  the literature must skip such a work.
+- **Write the account of a book from the book, not from memory.** The
+  first accounts of the six works, written from general knowledge, had
+  wrong pages, a wrong subject for Held's book and claims about Guradze
+  that the text does not bear out; each was put right by reading the
+  pages. A page number in an account is looked up in the passage files.
+- **Triebenfeld's entry in the black register is not about Trąbczyn**
+  (Materialien pp. 162-164; Piotrow, Lasky and others). A question about
+  the value of his estates must say which estates it means.
+- The editor's file names are not to be trusted for the language or the
+  year: "(French)" of Paciorkowski is the Latin, "1918" of Guradze is
+  1898. `blackregister.txt` in their folder "Books" is pages 140 to 171 of
+  the Materialien and was not brought in twice.
+- **The Neue Feuerbrände numbers its pages from 1 in each part**: its
+  passages are keyed `<part>-<page>` (`3-133`), and the build script finds
+  a new part where the numbers fall.
+- The English of these books is Claude's and uneven in places (Guradze's
+  is weaker than the German): an answer that rests on a passage is read in
+  the original.
 
 ## The English, the summaries and the claim check
 

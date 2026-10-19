@@ -2015,6 +2015,14 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Imielno is an estate of focus (editor): a new place, matched also in its medieval form "Chemelino". The gift of the hospital of Gniezno (1243), which lists "Chemelino" among the hospital's villages, is tagged with it, and its summary and the holding page say so (claim check rewritten for that statement). Imielno also links the boundary decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of 1791.
 - Published at the editor's word: 613 documents in 45 holdings, 1173 to 1936.
 
+## The literature: six books, page by page (2026-10-19)
+
+- A new kind of material, kept apart from the archival documents (`docs/LITERATURE_PLAN.md`): books and articles about them, each in its original language and in English, for questions such as whether Triebenfeld inflated the value of his estates. Six works from the editor's folder "Books", copied unchanged into `literature/<slug>/`, the English of all six Claude's (the editor): the Materialien of 1861 (with the black register of the gifted estates), Held's book of 1801, the Neue Feuerbrände of 1807, Paciorkowski's Latin treatise of 1776, Guradze's Der Bauer in Posen of 1898, and Seidel's book of 2018 on Hohenlohe-Ingelfingen.
+- Each work has a `work.yml` (title, citation, language, how its pages are marked, an account in English and German) and a `notes.md` (how it came in, how the two files line up, a spot check of the English). `pipeline/literature/build_literature.py` cuts both files at the printed page marks, checks that the passages give back the whole file, and writes `corpus/literature/`: an index and one file per page and language. It runs in `regenerate.py` after the dataset.
+- Seidel is under copyright: in the repository for questions but never shown on the site (`visible: false`; the editor, 2026-10-19, knowing that the repository is public). Until now `.gitignore` kept it out.
+- Found on the way: Triebenfeld's entry in the black register (Materialien pp. 162-164) is about other estates than Trąbczyn (Piotrow, Lasky and others). Guradze has no page numbers yet (the editor will correct the text); the English of Paciorkowski lacks the mark of p. 27.
+- Nothing on the site yet. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

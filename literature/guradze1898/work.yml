@@ -1,0 +1,45 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied. The editor's
+# files were named "(Guradze, 1918)"; the work is of 1898 (editor,
+# 2026-10-19). The text has no page numbers yet: the editor will correct it
+# and add them, and until then it is cut by chapter.
+slug: guradze1898
+visible: true
+kind: study
+title: "Der Bauer in Posen. Beiträge zur Geschichte der rechtlichen und wirthschaftlichen Hebung des Bauernstandes der jetzigen Provinz Posen durch den preußischen Staat von 1772-1805"
+title_en: "The Peasant in Posen. Contributions to the History of the Legal and Economic Advancement of the Peasant Class in the Present Province of Posen by the Prussian State, 1772-1805"
+cite: "Guradze (1898)"
+author: "Franz Guradze"
+published: "Halle, 1898 (108 pages); also in the Zeitschrift der historischen Gesellschaft für die Provinz Posen"
+year: 1898
+language: de
+english_by: Claude
+scan: "https://archive.org/details/derbauerinposen00guragoog"
+pages:
+  # no page marks yet: cut at each chapter heading
+  chapter: '^# '
+account_en: >-
+  A study, in six chapters, of the Prussian laws on the peasants of the
+  lands that became the province of Posen: what the peasants owed and held
+  in the last years of Polish rule, the legislation for the Netze district
+  from 1772 and for South Prussia from 1793 to 1806, the peasants' dues and
+  services in both, and the years of the Duchy of Warsaw, 1807 to 1815.
+  Guradze says in his preface that he wrote from the general files of the
+  administration and a selection of the particular ones, tracing how the
+  laws came to be made, and that his judgement differs markedly from that
+  of Professor Knapp of Strasbourg and his students. It is the background
+  to the tenures of the Olęder settlers and the hereditary leases of 1805
+  and 1806 on the Trąbczyn estate, which it does not name.
+account_de: >-
+  Eine Untersuchung in sechs Kapiteln über die preußische Gesetzgebung für
+  die Bauern der Gebiete, die zur Provinz Posen wurden: was die Bauern in
+  der letzten Zeit der polnischen Herrschaft schuldeten und besaßen, die
+  Gesetzgebung für den Netzedistrikt seit 1772 und für Südpreußen von 1793
+  bis 1806, die Abgaben und Dienste der Bauern in beiden und die Zeit des
+  Herzogtums Warschau 1807 bis 1815. Guradze sagt im Vorwort, er habe aus
+  den Generalakten der Verwaltung und einer Auswahl der Spezialakten
+  geschrieben, der Entstehung der Gesetze nachgehend, und sein Urteil weiche
+  wesentlich von dem Professor Knapps in Straßburg und seiner Schüler ab.
+  Sie ist der Hintergrund zu den Besitzrechten der Hauländer und zu den
+  Erbpachtverträgen von 1805 und 1806 auf dem Gut Trąbczyn, das sie nicht
+  nennt.
