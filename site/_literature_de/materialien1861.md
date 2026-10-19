@@ -4404,6 +4404,11 @@ Now retired and living on his fine estate of Marquard, one mile from Potsdam, wh
 The infamy of this so understated valuation is notorious; for *Bischofswerder* sold these four estates to
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-142">
@@ -4489,6 +4494,11 @@ True value between 40,000 and 50,000 thalers. Deed of donation dated Berlin, 25 
 } (1–3) 15000 Thlr.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-143">
@@ -4691,6 +4701,11 @@ In Breslau. See No. 8 in the Department of Kalisch.
 These and the estates designated *sub* No. 8 in the Department of Kalisch are together worth about 800,000 thalers and yield 50,000 thalers in revenue annually; these estates are accordingly better than the indebted Principality of Ingelfingen. A few years ago the Prince wished to exchange these scattered estates for the Royal Domain of Krotoszyn, already coveted by so many speculators, but the Cabinet Councillor Beyme prevented the
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Das schwarze Register führt die dem Fürsten Hohenlohe geschenkten Güter, darunter Trąbczyn, mit einem Wert von etwa 800.000 Talern und 50.000 Talern Ertrag im Jahr, wo der verstorbene König nur eine Schenkung von 6.000 Talern Ertrag gemeint habe; der Fürst habe diesen Ertrag von 50.000 selbst im Kabinett angegeben, als er die Güter gegen die Domäne Krotoszyn tauschen wollte, und der Kabinettsrat Beyme habe den Tausch verhindert. Cölln hielt 1807 dagegen, der Minister Voss habe ihn vereitelt, und die Briefe der Edition geben ihm recht: die Schenkung von 1796, die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter brächten jetzt 40.500), die Antwort des Fürsten an den König (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-146">
@@ -4759,6 +4774,11 @@ He was travelling equerry to the previous King and was then called *Leberenz.* H
 } 30150 Thlr.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Das schwarze Register führt die dem Fürsten Hohenlohe geschenkten Güter, darunter Trąbczyn, mit einem Wert von etwa 800.000 Talern und 50.000 Talern Ertrag im Jahr, wo der verstorbene König nur eine Schenkung von 6.000 Talern Ertrag gemeint habe; der Fürst habe diesen Ertrag von 50.000 selbst im Kabinett angegeben, als er die Güter gegen die Domäne Krotoszyn tauschen wollte, und der Kabinettsrat Beyme habe den Tausch verhindert. Cölln hielt 1807 dagegen, der Minister Voss habe ihn vereitelt, und die Briefe der Edition geben ihm recht: die Schenkung von 1796, die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter brächten jetzt 40.500), die Antwort des Fürsten an den König (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-147">
@@ -5065,6 +5085,11 @@ See further No. 10 in the Warsaw Department.
 } 73325 Thlr.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-153">
@@ -5087,6 +5112,11 @@ In the deed of gift, dated Berlin, 24 January 1787, no further reason for the do
 **"Hoym bought Murowano Goślin for 120,000 thalers and sold it again for exactly the same price. If the purchase had been made by him as a favour to Bischofswerder, how unwise would he have been**
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-154">
@@ -5284,6 +5314,11 @@ Probably insignificant, and given to a native-born Pole only to affect impartial
 The cabinet order of 20 April 1797 begins, like most similar ones to Hoym, with: *In accordance with your proposal* etc. The true value is 36,000 thalers, after Favrat had already had 20,000 thalers' worth of timber felled.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-157">
@@ -5518,6 +5553,11 @@ See No. 14 in the Department of Posen.
 The shameless fraud in the accompanying valuation is proven; for the estate Kuchary, No. 7, alone has been judicially assessed at 90,000 thalers.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Das schwarze Register führt die dem Fürsten Hohenlohe geschenkten Güter, darunter Trąbczyn, mit einem Wert von etwa 800.000 Talern und 50.000 Talern Ertrag im Jahr, wo der verstorbene König nur eine Schenkung von 6.000 Talern Ertrag gemeint habe; der Fürst habe diesen Ertrag von 50.000 selbst im Kabinett angegeben, als er die Güter gegen die Domäne Krotoszyn tauschen wollte, und der Kabinettsrat Beyme habe den Tausch verhindert. Cölln hielt 1807 dagegen, der Minister Voss habe ihn vereitelt, und die Briefe der Edition geben ihm recht: die Schenkung von 1796, die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter brächten jetzt 40.500), die Antwort des Fürsten an den König (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, Dokument 1 (9. August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, Dokument 87 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, Dokument 97 (Januar 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-160">
@@ -5628,6 +5668,11 @@ The judicial valuation by the Regierung at Kalisch stands at 200,000 thalers. Po
 } 30000 Thlr.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-161">
@@ -5646,6 +5691,11 @@ Rüchel received the lordship of Ostrzeszów, or the first 7 numbers, according 
 Euclid teaches that the part is smaller than the whole, and God Himself cannot alter that. Nonetheless Hoym managed it. For how else, a few months after the donation, could he, on a little estate that he had valued at 20,000 thalers and on which Rüchel had not repaired so much as a single fence-post, far less undertaken any other improvements, have put down forest damage of 40,000 thalers
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-162">
@@ -5722,6 +5772,11 @@ Lasky 271061 Thlr. 4 Gr. 2 Pf.
 Still missing here, however, is the valuation of Nowa Wies and Szmardzice. On these estates considerable sums of capital are entered in favour of Bischofswerder. Triebenfeld has recently sold them all together to Prince George of
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Der Eintrag des schwarzen Registers über Triebenfeld: Güter, bei der Schenkung auf 31.000 Taler taxiert (und 20.000 für die Herrschaft Laski gezahlt), von der Regierung in Kalisch im Frühjahr 1797 auf über 700.000 taxiert, von ihm an den Prinzen George von Hessen-Darmstadt für 400.000 verkauft und von diesem im März 1801 für 750.000 weiterverkauft. Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe (über 700.000, April 1799) und denselben Weiterverkauf (750.000, Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800). Cölln merkte 1807 an, in den Zahlen steckten Triebenfelds eigene Güter. Es sind nicht die Güter von Trąbczyn: der Eintrag zeigt, wie die geschenkten Güter bewertet wurden.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-163">
@@ -5764,6 +5819,13 @@ The Breslau Chamber, under Minister *Hoym*, reckoned the Krotoszyn revenues to t
 And so it indeed succeeded in driving the Amtmann *Früson* out of Krotoszyn, and it was in these and similar services that the sole merit of Triebenfeld was to be found — merit which was rewarded with the aforementioned donation of estates.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Der Eintrag des schwarzen Registers über Triebenfeld: Güter, bei der Schenkung auf 31.000 Taler taxiert (und 20.000 für die Herrschaft Laski gezahlt), von der Regierung in Kalisch im Frühjahr 1797 auf über 700.000 taxiert, von ihm an den Prinzen George von Hessen-Darmstadt für 400.000 verkauft und von diesem im März 1801 für 750.000 weiterverkauft. Triebenfelds Briefe an den Fürsten Hohenlohe nennen dieselbe Taxe (über 700.000, April 1799) und denselben Weiterverkauf (750.000, Februar 1801), aber als seinen eigenen Preis an den Prinzen George 280.000, nicht 400.000 (Juli 1800). Cölln merkte 1807 an, in den Zahlen steckten Triebenfelds eigene Güter. Es sind nicht die Güter von Trąbczyn: der Eintrag zeigt, wie die geschenkten Güter bewertet wurden.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, Dokument 104 (3. April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, Dokument 108 (22. Juli 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, Dokument 112 (10. Februar 1801)</a></p>
+<p>Die Materialien sagen nach dem "schwarzen Buch", Triebenfeld habe die Herrschaft Krotoszyn neun Jahre für die Seehandlung verwaltet, Struensee habe sie 1791 an den Amtmann Früson für 30.100 Taler im Jahr verpachtet, und Hoym und Triebenfeld hätten Früson vertrieben. In den Briefen der Edition über den Tausch des Fürsten gegen Krotoszyn sagt der König, Triebenfeld habe für die Abtretung der Pacht 1795 einen Abstand von 26.000 Talern erhalten, und der Fürst nennt als Pacht von Krotoszyn dieselben 30.100.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, Dokument 85 (4. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, Dokument 86 (7. Dezember 1798)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, Dokument 101 (Mai 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-164">
@@ -6070,6 +6132,11 @@ He received this estate merely through an oversight. The Grand Chancellor von Go
 *Vertraute Briefe* etc. Vol. I, p. 82.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-169">
@@ -6265,6 +6332,11 @@ Osermno Gostinin 14200 Thlr.
 } 14200 Thlr.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Gegen den Vorwurf, der Fürst Hohenlohe habe zu viele Güter erhalten, stellte Triebenfeld dessen Schenkung neben andere aus derselben Zeit, alle niedrig taxiert und seither teuer verkauft oder mit weit höherem Ertrag: die Bischofswerders (die er, wie er sagt, für 207.000 Taler verkauft habe), die Zastrows (sollten 2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000 verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung 87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa 350.000 wert, Rüchels an Reibnitz für 130.000 verkauft und danach auf 380.000 taxiert.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, Dokument 103 (13. März 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-172">

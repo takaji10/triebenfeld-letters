@@ -1150,6 +1150,24 @@ cloud branches").
   And `assets/doc-list.js` takes every `details.doclist` on the page for a
   list of documents, so another closed list on /people/ or /places/ needs
   its own class (`litlist`).
+- **A hand-made link says what each side says, and every figure in it is
+  read in both** (the links of the black register, 2026-10-19;
+  `literature/links.yml`). Its sentence is shown under the passage and
+  beside the document, so it names the book, the document and what each
+  says: "the register says", never "it was". Where they disagree, the
+  sentence says so and does not choose: the register has Triebenfeld sell
+  his estates to Prince George for 400,000, his own letter of July 1800
+  280,000. A name in a letter taken to be a man of the book ("Gen. Ruchts"
+  as Rüchel) is Claude's identification: the comment at the link says so
+  and NEEDS_CONFIRMATION lists it until the editor rules.
+- **`yaml.safe_dump` writes an anchor (`&id001`) for a list used twice**
+  (one link's passages written under each of its documents); copy the list
+  first, so the site's data file has no aliases.
+- **The browser preview may not be available to Claude**: in this sitting
+  every browser action's permission request was cancelled. Check the built
+  page in `site/_site/` with Python instead (`PYTHONIOENCODING=utf-8`, the
+  shell's own encoding cannot print "ą"), and tell the editor that is what
+  was done rather than waiting on the browser.
 
 ## The English, the summaries and the claim check
 

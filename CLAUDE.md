@@ -120,9 +120,12 @@ so check them.
   editor; verify_site.py checks it). The index of people and estates over
   the passages is built (plan, section 8): every hit read and ruled in
   `literature/index.yml`, an "In the literature" list on /people/ and
-  /places/; the editor accepted Claude's five identifications. Waiting: the
-  editor's look at the pages and lists and their word to publish. Next:
-  the hand-made links (`literature/links.yml`), the black register first.
+  /places/; the editor accepted Claude's five identifications. The first
+  hand-made links are built (plan, section 9; `literature/links.yml`):
+  four, from the black register to ten documents, each with a sentence
+  saying why, shown under the passage and beside the document. Waiting:
+  the editor's look at the pages, lists and links, their ruling on "Gen.
+  Ruchts" = Rüchel (NEEDS_CONFIRMATION) and their word to publish.
 
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,

@@ -5271,6 +5271,11 @@ Note. This so very low valuation is notorious; for Bischofswerder sold these fou
 Note. Since the annual revenues certainly amount to 6000 thalers, one may without hesitation reckon the true value of these five estates at 120000 thalers.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-67">
@@ -5475,6 +5480,11 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 *1–5: Fraustadt; 59000 Thlr.*
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000; it says the Prince himself gave the King's cabinet that yield of 50,000 when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the edition's letters bear him out: the gift of 1796, the King's refusal of December 1798 on Voss's report (estates valued at a yield of 8,650 a year now bring 40,500), the Prince's answer to the King (his estates yield 41,500, Krotoszyn's rent is 30,100) and his later petition.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-70">
@@ -5721,6 +5731,11 @@ Anmerk. Owinsk hat treffliche Waldungen und die nahe daran gränzende, eine kön
 Note. Owinsk has excellent forests, while the neighbouring former starosta domain of Szrim, which has become a royal domain, has not a single tree, so that the official in Szrim must buy not only his building timber but even his firewood from Treskow, and this purchase has to be credited to him on the domain establishment of Szrim. Near Owinsk and Szrim lies the lordship of Murawanna Goslina. This the daughter of the Bischofswerder family (see the note to No. 14) obtained from her husband in place of the 72,000 thalers in cash that Grävenitz awarded her. Hoym thereupon bought her Murawanna Goslina from this lady for 72,000 thalers, and sold it again to Treskow for 120,000 thalers. What a traffic! Treskow, however, is the most useful of all the donees on account of the tireless, sensible, indeed lavish zeal with which he sets his estates in order and makes his peasants industrious. These estates, together with those recorded under No. 10 in the Warsaw Department, have a value of approximately 350,000 thalers.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-75">
@@ -5845,6 +5860,11 @@ Czermno
 ---
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-78">
@@ -6067,6 +6087,11 @@ Note. Not granted hereditarily; but only a confirmation of the grant made in Pol
 *1–6: Kalisch; 7–8: Adelnau; 1–8: 26,000 Thlr.*
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000; it says the Prince himself gave the King's cabinet that yield of 50,000 when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the edition's letters bear him out: the gift of 1796, the King's refusal of December 1798 on Voss's report (estates valued at a yield of 8,650 a year now bring 40,500), the Prince's answer to the King (his estates yield 41,500, Krotoszyn's rent is 30,100) and his later petition.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-81">
@@ -6193,6 +6218,11 @@ Anmerk. Rüchel bekam die Herrschaft Osterczeczow oder die 7 ersten Nummern, lau
 Note. Rüchel received the lordship of Osterczeczow, or the first 7 numbers, according to the deed of donation, under the title of a grace-and-favour estate and by an assessment of 20,000 thalers as a gift. Immediately after the donation a whirlwind swept through the great forests of this grace-and-favour estate and actually threw down a few firs. At this Rüchel raised a mighty outcry and pretended that he did not even want to keep this supposedly ruined grace-and-favour estate at all. Hoym thereupon had the windfall assessed at 40,000 thalers and arranged for Rüchel to be given, by way of compensation, Kalischkowice as well, at an assessment of 10,000 thalers. Now it was not long before Rüchel sold all 8 estates, without ever having visited or seen them, to Government Councillor von Reibnitz in Kalisch for 130,000 thalers. After the purchase Reibnitz had them judicially assessed, and it was then found that the lordship of Osterczeczow, or the first 7 estates, is worth 341,000 thalers and the ecclesiastical estate Kalischkowice 39,000 thalers, all together therefore 380,000 thalers. Now Rüchel wanted to sue Reibnitz, claiming that he had been injured by more than half, and to rescind the sale,
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-83">
@@ -6241,6 +6271,13 @@ Euclid teaches that the part is smaller than the whole, and God Himself cannot a
 Note. In the spring of 1797 these exceedingly excellent estates were assessed by the Government in Kalisch, after deduction of all taxes and dues charged upon them, at a net value of over 700,000 thalers. Among others the following estates, in the following manner:
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register's entry on Triebenfeld: estates valued at 31,000 Thaler when they were given to him (and 20,000 paid for the lordship of Laski), valued by the Kalisz government in the spring of 1797 at over 700,000, sold by him to Prince George of Hesse-Darmstadt for 400,000, and sold on by Prince George in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own property. These are not the Trąbczyn estates: the entry bears on how the gifted estates were valued.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-84">
@@ -6297,6 +6334,11 @@ Kamsko
 Note. True value 50,000 thalers. Stromberg now sells alder-wood year in, year out for several thousand thalers. His brother, formerly a Russian major, then a South Prussian Landrat and now an official in Dolzig, was the one who was to marry Madame Schreiber in Breslau, former mistress of Minister Hoym, once the latter had tired of her. This too would have happened, had Schreiber not suddenly died.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register's entry on Triebenfeld: estates valued at 31,000 Thaler when they were given to him (and 20,000 paid for the lordship of Laski), valued by the Kalisz government in the spring of 1797 at over 700,000, sold by him to Prince George of Hesse-Darmstadt for 400,000, and sold on by Prince George in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own property. These are not the Trąbczyn estates: the entry bears on how the gifted estates were valued.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-85">
@@ -6517,6 +6559,11 @@ Xiondczewice
 Note. He received this estate merely through an oversight. The Grand Chancellor von Goldbeck actually intended it for his son. But an error committed in
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-88">
@@ -6697,6 +6744,11 @@ Osermno
 ---
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Answering the charge that the Prince of Hohenlohe had been given too many estates, Triebenfeld set his gift beside others made at the same time, each valued low and since sold or yielding far more: Bischofswerder's (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now some 20,000), Dolffs's (which Treskow is now selling for 360,000) and "General Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black register makes the same complaint of the same gifts: Bischofswerder's sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at 87,650 and "now worth at least 200,000", Treskow's worth together about 350,000, Rüchel's sold to Reibnitz for 130,000 and valued afterwards at 380,000.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/103/' | relative_url }}">Oe 1 Bü 9454, document 103 (13 March 1799)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-2-91">
@@ -11019,6 +11071,11 @@ The Government Councillor von Grevenitz is done too much injustice here; he is q
 Grevenitz was not in fact a judge in the matter at all, but the official counsel of Countess Gurovska; nor was the legal dispute of the Gurovsky spouses as to the property (*quo ad Bona*) ever adjudicated, but rather settled by agreement. (One sees how poorly the author
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000; it says the Prince himself gave the King's cabinet that yield of 50,000 when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the edition's letters bear him out: the gift of 1796, the King's refusal of December 1798 on Voss's report (estates valued at a yield of 8,650 a year now bring 40,500), the Prince's answer to the King (his estates yield 41,500, Krotoszyn's rent is 30,100) and his later petition.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/ihagrrep7cnr3570/1/' | relative_url }}">I. HA GR, Rep. 7 C, Nr. 3570, document 1 (9 August 1796)</a><a href="{{ '/documents/oe1bu9454/85/' | relative_url }}">Oe 1 Bü 9454, document 85 (4 December 1798)</a><a href="{{ '/documents/oe1bu9454/86/' | relative_url }}">Oe 1 Bü 9454, document 86 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/87/' | relative_url }}">Oe 1 Bü 9454, document 87 (7 December 1798)</a><a href="{{ '/documents/oe1bu9454/97/' | relative_url }}">Oe 1 Bü 9454, document 97 (January 1799)</a><a href="{{ '/documents/oe1bu9454/101/' | relative_url }}">Oe 1 Bü 9454, document 101 (May 1800)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-3-133">
@@ -11095,6 +11152,11 @@ The third Part, save for this postscript, had likewise already been printed.
 ---
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>The black register's entry on Triebenfeld: estates valued at 31,000 Thaler when they were given to him (and 20,000 paid for the lordship of Laski), valued by the Kalisz government in the spring of 1797 at over 700,000, sold by him to Prince George of Hesse-Darmstadt for 400,000, and sold on by Prince George in March 1801 for 750,000. Triebenfeld's letters to the Prince of Hohenlohe give the same valuation (over 700,000, April 1799) and the same resale (750,000, February 1801), but put his own price to Prince George at 280,000, not 400,000 (July 1800). Cölln remarked in 1807 that the figures include estates that were Triebenfeld's own property. These are not the Trąbczyn estates: the entry bears on how the gifted estates were valued.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/oe1bu9454/104/' | relative_url }}">Oe 1 Bü 9454, document 104 (3 April 1799)</a><a href="{{ '/documents/oe1bu9454/108/' | relative_url }}">Oe 1 Bü 9454, document 108 (22 July 1800)</a><a href="{{ '/documents/oe1bu9454/112/' | relative_url }}">Oe 1 Bü 9454, document 112 (10 February 1801)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-3-135">

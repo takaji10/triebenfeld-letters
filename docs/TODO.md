@@ -577,8 +577,14 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] **You:** look at those lists (for example Triebenfeld and Hoym on
       /people/, Trąbczyn and Krotoszyn on /places/). The five
       identifications are accepted (2026-10-19).
-- [ ] The links from a work's page to the documents
-      (`literature/links.yml`), the black register first.
+- [x] The links from a work's page to the documents
+      (`literature/links.yml`), the black register first: four links, 26
+      pages of the Materialien and the Neue Feuerbrände tied to 10
+      documents, each with a sentence saying why; on both sides (built
+      2026-10-19; LITERATURE_PLAN.md, section 9).
+- [ ] **You:** read the four sentences (beside documents 85 and 103 of
+      Oe 1 Bü 9454, or under p. 145 of the Materialien), and say whether
+      "Gen. Ruchts" in letter 103 is Rüchel (NEEDS_CONFIRMATION).
 - [ ] **You: Guradze's text corrected**, and its page numbers added
       (archive.org's page-by-page OCR can find where each page begins).
       Its footnotes are numbered differently in the English (192 against

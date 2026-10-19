@@ -2043,6 +2043,16 @@ lose his estates. The era page writes Konotop, not Kontop.
   - Stenger: the Justizkommissarius Stenger "in Unruhstadt" whose essay of 1798 on the Hauländer Guradze cites (chapters IV to VI) is the edition's Criminal Rath Stenger "hier aus Karge" (letter 23 of Oe 1 Bü 9454, 1809), Triebenfeld's agent for Zagórów, Trąbczyn, Pszczew and Witów: Karge and Unruhstadt are one town, Kargowa (the editor, 2026-10-19).
 - Built and verified on the desktop; not published.
 
+## The literature: passages tied by hand to documents (2026-10-19, not published)
+
+- `literature/links.yml`: four links from the black register (the Materialien, pp. 141-171, and the Neue Feuerbrände, parts 2 and 3) to ten documents, each with a sentence in English and German saying what the book says and what the document says (LITERATURE_PLAN.md, section 9). Every figure in a sentence was read in both.
+  - The Prince's gift and the exchange for Krotoszyn (I. HA Rep. 7 C Nr. 3570, document 1; Oe 1 Bü 9454, documents 85, 86, 87, 97, 101). The register says Beyme stopped the exchange; Cölln said Voss, and the letters bear him out. The register says the Prince gave the cabinet a yield of 50,000 a year; the letters give 41,500 (the Prince) and 40,500 (the King).
+  - Triebenfeld's own estates (documents 104, 108, 112): the same valuation (over 700,000) and resale (750,000) in the register and the letters; for his sale to Prince George of Hesse-Darmstadt the register gives 400,000, his letter 280,000.
+  - Krotoszyn's lease to Früson at 30,100 (documents 85, 86, 101).
+  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as Rüchel is Claude's identification, open (NEEDS_CONFIRMATION).
+- On the site: under each linked passage a box "In the edition" with the sentence and the documents; on each linked document's page an entry "In the literature" in the box "About this document". `literature_site.py` stops on a link to a passage or document that does not exist; `verify_site.py` checks both sides of every link (140 in the two languages).
+- Built and verified on the desktop; not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

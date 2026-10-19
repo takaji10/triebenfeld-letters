@@ -676,6 +676,17 @@ img.scan {
 .lit-fn a { text-decoration: none; }
 .lit-note { font-family: var(--sans); font-size: .8em; font-weight: 600; }
 .lit-note:target { background: var(--mark); }
+/* The hand-made links (literature/links.yml): under a passage, "In the
+   edition", the sentence and the documents; beside a document, "In the
+   literature", the sentence and the passages. */
+.lit-links { grid-column: 1 / -1; margin: .9rem 0 0; padding: .5rem .9rem;
+  border-left: 2px solid var(--accent); font-family: var(--sans); font-size: .85rem;
+  background: color-mix(in srgb, var(--accent) 4%, transparent); }
+.lit-links p { margin: .3rem 0; max-width: var(--measure); }
+.lit-links .lit-links-head { font-weight: 600; margin-top: 0; }
+.lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; white-space: nowrap; }
+.lit-doclinks p { margin: 0 0 .45rem; }
+.lit-doclinks-pages { font-family: var(--sans); font-size: .85rem; }
 @media (max-width: 48rem) {
   .lit-cols-head { display: none; }
   .lit-passage { grid-template-columns: 1fr; }

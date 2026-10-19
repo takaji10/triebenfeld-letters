@@ -341,6 +341,9 @@ en:
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
   lit_mentions: "In the literature: %d passages"
   lit_mentions_one: "In the literature: one passage"
+  lit_in_edition: In the edition
+  lit_in_literature: In the literature
+  lit_doc: "%s, document %s"
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -684,6 +687,9 @@ de:
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   lit_mentions: "In der Literatur: %d Stellen"
   lit_mentions_one: "In der Literatur: eine Stelle"
+  lit_in_edition: In der Edition
+  lit_in_literature: In der Literatur
+  lit_doc: "%s, Dokument %s"
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

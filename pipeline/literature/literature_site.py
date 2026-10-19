@@ -3,10 +3,18 @@
 The literature on the website: a list of the works and a page for each.
 
 Reads  : corpus/literature/index.json and the passage files beside it
-         (made by build_literature.py), site/_data/i18n.yml (the labels)
+         (made by build_literature.py), site/_data/i18n.yml (the labels),
+         literature/links.yml (the hand-made links), corpus/letters.json and
+         units/<slug>/unit.yml (the linked documents)
 Writes : site/_data/literature.yml         the visible works, for the list page
+         site/_data/literature_links.yml   the links, by document (letter.html)
          site/_literature/<slug>.md        /literature/<slug>/
          site/_literature_de/<slug>.md     /de/literatur/<slug>/
+
+A passage named in literature/links.yml gets a box, "In the edition", with
+the link's sentence and its documents; the document's page shows the same
+sentence and the passages, "In the literature". The script stops on a link to
+a passage or a document that does not exist, or to a work not shown.
 
 A work with `visible: false` (Seidel, docs/LITERATURE_PLAN.md section 4) is
 skipped entirely: nothing of it is written under site/. verify_site.py holds
@@ -25,7 +33,7 @@ Everything under site/_literature* is generated output.
 
 Usage: python pipeline/literature/literature_site.py
 """
-import io, os, re, sys, json
+import io, os, re, sys, json, html
 import yaml
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
@@ -150,6 +158,85 @@ def yaml_str(v):
     return json.dumps(v, ensure_ascii=False)
 
 
+MONTHS = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June',
+          7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November',
+          12: 'December'}
+MONTHS_DE = {1: 'Januar', 2: 'Februar', 3: 'März', 4: 'April', 5: 'Mai', 6: 'Juni',
+             7: 'Juli', 8: 'August', 9: 'September', 10: 'Oktober', 11: 'November',
+             12: 'Dezember'}
+
+
+def doc_date(r, lang):
+    """The date as the document's own page gives it (build_site_data.date_label)."""
+    if not r['date_iso']:
+        return 'undatiert' if lang == 'de' else 'undated'
+    y, m, d = r['year'], r['month'], r['day']
+    months = MONTHS_DE if lang == 'de' else MONTHS
+    if d:
+        return f"{d}. {months[m]} {y}" if lang == 'de' else f"{d} {months[m]} {y}"
+    return f"{months[m]} {y}" if m else str(y)
+
+
+def load_links(works):
+    """literature/links.yml, checked against the passages and the documents.
+
+    Returns the links, each with `docs` (the documents' records from
+    corpus/letters.json, with their holding's `ref`). Stops on a passage or a
+    document that does not exist, and on a passage of a work not shown."""
+    path = os.path.join(ROOT, 'literature', 'links.yml')
+    if not os.path.isfile(path):
+        return []
+    with open(path, encoding='utf-8') as f:
+        links = yaml.safe_load(f) or []
+    with open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+        letters = {r['uid']: r for r in json.load(f)}
+    by_slug = {w['slug']: w for w in works}
+    refs, errors = {}, []
+    for ln in links:
+        for k in ('id', 'passages', 'documents', 'en', 'de'):
+            if not ln.get(k):
+                errors.append(f"{ln.get('id', '?')}: no {k}")
+        for pk in ln.get('passages', []):
+            slug, _, key = pk.partition('/')
+            w = by_slug.get(slug)
+            if not w:
+                errors.append(f"{ln['id']}: no work {slug}")
+            elif not w.get('visible'):
+                errors.append(f"{ln['id']}: {slug} is not shown on the site")
+            elif key not in {p['key'] for p in w['passages']}:
+                errors.append(f"{ln['id']}: no passage {pk}")
+        ln['docs'] = []
+        for uid in ln.get('documents', []):
+            r = letters.get(uid)
+            if not r:
+                errors.append(f"{ln['id']}: no document {uid}")
+                continue
+            if r['unit'] not in refs:
+                with open(os.path.join(ROOT, 'units', r['unit'], 'unit.yml'), encoding='utf-8') as f:
+                    refs[r['unit']] = yaml.safe_load(f)['ref']
+            ln['docs'].append(r | {'ref': refs[r['unit']]})
+    if errors:
+        sys.exit('literature/links.yml:\n  ' + '\n  '.join(errors))
+    return links
+
+
+def links_box(lns, s, lang):
+    """The "In the edition" box under a passage: each link's sentence and documents.
+
+    Outside the {% raw %} block of the page, for relative_url."""
+    out = ['{% endraw %}<aside class="lit-links">',
+           f'<p class="lit-links-head">{s["lit_in_edition"]}</p>']
+    for ln in lns:
+        out.append(f'<p>{html.escape(ln[lang], quote=False)}</p>')
+        out.append('<p class="lit-links-docs">' + ''.join(
+            f'<a href="{{{{ \'{r["permalink"]}\' | relative_url }}}}">'
+            + html.escape(s['lit_doc'].replace('%s', r['ref'], 1).replace('%s', str(r['letter_id']), 1))
+            + f' ({doc_date(r, lang)})</a>'
+            for r in ln['docs']) + '</p>')
+    out.append('</aside>{% raw %}')
+    return out
+
+
 def main():
     with open(os.path.join(CORPUS, 'index.json'), encoding='utf-8') as f:
         works = json.load(f)
@@ -157,6 +244,11 @@ def main():
         strings = yaml.safe_load(f)
     shown = [w for w in works if w.get('visible')]
     hidden = [w['slug'] for w in works if not w.get('visible')]
+    links = load_links(works)
+    at = {}                         # "<work>/<key>" -> the links naming it
+    for ln in links:
+        for pk in ln['passages']:
+            at.setdefault(pk, []).append(ln)
 
     for lang, (folder, base, other) in BASES.items():
         out_dir = os.path.join(SITE, folder)
@@ -195,6 +287,8 @@ def main():
                     else:
                         body += [f'<div class="{cls}" lang="{lg}" markdown="1">', '',
                                  render(t), '', '</div>']
+                if f'{slug}/{p["key"]}' in at:
+                    body += links_box(at[f'{slug}/{p["key"]}'], s, lang)
                 body.append('</section>')
             body.append('{% endraw %}')
             fm = ['---',
@@ -215,6 +309,31 @@ def main():
         f.write('# Generated by pipeline/literature/literature_site.py from\n'
                 '# literature/<slug>/work.yml. The works shown on the site only.\n')
         yaml.safe_dump(listing, f, allow_unicode=True, sort_keys=False, width=1000)
+
+    # The "In the literature" entry beside each linked document (letter.html):
+    # each link's sentence, then its passages by work, with their labels.
+    by_slug = {w['slug']: w for w in works}
+    per_doc = {}
+    for ln in links:
+        ws = []
+        for pk in ln['passages']:
+            slug, _, key = pk.partition('/')
+            w = by_slug[slug]
+            if not ws or ws[-1]['work'] != slug:
+                ws.append({'work': slug, 'cite': w['cite'], 'pages': []})
+            p = next(p for p in w['passages'] if p['key'] == key)
+            ws[-1]['pages'].append({'key': key, 'en': label(p, strings['en']),
+                                    'de': label(p, strings['de'])})
+        for r in ln['docs']:
+            per_doc.setdefault(r['uid'], []).append(
+                {'id': ln['id'], 'en': ln['en'], 'de': ln['de'],
+                 'works': json.loads(json.dumps(ws))})   # a copy: no YAML aliases
+    with open(os.path.join(SITE, '_data', 'literature_links.yml'), 'w',
+              encoding='utf-8', newline='\n') as f:
+        f.write('# Generated by pipeline/literature/literature_site.py from\n'
+                '# literature/links.yml: the passages tied by hand to each document.\n')
+        yaml.safe_dump(per_doc, f, allow_unicode=True, sort_keys=True, width=1000)
+    print(f'{len(links)} hand-made links: {len(at)} passages, {len(per_doc)} documents')
     print(f'wrote {len(shown)} works to site/_literature/ and site/_literature_de/'
           + (f"; not shown: {', '.join(hidden)}" if hidden else ''))
 

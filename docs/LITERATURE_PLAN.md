@@ -160,7 +160,8 @@ matters for context. So:
    works. *(done 2026-10-19, not published: section 7)*
 3. The index of people and places over the passages, read hit by hit.
    *(done 2026-10-19, not published: section 8)*
-4. The hand-made links, beginning with the black register.
+4. The hand-made links, beginning with the black register. *(the black
+   register done 2026-10-19, not published: section 9)*
 5. Guradze's page numbers, when the editor has corrected the text.
 6. Perhaps: the black register as a table (recipient, estates, district,
    value at the gift, later valuation, sale price), which bears directly on
@@ -230,3 +231,46 @@ matters for context. So:
   Places that are not estates have no list (the Places page shows the
   estates only); their hits stay in `corpus/literature/mentions.json` for
   questions.
+
+## 9. How the hand-made links are made (2026-10-19)
+
+- `literature/links.yml`: each link names passages (`<work>/<key>`),
+  documents (their uids) and a sentence in English and German saying why
+  they belong together. The sentence is read on both sides, so it names the
+  book, the document and what each says; every figure in it was read in
+  both (Claude, 2026-10-19). Where they disagree it says so.
+- `literature_site.py` checks every link (the passage exists, its work is
+  shown, the document exists) and stops if one fails. Under each linked
+  passage it puts a box, "In the edition", with the sentence and a link to
+  each document ("Oe 1 Bü 9454, document 85 (4 December 1798)"); it writes
+  `site/_data/literature_links.yml`, from which a document's page has an
+  entry "In the literature" in the box "About this document": the sentence
+  and the pages by work, in the reader's language. `verify_site.py` checks
+  both sides of every link.
+- **The first four links, the black register** (26 passages, 10
+  documents):
+  1. *The Prince's gift and the exchange for Krotoszyn*: the register's
+     entries on the Prince (Materialien pp. 145-146, 159; Feuerbrände 2-69,
+     2-80) and Cölln's correction (3-132), with the gift of 1796
+     (I. HA Rep. 7 C Nr. 3570, document 1), the King's refusal of December
+     1798 and the Prince's answers (Oe 1 Bü 9454, documents 85, 86, 87, 97,
+     101). The register says the Prince himself put the yield at 50,000 a
+     year; his letter to the King of December 1798 gives 41,500, the King's
+     40,500.
+  2. *Triebenfeld's own estates*: his entry (Materialien pp. 162-163;
+     Feuerbrände 2-83, 2-84) and Cölln's remark (3-134), with his letters
+     of 1799 to 1801 (documents 104, 108, 112). The same valuation (over
+     700,000) and resale (750,000) in both; for his own sale to Prince
+     George the register gives 400,000, his letter 280,000.
+  3. *Krotoszyn*: the "black book" quoted in the Materialien (p. 163) on
+     Triebenfeld's administration and Früson's lease at 30,100, with the
+     letters that give the same rent (documents 85, 86, 101).
+  4. *The other gifts*: the entries on Bischofswerder, Treskow, Zastrow,
+     Rüchel and Dolffs, with Triebenfeld's letter of 13 March 1799
+     (document 103), which sets the Prince's gift beside the same ones.
+     "Gen. Ruchts" in the letter is taken to be Rüchel: Claude's
+     identification, open (NEEDS_CONFIRMATION).
+- Next, when the editor wants them: Held's book on Krotoszyn (he was there
+  in the 1790s) against the same letters, and the passages on the
+  Olęders and the boundary procedure (Guradze, Paciorkowski) against the
+  holdings they bear on.

@@ -257,6 +257,35 @@ def main():
     print(f'  {len(shown)} works with pages in both languages, '
           f'{len(hidden)} kept off the site')
 
+    # The hand-made links (literature/links.yml), on both sides: each passage's
+    # box links each document, and each document's page links each passage.
+    links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')
+    if os.path.isfile(links_data):
+        import yaml
+        with io.open(links_data, encoding='utf-8') as f:
+            per_doc = yaml.safe_load(f) or {}
+        with io.open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+            permalink = {r['uid']: r['permalink'] for r in json.load(f)}
+        n = 0
+        for uid, lns in per_doc.items():
+            doc_page = os.path.join(SITE, permalink[uid].strip('/'), 'index.html')
+            with io.open(doc_page, encoding='utf-8') as f:
+                doc_html = f.read()
+            for ln in lns:
+                for w in ln['works']:
+                    for base in ('literature', os.path.join('de', 'literatur')):
+                        with io.open(os.path.join(SITE, base, w['work'], 'index.html'),
+                                     encoding='utf-8') as f:
+                            work_html = f.read()
+                        for pg in w['pages']:
+                            n += 1
+                            sec = work_html.split(f'id="p-{pg["key"]}"', 1)[-1].split('</section>', 1)[0]
+                            if f'href="{BASEURL}{permalink[uid]}"' not in sec:
+                                fail(f"literature: {base}/{w['work']}/#p-{pg['key']} does not link {uid}")
+                            if f'/literature/{w["work"]}/#p-{pg["key"]}"' not in doc_html:
+                                fail(f"literature: {uid}'s page does not link {w['work']}/#p-{pg['key']}")
+        print(f'  {n} hand-made links checked on both sides ({len(per_doc)} documents)')
+
     # ---- summary ----------------------------------------------------------
     print()
     if failures:
