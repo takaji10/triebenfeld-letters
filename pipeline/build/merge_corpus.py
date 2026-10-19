@@ -68,7 +68,9 @@ def main():
         seen[r['uid']] = r['unit']
 
     os.makedirs(CORPUS, exist_ok=True)
-    with open(os.path.join(CORPUS, 'letters.json'), 'w', encoding='utf-8') as f:
+    # LF line ends, as .gitattributes stores them (open() without newline=
+    # writes CRLF on Windows; csv ends rows with CRLF unless told)
+    with open(os.path.join(CORPUS, 'letters.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump(records, f, ensure_ascii=False, indent=1)
 
     # CSV and pages.csv are concatenations of the per-unit files, header once
@@ -101,7 +103,7 @@ def main():
                 rows.extend(rd)
         if header:
             with open(os.path.join(CORPUS, name), 'w', encoding='utf-8-sig', newline='') as f:
-                w = csv.writer(f)
+                w = csv.writer(f, lineterminator='\n')
                 w.writerow(header)
                 w.writerows(rows)
 

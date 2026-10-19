@@ -2058,6 +2058,13 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Oe 1 Bü 9454, letter 103, page 4: "des Gen. Ruchts" is "des Gen. Ruchels", General Rüchel. The editor agreed with Claude's identification and took "Ruchts" for a misreading; the scan reads "Ruchels". Corrected in the transcription (logged in `transcription_decisions.csv`), in the English ("General Rüchel", by `reference/english_corrections.yml`) and in the link's sentence; the mark of doubt on the word is taken out. Rüchel's entry in `reference/people.yml` now finds the letter. The record is `units/oe1bu9454/intake/scripts/ruechel_103.py`.
 - Published at the editor's word: the literature (five works on the site, the index of people and estates over them, the four links of the black register) with this correction.
 
+## Line ends: every text file LF (2026-10-19)
+
+- At the editor's word, so that line endings stop turning small edits into diffs of hundreds of lines. `.gitattributes` now stores and checks out every text file with LF, on the desktop and in the cloud alike; the 2438 files that were CRLF or mixed were converted in one commit (6ef4dcce, listed in `.git-blame-ignore-revs`). `reference/name_rulings.json` and `units/oe1bu9454/scan_decisions.json` ended in a stray carriage return, which made Git treat them as binary; it was taken out.
+- `build_db.py` and `merge_corpus.py` now write LF on Windows too.
+- Verified on a branch before it went to `main`: every holding rebuilt, the site built and `verify_site.py` passed (613 documents); the 9135 generated files were identical to before but for line ends. No text, translation or page changed.
+- `CLAUDE.md` and `docs/WORKING_NOTES.md` ("Line ends") no longer ask sessions to preserve CRLF file by file.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

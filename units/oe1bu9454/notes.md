@@ -316,7 +316,7 @@ record); neither is to be run again.
 
 - **Images.** 245 keeps its page ids (0455_a, 0456_a). 289 was two halves of two captures (0522_a2, 0523_a1); the new scans show each
   page whole and are 0522_b and 0522_c, the editor's names. The old processed images are in the archive folder's `processed/_superseded/`.
-  `scan_rename_map.json` and `scan_decisions.json` are CRLF and in the archive's order: change a name in them in place, never rewrite them.
+  `scan_rename_map.json` and `scan_decisions.json` are in the archive's order (and were CRLF until 2026-10-19, now LF): change a name in them in place, never rewrite them.
 - **Text.** Made line by line from the text that stood in the corpus (which had had every correcting pass), the editor's new
   transcription, and the new scans read through enlarged. Where the two transcriptions differed the scan decided. 245 gained its last
   line of page 1, which the old scan had lost at the torn foot; 289 gained the pencil date at the foot of page 1. Marks of doubt: 245

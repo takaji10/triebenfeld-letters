@@ -524,9 +524,10 @@ Where the rest is:
   summaries and brought back one for a document that no longer exists.
   Change the entry in `site/_data/summaries.yml` and `summaries_de.yml`
   directly, and the cache file too.
-- **`scan_rename_map.json` and `scan_decisions.json` are CRLF and unsorted.**
+- **`scan_rename_map.json` and `scan_decisions.json` are unsorted.**
   A script that loads and dumps them rewrites every line. Replace the name
-  in place as text.
+  in place as text. (They were CRLF until 2026-10-19; now LF like every
+  text file, "Line ends" below.)
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer
@@ -1265,14 +1266,6 @@ cloud branches").
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
   not touched.
-- **Building on Linux rewrites the desktop's CRLF files as LF.** In the cloud,
-  `build_db.py`, `merge_corpus.py`, `build_dataset.py` and
-  `build_site_data.py` rewrote 180 generated files whose committed form is
-  CRLF (`letters.json`, `corpus/text/`, `corpus/documents/`), so `git diff`
-  showed 68,000 changed lines for 500 real ones. Compare each changed file
-  with `git show HEAD:<file>` ignoring carriage returns: restore it if equal,
-  otherwise rewrite it with the line endings HEAD had. `git diff --stat` and
-  `git diff --ignore-cr-at-eol --stat` must then agree.
 - **Scripts with backslashes or apostrophes are written to a file and then
   run** (broken four more times on 2026-10-06, each time by a regex in a
   heredoc: there is no exception for "a short one"). In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`
@@ -1281,17 +1274,46 @@ cloud branches").
 - **A one-shot edit script asserts each replacement exactly once.** Commit
   before running it, so a partial failure can be undone. Never run one again
   after it has partly applied: it duplicated summary lines once.
-- **Line endings.** `git ls-files --eol <file>` tells the truth; `grep` for a
-  carriage return does not in Git Bash. The files differ, so check each one
-  before editing: the changelog, EDITORIAL_RULES, NEW_UNIT, DATA_MODEL, the
-  era plan, the site essays, the edition guide and TODO are CRLF (TODO was
-  listed as LF here until 2026-10-15, when a rewrite turned all 471 lines
-  to LF); this file, `CLAUDE.md`, NEEDS_CONFIRMATION, HOUSE_STYLE and the
-  holdings' `about` files are LF. Run `file` on a file before writing it
-  whole, and never read it with Python's text mode and write it back.
-- **`sed -i` in Git Bash writes the whole file back with LF.** On
-  2026-10-14 it turned a one-number change in the two edition guides into
-  400-line diffs. In a CRLF file, replace in bytes with Python.
+- **Line ends: every text file is LF, everywhere (editor, 2026-10-19).**
+  Until then the repository held both kinds: some files were committed with
+  CRLF, others with LF, and Git for Windows (`core.autocrlf=true` in its
+  system config) turned LF into CRLF on the desktop only. So a script that
+  rewrote a file whole, a build on Linux, `sed -i`, or Python's `csv`
+  module turned hundreds of unchanged lines into a diff, and every session
+  had to check each file before editing it. The fix:
+  - `.gitattributes` says `* text=auto eol=lf`: Git stores and checks out
+    every text file with LF, on Windows and Linux, whatever `core.autocrlf`
+    says. Commit 6ef4dcce converted the 2438 files that were CRLF or mixed,
+    and nothing else; it is listed in `.git-blame-ignore-revs` so that
+    `git blame` skips it.
+  - Before it went to `main`, everything was rebuilt on the branch (every
+    holding's `build_db.py`, the merge and site steps, Jekyll,
+    `verify_site.py`) and the 9135 generated files were hashed before and
+    after with CR LF counted as LF: none differed.
+  - `build_db.py` and `merge_corpus.py` now write LF (`newline='\n'` for
+    text and JSON, `lineterminator='\n'` for `csv`). **A new script that
+    writes a file to be committed does the same**: Python's `csv` ends rows
+    with CRLF unless told, and `open(..., 'w')` without `newline=` writes
+    CRLF on Windows. Other writers still write CRLF on the desktop; Git
+    turns it back to LF when the file is added, but `git status` may list
+    such a file as changed until then (`git add` it, or `git diff` shows
+    nothing).
+  - A file with a lone carriage return (`\r` not followed by `\n`) is taken
+    by Git for binary and escapes the rule. `reference/name_rulings.json`
+    and `units/oe1bu9454/scan_decisions.json` both ended in one; they were
+    fixed in the same commit.
+  - `git ls-files --eol <file>` tells the truth about a file's line ends
+    (`i/` the index, `w/` the disk). `grep -c $'\r$'` in Git Bash reported
+    0 for CRLF files: do not trust it.
+  - On another clone made before the change, after pulling, Git may show
+    every file as modified. `git add --renormalize .` and then `git status`
+    should show nothing; if it still does, a fresh clone settles it.
+- **`git ls-files` quotes paths with letters outside ASCII** (`Bü` comes
+  out as `"B\303\274"`), so a command fed its output fails on those files.
+  Use `git -c core.quotepath=off ls-files`.
+- **`gh` is not installed on the desktop.** To check the Pages run, read
+  `https://api.github.com/repos/takaji10/triebenfeld-letters/actions/runs?per_page=1`
+  with `curl`.
 - **Marks of doubt** are counted by hand in the edition guide. Recount from
   `corpus/index/uncertainties.json` after any change to a marker.
 - **A local build after pulling a cloud session's work** can rewrite

@@ -84,9 +84,10 @@ so check them.
   `.github/workflows/pages.yml`, which runs `verify_site.py` as a gate. To
   publish, fast-forward `main` to the branch and push, then confirm the
   "Build and deploy" run succeeded. Publish only when the editor says so.
-- **Line endings.** Many files are CRLF (`docs/*.md`, `site/_data/i18n.yml`,
-  `site/_layouts/*.html`, `README.md`, `browse.js`). Edit them preserving CRLF
-  and check `git diff --stat` shows only the real change.
+- **Line endings.** Every text file is LF, on the desktop and in the cloud
+  (`.gitattributes`, editor 2026-10-19). A script that writes a file to be
+  committed uses `newline='\n'` (and `lineterminator='\n'` for `csv`).
+  WORKING_NOTES, "Line ends".
 - **Not in the repository:** `review/` (generated sheets), `cache/` (model
   output, on the editor's machine), raw scans. There is no Anthropic API key
   here: paid runs (translate.py, summarise.py, read_letters.py) happen on the
