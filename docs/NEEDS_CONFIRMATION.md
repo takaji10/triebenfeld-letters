@@ -402,25 +402,6 @@ Places (`reference/places.yml`, `open_questions`):
     Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
     Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
 
-- **In the literature: Stenger (Claude, 2026-10-19).** The books name some
-  men without saying they are the edition's; Claude took them to be, so that
-  their passages are listed under them on /people/ (rulings in
-  `literature/index.yml`). The editor accepted four of five on Claude's
-  reading (2026-10-19: Grevenitz, Stössel, Nöldichen, Wartensleben; the
-  changelog says what each rests on). Open, because the editor cannot say:
-  - Stenger: Guradze (chapters IV and V, with a note in VI) cites an essay of
-    1798 on the Hauländer of South Prussia by the Justizkommissarius Stenger
-    "in Unruhstadt". The edition's Stenger is the Criminal Rath Stenger "hier
-    aus Karge" of letter 23 of Oe 1 Bü 9454 (1809), Triebenfeld's agent for
-    Zagórów, Trąbczyn, Pszczew and Witów. Karge and Unruhstadt are two German
-    names of one town, Kargowa (`reference/places.yml` gives both as
-    Kargowa). So: the same surname, a lawyer both times, in the same small
-    town, eleven years apart, which fits a commissioner of justice later made
-    a criminal councillor. Nothing in either source names him further. If
-    the editor would rather not have it, the ruling for "Stenger" and
-    "Stengers" in `literature/index.yml` becomes "no" and his list leaves
-    /people/.
-
 ## Translations
 
 Since 2026-10-06 the site no longer shows a translation's status or says

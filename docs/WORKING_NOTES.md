@@ -1128,9 +1128,9 @@ cloud branches").
   to be the edition's, on the strength of the name, the time and the
   place" gives them nothing to judge. Write what the book says, what the
   edition's document says (with its number), and what joins them: for
-  Stenger, that Karge and Unruhstadt are one town. They accepted four of
-  five identifications that way and left Stenger open, not knowing the
-  Karge connection.
+  Stenger, that Karge and Unruhstadt are one town. They left Stenger open
+  at first, not knowing the Karge connection, and accepted him once it was
+  written out plainly.
 - **The books spell places in ways the edition never met**, and the
   edition's patterns miss them: Trąbczyn had no hit at all until
   "Trombczyn" and "Trobozyn" were added under `patterns:` in

@@ -575,9 +575,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       each of 35 people and 11 estates (built 2026-10-19;
       LITERATURE_PLAN.md, section 8).
 - [ ] **You:** look at those lists (for example Triebenfeld and Hoym on
-      /people/, Trąbczyn and Krotoszyn on /places/). Of the five
-      identifications, four are accepted (2026-10-19); Stenger is open, with
-      the evidence, in NEEDS_CONFIRMATION ("Identifications").
+      /people/, Trąbczyn and Krotoszyn on /places/). The five
+      identifications are accepted (2026-10-19).
 - [ ] The links from a work's page to the documents
       (`literature/links.yml`), the black register first.
 - [ ] **You: Guradze's text corrected**, and its page numbers added
