@@ -110,7 +110,8 @@ so check them.
 
 ## Where things stand (2026-10-16)
 
-- **The literature** (begun 2026-10-19; site pages built, not published):
+- **The literature** (begun 2026-10-19; **published 2026-10-19** at the
+  editor's word):
   six books about the sources, original and English (Claude's), in
   `literature/`, cut page by page into `corpus/literature/` by
   `pipeline/literature/build_literature.py`, and shown at /literature/ by
@@ -123,9 +124,11 @@ so check them.
   /places/; the editor accepted Claude's five identifications. The first
   hand-made links are built (plan, section 9; `literature/links.yml`):
   four, from the black register to ten documents, each with a sentence
-  saying why, shown under the passage and beside the document. Waiting:
-  the editor's look at the pages, lists and links, their ruling on "Gen.
-  Ruchts" = Rüchel (NEEDS_CONFIRMATION) and their word to publish.
+  saying why, shown under the passage and beside the document. The
+  general "Ruchts" of letter 103 is Rüchel (editor, 2026-10-19): the scan
+  reads "Ruchels", and the text is corrected
+  (`units/oe1bu9454/intake/scripts/ruechel_103.py`). Nothing waits on the
+  editor but their reading of the live pages.
 
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,

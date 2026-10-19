@@ -568,8 +568,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       with original and English side by side, cited by printed page; the
       Materialien first, then the other visible works (built 2026-10-19;
       LITERATURE_PLAN.md, section 7).
-- [ ] **You:** look at the pages (the list at /literature/, then the
-      Materialien) and say whether they go live.
+- [x] The pages go live: published at the editor's word, 2026-10-19.
 - [x] An index of the people and estates each page names, every hit read
       and ruled in `literature/index.yml`; a list "In the literature" under
       each of 35 people and 11 estates (built 2026-10-19;
@@ -582,9 +581,15 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       pages of the Materialien and the Neue Feuerbrände tied to 10
       documents, each with a sentence saying why; on both sides (built
       2026-10-19; LITERATURE_PLAN.md, section 9).
-- [ ] **You:** read the four sentences (beside documents 85 and 103 of
-      Oe 1 Bü 9454, or under p. 145 of the Materialien), and say whether
-      "Gen. Ruchts" in letter 103 is Rüchel (NEEDS_CONFIRMATION).
+- [x] "Gen. Ruchts" in letter 103 is Rüchel (the editor, 2026-10-19):
+      the scan reads "Ruchels", and the transcription, the English and the
+      link's sentence are corrected
+      (`units/oe1bu9454/intake/scripts/ruechel_103.py`). The literature
+      pages, lists and links were published the same day at the editor's
+      word.
+- [ ] **You (when convenient):** read the four sentences of the links
+      (beside documents 85 and 103 of Oe 1 Bü 9454, or under p. 145 of the
+      Materialien) on the live site.
 - [ ] **You: Guradze's text corrected**, and its page numbers added
       (archive.org's page-by-page OCR can find where each page begins).
       Its footnotes are numbered differently in the English (192 against

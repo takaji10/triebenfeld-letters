@@ -129,12 +129,13 @@
     26.000 Talern erhalten, und der Fürst nennt als Pacht von Krotoszyn
     dieselben 30.100.
 
-# "Gen. Ruchts" in letter 103 is taken to be Lieutenant-General von Rüchel:
-# Claude's identification, not the letter's statement. The letter says the
-# general's estates were to bear 940 Thaler a year and were sold for 140,000;
-# the register says Rüchel's gift was valued at 20,000 and then 10,000 more,
-# and sold to Reibnitz for 130,000. No other general in the register fits.
-# Open: docs/NEEDS_CONFIRMATION.md.
+# The general in letter 103 is Lieutenant-General von Rüchel: Claude took
+# "Gen. Ruchts" for him, and the editor agreed on 2026-10-19, taking "Ruchts"
+# for a misreading; the scan reads "Ruchels", and the transcription was
+# corrected (units/oe1bu9454/intake/scripts/ruechel_103.py). The letter says
+# the general's estates were to bear 940 Thaler a year and were sold for
+# 140,000; the register says Rüchel's gift was valued at 20,000 and then
+# 10,000 more, and sold to Reibnitz for 130,000.
 - id: register-other-gifts
   passages:
     - materialien1861/141
@@ -161,8 +162,8 @@
     time, each valued low and since sold or yielding far more: Bischofswerder's
     (which he says he sold for 207,000 Thaler), Zastrow's (meant to bear 2,000 a year, now
     some 20,000), Dolffs's (which Treskow is now selling
-    for 360,000) and "General
-    Ruchts's" (sold for 140,000), taken here to be Rüchel's. The black
+    for 360,000) and General
+    Rüchel's (sold for 140,000). The black
     register makes the same complaint of the same gifts: Bischofswerder's
     sold to Count Lüttichau for 25,000 Friedrichsd'or, Zastrow's given at
     87,650 and "now worth at least 200,000", Treskow's worth together about
@@ -175,8 +176,8 @@
     die Bischofswerders (die er, wie er sagt, für 207.000 Taler
     verkauft habe), die Zastrows (sollten
     2.000 im Jahr tragen, bringen jetzt an die 20.000), die Dolffs' (die Treskow
-    jetzt für 360.000 verkaufe) und die des "Gen. Ruchts" (für 140.000
-    verkauft), hier als Rüchel gelesen. Das schwarze Register erhebt denselben
+    jetzt für 360.000 verkaufe) und die des Generals Rüchel (für 140.000
+    verkauft). Das schwarze Register erhebt denselben
     Vorwurf gegen dieselben Schenkungen: Bischofswerders an den Grafen
     Lüttichau für 25.000 Friedrichsd'or verkauft, Zastrows bei der Schenkung
     87.650 und "jetzt zum Mindesten 200.000" wert, Treskows zusammen etwa

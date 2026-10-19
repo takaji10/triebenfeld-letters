@@ -1157,9 +1157,23 @@ cloud branches").
   says: "the register says", never "it was". Where they disagree, the
   sentence says so and does not choose: the register has Triebenfeld sell
   his estates to Prince George for 400,000, his own letter of July 1800
-  280,000. A name in a letter taken to be a man of the book ("Gen. Ruchts"
-  as Rüchel) is Claude's identification: the comment at the link says so
-  and NEEDS_CONFIRMATION lists it until the editor rules.
+  280,000. A name in a letter taken to be a man of the book is Claude's
+  identification until the editor rules: the comment at the link says so
+  and NEEDS_CONFIRMATION lists it. **Look at the scan first**: "Gen.
+  Ruchts" in letter 103, taken for Rüchel, was a misreading of "Ruchels"
+  (the editor, 2026-10-19), which the site's scan showed at once; the
+  question need not have gone to the editor as an identification.
+- **`english_forms.py --apply` rewrites every page and every summary**,
+  not only the one a new line of `english_corrections.yml` is for. On
+  2026-10-19 it also re-wrapped 23 summaries in `site/_data/summaries.yml`
+  and grouped article numbers as if they were sums ("articles 1,302 and
+  2,800", APŁ 39/98/0/-/6603, doc. 3). After running it, read `git diff`
+  and put back (`git checkout --`) every file the correction was not for.
+- **A correction to the English does not reach the name pairs.** The
+  `names:` list of a page in `site/_data/translations/<pad>.yml` (German
+  form and English form of each name) is matched against the German by
+  check_translations.py; when a name in the German is corrected, change
+  its pair too, in the same script as the text.
 - **`yaml.safe_dump` writes an anchor (`&id001`) for a list used twice**
   (one link's passages written under each of its documents); copy the list
   first, so the site's data file has no aliases.

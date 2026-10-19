@@ -2049,9 +2049,14 @@ lose his estates. The era page writes Konotop, not Kontop.
   - The Prince's gift and the exchange for Krotoszyn (I. HA Rep. 7 C Nr. 3570, document 1; Oe 1 Bü 9454, documents 85, 86, 87, 97, 101). The register says Beyme stopped the exchange; Cölln said Voss, and the letters bear him out. The register says the Prince gave the cabinet a yield of 50,000 a year; the letters give 41,500 (the Prince) and 40,500 (the King).
   - Triebenfeld's own estates (documents 104, 108, 112): the same valuation (over 700,000) and resale (750,000) in the register and the letters; for his sale to Prince George of Hesse-Darmstadt the register gives 400,000, his letter 280,000.
   - Krotoszyn's lease to Früson at 30,100 (documents 85, 86, 101).
-  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as Rüchel is Claude's identification, open (NEEDS_CONFIRMATION).
+  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as Rüchel was Claude's identification; settled the same day (below).
 - On the site: under each linked passage a box "In the edition" with the sentence and the documents; on each linked document's page an entry "In the literature" in the box "About this document". `literature_site.py` stops on a link to a passage or document that does not exist; `verify_site.py` checks both sides of every link (140 in the two languages).
 - Built and verified on the desktop; not published.
+
+## Letter 103: General Rüchel; the literature published (2026-10-19)
+
+- Oe 1 Bü 9454, letter 103, page 4: "des Gen. Ruchts" is "des Gen. Ruchels", General Rüchel. The editor agreed with Claude's identification and took "Ruchts" for a misreading; the scan reads "Ruchels". Corrected in the transcription (logged in `transcription_decisions.csv`), in the English ("General Rüchel", by `reference/english_corrections.yml`) and in the link's sentence; the mark of doubt on the word is taken out. Rüchel's entry in `reference/people.yml` now finds the letter. The record is `units/oe1bu9454/intake/scripts/ruechel_103.py`.
+- Published at the editor's word: the literature (five works on the site, the index of people and estates over them, the four links of the black register) with this correction.
 
 ## Deliverables produced
 

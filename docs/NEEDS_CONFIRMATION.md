@@ -229,18 +229,6 @@ read, translate and summarise.
   (p. 135) lists Cölln's six corrections as "nos. 7, 10, 14, 18, 20 and
   28", but the one on Triebenfeld stands at his entry, numbered 16/38
   (`literature/materialien1861/notes.md`).
-- **In the literature: "Gen. Ruchts" is Rüchel?** (Claude, 2026-10-19;
-  `literature/links.yml`, the link `register-other-gifts`). In letter 103
-  of Oe 1 Bü 9454 (13 March 1799) Triebenfeld lists gifts of estates to
-  others, among them those "of General Ruchts", which were to yield 940
-  Thaler a year and were sold for 140,000. The black register lists
-  Lieutenant-General von Rüchel's gift (Ostrzeszów, valued at 20,000, and
-  Kaliszkowice, 10,000), sold to Reibnitz for 130,000. The register's
-  other generals (Bischofswerder, Zastrow, Dolffs, Favrat, Hirschfeld,
-  Köhler, Wendessen) have names nothing like it, and the other names in
-  the letter (Bischofswerder, Zastrow, Dolffs, Treskow) are all there. The
-  link's sentence says "taken here to be Rüchel's"; if the editor says no,
-  that part comes out.
 
 ## Readings, Oe 1 Bü 9454
 

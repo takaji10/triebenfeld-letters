@@ -382,6 +382,17 @@ is `intake/scripts/recrop_300.py` (images, text, date, reading record; its docst
   foot of page 1, "20. Jan 1816", is added there (as for letter 289) and dates the letter: 20 January 1816
   (`rulings.yml`, dates.read). The summary needed no change.
 
+## Letter 103: General Rüchel (2026-10-19)
+
+On page 4 (0215_a, line 11) Triebenfeld sets the Prince's gift beside others, among them the estates "des Gen.
+Ruchels", which were to bear 940 Thaler a year. The transcription had "Ruchts", and the whole-letter reading had
+marked it "possibly Rüchel". Claude took him for Lieutenant-General von Rüchel, whose gift the black register lists
+(`literature/links.yml`, `register-other-gifts`); the editor agreed ("Possibly a transcription error"), and the
+site's scan reads "Ruchels": the "el" had been read as "t". His spelling, with u, is kept in the German; the
+English says "General Rüchel". The record is `intake/scripts/ruechel_103.py` (text, page file, decision log, the
+name pair of the English, the mark of doubt taken out of `reading.json`); the English text follows by
+`reference/english_corrections.yml`, and Rüchel's pattern in `reference/people.yml` now finds "Ruchels".
+
 ## Place names: German in the text, Polish (German) on the site (editor 2026-09-28)
 
 The transcriptions show the German name the letters use wherever a place has one - Zagorowo, Kaemen, Peisern, Kalisch, Wittow, Betsche, Breslau - including Germanised spellings of Polish names (Kopoyno, Stalluhn, Lowin, Schartzig, Kulligowo, Swiegaszin). Places with no German form (Trąbczyn, Swięcia, Drzewce) keep their Polish spelling, and pure diacritic fixes of a Polish spelling stand (Głażewo, Stołuń, Wieluń, Przybysław). Frankfurth is the edition's spelling of Frankfurt an der Oder. The Polish names are recorded, not printed in the text: `reference/places.yml` gives each place now in Poland its Polish `display` and a `german:` field, and the site names it "Polish (German)" wherever places are listed - Zagórów (Zagorowo), Kamionna (Kaemen), Wrocław (Breslau), Poznań (Posen), Koszęcin (Koschentin). This replaces the brief "Polish everywhere" ruling of the same day: its 309 changes were reversed, and 14525's estate-spelling pass of 2026-09-15 was reversed for German forms. Bornstädt is the established form of that name; Schulze (Geheimer Finanzrat), Schulz of Strelitz and Wilhelm Daniel Schulz are separate index entries.

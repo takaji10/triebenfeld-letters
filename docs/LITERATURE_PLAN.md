@@ -1,8 +1,8 @@
 # Plan: the literature
 
 Status: **agreed with the editor 2026-10-19; texts brought in and cut into
-passages (`corpus/literature/`); the site pages built (2026-10-19), not
-yet published.** When the work is done, the standing parts move into
+passages (`corpus/literature/`); the site pages, the index and the first
+links built and published (2026-10-19).** When the work is done, the standing parts move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
 record of how it was decided.
 
@@ -157,11 +157,11 @@ matters for context. So:
 1. Bring all six works in; build the passages; report the alignment. *(done
    2026-10-19; what was found is in each work's `notes.md`)*
 2. The site pages, tried first with the Materialien; then the other visible
-   works. *(done 2026-10-19, not published: section 7)*
+   works. *(done and published 2026-10-19: section 7)*
 3. The index of people and places over the passages, read hit by hit.
-   *(done 2026-10-19, not published: section 8)*
+   *(done and published 2026-10-19: section 8)*
 4. The hand-made links, beginning with the black register. *(the black
-   register done 2026-10-19, not published: section 9)*
+   register done and published 2026-10-19: section 9)*
 5. Guradze's page numbers, when the editor has corrected the text.
 6. Perhaps: the black register as a table (recipient, estates, district,
    value at the gift, later valuation, sale price), which bears directly on
@@ -268,8 +268,10 @@ matters for context. So:
   4. *The other gifts*: the entries on Bischofswerder, Treskow, Zastrow,
      Rüchel and Dolffs, with Triebenfeld's letter of 13 March 1799
      (document 103), which sets the Prince's gift beside the same ones.
-     "Gen. Ruchts" in the letter is taken to be Rüchel: Claude's
-     identification, open (NEEDS_CONFIRMATION).
+     The letter's general was read "Ruchts"; Claude took him for Rüchel,
+     the editor agreed, and the scan reads "Ruchels" (2026-10-19; the
+     transcription corrected by
+     `units/oe1bu9454/intake/scripts/ruechel_103.py`).
 - Next, when the editor wants them: Held's book on Krotoszyn (he was there
   in the 1790s) against the same letters, and the passages on the
   Olęders and the boundary procedure (Guradze, Paciorkowski) against the

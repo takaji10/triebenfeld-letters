@@ -2628,14 +2628,14 @@
   name: "General Rüchel"
   heading: "Rüchel, Ernst von"
   heading_de: "Rüchel, Ernst von"
-  count: 2
-  docs: 2
+  count: 3
+  docs: 3
   life: "1754-1823"
   life_de: "1754-1823"
   bio: "Ernst von Rüchel, Prussian general, who commanded a corps beside Hohenlohe-Ingelfingen at Jena in 1806."
   bio_de: "Ernst von Rüchel, preußischer General, der 1806 bei Jena neben Hohenlohe-Ingelfingen ein Korps befehligte."
-  span: "1805–1809"
-  letters: [{id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 1}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/", n: 1}]
+  span: "1799–1809"
+  letters: [{id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/", n: 1}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 1}, {id: "55", uid: "oe1bu9454-55", url: "/documents/oe1bu9454/55/", n: 1}]
 - slug: "sacken"
   name: "Sacken (Sakken)"
   heading: "Sacken, Princess"

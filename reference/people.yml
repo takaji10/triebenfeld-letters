@@ -1098,10 +1098,10 @@ people:
     identity: "Grand Duke Konstantin Pavlovich of Russia (letters 244, 247, 269). Added 2026-09-28 in the names pass."
   ruechel:
     display: "General Rüchel"
-    match: 'R(?:ü|u)chel(?![a-zà-ÿ])'
+    match: 'R(?:ü|u)chels?(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
-    identity: "Prussian general (letter 177). Added 2026-09-28 in the names pass."
+    identity: "Prussian general (letter 177; letter 103, \"Gen. Ruchels\", read as Ruchts until the editor's ruling of 2026-10-19). Added 2026-09-28 in the names pass."
   kalckreuth:
     display: "Kalckreuth"
     match: 'Kal(?:c)?[kh]reuth\w*|Kalchreuth\w*'
