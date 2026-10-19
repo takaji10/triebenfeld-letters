@@ -26,6 +26,7 @@ en:
     places: Places
     glossary: Glossary
     sources: Sources
+    literature: Literature
     about: About the edition
   foot: >-
     A digital edition of %d documents from the Trąbczyn estate, transcribed from the
@@ -306,6 +307,38 @@ en:
   unit_tab_prepared: How it was prepared
   unit_no_about: A description of this holding has not been written yet.
   unit_no_process: An account of how this holding was prepared has not been written yet.
+  lit_h1: Literature
+  lit_lede: >-
+    Books and articles about the estate's history and its setting, each in
+    its original language with an English translation beside it. They are
+    not part of the edition: they are what contemporaries and historians
+    wrote about the matters the sources record, and each is introduced with
+    what kind of witness it is.
+  lit_caveat: >-
+    The English translation was made by Claude, an AI model, and has not
+    been checked against the original as a whole. Quote from the original,
+    and read any passage you rely on there.
+  lit_read: Read the work
+  lit_author: Author
+  lit_published: Published
+  lit_language: Language
+  lit_pages_n: Printed pages
+  lit_scan: Scan of the original
+  lit_lang_de: German
+  lit_lang_la: Latin
+  lit_lang_pl: Polish
+  lit_lang_fr: French
+  lit_pages: Pages
+  lit_page: "p. %s"
+  lit_part: "Part %d"
+  lit_front: before the first page
+  lit_front_short: front
+  lit_unnumbered: "unnumbered page after p. %s"
+  lit_notes: Notes
+  lit_original: original
+  lit_english: English
+  lit_col_english: English, translated by Claude
+  lit_missing: "This page is not marked in the %s: its text stands under the page before."
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -330,6 +363,7 @@ de:
     places: Orte
     glossary: Glossar
     sources: Quellen
+    literature: Literatur
     about: Über die Edition
   foot: >-
     Eine digitale Edition von %d Dokumenten zum Gut Trąbczyn, transkribiert nach den
@@ -614,6 +648,38 @@ de:
   unit_tab_prepared: Wie er bearbeitet wurde
   unit_no_about: Eine Beschreibung dieses Bestandes ist noch nicht geschrieben.
   unit_no_process: Ein Bericht über die Bearbeitung dieses Bestandes ist noch nicht geschrieben.
+  lit_h1: Literatur
+  lit_lede: >-
+    Bücher und Aufsätze zur Geschichte des Gutes und ihrem Umfeld, jeweils
+    in der Originalsprache mit einer englischen Übersetzung daneben. Sie
+    gehören nicht zur Edition: Sie sind, was Zeitgenossen und Historiker
+    über die Dinge schrieben, die die Quellen festhalten, und bei jedem
+    steht, welche Art von Zeugnis es ist.
+  lit_caveat: >-
+    Die englische Übersetzung hat Claude, ein KI-Modell, angefertigt; sie
+    ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
+    und lesen Sie dort jede Stelle nach, auf die Sie sich stützen.
+  lit_read: Das Werk lesen
+  lit_author: Verfasser
+  lit_published: Erschienen
+  lit_language: Sprache
+  lit_pages_n: Druckseiten
+  lit_scan: Digitalisat des Originals
+  lit_lang_de: Deutsch
+  lit_lang_la: Latein
+  lit_lang_pl: Polnisch
+  lit_lang_fr: Französisch
+  lit_pages: Seiten
+  lit_page: "S. %s"
+  lit_part: "Heft %d"
+  lit_front: vor der ersten Seite
+  lit_front_short: Titel
+  lit_unnumbered: "ungezählte Seite nach S. %s"
+  lit_notes: Anmerkungen
+  lit_original: Original
+  lit_english: Englischen
+  lit_col_english: Englisch, übersetzt von Claude
+  lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

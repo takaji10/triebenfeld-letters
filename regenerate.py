@@ -54,6 +54,8 @@ MERGED = [
     # apart from them, cut into pages in both languages for questions.
     ('pipeline/literature/build_literature.py --quiet', 'literature',
      'corpus/literature/ - each work page by page, original and English'),
+    ('pipeline/literature/literature_site.py', 'literature pages',
+     'site/_literature*/ - the visible works, original and English side by side'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # Each holding's description cites the documents it rests on; this holds

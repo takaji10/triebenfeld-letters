@@ -1,7 +1,8 @@
 # Plan: the literature
 
 Status: **agreed with the editor 2026-10-19; texts brought in and cut into
-passages (`corpus/literature/`), the site pages not yet built.** When the work is done, the standing parts move into
+passages (`corpus/literature/`); the site pages built (2026-10-19), not
+yet published.** When the work is done, the standing parts move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
 record of how it was decided.
 
@@ -154,10 +155,34 @@ matters for context. So:
 1. Bring all six works in; build the passages; report the alignment. *(done
    2026-10-19; what was found is in each work's `notes.md`)*
 2. The site pages, tried first with the Materialien; then the other visible
-   works.
+   works. *(done 2026-10-19, not published: section 7)*
 3. The index of people and places over the passages, read hit by hit.
 4. The hand-made links, beginning with the black register.
 5. Guradze's page numbers, when the editor has corrected the text.
 6. Perhaps: the black register as a table (recipient, estates, district,
    value at the gift, later valuation, sale price), which bears directly on
    the question of inflated values.
+
+## 7. How the site pages are made (2026-10-19)
+
+- `pipeline/literature/literature_site.py` (a step of regenerate.py, after
+  build_literature.py) reads `corpus/literature/` and writes
+  `site/_data/literature.yml` (the list page) and one page per visible work
+  in each language: `site/_literature/<slug>.md` (/literature/<slug>/) and
+  `site/_literature_de/<slug>.md` (/de/literatur/<slug>/). All three are
+  generated; never edit them by hand. A work with `visible: false` gets
+  nothing under `site/`.
+- The page: the work's facts and account (`work.yml`), a warning that the
+  English is Claude's and the original decides, a list of pages to jump
+  to, then every passage as a section with an anchor `#p-<key>` (for
+  example `/literature/materialien1861/#p-162`), original on the left and
+  English on the right (one above the other on a phone). A passage that
+  has no English (Paciorkowski p. 27) says so.
+- Only the rendering is changed, never the words: footnote markers become
+  links to their notes, headings sit two levels down, a "|" outside a table
+  and a name printed as asterisks ("v. ****d") are escaped, and a line
+  break inside a paragraph is kept. The script's docstring says why.
+- `verify_site.py` checks that each visible work has its two pages and that
+  neither the slug nor the title of a hidden work appears anywhere in the
+  built site. The timeline's citations "Seidel 2018, ch. ..." are allowed:
+  they cite the book and give none of its text.

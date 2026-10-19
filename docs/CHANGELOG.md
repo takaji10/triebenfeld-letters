@@ -2023,6 +2023,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Found on the way: Triebenfeld's entry in the black register (Materialien pp. 162-164) is about other estates than Trąbczyn (Piotrow, Lasky and others). Guradze has no page numbers yet (the editor will correct the text); the English of Paciorkowski lacks the mark of p. 27.
 - Nothing on the site yet. Not published.
 
+## The literature on the site (2026-10-19, not published)
+
+- "Literature" in the menu (German "Literatur"), after Sources: a list of the five visible works (/literature/, /de/literatur/), and a page for each with the original and the English side by side, passage by passage, each headed by its printed page and with its own anchor so that a page can be cited and linked (for example /literature/materialien1861/#p-162). Footnote markers link to their notes. Made by `pipeline/literature/literature_site.py`, a new step of `regenerate.py`; the plan's section 7 says how.
+- Seidel (2018) has no page; `verify_site.py` now fails if its slug or title shows up anywhere in the built site, or if a visible work lacks a page.
+- Built and verified on the desktop; not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

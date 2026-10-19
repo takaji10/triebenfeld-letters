@@ -110,13 +110,15 @@ so check them.
 
 ## Where things stand (2026-10-16)
 
-- **The literature** (begun 2026-10-19, not on the site yet): six books
-  about the sources, original and English (Claude's), in `literature/`,
-  cut page by page into `corpus/literature/` by
-  `pipeline/literature/build_literature.py` (a step of regenerate.py).
+- **The literature** (begun 2026-10-19; site pages built, not published):
+  six books about the sources, original and English (Claude's), in
+  `literature/`, cut page by page into `corpus/literature/` by
+  `pipeline/literature/build_literature.py`, and shown at /literature/ by
+  `pipeline/literature/literature_site.py` (both steps of regenerate.py).
   Plan, layout and next steps: `docs/LITERATURE_PLAN.md`; each work's
   `notes.md` first. Seidel (2018) stays off the site (`visible: false`,
-  editor). Next: the site pages, the Materialien first.
+  editor; verify_site.py checks it). Waiting: the editor's look at the
+  pages and their word to publish. Next: the index over the passages.
 
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,

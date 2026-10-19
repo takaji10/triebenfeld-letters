@@ -1060,6 +1060,23 @@ cloud branches").
   `python -m pip install --user pyyaml` mended it.
 - **archive.org through curl** needs `--ssl-no-revoke` on this machine
   (the certificate check fails otherwise).
+- **Building the site on the desktop** (2026-10-19): Ruby is scoop's
+  (4.0), and the gems were not installed. `bundle install` failed the
+  certificate check against rubygems.org (the network re-signs TLS, as
+  with curl above). Mended without turning the check off: the Windows
+  root and CA stores exported to `scratch/windows_roots.pem`, then
+  `SSL_CERT_FILE=../scratch/windows_roots.pem bundle install` in `site/`.
+  Builds then run with `bundle exec jekyll build`; the warnings "already
+  initialized constant Gem::Platform" are harmless. A build takes one to
+  four minutes. If `scratch/` was cleared, export the stores again
+  (PowerShell, `Cert:\LocalMachine\Root` and `CA`, as Base64 PEM).
+- **The browser tools can hang on the desktop** (2026-10-19: opening and
+  screenshotting a local page were cut off twice). Serve `site/_site` with
+  `python -m http.server` for the editor to look at, and check the built
+  HTML from the shell (counts of sections, leftover markup) rather than
+  waiting on a screenshot.
+- The heredoc trap with backslashes (above) was hit again on 2026-10-19,
+  in a patch to `literature_site.py`. There is no small exception.
 
 ## The literature (2026-10-19)
 
@@ -1086,6 +1103,15 @@ cloud branches").
 - The English of these books is Claude's and uneven in places (Guradze's
   is weaker than the German): an answer that rests on a passage is read in
   the original.
+- **The site renders the books with kramdown, not GitHub Markdown**, and
+  that matters for text it was not written for: any line with a "|" in it
+  is taken for a table row ("**16|38.**" in the Materialien became a
+  table), single line breaks vanish (the German lists ran together), a
+  name printed as asterisks ("v. ****d") becomes emphasis, a four-space
+  indent becomes code, and Jekyll cuts an "excerpt" inside a `{% raw %}`
+  block and warns. `literature_site.py` deals with each (its docstring);
+  a new work with a new kind of markup is checked in the built page:
+  `<pre>`, `<table>` against the source's table lines, leftover `[^`.
 
 ## The English, the summaries and the claim check
 

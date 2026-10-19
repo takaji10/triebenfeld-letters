@@ -564,9 +564,12 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       checked to give back the whole file (`corpus/literature/`, made by
       `pipeline/literature/build_literature.py`); Seidel kept off the site
       (editor).
-- [ ] The site: a "Literature" menu entry, a list page and a page per work
+- [x] The site: a "Literature" menu entry, a list page and a page per work
       with original and English side by side, cited by printed page; the
-      Materialien first, then the other visible works.
+      Materialien first, then the other visible works (built 2026-10-19;
+      LITERATURE_PLAN.md, section 7).
+- [ ] **You:** look at the pages (the list at /literature/, then the
+      Materialien) and say whether they go live.
 - [ ] An index of the people, places and documents each page names, every
       hit read; then the links from a work's page to the documents
       (`literature/links.yml`), the black register first.
