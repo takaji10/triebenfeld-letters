@@ -120,7 +120,8 @@ so check them.
   editor; verify_site.py checks it). The index of people and estates over
   the passages is built (plan, section 8): every hit read and ruled in
   `literature/index.yml`, an "In the literature" list on /people/ and
-  /places/; five identifications wait in NEEDS_CONFIRMATION. Waiting: the
+  /places/; of Claude's five identifications the editor accepted four,
+  Stenger is open (NEEDS_CONFIRMATION). Waiting: the
   editor's look at the pages and lists and their word to publish. Next:
   the hand-made links (`literature/links.yml`), the black register first.
 

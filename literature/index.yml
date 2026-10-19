@@ -23,7 +23,8 @@
 # Places that are not estates of the edition never show on the site (the list
 # is shown for the estates of focus); their rulings keep mentions.json right for
 # questions. Where a book's name is Claude's identification and not the book's
-# own statement, docs/NEEDS_CONFIRMATION.md says so.
+# own statement, the comment at its ruling says so, and whether the editor has
+# accepted it (docs/NEEDS_CONFIRMATION.md lists the open ones).
 
 patterns:
   person:
@@ -85,8 +86,8 @@ people:
     # The government councillor (Regierungsrath) von Grevenitz at Posen in the
     # 1790s, Triebenfeld's fellow go-between in the Gurowski affair, stands: he
     # is taken to be the edition's Kammergerichtsrat von Grevenitz of Berlin,
-    # Triebenfeld's friend after 1807 (Claude's identification:
-    # docs/NEEDS_CONFIRMATION.md). The regiment and battalion of the name do not.
+    # Triebenfeld's friend after 1807 (Claude's identification, accepted by
+    # the editor, 2026-10-19). The regiment and battalion of the name do not.
     Grevenitz:
       default: "no: the regiment Grevenitz, not the man"
       except:
@@ -153,7 +154,7 @@ people:
   neumann:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
   noldichen:
-    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
   poniatowski:
     Poniatowski: "no: Stanisław Poniatowski among landlords who freed their peasants (Guradze), not Prince Józef"
@@ -190,11 +191,11 @@ people:
     Sommer: "no: the season, summer"
   stein: {v. Stein: yes}
   stenger:
-    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    # Claude's identification, open: docs/NEEDS_CONFIRMATION.md
     Stenger: yes
     Stengers: yes
   stoessel:
-    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    # Claude's identification, accepted by the editor (2026-10-19)
     Stössel: yes
   struensee:
     Struensee:
@@ -211,7 +212,7 @@ people:
       except:
         materialien1861/226: "Christian Daniel Voss, editor of Die Zeiten, not the minister"
   wartensleben:
-    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    # Claude's identification, accepted by the editor (2026-10-19)
     Wartensleben: yes
   wedel:
     Wedel: "no: the battalion Wedel in 1806"

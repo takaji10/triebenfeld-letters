@@ -402,28 +402,24 @@ Places (`reference/places.yml`, `open_questions`):
     Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
     Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
 
-- **In the literature (Claude, 2026-10-19).** The books name these men without
-  saying they are the edition's; Claude took them to be, so that their passages
-  are listed under them on /people/ (rulings in `literature/index.yml`). Each
-  can be taken out there:
-  - Grevenitz: the government councillor (Regierungsrath) von Grevenitz at Posen
-    in the 1790s, given Tarnowo and a go-between in the Gurowski affair
-    (Materialien pp. 127-153, Feuerbrände part 2, pp. 71 and 74, part 3, p. 132),
-    taken to be the edition's Kammergerichtsrat von Grevenitz, Triebenfeld's
-    friend after 1807.
-  - Stenger: Guradze cites an essay of 1798 on the Hauländer by the Justizkommissarius
-    Stenger "in Unruhstadt", taken to be the edition's Criminal Rath Stenger of
-    Karge, Triebenfeld's agent in 1809-10 (Karge is the German name of Unruhstadt).
-  - Stössel: the Materialien (p. 158) say a Baron von Stössel lent Hoym his name to
-    buy a gifted estate; taken to be of the edition's Stössel family, Silesian
-    creditors on Koszęcin.
-  - Nöldichen: Held (pp. 91 and 94) prints "Nöldichen" among the names signed under
-    "General-Direction der Seehandlungs-Societät"; taken to be the edition's councillor of war Nöldichen, who
-    valued Krotoszyn in 1798, the estate Held's book is about.
-  - Wartensleben: General Count Wartensleben at Liegnitz, no. 17 of the black register
-    (Feuerbrände part 2, p. 84; Materialien pp. 165, 212); the edition's entry is the
-    Silesian Counts Wartensleben, father and son, without saying which is the
-    general.
+- **In the literature: Stenger (Claude, 2026-10-19).** The books name some
+  men without saying they are the edition's; Claude took them to be, so that
+  their passages are listed under them on /people/ (rulings in
+  `literature/index.yml`). The editor accepted four of five on Claude's
+  reading (2026-10-19: Grevenitz, Stössel, Nöldichen, Wartensleben; the
+  changelog says what each rests on). Open, because the editor cannot say:
+  - Stenger: Guradze (chapters IV and V, with a note in VI) cites an essay of
+    1798 on the Hauländer of South Prussia by the Justizkommissarius Stenger
+    "in Unruhstadt". The edition's Stenger is the Criminal Rath Stenger "hier
+    aus Karge" of letter 23 of Oe 1 Bü 9454 (1809), Triebenfeld's agent for
+    Zagórów, Trąbczyn, Pszczew and Witów. Karge and Unruhstadt are two German
+    names of one town, Kargowa (`reference/places.yml` gives both as
+    Kargowa). So: the same surname, a lawyer both times, in the same small
+    town, eleven years apart, which fits a commissioner of justice later made
+    a criminal councillor. Nothing in either source names him further. If
+    the editor would rather not have it, the ruling for "Stenger" and
+    "Stengers" in `literature/index.yml` becomes "no" and his list leaves
+    /people/.
 
 ## Translations
 

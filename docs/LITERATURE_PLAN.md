@@ -215,8 +215,13 @@ matters for context. So:
   longer found, so nothing unread reaches the site. `--sheet` writes every
   hit in context to `review/literature/mentions.md` for reading.
 - Where a name in a book is Claude's identification and not the book's
-  own statement (Grevenitz, Stenger, Stössel, Nöldichen, Wartensleben),
-  `docs/NEEDS_CONFIRMATION.md` lists it.
+  own statement, the comment at its ruling says so. Of the first five, the
+  editor accepted Grevenitz, Stössel, Nöldichen and Wartensleben on
+  Claude's reading (2026-10-19); Stenger is open, with the evidence, in
+  `docs/NEEDS_CONFIRMATION.md`. The editor cannot check such a thing in
+  the German: write out what the identification rests on (the book's words,
+  the edition's document, the place) so they can judge it without reading
+  either.
 - **On the site**: a person's entry on /people/ and an estate's on /places/
   has a closed list, "In the literature: N passages", under its documents:
   each work's citation, then a link to every page that names them

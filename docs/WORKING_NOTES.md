@@ -1123,6 +1123,14 @@ cloud branches").
   ruling's exceptions name the passage. Read the person's description in
   the book before saying who he is: a first draft called the Regierungsrath
   Grevenitz "the general".
+- **An identification put to the editor carries its evidence** (2026-10-19).
+  They do not read German and cannot look a man up in the books, so "taken
+  to be the edition's, on the strength of the name, the time and the
+  place" gives them nothing to judge. Write what the book says, what the
+  edition's document says (with its number), and what joins them: for
+  Stenger, that Karge and Unruhstadt are one town. They accepted four of
+  five identifications that way and left Stenger open, not knowing the
+  Karge connection.
 - **The books spell places in ways the edition never met**, and the
   edition's patterns miss them: Trąbczyn had no hit at all until
   "Trombczyn" and "Trobozyn" were added under `patterns:` in
