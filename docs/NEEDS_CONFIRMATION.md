@@ -402,6 +402,29 @@ Places (`reference/places.yml`, `open_questions`):
     Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
     Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
 
+- **In the literature (Claude, 2026-10-19).** The books name these men without
+  saying they are the edition's; Claude took them to be, so that their passages
+  are listed under them on /people/ (rulings in `literature/index.yml`). Each
+  can be taken out there:
+  - Grevenitz: the government councillor (Regierungsrath) von Grevenitz at Posen
+    in the 1790s, given Tarnowo and a go-between in the Gurowski affair
+    (Materialien pp. 127-153, Feuerbrände part 2, pp. 71 and 74, part 3, p. 132),
+    taken to be the edition's Kammergerichtsrat von Grevenitz, Triebenfeld's
+    friend after 1807.
+  - Stenger: Guradze cites an essay of 1798 on the Hauländer by the Justizkommissarius
+    Stenger "in Unruhstadt", taken to be the edition's Criminal Rath Stenger of
+    Karge, Triebenfeld's agent in 1809-10 (Karge is the German name of Unruhstadt).
+  - Stössel: the Materialien (p. 158) say a Baron von Stössel lent Hoym his name to
+    buy a gifted estate; taken to be of the edition's Stössel family, Silesian
+    creditors on Koszęcin.
+  - Nöldichen: Held (pp. 91 and 94) prints "Nöldichen" among the names signed under
+    "General-Direction der Seehandlungs-Societät"; taken to be the edition's councillor of war Nöldichen, who
+    valued Krotoszyn in 1798, the estate Held's book is about.
+  - Wartensleben: General Count Wartensleben at Liegnitz, no. 17 of the black register
+    (Feuerbrände part 2, p. 84; Materialien pp. 165, 212); the edition's entry is the
+    Silesian Counts Wartensleben, father and son, without saying which is the
+    general.
+
 ## Translations
 
 Since 2026-10-06 the site no longer shows a translation's status or says

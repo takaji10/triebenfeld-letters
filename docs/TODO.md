@@ -570,8 +570,14 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       LITERATURE_PLAN.md, section 7).
 - [ ] **You:** look at the pages (the list at /literature/, then the
       Materialien) and say whether they go live.
-- [ ] An index of the people, places and documents each page names, every
-      hit read; then the links from a work's page to the documents
+- [x] An index of the people and estates each page names, every hit read
+      and ruled in `literature/index.yml`; a list "In the literature" under
+      each of 35 people and 11 estates (built 2026-10-19;
+      LITERATURE_PLAN.md, section 8).
+- [ ] **You:** look at those lists (for example Triebenfeld and Hoym on
+      /people/, Trąbczyn and Krotoszyn on /places/), and at the five
+      identifications in NEEDS_CONFIRMATION ("Identifications").
+- [ ] The links from a work's page to the documents
       (`literature/links.yml`), the black register first.
 - [ ] **You: Guradze's text corrected**, and its page numbers added
       (archive.org's page-by-page OCR can find where each page begins).

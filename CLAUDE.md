@@ -117,8 +117,12 @@ so check them.
   `pipeline/literature/literature_site.py` (both steps of regenerate.py).
   Plan, layout and next steps: `docs/LITERATURE_PLAN.md`; each work's
   `notes.md` first. Seidel (2018) stays off the site (`visible: false`,
-  editor; verify_site.py checks it). Waiting: the editor's look at the
-  pages and their word to publish. Next: the index over the passages.
+  editor; verify_site.py checks it). The index of people and estates over
+  the passages is built (plan, section 8): every hit read and ruled in
+  `literature/index.yml`, an "In the literature" list on /people/ and
+  /places/; five identifications wait in NEEDS_CONFIRMATION. Waiting: the
+  editor's look at the pages and lists and their word to publish. Next:
+  the hand-made links (`literature/links.yml`), the black register first.
 
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,

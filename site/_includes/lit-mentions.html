@@ -1,0 +1,28 @@
+{%- comment -%}
+  The passages of the literature that name one person or estate
+  (docs/LITERATURE_PLAN.md, section 6, step 3).
+  include.works  site.data.literature_mentions.person[slug] or .place[slug]:
+                 [{work, cite, pages: [{key, en, de}]}], made by
+                 pipeline/literature/literature_index.py from the rulings in
+                 literature/index.yml; every hit was read before it was ruled.
+
+  Closed by default, like the list of documents above it: the books are
+  context, not sources, and stay apart from them. Not of class "doclist":
+  assets/doc-list.js takes every details.doclist for a list of documents.
+  Needs urls.html.
+{%- endcomment -%}
+{%- if include.works -%}
+{%- assign lit_n = 0 -%}
+{%- for w in include.works %}{% assign lit_n = lit_n | plus: w.pages.size %}{% endfor -%}
+<details class="litlist">
+  <summary>{% if lit_n == 1 %}{{ t.lit_mentions_one }}{% else %}{{ t.lit_mentions | replace: '%d', lit_n }}{% endif %}</summary>
+  <div class="litlist-body">
+  {%- for w in include.works %}
+  <p class="litlist-work"><a href="{{ u_lit | append: w.work | append: '/' | relative_url }}">{{ w.cite }}</a></p>
+  <p class="refs reflist">
+    {% for pg in w.pages %}<a href="{{ u_lit | append: w.work | append: '/' | relative_url }}#p-{{ pg.key }}">{% if lang == 'de' %}{{ pg.de }}{% else %}{{ pg.en }}{% endif %}</a>{% endfor %}
+  </p>
+  {%- endfor %}
+  </div>
+</details>
+{%- endif -%}

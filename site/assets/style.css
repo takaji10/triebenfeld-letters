@@ -510,19 +510,23 @@ img.scan {
 /* A person's or place's documents (_includes/doc-list.html): the Browse card,
    opened on demand, with the summary cut to two lines. */
 .person .counts { margin: .1rem 0 0; }
-.doclist { margin-top: .5rem; }
-.doclist > summary {
+.doclist, .litlist { margin-top: .5rem; }
+.doclist > summary, .litlist > summary {
   cursor: pointer; font-family: var(--sans); font-size: .85rem; color: var(--accent);
   padding: .2rem 0; width: fit-content;
 }
-.doclist > summary:hover { text-decoration: underline; }
-.doclist[open] > summary { margin-bottom: .2rem; }
+.doclist > summary:hover, .litlist > summary:hover { text-decoration: underline; }
+.doclist[open] > summary, .litlist[open] > summary { margin-bottom: .2rem; }
 /* Indented under the entry, with a rule down the side, so the cards read as
    that person's or place's and not as the next entry (editor, 2026-10-04). */
-.doclist-body {
+.doclist-body, .litlist-body {
   margin-left: .35rem; padding-left: 1.1rem;
   border-left: 2px solid var(--rule);
 }
+/* The passages of the literature that name the entry (_includes/lit-mentions.html):
+   each work's short citation, then its pages. */
+.litlist-work { font-family: var(--sans); font-size: .85rem; margin: .5rem 0 .1rem; }
+.litlist .reflist { margin-top: 0; }
 .doclist .doclist-order { border-bottom: 0; margin: .4rem 0 0; padding-bottom: 0; }
 .doclist .results { max-width: var(--measure); }
 .doclist .result { padding: .8rem 0; }

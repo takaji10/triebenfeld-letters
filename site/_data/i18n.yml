@@ -339,6 +339,8 @@ en:
   lit_english: English
   lit_col_english: English, translated by Claude
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
+  lit_mentions: "In the literature: %d passages"
+  lit_mentions_one: "In the literature: one passage"
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -680,6 +682,8 @@ de:
   lit_english: Englischen
   lit_col_english: Englisch, übersetzt von Claude
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
+  lit_mentions: "In der Literatur: %d Stellen"
+  lit_mentions_one: "In der Literatur: eine Stelle"
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

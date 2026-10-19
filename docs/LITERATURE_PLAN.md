@@ -159,6 +159,7 @@ matters for context. So:
 2. The site pages, tried first with the Materialien; then the other visible
    works. *(done 2026-10-19, not published: section 7)*
 3. The index of people and places over the passages, read hit by hit.
+   *(done 2026-10-19, not published: section 8)*
 4. The hand-made links, beginning with the black register.
 5. Guradze's page numbers, when the editor has corrected the text.
 6. Perhaps: the black register as a table (recipient, estates, district,
@@ -188,3 +189,39 @@ matters for context. So:
   neither the slug nor the title of a hidden work appears anywhere in the
   built site. The timeline's citations "Seidel 2018, ch. ..." are allowed:
   they cite the book and give none of its text.
+
+## 8. How the index is made (2026-10-19)
+
+- `pipeline/literature/literature_index.py --check` (a step of
+  regenerate.py, after literature_site.py) runs the edition's own patterns
+  for people and places (`pipeline/build/entities.py`) over the originals
+  of the visible works. The English is not searched (the original decides,
+  and every hit would count twice), and neither is Seidel.
+- **Every hit was read before it was ruled** (Claude, 2026-10-19). The
+  rulings are in `literature/index.yml`, one per name and spelling found:
+  yes, no with the reason, or a default with the passages that take the
+  other answer. The first run found 2,690 hits in 240 pairs; 2,508 stand.
+  Most of the rejected ones are words ("Sommer" the season, "Gärtner" the
+  cottager, "Kuh" the cow), other men of the same name (Danckelmann the
+  Silesian minister, Raumer the historian, the regiments Grevenitz and
+  Zastrow), or measures ("Berliner" and "Breslauer" bushels).
+- The books print some names in forms the edition's patterns miss: the
+  black register gives Trąbczyn as "Trombczyn" and "Trobozyn", Feuerbrände
+  writes "Hohenloh". These are added for the literature only, under
+  `patterns:` in the same file, and ruled like the others. Without them
+  Trąbczyn had no hit at all.
+- `--check` fails on a hit with no ruling (a new work, or Guradze's text
+  corrected) and on a ruling that names a passage where its spelling is no
+  longer found, so nothing unread reaches the site. `--sheet` writes every
+  hit in context to `review/literature/mentions.md` for reading.
+- Where a name in a book is Claude's identification and not the book's
+  own statement (Grevenitz, Stenger, Stössel, Nöldichen, Wartensleben),
+  `docs/NEEDS_CONFIRMATION.md` lists it.
+- **On the site**: a person's entry on /people/ and an estate's on /places/
+  has a closed list, "In the literature: N passages", under its documents:
+  each work's citation, then a link to every page that names them
+  (`site/_includes/lit-mentions.html`, from
+  `site/_data/literature_mentions.yml`). 35 people and 11 estates have one.
+  Places that are not estates have no list (the Places page shows the
+  estates only); their hits stay in `corpus/literature/mentions.json` for
+  questions.

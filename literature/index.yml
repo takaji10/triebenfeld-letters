@@ -1,0 +1,424 @@
+# Which hits of the edition's index in the literature stand.
+#
+# Read by pipeline/literature/literature_index.py, which finds every person
+# and place of the edition (reference/people.yml, reference/places.yml) in
+# the originals of the works shown on the site, and writes the hits that
+# stand to corpus/literature/mentions.json and site/_data/literature_mentions.yml
+# (the "In the literature" list of a person, or of an estate on the Places
+# page). Every hit was read in review/literature/mentions.md (made by
+# `literature_index.py --sheet`) before it was ruled here (Claude, 2026-10-19).
+#
+# people: / places:  entity -> spelling found -> ruling. A ruling is
+#   yes                      the hit stands wherever this spelling is found;
+#   "no: <reason>"           it stands nowhere;
+#   {default: .., except: {"<work>/<passage>": reason}}
+#                            the passages listed take the opposite of the default.
+# A new spelling, or a new work, has no ruling and is left out until it is read
+# (`literature_index.py --check` fails on it).
+#
+# patterns:  forms the books print that the edition's patterns miss, for the
+#   literature only (the edition's own matching is not changed by them). Their
+#   hits are ruled like the others below.
+#
+# Places that are not estates of the edition never show on the site (the list
+# is shown for the estates of focus); their rulings keep mentions.json right for
+# questions. Where a book's name is Claude's identification and not the book's
+# own statement, docs/NEEDS_CONFIRMATION.md says so.
+
+patterns:
+  person:
+    # Feuerbrände writes the Prince's name without the final e, and as an
+    # adjective: "Hohenloh", "die Hohenloh'sche Armee", "die Hohenlohschen
+    # Besitzungen" (3-132; Materialien p. 146 "Hohenloheschen").
+    hohenlohe: 'Hohenlohe?''?i?sche\w*|Hohenloh(?![a-zà-ÿ''])'
+  place:
+    # The black register's list of the Prince's Konin estates: Materialien
+    # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
+    trabczyn: 'Trombczyn|Trobozyn'
+    szetlewek: 'Szellewen'
+    # Feuerbrände 2-69 "Schwiegoszyn" (Materialien p. 145 "Swiegoszyn").
+    swiechocin: 'Schwiegoszyn'
+    # Materialien p. 145 "Löwin" (Feuerbrände 2-69 "Lowin"); the word is also a
+    # lioness, so its ruling below names the one passage.
+    lowyn: 'Löwin'
+    # Held and Feuerbrände: Krotoczyn, Krotosczyn, Krotoscyner, Crotozcyn.
+    krotoszyn: 'Crotozcyn\w*|Krotocz?yn\w*|Krotoscz?yn\w*'
+
+people:
+  amelang: {Amelang: yes}
+  beguelin: {Beguelin: yes}
+  bernhard:
+    Bernhard: "no: the Great St Bernard pass (Feuerbrände) and St Bernard of Clairvaux (Materialien), not the edition's Bernhard"
+  bernhardi:
+    Bernhardi: "no: Görne's Kriegsrath Bernhardi in Berlin before 1782 (Held), not the edition's Bergrath Bernhardi"
+  bertrand:
+    Bertrand: "no: the building inspector von Bertrand at Krotoszyn (Held), not Napoleon's General Bertrand"
+  beyme: {Beyme: yes}
+  bluecher: {Blücher: yes}
+  bulow:
+    Bülow: "no: Dietrich Heinrich von Bülow, the military writer (Feuerbrände 1-63), not the edition's Bülow"
+  danckelmann:
+    Danckelmann: "no: the Silesian justice minister, signing at Breslau in 1795 (Held p. 109) and as a minister (p. 134), not the vice-president at Poznań in the edition"
+  dolffs: {Dolffs: yes}
+  friedrich-wilhelm-ii:
+    Friedrich Wilhelm II.: yes
+    Friedrich Wilhelms II.: yes
+  friedrich-wilhelm-iii:
+    Friedrich Wilhelm III.: yes
+    Friedrich Wilhelm des dritten: yes
+    Friedrich Wilhelms III.:
+      default: yes
+      except:
+        guradze1898/c08: "the title of a yearbook cited in a footnote, not the king acting"
+    Friedrich Wilhelms des dritten: yes
+  gaertner:
+    Gärtner: "no: the word for a cottager (and Gärtnerei, gardening), not a man named Gärtner"
+  gneust:
+    Wohlgeb: "no: the form of address Wohlgeboren, not Gneust"
+  goerne:
+    Goerne: "no: the minister Görne, Krotoszyn's owner before 1782, not the edition's Goerne"
+    Goerneschen: "no: the minister Görne, Krotoszyn's owner before 1782, not the edition's Goerne"
+  goetzen:
+    Götzen: "no: the word for idols (Feuerbrände 1-17)"
+    Götzendorf: "no: the Polish noble family Götzendorf-Grabowski in a list of names (Materialien p. 7)"
+  grevenitz:
+    # The government councillor (Regierungsrath) von Grevenitz at Posen in the
+    # 1790s, Triebenfeld's fellow go-between in the Gurowski affair, stands: he
+    # is taken to be the edition's Kammergerichtsrat von Grevenitz of Berlin,
+    # Triebenfeld's friend after 1807 (Claude's identification:
+    # docs/NEEDS_CONFIRMATION.md). The regiment and battalion of the name do not.
+    Grevenitz:
+      default: "no: the regiment Grevenitz, not the man"
+      except:
+        feuerbraende1807/3-132: the government councillor at Posen
+        materialien1861/127: the government councillor at Posen, given Tarnowo
+        materialien1861/135: the government councillor, Triebenfeld's correspondent in 1807
+        materialien1861/148: the government councillor at Posen, given Tarnowo
+        materialien1861/150: the go-between with Triebenfeld in the Gurowski affair
+        materialien1861/153: the government councillor, in the Gurowski divorce
+        materialien1861/notes: the government councillor, alive in 1845
+    Grävenitz:
+      default: "no: the regiment or battalion Grävenitz, not the man"
+      except:
+        feuerbraende1807/2-71: the government councillor at Posen, given Tarnowo
+        feuerbraende1807/2-74: the government councillor, in the Gurowski divorce
+  grimm:
+    Grimm: "no: Grimms Wörterbuch (Guradze) and the word Grimm, wrath (Feuerbrände 3-51)"
+  hardenberg: {Hardenberg: yes}
+  haugwitz:
+    Haugwitz:
+      default: yes
+      except:
+        guradze1898/c06: "the intendant von Haugwitz of an earlier time, not the minister"
+  hawich:
+    Habich: "no: the word Habicht, a hawk (Feuerbrände 2-102)"
+  held:
+    v. Held: yes
+    von Held: yes
+  hertzog:
+    Hertzog: "no: Held's steward (Amtmann) Hertzog at Krotoszyn in 1792; not shown to be the Hertzog of the edition's document of 1799"
+  hohenlohe:
+    Hohenlohe: yes
+    Hohenloh: yes
+    Hohenloh'sche: yes
+    Hohenlohschen: yes
+    Hohenlohische: yes
+    Hohenloheschen: yes
+  holtzendorff:
+    Holtzendorff: yes
+    Holzendorff: yes
+  hoym:
+    Hoym:
+      default: yes
+      except:
+        held1801/28: "the minister's cousin, Geheimerath von Hoym at Breslau"
+        held1801/143: "the minister's cousin, Geheimerath von Hoym at Breslau"
+        held1801/164: "the minister's cousin, Geheimerath von Hoym at Breslau"
+        held1801/216: "the minister's cousin, Geheimerath von Hoym at Breslau"
+  hussarzewski:
+    Husarzewski: "no: a Hofgerichts-Rath from Bromberg in the 1790s (Held); not shown to be the government councillor at Kalisz of 1805"
+  knoblauch:
+    Knoblauch: "no: Geheimer Finanzrath von Knoblauch in Berlin, once president at Białystok (Materialien p. 124); not shown to be the Knoblauch of 1803 in the edition"
+  koeckritz: {Köck: yes}
+  kuh:
+    Kuh: "no: the word for a cow (Materialien p. 195)"
+  kwilecki:
+    Kwileck: "no: Count Kwilecki of Dobrojewo in the 1790s; not shown to be the justice of the peace at Konin of 1810"
+  larisch: {Larisch: yes}
+  luka:
+    Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
+  massow:
+    Massow: "no: the forest master von Massow (Guradze) and a signatory of 1800 (Held); not the edition's Massow"
+  napoleon: {Napoleon: yes}
+  neumann:
+    Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
+  noldichen:
+    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    Nöldichen: yes
+  poniatowski:
+    Poniatowski: "no: Stanisław Poniatowski among landlords who freed their peasants (Guradze), not Prince Józef"
+  pontanus: {Pontanus: yes}
+  prinz-george: {George: yes}
+  prittwitz:
+    Prittwitz: "no: Frederick the Great's general and a lieutenant-colonel of the trains in 1806; not the official of the exchange of 1799"
+  radziwill:
+    Radziwill: "no: a Prince Radziwiłł in the black register; not shown to be Antoni"
+  raumer:
+    Raumer: "no: the historian Friedrich von Raumer, author of Polens Untergang, not Karl Georg von Raumer"
+  ruechel: {Rüchel: yes}
+  sacken:
+    Sacken: "no: the grenadier battalion Sacken in 1806"
+  scharnhorst: {Scharnhorst: yes}
+  schenck:
+    Schenk: "no: the word Schenk-Haus, an inn (Held p. 158)"
+  schroetter:
+    Schroetter: yes
+    Schrötter: yes
+  schulenburg:
+    Schulenburg:
+      default: yes
+      except:
+        feuerbraende1807/3-8: "another Schulenburg, not the minister"
+        held1801/25: "another Schulenburg, not the minister"
+        materialien1861/45: "another Schulenburg, not the minister"
+  schulze:
+    Schulze: "no: the word for a village headman (Feuerbrände 2-6)"
+    Schulzischen: "no: the classification commission named after a Schulz; not shown to be Geheimer Finanzrat Schulze"
+  simon:
+    Simon: "no: Heinrich Simon, the author on the Jews of Prussia, in the notes; not the merchant Simon"
+  sommer:
+    Sommer: "no: the season, summer"
+  stein: {v. Stein: yes}
+  stenger:
+    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    Stenger: yes
+    Stengers: yes
+  stoessel:
+    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    Stössel: yes
+  struensee:
+    Struensee:
+      default: yes
+      except:
+        materialien1861/122: "Johann Friedrich Struensee of Denmark, not the Prussian minister"
+  thaer:
+    Thaer: yes   # "wäre auch sogar Thaer Ihr Verwalter gewesen": the agronomist, as a byword
+  triebenfeld:
+    Triebenfeld: yes
+  voss:
+    Voss:
+      default: yes
+      except:
+        materialien1861/226: "Christian Daniel Voss, editor of Die Zeiten, not the minister"
+  wartensleben:
+    # Claude's identification (docs/NEEDS_CONFIRMATION.md)
+    Wartensleben: yes
+  wedel:
+    Wedel: "no: the battalion Wedel in 1806"
+  weigel:
+    Weigel: "no: the brandy clerk Weigelt (Held p. 191), not the banker Weigel"
+  werner:
+    Werner: "no: the city president Werner at Breslau, not the cabinet councillor of 1804"
+  wybicki: {Wybicky: yes}
+  zastrow:
+    Zastrow:
+      default: yes
+      except:
+        feuerbraende1807/1-101: "the regiment Zastrow, not the general"
+        feuerbraende1807/1-115: "the battalion Zastrow, not the general"
+  zerboni: {Zerboni: yes}
+
+places:
+  # The estates of the edition (shown on the Places page).
+  betsche: {Betsche: yes}
+  dormowo: {Dormowo: yes}
+  glazewo: {Gloszewo: yes}
+  kolno:
+    Culm: "no: Chełmno and Kulm law, not Kolno"
+    Kulmischen: "no: Kulm law, not Kolno"
+  krotoszyn:
+    Krotoschin: yes
+    Krotoschiner: yes
+    Krotoschyn: yes
+    Krotoszin: yes
+    Krotoszyn: yes
+    Krotoszyner: yes
+    Krotoczyn: yes
+    Krotoczyner: yes
+    Krotoscyner: yes
+    Krotosczyn: yes
+    Krotosczyner: yes
+    Crotozcyn: yes
+  lowyn:
+    Lowin: yes
+    Löwin:
+      default: "no: the word for a lioness"
+      except:
+        materialien1861/145: the Prince's estates in the black register
+  polajewo: {Polajewo: yes}
+  stoki:
+    Stocki: yes
+    Stoki: yes
+  swiechocin:
+    Swiegoszyn: yes
+    Schwiegoszyn: yes
+  szetlewek:
+    Szetlewek: yes
+    Szellewen: yes
+  tarmowo:
+    Tarnowo: "no: the Tarnowo two miles from Posen given to Lüttichau and Grävenitz; not shown to be the Tarnowo of the Prince's grant of 1797"
+  trabczyn:
+    Trombczyn: yes
+    Trobozyn: yes
+  wieniec:
+    Wieniec: yes
+    Winiec: yes
+  wolica:
+    Wolicki: "no: the family name Wolicki"
+
+  # Other places (not shown on the site).
+  ansbach: {Ansbach: yes}
+  bayern: {Baiern: yes, Bayern: yes}
+  bayreuth: {Bayreuth: yes}
+  berlin:
+    Berl: "no: the Berlin bushel, a measure"
+    Berlin: yes
+    Berliner:
+      default: yes
+      except:
+        feuerbraende1807/3-24: "the Berlin bushel, a measure"
+        guradze1898/c07: "the Berlin bushel, a measure"
+    Berlinerblau: "no: Prussian blue, a pigment"
+    Berlinern: yes
+    Berlinsche: yes
+    Berlinschen: yes
+  boehmen: {Böhmen: yes}
+  breslau:
+    Breslau: yes
+    Breslauer:
+      default: yes
+      except:
+        feuerbraende1807/1-32: "the Breslau bushel, a measure"
+        feuerbraende1807/1-115: "the Breslau gate of Glogau"
+        feuerbraende1807/1-121: "the Breslau gate of Glogau"
+    Breslaus: yes
+    Breslauschen: yes
+    Bresslau: yes
+    Bresslauer: yes
+    Bresslauische: yes
+    Bresslauischen: yes
+    Bresslausche: yes
+    Bresslauschen: yes
+    Breßlau: yes
+    Breßlauer: yes
+  brieg:
+    Brieg: yes
+    Brzeg: "no: the Polish word brzegi, banks (Paciorkowski)"
+  bruenn:
+    Brünn: "no: the author von Brünneck, cited by Guradze"
+  brzesc: {Brzesc: yes}
+  charlottenburg: {Charlottenburg: yes}
+  cosel: {Cosel: yes}
+  crossen: {Crossen: yes}
+  czestochowa: {Czenstochau: yes}
+  dolsk: {Dolzig: yes}
+  dresden: {Dresden: yes}
+  erfurt: {Erfurt: yes, Erfurth: yes}
+  frankfurt-an-der-oder:
+    Frankfurt:
+      default: yes
+      except:
+        feuerbraende1807/1-72: "the imperial city of Frankfurt am Main"
+        materialien1861/3: "Frankfurt am Main, the parliament of 1848"
+        materialien1861/4: "Frankfurt am Main, the Reunion chamber"
+        materialien1861/8: "Frankfurt am Main, the parliament of 1848"
+        materialien1861/10: "Frankfurt am Main, the persecution of 1340"
+        materialien1861/notes: "Frankfurt am Main, the parliament of 1848"
+    Frankfurth:
+      default: yes
+      except:
+        feuerbraende1807/3-10: "Frankfurt am Main"
+  frankreich: {Frankreich: yes, Frankreichs: yes}
+  glatz: {Glatz: yes}
+  glogau:
+    Glogau: yes
+    Glogauer: yes
+    Glogauische: yes
+    Glogauischen: yes
+    Glogaus: yes
+    Glogauschen: yes
+  havelberg: {Havelberg: yes}
+  holland: {Holland: yes}
+  ingelfingen: {Ingelfingen: yes}
+  italien: {Italien: yes}
+  jena: {Jena: yes}
+  kalisz:
+    Kalisch: yes
+    Kalischen: yes
+    Kalischer: yes
+    Kalischkowice: "no: the church estate Kaliszkowice, given to Rüchel"
+    Kalisz: yes
+    Kaliszkowice: "no: the church estate Kaliszkowice, given to Rüchel"
+  karge: {Karge: yes}
+  kiew: {Kijow: yes}
+  koenigsberg: {Königsberg: yes, Königsberger: yes, Königsbergischen: yes}
+  konin: {Konin: yes}
+  liegnitz: {Liegnitz: yes}
+  magdeburg: {Magdeburg: yes}
+  mecklenburg: {Mecklenburg: yes}
+  memel: {Memel: yes}
+  miedzyrzecz: {Meseritz: yes, Międzyrzecz: yes}
+  naumburg: {Naumburg: yes}
+  neuchatel: {Neufchatel: yes}
+  neusalz: {Neusalz: yes}
+  neustadt:
+    Neustadt: "no: Neustadt an der Dosse in Brandenburg (the mirror works); not shown to be the edition's Neustadt"
+  oppeln: {Oppeln: yes}
+  paris: {Paris: yes}
+  pommern: {Pommern: yes}
+  posen: {Posen: yes}
+  potsdam: {Potsdam: yes, Potsdammer: yes, Potsdamscher: yes}
+  prag: {Prag: yes}
+  pressburg: {Preßburg: yes}
+  pyzdry: {Peisern: yes, Peysern: yes}
+  russland:
+    Russland: yes
+    Russland[28]: yes
+    Russlands: yes
+    Rußland: yes
+    Rußlands: yes
+    Rußlandsoperationslinie: yes
+  sachsen: {Sachsen: yes}
+  sagan: {Sagan: yes}
+  schlesien: {Schlesien: yes}
+  st-petersburg: {Petersbourg: yes, Petersburg: yes, Petersburger: yes}
+  stettin: {Stettin: yes}
+  suedpreussen: {Süd-Preussen: yes, Süd-Preußen: yes, Südpreussen: yes, Südpreußen: yes}
+  teutschland: {Deutschland: yes, Deutschlande: yes, Deutschlands: yes}
+  torun: {Thorn: yes}
+  ulm:
+    Ulm:
+      default: yes
+      except:
+        materialien1861/182: "Neu-Ulm, a colonists' village"
+  ungarn: {Ungarn: yes}
+  unruhstadt: {Unruhstadt: yes}
+  venedig: {Venedig: yes}
+  warschau:
+    Varsovie: yes
+    Warschau: yes
+    Warschau[122]: yes
+    Warschauer: yes
+    Warschauische: yes
+    Warschauischen: yes
+  wartenberg: {Wartenberg: yes}
+  weimar: {Weimar: yes}
+  wielun:
+    Vielun: yes
+    Wielun: "no: a field near a place Wielun in a Latin charter quoted by Guradze; not shown to be the town"
+  wien: {Wien: yes}
+  wuerttemberg:
+    Würtemberg: yes
+    Würtemberger: yes
+    Würtembergern: yes
+    Würtembergischen: yes

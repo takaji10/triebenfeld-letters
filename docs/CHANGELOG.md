@@ -2030,6 +2030,14 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Built and verified on the desktop; not published.
 - The book's title is the heading on the list and on each work's page, the citation ("Materialien (1861)") under it (the editor).
 
+## The literature: who and which estates the books name (2026-10-19, not published)
+
+- The edition's index of people and places run over the originals of the five visible works (`pipeline/literature/literature_index.py`, a new step of `regenerate.py`; LITERATURE_PLAN.md, section 8). Every one of the 2,690 hits was read and ruled in `literature/index.yml`: 2,508 stand. The rest are words, measures, regiments and other men of the same name, each with the reason.
+- Forms the books print and the edition's patterns miss are added for the literature only: Trąbczyn as "Trombczyn" and "Trobozyn" in the black register, Szetlewek as "Szellewen", Świechocin as "Schwiegoszyn", Łowyń as "Löwin", Krotoszyn as "Krotoczyn" and others, the Prince as "Hohenloh".
+- On /people/ and /places/, a closed list "In the literature: N passages" under the documents of 35 people and 11 estates, linking to each page of each work that names them (1,174 links in the two languages, each checked to reach its passage). Places that are not estates have no list; their hits are kept in `corpus/literature/mentions.json`.
+- Five of the people are Claude's identifications (Grevenitz, Stenger, Stössel, Nöldichen, Wartensleben): NEEDS_CONFIRMATION, "Identifications".
+- Built and verified on the desktop; not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

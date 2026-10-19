@@ -1112,6 +1112,36 @@ cloud branches").
   block and warns. `literature_site.py` deals with each (its docstring);
   a new work with a new kind of markup is checked in the built page:
   `<pre>`, `<table>` against the source's table lines, leftover `[^`.
+- **The edition's index matches wrongly in books** (the index over the
+  literature, 2026-10-19; LITERATURE_PLAN.md, section 8): of 2,690 hits,
+  182 were wrong. The patterns were made for letters about the estates, and
+  books use the same names for other things: words ("Sommer", "Kuh",
+  "Gärtner", "Götzen", "Löwin" the lioness), measures ("Berliner
+  Scheffel"), regiments ("Grevenitz", "Zastrow"), and other men of the name
+  (Danckelmann, Raumer, Hoym's cousin). So every pair of name and spelling
+  is ruled in `literature/index.yml` after reading its hits, and a
+  ruling's exceptions name the passage. Read the person's description in
+  the book before saying who he is: a first draft called the Regierungsrath
+  Grevenitz "the general".
+- **The books spell places in ways the edition never met**, and the
+  edition's patterns miss them: Trąbczyn had no hit at all until
+  "Trombczyn" and "Trobozyn" were added under `patterns:` in
+  `literature/index.yml`. Look for the estates of focus by hand in each
+  new work (the black register is the place to start).
+- **Traps in `literature_index.py`**: some of the edition's patterns are
+  `entities._Rx` wrappers with no `fullmatch` (the compiled pattern is
+  `.rx`); a YAML anchor that shares one exceptions list between two
+  spellings makes every exception stale for one of them (the script's
+  `--check` now fails on an exception naming a passage without the hit, so
+  give each spelling its own list); and `literature_site` wraps
+  `sys.stdout` when imported, so a script importing it reconfigures stdout
+  after the imports, not before.
+- **Jekyll 3 cannot take `a[b]` in an include's parameters**
+  (`{% include x.html works=site.data.m.person[p.slug] %}` stops the build
+  with "Invalid syntax for include tag"): assign it to a variable first.
+  And `assets/doc-list.js` takes every `details.doclist` on the page for a
+  list of documents, so another closed list on /people/ or /places/ needs
+  its own class (`litlist`).
 
 ## The English, the summaries and the claim check
 
