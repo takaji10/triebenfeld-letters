@@ -2028,6 +2028,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - "Literature" in the menu (German "Literatur"), after Sources: a list of the five visible works (/literature/, /de/literatur/), and a page for each with the original and the English side by side, passage by passage, each headed by its printed page and with its own anchor so that a page can be cited and linked (for example /literature/materialien1861/#p-162). Footnote markers link to their notes. Made by `pipeline/literature/literature_site.py`, a new step of `regenerate.py`; the plan's section 7 says how.
 - Seidel (2018) has no page; `verify_site.py` now fails if its slug or title shows up anywhere in the built site, or if a visible work lacks a page.
 - Built and verified on the desktop; not published.
+- The book's title is the heading on the list and on each work's page, the citation ("Materialien (1861)") under it (the editor).
 
 ## Deliverables produced
 

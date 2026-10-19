@@ -14,8 +14,8 @@ layout: default
 <div class="lit-work">
   <header class="unit-head">
     <p class="eyebrow"><a href="{{ u_lit | relative_url }}">{{ t.lit_h1 }}</a></p>
-    <h1>{{ w.cite }}</h1>
-    <p class="standfirst">{{ w.title }}</p>
+    <h1>{{ w.title }}</h1>
+    <p class="standfirst">{{ w.cite }}</p>
     {% if lang == 'en' %}<p class="lit-title-en">{{ w.title_en }}</p>{% endif %}
     <dl class="source-facts">
       {% if w.author != "" %}<div><dt>{{ t.lit_author }}</dt><dd>{{ w.author }}</dd></div>{% endif %}

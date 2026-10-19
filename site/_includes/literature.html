@@ -16,8 +16,9 @@
     {%- capture w_page -%}{{ u_lit }}{{ w.slug }}/{%- endcapture -%}
     {%- assign lang_key = 'lit_lang_' | append: w.language -%}
     <section class="source" id="{{ w.slug }}">
-      <h2><a href="{{ w_page | relative_url }}">{{ w.cite }}</a></h2>
-      <p class="source-title">{{ w.title }}</p>
+      <h2><a href="{{ w_page | relative_url }}">{{ w.title }}</a></h2>
+      <p class="source-title">{{ w.cite }}</p>
+      {% if lang == 'en' %}<p class="lit-title-en">{{ w.title_en }}</p>{% endif %}
       <dl class="source-facts">
         {% if w.author != "" %}<div><dt>{{ t.lit_author }}</dt><dd>{{ w.author }}</dd></div>{% endif %}
         <div><dt>{{ t.lit_published }}</dt><dd>{{ w.published }}</dd></div>

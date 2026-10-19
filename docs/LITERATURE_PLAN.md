@@ -129,7 +129,9 @@ matters for context. So:
 
 - **"Literature" in the menu** (the editor, 2026-10-19), "Literatur" in
   German, after Sources. The page lists the visible works, each with its
-  account.
+  account. **The book's title is the heading** on the list and on the
+  work's page, the citation ("Materialien (1861)") under it (the editor,
+  2026-10-19); the browser tab keeps the short citation.
 - **One page per work**: the account, who made the English, the contents,
   and the text page by page, original and English side by side, each page
   headed by its printed number so it can be cited ("Materialien, p. 162").
