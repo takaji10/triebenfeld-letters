@@ -112,7 +112,8 @@ so check them.
 ## Where things stand (2026-10-16)
 
 - **The literature** (begun 2026-10-19; **published 2026-10-19** at the
-  editor's word):
+  editor's word; a second set of six works added and published the same
+  day):
   six books about the sources, original and English (Claude's), in
   `literature/`, cut page by page into `corpus/literature/` by
   `pipeline/literature/build_literature.py`, and shown at /literature/ by
@@ -128,8 +129,17 @@ so check them.
   saying why, shown under the passage and beside the document. The
   general "Ruchts" of letter 103 is Rüchel (editor, 2026-10-19): the scan
   reads "Ruchels", and the text is corrected
-  (`units/oe1bu9454/intake/scripts/ruechel_103.py`). Nothing waits on the
-  editor but their reading of the live pages.
+  (`units/oe1bu9454/intake/scripts/ruechel_103.py`). **The second set**
+  (the editor's folder "Books_2", built and **published 2026-10-19** at
+  the editor's word):
+  Breyer 1935 (twice) and 1938, Żychliński 1885 and 1891, the PSB entry on
+  Antoni Prusimski (1982); English Claude's, no German translation of the
+  Polish works (an accepted gap, editor); indexed, and eleven more links
+  written (plan, section 10). A work's page now shows one text at a time,
+  the English first, with buttons for the original (editor). Waiting on
+  the editor: the questions in NEEDS_CONFIRMATION
+  ("The literature": Michalina's marriage 1809, her mother's death before
+  December 1796, and others).
 
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,

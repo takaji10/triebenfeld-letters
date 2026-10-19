@@ -1183,6 +1183,41 @@ cloud branches").
   page in `site/_site/` with Python instead (`PYTHONIOENCODING=utf-8`, the
   shell's own encoding cannot print "ą"), and tell the editor that is what
   was done rather than waiting on the browser.
+- **A planned link is checked against the document before it is written**
+  (the second set, 2026-10-19). Three of the links planned in the works'
+  notes from memory did not hold when the documents were read. The Łazińsk
+  tables of 1868 were to show the estate's owner, and they never name him.
+  Breyer was to have named the Drzewce forest, and it is the lease that
+  names it. The lease's paragraphs were written down as "I to XV" from
+  memory; the copy has I to XIX. The same reading found the best thing in
+  the set: the dispatch from Venice of December 1796 already mourns
+  Prusimski's wife, whom Żychliński has die in 1797. So read the document
+  for every link, and look up every paragraph number and spelling in the
+  file before writing it in a note.
+- **The edition's form of a place goes in the sentence, the document's in
+  brackets** ("the woods near Drzewce (the lease's 'Drzewiec')"). One link
+  had both spellings, and a German adjective made from one of them.
+- **Brought in from a PDF**:
+  - UpstreamVistula reissues: `pipeline/literature/upstream_pdf.py`, whose
+    docstring lists every rule. Their articles of 1935 set chapter headings
+    in plain 12-point type, not bold; a raised 2 after "km" is the square,
+    not a footnote; pages printed on their side are drawn upright before
+    they are read.
+  - Photographed pages: a text layer can be useless (Żychliński, vol. 13).
+    Render the pages with PyMuPDF (PIL is not installed here), cut them into
+    strips, read them, and write the text by hand.
+  - In a work's Markdown, spaced type is given as bold and italic as italic.
+    A numbered paragraph at a line start ("1. Hr. Aleksander") is written
+    "1\.", or kramdown renumbers it as a list. Footnotes `[^n]` restart on
+    every page, as the book has them.
+- **The mentions sheet shows the first place a spelling stands in the line,
+  not necessarily the hit**: when a hit's context looks wrong, find the hit
+  by its offset. And an edition pattern can match inside a longer Polish
+  word, because ł and other letters fall outside the `à-ÿ` range a pattern
+  uses for a word's edge; read such hits before ruling them.
+- **The Bash heredoc trap again** (2026-10-19): an append of English prose
+  to `links.yml` failed on an apostrophe and wrote nothing. Append with the
+  Edit tool, anchored on the file's last lines.
 
 ## The English, the summaries and the claim check
 

@@ -2,7 +2,8 @@
 
 Status: **agreed with the editor 2026-10-19; texts brought in and cut into
 passages (`corpus/literature/`); the site pages, the index and the first
-links built and published (2026-10-19).** When the work is done, the standing parts move into
+links built and published (2026-10-19). The second set of six works
+(section 10) built, indexed, linked and published the same day.** When the work is done, the standing parts move into
 `DATA_MODEL.md`, `NEW_UNIT.md` and `HOUSE_STYLE.md`, and this file becomes a
 record of how it was decided.
 
@@ -29,6 +30,17 @@ Claude** (the editor, 2026-10-19).
 | `materialien1861` | [anonymous], *Materialien zur Geschichte polnischer Landestheile unter preussischer Verwaltung*, part 1, Leipzig 1861 | German | `— N —` | yes |
 | `guradze1898` | Franz Guradze, *Der Bauer in Posen*, Halle 1898 | German | none yet | yes |
 | `seidel2018` | Hans-Joachim Seidel, *Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen*, Ulm 2018 | German | `[p. N]` | **no** (§4) |
+
+The second set (their folder "Books_2", 2026-10-19; section 10):
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `breyer1935gaue` | Albert Breyer, "Deutsche Gaue in Mittelpolen", 1935, chapters V and VI (Kalisz and Konin) | German | `[p. N]` | yes |
+| `breyer1935mutterland` | Albert Breyer, "Ostdeutschland als Mutterland der deutschen Siedlungen in Mittelpolen", 1935 | German | `[p. N]` | yes |
+| `breyer1938` | Albert Breyer, "Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs", 1938 | German | `[p. N]` | yes |
+| `zychlinski1885` | Teodor Żychliński, *Złota księga szlachty polskiéj*, vol. 7, pp. 187-188 (the Prusimski) | Polish | `[p. N]` | yes |
+| `zychlinski1891` | Teodor Żychliński, *Złota księga szlachty polskiéj*, vol. 13, pp. 219-225 (the Miączyński) | Polish | `[p. N]` | yes |
+| `pachonski1982` | Jan Pachoński, "Prusimski ... Antoni", *Polski Słownik Biograficzny*, vol. 27, pp. 582-584 | Polish | `\[N\]` | yes |
 
 Found when they were brought in:
 
@@ -133,8 +145,11 @@ matters for context. So:
   work's page, the citation ("Materialien (1861)") under it (the editor,
   2026-10-19); the browser tab keeps the short citation.
 - **One page per work**: the account, who made the English, the contents,
-  and the text page by page, original and English side by side, each page
-  headed by its printed number so it can be cited ("Materialien, p. 162").
+  and the text page by page, each page headed by its printed number so it
+  can be cited ("Materialien, p. 162"). **One text at a time, the English
+  first, with a button for the original** (the editor, 2026-10-19: as a
+  reader switches the views of a document; the two texts side by side
+  were "not ideal").
 - **Links into the edition**, built up in this order:
   1. the existing index of people, places and estates run over the passages;
      every hit read before it goes live (the index has matched wrongly
@@ -179,8 +194,11 @@ matters for context. So:
 - The page: the work's facts and account (`work.yml`), a warning that the
   English is Claude's and the original decides, a list of pages to jump
   to, then every passage as a section with an anchor `#p-<key>` (for
-  example `/literature/materialien1861/#p-162`), original on the left and
-  English on the right (one above the other on a phone). A passage that
+  example `/literature/materialien1861/#p-162`). Each section holds both
+  texts; the buttons above the first page ("English", and the original's
+  language) show one of them, the English first, and the choice is kept
+  between works (`site/assets/literature.js`, localStorage `tf-lit-view`).
+  Without the script both stand one under the other. A passage that
   has no English (Paciorkowski p. 27) says so.
 - Only the rendering is changed, never the words: footnote markers become
   links to their notes, headings sit two levels down, a "|" outside a table
@@ -276,3 +294,60 @@ matters for context. So:
   in the 1790s) against the same letters, and the passages on the
   Olęders and the boundary procedure (Guradze, Paciorkowski) against the
   holdings they bear on.
+
+## 10. The second set (Books_2, 2026-10-19)
+
+The editor's rulings (2026-10-19):
+- The PSB entry is dated 1982 ("1982 is fine to use").
+- **Unless the editor says otherwise, every English in their files is a
+  machine's.** So each was read against the original, and the English on
+  the site is Claude's, written from the original (the PSB file's machine
+  English was wrong in substance: `literature/pachonski1982/notes.md`).
+- Dennerlein's forewords to her reissues of Breyer are left out.
+- Of "Deutsche Gaue in Mittelpolen" only the chapters on Kalisz and Konin
+  (V and VI) are brought in.
+- Vol. 7 of the Złota księga begins with Krzysztof Prusimski on p. 187; the
+  print's "wrzysztof" is kept as printed.
+- **A work opens on the English** (section 5).
+- **No German translation is made** of a work that lacks one: the site's
+  German page of such a work has the original and the English, and that is
+  an accepted gap.
+
+How each came in is in its `notes.md`, with the command that made its
+`original.md` where one did:
+- The three Breyer articles are Dennerlein's digital reissues
+  (UpstreamVistula.org, PDF). `pipeline/literature/upstream_pdf.py` makes
+  `original.md` from the PDF's text layer (its docstring lists every
+  rule: headings, spaced type, footnotes, tables, pages printed on their
+  side). They are cited by the reissue's pages.
+- Żychliński's two extracts are photographs. Vol. 7's had no text, and vol.
+  13's text layer is unusable; both were rendered with PyMuPDF and read in
+  session, and `original.md` was written by hand.
+- The PSB entry is the Polish half of the editor's file, unchanged.
+
+The index (section 8) was run over the six and every hit ruled: 3,200 hits
+in the eleven visible works, 2,946 standing. Claude's identifications not yet
+accepted are listed in `docs/NEEDS_CONFIRMATION.md` ("The literature").
+
+**Eleven hand-made links** (section 9), every figure read in the book and
+the document (`literature/links.yml`, after the comment "The books of the
+second set"):
+- Breyer (1938) on the lease of 1806 (APP 53/968/0/-/801, documents 2 and
+  3) and on Weigel (Oe 1 Bü 9454, letters 220 and 284);
+- Breyer (1935a) on Łazińsk Holland (Konin Gr.136, the inspection of 1754);
+- Żychliński (1885) on the line from Krzysztof to the Starost (Konin Gr.145,
+  Gr.118 document 23, Gr.136, 53/6/0/-/40);
+- Żychliński (1891) on Michalina's marriage (five letters of Oe 1 Bü 9454),
+  her mother's death (Nr. 1414, document 2) and Włodzimierz (the summons of
+  1860, APP 53/968/0/-/783);
+- Pachoński (1982) on the boundary commission (Konin Gr.145), the
+  confiscation (Nr. 3570), Venice (Nr. 1414) and the restitution of 1807
+  (the two AGAD holdings).
+
+Each work's `notes.md` says which planned links were not written and why
+(for one, the Łazińsk tables of 1868 do not name the estate's owner).
+
+Found in the checking: **the dispatch from Venice of 14 December 1796
+already speaks of the death of Prusimski's wife**, against Żychliński's
+"2 September 1797". And the lease of 1806 differs from Breyer's account
+in three points: the date, the dike clause, and pasture and wood.

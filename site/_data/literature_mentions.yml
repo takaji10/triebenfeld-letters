@@ -41,6 +41,13 @@ person:
     - key: 2-66
       en: Part 2, p. 66
       de: Heft 2, S. 66
+  constantin:
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '38'
+      en: p. 38
+      de: S. 38
   dolffs:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -112,6 +119,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
   friedrich-wilhelm-iii:
   - work: held1801
     cite: Held (1801)
@@ -325,6 +338,24 @@ person:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '39'
+      en: p. 39
+      de: S. 39
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   holtzendorff:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -834,6 +865,12 @@ person:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   koeckritz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -860,6 +897,28 @@ person:
     - key: 2-70
       en: Part 2, p. 70
       de: Heft 2, S. 70
+  miaczynski:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '220'
+      en: p. 220
+      de: S. 220
+    - key: '221'
+      en: p. 221
+      de: S. 221
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   napoleon:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1068,6 +1127,12 @@ person:
     - key: c08
       en: VI. Kapitel.
       de: VI. Kapitel.
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   noldichen:
   - work: held1801
     cite: Held (1801)
@@ -1078,6 +1143,28 @@ person:
     - key: '94'
       en: p. 94
       de: S. 94
+  poniatowski:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '219'
+      en: p. 219
+      de: S. 219
+    - key: '220'
+      en: p. 220
+      de: S. 220
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   pontanus:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1104,6 +1191,39 @@ person:
     - key: '162'
       en: p. 162
       de: S. 162
+  prusimska:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '221'
+      en: p. 221
+      de: S. 221
+  prusimski:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '582'
+      en: p. 582
+      de: S. 582
+  prusimski-pawel:
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
   ruechel:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1516,6 +1636,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
   voss:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1583,6 +1709,15 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '43'
+      en: p. 43
+      de: S. 43
   wartensleben:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1609,6 +1744,12 @@ person:
     - key: 2-77
       en: Part 2, p. 77
       de: Heft 2, S. 77
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '583'
+      en: p. 583
+      de: S. 583
   zastrow:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1683,6 +1824,16 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  drzewce:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '47'
+      en: p. 47
+      de: S. 47
   glazewo:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1696,6 +1847,66 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  kamionno:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '187'
+      en: p. 187
+      de: S. 187
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '219'
+      en: p. 219
+      de: S. 219
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '582'
+      en: p. 582
+      de: S. 582
+    - key: '584'
+      en: p. 584
+      de: S. 584
+  kolno:
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '187'
+      en: p. 187
+      de: S. 187
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '219'
+      en: p. 219
+      de: S. 219
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '582'
+      en: p. 582
+      de: S. 582
+  kopojno:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '47'
+      en: p. 47
+      de: S. 47
   krotoszyn:
   - work: held1801
     cite: Held (1801)
@@ -1979,6 +2190,33 @@ place:
     - key: c06
       en: IV. Kapitel.
       de: IV. Kapitel.
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '44'
+      en: p. 44
+      de: S. 44
+  - work: breyer1935mutterland
+    cite: Breyer (1935b)
+    pages:
+    - key: '7'
+      en: p. 7
+      de: S. 7
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '11'
+      en: p. 11
+      de: S. 11
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '30'
+      en: p. 30
+      de: S. 30
+    - key: '31'
+      en: p. 31
+      de: S. 31
   lowyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1992,6 +2230,22 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  olesnica:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '47'
+      en: p. 47
+      de: S. 47
   polajewo:
   - work: held1801
     cite: Held (1801)
@@ -2011,6 +2265,13 @@ place:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  skokum:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
   stoki:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2024,6 +2285,25 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
+  swiatniki:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '21'
+      en: p. 21
+      de: S. 21
   swiechocin:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2037,6 +2317,25 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  swiecia:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '47'
+      en: p. 47
+      de: S. 47
   szetlewek:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2050,6 +2349,18 @@ place:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '221'
+      en: p. 221
+      de: S. 221
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
   trabczyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2063,6 +2374,54 @@ place:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: zychlinski1885
+    cite: Żychliński (1885)
+    pages:
+    - key: '187'
+      en: p. 187
+      de: S. 187
+    - key: '188'
+      en: p. 188
+      de: S. 188
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '219'
+      en: p. 219
+      de: S. 219
+    - key: '220'
+      en: p. 220
+      de: S. 220
+    - key: '221'
+      en: p. 221
+      de: S. 221
+    - key: '222'
+      en: p. 222
+      de: S. 222
+    - key: '223'
+      en: p. 223
+      de: S. 223
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '21'
+      en: p. 21
+      de: S. 21
+  - work: pachonski1982
+    cite: Pachoński (1982)
+    pages:
+    - key: '582'
+      en: p. 582
+      de: S. 582
+    - key: '583'
+      en: p. 583
+      de: S. 583
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2076,3 +2435,98 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  - work: zychlinski1891
+    cite: Żychliński (1891)
+    pages:
+    - key: '219'
+      en: p. 219
+      de: S. 219
+    - key: '221'
+      en: p. 221
+      de: S. 221
+    - key: '223'
+      en: p. 223
+      de: S. 223
+    - key: '224'
+      en: p. 224
+      de: S. 224
+  wrabczyn:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '47'
+      en: p. 47
+      de: S. 47
+  zagorowo:
+  - work: breyer1935gaue
+    cite: Breyer (1935a)
+    pages:
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '44'
+      en: p. 44
+      de: S. 44
+  - work: breyer1935mutterland
+    cite: Breyer (1935b)
+    pages:
+    - key: '8'
+      en: p. 8
+      de: S. 8
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '1'
+      en: p. 1
+      de: S. 1
+    - key: '3'
+      en: p. 3
+      de: S. 3
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '11'
+      en: p. 11
+      de: S. 11
+    - key: '15'
+      en: p. 15
+      de: S. 15
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '21'
+      en: p. 21
+      de: S. 21
+    - key: '22'
+      en: p. 22
+      de: S. 22
+    - key: '29'
+      en: p. 29
+      de: S. 29
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '39'
+      en: p. 39
+      de: S. 39

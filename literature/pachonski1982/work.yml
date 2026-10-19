@@ -1,0 +1,45 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is the
+# Polish half of the editor's file "Antoni Ostroróg-Prusimski (Polski Słownik
+# Biograficzny T.27).md" (folder "Books_2"), unchanged; the machine English
+# that follows it in that file is not used. english.md is Claude's. The
+# page marks are the file's own ("\[582\]"). See notes.md.
+slug: pachonski1982
+visible: true
+kind: reference
+title: "Prusimski (Ostroróg-Prusimski) Kazimierz Józef Antoni"
+title_en: "Prusimski (Ostroróg-Prusimski), Kazimierz Józef Antoni: entry in the Polish Biographical Dictionary"
+cite: "Pachoński (1982)"
+author: "Jan Pachoński"
+published: "Polski Słownik Biograficzny, vol. 27, Wrocław 1982-1983, pp. 582-584 (the editor dates it 1982)"
+year: 1982
+language: pl
+english_by: Claude
+pages:
+  mark: '^\\\[(?P<page>\d+)\\\]\s*$'
+account_en: >-
+  The entry in the Polish Biographical Dictionary on Antoni Prusimski (1744 to
+  about 1806), the owner of Trąbczyn whose estates Prussia confiscated after
+  the rising of 1794, by Jan Pachoński, a historian of the Polish Legions. It gives his family (son of Stefan, owner
+  of Kamionna, Kolno and Trąbczyn), his seats in the Sejm, the commissions the
+  Sejm of 1773-1775 named to settle disputes over estates, Trąbczyn among
+  them, his part in
+  the Kuyavian rising of 1794, the confiscation of his estates by Prussia, his
+  exile in Venice, Paris, England and Dresden, his return in 1803 and his
+  daughter Michalina, wife first of Józef Dąmbski and from 1809 of Stanisław
+  Miączyński. It is a scholar's summary from the archives and literature it
+  lists at the end; most of it is about his politics in exile, and its few
+  words on the estates are to be held against the edition's documents.
+account_de: >-
+  Der Artikel des Polnischen Biographischen Wörterbuchs über Antoni Prusimski
+  (1744 bis um 1806), den Herrn von Trąbczyn, dessen Güter Preußen nach dem
+  Aufstand von 1794 einzog, von Jan
+  Pachoński, einem Historiker der Polnischen Legionen. Er nennt seine Familie
+  (Sohn Stefans, des Besitzers von Kamionna, Kolno und Trąbczyn), seine Sitze
+  im Sejm, die Kommissionen, die der Sejm von 1773-1775 für Streitigkeiten
+  um Güter einsetzte, darunter Trąbczyn, seinen Anteil am kujawischen Aufstand von
+  1794, die Einziehung seiner Güter durch Preußen, sein Exil in Venedig,
+  Paris, England und Dresden, seine Rückkehr 1803 und seine Tochter Michalina,
+  in erster Ehe Frau Józef Dąmbskis, ab 1809 Stanisław Miączyńskis. Es ist
+  die Zusammenfassung eines Gelehrten aus den Archiven und der Literatur, die
+  er am Ende nennt; das meiste betrifft seine Politik im Exil, und seine
+  wenigen Worte über die Güter sind an den Dokumenten der Edition zu prüfen.

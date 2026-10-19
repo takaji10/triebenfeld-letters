@@ -1,0 +1,56 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# from Jutta Dennerlein's digital reissue (PDF, the editor's folder
+# "Books_2") by pipeline/literature/upstream_pdf.py, without the reissue's
+# foreword (editor, 2026-10-19); english.md is Claude's. Never tidied: see
+# notes.md for the slips and for what Dennerlein added to the text.
+slug: breyer1938
+visible: true
+kind: study
+title: "Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs"
+title_en: "The German Rural Settlements of the Warthe Marshes in Central Poland"
+cite: "Breyer (1938)"
+author: "Albert Breyer"
+published: "Deutsche Wissenschaftliche Zeitschrift für Polen, Heft 34, 1938; cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, November 2010)"
+year: 1938
+language: de
+english_by: Claude
+scan: "http://www.UpstreamVistula.org"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A study of the German villages in the valley of the Warthe between Pyzdry
+  and Uniejów: the landscape and farming, the history of settlement from the
+  Middle Ages (the Cistercians of Ląd) to the 1930s, where the settlers came
+  from, their later migrations, and a table of the villages by the census of
+  1921. Albert Breyer (1889-1939), a teacher at the German school in Sompolno,
+  is the man whose notebooks of 1936 are holdings of this edition (APP
+  53/968/0/-/669 and -/716). He wrote from the Lutheran church books, from
+  village papers he saw himself, among them the copy of the settlers'
+  contract kept in the mayor's office at Emilienheim, and from what the
+  villagers told him. Pages 21 and 22 are on Hohenlohe's estates of Zagórów
+  and Trąbczyn: the contract of 1805 by which Triebenfeld let 100 Hufen of
+  forest to eighteen settlers, and the villages that came of it; pages 38
+  and 39, 42 and 43, and 46 and 47 follow the same villages to 1928. The
+  article was written for a journal of the German minority in Poland in
+  1938, and its language is that of its time and cause: it praises German
+  settlers and laments "de-Germanisation". Its facts are to be held against
+  the documents, and its judgements are Breyer's.
+account_de: >-
+  Eine Untersuchung der deutschen Dörfer im Tal der Warthe zwischen Pyzdry
+  und Uniejów: Landschaft und Wirtschaft, die Geschichte der Besiedlung vom
+  Mittelalter (den Zisterziensern von Ląd) bis in die 1930er Jahre, die
+  Herkunft der Siedler, ihre späteren Wanderungen und eine Tabelle der
+  Dörfer nach der Volkszählung von 1921. Albert Breyer (1889-1939), Lehrer
+  an der deutschen Schule in Sompolno, ist der Mann, dessen Notizbücher von
+  1936 Bestände dieser Edition sind (APP 53/968/0/-/669 und -/716). Er
+  schrieb nach den evangelischen Kirchenbüchern, nach Dorfpapieren, die er
+  selbst sah, darunter die im Schulzenamt zu Emilienheim aufbewahrte Abschrift
+  des Siedlervertrags, und nach dem, was ihm die Dorfbewohner erzählten. Die
+  Seiten 21 und 22 handeln von Hohenlohes Gütern Zagórów und Trąbczyn: dem
+  Vertrag von 1805, mit dem Triebenfeld 100 Hufen Wald an achtzehn Siedler
+  austat, und den Dörfern, die daraus entstanden; die Seiten 38 und 39, 42
+  und 43 sowie 46 und 47 verfolgen dieselben Dörfer bis 1928. Der Aufsatz
+  wurde 1938 für eine Zeitschrift der deutschen Minderheit in Polen
+  geschrieben, und seine Sprache ist die seiner Zeit und seiner Sache: Er
+  lobt die deutschen Siedler und beklagt die „Entdeutschung“. Seine Angaben
+  sind an den Dokumenten zu prüfen, seine Urteile sind die Breyers.

@@ -20,11 +20,13 @@ A work with `visible: false` (Seidel, docs/LITERATURE_PLAN.md section 4) is
 skipped entirely: nothing of it is written under site/. verify_site.py holds
 the built site to that.
 
-Each page gives the work passage by passage, the original and the English side
-by side, each passage headed by its printed page so that it can be cited. The
+Each page gives the work passage by passage, each passage headed by its
+printed page so that it can be cited, and holding both texts, the original and
+the English; the page shows one of them at a time, the English first, by the
+buttons of _layouts/literature.html (site/assets/literature.js). The
 text is the passage file's, rendered as Markdown by Jekyll. Only the rendering
 is changed, never the words: footnote markers [^n] become links to their notes
-(kramdown's own footnotes would clash between the two columns), headings are
+(kramdown's own footnotes would clash between the two texts), headings are
 set two levels down under the page's own, and the four-space indent of a
 note's second paragraph is taken off so that it is not shown as code, a "|"
 outside a table is escaped (kramdown would make the line a table), and a line

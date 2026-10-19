@@ -310,7 +310,7 @@ en:
   lit_h1: Literature
   lit_lede: >-
     Books and articles about the estate's history and its setting, each in
-    its original language with an English translation beside it. They are
+    its original language and in an English translation. They are
     not part of the edition: they are what contemporaries and historians
     wrote about the matters the sources record, and each is introduced with
     what kind of witness it is.
@@ -337,7 +337,10 @@ en:
   lit_notes: Notes
   lit_original: original
   lit_english: English
-  lit_col_english: English, translated by Claude
+  lit_view_label: Text shown
+  lit_view_en: English
+  lit_hint_orig: The work as printed, page by page.
+  lit_hint_en: The English translation by Claude, page by page; the original decides.
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
   lit_mentions: "In the literature: %d passages"
   lit_mentions_one: "In the literature: one passage"
@@ -656,7 +659,7 @@ de:
   lit_h1: Literatur
   lit_lede: >-
     Bücher und Aufsätze zur Geschichte des Gutes und ihrem Umfeld, jeweils
-    in der Originalsprache mit einer englischen Übersetzung daneben. Sie
+    in der Originalsprache und in einer englischen Übersetzung. Sie
     gehören nicht zur Edition: Sie sind, was Zeitgenossen und Historiker
     über die Dinge schrieben, die die Quellen festhalten, und bei jedem
     steht, welche Art von Zeugnis es ist.
@@ -683,7 +686,10 @@ de:
   lit_notes: Anmerkungen
   lit_original: Original
   lit_english: Englischen
-  lit_col_english: Englisch, übersetzt von Claude
+  lit_view_label: Angezeigter Text
+  lit_view_en: Englisch
+  lit_hint_orig: Das Werk, wie es gedruckt ist, Seite für Seite.
+  lit_hint_en: Die englische Übersetzung von Claude, Seite für Seite; maßgeblich ist das Original.
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   lit_mentions: "In der Literatur: %d Stellen"
   lit_mentions_one: "In der Literatur: eine Stelle"

@@ -2065,6 +2065,27 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Verified on a branch before it went to `main`: every holding rebuilt, the site built and `verify_site.py` passed (613 documents); the 9135 generated files were identical to before but for line ends. No text, translation or page changed.
 - `CLAUDE.md` and `docs/WORKING_NOTES.md` ("Line ends") no longer ask sessions to preserve CRLF file by file.
 
+## The literature: one text at a time, and six more works (2026-10-19, published)
+
+- **The original and the English are no longer side by side** (the editor: "not ideal"). A work's page shows one text at a time, with buttons above the first page, "English" and the original's language, as a reader switches the views of a document. It opens on the English (editor), and the choice is kept from one work to the next (`site/assets/literature.js`). Without the script both texts stand one under the other.
+- **Six works from the editor's folder "Books_2"** (LITERATURE_PLAN.md, section 10):
+  - Albert Breyer's articles of 1935 ("Deutsche Gaue in Mittelpolen", the chapters on Kalisz and Konin only, at the editor's word; "Ostdeutschland als Mutterland") and of 1938 (the German villages of the Warthe marshes), from Jutta Dennerlein's digital reissues. They are read from the PDFs' text layer by the new `pipeline/literature/upstream_pdf.py`, and her forewords are left out (editor).
+  - Teodor Żychliński's *Złota księga*, vol. 7, pp. 187-188 (the Prusimski) and vol. 13, pp. 219-225 (the Miączyński), read from the photographs in session.
+  - Jan Pachoński's entry on Antoni Prusimski in the *Polski Słownik Biograficzny* (1982, editor).
+  The English of all six is Claude's, from the original. The machine English in the editor's files was not used (the PSB's was wrong in substance). No German translation of the Polish works was made: an accepted gap (editor).
+- The index of people and estates over the eleven visible works: 3,200 hits, every one ruled in `literature/index.yml`; 2,946 stand.
+- **Eleven new hand-made links** (`literature/links.yml`; fifteen in all, to 32 documents), every figure read in the book and the document. They tie:
+  - Breyer to the lease of 1806 and to Weigel;
+  - Żychliński to the court books on the Prusimski line, to the letters on Michalina's marriage, to the dispatch from Venice and to the summons of 1860;
+  - the PSB to the boundary commission, the confiscation, Venice and the restitution of 1807.
+- Found while the links were checked, and put to the editor (NEEDS_CONFIRMATION.md, "The literature"):
+  - The dispatch from Venice of 14 December 1796 already mourns Prusimski's wife, against Żychliński's date for her death, 2 September 1797.
+  - Żychliński and the PSB give Michalina's second marriage as 1809, against "about 1814" in the edition's biographies.
+  - Żychliński's account of who held Trąbczyn from 1809 to 1879 differs from the edition's.
+  - The lease of 1806 differs from Breyer's account in its date, in the dike clause and on pasture and wood.
+  No biography or era of the edition was changed.
+- Published at the editor's word the same day, the questions above still open.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

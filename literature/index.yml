@@ -32,10 +32,23 @@ patterns:
     # adjective: "Hohenloh", "die Hohenloh'sche Armee", "die Hohenlohschen
     # Besitzungen" (3-132; Materialien p. 146 "Hohenloheschen").
     hohenlohe: 'Hohenlohe?''?i?sche\w*|Hohenloh(?![a-zà-ÿ''])'
+    # Żychliński (1885, 1891) and the PSB give Stanisław Miączyński in forms the
+    # edition's pattern leaves out: after "Stanisława **", "Stanisławem",
+    # "Podpułkownika" and "kapitanowi". Each is Stanisław.
+    miaczynski: '(?<=Stanisława \*\*)Miączyńskiego|(?<=Stanisławem )Miączyńskim|(?<=Podpułkownika )Miączyńskiego|(?<=kapitanowi )Miączyńskiemu'
+    # Breyer (1935, "Gaue") calls the owner of Trąbczyn in 1746 "Paul von
+    # Kolno-Prusiński".
+    prusimski-pawel: '(?<=Kolno-)Prusiński'
   place:
     # The black register's list of the Prince's Konin estates: Materialien
     # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
-    trabczyn: 'Trombczyn|Trobozyn'
+    # Żychliński and Breyer print the adjective: "klucz Trąbczyński",
+    # "majętność Trąmbczyńską" (and "Huta Trąbczyńska", a village of its own).
+    trabczyn: 'Trombczyn|Trobozyn|Tr[ąa]m?bczyńsk\w*'
+    # Żychliński and the PSB decline Kolno and Wieniec in Polish: "na Kolnie",
+    # "Kolna", "z Kolnem"; "Wieńca", "na Wieńcu".
+    kolno: 'Koln(?:ie|a|em)(?![a-zà-ÿ])'
+    wieniec: 'Wieńc(?:a|u)(?![a-zà-ÿ])'
     szetlewek: 'Szellewen'
     # Feuerbrände 2-69 "Schwiegoszyn" (Materialien p. 145 "Swiegoszyn").
     swiechocin: 'Schwiegoszyn'
@@ -56,8 +69,17 @@ people:
     Bertrand: "no: the building inspector von Bertrand at Krotoszyn (Held), not Napoleon's General Bertrand"
   beyme: {Beyme: yes}
   bluecher: {Blücher: yes}
+  brzechffa:
+    Brzechta: "no: Joseph Brzechta, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
+    Brzechwa: "no: Joseph Brzechwa, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
   bulow:
     Bülow: "no: Dietrich Heinrich von Bülow, the military writer (Feuerbrände 1-63), not the edition's Bülow"
+  constantin:
+    Constantin: "no: Constantin von Milewski, owner of Borszewice, in the contract of 1796 (Breyer 1938); not the Grand Duke"
+    # Breyer (1935, "Gaue") calls the viceroy of 1826 "Konstantin
+    # Konstantinowitsch"; the Grand Duke who was viceroy then is Konstantin
+    # Pavlovich, the edition's Constantin: the patronymic is Breyer's slip
+    Konstantin: yes
   danckelmann:
     Danckelmann: "no: the Silesian justice minister, signing at Breslau in 1795 (Held p. 109) and as a minister (p. 134), not the vice-president at Poznań in the edition"
   dolffs: {Dolffs: yes}
@@ -74,6 +96,8 @@ people:
     Friedrich Wilhelms des dritten: yes
   gaertner:
     Gärtner: "no: the word for a cottager (and Gärtnerei, gardening), not a man named Gärtner"
+  giese:
+    Giese: "no: the farm-holders Heinrich, Johann, Christian and Friedrich Giese at Święcia in Breyer's list of 1818; not shown to be the Johann Giese who took the Oleśnica estate in lease in 1804"
   gneust:
     Wohlgeb: "no: the form of address Wohlgeboren, not Gneust"
   goerne:
@@ -118,6 +142,8 @@ people:
     von Held: yes
   hertzog:
     Hertzog: "no: Held's steward (Amtmann) Hertzog at Krotoszyn in 1792; not shown to be the Hertzog of the edition's document of 1799"
+  hoffmann-legationsrath:
+    Hoffmann: "no: the colonist Caspar Hoffmann in the contract of 1796 (Breyer 1938); not the official of the foreign ministry"
   hohenlohe:
     Hohenlohe: yes
     Hohenloh: yes
@@ -125,6 +151,7 @@ people:
     Hohenlohschen: yes
     Hohenlohische: yes
     Hohenloheschen: yes
+    Hohenlohesche: yes
   holtzendorff:
     Holtzendorff: yes
     Holzendorff: yes
@@ -146,24 +173,56 @@ people:
   kwilecki:
     Kwileck: "no: Count Kwilecki of Dobrojewo in the 1790s; not shown to be the justice of the peace at Konin of 1810"
   larisch: {Larisch: yes}
+  lipski:
+    Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935); not the appeal judge von Lipski at Kalisz in the edition's letters"
   luka:
     Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
   massow:
     Massow: "no: the forest master von Massow (Guradze) and a signatory of 1800 (Held); not the edition's Massow"
+  miaczynski:
+    Miączyński:
+      default: yes
+      except:
+        zychlinski1885/188: "Władysław Miączyński, Michalina's grandson, not Stanisław"
+        zychlinski1891/223: "Włodzimierz Miączyński, Stanisław's son"
+        zychlinski1891/224: "Atanazy Miączyński, the forebear of the family"
+    Miączyńskiego: yes
+    Miączyńskiemu: yes
+    Miączyńskim: yes
   napoleon: {Napoleon: yes}
   neumann:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
+  niemojewski:
+    Niemojewską: "no: Anna Niemojewska, a castellan's wife, in the Prusimski genealogy (Żychliński 1885); not General Niemojewski"
   noldichen:
     # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
+  otto:
+    Otto: "no: Otto Busse, a farm-holder at Święcia in Breyer's list of 1928; not the Otto of the edition's letters"
   poniatowski:
     Poniatowski: "no: Stanisław Poniatowski among landlords who freed their peasants (Guradze), not Prince Józef"
+    Poniatowskiego: yes
   pontanus: {Pontanus: yes}
   prinz-george: {George: yes}
   prittwitz:
     Prittwitz: "no: Frederick the Great's general and a lieutenant-colonel of the trains in 1806; not the official of the exchange of 1799"
+  prusimska:
+    Dąmbska: yes
+    Miączyńska: yes
+    Prusimska: yes
+  prusimski:
+    Prusimski:
+      default: yes
+      except:
+        zychlinski1885/187: "Krzysztof, Jan and Krzysztof Prusimski, the Starost's forebears; Antoni is on p. 188"
+  prusimski-pawel:
+    # Claude's identification, not yet accepted by the editor: Breyer's "Paul
+    # von Kolno-Prusiński", owner of Trąbczyn in 1746, is Paweł Prusimski the
+    # chamberlain, who held Trąbczyn and died in 1754
+    Prusiński: yes
   radziwill:
     Radziwill: "no: a Prince Radziwiłł in the black register; not shown to be Antoni"
+    Radziwił: "no: Princess Adelajda Radziwiłłówna and the Radziwiłł tables of the Złota księga (Żychliński 1885); not Prince Antoni"
   raumer:
     Raumer: "no: the historian Friedrich von Raumer, author of Polens Untergang, not Karl Georg von Raumer"
   ruechel: {Rüchel: yes}
@@ -172,6 +231,8 @@ people:
   scharnhorst: {Scharnhorst: yes}
   schenck:
     Schenk: "no: the word Schenk-Haus, an inn (Held p. 158)"
+  schroeder:
+    Schröder: "no: Adelgunde Schröder, a farm-holder at Święcia in Breyer's list of 1928; not Rath Schröder"
   schroetter:
     Schroetter: yes
     Schrötter: yes
@@ -189,6 +250,7 @@ people:
     Simon: "no: Heinrich Simon, the author on the Jews of Prussia, in the notes; not the merchant Simon"
   sommer:
     Sommer: "no: the season, summer"
+    Sommers: "no: the season, des Sommers, in summer"
   stein: {v. Stein: yes}
   stenger:
     # Claude's identification, accepted by the editor (2026-10-19): Guradze's
@@ -223,7 +285,10 @@ people:
     Weigel: "no: the brandy clerk Weigelt (Held p. 191), not the banker Weigel"
   werner:
     Werner: "no: the city president Werner at Breslau, not the cabinet councillor of 1804"
-  wybicki: {Wybicky: yes}
+  wybicki:
+    Wybicky: yes
+    Wybickiego: "no: the title of the printed edition of his papers, Archiwum Wybickiego, in the PSB's bibliography"
+    Wybickim: yes
   zastrow:
     Zastrow:
       default: yes
@@ -236,10 +301,22 @@ places:
   # The estates of the edition (shown on the Places page).
   betsche: {Betsche: yes}
   dormowo: {Dormowo: yes}
+  drzewce:
+    Drzewce: yes
   glazewo: {Gloszewo: yes}
+  kamionno:
+    Kamionna: yes
+    Kamionnej: yes
+    Kamionnie: yes
+    Kamionny: yes
   kolno:
     Culm: "no: Chełmno and Kulm law, not Kolno"
     Kulmischen: "no: Kulm law, not Kolno"
+    Kolno: "no: the Holländerei Kolno by Sławsk, east of Konin (Breyer), and in \"Kolno-Prusiński\" part of a man's name; not the Prusimski estate of Kolno"
+    Kulm: "no: Kulm (Chełmno) on the Vistula, a settlers' homeland (Breyer 1935)"
+    Kolna: yes
+    Kolnem: yes
+    Kolnie: yes
   krotoszyn:
     Krotoschin: yes
     Krotoschiner: yes
@@ -266,17 +343,40 @@ places:
   swiechocin:
     Swiegoszyn: yes
     Schwiegoszyn: yes
+  swiecia:
+    Swięcia: yes
+    Święcia: yes
+    Swięciec: "no: an island of that name in the Warta marsh (Breyer 1938)"
   szetlewek:
     Szetlewek: yes
     Szellewen: yes
+    Szetlewo: "no: Szetlew, the village of the Ląd monastery; not Szetlewek (as in the edition's KDW entries)"
   tarmowo:
     Tarnowo: "no: the Tarnowo two miles from Posen given to Lüttichau and Grävenitz; not shown to be the Tarnowo of the Prince's grant of 1797"
   trabczyn:
     Trombczyn: yes
     Trobozyn: yes
+    Trąbczyn: yes
+    Trąbczyna: yes
+    Trąbczynie: yes
+    Trąmbczyna: yes
+    Trąmbczynie: yes
+    Trąbczyńska: "no: Huta Trąbczyńska, a village named after Trąbczyn (Breyer 1935)"
+    Trąbczyński: yes
+    Trąbczyńskich: yes
+    Trąbczyńskiego: yes
+    Trąmbczyńskiéj: yes
+    Trąmbczyńską: yes
   wieniec:
     Wieniec: yes
     Winiec: yes
+    Winnica: "no: Winnica by Podgórz (Breyer 1938); not Wieniec"
+    # Claude's identification, not yet accepted by the editor: the Wieniec that
+    # Stanisław and then Mieczysław Miączyński held, named with Brzezie and
+    # Dobielewo (Żychliński 1891), is the church estate by Brześć Kujawski
+    # that the Prince was granted in 1797
+    Wieńca: yes
+    Wieńcu: yes
   wolica:
     Wolicki: "no: the family name Wolicki"
 
@@ -296,6 +396,14 @@ places:
     Berlinern: yes
     Berlinsche: yes
     Berlinschen: yes
+    Berlina: yes
+    Berlinchen: "no: the town of Berlinchen in the Neumark (Barlinek), a settler's place of origin (Breyer)"
+    Berlinie: yes
+  bialobrzeg:
+    Białobrzegi:
+      default: "no: a name in Breyer's lists of the region's places; not shown to be the Białobrzeg by Wrąbczynek"
+      except:
+        breyer1938/47: "the village beside Wrąbczyn Holl. in Breyer's table: the edition's Biala Brzig bey Wrąbczynek"
   boehmen: {Böhmen: yes}
   breslau:
     Breslau: yes
@@ -315,6 +423,7 @@ places:
     Bresslauschen: yes
     Breßlau: yes
     Breßlauer: yes
+    Breslausche: "no: the Breslau hymn-book (Breyer 1938), a book's name"
   brieg:
     Brieg: yes
     Brzeg: "no: the Polish word brzegi, banks (Paciorkowski)"
@@ -326,7 +435,9 @@ places:
   crossen: {Crossen: yes}
   czestochowa: {Czenstochau: yes}
   dolsk: {Dolzig: yes}
-  dresden: {Dresden: yes}
+  dresden:
+    Dresden: yes
+    Drezna: yes
   erfurt: {Erfurt: yes, Erfurth: yes}
   frankfurt-an-der-oder:
     Frankfurt:
@@ -364,11 +475,22 @@ places:
     Kalisz: yes
     Kaliszkowice: "no: the church estate Kaliszkowice, given to Rüchel"
   karge: {Karge: yes}
+  kempen:
+    Kempen: yes
   kiew: {Kijow: yes}
   koenigsberg: {Königsberg: yes, Königsberger: yes, Königsbergischen: yes}
-  konin: {Konin: yes}
+  konin:
+    Konin: yes
+    Koniner: yes
+    Konińskiém: yes
+  kopojno:
+    Kopojno: yes
   liegnitz: {Liegnitz: yes}
+  lukom:
+    Lukomska: "no: Huta Łukomska, a village named after Łukom; not Łukom itself"
   magdeburg: {Magdeburg: yes}
+  mariantow:
+    Mariantów: yes
   mecklenburg: {Mecklenburg: yes}
   memel: {Memel: yes}
   miedzyrzecz: {Meseritz: yes, Międzyrzecz: yes}
@@ -377,14 +499,22 @@ places:
   neusalz: {Neusalz: yes}
   neustadt:
     Neustadt: "no: Neustadt an der Dosse in Brandenburg (the mirror works); not shown to be the edition's Neustadt"
+  olesnica:
+    Oleśnica: yes
   oppeln: {Oppeln: yes}
+  ostrow:
+    Ostrow: "no: the district of Ostrów, a settler's home in Breyer's table of 1860; not shown to be the edition's Ostrów"
+    Ostrów: "no: Ostrów by Sławsk, an island in the Warta marsh (Breyer 1938)"
   paris: {Paris: yes}
   pommern: {Pommern: yes}
   posen: {Posen: yes}
   potsdam: {Potsdam: yes, Potsdammer: yes, Potsdamscher: yes}
   prag: {Prag: yes}
   pressburg: {Preßburg: yes}
-  pyzdry: {Peisern: yes, Peysern: yes}
+  pyzdry:
+    Peisern: yes
+    Peysern: yes
+    Peisernsche: yes
   russland:
     Russland: yes
     Russland[28]: yes
@@ -392,12 +522,22 @@ places:
     Rußland: yes
     Rußlands: yes
     Rußlandsoperationslinie: yes
+    Russlandfieber: "no: the \"Russia fever\", the emigration to Russia; names no place"
   sachsen: {Sachsen: yes}
   sagan: {Sagan: yes}
   schlesien: {Schlesien: yes}
+  skokum:
+    Skokom: yes
+  sommerfeld:
+    Sommerfeld: "no: the surname of settlers in Breyer's tables"
   st-petersburg: {Petersbourg: yes, Petersburg: yes, Petersburger: yes}
   stettin: {Stettin: yes}
   suedpreussen: {Süd-Preussen: yes, Süd-Preußen: yes, Südpreussen: yes, Südpreußen: yes}
+  swiatniki:
+    # Breyer 1938, p. 10: the service village of the Ląd monastery, as the
+    # edition's own note on the "sanctuarii" of 1261 takes it
+    Swiątniki: yes
+    Świątniki: yes
   teutschland: {Deutschland: yes, Deutschlande: yes, Deutschlands: yes}
   torun: {Thorn: yes}
   ulm:
@@ -407,7 +547,9 @@ places:
         materialien1861/182: "Neu-Ulm, a colonists' village"
   ungarn: {Ungarn: yes}
   unruhstadt: {Unruhstadt: yes}
-  venedig: {Venedig: yes}
+  venedig:
+    Venedig: yes
+    Venise: "no: the title of a book in the PSB's bibliography"
   warschau:
     Varsovie: yes
     Warschau: yes
@@ -415,14 +557,27 @@ places:
     Warschauer: yes
     Warschauische: yes
     Warschauischen: yes
+    Warszawie: yes
+    Warszawę: yes
   wartenberg: {Wartenberg: yes}
   weimar: {Weimar: yes}
   wielun:
     Vielun: yes
     Wielun: "no: a field near a place Wielun in a Latin charter quoted by Guradze; not shown to be the town"
   wien: {Wien: yes}
+  wieruszow:
+    Wieruszów: "no: the village of Wieruszów in the commune of Gosławice by Konin (Breyer); not the town by Sokolniki of the edition's letters"
+  wrabczyn:
+    Wrąbczyn: yes
   wuerttemberg:
     Würtemberg: yes
     Würtemberger: yes
     Würtembergern: yes
     Würtembergischen: yes
+  zagorowo:
+    Zagorow: yes
+    Zagorów: yes
+    Zagórow: yes
+    Zagórower: yes
+    Zagórowo: yes
+    Zagórów: yes

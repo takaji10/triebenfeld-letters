@@ -599,3 +599,17 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] **You (if you want them): the notes of Seidel's book** (pages 257 to
       266) are empty in both files.
 - [ ] Later and selectively: events from the books on the timeline.
+- [x] One text at a time on a work's page, the English first, with buttons
+      for the original (the editor, 2026-10-19; published the same day).
+- [x] The second set, "Books_2": Breyer (1935, twice, and 1938), Żychliński
+      (1885, 1891) and the PSB (1982), brought in with Claude's English,
+      indexed, and eleven links written (LITERATURE_PLAN.md, section 10;
+      published 2026-10-19 at the editor's word).
+- [ ] **You:** the questions the second set raises, in NEEDS_CONFIRMATION
+      ("The literature"): Michalina's marriage (1809 or about 1814), her
+      mother's death (1797 or before December 1796), who held Trąbczyn
+      1809-1879, Włodzimierz's death (18 or 20 December 1879), K. G. von
+      Weigel, and three identifications of Claude's.
+- [ ] Still to be considered: Breyer (1938) pp. 38-47 (Ludwigslust,
+      Święcia, Schwenz, the villages in 1921) against the Łazińsk holdings,
+      each figure read in the documents first.

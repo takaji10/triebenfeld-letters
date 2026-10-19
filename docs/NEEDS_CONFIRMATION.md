@@ -229,6 +229,57 @@ read, translate and summarise.
   (p. 135) lists Cölln's six corrections as "nos. 7, 10, 14, 18, 20 and
   28", but the one on Triebenfeld stands at his entry, numbered 16/38
   (`literature/materialien1861/notes.md`).
+  **The second set of books** (Books_2, 2026-10-19: Breyer 1935 twice and
+  1938, Żychliński 1885 and 1891, the PSB entry of 1982) raises these, each
+  set out in the work's `notes.md`. Nothing in the edition is changed until
+  the editor rules:
+  - **Michalina's second marriage.** Żychliński (1891, p. 221) has Stanisław
+    Miączyński marry her in August 1809, with the marriage settlement; the
+    PSB says "from 1809". The bios of `prusimska` and `miaczynski` say
+    "about 1814". Change the bios to 1809?
+  - **Her mother's death.** Żychliński (1891, p. 221, footnote) has Maryanna
+    Dąmbska die at Padua on 2 September 1797. The Prussian resident's
+    dispatch from Venice of 14 December 1796 (I. HA GR, Rep. 7 C, Nr. 1414,
+    document 2) already speaks of Prusimski's grief at his wife's death. If
+    it is the same death, she died in 1796 or earlier, and Żychliński's year
+    is wrong. The link `zychlinski1891-maryanna` says so on the site.
+  - **Who held Trąbczyn, 1809 to 1879.** Żychliński (1891, pp. 221-222):
+    Michalina made her estates over to Stanisław in 1809; he passed Trąbczyn
+    to his son Mieczysław before 1845, and Włodzimierz bought it from
+    Mieczysław. The edition (era `wlodzimierz`, the bios of `prusimska` and
+    `miaczynski-wlodzimierz`) has Michalina hold it until 1851 and
+    Włodzimierz after her.
+  - **Włodzimierz's death**: 18 December 1879 in Żychliński (1891, p. 222),
+    20 December in the editor's ruling of 2026-10-15. The editor's date
+    stands until they say otherwise.
+  - **Paweł Prusimski's generation.** Żychliński (1885, p. 187) makes Paweł
+    Apollo, the chamberlain, Krzysztof's brother; the PSB and the inspection
+    of 1754 make the chamberlain the Starost's uncle, a generation lower.
+    The edition follows the documents; Żychliński is very likely wrong.
+  - **Claude's identifications, not yet accepted** (`literature/index.yml`):
+    Breyer's "Paul von Kolno-Prusiński", who founded Łazińsk Holland in 1746
+    (Breyer 1935, p. 41), is Paweł Prusimski the chamberlain; the Wieniec
+    that Stanisław and Mieczysław Miączyński held (Żychliński 1891) is the
+    church estate by Brześć Kujawski the Prince was granted in 1797;
+    Breyer's Świątniki (1938, p. 10) is the Ląd monastery's service village.
+  - **K. G. von Weigel** of Hennersdorf, owner of the Zagórów estates from
+    1828 (Breyer 1938, p. 22): the same man as the edition's banker Carl
+    Ferdinand Weigel of Breslau, or of his family? The link
+    `breyer1938-weigel` says the question is open.
+  - **The PSB's "Rep. ,7, C 14 M 1"** at Merseburg: perhaps the file the
+    edition has as I. HA GR, Rep. 7 C, Nr. 1414; not certain.
+  - **The years of the Złota księga's volumes**, 1885 (vol. 7) and 1891
+    (vol. 13), are reckoned from the series, not read off a title page.
+  - **Breyer's counts** (1935, "Mutterland", pp. 8 and 11) do not add up:
+    for Zagórów, 18 places and 13 in the figures; for Kalisz, 278 of 298
+    couples. Kept as printed.
+  - **A link from Breyer's lecture** (1935, "Mutterland", p. 8, Zagórów
+    and Grodziec) to Breyer's notebook "V. Grodziec Juli 1936" (APP
+    53/968/0/-/669, document 2): wanted?
+  - **Włodzimierz Miączyński in the index.** The index has no entry for him
+    (`miaczynski-wlodzimierz`), so his name in Żychliński (1891, pp. 222,
+    223) is not listed on his page under "In the literature". To be added
+    if the editor wants it.
 
 ## Readings, Oe 1 Bü 9454
 

@@ -1,0 +1,43 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is read
+# in session from the editor's two photographs of pp. 187 and 188 (folder
+# "Books_2"), as printed: old spelling, slips and the open bracket kept,
+# spaced type as bold. english.md is Claude's. See notes.md.
+slug: zychlinski1885
+visible: true
+kind: reference
+title: "Złota księga szlachty polskiéj, rocznik VII, str. 187-188 (Prusimski Ostrorog; 1. Odnoga na Trąmbczynie)"
+title_en: "The Golden Book of the Polish Nobility, vol. 7, pp. 187-188: the Prusimski Ostroróg and their branch at Trąbczyn"
+cite: "Żychliński (1885)"
+author: "Teodor Żychliński"
+published: "Złota księga szlachty polskiéj, rocznik VII, Poznań [1885], pp. 187-188 (the year reckoned from the series, one volume a year from 1879; not read off a title page)"
+year: 1885
+language: pl
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Two pages of Teodor Żychliński's genealogy of the Polish nobility, from his
+  account of the Prusimski family, who wrote themselves Ostroróg. They give
+  the line that held Trąbczyn, generation by generation: Krzysztof, lord of
+  Kolno, Kamionna and Trąbczyn, his four sons and three daughters; his son
+  Stefan; Stefan's only son Antoni, the Starost of Nieszczewice, and his wife
+  Maryanna Dąmbska; and their only daughter Michalina, who married first
+  Józef Dąmbski and then Stanisław Miączyński, and brought him Trąbczyn,
+  "which her grandson, Count Władysław Miączyński, holds today". Above them
+  stand two earlier generations, to Paweł Apollo the chamberlain. Żychliński
+  wrote from the court books he cites and from what the families told him;
+  where his line differs from the edition's documents, the notes say so.
+account_de: >-
+  Zwei Seiten aus Teodor Żychlińskis Genealogie des polnischen Adels, aus
+  seiner Darstellung der Familie Prusimski, die sich Ostroróg schrieb. Sie
+  geben die Linie, der Trąbczyn gehörte, Generation für Generation: Krzysztof,
+  Herr von Kolno, Kamionna und Trąbczyn, seine vier Söhne und drei Töchter;
+  seinen Sohn Stefan; Stefans einzigen Sohn Antoni, den Starosten von
+  Nieszczewice, und dessen Frau Maryanna Dąmbska; und ihre einzige Tochter
+  Michalina, die zuerst Józef Dąmbski und dann Stanisław Miączyński
+  heiratete und ihm Trąbczyn zubrachte, „das heute ihr Enkel, Graf
+  Władysław Miączyński, besitzt“. Darüber stehen zwei frühere Generationen,
+  bis zu Paweł Apollo, dem Kammerherrn. Żychliński schrieb nach den
+  Gerichtsbüchern, die er anführt, und nach den Auskünften der Familien; wo
+  seine Linie von den Dokumenten der Edition abweicht, sagen es die
+  Anmerkungen.
