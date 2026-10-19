@@ -1,2 +1,18 @@
+# Every text file is stored with LF line ends and checked out with LF, on the
+# desktop (Windows) and in the cloud (Linux) alike, whatever core.autocrlf
+# says (the editor, 2026-10-19; docs/WORKING_NOTES.md, "Line ends"). Before
+# this the repository held both kinds, and Git for Windows turned LF into
+# CRLF on the desktop only.
+* text=auto eol=lf
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.xlsx binary
+*.woff binary
+*.woff2 binary
+
 # The hook scripts are run by sh and Python on Windows and Linux alike.
 .claude/hooks/* text eol=lf
