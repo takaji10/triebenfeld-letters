@@ -12,6 +12,7 @@ were true when they were written.
 | [EDITORIAL_RULES.md](EDITORIAL_RULES.md) | What may be corrected without asking, what never is, and the editor's standing rulings. |
 | [NEW_UNIT.md](NEW_UNIT.md) | Taking a new holding from scans to published pages. |
 | [HOUSE_STYLE.md](HOUSE_STYLE.md) | How everything written about the documents is written. The editor's standing rulings on prose. |
+| [EDITORS_VOICE.md](EDITORS_VOICE.md) | The editor's own voice, from three samples of their writing: an analysis and a two-paragraph brief, for a later reading of the site's prose. Where it differs from HOUSE_STYLE, the house style stands until the editor rules. |
 | [DEPLOY.md](DEPLOY.md) | How the site is hosted and what blocks a deploy. |
 | [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md) | Open questions, still live. |
 | [TODO.md](TODO.md) | The next steps, in order, and which of them wait on the editor. |

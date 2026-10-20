@@ -2100,6 +2100,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - For the era of 1851 to 1901, Claude proposes the name "The liquidation: the colonists become owners", from the heading of the Łazińsk table of 1868 (NEEDS_CONFIRMATION.md, "The eras"). Not applied: the name is the editor's.
 - **What the liquidation did** (the editor, 2026-10-20): the land the colonists farmed became their own, and the demesne farms stayed with the estate. The documents agree: the Łazińsk table lists only the peasants' farmsteads and common land, the forest "Studzianka" stays the manor's, and in 1892 the colonists gave up their forest rights for "manor land" from the owner of the estate. The era's account (`reference/eras.yml`) and the story (EN and DE) now say that the manor kept its own land and forest, and that the government paid the former owner for the peasants' dues.
 
+## The editor's voice documented (2026-10-20, docs only)
+
+- From three samples of the editor's writing (the preface and introduction of their book on the Trąbczyn estate, and a statement of purpose), `docs/EDITORS_VOICE.md` records their voice: sentence length (counted), words, openings and closings, evidence, what they do not do, where it differs from HOUSE_STYLE, and a two-paragraph brief. The samples are not kept in the repository. No text on the site was changed; reading the site against the brief is in TODO.md, section 8.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

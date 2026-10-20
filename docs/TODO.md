@@ -330,6 +330,10 @@ NEEDS_CONFIRMATION.md.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
       on the Zagorow estates" is in (section 4 above).
+- [ ] **Later, at your word: the site's prose read against your voice**
+      (`docs/EDITORS_VOICE.md`, written 2026-10-20 from three samples of
+      your writing). Nothing is changed until you say so, and you rule
+      first on the four places where your voice and HOUSE_STYLE differ.
 
 ## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added, checked and published 2026-10-13)
 
