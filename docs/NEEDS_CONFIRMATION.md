@@ -373,9 +373,20 @@ written until there is a witness or a better scan.
     the peasants under the Imperial Ukases of 19 February (2 March) 1864"
     and the dues "to be compensated by the Government", with a
     "liquidation sum for the former owner" (APŁ 39/98/0/-/6603, document
-    1; Breyer's copy in 53/968/0/-/716, document 4). What was liquidated
-    was the colonists' dues to the manor; the estate itself went on (the
-    Countess Wielopolska held it by 1892). The ownership line keeps the
+    1; Breyer's copy in 53/968/0/-/716, document 4). **Settled (the
+    editor, 2026-10-20: "liquidation meant that the land farmed by the
+    colonists became their own, and the demesne farms remained in the
+    possession of the estate"), and the documents agree**: the table lists
+    only the peasants' farmsteads and common land, and calls the forest
+    "Studzianka" the manor forest (6603, documents 1 to 3); in 1892 the
+    colonists gave up their forest rights to Countess Maria Wielopolska,
+    "owner of the estate of Trąbczyn", for "usable manor land" (document
+    4). The liquidation documents do not name the demesne farms
+    themselves; Breyer's notebook of 1936 does, as what was left of them
+    later: "Remaining manor land of Trąbczyn", the demesne farm of Huta
+    divided up, "Włodzimierow was parcelled 25 years ago from the Trąbczyn
+    estate" (53/968/0/-/669, documents 1 and 2). The era's account and
+    the story now say so (2026-10-20). The ownership line keeps the
     owners; the account would lead with the colonists (the lawsuit of 1859
     over their pasture and wood, ownership in 1864, the table of 1868, the
     forest rights given up for land in 1892). The era runs past

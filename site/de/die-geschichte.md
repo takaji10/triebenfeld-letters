@@ -141,7 +141,9 @@ nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }
 ([die Steuerliste]({{ '/documents/app539680716/1/' | relative_url }})).
 
 Die russische Reform von 1864 machte die Bauern zu Eigentümern des Landes, das sie
-bewirtschafteten. Die Liquidationstabelle der Kolonie Łazińsk, am 8. Februar 1868 von der
+bewirtschafteten; die Gutsherrschaft behielt ihr eigenes Land und ihren Wald, und die Regierung
+entschädigte den früheren Besitzer für die Abgaben, die die Bauern ihm geschuldet hatten. Die
+Liquidationstabelle der Kolonie Łazińsk, am 8. Februar 1868 von der
 Zentralen Kommission für Bauernangelegenheiten bestätigt, verzeichnet ihre 91 Höfe, die Schule,
 den Friedhof und das Gemeindeland, zusammen 1691 Morgen, und setzt ein Liquidationskapital von
 10.055 Rubel 70 Kopeken für den früheren Besitzer fest

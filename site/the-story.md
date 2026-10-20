@@ -131,7 +131,9 @@ Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 In 1858 the colony of Emilienheim owed hearth tax and barracks money for 29 householders
 ([the tax list]({{ '/documents/app539680716/1/' | relative_url }})).
 
-The Russian reform of 1864 made the peasants owners of the land they farmed. The liquidation
+The Russian reform of 1864 made the peasants owners of the land they farmed; the manor kept its
+own land and its forest, and the government paid the former owner for the dues the peasants had
+owed it. The liquidation
 table of the Łazińsk colony, confirmed by the Central Commission for Peasant Affairs on
 8 February 1868, lists its 91 farmsteads, the school, the cemetery and the common land, 1,691
 Morgen in all, and fixes a liquidation capital of 10,055 roubles 70 kopecks for the former owner
