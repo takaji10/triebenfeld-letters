@@ -184,9 +184,9 @@ eight times, for an aside or a definition. The editor, 2026-10-20: it is
 correct dash for print in place of the hyphen. It is: in print an aside
 takes the em dash (—, unspaced, in American use) or a spaced en dash
 ( – , in British use), and the hyphen (-) joins words only. The samples
-mix all three (" — ", "—", " - "). On the site the house style's rule
-stands: no long dashes in English prose, a comma, colon or full stop
-instead (HOUSE_STYLE, "Typography").
+mix all three (" — ", "—", " - "). The editor then ruled (2026-10-20):
+the spaced en dash ( – ) is the rule, for the site's English prose as
+for the German (HOUSE_STYLE, "Typography").
 
 ## What the editor aims at
 
@@ -218,7 +218,9 @@ the evolving conditions under different periods of rule"). Where they
 approach fluff, it is in general closing reflections that would fit any
 book ("the events that played a role in shaping our modern society").
 The remedy for both is the same: one more specific fact from the
-documents in place of the summary.
+documents in place of the summary. The editor agreed on signposting
+(2026-10-20) and ruled it out, but for a topic the reader has not met for
+a long time: HOUSE_STYLE, "No signposting".
 
 **Side roads on the site.** The site has no framed aside yet: nothing in
 its layouts or styles sets a passage apart from the main text. Building
@@ -256,9 +258,11 @@ road, set visibly apart from the main text, and comes back.
 
 The warmth is in the subject, not the manner, and the balance is struck by
 facts: where a passage risks being dry or empty, it is given one more
-specific thing from the documents, not a summary or a flourish. The people
-of the estate and their simple, hard lives are kept in view, and each event
-is told by what it meant for them. The writer appears in the first person
+specific thing from the documents, not a summary or a flourish. The voice
+does not announce what it is about to say or point back at what it has
+said: a topic the reader has not met for a long while is brought back by
+restating the fact. The people of the estate and their simple, hard lives
+are kept in view, and each event is told by what it meant for them. The writer appears in the first person
 only in a preface or a close, candid about what they did not know, and
 stands outside the history itself, which is told in the third person, in
 order, carried by dates and by "despite this" and "while", never by
@@ -267,5 +271,5 @@ address the reader as "you", joke, use slang or contractions, argue with
 other historians, or pass judgement on the people of the past: a wrong is
 the court's finding, a deportation is stated as what happened. Hedging is
 light and honest ("perhaps", "likely"), metaphor is sparse and familiar (a
-spark, a red thread, a lens), and every statement can be traced to the
-document it rests on.
+spark, a red thread, a lens), an aside is set off by a spaced en dash,
+and every statement can be traced to the document it rests on.

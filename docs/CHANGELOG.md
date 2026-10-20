@@ -2105,6 +2105,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - From three samples of the editor's writing (the preface and introduction of their book on the Trąbczyn estate, and a statement of purpose), `docs/EDITORS_VOICE.md` records their voice: sentence length (counted), words, openings and closings, evidence, what they do not do, where it differs from HOUSE_STYLE, and a two-paragraph brief. The samples are not kept in the repository. No text on the site was changed; reading the site against the brief is in TODO.md, section 8.
 - Corrected and extended at the editor's word the same day: the pronunciations were a rare exception and are out of the brief; the long dashes are the word processor's typography, not the voice, so the house style's rule on dashes is no longer listed as a difference; the tone the editor aims at (a historian and editor of narrative academic history, evidence turned into a story a non-specialist can follow without loss of rigour) and their self-assessments (dry against fluff; framed "side roads") are recorded, and the brief is rewritten to them. A framed side road on the site is a new item in TODO.md.
 
+## The spaced en dash; no signposting (2026-10-20, docs only)
+
+- The editor ruled that an aside takes the spaced en dash ( – ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". Ranges keep the hyphen (8,000-9,000).
+- A new HOUSE_STYLE section, "No signposting": a sentence about the text instead of the past (announcing, pointing back, listing topics) is not written, except to bring back a topic the reader has not met for a long time (the editor's exception), and then by restating the fact, not by "as mentioned earlier" (Claude's suggestion). Navigational text (the About page's guide, "How it was prepared", lists of contents) is proposed as not signposting, for the editor to confirm. A search of the site's English found no signposts and no dashes, so no published text changes. EDITORS_VOICE.md's brief says both.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

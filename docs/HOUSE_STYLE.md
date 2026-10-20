@@ -248,6 +248,52 @@ sentence is about to say.
 NO   twelve documents, all correspondence
 ```
 
+## No signposting
+
+The editor, 2026-10-20: identify signposting and avoid it, "unless a topic
+is being reintroduced that the reader hasn't come across for a long
+time". A signpost is a sentence about the text instead of about the past:
+it announces, points back or lists topics, and tells the reader nothing.
+
+**How to spot one.** The subject of the sentence is the text, the page,
+the book, the writer or the reader, not a person, a place or an event;
+or its verb is one of presenting, examining, discussing, giving attention
+to. Take it out and no fact is lost.
+
+```
+NO   This section examines the boundary dispute between Trąbczyn and Łukom.
+NO   Close attention is given to the events of the 18th century.
+NO   The characteristics of Olęder settlements have also been examined,
+     including their legal, religious, and social structures.
+NO   As mentioned above, Chełmski ...
+NO   It is worth noting that ...
+```
+
+**What to do instead.** Begin with the first fact. A list of topics
+becomes the topics themselves, each with one thing the documents say.
+
+**The exception: a topic the reader has not met for a long time.** It is
+brought back, and it is brought back by restating the fact, not by
+pointing at an earlier page: "Stanisław Chełmski, the owner of Łukom who
+had been given possession of the Lusnia wood and its Olęder settlers in
+November 1771, ..." and not "As mentioned earlier, Chełmski ...". The
+reminder is useful to a reader who has forgotten and costs nothing to one
+who has not. (The editor's exception; the form of
+it is Claude's suggestion, 2026-10-20.)
+
+**Not signposts:** text whose task is to say where things are, such as
+the About page's guide to a document page, a holding's "How it was
+prepared", a list of contents, or a book's plan in its preface. These
+are kept short and stay where they are (Claude's suggestion,
+2026-10-20, for the editor to confirm).
+
+When this rule was made, a search of the site's English prose (the
+story, the era page, the About page, the holdings' descriptions and
+accounts of preparation, the era blurbs, the timeline, the summaries,
+the interface strings and the literature's links) found no signposts:
+23 matches, every one a false alarm ("addressed to", "the witnesses are
+examined"). The rule guards what is written next.
+
 ## English
 
 Everything into English unless there truly is no equivalent. A *Kriegs- und
@@ -277,12 +323,17 @@ is not decided.
 
 ## Typography
 
-No em dashes and no en dashes in English prose. A comma, a colon, a semicolon or
-a full stop does the work. A dash between two figures is a range and is correct:
-8,000-9,000 Rthl.
+No em dashes in English prose. Where a dash sets off an aside or an
+explanation, it is the **spaced en dash** ( – ), never the em dash (—)
+and never a hyphen ( - ) standing in for one (the editor, 2026-10-20:
+"Let's use the spaced en dash as a rule"). It is used where it helps
+the sentence; a comma, a colon, a semicolon or a full stop still does
+the work where it can. Until 2026-10-20 the rule was no dashes at all,
+so the prose written before then has none. A dash between two figures
+is a range and is correct: 8,000-9,000 Rthl.
 
-This rule is **English only**. The spaced Gedankenstrich is correct German
-typography and stays in the German pages.
+The German pages keep the spaced Gedankenstrich, which is the same mark
+( – ) and correct German typography.
 
 Straight quotes. Sentence case in headings, not Title Case.
 
