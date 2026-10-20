@@ -5,8 +5,9 @@ de Venise (1794-1797)", in *Italia, Venezia e Polonia tra illuminismo e
 romanticismo*, ed. Vittore Branca (Florence: Leo S. Olschki, 1973), pp.
 237-256. The first holding of **published literature** (the editor,
 2026-10-20: "a new literary source"). Added 2026-10-20: read from the scans in
-session, translated, summarised, claim-checked, with its page. **Not
-published**: see "Open" below.
+session, translated, summarised, claim-checked, with its page. Cleared to
+be published by the editor the same day ("Add this literature as an allowed
+source to publish"); **not yet published**: see "Open" below.
 
 Everything about how the text was made is in the docstring of
 `intake/holding.py`; the English and the summaries are in `intake/english.py`.
@@ -82,10 +83,10 @@ Everything about how the text was made is in the docstring of
 
 ## Open
 
-- **Copyright.** The article and its map are in copyright (Olschki 1973; the
-  author was alive in 1973). The site publishes its texts under CC BY 4.0 and
-  says the documents are more than two hundred years old. Publishing the
-  whole article and a translation needs the publisher's permission, or the
-  editor's decision on another form (an extract, a summary only). Put to the
-  editor (`docs/NEEDS_CONFIRMATION.md`).
+- ~~Copyright~~ **settled** (editor, 2026-10-20: "Add this literature as an
+  allowed source to publish"). The article and its map are in copyright
+  (Olschki 1973). The Licences page now carves them out of CC BY, with the
+  English and summaries of the article, credits the publisher and promises
+  a takedown on request. A later book of literature goes into that
+  paragraph too (it names this article only).
 - The editor's look at the map crop and the English.

@@ -500,14 +500,13 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   editors' note puts Wronczyn in the district of Poznań; Przybysław is only a man's name in these entries and is not tagged
   (`units/kdw/notes.md`, "Rulings taken").
 
-- **Pachoński 1973** (added 2026-10-20, not published): the whole article
-  (Olschki, Florence, 1973), its map and an English translation of it. Unlike
-  the documents, it is in copyright: the author was alive in 1973, and the
-  book says "Copyright 1973 Leo S. Olschki Editore". The site puts its texts
-  under CC BY 4.0 and says the documents are more than two hundred years old;
-  neither holds for this article. Before it is published: the publisher's
-  permission, or the editor's choice of another form (the footnote and a
-  summary only), and a sentence on the Licences page. Decided in session, not
+- ~~**Pachoński 1973**: copyright~~ **Settled (editor, 2026-10-20):** "Add
+  this literature as an allowed source to publish." The whole article
+  (Olschki, Florence, 1973), its map and an English translation of it are
+  cleared to be published. The Licences page (`site/rights.md`,
+  `site/de/rechte.md`) now says the article, its map, and the edition's
+  English and summaries of it are outside CC BY, credited to the publisher,
+  and will be taken down if the publisher asks. Decided in session, not
   asked: era `hohenlohe` (its subject's years, beside Nr. 1414); dated 1973;
   no estate; a new repository `published` credited to the publisher
   (`units/pachonski1973/notes.md`).

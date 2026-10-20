@@ -117,8 +117,9 @@ so check them.
   text with footnotes and the map as the only image, English and summaries
   in session. Its note 10 names "Antoni Prusiński de Nieszczewice" (the
   Starost). **Literature's dates never count on the home page, the timeline,
-  the eras' spans or people's years** (editor). Open: copyright (the article
-  is Olschki's; NEEDS_CONFIRMATION) and the editor's word to publish. The
+  the eras' spans or people's years** (editor). Copyright cleared by the
+  editor ("an allowed source to publish"): the Licences page puts the
+  article outside CC BY, credited to Olschki. Open: the word to publish. The
   edition has 614 documents in 46 holdings. Read
   `units/pachonski1973/notes.md` first.
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and

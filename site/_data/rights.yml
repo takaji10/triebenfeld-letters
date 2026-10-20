@@ -5,8 +5,8 @@
 # both together.
 holder: takaji10
 year: 2026
-updated_en: 2 October 2026
-updated_de: 2. Oktober 2026
+updated_en: 20 October 2026
+updated_de: 20. Oktober 2026
 
 # The contact address, stored reversed and in two halves so that it never
 # appears whole in the page source. _includes/email.html puts it together in
@@ -54,7 +54,9 @@ archives:
     url: "https://www.bkpan.poznan.pl/"
     credit: "PAN Biblioteka Kórnicka"
   # Published literature (Pachoński 1973, 2026-10-20). Not an archive: the
-  # article and its map are the publisher's copyright, credited to it.
+  # article and its map are the publisher's copyright, credited to it. The
+  # editor cleared it to be published (2026-10-20); the Licences page says
+  # it is outside CC BY.
   - slug: published
     name_en: "Published works (credited to their publishers)"
     name_de: "Veröffentlichte Werke (mit Nachweis ihrer Verlage)"

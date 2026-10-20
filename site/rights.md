@@ -30,6 +30,16 @@ The documents are more than two hundred years old, and their own words belong
 to no one. The licence covers what this edition adds: the reading of the
 manuscripts, the translation and the commentary.
 
+**Published literature is the exception.** The edition also gives one modern
+study in full: Jan Pachoński's article of 1973 on the Polish emigrés at Venice
+([Pachoński 1973]({{ '/sources/pachonski1973/' | relative_url }})), which names
+Antoni Prusimski among them. Its text and its map are the copyright of their
+publisher, Leo S. Olschki, Florence. They, and the edition's English
+translation and summaries of the article, are **not** covered by the CC BY
+licence. They are reproduced for research, with the publisher credited below
+under "Published works"; anyone who wants to reuse them should ask the
+publisher. If the publisher asks for them to be taken down, that will be done.
+
 The English translations were made by an AI model
 ([About the edition]({{ '/reading-this-edition/' | relative_url }})).
 Quote the original language for anything that matters.

@@ -1022,7 +1022,13 @@ Where the rest is:
 - **A modern book is in copyright.** The site's licence page says the
   documents are over two hundred years old and puts the texts under CC BY.
   Say so before building a whole article for publication, and record it
-  under "Before the site is shared widely" in NEEDS_CONFIRMATION.
+  under "Before the site is shared widely" in NEEDS_CONFIRMATION. Once the
+  editor clears it (Pachoński 1973, 2026-10-20), the Licences page
+  (`site/rights.md`, `site/de/rechte.md`, "Reusing the text") must carve it
+  out of CC BY: its text, map, and the edition's English and summaries of
+  it, credited to the publisher, with a takedown promise. The paragraph
+  names that article only: add a new work to it, and bump `updated_en/de`
+  in `site/_data/rights.yml`.
 - **Printed pages with footnotes, transcribed by paragraph.** The line-break
   pass pairs a "¬" with the next line *on the same page*, which is the first
   footnote. Give a word broken over the page end whole on the page where it

@@ -31,6 +31,18 @@ Die Dokumente sind über zweihundert Jahre alt, ihr Wortlaut gehört niemandem.
 Die Lizenz gilt für das, was diese Edition hinzufügt: die Lesung der
 Handschriften, die Übersetzung und den Kommentar.
 
+**Ausgenommen ist die veröffentlichte Literatur.** Die Edition gibt auch eine
+moderne Studie vollständig wieder: Jan Pachońskis Aufsatz von 1973 über die
+polnischen Emigranten in Venedig
+([Pachoński 1973]({{ '/de/quellen/pachonski1973/' | relative_url }})), der
+Antoni Prusimski unter ihnen nennt. Sein Text und seine Karte sind
+urheberrechtlich geschützt; die Rechte liegen beim Verlag Leo S. Olschki,
+Florenz. Sie fallen, ebenso wie die englische Übersetzung und die
+Zusammenfassungen des Aufsatzes in dieser Edition, **nicht** unter die Lizenz
+CC BY. Sie werden zu Forschungszwecken wiedergegeben, mit Nachweis des Verlags
+unten unter „Veröffentlichte Werke“; wer sie weiterverwenden möchte, wendet
+sich an den Verlag. Verlangt der Verlag ihre Entfernung, so geschieht das.
+
 Die englischen Übersetzungen wurden von einem KI-Modell angefertigt
 ([Über die Edition]({{ '/de/ueber-diese-edition/' | relative_url }})). Zitieren
 Sie für alles, worauf es ankommt, den Text in der Originalsprache.

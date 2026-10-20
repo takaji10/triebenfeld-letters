@@ -566,8 +566,7 @@ Details: `units/pachonski1973/notes.md`.
 
 - [x] Read, translated, summarised, holding page, people indexed
       (2026-10-20).
-- [ ] **You: copyright.** The article is in copyright (Olschki 1973). Ask
-      the publisher, or choose another form, before it is published
-      (NEEDS_CONFIRMATION, "Before the site is shared widely").
+- [x] **You: copyright.** Cleared to be published (you, 2026-10-20); the
+      Licences page says it is outside CC BY.
 - [ ] **You: a look** at the map's crop and the English, and the word to
       publish.

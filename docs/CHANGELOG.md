@@ -2023,6 +2023,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - People: Jan Henryk Dąbrowski added; "Simon" and "Poniatowski" kept out of the article. A sentence in the Hohenlohe essay and in Prusimski's biography; the edition guide names the article beside the 613 documents.
 - A fix: the summary writer left a blank line before a holding that sorts last in the summary files.
 - Not published: the article is in copyright (NEEDS_CONFIRMATION).
+- Cleared by the editor the same day ("Add this literature as an allowed source to publish"). The Licences page, in both languages, now says the article, its map and the edition's English and summaries of it are outside CC BY, credited to Olschki, and will be taken down at the publisher's request.
 
 ## Deliverables produced
 
