@@ -1,0 +1,44 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied.
+slug: feuerbraende1807
+visible: true
+kind: journal
+title: "Neue Feuerbrände. Marginalien zu der Schrift: Vertraute Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II. Erster Band, erstes bis drittes Heft"
+title_en: "New Firebrands. Marginalia on the Tract: Confidential Letters on the Internal Affairs of the Prussian Court since the Death of Frederick II. First volume, parts 1 to 3"
+cite: "Neue Feuerbrände (1807)"
+author: "[Friedrich von Cölln]"
+author_sort: "[Cölln, Friedrich von]"
+published: "Amsterdam and Cölln: Peter Hammer, 1807"
+year: 1807
+language: de
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+  # Each part (Heft) numbers its pages from 1 again: a passage is cited by
+  # part and page, as the Materialien cites it ("Neue Feuerbrände III. 133").
+  parts: true
+account_en: >-
+  A journal in occasional parts, published in 1807 under a false imprint by
+  the Prussian official Friedrich von Cölln after Prussia's defeat at Jena
+  and Auerstedt; its pieces attack the Prussian court and army of the years
+  before. The first volume, parts 1 to 3, is here. Part 2 printed the "black
+  register" of the estates given away in South Prussia. In part 3 (pages 129
+  to 134) Cölln declared that he had not seen part 2 before it was printed,
+  called the register a mixture of truth and lies, and corrected six of its
+  entries, the last of them Triebenfeld's. The Materialien of 1861 says
+  that Cölln printed the register himself, under the mask of a third
+  person. Cölln was a partisan of Minister Hoym and an enemy of Held; what
+  the journal says of either side is a party's word.
+account_de: >-
+  Ein Journal in zwanglosen Heften, 1807 nach der Niederlage von Jena und
+  Auerstedt unter falschem Druckort von dem preußischen Beamten Friedrich
+  von Cölln herausgegeben; seine Beiträge greifen Hof und Armee der
+  vorangegangenen Jahre an. Hier liegt der erste Band vor, Heft 1 bis 3.
+  Heft 2 druckte das „schwarze Register“ der in Südpreußen verschenkten
+  Güter. In Heft 3 (Seiten 129 bis 134) erklärte Cölln, er habe Heft 2 vor
+  dem Druck nicht gesehen, nannte das Register ein Gemisch aus Wahrheit und
+  Lügen und berichtigte sechs seiner Einträge, zuletzt den über Triebenfeld.
+  Die Materialien von 1861 sagen, Cölln habe das Register selbst gedruckt,
+  unter der Maske eines dritten Einsenders. Cölln war ein Parteigänger des
+  Ministers Hoym und ein Gegner Helds; was das Journal über beide Seiten
+  sagt, ist Parteiwort.

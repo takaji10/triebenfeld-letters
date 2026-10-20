@@ -113,6 +113,17 @@ Where the rest is:
   money"). Translate again only where the sense of a passage changes.
 - **Publish only at their word.** "Publish" and "update the website" mean
   push `main`.
+- **Writing the editor gives as a sample is for style only** (2026-10-20).
+  They gave three samples of their writing, among them the preface and
+  introduction of their own book on the estate, so that their voice could
+  be analysed (`docs/EDITORS_VOICE.md`). Claude then set a sentence of the
+  book against the documents and offered the difference as a point to
+  rule on. The editor: "Please don't incorporate the sample text into the
+  understanding of the site. Those were just samples and they should only
+  be used for analysing my writing style." What a sample says about the
+  estate, its people or its dates is not a source, is not checked against
+  the documents, and does not go into NEEDS_CONFIRMATION, the story, a
+  person's entry or anything else on the site.
 
 ## Reading and correcting the text
 
@@ -524,9 +535,10 @@ Where the rest is:
   summaries and brought back one for a document that no longer exists.
   Change the entry in `site/_data/summaries.yml` and `summaries_de.yml`
   directly, and the cache file too.
-- **`scan_rename_map.json` and `scan_decisions.json` are CRLF and unsorted.**
+- **`scan_rename_map.json` and `scan_decisions.json` are unsorted.**
   A script that loads and dumps them rewrites every line. Replace the name
-  in place as text.
+  in place as text. (They were CRLF until 2026-10-19; now LF like every
+  text file, "Line ends" below.)
 - **The page of changes is the editor's working copy.** They read it once
   and work from it afterwards. Whatever is added later carries `new:` in the
   holding's `changes.yml` and is marked on the page; an entry that no longer
@@ -815,6 +827,17 @@ Where the rest is:
   `reference/people.yml`; an owner's dates also into the era's `ownership`
   and blurb (`reference/eras.yml`), the timeline note (`i18n.yml`) and the
   story's era heading.
+- **Moving documents to another era, or making two eras one** (2026-10-20,
+  the liquidation into Włodzimierz Miączyński's years). The era is set in
+  a holding's `unit.yml` (`era:`) and per document in its `rulings.yml`
+  (`documents: era:`); `grep` both for the old slug. Then
+  `build_db.py --unit <slug>` for each holding changed, `merge_corpus.py`,
+  `build_dataset.py`, `build_site_data.py`: `build_site_data.py` alone
+  still counts the old eras, since it reads the era from the corpus. By
+  hand: `reference/eras.yml`, the band in `site/_includes/timeline.html`
+  and its note in `i18n.yml` (both languages), and the era's section of
+  the story page in both languages (heading, count, span).
+  `site/_data/eras.yml` gives the new count to copy.
 - **A notebook in three languages, divided by content** (APP 53/968/0/-/716,
   2026-10-14; the editor chose "by content" over one document). A page that
   ends one document and starts the next stands under both (`DOCS` in
@@ -1010,92 +1033,34 @@ Where the rest is:
   "numeral missing", and the German termbase catches Latin words
   ("Dominium", "Johannis"). Read them, and say in the report that they were.
 
-- **A holding of published literature** (Pachoński 1973, 2026-10-20; the
-  editor: "a new literary source"). A modern article about the sources is a
-  holding with one document, `kind: literature` in `unit.yml`. **Its date is
-  kept off the home page's span, the timeline's yearly counts, the eras'
-  spans and people's "documented" years** (the editor: "The home page and
-  timeline should not be affected by the dates of literary sources - reserve
-  this information for primary source documents"); `build_site_data.LITERATURE`
-  and `primary()` do it. It adds no timeline event of its own. Procedure in
-  `docs/NEW_UNIT.md`, "A holding of published literature".
-- **A modern book is in copyright.** The site's licence page says the
-  documents are over two hundred years old and puts the texts under CC BY.
-  Say so before building a whole article for publication, and record it
-  under "Before the site is shared widely" in NEEDS_CONFIRMATION. Once the
-  editor clears it (Pachoński 1973, 2026-10-20), the Licences page
-  (`site/rights.md`, `site/de/rechte.md`, "Reusing the text") must carve it
-  out of CC BY: its text, map, and the edition's English and summaries of
-  it, credited to the publisher, with a takedown promise. The paragraph
-  names that article only: add a new work to it, and bump `updated_en/de`
-  in `site/_data/rights.yml`.
-- **Printed pages with footnotes, transcribed by paragraph.** The line-break
-  pass pairs a "¬" with the next line *on the same page*, which is the first
-  footnote. Give a word broken over the page end whole on the page where it
-  begins, and a note the print runs onto the next page whole under its mark;
-  list what was moved in the holding's script. Write the marks as the raised
-  figures of the print (¹, ²) and set the notes apart with `note_start` in
-  `footnotes.yml`; nothing then needs raising.
-- **`check_unit_text.py` holds every figure in a cited paragraph to the
-  document**: a book's page numbers and its conference dates are not in the
-  article. Put the book's particulars in a paragraph marked
-  `<!-- context -->` without a citation.
-- **A new person whose surname the name list already has** (Jan Henryk
-  Dąbrowski, 2026-10-20): an entry matching the bare "Dąbrowski" took the
-  name out of the list everywhere, and the lessee Dąbrowski of Oe 1 Bü 9454,
-  letter 136, lost his index entry. Anchor the new man's pattern to his
-  context ("(?<=H\. )Dąbrowski") and shut the list's name out of his
-  document with `seed_not_in`; then look in `git status` for other holdings'
-  documents that changed.
-- **Glossary entries now take `not_in`** (a list of document uids), as
-  people and places do: "J. H. Dąbrowski" is not Herr, the dismemberment of
-  Poland is not an estate's. Read the holding's rows in
-  `review/glossary_matches.csv` after the first build of any new language.
+- **A work about the sources is literature, not a holding** (the editor,
+  2026-10-20: "Literature definitely has its own page! Don't touch the
+  Sources page, that's for primary-source material from archives"). When
+  the editor gives a "literary source", it goes into `literature/<slug>/`
+  (docs/LITERATURE_PLAN.md), never `units/`. A desktop session that had not
+  fetched GitHub built Pachoński 1973 and Mączak 1968 as holdings; they were
+  moved the same day (section "The literature", below). **Fetch and compare
+  with `origin/main` at the start of a desktop session** (`git fetch`,
+  `git rev-list --left-right --count main...origin/main`): the cloud sessions
+  may have built what the editor is about to ask for.
+- **Glossary entries take `not_in`** (a list of document uids), as people
+  and places do (`glossary_build.py`).
 - **`courtbook.write_summaries` left a blank line, and no final newline,**
   when the holding's slug sorted after every other in the summary files.
   Fixed; read `git diff` of `site/_data/summaries*.yml` after writing
   summaries for a new holding.
-- **Reading clean print from 600 dpi scans**: five overlapping bands per page
-  at 1700 pixels wide were enough to read every word; enlarge only the words
-  that look like slips, and keep the print's slips ("da grade",
-  "contre-cadidat").
-- **"Nowa Wieś" is a common place name** (the editor, 2026-10-20, on Mączak
-  1968): before any link or index match names a Nowa Wieś as the Trąbczyn
-  estate's, make sure the document means that village (Konin Gr.136
-  inspects it with Trąbczyn, Osiny and Łazy). The place index matches the
-  name only where it is certain (`reference/places.yml`, `nowawies-trabczyn`).
-  The same care for any common name (Łazy, Osiny, Wola).
-- **A PDF with a text layer** (Mączak 1968, RCIN): the OCR is not the text.
-  Render the pages at 300 dpi, cut them in three bands, read every page, and
-  then compare the reading word by word with the OCR (`difflib` on the
-  words): it catches a dropped line without trusting the OCR's spelling. Sum
-  a table's columns where it prints totals. In small type at about 150 dpi
-  the stroke of "ł" can vanish: give the Polish names as the body text prints
-  them, and say so in the holding's script.
-- **A document printed in English** has `language: "en"` in rulings.yml: its
-  page shows "Printed in English, so not translated" in place of the English
-  tab (letter.html), a remembered English view falls back to the reading text
-  there (letter.js), and the holding's status is `transcribed`, which also
-  keeps it out of the glossary gate. Its English trips the German glossary
-  patterns ("Ruthe" in Ruthenia, "H." of initials, "gr", "pp."): read the
-  holding's rows in `review/glossary_matches.csv` and use `not_in`.
-- **A table printed inside running text** (Mączak 1968): one row to a line,
-  "| cell | cell |", "<" for a cell the print sets across the one before.
-  The transcription view keeps the rows as lines (verify_site reads them);
-  the reading view draws them as a table (`build_site_data.text_table_html`;
-  the head is the rows before the first one with a filled first cell and a
-  figure).
-- **Each work of literature names its publisher**: `credit:` in its
-  `unit.yml` is printed on the Licences page in place of the repository's
-  credit (`published` covers every publisher).
+- **"Nowa Wieś" is a common place name** (the editor, 2026-10-20): before any
+  link or index match names a Nowa Wieś as the Trąbczyn estate's, make sure
+  the text means that village (Konin Gr.136 inspects it with Trąbczyn,
+  Osiny and Łazy). The place index matches the name only where it is certain
+  (`reference/places.yml`, `nowawies-trabczyn`). The same care for any
+  common name (Łazy, Osiny, Wola).
 - **A new holding needs `regenerate.py --unit <slug>` twice after
   `relabel_scans.py --apply`**: its database step runs before the scan step
   refreshes `page_scan_map.csv`, so the first run keeps the unlabelled image
-  names and `verify_site.py` fails on broken `/assets/scans/` links. Check
-  `corpus/units/<slug>/pages.csv` for the `-L1_` names. Make `review/<slug>/`
-  before the first run (the line-break report fails without it).
-- **`regenerate.py` has no `--help`**: any argument but `--unit` and `--site`
-  is ignored and it regenerates every holding. Read its docstring instead.
+  names and `verify_site.py` fails on broken `/assets/scans/` links. Make
+  `review/<slug>/` before the first run (the line-break report fails
+  without it).
 
 ## Merging a cloud branch on the desktop
 
@@ -1141,6 +1106,214 @@ cloud branches").
 - The session's scratch folder can be withdrawn in the middle of a sitting.
   One-shot scripts worth a second look go into `scratch/` at the project
   root, which git ignores.
+- **PyYAML missing on the desktop Python** (2026-10-19): `import yaml`
+  failed under `C:\Program Files\Python312`, because APPDATA is empty in
+  this shell and Python looks for the user's packages in the wrong place.
+  `python -m pip install --user pyyaml` mended it.
+- **archive.org through curl** needs `--ssl-no-revoke` on this machine
+  (the certificate check fails otherwise).
+- **Building the site on the desktop** (2026-10-19): Ruby is scoop's
+  (4.0), and the gems were not installed. `bundle install` failed the
+  certificate check against rubygems.org (the network re-signs TLS, as
+  with curl above). Mended without turning the check off: the Windows
+  root and CA stores exported to `scratch/windows_roots.pem`, then
+  `SSL_CERT_FILE=../scratch/windows_roots.pem bundle install` in `site/`.
+  Builds then run with `bundle exec jekyll build`; the warnings "already
+  initialized constant Gem::Platform" are harmless. A build takes one to
+  four minutes. If `scratch/` was cleared, export the stores again
+  (PowerShell, `Cert:\LocalMachine\Root` and `CA`, as Base64 PEM).
+- **The browser tools can hang on the desktop** (2026-10-19: opening and
+  screenshotting a local page were cut off twice). Serve `site/_site` with
+  `python -m http.server` for the editor to look at, and check the built
+  HTML from the shell (counts of sections, leftover markup) rather than
+  waiting on a screenshot.
+- The heredoc trap with backslashes (above) was hit again on 2026-10-19,
+  in a patch to `literature_site.py`. There is no small exception.
+
+## The literature (2026-10-19)
+
+- **The literature page lists the works by author** (the editor,
+  2026-10-20): the author surname first (`author_sort` in `work.yml`,
+  "Breyer, Albert"; brackets for an attributed author; empty for an
+  anonymous work, listed by its title as "Anonymous"), then the title as
+  printed with the English title in italics under it, then where it was
+  published, then its language. No separate "Author" line and no short
+  citation in the list (the work's own page keeps them). A new work needs
+  `author_sort`.
+- **Pictures in a work** (2026-10-20): `figures:` in `work.yml` maps a page
+  key to a file in `site/assets/literature/<slug>/`; the page's picture
+  stands above its text. Pachoński's map, Mączak's map and chart, and the
+  80 photograph pages of Szwiec's catalogue.
+- **A work printed in English** (`language: en`, Mączak 1968) has no
+  `english.md`; its page shows the one text without the buttons.
+- **Tables with cells across two columns**: write them in `original.md` as
+  one-line HTML tables with `colspan` (kramdown has none).
+- **A PDF printed from Word has a usable text layer** (Szwiec 2009); a PDF of
+  scans has OCR, which is not the text (Mączak 1968). For the first, a
+  script that rejoins the justified lines and tells notes from captions by
+  their raised marks (`pipeline/literature/szwiec_pdf.py`), checked by
+  counting the words against the PDF's own text. For the second, read every
+  page from images at 300 dpi and compare the reading with the OCR word by
+  word (it catches a dropped line). In small type at about 150 dpi the
+  stroke of "ł" can vanish.
+- **A new work's index hits can be taken by old rulings**: a ruling is per
+  name and spelling across every work, so "Venise: no" (a book title in the
+  PSB) silently dropped 69 Venices of Pachoński 1973. After
+  `literature_index.py --sheet`, read the new works' hits under rulings
+  that say "no", not only those with none.
+- **A modern work is in copyright**: say so to the editor before it is
+  published; the Licences page (`site/rights.md`, `site/de/rechte.md`) says
+  the modern works on the Literature page are outside CC BY.
+- **Heredocs eat backslashes** (again, three times on 2026-10-20): a Python
+  edit with a backslash inside a quoted heredoc (a regex escape, a group
+  reference, an escaped quote) changed the code it wrote. Use the Edit or
+  Write tool for code with backslashes.
+
+- **The repository is public: committing a file publishes it**, whether or
+  not the site shows it. The editor chose to keep Seidel's book (2018,
+  under copyright) in it for questions, with no page on the site
+  (`visible: false` in its `work.yml`). Every page of the site that lists
+  the literature must skip such a work.
+- **Write the account of a book from the book, not from memory.** The
+  first accounts of the six works, written from general knowledge, had
+  wrong pages, a wrong subject for Held's book and claims about Guradze
+  that the text does not bear out; each was put right by reading the
+  pages. A page number in an account is looked up in the passage files.
+- **Triebenfeld's entry in the black register is not about Trąbczyn**
+  (Materialien pp. 162-164; Piotrow, Lasky and others). A question about
+  the value of his estates must say which estates it means.
+- The editor's file names are not to be trusted for the language or the
+  year: "(French)" of Paciorkowski is the Latin, "1918" of Guradze is
+  1898. `blackregister.txt` in their folder "Books" is pages 140 to 171 of
+  the Materialien and was not brought in twice.
+- **The Neue Feuerbrände numbers its pages from 1 in each part**: its
+  passages are keyed `<part>-<page>` (`3-133`), and the build script finds
+  a new part where the numbers fall.
+- The English of these books is Claude's and uneven in places (Guradze's
+  is weaker than the German): an answer that rests on a passage is read in
+  the original.
+- **The site renders the books with kramdown, not GitHub Markdown**, and
+  that matters for text it was not written for: any line with a "|" in it
+  is taken for a table row ("**16|38.**" in the Materialien became a
+  table), single line breaks vanish (the German lists ran together), a
+  name printed as asterisks ("v. ****d") becomes emphasis, a four-space
+  indent becomes code, and Jekyll cuts an "excerpt" inside a `{% raw %}`
+  block and warns. `literature_site.py` deals with each (its docstring);
+  a new work with a new kind of markup is checked in the built page:
+  `<pre>`, `<table>` against the source's table lines, leftover `[^`.
+- **The edition's index matches wrongly in books** (the index over the
+  literature, 2026-10-19; LITERATURE_PLAN.md, section 8): of 2,690 hits,
+  182 were wrong. The patterns were made for letters about the estates, and
+  books use the same names for other things: words ("Sommer", "Kuh",
+  "Gärtner", "Götzen", "Löwin" the lioness), measures ("Berliner
+  Scheffel"), regiments ("Grevenitz", "Zastrow"), and other men of the name
+  (Danckelmann, Raumer, Hoym's cousin). So every pair of name and spelling
+  is ruled in `literature/index.yml` after reading its hits, and a
+  ruling's exceptions name the passage. Read the person's description in
+  the book before saying who he is: a first draft called the Regierungsrath
+  Grevenitz "the general".
+- **An identification put to the editor carries its evidence** (2026-10-19).
+  They do not read German and cannot look a man up in the books, so "taken
+  to be the edition's, on the strength of the name, the time and the
+  place" gives them nothing to judge. Write what the book says, what the
+  edition's document says (with its number), and what joins them: for
+  Stenger, that Karge and Unruhstadt are one town. They left Stenger open
+  at first, not knowing the Karge connection, and accepted him once it was
+  written out plainly.
+- **The books spell places in ways the edition never met**, and the
+  edition's patterns miss them: Trąbczyn had no hit at all until
+  "Trombczyn" and "Trobozyn" were added under `patterns:` in
+  `literature/index.yml`. Look for the estates of focus by hand in each
+  new work (the black register is the place to start).
+- **Traps in `literature_index.py`**: some of the edition's patterns are
+  `entities._Rx` wrappers with no `fullmatch` (the compiled pattern is
+  `.rx`); a YAML anchor that shares one exceptions list between two
+  spellings makes every exception stale for one of them (the script's
+  `--check` now fails on an exception naming a passage without the hit, so
+  give each spelling its own list); and `literature_site` wraps
+  `sys.stdout` when imported, so a script importing it reconfigures stdout
+  after the imports, not before.
+- **Jekyll 3 cannot take `a[b]` in an include's parameters**
+  (`{% include x.html works=site.data.m.person[p.slug] %}` stops the build
+  with "Invalid syntax for include tag"): assign it to a variable first.
+  And `assets/doc-list.js` takes every `details.doclist` on the page for a
+  list of documents, so another closed list on /people/ or /places/ needs
+  its own class (`litlist`).
+- **A hand-made link says what each side says, and every figure in it is
+  read in both** (the links of the black register, 2026-10-19;
+  `literature/links.yml`). Its sentence is shown under the passage and
+  beside the document, so it names the book, the document and what each
+  says: "the register says", never "it was". Where they disagree, the
+  sentence says so and does not choose: the register has Triebenfeld sell
+  his estates to Prince George for 400,000, his own letter of July 1800
+  280,000. A name in a letter taken to be a man of the book is Claude's
+  identification until the editor rules: the comment at the link says so
+  and NEEDS_CONFIRMATION lists it. **Look at the scan first**: "Gen.
+  Ruchts" in letter 103, taken for Rüchel, was a misreading of "Ruchels"
+  (the editor, 2026-10-19), which the site's scan showed at once; the
+  question need not have gone to the editor as an identification.
+  **Search the corpus before writing "the edition has no document"**: the
+  link `breyer1935gaue-hollanders` said so of Breyer's year 1746, and the
+  boundary decree of 1775 (Konin Gr.145, p. 76: "the rights granted them in
+  1746") and the summons of 1860 (53/968/0/-/783, which names the grantors)
+  both cite the privilege (found 2026-10-20; the editor: Gr.145 is the
+  primary source for it). A search of `corpus/documents/*.json` for the year or the
+  name takes a second. The rule this broke is the editor's of 2026-10-20,
+  HOUSE_STYLE, "The documents first".
+- **`english_forms.py --apply` rewrites every page and every summary**,
+  not only the one a new line of `english_corrections.yml` is for. On
+  2026-10-19 it also re-wrapped 23 summaries in `site/_data/summaries.yml`
+  and grouped article numbers as if they were sums ("articles 1,302 and
+  2,800", APŁ 39/98/0/-/6603, doc. 3). After running it, read `git diff`
+  and put back (`git checkout --`) every file the correction was not for.
+- **A correction to the English does not reach the name pairs.** The
+  `names:` list of a page in `site/_data/translations/<pad>.yml` (German
+  form and English form of each name) is matched against the German by
+  check_translations.py; when a name in the German is corrected, change
+  its pair too, in the same script as the text.
+- **`yaml.safe_dump` writes an anchor (`&id001`) for a list used twice**
+  (one link's passages written under each of its documents); copy the list
+  first, so the site's data file has no aliases.
+- **The browser preview may not be available to Claude**: in this sitting
+  every browser action's permission request was cancelled. Check the built
+  page in `site/_site/` with Python instead (`PYTHONIOENCODING=utf-8`, the
+  shell's own encoding cannot print "ą"), and tell the editor that is what
+  was done rather than waiting on the browser.
+- **A planned link is checked against the document before it is written**
+  (the second set, 2026-10-19). Three of the links planned in the works'
+  notes from memory did not hold when the documents were read. The Łazińsk
+  tables of 1868 were to show the estate's owner, and they never name him.
+  Breyer was to have named the Drzewce forest, and it is the lease that
+  names it. The lease's paragraphs were written down as "I to XV" from
+  memory; the copy has I to XIX. The same reading found the best thing in
+  the set: the dispatch from Venice of December 1796 already mourns
+  Prusimski's wife, whom Żychliński has die in 1797. So read the document
+  for every link, and look up every paragraph number and spelling in the
+  file before writing it in a note.
+- **The edition's form of a place goes in the sentence, the document's in
+  brackets** ("the woods near Drzewce (the lease's 'Drzewiec')"). One link
+  had both spellings, and a German adjective made from one of them.
+- **Brought in from a PDF**:
+  - UpstreamVistula reissues: `pipeline/literature/upstream_pdf.py`, whose
+    docstring lists every rule. Their articles of 1935 set chapter headings
+    in plain 12-point type, not bold; a raised 2 after "km" is the square,
+    not a footnote; pages printed on their side are drawn upright before
+    they are read.
+  - Photographed pages: a text layer can be useless (Żychliński, vol. 13).
+    Render the pages with PyMuPDF (PIL is not installed here), cut them into
+    strips, read them, and write the text by hand.
+  - In a work's Markdown, spaced type is given as bold and italic as italic.
+    A numbered paragraph at a line start ("1. Hr. Aleksander") is written
+    "1\.", or kramdown renumbers it as a list. Footnotes `[^n]` restart on
+    every page, as the book has them.
+- **The mentions sheet shows the first place a spelling stands in the line,
+  not necessarily the hit**: when a hit's context looks wrong, find the hit
+  by its offset. And an edition pattern can match inside a longer Polish
+  word, because ł and other letters fall outside the `à-ÿ` range a pattern
+  uses for a word's edge; read such hits before ruling them.
+- **The Bash heredoc trap again** (2026-10-19): an append of English prose
+  to `links.yml` failed on an apostrophe and wrote nothing. Append with the
+  Edit tool, anchored on the file's last lines.
 
 ## The English, the summaries and the claim check
 
@@ -1224,14 +1397,6 @@ cloud branches").
   `--unit <slug>` for one, then `--site` once at the end.
 - **After any full rebuild read `git status`** for files of holdings that were
   not touched.
-- **Building on Linux rewrites the desktop's CRLF files as LF.** In the cloud,
-  `build_db.py`, `merge_corpus.py`, `build_dataset.py` and
-  `build_site_data.py` rewrote 180 generated files whose committed form is
-  CRLF (`letters.json`, `corpus/text/`, `corpus/documents/`), so `git diff`
-  showed 68,000 changed lines for 500 real ones. Compare each changed file
-  with `git show HEAD:<file>` ignoring carriage returns: restore it if equal,
-  otherwise rewrite it with the line endings HEAD had. `git diff --stat` and
-  `git diff --ignore-cr-at-eol --stat` must then agree.
 - **Scripts with backslashes or apostrophes are written to a file and then
   run** (broken four more times on 2026-10-06, each time by a regex in a
   heredoc: there is no exception for "a short one"). In the desktop's Bash tool a heredoc turns `\\[` into `\[` and `\b`
@@ -1240,17 +1405,46 @@ cloud branches").
 - **A one-shot edit script asserts each replacement exactly once.** Commit
   before running it, so a partial failure can be undone. Never run one again
   after it has partly applied: it duplicated summary lines once.
-- **Line endings.** `git ls-files --eol <file>` tells the truth; `grep` for a
-  carriage return does not in Git Bash. The files differ, so check each one
-  before editing: the changelog, EDITORIAL_RULES, NEW_UNIT, DATA_MODEL, the
-  era plan, the site essays, the edition guide and TODO are CRLF (TODO was
-  listed as LF here until 2026-10-15, when a rewrite turned all 471 lines
-  to LF); this file, `CLAUDE.md`, NEEDS_CONFIRMATION, HOUSE_STYLE and the
-  holdings' `about` files are LF. Run `file` on a file before writing it
-  whole, and never read it with Python's text mode and write it back.
-- **`sed -i` in Git Bash writes the whole file back with LF.** On
-  2026-10-14 it turned a one-number change in the two edition guides into
-  400-line diffs. In a CRLF file, replace in bytes with Python.
+- **Line ends: every text file is LF, everywhere (editor, 2026-10-19).**
+  Until then the repository held both kinds: some files were committed with
+  CRLF, others with LF, and Git for Windows (`core.autocrlf=true` in its
+  system config) turned LF into CRLF on the desktop only. So a script that
+  rewrote a file whole, a build on Linux, `sed -i`, or Python's `csv`
+  module turned hundreds of unchanged lines into a diff, and every session
+  had to check each file before editing it. The fix:
+  - `.gitattributes` says `* text=auto eol=lf`: Git stores and checks out
+    every text file with LF, on Windows and Linux, whatever `core.autocrlf`
+    says. Commit 6ef4dcce converted the 2438 files that were CRLF or mixed,
+    and nothing else; it is listed in `.git-blame-ignore-revs` so that
+    `git blame` skips it.
+  - Before it went to `main`, everything was rebuilt on the branch (every
+    holding's `build_db.py`, the merge and site steps, Jekyll,
+    `verify_site.py`) and the 9135 generated files were hashed before and
+    after with CR LF counted as LF: none differed.
+  - `build_db.py` and `merge_corpus.py` now write LF (`newline='\n'` for
+    text and JSON, `lineterminator='\n'` for `csv`). **A new script that
+    writes a file to be committed does the same**: Python's `csv` ends rows
+    with CRLF unless told, and `open(..., 'w')` without `newline=` writes
+    CRLF on Windows. Other writers still write CRLF on the desktop; Git
+    turns it back to LF when the file is added, but `git status` may list
+    such a file as changed until then (`git add` it, or `git diff` shows
+    nothing).
+  - A file with a lone carriage return (`\r` not followed by `\n`) is taken
+    by Git for binary and escapes the rule. `reference/name_rulings.json`
+    and `units/oe1bu9454/scan_decisions.json` both ended in one; they were
+    fixed in the same commit.
+  - `git ls-files --eol <file>` tells the truth about a file's line ends
+    (`i/` the index, `w/` the disk). `grep -c $'\r$'` in Git Bash reported
+    0 for CRLF files: do not trust it.
+  - On another clone made before the change, after pulling, Git may show
+    every file as modified. `git add --renormalize .` and then `git status`
+    should show nothing; if it still does, a fresh clone settles it.
+- **`git ls-files` quotes paths with letters outside ASCII** (`Bü` comes
+  out as `"B\303\274"`), so a command fed its output fails on those files.
+  Use `git -c core.quotepath=off ls-files`.
+- **`gh` is not installed on the desktop.** To check the Pages run, read
+  `https://api.github.com/repos/takaji10/triebenfeld-letters/actions/runs?per_page=1`
+  with `curl`.
 - **Marks of doubt** are counted by hand in the edition guide. Recount from
   `corpus/index/uncertainties.json` after any change to a marker.
 - **A local build after pulling a cloud session's work** can rewrite

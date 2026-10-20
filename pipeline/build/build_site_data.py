@@ -32,17 +32,6 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 UNITS = unitlib.load_units()
-# Holdings of published literature (`kind: literature` in unit.yml; the first is
-# Pachoński's article of 1973, 2026-10-20). Their documents are documents of the
-# edition, but their dates are not dates of the story: the home page's span, the
-# timeline's yearly counts, the eras' spans and the years a person or place is
-# "documented" are reserved for the primary sources (the editor, 2026-10-20).
-LITERATURE = {u.slug for u in UNITS if (u.get('kind') or '') == 'literature'}
-
-
-def primary(r):
-    """A document of a primary source, not of a holding of literature."""
-    return r['unit'] not in LITERATURE
 
 
 _CITATIONS = {}
@@ -85,11 +74,6 @@ def footnote_html(slug, lid, text):
         if text.startswith(raw):
             spans.append((i, i + n))
             note = True
-    # A transcription that writes its marks as raised figures (¹, ²) needs nothing
-    # raised: `note_start`, a pattern for the start of a note line, only sets the
-    # notes apart (Pachoński 1973, 2026-10-20).
-    if d.get('note_start') and re.match(d['note_start'], text):
-        note = True
     out, pos = [], 0
     for a, b in sorted(spans):
         out.append(html.escape(text[pos:a]) + '<sup class="fn">' + html.escape(text[a:b]) + '</sup>')
@@ -97,56 +81,6 @@ def footnote_html(slug, lid, text):
     out.append(html.escape(text[pos:]))
     s = ''.join(out)
     return '<span class="fn-note">' + s + '</span>' if note else s
-
-
-def is_table_row(text):
-    """A row of a table printed inside running text: "| a | b |" (Mączak 1968)."""
-    s = text.strip()
-    return len(s) > 2 and s.startswith('| ') and s.endswith(' |')
-
-
-def text_table_html(rows):
-    """Rows of a table printed inside running text, as a table for the reading view.
-
-    Each row is "| a | b | c |". A cell written "<" belongs to the cell before
-    it (a figure or heading the print sets across two columns). The rows before
-    the first one whose first cell is filled and which holds a figure are the
-    head. The transcription view keeps the rows as lines, so verify_site reads
-    them back as they are.
-    """
-    grid = [[c.strip() for c in r.strip()[1:-1].split('|')] for r in rows]
-
-    def figure(c):
-        return any(ch.isdigit() for ch in c)
-    head = next((k for k, r in enumerate(grid) if r and r[0] and any(figure(c) for c in r)), 0)
-    out = ['<div class="ledger-wrap"><table class="ledger in-text">']
-    for k, r in enumerate(grid):
-        if k == 0 and head:
-            out.append('<thead>')
-        if k == head:
-            out.append(('</thead>' if head else '') + '<tbody>')
-        cells = []
-        for c in r:
-            if c == '<' and cells:
-                cells[-1][1] += 1
-            else:
-                cells.append([c, 1])
-        tag = 'th' if k < head else 'td'
-        tds = []
-        for i, (c, n) in enumerate(cells):
-            numeric = bool(re.fullmatch(r'[\d\s.,/%×—–-]+', c))
-            cls = ('grp' if n > 1 else '') if tag == 'th' else ('num' if i and numeric else 'name')
-            tds.append(f'<{tag}' + (f' colspan="{n}"' if n > 1 else '') + (f' class="{cls}"' if cls else '')
-                       + '>' + html.escape(c) + f'</{tag}>')
-        out.append('<tr>' + ''.join(tds) + '</tr>')
-    out.append('</tbody></table></div>')
-    return ''.join(out)
-
-
-def citation_kind(slug, lid):
-    """'article' for a document cited as a published article, else ''."""
-    citation_of(slug, lid)          # fills _CITATIONS
-    return str((_CITATIONS.get(slug, {}).get(str(lid)) or {}).get('kind') or '')
 
 
 def citation_of(slug, lid):
@@ -169,10 +103,6 @@ def citation_of(slug, lid):
     c = _CITATIONS[slug].get(str(lid))
     if not c:
         return None
-    # A published article (`kind: article`) is cited whole, in a sentence of its
-    # own: {kind, text, text_de, url} (Pachoński 1973, 2026-10-20).
-    if c.get('text'):
-        return str(c['text']), str(c.get('text_de') or c['text']), str(c.get('url') or '')
     page = str(c.get('page') or '')
     many = '-' in page
     en = f"{c['work']}, vol. {c['volume']}, no. {c['number']}" + (f", pp. {page.replace('-', '–')}" if many else f", p. {page}" if page else '')
@@ -581,8 +511,6 @@ def main():
         fm.append(f'uid: {yaml_str(r["uid"])}')
         fm.append(f'pad: {yaml_str(r["pad"])}')
         fm.append(f'doc_type: {yaml_str(r["doc_type"])}')
-        # A document printed in English has no translation to show (Mączak 1968).
-        fm.append(f'language: {yaml_str(r.get("language") or "")}')
         fm.append(f'seq_archival: {r["seq_archival"]}')
         fm.append(f'date_iso: {yaml_opt(r["date_iso"])}')
         fm.append(f'date_label: {yaml_str(date_label(r))}')
@@ -703,11 +631,6 @@ def main():
                     f'alt="Manuscript page {p["page"]} of letter {lid}">'
                     f'<span class="scan-cap">{html.escape(img)} '
                     f', open full size</span></a>')
-            elif citation_kind(r['unit'], lid) == 'article':
-                # A printed article: its text only (the editor, 2026-10-20), a
-                # picture only where the page is a picture (Pachoński's map).
-                body.append('<p class="muted noscan" data-i18n="noscan_article">A page of printed '
-                            'text: the edition gives its words, not a picture of the page.</p>')
             elif citation_of(r['unit'], lid):
                 # An entry of a printed edition read from its electronic text has no
                 # page image at all (the Kodeks Dyplomatyczny Wielkopolski).
@@ -736,11 +659,7 @@ def main():
                 # the same way, under its own label.
                 side = set(p.get('sideways_lines') or [])
                 office = set(p.get('office_lines') or [])
-                if p.get('by_paragraph') and citation_kind(r['unit'], lid) == 'article':
-                    body.append('<div class="sideways-note" data-i18n="by_paragraph_article">'
-                                'The printed page, one paragraph or heading to each numbered '
-                                'line; its footnotes follow at the foot.</div>')
-                elif p.get('by_paragraph') and citation_of(r['unit'], lid):
+                if p.get('by_paragraph') and citation_of(r['unit'], lid):
                     body.append('<div class="sideways-note" data-i18n="by_paragraph_printed">'
                                 'The whole entry of the printed edition, one paragraph to '
                                 'each numbered line.</div>')
@@ -777,15 +696,7 @@ def main():
                 paras = p.get('paragraphs') or [p['reading']]
                 side = set(p.get('sideways_paragraphs') or [])
                 office = set(p.get('office_paragraphs') or [])
-                _rows = []
-                for _i, _para in enumerate(paras + ['']):
-                    # The rows of a table printed in the text go out together as one table.
-                    if is_table_row(_para):
-                        _rows.append(_para)
-                        continue
-                    if _rows:
-                        body.append(text_table_html(_rows))
-                        _rows = []
+                for _i, _para in enumerate(paras):
                     if not _para.strip():
                         continue
                     _cls = ' class="runs-on"' if (_i == 0
@@ -875,10 +786,6 @@ def main():
             f.write(f'  title_de: {yaml_str((u.get("title_de") or "").strip())}\n')
             f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
             f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
-            # A work of literature names its own publisher (rights.yml's `published`
-            # covers more than one): the Licences page prints it in place of the
-            # repository's credit.
-            f.write(f'  credit: {yaml_str((u.get("credit") or "").strip())}\n')
             f.write(f'  era: {yaml_str(u.get("era") or "")}\n')
             f.write(f'  count: {n}\n')
             f.write(f'  pages: {pages}\n')
@@ -911,8 +818,7 @@ def main():
     # is only unique inside its own holding.
     url_by_uid ={r['uid']: r['permalink'] for r in recs}
     label_by_uid = {r['uid']: r['letter_id'] for r in recs}
-    # Only primary sources date a person or a place (LITERATURE, above).
-    _date_by_uid = {r['uid']: r['date_iso'] for r in recs if primary(r)}
+    _date_by_uid = {r['uid']: r['date_iso'] for r in recs}
     _pmc_by_uid = {r['uid']: r.get('_pmc') or {} for r in recs}
     _plmc_by_uid = {r['uid']: r.get('_plmc') or {} for r in recs}
 
@@ -1035,7 +941,7 @@ def main():
                 mine = [r for r in recs if (r.get('era') or '') == slug]
             else:
                 mine = [r for r in recs if slug in (r.get('themes') or [])]
-            yrs = sorted(r['date_iso'][:4] for r in mine if r.get('date_iso') and primary(r))
+            yrs = sorted(r['date_iso'][:4] for r in mine if r.get('date_iso'))
             rows.append((slug, e, mine, yrs))
         with open(os.path.join(DATA_DIR, fname), 'w', encoding='utf-8', newline='\n') as f:
             f.write('# Generated by build_site_data.py - do not hand-edit.\n')
@@ -1053,8 +959,7 @@ def main():
                     if e.get(k):
                         f.write('  %s: %s\n' % (k, yaml_str(' '.join(str(e[k]).split()))))
 
-    # The home page's span and the timeline's yearly counts: primary sources only.
-    years = Counter(r['date_iso'][:4] for r in recs if r['date_iso'] and primary(r))
+    years = Counter(r['date_iso'][:4] for r in recs if r['date_iso'])
     with open(os.path.join(DATA_DIR, 'stats.yml'), 'w', encoding='utf-8', newline='\n') as f:
         f.write('# Generated by build_site_data.py - do not hand-edit.\n')
         f.write(f'total: {len(recs)}\n')

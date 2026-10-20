@@ -50,6 +50,17 @@ MERGED = [
     # website and the verifier both read those rather than the merged array.
     ('pipeline/build/build_dataset.py', 'queryable dataset',
      'corpus/index/ and corpus/documents/ - what a research agent reads'),
+    # The literature (docs/LITERATURE_PLAN.md): books about the sources, kept
+    # apart from them, cut into pages in both languages for questions.
+    ('pipeline/literature/build_literature.py --quiet', 'literature',
+     'corpus/literature/ - each work page by page, original and English'),
+    ('pipeline/literature/literature_site.py', 'literature pages',
+     'site/_literature*/ - the visible works, original and English side by side'),
+    # Who and which estates the books name, for the "In the literature" lists
+    # on /people/ and /places/. Fails on a hit nobody has read and ruled in
+    # literature/index.yml (a new or corrected text).
+    ('pipeline/literature/literature_index.py --check', 'literature index',
+     'site/_data/literature_mentions.yml - the passages naming a person or estate'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # Each holding's description cites the documents it rests on; this holds

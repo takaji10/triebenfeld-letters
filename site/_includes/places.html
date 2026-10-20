@@ -32,6 +32,8 @@
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
     {%- endif %}
     {% include doc-list.html letters=es.letters docs=es.docs %}
+    {%- assign lit_works = site.data.literature_mentions.place[es.slug] %}
+    {% include lit-mentions.html works=lit_works %}
   </div>
 {% endfor %}
 </div>

@@ -14,6 +14,12 @@ files it points to.
   `docs/EDITORIAL_RULES.md` the transcriptions, which are never "tidied".
   No cryptic statements: every sentence says who, what, and why it matters
   (HOUSE_STYLE, "No cryptic statements").
+- **The documents first** (the editor's rule, 2026-10-20): every fact is
+  first looked for in the edition's own archival documents, before a book
+  or any other source; where they disagree, the edition keeps to the
+  document and the difference is flagged in `docs/NEEDS_CONFIRMATION.md`
+  and recorded in the source's `notes.md` (HOUSE_STYLE, "The documents
+  first").
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
 - `docs/WORKING_NOTES.md`: how the editor works, the mistakes already made
@@ -84,9 +90,10 @@ so check them.
   `.github/workflows/pages.yml`, which runs `verify_site.py` as a gate. To
   publish, fast-forward `main` to the branch and push, then confirm the
   "Build and deploy" run succeeded. Publish only when the editor says so.
-- **Line endings.** Many files are CRLF (`docs/*.md`, `site/_data/i18n.yml`,
-  `site/_layouts/*.html`, `README.md`, `browse.js`). Edit them preserving CRLF
-  and check `git diff --stat` shows only the real change.
+- **Line endings.** Every text file is LF, on the desktop and in the cloud
+  (`.gitattributes`, editor 2026-10-19). A script that writes a file to be
+  committed uses `newline='\n'` (and `lineterminator='\n'` for `csv`).
+  WORKING_NOTES, "Line ends".
 - **Not in the repository:** `review/` (generated sheets), `cache/` (model
   output, on the editor's machine), raw scans. There is no Anthropic API key
   here: paid runs (translate.py, summarise.py, read_letters.py) happen on the
@@ -110,27 +117,51 @@ so check them.
 
 ## Where things stand (2026-10-20)
 
-- **Mączak 1968** (slug `maczak1968`, added 2026-10-20, **not published**):
-  the second holding of literature, Antoni Mączak's article of 1968 in
-  English on the export of Polish grain, 1550-1650 (*Acta Poloniae Historica*
-  18, pp. 75-98), at the editor's word as background to the farming of the
-  Olęder settlers; text, notes and seven tables, the map and chart as
-  pictures; no translation (it is English); summary claim-checked. Open:
-  the editor's view of its use, the word to publish. **"Nowa Wieś" is a common name: a link
-  must be sure it is the Trąbczyn estate's** (editor). 615 documents in 47
-  holdings. Read `units/maczak1968/notes.md` first.
-- **Pachoński 1973** (slug `pachonski1973`, added 2026-10-20, **not
-  published**): the first holding of published literature (`kind:
-  literature`), Jan Pachoński's French article on the Polish emigrés at
-  Venice, 1794-1797 (Branca ed., Olschki 1973, pp. 237-256), one document,
-  text with footnotes and the map as the only image, English and summaries
-  in session. Its note 10 names "Antoni Prusiński de Nieszczewice" (the
-  Starost). **Literature's dates never count on the home page, the timeline,
-  the eras' spans or people's years** (editor). Copyright cleared by the
-  editor ("an allowed source to publish"): the Licences page puts the
-  article outside CC BY, credited to Olschki. Open: the word to publish. The
-  edition has 614 documents in 46 holdings. Read
-  `units/pachonski1973/notes.md` first.
+- **Three more works of the literature** (2026-10-20, **not published**):
+  Pachoński (1973) on the Polish emigrés at Venice (its note 10 names the
+  Starost), Mączak (1968) on the grain export 1550-1650 (in English), and
+  Szwiec (2009), the catalogue of the Olęder architecture of the Pyzdry
+  Forest with its photographs. Pachoński and Mączak were first built as
+  holdings by a desktop session that had not fetched the cloud's work; the
+  editor: **literature has its own page, and the Sources page is for primary
+  sources from archives**. **The Literature page lists the works by author**
+  (surname first, title, English title in italics, published, language;
+  `author_sort`). A work can show pictures (`figures`). **"Nowa Wieś" is a
+  common place name: a link must be sure it is the Trąbczyn estate's**
+  (editor). The edition has 613 documents in 45 holdings and 14 works of
+  literature. `docs/LITERATURE_PLAN.md`, section 11. Open: the editor's look
+  and the word to publish.
+
+- **The literature** (begun 2026-10-19; **published 2026-10-19** at the
+  editor's word; a second set of six works added and published the same
+  day):
+  six books about the sources, original and English (Claude's), in
+  `literature/`, cut page by page into `corpus/literature/` by
+  `pipeline/literature/build_literature.py`, and shown at /literature/ by
+  `pipeline/literature/literature_site.py` (both steps of regenerate.py).
+  Plan, layout and next steps: `docs/LITERATURE_PLAN.md`; each work's
+  `notes.md` first. Seidel (2018) stays off the site (`visible: false`,
+  editor; verify_site.py checks it). The index of people and estates over
+  the passages is built (plan, section 8): every hit read and ruled in
+  `literature/index.yml`, an "In the literature" list on /people/ and
+  /places/; the editor accepted Claude's five identifications. The first
+  hand-made links are built (plan, section 9; `literature/links.yml`):
+  four, from the black register to ten documents, each with a sentence
+  saying why, shown under the passage and beside the document. The
+  general "Ruchts" of letter 103 is Rüchel (editor, 2026-10-19): the scan
+  reads "Ruchels", and the text is corrected
+  (`units/oe1bu9454/intake/scripts/ruechel_103.py`). **The second set**
+  (the editor's folder "Books_2", built and **published 2026-10-19** at
+  the editor's word):
+  Breyer 1935 (twice) and 1938, Żychliński 1885 and 1891, the PSB entry on
+  Antoni Prusimski (1982); English Claude's, no German translation of the
+  Polish works (an accepted gap, editor); indexed, and eleven more links
+  written (plan, section 10). A work's page now shows one text at a time,
+  the English first, with buttons for the original (editor). Waiting on
+  the editor: the questions in NEEDS_CONFIRMATION
+  ("The literature": Michalina's marriage 1809, her mother's death before
+  December 1796, and others).
+
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,
   1173 to 1440, each a document, text only (the WBC has no page images),
@@ -164,16 +195,18 @@ so check them.
 - **Published and pushed before ADWł 85 (2026-10-15)**: 589 documents in
   42 holdings, 879 marks of doubt (with letters 9 and 300 of Oe 1 Bü 9454,
   published later the same day). The last two went out together at the
-  editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Three
-  eras carry working names until the editor names them: `wlodzimierz`,
-  `liquidation` and `twentieth-century` (`reference/eras.yml`).
+  editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Two
+  eras carry working names until the editor names them: `wlodzimierz` and
+  `twentieth-century` (`reference/eras.yml`). The era `liquidation` was
+  made one with `wlodzimierz` (editor, 2026-10-20); Claude's proposed names
+  for all the eras wait on the editor (NEEDS_CONFIRMATION, "The eras").
 - **APŁ 39/98/0/-/6603** (slug `apl399806603`, added and published
   2026-10-15), the first holding from the State Archive in Łódź: the
   liquidation table of the Łazińsk colony (1868), its copy (1869) and the
   entries to 1901, six documents, three of them tables; openings joined into
   one page by cut edges (`EDGES` in its `holding.py`). It and Breyer's copies
-  of the tables in -/716 stand in the new era `liquidation` (editor,
-  working name). Read `units/apl399806603/notes.md` first. The editor
+  of the tables in -/716 stood in the era `liquidation`, since 2026-10-20
+  in `wlodzimierz` (editor). Read `units/apl399806603/notes.md` first. The editor
   approved its page edges and answered its spot sheet (18 marks remain).
 - **APP 53/968/0/-/716** (added 2026-10-14, published 2026-10-15) (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet

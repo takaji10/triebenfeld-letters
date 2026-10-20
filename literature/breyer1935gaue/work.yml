@@ -1,0 +1,53 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# from Jutta Dennerlein's digital reissue (PDF, the editor's folder
+# "Books_2") by pipeline/literature/upstream_pdf.py: only chapters V (the
+# Warthe marshes, Konin) and VI (the Kalisz country), pp. 35 to 45, and the
+# title page, without the reissue's foreword (editor, 2026-10-19).
+# english.md is Claude's. Never tidied: see notes.md.
+slug: breyer1935gaue
+visible: true
+kind: study
+title: "Deutsche Gaue in Mittelpolen"
+title_en: "German Districts in Central Poland"
+cite: "Breyer (1935a)"
+author: "Albert Breyer"
+author_sort: "Breyer, Albert"
+published: "Ostdeutsche Heimathefte, Heft 4, 1935 (ed. Viktor Kauder), and Deutsche Monatshefte in Polen, Jahrgang 1 (11), Heft 10, April 1935; chapters V and VI only, cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, October 2006)"
+year: 1935
+language: de
+english_by: Claude
+scan: "http://www.UpstreamVistula.org"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Two chapters of Albert Breyer's survey of the German settlements of
+  central Poland, those on the Konin and Kalisz country; the rest of the
+  survey (the Vistula lowland, Dobrzyń, Kuyavia, Gostynin, Łódź, the Swabians
+  near Warsaw) is not taken in. Chapter V is on the Warthe marshes between
+  Koło, Konin and Uniejów; chapter VI on the sandy, wooded country south of
+  Zagórów and Konin and north of Kalisz. Each gives the landscape, the
+  villages, their founding, where the settlers came from, their schools and
+  their churches. Page 41 names the first contract of the estate's Olęder
+  colonies: in 1746 Paul Prusiński, owner of Trąbczyn, let the woods south of
+  the estate to "honest Hollanders", and Łazińsk Holland arose. Breyer
+  (1889-1939) is the man whose notebooks of 1936 are holdings of this edition
+  (APP 53/968/0/-/669 and -/716); this is his shorter, earlier account,
+  written for German readers in Poland and in Germany in 1935, and its
+  language is that of its cause. Its facts are to be held against the
+  documents.
+account_de: >-
+  Zwei Kapitel aus Albert Breyers Überblick über die deutschen Siedlungen
+  Mittelpolens, die über das Koniner und das Kalischer Land; der übrige
+  Überblick (Weichselniederung, Dobriner Land, Kujawien, Gostynin, Lodz, die
+  Schwabensiedlungen bei Warschau) ist nicht aufgenommen. Kapitel V handelt
+  vom Warthebruch zwischen Koło, Konin und Uniejów, Kapitel VI von dem
+  sandigen, waldigen Land südlich von Zagórów und Konin und nördlich von
+  Kalisch. Jedes gibt die Landschaft, die Dörfer, ihre Gründung, die Herkunft
+  der Siedler, ihre Schulen und Kirchen. Seite 41 nennt den ersten Vertrag
+  der Hauländerkolonien des Gutes: 1746 überließ Paul Prusiński, Besitzer
+  von Trąbczyn, die Wälder südlich des Gutes „ehrbaren Holländern“, und es
+  entstand Łazińsk Holland. Breyer (1889-1939) ist der Mann, dessen
+  Notizbücher von 1936 Bestände dieser Edition sind (APP 53/968/0/-/669 und
+  -/716); dies ist sein kürzerer, früherer Bericht, 1935 für deutsche Leser
+  in Polen und im Reich geschrieben, und seine Sprache ist die seiner Sache.
+  Seine Angaben sind an den Dokumenten zu prüfen.

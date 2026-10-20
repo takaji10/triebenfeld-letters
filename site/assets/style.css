@@ -432,11 +432,6 @@ table.ledger tbody tr:nth-child(even) { background: var(--paper-2); }
 table.ledger tfoot td { border-top: 2px solid var(--rule); font-weight: 600; }
 /* A page's own total, between the entries. */
 table.ledger tbody tr.sum td { border-top: 2px solid var(--rule); font-weight: 600; }
-/* A table printed inside running text (Mączak 1968): its head may run to two
-   rows, and a figure set across two columns is centred. */
-table.ledger.in-text { margin: .8em 0; }
-table.ledger.in-text thead th { text-align: center; vertical-align: bottom; }
-table.ledger.in-text td[colspan] { text-align: center; }
 /* The page image itself. */
 .scan-link { display: block; text-decoration: none; }
 img.scan {
@@ -515,19 +510,23 @@ img.scan {
 /* A person's or place's documents (_includes/doc-list.html): the Browse card,
    opened on demand, with the summary cut to two lines. */
 .person .counts { margin: .1rem 0 0; }
-.doclist { margin-top: .5rem; }
-.doclist > summary {
+.doclist, .litlist { margin-top: .5rem; }
+.doclist > summary, .litlist > summary {
   cursor: pointer; font-family: var(--sans); font-size: .85rem; color: var(--accent);
   padding: .2rem 0; width: fit-content;
 }
-.doclist > summary:hover { text-decoration: underline; }
-.doclist[open] > summary { margin-bottom: .2rem; }
+.doclist > summary:hover, .litlist > summary:hover { text-decoration: underline; }
+.doclist[open] > summary, .litlist[open] > summary { margin-bottom: .2rem; }
 /* Indented under the entry, with a rule down the side, so the cards read as
    that person's or place's and not as the next entry (editor, 2026-10-04). */
-.doclist-body {
+.doclist-body, .litlist-body {
   margin-left: .35rem; padding-left: 1.1rem;
   border-left: 2px solid var(--rule);
 }
+/* The passages of the literature that name the entry (_includes/lit-mentions.html):
+   each work's short citation, then its pages. */
+.litlist-work { font-family: var(--sans); font-size: .85rem; margin: .5rem 0 .1rem; }
+.litlist .reflist { margin-top: 0; }
 .doclist .doclist-order { border-bottom: 0; margin: .4rem 0 0; padding-bottom: 0; }
 .doclist .results { max-width: var(--measure); }
 .doclist .result { padding: .8rem 0; }
@@ -646,3 +645,53 @@ img.scan {
 .gl-entry .gl-meta { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
 .gl-entry:target { background: color-mix(in srgb, var(--accent) 8%, transparent); box-shadow: -.8rem 0 0 color-mix(in srgb, var(--accent) 8%, transparent); }
 .gl-none { font-family: var(--sans); color: var(--ink-faint); }
+
+/* ---------------------------------------------------------- literature */
+/* A work of the literature (_layouts/literature.html): each printed page a
+   section, in English or in the original as the reader chooses (the buttons,
+   assets/literature.js, set data-lit-view on the body). Without the script
+   both texts stand one under the other. */
+.lit-title-en { color: var(--ink-faint); margin: .3rem 0 0; }
+.lit-caveat { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft);
+              border-left: 3px solid var(--rule); padding-left: .8rem; }
+.lit-jump { font-family: var(--sans); font-size: .8rem; line-height: 1.9;
+            margin: 2rem 0 1rem; padding: .8rem 0; border-top: 1px solid var(--rule);
+            border-bottom: 1px solid var(--rule); }
+.lit-jump a { margin-right: .45rem; text-decoration: none; white-space: nowrap; }
+.lit-jump a:hover { text-decoration: underline; }
+.lit-viewbar { margin-top: 1.4rem; }
+.lit-passage { border-top: 1px solid var(--rule); padding: .4rem 0 1rem; max-width: 44rem; }
+.lit-passage:target { background: color-mix(in srgb, var(--accent) 6%, transparent); }
+.lit-loc { margin: .2rem 0 .4rem; font-family: var(--sans);
+           font-size: .78rem; font-weight: 600; color: var(--ink-faint); }
+.lit-loc a { color: inherit; text-decoration: none; }
+.lit-orig, .lit-en { min-width: 0; overflow-wrap: anywhere; }
+body:not([data-lit-view]) .lit-en { border-top: 1px dashed var(--rule); margin-top: .6rem; padding-top: .6rem; }
+body[data-lit-view="en"] .lit-orig, body[data-lit-view="orig"] .lit-en { display: none; }
+.lit-orig > :first-child, .lit-en > :first-child { margin-top: 0; }
+.lit-orig h3, .lit-en h3, .lit-orig h4, .lit-en h4 { font-size: 1.05rem; }
+.lit-orig table, .lit-en table { border-collapse: collapse; font-size: .85rem; }
+.lit-orig td, .lit-en td, .lit-orig th, .lit-en th { padding: .15rem .5rem .15rem 0; vertical-align: top; }
+.lit-none p { font-family: var(--sans); font-size: .85rem; color: var(--ink-faint); }
+/* A work printed in English: its one text, never hidden by the buttons. */
+.lit-only > :first-child { margin-top: 0; }
+.lit-only table { border-collapse: collapse; font-size: .85rem; }
+.lit-only td, .lit-only th { padding: .15rem .5rem .15rem 0; vertical-align: top; border-bottom: 1px solid var(--rule); }
+/* The picture of a page (work.yml `figures`): a map, a chart, a photograph. */
+.lit-figure { margin: .4rem 0 1rem; }
+.lit-figure img { max-width: 100%; height: auto; display: block; border: 1px solid var(--rule); background: #fff; }
+.lit-fn { font-family: var(--sans); font-size: .7em; line-height: 0; }
+.lit-fn a { text-decoration: none; }
+.lit-note { font-family: var(--sans); font-size: .8em; font-weight: 600; }
+.lit-note:target { background: var(--mark); }
+/* The hand-made links (literature/links.yml): under a passage, "In the
+   edition", the sentence and the documents; beside a document, "In the
+   literature", the sentence and the passages. */
+.lit-links { margin: .9rem 0 0; padding: .5rem .9rem;
+  border-left: 2px solid var(--accent); font-family: var(--sans); font-size: .85rem;
+  background: color-mix(in srgb, var(--accent) 4%, transparent); }
+.lit-links p { margin: .3rem 0; max-width: var(--measure); }
+.lit-links .lit-links-head { font-weight: 600; margin-top: 0; }
+.lit-links-docs a, .lit-doclinks-pages a { margin-right: .6rem; white-space: nowrap; }
+.lit-doclinks p { margin: 0 0 .45rem; }
+.lit-doclinks-pages { font-family: var(--sans); font-size: .85rem; }

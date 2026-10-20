@@ -460,17 +460,20 @@ undated = [r['letter_id'] for r in records if not r['date_iso']]
 print("still undated:", undated)
 
 # ---------------- write outputs ----------------
-# CSV carries the flat fields (pages are nested, so JSON only).
+# CSV carries the flat fields (pages are nested, so JSON only). Every file is
+# written with LF line ends, as .gitattributes stores them: Python's csv
+# module ends rows with CRLF unless told, and open() without newline= writes
+# CRLF on Windows only.
 cols = schema.DOCUMENT_FLAT_FIELDS
 with open(os.path.join(UNIT_OUT, 'letters.csv'),'w',encoding='utf-8-sig',newline='') as f:
-    w = csv.DictWriter(f, fieldnames=cols, extrasaction='ignore'); w.writeheader()
+    w = csv.DictWriter(f, fieldnames=cols, extrasaction='ignore', lineterminator='\n'); w.writeheader()
     for r in records: w.writerow(r)
-with open(os.path.join(UNIT_OUT, 'letters.json'),'w',encoding='utf-8') as f:
+with open(os.path.join(UNIT_OUT, 'letters.json'),'w',encoding='utf-8',newline='\n') as f:
     json.dump(records, f, ensure_ascii=False, indent=1)
 
 # Page-level table: one row per manuscript page, for scan matching later.
 with open(os.path.join(UNIT_OUT, 'pages.csv'),'w',encoding='utf-8-sig',newline='') as f:
-    w = csv.writer(f)
+    w = csv.writer(f, lineterminator='\n')
     w.writerow(schema.PAGE_FLAT_FIELDS)
     for r in records:
         for p in r['pages']:

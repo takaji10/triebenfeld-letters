@@ -8396,7 +8396,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 8,
+  "mentions": 9,
   "places_named": 12,
   "estates": [
    "krotoszyn",
@@ -31222,7 +31222,7 @@
   "letter_id": "5",
   "doc_type": "note",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868",
@@ -31268,7 +31268,7 @@
   "letter_id": "1",
   "doc_type": "register",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1868-02-08",
@@ -31344,7 +31344,7 @@
   "letter_id": "2",
   "doc_type": "register",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-03-28",
@@ -31393,7 +31393,7 @@
   "letter_id": "4",
   "doc_type": "register",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1868-06-29",
@@ -31469,7 +31469,7 @@
   "letter_id": "2",
   "doc_type": "certified_copy",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1869-09-10",
@@ -31545,7 +31545,7 @@
   "letter_id": "3",
   "doc_type": "note",
   "language": "de",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "1870-11-26",
@@ -31584,7 +31584,7 @@
   "letter_id": "3",
   "doc_type": "certification",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1884-03",
@@ -31630,7 +31630,7 @@
   "letter_id": "4",
   "doc_type": "certified_copy",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1894-10-12",
@@ -31676,7 +31676,7 @@
   "letter_id": "6",
   "doc_type": "register",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1897",
@@ -31727,7 +31727,7 @@
   "letter_id": "5",
   "doc_type": "certified_copy",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "apl-lodz",
   "date_iso": "1897-11-29",
@@ -32438,300 +32438,12 @@
   "permalink": "/documents/app539680716/10/"
  },
  {
-  "uid": "maczak1968-1",
-  "unit": "maczak1968",
-  "letter_id": "1",
-  "doc_type": "article",
-  "language": "en",
-  "era": "prusimski-boundary",
-  "themes": [],
-  "repository": "published",
-  "date_iso": "1968",
-  "date_precision": "year",
-  "date_source": "dateline",
-  "place": "Unknown",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 24,
-  "n_lines": 223,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0075_a",
-    "image": ""
-   },
-   {
-    "page": 2,
-    "page_id": "0076_a",
-    "image": ""
-   },
-   {
-    "page": 3,
-    "page_id": "0077_a",
-    "image": ""
-   },
-   {
-    "page": 4,
-    "page_id": "0078_a",
-    "image": ""
-   },
-   {
-    "page": 5,
-    "page_id": "0079_a",
-    "image": ""
-   },
-   {
-    "page": 6,
-    "page_id": "0080_a",
-    "image": ""
-   },
-   {
-    "page": 7,
-    "page_id": "0081_a",
-    "image": "Maczak_1968_0081_a-L1_07.jpg"
-   },
-   {
-    "page": 8,
-    "page_id": "0082_a",
-    "image": ""
-   },
-   {
-    "page": 9,
-    "page_id": "0083_a",
-    "image": ""
-   },
-   {
-    "page": 10,
-    "page_id": "0084_a",
-    "image": ""
-   },
-   {
-    "page": 11,
-    "page_id": "0085_a",
-    "image": ""
-   },
-   {
-    "page": 12,
-    "page_id": "0086_a",
-    "image": ""
-   },
-   {
-    "page": 13,
-    "page_id": "0087_a",
-    "image": ""
-   },
-   {
-    "page": 14,
-    "page_id": "0088_a",
-    "image": ""
-   },
-   {
-    "page": 15,
-    "page_id": "0089_a",
-    "image": ""
-   },
-   {
-    "page": 16,
-    "page_id": "0090_a",
-    "image": ""
-   },
-   {
-    "page": 17,
-    "page_id": "0091_a",
-    "image": ""
-   },
-   {
-    "page": 18,
-    "page_id": "0092_a",
-    "image": ""
-   },
-   {
-    "page": 19,
-    "page_id": "0093_a",
-    "image": ""
-   },
-   {
-    "page": 20,
-    "page_id": "0094_a",
-    "image": ""
-   },
-   {
-    "page": 21,
-    "page_id": "0095_a",
-    "image": ""
-   },
-   {
-    "page": 22,
-    "page_id": "0096_a",
-    "image": ""
-   },
-   {
-    "page": 23,
-    "page_id": "0097_a",
-    "image": "Maczak_1968_0097_a-L1_23.jpg"
-   },
-   {
-    "page": 24,
-    "page_id": "0098_a",
-    "image": ""
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": true,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 2,
-  "estates": [],
-  "translation_status": "untranslated",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "article 1",
-  "path": "documents/maczak1968-1.json",
-  "text_path": "text/maczak1968-1.txt",
-  "permalink": "/documents/maczak1968/1/"
- },
- {
-  "uid": "pachonski1973-1",
-  "unit": "pachonski1973",
-  "letter_id": "1",
-  "doc_type": "article",
-  "language": "fr",
-  "era": "hohenlohe",
-  "themes": [],
-  "repository": "published",
-  "date_iso": "1973",
-  "date_precision": "year",
-  "date_source": "dateline",
-  "place": "Unknown",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 20,
-  "n_lines": 136,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0237_a",
-    "image": ""
-   },
-   {
-    "page": 2,
-    "page_id": "0238_a",
-    "image": ""
-   },
-   {
-    "page": 3,
-    "page_id": "0239_a",
-    "image": ""
-   },
-   {
-    "page": 4,
-    "page_id": "0240_a",
-    "image": ""
-   },
-   {
-    "page": 5,
-    "page_id": "0241_a",
-    "image": ""
-   },
-   {
-    "page": 6,
-    "page_id": "0242_a",
-    "image": ""
-   },
-   {
-    "page": 7,
-    "page_id": "0243_a",
-    "image": ""
-   },
-   {
-    "page": 8,
-    "page_id": "0244_a",
-    "image": ""
-   },
-   {
-    "page": 9,
-    "page_id": "0245_a",
-    "image": ""
-   },
-   {
-    "page": 10,
-    "page_id": "0246_a",
-    "image": "Pachonski_1973_0246_a-L1_10.jpg"
-   },
-   {
-    "page": 11,
-    "page_id": "0247_a",
-    "image": ""
-   },
-   {
-    "page": 12,
-    "page_id": "0248_a",
-    "image": ""
-   },
-   {
-    "page": 13,
-    "page_id": "0249_a",
-    "image": ""
-   },
-   {
-    "page": 14,
-    "page_id": "0250_a",
-    "image": ""
-   },
-   {
-    "page": 15,
-    "page_id": "0251_a",
-    "image": ""
-   },
-   {
-    "page": 16,
-    "page_id": "0252_a",
-    "image": ""
-   },
-   {
-    "page": 17,
-    "page_id": "0253_a",
-    "image": ""
-   },
-   {
-    "page": 18,
-    "page_id": "0254_a",
-    "image": ""
-   },
-   {
-    "page": 19,
-    "page_id": "0255_a",
-    "image": ""
-   },
-   {
-    "page": 20,
-    "page_id": "0256_a",
-    "image": ""
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 8,
-  "estates": [],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "article 1",
-  "path": "documents/pachonski1973-1.json",
-  "text_path": "text/pachonski1973-1.txt",
-  "permalink": "/documents/pachonski1973/1/"
- },
- {
   "uid": "app539680716-11",
   "unit": "app539680716",
   "letter_id": "11",
   "doc_type": "register",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "",
@@ -32790,7 +32502,7 @@
   "letter_id": "13",
   "doc_type": "note",
   "language": "ru",
-  "era": "liquidation",
+  "era": "wlodzimierz",
   "themes": [],
   "repository": "app-poznan",
   "date_iso": "",

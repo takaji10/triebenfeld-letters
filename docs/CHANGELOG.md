@@ -2015,21 +2015,110 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Imielno is an estate of focus (editor): a new place, matched also in its medieval form "Chemelino". The gift of the hospital of Gniezno (1243), which lists "Chemelino" among the hospital's villages, is tagged with it, and its summary and the holding page say so (claim check rewritten for that statement). Imielno also links the boundary decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of 1791.
 - Published at the editor's word: 613 documents in 45 holdings, 1173 to 1936.
 
-## Mączak 1968: the export of grain, a second holding of literature (2026-10-20)
+## The literature: six books, page by page (2026-10-19)
 
-- A new holding, `maczak1968`: Antoni Mączak, "Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650", *Acta Poloniae Historica* 18 (1968), pp. 75-98, at the editor's word, as background to the farming of the Olęder settlers: one document of 24 pages, read in session from the editor's PDF of the RCIN copy and checked word by word against its OCR; the seven tables as text, the map (p. 81) and the chart of prices and wages (p. 97) as pictures. In English, so not translated; summary written and claim-checked (15 statements).
-- New: a document's `language` reaches its page; a document printed in English shows "Printed in English, so not translated" in place of the English tab. Tables printed inside running text, written "| a | b |", are drawn as tables in the reading view. A holding's own `credit` line on the Licences page (each publisher named).
-- The Licences page and the edition guide name both articles. Five glossary entries kept out of the English article (`not_in`). Not published.
+- A new kind of material, kept apart from the archival documents (`docs/LITERATURE_PLAN.md`): books and articles about them, each in its original language and in English, for questions such as whether Triebenfeld inflated the value of his estates. Six works from the editor's folder "Books", copied unchanged into `literature/<slug>/`, the English of all six Claude's (the editor): the Materialien of 1861 (with the black register of the gifted estates), Held's book of 1801, the Neue Feuerbrände of 1807, Paciorkowski's Latin treatise of 1776, Guradze's Der Bauer in Posen of 1898, and Seidel's book of 2018 on Hohenlohe-Ingelfingen.
+- Each work has a `work.yml` (title, citation, language, how its pages are marked, an account in English and German) and a `notes.md` (how it came in, how the two files line up, a spot check of the English). `pipeline/literature/build_literature.py` cuts both files at the printed page marks, checks that the passages give back the whole file, and writes `corpus/literature/`: an index and one file per page and language. It runs in `regenerate.py` after the dataset.
+- Seidel is under copyright: in the repository for questions but never shown on the site (`visible: false`; the editor, 2026-10-19, knowing that the repository is public). Until now `.gitignore` kept it out.
+- Found on the way: Triebenfeld's entry in the black register (Materialien pp. 162-164) is about other estates than Trąbczyn (Piotrow, Lasky and others). Guradze has no page numbers yet (the editor will correct the text); the English of Paciorkowski lacks the mark of p. 27.
+- Nothing on the site yet. Not published.
 
-## Pachoński 1973: the first holding of published literature (2026-10-20)
+## The literature on the site (2026-10-19, not published)
 
-- A new holding, `pachonski1973`: Jan Pachoński, "Les Polonais dans la République de Venise (1794-1797)", in *Italia, Venezia e Polonia tra illuminismo e romanticismo*, ed. Vittore Branca (Florence: Olschki, 1973), pp. 237-256, at the editor's word: one document of twenty pages, read from the editor's scans in session, by paragraph, with its footnotes and the map (the only image). English and summaries written in session; 13 statements claim-checked. Its footnote 10 names "Antoni Prusiński de Nieszczewice": matched to Antoni Prusimski.
-- A holding of literature (`kind: literature` in unit.yml) does not count in the home page's span of years, the timeline, the eras' spans or a person's "documented" years (the editor: "reserve this information for primary source documents"; `build_site_data.LITERATURE`).
-- New: document type `article`; a free-text citation with `kind: article` (the image pane says the page is printed text); `note_start` in footnotes.yml for marks written as raised figures; `not_in` for glossary entries (three kept out of the article); repository `published`.
-- People: Jan Henryk Dąbrowski added; "Simon" and "Poniatowski" kept out of the article. A sentence in the Hohenlohe essay and in Prusimski's biography; the edition guide names the article beside the 613 documents.
-- A fix: the summary writer left a blank line before a holding that sorts last in the summary files.
-- Not published: the article is in copyright (NEEDS_CONFIRMATION).
-- Cleared by the editor the same day ("Add this literature as an allowed source to publish"). The Licences page, in both languages, now says the article, its map and the edition's English and summaries of it are outside CC BY, credited to Olschki, and will be taken down at the publisher's request.
+- "Literature" in the menu (German "Literatur"), after Sources: a list of the five visible works (/literature/, /de/literatur/), and a page for each with the original and the English side by side, passage by passage, each headed by its printed page and with its own anchor so that a page can be cited and linked (for example /literature/materialien1861/#p-162). Footnote markers link to their notes. Made by `pipeline/literature/literature_site.py`, a new step of `regenerate.py`; the plan's section 7 says how.
+- Seidel (2018) has no page; `verify_site.py` now fails if its slug or title shows up anywhere in the built site, or if a visible work lacks a page.
+- Built and verified on the desktop; not published.
+- The book's title is the heading on the list and on each work's page, the citation ("Materialien (1861)") under it (the editor).
+
+## The literature: who and which estates the books name (2026-10-19, not published)
+
+- The edition's index of people and places run over the originals of the five visible works (`pipeline/literature/literature_index.py`, a new step of `regenerate.py`; LITERATURE_PLAN.md, section 8). Every one of the 2,690 hits was read and ruled in `literature/index.yml`: 2,508 stand. The rest are words, measures, regiments and other men of the same name, each with the reason.
+- Forms the books print and the edition's patterns miss are added for the literature only: Trąbczyn as "Trombczyn" and "Trobozyn" in the black register, Szetlewek as "Szellewen", Świechocin as "Schwiegoszyn", Łowyń as "Löwin", Krotoszyn as "Krotoczyn" and others, the Prince as "Hohenloh".
+- On /people/ and /places/, a closed list "In the literature: N passages" under the documents of 35 people and 11 estates, linking to each page of each work that names them (1,174 links in the two languages, each checked to reach its passage). Places that are not estates have no list; their hits are kept in `corpus/literature/mentions.json`.
+- Five of the people are Claude's identifications. The editor accepted four on Claude's reading, and Stenger once the evidence was written out for them (2026-10-19). What each rests on:
+  - Grevenitz: the books' government councillor (Regierungsrath) von Grevenitz at Posen in the 1790s, given Tarnowo and a go-between in the Gurowski affair (Materialien pp. 127-153; Feuerbrände part 2, pp. 71 and 74, part 3, p. 132), is the edition's Kammergerichtsrat von Grevenitz, Triebenfeld's friend after 1807.
+  - Stössel: the Baron von Stössel who lent Hoym his name to buy a gifted estate (Materialien p. 158) is of the edition's Stössel family, Silesian creditors on Koszęcin.
+  - Nöldichen: the Nöldichen who signs for the General Direction of the Seehandlung in 1794 and 1795 (Held pp. 91 and 94) is the edition's councillor of war Nöldichen, who valued Krotoszyn, the estate Held's book is about.
+  - Wartensleben: General Count Wartensleben at Liegnitz, no. 17 of the black register (Feuerbrände part 2, p. 84; Materialien pp. 165, 212), is listed under the edition's Silesian Counts Wartensleben, father and son, without saying which of them he is.
+  - Stenger: the Justizkommissarius Stenger "in Unruhstadt" whose essay of 1798 on the Hauländer Guradze cites (chapters IV to VI) is the edition's Criminal Rath Stenger "hier aus Karge" (letter 23 of Oe 1 Bü 9454, 1809), Triebenfeld's agent for Zagórów, Trąbczyn, Pszczew and Witów: Karge and Unruhstadt are one town, Kargowa (the editor, 2026-10-19).
+- Built and verified on the desktop; not published.
+
+## The literature: passages tied by hand to documents (2026-10-19, not published)
+
+- `literature/links.yml`: four links from the black register (the Materialien, pp. 141-171, and the Neue Feuerbrände, parts 2 and 3) to ten documents, each with a sentence in English and German saying what the book says and what the document says (LITERATURE_PLAN.md, section 9). Every figure in a sentence was read in both.
+  - The Prince's gift and the exchange for Krotoszyn (I. HA Rep. 7 C Nr. 3570, document 1; Oe 1 Bü 9454, documents 85, 86, 87, 97, 101). The register says Beyme stopped the exchange; Cölln said Voss, and the letters bear him out. The register says the Prince gave the cabinet a yield of 50,000 a year; the letters give 41,500 (the Prince) and 40,500 (the King).
+  - Triebenfeld's own estates (documents 104, 108, 112): the same valuation (over 700,000) and resale (750,000) in the register and the letters; for his sale to Prince George of Hesse-Darmstadt the register gives 400,000, his letter 280,000.
+  - Krotoszyn's lease to Früson at 30,100 (documents 85, 86, 101).
+  - The other gifts Triebenfeld cites in letter 103 (Bischofswerder, Zastrow, Dolffs and Treskow, "Gen. Ruchts"), beside the register's entries on them. "Ruchts" as Rüchel was Claude's identification; settled the same day (below).
+- On the site: under each linked passage a box "In the edition" with the sentence and the documents; on each linked document's page an entry "In the literature" in the box "About this document". `literature_site.py` stops on a link to a passage or document that does not exist; `verify_site.py` checks both sides of every link (140 in the two languages).
+- Built and verified on the desktop; not published.
+
+## Letter 103: General Rüchel; the literature published (2026-10-19)
+
+- Oe 1 Bü 9454, letter 103, page 4: "des Gen. Ruchts" is "des Gen. Ruchels", General Rüchel. The editor agreed with Claude's identification and took "Ruchts" for a misreading; the scan reads "Ruchels". Corrected in the transcription (logged in `transcription_decisions.csv`), in the English ("General Rüchel", by `reference/english_corrections.yml`) and in the link's sentence; the mark of doubt on the word is taken out. Rüchel's entry in `reference/people.yml` now finds the letter. The record is `units/oe1bu9454/intake/scripts/ruechel_103.py`.
+- Published at the editor's word: the literature (five works on the site, the index of people and estates over them, the four links of the black register) with this correction.
+
+## Line ends: every text file LF (2026-10-19)
+
+- At the editor's word, so that line endings stop turning small edits into diffs of hundreds of lines. `.gitattributes` now stores and checks out every text file with LF, on the desktop and in the cloud alike; the 2438 files that were CRLF or mixed were converted in one commit (6ef4dcce, listed in `.git-blame-ignore-revs`). `reference/name_rulings.json` and `units/oe1bu9454/scan_decisions.json` ended in a stray carriage return, which made Git treat them as binary; it was taken out.
+- `build_db.py` and `merge_corpus.py` now write LF on Windows too.
+- Verified on a branch before it went to `main`: every holding rebuilt, the site built and `verify_site.py` passed (613 documents); the 9135 generated files were identical to before but for line ends. No text, translation or page changed.
+- `CLAUDE.md` and `docs/WORKING_NOTES.md` ("Line ends") no longer ask sessions to preserve CRLF file by file.
+
+## The literature: one text at a time, and six more works (2026-10-19, published)
+
+- **The original and the English are no longer side by side** (the editor: "not ideal"). A work's page shows one text at a time, with buttons above the first page, "English" and the original's language, as a reader switches the views of a document. It opens on the English (editor), and the choice is kept from one work to the next (`site/assets/literature.js`). Without the script both texts stand one under the other.
+- **Six works from the editor's folder "Books_2"** (LITERATURE_PLAN.md, section 10):
+  - Albert Breyer's articles of 1935 ("Deutsche Gaue in Mittelpolen", the chapters on Kalisz and Konin only, at the editor's word; "Ostdeutschland als Mutterland") and of 1938 (the German villages of the Warthe marshes), from Jutta Dennerlein's digital reissues. They are read from the PDFs' text layer by the new `pipeline/literature/upstream_pdf.py`, and her forewords are left out (editor).
+  - Teodor Żychliński's *Złota księga*, vol. 7, pp. 187-188 (the Prusimski) and vol. 13, pp. 219-225 (the Miączyński), read from the photographs in session.
+  - Jan Pachoński's entry on Antoni Prusimski in the *Polski Słownik Biograficzny* (1982, editor).
+  The English of all six is Claude's, from the original. The machine English in the editor's files was not used (the PSB's was wrong in substance). No German translation of the Polish works was made: an accepted gap (editor).
+- The index of people and estates over the eleven visible works: 3,200 hits, every one ruled in `literature/index.yml`; 2,946 stand.
+- **Eleven new hand-made links** (`literature/links.yml`; fifteen in all, to 32 documents), every figure read in the book and the document. They tie:
+  - Breyer to the lease of 1806 and to Weigel;
+  - Żychliński to the court books on the Prusimski line, to the letters on Michalina's marriage, to the dispatch from Venice and to the summons of 1860;
+  - the PSB to the boundary commission, the confiscation, Venice and the restitution of 1807.
+- Found while the links were checked, and put to the editor (NEEDS_CONFIRMATION.md, "The literature"):
+  - The dispatch from Venice of 14 December 1796 already mourns Prusimski's wife, against Żychliński's date for her death, 2 September 1797.
+  - Żychliński and the PSB give Michalina's second marriage as 1809, against "about 1814" in the edition's biographies.
+  - Żychliński's account of who held Trąbczyn from 1809 to 1879 differs from the edition's.
+  - The lease of 1806 differs from Breyer's account in its date, in the dike clause and on pasture and wood.
+  No biography or era of the edition was changed.
+- Published at the editor's word the same day, the questions above still open.
+
+## Two eras made one: Włodzimierz Miączyński's years and the liquidation (2026-10-20, not published)
+
+- At the editor's word, "for better clarity": the era "The estate under Włodzimierz Miączyński" and the era "The liquidation: the peasants' land and the servitudes" are one, under the working name "The colonists' land and forest rights" (slug `wlodzimierz`). The lawsuit of 1859 over the colonists' rights in the Count's forest and the liquidation that fixed those rights in 1868 and bought them out in 1892 are one story. The era has 14 documents, 1858 to 1897: APŁ 39/98/0/-/6603 and Breyer's copies of the tables in APP 53/968/0/-/716 moved into it.
+- Changed with it: the era's ownership line and blurb (`reference/eras.yml`), the timeline (one band at 1858, its note covering both), and the story page in both languages (one section).
+- Claude's proposed names for all the eras are put to the editor (NEEDS_CONFIRMATION.md, "The eras"); no other era is changed.
+
+## The documents first: a rule; Paweł Prusimski and the privilege of 1746 (2026-10-20, not published)
+
+- **A new rule of the editor's** (2026-10-20): every fact is first checked against the edition's archival documents, before a book or any other source; where they disagree, the edition keeps to the document, and the difference is flagged in NEEDS_CONFIRMATION.md and recorded in the source's `notes.md`. Written into `docs/HOUSE_STYLE.md` ("The documents first"), with pointers in CLAUDE.md, WORKING_NOTES.md and LITERATURE_PLAN.md.
+- **Breyer's "Paul von Kolno-Prusiński" is Paweł Prusimski** (the editor, 2026-10-20). Recorded in `literature/index.yml`, the work's `notes.md` and NEEDS_CONFIRMATION.md.
+- **The link from Breyer (1935) on Łazińsk Holland** said "the edition has no document of 1746". The corpus had not been searched: the boundary decree of 1775 (Konin Gr.145, p. 76) cites "the rights granted them in 1746", the primary source for the privilege (editor), and the summons of 1860 (APP 53/968/0/-/783) names its grantors, Paweł z Kolna Prusiński and his wife Katarzyna z Rozdrażewskich. Both documents are added to the link, and its sentence now says what each says; that the privilege was a hereditary lease is Breyer's account alone.
+- For the era of 1851 to 1901, Claude proposes the name "The liquidation: the colonists become owners", from the heading of the Łazińsk table of 1868 (NEEDS_CONFIRMATION.md, "The eras"). Not applied: the name is the editor's.
+- **What the liquidation did** (the editor, 2026-10-20): the land the colonists farmed became their own, and the demesne farms stayed with the estate. The documents agree: the Łazińsk table lists only the peasants' farmsteads and common land, the forest "Studzianka" stays the manor's, and in 1892 the colonists gave up their forest rights for "manor land" from the owner of the estate. The era's account (`reference/eras.yml`) and the story (EN and DE) now say that the manor kept its own land and forest, and that the government paid the former owner for the peasants' dues.
+
+## The editor's voice documented (2026-10-20, docs only)
+
+- From three samples of the editor's writing (the preface and introduction of their book on the Trąbczyn estate, and a statement of purpose), `docs/EDITORS_VOICE.md` records their voice: sentence length (counted), words, openings and closings, evidence, what they do not do, where it differs from HOUSE_STYLE, and a two-paragraph brief. The samples are not kept in the repository. No text on the site was changed; reading the site against the brief is in TODO.md, section 8.
+- Corrected and extended at the editor's word the same day: the pronunciations were a rare exception and are out of the brief; the long dashes are the word processor's typography, not the voice, so the house style's rule on dashes is no longer listed as a difference; the tone the editor aims at (a historian and editor of narrative academic history, evidence turned into a story a non-specialist can follow without loss of rigour) and their self-assessments (dry against fluff; framed "side roads") are recorded, and the brief is rewritten to them. A framed side road on the site is a new item in TODO.md.
+
+## The spaced en dash; no signposting (2026-10-20, docs only)
+
+- The editor ruled that an aside takes the spaced en dash ( – ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". A range between two figures takes an unspaced en dash (8,000–9,000; the editor, the same day); ranges written before have a hyphen.
+- A new HOUSE_STYLE section, "No signposting": a sentence about the text instead of the past (announcing, pointing back, listing topics) is not written, except to bring back a topic the reader has not met for a long time (the editor's exception), and then by restating the fact, not by "as mentioned earlier" (Claude's suggestion). Navigational text (the About page's guide, "How it was prepared", lists of contents) is proposed as not signposting, for the editor to confirm. A search of the site's English found no signposts and no dashes, so no published text changes. EDITORS_VOICE.md's brief says both.
+- The editor's writing samples are for the analysis of style only: nothing in them is a source for the edition or is set against the documents (the editor, 2026-10-20). Written into WORKING_NOTES ("Working with the editor") and EDITORS_VOICE.md.
+
+## The literature: Pachoński, Mączak and Szwiec; the list by author (2026-10-20, not published)
+
+- The desktop's `main` is brought up to GitHub's (eighteen commits of the cloud sessions: the literature, the eras, line ends LF, house style).
+- Pachoński (1973), "Les Polonais dans la République de Venise", and Mączak (1968), "Export of Grain ... 1550-1650", first built that day as holdings by the desktop session, are moved into the literature (the editor: the Sources page is for primary sources); their holdings, page images and summaries are removed, and the code and data made for literature as holdings are taken out again.
+- Szwiec (2009), the catalogue of the regional architecture of the Pyzdry Forest, is added: the Polish text from the Word-printed PDF (`pipeline/literature/szwiec_pdf.py`), Claude's English, and its 80 pages of photographs and maps as pictures. Trąbczyn, Wrąbczynek, Wrąbczynkowskie Holendry and Orlina are among its villages.
+- A work's pages can now show pictures (`figures` in `work.yml`); a work printed in English has one text and no buttons.
+- The Literature page lists the works by author (the editor): surname first, the title with the English title in italics under it, where it was published, its language.
+- The new works' index hits read and ruled; "Venise" made a default with one exception. The Hohenlohe essay links Pachoński's note 10 on the literature page. The Licences page says the modern works on the Literature page are outside CC BY.
 
 ## Deliverables produced
 

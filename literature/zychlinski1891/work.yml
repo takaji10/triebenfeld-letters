@@ -1,0 +1,46 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is read
+# in session from the editor's PDF of pp. 218-225 (folder "Books_2"), from
+# "Hr. Stanisław Adam" on p. 219 to the end of the Miączyński entry on p. 225,
+# as printed: old spelling and slips kept, spaced type as bold, italics as
+# italics. english.md is Claude's. See notes.md.
+slug: zychlinski1891
+visible: true
+kind: reference
+title: "Złota księga szlachty polskiéj, rocznik XIII, str. 219-225 (Miączyńscy: hr. Stanisław Adam i jego potomstwo)"
+title_en: "The Golden Book of the Polish Nobility, vol. 13, pp. 219-225: the Miączyński family, Count Stanisław Adam and his descendants"
+cite: "Żychliński (1891)"
+author: "Teodor Żychliński"
+author_sort: "Żychliński, Teodor"
+published: "Złota księga szlachty polskiéj, rocznik XIII, Poznań [1891], pp. 219-225 (the year reckoned from the series, one volume a year from 1879; not read off a title page)"
+year: 1891
+language: pl
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Seven pages of Teodor Żychliński's genealogy of the Polish nobility, from
+  his account of the Counts Miączyński: Stanisław Miączyński, who married
+  Michalina Prusimska, the heiress of Trąbczyn, in August 1809, and their
+  descendants to 1888. Żychliński gives Stanisław's service as Prince Józef
+  Poniatowski's adjutant, with the order of the day of 1809 and the Prince's
+  letter of 1812; the marriage settlement; how Stanisław, dying in Berlin in
+  1845, divided the estates among his four sons, Trąbczyn going by sale to
+  Mieczysław, who later sold it to Włodzimierz; the newspaper notices of
+  Michalina (died 1851) and Włodzimierz (died 1879); and Włodzimierz's
+  nephew Władysław, heir of Trąbczyn. A footnote dates the death of
+  Michalina's mother, Maryanna Dąmbska, to Padua, 1797. Where the account
+  differs from the edition's documents and rulings, the notes say so.
+account_de: >-
+  Sieben Seiten aus Teodor Żychlińskis Genealogie des polnischen Adels, aus
+  seiner Darstellung der Grafen Miączyński: Stanisław Miączyński, der im
+  August 1809 Michalina Prusimska, die Erbin von Trąbczyn, heiratete, und
+  ihre Nachkommen bis 1888. Żychliński gibt Stanisławs Dienst als Adjutant
+  des Fürsten Józef Poniatowski, mit dem Tagesbefehl von 1809 und dem Brief
+  des Fürsten von 1812; den Ehevertrag; wie Stanisław, als er 1845 in Berlin
+  starb, die Güter unter seine vier Söhne teilte, wobei Trąbczyn durch Kauf
+  an Mieczysław ging, der es später an Włodzimierz verkaufte; die
+  Zeitungsnachrufe auf Michalina (gestorben 1851) und Włodzimierz (gestorben
+  1879); und Włodzimierz' Neffen Władysław, den Erben von Trąbczyn. Eine
+  Fußnote setzt den Tod von Michalinas Mutter, Maryanna Dąmbska, nach Padua,
+  1797. Wo die Darstellung von den Dokumenten und Entscheidungen der Edition
+  abweicht, sagen es die Anmerkungen.

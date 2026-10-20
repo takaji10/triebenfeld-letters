@@ -1,0 +1,53 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md was read
+# in session from the editor's PDF of the RCIN copy (2026-10-20) and first built
+# as a holding; it was moved here the same day (notes.md). The article is
+# printed in English, so there is no english.md. Its tables are HTML tables
+# (cells set across two columns); its map (p. 81) and chart (p. 97) are shown
+# as pictures (figures).
+slug: maczak1968
+visible: true
+kind: article
+title: "Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650"
+title_en: ""
+cite: "Mączak (1968)"
+author: "Antoni Mączak"
+author_sort: "Mączak, Antoni"
+published: "Acta Poloniae Historica 18, 1968, pp. 75-98; translated by Ewa Tymowska"
+year: 1968
+language: en
+english_by: ""
+scan: "https://rcin.org.pl/dlibra/publication/19109/edition/5534"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+figures:
+  "81": "81.jpg"
+  "97": "97.jpg"
+account_en: >-
+  An article by the Polish economic historian Antoni Mączak (1928-2003) on the
+  export of grain down the Vistula to Gdańsk between 1550 and 1650 and on who
+  gained by it: from the water-toll registers of Włocławek, the accounts of the
+  royal estate of Malbork and the tax registers of the voivodship of Cracow it
+  shows how the regions' shares rose and fell with the harvests, how the great
+  estates sent the largest and steadiest part, and how the profits helped the
+  magnates buy up the land of the lesser gentry while the peasants paid for the
+  growth of the demesne. Background to the farming of the edition's estates and
+  their Olęder settlers (the editor): it names neither Trąbczyn nor the
+  Olęders, but speaks of grain from Great Poland sent "a little along the Warta
+  river" and of the farming of the Dutch colonists in Royal Prussia. A
+  scholar's estimates from the sources, which it calls "estimations,
+  suggestions and hypotheses".
+account_de: >-
+  Ein Aufsatz des polnischen Wirtschaftshistorikers Antoni Mączak (1928-2003)
+  über die Ausfuhr von Getreide auf der Weichsel nach Danzig von 1550 bis 1650
+  und darüber, wer daran gewann: Aus den Registern des Wasserzolls in
+  Włocławek, den Rechnungen des königlichen Guts Marienburg und den
+  Steuerregistern der Wojewodschaft Krakau zeigt er, wie die Anteile der
+  Gegenden mit den Ernten stiegen und fielen, wie die großen Güter den größten
+  und beständigsten Teil schickten und wie die Gewinne den Magnaten halfen, das
+  Land des kleineren Adels aufzukaufen, während die Bauern für das Wachstum des
+  Vorwerkslands zahlten. Hintergrund zur Landwirtschaft der Güter der Edition
+  und ihrer Olęder (der Herausgeber): Er nennt weder Trąbczyn noch die Olęder,
+  spricht aber von Getreide aus Großpolen, das „ein wenig entlang der Warthe“
+  verschickt wurde, und von der Landwirtschaft der holländischen Kolonisten im
+  Königlichen Preußen. Schätzungen eines Gelehrten aus den Quellen, die er
+  selbst „Schätzungen, Vorschläge und Hypothesen“ nennt.

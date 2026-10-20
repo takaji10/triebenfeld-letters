@@ -30,19 +30,14 @@ The documents are more than two hundred years old, and their own words belong
 to no one. The licence covers what this edition adds: the reading of the
 manuscripts, the translation and the commentary.
 
-**Published literature is the exception.** The edition also gives two modern
-studies in full: Jan Pachoński's article of 1973 on the Polish emigrés at Venice
-([Pachoński 1973]({{ '/sources/pachonski1973/' | relative_url }})), which names
-Antoni Prusimski among them, and Antoni Mączak's article of 1968 on the export
-of Polish grain
-([Mączak 1968]({{ '/sources/maczak1968/' | relative_url }})). Their texts, maps,
-tables and chart are the copyright of their authors and publishers: Leo S.
-Olschki, Florence, and *Acta Poloniae Historica* (Institute of History, Polish
-Academy of Sciences). They, and the edition's English translation and
-summaries of them, are **not** covered by the CC BY licence. They are
-reproduced for research, with their publishers credited below under
-"Published works"; anyone who wants to reuse them should ask the publisher. If
-a publisher asks for them to be taken down, that will be done.
+**The literature is the exception.** The modern works on the
+[Literature]({{ '/literature/' | relative_url }}) page, among them Pachoński's
+article of 1973, Mączak's of 1968 and Szwiec's catalogue of 2009, are the
+copyright of their authors, photographers and publishers, whom each work's page
+names. Their texts and pictures, and the edition's English translations of
+them, are **not** covered by the CC BY licence. They are reproduced for
+research; anyone who wants to reuse them should ask the publisher. If a
+publisher asks for a work to be taken down, that will be done.
 
 The English translations were made by an AI model
 ([About the edition]({{ '/reading-this-edition/' | relative_url }})).

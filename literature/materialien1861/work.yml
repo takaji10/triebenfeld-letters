@@ -1,0 +1,46 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md and
+# english.md are the editor's files as supplied; never tidied.
+slug: materialien1861
+visible: true
+kind: collection
+title: "Materialien zur Geschichte polnischer Landestheile unter preussischer Verwaltung. Erstes Heft: Aeltere Zeit bis zum Frieden von Tilsit 1807"
+title_en: "Materials for the History of Polish Territories under Prussian Administration. First part: the earlier period down to the Peace of Tilsit, 1807"
+cite: "Materialien (1861)"
+author: ""
+# The author on the Literature page, surname first; empty for an anonymous work, listed by its title.
+author_sort: ""
+published: "Leipzig: Librairie étrangère, 1861"
+year: 1861
+language: de
+english_by: Claude
+pages:
+  mark: '^— (?P<page>\d+) —\s*$'
+# The book's notes, gathered after page 236, are cut off as one passage.
+notes:
+  original: '^## Anmerkungen'
+  english: '^## Notes'
+account_en: >-
+  An anonymous collection, printed at Leipzig in 1861, of extracts from
+  official papers and from the accounts of Prussian officials on the Polish
+  lands Prussia ruled until 1807: the German settlements in the province of
+  Posen, Frederick the Great's and Frederick William II's dealings with
+  Poland, and the estates given away to Prussian favourites. It prints the
+  "black register" (pages 140 to 171), the list of the Crown and church
+  estates of South Prussia given away in 1794 to 1798, from a manuscript
+  found among Hans von Held's papers, with Triebenfeld's entry on pages 162
+  to 164, and adds as notes the six corrections Cölln printed in 1807. The
+  compiler writes against Prussian rule and says so; the extracts are
+  useful, the judgements are the compiler's.
+account_de: >-
+  Eine anonyme Sammlung, 1861 in Leipzig gedruckt, von Auszügen aus Akten
+  und aus Berichten preußischer Beamter über die polnischen Landesteile,
+  die Preußen bis 1807 beherrschte: die deutschen Kolonisationen in der
+  Provinz Posen, die Politik Friedrichs des Großen und Friedrich Wilhelms
+  II. gegenüber Polen und die an preußische Günstlinge verschenkten Güter.
+  Sie druckt das „schwarze Register“ ab (Seiten 140 bis 171), das
+  Verzeichnis der 1794 bis 1798 verschenkten Kron- und geistlichen Güter
+  Südpreußens, nach einer in Hans von Helds Nachlass gefundenen Handschrift,
+  mit dem Eintrag über Triebenfeld auf den Seiten 162 bis 164, und fügt die
+  sechs Berichtigungen, die Cölln 1807 druckte, als Anmerkungen hinzu. Der
+  Herausgeber schreibt erklärtermaßen gegen die preußische Herrschaft; die
+  Auszüge sind brauchbar, die Urteile sind seine.

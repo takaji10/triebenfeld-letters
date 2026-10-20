@@ -29,6 +29,8 @@
     {%- if p.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif p.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
     <p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>
     {% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}
+    {%- assign lit_works = site.data.literature_mentions.person[p.slug] %}
+    {% include lit-mentions.html works=lit_works %}
   </div>
 {% endfor %}
 </div>

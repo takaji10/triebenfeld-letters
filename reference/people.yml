@@ -522,20 +522,6 @@ people:
     match: "Młynkiewicz"
     tier: ""
     variants: []
-  dabrowski-jan-henryk:
-    display: "Jan Henryk Dąbrowski"
-    render: "Dąbrowski"
-    # Only in the article; the Dąbrowski of Oe 1 Bü 9454, letter 136, a
-    # lessee, is another man (the name list's own entry, shut out of the
-    # article under seed_not_in). The article also names his son Jean
-    # Michel, who is not matched. Never the bare surname: a pattern that
-    # matches "Dąbrowski" alone hides the name list's lessee everywhere
-    # (entities.py, `covered`), as happened at the first build.
-    match: '(?<=H\. )Dąbrowski|(?<=Henri )Dąbrowski|(?<=général )Dąbrowski|(?<=généraux )Dąbrowski|(?<=de )Dąbrowski'
-    only_in: [pachonski1973-1]
-    tier: "Text-confirmed"
-    variants: []
-    identity: "Jan Henryk Dąbrowski (in the article Jean-Henri), lieutenant-general of the Kościuszko Insurrection, who came from Warsaw to Paris in 1796 and founded the Polish Legions in Italy under the convention with Lombardy of January 1797 (Pachoński 1973). Added 2026-10-20."
   napoleon:
     display: "Napoleon"
     match: "Napoleon"
@@ -693,8 +679,8 @@ people:
     # "Johann von Prusimski", whose inscription of 1673 charges an annuity on
     # Kolno (14525), is a different and earlier man, and is not matched.
     # The summons of 1860 (APP 53/968/0/-/783) prints the family "Prusiński":
-    # Pachoński's article of 1973 has "Antoni Prusiński de Nieszczewice" (note 10).
     # "Antoniego Prusińskiego Starosty", "Antoniemu Prusińskiemu".
+    # Pachoński (1973), note 10, has "Antoni Prusiński de Nieszczewice" (the literature index).
     match: "(?<!Johann von )Pru[sz]+ie?msk(?:i|isch\\w*)(?![a-zà-ÿ])|(?<=Antoniego )Prusińskiego|(?<=Antoniemu )Prusińskiemu|(?<=JWo Antoniego )Prusimskiego|(?<=JWo Mści Antoniego )Prusimskiego|Prusiński(?= Synowiec)|(?<=Antoni )Prusiński(?= de Nieszczewice)"
     # In the decree of 1728 (APP 53/6/0/-/40) "Prusimski" is Krzysztof, his
     # grandfather, and "Antonio Prusimski filio" the uncle of the same name:
@@ -844,9 +830,7 @@ people:
     # in the Konin register of 1781-82 the feast of SS Simon and Jude and the messenger Simon Głabik.
     # In the Kodeks Dyplomatyczny Wielkopolski "Simon" is the castellan of Gniezno (1261) and the
     # father of Janko (1276).
-    # In Pachoński 1973 "Simon" is the historian Simon Askenazy.
-    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1, kdw-4, kdw-5,
-             pachonski1973-1]
+    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1, kdw-4, kdw-5]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."
@@ -1115,10 +1099,10 @@ people:
     identity: "Grand Duke Konstantin Pavlovich of Russia (letters 244, 247, 269). Added 2026-09-28 in the names pass."
   ruechel:
     display: "General Rüchel"
-    match: 'R(?:ü|u)chel(?![a-zà-ÿ])'
+    match: 'R(?:ü|u)chels?(?![a-zà-ÿ])'
     tier: "Context-inferred"
     variants: []
-    identity: "Prussian general (letter 177). Added 2026-09-28 in the names pass."
+    identity: "Prussian general (letter 177; letter 103, \"Gen. Ruchels\", read as Ruchts until the editor's ruling of 2026-10-19). Added 2026-09-28 in the names pass."
   kalckreuth:
     display: "Kalckreuth"
     match: 'Kal(?:c)?[kh]reuth\w*|Kalchreuth\w*'
@@ -1135,8 +1119,6 @@ people:
   poniatowski:
     display: "Poniatowski"
     match: 'Poniatowski\w*'
-    # In Pachoński 1973 he is Stanisław Poniatowski, the King's nephew.
-    not_in: [pachonski1973-1]
     tier: "Context-inferred"
     variants: []
     identity: "Prince Józef Poniatowski (letter 212). Added 2026-09-28 in the names pass."
@@ -2060,7 +2042,5 @@ people:
 
 # Long-tail names (reference/name_seeds.json) shut out of named documents.
 seed_not_in:
-  # General Jan Henryk Dąbrowski (dabrowski-jan-henryk), not the lessee of 9454.
-  Dąbrowski: [pachonski1973-1]
   # Otto of Trąbczyn (otto-z-trabczyna), not the Otto of the correspondence.
   Otto: [kdw-19]

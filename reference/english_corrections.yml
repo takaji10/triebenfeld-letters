@@ -31,6 +31,7 @@ corrections:
 # Names (2026-10-03).
 - {pad: oe1bu9454-191, page: 7, find: "The peasants of Stoki", replace: "The peasants of Skokum", why: "die Skokumer Bauren: Skokum, not Stoki, a different village"}
 - {pad: iiihamdaiiinr12765-006, page: 1, find: "in favour of Michalina z Prusimskich Dąbska, later Miączyńska", replace: "in favour of Madame Miączyńska", why: "en faveur de Madame Mięczynsky: the catalogue entry for her had been printed in the sentence"}
+- {pad: oe1bu9454-103, page: 4, find: "Those of General Ruchts were", replace: "Those of General Rüchel were", why: "des Gen. Ruchels, read as Ruchts: General Rüchel (editor, 2026-10-19; units/oe1bu9454/intake/scripts/ruechel_103.py)"}
 
 # Catchwords (editor, 2026-10-03): the word the scribe wrote at the foot of a
 # page to announce the next is not said twice in the English. The reading

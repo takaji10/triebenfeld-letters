@@ -316,7 +316,7 @@ record); neither is to be run again.
 
 - **Images.** 245 keeps its page ids (0455_a, 0456_a). 289 was two halves of two captures (0522_a2, 0523_a1); the new scans show each
   page whole and are 0522_b and 0522_c, the editor's names. The old processed images are in the archive folder's `processed/_superseded/`.
-  `scan_rename_map.json` and `scan_decisions.json` are CRLF and in the archive's order: change a name in them in place, never rewrite them.
+  `scan_rename_map.json` and `scan_decisions.json` are in the archive's order (and were CRLF until 2026-10-19, now LF): change a name in them in place, never rewrite them.
 - **Text.** Made line by line from the text that stood in the corpus (which had had every correcting pass), the editor's new
   transcription, and the new scans read through enlarged. Where the two transcriptions differed the scan decided. 245 gained its last
   line of page 1, which the old scan had lost at the torn foot; 289 gained the pencil date at the foot of page 1. Marks of doubt: 245
@@ -381,6 +381,17 @@ is `intake/scripts/recrop_300.py` (images, text, date, reading record; its docst
 - **Date.** "d 20t Januar", the year torn away, replaces "2[9?] Januar 1816"; the archive's pencil note at the
   foot of page 1, "20. Jan 1816", is added there (as for letter 289) and dates the letter: 20 January 1816
   (`rulings.yml`, dates.read). The summary needed no change.
+
+## Letter 103: General Rüchel (2026-10-19)
+
+On page 4 (0215_a, line 11) Triebenfeld sets the Prince's gift beside others, among them the estates "des Gen.
+Ruchels", which were to bear 940 Thaler a year. The transcription had "Ruchts", and the whole-letter reading had
+marked it "possibly Rüchel". Claude took him for Lieutenant-General von Rüchel, whose gift the black register lists
+(`literature/links.yml`, `register-other-gifts`); the editor agreed ("Possibly a transcription error"), and the
+site's scan reads "Ruchels": the "el" had been read as "t". His spelling, with u, is kept in the German; the
+English says "General Rüchel". The record is `intake/scripts/ruechel_103.py` (text, page file, decision log, the
+name pair of the English, the mark of doubt taken out of `reading.json`); the English text follows by
+`reference/english_corrections.yml`, and Rüchel's pattern in `reference/people.yml` now finds "Ruchels".
 
 ## Place names: German in the text, Polish (German) on the site (editor 2026-09-28)
 

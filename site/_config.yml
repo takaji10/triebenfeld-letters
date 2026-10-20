@@ -19,6 +19,12 @@ collections:
     output: true
   holdings_de:
     output: true
+  # One page per work of the literature (docs/LITERATURE_PLAN.md), generated
+  # by pipeline/literature/literature_site.py.
+  literature:
+    output: true
+  literature_de:
+    output: true
 
 defaults:
   - scope:
@@ -36,6 +42,16 @@ defaults:
       type: letters
     values:
       layout: letter
+  - scope:
+      path: ""
+      type: literature
+    values:
+      layout: literature
+  - scope:
+      path: ""
+      type: literature_de
+    values:
+      layout: literature
 
 # Generated output and research files are not part of the site.
 exclude:

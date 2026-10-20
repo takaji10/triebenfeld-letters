@@ -216,6 +216,76 @@ def main():
         fail(f'script builds a pre-migration URL ({n}x): {where}')
     print(f'  {len(stale)} stale URL literal(s) in built scripts (want 0)')
 
+    # ---- the literature (docs/LITERATURE_PLAN.md) -------------------------
+    # Every visible work has its page in both languages; a work with
+    # visible: false (Seidel, under copyright) has nothing on the site: no
+    # page, and neither its slug nor its title anywhere. The timeline's
+    # citations "Seidel 2018, ch. ..." are citations and are allowed.
+    print('checking the literature...')
+    lit_index = os.path.join(ROOT, 'corpus', 'literature', 'index.json')
+    works = []
+    if os.path.isfile(lit_index):
+        with io.open(lit_index, encoding='utf-8') as f:
+            works = json.load(f)
+    shown = [w for w in works if w.get('visible')]
+    hidden = [w for w in works if not w.get('visible')]
+    for w in shown:
+        for base in ('literature', os.path.join('de', 'literatur')):
+            if not os.path.isfile(os.path.join(SITE, base, w['slug'], 'index.html')):
+                fail(f"literature: no page {base}/{w['slug']}/")
+    if hidden:
+        needles = {}
+        for w in hidden:
+            needles[w['slug']] = w['slug']
+            needles[w['title']] = w['slug']
+            for base in ('literature', os.path.join('de', 'literatur')):
+                if os.path.exists(os.path.join(SITE, base, w['slug'])):
+                    fail(f"literature: {w['slug']} is not to be shown, but {base}/{w['slug']}/ was built")
+        leaks = collections.Counter()
+        for root, dirs, files in os.walk(SITE):
+            for fn in files:
+                if not fn.endswith(('.html', '.js', '.json', '.xml', '.txt', '.csv')):
+                    continue
+                p = os.path.join(root, fn)
+                with io.open(p, encoding='utf-8', errors='replace') as f:
+                    text = html.unescape(f.read())
+                for needle, slug in needles.items():
+                    if needle in text:
+                        leaks[f'{slug} in {os.path.relpath(p, SITE)}'] += 1
+        for where in leaks:
+            fail(f'literature: a work not to be shown appears on the site: {where}')
+    print(f'  {len(shown)} works with pages in both languages, '
+          f'{len(hidden)} kept off the site')
+
+    # The hand-made links (literature/links.yml), on both sides: each passage's
+    # box links each document, and each document's page links each passage.
+    links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')
+    if os.path.isfile(links_data):
+        import yaml
+        with io.open(links_data, encoding='utf-8') as f:
+            per_doc = yaml.safe_load(f) or {}
+        with io.open(os.path.join(ROOT, 'corpus', 'letters.json'), encoding='utf-8') as f:
+            permalink = {r['uid']: r['permalink'] for r in json.load(f)}
+        n = 0
+        for uid, lns in per_doc.items():
+            doc_page = os.path.join(SITE, permalink[uid].strip('/'), 'index.html')
+            with io.open(doc_page, encoding='utf-8') as f:
+                doc_html = f.read()
+            for ln in lns:
+                for w in ln['works']:
+                    for base in ('literature', os.path.join('de', 'literatur')):
+                        with io.open(os.path.join(SITE, base, w['work'], 'index.html'),
+                                     encoding='utf-8') as f:
+                            work_html = f.read()
+                        for pg in w['pages']:
+                            n += 1
+                            sec = work_html.split(f'id="p-{pg["key"]}"', 1)[-1].split('</section>', 1)[0]
+                            if f'href="{BASEURL}{permalink[uid]}"' not in sec:
+                                fail(f"literature: {base}/{w['work']}/#p-{pg['key']} does not link {uid}")
+                            if f'/literature/{w["work"]}/#p-{pg["key"]}"' not in doc_html:
+                                fail(f"literature: {uid}'s page does not link {w['work']}/#p-{pg['key']}")
+        print(f'  {n} hand-made links checked on both sides ({len(per_doc)} documents)')
+
     # ---- summary ----------------------------------------------------------
     print()
     if failures:

@@ -61,7 +61,7 @@ the summonses reached him late, and he sent the certificate to ask for more time
 before he had an answer
 ([statement of the claim]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). A historian's
 article of 1973 already counts "Antoni Prusiński", starost of Niszczewice, among the Polish
-emigrés at Venice at the end of 1794 ([Pachoński]({{ '/documents/pachonski1973/1/' | relative_url }}), note 10). The department of foreign
+emigrés at Venice at the end of 1794 ([Pachoński]({{ '/literature/pachonski1973/#p-240' | relative_url }}), note 10). The department of foreign
 affairs passed the resident's report to the ministers for the new provinces in January 1797
 ([draft]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).
 

@@ -9129,7 +9129,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 409,
+  "count": 408,
   "documents": [
    "adwl85-1",
    "app53150kaliszgr414-1",
@@ -9246,8 +9246,7 @@
    "oe1bu9454-285",
    "oe1bu9454-286",
    "oe1bu9454-297",
-   "oe1bu9454-31",
-   "pachonski1973-1"
+   "oe1bu9454-31"
   ],
   "mentions": [
    {
@@ -12921,15 +12920,6 @@
     "scan": "APP_53_968_0_783_0006_a2-L1_03.jpg",
     "line": 34,
     "doc_line": 24
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Prusiński",
-    "page": 4,
-    "page_id": "0240_a",
-    "scan": "",
-    "line": 38,
-    "doc_line": 33
    }
   ]
  },
@@ -51472,294 +51462,6 @@
   ]
  },
  {
-  "entity": "wybicki",
-  "display": "Wybicki",
-  "count": 30,
-  "documents": [
-   "agad1174016-1",
-   "agad1174016-2",
-   "agad11740273-1",
-   "agad11740273-2",
-   "agad11740273-3",
-   "agad11740273-4",
-   "iiihamdaiiinr12366-2",
-   "oe1bu9454-63",
-   "pachonski1973-1"
-  ],
-  "mentions": [
-   {
-    "uid": "agad1174016-1",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0028_a2",
-    "scan": "AGAD_1_174_0_1_6_0028_a2-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "agad1174016-1",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0028_a2",
-    "scan": "AGAD_1_174_0_1_6_0028_a2-L1_01.jpg",
-    "line": 6,
-    "doc_line": 4
-   },
-   {
-    "uid": "agad1174016-1",
-    "surface": "Wybickiego",
-    "page": 2,
-    "page_id": "0029_a1",
-    "scan": "AGAD_1_174_0_1_6_0029_a1-L1_02.jpg",
-    "line": 8,
-    "doc_line": 5
-   },
-   {
-    "uid": "agad11740273-2",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "agad11740273-2",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
-    "line": 8,
-    "doc_line": 1
-   },
-   {
-    "uid": "agad11740273-2",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
-    "line": 8,
-    "doc_line": 1
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Wybickiego",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 15,
-    "doc_line": 3
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 18,
-    "doc_line": 6
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 18,
-    "doc_line": 6
-   },
-   {
-    "uid": "agad11740273-1",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "agad11740273-1",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad11740273-1",
-    "surface": "Wybickiemu",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad11740273-3",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0007_a2",
-    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "agad11740273-3",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0007_a2",
-    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
-    "line": 15,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad11740273-4",
-    "surface": "Wybicki",
-    "page": 1,
-    "page_id": "0047_a2",
-    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "agad11740273-4",
-    "surface": "Wybickiego",
-    "page": 1,
-    "page_id": "0047_a2",
-    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
-    "line": 29,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad11740273-4",
-    "surface": "Wybickiego",
-    "page": 1,
-    "page_id": "0047_a2",
-    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
-    "line": 29,
-    "doc_line": 2
-   },
-   {
-    "uid": "oe1bu9454-63",
-    "surface": "Wybicki",
-    "page": 3,
-    "page_id": "0119_a2",
-    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-63",
-    "surface": "Wybicki",
-    "page": 3,
-    "page_id": "0119_a2",
-    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
-    "line": 4842,
-    "doc_line": 62
-   },
-   {
-    "uid": "oe1bu9454-63",
-    "surface": "Wybicki",
-    "page": 3,
-    "page_id": "0119_a2",
-    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
-    "line": 4845,
-    "doc_line": 65
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Wybicki",
-    "page": 4,
-    "page_id": "0006_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0006_a1-L2_04.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Wybicki",
-    "page": 8,
-    "page_id": "0008_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0008_a1-L2_08.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Wybicki",
-    "page": 4,
-    "page_id": "0006_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0006_a1-L2_04.jpg",
-    "line": 39,
-    "doc_line": 23
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Wybicki",
-    "page": 8,
-    "page_id": "0008_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0008_a1-L2_08.jpg",
-    "line": 67,
-    "doc_line": 47
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Wybicki",
-    "page": 7,
-    "page_id": "0243_a",
-    "scan": "",
-    "line": 63,
-    "doc_line": 55
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Wybicki",
-    "page": 8,
-    "page_id": "0244_a",
-    "scan": "",
-    "line": 68,
-    "doc_line": 59
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Wybicki",
-    "page": 8,
-    "page_id": "0244_a",
-    "scan": "",
-    "line": 71,
-    "doc_line": 62
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Wybicki",
-    "page": 12,
-    "page_id": "0248_a",
-    "scan": "",
-    "line": 101,
-    "doc_line": 88
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Wybicki",
-    "page": 15,
-    "page_id": "0251_a",
-    "scan": "",
-    "line": 121,
-    "doc_line": 105
-   }
-  ]
- },
- {
   "entity": "kunckel",
   "display": "Kunkel",
   "count": 29,
@@ -54128,6 +53830,248 @@
     "scan": "Oe_1_Bu_9454_0437_a1-L232_02.jpg",
     "line": 16930,
     "doc_line": 23
+   }
+  ]
+ },
+ {
+  "entity": "wybicki",
+  "display": "Wybicki",
+  "count": 25,
+  "documents": [
+   "agad1174016-1",
+   "agad1174016-2",
+   "agad11740273-1",
+   "agad11740273-2",
+   "agad11740273-3",
+   "agad11740273-4",
+   "iiihamdaiiinr12366-2",
+   "oe1bu9454-63"
+  ],
+  "mentions": [
+   {
+    "uid": "agad1174016-1",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0028_a2",
+    "scan": "AGAD_1_174_0_1_6_0028_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "agad1174016-1",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0028_a2",
+    "scan": "AGAD_1_174_0_1_6_0028_a2-L1_01.jpg",
+    "line": 6,
+    "doc_line": 4
+   },
+   {
+    "uid": "agad1174016-1",
+    "surface": "Wybickiego",
+    "page": 2,
+    "page_id": "0029_a1",
+    "scan": "AGAD_1_174_0_1_6_0029_a1-L1_02.jpg",
+    "line": 8,
+    "doc_line": 5
+   },
+   {
+    "uid": "agad11740273-2",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "agad11740273-2",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
+    "line": 8,
+    "doc_line": 1
+   },
+   {
+    "uid": "agad11740273-2",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
+    "line": 8,
+    "doc_line": 1
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Wybickiego",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 15,
+    "doc_line": 3
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 18,
+    "doc_line": 6
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 18,
+    "doc_line": 6
+   },
+   {
+    "uid": "agad11740273-1",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "agad11740273-1",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad11740273-1",
+    "surface": "Wybickiemu",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad11740273-3",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "agad11740273-3",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
+    "line": 15,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad11740273-4",
+    "surface": "Wybicki",
+    "page": 1,
+    "page_id": "0047_a2",
+    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "agad11740273-4",
+    "surface": "Wybickiego",
+    "page": 1,
+    "page_id": "0047_a2",
+    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
+    "line": 29,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad11740273-4",
+    "surface": "Wybickiego",
+    "page": 1,
+    "page_id": "0047_a2",
+    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
+    "line": 29,
+    "doc_line": 2
+   },
+   {
+    "uid": "oe1bu9454-63",
+    "surface": "Wybicki",
+    "page": 3,
+    "page_id": "0119_a2",
+    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-63",
+    "surface": "Wybicki",
+    "page": 3,
+    "page_id": "0119_a2",
+    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
+    "line": 4842,
+    "doc_line": 62
+   },
+   {
+    "uid": "oe1bu9454-63",
+    "surface": "Wybicki",
+    "page": 3,
+    "page_id": "0119_a2",
+    "scan": "Oe_1_Bu_9454_0119_a2-L63_03.jpg",
+    "line": 4845,
+    "doc_line": 65
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Wybicki",
+    "page": 4,
+    "page_id": "0006_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0006_a1-L2_04.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Wybicki",
+    "page": 8,
+    "page_id": "0008_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0008_a1-L2_08.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Wybicki",
+    "page": 4,
+    "page_id": "0006_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0006_a1-L2_04.jpg",
+    "line": 39,
+    "doc_line": 23
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Wybicki",
+    "page": 8,
+    "page_id": "0008_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0008_a1-L2_08.jpg",
+    "line": 67,
+    "doc_line": 47
    }
   ]
  },
@@ -62616,133 +62560,6 @@
   ]
  },
  {
-  "entity": "dabrowski-jan-henryk",
-  "display": "Jan Henryk Dąbrowski",
-  "count": 13,
-  "documents": [
-   "pachonski1973-1"
-  ],
-  "mentions": [
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 1,
-    "page_id": "0237_a",
-    "scan": "",
-    "line": 6,
-    "doc_line": 4
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 1,
-    "page_id": "0237_a",
-    "scan": "",
-    "line": 11,
-    "doc_line": 9
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 8,
-    "page_id": "0244_a",
-    "scan": "",
-    "line": 71,
-    "doc_line": 62
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 15,
-    "page_id": "0251_a",
-    "scan": "",
-    "line": 123,
-    "doc_line": 107
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 15,
-    "page_id": "0251_a",
-    "scan": "",
-    "line": 126,
-    "doc_line": 110
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 16,
-    "page_id": "0252_a",
-    "scan": "",
-    "line": 128,
-    "doc_line": 111
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 16,
-    "page_id": "0252_a",
-    "scan": "",
-    "line": 129,
-    "doc_line": 112
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 17,
-    "page_id": "0253_a",
-    "scan": "",
-    "line": 136,
-    "doc_line": 118
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 17,
-    "page_id": "0253_a",
-    "scan": "",
-    "line": 140,
-    "doc_line": 122
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 18,
-    "page_id": "0254_a",
-    "scan": "",
-    "line": 146,
-    "doc_line": 127
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 18,
-    "page_id": "0254_a",
-    "scan": "",
-    "line": 146,
-    "doc_line": 127
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 19,
-    "page_id": "0255_a",
-    "scan": "",
-    "line": 150,
-    "doc_line": 130
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Dąbrowski",
-    "page": 19,
-    "page_id": "0255_a",
-    "scan": "",
-    "line": 151,
-    "doc_line": 131
-   }
-  ]
- },
- {
   "entity": "jankowski",
   "display": "Jankowski",
   "count": 12,
@@ -69869,6 +69686,63 @@
   ]
  },
  {
+  "entity": "ruechel",
+  "display": "General Rüchel",
+  "count": 5,
+  "documents": [
+   "oe1bu9454-103",
+   "oe1bu9454-177",
+   "oe1bu9454-55"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-103",
+    "surface": "Ruchels",
+    "page": 4,
+    "page_id": "0215_a",
+    "scan": "Oe_1_Bu_9454_0215_a-L103_04.jpg",
+    "line": 8173,
+    "doc_line": 82
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Rüchel, General",
+    "page": 2,
+    "page_id": "0331_a1",
+    "scan": "Oe_1_Bu_9454_0331_a1-L177_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Rüchel",
+    "page": 2,
+    "page_id": "0331_a1",
+    "scan": "Oe_1_Bu_9454_0331_a1-L177_02.jpg",
+    "line": 12532,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Rüchel",
+    "page": 3,
+    "page_id": "0105_a2",
+    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-55",
+    "surface": "Rüchel",
+    "page": 3,
+    "page_id": "0105_a2",
+    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
+    "line": 4170,
+    "doc_line": 85
+   }
+  ]
+ },
+ {
   "entity": "biron",
   "display": "Prinz Biron",
   "count": 5,
@@ -70785,53 +70659,6 @@
   ]
  },
  {
-  "entity": "ruechel",
-  "display": "General Rüchel",
-  "count": 4,
-  "documents": [
-   "oe1bu9454-177",
-   "oe1bu9454-55"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Rüchel, General",
-    "page": 2,
-    "page_id": "0331_a1",
-    "scan": "Oe_1_Bu_9454_0331_a1-L177_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Rüchel",
-    "page": 2,
-    "page_id": "0331_a1",
-    "scan": "Oe_1_Bu_9454_0331_a1-L177_02.jpg",
-    "line": 12532,
-    "doc_line": 42
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Rüchel",
-    "page": 3,
-    "page_id": "0105_a2",
-    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-55",
-    "surface": "Rüchel",
-    "page": 3,
-    "page_id": "0105_a2",
-    "scan": "Oe_1_Bu_9454_0105_a2-L55_03.jpg",
-    "line": 4170,
-    "doc_line": 85
-   }
-  ]
- },
- {
   "entity": "prinzessin-adelheid",
   "display": "Prinzessin Adelheid zu Hohenlohe-Ingelfingen",
   "count": 4,
@@ -70970,54 +70797,6 @@
     "scan": "Oe_1_Bu_9454_0539_a1-L301_02.jpg",
     "line": 21436,
     "doc_line": 27
-   }
-  ]
- },
- {
-  "entity": "zajaczek",
-  "display": "Zajączek",
-  "count": 4,
-  "documents": [
-   "iiihamdaiiinr12765-27",
-   "iiihamdaiiinr12765-28",
-   "pachonski1973-1"
-  ],
-  "mentions": [
-   {
-    "uid": "iiihamdaiiinr12765-28",
-    "surface": "Zajączek",
-    "page": 1,
-    "page_id": "0041_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "iiihamdaiiinr12765-28",
-    "surface": "Zajączek",
-    "page": 1,
-    "page_id": "0041_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg",
-    "line": 951,
-    "doc_line": 1
-   },
-   {
-    "uid": "iiihamdaiiinr12765-27",
-    "surface": "Zajączeck",
-    "page": 2,
-    "page_id": "0040_a1",
-    "scan": "III_HA_MdA_III_Nr_12765_0040_a1-L27_02.jpg",
-    "line": 935,
-    "doc_line": 9
-   },
-   {
-    "uid": "pachonski1973-1",
-    "surface": "Zajączek",
-    "page": 5,
-    "page_id": "0241_a",
-    "scan": "",
-    "line": 41,
-    "doc_line": 35
    }
   ]
  },
@@ -71554,6 +71333,44 @@
     "scan": "III_HA_MdA_III_Nr_12366_0002_a-L1_01.jpg",
     "line": 9,
     "doc_line": 4
+   }
+  ]
+ },
+ {
+  "entity": "zajaczek",
+  "display": "Zajączek",
+  "count": 3,
+  "documents": [
+   "iiihamdaiiinr12765-27",
+   "iiihamdaiiinr12765-28"
+  ],
+  "mentions": [
+   {
+    "uid": "iiihamdaiiinr12765-28",
+    "surface": "Zajączek",
+    "page": 1,
+    "page_id": "0041_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12765-28",
+    "surface": "Zajączek",
+    "page": 1,
+    "page_id": "0041_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0041_a2-L28_01.jpg",
+    "line": 951,
+    "doc_line": 1
+   },
+   {
+    "uid": "iiihamdaiiinr12765-27",
+    "surface": "Zajączeck",
+    "page": 2,
+    "page_id": "0040_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0040_a1-L27_02.jpg",
+    "line": 935,
+    "doc_line": 9
    }
   ]
  },

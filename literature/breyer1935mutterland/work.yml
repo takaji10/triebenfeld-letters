@@ -1,0 +1,51 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# from Jutta Dennerlein's digital reissue (PDF, the editor's folder
+# "Books_2") by pipeline/literature/upstream_pdf.py, whole (the reissue has
+# no foreword to leave out). english.md is Claude's. Never tidied: see
+# notes.md.
+slug: breyer1935mutterland
+visible: true
+kind: study
+title: "Ostdeutschland als Mutterland der deutschen Siedlungen in Mittelpolen"
+title_en: "Eastern Germany as the Motherland of the German Settlements in Central Poland"
+cite: "Breyer (1935b)"
+author: "Albert Breyer"
+author_sort: "Breyer, Albert"
+published: "Deutsche Monatshefte in Polen, Jahrgang 2 (12), Heft 1/2, July/August 1935; cited by the pages of the digital reissue by Jutta Dennerlein (UpstreamVistula.org, version 1.0, October 2006)"
+year: 1935
+language: de
+english_by: Claude
+scan: "http://www.UpstreamVistula.org"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A lecture by Albert Breyer on where the Germans of central Poland came
+  from, drawn from the places of origin written in the Lutheran church books:
+  the farmers of the Vistula lowland, of Dobrzyń, of Kuyavia, of the Kalisz
+  country and of the Łódź area; the townsmen and cloth-makers; the pastors and
+  teachers. Page 8 counts the places of origin in the church books of
+  Zagórów (1843 to 1847), Grodziec, Stawiszyn, Turek and Władysławów:
+  Zagórów is the town of the estate, and Grodziec the place named in the
+  title of Breyer's notebook of July 1936. Page 9 puts the Germans of the
+  Kalisz country at 54 in a hundred Silesian. Breyer (1889-1939) is the man whose notebooks of
+  1936 are holdings of this edition (APP 53/968/0/-/669 and -/716). He wrote
+  it for the German minority in Poland in 1935 to show that its people came
+  from the neighbouring Prussian provinces; its closing words speak of the
+  strengths and weaknesses of German "stocks" (Stämme). Its counts are his
+  own and are to be held against the church books.
+account_de: >-
+  Ein Vortrag Albert Breyers über die Herkunft der Deutschen Mittelpolens,
+  nach den in den evangelischen Kirchenbüchern eingetragenen Herkunftsorten:
+  die Bauern der Weichselniederung, des Dobriner Landes, Kujawiens, des
+  Kalischer Landes und des Lodzer Gebiets; die Städter und Tuchmacher; die
+  Pastoren und Lehrer. Seite 8 zählt die Herkunftsorte in den Kirchenbüchern
+  von Zagórów (1843 bis 1847), Grodziec, Stawiszyn, Turek und Władysławów:
+  Zagórów ist die Stadt des Gutes, Grodziec der Ort im Titel von Breyers
+  Notizbuch vom Juli 1936. Seite 9 gibt die Deutschen des Kalischer Landes
+  zu 54 vom Hundert als schlesisch an. Breyer (1889-1939) ist der Mann,
+  dessen Notizbücher von 1936 Bestände dieser Edition sind (APP
+  53/968/0/-/669 und -/716). Er schrieb ihn 1935 für die deutsche Minderheit
+  in Polen, um zu zeigen, dass ihre Leute aus den benachbarten preußischen
+  Provinzen kamen; seine Schlussworte sprechen von den Stärken und Schwächen
+  der deutschen „Stämme“. Seine Zählungen sind die seinen und an den
+  Kirchenbüchern zu prüfen.

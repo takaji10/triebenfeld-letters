@@ -112,7 +112,7 @@
   initial_en: "D"
   sort_de: "dukaten"
   initial_de: "D"
-  docs: 17
+  docs: 16
 - id: "gulden"
   kind: "money"
   lang: "de"
@@ -264,7 +264,7 @@
   initial_en: "D"
   sort_de: "vorwerk"
   initial_de: "V"
-  docs: 44
+  docs: 43
 - id: "erbpacht"
   kind: "land"
   lang: "de"
@@ -378,7 +378,7 @@
   initial_en: "E"
   sort_de: "majorat"
   initial_de: "M"
-  docs: 31
+  docs: 30
 - id: "dominium"
   kind: "land"
   lang: "la"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 65
+  docs: 64
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1100,7 +1100,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 94
+  docs: 93
 - id: "ausfertigung"
   kind: "law"
   lang: "de"

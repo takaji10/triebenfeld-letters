@@ -221,6 +221,74 @@ read, translate and summarise.
   EDITORIAL_RULES.md), so the clause struck out at the end of the draft
   resolution ("z zachowaniem praw Im służących") stays out.
 
+- **The literature** (`literature/`, begun 2026-10-19;
+  `docs/LITERATURE_PLAN.md`). Waiting on the editor: Guradze's corrected
+  text and its page numbers (until then it is cut by chapter); the missing
+  mark of page 27 in the English of Paciorkowski; the notes of Seidel's
+  book, untranscribed in both files. Not looked into: the Materialien
+  (p. 135) lists Cölln's six corrections as "nos. 7, 10, 14, 18, 20 and
+  28", but the one on Triebenfeld stands at his entry, numbered 16/38
+  (`literature/materialien1861/notes.md`).
+  **The second set of books** (Books_2, 2026-10-19: Breyer 1935 twice and
+  1938, Żychliński 1885 and 1891, the PSB entry of 1982) raises these, each
+  set out in the work's `notes.md`. Nothing in the edition is changed until
+  the editor rules:
+  - **Michalina's second marriage.** Żychliński (1891, p. 221) has Stanisław
+    Miączyński marry her in August 1809, with the marriage settlement; the
+    PSB says "from 1809". The bios of `prusimska` and `miaczynski` say
+    "about 1814". Change the bios to 1809?
+  - **Her mother's death.** Żychliński (1891, p. 221, footnote) has Maryanna
+    Dąmbska die at Padua on 2 September 1797. The Prussian resident's
+    dispatch from Venice of 14 December 1796 (I. HA GR, Rep. 7 C, Nr. 1414,
+    document 2) already speaks of Prusimski's grief at his wife's death. If
+    it is the same death, she died in 1796 or earlier, and Żychliński's year
+    is wrong. The link `zychlinski1891-maryanna` says so on the site.
+  - **Who held Trąbczyn, 1809 to 1879.** Żychliński (1891, pp. 221-222):
+    Michalina made her estates over to Stanisław in 1809; he passed Trąbczyn
+    to his son Mieczysław before 1845, and Włodzimierz bought it from
+    Mieczysław. The edition (era `wlodzimierz`, the bios of `prusimska` and
+    `miaczynski-wlodzimierz`) has Michalina hold it until 1851 and
+    Włodzimierz after her.
+  - **Włodzimierz's death**: 18 December 1879 in Żychliński (1891, p. 222),
+    20 December in the editor's ruling of 2026-10-15. The editor's date
+    stands until they say otherwise.
+  - **Paweł Prusimski's generation.** Żychliński (1885, p. 187) makes Paweł
+    Apollo, the chamberlain, Krzysztof's brother; the PSB and the inspection
+    of 1754 make the chamberlain the Starost's uncle, a generation lower.
+    The edition follows the documents; Żychliński is very likely wrong.
+  - **Claude's identifications, not yet accepted** (`literature/index.yml`):
+    the Wieniec
+    that Stanisław and Mieczysław Miączyński held (Żychliński 1891) is the
+    church estate by Brześć Kujawski the Prince was granted in 1797;
+    Breyer's Świątniki (1938, p. 10) is the Ląd monastery's service village.
+    Settled (the editor, 2026-10-20: "Paul Prusiński is indeed Paweł
+    Prusimski"): Breyer's "Paul von Kolno-Prusiński", who founded Łazińsk
+    Holland in 1746 (Breyer 1935, p. 41), is Paweł Prusimski the
+    chamberlain. The documents bear it out: the boundary decree of 1775
+    (Konin Gr.145, p. 76) cites the rights granted the Hollanders in 1746,
+    the summons of 1860 (53/968/0/-/783) names their grantors "Paweł z
+    Kolna Prusiński" and his wife Katarzyna z Rozdrażewskich, and the
+    inspection of 1754 names her as Paweł Prusimski's widow
+    (`literature/links.yml`, `breyer1935gaue-hollanders`).
+  - **K. G. von Weigel** of Hennersdorf, owner of the Zagórów estates from
+    1828 (Breyer 1938, p. 22): the same man as the edition's banker Carl
+    Ferdinand Weigel of Breslau, or of his family? The link
+    `breyer1938-weigel` says the question is open.
+  - **The PSB's "Rep. ,7, C 14 M 1"** at Merseburg: perhaps the file the
+    edition has as I. HA GR, Rep. 7 C, Nr. 1414; not certain.
+  - **The years of the Złota księga's volumes**, 1885 (vol. 7) and 1891
+    (vol. 13), are reckoned from the series, not read off a title page.
+  - **Breyer's counts** (1935, "Mutterland", pp. 8 and 11) do not add up:
+    for Zagórów, 18 places and 13 in the figures; for Kalisz, 278 of 298
+    couples. Kept as printed.
+  - **A link from Breyer's lecture** (1935, "Mutterland", p. 8, Zagórów
+    and Grodziec) to Breyer's notebook "V. Grodziec Juli 1936" (APP
+    53/968/0/-/669, document 2): wanted?
+  - **Włodzimierz Miączyński in the index.** The index has no entry for him
+    (`miaczynski-wlodzimierz`), so his name in Żychliński (1891, pp. 222,
+    223) is not listed on his page under "In the literature". To be added
+    if the editor wants it.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
@@ -269,8 +337,63 @@ written until there is a witness or a better scan.
   settled; 18 remain, eleven of them signatures; the page edges
   of the four joined openings approved by the editor. In the statement of 1896 four rows do not
   add up as written (notes).
-- **The liquidation era** (`liquidation`, 2026-10-15) carries a working
-  name until the editor names it.
+- **The eras** (the editor, 2026-10-20: "Let's better define the eras").
+  The liquidation era (`liquidation`) is made one with Włodzimierz
+  Miączyński's years (`wlodzimierz`), at the editor's word, under the
+  working name "The colonists' land and forest rights": 14 documents,
+  1858 to 1897. The editor asked whether an era may be headed by one
+  strand of it, as the Prusimski era is by the boundary dispute, with
+  nothing on the founding of the Olęder colonies or Paweł Prusimski; and
+  said the twentieth century ends with the expulsion of the German
+  settlers at the end of the Second World War. Claude's proposal, waiting
+  on the editor: name each era for the period (its owners where they
+  define it), and give the strands in the ownership line and the blurb.
+  - `medieval`: keep "Trąbczyn in the Middle Ages".
+  - `prusimski-boundary`: "The Trąmpczyński and Prusimski years". The
+    present ownership line is wrong as well as narrow: the documents of
+    1589 and 1644 are the Trąmpczyński family's, not the Prusimskis'. The
+    blurb would add the Olęder colonies: the boundary decree of 1775
+    (Konin Gr.145, p. 76) dates them by "the rights granted them in 1746",
+    and the summons of 1860 names the grantors, Paweł Prusimski and his
+    wife Katarzyna Rozdrażewska (Breyer's "Paul von Kolno-Prusiński": the
+    editor, 2026-10-20); the privilege itself is not in the edition, and
+    its earliest record of the settlers is the inspection of 1754 in Konin
+    Gr.136. Then Paweł's funeral of 1754, and the end at Antoni
+    Prusimski's flight in 1794.
+  - `hohenlohe`: keep "The Hohenlohe-Ingelfingen years".
+  - `restitution`: "Michalina Miączyńska's years", 1807 to her death in
+    1851, the restitution in the blurb.
+  - `wlodzimierz`: the working name "The colonists' land and forest
+    rights" is too vague (the editor, 2026-10-20: "this is really about
+    the liquidation of the estate", though the colonists may be the right
+    focus). Claude's proposal: **"The liquidation: the colonists become
+    owners"** ("Die Liquidation: die Kolonisten werden Eigentümer"). It
+    keeps the documents' own word and their own account: the Łazińsk table
+    of 1868 lists the "farmsteads that passed into the full ownership of
+    the peasants under the Imperial Ukases of 19 February (2 March) 1864"
+    and the dues "to be compensated by the Government", with a
+    "liquidation sum for the former owner" (APŁ 39/98/0/-/6603, document
+    1; Breyer's copy in 53/968/0/-/716, document 4). **Settled (the
+    editor, 2026-10-20: "liquidation meant that the land farmed by the
+    colonists became their own, and the demesne farms remained in the
+    possession of the estate"), and the documents agree**: the table lists
+    only the peasants' farmsteads and common land, and calls the forest
+    "Studzianka" the manor forest (6603, documents 1 to 3); in 1892 the
+    colonists gave up their forest rights to Countess Maria Wielopolska,
+    "owner of the estate of Trąbczyn", for "usable manor land" (document
+    4). The liquidation documents do not name the demesne farms
+    themselves; Breyer's notebook of 1936 does, as what was left of them
+    later: "Remaining manor land of Trąbczyn", the demesne farm of Huta
+    divided up, "Włodzimierow was parcelled 25 years ago from the Trąbczyn
+    estate" (53/968/0/-/669, documents 1 and 2). The era's account and
+    the story now say so (2026-10-20). The ownership line keeps the
+    owners; the account would lead with the colonists (the lawsuit of 1859
+    over their pasture and wood, ownership in 1864, the table of 1868, the
+    forest rights given up for land in 1892). The era runs past
+    Włodzimierz's death to 1901.
+  - `twentieth-century`: "The German villages to 1945", ending with the
+    expulsion of the German settlers; no document of 1945 is in the
+    edition yet.
 - **Two eras without names** (editor, 2026-10-14): the era after Michalina
   Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
   53/968/0/-/783), and the twentieth century of the estate
@@ -501,21 +624,15 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   (`units/kdw/notes.md`, "Rulings taken").
 
 - ~~**Pachoński 1973**: copyright~~ **Settled (editor, 2026-10-20):** "Add
-  this literature as an allowed source to publish." The whole article
-  (Olschki, Florence, 1973), its map and an English translation of it are
-  cleared to be published. The Licences page (`site/rights.md`,
-  `site/de/rechte.md`) now says the article, its map, and the edition's
-  English and summaries of it are outside CC BY, credited to the publisher,
-  and will be taken down if the publisher asks. Decided in session, not
-  asked: era `hohenlohe` (its subject's years, beside Nr. 1414); dated 1973;
-  no estate; a new repository `published` credited to the publisher
-  (`units/pachonski1973/notes.md`).
+  this literature as an allowed source to publish."
 
-- **Mączak 1968** (added 2026-10-20, not published): Antoni Mączak's article
-  "Export of Grain and the Problem of Distribution of National Income in the
-  Years 1550-1650", *Acta Poloniae Historica* 18 (1968), in English (translated
-  by Ewa Tymowska), whole, with its tables, map and chart, from the editor's
-  PDF of the RCIN copy. Decided in session, not asked: era
-  `prusimski-boundary` (its years, 1550-1650); dated 1968; no estate; no
-  translation (it is English); status `transcribed`
-  (`units/maczak1968/notes.md`).
+- **Three works of the literature** (added 2026-10-20, not published):
+  Pachoński (1973), Mączak (1968) and Szwiec (2009), in `literature/`. The
+  first two were built as holdings by a session that had not seen the
+  literature and were moved there the same day (the editor: the Sources page
+  is for primary sources). Decided in session, not asked: the map, the chart
+  and the 80 photograph pages are shown as pictures; Szwiec's table of
+  contents is left out; Mączak's tables are HTML tables; the Literature page's
+  new order and layout (the editor's) is applied to all fourteen works, and
+  the anonymous Materialien is listed under its title as "Anonymous". Each
+  work's `notes.md` says the rest.

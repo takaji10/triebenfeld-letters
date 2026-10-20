@@ -31,21 +31,15 @@ Die Dokumente sind über zweihundert Jahre alt, ihr Wortlaut gehört niemandem.
 Die Lizenz gilt für das, was diese Edition hinzufügt: die Lesung der
 Handschriften, die Übersetzung und den Kommentar.
 
-**Ausgenommen ist die veröffentlichte Literatur.** Die Edition gibt auch zwei
-moderne Studien vollständig wieder: Jan Pachońskis Aufsatz von 1973 über die
-polnischen Emigranten in Venedig
-([Pachoński 1973]({{ '/de/quellen/pachonski1973/' | relative_url }})), der
-Antoni Prusimski unter ihnen nennt, und Antoni Mączaks Aufsatz von 1968 über
-die Ausfuhr polnischen Getreides
-([Mączak 1968]({{ '/de/quellen/maczak1968/' | relative_url }})). Ihre Texte,
-Karten, Tabellen und ihr Schaubild sind urheberrechtlich geschützt; die Rechte
-liegen bei ihren Verfassern und Verlagen: Leo S. Olschki, Florenz, und *Acta
-Poloniae Historica* (Institut für Geschichte der Polnischen Akademie der
-Wissenschaften). Sie fallen, ebenso wie die englische Übersetzung und die
-Zusammenfassungen in dieser Edition, **nicht** unter die Lizenz CC BY. Sie
-werden zu Forschungszwecken wiedergegeben, mit Nachweis ihrer Verlage unten
-unter „Veröffentlichte Werke“; wer sie weiterverwenden möchte, wendet sich an
-den Verlag. Verlangt ein Verlag ihre Entfernung, so geschieht das.
+**Ausgenommen ist die Literatur.** Die modernen Werke auf der Seite
+[Literatur]({{ '/de/literatur/' | relative_url }}), darunter Pachońskis
+Aufsatz von 1973, Mączaks von 1968 und Szwiecs Katalog von 2009, sind
+urheberrechtlich geschützt; die Rechte liegen bei ihren Verfassern, Fotografen
+und Verlagen, die die Seite jedes Werks nennt. Ihre Texte und Bilder und die
+englischen Übersetzungen der Edition fallen **nicht** unter die Lizenz CC BY.
+Sie werden zu Forschungszwecken wiedergegeben; wer sie weiterverwenden möchte,
+wendet sich an den Verlag. Verlangt ein Verlag die Entfernung eines Werks, so
+geschieht das.
 
 Die englischen Übersetzungen wurden von einem KI-Modell angefertigt
 ([Über die Edition]({{ '/de/ueber-diese-edition/' | relative_url }})). Zitieren

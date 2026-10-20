@@ -12,6 +12,7 @@ were true when they were written.
 | [EDITORIAL_RULES.md](EDITORIAL_RULES.md) | What may be corrected without asking, what never is, and the editor's standing rulings. |
 | [NEW_UNIT.md](NEW_UNIT.md) | Taking a new holding from scans to published pages. |
 | [HOUSE_STYLE.md](HOUSE_STYLE.md) | How everything written about the documents is written. The editor's standing rulings on prose. |
+| [EDITORS_VOICE.md](EDITORS_VOICE.md) | The editor's own voice, from three samples of their writing: an analysis and a two-paragraph brief, for a later reading of the site's prose. Where it differs from HOUSE_STYLE, the house style stands until the editor rules. |
 | [DEPLOY.md](DEPLOY.md) | How the site is hosted and what blocks a deploy. |
 | [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md) | Open questions, still live. |
 | [TODO.md](TODO.md) | The next steps, in order, and which of them wait on the editor. |
@@ -19,6 +20,7 @@ were true when they were written.
 | [HOHENLOHE_ERA_PLAN.md](HOHENLOHE_ERA_PLAN.md) | The Hohenlohe-Ingelfingen years page: what goes in, its sections and their sources, and what a new holding changes. |
 | [PRUSIMSKI_ERA_PLAN.md](PRUSIMSKI_ERA_PLAN.md) | The Prusimski era: the court books from Poznań still to add, how each is added, the spelling question, thoughts on the glossary. What the editor has decided and what waits on them. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
+| [LITERATURE_PLAN.md](LITERATURE_PLAN.md) | The books and articles about the sources (`literature/`): kept apart from the archival documents, original and English page by page, for questions; which are shown on the site and how. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 
 ## Reports — a record of how something was settled

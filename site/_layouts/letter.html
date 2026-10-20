@@ -110,7 +110,7 @@ layout: default
     <div class="viewbar" role="group" aria-label="Text view">
       <button type="button" class="vbtn is-on" data-show="diplomatic" data-i18n="view_diplomatic">{{ t.view_diplomatic }}</button>
       <button type="button" class="vbtn" data-show="reading" data-i18n="view_reading">{{ t.view_reading }}</button>
-      {% if page.language == 'en' %}<span class="muted viewnote" data-i18n="view_in_english">{{ t.view_in_english }}</span>{% else %}<button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>{% endif %}
+      <button type="button" class="vbtn" data-show="translation" data-i18n="view_translation">{{ t.view_translation }}</button>
       <label class="chk"><input type="checkbox" id="hidescans"> <span data-i18n="hide_scans">{{ t.hide_scans }}</span></label>
       <label class="chk"><input type="checkbox" id="glossary-toggle" checked> <span data-i18n="gl_toggle">{{ t.gl_toggle }}</span></label>
       <span class="viewhint" data-hint="diplomatic"><span data-i18n="hint_diplomatic">{{ t.hint_diplomatic }}</span> <span data-i18n="editorial_note">{{ t.editorial_note }}</span> <a data-i18n="nav_about" data-href-en="{{ '/reading-this-edition/' | relative_url }}" data-href-de="{{ '/de/ueber-diese-edition/' | relative_url }}" href="{% if lang == 'de' %}{{ '/de/ueber-diese-edition/' | relative_url }}{% else %}{{ '/reading-this-edition/' | relative_url }}{% endif %}">{{ t.nav.about }}</a>.</span>
@@ -203,6 +203,27 @@ layout: default
       </dd>
       {% endif %}
 
+      {%- comment -%} Passages of the literature tied to this document by hand
+        (literature/links.yml, made into site.data.literature_links by
+        pipeline/literature/literature_site.py): the sentence saying why, then
+        the passages by work. {%- endcomment %}
+      {% assign lit_links = site.data.literature_links[page.uid] %}
+      {% if lit_links %}
+      <dt data-i18n="lit_in_literature">{{ t.lit_in_literature }}</dt>
+      <dd class="lit-doclinks">
+        {% for ln in lit_links %}
+        <p><span data-en="{{ ln.en | escape }}" data-de="{{ ln.de | escape }}">{% if lang == 'de' %}{{ ln.de }}{% else %}{{ ln.en }}{% endif %}</span></p>
+        {% for w in ln.works %}
+        {% assign lit_en = '/literature/' | append: w.work | append: '/' | relative_url %}
+        {% assign lit_de = '/de/literatur/' | append: w.work | append: '/' | relative_url %}
+        <p class="lit-doclinks-pages"><a data-href-en="{{ lit_en }}" data-href-de="{{ lit_de }}" href="{% if lang == 'de' %}{{ lit_de }}{% else %}{{ lit_en }}{% endif %}">{{ w.cite }}</a>:
+          {% for pg in w.pages %}<a data-href-en="{{ lit_en }}#p-{{ pg.key }}" data-href-de="{{ lit_de }}#p-{{ pg.key }}" href="{% if lang == 'de' %}{{ lit_de }}{% else %}{{ lit_en }}{% endif %}#p-{{ pg.key }}"><span data-en="{{ pg.en | escape }}" data-de="{{ pg.de | escape }}">{% if lang == 'de' %}{{ pg.de }}{% else %}{{ pg.en }}{% endif %}</span></a>{% endfor %}
+        </p>
+        {% endfor %}
+        {% endfor %}
+      </dd>
+      {% endif %}
+
       {% if page.duplicate_of %}
       <dt data-i18n="duplicate">{{ t.duplicate }}</dt>
       <dd>The same document as <a href="{{ page.duplicate_of_url | relative_url }}">letter {{ page.duplicate_of }}</a>, transcribed twice.</dd>
@@ -255,6 +276,7 @@ layout: default
       "nav_places": {{ d.nav.places | jsonify }},
       "nav_glossary": {{ d.nav.glossary | jsonify }},
       "nav_sources": {{ d.nav.sources | jsonify }},
+      "nav_literature": {{ d.nav.literature | jsonify }},
       "f_unit": {{ d.f_unit | jsonify }},
       "nav_about": {{ d.nav.about | jsonify }}
     }{%- unless forloop.last -%},{%- endunless -%}

@@ -330,6 +330,15 @@ NEEDS_CONFIRMATION.md.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
       on the Zagorow estates" is in (section 4 above).
+- [ ] **Later, at your word: the site's prose read against your voice**
+      (`docs/EDITORS_VOICE.md`, written 2026-10-20 from three samples of
+      your writing). Nothing is changed until you say so, and you rule
+      first on the three places where your voice and HOUSE_STYLE differ,
+      and on side roads.
+- [ ] **Later, at your word: a framed "side road" on the site**, a brief
+      contextual passage set visibly apart from the main text (your wish,
+      2026-10-20; EDITORS_VOICE.md, "Side roads on the site"). The site
+      has no such element yet.
 
 ## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added, checked and published 2026-10-13)
 
@@ -481,7 +490,8 @@ liquidation. Details: `units/apl399806603/notes.md`.
 - [x] You answered the spot sheet "Doubtful readings in the liquidation
       table of Łazińsk" (16 rows, 2026-10-15): three readings settled, the
       rest kept with their doubt; 18 marks remain. Worked in the same day.
-- [ ] A name for the era (`liquidation` is a working name).
+- [x] A name for the era: none needed, the era was made one with
+      Włodzimierz Miączyński's years (you, 2026-10-20).
 - [x] Published at your word (2026-10-15).
 
 ## 16. Oe 1 Bü 9454, letter 9 (added 2026-10-15, published 2026-10-15)
@@ -554,33 +564,69 @@ and any entry can be read in by volume and number. Details:
 - [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
       Ages", `medieval`).
 
-## 20. Pachoński 1973: the Polish emigrés at Venice (added 2026-10-20, not published)
+## 20. The literature (begun 2026-10-19)
 
-The first holding of published literature: Jan Pachoński's article of 1973
-in French, pages 237 to 256 of the conference volume edited by Vittore
-Branca, as text, with its footnotes and its map, translated, summarised and
-claim-checked in session. Its footnote 10 names "Antoni Prusiński de
-Nieszczewice" among the emigrés at Venice at the end of 1794. Its date is
-kept off the home page, the timeline and the eras' spans (you, 2026-10-20).
-Details: `units/pachonski1973/notes.md`.
+Books and articles about the sources, in their own language and in English,
+kept apart from the archival documents: `docs/LITERATURE_PLAN.md`. Each
+work's `literature/<slug>/notes.md` says what is known about its text.
 
-- [x] Read, translated, summarised, holding page, people indexed
-      (2026-10-20).
-- [x] **You: copyright.** Cleared to be published (you, 2026-10-20); the
-      Licences page says it is outside CC BY.
-- [ ] **You: a look** at the map's crop and the English, and the word to
-      publish.
-
-## 21. Mączak 1968: the export of grain, 1550-1650 (added 2026-10-20, not published)
-
-Antoni Mączak's article of 1968 in English (*Acta Poloniae Historica* 18,
-pp. 75-98), the second holding of published literature, at your word, as
-background to the farming of the Olęder settlers: text with its notes and
-seven tables, the map and the chart as pictures, summarised and
-claim-checked in session. It never names Trąbczyn; it mentions grain from
-Great Poland "a little along the Warta river" and the farming of the Dutch
-colonists of Royal Prussia. Details: `units/maczak1968/notes.md`.
-
-- [x] Read, summarised, holding page (2026-10-20).
-- [ ] **You: how useful it is** (you said this would be judged later), and
-      the word to publish.
+- [x] Six works brought in, each cut into pages in both languages and
+      checked to give back the whole file (`corpus/literature/`, made by
+      `pipeline/literature/build_literature.py`); Seidel kept off the site
+      (editor).
+- [x] The site: a "Literature" menu entry, a list page and a page per work
+      with original and English side by side, cited by printed page; the
+      Materialien first, then the other visible works (built 2026-10-19;
+      LITERATURE_PLAN.md, section 7).
+- [x] The pages go live: published at the editor's word, 2026-10-19.
+- [x] An index of the people and estates each page names, every hit read
+      and ruled in `literature/index.yml`; a list "In the literature" under
+      each of 35 people and 11 estates (built 2026-10-19;
+      LITERATURE_PLAN.md, section 8).
+- [ ] **You:** look at those lists (for example Triebenfeld and Hoym on
+      /people/, Trąbczyn and Krotoszyn on /places/). The five
+      identifications are accepted (2026-10-19).
+- [x] The links from a work's page to the documents
+      (`literature/links.yml`), the black register first: four links, 26
+      pages of the Materialien and the Neue Feuerbrände tied to 10
+      documents, each with a sentence saying why; on both sides (built
+      2026-10-19; LITERATURE_PLAN.md, section 9).
+- [x] "Gen. Ruchts" in letter 103 is Rüchel (the editor, 2026-10-19):
+      the scan reads "Ruchels", and the transcription, the English and the
+      link's sentence are corrected
+      (`units/oe1bu9454/intake/scripts/ruechel_103.py`). The literature
+      pages, lists and links were published the same day at the editor's
+      word.
+- [ ] **You (when convenient):** read the four sentences of the links
+      (beside documents 85 and 103 of Oe 1 Bü 9454, or under p. 145 of the
+      Materialien) on the live site.
+- [ ] **You: Guradze's text corrected**, and its page numbers added
+      (archive.org's page-by-page OCR can find where each page begins).
+      Its footnotes are numbered differently in the English (192 against
+      189).
+- [ ] **You (when convenient): Paciorkowski, page 27** has no mark in the
+      English; its text runs on under page 26.
+- [ ] **You (if you want them): the notes of Seidel's book** (pages 257 to
+      266) are empty in both files.
+- [ ] Later and selectively: events from the books on the timeline.
+- [x] One text at a time on a work's page, the English first, with buttons
+      for the original (the editor, 2026-10-19; published the same day).
+- [x] The second set, "Books_2": Breyer (1935, twice, and 1938), Żychliński
+      (1885, 1891) and the PSB (1982), brought in with Claude's English,
+      indexed, and eleven links written (LITERATURE_PLAN.md, section 10;
+      published 2026-10-19 at the editor's word).
+- [ ] **You:** the questions the second set raises, in NEEDS_CONFIRMATION
+      ("The literature"): Michalina's marriage (1809 or about 1814), her
+      mother's death (1797 or before December 1796), who held Trąbczyn
+      1809-1879, Włodzimierz's death (18 or 20 December 1879), K. G. von
+      Weigel, and three identifications of Claude's.
+- [ ] Still to be considered: Breyer (1938) pp. 38-47 (Ludwigslust,
+      Święcia, Schwenz, the villages in 1921) against the Łazińsk holdings,
+      each figure read in the documents first.
+- [x] Three more works (2026-10-20): Pachoński (1973) and Mączak (1968),
+      moved from the holdings where they were first built, and Szwiec
+      (2009), the catalogue of the Pyzdry Forest's architecture with its
+      photographs; the Literature page ordered by author as you asked
+      (LITERATURE_PLAN.md, section 11).
+- [ ] **You:** a look at the new Literature page and the three works, how
+      useful Mączak and Szwiec are, and the word to publish.

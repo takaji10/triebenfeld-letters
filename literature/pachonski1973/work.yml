@@ -1,0 +1,46 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md was read
+# in session from the editor's scans of the printed book (2026-10-20) and first
+# built as a holding; it was moved here the same day, when the holding was
+# found to belong to the literature (notes.md). english.md is Claude's. The
+# map of p. 246 is shown as a picture (figures).
+slug: pachonski1973
+visible: true
+kind: article
+title: "Les Polonais dans la République de Venise (1794-1797)"
+title_en: "The Poles in the Republic of Venice (1794-1797)"
+cite: "Pachoński (1973)"
+author: "Jan Pachoński"
+author_sort: "Pachoński, Jan"
+published: "Italia, Venezia e Polonia tra illuminismo e romanticismo, ed. Vittore Branca, Florence: Leo S. Olschki, 1973, pp. 237-256"
+year: 1973
+language: fr
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+figures:
+  "246": "246.jpg"
+account_en: >-
+  An article by Jan Pachoński, a historian of the Polish Legions, read at the
+  conference of the Giorgio Cini Foundation and the Polish Academy of Sciences
+  at Venice in October 1970, on the Polish emigrés in the Republic of Venice
+  from the defeat of the Kościuszko Insurrection in 1794 to the founding of the
+  Legions in 1797: who they were, their parties, the Polish Committee of 1795,
+  the Deputation at Paris and the offer of the Venetian command. Its note 10
+  counts "Antoni Prusiński de Nieszczewice", the Starost Antoni Prusimski, the
+  owner of Trąbczyn, among the three starosts at Venice at the end of 1794,
+  two years before the edition's papers show him there. A scholar's account
+  from the Venetian police registers and the French foreign ministry's files;
+  it says no more of Prusimski than that note.
+account_de: >-
+  Ein Aufsatz Jan Pachońskis, eines Historikers der Polnischen Legionen,
+  vorgetragen auf der Tagung der Fondazione Giorgio Cini und der Polnischen
+  Akademie der Wissenschaften in Venedig im Oktober 1970, über die polnischen
+  Emigranten in der Republik Venedig von der Niederlage des Kościuszko-Aufstands
+  1794 bis zur Gründung der Legionen 1797: wer sie waren, ihre Parteien, das
+  Polnische Komitee von 1795, die Deputation in Paris und das Angebot des
+  venezianischen Oberbefehls. Seine Anmerkung 10 zählt „Antoni Prusiński de
+  Nieszczewice“, den Starost Antoni Prusimski, den Besitzer von Trąbczyn, zu
+  den drei Starosten, die Ende 1794 in Venedig waren, zwei Jahre bevor ihn die
+  Papiere der Edition dort zeigen. Die Darstellung eines Gelehrten aus den
+  venezianischen Polizeiregistern und den Akten des französischen
+  Außenministeriums; über Prusimski sagt sie nicht mehr als diese Anmerkung.
