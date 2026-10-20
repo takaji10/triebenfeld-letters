@@ -445,8 +445,11 @@ def write_summaries(root, unit_dir, slug, ref, S, how):
         new = [yaml.safe_dump({'%s-%03d' % (slug, n): pair[i]}, allow_unicode=True, width=10 ** 9).rstrip('\n')
                for n, pair in sorted(S.items())]
         assert all('\n' not in l for l in new)
+        # A holding that sorts last goes before the file's closing newline, not after it
+        # (Pachoński 1973 left a blank line and no final newline, 2026-10-20).
+        end = len(keep) - 1 if keep and keep[-1] == '' else len(keep)
         at = next((k for k, l in enumerate(keep)
-                   if re.match(r'^[a-z0-9]+-\d+[a-z]?: ', l) and l.split('-', 1)[0] > slug), len(keep))
+                   if re.match(r'^[a-z0-9]+-\d+[a-z]?: ', l) and l.split('-', 1)[0] > slug), end)
         keep[at:at] = new
         io.open(path, 'w', encoding='utf-8', newline='').write('\n'.join(keep))
     print(len(S), 'summary/ies written, German and English, and put into the site data')

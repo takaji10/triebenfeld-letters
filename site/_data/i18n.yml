@@ -100,6 +100,7 @@ en:
   summons: Summons
   visitation: Visitation
   newspaper: Newspaper report
+  article: Article
   memorandum: Memorandum
   note: Note
   draft: Draft
@@ -191,6 +192,8 @@ en:
   by_paragraph: "Transcribed by paragraph, not line by line: each numbered entry is a paragraph of the manuscript."
   by_paragraph_printed: "The whole entry of the printed edition, one paragraph to each numbered line."
   noscan_printed: "From the electronic text of a printed edition: there is no page image."
+  by_paragraph_article: "The printed page, one paragraph or heading to each numbered line; its footnotes follow at the foot."
+  noscan_article: "A page of printed text: the edition gives its words, not a picture of the page."
   forms_medieval: "Medieval:"
   place: Place
   extent: Extent
@@ -404,6 +407,7 @@ de:
   summons: Vorladung
   visitation: Visitation
   newspaper: Zeitungsbericht
+  article: Aufsatz
   memorandum: Denkschrift
   note: Notiz
   draft: Konzept
@@ -496,6 +500,8 @@ de:
   by_paragraph: "Absatzweise transkribiert, nicht Zeile für Zeile: jeder nummerierte Eintrag ist ein Absatz der Handschrift."
   by_paragraph_printed: "Der ganze Eintrag der gedruckten Edition, ein Absatz je nummerierter Zeile."
   noscan_printed: "Aus dem elektronischen Text einer gedruckten Edition: es gibt kein Seitenbild."
+  by_paragraph_article: "Die gedruckte Seite, ein Absatz oder eine Überschrift je nummerierter Zeile; die Fußnoten folgen am Fuß."
+  noscan_article: "Eine Seite gedruckten Textes: die Edition gibt ihren Wortlaut, kein Bild der Seite."
   forms_medieval: "Mittelalterlich:"
   place: Ort
   extent: Umfang

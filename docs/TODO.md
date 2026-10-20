@@ -553,3 +553,21 @@ and any entry can be read in by volume and number. Details:
       tagged with it; published at the editor's word (2026-10-16).
 - [ ] **You: a name for the era** (working name "Trąbczyn in the Middle
       Ages", `medieval`).
+
+## 20. Pachoński 1973: the Polish emigrés at Venice (added 2026-10-20, not published)
+
+The first holding of published literature: Jan Pachoński's article of 1973
+in French, pages 237 to 256 of the conference volume edited by Vittore
+Branca, as text, with its footnotes and its map, translated, summarised and
+claim-checked in session. Its footnote 10 names "Antoni Prusiński de
+Nieszczewice" among the emigrés at Venice at the end of 1794. Its date is
+kept off the home page, the timeline and the eras' spans (you, 2026-10-20).
+Details: `units/pachonski1973/notes.md`.
+
+- [x] Read, translated, summarised, holding page, people indexed
+      (2026-10-20).
+- [ ] **You: copyright.** The article is in copyright (Olschki 1973). Ask
+      the publisher, or choose another form, before it is published
+      (NEEDS_CONFIRMATION, "Before the site is shared widely").
+- [ ] **You: a look** at the map's crop and the English, and the word to
+      publish.

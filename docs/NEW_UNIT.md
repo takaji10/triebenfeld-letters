@@ -149,6 +149,18 @@ Oe 1 Bü 9454, document 303, the older one.
   --archive`). `docs/WORKING_NOTES.md`, "Taking back a spreadsheet the
   editor has checked".
 
+### A holding of published literature
+
+Pachoński 1973 (`units/pachonski1973/`) is the model: a modern article
+about the sources, not a source. `kind: literature` in `unit.yml` keeps
+its date out of the home page's span, the timeline, the eras' spans and
+people's years (the editor, 2026-10-20). Document type `article`; the
+citation in `rulings.yml` as `{kind: article, text, text_de}`; repository
+`published`, credited to the publisher. Text by paragraph, footnotes at
+the foot of their page (`footnotes.yml`, `note_start`), and a word or note
+that runs over a page given whole on the page where it begins. Check its
+copyright before it is published.
+
 ## 2. Build, and read what it says
 
 ```

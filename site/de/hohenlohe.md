@@ -63,7 +63,9 @@ nicht reisen könne ([Auszug]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url
 Forderung seiner Tochter von 1818 sagt, wozu es diente: Die preußischen Behörden hatten ihn
 aufgefordert, seine Ausreise zu rechtfertigen, die Aufforderungen erreichten ihn spät, und er
 übersandte das Attest, um eine längere Frist zu erbitten; er starb, bevor er Antwort erhielt
-([Darstellung der Forderung]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Das
+([Darstellung der Forderung]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Ein Aufsatz
+eines Historikers von 1973 zählt „Antoni Prusiński“, Starost von Niszczewice, schon Ende 1794
+zu den polnischen Emigranten in Venedig ([Pachoński]({{ '/documents/pachonski1973/1/' | relative_url }}), Anm. 10). Das
 Departement der auswärtigen Angelegenheiten gab den Bericht des Residenten im Januar 1797 an die Minister
 für die neuen Provinzen weiter
 ([Konzept]({{ '/documents/ihagrrep7cnr1414/1/' | relative_url }})).

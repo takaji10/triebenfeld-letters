@@ -7824,7 +7824,7 @@
  {
   "entity": "berlin",
   "display": "Berlin",
-  "count": 351,
+  "count": 353,
   "documents": [
    "app539680669-2",
    "ihagrrep7cnr1414-1",
@@ -8046,7 +8046,8 @@
    "oe1bu9454-97",
    "oe1bu9454-98",
    "oe1bu9454-99",
-   "oe1u199-1"
+   "oe1u199-1",
+   "pachonski1973-1"
   ],
   "mentions": [
    {
@@ -11198,6 +11199,24 @@
     "scan": "APP_53_968_0_669_5197_a2-L2_10.jpg",
     "line": 657,
     "doc_line": 104
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Berlin",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 74,
+    "doc_line": 64
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Berlin",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
    },
    {
     "uid": "oe1bu9454-303",
@@ -28575,7 +28594,7 @@
  {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
-  "count": 105,
+  "count": 113,
   "documents": [
    "agad1174016-1",
    "app53150kaliszgr425-1",
@@ -28647,7 +28666,8 @@
    "oe1bu9454-72d",
    "oe1bu9454-72e",
    "oe1bu9454-72f",
-   "oe1bu9454-74a"
+   "oe1bu9454-74a",
+   "pachonski1973-1"
   ],
   "mentions": [
    {
@@ -29594,6 +29614,78 @@
     "scan": "III_HA_MdA_III_Nr_12367_0014_a-L11_01.jpg",
     "line": 146,
     "doc_line": 1
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 1,
+    "page_id": "0237_a",
+    "scan": "",
+    "line": 12,
+    "doc_line": 10
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 123,
+    "doc_line": 107
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 125,
+    "doc_line": 109
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Varsovie",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 126,
+    "doc_line": 110
    }
   ]
  },
@@ -34011,6 +34103,677 @@
   ]
  },
  {
+  "entity": "venedig",
+  "display": "Venice (Venedig)",
+  "count": 73,
+  "documents": [
+   "ihagrrep7cnr1414-1",
+   "ihagrrep7cnr1414-2",
+   "ihagrrep7cnr1414-3",
+   "iiihamdaiiinr12366-2",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "ihagrrep7cnr1414-2",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0004_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0004_a2-L2_02.jpg",
+    "line": 36,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 13,
+    "doc_line": 11
+   },
+   {
+    "uid": "ihagrrep7cnr1414-1",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
+    "line": 17,
+    "doc_line": 15
+   },
+   {
+    "uid": "ihagrrep7cnr1414-3",
+    "surface": "Venedig",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
+    "line": 54,
+    "doc_line": 4
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venedig",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+    "line": 26,
+    "doc_line": 12
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0004_a1",
+    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
+    "line": 27,
+    "doc_line": 13
+   },
+   {
+    "uid": "iiihamdaiiinr12366-2",
+    "surface": "Venise",
+    "page": 3,
+    "page_id": "0005_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
+    "line": 29,
+    "doc_line": 14
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 1,
+    "page_id": "0237_a",
+    "scan": "",
+    "line": 10,
+    "doc_line": 8
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 1,
+    "page_id": "0237_a",
+    "scan": "",
+    "line": 12,
+    "doc_line": 10
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 17,
+    "doc_line": 14
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 19,
+    "doc_line": 16
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 20,
+    "doc_line": 17
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 22,
+    "doc_line": 19
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 3,
+    "page_id": "0239_a",
+    "scan": "",
+    "line": 24,
+    "doc_line": 20
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 3,
+    "page_id": "0239_a",
+    "scan": "",
+    "line": 27,
+    "doc_line": 23
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 3,
+    "page_id": "0239_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 25
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 4,
+    "page_id": "0240_a",
+    "scan": "",
+    "line": 32,
+    "doc_line": 27
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 4,
+    "page_id": "0240_a",
+    "scan": "",
+    "line": 34,
+    "doc_line": 29
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 43,
+    "doc_line": 37
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 45,
+    "doc_line": 39
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 6,
+    "page_id": "0242_a",
+    "scan": "",
+    "line": 53,
+    "doc_line": 46
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 56,
+    "doc_line": 48
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 57,
+    "doc_line": 49
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 60,
+    "doc_line": 52
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 60,
+    "doc_line": 52
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 62,
+    "doc_line": 54
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 62,
+    "doc_line": 54
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 62,
+    "doc_line": 54
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 8,
+    "page_id": "0244_a",
+    "scan": "",
+    "line": 66,
+    "doc_line": 57
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 8,
+    "page_id": "0244_a",
+    "scan": "",
+    "line": 68,
+    "doc_line": 59
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 8,
+    "page_id": "0244_a",
+    "scan": "",
+    "line": 70,
+    "doc_line": 61
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 73,
+    "doc_line": 63
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 74,
+    "doc_line": 64
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 75,
+    "doc_line": 65
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 76,
+    "doc_line": 66
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 77,
+    "doc_line": 67
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 94,
+    "doc_line": 82
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 94,
+    "doc_line": 82
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 97,
+    "doc_line": 85
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 97,
+    "doc_line": 85
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 88
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 88
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 88
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 88
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 102,
+    "doc_line": 89
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 102,
+    "doc_line": 89
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 90
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 90
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 90
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 107,
+    "doc_line": 93
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 112,
+    "doc_line": 97
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 113,
+    "doc_line": 98
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 114,
+    "doc_line": 99
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 116,
+    "doc_line": 101
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 116,
+    "doc_line": 101
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 117,
+    "doc_line": 102
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 121,
+    "doc_line": 105
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 122,
+    "doc_line": 106
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 126,
+    "doc_line": 110
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 128,
+    "doc_line": 111
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 129,
+    "doc_line": 112
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 131,
+    "doc_line": 114
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 132,
+    "doc_line": 115
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 133,
+    "doc_line": 116
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 134,
+    "doc_line": 117
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 17,
+    "page_id": "0253_a",
+    "scan": "",
+    "line": 136,
+    "doc_line": 118
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 17,
+    "page_id": "0253_a",
+    "scan": "",
+    "line": 141,
+    "doc_line": 123
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 17,
+    "page_id": "0253_a",
+    "scan": "",
+    "line": 141,
+    "doc_line": 123
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Venise",
+    "page": 18,
+    "page_id": "0254_a",
+    "scan": "",
+    "line": 145,
+    "doc_line": 126
+   }
+  ]
+ },
+ {
   "entity": "kontop",
   "display": "Konotop (Kontop)",
   "count": 72,
@@ -36012,6 +36775,643 @@
     "scan": "III_HA_MdA_III_Nr_12367_0009_a1-L7_01.jpg",
     "line": 68,
     "doc_line": 8
+   }
+  ]
+ },
+ {
+  "entity": "paris",
+  "display": "Paris",
+  "count": 67,
+  "documents": [
+   "iiihamdaiiinr12765-1",
+   "iiihamdaiiinr12765-14",
+   "iiihamdaiiinr12765-3",
+   "oe1bu9454-136",
+   "oe1bu9454-16",
+   "oe1bu9454-195",
+   "oe1bu9454-205",
+   "oe1bu9454-208",
+   "oe1bu9454-21",
+   "oe1bu9454-239",
+   "oe1bu9454-267",
+   "oe1bu9454-280",
+   "oe1bu9454-282",
+   "oe1bu9454-284",
+   "oe1bu9454-286",
+   "oe1bu9454-287",
+   "oe1bu9454-288",
+   "oe1bu9454-295",
+   "oe1bu9454-296",
+   "oe1bu9454-297",
+   "oe1bu9454-37",
+   "oe1bu9454-4",
+   "oe1bu9454-40",
+   "oe1bu9454-66",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-136",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0263_a2",
+    "scan": "Oe_1_Bu_9454_0263_a2-L136_03.jpg",
+    "line": 9883,
+    "doc_line": 42
+   },
+   {
+    "uid": "oe1bu9454-37",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0069_b",
+    "scan": "Oe_1_Bu_9454_0069_b-L37_01.jpg",
+    "line": 2830,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0073_b",
+    "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
+    "line": 2946,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0073_b",
+    "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
+    "line": 2948,
+    "doc_line": 9
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0074_a1",
+    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
+    "line": 2984,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0074_a1",
+    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
+    "line": 2985,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-40",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0074_a1",
+    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
+    "line": 2986,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-66",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0128_a1",
+    "scan": "Oe_1_Bu_9454_0128_a1-L66_02.jpg",
+    "line": 5165,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu9454-66",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0128_a1",
+    "scan": "Oe_1_Bu_9454_0128_a1-L66_02.jpg",
+    "line": 5166,
+    "doc_line": 38
+   },
+   {
+    "uid": "oe1bu9454-21",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0034_b",
+    "scan": "Oe_1_Bu_9454_0034_b-L21_01.jpg",
+    "line": 1310,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-195",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0372_a1",
+    "scan": "Oe_1_Bu_9454_0372_a1-L195_02.jpg",
+    "line": 14111,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-205",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0386_a1",
+    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
+    "line": 14656,
+    "doc_line": 43
+   },
+   {
+    "uid": "oe1bu9454-208",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0391_a",
+    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
+    "line": 14817,
+    "doc_line": 34
+   },
+   {
+    "uid": "oe1bu9454-208",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0391_a",
+    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
+    "line": 14819,
+    "doc_line": 36
+   },
+   {
+    "uid": "oe1bu9454-239",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0448_a1",
+    "scan": "Oe_1_Bu_9454_0448_a1-L239_02.jpg",
+    "line": 17440,
+    "doc_line": 23
+   },
+   {
+    "uid": "iiihamdaiiinr12765-3",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0004_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
+    "line": 54,
+    "doc_line": 10
+   },
+   {
+    "uid": "iiihamdaiiinr12765-1",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0003_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+    "line": 13,
+    "doc_line": 3
+   },
+   {
+    "uid": "oe1bu9454-267",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0486_a2",
+    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
+    "line": 19006,
+    "doc_line": 26
+   },
+   {
+    "uid": "oe1bu9454-4",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0007_a2",
+    "scan": "Oe_1_Bu_9454_0007_a2-L4_03.jpg",
+    "line": 352,
+    "doc_line": 59
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0508_a1",
+    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
+    "line": 19918,
+    "doc_line": 41
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0508_a1",
+    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
+    "line": 19921,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu9454-280",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0508_a1",
+    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
+    "line": 19934,
+    "doc_line": 57
+   },
+   {
+    "uid": "oe1bu9454-282",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0511_a1",
+    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
+    "line": 20065,
+    "doc_line": 56
+   },
+   {
+    "uid": "oe1bu9454-282",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0511_a1",
+    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
+    "line": 20070,
+    "doc_line": 61
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0514_a1",
+    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
+    "line": 20161,
+    "doc_line": 45
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0514_a1",
+    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
+    "line": 20162,
+    "doc_line": 46
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0514_a1",
+    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
+    "line": 20166,
+    "doc_line": 50
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0514_a2",
+    "scan": "Oe_1_Bu_9454_0514_a2-L284_03.jpg",
+    "line": 20179,
+    "doc_line": 62
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 4,
+    "page_id": "0515_a",
+    "scan": "Oe_1_Bu_9454_0515_a-L284_04.jpg",
+    "line": 20215,
+    "doc_line": 97
+   },
+   {
+    "uid": "oe1bu9454-284",
+    "surface": "Paris",
+    "page": 4,
+    "page_id": "0515_a",
+    "scan": "Oe_1_Bu_9454_0515_a-L284_04.jpg",
+    "line": 20220,
+    "doc_line": 102
+   },
+   {
+    "uid": "oe1bu9454-286",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0516_a",
+    "scan": "Oe_1_Bu_9454_0516_a-L286_01.jpg",
+    "line": 20305,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-287",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0520_a2",
+    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
+    "line": 20483,
+    "doc_line": 61
+   },
+   {
+    "uid": "oe1bu9454-16",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0025_a1",
+    "scan": "Oe_1_Bu_9454_0025_a1-L16_02.jpg",
+    "line": 907,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-288",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0522_a1",
+    "scan": "Oe_1_Bu_9454_0522_a1-L288_02.jpg",
+    "line": 20599,
+    "doc_line": 46
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0018_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
+    "line": 381,
+    "doc_line": 30
+   },
+   {
+    "uid": "iiihamdaiiinr12765-14",
+    "surface": "Paris",
+    "page": 3,
+    "page_id": "0019_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0019_a2-L14_03.jpg",
+    "line": 458,
+    "doc_line": 105
+   },
+   {
+    "uid": "oe1bu9454-295",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0528_a2",
+    "scan": "Oe_1_Bu_9454_0528_a2-L295_01.jpg",
+    "line": 20965,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-295",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0529_a1",
+    "scan": "Oe_1_Bu_9454_0529_a1-L295_02.jpg",
+    "line": 20990,
+    "doc_line": 36
+   },
+   {
+    "uid": "oe1bu9454-296",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0530_b",
+    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
+    "line": 21022,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-297",
+    "surface": "Paris",
+    "page": 4,
+    "page_id": "0534_a",
+    "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
+    "line": 21156,
+    "doc_line": 92
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0237_a",
+    "scan": "",
+    "line": 10,
+    "doc_line": 8
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 1,
+    "page_id": "0237_a",
+    "scan": "",
+    "line": 10,
+    "doc_line": 8
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 18,
+    "doc_line": 15
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 19,
+    "doc_line": 16
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 59,
+    "doc_line": 51
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 60,
+    "doc_line": 52
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 60,
+    "doc_line": 52
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 62,
+    "doc_line": 54
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 64,
+    "doc_line": 56
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 64,
+    "doc_line": 56
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 7,
+    "page_id": "0243_a",
+    "scan": "",
+    "line": 64,
+    "doc_line": 56
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 8,
+    "page_id": "0244_a",
+    "scan": "",
+    "line": 70,
+    "doc_line": 61
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 74,
+    "doc_line": 64
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 94,
+    "doc_line": 82
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 95,
+    "doc_line": 83
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 101,
+    "doc_line": 88
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 12,
+    "page_id": "0248_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 90
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 112,
+    "doc_line": 97
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 115,
+    "doc_line": 100
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 14,
+    "page_id": "0250_a",
+    "scan": "",
+    "line": 116,
+    "doc_line": 101
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 15,
+    "page_id": "0251_a",
+    "scan": "",
+    "line": 123,
+    "doc_line": 107
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 16,
+    "page_id": "0252_a",
+    "scan": "",
+    "line": 133,
+    "doc_line": 116
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Paris",
+    "page": 17,
+    "page_id": "0253_a",
+    "scan": "",
+    "line": 141,
+    "doc_line": 123
    }
   ]
  },
@@ -41228,399 +42628,6 @@
   ]
  },
  {
-  "entity": "paris",
-  "display": "Paris",
-  "count": 40,
-  "documents": [
-   "iiihamdaiiinr12765-1",
-   "iiihamdaiiinr12765-14",
-   "iiihamdaiiinr12765-3",
-   "oe1bu9454-136",
-   "oe1bu9454-16",
-   "oe1bu9454-195",
-   "oe1bu9454-205",
-   "oe1bu9454-208",
-   "oe1bu9454-21",
-   "oe1bu9454-239",
-   "oe1bu9454-267",
-   "oe1bu9454-280",
-   "oe1bu9454-282",
-   "oe1bu9454-284",
-   "oe1bu9454-286",
-   "oe1bu9454-287",
-   "oe1bu9454-288",
-   "oe1bu9454-295",
-   "oe1bu9454-296",
-   "oe1bu9454-297",
-   "oe1bu9454-37",
-   "oe1bu9454-4",
-   "oe1bu9454-40",
-   "oe1bu9454-66"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-136",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0263_a2",
-    "scan": "Oe_1_Bu_9454_0263_a2-L136_03.jpg",
-    "line": 9883,
-    "doc_line": 42
-   },
-   {
-    "uid": "oe1bu9454-37",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0069_b",
-    "scan": "Oe_1_Bu_9454_0069_b-L37_01.jpg",
-    "line": 2830,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0073_b",
-    "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
-    "line": 2946,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0073_b",
-    "scan": "Oe_1_Bu_9454_0073_b-L40_01.jpg",
-    "line": 2948,
-    "doc_line": 9
-   },
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0074_a1",
-    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
-    "line": 2984,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0074_a1",
-    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
-    "line": 2985,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-40",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0074_a1",
-    "scan": "Oe_1_Bu_9454_0074_a1-L40_02.jpg",
-    "line": 2986,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-66",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0128_a1",
-    "scan": "Oe_1_Bu_9454_0128_a1-L66_02.jpg",
-    "line": 5165,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu9454-66",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0128_a1",
-    "scan": "Oe_1_Bu_9454_0128_a1-L66_02.jpg",
-    "line": 5166,
-    "doc_line": 38
-   },
-   {
-    "uid": "oe1bu9454-21",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0034_b",
-    "scan": "Oe_1_Bu_9454_0034_b-L21_01.jpg",
-    "line": 1310,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-195",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0372_a1",
-    "scan": "Oe_1_Bu_9454_0372_a1-L195_02.jpg",
-    "line": 14111,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-205",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0386_a1",
-    "scan": "Oe_1_Bu_9454_0386_a1-L205_02.jpg",
-    "line": 14656,
-    "doc_line": 43
-   },
-   {
-    "uid": "oe1bu9454-208",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0391_a",
-    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
-    "line": 14817,
-    "doc_line": 34
-   },
-   {
-    "uid": "oe1bu9454-208",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0391_a",
-    "scan": "Oe_1_Bu_9454_0391_a-L208_02.jpg",
-    "line": 14819,
-    "doc_line": 36
-   },
-   {
-    "uid": "oe1bu9454-239",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0448_a1",
-    "scan": "Oe_1_Bu_9454_0448_a1-L239_02.jpg",
-    "line": 17440,
-    "doc_line": 23
-   },
-   {
-    "uid": "iiihamdaiiinr12765-3",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0004_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-    "line": 54,
-    "doc_line": 10
-   },
-   {
-    "uid": "iiihamdaiiinr12765-1",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0003_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
-    "line": 13,
-    "doc_line": 3
-   },
-   {
-    "uid": "oe1bu9454-267",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0486_a2",
-    "scan": "Oe_1_Bu_9454_0486_a2-L267_01.jpg",
-    "line": 19006,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-4",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0007_a2",
-    "scan": "Oe_1_Bu_9454_0007_a2-L4_03.jpg",
-    "line": 352,
-    "doc_line": 59
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0508_a1",
-    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
-    "line": 19918,
-    "doc_line": 41
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0508_a1",
-    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
-    "line": 19921,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu9454-280",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0508_a1",
-    "scan": "Oe_1_Bu_9454_0508_a1-L280_02.jpg",
-    "line": 19934,
-    "doc_line": 57
-   },
-   {
-    "uid": "oe1bu9454-282",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0511_a1",
-    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
-    "line": 20065,
-    "doc_line": 56
-   },
-   {
-    "uid": "oe1bu9454-282",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0511_a1",
-    "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
-    "line": 20070,
-    "doc_line": 61
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0514_a1",
-    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
-    "line": 20161,
-    "doc_line": 45
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0514_a1",
-    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
-    "line": 20162,
-    "doc_line": 46
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0514_a1",
-    "scan": "Oe_1_Bu_9454_0514_a1-L284_02.jpg",
-    "line": 20166,
-    "doc_line": 50
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0514_a2",
-    "scan": "Oe_1_Bu_9454_0514_a2-L284_03.jpg",
-    "line": 20179,
-    "doc_line": 62
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 4,
-    "page_id": "0515_a",
-    "scan": "Oe_1_Bu_9454_0515_a-L284_04.jpg",
-    "line": 20215,
-    "doc_line": 97
-   },
-   {
-    "uid": "oe1bu9454-284",
-    "surface": "Paris",
-    "page": 4,
-    "page_id": "0515_a",
-    "scan": "Oe_1_Bu_9454_0515_a-L284_04.jpg",
-    "line": 20220,
-    "doc_line": 102
-   },
-   {
-    "uid": "oe1bu9454-286",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0516_a",
-    "scan": "Oe_1_Bu_9454_0516_a-L286_01.jpg",
-    "line": 20305,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu9454-287",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0520_a2",
-    "scan": "Oe_1_Bu_9454_0520_a2-L287_03.jpg",
-    "line": 20483,
-    "doc_line": 61
-   },
-   {
-    "uid": "oe1bu9454-16",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0025_a1",
-    "scan": "Oe_1_Bu_9454_0025_a1-L16_02.jpg",
-    "line": 907,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-288",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0522_a1",
-    "scan": "Oe_1_Bu_9454_0522_a1-L288_02.jpg",
-    "line": 20599,
-    "doc_line": 46
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0018_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0018_a2-L14_01.jpg",
-    "line": 381,
-    "doc_line": 30
-   },
-   {
-    "uid": "iiihamdaiiinr12765-14",
-    "surface": "Paris",
-    "page": 3,
-    "page_id": "0019_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0019_a2-L14_03.jpg",
-    "line": 458,
-    "doc_line": 105
-   },
-   {
-    "uid": "oe1bu9454-295",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0528_a2",
-    "scan": "Oe_1_Bu_9454_0528_a2-L295_01.jpg",
-    "line": 20965,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-295",
-    "surface": "Paris",
-    "page": 2,
-    "page_id": "0529_a1",
-    "scan": "Oe_1_Bu_9454_0529_a1-L295_02.jpg",
-    "line": 20990,
-    "doc_line": 36
-   },
-   {
-    "uid": "oe1bu9454-296",
-    "surface": "Paris",
-    "page": 1,
-    "page_id": "0530_b",
-    "scan": "Oe_1_Bu_9454_0530_b-L296_01.jpg",
-    "line": 21022,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-297",
-    "surface": "Paris",
-    "page": 4,
-    "page_id": "0534_a",
-    "scan": "Oe_1_Bu_9454_0534_a-L297_04.jpg",
-    "line": 21156,
-    "doc_line": 92
-   }
-  ]
- },
- {
   "entity": "wuerttemberg",
   "display": "Württemberg",
   "count": 39,
@@ -43050,6 +44057,353 @@
   ]
  },
  {
+  "entity": "dresden",
+  "display": "Dresden",
+  "count": 35,
+  "documents": [
+   "agad1174016-2",
+   "agad11740273-1",
+   "agad11740273-2",
+   "agad11740273-3",
+   "agad11740273-4",
+   "ihagrrep7cnr3709-15",
+   "iiihamdaiiinr12366-6",
+   "oe1bu9454-178",
+   "oe1bu9454-2",
+   "oe1bu9454-217",
+   "oe1bu9454-227",
+   "oe1bu9454-237",
+   "oe1bu9454-238",
+   "oe1bu9454-242",
+   "oe1bu9454-266",
+   "oe1bu9454-270",
+   "oe1bu9454-271",
+   "oe1bu9454-274",
+   "oe1bu9454-3",
+   "oe1bu9454-303",
+   "oe1bu9454-36",
+   "oe1bu9454-97",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-97",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0201_a",
+    "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
+    "line": 7616,
+    "doc_line": 8
+   },
+   {
+    "uid": "ihagrrep7cnr3709-15",
+    "surface": "Dresde",
+    "page": 2,
+    "page_id": "0021_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3709_0021_a1-L15_02.jpg",
+    "line": 574,
+    "doc_line": 37
+   },
+   {
+    "uid": "oe1bu9454-178",
+    "surface": "Dresden",
+    "page": 2,
+    "page_id": "0336_a1",
+    "scan": "Oe_1_Bu_9454_0336_a1-L178_02.jpg",
+    "line": 12679,
+    "doc_line": 23
+   },
+   {
+    "uid": "agad11740273-2",
+    "surface": "Dreznie",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Dreznie",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 14,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad1174016-2",
+    "surface": "Dreznie",
+    "page": 1,
+    "page_id": "0180_a2",
+    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
+    "line": 18,
+    "doc_line": 6
+   },
+   {
+    "uid": "agad11740273-1",
+    "surface": "Dreznie",
+    "page": 1,
+    "page_id": "0005_a2",
+    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad11740273-3",
+    "surface": "Dresde",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
+    "line": 21,
+    "doc_line": 8
+   },
+   {
+    "uid": "agad11740273-3",
+    "surface": "Dreznie",
+    "page": 1,
+    "page_id": "0007_a2",
+    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
+    "line": 22,
+    "doc_line": 9
+   },
+   {
+    "uid": "agad11740273-3",
+    "surface": "Dreznie",
+    "page": 2,
+    "page_id": "0008_a1",
+    "scan": "AGAD_1_174_0_2_73_0008_a1-L3_02.jpg",
+    "line": 25,
+    "doc_line": 11
+   },
+   {
+    "uid": "agad11740273-4",
+    "surface": "Drezno",
+    "page": 1,
+    "page_id": "0047_a2",
+    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
+    "line": 32,
+    "doc_line": 5
+   },
+   {
+    "uid": "oe1bu9454-36",
+    "surface": "Dresden",
+    "page": 8,
+    "page_id": "0069_a",
+    "scan": "Oe_1_Bu_9454_0069_a-L36_08.jpg",
+    "line": 2791,
+    "doc_line": 250
+   },
+   {
+    "uid": "oe1bu9454-217",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0407_b",
+    "scan": "Oe_1_Bu_9454_0407_b-L217_01.jpg",
+    "line": 15694,
+    "doc_line": 22
+   },
+   {
+    "uid": "oe1bu9454-227",
+    "surface": "Dresden",
+    "page": 4,
+    "page_id": "0429_a",
+    "scan": "Oe_1_Bu_9454_0429_a-L227_04.jpg",
+    "line": 16659,
+    "doc_line": 72
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0444_a2",
+    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
+    "line": 17294,
+    "doc_line": 10
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0444_a2",
+    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
+    "line": 17296,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0444_a2",
+    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
+    "line": 17297,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0444_a2",
+    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
+    "line": 17298,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu9454-237",
+    "surface": "Dresden",
+    "page": 2,
+    "page_id": "0445_a1",
+    "scan": "Oe_1_Bu_9454_0445_a1-L237_02.jpg",
+    "line": 17309,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-238",
+    "surface": "Dresden",
+    "page": 3,
+    "page_id": "0446_a2",
+    "scan": "Oe_1_Bu_9454_0446_a2-L238_03.jpg",
+    "line": 17389,
+    "doc_line": 69
+   },
+   {
+    "uid": "oe1bu9454-242",
+    "surface": "Dresden",
+    "page": 2,
+    "page_id": "0451_a1",
+    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
+    "line": 17594,
+    "doc_line": 47
+   },
+   {
+    "uid": "oe1bu9454-266",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0485_b",
+    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+    "line": 18944,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-266",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0485_b",
+    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+    "line": 18945,
+    "doc_line": 24
+   },
+   {
+    "uid": "oe1bu9454-266",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0485_b",
+    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
+    "line": 18948,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu9454-3",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0004_b",
+    "scan": "Oe_1_Bu_9454_0004_b-L3_01.jpg",
+    "line": 244,
+    "doc_line": 20
+   },
+   {
+    "uid": "oe1bu9454-270",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0491_b",
+    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
+    "line": 19211,
+    "doc_line": 19
+   },
+   {
+    "uid": "oe1bu9454-2",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0002_b",
+    "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
+    "line": 133,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Dresden",
+    "page": 1,
+    "page_id": "0493_b",
+    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+    "line": 19268,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-274",
+    "surface": "Dresden",
+    "page": 2,
+    "page_id": "0500_a1",
+    "scan": "Oe_1_Bu_9454_0500_a1-L274_02.jpg",
+    "line": 19544,
+    "doc_line": 32
+   },
+   {
+    "uid": "iiihamdaiiinr12366-6",
+    "surface": "Dreznie",
+    "page": 7,
+    "page_id": "0020_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0020_a2-L6_07.jpg",
+    "line": 177,
+    "doc_line": 26
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Dresde",
+    "page": 9,
+    "page_id": "0245_a",
+    "scan": "",
+    "line": 74,
+    "doc_line": 64
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Dresde",
+    "page": 11,
+    "page_id": "0247_a",
+    "scan": "",
+    "line": 97,
+    "doc_line": 85
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Dresde",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 107,
+    "doc_line": 93
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Dresde",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   },
+   {
+    "uid": "oe1bu9454-303",
+    "surface": "Dresden",
+    "page": 6,
+    "page_id": "0545_a1",
+    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
+    "line": 21625,
+    "doc_line": 101
+   }
+  ]
+ },
+ {
   "entity": "schweinern",
   "display": "Świniary (Schweinern)",
   "count": 32,
@@ -43684,316 +45038,6 @@
     "scan": "Oe_1_Bu_9454_0029_a2-L18_03.jpg",
     "line": 1077,
     "doc_line": 55
-   }
-  ]
- },
- {
-  "entity": "dresden",
-  "display": "Dresden",
-  "count": 31,
-  "documents": [
-   "agad1174016-2",
-   "agad11740273-1",
-   "agad11740273-2",
-   "agad11740273-3",
-   "agad11740273-4",
-   "ihagrrep7cnr3709-15",
-   "iiihamdaiiinr12366-6",
-   "oe1bu9454-178",
-   "oe1bu9454-2",
-   "oe1bu9454-217",
-   "oe1bu9454-227",
-   "oe1bu9454-237",
-   "oe1bu9454-238",
-   "oe1bu9454-242",
-   "oe1bu9454-266",
-   "oe1bu9454-270",
-   "oe1bu9454-271",
-   "oe1bu9454-274",
-   "oe1bu9454-3",
-   "oe1bu9454-303",
-   "oe1bu9454-36",
-   "oe1bu9454-97"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-97",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0201_a",
-    "scan": "Oe_1_Bu_9454_0201_a-L97_01.jpg",
-    "line": 7616,
-    "doc_line": 8
-   },
-   {
-    "uid": "ihagrrep7cnr3709-15",
-    "surface": "Dresde",
-    "page": 2,
-    "page_id": "0021_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3709_0021_a1-L15_02.jpg",
-    "line": 574,
-    "doc_line": 37
-   },
-   {
-    "uid": "oe1bu9454-178",
-    "surface": "Dresden",
-    "page": 2,
-    "page_id": "0336_a1",
-    "scan": "Oe_1_Bu_9454_0336_a1-L178_02.jpg",
-    "line": 12679,
-    "doc_line": 23
-   },
-   {
-    "uid": "agad11740273-2",
-    "surface": "Dreznie",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "AGAD_1_174_0_2_73_0006_a2-L2_01.jpg",
-    "line": 9,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Dreznie",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 14,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad1174016-2",
-    "surface": "Dreznie",
-    "page": 1,
-    "page_id": "0180_a2",
-    "scan": "AGAD_1_174_0_1_6_0180_a2-L2_01.jpg",
-    "line": 18,
-    "doc_line": 6
-   },
-   {
-    "uid": "agad11740273-1",
-    "surface": "Dreznie",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "AGAD_1_174_0_2_73_0005_a2-L1_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "agad11740273-3",
-    "surface": "Dresde",
-    "page": 1,
-    "page_id": "0007_a2",
-    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
-    "line": 21,
-    "doc_line": 8
-   },
-   {
-    "uid": "agad11740273-3",
-    "surface": "Dreznie",
-    "page": 1,
-    "page_id": "0007_a2",
-    "scan": "AGAD_1_174_0_2_73_0007_a2-L3_01.jpg",
-    "line": 22,
-    "doc_line": 9
-   },
-   {
-    "uid": "agad11740273-3",
-    "surface": "Dreznie",
-    "page": 2,
-    "page_id": "0008_a1",
-    "scan": "AGAD_1_174_0_2_73_0008_a1-L3_02.jpg",
-    "line": 25,
-    "doc_line": 11
-   },
-   {
-    "uid": "agad11740273-4",
-    "surface": "Drezno",
-    "page": 1,
-    "page_id": "0047_a2",
-    "scan": "AGAD_1_174_0_2_73_0047_a2-L4_01.jpg",
-    "line": 32,
-    "doc_line": 5
-   },
-   {
-    "uid": "oe1bu9454-36",
-    "surface": "Dresden",
-    "page": 8,
-    "page_id": "0069_a",
-    "scan": "Oe_1_Bu_9454_0069_a-L36_08.jpg",
-    "line": 2791,
-    "doc_line": 250
-   },
-   {
-    "uid": "oe1bu9454-217",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0407_b",
-    "scan": "Oe_1_Bu_9454_0407_b-L217_01.jpg",
-    "line": 15694,
-    "doc_line": 22
-   },
-   {
-    "uid": "oe1bu9454-227",
-    "surface": "Dresden",
-    "page": 4,
-    "page_id": "0429_a",
-    "scan": "Oe_1_Bu_9454_0429_a-L227_04.jpg",
-    "line": 16659,
-    "doc_line": 72
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0444_a2",
-    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
-    "line": 17294,
-    "doc_line": 10
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0444_a2",
-    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
-    "line": 17296,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0444_a2",
-    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
-    "line": 17297,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0444_a2",
-    "scan": "Oe_1_Bu_9454_0444_a2-L237_01.jpg",
-    "line": 17298,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu9454-237",
-    "surface": "Dresden",
-    "page": 2,
-    "page_id": "0445_a1",
-    "scan": "Oe_1_Bu_9454_0445_a1-L237_02.jpg",
-    "line": 17309,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-238",
-    "surface": "Dresden",
-    "page": 3,
-    "page_id": "0446_a2",
-    "scan": "Oe_1_Bu_9454_0446_a2-L238_03.jpg",
-    "line": 17389,
-    "doc_line": 69
-   },
-   {
-    "uid": "oe1bu9454-242",
-    "surface": "Dresden",
-    "page": 2,
-    "page_id": "0451_a1",
-    "scan": "Oe_1_Bu_9454_0451_a1-L242_02.jpg",
-    "line": 17594,
-    "doc_line": 47
-   },
-   {
-    "uid": "oe1bu9454-266",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0485_b",
-    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
-    "line": 18944,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-266",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0485_b",
-    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
-    "line": 18945,
-    "doc_line": 24
-   },
-   {
-    "uid": "oe1bu9454-266",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0485_b",
-    "scan": "Oe_1_Bu_9454_0485_b-L266_01.jpg",
-    "line": 18948,
-    "doc_line": 27
-   },
-   {
-    "uid": "oe1bu9454-3",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0004_b",
-    "scan": "Oe_1_Bu_9454_0004_b-L3_01.jpg",
-    "line": 244,
-    "doc_line": 20
-   },
-   {
-    "uid": "oe1bu9454-270",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0491_b",
-    "scan": "Oe_1_Bu_9454_0491_b-L270_01.jpg",
-    "line": 19211,
-    "doc_line": 19
-   },
-   {
-    "uid": "oe1bu9454-2",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0002_b",
-    "scan": "Oe_1_Bu_9454_0002_b-L2_01.jpg",
-    "line": 133,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu9454-271",
-    "surface": "Dresden",
-    "page": 1,
-    "page_id": "0493_b",
-    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
-    "line": 19268,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-274",
-    "surface": "Dresden",
-    "page": 2,
-    "page_id": "0500_a1",
-    "scan": "Oe_1_Bu_9454_0500_a1-L274_02.jpg",
-    "line": 19544,
-    "doc_line": 32
-   },
-   {
-    "uid": "iiihamdaiiinr12366-6",
-    "surface": "Dreznie",
-    "page": 7,
-    "page_id": "0020_a2",
-    "scan": "III_HA_MdA_III_Nr_12366_0020_a2-L6_07.jpg",
-    "line": 177,
-    "doc_line": 26
-   },
-   {
-    "uid": "oe1bu9454-303",
-    "surface": "Dresden",
-    "page": 6,
-    "page_id": "0545_a1",
-    "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
-    "line": 21625,
-    "doc_line": 101
    }
   ]
  },
@@ -46496,6 +47540,262 @@
   ]
  },
  {
+  "entity": "st-petersburg",
+  "display": "St Petersburg",
+  "count": 25,
+  "documents": [
+   "iiihamdaiiinr12366-3",
+   "iiihamdaiiinr12366-5",
+   "iiihamdaiiinr12765-15",
+   "iiihamdaiiinr12765-16",
+   "iiihamdaiiinr12765-17",
+   "iiihamdaiiinr12765-20",
+   "iiihamdaiiinr12765-22",
+   "iiihamdaiiinr12765-24",
+   "iiihamdaiiinr12765-25",
+   "iiihamdaiiinr12765-26",
+   "iiihamdaiiinr12765-29",
+   "oe1bu9454-193",
+   "oe1bu9454-206",
+   "oe1bu9454-249",
+   "oe1bu9454-27",
+   "oe1bu9454-30",
+   "oe1bu9454-300",
+   "oe1bu9454-42",
+   "oe1bu9454-56",
+   "oe1bu9454-83",
+   "oe1bu9454-84",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-83",
+    "surface": "Petersburg",
+    "page": 3,
+    "page_id": "0174_a2",
+    "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
+    "line": 6762,
+    "doc_line": 54
+   },
+   {
+    "uid": "oe1bu9454-84",
+    "surface": "Petersburg",
+    "page": 2,
+    "page_id": "0176_a1",
+    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
+    "line": 6816,
+    "doc_line": 36
+   },
+   {
+    "uid": "oe1bu9454-27",
+    "surface": "Petersburg",
+    "page": 2,
+    "page_id": "0048_a1",
+    "scan": "Oe_1_Bu_9454_0048_a1-L27_02.jpg",
+    "line": 1838,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu9454-30",
+    "surface": "Petersburg",
+    "page": 3,
+    "page_id": "0054_a2",
+    "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
+    "line": 2048,
+    "doc_line": 69
+   },
+   {
+    "uid": "oe1bu9454-42",
+    "surface": "Petersburg",
+    "page": 7,
+    "page_id": "0080_a2",
+    "scan": "Oe_1_Bu_9454_0080_a2-L42_07.jpg",
+    "line": 3261,
+    "doc_line": 134
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0106_b",
+    "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+    "line": 4226,
+    "doc_line": 21
+   },
+   {
+    "uid": "oe1bu9454-193",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0369_b",
+    "scan": "Oe_1_Bu_9454_0369_b-L193_01.jpg",
+    "line": 14008,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-206",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0387_b",
+    "scan": "Oe_1_Bu_9454_0387_b-L206_01.jpg",
+    "line": 14700,
+    "doc_line": 16
+   },
+   {
+    "uid": "oe1bu9454-249",
+    "surface": "Petersburg",
+    "page": 2,
+    "page_id": "0462_a1",
+    "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
+    "line": 18042,
+    "doc_line": 33
+   },
+   {
+    "uid": "oe1bu9454-300",
+    "surface": "Peterbourg",
+    "page": 2,
+    "page_id": "0538_a",
+    "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+    "line": 21388,
+    "doc_line": 31
+   },
+   {
+    "uid": "oe1bu9454-300",
+    "surface": "Peterbourg",
+    "page": 2,
+    "page_id": "0538_a",
+    "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
+    "line": 21396,
+    "doc_line": 39
+   },
+   {
+    "uid": "iiihamdaiiinr12765-15",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0020_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0020_a2-L15_01.jpg",
+    "line": 462,
+    "doc_line": 2
+   },
+   {
+    "uid": "iiihamdaiiinr12765-16",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0021_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0021_a2-L16_01.jpg",
+    "line": 493,
+    "doc_line": 15
+   },
+   {
+    "uid": "iiihamdaiiinr12765-16",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0021_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0021_a2-L16_01.jpg",
+    "line": 509,
+    "doc_line": 31
+   },
+   {
+    "uid": "iiihamdaiiinr12765-17",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0022_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
+    "line": 532,
+    "doc_line": 8
+   },
+   {
+    "uid": "iiihamdaiiinr12765-20",
+    "surface": "Petersburg",
+    "page": 2,
+    "page_id": "0029_a1",
+    "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
+    "line": 699,
+    "doc_line": 22
+   },
+   {
+    "uid": "iiihamdaiiinr12765-22",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0030_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
+    "line": 764,
+    "doc_line": 6
+   },
+   {
+    "uid": "iiihamdaiiinr12765-24",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0033_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
+    "line": 861,
+    "doc_line": 17
+   },
+   {
+    "uid": "iiihamdaiiinr12765-25",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0036_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L25_01.jpg",
+    "line": 890,
+    "doc_line": 9
+   },
+   {
+    "uid": "iiihamdaiiinr12765-26",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0037_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0037_a2-L26_01.jpg",
+    "line": 912,
+    "doc_line": 11
+   },
+   {
+    "uid": "iiihamdaiiinr12366-3",
+    "surface": "Petersbourg",
+    "page": 2,
+    "page_id": "0011_a",
+    "scan": "III_HA_MdA_III_Nr_12366_0011_a-L3_02.jpg",
+    "line": 94,
+    "doc_line": 13
+   },
+   {
+    "uid": "iiihamdaiiinr12765-29",
+    "surface": "Petersburg",
+    "page": 1,
+    "page_id": "0042_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0042_a2-L29_01.jpg",
+    "line": 994,
+    "doc_line": 34
+   },
+   {
+    "uid": "iiihamdaiiinr12366-5",
+    "surface": "Peterburg",
+    "page": 7,
+    "page_id": "0016_a2",
+    "scan": "III_HA_MdA_III_Nr_12366_0016_a2-L5_07.jpg",
+    "line": 141,
+    "doc_line": 31
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Petersbourg",
+    "page": 2,
+    "page_id": "0238_a",
+    "scan": "",
+    "line": 21,
+    "doc_line": 18
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Petersbourg",
+    "page": 13,
+    "page_id": "0249_a",
+    "scan": "",
+    "line": 110,
+    "doc_line": 96
+   }
+  ]
+ },
+ {
   "entity": "nowawies-trabczyn",
   "display": "Nowawies",
   "count": 24,
@@ -46965,243 +48265,6 @@
     "scan": "Oe_1_Bu_14526_0165_a2-L29_01.jpg",
     "line": 8008,
     "doc_line": 7
-   }
-  ]
- },
- {
-  "entity": "st-petersburg",
-  "display": "St Petersburg",
-  "count": 23,
-  "documents": [
-   "iiihamdaiiinr12366-3",
-   "iiihamdaiiinr12366-5",
-   "iiihamdaiiinr12765-15",
-   "iiihamdaiiinr12765-16",
-   "iiihamdaiiinr12765-17",
-   "iiihamdaiiinr12765-20",
-   "iiihamdaiiinr12765-22",
-   "iiihamdaiiinr12765-24",
-   "iiihamdaiiinr12765-25",
-   "iiihamdaiiinr12765-26",
-   "iiihamdaiiinr12765-29",
-   "oe1bu9454-193",
-   "oe1bu9454-206",
-   "oe1bu9454-249",
-   "oe1bu9454-27",
-   "oe1bu9454-30",
-   "oe1bu9454-300",
-   "oe1bu9454-42",
-   "oe1bu9454-56",
-   "oe1bu9454-83",
-   "oe1bu9454-84"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-83",
-    "surface": "Petersburg",
-    "page": 3,
-    "page_id": "0174_a2",
-    "scan": "Oe_1_Bu_9454_0174_a2-L83_03.jpg",
-    "line": 6762,
-    "doc_line": 54
-   },
-   {
-    "uid": "oe1bu9454-84",
-    "surface": "Petersburg",
-    "page": 2,
-    "page_id": "0176_a1",
-    "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
-    "line": 6816,
-    "doc_line": 36
-   },
-   {
-    "uid": "oe1bu9454-27",
-    "surface": "Petersburg",
-    "page": 2,
-    "page_id": "0048_a1",
-    "scan": "Oe_1_Bu_9454_0048_a1-L27_02.jpg",
-    "line": 1838,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu9454-30",
-    "surface": "Petersburg",
-    "page": 3,
-    "page_id": "0054_a2",
-    "scan": "Oe_1_Bu_9454_0054_a2-L30_03.jpg",
-    "line": 2048,
-    "doc_line": 69
-   },
-   {
-    "uid": "oe1bu9454-42",
-    "surface": "Petersburg",
-    "page": 7,
-    "page_id": "0080_a2",
-    "scan": "Oe_1_Bu_9454_0080_a2-L42_07.jpg",
-    "line": 3261,
-    "doc_line": 134
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0106_b",
-    "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
-    "line": 4226,
-    "doc_line": 21
-   },
-   {
-    "uid": "oe1bu9454-193",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0369_b",
-    "scan": "Oe_1_Bu_9454_0369_b-L193_01.jpg",
-    "line": 14008,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-206",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0387_b",
-    "scan": "Oe_1_Bu_9454_0387_b-L206_01.jpg",
-    "line": 14700,
-    "doc_line": 16
-   },
-   {
-    "uid": "oe1bu9454-249",
-    "surface": "Petersburg",
-    "page": 2,
-    "page_id": "0462_a1",
-    "scan": "Oe_1_Bu_9454_0462_a1-L249_02.jpg",
-    "line": 18042,
-    "doc_line": 33
-   },
-   {
-    "uid": "oe1bu9454-300",
-    "surface": "Peterbourg",
-    "page": 2,
-    "page_id": "0538_a",
-    "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-    "line": 21388,
-    "doc_line": 31
-   },
-   {
-    "uid": "oe1bu9454-300",
-    "surface": "Peterbourg",
-    "page": 2,
-    "page_id": "0538_a",
-    "scan": "Oe_1_Bu_9454_0538_a-L300_02.jpg",
-    "line": 21396,
-    "doc_line": 39
-   },
-   {
-    "uid": "iiihamdaiiinr12765-15",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0020_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0020_a2-L15_01.jpg",
-    "line": 462,
-    "doc_line": 2
-   },
-   {
-    "uid": "iiihamdaiiinr12765-16",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0021_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0021_a2-L16_01.jpg",
-    "line": 493,
-    "doc_line": 15
-   },
-   {
-    "uid": "iiihamdaiiinr12765-16",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0021_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0021_a2-L16_01.jpg",
-    "line": 509,
-    "doc_line": 31
-   },
-   {
-    "uid": "iiihamdaiiinr12765-17",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0022_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-    "line": 532,
-    "doc_line": 8
-   },
-   {
-    "uid": "iiihamdaiiinr12765-20",
-    "surface": "Petersburg",
-    "page": 2,
-    "page_id": "0029_a1",
-    "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-    "line": 699,
-    "doc_line": 22
-   },
-   {
-    "uid": "iiihamdaiiinr12765-22",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0030_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L22_01.jpg",
-    "line": 764,
-    "doc_line": 6
-   },
-   {
-    "uid": "iiihamdaiiinr12765-24",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0033_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0033_a2-L24_01.jpg",
-    "line": 861,
-    "doc_line": 17
-   },
-   {
-    "uid": "iiihamdaiiinr12765-25",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0036_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L25_01.jpg",
-    "line": 890,
-    "doc_line": 9
-   },
-   {
-    "uid": "iiihamdaiiinr12765-26",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0037_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0037_a2-L26_01.jpg",
-    "line": 912,
-    "doc_line": 11
-   },
-   {
-    "uid": "iiihamdaiiinr12366-3",
-    "surface": "Petersbourg",
-    "page": 2,
-    "page_id": "0011_a",
-    "scan": "III_HA_MdA_III_Nr_12366_0011_a-L3_02.jpg",
-    "line": 94,
-    "doc_line": 13
-   },
-   {
-    "uid": "iiihamdaiiinr12765-29",
-    "surface": "Petersburg",
-    "page": 1,
-    "page_id": "0042_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0042_a2-L29_01.jpg",
-    "line": 994,
-    "doc_line": 34
-   },
-   {
-    "uid": "iiihamdaiiinr12366-5",
-    "surface": "Peterburg",
-    "page": 7,
-    "page_id": "0016_a2",
-    "scan": "III_HA_MdA_III_Nr_12366_0016_a2-L5_07.jpg",
-    "line": 141,
-    "doc_line": 31
    }
   ]
  },
@@ -51217,82 +52280,6 @@
   ]
  },
  {
-  "entity": "venedig",
-  "display": "Venice (Venedig)",
-  "count": 7,
-  "documents": [
-   "ihagrrep7cnr1414-1",
-   "ihagrrep7cnr1414-2",
-   "ihagrrep7cnr1414-3",
-   "iiihamdaiiinr12366-2"
-  ],
-  "mentions": [
-   {
-    "uid": "ihagrrep7cnr1414-2",
-    "surface": "Venise",
-    "page": 2,
-    "page_id": "0004_a2",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0004_a2-L2_02.jpg",
-    "line": 36,
-    "doc_line": 8
-   },
-   {
-    "uid": "ihagrrep7cnr1414-1",
-    "surface": "Venedig",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
-    "line": 13,
-    "doc_line": 11
-   },
-   {
-    "uid": "ihagrrep7cnr1414-1",
-    "surface": "Venedig",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0002_a-L1_01.jpg",
-    "line": 17,
-    "doc_line": 15
-   },
-   {
-    "uid": "ihagrrep7cnr1414-3",
-    "surface": "Venedig",
-    "page": 1,
-    "page_id": "0005_a2",
-    "scan": "I_HA_Rep_7_C_Nr_1414_0005_a2-L3_01.jpg",
-    "line": 54,
-    "doc_line": 4
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Venedig",
-    "page": 2,
-    "page_id": "0004_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
-    "line": 26,
-    "doc_line": 12
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Venise",
-    "page": 2,
-    "page_id": "0004_a1",
-    "scan": "III_HA_MdA_III_Nr_12366_0004_a1-L2_02.jpg",
-    "line": 27,
-    "doc_line": 13
-   },
-   {
-    "uid": "iiihamdaiiinr12366-2",
-    "surface": "Venise",
-    "page": 3,
-    "page_id": "0005_a2",
-    "scan": "III_HA_MdA_III_Nr_12366_0005_a2-L2_03.jpg",
-    "line": 29,
-    "doc_line": 14
-   }
-  ]
- },
- {
   "entity": "silna",
   "display": "Silna",
   "count": 7,
@@ -52000,6 +52987,64 @@
     "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
     "line": 21622,
     "doc_line": 98
+   }
+  ]
+ },
+ {
+  "entity": "brzesc",
+  "display": "Brześć",
+  "count": 5,
+  "documents": [
+   "kdw-6",
+   "oe1bu14525-28",
+   "oe1bu9454-56",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-6",
+    "surface": "Brześc",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 52,
+    "doc_line": 13
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Brześc",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 62,
+    "doc_line": 23
+   },
+   {
+    "uid": "oe1bu14525-28",
+    "surface": "Brześć",
+    "page": 1,
+    "page_id": "0121_b",
+    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
+    "line": 3443,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu9454-56",
+    "surface": "Brześć",
+    "page": 1,
+    "page_id": "0106_b",
+    "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
+    "line": 4227,
+    "doc_line": 22
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Brześć",
+    "page": 4,
+    "page_id": "0240_a",
+    "scan": "",
+    "line": 36,
+    "doc_line": 31
    }
   ]
  },
@@ -53039,54 +54084,6 @@
     "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
     "line": 20066,
     "doc_line": 57
-   }
-  ]
- },
- {
-  "entity": "brzesc",
-  "display": "Brześć",
-  "count": 4,
-  "documents": [
-   "kdw-6",
-   "oe1bu14525-28",
-   "oe1bu9454-56"
-  ],
-  "mentions": [
-   {
-    "uid": "kdw-6",
-    "surface": "Brześc",
-    "page": 1,
-    "page_id": "0006_a",
-    "scan": "",
-    "line": 52,
-    "doc_line": 13
-   },
-   {
-    "uid": "kdw-6",
-    "surface": "Brześc",
-    "page": 1,
-    "page_id": "0006_a",
-    "scan": "",
-    "line": 62,
-    "doc_line": 23
-   },
-   {
-    "uid": "oe1bu14525-28",
-    "surface": "Brześć",
-    "page": 1,
-    "page_id": "0121_b",
-    "scan": "Oe_1_Bu_14525_0121_b-L28_01.jpg",
-    "line": 3443,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu9454-56",
-    "surface": "Brześć",
-    "page": 1,
-    "page_id": "0106_b",
-    "scan": "Oe_1_Bu_9454_0106_b-L56_01.jpg",
-    "line": 4227,
-    "doc_line": 22
    }
   ]
  },
@@ -54758,6 +55755,35 @@
   ]
  },
  {
+  "entity": "bologna",
+  "display": "Bologna",
+  "count": 2,
+  "documents": [
+   "oe1bu9454-10",
+   "pachonski1973-1"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-10",
+    "surface": "Boulonga",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "Oe_1_Bu_9454_0016_a-L10_01.jpg",
+    "line": 587,
+    "doc_line": 26
+   },
+   {
+    "uid": "pachonski1973-1",
+    "surface": "Bologna",
+    "page": 5,
+    "page_id": "0241_a",
+    "scan": "",
+    "line": 48,
+    "doc_line": 42
+   }
+  ]
+ },
+ {
   "entity": "lyon",
   "display": "Lyon",
   "count": 2,
@@ -55495,25 +56521,6 @@
     "scan": "Oe_1_Bu_9454_0016_a-L10_01.jpg",
     "line": 583,
     "doc_line": 22
-   }
-  ]
- },
- {
-  "entity": "bologna",
-  "display": "Bologna",
-  "count": 1,
-  "documents": [
-   "oe1bu9454-10"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-10",
-    "surface": "Boulonga",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "Oe_1_Bu_9454_0016_a-L10_01.jpg",
-    "line": 587,
-    "doc_line": 26
    }
   ]
  },

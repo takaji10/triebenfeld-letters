@@ -108,8 +108,19 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-16)
+## Where things stand (2026-10-20)
 
+- **Pachoński 1973** (slug `pachonski1973`, added 2026-10-20, **not
+  published**): the first holding of published literature (`kind:
+  literature`), Jan Pachoński's French article on the Polish emigrés at
+  Venice, 1794-1797 (Branca ed., Olschki 1973, pp. 237-256), one document,
+  text with footnotes and the map as the only image, English and summaries
+  in session. Its note 10 names "Antoni Prusiński de Nieszczewice" (the
+  Starost). **Literature's dates never count on the home page, the timeline,
+  the eras' spans or people's years** (editor). Open: copyright (the article
+  is Olschki's; NEEDS_CONFIRMATION) and the editor's word to publish. The
+  edition has 614 documents in 46 holdings. Read
+  `units/pachonski1973/notes.md` first.
 - **Kodeks Dyplomatyczny Wielkopolski** (slug `kdw`, built and
   **published 2026-10-16**): twenty-one entries,
   1173 to 1440, each a document, text only (the WBC has no page images),

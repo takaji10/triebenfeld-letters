@@ -1,0 +1,8 @@
+# The footnotes of Pachoński's article. The marks are written as raised
+# figures in the text itself ("indépendance¹."), so nothing is raised by the
+# build; a line that begins with a raised figure is a footnote and is set apart
+# (build_site_data.footnote_html, `note_start`). Each page's notes stand at its
+# foot, as printed; note 4, which the print runs onto page 239, is given whole
+# on page 238 (process.md).
+"1":
+  note_start: "[¹²³⁴⁵⁶⁷⁸⁹⁰]+ "

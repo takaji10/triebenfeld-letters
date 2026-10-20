@@ -53,3 +53,10 @@ archives:
     name_de: "Bibliothek Kórnik der Polnischen Akademie der Wissenschaften (PAN Biblioteka Kórnicka), in der Großpolnischen Digitalen Bibliothek"
     url: "https://www.bkpan.poznan.pl/"
     credit: "PAN Biblioteka Kórnicka"
+  # Published literature (Pachoński 1973, 2026-10-20). Not an archive: the
+  # article and its map are the publisher's copyright, credited to it.
+  - slug: published
+    name_en: "Published works (credited to their publishers)"
+    name_de: "Veröffentlichte Werke (mit Nachweis ihrer Verlage)"
+    url: ""
+    credit: "© 1973 Leo S. Olschki Editore, Firenze"

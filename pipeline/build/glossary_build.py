@@ -104,6 +104,11 @@ def compute(entries, recs, site_dir):
                 review.append([r['uid'], view, page, f'line {_line_of(text, b[0])}', e['id'], s, ctx])
 
         for e in entries:
+            # `not_in`: documents where the entry's word is used in another sense, as
+            # for people and places (Pachoński 1973: "J. H. Dąbrowski" is not Herr,
+            # the dismemberment of Poland is not an estate's, 2026-10-20).
+            if r['uid'] in (e.get('not_in') or []):
+                continue
             for p in r.get('pages') or []:
                 n = p['page']
                 if e.get('per') == 'document':

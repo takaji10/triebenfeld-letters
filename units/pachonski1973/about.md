@@ -1,0 +1,17 @@
+A scholarly article, not a primary source: Jan Pachoński, "Les Polonais dans la République de Venise (1794-1797)", printed in *Italia, Venezia e Polonia tra illuminismo e romanticismo*, edited by Vittore Branca (Florence: Leo S. Olschki, 1973), pages 237 to 256. The volume holds the papers of the third conference held by the Giorgio Cini Foundation and the Polish Academy of Sciences, at Venice from 15 to 17 October 1970. The article is in French; the legend of its map is in Italian. It is the edition's first holding of published literature, and its one document is the whole article. <!-- context -->
+
+### Why it is here
+
+The article's footnote 10 names the three starosts among the Polish emigrés at Venice at the end of 1794; one is "Antoni Prusiński de Nieszczewice". He is Antoni Prusimski, Starost of Niszczewice, the owner of Trąbczyn, whose estates Prussia confiscated after the rising of 1794 and gave to the Prince of Hohenlohe-Ingelfingen in 1796. The article says nothing more about him. The edition's other papers place him at Venice in 1796: the Prussian resident reported his visit in December ([[unit:ihagrrep7cnr1414]]), and his daughter's claim of 1818 says that summonses of 1795 and 1796 reached him there ([[unit:iiihamdaiiinr12366]]). The article counts him among the emigrés at Venice already at the end of 1794. It does not say what its footnote rests on: its sources, listed in its first note, are chiefly the registers of foreigners and the police reports of the State Inquisitors of Venice, and the French foreign ministry's files. <!-- context -->
+
+### Contents
+
+The article opens with the partition of 1795 and the search for a seat from which the emigrés could carry on the struggle, and explains why they chose neutral Venice. By the end of 1794 some fifty Polish emigrés were there, among them members of the insurgent government, deputies, diplomats and eight generals; the article names them in its notes. They divided into royalists, around the Prince and Princess of Nassau-Siegen, moderates who held to the Constitution of 3 May 1791, and republicans [[1]].
+
+In January 1795, trusting in a promise of the French minister at Venice, Lallement, the emigrés formed the Polish Committee at Venice, which the French government did not recognise; in August 1795 the emigrés at Paris, many of them from Venice, formed the Deputation instead. In 1796 the Venetian Signoria offered the supreme command of its army first to Nassau-Siegen and then to General Jan Komarzewski, and the Polish republicans and the French worked against it. Stanisław Sołtyk, the agent at Venice of the conspirators' centre at Lwów, paid for General Jan Henryk Dąbrowski's journey to Milan, and his and Piotr Potocki's generosity made possible the convention with Lombardy of 9 January 1797 that created the Polish Legions in Italy [[1]].
+
+A map of Venice marks eight places of the emigrés: their inns and houses, the palace of Nassau-Siegen and the French legation. An appendix, added by the author after the discussion at the conference, speaks of the Legions in Italy and of the Polish archives on Italy [[1]].
+
+### Related holdings
+
+Prusimski at Venice in 1796 and 1797: [[unit:ihagrrep7cnr1414]]. His daughter's claim of 1818, which tells why he stayed abroad: [[unit:iiihamdaiiinr12366]]. The grant of his estates to Hohenlohe-Ingelfingen: [[unit:ihagrrep7cnr3570]] and [[unit:oe1bu14525]]. <!-- context -->

@@ -76,3 +76,14 @@ repositories:
     country_en: "Poland"
     country_de: "Polen"
     url: "https://www.bkpan.poznan.pl/"
+
+  # Not a collection: published literature, cited by its publisher (Pachoński's
+  # article of 1973, the first, 2026-10-20). The book is the editor's own scan.
+  published:
+    name_en: "Published works"
+    name_de: "Veröffentlichte Werke"
+    short: "Lit."
+    city: ""
+    country_en: ""
+    country_de: ""
+    url: ""

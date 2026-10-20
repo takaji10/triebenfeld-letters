@@ -32438,6 +32438,140 @@
   "permalink": "/documents/app539680716/10/"
  },
  {
+  "uid": "pachonski1973-1",
+  "unit": "pachonski1973",
+  "letter_id": "1",
+  "doc_type": "article",
+  "language": "fr",
+  "era": "hohenlohe",
+  "themes": [],
+  "repository": "published",
+  "date_iso": "1973",
+  "date_precision": "year",
+  "date_source": "dateline",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 20,
+  "n_lines": 136,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0237_a",
+    "image": ""
+   },
+   {
+    "page": 2,
+    "page_id": "0238_a",
+    "image": ""
+   },
+   {
+    "page": 3,
+    "page_id": "0239_a",
+    "image": ""
+   },
+   {
+    "page": 4,
+    "page_id": "0240_a",
+    "image": ""
+   },
+   {
+    "page": 5,
+    "page_id": "0241_a",
+    "image": ""
+   },
+   {
+    "page": 6,
+    "page_id": "0242_a",
+    "image": ""
+   },
+   {
+    "page": 7,
+    "page_id": "0243_a",
+    "image": ""
+   },
+   {
+    "page": 8,
+    "page_id": "0244_a",
+    "image": ""
+   },
+   {
+    "page": 9,
+    "page_id": "0245_a",
+    "image": ""
+   },
+   {
+    "page": 10,
+    "page_id": "0246_a",
+    "image": "Pachonski_1973_0246_a-L1_10.jpg"
+   },
+   {
+    "page": 11,
+    "page_id": "0247_a",
+    "image": ""
+   },
+   {
+    "page": 12,
+    "page_id": "0248_a",
+    "image": ""
+   },
+   {
+    "page": 13,
+    "page_id": "0249_a",
+    "image": ""
+   },
+   {
+    "page": 14,
+    "page_id": "0250_a",
+    "image": ""
+   },
+   {
+    "page": 15,
+    "page_id": "0251_a",
+    "image": ""
+   },
+   {
+    "page": 16,
+    "page_id": "0252_a",
+    "image": ""
+   },
+   {
+    "page": 17,
+    "page_id": "0253_a",
+    "image": ""
+   },
+   {
+    "page": 18,
+    "page_id": "0254_a",
+    "image": ""
+   },
+   {
+    "page": 19,
+    "page_id": "0255_a",
+    "image": ""
+   },
+   {
+    "page": 20,
+    "page_id": "0256_a",
+    "image": ""
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 8,
+  "estates": [],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "article 1",
+  "path": "documents/pachonski1973-1.json",
+  "text_path": "text/pachonski1973-1.txt",
+  "permalink": "/documents/pachonski1973/1/"
+ },
+ {
   "uid": "app539680716-11",
   "unit": "app539680716",
   "letter_id": "11",

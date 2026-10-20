@@ -112,7 +112,7 @@
   initial_en: "D"
   sort_de: "dukaten"
   initial_de: "D"
-  docs: 16
+  docs: 17
 - id: "gulden"
   kind: "money"
   lang: "de"
@@ -378,7 +378,7 @@
   initial_en: "E"
   sort_de: "majorat"
   initial_de: "M"
-  docs: 30
+  docs: 31
 - id: "dominium"
   kind: "land"
   lang: "la"
@@ -853,7 +853,7 @@
   initial_en: "P"
   sort_de: "bevollmachtigter"
   initial_de: "B"
-  docs: 64
+  docs: 65
 - id: "hypothekenbuch"
   kind: "law"
   lang: "de"
@@ -1100,7 +1100,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 93
+  docs: 94
 - id: "ausfertigung"
   kind: "law"
   lang: "de"

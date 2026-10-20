@@ -2015,6 +2015,15 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Imielno is an estate of focus (editor): a new place, matched also in its medieval form "Chemelino". The gift of the hospital of Gniezno (1243), which lists "Chemelino" among the hospital's villages, is tagged with it, and its summary and the holding page say so (claim check rewritten for that statement). Imielno also links the boundary decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of 1791.
 - Published at the editor's word: 613 documents in 45 holdings, 1173 to 1936.
 
+## Pachoński 1973: the first holding of published literature (2026-10-20)
+
+- A new holding, `pachonski1973`: Jan Pachoński, "Les Polonais dans la République de Venise (1794-1797)", in *Italia, Venezia e Polonia tra illuminismo e romanticismo*, ed. Vittore Branca (Florence: Olschki, 1973), pp. 237-256, at the editor's word: one document of twenty pages, read from the editor's scans in session, by paragraph, with its footnotes and the map (the only image). English and summaries written in session; 13 statements claim-checked. Its footnote 10 names "Antoni Prusiński de Nieszczewice": matched to Antoni Prusimski.
+- A holding of literature (`kind: literature` in unit.yml) does not count in the home page's span of years, the timeline, the eras' spans or a person's "documented" years (the editor: "reserve this information for primary source documents"; `build_site_data.LITERATURE`).
+- New: document type `article`; a free-text citation with `kind: article` (the image pane says the page is printed text); `note_start` in footnotes.yml for marks written as raised figures; `not_in` for glossary entries (three kept out of the article); repository `published`.
+- People: Jan Henryk Dąbrowski added; "Simon" and "Poniatowski" kept out of the article. A sentence in the Hohenlohe essay and in Prusimski's biography; the edition guide names the article beside the 613 documents.
+- A fix: the summary writer left a blank line before a holding that sorts last in the summary files.
+- Not published: the article is in copyright (NEEDS_CONFIRMATION).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

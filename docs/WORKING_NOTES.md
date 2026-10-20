@@ -1010,6 +1010,50 @@ Where the rest is:
   "numeral missing", and the German termbase catches Latin words
   ("Dominium", "Johannis"). Read them, and say in the report that they were.
 
+- **A holding of published literature** (Pachoński 1973, 2026-10-20; the
+  editor: "a new literary source"). A modern article about the sources is a
+  holding with one document, `kind: literature` in `unit.yml`. **Its date is
+  kept off the home page's span, the timeline's yearly counts, the eras'
+  spans and people's "documented" years** (the editor: "The home page and
+  timeline should not be affected by the dates of literary sources - reserve
+  this information for primary source documents"); `build_site_data.LITERATURE`
+  and `primary()` do it. It adds no timeline event of its own. Procedure in
+  `docs/NEW_UNIT.md`, "A holding of published literature".
+- **A modern book is in copyright.** The site's licence page says the
+  documents are over two hundred years old and puts the texts under CC BY.
+  Say so before building a whole article for publication, and record it
+  under "Before the site is shared widely" in NEEDS_CONFIRMATION.
+- **Printed pages with footnotes, transcribed by paragraph.** The line-break
+  pass pairs a "¬" with the next line *on the same page*, which is the first
+  footnote. Give a word broken over the page end whole on the page where it
+  begins, and a note the print runs onto the next page whole under its mark;
+  list what was moved in the holding's script. Write the marks as the raised
+  figures of the print (¹, ²) and set the notes apart with `note_start` in
+  `footnotes.yml`; nothing then needs raising.
+- **`check_unit_text.py` holds every figure in a cited paragraph to the
+  document**: a book's page numbers and its conference dates are not in the
+  article. Put the book's particulars in a paragraph marked
+  `<!-- context -->` without a citation.
+- **A new person whose surname the name list already has** (Jan Henryk
+  Dąbrowski, 2026-10-20): an entry matching the bare "Dąbrowski" took the
+  name out of the list everywhere, and the lessee Dąbrowski of Oe 1 Bü 9454,
+  letter 136, lost his index entry. Anchor the new man's pattern to his
+  context ("(?<=H\. )Dąbrowski") and shut the list's name out of his
+  document with `seed_not_in`; then look in `git status` for other holdings'
+  documents that changed.
+- **Glossary entries now take `not_in`** (a list of document uids), as
+  people and places do: "J. H. Dąbrowski" is not Herr, the dismemberment of
+  Poland is not an estate's. Read the holding's rows in
+  `review/glossary_matches.csv` after the first build of any new language.
+- **`courtbook.write_summaries` left a blank line, and no final newline,**
+  when the holding's slug sorted after every other in the summary files.
+  Fixed; read `git diff` of `site/_data/summaries*.yml` after writing
+  summaries for a new holding.
+- **Reading clean print from 600 dpi scans**: five overlapping bands per page
+  at 1700 pixels wide were enough to read every word; enlarge only the words
+  that look like slips, and keep the print's slips ("da grade",
+  "contre-cadidat").
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other
