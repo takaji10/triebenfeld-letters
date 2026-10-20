@@ -626,7 +626,7 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
 - ~~**Pachoński 1973**: copyright~~ **Settled (editor, 2026-10-20):** "Add
   this literature as an allowed source to publish."
 
-- **Three works of the literature** (added 2026-10-20, not published):
+- **Three works of the literature** (added and published 2026-10-20):
   Pachoński (1973), Mączak (1968) and Szwiec (2009), in `literature/`. The
   first two were built as holdings by a session that had not seen the
   literature and were moved there the same day (the editor: the Sources page

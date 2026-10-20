@@ -117,7 +117,7 @@ so check them.
 
 ## Where things stand (2026-10-20)
 
-- **Three more works of the literature** (2026-10-20, **not published**):
+- **Three more works of the literature** (2026-10-20, **published 2026-10-20**):
   Pachoński (1973) on the Polish emigrés at Venice (its note 10 names the
   Starost), Mączak (1968) on the grain export 1550-1650 (in English), and
   Szwiec (2009), the catalogue of the Olęder architecture of the Pyzdry
@@ -129,8 +129,8 @@ so check them.
   `author_sort`). A work can show pictures (`figures`). **"Nowa Wieś" is a
   common place name: a link must be sure it is the Trąbczyn estate's**
   (editor). The edition has 613 documents in 45 holdings and 14 works of
-  literature. `docs/LITERATURE_PLAN.md`, section 11. Open: the editor's look
-  and the word to publish.
+  literature. `docs/LITERATURE_PLAN.md`, section 11. Published at the
+  editor's word. Open: the editor's view of how useful Mączak and Szwiec are.
 
 - **The literature** (begun 2026-10-19; **published 2026-10-19** at the
   editor's word; a second set of six works added and published the same

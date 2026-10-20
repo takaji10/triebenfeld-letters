@@ -2111,7 +2111,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - A new HOUSE_STYLE section, "No signposting": a sentence about the text instead of the past (announcing, pointing back, listing topics) is not written, except to bring back a topic the reader has not met for a long time (the editor's exception), and then by restating the fact, not by "as mentioned earlier" (Claude's suggestion). Navigational text (the About page's guide, "How it was prepared", lists of contents) is proposed as not signposting, for the editor to confirm. A search of the site's English found no signposts and no dashes, so no published text changes. EDITORS_VOICE.md's brief says both.
 - The editor's writing samples are for the analysis of style only: nothing in them is a source for the edition or is set against the documents (the editor, 2026-10-20). Written into WORKING_NOTES ("Working with the editor") and EDITORS_VOICE.md.
 
-## The literature: Pachoński, Mączak and Szwiec; the list by author (2026-10-20, not published)
+## The literature: Pachoński, Mączak and Szwiec; the list by author (2026-10-20, published)
 
 - The desktop's `main` is brought up to GitHub's (eighteen commits of the cloud sessions: the literature, the eras, line ends LF, house style).
 - Pachoński (1973), "Les Polonais dans la République de Venise", and Mączak (1968), "Export of Grain ... 1550-1650", first built that day as holdings by the desktop session, are moved into the literature (the editor: the Sources page is for primary sources); their holdings, page images and summaries are removed, and the code and data made for literature as holdings are taken out again.

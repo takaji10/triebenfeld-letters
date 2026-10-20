@@ -628,5 +628,6 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       (2009), the catalogue of the Pyzdry Forest's architecture with its
       photographs; the Literature page ordered by author as you asked
       (LITERATURE_PLAN.md, section 11).
-- [ ] **You:** a look at the new Literature page and the three works, how
-      useful Mączak and Szwiec are, and the word to publish.
+- [x] Published at your word (2026-10-20).
+- [ ] **You:** a look at the new Literature page and the three works, and
+      how useful Mączak and Szwiec are.
