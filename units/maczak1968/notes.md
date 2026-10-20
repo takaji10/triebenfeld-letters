@@ -68,8 +68,6 @@ Everything about how the text was made is in the docstring of
 
 ## Open
 
-- **Copyright.** The article is in copyright (RCIN: rights reserved; the
-  translator's and the journal's rights). Publishing it whole needs the
-  editor's decision, as for Pachoński 1973 (`docs/NEEDS_CONFIRMATION.md`).
-  The Licences page already names it beside Pachoński as outside CC BY.
+- The Licences page names it beside Pachoński 1973 as outside CC BY,
+  credited to the journal.
 - The editor's view of how useful it is, and the word to publish.

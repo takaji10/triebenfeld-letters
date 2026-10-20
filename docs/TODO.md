@@ -582,7 +582,5 @@ Great Poland "a little along the Warta river" and the farming of the Dutch
 colonists of Royal Prussia. Details: `units/maczak1968/notes.md`.
 
 - [x] Read, summarised, holding page (2026-10-20).
-- [ ] **You: copyright.** The article is in copyright (RCIN: rights
-      reserved). Clear it, or not, as you did Pachoński 1973.
 - [ ] **You: how useful it is** (you said this would be judged later), and
       the word to publish.

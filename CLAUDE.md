@@ -116,8 +116,7 @@ so check them.
   18, pp. 75-98), at the editor's word as background to the farming of the
   Olęder settlers; text, notes and seven tables, the map and chart as
   pictures; no translation (it is English); summary claim-checked. Open:
-  copyright (RCIN: rights reserved; NEEDS_CONFIRMATION), the editor's view
-  of its use, the word to publish. **"Nowa Wieś" is a common name: a link
+  the editor's view of its use, the word to publish. **"Nowa Wieś" is a common name: a link
   must be sure it is the Trąbczyn estate's** (editor). 615 documents in 47
   holdings. Read `units/maczak1968/notes.md` first.
 - **Pachoński 1973** (slug `pachonski1973`, added 2026-10-20, **not

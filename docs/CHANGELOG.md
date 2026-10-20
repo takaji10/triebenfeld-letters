@@ -2017,9 +2017,9 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## Mączak 1968: the export of grain, a second holding of literature (2026-10-20)
 
-- A new holding, `maczak1968`: Antoni Mączak, "Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650", *Acta Poloniae Historica* 18 (1968), pp. 75-98, at the editor's word, as background to the farming of the Olęder settlers: one document of 24 pages, read in session from the editor's PDF of the RCIN copy and checked word by word against its OCR; the seven tables as text, the map (p. 81) and the chart of prices and wages (p. 97) as pictures. In English, so not translated; summary written and claim-checked (15 statements). Not published: in copyright (NEEDS_CONFIRMATION).
+- A new holding, `maczak1968`: Antoni Mączak, "Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650", *Acta Poloniae Historica* 18 (1968), pp. 75-98, at the editor's word, as background to the farming of the Olęder settlers: one document of 24 pages, read in session from the editor's PDF of the RCIN copy and checked word by word against its OCR; the seven tables as text, the map (p. 81) and the chart of prices and wages (p. 97) as pictures. In English, so not translated; summary written and claim-checked (15 statements).
 - New: a document's `language` reaches its page; a document printed in English shows "Printed in English, so not translated" in place of the English tab. Tables printed inside running text, written "| a | b |", are drawn as tables in the reading view. A holding's own `credit` line on the Licences page (each publisher named).
-- The Licences page and the edition guide name both articles. Five glossary entries kept out of the English article (`not_in`).
+- The Licences page and the edition guide name both articles. Five glossary entries kept out of the English article (`not_in`). Not published.
 
 ## Pachoński 1973: the first holding of published literature (2026-10-20)
 
