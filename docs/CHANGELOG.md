@@ -2107,8 +2107,9 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 ## The spaced en dash; no signposting (2026-10-20, docs only)
 
-- The editor ruled that an aside takes the spaced en dash ( – ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". Ranges keep the hyphen (8,000-9,000).
+- The editor ruled that an aside takes the spaced en dash ( – ), never the em dash or a hyphen standing in for one; until now the English had no dashes at all. HOUSE_STYLE, "Typography". A range between two figures takes an unspaced en dash (8,000–9,000; the editor, the same day); ranges written before have a hyphen.
 - A new HOUSE_STYLE section, "No signposting": a sentence about the text instead of the past (announcing, pointing back, listing topics) is not written, except to bring back a topic the reader has not met for a long time (the editor's exception), and then by restating the fact, not by "as mentioned earlier" (Claude's suggestion). Navigational text (the About page's guide, "How it was prepared", lists of contents) is proposed as not signposting, for the editor to confirm. A search of the site's English found no signposts and no dashes, so no published text changes. EDITORS_VOICE.md's brief says both.
+- The editor's writing samples are for the analysis of style only: nothing in them is a source for the edition or is set against the documents (the editor, 2026-10-20). Written into WORKING_NOTES ("Working with the editor") and EDITORS_VOICE.md.
 
 ## Deliverables produced
 

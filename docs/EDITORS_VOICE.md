@@ -8,7 +8,12 @@ words, with their corrections of the first analysis), and, at the end, a
 two-paragraph brief to measure the site's prose against: the voice as the
 samples show it, set to the tone the editor wants.
 
-The samples are not kept in the repository, which is public:
+The samples are not kept in the repository, which is public, and they are
+for the analysis of style only: what they say about the estate, its
+people or its dates is not a source for the edition and is not set
+against the documents (the editor, 2026-10-20: "they should only be used
+for analysing my writing style"). The quotations below illustrate the
+style, not the history:
 
 1. **The preface** to the editor's book on the Trąbczyn estate and its
    Olęders: how their research began, from a family archive to the court

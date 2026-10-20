@@ -113,6 +113,17 @@ Where the rest is:
   money"). Translate again only where the sense of a passage changes.
 - **Publish only at their word.** "Publish" and "update the website" mean
   push `main`.
+- **Writing the editor gives as a sample is for style only** (2026-10-20).
+  They gave three samples of their writing, among them the preface and
+  introduction of their own book on the estate, so that their voice could
+  be analysed (`docs/EDITORS_VOICE.md`). Claude then set a sentence of the
+  book against the documents and offered the difference as a point to
+  rule on. The editor: "Please don't incorporate the sample text into the
+  understanding of the site. Those were just samples and they should only
+  be used for analysing my writing style." What a sample says about the
+  estate, its people or its dates is not a source, is not checked against
+  the documents, and does not go into NEEDS_CONFIRMATION, the story, a
+  person's entry or anything else on the site.
 
 ## Reading and correcting the text
 

@@ -329,8 +329,10 @@ and never a hyphen ( - ) standing in for one (the editor, 2026-10-20:
 "Let's use the spaced en dash as a rule"). It is used where it helps
 the sentence; a comma, a colon, a semicolon or a full stop still does
 the work where it can. Until 2026-10-20 the rule was no dashes at all,
-so the prose written before then has none. A dash between two figures
-is a range and is correct: 8,000-9,000 Rthl.
+so the prose written before then has none. A range between two figures
+takes an **unspaced en dash**: 8,000–9,000 Rthl, 1771–1782 (the editor,
+2026-10-20: "Short dash with no spaces is fine for number ranges").
+Ranges written before then have a hyphen (8,000-9,000).
 
 The German pages keep the spaced Gedankenstrich, which is the same mark
 ( – ) and correct German typography.
