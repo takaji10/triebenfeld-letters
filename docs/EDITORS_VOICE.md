@@ -3,7 +3,10 @@
 The editor, 2026-10-20, gave three samples of their own writing so that
 their voice is documented "for a later examination of the text on the
 site". Nothing on the site was changed for it. This file is the analysis
-and, at the end, a two-paragraph brief to measure the site's prose against.
+of the samples, what the editor aims at for this project (in their own
+words, with their corrections of the first analysis), and, at the end, a
+two-paragraph brief to measure the site's prose against: the voice as the
+samples show it, set to the tone the editor wants.
 
 The samples are not kept in the repository, which is public:
 
@@ -63,11 +66,13 @@ The figures below were counted by script; the rest is a reading.
 - **Recurring phrases**: "I found myself" (4 times in the preface), "the
   many" (the many documents, decades, events, untold stories),
   "particularly" (4), "undoubtedly" (2), "eventually" (2).
-- **Foreign terms explained where they first appear**: a pronunciation in
-  brackets ("Trąbczyn (pronounced tromb-chin)"), a definition after a dash
-  or as an appositive (an Olędry, "a village of free settler-tenants"),
-  a modern equivalent ("now the Volyn region of northwestern Ukraine"), a
-  later name ("Michalina Prusimska (later Miączyńska)").
+- **Foreign terms explained where they first appear**: a definition after
+  a dash or as an appositive (an Olędry, "a village of free
+  settler-tenants"), a modern equivalent ("now the Volyn region of
+  northwestern Ukraine"), a later name ("Michalina Prusimska (later
+  Miączyńska)"). The pronunciations in the introduction ("pronounced
+  tromb-chin") are a rare exception, not the voice (the editor,
+  2026-10-20).
 - **Figures are exact**: 45 km², 14 communities, 251 households, 235
   descendants, 140,000.
 
@@ -161,11 +166,9 @@ importance of preserving these remnants has never been more important").
 `docs/HOUSE_STYLE.md` governs the site's prose. In most things the two
 agree: every person named and placed, terms explained where they first
 appear, the concrete before the abstract, events in order, no verdicts,
-the documents first. They differ in four places, and until the editor
+the documents first. They differ in three places, and until the editor
 rules, the house style stands:
 
-- **Dashes.** The samples use the long dash eight times, for an aside or
-  a definition. The house style allows none in English prose.
 - **The first person and reflection.** The editor's prefaces use them; a
   holding's description on the site is impersonal ("A holding's own
   page").
@@ -175,35 +178,94 @@ rules, the house style stands:
 - **"Undoubtedly"** for an inference about how things were felt. The
   house style marks inference as inference, plainly.
 
+**The dashes are typography, not voice.** The samples have the long dash
+eight times, for an aside or a definition. The editor, 2026-10-20: it is
+"probably introduced by the word program", and they took it to be the
+correct dash for print in place of the hyphen. It is: in print an aside
+takes the em dash (—, unspaced, in American use) or a spaced en dash
+( – , in British use), and the hyphen (-) joins words only. The samples
+mix all three (" — ", "—", " - "). On the site the house style's rule
+stands: no long dashes in English prose, a comma, colon or full stop
+instead (HOUSE_STYLE, "Typography").
+
+## What the editor aims at
+
+The editor, 2026-10-20, on the tone for this project: "that of an
+experienced historian and editor of narrative academic history who covers
+surrounding legal, geographic, and ethnographic contexts. Most
+importantly, I want my voice to turn archival evidence into a story that
+a non-specialist can follow without sacrificing rigour, precision, or
+facts."
+
+Two self-assessments, in their words:
+
+- "I sometimes feel that I can sound too dry or uninspiring, but I want
+  to always strike a balance between fluff vs. content."
+- "I value 'side roads' as a device - brief contextual expansions can help
+  readers to understand the world the Olęders lived in, or a new concept
+  that requires more explanation (or just because I find it interesting).
+  A certain visual framing should be attached to these, so that it's
+  clear that it's a deviation from the main text."
+
+**Dry and fluff, in the samples** (Claude's reading). What keeps the
+samples from being dry is the concrete: the named people, the exact
+figures, the lists of things (the inn's barrels, tables, doors and
+windows). Where they go dry, it is in the signposting sentences in the
+passive, which list topics instead of telling anything ("The
+characteristics of Olęder settlements have also been examined, including
+their legal, religious, and social structures, economic efficiency, and
+the evolving conditions under different periods of rule"). Where they
+approach fluff, it is in general closing reflections that would fit any
+book ("the events that played a role in shaping our modern society").
+The remedy for both is the same: one more specific fact from the
+documents in place of the summary.
+
+**Side roads on the site.** The site has no framed aside yet: nothing in
+its layouts or styles sets a passage apart from the main text. Building
+one (a box beside or within the text, with a title, in both languages)
+is a design step for later, at the editor's word. Two rules would hold
+in it as in the main text: a side road is checked against the documents
+first (HOUSE_STYLE, "The documents first"), and it is kept brief. The
+house style's governing question ("Would the reader need to know
+this?") meets the editor's "or just because I find it interesting"; the
+visual frame is what lets the two stand together, since the reader can
+see that a side road can be skipped. That is the editor's to rule.
+
 ## The brief
 
-The editor writes as a careful family historian: plain, educated English
-in Canadian spelling, in long, even sentences (about 29 words on average)
-that move forward in time, each adding a clause, a date or a name to the
-last, with an occasional short sentence to turn or close a paragraph. A
-piece opens on something concrete seen from the present (a person at a
-date, the place as a visitor finds it today, the writer's own way into the
-subject) and goes back from there; it closes looking forward, on why the
-past should be kept and told again. Every person is named with their role
-and every source with its author and title; a foreign term is explained
-where it first appears, by a pronunciation, a modern name or a short
-definition; figures are exact. An abstract idea is stated briefly and then
-made good with specifics, often three to five concrete things in a list:
-the shootings, raids, arson, beatings and theft of a boundary dispute, or
-the barrels of beer, tables, doors and windows taken from an inn. The
-words are those of recovery and keeping: origins, remnants, preserved,
-uncovered, dormant, untold stories, a new audience.
+The editor writes as an experienced historian and editor of narrative
+academic history: one who turns archival evidence into a story a
+non-specialist can follow, without giving up rigour, precision or a single
+fact, and who places that story in its legal, geographic and ethnographic
+setting. The English is plain and educated, in Canadian spelling, in long,
+even sentences (about 29 words on average) that move forward in time, each
+adding a clause, a date or a name to the last, with an occasional short
+sentence to turn or close a paragraph. A piece opens on something concrete
+seen from the present (a person at a date, the place as it is today, the
+way into the subject) and goes back from there; it closes looking forward,
+on why the past should be kept and told again. Every person is named with
+their role and every source with its author and title; an unfamiliar term
+is explained where it first appears, by a short definition or a modern
+name; figures are exact. An abstract idea is stated briefly and then made
+good with specifics from the documents, often three to five concrete
+things in a list: the shootings, raids, arson, beatings and theft of a
+boundary dispute, or the barrels of beer, tables, doors and windows taken
+from an inn. Where a reader needs more of the world the Olęders lived in
+(a law, a measure, a custom, a landscape), the voice takes a brief side
+road, set visibly apart from the main text, and comes back.
 
-The warmth is in the subject, not the manner. The people of the estate
-and their simple, hard lives are kept in view, and each event is told by
-what it meant for them. The writer appears in the first person only in a
-preface or a close, candid about what they did not know, and stands
-outside the history itself, which is told in the third person, in order,
-carried by dates and by "despite this" and "while", never by "however" or
-"moreover". The voice does not ask questions, exclaim, address the reader
-as "you", joke, use slang or contractions, argue with other historians, or
-pass judgement on the people of the past: a wrong is the court's finding,
-a deportation is stated as what happened. Hedging is light and honest
-("perhaps", "likely"), metaphor is sparse and familiar (a spark, a red
-thread, a lens), and the sources, above all the documents, are named
-rather than leaned on for authority.
+The warmth is in the subject, not the manner, and the balance is struck by
+facts: where a passage risks being dry or empty, it is given one more
+specific thing from the documents, not a summary or a flourish. The people
+of the estate and their simple, hard lives are kept in view, and each event
+is told by what it meant for them. The writer appears in the first person
+only in a preface or a close, candid about what they did not know, and
+stands outside the history itself, which is told in the third person, in
+order, carried by dates and by "despite this" and "while", never by
+"however" or "moreover". The voice does not ask questions, exclaim,
+address the reader as "you", joke, use slang or contractions, argue with
+other historians, or pass judgement on the people of the past: a wrong is
+the court's finding, a deportation is stated as what happened. Hedging is
+light and honest ("perhaps", "likely"), metaphor is sparse and familiar (a
+spark, a red thread, a lens), and every statement can be traced to the
+document it rests on.

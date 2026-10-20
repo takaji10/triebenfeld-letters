@@ -333,7 +333,12 @@ NEEDS_CONFIRMATION.md.
 - [ ] **Later, at your word: the site's prose read against your voice**
       (`docs/EDITORS_VOICE.md`, written 2026-10-20 from three samples of
       your writing). Nothing is changed until you say so, and you rule
-      first on the four places where your voice and HOUSE_STYLE differ.
+      first on the three places where your voice and HOUSE_STYLE differ,
+      and on side roads.
+- [ ] **Later, at your word: a framed "side road" on the site**, a brief
+      contextual passage set visibly apart from the main text (your wish,
+      2026-10-20; EDITORS_VOICE.md, "Side roads on the site"). The site
+      has no such element yet.
 
 ## 9. AGAD 1/169/0/1/1745: the table of villages of about 1797 (added, checked and published 2026-10-13)
 
