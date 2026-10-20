@@ -88,7 +88,5 @@ Everything about how the text was made is in the docstring of
   (Olschki 1973). The Licences page now carves them out of CC BY, with the
   English and summaries of the article, credits the publisher and promises
   a takedown on request. A later book of literature goes into that
-  paragraph too (it names this article only). The clearance is internal
-  only: the published files must not say that permission was given
-  (editor, 2026-10-20).
+  paragraph too (it names this article only).
 - The editor's look at the map crop and the English.

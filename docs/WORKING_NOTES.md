@@ -1028,11 +1028,7 @@ Where the rest is:
   out of CC BY: its text, map, and the edition's English and summaries of
   it, credited to the publisher, with a takedown promise. The paragraph
   names that article only: add a new work to it, and bump `updated_en/de`
-  in `site/_data/rights.yml`. **The clearance itself is noted internally
-  only** (editor, 2026-10-20: "Don't mention in the published files that
-  permission was given"): nothing under `site/`, not even a comment in a
-  data file, says that permission was given; it lives in `docs/` and the
-  holding's `notes.md`.
+  in `site/_data/rights.yml`.
 - **Printed pages with footnotes, transcribed by paragraph.** The line-break
   pass pairs a "¬" with the next line *on the same page*, which is the first
   footnote. Give a word broken over the page end whole on the page where it
