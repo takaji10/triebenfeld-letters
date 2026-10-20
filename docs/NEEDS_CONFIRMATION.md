@@ -257,11 +257,19 @@ read, translate and summarise.
     of 1754 make the chamberlain the Starost's uncle, a generation lower.
     The edition follows the documents; Żychliński is very likely wrong.
   - **Claude's identifications, not yet accepted** (`literature/index.yml`):
-    Breyer's "Paul von Kolno-Prusiński", who founded Łazińsk Holland in 1746
-    (Breyer 1935, p. 41), is Paweł Prusimski the chamberlain; the Wieniec
+    the Wieniec
     that Stanisław and Mieczysław Miączyński held (Żychliński 1891) is the
     church estate by Brześć Kujawski the Prince was granted in 1797;
     Breyer's Świątniki (1938, p. 10) is the Ląd monastery's service village.
+    Settled (the editor, 2026-10-20: "Paul Prusiński is indeed Paweł
+    Prusimski"): Breyer's "Paul von Kolno-Prusiński", who founded Łazińsk
+    Holland in 1746 (Breyer 1935, p. 41), is Paweł Prusimski the
+    chamberlain. The documents bear it out: the boundary decree of 1775
+    (Konin Gr.145, p. 76) cites the rights granted the Hollanders in 1746,
+    the summons of 1860 (53/968/0/-/783) names their grantors "Paweł z
+    Kolna Prusiński" and his wife Katarzyna z Rozdrażewskich, and the
+    inspection of 1754 names her as Paweł Prusimski's widow
+    (`literature/links.yml`, `breyer1935gaue-hollanders`).
   - **K. G. von Weigel** of Hennersdorf, owner of the Zagórów estates from
     1828 (Breyer 1938, p. 22): the same man as the edition's banker Carl
     Ferdinand Weigel of Breslau, or of his family? The link
@@ -344,18 +352,34 @@ written until there is a witness or a better scan.
   - `prusimski-boundary`: "The Trąmpczyński and Prusimski years". The
     present ownership line is wrong as well as narrow: the documents of
     1589 and 1644 are the Trąmpczyński family's, not the Prusimskis'. The
-    blurb would add the Olęder colonies (founded in 1746 by "Paul von
-    Kolno-Prusiński", by Breyer's account, whom Claude takes for Paweł
-    Prusimski, not yet accepted; the edition has no document of 1746,
-    its earliest on the colonists is the inspection of 1754 in Konin
-    Gr.136), Paweł's funeral of 1754, and the end at Antoni Prusimski's
-    flight in 1794.
+    blurb would add the Olęder colonies: the boundary decree of 1775
+    (Konin Gr.145, p. 76) dates them by "the rights granted them in 1746",
+    and the summons of 1860 names the grantors, Paweł Prusimski and his
+    wife Katarzyna Rozdrażewska (Breyer's "Paul von Kolno-Prusiński": the
+    editor, 2026-10-20); the privilege itself is not in the edition, and
+    its earliest record of the settlers is the inspection of 1754 in Konin
+    Gr.136. Then Paweł's funeral of 1754, and the end at Antoni
+    Prusimski's flight in 1794.
   - `hohenlohe`: keep "The Hohenlohe-Ingelfingen years".
   - `restitution`: "Michalina Miączyńska's years", 1807 to her death in
     1851, the restitution in the blurb.
-  - `wlodzimierz`: "The colonists' land and forest rights" (the working
-    name), or "Włodzimierz Miączyński and the liquidation"; the era runs
-    past his death to 1901, under his nephew and Countess Wielopolska.
+  - `wlodzimierz`: the working name "The colonists' land and forest
+    rights" is too vague (the editor, 2026-10-20: "this is really about
+    the liquidation of the estate", though the colonists may be the right
+    focus). Claude's proposal: **"The liquidation: the colonists become
+    owners"** ("Die Liquidation: die Kolonisten werden Eigentümer"). It
+    keeps the documents' own word and their own account: the Łazińsk table
+    of 1868 lists the "farmsteads that passed into the full ownership of
+    the peasants under the Imperial Ukases of 19 February (2 March) 1864"
+    and the dues "to be compensated by the Government", with a
+    "liquidation sum for the former owner" (APŁ 39/98/0/-/6603, document
+    1; Breyer's copy in 53/968/0/-/716, document 4). What was liquidated
+    was the colonists' dues to the manor; the estate itself went on (the
+    Countess Wielopolska held it by 1892). The ownership line keeps the
+    owners; the account would lead with the colonists (the lawsuit of 1859
+    over their pasture and wood, ownership in 1864, the table of 1868, the
+    forest rights given up for land in 1892). The era runs past
+    Włodzimierz's death to 1901.
   - `twentieth-century`: "The German villages to 1945", ending with the
     expulsion of the German settlers; no document of 1945 is in the
     edition yet.

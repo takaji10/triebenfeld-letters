@@ -14,6 +14,12 @@ files it points to.
   `docs/EDITORIAL_RULES.md` the transcriptions, which are never "tidied".
   No cryptic statements: every sentence says who, what, and why it matters
   (HOUSE_STYLE, "No cryptic statements").
+- **The documents first** (the editor's rule, 2026-10-20): every fact is
+  first looked for in the edition's own archival documents, before a book
+  or any other source; where they disagree, the edition keeps to the
+  document and the difference is flagged in `docs/NEEDS_CONFIRMATION.md`
+  and recorded in the source's `notes.md` (HOUSE_STYLE, "The documents
+  first").
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
 - `docs/WORKING_NOTES.md`: how the editor works, the mistakes already made

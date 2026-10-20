@@ -2092,6 +2092,13 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Changed with it: the era's ownership line and blurb (`reference/eras.yml`), the timeline (one band at 1858, its note covering both), and the story page in both languages (one section).
 - Claude's proposed names for all the eras are put to the editor (NEEDS_CONFIRMATION.md, "The eras"); no other era is changed.
 
+## The documents first: a rule; Paweł Prusimski and the privilege of 1746 (2026-10-20, not published)
+
+- **A new rule of the editor's** (2026-10-20): every fact is first checked against the edition's archival documents, before a book or any other source; where they disagree, the edition keeps to the document, and the difference is flagged in NEEDS_CONFIRMATION.md and recorded in the source's `notes.md`. Written into `docs/HOUSE_STYLE.md` ("The documents first"), with pointers in CLAUDE.md, WORKING_NOTES.md and LITERATURE_PLAN.md.
+- **Breyer's "Paul von Kolno-Prusiński" is Paweł Prusimski** (the editor, 2026-10-20). Recorded in `literature/index.yml`, the work's `notes.md` and NEEDS_CONFIRMATION.md.
+- **The link from Breyer (1935) on Łazińsk Holland** said "the edition has no document of 1746". The corpus had not been searched: the boundary decree of 1775 (Konin Gr.145, p. 76) cites "the rights granted them in 1746", the primary source for the privilege (editor), and the summons of 1860 (APP 53/968/0/-/783) names its grantors, Paweł z Kolna Prusiński and his wife Katarzyna z Rozdrażewskich. Both documents are added to the link, and its sentence now says what each says; that the privilege was a hereditary lease is Breyer's account alone.
+- For the era of 1851 to 1901, Claude proposes the name "The liquidation: the colonists become owners", from the heading of the Łazińsk table of 1868 (NEEDS_CONFIRMATION.md, "The eras"). Not applied: the name is the editor's.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

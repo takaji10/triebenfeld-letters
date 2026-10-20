@@ -1175,6 +1175,14 @@ cloud branches").
   Ruchts" in letter 103, taken for Rüchel, was a misreading of "Ruchels"
   (the editor, 2026-10-19), which the site's scan showed at once; the
   question need not have gone to the editor as an identification.
+  **Search the corpus before writing "the edition has no document"**: the
+  link `breyer1935gaue-hollanders` said so of Breyer's year 1746, and the
+  boundary decree of 1775 (Konin Gr.145, p. 76: "the rights granted them in
+  1746") and the summons of 1860 (53/968/0/-/783, which names the grantors)
+  both cite the privilege (found 2026-10-20; the editor: Gr.145 is the
+  primary source for it). A search of `corpus/documents/*.json` for the year or the
+  name takes a second. The rule this broke is the editor's of 2026-10-20,
+  HOUSE_STYLE, "The documents first".
 - **`english_forms.py --apply` rewrites every page and every summary**,
   not only the one a new line of `english_corrections.yml` is for. On
   2026-10-19 it also re-wrapped 23 summaries in `site/_data/summaries.yml`

@@ -256,7 +256,10 @@ matters for context. So:
   documents (their uids) and a sentence in English and German saying why
   they belong together. The sentence is read on both sides, so it names the
   book, the document and what each says; every figure in it was read in
-  both (Claude, 2026-10-19). Where they disagree it says so.
+  both (Claude, 2026-10-19). Where they disagree it says so, and the
+  difference is flagged in NEEDS_CONFIRMATION and recorded in the work's
+  `notes.md` (the editor's rule of 2026-10-20: the documents first,
+  `docs/HOUSE_STYLE.md`).
 - `literature_site.py` checks every link (the passage exists, its work is
   shown, the document exists) and stops if one fails. Under each linked
   passage it puts a box, "In the edition", with the sentence and a link to

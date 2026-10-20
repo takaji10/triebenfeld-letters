@@ -216,9 +216,12 @@ people:
       except:
         zychlinski1885/187: "Krzysztof, Jan and Krzysztof Prusimski, the Starost's forebears; Antoni is on p. 188"
   prusimski-pawel:
-    # Claude's identification, not yet accepted by the editor: Breyer's "Paul
-    # von Kolno-Prusiński", owner of Trąbczyn in 1746, is Paweł Prusimski the
-    # chamberlain, who held Trąbczyn and died in 1754
+    # Claude's identification, accepted by the editor (2026-10-20: "Paul
+    # Prusiński is indeed Paweł Prusimski"): Breyer's "Paul von
+    # Kolno-Prusiński", owner of Trąbczyn in 1746, is Paweł Prusimski the
+    # chamberlain, who held Trąbczyn and died in 1754. The summons of 1860
+    # (53/968/0/-/783) names him "Paweł z Kolna Prusiński" as the grantor of
+    # the privilege of 1746 (literature/links.yml, breyer1935gaue-hollanders)
     Prusiński: yes
   radziwill:
     Radziwill: "no: a Prince Radziwiłł in the black register; not shown to be Antoni"

@@ -67,6 +67,62 @@ A short entry that leaves the reader asking is worse than a longer one that
 does not. Where an entry cannot be made clear without a paragraph, it belongs
 on the era page, and the timeline keeps the core of it.
 
+## The documents first
+
+The editor, 2026-10-20: "All facts must be first verified against
+primary-source (ie. archival) documents before literature or other sources,
+and if there's a discrepancy, then flag and record it." This holds for every
+fact about the estates, their people and their places, wherever it is
+written: a summary, a person's or place's entry, an era's name, ownership
+line or account, the story, the timeline, a link's sentence, a holding's
+notes, NEEDS_CONFIRMATION.
+
+1. **Look in the edition's documents first.** Search the corpus
+   (`corpus/documents/`, the transcription and the English) for the name,
+   the year, the place, before taking anything from a book, the editor's
+   notes from outside the edition, a reference work or a web page. A
+   document often cites an older one the edition does not hold: the
+   boundary decree of 1775 cites the rights granted the Hollanders in 1746,
+   which are not themselves in the edition.
+   Say which it is: what the document says, and what it says of an older
+   paper.
+2. **Where the documents say it, they are the source**, and the sentence
+   rests on them. A book that says the same is a second witness, not the
+   authority.
+3. **Where no document says it**, a book or another source may supply it,
+   and the sentence says whose account it is ("by Breyer's account"), never
+   "it was".
+4. **Where a document and another source disagree**, the edition keeps to
+   the document, and the difference is flagged and recorded, in the places
+   that already exist for it:
+   - `docs/NEEDS_CONFIRMATION.md`, for the editor to rule: what each says,
+     with the page of the book and the document, in the section the matter
+     belongs to (a book: "The literature"; a holding: its entry). Nothing
+     is changed on the strength of the other source until the editor rules;
+   - the work's `literature/<slug>/notes.md` ("Points for the reader"), or
+     the holding's `notes.md` where the other source is not a book, so the
+     record stays with the source after the question is settled;
+   - on the site, where a link joins the passage and the document, its
+     sentence says what each says and does not choose
+     (`docs/WORKING_NOTES.md`, "A hand-made link says what each side
+     says").
+5. **Where two documents disagree**, neither is chosen without the editor;
+   recorded the same way.
+6. **A fact the editor gives** (a date of death, an identification) stands
+   as their ruling. Where a document says otherwise, it is put to them the
+   same way.
+
+Examples, both of 2026-10-19 and 10-20: Żychliński (1891) has Maryanna
+Dąmbska die on 2 September 1797, but the Prussian resident's dispatch from
+Venice of 14 December 1796 already speaks of her death (I. HA GR, Rep. 7 C,
+Nr. 1414, document 2); flagged in NEEDS_CONFIRMATION, the edition keeps to
+the dispatch. Breyer (1935) has "Paul von Kolno-Prusiński" found Łazińsk
+Holland in 1746; Claude wrote that "the edition has no document of 1746",
+without searching it. The boundary decree of 1775 (Konin Gr.145, p. 76) is
+the primary source for the privilege of 1746 (the editor, 2026-10-20), and
+the summons of 1860 (APP 53/968/0/-/783) names who granted it. The fact
+rests on them; Breyer is the second witness.
+
 ## Descriptions stand alone
 
 A holding's description is read on its own, in a list, by someone who has seen

@@ -41,9 +41,16 @@ the reissue divides it.
 
 - **"Paul von Kolno-Prusiński"** (p. 41) is Breyer's spelling for the owner
   of Trąbczyn who let the woods south of the estate to Olęders in 1746, out
-  of which Łazińsk Holland arose. The family is the Prusimski of this
-  edition's Prusimski era; the year and the contract are to be held against
-  the Prusimski-era holdings, not taken from here.
+  of which Łazińsk Holland arose. He is Paweł Prusimski, the King's
+  chamberlain, who died in 1754 (the editor, 2026-10-20). The year and the
+  founder rest on the documents, not on Breyer: the boundary decree of 1775
+  (Konin Gr.145, p. 76) cites "the rights granted them in 1746", given by
+  "the uncle of Prusimski", and the summons of 1860 (APP 53/968/0/-/783,
+  p. 2) names the grantors of that privilege, "Paweł z Kolna Prusiński"
+  and his wife Katarzyna z Rozdrażewskich, whom the inspection of 1754
+  names as Paweł Prusimski's widow. That the privilege was a hereditary
+  lease (Erbpacht) is Breyer's alone: the documents say it settled the
+  relations between the owners and the Hollanders.
 - **Leśnik's ground money.** Breyer writes here (p. 36), as again in 1938
   (Breyer (1938), p. 20), that the colonists of Leśnik paid Milewski 189
   Thaler of ground money for 10 Hufen. The charter he printed in 1938
@@ -57,13 +64,17 @@ the reissue divides it.
 ## Links to the documents (written 2026-10-19, `literature/links.yml`)
 
 - `breyer1935gaue-hollanders`: p. 41 (Łazińsk Holland, founded by Paul von
-  Kolno-Prusiński in 1746) to Konin Gr.136, document 1, the inspection of
-  Trąbczyn of 9 July 1754, made for the widow of Paweł Prusimski the
-  chamberlain. The edition has no document of 1746; the inspection names
-  Olędry among the estate's places, counts fifteen Olęders at Nowa Wieś
-  with a sixteenth plot empty, and says they took the best wood with their
-  plots. That Paul von Kolno-Prusiński is Paweł Prusimski is Claude's
-  reading (`docs/NEEDS_CONFIRMATION.md`).
+  Kolno-Prusiński in 1746) to the boundary decree of 1775 (Konin Gr.145,
+  document 1), the summons of 1860 (APP 53/968/0/-/783, document 1) and
+  Konin Gr.136, document 1, the inspection of Trąbczyn of 9 July 1754,
+  made for the widow of Paweł Prusimski the chamberlain. Written first
+  (2026-10-19) to the inspection alone, with "the edition has no document
+  of 1746": the corpus had not been searched, and the decree and the
+  summons both cite the privilege of 1746; the two were added on
+  2026-10-20. The privilege itself is not in the edition. The inspection
+  names Olędry among the estate's places, counts fifteen Olęders at Nowa
+  Wieś with a sixteenth plot empty, and says they took the best wood with
+  their plots.
 
 Not written:
 - p. 41 to APŁ 39/98/0/-/6603, the liquidation table of the Łazińsk colony:
