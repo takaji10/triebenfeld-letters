@@ -10,7 +10,8 @@ the scans in session (there was no transcription of the tables),
 translated, summarised in both languages and claim-checked, with its page.
 **Published 2026-10-15** at the editor's word, with APP 53/968/0/-/716. Era: `liquidation`, new on
 2026-10-15 at the editor's word ("a general liquidation era ... which began
-under Włodzimierz's ownership").
+under Włodzimierz's ownership"); made one with `wlodzimierz` on 2026-10-20
+(editor, "for better clarity"), which is the holding's era now.
 
 Everything about how the holding was made is in the docstrings of
 `intake/holding.py` (the steps), `intake/text6603.py` (the reading and its
@@ -101,4 +102,5 @@ the table, its copy and the statement alike (was [Мануилъ?] and
   (`intake/readings_answers.json`): 10055 70 (the pencil figure under the
   table), Глебель and Стурценбекеръ read without doubt; the rest kept,
   among them all eleven signatures ("can't tell"). 18 marks remain.
-- The era's name (`liquidation`, a working name).
+- The era's name: the era is now `wlodzimierz` (2026-10-20), whose
+  working name waits on the editor (NEEDS_CONFIRMATION, "The eras").

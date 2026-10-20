@@ -481,7 +481,8 @@ liquidation. Details: `units/apl399806603/notes.md`.
 - [x] You answered the spot sheet "Doubtful readings in the liquidation
       table of Łazińsk" (16 rows, 2026-10-15): three readings settled, the
       rest kept with their doubt; 18 marks remain. Worked in the same day.
-- [ ] A name for the era (`liquidation` is a working name).
+- [x] A name for the era: none needed, the era was made one with
+      Włodzimierz Miączyński's years (you, 2026-10-20).
 - [x] Published at your word (2026-10-15).
 
 ## 16. Oe 1 Bü 9454, letter 9 (added 2026-10-15, published 2026-10-15)

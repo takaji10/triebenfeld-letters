@@ -2086,6 +2086,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   No biography or era of the edition was changed.
 - Published at the editor's word the same day, the questions above still open.
 
+## Two eras made one: Włodzimierz Miączyński's years and the liquidation (2026-10-20, not published)
+
+- At the editor's word, "for better clarity": the era "The estate under Włodzimierz Miączyński" and the era "The liquidation: the peasants' land and the servitudes" are one, under the working name "The colonists' land and forest rights" (slug `wlodzimierz`). The lawsuit of 1859 over the colonists' rights in the Count's forest and the liquidation that fixed those rights in 1868 and bought them out in 1892 are one story. The era has 14 documents, 1858 to 1897: APŁ 39/98/0/-/6603 and Breyer's copies of the tables in APP 53/968/0/-/716 moved into it.
+- Changed with it: the era's ownership line and blurb (`reference/eras.yml`), the timeline (one band at 1858, its note covering both), and the story page in both languages (one section).
+- Claude's proposed names for all the eras are put to the editor (NEEDS_CONFIRMATION.md, "The eras"); no other era is changed.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

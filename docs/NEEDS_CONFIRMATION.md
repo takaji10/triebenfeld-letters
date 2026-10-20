@@ -329,8 +329,36 @@ written until there is a witness or a better scan.
   settled; 18 remain, eleven of them signatures; the page edges
   of the four joined openings approved by the editor. In the statement of 1896 four rows do not
   add up as written (notes).
-- **The liquidation era** (`liquidation`, 2026-10-15) carries a working
-  name until the editor names it.
+- **The eras** (the editor, 2026-10-20: "Let's better define the eras").
+  The liquidation era (`liquidation`) is made one with Włodzimierz
+  Miączyński's years (`wlodzimierz`), at the editor's word, under the
+  working name "The colonists' land and forest rights": 14 documents,
+  1858 to 1897. The editor asked whether an era may be headed by one
+  strand of it, as the Prusimski era is by the boundary dispute, with
+  nothing on the founding of the Olęder colonies or Paweł Prusimski; and
+  said the twentieth century ends with the expulsion of the German
+  settlers at the end of the Second World War. Claude's proposal, waiting
+  on the editor: name each era for the period (its owners where they
+  define it), and give the strands in the ownership line and the blurb.
+  - `medieval`: keep "Trąbczyn in the Middle Ages".
+  - `prusimski-boundary`: "The Trąmpczyński and Prusimski years". The
+    present ownership line is wrong as well as narrow: the documents of
+    1589 and 1644 are the Trąmpczyński family's, not the Prusimskis'. The
+    blurb would add the Olęder colonies (founded in 1746 by "Paul von
+    Kolno-Prusiński", by Breyer's account, whom Claude takes for Paweł
+    Prusimski, not yet accepted; the edition has no document of 1746,
+    its earliest on the colonists is the inspection of 1754 in Konin
+    Gr.136), Paweł's funeral of 1754, and the end at Antoni Prusimski's
+    flight in 1794.
+  - `hohenlohe`: keep "The Hohenlohe-Ingelfingen years".
+  - `restitution`: "Michalina Miączyńska's years", 1807 to her death in
+    1851, the restitution in the blurb.
+  - `wlodzimierz`: "The colonists' land and forest rights" (the working
+    name), or "Włodzimierz Miączyński and the liquidation"; the era runs
+    past his death to 1901, under his nephew and Countess Wielopolska.
+  - `twentieth-century`: "The German villages to 1945", ending with the
+    expulsion of the German settlers; no document of 1945 is in the
+    edition yet.
 - **Two eras without names** (editor, 2026-10-14): the era after Michalina
   Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
   53/968/0/-/783), and the twentieth century of the estate

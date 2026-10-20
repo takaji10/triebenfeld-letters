@@ -118,26 +118,18 @@ Archives in Berlin.
 
 ---
 
-## The estate under Włodzimierz Miączyński
+## The colonists' land and forest rights
 
-**Count Włodzimierz Miączyński, Michalina's son, who held the estate from her death in 1851 to his own in 1879.
-[2 documents, 1858 and 1860]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
+**Count Włodzimierz Miączyński, Michalina's son, from her death in 1851 to his own in 1879; then his nephew Władysław Miączyński, and by 1892 Countess Maria Wielopolska.
+[14 documents, 1858 to 1897]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 The colonists on the Trąbczyn estate, in the two Olęder colonies then called Staro-Łazińska
 and Nowo-Łazińska, sued the Count in 1859 over their rights of pasture and wood in his forest.
 He answered with a counterclaim against 97 of them, arguing that the contract the Prince of
 Hohenlohe-Ingelfingen had made with fourteen colonists in 1805 did not bind him
 ([the summons of 1860]({{ '/documents/app539680783/1/' | relative_url }})).
-
 In 1858 the colony of Emilienheim owed hearth tax and barracks money for 29 householders
 ([the tax list]({{ '/documents/app539680716/1/' | relative_url }})).
-
----
-
-## The liquidation: the peasants' land and the servitudes
-
-**From the Russian reform of 1864, under Włodzimierz Miączyński and the owners after him.
-[12 documents, 1868 to 1897]({{ '/sources/' | relative_url }}).** The name of this era is a working name.
 
 The Russian reform of 1864 made the peasants owners of the land they farmed. The liquidation
 table of the Łazińsk colony, confirmed by the Central Commission for Peasant Affairs on

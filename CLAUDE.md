@@ -174,16 +174,18 @@ so check them.
 - **Published and pushed before ADWł 85 (2026-10-15)**: 589 documents in
   42 holdings, 879 marks of doubt (with letters 9 and 300 of Oe 1 Bü 9454,
   published later the same day). The last two went out together at the
-  editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Three
-  eras carry working names until the editor names them: `wlodzimierz`,
-  `liquidation` and `twentieth-century` (`reference/eras.yml`).
+  editor's word: APŁ 39/98/0/-/6603 and APP 53/968/0/-/716 (below). Two
+  eras carry working names until the editor names them: `wlodzimierz` and
+  `twentieth-century` (`reference/eras.yml`). The era `liquidation` was
+  made one with `wlodzimierz` (editor, 2026-10-20); Claude's proposed names
+  for all the eras wait on the editor (NEEDS_CONFIRMATION, "The eras").
 - **APŁ 39/98/0/-/6603** (slug `apl399806603`, added and published
   2026-10-15), the first holding from the State Archive in Łódź: the
   liquidation table of the Łazińsk colony (1868), its copy (1869) and the
   entries to 1901, six documents, three of them tables; openings joined into
   one page by cut edges (`EDGES` in its `holding.py`). It and Breyer's copies
-  of the tables in -/716 stand in the new era `liquidation` (editor,
-  working name). Read `units/apl399806603/notes.md` first. The editor
+  of the tables in -/716 stood in the era `liquidation`, since 2026-10-20
+  in `wlodzimierz` (editor). Read `units/apl399806603/notes.md` first. The editor
   approved its page edges and answered its spot sheet (18 marks remain).
 - **APP 53/968/0/-/716** (added 2026-10-14, published 2026-10-15) (slug `app539680716`), Albert
   Breyer's notebook on Łazińsk, Emilienheim and Orliny, with a loose sheet

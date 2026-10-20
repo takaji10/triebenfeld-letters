@@ -41,10 +41,9 @@
     {% if year == 1589 %}{% assign era_slug = 'prusimski-boundary' %}{% assign era_note = t.tl_era_note_prusimski %}{% endif %}
     {% if year == 1794 %}{% assign era_slug = 'hohenlohe' %}{% assign era_note = t.tl_era_note_hohenlohe %}{% endif %}
     {% if year == 1807 %}{% assign era_slug = 'restitution' %}{% assign era_note = t.tl_era_note_restitution %}{% endif %}
-    {%- comment -%} The two eras of 2026-10-14 begin at the first year shown that has their documents; move the
-      band if an earlier document of the era is added. {%- endcomment -%}
+    {%- comment -%} The eras of 2026-10-14 begin at the first year shown that has their documents; move the
+      band if an earlier document of the era is added. The liquidation was its own era until 2026-10-20. {%- endcomment -%}
     {% if year == 1858 %}{% assign era_slug = 'wlodzimierz' %}{% assign era_note = t.tl_era_note_wlodzimierz %}{% endif %}
-    {% if year == 1868 %}{% assign era_slug = 'liquidation' %}{% assign era_note = t.tl_era_note_liquidation %}{% endif %}
     {% if year == 1935 %}{% assign era_slug = 'twentieth-century' %}{% assign era_note = t.tl_era_note_twentieth %}{% endif %}
     {% if era_slug != '' %}
       {% assign era = site.data.eras | where: "slug", era_slug | first %}

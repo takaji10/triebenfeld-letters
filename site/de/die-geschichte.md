@@ -127,26 +127,18 @@ in Berlin.
 
 ---
 
-## Das Gut unter Włodzimierz Miączyński
+## Das Land und die Waldrechte der Kolonisten
 
-**Graf Włodzimierz Miączyński, Michalinas Sohn, der das Gut von ihrem Tod 1851 bis zu seinem eigenen 1879 besaß.
-[2 Dokumente, 1858 und 1860]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
+**Graf Włodzimierz Miączyński, Michalinas Sohn, von ihrem Tod 1851 bis zu seinem eigenen 1879; dann sein Neffe Władysław Miączyński und spätestens 1892 Gräfin Maria Wielopolska.
+[14 Dokumente, 1858 bis 1897]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 Die Kolonisten des Gutes Trąbczyn, in den beiden Olęderkolonien, die damals Staro-Łazińska und
 Nowo-Łazińska hießen, verklagten den Grafen 1859 wegen ihrer Weide- und Holzrechte in seinem
 Wald. Er antwortete mit einer Widerklage gegen 97 von ihnen und machte geltend, der Vertrag, den
 der Fürst zu Hohenlohe-Ingelfingen 1805 mit vierzehn Kolonisten geschlossen hatte, binde ihn
 nicht ([die Vorladung von 1860]({{ '/documents/app539680783/1/' | relative_url }})).
-
 1858 schuldete die Kolonie Emilienheim Rauchfangsteuer und Kasernengeld für 29 Wirte
 ([die Steuerliste]({{ '/documents/app539680716/1/' | relative_url }})).
-
----
-
-## Die Liquidation: Bauernland und Servitute
-
-**Seit der russischen Reform von 1864, unter Włodzimierz Miączyński und den Besitzern nach ihm.
-[12 Dokumente, 1868 bis 1897]({{ '/de/quellen/' | relative_url }}).** Der Name dieser Epoche ist ein Arbeitstitel.
 
 Die russische Reform von 1864 machte die Bauern zu Eigentümern des Landes, das sie
 bewirtschafteten. Die Liquidationstabelle der Kolonie Łazińsk, am 8. Februar 1868 von der

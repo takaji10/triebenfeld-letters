@@ -816,6 +816,17 @@ Where the rest is:
   `reference/people.yml`; an owner's dates also into the era's `ownership`
   and blurb (`reference/eras.yml`), the timeline note (`i18n.yml`) and the
   story's era heading.
+- **Moving documents to another era, or making two eras one** (2026-10-20,
+  the liquidation into Włodzimierz Miączyński's years). The era is set in
+  a holding's `unit.yml` (`era:`) and per document in its `rulings.yml`
+  (`documents: era:`); `grep` both for the old slug. Then
+  `build_db.py --unit <slug>` for each holding changed, `merge_corpus.py`,
+  `build_dataset.py`, `build_site_data.py`: `build_site_data.py` alone
+  still counts the old eras, since it reads the era from the corpus. By
+  hand: `reference/eras.yml`, the band in `site/_includes/timeline.html`
+  and its note in `i18n.yml` (both languages), and the era's section of
+  the story page in both languages (heading, count, span).
+  `site/_data/eras.yml` gives the new count to copy.
 - **A notebook in three languages, divided by content** (APP 53/968/0/-/716,
   2026-10-14; the editor chose "by content" over one document). A page that
   ends one document and starts the next stands under both (`DOCS` in

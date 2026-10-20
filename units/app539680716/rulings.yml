@@ -45,20 +45,20 @@ dates:
 
 documents:
   # A copy belongs to the era of what it copies (editor, 2026-10-14). The
-  # sheet of 1858 falls in the years of Włodzimierz Miączyński; the copies of
-  # the liquidation tables and servitudes of 1868 to 1892 belong to the era
-  # of the liquidation, which began in his years (editor, 2026-10-15); the
-  # undated copies of Orliny (11, 13) are its liquidation table and
+  # sheet of 1858 falls in the years of Włodzimierz Miączyński; so do the
+  # copies of the liquidation tables and servitudes of 1868 to 1892, since
+  # the era of the liquidation was made one with his (editor, 2026-10-20);
+  # the undated copies of Orliny (11, 13) are its liquidation table and
   # servitudes, of the same reform of 1864. Breyer's own notes and figures
   # keep the holding's era.
   era:
     "1": wlodzimierz
-    "2": liquidation
-    "3": liquidation
-    "4": liquidation
-    "5": liquidation
-    "11": liquidation
-    "13": liquidation
+    "2": wlodzimierz
+    "3": wlodzimierz
+    "4": wlodzimierz
+    "5": wlodzimierz
+    "11": wlodzimierz
+    "13": wlodzimierz
 
   doc_type:
     "1": register
