@@ -90,7 +90,7 @@
   });
 
   // ---- which text is showing ----------------------------------------------
-  function apply(view) {
+  function apply(view, passing) {
     document.querySelectorAll('.text-view').forEach(function (el) {
       el.hidden = el.getAttribute('data-view') !== view;
     });
@@ -103,6 +103,7 @@
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
     });
     document.body.setAttribute('data-view', view);
+    if (passing) return;
     try { localStorage.setItem(VIEW_KEY, view); } catch (e) { /* private mode */ }
   }
 
@@ -112,7 +113,11 @@
 
   var saved;
   try { saved = localStorage.getItem(VIEW_KEY); } catch (e) { saved = null; }
-  apply(VIEWS.indexOf(saved) >= 0 ? saved : 'diplomatic');
+  // A document printed in English has no Translation button (Mączak 1968): a
+  // remembered "translation" shows the reading text there, and stays remembered.
+  var offered = Array.prototype.map.call(btns, function (b) { return b.getAttribute('data-show'); });
+  if (VIEWS.indexOf(saved) >= 0 && offered.indexOf(saved) >= 0) apply(saved);
+  else apply(saved === 'translation' ? 'reading' : 'diplomatic', saved === 'translation');
 
   // ---- hiding the scans gives the text the full width ---------------------
   var box = document.getElementById('hidescans');

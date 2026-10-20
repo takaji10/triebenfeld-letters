@@ -32438,6 +32438,160 @@
   "permalink": "/documents/app539680716/10/"
  },
  {
+  "uid": "maczak1968-1",
+  "unit": "maczak1968",
+  "letter_id": "1",
+  "doc_type": "article",
+  "language": "en",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "published",
+  "date_iso": "1968",
+  "date_precision": "year",
+  "date_source": "dateline",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 24,
+  "n_lines": 223,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0075_a",
+    "image": ""
+   },
+   {
+    "page": 2,
+    "page_id": "0076_a",
+    "image": ""
+   },
+   {
+    "page": 3,
+    "page_id": "0077_a",
+    "image": ""
+   },
+   {
+    "page": 4,
+    "page_id": "0078_a",
+    "image": ""
+   },
+   {
+    "page": 5,
+    "page_id": "0079_a",
+    "image": ""
+   },
+   {
+    "page": 6,
+    "page_id": "0080_a",
+    "image": ""
+   },
+   {
+    "page": 7,
+    "page_id": "0081_a",
+    "image": "Maczak_1968_0081_a-L1_07.jpg"
+   },
+   {
+    "page": 8,
+    "page_id": "0082_a",
+    "image": ""
+   },
+   {
+    "page": 9,
+    "page_id": "0083_a",
+    "image": ""
+   },
+   {
+    "page": 10,
+    "page_id": "0084_a",
+    "image": ""
+   },
+   {
+    "page": 11,
+    "page_id": "0085_a",
+    "image": ""
+   },
+   {
+    "page": 12,
+    "page_id": "0086_a",
+    "image": ""
+   },
+   {
+    "page": 13,
+    "page_id": "0087_a",
+    "image": ""
+   },
+   {
+    "page": 14,
+    "page_id": "0088_a",
+    "image": ""
+   },
+   {
+    "page": 15,
+    "page_id": "0089_a",
+    "image": ""
+   },
+   {
+    "page": 16,
+    "page_id": "0090_a",
+    "image": ""
+   },
+   {
+    "page": 17,
+    "page_id": "0091_a",
+    "image": ""
+   },
+   {
+    "page": 18,
+    "page_id": "0092_a",
+    "image": ""
+   },
+   {
+    "page": 19,
+    "page_id": "0093_a",
+    "image": ""
+   },
+   {
+    "page": 20,
+    "page_id": "0094_a",
+    "image": ""
+   },
+   {
+    "page": 21,
+    "page_id": "0095_a",
+    "image": ""
+   },
+   {
+    "page": 22,
+    "page_id": "0096_a",
+    "image": ""
+   },
+   {
+    "page": 23,
+    "page_id": "0097_a",
+    "image": "Maczak_1968_0097_a-L1_23.jpg"
+   },
+   {
+    "page": 24,
+    "page_id": "0098_a",
+    "image": ""
+   }
+  ],
+  "uncertainty_count": 1,
+  "has_damage": true,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 2,
+  "estates": [],
+  "translation_status": "untranslated",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "article 1",
+  "path": "documents/maczak1968-1.json",
+  "text_path": "text/maczak1968-1.txt",
+  "permalink": "/documents/maczak1968/1/"
+ },
+ {
   "uid": "pachonski1973-1",
   "unit": "pachonski1973",
   "letter_id": "1",

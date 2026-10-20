@@ -1,0 +1,94 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+#
+# The second holding of published literature (after Pachoński 1973): a journal
+# article in English, from the editor's PDF of the digital copy in RCIN, the
+# repository of the institutes of the Polish Academy of Sciences (the editor,
+# 2026-10-20: "supporting material for the agricultural activities of the
+# Olęders"). The whole article is in the edition, pp. 75-98.
+
+slug: maczak1968
+# The article, cited short. The journal is in `archive`, which the site prints under it.
+ref: "Mączak 1968, Export of Grain"
+archive: >-
+  Antoni Mączak, "Export of Grain and the Problem of Distribution of National
+  Income in the Years 1550-1650", Acta Poloniae Historica 18 (1968), pp. 75-98
+# Literature, not a primary source: its date does not count on the home page,
+# the timeline, the eras' spans or a person's "documented" years
+# (build_site_data.LITERATURE; the editor, 2026-10-20).
+kind: literature
+title: >-
+  A historian's article of 1968 on the export of Polish grain by the Vistula to
+  Gdańsk, 1550 to 1650, and who gained by it, in English, with its map, seven
+  tables and a chart of prices and wages; background to the farming of the
+  edition's estates, not about them.
+title_de: >-
+  Ein Aufsatz eines Historikers von 1968 über die Ausfuhr polnischen Getreides
+  auf der Weichsel nach Danzig, 1550 bis 1650, und darüber, wer daran gewann,
+  auf Englisch, mit seiner Karte, sieben Tabellen und einem Schaubild der
+  Preise und Löhne; Hintergrund zur Landwirtschaft der Güter der Edition, nicht
+  über sie.
+# The article's own head (p. 75).
+archive_title: >-
+  Antoni Mączak. Export of Grain and the Problem of Distribution of National
+  Income in the Years 1550 - 1650. Acta Poloniae Historica 18, 1968.
+  (Translated by Ewa Tymowska.)
+date_span: "1968"
+status: transcribed        # draft | transcribed | translated | published
+published_tag: ""
+
+# The years the article is about, 1550 to 1650, fall in the Prusimski era
+# (from 1589), whose estates farmed for this market; decided in session.
+era: prusimski-boundary
+
+repository: published
+# The credit line on the Licences page. The journal is the Institute of History
+# of the Polish Academy of Sciences', published by the Ossolineum; the editor's
+# copy is the institute's digitisation in RCIN.
+credit: "Acta Poloniae Historica 18 (1968), Institute of History, Polish Academy of Sciences; digital copy: RCIN (rcin.org.pl)"
+
+scan_source: the editor's PDF of the digital copy in RCIN (https://rcin.org.pl/dlibra/publication/19109/edition/5534)
+
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Mączak 1968, Export of Grain
+  raw_glob: "*.jpg"
+  # Only the map (page 81) and the chart (page 97) have an image; intake/holding.py
+  # --crop renders them from the PDF into processed/0081_a.jpg and 0097_a.jpg.
+  ascii_prefix: Maczak_1968
+
+transcriptions:
+  dir: transcriptions
+  glob: "*.txt"
+  page_id_strip: ""
+
+corpus: corpus.txt
+
+description: >-
+  A scholarly article of 1968, not a primary source: the Polish economic
+  historian Antoni Mączak (1928-2003) on the export of grain from Poland by
+  the Vistula to Gdańsk between 1550 and 1650 and on who gained by it,
+  printed in English in Acta Poloniae Historica 18 (1968), pages 75 to 98,
+  translated from the Polish by Ewa Tymowska. From the registers of the
+  water toll at Włocławek, the accounts of the royal estate of Malbork, the
+  Sound toll and the tax registers of the voivodship of Cracow it shows how
+  each region's share of the grain sent down the river rose and fell with
+  the harvests, how the great estates and magnate families such as the
+  Tęczyńskis and the Firlejs sent the largest and steadiest part of it, and
+  how the profits of the trade helped the magnates buy up the land of the
+  lesser gentry, while the peasants paid for the growth of the demesne. It
+  sets Little Poland, Royal Prussia and Masovia side by side and ends with
+  the prices and wages of Gdańsk, Cracow, Lwów and Warsaw. A map shows the
+  provinces and the Vistula toll stations, seven tables give the figures,
+  and a chart compares prices and wages. The article does not name Trąbczyn
+  or the district of Konin. It says that Great Poland exported grain from the
+  regions near the Vistula and a little along the Warta, and it speaks of the
+  intensive farming and dairying of the Dutch colonists in Royal Prussia: the
+  settlers whose name, Olędrzy, the colonists of Trąbczyn later carried.
+
+translation_note: >-
+  The article is printed in English, the translation of 1968 by Ewa Tymowska,
+  and is not translated again. Its English is of its time and place:
+  "corn" is grain in general, a "last" a measure of grain (one Gdańsk last
+  of rye about 2.2 tonnes), "Rdl." Reichsthaler, "voivodship" a province.
+  Decimals are written with a comma in the text (6,44) and a point in the
+  tables (20.4), as printed.

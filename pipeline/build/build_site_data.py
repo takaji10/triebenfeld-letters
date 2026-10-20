@@ -99,6 +99,50 @@ def footnote_html(slug, lid, text):
     return '<span class="fn-note">' + s + '</span>' if note else s
 
 
+def is_table_row(text):
+    """A row of a table printed inside running text: "| a | b |" (Mączak 1968)."""
+    s = text.strip()
+    return len(s) > 2 and s.startswith('| ') and s.endswith(' |')
+
+
+def text_table_html(rows):
+    """Rows of a table printed inside running text, as a table for the reading view.
+
+    Each row is "| a | b | c |". A cell written "<" belongs to the cell before
+    it (a figure or heading the print sets across two columns). The rows before
+    the first one whose first cell is filled and which holds a figure are the
+    head. The transcription view keeps the rows as lines, so verify_site reads
+    them back as they are.
+    """
+    grid = [[c.strip() for c in r.strip()[1:-1].split('|')] for r in rows]
+
+    def figure(c):
+        return any(ch.isdigit() for ch in c)
+    head = next((k for k, r in enumerate(grid) if r and r[0] and any(figure(c) for c in r)), 0)
+    out = ['<div class="ledger-wrap"><table class="ledger in-text">']
+    for k, r in enumerate(grid):
+        if k == 0 and head:
+            out.append('<thead>')
+        if k == head:
+            out.append(('</thead>' if head else '') + '<tbody>')
+        cells = []
+        for c in r:
+            if c == '<' and cells:
+                cells[-1][1] += 1
+            else:
+                cells.append([c, 1])
+        tag = 'th' if k < head else 'td'
+        tds = []
+        for i, (c, n) in enumerate(cells):
+            numeric = bool(re.fullmatch(r'[\d\s.,/%×—–-]+', c))
+            cls = ('grp' if n > 1 else '') if tag == 'th' else ('num' if i and numeric else 'name')
+            tds.append(f'<{tag}' + (f' colspan="{n}"' if n > 1 else '') + (f' class="{cls}"' if cls else '')
+                       + '>' + html.escape(c) + f'</{tag}>')
+        out.append('<tr>' + ''.join(tds) + '</tr>')
+    out.append('</tbody></table></div>')
+    return ''.join(out)
+
+
 def citation_kind(slug, lid):
     """'article' for a document cited as a published article, else ''."""
     citation_of(slug, lid)          # fills _CITATIONS
@@ -537,6 +581,8 @@ def main():
         fm.append(f'uid: {yaml_str(r["uid"])}')
         fm.append(f'pad: {yaml_str(r["pad"])}')
         fm.append(f'doc_type: {yaml_str(r["doc_type"])}')
+        # A document printed in English has no translation to show (Mączak 1968).
+        fm.append(f'language: {yaml_str(r.get("language") or "")}')
         fm.append(f'seq_archival: {r["seq_archival"]}')
         fm.append(f'date_iso: {yaml_opt(r["date_iso"])}')
         fm.append(f'date_label: {yaml_str(date_label(r))}')
@@ -731,7 +777,15 @@ def main():
                 paras = p.get('paragraphs') or [p['reading']]
                 side = set(p.get('sideways_paragraphs') or [])
                 office = set(p.get('office_paragraphs') or [])
-                for _i, _para in enumerate(paras):
+                _rows = []
+                for _i, _para in enumerate(paras + ['']):
+                    # The rows of a table printed in the text go out together as one table.
+                    if is_table_row(_para):
+                        _rows.append(_para)
+                        continue
+                    if _rows:
+                        body.append(text_table_html(_rows))
+                        _rows = []
                     if not _para.strip():
                         continue
                     _cls = ' class="runs-on"' if (_i == 0
@@ -821,6 +875,10 @@ def main():
             f.write(f'  title_de: {yaml_str((u.get("title_de") or "").strip())}\n')
             f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
             f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
+            # A work of literature names its own publisher (rights.yml's `published`
+            # covers more than one): the Licences page prints it in place of the
+            # repository's credit.
+            f.write(f'  credit: {yaml_str((u.get("credit") or "").strip())}\n')
             f.write(f'  era: {yaml_str(u.get("era") or "")}\n')
             f.write(f'  count: {n}\n')
             f.write(f'  pages: {pages}\n')

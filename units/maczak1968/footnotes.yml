@@ -1,0 +1,8 @@
+# The footnotes of Mączak's article. The marks are written as raised figures in
+# the text itself ("Thirty Years’ War.¹"), so nothing is raised by the build; a
+# line that begins with a raised figure is a footnote and is set apart
+# (build_site_data.footnote_html, `note_start`). Each page's notes stand at its
+# foot, as printed. The lettered notes of Table 3 (ᵃ, ᵇ) belong to the table and
+# are not set apart.
+"1":
+  note_start: "[¹²³⁴⁵⁶⁷⁸⁹⁰]+ "

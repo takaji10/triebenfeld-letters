@@ -14,7 +14,7 @@
     <ul>
     {%- for u in held -%}
       <li><a href="{{ u_sources | append: u.slug | append: '/' | relative_url }}">{{ u.ref }}</a><br>
-        <span class="credit-line">{{ a.credit }}, {{ u.ref }}</span></li>
+        <span class="credit-line">{% if u.credit and u.credit != "" %}{{ u.credit }}{% else %}{{ a.credit }}{% endif %}, {{ u.ref }}</span></li>
     {%- endfor -%}
     </ul>
   </dd>

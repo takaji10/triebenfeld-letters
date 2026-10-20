@@ -101,6 +101,8 @@ entries:
   orig: Groschen, g.
   match_de: '\bGroschen\b|\bgr\b|(?:\d\.? ?)(?P<w>gg[lr]?|gl|g)\b'
   match_en: '\bGroschen\b'
+  # The English article of Mączak 1968 uses the word otherwise (2026-10-20).
+  not_in: [maczak1968-1]
   short_en: >-
     A silver coin and unit worth one twenty-fourth of a Reichsthaler, and
     divided into 12 Pfennig. Sums are written in three columns: thalers,
@@ -259,6 +261,8 @@ entries:
   orig: Ruthe, R.
   match_de: '\bRuthe\w*|\bR\[ute\]'
   match_en: '\brods?\b'
+  # The English article of Mączak 1968 uses the word otherwise (2026-10-20).
+  not_in: [maczak1968-1]
   short_en: >-
     A measure of length, the Prussian rod of 12 feet, about 3.77 metres; as a
     square rod, a measure of area. A Magdeburg Morgen was 180 square rods, so
@@ -2020,7 +2024,7 @@ entries:
   # capital H only: a lowercase h. is not Herr. Not "Hr. Miączyńską" in the
   # Polish summons of 1860 (APP 53/968/0/-/783), where Hr. is Hrabina, Countess.
   # In Pachoński 1973 "J. H. Dąbrowski" is Jan Henryk.
-  not_in: [pachonski1973-1]
+  not_in: [pachonski1973-1, maczak1968-1]
   match_de: '\b(?:d[Hh]l?|H(?:rn?|l)?)\.(?= )(?! Miączyńsk)'
   short_en: >-
     Herr, "Mr" or "Sir", abbreviated: H. or Hr. is Herr, dH. or dh. is dem
@@ -2112,6 +2116,8 @@ entries:
     - '\bpp\b\.?'
     # "dem p Hawich": a single p only between an article and a name
     - '\b(?:der|dem|den|des|die|Der|Dem|Den|Die) (?P<w>p\.?)(?= [A-ZÄÖÜ])'
+  # The English article of Mączak 1968 uses the word otherwise (2026-10-20).
+  not_in: [maczak1968-1]
   short_en: >-
     Short for perge, perge, "and so on": it stands for titles too long to write
     out. "Dem p Hawich" is Hawich with his titles; after a name or a title list
@@ -2386,6 +2392,8 @@ entries:
   orig: Congress
   match_de: '\bCongre(ß|ss)\w*'
   match_en: '\bCongress\b'
+  # The English article of Mączak 1968 uses the word otherwise (2026-10-20).
+  not_in: [maczak1968-1]
   short_en: >-
     The meeting of the European powers in 1814–15 that redrew the map after
     Napoleon. Triebenfeld was there for the Prince, petitioning for his lost

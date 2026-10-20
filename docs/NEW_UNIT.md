@@ -159,7 +159,16 @@ citation in `rulings.yml` as `{kind: article, text, text_de}`; repository
 `published`, credited to the publisher. Text by paragraph, footnotes at
 the foot of their page (`footnotes.yml`, `note_start`), and a word or note
 that runs over a page given whole on the page where it begins. Check its
-copyright before it is published.
+copyright before it is published. Give it its own `credit:` in `unit.yml`
+(the publisher's line on the Licences page) and add it to the Licences
+page's paragraph on published literature.
+
+Mączak 1968 (`units/maczak1968/`) adds: an article printed in English
+(`language: "en"` in rulings.yml, status `transcribed`, no `--english`
+step); tables inside the text as rows "| a | b |" ("<" joins a cell to the
+one before); figures rendered from a PDF by its `holding.py --crop`. Run
+`regenerate.py --unit <slug>` again after `relabel_scans.py --apply`
+(WORKING_NOTES, "A new holding needs ... twice").
 
 ## 2. Build, and read what it says
 

@@ -510,3 +510,16 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   asked: era `hohenlohe` (its subject's years, beside Nr. 1414); dated 1973;
   no estate; a new repository `published` credited to the publisher
   (`units/pachonski1973/notes.md`).
+
+- **Mączak 1968** (added 2026-10-20, not published): Antoni Mączak's article
+  "Export of Grain and the Problem of Distribution of National Income in the
+  Years 1550-1650", *Acta Poloniae Historica* 18 (1968), in English (translated
+  by Ewa Tymowska), whole, with its tables, map and chart, from the editor's
+  PDF of the RCIN copy. It is in copyright: RCIN says "Rights Reserved - Free
+  Access", "Copyright-protected material. May be used within the limits of
+  statutory user freedoms". The editor's decision is needed before it is
+  published, as for Pachoński 1973. The Licences page already names it
+  beside Pachoński as outside CC BY, credited to the journal. Decided in
+  session, not asked: era `prusimski-boundary` (its years, 1550-1650); dated
+  1968; no estate; no translation (it is English); status `transcribed`
+  (`units/maczak1968/notes.md`).

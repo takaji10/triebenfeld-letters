@@ -18,8 +18,8 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 613 documents on 2,005 pages, dated from 1173 to 1936, and one modern
-article about them (below). The oldest are
+The edition holds 613 documents on 2,005 pages, dated from 1173 to 1936, and two modern
+articles beside them (below). The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -70,10 +70,12 @@ The documents come from forty-five holdings in six archives and a library:
   medieval charters of Greater Poland, from 1173 to 1440, given from its electronic text, without
   page images.
 
-Beside them stands one work of history, not a source of the time: Jan Pachoński's article
-of 1973 on the Polish emigrés at Venice from 1794 to 1797, which names Antoni Prusimski
-among them. It is given as text with its map. Its date does not count in the span of the
-edition or on the timeline.
+Beside them stand two works of history, not sources of the time. Jan Pachoński's article
+of 1973 on the Polish emigrés at Venice from 1794 to 1797 names Antoni Prusimski among
+them; it is given as text with its map. Antoni Mączak's article of 1968, in English, on the
+export of Polish grain down the Vistula from 1550 to 1650, is background to the farming of
+the estates and of their Olęder settlers; it is given as text with its tables, its map and
+its chart. Their dates do not count in the span of the edition or on the timeline.
 
 [Sources]({{ '/sources/' | relative_url }}) lists every holding with its archive reference.
 Each holding has a page of its own that describes what it contains and how its text was
@@ -152,7 +154,7 @@ There are 883 marks of doubt in the edition. Each document's page says how many 
 
 ## The English translations
 
-Every document that has text has an English translation: 608 of the 613, and the article. They were made by
+Every document that has text has an English translation: 608 of the 613, and Pachoński's article. Mączak's article is printed in English and needs none. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

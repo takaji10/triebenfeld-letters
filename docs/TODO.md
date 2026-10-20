@@ -570,3 +570,19 @@ Details: `units/pachonski1973/notes.md`.
       Licences page says it is outside CC BY.
 - [ ] **You: a look** at the map's crop and the English, and the word to
       publish.
+
+## 21. Mączak 1968: the export of grain, 1550-1650 (added 2026-10-20, not published)
+
+Antoni Mączak's article of 1968 in English (*Acta Poloniae Historica* 18,
+pp. 75-98), the second holding of published literature, at your word, as
+background to the farming of the Olęder settlers: text with its notes and
+seven tables, the map and the chart as pictures, summarised and
+claim-checked in session. It never names Trąbczyn; it mentions grain from
+Great Poland "a little along the Warta river" and the farming of the Dutch
+colonists of Royal Prussia. Details: `units/maczak1968/notes.md`.
+
+- [x] Read, summarised, holding page (2026-10-20).
+- [ ] **You: copyright.** The article is in copyright (RCIN: rights
+      reserved). Clear it, or not, as you did Pachoński 1973.
+- [ ] **You: how useful it is** (you said this would be judged later), and
+      the word to publish.

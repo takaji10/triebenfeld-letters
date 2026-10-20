@@ -432,6 +432,11 @@ table.ledger tbody tr:nth-child(even) { background: var(--paper-2); }
 table.ledger tfoot td { border-top: 2px solid var(--rule); font-weight: 600; }
 /* A page's own total, between the entries. */
 table.ledger tbody tr.sum td { border-top: 2px solid var(--rule); font-weight: 600; }
+/* A table printed inside running text (Mączak 1968): its head may run to two
+   rows, and a figure set across two columns is centred. */
+table.ledger.in-text { margin: .8em 0; }
+table.ledger.in-text thead th { text-align: center; vertical-align: bottom; }
+table.ledger.in-text td[colspan] { text-align: center; }
 /* The page image itself. */
 .scan-link { display: block; text-decoration: none; }
 img.scan {

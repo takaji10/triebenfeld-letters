@@ -28594,7 +28594,7 @@
  {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
-  "count": 113,
+  "count": 119,
   "documents": [
    "agad1174016-1",
    "app53150kaliszgr425-1",
@@ -28632,6 +28632,7 @@
    "kdw-20",
    "kdw-21",
    "kdw-8",
+   "maczak1968-1",
    "oe1bu14526-30",
    "oe1bu9454-141",
    "oe1bu9454-19",
@@ -29614,6 +29615,60 @@
     "scan": "III_HA_MdA_III_Nr_12367_0014_a-L11_01.jpg",
     "line": 146,
     "doc_line": 1
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 4,
+    "page_id": "0078_a",
+    "scan": "",
+    "line": 33,
+    "doc_line": 28
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 6,
+    "page_id": "0080_a",
+    "scan": "",
+    "line": 58,
+    "doc_line": 51
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 10,
+    "page_id": "0084_a",
+    "scan": "",
+    "line": 95,
+    "doc_line": 84
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 17,
+    "page_id": "0091_a",
+    "scan": "",
+    "line": 194,
+    "doc_line": 176
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 17,
+    "page_id": "0091_a",
+    "scan": "",
+    "line": 196,
+    "doc_line": 178
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Warszawa",
+    "page": 22,
+    "page_id": "0096_a",
+    "scan": "",
+    "line": 231,
+    "doc_line": 208
    },
    {
     "uid": "pachonski1973-1",
@@ -54031,6 +54086,65 @@
   ]
  },
  {
+  "entity": "teutschland",
+  "display": "Deutschland",
+  "count": 5,
+  "documents": [
+   "app539680669-1",
+   "maczak1968-1",
+   "oe1bu9454-16",
+   "oe1bu9454-271",
+   "oe1bu9454-286"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-271",
+    "surface": "Teutſchland",
+    "page": 1,
+    "page_id": "0493_b",
+    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
+    "line": 19273,
+    "doc_line": 13
+   },
+   {
+    "uid": "oe1bu9454-286",
+    "surface": "Teutschland",
+    "page": 4,
+    "page_id": "0518_a2",
+    "scan": "Oe_1_Bu_9454_0518_a2-L286_04.jpg",
+    "line": 20404,
+    "doc_line": 112
+   },
+   {
+    "uid": "oe1bu9454-16",
+    "surface": "Deutschlands",
+    "page": 1,
+    "page_id": "0024_b",
+    "scan": "Oe_1_Bu_9454_0024_b-L16_01.jpg",
+    "line": 881,
+    "doc_line": 8
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Deutschland",
+    "page": 21,
+    "page_id": "0011_a2",
+    "scan": "APP_53_968_0_669_0011_a2-L1_21.jpg",
+    "line": 296,
+    "doc_line": 274
+   },
+   {
+    "uid": "maczak1968-1",
+    "surface": "Deutschlands",
+    "page": 1,
+    "page_id": "0075_a",
+    "scan": "",
+    "line": 9,
+    "doc_line": 7
+   }
+  ]
+ },
+ {
   "entity": "grenoble",
   "display": "Grenoble",
   "count": 5,
@@ -54470,55 +54584,6 @@
     "scan": "Oe_1_Bu_9454_0488_a1-L268_02.jpg",
     "line": 19066,
     "doc_line": 43
-   }
-  ]
- },
- {
-  "entity": "teutschland",
-  "display": "Deutschland",
-  "count": 4,
-  "documents": [
-   "app539680669-1",
-   "oe1bu9454-16",
-   "oe1bu9454-271",
-   "oe1bu9454-286"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-271",
-    "surface": "Teutſchland",
-    "page": 1,
-    "page_id": "0493_b",
-    "scan": "Oe_1_Bu_9454_0493_b-L271_01.jpg",
-    "line": 19273,
-    "doc_line": 13
-   },
-   {
-    "uid": "oe1bu9454-286",
-    "surface": "Teutschland",
-    "page": 4,
-    "page_id": "0518_a2",
-    "scan": "Oe_1_Bu_9454_0518_a2-L286_04.jpg",
-    "line": 20404,
-    "doc_line": 112
-   },
-   {
-    "uid": "oe1bu9454-16",
-    "surface": "Deutschlands",
-    "page": 1,
-    "page_id": "0024_b",
-    "scan": "Oe_1_Bu_9454_0024_b-L16_01.jpg",
-    "line": 881,
-    "doc_line": 8
-   },
-   {
-    "uid": "app539680669-1",
-    "surface": "Deutschland",
-    "page": 21,
-    "page_id": "0011_a2",
-    "scan": "APP_53_968_0_669_0011_a2-L1_21.jpg",
-    "line": 296,
-    "doc_line": 274
    }
   ]
  },

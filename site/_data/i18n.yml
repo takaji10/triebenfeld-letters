@@ -133,6 +133,7 @@ en:
   view_diplomatic: Transcription
   view_reading: Reading
   view_translation: English
+  view_in_english: Printed in English, so not translated
   hide_scans: hide scans
   gl_toggle: glossary terms
   gl_h1: Glossary
@@ -441,6 +442,7 @@ de:
   view_diplomatic: Transkription
   view_reading: Lesefassung
   view_translation: Englisch
+  view_in_english: Auf Englisch gedruckt, daher nicht übersetzt
   hide_scans: Digitalisate ausblenden
   gl_toggle: Glossarbegriffe
   gl_h1: Glossar

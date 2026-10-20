@@ -19,8 +19,8 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 613 Dokumente auf 2.005 Seiten aus den Jahren 1173 bis 1936 und einen
-modernen Aufsatz über sie (unten). Die
+Die Edition enthält 613 Dokumente auf 2.005 Seiten aus den Jahren 1173 bis 1936 und zwei
+moderne Aufsätze daneben (unten). Die
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -72,9 +72,12 @@ Die Dokumente stammen aus fünfundvierzig Beständen in sechs Archiven und einer
   Wielkopolski, der gedruckten Edition der mittelalterlichen Urkunden Großpolens, von 1173 bis
   1440, wiedergegeben nach seinem elektronischen Text, ohne Seitenbilder.
 
-Daneben steht ein geschichtswissenschaftliches Werk, keine Quelle der Zeit: Jan Pachońskis
-Aufsatz von 1973 über die polnischen Emigranten in Venedig 1794 bis 1797, der Antoni
-Prusimski unter ihnen nennt. Er wird als Text mit seiner Karte gegeben. Sein Datum zählt
+Daneben stehen zwei geschichtswissenschaftliche Werke, keine Quellen der Zeit. Jan
+Pachońskis Aufsatz von 1973 über die polnischen Emigranten in Venedig 1794 bis 1797 nennt
+Antoni Prusimski unter ihnen; er wird als Text mit seiner Karte gegeben. Antoni Mączaks
+Aufsatz von 1968, auf Englisch, über die Ausfuhr polnischen Getreides auf der Weichsel von
+1550 bis 1650 ist Hintergrund zur Landwirtschaft der Güter und ihrer Olęder-Siedler; er wird
+als Text mit seinen Tabellen, seiner Karte und seinem Schaubild gegeben. Ihre Daten zählen
 nicht in der Zeitspanne der Edition und nicht auf der Zeitleiste.
 
 Unter [Quellen]({{ '/de/quellen/' | relative_url }}) steht jeder Bestand mit seiner
@@ -158,7 +161,7 @@ Die Edition enthält 883 Zweifelszeichen. Die Seite jedes Dokuments nennt deren 
 
 ## Die englischen Übersetzungen
 
-Jedes Dokument mit Text hat eine englische Übersetzung: 608 von 613, und ebenso der Aufsatz. Sie wurden von einem
+Jedes Dokument mit Text hat eine englische Übersetzung: 608 von 613, und ebenso Pachońskis Aufsatz. Mączaks Aufsatz ist englisch gedruckt und braucht keine. Sie wurden von einem
 KI-Modell nach Regeln des Herausgebers angefertigt, außer denen des Grenzdekrets von 1775
 und der Einträge aus den Gerichtsbüchern, die vom Herausgeber selbst stammen und dort
 überarbeitet wurden, wo der Text an den Aufnahmen korrigiert worden war.

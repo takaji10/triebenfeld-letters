@@ -2015,6 +2015,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Imielno is an estate of focus (editor): a new place, matched also in its medieval form "Chemelino". The gift of the hospital of Gniezno (1243), which lists "Chemelino" among the hospital's villages, is tagged with it, and its summary and the holding page say so (claim check rewritten for that statement). Imielno also links the boundary decree of 1775, the protest of 1778 (Konin Gr.117) and the visitation of 1791.
 - Published at the editor's word: 613 documents in 45 holdings, 1173 to 1936.
 
+## Mączak 1968: the export of grain, a second holding of literature (2026-10-20)
+
+- A new holding, `maczak1968`: Antoni Mączak, "Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650", *Acta Poloniae Historica* 18 (1968), pp. 75-98, at the editor's word, as background to the farming of the Olęder settlers: one document of 24 pages, read in session from the editor's PDF of the RCIN copy and checked word by word against its OCR; the seven tables as text, the map (p. 81) and the chart of prices and wages (p. 97) as pictures. In English, so not translated; summary written and claim-checked (15 statements). Not published: in copyright (NEEDS_CONFIRMATION).
+- New: a document's `language` reaches its page; a document printed in English shows "Printed in English, so not translated" in place of the English tab. Tables printed inside running text, written "| a | b |", are drawn as tables in the reading view. A holding's own `credit` line on the Licences page (each publisher named).
+- The Licences page and the edition guide name both articles. Five glossary entries kept out of the English article (`not_in`).
+
 ## Pachoński 1973: the first holding of published literature (2026-10-20)
 
 - A new holding, `pachonski1973`: Jan Pachoński, "Les Polonais dans la République de Venise (1794-1797)", in *Italia, Venezia e Polonia tra illuminismo e romanticismo*, ed. Vittore Branca (Florence: Olschki, 1973), pp. 237-256, at the editor's word: one document of twenty pages, read from the editor's scans in session, by paragraph, with its footnotes and the map (the only image). English and summaries written in session; 13 statements claim-checked. Its footnote 10 names "Antoni Prusiński de Nieszczewice": matched to Antoni Prusimski.

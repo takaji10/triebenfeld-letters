@@ -1059,6 +1059,43 @@ Where the rest is:
   at 1700 pixels wide were enough to read every word; enlarge only the words
   that look like slips, and keep the print's slips ("da grade",
   "contre-cadidat").
+- **"Nowa Wieś" is a common place name** (the editor, 2026-10-20, on Mączak
+  1968): before any link or index match names a Nowa Wieś as the Trąbczyn
+  estate's, make sure the document means that village (Konin Gr.136
+  inspects it with Trąbczyn, Osiny and Łazy). The place index matches the
+  name only where it is certain (`reference/places.yml`, `nowawies-trabczyn`).
+  The same care for any common name (Łazy, Osiny, Wola).
+- **A PDF with a text layer** (Mączak 1968, RCIN): the OCR is not the text.
+  Render the pages at 300 dpi, cut them in three bands, read every page, and
+  then compare the reading word by word with the OCR (`difflib` on the
+  words): it catches a dropped line without trusting the OCR's spelling. Sum
+  a table's columns where it prints totals. In small type at about 150 dpi
+  the stroke of "ł" can vanish: give the Polish names as the body text prints
+  them, and say so in the holding's script.
+- **A document printed in English** has `language: "en"` in rulings.yml: its
+  page shows "Printed in English, so not translated" in place of the English
+  tab (letter.html), a remembered English view falls back to the reading text
+  there (letter.js), and the holding's status is `transcribed`, which also
+  keeps it out of the glossary gate. Its English trips the German glossary
+  patterns ("Ruthe" in Ruthenia, "H." of initials, "gr", "pp."): read the
+  holding's rows in `review/glossary_matches.csv` and use `not_in`.
+- **A table printed inside running text** (Mączak 1968): one row to a line,
+  "| cell | cell |", "<" for a cell the print sets across the one before.
+  The transcription view keeps the rows as lines (verify_site reads them);
+  the reading view draws them as a table (`build_site_data.text_table_html`;
+  the head is the rows before the first one with a filled first cell and a
+  figure).
+- **Each work of literature names its publisher**: `credit:` in its
+  `unit.yml` is printed on the Licences page in place of the repository's
+  credit (`published` covers every publisher).
+- **A new holding needs `regenerate.py --unit <slug>` twice after
+  `relabel_scans.py --apply`**: its database step runs before the scan step
+  refreshes `page_scan_map.csv`, so the first run keeps the unlabelled image
+  names and `verify_site.py` fails on broken `/assets/scans/` links. Check
+  `corpus/units/<slug>/pages.csv` for the `-L1_` names. Make `review/<slug>/`
+  before the first run (the line-break report fails without it).
+- **`regenerate.py` has no `--help`**: any argument but `--unit` and `--site`
+  is ignored and it regenerates every holding. Read its docstring instead.
 
 ## Merging a cloud branch on the desktop
 
