@@ -1489,6 +1489,19 @@ cloud branches").
   doc. 12 was found only by the build). Look a place up on Nominatim from
   Python (urllib): the shell mangles "ó" in a curl query and the search
   returns nothing.
+- **A new estate in focus needs the literature index run twice**
+  (2026-10-21). `literature_index.py` lists the literature only for the
+  places in `site/_data/estates.yml`, which `build_site_data.py` writes
+  after it (the order in regenerate.py too). After tagging a new estate,
+  run `literature_index.py` again once the site data is built, then
+  Jekyll: otherwise its card on the Places page has no literature (Rzgów).
+- **Look at the branch before committing** (2026-10-21). The checkout was
+  switched to a new branch (`frost2007`) by someone else mid-session, and a
+  commit landed there unnoticed. `git status -sb` before each commit; if
+  the branch moved, say so and ask. Moving a branch ref (`git fetch .
+  a:main`, `git branch -f`) is refused by the session's permission check;
+  at the editor's word to publish, `git checkout main` and `git merge
+  --ff-only <branch>` did it.
 - **A work with no page breaks** (an online edition) is cut at headings
   (`chapter: '^# '`); where the edition numbers its items, the headings are
   those numbers ("# 2.976.177-182"), so each passage can be found online.
