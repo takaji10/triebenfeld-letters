@@ -68,7 +68,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  One document on leaves 402 and 403 of a book of the castle court of Kalisz
+  One document on leaves 402 and 403 of a book of the municipal court of Kalisz
   for 1771: the original of a delivery of possession (traditio), sewn into
   the book, with the record of its being brought in. Latin, with the act of
   delivery itself in Polish. On 4 November 1771, in the Lusnia wood, the
@@ -81,7 +81,7 @@ description: >-
   over to Chełmski the wood called Lusnia with the Olęder settlement in it:
   a tavern house with a new stable and twelve settlers, named. No one
   objects; the settlers are told to obey Chełmski. On 9 November the act was
-  brought to the castle court at Kalisz for entry.
+  brought to the municipal court at Kalisz for entry.
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.

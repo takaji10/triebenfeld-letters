@@ -57,7 +57,7 @@ they were written, as the record of the defaults.
   "Księgi sądu i urzędu grodzkiego w Kaliszu"; the archive's description of
   each is on the holdings' pages (`fonds:` in `unit.yml`).
 - **Skanoteka.** Some of the editor's photographs of the Konin and Kalisz
-  castle-court books carry the watermark of Skanoteka
+  municipal court books carry the watermark of Skanoteka
   (skanoteka.genealodzy.pl). The nine holdings where it is seen say so on
   their pages (`scan_source:` in `unit.yml`).
 - **Images of the headings of sittings:** low priority, backlog. Where to

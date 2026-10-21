@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Thirteen entries from the register of the castle court at Konin, 1778 and
+  Thirteen entries from the register of the municipal court at Konin, 1778 and
   1779: Chełmski's suit against Prusimski on a debt bought from the townsman
   Jan Tracholz, with the citations, Prusimski's protests against the land
   court and his appeal to the Crown Tribunal; Chełmski's protests against
@@ -72,7 +72,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Thirteen entries from a register of the castle court of Konin for 1778 and
+  Thirteen entries from a register of the municipal court of Konin for 1778 and
   1779, in Latin, two with the thing seen described in Polish. Most belong
   to one lawsuit. Stanisław Ścibor Chełmski of Łukom had acquired from the
   townsman Jan Tracholz a claim arising from a contract for oak timber made

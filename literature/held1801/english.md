@@ -609,7 +609,7 @@ since 1) the *forum contractus* applies here, and
 
 [p. 86]
 
-the contract the Polish Grod courts (castle courts), or the *Judicium* taking their place, are to be regarded *pro foro competente*.
+the contract the Polish Grod courts (municipal courts), or the *Judicium* taking their place, are to be regarded *pro foro competente*.
 
 praet. rath. et subsc.
 

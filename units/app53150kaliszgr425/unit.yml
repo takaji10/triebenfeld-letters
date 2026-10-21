@@ -75,7 +75,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  One document on leaves 497 and 498 of a book of the castle court of Kalisz
+  One document on leaves 497 and 498 of a book of the municipal court of Kalisz
   for 1776: the original of an adjournment, in Polish, sewn into the book,
   with the Latin record of its being brought in. Five commissioners appointed
   by the Estates of the Commonwealth in the cause between Prusimski, Starost
@@ -89,7 +89,7 @@ description: >-
   ground of Łukomia. Done at their residences on 28 September 1776; signed and
   sealed by Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court,
   Maciej Leszczyc Mierzewski, Tomasz Radoński, boundary surveyor of Kalisz,
-  Stanisław Jabłkowski and Stanisław Otto-Trąmpczyński. Brought to the castle
+  Stanisław Jabłkowski and Stanisław Otto-Trąmpczyński. Brought to the municipal court
   office at Kalisz on 30 September 1776 by Antoni Czyżewski.
 
 # Passed to the translator with every document of this holding. Facts about the

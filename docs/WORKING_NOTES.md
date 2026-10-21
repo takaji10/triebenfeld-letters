@@ -338,10 +338,14 @@ Where the rest is:
   are not numbered by leaf.
 - **"Gaza" is a hut or house**, not goods; "trajectio gazae" is shooting
   through a house. The editor's English had "goods" for it.
-- **The translation check forbids "castle court" in an English
-  translation**: sąd grodzki is "municipal court" there, as in the
-  editor's English. The edition's own prose (holding pages, summaries)
-  says "castle court". Keep the two apart.
+- **Sąd grodzki is the "municipal court" in all the edition's English**:
+  the translations (the editor's English; the translation check forbids
+  "castle court") and the edition's own prose (holding pages, summaries,
+  the timeline, the literature's English) alike. The prose said "castle
+  court" until 2026-10-21, when the editor ruled it wrong and it was
+  changed throughout (497 places). The glossary entry `grod` explains that
+  "municipal" here means the gród's court, not a town's. Urząd grodzki is
+  the "municipal court office". The German summaries keep "Burggericht".
 - **Names in the English follow the edition's forms.** The estate is
   Trąbczyn whatever the clerk wrote (`reference/english_forms.yml`, rule
   `trabczyn-place`); Celmer is Zelmer. Run `uncanonical_names.py` after
@@ -1432,11 +1436,10 @@ cloud branches").
   rendered page instead and strip the tags:
   `https://pl.wikisource.org/w/api.php?action=parse&page=<title>&prop=text&format=json&formatversion=2`.
   Gloger's pages carry their text and need no such step.
-- **One institution, four names in the edition.** Gród, the castle court,
-  is "Acta Castrensia" in the Latin, "gród, grodzki" in the Polish,
-  "Municipal Court" in the translations (the editor's English; the
-  translation check forbids "castle court" there), "castle court" in the
-  summaries and "Burggericht" in the German summaries. A glossary entry
+- **One institution, several names in the edition.** Gród, the municipal
+  court, is "Acta Castrensia" in the Latin, "gród, grodzki" in the Polish,
+  "municipal court" in all the English and "Burggericht" in the German
+  summaries. A glossary entry
   for such a term matches all of them (match_de also runs over the German
   summaries, match_en over the English ones), and keeps place names that
   share the root ("Grodziec", "Grodzisko") out of its pattern.

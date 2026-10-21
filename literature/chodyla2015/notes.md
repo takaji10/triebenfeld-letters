@@ -108,7 +108,7 @@ lokacyjny* foundation charter; *emfiteutyczno-wieczysty* emphyteutic-perpetual;
 *czynsz* rent; *sołtys* sołtys (village mayor), *ławnik* assessor; *wilkierz*
 village ordinance; *dym* hearth; *dymy samorolne* self-tilling hearths;
 *podymne* hearth tax; *zsypka* grain levy; *wizja* inspection; *lustracja*
-survey; *księgi grodzkie* castle-court books; *oblata* entry (*oblata*);
+survey; *księgi grodzkie* municipal court books; *oblata* entry (*oblata*);
 *huba*, *włóka*, *łan*, *mórg* (morgen), *pręt* rod, *łokieć* ell; *folwark*
 demesne farm; *komornicy* lodgers; *czeladź* farm servants; *luźni* landless
 people; *dysydenci* dissenters; *powiat* district; *starosta* starost. The

@@ -9,7 +9,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
   An inspection of the Trąbczyn estate made on 9 July 1754 for the widow
-  Katarzyna Prusimska, as the court messenger reported it to the castle court
+  Katarzyna Prusimska, as the court messenger reported it to the municipal court
   at Konin three days later: the buildings of the manor farm one by one, the
   Olęder settlers of Nowa Wieś, a count of the peasants who owed labour in
   four villages, and two noblemen's statement that the best timber of the
@@ -67,7 +67,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  One entry on leaves 121 to 123 of a book of the castle court of Konin for
+  One entry on leaves 121 to 123 of a book of the municipal court of Konin for
   1754 ("Relationes-oblatae"), in Polish with a Latin record at the end. On
   12 July 1754 the court messenger Bartłomiej Szeptycki of Trąbczyn reported
   that on Tuesday 9 July, at the request of Katarzyna Prusimska, born

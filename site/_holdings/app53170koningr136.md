@@ -9,13 +9,13 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One entry of four pages in a book of the castle court of Konin for 1754, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the report of an inspection of the Trąbczyn estate made in July 1754 for its widowed owner. It is in Polish, with a Latin record at the end, and is one document. Part of the entry is not transcribed. <!-- context -->
+One entry of four pages in a book of the municipal court of Konin for 1754, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is the report of an inspection of the Trąbczyn estate made in July 1754 for its widowed owner. It is in Polish, with a Latin record at the end, and is one document. Part of the entry is not transcribed. <!-- context -->
 
 ### Historical background
 
 Trąbczyn had belonged to Paweł Prusimski, chamberlain of the King, who died shortly before the summer of 1754. His widow Katarzyna, born Rozdrażewska, held the estate for life under her dower. A widow who took over an estate in this way had its condition recorded, so that she could not later be charged with what was already ruined or missing. Nine years later she was at law over potash from the same woods: <a href="{{ '/sources/app536045/' | relative_url }}">53/6/0/-/45</a>. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the castle court and castle office of Konin. The castle office was open every day for the entry of uncontested matters, and its books had public credit: what stood in them counted as proved. A report (relatio) was the commonest kind of entry: a sworn court messenger came before the office and declared what he had seen or done, and that declaration was written into the book. <!-- context -->
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin. The municipal court office was open every day for the entry of uncontested matters, and its books had public credit: what stood in them counted as proved. A report (relatio) was the commonest kind of entry: a sworn court messenger came before the office and declared what he had seen or done, and that declaration was written into the book. <!-- context -->
 
 ### Contents
 
@@ -25,7 +25,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The woods.** Two noblemen who went round with the court messenger, Kazimierz Świerczewski and Józef Puchalski, sign a statement. In the pine woods of Trąbczyn that run from Osiny along the Drzewce boundary, the larger half of the better trees has been felled as far as Łomów; from there to the Biskupice boundary the finer pines have been picked out; before and beyond Czarny Bród, above Szetlewek and towards Łazy, only the leavings stand, from which nothing can be chosen for building. It is the same round the glassworks, where the finest timber was, and with the oaks, except where the Olęder settlers have taken the timber on the plots long since marked out for them <span class="cite">[<a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">1</a>]</span>.
 
-**The record.** On Friday 12 July 1754 the court messenger Bartłomiej Szeptycki of Trąbczyn came before the castle office at Konin and declared that on the Tuesday before, at the request of Katarzyna Prusimska, he had gone with the two noblemen to Trąbczyn, then to the villages of Osiny, Łazy, Nowa Wieś, the Olęder settlement and the glassworks, and then to the woods, and had seen everything as it is written down. The record names her as the widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates <span class="cite">[<a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">1</a>]</span>.
+**The record.** On Friday 12 July 1754 the court messenger Bartłomiej Szeptycki of Trąbczyn came before the municipal court office at Konin and declared that on the Tuesday before, at the request of Katarzyna Prusimska, he had gone with the two noblemen to Trąbczyn, then to the villages of Osiny, Łazy, Nowa Wieś, the Olęder settlement and the glassworks, and then to the woods, and had seen everything as it is written down. The record names her as the widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, holding her dower and a life interest in all his estates <span class="cite">[<a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">1</a>]</span>.
 
 ### Form and language
 

@@ -1,9 +1,9 @@
 # 53/17/0/-/Konin Gr.145 (APP)
 
 One document on 122 pages: the decree of the boundary commission that sat
-between Trąbczyn and Łukomia from 13 September 1775, as entered in the castle
+between Trąbczyn and Łukomia from 13 September 1775, as entered in the municipal
 court records at Brześć Kujawski on 23 September 1776 and copied into a book
-of the castle court of Konin. Polish with Latin. Added on 2026-10-06 from the
+of the municipal court of Konin. Polish with Latin. Added on 2026-10-06 from the
 editor's scans, transcription and English translation. Status `translated`.
 The first holding of the Prusimski era (`era: prusimski-boundary`): the
 editor, 2026-10-06, "from the Prusimski era. It's not related to Hohenlohe."
@@ -11,11 +11,11 @@ editor, 2026-10-06, "from the Prusimski era. It's not related to Hohenlohe."
 ## Provenance
 
 Archiwum Państwowe w Poznaniu, fonds 53/17, "Księgi sądu i urzędu grodzkiego
-w Koninie" (books of the castle court and castle office of Konin), unit
+w Koninie" (books of the municipal court and office of Konin), unit
 "Konin Gr. 145": a volume the editor's folder calls "Relationes-oblatae
 [protocollon] 1776". The archive's page for the unit (szukajwarchiwach.gov.pl,
 unit 982231) cannot be opened from here: the site refuses automated access.
-The editor pasted the fonds' name and the archive's account of the castle
+The editor pasted the fonds' name and the archive's account of the municipal
 court on 2026-10-06; it is given, in English and German, in `about.md` and
 `about_de.md` under the historical background, and the name is in `unit.yml`
 (`fonds:`).
@@ -153,8 +153,9 @@ publish_translations.py as for any holding.
   doubt is the editor's own and stands in the English only ("[uncertain:
   Stefan] Zielonacki").
 - The translation calls the court "Brest Kuyavia Municipal Court"; the
-  edition's prose says "the castle court at Brześć Kujawski". The translation
-  is the editor's and is left.
+  edition's prose says "the municipal court at Brześć Kujawski" (it said
+  "castle court" until the editor ruled that wrong, 2026-10-21). The
+  translation is the editor's and is left.
 - **The editor's apparatus not yet used:** their glossary of 89 terms at the
   end of the English file. The edition's own glossary has some of the same
   words already. Bringing the rest in (each with a German definition and a

@@ -9,13 +9,13 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Twelve entries on thirteen pages of a register of the castle court of Konin for the years 1775 to 1777, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are what the register holds on the commission that fixed the boundary between Trąbczyn and Łukomia: the notices of its coming, the protests made while it sat, and the searches for a decree afterwards. They are in Latin, with signatures in Polish, and are twelve documents. <!-- context -->
+Twelve entries on thirteen pages of a register of the municipal court of Konin for the years 1775 to 1777, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are what the register holds on the commission that fixed the boundary between Trąbczyn and Łukomia: the notices of its coming, the protests made while it sat, and the searches for a decree afterwards. They are in Latin, with signatures in Polish, and are twelve documents. <!-- context -->
 
 ### Historical background
 
-The Polish parliament appointed a commission to fix the boundary between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukomia. It opened on the ground on 13 September 1775 under Ludwik Dąmbski, voivode of Brześć Kujawski, and ruled for Prusimski: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. Chełmski did not accept the result. The entries here show that he had brought commissioners of his own, who made an act of their own on the disputed ground, and that both sides then came to the castle office at Konin, first to protest and later to ask whether a decree had been entered there. <!-- context -->
+The Polish parliament appointed a commission to fix the boundary between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukomia. It opened on the ground on 13 September 1775 under Ludwik Dąmbski, voivode of Brześć Kujawski, and ruled for Prusimski: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. Chełmski did not accept the result. The entries here show that he had brought commissioners of his own, who made an act of their own on the disputed ground, and that both sides then came to the municipal court office at Konin, first to protest and later to ask whether a decree had been entered there. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the castle court and castle office of Konin, and follows the register for 1768 to 1774: <a href="{{ '/sources/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>. Each day the office sat has a line beginning "Actum in Conin", and under it short entries, each headed with the name of the party and the kind of entry. Many are one-line notes that a paper has been brought in and lies among the papers produced. Where a party announced an entry and its text was never written, the clerk closed the space with pen strokes or with the word "Vacuum", empty. <!-- context -->
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin, and follows the register for 1768 to 1774: <a href="{{ '/sources/app53170koningr115/' | relative_url }}">53/17/0/-/Konin Gr.115</a>. Each day the office sat has a line beginning "Actum in Conin", and under it short entries, each headed with the name of the party and the kind of entry. Many are one-line notes that a paper has been brought in and lies among the papers produced. Where a party announced an entry and its text was never written, the clerk closed the space with pen strokes or with the word "Vacuum", empty. <!-- context -->
 
 ### Contents
 
@@ -27,7 +27,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 The decree pronounced in default of Prusimski, for which his own men searched in February 1776, cannot be the decree of the parliament's commission, which ruled for him. It is presumably the act of Chełmski's commissioners against which the five protested; the entry does not say so. <!-- context -->
 
-The land court's decree of October 1777 cites a search that Chełmski made himself at the castle court of Konin in October of that year. The last entry here answers to it and is dated from it: <a href="{{ '/sources/app536046/' | relative_url }}">53/6/0/-/46</a>. That decree ordered Prusimski to bring the commission's decree to Konin, where its text now stands. <!-- context -->
+The land court's decree of October 1777 cites a search that Chełmski made himself at the municipal court of Konin in October of that year. The last entry here answers to it and is dated from it: <a href="{{ '/sources/app536046/' | relative_url }}">53/6/0/-/46</a>. That decree ordered Prusimski to bring the commission's decree to Konin, where its text now stands. <!-- context -->
 
 ### Form and language
 

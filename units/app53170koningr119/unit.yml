@@ -8,9 +8,9 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Eight entries from the register of the castle court at Konin, 1783 and 1784:
+  Eight entries from the register of the municipal court at Konin, 1783 and 1784:
   the first quarrels after the boundary was marked, with citations by Chełmski
-  and Prusimski before the castle court of Kalisz over a wood cut along the
+  and Prusimski before the municipal court of Kalisz over a wood cut along the
   new line and an inroad at Łomowo, two searches of the register, and
   Prusimski's protest of October 1783 on the men he was to produce.
 title_de: >-
@@ -71,10 +71,10 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Eight entries from the register of the castle court of Konin for 1783 and
+  Eight entries from the register of the municipal court of Konin for 1783 and
   1784, in Latin. Five are court messengers' reports of citations served
   between Stanisław Chełmski of Łukom and Antoni Prusimski of Trąbczyn before
-  the castle court of Kalisz, three of them with the text of the citation:
+  the municipal court of Kalisz, three of them with the text of the citation:
   Chełmski charges Prusimski's steward Leon Maszewski with breaking into the
   wood that the Tribunal's line left to Łukom and taking oxen, carts and axes
   (10 March 1783), and Prusimski with an inroad at Łomowo; Prusimski asks to

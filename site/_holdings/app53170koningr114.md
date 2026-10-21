@@ -9,13 +9,13 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Two entries on four pages of a book of reports of the castle court of Konin for the years 1765 to 1767, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). Both are reports of a court messenger, made in 1767 for Antoni Prusimski, on an embankment that flooded the Olęder settlers of Trąbczyn. They are in Latin, with the thing seen described in Polish, and are two documents. <!-- context -->
+Two entries on four pages of a book of reports of the municipal court of Konin for the years 1765 to 1767, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). Both are reports of a court messenger, made in 1767 for Antoni Prusimski, on an embankment that flooded the Olęder settlers of Trąbczyn. They are in Latin, with the thing seen described in Polish, and are two documents. <!-- context -->
 
 ### Historical background
 
 By 1767 Trąbczyn belonged to Antoni Prusimski, later Starost of Niszczewice. In its woods, towards the boundary with Łukom, he and his predecessors had settled Olęder farmers. On that boundary lay the pond-ground (stawisko), the bed of a former pond, which both estates claimed. An embankment across its outlet held the water back onto whoever lay upstream. The commission of 1775 judged the pond-ground to be Trąbczyn's and awarded Prusimski damages for the flooding: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the castle court and castle office of Konin. A report (relatio) was the commonest kind of entry in these books: a sworn court messenger came before the office and declared what he had seen or done, and the declaration was written down. A man who meant to go to law over damage had it seen and reported in this way first, so that the state of things on a given day stood in a public record. <!-- context -->
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin. A report (relatio) was the commonest kind of entry in these books: a sworn court messenger came before the office and declared what he had seen or done, and the declaration was written down. A man who meant to go to law over damage had it seen and reported in this way first, so that the state of things on a given day stood in a public record. <!-- context -->
 
 ### Contents
 

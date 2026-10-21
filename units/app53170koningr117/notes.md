@@ -1,6 +1,6 @@
 # 53/17/0/-/Konin Gr.117 (APP)
 
-Thirteen documents on eighteen pages: entries of the Konin castle court
+Thirteen documents on eighteen pages: entries of the Konin municipal court
 register, 1778 and 1779 (six messengers' reports, five protests, two
 register notes). Latin, two with Polish. Added on 2026-10-07 in the fourth
 Prusimski-era batch. Status `translated`. Built and verified locally, **not

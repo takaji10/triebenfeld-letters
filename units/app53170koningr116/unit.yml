@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Twelve entries from the register of the castle court at Konin, 1775 to
+  Twelve entries from the register of the municipal court at Konin, 1775 to
   1777, on the commission that fixed the boundary between Trąbczyn and
   Łukomia: the notices of its coming, the protests of the commissioners, of
   Prusimski and of Chełmski while it sat, and the searches each side then
@@ -71,7 +71,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Twelve short entries from a register of the castle court of Konin for 1775
+  Twelve short entries from a register of the municipal court of Konin for 1775
   to 1777, in Latin, several with autograph signatures in Polish. They
   concern the commission that the Estates appointed to fix the boundary
   between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukom.

@@ -9,13 +9,13 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Two entries on three pages of the register of the castle court of Konin for 1785 and 1786, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). One records the injuries of a Trąbczyn subject beaten on the road; the other is a late step in Stanisław Ścibor Chełmski's suit against Antoni Prusimski on the Tracholz debt. They are in Latin and are two documents. <!-- context -->
+Two entries on three pages of the register of the municipal court of Konin for 1785 and 1786, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). One records the injuries of a Trąbczyn subject beaten on the road; the other is a late step in Stanisław Ścibor Chełmski's suit against Antoni Prusimski on the Tracholz debt. They are in Latin and are two documents. <!-- context -->
 
 ### Historical background
 
 Chełmski had bought from the merchant Jan Tracholz a claim that went back to a contract of 1744 for oak timber with Paweł Prusimski, Antoni's uncle, and had pursued it since 1777 through the land court, sittings on the ground and the Crown Tribunal: <a href="{{ '/sources/app53170koningr117/' | relative_url }}">53/17/0/-/Konin Gr.117</a>, <a href="{{ '/sources/app53170koningr118/' | relative_url }}">53/17/0/-/Konin Gr.118</a>. Prusimski had always answered that the papers were not in his hands. The second entry here shows the suit still alive nine years on, and Chełmski now saying that the contract itself had stayed with Prusimski. <!-- context -->
 
-A person who had been beaten could come to the castle office and have his injuries seen and written down; the entry served as proof in a later suit. Such an entry is headed "obduxit". <!-- context -->
+A person who had been beaten could come to the municipal court office and have his injuries seen and written down; the entry served as proof in a later suit. Such an entry is headed "obduxit". <!-- context -->
 
 ### Contents
 

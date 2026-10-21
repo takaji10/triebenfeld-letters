@@ -6,7 +6,7 @@
 The steps are courtbook.holding_main's (pipeline/intake/courtbook.py). This
 file is the record of what was done to this holding.
 
-The book is the register of the castle court of Konin for 1787 and 1788.
+The book is the register of the municipal court of Konin for 1787 and 1788.
 The editor photographed two openings and transcribed one entry, which
 begins on leaf 563 (570.jpg, right) and ends on leaf 563 verso (571.jpg,
 left). Page ids: 0563_a2 and 0564_a1. The other two halves are set apart.
@@ -82,7 +82,7 @@ def english():
 
 S = {
  1: ('Eintrag vom 9. Juni 1788 im Buch des Burggerichts Konin. Ludwik Żurawski, im Dienst von Antoni Prusimski von Kolno, Starost von Niszczewice und Erbherr von Trąbczyn, führt dem Amt ein Gespann vor: einen Wagen, vorn mit unbeschlagenen und hinten mit beschlagenen Rädern, zwei Ochsen, eine Kuh und eine kastanienbraune Stute. Das Gespann gehört Marcin Gryndel, einem Bauern aus Łomowo, einem Gut von Chełmski, Schatzmeister von Wschowa, das zu dessen Hauptgut Łukom gehört. Gryndel war in den Kiefernwald gefahren, der zu Prusimskis Erbgut Trąbczyn gehört und nie strittig war, und fuhr von dort schon einen gefällten, zum Bauen tauglichen Baum nach Hause; der Trąbczyner Waldhüter hielt ihn im Wald an. Nach der Vorführung überlässt Żurawski Tiere und Wagen bei der Kanzlei zur Herausgabe an Gryndel, der sie sofort verlangt; darüber ist am selben Tag eine Quittung eingetragen.',
-     "An entry of 9 June 1788 in the book of the castle court at Konin. Ludwik Żurawski, in the service of Antoni Prusimski of Kolno, Starost of Niszczewice and heir of Trąbczyn, brings a team before the office: a cart with unshod front wheels and iron-shod rear wheels, two oxen, a cow and a chestnut mare. The team belongs to Marcin Gryndel, a peasant of Łomowo, an estate of Chełmski, Treasurer of Wschowa, which belongs to his principal estate of Łukom. Gryndel had driven into the pine wood that belongs to Prusimski's hereditary estate of Trąbczyn and was never in dispute, and was already carting home from it a felled tree fit for building; the Trąbczyn forest keeper stopped him in the wood. After showing them, Żurawski leaves the animals and the cart at the chancery to be given back to Gryndel, who asks for them at once; a receipt for this was entered the same day."),}
+     "An entry of 9 June 1788 in the book of the municipal court at Konin. Ludwik Żurawski, in the service of Antoni Prusimski of Kolno, Starost of Niszczewice and heir of Trąbczyn, brings a team before the office: a cart with unshod front wheels and iron-shod rear wheels, two oxen, a cow and a chestnut mare. The team belongs to Marcin Gryndel, a peasant of Łomowo, an estate of Chełmski, Treasurer of Wschowa, which belongs to his principal estate of Łukom. Gryndel had driven into the pine wood that belongs to Prusimski's hereditary estate of Trąbczyn and was never in dispute, and was already carting home from it a felled tree fit for building; the Trąbczyn forest keeper stopped him in the wood. After showing them, Żurawski leaves the animals and the cart at the chancery to be given back to Gryndel, who asks for them at once; a receipt for this was entered the same day."),}
 
 HOW = ('written in the working session from the Latin and Polish as checked\n# (intake/holding.py, 2026-10-07).')
 

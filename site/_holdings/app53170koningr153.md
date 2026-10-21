@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-Two original acts of late 1782 on twenty-six pages, sewn into a book of the castle court of Konin kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The first is the decree that marked the boundary between Trąbczyn and Łukomia on the ground and so ended the dispute; it contains the full text of the Crown Tribunal's decree that ordered it. The second delivers one Olęder settler to Antoni Prusimski. They are in Latin and are two documents. <!-- context -->
+Two original acts of late 1782 on twenty-six pages, sewn into a book of the municipal court of Konin kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). The first is the decree that marked the boundary between Trąbczyn and Łukomia on the ground and so ended the dispute; it contains the full text of the Crown Tribunal's decree that ordered it. The second delivers one Olęder settler to Antoni Prusimski. They are in Latin and are two documents. <!-- context -->
 
 ### Historical background
 
@@ -27,7 +27,7 @@ The Tribunal now rules that the line stands as drawn. A sworn surveyor, it says,
 
 **The execution, 28 November to 3 December 1782.** Franciszek Ksawery Jasiński, boundary chamberlain of the palatinate of Gniezno, opened his court at the three corner mounds on 28 November. Chełmski met the court on the forest road and asked that his appearance be recorded; he was told it would be if he came the next day, and he did not come. Prusimski produced the map with the signed line. The sworn surveyor, Benedykt Woronowski, a canon of Łęczyca, who had made the map, set the line out with poles, and the court compared it with the map. On 30 November and on 2 and 3 December the court raised forty-one wall mounds along the line, twenty perches apart, and drove thirty-one stakes of alder and oak where the line crosses the marsh called Stawisko. The prior of Ląd attended for the abbey; Chełmski appeared in person on 2 December. Each mound holds five stones laid as a cross, pieces of brick, broken glass and charcoal. The court then had the older mounds levelled <span class="cite">[<a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">1</a>]</span>.
 
-**The entry at Konin.** Leon Maszewski, Prusimski's steward at Trąbczyn, brought the decree to the castle office at Konin on 7 December 1782, and the original was sewn into the book <span class="cite">[<a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">1</a>]</span>.
+**The entry at Konin.** Leon Maszewski, Prusimski's steward at Trąbczyn, brought the decree to the municipal court office at Konin on 7 December 1782, and the original was sewn into the book <span class="cite">[<a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">1</a>]</span>.
 
 **Martin Hunt.** On 28 November 1782, at Hunt's house in the Olęder settlement of Trąbczyn, Józef Łukaszewicz, general commissioner of the palatinate of Greater Poland, delivered Hunt into the possession of Prusimski, who was present, and bound him to obedience to Prusimski <span class="cite">[<a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">2</a>]</span>.
 

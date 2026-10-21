@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Two entries from the register of the castle court at Konin: a Trąbczyn
+  Two entries from the register of the municipal court at Konin: a Trąbczyn
   subject shows the injuries of a beating on the road (14 March 1785), and
   Chełmski cites Prusimski before the Crown Tribunal to produce the contract
   of 1744 with the merchant Tracholz (October 1786).
@@ -68,7 +68,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Two entries from the register of the castle court of Konin for 1785 and
+  Two entries from the register of the municipal court of Konin for 1785 and
   1786, in Latin. In the first Andrzej Kinos, a subject from Trąbczyn, shows
   the office the injuries he says Marcin Sarzyński gave him on the public road
   at Obory (14 March 1785). The second is a court messenger's report of a

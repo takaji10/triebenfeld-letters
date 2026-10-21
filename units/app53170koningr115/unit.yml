@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Ten entries from the register of the castle court at Konin, 1768 to 1773,
+  Ten entries from the register of the municipal court at Konin, 1768 to 1773,
   on the quarrel over the Lusnia wood: notes of citations and of the delivery
   of the wood to Chełmski, and the court messengers' reports and a protest
   on the fighting that followed, with an embankment broken, an inn shot at
@@ -71,7 +71,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Ten short entries from a register of the castle court of Konin for 1768 to
+  Ten short entries from a register of the municipal court of Konin for 1768 to
   1774, in Latin, two of them with the thing seen described in Polish. Four
   are one-line notes that a paper was brought in: Stanisław Chełmski's
   citation of Antoni Prusimski and the heirs of Katarzyna Prusimska (January

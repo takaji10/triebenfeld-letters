@@ -606,7 +606,7 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
 - **56 definitions are still drafts** (`checked: false`; the page marks
   them). Matura (2026-10-14) waits on the Encyklopedia PWN. 56 are
-  checked: gród, the castle court (2026-10-21, from Arct's dictionary,
+  checked: gród, the municipal court (2026-10-21, from Arct's dictionary,
   which the editor named, and the archive's description of the Konin
   court books; not yet published), the patrimonial court, and 54 read on 2026-10-02
   against Krünitz, Adelung, Grimm and Gloger (changelog, "The glossary

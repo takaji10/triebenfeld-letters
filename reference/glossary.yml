@@ -1297,28 +1297,29 @@ entries:
 - id: grod
   kind: law
   lang: pl
-  head_en: gród (castle court)
+  head_en: gród (municipal court)
   head_de: Gród (Burggericht)
   orig: gród, grodzki; in Latin castrensis (Acta Castrensia)
   # Added at the editor's word, 2026-10-21, from the entry in Arct's
   # dictionary they named. The Polish forms and the Latin adjective only:
   # "Grodziec" and "Grodzisko" are places and must not match.
-  # The translations say "Municipal Court" for it (editor's English; the
-  # translation check forbids "castle court" there), the summaries "castle
-  # court", the German summaries "Burggericht" (match_de is also run over
-  # them). Checked 2026-10-21: no document of the edition names a town
-  # court, so "Municipal Court" is always this court.
+  # The edition's English says "municipal court" for it, in the
+  # translations and in its own prose alike (reference/translation_glossary.yml:
+  # never "castle court"; editor, 2026-10-21). The German summaries say
+  # "Burggericht" (match_de is also run over them). Checked 2026-10-21: no
+  # document of the edition names a town court, so "municipal court" is
+  # always this court.
   match_de: '\b[Gg]r(?:ód|odu|odzie)\b|\b[Gg]rodzk\w*|\bgrodow\w*|\b[Cc]astrens\w*|\bBurggericht\w*|\bGrod(?:gericht|buch|büch)\w*'
-  match_en: '\b[Mm]unicipal [Cc]ourts?\b|\b[Cc]astle [Cc]ourts?\b'
+  match_en: '\b[Mm]unicipal [Cc]ourts?\b'
   short_en: >-
     A castle, and the court held there. In the old Polish Commonwealth the
     starost held the gród court in a royal castle, in Latin iudicium
     castrense: it judged nobles for the gravest crimes, and later also
     suits over land and money. Beside the court was its office, where
     deeds, bonds and other acts not in dispute were entered in its books,
-    which then counted as proof. The court books of Konin and Kalisz in this edition are its
-    books. The translations call it the Municipal Court, the summaries the
-    castle court; it was not a town's court.
+    which then counted as proof. The court books of Konin and Kalisz in
+    this edition are its books. The edition's English calls it the
+    municipal court: the court of the gród, not of a town.
   short_de: >-
     Eine Burg und das Gericht, das dort gehalten wurde. In der alten
     polnischen Adelsrepublik hielt der Starost das Burggericht auf einer
@@ -1326,9 +1327,10 @@ entries:
     wegen der schwersten Verbrechen, später auch in Klagen um Land und
     Geld. Neben dem Gericht stand seine Kanzlei, in deren Bücher Urkunden,
     Schuldverschreibungen und andere unstrittige Akte eingetragen wurden,
-    die damit als Beweis galten. Die Gerichtsbücher von Konin und Kalisz in dieser
-    Edition sind seine Bücher. Die englischen Übersetzungen nennen es
-    "Municipal Court"; ein städtisches Gericht war es nicht.
+    die damit als Beweis galten. Die Gerichtsbücher von Konin und Kalisz
+    in dieser Edition sind seine Bücher. Das Englische dieser Edition nennt
+    es "municipal court"; gemeint ist das Gericht des Gród, nicht das einer
+    Stadt.
   source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 1, p. 405, s.v. Gród (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Gr%C3%B3d); the State Archive in Poznań's description of the fonds Księgi sądu i urzędu grodzkiego w Koninie (docs/PRUSIMSKI_ERA_PLAN.md)"
   check_against: Arct, Słownik ilustrowany języka polskiego
   checked: true

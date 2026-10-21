@@ -1,6 +1,6 @@
 # 53/17/0/-/Konin Gr.115 (APP)
 
-Ten documents on nine pages: entries of the Konin castle court register,
+Ten documents on nine pages: entries of the Konin municipal court register,
 1768 to 1773, on the quarrel over the Lusnia wood (four register notes, five
 messengers' reports, one protest). Latin with some Polish. Added on
 2026-10-07 in the third Prusimski-era batch. Status `translated`. Built and

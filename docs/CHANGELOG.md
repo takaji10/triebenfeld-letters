@@ -2133,10 +2133,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna Dąmbska's death, Paweł Prusimski's generation) are marked settled.
 - Published at the editor's word, with Wąsicki (1953).
 
-## The glossary: gród, the castle court (2026-10-21, not published)
+## The glossary: gród, the municipal court (2026-10-21, not published)
 
-- A new entry, `grod`, at the editor's word, from the entry Gród in Arct's *Słownik ilustrowany języka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in Poznań's description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the translations call the "Municipal Court" was the starost's castle court, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
-- It marks the Polish forms (gród, grodu, w grodzie, grodzki), the Latin castrensis, "Municipal Court" and "castle court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
+- A new entry, `grod`, at the editor's word, from the entry Gród in Arct's *Słownik ilustrowany języka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in Poznań's description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the edition's English calls the "municipal court" was the starost's court in the gród, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
+- It marks the Polish forms (gród, grodu, w grodzie, grodzki), the Latin castrensis, "municipal court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
+- **"Castle court" is not the English term** (editor, 2026-10-21): the edition's own prose (holding pages, summaries, timeline, places, the literature's English and its notes) now says "municipal court" for sąd grodzki, as the translations always did (`reference/translation_glossary.yml`), and "municipal court office" for urząd grodzki: 497 places in 180 files. Kept: "Burggericht" in the German, and "the domain castle-office of Brieg" in Held (1801), a Prussian domain office, not a gród. The earlier entries of this changelog keep the old wording as history.
 - Arct added to the glossary's reference works (`docs/GLOSSARY_PLAN.md`). 112 entries, 56 checked.
 
 ## Deliverables produced

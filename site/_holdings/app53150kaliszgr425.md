@@ -9,7 +9,7 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-One document of three pages in a book of the castle court of Kalisz for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is an adjournment made on 28 September 1776 by five commissioners in the boundary cause between Prusimski and Chełmski. It is in Polish, with a Latin record of entry. <!-- context -->
+One document of three pages in a book of the municipal court of Kalisz for 1776, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). It is an adjournment made on 28 September 1776 by five commissioners in the boundary cause between Prusimski and Chełmski. It is in Polish, with a Latin record of entry. <!-- context -->
 
 ### Historical background
 
@@ -17,7 +17,7 @@ The Polish parliament appointed a commission in 1774 to end the boundary dispute
 
 The five commissioners who sign this adjournment are not among those six. One of them, Tomasz Radoński, is the boundary surveyor to whom the other part of the divided court had given the pen in 1775. Five days after the decree was entered at Brześć Kujawski, they treat the cause as still open before them and adjourn it. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Kaliszu", the books of the castle court and castle office of Kalisz. According to the archive's description of the fonds, the castle court took shape at the end of the fourteenth century. For the nobility it first heard criminal cases under the four "castle articles": arson, an attack on a nobleman's house, robbery on the public road, and rape. In time its competence changed and came to include the other criminal cases, and suits over land and over sums of money, and it took over appeals from the town courts. Beside the court grew the castle office, where the court books were kept. The office was open every day for the entry of uncontested business, and its books had public credit. The fonds holds resignations, inscriptions, reports, judgments, papers brought in for entry, registers of causes, loose papers, oaths, citations, judgments under Magdeburg law and powers of attorney. <!-- context -->
+The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Kaliszu", the books of the municipal court and office of Kalisz. According to the archive's description of the fonds, the municipal court took shape at the end of the fourteenth century. For the nobility it first heard criminal cases under the four "castle articles": arson, an attack on a nobleman's house, robbery on the public road, and rape. In time its competence changed and came to include the other criminal cases, and suits over land and over sums of money, and it took over appeals from the town courts. Beside the court grew the municipal court office, where the court books were kept. The office was open every day for the entry of uncontested business, and its books had public credit. The fonds holds resignations, inscriptions, reports, judgments, papers brought in for entry, registers of causes, loose papers, oaths, citations, judgments under Magdeburg law and powers of attorney. <!-- context -->
 
 ### Contents
 
@@ -25,7 +25,7 @@ The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w 
 
 **The signatures.** Five commissioners sign, each with his seal in red wax: Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court; Maciej Leszczyc Mierzewski; Tomasz Radoński, boundary surveyor of Kalisz; Stanisław Jabłkowski; and Stanisław Otto-Trąmpczyński <span class="cite">[<a href="{{ '/documents/app53150kaliszgr425/1/' | relative_url }}">1</a>]</span>.
 
-**The entry.** On Monday 30 September 1776 Antoni Czyżewski brought the act to the castle office at Kalisz to be entered, and the original was sewn into the book <span class="cite">[<a href="{{ '/documents/app53150kaliszgr425/1/' | relative_url }}">1</a>]</span>.
+**The entry.** On Monday 30 September 1776 Antoni Czyżewski brought the act to the municipal court office at Kalisz to be entered, and the original was sewn into the book <span class="cite">[<a href="{{ '/documents/app53150kaliszgr425/1/' | relative_url }}">1</a>]</span>.
 
 ### Form and language
 

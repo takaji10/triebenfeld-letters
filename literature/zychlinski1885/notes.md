@@ -57,7 +57,7 @@ kasztelanowa, starościanka) are spelled out ("daughter of the castellan of
 Nakło"). Place names are in today's form; Trąmbczyn is given once in
 brackets. The references in brackets are kept as printed: "Inscr." and
 "Rel." are the books of entries (inscriptiones) and of reports (relationes)
-of the castle courts, "Valc." Wałcz, "Gnesn." Gniezno, "Posn." Poznań; "R."
+of the municipal courts, "Valc." Wałcz, "Gnesn." Gniezno, "Posn." Poznań; "R."
 and "Roczn." are earlier volumes of the Złota księga.
 
 ## Points for the reader, held against the edition

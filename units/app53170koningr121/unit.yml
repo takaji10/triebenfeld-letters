@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  An entry from the register of the castle court at Konin of 9 June 1788:
+  An entry from the register of the municipal court at Konin of 9 June 1788:
   Prusimski's man brings before the office the cart, oxen, cow and mare of a
   peasant of Chełmski's, taken in the Trąbczyn pine wood as he carted off a
   felled tree.
@@ -68,7 +68,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  One entry from the register of the castle court of Konin for 1787 and 1788,
+  One entry from the register of the municipal court of Konin for 1787 and 1788,
   in Latin with the cart and animals described in Polish as well. On 9 June
   1788 Ludwik Żurawski, a servant of Antoni Prusimski, presents to the office
   the cart, two oxen, cow and mare of Marcin Gryndel, a peasant of Chełmski's

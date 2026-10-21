@@ -1,6 +1,6 @@
 # 53/15/0/-/Kalisz Gr.424 (APP)
 
-One document on two pages: the certificate of the castle office at Kalisz,
+One document on two pages: the certificate of the municipal court office at Kalisz,
 23 November 1776, that the commission's boundary decree for Prusimski was
 not in its books. Latin. Added on 2026-10-07 in the fourth Prusimski-era
 batch. Status `translated`. Built and verified locally, **not published**.

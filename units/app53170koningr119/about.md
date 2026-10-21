@@ -1,8 +1,8 @@
-Eight entries on eight pages of the register of the castle court of Konin for 1783 and 1784, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are from the first two years after the boundary between Trąbczyn and Łukomia was marked on the ground, and show the two owners at law again at once. They are in Latin and are eight documents. <!-- context -->
+Eight entries on eight pages of the register of the municipal court of Konin for 1783 and 1784, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu). They are from the first two years after the boundary between Trąbczyn and Łukomia was marked on the ground, and show the two owners at law again at once. They are in Latin and are eight documents. <!-- context -->
 
 ### Historical background
 
-In December 1782 a boundary officer raised forty-one mounds along the line the Crown Tribunal had drawn between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukom: [[unit:app53170koningr153]]. Days later Prusimski's steward protested that Chełmski's people had cut 221 pines on the Trąbczyn side of it: [[unit:app53170koningr118]]. The entries here begin three months after that. Both sides now sued in the castle court of Kalisz, the court of the Starost General of Greater Poland, which heard charges of violence. <!-- context -->
+In December 1782 a boundary officer raised forty-one mounds along the line the Crown Tribunal had drawn between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukom: [[unit:app53170koningr153]]. Days later Prusimski's steward protested that Chełmski's people had cut 221 pines on the Trąbczyn side of it: [[unit:app53170koningr118]]. The entries here begin three months after that. Both sides now sued in the municipal court of Kalisz, the court of the Starost General of Greater Poland, which heard charges of violence. <!-- context -->
 
 Most of the entries are court messengers' reports: the messenger came to the office and declared on which day and where he had left a citation, and the clerk wrote its text, or only its parties, into the register. <!-- context -->
 

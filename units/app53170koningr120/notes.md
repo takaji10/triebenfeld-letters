@@ -1,6 +1,6 @@
 # 53/17/0/-/Konin Gr.120 (APP)
 
-Two documents on three pages: entries of the Konin castle court register,
+Two documents on three pages: entries of the Konin municipal court register,
 14 March 1785 (a showing of injuries) and late 1786 (a report of citation).
 Latin. Added on 2026-10-07 in the fifth Prusimski-era batch. Status
 `translated`. Built and verified locally, **not published**.

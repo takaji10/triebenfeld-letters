@@ -7,7 +7,7 @@
 The steps are courtbook.holding_main's (pipeline/intake/courtbook.py). This
 file is the record of what was done to this holding.
 
-The book is the register of the castle court of Konin for 1778 and 1779, the
+The book is the register of the municipal court of Konin for 1778 and 1779, the
 volume after Konin Gr.116: each sitting under a line "Actum in Conin ...".
 The editor photographed fifteen openings and transcribed the entries that
 concern Trąbczyn. Each entry is a document (docs/PRUSIMSKI_ERA_PLAN.md).

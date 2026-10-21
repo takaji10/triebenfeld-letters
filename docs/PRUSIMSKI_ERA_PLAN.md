@@ -21,13 +21,13 @@ and authorities once a holding is built, but cannot build one.
   to make a very long text followable; something like them stays in the
   English.
 - **The fonds** of the Konin books is "Księgi sądu i urzędu grodzkiego w
-  Koninie" (books of the castle court and castle office of Konin). The
-  archive's note on it, as the editor pasted it: the castle court took shape
+  Koninie" (books of the municipal court and office of Konin). The
+  archive's note on it, as the editor pasted it: the municipal court took shape
   at the end of the fourteenth century and at first judged nobles in the
   four "castle articles" (arson, an attack on a nobleman's house, robbery on
   the public road, rape); later also other criminal cases and suits over
   land and sums of money, and appeals from town courts. Beside the court
-  grew the castle office, where the court books were kept. The office was
+  grew the municipal court office, where the court books were kept. The office was
   open every day for entries in matters not in dispute, and the books had
   "public faith".
 - **No account of the Prusimski era yet.** Many documents are still to come.
@@ -62,7 +62,7 @@ check for dropped phrases"). The plan as it was written:
    `notes.md` and given to the editor in the reply.
 3. **The fonds and its background** go into `unit.yml` (`archive_title`,
    description), `about.md` and `about_de.md` ("Historical background"), and
-   `notes.md`. The same paragraph serves every Konin castle-court book below.
+   `notes.md`. The same paragraph serves every Konin municipal court book below.
 4. **Headings in the English** stay as they are: the editor's, in square
    brackets.
 5. Then `process.md` loses its sentence that 117 pages were not compared and

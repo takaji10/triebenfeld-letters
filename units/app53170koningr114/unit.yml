@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Two reports of a court messenger to the castle court at Konin in 1767, made
+  Two reports of a court messenger to the municipal court at Konin in 1767, made
   for Antoni Prusimski: the people of Łukom had raised an embankment at the
   pond-ground on the boundary, and the water it held back flooded the fields
   and meadows of the Olęder settlers in the woods of Trąbczyn.
@@ -62,7 +62,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Two short entries in a book of reports of the castle court of Konin for 1765
+  Two short entries in a book of reports of the municipal court of Konin for 1765
   to 1767, in Latin with the thing seen described in Polish. In each the
   court messenger Bartłomiej Szepczyński of Trąbczyn declares what he saw on
   the estate at the request of Antoni Prusimski of Kolno, heir of Trąbczyn,

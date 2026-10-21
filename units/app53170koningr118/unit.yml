@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Twenty-nine entries from the register of the castle court at Konin, 1780
+  Twenty-nine entries from the register of the municipal court at Konin, 1780
   to 1782: the Crown Tribunal's decree of January 1782 on the boundary of
   Trąbczyn and Łukomia carried out on the ground, with Chełmski's resistance
   to the surveyor; his suit on the Tracholz debt at Grab; the abbey of Ląd's
@@ -73,7 +73,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Twenty-nine entries from the register of the castle court of Konin for
+  Twenty-nine entries from the register of the municipal court of Konin for
   1780 to 1782, in Latin, three of them in Polish. Sixteen are one-line
   notes that a paper was brought in, most of them court messengers' reports
   of citations served between Antoni Prusimski of Trąbczyn, Stanisław Ścibor

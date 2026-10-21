@@ -8,7 +8,7 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  The certificate of the castle office at Kalisz of 23 November 1776 that,
+  The certificate of the municipal court office at Kalisz of 23 November 1776 that,
   searched at the request of Antoni Leszczyc Mierzewski, its books held no
   entry of the boundary decree given for Prusimski between Łukom and Trąbczyn.
 title_de: >-
@@ -72,7 +72,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  One entry on leaf 323 of a book of the castle court of Kalisz for 1776, in
+  One entry on leaf 323 of a book of the municipal court of Kalisz for 1776, in
   Latin, under the date line of 23 November 1776 on leaf 322 verso. Antoni
   Leszczyc Mierzewski asks the office whether the boundary decree between the
   estates of the villages of Łukom, Trąbczyn and others, given by the
@@ -85,7 +85,7 @@ description: >-
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
 translation_note: >-
-  A certificate of a castle office of 1776 in formulaic Latin. The English is
+  A certificate of a municipal court office of 1776 in formulaic Latin. The English is
   the editor's own translation. "Requisivit ... utrum" is "asked whether";
   "oblata" a paper brought in to be entered; "Decretum Commissoriale
   Granitiale" the boundary decree of the commission; "fecit fidem" certifies.

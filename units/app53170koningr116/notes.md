@@ -1,6 +1,6 @@
 # 53/17/0/-/Konin Gr.116 (APP)
 
-Twelve documents on thirteen pages: entries of the Konin castle court
+Twelve documents on thirteen pages: entries of the Konin municipal court
 register, 1775 to 1777, on the boundary commission between Trąbczyn and
 Łukom (register notes, four signed protests, two certificates of a search,
 three bare headings). Latin, signatures in Polish. Added on 2026-10-07 in
