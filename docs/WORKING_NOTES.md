@@ -1443,6 +1443,14 @@ cloud branches").
   for such a term matches all of them (match_de also runs over the German
   summaries, match_en over the English ones), and keeps place names that
   share the root ("Grodziec", "Grodzisko") out of its pattern.
+- **A noun that is also a name (stawisko, 2026-10-21).** The editor: the
+  glossary entry is for the noun, not the place Stawisko. In the court
+  books a capital does not make a name (the clerks capitalise most nouns);
+  the sign is the word beside it: "zwany", "nuncupatus", "called",
+  "namens", or "known" in the English. The entry's pattern leaves those
+  out with lookarounds, and a `\b` after `\w*` keeps the regex from
+  backtracking into a shorter match that slips past the lookahead
+  ("Stawisk" out of "Stawisku zwanym").
 
 - **The glossary gate and Latin documents.** `glossary_candidates.py
   --check` counted every common word of a wholly Latin document as a

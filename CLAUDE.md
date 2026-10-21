@@ -327,9 +327,9 @@ so check them.
   patrimonial court (the editor's Szukaj w Archiwach source) and 54 read
   against Krünitz, Adelung, Grimm and Gloger. The other 56 wait on works not
   online here, or have no entry in those that are (NEEDS_CONFIRMATION).
-  **Gród** (the municipal court) added 2026-10-21 from Arct's dictionary on
-  Wikisource, which the editor named (112 entries, 128 words ruled out);
-  **not published**. The editor means to add more definitions from it.
+  **Gród** (the municipal court) and **stawisko** (the noun, not the name
+  Stawisko) added 2026-10-21 from Arct's dictionary on Wikisource, which
+  the editor named (113 entries, 128 words ruled out); **not published**. The editor means to add more definitions from it.
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
 - The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;

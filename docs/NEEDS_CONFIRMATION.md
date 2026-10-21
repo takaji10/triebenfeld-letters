@@ -601,14 +601,15 @@ Fixes to the English that survive a re-publish go in
 
 ## Glossary
 
-112 entries (`reference/glossary.yml`), on the site since 2026-10-02.
+113 entries (`reference/glossary.yml`), on the site since 2026-10-02.
 Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
 - **56 definitions are still drafts** (`checked: false`; the page marks
-  them). Matura (2026-10-14) waits on the Encyklopedia PWN. 56 are
-  checked: gród, the municipal court (2026-10-21, from Arct's dictionary,
-  which the editor named, and the archive's description of the Konin
-  court books; not yet published), the patrimonial court, and 54 read on 2026-10-02
+  them). Matura (2026-10-14) waits on the Encyklopedia PWN. 57 are
+  checked: gród, the municipal court, and stawisko, the boggy ground on
+  the Trąbczyn-Łukom boundary (2026-10-21, from Arct's dictionary, which
+  the editor named, with the archive's description of the Konin court
+  books and the edition's documents; not yet published), the patrimonial court, and 54 read on 2026-10-02
   against Krünitz, Adelung, Grimm and Gloger (changelog, "The glossary
   checked against the reference works"), live since then. What the rest wait
   on:

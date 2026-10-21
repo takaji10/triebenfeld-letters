@@ -1335,6 +1335,44 @@ entries:
   check_against: Arct, Słownik ilustrowany języka polskiego
   checked: true
 
+- id: stawisko
+  kind: land
+  lang: pl
+  head_en: stawisko
+  head_de: Stawisko
+  orig: stawisko
+  # Added at the editor's word, 2026-10-21, from the entry in Arct's
+  # dictionary they named. The noun only, not the name (editor: "there's a
+  # place called Stawisko, and then the noun"). Every use in the edition is
+  # the same ground on the Trąbczyn-Łukom boundary; some acts make the word
+  # its name: "na Stawisku zwanym" (Konin Gr.114, 2; "the stawisko known"
+  # in its English), "stawisko nuncupatum"
+  # and "the boggy place called stawisko" (Gr.153), "marsh called
+  # Stawisko" / "Sumpf namens Stawisko" (Gr.153's summaries). Those are left
+  # unmarked. The clerks of the registers capitalise most nouns ("w końcu
+  # Stawiska"), so a capital alone does not make a name. The translations
+  # keep the word in Polish (reference/translation_glossary.yml).
+  match_de: '(?<!namens )\b[Ss]tawisk\w*\b(?!\s+(?:zwan|nuncupat))'
+  match_en: '(?<!called )\bstawisk\w*\b(?!\s+known)'
+  short_en: >-
+    A Polish word for a large, boggy pond, or for ground taken up by a pond
+    or left where one had been. In this edition it is the boggy ground on
+    the boundary between Trąbczyn and Łukom, overgrown with trees, which
+    the owners of the two estates disputed from 1728: who owned it, and
+    the dams whose water flooded it. Some acts use the word as that
+    ground's name, Stawisko. The translations keep it in Polish.
+  short_de: >-
+    Ein polnisches Wort für einen großen, sumpfigen Teich oder für Grund,
+    den ein Teich einnimmt oder den er hinterlassen hat. In dieser Edition
+    ist es der sumpfige, mit Bäumen bewachsene Grund an der Grenze zwischen
+    Trąbczyn und Łukom, um den die Besitzer der beiden Güter seit 1728
+    stritten: um das Eigentum und um die Dämme, deren Wasser ihn
+    überflutete. Manche Akten gebrauchen das Wort als Namen dieses Grundes,
+    Stawisko. Die Übersetzungen lassen es polnisch stehen.
+  source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 2, p. 784, s.v. Stawisko (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Stawisko); for the ground, the edition's documents: Konin Gr.145, Gr.114 and Gr.153"
+  check_against: Arct, Słownik ilustrowany języka polskiego
+  checked: true
+
 - id: ausfertigung
   kind: law
   lang: de
