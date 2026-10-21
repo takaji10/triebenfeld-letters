@@ -51,6 +51,23 @@
   account_de: 'Eine Untersuchung der deutschen Dörfer im Tal der Warthe zwischen Pyzdry und Uniejów: Landschaft und Wirtschaft, die Geschichte der Besiedlung vom Mittelalter (den Zisterziensern von Ląd) bis in die 1930er Jahre, die Herkunft der Siedler, ihre späteren Wanderungen und eine Tabelle der Dörfer nach der Volkszählung von 1921. Albert Breyer (1889-1939), Lehrer an der deutschen Schule in Sompolno, ist der Mann, dessen Notizbücher von 1936 Bestände dieser Edition sind (APP 53/968/0/-/669 und -/716). Er schrieb nach den evangelischen Kirchenbüchern, nach Dorfpapieren, die er selbst sah, darunter die im Schulzenamt zu Emilienheim aufbewahrte Abschrift des Siedlervertrags, und nach dem, was ihm die Dorfbewohner erzählten. Die Seiten 21 und 22 handeln von Hohenlohes Gütern Zagórów und Trąbczyn: dem Vertrag von 1805, mit dem Triebenfeld 100 Hufen Wald an achtzehn Siedler austat, und den Dörfern, die daraus entstanden; die Seiten 38 und 39, 42 und 43 sowie 46 und 47 verfolgen dieselben
     Dörfer bis 1928. Der Aufsatz wurde 1938 für eine Zeitschrift der deutschen Minderheit in Polen geschrieben, und seine Sprache ist die seiner Zeit und seiner Sache: Er lobt die deutschen Siedler und beklagt die „Entdeutschung“. Seine Angaben sind an den Dokumenten zu prüfen, seine Urteile sind die Breyers.'
   pages: 56
+- slug: chodyla2015
+  kind: study
+  title: Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793
+  title_en: Outline of the Earliest History of the Olęder Settlements in the Pyzdry Forest, 1746 – 1793
+  cite: Chodyła (2015)
+  author: Zbigniew Chodyła
+  author_sort: Chodyła, Zbigniew
+  published: 'Pyzdry: Lokalna Organizacja Turystyczna „Puszcza Pyzdrska”, 2015 (1st edition, 156 pages; with the financial support of the Foundation for Polish-German Cooperation); ISBN 978-83-943651-0-3'
+  year: 2015
+  language: pl
+  english_by: Claude
+  scan: ''
+  account_en: 'A study by the historian Zbigniew Chodyła, a specialist in Olęder settlement in Greater Poland, of the 58 Olęder settlements founded in the Pyzdry Forest, between the Warta, the Prosna and the Powa, from 1746 to 1793: when, by whom and on what terms each was founded, its land and layout, its hearths and population in 1789-1791 (three tables), the Olęders'' law, self-government, dues, farming, religion and daily life. It rests chiefly on the castle-court books of Pyzdry, Konin and Kalisz and Albert Breyer''s papers in the State Archive in Poznań, the tax tables of 1789-1791 and the visitation of the deanery of Konin of 1790-1791, with full notes, and shows 25 illustrations, among them maps and the founding charters. It puts the oldest of these settlements, the Trąbczyńskie Stare Olędry and the Luśnie Olędry, in 1746, founded by Paweł and Katarzyna Prusimski on the Trąbczyn estate, from the boundary decree recorded in 1776 (the edition''s Konin Gr. 145), and traces Łazy, the
+    Trąbczyńskie Nowe Olędry and the later colonies of the estate. Published by the local tourist organisation with two forewords, for a regional readership; some of its figures are the author''s estimates, marked in square brackets.'
+  account_de: 'Eine Studie des Historikers Zbigniew Chodyła, eines Kenners der Olęder-Siedlung in Großpolen, über die 58 Olęder-Siedlungen, die von 1746 bis 1793 in der Pyzdry-Heide (Puszcza Pyzdrska) zwischen Warthe, Prosna und Powa gegründet wurden: wann, von wem und zu welchen Bedingungen jede entstand, ihr Land und ihre Anlage, ihre Herdstellen und Einwohner 1789-1791 (drei Tabellen), das Recht der Olęder, ihre Selbstverwaltung, Abgaben, Landwirtschaft, Religion und ihr Alltag. Sie stützt sich vor allem auf die Grodbücher von Pyzdry, Konin und Kalisch und den Nachlass Albert Breyers im Staatsarchiv Posen, die Steuertabellen von 1789-1791 und die Visitation des Dekanats Konin von 1790-1791, mit vollständigen Anmerkungen, und zeigt 25 Abbildungen, darunter Karten und Gründungsprivilegien. Die ältesten dieser Siedlungen, die Trąbczyńskie Stare Olędry und die Luśnie Olędry, setzt sie in das Jahr 1746, gegründet von Paweł und Katarzyna Prusimski auf dem Gut Trąbczyn, nach dem 1776 eingetragenen
+    Grenzdekret (Konin Gr. 145 der Edition), und sie verfolgt Łazy, die Trąbczyńskie Nowe Olędry und die späteren Kolonien des Guts. Herausgegeben von der örtlichen Tourismusorganisation mit zwei Vorworten für eine regionale Leserschaft; manche Zahlen sind Schätzungen des Verfassers, in eckigen Klammern.'
+  pages: 152
 - slug: feuerbraende1807
   kind: journal
   title: 'Neue Feuerbrände. Marginalien zu der Schrift: Vertraute Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II. Erster Band, erstes bis drittes Heft'

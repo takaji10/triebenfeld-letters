@@ -1,0 +1,100 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# from the book's PDF (InDesign, in the editor's Books folder) by
+# pipeline/literature/chodyla_pdf.py (its docstring lists every rule) and was
+# checked word by word against the editor's Word file of the same text.
+# english.md is Claude's, written page by page from original.md; its tables
+# are put in by make_english.py beside it. The editor's machine English was
+# read against the Polish and not used. The pages with maps, documents and
+# portraits are shown as pictures (figures), rendered by chodyla_pdf.py
+# --figures. See notes.md.
+slug: chodyla2015
+visible: true
+kind: study
+title: "Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793"
+title_en: "Outline of the Earliest History of the Olęder Settlements in the Pyzdry Forest, 1746 – 1793"
+cite: "Chodyła (2015)"
+author: "Zbigniew Chodyła"
+author_sort: "Chodyła, Zbigniew"
+published: "Pyzdry: Lokalna Organizacja Turystyczna „Puszcza Pyzdrska”, 2015 (1st edition, 156 pages; with the financial support of the Foundation for Polish-German Cooperation); ISBN 978-83-943651-0-3"
+year: 2015
+language: pl
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+figures:
+  "22": "22.jpg"
+  "23": "23.jpg"
+  "24": "24.jpg"
+  "25": "25.jpg"
+  "26": "26.jpg"
+  "27": "27.jpg"
+  "29": "29.jpg"
+  "30": "30.jpg"
+  "32": "32.jpg"
+  "35": "35.jpg"
+  "36": "36.jpg"
+  "37": "37.jpg"
+  "38": "38.jpg"
+  "41": "41.jpg"
+  "42": "42.jpg"
+  "43": "43.jpg"
+  "44": "44.jpg"
+  "46": "46.jpg"
+  "47": "47.jpg"
+  "48": "48.jpg"
+  "50": "50.jpg"
+  "51": "51.jpg"
+  "55": "55.jpg"
+  "56": "56.jpg"
+  "57": "57.jpg"
+  "58": "58.jpg"
+  "59": "59.jpg"
+  "60": "60.jpg"
+  "61": "61.jpg"
+  "62": "62.jpg"
+  "63": "63.jpg"
+  "64": "64.jpg"
+  "67": "67.jpg"
+  "68": "68.jpg"
+  "69": "69.jpg"
+  "71": "71.jpg"
+  "72": "72.jpg"
+  "73": "73.jpg"
+  "122": "122.jpg"
+account_en: >-
+  A study by the historian Zbigniew Chodyła, a specialist in Olęder
+  settlement in Greater Poland, of the 58 Olęder settlements founded in the
+  Pyzdry Forest, between the Warta, the Prosna and the Powa, from 1746 to
+  1793: when, by whom and on what terms each was founded, its land and
+  layout, its hearths and population in 1789-1791 (three tables), the
+  Olęders' law, self-government, dues, farming, religion and daily life. It
+  rests chiefly on the castle-court books of Pyzdry, Konin and Kalisz and
+  Albert Breyer's papers in the State Archive in Poznań, the tax tables of
+  1789-1791 and the visitation of the deanery of Konin of 1790-1791, with
+  full notes, and shows 25 illustrations, among them maps and the founding
+  charters. It puts the oldest of these settlements, the Trąbczyńskie Stare
+  Olędry and the Luśnie Olędry, in 1746, founded by Paweł and Katarzyna
+  Prusimski on the Trąbczyn estate, from the boundary decree recorded in
+  1776 (the edition's Konin Gr. 145), and traces Łazy, the Trąbczyńskie
+  Nowe Olędry and the later colonies of the estate. Published by the local
+  tourist organisation with two forewords, for a regional readership; some
+  of its figures are the author's estimates, marked in square brackets.
+account_de: >-
+  Eine Studie des Historikers Zbigniew Chodyła, eines Kenners der
+  Olęder-Siedlung in Großpolen, über die 58 Olęder-Siedlungen, die von 1746
+  bis 1793 in der Pyzdry-Heide (Puszcza Pyzdrska) zwischen Warthe, Prosna und
+  Powa gegründet wurden: wann, von wem und zu welchen Bedingungen jede
+  entstand, ihr Land und ihre Anlage, ihre Herdstellen und Einwohner 1789-1791
+  (drei Tabellen), das Recht der Olęder, ihre Selbstverwaltung, Abgaben,
+  Landwirtschaft, Religion und ihr Alltag. Sie stützt sich vor allem auf die
+  Grodbücher von Pyzdry, Konin und Kalisch und den Nachlass Albert Breyers im
+  Staatsarchiv Posen, die Steuertabellen von 1789-1791 und die Visitation des
+  Dekanats Konin von 1790-1791, mit vollständigen Anmerkungen, und zeigt 25
+  Abbildungen, darunter Karten und Gründungsprivilegien. Die ältesten dieser
+  Siedlungen, die Trąbczyńskie Stare Olędry und die Luśnie Olędry, setzt sie
+  in das Jahr 1746, gegründet von Paweł und Katarzyna Prusimski auf dem Gut
+  Trąbczyn, nach dem 1776 eingetragenen Grenzdekret (Konin Gr. 145 der
+  Edition), und sie verfolgt Łazy, die Trąbczyńskie Nowe Olędry und die
+  späteren Kolonien des Guts. Herausgegeben von der örtlichen
+  Tourismusorganisation mit zwei Vorworten für eine regionale Leserschaft;
+  manche Zahlen sind Schätzungen des Verfassers, in eckigen Klammern.

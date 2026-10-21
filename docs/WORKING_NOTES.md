@@ -1173,6 +1173,42 @@ cloud branches").
   key the fold-out "[p. unnumbered]" (it becomes "<page>-u1"), and show a
   table too wide to transcribe faithfully as a picture, saying so in the
   work's notes.
+- **Look for the book's own PDF before using a Word conversion of it**
+  (Chodyła 2015, 2026-10-21). The editor gave a ".docx.md" of the book:
+  no pages, note numbers run into the words ("przywilejami1"), notes at the
+  end, broken tables, slips of its own. The Books folder held the printed
+  book as an InDesign PDF, whose text layer is the book's text with the
+  printed pages and the notes on their pages. Build from the PDF and check
+  the result word by word against the editor's file (difflib over the
+  words, body and notes apart); say in the notes which was used and why.
+- **Traps of an InDesign PDF** (`pipeline/literature/chodyla_pdf.py`, its
+  docstring has every rule): note marks carry the superscript flag, but two
+  were printed in the text's own type (set by hand), and a raised "2" is
+  also "km²", so take marks only in the order of the notes; a few letters
+  are set at 0.1 point and do not show in print ("B|ü|sching"); a note's
+  continuation line can start with a title set larger than the note (count
+  everything in small type below the page's first note as notes); a
+  caption beside a portrait falls into the paragraph unless captions are
+  held out; text set round a picture starts further in and is not an
+  indent, and neither is the second line of a hanging point ("5)" and a
+  tab); a word divides over two pages, and an italic runs over a page end;
+  in a ruled table (PyMuPDF `find_tables` reads them) one PDF line can
+  cross two cells, so assign words, not lines, and read sideways headers
+  left to right. Compare every table page with its picture.
+- **The tool input turns "\u00a0" and "\t" into the raw characters**, in
+  Write, Edit and a Python heredoc alike (2026-10-21): the script got a
+  literal no-break space and a literal tab inside its regexes. To write an
+  escape into source, build it in a script with `chr(92)`, then grep the
+  file for raw tabs and no-break spaces.
+- **Read a new book's hits under the old "yes" rulings too** (2026-10-21,
+  again): "Poniatowskiego: yes" (Prince Józef) took Chodyła's King
+  Stanisław August, and the family pattern "Przespolewski", with no word
+  end, matched the colony's name "Przespolewskie Ol." in 30 places.
+- **A modern book's details checked against the edition's documents find
+  differences** (Chodyła's note 34): the owner in 1860 and the date of the
+  sitting of 1782 both differ from the documents the book itself cites.
+  Read every figure and name the book takes from a record the edition
+  holds before a link is written (HOUSE_STYLE, "The documents first").
 - **Heredocs eat backslashes** (again, three times on 2026-10-20): a Python
   edit with a backslash inside a quoted heredoc (a regex escape, a group
   reference, an escaped quote) changed the code it wrote. Use the Edit or

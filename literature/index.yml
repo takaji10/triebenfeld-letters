@@ -38,7 +38,14 @@ patterns:
     miaczynski: '(?<=Stanisława \*\*)Miączyńskiego|(?<=Stanisławem )Miączyńskim|(?<=Podpułkownika )Miączyńskiego|(?<=kapitanowi )Miączyńskiemu'
     # Breyer (1935, "Gaue") calls the owner of Trąbczyn in 1746 "Paul von
     # Kolno-Prusiński".
-    prusimski-pawel: '(?<=Kolno-)Prusiński'
+    prusimski-pawel: '(?<=Kolno-)Prusiński|(?<=Pawła i Katarzynę z Rozdrażewskich )Prusimskich'
+    # Chodyła (2015) declines the names in Polish: "Antoniemu Prusimskiemu",
+    # "Antoniego Prusimskiego", "między Antonim Prusimskim", "dóbr Trąbczyn
+    # Prusimskiego" (the Starost); "Pawła i Katarzynę z Rozdrażewskich
+    # Prusimskich" (the couple who founded the Olędry in 1746); "Katarzynę z
+    # Rozdrażewskich Prusimską", "Katarzyny Prusimskiej" (the widow, 1754).
+    prusimski: '(?<=Antoniemu )Prusimskiemu|(?<=Antoniego )Prusimskiego|(?<=Antonim )Prusimskim|(?<=Trąbczyn )Prusimskiego'
+    prusimska-katarzyna: '(?<=Rozdrażewskich )Prusimsk(?:ich|ą)|(?<=Katarzyny )Prusimskiej'
   place:
     # The black register's list of the Prince's Konin estates: Materialien
     # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
@@ -169,6 +176,12 @@ people:
     Husarzewski: "no: a Hofgerichts-Rath from Bromberg in the 1790s (Held); not shown to be the government councillor at Kalisz of 1805"
   knoblauch:
     Knoblauch: "no: Geheimer Finanzrath von Knoblauch in Berlin, once president at Białystok (Materialien p. 124); not shown to be the Knoblauch of 1803 in the edition"
+  chemski:
+    # Chodyła (2015): Stanisław Chełmski, owner of Łukomia (Łukom) and Łomowo,
+    # to whom part of Trąbczyn was handed over in 1771, and the party against
+    # Antoni Prusimski in 1782: the family of the edition's entry.
+    Chełmskiemu: yes
+    Chełmskim: yes
   koeckritz: {Köck: yes}
   kuh:
     Kuh: "no: the word for a cow (Materialien p. 195)"
@@ -176,7 +189,7 @@ people:
     Kwileck: "no: Count Kwilecki of Dobrojewo in the 1790s; not shown to be the justice of the peace at Konin of 1810"
   larisch: {Larisch: yes}
   lipski:
-    Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935); not the appeal judge von Lipski at Kalisz in the edition's letters"
+    Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935, Chodyła 2015); not the appeal judge von Lipski at Kalisz in the edition's letters"
   luka:
     Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
   massow:
@@ -199,11 +212,17 @@ people:
   noldichen:
     # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
+  ogrodowicz:
+    Ogrodowicz: "no: Karol Ogrodowicz, president of the town council of Pyzdry in 1778 (Chodyła 2015); not shown to be the clerk Ogrodowicz under the justiciary Schenck about 1805 (Oe 1 Bü 14526)"
   otto:
     Otto: "no: Otto Busse, a farm-holder at Święcia in Breyer's list of 1928; not the Otto of the edition's letters"
   poniatowski:
     Poniatowski: "no: Stanisław Poniatowski among landlords who freed their peasants (Guradze), not Prince Józef"
-    Poniatowskiego: yes
+    Poniatowskiego:
+      default: yes
+      except:
+        chodyla2015/19: "King Stanisław August Poniatowski, not Prince Józef"
+        chodyla2015/52: "King Stanisław August Poniatowski, not Prince Józef"
   pontanus: {Pontanus: yes}
   prinz-george: {George: yes}
   prittwitz:
@@ -212,6 +231,13 @@ people:
     Dąmbska: yes
     Miączyńska: yes
     Prusimska: yes
+  prusimska-katarzyna:
+    # Chodyła (2015): Katarzyna Prusimska, born Rozdrażewska, with Paweł the
+    # founder of the Trąbczyńskie Stare Olędry in 1746, and the widow at whose
+    # request Trąbczyn was inspected in 1754 (the edition's Konin Gr.136).
+    Prusimskich: yes
+    Prusimską: yes
+    Prusimskiej: yes
   prusimski:
     # Pachoński (1973), note 10: "Antoni Prusiński de Nieszczewice", the Starost (the editor,
     # 2026-10-20: "Antoni Prusimski is referenced here in a footnote as Prusiński").
@@ -220,6 +246,11 @@ people:
       default: yes
       except:
         zychlinski1885/187: "Krzysztof, Jan and Krzysztof Prusimski, the Starost's forebears; Antoni is on p. 188"
+    # Chodyła (2015): Antoni Prusimski, Starost of Niszczewice, nephew and heir
+    # of the founder (pp. 28, 32 and note 34).
+    Prusimskiemu: yes
+    Prusimskiego: yes
+    Prusimskim: yes
   prusimski-pawel:
     # Claude's identification, accepted by the editor (2026-10-20: "Paul
     # Prusiński is indeed Paweł Prusimski"): Breyer's "Paul von
@@ -228,6 +259,20 @@ people:
     # (53/968/0/-/783) names him "Paweł z Kolna Prusiński" as the grantor of
     # the privilege of 1746 (literature/links.yml, breyer1935gaue-hollanders)
     Prusiński: yes
+    # Chodyła (2015): "Pawła i Katarzynę z Rozdrażewskich Prusimskich", the
+    # founders of 1746 (pp. 29, 30, 152, from the boundary decree, Konin Gr.145).
+    Prusimskich: yes
+  przespolewski:
+    # Chodyła (2015): the pattern also takes the name of the Przespolewskie
+    # Olędry (Przespolew). The family of the edition's entry are Jakub and
+    # Franciszka Przespolewski, lessees of the Zbiersk estate in 1771-1784
+    # (pp. 34, 107). Whether Jakub is the Jacob von Przespolewski of the
+    # edition's Oe 1 Bü 14525 is not shown.
+    Przespolewski:
+      default: "no: the Przespolewskie Olędry, named after Przespolew; not the family (Chodyła 2015)"
+      except:
+        chodyla2015/34: "Jakub and Franciszka Przespolewski, lessees of Zbiersk"
+        chodyla2015/107: "the married couple Przespolewski, lessees of Zbiersk"
   radziwill:
     Radziwill: "no: a Prince Radziwiłł in the black register; not shown to be Antoni"
     Radziwił: "no: Princess Adelajda Radziwiłłówna and the Radziwiłł tables of the Złota księga (Żychliński 1885); not Prince Antoni"
@@ -257,7 +302,7 @@ people:
     Schulze: "no: the word for a village headman (Feuerbrände 2-6)"
     Schulzischen: "no: the classification commission named after a Schulz; not shown to be Geheimer Finanzrat Schulze"
   simon:
-    Simon: "no: Heinrich Simon, the author on the Jews of Prussia, in the notes; not the merchant Simon"
+    Simon: "no: Heinrich Simon, the author on the Jews of Prussia, in the notes, and the Berlin publishers Simon Schropp und Comp. (Chodyła 2015); not the merchant Simon"
   sommer:
     Sommer: "no: the season, summer"
     Sommers: "no: the season, des Sommers, in summer"
@@ -296,7 +341,7 @@ people:
   weigel:
     Weigel: "no: the brandy clerk Weigelt (Held p. 191), not the banker Weigel"
   werner:
-    Werner: "no: the city president Werner at Breslau, not the cabinet councillor of 1804"
+    Werner: "no: the city president Werner at Breslau, and Olęders named Werner (Chodyła 2015); not the cabinet councillor of 1804"
   wybicki:
     # Pachoński (1973): Józef Wybicki, the edition's senator and voivode.
     Wybicki: yes
@@ -320,8 +365,14 @@ places:
   dormowo: {Dormowo: yes}
   drzewce:
     Drzewce: yes
+    Drzewiecki: "no: a surname in the list of the Pyzdry Olęders (Chodyła 2015)"
   glazewo: {Gloszewo: yes}
   heilbronn: {Heilbronn: yes}
+  imielno:
+    # Chodyła (2015): the Olęder settlement Imielno in the parish of Zagórów,
+    # on the Łukom estate: the edition's Imielno, Łukom's neighbour.
+    Imielno: yes
+    Imielnie: yes
   kamionno:
     Kamionna: yes
     Kamionnej: yes
@@ -349,6 +400,7 @@ places:
     Krotosczyn: yes
     Krotosczyner: yes
     Crotozcyn: yes
+    Krotoszyna: yes
   lowyn:
     Lowin: yes
     Löwin:
@@ -389,6 +441,11 @@ places:
     Trąbczyńskiego: yes
     Trąmbczyńskiéj: yes
     Trąmbczyńską: yes
+    # Chodyła (2015): the Trąbczyńskie Stare and Nowe Olędry, the Olęder
+    # colonies of the Trąbczyn estate.
+    Trąbczyńskie: yes
+    Trąbczyńskimi: yes
+    Trąbczyńskim: "no: Michalinów Trąbczyński, a later village named after Trąbczyn (Chodyła 2015)"
   wieniec:
     Wieniec: yes
     Winiec: yes
@@ -422,6 +479,9 @@ places:
     Berlinchen: "no: the town of Berlinchen in the Neumark (Barlinek), a settler's place of origin (Breyer)"
     Berlinie: yes
   bialobrzeg:
+    # Chodyła (2015), Tab. 2: "Hollendry Wrąbczyńskie z młynem Białobrzeg",
+    # the mill by Wrąbczynek: the edition's Biala Brzig bey Wrąbczynek.
+    Białobrzeg: yes
     Białobrzegi:
       default: "no: a name in Breyer's lists of the region's places; not shown to be the Białobrzeg by Wrąbczynek"
       except:
@@ -500,6 +560,7 @@ places:
     Kalisz: yes
     Kaliszu: yes
     Kaliszkowice: "no: the church estate Kaliszkowice, given to Rüchel"
+    Kalisza: yes
   karge: {Karge: yes}
   kempen:
     Kempen: yes
@@ -509,12 +570,22 @@ places:
     Konin: yes
     Koniner: yes
     Konińskiém: yes
+    Konina: yes
+    Koninem: yes
+    Koninie: yes
+    Koniński: "no: the district of Konin as a heading of Tab. 1, and the journal Rocznik Koniński (Chodyła 2015)"
+  ladek: {Lądek: yes}
   kopojno:
     Kopojno: yes
   liegnitz: {Liegnitz: yes}
   lukom:
     Lukomska: "no: Huta Łukomska, a village named after Łukom; not Łukom itself"
     Łukomska: "no: Huta Łukomska, a village named after Łukom; not Łukom itself (Szwiec 2009)"
+    Łukom: yes
+    Łukomskich: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
+    Łukomskie: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
+    Łukomskimi: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
+  lukomia: {Łukomia: yes}
   magdeburg: {Magdeburg: yes}
   mariantow:
     Mariantów: yes
@@ -528,7 +599,15 @@ places:
     Neustadt: "no: Neustadt an der Dosse in Brandenburg (the mirror works); not shown to be the edition's Neustadt"
   olesnica:
     Oleśnica: yes
-  oppeln: {Oppeln: yes}
+  oppeln:
+    Oppeln:
+      default: yes
+      except:
+        chodyla2015/34: "Adam Oppeln Bronikowski, owner of Żychlin: a family name, not the town"
+  osiny:
+    # Chodyła (2015): Osiny, a village of the Trąbczyn estate (the inspection of 1754).
+    Osin: yes
+    Osiny: yes
   ostrow:
     Ostrow: "no: the district of Ostrów, a settler's home in Breyer's table of 1860; not shown to be the edition's Ostrów"
     Ostrów: "no: Ostrów by Sławsk, an island in the Warta marsh (Breyer 1938)"
@@ -544,6 +623,7 @@ places:
     Pyzdry: yes
     Peysern: yes
     Peisernsche: yes
+    Pyzdry[mapka]: yes
   russland:
     Russland: yes
     Russland[28]: yes
@@ -608,8 +688,12 @@ places:
     Wrąbczyn: yes
     Wrąbczynkowskie: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"
     Wrąbczynkowskich: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"
+    Wrąbczyn[kowskie]: "no: the Wrąbczynkowskie Olędry, the Olęder colony of Wrąbczynek (Chodyła 2015)"
+    Wrąbczynowskich: "no: the Wrąbczynkowskie Olędry, so printed, the Olęder colony of Wrąbczynek (Chodyła 2015)"
   wrabczynek:
     Wrąbczynek: yes
+    Wrąbczynka: yes
+    Wrąbczynku: yes
   wuerttemberg:
     Würtemberg: yes
     Würtemberger: yes
@@ -623,3 +707,6 @@ places:
     Zagórowo: yes
     Zagórów: yes
     Zagórowa: yes
+    Zagórowie: yes
+    Zagórowskich: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"
+    Zagórowskie: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"

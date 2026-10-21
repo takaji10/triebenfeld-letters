@@ -41,6 +41,13 @@ person:
     - key: 2-66
       en: Part 2, p. 66
       de: Heft 2, S. 66
+  chemski:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
   constantin:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -1225,6 +1232,28 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+  prusimska-katarzyna:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
+    - key: '29'
+      en: p. 29
+      de: S. 29
+    - key: '30'
+      en: p. 30
+      de: S. 30
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '84'
+      en: p. 84
+      de: S. 84
+    - key: '152'
+      en: p. 152
+      de: S. 152
   prusimski:
   - work: zychlinski1885
     cite: Żychliński (1885)
@@ -1244,6 +1273,15 @@ person:
     - key: '582'
       en: p. 582
       de: S. 582
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
+    - key: '32'
+      en: p. 32
+      de: S. 32
   prusimski-pawel:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -1251,6 +1289,28 @@ person:
     - key: '41'
       en: p. 41
       de: S. 41
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '29'
+      en: p. 29
+      de: S. 29
+    - key: '30'
+      en: p. 30
+      de: S. 30
+    - key: '152'
+      en: p. 152
+      de: S. 152
+  przespolewski:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '107'
+      en: p. 107
+      de: S. 107
   ruechel:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1979,6 +2039,12 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
   glazewo:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1992,6 +2058,34 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  imielno:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '13'
+      en: p. 13
+      de: S. 13
+    - key: '70'
+      en: p. 70
+      de: S. 70
+    - key: '75'
+      en: p. 75
+      de: S. 75
+    - key: '78'
+      en: p. 78
+      de: S. 78
+    - key: '90'
+      en: p. 90
+      de: S. 90
+    - key: '103'
+      en: p. 103
+      de: S. 103
+    - key: '104'
+      en: p. 104
+      de: S. 104
+    - key: '112'
+      en: p. 112
+      de: S. 112
   kamionno:
   - work: zychlinski1885
     cite: Żychliński (1885)
@@ -2058,6 +2152,12 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
   krotoszyn:
   - work: held1801
     cite: Held (1801)
@@ -2374,6 +2474,12 @@ place:
     - key: '179'
       en: p. 179
       de: S. 179
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '127'
+      en: p. 127
+      de: S. 127
   lowyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2387,6 +2493,35 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  lukom:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '14'
+      en: p. 14
+      de: S. 14
+    - key: '28'
+      en: p. 28
+      de: S. 28
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '70'
+      en: p. 70
+      de: S. 70
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '83'
+      en: p. 83
+      de: S. 83
+  lukomia:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
   olesnica:
   - work: breyer1938
     cite: Breyer (1938)
@@ -2409,6 +2544,22 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
+  osiny:
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '28'
+      en: p. 28
+      de: S. 28
+    - key: '84'
+      en: p. 84
+      de: S. 84
   polajewo:
   - work: held1801
     cite: Held (1801)
@@ -2514,6 +2665,15 @@ place:
     - key: '176'
       en: p. 176
       de: S. 176
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '146'
+      en: p. 146
+      de: S. 146
+    - key: '147'
+      en: p. 147
+      de: S. 147
   szetlewek:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2618,6 +2778,75 @@ place:
     - key: '9'
       en: p. 9
       de: S. 9
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '14'
+      en: p. 14
+      de: S. 14
+    - key: '15'
+      en: p. 15
+      de: S. 15
+    - key: '28'
+      en: p. 28
+      de: S. 28
+    - key: '29'
+      en: p. 29
+      de: S. 29
+    - key: '30'
+      en: p. 30
+      de: S. 30
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '65'
+      en: p. 65
+      de: S. 65
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '75'
+      en: p. 75
+      de: S. 75
+    - key: '77'
+      en: p. 77
+      de: S. 77
+    - key: '83'
+      en: p. 83
+      de: S. 83
+    - key: '84'
+      en: p. 84
+      de: S. 84
+    - key: '90'
+      en: p. 90
+      de: S. 90
+    - key: '95'
+      en: p. 95
+      de: S. 95
+    - key: '103'
+      en: p. 103
+      de: S. 103
+    - key: '104'
+      en: p. 104
+      de: S. 104
+    - key: '106'
+      en: p. 106
+      de: S. 106
+    - key: '121'
+      en: p. 121
+      de: S. 121
+    - key: '137'
+      en: p. 137
+      de: S. 137
+    - key: '140'
+      en: p. 140
+      de: S. 140
+    - key: '152'
+      en: p. 152
+      de: S. 152
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2668,6 +2897,12 @@ place:
     - key: '11'
       en: p. 11
       de: S. 11
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '147'
+      en: p. 147
+      de: S. 147
   wrabczynek:
   - work: szwiec2009
     cite: Szwiec (2009)
@@ -2675,6 +2910,78 @@ place:
     - key: '9'
       en: p. 9
       de: S. 9
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '13'
+      en: p. 13
+      de: S. 13
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '52'
+      en: p. 52
+      de: S. 52
+    - key: '76'
+      en: p. 76
+      de: S. 76
+    - key: '78'
+      en: p. 78
+      de: S. 78
+    - key: '81'
+      en: p. 81
+      de: S. 81
+    - key: '82'
+      en: p. 82
+      de: S. 82
+    - key: '90'
+      en: p. 90
+      de: S. 90
+    - key: '93'
+      en: p. 93
+      de: S. 93
+    - key: '97'
+      en: p. 97
+      de: S. 97
+    - key: '98'
+      en: p. 98
+      de: S. 98
+    - key: '109'
+      en: p. 109
+      de: S. 109
+    - key: '114'
+      en: p. 114
+      de: S. 114
+    - key: '115'
+      en: p. 115
+      de: S. 115
+    - key: '116'
+      en: p. 116
+      de: S. 116
+    - key: '118'
+      en: p. 118
+      de: S. 118
+    - key: '119'
+      en: p. 119
+      de: S. 119
+    - key: '124'
+      en: p. 124
+      de: S. 124
+    - key: '125'
+      en: p. 125
+      de: S. 125
+    - key: '126'
+      en: p. 126
+      de: S. 126
+    - key: '127'
+      en: p. 127
+      de: S. 127
+    - key: '129'
+      en: p. 129
+      de: S. 129
+    - key: '137'
+      en: p. 137
+      de: S. 137
   zagorowo:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -2763,3 +3070,36 @@ place:
     - key: '11'
       en: p. 11
       de: S. 11
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '13'
+      en: p. 13
+      de: S. 13
+    - key: '14'
+      en: p. 14
+      de: S. 14
+    - key: '15'
+      en: p. 15
+      de: S. 15
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '70'
+      en: p. 70
+      de: S. 70
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '98'
+      en: p. 98
+      de: S. 98
+    - key: '138'
+      en: p. 138
+      de: S. 138
+    - key: '147'
+      en: p. 147
+      de: S. 147

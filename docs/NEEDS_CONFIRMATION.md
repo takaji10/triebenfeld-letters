@@ -288,6 +288,29 @@ read, translate and summarise.
     (`miaczynski-wlodzimierz`), so his name in Żychliński (1891, pp. 222,
     223) is not listed on his page under "In the literature". To be added
     if the editor wants it.
+  **Chodyła (2015)**, the Olęder settlements of the Pyzdry Forest 1746-1793
+  (added 2026-10-21, not published; `literature/chodyla2015/notes.md`). Two
+  of its details differ from the edition's documents; the edition keeps to
+  the documents:
+  - **The owner of Trąbczyn in 1860.** The book (note 34) has the colonists
+    of 1860 at law with "hr. Władysław Miączyński"; the summons it cites
+    (APP 53/968/0/-/783) is at the request of Count Włodzimierz Miączyński.
+    The book is very likely wrong (Władysław was heir after 1879, the
+    editor, 2026-10-15).
+  - **The sitting of 1782.** The book (note 34) has the commission sit "on
+    17 October 1782 in the house of the Olęder Marcin Hunt"; in the edition
+    (Konin Gr.153) 17 October 1782 is the Crown Tribunal's decree, and the
+    commission sat in Hunt's house from 28 November.
+  - A word of its quotation from the inspection of 1754 (note 35): the book
+    prints "drugi (!)", the edition reads "drudzy" (Konin Gr.136). Not a
+    question: the edition keeps its reading.
+  Decided in session, not asked: the text is taken from the book's PDF in
+  the Books folder, not from the editor's Word file (which has no pages and
+  run-in note numbers), and checked against that file word by word; the
+  editor's machine English is not used; the table of contents is left out;
+  39 pages are shown as pictures. Wanted: hand-made links from its pages on
+  1746, 1754, 1771 and 1782 to Konin Gr.145, Gr.136, Kalisz Gr.414, Konin
+  Gr.153 and the summons of 1860?
 
 ## Readings, Oe 1 Bü 9454
 

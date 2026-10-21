@@ -2124,6 +2124,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 - Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806", Przegląd Zachodni 1953, no. 9-10, pp. 137-179, at the editor's word: read from the scanned PDF page by page (its OCR not taken over), 101 notes, nine tables in the text; the sideways table of the Poznań department's colonies, the plans and a fold-out table of costs as pictures; Claude's English. It names the Hohenlohe estates of Zagórów and Trąbczyn and the colonies of 1805 on the Warta. Index hits read and ruled (Frankfurt am Main and the Warsaw domain office as exceptions to older rulings).
 
+## The literature: Chodyła (2015) on the Olęder settlements of the Pyzdry Forest (2026-10-21, not published)
+
+- Zbigniew Chodyła, *Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793* (Pyzdry 2015), at the editor's word. The editor's Word conversion has no pages and its note numbers run into the words, so the text is made from the book's PDF in their Books folder (`pipeline/literature/chodyla_pdf.py`), with its 156 printed pages, 369 notes on their pages, three tables as HTML and 39 pages of maps, charters and portraits as pictures, and checked word by word against the Word file. Claude's English, page by page; the tables by `literature/chodyla2015/make_english.py`. The editor's machine English was read and not used.
+- The book dates the founding of the Trąbczyńskie Stare Olędry and the Luśnie Olędry to 1746 (Paweł and Katarzyna Prusimski) from Konin Gr.145, and cites Konin Gr.136, Gr.153, Kalisz Gr.414, the hearth-tax table of 1789, the register of 1796 and the summons of 1860, all in the edition. Two of its details differ from those documents (NEEDS_CONFIRMATION).
+- Index hits read and ruled: the Polish case forms of Antoni, Paweł and Katarzyna Prusimski added for the literature; "Poniatowskiego" (here the King, not Prince Józef), "Przespolewski" and "Oppeln" given exceptions to older rulings.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

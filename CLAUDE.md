@@ -117,6 +117,17 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Chodyła (2015)** (`chodyla2015`, added 2026-10-21, **not published**):
+  the history of the 58 Olęder settlements of the Pyzdry Forest 1746-1793,
+  the Trąbczyn colonies first among them. The text is made from the book's
+  PDF in the editor's Books folder (`pipeline/literature/chodyla_pdf.py`),
+  not from the editor's Word file, and checked against it word by word;
+  Claude's English (the editor's machine English read and not used); 39
+  pages of pictures. Two details differ from the documents
+  (NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 13; the work's
+  `notes.md` first. The literature has 17 works, 16 on the site. Open: the
+  word to publish; links offered.
+
 - **Wąsicki (1953)** (`wasicki1953`, added 2026-10-21, **not published**):
   the article on Prussian colonisation in South Prussia 1793-1806 from
   Przegląd Zachodni, read from the scanned PDF, Claude's English, the

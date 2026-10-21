@@ -637,3 +637,13 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       link from its pages on the Hohenlohe colonies (pp. 174-176) to the
       lease of 1806 (APP 53/968/0/-/801, document 3); a transcription of
       its Poznań table (pp. 162-167), now a picture.
+- [x] Chodyła (2015), the Olęder settlements of the Pyzdry Forest
+      1746-1793, added (2026-10-21; LITERATURE_PLAN.md, section 13): the
+      text from the book's PDF with its pages, notes, tables and 39 pages
+      of pictures, checked against your Word file; Claude's English (your
+      machine English read and not used).
+- [ ] **You:** a look at it, and the word to publish; the two places where
+      it differs from the documents (NEEDS_CONFIRMATION, "The literature").
+      Offered: hand-made links from its pages on 1746, 1754, 1771 and 1782
+      to Konin Gr.145, Gr.136, Kalisz Gr.414, Konin Gr.153 and the summons
+      of 1860.

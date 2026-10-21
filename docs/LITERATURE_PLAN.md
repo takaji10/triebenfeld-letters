@@ -403,3 +403,26 @@ estates of Zagórów and Trąbczyn and the colonies founded there in 1805 (pp.
 174-176, from Breyer 1938): a hand-made link to APP 53/968/0/-/801, document
 3 (the lease of 1806), is the obvious next one, once the figures are read on
 both sides.
+
+## 13. Chodyła (2015) (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `chodyla2015` | Zbigniew Chodyła, *Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793*, Pyzdry 2015 | Polish | `[p. N]` | yes |
+
+The editor gave a Word conversion of the book (".docx.md") and a machine
+English. The book's own PDF, in their Books folder, was used instead for the
+text: it has the printed pages, the notes at the foot of each page and the
+25 illustrations. `pipeline/literature/chodyla_pdf.py` makes `original.md`
+from its text layer, and the result was checked word by word against the
+editor's file. The machine English was read and not used: the English is
+Claude's, page by page (`literature/chodyla2015/notes.md`).
+
+The book is about the edition's own ground: the founding of the Trąbczyńskie
+Stare Olędry and the Luśnie Olędry by Paweł and Katarzyna Prusimski in 1746,
+Łazy, the Trąbczyńskie Nowe Olędry, and 55 other Olęder settlements of the
+Pyzdry Forest to 1793, from the court books the edition holds (Konin Gr.145,
+Gr.136, Gr.153, Kalisz Gr.414, the summons of 1860). Two of its details differ
+from the edition's documents (the owner in 1860, the date of the sitting of
+1782); both are in NEEDS_CONFIRMATION. Hand-made links to those documents are
+the next step.
