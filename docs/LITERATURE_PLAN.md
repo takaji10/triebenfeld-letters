@@ -451,3 +451,21 @@ brothers of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117)
 agree with Boniecki; Heliodor's canonry and the year of Stanisław's title
 differ, and the edition follows the documents (NEEDS_CONFIRMATION,
 "Boniecki (1900)"). Four hand-made links (`boniecki1900-*`). Not published.
+
+## 15. Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `dean2012warthegau` | *The USHMM Encyclopedia of Camps and Ghettos, 1933-1945*, vol. II A, ed. Martin Dean and Mel Hecker, Indiana University Press 2012: the chapter "Warthegau Region", pp. 34-39, 48, 57-61, 63-64, 99-100, 120-121 | English | `[p. N]` | yes |
+
+The editor gave the JSTOR download of the chapter and named the pages for
+the twentieth-century part of the edition: the introduction and the entries
+on Chocz, Grodziec, Kalisz, Konin, Rzgów and Zagórów (the hamlet ghettos of
+Kreis Konin, 1940-1941). `pipeline/literature/warthegau_pdf.py` reads the
+text layer (an accent font for the Polish letters, spaces of no width,
+hyphens told apart by the space the layer keeps after a real one) and
+checks every letter against the PDF. The book is CC BY-NC-ND 4.0: shown in
+English as printed, no translation, pictures left out (their lenders'
+credits), captions given. The PDF is not kept (its feet carry the
+download's internet address). "Betchatów" is Bełchatów (editor). No links
+yet; how much bears on the edition is the editor's to say. Not published.

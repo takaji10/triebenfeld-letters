@@ -1,0 +1,54 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# by pipeline/literature/warthegau_pdf.py from the editor's JSTOR download of
+# the chapter (2026-10-21): only the pages the editor named, for the
+# twentieth-century part of the edition. The book is in English, so there is
+# no english.md, and its licence (CC BY-NC-ND 4.0) allows no translation, so
+# there is no German either. Pictures are left out (their credits are the
+# lenders'); their captions are given as text. See notes.md.
+slug: dean2012warthegau
+visible: true
+kind: reference
+title: "Warthegau Region (Reichsgau Wartheland), pp. 34-39, 48, 57-61, 63-64, 99-100, 120-121"
+title_en: ""
+cite: "Encyclopedia of Camps and Ghettos (2012)"
+author: "Joseph Robert White, Martin Dean, Jolanta Kraemer and Evelyn Zegenhagen"
+author_sort: "Dean, Martin, and Mel Hecker (eds.)"
+published: "The United States Holocaust Memorial Museum Encyclopedia of Camps and Ghettos, 1933-1945, vol. II: Ghettos in German-Occupied Eastern Europe, part A, ed. Martin Dean and Mel Hecker, Bloomington: Indiana University Press, 2012; the chapter Warthegau Region, the pages listed. Licensed CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)"
+year: 2012
+language: en
+english_by: ""
+scan: "https://www.jstor.org/stable/j.ctt2050wk1.11"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Pages of the United States Holocaust Memorial Museum's encyclopedia of the
+  ghettos, from its chapter on the Reichsgau Wartheland, the part of Poland
+  Germany annexed in 1939, Konin and Kalisz with it: the chapter's
+  introduction (pp. 34-39), and the entries on the ghettos of Chocz,
+  Grodziec, Kalisz, Konin, Rzgów and Zagórów, with what shares their pages.
+  They tell how the Jews of the district of Konin were driven in July 1940
+  into "hamlet ghettos" at Grodziec, Rzgów and Zagórów, with the Germans'
+  names for the places (Grodziec "Grossdorf", Zagórów "Hinterberg"), the
+  deportations of March 1941 and the murder of the Zagórów ghetto in the
+  Kazimierz Biskupi Forest in the autumn of 1941. Each entry is a scholar's
+  account from testimonies, archives and the literature, which it lists;
+  the notes give the sources. Brought in at the editor's word for the
+  twentieth-century part of the edition; how much of it bears on the
+  edition is still to be seen.
+account_de: >-
+  Seiten aus der Enzyklopädie der Ghettos des United States Holocaust
+  Memorial Museum, aus ihrem Kapitel über den Reichsgau Wartheland, den Teil
+  Polens, den Deutschland 1939 annektierte, Konin und Kalisch eingeschlossen:
+  die Einleitung des Kapitels (S. 34-39) und die Artikel über die Ghettos
+  von Chocz, Grodziec, Kalisz, Konin, Rzgów und Zagórów, mit dem, was auf
+  ihren Seiten mitsteht. Sie berichten, wie die Juden des Kreises Konin im
+  Juli 1940 in „Dorfghettos“ in Grodziec, Rzgów und Zagórów getrieben
+  wurden, mit den deutschen Ortsnamen (Grodziec „Grossdorf“, Zagórów
+  „Hinterberg“), von den Deportationen im März 1941 und der Ermordung der
+  Bewohner des Ghettos Zagórów im Wald von Kazimierz Biskupi im Herbst
+  1941. Jeder Artikel ist die Darstellung eines Wissenschaftlers aus
+  Zeugenaussagen, Archiven und Literatur, die er nennt; die Anmerkungen
+  geben die Quellen. Auf Wunsch des Herausgebers für den Teil der Edition
+  über das zwanzigste Jahrhundert aufgenommen; wie viel davon die Edition
+  betrifft, ist noch zu sehen. Der Text ist englisch; die Lizenz des Buches
+  erlaubt keine Übersetzung.

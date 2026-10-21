@@ -119,6 +119,16 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Encyclopedia of Camps and Ghettos (2012)** (`dean2012warthegau`, added
+  2026-10-21, **not published**): the USHMM encyclopedia's Warthegau
+  chapter, only the pages the editor named (the introduction; Chocz,
+  Grodziec, Kalisz, Konin, Rzgów, Zagórów), for the twentieth century.
+  English as printed (CC BY-NC-ND: no translation); made from the JSTOR PDF
+  by `pipeline/literature/warthegau_pdf.py`, every letter checked. The PDF
+  is not in the repository (its feet carry the download's internet
+  address). How much bears on the edition is open. The work's `notes.md`
+  first.
+
 - **Boniecki (1900)** (`boniecki1900`, added 2026-10-21, **not published**):
   the Chełmski family's branch that held Łukomia, from the editor's saved
   page of the online Boniecki (only items 2.976.162-240, at the editor's

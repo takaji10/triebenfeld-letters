@@ -354,6 +354,20 @@ read, translate and summarise.
   it gives no page breaks; "Mielno" is indexed as Imielno only in the list
   of the four estates; the saved page stays out of the repository (its
   header carries the editor's login).
+  **Encyclopedia of Camps and Ghettos (2012)**, the Warthegau chapter, the
+  pages the editor named (added 2026-10-21, not published;
+  `literature/dean2012warthegau/notes.md`).
+  - **How much bears on the edition** is the editor's to say (their words:
+    "remains to be seen"). Offered: places for Grodziec and Rzgów in the
+    index (the edition has Breyer's notebook of Grodziec, 1936), and links.
+  - **The licence** (CC BY-NC-ND 4.0) allows sharing for no commercial end
+    with the credit, and no adaptation: so no German translation, and the
+    pictures (lenders' credits) are left out. For the editor to know before
+    the site is shared widely.
+  Decided in session, not asked: whole pages are taken, so the neighbouring
+  entries' ends and beginnings stand with them; the PDF is not kept (its
+  page feet carry the download's internet address). Settled by the editor:
+  "Betchatów" is Bełchatów (2026-10-21).
 
 ## Readings, Oe 1 Bü 9454
 

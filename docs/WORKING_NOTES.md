@@ -1461,6 +1461,21 @@ cloud branches").
   2026-10-21: an e-mail address in its header). Keep such a page out of the
   repository, make the text from it with a script that takes only the
   part wanted, and say in the script why the page is not kept.
+- **A JSTOR PDF** (2026-10-21, `pipeline/literature/warthegau_pdf.py`):
+  every page's foot names the internet address it was downloaded from, so
+  the PDF stays out of the repository and the script drops the foot. Its
+  text layer has three traps. Polish letters come from an accent font that
+  stores each under its plain letter ("Łódz" is "Łód" + accent-font "z"):
+  map them by font, and stop on one not in the table. Spaces of no width
+  stand after hyphens, in ligatures and inside words ("or ga nized"): a
+  space whose next letter begins in its first half, or that follows a
+  space, hyphen, dash or bracket, is not real (a real space before a
+  kerned capital, "Poylishe Yidn", ends where the capital begins). And the
+  layer keeps a space after a real line-end hyphen ("mid-July") and none
+  after a break, which tells them apart without a dictionary. Check every
+  letter of the result against the PDF: it caught a lost backreference at
+  once. Read the licence on the cover page: CC BY-NC-ND allows no
+  translation.
 - **A work with no page breaks** (an online edition) is cut at headings
   (`chapter: '^# '`); where the edition numbers its items, the headings are
   those numbers ("# 2.976.177-182"), so each passage can be found online.

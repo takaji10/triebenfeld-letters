@@ -2148,6 +2148,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Read against the documents first: the brothers of 1728 (APP 53/6/0/-/40), of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117) agree; Heliodor's canonry (Chełmno in 1775, Poznań in Boniecki) and the year of Stanisław's title (1778 in the document, 1779 in Boniecki) differ, and the edition follows the documents (NEEDS_CONFIRMATION, "Boniecki (1900)").
 - Index rulings for the Chełmski forms, "Łukomi", and "Mielna" as Imielno in the list of the four estates only. Four hand-made links (`boniecki1900-*`), to 1644, 1728, 1775, 1778 and 1763; the first rests on Claude's reading and waits on the editor. `docs/LITERATURE_PLAN.md`, section 14. The literature has 18 works, 17 on the site.
 
+## The literature: the Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21, not published)
+
+- The USHMM *Encyclopedia of Camps and Ghettos, 1933-1945*, vol. II A (2012), the chapter "Warthegau Region", at the editor's word: only the pages they named, pp. 34-39 (the introduction), 48 (Chocz), 57-59 (Grodziec), 60-61 (Kalisz), 63-64 (Konin), 99-100 (Rzgów), 120-121 (Zagórów), for the twentieth-century part of the edition. In English as printed; CC BY-NC-ND 4.0, so no translation and no pictures (their lenders' credits), the captions given.
+- Made from the editor's JSTOR PDF by `pipeline/literature/warthegau_pdf.py`: the Polish letters from the accent font, the spaces of no width dropped, line-end hyphens told apart by the space the text layer keeps after a real one, notes linked within each entry, web addresses joined. `--check` compares every letter with the PDF. "Betchatów" corrected to Bełchatów at the editor's word. The PDF is not kept: its page feet carry the download's internet address.
+- Index rulings: Koppe and Reinhardt are not the edition's; "Konińska", "Konińskiej" and Słupca are. No hand-made links yet. The literature has 19 works, 18 on the site.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

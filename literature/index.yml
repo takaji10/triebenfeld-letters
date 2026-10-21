@@ -292,6 +292,10 @@ people:
     Raumer: "no: the historian Friedrich von Raumer, author of Polens Untergang, not Karl Georg von Raumer"
   rhode:
     Rhode: "no: Ilse Rhode, the historian of the Prussian partition, cited by Wąsicki (1953)"
+  reinhardt:
+    Reinhardt: "no: \"Akcja Reinhardt\", the name of the German operation, in a book's title (Encyclopedia of Camps and Ghettos 2012)"
+  koppe:
+    Koppe: "no: Wilhelm Koppe, the SS and police leader in the Wartheland 1939-1943 (Encyclopedia of Camps and Ghettos 2012); not the secretary Koppe of the letters"
   ruechel: {Rüchel: yes}
   sacken:
     Sacken: "no: the grenadier battalion Sacken in 1806"
@@ -436,6 +440,10 @@ places:
     Swięcia: yes
     Święcia: yes
     Swięciec: "no: an island of that name in the Warta marsh (Breyer 1938)"
+  slupca:
+    # Encyclopedia of Camps and Ghettos (2012): the Jews of Słupca sent to the
+    # Rzgów ghetto in July 1940; the town.
+    Słupca: yes
   szetlewek:
     Szetlewek: yes
     Szellewen: yes
@@ -583,6 +591,10 @@ places:
   koenigsberg: {Königsberg: yes, Königsberger: yes, Königsbergischen: yes}
   konin:
     Konin: yes
+    # Encyclopedia of Camps and Ghettos (2012), in titles it cites: "Konińska
+    # relacja" (the Konin account), "Ziemi Konińskiej" (the Konin land).
+    Konińska: yes
+    Konińskiej: yes
     Koniner: yes
     Konińskiém: yes
     Konina: yes
