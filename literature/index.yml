@@ -107,8 +107,12 @@ people:
       except:
         guradze1898/c08: "the title of a yearbook cited in a footnote, not the king acting"
     Friedrich Wilhelms des dritten: yes
+  fuerst-august:
+    Augustus: "no: Augustus II (Frost 2007), King of Poland and Elector of Saxony, caught by the pattern's bare \"f \" lookbehind (\"...support of Augustus II...\"); not Fürst August"
   gaertner:
     Gärtner: "no: the word for a cottager (and Gärtnerei, gardening), not a man named Gärtner"
+  gelanski:
+    Florian: "no: the given name of Hieronim Florian Radziwiłł (Frost 2007); not Florian Gelanski"
   giese:
     Giese: "no: the farm-holders Heinrich, Johann, Christian and Friedrich Giese at Święcia in Breyer's list of 1818; not shown to be the Johann Giese who took the Oleśnica estate in lease in 1804"
   gneust:
@@ -288,12 +292,22 @@ people:
   radziwill:
     Radziwill: "no: a Prince Radziwiłł in the black register; not shown to be Antoni"
     Radziwił: "no: Princess Adelajda Radziwiłłówna and the Radziwiłł tables of the Złota księga (Żychliński 1885); not Prince Antoni"
+    Radziwiłł: "no: the Lithuanian magnates of Frost 2007 (Krzysztof II, Michał Kazimierz, Karol, Janusz, Bogusław, Albrycht Stanisław, Mikołaj the Black) and the family name plainly plural; not Prince Antoni"
   raumer:
     Raumer: "no: the historian Friedrich von Raumer, author of Polens Untergang, not Karl Georg von Raumer"
   rhode:
     Rhode: "no: Ilse Rhode, the historian of the Prussian partition, cited by Wąsicki (1953)"
   reinhardt:
     Reinhardt: "no: \"Akcja Reinhardt\", the name of the German operation, in a book's title (Encyclopedia of Camps and Ghettos 2012)"
+  repnin:
+    # Frost (2007) p. 299, twice: Repnin, "the Russian ambassador" who forced
+    # his programme on Polish politics in 1767-8: Nikolai Vasilyevich Repnin.
+    # Identified with the letters' Prince Repnin (83, 84, 1798, Paul I's court
+    # gossip: "Repnin is said to be arrested"; "received a ukase... not to
+    # show himself in Petersburg again"): the letters give the name only, so
+    # this rests on Claude's reading and waits on the editor
+    # (docs/NEEDS_CONFIRMATION.md).
+    Repnin: yes
   koppe:
     Koppe: "no: Wilhelm Koppe, the SS and police leader in the Wartheland 1939-1943 (Encyclopedia of Camps and Ghettos 2012); not the secretary Koppe of the letters"
   ruechel: {Rüchel: yes}

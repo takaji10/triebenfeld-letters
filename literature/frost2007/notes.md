@@ -30,17 +30,20 @@ file - it's not relevant. Only the article by Frost."
 Only the Frost chapter (pp. 266-310) was transcribed. The Russian chapter
 stays out at the editor's word. The Poland-Lithuania section of the Guides
 (pp. 411-415) — a guide to further reading on the chapter's whole subject —
-is not part of Frost's article either; it could be added later if the editor
-wants it.
+is not part of Frost's article either; asked, the editor said no
+(2026-10-21): "Don't add the guides from the PDF."
 
-## Not on the site (for now)
+## On the site (2026-10-21)
 
-The copyright page (p. iv): "All rights reserved. No reproduction, copy or
+The book is under copyright (its imprint: "No reproduction, copy or
 transmission of this publication may be made without written permission";
-"All remaining chapters © their respective authors 1995, 2007". So
-`visible: false` after the Seidel precedent (LITERATURE_PLAN.md, section 4):
-the text stays here for questions, the site build skips it, and whether to
-give it a page is the editor's choice (to be asked).
+"All remaining chapters © their respective authors 1995, 2007"), so the
+work went in with `visible: false` after the Seidel precedent
+(LITERATURE_PLAN.md, section 4). The same day the editor gave it a page:
+"Give it a page - I'll need to decide later what gets displayed" — so
+`visible: true` now, and what the page displays is a later decision of
+theirs, open in `docs/NEEDS_CONFIRMATION.md`; for now the page shows the
+text as the build makes it for every visible work.
 
 ## The text
 
@@ -80,7 +83,7 @@ not OCR.
 ## No English
 
 The article is printed in English (`language: en`): there is no english.md,
-and its page (if it gets one) shows the one text without buttons.
+and its page shows the one text without buttons.
 
 ## How it bears on the edition
 
@@ -97,4 +100,12 @@ that had owned and ruled them.
 ## Literature index
 
 The passage index is built from the visible works only (literature_index.
-py): no index is built for this work until the editor makes it visible.
+py), and reads this work now that it has a page. Its four new pairs were
+read in the sheet and ruled on 2026-10-21: the Radziwiłł magnates and the
+family name plainly plural are not Prince Antoni; "Florian" is the given
+name of Hieronim Florian Radziwiłł, not Florian Gelanski; "Augustus" is
+Augustus II, King of Poland and Elector of Saxony (caught by the edition's
+pattern under "o**f** Augustus"), not Fürst August; and Repnin, the Russian
+ambassador of p. 299, is ruled to the letters' Prince Repnin (83, 84, 1798)
+on Claude's reading, which waits on the editor (`docs/NEEDS_CONFIRMATION.
+md`).

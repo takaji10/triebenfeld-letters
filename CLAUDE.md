@@ -119,19 +119,22 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
-- **Frost (2007)** (`frost2007`, added 2026-10-21, **not published**): the
+- **Frost (2007)** (`frost2007`, added and **published 2026-10-21**): the
   nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.
   Scott (ed.), *The European Nobilities*, vol. II (2nd ed., Palgrave 2007),
   pp. 266-310, read from the editor's PDF spread by spread from page images
   (the scan has no text layer; not OCR), doubtful spots settled at 300 dpi.
   The chapter's notes are endnotes, kept on their printed pages so a note
-  can be cited to its page. Under copyright: `visible: false` after the
-  Seidel precedent, so the site build skips it; the editor's choices are
-  asked (NEEDS_CONFIRMATION): a page on the site, and whether to add the
-  volume's Poland–Lithuania section of the Guides to further reading
-  (pp. 411-415, in the PDF, not yet transcribed), which was left out with
-  the Russian chapter at their word. The work's `notes.md` first. The
-  literature has 20 works, 18 on the site.
+  can be cited to its page. Under copyright: put in with `visible: false`
+  like Seidel, then given a page the same day at the editor's word ("Give
+  it a page - I'll need to decide later what gets displayed"); what the
+  page displays is their later decision (NEEDS_CONFIRMATION). The guides
+  in the PDF are not to be added (their word: "Don't add the guides from
+  the PDF"). Index ruled: the Radziwiłłs, "Florian" (Hieronim Florian) and
+  "Augustus" (Augustus II) are not the edition's; Repnin (p. 299) is ruled
+  to the letters' Prince Repnin on Claude's reading, waiting on the
+  editor. The work's `notes.md` first. The literature has 20 works, 19 on
+  the site.
 
 - **Encyclopedia of Camps and Ghettos (2012)** (`dean2012warthegau`, added
   2026-10-21, **published 2026-10-21**): the USHMM encyclopedia's Warthegau
@@ -367,8 +370,11 @@ so check them.
   the editor named (113 entries, 128 words ruled out); **published 2026-10-21**. The editor means to add more definitions from it.
   **Komornik** split in two at the editor's word (Gloger, 2026-10-21, **not
   published**): the court officer (Latin camerarius) and the lodger
-  (`komornik-lodger`, marked only in its six documents by `only_in`); 114
-  entries, 58 checked.
+  (`komornik-lodger`, marked only in its six documents by `only_in`); and
+  **kopiec**, the boundary mound (Gloger "Kopce graniczne", with the
+  documents' own account of 1775 and 1782); and **pisarz**, the court
+  clerk (Gloger "Pisarze"; the Latin notarius terrestris of the court
+  books, not the notary public); 116 entries, 60 checked.
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
 - The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;

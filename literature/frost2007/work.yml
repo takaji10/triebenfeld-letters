@@ -3,21 +3,23 @@
 # spread from the page images, doubtful spots re-read at 300 dpi (2026-10-21).
 # The article is printed in English, so there is no english.md.
 #
-# NOT ON THE SITE (for now). The book is under copyright: its imprint
-# forbids reproduction, copying and transmission without written permission,
-# and the chapters remain (c) their authors 1995, 2007. Default here is
-# visible: false after the Seidel precedent (LITERATURE_PLAN.md, section 4);
-# whether to give the work a page is the editor's choice, to be asked. With
-# visible: false the site build skips it entirely. Do not change this
-# without the editor's word.
+# ON THE SITE. The book is under copyright: its imprint forbids
+# reproduction, copying and transmission without written permission, and
+# the chapters remain (c) their authors 1995, 2007. Added with
+# visible: false like Seidel (LITERATURE_PLAN.md, section 4), then given a
+# page at the editor's word the same day ("Give it a page - I'll need to
+# decide later what gets displayed"): what the page displays is a later
+# decision of theirs, to be changed here at their word
+# (docs/NEEDS_CONFIRMATION.md keeps it open).
 #
 # The PDF also holds the volume's Guides to Further Reading (pp. 410-415,
 # with the Poland-Lithuania section pp. 411-415) and the opening page of the
 # Russian-nobility chapter (p. 311, with the first lines of its own guide on
-# p. 415); all left out at the editor's word ("only the article by Frost").
-# See notes.md.
+# p. 415); all left out at the editor's word ("only the article by Frost"),
+# and the guides are not to be added at all ("Don't add the guides from the
+# PDF", 2026-10-21). See notes.md.
 slug: frost2007
-visible: false
+visible: true
 kind: article
 title: "The Nobility of Poland–Lithuania, 1569–1795"
 title_en: ""

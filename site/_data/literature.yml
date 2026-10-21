@@ -114,6 +114,23 @@
   account_de: 'Seiten aus der Enzyklopädie der Ghettos des United States Holocaust Memorial Museum, aus ihrem Kapitel über den Reichsgau Wartheland, den Teil Polens, den Deutschland 1939 annektierte, Konin und Kalisch eingeschlossen: die Einleitung des Kapitels (S. 34-39) und die Artikel über die Ghettos von Chocz, Grodziec, Kalisz, Konin, Rzgów und Zagórów, mit dem, was auf ihren Seiten mitsteht. Sie berichten, wie die Juden des Kreises Konin im Juli 1940 in „Dorfghettos“ in Grodziec, Rzgów und Zagórów getrieben wurden, mit den deutschen Ortsnamen (Grodziec „Grossdorf“, Zagórów „Hinterberg“), von den Deportationen im März 1941 und der Ermordung der Bewohner des Ghettos Zagórów im Wald von Kazimierz Biskupi im Herbst 1941. Jeder Artikel ist die Darstellung eines Wissenschaftlers aus Zeugenaussagen, Archiven und Literatur, die er nennt; die Anmerkungen geben die Quellen. Auf Wunsch des Herausgebers für den Teil der Edition über das zwanzigste Jahrhundert aufgenommen; wie viel davon die Edition
     betrifft, ist noch zu sehen. Der Text ist englisch; die Lizenz des Buches erlaubt keine Übersetzung.'
   pages: 18
+- slug: frost2007
+  kind: article
+  title: The Nobility of Poland–Lithuania, 1569–1795
+  title_en: ''
+  cite: Frost (2007)
+  author: Robert I. Frost
+  author_sort: Frost, Robert I.
+  published: 'In H. M. Scott (ed.), The European Nobilities in the Seventeenth and Eighteenth Centuries, Volume II: Northern, Central and Eastern Europe, 2nd edition, London: Palgrave Macmillan, 2007, pp. 266-310'
+  year: 2007
+  language: en
+  english_by: ''
+  scan: ''
+  account_en: 'An article by Robert I. Frost, the British historian of Poland (University of Aberdeen), on the nobility of the Polish-Lithuanian Commonwealth from the Union of Lublin (1569) to the third partition (1795): how the szlachta won and kept its privileges and its grip on the state (the Sejm, the free election, the liberum veto, the tribunals); how large it was, perhaps 6-7.5 per cent of the population and most of it poor, and how easily commoners slipped into it; the economy of the great latifundia, built on royal leases and serf labour; the hierarchy of offices that ranked the estate; the rise, fall and endless competition of the magnate families, which it argues (against the older "magnate oligarchy") never made a stable élite; and the redefinition of nobility by property in the reforms of Stanisław August, which ended in the Constitution of 3 May 1791 and the collapse of the Commonwealth. Background to the noble society that owned and ruled the edition''s estates: it names neither
+    Trąbczyn nor the Olęders, but draws its evidence heavily from Great Poland, among other things from the study of the Kalisz district land market (Pośpiech) showing the middle nobility buying out portions and holding its own between 1580 and 1655, and from the 775 new settlements raised in Great Poland between 1721 and 1793.'
+  account_de: 'Ein Artikel von Robert I. Frost, dem britischen Historiker Polens (University of Aberdeen), über den Adel der Adelsrepublik Polen-Litauen von der Union von Lublin (1569) bis zur dritten Teilung (1795): wie die szlachta ihre Privilegien gewann und behielt und den Staat fest im Griff hatte (Sejm, freie Wahl, liberum veto, Tribunale); wie groß sie war, wohl 6-7,5 Prozent der Bevölkerung und meistens arm, und wie leicht Unfreie in sie hineinschlüpften; die Wirtschaft der großen Latifundien aus königlichem Pachtland und Frondienst; die Hierarchie der Ämter, die den Stand ordnete; Aufstieg, Fall und endloser Wettstreit der Magnatenfamilien, aus denen (gegen die ältere These der „Magnatenoligarchie“) nie eine beständige Spitze wurde; und die Neubestimmung des Adels durch Eigentum in den Reformen Stanisław Augusts, die in der Verfassung vom 3. Mai 1791 und im Zusammenbruch der Republik endeten. Hintergrund der Adelsgesellschaft, die die Güter der Edition besaß und regierte: Sie nennt
+    weder Trąbczyn noch die Olęder, stützt sich aber schwer auf Großpolen, unter anderem auf die Untersuchung des Landmarkts im Kreis Kalisch (Pośpiech), die zeigt, wie der mittlere Adel zwischen 1580 und 1655 Anteile aufkaufte und sich hielt, und auf die 775 neuen Siedlungen, die zwischen 1721 und 1793 in Großpolen entstanden.'
+  pages: 45
 - slug: guradze1898
   kind: study
   title: Der Bauer in Posen. Beiträge zur Geschichte der rechtlichen und wirthschaftlichen Hebung des Bauernstandes der jetzigen Provinz Posen durch den preußischen Staat von 1772-1805

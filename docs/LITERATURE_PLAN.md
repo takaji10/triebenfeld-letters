@@ -476,18 +476,25 @@ yet; how much bears on the edition is the editor's to say. Published
 
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
-| `frost2007` | Robert I. Frost, "The Nobility of Poland–Lithuania, 1569–1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed., Palgrave Macmillan 2007, pp. 266-310 | English | `[p. N]` | no (`visible: false`, to be asked) |
+| `frost2007` | Robert I. Frost, "The Nobility of Poland–Lithuania, 1569–1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed., Palgrave Macmillan 2007, pp. 266-310 | English | `[p. N]` | yes (given a page at the editor's word; what it displays is a later choice) |
 
 The editor's PDF (a scan with no text layer) holds, beside the Frost
 chapter, the volume's Guides to Further Reading (pp. 410-415, with the
 Poland-Lithuania section pp. 411-415) and the opening page of the
 Russian-nobility chapter (p. 311). Only Frost's article was transcribed, at
 the editor's word ("only the article by Frost"); what was left out is
-described in `literature/frost2007/notes.md`, and the Poland-Lithuania
-section of the Guides could be added later if wanted. The book is under
-copyright (its imprint forbids reproduction without written permission; the
-chapters (c) their authors 1995, 2007), so `visible: false` after section 4;
-the choice is put to the editor. Read spread by spread from page images at
+described in `literature/frost2007/notes.md`, and the guides are not to be
+added (the editor: "Don't add the guides from the PDF", 2026-10-21). The
+book is under copyright (its imprint forbids reproduction without written
+permission; the chapters (c) their authors 1995, 2007): put in with
+`visible: false` after section 4, then given a page at the editor's word
+the same day ("Give it a page - I'll need to decide later what gets
+displayed"); what the page displays is a later choice of theirs
+(NEEDS_CONFIRMATION). Read spread by spread from page images at
 200 dpi, doubtful spots at 300 dpi; not OCR. The chapter's notes are
 endnotes, kept on their printed pages so a note can be cited (no `notes:`
-in work.yml).
+in work.yml). The passage index reads it now that it has a page; its four
+new pairs are ruled (the Radziwiłł magnates, Hieronim Florian's given
+name and Augustus II are not the edition's; Repnin the Russian ambassador
+is ruled to the letters' Prince Repnin on Claude's reading, waiting on
+the editor).

@@ -1326,6 +1326,13 @@ person:
     - key: '107'
       en: p. 107
       de: S. 107
+  repnin:
+  - work: frost2007
+    cite: Frost (2007)
+    pages:
+    - key: '299'
+      en: p. 299
+      de: S. 299
   ruechel:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
