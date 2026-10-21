@@ -403,8 +403,8 @@ read, translate and summarise.
   - **The colonists' lease** is "18 May 1805" in Seidel (from Breyer); the
     edition's copy lacks its beginning and is dated by its engrossing, 21
     March 1806 (APP 53/968/0/-/801, doc. 3). Not settled either way.
-  **Pinkas Hakehillot (1976)** (`dabrowska1976`, added 2026-10-21, not
-  published; `literature/dabrowska1976/notes.md`): JewishGen's English of
+  **Pinkas Hakehillot (1976)** (`dabrowska1976`, added and published
+  2026-10-21; `literature/dabrowska1976/notes.md`): JewishGen's English of
   the entries Zagórów, Pyzdry and Konin; kept as Seidel at the editor's
   word, the site showing only a summary.
   - **Zagórów's town status**: the entry gives 1368; the edition's document
@@ -439,7 +439,7 @@ written until there is a witness or a better scan.
 ## Readings, the other holdings
 
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
-  2026-10-21, not published; `units/app5314550221/notes.md`): read from the
+  2026-10-21, published the same day; `units/app5314550221/notes.md`): read from the
   editor's photographs by Claude; 22 marks of doubt, mostly witnesses'
   names and the third Wochneth brother of 1461 (written "Barlyus" and
   "Wardzch"; perhaps the Warsz of no. 16). Not yet put to the editor.

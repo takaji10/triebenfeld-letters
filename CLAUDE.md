@@ -119,8 +119,8 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
-- **APP 53/1455/0/2/21** (`app5314550221`, added 2026-10-21, **not
-  published**): six pages (13, 14, 25, 26, 66, the archive's pencil
+- **APP 53/1455/0/2/21** (`app5314550221`, added and **published
+  2026-10-21**): six pages (13, 14, 25, 26, 66, the archive's pencil
   numbers, and 15, added at the editor's word) of the eighteenth-century copy-book of the privileges of the
   abbey of Ląd, fond Klasztor cystersów w Lądzie: six Latin documents, the
   exchange of 1362 that gave Ląd the forest where Drzewce was founded, the
@@ -132,9 +132,10 @@ so check them.
   photographs (pp. 13 and 25 below the entry before, at the editor's word),
   read, translated, summarised and claim-checked in session; a new
   set-apart kind for a note in the margin (`margin_notes.yml`). Read
-  `units/app5314550221/notes.md` first. Waiting on the editor: a look, the
-  word to publish, pp. 15 and 27. The copy's "Grądzyń" is Grądzyń
-  (editor, 2026-10-21).
+  `units/app5314550221/notes.md` first. The copy's "Gradziem" is Grądzyń
+  (editor, 2026-10-21). Published at the editor's word ("Push to main and
+  rebuild"). Still open: the overwritten year of no. 16 (read 1447), the
+  hand of the margin note on p. 14.
 
 - **Works kept off the site get a summary page** (the editor, 2026-10-21:
   "For each literary source that you don't publish on the site, include an
@@ -145,8 +146,8 @@ so check them.
   them, and `verify_site.py` checks that no stretch of its text is on the
   site. Two such works: **Seidel (2018)** and **Pinkas Hakehillot (1976)**
   (`dabrowska1976`, added 2026-10-21: JewishGen's English of the entries
-  Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word). **Not
-  published.**
+  Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word).
+  **Published 2026-10-21**, with Drommin and the Ląd copy-book.
 
 - **Frost (2007)** (`frost2007`, added and **published 2026-10-21**): the
   nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.

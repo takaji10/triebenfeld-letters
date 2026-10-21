@@ -1083,6 +1083,11 @@ Where the rest is:
   chosen page and runs on to one not chosen is kept as far as the page goes,
   as its own document, undated if its date is on the next page, and the
   next page is offered.
+- **A name swap by regular expression also rewrites the sentences that quote
+  the old form** (2026-10-21): replacing Gradziem with Grądzyń everywhere
+  turned "the copy's "Gradziem" is Grądzyń" into "the copy's "Grądzyń" is
+  Grądzyń" in five comments and notes. Protect the quoted forms, or grep for
+  the new form in quotation marks afterwards.
 - **Read a whole entry before saying what it is** (APP 53/1455/0/2/21,
   2026-10-21). No. 16 was first described from its heading and its first
   lines as the king's confirmation of the sale copied before it (1461);

@@ -73,7 +73,7 @@ documents:
   # The estate the document is ABOUT, as slugs from reference/places.yml.
   estates:
     "1": [lad]
-    # Grądzyń / Grądzyń of the copy is Grądzyń (the editor, 2026-10-21).
+    # Gradziem / Gradzien of the copy is Grądzyń (the editor, 2026-10-21).
     "2": [lukom, gradzyn, zagorowo, imielno, lad]
     "3": [lukom, gradzyn, lad]
     "4": [wrabczynek, drzewce, lad]

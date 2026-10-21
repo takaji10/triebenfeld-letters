@@ -9,8 +9,8 @@ Names. Christian names are given in their Polish form (Mikołaj, Jan, Piotr,
 Kazimierz), as in the English of the edition's Kodeks Dyplomatyczny
 Wielkopolski; surnames stand as written. Places the edition has settled are
 given in its form (Ląd, Pyzdry, Konin, Kalisz, Zagórów, Łukom, Łukomia,
-Drzewce, Imielno, Poznań, and Grądzyń for the copy's "Grądzyń" and
-"Grądzyń": the editor, 2026-10-21); the rest stand as written (Makownica,
+Drzewce, Imielno, Poznań, and Grądzyń for the copy's "Gradziem" and
+"Gradzien": the editor, 2026-10-21); the rest stand as written (Makownica,
 Malenin, Ruchocin, Lomowo, Lome and Lomy, Huta, Rosiszewo,
 Tomice, Czernietz and its other spellings). "parvum Wronczyno" is Little
 Wronczyn, as the edition's Kodeks English has Great Wronczyn for "Magnum

@@ -10,7 +10,7 @@ and p. 15, added the same day to finish no. 16 ("you can add page 15 to
 finish the king's confirmation"). The privileges copied are of 1362, 1399,
 1447 and 1461, and a court decree of 1761. Added 2026-10-21: read from the photographs in session, translated,
 summarised, claim-checked, with its page, three timeline entries and the
-German notes. **Not published.**
+German notes. **Published 2026-10-21** at the editor's word.
 
 Everything about how the holding was made is in the docstrings of
 `intake/holding.py` (the photographs and the crops) and `intake/text.py`

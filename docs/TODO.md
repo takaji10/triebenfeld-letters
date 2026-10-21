@@ -664,8 +664,9 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       read, translated, summarised and claim-checked; six documents, with
       the holding's page and three timeline entries
       (`units/app5314550221/notes.md`).
-- [ ] **You:** a look at the five cut pages and the holding's page; the
-      word to publish.
+- [x] Published at your word (2026-10-21).
+- [ ] **You:** a look at the six cut pages and the holding's page; the
+      overwritten year of no. 16 (read 1447).
 - [x] Gradziem is Grądzyń (your word, 2026-10-21): matched and used
       throughout. P. 15 added (your word): it finishes no. 16, which is the
       king's confirmation of 1447 of an earlier purchase of the same land,
