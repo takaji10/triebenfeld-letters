@@ -1426,6 +1426,21 @@ cloud branches").
 
 ## Traps in the tools
 
+- **A Wikisource page of Arct's dictionary has no text of its own**
+  (2026-10-21). Its source (`action=raw`) is only a template naming the
+  scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the
+  rendered page instead and strip the tags:
+  `https://pl.wikisource.org/w/api.php?action=parse&page=<title>&prop=text&format=json&formatversion=2`.
+  Gloger's pages carry their text and need no such step.
+- **One institution, four names in the edition.** Gród, the castle court,
+  is "Acta Castrensia" in the Latin, "gród, grodzki" in the Polish,
+  "Municipal Court" in the translations (the editor's English; the
+  translation check forbids "castle court" there), "castle court" in the
+  summaries and "Burggericht" in the German summaries. A glossary entry
+  for such a term matches all of them (match_de also runs over the German
+  summaries, match_en over the English ones), and keeps place names that
+  share the root ("Grodziec", "Grodzisko") out of its pattern.
+
 - **The glossary gate and Latin documents.** `glossary_candidates.py
   --check` counted every common word of a wholly Latin document as a
   Latin term needing an entry (partium, quibus, Judicium) and stopped the

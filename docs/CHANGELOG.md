@@ -2133,6 +2133,12 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna Dąmbska's death, Paweł Prusimski's generation) are marked settled.
 - Published at the editor's word, with Wąsicki (1953).
 
+## The glossary: gród, the castle court (2026-10-21, not published)
+
+- A new entry, `grod`, at the editor's word, from the entry Gród in Arct's *Słownik ilustrowany języka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in Poznań's description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the translations call the "Municipal Court" was the starost's castle court, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
+- It marks the Polish forms (gród, grodu, w grodzie, grodzki), the Latin castrensis, "Municipal Court" and "castle court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
+- Arct added to the glossary's reference works (`docs/GLOSSARY_PLAN.md`). 112 entries, 56 checked.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

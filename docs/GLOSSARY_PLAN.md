@@ -93,6 +93,7 @@ as the letters' writers used it:
 | Economy, land, measures, money | Krünitz, *Oekonomische Encyklopädie* (1773–1858) |
 | Prussian law and offices | *Allgemeines Landrecht für die Preußischen Staaten* (1794) |
 | **Polish terms and institutions** | **Zygmunt Gloger, *Encyklopedia staropolska ilustrowana* (1900–1903)**, [on Polish Wikisource](https://pl.wikisource.org/wiki/Encyklopedia_staropolska). For starosta, wójt, sołtys, olędrzy, propinacja, łan and the like, and for every Polish term the later eras bring |
+| Polish words, general | Michał Arct, *Słownik ilustrowany języka polskiego* (1916), [on Polish Wikisource](https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego), one page per word. Named by the editor, 2026-10-21, with its entry Gród. Short: a word's senses, not its history; the history comes from Gloger or the archive's own descriptions |
 | Events | The timeline's own cited sources; standard histories |
 
 Since 2026-10-02 the cloud environment reaches Wikisource, Wörterbuchnetz
