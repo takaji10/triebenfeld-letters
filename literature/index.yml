@@ -57,6 +57,10 @@ patterns:
     kolno: 'Koln(?:ie|a|em)(?![a-zà-ÿ])'
     wieniec: 'Wieńc(?:a|u)(?![a-zà-ÿ])'
     szetlewek: 'Szellewen'
+    # Boniecki (1900) has Imielno as "Mielno" in the list of the Chełmski
+    # estates, "Łukomia, Łomowa, Mielna i Bukowa" (the editor, 2026-10-21:
+    # "Imielno (Mielna in this document)"). Only in that list.
+    imielno: '(?<=Łomowa, )Mielna'
     # Feuerbrände 2-69 "Schwiegoszyn" (Materialien p. 145 "Swiegoszyn").
     swiechocin: 'Schwiegoszyn'
     # Materialien p. 145 "Löwin" (Feuerbrände 2-69 "Lowin"); the word is also a
@@ -182,6 +186,14 @@ people:
     # Antoni Prusimski in 1782: the family of the edition's entry.
     Chełmskiemu: yes
     Chełmskim: yes
+    # Boniecki (1900), the branch that held Łukomia: "Andrzej Scibor
+    # Chełmski" (c04), "od Ignacego Chełmskiego" (c06), "rodowód
+    # Chełmskich" (c01, the pedigree that leads into the branch): the family
+    # of the edition's entry.
+    Chełmski: yes
+    Chełmskiego: yes
+    Chełmskich: yes
+    Chełmscy: "no: the heading of Boniecki's article, the whole family of the arms Ostoja; its Łukomia branch is found by the names in the passages"
   koeckritz: {Köck: yes}
   kuh:
     Kuh: "no: the word for a cow (Materialien p. 195)"
@@ -372,6 +384,9 @@ places:
     # Chodyła (2015): the Olęder settlement Imielno in the parish of Zagórów,
     # on the Łukom estate: the edition's Imielno, Łukom's neighbour.
     Imielno: yes
+    # Boniecki (1900, c03): "Mielna", one of the four Chełmski estates sold in
+    # 1766; the editor's identification.
+    Mielna: yes
     Imielnie: yes
   kamionno:
     Kamionna: yes
@@ -585,7 +600,11 @@ places:
     Łukomskich: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
     Łukomskie: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
     Łukomskimi: "no: the Łukomskie Olędry (Luśnie), an Olęder colony named after Łukom; not Łukom itself (Chodyła 2015)"
-  lukomia: {Łukomia: yes}
+  lukomia:
+    Łukomia: yes
+    # Boniecki (1900): "części Łukomi", "nabywca Łukomi", "właściciela Łukomi",
+    # the genitive of the estate.
+    Łukomi: yes
   magdeburg: {Magdeburg: yes}
   mariantow:
     Mariantów: yes

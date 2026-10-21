@@ -429,3 +429,25 @@ the register of 1797). The edition takes the documents (the editor's rule of
 2026-10-21) and NEEDS_CONFIRMATION records each. Six hand-made links
 (`chodyla2015-*`). Published 2026-10-21 at the editor's word, with Wąsicki
 (section 12).
+
+## 14. Boniecki (1900) (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `boniecki1900` | Adam Boniecki, *Herbarz polski*, part I, vol. 2, Warsaw [1900], "Chełmscy h. Ostoja" (from p. 364), the branch that held Łukomia | Polish | none: cut at headings (`chapter`) | yes |
+
+The editor gave a saved page of M. J. Minakowski's online edition of
+Boniecki (article 2.976), "a source for the family tree of the Chełmski
+family", and asked for only the part on Stanisław Chełmski, his brother
+Heliodor, the transfers of Łukom, and Łukom, Bukowe, Łomów and Imielno
+("Mielna" there). So the work is an excerpt, like Żychliński (1891):
+`literature/boniecki1900/make_original.py` takes items 2.976.162-240 of the
+running text, joins each paragraph's lines, marks what it leaves out "[…]"
+and heads each part with the item numbers; the saved page is not kept (its
+header carries the editor's login). The English is Claude's.
+
+What the documents say first: the brothers of 1728 (APP 53/6/0/-/40), the
+brothers of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117)
+agree with Boniecki; Heliodor's canonry and the year of Stanisław's title
+differ, and the edition follows the documents (NEEDS_CONFIRMATION,
+"Boniecki (1900)"). Four hand-made links (`boniecki1900-*`). Not published.

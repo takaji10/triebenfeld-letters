@@ -119,6 +119,15 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Boniecki (1900)** (`boniecki1900`, added 2026-10-21, **not published**):
+  the Chełmski family's branch that held Łukomia, from the editor's saved
+  page of the online Boniecki (only items 2.976.162-240, at the editor's
+  word: Stanisław, Heliodor, the transfers of Łukom). Cut at item numbers;
+  Claude's English; four links. Two differences from the documents
+  (settled) and one reading of Claude's waiting on the editor
+  (NEEDS_CONFIRMATION). The saved page is not in the repository (the
+  editor's login is in its header). The work's `notes.md` first.
+
 - **Chodyła (2015)** (`chodyla2015`, added and **published 2026-10-21**):
   the history of the 58 Olęder settlements of the Pyzdry Forest 1746-1793,
   the Trąbczyn colonies first among them. The text is made from the book's

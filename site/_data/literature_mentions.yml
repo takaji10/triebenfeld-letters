@@ -42,6 +42,21 @@ person:
       en: Part 2, p. 66
       de: Heft 2, S. 66
   chemski:
+  - work: boniecki1900
+    cite: Boniecki (1900)
+    pages:
+    - key: c01
+      en: 2.976.162-176
+      de: 2.976.162-176
+    - key: c03
+      en: 2.976.183, 196-198, 209-210
+      de: 2.976.183, 196-198, 209-210
+    - key: c04
+      en: 2.976.211-220
+      de: 2.976.211-220
+    - key: c06
+      en: 2.976.226-240
+      de: 2.976.226-240
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -2059,6 +2074,12 @@ place:
       en: p. 145
       de: S. 145
   imielno:
+  - work: boniecki1900
+    cite: Boniecki (1900)
+    pages:
+    - key: c03
+      en: 2.976.183, 196-198, 209-210
+      de: 2.976.183, 196-198, 209-210
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -2516,6 +2537,21 @@ place:
       en: p. 83
       de: S. 83
   lukomia:
+  - work: boniecki1900
+    cite: Boniecki (1900)
+    pages:
+    - key: c02
+      en: 2.976.177-182
+      de: 2.976.177-182
+    - key: c03
+      en: 2.976.183, 196-198, 209-210
+      de: 2.976.183, 196-198, 209-210
+    - key: c04
+      en: 2.976.211-220
+      de: 2.976.211-220
+    - key: c06
+      en: 2.976.226-240
+      de: 2.976.226-240
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:

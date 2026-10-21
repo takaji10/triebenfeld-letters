@@ -1451,6 +1451,20 @@ cloud branches").
   out with lookarounds, and a `\b` after `\w*` keeps the regex from
   backtracking into a shorter match that slips past the lookahead
   ("Stawisk" out of "Stawisku zwanym").
+- **`build_literature.py` empties `corpus/literature/`, and
+  `literature_index.py` writes `mentions.json` back into it** (2026-10-21).
+  Run the literature's steps in order, build, index, site, before
+  committing; `git add -u` after the build alone recorded `mentions.json`
+  as deleted (commit adc3ad1a, put right in the next). Before any commit
+  with `git add -u`, read `git status --short` for a `D`.
+- **A saved web page can carry the editor's login** (the online Boniecki,
+  2026-10-21: an e-mail address in its header). Keep such a page out of the
+  repository, make the text from it with a script that takes only the
+  part wanted, and say in the script why the page is not kept.
+- **A work with no page breaks** (an online edition) is cut at headings
+  (`chapter: '^# '`); where the edition numbers its items, the headings are
+  those numbers ("# 2.976.177-182"), so each passage can be found online.
+  The headings are the edition's and the notes say so.
 
 - **The glossary gate and Latin documents.** `glossary_candidates.py
   --check` counted every common word of a wholly Latin document as a

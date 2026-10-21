@@ -331,6 +331,29 @@ read, translate and summarise.
   editor's word (2026-10-21): 1746 (Konin Gr.145, the summons of 1860),
   1754 (Gr.136), 1771 (Kalisz Gr.414), 1782 (Gr.153), the register of 1797
   (AGAD 1/169/0/1/1745) and the hearth tax of 1789 (Kalisz Tab.21).
+  **Boniecki (1900)**, the Chełmski family, the branch that held Łukomia
+  (added 2026-10-21, not published; `literature/boniecki1900/notes.md`).
+  Where it differs from the documents, the edition takes the documents:
+  **settled by the editor's rule**, recorded so that it is known.
+  - **Heliodor's office.** The boundary decree of 1775 (Konin Gr.145) calls
+    him "Canon of Chełmno"; Boniecki has him parish priest of Jaksice in
+    1757 and canon of Poznań in 1765. The edition says canon of Chełmno for
+    1775; the offices may be of different years.
+  - **Stanisław's title.** Konin Gr.117, doc. 4, already calls him Treasurer
+    of Wschowa in April 1778; Boniecki gives the title under 1779. The
+    edition follows the document.
+  - **Jerzy Chełmski of 1644** (APP 53/6/0/-/36), who held a wood by Łukom,
+    is taken in the link `boniecki1900-jerzy-1644` to fit the "old
+    pedigree" Boniecki quotes and doubts, that Jerzy was the father of the
+    two Ścibors who held Łukomia about 1700. **Claude's reading**, for the
+    editor to accept or strike: the document does not say whose father he
+    was.
+  Decided in session, not asked: only the branch that held Łukomia is
+  brought in (2.976.162-240, with what is left out marked "[…]"), as the
+  editor asked; the work is cut at the online edition's item numbers, since
+  it gives no page breaks; "Mielno" is indexed as Imielno only in the list
+  of the four estates; the saved page stays out of the repository (its
+  header carries the editor's login).
 
 ## Readings, Oe 1 Bü 9454
 
