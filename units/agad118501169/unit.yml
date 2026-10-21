@@ -34,7 +34,7 @@ fonds: II Rada Stanu Królestwa Polskiego
 # says 1830-1834. The pages carry no other date.
 date_span: "1834"
 status: translated       # draft | transcribed | translated | published
-published_tag: ""
+published_tag: "" # untagged: cache/translation-raw
 
 # Which era this holding belongs to - reference/eras.yml. The report decides
 # what became of the mortgage after the 1807 restitution of Trąbczyn to
