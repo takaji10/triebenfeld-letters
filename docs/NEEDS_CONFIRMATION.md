@@ -413,6 +413,32 @@ read, translate and summarise.
   - Against the Encyclopedia of Camps and Ghettos (2012) the entries differ
     on details of 1940-1941; neither is a document; recorded in the notes,
     not ruled.
+  **Karwowski (1900)**, "Klasztor pp. cystersek w Ołoboku" (added 2026-10-21,
+  not published; `literature/karwowski1900/notes.md`): the two paragraphs of
+  p. 87 the editor named, on the debts of Zagórów and the lost 40,000 złp. of
+  the nuns.
+  - **Ignacy Trzciński.** Karwowski has him buying Zagórów from the Prince in
+    1812 with debts of 2,000,000 złp. on it, mortgaging the nuns' 40,000 złp.
+    on it in 1814 (radzca of the department of Kalisz), and losing the
+    estates at auction in 1827. The letters' Ignatz von Trzciński owed the
+    Prince on bills from 1813 and his death was reported in December 1815.
+    The dates and the purchase would fit the buyer of 1812; the identity is
+    not settled (the letters also have a "Major Trzciński"). **For the
+    editor**; ruled out in the index until it is settled.
+  - **Karol Bogumił Weygel**, banker of Wrocław, who bought the Zagórów
+    estates at auction on 1 September 1827 and saved 56,879 of the 120,000
+    złp. he had mortgaged on them: the letters' Carl Ferdinand Weigel, his
+    son ("Weigel und Sohn"), Breyer's K. G. von Weigel (a question already
+    open), or another Weigel? The given names differ from Carl Ferdinand's.
+    **For the editor**; ruled out in the index.
+  - **Minister Sobolewski**, who informed the Prussian government from
+    Warsaw on 23 October 1828 that the 40,000 złp. was lost: Claude takes
+    him for the Kingdom of Poland's minister secretary of state, the
+    Sobolewski of the edition's reply of 1820, who sat at Warsaw. Offered,
+    not accepted; ruled in on that basis.
+  - Offered, not asked for: a hand-made link from the passage to the Weigel
+    compensation documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454,
+    letters 220 and 284), every figure read on both sides first.
 
 ## Readings, Oe 1 Bü 9454
 

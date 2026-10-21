@@ -521,3 +521,23 @@ copy of its page (not kept), as given, every letter checked against the
 page. The entries are the source the Encyclopedia of Camps and Ghettos
 (2012, section 15) cites. Against the documents: the town status of
 Zagórów, 1368 in the entry, 1407 in the edition's KDW doc. 14.
+
+## 17. Karwowski (1900) (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `karwowski1900` | Stanisław Karwowski, "Klasztor pp. cystersek w Ołoboku", *Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego*, T. XXVI, pp. 1-114 (Poznań 1900) | Polish | `[p. 87]` | excerpt: two paragraphs of p. 87 |
+
+The first article of the volume, a history of the convent of the Cistercian
+nuns at Ołobok from its foundation to the winding-up of the house. Read from
+the WBC digitisation (id 118639, DjVu; the files not kept in the repository),
+the text taken from the page image at 300 dpi, doubtful words at word-level
+zooms, the scan's text layer used only as a check. Only the two paragraphs
+of p. 87 the editor quoted are brought in, with their footnote 2 (the files
+of the state archive at Poznań, the Ołobok convent's, bundle b, no. 7 — the
+article's own notes expand the abbreviation); the rest of the page is left
+out, marked "[…]", and the left-out paragraph that the passage's first words
+refer back to is summarised in the work's `notes.md`. Out of copyright
+(author d. 1917). The passage bears on the debts of Zagórów: its sale in
+1812 to Ignacy Trzciński, the auction of 1827 to Karol Bogumił Weygel, and
+the 40,000 złp. of the nuns lost with the interest owing from 1806.

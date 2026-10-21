@@ -656,6 +656,19 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] The places Grodziec and Rzgów; Rzgów an estate in focus. All
       published at your word (2026-10-21). Open: whether Grodziec should
       be listed on the Places page (NEEDS_CONFIRMATION).
+- [x] Karwowski (1900), "Klasztor pp. cystersek w Ołoboku" (Roczniki TPNA
+      T. XXVI, pp. 1-114), added (2026-10-21; LITERATURE_PLAN.md, section
+      16): only the two paragraphs of p. 87 you quoted, with their footnote,
+      read from the WBC digitisation (DjVu id 118639; the files not kept).
+      Not published.
+- [ ] **You:** the three identifications it raises, in NEEDS_CONFIRMATION
+      ("The literature"): whether Karwowski's Ignacy Trzciński is the
+      letters' Ignatz von Trzciński; whether his Karol Bogumił Weygel is
+      the banker Weigel or his son; minister Sobolewski (Claude's
+      identification, offered).
+- [ ] Offered: a hand-made link from the passage to the Weigel compensation
+      documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454, letters 220 and
+      284), each figure read on both sides first.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 

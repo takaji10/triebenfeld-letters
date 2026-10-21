@@ -1796,3 +1796,18 @@ cloud branches").
   rule rewrote a spelling quoted from the page ('written "Trąpczyn"'). A
   rule for a name must not touch a quoted form; after running it, compare
   the summaries with HEAD and look at every one that changed.
+- **A WBC DjVu digitisation** (Karwowski 1900, 2026-10-21). DjVuLibre
+  (winget `DjVuLibre.DjView`) gives `ddjvu.exe -format=tiff` for the page
+  image and `djvutxt.exe` for a text layer. The text layer is only a check:
+  it mangles the Polish letters through the console encoding and can drop or
+  guess digits ("1828" was readable only in the image; it read "nowey" for
+  the print's "nowej"). Render the page at its default 300 dpi, read the
+  image, and re-read doubtful words in word-level crops scaled ×6-10. A
+  stray ink fleck can reach both the text layer and the first OCR ("r.
+  .1806"); look at the spot before ruling it a mark of the print.
+- **A scratch file in the temp folder can shadow the standard library**
+  (2026-10-21). `C:\Users\Tersnaus\AppData\Local\Temp\opencode\struct.py`
+  from an earlier session was imported by PIL, ran its own main code and
+  printed its old output. Run Python from a subfolder (the `djvucrop`
+  pattern), never from the temp folder itself.
+

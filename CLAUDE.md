@@ -145,6 +145,17 @@ so check them.
   Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word). **Not
   published.**
 
+- **Karwowski (1900)** (`karwowski1900`, added 2026-10-21, **not published**):
+  "Klasztor pp. cystersek w Ołoboku", the first article of Roczniki TPNA
+  T. XXVI (pp. 1-114), a history of the Cistercian nuns' convent at Ołobok.
+  Only the two paragraphs of p. 87 the editor named are brought in, with
+  their footnote, read from the WBC digitisation (DjVu id 118639; the files
+  not kept), the image checked at 300 dpi and word-level zooms, the scan's
+  text layer only as a check. Out of copyright (author d. 1917). Index
+  ruled; three identifications open (Trzciński, Weygel, Sobolewski —
+  NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 17; the work's
+  `notes.md` first. The literature has 21 works, 20 on the site.
+
 - **Frost (2007)** (`frost2007`, added and **published 2026-10-21**): the
   nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.
   Scott (ed.), *The European Nobilities*, vol. II (2nd ed., Palgrave 2007),

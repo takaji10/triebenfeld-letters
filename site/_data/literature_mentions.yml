@@ -360,6 +360,12 @@ person:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: karwowski1900
+    cite: Karwowski (1900)
+    pages:
+    - key: '87'
+      en: p. 87
+      de: S. 87
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -1448,6 +1454,13 @@ person:
     - key: '143'
       en: p. 143
       de: S. 143
+  sobolewski:
+  - work: karwowski1900
+    cite: Karwowski (1900)
+    pages:
+    - key: '87'
+      en: p. 87
+      de: S. 87
   stein:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -3084,6 +3097,12 @@ place:
       en: p. 137
       de: S. 137
   zagorowo:
+  - work: karwowski1900
+    cite: Karwowski (1900)
+    pages:
+    - key: '87'
+      en: p. 87
+      de: S. 87
   - work: breyer1935gaue
     cite: Breyer (1935a)
     pages:
