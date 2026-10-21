@@ -127,7 +127,9 @@ so check them.
   by `pipeline/literature/warthegau_pdf.py`, every letter checked. The PDF
   is not in the repository (its feet carry the download's internet
   address). How much bears on the edition is open. The work's `notes.md`
-  first.
+  first. **Grodziec and Rzgów** were added as places at the editor's word
+  (Rzgów an estate in focus on KDW 4 and 6 and Konin Gr.117, docs 11 and 12;
+  Grodziec not, no document being about it: NEEDS_CONFIRMATION asks).
 
 - **Boniecki (1900)** (`boniecki1900`, added 2026-10-21, **not published**):
   the Chełmski family's branch that held Łukomia, from the editor's saved

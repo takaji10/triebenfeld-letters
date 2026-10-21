@@ -80,10 +80,14 @@ PDF p. 9 (printed p. 40) is blank.
 - The "hamlet ghettos" of Kreis Konin (Grodziec, Rzgów, Zagórów), July 1940
   to March 1941; the murder of the Zagórów ghetto in the Kazimierz Biskupi
   Forest, autumn 1941.
-- Grodziec, Rzgów and Chocz are not places of the edition's index, so the
-  index finds them nowhere; Zagórów, Konin, Kalisz and Słupca it finds.
-  Breyer's notebook "V. Grodziec Juli 1936" (APP 53/968/0/-/669, doc. 2) is
-  the edition's own Grodziec. Offered: places for Grodziec and Rzgów, and
-  links once the editor says which parts bear on the edition.
+- Grodziec and Rzgów were added to the edition's places at the editor's
+  word (2026-10-21, `reference/places.yml`), so the index finds them here
+  and in the other works. Rzgów is an estate in focus (the Kodeks entries of
+  1261 and 1280 and the dispute of 1779 in Konin Gr.117 concern it) and its
+  list of the literature shows on the Places page; Grodziec is not (no
+  document is about it: Breyer's notebook "V. Grodziec Juli 1936" has the
+  name on its cover and is about Łazińsk), so its hits stay in the index
+  for questions. Chocz is not a place of the edition. Offered: links once
+  the editor says which parts bear on the edition.
 - No hand-made links yet: the edition's documents of the twentieth century
   are Breyer's notebooks of 1936, before the events of these pages.

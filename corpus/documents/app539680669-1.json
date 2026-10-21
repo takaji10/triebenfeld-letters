@@ -880,6 +880,17 @@
    "doc_line": 32
   },
   {
+   "entity": "grodziec",
+   "display": "Grodziec",
+   "kind": "place",
+   "surface": "Grodziec",
+   "page": 4,
+   "page_id": "0003_a1",
+   "scan": "APP_53_968_0_669_0003_a1-L1_04.jpg",
+   "line": 40,
+   "doc_line": 35
+  },
+  {
    "entity": "zagorowo",
    "display": "Zagórów (Zagorowo)",
    "kind": "place",
@@ -900,6 +911,17 @@
    "scan": "APP_53_968_0_669_0003_a1-L1_04.jpg",
    "line": 48,
    "doc_line": 43
+  },
+  {
+   "entity": "grodziec",
+   "display": "Grodziec",
+   "kind": "place",
+   "surface": "Grodziec",
+   "page": 5,
+   "page_id": "0003_a2",
+   "scan": "APP_53_968_0_669_0003_a2-L1_05.jpg",
+   "line": 55,
+   "doc_line": 49
   },
   {
    "entity": "zagorowo",

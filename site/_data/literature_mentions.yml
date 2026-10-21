@@ -2615,6 +2615,64 @@ place:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  rzgow:
+  - work: breyer1938
+    cite: Breyer (1938)
+    pages:
+    - key: '9'
+      en: p. 9
+      de: S. 9
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '47'
+      en: p. 47
+      de: S. 47
+  - work: szwiec2009
+    cite: Szwiec (2009)
+    pages:
+    - key: '6'
+      en: p. 6
+      de: S. 6
+    - key: '8'
+      en: p. 8
+      de: S. 8
+    - key: '11'
+      en: p. 11
+      de: S. 11
+  - work: dean2012warthegau
+    cite: Encyclopedia of Camps and Ghettos (2012)
+    pages:
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '57'
+      en: p. 57
+      de: S. 57
+    - key: '63'
+      en: p. 63
+      de: S. 63
+    - key: '64'
+      en: p. 64
+      de: S. 64
+    - key: '99'
+      en: p. 99
+      de: S. 99
+    - key: '100'
+      en: p. 100
+      de: S. 100
+  - work: chodyla2015
+    cite: Chodyła (2015)
+    pages:
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '14'
+      en: p. 14
+      de: S. 14
+    - key: '15'
+      en: p. 15
+      de: S. 15
   skokum:
   - work: breyer1938
     cite: Breyer (1938)

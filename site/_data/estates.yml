@@ -335,6 +335,15 @@
   docs: 4
   span: "1797–1802"
   letters: [{id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/"}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/"}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/"}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/"}]
+- slug: "rzgow"
+  name: "Rzgów"
+  medieval: ["1261: Rzgowo", "1280: Irgouo"]
+  count: 4
+  lat: 52.15358
+  lon: 18.05118
+  docs: 4
+  span: "1261–1779"
+  letters: [{id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}, {id: "11", uid: "app53170koningr117-11", url: "/documents/app53170koningr117/11/"}, {id: "12", uid: "app53170koningr117-12", url: "/documents/app53170koningr117/12/"}]
 - slug: "adamierz"
   name: "Adamierz"
   medieval: ["1377: Nadamirza", "1440: Nadomirz, Niedomirz"]

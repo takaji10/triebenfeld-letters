@@ -31,7 +31,8 @@
  "estates": [
   "lad",
   "szetlew",
-  "swiatniki"
+  "swiatniki",
+  "rzgow"
  ],
  "is_missing": 0,
  "n_lines": 35,
@@ -111,6 +112,17 @@
    "doc_line": 2
   },
   {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Irgouo",
+   "page": 1,
+   "page_id": "0006_a",
+   "scan": "",
+   "line": 47,
+   "doc_line": 8
+  },
+  {
    "entity": "brzesc",
    "display": "Brześć",
    "kind": "place",
@@ -133,6 +145,28 @@
    "doc_line": 15
   },
   {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgów",
+   "page": 1,
+   "page_id": "0006_a",
+   "scan": "",
+   "line": 55,
+   "doc_line": 16
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgowa",
+   "page": 1,
+   "page_id": "0006_a",
+   "scan": "",
+   "line": 55,
+   "doc_line": 16
+  },
+  {
    "entity": "swiatniki",
    "display": "Świątniki",
    "kind": "place",
@@ -142,6 +176,17 @@
    "scan": "",
    "line": 55,
    "doc_line": 16
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgowa",
+   "page": 1,
+   "page_id": "0006_a",
+   "scan": "",
+   "line": 56,
+   "doc_line": 17
   },
   {
    "entity": "konin",

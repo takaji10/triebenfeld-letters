@@ -48859,6 +48859,175 @@
   ]
  },
  {
+  "entity": "rzgow",
+  "display": "Rzgów",
+  "count": 17,
+  "documents": [
+   "agad1169011745-1",
+   "app53170koningr117-11",
+   "app53170koningr117-12",
+   "app53640kalisztab21-1",
+   "kdw-4",
+   "kdw-6",
+   "oe1bu14525-23"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-4",
+    "surface": "Rzgowo",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 28,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Rzgowo",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Rzgów",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Irgouo",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 47,
+    "doc_line": 8
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Rzgów",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 55,
+    "doc_line": 16
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Rzgowa",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 55,
+    "doc_line": 16
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Rzgowa",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 56,
+    "doc_line": 17
+   },
+   {
+    "uid": "app53170koningr117-11",
+    "surface": "Rzgowa",
+    "page": 1,
+    "page_id": "0272_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+    "line": 63,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-11",
+    "surface": "Rzgów",
+    "page": 1,
+    "page_id": "0272_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+    "line": 63,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-12",
+    "surface": "Rzgów",
+    "page": 1,
+    "page_id": "0359_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
+    "line": 67,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53640kalisztab21-1",
+    "surface": "Rzgow",
+    "page": 10,
+    "page_id": "0019_a",
+    "scan": "APP_53_64_0_Kalisz_Tab_21_0019_a-L1_10.jpg",
+    "line": 308,
+    "doc_line": 290
+   },
+   {
+    "uid": "agad1169011745-1",
+    "surface": "Rzgow",
+    "page": 4,
+    "page_id": "0404_a2",
+    "scan": "AGAD_1_169_0_1_1745_0404_a2-L1_04.jpg",
+    "line": 123,
+    "doc_line": 118
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Rzgow",
+    "page": 1,
+    "page_id": "0091_b",
+    "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+    "line": 2957,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Rzgow",
+    "page": 2,
+    "page_id": "0092_a2",
+    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+    "line": 2970,
+    "doc_line": 27
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Rzgow",
+    "page": 8,
+    "page_id": "0104_a2",
+    "scan": "Oe_1_Bu_14525_0104_a2-L23_08.jpg",
+    "line": 3159,
+    "doc_line": 210
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Rzgow",
+    "page": 9,
+    "page_id": "0106_a2",
+    "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
+    "line": 3172,
+    "doc_line": 222
+   },
+   {
+    "uid": "oe1bu14525-23",
+    "surface": "Rzgow",
+    "page": 10,
+    "page_id": "0108_a2",
+    "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
+    "line": 3185,
+    "doc_line": 234
+   }
+  ]
+ },
+ {
   "entity": "szarcz",
   "display": "Szarcz (Schartzig)",
   "count": 17,
@@ -53039,6 +53208,63 @@
     "scan": "Oe_1_Bu_9454_0511_a1-L282_02.jpg",
     "line": 20066,
     "doc_line": 57
+   }
+  ]
+ },
+ {
+  "entity": "grodziec",
+  "display": "Grodziec",
+  "count": 5,
+  "documents": [
+   "app539680669-1",
+   "app539680669-2",
+   "app539680716-8"
+  ],
+  "mentions": [
+   {
+    "uid": "app539680716-8",
+    "surface": "Grodziec",
+    "page": 7,
+    "page_id": "5174_a1",
+    "scan": "APP_53_968_0_716_5174_a1-L8_07.jpg",
+    "line": 336,
+    "doc_line": 58
+   },
+   {
+    "uid": "app539680716-8",
+    "surface": "Grodziec",
+    "page": 8,
+    "page_id": "5174_a2",
+    "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
+    "line": 356,
+    "doc_line": 77
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Grodziec",
+    "page": 4,
+    "page_id": "0003_a1",
+    "scan": "APP_53_968_0_669_0003_a1-L1_04.jpg",
+    "line": 40,
+    "doc_line": 35
+   },
+   {
+    "uid": "app539680669-1",
+    "surface": "Grodziec",
+    "page": 5,
+    "page_id": "0003_a2",
+    "scan": "APP_53_968_0_669_0003_a2-L1_05.jpg",
+    "line": 55,
+    "doc_line": 49
+   },
+   {
+    "uid": "app539680669-2",
+    "surface": "Grodziec",
+    "page": 1,
+    "page_id": "5192_a",
+    "scan": "APP_53_968_0_669_5192_a-L2_01.jpg",
+    "line": 545,
+    "doc_line": 1
    }
   ]
  },

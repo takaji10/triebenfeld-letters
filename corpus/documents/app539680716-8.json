@@ -206,7 +206,30 @@
  "mentions": [],
  "mentions_english": [],
  "place_canonical": "Orlin",
- "place_mentions": [],
+ "place_mentions": [
+  {
+   "entity": "grodziec",
+   "display": "Grodziec",
+   "kind": "place",
+   "surface": "Grodziec",
+   "page": 7,
+   "page_id": "5174_a1",
+   "scan": "APP_53_968_0_716_5174_a1-L8_07.jpg",
+   "line": 336,
+   "doc_line": 58
+  },
+  {
+   "entity": "grodziec",
+   "display": "Grodziec",
+   "kind": "place",
+   "surface": "Grodziec",
+   "page": 8,
+   "page_id": "5174_a2",
+   "scan": "APP_53_968_0_716_5174_a2-L9_01.jpg",
+   "line": 356,
+   "doc_line": 77
+  }
+ ],
  "translation_status": "draft",
  "translation": [
   {

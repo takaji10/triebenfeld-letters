@@ -604,6 +604,17 @@
  "place_canonical": "Łazińsk",
  "place_mentions": [
   {
+   "entity": "grodziec",
+   "display": "Grodziec",
+   "kind": "place",
+   "surface": "Grodziec",
+   "page": 1,
+   "page_id": "5192_a",
+   "scan": "APP_53_968_0_669_5192_a-L2_01.jpg",
+   "line": 545,
+   "doc_line": 1
+  },
+  {
    "entity": "russland",
    "display": "Russland",
    "kind": "place",

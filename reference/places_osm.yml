@@ -729,3 +729,13 @@
   lon: 12.33459
   query: "Venezia, Italia"
   found: "Venezia, Veneto, 30121-30176, Italia"
+"Grodziec":
+  lat: 52.03845
+  lon: 18.06005
+  query: "Grodziec, powiat koniński, Polska"
+  found: "Grodziec, gmina Grodziec, Konin County, Greater Poland Voivodeship, 62-580, Poland (looked up 2026-10-21; 8 km south-west of Rychwał, as the Encyclopedia of Camps and Ghettos has it)"
+"Rzgów":
+  lat: 52.15358
+  lon: 18.05118
+  query: "Rzgów, powiat koniński, Polska"
+  found: "Rzgów, gmina Rzgów, Konin County, Greater Poland Voivodeship, 62-586, Poland (looked up 2026-10-21; about 10 km east of Zagórów, as Oe 1 Bü 14525, doc. 23 has the parish 1 1/4 miles from it)"

@@ -1476,6 +1476,19 @@ cloud branches").
   letter of the result against the PDF: it caught a lost backreference at
   once. Read the licence on the cover page: CC BY-NC-ND allows no
   translation.
+- **A new place, and an estate in focus** (2026-10-21, Grodziec and
+  Rzgów). A place in `reference/places.yml` is found in the documents and
+  the literature by its `match`; it shows on the Places page only as an
+  estate in focus, which comes from the per-document tags under
+  `documents: estates:` in a holding's `rulings.yml` ("concerns", not
+  "names"). Tag by reading each document, as for the neighbours already
+  tagged on it; then `build_db.py --unit <slug>` for each tagged holding,
+  `merge_corpus.py`, `build_dataset.py`, and the literature and site steps.
+  Search the documents with Python, not `grep -E '\b...'`: grep's word
+  boundary misses words with Polish letters ("Rzgów" in Konin Gr.117,
+  doc. 12 was found only by the build). Look a place up on Nominatim from
+  Python (urllib): the shell mangles "ó" in a curl query and the search
+  returns nothing.
 - **A work with no page breaks** (an online edition) is cut at headings
   (`chapter: '^# '`); where the edition numbers its items, the headings are
   those numbers ("# 2.976.177-182"), so each passage can be found online.

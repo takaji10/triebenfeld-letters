@@ -358,12 +358,23 @@ read, translate and summarise.
   pages the editor named (added 2026-10-21, not published;
   `literature/dean2012warthegau/notes.md`).
   - **How much bears on the edition** is the editor's to say (their words:
-    "remains to be seen"). Offered: places for Grodziec and Rzgów in the
-    index (the edition has Breyer's notebook of Grodziec, 1936), and links.
+    "remains to be seen"). Offered: links. Grodziec and Rzgów were added as
+    places (editor, 2026-10-21); see "The places Grodziec and Rzgów".
   - **The licence** (CC BY-NC-ND 4.0) allows sharing for no commercial end
     with the credit, and no adaptation: so no German translation, and the
     pictures (lenders' credits) are left out. For the editor to know before
     the site is shared widely.
+  **The places Grodziec and Rzgów** (added 2026-10-21 at the editor's word,
+  `reference/places.yml`). Rzgów is tagged an estate in focus on the
+  documents that concern it: the Kodeks entries of 1261 and 1280 (KDW 4
+  and 6, where it is granted with Szetlew and Świątniki, which are tagged
+  there) and the dispute of 1779 with its owner Marcin Nosalski (Konin
+  Gr.117, docs 11 and 12); the table of villages, the hearth tax and the
+  valuation of Szetlewek only name it. Grodziec is found in Breyer's
+  notebooks of 1936 and his notes of 1935, but no document is about it, so
+  it is not an estate in focus and the Places page (estates in focus only,
+  editor 2026-10-04) does not list it: **for the editor**, whether it should
+  be listed all the same.
   Decided in session, not asked: whole pages are taken, so the neighbouring
   entries' ends and beginnings stand with them; the PDF is not kept (its
   page feet carry the download's internet address). Settled by the editor:

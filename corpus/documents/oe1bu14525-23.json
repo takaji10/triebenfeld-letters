@@ -983,6 +983,17 @@
    "doc_line": 14
   },
   {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgow",
+   "page": 1,
+   "page_id": "0091_b",
+   "scan": "Oe_1_Bu_14525_0091_b-L23_01.jpg",
+   "line": 2957,
+   "doc_line": 15
+  },
+  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -1025,6 +1036,17 @@
    "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
    "line": 2969,
    "doc_line": 26
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgow",
+   "page": 2,
+   "page_id": "0092_a2",
+   "scan": "Oe_1_Bu_14525_0092_a2-L23_02.jpg",
+   "line": 2970,
+   "doc_line": 27
   },
   {
    "entity": "szetlewek",
@@ -1192,6 +1214,17 @@
    "doc_line": 209
   },
   {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgow",
+   "page": 8,
+   "page_id": "0104_a2",
+   "scan": "Oe_1_Bu_14525_0104_a2-L23_08.jpg",
+   "line": 3159,
+   "doc_line": 210
+  },
+  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -1214,6 +1247,17 @@
    "doc_line": 221
   },
   {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgow",
+   "page": 9,
+   "page_id": "0106_a2",
+   "scan": "Oe_1_Bu_14525_0106_a2-L23_09.jpg",
+   "line": 3172,
+   "doc_line": 222
+  },
+  {
    "entity": "szetlewek",
    "display": "Szetlewek",
    "kind": "place",
@@ -1234,6 +1278,17 @@
    "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
    "line": 3184,
    "doc_line": 233
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgow",
+   "page": 10,
+   "page_id": "0108_a2",
+   "scan": "Oe_1_Bu_14525_0108_a2-L23_10.jpg",
+   "line": 3185,
+   "doc_line": 234
   },
   {
    "entity": "ingelfingen",

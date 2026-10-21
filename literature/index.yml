@@ -384,6 +384,23 @@ places:
     Drzewiecki: "no: a surname in the list of the Pyzdry Olęders (Chodyła 2015)"
   glazewo: {Gloszewo: yes}
   heilbronn: {Heilbronn: yes}
+  grodziec:
+    # Added as a place 2026-10-21 (editor). Every hit read: the village near
+    # Rychwał, its Catholic and Lutheran parishes, the estate ("dóbr Grójca
+    # (Grodźca)", Chodyła 2015) and the modern commune ("koniński Grodziec");
+    # Breyer (1935, 1938) on its Lutheran congregation and colonies; the
+    # hamlet ghetto of 1940-1941 (Encyclopedia of Camps and Ghettos 2012).
+    Grodziec: yes
+    Grodźca: yes
+    Grodźcu: yes
+  rzgow:
+    # Added as a place 2026-10-21 (editor). Every hit read: the village of the
+    # Ląd privilege of 1261 ("Rzgowo cum sanctuariis", Breyer 1938), the
+    # commune ("koniński Rzgów", Chodyła 2015; Szwiec 2009), the hamlet ghetto
+    # of 1940-1941, "17 kilometers southwest of Konin" (Encyclopedia of Camps
+    # and Ghettos 2012).
+    Rzgów: yes
+    Rzgowo: yes
   imielno:
     # Chodyła (2015): the Olęder settlement Imielno in the parish of Zagórów,
     # on the Łukom estate: the edition's Imielno, Łukom's neighbour.

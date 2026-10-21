@@ -29,7 +29,8 @@
  "duplicate_of": "",
  "relations": [],
  "estates": [
-  "trabczyn"
+  "trabczyn",
+  "rzgow"
  ],
  "is_missing": 0,
  "n_lines": 3,
@@ -104,6 +105,28 @@
    "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kolno",
+   "page": 1,
+   "page_id": "0272_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+   "line": 63,
+   "doc_line": 3
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgowa",
+   "page": 1,
+   "page_id": "0272_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",
+   "line": 63,
+   "doc_line": 3
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgów",
    "page": 1,
    "page_id": "0272_a2",
    "scan": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg",

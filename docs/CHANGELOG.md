@@ -2154,6 +2154,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Made from the editor's JSTOR PDF by `pipeline/literature/warthegau_pdf.py`: the Polish letters from the accent font, the spaces of no width dropped, line-end hyphens told apart by the space the text layer keeps after a real one, notes linked within each entry, web addresses joined. `--check` compares every letter with the PDF. "Betchatów" corrected to Bełchatów at the editor's word. The PDF is not kept: its page feet carry the download's internet address.
 - Index rulings: Koppe and Reinhardt are not the edition's; "Konińska", "Konińskiej" and Słupca are. No hand-made links yet. The literature has 19 works, 18 on the site.
 
+## The places Grodziec and Rzgów (2026-10-21, not published)
+
+- Two places added at the editor's word (`reference/places.yml`, with their map positions in `reference/places_osm.yml`, looked up on OpenStreetMap and read against the sources). **Rzgów** ("Rzgowo" 1261, "Irgouo" 1280, both the Rzgów east of Zagórów by the Kodeks editors' note) is found in seven documents and tagged an estate in focus on four that concern it: KDW 4 and 6 (granted with Szetlew and Świątniki) and Konin Gr.117, docs 11 and 12 (the pines cut by its subjects in 1779 and its owner Marcin Nosalski's protest). **Grodziec** is found in Breyer's notebooks of 1936 and his notes of 1935; no document is about it, so it is not an estate in focus.
+- In the literature, all 122 hits read and ruled (Chodyła, Breyer, Szwiec, the Encyclopedia of Camps and Ghettos): every one is the Grodziec near Rychwał or the Rzgów near Konin.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

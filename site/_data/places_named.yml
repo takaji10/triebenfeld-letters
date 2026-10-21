@@ -493,6 +493,14 @@
   docs: 7
   span: "1806–1815"
   letters: [{id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/", n: 1}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/", n: 1}, {id: "37", uid: "oe1bu9454-37", url: "/documents/oe1bu9454/37/", n: 1}, {id: "40", uid: "oe1bu9454-40", url: "/documents/oe1bu9454/40/", n: 3}, {id: "244", uid: "oe1bu9454-244", url: "/documents/oe1bu9454/244/", n: 1}, {id: "287", uid: "oe1bu9454-287", url: "/documents/oe1bu9454/287/", n: 1}]
+- slug: "rzgow"
+  name: "Rzgów"
+  count: 17
+  lat: 52.15358
+  lon: 18.05118
+  docs: 7
+  span: "1261–1803"
+  letters: [{id: "4", uid: "kdw-4", url: "/documents/kdw/4/", n: 3}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/", n: 4}, {id: "11", uid: "app53170koningr117-11", url: "/documents/app53170koningr117/11/", n: 2}, {id: "12", uid: "app53170koningr117-12", url: "/documents/app53170koningr117/12/", n: 1}, {id: "1", uid: "app53640kalisztab21-1", url: "/documents/app53640kalisztab21/1/", n: 1}, {id: "1", uid: "agad1169011745-1", url: "/documents/agad1169011745/1/", n: 1}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/", n: 5}]
 - slug: "silna"
   name: "Silna"
   count: 7
@@ -801,6 +809,14 @@
   docs: 3
   span: "1815"
   letters: [{id: "279", uid: "oe1bu9454-279", url: "/documents/oe1bu9454/279/", n: 2}, {id: "4", uid: "oe1bu9454-4", url: "/documents/oe1bu9454/4/", n: 2}, {id: "282", uid: "oe1bu9454-282", url: "/documents/oe1bu9454/282/", n: 1}]
+- slug: "grodziec"
+  name: "Grodziec"
+  count: 5
+  lat: 52.03845
+  lon: 18.06005
+  docs: 3
+  span: "1935–1936"
+  letters: [{id: "8", uid: "app539680716-8", url: "/documents/app539680716/8/", n: 2}, {id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 2}, {id: "2", uid: "app539680669-2", url: "/documents/app539680669/2/", n: 1}]
 - slug: "karczyn"
   name: "Karczyn"
   count: 3

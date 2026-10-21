@@ -154,6 +154,43 @@ places:
     tier: "Text-confirmed"
     variants: []
 
+  rzgow:
+    # Rzgów, east of Zagórów in the district of Konin (added at the editor's
+    # word, 2026-10-21). In the Kodeks Dyplomatyczny Wielkopolski one of the
+    # villages granted with Szetlew and Świątniki: "Rzgowo" in 1261, which the
+    # editors gloss Rzgów, and "Irgouo" in 1280 (their note: "Rzgów na
+    # pn.-wsch. od Szetlewa. Świątniki tuż na zach. od Rzgowa"). Its subjects
+    # cut pines in the Trąbczyn woods in 1779 (Konin Gr.117, doc. 11); the
+    # estate of Szetlewek lay in its parish (Oe 1 Bü 14525, doc. 23); it is
+    # in the hearth tax of 1789 and the table of villages of about 1797; and
+    # in 1940-1941 one of the "hamlet ghettos" of Kreis Konin (the
+    # Encyclopedia of Camps and Ghettos, 2012). Not Rzgów near Łódź.
+    # The adjective (rzgowski) is not matched.
+    display: "Rzgów"
+    kind: village
+    medieval:
+      - "1261: Rzgowo"
+      - "1280: Irgouo"
+    match: 'Rzg[oó]w(?:a|ie|em|u)?(?![a-zà-ÿ])|Rzgowo(?![a-zà-ÿ])|Irgouo'
+    tier: "Text-confirmed"
+    variants: []
+
+  grodziec:
+    # Grodziec, south-west of Rychwał in the district of Konin (added at the
+    # editor's word, 2026-10-21). Albert Breyer's notebook of July 1936 has
+    # "V. Grodziec Juli 1936" on its cover (APP 53/968/0/-/669, doc. 2), and
+    # his notes of 1935 name the German settlers of Grodziec (APP
+    # 53/968/0/-/716, doc. 8); in 1940-1941 one of the "hamlet ghettos" of
+    # Kreis Konin, "Grossdorf" to the Germans (the Encyclopedia of Camps and
+    # Ghettos, 2012). Polish case forms Grodźca, Grodźcu, Grodźcem; the
+    # adjective (Grodzieckie Olędry, a colony named after it) is not matched.
+    # Not one of the estates in focus: no document is about it.
+    display: "Grodziec"
+    kind: village
+    match: 'Grod(?:ziec|źc(?:a|u|em))(?![a-zà-ÿ])'
+    tier: "Text-confirmed"
+    variants: []
+
   zagorowo:
     # The register gives Zagórów / Zagórowo / Zagurowo. The edition printed
     # Zagorowo, the corpus dateline form, until the editor ruled on 2026-09-15

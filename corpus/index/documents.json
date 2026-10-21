@@ -158,11 +158,12 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 7,
+  "places_named": 8,
   "estates": [
    "lad",
    "szetlew",
    "swiatniki",
+   "rzgow",
    "zagorowo",
    "skokum",
    "olesnica",
@@ -246,11 +247,12 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "lad",
    "szetlew",
-   "swiatniki"
+   "swiatniki",
+   "rzgow"
   ],
   "translation_status": "draft",
   "has_summary": true,
@@ -3670,9 +3672,10 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
-   "trabczyn"
+   "trabczyn",
+   "rzgow"
   ],
   "translation_status": "draft",
   "has_summary": true,
@@ -3716,9 +3719,10 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
-   "trabczyn"
+   "trabczyn",
+   "rzgow"
   ],
   "translation_status": "draft",
   "has_summary": true,
@@ -5820,7 +5824,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -6344,7 +6348,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 11,
+  "places_named": 12,
   "estates": [
    "trabczyn"
   ],
@@ -11390,7 +11394,7 @@
   "has_damage": true,
   "rough_transcription": false,
   "mentions": 5,
-  "places_named": 10,
+  "places_named": 11,
   "estates": [
    "szetlewek"
   ],
@@ -31825,7 +31829,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [],
   "translation_status": "draft",
   "has_summary": true,
@@ -32219,7 +32223,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 14,
+  "places_named": 15,
   "estates": [
    "trabczyn"
   ],
@@ -32380,7 +32384,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "trabczyn"
   ],

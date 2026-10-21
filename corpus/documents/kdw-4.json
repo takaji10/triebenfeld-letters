@@ -32,6 +32,7 @@
   "lad",
   "szetlew",
   "swiatniki",
+  "rzgow",
   "zagorowo",
   "skokum",
   "olesnica",
@@ -94,6 +95,17 @@
    "scan": "",
    "line": 27,
    "doc_line": 3
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgowo",
+   "page": 1,
+   "page_id": "0004_a",
+   "scan": "",
+   "line": 28,
+   "doc_line": 4
   },
   {
    "entity": "skokum",
@@ -166,6 +178,28 @@
    "display": "Oleśnica (Olesnice)",
    "kind": "place",
    "surface": "Oleśnica",
+   "page": 1,
+   "page_id": "0004_a",
+   "scan": "",
+   "line": 29,
+   "doc_line": 5
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgowo",
+   "page": 1,
+   "page_id": "0004_a",
+   "scan": "",
+   "line": 29,
+   "doc_line": 5
+  },
+  {
+   "entity": "rzgow",
+   "display": "Rzgów",
+   "kind": "place",
+   "surface": "Rzgów",
    "page": 1,
    "page_id": "0004_a",
    "scan": "",
