@@ -39,14 +39,14 @@
   ownership_de: "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, ein preußischer General, dem der König das Gut schenkte. 1796 bis 1807"
 - slug: "restitution"
   order: 3
-  status: "unpopulated"
-  count: 0
-  first: ""
-  last: ""
+  status: "populated"
+  count: 1
+  first: "1834"
+  last: "1834"
   label_en: "The Miączyńska restitution"
   label_de: "Die Restitution der Miączyńska"
-  blurb_en: "The daughter of the last Polish owner recovered the estates in 1807 through the governing commission of the Duchy of Warsaw, and spent the next thirty years in court over what was left of them. The documents are in Warsaw and Berlin and have not yet been added here."
-  blurb_de: "Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch die Regierungskommission des Herzogtums Warschau zurück. Die Akten liegen in Warschau und Berlin und sind hier noch nicht erfasst."
+  blurb_en: "The daughter of the last Polish owner recovered the estates in 1807 through the governing commission of the Duchy of Warsaw, and spent the next thirty years in court over what was left of them. The report of 1834 in which the Instruction Commission of the Council of State of the Kingdom of Poland weighed the conflict of jurisdiction over the Trąbczyn mortgage is in Warsaw and is here; the further documents of the dispute are in Warsaw and Berlin."
+  blurb_de: "Die Tochter des letzten polnischen Besitzers erhielt die Güter 1807 durch die Regierungskommission des Herzogtums Warschau zurück und verbrachte die folgenden dreißig Jahre mit Prozessen um das, was von ihnen übrig war. Der Bericht von 1834, in dem die Instruktionskommission des Staatsrats des Königreichs Polen den Kompetenzkonflikt um die Trąbczyner Hypothek abwog, liegt in Warschau und ist hier; die weiteren Akten des Streits liegen in Warschau und Berlin."
   ownership_en: "Michalina Prusimska, married name Dąbska and later Miączyńska, the daughter of the last Polish owner. 1807 onward"
   ownership_de: "Michalina Prusimska, verheiratet Dąbska, später Miączyńska, die Tochter des letzten polnischen Besitzers. ab 1807"
 - slug: "wlodzimierz"

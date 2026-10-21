@@ -252,6 +252,15 @@ some cut short). "In" means already in the edition.
 | Klage der Gräfin Michalina von Miac... (two) | both in: III. HA MdA, III. Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832), placed in the Hohenlohe era for now | VIII; the editor to confirm the era (Hohenlohe or restitution) |
 | Miaczynska compensation for confisc... | to add | VI or VII, or the restitution era: confirm |
 
+Also in, from the AGAD side (2026-10-21): **1/185/0/1/169** (II Rada Stanu
+Królestwa Polskiego), the Instruction Commission's report of 28 October 1834
+on the Weigel/Miączyńska conflict of jurisdiction — the first holding of the
+restitution era (`restitution`). It adds to section VIII the authorisation of
+the conflict (4 October 1829), its laying before the Council of State (July
+1830) and the report advising that the demand be set aside (28 October 1834);
+the section was rewritten accordingly, in both languages, and its span now
+runs to 1834.
+
 ## When a holding is added
 
 1. Assign its era (`units/<slug>/unit.yml`, `era:`), using the boundary
