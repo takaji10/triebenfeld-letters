@@ -242,7 +242,8 @@ read, translate and summarise.
     dispatch from Venice of 14 December 1796 (I. HA GR, Rep. 7 C, Nr. 1414,
     document 2) already speaks of Prusimski's grief at his wife's death. If
     it is the same death, she died in 1796 or earlier, and Żychliński's year
-    is wrong. The link `zychlinski1891-maryanna` says so on the site.
+    is wrong. **Settled by the rule of 2026-10-21**: the edition keeps to the
+    dispatch. The link `zychlinski1891-maryanna` says so on the site.
   - **Who held Trąbczyn, 1809 to 1879.** Żychliński (1891, pp. 221-222):
     Michalina made her estates over to Stanisław in 1809; he passed Trąbczyn
     to his son Mieczysław before 1845, and Włodzimierz bought it from
@@ -255,7 +256,7 @@ read, translate and summarise.
   - **Paweł Prusimski's generation.** Żychliński (1885, p. 187) makes Paweł
     Apollo, the chamberlain, Krzysztof's brother; the PSB and the inspection
     of 1754 make the chamberlain the Starost's uncle, a generation lower.
-    The edition follows the documents; Żychliński is very likely wrong.
+    The edition follows the documents (settled by the rule of 2026-10-21).
   - **Claude's identifications, not yet accepted** (`literature/index.yml`):
     the Wieniec
     that Stanisław and Mieczysław Miączyński held (Żychliński 1891) is the
@@ -289,18 +290,36 @@ read, translate and summarise.
     223) is not listed on his page under "In the literature". To be added
     if the editor wants it.
   **Chodyła (2015)**, the Olęder settlements of the Pyzdry Forest 1746-1793
-  (added 2026-10-21, not published; `literature/chodyla2015/notes.md`). Two
-  of its details differ from the edition's documents; the edition keeps to
-  the documents:
+  (added and published 2026-10-21; `literature/chodyla2015/notes.md`). Where
+  it differs from the edition's documents, the edition takes the documents:
+  **settled by the editor's rule of 2026-10-21** (HOUSE_STYLE, "The
+  documents first"); recorded here so that no later sitting takes the
+  book's version. The hand-made links `chodyla2015-*` say each on the site.
   - **The owner of Trąbczyn in 1860.** The book (note 34) has the colonists
     of 1860 at law with "hr. Władysław Miączyński"; the summons it cites
     (APP 53/968/0/-/783) is at the request of Count Włodzimierz Miączyński.
-    The book is very likely wrong (Władysław was heir after 1879, the
+    The edition keeps Włodzimierz (Władysław was heir after 1879, the
     editor, 2026-10-15).
   - **The sitting of 1782.** The book (note 34) has the commission sit "on
     17 October 1782 in the house of the Olęder Marcin Hunt"; in the edition
     (Konin Gr.153) 17 October 1782 is the Crown Tribunal's decree, and the
-    commission sat in Hunt's house from 28 November.
+    commissary put Hunt into Prusimski's possession in Hunt's house on 28
+    November. The edition keeps the documents' dates.
+  - **The wood Lusina in 1754.** The book (p. 28) gives the inspection of
+    1754 twelve Olęders and an inn in the wood Lusina; the inspection (Konin
+    Gr.136) counts fifteen Olęders under Nowa Wieś and names no Lusina, no
+    twelve and no inn. Those are in the act of 1771 (Kalisz Gr.414).
+  - **Hearths in 1789.** The book (notes 44, 154) gives 3 hearths at Łazy,
+    10 for the Olędry Trąbczyńskie and 13 at Nowa Wieś from the hearth-tax
+    register (Kalisz Tab.21); the register gives sums of money, not hearths
+    (12 zł 15 gr, 35 zł, 12 zł 15 gr), and the book's counts follow from no
+    one rate. The edition gives the sums.
+  - **The date of the Prussian register.** The book dates AGAD General
+    Directorium Südpreussen 1745 to 1796; the pages carry no date and the
+    archive dates the volume 1797, which the edition keeps. Its figures
+    agree. The book reads "Łazy H." (5 houses) as the village Łazy under
+    Olęder law; the editor took that entry to be probably the Łazińskie
+    Olędry (2026-10-14), and that stands.
   - A word of its quotation from the inspection of 1754 (note 35): the book
     prints "drugi (!)", the edition reads "drudzy" (Konin Gr.136). Not a
     question: the edition keeps its reading.
@@ -308,9 +327,10 @@ read, translate and summarise.
   the Books folder, not from the editor's Word file (which has no pages and
   run-in note numbers), and checked against that file word by word; the
   editor's machine English is not used; the table of contents is left out;
-  39 pages are shown as pictures. Wanted: hand-made links from its pages on
-  1746, 1754, 1771 and 1782 to Konin Gr.145, Gr.136, Kalisz Gr.414, Konin
-  Gr.153 and the summons of 1860?
+  39 pages are shown as pictures. Six hand-made links written at the
+  editor's word (2026-10-21): 1746 (Konin Gr.145, the summons of 1860),
+  1754 (Gr.136), 1771 (Kalisz Gr.414), 1782 (Gr.153), the register of 1797
+  (AGAD 1/169/0/1/1745) and the hearth tax of 1789 (Kalisz Tab.21).
 
 ## Readings, Oe 1 Bü 9454
 

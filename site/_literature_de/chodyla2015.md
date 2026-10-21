@@ -721,6 +721,17 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 <span class="lit-note" id="n-en-35">35</span> The inspection of the Trąbczyn estate with the villages of Osiny, Łazy, Nowa Wieś, Olędry and Huta of 1754, made at the request of Katarzyna Prusimska, contains this information: "Wieś Nowa – – . Olędrów 15, szesnasta huba próżna, jedni się pobudowali dobrze, drugi (!) tylko budy w ziemi mają" [Nowa Wieś – – . 15 Olęders, the sixteenth huba empty; some have built well, others (!) have only huts in the ground]; [in the Trąbczyn woods] "Zaś mimo Łazów i Osin między Hutą, gdzie najpiękniejsze drzewo było, i tam powycinane same też wybirki stoją. Także i dęby w lasach stojące dotychczas same też wybirki stoją tylko, gdyż olędry pozabirali hubami, gdzie piękniejsze drzewo było, wydzielonymi z dawna każdemu z nich" [And past Łazy and Osiny, by Huta, where the finest timber was, it has been cut there too, and only the culls stand. Of the oaks standing in the woods, too, only the culls stand so far, for the Olęders took them in hubas, where the finer timber was, allotted long ago to each of them].), APP, Konin. Gr. 136 (1754), fol. 122v, *oblata* (below: obl.) 12 VII 1754; the same in Der., *Materiały do dziejów chłopa*, vol. III, pp. 12-13.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) setzt die ältesten Olęder-Siedlungen der Pyzdry-Heide, die Trąbczyńskie Stare Olędry und die Luśnie Olędry, in das Jahr 1746, gegründet von Paweł und Katarzyna Prusimski mit einem nicht erhaltenen Privileg, und zeigt als Beleg zwei Blätter des Grenzdekrets (Konin Gr.145, Bl. 681 und 692). Das Dekret sagt, der Onkel Antoni Prusimskis habe auf den Wäldern Miąsykąt, Dziadulina und Luśnie, die sich vom Stawisko gegen Czarny Bród ziehen, Holländer angesiedelt, „wie es die ihnen 1746 verliehenen Rechte bezeugen“; Katarzyna nennt es nicht. Die Vorladung von 1860, die das Buch ebenfalls anführt, nennt beide Verleiher: „Paweł z Kolna Prusiński“ und seine Frau Katarzyna z Rozdrażewskich. Das Buch nennt das Dekret das von 1776, dem Jahr seiner Eintragung in die Gerichtsbücher; die Kommission tagte seit dem 13. September 1775. Nach dem Buch (Anm. 34) stritten die Kolonisten 1860 mit Graf Władysław Miączyński; die Vorladung erging auf Antrag des Grafen Włodzimierz Miączyński, und die Edition folgt der Vorladung.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a></p>
+<p>Chodyła (2015) zitiert die Besichtigung des Gutes Trąbczyn, 1754 auf Antrag Katarzyna Prusimskas vorgenommen (Konin Gr.136): fünfzehn Olęder, die sechzehnte Hufe leer, die einen gut gebaut, die anderen nur mit Erdhütten, und die Eichen, die die Olęder mit den jedem von ihnen längst zugeteilten Hufen genommen hätten. Die Transkription der Edition, datiert vom 9. Juli 1754, hat dieselben Worte bis auf eines: sie liest „drudzy“, wo das Buch „drugi (!)“ druckt. Die Besichtigung zählt die fünfzehn Olęder unter Nowa Wieś („Wieś Nowa“) und nennt weder den Wald Lusina noch die zwölf Olęder und die Schenke, die das Buch (S. 28) dazu angibt; diese stehen in der Urkunde von 1771 (Kalisz Gr.414).</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, Dokument 1 (12. Juli 1754)</a></p>
+<p>Chodyła (2015) sagt, 1771 sei ein Teil des Gutes Trąbczyn mit der „unlängst“ im Wald Luśnie gegründeten Olęder-Siedlung durch gerichtliche Vollstreckung an Stanisław Chełmski von Łukomia übergeben worden, und sie habe damals zwölf Olęder und einen Schäfer gehabt. Die Urkunde vom 4. November 1771 in der Edition (Kalisz Gr.414) übergibt Chełmski den Wald „Luśnię“ und die „ufundowane niezbyt dawnym czasem“ Olędry, eine Schenke mit neuem Stall ohne Wirt und zwölf Personen mit Namen, darunter den Schäfer Brudzewski: Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz und Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, Dokument 1 (4. November 1771)</a></p>
+<p>Chodyła (2015, Anm. 34) führt ein Dekret des Kommissionsgerichts im Streit zwischen Antoni Prusimski und Stanisław Chełmski an, „am 17. Oktober 1782 im Haus des Olęders Marcin Hunt in den Trąmpczyńskie Olędry“ gehalten, das Hunts Hof dem Gut Trąbczyn Prusimskis zuschlug. In der Edition (Konin Gr.153) ist der 17. Oktober 1782 das Datum des Dekrets des Krontribunals in Petrikau, das Chełmski befahl, Hunt binnen sechs Wochen in Prusimskis Besitz zurückzugeben; der Kommissar Józef Łukaszewicz kam am 28. November 1782 in Hunts Haus und wies ihn in Prusimskis Besitz ein. Die Edition folgt den Daten der Dokumente.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 1 (28. November 1782)</a><a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 2 (28. November 1782)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-29">
@@ -736,6 +747,11 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (1) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 681.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) setzt die ältesten Olęder-Siedlungen der Pyzdry-Heide, die Trąbczyńskie Stare Olędry und die Luśnie Olędry, in das Jahr 1746, gegründet von Paweł und Katarzyna Prusimski mit einem nicht erhaltenen Privileg, und zeigt als Beleg zwei Blätter des Grenzdekrets (Konin Gr.145, Bl. 681 und 692). Das Dekret sagt, der Onkel Antoni Prusimskis habe auf den Wäldern Miąsykąt, Dziadulina und Luśnie, die sich vom Stawisko gegen Czarny Bród ziehen, Holländer angesiedelt, „wie es die ihnen 1746 verliehenen Rechte bezeugen“; Katarzyna nennt es nicht. Die Vorladung von 1860, die das Buch ebenfalls anführt, nennt beide Verleiher: „Paweł z Kolna Prusiński“ und seine Frau Katarzyna z Rozdrażewskich. Das Buch nennt das Dekret das von 1776, dem Jahr seiner Eintragung in die Gerichtsbücher; die Kommission tagte seit dem 13. September 1775. Nach dem Buch (Anm. 34) stritten die Kolonisten 1860 mit Graf Władysław Miączyński; die Vorladung erging auf Antrag des Grafen Włodzimierz Miączyński, und die Edition folgt der Vorladung.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-30">
@@ -751,6 +767,11 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (2) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 692.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) setzt die ältesten Olęder-Siedlungen der Pyzdry-Heide, die Trąbczyńskie Stare Olędry und die Luśnie Olędry, in das Jahr 1746, gegründet von Paweł und Katarzyna Prusimski mit einem nicht erhaltenen Privileg, und zeigt als Beleg zwei Blätter des Grenzdekrets (Konin Gr.145, Bl. 681 und 692). Das Dekret sagt, der Onkel Antoni Prusimskis habe auf den Wäldern Miąsykąt, Dziadulina und Luśnie, die sich vom Stawisko gegen Czarny Bród ziehen, Holländer angesiedelt, „wie es die ihnen 1746 verliehenen Rechte bezeugen“; Katarzyna nennt es nicht. Die Vorladung von 1860, die das Buch ebenfalls anführt, nennt beide Verleiher: „Paweł z Kolna Prusiński“ und seine Frau Katarzyna z Rozdrażewskich. Das Buch nennt das Dekret das von 1776, dem Jahr seiner Eintragung in die Gerichtsbücher; die Kommission tagte seit dem 13. September 1775. Nach dem Buch (Anm. 34) stritten die Kolonisten 1860 mit Graf Władysław Miączyński; die Vorladung erging auf Antrag des Grafen Włodzimierz Miączyński, und die Edition folgt der Vorladung.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, Dokument 1 (23. September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, Dokument 1 (19. Oktober 1860)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-31">
@@ -797,6 +818,11 @@ Before 1750 and in 1772 the Przespolewskie Ol. arose in the district of Kalisz, 
 <span class="lit-note" id="n-en-41">41</span> Rus. Inw. 2, Pt. I, p. 222 (decree of the commission court of 10 III 1779); the same in APP, Kalisz Gr. 433 (1779), fols. 199v and 202-202v.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) sagt, 1771 sei ein Teil des Gutes Trąbczyn mit der „unlängst“ im Wald Luśnie gegründeten Olęder-Siedlung durch gerichtliche Vollstreckung an Stanisław Chełmski von Łukomia übergeben worden, und sie habe damals zwölf Olęder und einen Schäfer gehabt. Die Urkunde vom 4. November 1771 in der Edition (Kalisz Gr.414) übergibt Chełmski den Wald „Luśnię“ und die „ufundowane niezbyt dawnym czasem“ Olędry, eine Schenke mit neuem Stall ohne Wirt und zwölf Personen mit Namen, darunter den Schäfer Brudzewski: Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz und Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, Dokument 1 (4. November 1771)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-32">
@@ -840,6 +866,13 @@ After 1765, and before 1793, the settlement of the Lisewskie Ol. (Olsz) was foun
 <span class="lit-note" id="n-en-45">45</span> ADWł., Wiz. 85, fols. 23 ff.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) führt das Häuser- und Einwohnerregister des Generaldirektoriums von Südpreußen an (AGAD, Nr. 1745), das es auf 1796 datiert: „Łazy H.“ mit 5 Häusern (S. 401), „Trąbczyn H.“ mit 34 Häusern und „Stara Huta Trąbczyn“ mit 2 (S. 406). Die Edition hat diese Seiten (AGAD 1/169/0/1/1745) mit denselben Zahlen: Nr. 150 „Haul. Lazy.“, 5 Häuser und 42 Menschen; Nr. 292, die Hauländerei von Trąpczyn, 34 Häuser und 271 Menschen, nach dem Dorf Trąpczyn mit 32; Nr. 283, Stara Huta von Trąpczyn, 2 Häuser. Die Seiten tragen kein Datum, das Archiv datiert den Band auf 1797; die Edition behält dieses Datum. Das Buch hält „Łazy H.“ für das Dorf Łazy unter Olęder-Recht; die Anmerkung der Edition zu diesem Eintrag (nach dem Herausgeber der Edition, 14.10.2026) hielt es für wahrscheinlich die Łazińskie Olędry.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/agad1169011745/1/' | relative_url }}">1/169/0/1/1745, Dokument 1 (1797)</a></p>
+<p>Chodyła (2015) zählt nach dem Register der Herdsteuer der Woiwodschaft Kalisch für die Johannisrate 1789 (Kalisz Tab.21, Bl. 20) 3 Herdstellen in Łazy, 10 für die „Olędry Trąbczyńskie“ und 13 in Nowa Wieś. Das Register der Edition gibt Geldsummen, keine Herdstellen: Trąpczyn 80 Złoty, Łazy 12 Złoty 15 Groschen, Nowa Wieś 12 Złoty 15 Groschen, „Olendry Trąbczynskie“ 35 Złoty. Die Herdstellen sind eine Rechnung des Buches und folgen nicht aus einem Satz: bei 2 Złoty 15 Groschen je Herdstelle, dem Satz dieser Blätter, ergeben die Summen 32 Herdstellen in Trąbczyn, je 5 in Łazy und Nowa Wieś und 14 für die Olędry (eine Rechnung, nicht im Register). Die Edition gibt die Summen, wie das Register sie hat.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">53/64/0/-/Kalisz Tab.21, Dokument 1 (1789)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-33">
@@ -2295,6 +2328,11 @@ In the Luśnie (Lusina) or Łukomskie Olędry, understood at first as a part of 
 <span class="lit-note" id="n-en-151">151</span> APP. Tab. 21. Kalisz. Table of the hearth tax of the districts of the voivodeship of Kalisz of 1789, fol. 18v.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) sagt, 1771 sei ein Teil des Gutes Trąbczyn mit der „unlängst“ im Wald Luśnie gegründeten Olęder-Siedlung durch gerichtliche Vollstreckung an Stanisław Chełmski von Łukomia übergeben worden, und sie habe damals zwölf Olęder und einen Schäfer gehabt. Die Urkunde vom 4. November 1771 in der Edition (Kalisz Gr.414) übergibt Chełmski den Wald „Luśnię“ und die „ufundowane niezbyt dawnym czasem“ Olędry, eine Schenke mit neuem Stall ohne Wirt und zwölf Personen mit Namen, darunter den Schäfer Brudzewski: Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz und Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, Dokument 1 (4. November 1771)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-84">
@@ -2365,6 +2403,15 @@ In the Cekowskie Nowe Olędry, or Prażuchy, also royal, founded in the years 17
 <span class="lit-note" id="n-en-160">160</span> APP. Pyzdry. Gr. 115, fol. 531v: "Holendry Stare Królewskie" – 9 "self-tilling" hearths.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In der Edition</p>
+<p>Chodyła (2015) zitiert die Besichtigung des Gutes Trąbczyn, 1754 auf Antrag Katarzyna Prusimskas vorgenommen (Konin Gr.136): fünfzehn Olęder, die sechzehnte Hufe leer, die einen gut gebaut, die anderen nur mit Erdhütten, und die Eichen, die die Olęder mit den jedem von ihnen längst zugeteilten Hufen genommen hätten. Die Transkription der Edition, datiert vom 9. Juli 1754, hat dieselben Worte bis auf eines: sie liest „drudzy“, wo das Buch „drugi (!)“ druckt. Die Besichtigung zählt die fünfzehn Olęder unter Nowa Wieś („Wieś Nowa“) und nennt weder den Wald Lusina noch die zwölf Olęder und die Schenke, die das Buch (S. 28) dazu angibt; diese stehen in der Urkunde von 1771 (Kalisz Gr.414).</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, Dokument 1 (12. Juli 1754)</a></p>
+<p>Chodyła (2015) führt das Häuser- und Einwohnerregister des Generaldirektoriums von Südpreußen an (AGAD, Nr. 1745), das es auf 1796 datiert: „Łazy H.“ mit 5 Häusern (S. 401), „Trąbczyn H.“ mit 34 Häusern und „Stara Huta Trąbczyn“ mit 2 (S. 406). Die Edition hat diese Seiten (AGAD 1/169/0/1/1745) mit denselben Zahlen: Nr. 150 „Haul. Lazy.“, 5 Häuser und 42 Menschen; Nr. 292, die Hauländerei von Trąpczyn, 34 Häuser und 271 Menschen, nach dem Dorf Trąpczyn mit 32; Nr. 283, Stara Huta von Trąpczyn, 2 Häuser. Die Seiten tragen kein Datum, das Archiv datiert den Band auf 1797; die Edition behält dieses Datum. Das Buch hält „Łazy H.“ für das Dorf Łazy unter Olęder-Recht; die Anmerkung der Edition zu diesem Eintrag (nach dem Herausgeber der Edition, 14.10.2026) hielt es für wahrscheinlich die Łazińskie Olędry.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/agad1169011745/1/' | relative_url }}">1/169/0/1/1745, Dokument 1 (1797)</a></p>
+<p>Chodyła (2015) zählt nach dem Register der Herdsteuer der Woiwodschaft Kalisch für die Johannisrate 1789 (Kalisz Tab.21, Bl. 20) 3 Herdstellen in Łazy, 10 für die „Olędry Trąbczyńskie“ und 13 in Nowa Wieś. Das Register der Edition gibt Geldsummen, keine Herdstellen: Trąpczyn 80 Złoty, Łazy 12 Złoty 15 Groschen, Nowa Wieś 12 Złoty 15 Groschen, „Olendry Trąbczynskie“ 35 Złoty. Die Herdstellen sind eine Rechnung des Buches und folgen nicht aus einem Satz: bei 2 Złoty 15 Groschen je Herdstelle, dem Satz dieser Blätter, ergeben die Summen 32 Herdstellen in Trąbczyn, je 5 in Łazy und Nowa Wieś und 14 für die Olędry (eine Rechnung, nicht im Register). Die Edition gibt die Summen, wie das Register sie hat.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">53/64/0/-/Kalisz Tab.21, Dokument 1 (1789)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-85">

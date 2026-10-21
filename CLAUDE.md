@@ -19,7 +19,9 @@ files it points to.
   or any other source; where they disagree, the edition keeps to the
   document and the difference is flagged in `docs/NEEDS_CONFIRMATION.md`
   and recorded in the source's `notes.md` (HOUSE_STYLE, "The documents
-  first").
+  first"). Restated 2026-10-21: a date or fact from a document is taken over
+  a book's without asking; the flag records the difference so that it is
+  known.
 - The editor is `takaji10`. They do not read German: German text is written
   here, and checked by the claim check or by Claude, not by them.
 - `docs/WORKING_NOTES.md`: how the editor works, the mistakes already made
@@ -117,23 +119,24 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
-- **Chodyła (2015)** (`chodyla2015`, added 2026-10-21, **not published**):
+- **Chodyła (2015)** (`chodyla2015`, added and **published 2026-10-21**):
   the history of the 58 Olęder settlements of the Pyzdry Forest 1746-1793,
   the Trąbczyn colonies first among them. The text is made from the book's
   PDF in the editor's Books folder (`pipeline/literature/chodyla_pdf.py`),
   not from the editor's Word file, and checked against it word by word;
   Claude's English (the editor's machine English read and not used); 39
-  pages of pictures. Two details differ from the documents
-  (NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 13; the work's
-  `notes.md` first. The literature has 17 works, 16 on the site. Open: the
-  word to publish; links offered.
+  pages of pictures. Five details differ from the documents
+  (NEEDS_CONFIRMATION, settled: the documents are taken). Six hand-made
+  links to the court books and tables it cites. `docs/LITERATURE_PLAN.md`,
+  section 13; the work's `notes.md` first. The literature has 17 works, 16
+  on the site. Wąsicki (1953) was published with it.
 
-- **Wąsicki (1953)** (`wasicki1953`, added 2026-10-21, **not published**):
+- **Wąsicki (1953)** (`wasicki1953`, added 2026-10-21, **published 2026-10-21**):
   the article on Prussian colonisation in South Prussia 1793-1806 from
   Przegląd Zachodni, read from the scanned PDF, Claude's English, the
   sideways table and the plans as pictures. It names the Zagórów and
   Trąbczyn estates and the 1805 colonies (pp. 174-176, from Breyer).
-  `docs/LITERATURE_PLAN.md`, section 12. Open: the word to publish.
+  `docs/LITERATURE_PLAN.md`, section 12. Offered: a link to the lease of 1806.
 
 - **Three more works of the literature** (2026-10-20, **published 2026-10-20**):
   Pachoński (1973) on the Polish emigrés at Venice (its note 10 names the

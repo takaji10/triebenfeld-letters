@@ -721,6 +721,17 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 <span class="lit-note" id="n-en-35">35</span> The inspection of the Trąbczyn estate with the villages of Osiny, Łazy, Nowa Wieś, Olędry and Huta of 1754, made at the request of Katarzyna Prusimska, contains this information: "Wieś Nowa – – . Olędrów 15, szesnasta huba próżna, jedni się pobudowali dobrze, drugi (!) tylko budy w ziemi mają" [Nowa Wieś – – . 15 Olęders, the sixteenth huba empty; some have built well, others (!) have only huts in the ground]; [in the Trąbczyn woods] "Zaś mimo Łazów i Osin między Hutą, gdzie najpiękniejsze drzewo było, i tam powycinane same też wybirki stoją. Także i dęby w lasach stojące dotychczas same też wybirki stoją tylko, gdyż olędry pozabirali hubami, gdzie piękniejsze drzewo było, wydzielonymi z dawna każdemu z nich" [And past Łazy and Osiny, by Huta, where the finest timber was, it has been cut there too, and only the culls stand. Of the oaks standing in the woods, too, only the culls stand so far, for the Olęders took them in hubas, where the finer timber was, allotted long ago to each of them].), APP, Konin. Gr. 136 (1754), fol. 122v, *oblata* (below: obl.) 12 VII 1754; the same in Der., *Materiały do dziejów chłopa*, vol. III, pp. 12-13.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) dates the oldest Olęder settlements of the Pyzdry Forest, the Trąbczyńskie Stare Olędry and the Luśnie Olędry, to 1746, founded by Paweł and Katarzyna Prusimski by a charter that does not survive, and shows two folios of the boundary decree (Konin Gr.145, fols. 681 and 692) as the evidence. The decree says that the uncle of Antoni Prusimski settled Hollanders on the woods Miąsykąt, Dziadulina and Luśnie, which run from the Stawisko towards Czarny Bród, "as the rights granted them in 1746 attest"; it does not name Katarzyna. The summons of 1860, which the book also cites, names both grantors: "Paweł z Kolna Prusiński" and his wife Katarzyna z Rozdrażewskich. The book calls the decree that of 1776, the year it was entered in the court books; the commission sat from 13 September 1775. The book (note 34) has the colonists of 1860 at law with Count Władysław Miączyński; the summons was issued at the request of Count Włodzimierz Miączyński, and the edition follows the summons.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
+<p>Chodyła (2015) quotes the inspection of the Trąbczyn estate made at Katarzyna Prusimska's request in 1754 (Konin Gr.136): fifteen Olęders, the sixteenth huba empty, some well built and the others with only huts in the ground, and the oaks taken by the Olęders with the hubas long allotted to each of them. The edition's transcription of the inspection, dated 9 July 1754, has the same words but one: it reads "drudzy" where the book prints "drugi (!)". The inspection counts the fifteen Olęders under Nowa Wieś ("Wieś Nowa") and does not name the wood Lusina, the twelve Olęders or the inn that the book (p. 28) gives with it; those are in the act of 1771 (Kalisz Gr.414).</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a></p>
+<p>Chodyła (2015) says that in 1771 a part of the Trąbczyn estate, with the Olęder settlement founded "not very long ago" in the wood Luśnie, was handed over to Stanisław Chełmski of Łukomia by a court's execution, and that it then had twelve Olęders with a shepherd. The act of 4 November 1771 in the edition (Kalisz Gr.414) hands over to Chełmski the wood "Luśnię" and the Olędry "ufundowane niezbyt dawnym czasem", an inn with a new stable but no host, and twelve people by name, the shepherd Brudzewski among them: Michał Kinos, Chenryk Bedka, Jan and Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz and Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, document 1 (4 November 1771)</a></p>
+<p>Chodyła (2015, note 34) cites a decree of the commission court in the suit between Antoni Prusimski and Stanisław Chełmski, "held on 17 October 1782 in the house of the Olęder Marcin Hunt in the Trąmpczyńskie Olędry", ordering Hunt's farm joined to Prusimski's Trąbczyn estate. In the edition (Konin Gr.153) 17 October 1782 is the date of the Crown Tribunal's decree at Piotrków, which ordered Chełmski to restore Hunt to Prusimski's possession within six weeks; the commissary Józef Łukaszewicz came to Hunt's house on 28 November 1782 and put him into Prusimski's possession. The edition follows the documents' dates.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, document 1 (28 November 1782)</a><a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">53/17/0/-/Konin Gr.153, document 2 (28 November 1782)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-29">
@@ -736,6 +747,11 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (1) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 681.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) dates the oldest Olęder settlements of the Pyzdry Forest, the Trąbczyńskie Stare Olędry and the Luśnie Olędry, to 1746, founded by Paweł and Katarzyna Prusimski by a charter that does not survive, and shows two folios of the boundary decree (Konin Gr.145, fols. 681 and 692) as the evidence. The decree says that the uncle of Antoni Prusimski settled Hollanders on the woods Miąsykąt, Dziadulina and Luśnie, which run from the Stawisko towards Czarny Bród, "as the rights granted them in 1746 attest"; it does not name Katarzyna. The summons of 1860, which the book also cites, names both grantors: "Paweł z Kolna Prusiński" and his wife Katarzyna z Rozdrażewskich. The book calls the decree that of 1776, the year it was entered in the court books; the commission sat from 13 September 1775. The book (note 34) has the colonists of 1860 at law with Count Władysław Miączyński; the summons was issued at the request of Count Włodzimierz Miączyński, and the edition follows the summons.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-30">
@@ -751,6 +767,11 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (2) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 692.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) dates the oldest Olęder settlements of the Pyzdry Forest, the Trąbczyńskie Stare Olędry and the Luśnie Olędry, to 1746, founded by Paweł and Katarzyna Prusimski by a charter that does not survive, and shows two folios of the boundary decree (Konin Gr.145, fols. 681 and 692) as the evidence. The decree says that the uncle of Antoni Prusimski settled Hollanders on the woods Miąsykąt, Dziadulina and Luśnie, which run from the Stawisko towards Czarny Bród, "as the rights granted them in 1746 attest"; it does not name Katarzyna. The summons of 1860, which the book also cites, names both grantors: "Paweł z Kolna Prusiński" and his wife Katarzyna z Rozdrażewskich. The book calls the decree that of 1776, the year it was entered in the court books; the commission sat from 13 September 1775. The book (note 34) has the colonists of 1860 at law with Count Władysław Miączyński; the summons was issued at the request of Count Włodzimierz Miączyński, and the edition follows the summons.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-31">
@@ -797,6 +818,11 @@ Before 1750 and in 1772 the Przespolewskie Ol. arose in the district of Kalisz, 
 <span class="lit-note" id="n-en-41">41</span> Rus. Inw. 2, Pt. I, p. 222 (decree of the commission court of 10 III 1779); the same in APP, Kalisz Gr. 433 (1779), fols. 199v and 202-202v.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) says that in 1771 a part of the Trąbczyn estate, with the Olęder settlement founded "not very long ago" in the wood Luśnie, was handed over to Stanisław Chełmski of Łukomia by a court's execution, and that it then had twelve Olęders with a shepherd. The act of 4 November 1771 in the edition (Kalisz Gr.414) hands over to Chełmski the wood "Luśnię" and the Olędry "ufundowane niezbyt dawnym czasem", an inn with a new stable but no host, and twelve people by name, the shepherd Brudzewski among them: Michał Kinos, Chenryk Bedka, Jan and Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz and Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, document 1 (4 November 1771)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-32">
@@ -840,6 +866,13 @@ After 1765, and before 1793, the settlement of the Lisewskie Ol. (Olsz) was foun
 <span class="lit-note" id="n-en-45">45</span> ADWł., Wiz. 85, fols. 23 ff.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) cites the register of houses and population of the General Directory of South Prussia (AGAD, no. 1745), which it dates 1796: "Łazy H." with 5 houses (p. 401), and "Trąbczyn H." with 34 houses and "Stara Huta Trąbczyn" with 2 (p. 406). The edition has these pages (AGAD 1/169/0/1/1745), with the same figures: no. 150 "Haul. Lazy.", 5 houses and 42 people; no. 292, the Hauland of Trąpczyn, 34 houses and 271 people, after the village of Trąpczyn with 32; no. 283, Stara Huta of Trąpczyn, 2 houses. The pages carry no date, and the archive dates the volume 1797; the edition keeps that date. The book takes "Łazy H." for the village of Łazy under Olęder law; the edition's note on that entry (the editor, 2026-10-14) took it to be probably the Łazińskie Olędry.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/agad1169011745/1/' | relative_url }}">1/169/0/1/1745, document 1 (1797)</a></p>
+<p>Chodyła (2015) counts, from the register of the hearth tax of the Kalisz voivodeship for the Midsummer instalment of 1789 (Kalisz Tab.21, fol. 20), 3 hearths at Łazy, 10 for the "Olędry Trąbczyńskie" and 13 at Nowa Wieś. The register in the edition gives sums of money, not hearths: Trąpczyn 80 zł, Łazy 12 zł 15 gr, Nowa Wieś 12 zł 15 gr, "Olendry Trąbczynskie" 35 zł. The hearths are the book's reckoning and do not follow from one rate: at 2 zł 15 gr a hearth, the rate of these leaves, the sums give 32 hearths at Trąbczyn, 5 each at Łazy and Nowa Wieś and 14 for the Olędry (a calculation, not in the register). The edition gives the sums as the register has them.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">53/64/0/-/Kalisz Tab.21, document 1 (1789)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-33">
@@ -2295,6 +2328,11 @@ In the Luśnie (Lusina) or Łukomskie Olędry, understood at first as a part of 
 <span class="lit-note" id="n-en-151">151</span> APP. Tab. 21. Kalisz. Table of the hearth tax of the districts of the voivodeship of Kalisz of 1789, fol. 18v.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) says that in 1771 a part of the Trąbczyn estate, with the Olęder settlement founded "not very long ago" in the wood Luśnie, was handed over to Stanisław Chełmski of Łukomia by a court's execution, and that it then had twelve Olęders with a shepherd. The act of 4 November 1771 in the edition (Kalisz Gr.414) hands over to Chełmski the wood "Luśnię" and the Olędry "ufundowane niezbyt dawnym czasem", an inn with a new stable but no host, and twelve people by name, the shepherd Brudzewski among them: Michał Kinos, Chenryk Bedka, Jan and Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz and Wawrzyń Welner.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53150kaliszgr414/1/' | relative_url }}">53/15/0/-/Kalisz Gr.414, document 1 (4 November 1771)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-84">
@@ -2365,6 +2403,15 @@ In the Cekowskie Nowe Olędry, or Prażuchy, also royal, founded in the years 17
 <span class="lit-note" id="n-en-160">160</span> APP. Pyzdry. Gr. 115, fol. 531v: "Holendry Stare Królewskie" – 9 "self-tilling" hearths.
 
 </div>
+{% endraw %}<aside class="lit-links">
+<p class="lit-links-head">In the edition</p>
+<p>Chodyła (2015) quotes the inspection of the Trąbczyn estate made at Katarzyna Prusimska's request in 1754 (Konin Gr.136): fifteen Olęders, the sixteenth huba empty, some well built and the others with only huts in the ground, and the oaks taken by the Olęders with the hubas long allotted to each of them. The edition's transcription of the inspection, dated 9 July 1754, has the same words but one: it reads "drudzy" where the book prints "drugi (!)". The inspection counts the fifteen Olęders under Nowa Wieś ("Wieś Nowa") and does not name the wood Lusina, the twelve Olęders or the inn that the book (p. 28) gives with it; those are in the act of 1771 (Kalisz Gr.414).</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a></p>
+<p>Chodyła (2015) cites the register of houses and population of the General Directory of South Prussia (AGAD, no. 1745), which it dates 1796: "Łazy H." with 5 houses (p. 401), and "Trąbczyn H." with 34 houses and "Stara Huta Trąbczyn" with 2 (p. 406). The edition has these pages (AGAD 1/169/0/1/1745), with the same figures: no. 150 "Haul. Lazy.", 5 houses and 42 people; no. 292, the Hauland of Trąpczyn, 34 houses and 271 people, after the village of Trąpczyn with 32; no. 283, Stara Huta of Trąpczyn, 2 houses. The pages carry no date, and the archive dates the volume 1797; the edition keeps that date. The book takes "Łazy H." for the village of Łazy under Olęder law; the edition's note on that entry (the editor, 2026-10-14) took it to be probably the Łazińskie Olędry.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/agad1169011745/1/' | relative_url }}">1/169/0/1/1745, document 1 (1797)</a></p>
+<p>Chodyła (2015) counts, from the register of the hearth tax of the Kalisz voivodeship for the Midsummer instalment of 1789 (Kalisz Tab.21, fol. 20), 3 hearths at Łazy, 10 for the "Olędry Trąbczyńskie" and 13 at Nowa Wieś. The register in the edition gives sums of money, not hearths: Trąpczyn 80 zł, Łazy 12 zł 15 gr, Nowa Wieś 12 zł 15 gr, "Olendry Trąbczynskie" 35 zł. The hearths are the book's reckoning and do not follow from one rate: at 2 zł 15 gr a hearth, the rate of these leaves, the sums give 32 hearths at Trąbczyn, 5 each at Łazy and Nowa Wieś and 14 for the Olędry (a calculation, not in the register). The edition gives the sums as the register has them.</p>
+<p class="lit-links-docs"><a href="{{ '/documents/app53640kalisztab21/1/' | relative_url }}">53/64/0/-/Kalisz Tab.21, document 1 (1789)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-85">

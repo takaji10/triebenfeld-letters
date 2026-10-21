@@ -2120,15 +2120,18 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The Literature page lists the works by author (the editor): surname first, the title with the English title in italics under it, where it was published, its language.
 - The new works' index hits read and ruled; "Venise" made a default with one exception. The Hohenlohe essay links Pachoński's note 10 on the literature page. The Licences page says the modern works on the Literature page are outside CC BY.
 
-## The literature: Wąsicki (1953) on Prussian colonisation in South Prussia (2026-10-21, not published)
+## The literature: Wąsicki (1953) on Prussian colonisation in South Prussia (2026-10-21, published)
 
 - Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806", Przegląd Zachodni 1953, no. 9-10, pp. 137-179, at the editor's word: read from the scanned PDF page by page (its OCR not taken over), 101 notes, nine tables in the text; the sideways table of the Poznań department's colonies, the plans and a fold-out table of costs as pictures; Claude's English. It names the Hohenlohe estates of Zagórów and Trąbczyn and the colonies of 1805 on the Warta. Index hits read and ruled (Frankfurt am Main and the Warsaw domain office as exceptions to older rulings).
 
-## The literature: Chodyła (2015) on the Olęder settlements of the Pyzdry Forest (2026-10-21, not published)
+## The literature: Chodyła (2015) on the Olęder settlements of the Pyzdry Forest (2026-10-21, published)
 
 - Zbigniew Chodyła, *Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793* (Pyzdry 2015), at the editor's word. The editor's Word conversion has no pages and its note numbers run into the words, so the text is made from the book's PDF in their Books folder (`pipeline/literature/chodyla_pdf.py`), with its 156 printed pages, 369 notes on their pages, three tables as HTML and 39 pages of maps, charters and portraits as pictures, and checked word by word against the Word file. Claude's English, page by page; the tables by `literature/chodyla2015/make_english.py`. The editor's machine English was read and not used.
 - The book dates the founding of the Trąbczyńskie Stare Olędry and the Luśnie Olędry to 1746 (Paweł and Katarzyna Prusimski) from Konin Gr.145, and cites Konin Gr.136, Gr.153, Kalisz Gr.414, the hearth-tax table of 1789, the register of 1796 and the summons of 1860, all in the edition. Two of its details differ from those documents (NEEDS_CONFIRMATION).
 - Index hits read and ruled: the Polish case forms of Antoni, Paweł and Katarzyna Prusimski added for the literature; "Poniatowskiego" (here the King, not Prince Józef), "Przespolewski" and "Oppeln" given exceptions to older rulings.
+- Six hand-made links from the book to Konin Gr.145 and the summons of 1860 (1746), Konin Gr.136 (1754), Kalisz Gr.414 (1771), Konin Gr.153 (1782), AGAD 1/169/0/1/1745 (the register of 1797) and Kalisz Tab.21 (the hearth tax of 1789). Five differences with the documents are recorded; the edition takes the documents.
+- The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna Dąmbska's death, Paweł Prusimski's generation) are marked settled.
+- Published at the editor's word, with Wąsicki (1953).
 
 ## Deliverables produced
 

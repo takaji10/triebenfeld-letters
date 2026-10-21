@@ -155,8 +155,15 @@ edition holds.
   1796 (AGAD General Directorium Südpreussen 1745, the edition's AGAD
   1/169/0/1/1745: "Trąbczyn H." 34, "Stara Huta Trąbczyn" 2, "Łazy H." 5),
   and the visitation of the deanery of Konin of 1790-1791 (ADWł Wiz. 85).
-  These figures were not yet read against the edition's documents one by
-  one: that is the work of a hand-made link.
+  Read against the documents for the links (below): the register's
+  figures agree, but the book dates it 1796 where the archive dates the
+  volume 1797; and the hearth-tax register gives sums of money (Łazy and
+  Nowa Wieś 12 zł 15 gr each, the Olędry 35 zł), from which the book's
+  hearths (3, 13 and 10) do not follow at any one rate.
+- **The wood Lusina** (p. 28): the book gives the inspection of 1754 twelve
+  Olęders and an inn in the wood Lusina; the inspection counts fifteen
+  under Nowa Wieś and names no Lusina, twelve or inn. Those are in the act
+  of 1771.
 - **Łazy** (p. 32): an existing village of the estate moved to Olęder law
   after 1754, Catholics, 48 persons in 1791. Tab. 1 gives the modern names:
   the Trąbczyńskie Luźne Nowe Ol. are Łazińsk Drugi, the Stare Ol. Łazińsk
@@ -180,15 +187,20 @@ is the family only where the lessees of Zbiersk are meant; "Oppeln" is part
 of a man's name. The colonies are indexed under Trąbczyn; the edition's
 entries for the colonies themselves have no pattern and are not used here.
 
-No hand-made link has been written yet. The obvious first ones: the founding
-of 1746 with Konin Gr.145 and the summons of 1860; the inspection of 1754
-with Konin Gr.136; the handing over of 1771 with Kalisz Gr.414; Hunt and the
-decree of 1782 with Konin Gr.153.
+**Hand-made links** (`literature/links.yml`, `chodyla2015-*`, at the
+editor's word, 2026-10-21), every figure, name and date read on both sides:
+the founding of 1746 (Konin Gr.145, the summons of 1860), the inspection of
+1754 (Gr.136), the handing over of 1771 (Kalisz Gr.414), Hunt in 1782
+(Gr.153, both documents), the register of 1797 (AGAD 1/169/0/1/1745) and
+the hearth tax of 1789 (Kalisz Tab.21). Where the book and the document
+differ, the sentence says so and that the edition follows the document (the
+editor's rule of 2026-10-21).
 
 ## Open
 
-- The editor's look, and the word to publish.
+- Published at the editor's word, 2026-10-21.
 - Copyright: the book (2015) is in copyright; the Licences page says the
   modern works on the Literature page are outside CC BY. No statement in the
   imprint forbids copying (unlike Seidel's).
-- The two differences above, in NEEDS_CONFIRMATION.
+- The differences above are in NEEDS_CONFIRMATION, settled by the rule of
+  2026-10-21: the documents are taken.

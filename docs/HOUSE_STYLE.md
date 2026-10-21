@@ -92,18 +92,22 @@ notes, NEEDS_CONFIRMATION.
 3. **Where no document says it**, a book or another source may supply it,
    and the sentence says whose account it is ("by Breyer's account"), never
    "it was".
-4. **Where a document and another source disagree**, the edition keeps to
-   the document, and the difference is flagged and recorded, in the places
-   that already exist for it:
-   - `docs/NEEDS_CONFIRMATION.md`, for the editor to rule: what each says,
-     with the page of the book and the document, in the section the matter
-     belongs to (a book: "The literature"; a holding: its entry). Nothing
-     is changed on the strength of the other source until the editor rules;
+4. **Where a document and another source disagree**, the edition takes the
+   document's fact or date, without asking: the editor, 2026-10-21: "Always
+   take the facts/dates from primary documents over literary sources, and
+   flag when there's a discrepancy so that you know to take the primary
+   source over a fact stated in a literary source." The difference is
+   flagged and recorded, so that no later sitting takes the book's version,
+   in the places that already exist for it:
+   - `docs/NEEDS_CONFIRMATION.md`, in the section the matter belongs to (a
+     book: "The literature"), as settled by this rule: what each says, with
+     the page of the book and the document, and that the document is taken.
+     Nothing is changed on the strength of the other source;
    - the work's `literature/<slug>/notes.md` ("Points for the reader"), or
      the holding's `notes.md` where the other source is not a book, so the
-     record stays with the source after the question is settled;
+     record stays with the source;
    - on the site, where a link joins the passage and the document, its
-     sentence says what each says and does not choose
+     sentence says what each says and that the edition follows the document
      (`docs/WORKING_NOTES.md`, "A hand-made link says what each side
      says").
 5. **Where two documents disagree**, neither is chosen without the editor;

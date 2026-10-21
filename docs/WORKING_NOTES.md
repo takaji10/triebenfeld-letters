@@ -1209,6 +1209,13 @@ cloud branches").
   sitting of 1782 both differ from the documents the book itself cites.
   Read every figure and name the book takes from a record the edition
   holds before a link is written (HOUSE_STYLE, "The documents first").
+- **A book's note can point to the wrong record** (Chodyła 2015, p. 28):
+  it gives the inspection of 1754 twelve Olęders and an inn in the wood
+  Lusina, under a note citing that inspection; the inspection has neither,
+  and they are in the act of 1771. And a table of sums of money is not a
+  table of hearths: the book's hearth counts for 1789 are its own
+  reckoning. Read the cited record for every statement a link repeats, not
+  only the quotation.
 - **Heredocs eat backslashes** (again, three times on 2026-10-20): a Python
   edit with a backslash inside a quoted heredoc (a regex escape, a group
   reference, an escaped quote) changed the code it wrote. Use the Edit or
@@ -1289,9 +1296,12 @@ cloud branches").
   `literature/links.yml`). Its sentence is shown under the passage and
   beside the document, so it names the book, the document and what each
   says: "the register says", never "it was". Where they disagree, the
-  sentence says so and does not choose: the register has Triebenfeld sell
-  his estates to Prince George for 400,000, his own letter of July 1800
-  280,000. A name in a letter taken to be a man of the book is Claude's
+  sentence says so: the register has Triebenfeld sell his estates to Prince
+  George for 400,000, his own letter of July 1800 280,000. Since 2026-10-21
+  (the editor: "Always take the facts/dates from primary documents over
+  literary sources, and flag when there's a discrepancy") it also says that
+  the edition follows the document, and the difference goes into
+  NEEDS_CONFIRMATION as settled, not as a question. A name in a letter taken to be a man of the book is Claude's
   identification until the editor rules: the comment at the link says so
   and NEEDS_CONFIRMATION lists it. **Look at the scan first**: "Gen.
   Ruchts" in letter 103, taken for Rüchel, was a misreading of "Ruchels"

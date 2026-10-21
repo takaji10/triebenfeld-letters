@@ -422,7 +422,10 @@ The book is about the edition's own ground: the founding of the Trąbczyńskie
 Stare Olędry and the Luśnie Olędry by Paweł and Katarzyna Prusimski in 1746,
 Łazy, the Trąbczyńskie Nowe Olędry, and 55 other Olęder settlements of the
 Pyzdry Forest to 1793, from the court books the edition holds (Konin Gr.145,
-Gr.136, Gr.153, Kalisz Gr.414, the summons of 1860). Two of its details differ
-from the edition's documents (the owner in 1860, the date of the sitting of
-1782); both are in NEEDS_CONFIRMATION. Hand-made links to those documents are
-the next step.
+Gr.136, Gr.153, Kalisz Gr.414, the summons of 1860). Five of its details
+differ from the edition's documents (the owner in 1860, the date of the
+sitting of 1782, the wood Lusina in 1754, the hearths of 1789, the date of
+the register of 1797). The edition takes the documents (the editor's rule of
+2026-10-21) and NEEDS_CONFIRMATION records each. Six hand-made links
+(`chodyla2015-*`). Published 2026-10-21 at the editor's word, with Wąsicki
+(section 12).
