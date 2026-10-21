@@ -120,7 +120,7 @@ so check them.
 ## Where things stand (2026-10-21)
 
 - **Encyclopedia of Camps and Ghettos (2012)** (`dean2012warthegau`, added
-  2026-10-21, **not published**): the USHMM encyclopedia's Warthegau
+  2026-10-21, **published 2026-10-21**): the USHMM encyclopedia's Warthegau
   chapter, only the pages the editor named (the introduction; Chocz,
   Grodziec, Kalisz, Konin, Rzgów, Zagórów), for the twentieth century.
   English as printed (CC BY-NC-ND: no translation); made from the JSTOR PDF
@@ -131,7 +131,7 @@ so check them.
   (Rzgów an estate in focus on KDW 4 and 6 and Konin Gr.117, docs 11 and 12;
   Grodziec not, no document being about it: NEEDS_CONFIRMATION asks).
 
-- **Boniecki (1900)** (`boniecki1900`, added 2026-10-21, **not published**):
+- **Boniecki (1900)** (`boniecki1900`, added and **published 2026-10-21**):
   the Chełmski family's branch that held Łukomia, from the editor's saved
   page of the online Boniecki (only items 2.976.162-240, at the editor's
   word: Stanisław, Heliodor, the transfers of Łukom). Cut at item numbers;
@@ -350,7 +350,7 @@ so check them.
   online here, or have no entry in those that are (NEEDS_CONFIRMATION).
   **Gród** (the municipal court) and **stawisko** (the noun, not the name
   Stawisko) added 2026-10-21 from Arct's dictionary on Wikisource, which
-  the editor named (113 entries, 128 words ruled out); **not published**. The editor means to add more definitions from it.
+  the editor named (113 entries, 128 words ruled out); **published 2026-10-21**. The editor means to add more definitions from it.
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
 - The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;

@@ -450,7 +450,8 @@ What the documents say first: the brothers of 1728 (APP 53/6/0/-/40), the
 brothers of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117)
 agree with Boniecki; Heliodor's canonry and the year of Stanisław's title
 differ, and the edition follows the documents (NEEDS_CONFIRMATION,
-"Boniecki (1900)"). Four hand-made links (`boniecki1900-*`). Not published.
+"Boniecki (1900)"). Four hand-made links (`boniecki1900-*`). Published
+2026-10-21 at the editor's word.
 
 ## 15. Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21)
 
@@ -468,4 +469,5 @@ checks every letter against the PDF. The book is CC BY-NC-ND 4.0: shown in
 English as printed, no translation, pictures left out (their lenders'
 credits), captions given. The PDF is not kept (its feet carry the
 download's internet address). "Betchatów" is Bełchatów (editor). No links
-yet; how much bears on the edition is the editor's to say. Not published.
+yet; how much bears on the edition is the editor's to say. Published
+2026-10-21 at the editor's word.

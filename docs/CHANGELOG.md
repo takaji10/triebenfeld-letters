@@ -2133,7 +2133,7 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The editor's rule (2026-10-21): a fact or date from a primary document is taken over a literary source's without asking, and the difference is flagged so that it is known. HOUSE_STYLE, "The documents first", point 4; the doc-versus-book questions already in NEEDS_CONFIRMATION (Maryanna Dąmbska's death, Paweł Prusimski's generation) are marked settled.
 - Published at the editor's word, with Wąsicki (1953).
 
-## The glossary: gród, the municipal court (2026-10-21, not published)
+## The glossary: gród, the municipal court (2026-10-21, published)
 
 - A new entry, `grod`, at the editor's word, from the entry Gród in Arct's *Słownik ilustrowany języka polskiego* (1916, vol. 1, p. 405) on Wikisource, which they named, and the State Archive in Poznań's description of the Konin court books (`docs/PRUSIMSKI_ERA_PLAN.md`). It explains that the court the edition's English calls the "municipal court" was the starost's court in the gród, not a town's court: no document in the edition names a town court. Checked (`checked: true`).
 - It marks the Polish forms (gród, grodu, w grodzie, grodzki), the Latin castrensis, "municipal court" in the English and "Burggericht" in the German summaries: 375 marks in 56 documents, every one read in `review/glossary_matches.csv`; none is a place (Grodziec, Grodzisko are kept out).
@@ -2142,19 +2142,21 @@ lose his estates. The era page writes Konotop, not Kontop.
 - A second entry, `stawisko`, at the editor's word, from Arct (vol. 2, p. 784: a large boggy pond, or ground taken up by a pond or left after one), with what the documents say of the ground: the boggy, wooded ground on the Trąbczyn-Łukom boundary, disputed from 1728 (Konin Gr.145), its embankment (Gr.114) and the line of 1782 through it (Gr.153). The noun only (editor: "there's a place called Stawisko, and then the noun"): where an act makes the word the ground's name ("na Stawisku zwanym", "stawisko nuncupatum", "called Stawisko", "namens Stawisko") it is not marked. 95 marks in 3 documents, all read. The clerks capitalise most nouns, so a capital is not taken for a name.
 - 113 entries, 57 checked.
 
-## The literature: Boniecki (1900), the Chełmski branch that held Łukomia (2026-10-21, not published)
+## The literature: Boniecki (1900), the Chełmski branch that held Łukomia (2026-10-21, published)
 
 - Adam Boniecki, *Herbarz polski*, part I, vol. 2, "Chełmscy h. Ostoja", at the editor's word, as a source for the Chełmski family tree: only the branch that held Łukomia (items 2.976.162-240 of M. J. Minakowski's online edition), from the editor's saved page, by `literature/boniecki1900/make_original.py`. Stanisław Chełmski, Treasurer of Wschowa, his brother Heliodor, their father Józef and uncle Franciszek, the division of Łukomia about 1700, Ignacy's sale of Łukomia, Łomów, Mielno (Imielno) and Bukowe to Stanisław in 1766, and Stanisław's line to Władysław, owner of Łukomia in 1860. Cut at the item numbers (no page breaks online); Claude's English. The saved page is not kept: its header carries the editor's login.
 - Read against the documents first: the brothers of 1728 (APP 53/6/0/-/40), of 1775 (Konin Gr.145) and the four estates of 1778 (Konin Gr.117) agree; Heliodor's canonry (Chełmno in 1775, Poznań in Boniecki) and the year of Stanisław's title (1778 in the document, 1779 in Boniecki) differ, and the edition follows the documents (NEEDS_CONFIRMATION, "Boniecki (1900)").
 - Index rulings for the Chełmski forms, "Łukomi", and "Mielna" as Imielno in the list of the four estates only. Four hand-made links (`boniecki1900-*`), to 1644, 1728, 1775, 1778 and 1763; the first rests on Claude's reading and waits on the editor. `docs/LITERATURE_PLAN.md`, section 14. The literature has 18 works, 17 on the site.
 
-## The literature: the Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21, not published)
+## The literature: the Encyclopedia of Camps and Ghettos (2012), the Warthegau (2026-10-21, published)
 
 - The USHMM *Encyclopedia of Camps and Ghettos, 1933-1945*, vol. II A (2012), the chapter "Warthegau Region", at the editor's word: only the pages they named, pp. 34-39 (the introduction), 48 (Chocz), 57-59 (Grodziec), 60-61 (Kalisz), 63-64 (Konin), 99-100 (Rzgów), 120-121 (Zagórów), for the twentieth-century part of the edition. In English as printed; CC BY-NC-ND 4.0, so no translation and no pictures (their lenders' credits), the captions given.
 - Made from the editor's JSTOR PDF by `pipeline/literature/warthegau_pdf.py`: the Polish letters from the accent font, the spaces of no width dropped, line-end hyphens told apart by the space the text layer keeps after a real one, notes linked within each entry, web addresses joined. `--check` compares every letter with the PDF. "Betchatów" corrected to Bełchatów at the editor's word. The PDF is not kept: its page feet carry the download's internet address.
 - Index rulings: Koppe and Reinhardt are not the edition's; "Konińska", "Konińskiej" and Słupca are. No hand-made links yet. The literature has 19 works, 18 on the site.
 
-## The places Grodziec and Rzgów (2026-10-21, not published)
+## The places Grodziec and Rzgów (2026-10-21, published)
+
+- All of 2026-10-21 after Chodyła published together at the editor's word: the glossary's gród and stawisko, "municipal court" throughout, Boniecki (1900), the Encyclopedia of Camps and Ghettos (2012) and the places Grodziec and Rzgów.
 
 - Two places added at the editor's word (`reference/places.yml`, with their map positions in `reference/places_osm.yml`, looked up on OpenStreetMap and read against the sources). **Rzgów** ("Rzgowo" 1261, "Irgouo" 1280, both the Rzgów east of Zagórów by the Kodeks editors' note) is found in seven documents and tagged an estate in focus on four that concern it: KDW 4 and 6 (granted with Szetlew and Świątniki) and Konin Gr.117, docs 11 and 12 (the pines cut by its subjects in 1779 and its owner Marcin Nosalski's protest). **Grodziec** is found in Breyer's notebooks of 1936 and his notes of 1935; no document is about it, so it is not an estate in focus.
 - In the literature, all 122 hits read and ruled (Chodyła, Breyer, Szwiec, the Encyclopedia of Camps and Ghettos): every one is the Grodziec near Rychwał or the Rzgów near Konin.

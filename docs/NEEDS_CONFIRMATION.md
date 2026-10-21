@@ -332,7 +332,7 @@ read, translate and summarise.
   1754 (Gr.136), 1771 (Kalisz Gr.414), 1782 (Gr.153), the register of 1797
   (AGAD 1/169/0/1/1745) and the hearth tax of 1789 (Kalisz Tab.21).
   **Boniecki (1900)**, the Chełmski family, the branch that held Łukomia
-  (added 2026-10-21, not published; `literature/boniecki1900/notes.md`).
+  (added and published 2026-10-21; `literature/boniecki1900/notes.md`).
   Where it differs from the documents, the edition takes the documents:
   **settled by the editor's rule**, recorded so that it is known.
   - **Heliodor's office.** The boundary decree of 1775 (Konin Gr.145) calls
@@ -355,7 +355,7 @@ read, translate and summarise.
   of the four estates; the saved page stays out of the repository (its
   header carries the editor's login).
   **Encyclopedia of Camps and Ghettos (2012)**, the Warthegau chapter, the
-  pages the editor named (added 2026-10-21, not published;
+  pages the editor named (added and published 2026-10-21;
   `literature/dean2012warthegau/notes.md`).
   - **How much bears on the edition** is the editor's to say (their words:
     "remains to be seen"). Offered: links. Grodziec and Rzgów were added as
@@ -657,7 +657,7 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   checked: gród, the municipal court, and stawisko, the boggy ground on
   the Trąbczyn-Łukom boundary (2026-10-21, from Arct's dictionary, which
   the editor named, with the archive's description of the Konin court
-  books and the edition's documents; not yet published), the patrimonial court, and 54 read on 2026-10-02
+  books and the edition's documents; published 2026-10-21), the patrimonial court, and 54 read on 2026-10-02
   against Krünitz, Adelung, Grimm and Gloger (changelog, "The glossary
   checked against the reference works"), live since then. What the rest wait
   on:

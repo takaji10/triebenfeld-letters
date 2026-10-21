@@ -647,3 +647,12 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       the hearth tax of 1789); where the book and a document differ, the
       document is taken and the difference recorded (your rule of
       2026-10-21). Published at your word (2026-10-21).
+- [x] The glossary: gród (the municipal court) and stawisko (the noun),
+      from Arct's dictionary; "municipal court" for sąd grodzki throughout
+      the edition's English (2026-10-21).
+- [x] Boniecki (1900), the Chełmski branch that held Łukomia, with four
+      links (LITERATURE_PLAN.md, section 14), and the Encyclopedia of Camps
+      and Ghettos (2012), the Warthegau pages you named (section 15).
+- [x] The places Grodziec and Rzgów; Rzgów an estate in focus. All
+      published at your word (2026-10-21). Open: whether Grodziec should
+      be listed on the Places page (NEEDS_CONFIRMATION).
