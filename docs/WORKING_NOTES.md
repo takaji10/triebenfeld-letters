@@ -1096,7 +1096,12 @@ Where the rest is:
   worktree add ../vonTriebenfeld-main main`), copying in the cache files
   your step needs (`cache/translation-raw/<slug>-*.json`), and remove the
   checkout when done. Rebuilding in the shared folder would put the other
-  session's half-built holding into your generated files.
+  session's half-built holding into your generated files. **`pages/` is not
+  in the repository**: a fresh checkout has none, and `regenerate.py --site`
+  then rewrites every holding's `page_scan_map.csv` with empty images
+  ("gap"). Copy the whole of `pages/` in, or run only `--unit <slug>` and
+  the later site steps there, and look at `git show --stat` before pushing
+  (2026-10-21: caught and restored before it left the machine).
 - **A holding from raw camera files cuts its own pages.** `courtbook.cut`
   opens the scans with PIL, which cannot read a .CR2; the holding's
   `intake/holding.py` takes the full-size JPEG inside each file
