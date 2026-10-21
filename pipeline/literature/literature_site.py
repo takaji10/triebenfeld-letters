@@ -22,6 +22,11 @@ listed, and its page holds only the detailed summary of its contents from its
 work.yml (`summary_en`, `summary_de`; the editor, 2026-10-21). verify_site.py
 holds the built site to that.
 
+A work with `parent:` (Janocki 1779, attached to Paciorkowski 1776: the
+sub-item, docs/LITERATURE_PLAN.md section 17) is shown on the Literature page
+inside its parent's section, and its page links back to the parent; the
+parent's page carries the sub-work's note (`note_en`, `note_de`).
+
 Each page gives the work passage by passage, each passage headed by its
 printed page so that it can be cited, and holding both texts, the original and
 the English; the page shows one of them at a time, the English first, by the
@@ -301,11 +306,13 @@ def main():
             texts[lg], missing = footnotes([passage_text(slug, p['key'], lg) for p in ps], lg)
             if missing:
                 print(f'{slug} ({lg}): {missing} note markers with no note, left as they stand')
-        listing.append({k: w.get(k, '') for k in (
-            'slug', 'kind', 'title', 'title_en', 'cite', 'author', 'author_sort',
-            'published', 'year', 'language', 'english_by', 'scan', 'account_en',
-            'account_de')}
-            | {'pages': sum(1 for p in ps if p['page'])})
+        listing_row = {k: w.get(k, '') for k in (
+            'slug', 'kind', 'parent', 'title', 'title_en', 'cite', 'author',
+            'author_sort', 'published', 'year', 'language', 'english_by', 'scan',
+            'note_en', 'note_de', 'account_en', 'account_de')}
+        if not listing_row['parent']:       # Liquid reads "" as true
+            del listing_row['parent']
+        listing.append(listing_row | {'pages': sum(1 for p in ps if p['page'])})
         for lang, (folder, base, other) in BASES.items():
             s = strings[lang]
             body = ['{% raw %}', '<nav class="lit-jump" aria-label="' + s['lit_pages'] + '">']
@@ -357,10 +364,13 @@ def main():
         if not (w.get('summary_en') and w.get('summary_de')):
             raise SystemExit(f'{slug}: kept off the site but has no summary_en and '
                              'summary_de in its work.yml')
-        listing.append({k: w.get(k, '') for k in (
-            'slug', 'kind', 'title', 'title_en', 'cite', 'author', 'author_sort',
-            'published', 'year', 'language', 'english_by', 'scan', 'account_en',
-            'account_de')} | {'pages': 0, 'summary_only': True})
+        listing_row = {k: w.get(k, '') for k in (
+            'slug', 'kind', 'parent', 'title', 'title_en', 'cite', 'author',
+            'author_sort', 'published', 'year', 'language', 'english_by', 'scan',
+            'note_en', 'note_de', 'account_en', 'account_de')}
+        if not listing_row['parent']:       # Liquid reads "" as true
+            del listing_row['parent']
+        listing.append(listing_row | {'pages': 0, 'summary_only': True})
         for lang, (folder, base, other) in BASES.items():
             body = ['{% raw %}', '<div class="lit-summary" markdown="1">', '',
                     w['summary_' + lang].strip(), '', '</div>', '{% endraw %}']

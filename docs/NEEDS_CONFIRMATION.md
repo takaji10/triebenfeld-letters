@@ -439,6 +439,21 @@ read, translate and summarise.
   - Offered, not asked for: a hand-made link from the passage to the Weigel
     compensation documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454,
     letters 220 and 284), every figure read on both sides first.
+  **Janocki (1779)** (`janocki1779`, added 2026-10-21, not published;
+  `literature/janocki1779/notes.md`): the entry "Stanislaus Lochowski"
+  (LXXVII, printed pp. 159-160) of the *Ianociana*, a sub-item attached to
+  Paciorkowski (1776) — it says the handbook is Lochowski's *Processus iuris
+  limitanei* of 1641, which Paciorkowski printed under his own name; the
+  citation of the parent work now reads "Paciorkowski (1776) [= Lochowski
+  1641]".
+  - **"Miedzyborze"**, the place of Lochowski's subscription (item IV, the
+    last line of p. 160): the print is worn there; the Google copy's OCR
+    reads "Miedzy- ioreae", the Jagiellonian Library copy's "Miedzyborege".
+    Read as "Miedzyborze". **For the editor** (the PDF is theirs; the line is
+    the last of p. 160).
+  - The transcription of the whole entry (read from the editor's PDF, page
+    image by page image) waits on their look; the doubtful spots are listed
+    in the work's `notes.md` ("Doubtful readings"). **For the editor**.
 
 ## Readings, Oe 1 Bü 9454
 

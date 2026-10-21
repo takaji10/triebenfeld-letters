@@ -1177,6 +1177,29 @@ cloud branches").
   waiting on a screenshot.
 - The heredoc trap with backslashes (above) was hit again on 2026-10-19,
   in a patch to `literature_site.py`. There is no small exception.
+- **A stray `struct.py` in the temp folder breaks Python** (2026-10-21):
+  `%LOCALAPPDATA%\Temp\opencode` carries scripts left by earlier sittings;
+  run from that folder, a `struct.py` there shadows the standard-library
+  module and `import zipfile` (so PyMuPDF) fails with "module 'struct' has
+  no attribute 'calcsize'". Run repository scripts from the repository (the
+  working directory), not from the temp folder; or move the helper into the
+  repo's `scratch/`.
+- **archive.org's IIIF crops are flaky** (2026-10-21): region requests for
+  one item answered 500 and 504 over and over while whole-page downloads
+  came through. When the editor has supplied the PDF or the images, render
+  them locally (PyMuPDF `get_pixmap(dpi=300)`) and crop locally — steadier
+  and faster than the server.
+- **A Google scan's djvu OCR can mislead badly** (2026-10-21, Janocki's
+  *Ianociana*, 1779 Latin): "1636, et 1643, 13" for "et 1642, 12" (the 12mo
+  mark), "COMITIGRUM" for "COMITIORUM", "1737" mangled. The Jagiellonian
+  Library's copy of the same edition (`jbc.bj.uj.edu.pl.NDIGSTDR019959`) has
+  a cleaner tesseract OCR and settled every doubtful spot. When an
+  archive.org Google scan must be read, look for a second library's copy of
+  the same edition first.
+- **An image read is not remembered long** (2026-10-21): the harness keeps
+  only the most recent image reads; a reading not written down at once is
+  lost and must be fetched again. Transcribe or note what a page shows
+  immediately, before the next tool call.
 
 ## The literature (2026-10-19)
 

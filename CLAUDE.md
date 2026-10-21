@@ -119,6 +119,21 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Janocki (1779)** (`janocki1779`, added 2026-10-21, **not published**): the
+  entry "Stanislaus Lochowski" (LXXVII, pp. 159-160) of the *Ianociana* II
+  (Warsaw and Leipzig 1779), which says Paciorkowski's handbook is Lochowski's
+  *Processus iuris limitanei* of 1641 printed under Paciorkowski's own name —
+  the editor asked for it attached to Paciorkowski (1776). **The first
+  sub-item**: `parent: paciorkowski1776` in its `work.yml`; the Literature page
+  shows it inside Paciorkowski's section, Paciorkowski's page carries the note
+  (Janocki's words, with a link), and the citation of the parent work now
+  reads "Paciorkowski (1776) [= Lochowski 1641]" (the bracket's wording chosen
+  without the editor; TODO asks). Built from the editor's PDF (title page and
+  the two pages; not kept in the repository); the entry runs to p. 161, the
+  extract stops at 160. The doubtful reading "Miedzyborze" and the
+  transcription wait on the editor (NEEDS_CONFIRMATION).
+  `docs/LITERATURE_PLAN.md`, section 17; the work's `notes.md` first. The
+  literature has 22 works, 20 on the site.
 - **APP 53/1455/0/2/21** (`app5314550221`, added 2026-10-21, **not
   published**): five pages (13, 14, 25, 26, 66, the archive's pencil
   numbers) of the eighteenth-century copy-book of the privileges of the

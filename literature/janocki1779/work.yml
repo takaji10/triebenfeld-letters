@@ -1,0 +1,63 @@
+# One work of the literature (docs/LITERATURE_PLAN.md), and the first sub-item:
+# attached to paciorkowski1776 (`parent:`), whose page carries this work's note
+# (note_en, note_de) and whose citation names Lochowski. original.md was read in
+# session from the editor's PDF (Downloads/ianocianasivecl00janogoog.pdf: the
+# title page and printed pp. 159-160), as printed; english.md is Claude's.
+# See notes.md.
+slug: janocki1779
+visible: true
+kind: reference
+parent: paciorkowski1776
+title: "Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae, tomus II, pp. 159-160 (the entry on Stanisław Lochowski)"
+title_en: "The Ianociana: miscellanies to the memory of the famous and illustrious authors and patrons of Poland, vol. II, pp. 159-160: the entry on Stanisław Lochowski"
+cite: "Janocki (1779)"
+author: "Jan Daniel Janocki"
+author_sort: "Janocki, Jan Daniel"
+published: "Ianociana ... miscellae, tomus II, Varsaviae et Lipsiae: apud Michaelem Groellium, Sereniss. Pol. Regis Commissarium et Bibliopolam, sub signo Poetarum, 1779 (A. R. S. MDCCLXXIX); the extract pp. 159-160, the entry LXXVII, Stanislaus Lochowski"
+year: 1779
+language: la
+english_by: Claude
+scan: "https://archive.org/details/ianocianasivecl00janogoog"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+note_en: >-
+  Janocki's Ianociana (1779, pp. 159-160) says this handbook is Lochowski's:
+  the boundary process of the law of the Kingdom of Poland by Stanisław
+  Lochowski, notary of the castle of Opoczno (Cracow 1641), which "in our own
+  age Marcin Paciorkowski twice had printed again; yet he, suppressing the
+  true author Lochowski's name, rashly and insolently claimed the work for
+  himself" under the Regula processus granicialis title (the editions of 1749
+  and 1760).
+note_de: >-
+  Janockis Ianociana (1779, S. 159-160) sagt, dieses Handbuch sei Lochowskis:
+  der Grenzprozess des Rechts des Königreichs Polen von Stanisław Lochowski,
+  Notar des Schlossgerichts Opoczno (Krakau 1641), den "in unserem Zeitalter
+  Marcin Paciorkowski zweimal nachdrucken ließ; doch er schrieb, den Namen des
+  wahren Verfassers Lochowski unterdrückend, vermessen und unverschämt das
+  Werk sich selbst zu" unter dem Titel Regula processus granicialis (die
+  Auflagen von 1749 und 1760).
+account_en: >-
+  The entry "Stanislaus Lochowski" (item LXXVII) of Janocki's Ianociana, a
+  bio-bibliographical lexicon of the authors and patrons of Poland in two
+  volumes (1776-1779), by Jan Daniel Janocki, librarian to Prince Józef
+  Aleksander Jabłonowski and keeper of the Załuski Library's early Polish
+  manuscripts. It lists Lochowski's works: the Regulæ iuris in its editions
+  of 1636 to 1737, the Processus iuris limitanei of 1641 — which, it says,
+  Paciorkowski twice reprinted as his own, suppressing Lochowski's name — the
+  De correctura iurium of 1641 and the Comitiorum of 1644. It names Trąbczyn
+  nowhere. It bears on the standing of the handbook the edition uses for the
+  boundary procedure of 1775 and 1782, and on the 1776 title page, which calls
+  the book Paciorkowski's own, enlarged by the author.
+account_de: >-
+  Der Eintrag "Stanislaus Lochowski" (Nummer LXXVII) aus Janockis Ianociana,
+  einem bio-bibliographischen Lexikon der Autoren und Mäzene Polens in zwei
+  Bänden (1776-1779), von Jan Daniel Janocki, Bibliothekar des Fürsten Józef
+  Aleksander Jabłonowski und Verwalter der frühpolnischen Handschriften der
+  Załuski-Bibliothek. Er verzeichnet Lochowskis Werke: die Regulæ iuris in
+  ihren Auflagen von 1636 bis 1737, den Processus iuris limitanei von 1641 —
+  den Paciorkowski, so der Eintrag, zweimal unter eigenem Namen nachdrucken
+  ließ, indem er Lochowskis Namen unterdrückte —, die De correctura iurium von
+  1641 und die Comitiorum von 1644. Trąbczyn nennt er nirgends. Er betrifft
+  das Ansehen des Handbuchs, das die Edition für das Grenzverfahren von 1775
+  und 1782 heranzieht, und die Titelseite von 1776, die sich das Buch als
+  Werk Paciorkowskis zuschreibt, vom Verfasser selbst vermehrt.

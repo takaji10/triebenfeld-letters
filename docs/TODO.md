@@ -669,6 +669,15 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] Offered: a hand-made link from the passage to the Weigel compensation
       documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454, letters 220 and
       284), each figure read on both sides first.
+- [x] Janocki (1779), the Lochowski entry (Ianociana II, pp. 159-160), added
+      (2026-10-21; LITERATURE_PLAN.md, section 17): the first sub-item,
+      attached to Paciorkowski (1776) at your word; the citation now reads
+      "Paciorkowski (1776) [= Lochowski 1641]". Read from your PDF (the
+      three pages: the title page and pp. 159-160; not kept). Not published.
+- [ ] **You:** a look at the transcription of the two pages and the doubtful
+      reading "Miedzyborze" (the last line of p. 160; NEEDS_CONFIRMATION),
+      and the wording of the citation's bracket "[= Lochowski 1641]", chosen
+      without you.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 
