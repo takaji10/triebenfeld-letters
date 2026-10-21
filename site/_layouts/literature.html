@@ -26,7 +26,8 @@ layout: default
     </dl>
     <div class="prose">
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
-      {% if w.language != 'en' %}<p class="lit-caveat">{{ t.lit_caveat }}</p>{% endif %}
+      {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>
+      {% elsif w.language != 'en' %}<p class="lit-caveat">{{ t.lit_caveat }}</p>{% endif %}
       {% if w.scan != "" %}<p><a href="{{ w.scan }}">{{ t.lit_scan }}</a></p>{% endif %}
     </div>
   </header>
@@ -37,7 +38,9 @@ layout: default
     them and remembers the choice; without it both stand one under the other.
   {%- endcomment %}
   {%- comment -%} A work printed in English has one text and no buttons (Mączak 1968). {%- endcomment -%}
-  {% if w.language != 'en' %}
+  {% if w.summary_only %}
+  <h2 class="lit-summary-h">{{ t.lit_summary_h }}</h2>
+  {% elsif w.language != 'en' %}
   <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
     <button type="button" class="vbtn is-on" data-show="en" aria-pressed="true">{{ t.lit_view_en }}</button>
     <button type="button" class="vbtn" data-show="orig" aria-pressed="false">{{ t[lang_key] }}</button>

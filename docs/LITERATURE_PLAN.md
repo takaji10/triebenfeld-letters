@@ -135,7 +135,15 @@ matters for context. So:
 - Its passages are written to `corpus/literature/` like the others, for
   questions.
 - A later choice the editor may make: list it on the Literature page by its
-  bibliographic details alone.
+  bibliographic details alone. **Made 2026-10-21, and more**: "For each
+  literary source that you don't publish on the site, include an entry with
+  a detailed summary of its contents." So every work with `visible: false`
+  is listed, with a note that it is under copyright, and has a page that
+  holds only a detailed summary of its contents, written by Claude from a
+  reading of the whole work (`summary_en`, `summary_de` in its `work.yml`).
+  None of its text is on the site: `verify_site.py` looks for stretches of
+  it in every built file. Its passages still stay out of the index's "In
+  the literature" lists and the search.
 
 ## 5. On the site
 
@@ -498,3 +506,18 @@ new pairs are ruled (the Radziwiłł magnates, Hieronim Florian's given
 name and Augustus II are not the edition's; Repnin the Russian ambassador
 is ruled to the letters' Prince Repnin, which the editor confirms
 (2026-10-21)).
+
+## 16. Pinkas Hakehillot (1976): Zagórów, Pyzdry, Konin (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `dabrowska1976` | *Pinkas Hakehillot Polin*, vol. I (Yad Vashem, 1976), ed. Danuta Dąbrowska and Abraham Wein: the entries Zagórów (p. 103), Pyzdry (pp. 202-203) and Konin (pp. 235-238), in JewishGen's English translation by Morris Gradel | English (from Hebrew) | `[p. 103]`, `[p. 202-203]`, `[p. 235-238]` | summary only |
+
+The editor gave the three JewishGen pages. JewishGen's notice forbids
+copying without its permission; the editor ruled to keep the work as Seidel
+(section 4): in the repository, the site showing only a detailed summary.
+`literature/dabrowska1976/make_original.py` takes each entry from a saved
+copy of its page (not kept), as given, every letter checked against the
+page. The entries are the source the Encyclopedia of Camps and Ghettos
+(2012, section 15) cites. Against the documents: the town status of
+Zagórów, 1368 in the entry, 1407 in the edition's KDW doc. 14.

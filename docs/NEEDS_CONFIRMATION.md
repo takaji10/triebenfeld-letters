@@ -392,6 +392,28 @@ read, translate and summarise.
   page feet carry the download's internet address). Settled by the editor:
   "Betchatów" is Bełchatów (2026-10-21).
 
+  **Seidel (2018) against the documents** (found 2026-10-21 in writing the
+  summary for its page; settled by the editor's rule, the documents taken):
+  - **The grants.** Seidel, quoting Breyer, has FL receive the church
+    estates of Zagórów and "from the crown domain" the lordship of Trąbczyn
+    in 1796. The documents: Trąbczyn with Szetlewek, Nowa Wieś, Łazy and
+    Osiny by the deed of gift of 9 August 1796, as estates fallen to the
+    crown, Prusimski's (Oe 1 Bü 14525, doc. 1); Zagórów by the deed of grant
+    of 19 June 1797 (I. HA Rep. 162 Nr. 295, doc. 3).
+  - **The colonists' lease** is "18 May 1805" in Seidel (from Breyer); the
+    edition's copy lacks its beginning and is dated by its engrossing, 21
+    March 1806 (APP 53/968/0/-/801, doc. 3). Not settled either way.
+  **Pinkas Hakehillot (1976)** (`dabrowska1976`, added 2026-10-21, not
+  published; `literature/dabrowska1976/notes.md`): JewishGen's English of
+  the entries Zagórów, Pyzdry and Konin; kept as Seidel at the editor's
+  word, the site showing only a summary.
+  - **Zagórów's town status**: the entry gives 1368; the edition's document
+    is the privilege of 19 November 1407 (KDW, doc. 14). Settled by the
+    rule: the edition follows the document.
+  - Against the Encyclopedia of Camps and Ghettos (2012) the entries differ
+    on details of 1940-1941; neither is a document; recorded in the notes,
+    not ruled.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
@@ -668,7 +690,7 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   them). Matura (2026-10-14) waits on the Encyklopedia PWN. 60 are
   checked: komornik the lodger, the boundary mound (kopiec) and the court
   clerk (pisarz)
-  (2026-10-21, from Gloger, at the editor's word; not yet published), gród, the municipal court, and stawisko, the boggy ground on
+  (2026-10-21, from Gloger, at the editor's word; published the same day), gród, the municipal court, and stawisko, the boggy ground on
   the Trąbczyn-Łukom boundary (2026-10-21, from Arct's dictionary, which
   the editor named, with the archive's description of the Konin court
   books and the edition's documents; published 2026-10-21), the patrimonial court, and 54 read on 2026-10-02

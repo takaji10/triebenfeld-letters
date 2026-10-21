@@ -317,6 +317,11 @@ en:
     been checked against the original as a whole. Quote from the original,
     and read any passage you rely on there.
   lit_read: Read the work
+  lit_read_summary: Read the summary
+  lit_summary_only: >-
+    Under copyright, so not shown here in full: the edition keeps the text
+    for its own questions and gives a detailed summary of its contents.
+  lit_summary_h: Summary of the contents
   lit_author: Author
   lit_published: Published
   lit_language: Language
@@ -666,6 +671,12 @@ de:
     ist nicht als Ganzes am Original geprüft. Zitieren Sie nach dem Original
     und lesen Sie dort jede Stelle nach, auf die Sie sich stützen.
   lit_read: Das Werk lesen
+  lit_read_summary: Die Zusammenfassung lesen
+  lit_summary_only: >-
+    Urheberrechtlich geschützt und darum hier nicht vollständig gezeigt: Die
+    Edition hält den Text für ihre eigenen Fragen und gibt eine ausführliche
+    Zusammenfassung seines Inhalts.
+  lit_summary_h: Zusammenfassung des Inhalts
   lit_author: Verfasser
   lit_published: Erschienen
   lit_language: Sprache

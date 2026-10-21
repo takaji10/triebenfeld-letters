@@ -1514,6 +1514,20 @@ cloud branches").
   is the court's clerk, not the notary public of the existing entry, and
   "Antoni Pisarz" in a list of Olęders is a surname. Read every hit, in
   every language, before writing the pattern.
+- **A work kept off the site still has a page: its summary** (the editor,
+  2026-10-21). A work under copyright (`visible: false`) is listed and its
+  page holds only `summary_en`/`summary_de` from its `work.yml`. Write the
+  summary from a reading of the whole work, in your own words, chapter by
+  chapter for a book, with a last section on where the edition's documents
+  say otherwise; never quote stretches of the text (`verify_site.py` looks
+  for them on the whole site). A long German summary goes into a file
+  written with the Write tool and is appended from there: a heredoc breaks
+  on an apostrophe ("Kraus' Untersuchung").
+- **Another session may push your commits** (2026-10-21). A session working
+  in the same folder pushed `main`, and with it a commit of this session
+  marked "not published". After `git fetch`, compare `origin/main` with your
+  own commits and correct the records to say "published" where they went
+  out.
 - **A work with no page breaks** (an online edition) is cut at headings
   (`chapter: '^# '`); where the edition numbers its items, the headings are
   those numbers ("# 2.976.177-182"), so each passage can be found online.

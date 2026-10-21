@@ -217,12 +217,15 @@ def main():
     print(f'  {len(stale)} stale URL literal(s) in built scripts (want 0)')
 
     # ---- the literature (docs/LITERATURE_PLAN.md) -------------------------
-    # Every visible work has its page in both languages; a work with
-    # visible: false (Seidel, under copyright) has nothing on the site: no
-    # page, and neither its slug nor its title anywhere. The timeline's
-    # citations "Seidel 2018, ch. ..." are citations and are allowed.
+    # Every visible work has its page in both languages. A work with
+    # visible: false (under copyright: Seidel, Pinkas Hakehillot) has none of
+    # its text on the site: it has a page in both languages holding only the
+    # summary of its contents (the editor, 2026-10-21), with no passage, and
+    # no stretch of its text, original or English, is found in any built file.
+    # Its title and its citations ("Seidel 2018, ch. ...") are allowed.
     print('checking the literature...')
     lit_index = os.path.join(ROOT, 'corpus', 'literature', 'index.json')
+    lit_dir = os.path.join(ROOT, 'corpus', 'literature')
     works = []
     if os.path.isfile(lit_index):
         with io.open(lit_index, encoding='utf-8') as f:
@@ -236,11 +239,30 @@ def main():
     if hidden:
         needles = {}
         for w in hidden:
-            needles[w['slug']] = w['slug']
-            needles[w['title']] = w['slug']
             for base in ('literature', os.path.join('de', 'literatur')):
-                if os.path.exists(os.path.join(SITE, base, w['slug'])):
-                    fail(f"literature: {w['slug']} is not to be shown, but {base}/{w['slug']}/ was built")
+                page = os.path.join(SITE, base, w['slug'], 'index.html')
+                if not os.path.isfile(page):
+                    fail(f"literature: {w['slug']} has no summary page {base}/{w['slug']}/")
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = f.read()
+                if 'lit-summary' not in built or 'lit-passage' in built:
+                    fail(f"literature: {base}/{w['slug']}/ is to hold only a summary, not the text")
+            # stretches of its text: the middle of the longest line of up to
+            # 40 passages, evenly spread, in each language it has
+            ps = w.get('passages') or []
+            step = max(1, len(ps) // 40)
+            for q in ps[::step]:
+                for lg in (w['language'], 'en'):
+                    fp = os.path.join(lit_dir, w['slug'], f"{q['key']}.{lg}.txt")
+                    if not os.path.isfile(fp):
+                        continue
+                    with io.open(fp, encoding='utf-8') as f:
+                        body = [ln.strip() for ln in f if not ln.startswith('#')]
+                    longest = max(body, key=len, default='')
+                    if len(longest) >= 120:
+                        mid = len(longest) // 2
+                        needles[longest[mid - 30:mid + 30]] = w['slug']
         leaks = collections.Counter()
         for root, dirs, files in os.walk(SITE):
             for fn in files:
@@ -253,9 +275,9 @@ def main():
                     if needle in text:
                         leaks[f'{slug} in {os.path.relpath(p, SITE)}'] += 1
         for where in leaks:
-            fail(f'literature: a work not to be shown appears on the site: {where}')
+            fail(f'literature: the text of a work not to be shown appears on the site: {where}')
     print(f'  {len(shown)} works with pages in both languages, '
-          f'{len(hidden)} kept off the site')
+          f'{len(hidden)} kept off the site (summary only)')
 
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.

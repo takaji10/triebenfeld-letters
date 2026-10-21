@@ -119,6 +119,18 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Works kept off the site get a summary page** (the editor, 2026-10-21:
+  "For each literary source that you don't publish on the site, include an
+  entry with a detailed summary of its contents"). A work with
+  `visible: false` is listed on the Literature page and its page holds only
+  `summary_en`/`summary_de` from its `work.yml`, written by Claude from a
+  reading of the whole work; `literature_site.py` stops on one without
+  them, and `verify_site.py` checks that no stretch of its text is on the
+  site. Two such works: **Seidel (2018)** and **Pinkas Hakehillot (1976)**
+  (`dabrowska1976`, added 2026-10-21: JewishGen's English of the entries
+  Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word). **Not
+  published.**
+
 - **Frost (2007)** (`frost2007`, added and **published 2026-10-21**): the
   nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.
   Scott (ed.), *The European Nobilities*, vol. II (2nd ed., Palgrave 2007),
@@ -368,8 +380,8 @@ so check them.
   **Gród** (the municipal court) and **stawisko** (the noun, not the name
   Stawisko) added 2026-10-21 from Arct's dictionary on Wikisource, which
   the editor named (113 entries, 128 words ruled out); **published 2026-10-21**. The editor means to add more definitions from it.
-  **Komornik** split in two at the editor's word (Gloger, 2026-10-21, **not
-  published**): the court officer (Latin camerarius) and the lodger
+  **Komornik** split in two at the editor's word (Gloger, 2026-10-21,
+  **published** with another session's push the same day): the court officer (Latin camerarius) and the lodger
   (`komornik-lodger`, marked only in its six documents by `only_in`); and
   **kopiec**, the boundary mound (Gloger "Kopce graniczne", with the
   documents' own account of 1775 and 1782); and **pisarz**, the court

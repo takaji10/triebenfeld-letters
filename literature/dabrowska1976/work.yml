@@ -1,0 +1,88 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md is made
+# by make_original.py from JewishGen's pages (2026-10-21): the English
+# translation, by Morris Gradel, of three entries of Pinkas Hakehillot Polin,
+# vol. I: Zagórów (p. 103), Pyzdry (pp. 202-203), Konin (pp. 235-238). The
+# original is Hebrew; the edition holds only this translation, so there is no
+# english.md. JewishGen's notice forbids copying without its permission: kept
+# as Seidel (2018) at the editor's word (2026-10-21), in the repository and
+# not on the site (visible: false); the site shows only the detailed summary
+# below. See notes.md.
+slug: dabrowska1976
+visible: false
+kind: reference
+title: "Pinkas Hakehillot Polin, vol. I: Zagórów (p. 103), Pyzdry (pp. 202-203), Konin (pp. 235-238), in English"
+title_en: ""
+cite: "Pinkas Hakehillot (1976)"
+author: "Danuta Dąbrowska and Abraham Wein (eds.); translated by Morris Gradel"
+author_sort: "Dąbrowska, Danuta, and Abraham Wein (eds.)"
+published: "Pinkas Hakehillot Polin: Encyclopedia of Jewish Communities, Poland, vol. I, Łódź and its region, ed. Danuta Dąbrowska and Abraham Wein, Jerusalem: Yad Vashem, 1976 (in Hebrew; the year from the Encyclopedia of Camps and Ghettos, which cites p. 103), the entries Zagórów, Pyzdry and Konin. English translation by Morris Gradel, JewishGen Yizkor Book Project (pages updated 2005), not to be copied without JewishGen's permission"
+year: 1976
+language: en
+english_by: ""
+scan: "https://www.jewishgen.org/Yizkor/pinkas_poland/pol1_00103a.html"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Three entries of Yad Vashem's encyclopedia of the Jewish communities of
+  Poland, in English translations made for JewishGen: Zagórów, Pyzdry and
+  Konin, the three towns nearest the edition's estates. Each gives the Jewish
+  population from the late eighteenth century to 1939, the community's
+  history, trades and institutions, the years between the wars and the
+  Holocaust, when the Jews of the district were driven in 1940 into the
+  ghettos of Zagórów, Grodziec and Rzgów and murdered in the forests near
+  Kazimierz Biskupi in 1941. The Encyclopedia of Camps and Ghettos (2012)
+  cites them. Under copyright: the site gives a detailed summary. Where the
+  entries differ from the edition's documents (the year Zagórów became a
+  town) the edition follows the documents.
+account_de: >-
+  Drei Artikel aus Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens,
+  in für JewishGen gemachten englischen Übersetzungen: Zagórów, Pyzdry und
+  Konin, die drei den Gütern der Edition nächsten Städte. Jeder gibt die
+  jüdische Bevölkerung vom späten 18. Jahrhundert bis 1939, die Geschichte,
+  Gewerbe und Einrichtungen der Gemeinde, die Zwischenkriegszeit und den
+  Holocaust, als die Juden des Kreises 1940 in die Ghettos von Zagórów,
+  Grodziec und Rzgów getrieben und 1941 in den Wäldern bei Kazimierz
+  Biskupi ermordet wurden. Die Enzyklopädie der Lager und Ghettos (2012)
+  führt sie an. Urheberrechtlich geschützt: Die Seite gibt eine
+  ausführliche Zusammenfassung. Wo die Artikel von den Dokumenten der
+  Edition abweichen (das Jahr, in dem Zagórów Stadt wurde), folgt die
+  Edition den Dokumenten.
+# The detailed summary shown on the site in place of the text (the editor,
+# 2026-10-21), written by Claude from the three entries, in its own words;
+# verify_site.py checks that no stretch of the text appears on the site.
+summary_en: |
+  Three entries of *Pinkas Hakehillot Polin*, Yad Vashem's encyclopedia of the Jewish communities of Poland (vol. I, Łódź and its region, 1976), in the English translations Morris Gradel made for JewishGen. Each opens with a table of the general and the Jewish population and closes with the Holocaust.
+
+  ### Zagórów (p. 103)
+
+  The table runs from 1808, when 21 of the 827 inhabitants were Jews, to 1921 (807 of 3,715), with about 630 Jews on 1 September 1939. The entry dates the town's status to 1368 and the first Jewish settlers to the turn of the eighteenth and nineteenth centuries. In the nineteenth century Jews owned flour mills, dealt in farm produce and leather and worked as hatters, tailors, shoemakers, carpenters and tinsmiths; later they made blanket cloth. A new synagogue was built in 1882, a provident fund founded in 1889, with charities for the poor, for brides and for the synagogue's lamp. Zionist groups appear before the First World War, a library in 1915 and a branch of the Zionist federation in 1917. Between the wars the Jews grew poorer under Polish competition; several Zionist parties were active and the rabbi in the 1930s was Shalom Grodzinski. At the fair of February 1936 a crowd of some 3,000 peasants attacked the Jewish traders, looted and wounded six; 55 people were tried, among them local nationalist leaders. A boycott closed fifteen Jewish businesses in 1937, and Jewish traders were refused stalls. The Germans took the town on 6 September 1939 and imposed forced labour, confiscations and armbands; in February 1940 men were sent to labour at Bochnia; in the spring of 1940 the Jews were shut in a ghetto, joined in June and July by Jews from Konin, Słupca, Ślesin and Golina, about 2,000 in all early in 1941. In late summer 1941 some 450 men went to the salt mines of Inowrocław; in October 1941 the rest were taken to the forests near Kazimierz Biskupi and murdered.
+
+  ### Pyzdry (pp. 202-203)
+
+  The table gives 454 Jews in 1764-1765, 1,221 of 3,412 inhabitants in 1808, then a decline to 406 in 1921 and about 500 in 1939. Pyzdry, a town since 1247 and once a trading centre, declined from the fifteenth century, lost its town rights in 1870 and regained them in 1919. Jews are recorded there from 1387; a fifteenth-century rabbi mentions the community, and its leaders sat in the Council of the Four Lands. In the seventeenth and eighteenth centuries the Jews lived in their own quarter and built mills, tanneries and weaving shops; the entry counts the Jewish craftsmen of 1764 and names the rabbis from 1782 to the twentieth century. Between the wars the community became poorer under antisemitic pressure; in 1936 nationalists murdered Marcus Nelken, owner of a Jewish farm near the town; Zionists and Agudat Israel shared the community board. After the German conquest in September 1939 a Judenrat had to list the community and supply forced labour; on 17-18 July 1940 the Jews were deported to Rzgów, Grodziec and Zagórów and shared the fate of the Jews of the Konin district.
+
+  ### Konin (pp. 235-238)
+
+  The longest of the three, in four parts. **To 1918:** a town since the late thirteenth century, with Jews recorded from 1397, probably come from Kalisz and under its community until the end of the eighteenth century; a Jewish street from 1633; fires, epidemics and the Swedish wars; the grain trade, the fairs (from 1425), and in the nineteenth century Jewish wholesale trade, breweries, building materials, flour mills, an agricultural machinery plant and a bank (1913). The rabbis from 1810 to the Second World War, the Great Synagogue (1766), a Beit Midrash, Hasidic prayer houses and charities; Jews in the rising of 1863; Zionists, Poalei Zion and the Bund from 1905; a Jewish mayor in 1916; schools, a library (1901) and Yiddish theatre; the hardships of the First World War. **Between the wars:** markets and trades much as before, nearly every Jewish party and youth movement, a Hebrew-Polish gymnasium, an ORT school, a library of 8,190 books in 1936, painters and writers from Konin, sports clubs. **The Holocaust:** hostages and executions in September 1939; on 30 November 1939 about a thousand Jews were rounded up and on 3 December deported to Ostrowiec; in July 1940 most of the rest were sent with the Jews of the district to Grodziec and Rzgów, a kind of rural ghetto, and to Zagórów; in March 1941 most of the Jews of Grodziec went by way of Łódź to Józefów Biłgorajski, where they were killed in 1942; in October 1941 the Jews gathered at Zagórów, Rzgów and Grodziec were murdered in the forests of Kazimierz Biskupi, and their bodies burned in 1945. A labour camp at Konin held Jews from Gostynin and Gąbin from March 1942; its prisoners rose and set fire to it in August 1943, and Rabbi Yehoshua Moshe Aaronson's diary of the camp survived in part. Konin Jews fought in the Warsaw and Częstochowa ghettos. After the war 46 Jews returned (1945); by 1965 two remained. **Notes:** the translator's glossary of Hebrew and Yiddish terms.
+
+  ### Where the edition's documents say otherwise
+
+  The Zagórów entry dates the town's status to 1368. The edition's document is King Władysław II's privilege of 19 November 1407 allowing the abbey of Ląd to found a town at its village of Zagórów under Magdeburg law (Kodeks Dyplomatyczny Wielkopolski; the edition's KDW, doc. 14); the edition follows it. The entry's Jews settling about 1800 agrees with the parish count of 1791 (ADWł 85, doc. 2), which lists none in the town. Against the Encyclopedia of Camps and Ghettos (2012) the entries differ on details of 1940-1941 (where the Jews of Słupca were sent, the numbers in the Zagórów ghetto, the month of the murder); neither is a document, and the edition rules on neither.
+summary_de: |
+  Drei Artikel aus *Pinkas Hakehillot Polin*, Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens (Bd. I, Łódź und Umgebung, 1976), in den englischen Übersetzungen, die Morris Gradel für JewishGen gemacht hat. Jeder beginnt mit einer Tafel der Gesamt- und der jüdischen Bevölkerung und endet mit dem Holocaust.
+
+  ### Zagórów (S. 103)
+
+  Die Tafel reicht von 1808, als 21 der 827 Einwohner Juden waren, bis 1921 (807 von 3.715), mit etwa 630 Juden am 1. September 1939. Der Artikel datiert das Stadtrecht auf 1368 und die ersten jüdischen Siedler um die Wende vom 18. zum 19. Jahrhundert. Im 19. Jahrhundert besaßen Juden Mühlen, handelten mit Feldfrüchten und Leder und arbeiteten als Hutmacher, Schneider, Schuhmacher, Tischler und Klempner; später stellten sie Deckenstoff her. 1882 wurde eine neue Synagoge gebaut, 1889 eine Darlehenskasse gegründet, dazu Stiftungen für die Armen, für Bräute und für die Lampe der Synagoge. Vor dem Ersten Weltkrieg entstehen zionistische Gruppen, 1915 eine Bibliothek und 1917 eine Ortsgruppe der Zionistischen Vereinigung. Zwischen den Kriegen verarmten die Juden unter polnischer Konkurrenz; mehrere zionistische Parteien waren tätig, Rabbiner in den 1930er Jahren war Shalom Grodzinski. Auf dem Jahrmarkt im Februar 1936 fiel eine Menge von etwa 3.000 Bauern über die jüdischen Händler her, plünderte und verletzte sechs; 55 Personen kamen vor Gericht, darunter örtliche nationalistische Führer. Ein Boykott schloss 1937 fünfzehn jüdische Geschäfte, jüdischen Händlern wurden Marktstände verweigert. Die Deutschen nahmen die Stadt am 6. September 1939 und verhängten Zwangsarbeit, Beschlagnahmen und Armbinden; im Februar 1940 wurden Männer zur Arbeit nach Bochnia geschickt; im Frühjahr 1940 wurden die Juden in ein Ghetto gesperrt, zu denen im Juni und Juli Juden aus Konin, Słupca, Ślesin und Golina kamen, Anfang 1941 etwa 2.000. Im Spätsommer 1941 kamen etwa 450 Männer in die Salzbergwerke von Inowrocław; im Oktober 1941 wurden die übrigen in die Wälder bei Kazimierz Biskupi gebracht und ermordet.
+
+  ### Pyzdry (S. 202-203)
+
+  Die Tafel gibt 454 Juden 1764-1765, 1.221 von 3.412 Einwohnern 1808, dann einen Rückgang auf 406 im Jahr 1921 und etwa 500 im Jahr 1939. Pyzdry, seit 1247 Stadt und einst ein Handelsplatz, verfiel seit dem 15. Jahrhundert, verlor 1870 das Stadtrecht und erhielt es 1919 zurück. Juden sind dort seit 1387 bezeugt; ein Rabbiner des 15. Jahrhunderts erwähnt die Gemeinde, und ihre Vorsteher saßen im Vierländerrat. Im 17. und 18. Jahrhundert lebten die Juden in einem eigenen Viertel und bauten Mühlen, Gerbereien und Webereien; der Artikel zählt die jüdischen Handwerker von 1764 und nennt die Rabbiner von 1782 bis ins 20. Jahrhundert. Zwischen den Kriegen verarmte die Gemeinde unter antisemitischem Druck; 1936 ermordeten Nationalisten Marcus Nelken, den Besitzer eines jüdischen Hofes bei der Stadt; Zionisten und Agudat Israel teilten sich den Gemeindevorstand. Nach der deutschen Eroberung im September 1939 musste ein Judenrat die Gemeinde erfassen und Zwangsarbeiter stellen; am 17. und 18. Juli 1940 wurden die Juden nach Rzgów, Grodziec und Zagórów verschleppt und teilten das Schicksal der Juden des Kreises Konin.
+
+  ### Konin (S. 235-238)
+
+  Der längste der drei Artikel, in vier Teilen. **Bis 1918:** Stadt seit dem späten 13. Jahrhundert, Juden seit 1397 bezeugt, wohl aus Kalisch gekommen und bis Ende des 18. Jahrhunderts dessen Gemeinde unterstellt; seit 1633 eine Judengasse; Brände, Seuchen und die Schwedenkriege; der Getreidehandel, die Jahrmärkte (seit 1425) und im 19. Jahrhundert jüdischer Großhandel, Brauereien, Baustoffe, Mühlen, eine Landmaschinenfabrik und eine Bank (1913). Die Rabbiner von 1810 bis zum Zweiten Weltkrieg, die Große Synagoge (1766), ein Lehrhaus, chassidische Bethäuser und Stiftungen; Juden im Aufstand von 1863; Zionisten, Poalei Zion und der Bund seit 1905; 1916 ein jüdischer Bürgermeister; Schulen, eine Bibliothek (1901) und jiddisches Theater; die Not des Ersten Weltkriegs. **Zwischen den Kriegen:** Märkte und Gewerbe wie zuvor, fast alle jüdischen Parteien und Jugendbewegungen, ein hebräisch-polnisches Gymnasium, eine ORT-Schule, 1936 eine Bibliothek von 8.190 Bänden, Maler und Schriftsteller aus Konin, Sportvereine. **Der Holocaust:** Geiseln und Erschießungen im September 1939; am 30. November 1939 wurden etwa tausend Juden zusammengetrieben und am 3. Dezember nach Ostrowiec verschleppt; im Juli 1940 kam der größte Teil der übrigen mit den Juden des Kreises nach Grodziec und Rzgów, eine Art Landghetto, und nach Zagórów; im März 1941 gingen die meisten Juden von Grodziec über Łódź nach Józefów Biłgorajski, wo sie 1942 getötet wurden; im Oktober 1941 wurden die in Zagórów, Rzgów und Grodziec gesammelten Juden in den Wäldern von Kazimierz Biskupi ermordet und ihre Leichen 1945 verbrannt. Ein Arbeitslager in Konin hielt seit März 1942 Juden aus Gostynin und Gąbin; seine Häftlinge erhoben sich im August 1943 und zündeten es an, und das Lagertagebuch des Rabbiners Yehoshua Moshe Aaronson ist zum Teil erhalten. Juden aus Konin kämpften in den Ghettos von Warschau und Tschenstochau. Nach dem Krieg kehrten 46 Juden zurück (1945); 1965 waren noch zwei da. **Anmerkungen:** das Glossar des Übersetzers zu hebräischen und jiddischen Begriffen.
+
+  ### Wo die Dokumente der Edition anderes sagen
+
+  Der Artikel über Zagórów datiert das Stadtrecht auf 1368. Das Dokument der Edition ist das Privileg König Władysławs II. vom 19. November 1407, das der Abtei Ląd erlaubt, bei ihrem Dorf Zagórów eine Stadt nach Magdeburger Recht anzulegen (Kodeks Dyplomatyczny Wielkopolski; KDW der Edition, Dok. 14); die Edition folgt ihm. Die Ansiedlung der Juden um 1800 stimmt zur Seelenzählung der Pfarrei von 1791 (ADWł 85, Dok. 2), die in der Stadt keine verzeichnet. Gegenüber der Enzyklopädie der Lager und Ghettos (2012) weichen die Artikel in Einzelheiten von 1940-1941 ab (wohin die Juden aus Słupca kamen, die Zahlen im Ghetto Zagórów, der Monat des Mordes); keines von beiden ist ein Dokument, und die Edition entscheidet nicht zwischen ihnen.

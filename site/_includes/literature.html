@@ -11,8 +11,9 @@
   pipeline/literature/literature_site.py), in the order of the authors' names
   and each author's works by year. Each entry (the editor, 2026-10-20): the
   author, surname first; the title as printed, and the English title in
-  italics under it; where it was published; its language. A work kept for
-  questions only is not in that file at all.
+  italics under it; where it was published; its language. A work under
+  copyright (summary_only) is listed with a note, and its page holds only a
+  summary of its contents (the editor, 2026-10-21).
 {%- endcomment -%}
 <div class="sources">
   {% for w in site.data.literature %}
@@ -27,7 +28,8 @@
         <div><dt>{{ t.lit_language }}</dt><dd>{{ t[lang_key] }}</dd></div>
       </dl>
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
-      <p class="source-go"><a href="{{ w_page | relative_url }}">{{ t.lit_read }}</a></p>
+      {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}
+      <p class="source-go"><a href="{{ w_page | relative_url }}">{% if w.summary_only %}{{ t.lit_read_summary }}{% else %}{{ t.lit_read }}{% endif %}</a></p>
     </section>
   {% endfor %}
 </div>

@@ -1,0 +1,31 @@
+---
+work: "dabrowska1976"
+title: "Pinkas Hakehillot (1976)"
+lang: de
+permalink: "/de/literatur/dabrowska1976/"
+alt_url: "/literature/dabrowska1976/"
+excerpt_separator: ""
+---
+{% raw %}
+<div class="lit-summary" markdown="1">
+
+Drei Artikel aus *Pinkas Hakehillot Polin*, Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens (Bd. I, Łódź und Umgebung, 1976), in den englischen Übersetzungen, die Morris Gradel für JewishGen gemacht hat. Jeder beginnt mit einer Tafel der Gesamt- und der jüdischen Bevölkerung und endet mit dem Holocaust.
+
+### Zagórów (S. 103)
+
+Die Tafel reicht von 1808, als 21 der 827 Einwohner Juden waren, bis 1921 (807 von 3.715), mit etwa 630 Juden am 1. September 1939. Der Artikel datiert das Stadtrecht auf 1368 und die ersten jüdischen Siedler um die Wende vom 18. zum 19. Jahrhundert. Im 19. Jahrhundert besaßen Juden Mühlen, handelten mit Feldfrüchten und Leder und arbeiteten als Hutmacher, Schneider, Schuhmacher, Tischler und Klempner; später stellten sie Deckenstoff her. 1882 wurde eine neue Synagoge gebaut, 1889 eine Darlehenskasse gegründet, dazu Stiftungen für die Armen, für Bräute und für die Lampe der Synagoge. Vor dem Ersten Weltkrieg entstehen zionistische Gruppen, 1915 eine Bibliothek und 1917 eine Ortsgruppe der Zionistischen Vereinigung. Zwischen den Kriegen verarmten die Juden unter polnischer Konkurrenz; mehrere zionistische Parteien waren tätig, Rabbiner in den 1930er Jahren war Shalom Grodzinski. Auf dem Jahrmarkt im Februar 1936 fiel eine Menge von etwa 3.000 Bauern über die jüdischen Händler her, plünderte und verletzte sechs; 55 Personen kamen vor Gericht, darunter örtliche nationalistische Führer. Ein Boykott schloss 1937 fünfzehn jüdische Geschäfte, jüdischen Händlern wurden Marktstände verweigert. Die Deutschen nahmen die Stadt am 6. September 1939 und verhängten Zwangsarbeit, Beschlagnahmen und Armbinden; im Februar 1940 wurden Männer zur Arbeit nach Bochnia geschickt; im Frühjahr 1940 wurden die Juden in ein Ghetto gesperrt, zu denen im Juni und Juli Juden aus Konin, Słupca, Ślesin und Golina kamen, Anfang 1941 etwa 2.000. Im Spätsommer 1941 kamen etwa 450 Männer in die Salzbergwerke von Inowrocław; im Oktober 1941 wurden die übrigen in die Wälder bei Kazimierz Biskupi gebracht und ermordet.
+
+### Pyzdry (S. 202-203)
+
+Die Tafel gibt 454 Juden 1764-1765, 1.221 von 3.412 Einwohnern 1808, dann einen Rückgang auf 406 im Jahr 1921 und etwa 500 im Jahr 1939. Pyzdry, seit 1247 Stadt und einst ein Handelsplatz, verfiel seit dem 15. Jahrhundert, verlor 1870 das Stadtrecht und erhielt es 1919 zurück. Juden sind dort seit 1387 bezeugt; ein Rabbiner des 15. Jahrhunderts erwähnt die Gemeinde, und ihre Vorsteher saßen im Vierländerrat. Im 17. und 18. Jahrhundert lebten die Juden in einem eigenen Viertel und bauten Mühlen, Gerbereien und Webereien; der Artikel zählt die jüdischen Handwerker von 1764 und nennt die Rabbiner von 1782 bis ins 20. Jahrhundert. Zwischen den Kriegen verarmte die Gemeinde unter antisemitischem Druck; 1936 ermordeten Nationalisten Marcus Nelken, den Besitzer eines jüdischen Hofes bei der Stadt; Zionisten und Agudat Israel teilten sich den Gemeindevorstand. Nach der deutschen Eroberung im September 1939 musste ein Judenrat die Gemeinde erfassen und Zwangsarbeiter stellen; am 17. und 18. Juli 1940 wurden die Juden nach Rzgów, Grodziec und Zagórów verschleppt und teilten das Schicksal der Juden des Kreises Konin.
+
+### Konin (S. 235-238)
+
+Der längste der drei Artikel, in vier Teilen. **Bis 1918:** Stadt seit dem späten 13. Jahrhundert, Juden seit 1397 bezeugt, wohl aus Kalisch gekommen und bis Ende des 18. Jahrhunderts dessen Gemeinde unterstellt; seit 1633 eine Judengasse; Brände, Seuchen und die Schwedenkriege; der Getreidehandel, die Jahrmärkte (seit 1425) und im 19. Jahrhundert jüdischer Großhandel, Brauereien, Baustoffe, Mühlen, eine Landmaschinenfabrik und eine Bank (1913). Die Rabbiner von 1810 bis zum Zweiten Weltkrieg, die Große Synagoge (1766), ein Lehrhaus, chassidische Bethäuser und Stiftungen; Juden im Aufstand von 1863; Zionisten, Poalei Zion und der Bund seit 1905; 1916 ein jüdischer Bürgermeister; Schulen, eine Bibliothek (1901) und jiddisches Theater; die Not des Ersten Weltkriegs. **Zwischen den Kriegen:** Märkte und Gewerbe wie zuvor, fast alle jüdischen Parteien und Jugendbewegungen, ein hebräisch-polnisches Gymnasium, eine ORT-Schule, 1936 eine Bibliothek von 8.190 Bänden, Maler und Schriftsteller aus Konin, Sportvereine. **Der Holocaust:** Geiseln und Erschießungen im September 1939; am 30. November 1939 wurden etwa tausend Juden zusammengetrieben und am 3. Dezember nach Ostrowiec verschleppt; im Juli 1940 kam der größte Teil der übrigen mit den Juden des Kreises nach Grodziec und Rzgów, eine Art Landghetto, und nach Zagórów; im März 1941 gingen die meisten Juden von Grodziec über Łódź nach Józefów Biłgorajski, wo sie 1942 getötet wurden; im Oktober 1941 wurden die in Zagórów, Rzgów und Grodziec gesammelten Juden in den Wäldern von Kazimierz Biskupi ermordet und ihre Leichen 1945 verbrannt. Ein Arbeitslager in Konin hielt seit März 1942 Juden aus Gostynin und Gąbin; seine Häftlinge erhoben sich im August 1943 und zündeten es an, und das Lagertagebuch des Rabbiners Yehoshua Moshe Aaronson ist zum Teil erhalten. Juden aus Konin kämpften in den Ghettos von Warschau und Tschenstochau. Nach dem Krieg kehrten 46 Juden zurück (1945); 1965 waren noch zwei da. **Anmerkungen:** das Glossar des Übersetzers zu hebräischen und jiddischen Begriffen.
+
+### Wo die Dokumente der Edition anderes sagen
+
+Der Artikel über Zagórów datiert das Stadtrecht auf 1368. Das Dokument der Edition ist das Privileg König Władysławs II. vom 19. November 1407, das der Abtei Ląd erlaubt, bei ihrem Dorf Zagórów eine Stadt nach Magdeburger Recht anzulegen (Kodeks Dyplomatyczny Wielkopolski; KDW der Edition, Dok. 14); die Edition folgt ihm. Die Ansiedlung der Juden um 1800 stimmt zur Seelenzählung der Pfarrei von 1791 (ADWł 85, Dok. 2), die in der Stadt keine verzeichnet. Gegenüber der Enzyklopädie der Lager und Ghettos (2012) weichen die Artikel in Einzelheiten von 1940-1941 ab (wohin die Juden aus Słupca kamen, die Zahlen im Ghetto Zagórów, der Monat des Mordes); keines von beiden ist ein Dokument, und die Edition entscheidet nicht zwischen ihnen.
+
+</div>
+{% endraw %}
