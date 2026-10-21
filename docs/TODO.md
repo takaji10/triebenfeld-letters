@@ -656,6 +656,29 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] The places Grodziec and Rzgów; Rzgów an estate in focus. All
       published at your word (2026-10-21). Open: whether Grodziec should
       be listed on the Places page (NEEDS_CONFIRMATION).
+- [x] Karwowski (1900), "Klasztor pp. cystersek w Ołoboku" (Roczniki TPNA
+      T. XXVI, pp. 1-114), added (2026-10-21; LITERATURE_PLAN.md, section
+      19): only the two paragraphs of p. 87 you quoted, with their footnote,
+      read from the WBC digitisation (DjVu id 118639; the files not kept).
+      Published at your word (2026-10-21).
+- [ ] **You:** the three identifications it raises, in NEEDS_CONFIRMATION
+      ("The literature"): whether Karwowski's Ignacy Trzciński is the
+      letters' Ignatz von Trzciński; whether his Karol Bogumił Weygel is
+      the banker Weigel or his son; minister Sobolewski (Claude's
+      identification, offered).
+- [ ] Offered: a hand-made link from the passage to the Weigel compensation
+      documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454, letters 220 and
+      284), each figure read on both sides first.
+- [x] Janocki (1779), the Lochowski entry (Ianociana II, pp. 159-160), added
+      (2026-10-21; LITERATURE_PLAN.md, section 18): the first sub-item,
+      attached to Paciorkowski (1776) at your word; the citation now reads
+      "Paciorkowski (1776) [= Lochowski 1641]". Read from your PDF (the
+      three pages: the title page and pp. 159-160; not kept). Published at
+      your word (2026-10-21).
+- [ ] **You:** a look at the transcription of the two pages and the doubtful
+      reading "Miedzyborze" (the last line of p. 160; NEEDS_CONFIRMATION),
+      and the wording of the citation's bracket "[= Lochowski 1641]", chosen
+      without you.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 

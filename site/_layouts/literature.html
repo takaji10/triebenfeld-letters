@@ -29,6 +29,18 @@ layout: default
       {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>
       {% elsif w.language != 'en' %}<p class="lit-caveat">{{ t.lit_caveat }}</p>{% endif %}
       {% if w.scan != "" %}<p><a href="{{ w.scan }}">{{ t.lit_scan }}</a></p>{% endif %}
+      {%- comment -%} The sub-items' note (Janocki 1779 on Paciorkowski 1776). {%- endcomment -%}
+      {%- assign lit_subs = site.data.literature | where: "parent", page.work -%}
+      {%- for sub in lit_subs -%}
+      <aside class="lit-parent-note">
+        <p>{% if lang == 'de' %}{{ sub.note_de }}{% else %}{{ sub.note_en }}{% endif %}</p>
+        <p class="lit-parent-link"><a href="{{ u_lit | append: sub.slug | append: '/' | relative_url }}">{{ sub.cite }}</a></p>
+      </aside>
+      {%- endfor -%}
+      {%- if w.parent -%}
+      {%- assign lit_parent = site.data.literature | where: "slug", w.parent | first -%}
+      <p class="lit-caveat">{{ t.lit_parent }} <a href="{{ u_lit | append: lit_parent.slug | append: '/' | relative_url }}">{{ lit_parent.cite }}</a></p>
+      {%- endif -%}
     </div>
   </header>
 

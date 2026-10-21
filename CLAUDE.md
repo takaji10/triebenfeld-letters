@@ -119,6 +119,21 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Janocki (1779)** (`janocki1779`, added and **published 2026-10-21**): the
+  entry "Stanislaus Lochowski" (LXXVII, pp. 159-160) of the *Ianociana* II
+  (Warsaw and Leipzig 1779), which says Paciorkowski's handbook is Lochowski's
+  *Processus iuris limitanei* of 1641 printed under Paciorkowski's own name —
+  the editor asked for it attached to Paciorkowski (1776). **The first
+  sub-item**: `parent: paciorkowski1776` in its `work.yml`; the Literature page
+  shows it inside Paciorkowski's section, Paciorkowski's page carries the note
+  (Janocki's words, with a link), and the citation of the parent work now
+  reads "Paciorkowski (1776) [= Lochowski 1641]" (the bracket's wording chosen
+  without the editor; TODO asks). Built from the editor's PDF (title page and
+  the two pages; not kept in the repository); the entry runs to p. 161, the
+  extract stops at 160. The doubtful reading "Miedzyborze" and the
+  transcription wait on the editor (NEEDS_CONFIRMATION).
+  `docs/LITERATURE_PLAN.md`, section 18; the work's `notes.md` first. The
+  literature has 22 works, 20 on the site.
 - **APP 53/1455/0/2/21** (`app5314550221`, added and **published
   2026-10-21**): six pages (13, 14, 25, 26, 66, the archive's pencil
   numbers, and 15, added at the editor's word) of the eighteenth-century copy-book of the privileges of the
@@ -148,6 +163,17 @@ so check them.
   (`dabrowska1976`, added 2026-10-21: JewishGen's English of the entries
   Zagórów, Pyzdry and Konin, kept as Seidel at the editor's word).
   **Published 2026-10-21**, with Drommin and the Ląd copy-book.
+
+- **Karwowski (1900)** (`karwowski1900`, added and **published 2026-10-21**):
+  "Klasztor pp. cystersek w Ołoboku", the first article of Roczniki TPNA
+  T. XXVI (pp. 1-114), a history of the Cistercian nuns' convent at Ołobok.
+  Only the two paragraphs of p. 87 the editor named are brought in, with
+  their footnote, read from the WBC digitisation (DjVu id 118639; the files
+  not kept), the image checked at 300 dpi and word-level zooms, the scan's
+  text layer only as a check. Out of copyright (author d. 1917). Index
+  ruled; three identifications open (Trzciński, Weygel, Sobolewski —
+  NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 19; the work's
+  `notes.md` first. The literature has 22 works, 20 on the site.
 
 - **Frost (2007)** (`frost2007`, added and **published 2026-10-21**): the
   nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.

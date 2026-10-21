@@ -28520,6 +28520,66 @@
   "context": "[^18]: Diese Administrirung der Herrschaft Krotoschin setzte, nach der Vertreibung des Früson aus der Pacht im August 1792, der Triebenfeld jedoch nicht lange, fort. Von vielen Zerstreuungen, Reisen und Geschäften, (die welches wohl zu merken ist, nicht Dienstgeschäfte waren) bey der damals im Jahre 1793 bald eintretenden Occupation von Süd-Preussen umhergeworfen, sah er ein, dass seine beständige Abwesenheit von Krotoschin seinem Beutel schaden müsse. Er gab also einem gewissen Starosten Gajewsky, (Besitzer des südpreussischen Städchens Storchnest, und, ein bis sein Unstern ihn mit Triebenfeld zusammen führte, reicher aber einfältiger Mann,) die Herrschaft Krotoschin auf 10 Jahr in eine Art von Afterpacht, mit der Bedingung, dass *Gajewsky* ihm jährlich 5000 Thaler von dem zu machenden Profit abgeben solle. *Gajewsky* ging den Handel ein. Bald nachher überredete *Triebenfeld* den *Gajewsky* unter allerhand vorgespiegelten Vortheilen, dass dieser ihm die fünftausend Thaler zehnmal, mithin funfzigtausend Thaler voraus bezahlte; *Gajewsky* hatte aber nicht so viel bahres Geld, und nun schoss es *Hoym* dem *Gajewsky* aus einer der grossen schlesischen Cassen vor, damit dieser den *Triebenfeld* bezahlen konnte, dagegen verpfändete *Gajewsky* sein ganzes Vermögen, die Herrschaft Storchnest und Starostey Powidz der Casse die das Darlehn in Bresslau hergab. Inzwischen trat der Fall ein, dass *Hoym* durch den ersten unter *Dankelmanns* Aufsicht geführten Früsonschen Prozess, bevor *Goldbek* denselben im Juli 1795 niederschlagen konnte, schon im Anfange des Jahres 1795 so geängstigt wurde, dass er, als das beste Hülfsmittel, allen Früsonschen Prätensionen für immer einen Riegel vorzuschieben, von Fridrich Wilhelm dem II. einen Cabinets-Befehl unterm 4. März 1795 auswirkte, zufolge dessen die Seehandlungs-Societät von Trinitatis 1795 an die Herrschaft Krotoschin für eine Million Thaler an das süd-preussische Domainen-Aerarium verkaufen musste. Krotoschin wurde also eine süd-preussische Domaine und nun sah Gajewsky sich genöthiget, zu Trinitatis 1795 ohngefehr eben so wie 3 Jahre vorher Früson, aus Krotoschin zu wandern. Demohngeachtet zählte Triebenfeld den erhaltenen Vorschuss nicht an Gajewsky zurück, Hoym aber deckte die Casse mit dem Gajewskyschen Vermögen und auf diese Weise ward aus dem Gajewsky ein armer Mann, der als ein lebendiges Denkmal der Schwäche und Schlechtheit des Hoym, in Süd-Preussen umhergeht und jedem der ihn nur hören will, seine lamentable Geschichte erzählt. Wer die Wahrheit dieser gleichsam nur so nebenher begangenen Büberey bestreiten und die vielen darum wissenden Zeugen bey den Cammern in Posen und Bresslau widerlegen kann, ey! der trete doch auf. A. d. H."
  },
  {
+  "kind": "person",
+  "entity": "hohenlohe",
+  "display": "Hohenlohe",
+  "surface": "Hohenlohe",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 1,
+  "context": "[…] W tym razie Panny postąpiły sobie nieostrożnie, bo miasto Zagórów i należące do niego włości były przez poprzedniego dziedzica, księcia Hohenlohe-Ingelfingen, obdłużone na 2,000,000 złp., Ignacy Trzciński zaś kupił je w r. 1812 z ciążącymi na nich długami, które, jako jeszcze z r. 1805 pochodzące i z hipoteki pruskiej przeniesione, pierwsze miejsce w hipotece nowej regulacyi otrzymały. Na samem mieście Zagórowie, za które Trzciński dał 78,000 złp., było długów 300,000 złp. Nic więc dziwnego, że wśród takich okoliczności Trzciński nie mógł się utrzymać przy dobrach zagórskich, które nabył dnia 1 września 1827 r. za 1,000,000 złp. na publicznej licytacji Karol Bogumił Weygel, bankier wrocławski, przyczem z 120,000 złp., które miał na nich zahipotekowane, uratował tylko 56,879 złp., z resztą zaś spadł, a po nim wszyscy inni wierzyciele hipoteczni."
+ },
+ {
+  "kind": "person",
+  "entity": "sobolewski",
+  "display": "Sobolewski",
+  "surface": "Sobolewski",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 3,
+  "context": "Tak więc przepadła suma 40,000 złp. PP. Cysterskom wraz z zaległą od r. 1806 prowizyą, o czem doniósł rządowi pruskiemu minister Sobolewski listem, datowanym z Warszawy dnia 23 października 1828 roku[^2]"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 1,
+  "context": "[…] W tym razie Panny postąpiły sobie nieostrożnie, bo miasto Zagórów i należące do niego włości były przez poprzedniego dziedzica, księcia Hohenlohe-Ingelfingen, obdłużone na 2,000,000 złp., Ignacy Trzciński zaś kupił je w r. 1812 z ciążącymi na nich długami, które, jako jeszcze z r. 1805 pochodzące i z hipoteki pruskiej przeniesione, pierwsze miejsce w hipotece nowej regulacyi otrzymały. Na samem mieście Zagórowie, za które Trzciński dał 78,000 złp., było długów 300,000 złp. Nic więc dziwnego, że wśród takich okoliczności Trzciński nie mógł się utrzymać przy dobrach zagórskich, które nabył dnia 1 września 1827 r. za 1,000,000 złp. na publicznej licytacji Karol Bogumił Weygel, bankier wrocławski, przyczem z 120,000 złp., które miał na nich zahipotekowane, uratował tylko 56,879 złp., z resztą zaś spadł, a po nim wszyscy inni wierzyciele hipoteczni."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 1,
+  "context": "[…] W tym razie Panny postąpiły sobie nieostrożnie, bo miasto Zagórów i należące do niego włości były przez poprzedniego dziedzica, księcia Hohenlohe-Ingelfingen, obdłużone na 2,000,000 złp., Ignacy Trzciński zaś kupił je w r. 1812 z ciążącymi na nich długami, które, jako jeszcze z r. 1805 pochodzące i z hipoteki pruskiej przeniesione, pierwsze miejsce w hipotece nowej regulacyi otrzymały. Na samem mieście Zagórowie, za które Trzciński dał 78,000 złp., było długów 300,000 złp. Nic więc dziwnego, że wśród takich okoliczności Trzciński nie mógł się utrzymać przy dobrach zagórskich, które nabył dnia 1 września 1827 r. za 1,000,000 złp. na publicznej licytacji Karol Bogumił Weygel, bankier wrocławski, przyczem z 120,000 złp., które miał na nich zahipotekowane, uratował tylko 56,879 złp., z resztą zaś spadł, a po nim wszyscy inni wierzyciele hipoteczni."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "zagórskich",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 1,
+  "context": "[…] W tym razie Panny postąpiły sobie nieostrożnie, bo miasto Zagórów i należące do niego włości były przez poprzedniego dziedzica, księcia Hohenlohe-Ingelfingen, obdłużone na 2,000,000 złp., Ignacy Trzciński zaś kupił je w r. 1812 z ciążącymi na nich długami, które, jako jeszcze z r. 1805 pochodzące i z hipoteki pruskiej przeniesione, pierwsze miejsce w hipotece nowej regulacyi otrzymały. Na samem mieście Zagórowie, za które Trzciński dał 78,000 złp., było długów 300,000 złp. Nic więc dziwnego, że wśród takich okoliczności Trzciński nie mógł się utrzymać przy dobrach zagórskich, które nabył dnia 1 września 1827 r. za 1,000,000 złp. na publicznej licytacji Karol Bogumił Weygel, bankier wrocławski, przyczem z 120,000 złp., które miał na nich zahipotekowane, uratował tylko 56,879 złp., z resztą zaś spadł, a po nim wszyscy inni wierzyciele hipoteczni."
+ },
+ {
+  "kind": "place",
+  "entity": "warschau",
+  "display": "Warszawa (Warschau)",
+  "surface": "Warszawy",
+  "work": "karwowski1900",
+  "passage": "87",
+  "line": 3,
+  "context": "Tak więc przepadła suma 40,000 złp. PP. Cysterskom wraz z zaległą od r. 1806 prowizyą, o czem doniósł rządowi pruskiemu minister Sobolewski listem, datowanym z Warszawy dnia 23 października 1828 roku[^2]"
+ },
+ {
   "kind": "place",
   "entity": "teutschland",
   "display": "Deutschland",

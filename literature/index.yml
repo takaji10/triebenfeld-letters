@@ -46,6 +46,9 @@ patterns:
     # Rozdrażewskich Prusimską", "Katarzyny Prusimskiej" (the widow, 1754).
     prusimski: '(?<=Antoniemu )Prusimskiemu|(?<=Antoniego )Prusimskiego|(?<=Antonim )Prusimskim|(?<=Trąbczyn )Prusimskiego'
     prusimska-katarzyna: '(?<=Rozdrażewskich )Prusimsk(?:ich|ą)|(?<=Katarzyny )Prusimskiej'
+    # Karwowski (1900) spells the name of the banker of Wrocław "Weygel" (the
+    # letters spell "Weigel").
+    weigel: 'Weygel'
   place:
     # The black register's list of the Prince's Konin estates: Materialien
     # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
@@ -57,6 +60,9 @@ patterns:
     kolno: 'Koln(?:ie|a|em)(?![a-zà-ÿ])'
     wieniec: 'Wieńc(?:a|u)(?![a-zà-ÿ])'
     szetlewek: 'Szellewen'
+    # Karwowski (1900) declines Zagórów into the adjective, lowercase:
+    # "przy dobrach zagórskich" (p. 87), the Zagórów estates.
+    zagorowo: 'zagórskich'
     # Boniecki (1900) has Imielno as "Mielno" in the list of the Chełmski
     # estates, "Łukomia, Łomowa, Mielna i Bukowa" (the editor, 2026-10-21:
     # "Imielno (Mielna in this document)"). Only in that list.
@@ -346,6 +352,14 @@ people:
     # Unruhstadt are one town, Kargowa
     Stenger: yes
     Stengers: yes
+  sobolewski:
+    # Karwowski (1900): "minister Sobolewski" informed the Prussian
+    # government, from Warsaw on 23 October 1828, that the Cistercian Nuns'
+    # 40,000 złp. on Zagórów was lost. The Kingdom of Poland's minister
+    # secretary of state, the Sobolewski of the edition's reply of 1820, sat
+    # at Warsaw. Claude's identification, not yet accepted by the editor
+    # (docs/NEEDS_CONFIRMATION.md).
+    Sobolewski: yes
   stoessel:
     # Claude's identification, accepted by the editor (2026-10-19)
     Stössel: yes
@@ -358,6 +372,17 @@ people:
     Thaer: yes   # "wäre auch sogar Thaer Ihr Verwalter gewesen": the agronomist, as a byword
   triebenfeld:
     Triebenfeld: yes
+  trzcinski:
+    # Karwowski (1900): Ignacy Trzciński, a radzca of the department of
+    # Kalisz, bought Zagórów from the Prince of Hohenlohe-Ingelfingen in 1812
+    # with debts of 2,000,000 złp. resting on it, mortgaged the Cistercian
+    # Nuns' 40,000 złp. on it in 1814, and lost the estates at auction in
+    # 1827. The letters' Ignatz von Trzciński owed the Prince on bills from
+    # 1813 and died in December 1815; the dates and the purchase would fit
+    # the buyer of 1812, but the identity is not settled (the letters also
+    # have a "Major Trzciński"). Claude's question, ruled out until it is
+    # (docs/NEEDS_CONFIRMATION.md).
+    Trzciński: "no: Karwowski's Ignacy Trzciński, buyer of Zagórów 1812, not shown to be the letters' Ignatz von Trzciński"
   voss:
     Voss:
       default: yes
@@ -370,6 +395,12 @@ people:
     Wedel: "no: the battalion Wedel in 1806"
   weigel:
     Weigel: "no: the brandy clerk Weigelt (Held p. 191), not the banker Weigel"
+    # Karwowski (1900): "Karol Bogumił Weygel, bankier wrocławski", who bought
+    # the Zagórów estates at auction on 1 September 1827. Whether he is the
+    # letters' Carl Ferdinand Weigel, his son ("Weigel und Sohn") or Breyer's
+    # K. G. von Weigel is not shown, and the given names differ from Carl
+    # Ferdinand's (docs/NEEDS_CONFIRMATION.md).
+    Weygel: "no: Karwowski's Karol Bogumił Weygel, not shown to be the banker Weigel or his son"
   werner:
     Werner: "no: the city president Werner at Breslau, and Olęders named Werner (Chodyła 2015); not the cabinet councillor of 1804"
   wybicki:
@@ -733,6 +764,7 @@ places:
     Warschauischen: yes
     Warszawie: yes
     Warszawę: yes
+    Warszawy: yes
     Warszawa:
       default: "no: a place of publication in the bibliographies and notes (Mączak 1968, Szwiec 2009)"
       except:
@@ -772,3 +804,7 @@ places:
     Zagórowie: yes
     Zagórowskich: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"
     Zagórowskie: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"
+    # Karwowski (1900) declines the name lowercase: "przy dobrach zagórskich"
+    # (p. 87), the Zagórów estates, named in the same sentence as
+    # "Zagórowie" — not the ruled-out Olędry above.
+    zagórskich: yes

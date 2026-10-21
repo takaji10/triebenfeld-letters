@@ -12738,6 +12738,86 @@
   ]
  },
  {
+  "slug": "janocki1779",
+  "visible": true,
+  "kind": "reference",
+  "parent": "paciorkowski1776",
+  "title": "Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae, tomus II, pp. 159-160 (the entry on Stanisław Lochowski)",
+  "title_en": "The Ianociana: miscellanies to the memory of the famous and illustrious authors and patrons of Poland, vol. II, pp. 159-160: the entry on Stanisław Lochowski",
+  "cite": "Janocki (1779)",
+  "author": "Jan Daniel Janocki",
+  "author_sort": "Janocki, Jan Daniel",
+  "published": "Ianociana ... miscellae, tomus II, Varsaviae et Lipsiae: apud Michaelem Groellium, Sereniss. Pol. Regis Commissarium et Bibliopolam, sub signo Poetarum, 1779 (A. R. S. MDCCLXXIX); the extract pp. 159-160, the entry LXXVII, Stanislaus Lochowski",
+  "year": 1779,
+  "language": "la",
+  "english_by": "Claude",
+  "scan": "https://archive.org/details/ianocianasivecl00janogoog",
+  "note_en": "Janocki's Ianociana (1779, pp. 159-160) says this handbook is Lochowski's: the boundary process of the law of the Kingdom of Poland by Stanisław Lochowski, notary of the castle of Opoczno (Cracow 1641), which \"in our own age Marcin Paciorkowski twice had printed again; yet he, suppressing the true author Lochowski's name, rashly and insolently claimed the work for himself\" under the Regula processus granicialis title (the editions of 1749 and 1760).",
+  "note_de": "Janockis Ianociana (1779, S. 159-160) sagt, dieses Handbuch sei Lochowskis: der Grenzprozess des Rechts des Königreichs Polen von Stanisław Lochowski, Notar des Schlossgerichts Opoczno (Krakau 1641), den \"in unserem Zeitalter Marcin Paciorkowski zweimal nachdrucken ließ; doch er schrieb, den Namen des wahren Verfassers Lochowski unterdrückend, vermessen und unverschämt das Werk sich selbst zu\" unter dem Titel Regula processus granicialis (die Auflagen von 1749 und 1760).",
+  "account_en": "The entry \"Stanislaus Lochowski\" (item LXXVII) of Janocki's Ianociana, a bio-bibliographical lexicon of the authors and patrons of Poland in two volumes (1776-1779), by Jan Daniel Janocki, librarian to Prince Józef Aleksander Jabłonowski and keeper of the Załuski Library's early Polish manuscripts. It lists Lochowski's works: the Regulæ iuris in its editions of 1636 to 1737, the Processus iuris limitanei of 1641 — which, it says, Paciorkowski twice reprinted as his own, suppressing Lochowski's name — the De correctura iurium of 1641 and the Comitiorum of 1644. It names Trąbczyn nowhere. It bears on the standing of the handbook the edition uses for the boundary procedure of 1775 and 1782, and on the 1776 title page, which calls the book Paciorkowski's own, enlarged by the author.",
+  "account_de": "Der Eintrag \"Stanislaus Lochowski\" (Nummer LXXVII) aus Janockis Ianociana, einem bio-bibliographischen Lexikon der Autoren und Mäzene Polens in zwei Bänden (1776-1779), von Jan Daniel Janocki, Bibliothekar des Fürsten Józef Aleksander Jabłonowski und Verwalter der frühpolnischen Handschriften der Załuski-Bibliothek. Er verzeichnet Lochowskis Werke: die Regulæ iuris in ihren Auflagen von 1636 bis 1737, den Processus iuris limitanei von 1641 — den Paciorkowski, so der Eintrag, zweimal unter eigenem Namen nachdrucken ließ, indem er Lochowskis Namen unterdrückte —, die De correctura iurium von 1641 und die Comitiorum von 1644. Trąbczyn nennt er nirgends. Er betrifft das Ansehen des Handbuchs, das die Edition für das Grenzverfahren von 1775 und 1782 heranzieht, und die Titelseite von 1776, die sich das Buch als Werk Paciorkowskis zuschreibt, vom Verfasser selbst vermehrt.",
+  "passages": [
+   {
+    "key": "159",
+    "part": null,
+    "page": "159",
+    "la": {
+     "line": 1,
+     "chars": 1184
+    },
+    "en": {
+     "line": 1,
+     "chars": 1412
+    }
+   },
+   {
+    "key": "160",
+    "part": null,
+    "page": "160",
+    "la": {
+     "line": 15,
+     "chars": 1312
+    },
+    "en": {
+     "line": 15,
+     "chars": 2061
+    }
+   }
+  ]
+ },
+ {
+  "slug": "karwowski1900",
+  "visible": true,
+  "kind": "article",
+  "title": "Klasztor pp. cystersek w Ołoboku",
+  "title_en": "The convent of the Cistercian Nuns at Ołobok",
+  "cite": "Karwowski (1900)",
+  "author": "Stanisław Karwowski",
+  "author_sort": "Karwowski, Stanisław",
+  "published": "Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego, T. XXVI, pp. 1-114 (Poznań: nakładem Towarzystwa, 1900)",
+  "year": 1900,
+  "language": "pl",
+  "english_by": "Claude",
+  "scan": "https://www.wbc.poznan.pl/dlibra/docmetadata?id=118639",
+  "account_en": "A history of the convent of the Cistercian nuns at Ołobok, in Great Poland, by the Poznań historian Stanisław Karwowski: its foundation towards the end of the twelfth century and its endowments (the article runs pp. 1-114, with its own table of contents), the privileges and donations from the twelfth century on, the lawsuits over its bounds and its dues, the nuns and the convent's inner government, its fortunes from the third partition to the winding-up of the house, and its buildings and churches. Only p. 87 is brought in, the two paragraphs the editor named, on the loss of the money the nuns had lent: the town of Zagórów and its estates, which the previous owner, Prince Hohenlohe-Ingelfingen, had burdened with debts of 2,000,000 Polish gulden, bought in 1812 by Ignacy Trzciński with the debts resting on them, lost at auction on 1 September 1827 for 1,000,000 Polish gulden to Karol Bogumił Weygel, a banker of Wrocław, who saved 56,879 of the 120,000 Polish gulden he had mortgaged on the estates and went down with the rest, and after him all the other mortgage creditors; and the 40,000 Polish gulden of the Cistercian Nuns lost with the interest owing from 1806, of which minister Sobolewski informed the Prussian government from Warsaw on 23 October 1828.",
+  "account_de": "Eine Geschichte des Klosters der Zisterzienserinnen in Ołobok in Großpolen von dem Posener Historiker Stanisław Karwowski: seine Gründung gegen Ende des 12. Jahrhunderts und seine Ausstattung (der Aufsatz zählt 114 Seiten mit eigenem Inhaltsverzeichnis), die Privilegien und Schenkungen vom 12. Jahrhundert an, die Prozesse um seine Grenzen und Abgaben, die Nonnen und die innere Verfassung des Klosters, seine Schicksale von der Dritten Teilung bis zur Aufhebung des Hauses und seine Gebäude und Kirchen. Nur S. 87 ist aufgenommen, die zwei vom Herausgeber genannten Absätze über den Verlust des geliehenen Geldes der Nonnen: die Stadt Zagórów mit ihren Gütern, die der frühere Besitzer, Fürst Hohenlohe-Ingelfingen, mit Schulden von 2.000.000 polnischen Gulden belastet hatte und die 1812 Ignacy Trzciński mit diesen Schulden kaufte, am 1. September 1827 bei öffentlicher Versteigerung für 1.000.000 polnische Gulden an Karol Bogumił Weygel, einen Bankier in Breslau, verloren ging, der von den 120.000 polnischen Gulden, die er auf ihnen hypothekarisch hatte, nur 56.879 rettete und mit dem Rest unterging, und nach ihm alle übrigen Hypothekengläubiger; und die 40.000 polnischen Gulden der Zisterzienserinnen, verloren samt den seit 1806 rückständigen Zinsen, wovon Minister Sobolewski die preußische Regierung am 23. Oktober 1828 aus Warschau benachrichtigte.",
+  "passages": [
+   {
+    "key": "87",
+    "part": null,
+    "page": "87",
+    "pl": {
+     "line": 1,
+     "chars": 1100
+    },
+    "en": {
+     "line": 1,
+     "chars": 1235
+    }
+   }
+  ]
+ },
+ {
   "slug": "maczak1968",
   "visible": true,
   "kind": "article",
@@ -16432,15 +16512,15 @@
   "kind": "handbook",
   "title": "Regula processus granicialis campestris Regni Poloniae, secundum praxim moderni saeculi ad dislimitanda bona regalia, spiritualia et terrestria. Editio secunda",
   "title_en": "Rule of the Field Boundary Process of the Kingdom of Poland, according to the practice of the present age, for the delimitation of royal, ecclesiastical and noble estates. Second edition",
-  "cite": "Paciorkowski (1776)",
+  "cite": "Paciorkowski (1776) [= Lochowski 1641]",
   "author": "Marcin Paciorkowski",
   "author_sort": "Paciorkowski, Marcin",
   "published": "Częstochowa: Jasna Góra press, 1776",
   "year": 1776,
   "language": "la",
   "english_by": "Claude",
-  "account_en": "A handbook of the procedure for settling boundaries between estates in the Kingdom of Poland, by Marcin Paciorkowski, a sworn sub-delegate of the municipal court of Opoczno, who worked such cases. Approved by the censor in 1749; this is the enlarged second edition of 1776, with the laws on boundaries, the law of 1768 among them. It explains the commissions, the boundary chamberlain, the summons, the inspection of the mounds and the decree, step by step, as the practice of the time had them. It does not name Trąbczyn, but it is the procedure of the boundary decrees of 1775 and 1782 between Trąbczyn and its neighbours.",
-  "account_de": "Ein Handbuch des Verfahrens zur Festsetzung der Grenzen zwischen Gütern im Königreich Polen, von Marcin Paciorkowski, vereidigtem Subdelegaten des Grodgerichts Opoczno, der solche Sachen selbst führte. Vom Zensor 1749 genehmigt; dies ist die erweiterte zweite Auflage von 1776, mit den Gesetzen über die Grenzen, darunter dem Gesetz von 1768. Es erklärt die Kommissionen, den Grenzkämmerer, die Ladung, die Besichtigung der Grenzhügel und das Dekret Schritt für Schritt, wie die Praxis der Zeit sie kannte. Trąbczyn nennt es nicht, aber es ist das Verfahren der Grenzdekrete von 1775 und 1782 zwischen Trąbczyn und seinen Nachbarn.",
+  "account_en": "A handbook of the procedure for settling boundaries between estates in the Kingdom of Poland, by Marcin Paciorkowski, a sworn sub-delegate of the municipal court of Opoczno, who worked such cases. Approved by the censor in 1749; this is the enlarged second edition of 1776, with the laws on boundaries, the law of 1768 among them. It explains the commissions, the boundary chamberlain, the summons, the inspection of the mounds and the decree, step by step, as the practice of the time had them. It does not name Trąbczyn, but it is the procedure of the boundary decrees of 1775 and 1782 between Trąbczyn and its neighbours. Janocki's Ianociana (1779) says the handbook is a reprint of Stanisław Lochowski's Processus iuris limitanei of 1641, which Paciorkowski printed under his own name (the sub-item Janocki (1779)); the 1776 title page itself calls the book Paciorkowski's, enlarged by the author.",
+  "account_de": "Ein Handbuch des Verfahrens zur Festsetzung der Grenzen zwischen Gütern im Königreich Polen, von Marcin Paciorkowski, vereidigtem Subdelegaten des Grodgerichts Opoczno, der solche Sachen selbst führte. Vom Zensor 1749 genehmigt; dies ist die erweiterte zweite Auflage von 1776, mit den Gesetzen über die Grenzen, darunter dem Gesetz von 1768. Es erklärt die Kommissionen, den Grenzkämmerer, die Ladung, die Besichtigung der Grenzhügel und das Dekret Schritt für Schritt, wie die Praxis der Zeit sie kannte. Trąbczyn nennt es nicht, aber es ist das Verfahren der Grenzdekrete von 1775 und 1782 zwischen Trąbczyn und seinen Nachbarn. Janockis Ianociana (1779) sagt, das Handbuch sei ein Nachdruck des Processus iuris limitanei des Stanisław Lochowski von 1641, den Paciorkowski unter eigenem Namen drucken ließ (der angehängte Janocki (1779)); die Titelseite von 1776 schreibt das Buch selbst Paciorkowski zu, vom Verfasser vermehrt.",
   "passages": [
    {
     "key": "front",

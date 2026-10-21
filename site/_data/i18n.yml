@@ -355,6 +355,8 @@ en:
   lit_in_edition: In the edition
   lit_in_literature: In the literature
   lit_doc: "%s, document %s"
+  lit_sub_head: Attached to the work above
+  lit_parent: Attached to
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -713,6 +715,8 @@ de:
   lit_in_edition: In der Edition
   lit_in_literature: In der Literatur
   lit_doc: "%s, Dokument %s"
+  lit_sub_head: Zum obigen Werk gehörig
+  lit_parent: Gehört zu
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

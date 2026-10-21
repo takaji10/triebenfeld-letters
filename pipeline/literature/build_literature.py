@@ -234,9 +234,10 @@ def main():
                     f.write(header(work, q, lang) + q['text'] + '\n')
             passages.append(row)
         works.append({k: work.get(k) for k in (
-            'slug', 'visible', 'kind', 'title', 'title_en', 'cite', 'author',
+            'slug', 'visible', 'kind', 'parent', 'title', 'title_en', 'cite', 'author',
             'author_sort', 'published', 'year', 'language', 'english_by', 'scan',
-            'figures', 'account_en', 'account_de', 'summary_en', 'summary_de')
+            'figures', 'note_en', 'note_de', 'account_en', 'account_de',
+            'summary_en', 'summary_de')
             if work.get(k) is not None}
             | {'passages': passages})
         n = len(passages)

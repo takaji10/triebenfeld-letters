@@ -1,6 +1,6 @@
 ---
 work: "paciorkowski1776"
-title: "Paciorkowski (1776)"
+title: "Paciorkowski (1776) [= Lochowski 1641]"
 lang: de
 permalink: "/de/literatur/paciorkowski1776/"
 alt_url: "/literature/paciorkowski1776/"

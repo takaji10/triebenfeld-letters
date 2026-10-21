@@ -17,6 +17,7 @@
 {%- endcomment -%}
 <div class="sources">
   {% for w in site.data.literature %}
+    {%- unless w.parent -%}
     {%- capture w_page -%}{{ u_lit }}{{ w.slug }}/{%- endcapture -%}
     {%- assign lang_key = 'lit_lang_' | append: w.language -%}
     <section class="source" id="{{ w.slug }}">
@@ -30,7 +31,26 @@
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
       {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}
       <p class="source-go"><a href="{{ w_page | relative_url }}">{% if w.summary_only %}{{ t.lit_read_summary }}{% else %}{{ t.lit_read }}{% endif %}</a></p>
+      {%- comment -%} The sub-items attached to this work (Janocki 1779 under Paciorkowski 1776). {%- endcomment -%}
+      {%- assign lit_subs = site.data.literature | where: "parent", w.slug -%}
+      {%- for sub in lit_subs -%}
+      {%- capture sub_page -%}{{ u_lit }}{{ sub.slug }}/{%- endcapture -%}
+      {%- assign sub_lang_key = 'lit_lang_' | append: sub.language -%}
+      <div class="lit-subitem">
+        <p class="lit-sub-head">{{ t.lit_sub_head }}</p>
+        <p class="lit-sub-author">{{ sub.author_sort }}</p>
+        <p class="lit-title"><a href="{{ sub_page | relative_url }}">{{ sub.title }}</a></p>
+        {% if lang == 'en' and sub.title_en != "" %}<p class="lit-title-en"><em>{{ sub.title_en }}</em></p>{% endif %}
+        <dl class="source-facts">
+          <div><dt>{{ t.lit_published }}</dt><dd>{{ sub.published }}</dd></div>
+          <div><dt>{{ t.lit_language }}</dt><dd>{{ t[sub_lang_key] }}</dd></div>
+        </dl>
+        <p>{% if lang == 'de' %}{{ sub.account_de }}{% else %}{{ sub.account_en }}{% endif %}</p>
+        <p class="source-go"><a href="{{ sub_page | relative_url }}">{{ t.lit_read }}</a></p>
+      </div>
+      {%- endfor -%}
     </section>
+    {%- endunless -%}
   {% endfor %}
 </div>
 
@@ -46,4 +66,14 @@
 .source .lit-title-en { margin: .2rem 0 0; color: var(--ink-soft); }
 .source p { margin: .9rem 0 0; }
 .source-go { font-family: var(--sans); font-size: .85rem; }
+.lit-subitem { border-top: 1px dashed var(--rule); margin-top: 1.2rem; padding-top: .6rem; }
+.lit-subitem .lit-sub-head { margin: 0; font-family: var(--sans); font-size: .8rem; color: var(--ink-soft); }
+.lit-subitem .lit-sub-author { margin: .2rem 0 0; font-weight: 600; font-size: .95rem; }
+.lit-subitem .lit-title { font-size: .95rem; }
+.lit-subitem p { margin: .5rem 0 0; }
+.lit-subitem .source-go { margin-top: .6rem; }
+.lit-parent-note { border: 1px solid var(--rule); border-radius: 6px; padding: .8rem 1rem; margin: 1rem 0 0; }
+.lit-parent-note p { margin: 0 0 .5rem; }
+.lit-parent-note p:last-child { margin-bottom: 0; }
+.lit-parent-link { font-family: var(--sans); font-size: .85rem; }
 </style>

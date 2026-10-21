@@ -507,7 +507,7 @@ name and Augustus II are not the edition's; Repnin the Russian ambassador
 is ruled to the letters' Prince Repnin, which the editor confirms
 (2026-10-21)).
 
-## 16. Pinkas Hakehillot (1976): Zagórów, Pyzdry, Konin (2026-10-21)
+## 17. Pinkas Hakehillot (1976): Zagórów, Pyzdry, Konin (2026-10-21)
 
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
@@ -521,3 +521,66 @@ copy of its page (not kept), as given, every letter checked against the
 page. The entries are the source the Encyclopedia of Camps and Ghettos
 (2012, section 15) cites. Against the documents: the town status of
 Zagórów, 1368 in the entry, 1407 in the edition's KDW doc. 14.
+
+## 18. Janocki (1779): the Lochowski entry, a sub-item of Paciorkowski (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `janocki1779` | Jan Daniel Janocki, *Ianociana, sive clarorum atque illustrium Poloniae auctorum Maecenatumque memoriae miscellae*, tomus II, pp. 159-160 (the entry "Stanislaus Lochowski", LXXVII), Warsaw and Leipzig 1779 | Latin | `[p. N]` | yes |
+
+The editor asked for a literary source **attached to the
+*Regula processus granicialis* (`paciorkowski1776`)** stating that
+Paciorkowski plagiarised his whole book from an earlier one by Stanisław
+Lochowski, and named the entry in the *Ianociana* at archive.org
+(`ianocianasivecl00janogoog`); they then supplied the PDF
+(`Downloads/ianocianasivecl00janogoog.pdf`: the title page and printed
+pp. 159-160), from which the unit was built. The PDF is not kept in the
+repository.
+
+- **The first sub-item.** `parent: paciorkowski1776` in the work's `work.yml`
+  makes it one. `build_literature.py` and `literature_site.py` carry
+  `parent`, `note_en` and `note_de` into the site data; the Literature page
+  renders the sub-item inside its parent's section (and nowhere as a
+  top-level entry; the parent key is dropped when empty, because Liquid
+  reads "" as true); the parent's page carries the note — Janocki's own
+  words on the plagiarism — with a link to the sub-item's page; the
+  sub-item's page links back ("Attached to").
+- **The citation.** The parent's `cite` is now "Paciorkowski (1776) [= Lochowski
+  1641]", so every place the edition cites the handbook names the original:
+  the corpus passage headers, the work page's standfirst, the "In the
+  literature" lists. The editor may reword the bracket; it was chosen
+  without them.
+- **What the entry says** (p. 160): Lochowski's *Processus iuris limitanei,
+  Regni Poloniæ* (Cracow 1641) was twice printed again in Paciorkowski's own
+  age, which "oppresso LOCHOWSKII auctoris veri nomine, temere atque
+  insolenter opus sibi ipsi tribuit" — suppressed the true author's name and
+  claimed the work for himself — under the *Regula processus granicialis*
+  title, editions of 1749 (Częstochowa) and 1760 (Lublin). Against the 1776
+  title page in the edition, which calls the book Paciorkowski's own
+  ("Editio secunda ab ipso authore aucta"): the difference is recorded in the
+  work's `notes.md` and both accounts name it.
+- The entry runs to p. 161 (item V and two more notices of Lochowski's); the
+  extract stops at p. 160, where item IV closes with Lochowski's
+  subscription, so the supplied pages carry items I-IV whole. No new hits in
+  the index (nothing in the entry matches the edition's people or places);
+  `literature_index.py --check` passes unchanged.
+
+## 19. Karwowski (1900) (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `karwowski1900` | Stanisław Karwowski, "Klasztor pp. cystersek w Ołoboku", *Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego*, T. XXVI, pp. 1-114 (Poznań 1900) | Polish | `[p. 87]` | excerpt: two paragraphs of p. 87 |
+
+The first article of the volume, a history of the convent of the Cistercian
+nuns at Ołobok from its foundation to the winding-up of the house. Read from
+the WBC digitisation (id 118639, DjVu; the files not kept in the repository),
+the text taken from the page image at 300 dpi, doubtful words at word-level
+zooms, the scan's text layer used only as a check. Only the two paragraphs
+of p. 87 the editor quoted are brought in, with their footnote 2 (the files
+of the state archive at Poznań, the Ołobok convent's, bundle b, no. 7 — the
+article's own notes expand the abbreviation); the rest of the page is left
+out, marked "[…]", and the left-out paragraph that the passage's first words
+refer back to is summarised in the work's `notes.md`. Out of copyright
+(author d. 1917). The passage bears on the debts of Zagórów: its sale in
+1812 to Ignacy Trzciński, the auction of 1827 to Karol Bogumił Weygel, and
+the 40,000 złp. of the nuns lost with the interest owing from 1806.

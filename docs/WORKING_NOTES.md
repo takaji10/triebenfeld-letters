@@ -1201,6 +1201,29 @@ cloud branches").
   waiting on a screenshot.
 - The heredoc trap with backslashes (above) was hit again on 2026-10-19,
   in a patch to `literature_site.py`. There is no small exception.
+- **A stray `struct.py` in the temp folder breaks Python** (2026-10-21):
+  `%LOCALAPPDATA%\Temp\opencode` carries scripts left by earlier sittings;
+  run from that folder, a `struct.py` there shadows the standard-library
+  module and `import zipfile` (so PyMuPDF) fails with "module 'struct' has
+  no attribute 'calcsize'". Run repository scripts from the repository (the
+  working directory), not from the temp folder; or move the helper into the
+  repo's `scratch/`.
+- **archive.org's IIIF crops are flaky** (2026-10-21): region requests for
+  one item answered 500 and 504 over and over while whole-page downloads
+  came through. When the editor has supplied the PDF or the images, render
+  them locally (PyMuPDF `get_pixmap(dpi=300)`) and crop locally — steadier
+  and faster than the server.
+- **A Google scan's djvu OCR can mislead badly** (2026-10-21, Janocki's
+  *Ianociana*, 1779 Latin): "1636, et 1643, 13" for "et 1642, 12" (the 12mo
+  mark), "COMITIGRUM" for "COMITIORUM", "1737" mangled. The Jagiellonian
+  Library's copy of the same edition (`jbc.bj.uj.edu.pl.NDIGSTDR019959`) has
+  a cleaner tesseract OCR and settled every doubtful spot. When an
+  archive.org Google scan must be read, look for a second library's copy of
+  the same edition first.
+- **An image read is not remembered long** (2026-10-21): the harness keeps
+  only the most recent image reads; a reading not written down at once is
+  lost and must be fetched again. Transcribe or note what a page shows
+  immediately, before the next tool call.
 
 ## The literature (2026-10-19)
 
@@ -1820,3 +1843,18 @@ cloud branches").
   rule rewrote a spelling quoted from the page ('written "Trąpczyn"'). A
   rule for a name must not touch a quoted form; after running it, compare
   the summaries with HEAD and look at every one that changed.
+- **A WBC DjVu digitisation** (Karwowski 1900, 2026-10-21). DjVuLibre
+  (winget `DjVuLibre.DjView`) gives `ddjvu.exe -format=tiff` for the page
+  image and `djvutxt.exe` for a text layer. The text layer is only a check:
+  it mangles the Polish letters through the console encoding and can drop or
+  guess digits ("1828" was readable only in the image; it read "nowey" for
+  the print's "nowej"). Render the page at its default 300 dpi, read the
+  image, and re-read doubtful words in word-level crops scaled ×6-10. A
+  stray ink fleck can reach both the text layer and the first OCR ("r.
+  .1806"); look at the spot before ruling it a mark of the print.
+- **A scratch file in the temp folder can shadow the standard library**
+  (2026-10-21). `C:\Users\Tersnaus\AppData\Local\Temp\opencode\struct.py`
+  from an earlier session was imported by PIL, ran its own main code and
+  printed its old output. Run Python from a subfolder (the `djvucrop`
+  pattern), never from the temp folder itself.
+
