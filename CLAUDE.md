@@ -131,10 +131,10 @@ so check them.
   page displays is their later decision (NEEDS_CONFIRMATION). The guides
   in the PDF are not to be added (their word: "Don't add the guides from
   the PDF"). Index ruled: the Radziwiłłs, "Florian" (Hieronim Florian) and
-  "Augustus" (Augustus II) are not the edition's; Repnin (p. 299) is ruled
-  to the letters' Prince Repnin on Claude's reading, waiting on the
-  editor. The work's `notes.md` first. The literature has 20 works, 19 on
-  the site.
+  "Augustus" (Augustus II) are not the edition's; Repnin (p. 299, the
+  Russian ambassador) is ruled to the letters' Prince Repnin, which the
+  editor confirms. The work's `notes.md` first. The literature has 20
+  works, 19 on the site.
 
 - **Encyclopedia of Camps and Ghettos (2012)** (`dean2012warthegau`, added
   2026-10-21, **published 2026-10-21**): the USHMM encyclopedia's Warthegau

@@ -370,15 +370,12 @@ read, translate and summarise.
     "Give it a page - I'll need to decide later what gets displayed"); for
     now the page shows the text as the build makes it for every visible
     work, in English (the article's own language).
-  - **Repnin**: Frost's two hits (p. 299, the Russian ambassador who forced
-    the 1767-8 programme) are ruled to the same man as the letters' Prince
-    Repnin (83, 84, 1798: "Repnin is said to be arrested"), but the letters
-    give the name only, so this rests on Claude's reading
-    (`literature/index.yml`, under `repnin`).
   - Settled: the guides of the PDF are not to be added ("Don't add the
-    guides from the PDF", 2026-10-21). No doubtful reading is left in the
-    text; the print's own slips are kept as printed and listed in the
-    work's notes.
+    guides from the PDF", 2026-10-21); and the Repnin ruling — the editor
+    confirms Frost's Repnin is the letters' ("I'm sure Repnin is the same
+    as the one in the project", 2026-10-21): the link from Repnin's page to
+    Frost (2007) stands. No doubtful reading is left in the text; the
+    print's own slips are kept as printed and listed in the work's notes.
   **The places Grodziec and Rzgów** (added 2026-10-21 at the editor's word,
   `reference/places.yml`). Rzgów is tagged an estate in focus on the
   documents that concern it: the Kodeks entries of 1261 and 1280 (KDW 4

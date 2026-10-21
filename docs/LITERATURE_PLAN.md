@@ -496,5 +496,5 @@ endnotes, kept on their printed pages so a note can be cited (no `notes:`
 in work.yml). The passage index reads it now that it has a page; its four
 new pairs are ruled (the Radziwiłł magnates, Hieronim Florian's given
 name and Augustus II are not the edition's; Repnin the Russian ambassador
-is ruled to the letters' Prince Repnin on Claude's reading, waiting on
-the editor).
+is ruled to the letters' Prince Repnin, which the editor confirms
+(2026-10-21)).

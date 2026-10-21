@@ -106,6 +106,6 @@ family name plainly plural are not Prince Antoni; "Florian" is the given
 name of Hieronim Florian Radziwiłł, not Florian Gelanski; "Augustus" is
 Augustus II, King of Poland and Elector of Saxony (caught by the edition's
 pattern under "o**f** Augustus"), not Fürst August; and Repnin, the Russian
-ambassador of p. 299, is ruled to the letters' Prince Repnin (83, 84, 1798)
-on Claude's reading, which waits on the editor (`docs/NEEDS_CONFIRMATION.
-md`).
+ambassador of p. 299, is ruled to the letters' Prince Repnin (83, 84,
+1798): the same man, the editor confirms (2026-10-21: "I'm sure Repnin is
+the same as the one in the project").
