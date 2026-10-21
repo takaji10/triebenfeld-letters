@@ -1502,6 +1502,18 @@ cloud branches").
   a:main`, `git branch -f`) is refused by the session's permission check;
   at the editor's word to publish, `git checkout main` and `git merge
   --ff-only <branch>` did it.
+- **A glossary word the editor names may already have an entry**
+  (komornik, 2026-10-21). Read the entry and every use of the word in the
+  documents first: the entry, checked against the same Gloger article, had
+  only the officer, and its definition was shown in four documents where
+  komornik is the landless lodger. Two senses make two entries, kept apart
+  by `not_in` and `only_in`. Search the English too: the translations call
+  the Latin camerarius "Boundary Surveyor" and "Land (Court) Chamberlain",
+  and use "cottager" for chałupnik and Einlieger, so "cottager" cannot
+  stand for the lodger. The same with pisarz: "notarius" in the court books
+  is the court's clerk, not the notary public of the existing entry, and
+  "Antoni Pisarz" in a list of Olęders is a surname. Read every hit, in
+  every language, before writing the pattern.
 - **A work with no page breaks** (an online edition) is cut at headings
   (`chapter: '^# '`); where the edition numbers its items, the headings are
   those numbers ("# 2.976.177-182"), so each passage can be found online.

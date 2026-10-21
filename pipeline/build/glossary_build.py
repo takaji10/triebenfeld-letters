@@ -109,6 +109,10 @@ def compute(entries, recs, site_dir):
             # the dismemberment of Poland is not an estate's, 2026-10-20).
             if r['uid'] in (e.get('not_in') or []):
                 continue
+            # `only_in`: a sense found in a few documents only, the word being
+            # used in another sense elsewhere (komornik the lodger, 2026-10-21)
+            if e.get('only_in') and r['uid'] not in e['only_in']:
+                continue
             for p in r.get('pages') or []:
                 n = p['page']
                 if e.get('per') == 'document':

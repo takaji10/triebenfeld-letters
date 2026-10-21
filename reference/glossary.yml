@@ -30,6 +30,9 @@
 #               archival description, a document); shown on the glossary page
 #   check_against        the reference work the entry is to be checked against
 #   checked     false until it has been. The glossary page says so.
+#   not_in      documents where the word is used in another sense: not marked there
+#   only_in     the only documents where it is marked, for a sense the word has in
+#               a few documents and not elsewhere (komornik the lodger)
 #
 # `excluded:` at the end records words ruled out, with the reason, so that
 # glossary_candidates.py does not raise them again.
@@ -1171,22 +1174,85 @@ entries:
 - id: komornik
   kind: law
   lang: pl
-  head_en: komornik
-  head_de: Komornik
-  orig: Komornik
-  # Not "Komornikow": the one place it stands (ADWł 85, leaf 29v, "mieszka trzech
-  # Komornikow") it is the landless cottager, not the court officer.
-  match_de: '\bKomornik(?!ow\b)\w*'
-  match_en: '\bkomorniks?\b'
+  head_en: komornik (court officer)
+  head_de: Komornik (Gerichtsbeamter)
+  orig: komornik, Komornik; komornik graniczny, komornik ziemski; in Latin camerarius
+  # The officer. Its other sense, the landless lodger, is the entry
+  # komornik-lodger, marked only in the documents that use it; they are left
+  # out here (not_in), with the KDW's vanished village Komorniki. Read
+  # 2026-10-21 against every use in the documents: the officer in Konin
+  # Gr.145 and Kalisz Gr.425 (komornik graniczny, ziemski; the translations
+  # "Boundary Surveyor") and in Oe 1 Bü 9454, letters 17, 18, 232, 233 (the
+  # komornik who enforces a judgment, "v. Chomanowski").
+  # In the Latin of the Konin books he is "Camerarius" (Granicialis, the
+  # boundary komornik; Terrestris, the land court's), translated "Boundary
+  # Surveyor" and "Land (Court) Chamberlain"; plain "Chamberlain" is not
+  # matched (the sub-chamberlain; Paweł Prusimski's title). The camerarii of
+  # the Kodeks (KDW 4, 6) are the dukes' household servants: left out.
+  match_de: '\b[Kk]omorni(?:k|ka|kowi|kiem|kami|ków|cy|ks|kowski)\b|\bCamerari(?:us|o|um|i|orum)\b|\b[Cc]amerarial\w*'
+  match_en: '\b[Kk]omorniks?\b|\b[Bb]oundary [Ss]urveyors?\b|\bLand (?:Court )?Chamberlains?\b|\bLand Court Surveyors?\b'
+  not_in: [adwl85-1, app53170koningr136-1, oe1bu14525-23, oe1bu14526-9, oe1bu9454-146, oe1bu9454-191, kdw-4, kdw-6]
   short_en: >-
-    A Polish court officer, who in the Duchy of Warsaw served writs and carried
-    out judgments, seizures and sales. In the older Polish courts the boundary
-    komornik, acting for the boundary judge, had to be a surveyor.
+    A Polish court officer. In the old Commonwealth the judges and the
+    starosts did their work through komorniks, and the boundary komornik
+    (komornik graniczny), who acted for the sub-chamberlain as judge of
+    boundaries, had to be a surveyor: the boundary decrees of 1775 and 1776
+    name several, and the translations call them Boundary Surveyors. In the
+    Duchy of Warsaw the komornik served writs and carried out judgments,
+    seizures and sales, as in Triebenfeld's letters. Not the lodger
+    komornik, who has his own entry.
   short_de: >-
-    Ein polnischer Gerichtsbeamter, der im Herzogtum Warschau Ladungen
-    zustellte und Urteile, Pfändungen und Versteigerungen vollstreckte. An den
-    älteren polnischen Gerichten musste der Grenzkomornik, der für den
-    Grenzrichter handelte, Landmesser sein.
+    Ein polnischer Gerichtsbeamter. In der alten Adelsrepublik ließen Richter
+    und Starosten ihre Geschäfte durch Komorniks besorgen, und der
+    Grenzkomornik (komornik graniczny), der für den Unterkämmerer als
+    Grenzrichter handelte, musste Landmesser sein: Die Grenzdekrete von 1775
+    und 1776 nennen mehrere, die Übersetzungen heißen sie Boundary
+    Surveyors. Im Herzogtum Warschau stellte der Komornik Ladungen zu und
+    vollstreckte Urteile, Pfändungen und Versteigerungen, so in
+    Triebenfelds Briefen. Nicht der Komornik als Einlieger, der einen
+    eigenen Eintrag hat.
+  source: "Gloger, Encyklopedia staropolska, s.v. Komornik (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Komornik)"
+  check_against: Gloger, Encyklopedia staropolska (komornik)
+  checked: true
+
+- id: komornik-lodger
+  kind: law
+  lang: pl
+  head_en: komornik (lodger)
+  head_de: Komornik (Einlieger)
+  orig: komornik, komornica; plural komornicy, komornice; German Komornitzen
+  # Added at the editor's word, 2026-10-21, from Gloger's Komornik, the
+  # second sense: "chłopi bezrolni, pozostający na usługach dziedzica za
+  # otrzymywaną komorę, ogród i inne dogodności". Marked only in the six
+  # documents that use it (read 2026-10-21): ADWł 85 ("trzech Komornikow",
+  # the translation "three cottagers"), the inspection of 1754 (Konin
+  # Gr.136, "Komornic wszystkich 8"; the translator's note: "Lodgers"), the
+  # valuation of Szetlewek of 1803 (Oe 1 Bü 14525, doc. 23, "9 Komornice
+  # (Einlieger)"), the lease of Kopojno of 1805 (Oe 1 Bü 14526, doc. 9,
+  # "jeder Komornik ... zu Vier Morgen", apart from the Einlieger), and
+  # Triebenfeld's letters 146 ("die Komornitzen in Wrąbczyn") and 191.
+  # "Cottager" in the translations is mostly chałupnik or Einlieger, so it
+  # is matched only in ADWł 85.
+  match_de: '\b[Kk]omorni(?:k|ka|ków|kow|ks|cy|ce|c|ca|tzen|zen)\b'
+  match_en: '\b[Kk]omorni(?:k|ks|cy|ce|ca)\b|\b[Ll]odgers?\b|(?<=three )cottagers\b'
+  only_in: [adwl85-1, app53170koningr136-1, oe1bu14525-23, oe1bu14526-9, oe1bu9454-146, oe1bu9454-191]
+  short_en: >-
+    In the Polish countryside, a peasant without land of his own, or a woman
+    (komornica), who lived in a room or hut of the manor or of a farmer and
+    worked for it, paid with the room, a garden and other small benefits:
+    the lowest rank of a village. The inspection of Trąbczyn of 1754 counts
+    eight; the Prussian valuation of Szetlewek of 1803 calls them
+    Einlieger; at Kopojno in 1805 each was to have four Morgen. Not the
+    court officer komornik, who has his own entry.
+  short_de: >-
+    Auf dem polnischen Land ein Bauer ohne eigenes Land, oder eine Frau
+    (komornica), der in einer Kammer oder Kate des Gutshofs oder eines
+    Bauern wohnte und für ihn arbeitete, entlohnt mit der Kammer, einem
+    Garten und anderen kleinen Vorteilen: der unterste Stand im Dorf. Die
+    Besichtigung von Trąbczyn von 1754 zählt acht; die preußische Taxe von
+    Szetlewek von 1803 nennt sie Einlieger; in Kopojno sollte 1805 jeder
+    vier Morgen erhalten. Nicht der Gerichtsbeamte Komornik, der einen
+    eigenen Eintrag hat.
   source: "Gloger, Encyklopedia staropolska, s.v. Komornik (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Komornik)"
   check_against: Gloger, Encyklopedia staropolska (komornik)
   checked: true
@@ -1371,6 +1437,97 @@ entries:
     Stawisko. Die Übersetzungen lassen es polnisch stehen.
   source: "Arct, Słownik ilustrowany języka polskiego (1916), vol. 2, p. 784, s.v. Stawisko (https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_ilustrowany_j%C4%99zyka_polskiego/Stawisko); for the ground, the edition's documents: Konin Gr.145, Gr.114 and Gr.153"
   check_against: Arct, Słownik ilustrowany języka polskiego
+  checked: true
+
+- id: kopiec
+  kind: land
+  lang: pl
+  head_en: boundary mound (kopiec)
+  head_de: Grenzhügel (kopiec)
+  orig: kopiec, kopce; in Latin scopulus
+  # Added at the editor's word, 2026-10-21, from Gloger's "Kopce graniczne".
+  # Read against the documents first: the decree of 1775 (Konin Gr.145)
+  # records the signs laid where the mounds stood ("po kilka cegieł całkich
+  # żużli szkła kamieni węgli na miejscu kopców"), a glass bottle with the
+  # commission's description under the Trąbczyn mound, mounds on the marsh
+  # "z palami", and corner (narożne) and wall (ścienne) mounds; the line of
+  # 1782 (Gr.153) has forty-one wall mounds and thirty-one stakes in the
+  # marsh. Gloger's "stróże" are not in the documents by that name.
+  # The Polish forms (Gr.145, Gr.117), the Latin (the Konin books, Gr.153),
+  # and the German summaries' Grenz-, Wand-, Eck- and Endhügel; bare
+  # "Hügel" is not matched (letter 136 has "Sand Hügel", sandhills). In the
+  # English "mound" is always a boundary mound (read 2026-10-21).
+  match_de: '\b[Kk]op(?:iec|ca|cu|cem|ce|cy|ców|com|cami|cach)\b|\b[Ss]copul(?:us|i|o|um|os|orum|is|arum|osque)\b|\b(?:Grenz|Wand|Eck|End)hügel\w*'
+  match_en: '\bmounds?\b'
+  short_en: >-
+    A mound of earth raised to mark a boundary, in Latin scopulus. To show
+    that it was made by hand and not by nature, things that do not rot were
+    laid under it: the boundary decree of 1775 (Konin Gr.145) records a few
+    whole bricks, slag, glass, stones and coals where each mound was to
+    stand, and a glass bottle with the commission's description under one
+    of them. Corner mounds (narożne) stood where boundaries met, wall
+    mounds (ścienne) along one side of the line; in a marsh, stakes were
+    driven in. The line of 1782 between Trąbczyn and Łukom has forty-one
+    wall mounds (Gr.153).
+  short_de: >-
+    Ein Erdhügel, aufgeschüttet, um eine Grenze zu bezeichnen, lateinisch
+    scopulus. Damit man sah, dass ihn Menschenhand gemacht hatte und nicht
+    die Natur, legte man Unverwesliches darunter: Das Grenzdekret von 1775
+    (Konin Gr.145) verzeichnet einige ganze Ziegel, Schlacke, Glas, Steine
+    und Kohlen an der Stelle jedes Hügels und unter einem von ihnen eine
+    gläserne Flasche mit der Beschreibung der Kommission. Eckhügel
+    (narożne) standen, wo Grenzen zusammentrafen, Wandhügel (ścienne) an
+    einer Seite der Linie; im Sumpf schlug man Pfähle ein. Die Linie von
+    1782 zwischen Trąbczyn und Łukom hat einundvierzig Wandhügel (Gr.153).
+  source: "Gloger, Encyklopedia staropolska, s.v. Kopce graniczne (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Kopce_graniczne); for the mounds of Trąbczyn, the edition's documents: Konin Gr.145 and Gr.153"
+  check_against: Gloger, Encyklopedia staropolska (kopce graniczne)
+  checked: true
+
+- id: pisarz
+  kind: law
+  lang: pl
+  head_en: pisarz (court clerk)
+  head_de: Pisarz (Gerichtsschreiber)
+  orig: pisarz ziemski, pisarz grodzki; in Latin notarius (terrestris, castrensis)
+  # Added at the editor's word, 2026-10-21, from Gloger's "Pisarze". Every
+  # use in the documents read; marked only where the word is the clerk of a
+  # court or an office (only_in): the land clerk of Kalisz, Ksawery Mikorski,
+  # sitting with the judge and sub-judge (Konin Gr.117, docs 2 and 8, 1778;
+  # Gr.118, doc. 23, 1782), the land clerk of Sieradz and the deputy clerk of
+  # Greater Poland at the Crown Tribunal (Gr.153, 1782), the land and castle
+  # clerks among the commissioners (Gr.145, 1775), the clerk of the customs
+  # post at Pyzdry (53/6/0/-/45, 1763), a manor's clerk (Gr.118, doc. 27)
+  # and the clerk of the Civil Tribunal at Kalisz (Nr. 12366, doc. 6, 1827).
+  # Not: "Antoni Pisarz" (Kalisz Gr.414), a surname; the notary public
+  # (Breslau, the Duchy of Warsaw, the apostolic notary), the entry notarius;
+  # the dukes' notarius of the Kodeks, their chancery clerk. The
+  # translations say Notary, Clerk or Scribe, the German summaries Notar.
+  match_de: '\b[Pp]isar(?:z|za|zem|zowi|zów|ze)\b|\b[Nn]otari(?:us|o|um)\b|\bNotars?\b'
+  match_en: '\b[Nn]otary\b|\b[Ss]cribes?\b|\b[Cc]lerks?\b'
+  only_in: [app53170koningr117-2, app53170koningr117-8, app53170koningr118-23, app53170koningr118-27, app53170koningr145-1, app53170koningr153-1, iiihamdaiiinr12366-6, app536045-1]
+  short_en: >-
+    The writer of a court or an office, in Latin notarius. Gloger: the
+    lowest in rank of a court's members and often without a vote, he yet
+    did almost all its work, keeping its books and writing its judgments
+    into the book of decrees. The land clerk (pisarz ziemski), elected like
+    the judges, sat in the land court with the judge and the sub-judge: in
+    1778 Ksawery Mikorski, land clerk of Kalisz, sat with them (Konin
+    Gr.117). The castle court (gród) and other offices, a customs post
+    among them, had their own. The translations call him Notary, Clerk or
+    Scribe; he is not the notary public, who has his own entry.
+  short_de: >-
+    Der Schreiber eines Gerichts oder eines Amtes, lateinisch notarius.
+    Gloger: im Rang das niedrigste Mitglied eines Gerichts und oft ohne
+    Stimme, besorgte er doch fast dessen ganze Arbeit, führte seine Bücher
+    und schrieb die Urteile in das Dekretbuch. Der Landschreiber (pisarz
+    ziemski), wie die Richter gewählt, saß mit dem Richter und dem
+    Unterrichter im Landgericht: 1778 saß Ksawery Mikorski, Landschreiber
+    von Kalisch, mit ihnen (Konin Gr.117). Das Burggericht (gród) und andere
+    Ämter, darunter eine Zollstelle, hatten ihre eigenen. Die englischen
+    Übersetzungen nennen ihn Notary, Clerk oder Scribe; er ist nicht der
+    Notar, der einen eigenen Eintrag hat.
+  source: "Gloger, Encyklopedia staropolska, s.v. Pisarze (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Pisarze)"
+  check_against: Gloger, Encyklopedia staropolska (pisarze)
   checked: true
 
 - id: ausfertigung
@@ -1614,6 +1771,9 @@ entries:
   orig: Notarius publicus
   match_de: '\bNotarius\b'
   match_en: '\bnotar(y|ies) public\b'
+  # In Konin Gr.153 "Notarius Palatinatus Majoris Poloniae locum tenens" is
+  # the deputy clerk of the land court, the entry pisarz (2026-10-21).
+  not_in: [app53170koningr153-1]
   short_en: >-
     A lawyer appointed after examination, by the sovereign's authority, to draw
     up and certify deeds, contracts, wills and powers of attorney in a set

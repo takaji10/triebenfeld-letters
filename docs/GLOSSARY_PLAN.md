@@ -113,6 +113,11 @@ summary at the head of the page, and writes:
 - `review/glossary_matches.csv`, every match with its line, so a wrong one
   (*Gold* inside a name, say) is ruled out once, in `reference/glossary.yml`.
 
+**A word with two senses** is two entries, each marked only where it has
+its sense: `not_in` lists the documents an entry skips, `only_in` the only
+documents it marks (2026-10-21: komornik the court officer, everywhere but
+the six documents of komornik the lodger).
+
 The German in the built HTML stays exactly as it is, so `verify_site.py`'s
 character-exact check is untouched.
 
