@@ -108,6 +108,12 @@ people:
     match: "Cosmar"
     tier: "Book-confirmed"
     variants: []
+  czapski:
+    display: "Czapski"
+    match: 'Czap(?:ysk|sk)i(?![a-zà-ÿ])'
+    tier: "Role unclear"
+    variants: []
+    identity: "Prince Czapski, Minister of the Kingdom of Poland, to whom the Liquidation Commission presented its report of 1818 on Miączyńska's petition to have the debts on Trąbczyn charged to Prussia, and who laid an analogous report before the Emperor and King (1/185/0/1/169). The report spells the name Czapyski on p. 167 and Czapski on p. 168; both forms are matched here and mean one man. Not further identified, so no dates are given. Added 2026-10-21."
   echaust:
     display: "Echaust"
     match: "Echaust|Eichaust"
@@ -159,6 +165,17 @@ people:
     match: "Göschel"
     tier: "Role unclear"
     variants: ["Goeschel"]
+  godlewski:
+    display: "Godłewski"
+    match: 'God[tl]ewski(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "A Sieur Godłewski whose boundary dispute with a domain of the State gave rise to a conflict of jurisdiction, cited by the Commission of Finances as a precedent for its own and distinguished from it by the Instruction Commission: there the conflict preceded the judgment (1/185/0/1/169). The archive transcript writes the name Godtewski, which is not a Polish surname; the manuscript's letter is the Polish crossed l, and the editor rules the name Godłewski (2026-10-21), so the transcription and the English carry Godłewski and the transcript's form is matched as a spelling of the same man. Added 2026-10-21."
+    display: "Godlewski"
+    match: 'God[tl]ewski(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "A Sieur Godlewski whose boundary dispute with a domain of the State gave rise to a conflict of jurisdiction, cited by the Commission of Finances as a precedent for its own and distinguished from it by the Instruction Commission: there the conflict preceded the judgment (1/185/0/1/169). The archive transcript writes the name Godtewski, which is not a Polish surname; the manuscript's letter is the Polish crossed l, and the editor rules the name Godlewski (2026-10-21), so the transcription and the English carry Godlewski and the transcript's form is matched as a spelling of the same man. Added 2026-10-21."
   goldbeck:
     display: "Heinrich Julius von Goldbeck"
     # G[oldbeck] is his paraph on the papers issued in his name in I. HA GR,
@@ -1420,6 +1437,13 @@ people:
     tier: "Context-inferred"
     variants: []
     identity: "Lawyer (H. R. R.) handling the prince's lawsuits before the Kalisz tribunal, 1810-11: took over the case, paid and kept on retainer (9454 letters 207, 210, 213). Written Salz in 212 ('Salz arbeitet jezt die Sache aus') and, probably the same man, in 19; the right spelling is not settled, so the text keeps each letter's form. Salz as a word (salt) is not matched. Added 2026-09-30."
+  faltz:
+    display: "Faltz"
+    render: "Faltz"
+    match: 'Faltz(?![a-zà-ÿ])'
+    tier: "Context-inferred"
+    variants: []
+    identity: "President of the Commission of Instruction of the Council of State of the Kingdom of Poland, signing its report on the Weigel/Miączyńska conflict of jurisdiction of 28 October 1834 (1/185/0/1/169); the one mention of him in the edition, and the reading of the signature is uncertain. Not the lawyer Falz (Salz) of the Kalisz suits. Added 2026-10-21."
   erbet:
     display: "Christoph Erbet"
     render: "Erbet"

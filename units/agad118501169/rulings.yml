@@ -1,0 +1,54 @@
+# Editorial rulings for 1/185/0/1/169.
+#
+# Keyed by the archive's own document number, which is what letter_id stays.
+# Nothing here is derived: each entry is a decision taken against evidence and
+# recorded so a rebuild reproduces it. Start empty and fill in from the review
+# sheets in review/ as you work through them.
+
+places:
+  # Place of writing, where the dateline is absent, illegible or misleading.
+  # A trailing [?] marks a reading that is probable rather than settled.
+  #   "12": Berlin
+  overrides:
+    # dateline "Fait à la Séance de la Commission d'Instruction Varsovie
+    # le 28 Octobre 1834" (p. 198).
+    "1": Warschau
+
+dates:
+  # [year, month, day, precision]; null where that element is unknown.
+  #   "3": [1815, 2, 9, "day"]
+  supplied:
+    # The date parser keyed on the narrative's "rescrit du 24 Septembre"
+    # near the signature block and read 1819-09-24; the report's own
+    # dateline, on p. 198, is the session of 28 October 1834.
+    "1": [1834, 10, 28, "day"]
+
+  # Taken from the document's own duplicate.
+  twin: {}
+
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred: {}
+
+  # Undated and left so.
+  no_date: []
+
+documents:
+  # Anything that is not an ordinary letter, e.g. "register".
+  doc_type:
+    # A report of a Council of State commission, not correspondence.
+    "1": report
+
+  # The document's language, where it is not the holding's default.
+  language:
+    "1": "fr"
+
+  # Same document, transcribed twice.
+  duplicate_of: {}
+
+  # Why a sub-record exists, shown on the document.
+  split_note: {}
+
+damage:
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
+  letters: []

@@ -1,0 +1,23 @@
+# What the check of 1/185/0/1/169 against the scans changes for anyone who
+# has written about this report from the archive's supplied transcript and
+# translation. Read by pipeline/review/changes_page.py.
+# importance: significant | fact | wording.
+
+unit: "1/185/0/1/169: the Instruction Commission's report on the Weigel/Miączyńska conflict of jurisdiction, 1834"
+changes:
+- importance: fact
+  what: "The archive's transcript omits the passage on Prince Hohenlohe's action of 1808 before the Tribunal of Kalisz, which declared itself incompetent; it stands on the scan on p. 159 and is restored in this edition, and translated where the archive's English also passed it over."
+  was: "the transcript runs from Weigel obtaining the inscription of the sum in his name (1808) straight to Weigel's suit of 1810"
+  now: "between the two, the corpus keeps: En 1808 le Prince Hohenlohe voulant rentrer en possession des dits biens intenta action devant le Tribunal de Kalisz contre la Dame Miączyńska ... s'est reconnu incompétent pour juger cette affaire"
+- importance: fact
+  what: "Most of manuscript p. 160 is crossed out, and this edition does not record crossed-out text (the editor, 2026-10-21). The archive's transcript kept the lead of the struck passage (En statuant ensuite sur le fond et considérant:, rendered Then, ruling on the merits and considering:) and the English followed it."
+  was: "the transcript's p. 160 opens with the struck lead, so the surviving grounds appear to hang on it"
+  now: "p. 159 ends with the surviving lead (Le Tribunal ayant pris en considération:) and p. 160 begins at the first ground (1° que dans l'affaire ...); the struck passage (Le Tribunal ayant pris en considération qu'il ne s'agissait plus ici ... s'est reconnu compétent.) is not recorded"
+- importance: wording
+  what: "The heading of p. 157 is heavily corrected in the manuscript; the archive's transcription of it is kept as it stands, its slips included (par a Tribunal Suprème, en vertu daquelle, rayée l'hypotheque)."
+  was: "the archive's own translation rendered the heading for sense"
+  now: "the transcription keeps the manuscript's wording; the year [1829] stands bracketed in the source's own transcript, though the body dates the definitive sentence 1826 and the authorisation of the conflict 1829 (the archive's translator noted the same)"
+- importance: wording
+  what: "The name of the litigant in the boundary precedent is Godlewski; the archive transcript writes Godtewski, misreading the Polish crossed l, and Godtewski is not a Polish surname (the editor, 2026-10-21). The archive translator marked the reading uncertain."
+  was: "that of Sieur Godtewski concerning a dispute over the boundaries"
+  now: "that of Sieur Godlewski concerning a dispute over the boundaries"

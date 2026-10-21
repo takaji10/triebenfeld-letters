@@ -481,7 +481,7 @@ eine *Frau Charlotte von Triebenfeld* mit 112.000 Reichstalern, derselben Summe 
 Vorschuss, der sich durch den Briefwechsel zieht. Ob es dieselben 112.000 sind und ob diese
 Charlotte die Tochter ist, die Brief 7 schrieb, sagen die Dokumente nicht.
 
-## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1832
+## VIII. Nach Hohenlohe-Ingelfingens Tod, 1818 bis 1834
 
 Hohenlohe-Ingelfingen starb 1818 in Sławięcice in Oberschlesien. Seine Erben erneuerten die
 Forderung, und Herzog Eugen von Württemberg empfahl sie der russischen Regierung unter Hinweis
@@ -515,6 +515,22 @@ Finanzminister, Fürst Lubecki, die Summe überhöht und ließ die Güter schät
 gewesen ([Antwort]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). Der Aufstand vom November 1830 unterbrach die Sache. Im März
 1832 wurde die Schätzung von Trąbczyn erneut angeordnet ([Schreiben]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). Die bisher
 veröffentlichten Dokumente zeigen nicht, ob Weigel bezahlt wurde.
+
+Hinter dem Zweifel des Ministeriums an der Zuständigkeit der Gerichte stand ein formeller
+Schritt. Am 4. Oktober 1829 ermächtigte der Verwaltungsrat, den Antrag Lubeckis annehmend, die
+Finanz- und Schatzkommission, in der Sache Weigels wegen der Unzuständigkeit der Gerichte einen
+Kompetenzkonflikt zu erheben, und im Juli 1830 legte die Kommission dem Staatsrat ihren Bericht
+vor. Die Instruktionskommission des Staatsrats antwortete darauf erst am 28. Oktober 1834: ein
+Kompetenzkonflikt habe nicht bestanden und bestehe nicht, denn die Zuständigkeit der Gerichte
+folge aus der Natur des Streitgegenstandes, einer Hypothekforderung, und keine der vier
+Bedingungen, die die Organisation des Staatsrats an einen solchen Konflikt setzt, sei erfüllt;
+was die Finanzkommission bringe, sei in der Sache eine Kassationsbeschwerde, als deren Gericht
+der Staatsrat nach seiner Organisation nicht gelte. Sie riet, das Begehren als auf keinem
+Rechtssatz beruhend abzuweisen, und reichte einen entsprechenden Gesetzentwurf ein
+([Bericht]({{ '/documents/agad118501169/1/' | relative_url }})). Der Bericht gibt auch den
+vollständigsten Gang der Hypotheksache vor den Gerichten, vom Darlehen von 1800 bis zum
+endgültigen Urteil vom 15. und 17. Juli 1826. Was der Staatsrat darauf entschied, und ob Weigel
+je bezahlt wurde, zeigt die Edition nicht.
 
 Das Urteil von 1826 wurde noch eine Generation später herangezogen, nun gegen die Siedler.
 1859 verklagten die Kolonisten von Trąbczyn den Besitzer des Gutes, Graf Włodzimierz
