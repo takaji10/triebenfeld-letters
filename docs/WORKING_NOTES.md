@@ -343,7 +343,7 @@ Where the rest is:
   "castle court") and the edition's own prose (holding pages, summaries,
   the timeline, the literature's English) alike. The prose said "castle
   court" until 2026-10-21, when the editor ruled it wrong and it was
-  changed throughout (497 places). The glossary entry `grod` explains that
+  changed throughout (502 places). The glossary entry `grod` explains that
   "municipal" here means the gród's court, not a town's. Urząd grodzki is
   the "municipal court office". The German summaries keep "Burggericht".
 - **Names in the English follow the edition's forms.** The estate is
