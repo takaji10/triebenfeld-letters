@@ -921,6 +921,13 @@ def main():
             _rec = _place_recs.get(slug) or {}
             if _rec.get('medieval'):
                 f.write('  medieval: [' + ', '.join(yaml_str(str(x)) for x in _rec['medieval']) + ']\n')
+            # Later official names, each with its source (`renamed` in
+            # reference/places.yml; the editor, 2026-10-21: Drommin).
+            if _rec.get('renamed'):
+                f.write('  renamed:\n')
+                for _r in _rec['renamed']:
+                    f.write('  - {' + ', '.join(f'{k}: {yaml_str(str(_r.get(k, "")))}'
+                            for k in ('name', 'years', 'en', 'de', 'source', 'url')) + '}\n')
             f.write(f'  count: {len(ids)}\n')
             f.write(osm_lines(PLACE_DISP.get(slug, slug)))
             f.write(f'  docs: {len(ids)}\n')

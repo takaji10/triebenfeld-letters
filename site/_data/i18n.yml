@@ -193,6 +193,8 @@ en:
   by_paragraph_printed: "The whole entry of the printed edition, one paragraph to each numbered line."
   noscan_printed: "From the electronic text of a printed edition: there is no page image."
   forms_medieval: "Medieval:"
+  forms_renamed: "Renamed:"
+  forms_source: "Source"
   place: Place
   extent: Extent
   lines: lines
@@ -544,6 +546,8 @@ de:
   by_paragraph_printed: "Der ganze Eintrag der gedruckten Edition, ein Absatz je nummerierter Zeile."
   noscan_printed: "Aus dem elektronischen Text einer gedruckten Edition: es gibt kein Seitenbild."
   forms_medieval: "Mittelalterlich:"
+  forms_renamed: "Umbenannt:"
+  forms_source: "Quelle"
   place: Ort
   extent: Umfang
   lines: Zeilen

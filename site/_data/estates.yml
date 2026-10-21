@@ -2,6 +2,8 @@
 - slug: "trabczyn"
   name: "Trąbczyn"
   medieval: ["1240: Trampczino", "1276: Trupcino", "1346: Trampczino", "1399: Trapczyno, Trambczyno", "1415: Trambczyno", "1434: Trampcz(i)no, Trampczino, Trambczino"]
+  renamed:
+  - {name: "Drommin", years: "1939-1945", en: "the name the German occupation gave the rural commune of Trąbczyn: provisionally on 20 November 1939, confirmed on 18 May 1943; from 1 April 1940 the Amtsbezirk Drommin, run by an Amtskommissar at Grabina", de: "der Name, den die deutsche Besatzung der Landgemeinde Trąbczyn gab: vorläufig am 20. November 1939, bestätigt am 18. Mai 1943; seit dem 1. April 1940 der Amtsbezirk Drommin, verwaltet von einem Amtskommissar in Grabina", source: "Rolf Jehke, Territoriale Veränderungen in Deutschland und deutsch verwalteten Gebieten 1874-1945, s.v. Amtsbezirk Drommin (last changed 7 February 2021)", url: "https://www.territorial.de/wart//konin/drommin.htm"}
   count: 298
   lat: 52.14318
   lon: 17.95845

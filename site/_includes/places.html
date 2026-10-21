@@ -27,6 +27,10 @@
     {%- if es.medieval %}
     <p class="refs forms">{{ t.forms_medieval }} {{ es.medieval | join: '; ' }}</p>
     {%- endif %}
+    {%- comment -%} Later official names, each with its source (editor, 2026-10-21: Drommin). {%- endcomment -%}
+    {%- for rn in es.renamed %}
+    <p class="refs forms">{{ t.forms_renamed }} <strong>{{ rn.name }}</strong> ({{ rn.years }}), {% if lang == 'de' %}{{ rn.de }}{% else %}{{ rn.en }}{% endif %}. {{ t.forms_source }}: <a href="{{ rn.url }}" rel="noopener">{{ rn.source }}</a>.</p>
+    {%- endfor %}
     <p class="refs counts">{% if es.docs == 1 %}{{ t.counts_estate_one }}{% else %}{{ t.counts_estate | replace: '%d', es.docs }}{% endif %}{% if es.span %} · {{ es.span }}{% endif %}</p>
     {%- if es.lat %}
     <p class="refs"><a href="https://www.openstreetmap.org/?mlat={{ es.lat }}&amp;mlon={{ es.lon }}#map=12/{{ es.lat }}/{{ es.lon }}" rel="noopener">{{ t.map_link }}</a></p>
