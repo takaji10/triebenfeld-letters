@@ -19,8 +19,10 @@ State Archive in Poznań. The editor photographed the cover and the pages
 with a camera, IMG_5217 to IMG_5251 (Canon raw files, .CR2; IMG_5239 as a
 .jpg), and gave the pages to edit (2026-10-21): pages 13-14, 25-26 and 66,
 by the archive's pagination in pencil at the top outer corner of each page
-(not the older numbers in red crayon beside it). Which photograph is which
-page was read off those numbers: p. 13 is IMG_5221, p. 14 IMG_5222, p. 25
+(not the older numbers in red crayon beside it). Page 15 was added the
+same day to finish the king's confirmation, no. 16, and is cut below its end.
+Which photograph is which page was read off those numbers: p. 13 is
+IMG_5221, p. 14 IMG_5222, p. 15 IMG_5223, p. 25
 IMG_5226, p. 26 IMG_5227, p. 66 IMG_5245. Each photograph shows one page
 whole, turned on its side, with a strip of the facing page. The editor's
 own cropped .jpg files in the folder (IMG_5220a and b, IMG_5225a and b,
@@ -59,11 +61,14 @@ RAW = (r"J:\Documents\Archive\Genealogy\References\Poznań State Archives"
 BOXES = {
     '0013_a': ('IMG_5221.CR2', 90, (330, 1455, 3110, 4795)),
     '0014_a': ('IMG_5222.CR2', 90, (240, 444, 2700, 4722)),
+    # p. 15, added at the editor's word to finish no. 16: cut below its end,
+    # above the heading of no. 17, which is not in the edition
+    '0015_a': ('IMG_5223.CR2', -90, (640, 820, 2950, 3135)),
     '0025_a': ('IMG_5226.CR2', -90, (380, 1507, 2650, 4537)),
     '0026_a': ('IMG_5227.CR2', -90, (480, 722, 2790, 4444)),
     '0066_a': ('IMG_5245.CR2', -90, (555, 444, 2905, 4370)),
 }
-LEAF = {'0013_a': 'p. 13', '0014_a': 'p. 14', '0025_a': 'p. 25', '0026_a': 'p. 26', '0066_a': 'p. 66'}
+LEAF = {'0013_a': 'p. 13', '0014_a': 'p. 14', '0015_a': 'p. 15', '0025_a': 'p. 25', '0026_a': 'p. 26', '0066_a': 'p. 66'}
 SCANS = []          # the photographs are raw files: --crop below cuts them, not courtbook.cut
 DOCS = text.DOCS
 ROWS = []           # the text was read whole from the photographs: text.py is the record

@@ -1083,6 +1083,20 @@ Where the rest is:
   chosen page and runs on to one not chosen is kept as far as the page goes,
   as its own document, undated if its date is on the next page, and the
   next page is offered.
+- **Read a whole entry before saying what it is** (APP 53/1455/0/2/21,
+  2026-10-21). No. 16 was first described from its heading and its first
+  lines as the king's confirmation of the sale copied before it (1461);
+  the page that finished it, added later at the editor's word, showed a
+  confirmation of 1447 of an earlier purchase of the same land. A heading
+  names the matter, not the deed: an entry given only in part is described
+  as a beginning, with no relation or summary claim that rests on its
+  unread rest.
+- **When another session has left the folder on its branch with work not
+  committed**, make your change in a separate checkout of `main` (`git
+  worktree add ../vonTriebenfeld-main main`), copying in the cache files
+  your step needs (`cache/translation-raw/<slug>-*.json`), and remove the
+  checkout when done. Rebuilding in the shared folder would put the other
+  session's half-built holding into your generated files.
 - **A holding from raw camera files cuts its own pages.** `courtbook.cut`
   opens the scans with PIL, which cannot read a .CR2; the holding's
   `intake/holding.py` takes the full-size JPEG inside each file

@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 619 Dokumente auf 2.010 Seiten aus den Jahren 1173 bis 1936. Die
+Die Edition enthält 619 Dokumente auf 2.011 Seiten aus den Jahren 1173 bis 1936. Die
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -56,7 +56,7 @@ Die Dokumente stammen aus sechsundvierzig Beständen in sechs Archiven und einer
   Kolonisten, zwei Notizheften von 1936, in die der Historiker Albert Breyer
   aufschrieb, was ihm die deutschen Siedler von Łazińsk und den umliegenden Orten erzählten,
   und einem dritten von 1935 und 1936, in das er die russischen Tabellen von 1868 abschrieb,
-  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; und fünf
+  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; und sechs
   Seiten eines Kopialbuchs der Privilegien der Abtei Ląd aus dem 18. Jahrhundert, mit dem
   Tausch des Königs von 1362, der der Abtei den Wald gab, in dem Drzewce gegründet wurde,
   ihrem Kauf von Land in Łukom 1461 und einer Seite der Erneuerung der Grenzhügel zwischen
@@ -152,7 +152,7 @@ Eingangs, eine Aktennummer, eine Anweisung), und quer an den Rand geschriebener 
 | `ſ` | Das lange s, wie geschrieben. |
 | `(missing)`, `(skipped)` | Die Nummer des Archivs ist vorhanden, aber unter ihr ist kein Text überliefert. |
 
-Die Edition enthält 900 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
+Die Edition enthält 905 Zweifelszeichen. Die Seite jedes Dokuments nennt deren Zahl.
 
 ## Die englischen Übersetzungen
 

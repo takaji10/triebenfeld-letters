@@ -1055,12 +1055,20 @@ places:
   gradzyn:
     display: "Grądzyń"
     kind: village
-    match: 'Gr[ąa]dz[iy][nń]\w*'
+    # "Gradziem", "Gradzien" in the copy-book of the privileges of Ląd (APP
+    # 53/1455/0/2/21: the forest bought with three mansi of Łukom, confirmed
+    # in 1447 ("Graziem") and resigned in 1461, and
+    # the boundary of Łukomia with it in 1761) are Grądzyń (the editor,
+    # 2026-10-21).
+    match: 'Gr[ąa]dz[iy][nń]\w*|Gradzie[mn]\b|Graziem\b'
     tier: ""
     variants:
       - "Grądzin"
       - "Grądzyn"
       - "Grąndzyń"
+      - "Gradziem"
+      - "Gradzien"
+      - "Graziem"
 
   brzyce:
     display: "Brzyce"

@@ -2,8 +2,9 @@
 #
 # Six documents on the five pages the editor chose (2026-10-21), one for each
 # of the copyist's entries that stands on them (EDITORIAL_RULES: each entry of
-# a register is a document): no. 14 (1), no. 15 (2), the beginning of no. 16
-# (3), no. 25 (4), the beginning of no. 26 (5), and p. 66 of no. 46 (6).
+# a register is a document): no. 14 (1), no. 15 (2), no. 16 (3; p. 15 added
+# at the editor's word to finish it), no. 25 (4), the beginning of no. 26
+# (5), and p. 66 of no. 46 (6).
 # Each is a copy, and takes the date and the era of what it copies (editor,
 # 2026-10-14).
 
@@ -29,10 +30,11 @@ dates:
   twin: {}
   # [year, month, day, precision, basis]; the basis is shown to the reader.
   inferred:
+    "3": [1447, 8, 8, "day", "The dating clause, on p. 15: \"Actum Gnesnae feria tertia ante festum S. Laurentii Martyris Anno Domini\", the year written over; read as 1447, as a later hand wrote it in pencil in the margin. The witnesses, Bishop Andrzej, Łukasz of Górka, voivode of Poznań, and the chancellor Jan of Koniecpol, held their offices in 1447. St Lawrence, 10 August 1447, was a Thursday."]
     "6": [1761, 4, 10, "day", "The page names \"the Friday next after the same Sunday Misericordia\"; the heading of the entry, on p. 63 (not in the edition), gives the year 1761 and its entry at Kalisz castle on the Monday after Cantate 1761. Misericordia Sunday 1761 was 5 April."]
   sitting: {}
-  # The beginnings of nos. 16 and 26 stop before their dates.
-  no_date: ["3", "5"]
+  # The beginning of no. 26 stops before its date (p. 27 is not photographed).
+  no_date: ["5"]
 
 documents:
   # A copy belongs to the era of what it copies (editor, 2026-10-14): the
@@ -60,9 +62,9 @@ documents:
   split_note: {}
   relations:
     "3":
-      - kind: confirms
+      - kind: supplements
         target: "2"
-        note: "The copyist's heading: \"Confirmatio Gradziem Regis Casimiri\", King Kazimierz's confirmation of the sale of Gradziem, copied next after it as no. 16; only its beginning is on these pages."
+        note: "Both are about the same three mansi of Łukom with the forest of Grądzyń: in no. 16 (1447) King Kazimierz confirms the contract by which Abbot Maciej bought them from the brothers Mikołaj, Jan and Warsz of Koscielec; in no. 15 (1461) the Wochneth brothers and their nephews resign them to Abbot Cornelius before the general captain of Greater Poland."
     "5":
       - kind: supplements
         target: "4"
@@ -71,15 +73,16 @@ documents:
   # The estate the document is ABOUT, as slugs from reference/places.yml.
   estates:
     "1": [lad]
-    "2": [lukom, zagorowo, imielno, lad]
-    "3": [lukom, lad]
+    # Grądzyń / Grądzyń of the copy is Grądzyń (the editor, 2026-10-21).
+    "2": [lukom, gradzyn, zagorowo, imielno, lad]
+    "3": [lukom, gradzyn, lad]
     "4": [wrabczynek, drzewce, lad]
     "5": [drzewce, lad]
-    "6": [lukom, zagorowo, drzewce, lad]
+    "6": [lukom, gradzyn, zagorowo, drzewce, lad]
 
 pages:
   # The text is given by paragraph, as the copyist divides it.
-  by_paragraph: ["0013_a", "0014_a", "0025_a", "0026_a", "0066_a"]
+  by_paragraph: ["0013_a", "0014_a", "0015_a", "0025_a", "0026_a", "0066_a"]
 
 damage:
   # Damage is read from the text's own [...] markers. List document numbers

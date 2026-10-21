@@ -169,7 +169,7 @@
   initial_en: "H"
   sort_de: "hufe"
   initial_de: "H"
-  docs: 48
+  docs: 49
 - id: "ruthe"
   kind: "money"
   lang: "de"
@@ -397,7 +397,7 @@
   initial_en: "D"
   sort_de: "dominium"
   initial_de: "D"
-  docs: 30
+  docs: 31
 - id: "herrschaft"
   kind: "land"
   lang: "de"
@@ -568,7 +568,7 @@
   initial_en: "A"
   sort_de: "pertinenzien"
   initial_de: "P"
-  docs: 73
+  docs: 74
 - id: "einstand"
   kind: "land"
   lang: "de"
@@ -2012,7 +2012,7 @@
   initial_en: "A"
   sort_de: "actum"
   initial_de: "A"
-  docs: 70
+  docs: 71
 - id: "in-fidem"
   kind: "phrase"
   lang: "la"

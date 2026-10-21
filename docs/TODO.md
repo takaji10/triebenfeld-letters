@@ -666,6 +666,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       (`units/app5314550221/notes.md`).
 - [ ] **You:** a look at the five cut pages and the holding's page; the
       word to publish.
-- [ ] **You:** whether to add p. 15 (finishes the king's confirmation of
-      1461) and p. 27 (would need a photograph); whether Gradziem is
-      Grądzyń (NEEDS_CONFIRMATION).
+- [x] Gradziem is Grądzyń (your word, 2026-10-21): matched and used
+      throughout. P. 15 added (your word): it finishes no. 16, which is the
+      king's confirmation of 1447 of an earlier purchase of the same land,
+      not of the 1461 sale. No p. 27 (no photograph).

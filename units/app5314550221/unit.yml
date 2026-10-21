@@ -8,20 +8,23 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  Five pages of an eighteenth-century copy-book of the privileges of the
+  Six pages of an eighteenth-century copy-book of the privileges of the
   Cistercian abbey of Ląd: King Kazimierz's exchange of 1362 that gave the
-  abbey the forest where Drzewce was founded, the sale of three mansi of
-  Łukom with the Gradziem forest to the abbey in 1461, the boundary of
-  Makownica in 1399, the beginnings of two royal privileges, and a page of
-  the renewal of the mounds between Łukom, Zagórów and Drzewce in 1761.
+  abbey the forest where Drzewce was founded, the abbey's purchase of three
+  mansi of Łukom with the forest of Grądzyń, confirmed by the king in 1447
+  and resigned before the captain of Greater Poland in 1461, the boundary of
+  Makownica in 1399, the beginning of a privilege for the settlers of
+  Drzewce, and a page of the renewal of the mounds between Łukom, Zagórów
+  and Drzewce in 1761.
 title_de: >-
-  Fünf Seiten eines Kopialbuchs der Privilegien der Zisterzienserabtei Ląd
+  Sechs Seiten eines Kopialbuchs der Privilegien der Zisterzienserabtei Ląd
   aus dem 18. Jahrhundert: der Tausch König Kasimirs von 1362, durch den die
-  Abtei den Wald erhielt, in dem Drzewce gegründet wurde, der Verkauf von
-  drei Hufen in Łukom mit dem Wald Gradziem an die Abtei 1461, die Grenze
-  von Makownica 1399, die Anfänge zweier königlicher Privilegien und eine
-  Seite der Erneuerung der Grenzhügel zwischen Łukom, Zagórów und Drzewce
-  1761.
+  Abtei den Wald erhielt, in dem Drzewce gegründet wurde, der Kauf von drei
+  Hufen in Łukom mit dem Wald Grądzyń durch die Abtei, vom König 1447
+  bestätigt und 1461 vor dem Generalstarosten von Großpolen aufgelassen,
+  die Grenze von Makownica 1399, der Anfang eines Privilegs für die Siedler
+  von Drzewce und eine Seite der Erneuerung der Grenzhügel zwischen Łukom,
+  Zagórów und Drzewce 1761.
 # The archive's own title of the unit, as the editor gave it. Kept for
 # reference; nothing displays it.
 archive_title: >-
@@ -51,9 +54,9 @@ repository: app-poznan
 
 # Thirty-four photographs taken by the editor with a camera (IMG_5217 to
 # IMG_5251, Canon raw .CR2, one .jpg), one page each, turned on its side.
-# intake/holding.py --crop takes the five pages the editor chose (pp. 13,
-# 14, 25, 26, 66) out of the raw files' previews into raw_dir/processed/
-# under their page ids: 0013_a, 0014_a, 0025_a, 0026_a, 0066_a (the number
+# intake/holding.py --crop takes the six pages the editor chose (pp. 13,
+# 14, 15, 25, 26, 66) out of the raw files' previews into raw_dir/processed/
+# under their page ids: 0013_a, 0014_a, 0015_a, 0025_a, 0026_a, 0066_a (the number
 # is the archive's pagination).
 scans:
   raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Series privilegiorium monasterii Landensis transcripta ex libro privilegiorum (53.1455.0.2.21)
@@ -78,7 +81,7 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  Five pages, in Latin, of a copy-book of the privileges of the Cistercian
+  Six pages, in Latin, of a copy-book of the privileges of the Cistercian
   abbey of Ląd on the Warta, made in the eighteenth century and kept in the
   State Archive in Poznań in the fond of the abbey. The copyist gives each
   privilege a heading and a number. Page 13 has no. 14, Mikołaj, heir of
@@ -86,9 +89,12 @@ description: >-
   Makownica (Ląd, 1399), and the beginning of no. 15, which runs on to page
   14: Piotr of Szamotuły, general captain of Greater Poland, attests that the
   Wochneth (Bochneth) brothers and nephews sold three mansi in Łukom, in the
-  parish of Zagórów, with the forest Gradziem and other woods, to the abbot
-  and convent of Ląd for 400 marks (Pyzdry, 1461). The foot of page 14 has
-  the beginning of no. 16, King Kazimierz's confirmation of it. Pages 25 and
+  parish of Zagórów, with the forest Grądzyń and other woods, to the abbot
+  and convent of Ląd for 400 marks (Pyzdry, 1461). From the foot of page 14
+  to page 15 runs no. 16, King Kazimierz's confirmation (Gniezno, 1447) of
+  the contract by which Abbot Maciej had bought the same three mansi and the
+  forest of Grądzyń from the brothers Mikołaj, Jan and Warsz of Koscielec.
+  Pages 25 and
   26 have no. 25, King Kazimierz's exchange of 1362 (Pyzdry): the abbey's
   village of Little Wronczyn and its mill below the castle of Pyzdry for
   sixty Franconian mansi of the royal forest Czernietz in the district of
@@ -108,6 +114,7 @@ translation_note: >-
   as the originals had them: "kopce" (boundary mounds), "sep", "naraz",
   "powos" (levies and the carting duty), "niwa" (a field). "parvum Wronczyno"
   is Little Wronczyn, a village of the abbey near Pyzdry, not Trąbczyn.
-  "Gradziem", "Gradzien" is a forest beside Łukom; "Lukom" is the settlement
+  "Grądzyń", "Grądzyń" is the forest of Grądzyń beside Łukom (the
+  editor, 2026-10-21); "Lukom" is the settlement
   and "Lukomia" the estate. A "Scopulus" is a boundary mound, a "pertica" a
   rod. A word followed by [?] is read with doubt.

@@ -4,8 +4,9 @@
 # unsupported, and the summary only weakened or cut. The English summaries
 # are translated from the German.
 #
-# Result: 70 statements, all supported, after five were changed before the
-# summaries were written out:
+# Result: 80 statements, all supported, after five were changed before the
+# summaries were written out (doc. 3 was written again with p. 15, added at
+# the editor's word the same day, and checked again: 15 statements):
 # - doc. 2: "mit Gehölzen und Grenzhügeln" cut to "mit seinen Gehölzen": the
 #   mounds are "Scopulis Pyzdrensibus", mounds of Pyzdry, which the first
 #   draft lost; "bis zum Weg nach Rosiszewo" made "bis zu dem Weg namens
@@ -16,6 +17,9 @@
 # - before that, the first plan of doc. 1 named the witnesses Siemenci and
 #   Retch and the priest's parish, all read with doubt: left out (the rule:
 #   nothing read with doubt goes into a summary).
+# Grądzyń for the copy's "Grądzyń" and "Grądzyń" is the editor's
+# identification (2026-10-21), made after the check: the claims are
+# written in it and count as supported, as the edition's other place forms.
 # Dates turned from feasts are counted from Easter (Julian calendar, 1399:
 # 30 March; 1761 Gregorian: 22 March); "Konin" for the copy's "Kominensi" is
 # the edition's reading of a slip (m for n), as "Coninen." in doc. 4. The year
@@ -45,7 +49,7 @@ app5314550221-002:
 - {claim: "mit Zustimmung König Kasimirs", verdict: supported, where: "Serenissimi Principis ... Casimiri Dei Gratia Regis Poloniae ... Consensum et Specialem ad hoc habentes Voluntatem"}
 - {claim: "auf ewig aufgelassen haben", verdict: supported, where: "resignaverunt in perpetuum"}
 - {claim: "drei ganze Hufen mit Gärten im Dorf und Erbgut Łukom im Bezirk Konin, in der Pfarrei Zagórów", verdict: supported, where: "Totales tres mansos cum hortis in Villa et haereditate Lukom in districtu Kominensi et super parochia Zagorowo sita"}
-- {claim: "dazu den Wald Gradziem mit seinen Gehölzen", verdict: supported, where: "Gradziem Sylvam cum borra et nemoribus. First drafted with the boundary mounds as well, losing that they are Scopulis Pyzdrensibus: cut"}
+- {claim: "dazu den Wald Grądzyń mit seinen Gehölzen", verdict: supported, where: "Grądzyń Sylvam cum borra et nemoribus. First drafted with the boundary mounds as well, losing that they are Scopulis Pyzdrensibus: cut"}
 - {claim: "die Wälder Chmielniki und Lome bis zu dem Weg namens Rosiszewska", verdict: supported, where: "cum Sylva Chmielniki et cum Sylva Lome usque usque ad viam, quae vocatur Rosiszewska. First drafted as the road to Rosiszewo: changed"}
 - {claim: "der von Łukom und dem Dorf Lomowo zum Hügel Karczemne gory führt", verdict: supported, where: "quae vadit de Lukom et Villa Lomowo usque ad Montem Karczemne gory"}
 - {claim: "die Sümpfe Karczemne Lugi und ein Feld oberhalb von Imielno", verdict: supported, where: "et paludines alias Karczemne Lugi et cum niwa super Imielnem"}
@@ -55,11 +59,21 @@ app5314550221-002:
 - {claim: "Am Rand steht: „und mit dem Wald Lomy, von den Grenzen“", verdict: supported, where: "the right margin of p. 14: Et cum Sylva Lomy a limitibus"}
 
 app5314550221-003:
-- {claim: "Der Anfang einer Abschrift (Nr. 16 des Kopialbuchs, überschrieben „Confirmatio Gradziem Regis Casimiri“ ...), am Fuß der Seite 14", verdict: supported, where: "p. 14: Confirmatio Gradziem Regis Casimiri 16., the last nine lines of the page"}
-- {claim: "König Kasimir von Polen, Großfürst von Litauen, macht allen bekannt", verdict: supported, where: "Nos Casimirus Dei Gratia Rex Poloniae ... Dux magnus Lithvaniae ... Significamus tenore praesentium quibus expedit, Universis"}
-- {claim: "wie vor ihn und seine Prälaten und Barone gekommen sei …", verdict: supported, where: "Quomodo veniens ad Nostram Praelatorumque et Baro- / catchword rum"}
-- {claim: "er geht auf S. 15 weiter, die nicht in der Edition ist, und das Datum steht dort", verdict: supported, where: "the catchword; p. 15 is IMG_5223, not chosen by the editor; no date on p. 14"}
-- {claim: "Nach der Überschrift ist es die Bestätigung des Kaufs von 1461 (Dok. 2) durch den König", verdict: supported, where: "the heading names Gradziem, the forest of no. 15, and the king's confirmation"}
+- {claim: "Abschrift (Nr. 16 des Kopialbuchs, überschrieben „Confirmatio Gradziem Regis Casimiri“, die Bestätigung von Grądzyń durch König Kasimir) einer lateinischen Urkunde König Kasimirs von Polen", verdict: supported, where: "p. 14: Confirmatio Gradziem Regis Casimiri 16.; Nos Casimirus Dei Gratia Rex Poloniae; Gradziem is Grądzyń (the editor, 2026-10-21)"}
+- {claim: "gegeben in Gnesen am Dienstag vor dem Fest des heiligen Laurentius", verdict: supported, where: "p. 15: Actum Gnesnae feria tertia ante festum S. Laurentii Martyris"}
+- {claim: "das Jahr ist überschrieben und als 1447 gelesen, wie eine spätere Hand es am Rand vermerkt hat, und die genannten Zeugen hatten ihre Ämter in diesem Jahr inne (8. August 1447)", verdict: supported, where: "Anno Domini 1.4 and two figures inked over, read 1447[?]; the pencil 1447 in the margin; Bishop Andrzej (Bniński, Poznań), Łukasz of Górka voivode of Poznań, Jan of Koniecpol chancellor, all in office in 1447. St Lawrence, 10 August 1447, was a Thursday. The year is the one doubtful reading the summary rests on, and it says so"}
+- {claim: "Der Abt Maciej von Ląd hat dem König vorgetragen, er habe mit den Brüdern Mikołaj, Jan und Warsz von Koscielec, Erben, und ihrem Stiefsohn einen Kaufvertrag ... geschlossen", verdict: supported, where: "Mathias Abbas Monasterii Landen. ... sua nobis revelatione patefecit se Contractum fori fecisse cum Nobilibus Nicolao, Joanne et Warschio germanis de Koscielec haeredibus et cum eorum filiastro"}
+- {claim: "über drei Hufen Ackerland im Dorf Łukomia im Bezirk Konin und den Wald Grądzyń", verdict: supported, where: "pro tribus Mansis seu Laneis agrorum in Villa Lukomia Districtus Coninen. jacente, ac pro Sylva Graziem dicta"}
+- {claim: "mit weiteren Wäldern, Wiesen, Feldern, Heiden, Fischteichen, Bienenstöcken und Gewässern", verdict: supported, where: "nec non aliis Sylvis et borris, pratis, campis, mericis, piscinis, Mellificiis, aquis et earum decursibus"}
+- {claim: "ohne dass die Verkäufer sich ein Recht daran vorbehielten", verdict: supported, where: "Nihil juris, proprietatisque se et Dominii pro se et eorum Successoribus in eisdem reservantes"}
+- {claim: "und hat um seine Zustimmung gebeten", verdict: supported, where: "Supplicando Majestati ... quatenus in praedictum fori Contractum Nostrum benignum adhiberemus Consensum"}
+- {claim: "Der König stimmt zu und bestätigt den Vertrag auf ewig", verdict: supported, where: "Nostram benignam adhibuimus Voluntatem. assensimus quoque et praesentibus assentimus decernentes ipsum robur obtinere perpetuae firmitatis"}
+- {claim: "um Himmlisches für Irdisches zu erwerben und den Gottesdienst im Kloster zu mehren", verdict: supported, where: "volentes mercari Coelestia pro terrenis et ampliare in illo Monasterio ... Cultum Divinum"}
+- {claim: "vor allem aber, weil dem Kloster anderswo die Wälder fehlen, mit denen es wiederhergestellt werden könnte", verdict: supported, where: "praecipue attendentes defectum Sylvarum et borrarum, quibus illud Monasterium ... instaurari posset, cum alibi careat illis; the doubtful Casanis left out"}
+- {claim: "und damit es bei seinen Besuchen dort besser versorgt sei", verdict: supported, where: "ut etiam pro nostro felici Adventu, dum nos inde descendere contingat eo meliora possint haberi necessaria"}
+- {claim: "Unter den Zeugen sind der Bischof Andrzej, der Woiwode von Posen Łukasz von Górka und der Kastellan von Sandomierz Przedbor von Koniecpol", verdict: supported, where: "Reverendo Patre Domino Andrea Episcopo ... Luca de Gorka Posnanien. ... Palatinis ... Praedborio de Koniecpole Sandomirien. ... Castellanis"}
+- {claim: "gegeben durch den Kanzler Jan von Koniecpol", verdict: supported, where: "Datum per manus Magnificorum Joannis de Koniecpole Cancellarii"}
+- {claim: "Der Text beginnt am Fuß von S. 14 und endet auf S. 15, die unter seinem Ende abgeschnitten ist", verdict: supported, where: "p. 14, last nine lines; p. 15 to sincere nobis dilectorum, then the heading of no. 17, cut away"}
 
 app5314550221-004:
 - {claim: "Abschrift (Nr. 25 des Kopialbuchs) einer lateinischen Urkunde König Kasimirs von Polen", verdict: supported, where: "heading ... 25.; Quod Nos Casimirus Dei Gratia Poloniae Rex"}
@@ -91,10 +105,10 @@ app5314550221-006:
 - {claim: "durch das nach der Überschrift des Eintrags ein Stück Grund im Gut Łukom am Rand der Güter von Drzewce dem Konvent von Ląd abgetreten und abgegrenzt wurde", verdict: supported, where: "p. 63: Cessio Fundi certi in Haereditate Bonorum Lukom circa parietem Bonorum Drzewce jacentis, ejusdemque ablimitatio pro re Venerabilis Conventus Landensis"}
 - {claim: "der Eintrag ist 1761 in der Burg Kalisch eingetragen", verdict: supported, where: "p. 63: Actum in Castro Calisiensi, Feria secunda post Dominicam Cantate proxima, Anno Domini 1761"}
 - {claim: "Die Seite zählt die Grenzhügel acht bis neunzehn mit ihren Abständen in Ruten auf", verdict: supported, where: "Octavus ... perticis Triginta Quatuor ... Decimus Nonus Scopulus erectus est"}
-- {claim: "an den Wegen von Huta nach Gradzien, nach Rosiszewo und nach Lomowo", verdict: supported, where: "Viam quae tendit de Huta ad Gradzien; via de Huta ad Rosiszewo; Viam ... de Huta ad Lomowo"}
-- {claim: "von Drzewce und Lomowo nach Gradzien, von Łukom nach Lomowo und von Tomice nach Zagórów und Łukom", verdict: supported, where: "Viam de Drzewce Lomowo ad Gradzien; Viam quae tendit de Lukom Lomowo; Viam quae tendit de Tomice ad Zagorow et Lukom"}
+- {claim: "an den Wegen von Huta nach Grądzyń, nach Rosiszewo und nach Lomowo", verdict: supported, where: "Viam quae tendit de Huta ad Grądzyń; via de Huta ad Rosiszewo; Viam ... de Huta ad Lomowo"}
+- {claim: "von Drzewce und Lomowo nach Grądzyń, von Łukom nach Lomowo und von Tomice nach Zagórów und Łukom", verdict: supported, where: "Viam de Drzewce Lomowo ad Grądzyń; Viam quae tendit de Lukom Lomowo; Viam quae tendit de Tomice ad Zagorow et Lukom"}
 - {claim: "bis zu dem Weg zu den Eckhügeln der Güter Tomice und der Stadt Pyzdry", verdict: supported, where: "arripiendo ductum via quae tendit ad Angulares Scopulos Bonorum Tomice et Civitatis Pyzdry"}
-- {claim: "Nachdem die Grenze des Guts Łukomia gegen Gradzien erledigt war", verdict: supported, where: "Expedito itaque Pariete Bonorum Lukomia cum Gradzien"}
+- {claim: "Nachdem die Grenze des Guts Łukomia gegen Grądzyń erledigt war", verdict: supported, where: "Expedito itaque Pariete Bonorum Lukomia cum Grądzyń"}
 - {claim: "ließ das Gericht auf Wunsch der Parteien zwei kleine Hügel gegen Huta öffnen", verdict: supported, where: "Judicium Compromissoriale affectantibus Partibus ad reserationem Monticulorum duorum versus Huta ... condescendit"}
 - {claim: "die der Konvent als Grenzhügel für sich nahm", verdict: supported, where: "pro Scopulis Parietalibus per Venerabilem Conventum Landensem sibi sumptis"}
 - {claim: "man fand nichts darin", verdict: supported, where: "Quibus reseratis nihil inventum"}

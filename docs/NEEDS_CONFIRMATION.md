@@ -440,14 +440,15 @@ written until there is a witness or a better scan.
 
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
   2026-10-21, not published; `units/app5314550221/notes.md`): read from the
-  editor's photographs by Claude; 17 marks of doubt, mostly witnesses'
-  names in the copy of 1399 and the third Wochneth brother of 1461 (written
-  "Barlyus" and "Wardzch"). Not yet put to the editor. Open: whether
-  Gradziem / Gradzien, the forest beside Łukom and Drzewce, is the Grądzyń
-  of the edition's estates (`gradzyn`, the bond of 1805); whether the note
-  in the margin of p. 14 is in another hand; whether the editor wants p. 15
-  (photographed) to finish no. 16, the king's confirmation of 1461, and a
-  photograph of p. 27 to finish no. 26.
+  editor's photographs by Claude; 22 marks of doubt, mostly witnesses'
+  names and the third Wochneth brother of 1461 (written "Barlyus" and
+  "Wardzch"; perhaps the Warsz of no. 16). Not yet put to the editor.
+  Settled: the copy's Gradziem / Gradzien / Graziem is Grądzyń (editor,
+  2026-10-21); p. 15 added to finish no. 16, which turned out to be the
+  king's confirmation of 1447 of Abbot Maciej's purchase, not of the sale of
+  1461; no photograph of p. 27 (editor), so no. 26 stays a beginning. Open:
+  the year of no. 16, written over in the copy and read as 1447 with doubt;
+  whether the note in the margin of p. 14 is in another hand.
 
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
   2026-10-14): read from the scans by Claude; the editor read 39 doubtful

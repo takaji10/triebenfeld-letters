@@ -159,7 +159,7 @@
   count: 19
   docs: 19
   span: "1173–1761"
-  letters: [{id: "1", uid: "kdw-1", url: "/documents/kdw/1/"}, {id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}, {id: "7", uid: "kdw-7", url: "/documents/kdw/7/"}, {id: "4", uid: "app5314550221-4", url: "/documents/app5314550221/4/"}, {id: "11", uid: "kdw-11", url: "/documents/kdw/11/"}, {id: "12", uid: "kdw-12", url: "/documents/kdw/12/"}, {id: "1", uid: "app5314550221-1", url: "/documents/app5314550221/1/"}, {id: "13", uid: "kdw-13", url: "/documents/kdw/13/"}, {id: "14", uid: "kdw-14", url: "/documents/kdw/14/"}, {id: "15", uid: "kdw-15", url: "/documents/kdw/15/"}, {id: "16", uid: "kdw-16", url: "/documents/kdw/16/"}, {id: "17", uid: "kdw-17", url: "/documents/kdw/17/"}, {id: "18", uid: "kdw-18", url: "/documents/kdw/18/"}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/"}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/"}, {id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/"}, {id: "5", uid: "app5314550221-5", url: "/documents/app5314550221/5/"}]
+  letters: [{id: "1", uid: "kdw-1", url: "/documents/kdw/1/"}, {id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "4", uid: "kdw-4", url: "/documents/kdw/4/"}, {id: "6", uid: "kdw-6", url: "/documents/kdw/6/"}, {id: "7", uid: "kdw-7", url: "/documents/kdw/7/"}, {id: "4", uid: "app5314550221-4", url: "/documents/app5314550221/4/"}, {id: "11", uid: "kdw-11", url: "/documents/kdw/11/"}, {id: "12", uid: "kdw-12", url: "/documents/kdw/12/"}, {id: "1", uid: "app5314550221-1", url: "/documents/app5314550221/1/"}, {id: "13", uid: "kdw-13", url: "/documents/kdw/13/"}, {id: "14", uid: "kdw-14", url: "/documents/kdw/14/"}, {id: "15", uid: "kdw-15", url: "/documents/kdw/15/"}, {id: "16", uid: "kdw-16", url: "/documents/kdw/16/"}, {id: "17", uid: "kdw-17", url: "/documents/kdw/17/"}, {id: "18", uid: "kdw-18", url: "/documents/kdw/18/"}, {id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/"}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/"}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/"}, {id: "5", uid: "app5314550221-5", url: "/documents/app5314550221/5/"}]
 - slug: "polajewo"
   name: "Polajewo"
   count: 17
@@ -191,6 +191,14 @@
   docs: 15
   span: "1797–1815"
   letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/"}, {id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/"}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/"}, {id: "103", uid: "oe1bu9454-103", url: "/documents/oe1bu9454/103/"}, {id: "41", uid: "oe1bu14525-41", url: "/documents/oe1bu14525/41/"}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/"}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/"}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/"}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/"}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/"}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/"}, {id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/"}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/"}]
+- slug: "gradzyn"
+  name: "Grądzyń"
+  count: 14
+  lat: 52.10934
+  lon: 17.82053
+  docs: 14
+  span: "1447–1808"
+  letters: [{id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/"}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/"}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/"}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/"}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/"}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/"}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/"}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/"}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/"}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/"}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/"}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/"}]
 - slug: "swiatniki"
   name: "Świątniki"
   medieval: ["1261: sanctuariis (\"Rzgowo cum sanctuariis\", the people of the sanctuary)", "1280: sanctuariis (\"Irgouo cum sanctuariis\")"]
@@ -206,14 +214,6 @@
   docs: 12
   span: "1803–1812"
   letters: [{id: "2", uid: "oe1bu14526-2", url: "/documents/oe1bu14526/2/"}, {id: "1", uid: "app539680801-1", url: "/documents/app539680801/1/"}, {id: "163", uid: "oe1bu9454-163", url: "/documents/oe1bu9454/163/"}, {id: "21", uid: "oe1bu14526-21", url: "/documents/oe1bu14526/21/"}, {id: "173", uid: "oe1bu9454-173", url: "/documents/oe1bu9454/173/"}, {id: "31", uid: "oe1bu9454-31", url: "/documents/oe1bu9454/31/"}, {id: "64", uid: "oe1bu9454-64", url: "/documents/oe1bu9454/64/"}, {id: "22", uid: "oe1bu9454-22", url: "/documents/oe1bu9454/22/"}, {id: "23", uid: "oe1bu9454-23", url: "/documents/oe1bu9454/23/"}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/"}, {id: "19", uid: "oe1bu9454-19", url: "/documents/oe1bu9454/19/"}, {id: "1", uid: "oe1bu14526-1", url: "/documents/oe1bu14526/1/"}]
-- slug: "gradzyn"
-  name: "Grądzyń"
-  count: 11
-  lat: 52.10934
-  lon: 17.82053
-  docs: 11
-  span: "1797–1808"
-  letters: [{id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/"}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/"}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/"}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/"}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/"}, {id: "136", uid: "oe1bu9454-136", url: "/documents/oe1bu9454/136/"}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/"}, {id: "151", uid: "oe1bu9454-151", url: "/documents/oe1bu9454/151/"}, {id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/"}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/"}, {id: "32", uid: "oe1bu9454-32", url: "/documents/oe1bu9454/32/"}]
 - slug: "glazewo"
   name: "Głażewo (Gloszewo)"
   count: 11
@@ -354,7 +354,7 @@
   lon: 17.84485
   docs: 4
   span: "1240–1761"
-  letters: [{id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/"}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/"}, {id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/"}]
+  letters: [{id: "2", uid: "kdw-2", url: "/documents/kdw/2/"}, {id: "3", uid: "app5314550221-3", url: "/documents/app5314550221/3/"}, {id: "2", uid: "app5314550221-2", url: "/documents/app5314550221/2/"}, {id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/"}]
 - slug: "adamierz"
   name: "Adamierz"
   medieval: ["1377: Nadamirza", "1440: Nadomirz, Niedomirz"]

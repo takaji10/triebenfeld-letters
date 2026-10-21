@@ -1,13 +1,14 @@
 # APP 53/1455/0/2/21
 
-Six documents on five pages of an eighteenth-century copy-book of the
+Six documents on six pages of an eighteenth-century copy-book of the
 privileges of the Cistercian abbey of Ląd, "Series privilegiorum monasterii
 Landensis transcripta ex libro privilegiorum", in the fond Klasztor
 cystersów w Lądzie (53/1455) of the State Archive in Poznań. The pages are
 13, 14, 25, 26 and 66, the editor's choice (2026-10-21: "only pages 25-26,
-13-14, and 66 are relevant - they contain copies of privilege documents").
-The privileges copied are of 1362, 1399 and 1461, and a court decree of
-1761. Added 2026-10-21: read from the photographs in session, translated,
+13-14, and 66 are relevant - they contain copies of privilege documents"),
+and p. 15, added the same day to finish no. 16 ("you can add page 15 to
+finish the king's confirmation"). The privileges copied are of 1362, 1399,
+1447 and 1461, and a court decree of 1761. Added 2026-10-21: read from the photographs in session, translated,
 summarised, claim-checked, with its page, three timeline entries and the
 German notes. **Not published.**
 
@@ -49,8 +50,28 @@ parts of other sections from previous/earlier pages"):
 - Two entries begin on the chosen pages and run on to pages not chosen:
   no. 16 (p. 14 to p. 15, IMG_5223) and no. 26 (p. 26 to p. 27, the facing
   page of IMG_5227, which shows only a strip of it). They are documents 3
-  and 5, given as far as these pages go. **Offered to the editor**: p. 15
-  (photographed) to finish no. 16; p. 27 would need a photograph.
+  and 5. p. 15 was added at the editor's word (2026-10-21) and is cut below
+  the end of no. 16, above the heading of no. 17 ("Privilegium donationis
+  2dae partis Wrabczyno"), not in the edition. There is no photograph of
+  p. 27 (the editor), so no. 26 stays a beginning, undated.
+
+## No. 16 is not the confirmation of the sale of 1461
+
+Read whole with p. 15, no. 16 is King Kazimierz's confirmation, at Gniezno
+on the Tuesday before St Lawrence, of the contract by which Abbot Maciej
+bought the three mansi in "Villa Lukomia" and the forest "Graziem" from the
+brothers Mikołaj, Jan and Warsz ("Warschio") of Koscielec and their stepson.
+The year is written over ("1.4" and two inked figures); a later hand wrote
+1447 in pencil in the margin, and the witnesses fit 1447: Bishop Andrzej
+(Bniński, of Poznań), Łukasz of Górka, voivode of Poznań, Przedbor of
+Koniecpol, castellan of Sandomierz, the chancellor Jan of Koniecpol. Dated 8
+August 1447 (`rulings.yml`, inferred, with the basis). So the abbey bought
+the land under Abbot Maciej by 1447, and in 1461 (no. 15) the brothers and
+their nephews resigned it to Abbot Cornelius before the general captain. The
+first relation, "confirms" doc. 2, was taken from the heading before p. 15
+was read, and is replaced by "supplements". In no. 15 the third brother,
+read "Barlyus" and "Wardzch", may be this Warsz; the readings stand as
+read, with their doubt.
 
 ## The margin note
 
@@ -63,8 +84,9 @@ a kind added to the pipeline for it: `pipeline/build/corpus_pages.py`,
 
 ## Readings
 
-Seventeen words read with doubt, all names or words of the Latin the
-photographs do not settle: in doc. 1 "suffragio", "gadibus", "Odsuć"
+Twenty-two words read with doubt, all names or words of the Latin the
+photographs do not settle: in doc. 3, on p. 15, "Casanis", the year "1447",
+"Rasko", "Dobrogosto", "Tczenaczmy"; in doc. 1 "suffragio", "gadibus", "Odsuć"
 (underlined, a Polish word), "postmo" (across a line, perhaps "postmodo"),
 the witnesses' "Czaten", "Siemenci", "Retch", "Vito"; in doc. 2 "Barlyus" and
 "Wardzch" (the third brother, written two ways), "Stenis" (in the list of
@@ -80,10 +102,11 @@ says Konin.
   the forest given in 1362. The Kodeks has the abbey's village "in Nouo
   Sagorowo, alias Drzewycz" in 1411 (`kdw`, doc. 15) and its farm in
   Drzewcza in 1418 (doc. 18). They agree.
-- **Gradziem / Gradzien** is a forest beside Łukom, Huta and Drzewce. Whether
-  it is the Grądzyń of the edition's estates list (reference/places.yml,
-  `gradzyn`; Rep. 162 Nr. 295, the bond of 1805) is not settled: not
-  matched, in NEEDS_CONFIRMATION.
+- **Gradziem / Gradzien / Graziem** is Grądzyń (the editor, 2026-10-21):
+  matched to `gradzyn` in reference/places.yml, tagged on docs 2, 3 and 6,
+  and Grądzyń in the English, the summaries and the holding's page. The
+  copyist's headings ("Privilegium Gradziem Ruchowia", "Confirmatio Gradziem
+  Regis Casimiri") stay as he wrote them.
 - **Little Wronczyn** ("parvum Wronczyno") is the edition's Wrąbczynek (the
   Kodeks: 1173 "parvum Vronchin", 1377 "Parvum Wronczino"); tagged
   `wrabczynek`. The English says Little Wronczyn, as the Kodeks English says

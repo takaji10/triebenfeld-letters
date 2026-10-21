@@ -2198,6 +2198,11 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The pages were found by the archive's pencil pagination among the editor's raw photographs and cut from the photographs' previews (`intake/holding.py`); pages 13 and 25 are cut below the end of the entry before, at the editor's word. Read in session (17 marks of doubt), translated, summarised in German and English, claim-checked (70 statements), with its page in both languages, three timeline entries (1362, 1461, 1761) and the German date and relation notes. Eras: `medieval`, and `prusimski-boundary` for the decree of 1761.
 - A note in the margin is now a kind of its own (`margin_notes.yml`, "Written in the margin" / "Am Rand geschrieben"), beside text written sideways and the receiving office's notes: `corpus_pages.py`, `build_db.py`, `build_dataset.py`, `build_site_data.py`, `translate.py`, `letter.js`, `i18n.yml`.
 
+## APP 53/1455/0/2/21: Grądzyń, and p. 15 (2026-10-21, not published)
+
+- The editor: "Gradziem is indeed Grądzyń." The copy's Gradziem, Gradzien and Graziem are matched to Grądzyń (`reference/places.yml`), docs 2, 3 and 6 are tagged with it, and the English, the summaries, the holding's page and the timeline say Grądzyń; the copyist's Latin headings stay as written.
+- The editor: "you can add page 15 to finish the king's confirmation." P. 15 (IMG_5223) is added, cut below the end of no. 16. Read whole, no. 16 is King Kazimierz's confirmation at Gniezno, in a year written over and read as 1447, of the contract by which Abbot Maciej bought the same three mansi of Łukomia and the forest of Grądzyń from the brothers Mikołaj, Jan and Warsz of Koscielec: not the confirmation of the sale of 1461, as its heading had been taken to say. Document 3 is dated 8 August 1447, summarised and claim-checked again; its link to doc. 2 is now "supplements"; a timeline entry for 1447. No photograph of p. 27 (editor).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

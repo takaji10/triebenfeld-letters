@@ -983,6 +983,54 @@
   "permalink": "/documents/kdw/21/"
  },
  {
+  "uid": "app5314550221-3",
+  "unit": "app5314550221",
+  "letter_id": "3",
+  "doc_type": "confirmation",
+  "language": "la",
+  "era": "medieval",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1447-08-08",
+  "date_precision": "day",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 4,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0014_a",
+    "image": "APP_53_1455_0_2_21_0014_a-L3_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0015_a",
+    "image": "APP_53_1455_0_2_21_0015_a-L3_02.jpg"
+   }
+  ],
+  "uncertainty_count": 5,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 2,
+  "estates": [
+   "lukom",
+   "gradzyn",
+   "lad"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "confirmation 3",
+  "path": "documents/app5314550221-3.json",
+  "text_path": "text/app5314550221-3.txt",
+  "permalink": "/documents/app5314550221/3/"
+ },
+ {
   "uid": "app5314550221-2",
   "unit": "app5314550221",
   "letter_id": "2",
@@ -1015,9 +1063,10 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "lukom",
+   "gradzyn",
    "zagorowo",
    "imielno",
    "lad"
@@ -1354,9 +1403,10 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "lukom",
+   "gradzyn",
    "zagorowo",
    "drzewce",
    "lad"
@@ -32622,48 +32672,6 @@
   "path": "documents/app539680716-10.json",
   "text_path": "text/app539680716-10.txt",
   "permalink": "/documents/app539680716/10/"
- },
- {
-  "uid": "app5314550221-3",
-  "unit": "app5314550221",
-  "letter_id": "3",
-  "doc_type": "confirmation",
-  "language": "la",
-  "era": "medieval",
-  "themes": [],
-  "repository": "app-poznan",
-  "date_iso": "",
-  "date_precision": "unknown",
-  "date_source": "none",
-  "place": "Unknown",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 1,
-  "n_lines": 3,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0014_a",
-    "image": "APP_53_1455_0_2_21_0014_a-L3_01.jpg"
-   }
-  ],
-  "uncertainty_count": 0,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 0,
-  "places_named": 0,
-  "estates": [
-   "lukom",
-   "lad"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "confirmation 3",
-  "path": "documents/app5314550221-3.json",
-  "text_path": "text/app5314550221-3.txt",
-  "permalink": "/documents/app5314550221/3/"
  },
  {
   "uid": "app5314550221-5",

@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 619 documents on 2,010 pages, dated from 1173 to 1936. The oldest are
+The edition holds 619 documents on 2,011 pages, dated from 1173 to 1936. The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -53,7 +53,7 @@ The documents come from forty-six holdings in six archives and a library:
   Trąbczyn and its colonists; and two notebooks of 1936 in which the historian Albert Breyer
   wrote down what the German settlers of Łazińsk and the places around it told him, and a
   third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
-  settlers of Łazińsk, Emilienheim and Orliny their land; and five pages of an
+  settlers of Łazińsk, Emilienheim and Orliny their land; and six pages of an
   eighteenth-century copy-book of the privileges of the abbey of Ląd, with the king's
   exchange of 1362 that gave the abbey the forest where Drzewce was founded, its purchase
   of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów
@@ -146,7 +146,7 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 900 marks of doubt in the edition. Each document's page says how many it has.
+There are 905 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 

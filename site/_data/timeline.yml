@@ -150,25 +150,43 @@
 # the court-book holdings named in refs. Years before 1794 are shown on the page only where they have
 # documents or an event (site/_includes/timeline.html).
 
+- date: 1447-08-08
+  title: "King Kazimierz confirms Ląd's purchase of land at Łukom with the forest of Grądzyń"
+  note: >-
+    At Gniezno King Kazimierz confirms the contract by which Abbot Maciej of Ląd bought three mansi in
+    Łukomia, in the district of Konin, and the forest of Grądzyń from the brothers Mikołaj, Jan and Warsz
+    of Koscielec and their stepson, because the monastery lacked forests with which it might be restored.
+    The year in the copy is written over and read as 1447.
+  kind: estate
+  source: "King Kazimierz's charter, Gniezno, the Tuesday before St Lawrence [1447], in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 14-15)"
+  title_de: "König Kasimir bestätigt den Kauf von Land in Łukom mit dem Wald Grądzyń durch Ląd"
+  note_de: >-
+    In Gnesen bestätigt König Kasimir den Vertrag, mit dem Abt Maciej von Ląd drei Hufen in Łukomia im
+    Bezirk Konin und den Wald Grądzyń von den Brüdern Mikołaj, Jan und Warsz von Koscielec und ihrem
+    Stiefsohn kaufte, weil dem Kloster Wälder fehlten, mit denen es wiederhergestellt werden könnte. Das
+    Jahr ist in der Abschrift überschrieben und wird als 1447 gelesen.
+  source_de: "Urkunde König Kasimirs, Gnesen, Dienstag vor Laurentius [1447], im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 14-15)"
+  refs:
+    - app5314550221/3
+
 - date: 1461-09-21
-  title: "Three mansi of Łukom and the forest Gradziem are sold to Ląd"
+  title: "Three mansi of Łukom and the forest Grądzyń are sold to Ląd"
   note: >-
     The Wochneth brothers and their nephews, the Bochneths, resign three mansi with gardens in Łukom,
-    in the parish of Zagórów, with the forest Gradziem, the forests Chmielniki and Lome and a field
+    in the parish of Zagórów, with the forest Grądzyń, the forests Chmielniki and Lome and a field
     above Imielno, to the abbot and convent of Ląd for 400 marks, with King Kazimierz's consent,
     before Piotr of Szamotuły, general captain of Greater Poland.
   kind: estate
   source: "Piotr of Szamotuły's charter, Pyzdry, 21 September 1461, in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 13-14)"
-  title_de: "Drei Hufen in Łukom und der Wald Gradziem werden an Ląd verkauft"
+  title_de: "Drei Hufen in Łukom und der Wald Grądzyń werden an Ląd verkauft"
   note_de: >-
     Die Brüder Wochneth und ihre Neffen, die Bochneth, lassen dem Abt und Konvent von Ląd drei Hufen
-    mit Gärten in Łukom, in der Pfarrei Zagórów, mit dem Wald Gradziem, den Wäldern Chmielniki und
+    mit Gärten in Łukom, in der Pfarrei Zagórów, mit dem Wald Grądzyń, den Wäldern Chmielniki und
     Lome und einem Feld oberhalb von Imielno für 400 Mark auf, mit Zustimmung König Kasimirs, vor
     Piotr von Szamotuły, dem Generalstarosten von Großpolen.
   source_de: "Urkunde Piotrs von Szamotuły, Pyzdry, 21. September 1461, im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 13-14)"
   refs:
     - app5314550221/2
-    - app5314550221/3
 
 - date: 1589-06-12
   title: "The heir of Trąbczyn sues his neighbour at Łukom over a flooded wood"

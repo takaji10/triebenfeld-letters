@@ -27,7 +27,7 @@ it); on p. 25 a word after "Villa Drzewce", blotted out.
 
 What the copyist wrote as a catchword at the foot of a page (the first word or
 syllable of the next page) stands on a line of its own at the end of the
-page: "nes" (p. 13), "rum" (p. 14), "pertinebat" (p. 25), "Noster" (p. 26),
+page: "nes" (p. 13), "rum" (p. 14, repeated at the head of p. 15), "pertinebat" (p. 25), "Noster" (p. 26),
 "Boronski" (p. 66).
 
 Left out, as parts of entries that begin on earlier pages (the editor,
@@ -47,12 +47,18 @@ pencil in the margins by a later hand (1399, 1461, 1365, 1362); the copyist's
 numbers. The note in the margin of p. 14 ("Et cum Sylva Lomy a limitibus") is
 transcribed and set apart (margin_notes.yml).
 
-Two entries run on to pages the editor did not choose and are given only as
-far as these pages go: no. 16 (begins at the foot of p. 14, continues on p.
-15) and no. 26 (begins at the foot of p. 26, continues on p. 27).
+No. 16 begins at the foot of p. 14 and ends two-thirds down p. 15, which
+the editor added to finish it (2026-10-21: "you can add page 15 to finish
+the king's confirmation"); p. 15 is cut below its end, above the heading of
+no. 17 ("Privilegium donationis 2dae partis Wrabczyno"), which is not in the
+edition. On p. 15 the year of the dating clause is written over: "1.4"
+and two figures inked over, read as 1447 with doubt; a later hand wrote
+1447 in pencil in the margin. No. 26 begins at the foot of p. 26 and runs
+on to p. 27, which the editor has not photographed; it is given as far as
+p. 26 goes.
 """
 
-DOCS = [(1, ['0013_a']), (2, ['0013_a', '0014_a']), (3, ['0014_a']),
+DOCS = [(1, ['0013_a']), (2, ['0013_a', '0014_a']), (3, ['0014_a', '0015_a']),
         (4, ['0025_a', '0026_a']), (5, ['0026_a']), (6, ['0066_a'])]
 
 # {(document, page id): [paragraphs]}
@@ -126,6 +132,30 @@ TEXT = {
   'Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam '
   'habituris Quomodo veniens ad Nostram Praelatorumque et Baro-',
   'rum',
+ ],
+ (3, '0015_a'): [
+  'rum nostrorum praesentiam Venerabilis ac Religiosus Mathias Abbas Monasterii Landen. devotus noster dilectus '
+  'sua nobis revelatione patefecit se Contractum fori fecisse cum Nobilibus Nicolao, Joanne et Warschio germanis '
+  'de Koscielec haeredibus et cum eorum filiastro pro tribus Mansis seu Laneis agrorum in Villa Lukomia Districtus '
+  'Coninen. jacente, ac pro Sylva Graziem dicta, nec non aliis Sylvis et borris, pratis, campis, mericis, '
+  'piscinis, Mellificiis, aquis et earum decursibus, et aliis singulis Utilitatibus et Utibus ac obventionibus '
+  'Universis ad ipsos tres Mansos seu Laneos quomodolibet ab antiquo pertinentibus, et quemadmodum praescripti '
+  'Haeredes ipsos ad haetenus possederunt, Nihil juris, proprietatisque se et Dominii pro se et eorum '
+  'Successoribus in eisdem reservantes, cum instantia debita Nostrae Supplicando Majestati humiliter et devote '
+  'quatenus in praedictum fori Contractum Nostrum benignum adhiberemus Consensum pariter et assensum Nos vero '
+  'volentes mercari Coelestia pro terrenis et ampliare in illo Monasterio Venerabili Landensi Cultum Divinum, et '
+  'praecipue attendentes defectum Sylvarum et borrarum, quibus illud Monasterium et in Casanis[?] et rupturis '
+  'vetustis instaurari posset, cum alibi careat illis videlicet Sylvis et borris. Et ut etiam pro nostro felici '
+  'Adventu, dum nos inde descendere contingat eo meliora possint haberi necessaria: benigniter acclinati precibus '
+  'dicti Abbatis in memoratum fori Contractum emptionis dictorum trium laneorum Sylvarum borrarum, et aliarum '
+  'omnium pertinentiarum, sicut superius tactum est per ipsum Abbatem et suum Conventum factae Nostram benignam '
+  'adhibuimus Voluntatem. assensimus quoque et praesentibus assentimus decernentes ipsum robur obtinere perpetuae '
+  'firmitatis In cujus rei fidem sigillum nostrum est praesentibus supappensum Actum Gnesnae feria tertia ante '
+  'festum S. Laurentii Martyris Anno Domini 1447[?] Praesentibus Reverendo Patre Domino Andrea Episcopo et '
+  'Magnificis ac Nobilibus Luca de Gorka Posnanien. Martino de Rasko[?] Calisiensi Palatinis, Dobrogosto[?] de '
+  'Szamotuly Posnanien. Praedborio de Koniecpole Sandomirien. Petro de Kurow Sandecensi Castellanis et aliis '
+  'compluribus fide dignis testibus circa praesentia Datum per manus Magnificorum Joannis de Koniecpole '
+  'Cancellarii et Petri de Tczenaczmy[?] Vice-Cancellarii sincere nobis dilectorum.',
  ],
  (4, '0025_a'): [
   'Privilegium sive Commutatio Villae parvum Wronczyno et Molendini in Suburbio Pyzdrensi siti, cum Casimiro '
