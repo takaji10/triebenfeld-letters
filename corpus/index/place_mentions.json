@@ -2,11 +2,12 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 841,
+  "count": 856,
   "documents": [
    "adwl85-1",
    "agad1169011745-1",
    "agad11740273-2",
+   "agad118501169-1",
    "app53150kaliszgr414-1",
    "app53150kaliszgr424-1",
    "app53150kaliszgr425-1",
@@ -7559,6 +7560,141 @@
     "doc_line": 3
    },
    {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0157_a2",
+    "scan": "AGAD_1_185_0_1_169_0157_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0157_a2",
+    "scan": "AGAD_1_185_0_1_169_0157_a2-L1_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 1,
+    "page_id": "0157_a2",
+    "scan": "AGAD_1_185_0_1_169_0157_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 2,
+    "page_id": "0158_a1",
+    "scan": "AGAD_1_185_0_1_169_0158_a1-L1_02.jpg",
+    "line": 10,
+    "doc_line": 5
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 2,
+    "page_id": "0158_a1",
+    "scan": "AGAD_1_185_0_1_169_0158_a1-L1_02.jpg",
+    "line": 11,
+    "doc_line": 6
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 3,
+    "page_id": "0159_a2",
+    "scan": "AGAD_1_185_0_1_169_0159_a2-L1_03.jpg",
+    "line": 17,
+    "doc_line": 8
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 6,
+    "page_id": "0162_a1",
+    "scan": "AGAD_1_185_0_1_169_0162_a1-L1_06.jpg",
+    "line": 35,
+    "doc_line": 17
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 10,
+    "page_id": "0166_a1",
+    "scan": "AGAD_1_185_0_1_169_0166_a1-L1_10.jpg",
+    "line": 67,
+    "doc_line": 33
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 10,
+    "page_id": "0166_a1",
+    "scan": "AGAD_1_185_0_1_169_0166_a1-L1_10.jpg",
+    "line": 70,
+    "doc_line": 36
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 11,
+    "page_id": "0167_a2",
+    "scan": "AGAD_1_185_0_1_169_0167_a2-L1_11.jpg",
+    "line": 77,
+    "doc_line": 39
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 13,
+    "page_id": "0169_a2",
+    "scan": "AGAD_1_185_0_1_169_0169_a2-L1_13.jpg",
+    "line": 93,
+    "doc_line": 47
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 22,
+    "page_id": "0178_a1",
+    "scan": "AGAD_1_185_0_1_169_0178_a1-L1_22.jpg",
+    "line": 169,
+    "doc_line": 84
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 33,
+    "page_id": "0189_a2",
+    "scan": "AGAD_1_185_0_1_169_0189_a2-L1_33.jpg",
+    "line": 237,
+    "doc_line": 118
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 37,
+    "page_id": "0193_a2",
+    "scan": "AGAD_1_185_0_1_169_0193_a2-L1_37.jpg",
+    "line": 262,
+    "doc_line": 131
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Trąbczyn",
+    "page": 38,
+    "page_id": "0194_a1",
+    "scan": "AGAD_1_185_0_1_169_0194_a1-L1_38.jpg",
+    "line": 271,
+    "doc_line": 135
+   },
+   {
     "uid": "app539680783-1",
     "surface": "Trąbczyna",
     "page": 1,
@@ -7824,8 +7960,9 @@
  {
   "entity": "berlin",
   "display": "Berlin",
-  "count": 351,
+  "count": 353,
   "documents": [
+   "agad118501169-1",
    "app539680669-2",
    "ihagrrep7cnr1414-1",
    "ihagrrep7cnr1414-3",
@@ -11189,6 +11326,24 @@
     "scan": "III_HA_MdA_III_Nr_12765_0044_a2-L30_01.jpg",
     "line": 1057,
     "doc_line": 28
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Berlin",
+    "page": 13,
+    "page_id": "0169_a2",
+    "scan": "AGAD_1_185_0_1_169_0169_a2-L1_13.jpg",
+    "line": 92,
+    "doc_line": 46
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Berlin",
+    "page": 14,
+    "page_id": "0170_a1",
+    "scan": "AGAD_1_185_0_1_169_0170_a1-L1_14.jpg",
+    "line": 102,
+    "doc_line": 51
    },
    {
     "uid": "app539680669-2",
@@ -20184,9 +20339,10 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 178,
+  "count": 192,
   "documents": [
    "adwl85-1",
+   "agad118501169-1",
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app5371057-1",
@@ -21865,6 +22021,132 @@
     "scan": "III_HA_MdA_III_Nr_12366_0018_a2-L6_03.jpg",
     "line": 161,
     "doc_line": 14
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 3,
+    "page_id": "0159_a2",
+    "scan": "AGAD_1_185_0_1_169_0159_a2-L1_03.jpg",
+    "line": 18,
+    "doc_line": 9
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 3,
+    "page_id": "0159_a2",
+    "scan": "AGAD_1_185_0_1_169_0159_a2-L1_03.jpg",
+    "line": 18,
+    "doc_line": 9
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 3,
+    "page_id": "0159_a2",
+    "scan": "AGAD_1_185_0_1_169_0159_a2-L1_03.jpg",
+    "line": 19,
+    "doc_line": 10
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 7,
+    "page_id": "0163_a2",
+    "scan": "AGAD_1_185_0_1_169_0163_a2-L1_07.jpg",
+    "line": 41,
+    "doc_line": 21
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 8,
+    "page_id": "0164_a1",
+    "scan": "AGAD_1_185_0_1_169_0164_a1-L1_08.jpg",
+    "line": 48,
+    "doc_line": 24
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 12,
+    "page_id": "0168_a1",
+    "scan": "AGAD_1_185_0_1_169_0168_a1-L1_12.jpg",
+    "line": 85,
+    "doc_line": 44
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 13,
+    "page_id": "0169_a2",
+    "scan": "AGAD_1_185_0_1_169_0169_a2-L1_13.jpg",
+    "line": 92,
+    "doc_line": 46
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 14,
+    "page_id": "0170_a1",
+    "scan": "AGAD_1_185_0_1_169_0170_a1-L1_14.jpg",
+    "line": 102,
+    "doc_line": 51
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 14,
+    "page_id": "0170_a1",
+    "scan": "AGAD_1_185_0_1_169_0170_a1-L1_14.jpg",
+    "line": 104,
+    "doc_line": 53
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 15,
+    "page_id": "0171_a2",
+    "scan": "AGAD_1_185_0_1_169_0171_a2-L1_15.jpg",
+    "line": 110,
+    "doc_line": 55
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 16,
+    "page_id": "0172_a1",
+    "scan": "AGAD_1_185_0_1_169_0172_a1-L1_16.jpg",
+    "line": 122,
+    "doc_line": 62
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 27,
+    "page_id": "0183_a2",
+    "scan": "AGAD_1_185_0_1_169_0183_a2-L1_27.jpg",
+    "line": 194,
+    "doc_line": 97
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 37,
+    "page_id": "0193_a2",
+    "scan": "AGAD_1_185_0_1_169_0193_a2-L1_37.jpg",
+    "line": 262,
+    "doc_line": 131
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Kalisz",
+    "page": 39,
+    "page_id": "0195_a2",
+    "scan": "AGAD_1_185_0_1_169_0195_a2-L1_39.jpg",
+    "line": 277,
+    "doc_line": 139
    },
    {
     "uid": "app539680783-1",
@@ -27497,8 +27779,9 @@
  {
   "entity": "posen",
   "display": "Poznań (Posen)",
-  "count": 128,
+  "count": 129,
   "documents": [
+   "agad118501169-1",
    "app539680669-2",
    "ihagrrep7cnr3709-1",
    "ihagrrep7cnr3709-10",
@@ -28715,6 +28998,15 @@
     "doc_line": 14
    },
    {
+    "uid": "agad118501169-1",
+    "surface": "Posen",
+    "page": 2,
+    "page_id": "0158_a1",
+    "scan": "AGAD_1_185_0_1_169_0158_a1-L1_02.jpg",
+    "line": 11,
+    "doc_line": 6
+   },
+   {
     "uid": "app539680669-2",
     "surface": "Posen",
     "page": 13,
@@ -28728,9 +29020,10 @@
  {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
-  "count": 105,
+  "count": 108,
   "documents": [
    "agad1174016-1",
+   "agad118501169-1",
    "app53150kaliszgr425-1",
    "app53170koningr145-1",
    "ihagrrep7cnr3570-1",
@@ -29747,6 +30040,33 @@
     "scan": "III_HA_MdA_III_Nr_12367_0014_a-L11_01.jpg",
     "line": 146,
     "doc_line": 1
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Varsovie",
+    "page": 10,
+    "page_id": "0166_a1",
+    "scan": "AGAD_1_185_0_1_169_0166_a1-L1_10.jpg",
+    "line": 67,
+    "doc_line": 33
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Varsovie",
+    "page": 11,
+    "page_id": "0167_a2",
+    "scan": "AGAD_1_185_0_1_169_0167_a2-L1_11.jpg",
+    "line": 77,
+    "doc_line": 39
+   },
+   {
+    "uid": "agad118501169-1",
+    "surface": "Varsovie",
+    "page": 42,
+    "page_id": "0198_a1",
+    "scan": "AGAD_1_185_0_1_169_0198_a1-L1_42.jpg",
+    "line": 298,
+    "doc_line": 150
    }
   ]
  },

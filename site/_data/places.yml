@@ -317,12 +317,12 @@
   letters: [{id: "2", uid: "ihagrrep7cnr1414-2", url: "/documents/ihagrrep7cnr1414/2/"}]
 - name: "Warszawa (Warschau)"
   slug: "warszawa-warschau"
-  count: 14
+  count: 15
   lat: 52.23337
   lon: 21.07115
-  docs: 14
-  span: "1807–1832"
-  letters: [{id: "1", uid: "agad1174016-1", url: "/documents/agad1174016/1/"}, {id: "72d", uid: "oe1bu9454-72d", url: "/documents/oe1bu9454/72d/"}, {id: "72e", uid: "oe1bu9454-72e", url: "/documents/oe1bu9454/72e/"}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/"}, {id: "28", uid: "iiihamdaiiinr12765-28", url: "/documents/iiihamdaiiinr12765/28/"}, {id: "4", uid: "iiihamdaiiinr12366-4", url: "/documents/iiihamdaiiinr12366/4/"}, {id: "1", uid: "iiihamdaiiinr12367-1", url: "/documents/iiihamdaiiinr12367/1/"}, {id: "4", uid: "iiihamdaiiinr12367-4", url: "/documents/iiihamdaiiinr12367/4/"}, {id: "6", uid: "iiihamdaiiinr12367-6", url: "/documents/iiihamdaiiinr12367/6/"}, {id: "5", uid: "iiihamdaiiinr12367-5", url: "/documents/iiihamdaiiinr12367/5/"}, {id: "8", uid: "iiihamdaiiinr12367-8", url: "/documents/iiihamdaiiinr12367/8/"}, {id: "9", uid: "iiihamdaiiinr12367-9", url: "/documents/iiihamdaiiinr12367/9/"}, {id: "10", uid: "iiihamdaiiinr12367-10", url: "/documents/iiihamdaiiinr12367/10/"}, {id: "11", uid: "iiihamdaiiinr12367-11", url: "/documents/iiihamdaiiinr12367/11/"}]
+  docs: 15
+  span: "1807–1834"
+  letters: [{id: "1", uid: "agad1174016-1", url: "/documents/agad1174016/1/"}, {id: "72d", uid: "oe1bu9454-72d", url: "/documents/oe1bu9454/72d/"}, {id: "72e", uid: "oe1bu9454-72e", url: "/documents/oe1bu9454/72e/"}, {id: "2", uid: "iiihamdaiiinr12366-2", url: "/documents/iiihamdaiiinr12366/2/"}, {id: "28", uid: "iiihamdaiiinr12765-28", url: "/documents/iiihamdaiiinr12765/28/"}, {id: "4", uid: "iiihamdaiiinr12366-4", url: "/documents/iiihamdaiiinr12366/4/"}, {id: "1", uid: "iiihamdaiiinr12367-1", url: "/documents/iiihamdaiiinr12367/1/"}, {id: "4", uid: "iiihamdaiiinr12367-4", url: "/documents/iiihamdaiiinr12367/4/"}, {id: "6", uid: "iiihamdaiiinr12367-6", url: "/documents/iiihamdaiiinr12367/6/"}, {id: "5", uid: "iiihamdaiiinr12367-5", url: "/documents/iiihamdaiiinr12367/5/"}, {id: "8", uid: "iiihamdaiiinr12367-8", url: "/documents/iiihamdaiiinr12367/8/"}, {id: "9", uid: "iiihamdaiiinr12367-9", url: "/documents/iiihamdaiiinr12367/9/"}, {id: "10", uid: "iiihamdaiiinr12367-10", url: "/documents/iiihamdaiiinr12367/10/"}, {id: "11", uid: "iiihamdaiiinr12367-11", url: "/documents/iiihamdaiiinr12367/11/"}, {id: "1", uid: "agad118501169-1", url: "/documents/agad118501169/1/"}]
 - name: "Wien"
   slug: "wien"
   count: 70

@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 272
+  docs: 273
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -511,7 +511,7 @@
   initial_en: "D"
   sort_de: "donation"
   initial_de: "D"
-  docs: 22
+  docs: 23
 - id: "taxe"
   kind: "land"
   lang: "de_la"
@@ -549,7 +549,7 @@
   initial_en: "C"
   sort_de: "competenz"
   initial_de: "C"
-  docs: 30
+  docs: 31
 - id: "pertinenz"
   kind: "land"
   lang: "de_la"
@@ -644,7 +644,7 @@
   initial_en: "T"
   sort_de: "titulus possessionis"
   initial_de: "T"
-  docs: 42
+  docs: 43
 - id: "rubrik"
   kind: "land"
   lang: "de"
@@ -777,7 +777,7 @@
   initial_en: "E"
   sort_de: "execution"
   initial_de: "E"
-  docs: 74
+  docs: 75
 - id: "intressen"
   kind: "law"
   lang: "de"
@@ -872,7 +872,7 @@
   initial_en: "M"
   sort_de: "hypothekenbuch"
   initial_de: "H"
-  docs: 80
+  docs: 81
 - id: "intabulation"
   kind: "law"
   lang: "de_la"
@@ -1119,7 +1119,7 @@
   initial_en: "S"
   sort_de: "starost"
   initial_de: "S"
-  docs: 93
+  docs: 94
 - id: "grod"
   kind: "law"
   lang: "pl"
@@ -1480,7 +1480,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 100
+  docs: 101
 - id: "decret"
   kind: "law"
   lang: "de_la"
@@ -1518,7 +1518,7 @@
   initial_en: "D"
   sort_de: "departement"
   initial_de: "D"
-  docs: 54
+  docs: 55
 - id: "gouvernement"
   kind: "law"
   lang: "de_fr"
@@ -1537,7 +1537,7 @@
   initial_en: "G"
   sort_de: "gouvernement"
   initial_de: "G"
-  docs: 33
+  docs: 34
 - id: "tribunal"
   kind: "law"
   lang: "de_fr"
@@ -1556,7 +1556,7 @@
   initial_en: "T"
   sort_de: "tribunal"
   initial_de: "T"
-  docs: 62
+  docs: 63
 - id: "cabinetsordre"
   kind: "law"
   lang: "de_fr"
@@ -1613,7 +1613,7 @@
   initial_en: "C"
   sort_de: "cession"
   initial_de: "C"
-  docs: 16
+  docs: 17
 - id: "oberlandesgericht"
   kind: "law"
   lang: "de"
@@ -1860,7 +1860,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 352
+  docs: 353
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -2145,7 +2145,7 @@
   initial_en: "D"
   sort_de: "herzogtum warschau"
   initial_de: "H"
-  docs: 14
+  docs: 15
 - id: "tilsit"
   kind: "event"
   lang: "de"
