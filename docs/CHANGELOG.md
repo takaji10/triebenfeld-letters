@@ -2161,6 +2161,17 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Two places added at the editor's word (`reference/places.yml`, with their map positions in `reference/places_osm.yml`, looked up on OpenStreetMap and read against the sources). **Rzgów** ("Rzgowo" 1261, "Irgouo" 1280, both the Rzgów east of Zagórów by the Kodeks editors' note) is found in seven documents and tagged an estate in focus on four that concern it: KDW 4 and 6 (granted with Szetlew and Świątniki) and Konin Gr.117, docs 11 and 12 (the pines cut by its subjects in 1779 and its owner Marcin Nosalski's protest). **Grodziec** is found in Breyer's notebooks of 1936 and his notes of 1935; no document is about it, so it is not an estate in focus.
 - In the literature, all 122 hits read and ruled (Chodyła, Breyer, Szwiec, the Encyclopedia of Camps and Ghettos): every one is the Grodziec near Rychwał or the Rzgów near Konin.
 
+## The glossary: komornik, the officer and the lodger (2026-10-21, not published)
+
+- At the editor's word, from Gloger's Komornik (the entry already rested on it for the officer). Every use in the documents read: two senses. **The court officer** (komornik graniczny and ziemski, Latin camerarius; Konin Gr.117, Gr.118, Gr.145, Gr.153, Kalisz Gr.425, Oe 1 Bü 9454 letters 17, 18, 232, 233): the entry `komornik`, now also matching the lower-case Polish, the Latin and the translations' "Boundary Surveyor" and "Land (Court) Chamberlain", 134 marks in 14 documents. **The landless lodger** (Gloger: "chłopi bezrolni ... za otrzymywaną komorę, ogród"): a new entry `komornik-lodger`, marked only in its six documents (ADWł 85, Konin Gr.136, Oe 1 Bü 14525 doc. 23, 14526 doc. 9, 9454 letters 146, 191), 23 marks. Before, the officer's definition was shown in four of those.
+- `glossary_build.py` takes `only_in`, the documents an entry is marked in (beside `not_in`). 114 entries, 58 checked.
+
+## The literature: Frost (2007), the nobility of Poland–Lithuania (2026-10-21, not published)
+
+- Robert I. Frost, "The Nobility of Poland–Lithuania, 1569–1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed. (Palgrave Macmillan, 2007), pp. 266-310, from the editor's PDF at their word "only the article by Frost": the volume's Guides to Further Reading (pp. 410-415, with the Poland–Lithuania section) and the Russian chapter's opening page (p. 311) left out, the guide offered later, the visibility asked (NEEDS_CONFIRMATION).
+- The book is under copyright (its imprint: "No reproduction, copy or transmission of this publication may be made without written permission"; "All remaining chapters © their respective authors 1995, 2007"), so `visible: false` after the Seidel precedent: the text stays in the repository for questions, the site build skips it, no index hits.
+- Read spread by spread from the page images at 200 dpi (the scan has no text layer; not OCR), doubtful spots settled at 300 dpi crops; the print's own slips kept as printed and listed in the work's notes. The chapter's notes are endnotes, kept on their printed pages so a note can be cited to its page (no `notes:` in work.yml). The literature has 20 works, 18 on the site.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

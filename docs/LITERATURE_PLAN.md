@@ -471,3 +471,23 @@ credits), captions given. The PDF is not kept (its feet carry the
 download's internet address). "Betchatów" is Bełchatów (editor). No links
 yet; how much bears on the edition is the editor's to say. Published
 2026-10-21 at the editor's word.
+
+## 16. Frost (2007), the nobility of Poland–Lithuania (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `frost2007` | Robert I. Frost, "The Nobility of Poland–Lithuania, 1569–1795", ch. 9 of H. M. Scott (ed.), *The European Nobilities in the Seventeenth and Eighteenth Centuries*, vol. II: Northern, Central and Eastern Europe, 2nd ed., Palgrave Macmillan 2007, pp. 266-310 | English | `[p. N]` | no (`visible: false`, to be asked) |
+
+The editor's PDF (a scan with no text layer) holds, beside the Frost
+chapter, the volume's Guides to Further Reading (pp. 410-415, with the
+Poland-Lithuania section pp. 411-415) and the opening page of the
+Russian-nobility chapter (p. 311). Only Frost's article was transcribed, at
+the editor's word ("only the article by Frost"); what was left out is
+described in `literature/frost2007/notes.md`, and the Poland-Lithuania
+section of the Guides could be added later if wanted. The book is under
+copyright (its imprint forbids reproduction without written permission; the
+chapters (c) their authors 1995, 2007), so `visible: false` after section 4;
+the choice is put to the editor. Read spread by spread from page images at
+200 dpi, doubtful spots at 300 dpi; not OCR. The chapter's notes are
+endnotes, kept on their printed pages so a note can be cited (no `notes:`
+in work.yml).

@@ -8790,6 +8790,429 @@
   ]
  },
  {
+  "slug": "frost2007",
+  "visible": false,
+  "kind": "article",
+  "title": "The Nobility of Poland–Lithuania, 1569–1795",
+  "title_en": "",
+  "cite": "Frost (2007)",
+  "author": "Robert I. Frost",
+  "author_sort": "Frost, Robert I.",
+  "published": "In H. M. Scott (ed.), The European Nobilities in the Seventeenth and Eighteenth Centuries, Volume II: Northern, Central and Eastern Europe, 2nd edition, London: Palgrave Macmillan, 2007, pp. 266-310",
+  "year": 2007,
+  "language": "en",
+  "english_by": "",
+  "account_en": "An article by Robert I. Frost, the British historian of Poland (University of Aberdeen), on the nobility of the Polish-Lithuanian Commonwealth from the Union of Lublin (1569) to the third partition (1795): how the szlachta won and kept its privileges and its grip on the state (the Sejm, the free election, the liberum veto, the tribunals); how large it was, perhaps 6-7.5 per cent of the population and most of it poor, and how easily commoners slipped into it; the economy of the great latifundia, built on royal leases and serf labour; the hierarchy of offices that ranked the estate; the rise, fall and endless competition of the magnate families, which it argues (against the older \"magnate oligarchy\") never made a stable élite; and the redefinition of nobility by property in the reforms of Stanisław August, which ended in the Constitution of 3 May 1791 and the collapse of the Commonwealth. Background to the noble society that owned and ruled the edition's estates: it names neither Trąbczyn nor the Olęders, but draws its evidence heavily from Great Poland, among other things from the study of the Kalisz district land market (Pośpiech) showing the middle nobility buying out portions and holding its own between 1580 and 1655, and from the 775 new settlements raised in Great Poland between 1721 and 1793.",
+  "account_de": "Ein Artikel von Robert I. Frost, dem britischen Historiker Polens (University of Aberdeen), über den Adel der Adelsrepublik Polen-Litauen von der Union von Lublin (1569) bis zur dritten Teilung (1795): wie die szlachta ihre Privilegien gewann und behielt und den Staat fest im Griff hatte (Sejm, freie Wahl, liberum veto, Tribunale); wie groß sie war, wohl 6-7,5 Prozent der Bevölkerung und meistens arm, und wie leicht Unfreie in sie hineinschlüpften; die Wirtschaft der großen Latifundien aus königlichem Pachtland und Frondienst; die Hierarchie der Ämter, die den Stand ordnete; Aufstieg, Fall und endloser Wettstreit der Magnatenfamilien, aus denen (gegen die ältere These der „Magnatenoligarchie“) nie eine beständige Spitze wurde; und die Neubestimmung des Adels durch Eigentum in den Reformen Stanisław Augusts, die in der Verfassung vom 3. Mai 1791 und im Zusammenbruch der Republik endeten. Hintergrund der Adelsgesellschaft, die die Güter der Edition besaß und regierte: Sie nennt weder Trąbczyn noch die Olęder, stützt sich aber schwer auf Großpolen, unter anderem auf die Untersuchung des Landmarkts im Kreis Kalisch (Pośpiech), die zeigt, wie der mittlere Adel zwischen 1580 und 1655 Anteile aufkaufte und sich hielt, und auf die 775 neuen Siedlungen, die zwischen 1721 und 1793 in Großpolen entstanden.",
+  "passages": [
+   {
+    "key": "266",
+    "part": null,
+    "page": "266",
+    "en": {
+     "line": 1,
+     "chars": 1712
+    }
+   },
+   {
+    "key": "267",
+    "part": null,
+    "page": "267",
+    "en": {
+     "line": 19,
+     "chars": 3224
+    }
+   },
+   {
+    "key": "268",
+    "part": null,
+    "page": "268",
+    "en": {
+     "line": 27,
+     "chars": 2755
+    }
+   },
+   {
+    "key": "269",
+    "part": null,
+    "page": "269",
+    "en": {
+     "line": 43,
+     "chars": 2999
+    }
+   },
+   {
+    "key": "270",
+    "part": null,
+    "page": "270",
+    "en": {
+     "line": 53,
+     "chars": 3050
+    }
+   },
+   {
+    "key": "271",
+    "part": null,
+    "page": "271",
+    "en": {
+     "line": 61,
+     "chars": 3098
+    }
+   },
+   {
+    "key": "272",
+    "part": null,
+    "page": "272",
+    "en": {
+     "line": 71,
+     "chars": 3222
+    }
+   },
+   {
+    "key": "273",
+    "part": null,
+    "page": "273",
+    "en": {
+     "line": 81,
+     "chars": 3250
+    }
+   },
+   {
+    "key": "274",
+    "part": null,
+    "page": "274",
+    "en": {
+     "line": 89,
+     "chars": 3178
+    }
+   },
+   {
+    "key": "275",
+    "part": null,
+    "page": "275",
+    "en": {
+     "line": 97,
+     "chars": 3042
+    }
+   },
+   {
+    "key": "276",
+    "part": null,
+    "page": "276",
+    "en": {
+     "line": 107,
+     "chars": 3238
+    }
+   },
+   {
+    "key": "277",
+    "part": null,
+    "page": "277",
+    "en": {
+     "line": 115,
+     "chars": 2776
+    }
+   },
+   {
+    "key": "278",
+    "part": null,
+    "page": "278",
+    "en": {
+     "line": 133,
+     "chars": 3303
+    }
+   },
+   {
+    "key": "279",
+    "part": null,
+    "page": "279",
+    "en": {
+     "line": 139,
+     "chars": 3072
+    }
+   },
+   {
+    "key": "280",
+    "part": null,
+    "page": "280",
+    "en": {
+     "line": 149,
+     "chars": 2927
+    }
+   },
+   {
+    "key": "281",
+    "part": null,
+    "page": "281",
+    "en": {
+     "line": 161,
+     "chars": 2830
+    }
+   },
+   {
+    "key": "282",
+    "part": null,
+    "page": "282",
+    "en": {
+     "line": 175,
+     "chars": 3194
+    }
+   },
+   {
+    "key": "283",
+    "part": null,
+    "page": "283",
+    "en": {
+     "line": 183,
+     "chars": 3156
+    }
+   },
+   {
+    "key": "284",
+    "part": null,
+    "page": "284",
+    "en": {
+     "line": 193,
+     "chars": 3267
+    }
+   },
+   {
+    "key": "285",
+    "part": null,
+    "page": "285",
+    "en": {
+     "line": 201,
+     "chars": 3056
+    }
+   },
+   {
+    "key": "286",
+    "part": null,
+    "page": "286",
+    "en": {
+     "line": 211,
+     "chars": 3133
+    }
+   },
+   {
+    "key": "287",
+    "part": null,
+    "page": "287",
+    "en": {
+     "line": 221,
+     "chars": 3014
+    }
+   },
+   {
+    "key": "288",
+    "part": null,
+    "page": "288",
+    "en": {
+     "line": 233,
+     "chars": 3517
+    }
+   },
+   {
+    "key": "289",
+    "part": null,
+    "page": "289",
+    "en": {
+     "line": 243,
+     "chars": 3056
+    }
+   },
+   {
+    "key": "290",
+    "part": null,
+    "page": "290",
+    "en": {
+     "line": 251,
+     "chars": 3254
+    }
+   },
+   {
+    "key": "291",
+    "part": null,
+    "page": "291",
+    "en": {
+     "line": 261,
+     "chars": 3238
+    }
+   },
+   {
+    "key": "292",
+    "part": null,
+    "page": "292",
+    "en": {
+     "line": 269,
+     "chars": 3231
+    }
+   },
+   {
+    "key": "293",
+    "part": null,
+    "page": "293",
+    "en": {
+     "line": 277,
+     "chars": 3277
+    }
+   },
+   {
+    "key": "294",
+    "part": null,
+    "page": "294",
+    "en": {
+     "line": 283,
+     "chars": 3221
+    }
+   },
+   {
+    "key": "295",
+    "part": null,
+    "page": "295",
+    "en": {
+     "line": 291,
+     "chars": 3368
+    }
+   },
+   {
+    "key": "296",
+    "part": null,
+    "page": "296",
+    "en": {
+     "line": 299,
+     "chars": 3236
+    }
+   },
+   {
+    "key": "297",
+    "part": null,
+    "page": "297",
+    "en": {
+     "line": 305,
+     "chars": 3236
+    }
+   },
+   {
+    "key": "298",
+    "part": null,
+    "page": "298",
+    "en": {
+     "line": 313,
+     "chars": 2961
+    }
+   },
+   {
+    "key": "299",
+    "part": null,
+    "page": "299",
+    "en": {
+     "line": 323,
+     "chars": 3138
+    }
+   },
+   {
+    "key": "300",
+    "part": null,
+    "page": "300",
+    "en": {
+     "line": 333,
+     "chars": 3285
+    }
+   },
+   {
+    "key": "301",
+    "part": null,
+    "page": "301",
+    "en": {
+     "line": 341,
+     "chars": 2999
+    }
+   },
+   {
+    "key": "302",
+    "part": null,
+    "page": "302",
+    "en": {
+     "line": 355,
+     "chars": 2992
+    }
+   },
+   {
+    "key": "303",
+    "part": null,
+    "page": "303",
+    "en": {
+     "line": 367,
+     "chars": 3105
+    }
+   },
+   {
+    "key": "304",
+    "part": null,
+    "page": "304",
+    "en": {
+     "line": 383,
+     "chars": 3516
+    }
+   },
+   {
+    "key": "305",
+    "part": null,
+    "page": "305",
+    "en": {
+     "line": 413,
+     "chars": 3527
+    }
+   },
+   {
+    "key": "306",
+    "part": null,
+    "page": "306",
+    "en": {
+     "line": 457,
+     "chars": 3543
+    }
+   },
+   {
+    "key": "307",
+    "part": null,
+    "page": "307",
+    "en": {
+     "line": 485,
+     "chars": 3445
+    }
+   },
+   {
+    "key": "308",
+    "part": null,
+    "page": "308",
+    "en": {
+     "line": 515,
+     "chars": 3465
+    }
+   },
+   {
+    "key": "309",
+    "part": null,
+    "page": "309",
+    "en": {
+     "line": 543,
+     "chars": 3416
+    }
+   },
+   {
+    "key": "310",
+    "part": null,
+    "page": "310",
+    "en": {
+     "line": 581,
+     "chars": 3166
+    }
+   }
+  ]
+ },
+ {
   "slug": "guradze1898",
   "visible": true,
   "kind": "study",

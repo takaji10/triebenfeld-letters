@@ -119,6 +119,20 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **Frost (2007)** (`frost2007`, added 2026-10-21, **not published**): the
+  nobility of Poland–Lithuania 1569–1795, the survey chapter from H. M.
+  Scott (ed.), *The European Nobilities*, vol. II (2nd ed., Palgrave 2007),
+  pp. 266-310, read from the editor's PDF spread by spread from page images
+  (the scan has no text layer; not OCR), doubtful spots settled at 300 dpi.
+  The chapter's notes are endnotes, kept on their printed pages so a note
+  can be cited to its page. Under copyright: `visible: false` after the
+  Seidel precedent, so the site build skips it; the editor's choices are
+  asked (NEEDS_CONFIRMATION): a page on the site, and whether to add the
+  volume's Poland–Lithuania section of the Guides to further reading
+  (pp. 411-415, in the PDF, not yet transcribed), which was left out with
+  the Russian chapter at their word. The work's `notes.md` first. The
+  literature has 20 works, 18 on the site.
+
 - **Encyclopedia of Camps and Ghettos (2012)** (`dean2012warthegau`, added
   2026-10-21, **published 2026-10-21**): the USHMM encyclopedia's Warthegau
   chapter, only the pages the editor named (the introduction; Chocz,
@@ -351,6 +365,10 @@ so check them.
   **Gród** (the municipal court) and **stawisko** (the noun, not the name
   Stawisko) added 2026-10-21 from Arct's dictionary on Wikisource, which
   the editor named (113 entries, 128 words ruled out); **published 2026-10-21**. The editor means to add more definitions from it.
+  **Komornik** split in two at the editor's word (Gloger, 2026-10-21, **not
+  published**): the court officer (Latin camerarius) and the lodger
+  (`komornik-lodger`, marked only in its six documents by `only_in`); 114
+  entries, 58 checked.
 - Names standardised in the English (the names audit and the editor's
   rulings of 2026-10-03, live): only Schliefen / Schlieffen is open.
 - The Hohenlohe-Ingelfingen years page is rebuilt from all nine holdings;

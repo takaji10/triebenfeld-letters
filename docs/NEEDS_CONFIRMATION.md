@@ -364,6 +364,23 @@ read, translate and summarise.
     with the credit, and no adaptation: so no German translation, and the
     pictures (lenders' credits) are left out. For the editor to know before
     the site is shared widely.
+  **Frost (2007)**, the nobility of Poland-Lithuania 1569-1795 (added
+  2026-10-21, not on the site; `literature/frost2007/notes.md`).
+  - **Visibility.** The book's imprint forbids reproduction without written
+    permission ("No reproduction, copy or transmission of this publication
+    may be made without written permission"; "All remaining chapters ©
+    their respective authors 1995, 2007"), so it went in with
+    `visible: false` after the Seidel precedent (LITERATURE_PLAN.md,
+    section 4): the text stays in the repository for questions, the site
+    build skips it. For the editor: give it a page on the site, or keep it
+    repository-only (Seidel's editor chose repository-only)?
+  - **The Guides to Further Reading.** The PDF also holds the volume's
+    Guides (pp. 410-415); its Poland-Lithuania section (pp. 411-415) is a
+    guide to further reading on the chapter's whole subject. For the
+    editor: add it too, or leave it out with the Russian chapter ("only
+    the article by Frost")?
+  - No doubtful reading is left in the text; the print's own slips are kept
+    as printed and listed in the work's notes.
   **The places Grodziec and Rzgów** (added 2026-10-21 at the editor's word,
   `reference/places.yml`). Rzgów is tagged an estate in focus on the
   documents that concern it: the Kodeks entries of 1261 and 1280 (KDW 4
@@ -649,12 +666,13 @@ Fixes to the English that survive a re-publish go in
 
 ## Glossary
 
-113 entries (`reference/glossary.yml`), on the site since 2026-10-02.
+114 entries (`reference/glossary.yml`), on the site since 2026-10-02.
 Plan and rules: `docs/GLOSSARY_PLAN.md`.
 
 - **56 definitions are still drafts** (`checked: false`; the page marks
-  them). Matura (2026-10-14) waits on the Encyklopedia PWN. 57 are
-  checked: gród, the municipal court, and stawisko, the boggy ground on
+  them). Matura (2026-10-14) waits on the Encyklopedia PWN. 58 are
+  checked: komornik the lodger (2026-10-21, from Gloger, at the editor's
+  word; not yet published), gród, the municipal court, and stawisko, the boggy ground on
   the Trąbczyn-Łukom boundary (2026-10-21, from Arct's dictionary, which
   the editor named, with the archive's description of the Konin court
   books and the edition's documents; published 2026-10-21), the patrimonial court, and 54 read on 2026-10-02

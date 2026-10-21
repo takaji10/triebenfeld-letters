@@ -1,0 +1,72 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md was read
+# in session from the editor's PDF (a scan with no text layer), spread by
+# spread from the page images, doubtful spots re-read at 300 dpi (2026-10-21).
+# The article is printed in English, so there is no english.md.
+#
+# NOT ON THE SITE (for now). The book is under copyright: its imprint
+# forbids reproduction, copying and transmission without written permission,
+# and the chapters remain (c) their authors 1995, 2007. Default here is
+# visible: false after the Seidel precedent (LITERATURE_PLAN.md, section 4);
+# whether to give the work a page is the editor's choice, to be asked. With
+# visible: false the site build skips it entirely. Do not change this
+# without the editor's word.
+#
+# The PDF also holds the volume's Guides to Further Reading (pp. 410-415,
+# with the Poland-Lithuania section pp. 411-415) and the opening page of the
+# Russian-nobility chapter (p. 311, with the first lines of its own guide on
+# p. 415); all left out at the editor's word ("only the article by Frost").
+# See notes.md.
+slug: frost2007
+visible: false
+kind: article
+title: "The Nobility of Poland–Lithuania, 1569–1795"
+title_en: ""
+cite: "Frost (2007)"
+author: "Robert I. Frost"
+author_sort: "Frost, Robert I."
+published: "In H. M. Scott (ed.), The European Nobilities in the Seventeenth and Eighteenth Centuries, Volume II: Northern, Central and Eastern Europe, 2nd edition, London: Palgrave Macmillan, 2007, pp. 266-310"
+year: 2007
+language: en
+english_by: ""
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  An article by Robert I. Frost, the British historian of Poland (University
+  of Aberdeen), on the nobility of the Polish-Lithuanian Commonwealth from
+  the Union of Lublin (1569) to the third partition (1795): how the szlachta
+  won and kept its privileges and its grip on the state (the Sejm, the free
+  election, the liberum veto, the tribunals); how large it was, perhaps
+  6-7.5 per cent of the population and most of it poor, and how easily
+  commoners slipped into it; the economy of the great latifundia, built on
+  royal leases and serf labour; the hierarchy of offices that ranked the
+  estate; the rise, fall and endless competition of the magnate families,
+  which it argues (against the older "magnate oligarchy") never made a
+  stable élite; and the redefinition of nobility by property in the reforms
+  of Stanisław August, which ended in the Constitution of 3 May 1791 and the
+  collapse of the Commonwealth. Background to the noble society that owned
+  and ruled the edition's estates: it names neither Trąbczyn nor the
+  Olęders, but draws its evidence heavily from Great Poland, among other
+  things from the study of the Kalisz district land market (Pośpiech)
+  showing the middle nobility buying out portions and holding its own
+  between 1580 and 1655, and from the 775 new settlements raised in Great
+  Poland between 1721 and 1793.
+account_de: >-
+  Ein Artikel von Robert I. Frost, dem britischen Historiker Polens
+  (University of Aberdeen), über den Adel der Adelsrepublik Polen-Litauen
+  von der Union von Lublin (1569) bis zur dritten Teilung (1795): wie die
+  szlachta ihre Privilegien gewann und behielt und den Staat fest im Griff
+  hatte (Sejm, freie Wahl, liberum veto, Tribunale); wie groß sie war, wohl
+  6-7,5 Prozent der Bevölkerung und meistens arm, und wie leicht Unfreie in
+  sie hineinschlüpften; die Wirtschaft der großen Latifundien aus
+  königlichem Pachtland und Frondienst; die Hierarchie der Ämter, die den
+  Stand ordnete; Aufstieg, Fall und endloser Wettstreit der
+  Magnatenfamilien, aus denen (gegen die ältere These der
+  „Magnatenoligarchie“) nie eine beständige Spitze wurde; und die
+  Neubestimmung des Adels durch Eigentum in den Reformen Stanisław Augusts,
+  die in der Verfassung vom 3. Mai 1791 und im Zusammenbruch der Republik
+  endeten. Hintergrund der Adelsgesellschaft, die die Güter der Edition
+  besaß und regierte: Sie nennt weder Trąbczyn noch die Olęder, stützt sich
+  aber schwer auf Großpolen, unter anderem auf die Untersuchung des
+  Landmarkts im Kreis Kalisch (Pośpiech), die zeigt, wie der mittlere Adel
+  zwischen 1580 und 1655 Anteile aufkaufte und sich hielt, und auf die 775
+  neuen Siedlungen, die zwischen 1721 und 1793 in Großpolen entstanden.
