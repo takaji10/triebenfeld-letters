@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-six holdings in six archives and a library:
+The documents come from forty-seven holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -59,8 +59,11 @@ The documents come from forty-six holdings in six archives and a library:
   of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów
   and Drzewce in 1761;
 - the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
-  of the confiscated estates to Prusimski's daughter; and six pages of a Prussian table of
-  the villages around Konin, of about 1797;
+  of the confiscated estates to Prusimski's daughter; six pages of a Prussian table of
+  the villages around Konin, of about 1797; and the report of 1834 in which the Instruction
+  Commission of the Council of State of the Kingdom of Poland weighed the conflict of
+  jurisdiction over the mortgage claim of Weigel, Hohenlohe-Ingelfingen's assignee, on the
+  Trąbczyn estate;
 - the **State Archive in Łódź**: the liquidation table of 1868 by which the colonists of
   Łazińsk received their land, its copy of 1869, and the entries to 1901 on their rights in
   the manor forest, their exchange for land and the survey of 1896;

@@ -14,7 +14,8 @@
   "oe1bu9454-026|1|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"eine Anweisung von 6000 rt auf Breslau\" is a draft for a sum on a place. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
   "oe1bu9454-026|2|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"die Anweisung auf die 6000 rt übermache\", which Minister von Stein will have paid out in cash. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
   "oe1bu9454-026|3|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: three occurrences, all the same draft: \"Anweisung auf Leipzig\", \"die Anweisung auf mich an die Breslauer Banck\", \"sende ich diese Anweisung\". Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
-  "oe1bu9454-036|2|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"die bekannte Anweisung fr. 6000 Rthl\" is the 6000 rt draft of letter 26. The English read \"instruction\" and was edited to \"order to pay\" to match. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it."
+  "oe1bu9454-036|2|rare-pair|Anweisung": "Decided from the sentence, not the scan, 2026-10-01: \"die bekannte Anweisung fr. 6000 Rthl\" is the 6000 rt draft of letter 26. The English read \"instruction\" and was edited to \"order to pay\" to match. Abweisung, a refusal, cannot be drawn on a place or for a sum, so the page's Anweisung stands and the English, an order to pay, stands with it.",
+  "agad118501169-001|2|glossary-mismatch|Posen": "Kept as written, 2026-10-21: the English here is the archive's own translation of a French source and uses the period form \"Posen\" (the Court of Appeal of the Department of Posen); the termbase rendering \"Poznan\" governs the German correspondence, not this holding."
  },
  "cleared": [
   "oe1bu9454-269a|1|rare-pair|Anweisung",
@@ -24,6 +25,7 @@
   "oe1bu9454-026|1|rare-pair|Anweisung",
   "oe1bu9454-026|2|rare-pair|Anweisung",
   "oe1bu9454-026|3|rare-pair|Anweisung",
-  "oe1bu9454-036|2|rare-pair|Anweisung"
+  "oe1bu9454-036|2|rare-pair|Anweisung",
+  "agad118501169-001|2|glossary-mismatch|Posen"
  ]
 }

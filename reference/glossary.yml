@@ -2699,6 +2699,7 @@ excluded:
   - {word: "Kl.", reason: "klein, Little (Kl. Orlin); plain in the English (2026-10-14, APP 53/968/0/-/716)"}
   - {word: "Wirte", reason: "farmers, householders; plain in the English (2026-10-14, APP 53/968/0/-/716)"}
   - {word: "dt.", reason: "deutsch, German; plain in the English (2026-10-14, APP 53/968/0/-/716)"}
+  - {word: "art.", reason: "article, of a law, treaty or constitution (art. 25, art. 31); plain in the English (2026-10-21, 1/185/0/1/169)"}
   # ruled 2026-10-02, from the abbreviation and Latin probe and the termbase leftovers
   - {word: "Gnädigster Fürst und Herr", reason: "salutation; the English gives it plainly, Most gracious Prince and Lord"}
   - {word: "Gnädigster Herr", reason: "salutation; plain in the English"}

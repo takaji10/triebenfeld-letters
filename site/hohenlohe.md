@@ -465,7 +465,7 @@ Reichsthaler in silver and 17,874 in gold. The largest private creditor on it is
 Whether it is the same 112,000, and whether this Charlotte is the daughter who wrote letter
 7, the documents do not say.
 
-## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1832
+## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1834
 
 Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs renewed the
 claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
@@ -498,6 +498,22 @@ finance, Prince Lubecki, called the sum excessive and had the estates valued
 ([reply]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). The rising of November 1830 interrupted the matter. In March 1832
 the valuation of Trąbczyn was ordered again ([letter]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). The documents published so
 far do not show whether Weigel was paid.
+
+Behind the ministry's doubts about the courts' competence stood a formal step. On 4 October
+1829 the Council of Administration, adopting Lubecki's proposal, authorised the Commission of
+Finances and the Treasury to raise a conflict of jurisdiction against the courts on the ground
+of their incompetence in the Weigel affair, and in July 1830 the Commission laid its report
+before the Council of State. The Council of State's Commission of Instruction answered it only
+on 28 October 1834: no conflict of jurisdiction existed or exists, for the courts' competence
+followed from the nature of the object in litigation, a mortgage claim, and none of the four
+conditions the organisation of the Council of State sets for such a conflict had been met; what
+the Finance Commission brings is in substance an appeal in cassation, which the Council of
+State by its organisation is not. It advised that the demand be set aside as based on no legal
+principle, and handed in a draft decree to that effect
+([report]({{ '/documents/agad118501169/1/' | relative_url }})). The report also gives the fullest
+account of the judicial course of the mortgage claim, from the loan of 1800 to the definitive
+sentence of 15 and 17 July 1826. What the Council of State decided on it, and whether Weigel
+was ever paid, the edition does not show.
 
 The judgment of 1826 was still being used a generation later, and against the settlers. In
 1859 the colonists of Trąbczyn sued its owner, Count Włodzimierz Miączyński. He answered in

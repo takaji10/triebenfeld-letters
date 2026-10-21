@@ -39,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus sechsundvierzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -62,8 +62,10 @@ Die Dokumente stammen aus sechsundvierzig Beständen in sechs Archiven und einer
   ihrem Kauf von Land in Łukom 1461 und einer Seite der Erneuerung der Grenzhügel zwischen
   Łukom, Zagórów und Drzewce 1761;
 - dem **Hauptarchiv Alter Akten** in Warschau: zwei Akten von 1807 über die Rückgabe der
-  konfiszierten Güter an Prusimskis Tochter; und sechs Seiten einer preußischen Tabelle der
-  Dörfer um Konin, um 1797;
+  konfiszierten Güter an Prusimskis Tochter; sechs Seiten einer preußischen Tabelle der
+  Dörfer um Konin, um 1797; und den Bericht von 1834, in dem die Instruktionskommission des
+  Staatsrats des Königreichs Polen den Kompetenzkonflikt um die Hypothekforderung Weigels,
+  des Zessionars Hohenlohe-Ingelfingens, auf dem Gut Trąbczyn abwog;
 - dem **Staatsarchiv Łódź**: der Liquidationstabelle von 1868, nach der die Kolonisten von
   Łazińsk ihr Land erhielten, ihrer Abschrift von 1869 und den Eintragungen bis 1901 über
   ihre Rechte im herrschaftlichen Wald, deren Tausch gegen Land und die Vermessung von 1896;

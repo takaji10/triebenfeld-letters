@@ -37,6 +37,9 @@ weigel:
 cosmar:
   bio: A medical councillor and executor of the will of Princess Sacken. Under a settlement of 1811 he administered the entailed Silesian estates of Hohenlohe-Ingelfingen for the creditors. Triebenfeld sought his removal at Vienna in 1814 and 1815 and called the settlement his fabrication; a court found against him at first instance in late 1815.
   bio_de: Medizinalrat und Testamentsvollstrecker der Fürstin Sacken. Nach einem Vergleich von 1811 verwaltete er die schlesischen Majoratsgüter Hohenlohe-Ingelfingens für die Gläubiger. Triebenfeld betrieb 1814 und 1815 in Wien seine Absetzung und nannte den Vergleich sein Machwerk; Ende 1815 unterlag er vor Gericht in erster Instanz.
+czapski:
+  bio: Prince Czapski, a minister of the Kingdom of Poland. In 1818, sharing the Liquidation Commission's opinion, he laid before the Emperor and King an analogous report on Miączyńska's petition to have the debts on Trąbczyn charged to Prussia. The report of 1834 spells his name Czapyski on one page and Czapski on the next; the two are the same person. Not further identified here, so no dates are given.
+  bio_de: Fürst Czapski, ein Minister des Königreichs Polen. 1818 legte er, der Meinung der Liquidationskommission folgend, dem Kaiser und König einen entsprechenden Bericht über das Gesuch Miączyńskas vor, die Schulden auf Trąbczyn Preußen auferlegen zu lassen. Der Bericht von 1834 schreibt seinen Namen auf einer Seite Czapyski, auf der nächsten Czapski; beide meinen denselben Mann. Hier nicht weiter festgelegt, darum ohne Jahreszahlen.
 koeckritz:
   life: "1744-1821"
   bio: Karl Leopold von Köckritz, Prussian general and adjutant general to Friedrich Wilhelm III, a close confidant of the King. He supported Hohenlohe-Ingelfingen at court from 1798 and arranged the loan from the fund for military invalids in 1805.
@@ -992,3 +995,10 @@ jan-z-trabczyna-1434:
 tomasz-ocic:
   bio: "The younger son of Otto of Trąbczyn, named by the Kodeks's editors beside his brothers Wojciech and Jan."
   bio_de: "Der jüngere Sohn Ottos von Trąbczyn, von den Herausgebern des Kodeks neben seinen Brüdern Wojciech und Jan genannt."
+
+faltz:
+  bio: "President of the Commission of Instruction of the Council of State of the Kingdom of Poland, signing its report on the Weigel/Miączyńska conflict of jurisdiction of 28 October 1834, the one document here that names him. Not to be confused with Falz, the lawyer who conducted the Prince's suits at the Kalisz tribunal in 1810-11; that spelling is itself unsettled there."
+  bio_de: "Präsident der Instruktionskommission des Staatsrats des Königreichs Polen, unterzeichnet ihren Bericht über den Kompetenzkonflikt Weigel/Miączyńska vom 28. Oktober 1834, das eine Dokument hier, das ihn nennt. Nicht zu verwechseln mit Falz, dem Anwalt, der 1810/11 die Prozesse des Fürsten vor dem Tribunal in Kalisz führte; dessen Schreibung ist dort selbst ungeklärt."
+godlewski:
+  bio: "A Sieur Godłewski whose dispute over the boundaries between his land and a domain of the State had likewise led to a conflict of jurisdiction, cited by the Commission of Finances in 1834 as a precedent for its own; the Instruction Commission answers that in his case the conflict preceded the judgment. The archive's transcript writes the name Godtewski, misreading the Polish crossed l; the editor rules the name Godłewski (2026-10-21), and the edition carries that form."
+  bio_de: "Ein Herr Godłewski, dessen Grenzstreit zwischen seinem Land und einer Domäne des Staates gleichfalls zu einem Kompetenzkonflikt geführt hatte und den die Finanzkommission 1834 als Präzedenz anführte; die Instruktionskommission entgegnet, daß dort der Konflikt dem Urteil vorausging. Die Abschrift des Archivs schreibt den Namen Godtewski und verliest das polnische durchgestrichene l; der Herausgeber entscheidet, der Name sei Godłewski (2026-10-21), und die Edition trägt diese Form."
