@@ -162,7 +162,10 @@ def load_sideways(path, lines, bounds):
 #   sideways  written sideways on the page (9454)
 #   office    written on the letter by the office that received it: received
 #             marks, directions for the reply, paraphs (III. HA MdA, III Nr. 12765)
-SET_APART = (('sideways', 'sideways.yml'), ('office', 'office_notes.yml'))
+#   margin    a note written in the margin beside the text, in the same hand or
+#             another (APP 53/1455/0/2/21, 2026-10-21)
+SET_APART = (('sideways', 'sideways.yml'), ('office', 'office_notes.yml'),
+             ('margin', 'margin_notes.yml'))
 
 
 def load_set_apart(unit_dir, lines, bounds):
@@ -429,6 +432,11 @@ def build_pages(body, letter_id, decisions, is_register=False, paras=None,
             out[-1]['office_lines'] = [k for k, (ln, _) in enumerate(page)
                                        if sideways.get(ln) == 'office']
             out[-1]['office_paragraphs'] = [k for k, f in enumerate(flags) if f == 'office']
+        # A note in the margin (margin_notes.yml), the same way.
+        if any(sideways.get(ln) == 'margin' for ln, _ in page):
+            out[-1]['margin_lines'] = [k for k, (ln, _) in enumerate(page)
+                                       if sideways.get(ln) == 'margin']
+            out[-1]['margin_paragraphs'] = [k for k, f in enumerate(flags) if f == 'margin']
     # A second, reader-facing line number that restarts at 1 in every document.
     #
     # `line_start` and `line_end` count from the top of the unit's corpus.txt,

@@ -1,0 +1,87 @@
+# Editorial rulings for APP 53/1455/0/2/21.
+#
+# Six documents on the five pages the editor chose (2026-10-21), one for each
+# of the copyist's entries that stands on them (EDITORIAL_RULES: each entry of
+# a register is a document): no. 14 (1), no. 15 (2), the beginning of no. 16
+# (3), no. 25 (4), the beginning of no. 26 (5), and p. 66 of no. 46 (6).
+# Each is a copy, and takes the date and the era of what it copies (editor,
+# 2026-10-14).
+
+places:
+  # Place of writing as the copy gives it; the beginnings (3, 5) and the
+  # page of the decree (6) give none.
+  overrides:
+    "1": Ląd
+    "2": Pyzdry
+    "3": ""
+    "4": Pyzdry
+    "5": ""
+    "6": ""
+
+dates:
+  # read off the document; a feast is turned into the day of the month
+  # (Julian calendar before 1582)
+  read:
+    "1": [1399, 6, 1, "day"]      # Dominica infra Corporis Christi Octavam sub Anno eodem 1399 (Easter 30 March)
+    "2": [1461, 9, 21, "day"]     # Feria secunda proxima post Festum Exaltationis S. Crucis Anno 1461 (14 September was a Monday)
+    "4": [1362, 1, 18, "day"]     # Feria Tertia post Octavam Epiphaniae Domini Anno Ejusdem 1362do
+  supplied: {}
+  twin: {}
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred:
+    "6": [1761, 4, 10, "day", "The page names \"the Friday next after the same Sunday Misericordia\"; the heading of the entry, on p. 63 (not in the edition), gives the year 1761 and its entry at Kalisz castle on the Monday after Cantate 1761. Misericordia Sunday 1761 was 5 April."]
+  sitting: {}
+  # The beginnings of nos. 16 and 26 stop before their dates.
+  no_date: ["3", "5"]
+
+documents:
+  # A copy belongs to the era of what it copies (editor, 2026-10-14): the
+  # decree of 1761 stands with the boundary disputes of the Prusimski years.
+  era:
+    "6": prusimski-boundary
+
+  doc_type:
+    "1": privilege
+    "2": attestation
+    "3": confirmation
+    "4": privilege
+    "5": privilege
+    "6": decree
+
+  language:
+    "1": "la"
+    "2": "la"
+    "3": "la"
+    "4": "la"
+    "5": "la"
+    "6": "la"
+
+  duplicate_of: {}
+  split_note: {}
+  relations:
+    "3":
+      - kind: confirms
+        target: "2"
+        note: "The copyist's heading: \"Confirmatio Gradziem Regis Casimiri\", King Kazimierz's confirmation of the sale of Gradziem, copied next after it as no. 16; only its beginning is on these pages."
+    "5":
+      - kind: supplements
+        target: "4"
+        note: "The king grants freedom to the colonists in the forest \"which we gave and granted by reason of an exchange\" to the abbot and convent of Ląd, Czernetz, of sixty mansi: the forest of the exchange of 1362."
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml.
+  estates:
+    "1": [lad]
+    "2": [lukom, zagorowo, imielno, lad]
+    "3": [lukom, lad]
+    "4": [wrabczynek, drzewce, lad]
+    "5": [drzewce, lad]
+    "6": [lukom, zagorowo, drzewce, lad]
+
+pages:
+  # The text is given by paragraph, as the copyist divides it.
+  by_paragraph: ["0013_a", "0014_a", "0025_a", "0026_a", "0066_a"]
+
+damage:
+  # Damage is read from the text's own [...] markers. List document numbers
+  # here only for damage the transcription does not mark.
+  letters: []

@@ -1066,6 +1066,50 @@ Where the rest is:
   `review/<slug>/` before the first run (the line-break report fails
   without it).
 
+- **Pages named by the editor are the archive's pencil pagination**
+  (APP 53/1455/0/2/21, 2026-10-21). A volume photographed page by page can
+  carry three numbers at the top corner: the archive's in pencil, an older
+  one in red crayon, a third struck out. The editor's "pages 13-14" were the
+  pencil numbers; read them off every photograph (turned upright, the top
+  corner enlarged) and map photograph to page before cutting anything. The
+  editor's own cropped .jpg files in the same folder were other pages
+  (5, 6, 18-20, 54): do not take a file in the folder for a chosen page
+  without reading its number.
+- **"Trim what belongs to other sections" on a copy-book page**: cut the
+  picture and the text at the heading of the first entry that begins on the
+  page (find the gap by the ink in each row, then look at the cut line drawn
+  on the picture: a first guess cut through a heading twice). A page that
+  lies wholly inside an entry is given whole. An entry that begins on a
+  chosen page and runs on to one not chosen is kept as far as the page goes,
+  as its own document, undated if its date is on the next page, and the
+  next page is offered.
+- **A holding from raw camera files cuts its own pages.** `courtbook.cut`
+  opens the scans with PIL, which cannot read a .CR2; the holding's
+  `intake/holding.py` takes the full-size JPEG inside each file
+  (`units/app539680669/intake/photos.py`, `preview()`), turns it and cuts it
+  to a box (`BOXES`), and handles `--crop` before `courtbook.holding_main`.
+  Page ids must look like `0013_a` (four digits, a letter): `stage_pages`,
+  `relabel_scans` and `match_scans` read only names of that form.
+- **A note in the margin has its own label** (2026-10-21): list it in
+  `units/<slug>/margin_notes.yml` (the shape of `sideways.yml`); the site
+  sets it apart under "Written in the margin", and the English page gives it
+  after a paragraph `[Written in the margin:]`, as the office notes have
+  theirs.
+- **`publish_translations.py` deletes the translation file of a holding that
+  no longer exists**: on 2026-10-21 it removed
+  `site/_data/translations/pachonski1973-001.yml`, left over from Pachoński
+  before it became literature. It was restored (`git checkout`); a
+  deletion of another holding's file is not the new holding's business, so
+  check `git status` for a `D` after publishing, and ask before letting it
+  stand.
+- **Another session may be building a holding in the same folder** (an
+  untracked `units/agad118501169/` on 2026-10-21). Commit only your own
+  holding's paths, never with `git add -A`. Its half-done work can stop
+  `regenerate.py --site` (a literature index with hits not yet ruled, a
+  file locked while it rebuilds): run `build_site_data.py`, the Jekyll
+  build and `verify_site.py` directly, and leave the generated files that
+  carry its work (`git diff | grep` its slug) unstaged.
+
 ## Merging a cloud branch on the desktop
 
 Done on 2026-10-13 for `claude/peaceful-meitner-snu6qx` ("merge the other

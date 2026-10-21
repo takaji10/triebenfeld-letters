@@ -1,0 +1,86 @@
+{
+ "letter_id": "3",
+ "seq_archival": 3,
+ "parent_letter": "",
+ "unit": "app5314550221",
+ "uid": "app5314550221-3",
+ "pad": "app5314550221-003",
+ "permalink": "/documents/app5314550221/3/",
+ "doc_type": "confirmation",
+ "era": "medieval",
+ "themes": [],
+ "date_iso": "",
+ "date_precision": "unknown",
+ "date_source": "none",
+ "date_display": "",
+ "date_inferred_from": "letter missing/skipped in the archive",
+ "year": "",
+ "month": "",
+ "day": "",
+ "place": "",
+ "sender": "",
+ "recipient": "",
+ "line_start": 13,
+ "line_end": 17,
+ "uncertainty_count": 0,
+ "has_damage": 0,
+ "rough_transcription": 0,
+ "language": "la",
+ "duplicate_of": "",
+ "relations": [
+  {
+   "kind": "confirms",
+   "target": "2",
+   "note": "The copyist's heading: \"Confirmatio Gradziem Regis Casimiri\", King Kazimierz's confirmation of the sale of Gradziem, copied next after it as no. 16; only its beginning is on these pages."
+  }
+ ],
+ "estates": [
+  "lukom",
+  "lad"
+ ],
+ "is_missing": 0,
+ "n_lines": 3,
+ "n_pages": 1,
+ "text": "Confirmatio Gradziem Regis Casimiri 16.\nIn Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-\nrum",
+ "text_reading": "Confirmatio Gradziem Regis Casimiri 16.\n\nIn Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-\n\nrum",
+ "pages": [
+  {
+   "page": 1,
+   "page_id": "0014_a",
+   "line_start": 15,
+   "line_end": 17,
+   "n_lines": 3,
+   "diplomatic": "Confirmatio Gradziem Regis Casimiri 16.\nIn Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-\nrum",
+   "transcription": "Confirmatio Gradziem Regis Casimiri 16.\nIn Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-\nrum",
+   "reading": "Confirmatio Gradziem Regis Casimiri 16.\n\nIn Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-\n\nrum",
+   "paragraphs": [
+    "Confirmatio Gradziem Regis Casimiri 16.",
+    "In Nomine Domini Amen. Ad perpetuam rei memoriam. Nos Casimirus Dei Gratia Rex Poloniae necnon terrarum Cracoviae Sandomiriae, Siradiae Lanciciae Cujaviae Dux magnus Lithvaniae Pomeraniae Prussiaeque Dominus et Haeres etc. Significamus tenore praesentium quibus expedit, Universis praesentibus et futuris harum notitiam habituris Quomodo veniens ad Nostram Praelatorumque et Baro-",
+    "rum"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": false,
+   "continues_next": false,
+   "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 3,
+   "by_paragraph": true
+  }
+ ],
+ "mentions": [],
+ "mentions_english": [],
+ "place_canonical": "Unknown",
+ "place_mentions": [],
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "Confirmation of Gradziem by King Kazimierz. 16.\n\nIn the name of the Lord, Amen. For the perpetual memory of the matter. We, Kazimierz, by the grace of God King of Poland, and also of the lands of Kraków, Sandomierz, Sieradz, Łęczyca and Kuyavia, Grand Duke of Lithuania, lord and heir of Pomerania and Prussia etc., make known by the tenor of these presents to all whom it concerns, present and to come, who will have knowledge of them, how, coming to our presence and that of our prelates and barons"
+  }
+ ],
+ "text_english": "Confirmation of Gradziem by King Kazimierz. 16.\n\nIn the name of the Lord, Amen. For the perpetual memory of the matter. We, Kazimierz, by the grace of God King of Poland, and also of the lands of Kraków, Sandomierz, Sieradz, Łęczyca and Kuyavia, Grand Duke of Lithuania, lord and heir of Pomerania and Prussia etc., make known by the tenor of these presents to all whom it concerns, present and to come, who will have knowledge of them, how, coming to our presence and that of our prelates and barons",
+ "summary_en": "The beginning of a copy (no. 16 of the copy-book, headed \"Confirmatio Gradziem Regis Casimiri\", the confirmation of Gradziem by King Kazimierz), at the foot of p. 14: King Kazimierz of Poland, Grand Duke of Lithuania, makes known to all how there came before him and his prelates and barons … Here the text breaks off; it continues on p. 15, which is not in the edition, and the date stands there. By its heading it is the king's confirmation of the sale of 1461 (doc. 2).",
+ "summary_de": "Der Anfang einer Abschrift (Nr. 16 des Kopialbuchs, überschrieben „Confirmatio Gradziem Regis Casimiri“, die Bestätigung von Gradziem durch König Kasimir), am Fuß der Seite 14: König Kasimir von Polen, Großfürst von Litauen, macht allen bekannt, wie vor ihn und seine Prälaten und Barone gekommen sei … Hier bricht der Text ab; er geht auf S. 15 weiter, die nicht in der Edition ist, und das Datum steht dort. Nach der Überschrift ist es die Bestätigung des Kaufs von 1461 (Dok. 2) durch den König.",
+ "reading": {}
+}

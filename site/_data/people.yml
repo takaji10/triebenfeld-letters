@@ -855,14 +855,14 @@
   name: "Florian Gelanski"
   heading: "Gelanski, Florian"
   heading_de: "Gelanski, Florian"
-  count: 2
-  docs: 1
-  life: "documented 1799"
-  life_de: "belegt 1799"
+  count: 3
+  docs: 2
+  life: "documented 1362-1799"
+  life_de: "belegt 1362-1799"
   bio: "Florian Gelanski, named once in a document of 1799 concerning Szetlewek."
   bio_de: "Florian Gelanski, einmal in einem Dokument von 1799 über Szetlewek genannt."
-  span: "1799"
-  letters: [{id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", n: 2}]
+  span: "1362–1799"
+  letters: [{id: "4", uid: "app5314550221-4", url: "/documents/app5314550221/4/", n: 1}, {id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", n: 2}]
 - slug: "prinz-george"
   name: "Prinz George"
   heading: "George, Prince"
@@ -1419,14 +1419,14 @@
   name: "Jankowski"
   heading: "Jankowski, Joseph von"
   heading_de: "Jankowski, Joseph von"
-  count: 11
-  docs: 1
-  life: "documented 1799"
-  life_de: "belegt 1799"
+  count: 12
+  docs: 2
+  life: "documented 1761-1799"
+  life_de: "belegt 1761-1799"
   bio: "Joseph von Jankowski of Ninino, who sold the free mayor's holding at Dormowo to Captain Gneust in 1797."
   bio_de: "Joseph von Jankowski aus Ninino, der 1797 das Freischulzengut in Dormowo an Hauptmann Gneust verkaufte."
-  span: "1799"
-  letters: [{id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", n: 11}]
+  span: "1761–1799"
+  letters: [{id: "6", uid: "app5314550221-6", url: "/documents/app5314550221/6/", n: 1}, {id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", n: 11}]
 - slug: "jordan"
   name: "Jordan"
   heading: "Jordan, Johann Ludwig von"

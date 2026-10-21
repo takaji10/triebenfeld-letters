@@ -1,0 +1,16 @@
+# A note written in the margin beside the text. Here: one line in the right
+# margin of p. 14, beside the list of the woods sold in 1461 ("cum Sylva
+# Chmielniki et cum Sylva Lome"), in a hand lighter than the copyist's and
+# perhaps another; a stroke runs from it towards the text. The line is
+# ordinary text in corpus.txt, at the end of its document's part of the page;
+# this file only says that it was written in the margin, so the site can set
+# it apart.
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+# A first line that is edited must be edited here too; build_db.py stops if a
+# block cannot be found.
+blocks:
+  - letter: '2'
+    page: '0014_a'
+    first: 'Et cum Sylva Lomy a limitibus'
+    lines: 1

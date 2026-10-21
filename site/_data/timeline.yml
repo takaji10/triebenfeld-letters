@@ -96,6 +96,26 @@
     - kdw/9
     - kdw/10
 
+- date: 1362-01-18
+  title: "Ląd exchanges Little Wronczyn for the forest where Drzewce was founded"
+  note: >-
+    King Kazimierz takes the abbey of Ląd's village of Little Wronczyn near Pyzdry and its mill below
+    Pyzdry castle, and gives the abbey in return sixty Franconian mansi of his forest Czirnetz in the
+    district of Konin, to settle with villages under Polish or German law. The copyist of the abbey's
+    privileges notes that the village of Drzewce was later founded in that forest.
+  kind: estate
+  source: "King Kazimierz's charter, Pyzdry, 18 January 1362, in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 25-26)"
+  title_de: "Ląd tauscht Klein-Wronczyn gegen den Wald, in dem Drzewce gegründet wurde"
+  note_de: >-
+    König Kasimir nimmt das Dorf Klein-Wronczyn des Klosters Ląd bei Pyzdry und seine Mühle unter der
+    Burg Pyzdry und gibt dem Kloster dafür sechzig fränkische Hufen seines Waldes Czirnetz im Bezirk
+    Konin, um dort Dörfer nach polnischem oder deutschem Recht anzulegen. Der Abschreiber der
+    Privilegien des Klosters vermerkt, dass in diesem Wald später das Dorf Drzewce angelegt wurde.
+  source_de: "Urkunde König Kasimirs, Pyzdry, 18. Januar 1362, im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 25-26)"
+  refs:
+    - app5314550221/4
+    - app5314550221/5
+
 - date: 1399-10-13
   title: "The tithe of Trąbczyn is adjudged to Ląd"
   note: >-
@@ -129,6 +149,26 @@
 # The Prusimski era, 1589 to 1788 (added 2026-10-07): one entry per matter, not per document, each resting on
 # the court-book holdings named in refs. Years before 1794 are shown on the page only where they have
 # documents or an event (site/_includes/timeline.html).
+
+- date: 1461-09-21
+  title: "Three mansi of Łukom and the forest Gradziem are sold to Ląd"
+  note: >-
+    The Wochneth brothers and their nephews, the Bochneths, resign three mansi with gardens in Łukom,
+    in the parish of Zagórów, with the forest Gradziem, the forests Chmielniki and Lome and a field
+    above Imielno, to the abbot and convent of Ląd for 400 marks, with King Kazimierz's consent,
+    before Piotr of Szamotuły, general captain of Greater Poland.
+  kind: estate
+  source: "Piotr of Szamotuły's charter, Pyzdry, 21 September 1461, in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, pp. 13-14)"
+  title_de: "Drei Hufen in Łukom und der Wald Gradziem werden an Ląd verkauft"
+  note_de: >-
+    Die Brüder Wochneth und ihre Neffen, die Bochneth, lassen dem Abt und Konvent von Ląd drei Hufen
+    mit Gärten in Łukom, in der Pfarrei Zagórów, mit dem Wald Gradziem, den Wäldern Chmielniki und
+    Lome und einem Feld oberhalb von Imielno für 400 Mark auf, mit Zustimmung König Kasimirs, vor
+    Piotr von Szamotuły, dem Generalstarosten von Großpolen.
+  source_de: "Urkunde Piotrs von Szamotuły, Pyzdry, 21. September 1461, im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 13-14)"
+  refs:
+    - app5314550221/2
+    - app5314550221/3
 
 - date: 1589-06-12
   title: "The heir of Trąbczyn sues his neighbour at Łukom over a flooded wood"
@@ -234,6 +274,27 @@
   source_de: "Kuryer Polski 1754, Nr. 75 (25. Dezember), Bericht aus Kalisch vom 5. Dezember"
   refs:
     - kuryerpolski1754075/1
+
+- date: 1761-04-10
+  title: "The mounds between Łukom, Zagórów and Drzewce are renewed"
+  note: >-
+    A compromissory court, deciding on a piece of Łukom's ground beside Drzewce ceded to the convent
+    of Ląd, counts the mounds along the roads from Huta, Łukom and Tomice,
+    finds nothing in two hills the convent claimed as old mounds, and on the next day renews the
+    mounds between the estate of Łukom, the town of Zagórów and Drzewce. The decree was entered at
+    Kalisz castle on 20 April 1761.
+  kind: estate
+  source: "the court's decree, copied in the copy-book of the privileges of Ląd (APP 53/1455/0/2/21, p. 66; the heading on p. 63)"
+  title_de: "Die Grenzhügel zwischen Łukom, Zagórów und Drzewce werden erneuert"
+  note_de: >-
+    Ein Schiedsgericht, das über ein Stück Grund von Łukom bei Drzewce entscheidet, das dem Konvent
+    von Ląd abgetreten wurde, zählt die Grenzhügel an den Wegen von Huta, Łukom und
+    Tomice, findet nichts in zwei Hügeln, die der Konvent als alte Grenzhügel beanspruchte, und
+    erneuert am nächsten Tag die Hügel zwischen dem Gut Łukom, der Stadt Zagórów und Drzewce. Das
+    Dekret wurde am 20. April 1761 in der Burg Kalisch eingetragen.
+  source_de: "das Dekret des Gerichts, abgeschrieben im Kopialbuch der Privilegien von Ląd (APP 53/1455/0/2/21, S. 66; die Überschrift auf S. 63)"
+  refs:
+    - app5314550221/6
 
 - date: 1763
   title: "A case that cannot be judged until the boundary is fixed"

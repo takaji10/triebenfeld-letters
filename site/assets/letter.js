@@ -35,20 +35,23 @@
   // text, separated by a blank line. They used to be poured into one <p>, where
   // the breaks vanished and a page read as a single slab.
   var OFFICE = '[Written by the receiving office:]';
+  var MARGIN = '[Written in the margin:]';
   function fillTranslation(el, en) {
     var box = el;
     en.split(/\n\s*\n/).forEach(function (para) {
       para = para.replace(/^\s+|\s+$/g, '');
       if (!para) return;
-      if (para === OFFICE) {
-        // What the receiving office wrote on the letter is set apart under
-        // the same label as in the German views.
+      if (para === OFFICE || para === MARGIN) {
+        // What the receiving office wrote on the letter, or a note in the
+        // margin, is set apart under the same label as in the other views.
+        var key = para === OFFICE ? 'office_note' : 'margin_note';
         box = document.createElement('div');
-        box.className = 'sideways office-note';
+        box.className = 'sideways ' + (para === OFFICE ? 'office-note' : 'margin-note');
         var note = document.createElement('div');
         note.className = 'sideways-note';
-        note.setAttribute('data-i18n', 'office_note');
-        note.textContent = label('office_note', 'Written by the receiving office');
+        note.setAttribute('data-i18n', key);
+        note.textContent = label(key, para === OFFICE ? 'Written by the receiving office'
+                                                      : 'Written in the margin');
         box.appendChild(note);
         el.appendChild(box);
         return;

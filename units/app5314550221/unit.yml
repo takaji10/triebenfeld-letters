@@ -1,0 +1,113 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app5314550221
+ref: 53/1455/0/2/21
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  Five pages of an eighteenth-century copy-book of the privileges of the
+  Cistercian abbey of Ląd: King Kazimierz's exchange of 1362 that gave the
+  abbey the forest where Drzewce was founded, the sale of three mansi of
+  Łukom with the Gradziem forest to the abbey in 1461, the boundary of
+  Makownica in 1399, the beginnings of two royal privileges, and a page of
+  the renewal of the mounds between Łukom, Zagórów and Drzewce in 1761.
+title_de: >-
+  Fünf Seiten eines Kopialbuchs der Privilegien der Zisterzienserabtei Ląd
+  aus dem 18. Jahrhundert: der Tausch König Kasimirs von 1362, durch den die
+  Abtei den Wald erhielt, in dem Drzewce gegründet wurde, der Verkauf von
+  drei Hufen in Łukom mit dem Wald Gradziem an die Abtei 1461, die Grenze
+  von Makownica 1399, die Anfänge zweier königlicher Privilegien und eine
+  Seite der Erneuerung der Grenzhügel zwischen Łukom, Zagórów und Drzewce
+  1761.
+# The archive's own title of the unit, as the editor gave it. Kept for
+# reference; nothing displays it.
+archive_title: >-
+  Series privilegiorum monasterii Landensis transcripta ex libro privilegiorum
+# The fond, and the archive's description of it, as the editor gave them
+# (2026-10-21): "Zespół zawiera m.in.: dokumenty majątkowe, fundacyjne,
+# opackie, przywileje, preliminarz budżetowy, zestawienie dóbr klasztoru,
+# inwentarz rzeczy etc. About the Creator: Cystersów do Lądu sprowadził z
+# Altenbergu i uposażył książę Mieszko Stary w latach 1145-1174. Fundację
+# pomnożyły późniejsze nadania rycerstwa. [Na podst. wstępu do inwentarza Z.
+# Wojciechowskiej]"
+fonds: Klasztor cystersów w Lądzie
+# The copies were made in the eighteenth century (the latest entry on these
+# pages is of 1761; another is noted as entered in the books of Konin in
+# 1740). The documents copied run from 1362 to 1761.
+date_span: "1362-1761"
+status: translated         # draft | transcribed | translated | published
+published_tag: ""
+
+# Which era this holding belongs to - reference/eras.yml. A copy belongs to
+# the time of what it copies: documents 1 to 5 copy privileges of 1362 to
+# 1461; document 6, of 1761, is set to prusimski-boundary in rulings.yml.
+era: medieval
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Thirty-four photographs taken by the editor with a camera (IMG_5217 to
+# IMG_5251, Canon raw .CR2, one .jpg), one page each, turned on its side.
+# intake/holding.py --crop takes the five pages the editor chose (pp. 13,
+# 14, 25, 26, 66) out of the raw files' previews into raw_dir/processed/
+# under their page ids: 0013_a, 0014_a, 0025_a, 0026_a, 0066_a (the number
+# is the archive's pagination).
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Series privilegiorium monasterii Landensis transcripta ex libro privilegiorum (53.1455.0.2.21)
+  raw_glob: "*.CR2"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_1455_0_2_21
+
+# One file per page, named by page id (0013_a.txt). Made by intake/holding.py
+# from intake/text.py, the text as read on the photographs.
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  Five pages, in Latin, of a copy-book of the privileges of the Cistercian
+  abbey of Ląd on the Warta, made in the eighteenth century and kept in the
+  State Archive in Poznań in the fond of the abbey. The copyist gives each
+  privilege a heading and a number. Page 13 has no. 14, Mikołaj, heir of
+  Venacia and judge of Kalisz, marking the boundary of the abbey's village of
+  Makownica (Ląd, 1399), and the beginning of no. 15, which runs on to page
+  14: Piotr of Szamotuły, general captain of Greater Poland, attests that the
+  Wochneth (Bochneth) brothers and nephews sold three mansi in Łukom, in the
+  parish of Zagórów, with the forest Gradziem and other woods, to the abbot
+  and convent of Ląd for 400 marks (Pyzdry, 1461). The foot of page 14 has
+  the beginning of no. 16, King Kazimierz's confirmation of it. Pages 25 and
+  26 have no. 25, King Kazimierz's exchange of 1362 (Pyzdry): the abbey's
+  village of Little Wronczyn and its mill below the castle of Pyzdry for
+  sixty Franconian mansi of the royal forest Czernietz in the district of
+  Konin, where the village of Drzewce was later founded, and the beginning
+  of no. 26, the king's grant of twenty years' freedom to the colonists
+  settled there. Page 66 is the middle of no. 46, the decree of a
+  compromissory court of 1761 that marked the boundary between the estate of
+  Łukom, the town of Zagórów and Drzewce, counting the mounds.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  Latin copied in the eighteenth century, in the copyist's spelling, with his
+  common abbreviations written out; a name or adjective he cuts short stands
+  cut short with a stop (Landen., Posnanien., Coninen.). Each privilege opens
+  with the copyist's heading and his number. Polish words stand in the Latin
+  as the originals had them: "kopce" (boundary mounds), "sep", "naraz",
+  "powos" (levies and the carting duty), "niwa" (a field). "parvum Wronczyno"
+  is Little Wronczyn, a village of the abbey near Pyzdry, not Trąbczyn.
+  "Gradziem", "Gradzien" is a forest beside Łukom; "Lukom" is the settlement
+  and "Lukomia" the estate. A "Scopulus" is a boundary mound, a "pertica" a
+  rod. A word followed by [?] is read with doubt.

@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 613 documents on 2,005 pages, dated from 1173 to 1936. The oldest are
+The edition holds 619 documents on 2,010 pages, dated from 1173 to 1936. The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-five holdings in six archives and a library:
+The documents come from forty-six holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -53,7 +53,11 @@ The documents come from forty-five holdings in six archives and a library:
   Trąbczyn and its colonists; and two notebooks of 1936 in which the historian Albert Breyer
   wrote down what the German settlers of Łazińsk and the places around it told him, and a
   third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
-  settlers of Łazińsk, Emilienheim and Orliny their land;
+  settlers of Łazińsk, Emilienheim and Orliny their land; and five pages of an
+  eighteenth-century copy-book of the privileges of the abbey of Ląd, with the king's
+  exchange of 1362 that gave the abbey the forest where Drzewce was founded, its purchase
+  of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów
+  and Drzewce in 1761;
 - the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
   of the confiscated estates to Prusimski's daughter; and six pages of a Prussian table of
   the villages around Konin, of about 1797;
@@ -142,11 +146,11 @@ sideways in a margin.
 | `ſ` | The long s, as written. |
 | `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
 
-There are 883 marks of doubt in the edition. Each document's page says how many it has.
+There are 900 marks of doubt in the edition. Each document's page says how many it has.
 
 ## The English translations
 
-Every document that has text has an English translation: 608 of the 613. They were made by
+Every document that has text has an English translation: 614 of the 619. They were made by
 an AI model under rules set by the editor, except those of the boundary decree of 1775 and
 of the entries from the court books, which are the editor's own, revised where the text
 was corrected against the scans.

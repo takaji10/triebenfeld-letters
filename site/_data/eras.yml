@@ -4,9 +4,9 @@
 - slug: "medieval"
   order: 0
   status: "populated"
-  count: 21
+  count: 26
   first: "1173"
-  last: "1440"
+  last: "1461"
   label_en: "Trąbczyn in the Middle Ages"
   label_de: "Trąbczyn im Mittelalter"
   blurb_en: "Twenty-one medieval charters from the printed edition of the documents of Greater Poland, the Kodeks Dyplomatyczny Wielkopolski: the gifts, tithes and exchanges by which the abbey of Ląd came to hold Wrąbczynek, Kopojno, Zagórów and the tithe of Trąbczyn, the founding of the town of Zagórów in 1407, the gift of Trąbczyn to Count Mikołaj in 1276, and the knights and heirs of Trąbczyn in lawsuits and deeds to 1434."
@@ -16,7 +16,7 @@
 - slug: "prusimski-boundary"
   order: 1
   status: "populated"
-  count: 96
+  count: 97
   first: "1589"
   last: "1791"
   label_en: "The Trąbczyn and Łukom boundary dispute"

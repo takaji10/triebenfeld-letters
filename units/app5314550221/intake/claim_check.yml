@@ -1,0 +1,104 @@
+# The claim check of the German summaries of APP 53/1455/0/2/21, made in
+# session on 2026-10-21 under the rules read_letters.py --verify gives its
+# checker: each statement held to the document, as supported, overstated or
+# unsupported, and the summary only weakened or cut. The English summaries
+# are translated from the German.
+#
+# Result: 70 statements, all supported, after five were changed before the
+# summaries were written out:
+# - doc. 2: "mit Gehölzen und Grenzhügeln" cut to "mit seinen Gehölzen": the
+#   mounds are "Scopulis Pyzdrensibus", mounds of Pyzdry, which the first
+#   draft lost; "bis zum Weg nach Rosiszewo" made "bis zu dem Weg namens
+#   Rosiszewska": the text names the road, not where it goes;
+# - doc. 6: "S. 63 bis 67" made "beginnend auf S. 63": the end of the entry
+#   was not looked for; "und weiterer Bürger" made "und anderer": the page
+#   gives names without offices after the notary;
+# - before that, the first plan of doc. 1 named the witnesses Siemenci and
+#   Retch and the priest's parish, all read with doubt: left out (the rule:
+#   nothing read with doubt goes into a summary).
+# Dates turned from feasts are counted from Easter (Julian calendar, 1399:
+# 30 March; 1761 Gregorian: 22 March); "Konin" for the copy's "Kominensi" is
+# the edition's reading of a slip (m for n), as "Coninen." in doc. 4. The year
+# 1761 in doc. 6 is the entry's heading on p. 63, not on the page.
+
+app5314550221-001:
+- {claim: "Abschrift (Nr. 14 des Kopialbuchs, aus dem 18. Jahrhundert) einer lateinischen Urkunde", verdict: supported, where: "heading: Privilegium Nicolai Haeredis ... 14.; the hand and the latest entry of 1761 (holding)"}
+- {claim: "gegeben in Ląd am Sonntag in der Oktav von Fronleichnam 1399 (1. Juni)", verdict: supported, where: "Actum in Landa Dominica infra Corporis Christi Octavam sub Anno eodem 1399; Corpus Christi 29 May 1399"}
+- {claim: "Mikołaj, Erbherr von Venacia und Generalrichter des Landes Kalisch", verdict: supported, where: "Nos Nicolaus haeres de Venacia Judex terrae Calisiensis generalis"}
+- {claim: "lässt sein Gut Makownica ... abgrenzen", verdict: supported, where: "Haereditatem Nostram videlicet Makownicam ... limitationem facere"}
+- {claim: "das er zuvor vor König Władysław dem Kloster Ląd aufgelassen hatte und das der König mit offenem Brief bestätigt hatte", verdict: supported, where: "pro Monasterio Nostro Landensi Coram praesentia ... Vladislai ... Regis Poloniae etc. antea resignatam et literis suis patentibus in perpetuum Confirmatam"}
+- {claim: "nach dem Brauch des Landes mit einem Gerichtsboten durch Grenzhügel (kopce)", verdict: supported, where: "justa terrae Nostrae Consuetudinem recepto Ministeriali ... seu Cumulis Alias kopcami in vulgari"}
+- {claim: "von den Grenzen des Dorfes Malenin bis zu denen des Erbguts Ruchocin", verdict: supported, where: "a granitiis Malenino Villae, usque ad granities haereditatis Ruchocino nuncupatae"}
+- {claim: "die Hälfte des Gebüschs Kobielnica soll für immer zu Makownica gehören", verdict: supported, where: "Sicque Medietas Virgulti Kobielnica dicti ... ad praedictam haereditatem Makownicam perpetualiter pertinebit"}
+- {claim: "Dazu bestimmt er als letzten Willen", verdict: supported, where: "Insuper adjungimus tanquam finali pro testamento"}
+- {claim: "dass das Kloster und sein Konvent nach seinem Tod seine ganze Habe in Makownica erhalten", verdict: supported, where: "post obitum Nostrum praedictum Monasterium et totus Conventus ... de Substantia omnium bonorum Nostrorum ibidem in praenominata Haereditate Contentorum ... habebunt"}
+- {claim: "Bienen, Vieh, Schafe, Stuten und alle beweglichen und unbeweglichen Dinge", verdict: supported, where: "Scilicet Apum, peccorum, Ovium Equarum pecudum et generaliter Omnium rerum tam Mobilium, quam immobilium"}
+- {claim: "Zeugen sind der Pfarrer Jakusz, der Kastellan von Czarnków, der Burggraf von Pyzdry und andere", verdict: supported, where: "Jacussio Plebano ... Pechone Czarkovien. Castellan. Nicolao ... Burgrabio Pyzdrensi ... et aliis plurimis"}
+
+app5314550221-002:
+- {claim: "Abschrift (Nr. 15 des Kopialbuchs, überschrieben „Privilegium Gradziem Ruchowia“)", verdict: supported, where: "p. 13: Privilegium Gradziem Ruchowia 15."}
+- {claim: "gegeben in Pyzdry am Montag nach Kreuzerhöhung 1461 (21. September)", verdict: supported, where: "p. 14: Actum et datum in Pyzdry Feria secunda proxima post Festum Exaltationis S. Crucis Anno 1461; 14 September 1461 was a Monday"}
+- {claim: "Piotr von Szamotuły, Kastellan von Posen und Generalstarost von Großpolen, bezeugt", verdict: supported, where: "p. 13: Nos Petrus de Szamotuly Castellanus Posnaniensis Capitaneus majoris Poloniae Generalis Significamus"}
+- {claim: "dass die ungeteilten Brüder Jan Wochneth, Pfarrer in Koscielec, Mikołaj Wochneth von Bartodzieje und ein dritter Bruder von Osiecza", verdict: supported, where: "p. 14: Joannes Wochneth in Koscielec Plebanus. Nicolaus Wochneth in Bartodzieje, et [Barlyus?] Wochneth in Osiecza tres germani indivisi"}
+- {claim: "zusammen mit ihren Neffen Marcin, Jan und Maciej Bochneth", verdict: supported, where: "Martinus Bochneth, Joannes Bochneth et Mathias Bochneth Fratres germani ... haeredes germani cum dictis Patruis suis"}
+- {claim: "dem Abt Cornelius, dem Prior Jan, Wolmar, dem Rektor der Pfarrkirche in Ląd, und dem ganzen Konvent von Ląd", verdict: supported, where: "Reverendo Patri Domino Cornelio Abbati ac Religiosis Joanni Priori Wolmaro Rectori Parochialis Ecclesiae in Landa totique Conventui Monasterii Landen."}
+- {claim: "mit Zustimmung König Kasimirs", verdict: supported, where: "Serenissimi Principis ... Casimiri Dei Gratia Regis Poloniae ... Consensum et Specialem ad hoc habentes Voluntatem"}
+- {claim: "auf ewig aufgelassen haben", verdict: supported, where: "resignaverunt in perpetuum"}
+- {claim: "drei ganze Hufen mit Gärten im Dorf und Erbgut Łukom im Bezirk Konin, in der Pfarrei Zagórów", verdict: supported, where: "Totales tres mansos cum hortis in Villa et haereditate Lukom in districtu Kominensi et super parochia Zagorowo sita"}
+- {claim: "dazu den Wald Gradziem mit seinen Gehölzen", verdict: supported, where: "Gradziem Sylvam cum borra et nemoribus. First drafted with the boundary mounds as well, losing that they are Scopulis Pyzdrensibus: cut"}
+- {claim: "die Wälder Chmielniki und Lome bis zu dem Weg namens Rosiszewska", verdict: supported, where: "cum Sylva Chmielniki et cum Sylva Lome usque usque ad viam, quae vocatur Rosiszewska. First drafted as the road to Rosiszewo: changed"}
+- {claim: "der von Łukom und dem Dorf Lomowo zum Hügel Karczemne gory führt", verdict: supported, where: "quae vadit de Lukom et Villa Lomowo usque ad Montem Karczemne gory"}
+- {claim: "die Sümpfe Karczemne Lugi und ein Feld oberhalb von Imielno", verdict: supported, where: "et paludines alias Karczemne Lugi et cum niwa super Imielnem"}
+- {claim: "mit allen Rechten und Nutzungen, ohne sich etwas vorzubehalten", verdict: supported, where: "cum omni jure, dominio et proprietate ... Nihil juris dominii, proprietatis pro se suisque legitimis Successoribus in eisdem penitus reservando, cum omnibus et Singulis ... Utilibus fructibus"}
+- {claim: "Der Preis sind 400 Mark breiter Groschen, 48 Groschen auf die Mark", verdict: supported, where: "In et pro quadringentis marcis bonorum latorum mediorum grossorum ... quadraginta octo grossos marcam quamlibet computando"}
+- {claim: "Unter den Zeugen ist Jan Sobocki, Burggraf von Posen", verdict: supported, where: "Joanne Sobocki Burgrabio Posnanien."}
+- {claim: "Am Rand steht: „und mit dem Wald Lomy, von den Grenzen“", verdict: supported, where: "the right margin of p. 14: Et cum Sylva Lomy a limitibus"}
+
+app5314550221-003:
+- {claim: "Der Anfang einer Abschrift (Nr. 16 des Kopialbuchs, überschrieben „Confirmatio Gradziem Regis Casimiri“ ...), am Fuß der Seite 14", verdict: supported, where: "p. 14: Confirmatio Gradziem Regis Casimiri 16., the last nine lines of the page"}
+- {claim: "König Kasimir von Polen, Großfürst von Litauen, macht allen bekannt", verdict: supported, where: "Nos Casimirus Dei Gratia Rex Poloniae ... Dux magnus Lithvaniae ... Significamus tenore praesentium quibus expedit, Universis"}
+- {claim: "wie vor ihn und seine Prälaten und Barone gekommen sei …", verdict: supported, where: "Quomodo veniens ad Nostram Praelatorumque et Baro- / catchword rum"}
+- {claim: "er geht auf S. 15 weiter, die nicht in der Edition ist, und das Datum steht dort", verdict: supported, where: "the catchword; p. 15 is IMG_5223, not chosen by the editor; no date on p. 14"}
+- {claim: "Nach der Überschrift ist es die Bestätigung des Kaufs von 1461 (Dok. 2) durch den König", verdict: supported, where: "the heading names Gradziem, the forest of no. 15, and the king's confirmation"}
+
+app5314550221-004:
+- {claim: "Abschrift (Nr. 25 des Kopialbuchs) einer lateinischen Urkunde König Kasimirs von Polen", verdict: supported, where: "heading ... 25.; Quod Nos Casimirus Dei Gratia Poloniae Rex"}
+- {claim: "gegeben in Pyzdry am Dienstag nach der Oktav von Epiphanias 1362 (18. Januar)", verdict: supported, where: "p. 26: Actum in Pyzdry Feria Tertia post Octavam Epiphaniae Domini Anno Ejusdem 1362do; the octave, 13 January 1362, was a Thursday"}
+- {claim: "Mit dem Rat seiner Barone tauscht der König mit Abt Jan und dem Konvent der Zisterzienser von Ląd", verdict: supported, where: "Consilio communi Baronum Nostrorum ad hoc accedente, permutationem ... Cum ... Fratre Joanne Abbate et Conventu Fratrum Monasterii Landen. Ordinis Cisterciensis ... fecimus"}
+- {claim: "Das Kloster überlässt dem König und dem Reich sein Erbgut Klein-Wronczyn bei der Stadt Pyzdry und seine Mühle unter der Burg Pyzdry", verdict: supported, where: "Haereditatem ipsius Monasterii videlicet parvum Wronczyno circa Civitatem Pyzdry, et Molendinum sub Castro Pyzdrensi ... Nobis et Regno Nostro ... resignavit"}
+- {claim: "dafür gibt der König dem Kloster auf ewig einen Teil seines Waldes, genannt Czirnetz, im Bezirk Konin", verdict: supported, where: "In recompensam ... Sylvam Nostram in parte Czirnetz vulgariter nominatam in Districtu Coninen. situatam ... damus ... perpetuis temporibus"}
+- {claim: "zur Rodung geeignet und sechzig fränkische Hufen groß", verdict: supported, where: "ad culturam Agrorum valentem Sexaginta Mansos Franconicos in sua debita mensura continentem"}
+- {claim: "von seinen Boten vermessen und mit Grenzhügeln (kopce) umgrenzt", verdict: supported, where: "per Nuntios Nostros Speciales mensuratam ... Suis certis limitibus qui Kopce vulgariter nominantur limitatam"}
+- {claim: "Das Kloster darf dort so viele Dörfer nach polnischem oder deutschem Recht anlegen, wie es will", verdict: supported, where: "p. 26: Villas quotcunque poterint Jure Polonico sive Theutonico prout ipsis utilius videbitur expedire locandi plenam et omnimodam potestatem"}
+- {claim: "und diese sollen von allen königlichen Abgaben so frei sein wie die übrigen Güter des Klosters", verdict: supported, where: "omni libertate qua gaudent a solutionibus Nostris Regalibus quibuscunque, aliae Possessiones dicti Monasterii ... gaudere volumus"}
+- {claim: "Was es als Wald stehen lässt, gehört ihm mit allen Nutzungen; nur die Jagd auf Hirsche und Wildschweine behält sich der König vor", verdict: supported, where: "quantamque partem eorundem Nomine Gaji sive Sylvae dimiserint, Venatione Cervorum et Aprorum pro nostra Regia deductione reservata ... alias omnes Utilitates ... tenebunt"}
+- {claim: "Nach der Überschrift des Abschreibers wurde in diesem Wald später das Dorf Drzewce angelegt", verdict: supported, where: "heading: pro Sylva Czernietz, in qua locata est[?] posthac Villa Drzewce (the doubt is on est only)"}
+- {claim: "Unter den Zeugen sind Albert, Woiwode von Brześć, Wyrzbięta, Kastellan von Posen, und Florian, Kanzler von Łęczyca", verdict: supported, where: "Alberto Palatino Bresten. Wyrzbienta Castellano Posnanien. ... Floriano Cancellario Lancicien."}
+
+app5314550221-005:
+- {claim: "Der Anfang einer Abschrift (Nr. 26 des Kopialbuchs) eines Privilegs König Kasimirs von Polen für die Siedler im Wald Czernetz", verdict: supported, where: "heading: Privilegium libertationis ab Exactionibus Polonicalibus Colonorum in Czernetz locatorum. 26.; Quod Nos Casimirus Dei Gratia Rex Poloniae"}
+- {claim: "im Land Kalisch", verdict: supported, where: "Sylva quae dicitur in Vulgari Czernetz sita in Terra Calisien."}
+- {claim: "den er dem Abt und Konvent von Ląd im Tausch gegeben hatte und in dem sie sechzig Hufen haben sollen (Dok. 4)", verdict: supported, where: "Sylva quam donavimus et dedimus ratione cambii ... Abbati et Conventui Monasterii in Landa ... debent habere Sexaginta Mansos"}
+- {claim: "Damit die Hufen leichter besiedelt werden", verdict: supported, where: "ut facilius et diligentius praedicti Sexaginta Mansi locarentur"}
+- {claim: "gewährt der König allen Bauern, die sich dort ansiedeln oder angesiedelt haben, zwanzig Jahre volle Freiheit vom Datum der Urkunde an", verdict: supported, where: "damus et Concedimus omnibus ac Universis Kmethonibus sive Incolis qui ... locati fuerint aut locabuntur a data praesentium infra Viginti Annos continuos plenam et omnimodam libertatem"}
+- {claim: "und befreit sie von allen Abgaben und Diensten, die er aufzählt: sep, naraz, Schwein, Kuh, Schaf, powos und Fuhren aller Art", verdict: supported, where: "ab omnibus exactionibus, videlicet Sep, Naraz, Porco, Vacca, Ove, Powos, Vectura quocunque et aliis Angariis et perangariis"}
+- {claim: "Der Text bricht am Ende von S. 26 ab, in dem Satz, mit dem der König will, dass kein Kastellan oder Amtmann …", verdict: supported, where: "et specialiter volumus quod Nullus Castellanus seu Officialis / catchword Noster"}
+- {claim: "der Rest und das Datum stehen auf S. 27, die nicht in der Edition ist", verdict: supported, where: "the catchword; p. 27 is the facing page in IMG_5227, not chosen; no date on p. 26"}
+
+app5314550221-006:
+- {claim: "Eine Seite (S. 66) aus der Abschrift (Nr. 46 des Kopialbuchs, beginnend auf S. 63)", verdict: supported, where: "IMG_5242, p. 63: the heading with the copyist's 46; p. 66 is IMG_5245. First drafted as pp. 63 to 67: the end was not looked for, changed"}
+- {claim: "des Dekrets eines Schiedsgerichts", verdict: supported, where: "p. 66: Judicium Compromissoriale; the heading on p. 63: per Decretum Compromissoriale subsecuta"}
+- {claim: "durch das nach der Überschrift des Eintrags ein Stück Grund im Gut Łukom am Rand der Güter von Drzewce dem Konvent von Ląd abgetreten und abgegrenzt wurde", verdict: supported, where: "p. 63: Cessio Fundi certi in Haereditate Bonorum Lukom circa parietem Bonorum Drzewce jacentis, ejusdemque ablimitatio pro re Venerabilis Conventus Landensis"}
+- {claim: "der Eintrag ist 1761 in der Burg Kalisch eingetragen", verdict: supported, where: "p. 63: Actum in Castro Calisiensi, Feria secunda post Dominicam Cantate proxima, Anno Domini 1761"}
+- {claim: "Die Seite zählt die Grenzhügel acht bis neunzehn mit ihren Abständen in Ruten auf", verdict: supported, where: "Octavus ... perticis Triginta Quatuor ... Decimus Nonus Scopulus erectus est"}
+- {claim: "an den Wegen von Huta nach Gradzien, nach Rosiszewo und nach Lomowo", verdict: supported, where: "Viam quae tendit de Huta ad Gradzien; via de Huta ad Rosiszewo; Viam ... de Huta ad Lomowo"}
+- {claim: "von Drzewce und Lomowo nach Gradzien, von Łukom nach Lomowo und von Tomice nach Zagórów und Łukom", verdict: supported, where: "Viam de Drzewce Lomowo ad Gradzien; Viam quae tendit de Lukom Lomowo; Viam quae tendit de Tomice ad Zagorow et Lukom"}
+- {claim: "bis zu dem Weg zu den Eckhügeln der Güter Tomice und der Stadt Pyzdry", verdict: supported, where: "arripiendo ductum via quae tendit ad Angulares Scopulos Bonorum Tomice et Civitatis Pyzdry"}
+- {claim: "Nachdem die Grenze des Guts Łukomia gegen Gradzien erledigt war", verdict: supported, where: "Expedito itaque Pariete Bonorum Lukomia cum Gradzien"}
+- {claim: "ließ das Gericht auf Wunsch der Parteien zwei kleine Hügel gegen Huta öffnen", verdict: supported, where: "Judicium Compromissoriale affectantibus Partibus ad reserationem Monticulorum duorum versus Huta ... condescendit"}
+- {claim: "die der Konvent als Grenzhügel für sich nahm", verdict: supported, where: "pro Scopulis Parietalibus per Venerabilem Conventum Landensem sibi sumptis"}
+- {claim: "man fand nichts darin", verdict: supported, where: "Quibus reseratis nihil inventum"}
+- {claim: "Am nächsten Tag, dem Freitag nach dem Sonntag Misericordia (10. April 1761)", verdict: supported, where: "Tandem in Crastino videlicet Feria sexta post eandem Dominicam Misericordiae proxima; the year from the heading on p. 63; Misericordia 1761 was 5 April"}
+- {claim: "ging das Gericht zur Erneuerung der Hügel zwischen dem Gut Łukom, der Stadt Zagórów und Drzewce über", verdict: supported, where: "ad renovationem Scopulorum inter Bona Lukom ab una, Oppidum Zagurow ab altera, nec non Drzewce a Tertia Partibus Se Se transtulit"}
+- {claim: "in Gegenwart des Bürgermeisters Maciej Kwiecinski, des Vogts Albert Rozewicz, des Schreibers Antoni Zalewski und anderer", verdict: supported, where: "ad Praesentiam ... Mathia Kwiecinski Proconsule, Alberto Rozewicz advocato, Antonio Zalewski Notario, Joanne Ogorkiewicz ... First drafted as other townsmen: changed"}
+- {claim: "Die Seite bricht in der Liste dieser Namen ab", verdict: supported, where: "... Casimiro Bekanowski, Thoma / catchword Boronski"}

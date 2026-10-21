@@ -1,0 +1,4 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+2,1,8,9,-,Joan,nes,Joannes,join,high,joined form occurs elsewhere in this corpus,False,2,,0,,1,,entiam Honorabiles et nobiles Domini Joan- || nes
+3,1,16,17,-,Baro,rum,Barorum,split,high,joined form unattested; both halves are real words,False,0,0,0,2805,1,496343,veniens ad Nostram Praelatorumque et Baro- || rum
+4,1,22,24,,pertinebat,pertinebat,,catchword,high,unmarked catchword: the page ends with the word the next page begins,True,,,,,,,pertinebat || pertinebat pro Ipsorum utilitate possidend

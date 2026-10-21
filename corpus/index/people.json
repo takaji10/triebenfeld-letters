@@ -62166,6 +62166,134 @@
   ]
  },
  {
+  "entity": "jankowski",
+  "display": "Jankowski",
+  "count": 13,
+  "documents": [
+   "app5314550221-6",
+   "oe1bu14526-3"
+  ],
+  "mentions": [
+   {
+    "uid": "app5314550221-6",
+    "surface": "Jankowski",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 32,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 10,
+    "page_id": "0014_a1",
+    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 1,
+    "page_id": "0009_b",
+    "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
+    "line": 349,
+    "doc_line": 6
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 1,
+    "page_id": "0009_b",
+    "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
+    "line": 357,
+    "doc_line": 14
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 2,
+    "page_id": "0010_a1",
+    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
+    "line": 373,
+    "doc_line": 29
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 7,
+    "page_id": "0012_a2",
+    "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
+    "line": 498,
+    "doc_line": 149
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 7,
+    "page_id": "0012_a2",
+    "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
+    "line": 501,
+    "doc_line": 152
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 8,
+    "page_id": "0013_a1",
+    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
+    "line": 526,
+    "doc_line": 176
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 8,
+    "page_id": "0013_a1",
+    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
+    "line": 534,
+    "doc_line": 184
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 8,
+    "page_id": "0013_a1",
+    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
+    "line": 540,
+    "doc_line": 190
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 9,
+    "page_id": "0013_a2",
+    "scan": "Oe_1_Bu_14526_0013_a2-L3_09.jpg",
+    "line": 554,
+    "doc_line": 203
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 10,
+    "page_id": "0014_a1",
+    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
+    "line": 574,
+    "doc_line": 222
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Jankowski",
+    "page": 10,
+    "page_id": "0014_a1",
+    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
+    "line": 594,
+    "doc_line": 242
+   }
+  ]
+ },
+ {
   "entity": "struensee",
   "display": "Struensee",
   "count": 13,
@@ -62556,124 +62684,6 @@
     "scan": "Oe_1_Bu_9454_0217_a-L105_01.jpg",
     "line": 8284,
     "doc_line": 15
-   }
-  ]
- },
- {
-  "entity": "jankowski",
-  "display": "Jankowski",
-  "count": 12,
-  "documents": [
-   "oe1bu14526-3"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 10,
-    "page_id": "0014_a1",
-    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 1,
-    "page_id": "0009_b",
-    "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
-    "line": 349,
-    "doc_line": 6
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 1,
-    "page_id": "0009_b",
-    "scan": "Oe_1_Bu_14526_0009_b-L3_01.jpg",
-    "line": 357,
-    "doc_line": 14
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 2,
-    "page_id": "0010_a1",
-    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
-    "line": 373,
-    "doc_line": 29
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 7,
-    "page_id": "0012_a2",
-    "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
-    "line": 498,
-    "doc_line": 149
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 7,
-    "page_id": "0012_a2",
-    "scan": "Oe_1_Bu_14526_0012_a2-L3_07.jpg",
-    "line": 501,
-    "doc_line": 152
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 8,
-    "page_id": "0013_a1",
-    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
-    "line": 526,
-    "doc_line": 176
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 8,
-    "page_id": "0013_a1",
-    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
-    "line": 534,
-    "doc_line": 184
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 8,
-    "page_id": "0013_a1",
-    "scan": "Oe_1_Bu_14526_0013_a1-L3_08.jpg",
-    "line": 540,
-    "doc_line": 190
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 9,
-    "page_id": "0013_a2",
-    "scan": "Oe_1_Bu_14526_0013_a2-L3_09.jpg",
-    "line": 554,
-    "doc_line": 203
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 10,
-    "page_id": "0014_a1",
-    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
-    "line": 574,
-    "doc_line": 222
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Jankowski",
-    "page": 10,
-    "page_id": "0014_a1",
-    "scan": "Oe_1_Bu_14526_0014_a1-L3_10.jpg",
-    "line": 594,
-    "doc_line": 242
    }
   ]
  },
@@ -70139,6 +70149,53 @@
   ]
  },
  {
+  "entity": "gelanski",
+  "display": "Florian Gelanski",
+  "count": 4,
+  "documents": [
+   "app5314550221-4",
+   "oe1bu14526-3"
+  ],
+  "mentions": [
+   {
+    "uid": "app5314550221-4",
+    "surface": "Florian",
+    "page": 2,
+    "page_id": "0026_a",
+    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
+    "line": 24,
+    "doc_line": 4
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Florian Gelanski",
+    "page": 2,
+    "page_id": "0010_a1",
+    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Florian",
+    "page": 2,
+    "page_id": "0010_a1",
+    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
+    "line": 388,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu14526-3",
+    "surface": "Gelanski",
+    "page": 2,
+    "page_id": "0010_a1",
+    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
+    "line": 389,
+    "doc_line": 45
+   }
+  ]
+ },
+ {
   "entity": "schroetter",
   "display": "Friedrich Leopold von Schroetter",
   "count": 4,
@@ -70994,43 +71051,6 @@
     "scan": "Oe_1_Bu_9454_0176_a1-L84_02.jpg",
     "line": 6814,
     "doc_line": 34
-   }
-  ]
- },
- {
-  "entity": "gelanski",
-  "display": "Florian Gelanski",
-  "count": 3,
-  "documents": [
-   "oe1bu14526-3"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Florian Gelanski",
-    "page": 2,
-    "page_id": "0010_a1",
-    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Florian",
-    "page": 2,
-    "page_id": "0010_a1",
-    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
-    "line": 388,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu14526-3",
-    "surface": "Gelanski",
-    "page": 2,
-    "page_id": "0010_a1",
-    "scan": "Oe_1_Bu_14526_0010_a1-L3_02.jpg",
-    "line": 389,
-    "doc_line": 45
    }
   ]
  },

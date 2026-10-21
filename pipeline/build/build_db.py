@@ -495,11 +495,13 @@ with open(os.path.join(UNIT_OUT, 'reading.txt'),'w',
         f.write("\n")
         for p in r['pages']:
             f.write(f"\n[page {p['page']} | archival lines {p['line_start']}-{p['line_end']}]\n")
-            if p.get('sideways_paragraphs') or p.get('office_paragraphs'):
+            if p.get('sideways_paragraphs') or p.get('office_paragraphs') or p.get('margin_paragraphs'):
                 side = set(p.get('sideways_paragraphs') or [])
                 office = set(p.get('office_paragraphs') or [])
+                margin = set(p.get('margin_paragraphs') or [])
                 f.write('\n\n'.join(('[written sideways on the page]\n' if k in side else
-                                     '[written by the receiving office]\n' if k in office else '') + x
+                                     '[written by the receiving office]\n' if k in office else
+                                     '[written in the margin]\n' if k in margin else '') + x
                                     for k, x in enumerate(p['paragraphs'])) + "\n")
             else:
                 f.write(p['reading'] + "\n")

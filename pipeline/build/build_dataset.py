@@ -215,6 +215,15 @@ def main():
                               f'-{p["doc_line_start"] + ks[-1]}')
         if office:
             body.append('\n--- WRITTEN BY THE RECEIVING OFFICE ---\n' + '\n'.join(office))
+        # And for a note written in the margin.
+        margin = []
+        for p in (r.get('pages') or []):
+            ks = p.get('margin_lines') or []
+            if ks:
+                margin.append(f'page {p["page"]}, lines {p["doc_line_start"] + ks[0]}'
+                              f'-{p["doc_line_start"] + ks[-1]}')
+        if margin:
+            body.append('\n--- WRITTEN IN THE MARGIN ---\n' + '\n'.join(margin))
         if sum_de:
             body.append('\n--- SUMMARY (German) ---\n' + sum_de)
         if sum_en:

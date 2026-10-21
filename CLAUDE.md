@@ -119,6 +119,20 @@ so check them.
 
 ## Where things stand (2026-10-21)
 
+- **APP 53/1455/0/2/21** (`app5314550221`, added 2026-10-21, **not
+  published**): five pages (13, 14, 25, 26, 66, the archive's pencil
+  numbers) of the eighteenth-century copy-book of the privileges of the
+  abbey of Ląd, fond Klasztor cystersów w Lądzie: six Latin documents, the
+  exchange of 1362 that gave Ląd the forest where Drzewce was founded, the
+  sale of three mansi of Łukom with the forest Gradziem in 1461, the
+  boundary of Makownica in 1399, two beginnings, and p. 66 of the boundary
+  decree of 1761 (Łukom, Zagórów, Drzewce). Cut from the editor's raw
+  photographs (pp. 13 and 25 below the entry before, at the editor's word),
+  read, translated, summarised and claim-checked in session; a new
+  set-apart kind for a note in the margin (`margin_notes.yml`). Read
+  `units/app5314550221/notes.md` first. Waiting on the editor: a look, the
+  word to publish, pp. 15 and 27, Gradziem = Grądzyń?
+
 - **Works kept off the site get a summary page** (the editor, 2026-10-21:
   "For each literary source that you don't publish on the site, include an
   entry with a detailed summary of its contents"). A work with

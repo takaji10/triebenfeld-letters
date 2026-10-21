@@ -189,6 +189,7 @@ en:
   page_untranslated: This page has not been translated yet.
   sideways: Written sideways on the page
   office_note: Written by the receiving office
+  margin_note: Written in the margin
   by_paragraph: "Transcribed by paragraph, not line by line: each numbered entry is a paragraph of the manuscript."
   by_paragraph_printed: "The whole entry of the printed edition, one paragraph to each numbered line."
   noscan_printed: "From the electronic text of a printed edition: there is no page image."
@@ -542,6 +543,7 @@ de:
   page_untranslated: Diese Seite ist noch nicht übersetzt.
   sideways: Quer auf die Seite geschrieben
   office_note: Vermerk der empfangenden Behörde
+  margin_note: Am Rand geschrieben
   by_paragraph: "Absatzweise transkribiert, nicht Zeile für Zeile: jeder nummerierte Eintrag ist ein Absatz der Handschrift."
   by_paragraph_printed: "Der ganze Eintrag der gedruckten Edition, ein Absatz je nummerierter Zeile."
   noscan_printed: "Aus dem elektronischen Text einer gedruckten Edition: es gibt kein Seitenbild."

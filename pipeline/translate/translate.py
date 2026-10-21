@@ -384,6 +384,7 @@ def already(letter_id, tag=None):
 
 
 OFFICE_MARK = '[Vermerk der empfangenden Behörde:]'
+MARGIN_MARK = '[Am Rand geschrieben:]'   # margin_notes.yml (2026-10-21)
 
 
 def german_for(rec):
@@ -405,13 +406,18 @@ def german_for(rec):
         # announced by a line of its own, so the English can set it apart as the
         # German page does instead of running it on as the writer's words.
         office = set(p.get('office_paragraphs') or [])
-        paras, announced = [], False
+        margin = set(p.get('margin_paragraphs') or [])
+        paras, announced, in_margin = [], False, False
         for k, x in enumerate(p.get('paragraphs') or []):
             if not x.strip():
                 continue
             if k in office and not announced:
                 paras.append(OFFICE_MARK)
                 announced = True
+            # A note in the margin (margin_notes.yml) is announced the same way.
+            if k in margin and not in_margin:
+                paras.append(MARGIN_MARK)
+            in_margin = k in margin
             paras.append(x.strip())
         body = ('\n\n'.join(paras)
                 or (p.get('reading') or p.get('diplomatic') or '')).strip()
@@ -511,6 +517,12 @@ def user_block(rec, corr, g=None):
                     "label as a paragraph of its own, exactly `[Written by the receiving "
                     "office:]`, and translate what follows it as office notes, not as "
                     "part of the letter. Do not count the label among your markers.")
+    if any(p.get('margin_paragraphs') for p in rec['pages']):
+        meta.append(f"NOTE: the line `{MARGIN_MARK}` is the edition's own label, not "
+                    "manuscript text. What follows it on that page is a note written in "
+                    "the margin beside the text. Render the label as a paragraph of its "
+                    "own, exactly `[Written in the margin:]`, and translate the note. "
+                    "Do not count the label among your markers.")
     if lid in unitlib.load_tables(UNIT):
         # The site shows such a document as a table in every view, and builds
         # the English one from the rows that come back, so the shape has to

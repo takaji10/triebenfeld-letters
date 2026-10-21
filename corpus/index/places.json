@@ -591,6 +591,28 @@
   ]
  },
  {
+  "place": "Pyzdry",
+  "count": 5,
+  "documents": [
+   "kdw-9",
+   "kdw-10",
+   "app5314550221-4",
+   "app5314550221-2",
+   "oe1bu9454-28"
+  ]
+ },
+ {
+  "place": "Ląd",
+  "count": 5,
+  "documents": [
+   "app5314550221-1",
+   "kdw-13",
+   "kdw-15",
+   "kdw-16",
+   "kdw-18"
+  ]
+ },
+ {
   "place": "Zagórów",
   "count": 5,
   "documents": [
@@ -602,16 +624,6 @@
   ]
  },
  {
-  "place": "Ląd",
-  "count": 4,
-  "documents": [
-   "kdw-13",
-   "kdw-15",
-   "kdw-16",
-   "kdw-18"
-  ]
- },
- {
   "place": "Kopojno",
   "count": 4,
   "documents": [
@@ -619,15 +631,6 @@
    "oe1bu9454-72f",
    "oe1bu9454-232",
    "app539680716-1"
-  ]
- },
- {
-  "place": "Pyzdry",
-  "count": 3,
-  "documents": [
-   "kdw-9",
-   "kdw-10",
-   "oe1bu9454-28"
   ]
  },
  {
@@ -960,9 +963,10 @@
  },
  {
   "place": "Unknown",
-  "count": 44,
+  "count": 47,
   "documents": [
    "kdw-2",
+   "app5314550221-6",
    "app53640kalisztab21-1",
    "adwl85-1",
    "adwl85-2",
@@ -996,6 +1000,8 @@
    "app539680716-6",
    "app539680716-7",
    "app539680716-12",
+   "app5314550221-3",
+   "app5314550221-5",
    "app539680716-11",
    "app539680716-13",
    "iiihamdaiiinr12367-2",

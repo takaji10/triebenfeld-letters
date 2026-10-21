@@ -656,3 +656,16 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] The places Grodziec and Rzgów; Rzgów an estate in focus. All
       published at your word (2026-10-21). Open: whether Grodziec should
       be listed on the Places page (NEEDS_CONFIRMATION).
+
+## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
+
+- [x] Pages 13, 14, 25, 26 and 66 found among your photographs by the
+      archive's pencil numbers, cut (pp. 13 and 25 below the entry before),
+      read, translated, summarised and claim-checked; six documents, with
+      the holding's page and three timeline entries
+      (`units/app5314550221/notes.md`).
+- [ ] **You:** a look at the five cut pages and the holding's page; the
+      word to publish.
+- [ ] **You:** whether to add p. 15 (finishes the king's confirmation of
+      1461) and p. 27 (would need a photograph); whether Gradziem is
+      Grądzyń (NEEDS_CONFIRMATION).

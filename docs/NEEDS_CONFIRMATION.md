@@ -438,6 +438,17 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
+- **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
+  2026-10-21, not published; `units/app5314550221/notes.md`): read from the
+  editor's photographs by Claude; 17 marks of doubt, mostly witnesses'
+  names in the copy of 1399 and the third Wochneth brother of 1461 (written
+  "Barlyus" and "Wardzch"). Not yet put to the editor. Open: whether
+  Gradziem / Gradzien, the forest beside Łukom and Drzewce, is the Grądzyń
+  of the edition's estates (`gradzyn`, the bond of 1805); whether the note
+  in the margin of p. 14 is in another hand; whether the editor wants p. 15
+  (photographed) to finish no. 16, the king's confirmation of 1461, and a
+  photograph of p. 27 to finish no. 26.
+
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
   2026-10-14): read from the scans by Claude; the editor read 39 doubtful
   readings on two spot sheets (2026-10-14). 70 marks of doubt remain, 29

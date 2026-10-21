@@ -382,5 +382,17 @@
   "kind": "entered_in",
   "to": "apl399806603-1",
   "note": "a certified copy of an inscription in the liquidation table"
+ },
+ {
+  "from": "app5314550221-3",
+  "kind": "confirms",
+  "to": "app5314550221-2",
+  "note": "The copyist's heading: \"Confirmatio Gradziem Regis Casimiri\", King Kazimierz's confirmation of the sale of Gradziem, copied next after it as no. 16; only its beginning is on these pages."
+ },
+ {
+  "from": "app5314550221-5",
+  "kind": "supplements",
+  "to": "app5314550221-4",
+  "note": "The king grants freedom to the colonists in the forest \"which we gave and granted by reason of an exchange\" to the abbot and convent of Ląd, Czernetz, of sixty mansi: the forest of the exchange of 1362."
  }
 ]
