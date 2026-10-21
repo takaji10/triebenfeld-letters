@@ -388,3 +388,18 @@ in three points: the date, the dike clause, and pasture and wood.
   ruling "Venise: no", made for a title in the PSB, had to become a default
   with that one exception, or it would have dropped every Venice in
   Pachoński (1973).
+
+## 12. Wąsicki (1953) (2026-10-21)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `wasicki1953` | Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806", *Przegląd Zachodni* 1953, no. 9-10, pp. 137-179 | Polish | `[p. N]` | yes |
+
+From the editor's scanned PDF; its OCR was not taken over, every page was
+read from the images (`literature/wasicki1953/notes.md`). The Poznań
+department's table of colonies (pp. 162-167, printed sideways), the plans and
+the fold-out table of costs are shown as pictures. It names the Hohenlohe
+estates of Zagórów and Trąbczyn and the colonies founded there in 1805 (pp.
+174-176, from Breyer 1938): a hand-made link to APP 53/968/0/-/801, document
+3 (the lease of 1806), is the obvious next one, once the figures are read on
+both sides.

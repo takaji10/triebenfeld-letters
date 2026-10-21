@@ -1164,6 +1164,15 @@ cloud branches").
 - **A modern work is in copyright**: say so to the editor before it is
   published; the Licences page (`site/rights.md`, `site/de/rechte.md`) says
   the modern works on the Literature page are outside CC BY.
+- **A scanned journal with spaced-out OCR** (Wąsicki 1953): rebuild a draft
+  from the characters' positions (PyMuPDF `rawdict`; a gap wider than a
+  third of the type size is a space), then read every page from its image
+  in two halves and correct the draft. Half pages at 300 dpi are readable;
+  thirds are not needed. The PDF may hold tables printed sideways over a
+  spread and a fold-out sheet with a blank back: turn the pages upright,
+  key the fold-out "[p. unnumbered]" (it becomes "<page>-u1"), and show a
+  table too wide to transcribe faithfully as a picture, saying so in the
+  work's notes.
 - **Heredocs eat backslashes** (again, three times on 2026-10-20): a Python
   edit with a backslash inside a quoted heredoc (a regex escape, a group
   reference, an escaped quote) changed the code it wrote. Use the Edit or

@@ -2120,6 +2120,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The Literature page lists the works by author (the editor): surname first, the title with the English title in italics under it, where it was published, its language.
 - The new works' index hits read and ruled; "Venise" made a default with one exception. The Hohenlohe essay links Pachoński's note 10 on the literature page. The Licences page says the modern works on the Literature page are outside CC BY.
 
+## The literature: Wąsicki (1953) on Prussian colonisation in South Prussia (2026-10-21, not published)
+
+- Jan Wąsicki, "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806", Przegląd Zachodni 1953, no. 9-10, pp. 137-179, at the editor's word: read from the scanned PDF page by page (its OCR not taken over), 101 notes, nine tables in the text; the sideways table of the Poznań department's colonies, the plans and a fold-out table of costs as pictures; Claude's English. It names the Hohenlohe estates of Zagórów and Trąbczyn and the colonies of 1805 on the Warta. Index hits read and ruled (Frankfurt am Main and the Warsaw domain office as exceptions to older rulings).
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -631,3 +631,9 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] Published at your word (2026-10-20).
 - [ ] **You:** a look at the new Literature page and the three works, and
       how useful Mączak and Szwiec are.
+- [x] Wąsicki (1953), Prussian colonisation in South Prussia 1793-1806,
+      added (2026-10-21; LITERATURE_PLAN.md, section 12).
+- [ ] **You:** a look at it, and the word to publish. Offered: a hand-made
+      link from its pages on the Hohenlohe colonies (pp. 174-176) to the
+      lease of 1806 (APP 53/968/0/-/801, document 3); a transcription of
+      its Poznań table (pp. 162-167), now a picture.

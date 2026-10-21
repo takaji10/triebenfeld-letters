@@ -20750,6 +20750,610 @@
   ]
  },
  {
+  "slug": "wasicki1953",
+  "visible": true,
+  "kind": "article",
+  "title": "Kolonizacja niemiecka w okresie Prus Południowych 1793 – 1806",
+  "title_en": "German Colonisation in the Period of South Prussia, 1793–1806",
+  "cite": "Wąsicki (1953)",
+  "author": "Jan Wąsicki",
+  "author_sort": "Wąsicki, Jan",
+  "published": "Przegląd Zachodni, 1953, no. 9-10, pp. 137-179 (Poznań: Instytut Zachodni)",
+  "year": 1953,
+  "language": "pl",
+  "english_by": "Claude",
+  "figures": {
+   "162": "162.jpg",
+   "163": "163.jpg",
+   "164": "164.jpg",
+   "165": "165.jpg",
+   "166": "166.jpg",
+   "167": "167.jpg",
+   "168": "168.jpg",
+   "169": "169.jpg",
+   "173": "173.jpg",
+   "174": "174.jpg",
+   "175": "175.jpg",
+   "176-u1": "176-u1.jpg"
+  },
+  "account_en": "An article by the Polish legal historian Jan Wąsicki on the colonisation carried on by the Prussian state in South Prussia between the second partition and the defeat at Jena, from the files of the South Prussian administration in the State Archive in Poznań (S. P. Z.) and the German literature: the kings' plans and the ministers' reluctance, the recruiting of colonists in Württemberg and on the Rhine, the instructions of 1799 and 1802 that divided colonists into six classes by their means and set the land, help and free years of each, the colonies founded in the Poznań, Warsaw and Kalisz departments, colonisation on private estates, and colonisation in the towns. It says that the \"Olęder\" settlements founded by Polish lords in the seventeenth and eighteenth centuries were the model the Prussian state took over, and it names the Prince of Hohenlohe-Ingelfingen's Zagórów and Trąbczyn estates, the 18 families brought there in 1805 and the villages founded in the Warta valley (Ludwigslust, Emilienheim, Święcia, the Wrąbczyn colony and others), from Breyer. Written in 1953, it frames the subject in the language of its time (\"bourgeois historians\", citing Marx), and its own sources are the Prussian administration's.",
+  "account_de": "Ein Aufsatz des polnischen Rechtshistorikers Jan Wąsicki über die Kolonisation, die der preußische Staat in Südpreußen zwischen der Zweiten Teilung und der Niederlage bei Jena betrieb, nach den Akten der südpreußischen Verwaltung im Staatsarchiv Posen (S. P. Z.) und der deutschen Literatur: die Pläne der Könige und das Zögern der Minister, die Werbung von Kolonisten in Württemberg und am Rhein, die Instruktionen von 1799 und 1802, die die Kolonisten nach ihrem Vermögen in sechs Klassen teilten und für jede Land, Hilfe und Freijahre festsetzten, die in den Departements Posen, Warschau und Kalisch gegründeten Kolonien, die Kolonisation auf privaten Gütern und in den Städten. Er sagt, dass die von polnischen Grundherren im 17. und 18. Jahrhundert gegründeten Olęder-Siedlungen das Vorbild waren, das der preußische Staat übernahm, und er nennt die Güter Zagórów und Trąbczyn des Fürsten zu Hohenlohe-Ingelfingen, die 1805 dorthin gebrachten 18 Familien und die im Warthetal gegründeten Dörfer (Ludwigslust, Emilienheim, Święcia, die Kolonie Wrąbczyn und andere), nach Breyer. Geschrieben 1953, fasst er den Gegenstand in der Sprache seiner Zeit („bürgerliche Historiker“, Zitate von Marx); seine eigenen Quellen sind die der preußischen Verwaltung.",
+  "passages": [
+   {
+    "key": "137",
+    "part": null,
+    "page": "137",
+    "pl": {
+     "line": 1,
+     "chars": 2744
+    },
+    "en": {
+     "line": 1,
+     "chars": 2836
+    }
+   },
+   {
+    "key": "138",
+    "part": null,
+    "page": "138",
+    "pl": {
+     "line": 27,
+     "chars": 2948
+    },
+    "en": {
+     "line": 27,
+     "chars": 3152
+    }
+   },
+   {
+    "key": "139",
+    "part": null,
+    "page": "139",
+    "pl": {
+     "line": 47,
+     "chars": 3144
+    },
+    "en": {
+     "line": 47,
+     "chars": 3276
+    }
+   },
+   {
+    "key": "140",
+    "part": null,
+    "page": "140",
+    "pl": {
+     "line": 59,
+     "chars": 2926
+    },
+    "en": {
+     "line": 59,
+     "chars": 2998
+    }
+   },
+   {
+    "key": "141",
+    "part": null,
+    "page": "141",
+    "pl": {
+     "line": 71,
+     "chars": 3242
+    },
+    "en": {
+     "line": 71,
+     "chars": 3248
+    }
+   },
+   {
+    "key": "142",
+    "part": null,
+    "page": "142",
+    "pl": {
+     "line": 89,
+     "chars": 3244
+    },
+    "en": {
+     "line": 89,
+     "chars": 3386
+    }
+   },
+   {
+    "key": "143",
+    "part": null,
+    "page": "143",
+    "pl": {
+     "line": 107,
+     "chars": 3216
+    },
+    "en": {
+     "line": 107,
+     "chars": 3307
+    }
+   },
+   {
+    "key": "144",
+    "part": null,
+    "page": "144",
+    "pl": {
+     "line": 125,
+     "chars": 3109
+    },
+    "en": {
+     "line": 125,
+     "chars": 3297
+    }
+   },
+   {
+    "key": "145",
+    "part": null,
+    "page": "145",
+    "pl": {
+     "line": 145,
+     "chars": 3187
+    },
+    "en": {
+     "line": 145,
+     "chars": 3185
+    }
+   },
+   {
+    "key": "146",
+    "part": null,
+    "page": "146",
+    "pl": {
+     "line": 163,
+     "chars": 2999
+    },
+    "en": {
+     "line": 163,
+     "chars": 3147
+    }
+   },
+   {
+    "key": "147",
+    "part": null,
+    "page": "147",
+    "pl": {
+     "line": 181,
+     "chars": 3199
+    },
+    "en": {
+     "line": 181,
+     "chars": 3253
+    }
+   },
+   {
+    "key": "148",
+    "part": null,
+    "page": "148",
+    "pl": {
+     "line": 199,
+     "chars": 3037
+    },
+    "en": {
+     "line": 199,
+     "chars": 3057
+    }
+   },
+   {
+    "key": "149",
+    "part": null,
+    "page": "149",
+    "pl": {
+     "line": 217,
+     "chars": 3270
+    },
+    "en": {
+     "line": 217,
+     "chars": 3269
+    }
+   },
+   {
+    "key": "150",
+    "part": null,
+    "page": "150",
+    "pl": {
+     "line": 229,
+     "chars": 3378
+    },
+    "en": {
+     "line": 229,
+     "chars": 3448
+    }
+   },
+   {
+    "key": "151",
+    "part": null,
+    "page": "151",
+    "pl": {
+     "line": 262,
+     "chars": 3126
+    },
+    "en": {
+     "line": 262,
+     "chars": 3227
+    }
+   },
+   {
+    "key": "152",
+    "part": null,
+    "page": "152",
+    "pl": {
+     "line": 295,
+     "chars": 3348
+    },
+    "en": {
+     "line": 295,
+     "chars": 3322
+    }
+   },
+   {
+    "key": "153",
+    "part": null,
+    "page": "153",
+    "pl": {
+     "line": 320,
+     "chars": 3163
+    },
+    "en": {
+     "line": 320,
+     "chars": 3184
+    }
+   },
+   {
+    "key": "154",
+    "part": null,
+    "page": "154",
+    "pl": {
+     "line": 332,
+     "chars": 4064
+    },
+    "en": {
+     "line": 332,
+     "chars": 4263
+    }
+   },
+   {
+    "key": "155",
+    "part": null,
+    "page": "155",
+    "pl": {
+     "line": 344,
+     "chars": 3203
+    },
+    "en": {
+     "line": 344,
+     "chars": 3285
+    }
+   },
+   {
+    "key": "156",
+    "part": null,
+    "page": "156",
+    "pl": {
+     "line": 366,
+     "chars": 2998
+    },
+    "en": {
+     "line": 366,
+     "chars": 3097
+    }
+   },
+   {
+    "key": "157",
+    "part": null,
+    "page": "157",
+    "pl": {
+     "line": 396,
+     "chars": 2972
+    },
+    "en": {
+     "line": 396,
+     "chars": 3061
+    }
+   },
+   {
+    "key": "158",
+    "part": null,
+    "page": "158",
+    "pl": {
+     "line": 414,
+     "chars": 3394
+    },
+    "en": {
+     "line": 414,
+     "chars": 3579
+    }
+   },
+   {
+    "key": "159",
+    "part": null,
+    "page": "159",
+    "pl": {
+     "line": 437,
+     "chars": 3919
+    },
+    "en": {
+     "line": 437,
+     "chars": 5084
+    }
+   },
+   {
+    "key": "160",
+    "part": null,
+    "page": "160",
+    "pl": {
+     "line": 453,
+     "chars": 3285
+    },
+    "en": {
+     "line": 453,
+     "chars": 3603
+    }
+   },
+   {
+    "key": "161",
+    "part": null,
+    "page": "161",
+    "pl": {
+     "line": 467,
+     "chars": 4004
+    },
+    "en": {
+     "line": 467,
+     "chars": 4023
+    }
+   },
+   {
+    "key": "162",
+    "part": null,
+    "page": "162",
+    "pl": {
+     "line": 501,
+     "chars": 0
+    },
+    "en": {
+     "line": 501,
+     "chars": 0
+    }
+   },
+   {
+    "key": "163",
+    "part": null,
+    "page": "163",
+    "pl": {
+     "line": 503,
+     "chars": 0
+    },
+    "en": {
+     "line": 503,
+     "chars": 0
+    }
+   },
+   {
+    "key": "164",
+    "part": null,
+    "page": "164",
+    "pl": {
+     "line": 505,
+     "chars": 0
+    },
+    "en": {
+     "line": 505,
+     "chars": 0
+    }
+   },
+   {
+    "key": "165",
+    "part": null,
+    "page": "165",
+    "pl": {
+     "line": 507,
+     "chars": 0
+    },
+    "en": {
+     "line": 507,
+     "chars": 0
+    }
+   },
+   {
+    "key": "166",
+    "part": null,
+    "page": "166",
+    "pl": {
+     "line": 509,
+     "chars": 0
+    },
+    "en": {
+     "line": 509,
+     "chars": 0
+    }
+   },
+   {
+    "key": "167",
+    "part": null,
+    "page": "167",
+    "pl": {
+     "line": 511,
+     "chars": 0
+    },
+    "en": {
+     "line": 511,
+     "chars": 0
+    }
+   },
+   {
+    "key": "168",
+    "part": null,
+    "page": "168",
+    "pl": {
+     "line": 513,
+     "chars": 0
+    },
+    "en": {
+     "line": 513,
+     "chars": 0
+    }
+   },
+   {
+    "key": "169",
+    "part": null,
+    "page": "169",
+    "pl": {
+     "line": 515,
+     "chars": 262
+    },
+    "en": {
+     "line": 515,
+     "chars": 248
+    }
+   },
+   {
+    "key": "170",
+    "part": null,
+    "page": "170",
+    "pl": {
+     "line": 519,
+     "chars": 2994
+    },
+    "en": {
+     "line": 519,
+     "chars": 3184
+    }
+   },
+   {
+    "key": "171",
+    "part": null,
+    "page": "171",
+    "pl": {
+     "line": 554,
+     "chars": 2990
+    },
+    "en": {
+     "line": 554,
+     "chars": 3073
+    }
+   },
+   {
+    "key": "172",
+    "part": null,
+    "page": "172",
+    "pl": {
+     "line": 578,
+     "chars": 2773
+    },
+    "en": {
+     "line": 578,
+     "chars": 2980
+    }
+   },
+   {
+    "key": "173",
+    "part": null,
+    "page": "173",
+    "pl": {
+     "line": 600,
+     "chars": 1267
+    },
+    "en": {
+     "line": 600,
+     "chars": 1325
+    }
+   },
+   {
+    "key": "174",
+    "part": null,
+    "page": "174",
+    "pl": {
+     "line": 612,
+     "chars": 1389
+    },
+    "en": {
+     "line": 612,
+     "chars": 1442
+    }
+   },
+   {
+    "key": "175",
+    "part": null,
+    "page": "175",
+    "pl": {
+     "line": 626,
+     "chars": 788
+    },
+    "en": {
+     "line": 626,
+     "chars": 810
+    }
+   },
+   {
+    "key": "176",
+    "part": null,
+    "page": "176",
+    "pl": {
+     "line": 634,
+     "chars": 3114
+    },
+    "en": {
+     "line": 634,
+     "chars": 3236
+    }
+   },
+   {
+    "key": "176-u1",
+    "part": null,
+    "page": null,
+    "pl": {
+     "line": 660,
+     "chars": 124
+    },
+    "en": {
+     "line": 660,
+     "chars": 141
+    }
+   },
+   {
+    "key": "177",
+    "part": null,
+    "page": "177",
+    "pl": {
+     "line": 664,
+     "chars": 3203
+    },
+    "en": {
+     "line": 664,
+     "chars": 3247
+    }
+   },
+   {
+    "key": "178",
+    "part": null,
+    "page": "178",
+    "pl": {
+     "line": 678,
+     "chars": 3030
+    },
+    "en": {
+     "line": 678,
+     "chars": 3191
+    }
+   },
+   {
+    "key": "179",
+    "part": null,
+    "page": "179",
+    "pl": {
+     "line": 700,
+     "chars": 3264
+    },
+    "en": {
+     "line": 700,
+     "chars": 3337
+    }
+   }
+  ]
+ },
+ {
   "slug": "zychlinski1885",
   "visible": true,
   "kind": "reference",

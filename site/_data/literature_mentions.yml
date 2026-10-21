@@ -350,6 +350,15 @@ person:
     - key: '39'
       en: p. 39
       de: S. 39
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
+    - key: '176'
+      en: p. 176
+      de: S. 176
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -865,6 +874,18 @@ person:
     - key: c07
       en: V. Kapitel.
       de: V. Kapitel.
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '142'
+      en: p. 142
+      de: S. 142
+    - key: '143'
+      en: p. 143
+      de: S. 143
+    - key: '144'
+      en: p. 144
+      de: S. 144
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -1296,6 +1317,30 @@ person:
     - key: '219'
       en: p. 219
       de: S. 219
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '144'
+      en: p. 144
+      de: S. 144
+    - key: '147'
+      en: p. 147
+      de: S. 147
+    - key: '148'
+      en: p. 148
+      de: S. 148
+    - key: '153'
+      en: p. 153
+      de: S. 153
+    - key: '154'
+      en: p. 154
+      de: S. 154
+    - key: '155'
+      en: p. 155
+      de: S. 155
+    - key: '158'
+      en: p. 158
+      de: S. 158
   schulenburg:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1315,6 +1360,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '143'
+      en: p. 143
+      de: S. 143
   stein:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1445,6 +1496,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '143'
+      en: p. 143
+      de: S. 143
   thaer:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1724,6 +1781,66 @@ person:
     - key: '43'
       en: p. 43
       de: S. 43
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '140'
+      en: p. 140
+      de: S. 140
+    - key: '141'
+      en: p. 141
+      de: S. 141
+    - key: '142'
+      en: p. 142
+      de: S. 142
+    - key: '144'
+      en: p. 144
+      de: S. 144
+    - key: '145'
+      en: p. 145
+      de: S. 145
+    - key: '146'
+      en: p. 146
+      de: S. 146
+    - key: '147'
+      en: p. 147
+      de: S. 147
+    - key: '148'
+      en: p. 148
+      de: S. 148
+    - key: '149'
+      en: p. 149
+      de: S. 149
+    - key: '150'
+      en: p. 150
+      de: S. 150
+    - key: '151'
+      en: p. 151
+      de: S. 151
+    - key: '153'
+      en: p. 153
+      de: S. 153
+    - key: '155'
+      en: p. 155
+      de: S. 155
+    - key: '157'
+      en: p. 157
+      de: S. 157
+    - key: '159'
+      en: p. 159
+      de: S. 159
+    - key: '160'
+      en: p. 160
+      de: S. 160
+    - key: '161'
+      en: p. 161
+      de: S. 161
+    - key: '178'
+      en: p. 178
+      de: S. 178
+    - key: '179'
+      en: p. 179
+      de: S. 179
   wartensleben:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1935,6 +2052,12 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
   krotoszyn:
   - work: held1801
     cite: Held (1801)
@@ -2245,6 +2368,12 @@ place:
     - key: '31'
       en: p. 31
       de: S. 31
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '179'
+      en: p. 179
+      de: S. 179
   lowyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2274,6 +2403,12 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
   polajewo:
   - work: held1801
     cite: Held (1801)
@@ -2332,6 +2467,12 @@ place:
     - key: '21'
       en: p. 21
       de: S. 21
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
   swiechocin:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2364,6 +2505,15 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
+    - key: '176'
+      en: p. 176
+      de: S. 176
   szetlewek:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2389,6 +2539,12 @@ place:
     - key: '21'
       en: p. 21
       de: S. 21
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
   trabczyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2441,6 +2597,12 @@ place:
     - key: '21'
       en: p. 21
       de: S. 21
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '174'
+      en: p. 174
+      de: S. 174
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -2494,6 +2656,12 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '176'
+      en: p. 176
+      de: S. 176
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:
@@ -2577,6 +2745,12 @@ place:
     - key: '39'
       en: p. 39
       de: S. 39
+  - work: wasicki1953
+    cite: Wąsicki (1953)
+    pages:
+    - key: '175'
+      en: p. 175
+      de: S. 175
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:

@@ -115,7 +115,14 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-20)
+## Where things stand (2026-10-21)
+
+- **Wąsicki (1953)** (`wasicki1953`, added 2026-10-21, **not published**):
+  the article on Prussian colonisation in South Prussia 1793-1806 from
+  Przegląd Zachodni, read from the scanned PDF, Claude's English, the
+  sideways table and the plans as pictures. It names the Zagórów and
+  Trąbczyn estates and the 1805 colonies (pp. 174-176, from Breyer).
+  `docs/LITERATURE_PLAN.md`, section 12. Open: the word to publish.
 
 - **Three more works of the literature** (2026-10-20, **published 2026-10-20**):
   Pachoński (1973) on the Polish emigrés at Venice (its note 10 names the
