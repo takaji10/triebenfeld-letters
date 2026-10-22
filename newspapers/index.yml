@@ -4,11 +4,13 @@
 #
 # Every pair below was read before it was ruled (2026-10-22, from
 # review/newspapers/mentions.md, made by newspapers_index.py --sheet). The
-# five items: kuryerpolski1754075 (the funeral report of 1754),
+# six items: kuryerpolski1754075 (the funeral report of 1754),
 # dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937),
 # ostdeutscherbeobachter19420197 (the feature on Łazińsk of 1942),
 # twojaslupca20150706 (the report of the 775th-anniversary jubilee of
-# 2015) and slowo18920104 (the sale notice of 4 January 1892).
+# 2015), slowo18920104 (the sale notice of 4 January 1892) and
+# luteraniezagorow (the parish's own chronicle of the Zagórów filial, on
+# the Konin parish's website, undated).
 people:
   glowiecki:
     "Głowiecki": true     # the abbot of Ląd at the funeral (1754): the item is
@@ -123,9 +125,25 @@ places:
   wolica:
     "Wolicki": "no: the surname of Józef Wolicki, one of the villagers
       honoured in the 2015 report; the place Wolica is not of the article"
+  grodziec:
+    # The parish of Grodziec, named by its place, twice in the chronicle:
+    # "W Zagórowie założono filiał parafii Grodziec" (the filial founded in
+    # Zagórów) and "z Grodźca, Konina, Żychlina" (the incumbents of
+    # 1817-1856). The place is of the register (added 2026-10-21, from the
+    # Encyclopedia of Camps and Ghettos; no document of the edition is about
+    # it): the mentions stand — the parish is the place's own church, the
+    # one whose filial the chronicle's parish was until 1856.
+    "Grodziec": true
+    "Grodźca": true
   zagorowo:
     # The town of Zagórów: the 1937 notes are the town's ("m. Zagórowa", the
     # Zarząd miasta), and the item is the first witness of the town the
-    # estate stands at in the press of its own day.
+    # estate stands at in the press of its own day. The parish's chronicle
+    # names the town bare in its heading ("Zagórów filiał Parafii
+    # Ewangelicko - Augsburskiej w Koninie") and throughout ("Parafii w
+    # Zagórowie", "W Zagórowie założono filiał", "w Zagórowie", the
+    # parish's own site's title element "Parafia Ewangelicko-Augsburska w
+    # Zagórowie").
     "Zagórowa": true
     "Zagórowie": true
+    "Zagórów": true

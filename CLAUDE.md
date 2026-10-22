@@ -334,6 +334,31 @@ so check them.
   Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
   Miączyński heirs (NEEDS_CONFIRMATION). Not
   published.
+- **The parish's own chronicle** (`luteraniezagorow`, added 2026-10-22,
+  **committed, not published**): the page "Zagórów filiał Parafii
+  Ewangelicko - Augsburskiej w Koninie" on Luteranie Konin
+  (luteranie.konin.pl), the Konin parish's website — "Ważniejsze
+  wydarzenia z życia Parafii w Zagórowie", a chronicle in dated entries
+  from the Reformation among the monks of Ląd in the sixteenth century to
+  the closing of the Evangelical Senior Citizens' Home in 2009, the
+  section's first item from a parish website and its first with no date
+  anywhere (the site's footer reads © 2011; the page stands as of about
+  2015 by its own menus). The editor's rulings of the day: worked on a
+  **separate branch from main** (other work being done there); shown
+  whole (the rights approved), **no date in the slug** — the plan's rule
+  for a web item given a recorded exception, the footer's 2011 kept as
+  the list's sort year alone — **no era** (the `era:` field left out for
+  the first time), **no picture** (the page's two church photographs and
+  the small-print photographs line, Foto Sypniewski, stay off). Read from
+  the page's HTML, nothing tidied: the page's line breaks inside its
+  paragraphs kept; the paste's "Kościół Ewangelicko-Augsburski w
+  Zagórowie" was the photographs' alt text, not prose. Index ruled
+  (`newspapers/index.yml`): Zagórów (three spellings) and Grodziec (two)
+  stand; "Lądu" and the Polish "Śląska, Pomorza, Prus" matched by no
+  pattern (NEEDS_CONFIRMATION). Its bearing: Werner's Wreschen parish
+  (the care from Września to 1817, entry 201) and Kneifel's church of
+  1878-1896. Read `newspapers/luteraniezagorow/notes.md` first. Not
+  published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów

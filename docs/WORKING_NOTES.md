@@ -1565,6 +1565,17 @@ cloud branches").
 
 ## Traps in the tools
 
+- **A bare web fetch of an HTML page invents print slips** (2026-10-22,
+  the Luteranie Konin parish page). The text conversion drops `<br/>` and
+  `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived
+  as "parafiiz Grodźca" — a missing space that the page does not have —
+  and a padded second line arrived as a run of spaces mid-paragraph. For
+  a web item, fetch the **HTML source** (curl into scratch/) and read
+  that before ruling anything a slip; the page's own line breaks are
+  part of "as printed" for a page that sets them deliberately, and a
+  run of non-breaking spaces at a broken line's start cannot stand at a
+  line's start in the Markdown (four spaces and more make a code block)
+  — keep the break, leave the padding to the notes.
 - **A file named .jpg can be a WebP** (2026-10-22, the Dziennik Poznański
   clipping). Windows' own imaging (GDI+, WIC) refuses it —
   `System.Drawing.Bitmap` throws "Parameter is not valid" — while PIL reads

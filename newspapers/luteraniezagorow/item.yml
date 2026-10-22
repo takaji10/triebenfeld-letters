@@ -1,0 +1,164 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: luteraniezagorow
+
+# The item as it is cited on the web: the page "Zagórów filiał Parafii
+# Ewangelicko - Augsburskiej w Koninie" on Luteranie Konin, the Parafia
+# Ewangelicko-Augsburska w Koninie's own website. The page carries no date
+# of its own; the citation says so, "bd." (bez daty, undated) — the site's
+# footer reading "Projekt i wykonanie © Walrom 2011".
+ref: >-
+  Luteranie Konin (luteranie.konin.pl), bd. [bez daty]: "Zagórów filiał
+  Parafii Ewangelicko - Augsburskiej w Koninie"
+newspaper: Luteranie Konin
+published: >-
+  Luteranie Konin (luteranie.konin.pl), the website of the Parafia
+  Ewangelicko-Augsburska w Koninie; the page undated, the site's footer
+  reading "Projekt i wykonanie © Walrom 2011"
+title: >-
+  The chronicle of the Zagórów filial on the Konin parish's website:
+  the more important events in the life of the parish of Zagórów, from the
+  Reformation conducted by the monks of Ląd in the sixteenth century,
+  through the evangelicals' arrival from Silesia, Pomerania and Prussia
+  (1720-1817), the filial of the parish of Grodziec and the parish erected
+  on 24 December 1856, the church bought for, founded and consecrated
+  between 1857 and 1882, the cantor's house of 1913 and the rectory of
+  1938, the first service after the Second World War (18 July 1954) and
+  the Evangelical Senior Citizens' Home of 1995, to the electronic clock
+  and bells of 2008 and the closing of the Senior Citizens' Home in 2009
+title_en: >-
+  The chronicle of the Zagórów filial on the Konin parish's website:
+  the more important events in the life of the parish, from the
+  Reformation of the sixteenth century to the closing of the Evangelical
+  Senior Citizens' Home in 2009
+cite: Luteranie Konin, bd. (the site © 2011)
+author: ""
+# The only year on the page is the site footer's "© Walrom 2011". It is
+# used for the list's order alone (newspapers_site.py sorts the items by
+# year); it is not asserted as the page's own date (the editor's ruling of
+# 2026-10-22: no date in the slug, the plan's rule for a web item given a
+# recorded exception).
+year: 2011
+date_span: "undated (the site © 2011)"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The editor's ruling
+# of 2026-10-22: the item stands in no era, and the field is left out.
+
+# Shown whole on the site. The page is the parish's own and under
+# copyright (the site's footer reads © Walrom 2011); the rights are
+# approved by the editor (2026-10-22: "Show whole"). No picture: the
+# page's two photographs of the church stay off the site, their places
+# marked "[Obraz]" (the editor's ruling of the same day).
+
+# Where the page comes from: the page itself on the parish's website.
+source: https://luteranie.konin.pl/zagorow.html
+
+# The English was made in the session that brought the page in (the
+# editor's word, 2026-10-22); it is not checked whole.
+english_by: Claude, 2026-10-22
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): the parish's own chronicle of its
+# Zagórów filial, written by the parish for the visitors of its website —
+# not a historian's account but the congregation speaking of itself, in
+# the shape of dated entries. It carries the parish's story the edition
+# otherwise knows from Werner's parish history of the province (the
+# Września parish that served Zagórów's evangelicals until 1817) and from
+# Kneifel's church history (the church of 1878-1896), and it reaches past
+# both, to the Dom Seniora of 1995-2009.
+account_en: >-
+  The chronicle of the Zagórów filial on the Konin parish's own website,
+  Luteranie Konin: the more important events in the life of the parish in
+  Zagórów, anonymous and undated, told in the shape of dated entries from
+  the Reformation among the monks of Ląd in the sixteenth century to the
+  closing of the Evangelical Senior Citizens' Home in 2009. The page is
+  the congregation speaking of itself on its own site: the evangelicals
+  who came from Silesia, Pomerania and Prussia between 1720 and 1817 and
+  were served from Września; the filial of Grodziec; the parish erected on
+  24 December 1856; the plot of 1857, the foundation stone of 1878 and the
+  consecration on the first Sunday in Advent 1882; the cantor's house of
+  1913 and the rectory of 1938; the first service after the Second World
+  War, celebrated by the Rev. Karol Świtalski on 18 July 1954; the
+  Evangelical Senior Citizens' Home consecrated in the former cantor's
+  house by Bishop Michał Warczyński in 1995 and closed in 2009; and the
+  electronic clock and bells of 2008.
+account_de: >-
+  Die Chronik der Filiale Zagórów auf der eigenen Website der Gemeinde
+  Konin, Luteranie Konin: die wichtigeren Ereignisse aus dem Leben der
+  Parafie in Zagórów, anonym und undatiert, in der Form datierter
+  Einträge erzählt, von der Reformation unter den Mönchen von Ląd im
+  sechzehnten Jahrhundert bis zur Schließung des Evangelischen
+  Seniorenheims 2009. Die Seite ist die Gemeinde, die von sich selbst auf
+  ihrer eigenen Site spricht: die Evangelischen, die zwischen 1720 und
+  1817 aus Schlesien, Pommern und Preußen kamen und von Września aus
+  betreut wurden; die Filiale von Grodziec; die am 24. Dezember 1856
+  errichtete Parafie; der Platz von 1857, der Grundstein von 1878 und die
+  Weihe am ersten Adventssonntag 1882; das Kantorenhaus von 1913 und das
+  Pfarrhaus von 1938; der erste Gottesdienst nach dem Zweiten Weltkrieg,
+  den am 18. Juli 1954 Pfarrer Karol Świtalski hielt; das Evangelische
+  Seniorenheim, das 1995 im ehemaligen Kantorenhaus durch Bischof
+  Michał Warczyński geweiht und 2009 geschlossen wurde; und die
+  elektronische Uhr und die elektronischen Glocken von 2008.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  The page "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"
+  ("Zagórów, the filial of the Evangelical-Augsburg Parish in Konin") on
+  Luteranie Konin, the Konin parish's website, headed "Ważniejsze
+  wydarzenia z życia Parafii w Zagórowie" ("The more important events in
+  the life of the Parish in Zagórów"). The chronicle, in dated entries:
+  in the sixteenth century, the Reformation movement conducted by the
+  monks of Ląd; in the years 1720-1817, evangelicals arriving from
+  Silesia, Pomerania and Prussia, founding villages, raising chapels,
+  under the pastoral care of the incumbent of the evangelical parish at
+  Września; in the years 1817-1856, the care exercised by the incumbents
+  of the parishes of Grodziec, Konin and Żychlin, and a filial of the
+  parish of Grodziec founded in Zagórów. Then the entries of the parish's
+  own life: 24 December 1856, the erecting of the Parish in Zagórów; 1857,
+  the Parish bought the plot for the building of the Church; 8 May 1878,
+  the laying of the foundation stone for the Church; the first Sunday in
+  Advent 1882, the consecration of the Church; 1913, the building of the
+  cantor's house; 16 October 1938, the consecration of the rectory; 18
+  July 1954, the first service after the Second World War, celebrated by
+  the Rev. Karol Świtalski; 16 June 1995, the consecration of the former
+  cantor's house as the Evangelical Senior Citizens' Home by His
+  Excellency the Rev. Bishop Michał Warczyński; 17 August 2008, a new
+  electronic clock and electronic bells; 30 November 2009, the Evangelical
+  Senior Citizens' Home ended its activity, with a link ("czytaj więcej")
+  to the site's own page about it. The page carries two photographs of the
+  church, both captioned in their alt text "Kościół Ewangelicko-Augsburski
+  w Zagórowie"; the page's small print credits the photographs to the
+  studio Foto Sypniewski.
+summary_de: >-
+  Die Seite „Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"
+  („Zagórów, die Filiale der Evangelisch-Augsburgischen Parafie in
+  Konin") auf Luteranie Konin, der Website der Gemeinde Konin, mit der
+  Überschrift „Ważniejsze wydarzenia z życia Parafii w Zagórowie" („Die
+  wichtigeren Ereignisse aus dem Leben der Parafie in Zagórów"). Die
+  Chronik, in datierten Einträgen: im sechzehnten Jahrhundert die von den
+  Mönchen von Ląd getragene reformatorische Bewegung; in den Jahren
+  1720-1817 die aus Schlesien, Pommern und Preußen kommenden
+  Evangelischen, die Dörfer gründeten, Kapellen errichteten und unter der
+  seelsorgerischen Betreuung des Pfarrers der evangelischen Parafie in
+  Września standen; in den Jahren 1817-1856 die Betreuung durch die
+  Pfarrer der Parafien von Grodziec, Konin und Żychlin, und in Zagórów
+  eine Filiale der Parafie Grodziec gegründet. Dann die Einträge des
+  eigenen Lebens der Parafie: 24. Dezember 1856, die Errichtung der
+  Parafie in Zagórów; 1857, die Parafie kaufte den Platz zum Bau der
+  Kirche; 8. Mai 1878, die Legung des Grundsteins für die Kirche; der
+  erste Adventssonntag 1882, die Weihe der Kirche; 1913, der Bau des
+  Kantorenhauses; 16. Oktober 1938, die Weihe des Pfarrhauses; 18. Juli
+  1954, der erste Gottesdienst nach dem Zweiten Weltkrieg, gehalten von
+  Pfarrer Karol Świtalski; 16. Juni 1995, die Weihe des ehemaligen
+  Kantorenhauses zum Evangelischen Seniorenheim durch Seine Exzellenz
+  Pfarrer Bischof Michał Warczyński; 17. August 2008, eine neue
+  elektronische Uhr und elektronische Glocken; 30. November 2009, das
+  Evangelische Seniorenheim stellte seine Tätigkeit ein, mit einem Link
+  („czytaj więcej") zur eigenen Seite der Site darüber. Die Seite trägt
+  zwei Photographien der Kirche, beide in ihrem Alt-Text „Kościół
+  Ewangelicko-Augsburski w Zagórowie" betitelt; die Kleinschrift der Seite
+  schreibt die Photographien dem Atelier Foto Sypniewski zu.

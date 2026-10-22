@@ -857,3 +857,21 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       English you supplied, when you want it.
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 27. The newspapers: the parish's own chronicle, Luteranie Konin (added 2026-10-22)
+
+- [x] The page brought in (`newspapers/luteraniezagorow/`): the HTML
+      fetched and taken as printed, nothing tidied, the English made in
+      session; the page's two photographs and the photographs line (Foto
+      Sypniewski) left off at your word, their places marked "[Obraz]".
+- [x] The undated page settled: no date in the slug (your ruling; the
+      plan's rule for a web item given a recorded exception), the footer's
+      2011 kept as the list's sort year alone; the item stands in no era
+      (the `era:` field left out of item.yml for the first time).
+- [x] The index ruled (three new pairs: Zagórów bare, Grodziec twice).
+- [ ] **You:** whether to extend the register's patterns for the forms
+      still unmatched — the same open question as the 2015 report's Ląd
+      forms, now with this item's "Lądu" and its Polish "Śląska, Pomorza,
+      Prus" beside it (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

@@ -2481,6 +2481,74 @@ lose his estates. The era page writes Konotop, not Kontop.
   register, so the powiat's name matches no pattern); the 1914 date.
   `docs/NEWSPAPERS_PLAN.md`, section 5. Not published.
 
+## 2026-10-22 — The newspapers: the parish's own chronicle of the Zagórów filial
+
+- **A new item**, `newspapers/luteraniezagorow/`: the page "Zagórów filiał
+  Parafii Ewangelicko - Augsburskiej w Koninie" on **Luteranie Konin**
+  (luteranie.konin.pl/zagorow.html), the Parafia
+  Ewangelicko-Augsburska w Koninie's own website — headed "Ważniejsze
+  wydarzenia z życia Parafii w Zagórowie", a chronicle in dated entries:
+  the Reformation among the monks of Ląd in the sixteenth century; the
+  evangelicals from Silesia, Pomerania and Prussia, 1720-1817, under the
+  care of the incumbent of the evangelical parish at Września; the
+  incumbents of Grodziec, Konin and Żychlin, 1817-1856, and the filial of
+  Grodziec founded in Zagórów; the parish erected 24 December 1856; the
+  plot of 1857, the foundation stone of 8 May 1878, the consecration on
+  the first Sunday in Advent 1882; the cantor's house of 1913; the
+  rectory of 16 October 1938; the first service after the Second World
+  War, 18 July 1954, the Rev. Karol Świtalski; the Evangelical Senior
+  Citizens' Home consecrated in the former cantor's house by Bishop
+  Michał Warczyński, 16 June 1995, closed 30 November 2009; the
+  electronic clock and bells, 17 August 2008. Given by the editor as a
+  website "so I'd group it with newspapers and journals", with their own
+  pasted text as first witness. Worked on a **separate branch from main**
+  at the editor's word (other work being done there).
+- **The page is undated.** No date anywhere on it; the site's footer reads
+  "Projekt i wykonanie © Walrom 2011" (the site's making), and the page's
+  own menus point its top "Archiwum" at archiwum2015.html and its footer
+  menu still at archiwum2013.html — the page stands as of about 2015. The
+  editor's rulings: **no date in the slug** (the plan's rule for a web
+  item given a recorded exception, `docs/NEWSPAPERS_PLAN.md` section 1) —
+  the slug is `luteraniezagorow`, site and page; the footer's 2011 kept as
+  the `year:` of item.yml **for the list's order alone**, the comment in
+  the file saying so; the citation reads "bd. [bez daty]".
+- **Rights**: the page is the parish's own and under copyright; shown
+  whole at the editor's word, the rights approved, no rights entry added.
+  **No picture**: the page's two photographs of the church stay off the
+  site, their places marked "[Obraz]" ("[Picture]" in the English), and
+  so does the page's small-print line crediting the photographs to the
+  studio Foto Sypniewski (the editor's ruling). **No era**: the item
+  stands in no era, the `era:` field left out of item.yml for the first
+  time (the comment in the file records it).
+- **How it was read**: from the page's HTML, fetched in session, nothing
+  tidied; no OCR, no spot sheet. The editor's pasted text settled against
+  the HTML: the twice-standing "Kościół Ewangelicko-Augsburski w
+  Zagórowie" is the two photographs' alt/title text, not prose;
+  "parafiiz Grodźca" of a bare fetch is an artifact, the page breaking
+  the line after "parafii" (the transcription keeps the break); the page
+  pads the broken second lines of the 1856 and 1995 entries with ten
+  non-breaking spaces — layout, not text, the break kept and the padding
+  not; "plebani" (1938) stands as printed, for plebanii; the "(czytaj
+  więcej)" of the 2009 entry is a link to the site's own page about the
+  Dom Seniora, kept as printed.
+- **The index run**: 54 hits in 9 items; the item's three new pairs all
+  ruled in — `zagorowo` "Zagórów" (the heading, the bare nominative) and
+  `grodziec` "Grodziec"/"Grodźca" (the parish of Grodziec, named by its
+  place). Not matched by any pattern: "Lądu" (the genitive) and the
+  Polish region names "Śląska, Pomorza, Prus" (the register's Schlesien
+  pattern is the German word only) — the same open question as the 2015
+  report's Ląd forms (NEEDS_CONFIRMATION, "The newspapers").
+- **What it bears on**: Werner (1904), entry 201 — the Wreschen
+  (Września) parish that served Zagórów's evangelicals until 1817 is the
+  page's "1720 - 1817 ... we Wrześni", and the page's Grodziec, Konin and
+  Żychlin years are the story Werner's entry stops at; Kneifel (1964) —
+  the church of 1878-1896 (the plot, the foundation stone, the
+  consecration) and the diocese list's "Zagörow mit dem Filial
+  Lissewo-Pyzdry". The page names no sources; nothing in it contradicts
+  the edition's documents. Not published.
+  `docs/NEWSPAPERS_PLAN.md`, section 5;
+  `newspapers/luteraniezagorow/notes.md` first.
+
 ## 2026-10-22 — The literature: Słowiński and Połom (2024), "Zerwane ogniwo", and Słowiński (2023) finished
 
 - **A new work**, `literature/slowinskipolom2024/`: the collective volume
