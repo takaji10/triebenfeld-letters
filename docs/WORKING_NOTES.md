@@ -1861,6 +1861,22 @@ cloud branches").
   raised runs (`ended()`), and a paragraph's run-over line must never join
   a paragraph of another kind on a page that is mostly figures.
 
+- **The content is rendered before the layout** (2026-10-22, the place
+  pages). A generated page's body cannot use the layout's assignments:
+  Jekyll renders the content first and inserts it into the layout
+  afterwards, so a `{{ t.something }}` in the body renders empty - the
+  urls.html include has not run in the content's scope. A generated body
+  that wants the site's labels includes urls.html itself at its top
+  (pipeline/places/place_pages.py does). Caught on the first build, by the
+  eye on the built page (the `<dt>`s came out empty); the verifier's
+  section check did not catch it, because it looked for the section and
+  not for the labels - a check that a label is non-empty would have.
+- **The console's display is not the file** (2026-10-22). PowerShell's
+  output mangles UTF-8 on this machine (Polish diacritics become "?"),
+  which nearly sent a session to "fix" correct files. When a built page
+  looks wrong in the console, read it with Python
+  (`python -X utf8 -c "..."`) before changing anything.
+
 ## Desktop and cloud
 
 | | Desktop (the editor's machine) | Cloud session |

@@ -1,0 +1,36 @@
+# The page of a place that has its own page on the site
+# (docs/PLACES_PLAN.md; the editor, 2026-10-22). The slug is the place's
+# slug in reference/places.yml and its card's on the Places page; the page
+# hangs on that card, is linked from it, and shows the sources kept in the
+# subfolders of this folder, each with its source.yml, original.md,
+# english.md and notes.md. The build is pipeline/places/place_pages.py.
+
+slug: zagorowo
+
+heading: "Zagórów"
+heading_de: "Zagórów (Zagorowo)"
+
+# What the place is, one line, over the page.
+standfirst_en: >-
+  A small town on the Warta, the seat of its own urban-and-rural commune in
+  Słupca county; the medieval documents name it Zagorowo, and its estate is
+  one of the estates in focus.
+standfirst_de: >-
+  Eine kleine Stadt an der Warthe, Sitz einer eigenen Stadt-Land-Gemeinde im
+  Kreis Słupca; die mittelalterlichen Dokumente nennen sie Zagorowo, und ihr
+  Gut ist eines der betroffenen Güter.
+
+# What the page is, one short paragraph. Written to the house style: every
+# sentence says who, what, and why it matters.
+intro_en: >-
+  The page gathers what the place tells about itself, beside what the
+  edition's documents tell about it: sources about Zagórów that are neither
+  archival holdings nor the press, shown as they print, with an English
+  translation and an account of what kind of witness each is. Where a
+  source and the documents differ, the documents stand.
+intro_de: >-
+  Die Seite versammelt, was der Ort über sich selbst erzählt, neben dem, was
+  die Dokumente der Edition über ihn erzählen: Quellen über Zagórów, die
+  weder Archivalien noch Presse sind, abgedruckt wie sie drucken, mit
+  englischer Übersetzung und dem Bericht, was für ein Zeuge jede ist. Wo
+  eine Quelle und die Dokumente verschieden sind, gelten die Dokumente.

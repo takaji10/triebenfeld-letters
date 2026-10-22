@@ -367,6 +367,50 @@ def main():
                     if slug not in lp:
                         fail(f'person page: /{base}/ does not carry the entry {slug}')
 
+    # The places that have their own page (docs/PLACES_PLAN.md): every place
+    # of places/ has its page in both languages, the page carries the text of
+    # each source shown whole, and the place's card on the Places page links
+    # the page.
+    pp_data = os.path.join(ROOT, 'site', '_data', 'places_pages.yml')
+    if os.path.isfile(pp_data):
+        import yaml
+        with io.open(pp_data, encoding='utf-8') as f:
+            pp_places = yaml.safe_load(f) or {}
+        print('checking the place pages...')
+        for slug, pl in pp_places.items():
+            for base in ('places', os.path.join('de', 'orte')):
+                page = os.path.join(SITE, base, slug, 'index.html')
+                if not os.path.isfile(page):
+                    fail(f"place page: no page {base}/{slug}/")
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = html.unescape(f.read())
+                if 'class="place-source"' not in built:
+                    fail(f'place page: {base}/{slug}/ shows no source section')
+                for s in pl.get('sources') or []:
+                    if not s.get('visible'):
+                        continue
+                    fp = os.path.join(ROOT, 'places', slug, s['slug'],
+                                      'original.md')
+                    if not os.path.isfile(fp):
+                        continue
+                    with io.open(fp, encoding='utf-8') as f:
+                        body = [ln.strip() for ln in f if not ln.startswith('#')]
+                    longest = max(body, key=len, default='')
+                    if len(longest) >= 120:
+                        mid = len(longest) // 2
+                        if longest[mid - 30:mid + 30] not in built:
+                            fail(f"place page: {base}/{slug}/ does not carry "
+                                 f"the text of {s['slug']}")
+            for base in ('places', os.path.join('de', 'orte')):
+                list_page = os.path.join(SITE, base, 'index.html')
+                if os.path.isfile(list_page):
+                    with io.open(list_page, encoding='utf-8') as f:
+                        lp = f.read()
+                    if slug not in lp:
+                        fail(f'place page: /{base}/ does not link {slug}/')
+        print(f'  {len(pp_places)} place pages')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

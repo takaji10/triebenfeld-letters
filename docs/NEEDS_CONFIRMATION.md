@@ -80,6 +80,34 @@ repository; they are on the working machine.
     one woman (Maria the wife the married form points to) is the editor's
     to confirm or correct (`newspapers/slowo18920104/notes.md`).
 
+- **The places** (`places/`, begun 2026-10-22; `docs/PLACES_PLAN.md`). The
+  new section: a page per place that has sources of its own, hung on the
+  place's card on the Places page (the editor's ruling of 2026-10-22). The
+  first place is Zagórów (`zagorowo`, /places/zagorowo/ and
+  /de/orte/zagorowo/), whose first source is the town's own presentation on
+  its municipality's site (`zagorowpl20220614`: zagorow.pl, "Miasto i gmina
+  Zagórów", the Wayback Machine's capture of 14 June 2022; shown whole, no
+  pictures — the editor's rulings of the day). On the editor:
+  - **The index of people and places over the sources.** The newspapers'
+    principle ("the people/places index should run over the items") says
+    the place sources' names should be run and ruled too; the first source
+    names Ląd, Pyzdry, Konin, Rzgów, Drzewce, Imielno, Wrąbczyn,
+    Kościołków, Grodziec, Kleczew, Golina and the Olędrzy. Not begun — say
+    whether to run it, and it follows the newspapers' machinery.
+  - **1869 or 1870.** The source contradicts itself on the year the town
+    lost its rights ("Lokalizacja miasta": 1870; "Historia": 1869); both
+    stand as printed (`places/zagorowo/zagorowpl20220614/notes.md`). Say
+    whether the edition records the difference anywhere beyond the notes.
+  - **The medieval dates as the page gives them.** Its prose dates the
+    confirmation naming Zagorowo to 10 XII 1262 and its caption to
+    10.XII.1261; the edition's Places page records "1261: Zagorowo" from
+    the KDW (the editor, 2026-10-16). The documents stand; said here so
+    the page's inconsistency is known. The page also mentions a
+    confirmation by Mieszko III the Old of 1145 and gives the king's
+    location act of 1407 whole — whether the 1407 act is among the KDW
+    entries the editor chose is not asserted
+    (`places/zagorowo/zagorowpl20220614/notes.md`).
+
 
 
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated

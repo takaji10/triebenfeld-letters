@@ -77,6 +77,11 @@ MERGED = [
     # literature" lists it carries).
     ('pipeline/build/person_pages.py --quiet', 'person pages',
      'site/_people*/ - the page of each person in reference/genealogy.yml'),
+    # The places that have their own page (docs/PLACES_PLAN.md). After the
+    # website data too: the page hangs on a card of the Places page, and the
+    # build fails loudly if its slug is no estate.
+    ('pipeline/places/place_pages.py --quiet', 'place pages',
+     'site/_places*/ - the page of each place in places/'),
     # Each holding's description cites the documents it rests on; this holds
     # every year and sum in it to those documents.
     ('pipeline/review/check_unit_text.py', "holdings' descriptions",

@@ -381,6 +381,11 @@ en:
   np_mentions_one: "In the newspapers: one passage"
   np_hint_en: The English translation by Claude; the original decides.
   np_hint_orig: The item as printed, line by line.
+  place_more: More about the place
+  place_on_places: The place is one of the estates in focus; its documents are listed under it on the Places page.
+  place_source_link: The page as the Wayback Machine archived it
+  place_hint_en: The English translation by Claude; the original decides.
+  place_hint_orig: The source as it prints, paragraph for paragraph.
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -775,6 +780,11 @@ de:
   np_mentions_one: "In den Zeitungen: eine Stelle"
   np_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
   np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
+  place_more: Mehr über den Ort
+  place_on_places: Der Ort ist eines der betroffenen Güter; seine Dokumente sind auf der Seite Orte unter ihm aufgeführt.
+  place_source_link: Die Seite, wie das Wayback Machine sie archiviert hat
+  place_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
+  place_hint_orig: Die Quelle, wie sie druckt, Absatz für Absatz.
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen

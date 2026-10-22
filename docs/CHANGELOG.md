@@ -2329,6 +2329,36 @@ lose his estates. The era page writes Konotop, not Kontop.
   on Trąbczyn's page on /places/ now carries the item beside the Kuryer
   Polski's. `docs/NEWSPAPERS_PLAN.md`, section 5.
 
+## The place pages: Zagórów (2026-10-22, committed; not published)
+
+- The editor's new section (`places/`, `docs/PLACES_PLAN.md`): a page per
+  place that has sources of its own, hung on the place's card on the Places
+  page and linked from it — "Let's add a new source to a place: Zagórów.
+  This site has a lot of information that should be added under the place
+  name, on a separate page for the place." Built like the newspapers'
+  machinery, bilingual like the person pages; a place page hangs on an
+  estate card, and the build fails loudly if its slug is no estate.
+- The first place, Zagórów (`zagorowo`): /places/zagorowo/ and
+  /de/orte/zagorowo/ (`pipeline/places/place_pages.py`, collection `places`
+  and `places_de`, layout `place`, one viewbar for the whole page, the
+  "More about the place" line on the card, the checks in verify_site.py).
+- The first source, `zagorowpl20220614`: the town's own presentation on
+  zagorow.pl ("Miasto i gmina Zagórów" — historia, położenie, atrakcje,
+  kultura), a digital flip-book, kept by the Wayback Machine in the capture
+  of 14 June 2022 the editor gave. The editor's rulings of the day: the
+  source shown whole (Polish as printed, nothing tidied; Claude's English
+  beside it, the English first); a new per-place page; **no pictures** —
+  the page's photographs (the document of 1240, the coat of arms, the
+  flag) stay off the site, their places marked "[Obraz]". The viewer's
+  furniture is not kept; the page's slips stand and are recorded
+  (`places/zagorowo/zagorowpl20220614/notes.md`).
+- What it bears on: the quoted fragment names "Zagorowo" among the villages
+  of the confirmation of 1261 — the form the edition's Places page records
+  from the KDW; the box "Historia" names the Olędrzy of the Puszcza
+  Pyzdrska; the page names Ląd, Rzgów, Drzewce, Imielno and the rest of the
+  edition's ground. Its self-contradictions (1262/1261; 1869/1870) are
+  kept as printed and recorded (NEEDS_CONFIRMATION, "The places").
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

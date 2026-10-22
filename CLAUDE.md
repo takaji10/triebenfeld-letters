@@ -119,6 +119,27 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **committed,
+  not published**): the editor's new section (`places/`,
+  `docs/PLACES_PLAN.md`) — a page per place that has sources of its own,
+  hung on the place's card on the Places page and linked from it ("Let's
+  add a new source to a place: Zagórów. This site has a lot of information
+  that should be added under the place name, on a separate page for the
+  place"). Built like the newspapers' machinery
+  (`pipeline/places/place_pages.py`, collections `places`/`places_de`,
+  layout `place`, one viewbar for the whole page, the card link, the checks
+  in verify_site.py), bilingual like the person pages; a place page hangs
+  on an estate card and the build fails loudly if its slug is no estate.
+  The first place is Zagórów (/places/zagorowo/, /de/orte/zagorowo/); its
+  first source `zagorowpl20220614` is the town's own presentation on
+  zagorow.pl ("Miasto i gmina Zagórów", the Wayback Machine's capture of
+  14 June 2022 the editor gave), the editor's rulings: the source shown
+  whole (Polish as printed, nothing tidied, Claude's English beside it), a
+  new per-place page, **no pictures** — the photographs marked "[Obraz]".
+  Its self-contradictions (1262/1261; 1869/1870) kept as printed and
+  recorded; open: the index over the sources, the 1869/1870, the medieval
+  dates (NEEDS_CONFIRMATION, "The places"). Read
+  `places/zagorowo/zagorowpl20220614/notes.md` first. Not published.
 - **Słowo (1892) sells Trąbczyn** (`slowo18920104`, added 2026-10-22,
   **committed, not published**): the "Sprzedaże dóbr" notice in the Warsaw
   daily's "Kronika ekonomiczna" of 4 January 1892, p. 3, the third item of

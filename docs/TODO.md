@@ -772,3 +772,27 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       say whether to attach them (NEEDS_CONFIRMATION, "The newspapers").
 - [ ] **You:** whether to extend the register's patterns for "Lądzie",
       "lądzki" and "Trampczin" (NEEDS_CONFIRMATION, "The newspapers").
+
+## 24. The place pages: Zagórów (added 2026-10-22)
+
+- [x] The new section (`places/`, `docs/PLACES_PLAN.md`): a page per place
+      that has sources of its own, hung on the place's card on the Places
+      page (your ruling: the source whole, a new place page, no pictures).
+- [x] Zagórów is the first place: /places/zagorowo/ and
+      /de/orte/zagorowo/ (`pipeline/places/place_pages.py`, layout
+      `place`, the card link on both Places pages, the checks in
+      verify_site.py), bilingual like the person pages.
+- [x] Its first source: zagorow.pl's "Miasto i gmina Zagórów" (the
+      Wayback Machine's capture of 14 June 2022,
+      `places/zagorowo/zagorowpl20220614/`), the text as printed, nothing
+      tidied, with Claude's English and the standing caveat; the
+      photographs not carried, their places marked "[Obraz]".
+- [ ] **You:** a look at the page and the transcription — chiefly the
+      slips the page prints (kept, recorded in the notes) and the
+      furniture of the flip-book viewer (not kept, recorded in the notes).
+- [ ] **You:** the three open questions of the new section, in
+      NEEDS_CONFIRMATION ("The places"): the index over the sources, the
+      1869/1870 of the loss of the town rights, the medieval dates as the
+      page gives them.
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

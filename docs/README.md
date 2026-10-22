@@ -22,6 +22,7 @@ were true when they were written.
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
 | [LITERATURE_PLAN.md](LITERATURE_PLAN.md) | The books and articles about the sources (`literature/`): kept apart from the archival documents, original and English page by page, for questions; which are shown on the site and how. |
 | [NEWSPAPERS_PLAN.md](NEWSPAPERS_PLAN.md) | The items from the press (`newspapers/`): neither holdings nor literature, the editor's own section; how an item is read (OCR in the project), what is shown and what is open. |
+| [PLACES_PLAN.md](PLACES_PLAN.md) | The place pages (`places/`): a page per place that has sources of its own, hung on its card on the Places page; how a source is brought in and shown. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 
 ## Reports — a record of how something was settled
