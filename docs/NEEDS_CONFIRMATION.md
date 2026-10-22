@@ -11,6 +11,31 @@ repository; they are on the working machine.
 
 ## Waiting on material
 
+- **The newspapers** (`newspapers/`, begun 2026-10-22;
+  `docs/NEWSPAPERS_PLAN.md`). Two items in: the "Z Zagórowa" column of
+  Dziennik Poznański R. 79, nr 180 (7 August 1937) and the Kuryer Polski's
+  funeral report of 1754, moved here from the Sources page at the editor's
+  word (2026-10-22), with the old /documents/ addresses redirected. The
+  rulings of that day are worked in: the clipping's source (the blog
+  Zagórów w historii, its post of 2 October 2024), the rights (approved by
+  the editor), the clipping and the Kuryer's page shown on the item pages,
+  the index of people and places run over the items
+  (`newspapers/index.yml`, 18 hits all ruled). On the editor:
+  - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
+    (Oleszyno 1261) on the village's geography — the village and commune of
+    that name on the highway from Zagórów to Konin. Claude's
+    identification, not confirmed by the editor.
+  - **Głowiecki** stands on /people/ with no documents named by them (the
+    report is his only witness, and it left the corpus): the People page
+    learned to carry a person of the newspapers. The editor's eye on that
+    page is welcome.
+  - **The Kuryer Polski's people** lost one document each in the counts
+    (Paweł, Katarzyna, Antoni), and the timeline's event of 1754 now links
+    the item's page — said here so the change is known, not because a
+    question is open.
+
+
+
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated
   (2026-10-04): fifteen documents, corrected and summarised in both
   languages. Its fifteen summaries were claim-checked in session on
@@ -489,6 +514,29 @@ read, translate and summarise.
     in, unlike Chodyła's headings refused); Juliusz Poniatowski, the
     minister of agriculture of 1938, refused to Prince Józef (p. 52,
     note 18). Nothing hangs on them but the question corpus.
+  **Minakowska (2026), the Starost's page** (`minakowska2026prusimski`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The PSB volume.** The page cites "Polski Słownik Biograficzny t. 28
+    s. 582: psb.24386.1"; the edition's copy of the same entry
+    (`pachonski1982`) is from the editor's file "…T.27.md", pp. 582-584.
+    One and the same entry, one volume apart. Which is right is the
+    editor's to settle (the file's name was theirs); nothing on
+    `pachonski1982` changes until they do.
+  - **The marriage.** The page has the Starost marry Marianna née Dąmbska
+    "about 1770"; no document dates the marriage. The date is the
+    database's estimate and is not used (EDITORIAL_RULES, 2026-10-22); the
+    marriage itself is the PSB's and stands.
+  - **"ca 1806".** The life-line "1744–ca 1806" is accepted (editor,
+    2026-10-22); the "ca" stays open - a document that dates the death
+    qualifies it.
+  - **The regest of 1786.** The page's Uwagi carry a regest of Teki
+    Dworzaczka: the Poznań municipal court's record (seria Relacje,
+    nr 197, Rel. C. Posn. T. 1113) of the division of the Prusimski
+    estates carried out at Trąbczyn on 29 March 1784, which confirms the
+    division of 1740 and the Starost's succession to his dead uncles. The
+    register is not a series the edition holds (its court books are
+    Konin's and Kalisz's). Whether the holding behind it is to be sought
+    is the editor's.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -728,6 +776,21 @@ Places (`reference/places.yml`, `open_questions`):
   - Still collective, because the documents name them together: the Kuh brothers, the
     Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
     Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
+
+- **Łukasiewicz (1997)** (added 2026-10-22; its rulings in
+  `literature/index.yml` carry the reasons):
+  - The donatary **Grävenitz** of the article's Tabela 4 (p. 61, the affair
+    Cölln's Feuerbrände carried): not read as the edition's Kammergerichtsrat
+    von Grevenitz of Berlin, Triebenfeld's friend - the hit is refused for
+    now. Whether the donatary is the same man is open.
+  - The chamber councillor **Schmaling** the article dismisses for
+    malversations in 1804/5: the edition's Schmaling is the Landrat von
+    Schmaling, owner of the Głażewo Vorwerk (Oe 1 Bü 14526, letter 19). No
+    reading ties the two men; the hit is refused for now.
+  - The **Freiherr v. d. Reck** addressed by Voß on 12 I 1804 about the
+    church funds: which Freiherr von der Reck of the several of the name is
+    not settled, and the hit is not ruled to the edition's minister of state
+    and justice Eberhard von der Reck.
 
 ## Translations
 

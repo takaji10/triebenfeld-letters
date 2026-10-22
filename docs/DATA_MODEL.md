@@ -234,6 +234,9 @@ units/<slug>/unit.yml        where the scans are, how files are named
 reference/people.yml         who the edition recognises, and how each is matched
 reference/places.yml         canonical places, their variants, patterns and
                              the distinctions that must never be merged
+reference/genealogy.yml      the family of each person who has their own page
+                             on the site, every fact with its source
+                             (docs/LITERATURE_PLAN.md, section 22)
 ```
 
 **Adjudicated** - proposed by a tool, decided by a human, then applied:

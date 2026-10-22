@@ -38,6 +38,8 @@
     {% include doc-list.html letters=es.letters docs=es.docs %}
     {%- assign lit_works = site.data.literature_mentions.place[es.slug] %}
     {% include lit-mentions.html works=lit_works %}
+    {%- assign np_works = site.data.newspapers_mentions.place[es.slug] %}
+    {% include np-mentions.html works=np_works %}
   </div>
 {% endfor %}
 </div>

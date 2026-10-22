@@ -35,7 +35,7 @@ The estates tagged are the editor's seventeen around Trąbczyn and Zagórów: Za
 
 ### Related holdings
 
-The convent of Ląd as owner of Drzewce, a neighbour of Trąbczyn, in the boundary decree of 1775: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. The abbot of Ląd at the funeral of Paweł Prusimski in 1754: <a href="{{ '/sources/kuryerpolski1754075/' | relative_url }}">Cz2271, Kuryer Polski 1754, nr 75</a>. The visitation of the parish of Trąbczyn in 1791: <a href="{{ '/sources/adwl85/' | relative_url }}">85</a>. <!-- context -->
+The convent of Ląd as owner of Drzewce, a neighbour of Trąbczyn, in the boundary decree of 1775: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. The abbot of Ląd at the funeral of Paweł Prusimski in 1754: <a href="{{ '/newspapers/kuryerpolski1754075/' | relative_url }}">Kuryer Polski, nr 75 (25 December 1754)</a>. The visitation of the parish of Trąbczyn in 1791: <a href="{{ '/sources/adwl85/' | relative_url }}">85</a>. <!-- context -->
 
 <!--prepared-->
 

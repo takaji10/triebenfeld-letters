@@ -680,6 +680,22 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       and the wording of the citation's bracket "[= Lochowski 1641]", chosen
       without you.
 
+- [x] Łukasiewicz (1997), "Nowa analiza „Czarnego Rejestru". Studium
+      źródłoznawcze" (Kwartalnik Historyczny R. CIV, nr 2, pp. 31-62), added
+      (2026-10-22; LITERATURE_PLAN.md, section 23): the whole article from
+      the RCIN digitisation, the four appendix tables as HTML tables, the
+      journal's English summary as printed, Claude's English beside it.
+- [x] Two hand-made links: the Triebenfeld story and Tabela 4's row to the
+      Prince's three letters (Oe 1 Bü 9454, 104, 108, 112), and Tabela 1's
+      Hohenlohe row to the five letters of the register's Hohenlohe link;
+      every figure read on both sides first.
+- [ ] **You:** the three identifications it raises, in NEEDS_CONFIRMATION
+      ("The literature"): whether the donatary Grävenitz of its Tabela 4 is
+      the edition's Kammergerichtsrat von Grevenitz; whether the dismissed
+      councillor Schmaling is the edition's Landrat von Schmaling of
+      Głażewo; which Freiherr von der Reck Voß's letter of 1804 names.
+- [ ] **You:** a look at the English, then publication at your word.
+
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 
 - [x] Pages 13, 14, 25, 26 and 66 found among your photographs by the
@@ -694,3 +710,29 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       throughout. P. 15 added (your word): it finishes no. 16, which is the
       king's confirmation of 1447 of an earlier purchase of the same land,
       not of the 1461 sale. No p. 27 (no photograph).
+
+## 22. The newspapers: Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937)
+      (added 2026-10-22)
+
+- [x] The clipping read by OCR (five passes over the page, no paid run;
+      Tesseract installed for the project at your word,
+      `pipeline/ocr.py`), the thirteen doubtful words put to you on a spot
+      sheet, your answers worked in
+      (`newspapers/dziennikpoznanski19370807/notes.md`).
+- [x] The new Newspapers section ("Zeitungen") built on the site: the list
+      page at /newspapers/, the item's page with the transcription line by
+      line as printed and the English beside it, the menu entry between
+      Sources and Literature, the checks in verify_site.py
+      (`docs/NEWSPAPERS_PLAN.md`).
+- [x] Your rulings of 2026-10-22 worked in: the clipping's source (the blog
+      Zagórów w historii, its post of 2 October 2024); the rights approved;
+      the clipping shown on the item's page (and the Kuryer Polski's page on
+      its own item's); **Kuryer Polski moved here from the Sources page**
+      (the edition counts 619 documents in 46 holdings; the old /documents/
+      addresses redirect); the people/places index run over the items
+      (`pipeline/newspapers/newspapers_index.py`, 18 hits all ruled in
+      `newspapers/index.yml`).
+- [ ] **You:** the Oleśnica of the 1937 item is ruled to the register's
+      Oleśnica on its geography — confirm or correct
+      (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (the section is built but not yet on `main`).

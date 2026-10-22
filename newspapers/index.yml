@@ -1,0 +1,50 @@
+# The index rulings for the newspapers (docs/NEWSPAPERS_PLAN.md): which hits
+# of the edition's patterns for people and places stand, item by item and
+# spelling by spelling, as literature/index.yml rules the books' hits.
+#
+# Every pair below was read before it was ruled (2026-10-22, from
+# review/newspapers/mentions.md, made by newspapers_index.py --sheet). The
+# two items: kuryerpolski1754075 (the funeral report of 1754) and
+# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937).
+
+people:
+  glowiecki:
+    "Głowiecki": true     # the abbot of Ląd at the funeral (1754): the item is
+                          # where he is named, and nowhere in the corpus
+  prusimski:              # Antoni Prusimski, the later Starost of Niszczewice
+    "Pruſińſki": true     # "Jmć Pan Antoni Pruſińſki Synowiec Rodzony": the
+                          # nephew who gave the funeral oration, the Starost
+                          # to be (the pattern's own "Prusinski(?= Synowiec)")
+  prusimski-pawel:
+    "Pruſińſkie": true    # "Pana Pawłá Pruſińſkie-go": the dead chamberlain,
+                          # the form the pattern was written for
+  prusimska-katarzyna:
+    "Pruſińſkiey": true   # "z Rozdrażewſkich Pruſińſkiey": the widow, born
+                          # Rozdrażewska, who ordered the exequies
+
+places:
+  kalisz:
+    "Kaliſza": true       # the report's dateline, from Kalisz
+  konin:
+    "Koninie": true       # the exequies at the monastery of Konin (1754)
+    "Konina": true        # the road from Oleśnica to Konin (1937)
+  lad:
+    "Łędzkiego": true     # the Cistercian convent of Ląd (the print's Łędz-
+                          # is Ląd: the editor, 2026-10-16)
+    "Łędzki": true        # "Opat Łędzki", the abbot of Ląd
+  olesnica:
+    # The village and commune of Oleśnica of the 1937 item, on the highway
+    # from Zagórów to Konin: the register's Oleśnica (Oleszyno 1261, the
+    # KDW's), the village the gmina of that name was seated at. Claude's
+    # identification from the item's own geography; the editor has not
+    # confirmed it (NEEDS_CONFIRMATION, "The newspapers").
+    "Oleśnica": true
+    "Oleśnicę": true
+  trabczyn:
+    "Trąbczynie": true    # the funeral at Trąbczyn
+  zagorowo:
+    # The town of Zagórów: the 1937 notes are the town's ("m. Zagórowa", the
+    # Zarząd miasta), and the item is the first witness of the town the
+    # estate stands at in the press of its own day.
+    "Zagórowa": true
+    "Zagórowie": true

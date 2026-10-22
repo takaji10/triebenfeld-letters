@@ -669,3 +669,128 @@ by the edition's patterns, which take only the Staro-/Nowo-Łazińska forms -
 a pattern would have to say which colony (NEEDS_CONFIRMATION). No hand-made
 links yet: the article says nothing of the estate's owners or dates that a
 link's sentence could read.
+
+## 22. The Minakowska pages (2026-10-22)
+
+A saved page of M. J. Minakowska's Wielka genealogia Minakowskiej
+(sejm-wielki.pl) becomes one excerpt work, one per person:
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `minakowska2026prusimski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
+
+The editor's word (2026-10-22), the standing rule for the pages of this
+database that follow:
+
+- **One work per person**, slug `minakowska2026<name>`, cited "Minakowska
+  (2026, *name*)", the person ID and the page's own edition date (its
+  "wydanie z …" line) in `published:`. The saved page is never kept in the
+  repository: its header carries the editor's login and its footer the
+  visitor's IP address. `make_original.py` in the work's folder makes the
+  texts from it; the page is written in ISO-8859-2 unless it says otherwise.
+- **`full.md` is the knowledgebase**: the whole page, its every section,
+  in reading order - the biography, the parents, the ancestor tree, the
+  marriages and the descendants, the mother's other marriages, Stryjowie
+  lub wujowie oraz ciotki, i kuzynki, the nearest PSB persons, and Uwagi
+  with the page's own sources. Tracked, searchable with the other works'
+  passages in questions, **never shown on the site**.
+- **`original.md` is what the work is**: only the sections the editor names
+  for the person - here the biography, the parents, the ancestor tree, the
+  marriage and the children and grandchildren - and those are shown on the
+  site **in full detail**, not summarised. What the editor has not named
+  stays out of `original.md`, so the build, the index and `verify_site.py`
+  need no change for it. The script's rules are its docstring; two headings
+  are the script's, not the page's (# Przodkowie, # Wnuki).
+- **The database's estimated dates are never taken into the edition's
+  prose**: not the "?1710-" tokens, not the "prawdopodobnie" and
+  "około" forms, whatever person they concern
+  (docs/EDITORIAL_RULES.md). A date enters the edition's prose only where a
+  source the edition can cite states it. Where the source writes "ca",
+  the date keeps its "ca" and NEEDS_CONFIRMATION keeps it open to
+  qualification from the documents.
+- **The page's subject has a page of their own on the site**
+  (`reference/genealogy.yml`, `pipeline/build/person_pages.py`, the layout
+  `person`): who they are, their life dates, their family with the source
+  of every fact, the documents that name them, the literature that names
+  them. `Uwagi` reaches the site only as a sentence on that page saying
+  what its sources are. A future page of the database adds one block to
+  `reference/genealogy.yml` and makes its person's page the same way.
+- **The documents first**, as everywhere: every fact of the page is read
+  against the edition's documents before anything is built on it, the
+  differences are recorded in the work's `notes.md` and flagged in
+  NEEDS_CONFIRMATION, and the edition follows the documents.
+- **The index is read and ruled** like any work's; a genealogy names
+  relatives the edition has no entries for, so most surname-only rulings
+  for such a work are "no, this is the father/the son", with the reason.
+
+The first page (Antoni Prusimski, 2026-10-22): what it brought against the
+documents is in its `notes.md`; the family, the Uwagi sentence and the 115
+documents are on /people/prusimski/ (German /de/personen/prusimski/), linked
+from his entry on the People page. The index: 31 hits, all ruled.
+
+## 23. Łukasiewicz (1997) (2026-10-22)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `lukasiewicz1997` | Dariusz Łukasiewicz, "Nowa analiza „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R. CIV (1997), nr 2, pp. 31-62 (Poznań; the RCIN digitisation) | Polish | `[p. N]` | yes |
+
+The editor's word (2026-10-22): the article at the RCIN address, the PDF also
+in Downloads (`WA303_4071_KH104-r1997-R104-nr2_Kwartalnik-Historyczny_03_Lukasiewicz.pdf`);
+asked, they ruled **the whole article, visible, the appendix tables as HTML
+tables**. It is the modern source study of the black register the edition
+carries in print (the Materialien, pp. 140-171): Łukasiewicz found the
+register's manuscript in the Secret State Archive (GStAPK, I HA Rep. 7c
+Südpreußen Nr 14, Fasz. 23), read it against three other lists (the tax
+returns of the Poznań department, AGAD GDS I Nr 651/652; the Polish list of
+the Duchy of Warsaw, AGAD AZ 96) and Grünhagen's and Philippson's
+compilations, and put the register's headline figures right: not 52
+donataries and 20 million Thaler, but 48 donataries, 52 donations, 245
+estates, a nominal value of 2 069 550 Thaler and a real value he sets at 4-7
+million, nearer 4. The giveaway turned into a corrupt affair (Hoym's circle,
+Triebenfeld's purchases and resales, the rescripts against selling to Poles);
+the article names the edition's people (Massenbach, the Prince of Hohenlohe,
+Triebenfeld, Rüchel, Zastrow, Keyserlingk, Lüttichau, Grevenitz's affair,
+Wybicki's and General Niemojewski's confiscated estates) and its tables give
+every donation's values and sale prices.
+
+Read from the digitisation: every page rendered at 300 dpi and read in two
+halves; the PDF's OCR text layer used as a scaffold only, corrected against
+the images line by line (the layer's own errors: *l* for *i* and *ti* for *ci*
+in the English summary, dropped words, the "fi" of names). The four appendix
+pages (printed 55-61) are printed sideways and were read from the pages
+rotated; the tables' column geometry was taken from the print's own vertical
+rules (the six columns of Tabela 1, its number row 1-6 counting the names
+column as 1). The print has **no serial numbers in Tabela 1's name column** -
+the draft's first pass had added them and they were struck on the evidence of
+the page. Table notes are `[^t1-n]` and `[^t4-n]` (the print numbers them
+1-29 and 1-7 afresh); the print's slips are kept and listed in the work's
+`notes.md` ("narząd" p. 36, "s. 12x" in n. 78, "St. Patem", "Eysenberg",
+"Boumann", "Krockwitz" in Tabela 4, the dates "2 II 801", "10 VII 798",
+"22 V 796", and the rest). The two notes the print splits across a page foot
+(47, 115) keep their split, each part on its printed page. The journal's own
+English summary (p. 62, transl. A. Rodzińska-Chojnowska) stands as printed,
+with its French-stressed spellings ("estâtes", "interprétation", "crédits" -
+verified on enlargements to be printed so). The English beside it is Claude's,
+page for page; the bibliography notes keep their titles.
+
+Where the article's figures differ from the edition's documents, the
+documents stand (the standing rule): the register's own entry for Triebenfeld
+(Materialien pp. 162-164) and the letters give his sale to Prince George at
+400,000 and the resale at 750,000, where the article's telling gives 450,000
+to the Prince and the resale "the same year"; the difference is his reading of
+Dorow's printing of the memorial and is not silently mended anywhere.
+
+The index: 292 hits in the work (181 of people, 111 of places), every one
+read; the rulings in
+`literature/index.yml` (the kings ruled yes; Massenbach yes on his own n. 24,
+which gives the Prince's chief of staff of 1806; Niemojewski and Wybicki yes
+on the confiscation list; the historian Adelheid Simsch refused to the
+Princess; the donatary Grävenitz, councillor Schmaling and the Freiherr von
+der Reck refused, each with its reason, the three open in NEEDS_CONFIRMATION,
+"The literature"; the imprint towns Frankfurt a. M. and Heidelberg and the
+titles carrying Berlin refused). Two hand-made links: the Triebenfeld story
+and Tabela 4's row to the Prince's three letters (oe1bu9454-104, -108,
+-112), and Tabela 1's Hohenlohe row to the five letters of the register's
+Hohenlohe link; every figure in the sentences was read on both sides
+(Łukasiewicz's this session, the letters' as ruled on 2026-10-19). Open: the
+editor's look at the English; publication at the editor's word.

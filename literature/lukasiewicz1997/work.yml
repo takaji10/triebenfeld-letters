@@ -1,0 +1,68 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). original.md was read
+# in session from the editor's PDF, the RCIN digitisation of Kwartalnik
+# Historyczny R. CIV (1997), nr 2, pp. 31-62 (the file is not kept in the
+# repository; the RCIN page carries the download's internet address on every
+# page). Every page was rendered at 300 dpi and read from the images in two
+# halves; the scan's OCR text layer was used only as a scaffold and check,
+# never taken over. The four appendix tables (pp. 55-61, printed sideways)
+# are transcribed as HTML tables, the table notes with them; the English
+# Summary (p. 62) is the journal's, as printed. english.md is Claude's,
+# written page by page from original.md. See notes.md.
+slug: lukasiewicz1997
+visible: true
+kind: article
+title: "Nowa analiza „Czarnego Rejestru”. Studium źródłoznawcze"
+title_en: "A new analysis of the „Black Register”. A source study"
+cite: "Łukasiewicz (1997)"
+author: "Dariusz Łukasiewicz"
+author_sort: "Łukasiewicz, Dariusz"
+published: "Kwartalnik Historyczny, R. CIV (1997), nr 2, pp. 31-62 (Poznań; the RCIN digitisation)"
+year: 1997
+language: pl
+english_by: Claude
+scan: "http://rcin.org.pl/Content/2507/PDF/WA303_4071_KH104-r1997-R104-nr2_Kwartalnik-Historyczny_03_Lukasiewicz.pdf"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A source study of the "Black Register", the list of the estates of Great
+  Poland given away by Prussia in 1796-1797 to Prussian officers, officials
+  and junkers, by Dariusz Łukasiewicz of Poznań (Kwartalnik Historyczny
+  1997). The register is printed in the Materialien (1861, pp. 140-171) and
+  was first published by Zerboni (1801) and Cölln (1807); Łukasiewicz found
+  the manuscript itself in the Secret State Archive (GStAPK, I HA Rep. 7c
+  Südpreußen Nr 14) and read it against three other, official lists. His
+  findings: the register counts not 52 donataries but 48, holding 52
+  donations and 245 estates, and the "true value" of 20 million thalers on
+  its title page is false — the nominal values come to 2 069 550 thalers,
+  the values from the tax returns to 4-7 million, nearer 4. The giveaway
+  turned into a corrupt affair: Hoym's circle bought at a third of the
+  value, resold at three and four times the purchase price (Triebenfeld's
+  own purchase at 50 000, sold 1801 at 400 000-750 000); the register's
+  owners sold to Poles despite the rescripts forbidding it; the affairs of
+  Held, Zerboni, Cölln and the arrests of 1796-1797 followed. Four appendix
+  tables set every donation's values and sale prices by donatary. It cites
+  the same works the edition's literature holds (Wąsicki, the Materialien,
+  the Neue Feuerbrände, Grünhagen, Philippson) and bears directly on the
+  black-register passages and the Prince's gift.
+account_de: >-
+  Eine quellenkritische Untersuchung des „Schwarzen Registers", der Liste der
+  Güter Großpolens, die Preußen 1796-1797 an preußische Offiziere, Beamte und
+  Junker verschenkte, von Dariusz Łukasiewicz aus Posen (Kwartalnik
+  Historyczny 1997). Das Register ist in den Materialien (1861, S. 140-171)
+  abgedruckt und zuerst von Zerboni (1801) und Cölln (1807) veröffentlicht
+  worden; Łukasiewicz fand die Handschrift selbst im Geheimen Staatsarchiv
+  (GStAPK, I HA Rep. 7c Südpreußen Nr 14) und las sie gegen drei weitere,
+  amtliche Listen aus. Seine Befunde: Das Register zählt nicht 52 Donatarien,
+  sondern 48, mit 52 Donationen und 245 Gütern, und der „wahre Wert" von 20
+  Millionen Talern auf dem Titelblatt ist falsch — die Nennwerte ergeben 2
+  069 550 Taler, die Werte aus den Steuerlisten 4-7 Millionen, näher bei 4.
+  Die Schenkaktion wurde zu einer Korruptionsaffäre: Hoym's Kreis kaufte für
+  ein Drittel des Werts und verkaufte mit dem drei- bis vierfachen
+  Kaufpreis weiter (Triebenfelds eigener Kauf für 50 000, verkauft 1801 für
+  400 000-750 000); die Registerbesitzer verkauften an Polen, trotz der
+  verbietenden Reskripte; die Affären von Held, Zerboni und Cölln und die
+  Verhaftungen von 1796-1797 folgten. Vier Anhangstabellen stellen die Werte
+  und Verkaufspreise jeder Donation nach Donatar zusammen. Er zitiert die
+  Werke, die die Literatur der Ausgabe schon hat (Wąsicki, die Materialien,
+  die Neue Feuerbrände, Grünhagen, Philippson) und geht die Passagen zum
+  schwarzen Register und die Schenkung des Fürsten direkt an.

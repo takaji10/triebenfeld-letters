@@ -77,7 +77,7 @@ Entries from the court registers of Konin and Kalisz, from 1754 to 1788, follow 
 on the ground and in court before and after; each holding is listed under
 [Sources]({{ '/sources/' | relative_url }}). A Warsaw newspaper reported the funeral of Paweł
 Prusimski at Trąbczyn in December 1754
-([the report]({{ '/sources/kuryerpolski1754075/' | relative_url }})). From the last years before the
+([the report]( {{ '/newspapers/kuryerpolski1754075/' | relative_url }} )). From the last years before the
 partition come a
 register of the hearth tax of 1789 ([1789]({{ '/sources/app53640kalisztab21/' | relative_url }}))
 and the visitation of the parish of Trąbczyn in 1790 and 1791, which counts its 760 souls

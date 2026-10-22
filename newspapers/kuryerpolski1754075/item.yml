@@ -1,0 +1,131 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: kuryerpolski1754075
+
+# The issue. The library's shelfmark (PAN Biblioteka Kórnicka, Cz2271) is
+# named in the account and the notes; the ref cites the newspaper, as an
+# item of the press is cited.
+ref: >-
+  Kuryer Polski, nr 75 (25 December 1754)
+newspaper: Kuryer Polski
+published: >-
+  Kuryer Polski, nr 75, Warsaw, 25 December 1754; the report dated from
+  Kalisz, 5 December 1754
+title: >-
+  A report from Kalisz in the Warsaw newspaper Kuryer Polski of 25 December
+  1754 on the funeral of Paweł Prusimski, the King's chamberlain, at
+  Trąbczyn on 5 December: the clergy present, the sermon and the funeral
+  oration of his nephew Antoni Prusimski, and the exequies his widow
+  Katarzyna had said in three monasteries nearby.
+cite: Kuryer Polski (1754)
+author: ""
+year: 1754
+date_span: "1754"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. Paweł Prusimski held
+# Trąbczyn before his nephew Antoni.
+era: prusimski-boundary
+
+visible: true
+
+# Where the page comes from: the copy in the Kórnik Library of the Polish
+# Academy of Sciences (PAN Biblioteka Kórnicka, shelfmark Cz2271), published
+# in the Wielkopolska Digital Library.
+source: https://www.wbc.poznan.pl/dlibra/publication/85857/edition/99614/content
+
+# The page itself, shown above the texts: the editor's crop of the left page
+# of the second opening, the page that carries the report.
+image: kuryer.jpg
+
+# The English is the editor's own translation (2026-10-16), not Claude's:
+# the page's caveat says so.
+translation: editor
+english_by: the editor, 2026-10-16
+
+# What the item is, and what kind of witness it is.
+account_en: >-
+  A report from Kalisz in the Warsaw newspaper Kuryer Polski, no. 75 of
+  1754 (25 December), sent in with the place and the date it was written,
+  "Z Kaliſza die 5. Decemb:", from Kalisz, 5 December. Each issue of the
+  paper gathers short reports sent in from the towns of the Commonwealth
+  and from abroad. This one describes the funeral held at Trąbczyn, "five
+  miles from Kalisz", on the hereditary estate of the Prusimski family, for
+  Paweł Prusimski, Chamberlain of His Royal Majesty, who held Trąbczyn
+  before his nephew Antoni, the later Starost of Niszczewice: many related
+  houses came, and the Cistercians of the convent of Ląd, whose abbot
+  Głowiecki, invited to sing the High Mass, was kept from crossing the
+  Warta by an unexpected frost; the sermon was preached by the prefect of
+  the schools of the Jesuit college at Kalisz, the funeral oration after
+  the procession was given by Antoni Prusimski, the dead man's own nephew,
+  and at the order of the widow, Katarzyna Prusimska, born Rozdrażewska,
+  exequies with vigils and many Masses were held the same day in the
+  monasteries nearby, at Pyzdry, Konin and Kaźmierz, because the parish
+  church of Trąbczyn had not room enough. Kaźmierz is probably Kazimierz
+  Biskupi, near Konin. The newspaper writes the family "Prusiński" and the
+  convent "Łędzki"; the English gives them as Prusimski and Ląd. Printed
+  Polish of 1754 in roman type, with italic for the dateline and for Latin
+  words, the long s (ſ) and accented á; only this report of the page is
+  transcribed, the rest of the page carries other news. The report came
+  into the edition on 2026-10-16 as a holding (BK PAN Cz2271) and has stood
+  in the newspapers since 2026-10-22, at the editor's word.
+account_de: >-
+  Ein Bericht aus Kalisch in der Warschauer Zeitung Kuryer Polski, Nr. 75
+  von 1754 (25. Dezember), eingesandt mit Ort und Datum, an dem er
+  geschrieben wurde: „Z Kaliſza die 5. Decemb:", aus Kalisch, 5. Dezember.
+  Jede Ausgabe der Zeitung sammelt kurze Berichte aus den Städten der
+  Adelsrepublik und aus dem Ausland. Dieser beschreibt das Begräbnis, das
+  in Trąbczyn, „fünf Meilen von Kalisch", auf den Erbgütern der Familie
+  Prusimski für Paweł Prusimski, Kammerherr Seiner Königlichen Majestät,
+  gehalten wurde, der Trąbczyn vor seinem Neffen Antoni, dem späteren
+  Starosten von Niszczewice, besaß: viele verschwägerte Häuser kamen, und
+  die Zisterzienser des Konvents von Ląd, deren Abt Głowiecki, zum Hochamt
+  eingeladen, durch einen unerwarteten Frost an der Überquerung der Warthe
+  gehindert wurde; die Predigt hielt der Präfekt der Schulen des
+  Jesuitenkollegs in Kalisch, die Leichenrede nach dem Kondukt Antoni
+  Prusimski, der leibliche Neffe des Toten, und auf Anordnung der Witwe,
+  Katarzyna Prusimska, geborene Rozdrażewska, wurden am selben Tag in den
+  nahen Klöstern von Pyzdry, Konin und Kaźmierz Exequien mit Vigilien und
+  vielen Messen gehalten, weil die Pfarrkirche von Trąbczyn nicht genug
+  Platz bot. Kaźmierz ist wahrscheinlich Kazimierz Biskupi bei Konin. Die
+  Zeitung schreibt die Familie „Prusiński" und den Konvent „Łędzki"; die
+  englische Übersetzung gibt sie als Prusimski und Ląd wieder. Gedrucktes
+  Polnisch von 1754 in Antiqua, mit Kursive für die Datumszeile und
+  lateinische Wörter, dem langen s (ſ) und dem akzentuierten á; nur dieser
+  Bericht der Seite ist transkribiert, der Rest der Seite bringt andere
+  Nachrichten. Der Bericht kam am 2026-10-16 als Bestand in die Edition
+  (BK PAN Cz2271) und steht seit dem 2026-10-22 in den Zeitungen, auf des
+  Editors Wort.
+
+# A detailed summary of the contents, from the holding's summaries, checked
+# against the text (2026-10-16).
+summary_en: >-
+  A report from Kalisz of 5 December 1754 in the Warsaw newspaper Kuryer
+  Polski, no. 75 of 1754, in Polish. At Trąbczyn, five miles from Kalisz, on
+  the hereditary estate of the Prusimski family (the print has "Prusiński"),
+  the funeral of the late Paweł Prusimski, Chamberlain of His Royal Majesty,
+  was held, with many related houses and the Cistercians of the convent of
+  Ląd present. The Abbot of Ląd, Głowiecki, had been invited to sing the
+  High Mass, but an unexpected frost prevented his crossing the Warta. The
+  sermon was preached by the prefect of the schools of the Jesuit college at
+  Kalisz, and the funeral oration after the procession was given by his own
+  nephew, Antoni Prusimski. At the order of the widow, Katarzyna Prusimska,
+  born Rozdrażewska, exequies with vigils and many Masses were held the same
+  day in the monasteries nearby, at Pyzdry, Konin and Kaźmierz, as there was
+  not room enough in the parish church of Trąbczyn.
+summary_de: >-
+  Ein Bericht aus Kalisch vom 5. Dezember 1754 in der Warschauer Zeitung
+  Kuryer Polski, Nr. 75 von 1754, auf Polnisch. In Trąbczyn, fünf Meilen von
+  Kalisch, auf den Erbgütern der Familie Prusimski (im Druck „Prusiński"),
+  wurde das Begräbnis des verstorbenen Paweł Prusimski, Kammerherrn Seiner
+  Königlichen Majestät, gehalten, in Anwesenheit vieler verschwägerter
+  Häuser und der Zisterzienser des Konvents von Ląd. Der Abt von Ląd,
+  Głowiecki, war zum Hochamt eingeladen, doch ein unerwarteter Frost
+  hinderte ihn, die Warthe zu überqueren. Die Predigt hielt der Präfekt der
+  Schulen des Jesuitenkollegs in Kalisch, die Leichenrede nach dem Kondukt
+  sein leiblicher Neffe Antoni Prusimski. Auf Anordnung der Witwe, Katarzyna
+  Prusimska, geborene Rozdrażewska, wurden am selben Tag in den nahen
+  Klöstern von Pyzdry, Konin und Kaźmierz Exequien mit Vigilien und vielen
+  Messen gehalten, weil in der Pfarrkirche von Trąbczyn nicht genug Platz
+  war.

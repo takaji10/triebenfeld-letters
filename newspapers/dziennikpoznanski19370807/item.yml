@@ -1,0 +1,135 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: dziennikpoznanski19370807
+
+# The item as the newspaper cites it: the volume (Rocznik) 79, no. 180,
+# of Saturday 7 August 1937. Dziennik Poznański ran from 1859; R. 79 fits
+# (the editor gave the citation with the file).
+ref: >-
+  Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937)
+newspaper: Dziennik Poznański
+published: >-
+  Dziennik Poznański, R. 79, nr 180, Poznań, 7 August 1937 ("Z Zagórowa")
+title: >-
+  "Z Zagórowa": three municipal notes from Zagórów in the Poznań daily
+  Dziennik Poznański of 7 August 1937 — the recruitment of some sixty
+  unemployed of the town for seasonal farm work in Germany, the moving of
+  the old people's home from its rented rooms in the town to a property of
+  the heirs of Ignacy Ciszewski at Oleśnica on the road to Konin, under the
+  deputy mayor Franciszek Łukaszewski, and the paving of the town's streets
+  with trees to be planted along them.
+title_en: >-
+  "From Zagórów": three municipal notes from Zagórów in the Poznań daily
+  Dziennik Poznański of 7 August 1937
+cite: Dziennik Poznański (1937)
+author: ""
+year: 1937
+date_span: "1937"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The working name of
+# the era the twentieth-century holdings stand in.
+era: twentieth-century
+
+# Shown whole on the site. The item is anonymous press of 1937: Polish
+# copyright in an anonymous work runs 70 years from its first publication,
+# so it ended in 2007. **The rights are approved by the editor**
+# (2026-10-22: "Assume the rights are approved"), with the clipping's
+# source known (the blog named under `source:`).
+visible: true
+
+# Where the clipping came from: the blog Zagórów w historii ("Zagórów in
+# history"), which publishes scans of clippings from the press of years
+# past; this is from its post of 2 October 2024, "Kolejne wycinki z prasy
+# sprzed lat, cz. 3" (another clippings from the press of years past,
+# part 3).
+source: https://zagorowzhistoria.com/2024/10/02/kolejne-wycinki-z-prasy-sprzed-lat-cz-3/
+
+# The clipping itself, shown above the texts (the editor, 2026-10-22: "The
+# site should carry the clipping"). The file given (a WebP despite its .jpg
+# name) converted to JPEG for the site.
+image: clipping.jpg
+
+# The English was made in the session that read the clipping (the editor's
+# word, 2026-10-22); it is not checked whole.
+english_by: Claude, 2026-10-22
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a Poznań daily's local column,
+# printed as "(mat)" — the paper's siglum for material of its own
+# correspondents (so read, not read off the page). Short municipal news of
+# this kind is written to fill a column; its facts are worth having exactly
+# because no historian else records them, and each is the kind of thing a
+# town's own records would confirm.
+account_en: >-
+  A local column from Zagórów in the Poznań daily Dziennik Poznański, no. 180
+  of 7 August 1937, anonymous and signed only "(mat)". Three notes: the
+  recruitment in the town of some sixty unemployed for seasonal agricultural
+  work in Germany, more than one of whom has already sent his family
+  hard-earned cash, which relieves the municipal budget; the moving of the
+  old people's home out of its rented rooms in the town — the building "did
+  not answer in its rooms" — to a brick building on the property of the heirs
+  of Ignacy Ciszewski at Oleśnica, on the highway from Zagórów to Konin, some
+  300 metres from the old home, where the inmates will have fresh air and the
+  free run of the garden, under the supervision of the deputy mayor
+  Franciszek Łukaszewski; and the paving of the town's streets, begun, with
+  trees to be planted along the pavements.
+account_de: >-
+  Eine Ortsspalte aus Zagórów in der Posener Tageszeitung Dziennik Poznański,
+  Nr. 180 vom 7. August 1937, anonym, nur mit „(mat)“ gezeichnet. Drei
+  Notizen: die Anwerbung von etwa sechzig Erwerbslosen der Stadt für die
+  saisonale landwirtschaftliche Arbeit in Deutschland, von denen mancher der
+  Familie schon etwas erarbeitetes Geld geschickt hat, was den Stadthaushalt
+  entlastet; die Verlegung des Altenheims aus den gemieteten Räumen in der
+  Stadt — das Haus „entsprach in seinen Räumen nicht“ — in ein massives
+  Gebäude auf dem Grundstück der Erben von Ignacy Ciszewski in Oleśnica an
+  der Chaussee von Zagórów nach Konin, etwa 300 Meter vom alten Heim entfernt,
+  wo die Insassen frische Luft und den freien Zugang zum Garten haben werden,
+  unter der Aufsicht des Vizebürgermeisters Franciszek Łukaszewski; und die
+  begonnene Pflasterung der Straßen der Stadt, entlang derer Bäume gepflanzt
+  werden sollen, die die Stadt schmücken.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  Three anonymous municipal notes from Zagórów, each closed by the siglum
+  "(mat)". First, "Recruitment of the unemployed for Germany": in the last
+  recruitment of seasonal agricultural workers for Germany about sixty people
+  were sent off from the town of Zagórów, and more than one of them has
+  already sent his family a little of his hard-earned cash; the workers'
+  departure has relieved the municipal budget. Second, "The moving of the old
+  people's home": the home, so far in a building rented from Mrs Wiznerowa in
+  Zagórów and unsuitable in its rooms, has been moved by the Municipal Board
+  to a property of the heirs of Ignacy Ciszewski in the village and commune
+  of Oleśnica, about 300 metres from the old home; the property stands in a
+  brick building by the highway leading from Zagórów through Oleśnica to
+  Konin, in which nobody else will live besides the home, so the old folk
+  will have fresh air and full freedom in the adjoining garden, to the good
+  of their aged years; the supervision of the home has been given to the
+  deputy mayor of the Municipal Board of Zagórów, Franciszek Łukaszewski.
+  Third, "From the town's management": the Board of the town of Zagórów,
+  wishing the town a comely appearance, has set about building pavements; the
+  work has been begun, and trees, adorning the town, will be planted along
+  the pavements.
+summary_de: >-
+  Drei anonyme städtische Notizen aus Zagórów, jede mit der Signatur „(mat)“
+  geschlossen. Erstens „Anwerbung der Erwerbslosen für Deutschland“: bei der
+  letzten Anwerbung saisonaler landwirtschaftlicher Arbeiter für Deutschland
+  wurden aus der Stadt Zagórów etwa sechzig Personen abgeschickt, und mancher
+  von ihnen hat der Familie schon etwas erarbeitetes Geld geschickt; der
+  Wegzug der Arbeiter entlastet den Stadthaushalt. Zweitens „Die Verlegung
+  des Altenheims“: das Heim, bisher in einem von Frau Wiznerowa in Zagórów
+  gemieteten und in seinen Räumen unzureichenden Gebäude, ist vom
+  Magistrat auf ein Grundstück der Erben von Ignacy Ciszewski im Dorf und in
+  der Gemeinde Oleśnica verlegt worden, etwa 300 Meter vom alten Heim; das
+  Grundstück liegt in einem massiven Gebäude an der Chaussee von Zagórów über
+  Oleśnica nach Konin, in dem außer dem Heim niemand sonst wohnen wird, so
+  daß die Alten frische Luft und volle Freiheit im angrenzenden Garten haben
+  werden, zu ihrem hohen Alter gut; die Aufsicht über das Heim ist dem
+  Vizebürgermeister des Magistrats von Zagórów, Franciszek Łukaszewski,
+  übertragen worden. Drittens „Aus der Verwaltung der Stadt“: der Magistrat
+  der Stadt Zagórów hat, weil die Stadt ein ansehnliches Aussehen haben soll,
+  den Bau von Bürgersteigen begonnen; die Arbeit ist angefangen, und entlang
+  der Bürgersteige sollen Bäume gepflanzt werden, die die Stadt schmücken.

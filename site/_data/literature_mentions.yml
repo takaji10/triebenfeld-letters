@@ -57,6 +57,12 @@ person:
     - key: c06
       en: 2.976.226-240
       de: 2.976.226-240
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '49'
+      en: p. 49
+      de: S. 49
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -83,6 +89,21 @@ person:
     - key: '168'
       en: p. 168
       de: S. 168
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '48'
+      en: p. 48
+      de: S. 48
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '59'
+      en: p. 59
+      de: S. 59
   friedrich-wilhelm-ii:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -147,6 +168,27 @@ person:
     - key: '21'
       en: p. 21
       de: S. 21
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '51'
+      en: p. 51
+      de: S. 51
   friedrich-wilhelm-iii:
   - work: held1801
     cite: Held (1801)
@@ -217,6 +259,15 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '52'
+      en: p. 52
+      de: S. 52
   grevenitz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -264,6 +315,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '46'
+      en: p. 46
+      de: S. 46
   haugwitz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -286,6 +343,18 @@ person:
     - key: '158'
       en: p. 158
       de: S. 158
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '60'
+      en: p. 60
+      de: S. 60
+    - key: '61'
+      en: p. 61
+      de: S. 61
   held:
   - work: materialien1861
     cite: Materialien (1861)
@@ -302,6 +371,30 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '51'
+      en: p. 51
+      de: S. 51
   hohenlohe:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -393,6 +486,27 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '55'
+      en: p. 55
+      de: S. 55
+    - key: '57'
+      en: p. 57
+      de: S. 57
+    - key: '60'
+      en: p. 60
+      de: S. 60
   holtzendorff:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -406,6 +520,18 @@ person:
     - key: '169'
       en: p. 169
       de: S. 169
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '59'
+      en: p. 59
+      de: S. 59
   hoym:
   - work: held1801
     cite: Held (1801)
@@ -920,6 +1046,78 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '47'
+      en: p. 47
+      de: S. 47
+    - key: '48'
+      en: p. 48
+      de: S. 48
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '50'
+      en: p. 50
+      de: S. 50
+    - key: '51'
+      en: p. 51
+      de: S. 51
+    - key: '52'
+      en: p. 52
+      de: S. 52
+    - key: '53'
+      en: p. 53
+      de: S. 53
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '58'
+      en: p. 58
+      de: S. 58
+    - key: '60'
+      en: p. 60
+      de: S. 60
+    - key: '62'
+      en: p. 62
+      de: S. 62
   koeckritz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -946,6 +1144,16 @@ person:
     - key: 2-70
       en: Part 2, p. 70
       de: Heft 2, S. 70
+  massenbach:
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '55'
+      en: p. 55
+      de: S. 55
   miaczynski:
   - work: zychlinski1885
     cite: Żychliński (1885)
@@ -962,12 +1170,30 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+    - key: '223'
+      en: p. 223
+      de: S. 223
+    - key: '224'
+      en: p. 224
+      de: S. 224
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '40'
+      en: p. 40
+      de: S. 40
+  - work: minakowska2026prusimski
+    cite: Minakowska (2026, Antoni Prusimski)
+    pages:
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   napoleon:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1182,6 +1408,19 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '40'
+      en: p. 40
+      de: S. 40
+  niemojewski:
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '37'
+      en: p. 37
+      de: S. 37
   noldichen:
   - work: held1801
     cite: Held (1801)
@@ -1227,6 +1466,15 @@ person:
     - key: '160'
       en: p. 160
       de: S. 160
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '59'
+      en: p. 59
+      de: S. 59
   prinz-george:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1253,6 +1501,12 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+  - work: minakowska2026prusimski
+    cite: Minakowska (2026, Antoni Prusimski)
+    pages:
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   prusimska-katarzyna:
   - work: chodyla2015
     cite: Chodyła (2015)
@@ -1303,6 +1557,15 @@ person:
     - key: '32'
       en: p. 32
       de: S. 32
+  - work: minakowska2026prusimski
+    cite: Minakowska (2026, Antoni Prusimski)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: c02
+      en: Przodkowie
+      de: Przodkowie
   prusimski-pawel:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -1373,6 +1636,24 @@ person:
     - key: '161'
       en: p. 161
       de: S. 161
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '59'
+      en: p. 59
+      de: S. 59
+    - key: '61'
+      en: p. 61
+      de: S. 61
   scharnhorst:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1429,6 +1710,24 @@ person:
     - key: '158'
       en: p. 158
       de: S. 158
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '51'
+      en: p. 51
+      de: S. 51
+    - key: '52'
+      en: p. 52
+      de: S. 52
   schulenburg:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1454,6 +1753,15 @@ person:
     - key: '143'
       en: p. 143
       de: S. 143
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '43'
+      en: p. 43
+      de: S. 43
   sobolewski:
   - work: karwowski1900
     cite: Karwowski (1900)
@@ -1488,6 +1796,12 @@ person:
     - key: '158'
       en: p. 158
       de: S. 158
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '46'
+      en: p. 46
+      de: S. 46
   struensee:
   - work: held1801
     cite: Held (1801)
@@ -1597,6 +1911,18 @@ person:
     - key: '143'
       en: p. 143
       de: S. 143
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '43'
+      en: p. 43
+      de: S. 43
   thaer:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1800,6 +2126,33 @@ person:
     - key: '21'
       en: p. 21
       de: S. 21
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '51'
+      en: p. 51
+      de: S. 51
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '57'
+      en: p. 57
+      de: S. 57
+    - key: '60'
+      en: p. 60
+      de: S. 60
+    - key: '61'
+      en: p. 61
+      de: S. 61
   voss:
   - work: materialien1861
     cite: Materialien (1861)
@@ -1936,6 +2289,24 @@ person:
     - key: '179'
       en: p. 179
       de: S. 179
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '47'
+      en: p. 47
+      de: S. 47
+    - key: '48'
+      en: p. 48
+      de: S. 48
+    - key: '52'
+      en: p. 52
+      de: S. 52
   wartensleben:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1955,6 +2326,15 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '56'
+      en: p. 56
+      de: S. 56
+    - key: '59'
+      en: p. 59
+      de: S. 59
   wybicki:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1983,6 +2363,15 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '48'
+      en: p. 48
+      de: S. 48
   - work: kucharski2023
     cite: Kucharski (2023)
     pages:
@@ -2012,6 +2401,21 @@ person:
     - key: '156'
       en: p. 156
       de: S. 156
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '55'
+      en: p. 55
+      de: S. 55
+    - key: '59'
+      en: p. 59
+      de: S. 59
   zerboni:
   - work: materialien1861
     cite: Materialien (1861)
@@ -2046,6 +2450,48 @@ person:
     - key: c08
       en: VI. Kapitel.
       de: VI. Kapitel.
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '32'
+      en: p. 32
+      de: S. 32
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '43'
+      en: p. 43
+      de: S. 43
+    - key: '44'
+      en: p. 44
+      de: S. 44
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '47'
+      en: p. 47
+      de: S. 47
+    - key: '48'
+      en: p. 48
+      de: S. 48
+    - key: '49'
+      en: p. 49
+      de: S. 49
+    - key: '51'
+      en: p. 51
+      de: S. 51
 place:
   betsche:
   - work: feuerbraende1807
@@ -2183,6 +2629,21 @@ place:
     - key: '582'
       en: p. 582
       de: S. 582
+  - work: minakowska2026prusimski
+    cite: Minakowska (2026, Antoni Prusimski)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: c01
+      en: Rodzice
+      de: Rodzice
+    - key: c02
+      en: Przodkowie
+      de: Przodkowie
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   kopojno:
   - work: breyer1938
     cite: Breyer (1938)
@@ -2524,6 +2985,15 @@ place:
     - key: '179'
       en: p. 179
       de: S. 179
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '44'
+      en: p. 44
+      de: S. 44
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:

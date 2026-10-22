@@ -21,6 +21,7 @@ were true when they were written.
 | [PRUSIMSKI_ERA_PLAN.md](PRUSIMSKI_ERA_PLAN.md) | The Prusimski era: the court books from Poznań still to add, how each is added, the spelling question, thoughts on the glossary. What the editor has decided and what waits on them. |
 | [GLOSSARY_PLAN.md](GLOSSARY_PLAN.md) | The glossary page and the definitions in the documents: planned, not built. |
 | [LITERATURE_PLAN.md](LITERATURE_PLAN.md) | The books and articles about the sources (`literature/`): kept apart from the archival documents, original and English page by page, for questions; which are shown on the site and how. |
+| [NEWSPAPERS_PLAN.md](NEWSPAPERS_PLAN.md) | The items from the press (`newspapers/`): neither holdings nor literature, the editor's own section; how an item is read (OCR in the project), what is shown and what is open. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 
 ## Reports — a record of how something was settled

@@ -26,6 +26,7 @@ en:
     places: Places
     glossary: Glossary
     sources: Sources
+    newspapers: Newspapers
     literature: Literature
     about: About the edition
   foot: >-
@@ -357,6 +358,29 @@ en:
   lit_doc: "%s, document %s"
   lit_sub_head: Attached to the work above
   lit_parent: Attached to
+  np_h1: Newspapers
+  np_lede: >-
+    Items from the press, kept apart from the archival sources and from the
+    literature: what the newspapers printed about the places the edition's
+    documents come from, transcribed as printed and given with an English
+    translation. They are witnesses of their day, not works about the past,
+    and each is introduced with what kind of item it is.
+  np_caveat: >-
+    The English translation was made by Claude, an AI model, and has not
+    been checked against the original as a whole. Quote from the original,
+    and read any passage you rely on there.
+  np_caveat_list: >-
+    Each item is transcribed as printed and given with an English translation
+    made by Claude; the original decides.
+  np_read: Read the item
+  np_newspaper: Newspaper
+  np_published: Published
+  np_source: Source of the scan
+  np_caveat_editor: The English translation is the editor's own.
+  np_mentions: "In the newspapers: %d passages"
+  np_mentions_one: "In the newspapers: one passage"
+  np_hint_en: The English translation by Claude; the original decides.
+  np_hint_orig: The item as printed, line by line.
   f_unit: Holding
   f_era: Era
   f_anyera: All eras
@@ -365,6 +389,15 @@ en:
   f_allunits: All holdings
   doc_one: document
   doc_many: documents
+  gen_family: Family
+  gen_born: Born
+  gen_died: Died
+  gen_parents: Parents
+  gen_marriages: Marriage
+  gen_children: Children
+  gen_notes: The sources of the database's page
+  gen_documents: Documents that name them
+  gen_person_page: Their page
 
 de:
   code: de
@@ -381,6 +414,7 @@ de:
     places: Orte
     glossary: Glossar
     sources: Quellen
+    newspapers: Zeitungen
     literature: Literatur
     about: Über die Edition
   foot: >-
@@ -717,6 +751,30 @@ de:
   lit_doc: "%s, Dokument %s"
   lit_sub_head: Zum obigen Werk gehörig
   lit_parent: Gehört zu
+  np_h1: Zeitungen
+  np_lede: >-
+    Stücke aus der Presse, getrennt gehalten von den Archivalien und von der
+    Literatur: was die Zeitungen über die Orte druckten, aus denen die
+    Dokumente der Edition kommen, abgedruckt wie gedruckt und mit einer
+    englischen Übersetzung gegeben. Sie sind Zeugen ihrer Zeit, nicht Werke
+    über die Vergangenheit, und jedes ist eingeführt mit dem, was für ein
+    Stück es ist.
+  np_caveat: >-
+    Die englische Übersetzung wurde von Claude, einem KI-Modell, gemacht und
+    ist nicht als Ganzes gegen das Original geprüft. Zitiere das Original,
+    und lies jede Stelle, auf die du dich stützt, dort nach.
+  np_caveat_list: >-
+    Jedes Stück ist abgedruckt wie gedruckt und mit einer englischen
+    Übersetzung von Claude gegeben; maßgeblich ist das Original.
+  np_read: Das Stück lesen
+  np_newspaper: Zeitung
+  np_published: Erschienen
+  np_source: Herkunft des Abdrucks
+  np_caveat_editor: Die englische Übersetzung ist des Editors eigene.
+  np_mentions: "In den Zeitungen: %d Stellen"
+  np_mentions_one: "In den Zeitungen: eine Stelle"
+  np_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
+  np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
   f_unit: Bestand
   f_era: Epoche
   f_anyera: Alle Epochen
@@ -725,3 +783,12 @@ de:
   f_allunits: Alle Bestände
   doc_one: Dokument
   doc_many: Dokumente
+  gen_family: Familie
+  gen_born: Geboren
+  gen_died: Gestorben
+  gen_parents: Eltern
+  gen_marriages: Ehe
+  gen_children: Kinder
+  gen_notes: Die Quellen der Seite der Datenbank
+  gen_documents: Dokumente, die sie nennen
+  gen_person_page: Ihre Seite

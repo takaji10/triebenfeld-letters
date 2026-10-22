@@ -1521,6 +1521,45 @@ cloud branches").
 
 ## Traps in the tools
 
+- **A file named .jpg can be a WebP** (2026-10-22, the Dziennik Poznański
+  clipping). Windows' own imaging (GDI+, WIC) refuses it —
+  `System.Drawing.Bitmap` throws "Parameter is not valid" — while PIL reads
+  it without a word. If a picture "will not open" on Windows, ask PIL what
+  `im.format` says. `pipeline/ocr.py` and PIL read the clipping as it is.
+- **Tesseract in the project** (installed 2026-10-22 at the editor's word,
+  when the clipping was read): the engine is Tesseract 5.5.3 (winget
+  `tesseract-ocr.tesseract`, `C:\Program Files\Tesseract-OCR`), the Polish
+  models are in `%LOCALAPPDATA%\Tesseract\tessdata` (tessdata_best and the
+  standard model, fetched from the tesseract-ocr/tessdata repository; the
+  installer's own tessdata carries English only), `pytesseract` is installed.
+  **Neither the engine nor the data is on PATH** — `pipeline/ocr.py` looks
+  them up itself (`read()`, `words()`), so pipeline code imports that and
+  never calls tesseract.exe by hand. It runs on the editor's Windows machine;
+  a cloud session cannot OCR this way, and needs the text given or paid out
+  for.
+- **OCR a page as the agreement of passes, not from one run.** The five
+  passes over the clipping (two upscalings ×3/×4, psm 6 and 4, tessdata_best
+  beside the standard model, Windows.Media.Ocr as a third witness) agreed on
+  almost every word; each pass that disagreed was the one wrong. Tesseract's
+  word confidences (`words()`) sort what goes to the spot sheet; Tesseract's
+  TSV wants `-c tessedit_create_tsv=1` (the bare `tsv` config name prints
+  plain text instead), and its output ends each line with \r. Small scans
+  want upscaling: the clipping is 712×960 and only reads well at ×3 and ×4.
+- **An item's uid in the newspapers index is its slug with "-1"**
+  (2026-10-22). The register's `only_in` filters pin a spelling to the uid
+  it was read in ("Pawłá Prusinskie" to kuryerpolski1754075-1); when the
+  Kuryer Polski left the corpus for the newspapers, the index re-created
+  that uid for the item, so the filters kept working and no register entry
+  had to change. A person named by no document any more (Głowiecki) still
+  stands on /people/: build_site_data takes the newspapers' mentions as a
+  second reason to show a person.
+- **A stand-alone spot sheet** (2026-10-22, `scratch/dp1937_sheet.py`): for
+  an item that is not a unit yet, copy the queries.py page and saving into a
+  scratch script with its own rows and crops (its `--read` prints the
+  answers); the crops are cut from an upscale of the scan and the whole page
+  is shown at the top. Answers went to `review/dp19370807/
+  query_answers.json` (git-ignored, like all review/); the rulings are
+  recorded in the item's notes.md, which is tracked.
 - **A Wikisource page of Arct's dictionary has no text of its own**
   (2026-10-21). Its source (`action=raw`) is only a template naming the
   scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the
@@ -1872,3 +1911,47 @@ cloud branches").
   printed its old output. Run Python from a subfolder (the `djvucrop`
   pattern), never from the temp folder itself.
 
+- **The Minakowska pages** (2026-10-22). A saved page of sejm-wielki.pl is
+  written in **ISO-8859-2**, not cp1250 - the first reading turned Łoś into
+  "Ło¶" and Dąmbska into "D±mbska"; a byte is the same letter in both
+  charset's lower half only by luck. The rule and the method are in
+  `docs/LITERATURE_PLAN.md`, section 22. The gender icons are images with
+  alt text; the ■ and □ marks stand before a spouse, the filled one before
+  the spouse the children beneath descend from (as the page uses it). The
+  pages' chrome is dropped by the work's `make_original.py`, keyed on the
+  Polish strings; the footer's "Związek z M.J. Minakowską" is a mangled
+  byte in the page itself ("Minakowskš"), so the chrome key matches the
+  prefix, not the whole word.
+- **A new `_dir` under site/ must be declared a collection** (2026-10-22).
+  Jekyll ignores any directory beginning `_` whose collection is not
+  declared in `site/_config.yml`: the first person pages were written to
+  `site/_people/` and the build produced nothing, without an error.
+  Declaring the collection (and its `_de` twin, with `output: true` and a
+  `defaults:` layout) is part of adding a generated page kind. The project's
+  generated page dirs are collections: `_literature*`, `_newspapers*`,
+  now `_people*`.
+- **`person_pages.py` runs after build_site_data** (2026-10-22), in
+  regenerate.py's MERGED order, because it reads the generated
+  `site/_data/people.yml` and the index's `literature_mentions.yml` and
+  writes the genealogy the layout renders. Editing `reference/genealogy.yml`
+  alone is not enough: run the script (or regenerate) before building the
+  site, or the page keeps the old data.
+- **The literature index and only_in** (2026-10-22). A person entry with
+  `only_in:` (a list of document uids) never matches in the literature -
+  the literature record's uid is not a document's - so the grandson
+  Włodzimierz is not matched there, and his bare "Miączyński" would be
+  counted to his father Stanisław. The ruling that keeps the grandchildren
+  off Stanisław's list is the passage-level `except:` in
+  `literature/index.yml`; the mechanism cannot rule per line, so a passage
+  that names both the subject and a relative is ruled by whichever the
+  passage is about, with the reason in a comment.
+- **Concurrent sessions share the working tree** (2026-10-22, seen twice in
+  one day). While this session worked, another committed its Mielewczyk
+  work onto main and a third created its Łukasiewicz (1997) in the same
+  folders mid-run; the shared generated files (`corpus/literature/
+  index.json`, `site/_data/literature*.yml`) pick up whatever is in
+  `literature/` when the scripts run. Commit only the files the session
+  made or alone modified, leave the shared generated files uncommitted,
+  and say so in the report; a fresh rebuild regenerates them from the
+  committed works. A verify failure naming a work this session never
+  touched is that work's session's in-flight state.

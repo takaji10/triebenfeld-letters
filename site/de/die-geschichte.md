@@ -83,7 +83,7 @@ den Gerichtsregistern von Konin und Kalisch, von 1754 bis 1788, folgen dem Strei
 Gelände und vor Gericht davor und danach; jeder Bestand steht unter
 [Quellen]({{ '/de/quellen/' | relative_url }}). Eine Warschauer Zeitung berichtete im Dezember
 1754 über das Begräbnis Paweł Prusimskis in Trąbczyn
-([der Bericht]({{ '/de/quellen/kuryerpolski1754075/' | relative_url }})). Aus den letzten Jahren vor
+([der Bericht]( {{ '/de/zeitungen/kuryerpolski1754075/' | relative_url }} )). Aus den letzten Jahren vor
 der Teilung stammen
 ein Register der Rauchfangsteuer von 1789 ([1789]({{ '/de/quellen/app53640kalisztab21/' | relative_url }}))
 und die Visitation der Pfarrei Trąbczyn 1790 und 1791, die ihre 760 Seelen zählt

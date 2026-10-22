@@ -26,11 +26,16 @@
     {%- endif %}
     <h2>{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
     {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
+    {%- if site.data.genealogy.people[p.slug] %}
+    <p class="refs"><a class="person-page-link" href="{{ u_people | append: p.slug | append: '/' | relative_url }}">{{ t.gen_person_page }}</a></p>
+    {%- endif %}
     {%- if p.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif p.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
-    <p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>
-    {% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}
+    {% if p.docs > 0 %}<p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>{% endif %}
+    {% if p.docs > 0 %}{% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}{% endif %}
     {%- assign lit_works = site.data.literature_mentions.person[p.slug] %}
     {% include lit-mentions.html works=lit_works %}
+    {%- assign np_works = site.data.newspapers_mentions.person[p.slug] %}
+    {% include np-mentions.html works=np_works %}
   </div>
 {% endfor %}
 </div>

@@ -119,6 +119,59 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **Łukasiewicz (1997)** (`lukasiewicz1997`, added 2026-10-22,
+  **committed, not published**): Dariusz Łukasiewicz, "Nowa analiza
+  „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R.
+  CIV, nr 2, pp. 31-62 - the modern source study of the black register the
+  edition carries in print. The editor's rulings: the whole article, visible,
+  the appendix tables as HTML tables. Read from the RCIN digitisation's page
+  images (the OCR layer a scaffold only); the register's manuscript found in
+  GStAPK and read against three official lists; the headline figures
+  corrected (48 donataries, 52 donations, 245 estates, nominal 2 069 550
+  Thaler, real value 4-7 million against the title page's 20 million); the
+  corrupt side told (Hoym's circle, Triebenfeld's resale, the rescripts
+  against selling to Poles). Two hand-made links tie it to the Prince's
+  letters; where its figures differ from the documents, the documents stand.
+  Read `literature/lukasiewicz1997/notes.md` first. Not published.
+- **Minakowska (2026), the Starost's page, and the person pages**
+  (2026-10-22, committed; not published): the first saved page of
+  Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with
+  the standing rule for the ones that follow
+  (`docs/LITERATURE_PLAN.md`, section 22) - one excerpt work per person
+  (`minakowska2026<name>`), the whole page kept as the work's `full.md`
+  knowledgebase and never shown, the editor's sections shown in full
+  detail, **the database's estimated dates never in the edition's prose**
+  (EDITORIAL_RULES, 2026-10-22), the documents first. With it the **person
+  pages**: a page per person from the authored `reference/genealogy.yml`
+  (who they are, their life dates, the family with the source of every
+  fact, the documents, the literature), built by
+  `pipeline/build/person_pages.py` after the website data and the index,
+  layout `person`, both languages, linked from the People page; checked by
+  verify_site.py. The pilot: /people/prusimski/
+  (/de/personen/prusimski/), with the life-line 1744-ca 1806 (accepted;
+  the "ca" open, NEEDS_CONFIRMATION). Read
+  `literature/minakowska2026prusimski/notes.md` first. The database's
+  pages are ISO-8859-2, not cp1250.
+- **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
+  published**): the editor's third section for newspaper articles, "since
+  it doesn't really fall under archival sources or literature" — neither
+  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Two items:
+  the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180 (7 August
+  1937) — three municipal notes, transcribed line by line from the clipping
+  by OCR with **no paid run** (Tesseract 5.5.3 + Polish models installed at
+  the editor's word, `pipeline/ocr.py`; five passes in agreement; thirteen
+  words ruled on a spot sheet; `newspapers/dziennikpoznanski19370807/notes.md`)
+  — and **the Kuryer Polski's funeral report of 1754, moved here from the
+  Sources page at the editor's word** (the edition counts 619 documents in
+  46 holdings; the old /documents/ addresses redirect; the timeline's event
+  of 1754 links the item). The editor's rulings of the day are worked in:
+  the clipping's source (the blog Zagórów w historii, its post of 2 October
+  2024), the rights approved, the clipping and the Kuryer's page carried on
+  the item pages, and **the index of people and places run over the items**
+  (`pipeline/newspapers/newspapers_index.py`; 18 hits all ruled in
+  `newspapers/index.yml`; the "In the newspapers" boxes on /people/ and
+  /places/; Głowiecki stands on /people/ with no documents). Open: the
+  Oleśnica identification (NEEDS_CONFIRMATION). Not published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów
