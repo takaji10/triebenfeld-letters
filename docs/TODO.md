@@ -810,3 +810,25 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       page gives them.
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 25. The newspapers: the three Lidmanowski texts (added 2026-10-22)
+
+- [x] The three items (`zdrowie1912z10`, `jutrzenka1913z8`,
+      `zdrowie1914z6`): the texts from your file, nothing tidied, the
+      English corrected against the Polish (eleven artifacts, recorded in
+      the notes), the accounts and summaries in both languages, the
+      dating settled (the housing survey of 1914, not 1912-1913).
+- [x] Rights settled: the author died 6 January 1943, the texts public
+      domain since 2014; all three shown whole at your word.
+- [x] Dr. Lidmanowski's person entry (`lidmanowski`, the Głowiecki
+      shape) and the index ruled (one hit: the Jutrzenka digest's "dr.
+      Lidmanowski").
+- [ ] **You:** the Jutrzenka signature — whether the page of 24 April
+      1913 is signed by him or the piece is an anonymous digest of his
+      Zdrowie article (the digitisation was unreachable from the working
+      session; NEEDS_CONFIRMATION, "The newspapers").
+- [ ] **You:** the open questions in NEEDS_CONFIRMATION ("The
+      newspapers"): the life dates (Wikipedia), Słupca as a place of the
+      edition.
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

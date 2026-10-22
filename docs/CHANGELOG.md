@@ -2441,6 +2441,46 @@ lose his estates. The era page writes Konotop, not Kontop.
   25. The literature has 32 works, 30 on the site (two summary-only). The
   spot sheet open; not published.
 
+## 2026-10-22 — The newspapers: the three Lidmanowski texts
+
+- **Three new items** (`newspapers/zdrowie1912z10/`, `newspapers/
+  jutrzenka1913z8/`, `newspapers/zdrowie1914z6/`), from the editor's file
+  "Texts by Dr. Konstanty Lidmanowski, Zagórów (1912-1913).md" — English
+  and Polish together, each with its digitisation link, the transcription
+  secure (the editor's word; no OCR, no spot sheet, no page image carried).
+  The first items that are articles of learned journals: two in *Zdrowie*
+  (the organ of the Warsaw Hygiene Society) — the nutrition study of the
+  Słupca powiat, R. XXVIII, z. 10 (1912), pp. 720-725, and the housing
+  survey, R. XXX, z. 6 (1914), pp. 432-440 — and one in *Jutrzenka* of
+  Łódź (R. 3, nr 8, 24 April 1913, pp. 7-10), the digest of Lidmanowski's
+  attire article in the March 1913 *Zdrowie*.
+- **The housing survey dated 1914** against the file's name
+  ("1912-1913"): Polona's metadata, the issue's table of contents ("Lidma-
+  nowski K. Dr. z Zagórowa. Jak mieszka lud nasz? . . 432") and the
+  literature (Boldyrew) agree. The editor's word.
+- **The English came with the file** (made by Claude) and was read
+  against the Polish and corrected in session — eleven artifacts, among
+  them a sentence the translation printed twice (the nutrition text's),
+  "several dozen rubles" for *kilkanaście* (some fifteen), "woolen sailor
+  suit" for *ubranie marynarkowe* (a jacket suit), and the like; every
+  correction recorded in the item's `notes.md` with the Polish that
+  decided it.
+- **Rights**: the author, Dr. Konstanty Lidmanowski (30 March 1865,
+  Słupca - 6 January 1943, Zagórów; the Polish Wikipedia's article, with
+  Kumosa 1992), died 1943, so Polish copyright (life + 70) lapsed in
+  2014 — all three shown whole at the editor's word. The Jutrzenka digest,
+  if anonymous, out of copyright since 1984 either way.
+- **A person entry** `lidmanowski` (reference/people.yml, heading
+  "Lidmanowski, Konstanty"), the Głowiecki shape: no documents of the
+  edition, the Jutrzenka digest's "dr. Lidmanowski" ruled to him in
+  `newspapers/index.yml` (the one text that names him in its body; the
+  Zdrowie articles stand on their issue's table of contents).
+- **Open in NEEDS_CONFIRMATION**: the Jutrzenka signature (the
+  digitisation unreachable from the working session); the life dates
+  resting on Wikipedia; Słupca as a place of the edition (it is in no
+  register, so the powiat's name matches no pattern); the 1914 date.
+  `docs/NEWSPAPERS_PLAN.md`, section 5. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

@@ -139,6 +139,24 @@ so check them.
   from outside the page (Orangeriehaus, Hesekiel) open in NEEDS_CONFIRMATION.
   `docs/LITERATURE_PLAN.md`, section 25. Read
   `literature/werner1904/notes.md` first. Not published.
+- **The three Lidmanowski texts** (`zdrowie1912z10`, `jutrzenka1913z8`,
+  `zdrowie1914z6`, added 2026-10-22, **committed, not published**): the
+  first learned-journal articles of the Newspapers section and the first
+  batch from the editor's own Markdown file — two in *Zdrowie*, the organ
+  of the Warsaw Hygiene Society (the nutrition study of the Słupca powiat,
+  R. XXVIII, z. 10, 1912; the housing survey, R. XXX, z. 6, **1914** —
+  dated 1914 against the file's name "1912-1913" at the editor's word,
+  the metadata, the issue's ToC and the literature agreeing) and one in
+  *Jutrzenka* of Łódź (the digest of the attire article, R. 3, nr 8,
+  24 April 1913; its signature open, NEEDS_CONFIRMATION — the
+  digitisation unreachable from the session). The editor's rulings: three
+  separate items; the transcription secure (no OCR, no spot sheet, no
+  page images); the English came with the file and was corrected against
+  the Polish in session (eleven artifacts, recorded in the notes); all
+  three shown whole (Dr. Konstanty Lidmanowski of Zagórów, 1865-1943,
+  public domain since 2014); a person entry (`lidmanowski`, the Głowiecki
+  shape, the Jutrzenka hit ruled). Read each item's `notes.md` first.
+  Not published.
 - **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **committed,
   not published**): the editor's new section (`places/`,
   `docs/PLACES_PLAN.md`) — a page per place that has sources of its own,
