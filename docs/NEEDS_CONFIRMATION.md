@@ -929,6 +929,30 @@ Places (`reference/places.yml`, `open_questions`):
     not settled, and the hit is not ruled to the edition's minister of state
     and justice Eberhard von der Reck.
 
+- **Werner (1904)** (added 2026-10-23; its rulings in `literature/index.yml`
+  carry the reasons):
+  - The **spot sheet** (`scratch/werner1904_sheet.py`) is open: twenty
+    readings the OCR passes did not settle, each with its crop from the page
+    image - the heading's Diözese/Diöcese, the Prince's title (read
+    "Kronschätzmeister"), "Orangeriehaus", "1. Juni" against "1. Juli" for
+    the Filial Wilhelmsau of 1892, the pastors Krause, Heise and Schent, the
+    parishes Piesske, Ciele and Gogolin, and the parish list's hard names
+    (Guttowy, Raczanowo, Ossowo, Piary, Zafutowo, Racławki, Amilfarowo,
+    Sokolnik, Galenzewo). The text stands as the sheet's first buttons until
+    they answer.
+  - The entry's **Sokolnik** is taken to be a village of the parish of
+    Wreschen (Kreis Wreschen), not the edition's Amt Sokolnik by Wieruszów
+    (the domain proposed as compensation for Trąbczyn, Oe 1 Bü 9454 letters
+    6 and 288): the index hit is refused on that ground. Whether any village
+    of the Wreschen parish could be the same Sokolnik is not established.
+  - The General Superintendent **Hesekiel** who dedicated the churches of
+    1892 and 1895 is taken to be Johannes Hesekiel, General Superintendent
+    of Posen from 1886 - Claude's identification from outside the page (the
+    OCR could not settle the letters); the page says only "D. Hesekiel".
+  - The **Kronschätzmeister** of Prince Adam Poniński: read on the sheet;
+    historically he was the Court Treasurer of the Crown (podskarbi
+    nadworny koronny), which is Claude's note, not the page's.
+
 ## Translations
 
 Since 2026-10-06 the site no longer shows a translation's status or says

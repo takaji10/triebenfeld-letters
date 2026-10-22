@@ -3685,6 +3685,12 @@ place:
     - key: '87'
       en: p. 87
       de: S. 87
+  - work: werner1904
+    cite: Werner (1904)
+    pages:
+    - key: '422'
+      en: p. 422
+      de: S. 422
   - work: breyer1935gaue
     cite: Breyer (1935a)
     pages:

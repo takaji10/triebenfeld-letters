@@ -1,0 +1,70 @@
+# One work of the literature (docs/LITERATURE_PLAN.md). An excerpt: entry 201,
+# "Wreschen", the whole entry, printed pp. 422-424, read in session from the
+# editor's page images of the WBC digitisation (publication 34695, edition
+# 51858; the images not kept in the repository). english.md is Claude's.
+# Out of copyright (printed 1904). See notes.md.
+slug: werner1904
+visible: true
+kind: history
+title: "Geschichte der evangelischen Parochien in der Provinz Posen"
+title_en: "History of the evangelical parishes in the province of Posen"
+cite: "Werner (1904)"
+author: "Albert Werner"
+author_sort: "Werner, Albert"
+published: "Lissa: Friedrich Ebbecke, 1904 (verfaßt von Albert Werner, überarbeitet von Johannes Steffani, herausgegeben von dem Königlichen Consistorium der Provinz Posen)"
+year: 1904
+language: de
+english_by: Claude
+scan: "https://www.wbc.poznan.pl/dlibra/publication/34695/edition/51858/content"
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A parish history of the evangelical parishes of the Prussian province of
+  Posen, compiled by Albert Werner, formerly pastor at Tremessen, revised by
+  Johannes Steffani, deacon at St. Peter's church in Posen, and published by
+  the Royal Consistory of the province of Posen (Lissa: Friedrich Ebbecke,
+  1904). The parishes are taken entry by entry, numbered, each with the story
+  of its founding, its church buildings and its pastors. Only entry 201, the
+  parish of Wreschen (Września), is brought in, whole (printed pp. 422-424).
+  It bears on the edition's ground at one point: the Wreschen parish
+  originally served the German Hauländer country around the towns of Peisern
+  (Pyzdry) and Zagorowo (Zagórów), and "a district rich in German Hauland
+  lands" went from it in 1817, when those places came to Russia - the
+  Olęder/Hauländer country the edition's documents are set in. The entry also
+  records the parish's founding: the leave of the lord Matthias Lodzia
+  Poniński of 1758 to hold religious meetings and found a school, its renewal
+  in 1760 by the Crown Treasurer Prince Adam Poniński, who furthered an
+  evangelical local congregation to raise the town by German settlers, his
+  privilege of 1 May 1778 giving the orangery house in the castle garden for
+  a church, two buildings for the parson and the canton, and one Culm Hufe of
+  land for the parsonage, and the Consistory in Lissa approving the parish in
+  1779; the rebuilding of the church of 1822, the help of the Gustav Adolf
+  Verein, the new church of 1895, the filial Wilhelmsau of 1892 with its
+  Bethaus of the Royal Settlement Commission, and the list of the ten pastors
+  of 1779-1904.
+account_de: >-
+  Eine Geschichte der evangelischen Parochien der preußischen Provinz Posen,
+  verfaßt von Albert Werner, früher Pastor in Tremessen, überarbeitet von
+  Johannes Steffani, Diakonus an der St. Petrikirche in Posen, herausgegeben
+  von dem Königlichen Consistorium der Provinz Posen (Lissa: Friedrich
+  Ebbecke, 1904). Die Parochien werden Eintrag für Eintrag, numeriert,
+  behandelt, jede mit der Geschichte ihrer Gründung, ihrer Kirchbauten und
+  ihrer Pastoren. Nur Eintrag 201, die Parochie Wreschen (Września), ist
+  aufgenommen, und zwar als Ganzes (gedruckt S. 422-424). Sie berührt den
+  Boden der Edition an einem Punkt: Die Parochie Wreschen diente ursprünglich
+  dem deutschen Hauländer Land um die Städte Peisern (Pyzdry) und Zagorowo
+  (Zagórów), und "eine an deutschen Hauländereien reiche Gegend" ging 1817 für
+  sie verloren, als jene Ortschaften an Rußland kamen - das Olęder-/Hauländer
+  Land, in dem die Dokumente der Edition stehen. Die Eintrag hält auch die
+  Gründung der Parochie fest: die Erlaubnis des Gutsherrn Matthias Lodzia
+  Poniński von 1758, religiöse Zusammenkünfte zu halten und eine Schule zu
+  gründen, ihre Erneuerung 1760 durch den Kronschätzmeister Fürst Adam
+  Poniński, der auch die Bildung einer evangelischen Ortsgemeinde beförderte,
+  um die Stadt durch deutsche Ansiedler zu heben, sein Privilegium vom 1. Mai
+  1778, das das Orangeriehaus im Schloßgarten zur Kirche, zwei Gebäude zur
+  Pfarrer- und Kantorwohnung und eine culm. Hufe Acker zum Pfarrlande gab, und
+  das Konsistorium in Lissa, das 1779 die Bildung einer besonderen Pfarre
+  genehmigte; der Umbau der Kirche von 1822, die Beihilfe des Gustav-Adolf-
+  Vereins, die neue Kirche von 1895, das 1892 ins Leben getretene Filial
+  Wilhelmsau mit seinem Bethaus der Königlichen Ansiedlungskommission und das
+  Verzeichnis der zehn Pastoren von 1779 bis 1904.

@@ -894,7 +894,14 @@ places:
   ladek: {Lądek: yes}
   kopojno:
     Kopojno: yes
-  liegnitz: {Liegnitz: yes}
+  liegnitz:
+    # The Prince's Liegnitz (and any work's) stands; Werner (1904) names it
+    # only as the birthplace and government district of two pastors of the
+    # parish of Wreschen.
+    Liegnitz:
+      default: yes
+      except:
+        werner1904/423: "only the birthplace and government district of the parish's pastors, an incidental mention"
   lukom:
     Lukomska: "no: Huta Łukomska, a village named after Łukom; not Łukom itself"
     Łukomska: "no: Huta Łukomska, a village named after Łukom; not Łukom itself (Szwiec 2009)"
@@ -933,7 +940,13 @@ places:
     Ostrow: "no: the district of Ostrów, a settler's home in Breyer's table of 1860; not shown to be the edition's Ostrów"
     Ostrów: "no: Ostrów by Sławsk, an island in the Warta marsh (Breyer 1938)"
   paris: {Paris: yes}
-  pommern: {Pommern: yes}
+  pommern:
+    # The settlers' Pomerania of Breyer's tables stands; Werner (1904) names
+    # it only as the birthplace of one pastor of the parish of Wreschen.
+    Pommern:
+      default: yes
+      except:
+        werner1904/424: "only the birthplace of the parish's pastor Schiffmann, an incidental mention"
   posen:
     Posen:
       default: yes
@@ -943,6 +956,11 @@ places:
         kneifel1964/89: "the imprint of the cited book (Heike, Die Provinz Südpreußen)"
         kneifel1964/90: "the imprint of the cited journal"
         kneifel1964/94: "the imprint of the cited journal"
+        # Werner (1904): the title page's province and the reviser's church,
+        # and the heading's Diözese Posen I., the church district of the
+        # province - none the town as the edition's place.
+        werner1904/front: "the title page: the province and the Consistory's province, and the reviser's church, not the town"
+        werner1904/422: "the heading's Diözese Posen I., the church district of the evangelical church province, not the town"
   potsdam: {Potsdam: yes, Potsdammer: yes, Potsdamscher: yes}
   prag: {Prag: yes}
   pressburg: {Preßburg: yes}
@@ -971,6 +989,13 @@ places:
   schlesien: {Schlesien: yes}
   skokum:
     Skokom: yes
+  sokolnik:
+    # Werner (1904), p. 423: a village of the parish of Wreschen (Kreis
+    # Wreschen) in the list of localities - not the edition's Amt Sokolnik,
+    # the Prussian domain by Wieruszów proposed as compensation for Trąbczyn
+    # (Oe 1 Bü 9454, letters 6 and 288). Claude's reading of the name; open
+    # in NEEDS_CONFIRMATION.
+    Sokolnik: "no: a village of the parish of Wreschen near Września; not the edition's Amt Sokolnik by Wieruszów"
   sommerfeld:
     Sommerfeld: "no: the surname of settlers in Breyer's tables"
   st-petersburg: {Petersbourg: yes, Petersburg: yes, Petersburger: yes}
@@ -1071,3 +1096,7 @@ places:
     # its congregation (pp. 235, 256 "Zagorow").
     Zagörow: yes
     "Zagö-röw": yes
+    # Werner (1904), p. 422: the German form without the horn, one of "die
+    # Städte Peisern und Zagorowo" of the Hauländer country the parish lost
+    # in 1817 - the town beside Peisern/Pyzdry.
+    Zagorowo: yes

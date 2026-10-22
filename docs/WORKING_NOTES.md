@@ -2135,3 +2135,38 @@ cloud branches").
   renamed `wojciech-otto-trampczynski`; the collision and the rule are
   recorded in the block's comment in `reference/genealogy.yml`. The
   family entry itself keeps no page (it never had a genealogy block).
+- **Reading a Fraktur scan with no local Tesseract** (2026-10-23, Werner
+  1904). The editor's machine has no `tesseract` on PATH; the *lunaroute*
+  document converter (`tools.lunaroute.convert_document`, base64 of the
+  image through the Code Mode `fetch` of a local `python -m http.server`,
+  since the tool takes no local path) read the 1904 Fraktur well at three
+  scales - whole page, bands, single lines cut by a dark-pixel row profile.
+  Whole-page and band passes garble names; the line cut at 3x was the pass
+  to trust, with doubtful words re-cut at 6x. Fraktur rules used throughout:
+  ſ reads as f or j, kt as ft, ſch as sch, the print's "=" is a hyphen,
+  O reads as D (Orangeriehaus), ß as f (Neßla). Where two passes disagree
+  on letters that change a name, the word goes to the editor on a scratch
+  spot sheet (`scratch/slowo1892_sheet.py` pattern) - the first use of that
+  pattern for a literature work, its answers to `review/<slug>/`.
+- **The WBC's challenge: do not fight it** (2026-10-23). The
+  `dlibra/.../content` and `doccontent` URLs answer a proof-of-work browser
+  challenge (a JS MD5 puzzle writing a `captcha_pow` cookie that does not
+  clear server-side); solving the puzzle locally got the same challenge
+  back. The `docmetadata?id=N` page answers without any challenge and
+  carries the full DC/citation metadata - take the bibliographic facts
+  there and read the text from the editor's saved images.
+- **An incomplete sibling work stops the whole literature build**
+  (2026-10-23). `build_literature.py` walks every `literature/*/work.yml`
+  and dies on the first without an `english.md`; a concurrent session's
+  half-built work (`slowinski2023`) therefore blocks any other session's
+  rebuild. `scratch/build_literature_without.py <slug>...` shadows
+  `literature/` with directory junctions minus the named works and runs
+  the build's own `main()` against the shadow: nothing of the skipped work
+  is read or built, and the next full run picks it up. The build also
+  rmtree's `corpus/literature/` - running the full script with a
+  concurrent session's untracked passages present would delete them; the
+  shadow avoids that too. Where only the shared `index.json` is impure (a
+  concurrent build added an entry whose sources are uncommitted), filtering
+  the entry out of `index.json` with a one-line script is the smaller
+  touch - the passages and pages are then regenerated from the filtered
+  index.

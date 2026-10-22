@@ -2401,6 +2401,46 @@ lose his estates. The era page writes Konotop, not Kontop.
   `docs/LITERATURE_PLAN.md`, section 24. **Published 2026-10-22** at the
   editor's word.
 
+## The literature: Werner (1904), the parish histories of the province of Posen (2026-10-23, committed; not published)
+
+- Albert Werner, *Geschichte der evangelischen Parochien in der Provinz
+  Posen*, überarbeitet von Johannes Steffani, herausgegeben von dem
+  Königlichen Consistorium der Provinz Posen (Lissa: Friedrich Ebbecke 1904)
+  (`literature/werner1904/`), at the editor's word with the page images of
+  the WBC digitisation (publication 34695, edition 51858) in Downloads:
+  "only entry 201 about Wreschen is relevant for the project, hence that's
+  what's made available here". The excerpt is entry 201, the parish of
+  Wreschen (Września), printed pp. 422-424, whole, with the book's title
+  page as the work's front. Out of copyright; shown whole as far as brought
+  in.
+- The entry's bearing on the edition: the Wreschen parish originally served
+  the German Hauländer country around **Peisern (Pyzdry)** and **Zagorowo
+  (Zagórów)**, and "eine an deutschen Hauländereien reiche Gegend" went from
+  it in 1817 when those places came to Russia - the edition's Olęder ground
+  and its place `peyserschen-hauland`. The parish's founding by the
+  Ponińskis (1758, 1760, the orangery of 1 May 1778, the parish of 1779),
+  the churches of 1822 and 1895, the Filial Wilhelmsau of 1892 with its
+  Bethaus of the Royal Settlement Commission, and the ten pastors of
+  1779-1904. No document, person or settlement of the edition is named: no
+  hand-made links.
+- **Read by OCR alone** (no transcription existed, and the scans' text layer
+  is not in the repository): the lunaroute document converter over the whole
+  pages, the bands and the single lines, the passes checked against each
+  other (Fraktur ſ→f/j, kt→ft handled by rule; no local Tesseract on the
+  editor's machine). The readings a name or fact rests on that the passes
+  did not settle are on the editor's spot sheet (`scratch/werner1904_sheet.py`,
+  20 rows with crops; answers to `review/werner1904/query_answers.json`).
+  Two identifications from outside the page (Orangeriehaus, against the
+  Polish accounts of the same gift; the General Superintendent Hesekiel)
+  are recorded in the notes and NEEDS_CONFIRMATION.
+- Index hits read and ruled: `Peisern`, `Zagorowo` (the print's German form)
+  and `Rußland` stand; refused: the title page's and heading's `Posen` (the
+  province and the Diözese), `Liegnitz` and `Pommern` (pastors' birthplaces),
+  and `Sokolnik` (a village of the Wreschen parish, not the edition's Amt
+  Sokolnik - open in NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section
+  25. The literature has 32 works, 30 on the site (two summary-only). The
+  spot sheet open; not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

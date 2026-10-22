@@ -117,8 +117,28 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-22)
+## Where things stand (2026-10-23)
 
+- **Werner (1904)** (`werner1904`, added 2026-10-23, **committed, not
+  published**): Albert Werner, *Geschichte der evangelischen Parochien in
+  der Provinz Posen* (Lissa: Friedrich Ebbecke 1904), the numbered
+  parish-by-parish history of the evangelical parishes of the Prussian
+  province of Posen. Only entry 201, the parish of Wreschen (Września),
+  printed pp. 422-424, is brought in, whole, with the title page as the
+  work's front - the editor's word: "only entry 201 about Wreschen is
+  relevant for the project". Its bearing: the Wreschen parish served the
+  German Hauländer country around **Peisern (Pyzdry)** and **Zagorowo
+  (Zagórów)** until 1817, when that "an deutschen Hauländereien reiche
+  Gegend" went to Russia - the edition's `peyserschen-hauland`. Read by OCR
+  alone from the editor's page images of the WBC digitisation (34695/51858;
+  no local Tesseract - the lunaroute converter, whole pages then bands then
+  lines); the twenty readings the passes did not settle are on the editor's
+  spot sheet (`scratch/werner1904_sheet.py`, answers to
+  `review/werner1904/query_answers.json`), still open. Index ruled
+  (`literature/index.yml`); the Sokolnik refusal and the two identifications
+  from outside the page (Orangeriehaus, Hesekiel) open in NEEDS_CONFIRMATION.
+  `docs/LITERATURE_PLAN.md`, section 25. Read
+  `literature/werner1904/notes.md` first. Not published.
 - **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **committed,
   not published**): the editor's new section (`places/`,
   `docs/PLACES_PLAN.md`) — a page per place that has sources of its own,

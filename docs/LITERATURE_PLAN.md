@@ -909,3 +909,52 @@ shown on the site; only the excerpt scripts and the cut pages are committed.
   of 1775; Kneifel names the husband alone, the documents the couple, and
   the edition follows the documents. The literature has 31 works, 29 on the
   site (two summary-only). Published the same day at the editor's word.
+
+## 25. Werner (1904), the parish histories of the province of Posen (2026-10-23)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `werner1904` | Albert Werner, *Geschichte der evangelischen Parochien in der Provinz Posen*, überarbeitet von Johannes Steffani, herausgegeben von dem Königlichen Consistorium der Provinz Posen, Lissa: Friedrich Ebbecke 1904 | German | `[p. N]` | yes: the excerpt, entry 201 (pp. 422-424) whole |
+
+The editor's word (2026-10-23): the page images of the WBC digitisation
+(publication 34695, edition 51858) in Downloads
+(`51858_Geschichte_der_evangelischen_Parochien_in_der_Prov`), "only entry 201
+about Wreschen is relevant for the project, hence that's what's made
+available here". The book is a numbered parish-by-parish history of the
+evangelical parishes of the Prussian province of Posen, each entry with its
+founding, its church buildings and its pastors. Out of copyright (1904);
+shown whole as far as it is brought in.
+
+- **The excerpt**: entry 201, the parish of Wreschen (Września), printed
+  pp. 422-424, whole - the leave of Matthias Lodzia Poniński of 1758, the
+  renewal by the Crown Treasurer Prince Adam Poniński and the privilege of
+  1 May 1778 (the orangery house in the castle garden for a church, two
+  buildings for parson and cantor, one Culm Hufe for the parsonage), the
+  parish approved by the Consistory in Lissa in 1779, the loss in 1817 of
+  "eine an deutschen Hauländereien reiche Gegend mit den Städten Peisern und
+  Zagorowo" when those places came to Russia, the rebuilt church of 1822,
+  the new church of 1895 and its building sums, the Filial Wilhelmsau of
+  1892 (a Bethaus of the Royal Ansiedlungskommission), and the ten pastors
+  of 1779-1904. The title page is the work's `front`.
+- **What it bears on**: the German Hauländer country around Peisern (the
+  edition's Pyzdry) and Zagorowo (Zagórów) - the edition holds the place
+  `peyserschen-hauland` - which the parish served until 1817. No document,
+  person or settlement of the edition is named; no hand-made links.
+- **The first literature work read from page images by OCR alone** (no
+  transcription, no text layer in the repository): the *lunaroute* document
+  converter over the whole pages, the bands and the single lines, the passes
+  checked against each other; Fraktur's long s (ſ→f/j) and kt→ft handled by
+  rule, every reading a name or fact rests on that the passes did not settle
+  on the editor's spot sheet (`scratch/werner1904_sheet.py`, 20 rows with
+  crops from the page images, answers to
+  `review/werner1904/query_answers.json`). The work's `notes.md` records
+  what the passes agreed on and the two identifications from outside the
+  page (Orangeriehaus, Hesekiel).
+- The index: three hits stand (`Peisern`, `Zagorowo` - the print's German
+  form - and `Rußland`); refused with reasons: the title page's and the
+  heading's `Posen` (the province and the Diözese, not the town), `Liegnitz`
+  and `Pommern` (pastors' birthplaces), and `Sokolnik` (a village of the
+  Wreschen parish, not the edition's Amt Sokolnik by Wieruszów - open in
+  NEEDS_CONFIRMATION). The literature has 32 works, 30 on the site (two
+  summary-only). Committed, not published; the spot sheet open.
+
