@@ -1560,6 +1560,16 @@ cloud branches").
   is shown at the top. Answers went to `review/dp19370807/
   query_answers.json` (git-ignored, like all review/); the rulings are
   recorded in the item's notes.md, which is tracked.
+- **A WBC content URL sits behind the site's browser check** (2026-10-22,
+  the Ostdeutscher Beobachter item). `webfetch` to
+  `wbc.poznan.pl/dlibra/publication/<pub>/edition/<ed>/content` returns only
+  "Site is under high load"; the record's citation is still to be had —
+  search results carry the WBC titles verbatim ("... 1943.07.17 Jg.5
+  Nr195"), and the library's BibTeX endpoint
+  (`wbc.poznan.pl/dlibra/dlibra.bib?type=e&id=<object>`) returns the record
+  as a citation. Do not block the item on the record: the issue's year and
+  number, the place and the publisher are enough to cite, and the
+  Zeitschriftendatenbank carries the paper's full title.
 - **A Wikisource page of Arct's dictionary has no text of its own**
   (2026-10-21). Its source (`action=raw`) is only a template naming the
   scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the

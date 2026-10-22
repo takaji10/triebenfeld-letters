@@ -22,10 +22,11 @@ to neither:
 
 The site has a third section: the menu carries **Newspapers** ("Zeitungen")
 between Sources and Literature; /newspapers/ lists the items by year, each
-with its own page (/de/zeitungen/ in German). The first two items are the
+with its own page (/de/zeitungen/ in German). The items so far are the
 "Z Zagórowa" column of Dziennik Poznański, R. 79, nr 180 (7 August 1937),
-and the Kuryer Polski's funeral report of 1754, moved here from the Sources
-page (section 5).
+the Kuryer Polski's funeral report of 1754, moved here from the Sources
+page (section 5), and the Ostdeutscher Beobachter's feature on Łazińsk of
+19 July 1942 (section 5).
 
 ---
 
@@ -134,12 +135,26 @@ on /people/ all the same, with the newspapers' mentions beside them and no
 documents shown (build_site_data, the people list; the counts line and the
 document list are left out when there are no documents).
 
-## 5. The first two items (2026-10-22)
+## 5. The items so far (2026-10-22)
 
 | Slug | Item | Language | On the site |
 |---|---|---|---|
-| `dziennikpoznanski19370807` | Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937), the "Z Zagórowa" column: three municipal notes | Polish | yes, with the clipping |
 | `kuryerpolski1754075` | Kuryer Polski, nr 75 (25 December 1754): the report from Kalisz on the funeral of Paweł Prusimski at Trąbczyn, 5 December | Polish | yes, with the page |
+| `dziennikpoznanski19370807` | Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937), the "Z Zagórowa" column: three municipal notes | Polish | yes, with the clipping |
+| `ostdeutscherbeobachter19420197` | Ostdeutscher Beobachter, Jg. 4, Nr. 197 (19. Juli 1942): the feature "225 Jahre alte deutsche Siedlung im Wartheland" on Lazinsk (Łazińsk), in the Amtsbezirk Drommin — the wartime name of the rural commune of Trąbczyn — signed Willi Spatz | German | yes, with the WBC page |
+
+The third item came in the same day with the transcription and the English
+already made (the editor's file; "the transcription is secure" — no reading
+against the page, no spot sheet, no OCR). The editor's rulings on the direct
+questions: the English is Claude's (the standing caveat on the page), and
+the item is shown whole without the rights flagged — put to the editor
+because the item is signed, unlike the anonymous 1937 clipping ("Show it,
+no need to flag the rights"). What it bears on: the article's Amtsbezirk
+Drommin is the wartime name of the Trąbczyn commune, its Lazinsk is the
+Łazinsk of Breyer's notebook of 1936 (APP 53/968/0/-/669, which names the
+same teacher Mielke "seit 1925" and Michalinow beside it), and its founding
+date of 1718 stands against the edition's records (NEEDS_CONFIRMATION).
+`newspapers/ostdeutscherbeobachter19420197/notes.md` has it all.
 
 **The Kuryer Polski moved.** It came into the edition on 2026-10-16 as a
 holding (BK PAN Cz2271, the first from print and from a library) and the
@@ -171,4 +186,14 @@ Its thirteen doubtful readings were ruled on a spot sheet
      on the item's own geography; the editor to confirm or correct.
    - **Głowiecki's page** on /people/ (no documents, the newspapers'
      mentions beside them): the editor's eye.
+   - **The 1718 of the 1942 article** stands against the edition's own
+     records (the Łazińskie Olędry from the 1746 foundation; the Nowe
+     Olędry first attested 1776): the item keeps its date as printed and
+     the summary records the difference; the editor's eye on the wording.
+   - **Patterns for "Drommin" and the Łazinsk spellings**: the 1942 item
+     names the Amtsbezirk Drommin (the register's renamed name of
+     Trąbczyn, carried with no pattern) and "Lazinsk" (the register's
+     Łazińsk is `match: false`), so neither is indexed. Whether to add
+     patterns waits on the editor — with the same question already open
+     for Mielewczyk's "Kolonia Łazińskie".
 

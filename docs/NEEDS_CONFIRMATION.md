@@ -12,15 +12,16 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Two items in: the "Z Zagórowa" column of
-  Dziennik Poznański R. 79, nr 180 (7 August 1937) and the Kuryer Polski's
+  `docs/NEWSPAPERS_PLAN.md`). Three items in: the "Z Zagórowa" column of
+  Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
-  word (2026-10-22), with the old /documents/ addresses redirected. The
-  rulings of that day are worked in: the clipping's source (the blog
-  Zagórów w historii, its post of 2 October 2024), the rights (approved by
-  the editor), the clipping and the Kuryer's page shown on the item pages,
-  the index of people and places run over the items
-  (`newspapers/index.yml`, 18 hits all ruled). On the editor:
+  word (2026-10-22), with the old /documents/ addresses redirected, and
+  the Ostdeutscher Beobachter's feature on Łazińsk, Jg. 4, Nr. 197 (19 July
+  1942), added 2026-10-22. The rulings of that day are worked in: the
+  clipping's source (the blog Zagórów w historii, its post of 2 October
+  2024), the rights (approved by the editor), the clipping and the Kuryer's
+  page shown on the item pages, the index of people and places run over the
+  items (`newspapers/index.yml`, 20 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -33,6 +34,22 @@ repository; they are on the working machine.
     (Paweł, Katarzyna, Antoni), and the timeline's event of 1754 now links
     the item's page — said here so the change is known, not because a
     question is open.
+  - **The 1718 of the 1942 article.** The Ostdeutscher Beobachter's feature
+    on Lazinsk (Łazińsk) dates the settlement's foundation to 1718, by
+    fourteen Silesian families; the edition's own records carry the
+    Łazińskie Olędry from the 1746 foundation (the register; Chodyła 2015)
+    and first attest the Nowe Olędry on 29 September 1776. The item keeps
+    its date as printed — the documents first, and the edition's records
+    are the documents here — and its summary records the difference; the
+    editor's eye on the wording of the summary and the account.
+  - **Patterns for "Drommin" and the Łazinsk spellings.** The 1942 item
+    names the Amtsbezirk Drommin (the register carries Drommin as the
+    renamed name of Trąbczyn with no pattern — the changelog of 2026-10-21
+    says the name was "found in no document or work of the edition") and
+    the settlement as "Lazinsk" (the register's Łazińsk is a variant with
+    `match: false`), so neither mention is indexed. Whether to add patterns
+    waits on the editor, with the same question already open for
+    Mielewczyk's "Kolonia Łazińskie".
 
 
 

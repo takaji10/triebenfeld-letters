@@ -4,8 +4,9 @@
 #
 # Every pair below was read before it was ruled (2026-10-22, from
 # review/newspapers/mentions.md, made by newspapers_index.py --sheet). The
-# two items: kuryerpolski1754075 (the funeral report of 1754) and
-# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937).
+# three items: kuryerpolski1754075 (the funeral report of 1754),
+# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937) and
+# ostdeutscherbeobachter19420197 (the feature on Łazińsk of 1942).
 
 people:
   glowiecki:
@@ -28,6 +29,13 @@ places:
   konin:
     "Koninie": true       # the exequies at the monastery of Konin (1754)
     "Konina": true        # the road from Oleśnica to Konin (1937)
+    "Konin": true         # the Kreisstadt Konin on the Warta, where the 1942
+                          # article's walk to the Amtsbezirk Drommin begins
+  schlesien:
+    "Schlesien": true     # the region the fourteen founding families of the
+                          # 1942 article set out from ("aus dem Schlesierlande"
+                          # the article says too; that spelling is matched by
+                          # no pattern)
   lad:
     "Łędzkiego": true     # the Cistercian convent of Ląd (the print's Łędz-
                           # is Ląd: the editor, 2026-10-16)
