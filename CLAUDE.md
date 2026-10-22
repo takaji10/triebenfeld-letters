@@ -117,8 +117,33 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-21)
+## Where things stand (2026-10-22)
 
+- **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
+  published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
+  połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów
+  Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie",
+  *Z Dziejów Kartografii* XXI, pp. 41-57, on the changes in the rural space
+  shown on the large-scale village maps of the Szreniawa museum. The
+  editor's rulings: **visible, the figures skipped, a link to the article,
+  the whole article** — the link is the open-access copy at maphist.waw.pl
+  (the `scan:` of `work.yml`). Made from the editor's PDF by
+  `pipeline/literature/mielewczyk_pdf.py` (the text layer's "fi" ligature
+  and its stray space joined; the 19 notes on their pages; the captions of
+  the fourteen figures kept as text, on four pages between two pieces of one
+  paragraph); `--check` holds all 17 pages against the layer. Claude's
+  English; the article's own English block of p. 57 stands as printed. The
+  article bears on the edition's ground: **fig. 4 is the map of the dóbr
+  Trąbczyn of 1861** with the field of the enfranchised peasants marked, and
+  p. 48 names **Kolonia Łazińskie and Kolonia Huta** on the parcelled lands
+  of Trąbczyn — the edition's Staro- and Nowo-Łazińska colonies, which the
+  article does not say. Copyright the Institute's (2017), no open licence;
+  the Licences page not changed. Index: 17 mentions, all ruled; the article's
+  "Kolonia Łazińskie" is not matched by the edition's patterns (only the
+  Staro-/Nowo-Łazińska forms are) — a pattern would have to say which colony
+  (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`,
+  section 21; the work's `notes.md` first. The literature has 25 works, 23
+  on the site (two summary-only).
 - **Janocki (1779)** (`janocki1779`, added and **published 2026-10-21**): the
   entry "Stanislaus Lochowski" (LXXVII, pp. 159-160) of the *Ianociana* II
   (Warsaw and Leipzig 1779), which says Paciorkowski's handbook is Lochowski's

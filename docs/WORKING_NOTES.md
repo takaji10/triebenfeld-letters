@@ -1743,6 +1743,20 @@ cloud branches").
   as the name Schenk by `check_translations.py`; "Kuh" (cow) matched the
   person `kuh`. Shut a person out of the document with `not_in` in
   `reference/people.yml`; the translation row needs nothing.
+- **Two traps in the literature PDF scripts** (Mielewczyk, 2026-10-22,
+  `mielewczyk_pdf.py`). (1) **Test fonts by the layer's own name**, not a
+  short form: the script first asked for `'TNR' in font` and nothing was a
+  note (the layer prints `TimesNewRomanPSMT`), so the notes ran into the
+  body and --check failed on every page with notes; the same bug in three
+  places, each found only by the check. (2) **A note's first line is built
+  from its span runs, never from a raw join of the spans' texts**: the
+  number's span sits with runs of only spaces (after an italic title, the
+  print's space is its own italic span), and a raw join loses them
+  ("Rolnictwo,w:" for "Rolnictwo, w:"); take the spans over 6.5 points and
+  run `span_runs` on them. Related traps already recorded: the paragraph
+  whose last run is a raised mark needs the sentence test to look past
+  raised runs (`ended()`), and a paragraph's run-over line must never join
+  a paragraph of another kind on a page that is mostly figures.
 
 ## Desktop and cloud
 
