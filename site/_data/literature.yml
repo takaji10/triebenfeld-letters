@@ -237,6 +237,25 @@
   account_de: 'Eine Geschichte des Klosters der Zisterzienserinnen in Ołobok in Großpolen von dem Posener Historiker Stanisław Karwowski: seine Gründung gegen Ende des 12. Jahrhunderts und seine Ausstattung (der Aufsatz zählt 114 Seiten mit eigenem Inhaltsverzeichnis), die Privilegien und Schenkungen vom 12. Jahrhundert an, die Prozesse um seine Grenzen und Abgaben, die Nonnen und die innere Verfassung des Klosters, seine Schicksale von der Dritten Teilung bis zur Aufhebung des Hauses und seine Gebäude und Kirchen. Nur S. 87 ist aufgenommen, die zwei vom Herausgeber genannten Absätze über den Verlust des geliehenen Geldes der Nonnen: die Stadt Zagórów mit ihren Gütern, die der frühere Besitzer, Fürst Hohenlohe-Ingelfingen, mit Schulden von 2.000.000 polnischen Gulden belastet hatte und die 1812 Ignacy Trzciński mit diesen Schulden kaufte, am 1. September 1827 bei öffentlicher Versteigerung für 1.000.000 polnische Gulden an Karol Bogumił Weygel, einen Bankier in Breslau, verloren ging, der
     von den 120.000 polnischen Gulden, die er auf ihnen hypothekarisch hatte, nur 56.879 rettete und mit dem Rest unterging, und nach ihm alle übrigen Hypothekengläubiger; und die 40.000 polnischen Gulden der Zisterzienserinnen, verloren samt den seit 1806 rückständigen Zinsen, wovon Minister Sobolewski die preußische Regierung am 23. Oktober 1828 aus Warschau benachrichtigte.'
   pages: 1
+- slug: kucharski2023
+  kind: article
+  title: Sądownictwo szlacheckie od XV do XVIII wieku
+  title_en: Judiciary of the nobility from the 15th to the 18th century
+  cite: Kucharski (2023)
+  author: Robert Kucharski
+  author_sort: Kucharski, Robert
+  published: Consilium Iuridicum, vol. 1, no. 3-4 (2022), pp. 226-253 (Academicon; published 10 October 2023). DOI 10.52097/ci.5671
+  year: 2023
+  language: pl
+  english_by: Claude
+  scan: https://ojs.academicon.pl/ci/article/view/5671/5951
+  note_en: ''
+  note_de: ''
+  account_en: A general survey of the noble judiciary of the Polish Commonwealth from the 15th century to the end of the state's independence, by Robert Kucharski, a public prosecutor in Częstochowa who has published a series of historical studies of the Polish courts in Consilium Iuridicum. It describes the land courts, the municipal (castle) courts and the podkomorski courts, the short lived court of the oprawca and the wiec and sejm courts; the judicial offices, the judge, the lay assessors, the court scribe and the court chancellery with its books, the usher, the instygator and the advocates; and then the process itself, its three stages, the means of proof, the judge's reprimand and the appeal, the punishments, the tower, the banishment and the executions, with the stories the court chronicles tell. It closes with the crisis of the land courts in the 17th and 18th centuries and the Four-Year Sejm's abolition of the estate courts. It rests on the standard literature (Kutrzeba, Bardach-Leśnodorski-Pietrzak,
+    Naworski, Pawlikowski, Balzer) and names no court book of its own; it is an orientation over the whole period and the kinds of court that the edition's books (the land and municipal books of Konin and Kalisz) belong to.
+  account_de: Ein allgemeiner Überblick über die Adelsjustiz der polnischen Adelsrepublik vom 15. Jahrhundert bis zum Ende der Eigenstaatlichkeit, von Robert Kucharski, einem Staatsanwalt in Tschenstochau, der in Consilium Iuridicum eine Reihe historischer Studien über die polnischen Gerichte veröffentlicht hat. Er beschreibt die Landgerichte, die Grod- (Burg-)Gerichte und die Podkomorzy-Gerichte, das kurzlebige Gericht des Oprawca sowie die Wiec- und Sejmgerichte; die Gerichtsämter, den Richter, die Beisitzer, den Gerichtsschreiber und die Gerichtskanzlei mit ihren Büchern, den Woźny, den Instygator und die Advokaten; und dann den Prozess selbst, seine drei Stadien, die Beweismittel, die Nagana des Richters und die Appellation, die Strafen, den Turm, die Verbannung und die Vollstreckungen, mit den Geschichten, die die Gerichtschroniken erzählen. Er schließt mit der Krise der Landgerichte im 17. und 18. Jahrhundert und der Aufhebung der Ständegerichte durch den Vierjährigen Sejm. Er stützt
+    sich auf die Standardliteratur (Kutrzeba, Bardach-Leśnodorski-Pietrzak, Naworski, Pawlikowski, Balzer) und nennt kein eigenes Gerichtsbuch; er ist eine Orientierung über den ganzen Zeitraum und die Gerichtsarten, zu denen die Bücher der Edition (die Land- und Grodbücher von Konin und Kalisch) gehören.
+  pages: 28
 - slug: maczak1968
   kind: article
   title: Export of Grain and the Problem of Distribution of National Income in the Years 1550-1650

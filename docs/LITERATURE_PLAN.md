@@ -584,3 +584,41 @@ refer back to is summarised in the work's `notes.md`. Out of copyright
 (author d. 1917). The passage bears on the debts of Zagórów: its sale in
 1812 to Ignacy Trzciński, the auction of 1827 to Karol Bogumił Weygel, and
 the 40,000 złp. of the nuns lost with the interest owing from 1806.
+
+## 20. Kucharski (2023) (2026-10-22)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `kucharski2023` | Robert Kucharski, "Sądownictwo szlacheckie od XV do XVIII wieku", *Consilium Iuridicum*, vol. 1, no. 3-4 (2022), pp. 226-253, DOI 10.52097/ci.5671 | Polish | `[p. N]` | yes |
+
+The editor's word (2026-10-22): "I want to add a new literary source -
+12+Robert+Kucharski.pdf in the Downloads folder", the article's page at
+ojs.academicon.pl giving the facts (Consilium Iuridicum 1(3-4) 2022, published
+10 October 2023; the journal's own citation is "Kucharski, R. (2023)", which
+the slug follows). The whole article is brought in; the three pictures
+(Ryc. 1-3) are not rendered, their captions and "Źródło:" lines stay, being
+text. The article is CC BY 4.0, so it is shown whole.
+
+The first work taken from the journal's own PDF (the others came from books,
+scans or the editor's files): its text layer is clean, and
+`pipeline/literature/kucharski_pdf.py` makes `original.md` from it and holds
+every page's letters against the layer (`--check`); 45 notes at the foot of
+their pages, numbered through the article, their raised marks checked against
+the order 1 to 45. The author names in the notes are printed letterspaced
+("K u c h a r s k i"); the spaces are taken out where the joined word is one
+the article prints elsewhere within a line, so note 36's "M B o r u c k i"
+keeps its spaces. The article sets its paragraphs flush, marking them only by
+the short last line; the first paragraph after a heading, a caption or a list
+carries the indent. A word divided over two pages is given whole on the first
+(six of them). The English is Claude's, page by page; the article's own
+English abstract and key words (pp. 252-253) stand as printed, being the
+author's. The PDF is not kept in the repository; the journal's page holds the
+open-access copy.
+
+The index found five hits only, all already ruled (Józef Wybicki, quoted and
+cited, and the Warsaw of two bibliographical references), and one false
+friend: the municipal court "w Brześciu" of the Matuszewicz story (p. 246) is
+Brześć on the Bug, not Brześć Kujawski - ruled out (NEEDS_CONFIRMATION).
+No hand-made links yet: nothing in the article names the edition's people,
+estates or holdings; what it gives the edition is the setting of the court
+books it holds.

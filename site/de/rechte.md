@@ -39,7 +39,9 @@ und Verlagen, die die Seite jedes Werks nennt. Ihre Texte und Bilder und die
 englischen Übersetzungen der Edition fallen **nicht** unter die Lizenz CC BY.
 Sie werden zu Forschungszwecken wiedergegeben; wer sie weiterverwenden möchte,
 wendet sich an den Verlag. Verlangt ein Verlag die Entfernung eines Werks, so
-geschieht das.
+geschieht das. Ein Werk steht unter seiner eigenen offenen Lizenz: Kucharskis
+Aufsatz von 2023 (Consilium Iuridicum) steht unter CC BY 4.0 und darf unter
+dieser Lizenz weiterverwendet werden, mit der Angabe, die seine Seite nennt.
 
 Die englischen Übersetzungen wurden von einem KI-Modell angefertigt
 ([Über die Edition]({{ '/de/ueber-diese-edition/' | relative_url }})). Zitieren

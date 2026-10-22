@@ -1983,6 +1983,15 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: kucharski2023
+    cite: Kucharski (2023)
+    pages:
+    - key: '230'
+      en: p. 230
+      de: S. 230
+    - key: '252'
+      en: p. 252
+      de: S. 252
   zajaczek:
   - work: pachonski1973
     cite: Pachoński (1973)

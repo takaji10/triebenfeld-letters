@@ -12818,6 +12818,389 @@
   ]
  },
  {
+  "slug": "kucharski2023",
+  "visible": true,
+  "kind": "article",
+  "title": "Sądownictwo szlacheckie od XV do XVIII wieku",
+  "title_en": "Judiciary of the nobility from the 15th to the 18th century",
+  "cite": "Kucharski (2023)",
+  "author": "Robert Kucharski",
+  "author_sort": "Kucharski, Robert",
+  "published": "Consilium Iuridicum, vol. 1, no. 3-4 (2022), pp. 226-253 (Academicon; published 10 October 2023). DOI 10.52097/ci.5671",
+  "year": 2023,
+  "language": "pl",
+  "english_by": "Claude",
+  "scan": "https://ojs.academicon.pl/ci/article/view/5671/5951",
+  "account_en": "A general survey of the noble judiciary of the Polish Commonwealth from the 15th century to the end of the state's independence, by Robert Kucharski, a public prosecutor in Częstochowa who has published a series of historical studies of the Polish courts in Consilium Iuridicum. It describes the land courts, the municipal (castle) courts and the podkomorski courts, the short lived court of the oprawca and the wiec and sejm courts; the judicial offices, the judge, the lay assessors, the court scribe and the court chancellery with its books, the usher, the instygator and the advocates; and then the process itself, its three stages, the means of proof, the judge's reprimand and the appeal, the punishments, the tower, the banishment and the executions, with the stories the court chronicles tell. It closes with the crisis of the land courts in the 17th and 18th centuries and the Four-Year Sejm's abolition of the estate courts. It rests on the standard literature (Kutrzeba, Bardach-Leśnodorski-Pietrzak, Naworski, Pawlikowski, Balzer) and names no court book of its own; it is an orientation over the whole period and the kinds of court that the edition's books (the land and municipal books of Konin and Kalisz) belong to.",
+  "account_de": "Ein allgemeiner Überblick über die Adelsjustiz der polnischen Adelsrepublik vom 15. Jahrhundert bis zum Ende der Eigenstaatlichkeit, von Robert Kucharski, einem Staatsanwalt in Tschenstochau, der in Consilium Iuridicum eine Reihe historischer Studien über die polnischen Gerichte veröffentlicht hat. Er beschreibt die Landgerichte, die Grod- (Burg-)Gerichte und die Podkomorzy-Gerichte, das kurzlebige Gericht des Oprawca sowie die Wiec- und Sejmgerichte; die Gerichtsämter, den Richter, die Beisitzer, den Gerichtsschreiber und die Gerichtskanzlei mit ihren Büchern, den Woźny, den Instygator und die Advokaten; und dann den Prozess selbst, seine drei Stadien, die Beweismittel, die Nagana des Richters und die Appellation, die Strafen, den Turm, die Verbannung und die Vollstreckungen, mit den Geschichten, die die Gerichtschroniken erzählen. Er schließt mit der Krise der Landgerichte im 17. und 18. Jahrhundert und der Aufhebung der Ständegerichte durch den Vierjährigen Sejm. Er stützt sich auf die Standardliteratur (Kutrzeba, Bardach-Leśnodorski-Pietrzak, Naworski, Pawlikowski, Balzer) und nennt kein eigenes Gerichtsbuch; er ist eine Orientierung über den ganzen Zeitraum und die Gerichtsarten, zu denen die Bücher der Edition (die Land- und Grodbücher von Konin und Kalisch) gehören.",
+  "passages": [
+   {
+    "key": "226",
+    "part": null,
+    "page": "226",
+    "pl": {
+     "line": 1,
+     "chars": 1353
+    },
+    "en": {
+     "line": 1,
+     "chars": 1502
+    }
+   },
+   {
+    "key": "227",
+    "part": null,
+    "page": "227",
+    "pl": {
+     "line": 17,
+     "chars": 2078
+    },
+    "en": {
+     "line": 17,
+     "chars": 2278
+    }
+   },
+   {
+    "key": "228",
+    "part": null,
+    "page": "228",
+    "pl": {
+     "line": 29,
+     "chars": 2397
+    },
+    "en": {
+     "line": 29,
+     "chars": 2648
+    }
+   },
+   {
+    "key": "229",
+    "part": null,
+    "page": "229",
+    "pl": {
+     "line": 43,
+     "chars": 346
+    },
+    "en": {
+     "line": 43,
+     "chars": 359
+    }
+   },
+   {
+    "key": "230",
+    "part": null,
+    "page": "230",
+    "pl": {
+     "line": 53,
+     "chars": 2459
+    },
+    "en": {
+     "line": 53,
+     "chars": 2761
+    }
+   },
+   {
+    "key": "231",
+    "part": null,
+    "page": "231",
+    "pl": {
+     "line": 63,
+     "chars": 2466
+    },
+    "en": {
+     "line": 63,
+     "chars": 2762
+    }
+   },
+   {
+    "key": "232",
+    "part": null,
+    "page": "232",
+    "pl": {
+     "line": 79,
+     "chars": 2453
+    },
+    "en": {
+     "line": 79,
+     "chars": 2863
+    }
+   },
+   {
+    "key": "233",
+    "part": null,
+    "page": "233",
+    "pl": {
+     "line": 85,
+     "chars": 2841
+    },
+    "en": {
+     "line": 85,
+     "chars": 3428
+    }
+   },
+   {
+    "key": "234",
+    "part": null,
+    "page": "234",
+    "pl": {
+     "line": 95,
+     "chars": 2608
+    },
+    "en": {
+     "line": 95,
+     "chars": 3087
+    }
+   },
+   {
+    "key": "235",
+    "part": null,
+    "page": "235",
+    "pl": {
+     "line": 105,
+     "chars": 2572
+    },
+    "en": {
+     "line": 105,
+     "chars": 3030
+    }
+   },
+   {
+    "key": "236",
+    "part": null,
+    "page": "236",
+    "pl": {
+     "line": 115,
+     "chars": 2243
+    },
+    "en": {
+     "line": 115,
+     "chars": 2533
+    }
+   },
+   {
+    "key": "237",
+    "part": null,
+    "page": "237",
+    "pl": {
+     "line": 129,
+     "chars": 1198
+    },
+    "en": {
+     "line": 129,
+     "chars": 1488
+    }
+   },
+   {
+    "key": "238",
+    "part": null,
+    "page": "238",
+    "pl": {
+     "line": 139,
+     "chars": 2525
+    },
+    "en": {
+     "line": 139,
+     "chars": 2987
+    }
+   },
+   {
+    "key": "239",
+    "part": null,
+    "page": "239",
+    "pl": {
+     "line": 155,
+     "chars": 2489
+    },
+    "en": {
+     "line": 155,
+     "chars": 3033
+    }
+   },
+   {
+    "key": "240",
+    "part": null,
+    "page": "240",
+    "pl": {
+     "line": 169,
+     "chars": 2243
+    },
+    "en": {
+     "line": 169,
+     "chars": 2687
+    }
+   },
+   {
+    "key": "241",
+    "part": null,
+    "page": "241",
+    "pl": {
+     "line": 191,
+     "chars": 2601
+    },
+    "en": {
+     "line": 191,
+     "chars": 3250
+    }
+   },
+   {
+    "key": "242",
+    "part": null,
+    "page": "242",
+    "pl": {
+     "line": 207,
+     "chars": 2426
+    },
+    "en": {
+     "line": 207,
+     "chars": 2714
+    }
+   },
+   {
+    "key": "243",
+    "part": null,
+    "page": "243",
+    "pl": {
+     "line": 221,
+     "chars": 2405
+    },
+    "en": {
+     "line": 221,
+     "chars": 2757
+    }
+   },
+   {
+    "key": "244",
+    "part": null,
+    "page": "244",
+    "pl": {
+     "line": 235,
+     "chars": 2435
+    },
+    "en": {
+     "line": 235,
+     "chars": 2981
+    }
+   },
+   {
+    "key": "245",
+    "part": null,
+    "page": "245",
+    "pl": {
+     "line": 245,
+     "chars": 2619
+    },
+    "en": {
+     "line": 245,
+     "chars": 3072
+    }
+   },
+   {
+    "key": "246",
+    "part": null,
+    "page": "246",
+    "pl": {
+     "line": 253,
+     "chars": 2590
+    },
+    "en": {
+     "line": 253,
+     "chars": 3092
+    }
+   },
+   {
+    "key": "247",
+    "part": null,
+    "page": "247",
+    "pl": {
+     "line": 267,
+     "chars": 1467
+    },
+    "en": {
+     "line": 267,
+     "chars": 1696
+    }
+   },
+   {
+    "key": "248",
+    "part": null,
+    "page": "248",
+    "pl": {
+     "line": 277,
+     "chars": 2592
+    },
+    "en": {
+     "line": 277,
+     "chars": 2927
+    }
+   },
+   {
+    "key": "249",
+    "part": null,
+    "page": "249",
+    "pl": {
+     "line": 283,
+     "chars": 2594
+    },
+    "en": {
+     "line": 283,
+     "chars": 3034
+    }
+   },
+   {
+    "key": "250",
+    "part": null,
+    "page": "250",
+    "pl": {
+     "line": 295,
+     "chars": 2362
+    },
+    "en": {
+     "line": 295,
+     "chars": 2912
+    }
+   },
+   {
+    "key": "251",
+    "part": null,
+    "page": "251",
+    "pl": {
+     "line": 309,
+     "chars": 1738
+    },
+    "en": {
+     "line": 309,
+     "chars": 2862
+    }
+   },
+   {
+    "key": "252",
+    "part": null,
+    "page": "252",
+    "pl": {
+     "line": 353,
+     "chars": 1534
+    },
+    "en": {
+     "line": 353,
+     "chars": 2377
+    }
+   },
+   {
+    "key": "253",
+    "part": null,
+    "page": "253",
+    "pl": {
+     "line": 389,
+     "chars": 1811
+    },
+    "en": {
+     "line": 389,
+     "chars": 1811
+    }
+   }
+  ]
+ },
+ {
   "slug": "maczak1968",
   "visible": true,
   "kind": "article",

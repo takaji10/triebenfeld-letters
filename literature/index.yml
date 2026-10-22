@@ -597,7 +597,23 @@ places:
   bruenn:
     Brünn: "no: the author von Brünneck, cited by Guradze"
   bologna: {Bologna: yes}
-  brzesc: {Brzesc: yes, Brześć: yes}
+  brzesc:
+    Brzesc: yes
+    Brześć: yes
+    # Kucharski 2023, p. 246: the municipal court "w Brześciu" where the body
+    # of the nobleman killed by Wacław Matuszewicz was delivered, in a story
+    # set in the district of Łuck and told from the memoirs of the
+    # Matuszewicze (note 38) - the Grand Duchy's Brześć on the Bug (Brest),
+    # not the edition's Brześć Kujawski (Claude's identification, 2026-10-22;
+    # NEEDS_CONFIRMATION)
+    # Kucharski 2023, p. 246: the municipal court "w Brześciu" where the body
+    # of the nobleman killed by Wacław Matuszewicz was delivered, in a story
+    # set in the district of Łuck and told from the memoirs of the
+    # Matuszewicze (note 38) - the Grand Duchy's Brześć on the Bug (Brest),
+    # not the edition's Brześć Kujawski (Claude's identification, 2026-10-22;
+    # NEEDS_CONFIRMATION). The pattern takes the stem, so the surface is
+    # "Brześc"; it is found in this work only.
+    Brześc: "no: Brześć on the Bug (Brest), not Brześć Kujawski"
   charlottenburg: {Charlottenburg: yes}
   cosel: {Cosel: yes}
   crossen: {Crossen: yes}
