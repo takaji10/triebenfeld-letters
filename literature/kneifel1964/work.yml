@@ -1,0 +1,77 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 24).
+# original.md and english.md are made by make_original.py from the editor's
+# two files in their folder "History of the Evangelical-Augsburg Church in
+# Poland (DE) (Kneifel, 1964)" on J: - a German transcription with the
+# printed page numbers and GFM footnotes, and an English translation that
+# pairs it page for page. The two source files are not kept in the
+# repository (313 printed pages, most of it not bearing on the edition; the
+# editor, 2026-10-22): the excerpt carries the pages that name the edition's
+# ground and the two colonisation sections that set it. See notes.md.
+slug: kneifel1964
+visible: true
+kind: history
+title: "Geschichte der Evangelisch-Augsburgischen Kirche in Polen"
+title_en: "History of the Evangelical-Augsburg Church in Poland"
+cite: "Kneifel (1964)"
+author: "Eduard Kneifel"
+author_sort: "Kneifel, Eduard"
+published: "Selbstverlag des Verfassers, Niedermarschacht über Winsen/Luhe 1964 (printed by Karl Müller, Druckerei und Verlag, Roth bei Nürnberg)"
+year: 1964
+language: de
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  A church history of the Evangelical-Augsburg (Lutheran) Church in Poland by
+  the pastor Eduard Kneifel, born 1896 at Rosterschütz-Władysławów in the
+  Kalisz land, a pastor in Łódź congregations to 1939 and from 1953 at
+  Niedermarschacht on the Elbe. Written after his library and manuscripts
+  were lost in 1945, it tells the church's story from the Reformation to the
+  collapse of 1939 in sixteen chapters: the Reformation in Poland, the new
+  Protestant settlements of the 17th and 18th centuries, the oppression to
+  1775 and the toleration won then, the church under Prussian rule, in the
+  Duchy of Warsaw and the Kingdom, the general superintendents Ludwig, von
+  Everth, Manitius and Bursche, the German occupation of 1914-1918, the
+  church in the new Poland, and 1939. It is a self-published work of a
+  German-Lutheran standpoint, rich above all in parish founding stories,
+  school lists and notices of pastors, taken from the parish literature and
+  the author's own knowledge; the Warsaw consistorial archive, its chief
+  source, had burned in 1939. Only the pages that bear on the edition's
+  ground are brought in: the two colonisation sections (the rural
+  colonisation of central Poland, and the Prussian one of 1793-1806), and
+  the pages that name Trąbczyn, Zagórów, Łazińsk and the parishes and
+  colonies round them - the Łazińsk colony founded 1746 by the Starost
+  ("Paul von Kolno-Prusinski, Grundherr von Trombezyn"), the German schools
+  of the Kalisch land (Władysławów-Rosterschütz 1740, Łazińsk, Orlina), the
+  Grodziec parish contract of 1796, the parishes of the diocese of Kalisch
+  (Zagórów with the filial Lisewo-Pyzdry, Konin with the filial Masłaki),
+  the Zagórów church of 1878-1896 and its pastors to 1945, the brethren's
+  circles in Łazińsk, and the statistics of 1938.
+account_de: >-
+  Eine Kirchengeschichte der Evangelisch-Augsburgischen (lutherischen)
+  Kirche in Polen von dem Pastor Eduard Kneifel, geboren 1896 in
+  Rosterschütz-Władysławów im Kalischer Land, Pastor in Lodzer Gemeinden bis
+  1939 und seit 1953 in Niedermarschacht an der Elbe. Nach dem Verlust seiner
+  Bibliothek und Manuskripte 1945 geschrieben, erzählt sie in sechzehn
+  Kapiteln die Geschichte der Kirche von der Reformation bis zum
+  Zusammenbruch 1939: die Reformation in Polen, die neuen evangelischen
+  Siedlungen des 17. und 18. Jahrhunderts, die Bedrückung bis 1775 und die
+  errungene Religionsfreiheit, die Kirche zur preußischen Zeit, im
+  Herzogtum Warschau und im Königreich, die Generalsuperintendenten Ludwig,
+  von Everth, Manitius und Bursche, die deutsche Besetzung 1914-1918, die
+  Kirche im neuen Polen und das Jahr 1939. Es ist ein im Selbstverlag
+  erschienenes Werk deutsch-lutherischer Sicht, reich vor allem an
+  Gemeindegründungsgeschichten, Schullisten und Pfarrernotizen aus der
+  Gemeindeliteratur und der Kenntnis des Verfassers; das Warschauer
+  Konsistorialarchiv, seine wichtigste Quelle, war 1939 verbrannt. Nur die
+  Seiten, die den Boden der Edition berühren, sind aufgenommen: die beiden
+  Kolonisationsabschnitte (die ländliche Kolonisation Mittelpolens und die
+  preußische von 1793-1806) und die Seiten, die Trąbczyn, Zagórów, Łazińsk
+  und die umliegenden Parochien und Kolonien nennen - die 1746 vom Starosten
+  („Paul von Kolno-Prusinski, Grundherr von Trombezyn") gegründete Kolonie
+  Lazinsk, die deutschen Schulen des Kalischer Landes (Władysławów-
+  Rosterschütz 1740, Lazinsk, Orlina), den Grodziecer Kirchspielsvertrag von
+  1796, die Parochien der Kalischer Diözese (Zagörow mit dem Filial
+  Lissewo-Pyzdry, Konin mit dem Filial Maslaki), die Zagórower Kirche von
+  1878-1896 und ihre Pastoren bis 1945, die Brüderkreise in Lazinsk und die
+  Statistik von 1938.

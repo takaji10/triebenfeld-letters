@@ -1411,6 +1411,12 @@ person:
     - key: c08
       en: VI. Kapitel.
       de: VI. Kapitel.
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '92'
+      en: p. 92
+      de: S. 92
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -1600,6 +1606,12 @@ person:
     - key: '41'
       en: p. 41
       de: S. 41
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -1737,6 +1749,12 @@ person:
     - key: '158'
       en: p. 158
       de: S. 158
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '90'
+      en: p. 90
+      de: S. 90
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -2326,6 +2344,12 @@ person:
     - key: '179'
       en: p. 179
       de: S. 179
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '93'
+      en: p. 93
+      de: S. 93
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -3405,6 +3429,12 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -3730,6 +3760,30 @@ place:
     - key: '175'
       en: p. 175
       de: S. 175
+  - work: kneifel1964
+    cite: Kneifel (1964)
+    pages:
+    - key: '92'
+      en: p. 92
+      de: S. 92
+    - key: '112'
+      en: p. 112
+      de: S. 112
+    - key: '123'
+      en: p. 123
+      de: S. 123
+    - key: '166'
+      en: p. 166
+      de: S. 166
+    - key: '226'
+      en: p. 226
+      de: S. 226
+    - key: '235'
+      en: p. 235
+      de: S. 235
+    - key: '256'
+      en: p. 256
+      de: S. 256
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:

@@ -2359,6 +2359,47 @@ lose his estates. The era page writes Konotop, not Kontop.
   edition's ground. Its self-contradictions (1262/1261; 1869/1870) are
   kept as printed and recorded (NEEDS_CONFIRMATION, "The places").
 
+## The literature: Kneifel (1964), the church history excerpted (2026-10-22, committed; not published)
+
+- Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen Kirche in
+  Polen* (Selbstverlag des Verfassers, Niedermarschacht 1964)
+  (`literature/kneifel1964/`), at the editor's word with the rulings asked
+  before the work began: the excerpt carries the place-named pages **and**
+  the two colonisation sections that set them; the work is shown on the site
+  (in copyright: published 1964, put to the editor first); only the excerpt
+  scripts and the cut pages are committed, not the two source files (313
+  printed pages, most of it not bearing on the edition).
+- The editor's two files (German transcription with printed page numbers and
+  GFM footnotes; English pairing it page for page) are read by
+  `make_original.py` from their folder on J:; 21 printed pages brought in,
+  whole where the relevance is dense, cut to paragraphs with "[…]" elsewhere
+  (`notes.md` lists the selection and the cuts): the rural colonisation
+  (III.1, pp. 39-42, p. 41 naming "Paul von Kolno-Prusinski, Grundherr von
+  Trombezyn" and the founding of Łazińsk in 1746), the Prussian colonisation
+  (VI.1, pp. 89-93, the towns "Konin, Zagö-röw und Kolo"), the schools of
+  the Kalisch land (pp. 45, 112), the Grodziec parish contract of 1796
+  (p. 94), the parishes Stawiszyn/Prazuchy/Sobiesenki/Łask/Slesin (p. 102),
+  the diocese of Kalisch's parish list "Zagörow mit dem Filial
+  Lissewo-Pyzdry, Konin mit dem Filial Maslaki" (p. 123), the churches of
+  the region (pp. 165, 166: the Zagórów church of 1878-1896; p. 179 Konin
+  and Masłaki), the inter-war parishes (p. 226, the Zagórów pastor Alexander
+  Groß 1923-1945), the brethren's circles in Łazińsk (pp. 235-236) and the
+  statistics of 1938 with the "rein deutsche evangelische Gemeinde Zagorow"
+  (p. 256).
+- The false friend ruled out in the scan: p. 101's colony "Trombin bei
+  Rypin" (the Dobrzyń land) is not Trąbczyn. Nothing tidied: the print's
+  slips stand and are recorded in the notes.
+- Index hits read and ruled (140 in the work): new forms `Trombezyn`,
+  `Zagörow`/`Zagö-röw`, `Lazinsk` (the editor's Łazinsk ruling of
+  2026-10-22) and `Prusinski` (the print drops the ń); `Brzyczka` refused
+  (Reptowski's colony near Łódź); old rulings sharpened with exceptions
+  (Schröttersdorf, the Posen imprints, "Lissewo-Pyzdry", Dembina- and
+  Koneck-Holland, and Wielun now taking the town by exception against
+  Guradze's field). One hand-made link: p. 41 against the summons of 1860
+  and the boundary decree of 1775 — Kneifel names the husband alone, the
+  documents the couple; the edition follows the documents.
+  `docs/LITERATURE_PLAN.md`, section 24.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

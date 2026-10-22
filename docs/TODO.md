@@ -695,6 +695,19 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       councillor Schmaling is the edition's Landrat von Schmaling of
       Głażewo; which Freiherr von der Reck Voß's letter of 1804 names.
 - [ ] **You:** a look at the English, then publication at your word.
+- [x] Kneifel (1964), *Geschichte der Evangelisch-Augsburgischen Kirche in
+      Polen* (self-published, Niedermarschacht 1964), added
+      (2026-10-22; LITERATURE_PLAN.md, section 24): the excerpt of 21
+      printed pages, from the editor's two Markdown files (German and its
+      page-for-page English, not kept in the repository) — the two
+      colonisation sections and the pages that name Trąbczyn, Zagórów,
+      Łazińsk and the neighbouring parishes; visible at your word (in
+      copyright: published 1964), the whole book left out.
+- [x] One hand-made link: p. 41 (Łazińsk founded 1746 by the lord of
+      "Trombezyn") against the summons of 1860 and the boundary decree of
+      1775; Kneifel names the husband alone, the documents the couple.
+- [ ] **You:** a look at the work's page and the excerpt, then publication
+      at your word.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 

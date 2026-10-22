@@ -944,3 +944,42 @@
     veranschlagten Güter bringen jetzt 40.500), die Antwort des Fürsten
     (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und
     seine spätere Eingabe.
+
+# Kneifel (1964), p. 41, on the founding of Łazińsk: the one passage of the
+# book that names the Starost and the colony together. Read against the
+# documents: the decree of 1775 attests the rights granted in 1746 (Konin
+# Gr. 145, p. 76 of the copy), and the summons of 1860 names the grantor
+# with his wife (APP 53/968/0/-/783, document 1). Kneifel names only the
+# husband and calls the colony "Lazinsk Hol." outright; the documents
+# record the couple and the privilege, and the edition follows the
+# documents (the editor's rule of 2026-10-20).
+
+- id: kneifel1964-lazinsk
+  passages:
+    - kneifel1964/41
+  documents:
+    - app539680783-1
+    - app53170koningr145-1
+  en: >-
+    Kneifel (1964) says that in 1746 Paul von Kolno-Prusinski, lord of
+    "Trombezyn" (Trąbczyn), assigned German peasants woodland and waste to
+    clear, and that on it they created the colony of Lazinsk (Łazińsk), the
+    edition's Trąbczyńskie Stare Olędry. The edition's documents carry the
+    same grant: the summons of 1860 names "Paweł z Kolna Prusiński" with his
+    wife Katarzyna as the grantors who gave the Hollanders on the lands of
+    the Trąbczyn estate their privilege in 1746, and the boundary decree of
+    1775 attests the settlement of the olędry on those woodlands "as
+    attested by the rights granted them in 1746". Kneifel names the husband
+    alone; the documents the couple, and the edition follows the documents.
+  de: >-
+    Kneifel (1964) sagt, Paul von Kolno-Prusinski, Gutsherr von „Trombezyn“
+    (Trąbczyn), habe 1746 deutschen Bauern Waldungen und Ödland zur
+    Urbarmachung zugewiesen, und sie hätten auf ihnen die Kolonie Lazinsk
+    (Łazińsk) geschaffen, die Trąbczyńskie Stare Olędry der Edition. Die
+    Dokumente der Edition tragen dieselbe Zuweisung: Die Vorladung von 1860
+    nennt „Paweł z Kolna Prusiński“ mit seiner Frau Katarzyna als die
+    Verleihenden, die den Holländern auf den Gütern Trąbczyńskich 1746 ihr
+    Privileg gaben, und das Grenzdekret von 1775 bezeugt die Ansiedlung der
+    Olęder auf diesen Waldungen „wie durch die ihnen 1746 verliehenen
+    Rechte bezeugt“. Kneifel nennt allein den Ehemann, die Dokumente das
+    Ehepaar, und die Edition folgt den Dokumenten.

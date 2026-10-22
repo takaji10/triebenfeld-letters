@@ -165,6 +165,33 @@ so check them.
   against selling to Poles). Two hand-made links tie it to the Prince's
   letters; where its figures differ from the documents, the documents stand.
   Read `literature/lukasiewicz1997/notes.md` first. Not published.
+- **Kneifel (1964)** (`kneifel1964`, added 2026-10-22, **committed, not
+  published**): Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen
+  Kirche in Polen* (self-published, Niedermarschacht 1964), the first work
+  from the editor's Markdown files - the German transcription and an
+  English that pairs it page for page, read from their Books folder on J:
+  and **not kept in the repository** (313 printed pages, a general church
+  history, most of it not bearing on the edition). The editor's rulings,
+  asked before the work began: the excerpt carries the place-named pages
+  **and** the two colonisation sections; **visible** on the site (in
+  copyright: published 1964, put to the editor first); only the excerpt
+  scripts and the cut pages committed. The excerpt, 21 printed pages
+  (`literature/kneifel1964/notes.md` first): pp. 39-42 (p. 41 names the
+  Starost, "Paul von Kolno-Prusinski, Grundherr von Trombezyn", and the
+  founding of Łazińsk in 1746), pp. 89-93 (the Prussian colonisation; p. 92
+  "die Städte Konin, Zagö-röw und Kolo"), and pp. 45, 94, 102, 112, 123,
+  165, 166, 179, 226, 235-236, 256 - the schools of the Kalisch land, the
+  Grodziec contract of 1796, the parishes and the diocese list ("Zagörow
+  mit dem Filial Lissewo-Pyzdry, Konin mit dem Filial Maslaki"), the
+  Zagórów church of 1878-1896 and its pastors to 1945, the Łazińsk
+  brethren's circles, the statistics of 1938. The false friend "Trombin bei
+  Rypin" (p. 101) ruled out. Index: 140 hits, all read; `Trombezyn`,
+  `Zagörow`/`Zagö-röw`, `Lazinsk` and `Prusinski` ruled in, `Brzyczka`
+  refused, five old rulings sharpened. One hand-made link: p. 41 against
+  the summons of 1860 and the boundary decree of 1775 (Kneifel names the
+  husband alone, the documents the couple). `docs/LITERATURE_PLAN.md`,
+  section 24. Not published. The literature has 31 works, 29 on the site
+  (two summary-only).
 - **Minakowska (2026), the Starost's page, and the person pages**
   (2026-10-22, committed; not published): the first saved page of
   Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with

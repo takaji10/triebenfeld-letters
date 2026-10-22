@@ -47,7 +47,7 @@ patterns:
     miaczynski: '(?<=Stanisława \*\*)Miączyńskiego|(?<=Stanisławem )Miączyńskim|(?<=Podpułkownika )Miączyńskiego|(?<=kapitanowi )Miączyńskiemu'
     # Breyer (1935, "Gaue") calls the owner of Trąbczyn in 1746 "Paul von
     # Kolno-Prusiński".
-    prusimski-pawel: '(?<=Kolno-)Prusiński|(?<=Pawła i Katarzynę z Rozdrażewskich )Prusimskich'
+    prusimski-pawel: '(?<=Kolno-)Prusi[ńn]ski|(?<=Pawła i Katarzynę z Rozdrażewskich )Prusimskich'
     # Chodyła (2015) declines the names in Polish: "Antoniemu Prusimskiemu",
     # "Antoniego Prusimskiego", "między Antonim Prusimskim", "dóbr Trąbczyn
     # Prusimskiego" (the Starost); "Pawła i Katarzynę z Rozdrażewskich
@@ -63,7 +63,8 @@ patterns:
     # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
     # Żychliński and Breyer print the adjective: "klucz Trąbczyński",
     # "majętność Trąmbczyńską" (and "Huta Trąbczyńska", a village of its own).
-    trabczyn: 'Trombczyn|Trobozyn|Tr[ąa]m?bczyńsk\w*'
+    # Kneifel (1964) prints "Trombezyn" (p. 41, the Starost's Grundherrschaft).
+    trabczyn: 'Trombczyn|Trobozyn|Trombezyn|Tr[ąa]m?bczyńsk\w*'
     # Żychliński and the PSB decline Kolno and Wieniec in Polish: "na Kolnie",
     # "Kolna", "z Kolnem"; "Wieńca", "na Wieńcu".
     kolno: 'Koln(?:ie|a|em)(?![a-zà-ÿ])'
@@ -71,7 +72,11 @@ patterns:
     szetlewek: 'Szellewen'
     # Karwowski (1900) declines Zagórów into the adjective, lowercase:
     # "przy dobrach zagórskich" (p. 87), the Zagórów estates.
-    zagorowo: 'zagórskich'
+    # Kneifel (1964) writes the town's name with the German umlaut for the
+    # first vowel only ("Zagörow", pp. 112, 123, 226, 235) and once breaks it
+    # at the line's end, "Zagö-röw" (p. 92). The edition's own pattern takes
+    # the o and ó forms ("Zagorow", "Zagórów"), already ruled below.
+    zagorowo: 'zagórskich|Zagö-?r[öo]w(?![a-zà-ÿ])'
     # Boniecki (1900) has Imielno as "Mielno" in the list of the Chełmski
     # estates, "Łukomia, Łomowa, Mielna i Bukowa" (the editor, 2026-10-21:
     # "Imielno (Mielna in this document)"). Only in that list.
@@ -196,7 +201,10 @@ people:
     # of Berlin; the identity is open (NEEDS_CONFIRMATION, "The literature").
     Grävenitza: "no: the donatary Grävenitz of Tabela 4 and his affair in Cölln's Feuerbrände, not read as the edition's Kammergerichtsrat von Grevenitz"
   grimm:
-    Grimm: "no: Grimms Wörterbuch (Guradze) and the word Grimm, wrath (Feuerbrände 3-51)"
+    # Kneifel (1964) p. 93: "Pastor Grimm in Stawiszyn", who wrote the report
+    # on the schools of the Kalisch land for the Posen consistory about 1800 -
+    # not the letters' Grimm either.
+    Grimm: "no: Grimms Wörterbuch (Guradze) and the word Grimm, wrath (Feuerbrände 3-51); also Pastor Grimm of Stawiszyn (Kneifel 1964, p. 93), not the letters' Grimm"
   hardenberg: {Hardenberg: yes}
   haugwitz:
     Haugwitz:
@@ -390,6 +398,10 @@ people:
     # (53/968/0/-/783) names him "Paweł z Kolna Prusiński" as the grantor of
     # the privilege of 1746 (literature/links.yml, breyer1935gaue-hollanders)
     Prusiński: yes
+    # Kneifel (1964) prints the name without the Polish ń: "Paul von
+    # Kolno-Prusinski, Grundherr von Trombezyn" (p. 41, the founding of
+    # Łazińsk in 1746). The same man.
+    Prusinski: yes
     # Chodyła (2015): "Pawła i Katarzynę z Rozdrażewskich Prusimskich", the
     # founders of 1746 (pp. 29, 30, 152, from the boundary decree, Konin Gr.145).
     Prusimskich: yes
@@ -435,7 +447,12 @@ people:
     Schröder: "no: Adelgunde Schröder, a farm-holder at Święcia in Breyer's list of 1928; not Rath Schröder"
   schroetter:
     Schroetter: yes
-    Schrötter: yes
+    Schrötter:
+      default: yes
+      except:
+        # Kneifel (1964) p. 91: "Schröttersdorf (Maszewo)", the Neuostpreußen
+        # colony named for the minister - not the man.
+        kneifel1964/91: "the colony Schröttersdorf (Maszewo), named for the minister, not the man"
   schulenburg:
     Schulenburg:
       default: yes
@@ -566,6 +583,11 @@ people:
 places:
   # The estates of the edition (shown on the Places page).
   betsche: {Betsche: yes}
+  brzyce:
+    # Kneifel (1964) p. 41: "1791 gab A. Reptowski, Domherr an der Posener
+    # Kathedralkirche, der Siedlung Brzyczka die "Gerechtsame"" - Reptowski's
+    # colony near Łódź, not the edition's Brzyce near Trąbczyn.
+    Brzyczka: "no: the colony Brzyczka near Łódź founded by A. Reptowski, canon of the Poznań cathedral (Kneifel 1964, p. 41), not the edition's Brzyce in the Konin district"
   dormowo: {Dormowo: yes}
   drzewce:
     Drzewce: yes
@@ -677,6 +699,10 @@ places:
     Trąbczyńskie: yes
     Trąbczyńskimi: yes
     Trąbczyńskim: "no: Michalinów Trąbczyński, a later village named after Trąbczyn (Chodyła 2015)"
+    # Kneifel (1964) prints "Trombezyn" (p. 41: "Paul von Kolno-Prusinski,
+    # Grundherr von Trombezyn", the Starost as the founder of Łazińsk in
+    # 1746) — the print's own spelling of Trąbczyn.
+    Trombezyn: yes
   trabczynskie-stare-oledry:
     # The editor's ruling of 2026-10-22: Kolonia Łazińskie (Mielewczyk 2017,
     # p. 48, among the new villages founded on the parcelled lands of the
@@ -684,6 +710,13 @@ places:
     # register records as Trąbczyńskie Stare Olędry. This settles the open
     # question of which colony the form names.
     "Kolonia Łazińskie": yes
+    # Kneifel (1964) uses the German-era name with a plain l (the print's
+    # German): the colony founded 1746 by the Starost (p. 41, "die Kolonie
+    # Lazinsk Hol."), its school (pp. 45, 112), and the brethren's circles
+    # "In Lazinsk, in der Gemeinde Zagörow" (pp. 235-236). The editor's
+    # ruling of 2026-10-22 (the Ostdeutscher Beobachter item): Łazinsk is
+    # the colony, its German-era name.
+    Lazinsk: yes
   wieniec:
     Wieniec: yes
     Winiec: yes
@@ -814,7 +847,13 @@ places:
     Glogaus: yes
     Glogauschen: yes
   havelberg: {Havelberg: yes}
-  holland: {Holland: yes}
+  holland:
+    # Kneifel (1964) p. 40: "Dembina-Holland" and "Koneck-Holland", colonies
+    # whose names carry the word, not the country.
+    Holland:
+      default: yes
+      except:
+        kneifel1964/40: "the colonies Dembina-Holland and Koneck-Holland, named with the word, not the country"
   ingelfingen: {Ingelfingen: yes}
   italien: {Italien: yes}
   jena: {Jena: yes}
@@ -895,14 +934,27 @@ places:
     Ostrów: "no: Ostrów by Sławsk, an island in the Warta marsh (Breyer 1938)"
   paris: {Paris: yes}
   pommern: {Pommern: yes}
-  posen: {Posen: yes}
+  posen:
+    Posen:
+      default: yes
+      except:
+        # Kneifel (1964): the imprints of the books and journals the text
+        # cites (pp. 89, 90, 94), not the town.
+        kneifel1964/89: "the imprint of the cited book (Heike, Die Provinz Südpreußen)"
+        kneifel1964/90: "the imprint of the cited journal"
+        kneifel1964/94: "the imprint of the cited journal"
   potsdam: {Potsdam: yes, Potsdammer: yes, Potsdamscher: yes}
   prag: {Prag: yes}
   pressburg: {Preßburg: yes}
   pyzdry:
     Peisern: yes
     # Szwiec (2009): the town, its commune and the map sheet named after it.
-    Pyzdry: yes
+    Pyzdry:
+      default: yes
+      except:
+        # Kneifel (1964) p. 123: "Zagörow mit dem Filial Lissewo-Pyzdry" -
+        # the compound name of Zagórów's filial, not the town itself.
+        kneifel1964/123: "the filial Lissewo-Pyzdry, the village's compound name, not the town"
     Peysern: yes
     Peisernsche: yes
     Pyzdry[mapka]: yes
@@ -963,7 +1015,15 @@ places:
   wielun:
     Vielun: yes
     Wieluń: yes
-    Wielun: "no: a field near a place Wielun in a Latin charter quoted by Guradze; not shown to be the town"
+    # Guradze: a field near a place Wielun in a Latin charter, not shown to
+    # be the town. Kneifel (1964) names the town Wieluń three times (the
+    # parish of 1820, the diocese list, the cholera of 1873).
+    Wielun:
+      default: "no: a field near a place Wielun in a Latin charter quoted by Guradze; not shown to be the town"
+      except:
+        kneifel1964/102: "the town, the parish founded there in 1820"
+        kneifel1964/123: "the town, the parish of the diocese of Kalisch"
+        kneifel1964/165: "the town, the cholera of 1873"
   wien: {Wien: yes}
   wieruszow:
     Wieruszów: "no: the village of Wieruszów in the commune of Gosławice by Konin (Breyer); not the town by Sokolniki of the edition's letters"
@@ -1005,3 +1065,9 @@ places:
     # (p. 87), the Zagórów estates, named in the same sentence as
     # "Zagórowie" — not the ruled-out Olędry above.
     zagórskich: yes
+    # Kneifel (1964) writes the name with the German umlaut for the first
+    # vowel: the town (p. 92, "die Städte Konin, Zagö-röw und Kolo" — the
+    # hyphen the print's line break; pp. 112, 123, 226) and the parish and
+    # its congregation (pp. 235, 256 "Zagorow").
+    Zagörow: yes
+    "Zagö-röw": yes

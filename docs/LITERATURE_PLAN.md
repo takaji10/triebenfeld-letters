@@ -863,3 +863,49 @@ and Tabela 4's row to the Prince's three letters (oe1bu9454-104, -108,
 Hohenlohe link; every figure in the sentences was read on both sides
 (Łukasiewicz's this session, the letters' as ruled on 2026-10-19). Open: the
 editor's look at the English; publication at the editor's word.
+
+## 24. Kneifel (1964) (2026-10-22)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `kneifel1964` | Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen Kirche in Polen*, Selbstverlag des Verfassers, Niedermarschacht über Winsen/Luhe 1964 | German | `[p. N]` | yes: the excerpt, 21 printed pages |
+
+The editor's word: "Add this literary source to the project ... Use the two
+.md files for the German and English transcriptions/translations. Be careful
+not to go too deep into this text: don't call out new people/estates/etc.
+unless it's something related to Trąbczyn/Zagórów areas. This is a large
+text, so surely large parts of it will also not be relevant to the project.
+Don't labour intensively over it." Asked, they ruled: the excerpt carries
+the place-named pages **and** the two colonisation sections; the work is
+shown on the site; only the excerpt scripts and the cut pages are committed.
+
+- **The first work from the editor's Markdown files, not from a PDF or
+  scans.** The two files in their Books folder — the German transcription
+  with the printed page numbers ([7] to [319]) and GFM footnotes defined at
+  the foot of their own pages, and an English translation that pairs it
+  page for page — are read by `literature/kneifel1964/make_original.py`
+  from J: and are **not kept in the repository**. The script's rules are its
+  docstring; a page kept whole keeps its footnotes, a page kept in part
+  keeps only the notes its kept text points to. The page marks are
+  rewritten `[N]` → `[p. N]`; nothing else is changed, the print's slips
+  stand.
+- **The excerpt** (the `notes.md` lists every cut): pp. 39-42 (the rural
+  colonisation; p. 41 the founding of Łazińsk by "Paul von Kolno-Prusinski,
+  Grundherr von Trombezyn"); pp. 89-93 (the Prussian colonisation; p. 92
+  "die Städte Konin, Zagö-röw und Kolo"); pp. 45, 94, 102, 112, 123, 165,
+  166, 179, 226, 235, 236, 256 (the schools, the Grodziec contract, the
+  parishes and the diocese list, the Zagórów church and its pastors, the
+  Łazińsk brethren's circles, the statistics of 1938). The scan of the whole
+  book found the relevant material scattered in a general church history;
+  the false friend "Trombin bei Rypin" (p. 101) is ruled out.
+- **In copyright** (published 1964): put to the editor before anything was
+  shown; they chose the visible excerpt. The Licences page was not changed.
+- The index: 140 hits, all read; new forms `Trombezyn`, `Zagörow`/`Zagö-röw`
+  (a literature-only pattern beside the edition's own), `Lazinsk` (the
+  editor's ruling of 2026-10-22) and `Prusinski`; `Brzyczka` refused; five
+  old rulings sharpened with exceptions (Schröttersdorf, the Posen imprints,
+  "Lissewo-Pyzdry", Dembina- and Koneck-Holland, Wielun by exception). One
+  hand-made link, p. 41 against the summons of 1860 and the boundary decree
+  of 1775; Kneifel names the husband alone, the documents the couple, and
+  the edition follows the documents. The literature has 31 works, 29 on the
+  site (two summary-only).
