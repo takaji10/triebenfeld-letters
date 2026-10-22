@@ -119,6 +119,20 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **Łukasiewicz (1997)** (`lukasiewicz1997`, added 2026-10-22,
+  **committed, not published**): Dariusz Łukasiewicz, "Nowa analiza
+  „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R.
+  CIV, nr 2, pp. 31-62 - the modern source study of the black register the
+  edition carries in print. The editor's rulings: the whole article, visible,
+  the appendix tables as HTML tables. Read from the RCIN digitisation's page
+  images (the OCR layer a scaffold only); the register's manuscript found in
+  GStAPK and read against three official lists; the headline figures
+  corrected (48 donataries, 52 donations, 245 estates, nominal 2 069 550
+  Thaler, real value 4-7 million against the title page's 20 million); the
+  corrupt side told (Hoym's circle, Triebenfeld's resale, the rescripts
+  against selling to Poles). Two hand-made links tie it to the Prince's
+  letters; where its figures differ from the documents, the documents stand.
+  Read `literature/lukasiewicz1997/notes.md` first. Not published.
 - **Minakowska (2026), the Starost's page, and the person pages**
   (2026-10-22, committed; not published): the first saved page of
   Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with

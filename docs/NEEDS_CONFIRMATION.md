@@ -777,6 +777,21 @@ Places (`reference/places.yml`, `open_questions`):
     Lichnowski brothers, Count and Countess Schlabrendorff, the barons von Stillfried, the
     Counts Wartensleben, von Schlieben with his widow and heirs, von Stössel and family.
 
+- **Łukasiewicz (1997)** (added 2026-10-22; its rulings in
+  `literature/index.yml` carry the reasons):
+  - The donatary **Grävenitz** of the article's Tabela 4 (p. 61, the affair
+    Cölln's Feuerbrände carried): not read as the edition's Kammergerichtsrat
+    von Grevenitz of Berlin, Triebenfeld's friend - the hit is refused for
+    now. Whether the donatary is the same man is open.
+  - The chamber councillor **Schmaling** the article dismisses for
+    malversations in 1804/5: the edition's Schmaling is the Landrat von
+    Schmaling, owner of the Głażewo Vorwerk (Oe 1 Bü 14526, letter 19). No
+    reading ties the two men; the hit is refused for now.
+  - The **Freiherr v. d. Reck** addressed by Voß on 12 I 1804 about the
+    church funds: which Freiherr von der Reck of the several of the name is
+    not settled, and the hit is not ruled to the edition's minister of state
+    and justice Eberhard von der Reck.
+
 ## Translations
 
 Since 2026-10-06 the site no longer shows a translation's status or says

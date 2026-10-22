@@ -680,6 +680,22 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       and the wording of the citation's bracket "[= Lochowski 1641]", chosen
       without you.
 
+- [x] Łukasiewicz (1997), "Nowa analiza „Czarnego Rejestru". Studium
+      źródłoznawcze" (Kwartalnik Historyczny R. CIV, nr 2, pp. 31-62), added
+      (2026-10-22; LITERATURE_PLAN.md, section 23): the whole article from
+      the RCIN digitisation, the four appendix tables as HTML tables, the
+      journal's English summary as printed, Claude's English beside it.
+- [x] Two hand-made links: the Triebenfeld story and Tabela 4's row to the
+      Prince's three letters (Oe 1 Bü 9454, 104, 108, 112), and Tabela 1's
+      Hohenlohe row to the five letters of the register's Hohenlohe link;
+      every figure read on both sides first.
+- [ ] **You:** the three identifications it raises, in NEEDS_CONFIRMATION
+      ("The literature"): whether the donatary Grävenitz of its Tabela 4 is
+      the edition's Kammergerichtsrat von Grevenitz; whether the dismissed
+      councillor Schmaling is the edition's Landrat von Schmaling of
+      Głażewo; which Freiherr von der Reck Voß's letter of 1804 names.
+- [ ] **You:** a look at the English, then publication at your word.
+
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 
 - [x] Pages 13, 14, 25, 26 and 66 found among your photographs by the

@@ -105,9 +105,17 @@ people:
   friedrich-wilhelm-ii:
     Friedrich Wilhelm II.: yes
     Friedrich Wilhelms II.: yes
+    # Łukasiewicz (1997): the king; the four undotted hits stand in the
+    # register's own German title (p. 34) and in the titles of works about him
+    # or his reign (Stadelmann n. 6, Naude n. 47, Triebenfeld's memoir n. 70),
+    # where he is the subject.
+    Friedrich Wilhelm II: yes
   friedrich-wilhelm-iii:
     Friedrich Wilhelm III.: yes
     Friedrich Wilhelm des dritten: yes
+    # Łukasiewicz (1997): the king; Hellwig's book title (n. 47) and the
+    # Kabinets-Orde of 23 XI 1797 (n. 123) name him as subject/actor.
+    Friedrich Wilhelm III: yes
     Friedrich Wilhelms III.:
       default: yes
       except:
@@ -150,6 +158,11 @@ people:
       except:
         feuerbraende1807/2-71: the government councillor at Posen, given Tarnowo
         feuerbraende1807/2-74: the government councillor, in the Gurowski divorce
+    # Łukasiewicz (1997), Tabela 4 n. 7 (p. 61): the donatary Grävenitz, whose
+    # affair Cölln's Feuerbrände carried (I, 132; V, 66, 109, 110; Grünhagen
+    # s. 294-295). Not read as the edition's Kammergerichtsrat von Grevenitz
+    # of Berlin; the identity is open (NEEDS_CONFIRMATION, "The literature").
+    Grävenitza: "no: the donatary Grävenitz of Tabela 4 and his affair in Cölln's Feuerbrände, not read as the edition's Kammergerichtsrat von Grevenitz"
   grimm:
     Grimm: "no: Grimms Wörterbuch (Guradze) and the word Grimm, wrath (Feuerbrände 3-51)"
   hardenberg: {Hardenberg: yes}
@@ -241,6 +254,11 @@ people:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
   niemojewski:
     Niemojewską: "no: Anna Niemojewska, a castellan's wife, in the Prusimski genealogy (Żychliński 1885); not General Niemojewski"
+    # Łukasiewicz (1997), p. 37 n. 33: Józef Niemojewski, starosta of Śrem,
+    # major general of the Poznań voivodeship, whose Borkowo and Ostrowo were
+    # confiscated (Iwaszkiewicz's list) — the edition's General Niemojewski,
+    # restored in 1807 to an estate Prussia had confiscated.
+    Niemojewskiemu: yes
   noldichen:
     # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
@@ -437,6 +455,9 @@ people:
     Wybicky: yes
     Wybickiego: "no: the title of the printed edition of his papers, Archiwum Wybickiego, in the PSB's bibliography"
     Wybickim: yes
+    # Łukasiewicz (1997), p. 37 n. 33: Józefowi Wybickiemu skonfiskowano
+    # Manieczki — the edition's Wybicki, whose Manieczki was confiscated.
+    Wybickiemu: yes
   zajaczek:
     # Pachoński (1973): General Józef Zajączek, later the viceroy of the edition's papers.
     Zajączek: yes
@@ -447,22 +468,6 @@ people:
         feuerbraende1807/1-101: "the regiment Zastrow, not the general"
         feuerbraende1807/1-115: "the battalion Zastrow, not the general"
   zerboni: {Zerboni: yes}
-  friedrich-wilhelm-ii:
-    # Łukasiewicz (1997): the king throughout; the four undotted hits stand in
-    # the register's own German title (p. 34) and in the titles of works about
-    # him or his reign (Stadelmann n. 6, Naude n. 47, Triebenfeld's memoir
-    # n. 70), where he is the subject.
-    Friedrich Wilhelm II: yes
-  friedrich-wilhelm-iii:
-    # Łukasiewicz (1997): the king; Hellwig's book title (n. 47) and the
-    # Kabinets-Orde of 23 XI 1797 (n. 123) name him as subject/actor.
-    Friedrich Wilhelm III: yes
-  grevenitz:
-    # Łukasiewicz (1997), Tabela 4 (p. 61): the donatary Grävenitz, whose
-    # affair Cölln's Feuerbrände carried (I, 132; V, 66, 109, 110; Grünhagen
-    # s. 294-295). Not read as the edition's Kammergerichtsrat von Grevenitz
-    # of Berlin; the identity is open (NEEDS_CONFIRMATION, "The literature").
-    Grävenitza: "no: the donatary Grävenitz of Tabela 4 and his affair in Cölln's Feuerbrände, not read as the edition's Kammergerichtsrat von Grevenitz"
   kalckreuth:
     # Łukasiewicz (1997), p. 45: a name in the list of the donataries' debts
     # (345 375 thalers), no first name. Not read as the edition's General
@@ -476,12 +481,6 @@ people:
     # letters 53, 57, 183) and of Seidel's excursus 22. The three hits (p. 35
     # body and note, the Tabela 1 row) are his.
     Massenbach: yes
-  niemojewski:
-    # Łukasiewicz (1997), p. 37 n. 33: Józef Niemojewski, starosta of Śrem,
-    # major general of the Poznań voivodeship, whose Borkowo and Ostrowo were
-    # confiscated (Iwaszkiewicz's list) — the edition's General Niemojewski,
-    # restored in 1807 to an estate Prussia had confiscated.
-    Niemojewskiemu: yes
   prinzessin-adelheid:
     # Łukasiewicz (1997), p. 37: Adelheid Simsch, the historian whose
     # juxtaposition of the two magnitudes the article starts from — not the
@@ -500,10 +499,6 @@ people:
     # minister of state and justice Eberhard von der Reck
     # (NEEDS_CONFIRMATION, "The literature").
     Reck: "no: the Freiherr v. d. Reck of Voß's letter of 12 I 1804, not settled which of the name, not read as the edition's Eberhard von der Reck"
-  wybicki:
-    # Łukasiewicz (1997), p. 37 n. 33: Józefowi Wybickiemu skonfiskowano
-    # Manieczki — the edition's Wybicki, whose Manieczki was confiscated.
-    Wybickiemu: yes
 
 places:
   # The estates of the edition (shown on the Places page).
