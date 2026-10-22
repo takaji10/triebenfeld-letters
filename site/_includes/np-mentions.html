@@ -1,0 +1,26 @@
+{%- comment -%}
+  The items of the newspapers that name one person or estate
+  (docs/NEWSPAPERS_PLAN.md).
+  include.works  site.data.newspapers_mentions.person[slug] or .place[slug]:
+                 [{slug, cite, pages: [{key, en, de}]}], made by
+                 pipeline/newspapers/newspapers_index.py from the rulings in
+                 newspapers/index.yml; every hit was read before it was ruled.
+
+  Like lit-mentions.html, closed by default; each item is one page, so the
+  link carries no anchor. Needs urls.html.
+{%- endcomment -%}
+{%- if include.works -%}
+{%- assign np_n = 0 -%}
+{%- for w in include.works %}{% assign np_n = np_n | plus: w.pages.size %}{% endfor -%}
+<details class="litlist">
+  <summary>{% if np_n == 1 %}{{ t.np_mentions_one }}{% else %}{{ t.np_mentions | replace: '%d', np_n }}{% endif %}</summary>
+  <div class="litlist-body">
+  {%- for w in include.works %}
+  <p class="litlist-work"><a href="{{ u_np | append: w.slug | append: '/' | relative_url }}">{{ w.cite }}</a></p>
+  <p class="refs reflist">
+    {% for pg in w.pages %}<a href="{{ u_np | append: w.slug | append: '/' | relative_url }}">{% if lang == 'de' %}{{ pg.de }}{% else %}{{ pg.en }}{% endif %}</a>{% endfor %}
+  </p>
+  {%- endfor %}
+  </div>
+</details>
+{%- endif -%}

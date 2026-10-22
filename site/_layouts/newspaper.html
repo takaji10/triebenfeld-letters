@@ -25,10 +25,22 @@ layout: default
     </dl>
     <div class="prose">
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
+      {% if w.translation == 'editor' %}
+      <p class="lit-caveat">{{ t.np_caveat_editor }}</p>
+      {% else %}
       <p class="lit-caveat">{{ t.np_caveat }}</p>
-      {% if w.scan != "" %}<p><a href="{{ w.scan }}">{{ t.lit_scan }}</a></p>{% endif %}
+      {% endif %}
+      {% if w.source != "" %}<p><a href="{{ w.source }}">{{ t.np_source }}</a></p>{% endif %}
     </div>
   </header>
+
+  {% if w.image %}
+  <figure class="np-figure">
+    <a href="{{ '/assets/newspapers/' | append: w.slug | append: '/' | append: w.image | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ '/assets/newspapers/' | append: w.slug | append: '/' | append: w.image | relative_url }}" alt="{{ w.ref }}" loading="lazy">
+    </a>
+  </figure>
+  {% endif %}
 
   <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
     <button type="button" class="vbtn is-on" data-show="en" aria-pressed="true">{{ t.lit_view_en }}</button>

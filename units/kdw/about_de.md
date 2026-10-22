@@ -24,4 +24,4 @@ Zugeordnet sind die siebzehn Güter um Trąbczyn und Zagórów, die der Herausge
 
 ### Verwandte Bestände
 
-Das Kloster Ląd als Besitzer von Drzewce, einem Nachbarn Trąbczyns, im Grenzdekret von 1775: [[unit:app53170koningr145]]. Der Abt von Ląd beim Begräbnis Paweł Prusimskis 1754: [[unit:kuryerpolski1754075]]. Die Visitation der Pfarrei Trąbczyn 1791: [[unit:adwl85]]. <!-- context -->
+Das Kloster Ląd als Besitzer von Drzewce, einem Nachbarn Trąbczyns, im Grenzdekret von 1775: [[unit:app53170koningr145]]. Der Abt von Ląd beim Begräbnis Paweł Prusimskis 1754: <a href="{{ '/de/zeitungen/kuryerpolski1754075/' | relative_url }}">Kuryer Polski, Nr. 75 (25. Dezember 1754)</a>. Die Visitation der Pfarrei Trąbczyn 1791: [[unit:adwl85]]. <!-- context -->

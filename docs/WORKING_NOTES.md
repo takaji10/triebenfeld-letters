@@ -1545,6 +1545,14 @@ cloud branches").
   TSV wants `-c tessedit_create_tsv=1` (the bare `tsv` config name prints
   plain text instead), and its output ends each line with \r. Small scans
   want upscaling: the clipping is 712×960 and only reads well at ×3 and ×4.
+- **An item's uid in the newspapers index is its slug with "-1"**
+  (2026-10-22). The register's `only_in` filters pin a spelling to the uid
+  it was read in ("Pawłá Prusinskie" to kuryerpolski1754075-1); when the
+  Kuryer Polski left the corpus for the newspapers, the index re-created
+  that uid for the item, so the filters kept working and no register entry
+  had to change. A person named by no document any more (Głowiecki) still
+  stands on /people/: build_site_data takes the newspapers' mentions as a
+  second reason to show a person.
 - **A stand-alone spot sheet** (2026-10-22, `scratch/dp1937_sheet.py`): for
   an item that is not a unit yet, copy the queries.py page and saving into a
   scratch script with its own rows and crops (its `--read` prints the

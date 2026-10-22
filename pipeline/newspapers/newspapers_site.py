@@ -97,8 +97,8 @@ def main():
     for it in sorted(items, key=lambda x: (x['year'], x['slug'])):
         row = {k: it.get(k, '') for k in (
             'slug', 'newspaper', 'title', 'title_en', 'cite', 'ref',
-            'published', 'year', 'language', 'english_by', 'scan',
-            'account_en', 'account_de')}
+            'published', 'year', 'language', 'english_by', 'source',
+            'image', 'translation', 'account_en', 'account_de')}
         listing.append(row | {'summary_only': not it.get('visible', True)})
         if it.get('visible', True):
             texts = {'en': body_of(os.path.join(NEWS, it['slug'], 'english.md')),

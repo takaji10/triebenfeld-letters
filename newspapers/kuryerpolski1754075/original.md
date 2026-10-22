@@ -1,3 +1,10 @@
+# The transcription, line by line as the page prints it, as the holding's
+# corpus had it (units/kuryerpolski1754075, 2026-10-16; the unit moved into
+# the newspapers 2026-10-22, the text unchanged). The printer's letters are
+# kept: the long s (ſ), the ligature ß in "Kalißa" (the italic ſz), æ in
+# "Sæcularis", accented á. "¬" is a word broken at the line's end. A word
+# written [word?] is read with doubt.
+
 Z Kalißa die 5. Decemb: W Trąb¬
 czynie pięć mil od Kaliſza w Dobrach
 Dziedzicznych Jchmćw Pańſtwa Pru¬

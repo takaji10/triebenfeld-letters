@@ -12,25 +12,28 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). The first item, the "Z Zagórowa" column of
-  Dziennik Poznański R. 79, nr 180 (7 August 1937), is in
-  (`newspapers/dziennikpoznanski19370807/notes.md` has the whole story). On
-  the editor:
-  - **Where the clipping came from.** The file carries no mark of a source;
-    is it a library's digitisation (Polona?), and if so which record? The
-    item's `scan:` stays empty until they say, and the record's provenance
-    waits with it.
-  - **The rights.** Anonymous press of 1937 read as public domain (the Polish
-    act's 70 years from publication, so ended in 2007): Claude's reading of
-    the law, to be confirmed before the item is published.
-  - **Kuryer Polski 1754** stands a holding on the Sources page. Move it to
-    this section, or leave it (it is a document of the funeral it reports,
-    brought in under the LITERATURE_PLAN's test before the section existed)?
-  - **The index of people and places** over the items: run it (the item
-    names Zagórów and Konin, which the edition's index knows, and three
-    people the edition does not), or leave the newspapers out of it?
-  - **The clipping's picture on the item's page**: none is shown; whether
-    the site should carry the clipping waits on the rights.
+  `docs/NEWSPAPERS_PLAN.md`). Two items in: the "Z Zagórowa" column of
+  Dziennik Poznański R. 79, nr 180 (7 August 1937) and the Kuryer Polski's
+  funeral report of 1754, moved here from the Sources page at the editor's
+  word (2026-10-22), with the old /documents/ addresses redirected. The
+  rulings of that day are worked in: the clipping's source (the blog
+  Zagórów w historii, its post of 2 October 2024), the rights (approved by
+  the editor), the clipping and the Kuryer's page shown on the item pages,
+  the index of people and places run over the items
+  (`newspapers/index.yml`, 18 hits all ruled). On the editor:
+  - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
+    (Oleszyno 1261) on the village's geography — the village and commune of
+    that name on the highway from Zagórów to Konin. Claude's
+    identification, not confirmed by the editor.
+  - **Głowiecki** stands on /people/ with no documents named by them (the
+    report is his only witness, and it left the corpus): the People page
+    learned to carry a person of the newspapers. The editor's eye on that
+    page is welcome.
+  - **The Kuryer Polski's people** lost one document each in the counts
+    (Paweł, Katarzyna, Antoni), and the timeline's event of 1754 now links
+    the item's page — said here so the change is known, not because a
+    question is open.
+
 
 
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated

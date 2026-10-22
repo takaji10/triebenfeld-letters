@@ -34,15 +34,22 @@ era: twentieth-century
 
 # Shown whole on the site. The item is anonymous press of 1937: Polish
 # copyright in an anonymous work runs 70 years from its first publication,
-# so it ended in 2007. The ruling is Claude's reading of the law, not the
-# editor's; it is recorded here so it can be checked (NEEDS_CONFIRMATION,
-# "The newspapers").
+# so it ended in 2007. **The rights are approved by the editor**
+# (2026-10-22: "Assume the rights are approved"), with the clipping's
+# source known (the blog named under `source:`).
 visible: true
 
-# Where the clipping came from. The file carries no mark of its source; the
-# editor was asked and has not yet said (NEEDS_CONFIRMATION, "The
-# newspapers"). The site shows nothing until they do.
-scan: ""
+# Where the clipping came from: the blog Zagórów w historii ("Zagórów in
+# history"), which publishes scans of clippings from the press of years
+# past; this is from its post of 2 October 2024, "Kolejne wycinki z prasy
+# sprzed lat, cz. 3" (another clippings from the press of years past,
+# part 3).
+source: https://zagorowzhistoria.com/2024/10/02/kolejne-wycinki-z-prasy-sprzed-lat-cz-3/
+
+# The clipping itself, shown above the texts (the editor, 2026-10-22: "The
+# site should carry the clipping"). The file given (a WebP despite its .jpg
+# name) converted to JPEG for the site.
+image: clipping.jpg
 
 # The English was made in the session that read the clipping (the editor's
 # word, 2026-10-22); it is not checked whole.

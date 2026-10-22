@@ -22,7 +22,10 @@ to neither:
 
 The site has a third section: the menu carries **Newspapers** ("Zeitungen")
 between Sources and Literature; /newspapers/ lists the items by year, each
-with its own page (/de/zeitungen/ in German).
+with its own page (/de/zeitungen/ in German). The first two items are the
+"Z Zagórowa" column of Dziennik Poznański, R. 79, nr 180 (7 August 1937),
+and the Kuryer Polski's funeral report of 1754, moved here from the Sources
+page (section 5).
 
 ---
 
@@ -81,9 +84,18 @@ The engine reports what it cannot read with confidence; its word confidences
   "Read the item".
 - **The item's page**: the title (a description of the item, as a holding's
   title is), the issue's citation as the standfirst, the facts (newspaper,
-  published, language), the account, the caveat that the English is Claude's
-  and unchecked, and a link to the scan of the original where there is one
-  (`scan:` in item.yml — a link out, like a literature work's).
+  published, language), the account, the caveat that the English is
+  Claude's and unchecked (`translation: editor` in item.yml changes the
+  caveat to "the editor's own", as the Kuryer Polski's is), and a link to
+  where the item comes from (`source:` in item.yml — the digitisation or,
+  for a clipping, the blog or archive that published it).
+- **The item's picture** (`image:` in item.yml, the file in
+  `site/assets/newspapers/<slug>/`): shown above the texts, linked to the
+  full file — the clipping itself (the editor, 2026-10-22: "The site
+  should carry the clipping"), or the page of a digitised issue. The file
+  is committed: the item is not a holding, and its picture is not part of
+  the scans pipeline (`site/assets/scans/` is regenerated from `pages/`,
+  which a newspaper has no part in).
 - **The texts**: one at a time, the English first, by the literature's
   buttons (assets/literature.js); the original line by line as printed.
 - **Kept off the site** (`visible: false`, the rule of the literature,
@@ -92,32 +104,71 @@ The engine reports what it cannot read with confidence; its word confidences
   required or the build stops); no stretch of its text anywhere on the site
   (verify_site.py holds the built site to that).
 
-## 4. Order of work, and what is open
+## 4. The index of people and places
+
+The editor's word (2026-10-22): "The people/places index should run over
+the items." `pipeline/newspapers/newspapers_index.py --check` (a step of
+regenerate.py, after newspapers_site.py) runs the edition's patterns for
+people and places (`pipeline/build/entities.py`) over the originals of the
+visible items — the literature's index machinery
+(`pipeline/literature/literature_index.py`), with two differences:
+
+- an item is one page, so a mention links the item's page with no anchor;
+- **an item's uid is its slug with "-1"** (`kuryerpolski1754075-1`), the
+  shape a document's uid has: the register's `only_in` filters pin the
+  spellings they were written for to that uid ("Pawłá Prusinskie",
+  "Rozrazeskich Prusimskiey" of the Kuryer Polski), and the alias keeps
+  them working for the item that left the corpus.
+
+The rulings are in `newspapers/index.yml`, one per name and spelling
+(`--sheet` writes every hit in context to review/newspapers/mentions.md;
+`--check` fails on a hit with no ruling, so a new item cannot bring unread
+hits to the site). Kept hits go to `corpus/newspapers/mentions.json` (for
+questions) and `site/_data/newspapers_mentions.yml` — the box "In the
+newspapers" on a person's entry on /people/ and an estate's on /places/,
+beside the literature's, closed by default.
+
+**A person of the newspapers can name no document** (Głowiecki: the report
+of 1754 is his only witness, and it left the corpus): such a person stands
+on /people/ all the same, with the newspapers' mentions beside them and no
+documents shown (build_site_data, the people list; the counts line and the
+document list are left out when there are no documents).
+
+## 5. The first two items (2026-10-22)
+
+| Slug | Item | Language | On the site |
+|---|---|---|---|
+| `dziennikpoznanski19370807` | Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937), the "Z Zagórowa" column: three municipal notes | Polish | yes, with the clipping |
+| `kuryerpolski1754075` | Kuryer Polski, nr 75 (25 December 1754): the report from Kalisz on the funeral of Paweł Prusimski at Trąbczyn, 5 December | Polish | yes, with the page |
+
+**The Kuryer Polski moved.** It came into the edition on 2026-10-16 as a
+holding (BK PAN Cz2271, the first from print and from a library) and the
+editor ruled on 2026-10-22 that it belongs in this section. The text, the
+editor's own English, the summaries and the page image came over unchanged
+in their words (`newspapers/kuryerpolski1754075/notes.md`); the unit folder
+is gone, so the item is **no longer one of the edition's documents**: the
+edition counts 619 documents in 46 holdings, the old /documents/
+kuryerpolski1754075/ addresses redirect to the item's page, the timeline's
+event of 1754 links the item, and the story's and the KDW holding's links
+point there. The register's people patterns keep their only_in lists (the
+uid alias); the person entries lost one document each in their counts.
+
+**The Dziennik Poznański clipping** comes from the blog **Zagórów w
+historii** (its post of 2 October 2024, "Kolejne wycinki z prasy sprzed
+lat, cz. 3"), by the editor's word, and the rights are approved by them.
+Its thirteen doubtful readings were ruled on a spot sheet
+(`newspapers/dziennikpoznanski19370807/notes.md` has them all).
+
+## 6. Order of work, and what is open
 
 1. Bring the item in; read it; the spot sheet; the rulings. *(done
-   2026-10-22: dziennikpoznanski19370807)*
+   2026-10-22: both items)*
 2. The section on the site: list page, item pages, menu, i18n, verify.
-   *(done 2026-10-22, uncommitted)*
-3. Open (NEEDS_CONFIRMATION, "The newspapers"):
-   - **Where the clipping came from** (a library's digitisation? Polona? the
-     editor's own photograph?): the record needs its provenance and the
-     rights line beside it; `scan:` stays empty until they say.
-   - **The rights**: the item is anonymous press of 1937, public domain by
-     the Polish act's 70 years from publication — Claude's reading, to be
-     confirmed by the editor.
-   - **Kuryer Polski 1754**: move to this section from the Sources page, or
-     leave it a holding? (It is a document of the funeral it reports, not a
-     clipping about the estate's setting; the test it was brought in under.)
-   - **The index of people and places** over the items: the item names
-     Franciszek Łukaszewski, Wiznerowa, the heirs of Ignacy Ciszewski,
-     Oleśnica — and Zagórów and Konin, which the edition's index knows.
-     Whether the newspapers go through the literature's index machinery
-     (LITERATURE_PLAN section 8) is the editor's to say.
-   - **A clipping's picture on its page**: the item's page shows no image;
-     whether the site should carry the clipping itself (it would, unlike the
-     archival scans, be ours to publish if the rights are as read) waits on
-     the rights.
-   - **The corpus for questions**: whether items should be cut into passages
-     in corpus/ like the literature, so the editor's questions can be put to
-     them. Not now: an item is a page or two; the question comes with the
-     first multi-page item.
+   *(done 2026-10-22)*
+3. The index over the items. *(done 2026-10-22: section 4)*
+4. Open (NEEDS_CONFIRMATION, "The newspapers"):
+   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
+     on the item's own geography; the editor to confirm or correct.
+   - **Głowiecki's page** on /people/ (no documents, the newspapers'
+     mentions beside them): the editor's eye.
+

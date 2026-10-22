@@ -375,6 +375,10 @@ en:
   np_read: Read the item
   np_newspaper: Newspaper
   np_published: Published
+  np_source: Source of the scan
+  np_caveat_editor: The English translation is the editor's own.
+  np_mentions: "In the newspapers: %d passages"
+  np_mentions_one: "In the newspapers: one passage"
   np_hint_en: The English translation by Claude; the original decides.
   np_hint_orig: The item as printed, line by line.
   f_unit: Holding
@@ -765,6 +769,10 @@ de:
   np_read: Das Stück lesen
   np_newspaper: Zeitung
   np_published: Erschienen
+  np_source: Herkunft des Abdrucks
+  np_caveat_editor: Die englische Übersetzung ist des Editors eigene.
+  np_mentions: "In den Zeitungen: %d Stellen"
+  np_mentions_one: "In den Zeitungen: eine Stelle"
   np_hint_en: Die englische Übersetzung von Claude; maßgeblich ist das Original.
   np_hint_orig: Das Stück, wie es gedruckt ist, Zeile für Zeile.
   f_unit: Bestand

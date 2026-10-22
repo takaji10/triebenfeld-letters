@@ -87,13 +87,23 @@
               <h3>{{ e_title }}</h3>
               <p>{{ e_note }}</p>
               <p class="tl-src">{{ e.date }}{% if e.end %}-{{ e.end }}{% endif %} &middot; {{ e_src }}</p>
-              {%- comment -%} The documents the event rests on, named by holding and number. {%- endcomment -%}
+              {%- comment -%}
+                The documents the event rests on, named by holding and number.
+                A ref that names an item of the newspapers (a bare slug, no
+                "/number") links the item's page instead
+                (docs/NEWSPAPERS_PLAN.md).
+              {%- endcomment -%}
               {% if e.refs %}
               <p class="tl-src tl-refs">
                 {%- for r in e.refs -%}
+                  {%- assign np_item = site.data.newspapers | where: "slug", r | first -%}
+                  {%- if np_item -%}
+                  <a href="{{ u_np | append: np_item.slug | append: '/' | relative_url }}">{{ np_item.ref }}</a>{% unless forloop.last %} &middot; {% endunless %}
+                  {%- else -%}
                   {%- assign rp = r | split: '/' -%}
                   {%- assign ru = site.data.units | where: "slug", rp[0] | first -%}
                   <a href="{{ '/documents/' | append: r | append: '/' | relative_url }}">{{ ru.ref }}, {{ rp[1] }}</a>{% unless forloop.last %} &middot; {% endunless %}
+                  {%- endif -%}
                 {%- endfor -%}
               </p>
               {% endif %}

@@ -708,10 +708,15 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       line as printed and the English beside it, the menu entry between
       Sources and Literature, the checks in verify_site.py
       (`docs/NEWSPAPERS_PLAN.md`).
-- [ ] **You:** where the clipping came from (the item's record and its
-      `scan:` link wait on it); the rights (read as public domain, anonymous
-      press of 1937, to be confirmed); whether Kuryer Polski 1754 moves to
-      this section from the Sources page; whether the index of people and
-      places runs over the items; whether the site carries the clipping
-      itself (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (the item is built but not yet on `main`).
+- [x] Your rulings of 2026-10-22 worked in: the clipping's source (the blog
+      Zagórów w historii, its post of 2 October 2024); the rights approved;
+      the clipping shown on the item's page (and the Kuryer Polski's page on
+      its own item's); **Kuryer Polski moved here from the Sources page**
+      (the edition counts 619 documents in 46 holdings; the old /documents/
+      addresses redirect); the people/places index run over the items
+      (`pipeline/newspapers/newspapers_index.py`, 18 hits all ruled in
+      `newspapers/index.yml`).
+- [ ] **You:** the Oleśnica of the 1937 item is ruled to the register's
+      Oleśnica on its geography — confirm or correct
+      (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (the section is built but not yet on `main`).
