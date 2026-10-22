@@ -209,10 +209,13 @@ Its thirteen doubtful readings were ruled on a spot sheet
      records (the Łazińskie Olędry from the 1746 foundation; the Nowe
      Olędry first attested 1776): the item keeps its date as printed and
      the summary records the difference; the editor's eye on the wording.
-   - **Patterns for "Drommin" and the Łazinsk spellings**: the 1942 item
-     names the Amtsbezirk Drommin (the register's renamed name of
-     Trąbczyn, carried with no pattern) and "Lazinsk" (the register's
-     Łazińsk is `match: false`), so neither is indexed. Whether to add
-     patterns waits on the editor — with the same question already open
-     for Mielewczyk's "Kolonia Łazińskie".
+   - **"Drommin", "Lazinsk" and "Kolonia Łazińskie" — settled 2026-10-22**
+     (the editor: Drommin = Trąbczyn; Lazinsk = German-era name for
+     Łazińsk, the colony which went by many name variants; Kolonia
+     Łazińskie a variant of Łazińsk/Lazinsk). "Drommin" is a matched
+     variant of trabczyn, "Lazinsk" and "Kolonia Łazińskie" of
+     trabczynskie-stare-oledry (reference/places.yml); the item's hits are
+     ruled in `newspapers/index.yml`, Mielewczyk's form in
+     `literature/index.yml`. The bare Polish "Łazińsk"/"Łaziny" stay
+     unmatched (NEEDS_CONFIRMATION).
 

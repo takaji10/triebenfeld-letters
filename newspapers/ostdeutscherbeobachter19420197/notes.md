@@ -32,6 +32,53 @@ The slug follows the plan's rule (`<papertitle><year><issue>`):
 `ostdeutscherbeobachter19420197`. The item is in the era `twentieth-century`
 (its working name), like the 1937 item.
 
+## The editor's rulings of 2026-10-22 (the identifications)
+
+Put to the editor with the item's open questions, answered the same day in
+three sentences:
+
+- **"Drommin = Trąbczyn."** The article's Amtsbezirk Drommin is the commune
+  of Trąbczyn under its occupation name — what the register already carried
+  (`renamed`, from Jehke, the editor's word of 2026-10-21) is confirmed as
+  the identification of the article's name.
+- **"Lazinsk = German-era name for Łazińsk, the colony which went by many
+  name variants."** The article's Lazinsk is Łazińsk — the colony, not a
+  part of one: this settles the register's open question ("whether the
+  register's Łazińsk / Łaziny is that name or a part of the colony") in the
+  direction that Łazińsk names the colony. The register records Łazińsk as
+  a variant of **Trąbczyńskie Stare Olędry**, so the article's Lazinsk is
+  that colony — the 1746 foundation, later Łazińskie Stare Olędry and
+  Staro-Łazińska. The paper treats the place as one village of some 170
+  families with one school and one cemetery; Breyer's notebook of 1936
+  distinguishes its "Nowou. Alt Łazinsk" — the Stare and Nowe colonies —
+  so the article's single name covers what the notebook names in two.
+  Breyer's own open question ("whether 'Łazinsk' of 1936 is both Łazińskie
+  colonies", the notebook's NEEDS_CONFIRMATION) is untouched by this.
+- **"Kolonia Łazińskie is a variant of Łazińsk/Lazinsk."** Mielewczyk's
+  form (2017, p. 48, among the new villages on the parcelled lands of
+  Trąbczyn) names the same colony. This settles the question his item had
+  left open ("a pattern would have to say which colony"): it is the Stare
+  colony, and the form is matched.
+
+Worked in the same day:
+
+- `reference/places.yml`: "Drommin" a matched variant of trabczyn; "Lazinsk"
+  and "Kolonia Łazińskie" matched variants of trabczynskie-stare-oledry;
+  the register's open question rewritten with the ruling. The bare Polish
+  "Łazińsk"/"Łaziny" stay `match: false` (their literal would also catch
+  the Nowe colony's "Łazińskie"; matching them would bring Breyer's
+  "Łazinsk" of 1936 in — the editor's word).
+- `newspapers/index.yml`: the item's "Drommin" (1 hit) ruled to trabczyn,
+  its "Lazinsk" (6 hits) to trabczynskie-stare-oledry.
+- `literature/index.yml`: Mielewczyk's "Kolonia Łazińskie" ruled yes to
+  trabczynskie-stare-oledry — the hit his item's index had left unmade.
+  **The index files are shared with parallel sessions**: the newspapers
+  file's hunks went in with the Twoja Słupca session's commit of that file
+  (which carried the whole of it, this item's rulings included); the
+  literature file also carries the Łukasiewicz (1997) session's uncommitted
+  rulings, so only the Mielewczyk hunk was staged for this work's commit,
+  theirs left for that session.
+
 ## How it was read
 
 The transcription came **with the file** and was not read against the page
@@ -77,24 +124,22 @@ reading of the text itself noticed, recorded here so it is known:
   1 November 1939 to 1945; a party paper of the occupation. The article is
   kept as a witness of its day, its judgements the paper's own (the item's
   account says so on its page).
-- **The place is the edition's own.** The article's "Amtsbezirk Drommin" is
-  the wartime name of the rural commune of Trąbczyn (`renamed` in
-  reference/places.yml, the editor's word of 2026-10-21, from Jehke). Its
-  "Lazinsk" is the Łazinsk of Albert Breyer's notebook of July 1936 (APP
-  53/968/0/-/669), which writes "Lehrer i. Łazinsk: Mielke seit 1925" and
-  names "Michalinow" beside it — the same teacher and the same neighbouring
-  name six years before the article. The register carries Łazinsk as a
-  variant of Trąbczyńskie Stare Olędry with `match: false` ("Łazińsk");
-  whether the register's Łazińsk/Łaziny is the old colony or a part of it is
-  not established there, and the article settles nothing — but the item is
-  the press's only witness of the place and its school.
+- **The place is the edition's own, by the editor's rulings of 2026-10-22**
+  (the block above). The article's "Amtsbezirk Drommin" is the wartime name
+  of the rural commune of Trąbczyn (`renamed` in reference/places.yml); its
+  "Lazinsk" is the German-era name of Łazińsk, the colony the register
+  records as Trąbczyńskie Stare Olędry. Its "Lazinsk" is the Łazinsk of
+  Albert Breyer's notebook of July 1936 (APP 53/968/0/-/669), which writes
+  "Lehrer i. Łazinsk: Mielke seit 1925" and names "Michalinow" beside it —
+  the same teacher and the same neighbouring name six years before the
+  article; the item is the press's only witness of the place and its school.
 - **The date.** The paper's founding of 1718 by fourteen Silesian families
-  stands against the edition's own records: the Łazińskie Olędry are carried
-  from the 1746 foundation (the register's open question; Chodyła 2015
-  covers the Olęder settlements of the Pyzdry Forest from 1746), and the
-  Nowe Olędry are first attested 29 September 1776. The difference is
-  recorded in the summary; the edition keeps to the documents (the
-  documents-first rule). Flagged in NEEDS_CONFIRMATION.
+  stands against the edition's own records: the colony is carried from the
+  1746 foundation (the register; Chodyła 2015 covers the Olęder settlements
+  of the Pyzdry Forest from 1746), and the Nowe Olędry are first attested
+  29 September 1776. The difference is recorded in the summary; the edition
+  keeps to the documents (the documents-first rule). Flagged in
+  NEEDS_CONFIRMATION.
 - The people of the article are not in the edition's register: Mielke (the
   teacher and farmer; no person entry), Willi Spatz (the signature; also the
   photographer of the article's picture), the families Kuhn, Merk,
@@ -110,13 +155,15 @@ What the item brings the patterns:
 
 - **Konin** is matched (the article's "Kreisstadt Konin" and the English's
   rendering); ruled in `newspapers/index.yml`.
-- **Lazinsk, Łazińsk, Drommin, Michalinow** are matched by no pattern (the
-  register's Łazińsk forms are `match: false`; Drommin is carried as the
-  renamed name of Trąbczyn with no pattern, the changelog of 2026-10-21
-  saying it "is found in no document or work of the edition, so it is not
-  matched" — this item is now such a witness). Whether to add patterns for
-  "Drommin" and the Łazinsk spellings waits on the editor
-  (NEEDS_CONFIRMATION, "The newspapers").
+- **Schlesien** is matched (the region the fourteen founding families set
+  out from; the article's "Schlesierlande" is matched by no pattern); ruled.
+- **Drommin** (1 hit) and **Lazinsk** (6 hits) are matched from
+  2026-10-22, when the editor ruled the identifications (the block above);
+  ruled in `newspapers/index.yml`, Drommin to trabczyn, Lazinsk to
+  trabczynskie-stare-oledry.
+- **Michalinow** is matched by no pattern (the name stands in Breyer's
+  notebook too, unmatched); the families Kuhn, Merk, Schönfisch, Haupt and
+  the signature Willi Spatz are matched by no pattern.
 
 ## Rights
 

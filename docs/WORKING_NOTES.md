@@ -1580,6 +1580,16 @@ cloud branches").
   as a citation. Do not block the item on the record: the issue's year and
   number, the place and the publisher are enough to cite, and the
   Zeitschriftendatenbank carries the paper's full title.
+- **Sessions share the desktop tree, and one may commit the whole dirty
+  file** (2026-10-22). The Twoja Słupca session's commit of
+  `newspapers/index.yml` carried the Ostdeutscher-Beobachter work's
+  uncommitted rulings that sat in the same file — harmless here, both being
+  finished rulings for committed items, but a half-written hunk of yours can
+  travel in another session's commit. When a file you must edit is shared,
+  make the edit and stage or commit it promptly (a filtered
+  `git apply --cached` for a file that also carries another session's
+  work), and check `git log` for new commits from parallel sessions before
+  assuming what HEAD holds.
 - **A Wikisource page of Arct's dictionary has no text of its own**
   (2026-10-21). Its source (`action=raw`) is only a template naming the
   scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the

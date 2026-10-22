@@ -682,6 +682,13 @@ places:
     Trąbczyńskie: yes
     Trąbczyńskimi: yes
     Trąbczyńskim: "no: Michalinów Trąbczyński, a later village named after Trąbczyn (Chodyła 2015)"
+  trabczynskie-stare-oledry:
+    # The editor's ruling of 2026-10-22: Kolonia Łazińskie (Mielewczyk 2017,
+    # p. 48, among the new villages founded on the parcelled lands of the
+    # Trąbczyn property) is a variant of Łazińsk/Lazinsk — the colony the
+    # register records as Trąbczyńskie Stare Olędry. This settles the open
+    # question of which colony the form names.
+    "Kolonia Łazińskie": yes
   wieniec:
     Wieniec: yes
     Winiec: yes

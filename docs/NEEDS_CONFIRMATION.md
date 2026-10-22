@@ -23,7 +23,7 @@ repository; they are on the working machine.
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 35 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 42 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -44,14 +44,18 @@ repository; they are on the working machine.
     its date as printed — the documents first, and the edition's records
     are the documents here — and its summary records the difference; the
     editor's eye on the wording of the summary and the account.
-  - **Patterns for "Drommin" and the Łazinsk spellings.** The 1942 item
-    names the Amtsbezirk Drommin (the register carries Drommin as the
-    renamed name of Trąbczyn with no pattern — the changelog of 2026-10-21
-    says the name was "found in no document or work of the edition") and
-    the settlement as "Lazinsk" (the register's Łazińsk is a variant with
-    `match: false`), so neither mention is indexed. Whether to add patterns
-    waits on the editor, with the same question already open for
-    Mielewczyk's "Kolonia Łazińskie".
+  - **"Drommin", "Lazinsk" and "Kolonia Łazińskie" — settled 2026-10-22**
+    (the editor's rulings: Drommin = Trąbczyn; Lazinsk = German-era name for
+    Łazińsk, the colony which went by many name variants; Kolonia Łazińskie
+    a variant of Łazińsk/Lazinsk). Worked in: "Drommin" a matched variant of
+    trabczyn, "Lazinsk" and "Kolonia Łazińskie" of
+    trabczynskie-stare-oledry; the 1942 item's Drommin and Lazinsk hits
+    ruled in `newspapers/index.yml`, Mielewczyk's "Kolonia Łazińskie" in
+    `literature/index.yml`. The register's open question ("Łazińsk or a part
+    of it") is settled with them: Łazińsk names the colony. The bare Polish
+    "Łazińsk"/"Łaziny" stay unmatched (their literal would catch the Nowe
+    colony's "Łazińskie"; matching them would bring Breyer's Łazinsk of
+    1936 in) — the editor's word.
   - **The 2015 report's Miączyński heirs, and the Ląd and Trampczin
     spellings.** The report names "Stanisław hrabia Miączyński, czy
     Aleksander i Włodzimierz Miączyński" among the heirs of Trąbczyn who
@@ -537,13 +541,11 @@ read, translate and summarise.
   pp. 41-57, brought in whole from the editor's PDF, shown whole on the site
   (the editor's rulings of 2026-10-22: visible, the figures skipped, the
   whole article; the link is the open-access copy at maphist.waw.pl).
-  - **A pattern for "Kolonia Łazińskie"** (p. 48): the article names the
-    colony among the new villages founded on the parcelled lands of the
-    Trąbczyn property, but not which of the two (the edition's
-    `trabczynskie-stare-oledry` and `trabczynskie-nowe-oledry`, the summons'
-    "Staro-/Nowo-Łazińska"). The edition's patterns match only the prefixed
-    forms, so the mention is not indexed. To add a literature pattern (for
-    one colony, or shared), the editor's word. **For the editor**.
+  - **"Kolonia Łazińskie" (p. 48) — settled 2026-10-22** (the editor: a
+    variant of Łazińsk/Lazinsk): the form names the colony the register
+    records as Trąbczyńskie Stare Olędry. "Kolonia Łazińskie" is a matched
+    variant of `trabczynskie-stare-oledry` and the mention is ruled yes in
+    `literature/index.yml`.
   - **The index rulings of the map titles** (p. 56), Claude's, standing:
     "Kaliszskoj Gubiernii" ruled to Kalisz (the Governorate named from the
     town) and "Powiecie Konińskim" to Konin (the district the village lies
@@ -849,9 +851,12 @@ Places (`reference/places.yml`, `open_questions`):
 - Olisnice in the consistency register: the same place as Olesnica, or a
   separate settlement.
 - Guhrwitz (Górzyce): Stillfried's ownership in 1805 is unconfirmed.
-- Łazińsk / Łaziny: whether they name Trąbczyńskie Stare Olędry or a part of it.
-  The colony's later name is Łazińskie Stare Olędry (editor, 2026-10-14),
-  which makes it likely but does not settle it.
+- Łazińsk / Łaziny: settled 2026-10-22 (the editor: Łazińsk is the colony —
+  "the colony which went by many name variants" — not a part of it; Lazinsk
+  is its German-era name, Kolonia Łazińskie of Mielewczyk (2017) another
+  variant). The bare forms stay unmatched for now: their literal would also
+  catch the Nowe colony's "Łazińskie", and matching them would bring
+  Breyer's "Łazinsk" of 1936 (APP 53/968/0/-/669) in — the editor's word.
 - "Haul. Lazy." in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150):
   probably the Łazińskie Olędry and not the village of Łazy (editor,
   2026-10-14). Which of the two colonies, old or new, the entry does not

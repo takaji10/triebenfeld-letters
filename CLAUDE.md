@@ -185,8 +185,10 @@ so check them.
   reading against the page), the editor ruled the English Claude's for the
   caveat and the item shown whole with the rights not flagged; its Lazinsk
   is Breyer's Łazinsk (the same teacher Mielke, APP 53/968/0/-/669), its
-  founding date of 1718 stands against the edition's records, and
-  "Drommin"/"Lazinsk" are matched by no index pattern (NEEDS_CONFIRMATION)
+  founding date of 1718 stands against the edition's records, and the
+  editor's identifications of 2026-10-22 are worked in (Drommin = Trąbczyn;
+  Lazinsk = the German-era name of Łazińsk, the colony the register records
+  as Trąbczyńskie Stare Olędry; the forms matched and ruled)
   — and **TwojaSłupca's report of the jubilee of 6 July 2015**
   (`twojaslupca20150706`): the first item of the press from the web, the
   portal's HTML as printed, nothing tidied; shown whole at the editor's
@@ -200,11 +202,11 @@ so check them.
   the clipping's source (the blog Zagórów w historii, its post of 2 October
   2024), the rights approved, the clipping and the Kuryer's page carried on
   the item pages, and **the index of people and places run over the items**
-  (`pipeline/newspapers/newspapers_index.py`; 35 hits all ruled in
+  (`pipeline/newspapers/newspapers_index.py`; 42 hits all ruled in
   `newspapers/index.yml`; the "In the newspapers" boxes on /people/ and
   /places/; Głowiecki stands on /people/ with no documents). Open: the
   Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
-  Miączyński heirs and the patterns question (NEEDS_CONFIRMATION). Not
+  Miączyński heirs (NEEDS_CONFIRMATION). Not
   published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
@@ -225,10 +227,10 @@ so check them.
   p. 48 names **Kolonia Łazińskie and Kolonia Huta** on the parcelled lands
   of Trąbczyn — the edition's Staro- and Nowo-Łazińska colonies, which the
   article does not say. Copyright the Institute's (2017), no open licence;
-  the Licences page not changed. Index: 17 mentions, all ruled; the article's
-  "Kolonia Łazińskie" is not matched by the edition's patterns (only the
-  Staro-/Nowo-Łazińska forms are) — a pattern would have to say which colony
-  (NEEDS_CONFIRMATION). No hand-made links yet. `docs/LITERATURE_PLAN.md`,
+  the Licences page not changed. Index: 17 mentions, all ruled; the
+  article's "Kolonia Łazińskie" is ruled (the editor, 2026-10-22: a variant
+  of Łazińsk/Lazinsk — the Stare colony) and matched as a variant of
+  `trabczynskie-stare-oledry`. No hand-made links yet. `docs/LITERATURE_PLAN.md`,
   section 21; the work's `notes.md` first. The literature has 25 works, 23
   on the site (two summary-only).
 - **Janocki (1779)** (`janocki1779`, added and **published 2026-10-21**): the
