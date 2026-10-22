@@ -134,12 +134,13 @@ on /people/ all the same, with the newspapers' mentions beside them and no
 documents shown (build_site_data, the people list; the counts line and the
 document list are left out when there are no documents).
 
-## 5. The first two items (2026-10-22)
+## 5. The items so far (2026-10-22)
 
 | Slug | Item | Language | On the site |
 |---|---|---|---|
 | `dziennikpoznanski19370807` | Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937), the "Z Zagórowa" column: three municipal notes | Polish | yes, with the clipping |
 | `kuryerpolski1754075` | Kuryer Polski, nr 75 (25 December 1754): the report from Kalisz on the funeral of Paweł Prusimski at Trąbczyn, 5 December | Polish | yes, with the page |
+| `slowo18920104` | Słowo, R. XI, nr 2 (4 stycznia 1892), p. 3: the "Sprzedaże dóbr" notice — Tomisławice sold, and Trąbczyn sold by Count Miączyński to Countess Władysławowa Wielopolska for 225,000 rs. | Polish | yes, with the page crop |
 
 **The Kuryer Polski moved.** It came into the edition on 2026-10-16 as a
 holding (BK PAN Cz2271, the first from print and from a library) and the
@@ -158,6 +159,24 @@ historii** (its post of 2 October 2024, "Kolejne wycinki z prasy sprzed
 lat, cz. 3"), by the editor's word, and the rights are approved by them.
 Its thirteen doubtful readings were ruled on a spot sheet
 (`newspapers/dziennikpoznanski19370807/notes.md` has them all).
+
+**The Słowo notice** (2026-10-22) is the first item read from a
+digitised issue rather than a clipping: the editor named the article
+("Sprzedaże dóbr", Słowo R. XI, nr 2 of 4 January 1892, p. 3, the Crispa
+digitisation), gave their own crop of the column (`3-DPI300.jpg`), and
+ruled "only this snippet of the article is needed" — the notice's five
+printed lines, two sales, one of them the edition's own estate: Trąbczyn
+sold by Count Miączyński to Countess Władysławowa Wielopolska for 225,000
+rs., the press witness of the transfer the wlodzimierz era's ownership
+line records ("by 1892 Countess Maria Wielopolska"). Read by Tesseract
+(two passes as the page is, one upscaled) with word zooms; five readings
+ruled on a spot sheet — among them the editor's "150 włók" against the
+draft's 159, and "peckim" against the draft's "peckiu"
+(`newspapers/slowo18920104/notes.md`). The item belongs to the wlodzimierz
+era; its one index hit is Trąbczyn, ruled. Open: whether the press's
+"Władysławowa Wielopolska" (the wife of a Władysław) and the era's
+"Countess Maria Wielopolska" name one woman (NEEDS_CONFIRMATION, "The
+newspapers").
 
 ## 6. Order of work, and what is open
 

@@ -51,6 +51,12 @@ place:
     - key: item
       en: The item
       de: Das Stück
+  - slug: slowo18920104
+    cite: Słowo (1892)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   zagorowo:
   - slug: dziennikpoznanski19370807
     cite: Dziennik Poznański (1937)

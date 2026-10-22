@@ -4,8 +4,9 @@
 #
 # Every pair below was read before it was ruled (2026-10-22, from
 # review/newspapers/mentions.md, made by newspapers_index.py --sheet). The
-# two items: kuryerpolski1754075 (the funeral report of 1754) and
-# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937).
+# three items: kuryerpolski1754075 (the funeral report of 1754),
+# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937) and
+# slowo18920104 (the sale notice of 4 January 1892).
 
 people:
   glowiecki:
@@ -42,6 +43,13 @@ places:
     "Oleśnicę": true
   trabczyn:
     "Trąbczynie": true    # the funeral at Trąbczyn
+    # Słowo (1892): the estate's sale announced in the press — "Majątek
+    # Trąbczyn, w pow. słupeckim, 150 włók, nabyła od hr. Miączyńskiego hr.
+    # Władysławowa Wielopolska za 225,000 rs." The transfer the wlodzimierz
+    # era's ownership line records ("by 1892 Countess Maria Wielopolska");
+    # the count selling is the Miączyński of the years between 1879 and
+    # that transfer, the nephew Władysław.
+    "Trąbczyn": true
   zagorowo:
     # The town of Zagórów: the 1937 notes are the town's ("m. Zagórowa", the
     # Zarząd miasta), and the item is the first witness of the town the
