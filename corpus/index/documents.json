@@ -1335,47 +1335,6 @@
   "permalink": "/documents/app53170koningr136/1/"
  },
  {
-  "uid": "kuryerpolski1754075-1",
-  "unit": "kuryerpolski1754075",
-  "letter_id": "1",
-  "doc_type": "newspaper",
-  "language": "pl",
-  "era": "prusimski-boundary",
-  "themes": [],
-  "repository": "bkpan-kornik",
-  "date_iso": "1754-12-05",
-  "date_precision": "day",
-  "date_source": "dateline",
-  "place": "Kalisz",
-  "sender": "",
-  "recipient": "",
-  "n_pages": 1,
-  "n_lines": 27,
-  "scans": [
-   {
-    "page": 1,
-    "page_id": "0002_a",
-    "image": "BKPAN_Cz2271_1754_075_0002_a-L1_01.jpg"
-   }
-  ],
-  "uncertainty_count": 1,
-  "has_damage": false,
-  "rough_transcription": false,
-  "mentions": 4,
-  "places_named": 4,
-  "estates": [
-   "trabczyn"
-  ],
-  "translation_status": "draft",
-  "has_summary": true,
-  "has_summary_de": true,
-  "legibility": "",
-  "title": "newspaper 1",
-  "path": "documents/kuryerpolski1754075-1.json",
-  "text_path": "text/kuryerpolski1754075-1.txt",
-  "permalink": "/documents/kuryerpolski1754075/1/"
- },
- {
   "uid": "app5314550221-6",
   "unit": "app5314550221",
   "letter_id": "6",
