@@ -1655,6 +1655,43 @@ cloud branches").
   2026-10-21: an e-mail address in its header). Keep such a page out of the
   repository, make the text from it with a script that takes only the
   part wanted, and say in the script why the page is not kept.
+- **A work brought in from the editor's Markdown pair** (Kneifel 1964,
+  2026-10-22): the first literature work taken from the editor's own
+  Markdown files - a German transcription with the printed page numbers on
+  their own lines and GFM footnotes defined at the foot of their own page,
+  and an English that pairs it page for page. `make_original.py` in the
+  work's folder reads both files from the editor's folder (here on J:) and
+  writes the excerpt; the source files are not committed. What worked:
+  - **Scan the whole book for the edition's ground first** (every page
+    against the edition's places and people), decide the excerpt as pages
+    and paragraph ranges, and verify the boundary phrases in both languages
+    before writing them into the script (the print's hyphen-broken names,
+    "Zagö-röw", are boundaries of their own).
+  - **A slice that runs to the page's end already carries the page's
+    footnote definitions.** The script's first run appended the kept notes
+    a second time; the fix is to append only a def the kept text needs and
+    the kept slice does not already carry, and to check every kept marker
+    has a def. The footnotes are named per page (`[^p41-4]`), so a marker
+    never reaches across pages.
+  - Excerpt pages open with their own `[p. N]` mark even where the page is
+    kept from mid-page (the Karwowski pattern), so every kept page is its
+    own passage and the pairing holds page for page.
+  - The scan found the relevant material scattered through a general
+    church history: search for false friends too ("Trombin bei Rypin",
+    p. 101, is not Trąbczyn).
+  - **A German print spells a Polish town with the umlaut on one vowel
+    only** ("Zagörow", not "Zagöröw"): a literature pattern for such a name
+    takes the umlaut where the print has it and the plain vowel where it
+    does not, `Zagö-?r[öo]w`, and an optional hyphen takes the print's
+    line-break form. And a German print drops the Polish ń
+    ("Kolno-Prusinski"): extend the pattern to both, and rule the new
+    spelling.
+- **Two keys one letter apart are not duplicate keys** (2026-10-22,
+  `wielun` in `literature/index.yml`): `Wieluń` (yes) and `Wielun` (no) are
+  different spellings, each with its own ruling - the ń key takes the
+  Polish-language works, the plain-n key the German print. Read the keys
+  byte for byte before crying duplicate; the real duplicate-key trap (the
+  second `Miączyński` above) was two keys spelled alike.
 - **A JSTOR PDF** (2026-10-21, `pipeline/literature/warthegau_pdf.py`):
   every page's foot names the internet address it was downloaded from, so
   the PDF stays out of the repository and the script drops the foot. Its
