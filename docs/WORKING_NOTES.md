@@ -2170,3 +2170,29 @@ cloud branches").
   the entry out of `index.json` with a one-line script is the smaller
   touch - the passages and pages are then regenerated from the filtered
   index.
+- **An English that comes with the editor's file is still read whole**
+  (2026-10-22, the Lidmanowski batch). "The transcription is secure" does
+  not extend to a translation carried beside it: the three texts' English
+  had eleven artifacts against the Polish, among them a sentence printed
+  twice, "several dozen rubles" for kilkanaście (some fifteen) and
+  "woolen sailor suit" for ubranie marynarkowe (a jacket suit). Read it
+  paragraph by paragraph against the original, correct in the item's
+  english.md, and record every correction in the notes with the Polish
+  that decided it.
+- **Fixing generated YAML by string pairs: fetch the wrap first**
+  (2026-10-22). The item.yml files are written with a 76-character flow,
+  so a phrase meant for a replacement-pair script is often hyphen-broken
+  or line-wrapped inside itself ("des Guts-/  diensten", "der Gutsdiest —"
+  with the der on the line before); eight of one pass's 44 pairs missed
+  on that alone. Read the actual lines before writing the pairs, or use
+  the edit tool on prose files and keep scripts for uniform fields.
+- **Learned-journal items in the newspapers**: the citation's "issue" is
+  the zeszyt (fascicle), and it goes in the slug's issue place
+  (`zdrowie1912z10`, `jutrzenka1913z8`, `zdrowie1914z6`), the way a web
+  item's date stands there (`twojaslupca20150706`); the journal's own
+  masthead and the library's metadata may style the paper differently
+  (Jutrzenka: "popularno-naukowy" in print, "ogólno-kształcący"
+  in the metadata) - cite the library's form, record the print's own in
+  the notes. An article's authorship can rest on the issue's table of
+  contents alone when the print carries no signature; say so in the
+  account rather than filling `author:` on the file's word alone.

@@ -1,0 +1,207 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: zdrowie1914z6
+
+# The item as the issue's table of contents cites it: Dr. Lidmanowski "z
+# Zagórowa" (from Zagórów), "Jak mieszka lud nasz?", pp. 432-440 — the issue
+# is zeszyt 6 of the journal's thirtieth year (Rok XXX), 1914. The digitised
+# copy is Polona's (the National Library's portal); the editor gave the
+# address with the file.
+ref: >-
+  Zdrowie, R. XXX, z. 6 (1914), s. 432-440
+newspaper: Zdrowie
+published: >-
+  Zdrowie: organ Warsz. Towarzystwa Hygienicznego, poświęcony hygienie
+  publicznej i prywatnej, R. XXX, z. 6, Warsaw, 1914, pp. 432-440 ("Jak
+  mieszka lud nasz?")
+title: >-
+  "Jak mieszka lud nasz?" ("How does our people live?"): the survey of the
+  dwellings of the Polish countryside that Dr. Konstanty Lidmanowski, the
+  physician of Zagórów, published in the Warsaw Hygiene Society's journal —
+  1,200 farmhouses, 80 manor servants' quarters and 140 seasonal labourers'
+  lodgings examined over many years, 91 of every 100 farmers' dwellings one
+  single room serving as kitchen, living room and bedroom, damp walls and
+  the manure pile by the well, and the verdict that ignorance, dear brick
+  and the lack of cheap credit keep the peasant living as he lives
+title_en: >-
+  "How does our people live?": Dr. Konstanty Lidmanowski's survey of rural
+  housing in the hygiene journal Zdrowie of 1914
+cite: Zdrowie (1914)
+author: Dr. Konstanty Lidmanowski
+year: 1914
+date_span: "1914"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The era of the
+# holdings from 1900 on, whose working label is "The twentieth century";
+# the item is of 1914, inside that era's span.
+era: twentieth-century
+
+# Shown whole on the site. The author died on 6 January 1943, so Polish
+# copyright (life + 70 years) lapsed at the end of 2013: the text is in the
+# public domain. The editor's word of 2026-10-22 (all three Lidmanowski
+# texts shown whole).
+visible: true
+
+# Where the item comes from: Polona, the National Library's digitisation
+# portal (the issue the editor gave with the file).
+source: https://polona.pl/item-view/93a25386-9781-4518-835b-e222ca5678c3?page=0
+
+# No image: the texts came with the editor's file, and no page image is
+# carried (the editor's word of 2026-10-22, the scans not needed — "the
+# transcription is secure").
+
+# The English came with the editor's file (made by Claude) and was read
+# against the Polish original and corrected in the session of 2026-10-22;
+# the corrections are recorded in the item's notes.md.
+english_by: >-
+  Claude, 2026-10-22 (with the editor's file, corrected against the Polish)
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a specialist journal's article by
+# the district's own doctor, reporting observations he made himself over
+# many years in the houses of his own patients and neighbours. Its facts
+# are the kind no other source of the edition records — how the people the
+# edition's documents move among actually housed themselves in the last
+# years before the war.
+account_en: >-
+  An article, "Jak mieszka lud nasz?" ("How does our people live?"), signed
+  in the issue's table of contents "Lidmanowski K. Dr. z Zagórowa" — Dr.
+  Konstanty Lidmanowski, the physician who settled in Zagórów in 1893 and
+  practised there to his death in 1943, the founder of the town's volunteer
+  fire brigade, loan society and Polish school — in Zdrowie, the organ of
+  the Warsaw Hygiene Society (Warszawskie Towarzystwo Higieniczne), the
+  specialist monthly of public and private hygiene, its thirtieth year,
+  zeszyt 6 of 1914, pp. 432-440. It reports the survey of rural dwellings
+  the doctor carried out himself in the course of his rounds, "visiting
+  almost daily the dwellings of our people": 1,200 dwellings of independent
+  farmers, 80 of manor servants and 140 of seasonal labourers, measured in
+  steps of three-fifths of a metre. The article does not name the district
+  surveyed; the doctor's study of nutrition in the same journal two years
+  earlier (also in the Newspapers, Zdrowie 1912) took the Słupca powiat —
+  the edition's own — and says its figures extend along the whole Prussian
+  border, and the two articles are one work of observation, made on the
+  edition's ground. What it records is what the edition's documents do not:
+  the one-room cottage housing a family and its beasts' fodder, the damp
+  walls, the well by the manure pile, the farmhand's room with the cabbage
+  barrel at the bed's foot.
+account_de: >-
+  Ein Aufsatz, „Jak mieszka lud nasz?" („Wie lebt unser Volk?"), im Inhaltsverzeichnis
+  des Heftes gezeichnet „Lidmanowski K. Dr. z Zagórowa" —
+  Dr. Konstanty Lidmanowski, der Arzt, der sich 1893 in Zagórów niederließ
+  und dort bis zu seinem Tode 1943 praktizierte, der Gründer der
+  Freiwilligen Feuerwehr, der Darlehnskasse und der polnischen Schule der
+  Stadt — in Zdrowie, dem Organ der Warschauer Hygienischen Gesellschaft
+  (Warszawskie Towarzystwo Higieniczne), der Fachmonatsschrift für öffentliche
+  und private Hygiene, in ihrem dreißigsten Jahre, Heft 6 von 1914, S. 432-440.
+  Er berichtet über die Untersuchung der Landwohnungen, die der Arzt selbst
+  auf seinen Gängen ausführte, „fast täglich in den Wohnungen unseres Volkes":
+  1.200 Wohnungen selbständiger Bauern, 80 von Gutsdiensten und 140 von
+  Saisonarbeitern, in Schritten von drei Fünfteln Meter gemessen. Der Aufsatz
+  nennt den untersuchten Kreis nicht; die Ernährungsstudie des Arztes in
+  derselben Zeitschrift zwei Jahre früher (ebenfalls in den Zeitungen,
+  Zdrowie 1912) nahm den Powiat Słupca — den Boden dieser Edition — und
+  sagt, ihre Zahlen gelten für den ganzen preußischen Grenzstreifen, und die
+  beiden Aufsätze sind eine Beobachtungsarbeit, gemacht auf dem Grund dieser
+  Edition. Was er festhält, ist, was die Dokumente der Edition nicht tun:
+  die Einraumhütte, die eine Familie und das Futter des Viehs beherbergt,
+  die feuchten Wände, der Brunnen beim Misthaufen, die Kammer des Guts-
+  knechts mit dem Kohlfass am Fußende des Bettes.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  "Jak mieszka lud nasz?", Zdrowie R. XXX, z. 6 (1914), pp. 432-440, by Dr.
+  Konstanty Lidmanowski of Zagórów. The Polish village stands huddled to
+  the earth, its cottages clay huts that mock hygiene; the peasant is
+  ignorant, and therefore poor, and has never heard of the rules of
+  hygiene. In many years of visiting the dwellings of his people almost
+  daily, the doctor examined 1,200 dwellings of independent farmers, 80 of
+  manor stable hands and labourers, and 140 of men who work for daily
+  wages at home or go out to summer work abroad, measuring the rooms in
+  steps of 3/5 of a metre. The farmyard: house at the front, barn
+  opposite, cowsheds, stables and pigsties at the sides, a garden with
+  fruit trees before the house, the manure pile near the middle, the well
+  often beside it, and the latrine "something almost completely unknown".
+  Houses are built of clay (the old ones of wood, some of iron ore, the
+  newer of brick with lime only to a cubit above the foundation), roofed
+  with straw. Of the 1,200 farmers' dwellings, 13 had a kitchen and two
+  rooms, 86 a kitchen and one room, and 1,101 — 91 per cent — one single
+  room serving as kitchen, living room and bedroom. The plan of the
+  wealthy farmer's house is described room by room, with the kitchen the
+  centre of all life, its stove fed whole days, its tin pipes heating the
+  air, 24 cubic metres of kitchen crowding 8 people of the 109 inhabitants
+  counted; the wealthier's 86 dwellings owe their cleanliness to the
+  housewife, their dampness to the clay; the newest dwellings are the
+  cheap cottages of returned foreign workers, floorless or beaten out of
+  clay; the poorest farmers' huts, 480 of them without any floor, are
+  8 by 6 metres at most, their board floors letting the cellar's vapours
+  through. Worst of all are the 80 manor servants' quarters: not one good,
+  all damp, some with the walls wet all over, straw mats pinned against
+  the wall for a bed's head, one small window nailed shut, the cabbage
+  barrel beside the bed and the potatoes under it, in one case a cowshed
+  entered directly from the room, the walls over the beds hung with
+  twenty fair-bought holy pictures and the vermin nesting behind them;
+  the whole furnishing of a farmhand is one bed apiece, a cradle, a cupboard
+  for the milk pots, a table, at most three chairs, a linen chest and the
+  cabbage barrel — so the stronger leave the service and go abroad for the
+  summer, and only the weak and the child-burdened stay. The 140 seasonal
+  workers' lodgings are cleaner and drier (32 dry), with wooden floors and
+  opening windows, because the man who rents makes demands the landlord
+  must meet; yet none is good, and the summer's earnings must be reckoned
+  through the winter to the next journey abroad. The conclusion: the
+  dwellings are bad from the hygienic standpoint, the uncovered wells
+  make disease, the cause is ignorance — but also dear brick, set dear by
+  the manufacturers and the middlemen, and the lack of cheap and long-
+  term credit; a ray of light under the thatch will change it, and
+  education and the development of sound cooperatives will do much.
+summary_de: >-
+  „Jak mieszka lud nasz?", Zdrowie R. XXX, Heft 6 (1914), S. 432-440, von
+  Dr. Konstanty Lidmanowski aus Zagórów. Das polnische Dorf steht an die
+  Erde geduckt, seine Häuser Lehmhütten, die die Hygiene verspotten; der
+  Bauer ist unwissend, also arm, und hat von den Regeln der Hygiene nie
+  gehört. In vielen Jahren, in denen der Arzt fast täglich in den
+  Wohnungen seines Volkes war, untersuchte er 1.200 Wohnungen selbständiger
+  Bauern, 80 von Gutsknechten und Tagelöhnern und 140 von Männern, die zu
+  Tagelöhnen im Lande arbeiten oder zur Sommerarbeit ins Ausland gehen,
+  die Stuben in Schritten von 3/5 Meter messend. Der Hof: das Wohnhaus
+  vorn, gegenüber die Scheune, an den Seiten Kuh-, Pferd- und Schweinställe,
+  vor dem Haus ein Gärtchen mit Obstbäumen, der Misthaufen nahe der Mitte,
+  der Brunnen oft neben ihm, und der Abort „eine fast völlig unbekannte
+  Sache". Gebaut wird aus Lehm (die alten Häuser aus Holz, manche aus
+  Eisenerz, die neueren aus Ziegel, mit Kalk nur bis einen Ellbogen über
+  dem Fundament), gedeckt mit Stroh. Von den 1.200 Bauernwohnungen hatten
+  13 eine Küche und zwei Stuben, 86 eine Küche und eine Stube, 1.101 — 91 Prozent —
+  einen einzigen Raum, der Küche, Wohnstube und Schlafzimmer zugleich ist.
+  Der Plan des Hauses des vermögenden Bauern wird Zimmer für Zimmer
+  beschrieben, mit der Küche als Mittelpunkt des ganzen Lebens, ihren Ofen,
+  der ganze Tage gespeist wird, ihren Blechröhren, die die Luft heizen,
+  24 Kubikmeter Küche, in denen sich durchschnittlich 8 der 109 Bewohner
+  drängen; die Sauberkeit der 86 Wohnungen der mittleren Kategorie ist der
+  Hausfrau zu danken, ihre Feuchtigkeit dem Lehm; die neuesten Wohnungen
+  sind die billigen Hütten heimgekehrter ausländischer Arbeiter, ohne
+  Fußboden oder mit einem aus Lehm geschlagenen; die Hütten der ärmsten Bauern, 480
+  ohne jeden Fußboden, sind höchstens 8 mal 6 Meter, und ihre Bretterböden
+  lassen die Dämpfe des Kellers durch. Am schlechtesten sind die 80
+  Quartiere der Gutsleute: keines gut, alle feucht, manche mit überall
+  nassen Wänden, Strohmatten, an die feuchte Wand genagelt,, ein kleines,
+  zugenageltes Fenster, das Kohlfass am Fußende des Bettes und die
+  Kartoffeln unter ihm, in einem Fall ein Kuhstall, unmittelbar aus der
+  Stube betreten, über den Betten zwanzig auf Märkten gekaufte Heiligenbilder
+  und das Ungeziefer dahinter; die ganze Ausstattung eines Gutsknechts ist ein
+  Bett je Person, die Wiege, der Schrank für die Milchtöpfe, ein Tisch,
+  höchstens drei Stühle, die Wäschetruhe und das Kohlfass — so gehen die
+  Stärkeren vom Dienst fort und ins Ausland, und nur die Schwachen und
+  die mit kleinen Kindern Beladenen bleiben. Die 140 Quartiere der Saisonarbeiter sind
+  sauberer und trockener (32 trocken), mit Holzböden und offenen Fenstern,
+  weil der Mieter Forderungen stellt, die der Vermieter erfüllen muss; doch
+  keines ist gut, und der Sommerlohn muss durch den Winter gerechnet
+  werden bis zur nächsten Reise ins Ausland. Das Fazit: die Wohnungen sind
+  hygienisch schlecht, die ungedeckten Brunnen machen Krankheit, die
+  Ursache ist die Unwissenheit — aber auch der teure Ziegel, den die
+  Hersteller und die Zwischenhändler teuer setzen, und der Mangel an
+  billigem und langem Kredit; ein Lichtstrahl unter das Stroh wird es
+  ändern, und Aufklärung und der Ausbau tüchtiger Genossenschaften werden
+  viel tun.

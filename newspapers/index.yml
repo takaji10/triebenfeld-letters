@@ -44,6 +44,26 @@ people:
   prusimska-katarzyna:
     "Pruſińſkiey": true   # "z Rozdrażewſkich Pruſińſkiey": the widow, born
                           # Rozdrażewska, who ordered the exequies
+  mielke:
+    # The editor's ruling of 2026-10-22: the "volksdeutscher Lehrer und Bauer
+    # Mielke" whom the 1942 feature's reporter met at Łazińsk and the "Lehrer
+    # Mielke" who had the new school built there in 1933 are the "Mielke seit
+    # 1925" of Breyer's notebook (APP 53/968/0/-/669) and the cantor Gustav
+    # Adolf Mielke of Słowiński 2023, one man. The two hits follow from the
+    # entry (reference/people.yml, held by its only_in to this item and the
+    # notebook).
+    "Mielke": true        # item line 7 (the meeting on the walk) and line 16
+                          # (the school built in 1933)
+  lidmanowski:
+    # The doctor of Zagórów (reference/people.yml): the Jutrzenka digest of
+    # April 1913 names him in its second paragraph - "In the March issue of
+    # Zdrowie, Dr. Lidmanowski draws attention to various deficiencies of
+    # today's folk attire" - the one text of the Lidmanowski three that
+    # carries his name in its body; the two Zdrowie articles are his by
+    # their issue's table of contents (the items' accounts cite it) and
+    # carry no signature. The item is where the edition's text names him,
+    # and nowhere else in the corpus does.
+    "Lidmanowski": true
 
 places:
   kalisz:

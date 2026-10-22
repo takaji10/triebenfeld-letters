@@ -12,18 +12,24 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Four items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Seven items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
   word (2026-10-22), with the old /documents/ addresses redirected, the
   Ostdeutscher Beobachter's feature on Łazińsk, Jg. 4, Nr. 197 (19 July
-  1942), added 2026-10-22, and TwojaSłupca's report of the 775th-anniversary
+  1942), added 2026-10-22, TwojaSłupca's report of the 775th-anniversary
   jubilee of 6 July 2015 (`twojaslupca20150706`, added 2026-10-22: shown
-  whole at the editor's word, no picture). The rulings of that day are
+  whole at the editor's word, no picture), the Słowo notice of 4 January
+  1892 (`slowo18920104`, added 2026-10-22), and the three Lidmanowski
+  texts of 2026-10-22 — Zdrowie R. XXVIII, z. 10 (1912) and R. XXX, z. 6
+  (1914), and the Jutrzenka digest of 24 April 1913 (`zdrowie1912z10`,
+  `zdrowie1914z6`, `jutrzenka1913z8`; shown whole, no pictures, the
+  English came with the editor's file and was corrected against the
+  Polish in session). The rulings of that day are
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 42 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 46 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -79,6 +85,32 @@ repository; they are on the working machine.
     ownership line has "Countess Maria Wielopolska". Whether the two name
     one woman (Maria the wife the married form points to) is the editor's
     to confirm or correct (`newspapers/slowo18920104/notes.md`).
+  - **The Lidmanowski items** (added 2026-10-22; the three texts of
+    Zdrowie 1912 and 1914 and the Jutrzenka digest of April 1913):
+    - **The Jutrzenka signature.** The digest names Dr. Lidmanowski in the
+      third person ("In the March issue of Zdrowie, Dr. Lidmanowski draws
+      attention...") and presents itself as the carrier of his Zdrowie
+      article of March 1913; the editor's file gives no signature. The
+      digitisation (mbc.cyfrowemazowsze.pl) was not reachable from the
+      working session, so the page could not be looked at: whether it is
+      signed by him, or anonymous, is the editor's to rule
+      (`newspapers/jutrzenka1913z8/notes.md`). Until ruled, the item's
+      `author:` stands empty.
+    - **Dr. Lidmanowski's dates** (30 March 1865, Słupca - 6 January 1943,
+      Zagórów) and the biography in his entry and the items' accounts rest
+      on the Polish Wikipedia's article and the literature it names (S.
+      Kumosa 1992), not on a register the edition holds. The editor's eye.
+    - **Słupca as a place.** The 1912 article is a study of the Słupca
+      powiat — the edition's own — but Słupca is not in the places
+      register, so its name is matched by no pattern and shows on no
+      place page. Whether the town should be a place of the edition (the
+      place pages hang on estates; Słupca is the powiat town and the
+      doctor's birthplace) is the editor's.
+    - **The 1914 date of the housing survey** stands against the file's
+      name ("1912-1913"): Polona's metadata, the issue's table of
+      contents and the literature all give 1914, z. 6, pp. 432-440.
+      Dated 1914 at the editor's word — said here so the difference from
+      the file's name is known.
 
 - **The places** (`places/`, begun 2026-10-22; `docs/PLACES_PLAN.md`). The
   new section: a page per place that has sources of its own, hung on the

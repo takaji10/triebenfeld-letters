@@ -1772,6 +1772,13 @@
   bio_de: "Rat der Südpreußischen Regierung, des Provinzialgerichts in Kalisch, der im Februar 1805 Triebenfelds Identität bezeugte, als dieser seine Schuldverschreibung an die Invalidenkasse anerkannte. Ob er einer der Brüder Lichnowski war, die Gläubiger der Güter waren, ist nicht bekannt."
   span: "1805"
   letters: [{id: "2", uid: "iharep162nr295-2", url: "/documents/iharep162nr295/2/", n: 2}]
+- slug: "lidmanowski"
+  name: "Dr. Konstanty Lidmanowski"
+  heading: "Lidmanowski, Konstanty"
+  heading_de: "Lidmanowski, Konstanty"
+  count: 0
+  docs: 0
+  letters: []
 - slug: "lipski"
   name: "Lipski"
   heading: "Lipski"
@@ -2069,6 +2076,16 @@
   bio_de: "Christiane Dorothea Michaelis, geborene Eichborn, aus Wrocław, Witwe eines Oberamtsrats. Sie hatte eine Hypothek von 5.000 Rthl auf der Herrschaft Pszczew."
   span: "1803–1806"
   letters: [{id: "26", uid: "oe1bu14525-26", url: "/documents/oe1bu14525/26/", n: 1}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", n: 1}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", n: 2}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", n: 1}, {id: "180", uid: "oe1bu9454-180", url: "/documents/oe1bu9454/180/", n: 1}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/", n: 1}]
+- slug: "mielke"
+  name: "Gustav Adolf Mielke"
+  heading: "Mielke, Gustav Adolf"
+  heading_de: "Mielke, Gustav Adolf"
+  count: 3
+  docs: 1
+  life: "documented 1936"
+  life_de: "belegt 1936"
+  span: "1936"
+  letters: [{id: "1", uid: "app539680669-1", url: "/documents/app539680669/1/", n: 3}]
 - slug: "mikolaj-pleban-sroda"
   name: "Mikołaj, parish priest of Środa"
   heading: "Mikołaj (pleban of Środa)"

@@ -100,6 +100,17 @@
  },
  {
   "kind": "person",
+  "entity": "lidmanowski",
+  "display": "Dr. Konstanty Lidmanowski",
+  "surface": "Lidmanowski",
+  "work": "jutrzenka1913z8",
+  "cite": "Jutrzenka (1913)",
+  "passage": "item",
+  "line": 5,
+  "context": "W marcowym numerze „Zdrowia“ dr. Lidmanowski zwraca uwagę na różne braki dzisiejszego przyodziewku ludowego. Jest on mniej więcej jednostajny w każdej grupie, a te wytwarza stopień zamożności. Inaczej ubiera się włościanin 20-sto i więcej morgowy, inaczej małorolny, inaczej wyrobnik, inaczej fornal dworski. Wszyscy oni jednak grzeszą przeciw higienie - jedni z musu, drudzy z niewiadomości i złego zwyczaju. Ale nawet biedniejsi, szczególnie mężczyźni, noszą koszule płócienne, najczęściej swego wyrobu, pod tym względem nie ma między nimi różnicy; poza tym - tandetę jarmarczną z lichego materiału bawełnianego, źle skrojoną, źle uszytą i mało ciepła dającą. Spodnie przytrzymują w pasie paskiem skórzanym, tak mocno"
+ },
+ {
+  "kind": "person",
   "entity": "prusimski-pawel",
   "display": "Paweł Prusimski",
   "surface": "Pruſińſkie",
@@ -196,6 +207,28 @@
   "passage": "item",
   "line": 19,
   "context": "Pyzdrach, Koninie, Kaźmierzu, zá"
+ },
+ {
+  "kind": "person",
+  "entity": "mielke",
+  "display": "Gustav Adolf Mielke",
+  "surface": "Mielke",
+  "work": "ostdeutscherbeobachter19420197",
+  "cite": "Ostdeutscher Beobachter (1942)",
+  "passage": "item",
+  "line": 7,
+  "context": "Wenn man die Kreisstadt Konin an der Warthe entlang in süd-westlicher Richtung verläßt so wird bald der Amtsbezirk Drommin erreicht zu dem neben Michalinow die rein deutsche Siedlung Lazinsk gehört. Wir hatten Glück und trafen gerade den volksdeutschen Lehrer und Bauer Mielke an. mit dem wir uns lange unterhielten und der uns so viel Interessantes zu erzählen wußte, das wirklich festgehalten zu werden verdient."
+ },
+ {
+  "kind": "person",
+  "entity": "mielke",
+  "display": "Gustav Adolf Mielke",
+  "surface": "Mielke",
+  "work": "ostdeutscherbeobachter19420197",
+  "cite": "Ostdeutscher Beobachter (1942)",
+  "passage": "item",
+  "line": 16,
+  "context": "Auch die Kantoratsschule, in der gleichzeitig der Gottesdienst abgehalten wurde, sieht auf ein stattliches Alter zurück. Sie steht in ihrer anspruchslosen und schlichten Bauweise da, als ein grauer Zeuge aus einen längst vergangenen Zeit und spricht zu uns vom Wirken deutscher Menschen. Bis zum Jahre 1933 sind in der alten Kantoratsschule deutsche Kinder unterrichtet worden! In diesem Jahre nämlich faßte Lehrer Mielke den hochherzigen und für das deutsche Volkstum bedeutungsvollen Entschluß, aus eigenen Mitteln eine neue deutsche Schule, unweit der alten Kantoratsschule bauen zu lassen. Das war wohlgemerkt im Jahre 1933, in dem Adolf Hitler die Geschicke des Reiches in seine Hände nahm. Wie ein Fanal mag der geschichtliche Vorgang auf diesen volksdeutschen Kämpfer eingewirkt haben, als er sich zu dieser mutigen Tat entschloß. Nur vier Jahre noch ließen ihn die Polen gewähren, dann glaubten sie, auch diesen Deutschen kaltstellen zu müssen. Sie versetzten ihn einfach nach Galizien und eigneten sich rechtswidrig die Schule an, die sie unverzüglich zu einer polnischen Schule erklärten. 1939 entließen sie den verdienten Schulmann ganz, weil er ihnen selbst in der galizischen Verbannung zu „gefährlich\" erschien."
  },
  {
   "kind": "place",

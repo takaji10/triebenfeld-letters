@@ -1,0 +1,213 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: zdrowie1912z10
+
+# The item as the digitisation's metadata cites it: Zdrowie, the organ of
+# the Warsaw Hygiene Society, its twenty-eighth year (Rok 28), zeszyt 10 of
+# 1912, pp. 720-725. The digitised copy is Crispa's, the University of
+# Warsaw's digital library; the editor gave the address with the file.
+ref: >-
+  Zdrowie, R. XXVIII, z. 10 (1912), s. 720-725
+newspaper: Zdrowie
+published: >-
+  Zdrowie: Organ Warszaw. Towarzystwa Hygienicznego: poświęcony hygienie
+  publicznej i prywatnej, R. XXVIII, z. 10, Warsaw, 1912, pp. 720-725 ("W
+  sprawie odżywiania się ludu")
+title: >-
+  "W sprawie odżywiania się ludu" ("On the nutrition of the people"): Dr.
+  Konstanty Lidmanowski of Zagórów's study of what the rural people of
+  the Słupca powiat eat — the district of the edition's own Trąbczyn,
+  taken as a strip of like conditions along the whole Prussian border,
+  the people divided by wealth and each day's food reckoned in "heat
+  units" against the 3,500 a working body needs: 5,374 for the farmer of
+  more than fifteen morgens, 3,192 for the smallholder and the manor
+  servant, and some 2,000 for the day-labourer who summers in Prussia —
+  in the Warsaw Hygiene Society's journal of 1912
+title_en: >-
+  "On the nutrition of the people": Dr. Lidmanowski's study of the food of
+  the rural Słupca powiat, in the hygiene journal Zdrowie of 1912
+cite: Zdrowie (1912)
+author: Dr. Konstanty Lidmanowski
+year: 1912
+date_span: "1912"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The era of the
+# holdings from 1900 on, whose working label is "The twentieth century";
+# the item is of 1912, inside that era's span.
+era: twentieth-century
+
+# Shown whole on the site. The author died on 6 January 1943, so Polish
+# copyright (life + 70 years) lapsed at the end of 2013: the text is in the
+# public domain. The editor's word of 2026-10-22 (all three Lidmanowski
+# texts shown whole).
+visible: true
+
+# Where the item comes from: Crispa, the University of Warsaw's digital
+# library (the issue's PDF; the editor gave the address with the file).
+source: https://crispa.uw.edu.pl/object/files/701189/display/PDF
+
+# No image: the texts came with the editor's file, and no page image is
+# carried (the editor's word of 2026-10-22, the scans not needed — "the
+# transcription is secure").
+
+# The English came with the editor's file (made by Claude) and was read
+# against the Polish original and corrected in the session of 2026-10-22;
+# the corrections are recorded in the item's notes.md.
+english_by: >-
+  Claude, 2026-10-22 (with the editor's file, corrected against the Polish)
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a specialist journal's article by
+# the district's own doctor, built on data he had collected for over a
+# dozen years. It names the edition's own ground by name — the Słupca
+# powiat, in which Trąbczyn lies, taken as a strip of like conditions
+# along the whole Prussian border — and records, in figures, what no other
+# source of the edition does: what the people the documents move among
+# ate, and how much of it their work needed.
+account_en: >-
+  An article, "W sprawie odżywiania się ludu" ("On the nutrition of the
+  people"), by Dr. Konstanty Lidmanowski — the physician of Zagórów, whose
+  study of rural dwellings of 1914 stands beside it in the Newspapers — in
+  Zdrowie, the organ of the Warsaw Hygiene Society, its twenty-eighth
+  year, zeszyt 10 of 1912, pp. 720-725. It is the edition's own ground
+  named by its own observer: "For my research on the nutrition of the
+  people, I took the Słupca district, which stretches in a narrow strip
+  on the border of the Grand Duchy of Poznań" — the powiat in which
+  Trąbczyn lies — and, since the whole borderland lives in like material
+  conditions, the doctor extends his figures to the whole strip along the
+  Prussian frontier. The data he had been collecting "for over a dozen
+  years". The unit of the reckonings is the ciepłostka, the "heat unit" —
+  the old calorie: some 50 per kilogram of body weight a day for a
+  hard-working person, 3,500 for a man of seventy kilograms, against
+  which each category's day is set out meal by meal. The piece is a
+  witness of the diet of the very people the edition's court books,
+  registers and tables name: what their bread, milk, potatoes and meat
+  weighed, and how far short of need the smallholder's and the
+  day-labourer's day fell.
+account_de: >-
+  Ein Aufsatz, „W sprawie odżywiania się ludu" („Über die Ernährung des
+  Volkes"), von Dr. Konstanty Lidmanowski — dem Arzt von Zagórów, dessen
+  Untersuchung der Landwohnungen von 1914 neben ihm in den Zeitungen
+  steht — in Zdrowie, dem Organ der Warschauer Hygienischen Gesellschaft,
+  in seinem achtundzwanzigsten Jahre, Heft 10 von 1912, S. 720-725. Er ist
+  der Boden dieser Edition, von seinem eigenen Beobachter genannt:
+  „Für meine Untersuchungen über die Ernährung des Volkes nahm ich den
+  Powiat Słupca, der sich in einem schmalen Streifen an der Grenze des
+  Großherzogtums Posen hinzieht" — der Powiat, in dem Trąbczyn liegt —
+  und, da die ganze Grenzbevölkerung unter ungefähr gleichen materiellen
+  Verhältnissen lebt, dehnt der Arzt seine Zahlen auf den ganzen Streifen
+  an der preußischen Grenze aus. Die Angaben sammelte er „durch ein
+  Dutzend Jahre". Die Einheit der Rechnungen ist die ciepłostka, die
+  „Wärmeeinheit" — die alte Kalorie: rund 50 je Kilogramm Körpergewicht
+  und Tag für einen Schwerarbeitenden, 3.500 für einen Menschen von
+  siebzig Kilogramm, woran der Tag jeder Kategorie Mahlzeit für Mahlzeit
+  abgemessen wird. Das Stück ist ein Zeuge der Kost eben der Leute, die
+  die Gerichtsbücher, Register und Tafeln der Edition nennen: was ihr
+  Brot, ihre Milch, ihre Kartoffeln und ihr Fleisch wogen, und wie weit
+  der Tag des Kleinpächters und des Tagelöhners hinter dem Bedarf
+  zurückblieb.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  "W sprawie odżywiania się ludu", Zdrowie R. XXVIII, z. 10 (1912),
+  pp. 720-725, by Dr. Konstanty Lidmanowski. Nothing exact is known of how
+  the rural people feed themselves; the older attempts generalized one or
+  two villages' figures to the whole country, while nutrition differs by
+  region and, within a region, by wealth. The doctor's plan: take
+  territories of like economic conditions and divide the people by wealth.
+  He takes the Słupca powiat on the Prussian border, where he has
+  collected data for over a dozen years, and divides the rural population
+  into three groups. The wealthier farmers, above fifteen morgens:
+  breakfast of grain coffee with milk, bread and butter; dinner, on
+  non-fasting days, of broth and meat, pork mostly, beef, mutton, veal or
+  chicken now and then; on fasting days potato soup, milk porridge or
+  millet soup, less often pea soup; an afternoon snack in summer only;
+  supper of milk with potatoes, beet soup with potatoes in winter; tea
+  with bread and butter among the older ones, mainly in winter. The need
+  of a hard-working body is about 50 heat units a day per kilogram —
+  3,500 for a man of 70 kg — and the category's ordinary day is reckoned
+  out meal by meal: breakfast 1,126 units (a glass of milk in the coffee,
+  15 g sugar, 300 g bread, 30 g butter), dinner 1,481 (on average half a
+  kilogram of meat and 200 g bread), afternoon snack 1,391, supper 1,376
+  (skimmed milk, bread, butter): 5,374 units a day, more than the body
+  needs — hence no thin, wasted men among the wealthy farmers, unless
+  alcohol undoes them. The smallholders: breakfast of bread or a plate of
+  potatoes with little butter on them, with sour skimmed milk — 470
+  units; dinner of potatoes, skimmed milk, flour and bread — 792; the
+  snack 930; supper of skimmed milk with potatoes, about 1,000: 3,192 a
+  day against the 3,500 needed, and so the thin, wasted, prematurely old
+  men among them; the manor farmhand feeds much the same. Worst is the
+  day-labourer's: in summer he works in Prussia on rice, skimmed milk and
+  potatoes, meat once a week for its price — some 2,000 units against the
+  3,500; a good summer's earnings he partly makes up in winter, when he
+  works little and eats better, but a bad summer leaves him hungry in
+  winter too. Beyond the quantity, the preparation: the rural bride who
+  knows nothing of cooking serves her five or six dishes constantly, and
+  monotony itself impairs assimilation; dirty utensils burn the food;
+  unwashed hands carry disease germs into the body, which hard work and
+  undernourishment leave undefended. The cause is that the peasant has
+  been taught for centuries to think his body not worth attention, the
+  soul all; with education the nutrition must rise, and much can be done
+  besides: schools of domestic economy for village girls, to teach
+  cooking and nutrition, and popular brochures on how and what to eat.
+  Then the peasant will gain enormously in health, and at the church
+  festivals and fairs he will avoid the dirty little-town shambles, with
+  their sausages and blood puddings disgusting to look at, and the
+  mindless vodka drunk over them.
+summary_de: >-
+  „W sprawie odżywiania się ludu", Zdrowie R. XXVIII, Heft 10 (1912),
+  S. 720-725, von Dr. Konstanty Lidmanowski. Genaues weiß man nicht, wie
+  sich die Landbevölkerung nährt; die älteren Versuche verallgemeinerten
+  die Zahlen eines oder zweier Dörfer aufs ganze Land, während die
+  Ernährung nach Gegend und, in der Gegend, nach Vermögen wechselt. Der
+  Plan des Arztes: Landschaften von gleichen wirtschaftlichen
+  Verhältnissen nehmen und das Volk nach dem Vermögen teilen. Er nimmt
+  den Powiat Słupca an der preußischen Grenze, wo er über ein Dutzend
+  Jahre Angaben gesammelt hat, und teilt die Landbevölkerung in drei
+  Gruppen. Die wohlhabenderen Bauern, über fünfzehn Morgens: zum
+  Frühstück Kaffee mit Milch, Brot und Butter; zu Mittag, außer an Fasttagen, Brühe und Fleisch, meist Schweinefleisch, bisweilen Rind-,
+  Hammel- oder Kalbfleisch, zuweilen Huhn; an Fasttagen Kartoffelsuppe,
+  Milch- oder Hirsebrei mit Butter, seltener Erbsensuppe; zum
+  Nachmittagessen nur im Sommer Brot mit Quark; zum Abendessen Milch mit
+  Kartoffeln, im Winter Rote-Rüben-Suppe mit Kartoffeln; die Älteren
+  trinken noch Tee mit Brot und Butter, meist nur im Winter. Der Bedarf
+  eines schwer arbeitenden Körpers ist rund 50 Wärmeeinheiten je
+  Kilogramm und Tag — 3.500 für einen Menschen von 70 kg — und der
+  gewöhnliche Tag der Kategorie wird Mahlzeit für Mahlzeit gerechnet:
+  Frühstück 1.126 Einheiten (ein Glas Milch zum Kaffee, 15 g Zucker,
+  300 g Brot, 30 g Butter), Mittagessen 1.481 (durchschnittlich ein
+  halbes Kilogramm Fleisch und 200 g Brot), Nachmittagessen 1.391,
+  Abendessen 1.376 (Magermilch, Brot, Butter): 5.374 Einheiten am Tage,
+  mehr als der Körper braucht — daher keine dünnen, ausgezehrten Männer
+  unter den wohlhabenden Bauern, es sei denn, der Alkohol verdirbt sie. Die
+  Kleinpächter: zum Frühstück ein Stück Brot oder ein Teller Kartoffeln
+  mit wenig Butter, dazu saure Magermilch — 470 Einheiten; zu Mittag
+  Kartoffeln, Magermilch, Mehl und Brot — 792; das Nachmittagessen 930;
+  das Abendessen Magermilch mit Kartoffeln, etwa 1.000: 3.192 am Tage
+  gegen die nötigen 3.500, und daher die dünnen, ausgezehrten,
+  vorzeitig alten Männer unter ihnen; der Gutsknecht nährt sich ungefähr
+  ebenso. Am schlechtesten der Tagelöhner: im Sommer arbeitet er in
+  Preußen und nährt sich dort von Reis, Magermilch und Kartoffeln,
+  Fleisch wegen seines Preises einmal in der Woche — rund 2.000
+  Einheiten gegen die 3.500; einen guten Sommerlohn gleicht er im
+  Winter teilweise aus, wo er wenig arbeitet und besser isst; war der Sommer
+  schlecht, hungert er auch im Winter, wie er im Sommer gehungert hat.
+  Über die Menge hinaus die Zubereitung: die Landmagd, die von Küche und
+  Ernährung nichts versteht, kocht ihre fünf, sechs Gerichte beständig,
+  und die Eintönigkeit selbst verdirbt die Assimilation; schmutziges
+  Geschirr verbrennt das Essen; ungewaschene Hände tragen Krankheitskeime
+  in den Körper, den schwere Arbeit und Unterernährung wehrlos lassen.
+  Die Ursache ist, dass der Bauer seit Jahrhunderten gelernt hat, seinen
+  Körper für der Aufmerksamkeit unwert zu halten, die Seele für alles;
+  mit der Aufklärung muss auch die Ernährung steigen, und viel lässt
+  sich daneben tun: Schulen der Hauswirtschaft für die Dorfmädchen,
+  die Kochen und Ernährung lehren, und volkstümliche Broschüren, wie und
+  was man essen soll. Dann gewinnt der Bauer enorm an Gesundheit, und
+  bei den Kirchweihen und Märkten meidet er die schmutzigen
+  Metzgerstände der Kleinstädte, mit ihren Würsten und Blutwürsten, auf die der
+  Anblick wahrhaft Ekel erregt, und den gedankenlosen Wodka, den man dazu
+  trinkt.

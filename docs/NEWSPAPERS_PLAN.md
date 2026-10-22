@@ -146,6 +146,9 @@ document list are left out when there are no documents).
 | `ostdeutscherbeobachter19420197` | Ostdeutscher Beobachter, Jg. 4, Nr. 197 (19. Juli 1942): the feature "225 Jahre alte deutsche Siedlung im Wartheland" on Lazinsk (Łazińsk), in the Amtsbezirk Drommin — the wartime name of the rural commune of Trąbczyn — signed Willi Spatz | German | yes, with the WBC page |
 | `twojaslupca20150706` | TwojaSłupca (twojaslupca.pl), 6 lipca 2015: "Trąbczyn świętował 775 lat" — the report of the village's 775th-anniversary jubilee, its history paragraph the edition's own documents' story, the honours "Zasłużony dla wsi Trąbczyn" named | Polish | yes, no picture (the editor) |
 | `slowo18920104` | Słowo, R. XI, nr 2 (4 stycznia 1892), p. 3: the "Sprzedaże dóbr" notice — Tomisławice sold, and Trąbczyn sold by Count Miączyński to Countess Władysławowa Wielopolska for 225,000 rs. | Polish | yes, with the page crop |
+| `zdrowie1912z10` | Zdrowie, R. XXVIII, z. 10 (1912), pp. 720-725: "W sprawie odżywiania się ludu" — Dr. Konstanty Lidmanowski's study of what the rural people of the Słupca powiat eat, reckoned in "heat units" (ciepłostki) against the working body's need | Polish | yes, no picture |
+| `jutrzenka1913z8` | Jutrzenka, R. 3, nr 8 (24 kwietnia 1913), pp. 7-10: "Jak się ubiera nasz lud." — the folk attire and its hygiene, carried from Dr. Lidmanowski's article in the March Zdrowie; the signature open (NEEDS_CONFIRMATION) | Polish | yes, no picture |
+| `zdrowie1914z6` | Zdrowie, R. XXX, z. 6 (1914), pp. 432-440: "Jak mieszka lud nasz?" — Dr. Lidmanowski's survey of rural dwellings: 1,200 farmhouses, 80 manor servants' quarters, 140 labourers' lodgings, 91 of every 100 farmers' dwellings one room | Polish | yes, no picture |
 
 The third item came in the same day with the transcription and the English
 already made (the editor's file; "the transcription is secure" — no reading
@@ -211,6 +214,34 @@ era; its one index hit is Trąbczyn, ruled. Open: whether the press's
 "Władysławowa Wielopolska" (the wife of a Władysław) and the era's
 "Countess Maria Wielopolska" name one woman (NEEDS_CONFIRMATION, "The
 newspapers").
+
+**The three Lidmanowski texts** (2026-10-22) are the first items that are
+**articles of learned journals** rather than clippings, notices or
+features — two in *Zdrowie*, the organ of the Warsaw Hygiene Society
+(the nutrition study of 1912 and the housing survey of 1914), one in
+*Jutrzenka*, a Łódź fortnightly of popular science (the digest of
+Lidmanowski's attire article of April 1913) — and the first items that
+came in **from the editor's own Markdown file** as a batch: English and
+Polish together, each with its digitisation link, "the transcription is
+secure". No OCR, no spot sheet, no page image on any of the three; the
+`source:` links point to Polona, Cyfrowe Mazowsze and Crispa. The
+editor's rulings, asked before the work began: three separate items; the
+English checked for accuracy where there was doubt (it came with the
+file, made by Claude — eleven artifacts found and corrected against the
+Polish, among them a sentence the translation had printed twice, recorded
+in each `notes.md`); all three shown whole (the author, Dr. Konstanty
+Lidmanowski of Zagórów, died 6 January 1943, so Polish copyright lapsed
+in 2014); a person entry for him on /people/ (the Głowiecki shape: no
+documents, the Jutrzenka digest's "dr. Lidmanowski" ruled to him in
+`newspapers/index.yml`). The housing survey's 1914 stands against the
+file's name ("1912-1913") — Polona's metadata, the issue's table of
+contents and the literature agree on 1914 (NEEDS_CONFIRMATION says so).
+The slug takes the zeszyt in the issue's place (`zdrowie1912z10`,
+`jutrzenka1913z8`, `zdrowie1914z6`). What the three bear: the housing,
+dress and food of the people the edition's documents move among, set
+down by the district's own doctor — the 1912 article names the Słupca
+powiat, the edition's own ground (Słupca itself not in the places
+register: NEEDS_CONFIRMATION).
 
 ## 6. Order of work, and what is open
 

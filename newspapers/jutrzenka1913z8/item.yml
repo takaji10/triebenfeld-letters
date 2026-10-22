@@ -1,0 +1,217 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: jutrzenka1913z8
+
+# The item as the digitisation's metadata cites it: Jutrzenka, the
+# illustrated fortnightly of general education, its third year (Rok 3),
+# no. 8, of 24 April 1913, pp. 7-10 (the print's own masthead, "Jutrzenka.
+# Dwutygodnik popularno-naukowy", styles it a fortnightly of popular
+# science). The digitised copy is the Mazovian Digital Library's; the
+# editor gave the address with the file.
+ref: >-
+  Jutrzenka, R. 3, nr 8 (24 kwietnia 1913), s. 7-10
+newspaper: Jutrzenka
+published: >-
+  Jutrzenka: dwutygodnik ogólno-kształcący, ilustrowany, R. 3, nr 8, Łódź,
+  24 April 1913, pp. 7-10 ("Jak się ubiera nasz lud.")
+title: >-
+  "Jak się ubiera nasz lud." ("How our people dress"): the folk attire of
+  the Kingdom's countryside and its hygiene — the linen shirt and the
+  sheepskin coat that costs some fifteen rubles and grows colder each
+  year, the leather belt that cuts into the flesh, the foot-wraps and the
+  clogs, the tight town shoes of the women, the "American's" starched
+  collar and celluloid tie, the newborn swaddled so it cannot sleep —
+  carried in the Łódź educational fortnightly from Dr. Lidmanowski's
+  article in the March issue of the hygiene journal Zdrowie; whether the
+  Jutrzenka page itself is signed is open (NEEDS_CONFIRMATION)
+title_en: >-
+  "How our people dress": the folk attire and its hygiene, carried in the
+  Łódź fortnightly Jutrzenka of April 1913 from Dr. Lidmanowski's article
+  in the March Zdrowie
+cite: Jutrzenka (1913)
+author: ""
+year: 1913
+date_span: "1913"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The era of the
+# holdings from 1900 on, whose working label is "The twentieth century";
+# the item is of 1913, inside that era's span.
+era: twentieth-century
+
+# Shown whole on the site. The underlying article is Dr. Lidmanowski's, and
+# he died on 6 January 1943, so Polish copyright (life + 70 years) lapsed at
+# the end of 2013; an anonymous text of 1913 is likewise out of copyright
+# since 1984. The editor's word of 2026-10-22 (all three Lidmanowski texts
+# shown whole).
+visible: true
+
+# Where the item comes from: the Mazovian Digital Library (Mazowiecka
+# Biblioteka Cyfrowa), publication 16784, edition 14458.
+source: https://mbc.cyfrowemazowsze.pl/dlibra/publication/16784/edition/14458/content?format_id=2
+
+# No image: the texts came with the editor's file, and no page image is
+# carried (the editor's word of 2026-10-22, the scans not needed — "the
+# transcription is secure").
+
+# The English came with the editor's file (made by Claude) and was read
+# against the Polish original and corrected in the session of 2026-10-22;
+# the corrections are recorded in the item's notes.md.
+english_by: >-
+  Claude, 2026-10-22 (with the editor's file, corrected against the Polish)
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a popular educational fortnightly
+# carrying to its readers what a specialist journal had printed about the
+# countryside's clothing. It speaks of Dr. Lidmanowski in the third person
+# — "In the March issue of Zdrowie, Dr. Lidmanowski draws attention to
+# various deficiencies of today's folk attire" — and presents itself as
+# the digest of his article; whether the page carries a signature is open,
+# the digitisation not reachable from the working session
+# (NEEDS_CONFIRMATION, "The newspapers"). Its facts are the doctor's
+# observations of the people among whom the edition's documents move.
+account_en: >-
+  A four-page piece, "Jak się ubiera nasz lud." ("How our people dress"),
+  in Jutrzenka, a fortnightly of general education printed in Łódź, its
+  third year, no. 8, of 24 April 1913, pp. 7-10. The piece names its own
+  origin in its second paragraph: "In the March issue of Zdrowie, Dr.
+  Lidmanowski draws attention to various deficiencies of today's folk
+  attire" — the March 1913 issue of the Warsaw Hygiene Society's journal,
+  the specialist paper of which Dr. Konstanty Lidmanowski, the physician
+  of Zagórów, had an article on the folk attire; this is that article's
+  matter, carried to the educational fortnightly's readers. It speaks of
+  the doctor in the third person throughout, and the file gives no
+  signature: whether the Jutrzenka page itself is signed by him or carries
+  an anonymous digest of his Zdrowie article cannot be settled from the
+  file, and the digitisation was not reachable from the working session —
+  the question is open (NEEDS_CONFIRMATION, "The newspapers"). What it
+  records stands whether he wrote it or digested it: how the people of
+  the Kingdom's countryside — the same people the edition's documents
+  move among — dressed, by wealth from the farmhand to the well-to-do
+  farmer, and what the doctor thought of it from the hygienic standpoint.
+account_de: >-
+  Ein vierseitiger Aufsatz, „Jak się ubiera nasz lud." („Wie kleidet sich
+  unser Volk"), in Jutrzenka, einem zweiwöchigen Blatt allgemeiner
+  Bildung, gedruckt in Łódź, in seinem dritten Jahre, Nr. 8, vom 24. April
+  1913, S. 7-10. Der Aufsatz nennt seinen Ursprung selbst, im zweiten
+  Absatz: „In der Märzausgabe von Zdrowie lenkt Dr. Lidmanowski die
+  Aufmerksamkeit auf verschiedene Mängel der heutigen Volkstracht" — die
+  Märzausgabe 1913 der Zeitschrift der Warschauer Hygienischen Gesellschaft,
+  der Fachzeitschrift, in der Dr. Konstanty Lidmanowski, der Arzt von
+  Zagórów, einen Aufsatz über die Volkstracht hatte; dies ist der Stoff
+  jenes Aufsatzes, den Lesern des Bildungsblattes getragen. Er spricht
+  durchweg vom Arzt in der dritten Person, und die Datei gibt keine
+  Unterschrift: ob die Seite der Jutrzenka selbst von ihm gezeichnet ist
+  oder einen anonymen Auszug seines Zdrowie-Aufsatzes trägt, lässt sich
+  aus der Datei nicht entscheiden, und die Digitalisierung war von der
+  Arbeitssitzung aus nicht erreichbar — die Frage ist offen
+  (NEEDS_CONFIRMATION, „Die Zeitungen"). Was das Stück festhält, gilt, ob Lidmanowski es
+  schrieb oder ein anderer es aus ihm auszog: wie die Leute des polnischen Landessss — dieselben
+  Leute, unter denen die Dokumente dieser Edition sich bewegen — sich
+  kleideten, nach Vermögen vom Gutsknecht bis zum wohlhabenden Bauern, und
+  was der Arzt davon vom hygienischen Standpunkt hielt.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  "Jak się ubiera nasz lud.", Jutrzenka R. 3, nr 8 (24 April 1913),
+  pp. 7-10. The old, regionally distinct costume of the Polish peasant is
+  disappearing; what remains is a dress made uniform within each group by
+  the degree of wealth — the farmer of twenty morgans and more, the
+  smallholder, the labourer, the manor stable hand — and all of them, the
+  piece says on Dr. Lidmanowski's authority, sin against hygiene, some of
+  necessity, some of ignorance and bad habit. The men: linen shirts,
+  mostly home-made, the same at every level; beyond them fair-bought
+  cotton trash, badly cut and little warm; the leather belt at the waist
+  drawn so tight it cuts into the flesh; suspenders only among those who
+  go to work abroad, who bring back heavily starched or celluloid collars
+  with their inseparable bright tie and a thick knitted shirt worn over
+  the white one, topped in winter by a foreign jacket with lambskin fur
+  or a padded overcoat — ordinary German junk, cheap and little warm. The
+  winter coat of smallholder, labourer and stable hand alike is the
+  sheepskin, some fifteen rubles and colder every year as the wool wears;
+  the stable hand sent on long deliveries adds a burka and a belt. The
+  returnee from America stands out at once: starched shirt front, studs,
+  knitted second shirt, long underwear, thin socks, American boots with
+  wide toes and low heels, a woolen jacket suit, padded overcoat, felt
+  hat, and the face carefully shaved. The well-to-do farmer dresses for
+  comfort in thick wool, with stockings, boots, even galoshes, a sheepskin
+  fur for travel, linen in summer, fur trousers and caftan for the yard.
+  Footwear is the plague of all: heavy clumsy boots over foot-wraps with
+  straw added in frosts, the emigrants' narrow toes that deform the foot
+  into corns, the poorer women's laced shoes worn on bare feet only to
+  market and church, so tight the foot seems small, with narrow toes and
+  very high heels; at home bare feet or clogs with wooden soles without
+  heel counters; the wealthier women and the returned ones in stockings.
+  Women's dress is less hygienic still: the long linen shirt, skirts and
+  jackets layered in winter, the padded jacket and woolen shawl for
+  church, the girls abroad bringing back corsets and tight dresses, the
+  returnees from America in embroidered underwear, fashionable hats and,
+  most important, underpants, light in summer and warm in winter.
+  Everything in the house follows the wealth: one bed and one bedding for
+  a whole family of a poor stable hand, labourer or smallholder, the
+  children sleeping with the parents to the age of five or six, then at
+  the bed's foot, one bedding for several children, the linen changed at
+  most twice a year; the children, chiefly, are badly dressed, barefoot
+  and almost naked, the wind striking their exposed legs; the newborn is
+  received in a cold room, laid in bedding of a few degrees of warmth,
+  bathed in water often above 40 degrees, swaddled so tightly that it
+  cries whole days and nights, and one in six is raised in such
+  conditions. Enlightenment is coming, the piece closes, and will bring
+  deeper culture into the peasant hut; but the beautiful, colourful
+  costume of the Polish peasant, like that of the old nobleman, will
+  remain only a memory, a precious decoration of national celebrations.
+summary_de: >-
+  „Jak się ubiera nasz lud.", Jutrzenka R. 3, Nr. 8 (24. April 1913),
+  S. 7-10. Die alte, nach der Gegend verschiedene Tracht des polnischen
+  Bauern verschwindet; was bleibt, ist eine innerhalb jeder Gruppe
+  gleichförmige Kleidung, gebildet vom Grade des Vermögens — der Bauer
+  von zwanzig und mehr Morgens, der Kleinpächter, der Tagelöhner, der
+  Gutsknecht — und alle sündigen, so das Stück auf des Arztes Autorität,
+  gegen die Hygiene, die einen aus Not, die anderen aus Unwissenheit und
+  schlechter Gewohnheit. Die Männer: leinene Hemden, meist eigene
+  Arbeit, auf jeder Stufe dieselben; darüber der Tand vom Markt aus schlechtem Baumwollzeug, schlecht geschnitten und wenig warm; der lederne Gurt an
+  der Taille, so fest gezogen, dass er ins Fleisch schneidet; Hosenträger
+  nur bei denen, die zur Arbeit ins Ausland gehen, die stark gestärkte
+  oder Kragen aus Zelluloidmasse mit ihrer untrennbaren grellen Krawatte und
+  ein dickes Trikothemd über dem weißen mitbringen, im Winter gekrönt
+  von einer Jacke mit Lammfutter oder einem wattierten Mantel —
+  gewöhnlicher deutscher Tand, billig und wenig warm. Der Winterrock von
+  Kleinpächter, Tagelöhner und Gutsknecht ist gleichermaßen der
+  Schafspelz, etwa fünfzehn Rubel, jedes Jahr kälter, indem das Haar
+  sich abreibt; der auf weite Fuhren geschickte Gutsknecht legt noch
+  eine Burka an und gürtet sich. Der aus Amerika Heimgekehrte fällt
+  sogleich auf: gestärkte Brust, Spangen, zweites Trikothemd, lange
+  Unterwäsche, dünne Socken, amerikanische Stiefel mit weiten Spitzen
+  auf niedrigen Absätzen, ein wollenes Jackett, wattierter Mantel,
+  Filzhut und das Gesicht sorgfältig rasiert. Der vermögende Bauer
+  kleidet sich der Bequemlichkeit nach in dickes Wollzeug, mit Socken,
+  Stiefeln, selbst Galoschen, einem Schaffell für die Reise, Leinen im
+  Sommer, Fellhose und -kaftan für den Hof. Das Schuhwerk ist die Plage
+  aller: schwere ungeschickte Stiefel über Fußlappen, im Frost mit Stroh,
+  die schmalen Spitzen der Auswanderer, die den Fuß mit Hühneraugen bedecken, der ärmeren Frauen geschnürte Schuhe, auf nackten Füßen nur
+  zu Markt und Kirche getragen, so eng, dass der Fuß klein scheint, mit
+  schmalen Spitzen und sehr hohen Absätzen; zu Hause barfuß oder
+  Holzsohlen-Pantoffeln ohne Fersenkappe; die wohlhabenderen Frauen und
+  die Heimgekehrten in Strümpfen. Die Kleidung der Frau ist noch
+  unhygienischer: das lange leinene Hemd, Röcke und Jäckchen im Winter
+  übereinander, der wattierter Kaftan und das große Wolltuch zur Kirche,
+  die Mädchen im Ausland bringen Korsetts und enge Kleider mit, die
+  Heimgekehrten aus Amerika in bestickter Wäsche, modischen Hüten und,
+  was das Wichtigste, in Unterhosen, im Sommer leicht, im Winter warm.
+  Alles im Hause folgt dem Vermögen: ein Bett und eine Wäsche für die
+  ganze Familie eines armen Gutsknechtes, Tagelöhners oder Kleinpächters,
+  die Kinder schlafen bei den Eltern bis zum fünften oder sechsten Jahre,
+  dann am Fußende, eine Wäsche für mehrere Kinder, die Bettwäsche höchstens
+  zweimal im Jahr gewechselt; die Kinder vor allem sind schlecht
+  gekleidet, barfuß und fast nackt, der Wind schlägt auf die entblößten
+  Beine; das Neugeborene empfängt man in einer kalten Stube, legt es in
+  eine Wäsche von einigen Graden Wärme, badet es in Wasser oft über 40
+  Grad, fesselt es in die Windeln so, dass es ganze Tage und Nächte
+  schreit, und eines von sechs wird in solchen Verhältnissen aufgezogen.
+  Aufklärung kommt, schließt das Stück, und wird tiefere Kultur in die
+  Bauernhütte bringen; aber die schöne, bunte Tracht des polnischen
+  Bauern, wie die des alten Edelmanns, wird nur noch eine Erinnerung
+  bleiben, eine kostbare Ausschmückung nationaler Feiern.

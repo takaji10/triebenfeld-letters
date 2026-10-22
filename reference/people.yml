@@ -2064,6 +2064,38 @@ people:
     variants: []
     identity: "Tomasz Ocic, the younger son of Otto of Trąbczyn, named by the editors (Kodeks Dyplomatyczny Wielkopolski XI, no. 2000, note 2). Added 2026-10-16."
 
+  # --- Breyer's Łazińsk notebook of 1936 (APP 53/968/0/-/669), the feature on
+  # --- Łazińsk in the Ostdeutscher Beobachter of 19 July 1942 and Słowiński
+  # --- 2023, added 2026-10-22 ------------------------------------------------
+  mielke:
+    display: "Gustav Adolf Mielke"
+    render: "Mielke"
+    match: 'Mielke'
+    # The only Mielke the edition's documents name: the bare surname stands
+    # just in Breyer's notebook and the 1942 item. The filter holds the
+    # pattern to those two witnesses, so the Mielkes of Słowiński 2023 (the
+    # soldier Bruno Edwin, his father Samuel Julius) can never be taken for
+    # him even if that book's text is ever indexed.
+    only_in: [app539680669-1, ostdeutscherbeobachter19420197-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "The teacher and cantor of Łazińsk. Breyer's notebook of July 1936 notes 'Lehrer i. Łazinsk: Mielke seit 1925' and the school 'westlich der Schule Mielke in Łazinsk' (APP 53/968/0/-/669). The feature on Łazińsk in the Ostdeutscher Beobachter of 19 July 1942 has the reporter met by 'den volksdeutschen Lehrer und Bauer Mielke', and 'Lehrer Mielke' who in 1933 had a new German school built at his own expense, was moved to Galicia after four years and dismissed in 1939. Słowiński 2023 (the wall cache of letters of the Mielke family of Łazińsk) gives the full name Gustav Adolf Mielke, cantor from 1925, forced to leave Łazińsk in 1936, back with the Wehrmacht in 1939 and teaching again in 1940. One man, the three witnesses agreeing in the cantorate from 1925, the new school built by his effort, the Polish-era removal to Galicia and the return (the editor's ruling of 2026-10-22). Added 2026-10-22."
+
+  # --- The Lidmanowski texts in Zdrowie (1912, 1914) and the Jutrzenka
+  # --- digest of April 1913, added 2026-10-22 --------------------------------
+  lidmanowski:
+    display: "Dr. Konstanty Lidmanowski"
+    render: "Lidmanowski"
+    match: 'Lidmanowsk\w*'
+    # The doctor of Zagórów: named in the text of the Jutrzenka digest only
+    # ("dr. Lidmanowski", the English "Dr. Lidmanowski"). The two Zdrowie
+    # articles are his by their issue's table of contents, which the items'
+    # accounts cite; their transcription carries no signature.
+    only_in: [jutrzenka1913z8-1]
+    tier: "Text-confirmed"
+    variants: []
+    identity: "Dr. Konstanty (Kwiryn Józef) Lidmanowski (30 March 1865, Słupca - 6 January 1943, Zagórów), physician: settled in Zagórów in 1893 and practised there to his death; founder of the town's volunteer fire brigade (1899), its loan-and-savings society (1901) and its Polish-language school (1906), and keeper of its hospital from 1910 (the Polish Wikipedia's article, with S. Kumosa, Lekarze medycyny i stomatologii pracujący w lecznictwie zagórowskim, Zagórów 1992; the dates rest on the encyclopedia, NEEDS_CONFIRMATION). Zdrowie's table of contents styles him 'Dr. z Zagórowa'. The Newspapers carry two of his articles - on the rural dwellings (Zdrowie 1914) and on the nutrition of the people of the Słupca powiat (Zdrowie 1912) - and the Jutrzenka digest of April 1913 of his article on the folk attire, which names him in the third person; whether that page is signed is open (NEEDS_CONFIRMATION, 'The newspapers'). Added 2026-10-22."
+
 # Long-tail names (reference/name_seeds.json) shut out of named documents.
 seed_not_in:
   # Otto of Trąbczyn (otto-z-trabczyna), not the Otto of the correspondence.

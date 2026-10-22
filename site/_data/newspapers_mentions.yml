@@ -8,6 +8,20 @@ person:
     - key: item
       en: The item
       de: Das Stück
+  lidmanowski:
+  - slug: jutrzenka1913z8
+    cite: Jutrzenka (1913)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  mielke:
+  - slug: ostdeutscherbeobachter19420197
+    cite: Ostdeutscher Beobachter (1942)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   prusimska-katarzyna:
   - slug: kuryerpolski1754075
     cite: Kuryer Polski (1754)
