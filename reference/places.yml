@@ -53,8 +53,10 @@ places:
       - "1399: Trapczyno, Trambczyno"
       - "1415: Trambczyno"
       - "1434: Trampcz(i)no, Trampczino, Trambczino"
-    # The German occupation's name (the editor, 2026-10-21). Not found in any
-    # document or work of the edition, so not matched.
+    # The German occupation's name (the editor, 2026-10-21). Found in no
+    # document of the edition; matched from 2026-10-22 at the editor's word,
+    # when the Ostdeutscher Beobachter's feature of 19 July 1942 named the
+    # Amtsbezirk Drommin and the editor ruled Drommin = Trąbczyn.
     renamed:
       - name: "Drommin"
         years: "1939-1945"
@@ -79,6 +81,9 @@ places:
       - {form: "Trombczin",  seen_in: ["Hohenlohe corpus"]}
       - {form: "Träbczyn",   seen_in: ["Hohenlohe corpus"]}
       - {form: "Prosrzyner", seen_in: ["Hohenlohe corpus"]}
+      # The occupation's name for the commune, carried under `renamed` above.
+      # Matched at the editor's word (2026-10-22: Drommin = Trąbczyn).
+      - {form: "Drommin", match: true, seen_in: ["ostdeutscherbeobachter19420197-1"]}
     distinct_from: [wrabczyn, wrabczynek]
     open_questions:
       - "Trombschino-Hauland is the Olęder colony on the estate, not the village
@@ -512,11 +517,24 @@ places:
       - {form: "Łaziny",              match: false}
       - {form: "Łazińskie Stare Olędry", match: false}
       - {form: "Staro-Łazińska",      match: true, seen_in: ["app539680783-1"]}
+      # The editor's rulings of 2026-10-22: Łazińsk is the colony ("the
+      # colony which went by many name variants"), Lazinsk is its German-era
+      # name, and Kolonia Łazińskie (Mielewczyk 2017, p. 48) is another
+      # variant of Łazińsk/Lazinsk. The two forms below are matched. The bare
+      # Polish Łazińsk above stays `match: false`: its literal would also
+      # catch the "Łazińskie" of the Nowe colony's names, and matching it
+      # would bring Breyer's "Łazinsk" of 1936 in.
+      - {form: "Lazinsk", match: true, seen_in: ["ostdeutscherbeobachter19420197-1"]}
+      - {form: "Kolonia Łazińskie", match: true, seen_in: ["mielewczyk2017"]}
     open_questions:
       - "The 1746 foundation, and the primary chronological anchor of the whole
-         project. The later name is Łazińskie Stare Olędry (editor, 2026-10-14);
-         whether the register's Łazińsk / Łaziny is that name or a part of the
-         colony is not established here."
+         project. The later name is Łazińskie Stare Olędry (editor, 2026-10-14).
+         Settled 2026-10-22 (the editor): Łazińsk is the colony — the colony
+         which went by many name variants — and Lazinsk its German-era name,
+         so the register's Łazińsk / Łaziny name the colony, not a part of it.
+         The bare Polish forms stay unmatched for now (see the variants
+         comment); matching them would bring Breyer's Łazinsk of 1936 (APP
+         53/968/0/-/669) in, and is the editor's word."
 
   trabczynskie-nowe-oledry:
     display: "Trąbczyńskie Nowe Olędry"

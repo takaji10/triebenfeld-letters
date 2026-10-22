@@ -12,15 +12,18 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Two items in: the "Z Zagórowa" column of
-  Dziennik Poznański R. 79, nr 180 (7 August 1937) and the Kuryer Polski's
+  `docs/NEWSPAPERS_PLAN.md`). Four items in: the "Z Zagórowa" column of
+  Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
-  word (2026-10-22), with the old /documents/ addresses redirected. The
-  rulings of that day are worked in: the clipping's source (the blog
-  Zagórów w historii, its post of 2 October 2024), the rights (approved by
-  the editor), the clipping and the Kuryer's page shown on the item pages,
-  the index of people and places run over the items
-  (`newspapers/index.yml`, 18 hits all ruled). On the editor:
+  word (2026-10-22), with the old /documents/ addresses redirected, the
+  Ostdeutscher Beobachter's feature on Łazińsk, Jg. 4, Nr. 197 (19 July
+  1942), added 2026-10-22, and TwojaSłupca's report of the 775th-anniversary
+  jubilee of 6 July 2015 (`twojaslupca20150706`, added 2026-10-22: shown
+  whole at the editor's word, no picture). The rulings of that day are
+  worked in: the clipping's source (the blog Zagórów w historii, its post of
+  2 October 2024), the rights (approved by the editor), the clipping and the
+  Kuryer's page shown on the item pages, the index of people and places run
+  over the items (`newspapers/index.yml`, 42 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -33,6 +36,43 @@ repository; they are on the working machine.
     (Paweł, Katarzyna, Antoni), and the timeline's event of 1754 now links
     the item's page — said here so the change is known, not because a
     question is open.
+  - **The 1718 of the 1942 article.** The Ostdeutscher Beobachter's feature
+    on Lazinsk (Łazińsk) dates the settlement's foundation to 1718, by
+    fourteen Silesian families; the edition's own records carry the
+    Łazińskie Olędry from the 1746 foundation (the register; Chodyła 2015)
+    and first attest the Nowe Olędry on 29 September 1776. The item keeps
+    its date as printed — the documents first, and the edition's records
+    are the documents here — and its summary records the difference; the
+    editor's eye on the wording of the summary and the account.
+  - **"Drommin", "Lazinsk" and "Kolonia Łazińskie" — settled 2026-10-22**
+    (the editor's rulings: Drommin = Trąbczyn; Lazinsk = German-era name for
+    Łazińsk, the colony which went by many name variants; Kolonia Łazińskie
+    a variant of Łazińsk/Lazinsk). Worked in: "Drommin" a matched variant of
+    trabczyn, "Lazinsk" and "Kolonia Łazińskie" of
+    trabczynskie-stare-oledry; the 1942 item's Drommin and Lazinsk hits
+    ruled in `newspapers/index.yml`, Mielewczyk's "Kolonia Łazińskie" in
+    `literature/index.yml`. The register's open question ("Łazińsk or a part
+    of it") is settled with them: Łazińsk names the colony. The bare Polish
+    "Łazińsk"/"Łaziny" stay unmatched (their literal would catch the Nowe
+    colony's "Łazińskie"; matching them would bring Breyer's Łazinsk of
+    1936 in) — the editor's word.
+  - **The 2015 report's Miączyński heirs, and the Ląd and Trampczin
+    spellings.** The report names "Stanisław hrabia Miączyński, czy
+    Aleksander i Włodzimierz Miączyński" among the heirs of Trąbczyn who
+    took part in the wars of national liberation. Włodzimierz is the
+    register's own Count (miaczynski-wlodzimierz), but his pattern is
+    pinned to the summons of 1860; "Stanisław hrabia" is not identified
+    with the register's Stanisław Miączyński (Michalina's husband) by
+    anything the edition holds, and "Aleksander" by nothing at all — the
+    bare surname is ruled out for the item (the register's own precedent,
+    its `not_in` for Breyer's "Graf Miączyński" of 1936), so no mention
+    stands on a person page. Whether the editor wants the mentions attached
+    — and a pattern for the newspapers that would set Włodzimierz's apart —
+    waits on them. The report's "Lądzie" and "lądzki" (the count's title)
+    and its medieval "Trampczin" are likewise matched by no pattern: the
+    register's Ląd pattern takes "Ląd" bare and "Lądzk..." with the initial
+    capital only, both built for the Kuryer Polski's print. Same question,
+    whether to extend the register's patterns.
   - **The buyer in the Słowo notice of 4 January 1892** (added 2026-10-22):
     the press names her "hr. Władysławowa Wielopolska" — by her husband's
     name, the wife of a Władysław Wielopolski — where the wlodzimierz era's
@@ -507,13 +547,11 @@ read, translate and summarise.
   pp. 41-57, brought in whole from the editor's PDF, shown whole on the site
   (the editor's rulings of 2026-10-22: visible, the figures skipped, the
   whole article; the link is the open-access copy at maphist.waw.pl).
-  - **A pattern for "Kolonia Łazińskie"** (p. 48): the article names the
-    colony among the new villages founded on the parcelled lands of the
-    Trąbczyn property, but not which of the two (the edition's
-    `trabczynskie-stare-oledry` and `trabczynskie-nowe-oledry`, the summons'
-    "Staro-/Nowo-Łazińska"). The edition's patterns match only the prefixed
-    forms, so the mention is not indexed. To add a literature pattern (for
-    one colony, or shared), the editor's word. **For the editor**.
+  - **"Kolonia Łazińskie" (p. 48) — settled 2026-10-22** (the editor: a
+    variant of Łazińsk/Lazinsk): the form names the colony the register
+    records as Trąbczyńskie Stare Olędry. "Kolonia Łazińskie" is a matched
+    variant of `trabczynskie-stare-oledry` and the mention is ruled yes in
+    `literature/index.yml`.
   - **The index rulings of the map titles** (p. 56), Claude's, standing:
     "Kaliszskoj Gubiernii" ruled to Kalisz (the Governorate named from the
     town) and "Powiecie Konińskim" to Konin (the district the village lies
@@ -543,6 +581,68 @@ read, translate and summarise.
     register is not a series the edition holds (its court books are
     Konin's and Kalisz's). Whether the holding behind it is to be sought
     is the editor's.
+  **Minakowska (2026), Helena Zielonacka's page** (`minakowska2026zielonacka`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The regest of 1727.** The page's Notes carry a regest of Teki
+    Dworzaczka: the Konin municipal court's record (nr 13049, Nr. 76) of
+    1727, by which Józef Ścibor Chełmski, heir of Łukom and Łomowo, having
+    received 3,000 złp from Kazimierz Zielonacki for Helena, daughter of
+    the late Andrzej Zielonacki, "now his wife, his ward as well", recorded
+    the sum on his own estates against her portion from her father's
+    (fol. 196 verso). The register is not one the edition holds (its Konin
+    books run from 1754; the decree of 1728 is the land court's). Whether
+    the holding behind it is to be sought is the editor's.
+  - **Kazimierz Zielonacki.** Named only in the regest, not on the page's
+    family sections (its siblings list has a sister, Marianna, alone):
+    presumably her brother or uncle. Nothing is built on the guess.
+  - **Her children's offices.** Heliodor "canon [poz] Poznań (1765)",
+    Stanisław "skarbnik [poz] Wschowa (1779)": the same differences
+    Boniecki raised (NEEDS_CONFIRMATION above, settled by the rule of
+    2026-10-21 - the decree of 1775's "canon of Chełmno", the document of
+    April 1778's earlier title), now from a second witness. Nothing
+    changes: the edition follows the documents.
+
+  **Minakowska (2026), Stanisław Adam Miączyński's page** (`minakowska2026miaczynski`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The marriage date: 1810 or about 1814.** The page gives the marriage
+    of Stanisław Miączyński and Michalina Prusimska "ślub: dnia 17 VIII
+    1810, Warszawa, Cyrkuł IV", resting on the marriage act it cites
+    (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka, with a
+    szukajwarchiwach link). The edition's entries say "about 1814" -
+    inferred from the letters of 1815 (9454, letters 265b of 15 January
+    and 270) that already name him the husband; the bio of `miaczynski`,
+    the identity of `miaczynski` and the genealogy block of `prusimski`
+    all carry it, and the new page's marriage line carries the 1810 date
+    with the flag beside it, so the site shows both. The act is the
+    stronger source and four years earlier. **Awaiting the editor's
+    ruling; nothing has been changed yet.** If the editor accepts 1810,
+    the bio, the identity and the Prusimski block are corrected at once.
+  - **PSB t. 20 s. 562 (psb.17772.5).** The page's Uwagi cite the Polski
+    Słownik Biograficzny's article on Stanisław Adam Miączyński. The
+    edition holds no PSB volume as a literature work; whether to seek it
+    is the editor's.
+  - **Boniecki t. IV s. 157 (the Dąmbscy article)** and **Sęczys's
+    Szlachta wylegitymowana** (le.2259.3.8) are the page's other printed
+    sources; neither is a holding of the edition. The Nekrolog of the
+    Kurier Warszawski 111/1845 has its ebuw.uw.edu.pl link in the
+    knowledgebase.
+
+  **Minakowska (2026), Wojciech Otto-Trąmpczyński's page** (`minakowska2026ottotrampczynski`,
+  2026-10-22), set out in the work's `notes.md`:
+  - **The regest of 1614** (the page's Uwagi; Teki Dworzaczka, Księgi
+    grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137): Stanisław Trąmpczyński,
+    son of Wojciech Otha Trąmpczyński, pledges half his estates for the
+    7,000-zł dowry of Anna Słonecka at her wedding. The register (the
+    Pyzdry court books) is not one the edition holds; whether to seek it
+    is the editor's.
+  - **The descent against the decree of 1644.** The page's grandchildren
+    (Władysław, Andrzej, Anna, a second Władysław, the second Wojciech)
+    are of the generation of the decree's brothers (the sons of the late
+    Stanisław, with the widow Anna of Słończyce), and the database's
+    Stanisław's wife is Anna Słonecka of Słończyce: the database's
+    Stanisław is the decree's late father. Nothing in the edition's texts
+    is built on it; the person's page carries it with the work as its
+    source.
 
 ## Readings, Oe 1 Bü 9454
 
@@ -757,9 +857,12 @@ Places (`reference/places.yml`, `open_questions`):
 - Olisnice in the consistency register: the same place as Olesnica, or a
   separate settlement.
 - Guhrwitz (Górzyce): Stillfried's ownership in 1805 is unconfirmed.
-- Łazińsk / Łaziny: whether they name Trąbczyńskie Stare Olędry or a part of it.
-  The colony's later name is Łazińskie Stare Olędry (editor, 2026-10-14),
-  which makes it likely but does not settle it.
+- Łazińsk / Łaziny: settled 2026-10-22 (the editor: Łazińsk is the colony —
+  "the colony which went by many name variants" — not a part of it; Lazinsk
+  is its German-era name, Kolonia Łazińskie of Mielewczyk (2017) another
+  variant). The bare forms stay unmatched for now: their literal would also
+  catch the Nowe colony's "Łazińskie", and matching them would bring
+  Breyer's "Łazinsk" of 1936 (APP 53/968/0/-/669) in — the editor's word.
 - "Haul. Lazy." in the table of about 1797 (AGAD 1/169/0/1/1745, no. 150):
   probably the Łazińskie Olędry and not the village of Łazy (editor,
   2026-10-14). Which of the two colonies, old or new, the entry does not

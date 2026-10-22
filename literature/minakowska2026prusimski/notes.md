@@ -69,6 +69,10 @@ The page's own marks, kept as printed in both files:
 - "artykuł w Nekrologii": a link to the database's obituaries section;
 - "(linia: August Iliński 11.1.1147)": a link to the line of kinship through
   that person; the number is the person's ID in the database;
+- the page's status line in the header ("Najbliższa rodzina uczestnika
+  Sejmu Wielkiego": Antoni is not himself one of the database's Sejm-Wielki
+  descendants proper) is dropped as chrome with the rest of the site's
+  furniture, and recorded here because it says something of the person;
 - the squares ■ and □ of the Stryjowie section (full.md) stand before a
   spouse: as the page uses them, the filled square before the spouse the
   children listed beneath descend from, the empty one before the others;

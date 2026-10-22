@@ -750,3 +750,25 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       Maria Wielopolska" — one woman or two (NEEDS_CONFIRMATION, "The
       newspapers").
 - [ ] Published at your word (the section is built but not yet on `main`).
+
+## 23. The newspapers: TwojaSłupca, 6 lipca 2015 — "Trąbczyn świętował 775 lat"
+      (added 2026-10-22)
+
+- [x] The article brought in (`newspapers/twojaslupca20150706/`), the
+      portal's HTML as printed, nothing tidied; shown whole at your word
+      (the press of 2015, under copyright), with no picture — the article's
+      photograph stays off the site, the `source:` link pointing to the
+      article (`newspapers/twojaslupca20150706/notes.md`).
+- [x] The index run: "Trąbczyn"/"Trąbczyna" and "Prusimski" ruled in,
+      "Miączyński" and "Wolicki" ruled out with the reasons
+      (`newspapers/index.yml`; 35 hits in 4 items, all ruled).
+- [x] Two rendering faults of the section fixed on the way: the empty
+      `image:` of an item without a picture made a broken figure, and the
+      Language fact of the list page was blank for every item
+      (WORKING_NOTES, "Two Liquid traps").
+- [ ] **You:** the report's Miączyński heirs — Włodzimierz is the register's
+      Count, but "Stanisław hrabia" and "Aleksander" are identified by
+      nothing the edition holds, so the mentions stand on no person page;
+      say whether to attach them (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] **You:** whether to extend the register's patterns for "Lądzie",
+      "lądzki" and "Trampczin" (NEEDS_CONFIRMATION, "The newspapers").

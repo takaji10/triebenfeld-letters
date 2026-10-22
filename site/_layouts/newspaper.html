@@ -34,7 +34,9 @@ layout: default
     </div>
   </header>
 
-  {% if w.image %}
+  {%- comment -%} An item may carry no picture (image: "" or absent): Liquid
+    counts the empty string as true, so the comparison is explicit. {%- endcomment -%}
+  {% if w.image and w.image != '' %}
   <figure class="np-figure">
     <a href="{{ '/assets/newspapers/' | append: w.slug | append: '/' | append: w.image | relative_url }}" target="_blank" rel="noopener">
       <img src="{{ '/assets/newspapers/' | append: w.slug | append: '/' | append: w.image | relative_url }}" alt="{{ w.ref }}" loading="lazy">

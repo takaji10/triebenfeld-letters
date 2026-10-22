@@ -1,0 +1,87 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 22). original.md
+# and full.md are made by make_original.py from the editor's saved page of
+# sejm-wielki.pl (person 4.285.278); the page is not kept in the repository
+# (the editor's login in its header, the visitor's IP in its footer).
+# original.md is the editor's sections only - the biography, the parents, the
+# ancestor tree, the marriage and the children and grandchildren - shown on
+# the site; full.md is the whole page, the knowledgebase, never shown on it.
+# english.md is Claude's. No page marks: the work is cut at its headings, two
+# of which the script adds (# Przodkowie, # Wnuki). See notes.md.
+slug: minakowska2026miaczynski
+visible: true
+kind: reference
+title: "Stanisław Adam Miączyński z Miączyna h. Suchekomnaty (ID: 4.285.278)"
+title_en: "Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty (ID: 4.285.278)"
+cite: "Minakowska (2026, Stanisław Adam Miączyński)"
+author: "Maria Jadwiga Minakowska"
+author_sort: "Minakowska, Maria Jadwiga"
+published: "Wielka genealogia Minakowskiej (Wielcy.pl), the person page 4.285.278, wydanie z 22.10.2026 (the database's edition of 22 October 2026)"
+year: 2026
+language: pl
+english_by: Claude
+scan: "https://www.sejm-wielki.pl/b/4.285.278"
+pages:
+  # no page marks in the database's page: cut at each heading
+  chapter: '^# '
+account_en: >-
+  The page of Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty (1780 to
+  1845), in Maria Jadwiga Minakowska's online database Wielka genealogia
+  Minakowskiej (sejm-wielki.pl), person 4.285.278, the database's edition of
+  22 October 2026. He is the son of Kajetan Jan Aleksander Miączyński (1751 to
+  1801) and Teresa Teodora Rafałowicz (about 1749 to 1843), and a descendant
+  of the PSB heroes Atanazy Miączyński (1639-1723) and Antoni Miączyński
+  (1691-1774); a captain of the army of the Duchy of Warsaw, adjutant of
+  Prince Poniatowski, member of the Sejm of 1830-31, colonel of the Polish
+  army, knight of several orders, buried at Trąbczyn. What the sections
+  brought in give: his biographical line, his parents, the ancestor tree back
+  to his great-grandparents, and his marriage in Warsaw on 17 August 1810 to
+  Michalina Zofia Ostroróg-Prusimska (1778-1851), the only daughter of Antoni
+  Prusimski, with their four sons and the grandchildren and great-grandchildren
+  through them - among them Włodzimierz, heir of Trąbczyn, whom the edition's
+  summons of 1859-1860 names. The page's marriage date rests on the marriage
+  act it cites (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka);
+  where it differs from the edition's documents, the notes say so, and the
+  edition follows the documents. The database is compiled from the printed
+  armorials and biographies: its Uwagi section lists Boniecki (t. IV s. 157,
+  the Dąmbscy article), Sęczys's legitymacja record, the Nekrolog of the
+  Kurier Warszawski 111/1845, the Polski Słownik Biograficzny t. 20 s. 562,
+  the Czartoryski database, Dworzaczek, Łuszczyński and the Nekrologia
+  Minakowskiej, and the whole page, its Uwagi included, is kept in the work's
+  folder as the knowledgebase (full.md) though it is not shown here. Its
+  estimated dates, marked with a question mark ("?1790-"), are the database's
+  own guesses and are not evidence: the edition does not take them into its
+  prose. The tags in brackets are the site's marks of the province of an
+  office and are left as printed; the title "hr." ("count") carries the site's
+  mark [tytuł] nadany, a title granted, not inherited.
+account_de: >-
+  Die Seite von Stanisław Adam Miączyński von Miączyn, Wappen Suchekomnaty
+  (1780 bis 1845), in Maria Jadwiga Minakowskas Online-Datenbank Wielka
+  genealogia Minakowskiej (sejm-wielki.pl), Person 4.285.278, Ausgabe der
+  Datenbank vom 22.10.2026. Er ist der Sohn des Kajetan Jan Aleksander
+  Miączyński (1751 bis 1801) und der Teresa Teodora Rafałowicz (etwa 1749 bis
+  1843), und ein Nachkomme der PSB-Helden Atanazy Miączyński (1639-1723) und
+  Antoni Miączyński (1691-1774); Hauptmann der Armee des Herzogtums Warschau,
+  Adjutant des Fürsten Poniatowski, Mitglied des Sejm von 1830-31, Oberst der
+  polnischen Armee, Ritter mehrerer Orden, in Trąbczyn begraben. Was die
+  aufgenommenen Abschnitte geben: seine biografische Zeile, seine Eltern, den
+  Vorfahrenbaum bis zu den Urgroßeltern, und seine Ehe in Warschau am 17.
+  August 1810 mit Michalina Zofia Ostroróg-Prusimska (1778-1851), der einzigen
+  Tochter des Antoni Prusimski, mit ihren vier Söhnen und den Enkeln und
+  Urenkeln durch sie - unter ihnen Włodzimierz, Erbe von Trąbczyn, den die
+  Vorladung der Edition von 1859-1860 nennt. Das Ehejahr der Seite ruht auf
+  der Trauungsurkunde, die sie nennt (Warschau ASC Cyrkuł IV, Akt 67 von
+  1810, im Index von geneteka); wo die Seite von den Dokumenten der Edition
+  abweicht, sagen es die Anmerkungen, und die Edition folgt den Dokumenten.
+  Die Datenbank ist aus den gedruckten Wappenbüchern und Biographien
+  gearbeitet: ihr Uwagi-Abschnitt nennt Boniecki (T. IV S. 157, den Artikel
+  Dąmbscy), Sęczys' Legitimationsakt, den Nekrolog des Kurier Warszawski
+  111/1845, den Polski Słownik Biograficzny T. 20 S. 562, die
+  Czartoryski-Datenbank, Dworzaczek, Łuszczyński und die Nekrologia
+  Minakowskiej, und die ganze Seite, die Uwagi eingeschlossen, liegt als
+  Wissensspeicher (full.md) im Ordner des Werks, wird hier aber nicht
+  gezeigt. Ihre geschätzten Daten, mit einem Fragezeichen bezeichnet
+  ("?1790-"), sind Schätzungen der Datenbank und sind kein Beleg: die Edition
+  nimmt sie nicht in ihren Text. Die Marken in Klammern sind die
+  Wojewodschaftszeichen der Seite für ein Amt und bleiben gedruckt; der Titel
+  "hr." ("Graf") trägt die Marke der Seite [tytuł] nadany, ein verliehener,
+  kein erblicher Titel.

@@ -28,6 +28,15 @@
 
 patterns:
   person:
+    # The edition's entry for the Trąmpczyński family carries only_in (the
+    # five documents that name it), so its pattern matches nothing in the
+    # literature; this bare form gives the literature its hits, ruled like
+    # any other. Minakowska (2026, Wojciech Otto-Trąmpczyński) is the page
+    # of the sixteenth-century Wojciech, the by-name Otto's man.
+    # Minakowska (2026, Wojciech Otto-Trąmpczyński): the by-name "Otto-" in
+    # her subject's name and his descendants' names; a bare Trąmpczyński
+    # hits nothing extra here (the pattern's hits are the family).
+    trampczynski: 'Trąmpczy[nń]sk\w*'
     # Feuerbrände writes the Prince's name without the final e, and as an
     # adjective: "Hohenloh", "die Hohenloh'sche Armee", "die Hohenlohschen
     # Besitzungen" (3-132; Materialien p. 146 "Hohenloheschen").
@@ -76,6 +85,23 @@ patterns:
     krotoszyn: 'Crotozcyn\w*|Krotocz?yn\w*|Krotoscz?yn\w*'
 
 people:
+  trampczynski:
+    # The edition's own entry carries only_in (the five documents that name
+    # the family), so its pattern matches nothing in the literature; this
+    # bare form, added for Minakowska (2026, Wojciech Otto-Trąmpczyński),
+    # gives the literature its hits, ruled like any other.
+    # The page's hits are the subject and his descendants (the family the
+    # edition's entry covers): yes.
+    Trąmpczyński: yes
+    Trąmpczyńska: yes
+    # Chodyła (2015) n. 34: "w Trąmpczyńskich Ol." (the Olędry of
+    # Trąmpczyński, the placename of Marcin Hunt's holding, the site of the
+    # sitting of 17 X 1782): not a person, the colony's name.
+    Trąmpczyńskich: "no: 'w Trąmpczyńskich Ol.', the Olędry colony named for the family (Chodyła 2015, n. 34), not a person"
+    # Żychliński (1885) p. 187: "Janem **Trąmpczyńskim** herbu Topór (1700)",
+    # the husband of Teresa Gajewska in the Opaliński genealogy; not shown
+    # to be of the edition's family or of the page's line.
+    Trąmpczyńskim: "no: Jan Trąmpczyński of the arms Topór (Żychliński 1885, p. 187), the husband of Teresa Gajewska in the Opaliński genealogy; not shown to be of the edition's family or of the page's line"
   amelang: {Amelang: yes}
   beguelin: {Beguelin: yes}
   bernhard:
@@ -86,6 +112,12 @@ people:
     Bertrand: "no: the building inspector von Bertrand at Krotoszyn (Held), not Napoleon's General Bertrand"
   beyme: {Beyme: yes}
   bluecher: {Blücher: yes}
+  broniewski:
+    # Minakowska (2026, Helena Zielonacka): the Bronisz family her page
+    # carries - Wojciech Bronisz, cup-bearer (cześnik) of Żytomierz, and his
+    # descendants through her daughter Agnieszka of the second marriage:
+    # no person of the edition, and no relation to its Broniewski.
+    Bronisz: "no: the Bronisz family of Helena Zielonacka's second marriage (Wojciech Bronisz of Żytomierz and his descendants), not the edition's Broniewski"
   brzechffa:
     Brzechta: "no: Joseph Brzechta, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
     Brzechwa: "no: Joseph Brzechwa, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
@@ -213,9 +245,23 @@ people:
     # Chełmski" (c04), "od Ignacego Chełmskiego" (c06), "rodowód
     # Chełmskich" (c01, the pedigree that leads into the branch): the family
     # of the edition's entry.
+    # Minakowska (2026, Helena Zielonacka): the "Chełmski" of
+    # "Ścibor-Chełmski" on her page are her husband Józef Ścibor-Chełmski
+    # (named with his brother Franciszek by the decree of 1728, APP
+    # 53/6/0/-/40, and by Boniecki c04 her husband), his and her son Tomasz,
+    # and Tomasz's sons Franciszek Ksawery, Stanisław (1795-1867) and
+    # Stanisław Józef (1807-1877): the family of the edition's entry. Her
+    # sons Heliodor and Stanisław the Treasurer are of it too, but their
+    # names on the page stand without the surname ("Heliodor", "Stanisław,
+    # skarbnik [poz] Wschowa"), so the pattern does not take them.
     Chełmski: yes
     Chełmskiego: yes
     Chełmskich: yes
+    # The feminine form: "Katarzyna, Józefa, Nepomucena and Izabela
+    # Honorata Ścibor-Chełmska" (Minakowska 2026, Helena Zielonacka, c02) -
+    # Józef's daughters and granddaughter, the family of the edition's
+    # entry.
+    Chełmska: yes
     Chełmscy: "no: the heading of Boniecki's article, the whole family of the arms Ostoja; its Łukomia branch is found by the names in the passages"
   koeckritz: {Köck: yes}
   kuh:
@@ -227,28 +273,43 @@ people:
     Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935, Chodyła 2015); not the appeal judge von Lipski at Kalisz in the edition's letters"
   luka:
     Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
+  malachowski:
+    # Minakowska (2026, Stanisław Adam Miączyński): the Małachowski of the
+    # database's line markers of Maria née Słubicka's descent (Antoni
+    # 5.367.323, Jacek 9.522.619, Stanisław 3.598.213), her forebears in
+    # the database's kinship furniture; not the president of the
+    # Commission.
+    Małachowski: "no: the Małachowski of the line markers of Maria née Słubicka's descent (Antoni, Jacek and Stanisław), not the president Stanisław Małachowski"
   massow:
     Massow: "no: the forest master von Massow (Guradze) and a signatory of 1800 (Held); not the edition's Massow"
   miaczynski:
+    # The two Miączyński blocks stand merged: a second key of the same name
+    # shadows the first in YAML, and the zychlinski exceptions were dead
+    # from 2026-10-22 until now.
     Miączyński:
       default: yes
       except:
         zychlinski1885/188: "Władysław Miączyński, Michalina's grandson, not Stanisław"
         zychlinski1891/223: "Włodzimierz Miączyński, Stanisław's son"
         zychlinski1891/224: "Atanazy Miączyński, the forebear of the family"
+        # Minakowska (2026, Antoni Prusimski): the bare "Miączyński" of the
+        # grandchildren's list names Stanisław's sons and grandsons (Aleksander,
+        # Stanisław, Władysław, Włodzimierz, Mieczysław, Witold, Józef Piotr
+        # Paweł, Tadeusz, Jerzy), not Stanisław the husband himself. The
+        # "Kajetan Miączyński" of the (linia:) on c03 is his forebear, and stands
+        # only inside the passage about his marriage.
+        minakowska2026prusimski/c04: "Stanisław's sons and grandsons, not Stanisław himself"
+        # Minakowska (2026, Stanisław Adam Miączyński): the parents' and
+        # ancestors' sections and the children's list. The front (the
+        # subject's own line and the Wikipedia line, with one (linia:) of
+        # his father) and the tree (his forebears with his own row) are
+        # mixed and left standing: the passages name him.
+        minakowska2026miaczynski/c01: Kajetan Jan Aleksander, his father, not Stanisław
+        minakowska2026miaczynski/c03: "Aleksander Adam Stanisław, his son (both hits of the line: his surname and the line marker of Kajetan), not Stanisław"
+        minakowska2026miaczynski/c04: his sons Włodzimierz, Mieczysław, Witold and Józef Piotr Paweł, his grandsons Stanisław, Władysław Atanazy, Witołd and Tadeusz Franciszek Władysław, and his great-grandsons Alfred and Władysław Józef, not Stanisław himself
     Miączyńskiego: yes
     Miączyńskiemu: yes
     Miączyńskim: yes
-    # Minakowska (2026, Antoni Prusimski): the bare "Miączyński" of the
-    # grandchildren's list names Stanisław's sons and grandsons (Aleksander,
-    # Stanisław, Władysław, Włodzimierz, Mieczysław, Witold, Józef Piotr
-    # Paweł, Tadeusz, Jerzy), not Stanisław the husband himself. The
-    # "Kajetan Miączyński" of the (linia:) on c03 is his forebear, and stands
-    # only inside the passage about his marriage.
-    Miączyński:
-      default: yes
-      except:
-        minakowska2026prusimski/c04: "Stanisław's sons and grandsons, not Stanisław himself"
   napoleon: {Napoleon: yes}
   neumann:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
@@ -288,6 +349,7 @@ people:
       default: yes
       except:
         minakowska2026prusimski/c03: "Marianna née Dąmbska, the Starost's wife, not Michalina"
+        minakowska2026miaczynski/c03: "Marianna née Dąmbska, Michalina's mother, named on her marriage line, not Michalina"
     # Minakowska (2026, Antoni Prusimski), the grandchildren's list: the
     # Countesses Miączyńska are Michalina's daughters and
     # granddaughters, not Michalina herself.
@@ -295,6 +357,7 @@ people:
       default: yes
       except:
         minakowska2026prusimski/c04: "Stanisława, Wanda, Michalina, Zdzisława and Maria, Michalina's granddaughters, not Michalina herself"
+        minakowska2026miaczynski/c04: "Stanisława, Wanda, Elżbieta, Maria, Zdzisława, Michalina and Olga, the daughters, granddaughters and great-granddaughters, not Michalina herself"
     Prusimska: yes
   prusimska-katarzyna:
     # Chodyła (2015): Katarzyna Prusimska, born Rozdrażewska, with Paweł the
@@ -614,6 +677,13 @@ places:
     Trąbczyńskie: yes
     Trąbczyńskimi: yes
     Trąbczyńskim: "no: Michalinów Trąbczyński, a later village named after Trąbczyn (Chodyła 2015)"
+  trabczynskie-stare-oledry:
+    # The editor's ruling of 2026-10-22: Kolonia Łazińskie (Mielewczyk 2017,
+    # p. 48, among the new villages founded on the parcelled lands of the
+    # Trąbczyn property) is a variant of Łazińsk/Lazinsk — the colony the
+    # register records as Trąbczyńskie Stare Olędry. This settles the open
+    # question of which colony the form names.
+    "Kolonia Łazińskie": yes
   wieniec:
     Wieniec: yes
     Winiec: yes
@@ -897,6 +967,9 @@ places:
   wien: {Wien: yes}
   wieruszow:
     Wieruszów: "no: the village of Wieruszów in the commune of Gosławice by Konin (Breyer); not the town by Sokolniki of the edition's letters"
+    # Minakowska (2026, Helena Zielonacka): "h. Wieruszowa", the arms in
+    # the names of the Wierusz-Kowalski family on her page; not the town.
+    Wieruszowa: "no: the arms Wieruszowa in the names of the Wierusz-Kowalski family, not the town"
   wrabczyn:
     Wrąbczyn: yes
     Wrąbczynkowskie: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"

@@ -69,6 +69,12 @@ person:
     - key: '28'
       en: p. 28
       de: S. 28
+  - work: minakowska2026zielonacka
+    cite: Minakowska (2026, Helena Zielonacka)
+    pages:
+    - key: c02
+      en: Spouses and children, the grandchildren, and up to the great-grandchildren
+      de: Spouses and children, the grandchildren, and up to the great-grandchildren
   constantin:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -1170,12 +1176,6 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
-    - key: '223'
-      en: p. 223
-      de: S. 223
-    - key: '224'
-      en: p. 224
-      de: S. 224
   - work: pachonski1982
     cite: Pachoński (1982)
     pages:
@@ -1188,6 +1188,15 @@ person:
     - key: '40'
       en: p. 40
       de: S. 40
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: c02
+      en: Przodkowie
+      de: Przodkowie
   - work: minakowska2026prusimski
     cite: Minakowska (2026, Antoni Prusimski)
     pages:
@@ -1453,6 +1462,12 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
   pontanus:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1501,6 +1516,12 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   - work: minakowska2026prusimski
     cite: Minakowska (2026, Antoni Prusimski)
     pages:
@@ -1557,6 +1578,12 @@ person:
     - key: '32'
       en: p. 32
       de: S. 32
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   - work: minakowska2026prusimski
     cite: Minakowska (2026, Antoni Prusimski)
     pages:
@@ -1930,6 +1957,16 @@ person:
     - key: '150'
       en: p. 150
       de: S. 150
+  trampczynski:
+  - work: minakowska2026ottotrampczynski
+    cite: Minakowska (2026, Wojciech Otto-Trąmpczyński)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
+    - key: c01
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   triebenfeld:
   - work: held1801
     cite: Held (1801)
@@ -2629,6 +2666,12 @@ place:
     - key: '582'
       en: p. 582
       de: S. 582
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: c03
+      en: śluby i dzieci, wnuki, i do prawnuków
+      de: śluby i dzieci, wnuki, i do prawnuków
   - work: minakowska2026prusimski
     cite: Minakowska (2026, Antoni Prusimski)
     pages:
@@ -3458,6 +3501,12 @@ place:
     - key: '56'
       en: p. 56
       de: S. 56
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -3486,6 +3535,12 @@ place:
     - key: '224'
       en: p. 224
       de: S. 224
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: front
+      en: Before the first page
+      de: Vor der ersten Seite
   wrabczyn:
   - work: breyer1938
     cite: Breyer (1938)

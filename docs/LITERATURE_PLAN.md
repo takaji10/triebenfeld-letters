@@ -678,6 +678,9 @@ A saved page of M. J. Minakowska's Wielka genealogia Minakowskiej
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
 | `minakowska2026prusimski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
+| `minakowska2026zielonacka` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Helena Zielonacka (ID: 2.976.216), wydanie z 22.10.2026 | English (the site's English user interface; the names and the source lines Polish) | none: cut at headings | yes: the editor's sections only |
+| `minakowska2026miaczynski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Stanisław Adam Miączyński (ID: 4.285.278), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
+| `minakowska2026ottotrampczynski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Wojciech Otto-Trąmpczyński (ID: sw.35437), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
 
 The editor's word (2026-10-22), the standing rule for the pages of this
 database that follow:
@@ -723,10 +726,76 @@ database that follow:
   relatives the edition has no entries for, so most surname-only rulings
   for such a work are "no, this is the father/the son", with the reason.
 
+Additions the second page brought (2026-10-22), standing with the rule:
+
+- **The work's language is the saved page's own.** The database renders its
+  pages in the reader's language, so one saved page is Polish and the next
+  English. A work whose page is English has `language: en` and no
+  `english.md` - the page as saved is the one text, as Mączak (1968) is;
+  the names, the offices and the source lines stay Polish whatever the
+  interface. A future page takes whichever language its saved page carries.
+- **The ID tells where the person's entry comes from.** The database's
+  Boniecki-derived IDs are `2.976.*` (the article number of the online
+  Boniecki): Helena Zielonacka's 2.976.216 is an entry of the article the
+  edition holds as `boniecki1900`, and lies inside the item range that work
+  brought in. Check such an ID against the edition's works before ruling
+  what the page adds.
+- **A standalone person page.** The page's subject may be in none of the
+  edition's documents (Helena is the Chełmski wife, and the family is a
+  family entry): her block in `reference/genealogy.yml` then carries
+  `standalone: true` with its own heading and biography, her page has no
+  list of documents, and the literature she belongs to is named by hand
+  (`literature_passages:`), because the index matches only the edition's
+  own persons. A source may name a work without a passage: it links the
+  work's page.
+- **The status line is chrome, the fact is recorded.** Each page's header
+  carries a status line ("Najbliższa rodzina uczestnika Sejmu Wielkiego",
+  "Not belonging to the Genealogy of descendants of the Great Sejm"): it is
+  dropped with the rest of the chrome, and its statement goes into the
+  work's `notes.md`, not into the site's text.
+
 The first page (Antoni Prusimski, 2026-10-22): what it brought against the
 documents is in its `notes.md`; the family, the Uwagi sentence and the 115
 documents are on /people/prusimski/ (German /de/personen/prusimski/), linked
 from his entry on the People page. The index: 31 hits, all ruled.
+
+The second page (Helena Zielonacka, 2026-10-22, "related to Chełmski"): the
+Chełmski line through the wife of the decree of 1728's Józef - the
+marriage, the canon Heliodor and the Treasurer Stanisław of the decree of
+1775, and Tomasz's line; the regest of 1727 (her dowry recorded on
+Józef's estates, the Konin books) is in the knowledgebase. What it brought
+against the documents is in its `notes.md`; her page is
+/people/helena-zielonacka/ (/de/personen/helena-zielonacka/), a standalone
+person with the literature named by hand. The index: 6 hits, all the
+Chełmski family's, all ruled.
+
+The third page (Stanisław Adam Miączyński, 2026-10-22): the edition's
+`miaczynski` himself - the second husband of Michalina Prusimska, heir of
+Trąbczyn and Wieniec by the legitymacja of 1838, with the marriage act of
+17 August 1810 that the page cites (the edition's entries say "about 1814",
+inferred from the letters of 1815: NEEDS_CONFIRMATION, nothing changed
+yet). His page /people/miaczynski/ is the first whose genealogy block hangs
+on an entry of the edition: the documents and the automatic literature box
+beside the family. What the page brought against the documents and the
+entries is in its `notes.md`; the index: 47 hits, all ruled - including the
+four pairs the second page's session had left unruled (Bronisz, Chełmska,
+Małachowski, Wieruszowa) - and the two duplicate `Miączyński:` keys of the
+miaczynski section stood merged, whose shadowing had silenced the three
+zychlinski exceptions since 2026-10-22.
+
+The fourth page (Wojciech Otto-Trąmpczyński, 2026-10-22): the
+sixteenth-century man of the edition's Trąmpczyński family - the
+database's "sw." number, its first of the Teki Dworzaczka regest numbers,
+and the regest of 1614 (his son's marriage portion, Pyzdry books) is the
+page's one source. His page /people/wojciech-otto-trampczynski/ is the
+second standalone, and its slug is deliberately not the family entry's:
+**a standalone block's slug must not be an entry's slug** - a block keyed
+`trampczynski` collided with the family entry's heading and bio in the
+layout, and was renamed. What the work forced in the pipeline: the index
+dedup dropped an extra pattern's hit whenever an edition pattern of the
+same slug fullmatched the surface, whether or not it could fire - an
+`only_in` person's literature hits could never be counted; it now asks
+`applies()` first. The index: 9 hits, all ruled, `--check` clean.
 
 ## 23. Łukasiewicz (1997) (2026-10-22)
 

@@ -1386,6 +1386,16 @@ cloud branches").
   And `assets/doc-list.js` takes every `details.doclist` on the page for a
   list of documents, so another closed list on /people/ or /places/ needs
   its own class (`litlist`).
+- **Two Liquid traps of the newspapers pages** (2026-10-22). Liquid counts
+  the empty string as true: `{% if w.image %}` rendered the figure for an
+  item whose `image:` is empty, with the file name empty after it, and
+  verify_site.py caught the broken link — the comparison is explicit now
+  (`{% if w.image and w.image != '' %}`, `_layouts/newspaper.html`). And
+  Liquid cannot build a bracket key by concatenation:
+  `t['lit_lang_' + w.language]` is nil, which left the Language fact of
+  every item on the Newspapers list page blank (the item pages had done it
+  right, with an `assign`); `_includes/newspapers.html` assigns
+  `w_lang` first now.
 - **A hand-made link says what each side says, and every figure in it is
   read in both** (the links of the black register, 2026-10-19;
   `literature/links.yml`). Its sentence is shown under the passage and
@@ -1560,6 +1570,26 @@ cloud branches").
   is shown at the top. Answers went to `review/dp19370807/
   query_answers.json` (git-ignored, like all review/); the rulings are
   recorded in the item's notes.md, which is tracked.
+- **A WBC content URL sits behind the site's browser check** (2026-10-22,
+  the Ostdeutscher Beobachter item). `webfetch` to
+  `wbc.poznan.pl/dlibra/publication/<pub>/edition/<ed>/content` returns only
+  "Site is under high load"; the record's citation is still to be had —
+  search results carry the WBC titles verbatim ("... 1943.07.17 Jg.5
+  Nr195"), and the library's BibTeX endpoint
+  (`wbc.poznan.pl/dlibra/dlibra.bib?type=e&id=<object>`) returns the record
+  as a citation. Do not block the item on the record: the issue's year and
+  number, the place and the publisher are enough to cite, and the
+  Zeitschriftendatenbank carries the paper's full title.
+- **Sessions share the desktop tree, and one may commit the whole dirty
+  file** (2026-10-22). The Twoja Słupca session's commit of
+  `newspapers/index.yml` carried the Ostdeutscher-Beobachter work's
+  uncommitted rulings that sat in the same file — harmless here, both being
+  finished rulings for committed items, but a half-written hunk of yours can
+  travel in another session's commit. When a file you must edit is shared,
+  make the edit and stage or commit it promptly (a filtered
+  `git apply --cached` for a file that also carries another session's
+  work), and check `git log` for new commits from parallel sessions before
+  assuming what HEAD holds.
 - **A Wikisource page of Arct's dictionary has no text of its own**
   (2026-10-21). Its source (`action=raw`) is only a template naming the
   scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the
@@ -1955,3 +1985,66 @@ cloud branches").
   and say so in the report; a fresh rebuild regenerates them from the
   committed works. A verify failure naming a work this session never
   touched is that work's session's in-flight state.
+
+- **The second Minakowska page, three lessons** (2026-10-22). The database
+  renders its pages in the reader's language: Helena Zielonacka's page was
+  saved in the ENGLISH interface ("Parents", "Married about 1720 to"),
+  where the first was Polish - so a work of this database takes its
+  language from the page as saved, and a work with `language: en` has no
+  `english.md` (Mączak's case; the chrome keys of `make_original.py` are
+  per work, keyed on the language's own strings). The ID tells where the
+  person's entry comes from: `2.976.216` is an entry of the online
+  Boniecki's article 2.976 - the article the edition holds as
+  `boniecki1900` - and the first thing to check is what that work already
+  carries of the person. And a page's subject may be no person of the
+  edition at all: `standalone: true` in `reference/genealogy.yml` gives
+  the block its own heading and bio, the page drops the documents section,
+  and `literature_passages:` names the literature by hand; `person_pages.py`
+  validates the shape, and a source may name a work without a passage
+  (the work's own page).
+- **`genealogy.yml` and the "ca"** (2026-10-22). The first block had
+  silently dropped a "ca" (Stanisław Miączyński "ca 1849-1860" was written
+  "1849–1860"); the rule says a "ca" keeps its "ca". When a date moves from
+  a source into the genealogy block, diff the token against the source, not
+  against memory.
+
+- **YAML duplicate keys shadow silently** (2026-10-22). The miaczynski
+  section of `literature/index.yml` had TWO `Miączyński:` keys - the
+  second, added for the first Minakowska work, was shadowing the first
+  (which carries the zychlinski exceptions), and safe_load raises nothing:
+  the three exceptions were simply dead. When adding a ruling, merge into
+  the existing key; never add a second one of the same name. A `--check`
+  that passes does not catch this - only reading the section as text does.
+- **The Minakowska pages vary in their section set** (2026-10-22). The
+  first page had no Rodzeństwo section (the database knew no siblings of
+  Antoni Prusimski), the third does - so `make_original.py` stops the
+  editor's selection at the first section outside it (here Rodzeństwo,
+  there the mother's other marriages), not at a fixed heading. New marks
+  the third page brought: "hr. [tytuł] nadany" (a count's title granted,
+  translated "count [title] granted"), the Towarzystwo Rolnicze districts
+  as offices, the page's own Wikipedia line (kept), and the status list
+  with its "(linia: …)" markers joined into one line.
+- **A genealogy page can sharpen a date the edition only inferred**
+  (2026-10-22). The letters of 1815 name Miączyński the husband; the
+  edition inferred "about 1814"; the database's page cites the marriage
+  act of 17 August 1810. The conflict is shown on the site (both, the
+  flag beside the new date) and nothing is corrected until the editor
+  rules - NEEDS_CONFIRMATION carries it.
+- **An `only_in` person is invisible to the literature index until the
+  dedup asks `applies()`** (2026-10-22). The edition's `trampczynski`
+  entry carries `only_in`, so its pattern cannot fire in a literature
+  uid; the extra-pattern route would have supplied the hits, but the
+  dedup in `literature_index.hits()` dropped them - it asked only whether
+  an edition pattern of the same slug fullmatched the surface, not
+  whether it could apply to the record. Fixed (2026-10-22,
+  `minakowska2026ottotrampczynski`): the dedup now asks `applies()`
+  first. Lesson: when a work's hits come out as zero while the text
+  plainly carries the name, suspect a fence (only_in, not_in) before
+  suspecting the pattern.
+- **A standalone block's slug must not be an entry's slug** (2026-10-22).
+  The fourth Minakowska page's block was first keyed `trampczynski` - the
+  family entry's own slug - and the page took the family's heading and
+  bio from people.yml, the block's bio nowhere on it. The block was
+  renamed `wojciech-otto-trampczynski`; the collision and the rule are
+  recorded in the block's comment in `reference/genealogy.yml`. The
+  family entry itself keeps no page (it never had a genealogy block).

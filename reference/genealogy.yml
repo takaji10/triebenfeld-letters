@@ -10,15 +10,25 @@
 # Dates: the database's estimated dates are never recorded here (the
 # editor, 2026-10-22: "be very careful with accepting the estimated dates
 # of birth/death for people - I wouldn't use them at all"). A date is given
-# only where its source states it without an estimate. Where the source
-# writes "ca", the date keeps its "ca" and stays open to qualification from
-# the documents; such an open date is flagged in docs/NEEDS_CONFIRMATION.md.
+# only where its source states it without an estimate: a "?1710-" token is
+# left out, and where the source writes "ca" the date keeps its "ca" and
+# stays open to qualification from the documents; such an open date is
+# flagged in docs/NEEDS_CONFIRMATION.md. The database's trailing slash
+# ("1794-1821/") is its own notation and is not carried into the display.
+#
+# A block for a person who has no entry of the edition (`standalone: true`)
+# is one whose subject is in none of the documents: it carries its own
+# heading and biography, its page has no list of documents, and the
+# literature it belongs to is named by hand (`literature_passages:`), the
+# index matching only the edition's own persons. The editor's rule of
+# 2026-10-22 still governs every fact: the documents first where they
+# speak, the work's citation beside every fact, the estimates nowhere.
 #
 # pipeline/build/person_pages.py validates this file against the generated
-# data (site/_data/people.yml, literature_mentions.yml) and writes
+# data (site/_data/people.yml, corpus/literature/index.json) and writes
 # site/_data/genealogy.yml from it, which the person page renders. A block
-# whose slug is a shown person makes that person a page, in both languages;
-# the entry on /people/ then links to it.
+# for a shown person makes that person a page, in both languages, and the
+# entry on /people/ links to it; a standalone block makes the page alone.
 
 people:
   prusimski:
@@ -66,7 +76,7 @@ people:
             children:
               - {name: "Stanisława Miączyńska", dates: "1848–1860"}
               - {name: "Wanda Michalina Paulina Miączyńska", dates: "1849–1875"}
-              - {name: "Stanisław Miączyński", dates: "1849–1860"}
+              - {name: "Stanisław Miączyński", dates: "ca 1849–1860"}
               - {name: "Władysław Atanazy Gustaw Miączyński", dates: "born 1852"}
           - name: Włodzimierz Miączyński
             dates: "1811–1879"
@@ -113,3 +123,322 @@ people:
       verstorbenen Oheime Paweł und Antoni gegeben wurde. Die ganze Seite,
       diese eingeschlossen, liegt im Ordner des Werks; nichts davon wird
       hier gezeigt.
+
+  helena-zielonacka:
+    # Helena Zielonacka, the wife of Józef Ścibor-Chełmski. Not a person of
+    # the edition: she is named in none of its documents, and the Chełmski
+    # family is a family entry (chemski). Her page stands on this block
+    # alone; the literature she belongs to is named by hand, because the
+    # index matches only the edition's own persons. Her value to the
+    # edition is the Chełmski line she carries: her husband is the Józef of
+    # the decree of 1728, her sons the Heliodor and the Stanisław of the
+    # boundary decree of 1775.
+    standalone: true
+    heading: "Helena Zielonacka"
+    heading_de: "Helena Zielonacka"
+    bio: >-
+      Helena Zielonacka, daughter of Andrzej Zielonacki and Joanna née
+      Wierusz-Kowalska, and the wife of Józef Ścibor-Chełmski of Chełm and
+      Wola, arms Ostoja, heir of Łukomia and Łomowo - the Józef whom the
+      edition's decree of 1728 names with his brother Franciszek, and whom
+      Boniecki's article records as her husband. Through her the database's
+      page carries the Chełmski line: the canon Heliodor and Stanisław,
+      Treasurer of Wschowa, the brothers of the boundary decree of 1775,
+      and Tomasz's line to the Stanisław of 1795-1867 and the Stanisław
+      Józef of 1807-1877. The database gives her no certain dates - "born
+      possibly in 1700" is its estimate, and none is shown here; the record
+      of 1727 has her already married.
+    bio_de: >-
+      Helena Zielonacka, Tochter des Andrzej Zielonacki und der Joanna geb.
+      Wierusz-Kowalska, und die Frau des Józef Ścibor-Chełmski von Chełm und
+      Wola, Wappen Ostoja, Erbe von Łukomia und Łomowo - der Józef, den das
+      Dekret der Edition von 1728 neben seinem Bruder Franciszek nennt, und
+      den Bonieckis Artikel als ihren Mann verzeichnet. Durch sie trägt die
+      Seite der Datenbank die Linie der Chełmski: den Domherrn Heliodor und
+      Stanisław, Schatzmeister von Wschowa, die Brüder des Grenzdrechts von
+      1775, und die Linie des Tomasz zu dem Stanisław von 1795-1867 und dem
+      Stanisław Józef von 1807-1877. Die Datenbank gibt ihr keine sicheren
+      Daten - "vielleicht 1700 geboren" ist ihre Schätzung, und keines wird
+      hier gezeigt; die Aufzeichnung von 1727 hat sie bereits verheiratet.
+    parents:
+      - name: Andrzej Zielonacki
+        source: "minakowska2026zielonacka/c01"
+      - name: Joanna née Wierusz-Kowalska
+        source: "minakowska2026zielonacka/c01"
+        note: "daughter of Marcin Wierusz-Kowalski of Kowale; widowed of Zielonacki, she married Jan Imieliński and then Antoni Wstowski"
+        note_source: "minakowska2026zielonacka"
+    marriages:
+      - name: Józef Ścibor-Chełmski of Chełm and Wola, arms Ostoja
+        note: "heir of Łukomia and Łomowo, son of Andrzej Ścibor-Chełmski, ensign (chorąży) of Sandomierz, and N. née Pałuska; the database's marriage year (about 1720) is its estimate and is not shown; the record of 1727 has him her guardian as well as her husband"
+        source: "minakowska2026zielonacka/c02; boniecki1900/c04"
+        note_source: "app536040-1"
+      - name: Jakub Rościszewski of Rościszewo, arms Junosza
+        note: "son of Wawrzyniec Rościszewski; the database's marriage year (about 1740) is its estimate and is not shown"
+        source: "minakowska2026zielonacka/c02"
+    children:
+      - name: Katarzyna Ścibor-Chełmska
+        source: "minakowska2026zielonacka/c02"
+      - name: Heliodor
+        note: "canon of Poznań by 1765 (the page and Boniecki); the boundary decree of 1775 calls him canon of Chełmno - the offices may be of different years, and the edition follows the decree for 1775"
+        source: "minakowska2026zielonacka/c02"
+        note_source: "app53170koningr145-1"
+      - name: Stanisław
+        note: "Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April 1778 already gives it, and the edition follows the document; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo"
+        source: "minakowska2026zielonacka/c02"
+        note_source: "app53170koningr117-4; app536045-1"
+      - name: Józefa
+        note: "married Jakub Bieńkowski (1759-1806); children Cecylia, Marianna Dorota (born 1793) and Tadeusz (1794-1821)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Nepomucena
+        note: "married Kasper Bieńkowski (1767-1824); son Ignacy (1789-1845)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Tomasz
+        note: "married Ludwika née Skórzewska; children Stanisław (1795-1867), Izabela Honorata (ca 1799-1839) and Franciszek Ksawery (ca 1779-1844), whose son was Stanisław Józef (1807-1877)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Agnieszka Rościszewska
+        note: "daughter of the second marriage; married Wojciech Bronisz, cup-bearer (cześnik) of Żytomierz by 1778, with the Bronisz line through her to Onufry (1794-1860) and Maria (1849-1913)"
+        source: "minakowska2026zielonacka/c02"
+    notes: >-
+      The page's Notes name two sources: Boniecki's Herbarz polski (t. II,
+      s. 364, the article Chełmscy h. Ostoja, where her marriage to Józef is
+      recorded - the edition holds the branch that concerns it as
+      `boniecki1900`), and a regest of the Konin municipal court's record of
+      1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "heir of the estates
+      of Łukom and Łomowo", having received 3,000 złp from Kazimierz
+      Zielonacki for Helena, daughter of the late Andr Zielonacki by Joanna
+      Kowalska, now his wife, his ward as well, recorded the sum on his own
+      estates against her portion from her father's (fol. 196 verso). The
+      whole page, these included, is kept in the work's folder; none of it
+      is shown here.
+    notes_de: >-
+      Die Notes der Seite nennen zwei Quellen: Bonieckis Herbarz polski
+      (T. II, S. 364, den Artikel Chełmscy h. Ostoja, wo ihre Ehe mit Józef
+      steht - die Edition hält den Zweig, den sie betrifft, als
+      `boniecki1900`), und ein Regest der Aufzeichnung des Stadtrechts von
+      Konin von 1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "Erbherr
+      der Güter Łukom und Łomowo", der 3.000 złp von Kazimierz Zielonacki
+      für Helena empfangen hatte, die Tochter des verstorbenen Andrzej
+      Zielonacki und der Joanna Kowalska, jetzt seine Frau, zugleich seine
+      Mündel, trug die Summe auf seinen eigenen Gütern gegen ihre Portion
+      aus den Gütern ihres Vaters ein (fol. 196 verso). Die ganze Seite,
+      diese eingeschlossen, liegt im Ordner des Werks; nichts davon wird
+      hier gezeigt.
+    literature_passages:
+      - "boniecki1900/c04"
+      - "minakowska2026zielonacka/c02"
+
+  miaczynski:
+    # Stanisław Adam Miączyński, the edition's Stanisław Miączyński. The
+    # letters know him only as Michalina's husband (Moscinski, Moszynski,
+    # "M. de Mięczynsky"); this page of the database names him fully and
+    # gives him his stated dates, his parents and ancestry, the marriage
+    # date with the act it rests on, and the four sons. Every date on this
+    # block is stated by the page, none is its estimate.
+    born: "24 December 1780, at Warsaw"
+    born_source: "minakowska2026miaczynski/front"
+    died: "12 April 1845, at Berlin"
+    died_source: "minakowska2026miaczynski/front"
+    parents:
+      - name: "Kajetan Jan Aleksander Miączyński of Miączyn, arms Suchekomnaty"
+        dates: "1751–1801"
+        note: "a 'hero of the PSB'; died 26 November 1801 at Żytomierz; widowed of Teresa, he married Tekla née Jabłonowska in 1797 at Zwinogródka"
+        source: "minakowska2026miaczynski/c01"
+        note_source: "minakowska2026miaczynski"
+      - name: "Teresa Teodora Rafałowicz"
+        dates: "ca 1749–1843"
+        note: "born about 1749, died 27 April 1843 at Warsaw; widowed of Miączyński, she married Józef Kajetan Ossoliński of Balice in 1807 at Warsaw"
+        source: "minakowska2026miaczynski/c01"
+        note_source: "minakowska2026miaczynski"
+    marriages:
+      - name: "Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz"
+        dates: "1778–1851"
+        note: "the edition's Michalina z Prusimskich Dąbska, later Miączyńska, only daughter of the Starost Antoni Prusimski; married in Warsaw on 17 August 1810 - the page's date rests on the marriage act it cites (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka), while the edition's entry says about 1814, inferred from the letters of 1815 that already name him her husband: NEEDS_CONFIRMATION"
+        link: prusimska
+        source: "minakowska2026miaczynski/c03"
+        note_source: "minakowska2026miaczynski"
+    children:
+      - name: "Aleksander Adam Stanisław Miączyński"
+        dates: "1810–1869"
+        source: "minakowska2026miaczynski/c04"
+        note: "count by title granted in 1853; officer of the November Uprising; married Bronisława née Kalkstein (1825–1858)"
+        children:
+          - name: "Stanisława Miączyńska"
+            dates: "1848–1860"
+          - name: "Wanda Michalina Paulina Miączyńska"
+            dates: "1849–1875"
+            note: "married Gustaw Tadeusz Potworowski (1842–1892)"
+          - name: "Stanisław Miączyński"
+            dates: "ca 1849–1860"
+          - name: "Władysław Atanazy Gustaw Miączyński"
+            dates: "born 1852"
+            note: "married Helena Maria née Potocka (1862–1937)"
+            children:
+              - name: "Elżbieta Miączyńska"
+                dates: "1884–1937"
+              - name: "Alfred Maria Franciszek Miączyński"
+                dates: "1885–1913"
+              - name: "Maria Miączyńska"
+                dates: "1888–1919"
+                note: "married Władysław Karski (1859–1916)"
+              - name: "Jerzy Bernard Miączyński"
+                dates: "1860–1913"
+      - name: "Włodzimierz Miączyński"
+        dates: "1811–1879"
+        source: "minakowska2026miaczynski/c04"
+        note: "the edition's entry; heir of the Trąbczyn estate, living there in 1860; died 20 December 1879"
+        link: miaczynski-wlodzimierz
+        note_source: "editor"
+      - name: "Mieczysław Miączyński"
+        dates: "1818–1887"
+        source: "minakowska2026miaczynski/c04"
+        note: "an official of the Kingdom of Poland (1858-1859); married Maria Bibianna Franciszka née Słubicka (1828–1865)"
+        children:
+          - name: "Zdzisława Miączyńska"
+            dates: "1845–1876"
+            note: "married Zbigniew Marcin Dzierżykraj-Morawski (1841–1889)"
+            children:
+              - name: "Maria Dzierżykraj-Morawska"
+                dates: "1871–1876"
+              - name: "Joanna Dzierżykraj-Morawska"
+                dates: "born 1874"
+              - name: "Zdzisława Dzierżykraj-Morawska"
+                dates: "1876–1973"
+      - name: "Witold Michał Miączyński"
+        dates: "1823–1880"
+        source: "minakowska2026miaczynski/c04"
+        note: "count by title granted in 1875; married Klementyna Klemencja Cecylia née Glińska (1826–1895)"
+        children:
+          - name: "Michalina Miączyńska"
+            dates: "1848–1927"
+            note: "married Ambroży Feliks Teofil Zaborowski (1833–1899)"
+            children:
+              - name: "Cyprian Jan Michał Zaborowski"
+                dates: "1870–1873"
+              - name: "Józef Zaborowski"
+                dates: "1871–1911"
+              - name: "Michał Zaborowski"
+                dates: "1872–1903"
+              - name: "Jan Nepomucen Bonifacy Zaborowski"
+                dates: "1874–1940"
+              - name: "Maria Zaborowska"
+                dates: "1875–1953"
+              - name: "Zygmunt Jan Zaborowski"
+                dates: "1876–1948"
+              - name: "Teresa Zaborowska"
+                dates: "ca 1894–1978"
+          - name: "Józef Piotr Paweł Miączyński"
+            dates: "1854–1923"
+            note: "married Maria née Kołupajło (1857–1907)"
+            children:
+              - name: "Witołd Józef Ferdynand Miączyński"
+                dates: "1881–1936"
+                note: "married Paulina née Suchorzewska"
+          - name: "Tadeusz Franciszek Władysław Miączyński"
+            dates: "1857–1923"
+            note: "married his cousin Maria Miączyńska (1862–1919)"
+            children:
+              - name: "Władysław Józef Miączyński"
+                dates: "1886–1932"
+              - name: "Olga Klementyna Maria Miączyńska"
+                dates: "ca 1888–"
+    notes: >-
+      The page's Uwagi name Boniecki's Herbarz polski (t. IV, s. 157, the
+      article Dąmbscy v. Dąbscy h. Godziemba - his wife's family), Sęczys's
+      Szlachta wylegitymowana (le.2259.3.8, his legitymacja of 1838: "płk WP,
+      dz. d. Trąbczyn, pow. koniński i Wieniec, pow. brzeski"), the Nekrolog
+      of the Kurier Warszawski 111/1845 (died 12 IV 1845 at Berlin, in his
+      65th year), the Polski Słownik Biograficzny t. 20 s. 562
+      (psb.17772.5), the Czartoryski database, Dworzaczek's Genealogia,
+      Łuszczyński's Silva Heraldica, the Nekrologia Minakowskiej, and the
+      marriage act of Warsaw ASC Cyrkuł IV 67/1810 with its archive link.
+      The whole page, these included, is kept in the work's folder; none of
+      it is shown here.
+    notes_de: >-
+      Die Uwagi der Seite nennen Bonieckis Herbarz polski (T. IV, S. 157, den
+      Artikel Dąmbscy v. Dąbscy h. Godziemba - die Familie seiner Frau),
+      Sęczys' Szlachta wylegitymowana (le.2259.3.8, seinen Legitationsakt von
+      1838: "płk WP, dz. d. Trąbczyn, pow. koniński i Wieniec, pow.
+      brzeski"), den Nekrolog des Kurier Warszawski 111/1845 (gestorben
+      12.4.1845 in Berlin, in seinem 65. Lebensjahr), den Polski Słownik
+      Biograficzny T. 20 S. 562 (psb.17772.5), die Czartoryski-Datenbank,
+      Dworzaczeks Genealogia, Łuszczyńskis Silva Heraldica, die Nekrologia
+      Minakowskiej, und die Trauungsurkunde von Warschau ASC Cyrkuł IV
+      67/1810 mit ihrem Archivverweis. Die ganze Seite, diese eingeschlossen,
+      liegt im Ordner des Werks; nichts davon wird hier gezeigt.
+
+  wojciech-otto-trampczynski:
+    # The slug is NOT the family entry's (trampczynski): the family has its
+    # own page (/people/trampczynski/, heading and documents from its
+    # people.yml entry), and this block's page must not collide with it.
+    # The edition's Trąmpczyński family, which held Trąbczyn before the
+    # Prusimskis and took its name from it, with the by-name Otto. Not a
+    # person of the edition's documents: the family is a family entry, and
+    # this page is the sixteenth-century Wojciech whose by-name and whose
+    # son's record (the regest of 1614) are the database's source for the
+    # line. The page's subject is in none of the documents, so the block
+    # stands alone (a standalone person: heading and bio of its own, no
+    # documents, the literature named by hand); its value to the edition is
+    # the family's line: the son Stanisław of the regest of 1614, and the
+    # four brothers of the decree of 1644 who are his sons (Władysław,
+    # Andrzej, Anna and the second Władysław) or of the next generation.
+    standalone: true
+    heading: "Wojciech Otto-Trąmpczyński"
+    heading_de: "Wojciech Otto-Trąmpczyński"
+    bio: >-
+      Wojciech Otto-Trąmpczyński, of the family that held Trąbczyn before
+      the Prusimskis and took its name from it, with the by-name Otto - the
+      "Otha" of the record of 1614, where his son Stanisław pledges half
+      the estates for the dowry of the bride Anna Słonecka. The database
+      gives him no certain dates - "born probably in 1560" is its estimate,
+      and none is shown here - and no parents; what carries his line is the
+      marriage of about 1590 (again its estimate) to Anna Cerekwicka, their
+      son Stanisław, and the grandchildren through him, among them the
+      second Wojciech, whose marriage to Marianna née Zawadzka carries the
+      line to the brothers of the decree of 1644 that the edition's
+      documents name.
+    bio_de: >-
+      Wojciech Otto-Trąmpczyński, aus der Familie, der Trąbczyn vor den
+      Prusimskis gehörte und die sich nach dem Gut nannte, mit dem Beinamen
+      Otto - dem "Otha" der Aufzeichnung von 1614, in der sein Sohn
+      Stanisław die Hälfte der Güter für die Mitgift der Braut Anna
+      Słonecka verpfändet. Die Datenbank gibt ihm keine sicheren Daten -
+      "vielleicht 1560 geboren" ist ihre Schätzung, und keines wird hier
+      gezeigt - und keine Eltern; was seine Linie trägt, ist die Ehe um
+      1590 (wieder ihre Schätzung) mit Anna Cerekwicka, ihr Sohn Stanisław,
+      und die Enkel durch ihn, unter ihnen der zweite Wojciech, dessen Ehe
+      mit Marianna geb. Zawadzka die Linie zu den Brüdern des Dekrets von
+      1644 trägt, die die Dokumente der Edition nennen.
+    marriages:
+      - name: "Anna Cerekwicka"
+        note: "the database's marriage year (about 1590) is its estimate and is not shown; her dates are the database's estimate (?1570-) and none is shown"
+        source: "minakowska2026ottotrampczynski/c01"
+    children:
+      - name: "Stanisław"
+        note: "the record of 1614 (Teki Dworzaczka, Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) has him son of Wojciech Otha Trąmpczyński and marrying Anna, a daughter of Jan Słonecki of the Chełmski marriage's own story's Słończyce, pledging half his estates for her 7,000-zł dowry; the brothers and sisters of the decree of 1644 (the sons Władysław and Andrzej and the daughter Anna of the database's page, with the second Władysław) hang on his line"
+        source: "minakowska2026ottotrampczynski/c01"
+        note_source: "app536036-1"
+    notes: >-
+      The page's Uwagi carry one source, and it is the database's own
+      source for the person: the Teki Dworzaczka regest of the Pyzdry
+      court books (Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) of
+      1614 - Stanisław Trąmpczyński, son of Wojciech Otha Trąmpczyński,
+      pledges to Jan Słonecki, son of Marcin, that after the wedding of
+      Anna Słonecka, daughter of the late Stanisław Słonecki, cup-bearer
+      (podstoli) of Kalisz, by Elżbieta Chwalibowska, he will secure her
+      7,000 zł as dowry and warranty on half the estates (fol. 255). The
+      whole page, this included, is kept in the work's folder; none of it
+      is shown here.
+    notes_de: >-
+      Die Uwagi der Seite tragen eine Quelle, und sie ist die eigene Quelle
+      der Datenbank für die Person: das Regest der Teki Dworzaczka aus den
+      Pyzdryer Gerichtsbüchern (Księgi grodzkie pyzdrskie, cz. 1, nr 2152,
+      Nr 137) von 1614 - Stanisław Trąmpczyński, Sohn des Wojciech Otha
+      Trąmpczyński, verpfändet dem Jan Słonecki, Sohn des Marcin, dass er
+      nach der Vermählung der Anna Słonecka, Tochter des verstorbenen
+      Stanisław Słonecki, Untstallmeister (podstoli) von Kalisz, und der
+      Elżbieta Chwalibowska, ihr 7.000 zł als Mitgift und Sicherheit auf
+      die Hälfte der Güter sichern wird (fol. 255). Die ganze Seite, dies
+      eingeschlossen, liegt im Ordner des Werks; nichts davon wird hier
+      gezeigt.
+    literature_passages:
+      - "minakowska2026ottotrampczynski/c01"
