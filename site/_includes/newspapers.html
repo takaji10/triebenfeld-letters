@@ -16,12 +16,13 @@
 <div class="sources">
   {% for w in site.data.newspapers %}
     {%- capture w_page -%}{{ u_np }}{{ w.slug }}/{%- endcapture -%}
+    {%- assign w_lang = 'lit_lang_' | append: w.language -%}
     <section class="source" id="{{ w.slug }}">
       <h2 class="lit-author">{{ w.newspaper }}</h2>
       <p class="lit-title"><a href="{{ w_page | relative_url }}">{{ w.ref }}</a></p>
       {% if lang == 'en' and w.title_en != "" %}<p class="lit-title-en"><em>{{ w.title_en }}</em></p>{% endif %}
       <dl class="source-facts">
-        <div><dt>{{ t.lit_language }}</dt><dd>{{ t['lit_lang_' + w.language] }}</dd></div>
+        <div><dt>{{ t.lit_language }}</dt><dd>{{ t[w_lang] }}</dd></div>
       </dl>
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
       {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}

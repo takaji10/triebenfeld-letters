@@ -1386,6 +1386,16 @@ cloud branches").
   And `assets/doc-list.js` takes every `details.doclist` on the page for a
   list of documents, so another closed list on /people/ or /places/ needs
   its own class (`litlist`).
+- **Two Liquid traps of the newspapers pages** (2026-10-22). Liquid counts
+  the empty string as true: `{% if w.image %}` rendered the figure for an
+  item whose `image:` is empty, with the file name empty after it, and
+  verify_site.py caught the broken link — the comparison is explicit now
+  (`{% if w.image and w.image != '' %}`, `_layouts/newspaper.html`). And
+  Liquid cannot build a bracket key by concatenation:
+  `t['lit_lang_' + w.language]` is nil, which left the Language fact of
+  every item on the Newspapers list page blank (the item pages had done it
+  right, with an `assign`); `_includes/newspapers.html` assigns
+  `w_lang` first now.
 - **A hand-made link says what each side says, and every figure in it is
   read in both** (the links of the black register, 2026-10-19;
   `literature/links.yml`). Its sentence is shown under the passage and

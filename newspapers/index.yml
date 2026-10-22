@@ -4,9 +4,10 @@
 #
 # Every pair below was read before it was ruled (2026-10-22, from
 # review/newspapers/mentions.md, made by newspapers_index.py --sheet). The
-# three items: kuryerpolski1754075 (the funeral report of 1754),
-# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937) and
-# ostdeutscherbeobachter19420197 (the feature on Łazińsk of 1942).
+# four items: kuryerpolski1754075 (the funeral report of 1754),
+# dziennikpoznanski19370807 (the "Z Zagórowa" column of 1937),
+# ostdeutscherbeobachter19420197 (the feature on Łazińsk of 1942) and
+# twojaslupca20150706 (the report of the 775th-anniversary jubilee of 2015).
 
 people:
   glowiecki:
@@ -16,6 +17,27 @@ people:
     "Pruſińſki": true     # "Jmć Pan Antoni Pruſińſki Synowiec Rodzony": the
                           # nephew who gave the funeral oration, the Starost
                           # to be (the pattern's own "Prusinski(?= Synowiec)")
+    "Prusimski": true     # "Antoni Prusimski" of the 2015 report, among the
+                          # heirs of Trąbczyn who took part in the wars of
+                          # national liberation: the register's Starost, of
+                          # whom the entry's own identity says he took part
+                          # in the uprising of 1794 and lost the estate for
+                          # it. The identification is the article's own
+                          # context (an heir of Trąbczyn of the name) against
+                          # the register's man.
+  miaczynski:
+    # The 2015 report's heirs-list names "Stanisław hrabia Miączyński, czy
+    # Aleksander i Włodzimierz Miączyński". Włodzimierz is the register's
+    # other entry (miaczynski-wlodzimierz, the Count, whose pattern is
+    # pinned to the summons of 1860 and cannot match here); "Stanisław
+    # hrabia Miączyński" and "Aleksander" no ruling of the edition
+    # identifies, and the register's own precedent keeps an unidentified
+    # later Miączyński off Stanisław's entry (not_in app539680669-2, "Graf
+    # Miączyński, owner of Trąbczyn about 1911"). Ruled out until the
+    # editor says otherwise (NEEDS_CONFIRMATION, "The newspapers").
+    "Miączyński": "no: the 2015 report's heirs-list, taken bare; Włodzimierz
+      is the register's miaczynski-wlodzimierz, and 'Stanisław hrabia' and
+      'Aleksander' are identified by nothing the edition holds"
   prusimski-pawel:
     "Pruſińſkie": true    # "Pana Pawłá Pruſińſkie-go": the dead chamberlain,
                           # the form the pattern was written for
@@ -49,7 +71,32 @@ places:
     "Oleśnica": true
     "Oleśnicę": true
   trabczyn:
-    "Trąbczynie": true    # the funeral at Trąbczyn
+    # The village and the estate, named through the 2015 report: the
+    # headline, the lead, the history paragraph ("miejscowość Trąbczyn"),
+    # the honours' name "Zasłużony dla wsi Trąbczyn" (twice) and the
+    # exhibition "775 lat Trąbczyna". The genitive "Trąbczyna" covers the
+    # history paragraph's forms and the exhibition's title. The medieval
+    # form "Trampczin" of the report's history paragraph is matched by no
+    # pattern of the register (NEEDS_CONFIRMATION, "The newspapers").
+    "Trąbczyn": true
+    "Trąbczyna": true
+    "Trąbczynie": true    # the funeral at Trąbczyn (1754); the jubilee of
+                          # 2015 ("w Trąbczynie zorganizowano obchody", the
+                          # ground by the school)
+    "Drommin": true       # the Amtsbezirk Drommin of the 1942 article: the
+                          # occupation's name for the commune of Trąbczyn
+                          # (the register's renamed name; the editor,
+                          # 2026-10-22: Drommin = Trąbczyn)
+  trabczynskie-stare-oledry:
+    # The editor's ruling of 2026-10-22: Lazinsk is the German-era name of
+    # Łazińsk, the colony the register records as Trąbczyńskie Stare Olędry
+    # ("the colony which went by many name variants"). The 1942 article's
+    # six hits of the bare German form; Breyer's notebook of 1936 writes the
+    # Polish Łazinsk, matched by no pattern.
+    "Lazinsk": true
+  wolica:
+    "Wolicki": "no: the surname of Józef Wolicki, one of the villagers
+      honoured in the 2015 report; the place Wolica is not of the article"
   zagorowo:
     # The town of Zagórów: the 1937 notes are the town's ("m. Zagórowa", the
     # Zarząd miasta), and the item is the first witness of the town the

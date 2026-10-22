@@ -22,6 +22,12 @@ person:
     - key: item
       en: The item
       de: Das Stück
+  - slug: twojaslupca20150706
+    cite: TwojaSłupca (2015)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   prusimski-pawel:
   - slug: kuryerpolski1754075
     cite: Kuryer Polski (1754)
@@ -47,6 +53,18 @@ place:
   trabczyn:
   - slug: kuryerpolski1754075
     cite: Kuryer Polski (1754)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: ostdeutscherbeobachter19420197
+    cite: Ostdeutscher Beobachter (1942)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: twojaslupca20150706
+    cite: TwojaSłupca (2015)
     pages:
     - key: item
       en: The item

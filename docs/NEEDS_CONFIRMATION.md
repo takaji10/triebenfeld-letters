@@ -12,16 +12,18 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Three items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Four items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
-  word (2026-10-22), with the old /documents/ addresses redirected, and
-  the Ostdeutscher Beobachter's feature on Łazińsk, Jg. 4, Nr. 197 (19 July
-  1942), added 2026-10-22. The rulings of that day are worked in: the
-  clipping's source (the blog Zagórów w historii, its post of 2 October
-  2024), the rights (approved by the editor), the clipping and the Kuryer's
-  page shown on the item pages, the index of people and places run over the
-  items (`newspapers/index.yml`, 20 hits all ruled). On the editor:
+  word (2026-10-22), with the old /documents/ addresses redirected, the
+  Ostdeutscher Beobachter's feature on Łazińsk, Jg. 4, Nr. 197 (19 July
+  1942), added 2026-10-22, and TwojaSłupca's report of the 775th-anniversary
+  jubilee of 6 July 2015 (`twojaslupca20150706`, added 2026-10-22: shown
+  whole at the editor's word, no picture). The rulings of that day are
+  worked in: the clipping's source (the blog Zagórów w historii, its post of
+  2 October 2024), the rights (approved by the editor), the clipping and the
+  Kuryer's page shown on the item pages, the index of people and places run
+  over the items (`newspapers/index.yml`, 35 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -50,6 +52,23 @@ repository; they are on the working machine.
     `match: false`), so neither mention is indexed. Whether to add patterns
     waits on the editor, with the same question already open for
     Mielewczyk's "Kolonia Łazińskie".
+  - **The 2015 report's Miączyński heirs, and the Ląd and Trampczin
+    spellings.** The report names "Stanisław hrabia Miączyński, czy
+    Aleksander i Włodzimierz Miączyński" among the heirs of Trąbczyn who
+    took part in the wars of national liberation. Włodzimierz is the
+    register's own Count (miaczynski-wlodzimierz), but his pattern is
+    pinned to the summons of 1860; "Stanisław hrabia" is not identified
+    with the register's Stanisław Miączyński (Michalina's husband) by
+    anything the edition holds, and "Aleksander" by nothing at all — the
+    bare surname is ruled out for the item (the register's own precedent,
+    its `not_in` for Breyer's "Graf Miączyński" of 1936), so no mention
+    stands on a person page. Whether the editor wants the mentions attached
+    — and a pattern for the newspapers that would set Włodzimierz's apart —
+    waits on them. The report's "Lądzie" and "lądzki" (the count's title)
+    and its medieval "Trampczin" are likewise matched by no pattern: the
+    register's Ląd pattern takes "Ląd" bare and "Lądzk..." with the initial
+    capital only, both built for the Kuryer Polski's print. Same question,
+    whether to extend the register's patterns.
 
 
 

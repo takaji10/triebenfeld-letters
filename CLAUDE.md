@@ -167,7 +167,7 @@ so check them.
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither
-  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Three items:
+  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Four items:
   the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180 (7 August
   1937) — three municipal notes, transcribed line by line from the clipping
   by OCR with **no paid run** (Tesseract 5.5.3 + Polish models installed at
@@ -186,16 +186,26 @@ so check them.
   caveat and the item shown whole with the rights not flagged; its Lazinsk
   is Breyer's Łazinsk (the same teacher Mielke, APP 53/968/0/-/669), its
   founding date of 1718 stands against the edition's records, and
-  "Drommin"/"Lazinsk" are matched by no index pattern (NEEDS_CONFIRMATION).
+  "Drommin"/"Lazinsk" are matched by no index pattern (NEEDS_CONFIRMATION)
+  — and **TwojaSłupca's report of the jubilee of 6 July 2015**
+  (`twojaslupca20150706`): the first item of the press from the web, the
+  portal's HTML as printed, nothing tidied; shown whole at the editor's
+  word (the press of 2015 under copyright), **no picture**; its history
+  paragraph is the edition's own documents' story (the KDW's 1240 grant,
+  Janek son of Szymon and count Mikołaj of the charter of 1276, Jan and
+  Przedpełk of 1346); Antoni Prusimski ruled to the Starost, the report's
+  Miączyński heirs ruled out (NEEDS_CONFIRMATION); the slug's date stands
+  in the issue's place.
   The editor's rulings of the day are worked in:
   the clipping's source (the blog Zagórów w historii, its post of 2 October
   2024), the rights approved, the clipping and the Kuryer's page carried on
   the item pages, and **the index of people and places run over the items**
-  (`pipeline/newspapers/newspapers_index.py`; 20 hits all ruled in
+  (`pipeline/newspapers/newspapers_index.py`; 35 hits all ruled in
   `newspapers/index.yml`; the "In the newspapers" boxes on /people/ and
   /places/; Głowiecki stands on /people/ with no documents). Open: the
-  Oleśnica identification, the 1718 of the 1942 article, the patterns
-  question (NEEDS_CONFIRMATION). Not published.
+  Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
+  Miączyński heirs and the patterns question (NEEDS_CONFIRMATION). Not
+  published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów
