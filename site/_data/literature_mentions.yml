@@ -8,6 +8,19 @@ person:
     - key: c08
       en: VI. Kapitel.
       de: VI. Kapitel.
+  baildon:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '325'
+      en: p. 325
+      de: S. 325
   beguelin:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -82,6 +95,22 @@ person:
     - key: '38'
       en: p. 38
       de: S. 38
+  cosmar:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '325'
+      en: p. 325
+      de: S. 325
+    - key: '326'
+      en: p. 326
+      de: S. 326
+    - key: '327'
+      en: p. 327
+      de: S. 327
+    - key: '328'
+      en: p. 328
+      de: S. 328
   dolffs:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -110,6 +139,13 @@ person:
     - key: '59'
       en: p. 59
       de: S. 59
+  emilie:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '37'
+      en: p. 37
+      de: S. 37
   friedrich-wilhelm-ii:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -195,6 +231,12 @@ person:
     - key: '51'
       en: p. 51
       de: S. 51
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '34'
+      en: p. 34
+      de: S. 34
   friedrich-wilhelm-iii:
   - work: held1801
     cite: Held (1801)
@@ -274,6 +316,32 @@ person:
     - key: '52'
       en: p. 52
       de: S. 52
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '39'
+      en: p. 39
+      de: S. 39
+  fuerst-august:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '325'
+      en: p. 325
+      de: S. 325
+    - key: '326'
+      en: p. 326
+      de: S. 326
+  glenck:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '36'
+      en: p. 36
+      de: S. 36
   grevenitz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -327,6 +395,15 @@ person:
     - key: '46'
       en: p. 46
       de: S. 46
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '328'
+      en: p. 328
+      de: S. 328
   haugwitz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -513,6 +590,48 @@ person:
     - key: '60'
       en: p. 60
       de: S. 60
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '35'
+      en: p. 35
+      de: S. 35
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '38'
+      en: p. 38
+      de: S. 38
+    - key: '39'
+      en: p. 39
+      de: S. 39
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '325'
+      en: p. 325
+      de: S. 325
+    - key: '326'
+      en: p. 326
+      de: S. 326
+    - key: '327'
+      en: p. 327
+      de: S. 327
   holtzendorff:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1124,6 +1243,34 @@ person:
     - key: '62'
       en: p. 62
       de: S. 62
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '33'
+      en: p. 33
+      de: S. 33
+    - key: '34'
+      en: p. 34
+      de: S. 34
+    - key: '36'
+      en: p. 36
+      de: S. 36
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
+    - key: '326'
+      en: p. 326
+      de: S. 326
+  kircheisen:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '325'
+      en: p. 325
+      de: S. 325
   koeckritz:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1429,6 +1576,12 @@ person:
     - key: '40'
       en: p. 40
       de: S. 40
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '39'
+      en: p. 39
+      de: S. 39
   niemojewski:
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
@@ -1496,6 +1649,26 @@ person:
     - key: '59'
       en: p. 59
       de: S. 59
+  prinz-adolph:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '37'
+      en: p. 37
+      de: S. 37
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '325'
+      en: p. 325
+      de: S. 325
+  prinz-alexander:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '37'
+      en: p. 37
+      de: S. 37
   prinz-george:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -1693,6 +1866,12 @@ person:
     - key: '61'
       en: p. 61
       de: S. 61
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '39'
+      en: p. 39
+      de: S. 39
   scharnhorst:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2554,6 +2733,13 @@ person:
       en: p. 51
       de: S. 51
 place:
+  batkowo:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
   betsche:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -2567,6 +2753,12 @@ place:
     - key: '145'
       en: p. 145
       de: S. 145
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
   dormowo:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -3152,6 +3344,13 @@ place:
     - key: '146'
       en: p. 146
       de: S. 146
+  oppurg:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '41'
+      en: p. 41
+      de: S. 41
   osiny:
   - work: chodyla2015
     cite: Chodyła (2015)
@@ -3245,6 +3444,19 @@ place:
     - key: '48'
       en: p. 48
       de: S. 48
+  schlawenschitz:
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '41'
+      en: p. 41
+      de: S. 41
+    - key: '42'
+      en: p. 42
+      de: S. 42
   skokum:
   - work: breyer1938
     cite: Breyer (1938)
@@ -3444,6 +3656,12 @@ place:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:
@@ -3565,6 +3783,12 @@ place:
     - key: '224'
       en: p. 224
       de: S. 224
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
   - work: minakowska2026miaczynski
     cite: Minakowska (2026, Stanisław Adam Miączyński)
     pages:
@@ -3790,6 +4014,12 @@ place:
     - key: '256'
       en: p. 256
       de: S. 256
+  - work: ostensacken2001
+    cite: Kraus (2001)
+    pages:
+    - key: '42'
+      en: p. 42
+      de: S. 42
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:

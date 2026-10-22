@@ -901,3 +901,42 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       character-exact).
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 29. Kraus (2001), chapter III and Anlagen 8 and 10 (added 2026-10-23)
+
+- [x] The work brought in (`literature/ostensacken2001/`): Gerlinde Kraus,
+      *Christiane Fürstin von der Osten-Sacken* (Stuttgart: Franz Steiner
+      2001), chapter III whole (printed pp. 33-42, the marriage of 1782
+      between Marianne Gräfin von Hoym and Friedrich Ludwig Fürst zu
+      Hohenlohe-Ingelfingen, the Bytkow purchase, the divorce of
+      1799-1801, the second marriage, the marriage contracts) and, from
+      the appendices, Anlage 8 (the daughter's letter of 12 October 1811,
+      "Ein Wort des Vertrauens") and Anlage 10 (the mother's codicil of
+      6 November 1807); the editor's word "Skip what's between" keeps
+      Anlage 9 and the first lines of Anlage 11 out, marked with `[.]`
+      (the Kneifel convention); the title and publishing pages gave the
+      bibliographic record only ("Bibliography only").
+- [x] Read from your two-up page scans by two OCR engines checked against
+      each other (Tesseract 5.5.3, the German traineddata installed for
+      the newspaper work - found on the machine though not on PATH - and
+      the lunaroute converter), doubtful words read at 3x-6x zoom crops;
+      the settled readings and the print's own slips written out in the
+      work's notes.md.
+- [x] **The copyright ruling**: the book is in copyright (2001); with the
+      summary-only rule named, you ruled "Full text, at my word" -
+      `visible: true`, the third full-text exception (the TwojaSłupca
+      report, Werner's entry).
+- [x] Built (14 passages, both languages), the index run over it (the new
+      spellings "Zogorowo" and "Trobczyn" entered as literature-only
+      patterns and ruled; Baildon, Cosmar, Glenk, Kircheisen, Emilie, the
+      princes August, Adolph and Alexander, Öhringen, Langenburg,
+      Neuenstein, Kirchberg, Oppurg and Schlawentzitz ruled yes; the
+      medieval Albrecht and Eberhard of Hohenlohe and the house of
+      Bartenstein ruled no), one hand-made link (p. 42, the prince's
+      sale of the lordships "weit unter Wert", against the royal consent
+      of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"),
+      verify_site.py ALL CHECKS PASSED.
+- [ ] **You:** a look at the work's page, the excerpt and the ruling
+      questions in the notes (the codicil's "60/m tausendstel" above
+      all), then publication at your word. On the branch
+      `ostensacken2001`, built and verified, not yet on `main`.

@@ -119,6 +119,32 @@ so check them.
 
 ## Where things stand (2026-10-23)
 
+- **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
+  published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
+  (Stuttgart: Franz Steiner 2001), the biography of the mother of
+  Marianne Gräfin von Hoym, the Prince's wife. Chapter III whole (printed
+  pp. 33-42) and, from the appendices, Anlage 8 (the daughter's letter of
+  12 October 1811, "Ein Wort des Vertrauens") and Anlage 10 (the codicil
+  of 6 November 1807); the editor's word "Skip what's between" keeps
+  Anlage 9 and the first lines of Anlage 11 out, marked with `[.]`
+  (the Kneifel convention). Its bearing: p. 42 - the prince sold the
+  lordships "Betsche, Zogorowo, Trobczyn, Botkowo und Winiec **weit unter
+  Wert**" to come by "baare Mittel", the book's spellings of the edition's
+  **Zagórów and Trąbczyn** among them, the sale the wlodzimierz-era
+  ownership line witnesses; a hand-made link ties the passage to the royal
+  consent of 28 January 1806 (app539680801-2). Read by two OCR engines
+  checked against each other from your two-up page scans (Tesseract 5.5.3
+  with the German traineddata installed for the newspaper work - found on
+  the machine though not on PATH - and the lunaroute converter; the
+  lunaroute pass the better reader of the superscript markers and of the
+  French letter in note 21); the settled readings and the print's own
+  slips („Zransact", the "(1792-1822)" of Hardenberg, "Vollblütigkeit",
+  the codicil's "60/m tausendstel") written out in the notes. The book is
+  in copyright: with the summary-only rule named, you ruled "Full text, at
+  my word" - the third full-text exception. Index ruled; verify_site.py's
+  leak check skips shown works' own pages (the shared letter of 1811 with
+  the hidden Seidel). `docs/LITERATURE_PLAN.md`, section 27. Read
+  `literature/ostensacken2001/notes.md` first. Not published.
 - **Werner (1904)** (`werner1904`, added 2026-10-23, **committed, not
   published**): Albert Werner, *Geschichte der evangelischen Parochien in
   der Provinz Posen* (Lissa: Friedrich Ebbecke 1904), the numbered

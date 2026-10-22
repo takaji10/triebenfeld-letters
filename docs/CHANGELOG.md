@@ -2643,3 +2643,50 @@ lose his estates. The era page writes Konotop, not Kontop.
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
+
+## 2026-10-23 - The literature: Kraus (2001), chapter III and Anlagen 8 and 10
+
+- **A new work**, `literature/ostensacken2001/`: Gerlinde Kraus,
+  *Christiane Fürstin von der Osten-Sacken: Eine frühkapitalistische
+  Unternehmerin und ihre Erben während der Frühindustrialisierung im
+  18./19. Jahrhundert* (Stuttgart: Franz Steiner 2001, Beiträge zur
+  Unternehmensgeschichte Bd. 10), the biography of the mother of
+  Marianne Gräfin von Hoym, the Prince's wife. Chapter III whole (printed
+  pp. 33-42) and, from the appendices, Anlage 8 (the daughter's letter of
+  12 October 1811, "Ein Wort des Vertrauens") and Anlage 10 (the mother's
+  codicil of 6 November 1807) - the editor's word "Skip what's between"
+  keeps Anlage 9 and the first lines of Anlage 11 out, marked with `[.]`
+  (the Kneifel convention). Read from the editor's two-up page scans by
+  two OCR engines checked against each other (Tesseract 5.5.3 with the
+  German traineddata installed for the newspaper work - found on the
+  machine though not on PATH - and the lunaroute converter), doubtful
+  words read at 3x-6x zoom crops; the readings settled and the print's own
+  slips („Zransact", the "(1792-1822)" of Hardenberg, "Vollblütigkeit",
+  the codicil's "60/m tausendstel") written out in the work's notes.md.
+  Footnote keys page-scoped (`[^p33-1]`, `[^p325-4]`) because the
+  chapter's notes 1-43 and the Anlagen's own numbering collide.
+- **The copyright ruling**: the book is in copyright (2001, the imprint
+  forbids reproduction and translation). Put to the editor with the
+  summary-only rule named (section 4 of the plan), they ruled "Full text,
+  at my word" - `visible: true`, the third full-text exception (the
+  TwojaSłupca report, Werner's entry).
+- **What it bears on**: p. 42 - the prince sold the lordships "Betsche,
+  Zogorowo, Trobczyn, Botkowo und Winiec weit unter Wert" to come by
+  "baare Mittel", the book's spellings of the edition's Zagórów and
+  Trąbczyn among them. A hand-made link ties the passage to the royal
+  consent of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"
+  (app539680801-2). The new spellings entered as literature-only patterns
+  in `literature/index.yml` and ruled; Baildon, Cosmar, Glenk,
+  Kircheisen, Emilie, the princes August, Adolph and Alexander, Öhringen,
+  Langenburg, Neuenstein, Kirchberg, Oppurg and Schlawentzitz ruled yes;
+  the medieval Albrecht and Eberhard of Hohenlohe and the house of
+  Bartenstein ruled no. 14 passages, 5,450 literature hits all ruled,
+  29 hand-made links.
+- **verify_site.py's leak check refined** (checker internals, Claude's
+  call): the leak scan for hidden works' text now skips the built pages of
+  the works shown on the site. Kraus (2001) and the hidden Seidel (2018)
+  both carry the letter of 12 October 1811 - a shared quoted source - and
+  the scan's 60-character needles matched Kraus's own page. A shown page
+  is the editor's authorised text in full; a hidden work's own page is
+  still checked strictly (summary only).
+- Committed, not published; publish at the editor's word.

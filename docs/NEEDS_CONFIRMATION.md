@@ -1001,6 +1001,31 @@ Places (`reference/places.yml`, `open_questions`):
     historically he was the Court Treasurer of the Crown (podskarbi
     nadworny koronny), which is Claude's note, not the page's.
 
+- **Kraus (2001)** (added 2026-10-23; its rulings in `literature/index.yml`
+  carry the reasons, and the settled readings and the print's own slips are
+  written out in `literature/ostensacken2001/notes.md`):
+  - The codicil of 6 November 1807 (Anlage 10, p. 328) reads, in both passes
+    and at 5x, "nur bis auf die Summe von **60/m tausendstel** eintreten
+    werde" - "60/m" the old millia notation (60,000), but the following
+    "tausendstel" has no clear sense after the figure (the codicil's cap of
+    60,000 thaler Courant is named a sentence earlier). Kept as read and
+    translated literally ("60/m thousandths"); whether the print garbles the
+    archival wording is the editor's call.
+  - The **„Zransact“** of p. 41 stands against the book's own "Transact"
+    (note 42, and the Anlage 8 letter) - the 6x crop shows a Z (top bar,
+    diagonal, bottom bar, no central stem); Tesseract read Z, lunaroute read
+    T. Kept as read (the print's slip), flagged.
+  - The **anchor of note 37** (p. 41, after "erfolgte.") is the faintest
+    marker placement of the excerpt - the 5x crop shows a small raised mark,
+    but this is the one placement to re-check against the page if any doubt
+    arises.
+  - The **French letter** in note 21 (of 4 February 1792) follows the
+    lunaroute reading with the letter's own slips both passes agree on kept
+    ("coulament", "come", "pue", "sont sortie tous", "des ces bonheur");
+    residual uncertainty in accents and a few verb endings
+    ("régulièrement"/"regulierement", "pleurée et rie", "grée"), which the
+    passes read differently - the words carry no fact.
+
 - **Słowiński (2023) and Słowiński & Połom (2024)** (added 2026-10-22; the
   two works' `notes.md` carry the details):
   - The **founders of the 1746 foundation** differ among the 2023 volume's
