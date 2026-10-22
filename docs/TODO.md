@@ -857,3 +857,38 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       English you supplied, when you want it.
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 27. The newspapers: Kurjer Poznański, "(Zhitleryzowani koloniści)",
+      12 lipca 1933 (added 2026-10-22)
+
+- [x] The clipping brought in (`newspapers/kurjerpoznanski19330712/`), the
+      ninth item of the press, from the blog ZAGÓRÓW-MIEJSCE Z HISTORIĄ's
+      post of 24 May 2024 ("To i owo, cz. 2"), the citation carrying the
+      date only; shown whole, the clipping carried on the item's page (a
+      genuine JPEG this time).
+- [x] The clipping read by OCR (four passes over the whole, no paid run),
+      the doubtful places settled at the pixel level (the ogonek of
+      "Trąbczyn" — the print has it and every pass dropped it — the ł of
+      "nosiły", the ę of "języku" and "uczęszczające", the g of
+      "ewangelik", the period after "Niemców", the comma after "Hitlera",
+      the period after "przekręciło", the „…” round "dzień dobry"), and
+      the four remaining readings put to you on a spot sheet, your answers
+      worked in (the parenthesised lead "(Zhitleryzowani koloniści).",
+      "Ludwigslust", the plain "a";
+      `newspapers/kurjerpoznanski19330712/notes.md`).
+- [x] The index run: the item's three hits (Zagórowa, Oleśnica, Trąbczyn)
+      stand under the standing rulings (`newspapers/index.yml`; 49 hits in
+      9 items, all ruled). Szymanowice, Emilienhain and Ludwigslust match
+      no pattern of the register and are recorded in the notes.
+- [ ] **You:** the print's "Emilienhain" against the documents'
+      "Emilienheim" (Breyer's notebook, the 1942 feature) — same colony,
+      second colony, or the print's variant (NEEDS_CONFIRMATION, "The
+      newspapers").
+- [ ] **You:** the dismissed teacher of the closing incident — identified
+      by nothing the edition holds; if it were the Łazińsk school's
+      Mielke, the 1942 feature's "seit 1925" would need a look
+      (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] **You:** whether Szymanowice and Ludwigslust should be places of the
+      edition (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

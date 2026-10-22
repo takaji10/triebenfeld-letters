@@ -293,7 +293,7 @@ so check them.
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither
-  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Four items:
+  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Nine items:
   the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180 (7 August
   1937) — three municipal notes, transcribed line by line from the clipping
   by OCR with **no paid run** (Tesseract 5.5.3 + Polish models installed at
@@ -323,7 +323,21 @@ so check them.
   Janek son of Szymon and count Mikołaj of the charter of 1276, Jan and
   Przedpełk of 1346); Antoni Prusimski ruled to the Starost, the report's
   Miączyński heirs ruled out (NEEDS_CONFIRMATION); the slug's date stands
-  in the issue's place.
+  in the issue's place
+  — and **Kurjer Poznański's note "(Zhitleryzowani koloniści)" of
+  12 July 1933** (`kurjerpoznanski19330712`, added 2026-10-22): the
+  German colonists of the rural communes of Oleśnica, Trąbczyn and
+  Szymanowice around Zagórów, since Hitler's rise speaking German at the
+  commune office and answering German to a Polish "dzień dobry" at
+  school, and the evangelical teacher dismissed after not one of the
+  colonists' children came to school on the inspector's visit. Read by
+  OCR, four passes, the doubtful places settled at the pixel level and
+  four rulings on a spot sheet (the parenthesised lead with the word set
+  solid, "Ludwigslust", the plain "a"); from the blog ZAGÓRÓW-MIEJSCE Z
+  HISTORIĄ's post of 24 May 2024 ("To i owo, cz. 2"), the clipping
+  carried; the print's "Emilienhain" standing against the documents'
+  "Emilienheim", and the dismissed teacher identified by nothing the
+  edition holds (NEEDS_CONFIRMATION).
   The editor's rulings of the day are worked in:
   the clipping's source (the blog Zagórów w historii, its post of 2 October
   2024), the rights approved, the clipping and the Kuryer's page carried on

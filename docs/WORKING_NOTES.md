@@ -1589,6 +1589,15 @@ cloud branches").
   TSV wants `-c tessedit_create_tsv=1` (the bare `tsv` config name prints
   plain text instead), and its output ends each line with \r. Small scans
   want upscaling: the clipping is 712×960 and only reads well at ×3 and ×4.
+- **Anchor a pixel probe to its line with the words() boxes first** (2026-10-22,
+  the Kurjer Poznański clipping). The body lines sat about 26 px apart (the
+  TSV's tops 83, 109, 135, ...), and a probe cut between two of them (y 90-110)
+  caught the neighbouring line's letters and read them as the word the probe
+  was looking for - "Trąbczyn" was "found" in the "ra ilość" band, and only
+  the whole page rendered at ×2 showed the error. The ogonek was real, but on
+  line 3 (y 54-80), not where the probe had it. Render the whole page enlarged
+  and mark the line bands before probing, and never probe a band the word
+  boxes do not cover.
 - **An item's uid in the newspapers index is its slug with "-1"**
   (2026-10-22). The register's `only_in` filters pin a spelling to the uid
   it was read in ("Pawłá Prusinskie" to kuryerpolski1754075-1); when the

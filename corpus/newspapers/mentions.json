@@ -110,6 +110,39 @@
   "context": "W marcowym numerze „Zdrowia“ dr. Lidmanowski zwraca uwagę na różne braki dzisiejszego przyodziewku ludowego. Jest on mniej więcej jednostajny w każdej grupie, a te wytwarza stopień zamożności. Inaczej ubiera się włościanin 20-sto i więcej morgowy, inaczej małorolny, inaczej wyrobnik, inaczej fornal dworski. Wszyscy oni jednak grzeszą przeciw higienie - jedni z musu, drudzy z niewiadomości i złego zwyczaju. Ale nawet biedniejsi, szczególnie mężczyźni, noszą koszule płócienne, najczęściej swego wyrobu, pod tym względem nie ma między nimi różnicy; poza tym - tandetę jarmarczną z lichego materiału bawełnianego, źle skrojoną, źle uszytą i mało ciepła dającą. Spodnie przytrzymują w pasie paskiem skórzanym, tak mocno"
  },
  {
+  "kind": "place",
+  "entity": "olesnica",
+  "display": "Oleśnica (Olesnice)",
+  "surface": "Oleśnica",
+  "work": "kurjerpoznanski19330712",
+  "cite": "Kurjer Poznański (1933)",
+  "passage": "item",
+  "line": 2,
+  "context": "Zagórowa, a więc gminy wiejskie Oleśni¬"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowa",
+  "work": "kurjerpoznanski19330712",
+  "cite": "Kurjer Poznański (1933)",
+  "passage": "item",
+  "line": 2,
+  "context": "Zagórowa, a więc gminy wiejskie Oleśni¬"
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyn",
+  "work": "kurjerpoznanski19330712",
+  "cite": "Kurjer Poznański (1933)",
+  "passage": "item",
+  "line": 3,
+  "context": "ca, Trąbczyn i Szymanowice, zaludnia spo¬"
+ },
+ {
   "kind": "person",
   "entity": "prusimski-pawel",
   "display": "Paweł Prusimski",

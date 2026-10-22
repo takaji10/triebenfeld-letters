@@ -12,7 +12,7 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Seven items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Nine items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
   word (2026-10-22), with the old /documents/ addresses redirected, the
@@ -25,11 +25,12 @@ repository; they are on the working machine.
   (1914), and the Jutrzenka digest of 24 April 1913 (`zdrowie1912z10`,
   `zdrowie1914z6`, `jutrzenka1913z8`; shown whole, no pictures, the
   English came with the editor's file and was corrected against the
-  Polish in session). The rulings of that day are
+  Polish in session) — and the Kurjer Poznański note of 12 July 1933
+  (`kurjerpoznanski19330712`, added 2026-10-22). The rulings of that day are
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 46 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 49 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -116,6 +117,32 @@ repository; they are on the working machine.
       contents and the literature all give 1914, z. 6, pp. 432-440.
       Dated 1914 at the editor's word — said here so the difference from
       the file's name is known.
+  - **The Kurjer Poznański note of 12 July 1933** (`kurjerpoznanski19330712`,
+    added 2026-10-22):
+    - **"Emilienhain" against the documents' "Emilienheim".** The note
+      prints the first colony's name "Emilienhain" — the ×16 zoom shows a
+      bowl-a and a two-stem n, and all four OCR passes read it — where the
+      edition's documents carry the colony (the register's Trąbczyńskie
+      Stare Olędry, Łazińsk) as **Emilienheim** (Breyer's notebook APP
+      53/968/0/-/716 on Łazińsk, Emilienheim and Orliny; the 1942 feature
+      beside it). The item keeps its name as printed — the documents
+      first. Whether "Emilienhain" is the same colony misprinted or
+      remembered, a second colony of the district, or the print's variant
+      of the German name is the editor's to rule.
+    - **The dismissed teacher.** The note's closing incident — the school
+      where an Evangelical taught, empty of the colonists' children on
+      the inspector's visit, the teacher dismissed after it — names no
+      school and no teacher. If it were the Łazińsk school's Mielke
+      ("seit 1925", the editor's ruling on the 1942 feature), that "seit
+      1925" would need a look; nothing the edition holds identifies the
+      school, and the question is asked, not answered.
+    - **Szymanowice and Ludwigslust are matched by no pattern** of the
+      register, which has no place entries for them: Szymanowice is the
+      note's third rural commune, known to the edition from the table of
+      villages of about 1797 ("Szyman.", AGAD 1/169/0/1/1745, the
+      editor's identification), Ludwigslust the second colony the note
+      names. Whether they should be places of the edition is the
+      editor's (`newspapers/kurjerpoznanski19330712/notes.md`).
 
 - **The places** (`places/`, begun 2026-10-22; `docs/PLACES_PLAN.md`). The
   new section: a page per place that has sources of its own, hung on the

@@ -1,0 +1,130 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: kurjerpoznanski19330712
+
+# The item as the editor cites it: the daily Kurjer Poznański of Wednesday
+# 12 July 1933, the clipping carrying no issue number and no page (the
+# editor's citation: "Kurjer Poznański, (12 lipca 1933)"); the date stands
+# in the issue's place, as the plan's rule for such items has it.
+ref: >-
+  Kurjer Poznański (12 lipca 1933)
+newspaper: Kurjer Poznański
+published: >-
+  Kurjer Poznański, Poznań, 12 July 1933
+title: >-
+  "Zhitleryzowani koloniści" (Hitlerized colonists): a note in the Poznań
+  daily Kurjer Poznański of 12 July 1933 on the German colonists of the
+  rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów —
+  since Hitler's taking power in Germany speaking German at the commune
+  office and answering German at school, and the evangelical teacher
+  dismissed after not one of the colonists' children came to school on the
+  school inspector's visit.
+title_en: >-
+  Hitlerized colonists: a note in the Poznań daily Kurjer Poznański of
+  12 July 1933 on the German colonists around Zagórów, who since Hitler's
+  rise speak German at the commune office and at school, and the
+  evangelical teacher dismissed after the colonists' children stayed away
+  from school on the inspector's visit.
+cite: Kurjer Poznański (1933)
+author: ""
+year: 1933
+date_span: "1933"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The working name of
+# the era the twentieth-century holdings stand in.
+era: twentieth-century
+
+# Shown whole on the site. The item is anonymous press of 1933: Polish
+# copyright in an anonymous work runs 70 years from its first publication,
+# so it ended in 2004. **The rights are approved by the editor** (on the
+# 1937 clipping's ruling: "Assume the rights are approved"), with the
+# clipping's source known (the blog named under `source:`).
+visible: true
+
+# Where the clipping came from: the blog **ZAGÓRÓW-MIEJSCE Z HISTORIĄ**
+# ("Zagórów - a place with history", zagorowzhistoria.com), which publishes
+# scans of clippings from the press of years past; this is from its post of
+# 24 May 2024, "To i owo, cz. 2" ("This and that, part 2"). The same blog
+# the Dziennik Poznański clipping of 1937 came from (its post of
+# 2 October 2024).
+source: https://zagorowzhistoria.com/2024/05/24/to-i-owo-cz-2/
+
+# The clipping itself, shown above the texts (the editor, 2026-10-22: "The
+# site should carry the clipping"). The file given is a genuine JPEG this
+# time (648 × 573), carried as it stands.
+image: clipping.jpg
+
+# The English was made in the session that read the clipping (the editor's
+# word, 2026-10-22); it is not checked whole.
+english_by: Claude, 2026-10-22
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): an anonymous local note of a
+# Poznań daily, from the column the paper ran on the district's affairs.
+# Short news of this kind is written to fill a column; its facts are worth
+# having exactly because no historian else records them, and each is the
+# kind of thing a town's or a school's own records would confirm.
+account_en: >-
+  An anonymous note in the Poznań daily Kurjer Poznański of 12 July 1933,
+  headed "Zhitleryzowani koloniści" ("Hitlerized colonists" - the
+  completive z- of Zhitleryzowani is the print's own, the word set solid).
+  The German colonists of the rural communes of Oleśnica, Trąbczyn and
+  Szymanowice around Zagórów, whose colonies once bore German names
+  (Emilienhain, Ludwigslust), have, since Hitler took power in Germany,
+  "as if something turned over in their heads": at the commune office they
+  make themselves heard in German, not Polish, and the colonists' children
+  at school answer German to a Polish "dzień dobry". The note closes with
+  an incident: on the school inspector's visit to a school where an
+  Evangelical taught, not one of the German colonists' children came, and
+  the teacher was dismissed from his post after it.
+account_de: >-
+  Eine anonyme Notiz in der Posener Tageszeitung Kurjer Poznański vom
+  12. Juli 1933, überschrieben „Zhitleryzowani koloniści“ („hitlerysierte
+  Kolonisten“; das kompletive z- von Zhitleryzowani ist des Drucks eigene
+  Schreibung, das Wort zusammen gesetzt). Die deutschen Kolonisten der
+  Landgemeinden Oleśnica, Trąbczyn und Szymanowice um Zagórów, deren
+  Kolonien einst deutsche Namen trugen (Emilienhain, Ludwigslust), haben,
+  seit Hitler in Deutschland die Macht übernommen hat, „als ob sich ihnen
+  im Kopf etwas verdreht hätte“: im Gemeindeverset sprechen sie deutsch,
+  nicht polnisch, und die Kinder der Kolonisten antworten in der Schule
+  auf ein polnisches „dzień dobry“ („guten Tag“) deutsch. Die Notiz
+  schließt mit einem Vorfall: bei dem Besuch des Schulinspektors in einer
+  Schule, in der ein Evangelischer unterrichtete, kam keins der Kinder der
+  deutschen Kolonisten, und der Lehrer wurde nach dem Vorfall von seiner
+  Stelle entlassen.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  An anonymous note, one paragraph, headed "Zhitleryzowani koloniści".
+  The country around Zagórów - the rural communes of Oleśnica, Trąbczyn
+  and Szymanowice - is inhabited by a considerable number of German
+  colonists; the colonies they live in once bore German names, e.g.
+  Emilienhain, Ludwigslust. Since Hitler took power in Germany this
+  population has, as it were, had something turn over in its head: for
+  example, when business is done at the commune office they make
+  themselves heard not in Polish but in German; and the colonists'
+  children who attend school answer in German when they are addressed
+  with the words "dzień dobry". The note closes on an incident of the
+  latest days: on the arrival of the school inspector at one of the
+  schools, in which an Evangelical taught, not one of the German
+  colonists' children came to school; the teacher of that school was
+  dismissed from his post after the incident.
+summary_de: >-
+  Eine anonyme Notiz, ein Absatz, überschrieben „Zhitleryzowani koloniści“.
+  Die Gegend um Zagórów - die Landgemeinden Oleśnica, Trąbczyn und
+  Szymanowice - wird von einer beträchtlichen Zahl deutscher Kolonisten
+  bewohnt; die Kolonien, in denen sie leben, trugen einst deutsche Namen,
+  z. B. Emilienhain, Ludwigslust. Seit Hitler in Deutschland die Macht
+  übernommen hat, hat diese Bevölkerung gleichsam etwas im Kopf verdreht:
+  zum Beispiel machen sie sich, wenn auf dem Gemeindeverset Geschäfte
+  erledigt werden, nicht polnisch, sondern deutsch vernehmlich; und die
+  Kinder der Kolonisten, die die Schule besuchen, antworten deutsch, wenn
+  man sie mit den Worten „dzień dobry“ anredet. Die Notiz schließt mit
+  einem Vorfall der letzten Tage: bei der Ankunft des Schulinspektors in
+  einer der Schulen, in denen ein Evangelischer unterrichtete, kam keins
+  der Kinder der deutschen Kolonisten zur Schule; der Lehrer dieser Schule
+  wurde nach dem Vorfall von seiner Stelle entlassen.

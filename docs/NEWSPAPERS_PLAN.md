@@ -149,6 +149,7 @@ document list are left out when there are no documents).
 | `zdrowie1912z10` | Zdrowie, R. XXVIII, z. 10 (1912), pp. 720-725: "W sprawie odżywiania się ludu" — Dr. Konstanty Lidmanowski's study of what the rural people of the Słupca powiat eat, reckoned in "heat units" (ciepłostki) against the working body's need | Polish | yes, no picture |
 | `jutrzenka1913z8` | Jutrzenka, R. 3, nr 8 (24 kwietnia 1913), pp. 7-10: "Jak się ubiera nasz lud." — the folk attire and its hygiene, carried from Dr. Lidmanowski's article in the March Zdrowie; the signature open (NEEDS_CONFIRMATION) | Polish | yes, no picture |
 | `zdrowie1914z6` | Zdrowie, R. XXX, z. 6 (1914), pp. 432-440: "Jak mieszka lud nasz?" — Dr. Lidmanowski's survey of rural dwellings: 1,200 farmhouses, 80 manor servants' quarters, 140 labourers' lodgings, 91 of every 100 farmers' dwellings one room | Polish | yes, no picture |
+| `kurjerpoznanski19330712` | Kurjer Poznański (12 lipca 1933): "(Zhitleryzowani koloniści)" — the German colonists of the rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów speaking German at the commune office and answering German at school since Hitler's rise, and the evangelical teacher dismissed after not one of the colonists' children came to school on the inspector's visit | Polish | yes, with the clipping |
 
 The third item came in the same day with the transcription and the English
 already made (the editor's file; "the transcription is secure" — no reading
@@ -242,6 +243,33 @@ dress and food of the people the edition's documents move among, set
 down by the district's own doctor — the 1912 article names the Słupca
 powiat, the edition's own ground (Słupca itself not in the places
 register: NEEDS_CONFIRMATION).
+
+**The Kurjer Poznański note** (2026-10-22) is the ninth item and the
+fourth from the blog ZAGÓRÓW-MIEJSCE Z HISTORIĄ (its post of 24 May 2024,
+"To i owo, cz. 2"). The citation carries the date only — the clipping
+gives no issue number and no page — so the slug is
+`kurjerpoznanski19330712`. Read by OCR, four passes over the whole
+clipping, with the doubtful places settled at the pixel level first (the
+ogonek of "Trąbczyn" — the print has it and every pass dropped it — the
+ł of "nosiły", the ę of "języku" and "uczęszczające", the g with its
+descender loop in "ewangelik", the period after "Niemców", the comma
+after "Hitlera", the period after "przekręciło", the „…” round "dzień
+dobry"), and four rulings on a spot sheet (`scratch/kp1933_sheet.py`):
+the lead stands parenthesised — "— (Zhitleryzowani koloniści)." — with
+the word set solid (the completive z- on hitleryzowani), the second
+colony is "Ludwigslust" (the German form; the passes split 2-2), and the
+"a" of "nie w polskim a niemieckim języku" carries no mark. The print's
+"kolonje" stands as printed. The clipping is carried on the item page (a
+genuine JPEG this time, 648 × 573). Its three index hits (Zagórowa,
+Oleśnica, Trąbczyn) stand under the standing rulings; Szymanowice,
+Emilienhain and Ludwigslust match no pattern of the register and are
+recorded in the notes. What it bears on: the press witness of the
+colonists' "hitleryzacja" seven years before the 1942 feature's "purely
+German settlement" of the same population — and the print's
+"Emilienhain" against the documents' "Emilienheim", with the dismissed
+teacher of the closing incident identified by nothing the edition holds
+(NEEDS_CONFIRMATION, "The newspapers").
+`newspapers/kurjerpoznanski19330712/notes.md` has it all.
 
 ## 6. Order of work, and what is open
 

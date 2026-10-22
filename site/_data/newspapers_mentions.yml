@@ -64,7 +64,19 @@ place:
     - key: item
       en: The item
       de: Das Stück
+  - slug: kurjerpoznanski19330712
+    cite: Kurjer Poznański (1933)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   trabczyn:
+  - slug: kurjerpoznanski19330712
+    cite: Kurjer Poznański (1933)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   - slug: kuryerpolski1754075
     cite: Kuryer Polski (1754)
     pages:
@@ -92,6 +104,12 @@ place:
   zagorowo:
   - slug: dziennikpoznanski19370807
     cite: Dziennik Poznański (1937)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: kurjerpoznanski19330712
+    cite: Kurjer Poznański (1933)
     pages:
     - key: item
       en: The item
