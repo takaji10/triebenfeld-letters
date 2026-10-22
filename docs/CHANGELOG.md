@@ -2481,6 +2481,51 @@ lose his estates. The era page writes Konotop, not Kontop.
   register, so the powiat's name matches no pattern); the 1914 date.
   `docs/NEWSPAPERS_PLAN.md`, section 5. Not published.
 
+## 2026-10-22 — The literature: Słowiński and Połom (2024), "Zerwane ogniwo", and Słowiński (2023) finished
+
+- **A new work**, `literature/slowinskipolom2024/`: the collective volume
+  *Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej* (Zagórów: Urząd
+  Miejski w Zagórowie 2024, edited by Mirosław Słowiński and Katarzyna
+  Połom, ISBN 978-83-969906-0-0), from the editor's checked Polish and
+  English Markdown exports of the same day (made from the PDF's text
+  layer; the PDF and the .md files not kept in the repository). All 336
+  printed pages read: the studies (the parish history, the Hauländer
+  settlement of 1746-1806, the interwar church, the kantors, the Beutlers,
+  the Mielke letters, Breede), the memoirs (Erich Kuhn's among them) and
+  the German-era testimonies (*Der Heimatbote*'s note on Łazińsk, the
+  chronology table, the 1945 inhabitants list of Michalinów
+  Trąbczyński/Łazińsk/Huta Trąbczyńska, the forged Reichsstelle document).
+- **A new intake script**, `pipeline/literature/slowinskipolom_md.py`, the
+  twin of `slowinski_md.py` with one change: this book's export sets each
+  picture plate's captions in a block of their own after the running text
+  has flowed past the plate, the block opening with the plate's page mark
+  again and closing with the mark of the page the text had reached - often
+  a greater number, which the old rule (marks never run backwards) dropped.
+  The script returns on any mark whose page was opened before and switches
+  to that page's object. The letter check holds every PDF page to the
+  layer: 0 differ (the allowances - the clock-face O of the cover written
+  OGNIWO, the twice-printed section titles of the tables of contents, the
+  word divisions and the spread captions - in the work's notes.md); the
+  English's 336 marks are the original.md's, in order. The 119 pictures
+  are not rendered (the editor's word); their captions stay, being text.
+- **Under copyright, summary only** (the editor's ruling, like Seidel 2018
+  and Słowiński 2023): in the repository for questions, `visible: false`,
+  the site showing the detailed summary in both languages and none of the
+  text (verify_site.py checks - one stretch the two Słowiński summaries
+  shared, the Mielke letter's "temples" sentence, shortened in the older
+  one so the check stays clean).
+- **Słowiński (2023) committed alongside** (the folder had stood untracked):
+  its English is the editor's own English .md, not the planned Claude
+  translation (`slowinski_md.py --english`; `translation_chunks/` left
+  untracked); its year corrected to 2024 where the texts spoke of the
+  sister volume (the title page's).
+- **What it bears on**: the 1718 founding of Łazińsk a third witness (the
+  ruling still wanted); the founders of 1746 in yet another form; the
+  Mielke dates conflicting (NEEDS_CONFIRMATION). The work is invisible, so
+  no index rulings and no hand-made links (the precedent). The literature
+  has 34 works, 30 on the site and four summary-only. `docs/LITERATURE_
+  PLAN.md`, section 26. Not published.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

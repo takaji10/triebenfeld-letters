@@ -958,3 +958,68 @@ shown whole as far as it is brought in.
   NEEDS_CONFIRMATION). The literature has 32 works, 30 on the site (two
   summary-only). Committed, not published; the spot sheet open.
 
+## 26. Słowiński (2023), finished, and Słowiński & Połom (2024), "Zerwane ogniwo" (2026-10-22)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `slowinski2023` | Mirosław Słowiński, *Przeżyć tę jedną zimę. Listy żołnierza Wehrmachtu odkryte w ścianie domu kantora*, Konin: Wydawnictwo Setidava / Miejska Biblioteka Publiczna im. Zofii Urbanowskiej w Koninie 2023, ISBN 978-83-67258-15-9 | Polish | `^<!-- s. N [PDF M] -->$` | summary only |
+| `slowinskipolom2024` | a collective work edited by Mirosław Słowiński and Katarzyna Połom, *Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej*, Zagórów: Urząd Miejski w Zagórowie 2024, ISBN 978-83-969906-0-0 | Polish | `^<!-- s. N [PDF M] -->$` | summary only |
+
+The twin volumes of the editor's Zagórów history, brought in together on
+2026-10-22 from the editor's own checked Markdown exports - Polish and
+English page for page, made from the PDFs' text layers (the PDFs and the
+.md files not kept in the repository; `docs/WORKING_NOTES.md`, "Two of
+Słowiński's books checked against their PDFs", the letter check of that
+session: every PDF page's letters held to the layer page by page, the
+look-alike letters written as the book prints them). Both books are under
+copyright (living authors; the 2024 volume published by the Municipal
+Office in Zagórów, sold by the town's library): at the editor's word both
+are kept like Seidel (2018) - in the repository for questions, the site
+showing the detailed summary in both languages and none of the text,
+`visible: false`, verify_site.py checking that no stretch of their text
+appears anywhere.
+
+- **The 2023 volume** (`slowinski2023`) had been read in the earlier
+  session of the day but its folder stood untracked until this one; it
+  comes in now whole: the original.md, the English and the corpus passages.
+  Its English is **the editor's own English .md** - the planned Claude
+  translation (the 30 working files of `translation_chunks/` at the
+  project root, left untracked) was not carried out, because the editor's
+  files supply one; `slowinski_md.py` gained a `--english` flag for it,
+  and the check holds the English's marks to the original.md's. Its year
+  in the work file and the notes corrected to **2024 where the text spoke
+  of the sister volume** (the 2024 title page says 2024).
+- **The 2024 volume** (`slowinskipolom2024`): 336 printed pages read whole
+  (Part I, the studies - Grzonkowski's parish history, Kowalski's
+  Hauländer settlement of 1746-1806, Wunsz's interwar church, Połom on the
+  kantors and cantorates, Kruczkowski on the Beutlers, Słowiński on the
+  Mielke letters, Połom on Breede; Part II, the memoirs, Erich Kuhn's
+  among them; Part III, the German-era testimonies - the *Der Heimatbote*
+  note on Łazińsk, the parish history, the chronology table, the German
+  place names, the 1928 cantors' council protocol, the 1945 list of the
+  inhabitants of Michalinów Trąbczyński, Łazińsk and Huta Trąbczyńska, the
+  forged Reichsstelle document; the appendix, the FRYDHOF file). The
+  intake script is `pipeline/literature/slowinskipolom_md.py`, the twin of
+  `slowinski_md.py` with one change: this book's export sets each picture
+  plate's captions in a block of their own after the running text has
+  flowed past the plate, the block opening with the plate's page mark
+  again and closing with the mark of the page the text had reached - often
+  a greater number, which the old rule (marks never run backwards) dropped.
+  The script returns on any mark whose page was opened before and switches
+  to that page's object; the pictures (119) are not rendered, their
+  captions stay, being text. The check: **0 PDF pages differ** (the
+  allowances - the clock-face O of the cover written OGNIWO, the tables of
+  contents' twice-printed section titles, the word divisions over page
+  ends and the spread captions - in the work's notes.md); the English's
+  336 marks are the original.md's, in order.
+- **What it bears on**: the founding of Łazińsk in 1718 a third witness
+  (the 1942 article's date; the ruling still wanted); the founders of 1746
+  in yet another form (Katarzyna née Rozdrażewska among them); the Mielke
+  dates conflicting (all three in NEEDS_CONFIRMATION). The work is
+  invisible, so the index rules nothing and no hand-made links are written
+  (the Słowiński 2023 precedent); `literature/index.yml` and
+  `literature/links.yml` untouched.
+- The literature has 34 works, 30 on the site and four summary-only
+  (Seidel 2018, Dąbrowska 1976, Słowiński 2023, Słowiński & Połom 2024).
+  Committed, not published.
+

@@ -157,6 +157,20 @@ so check them.
   public domain since 2014); a person entry (`lidmanowski`, the Głowiecki
   shape, the Jutrzenka hit ruled). Read each item's `notes.md` first.
   Not published.
+- **Słowiński (2023), finished, and Słowiński & Połom (2024), "Zerwane
+  ogniwo"** (`slowinski2023`, `slowinskipolom2024`, added 2026-10-22,
+  **committed, not published**): the twin Zagórów volumes from the
+  editor's checked Polish and English Markdown exports, both under
+  copyright and kept like Seidel (2018) - in the repository for questions,
+  the site showing only the detailed summary, `visible: false`,
+  verify_site.py checking no stretch of the text appears. The 2024 intake
+  (`pipeline/literature/slowinskipolom_md.py`) returns on the export's
+  repeated page marks round the picture plates; 0 PDF pages differ. The
+  2023 folder committed now; its English is the editor's own files (the
+  Claude translation not carried out); its year corrected to 2024. Open:
+  the Mielke dates, the founders of 1746, the 1718 ruling (all in
+  NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 26. Read the
+  works' `notes.md` first. Not published.
 - **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **committed,
   not published**): the editor's new section (`places/`,
   `docs/PLACES_PLAN.md`) — a page per place that has sources of its own,

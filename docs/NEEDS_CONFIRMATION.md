@@ -49,7 +49,12 @@ repository; they are on the working machine.
     and first attest the Nowe Olędry on 29 September 1776. The item keeps
     its date as printed — the documents first, and the edition's records
     are the documents here — and its summary records the difference; the
-    editor's eye on the wording of the summary and the account.
+    editor's eye on the wording of the summary and the account. Słowiński
+    and Połom's collective volume of 2024 (brought in the same day,
+    `docs/LITERATURE_PLAN.md`, section 26) repeats the date in its three
+    accounts of Łazińsk — the introduction's, the annex's German-era note's
+    and the chronology table's: a third witness to 1718, not a settlement
+    of it; the ruling still wanted.
   - **"Drommin", "Lazinsk" and "Kolonia Łazińskie" — settled 2026-10-22**
     (the editor's rulings: Drommin = Trąbczyn; Lazinsk = German-era name for
     Łazińsk, the colony which went by many name variants; Kolonia Łazińskie
@@ -984,6 +989,25 @@ Places (`reference/places.yml`, `open_questions`):
   - The **Kronschätzmeister** of Prince Adam Poniński: read on the sheet;
     historically he was the Court Treasurer of the Crown (podskarbi
     nadworny koronny), which is Claude's note, not the page's.
+
+- **Słowiński (2023) and Słowiński & Połom (2024)** (added 2026-10-22; the
+  two works' `notes.md` carry the details):
+  - The **founders of the 1746 foundation** differ among the 2023 volume's
+    own texts — the introduction and the German Kurzfassung give "Katarzyna
+    i Paweł Prusińscy", Kowalski's settlement study "Paweł Prusiński i
+    Katarzyna née Rozdrażewska", the annex's note "Andrzej i Paweł" — and
+    the 2024 volume repeats the difference (its forms recorded in the
+    work's notes). Which form the edition follows, when its own 1746
+    record is read against them, waits on the editor.
+  - The **Mielke dates** conflict within the 2024 volume and against the
+    2023 one: the works' start 1925 against 1932; the cache's removal 1932
+    against 1936 against "four years from 1933"; the new school building
+    1933 against "a hundred years later".
+  - The **English of slowinski2023 on file is the editor's own English
+    .md** (their Downloads folder, processed by `slowinski_md.py
+    --english`), not the Claude translation the work's notes had planned:
+    the folder stood without an english.md and the build needs one. The
+    editor's look at that English is wanted.
 
 ## Translations
 

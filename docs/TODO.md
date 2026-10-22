@@ -832,3 +832,28 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       edition.
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 26. Słowiński (2023), finished, and Słowiński & Połom (2024), "Zerwane ogniwo" (added 2026-10-22)
+
+- [x] The 2024 volume (`slowinskipolom2024`): all 336 pages from your
+      checked Polish and English exports, the letter check 0 pages differ,
+      the 119 pictures not rendered and their captions kept, the summary
+      in both languages on the site, the work invisible (summary only, the
+      2023 precedent).
+- [x] The 2023 volume (`slowinski2023`) committed: the English is your own
+      English .md (the planned Claude translation not carried out); the
+      year corrected to 2024 where the texts spoke of the 2024 volume.
+- [ ] **You:** the Mielke dates (NEEDS_CONFIRMATION, "Słowiński (2023)
+      and Słowiński & Połom (2024)"): the works' start 1925 against 1932;
+      the cache's removal 1932 against 1936 against "four years from
+      1933"; the new school 1933 against "a hundred years later".
+- [ ] **You:** the founders of 1746 - the four forms among the two
+      volumes' texts (Prusińscy / Prusiński and Rozdrażewska / Andrzej i
+      Paweł); which the edition follows when its own 1746 record is read
+      against them.
+- [ ] **You:** the founding of Łazińsk in 1718 (the 1942 article's item):
+      the 2024 volume is a third witness, the ruling still wanted.
+- [ ] **You:** the look at the 2024 summary and at the slowinski2023
+      English you supplied, when you want it.
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).
