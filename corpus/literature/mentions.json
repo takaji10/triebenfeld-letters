@@ -44231,6 +44231,36 @@
  },
  {
   "kind": "place",
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "surface": "Peisern",
+  "work": "werner1904",
+  "passage": "422",
+  "line": 3,
+  "context": "Bald nach dem Anfange des 18. Jahrhunderts scheinen in der Stadt Wreschen (poln. Września oder Wrzesno) Evangelische gewohnt zu haben. Sie erlangten im Jahre 1758 von dem Gutsherrn Matthias Lodzia Poniński die Erlaubnis, religiöse Zusammenkünfte zu halten und eine Schule zu gründen. Der Kronschätzmeister Fürst Adam Poniński erneuerte 1760 nicht nur diese Erlaubnis, sondern beförderte auch, um die Stadt durch deutsche Ansiedler zu heben, die Bildung einer evangelischen Ortsgemeinde. Er schenkte den Evangelischen durch ein Privilegium vom 1. Mai 1778 ein in seinem Schloßgarten gelegenes Orangeriehaus zur Kirche, zwei damit in Verbindung stehende Gebäude zur Pfarrer- und Kantorwohnung und gab eine culm. Hufe Acker zum Pfarrlande her. Das Konsistorium in Lissa genehmigte 1779 die Bildung einer besonderen Pfarre in Wreschen, und die Gemeinde wählte den ersten Pfarrer Marggraff. Zu dem sehr ausgedehnten Kirchspiele gehörte ursprünglich auch Schwarzenau (f. d.). Als daselbst eine eigene Pfarre entstand, ward Marggraff, wie es scheint, durch Mißhelligkeiten mit der Gutsherrschaft veranlaßt, sich dahin zu begeben, und die Gemeinde wurde darauf von Pfarrsubstituten versorgt. Die Parochialverhältnisse wurden erst zu südpreußischer Zeit vollständig geordnet. Eine an deutschen Hauländereien reiche Gegend mit den Städten Peisern und Zagorowo ging 1817 für die Pfarre verloren, da jene Ortschaften an Rußland kamen."
+ },
+ {
+  "kind": "place",
+  "entity": "russland",
+  "display": "Russland",
+  "surface": "Rußland",
+  "work": "werner1904",
+  "passage": "422",
+  "line": 3,
+  "context": "Bald nach dem Anfange des 18. Jahrhunderts scheinen in der Stadt Wreschen (poln. Września oder Wrzesno) Evangelische gewohnt zu haben. Sie erlangten im Jahre 1758 von dem Gutsherrn Matthias Lodzia Poniński die Erlaubnis, religiöse Zusammenkünfte zu halten und eine Schule zu gründen. Der Kronschätzmeister Fürst Adam Poniński erneuerte 1760 nicht nur diese Erlaubnis, sondern beförderte auch, um die Stadt durch deutsche Ansiedler zu heben, die Bildung einer evangelischen Ortsgemeinde. Er schenkte den Evangelischen durch ein Privilegium vom 1. Mai 1778 ein in seinem Schloßgarten gelegenes Orangeriehaus zur Kirche, zwei damit in Verbindung stehende Gebäude zur Pfarrer- und Kantorwohnung und gab eine culm. Hufe Acker zum Pfarrlande her. Das Konsistorium in Lissa genehmigte 1779 die Bildung einer besonderen Pfarre in Wreschen, und die Gemeinde wählte den ersten Pfarrer Marggraff. Zu dem sehr ausgedehnten Kirchspiele gehörte ursprünglich auch Schwarzenau (f. d.). Als daselbst eine eigene Pfarre entstand, ward Marggraff, wie es scheint, durch Mißhelligkeiten mit der Gutsherrschaft veranlaßt, sich dahin zu begeben, und die Gemeinde wurde darauf von Pfarrsubstituten versorgt. Die Parochialverhältnisse wurden erst zu südpreußischer Zeit vollständig geordnet. Eine an deutschen Hauländereien reiche Gegend mit den Städten Peisern und Zagorowo ging 1817 für die Pfarre verloren, da jene Ortschaften an Rußland kamen."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagorowo",
+  "work": "werner1904",
+  "passage": "422",
+  "line": 3,
+  "context": "Bald nach dem Anfange des 18. Jahrhunderts scheinen in der Stadt Wreschen (poln. Września oder Wrzesno) Evangelische gewohnt zu haben. Sie erlangten im Jahre 1758 von dem Gutsherrn Matthias Lodzia Poniński die Erlaubnis, religiöse Zusammenkünfte zu halten und eine Schule zu gründen. Der Kronschätzmeister Fürst Adam Poniński erneuerte 1760 nicht nur diese Erlaubnis, sondern beförderte auch, um die Stadt durch deutsche Ansiedler zu heben, die Bildung einer evangelischen Ortsgemeinde. Er schenkte den Evangelischen durch ein Privilegium vom 1. Mai 1778 ein in seinem Schloßgarten gelegenes Orangeriehaus zur Kirche, zwei damit in Verbindung stehende Gebäude zur Pfarrer- und Kantorwohnung und gab eine culm. Hufe Acker zum Pfarrlande her. Das Konsistorium in Lissa genehmigte 1779 die Bildung einer besonderen Pfarre in Wreschen, und die Gemeinde wählte den ersten Pfarrer Marggraff. Zu dem sehr ausgedehnten Kirchspiele gehörte ursprünglich auch Schwarzenau (f. d.). Als daselbst eine eigene Pfarre entstand, ward Marggraff, wie es scheint, durch Mißhelligkeiten mit der Gutsherrschaft veranlaßt, sich dahin zu begeben, und die Gemeinde wurde darauf von Pfarrsubstituten versorgt. Die Parochialverhältnisse wurden erst zu südpreußischer Zeit vollständig geordnet. Eine an deutschen Hauländereien reiche Gegend mit den Städten Peisern und Zagorowo ging 1817 für die Pfarre verloren, da jene Ortschaften an Rußland kamen."
+ },
+ {
+  "kind": "place",
   "entity": "kolno",
   "display": "Kolno (Kulm)",
   "surface": "Kolnie",
