@@ -147,6 +147,15 @@ so check them.
   database's Boniecki-derived IDs (2.976.*) are entries of the online
   Boniecki - check them against the edition's works. The database's
   pages are ISO-8859-2, not cp1250.
+  (`literature/minakowska2026miaczynski/notes.md` first for the third:
+  Stanisław Adam Miączyński, the edition's `miaczynski` - the marriage
+  act of 17 August 1810 the page cites against the edition's "about
+  1814" inferred from the letters of 1815: NEEDS_CONFIRMATION, the
+  entries unchanged until the editor rules; his page /people/miaczynski/
+  is the first genealogy block hanging on an entry of the edition. The
+  page has a Rodzeństwo section the selection does not bring in. Beware
+  duplicate YAML keys in `literature/index.yml` - a second key of the
+  same name silently shadows the first; merge instead.)
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither

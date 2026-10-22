@@ -86,6 +86,12 @@ people:
     Bertrand: "no: the building inspector von Bertrand at Krotoszyn (Held), not Napoleon's General Bertrand"
   beyme: {Beyme: yes}
   bluecher: {Blücher: yes}
+  broniewski:
+    # Minakowska (2026, Helena Zielonacka): the Bronisz family her page
+    # carries - Wojciech Bronisz, cup-bearer (cześnik) of Żytomierz, and his
+    # descendants through her daughter Agnieszka of the second marriage:
+    # no person of the edition, and no relation to its Broniewski.
+    Bronisz: "no: the Bronisz family of Helena Zielonacka's second marriage (Wojciech Bronisz of Żytomierz and his descendants), not the edition's Broniewski"
   brzechffa:
     Brzechta: "no: Joseph Brzechta, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
     Brzechwa: "no: Joseph Brzechwa, the tenant of Constantin von Milewski at Borszewice in the contract of 1796 (Breyer 1938); not the Podprefect B. Brzechffa"
@@ -212,6 +218,11 @@ people:
     Chełmski: yes
     Chełmskiego: yes
     Chełmskich: yes
+    # The feminine form: "Katarzyna, Józefa, Nepomucena and Izabela
+    # Honorata Ścibor-Chełmska" (Minakowska 2026, Helena Zielonacka, c02) -
+    # Józef's daughters and granddaughter, the family of the edition's
+    # entry.
+    Chełmska: yes
     Chełmscy: "no: the heading of Boniecki's article, the whole family of the arms Ostoja; its Łukomia branch is found by the names in the passages"
   koeckritz: {Köck: yes}
   kuh:
@@ -223,28 +234,43 @@ people:
     Lipski: "no: the prelate K. Lipski, lord of Chocz in 1790 (Breyer 1935, Chodyła 2015); not the appeal judge von Lipski at Kalisz in the edition's letters"
   luka:
     Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
+  malachowski:
+    # Minakowska (2026, Stanisław Adam Miączyński): the Małachowski of the
+    # database's line markers of Maria née Słubicka's descent (Antoni
+    # 5.367.323, Jacek 9.522.619, Stanisław 3.598.213), her forebears in
+    # the database's kinship furniture; not the president of the
+    # Commission.
+    Małachowski: "no: the Małachowski of the line markers of Maria née Słubicka's descent (Antoni, Jacek and Stanisław), not the president Stanisław Małachowski"
   massow:
     Massow: "no: the forest master von Massow (Guradze) and a signatory of 1800 (Held); not the edition's Massow"
   miaczynski:
+    # The two Miączyński blocks stand merged: a second key of the same name
+    # shadows the first in YAML, and the zychlinski exceptions were dead
+    # from 2026-10-22 until now.
     Miączyński:
       default: yes
       except:
         zychlinski1885/188: "Władysław Miączyński, Michalina's grandson, not Stanisław"
         zychlinski1891/223: "Włodzimierz Miączyński, Stanisław's son"
         zychlinski1891/224: "Atanazy Miączyński, the forebear of the family"
+        # Minakowska (2026, Antoni Prusimski): the bare "Miączyński" of the
+        # grandchildren's list names Stanisław's sons and grandsons (Aleksander,
+        # Stanisław, Władysław, Włodzimierz, Mieczysław, Witold, Józef Piotr
+        # Paweł, Tadeusz, Jerzy), not Stanisław the husband himself. The
+        # "Kajetan Miączyński" of the (linia:) on c03 is his forebear, and stands
+        # only inside the passage about his marriage.
+        minakowska2026prusimski/c04: "Stanisław's sons and grandsons, not Stanisław himself"
+        # Minakowska (2026, Stanisław Adam Miączyński): the parents' and
+        # ancestors' sections and the children's list. The front (the
+        # subject's own line and the Wikipedia line, with one (linia:) of
+        # his father) and the tree (his forebears with his own row) are
+        # mixed and left standing: the passages name him.
+        minakowska2026miaczynski/c01: Kajetan Jan Aleksander, his father, not Stanisław
+        minakowska2026miaczynski/c03: "Aleksander Adam Stanisław, his son (both hits of the line: his surname and the line marker of Kajetan), not Stanisław"
+        minakowska2026miaczynski/c04: his sons Włodzimierz, Mieczysław, Witold and Józef Piotr Paweł, his grandsons Stanisław, Władysław Atanazy, Witołd and Tadeusz Franciszek Władysław, and his great-grandsons Alfred and Władysław Józef, not Stanisław himself
     Miączyńskiego: yes
     Miączyńskiemu: yes
     Miączyńskim: yes
-    # Minakowska (2026, Antoni Prusimski): the bare "Miączyński" of the
-    # grandchildren's list names Stanisław's sons and grandsons (Aleksander,
-    # Stanisław, Władysław, Włodzimierz, Mieczysław, Witold, Józef Piotr
-    # Paweł, Tadeusz, Jerzy), not Stanisław the husband himself. The
-    # "Kajetan Miączyński" of the (linia:) on c03 is his forebear, and stands
-    # only inside the passage about his marriage.
-    Miączyński:
-      default: yes
-      except:
-        minakowska2026prusimski/c04: "Stanisław's sons and grandsons, not Stanisław himself"
   napoleon: {Napoleon: yes}
   neumann:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
@@ -279,6 +305,7 @@ people:
       default: yes
       except:
         minakowska2026prusimski/c03: "Marianna née Dąmbska, the Starost's wife, not Michalina"
+        minakowska2026miaczynski/c03: "Marianna née Dąmbska, Michalina's mother, named on her marriage line, not Michalina"
     # Minakowska (2026, Antoni Prusimski), the grandchildren's list: the
     # Countesses Miączyńska are Michalina's daughters and
     # granddaughters, not Michalina herself.
@@ -286,6 +313,7 @@ people:
       default: yes
       except:
         minakowska2026prusimski/c04: "Stanisława, Wanda, Michalina, Zdzisława and Maria, Michalina's granddaughters, not Michalina herself"
+        minakowska2026miaczynski/c04: "Stanisława, Wanda, Elżbieta, Maria, Zdzisława, Michalina and Olga, the daughters, granddaughters and great-granddaughters, not Michalina herself"
     Prusimska: yes
   prusimska-katarzyna:
     # Chodyła (2015): Katarzyna Prusimska, born Rozdrażewska, with Paweł the
@@ -911,6 +939,9 @@ places:
   wien: {Wien: yes}
   wieruszow:
     Wieruszów: "no: the village of Wieruszów in the commune of Gosławice by Konin (Breyer); not the town by Sokolniki of the edition's letters"
+    # Minakowska (2026, Helena Zielonacka): "h. Wieruszowa", the arms in
+    # the names of the Wierusz-Kowalski family on her page; not the town.
+    Wieruszowa: "no: the arms Wieruszowa in the names of the Wierusz-Kowalski family, not the town"
   wrabczyn:
     Wrąbczyn: yes
     Wrąbczynkowskie: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"

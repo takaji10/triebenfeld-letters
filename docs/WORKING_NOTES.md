@@ -1977,3 +1977,26 @@ cloud branches").
   "1849–1860"); the rule says a "ca" keeps its "ca". When a date moves from
   a source into the genealogy block, diff the token against the source, not
   against memory.
+
+- **YAML duplicate keys shadow silently** (2026-10-22). The miaczynski
+  section of `literature/index.yml` had TWO `Miączyński:` keys - the
+  second, added for the first Minakowska work, was shadowing the first
+  (which carries the zychlinski exceptions), and safe_load raises nothing:
+  the three exceptions were simply dead. When adding a ruling, merge into
+  the existing key; never add a second one of the same name. A `--check`
+  that passes does not catch this - only reading the section as text does.
+- **The Minakowska pages vary in their section set** (2026-10-22). The
+  first page had no Rodzeństwo section (the database knew no siblings of
+  Antoni Prusimski), the third does - so `make_original.py` stops the
+  editor's selection at the first section outside it (here Rodzeństwo,
+  there the mother's other marriages), not at a fixed heading. New marks
+  the third page brought: "hr. [tytuł] nadany" (a count's title granted,
+  translated "count [title] granted"), the Towarzystwo Rolnicze districts
+  as offices, the page's own Wikipedia line (kept), and the status list
+  with its "(linia: …)" markers joined into one line.
+- **A genealogy page can sharpen a date the edition only inferred**
+  (2026-10-22). The letters of 1815 name Miączyński the husband; the
+  edition inferred "about 1814"; the database's page cites the marriage
+  act of 17 August 1810. The conflict is shown on the site (both, the
+  flag beside the new date) and nothing is corrected until the editor
+  rules - NEEDS_CONFIRMATION carries it.

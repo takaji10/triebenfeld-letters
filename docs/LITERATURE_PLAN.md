@@ -679,6 +679,7 @@ A saved page of M. J. Minakowska's Wielka genealogia Minakowskiej
 |---|---|---|---|---|
 | `minakowska2026prusimski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
 | `minakowska2026zielonacka` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Helena Zielonacka (ID: 2.976.216), wydanie z 22.10.2026 | English (the site's English user interface; the names and the source lines Polish) | none: cut at headings | yes: the editor's sections only |
+| `minakowska2026miaczynski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Stanisław Adam Miączyński (ID: 4.285.278), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
 
 The editor's word (2026-10-22), the standing rule for the pages of this
 database that follow:
@@ -766,3 +767,17 @@ against the documents is in its `notes.md`; her page is
 /people/helena-zielonacka/ (/de/personen/helena-zielonacka/), a standalone
 person with the literature named by hand. The index: 6 hits, all the
 Chełmski family's, all ruled.
+
+The third page (Stanisław Adam Miączyński, 2026-10-22): the edition's
+`miaczynski` himself - the second husband of Michalina Prusimska, heir of
+Trąbczyn and Wieniec by the legitymacja of 1838, with the marriage act of
+17 August 1810 that the page cites (the edition's entries say "about 1814",
+inferred from the letters of 1815: NEEDS_CONFIRMATION, nothing changed
+yet). His page /people/miaczynski/ is the first whose genealogy block hangs
+on an entry of the edition: the documents and the automatic literature box
+beside the family. What the page brought against the documents and the
+entries is in its `notes.md`; the index: 47 hits, all ruled - including the
+four pairs the second page's session had left unruled (Bronisz, Chełmska,
+Małachowski, Wieruszowa) - and the two duplicate `Miączyński:` keys of the
+miaczynski section stood merged, whose shadowing had silenced the three
+zychlinski exceptions since 2026-10-22.

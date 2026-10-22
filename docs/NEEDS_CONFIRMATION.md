@@ -558,6 +558,31 @@ read, translate and summarise.
     April 1778's earlier title), now from a second witness. Nothing
     changes: the edition follows the documents.
 
+  **Minakowska (2026), Stanisław Adam Miączyński's page** (`minakowska2026miaczynski`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The marriage date: 1810 or about 1814.** The page gives the marriage
+    of Stanisław Miączyński and Michalina Prusimska "ślub: dnia 17 VIII
+    1810, Warszawa, Cyrkuł IV", resting on the marriage act it cites
+    (Warsaw ASC Cyrkuł IV, act 67 of 1810, indexed on geneteka, with a
+    szukajwarchiwach link). The edition's entries say "about 1814" -
+    inferred from the letters of 1815 (9454, letters 265b of 15 January
+    and 270) that already name him the husband; the bio of `miaczynski`,
+    the identity of `miaczynski` and the genealogy block of `prusimski`
+    all carry it, and the new page's marriage line carries the 1810 date
+    with the flag beside it, so the site shows both. The act is the
+    stronger source and four years earlier. **Awaiting the editor's
+    ruling; nothing has been changed yet.** If the editor accepts 1810,
+    the bio, the identity and the Prusimski block are corrected at once.
+  - **PSB t. 20 s. 562 (psb.17772.5).** The page's Uwagi cite the Polski
+    Słownik Biograficzny's article on Stanisław Adam Miączyński. The
+    edition holds no PSB volume as a literature work; whether to seek it
+    is the editor's.
+  - **Boniecki t. IV s. 157 (the Dąmbscy article)** and **Sęczys's
+    Szlachta wylegitymowana** (le.2259.3.8) are the page's other printed
+    sources; neither is a holding of the edition. The Nekrolog of the
+    Kurier Warszawski 111/1845 has its ebuw.uw.edu.pl link in the
+    knowledgebase.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
