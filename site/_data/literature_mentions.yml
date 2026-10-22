@@ -2702,6 +2702,12 @@ place:
     - key: '15'
       en: p. 15
       de: S. 15
+  - work: mielewczyk2017
+    cite: Mielewczyk (2017)
+    pages:
+    - key: '48'
+      en: p. 48
+      de: S. 48
   skokum:
   - work: breyer1938
     cite: Breyer (1938)
@@ -2970,6 +2976,18 @@ place:
     - key: '152'
       en: p. 152
       de: S. 152
+  - work: mielewczyk2017
+    cite: Mielewczyk (2017)
+    pages:
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '48'
+      en: p. 48
+      de: S. 48
+    - key: '56'
+      en: p. 56
+      de: S. 56
   wieniec:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -3259,3 +3277,15 @@ place:
     - key: '147'
       en: p. 147
       de: S. 147
+  - work: mielewczyk2017
+    cite: Mielewczyk (2017)
+    pages:
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '46'
+      en: p. 46
+      de: S. 46
+    - key: '48'
+      en: p. 48
+      de: S. 48

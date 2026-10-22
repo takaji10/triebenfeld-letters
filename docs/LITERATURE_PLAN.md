@@ -622,3 +622,50 @@ Brześć on the Bug, not Brześć Kujawski - ruled out (NEEDS_CONFIRMATION).
 No hand-made links yet: nothing in the article names the edition's people,
 estates or holdings; what it gives the edition is the setting of the court
 books it holds.
+
+## 21. Mielewczyk (2017) (2026-10-22)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `mielewczyk2017` | Wojciech Mielewczyk, "Zmiany przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie", *Z Dziejów Kartografii*, tom XXI, 2017, pp. 41-57 (Zespół Historii Kartografii, IH PAN) | Polish | `[p. N]` | yes |
+
+The editor's word (2026-10-22): "I want to add a new literary source to the
+project - the PDF is located in the Downloads folder and is called
+ZDK_21_041-057.pdf", with the bibliographic facts; asked, they ruled the
+article **visible, the figures skipped, a link to the article provided
+somewhere, and the whole article brought in**. The link is the open-access
+copy at maphist.waw.pl (the `scan:` of `work.yml`, shown on the work's page,
+as Kucharski's is). The article bears directly on the edition's ground:
+**fig. 4 is a fragment of the map of the estates of Trąbczyn of 1861**
+(1:15 000, AN 489/5) with the field of the enfranchised peasants marked, and
+p. 48 names **Kolonia Łazińskie and Kolonia Huta** among the villages founded
+on the parcelled lands of the Trąbczyn property - the edition's Staro- and
+Nowo-Łazińska colonies, though the article does not say so (the editor's
+ruling of 2026-10-14, APP 53/968/0/-/783). The rest is the setting of the
+nineteenth-century documents (the enfranchisement and separation, the
+Settlement Commission's parcellation, the melioration, the consolidation).
+
+The second work taken from a journal's own PDF with a clean text layer:
+`pipeline/literature/mielewczyk_pdf.py` makes `original.md` from it and holds
+every page's letters against the layer (`--check`); all 17 pages match. The
+layer's quirk is the **"fi" ligature** with a space after it ("Kartograﬁ i",
+"graﬁ cznie", "ﬁ elds"): twelve joins, each listed by --report. The article's
+19 notes stand at the foot of their pages; the fourteen figures (Ryc. 1-14)
+are not rendered, their captions staying as text - on four pages (43, 45, 49,
+51) a caption stands between two pieces of one paragraph, and a body line
+never joins a paragraph of another kind. A paragraph ends even when its last
+run is a note mark (p. 52, "347 tysięcy.[^16]"). The English is Claude's, page
+by page; **the article's own English block of p. 57 (the title, the summary,
+the key words) stands as printed**, being the author's; the `title_en` of
+`work.yml` is the one given with the work by the editor. The fourteen map
+titles of Źródła kartograficzne stand as printed with bracketed English
+renderings. The copyright is the Institute's (2017) and no open licence is
+stated; the editor ruled the article visible whole, and the Licences page was
+not changed (it names open licences only). The index found 17 mentions, all
+ruled (Trąbczyn pp. 45, 48, 56; Zagórów pp. 45, 46, 48; the commune of Rzgów
+p. 48; the map titles' Kaliszskoj and Konińskim p. 56; the minister
+Poniatowski refused, p. 52); the article's "Kolonia Łazińskie" is not matched
+by the edition's patterns, which take only the Staro-/Nowo-Łazińska forms -
+a pattern would have to say which colony (NEEDS_CONFIRMATION). No hand-made
+links yet: the article says nothing of the estate's owners or dates that a
+link's sentence could read.

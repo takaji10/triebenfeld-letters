@@ -36471,6 +36471,166 @@
  },
  {
   "kind": "place",
+  "entity": "posen",
+  "display": "Poznań (Posen)",
+  "surface": "Posen",
+  "work": "mielewczyk2017",
+  "passage": "42",
+  "line": 9,
+  "context": "[^1]: T. Jackowski, *Der Bauernbesitz in der Provinz Posen im 19. Jahrhundert*, Leipzig 1914, s. 35 i n."
+ },
+ {
+  "kind": "place",
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "surface": "Pyzdry",
+  "work": "mielewczyk2017",
+  "passage": "42",
+  "line": 19,
+  "context": "[^6]: Charakterystykę tego zbioru map przedstawia m.in.: W. Mielewczyk, *Wykorzystanie map do badania zmian przestrzeni społeczno-ekonomicznej wsi na przykładzie zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie*, w: *Dawne mapy jako źródła historyczne*, „Biblioteka Polskiego Przeglądu Kartograficznego”, t. 3, Warszawa 2012, s. 104–112 oraz idem, *Mapy wsi dawnego powiatu pyzdrskiego w zbiorach Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie*, w: *Terra Pisdrensis dawniej i dziś*, t. 1, Poznań–Pyzdry 2014, s. 22–29."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyn",
+  "work": "mielewczyk2017",
+  "passage": "45",
+  "line": 3,
+  "context": "W zaborze rosyjskim uwłaszczenie chłopów nastąpiło później i miało inny przebieg niż w zaborze pruskim. Wydany 2 marca 1864 r. ukaz uwłaszczeniowy władz carskich „O urządzeniu włościan” oddawał chłopom na własność ziemię przez nich użytkowaną. Nadanie to nie było połączone ze scalaniem działek rolnych należących do poszczególnych gospodarstw, zniesieniem serwitutów i separacją gruntów chłopskich od dworskich. Przykładem mapy z zaznaczonymi gruntami chłopów uwłaszczonych jest mapa dóbr Trąbczyn (obecnie gm. Zagórów, pow. słupecki, woj. wielkopolskie) (ryc. 4)[^8]."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "mielewczyk2017",
+  "passage": "45",
+  "line": 3,
+  "context": "W zaborze rosyjskim uwłaszczenie chłopów nastąpiło później i miało inny przebieg niż w zaborze pruskim. Wydany 2 marca 1864 r. ukaz uwłaszczeniowy władz carskich „O urządzeniu włościan” oddawał chłopom na własność ziemię przez nich użytkowaną. Nadanie to nie było połączone ze scalaniem działek rolnych należących do poszczególnych gospodarstw, zniesieniem serwitutów i separacją gruntów chłopskich od dworskich. Przykładem mapy z zaznaczonymi gruntami chłopów uwłaszczonych jest mapa dóbr Trąbczyn (obecnie gm. Zagórów, pow. słupecki, woj. wielkopolskie) (ryc. 4)[^8]."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyn",
+  "work": "mielewczyk2017",
+  "passage": "45",
+  "line": 5,
+  "context": "Ryc. 4. Fragment mapy dóbr Trąbczyn z 1861 r. w skali 1:15 000 z zaznaczonym polem chłopów uwłaszczonych. Pomniejszona. Sygn. AN 489/5"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "mielewczyk2017",
+  "passage": "46",
+  "line": 3,
+  "context": "Równolegle, jeszcze w okresie zaborów, występował proces parcelacji gruntów wielkiej własności ziemskiej przeprowadzany oddolnie przez zainteresowane strony. Spowodowany był głównie czynnikami ekonomicznymi. Parcelacja gruntów zarówno pomiędzy chłopów bezrolnych, jak i chcących powiększyć swoje gospodarstwa, wywoływała znaczące zmiany w przestrzeni wsi: na rozparcelowanych areałach pojawiały się miedze, do nowych parcel prowadzono drogi, często obsadzane drzewami, na parcelach stawiano budynki mieszkalne i zabudowania gospodarcze. Niekiedy zakładano przydomowe sady. Przykładem mapy, na której zaznaczono obszar rozparcelowany, jest mapa dóbr Zabłocie (obecnie gm. Zagórów, pow. słupecki, woj. wielkopolskie) z roku 1889 (ryc. 5). Naniesiono tam adnotację o rozparcelowaniu zaznaczonego pola przy pomocy Banku Włościańskiego."
+ },
+ {
+  "kind": "place",
+  "entity": "rzgow",
+  "display": "Rzgów",
+  "surface": "Rzgów",
+  "work": "mielewczyk2017",
+  "passage": "48",
+  "line": 3,
+  "context": "Nowo powstałe wsie miały często w swoich nazwach słowo Kolonia, np. Kolonia Łazińskie, Kolonia Huta powstałe na rozparcelowanych dobrach majątku Trąbczyn (gm. Zagórów, pow. słupecki, woj. wielkopolskie). Kilka nowych kolonii widnieje na mapie wsi Grabienice (gm. Rzgów, pow. koniński, woj. wielkopolskie) z roku 1873 (Kolonia Huta, Kolonia Ludwikowo, Kolonia Wojciechowo i Kolonia Boberfeldowo) (ryc. 8). Również w dobrach majątku Umień (gm. Olszówka, pow. kolski, woj. wielkopolskie) powstało kilka kolonii (Kolonia Banachów, Kolonia Hilarów i Kolonia Szczepanów), które uwidoczniono na mapie z roku 1845 (ryc. 9)."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyn",
+  "work": "mielewczyk2017",
+  "passage": "48",
+  "line": 3,
+  "context": "Nowo powstałe wsie miały często w swoich nazwach słowo Kolonia, np. Kolonia Łazińskie, Kolonia Huta powstałe na rozparcelowanych dobrach majątku Trąbczyn (gm. Zagórów, pow. słupecki, woj. wielkopolskie). Kilka nowych kolonii widnieje na mapie wsi Grabienice (gm. Rzgów, pow. koniński, woj. wielkopolskie) z roku 1873 (Kolonia Huta, Kolonia Ludwikowo, Kolonia Wojciechowo i Kolonia Boberfeldowo) (ryc. 8). Również w dobrach majątku Umień (gm. Olszówka, pow. kolski, woj. wielkopolskie) powstało kilka kolonii (Kolonia Banachów, Kolonia Hilarów i Kolonia Szczepanów), które uwidoczniono na mapie z roku 1845 (ryc. 9)."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "mielewczyk2017",
+  "passage": "48",
+  "line": 3,
+  "context": "Nowo powstałe wsie miały często w swoich nazwach słowo Kolonia, np. Kolonia Łazińskie, Kolonia Huta powstałe na rozparcelowanych dobrach majątku Trąbczyn (gm. Zagórów, pow. słupecki, woj. wielkopolskie). Kilka nowych kolonii widnieje na mapie wsi Grabienice (gm. Rzgów, pow. koniński, woj. wielkopolskie) z roku 1873 (Kolonia Huta, Kolonia Ludwikowo, Kolonia Wojciechowo i Kolonia Boberfeldowo) (ryc. 8). Również w dobrach majątku Umień (gm. Olszówka, pow. kolski, woj. wielkopolskie) powstało kilka kolonii (Kolonia Banachów, Kolonia Hilarów i Kolonia Szczepanów), które uwidoczniono na mapie z roku 1845 (ryc. 9)."
+ },
+ {
+  "kind": "place",
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "surface": "Pyzdry",
+  "work": "mielewczyk2017",
+  "passage": "54",
+  "line": 3,
+  "context": "Przykładami map przedstawiających komasację gruntów w roku 1930 we wschodniej Wielkopolsce są mapy wsi Błonawy (gm. Sompolno, pow. koniński, woj. wielkopolskie) (ryc. 13) oraz Lisewo (gm. Pyzdry, pow. wrzesiński, woj. wielkopolskie) (ryc. 14)."
+ },
+ {
+  "kind": "place",
+  "entity": "posen",
+  "display": "Poznań (Posen)",
+  "surface": "Posen",
+  "work": "mielewczyk2017",
+  "passage": "55",
+  "line": 9,
+  "context": "Jackowski T., 1914, *Der Bauernbesitz in der Provinz Posen im 19. Jahrhundert*, Leipzig."
+ },
+ {
+  "kind": "place",
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "surface": "Pyzdry",
+  "work": "mielewczyk2017",
+  "passage": "55",
+  "line": 25,
+  "context": "Mielewczyk W., 2014, *Mapy wsi dawnego powiatu pyzdrskiego w zbiorach Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie*, w: *Terra Pisdrensis dawnej i dziś*, t. 1, Poznań – Pyzdry, s. 22–29."
+ },
+ {
+  "kind": "place",
+  "entity": "posen",
+  "display": "Poznań (Posen)",
+  "surface": "Posen",
+  "work": "mielewczyk2017",
+  "passage": "55",
+  "line": 37,
+  "context": "*Regierungsbezirk Posen. Kreis Obornik. Gemarkung Przeclaw (Prinzenau) Nr 144. Gemarkungskarte in 1 Blatt als Copie der Karte der alten Landschaft 1840 Strasburg gefertigt im Oktober 1861 durch den Vermessungs-Revisor Heinamann. Rektificirt im April 1862 durch den Geometer Heidenwich. Copirt im Monat Mai 1894 durch Tuck. Wiederkopirt im Monat April 1895 durch Boetzel*. Kopia mapy z 1840 r. oprac. przez Strasburga, 1:5000, 68 × 102 cm, rękopiśmienna, sygn. AN 681/1."
+ },
+ {
+  "kind": "place",
+  "entity": "kalisz",
+  "display": "Kalisz (Kalisch)",
+  "surface": "Kaliszskoj",
+  "work": "mielewczyk2017",
+  "passage": "56",
+  "line": 7,
+  "context": "*Płan Kolonii Izydorek (Mniewo) Kaliszskoj Gubiernii Kolskogo Ujezda. Skontrowan s płana sostawliennago w 1866 g Czastwym Ziemliemierom Pietrynowskim, 1869 Hartiewskij*, 1:5000, rękopiśmienna, 25 × 44 cm, sygn. AN 1366."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyn",
+  "work": "mielewczyk2017",
+  "passage": "56",
+  "line": 9,
+  "context": "*Plan zbiorowy dóbr Trąbczyn w Guberni Kaliskiej Powiecie Słupecki położonych. Z planów z roku 1861 Jeometry Przysięgłego Józefa Kozłowskiego wykonał w roku 1886 Jeometra Przysięgły Klasy II-ej Kar. Kubicki*, 1:15 000, rękopiśmienna, 62 × 83 cm, sygn. AN 489/5."
+ },
+ {
+  "kind": "place",
+  "entity": "konin",
+  "display": "Konin",
+  "surface": "Konińskim",
+  "work": "mielewczyk2017",
+  "passage": "56",
+  "line": 11,
+  "context": "*Plan Zbiorowy dóbr Grabienice w Guberni Kaliskiej Powiecie Konińskim położonych. Z planów z roku 1865 Jeometry Gotzkejn wykonał w r. 1873 na podziałkę 1:20 000 Jeometra rz. kl. 2ej Leon Szymański*, 20 000, rękopiśmienna, 45 × 54 cm, sygn. AN 489/17."
+ },
+ {
+  "kind": "place",
   "entity": "paris",
   "display": "Paris",
   "surface": "Paris",

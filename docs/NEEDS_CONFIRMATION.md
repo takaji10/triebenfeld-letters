@@ -468,6 +468,27 @@ read, translate and summarise.
     ("Brześc") is ruled "no" across the literature, so a later work naming
     Brześć Kujawski in a form the pattern takes for that spelling would need
     its own passage-level exception.
+  **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22;
+  `literature/mielewczyk2017/notes.md`): Wojciech Mielewczyk, "Zmiany
+  przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie
+  wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu
+  Rolno-Spożywczego w Szreniawie", *Z Dziejów Kartografii* XXI, 2017,
+  pp. 41-57, brought in whole from the editor's PDF, shown whole on the site
+  (the editor's rulings of 2026-10-22: visible, the figures skipped, the
+  whole article; the link is the open-access copy at maphist.waw.pl).
+  - **A pattern for "Kolonia Łazińskie"** (p. 48): the article names the
+    colony among the new villages founded on the parcelled lands of the
+    Trąbczyn property, but not which of the two (the edition's
+    `trabczynskie-stare-oledry` and `trabczynskie-nowe-oledry`, the summons'
+    "Staro-/Nowo-Łazińska"). The edition's patterns match only the prefixed
+    forms, so the mention is not indexed. To add a literature pattern (for
+    one colony, or shared), the editor's word. **For the editor**.
+  - **The index rulings of the map titles** (p. 56), Claude's, standing:
+    "Kaliszskoj Gubiernii" ruled to Kalisz (the Governorate named from the
+    town) and "Powiecie Konińskim" to Konin (the district the village lies
+    in, unlike Chodyła's headings refused); Juliusz Poniatowski, the
+    minister of agriculture of 1938, refused to Prince Józef (p. 52,
+    note 18). Nothing hangs on them but the question corpus.
 
 ## Readings, Oe 1 Bü 9454
 

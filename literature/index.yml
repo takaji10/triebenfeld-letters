@@ -245,6 +245,10 @@ people:
       except:
         chodyla2015/19: "King Stanisław August Poniatowski, not Prince Józef"
         chodyla2015/52: "King Stanisław August Poniatowski, not Prince Józef"
+        # Mielewczyk (2017): Juliusz Poniatowski, the Minister of Agriculture
+        # and Land Reforms, in the citation of his speech to the Sejm's budget
+        # commission of 20 January 1938 (note 18); not Prince Józef.
+        mielewczyk2017/52: "Juliusz Poniatowski, the minister of agriculture of 1938, in the citation of his speech; not Prince Józef"
   pontanus: {Pontanus: yes}
   prinz-george: {George: yes}
   prittwitz:
@@ -662,6 +666,10 @@ places:
     Kaliszu: yes
     Kaliszkowice: "no: the church estate Kaliszkowice, given to Rüchel"
     Kalisza: yes
+    # Mielewczyk (2017): "Kaliszskoj Gubiernii", the Kalisz Governorate, in
+    # the Izydorek map's own title (p. 56); the Governorate named from the
+    # town, as the other works' "Guberni Kaliskiej" would be.
+    Kaliszskoj: yes
   karge: {Karge: yes}
   kempen:
     Kempen: yes
@@ -679,6 +687,10 @@ places:
     Koninem: yes
     Koninie: yes
     Koniński: "no: the district of Konin as a heading of Tab. 1, and the journal Rocznik Koniński (Chodyła 2015)"
+    # Mielewczyk (2017): "Powiecie Konińskim", the Konin district, in the
+    # Grabienice map's own title (p. 56) - the district the village lies in,
+    # a statement of geography and not a heading; unlike "Koniński" above.
+    Konińskim: yes
   ladek: {Lądek: yes}
   kopojno:
     Kopojno: yes
