@@ -1,0 +1,27 @@
+Wojciech Otto-Trąmpczyński (ID: sw.35437)
+
+Born probably in 1560
+died
+
+# Marriages and children, grandchildren, and to the great-grandchildren
+
+Wife (married: about 1590): Anna Cerekwicka ?1570-, children
+Stanisław ?1600-
+& Anna Słonecka of Słończyce ?1630-1662/
+children
+Władysław Otto-Trąmpczyński ?1630-
+& Anna Bojanowska of Bojanowo, arms Junosza ?1630-
+|
+Andrzej Otto-Trąmpczyński ?1660- |
+Anna Otto-Trąmpczyńska ?1660-1727/ |
+Władysław Otto-Trąmpczyński ?1670- |
+Wojciech Otto-Trąmpczyński ?1650-
+& Marianna Zawadzka, arms Korzbok ?1650-
+|
+Dorota Otto-Trąmpczyńska ?1690-1722..1724 |
+Maria Otto-Trąmpczyńska, arms Topór ?1650-
+& Maciej Debrzyński of Błogowo, arms Nałęcz (odm.) ?1600-
+|
+Teresa Debrzyńska of Błogowo, arms Nałęcz (odm.) ?1640- |
+Zofia Debrzyńska of Błogowo, arms Nałęcz (odm.) ?1640- |
+& Mikołaj Grylewski, arms Topór ?1650-

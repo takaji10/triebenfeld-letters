@@ -680,6 +680,7 @@ A saved page of M. J. Minakowska's Wielka genealogia Minakowskiej
 | `minakowska2026prusimski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
 | `minakowska2026zielonacka` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Helena Zielonacka (ID: 2.976.216), wydanie z 22.10.2026 | English (the site's English user interface; the names and the source lines Polish) | none: cut at headings | yes: the editor's sections only |
 | `minakowska2026miaczynski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Stanisław Adam Miączyński (ID: 4.285.278), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
+| `minakowska2026ottotrampczynski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Wojciech Otto-Trąmpczyński (ID: sw.35437), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
 
 The editor's word (2026-10-22), the standing rule for the pages of this
 database that follow:
@@ -781,3 +782,17 @@ four pairs the second page's session had left unruled (Bronisz, Chełmska,
 Małachowski, Wieruszowa) - and the two duplicate `Miączyński:` keys of the
 miaczynski section stood merged, whose shadowing had silenced the three
 zychlinski exceptions since 2026-10-22.
+
+The fourth page (Wojciech Otto-Trąmpczyński, 2026-10-22): the
+sixteenth-century man of the edition's Trąmpczyński family - the
+database's "sw." number, its first of the Teki Dworzaczka regest numbers,
+and the regest of 1614 (his son's marriage portion, Pyzdry books) is the
+page's one source. His page /people/wojciech-otto-trampczynski/ is the
+second standalone, and its slug is deliberately not the family entry's:
+**a standalone block's slug must not be an entry's slug** - a block keyed
+`trampczynski` collided with the family entry's heading and bio in the
+layout, and was renamed. What the work forced in the pipeline: the index
+dedup dropped an extra pattern's hit whenever an edition pattern of the
+same slug fullmatched the surface, whether or not it could fire - an
+`only_in` person's literature hits could never be counted; it now asks
+`applies()` first. The index: 9 hits, all ruled, `--check` clean.

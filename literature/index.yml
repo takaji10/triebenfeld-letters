@@ -28,6 +28,15 @@
 
 patterns:
   person:
+    # The edition's entry for the Trąmpczyński family carries only_in (the
+    # five documents that name it), so its pattern matches nothing in the
+    # literature; this bare form gives the literature its hits, ruled like
+    # any other. Minakowska (2026, Wojciech Otto-Trąmpczyński) is the page
+    # of the sixteenth-century Wojciech, the by-name Otto's man.
+    # Minakowska (2026, Wojciech Otto-Trąmpczyński): the by-name "Otto-" in
+    # her subject's name and his descendants' names; a bare Trąmpczyński
+    # hits nothing extra here (the pattern's hits are the family).
+    trampczynski: 'Trąmpczy[nń]sk\w*'
     # Feuerbrände writes the Prince's name without the final e, and as an
     # adjective: "Hohenloh", "die Hohenloh'sche Armee", "die Hohenlohschen
     # Besitzungen" (3-132; Materialien p. 146 "Hohenloheschen").
@@ -76,6 +85,23 @@ patterns:
     krotoszyn: 'Crotozcyn\w*|Krotocz?yn\w*|Krotoscz?yn\w*'
 
 people:
+  trampczynski:
+    # The edition's own entry carries only_in (the five documents that name
+    # the family), so its pattern matches nothing in the literature; this
+    # bare form, added for Minakowska (2026, Wojciech Otto-Trąmpczyński),
+    # gives the literature its hits, ruled like any other.
+    # The page's hits are the subject and his descendants (the family the
+    # edition's entry covers): yes.
+    Trąmpczyński: yes
+    Trąmpczyńska: yes
+    # Chodyła (2015) n. 34: "w Trąmpczyńskich Ol." (the Olędry of
+    # Trąmpczyński, the placename of Marcin Hunt's holding, the site of the
+    # sitting of 17 X 1782): not a person, the colony's name.
+    Trąmpczyńskich: "no: 'w Trąmpczyńskich Ol.', the Olędry colony named for the family (Chodyła 2015, n. 34), not a person"
+    # Żychliński (1885) p. 187: "Janem **Trąmpczyńskim** herbu Topór (1700)",
+    # the husband of Teresa Gajewska in the Opaliński genealogy; not shown
+    # to be of the edition's family or of the page's line.
+    Trąmpczyńskim: "no: Jan Trąmpczyński of the arms Topór (Żychliński 1885, p. 187), the husband of Teresa Gajewska in the Opaliński genealogy; not shown to be of the edition's family or of the page's line"
   amelang: {Amelang: yes}
   beguelin: {Beguelin: yes}
   bernhard:

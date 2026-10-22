@@ -1,0 +1,79 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 22). original.md
+# and full.md are made by make_original.py from the editor's saved page of
+# sejm-wielki.pl (person sw.35437); the page is not kept in the repository
+# (the editor's login in its header, the visitor's IP in its footer).
+# original.md is the editor's sections only - the biographical line, the
+# marriage and the children and grandchildren - shown on the site; full.md
+# is the whole page, the knowledgebase, never shown on it. english.md is
+# Claude's. No page marks: the work is cut at its headings. A short page:
+# no biography, no parents, no ancestor tree, no siblings - the subject of
+# the sixteenth century is known to the database by his marriage and his
+# descent alone. See notes.md.
+slug: minakowska2026ottotrampczynski
+visible: true
+kind: reference
+title: "Wojciech Otto-Trąmpczyński (ID: sw.35437)"
+title_en: "Wojciech Otto-Trąmpczyński (ID: sw.35437)"
+cite: "Minakowska (2026, Wojciech Otto-Trąmpczyński)"
+author: "Maria Jadwiga Minakowska"
+author_sort: "Minakowska, Maria Jadwiga"
+published: "Wielka genealogia Minakowskiej (Wielcy.pl), the person page sw.35437, wydanie z 22.10.2026 (the database's edition of 22 October 2026)"
+year: 2026
+language: pl
+english_by: Claude
+scan: "https://www.sejm-wielki.pl/b/sw.35437"
+pages:
+  # no page marks in the database's page: cut at each heading
+  chapter: '^# '
+account_en: >-
+  The page of Wojciech Otto-Trąmpczyński (born probably in 1560 by the
+  database's own estimate, died unknown) in Maria Jadwiga Minakowska's
+  online database Wielka genealogia Minakowskiej (sejm-wielki.pl), person
+  sw.35437, the database's edition of 22 October 2026. A short page: no
+  biography, no parents, no ancestor tree, no siblings - what the sections
+  brought in give is his marriage about 1590 (the database's estimate, not
+  evidence) to Anna Cerekwicka, their son Stanisław, and the
+  grandchildren and great-grandchildren through Stanisław - among them the
+  second Wojciech, whose marriage to Marianna née Zawadzka carries the
+  line of the Trąmpczyńskis that the edition's documents of the seventeenth
+  century name (the brothers Marcin, Wojciech, Władysław and Andrzej, sons
+  of the late Stanisław, condemned in 1644 at the suit of Jerzy
+  Chełmski). The database's person number sw.35437 is of its "sw." branch,
+  the numbers of the Teki Dworzaczka regests: this person comes into the
+  database from a regest of the Pyzdry court books (the page's Uwagi carry
+  it), and the regest of 1614 it names is the record behind the marriage
+  of his son Stanisław to Anna Słonecka - her dowry of 7,000 zł promised
+  on half the estates. The database is compiled from the printed armorials
+  and the regests; the whole page, its Uwagi included, is kept in the
+  work's folder as the knowledgebase (full.md) though it is not shown
+  here. Its estimated dates, marked with a question mark ("?1570-"), are
+  the database's own guesses and are not evidence: the edition does not
+  take them into its prose. Where the page differs from the edition's
+  documents, the notes say so, and the edition follows the documents.
+account_de: >-
+  Die Seite von Wojciech Otto-Trąmpczyński (nach der eigenen Schätzung der
+  Datenbank vielleicht 1560 geboren, Todesjahr unbekannt) in Maria Jadwiga
+  Minakowskas Online-Datenbank Wielka genealogia Minakowskiej
+  (sejm-wielki.pl), Person sw.35437, Ausgabe der Datenbank vom 22.10.2026.
+  Eine kurze Seite: keine Biographie, keine Eltern, kein Vorfahrenbaum,
+  keine Geschwister - was die aufgenommenen Abschnitte geben, ist seine Ehe
+  um 1590 (Schätzung der Datenbank, kein Beleg) mit Anna Cerekwicka, ihr
+  Sohn Stanisław, und die Enkel und Urenkel durch Stanisław - unter ihnen
+  der zweite Wojciech, dessen Ehe mit Marianna geb. Zawadzka die Linie der
+  Trąmpczyńskis trägt, die die Dokumente der Edition des 17. Jahrhunderts
+  nennen (die Brüder Marcin, Wojciech, Władysław und Andrzej, Söhne des
+  verstorbenen Stanisław, 1644 auf Klage des Jerzy Chełmski in Abwesenheit
+  verurteilt). Die Personennummer der Datenbank, sw.35437, gehört zur
+  "sw."-Zweige ihrer Nummern, den Nummern der Regeste der Teki Dworzaczka:
+  diese Person kommt aus einem Regest der Pyzdryer Gerichtsbücher in die
+  Datenbank (der Uwagi-Abschnitt der Seite trägt es), und das Regest von
+  1614, das sie nennt, ist die Aufzeichnung hinter der Ehe seines Sohnes
+  Stanisław mit Anna Słonecka - ihre Mitgift von 7.000 zł, auf die Hälfte
+  der Güter versprochen. Die Datenbank ist aus den gedruckten Wappenbüchern
+  und den Regesten gearbeitet; die ganze Seite, die Uwagi eingeschlossen,
+  liegt als Wissensspeicher (full.md) im Ordner des Werks, wird hier aber
+  nicht gezeigt. Ihre geschätzten Daten, mit einem Fragezeichen bezeichnet
+  ("?1570-"), sind Schätzungen der Datenbank und sind kein Beleg: die
+  Edition nimmt sie nicht in ihren Text. Wo die Seite von den Dokumenten
+  der Edition abweicht, sagen es die Anmerkungen, und die Edition folgt
+  den Dokumenten.

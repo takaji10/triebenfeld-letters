@@ -90,6 +90,13 @@ def extra_patterns(authority, patterns):
     return out
 
 
+def _applies_or_true(rx, uid):
+    """Whether the authority's pattern may match in this record: a plain
+    compiled pattern may everywhere; an entities._Rx (only_in, not_in)
+    answers for itself."""
+    return True if not isinstance(rx, entities._Rx) else rx.applies(uid)
+
+
 def hits(patterns=None):
     """Every hit in the originals of the visible works, in order."""
     with open(os.path.join(CORPUS, 'index.json'), encoding='utf-8') as f:
@@ -99,7 +106,8 @@ def hits(patterns=None):
     edition_rx = collections.defaultdict(list)
     for kind, auth in authority.items():
         for slug, _, rx in auth:
-            edition_rx[(kind, slug)].append(getattr(rx, 'rx', rx))    # an entities._Rx wraps it
+            # the _Rx wrapper itself: applies() is asked of it (see below)
+            edition_rx[(kind, slug)].append(rx)
     out = []
     for w in works:
         for p in w['passages']:
@@ -112,9 +120,16 @@ def hits(patterns=None):
             for kind, auth in authority.items():
                 found = entities._mentions(rec, auth, kind)
                 # a literature pattern that also catches a form the edition's
-                # own pattern catches would count that hit twice
+                # own pattern catches would count that hit twice - but only
+                # where the edition's pattern can actually fire here: a
+                # pattern fenced with only_in (the Trąmpczyński family's five
+                # documents) matches nothing in a literature uid, so its
+                # literature pattern is the only route and nothing is
+                # double-counted (2026-10-22, Minakowska 2026,
+                # Wojciech Otto-Trąmpczyński)
                 found += [m for m in entities._mentions(rec, extra.get(kind, []), kind)
-                          if not any(rx.fullmatch(m['surface'])
+                          if not any(_applies_or_true(rx, rec['uid'])
+                                     and rx.fullmatch(m['surface'])
                                      for rx in edition_rx[(kind, m['entity'])])]
                 for m in sorted(found, key=lambda m: m['line']):
                     out.append({'kind': kind, 'entity': m['entity'], 'display': m['display'],

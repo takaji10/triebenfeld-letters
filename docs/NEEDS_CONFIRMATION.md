@@ -600,6 +600,23 @@ read, translate and summarise.
     Kurier Warszawski 111/1845 has its ebuw.uw.edu.pl link in the
     knowledgebase.
 
+  **Minakowska (2026), Wojciech Otto-Trąmpczyński's page** (`minakowska2026ottotrampczynski`,
+  2026-10-22), set out in the work's `notes.md`:
+  - **The regest of 1614** (the page's Uwagi; Teki Dworzaczka, Księgi
+    grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137): Stanisław Trąmpczyński,
+    son of Wojciech Otha Trąmpczyński, pledges half his estates for the
+    7,000-zł dowry of Anna Słonecka at her wedding. The register (the
+    Pyzdry court books) is not one the edition holds; whether to seek it
+    is the editor's.
+  - **The descent against the decree of 1644.** The page's grandchildren
+    (Władysław, Andrzej, Anna, a second Władysław, the second Wojciech)
+    are of the generation of the decree's brothers (the sons of the late
+    Stanisław, with the widow Anna of Słończyce), and the database's
+    Stanisław's wife is Anna Słonecka of Słończyce: the database's
+    Stanisław is the decree's late father. Nothing in the edition's texts
+    is built on it; the person's page carries it with the work as its
+    source.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as

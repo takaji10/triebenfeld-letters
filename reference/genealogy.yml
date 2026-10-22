@@ -365,3 +365,80 @@ people:
       Minakowskiej, und die Trauungsurkunde von Warschau ASC Cyrkuł IV
       67/1810 mit ihrem Archivverweis. Die ganze Seite, diese eingeschlossen,
       liegt im Ordner des Werks; nichts davon wird hier gezeigt.
+
+  wojciech-otto-trampczynski:
+    # The slug is NOT the family entry's (trampczynski): the family has its
+    # own page (/people/trampczynski/, heading and documents from its
+    # people.yml entry), and this block's page must not collide with it.
+    # The edition's Trąmpczyński family, which held Trąbczyn before the
+    # Prusimskis and took its name from it, with the by-name Otto. Not a
+    # person of the edition's documents: the family is a family entry, and
+    # this page is the sixteenth-century Wojciech whose by-name and whose
+    # son's record (the regest of 1614) are the database's source for the
+    # line. The page's subject is in none of the documents, so the block
+    # stands alone (a standalone person: heading and bio of its own, no
+    # documents, the literature named by hand); its value to the edition is
+    # the family's line: the son Stanisław of the regest of 1614, and the
+    # four brothers of the decree of 1644 who are his sons (Władysław,
+    # Andrzej, Anna and the second Władysław) or of the next generation.
+    standalone: true
+    heading: "Wojciech Otto-Trąmpczyński"
+    heading_de: "Wojciech Otto-Trąmpczyński"
+    bio: >-
+      Wojciech Otto-Trąmpczyński, of the family that held Trąbczyn before
+      the Prusimskis and took its name from it, with the by-name Otto - the
+      "Otha" of the record of 1614, where his son Stanisław pledges half
+      the estates for the dowry of the bride Anna Słonecka. The database
+      gives him no certain dates - "born probably in 1560" is its estimate,
+      and none is shown here - and no parents; what carries his line is the
+      marriage of about 1590 (again its estimate) to Anna Cerekwicka, their
+      son Stanisław, and the grandchildren through him, among them the
+      second Wojciech, whose marriage to Marianna née Zawadzka carries the
+      line to the brothers of the decree of 1644 that the edition's
+      documents name.
+    bio_de: >-
+      Wojciech Otto-Trąmpczyński, aus der Familie, der Trąbczyn vor den
+      Prusimskis gehörte und die sich nach dem Gut nannte, mit dem Beinamen
+      Otto - dem "Otha" der Aufzeichnung von 1614, in der sein Sohn
+      Stanisław die Hälfte der Güter für die Mitgift der Braut Anna
+      Słonecka verpfändet. Die Datenbank gibt ihm keine sicheren Daten -
+      "vielleicht 1560 geboren" ist ihre Schätzung, und keines wird hier
+      gezeigt - und keine Eltern; was seine Linie trägt, ist die Ehe um
+      1590 (wieder ihre Schätzung) mit Anna Cerekwicka, ihr Sohn Stanisław,
+      und die Enkel durch ihn, unter ihnen der zweite Wojciech, dessen Ehe
+      mit Marianna geb. Zawadzka die Linie zu den Brüdern des Dekrets von
+      1644 trägt, die die Dokumente der Edition nennen.
+    marriages:
+      - name: "Anna Cerekwicka"
+        note: "the database's marriage year (about 1590) is its estimate and is not shown; her dates are the database's estimate (?1570-) and none is shown"
+        source: "minakowska2026ottotrampczynski/c01"
+    children:
+      - name: "Stanisław"
+        note: "the record of 1614 (Teki Dworzaczka, Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) has him son of Wojciech Otha Trąmpczyński and marrying Anna, a daughter of Jan Słonecki of the Chełmski marriage's own story's Słończyce, pledging half his estates for her 7,000-zł dowry; the brothers and sisters of the decree of 1644 (the sons Władysław and Andrzej and the daughter Anna of the database's page, with the second Władysław) hang on his line"
+        source: "minakowska2026ottotrampczynski/c01"
+        note_source: "app536036-1"
+    notes: >-
+      The page's Uwagi carry one source, and it is the database's own
+      source for the person: the Teki Dworzaczka regest of the Pyzdry
+      court books (Księgi grodzkie pyzdrskie, cz. 1, nr 2152, Nr 137) of
+      1614 - Stanisław Trąmpczyński, son of Wojciech Otha Trąmpczyński,
+      pledges to Jan Słonecki, son of Marcin, that after the wedding of
+      Anna Słonecka, daughter of the late Stanisław Słonecki, cup-bearer
+      (podstoli) of Kalisz, by Elżbieta Chwalibowska, he will secure her
+      7,000 zł as dowry and warranty on half the estates (fol. 255). The
+      whole page, this included, is kept in the work's folder; none of it
+      is shown here.
+    notes_de: >-
+      Die Uwagi der Seite tragen eine Quelle, und sie ist die eigene Quelle
+      der Datenbank für die Person: das Regest der Teki Dworzaczka aus den
+      Pyzdryer Gerichtsbüchern (Księgi grodzkie pyzdrskie, cz. 1, nr 2152,
+      Nr 137) von 1614 - Stanisław Trąmpczyński, Sohn des Wojciech Otha
+      Trąmpczyński, verpfändet dem Jan Słonecki, Sohn des Marcin, dass er
+      nach der Vermählung der Anna Słonecka, Tochter des verstorbenen
+      Stanisław Słonecki, Untstallmeister (podstoli) von Kalisz, und der
+      Elżbieta Chwalibowska, ihr 7.000 zł als Mitgift und Sicherheit auf
+      die Hälfte der Güter sichern wird (fol. 255). Die ganze Seite, dies
+      eingeschlossen, liegt im Ordner des Werks; nichts davon wird hier
+      gezeigt.
+    literature_passages:
+      - "minakowska2026ottotrampczynski/c01"

@@ -2010,3 +2010,21 @@ cloud branches").
   act of 17 August 1810. The conflict is shown on the site (both, the
   flag beside the new date) and nothing is corrected until the editor
   rules - NEEDS_CONFIRMATION carries it.
+- **An `only_in` person is invisible to the literature index until the
+  dedup asks `applies()`** (2026-10-22). The edition's `trampczynski`
+  entry carries `only_in`, so its pattern cannot fire in a literature
+  uid; the extra-pattern route would have supplied the hits, but the
+  dedup in `literature_index.hits()` dropped them - it asked only whether
+  an edition pattern of the same slug fullmatched the surface, not
+  whether it could apply to the record. Fixed (2026-10-22,
+  `minakowska2026ottotrampczynski`): the dedup now asks `applies()`
+  first. Lesson: when a work's hits come out as zero while the text
+  plainly carries the name, suspect a fence (only_in, not_in) before
+  suspecting the pattern.
+- **A standalone block's slug must not be an entry's slug** (2026-10-22).
+  The fourth Minakowska page's block was first keyed `trampczynski` - the
+  family entry's own slug - and the page took the family's heading and
+  bio from people.yml, the block's bio nowhere on it. The block was
+  renamed `wojciech-otto-trampczynski`; the collision and the rule are
+  recorded in the block's comment in `reference/genealogy.yml`. The
+  family entry itself keeps no page (it never had a genealogy block).

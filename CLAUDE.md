@@ -156,6 +156,14 @@ so check them.
   page has a Rodzeństwo section the selection does not bring in. Beware
   duplicate YAML keys in `literature/index.yml` - a second key of the
   same name silently shadows the first; merge instead.)
+  (`literature/minakowska2026ottotrampczynski/notes.md` first for the
+  fourth: Wojciech Otto-Trąmpczyński, the sixteenth-century man of the
+  Trąmpczyński family, the database's "sw." number (a Teki Dworzaczka
+  regest number - the person came from a regest, which is the page's one
+  source). Two pipeline lessons recorded: an `only_in` person's
+  literature hits need the index dedup to ask `applies()` (fixed
+  2026-10-22), and a standalone block's slug must not be an entry's slug
+  (the collision renamed before commit).
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither
