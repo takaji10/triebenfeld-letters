@@ -454,6 +454,20 @@ read, translate and summarise.
   - The transcription of the whole entry (read from the editor's PDF, page
     image by page image) waits on their look; the doubtful spots are listed
     in the work's `notes.md` ("Doubtful readings"). **For the editor**.
+  **Kucharski (2023)** (`kucharski2023`, added 2026-10-22;
+  `literature/kucharski2023/notes.md`): Robert Kucharski, "Sądownictwo
+  szlacheckie od XV do XVIII wieku", *Consilium Iuridicum* 1(3-4) 2022,
+  pp. 226-253, brought in whole from the journal's PDF.
+  - **"Brześć" in the index** (p. 246): the municipal court "w Brześciu"
+    where the body of the nobleman killed by Wacław Matuszewicz was delivered
+    as the chief proof. The story is set in the district of Łuck and comes
+    from the memoirs of the Matuszewicze (note 38), a family of the Grand
+    Duchy: this is Brześć on the Bug (Brest), not the edition's Brześć
+    Kujawski. Ruled out in the index on that basis. **For the editor**; the
+    edition has no Brześć on the Bug to confuse it with, but the surface
+    ("Brześc") is ruled "no" across the literature, so a later work naming
+    Brześć Kujawski in a form the pattern takes for that spelling would need
+    its own passage-level exception.
 
 ## Readings, Oe 1 Bü 9454
 

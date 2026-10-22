@@ -28580,6 +28580,56 @@
   "context": "Tak więc przepadła suma 40,000 złp. PP. Cysterskom wraz z zaległą od r. 1806 prowizyą, o czem doniósł rządowi pruskiemu minister Sobolewski listem, datowanym z Warszawy dnia 23 października 1828 roku[^2]"
  },
  {
+  "kind": "person",
+  "entity": "wybicki",
+  "display": "Wybicki",
+  "surface": "Wybicki",
+  "work": "kucharski2023",
+  "passage": "230",
+  "line": 1,
+  "context": "napotykały opór większości szlachty przekonanej o najdoskonalszej naturze praw zwyczajowych obowiązujących w Polsce. „Ogólnych praw zbioru nie ma, konstytucje i rozporządzenia często są ze sobą sprzeczne. A jest ich tak wiele, że przy najpilniejszym badaniu przejrzeć ich niepodobna wszystkich i pojąć właściwe im znaczenie. Co za doskonała dla sędziów i asesorów wymówka, gdy nienawykli do pracy poważnej niewiele się o te prawa troszczą, jak szerokie pole dla szykan i pieniactwa rzeczników” (adwokatów) – pisał Fryderyk Schulz, podróżnik inflancki przemierzający Polskę epoki stanisławowskiej[^5]. Całe prawo ziemskie było chaotyczne i przypominało raczej dżunglę stanowiącą znakomite pole dla mataczy i pieniaczy procesowych, trudne do ogarnięcia dla praktyków sądowych. Sędziowie istotnie odczuwali brak jednolitego zbioru praw materialnych i procedury, skodyfikowanych, jednolitych pozwalających na utrwalenie praktyki orzeczniczej na terenie kraju, co pozwalałoby na wzmocnienie spójności politycznej i społecznej Państwa. Także kadra orzecznicza do końca trwania Rzeczypospolitej Szlacheckiej nie legitymowała się solidnym wykształceniem prawniczym, albowiem do funkcji sądowych powoływano szlachtę posesorów lokalnych, których przygotowanie merytoryczne bazowało raczej na doświadczeniu zdobytym w pracy kancelaryjnej niż na wykształceniu uniwersyteckim. „Wkrótce nauczyłem się jak zwykle na pamięć accesorjów (formułek na rozpoczęcie procesu). Miała to być książka elementarna prawnictwa. (…) Dzień i noc męczyłem się na osobności nad czytaniem statutów Herburta i krektury pruskiej, nie mając najmniejszego wyobrażenia ducha praw i jego zasad. Nie znając różnicy, co prawo natury, polityczne, cywilne, kryminalne i narodów znaczyć w gruncie miało. Wymawiałem prawa rzymskie, statuta magdeburskie jak papuga z zwyczaju, bo tak całe godne moje zgromadzenie czyniło”[^6] – pisał Józef Wybicki. Praktyką było wczesne rozpoczęcie kariery w sądownictwie, co zauważa autor hymnu narodowego pisząc: „Lat szesnaście mając już biegałem po różnych sądach, gdzie nas pieniacze wyprowadzali. Nabywałem z doświadczenia wiadomości praktycznej, tak, iż w siedemnastym roku pierwszy kancelarzysta zacząłem stawać, czy odzywać się, jak mawiano, w sądach grodzkich i ziemskich…”[^7]."
+ },
+ {
+  "kind": "person",
+  "entity": "wybicki",
+  "display": "Wybicki",
+  "surface": "Wybicki",
+  "work": "kucharski2023",
+  "passage": "230",
+  "line": 5,
+  "context": "[^6]: J. Wybicki, Życie moje, Kraków 1927, s. 15."
+ },
+ {
+  "kind": "place",
+  "entity": "warschau",
+  "display": "Warszawa (Warschau)",
+  "surface": "Warszawy",
+  "work": "kucharski2023",
+  "passage": "230",
+  "line": 3,
+  "context": "[^5]: F. Schulz, Podróże inflantczyka z Rygi do Warszawy i po Polsce w latach 1791–1793, Warszawa 1956, s. 237."
+ },
+ {
+  "kind": "person",
+  "entity": "wybicki",
+  "display": "Wybicki",
+  "surface": "Wybicki",
+  "work": "kucharski2023",
+  "passage": "252",
+  "line": 23,
+  "context": "32\\. Wybicki J., Życie moje, Kraków 1927."
+ },
+ {
+  "kind": "place",
+  "entity": "warschau",
+  "display": "Warszawa (Warschau)",
+  "surface": "Warszawy",
+  "work": "kucharski2023",
+  "passage": "252",
+  "line": 11,
+  "context": "26\\. Schulz F., Podróże inflantczyka z Rygi do Warszawy i po Polsce w latach 1791–1793, Warszawa 1956."
+ },
+ {
   "kind": "place",
   "entity": "teutschland",
   "display": "Deutschland",

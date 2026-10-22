@@ -37,7 +37,10 @@ copyright of their authors, photographers and publishers, whom each work's page
 names. Their texts and pictures, and the edition's English translations of
 them, are **not** covered by the CC BY licence. They are reproduced for
 research; anyone who wants to reuse them should ask the publisher. If a
-publisher asks for a work to be taken down, that will be done.
+publisher asks for a work to be taken down, that will be done. One stands
+open access under its own licence: Kucharski's article of 2023
+(Consilium Iuridicum) is CC BY 4.0 and may be reused under that licence, with
+the citation its page gives.
 
 The English translations were made by an AI model
 ([About the edition]({{ '/reading-this-edition/' | relative_url }})).
