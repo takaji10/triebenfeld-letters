@@ -190,8 +190,9 @@ so check them.
   refused, five old rulings sharpened. One hand-made link: p. 41 against
   the summons of 1860 and the boundary decree of 1775 (Kneifel names the
   husband alone, the documents the couple). `docs/LITERATURE_PLAN.md`,
-  section 24. Not published. The literature has 31 works, 29 on the site
-  (two summary-only).
+  section 24. **Published 2026-10-22** at the editor's word, with the
+  earlier sessions' committed work. The literature has 31 works, 29 on the
+  site (two summary-only).
 - **Minakowska (2026), the Starost's page, and the person pages**
   (2026-10-22, committed; not published): the first saved page of
   Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with

@@ -706,8 +706,9 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] One hand-made link: p. 41 (Łazińsk founded 1746 by the lord of
       "Trombezyn") against the summons of 1860 and the boundary decree of
       1775; Kneifel names the husband alone, the documents the couple.
-- [ ] **You:** a look at the work's page and the excerpt, then publication
-      at your word.
+- [x] **You:** a look at the work's page and the excerpt, then publication
+      at your word. **Published 2026-10-22** ("Publish"): the "Build and
+      deploy" run succeeded and the pages answer on the live site.
 
 ## 21. APP 53/1455/0/2/21: the copy-book of the privileges of Ląd (added 2026-10-21)
 

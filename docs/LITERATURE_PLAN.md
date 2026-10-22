@@ -864,7 +864,7 @@ Hohenlohe link; every figure in the sentences was read on both sides
 (Łukasiewicz's this session, the letters' as ruled on 2026-10-19). Open: the
 editor's look at the English; publication at the editor's word.
 
-## 24. Kneifel (1964) (2026-10-22)
+## 24. Kneifel (1964) (2026-10-22; published the same day at the editor's word)
 
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
@@ -908,4 +908,4 @@ shown on the site; only the excerpt scripts and the cut pages are committed.
   hand-made link, p. 41 against the summons of 1860 and the boundary decree
   of 1775; Kneifel names the husband alone, the documents the couple, and
   the edition follows the documents. The literature has 31 works, 29 on the
-  site (two summary-only).
+  site (two summary-only). Published the same day at the editor's word.

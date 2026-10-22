@@ -2398,7 +2398,8 @@ lose his estates. The era page writes Konotop, not Kontop.
   Guradze's field). One hand-made link: p. 41 against the summons of 1860
   and the boundary decree of 1775 — Kneifel names the husband alone, the
   documents the couple; the edition follows the documents.
-  `docs/LITERATURE_PLAN.md`, section 24.
+  `docs/LITERATURE_PLAN.md`, section 24. **Published 2026-10-22** at the
+  editor's word.
 
 ## Deliverables produced
 
