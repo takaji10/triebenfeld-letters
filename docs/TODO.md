@@ -876,10 +876,22 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       worked in (the parenthesised lead "(Zhitleryzowani koloniści).",
       "Ludwigslust", the plain "a";
       `newspapers/kurjerpoznanski19330712/notes.md`).
-- [x] The index run: the item's three hits (Zagórowa, Oleśnica, Trąbczyn)
-      stand under the standing rulings (`newspapers/index.yml`; 49 hits in
-      9 items, all ruled). Szymanowice, Emilienhain and Ludwigslust match
-      no pattern of the register and are recorded in the notes.
+- [x] The index run: the item's four hits (Zagórowa, Oleśnica, Trąbczyn,
+      Ludwigslust) stand under the standing rulings (`newspapers/index.yml`;
+      50 hits in 9 items, all ruled). Szymanowice and Emilienhain match no
+      pattern of the register and are recorded in the notes.
+- [x] **Ludwigslust made a place of the register at your word** (2026-10-22):
+      `reference/places.yml`, `ludwigslust` — the colony of the Zagórów
+      lordship's dismemberment your own documents name (Oe 1 Bü 9454,
+      letter 24's list and letter 177's naming list and register of new
+      villages) and the literature carries (Breyer 1938's "Ludwigslust -
+      Mały Las", Wąsicki 1953, Słowiński and Połom 2024), Mały Las today;
+      its Polish name recorded unmatched (a common-noun phrase). The
+      literature's six hits (Breyer 1935 Gaue, Breyer 1938, Wąsicki 1953)
+      ruled in `literature/index.yml`; the corpus dataset rebuilt, the two
+      letters' mentions linked (and Breyer's notebook doc 1 caught up its
+      Mielke mentions, stale since that entry was added); the site data,
+      Jekyll and verify all pass.
 - [ ] **You:** the print's "Emilienhain" against the documents'
       "Emilienheim" (Breyer's notebook, the 1942 feature) — same colony,
       second colony, or the print's variant (NEEDS_CONFIRMATION, "The
@@ -888,7 +900,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       by nothing the edition holds; if it were the Łazińsk school's
       Mielke, the 1942 feature's "seit 1925" would need a look
       (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] **You:** whether Szymanowice and Ludwigslust should be places of the
-      edition (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] **You:** whether Szymanowice should be a place of the edition
+      (NEEDS_CONFIRMATION, "The newspapers").
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).

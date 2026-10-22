@@ -964,6 +964,41 @@ places:
     tier: ""
     variants: ["Allexandrien"]
 
+  ludwigslust:
+    # A colony of the Zagórów lordship's dismemberment, named in the edition's
+    # own documents: the naming list of the new villages in letter 177 of
+    # Oe 1 Bü 9454 ("Friedrichsfeld, Ludwigslust. = Grądzyń.") and the register
+    # of the established new villages in the same letter's enclosures
+    # ("7. Collonie von 1590 Morgen besezt mit 40 wirthe heiß Ludwigslust"),
+    # and the mortgage letter's list of the estates and colonies (letter 24,
+    # 25 September 1806, "12 Ludwigslust"). The literature names it the same
+    # colony: Wąsicki (1953) lists it among the villages founded on
+    # Hohenlohe's estates, Słowiński and Połom (2024) give its Polish name
+    # today ("Kolonia Ludwigslust (obecnie Mały Las)"), and Breyer (1938) has
+    # a section "Ludwigslust - Mały Las" (two colonists of Ludwigslust
+    # petitioned the government in Königsberg in August 1816). Added at the
+    # editor's word (2026-10-22, with the Kurjer Poznański note of 12 July
+    # 1933, which names it among the German-named colonies around Zagórów).
+    # Not `Ludwigslust\w*` alone in the corpus matcher's anchor, and never
+    # `Ludwigs...`: Ludwigsburg (a colony of the materialien of 1861 and the
+    # town in Seidel's Massenbach excursus) is a different place, and the
+    # corpus has several men named Ludwig.
+    display: "Ludwigslust"
+    kind: settlement
+    match: 'Ludwigslust\w*'
+    tier: "Book-confirmed"
+    variants:
+      # The colony's Polish name today (Słowiński and Połom 2024, Breyer
+      # 1938), recorded but not matched: a common-noun phrase ("small wood")
+      # that a bare pattern would catch all over the corpus.
+      - {form: "Mały Las", match: false}
+    open_questions:
+      - "The naming list and the register of new villages, two enclosures of
+         the one letter (Oe 1 Bü 9454, 177), do not agree which old ground the
+         colony sat on: the naming list pairs 'Friedrichsfeld, Ludwigslust'
+         with Grądzyń, the register lists Ludwigslust under 'bey Kopojno'.
+         Which is right is not settled here."
+
   olesnica:
     display: "Oleśnica"
     german: "Olesnice"

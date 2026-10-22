@@ -337,7 +337,9 @@ so check them.
   HISTORIĄ's post of 24 May 2024 ("To i owo, cz. 2"), the clipping
   carried; the print's "Emilienhain" standing against the documents'
   "Emilienheim", and the dismissed teacher identified by nothing the
-  edition holds (NEEDS_CONFIRMATION).
+  edition holds (NEEDS_CONFIRMATION); **Ludwigslust made a place of the
+  register at the editor's word** (the dismemberment colony the documents
+  and the literature name, Mały Las today).
   The editor's rulings of the day are worked in:
   the clipping's source (the blog Zagórów w historii, its post of 2 October
   2024), the rights approved, the clipping and the Kuryer's page carried on

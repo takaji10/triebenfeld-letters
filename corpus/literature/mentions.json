@@ -161,6 +161,16 @@
  },
  {
   "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigslust",
+  "work": "breyer1935gaue",
+  "passage": "35",
+  "line": 9,
+  "context": "Auf einer Strecke von 130 Kilometern, von der ehemaligen preußischen Grenze an bis nach Leśnik südlich der Stadt Uniejów, sind mit größeren und kleineren Unterbrechungen 63 deutsche größere Dörfer aneinander gereiht, die eine Bevölkerungszahl von 7000 Seelen besitzen. Außerdem wohnen in 105 polnischen Bruchdörfern oder vereinsamten deutschen Kleinsiedlungen etwa 4000 Deutsche. Noch vor 40 Jahren besaßen einige Dörfer ihre alten deutschen Namen wie Sophiental, Friedrichsfeld, Ludwigslust, Ingelfingen, Adelhof."
+ },
+ {
+  "kind": "place",
   "entity": "konin",
   "display": "Konin",
   "surface": "Konin",
@@ -2701,6 +2711,16 @@
  },
  {
   "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigslust",
+  "work": "breyer1938",
+  "passage": "21",
+  "line": 5,
+  "context": "Im Jahre 1796 erhielt der Gouverneur \"der Stadt und Vestung Breslau\", der Fürst zu Hohenlohe-Ingelfingen, vom König Friedrich Wilhelm II. als Gratialgut die geistlichen Güter der Herrschaft Zagórowo und die starosteilichen der Herrschaft Trombczyn, die aus den Vorwerken Drzewce, Kopojno, Swiątniki, Swięcia, Bronniki, Nowa Wieś, Przybyłow, Alt-Hütte, Trombczyn und den Dörfern Oleśnica und Szetlewek sich zusammensetzten. Umfangreiche Forst- und Wiesengründe im Warthetal nahmen gleichfalls einen beträchtlichen Teil der Gratialgüter ein. Die Bewirtschaftung dieser an 250 Hufen betragenden Güterkomplexe mag wenig einträglich gewesen sein, da bereits am 18. Mai 1805 der Generalbevollmächtigte des Fürsten Hohenlohe,  der berüchtigte Kriegs- und Forstrat P. F. von Triebenfeld, mit achtzehn deutschen Kolonisten einen Erbpachtkontrakt auf \"Dismembration\" (Verteilung) von 100 Hufen Forst und zum geringen Teil Ackerland abgeschlossen hatte. Die nachträgliche Erlaubnis erteilte hierzu die Königliche Südpreußische Kriegs- und Domänen-Kammer zu Kalisch am 28. Januar 1806. Auf diese Weise sind im Warthebruch bei Zagórow folgende deutsche Dörfer entstanden: *Sophiental* - Olchowo, *Ludwigslust* - Mały Las, *Friedrichsfelde* - Tarzewo, *Adelshof* - Chróściki; das Vorwerk *Adolfsberg*; auf der angrenzenden Hochfläche des Kalischer Landes die Dörfer: *Ingelfingen* - Anielewo, *Emilienheim* - Michalinow, *Augustinhof* - Augustynow, *Schwentz* - Święcia und Kolonie *Wrombczyn*. Über das Schicksal der deutschen Bewohner des Weilers *Klein-Öring* oder Groździkowo stehen uns keinerlei sichere Nachrichten zur Verfügung. Eine amtliche polnische Aufzählung vom Jahre 1827 gibt 4 Wirtschaften mit 39 Einwohnern an. Die Volkszählung 1921 verzeichnet nur polnische Besitzer. Der im Schulzenamt zu Emilienheim wohlerhaltene, in deutscher Sprache verfasste Ansetzungsvertrag erlaubt uns, einen guten Einblick in die anfänglichen Siedlungsbedingungen zu tun. Es würde zu weit führen, alle siedlungsgeschichtlichen Einzelheiten erschöpfend darzustellen. Nicht unerwähnt möge jedoch eine bis dahin in der Siedlungspraxis neu anzutreffende bedeutungsvolle Tatsache sein: *die völlige Freigabe der Kolonisten von*"
+ },
+ {
+  "kind": "place",
   "entity": "olesnica",
   "display": "Oleśnica (Olesnice)",
   "surface": "Oleśnica",
@@ -3201,6 +3221,16 @@
  },
  {
   "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigslust",
+  "work": "breyer1938",
+  "passage": "34",
+  "line": 28,
+  "context": "*Ludwigslust - Mały Las*"
+ },
+ {
+  "kind": "place",
   "entity": "posen",
   "display": "Poznań (Posen)",
   "surface": "Posen",
@@ -3361,6 +3391,16 @@
  },
  {
   "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigslust",
+  "work": "breyer1938",
+  "passage": "38",
+  "line": 3,
+  "context": "Die Dorfbewohner des Bruches, ähnlich wie die anderer Gebiete, unterliegen einem stetigen Ab- und Zuströmen. Kaum sesshaft geworden, tragen sich einzelne unter ihnen mit Gedanken einer Abwanderung in die nähere oder weitere Umgegend. Bisweilen geben äußere Ursachen den Beweggrund zur Weiterwanderung ab. Dies trat z.B. im November 1806 ein, als die südpreußischen Behörden zum Verlassen des Landes gezwungen wurden, und über die kaum sesshaft gewordenen Kolonisten sich eine Flut von Verfolgungen ergoss, wie es beispielsweise in den Bruchdörfern der Hoheloheschen Güter bei Zagórow der Fall war. Darüber berichten in einem Gesuch an die preußische Regierung in Königsberg vom August 1816 zwei Kolonisten aus Ludwigslust. Im Namen von 10 Familien machten die beiden eine Eingabe an die ostpreußischen Behörden, in der sie um die Erlaubnis einer Rückwanderung nach Preußen ersuchten, wobei sie in düsteren Farben gerade den bösen Zeitabschnitt im November 1806 wie folgt darstellen:"
+ },
+ {
+  "kind": "place",
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
   "surface": "Zagórow",
@@ -3384,6 +3424,16 @@
   "entity": "koenigsberg",
   "display": "Königsberg",
   "surface": "Königsberger",
+  "work": "breyer1938",
+  "passage": "38",
+  "line": 7,
+  "context": "Das Gesuch der Ludwigsluster Bittsteller fand leider bei den Königsberger Regierungsstellen kein Gehör, da sie keine \"wirklichen Kolonisten\" waren, die auf staatlichem Grund und Boden und mit staatlichen Mitteln angesetzt wurden. Die Hohenloheschen Besitzungen stellten nur vom preußischen König verschenkte, ehemals polnische Gratialgüter dar."
+ },
+ {
+  "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigsluster",
   "work": "breyer1938",
   "passage": "38",
   "line": 7,
@@ -44144,6 +44194,16 @@
   "entity": "ingelfingen",
   "display": "Ingelfingen",
   "surface": "Ingelfingen",
+  "work": "wasicki1953",
+  "passage": "176",
+  "line": 1,
+  "context": "więc w tym okresie w dobrach ks. Hohenlohego następujące wsie: Sophiental (Olchowo), Ludwigslust (Mały Las), Friedrichsfelde (Tarszewo), Adelshof (Chróściki), folwark Adolfsberg, Ingelfingen (Anielewo), Emilienheim (Michalinów), Augustinhof (Augustynów), Schwentz (Święcia) i kolonia Wrąbczyn."
+ },
+ {
+  "kind": "place",
+  "entity": "ludwigslust",
+  "display": "Ludwigslust",
+  "surface": "Ludwigslust",
   "work": "wasicki1953",
   "passage": "176",
   "line": 1,

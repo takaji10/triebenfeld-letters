@@ -77,12 +77,18 @@ word broken at the line's end.
   1942 beside it). The item keeps its name as printed and the difference is
   flagged (NEEDS_CONFIRMATION, "The newspapers"): the documents first, the
   item transcribed as printed.
-- **Ludwigslust** is matched by no pattern of the register (reference/
-  places.yml has no entry); it is recorded here, not ruled.
-- **Szymanowice** likewise: the article's third rural commune, named in the
-  edition's table of villages of about 1797 ("Szyman.", AGAD
-  1/169/0/1/1745, the editor's identification) but with no place entry of
-  its own. Unmatched, recorded here (NEEDS_CONFIRMATION, "The newspapers").
+- **Ludwigslust is a place of the edition** (the editor's word,
+  2026-10-22): the second colony the note names, entered in the register
+  (`reference/places.yml`, `ludwigslust`) — the colony of the Zagórów
+  lordship's dismemberment that the edition's own documents name (Oe 1 Bü
+  9454, letter 24's list and letter 177's naming list and register of new
+  villages) and the literature carries (Breyer 1938's "Ludwigslust - Mały
+  Las", Wąsicki 1953, Słowiński and Połom 2024), Mały Las today.
+- **Szymanowice** is matched by no pattern of the register: the article's
+  third rural commune, named in the edition's table of villages of about
+  1797 ("Szyman.", AGAD 1/169/0/1/1745, the editor's identification) but
+  with no place entry of its own. Unmatched, recorded here
+  (NEEDS_CONFIRMATION, "The newspapers").
 - **The dismissed teacher.** The note's closing incident - the school where
   an Evangelical taught, empty of the colonists' children on the
   inspector's visit, the teacher dismissed after it - names no school and
@@ -100,13 +106,13 @@ word broken at the line's end.
 
 ## The index
 
-`newspapers_index.py --check` runs over the item: **three hits**, all of
-spellings ruled in `newspapers/index.yml` by the earlier items and standing
-under those rulings - "Zagórowa" (the town, line 2), "Oleśnica" (the
-commune, line 2; the same identification the 1937 item's ruling carries, the
-editor's confirmation of it still open) and "Trąbczyn" (line 3). The names
-that match no pattern - Szymanowice, Emilienhain, Ludwigslust - produce no
-hit and are recorded above instead.
+`newspapers_index.py --check` runs over the item: **four hits**, all of
+spellings ruled in `newspapers/index.yml` - "Zagórowa" (the town, line 2),
+"Oleśnica" (the commune, line 2; the same identification the 1937 item's
+ruling carries, the editor's confirmation of it still open), "Trąbczyn"
+(line 3) and "Ludwigslust" (line 6; ruled to the register's `ludwigslust`,
+the place the editor made of it the same day). Szymanowice and Emilienhain
+match no pattern and are recorded above instead.
 
 ## The rights
 

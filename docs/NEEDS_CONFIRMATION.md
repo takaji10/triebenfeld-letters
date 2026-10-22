@@ -30,7 +30,7 @@ repository; they are on the working machine.
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 49 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 50 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -136,13 +136,13 @@ repository; they are on the working machine.
       ("seit 1925", the editor's ruling on the 1942 feature), that "seit
       1925" would need a look; nothing the edition holds identifies the
       school, and the question is asked, not answered.
-    - **Szymanowice and Ludwigslust are matched by no pattern** of the
-      register, which has no place entries for them: Szymanowice is the
-      note's third rural commune, known to the edition from the table of
-      villages of about 1797 ("Szyman.", AGAD 1/169/0/1/1745, the
-      editor's identification), Ludwigslust the second colony the note
-      names. Whether they should be places of the edition is the
-      editor's (`newspapers/kurjerpoznanski19330712/notes.md`).
+    - **Szymanowice is matched by no pattern** of the register, which has
+      no place entry for it: the note's third rural commune, known to the
+      edition from the table of villages of about 1797 ("Szyman.", AGAD
+      1/169/0/1/1745, the editor's identification). Whether it should be a
+      place of the edition is the editor's
+      (`newspapers/kurjerpoznanski19330712/notes.md`). Ludwigslust was
+      made a place of the register at the editor's word (2026-10-22).
 
 - **The places** (`places/`, begun 2026-10-22; `docs/PLACES_PLAN.md`). The
   new section: a page per place that has sources of its own, hung on the

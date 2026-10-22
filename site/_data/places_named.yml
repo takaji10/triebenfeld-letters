@@ -1025,6 +1025,12 @@
   docs: 2
   span: "1805–1814"
   letters: [{id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/", n: 2}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", n: 1}]
+- slug: "ludwigslust"
+  name: "Ludwigslust"
+  count: 3
+  docs: 2
+  span: "1805–1806"
+  letters: [{id: "177", uid: "oe1bu9454-177", url: "/documents/oe1bu9454/177/", n: 2}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", n: 1}]
 - slug: "lyon"
   name: "Lyon"
   count: 2

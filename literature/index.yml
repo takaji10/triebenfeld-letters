@@ -717,6 +717,19 @@ places:
     # ruling of 2026-10-22 (the Ostdeutscher Beobachter item): Łazinsk is
     # the colony, its German-era name.
     Lazinsk: yes
+  ludwigslust:
+    # The colony of the Zagórów lordship's dismemberment (reference/
+    # places.yml, added at the editor's word 2026-10-22). The three works
+    # name it as that colony: Breyer (1935, Gaue) among the villages that
+    # still bore their old German names forty years on, Breyer (1938) for
+    # the colony's own history ("*Ludwigslust* - Mały Las", the two
+    # colonists' petition to the government in Königsberg of August 1816
+    # in the name of 10 families, refused because they were not "wirkliche
+    # Kolonisten"), and Wąsicki (1953) in his list of the villages founded
+    # on Hohenlohe's estates ("Ludwigslust (Mały Las)"). "Ludwigsluster"
+    # is Breyer's adjective for the petitioners.
+    Ludwigslust: yes
+    Ludwigsluster: yes
   wieniec:
     Wieniec: yes
     Winiec: yes

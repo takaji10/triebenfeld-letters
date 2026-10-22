@@ -120,6 +120,13 @@ places:
     # six hits of the bare German form; Breyer's notebook of 1936 writes the
     # Polish Łazinsk, matched by no pattern.
     "Lazinsk": true
+  ludwigslust:
+    # The colony of the Zagórów lordship's dismemberment (reference/
+    # places.yml, added at the editor's word 2026-10-22): the Kurjer
+    # Poznański note names it among the German-named colonies around
+    # Zagórów, "np. Emilienhain, Ludwigslust itp." - and its own documents
+    # name it before that (Oe 1 Bü 9454, letters 24 and 177).
+    "Ludwigslust": true
   wolica:
     "Wolicki": "no: the surname of Józef Wolicki, one of the villagers
       honoured in the 2015 report; the place Wolica is not of the article"

@@ -260,10 +260,13 @@ the word set solid (the completive z- on hitleryzowani), the second
 colony is "Ludwigslust" (the German form; the passes split 2-2), and the
 "a" of "nie w polskim a niemieckim języku" carries no mark. The print's
 "kolonje" stands as printed. The clipping is carried on the item page (a
-genuine JPEG this time, 648 × 573). Its three index hits (Zagórowa,
-Oleśnica, Trąbczyn) stand under the standing rulings; Szymanowice,
-Emilienhain and Ludwigslust match no pattern of the register and are
-recorded in the notes. What it bears on: the press witness of the
+genuine JPEG this time, 648 × 573). Its four index hits (Zagórowa,
+Oleśnica, Trąbczyn, Ludwigslust) stand under the standing rulings —
+**Ludwigslust made a place of the register at the editor's word**
+(`reference/places.yml`, `ludwigslust`: the dismemberment colony the
+documents name, Mały Las today); Szymanowice and Emilienhain match no
+pattern of the register and are recorded in the notes. What it bears on:
+the press witness of the
 colonists' "hitleryzacja" seven years before the 1942 feature's "purely
 German settlement" of the same population — and the print's
 "Emilienhain" against the documents' "Emilienheim", with the dismissed
