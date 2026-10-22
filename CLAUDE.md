@@ -119,6 +119,26 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **The newspapers: a new section, and Dziennik Poznański (1937)**
+  (`dziennikpoznanski19370807`, added 2026-10-22, **committed, not
+  published**): the editor ruled a third section for newspaper articles,
+  "since it doesn't really fall under archival sources or literature" —
+  neither holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. The
+  first item is the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180
+  (7 August 1937): three municipal notes (recruitment of the unemployed for
+  Germany; the old people's home moved to Oleśnica under wiceburmistrz
+  Franciszek Łukaszewski; street paving with trees), transcribed line by
+  line from the clipping by OCR — **no paid run: the editor asked instead
+  that OCR be installed for the project** (Tesseract 5.5.3 + Polish models,
+  `pipeline/ocr.py`), and the text is the agreement of five passes, with the
+  thirteen unsettled words ruled on a spot sheet ("we wsi i gmina
+  Oleśnica" as printed; the edge fragments and the stray fragment left out;
+  `newspapers/dziennikpoznanski19370807/notes.md`). The site has the
+  Newspapers menu entry ("Zeitungen"), /newspapers/ and /de/zeitungen/, one
+  page per item, and its checks in verify_site.py. Open on the editor
+  (NEEDS_CONFIRMATION, "The newspapers"): the clipping's source, the rights
+  (read as public domain, to be confirmed), whether Kuryer Polski 1754 moves
+  here, the index, the clipping's picture. Not published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów

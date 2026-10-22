@@ -11,6 +11,28 @@ repository; they are on the working machine.
 
 ## Waiting on material
 
+- **The newspapers** (`newspapers/`, begun 2026-10-22;
+  `docs/NEWSPAPERS_PLAN.md`). The first item, the "Z Zagórowa" column of
+  Dziennik Poznański R. 79, nr 180 (7 August 1937), is in
+  (`newspapers/dziennikpoznanski19370807/notes.md` has the whole story). On
+  the editor:
+  - **Where the clipping came from.** The file carries no mark of a source;
+    is it a library's digitisation (Polona?), and if so which record? The
+    item's `scan:` stays empty until they say, and the record's provenance
+    waits with it.
+  - **The rights.** Anonymous press of 1937 read as public domain (the Polish
+    act's 70 years from publication, so ended in 2007): Claude's reading of
+    the law, to be confirmed before the item is published.
+  - **Kuryer Polski 1754** stands a holding on the Sources page. Move it to
+    this section, or leave it (it is a document of the funeral it reports,
+    brought in under the LITERATURE_PLAN's test before the section existed)?
+  - **The index of people and places** over the items: run it (the item
+    names Zagórów and Konin, which the edition's index knows, and three
+    people the edition does not), or leave the newspapers out of it?
+  - **The clipping's picture on the item's page**: none is shown; whether
+    the site should carry the clipping waits on the rights.
+
+
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated
   (2026-10-04): fifteen documents, corrected and summarised in both
   languages. Its fifteen summaries were claim-checked in session on

@@ -694,3 +694,24 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       throughout. P. 15 added (your word): it finishes no. 16, which is the
       king's confirmation of 1447 of an earlier purchase of the same land,
       not of the 1461 sale. No p. 27 (no photograph).
+
+## 22. The newspapers: Dziennik Poznański, R. 79, nr 180 (7 sierpnia 1937)
+      (added 2026-10-22)
+
+- [x] The clipping read by OCR (five passes over the page, no paid run;
+      Tesseract installed for the project at your word,
+      `pipeline/ocr.py`), the thirteen doubtful words put to you on a spot
+      sheet, your answers worked in
+      (`newspapers/dziennikpoznanski19370807/notes.md`).
+- [x] The new Newspapers section ("Zeitungen") built on the site: the list
+      page at /newspapers/, the item's page with the transcription line by
+      line as printed and the English beside it, the menu entry between
+      Sources and Literature, the checks in verify_site.py
+      (`docs/NEWSPAPERS_PLAN.md`).
+- [ ] **You:** where the clipping came from (the item's record and its
+      `scan:` link wait on it); the rights (read as public domain, anonymous
+      press of 1937, to be confirmed); whether Kuryer Polski 1754 moves to
+      this section from the Sources page; whether the index of people and
+      places runs over the items; whether the site carries the clipping
+      itself (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (the item is built but not yet on `main`).

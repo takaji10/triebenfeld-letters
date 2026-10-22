@@ -279,6 +279,59 @@ def main():
     print(f'  {len(shown)} works with pages in both languages, '
           f'{len(hidden)} kept off the site (summary only)')
 
+    # ---- the newspapers (docs/NEWSPAPERS_PLAN.md) -------------------------
+    # Every visible item has its page in both languages, and its page holds
+    # its text. An item with visible: false has a page holding only the
+    # summary of its contents, and no stretch of its text appears anywhere.
+    print('checking the newspapers...')
+    np_data = os.path.join(ROOT, 'site', '_data', 'newspapers.yml')
+    if os.path.isfile(np_data):
+        import yaml
+        with io.open(np_data, encoding='utf-8') as f:
+            np_items = yaml.safe_load(f) or []
+        np_shown = [w for w in np_items if not w.get('summary_only')]
+        np_hidden = [w for w in np_items if w.get('summary_only')]
+        for w in np_shown:
+            for base in ('newspapers', os.path.join('de', 'zeitungen')):
+                if not os.path.isfile(os.path.join(SITE, base, w['slug'], 'index.html')):
+                    fail(f"newspapers: no page {base}/{w['slug']}/")
+        needles = {}
+        for w in np_hidden:
+            for base in ('newspapers', os.path.join('de', 'zeitungen')):
+                page = os.path.join(SITE, base, w['slug'], 'index.html')
+                if not os.path.isfile(page):
+                    fail(f"newspapers: {w['slug']} has no summary page {base}/{w['slug']}/")
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = f.read()
+                if 'np-summary' not in built or 'lit-orig' in built:
+                    fail(f"newspapers: {base}/{w['slug']}/ is to hold only a summary, not the text")
+            for fn, lg in (('original.md', w['language']), ('english.md', 'en')):
+                fp = os.path.join(ROOT, 'newspapers', w['slug'], fn)
+                if not os.path.isfile(fp):
+                    continue
+                with io.open(fp, encoding='utf-8') as f:
+                    body = [ln.strip() for ln in f if not ln.startswith('#')]
+                longest = max(body, key=len, default='')
+                if len(longest) >= 120:
+                    mid = len(longest) // 2
+                    needles[longest[mid - 30:mid + 30]] = w['slug']
+        leaks = collections.Counter()
+        for root, dirs, files in os.walk(SITE):
+            for fn in files:
+                if not fn.endswith(('.html', '.js', '.json', '.xml', '.txt', '.csv')):
+                    continue
+                p = os.path.join(root, fn)
+                with io.open(p, encoding='utf-8', errors='replace') as f:
+                    text = html.unescape(f.read())
+                for needle, slug in needles.items():
+                    if needle in text:
+                        leaks[f'{slug} in {os.path.relpath(p, SITE)}'] += 1
+        for where in leaks:
+            fail(f'newspapers: the text of an item not to be shown appears on the site: {where}')
+        print(f'  {len(np_shown)} items with pages in both languages, '
+              f'{len(np_hidden)} kept off the site (summary only)')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

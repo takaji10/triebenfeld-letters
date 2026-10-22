@@ -1521,6 +1521,37 @@ cloud branches").
 
 ## Traps in the tools
 
+- **A file named .jpg can be a WebP** (2026-10-22, the Dziennik Poznański
+  clipping). Windows' own imaging (GDI+, WIC) refuses it —
+  `System.Drawing.Bitmap` throws "Parameter is not valid" — while PIL reads
+  it without a word. If a picture "will not open" on Windows, ask PIL what
+  `im.format` says. `pipeline/ocr.py` and PIL read the clipping as it is.
+- **Tesseract in the project** (installed 2026-10-22 at the editor's word,
+  when the clipping was read): the engine is Tesseract 5.5.3 (winget
+  `tesseract-ocr.tesseract`, `C:\Program Files\Tesseract-OCR`), the Polish
+  models are in `%LOCALAPPDATA%\Tesseract\tessdata` (tessdata_best and the
+  standard model, fetched from the tesseract-ocr/tessdata repository; the
+  installer's own tessdata carries English only), `pytesseract` is installed.
+  **Neither the engine nor the data is on PATH** — `pipeline/ocr.py` looks
+  them up itself (`read()`, `words()`), so pipeline code imports that and
+  never calls tesseract.exe by hand. It runs on the editor's Windows machine;
+  a cloud session cannot OCR this way, and needs the text given or paid out
+  for.
+- **OCR a page as the agreement of passes, not from one run.** The five
+  passes over the clipping (two upscalings ×3/×4, psm 6 and 4, tessdata_best
+  beside the standard model, Windows.Media.Ocr as a third witness) agreed on
+  almost every word; each pass that disagreed was the one wrong. Tesseract's
+  word confidences (`words()`) sort what goes to the spot sheet; Tesseract's
+  TSV wants `-c tessedit_create_tsv=1` (the bare `tsv` config name prints
+  plain text instead), and its output ends each line with \r. Small scans
+  want upscaling: the clipping is 712×960 and only reads well at ×3 and ×4.
+- **A stand-alone spot sheet** (2026-10-22, `scratch/dp1937_sheet.py`): for
+  an item that is not a unit yet, copy the queries.py page and saving into a
+  scratch script with its own rows and crops (its `--read` prints the
+  answers); the crops are cut from an upscale of the scan and the whole page
+  is shown at the top. Answers went to `review/dp19370807/
+  query_answers.json` (git-ignored, like all review/); the rulings are
+  recorded in the item's notes.md, which is tracked.
 - **A Wikisource page of Arct's dictionary has no text of its own**
   (2026-10-21). Its source (`action=raw`) is only a template naming the
   scanned page (`{{Ilustrowany|strona = 405|tom = 1}}`). Ask for the

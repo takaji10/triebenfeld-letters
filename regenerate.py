@@ -61,6 +61,10 @@ MERGED = [
     # literature/index.yml (a new or corrected text).
     ('pipeline/literature/literature_index.py --check', 'literature index',
      'site/_data/literature_mentions.yml - the passages naming a person or estate'),
+    # The newspapers (docs/NEWSPAPERS_PLAN.md): items from the press, neither
+    # holdings nor literature, the editor's section of 2026-10-22.
+    ('pipeline/newspapers/newspapers_site.py', 'newspapers pages',
+     'site/_newspapers*/ - the press items, original and English side by side'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
     # Each holding's description cites the documents it rests on; this holds
