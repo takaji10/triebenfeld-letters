@@ -226,6 +226,16 @@ people:
     Miączyńskiego: yes
     Miączyńskiemu: yes
     Miączyńskim: yes
+    # Minakowska (2026, Antoni Prusimski): the bare "Miączyński" of the
+    # grandchildren's list names Stanisław's sons and grandsons (Aleksander,
+    # Stanisław, Władysław, Włodzimierz, Mieczysław, Witold, Józef Piotr
+    # Paweł, Tadeusz, Jerzy), not Stanisław the husband himself. The
+    # "Kajetan Miączyński" of the (linia:) on c03 is his forebear, and stands
+    # only inside the passage about his marriage.
+    Miączyński:
+      default: yes
+      except:
+        minakowska2026prusimski/c04: "Stanisław's sons and grandsons, not Stanisław himself"
   napoleon: {Napoleon: yes}
   neumann:
     Neumann: "no: the chamber assessor Neumann, the legation councillor Neumann and others; not shown to be Triebenfeld's steward at Bojadła"
@@ -254,8 +264,19 @@ people:
   prittwitz:
     Prittwitz: "no: Frederick the Great's general and a lieutenant-colonel of the trains in 1806; not the official of the exchange of 1799"
   prusimska:
-    Dąmbska: yes
-    Miączyńska: yes
+    # Minakowska (2026, Antoni Prusimski), the marriage section: "Marianna
+    # Dąmbska", the Starost's wife, not Michalina (his daughter).
+    Dąmbska:
+      default: yes
+      except:
+        minakowska2026prusimski/c03: "Marianna née Dąmbska, the Starost's wife, not Michalina"
+    # Minakowska (2026, Antoni Prusimski), the grandchildren's list: the
+    # Countesses Miączyńska are Michalina's daughters and
+    # granddaughters, not Michalina herself.
+    Miączyńska:
+      default: yes
+      except:
+        minakowska2026prusimski/c04: "Stanisława, Wanda, Michalina, Zdzisława and Maria, Michalina's granddaughters, not Michalina herself"
     Prusimska: yes
   prusimska-katarzyna:
     # Chodyła (2015): Katarzyna Prusimska, born Rozdrażewska, with Paweł the
@@ -272,6 +293,9 @@ people:
       default: yes
       except:
         zychlinski1885/187: "Krzysztof, Jan and Krzysztof Prusimski, the Starost's forebears; Antoni is on p. 188"
+        # Minakowska (2026, Antoni Prusimski), the parents section: the
+        # Prusimski named there is Stefan, the Starost's father.
+        minakowska2026prusimski/c01: "Stefan Prusimski, the Starost's father, not Antoni"
     # Chodyła (2015): Antoni Prusimski, Starost of Niszczewice, nephew and heir
     # of the founder (pp. 28, 32 and note 34).
     Prusimskiemu: yes
@@ -423,6 +447,63 @@ people:
         feuerbraende1807/1-101: "the regiment Zastrow, not the general"
         feuerbraende1807/1-115: "the battalion Zastrow, not the general"
   zerboni: {Zerboni: yes}
+  friedrich-wilhelm-ii:
+    # Łukasiewicz (1997): the king throughout; the four undotted hits stand in
+    # the register's own German title (p. 34) and in the titles of works about
+    # him or his reign (Stadelmann n. 6, Naude n. 47, Triebenfeld's memoir
+    # n. 70), where he is the subject.
+    Friedrich Wilhelm II: yes
+  friedrich-wilhelm-iii:
+    # Łukasiewicz (1997): the king; Hellwig's book title (n. 47) and the
+    # Kabinets-Orde of 23 XI 1797 (n. 123) name him as subject/actor.
+    Friedrich Wilhelm III: yes
+  grevenitz:
+    # Łukasiewicz (1997), Tabela 4 (p. 61): the donatary Grävenitz, whose
+    # affair Cölln's Feuerbrände carried (I, 132; V, 66, 109, 110; Grünhagen
+    # s. 294-295). Not read as the edition's Kammergerichtsrat von Grevenitz
+    # of Berlin; the identity is open (NEEDS_CONFIRMATION, "The literature").
+    Grävenitza: "no: the donatary Grävenitz of Tabela 4 and his affair in Cölln's Feuerbrände, not read as the edition's Kammergerichtsrat von Grevenitz"
+  kalckreuth:
+    # Łukasiewicz (1997), p. 45: a name in the list of the donataries' debts
+    # (345 375 thalers), no first name. Not read as the edition's General
+    # Kalckreuth of letter 164.
+    Kalkreuth: "no: a donatary debtor in the list of 1795-1806, no reading ties him to the edition's General Kalckreuth"
+  massenbach:
+    # Łukasiewicz (1997): Colonel Massenbach, Hoym's camarilla (p. 35); the
+    # article's own n. 24 gives Christian Karl August Ludwig von Massenbach,
+    # 1758-1827, born in Schmalkalden, in 1806 chief of staff to the Prince of
+    # Hohenlohe — the man of the Prince's correspondence (Oe 1 Bü 13248;
+    # letters 53, 57, 183) and of Seidel's excursus 22. The three hits (p. 35
+    # body and note, the Tabela 1 row) are his.
+    Massenbach: yes
+  niemojewski:
+    # Łukasiewicz (1997), p. 37 n. 33: Józef Niemojewski, starosta of Śrem,
+    # major general of the Poznań voivodeship, whose Borkowo and Ostrowo were
+    # confiscated (Iwaszkiewicz's list) — the edition's General Niemojewski,
+    # restored in 1807 to an estate Prussia had confiscated.
+    Niemojewskiemu: yes
+  prinzessin-adelheid:
+    # Łukasiewicz (1997), p. 37: Adelheid Simsch, the historian whose
+    # juxtaposition of the two magnitudes the article starts from — not the
+    # Princess.
+    Adelheid: "no: Adelheid Simsch, the historian (the article's cited author A. Simsch)"
+  schmaling:
+    # Łukasiewicz (1997), p. 51: the chamber councillor Schmaling, dismissed
+    # for malversations in 1804/5. The edition's Schmaling is the Landrat von
+    # Schmaling, owner of the Głażewo Vorwerk (Oe 1 Bü 14526, letter 19); no
+    # reading ties the two men (NEEDS_CONFIRMATION, "The literature").
+    Schmaling: "no: the Poznań chamber councillor dismissed for malversations in 1804/5; not read as the edition's Landrat von Schmaling of Głażewo"
+  von-der-reck:
+    # Łukasiewicz (1997), p. 33 n. 9: the Freiherr v. d. Reck addressed by
+    # Voß on 12 I 1804 about the church funds. Which Freiherr von der Reck of
+    # the several of the name is not settled; not ruled to the edition's
+    # minister of state and justice Eberhard von der Reck
+    # (NEEDS_CONFIRMATION, "The literature").
+    Reck: "no: the Freiherr v. d. Reck of Voß's letter of 12 I 1804, not settled which of the name, not read as the edition's Eberhard von der Reck"
+  wybicki:
+    # Łukasiewicz (1997), p. 37 n. 33: Józefowi Wybickiemu skonfiskowano
+    # Manieczki — the edition's Wybicki, whose Manieczki was confiscated.
+    Wybickiemu: yes
 
 places:
   # The estates of the edition (shown on the Places page).
@@ -469,6 +550,9 @@ places:
     Kolno: "no: the Holländerei Kolno by Sławsk, east of Konin (Breyer), and in \"Kolno-Prusiński\" part of a man's name; not the Prusimski estate of Kolno"
     Kulm: "no: Kulm (Chełmno) on the Vistula, a settlers' homeland (Breyer 1935)"
     Kolna: yes
+    # Minakowska (2026, Antoni Prusimski): "z Kolna" in the family's names
+    # ("Stefan Prusimski z Kolna h. Nałęcz"), the designation from the
+    # Prusimskis' estate of Kolno.
     Kolnem: yes
     Kolnie: yes
   krotoszyn:
@@ -567,6 +651,18 @@ places:
     Berlina: yes
     Berlinchen: "no: the town of Berlinchen in the Neumark (Barlinek), a settler's place of origin (Breyer)"
     Berlinie: yes
+    # Łukasiewicz (1997): both hits are in the titles of cited works — the
+    # handbook "Neuestes gelehrtes Berlin..." (p. 34 n. 16) and the series
+    # "Schriften des Vereins für die Geschichte Berlins" (p. 49 n. 99).
+    Berlinischen: "no: in the title of the cited handbook"
+    Berlins: "no: in the title of the cited series"
+  frankfurt-am-main:
+    # Łukasiewicz (1997): both hits are the imprint of a cited book
+    # (Bussenius 1961, Carsten 1988), not the city in its own affairs.
+    "Frankfurt a. M": "no: the imprint of a cited book"
+  heidelberg:
+    # Łukasiewicz (1997), p. 32 n. 6: the imprint of Bussenius's book.
+    Heidelberg: "no: the imprint of a cited book"
   bialobrzeg:
     # Chodyła (2015), Tab. 2: "Hollendry Wrąbczyńskie z młynem Białobrzeg",
     # the mill by Wrąbczynek: the edition's Biala Brzig bey Wrąbczynek.
@@ -821,6 +917,11 @@ places:
     Würtemberger: yes
     Würtembergern: yes
     Würtembergischen: yes
+    # Łukasiewicz (1997), p. 45: "Wurtemberg — 20 000 talarów" in the list of
+    # the donataries' debts — the Prince of Württemberg, the donatary (Tabela 1
+    # "Książę Würtemberg", Tabela 3 "książę Ludwik Wirtemberski"), not the
+    # state acting.
+    Wurtemberg: "no: the Prince of Württemberg, the donatary debtor, not the state"
   zagorowo:
     Zagorow: yes
     Zagorów: yes

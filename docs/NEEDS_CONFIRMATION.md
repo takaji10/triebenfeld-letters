@@ -511,6 +511,29 @@ read, translate and summarise.
     in, unlike Chodyła's headings refused); Juliusz Poniatowski, the
     minister of agriculture of 1938, refused to Prince Józef (p. 52,
     note 18). Nothing hangs on them but the question corpus.
+  **Minakowska (2026), the Starost's page** (`minakowska2026prusimski`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The PSB volume.** The page cites "Polski Słownik Biograficzny t. 28
+    s. 582: psb.24386.1"; the edition's copy of the same entry
+    (`pachonski1982`) is from the editor's file "…T.27.md", pp. 582-584.
+    One and the same entry, one volume apart. Which is right is the
+    editor's to settle (the file's name was theirs); nothing on
+    `pachonski1982` changes until they do.
+  - **The marriage.** The page has the Starost marry Marianna née Dąmbska
+    "about 1770"; no document dates the marriage. The date is the
+    database's estimate and is not used (EDITORIAL_RULES, 2026-10-22); the
+    marriage itself is the PSB's and stands.
+  - **"ca 1806".** The life-line "1744–ca 1806" is accepted (editor,
+    2026-10-22); the "ca" stays open - a document that dates the death
+    qualifies it.
+  - **The regest of 1786.** The page's Uwagi carry a regest of Teki
+    Dworzaczka: the Poznań municipal court's record (seria Relacje,
+    nr 197, Rel. C. Posn. T. 1113) of the division of the Prusimski
+    estates carried out at Trąbczyn on 29 March 1784, which confirms the
+    division of 1740 and the Starost's succession to his dead uncles. The
+    register is not a series the edition holds (its court books are
+    Konin's and Kalisz's). Whether the holding behind it is to be sought
+    is the editor's.
 
 ## Readings, Oe 1 Bü 9454
 

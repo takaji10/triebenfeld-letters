@@ -119,6 +119,25 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **Minakowska (2026), the Starost's page, and the person pages**
+  (2026-10-22, committed; not published): the first saved page of
+  Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with
+  the standing rule for the ones that follow
+  (`docs/LITERATURE_PLAN.md`, section 22) - one excerpt work per person
+  (`minakowska2026<name>`), the whole page kept as the work's `full.md`
+  knowledgebase and never shown, the editor's sections shown in full
+  detail, **the database's estimated dates never in the edition's prose**
+  (EDITORIAL_RULES, 2026-10-22), the documents first. With it the **person
+  pages**: a page per person from the authored `reference/genealogy.yml`
+  (who they are, their life dates, the family with the source of every
+  fact, the documents, the literature), built by
+  `pipeline/build/person_pages.py` after the website data and the index,
+  layout `person`, both languages, linked from the People page; checked by
+  verify_site.py. The pilot: /people/prusimski/
+  (/de/personen/prusimski/), with the life-line 1744-ca 1806 (accepted;
+  the "ca" open, NEEDS_CONFIRMATION). Read
+  `literature/minakowska2026prusimski/notes.md` first. The database's
+  pages are ISO-8859-2, not cp1250.
 - **The newspapers: a new section, and Dziennik Poznański (1937)**
   (`dziennikpoznanski19370807`, added 2026-10-22, **committed, not
   published**): the editor ruled a third section for newspaper articles,

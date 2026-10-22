@@ -65,8 +65,18 @@ MERGED = [
     # holdings nor literature, the editor's section of 2026-10-22.
     ('pipeline/newspapers/newspapers_site.py', 'newspapers pages',
      'site/_newspapers*/ - the press items, original and English side by side'),
+    # Who and which estates the items name, for the "In the newspapers" lists
+    # on /people/ and /places/. Fails on a hit nobody has read and ruled in
+    # newspapers/index.yml (a new item).
+    ('pipeline/newspapers/newspapers_index.py --check', 'newspapers index',
+     'site/_data/newspapers_mentions.yml - the items naming a person or estate'),
     ('pipeline/build/build_site_data.py', 'website data',
      'site/_letters/ and the search index'),
+    # The people who have their own page (docs/LITERATURE_PLAN.md, section
+    # 22). After the website data (the people) and the index (the "In the
+    # literature" lists it carries).
+    ('pipeline/build/person_pages.py --quiet', 'person pages',
+     'site/_people*/ - the page of each person in reference/genealogy.yml'),
     # Each holding's description cites the documents it rests on; this holds
     # every year and sum in it to those documents.
     ('pipeline/review/check_unit_text.py', "holdings' descriptions",

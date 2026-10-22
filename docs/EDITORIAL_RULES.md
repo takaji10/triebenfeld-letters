@@ -228,3 +228,14 @@ than where it sits.
 - Where this edition and `Consistency_Register.md` disagree about a name, the
   **register wins**. It is the book's settled standard, and the point of the
   entity index is to stay interoperable with it rather than compete with it.
+- **Dates of birth and death are not taken from a genealogical database**
+  (the editor, 2026-10-22). The Minakowska pages, and works of their kind,
+  carry estimated dates by the thousand - their "?1710-" tokens, their
+  "prawdopodobnie" and "około" forms - and an estimate repeated in the
+  edition's prose reads as evidence. So: an estimated date is **never taken
+  into the edition's prose**, not into a person entry, a bio, a summary or
+  the family of a person's page, whatever person it concerns, and however
+  many works print it. Inside the work's own text it stands, as printed.
+  A date enters the edition's prose only where a source the edition can
+  cite states it. Where that source writes "ca", the date keeps its "ca",
+  and NEEDS_CONFIRMATION keeps it open to qualification from the documents.

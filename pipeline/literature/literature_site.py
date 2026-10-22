@@ -27,6 +27,12 @@ sub-item, docs/LITERATURE_PLAN.md section 18) is shown on the Literature page
 inside its parent's section, and its page links back to the parent; the
 parent's page carries the sub-work's note (`note_en`, `note_de`).
 
+A work made from a page of the Minakowska genealogy database
+(docs/LITERATURE_PLAN.md section 22) is an excerpt of that page: the work's
+`make_original.py` makes both `original.md` (the editor's sections, shown
+here) and `full.md` (the whole page, the knowledgebase, never shown here).
+No page marks: cut at its headings.
+
 Each page gives the work passage by passage, each passage headed by its
 printed page so that it can be cited, and holding both texts, the original and
 the English; the page shows one of them at a time, the English first, by the

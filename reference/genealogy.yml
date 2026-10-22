@@ -1,0 +1,115 @@
+# The genealogy of the people who have their own page on the site
+# (docs/LITERATURE_PLAN.md, section 22; the editor, 2026-10-22).
+#
+# One block per person, keyed by the person's slug in reference/people.yml.
+# Each fact carries its source: a passage of a work of the literature
+# ("work/passage"), a document of the edition (its uid), or "editor" for a
+# ruling of theirs. The documents decide where they speak; where a fact
+# rests on the literature alone, the page says so beside it.
+#
+# Dates: the database's estimated dates are never recorded here (the
+# editor, 2026-10-22: "be very careful with accepting the estimated dates
+# of birth/death for people - I wouldn't use them at all"). A date is given
+# only where its source states it without an estimate. Where the source
+# writes "ca", the date keeps its "ca" and stays open to qualification from
+# the documents; such an open date is flagged in docs/NEEDS_CONFIRMATION.md.
+#
+# pipeline/build/person_pages.py validates this file against the generated
+# data (site/_data/people.yml, literature_mentions.yml) and writes
+# site/_data/genealogy.yml from it, which the person page renders. A block
+# whose slug is a shown person makes that person a page, in both languages;
+# the entry on /people/ then links to it.
+
+people:
+  prusimski:
+    # Antoni Prusimski, Starost of Niszczewice. His dates are the PSB
+    # entry's (the edition's copy, p. 582), which the database's page
+    # follows; the "ca 1806" stays open to qualification from the documents
+    # (the editor, 2026-10-22).
+    life: "1744–ca 1806"
+    born: "4 March 1744, at Bieganowo"
+    born_source: "pachonski1982/582; minakowska2026prusimski/front"
+    died: "about 1806"
+    died_source: "pachonski1982/582; minakowska2026prusimski/front"
+    parents:
+      # Stefan's dates on the database's page are its estimate
+      # ("prawdopodobnie w roku 1710") and are not shown.
+      - name: Stefan Prusimski
+        source: "minakowska2026prusimski/c01"
+        note: "son of Krzysztof Prusimski and Teresa née Łoś-Golińska"
+        note_source: "minakowska2026prusimski/c02"
+      - name: Wiktoria née Malczewska
+        dates: "1722–1780"
+        source: "minakowska2026prusimski/c01"
+    marriages:
+      - name: Marianna née Dąmbska
+        # the marriage the page dates "about 1770" is the database's
+        # estimate and is not shown (NEEDS_CONFIRMATION)
+        note: "daughter of Józef Wojciech Dąmbski, castellan of Kowal, and Barbara née Komorowska; with the Starost in Venice at the end of 1794, dead before the resident's dispatch of 14 December 1796"
+        note_source: "pachonski1982/584; ihagrrep7cnr1414-2"
+        source: "minakowska2026prusimski/c03; pachonski1982/584"
+    children:
+      - name: Michalina Zofia
+        dates: "1778–1851"
+        note: "the edition's Michalina z Prusimskich Dąbska, later Miączyńska, the only child; married first Józef Dąmbski, then, from about 1814, Stanisław Miączyński"
+        link: prusimska
+        source: "minakowska2026prusimski/c03; pachonski1982/584"
+        children:
+          # The database's page gives these with their own marriages and
+          # children; Włodzimierz is the edition's heir of Trąbczyn, the
+          # others are no persons of the edition.
+          source: "minakowska2026prusimski/c04"
+          entries:
+          - name: Aleksander Adam Stanisław Miączyński
+            dates: "1810–1869"
+            note: "married Bronisława née Kalkstein (1825–1858)"
+            children:
+              - {name: "Stanisława Miączyńska", dates: "1848–1860"}
+              - {name: "Wanda Michalina Paulina Miączyńska", dates: "1849–1875"}
+              - {name: "Stanisław Miączyński", dates: "1849–1860"}
+              - {name: "Władysław Atanazy Gustaw Miączyński", dates: "born 1852"}
+          - name: Włodzimierz Miączyński
+            dates: "1811–1879"
+            note: "heir of the Trąbczyn estate; died 20 December 1879"
+            link: miaczynski-wlodzimierz
+            note_source: "editor"
+          - name: Mieczysław Miączyński
+            dates: "1818–1887"
+            note: "married Maria née Słubicka (1828–1865)"
+            children:
+              - {name: "Zdzisława Miączyńska", dates: "1845–1876"}
+          - name: Witold Michał Miączyński
+            dates: "1823–1880"
+            note: "married Klementyna née Glińska (1826–1895)"
+            children:
+              - {name: "Michalina Miączyńska", dates: "1848–1927"}
+              - {name: "Józef Piotr Paweł Miączyński", dates: "1854–1923"}
+              - {name: "Tadeusz Franciszek Władysław Miączyński", dates: "1857–1923"}
+              - {name: "Jerzy Bernard Miączyński", dates: "1860–1913"}
+              - {name: "Maria Miączyńska", dates: "1862–1919"}
+    notes: >-
+      The database's page names its own sources in its Uwagi: Boniecki's
+      Herbarz polski (t. IV, the Dąmbscy article), the Polski Słownik
+      Biograficzny entry, the Czartoryski database, Konarski's Kanoniczki
+      warszawskie (Paris 1952), Łuszczyński's Silva Heraldica, Żychliński's
+      Złota księga rocznik 13 (the Miączyński pedigree), the marriage record
+      of Warsaw of 1810, and a regest of the Poznań municipal court's record
+      of the division of the Prusimski estates of 29 March 1784 - the court's
+      confirmation of the division of 1740 among Krzysztof Prusimski's sons,
+      by which the whole paternal estate was given to Antoni as the only
+      successor of his dead uncles Paweł and Antoni. The whole page, these
+      included, is kept in the work's folder; none of it is shown here.
+    notes_de: >-
+      Die Seite der Datenbank nennt ihre eigenen Quellen in ihren Uwagi:
+      Bonieckis Herbarz polski (T. IV, der Artikel Dąmbscy), den
+      Polski Słownik Biograficzny-Eintrag, die Czartoryski-Datenbank,
+      Konarskis Kanoniczki warszawskie (Paris 1952), Łuszczyńskis
+      Silva Heraldica, Żychlińkins Złota księga Rocznik 13 (den
+      Miączyński-Stammbaum), den Eheeintrag von Warschau von 1810 und ein
+      Regest der Aufzeichnung des Stadtrechts von Posen über die Teilung der
+      Prusimski-Güter vom 29. März 1784 - die Bestätigung des Gerichts der
+      Teilung von 1740 unter Krzysztof Prusimskis Söhnen, durch die das
+      ganze väterliche Vermögen Antoni als dem einzigen Nachfolger seiner
+      verstorbenen Oheime Paweł und Antoni gegeben wurde. Die ganze Seite,
+      diese eingeschlossen, liegt im Ordner des Werks; nichts davon wird
+      hier gezeigt.

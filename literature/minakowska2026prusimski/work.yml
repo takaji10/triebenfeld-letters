@@ -1,0 +1,71 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 22). original.md
+# and full.md are made by make_original.py from the editor's saved page of
+# sejm-wielki.pl (person 4.285.619); the page is not kept in the repository
+# (the editor's login in its header, the visitor's IP in its footer).
+# original.md is the editor's sections only - the biography, the parents, the
+# ancestor tree, the marriage and the children and grandchildren - shown on
+# the site; full.md is the whole page, the knowledgebase, never shown on it.
+# english.md is Claude's. No page marks: the work is cut at its headings, two
+# of which the script adds (# Przodkowie, # Wnuki). See notes.md.
+slug: minakowska2026prusimski
+visible: true
+kind: reference
+title: "Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619)"
+title_en: "Antoni Michał Kazimierz Ostroróg-Prusimski of Kolno, arms Nałęcz (ID: 4.285.619)"
+cite: "Minakowska (2026, Antoni Prusimski)"
+author: "Maria Jadwiga Minakowska"
+author_sort: "Minakowska, Maria Jadwiga"
+published: "Wielka genealogia Minakowskiej (Wielcy.pl), the person page 4.285.619, wydanie z 22.10.2026 (the database's edition of 22 October 2026)"
+year: 2026
+language: pl
+english_by: Claude
+scan: "https://www.sejm-wielki.pl/b/4.285.619"
+pages:
+  # no page marks in the database's page: cut at each heading
+  chapter: '^# '
+account_en: >-
+  The page of Antoni Michał Kazimierz Ostroróg-Prusimski (1744 to about 1806),
+  Starost of Niszczewice, in Maria Jadwiga Minakowska's online database Wielka
+  genealogia Minakowskiej (sejm-wielki.pl), person 4.285.619, the database's
+  edition of 22 October 2026. What the sections brought in give: his
+  biographical line (born 4 March 1744 at Bieganowo, died about 1806, the
+  Polski Słownik Biograficzny entry named beneath it), his parents Stefan
+  Prusimski and Wiktoria née Malczewska, the ancestor tree back to his
+  great-grandparents, his marriage about 1770 to Marianna née Dąmbska
+  (daughter of the castellan of Kowal Józef Wojciech Dąmbski and Barbara née
+  Komorowska), their daughter Michalina with her two husbands, and the
+  grandchildren through her. The database is compiled from the printed
+  armorials and biographies (its page's own Uwagi section lists Boniecki, the
+  PSB, the Czartoryski database, Konarski, Łuszczyński, Żychliński's rocznik
+  13 and the Teki Dworzaczka), and the whole page, its Uwagi included, is kept
+  in the work's folder as the knowledgebase (full.md) though it is not shown
+  here. Its estimated dates, marked with a question mark ("?1710-"), are the
+  database's own guesses and are not evidence: the edition does not take them
+  into its prose. A person with the mark "bohater PSB" has an entry in the
+  Polski Słownik Biograficzny; the tags in brackets ("[str]", "[bku]") are the
+  site's marks of the province of an office and are left as printed. Where
+  the page differs from the edition's documents, the notes say so, and the
+  edition follows the documents.
+account_de: >-
+  Die Seite von Antoni Michał Kazimierz Ostroróg-Prusimski (1744 bis etwa
+  1806), Starost von Niszczewice, in Maria Jadwiga Minakowskas Online-Datenbank
+  Wielka genealogia Minakowskiej (sejm-wielki.pl), Person 4.285.619, Ausgabe
+  der Datenbank vom 22.10.2026. Was die aufgenommenen Abschnitte geben: seine
+  biografische Zeile (geboren 4. März 1744 in Bieganowo, gestorben etwa 1806,
+  der PSB-Eintrag darunter genannt), seine Eltern Stefan Prusimski und
+  Wiktoria geb. Malczewska, den Vorfahrenbaum bis zu den Urgroßeltern, seine
+  Ehe um 1770 mit Marianna geb. Dąmbska (Tochter des Kastellans von Kowal,
+  Józef Wojciech Dąmbski, und der Barbara geb. Komorowska), ihre Tochter
+  Michalina mit ihren beiden Männern und die Enkel durch sie. Die Datenbank
+  ist aus den gedruckten Wappenbüchern und Biographien gearbeitet (der
+  Uwagi-Abschnitt der Seite nennt Boniecki, den PSB, die Czartoryski-Datenbank,
+  Konarski, Łuszczyński, Żychlińkins Rocznik 13 und die Teki Dworzaczka), und
+  die ganze Seite, die Uwagi eingeschlossen, liegt als Wissensspeicher (full.md)
+  im Ordner des Werks, wird hier aber nicht gezeigt. Ihre geschätzten Daten,
+  mit einem Fragezeichen bezeichnet ("?1710-"), sind Schätzungen der Datenbank
+  und sind kein Beleg: die Edition nimmt sie nicht in ihren Text. Eine Person
+  mit der Marke "bohater PSB" hat einen Eintrag im Polski Słownik
+  Biograficzny; die Marken in Klammern ("[str]", "[bku]") sind die
+  Wojewodschaftszeichen der Seite für ein Amt und bleiben gedruckt. Wo die
+  Seite von den Dokumenten der Edition abweicht, sagen es die Anmerkungen, und
+  die Edition folgt den Dokumenten.

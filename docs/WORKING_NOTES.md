@@ -1903,3 +1903,47 @@ cloud branches").
   printed its old output. Run Python from a subfolder (the `djvucrop`
   pattern), never from the temp folder itself.
 
+- **The Minakowska pages** (2026-10-22). A saved page of sejm-wielki.pl is
+  written in **ISO-8859-2**, not cp1250 - the first reading turned Łoś into
+  "Ło¶" and Dąmbska into "D±mbska"; a byte is the same letter in both
+  charset's lower half only by luck. The rule and the method are in
+  `docs/LITERATURE_PLAN.md`, section 22. The gender icons are images with
+  alt text; the ■ and □ marks stand before a spouse, the filled one before
+  the spouse the children beneath descend from (as the page uses it). The
+  pages' chrome is dropped by the work's `make_original.py`, keyed on the
+  Polish strings; the footer's "Związek z M.J. Minakowską" is a mangled
+  byte in the page itself ("Minakowskš"), so the chrome key matches the
+  prefix, not the whole word.
+- **A new `_dir` under site/ must be declared a collection** (2026-10-22).
+  Jekyll ignores any directory beginning `_` whose collection is not
+  declared in `site/_config.yml`: the first person pages were written to
+  `site/_people/` and the build produced nothing, without an error.
+  Declaring the collection (and its `_de` twin, with `output: true` and a
+  `defaults:` layout) is part of adding a generated page kind. The project's
+  generated page dirs are collections: `_literature*`, `_newspapers*`,
+  now `_people*`.
+- **`person_pages.py` runs after build_site_data** (2026-10-22), in
+  regenerate.py's MERGED order, because it reads the generated
+  `site/_data/people.yml` and the index's `literature_mentions.yml` and
+  writes the genealogy the layout renders. Editing `reference/genealogy.yml`
+  alone is not enough: run the script (or regenerate) before building the
+  site, or the page keeps the old data.
+- **The literature index and only_in** (2026-10-22). A person entry with
+  `only_in:` (a list of document uids) never matches in the literature -
+  the literature record's uid is not a document's - so the grandson
+  Włodzimierz is not matched there, and his bare "Miączyński" would be
+  counted to his father Stanisław. The ruling that keeps the grandchildren
+  off Stanisław's list is the passage-level `except:` in
+  `literature/index.yml`; the mechanism cannot rule per line, so a passage
+  that names both the subject and a relative is ruled by whichever the
+  passage is about, with the reason in a comment.
+- **Concurrent sessions share the working tree** (2026-10-22, seen twice in
+  one day). While this session worked, another committed its Mielewczyk
+  work onto main and a third created its Łukasiewicz (1997) in the same
+  folders mid-run; the shared generated files (`corpus/literature/
+  index.json`, `site/_data/literature*.yml`) pick up whatever is in
+  `literature/` when the scripts run. Commit only the files the session
+  made or alone modified, leave the shared generated files uncommitted,
+  and say so in the report; a fresh rebuild regenerates them from the
+  committed works. A verify failure naming a work this session never
+  touched is that work's session's in-flight state.

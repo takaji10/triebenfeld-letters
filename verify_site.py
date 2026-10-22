@@ -332,6 +332,41 @@ def main():
         print(f'  {len(np_shown)} items with pages in both languages, '
               f'{len(np_hidden)} kept off the site (summary only)')
 
+    # The people who have their own page (docs/LITERATURE_PLAN.md, section
+    # 22): every block of reference/genealogy.yml has its page in both
+    # languages, carrying the person's bio and life-line, and each entry on
+    # the People page links to it.
+    gen_path = os.path.join(ROOT, 'reference', 'genealogy.yml')
+    if os.path.isfile(gen_path):
+        import yaml
+        with io.open(gen_path, encoding='utf-8') as f:
+            gen_people = (yaml.safe_load(f) or {}).get('people') or {}
+        print('checking the person pages...')
+        for slug, block in gen_people.items():
+            for base in ('people', os.path.join('de', 'personen')):
+                page = os.path.join(SITE, base, slug, 'index.html')
+                if not os.path.isfile(page):
+                    fail(f"person page: no page {base}/{slug}/")
+                    continue
+                with io.open(page, encoding='utf-8') as f:
+                    built = f.read()
+                if 'class="genealogy"' not in built:
+                    fail(f'person page: {base}/{slug}/ shows no family section')
+                if 'class="bio"' not in built:
+                    fail(f'person page: {base}/{slug}/ shows no biography')
+            # the life-line, where the block gives one, is the person's
+            # entry's on /people/
+            for lang, base, life_key in (('en', 'people', 'life'),
+                                         ('de', os.path.join('de', 'personen'), 'life_de')):
+                if not block.get(life_key):
+                    continue
+                list_page = os.path.join(SITE, base, 'index.html')
+                if os.path.isfile(list_page):
+                    with io.open(list_page, encoding='utf-8') as f:
+                        lp = f.read()
+                    if slug not in lp:
+                        fail(f'person page: /{base}/ does not carry the entry {slug}')
+
     # The hand-made links (literature/links.yml), on both sides: each passage's
     # box links each document, and each document's page links each passage.
     links_data = os.path.join(ROOT, 'site', '_data', 'literature_links.yml')

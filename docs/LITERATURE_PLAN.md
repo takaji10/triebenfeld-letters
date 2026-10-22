@@ -669,3 +669,61 @@ by the edition's patterns, which take only the Staro-/Nowo-Łazińska forms -
 a pattern would have to say which colony (NEEDS_CONFIRMATION). No hand-made
 links yet: the article says nothing of the estate's owners or dates that a
 link's sentence could read.
+
+## 22. The Minakowska pages (2026-10-22)
+
+A saved page of M. J. Minakowska's Wielka genealogia Minakowskiej
+(sejm-wielki.pl) becomes one excerpt work, one per person:
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `minakowska2026prusimski` | M. J. Minakowska, Wielka genealogia Minakowskiej (Wielcy.pl), the page of Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619), wydanie z 22.10.2026 | Polish | none: cut at headings | yes: the editor's sections only |
+
+The editor's word (2026-10-22), the standing rule for the pages of this
+database that follow:
+
+- **One work per person**, slug `minakowska2026<name>`, cited "Minakowska
+  (2026, *name*)", the person ID and the page's own edition date (its
+  "wydanie z …" line) in `published:`. The saved page is never kept in the
+  repository: its header carries the editor's login and its footer the
+  visitor's IP address. `make_original.py` in the work's folder makes the
+  texts from it; the page is written in ISO-8859-2 unless it says otherwise.
+- **`full.md` is the knowledgebase**: the whole page, its every section,
+  in reading order - the biography, the parents, the ancestor tree, the
+  marriages and the descendants, the mother's other marriages, Stryjowie
+  lub wujowie oraz ciotki, i kuzynki, the nearest PSB persons, and Uwagi
+  with the page's own sources. Tracked, searchable with the other works'
+  passages in questions, **never shown on the site**.
+- **`original.md` is what the work is**: only the sections the editor names
+  for the person - here the biography, the parents, the ancestor tree, the
+  marriage and the children and grandchildren - and those are shown on the
+  site **in full detail**, not summarised. What the editor has not named
+  stays out of `original.md`, so the build, the index and `verify_site.py`
+  need no change for it. The script's rules are its docstring; two headings
+  are the script's, not the page's (# Przodkowie, # Wnuki).
+- **The database's estimated dates are never taken into the edition's
+  prose**: not the "?1710-" tokens, not the "prawdopodobnie" and
+  "około" forms, whatever person they concern
+  (docs/EDITORIAL_RULES.md). A date enters the edition's prose only where a
+  source the edition can cite states it. Where the source writes "ca",
+  the date keeps its "ca" and NEEDS_CONFIRMATION keeps it open to
+  qualification from the documents.
+- **The page's subject has a page of their own on the site**
+  (`reference/genealogy.yml`, `pipeline/build/person_pages.py`, the layout
+  `person`): who they are, their life dates, their family with the source
+  of every fact, the documents that name them, the literature that names
+  them. `Uwagi` reaches the site only as a sentence on that page saying
+  what its sources are. A future page of the database adds one block to
+  `reference/genealogy.yml` and makes its person's page the same way.
+- **The documents first**, as everywhere: every fact of the page is read
+  against the edition's documents before anything is built on it, the
+  differences are recorded in the work's `notes.md` and flagged in
+  NEEDS_CONFIRMATION, and the edition follows the documents.
+- **The index is read and ruled** like any work's; a genealogy names
+  relatives the edition has no entries for, so most surname-only rulings
+  for such a work are "no, this is the father/the son", with the reason.
+
+The first page (Antoni Prusimski, 2026-10-22): what it brought against the
+documents is in its `notes.md`; the family, the Uwagi sentence and the 115
+documents are on /people/prusimski/ (German /de/personen/prusimski/), linked
+from his entry on the People page. The index: 31 hits, all ruled.
