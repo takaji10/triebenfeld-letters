@@ -33,6 +33,12 @@ repository; they are on the working machine.
     (Paweł, Katarzyna, Antoni), and the timeline's event of 1754 now links
     the item's page — said here so the change is known, not because a
     question is open.
+  - **The buyer in the Słowo notice of 4 January 1892** (added 2026-10-22):
+    the press names her "hr. Władysławowa Wielopolska" — by her husband's
+    name, the wife of a Władysław Wielopolski — where the wlodzimierz era's
+    ownership line has "Countess Maria Wielopolska". Whether the two name
+    one woman (Maria the wife the married form points to) is the editor's
+    to confirm or correct (`newspapers/slowo18920104/notes.md`).
 
 
 

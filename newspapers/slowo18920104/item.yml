@@ -1,0 +1,128 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: slowo18920104
+
+# The item as the newspaper cites it: the eleventh year (Rok XI) of the
+# Warsaw daily Słowo, no. 2, of Monday 4 January 1892, page 3; the notice
+# stands in the paper's "Kronika ekonomiczna". Rok XI fits a paper begun in
+# 1882. The editor gave the citation with the file and the digitisation's
+# address (Crispa, the University of Warsaw's digital library).
+ref: >-
+  Słowo, R. XI, nr 2 (4 stycznia 1892), p. 3
+newspaper: Słowo
+published: >-
+  Słowo, R. XI, nr 2, Warsaw, 4 January 1892, p. 3 ("Sprzedaże dóbr",
+  the paper's "Kronika ekonomiczna")
+title: >-
+  A sale notice under the rubric "Sprzedaże dóbr" in the "Kronika
+  ekonomiczna" of the Warsaw daily Słowo of 4 January 1892: the Tomisławice
+  estate in the Turek powiat, 17 włókas, bought from Mr Repphan by Mr
+  Lutostański for 31,000 rubles, and the Trąbczyn estate in the Słupca
+  powiat, 150 włókas, bought from Count Miączyński by Countess
+  Władysławowa Wielopolska for 225,000 rubles — the press witness of the
+  transfer of the edition's own estate out of the Miączyński family's hands.
+title_en: >-
+  "Sprzedaże dóbr" ("Sales of estates"): two estate sales, of Tomisławice
+  and of Trąbczyn, announced in the Warsaw daily Słowo of 4 January 1892
+cite: Słowo (1892)
+author: ""
+year: 1892
+date_span: "1892"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The notice belongs to
+# the era whose ownership line it is evidence for: Włodzimierz Miączyński
+# held Trąbczyn to his death in 1879, then his nephew Władysław Miączyński,
+# "and by 1892 Countess Maria Wielopolska" — this notice of 4 January 1892
+# is where that transfer shows in the press.
+era: wlodzimierz
+
+# Shown whole on the site. The notice is anonymous press of 1892: Polish
+# copyright in an anonymous work runs 70 years from its first publication,
+# so it ended in 1962.
+visible: true
+
+# Where the page comes from: the digitisation of Crispa, the University of
+# Warsaw's digital library (the issue's PDF; the editor gave the address
+# with the task).
+source: https://crispa.uw.edu.pl/object/files/30152/display/PDF
+
+# The image, shown above the texts: the editor's crop of the page (a column
+# of the "Kronika ekonomiczna" at 300 dpi, the file 3-DPI300.jpg in the
+# editor's Downloads folder), carrying the notice with the column's opening
+# note above it. Only the "Sprzedaże dóbr" notice is transcribed, at the
+# editor's word ("only this snippet of the article is needed").
+image: slowo.jpg
+
+# The English was made in the session that read the page (the editor's
+# word, 2026-10-22); it is not checked whole.
+english_by: Claude, 2026-10-22
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a stock column of the Warsaw
+# daily's economic chronicle, gathering sale notices of estates as they
+# reached the paper. Its facts are the kind a notary's deed would confirm;
+# what makes it worth having here is that one of the two estates named is
+# the edition's own.
+account_en: >-
+  A sale notice in the "Kronika ekonomiczna" of the Warsaw daily Słowo, no. 2
+  of 4 January 1892 (the paper's eleventh year), page 3: two lines gathering
+  the sales of landed estates the paper had been told of. The Tomisławice
+  estate in the Turek powiat, of 17 włókas, was bought from Mr Repphan by Mr
+  Lutostański for 31,000 rs. — the ruble in silver (rubli srebrnych), the
+  Russian Empire's money in the Kingdom of Poland; the włóka is the old
+  Polish field measure. Then the edition's own estate: "Majątek Trąbczyn, w
+  pow. słupeckim, 150 włók, nabyła od hr. Miączyńskiego hr. Władysławowa
+  Wielopolska za 225,000 rs." — the Trąbczyn estate in the Słupca powiat,
+  150 włókas, bought from Count Miączyński by Countess Władysławowa
+  Wielopolska for 225,000 rs. The count selling is the Miączyński the era's
+  ownership line puts between Włodzimierz's death in 1879 and the Wielopolska
+  ownership "by 1892": his nephew Władysław Miączyński. The buyer the press
+  names by her husband's name — "Władysławowa Wielopolska", the wife of a
+  Władysław Wielopolski — where the era's ownership line has "Countess Maria
+  Wielopolska"; the two belong together if Maria is the wife the married form
+  points to, and the question is open (NEEDS_CONFIRMATION, "The newspapers").
+  Only this notice is transcribed, at the editor's word; the crop carries
+  with it the column's opening note above the notice, on the spiritus trade
+  in Warsaw, which is not part of the item.
+account_de: >-
+  Eine Verkaufsnotiz in der „Kronika ekonomiczna“ der Warschauer Tageszeitung
+  Słowo, Nr. 2 vom 4. Januar 1892 (das elfte Jahr der Zeitung), Seite 3: zwei
+  Zeilen, die die Verkäufe von Grundbesitz zusammenstellen, von denen die
+  Zeitung Kenntnis erhalten hat. Das Gut Tomisławice im Powiat Turek, 17
+  Włókas, kaufte von Herrn Repphan Herr Lutostański für 31.000 Rs. — den
+  Rubel in Silber (rubli srebrnych), das Geld des Russischen Reiches im
+  Königreich Polen; die Włóka ist das alte polnische Feldmaß. Dann das Gut
+  der Edition selbst: „Majątek Trąbczyn, w pow. słupeckim, 150 włók, nabyła
+  od hr. Miączyńskiego hr. Władysławowa Wielopolska za 225,000 rs.“ — das
+  Gut Trąbczyn im Powiat Słupca, 150 Włókas, gekauft von Graf Miączyński
+  durch Gräfin Władysławowa Wielopolska für 225.000 Rs. Der verkaufende Graf
+  ist der Miączyński, den die Besitzzeile der Epoche zwischen Włodzimierzs
+  Tod 1879 und dem Wielopolska-Besitz „bis 1892“ setzt: sein Neffe Władysław
+  Miączyński. Die Käuferin nennt die Presse nach dem Namen ihres Mannes —
+  „Władysławowa Wielopolska“, die Frau eines Władysław Wielopolski —, wo die
+  Besitzzeile der Epoche „Gräfin Maria Wielopolska“ hat; die beiden gehören
+  zusammen, wenn Maria die Frau ist, auf die die verheiratete Form weist, und
+  die Frage ist offen (NEEDS_CONFIRMATION, „The newspapers“). Nur diese
+  Notiz ist transkribiert, auf des Editors Wort; der Ausschnitt zeigt über
+  ihr auch die einleitende Notiz der Kolumne über den Spiritushandel in
+  Warschau, die nicht zum Artikel gehört.
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  A sale notice under the rubric "Sprzedaże dóbr" (sales of estates) in the
+  economic chronicle of Słowo, no. 2 of 4 January 1892, p. 3. Two sales in
+  one notice: the Tomisławice estate in the Turek powiat, of 17 włókas,
+  bought from Mr Repphan by Mr Lutostański for 31,000 rs.; and the Trąbczyn
+  estate in the Słupca powiat, of 150 włókas, bought from Count Miączyński
+  by Countess Władysławowa Wielopolska for 225,000 rs.
+summary_de: >-
+  Eine Verkaufsnotiz unter der Rubrik „Sprzedaże dóbr“ (Verkäufe von Gütern)
+  in der wirtschaftlichen Chronik von Słowo, Nr. 2 vom 4. Januar 1892, S. 3.
+  Zwei Verkäufe in einer Notiz: das Gut Tomisławice im Powiat Turek, 17
+  Włókas, gekauft von Herrn Repphan durch Herrn Lutostański für 31.000 Rs.;
+  und das Gut Trąbczyn im Powiat Słupca, 150 Włókas, gekauft von Graf
+  Miączyński durch Gräfin Władysławowa Wielopolska für 225.000 Rs.

@@ -119,6 +119,17 @@ so check them.
 
 ## Where things stand (2026-10-22)
 
+- **Słowo (1892) sells Trąbczyn** (`slowo18920104`, added 2026-10-22,
+  **committed, not published**): the "Sprzedaże dóbr" notice in the Warsaw
+  daily's "Kronika ekonomiczna" of 4 January 1892, p. 3, the third item of
+  the Newspapers section — the press witness of Trąbczyn's sale by Count
+  Miączyński to Countess Władysławowa Wielopolska for 225,000 rs., the
+  transfer the wlodzimierz era's ownership line records ("by 1892 Countess
+  Maria Wielopolska"). The editor's rulings: the snippet named only
+  ("only this snippet of the article is needed"), their own crop of the
+  column carried on the item's page, five readings ruled on the spot sheet
+  (among them "150 włók" against the draft's 159). Read
+  `newspapers/slowo18920104/notes.md` first. Not published.
 - **Łukasiewicz (1997)** (`lukasiewicz1997`, added 2026-10-22,
   **committed, not published**): Dariusz Łukasiewicz, "Nowa analiza
   „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R.

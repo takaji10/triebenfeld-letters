@@ -735,4 +735,18 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] **You:** the Oleśnica of the 1937 item is ruled to the register's
       Oleśnica on its geography — confirm or correct
       (NEEDS_CONFIRMATION, "The newspapers").
+- [x] Słowo, R. XI, nr 2 (4 January 1892), p. 3, the "Sprzedaże dóbr"
+      notice, added (2026-10-22): the snippet you named, from the Crispa
+      digitisation with your crop of the column carried on the item's page;
+      read by OCR with word zooms, five readings ruled on the spot sheet —
+      among them your "150 włók" against the draft's 159
+      (`newspapers/slowo18920104/notes.md`). The notice is the press
+      witness of Trąbczyn's sale by Count Miączyński to Countess
+      Władysławowa Wielopolska for 225,000 rs. — the transfer the
+      wlodzimierz era's ownership line records; the item sits in that era
+      and its one index hit (Trąbczyn) is ruled.
+- [ ] **You:** the notice's buyer is "hr. Władysławowa Wielopolska" (the
+      wife of a Władysław) where the era's ownership line has "Countess
+      Maria Wielopolska" — one woman or two (NEEDS_CONFIRMATION, "The
+      newspapers").
 - [ ] Published at your word (the section is built but not yet on `main`).

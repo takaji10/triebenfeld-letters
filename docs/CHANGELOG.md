@@ -2257,6 +2257,31 @@ lose his estates. The era page writes Konotop, not Kontop.
 - Where the article's figures differ from the edition's documents, the documents stand (the Triebenfeld sale: the register's entry and the letters 400,000 to Prince George and 750,000 on, the article 450,000 and "the same year" - his reading of Dorow's printing).
 - Index hits read and ruled (the kings yes; Massenbach yes on the article's own n. 24; Niemojewski and Wybicki yes on the confiscation list; Adelheid Simsch refused to the Princess; the donatary Grävenitz, councillor Schmaling and the Freiherr von der Reck refused with reasons and open in NEEDS_CONFIRMATION, "The literature"; the imprint towns and the titles carrying Berlin refused). Two hand-made links: the Triebenfeld story and Tabela 4's row to the Prince's three letters, and Tabela 1's Hohenlohe row to the five letters of the register's Hohenlohe link. `docs/LITERATURE_PLAN.md`, section 23.
 
+## The newspapers: Słowo (1892) sells Trąbczyn (2026-10-22, committed; not published)
+
+- Słowo, R. XI, nr 2 (4 January 1892), p. 3, the "Sprzedaże dóbr" notice
+  (`newspapers/slowo18920104/`), at the editor's word: the snippet named, the
+  editor's own crop of the column carried on the item's page (`slowo.jpg`),
+  the Crispa digitisation as the `source:`.
+- The notice's five printed lines transcribed line by line as printed ("¬"
+  at the two broken words), read by Tesseract (three passes) with word-level
+  zooms; five readings ruled on a spot sheet: **za** (no acute), the buyer's
+  **Władysławowa** (the married form), **peckim** (the print is grammatical),
+  the figure **150 włók** against the draft's 159, and both digitisation
+  artefacts (the streak before the number, the sliver at the crop's foot)
+  left out.
+- The item is the press witness of Trąbczyn's sale by Count Miączyński to
+  Countess Władysławowa Wielopolska for 225,000 rs. — the transfer the
+  wlodzimierz era's ownership line records ("by 1892 Countess Maria
+  Wielopolska"); the item sits in that era. Open: whether the press's
+  "Władysławowa Wielopolska" and the era's "Countess Maria Wielopolska" name
+  one woman (NEEDS_CONFIRMATION, "The newspapers").
+- The index run over it: one hit, Trąbczyn, ruled (`newspapers/index.yml`);
+  the notice's "hr. Miączyńskiego" is outside the Miączyński patterns' forms
+  (the genitive after "hr."), said in the notes. The "In the newspapers" box
+  on Trąbczyn's page on /places/ now carries the item beside the Kuryer
+  Polski's. `docs/NEWSPAPERS_PLAN.md`, section 5.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
