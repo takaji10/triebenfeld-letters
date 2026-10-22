@@ -221,8 +221,8 @@ link's sentence could read.
 
 ## Open
 
-- **Uncommitted; not published.** The work was built in session on
-  2026-10-22; the commit, the merge to `main` and the rebuild wait on the
+- **Committed on `main` (2026-10-22, commits 1c2a43c3 and after); not
+  pushed, not published.** The merge to the live site waits on the
   editor's word (the standing rule: publish only when the editor says so).
 - Whether a literature pattern for the colonies' later name ("Kolonia
   Łazińskie", p. 48) should be added - the article does not say which of the
