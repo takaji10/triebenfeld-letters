@@ -1474,6 +1474,40 @@ cloud branches").
 - **The Bash heredoc trap again** (2026-10-19): an append of English prose
   to `links.yml` failed on an apostrophe and wrote nothing. Append with the
   Edit tool, anchored on the file's last lines.
+- **Two of Słowiński's books checked against their PDFs** (2026-10-22, the
+  editor's request; outside the repository, in their Downloads folder):
+  *Przeżyć tę jedną zimę* (2023) and *Zerwane ogniwo* (2024). The editor's
+  .md files of them were exports with damage (line-break hyphens left in
+  words, drop caps split off, runaway italics, notes cut or misplaced,
+  captions missing, pictures embedded as base64). Each .md was **made again
+  from the PDF's text layer** with PyMuPDF, with the old .md only as a second
+  witness; the old file kept as `*.original.md` and a check report beside
+  it. The editor's rule for this work: **no OCR on images** (a rendered page
+  may be looked at for layout only). The scripts and plans are in that
+  session's scratch folder, not kept; what to carry over:
+  - The checks that made the result trustworthy: the PDF's words and the
+    .md's words equal as multisets and in order; the letters equal page by
+    page (with `<!-- s. N [PDF M] -->` page marks in the .md); note
+    references and definitions counted against the print's `*` markers;
+    italic and bold words compared by font; tables cell by cell. Write the
+    checker apart from the generator, and run it after every hand edit.
+  - **InDesign text layers carry look-alike letters**: in *Zerwane ogniwo*
+    German "ß" is Greek β (U+03B2) and "ä" Cyrillic ӓ (U+04D3) in 13 places;
+    they print the same and break searching. The editor ruled them written ß
+    and ä. Search a new PDF's layer for Greek and Cyrillic letters in Latin
+    words.
+  - **A letter can be a picture**: the cover's "O" of OGNIWO is a clock, and
+    the layer reads "GNIWO"; the editor ruled the title written as seen.
+  - **Most line-end hyphens there are hard, not soft** (2,162, only 30
+    soft): each was decided against the book's own words (a compound the
+    book writes joined elsewhere is joined).
+  - Rulings the editor accepted: an ornament as "◼"; italics exactly as the
+    fonts have them, even mid-word; misprints kept and listed; notes at the
+    end as `[^n]`. A mistake made: the ornament replace also turned the
+    notes divider `---` into "◼" and broke the checker, which finds the notes
+    by the last `---`: replace by the generator's own kind, not by text.
+  - If either book comes into the literature, the checked .md is the text
+    to start from (the books bear on Łazińsk and Zagórów).
 
 ## The English, the summaries and the claim check
 
