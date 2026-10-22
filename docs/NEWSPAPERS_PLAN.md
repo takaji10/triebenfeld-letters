@@ -153,6 +153,7 @@ document list are left out when there are no documents).
 | `zdrowie1912z10` | Zdrowie, R. XXVIII, z. 10 (1912), pp. 720-725: "W sprawie odżywiania się ludu" — Dr. Konstanty Lidmanowski's study of what the rural people of the Słupca powiat eat, reckoned in "heat units" (ciepłostki) against the working body's need | Polish | yes, no picture |
 | `jutrzenka1913z8` | Jutrzenka, R. 3, nr 8 (24 kwietnia 1913), pp. 7-10: "Jak się ubiera nasz lud." — the folk attire and its hygiene, carried from Dr. Lidmanowski's article in the March Zdrowie; the signature open (NEEDS_CONFIRMATION) | Polish | yes, no picture |
 | `zdrowie1914z6` | Zdrowie, R. XXX, z. 6 (1914), pp. 432-440: "Jak mieszka lud nasz?" — Dr. Lidmanowski's survey of rural dwellings: 1,200 farmhouses, 80 manor servants' quarters, 140 labourers' lodgings, 91 of every 100 farmers' dwellings one room | Polish | yes, no picture |
+| `echotureckie1931018` | Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379: "Zajście w Zagórowie" — the clash at the recruiting commission of 24 April: the crowd stoning the premises when the quota ran out, the starosta of Słupca's police, the second storming, a dozen or more arrested | Polish | yes, with the clipping |
 | `luteraniezagorow` | Luteranie Konin (luteranie.konin.pl), bd. [bez daty]: "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie" — the parish's own chronicle of the Zagórów filial, dated entries from the Reformation among the monks of Ląd in the sixteenth century to the closing of the Evangelical Senior Citizens' Home in 2009 | Polish | yes, no picture, no era |
 
 The third item came in the same day with the transcription and the English
@@ -247,6 +248,34 @@ dress and food of the people the edition's documents move among, set
 down by the district's own doctor — the 1912 article names the Słupca
 powiat, the edition's own ground (Słupca itself not in the places
 register: NEEDS_CONFIRMATION).
+
+**The Echo Tureckie clipping** (2026-10-22) comes from the same blog
+post as the 1937 clipping — the editor gave the blog's title as
+**ZAGÓRÓW-MIEJSCE Z HISTORIĄ** (the 1937 notes' "Zagórów w historii"
+left as they stand, by the editor's word); the file's leading "8." is
+the image's order in the post. The citation reads "Zagórów – Echo
+Tureckie"; the editor ruled the paper's title **Echo Tureckie**, the
+Turek weekly, "Zagórów" naming its Zagórów edition, and the slug takes
+the year's issue number in the Kuryer Polski's shape
+(`echotureckie1931018`; the paper's absolute nr 379 stands in the
+citation alone). Read by four Tesseract passes — the Windows.Media.Ocr
+engine, the plan's third witness, unavailable that day (`winrt` not
+importable in the session's Python) — with six rulings on a spot sheet:
+"widownią" is the print's line-broken word (the engines' shared "hią"
+the fractured "ń"), the mark on the k of "rekrutacyjna" is not a letter,
+the sliver at the right edge and the mark at the final line's head are
+left out, "kontyngent" stands against the four engines' agreed
+"kontygent" (the print carries the n), "lokal." keeps its period. This
+clipping breaks its words **with printed hyphens** (the Kuryer Polski
+and the 1937 clipping broke without), so the "¬" convention appears
+nowhere. The item names nobody; its index hits are Zagórów's three
+forms, already ruled. What it bears: the recruitment of seasonal
+workers for Germany six years before the 1937 column's routine — the
+1931 violence, the stoning of the commission's premises, the arrests.
+The work stands on its own branch `echotureckie1931018`, cut from main
+as the session found it (the luteraniezagorow commit beneath, the
+parallel work's own).
+`newspapers/echotureckie1931018/notes.md` has it all.
 
 **The parish's own chronicle** (`luteraniezagorow`, 2026-10-22) is the
 section's first item from a **parish website** and its first item with no

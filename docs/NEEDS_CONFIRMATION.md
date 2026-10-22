@@ -12,7 +12,7 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Eight items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Ten items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
   word (2026-10-22), with the old /documents/ addresses redirected, the
@@ -28,11 +28,14 @@ repository; they are on the working machine.
   Polish in session) — and the parish's own chronicle of the Zagórów
   filial on the Konin parish's website (`luteraniezagorow`, added
   2026-10-22: undated, shown whole at the editor's word, no pictures, no
-  era, no date in the slug). The rulings of that day are
+  era, no date in the slug) — and Echo Tureckie's report of the clash at
+  the recruiting commission (`echotureckie1931018`, added 2026-10-22:
+  shown whole with the clipping, on its own branch, nothing open in it).
+  The rulings of that day are
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 54 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 57 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's

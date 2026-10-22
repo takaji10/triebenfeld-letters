@@ -2594,6 +2594,52 @@ lose his estates. The era page writes Konotop, not Kontop.
   has 34 works, 30 on the site and four summary-only. `docs/LITERATURE_
   PLAN.md`, section 26. Not published.
 
+## 2026-10-22 — The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379, "Zajście w Zagórowie"
+
+- **A new item**, `newspapers/echotureckie1931018/`: the Zagórów edition
+  of the Turek weekly Echo Tureckie's report of the clash at the
+  recruiting commission of 24 April 1931 — the workers' crowd stoning the
+  premises when the season's quota ran out, the starosta of Słupca
+  arriving with reinforcements of police, the second storming, the
+  dispersal, a dozen or more persons arrested — anonymous, no signature
+  and no siglum. From the blog **ZAGÓRÓW-MIEJSCE Z HISTORIĄ** (the
+  editor's word for the title; the same post of 2 October 2024 the 1937
+  clipping came from, the file's leading "8." the image's order in the
+  post), the rights approved, the clipping carried on the page, the item
+  shown whole.
+- **Read by four Tesseract passes** — the Windows.Media.Ocr engine, the
+  plan's third witness, unavailable the day (`winrt` not importable in
+  the session's Python) — with six rulings on a spot sheet
+  (`scratch/et1931_sheet.py`, port 4108): "widownią" the print's
+  line-broken word (the engines' shared "hią" the print's fractured "ń"),
+  the mark on the k of "rekrutacyjna" not a letter, "kontyngent" against
+  the engines' agreed "kontygent" (the print carries the n), the
+  right-edge sliver and the final line's leading mark left out, "lokal."
+  with its period. This clipping breaks its words **with printed
+  hyphens** (the Kuryer Polski and the 1937 clipping broke without), so
+  the "¬" convention appears nowhere.
+- **The editor's rulings of the day**: the paper's title Echo Tureckie
+  ("Zagórów" the edition's name; the `newspaper:` field carries Echo
+  Tureckie, the citation's full shape recorded under `published:` and in
+  the notes); the whole clipping transcribed; the slug
+  `echotureckie1931018` (the year's issue number in the Kuryer Polski's
+  shape, the absolute nr 379 in the citation alone); shown whole, the
+  rights approved (anonymous press of 1931, public domain since 2001
+  besides); the blog's new name for this item, the 1937 notes untouched.
+- **On its own branch**: the work stands on `echotureckie1931018`, cut
+  from main as the session found it (the luteraniezagorow commit
+  beneath, the parallel work's own; main itself left where that work
+  stands); built and verified (ALL CHECKS PASSED, 619 documents
+  character-exact, 46,468 internal links resolving); not published.
+- **What it bears on**: the recruitment of seasonal workers for Germany
+  — the "Z Zagórowa" column of Dziennik Poznański of 1937 records the
+  trade as routine, this item its violence six years earlier; both from
+  the same blog post. The item names nobody; the index's hits are
+  Zagórów's three forms, already ruled. The report's "yesterday" against
+  the issue's 6 May is the dispatch's own arithmetic, recorded in the
+  summary, corrected nowhere. `docs/NEWSPAPERS_PLAN.md`, section 5;
+  `newspapers/echotureckie1931018/notes.md` first.
+
 ## Deliverables produced
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.

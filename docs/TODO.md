@@ -875,3 +875,29 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       Prus" beside it (NEEDS_CONFIRMATION, "The newspapers").
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
+
+## 28. The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379 — "Zajście w Zagórowie"
+
+- [x] The clipping brought in (`newspapers/echotureckie1931018/`): read
+      from the scan as the agreement of four Tesseract passes (the
+      Windows.Media.Ocr engine, the plan's third witness, unavailable the
+      day — winrt not importable in the session's Python), six readings
+      ruled on a spot sheet; the English made in session
+      (`newspapers/echotureckie1931018/notes.md`).
+- [x] The citation settled (your rulings): the paper's title Echo
+      Tureckie, the Turek weekly, "Zagórów" naming its Zagórów edition;
+      the whole clipping transcribed; the slug takes the year's issue
+      number (`echotureckie1931018`), the absolute nr 379 stands in the
+      citation alone; the blog's title ZAGÓRÓW-MIEJSCE Z HISTORIĄ for
+      this item, the 1937 clipping's notes untouched.
+- [x] Shown whole (the rights approved; anonymous press of 1931 is
+      public domain besides), the clipping carried on the page; the item
+      names nobody, and the index's hits are Zagórów's three forms
+      already ruled — no new rulings wanted.
+- [x] The work on its own branch `echotureckie1931018` (cut from main as
+      the session found it — the luteraniezagorow commit beneath, the
+      parallel work's own; main itself left where that work stands),
+      built and verified (ALL CHECKS PASSED, 619 documents
+      character-exact).
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

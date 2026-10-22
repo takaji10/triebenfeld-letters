@@ -99,6 +99,39 @@
   "context": "Z gospodarki miejskiej, Zarząd miasta Zagórowa"
  },
  {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 1,
+  "context": "Zajście w Zagórowie."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 3,
+  "context": "W dniu 24 kwietnia r.b., miasteczko Za-"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowa",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 26,
+  "context": "wiatowy w Słupcy przybył do Zagórowa ze"
+ },
+ {
   "kind": "person",
   "entity": "lidmanowski",
   "display": "Dr. Konstanty Lidmanowski",

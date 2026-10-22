@@ -359,6 +359,23 @@ so check them.
   (the care from Września to 1817, entry 201) and Kneifel's church of
   1878-1896. Read `newspapers/luteraniezagorow/notes.md` first. Not
   published.
+- **The Echo Tureckie clipping** (`echotureckie1931018`, added 2026-10-22,
+  **committed on its own branch, not published**): "Zajście w Zagórowie"
+  in the Zagórów edition of the Turek weekly Echo Tureckie, R. 8, nr 18
+  (6 May 1931), nr 379 — the clash at the recruiting commission of
+  24 April: the workers' crowd stoning the premises when the quota ran
+  out, the starosta of Słupca's police, the second storming, a dozen or
+  more persons arrested. Anonymous, no signature and no siglum. From the
+  blog **ZAGÓRÓW-MIEJSCE Z HISTORIĄ** (the editor's word for the title;
+  the same post of 2 October 2024 the 1937 clipping came from). Read by
+  four Tesseract passes (the Windows engine unavailable the day), six
+  rulings on a spot sheet; the print breaks its words with printed
+  hyphens, so the "¬" convention appears nowhere. Shown whole (the
+  rights approved), the clipping carried. The item names nobody; the
+  index's hits are Zagórów's forms, already ruled. Its bearing: the
+  recruitment for Germany's violence six years before the 1937 column's
+  routine. Read `newspapers/echotureckie1931018/notes.md` first. Not
+  published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów
