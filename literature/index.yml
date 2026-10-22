@@ -200,6 +200,15 @@ people:
     # Chełmski" (c04), "od Ignacego Chełmskiego" (c06), "rodowód
     # Chełmskich" (c01, the pedigree that leads into the branch): the family
     # of the edition's entry.
+    # Minakowska (2026, Helena Zielonacka): the "Chełmski" of
+    # "Ścibor-Chełmski" on her page are her husband Józef Ścibor-Chełmski
+    # (named with his brother Franciszek by the decree of 1728, APP
+    # 53/6/0/-/40, and by Boniecki c04 her husband), his and her son Tomasz,
+    # and Tomasz's sons Franciszek Ksawery, Stanisław (1795-1867) and
+    # Stanisław Józef (1807-1877): the family of the edition's entry. Her
+    # sons Heliodor and Stanisław the Treasurer are of it too, but their
+    # names on the page stand without the surname ("Heliodor", "Stanisław,
+    # skarbnik [poz] Wschowa"), so the pattern does not take them.
     Chełmski: yes
     Chełmskiego: yes
     Chełmskich: yes

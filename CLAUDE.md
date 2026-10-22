@@ -138,6 +138,15 @@ so check them.
   the "ca" open, NEEDS_CONFIRMATION). Read
   `literature/minakowska2026prusimski/notes.md` first. The database's
   pages are ISO-8859-2, not cp1250.
+  (`literature/minakowska2026zielonacka/notes.md` first for the second:
+  Helena Zielonacka, the Chełmski wife, saved in the database's ENGLISH
+  user interface - the work's language is the saved page's own (section
+  22), and her page /people/helena-zielonacka/ is the first **standalone**
+  person page (`standalone: true` in `reference/genealogy.yml`: her own
+  heading and bio, no documents, the literature named by hand). The
+  database's Boniecki-derived IDs (2.976.*) are entries of the online
+  Boniecki - check them against the edition's works. The database's
+  pages are ISO-8859-2, not cp1250.
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither

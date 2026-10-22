@@ -1955,3 +1955,25 @@ cloud branches").
   and say so in the report; a fresh rebuild regenerates them from the
   committed works. A verify failure naming a work this session never
   touched is that work's session's in-flight state.
+
+- **The second Minakowska page, three lessons** (2026-10-22). The database
+  renders its pages in the reader's language: Helena Zielonacka's page was
+  saved in the ENGLISH interface ("Parents", "Married about 1720 to"),
+  where the first was Polish - so a work of this database takes its
+  language from the page as saved, and a work with `language: en` has no
+  `english.md` (Mączak's case; the chrome keys of `make_original.py` are
+  per work, keyed on the language's own strings). The ID tells where the
+  person's entry comes from: `2.976.216` is an entry of the online
+  Boniecki's article 2.976 - the article the edition holds as
+  `boniecki1900` - and the first thing to check is what that work already
+  carries of the person. And a page's subject may be no person of the
+  edition at all: `standalone: true` in `reference/genealogy.yml` gives
+  the block its own heading and bio, the page drops the documents section,
+  and `literature_passages:` names the literature by hand; `person_pages.py`
+  validates the shape, and a source may name a work without a passage
+  (the work's own page).
+- **`genealogy.yml` and the "ca"** (2026-10-22). The first block had
+  silently dropped a "ca" (Stanisław Miączyński "ca 1849-1860" was written
+  "1849–1860"); the rule says a "ca" keeps its "ca". When a date moves from
+  a source into the genealogy block, diff the token against the source, not
+  against memory.

@@ -14,7 +14,11 @@ Writes : site/_data/genealogy.yml         the genealogy as the site reads it
 A block whose slug is a shown person makes that person a page: who they are
 (the people.yml bio), their life dates, their family with the source of
 every fact, the documents that name them, and the works of the literature
-that name them. The database's estimated dates are never carried
+that name them. A block for a person of no document of the edition
+(`standalone: true`) makes the page alone: the block carries its own heading
+and biography, the page has no list of documents, and the literature it
+belongs to is named by hand (`literature_passages:`).
+The database's estimated dates are never carried
 (reference/genealogy.yml, header; the editor, 2026-10-22).
 
 Every `source` is validated and resolved here into what the page shows: a
@@ -99,6 +103,12 @@ def main():
                 out.append({'text': f"{w['cite']}, {label}",
                             'url': f"/literature/{work}/#p-{key}" if lang == 'en'
                             else f"/de/literatur/{work}/#p-{key}"})
+            elif part in lit:
+                # a work named without a passage: the work's own page
+                w = lit[part]
+                out.append({'text': w['cite'],
+                            'url': f"/literature/{part}/" if lang == 'en'
+                            else f"/de/literatur/{part}/"})
             else:
                 r = letters.get(part)
                 if r is None:
@@ -131,18 +141,37 @@ def main():
                 resolve_entry(k, where)
 
     for slug, block in genealogy.items():
-        if slug not in people:
-            raise ValueError(f'genealogy.yml: {slug} is no person of the edition')
         where = f'genealogy.yml: {slug}'
+        standalone = slug not in people
+        if standalone:
+            # A person of no document of the edition: the block carries its
+            # own heading and biography, and the page has no list of
+            # documents. The literature is named by hand.
+            if not block.get('standalone'):
+                raise ValueError(f'{where}: no person of the edition, and no '
+                                 f"'standalone: true' - the block needs its own "
+                                 f'heading and bio, or the slug is misspelt')
+            for field in ('heading', 'heading_de', 'bio', 'bio_de'):
+                if not block.get(field):
+                    raise ValueError(f'{where}: a standalone block needs a {field}')
         if block.get('born'):
+            if not block.get('born_source'):
+                raise ValueError(f'{where}: born without a born_source')
             block['born_sources_en'] = resolve(block['born_source'], 'en', where)
             block['born_sources_de'] = resolve(block['born_source'], 'de', where)
         if block.get('died'):
+            if not block.get('died_source'):
+                raise ValueError(f'{where}: died without a died_source')
             block['died_sources_en'] = resolve(block['died_source'], 'en', where)
             block['died_sources_de'] = resolve(block['died_source'], 'de', where)
         resolve_list(block.get('parents') or [], f'{where}.parents')
         resolve_list(block.get('marriages') or [], f'{where}.marriages')
         resolve_list(block.get('children') or [], f'{where}.children')
+        if block.get('literature_passages'):
+            for lang in ('en', 'de'):
+                block[f'literature_{lang}'] = [
+                    r for e in block['literature_passages']
+                    for r in resolve(e, lang, f'{where}.literature_passages')]
 
     # The site's copy of the genealogy.
     with open(os.path.join(DATA_DIR, 'genealogy.yml'), 'w', encoding='utf-8', newline='\n') as f:
@@ -162,7 +191,12 @@ def main():
                     os.remove(os.path.join(d, fn))
         os.makedirs(d, exist_ok=True)
         for slug in genealogy:
-            heading = people[slug]['heading_de'] if lang == 'de' else people[slug]['heading']
+            if slug in people:
+                p = people[slug]
+                heading = p['heading_de'] if lang == 'de' else p['heading']
+            else:
+                g = genealogy[slug]
+                heading = g['heading_de'] if lang == 'de' else g['heading']
             fm = ['---',
                   'layout: person',
                   f'person: {yaml_str(slug)}',

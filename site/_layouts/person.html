@@ -13,17 +13,30 @@ layout: default
 {% include urls.html %}
 {%- assign p = site.data.people | where: "slug", page.person | first -%}
 {%- assign g = site.data.genealogy.people[page.person] -%}
-{%- assign p_life = p.life -%}
-{%- assign p_bio = p.bio -%}
-{%- assign p_heading = p.heading -%}
+{%- comment -%} A standalone person (no entry of the edition) takes the
+heading, the bio and the life-line from the genealogy block itself.
+{%- endcomment -%}
+{%- assign p_heading = g.heading -%}
+{%- assign p_life = g.life -%}
+{%- assign p_bio = g.bio -%}
 {%- assign born_sources = g.born_sources_en -%}
 {%- assign died_sources = g.died_sources_en -%}
+{%- if p -%}
+  {%- assign p_heading = p.heading -%}
+  {%- assign p_life = p.life -%}
+  {%- assign p_bio = p.bio -%}
+{%- endif -%}
 {%- if lang == 'de' -%}
-  {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
-  {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
-  {%- if p.heading_de %}{% assign p_heading = p.heading_de %}{% endif -%}
+  {%- assign p_heading = g.heading_de -%}
+  {%- assign p_life = g.life_de -%}
+  {%- assign p_bio = g.bio_de -%}
   {%- assign born_sources = g.born_sources_de -%}
   {%- assign died_sources = g.died_sources_de -%}
+  {%- if p -%}
+    {%- assign p_heading = p.heading_de -%}
+    {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
+    {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
+  {%- endif -%}
 {%- endif %}
 
 <div class="prose person-page">
@@ -107,8 +120,23 @@ layout: default
   </section>
   {%- endif %}
 
-  {%- assign lit_works = site.data.literature_mentions.person[page.person] %}
-  {% include lit-mentions.html works=lit_works %}
+  {%- comment -%} The literature: the automatic box where the index knows
+  the person, and, for a standalone person, the passages named by hand in
+  the genealogy block. {%- endcomment -%}
+  {%- if p -%}
+    {%- assign lit_works = site.data.literature_mentions.person[page.person] %}
+    {% include lit-mentions.html works=lit_works %}
+  {%- endif %}
+  {%- assign g_lit = g.literature_en -%}
+  {%- if lang == 'de' %}{% assign g_lit = g.literature_de %}{% endif -%}
+  {%- if g_lit %}
+  <section class="person-lit">
+    <h2>{{ t.lit_in_literature }}</h2>
+    <p class="refs reflist">
+      {%- for s in g_lit %}<a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}
+    </p>
+  </section>
+  {%- endif %}
 </div>
 
 {% include doc-list-script.html %}

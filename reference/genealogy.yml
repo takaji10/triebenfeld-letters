@@ -10,15 +10,25 @@
 # Dates: the database's estimated dates are never recorded here (the
 # editor, 2026-10-22: "be very careful with accepting the estimated dates
 # of birth/death for people - I wouldn't use them at all"). A date is given
-# only where its source states it without an estimate. Where the source
-# writes "ca", the date keeps its "ca" and stays open to qualification from
-# the documents; such an open date is flagged in docs/NEEDS_CONFIRMATION.md.
+# only where its source states it without an estimate: a "?1710-" token is
+# left out, and where the source writes "ca" the date keeps its "ca" and
+# stays open to qualification from the documents; such an open date is
+# flagged in docs/NEEDS_CONFIRMATION.md. The database's trailing slash
+# ("1794-1821/") is its own notation and is not carried into the display.
+#
+# A block for a person who has no entry of the edition (`standalone: true`)
+# is one whose subject is in none of the documents: it carries its own
+# heading and biography, its page has no list of documents, and the
+# literature it belongs to is named by hand (`literature_passages:`), the
+# index matching only the edition's own persons. The editor's rule of
+# 2026-10-22 still governs every fact: the documents first where they
+# speak, the work's citation beside every fact, the estimates nowhere.
 #
 # pipeline/build/person_pages.py validates this file against the generated
-# data (site/_data/people.yml, literature_mentions.yml) and writes
+# data (site/_data/people.yml, corpus/literature/index.json) and writes
 # site/_data/genealogy.yml from it, which the person page renders. A block
-# whose slug is a shown person makes that person a page, in both languages;
-# the entry on /people/ then links to it.
+# for a shown person makes that person a page, in both languages, and the
+# entry on /people/ links to it; a standalone block makes the page alone.
 
 people:
   prusimski:
@@ -66,7 +76,7 @@ people:
             children:
               - {name: "Stanisława Miączyńska", dates: "1848–1860"}
               - {name: "Wanda Michalina Paulina Miączyńska", dates: "1849–1875"}
-              - {name: "Stanisław Miączyński", dates: "1849–1860"}
+              - {name: "Stanisław Miączyński", dates: "ca 1849–1860"}
               - {name: "Władysław Atanazy Gustaw Miączyński", dates: "born 1852"}
           - name: Włodzimierz Miączyński
             dates: "1811–1879"
@@ -113,3 +123,106 @@ people:
       verstorbenen Oheime Paweł und Antoni gegeben wurde. Die ganze Seite,
       diese eingeschlossen, liegt im Ordner des Werks; nichts davon wird
       hier gezeigt.
+
+  helena-zielonacka:
+    # Helena Zielonacka, the wife of Józef Ścibor-Chełmski. Not a person of
+    # the edition: she is named in none of its documents, and the Chełmski
+    # family is a family entry (chemski). Her page stands on this block
+    # alone; the literature she belongs to is named by hand, because the
+    # index matches only the edition's own persons. Her value to the
+    # edition is the Chełmski line she carries: her husband is the Józef of
+    # the decree of 1728, her sons the Heliodor and the Stanisław of the
+    # boundary decree of 1775.
+    standalone: true
+    heading: "Helena Zielonacka"
+    heading_de: "Helena Zielonacka"
+    bio: >-
+      Helena Zielonacka, daughter of Andrzej Zielonacki and Joanna née
+      Wierusz-Kowalska, and the wife of Józef Ścibor-Chełmski of Chełm and
+      Wola, arms Ostoja, heir of Łukomia and Łomowo - the Józef whom the
+      edition's decree of 1728 names with his brother Franciszek, and whom
+      Boniecki's article records as her husband. Through her the database's
+      page carries the Chełmski line: the canon Heliodor and Stanisław,
+      Treasurer of Wschowa, the brothers of the boundary decree of 1775,
+      and Tomasz's line to the Stanisław of 1795-1867 and the Stanisław
+      Józef of 1807-1877. The database gives her no certain dates - "born
+      possibly in 1700" is its estimate, and none is shown here; the record
+      of 1727 has her already married.
+    bio_de: >-
+      Helena Zielonacka, Tochter des Andrzej Zielonacki und der Joanna geb.
+      Wierusz-Kowalska, und die Frau des Józef Ścibor-Chełmski von Chełm und
+      Wola, Wappen Ostoja, Erbe von Łukomia und Łomowo - der Józef, den das
+      Dekret der Edition von 1728 neben seinem Bruder Franciszek nennt, und
+      den Bonieckis Artikel als ihren Mann verzeichnet. Durch sie trägt die
+      Seite der Datenbank die Linie der Chełmski: den Domherrn Heliodor und
+      Stanisław, Schatzmeister von Wschowa, die Brüder des Grenzdrechts von
+      1775, und die Linie des Tomasz zu dem Stanisław von 1795-1867 und dem
+      Stanisław Józef von 1807-1877. Die Datenbank gibt ihr keine sicheren
+      Daten - "vielleicht 1700 geboren" ist ihre Schätzung, und keines wird
+      hier gezeigt; die Aufzeichnung von 1727 hat sie bereits verheiratet.
+    parents:
+      - name: Andrzej Zielonacki
+        source: "minakowska2026zielonacka/c01"
+      - name: Joanna née Wierusz-Kowalska
+        source: "minakowska2026zielonacka/c01"
+        note: "daughter of Marcin Wierusz-Kowalski of Kowale; widowed of Zielonacki, she married Jan Imieliński and then Antoni Wstowski"
+        note_source: "minakowska2026zielonacka"
+    marriages:
+      - name: Józef Ścibor-Chełmski of Chełm and Wola, arms Ostoja
+        note: "heir of Łukomia and Łomowo, son of Andrzej Ścibor-Chełmski, ensign (chorąży) of Sandomierz, and N. née Pałuska; the database's marriage year (about 1720) is its estimate and is not shown; the record of 1727 has him her guardian as well as her husband"
+        source: "minakowska2026zielonacka/c02; boniecki1900/c04"
+        note_source: "app536040-1"
+      - name: Jakub Rościszewski of Rościszewo, arms Junosza
+        note: "son of Wawrzyniec Rościszewski; the database's marriage year (about 1740) is its estimate and is not shown"
+        source: "minakowska2026zielonacka/c02"
+    children:
+      - name: Katarzyna Ścibor-Chełmska
+        source: "minakowska2026zielonacka/c02"
+      - name: Heliodor
+        note: "canon of Poznań by 1765 (the page and Boniecki); the boundary decree of 1775 calls him canon of Chełmno - the offices may be of different years, and the edition follows the decree for 1775"
+        source: "minakowska2026zielonacka/c02"
+        note_source: "app53170koningr145-1"
+      - name: Stanisław
+        note: "Treasurer of Wschowa: the page and Boniecki give the title under 1779, a document of April 1778 already gives it, and the edition follows the document; at law with Katarzyna Prusimska in 1761-1763, and from 1766 heir of Łukomia, Łomowo, Imielno and Bukowo"
+        source: "minakowska2026zielonacka/c02"
+        note_source: "app53170koningr117-4; app536045-1"
+      - name: Józefa
+        note: "married Jakub Bieńkowski (1759-1806); children Cecylia, Marianna Dorota (born 1793) and Tadeusz (1794-1821)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Nepomucena
+        note: "married Kasper Bieńkowski (1767-1824); son Ignacy (1789-1845)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Tomasz
+        note: "married Ludwika née Skórzewska; children Stanisław (1795-1867), Izabela Honorata (ca 1799-1839) and Franciszek Ksawery (ca 1779-1844), whose son was Stanisław Józef (1807-1877)"
+        source: "minakowska2026zielonacka/c02"
+      - name: Agnieszka Rościszewska
+        note: "daughter of the second marriage; married Wojciech Bronisz, cup-bearer (cześnik) of Żytomierz by 1778, with the Bronisz line through her to Onufry (1794-1860) and Maria (1849-1913)"
+        source: "minakowska2026zielonacka/c02"
+    notes: >-
+      The page's Notes name two sources: Boniecki's Herbarz polski (t. II,
+      s. 364, the article Chełmscy h. Ostoja, where her marriage to Józef is
+      recorded - the edition holds the branch that concerns it as
+      `boniecki1900`), and a regest of the Konin municipal court's record of
+      1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "heir of the estates
+      of Łukom and Łomowo", having received 3,000 złp from Kazimierz
+      Zielonacki for Helena, daughter of the late Andr Zielonacki by Joanna
+      Kowalska, now his wife, his ward as well, recorded the sum on his own
+      estates against her portion from her father's (fol. 196 verso). The
+      whole page, these included, is kept in the work's folder; none of it
+      is shown here.
+    notes_de: >-
+      Die Notes der Seite nennen zwei Quellen: Bonieckis Herbarz polski
+      (T. II, S. 364, den Artikel Chełmscy h. Ostoja, wo ihre Ehe mit Józef
+      steht - die Edition hält den Zweig, den sie betrifft, als
+      `boniecki1900`), und ein Regest der Aufzeichnung des Stadtrechts von
+      Konin von 1727 (Teki Dworzaczka, nr 13049, Nr. 76): Józef, "Erbherr
+      der Güter Łukom und Łomowo", der 3.000 złp von Kazimierz Zielonacki
+      für Helena empfangen hatte, die Tochter des verstorbenen Andrzej
+      Zielonacki und der Joanna Kowalska, jetzt seine Frau, zugleich seine
+      Mündel, trug die Summe auf seinen eigenen Gütern gegen ihre Portion
+      aus den Gütern ihres Vaters ein (fol. 196 verso). Die ganze Seite,
+      diese eingeschlossen, liegt im Ordner des Werks; nichts davon wird
+      hier gezeigt.
+    literature_passages:
+      - "boniecki1900/c04"
+      - "minakowska2026zielonacka/c02"

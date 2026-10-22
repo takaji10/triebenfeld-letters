@@ -537,6 +537,26 @@ read, translate and summarise.
     register is not a series the edition holds (its court books are
     Konin's and Kalisz's). Whether the holding behind it is to be sought
     is the editor's.
+  **Minakowska (2026), Helena Zielonacka's page** (`minakowska2026zielonacka`,
+  2026-10-22), each set out in the work's `notes.md`:
+  - **The regest of 1727.** The page's Notes carry a regest of Teki
+    Dworzaczka: the Konin municipal court's record (nr 13049, Nr. 76) of
+    1727, by which Józef Ścibor Chełmski, heir of Łukom and Łomowo, having
+    received 3,000 złp from Kazimierz Zielonacki for Helena, daughter of
+    the late Andrzej Zielonacki, "now his wife, his ward as well", recorded
+    the sum on his own estates against her portion from her father's
+    (fol. 196 verso). The register is not one the edition holds (its Konin
+    books run from 1754; the decree of 1728 is the land court's). Whether
+    the holding behind it is to be sought is the editor's.
+  - **Kazimierz Zielonacki.** Named only in the regest, not on the page's
+    family sections (its siblings list has a sister, Marianna, alone):
+    presumably her brother or uncle. Nothing is built on the guess.
+  - **Her children's offices.** Heliodor "canon [poz] Poznań (1765)",
+    Stanisław "skarbnik [poz] Wschowa (1779)": the same differences
+    Boniecki raised (NEEDS_CONFIRMATION above, settled by the rule of
+    2026-10-21 - the decree of 1775's "canon of Chełmno", the document of
+    April 1778's earlier title), now from a second witness. Nothing
+    changes: the edition follows the documents.
 
 ## Readings, Oe 1 Bü 9454
 
