@@ -103,6 +103,9 @@ session (WORKING_NOTES, "Working with the editor").
   the page is made again from `labels.yml`, and the editor presses "Start
   from the saved file" before going on, or their browser's older copy
   comes back with the next save.
+- **Importing again is safe**: the import reuses the gazetteer item already
+  linked to a label and unlinks the labels deleted since. Run it on each
+  new save.
 - **The uploaded file, not the scan.** MapWarper's points are in the pixels
   of the image uploaded there; any other copy (another size, another turn)
   puts every point in the wrong place. Compare the sizes first.

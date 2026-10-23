@@ -1077,10 +1077,9 @@ in, one at a time.
 - [x] Your marks on Łukom 1766 imported (ten labels; Lomaw and Dezerta
       Jemielno corrected at your word; the inscription *Tres mansi
       Conventûs Landensis* added; two-line names handled).
-- [ ] **You:** on the page, "Start from the saved file", then widen the
-      bands to cover the letters (Grązien, Dezerta Jemielno, others) and
-      check the inscription's trace; save; the import again. And look at
-      the warp test page
+- [x] Your bands set and the marks imported again (2026-10-23): eleven
+      labels, all crops whole.
+- [ ] **You:** look at the warp test page
       (https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766).
 - [ ] Then: the import, the crops, the fit again; the map's viewer page
       and the crops on the place pages (with GAZETTEER_PLAN step 3).

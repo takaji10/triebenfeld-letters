@@ -219,6 +219,17 @@ def main():
     print(f"{len(labels)} labels, {made} crops -> {cdir}")
 
     diffs, news = [], []
+    # A second import of the same map: unlink the labels the editor has since
+    # deleted, and reuse the item already linked to a label (never add a second).
+    ids = {lb["id"] for lb in labels}
+    for path in sorted(GAZETTEER_DIR.glob("*.yml")):
+        g = read_yaml(path)
+        stale = [i for i in g.get("maps") or [] if i.get("map") == key and i.get("label") and i["label"] not in ids]
+        if stale:
+            for i in stale:
+                diffs.append(f"{i['label']}: no longer marked; unlinked from {g.get('slug')}")
+                del i["label"]
+            dump_yaml(path, g, header_of(path))
     for lb in labels:
         if lb["new_place"] and not lb["place"]:
             news.append(f"{lb['id']}: new place {lb['new_place']!r} (form {lb['form']!r})")
@@ -229,7 +240,9 @@ def main():
             die(f"no gazetteer file {path}")
         g = read_yaml(path)
         items = g.setdefault("maps", [])
-        item = next((i for i in items if i.get("map") == key and not i.get("label") and not i.get("absent")), None)
+        item = next((i for i in items if i.get("map") == key and i.get("label") == lb["id"]), None)
+        if item is None:
+            item = next((i for i in items if i.get("map") == key and not i.get("label") and not i.get("absent")), None)
         if item is None:
             item = {"map": key, "form": lb["form"], "note": None}
             items.append(item)

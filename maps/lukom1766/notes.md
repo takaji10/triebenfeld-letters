@@ -99,10 +99,16 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
 - The fit gives every marked point a position (`positions.yml`), at the
   fit's 336 m.
 
+- **The final marks** (`labels_lukom1766_20261023-2050.json`, 2026-10-23):
+  the editor started from the corrected file, set every band to its
+  letters (100 to 240 pixels) and checked the inscription; imported, all
+  eleven crops whole and upright (Grązien across its wide spacing, the
+  three lines of the inscription, the bent "Budy do Huty"). A second import
+  reuses the gazetteer items already linked to its labels and unlinks
+  labels deleted since (it added duplicates before; fixed in session).
+
 ## Still to do
 
-- The bands of the labels set to the letters by the editor, and their
-  look at the inscription's trace; then the import again.
 - Whether the warp test page shows the map in the right place (not yet
   opened in a browser: the editor's eye, or a later session's).
 - The map's viewer page on the site, and the crops on the place pages, wait

@@ -2881,3 +2881,10 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **Tres mansi Conventûs Landensis** recorded under Grądzeń as its second
   appearance on Łukom 1766, linked to the Ląd copy-book's documents of 1447
   and 1461, at the editor's word; label 025 now belongs to Grądzeń.
+- **Padding at both ends** of a band and its crop (the editor's word; a
+  Sonnet sub-agent).
+- **The final marks on Łukom 1766** imported (the editor's bands, 100 to
+  240 pixels): eleven labels, eleven crops whole and upright. The import
+  fixed for a second run on the same map: it reuses the gazetteer item
+  linked to a label and unlinks labels deleted since (it would have added
+  a duplicate for every place).
