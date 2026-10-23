@@ -145,8 +145,12 @@ Where the rest is:
   before bringing one in (`docs/MAPS_PLAN.md`). Before planning work on a
   map, look beside its image on J: for a `.kml`: it names the map's
   MapWarper number, and the editor's control points are there already
-  (sixteen maps, 2026-10-23). This session's sandbox could not resolve
-  mapwarper.net.
+  (sixteen maps, 2026-10-23). Read them from its API, not the CSV page,
+  and take as the map's original the file whose size equals the API's
+  width and height (MAPS_PLAN, section 5): for Łukom 1766 that is the PNG,
+  not the JPG beside it. A first `curl` to mapwarper.net failed with
+  "Could not resolve host" and worked an hour later: a passing failure,
+  not a block. Try again before telling the editor a host is blocked.
 - **No method talk on a reader's page** (the editor, 2026-10-23: "I never
   explain to the reader what I'm doing or how (like this project tends to
   over-do)"): HOUSE_STYLE, "No method talk".

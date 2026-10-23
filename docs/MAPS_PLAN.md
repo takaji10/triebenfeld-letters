@@ -165,10 +165,20 @@ folds, the saved file is the editor's and wins.
 
 ## 5. Georeferencing
 
-- **Control points from MapWarper**: each warped map's points are exported
-  from MapWarper (the map's Export tab, or its API) into
-  `maps/<map>/georef.yml`. This session could not reach mapwarper.net (the
-  sandbox's network); the editor downloads them, or allows the host.
+- **Control points from MapWarper**, read from its API (tried 2026-10-23):
+  `https://mapwarper.net/api/v1/maps/<n>` gives the map's title, its
+  source, its bounding box and **the width and height of the image the
+  editor uploaded**; `.../api/v1/maps/<n>/gcps` gives the points as JSON
+  (pixel x, y; lat, lon; MapWarper's error). The page `/maps/<n>/gcps.csv`
+  answers with HTML, not CSV. Łukom 1766 (75552) has five points, with
+  errors of 175 to 574 pixels: enough to place the map, and the marks add
+  more. Saved to `maps/<map>/georef.yml`.
+- **The original is the file uploaded to MapWarper.** MapWarper's points
+  are in the pixels of the uploaded image, which is not always the file a
+  reader would take: for Łukom 1766 it is the PNG (10,280 × 8,523), not the
+  JPG beside it (8,808 × 7,052) or the rotated copy (8,386 × 6,748). The
+  file whose size equals the API's width and height is the map's original
+  in `reference/maps.yml`, and the marks are made on it.
 - **Control points from the marks**: once the places that exist today have
   coordinates, every point the editor clicked on a map for such a place is
   a control point too. The maps not on MapWarper are georeferenced by the
@@ -218,10 +228,10 @@ a Sonnet sub-agent with a written spec; the labelling page's design, the
 fits and the identifications stay with Claude in the main session; the
 marking and the rulings are the editor's.
 
-1. **Decisions** (the editor): the second repository for the tiles; the
-   pilot map; installing libvips (`pip install pyvips[binary]`, free) for
-   the large maps, which PIL cannot crop without loading the whole 1.4
-   billion pixels; the MapWarper points (export, or allow the host).
+1. **Decisions** (the editor, 2026-10-23: "I agree with your
+   recommendations"): the second repository for the tiles; the pilot map,
+   Łukom 1766; libvips installed (pyvips 3.2.0 with libvips 8.18.7, `pip
+   install pyvips[binary]`); the MapWarper points read from its API.
 2. **The register of maps**: for each map the editor chooses, its entry in
    `reference/maps.yml` filled in (title, maker, holder, reference, file,
    size, MapWarper number) from the folder, the `.url` and `.kml` files and

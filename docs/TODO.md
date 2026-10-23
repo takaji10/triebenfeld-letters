@@ -1063,13 +1063,10 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
 The plan: `docs/MAPS_PLAN.md`. Nothing built. You choose which maps come
 in, one at a time.
 
-- [ ] **You:** the tiles in a second repository (`triebenfeld-maps`, its own
-      GitHub Pages site), since the edition's repository is already 854 MB.
-- [ ] **You:** the pilot map (proposed: Łukom 1766, already on MapWarper).
-- [ ] **You:** installing libvips for the large maps (`pip install
-      pyvips[binary]`, free).
-- [ ] **You:** the MapWarper control points: export them per map, or allow
-      mapwarper.net in the sandbox's network.
+- [x] Your decisions (2026-10-23): the tiles in a second repository
+      (`triebenfeld-maps`, its own GitHub Pages site); the pilot Łukom
+      1766; libvips installed (pyvips 3.2.0); the MapWarper points read
+      from its API (it answers; the first failure was passing).
 - [ ] Coordinates for the places that exist today (OpenStreetMap, checked
       against your descriptions).
 - [ ] The pilot end to end: tiles, the labelling page, your marks, the

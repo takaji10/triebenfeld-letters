@@ -2826,3 +2826,9 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **The editor chooses the maps** (2026-10-23: "I will be selective with
   them"): the plan, `reference/maps.yml` and the missing list say so; the
   list's maps section is now "Maps cited", not a list of wants.
+- The editor agreed the plan's recommendations (2026-10-23): the second
+  repository for the tiles, the pilot Łukom 1766, libvips (installed:
+  pyvips 3.2.0, libvips 8.18.7). MapWarper's API answers: a map's
+  record gives the uploaded image's size, its `gcps` the control points
+  (Łukom 1766: five). The map's original is the file of that size (for
+  Łukom the PNG, not the JPG), recorded in MAPS_PLAN, section 5.
