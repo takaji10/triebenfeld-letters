@@ -21,7 +21,9 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
    (Łukom 1766), a sketch not to scale, a sheet of a larger map.
 3. **Marks it** on the labelling page Claude opens (below): for each name,
    click the place's symbol, trace the lettering in reading order, press the
-   key for what the map shows. **Save** gives a file
+   key for what the map shows. A name on two lines: trace the first line,
+   then click the start of the second and go on (or press L before clicking
+   the second line's start). **Save** gives a file
    (`labels_<map>_<date>.json`) in the Downloads folder; tell Claude its name.
    Work is kept in the browser between sittings, and a saved file can be
    loaded again to go on.
@@ -83,6 +85,21 @@ session (WORKING_NOTES, "Working with the editor").
 - **Backslashes.** A Windows path written into a file through this shell's
   heredoc lost a backslash and gained a control character ("\1" in
   "...29)\1_407..."). Write paths with forward slashes.
+- **The band must cover the letters.** The picture of a name is cut along
+  the traced band; on Łukom 1766 every label kept the default 60 pixels
+  while the lettering ran to 100-200, and the crops lost the letters' tops.
+  Look at a few crops after the import (they are small JPEGs) before going
+  on.
+- **Two-line names** are traced line after line; the return to the next
+  line's start is taken as a break (or the key L). A trace that zig-zags
+  across one line of text would be split wrongly.
+- **Writing that is not a place** (an inscription, a note on the map:
+  *Tres mansi Conventûs Landensis*) is marked as a new label with its text
+  as `new_place`; where it goes in the gazetteer is the editor's call.
+- **After Claude changes the marks** (a corrected form, an added label),
+  the page is made again from `labels.yml`, and the editor presses "Start
+  from the saved file" before going on, or their browser's older copy
+  comes back with the next save.
 - **The uploaded file, not the scan.** MapWarper's points are in the pixels
   of the image uploaded there; any other copy (another size, another turn)
   puts every point in the wrong place. Compare the sizes first.

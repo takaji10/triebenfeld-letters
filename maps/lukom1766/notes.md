@@ -59,13 +59,46 @@ was made. The import's first pass had three wrong, put right by hand:
 - **Stawisko**: the map's *Brod Kaliski* is the swamp crossing west of
   Stawisko, not Stawisko itself; the item's note says so.
 
-The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Łomaw*),
+The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, corrected below),
 Łukom (*Lukom*), Rosciszewo (*Rosciszew*), Studzianka (*Studzienka*).
+
+## The editor's marks (2026-10-23)
+
+- **Ten labels** saved by the editor (`labels_lukom1766_20261023-2021.json`):
+  the nine names to find and **Myszaków**, which they added (the gazetteer
+  had no item for it on this map; one was added with the form *Myszaków*).
+- **Two readings corrected** at the editor's word ("Łomaw ... is a
+  misreading of what's on the map"; their own message has "Dezerta
+  Jemielno"), read by Claude on the image: **Lomaw** (a plain L with a
+  flourish, no stroke) and **Dezerta Jemielno** (the J with its
+  descender). Corrected in the labels, the gazetteer's map forms, and the
+  entries' text of Łomów and Imielno (the editor's file in
+  `reference/gazetteer/source/` keeps what they wrote).
+- **The inscription *Tres mansi Conventûs Landensis*** ("three mansi of
+  the Convent of Ląd") beside Dezerta Jemielno, which the editor pointed
+  out: added as label 025 (`new_place`, shows `field`), traced by Claude
+  from the image in three lines reading upward, no symbol. It is the
+  abbey's land of the purchase in the Ląd copy-book: three mansi of Łukom
+  with the forest of Grądzyń, confirmed in 1447 and resigned in 1461 (APP
+  53/1455/0/2/21, documents 3 and 2), the *Pustkowie Grądziem* of the
+  Grądzeń entry ("included three farms in Łukom ... and the meadow above
+  Imielno"). Where it goes in the gazetteer waits on the editor
+  (NEEDS_CONFIRMATION, "The gazetteer").
+- **Two-line names** (Dezerta / Jemielno) were traced as a zig-zag; the page
+  and the crop now take a trace's return against the reading direction as a
+  line break (or the key L), the crop's direction from the first line.
+- **The bands**: every label kept the default band of 60 pixels, while the
+  lettering runs to 100-200 (Grązien's capitals, Dezerta): their crops cut
+  the letters' tops. The page's help now says to cover the letters, `[`
+  and `]` step by 20, and a finished label's band is changed by selecting
+  it. Waiting on the editor's bands; then the import again.
+- The fit gives every marked point a position (`positions.yml`), at the
+  fit's 336 m.
 
 ## Still to do
 
-- The editor's marks on the labelling page; then the import, the crops and
-  the fit again (`docs/ADDING_A_MAP.md`, steps 5-7).
+- The bands of the labels set to the letters by the editor, and their
+  look at the inscription's trace; then the import again.
 - Whether the warp test page shows the map in the right place (not yet
   opened in a browser: the editor's eye, or a later session's).
 - The map's viewer page on the site, and the crops on the place pages, wait

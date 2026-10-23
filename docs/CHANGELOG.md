@@ -2861,3 +2861,14 @@ lose his estates. The era page writes Konotop, not Kontop.
   (`maps/lukom1766/notes.md`).
 - **The procedure recorded** for the next maps: `docs/ADDING_A_MAP.md`
   (what the editor does, what Claude runs, the traps).
+- **The editor's first marks imported** (ten labels, among them Myszaków,
+  which they added). At their word two readings corrected, read on the
+  image: *Lomaw* (no Ł) and *Dezerta Jemielno* (a J), in the labels, the
+  map forms and the entries' text. The inscription *Tres mansi Conventûs
+  Landensis* they pointed out added as a label (the abbey of Ląd's three
+  mansi, the purchase of 1447/1461 in the Ląd copy-book; its place in the
+  gazetteer asked in NEEDS_CONFIRMATION). Two-line names: a trace's return
+  against the reading direction is a line break (or the key L), in the
+  page and the crop (a Sonnet sub-agent, tested). The bands were left at
+  the default and cut the tops of large lettering: the help says so, the
+  keys step by 20; the editor widens them and the marks come in again.

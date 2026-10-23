@@ -20,8 +20,11 @@ this is the one page for the job: do not build another.
 Saved format (fixed; import_labels.py reads it):
   {"map", "width", "height", "saved",
    "labels": [{"id", "place", "new_place", "form", "point", "trace",
-               "height", "shows", "note"}]}
-all coordinates integers in the image's own pixels.
+               "height", "shows", "note", ["breaks"]}]}
+all coordinates integers in the image's own pixels. "breaks" (only when
+non-empty) lists the indices into "trace" where a new line of a name written
+on several lines starts; without it the lines are found by the rule in
+import_labels.split_lines (which the page's splitLines mirrors).
 """
 import json
 import shutil
@@ -151,8 +154,9 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
   <input type="file" id="fileinput" accept=".json,application/json" style="display:none">
   <details id="help"><summary>How to use this page</summary>
     <p><b>1.</b> Click the place's symbol on the map (a quick click; dragging still moves the map). <kbd>N</kbd> means the map has no symbol there.</p>
-    <p><b>2.</b> Trace the lettering in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. <kbd>[</kbd> and <kbd>]</kbd> make the red band thinner or thicker, to fit the height of the letters.</p>
+    <p><b>2.</b> Trace the lettering in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. <kbd>[</kbd> and <kbd>]</kbd> make the red band thinner or thicker. The picture of the name is cut along the band, so make it cover the whole height of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
+    <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
     <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place.</p>
     <p><kbd>Esc</kbd> cancels the step in progress. <kbd>,</kbd> and <kbd>.</kbd> turn the map by 90&deg;. Click a ticked item, or a mark on the map, to look at a label again.</p>
     <p>Your work is kept in this browser as you go. Press <b>Save</b> to download a file to bring into the edition.</p>
@@ -184,19 +188,44 @@ var isDraft = false;
 var step = null;      // 'point' | 'trace' | 'shows' | null
 var tmp = [];         // trace being drawn
 var tmpPx = [];       // screen positions of those clicks
+var tmpBreaks = [];   // indices into tmp where a new line starts (key L)
+var pendingBreak = false; // L pressed: the next click starts a new line
 var placeMap = {};    // datalist string -> slug
 var headingOf = {};
 
 function $(id){return document.getElementById(id);}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 function rnd(v){return Math.round(v);}
+function resetTmp(){ tmp=[]; tmpPx=[]; tmpBreaks=[]; pendingBreak=false; }
+
+// Mirrors split_lines in pipeline/maps/import_labels.py exactly.
+function splitLines(trace,breaks){
+  var n=trace?trace.length:0, starts=[], i;
+  if(!n) return [];
+  if(breaks&&breaks.length){
+    var seen={};
+    breaks.forEach(function(b){ b=Math.round(b); if(b>0&&b<n&&!seen[b]){seen[b]=1;starts.push(b);} });
+    starts.sort(function(a,b){return a-b;});
+  } else if(n>2){
+    var sx=trace[1][0]-trace[0][0], sy=trace[1][1]-trace[0][1];
+    for(var k=1;k<n-1;k++){
+      var dx=trace[k+1][0]-trace[k][0], dy=trace[k+1][1]-trace[k][1];
+      if(dx*sx+dy*sy<0) starts.push(k+1);
+    }
+  }
+  var lines=[], prev=0;
+  starts.concat([n]).forEach(function(s){ lines.push(trace.slice(prev,s)); prev=s; });
+  return lines;
+}
 
 // ---------- storage ----------
 function normLabel(l){
-  return {id:l.id, place:l.place||null, new_place:l.new_place||null, form:l.form||"",
+  var o={id:l.id, place:l.place||null, new_place:l.new_place||null, form:l.form||"",
     point:l.point?[rnd(l.point[0]),rnd(l.point[1])]:null,
-    trace:(l.trace&&l.trace.length)?l.trace.map(function(p){return [rnd(p[0]),rnd(p[1])];}):null,
-    height:rnd(l.height||60), shows:l.shows||"unsure", note:l.note||null};
+    trace:(l.trace&&l.trace.length)?l.trace.map(function(p){return [rnd(p[0]),rnd(p[1])];}):null};
+  if(o.trace&&l.breaks&&l.breaks.length) o.breaks=l.breaks.map(rnd);
+  o.height=rnd(l.height||60); o.shows=l.shows||"unsure"; o.note=l.note||null;
+  return o;
 }
 function payload(){
   return {map:KEY,width:M.width,height:M.height,saved:new Date().toISOString(),labels:labels.map(normLabel)};
@@ -271,18 +300,27 @@ function bandPx(h){
   return Math.hypot(b[0]-a[0],b[1]-a[1]);
 }
 function traceOf(l){ return (l===cur && step==="trace") ? tmp : l.trace; }
+function linesOf(l){ return (l===cur && step==="trace") ? splitLines(tmp,tmpBreaks) : splitLines(l.trace,l.breaks); }
 
 function drawLabel(l,selected){
   var tr=traceOf(l);
   var col=selected?"192,57,43":"220,60,50";
   if(tr&&tr.length){
-    var pts=tr.map(i2s);
     ctx.lineJoin="round"; ctx.lineCap="round";
-    ctx.beginPath(); pts.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
-    ctx.strokeStyle="rgba("+col+","+(selected?0.38:0.2)+")"; ctx.lineWidth=Math.max(2,bandPx(l.height||60));
-    ctx.stroke();
-    ctx.strokeStyle=selected?"rgb(255,40,20)":"rgb(220,50,40)"; ctx.lineWidth=2; ctx.stroke();
-    if(selected){ ctx.fillStyle="#fff"; pts.forEach(function(p){ctx.beginPath();ctx.arc(p[0],p[1],3,0,7);ctx.fill();ctx.strokeStyle="#c0392b";ctx.lineWidth=1;ctx.stroke();}); }
+    var lines=linesOf(l), prevEnd=null;
+    lines.forEach(function(ln){
+      var pts=ln.map(i2s);
+      if(prevEnd){ // the jump to the next line: a thin dotted grey line only
+        ctx.save(); ctx.setLineDash([3,5]); ctx.strokeStyle="rgba(120,120,120,.9)"; ctx.lineWidth=1;
+        ctx.beginPath(); ctx.moveTo(prevEnd[0],prevEnd[1]); ctx.lineTo(pts[0][0],pts[0][1]); ctx.stroke(); ctx.restore();
+      }
+      ctx.beginPath(); pts.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
+      ctx.strokeStyle="rgba("+col+","+(selected?0.38:0.2)+")"; ctx.lineWidth=Math.max(2,bandPx(l.height||60));
+      ctx.stroke();
+      ctx.strokeStyle=selected?"rgb(255,40,20)":"rgb(220,50,40)"; ctx.lineWidth=2; ctx.stroke();
+      if(selected){ ctx.fillStyle="#fff"; pts.forEach(function(p){ctx.beginPath();ctx.arc(p[0],p[1],3,0,7);ctx.fill();ctx.strokeStyle="#c0392b";ctx.lineWidth=1;ctx.stroke();}); }
+      prevEnd=pts[pts.length-1];
+    });
   }
   var anchor=null;
   if(l.point){
@@ -311,9 +349,13 @@ function stepText(){
   var who=cur?("<b>"+esc(cur.form||curHeading()||"new label")+"</b>: "):"";
   if(!cur) return "Choose a place from the list, or press + New label.";
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
-  if(step==="trace") return who+"Step 2 of 3. Trace the lettering in reading order: click its start, each bend, double-click its end (or Enter). <kbd>S</kbd> skips; <kbd>[</kbd> <kbd>]</kbd> set the band height ("+(cur.height||60)+").";
+  if(step==="trace") return who+"Step 2 of 3. Trace the lettering in reading order: click its start, each bend, double-click its end (or Enter). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips; <kbd>[</kbd> <kbd>]</kbd> set the band height ("+(cur.height||60)+").";
   if(step==="shows") return who+"Step 3 of 3. What does the map show here? Press a key or a button.";
   return who+"Saved. Use the buttons below to change it.";
+}
+function traceInfo(){
+  var n=splitLines(tmp,tmpBreaks).length+(pendingBreak?1:0);
+  return " ("+tmp.length+" points, line "+Math.max(1,n)+(pendingBreak?": click its start":"")+")";
 }
 function curHeading(){ return cur&&cur.place?headingOf[cur.place]:null; }
 
@@ -394,7 +436,7 @@ function renderWork(){
 // ---------- the work ----------
 function newDraft(base){
   cur=Object.assign({id:nextFree(),place:null,new_place:null,form:"",point:null,trace:null,height:60,shows:"unsure",note:null},base||{});
-  isDraft=true; step="point"; tmp=[]; tmpPx=[];
+  isDraft=true; step="point"; resetTmp();
 }
 function startItem(i){
   var it=DATA.find[i];
@@ -405,7 +447,7 @@ function startNew(){
   newDraft({}); cur.fromItem=null; render();
 }
 function selectLabel(l){
-  cur=l; isDraft=false; step=null; tmp=[]; tmpPx=[]; render();
+  cur=l; isDraft=false; step=null; resetTmp(); render();
 }
 function nextUndone(){
   var a=assign();
@@ -429,31 +471,34 @@ function chooseShows(code){
 }
 function setPoint(p){
   cur.point=p;
-  if(isDraft){ step="trace"; tmp=[]; tmpPx=[]; } else { step=null; persist(); }
+  if(isDraft){ step="trace"; resetTmp(); } else { step=null; persist(); }
   render();
 }
 function endTrace(){
   if(tmp.length<2){ setStatus("A trace needs at least two points (start and end). Click more points, or press S to skip.",true); return; }
-  cur.trace=tmp.map(function(p){return [p[0],p[1]];}); tmp=[]; tmpPx=[];
+  cur.trace=tmp.map(function(p){return [p[0],p[1]];});
+  var br=tmpBreaks.filter(function(i){return i>0&&i<tmp.length;});
+  if(br.length) cur.breaks=br; else delete cur.breaks;
+  resetTmp();
   if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
 }
 function skipTrace(){
-  cur.trace=null; tmp=[]; tmpPx=[];
+  cur.trace=null; delete cur.breaks; resetTmp();
   if(isDraft){ step="shows"; } else { step=null; persist(); }
   render();
 }
 function cancelStep(){
   if(!cur) return;
-  if(step==="trace" && tmp.length){ tmp=[]; tmpPx=[]; render(); return; }
-  if(isDraft){ cur=null; isDraft=false; step=null; tmp=[]; render(); return; }
-  step=null; tmp=[]; tmpPx=[]; render();
+  if(step==="trace" && tmp.length){ resetTmp(); render(); return; }
+  if(isDraft){ cur=null; isDraft=false; step=null; resetTmp(); render(); return; }
+  step=null; resetTmp(); render();
 }
 function act(a){
   if(a==="cancel") cancelStep();
   else if(a==="goto") goTo(cur);
   else if(a==="redopoint"){step="point";render();}
-  else if(a==="redotrace"){step="trace";tmp=[];tmpPx=[];render();}
+  else if(a==="redotrace"){step="trace";resetTmp();render();}
   else if(a==="redoshows"){step="shows";render();}
   else if(a==="delete"){
     if(confirm("Delete the label \""+cur.form+"\"?")){
@@ -498,7 +543,8 @@ viewer.addHandler("canvas-click",function(e){
   e.preventDefaultAction=true;
   if(cur&&step==="point"){ setPoint(s2i(e.position)); }
   else if(cur&&step==="trace"){
-    tmp.push(s2i(e.position)); tmpPx.push([e.position.x,e.position.y]); draw(); setStatus(stepText()+" ("+tmp.length+" points)");
+    if(pendingBreak){ if(tmp.length) tmpBreaks.push(tmp.length); pendingBreak=false; }
+    tmp.push(s2i(e.position)); tmpPx.push([e.position.x,e.position.y]); draw(); setStatus(stepText()+traceInfo());
   } else if(!cur||step===null){
     var l=hit(e.position); if(l) selectLabel(l);
   }
@@ -511,6 +557,7 @@ viewer.addHandler("canvas-double-click",function(e){
       var q=tmpPx[tmpPx.length-1];
       if(Math.hypot(q[0]-e.position.x,q[1]-e.position.y)<10 && tmp.length>=1){ tmp.pop(); tmpPx.pop(); }
     }
+    if(pendingBreak){ if(tmp.length) tmpBreaks.push(tmp.length); pendingBreak=false; }
     tmp.push(s2i(e.position)); tmpPx.push([e.position.x,e.position.y]);
     // a repeated point from the second click: drop exact duplicates at the end
     while(tmp.length>1 && tmp[tmp.length-1][0]===tmp[tmp.length-2][0] && tmp[tmp.length-1][1]===tmp[tmp.length-2][1]){tmp.pop();tmpPx.pop();}
@@ -528,13 +575,25 @@ document.addEventListener("keydown",function(e){
   if(k==="Escape"){cancelStep();return;}
   if(!cur) return;
   if(k==="["||k==="]"){
-    cur.height=Math.max(10,(cur.height||60)+(k==="]"?10:-10));
+    cur.height=Math.max(10,(cur.height||60)+(k==="]"?20:-20));
     if(!isDraft)persist(); setStatus(stepText()); draw(); return;
   }
   if(step==="point"&&lk==="n"){setPoint(null);return;}
   if(step==="trace"){
     if(k==="Enter"){e.preventDefault();endTrace();return;}
-    if(k==="Backspace"){e.preventDefault();tmp.pop();tmpPx.pop();draw();return;}
+    if(k==="Backspace"){
+      e.preventDefault();
+      if(pendingBreak){pendingBreak=false;}
+      else if(tmp.length){
+        tmp.pop(); tmpPx.pop();
+        tmpBreaks=tmpBreaks.filter(function(i){return i!==tmp.length;});
+      }
+      draw(); setStatus(stepText()+traceInfo()); return;
+    }
+    if(lk==="l"){
+      if(tmp.length){ pendingBreak=true; setStatus(stepText()+traceInfo()); }
+      return;
+    }
     if(lk==="s"){skipTrace();return;}
   }
   if(step==="shows"){

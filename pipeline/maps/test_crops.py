@@ -15,7 +15,7 @@ import numpy as np
 from PIL import Image, ImageDraw
 
 sys.path.insert(0, str(Path(__file__).parent))
-from import_labels import crop_point, crop_trace, load_image
+from import_labels import crop_point, crop_trace, load_image, split_lines
 
 
 def synthetic(angle_deg, path):
@@ -32,6 +32,28 @@ def synthetic(angle_deg, path):
     d.rectangle([p1[0] - 12, p1[1] - 12, p1[0] + 12, p1[1] + 12], fill=(0, 0, 255))
     img.save(path)
     return [[int(p0[0]), int(p0[1])], [int(p1[0]), int(p1[1])]], h
+
+
+def synthetic_two(angle_deg, path):
+    """Two parallel lines; red at line 1's start, blue at line 2's end."""
+    W = 1200
+    img = Image.new("RGB", (W, W), "white")
+    d = ImageDraw.Draw(img)
+    c = W / 2
+    th = math.radians(angle_deg)
+    ux, uy = math.cos(th), math.sin(th)
+    vx, vy = -math.sin(th), math.cos(th)   # "down" in the text's own frame
+    L, off, h = 300, 35, 20
+
+    def pt(t, u):
+        return (c + t * ux + u * vx, c + t * uy + u * vy)
+    l1s, l1e, l2s, l2e = pt(-L / 2, -off), pt(L / 2, -off), pt(-L / 2, off), pt(L / 2, off)
+    d.line([l1s, l1e], fill="black", width=6)
+    d.line([l2s, l2e], fill="black", width=6)
+    d.rectangle([l1s[0] - 8, l1s[1] - 8, l1s[0] + 8, l1s[1] + 8], fill=(255, 0, 0))
+    d.rectangle([l2e[0] - 8, l2e[1] - 8, l2e[0] + 8, l2e[1] + 8], fill=(0, 0, 255))
+    img.save(path)
+    return [[int(p[0]), int(p[1])] for p in (l1s, l1e, l2s, l2e)], h
 
 
 def centroid(mask):
@@ -56,6 +78,27 @@ def main():
         assert abs(ry - by) < 6, f"angle {ang}: markers not on one horizontal line"
         assert out.width > out.height, f"angle {ang}: crop not wider than tall"
         print(f"angle {ang:3d}: crop {out.width} x {out.height}, start x={rx:.0f}, end x={bx:.0f}  ok")
+    real = [[9457, 3110], [8809, 2962], [9233, 2880], [8696, 2754]]
+    ls = split_lines(real)
+    assert [len(x) for x in ls] == [2, 2], f"real example split into {[len(x) for x in ls]}"
+    assert len(split_lines([[0, 0], [100, 10], [190, 50]])) == 1, "curved trace was split"
+    assert [len(x) for x in split_lines(real, [3])] == [3, 1], "explicit breaks ignored"
+    print("split_lines ok")
+    for ang in (0, 180, 30):
+        p = tmp / f"t{ang}.png"
+        trace, h = synthetic_two(ang, p)
+        out = crop_trace(load_image(str(p)), trace, h)
+        a = np.ndarray(buffer=out.write_to_memory(), dtype=np.uint8,
+                       shape=(out.height, out.width, out.bands))
+        red = (a[..., 0] > 200) & (a[..., 1] < 60) & (a[..., 2] < 60)
+        blue = (a[..., 2] > 200) & (a[..., 0] < 60) & (a[..., 1] < 60)
+        rx, ry = centroid(red)
+        bx, by = centroid(blue)
+        assert rx < out.width / 2 < bx, f"two lines, angle {ang}: red not left, blue not right"
+        assert ry < out.height / 2 < by, f"two lines, angle {ang}: red not upper, blue not lower"
+        assert by - ry > 40, f"two lines, angle {ang}: lines not separated vertically ({ry:.0f}, {by:.0f})"
+        assert abs(by - ry - 70) < 8, f"two lines, angle {ang}: crop tilted"
+        print(f"two lines, angle {ang:3d}: crop {out.width} x {out.height}, red ({rx:.0f},{ry:.0f}), blue ({bx:.0f},{by:.0f})  ok")
     c = crop_point(load_image(str(tmp / "s0.png")), [600, 600], 180)
     assert (c.width, c.height) == (400, 400)
     print("point crop ok")

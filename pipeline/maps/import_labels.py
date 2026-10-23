@@ -85,8 +85,41 @@ def rotate_xy(p, theta):
     return (c * p[0] + s * p[1], -s * p[0] + c * p[1])
 
 
-def crop_trace(im, trace, height):
-    """The lettering along `trace`, straightened so that it reads left to right."""
+def split_lines(trace, breaks=None):
+    """Split a trace into the lines of a name written on several lines.
+
+    A new line starts at trace[i] for each i in `breaks` (the labelling page's
+    key L).  With no breaks given, segment k (trace[k] -> trace[k+1]) is a jump
+    to the next line when it runs against the first segment:
+    dot(seg_k, seg_0) < 0.  Curved lettering never bends 90 degrees between two
+    clicks; a return to the start of the next line always does.  The page's
+    JavaScript (splitLines in label_page.py) mirrors this exactly.
+    """
+    n = len(trace)
+    if n == 0:
+        return []
+    if breaks:
+        starts = sorted({int(i) for i in breaks if 0 < int(i) < n})
+    else:
+        starts = []
+        if n > 2:
+            sx, sy = trace[1][0] - trace[0][0], trace[1][1] - trace[0][1]
+            for k in range(1, n - 1):
+                dx, dy = trace[k + 1][0] - trace[k][0], trace[k + 1][1] - trace[k][1]
+                if dx * sx + dy * sy < 0:
+                    starts.append(k + 1)
+    lines, prev = [], 0
+    for s in starts + [n]:
+        lines.append([list(p) for p in trace[prev:s]])
+        prev = s
+    return lines
+
+
+def crop_trace(im, trace, height, breaks=None):
+    """The lettering along `trace`, straightened so that it reads left to right.
+
+    The reading direction is that of the first line (first point to its last);
+    the crop covers all lines."""
     pts = np.array(trace, float)
     pad = height * 0.75 + 10
     l = max(0, int(math.floor(pts[:, 0].min() - pad)))
@@ -95,7 +128,13 @@ def crop_trace(im, trace, height):
     b = min(im.height, int(math.ceil(pts[:, 1].max() + pad)))
     piece = im.crop(l, t, r - l, b - t)
     local = pts - [l, t]
-    d = pts[-1] - pts[0]
+    first = split_lines(trace, breaks)[0]
+    if len(first) >= 2:
+        d = np.array(first[-1], float) - np.array(first[0], float)
+    elif len(pts) >= 2:
+        d = pts[1] - pts[0]
+    else:
+        d = np.zeros(2)
     theta = math.atan2(d[1], d[0])
     rot = np.array([rotate_xy(p, theta) for p in local])
     x0, x1 = rot[:, 0].min() - height * 0.4, rot[:, 0].max() + height * 0.4
@@ -136,7 +175,12 @@ def main():
     errs = validate(m, data, gaz)
     if errs:
         die("the saved file has problems:\n  - " + "\n  - ".join(errs))
-    labels = [{f: lb.get(f) for f in FIELDS} for lb in data["labels"]]
+    labels = []
+    for src in data["labels"]:
+        lb = {f: src.get(f) for f in FIELDS}
+        if src.get("breaks"):
+            lb["breaks"] = Flow(int(i) for i in src["breaks"])
+        labels.append(lb)
     for lb in labels:
         if lb["point"] is not None:
             lb["point"] = Flow(int(round(c)) for c in lb["point"])
@@ -159,7 +203,7 @@ def main():
     made = 0
     for lb in labels:
         if lb["trace"]:
-            c = crop_trace(im, lb["trace"], lb["height"])
+            c = crop_trace(im, lb["trace"], lb["height"], lb.get("breaks"))
         elif lb["point"]:
             c = crop_point(im, lb["point"], m.get("view_rotation"))
         else:

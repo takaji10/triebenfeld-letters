@@ -15,7 +15,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Iemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843).
+text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843).
 names:
 - form: Imielno
   year: null
@@ -33,8 +33,9 @@ aliases:
 - Imielno Olędry
 maps:
 - map: lukom1766
-  form: Dezerta Iemielno
+  form: Dezerta Jemielno
   note: 'shown as deserted (the entry: "dezerta is Polish for an abandoned place")'
+  label: lukom1766-011
 - map: richter1843
   form: Iemielna
   note: null

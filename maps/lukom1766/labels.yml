@@ -1,0 +1,143 @@
+# The editor's marks on the map lukom1766, from the labelling page, imported from
+# labels_lukom1766_amended.json on 2026-10-23 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+# The amended file is the editor's labels_lukom1766_20261023-2021.json with, at
+# their word of 2026-10-23, two forms corrected (013 Lomaw for Łomaw; 011
+# Dezerta Jemielno for Iemielno) and one label added by Claude (025, the
+# inscription "Tres mansi Conventûs Landensis" the editor pointed out, traced
+# from the image): maps/lukom1766/notes.md.
+map: lukom1766
+width: 10280
+height: 8523
+saved: '2026-10-23T18:21:44.826Z'
+labels:
+- id: lukom1766-005
+  place: budy
+  new_place: null
+  form: Budy do Huty
+  point: [5002, 4371]
+  trace:
+  - [5369, 4236]
+  - [4943, 4155]
+  - [4465, 4558]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-007
+  place: gradzyn
+  new_place: null
+  form: Grązien
+  point: [4719, 5416]
+  trace:
+  - [6406, 5668]
+  - [4223, 5282]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-009
+  place: huta-lukomska
+  new_place: null
+  form: Huta
+  point: [5762, 4296]
+  trace:
+  - [6061, 4505]
+  - [6152, 3954]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-011
+  place: imielno
+  new_place: null
+  form: Dezerta Jemielno
+  point: [8937, 2943]
+  trace:
+  - [9457, 3110]
+  - [8809, 2962]
+  - [9233, 2880]
+  - [8696, 2754]
+  height: 60
+  shows: other
+  note: null
+- id: lukom1766-013
+  place: lomow
+  new_place: null
+  form: Lomaw
+  point: [7991, 4327]
+  trace:
+  - [8048, 4416]
+  - [7725, 4354]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-015
+  place: lukom
+  new_place: null
+  form: Lukom
+  point: [7108, 3170]
+  trace:
+  - [7513, 2964]
+  - [6646, 2792]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-017
+  place: rosciszewo
+  new_place: null
+  form: Rosciszew
+  point: [6924, 7516]
+  trace:
+  - [7405, 7703]
+  - [6732, 7636]
+  - [6732, 7635]
+  height: 60
+  shows: folwark
+  note: null
+- id: lukom1766-019
+  place: stawisko
+  new_place: null
+  form: Brod Kaliski
+  point: [8829, 4793]
+  trace:
+  - [8839, 4458]
+  - [8593, 5020]
+  height: 60
+  shows: road
+  note: null
+- id: lukom1766-021
+  place: studzianka
+  new_place: null
+  form: Studzienka
+  point: [8706, 7493]
+  trace:
+  - [8568, 7438]
+  - [8528, 7915]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-023
+  place: myszakow
+  new_place: null
+  form: Myszaków
+  point: [4177, 2036]
+  trace:
+  - [4782, 2436]
+  - [3444, 2220]
+  height: 60
+  shows: village
+  note: null
+- id: lukom1766-025
+  place: null
+  new_place: Tres mansi Conventûs Landensis
+  form: Tres mansi Conventûs Landensis
+  point: null
+  trace:
+  - [9418, 3333]
+  - [9271, 3678]
+  - [9349, 3304]
+  - [9178, 3811]
+  - [9244, 3340]
+  - [9196, 3567]
+  height: 60
+  shows: field
+  note: the three mansi of the abbey of Ląd; marked by Claude from the editor's word, 2026-10-23

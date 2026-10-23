@@ -1074,8 +1074,13 @@ in, one at a time.
       tiles, your five MapWarper points and the fit, the Allmaps test page,
       the labelling page, the import and crop scripts
       (`maps/lukom1766/notes.md`; the procedure `docs/ADDING_A_MAP.md`).
-- [ ] **You:** mark Łukom 1766 on the labelling page (nine names to find),
-      and look at the warp test page
+- [x] Your marks on Łukom 1766 imported (ten labels; Lomaw and Dezerta
+      Jemielno corrected at your word; the inscription *Tres mansi
+      Conventûs Landensis* added; two-line names handled).
+- [ ] **You:** on the page, "Start from the saved file", then widen the
+      bands to cover the letters (Grązien, Dezerta Jemielno, others) and
+      check the inscription's trace; save; the import again. And look at
+      the warp test page
       (https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766).
 - [ ] Then: the import, the crops, the fit again; the map's viewer page
       and the crops on the place pages (with GAZETTEER_PLAN step 3).
