@@ -216,10 +216,11 @@ def missing_block():
         for h, n, t in unmapped:
             L.append('- %s, note %s: %s' % (h, n, t))
         L.append('')
-    L.append('## Maps')
+    L.append('## Maps cited')
     L.append('')
-    L.append('None of the maps is in the edition yet. Their full descriptions (title, maker, '
-             'holder, reference) are still to be filled in `reference/maps.yml`.')
+    L.append('The maps the gazetteer cites and the edition does not hold. They are not all '
+             'wanted: the editor chooses which maps come in, one at a time '
+             '(docs/MAPS_PLAN.md). The count of places is there to help the choice.')
     L.append('')
     L.append('| Map | Places citing it | Headings |')
     L.append('|---|---|---|')

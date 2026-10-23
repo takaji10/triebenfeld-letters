@@ -24,6 +24,7 @@ were true when they were written.
 | [NEWSPAPERS_PLAN.md](NEWSPAPERS_PLAN.md) | The items from the press (`newspapers/`): neither holdings nor literature, the editor's own section; how an item is read (OCR in the project), what is shown and what is open. |
 | [PLACES_PLAN.md](PLACES_PLAN.md) | The place pages (`places/`): a page per place that has sources of its own, hung on its card on the Places page; how a source is brought in and shown. |
 | [GAZETTEER_PLAN.md](GAZETTEER_PLAN.md) | The gazetteer (`reference/gazetteer/`): the editor's index of the places around Trąbczyn and Zagórów, its footnotes linked to the edition, the old maps (the labelling page, georeferencing), the dataset and the interactive map; the steps in order. |
+| [MAPS_PLAN.md](MAPS_PLAN.md) | The old maps: the tiles in a second repository, the labelling page, georeferencing from the editor's MapWarper points and the marks, the viewer and the interactive map; the maps chosen by the editor one at a time. |
 | [MISSING_SOURCES.md](MISSING_SOURCES.md) | The running list of sources the edition cites and does not yet hold, for the editor to bring in; the gazetteer's part made by `pipeline/gazetteer/gazetteer.py --missing`. |
 | [CHANGELOG.md](CHANGELOG.md) | What changed and why, in order. |
 

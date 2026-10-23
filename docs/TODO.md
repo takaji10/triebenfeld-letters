@@ -1057,3 +1057,21 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
       Ląd copy-book's copy) can be added from the volumes on your J: drive.
 - [ ] Offered: a reading of the site's existing pages for method talk
       (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.
+
+## 33. The maps (planned 2026-10-23)
+
+The plan: `docs/MAPS_PLAN.md`. Nothing built. You choose which maps come
+in, one at a time.
+
+- [ ] **You:** the tiles in a second repository (`triebenfeld-maps`, its own
+      GitHub Pages site), since the edition's repository is already 854 MB.
+- [ ] **You:** the pilot map (proposed: Łukom 1766, already on MapWarper).
+- [ ] **You:** installing libvips for the large maps (`pip install
+      pyvips[binary]`, free).
+- [ ] **You:** the MapWarper control points: export them per map, or allow
+      mapwarper.net in the sandbox's network.
+- [ ] Coordinates for the places that exist today (OpenStreetMap, checked
+      against your descriptions).
+- [ ] The pilot end to end: tiles, the labelling page, your marks, the
+      import and crops, the warp in Allmaps, the viewer page.
+- [ ] The interactive map (/map/).

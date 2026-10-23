@@ -2807,3 +2807,22 @@ lose his estates. The era page writes Konotop, not Kontop.
   Stara Huta-Grójeckie Olędry in Grodziec parish, is not to be confused
   (the 1797 table, entry 282). Three source keys added to
   `reference/gazetteer_sources.yml` (slowinski2023, oe1bu14526, oe1bu9454).
+
+## 2026-10-23 - The maps: the plan
+
+- `docs/MAPS_PLAN.md`, at the editor's request ("how can we setup the
+  architecture needed to process maps?"): the originals stay on the
+  editor's drive; each chosen map cropped to the area and cut into IIIF
+  level-0 tiles in a second repository with its own GitHub Pages site (the
+  edition's repository is 854 MB packed, its site 700 MB); a labelling page
+  built like the fold page (OpenSeadragon; the place's point, the traced
+  lettering, what the map shows); every mark in the original's pixels;
+  georeferencing from the editor's own MapWarper control points (sixteen
+  maps already warped there, found from the `.kml` files beside the images)
+  and from the marks of the places with coordinates, the warp shown in the
+  browser by Allmaps; coordinates for the vanished places from the fit; a
+  viewer page per map, the crops on the place pages, and the interactive
+  map over OpenStreetMap. A pilot (proposed: Łukom 1766) before the rest.
+- **The editor chooses the maps** (2026-10-23: "I will be selective with
+  them"): the plan, `reference/maps.yml` and the missing list say so; the
+  list's maps section is now "Maps cited", not a list of wants.

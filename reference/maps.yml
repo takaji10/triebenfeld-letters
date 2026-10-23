@@ -3,8 +3,10 @@
 # Keyed by a short slug; `cited_as` is the editor's own short form in the
 # gazetteer ("Gilly 1802"), which the gazetteer's map appearances are parsed
 # from. None of the maps is in the edition yet: each has `in_project: false`
-# until its image is brought in, and docs/MISSING_SOURCES.md lists them with
-# the details still to be filled in.
+# until its image is brought in. The editor chooses which maps come in, one
+# at a time (2026-10-23: "I will be selective with them";
+# docs/MAPS_PLAN.md); a map not chosen keeps this short entry for the
+# gazetteer's citations.
 #
 #   cited_as    the editor's short form, exactly as in their text
 #   year        the year in the short form (the map's date, as the editor has it)

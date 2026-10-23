@@ -136,7 +136,11 @@ so check them.
   the 1411 scultetia, the colonies' names in the documents of 1805-1808,
   the 1891 renaming, the identifications with the register). Next: step 2
   of the plan, then the pages. **Simple steps go to a Sonnet sub-agent**
-  (WORKING_NOTES, "Working with the editor").
+  (WORKING_NOTES, "Working with the editor"). **The maps** are planned in
+  `docs/MAPS_PLAN.md` (nothing built): the editor chooses which maps come
+  in, one at a time; sixteen are already georeferenced by the editor on
+  MapWarper (the `.kml` beside each image on J: names its number); the
+  tiles are to go in a second repository, since this one is 854 MB.
 
 - **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
   published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*

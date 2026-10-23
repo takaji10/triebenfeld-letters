@@ -142,9 +142,9 @@ Wanted: the entries cited (the editor's drive has Trąbczyn and Łukom as text)
 - "Siergiejewo", p. 588 - Wincentowo
 - "Łukom", p. 818 - Łukom
 
-## Maps
+## Maps cited
 
-None of the maps is in the edition yet. Their full descriptions (title, maker, holder, reference) are still to be filled in `reference/maps.yml`.
+The maps the gazetteer cites and the edition does not hold. They are not all wanted: the editor chooses which maps come in, one at a time (docs/MAPS_PLAN.md). The count of places is there to help the choice.
 
 | Map | Places citing it | Headings |
 |---|---|---|

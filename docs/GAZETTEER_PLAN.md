@@ -134,6 +134,10 @@ when coordinates are added, as the record of what the sources say.
 
 ## 6. The maps
 
+The parts to build and their order are in `docs/MAPS_PLAN.md` (2026-10-23).
+The editor chooses which maps come in, one at a time ("I will be selective
+with them"). What follows is the design of the marking.
+
 **What the mark is for**: two things, which are not at the same spot on an
 old map. (a) The **place itself**: the village's dot, the church, the mill,
 the middle of a forest. That point is what the interactive map and the
@@ -219,7 +223,8 @@ description (title, maker, scale, holder, reference) goes into
    with its entry above its sources. The new places go into the register
    (display and variants; no matching yet). Checks in `verify_site.py`.
 4. **The dataset**: the downloads and the search page.
-5. **The labelling page** and the first map, at the editor's choice.
+5. **The maps** (`docs/MAPS_PLAN.md`): the labelling page, a pilot map,
+   then the maps the editor chooses.
 6. **The interactive map**, once coordinates are in.
 7. **The index and the enhancement pass** (at the editor's word, once the
    outstanding sources are in): patterns to find the new places in the

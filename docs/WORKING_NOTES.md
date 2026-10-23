@@ -139,6 +139,14 @@ Where the rest is:
   documents and the prose, works on them while the agent runs, and reads
   the agent's output before anything is committed. The gazetteer import
   was the first (`docs/GAZETTEER_PLAN.md`, step 1).
+- **The editor chooses which maps come in** (2026-10-23: "I don't want to
+  add all of these maps - I will be selective with them"). A map cited by
+  the gazetteer, or lying in their Maps folder, is not thereby wanted; ask
+  before bringing one in (`docs/MAPS_PLAN.md`). Before planning work on a
+  map, look beside its image on J: for a `.kml`: it names the map's
+  MapWarper number, and the editor's control points are there already
+  (sixteen maps, 2026-10-23). This session's sandbox could not resolve
+  mapwarper.net.
 - **No method talk on a reader's page** (the editor, 2026-10-23: "I never
   explain to the reader what I'm doing or how (like this project tends to
   over-do)"): HOUSE_STYLE, "No method talk".
