@@ -1,6 +1,7 @@
 # Plan: the maps
 
-Status: **a plan, 2026-10-23**, for the editor to agree; nothing built. It
+Status: **agreed 2026-10-23; the pilot (Łukom 1766) being built.** The
+checklist for each map is `docs/ADDING_A_MAP.md`. It
 works out section 6 of `docs/GAZETTEER_PLAN.md` ("The maps") into the parts
 to build and the order to build them in.
 

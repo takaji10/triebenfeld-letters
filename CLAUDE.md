@@ -140,7 +140,12 @@ so check them.
   `docs/MAPS_PLAN.md` (nothing built): the editor chooses which maps come
   in, one at a time; sixteen are already georeferenced by the editor on
   MapWarper (the `.kml` beside each image on J: names its number); the
-  tiles are to go in a second repository, since this one is 854 MB.
+  tiles are in a second repository, **triebenfeld-maps** (beside this one
+  on the desktop; takaji10.github.io/triebenfeld-maps/), since this one is
+  854 MB. **The pilot, Łukom 1766, is built** (2026-10-23; only this map,
+  the editor's word): tiles, the editor's MapWarper points, the labelling
+  page; waiting on the editor's marks. **To add a map, follow
+  `docs/ADDING_A_MAP.md`.**
 
 - **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
   published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*

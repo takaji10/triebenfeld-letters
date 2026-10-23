@@ -31,7 +31,27 @@ maps:
     cited_as: "Łukom 1766"
     year: 1766
     kind: estate
-    in_project: false
+    # The pilot map (the editor, 2026-10-23: "go ahead with the Łukom map ...
+    # Let's only do this one map for now"); docs/ADDING_A_MAP.md.
+    title: "Plan dóbr Łukom"
+    title_en: "Plan of the Łukom estate"
+    holder: "Archiwum Główne Akt Dawnych, Warsaw (AGAD)"
+    reference: "1/407/0/-/283, sheet 29"
+    url: "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/17930967"
+    # Drawn with south at the top (the editor, 2026-10-23). The original here
+    # is the editor's copy turned so that north is up, the image they
+    # georeferenced on MapWarper: its lettering is therefore upside down, and
+    # the labelling page and the viewer turn it by view_rotation so that it
+    # reads upright. Every mark is in this image's pixels.
+    orientation: south-up
+    view_rotation: 180
+    original: 'J:/Documents/Archive/Genealogy/References/Maps/First Polish Republic (1314-1793)/Plan dóbr Łukom, 1766 (1.407.0.-.283 - 29)/1_407_0_0_283-29_0001.png'
+    width: 10280
+    height: 8523
+    crop: null          # [left, top, width, height] in original pixels; null for the whole map
+    mapwarper: 75552
+    tiles: "https://takaji10.github.io/triebenfeld-maps/lukom1766/info.json"
+    in_project: false   # true once its tiles are published and its page built
   vonpfau1770:
     cited_as: "von Pfau 1770"
     year: 1770

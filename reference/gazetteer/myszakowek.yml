@@ -25,7 +25,8 @@ aliases: []
 maps:
 - map: lukom1766
   form: null
-  note: According to Chodyła, Myszakówek was established as an Olędry before 1789 (however, it does not appear on
+  note: 'not on this map (the entry: "it does not appear on Łukom 1766")'
+  absent: true
 - map: perthees1798
   form: null
   note: First appeared on

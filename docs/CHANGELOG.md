@@ -2832,3 +2832,32 @@ lose his estates. The era page writes Konotop, not Kontop.
   record gives the uploaded image's size, its `gcps` the control points
   (Łukom 1766: five). The map's original is the file of that size (for
   Łukom the PNG, not the JPG), recorded in MAPS_PLAN, section 5.
+
+## 2026-10-23 - The maps: the pilot, Łukom 1766
+
+- At the editor's word ("go ahead with the Łukom map ... Let's only do this
+  one map for now"): the second repository **triebenfeld-maps**
+  (github.com/takaji10/triebenfeld-maps, published at
+  takaji10.github.io/triebenfeld-maps/), public, holding the image tiles
+  and georeferences only.
+- **The scripts** (`pipeline/maps/`): `tiles.py` (IIIF level-0 tiles with
+  libvips; the info.json id fixed after libvips doubles the name),
+  `mapwarper.py` (the editor's control points from MapWarper's API),
+  `georef.py` (the affine fit, residuals in metres, positions of the marked
+  places, the Allmaps annotation), `label_page.py` (the labelling page,
+  OpenSeadragon 4.1.1 kept in the project), `import_labels.py` (the saved
+  marks into `maps/<map>/labels.yml`, the crops of the lettering, the links
+  to the gazetteer), `test_crops.py`. Written by Sonnet sub-agents to a
+  spec at the editor's word, read and corrected in the main session (a
+  gazetteer file that does not parse now stops the run; items marked
+  `absent` skipped).
+- **Łukom 1766**: the editor's north-up PNG (10,280 × 8,523) as the
+  original, `view_rotation: 180` (drawn south-up, the editor's word); 502
+  tiles, 15.8 MB; five control points, affine RMS 336 m; the warp test
+  page. The gazetteer's nine names to find read against the text first:
+  Myszakówek marked absent (the entry says it is not on the map), the stray
+  "Stara Huta" item of Huta Łukomska removed, Imielno's *Dezerta Iemielno*
+  supplied, Stawisko's *Brod Kaliski* noted as the crossing west of it
+  (`maps/lukom1766/notes.md`).
+- **The procedure recorded** for the next maps: `docs/ADDING_A_MAP.md`
+  (what the editor does, what Claude runs, the traps).

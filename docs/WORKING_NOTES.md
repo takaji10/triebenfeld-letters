@@ -1200,7 +1200,10 @@ cloud branches").
 - A heredoc also eats backslashes and turns "\'" into "'" (2026-10-16):
   a Python patch with regular expressions or escaped quotes, sent through
   a heredoc, half-applied twice in one sitting. Use the Edit tool for such
-  changes, or Write the script whole.
+  changes, or Write the script whole. Again on 2026-10-23: a Windows path
+  in a heredoc'd Python patch lost a backslash, and "\1" became a control
+  character in reference/maps.yml. Paths in data files use forward
+  slashes, which Python and PyYAML read on Windows.
 - **`regenerate.py` has no `--help`**: it ignores unknown arguments and
   rebuilds every holding (it was started that way by mistake on
   2026-10-16 and stopped; nothing tracked changed). Read its docstring

@@ -1069,6 +1069,14 @@ in, one at a time.
       from its API (it answers; the first failure was passing).
 - [ ] Coordinates for the places that exist today (OpenStreetMap, checked
       against your descriptions).
-- [ ] The pilot end to end: tiles, the labelling page, your marks, the
-      import and crops, the warp in Allmaps, the viewer page.
+- [x] The pilot built for Łukom 1766 (2026-10-23; only this map, your
+      word): the second repository triebenfeld-maps on GitHub Pages, the
+      tiles, your five MapWarper points and the fit, the Allmaps test page,
+      the labelling page, the import and crop scripts
+      (`maps/lukom1766/notes.md`; the procedure `docs/ADDING_A_MAP.md`).
+- [ ] **You:** mark Łukom 1766 on the labelling page (nine names to find),
+      and look at the warp test page
+      (https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766).
+- [ ] Then: the import, the crops, the fit again; the map's viewer page
+      and the crops on the place pages (with GAZETTEER_PLAN step 3).
 - [ ] The interactive map (/map/).
