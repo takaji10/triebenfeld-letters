@@ -810,6 +810,39 @@
  ],
  "mentions": [
   {
+   "entity": "mielke",
+   "display": "Gustav Adolf Mielke",
+   "kind": "person",
+   "surface": "Mielke",
+   "page": 8,
+   "page_id": "0005_a1",
+   "scan": "APP_53_968_0_669_0005_a1-L1_08.jpg",
+   "line": 95,
+   "doc_line": 86
+  },
+  {
+   "entity": "mielke",
+   "display": "Gustav Adolf Mielke",
+   "kind": "person",
+   "surface": "Mielke",
+   "page": 17,
+   "page_id": "0009_a2",
+   "scan": "APP_53_968_0_669_0009_a2-L1_17.jpg",
+   "line": 227,
+   "doc_line": 209
+  },
+  {
+   "entity": "mielke",
+   "display": "Gustav Adolf Mielke",
+   "kind": "person",
+   "surface": "Mielke",
+   "page": 17,
+   "page_id": "0009_a2",
+   "scan": "APP_53_968_0_669_0009_a2-L1_17.jpg",
+   "line": 236,
+   "doc_line": 218
+  },
+  {
    "entity": "zelmer",
    "display": "Zelmer",
    "kind": "person",
