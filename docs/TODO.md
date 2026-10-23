@@ -1037,7 +1037,7 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
       III; the 1411 "scullery"; the 1418 farms; the 1440 charges; the
       archive of the visitation; the 1891 renaming; the colonies' names in
       the documents of 1805-1808; Augustynów and the lease of 1806; the
-      identifications with the register; "See Huta"; the book's figures).
+      identifications with the register; "Stara Huta Olędry", a name of two places; the book's figures).
 - [ ] Step 2: Claude's reading of the import (the names and map
       appearances against the text, the review notes cleared).
 - [ ] Step 3: the pages (a page per place in English and German, the A–Z
