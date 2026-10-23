@@ -292,14 +292,6 @@ repository; they are on the working machine.
       Łazińsk Drugi. Both to be read again against the entry.
     - *Kolonia Ingelfingen* (Anielewo) is not the register's
       `ingelfingen`, the Hohenlohe town in Württemberg.
-  - **"Tres mansi Conventûs Landensis" on Łukom 1766** (the editor pointed
-    it out, 2026-10-23): the abbey of Ląd's three mansi, the land of the
-    purchase of 1447/1461 in the Ląd copy-book (APP 53/1455/0/2/21,
-    documents 3 and 2) and the *Pustkowie Grądziem* of the Grądzeń entry.
-    A gazetteer entry of its own (a holding, like the forests and fields
-    already in), or a map appearance noted under Grądzeń? Proposed: a note
-    under Grądzeń, linked to the two documents, since it is land of a
-    holding and not a settlement.
   - **The figures of the book.** Six entries refer to figures (Fig. 56,
     74, 75, 76 and 78, and "Map 26, Tab. 26"), which seem to be the figures of the
     editor's book. On the site they point nowhere: keep, drop, or replace

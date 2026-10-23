@@ -119,9 +119,10 @@ def crop_trace(im, trace, height, breaks=None):
     """The lettering along `trace`, straightened so that it reads left to right.
 
     The reading direction is that of the first line (first point to its last);
-    the crop covers all lines."""
+    the crop covers all lines.  `trace` is the baseline of the lettering: the
+    letters stand `height` above it, descenders reach 0.35 * height below."""
     pts = np.array(trace, float)
-    pad = height * 0.75 + 10
+    pad = height * 1.5 + 10
     l = max(0, int(math.floor(pts[:, 0].min() - pad)))
     t = max(0, int(math.floor(pts[:, 1].min() - pad)))
     r = min(im.width, int(math.ceil(pts[:, 0].max() + pad)))
@@ -138,7 +139,9 @@ def crop_trace(im, trace, height, breaks=None):
     theta = math.atan2(d[1], d[0])
     rot = np.array([rotate_xy(p, theta) for p in local])
     x0, x1 = rot[:, 0].min() - height * 0.4, rot[:, 0].max() + height * 0.4
-    y0, y1 = rot[:, 1].min() - height * 0.75, rot[:, 1].max() + height * 0.75
+    # in the rotated image "up" is -y: the letters above the baseline, descenders below
+    y0 = rot[:, 1].min() - height - 0.15 * height
+    y1 = rot[:, 1].max() + 0.35 * height + 0.1 * height
     w, h = max(1, int(round(x1 - x0))), max(1, int(round(y1 - y0)))
     c, s = math.cos(theta), math.sin(theta)
     # output = R * input - (x0, y0), with R = [[c, s], [-s, c]]; the rotation and

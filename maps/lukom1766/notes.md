@@ -82,8 +82,10 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
   with the forest of Grądzyń, confirmed in 1447 and resigned in 1461 (APP
   53/1455/0/2/21, documents 3 and 2), the *Pustkowie Grądziem* of the
   Grądzeń entry ("included three farms in Łukom ... and the meadow above
-  Imielno"). Where it goes in the gazetteer waits on the editor
-  (NEEDS_CONFIRMATION, "The gazetteer").
+  Imielno"). Recorded under **Grądzeń** as a second appearance on this map,
+  linked to the two documents, at the editor's word (2026-10-23: "the
+  latter decision"): land of a holding, not a settlement, so no entry of
+  its own.
 - **Two-line names** (Dezerta / Jemielno) were traced as a zig-zag; the page
   and the crop now take a trace's return against the reading direction as a
   line break (or the key L), the crop's direction from the first line.
@@ -91,7 +93,9 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
   lettering runs to 100-200 (Grązien's capitals, Dezerta): their crops cut
   the letters' tops. The page's help now says to cover the letters, `[`
   and `]` step by 20, and a finished label's band is changed by selecting
-  it. Waiting on the editor's bands; then the import again.
+  it. Waiting on the editor's bands; then the import again. The band now
+  stands on the traced baseline (the editor's word, 2026-10-23): `height`
+  above it, 35% of that below for descenders.
 - The fit gives every marked point a position (`positions.yml`), at the
   fit's 336 m.
 

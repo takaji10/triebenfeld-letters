@@ -2872,3 +2872,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   page and the crop (a Sonnet sub-agent, tested). The bands were left at
   the default and cut the tops of large lettering: the help says so, the
   keys step by 20; the editor widens them and the marks come in again.
+- **The band stands on the baseline** (the editor: "I trace the baseline
+  of words - therefore assume a bit of padding underneath to account for
+  possible descenders, and then use the [] to increase proportionally from
+  the top"): the band runs from `height` above the traced line to 35% of
+  it below; the crop the same; default height 80 (a Sonnet sub-agent,
+  tested; checked on Dezerta Jemielno at 120: whole and level).
+- **Tres mansi Conventûs Landensis** recorded under Grądzeń as its second
+  appearance on Łukom 1766, linked to the Ląd copy-book's documents of 1447
+  and 1461, at the editor's word; label 025 now belongs to Grądzeń.

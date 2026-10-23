@@ -21,7 +21,11 @@ Saved format (fixed; import_labels.py reads it):
   {"map", "width", "height", "saved",
    "labels": [{"id", "place", "new_place", "form", "point", "trace",
                "height", "shows", "note", ["breaks"]}]}
-all coordinates integers in the image's own pixels. "breaks" (only when
+all coordinates integers in the image's own pixels. "trace" runs along the
+BASELINE of the lettering (the line the letters stand on); "height" is the
+letters' height above that baseline in image pixels ("up" is the left-hand
+perpendicular of each line's reading direction, (dy, -dx) in y-down pixels);
+descenders are allowed 0.35 * height below it. "breaks" (only when
 non-empty) lists the indices into "trace" where a new line of a name written
 on several lines starts; without it the lines are found by the rule in
 import_labels.split_lines (which the page's splitLines mirrors).
@@ -154,7 +158,7 @@ kbd{background:#fff;border:1px solid #bbb;border-radius:3px;padding:0 4px;font-s
   <input type="file" id="fileinput" accept=".json,application/json" style="display:none">
   <details id="help"><summary>How to use this page</summary>
     <p><b>1.</b> Click the place's symbol on the map (a quick click; dragging still moves the map). <kbd>N</kbd> means the map has no symbol there.</p>
-    <p><b>2.</b> Trace the lettering in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. <kbd>[</kbd> and <kbd>]</kbd> make the red band thinner or thicker. The picture of the name is cut along the band, so make it cover the whole height of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
+    <p><b>2.</b> Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, and double-click its end (or press <kbd>Enter</kbd>). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> and <kbd>]</kbd> make it taller or shorter. <kbd>Backspace</kbd> removes the last point; <kbd>S</kbd> skips the trace. The picture of the name is cut along the band, so make it reach the tops of the letters, flourishes included. A finished label's band is changed the same way: select it and press <kbd>[</kbd> or <kbd>]</kbd>.</p>
     <p>Trace each name in the order you read it, even when it is upside down; that is what makes its picture come out upright.</p>
     <p>A name on two lines: trace the first line, then click the start of the second and go on; or press <kbd>L</kbd> before clicking the second line's start.</p>
     <p><b>3.</b> Say what the map shows here: <kbd>1</kbd> village, <kbd>2</kbd> Olęder settlement, <kbd>3</kbd> folwark or manor, <kbd>4</kbd> tavern, <kbd>5</kbd> water mill, <kbd>6</kbd> windmill, <kbd>7</kbd> forest, <kbd>8</kbd> field or meadow, <kbd>9</kbd> water, <kbd>0</kbd> road or crossing, <kbd>-</kbd> church, <kbd>=</kbd> other, <kbd>U</kbd> unsure. Choosing saves the label and moves to the next place.</p>
@@ -224,7 +228,7 @@ function normLabel(l){
     point:l.point?[rnd(l.point[0]),rnd(l.point[1])]:null,
     trace:(l.trace&&l.trace.length)?l.trace.map(function(p){return [rnd(p[0]),rnd(p[1])];}):null};
   if(o.trace&&l.breaks&&l.breaks.length) o.breaks=l.breaks.map(rnd);
-  o.height=rnd(l.height||60); o.shows=l.shows||"unsure"; o.note=l.note||null;
+  o.height=rnd(l.height||80); o.shows=l.shows||"unsure"; o.note=l.note||null;
   return o;
 }
 function payload(){
@@ -295,9 +299,13 @@ function s2i(pos){
   var q=viewer.viewport.viewerElementToImageCoordinates(pos);
   return [rnd(q.x),rnd(q.y)];
 }
-function bandPx(h){
-  var a=i2s([0,0]), b=i2s([h,0]);
-  return Math.hypot(b[0]-a[0],b[1]-a[1]);
+var DESC=0.35; // descenders: the band reaches DESC*height below the baseline
+// "up" of a line of the trace, in image pixels (y down): for the unit reading
+// direction d=(dx,dy) from the line's first to its last point, up=(dy,-dx).
+function upOf(ln){
+  if(!ln||ln.length<2) return [0,-1];
+  var dx=ln[ln.length-1][0]-ln[0][0], dy=ln[ln.length-1][1]-ln[0][1], L=Math.hypot(dx,dy);
+  return L?[dy/L,-dx/L]:[0,-1];
 }
 function traceOf(l){ return (l===cur && step==="trace") ? tmp : l.trace; }
 function linesOf(l){ return (l===cur && step==="trace") ? splitLines(tmp,tmpBreaks) : splitLines(l.trace,l.breaks); }
@@ -314,9 +322,15 @@ function drawLabel(l,selected){
         ctx.save(); ctx.setLineDash([3,5]); ctx.strokeStyle="rgba(120,120,120,.9)"; ctx.lineWidth=1;
         ctx.beginPath(); ctx.moveTo(prevEnd[0],prevEnd[1]); ctx.lineTo(pts[0][0],pts[0][1]); ctx.stroke(); ctx.restore();
       }
+      var H=l.height||80, up=upOf(ln);
+      if(ln.length>=2){ // the band: H above the baseline, DESC*H below, offset in image pixels
+        var top=ln.map(function(p){return i2s([p[0]+H*up[0],p[1]+H*up[1]]);});
+        var bot=ln.map(function(p){return i2s([p[0]-DESC*H*up[0],p[1]-DESC*H*up[1]]);});
+        ctx.beginPath(); top.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
+        for(var j=bot.length-1;j>=0;j--) ctx.lineTo(bot[j][0],bot[j][1]);
+        ctx.closePath(); ctx.fillStyle="rgba("+col+","+(selected?0.30:0.16)+")"; ctx.fill();
+      }
       ctx.beginPath(); pts.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
-      ctx.strokeStyle="rgba("+col+","+(selected?0.38:0.2)+")"; ctx.lineWidth=Math.max(2,bandPx(l.height||60));
-      ctx.stroke();
       ctx.strokeStyle=selected?"rgb(255,40,20)":"rgb(220,50,40)"; ctx.lineWidth=2; ctx.stroke();
       if(selected){ ctx.fillStyle="#fff"; pts.forEach(function(p){ctx.beginPath();ctx.arc(p[0],p[1],3,0,7);ctx.fill();ctx.strokeStyle="#c0392b";ctx.lineWidth=1;ctx.stroke();}); }
       prevEnd=pts[pts.length-1];
@@ -349,7 +363,7 @@ function stepText(){
   var who=cur?("<b>"+esc(cur.form||curHeading()||"new label")+"</b>: "):"";
   if(!cur) return "Choose a place from the list, or press + New label.";
   if(step==="point") return who+"Step 1 of 3. Click the place's symbol (<kbd>N</kbd> if there is none).";
-  if(step==="trace") return who+"Step 2 of 3. Trace the lettering in reading order: click its start, each bend, double-click its end (or Enter). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips; <kbd>[</kbd> <kbd>]</kbd> set the band height ("+(cur.height||60)+").";
+  if(step==="trace") return who+"Step 2 of 3. Trace along the baseline of the letters (the line they stand on), in reading order: click its start, each bend, double-click its end (or Enter). The band covers the letters above it and a little below for descenders; <kbd>[</kbd> <kbd>]</kbd> make it taller or shorter ("+(cur.height||80)+"). <kbd>L</kbd> starts the next line of a two-line name; <kbd>S</kbd> skips.";
   if(step==="shows") return who+"Step 3 of 3. What does the map show here? Press a key or a button.";
   return who+"Saved. Use the buttons below to change it.";
 }
@@ -435,7 +449,7 @@ function renderWork(){
 
 // ---------- the work ----------
 function newDraft(base){
-  cur=Object.assign({id:nextFree(),place:null,new_place:null,form:"",point:null,trace:null,height:60,shows:"unsure",note:null},base||{});
+  cur=Object.assign({id:nextFree(),place:null,new_place:null,form:"",point:null,trace:null,height:80,shows:"unsure",note:null},base||{});
   isDraft=true; step="point"; resetTmp();
 }
 function startItem(i){
@@ -511,7 +525,7 @@ function goTo(l){
   if(!pts.length){setStatus("This label has no point or trace to go to.",true);return;}
   var x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
   pts.forEach(function(p){x0=Math.min(x0,p[0]);y0=Math.min(y0,p[1]);x1=Math.max(x1,p[0]);y1=Math.max(y1,p[1]);});
-  var pad=Math.max(150,(l.height||60)*3);
+  var pad=Math.max(150,(l.height||80)*3);
   x0-=pad;y0-=pad;x1+=pad;y1+=pad;
   viewer.viewport.fitBounds(viewer.viewport.imageToViewportRectangle(x0,y0,x1-x0,y1-y0));
 }
@@ -575,7 +589,7 @@ document.addEventListener("keydown",function(e){
   if(k==="Escape"){cancelStep();return;}
   if(!cur) return;
   if(k==="["||k==="]"){
-    cur.height=Math.max(10,(cur.height||60)+(k==="]"?20:-20));
+    cur.height=Math.max(10,(cur.height||80)+(k==="]"?20:-20));
     if(!isDraft)persist(); setStatus(stepText()); draw(); return;
   }
   if(step==="point"&&lk==="n"){setPoint(null);return;}

@@ -20,7 +20,8 @@ one (or where the environment variable `TRIEBENFELD_MAPS` points).
 2. **Says how it is drawn** if it is unusual: drawn with south at the top
    (Łukom 1766), a sketch not to scale, a sheet of a larger map.
 3. **Marks it** on the labelling page Claude opens (below): for each name,
-   click the place's symbol, trace the lettering in reading order, press the
+   click the place's symbol, trace the baseline of the lettering (the line the letters stand on) in
+   reading order, press the
    key for what the map shows. A name on two lines: trace the first line,
    then click the start of the second and go on (or press L before clicking
    the second line's start). **Save** gives a file
@@ -85,9 +86,11 @@ session (WORKING_NOTES, "Working with the editor").
 - **Backslashes.** A Windows path written into a file through this shell's
   heredoc lost a backslash and gained a control character ("\1" in
   "...29)\1_407..."). Write paths with forward slashes.
-- **The band must cover the letters.** The picture of a name is cut along
-  the traced band; on Łukom 1766 every label kept the default 60 pixels
-  while the lettering ran to 100-200, and the crops lost the letters' tops.
+- **The band must cover the letters.** The traced line is the baseline; the
+  band stands on it: `height` pixels above it (the letters' height) and 35%
+  of that below it for descenders. The picture of a name is cut along the
+  band; on Łukom 1766 every label kept the default 60 pixels while the
+  lettering ran to 100-200, and the crops lost the letters' tops.
   Look at a few crops after the import (they are small JPEGs) before going
   on.
 - **Two-line names** are traced line after line; the return to the next
