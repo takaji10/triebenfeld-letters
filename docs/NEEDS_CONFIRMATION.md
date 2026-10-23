@@ -292,9 +292,31 @@ repository; they are on the working machine.
       Łazińsk Drugi. Both to be read again against the entry.
     - *Kolonia Ingelfingen* (Anielewo) is not the register's
       `ingelfingen`, the Hohenlohe town in Württemberg.
-  - **"See Huta".** The cross-reference "*Stara Huta Olędry* — See
-    **Huta**" points to no entry; Huta Trąbczyńska (whose entry has *H.
-    Stara Huta* on Richter 1843) or Huta Łukomska (*Stara Huta*)?
+  - **"Stara Huta Olędry — See Huta"** points to no entry. The editor
+    (2026-10-23): either Huta Łukomska or Huta Trąbczyńska, not sure
+    where the name was met. The edition's sources use it for **both**:
+    - *Huta Trąbczyńska*: Richter 1843 "H[olendry] Stara Huta" (the
+      editor's own entry); Słowiński (2023), p. 98, "Łazińsk Drugi
+      (dawniej: Holendry Łazińskie, Holendry Stara Huta)"; Chodyła (2015),
+      p. 84, note 154, the Trąbczyn colonies in 1791 as "Hollendry Luźne
+      Stare i Nowe z Hutą"; the village table of about 1797 (AGAD
+      1/169/0/1/1745, entry 283) "d° d° Trąpcz.", a Stara Huta of
+      Trąbczyn; the Prince's papers of 1806 a "Zinsdorf Stara Huta" of the
+      Trąbczyn lordship (Oe 1 Bü 14526, document 8; Oe 1 Bü 9454, letter
+      24).
+    - *Huta Łukomska*: Chodyła (2015), p. 70, "Stara Huta z Olędrami albo
+      Zagórowskie Ol. (dziś Huta Łukomska)", and pp. 15, 76, 78
+      ("Stara Huta-Zagórowskie Ol."); the 1797 table, entry 281, "Stara
+      Huta Lukom.".
+    - A third, not to be confused: *Stara Huta-Grójeckie Olędry* in the
+      parish of Grodziec (today Stara Huta; Chodyła, p. 66; the 1797
+      table, entry 282, "d° d° Groi.").
+
+    Proposed: "Stara Huta Olędry" stands as a name of both places, each
+    with its sources, and the A–Z list shows it as a name shared by two
+    places. What stays open is which of the two a given mention means
+    where the source does not say (the metrical records of the 1820s, an
+    unlabelled map); the maps, once marked, may settle more of them.
   - **The figures of the book.** Six entries refer to figures (Fig. 56,
     74, 75, 76 and 78, and "Map 26, Tab. 26"), which seem to be the figures of the
     editor's book. On the site they point nowhere: keep, drop, or replace
