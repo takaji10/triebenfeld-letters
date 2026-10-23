@@ -323,9 +323,13 @@ function drawLabel(l,selected){
         ctx.beginPath(); ctx.moveTo(prevEnd[0],prevEnd[1]); ctx.lineTo(pts[0][0],pts[0][1]); ctx.stroke(); ctx.restore();
       }
       var H=l.height||80, up=upOf(ln);
-      if(ln.length>=2){ // the band: H above the baseline, DESC*H below, offset in image pixels
-        var top=ln.map(function(p){return i2s([p[0]+H*up[0],p[1]+H*up[1]]);});
-        var bot=ln.map(function(p){return i2s([p[0]-DESC*H*up[0],p[1]-DESC*H*up[1]]);});
+      if(ln.length>=2){ // the band: H above the baseline, DESC*H below, SIDE*H beyond each end; offset in image pixels
+        var rd=[-up[1],up[0]]; // reading direction, from the first point towards the last
+        var SIDE=0.4*H, bp=ln.map(function(p){return [p[0],p[1]];});
+        bp[0]=[bp[0][0]-SIDE*rd[0],bp[0][1]-SIDE*rd[1]];
+        var lp=ln[ln.length-1]; bp[bp.length-1]=[lp[0]+SIDE*rd[0],lp[1]+SIDE*rd[1]];
+        var top=bp.map(function(p){return i2s([p[0]+H*up[0],p[1]+H*up[1]]);});
+        var bot=bp.map(function(p){return i2s([p[0]-DESC*H*up[0],p[1]-DESC*H*up[1]]);});
         ctx.beginPath(); top.forEach(function(p,i){i?ctx.lineTo(p[0],p[1]):ctx.moveTo(p[0],p[1]);});
         for(var j=bot.length-1;j>=0;j--) ctx.lineTo(bot[j][0],bot[j][1]);
         ctx.closePath(); ctx.fillStyle="rgba("+col+","+(selected?0.30:0.16)+")"; ctx.fill();

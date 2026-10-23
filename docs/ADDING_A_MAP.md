@@ -88,7 +88,7 @@ session (WORKING_NOTES, "Working with the editor").
   "...29)\1_407..."). Write paths with forward slashes.
 - **The band must cover the letters.** The traced line is the baseline; the
   band stands on it: `height` pixels above it (the letters' height) and 35%
-  of that below it for descenders. The picture of a name is cut along the
+  of that below it for descenders, and 40% of the height beyond each end. The picture of a name is cut along the
   band; on Łukom 1766 every label kept the default 60 pixels while the
   lettering ran to 100-200, and the crops lost the letters' tops.
   Look at a few crops after the import (they are small JPEGs) before going

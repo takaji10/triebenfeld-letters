@@ -104,6 +104,8 @@ def check_block(label, src_path, out, expect_two=False):
     ys, xs = np.nonzero(green)
     assert xs.min() >= 2 and ys.min() >= 2 and xs.max() <= out.width - 3 and ys.max() <= out.height - 3, \
         f"{label}: the block touches the crop's edge"
+    assert xs.min() >= 0.3 * H and out.width - 1 - xs.max() >= 0.3 * H, \
+        f"{label}: block closer than 0.3 * height to the crop's side ({xs.min()}, {out.width - 1 - xs.max()})"
     rx, ry = centroid(red)
     bx, by = centroid(blue)
     assert rx < out.width / 2 < bx, f"{label}: start not left of end ({rx:.0f}, {bx:.0f} of {out.width})"
