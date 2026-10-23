@@ -156,6 +156,7 @@ document list are left out when there are no documents).
 | `echotureckie1931018` | Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379: "Zajście w Zagórowie" — the clash at the recruiting commission of 24 April: the crowd stoning the premises when the quota ran out, the starosta of Słupca's police, the second storming, a dozen or more arrested | Polish | yes, with the clipping |
 | `luteraniezagorow` | Luteranie Konin (luteranie.konin.pl), bd. [bez daty]: "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie" — the parish's own chronicle of the Zagórów filial, dated entries from the Reformation among the monks of Ląd in the sixteenth century to the closing of the Evangelical Senior Citizens' Home in 2009 | Polish | yes, no picture, no era |
 | `kurjerpoznanski19330712` | Kurjer Poznański (12 lipca 1933): "(Zhitleryzowani koloniści)" — the German colonists of the rural communes of Oleśnica, Trąbczyn and Szymanowice around Zagórów speaking German at the commune office and answering German at school since Hitler's rise, and the evangelical teacher dismissed after not one of the colonists' children came to school on the inspector's visit | Polish | yes, with the clipping |
+| `dziennikpoznanski18791220` | Dziennik Poznański, R. 21, nr 292 (20 grudnia 1879), p. 4: the death notice of Count Włodzimierz Miączyński, proprietor of the Trąbczyn estates — dead at Trąbczyn on the 18th of December after long sufferings, the dispatch of the body on Monday the 22nd, the funeral the next day, signed by the grieving nephew Władysław hr. Miączyński of Pawłowa | Polish | yes, with the page |
 
 The third item came in the same day with the transcription and the English
 already made (the editor's file; "the transcription is secure" — no reading
@@ -341,6 +342,31 @@ and the print's "Emilienhain" against the documents' "Emilienheim", with
 the dismissed teacher of the closing incident identified by nothing the
 edition holds (NEEDS_CONFIRMATION, "The newspapers").
 `newspapers/kurjerpoznanski19330712/notes.md` has it all.
+
+**The death notice of Włodzimierz hr. Miączyński** (`dziennikpoznanski18791220`,
+2026-10-23) is the twelfth item and the section's first **nekrolog** — the
+black-bordered box on p. 4 of Dziennik Poznański, R. 21, nr 292 of
+20 December 1879, the issue two days after the death it reports. The
+editor's image of the page (0004_0001.jpg of the WBC download) is carried;
+the notice's display-capital name line and its doubtful spots were read
+against the WBC's own DjVu fetched again and rendered at 600 dpi, where
+the lines the microfilm's 300 dpi rendering defeats read cleanly
+(`newspapers/dziennikpoznanski18791220/notes.md` has the readings and their
+evidence). The notice announces the death of Count Włodzimierz Miączyński,
+"dziedzic majętności Trąbczyna w Królestwie Polskiem", at Trąbczyn on the
+18th of December after long sufferings, "opatrzony ss. sakramentami"; the
+"Ekspedycya zwłok" — the body's dispatch, the bodies of the time
+travelling by rail — on Monday the 22nd, the funeral "nazajutrz"; signed
+"the grieving nephew, Władysław hr. Miączyński of Pawłowa". Its bearing:
+the press witness of the Count's death and of the nephew's succession, the
+ownership line's own event — with the death date standing against the
+edition's records (the press's 18th, the records' 20th of December:
+NEEDS_CONFIRMATION, "The newspapers", the documents first). The item's one
+index hit is Trąbczyn, standing under the ruling already in
+`newspapers/index.yml`; the Count's own mention the register's patterns
+bring in nowhere, his Włodzimierz entry's pattern being pinned to the
+summons of 1860 (the bare "Miączyński" falls under the 2015 report's
+standing "no" ruling).
 
 ## 6. Order of work, and what is open
 

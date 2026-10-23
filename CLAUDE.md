@@ -376,6 +376,19 @@ so check them.
   Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
   Miączyński heirs (NEEDS_CONFIRMATION). Not
   published.
+- **The death notice of Włodzimierz hr. Miączyński** (`dziennikpoznanski18791220`,
+  added 2026-10-23, **committed, not published**): the nekrolog in the
+  black-bordered box on p. 4 of Dziennik Poznański, R. 21, nr 292 of
+  20 December 1879 (the WBC digitisation) — the Count dead at Trąbczyn on
+  the 18th of December after long sufferings, the "Ekspedycya zwłok" on
+  Monday the 22nd, the funeral the next day, signed by the grieving nephew
+  Władysław hr. Miączyński of Pawłowa: the press witness of the death the
+  wlodzimierz era's ownership line turns on. Read by Tesseract, with the
+  WBC's own DjVu fetched again and rendered at 600 dpi where the display
+  capitals and the rough 300 dpi page defeated it; the death date stands
+  against the records' 20th of December (the documents first,
+  NEEDS_CONFIRMATION). Read `newspapers/dziennikpoznanski18791220/notes.md`
+  first. Not published.
 - **The parish's own chronicle** (`luteraniezagorow`, added 2026-10-22,
   **committed, not published**): the page "Zagórów filiał Parafii
   Ewangelicko - Augsburskiej w Koninie" on Luteranie Konin

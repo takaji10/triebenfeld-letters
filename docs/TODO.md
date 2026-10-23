@@ -989,3 +989,31 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] Published at your word (built, verified, committed; merged to main
       at your word 2026-10-23; the live-site deploy waits on your word as
       for the others).
+
+## 31. The newspapers: the death notice of Włodzimierz hr. Miączyński,
+      Dziennik Poznański, R. 21, nr 292 (20 grudnia 1879), p. 4 (added
+      2026-10-23)
+
+- [x] The notice brought in (`newspapers/dziennikpoznanski18791220/`):
+      read by OCR at your word, the doubtful readings settled in session —
+      the display-capital name line and the rough 300 dpi page defeated
+      Tesseract, so the issue's DjVu was fetched again from the WBC and
+      rendered at 600 dpi, where the same lines read
+      (`newspapers/dziennikpoznanski18791220/notes.md`). The page image you
+      supplied (0004_0001.jpg) is carried on the item's page.
+- [x] The death date tied to the question already open: the notice prints
+      the 18th of December, Żychliński (1891, p. 222) has the 18th, your
+      ruling of 2026-10-15 (Breyer's notebook) the 20th — the notice sides
+      with Żychliński; your ruling stands until you say otherwise
+      (NEEDS_CONFIRMATION, "The literature" and "The newspapers").
+- [ ] **You:** the doubtful readings of the notice — the digit of "23"
+      after "nazajutrz" before all (the glyph reads as an 8 to every pass,
+      the sense allows only the 23rd); "Zmarł" at the body line's left
+      edge; "Polskiem" against "Polském"; "Ekspedycya". The list with the
+      evidence is in the item's notes.md; a spot sheet can be made.
+- [ ] **You:** the death date, 18 or 20 December 1879 — now with a period
+      witness on Żychliński's side.
+- [ ] **You:** "Pawłowa", the nephew's seat — a place of the register or
+      not (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).

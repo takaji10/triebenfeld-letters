@@ -12,7 +12,7 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Eleven items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Twelve items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
   word (2026-10-22), with the old /documents/ addresses redirected, the
@@ -156,6 +156,34 @@ repository; they are on the working machine.
       place of the edition is the editor's
       (`newspapers/kurjerpoznanski19330712/notes.md`). Ludwigslust was
       made a place of the register at the editor's word (2026-10-22).
+  - **The death notice of Włodzimierz hr. Miączyński** (`dziennikpoznanski18791220`,
+    added 2026-10-23; Dziennik Poznański, R. 21, nr 292 of 20 December 1879,
+    p. 4, the WBC digitisation):
+    - **The death date.** The notice says the Count died on the **18th** of
+      December 1879 at Trąbczyn, where the editor's ruling of 2026-10-15
+      (from the notebook APP 53/968/0/-/716) puts his death on the **20th**
+      — the question already open under NEEDS_CONFIRMATION ("The
+      literature", "Włodzimierz's death"), where Żychliński (1891, p. 222)
+      has the 18th too. The notice is a period witness, printed in the
+      paper of the 20th and reporting the death of the 18th; it sides with
+      Żychliński. The documents stand (the editor's rule of 2026-10-20) and
+      the item keeps the press's 18th as printed; which date the edition
+      follows is the editor's
+      (`newspapers/dziennikpoznanski18791220/notes.md`).
+    - **The doubtful readings of the notice** — the display-capital name
+      line read against a fresh 600 dpi render of the WBC's own DjVu, the
+      "Zmarł" at the body line's left edge (dropped by every OCR pass, read
+      at the zooms of both images), "Polskiem" (the 600 dpi tight crops kept
+      suggesting "Polském" with an accent) and the funeral day after
+      "nazajutrz" (the glyph reads as an 8 to every pass, but the English
+      engine set to digits alone recognises only the "2", and the sense
+      after a Monday the 22nd allows only the 23rd). "23" stands in the
+      transcription; the list of doubtful readings, with the evidence, is
+      in the item's notes.md — the editor's eye wanted on it.
+    - **"Pawłowa"** — the notice signs "Władysław hr. Miączyński of
+      Pawłowa", the only witness of the era that gives the nephew's seat.
+      Whether the register's places hold a Pawłów of this family, and
+      whether it should be a place of the edition, is the editor's.
 
 - **The places** (`places/`, begun 2026-10-22; `docs/PLACES_PLAN.md`). The
   new section: a page per place that has sources of its own, hung on the
@@ -428,7 +456,10 @@ read, translate and summarise.
     Włodzimierz after her.
   - **Włodzimierz's death**: 18 December 1879 in Żychliński (1891, p. 222),
     20 December in the editor's ruling of 2026-10-15. The editor's date
-    stands until they say otherwise.
+    stands until they say otherwise. A period witness has since come in:
+    the death notice in Dziennik Poznański of 20 December 1879
+    (`dziennikpoznanski18791220`, added 2026-10-23) prints the death on the
+    18th — with Żychliński against the records.
   - **Paweł Prusimski's generation.** Żychliński (1885, p. 187) makes Paweł
     Apollo, the chamberlain, Krzysztof's brother; the PSB and the inspection
     of 1754 make the chamberlain the Starost's uncle, a generation lower.

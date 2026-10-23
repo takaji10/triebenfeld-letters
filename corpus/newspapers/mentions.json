@@ -1,6 +1,28 @@
 [
  {
   "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczyna",
+  "work": "dziennikpoznanski18791220",
+  "cite": "Dziennik Poznański (1879)",
+  "passage": "item",
+  "line": 3,
+  "context": "majętności Trąbczyna"
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trąbczynie",
+  "work": "dziennikpoznanski18791220",
+  "cite": "Dziennik Poznański (1879)",
+  "passage": "item",
+  "line": 6,
+  "context": "grudnia rb. w Trąbczynie."
+ },
+ {
+  "kind": "place",
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
   "surface": "Zagórowa",

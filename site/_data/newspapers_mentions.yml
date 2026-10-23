@@ -71,6 +71,12 @@ place:
       en: The item
       de: Das Stück
   trabczyn:
+  - slug: dziennikpoznanski18791220
+    cite: Dziennik Poznański (1879)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   - slug: kurjerpoznanski19330712
     cite: Kurjer Poznański (1933)
     pages:

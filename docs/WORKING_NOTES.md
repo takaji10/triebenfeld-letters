@@ -1597,6 +1597,33 @@ cloud branches").
   never calls tesseract.exe by hand. It runs on the editor's Windows machine;
   a cloud session cannot OCR this way, and needs the text given or paid out
   for.
+- **Display capitals of a rough scan defeat every upscale — go back to the
+  source for more resolution** (2026-10-23, the Dziennik Poznański death
+  notice of 1879). The WBC's microfilm page at 300 dpi read its body but
+  not its giant name line at any upscale or model (Tesseract returned
+  nothing for the row at ×1-×6, psm 7/8/11/13, pol, pol-std, eng, even a
+  fetched Fraktur model). The issue's DjVu fetched again from the WBC and
+  rendered at 600 dpi read the same lines at a plain pass — the letters
+  were twice the size, not twice the noise. Upscaling multiplies what the
+  raster has; re-fetching gets what it never had. Downscale a too-big
+  render to ~40 px letter height before OCR: Tesseract reads 30-50 px
+  letters, not 120 px ones.
+- **The WBC serves its files behind a proof-of-work challenge, and the
+  DjVu components directly** (2026-10-23). Every request may come back as
+  a "High Load - Verifying Browser" page: solve it by finding the nonce
+  with `MD5(signature + nonce)` starting `00000` (the page's script
+  carries `ts` and `signature`), send it as the cookie `captcha_pow=<ts>_<nonce>`,
+  and the real page follows. The digitised issue's pages sit at
+  `/Content/<edition id>/DjVu/<file>.djvu` (e.g.
+  `/Content/84585/DjVu/0004_0001.djvu`); the bundle's own `DP_*.djvu` is a
+  73-byte indirect index, not the pages. The reader page's HTML
+  (`/dlibra/publication/<id>/edition/<ed>/content`) carries the addresses.
+- **A stray `struct.py` in the session's scratch folder shadows the
+  stdlib** (2026-10-23, `%TEMP%\opencode`). A script placed in the folder
+  itself imports the leftover file (it opens a path on J: and crashes) in
+  place of Python's `struct`, which `urllib` needs. Keep session scripts
+  in their own subfolder; leave the leftover file alone (another session's
+  work).
 - **OCR a page as the agreement of passes, not from one run.** The five
   passes over the clipping (two upscalings ×3/×4, psm 6 and 4, tessdata_best
   beside the standard model, Windows.Media.Ocr as a third witness) agreed on

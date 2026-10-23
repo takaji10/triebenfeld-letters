@@ -2705,3 +2705,46 @@ lose his estates. The era page writes Konotop, not Kontop.
   is the editor's authorised text in full; a hidden work's own page is
   still checked strictly (summary only).
 - Committed, not published; publish at the editor's word.
+
+## 2026-10-23 - The newspapers: the death notice of Włodzimierz hr. Miączyński
+
+- **A new item**, `newspapers/dziennikpoznanski18791220/`: the nekrolog in
+  the black-bordered box on p. 4 of Dziennik Poznański, R. 21, nr 292 of
+  20 December 1879 (the WBC digitisation, sygn. Cz4293 of PAN Biblioteka
+  Kórnicka, "domena publiczna") — the press witness of the death of Count
+  Włodzimierz Miączyński, "dziedzic majętności Trąbczyna w Królestwie
+  Polskiem", at Trąbczyn on the 18th of December 1879 after long
+  sufferings, "opatrzony ss. sakramentami"; the "Ekspedycya zwłok" on
+  Monday the 22nd, the funeral "nazajutrz"; signed by the grieving nephew,
+  Władysław hr. Miączyński of Pawłowa. The section's first death notice,
+  and the press witness of the event the wlodzimierz era's ownership line
+  turns on (it names the nephew who succeeds).
+- **Read by Tesseract** at the editor's word (the item's own readings
+  ruled in session; the doubtful list in the item's notes.md): the
+  microfilm's 300 dpi page defeated the display-capital name line and the
+  body's first word ("Zmarł"), so the issue's DjVu was fetched again from
+  the WBC (`/Content/84585/DjVu/0004_0001.djvu`) and rendered at 600 dpi,
+  where the same lines read — the heading "Włodzimierz hr. Miączyński,"
+  one giant line, then "dziedzic / majętności Trąbczyna / w Królestwie
+  Polskiem," stacked, then the body. Open readings: "Polskiem" (the 600
+  dpi crops suggesting "Polském"), "Ekspedycya" (against the passes'
+  "Eksportac"/"Ekoportacja" shapes; the standard phrase and the descender
+  pattern decide), and the funeral day after "nazajutrz" — the glyph
+  reads as an 8 to every pass but is no digit to the English engine set to
+  digits alone, and the sense after a Monday the 22nd allows only the 23rd.
+- **The death date stands against the edition's records**: the notice says
+  the 18th of December, the editor's ruling of 2026-10-15 (the notebook
+  APP 53/968/0/-/716) the 20th — and Żychliński (1891, p. 222) has the
+  18th too, the question already open (NEEDS_CONFIRMATION, "The
+  literature"). The notice is a period witness on Żychliński's side; the
+  documents first, the ruling the editor's. The item keeps the press's
+  date as printed.
+- **The index run**: one hit, Trąbczyn, standing under the ruling already
+  in `newspapers/index.yml`; no new rulings needed. The Count's own
+  mention the register's patterns bring in nowhere (the Włodzimierz
+  entry's `only_in` pin to the summons of 1860; the bare "Miączyński"
+  under the 2015 report's standing "no" ruling).
+- The image carried on the item's page (the editor's 0004_0001.jpg of the
+  WBC download). The item is visible (anonymous press of 1879, public
+  domain); committed, not published; publish at the editor's word.
+

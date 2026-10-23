@@ -1,0 +1,127 @@
+# One item of the press. Everything the site needs to know about it.
+
+slug: dziennikpoznanski18791220
+
+# The item as the newspaper cites it: the twenty-first year (Rocznik 21) of
+# the Poznań daily Dziennik Poznański, no. 292, of Saturday 20 December
+# 1879, page 4. Dziennik Poznański ran from 1859, so R. 21 fits 1879. The
+# editor gave the citation with the image and the digitisation's address
+# (Wielkopolska Digital Library, WBC).
+ref: >-
+  Dziennik Poznański, R. 21, nr 292 (20 grudnia 1879), p. 4
+newspaper: Dziennik Poznański
+published: >-
+  Dziennik Poznański, R. 21, nr 292, Poznań, 20 December 1879, p. 4 (a death
+  notice)
+title: >-
+  The death notice of Count Włodzimierz Miączyński, proprietor of the
+  Trąbczyn estates in the Kingdom of Poland, in the Poznań daily Dziennik
+  Poznański of 20 December 1879: dead at Trąbczyn on the 18th of December
+  of the current year after long sufferings, fortified with the holy
+  sacraments; the dispatch of the body to take place on Monday the 22nd of
+  the month, the funeral the next day; signed by the grieving nephew
+  Władysław hr. Miączyński of Pawłowa — the press witness of the Count's
+  death, the event the wlodzimierz era opens with.
+title_en: >-
+  The death notice of Count Włodzimierz Miączyński, proprietor of Trąbczyn,
+  in the Poznań daily Dziennik Poznański of 20 December 1879
+cite: Dziennik Poznański (1879)
+author: ""
+year: 1879
+date_span: "1879"
+language: pl
+kind: newspaper
+
+# Which era this item belongs to - reference/eras.yml. The Count's death is
+# the event the wlodzimierz era's ownership line turns on: Włodzimierz
+# Miączyński held Trąbczyn to his death in 1879, "then his nephew
+# Władysław Miączyński". This notice of 20 December 1879 is that death's
+# press witness, and it names the nephew.
+era: wlodzimierz
+
+# Shown whole on the site. The notice is anonymous press of 1879: Polish
+# copyright in an anonymous work runs 70 years from its first publication,
+# so it ended in 1949; the WBC record states "domena publiczna".
+visible: true
+
+# Where the page comes from: the digitisation of the Wielkopolska Digital
+# Library (WBC, PAN Biblioteka Kórnicka; the issue's copy, sygn. Cz4293,
+# digitised from the collections of Biblioteka PTPN w Poznaniu; the record
+# notes the poor quality of the microfilm).
+source: https://wbc.poznan.pl/dlibra/publication/69094/edition/84585/content
+
+# The image, shown above the texts: the editor's image of the digitised
+# page (0004_0001.jpg of the WBC download), carrying the death notice with
+# the pages above and below it.
+image: page4.jpg
+
+# The English was made in the session that read the page (the editor's
+# word, 2026-10-23); it is not checked whole.
+english_by: Claude, 2026-10-23
+
+# What the item is, and what kind of witness (the rule of the literature,
+# LITERATURE_PLAN section 2, kept here): a paid death notice in the Poznań
+# daily, set in a black-bordered box with the dead man's name in display
+# capitals, the form the Polish papers of the time used. Its facts are the
+# kind the family's own papers would confirm, and it is the only witness of
+# the Count's death the press section holds — set down two days after the
+# death it reports, by the heir whose succession the era's ownership line
+# records.
+account_en: >-
+  A death notice in the Poznań daily Dziennik Poznański, no. 292 of
+  20 December 1879 (the paper's twenty-first year), page 4, anonymous, set
+  in a black-bordered box with the dead man's name in display capitals. It
+  announces the death of Włodzimierz hr. Miączyński, "dziedzic" — the
+  proprietor — "majętności Trąbczyna w Królestwie Polskiem", of the
+  Trąbczyn estates in the Kingdom of Poland: he "died after long
+  sufferings, fortified with the holy sacraments, on the 18th of December
+  of the current year at Trąbczyn". The dispatch of the body ("ekspedycya
+  zwłok", the bodies of the time travelling by rail) was to take place on
+  Monday the 22nd of the month, the funeral the day after; the notice is
+  signed "the grieving nephew, Władysław hr. Miączyński of Pawłowa". The
+  notice stands in the paper two days after the death it reports, and it
+  names the heir whose succession the wlodzimierz era's ownership line
+  records. Its date of death, the 18th of December, sides with Żychliński
+  (1891, p. 222) against the edition's own records, which put the Count's
+  death on the 20th — the question already open (NEEDS_CONFIRMATION, "The
+  literature" and "The newspapers": the documents first).
+account_de: >-
+  Eine Todesanzeige in der Posener Tageszeitung Dziennik Poznański, Nr. 292
+  vom 20. Dezember 1879 (das einundzwanzigste Jahr der Zeitung), Seite 4,
+  anonym, in einem schwarzumrandeten Kasten gesetzt, mit dem Namen des
+  Verstorbenen in Schmuckkapitalen. Sie meldet den Tod von Włodzimierz hr.
+  Miączyński, „dziedzic" — dem Besitzer — „majętności Trąbczyna w
+  Królestwie Polskiem", der Güter von Trąbczyn im Königreich Polen: er ist
+  „nach langen Leiden, versehen mit den heiligen Sakramenten, am 18.
+  Dezember des laufenden Jahres in Trąbczyn" gestorben. Die Versendung des
+  Leichnams („ekspedycya zwłok", die Leichen jener Zeit reisten mit der
+  Eisenbahn) sollte am Montag, den 22. des Monats stattfinden, das Begräbnis
+  am Tag darauf; gezeichnet ist die Anzeige „vom trauernden Neffen,
+  Władysław hr. Miączyński von Pawłowa". Die Anzeige steht in der Zeitung
+  zwei Tage nach dem Tod, den sie meldet, und nennt den Erben, dessen
+  Nachfolge die Besitzzeile der Epoche wlodzimierz verzeichnet. Ihr
+  Todesdatum, der 18. Dezember, steht auf der Seite von Żychliński (1891,
+  S. 222) gegen die eigenen Aufzeichnungen der Edition, die den Tod des
+  Grafen auf den 20. setzen — die Frage ist bereits offen
+  (NEEDS_CONFIRMATION, „The literature" und „The newspapers": die Dokumente
+  zuerst).
+
+# A detailed summary of the contents, written from a reading of the whole
+# item (kept even though the item is shown whole: the summaries are what a
+# question is put to first).
+summary_en: >-
+  A death notice in Dziennik Poznański, no. 292 of 20 December 1879, p. 4.
+  "Włodzimierz hr. Miączyński, proprietor of the Trąbczyn estates in the
+  Kingdom of Poland, died after long sufferings, fortified with the holy
+  sacraments, on the 18th of December of the current year at Trąbczyn. The
+  dispatch of the body will take place on Monday the 22nd of the current
+  month, the funeral the next day, of which notice is given by the grieving
+  nephew, Władysław hr. Miączyński of Pawłowa."
+summary_de: >-
+  Eine Todesanzeige im Dziennik Poznański, Nr. 292 vom 20. Dezember 1879,
+  S. 4. „Włodzimierz hr. Miączyński, Besitzer der Güter von Trąbczyn im
+  Königreich Polen, ist nach langen Leiden, versehen mit den heiligen
+  Sakramenten, am 18. Dezember des laufenden Jahres in Trąbczyn gestorben.
+  Die Versendung des Leichnams findet am Montag, den 22. des laufenden
+  Monats statt, das Begräbnis am Tag darauf; dessen wird vom trauernden
+  Neffen, Władysław hr. Miączyński von Pawłowa, Kund gegeben."
