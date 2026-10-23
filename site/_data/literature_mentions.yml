@@ -1695,6 +1695,12 @@ person:
     - key: '221'
       en: p. 221
       de: S. 221
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '251'
+      en: p. 251
+      de: S. 251
   - work: minakowska2026miaczynski
     cite: Minakowska (2026, Stanisław Adam Miączyński)
     pages:
@@ -1779,6 +1785,12 @@ person:
     - key: '41'
       en: p. 41
       de: S. 41
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '248'
+      en: p. 248
+      de: S. 248
   - work: kneifel1964
     cite: Kneifel (1964)
     pages:
@@ -2656,6 +2668,16 @@ person:
     - key: '59'
       en: p. 59
       de: S. 59
+  zelmer:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '253'
+      en: p. 253
+      de: S. 253
+    - key: '256'
+      en: p. 256
+      de: S. 256
   zerboni:
   - work: materialien1861
     cite: Materialien (1861)
@@ -2733,6 +2755,13 @@ person:
       en: p. 51
       de: S. 51
 place:
+  adamierz:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '266'
+      en: p. 266
+      de: S. 266
   batkowo:
   - work: ostensacken2001
     cite: Kraus (2001)
@@ -2773,6 +2802,12 @@ place:
       en: p. 145
       de: S. 145
   drzewce:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -2808,6 +2843,12 @@ place:
     - key: c03
       en: 2.976.183, 196-198, 209-210
       de: 2.976.183, 196-198, 209-210
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -2904,6 +2945,18 @@ place:
       en: śluby i dzieci, wnuki, i do prawnuków
       de: śluby i dzieci, wnuki, i do prawnuków
   kopojno:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '249'
+      en: p. 249
+      de: S. 249
+    - key: '252'
+      en: p. 252
+      de: S. 252
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3229,6 +3282,12 @@ place:
     - key: '11'
       en: p. 11
       de: S. 11
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '11'
+      en: p. 11
+      de: S. 11
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3259,6 +3318,19 @@ place:
     - key: '127'
       en: p. 127
       de: S. 127
+  lad:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '248'
+      en: p. 248
+      de: S. 248
+    - key: '258'
+      en: p. 258
+      de: S. 258
+    - key: '259'
+      en: p. 259
+      de: S. 259
   lowyn:
   - work: feuerbraende1807
     cite: Neue Feuerbrände (1807)
@@ -3317,6 +3389,24 @@ place:
       en: p. 28
       de: S. 28
   olesnica:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '249'
+      en: p. 249
+      de: S. 249
+    - key: '251'
+      en: p. 251
+      de: S. 251
+    - key: '256'
+      en: p. 256
+      de: S. 256
+    - key: '257'
+      en: p. 257
+      de: S. 257
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3381,6 +3471,21 @@ place:
       en: V. Kapitel.
       de: V. Kapitel.
   rzgow:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '74'
+      en: p. 74
+      de: S. 74
+    - key: '79'
+      en: p. 79
+      de: S. 79
+    - key: '174'
+      en: p. 174
+      de: S. 174
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3458,6 +3563,12 @@ place:
       en: p. 42
       de: S. 42
   skokum:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3487,6 +3598,12 @@ place:
       en: p. 42
       de: S. 42
   swiatniki:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3516,6 +3633,21 @@ place:
       en: p. 145
       de: S. 145
   swiecia:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '167'
+      en: p. 167
+      de: S. 167
+    - key: '171'
+      en: p. 171
+      de: S. 171
+    - key: '172'
+      en: p. 172
+      de: S. 172
+    - key: '174'
+      en: p. 174
+      de: S. 174
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3629,6 +3761,30 @@ place:
     - key: '41'
       en: p. 41
       de: S. 41
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '248'
+      en: p. 248
+      de: S. 248
+    - key: '251'
+      en: p. 251
+      de: S. 251
+    - key: '252'
+      en: p. 252
+      de: S. 252
+    - key: '256'
+      en: p. 256
+      de: S. 256
+    - key: '257'
+      en: p. 257
+      de: S. 257
+    - key: '258'
+      en: p. 258
+      de: S. 258
+    - key: '266'
+      en: p. 266
+      de: S. 266
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3796,6 +3952,12 @@ place:
       en: Before the first page
       de: Vor der ersten Seite
   wrabczyn:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
   - work: breyer1938
     cite: Breyer (1938)
     pages:
@@ -3824,6 +3986,15 @@ place:
       en: p. 147
       de: S. 147
   wrabczynek:
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '258'
+      en: p. 258
+      de: S. 258
+    - key: '263'
+      en: p. 263
+      de: S. 263
   - work: szwiec2009
     cite: Szwiec (2009)
     pages:
@@ -3939,6 +4110,69 @@ place:
     - key: '8'
       en: p. 8
       de: S. 8
+  - work: kneifel1937
+    cite: Kneifel (1937)
+    pages:
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '16'
+      en: p. 16
+      de: S. 16
+    - key: '73'
+      en: p. 73
+      de: S. 73
+    - key: '176'
+      en: p. 176
+      de: S. 176
+    - key: '248'
+      en: p. 248
+      de: S. 248
+    - key: '249'
+      en: p. 249
+      de: S. 249
+    - key: '250'
+      en: p. 250
+      de: S. 250
+    - key: '251'
+      en: p. 251
+      de: S. 251
+    - key: '252'
+      en: p. 252
+      de: S. 252
+    - key: '253'
+      en: p. 253
+      de: S. 253
+    - key: '254'
+      en: p. 254
+      de: S. 254
+    - key: '255'
+      en: p. 255
+      de: S. 255
+    - key: '256'
+      en: p. 256
+      de: S. 256
+    - key: '257'
+      en: p. 257
+      de: S. 257
+    - key: '258'
+      en: p. 258
+      de: S. 258
+    - key: '262'
+      en: p. 262
+      de: S. 262
+    - key: '263'
+      en: p. 263
+      de: S. 263
+    - key: '264'
+      en: p. 264
+      de: S. 264
+    - key: '266'
+      en: p. 266
+      de: S. 266
   - work: breyer1938
     cite: Breyer (1938)
     pages:

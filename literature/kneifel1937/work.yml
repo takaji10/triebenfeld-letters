@@ -1,0 +1,63 @@
+# One work of the literature (docs/LITERATURE_PLAN.md, section 28).
+# original.md and english.md were read from the page images of the PDF
+# "Eduard Kneifel - [1937] Die evangelisch-augsburgischen Gemeinden der
+# Kalischer Diözese" on J: (Tesseract 5.5.3 deu against the PDF's own text
+# layer, the editor's Kalisch .md the base text for PDF 60-72). The source
+# PDF and the editor's .md are not kept in the repository; the per-page
+# working files of the sitting are in cache/ (gitignored). See notes.md.
+slug: kneifel1937
+visible: true
+kind: history
+title: "Die evangelisch-augsburgischen Gemeinden der Kalischer Diözese"
+title_en: "The Evangelical-Augsburg Congregations of the Kalisch Diocese"
+cite: "Kneifel (1937)"
+author: "Eduard Kneifel"
+author_sort: "Kneifel, Eduard"
+published: "Verlag Günther Wolff, Plauen im Vogtland 1937 (printed by Papierodruk, Posen)"
+year: 1937
+language: de
+english_by: Claude
+pages:
+  mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
+account_en: >-
+  Parish monographs of the evangelical-Augsburg (Lutheran) diocese of Kalisch
+  by the pastor Eduard Kneifel, published 1937 as the first volume of his
+  "Forschungen zur Geschichte der evangelisch-augsburgischen Kirche in Polen"
+  and written while he was a pastor in Łódź. The book treats one parish after
+  another in a fixed scheme - the place's history, the parish's founding and
+  its buildings, its pastors and cantors, its church councils, schools and
+  cantorates, societies, converts, the economic facts, a table of the yearly
+  figures, and the list of affiliated localities - drawing on the parish
+  archives, the church papers of the time and the author's own knowledge of
+  many of the people. It is the fullest single record of the German-evangelical
+  settlement of central Poland before its destruction. Only the parts that
+  bear on the edition's ground are brought in: the introductory chapter on
+  the diocese (with the school statistics and the succession of
+  superintendents), and the monographs of Kalisch (the diocese's mother
+  parish), Grodziec (which administered Zagórów 1843-1856 and again
+  1878-1892), Konin with its filial Maślaki, and Zagórów - the parish of the
+  edition's ground, with the Łazińsk cantorate founded in 1746, the Trąbczyn
+  villages, and the long quarrel with the cantorates that produced the filial
+  of Lissewo-Pyzdry, treated in the book in its own sub-entry.
+account_de: >-
+  Pfarrmonographien der evangelisch-augsburgischen (lutherischen) Diözese
+  Kalisch von dem Pastor Eduard Kneifel, erschienen 1937 als erster Band
+  seiner "Forschungen zur Geschichte der evangelisch-augsburgischen Kirche
+  in Polen" und geschrieben, während er Pastor in Łódź war. Das Buch behandelt
+  Gemeinde für Gemeinde nach einem festen Schema - die Geschichte des Ortes,
+  die Gründung der Parochie und ihre Baulichkeiten, ihre Pastoren und
+  Kantoren, ihre Kirchenkollegien, Schulen und Kantorate, Vereine,
+  Konvertiten, die wirtschaftlichen Angaben, eine Tabelle der jährlichen
+  Zahlen und die Liste der eingepfarrten Ortschaften - aus den Pfarrarchiven,
+  den Kirchenblättern der Zeit und der eigenen Kenntnis des Verfassers von
+  manchen der Genannten. Es ist die ausführlichste einzelne Aufzeichnung der
+  deutsch-evangelischen Siedlung Mittelpolens vor ihrer Zerstörung. Nur die
+  Teile, die den Boden der Edition berühren, sind aufgenommen: das einleitende
+  Kapitel über die Diözese (mit der Schulstatistik und der Folge der
+  Superintendenten) und die Monographien von Kalisch (der Mutterparochie der
+  Diözese), Grodziec (das Zagórów 1843-1856 und wieder 1878-1892 verwaltete),
+  Konin mit seinem Filial Maślaki und Zagórów - die Parochie des Bodens der
+  Edition, mit dem 1746 gegründeten Kantorat Łazińsk, den Trąbczyner Dörfern
+  und dem langen Streit mit den Kantoraten, aus dem das Filial
+  Lissewo-Pyzdry hervorging, das das Buch in seinem eigenen Abschnitt
+  behandelt.

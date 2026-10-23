@@ -974,6 +974,10 @@ People (`reference/people.yml`, `open_questions`):
 - Prinz George: which house he belongs to is not stated in the letters.
 - Settlers doubled between a German deed and a Polish protocol (as Celmer and
   Zelmer): not checked beyond the known case.
+- Heinrich Zelmer, elder of the church council of Zagórów in 1875 and again
+  1882 (Kneifel 1937, pp. 253 and 256): presumably of the Zelmers of the
+  Trąbczyn Olęder settlement, the parish's own; not shown. The literature
+  ruling stands on the presumption.
 
 - Schliefen / Schlieffen (9454: 19, 22, 23, 169, 215, 218): the editor
   cannot say (2026-10-03). Not in the register; the transcription keeps what

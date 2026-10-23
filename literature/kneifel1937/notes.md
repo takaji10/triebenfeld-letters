@@ -4,7 +4,7 @@ Eduard Kneifel, *Die evangelisch-augsburgischen Gemeinden der Kalischer
 Diözese*, Verlag Günther Wolff, Plauen im Vogtland 1937 ("Forschungen zur
 Geschichte der evangelisch-augsburgischen Kirche in Polen, 1. Band"). Added
 2026-10-23 as a sitting of its own, on branch `kneifel1937`; the English
-translation is a later sitting. The work is the forerunner of the sibling
+translation made the same day. The work is the forerunner of the sibling
 *kneifel1964* (the same author revisits several of these parishes there),
 and parts of its Kalisch, Grodziec, Konin and Zagórów material bear
 directly on the edition's ground (Trąbczyn, Łazińsk, Zagórów, the
@@ -68,6 +68,13 @@ definition text — the kneifel1964 convention.
   Tesseract) was dropped as printer's ink.
 - p. 62 (PDF 68): "die später von ihm Nitsche gekauft hat" — kept (the
   print's syntax; "von ihm" for "von").
+- p. 65 (PDF 71): "(52 J. alt (f)" — the print's "(f" for "(†"; "Dembe"
+  (the print's form beside the p. 64 "Dębe"); both kept.
+- p. 75 (PDF 81): the print's sentence garble "die der deutsch-evangelischen
+  Schulen — ausgesprochen evangelisch-konfessionelle Schulen gibt es
+  gesetzlich nicht — ist ständigen Schwankungen unterworfen" (the schools'
+  number is the subject; the clause about the law sits in the dashes) —
+  kept as printed.
 - p. 63 (PDF 69): the marker after "Gesangchor" is a damaged "16)" — the
   editor's .md read "18)", but note 18 (the Zwiastun piece on the
   Greisenheim jubilee) belongs to the Greisenheim sentence on p. 64, while
@@ -95,6 +102,27 @@ definition text — the kneifel1964 convention.
   "Garnisonschule").
 - p. 260 (PDF 268): "unsere eigenen Mitte" read as "unserer eigenen
   Mitte" per both witnesses.
+
+## The English
+
+Made by Claude the same day, page by page from the German finals, and held
+to them mark for mark: the same 79 page marks, the same 81 note ids, the
+same seven `[…]` elisions. The ruling of 2026-10-23 for the sibling's
+English holds here too: Poland, Prussia and Russia are translated, the place
+names keep the print's forms (Kalisch, Grodziec, Slesin, Peisern, Łazińsk,
+Trąbczyn, with the Polish letters the 1937 print writes), and the titles of
+cited works stand in their own language, with "S." to pages and the German
+quoted matter given in German, followed where needful by a bracketed
+English gloss. The print's slips are mirrored (Pastor "von Modi" for von
+Modl, "Dembe", "Grunde", the bare ")" after "beschlagnahmten"), the German
+word-division at the page breaks is reproduced in the English word-division
+("supreme appro- | bation", "pre- | sence"), numeric ranges take the en
+dash, and the German quotation marks become English ones. Money is spelled
+out (rubles, kopecks, zlotys, groschen, thalers), the land measures stay
+Morgen and hides, and the German institutional headings of the STATISTIK
+blocks are translated (Pastors., Cantors., Sextons., Church councils.,
+Affiliated localities. and the rest), while the proper names of societies
+and firms stay German.
 
 ## The portrait plates
 

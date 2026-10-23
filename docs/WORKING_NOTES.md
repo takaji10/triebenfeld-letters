@@ -1541,6 +1541,32 @@ cloud branches").
   - Asterisk footnote markers inside GFM tables are written `\*\*` in the
     cells as at their definitions, or a renderer may pair them into bold.
 
+- **Kneifel 1937 translated and integrated** (2026-10-23, the same sitting,
+  same branch): the English `english.md`, `work.yml`, the index rulings and
+  the site pages, on the pattern of `literature/kneifel1964`. What carries
+  over:
+  - **The sibling work's work.yml is the template, but check its state
+    first**: the sibling's integration was already merged to main, so
+    `work.yml` had to be written fresh — and PowerShell's `Test-Path` in a
+    `ForEach-Object` loop misreported every `work.yml` as missing while
+    `Test-Path` on the single path was true; settle file existence with
+    Python or `git ls-tree`, not a PowerShell loop.
+  - **The index check's unruled hits are read, not bulk-ruled**: the new
+    work brought 49 hits in 18 pairs, each read from the generated sheet
+    against the entity's identity in `reference/people.yml` — six turned out
+    to be different people or the office of Küster rather than the man
+    (the first literature hits several entities have ever had), and the
+    place rulings follow the work's own cross-references (the book's p. 263
+    names Wrąbczynek a part of the cantorate Wrąbczynkowska Kolonia, which
+    settles the "Wrąbczyner Hauland" question).
+  - **A footnote marker glued to a word is its own surface** ("Warschau6"):
+    the index match's negative lookahead admits digits, so a hit can be
+    word+marker; rule it by the word, and say so in the comment.
+  - **An unsure identification is ruled yes only with the presumption
+    said**: Zelmer (Heinrich, elder of the Zagórów church council,
+    presumably of the Trąbczyn family) is ruled yes with the comment and a
+    line in NEEDS_CONFIRMATION — not silently.
+
 ## The English, the summaries and the claim check
 
 - **Where one summary is kept.** Change all of them together:

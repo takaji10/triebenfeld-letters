@@ -1097,3 +1097,71 @@ Hohenlohe and the house of Bartenstein ruled no.
 - The literature has 35 works, 31 with pages in both languages and four
   summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
   Polom 2024). Committed, not published; publish at the editor's word.
+
+## 28. Kneifel (1937), the parish monographs of the Kalisch diocese (2026-10-23)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `kneifel1937` | Eduard Kneifel, *Die evangelisch-augsburgischen Gemeinden der Kalischer Diözese*, Verlag Günther Wolff, Plauen im Vogtland 1937 ("Forschungen zur Geschichte der evangelisch-augsburgischen Kirche in Polen, 1. Band"; printed by Papierodruk, Posen) | German | `[p. N]` | yes: the excerpt, 79 printed pages |
+
+The forerunner of the sibling work (section 24): the same author nine years
+before, writing the parish monographs of the Kalisch diocese one parish at a
+time in a fixed scheme. Added on branch `kneifel1937` as a sitting of its own
+(2026-10-23): the German `original.md` first, then the same day the English
+`english.md`, `work.yml` and the site integration, all on the branch, to be
+merged into main later.
+
+- **The excerpt** (79 printed pages of the 274): the wrappers and title
+  page, the diocese's introductory chapter (printed 7-16, with the school
+  statistics and the succession of the superintendents), and the monographs
+  of **Kalisch** (55-79, the diocese's mother parish), **Grodziec** (67-79,
+  which administered Zagórów 1843-1856 and again 1878-1892), **Konin** with
+  its filial **Maślaki** (163-182), and **Zagórów** (248-266) with the
+  sub-entry on the **filial of Lissewo-Pyzdry** - the parish of the edition's
+  ground, with the Łazińsk cantorate founded 1746 and the long quarrel with
+  the cantorates that produced the filial. Ranges are cut at the editor's
+  list of pages; the gaps carry the `[…]` convention and the two portrait
+  plates (Herzberg, Modl) and the Kalisch church photograph are brought in as
+  captions only, no images.
+- **The reading.** Every page read twice and compared: Tesseract 5.5.3
+  (`deu`, `--tessdata-dir cache/kneifel1937/tessdata`) against the PDF's own
+  text layer, page by page as word multisets; weak pages (the letter-spaced
+  STATISTIK headings, the tables, the Ortschaften lists) recovered by band
+  OCR; pages 60-72 (Kalisch) taken from the editor's own transcription on J:,
+  the one page of the book a .md already existed for. Doubtful names and
+  figures went to zoom crops only when the two witnesses disagreed; what
+  could not be settled went on a spot sheet (`review/kneifel1937/`). The
+  printed↔PDF mapping drifts at the tipped-in matter (portrait plates
+  unnumbered, the church photograph before the Grodziec chapter); the marks
+  carry the printed page numbers read at the page feet, the unnumbered ones
+  `[p. unnumbered]`. The footnote numbering restarts per parish entry and per
+  sub-entry, so the keys are page-scoped (`[^p7-1]`, `[^p262-6]`), as in
+  Kneifel (1964). The print's slips are kept as printed and listed in the
+  work's `notes.md` (Pastor "von Modi" for von Modl, Spleszyński/Spleczyński
+  alternating, the bare ")" after "beschlagnahmten", the damaged note markers
+  read at the page feet).
+- **The English** was made the same sitting, page by page from the German
+  finals and held to them mark for mark: the same 79 marks, the same 81 note
+  ids, the same seven elisions. The ruling of section 24 holds: place names
+  keep the print's forms (Kalisch, Grodziec, Slesin, Peisern, Łazińsk), the
+  German quoted matter stands in German with a bracketed English gloss where
+  needful, the print's slips are mirrored, and the STATISTIK headings are
+  translated.
+- **What it bears on**: the founding of the Zagórów parish (the Łazińsk
+  cantorate of 1746, the Trąbczyn villages), its church building of
+  1877-1882, the filial of Lissewo-Pyzdry and its cantorates (Łazińsk
+  20 Morgen, Ciemierów, Wrąbczynkowska Kolonia), Grodziec's administrations
+  of Zagórów, and the diocesan frame the edition's congregations stood in.
+  Index ruled: the new spellings of the sitting entered with their rulings -
+  Adamierz, Ląd (the monastery), Skokum, Peiserner, Meseritzer, Zagóróws,
+  Warschau6 yes; Alexandrien (Ptolemy of Alexandria), the Koninerstrasse,
+  Wieruszew, Wrąbczyner Hauland and Wrąbczynkowska Kolonia (the colony by
+  Wrąbczynek) no; Fischbach, Godlewski, Jankowski, Küster (the office) and
+  Kunkel no, each not the edition's person; Zelmer yes - Heinrich Zelmer,
+  elder of the Zagórów church council, presumably of the Trąbczyn family,
+  Claude's presumption, recorded in NEEDS_CONFIRMATION.
+
+- The literature has 36 works, 32 with pages in both languages and four
+  summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
+  Polom 2024). Committed on the branch, not published; publish at the
+  editor's word.

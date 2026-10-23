@@ -643,6 +643,37 @@ people:
     # geboren († 1829)" — the edition's Prinz Alexander, the Prince's
     # youngest son.
     Alexander: yes
+  fischbach:
+    # Kneifel (1937) p. 65: Johann Benjamin Fischbach, sexton of the Kalisch
+    # congregation 1796-1822 — a different man from the edition's Carl
+    # Theodor Fischbach of Betsche (letters 99, 203).
+    Fischbach: "no: Johann Benjamin Fischbach, sexton of the Kalisch congregation (Kneifel 1937); not Carl Theodor Fischbach of Betsche"
+  godlewski:
+    # Kneifel (1937) p. 65: "Godlewski, 1836", a chancery clerk
+    # (Kirchenschreiber) of the Kalisch congregation, otherwise unnamed.
+    Godlewski: "no: an unnamed chancery clerk of the Kalisch congregation (Kneifel 1937); not the Godlewski of the boundary-dispute precedent"
+  jankowski:
+    # Kneifel (1937) p. 260: Josef Jankowski, a Roman Catholic burgher of
+    # Peisern, one of the townsfolk who asked in 1844 that the hospital
+    # church be handed to the Evangelicals — not the edition's Joannes
+    # Jankowski de Łukom of the Konin court record.
+    Jankowski: "no: Josef Jankowski, a Roman Catholic burgher of Peisern (Kneifel 1937); not Joannes Jankowski de Łukom of the Konin court record"
+  kuester:
+    # All the hits (Kneifel 1937, the STATISTIK blocks) are the office of
+    # Küster, the sexton, in the buildings' rooms, the salary tables and the
+    # office headings — not the edition's chancery official at Vienna.
+    Küster: "no: the office of Küster, the sexton, in the parish statistics (Kneifel 1937); not the chancery official at Vienna"
+  kunckel:
+    # Kneifel (1937) p. 165: Gottfried Kunkel, church elder at Slesin,
+    # reporting in 1816 — not the Kunckel whose Schreiben reaches
+    # Triebenfeld (oe1bu9454).
+    Kunkel: "no: Gottfried Kunkel, church elder at Slesin (Kneifel 1937); not the Kunckel of the Triebenfeld correspondence"
+  zelmer:
+    # Kneifel (1937) pp. 253 and 256: Heinrich Zelmer, elder of the church
+    # council of Zagórów (1875, elected again 1882) — the parish of the
+    # Trąbczyn Olęder settlement, so presumably of the family the edition
+    # follows; Claude's presumption, not the book's statement.
+    Zelmer: yes
 
 places:
   # The estates of the edition (shown on the Places page).
@@ -651,6 +682,15 @@ places:
   # sold; the edition's documents write the village's name Botkowo as well.
   batkowo: {Botkowo: yes}
   betsche: {Betsche: yes}
+  adamierz:
+    # Kneifel (1937) p. 266: Adamierz, a village of the commune of Dłusk in
+    # the list of the localities of the filial of Lissewo-Pyzdry - the
+    # edition's village (Nadamirza 1377).
+    Adamierz: yes
+  alexandrien:
+    # Kneifel (1937) p. 55: "der Grieche Claudius Ptolomaios aus Alexandrien",
+    # Ptolemy of Alexandria, not the settlement.
+    Alexandrien: "no: Claudius Ptolemy of Alexandria (Kneifel 1937), not the settlement"
   brzyce:
     # Kneifel (1964) p. 41: "1791 gab A. Reptowski, Domherr an der Posener
     # Kathedralkirche, der Siedlung Brzyczka die "Gerechtsame"" - Reptowski's
@@ -1002,6 +1042,9 @@ places:
     Konińska: yes
     Konińskiej: yes
     Koniner: yes
+    # Kneifel (1937) p. 251: "an der Koninerstr. Nr. 54" and "Nr. 51 und 52",
+    # the Koninerstrasse in Zagórów, the street's name.
+    Koninerstr: "no: the Koninerstrasse, a street in Zagórów (Kneifel 1937)"
     Konińskiém: yes
     Konina: yes
     Koninem: yes
@@ -1014,6 +1057,12 @@ places:
   ladek: {Lądek: yes}
   kopojno:
     Kopojno: yes
+  lad:
+    # Kneifel (1937) pp. 248 f.: the Cistercian monastery of Ląd on the
+    # Warthe, founded 1145, whose colonisation founded Lądek, Pyzdry and
+    # Zagórów, and whose German monks fled with the records to Heinrichau
+    # in 1553 - the monastery at the edition's village of Ląd.
+    Ląd: yes
   liegnitz:
     # The Prince's Liegnitz (and any work's) stands; Werner (1904) names it
     # only as the birthplace and government district of two pastors of the
@@ -1039,7 +1088,7 @@ places:
     Mariantów: yes
   mecklenburg: {Mecklenburg: yes}
   memel: {Memel: yes}
-  miedzyrzecz: {Meseritz: yes, Międzyrzecz: yes}
+  miedzyrzecz: {Meseritz: yes, Meseritzer: yes, Międzyrzecz: yes}
   naumburg: {Naumburg: yes}
   neuchatel: {Neufchatel: yes}
   neusalz: {Neusalz: yes}
@@ -1086,6 +1135,9 @@ places:
   pressburg: {Preßburg: yes}
   pyzdry:
     Peisern: yes
+    # Kneifel (1937): "die Peiserner Evangelischen" (p. 262), "im Peiserner
+    # Hauland" (p. 264) - the town's people and its Hauland.
+    Peiserner: yes
     # Szwiec (2009): the town, its commune and the map sheet named after it.
     Pyzdry:
       default: yes
@@ -1109,6 +1161,9 @@ places:
   schlesien: {Schlesien: yes}
   skokum:
     Skokom: yes
+    # Kneifel (1937) p. 258, the print's spelling "Skokum" in the list of
+    # the gmina of Oleśnica - the same village Breyer writes Skokom.
+    Skokum: yes
   sokolnik:
     # Werner (1904), p. 423: a village of the parish of Wreschen (Kreis
     # Wreschen) in the list of localities - not the edition's Amt Sokolnik,
@@ -1145,6 +1200,10 @@ places:
     Varsovie: yes
     Warschau: yes
     Warschau[122]: yes
+    # Kneifel (1937) p. 70: "die evangelisch-reformierte Gemeinde Warschau6)",
+    # the footnote marker printed hard against the word - the Reformed
+    # congregation of Warsaw.
+    Warschau6: yes
     Warschauer: yes
     Warschauische: yes
     Warschauischen: yes
@@ -1172,6 +1231,9 @@ places:
   wien: {Wien: yes}
   wieruszow:
     Wieruszów: "no: the village of Wieruszów in the commune of Gosławice by Konin (Breyer); not the town by Sokolniki of the edition's letters"
+    # Kneifel (1937) p. 173 writes the same village Wieruszew, in the list
+    # of the commune of Gosławice - the same "no".
+    Wieruszew: "no: the village of Wieruszew in the commune of Gosławice by Konin (Kneifel 1937); not the town by Sokolniki of the edition's letters"
     # Minakowska (2026, Helena Zielonacka): "h. Wieruszowa", the arms in
     # the names of the Wierusz-Kowalski family on her page; not the town.
     Wieruszowa: "no: the arms Wieruszowa in the names of the Wierusz-Kowalski family, not the town"
@@ -1181,6 +1243,15 @@ places:
     Wrąbczynkowskich: "no: Wrąbczynkowskie Holendry, the Olęder colony of Wrąbczynek, not Wrąbczyn (Szwiec 2009)"
     Wrąbczyn[kowskie]: "no: the Wrąbczynkowskie Olędry, the Olęder colony of Wrąbczynek (Chodyła 2015)"
     Wrąbczynowskich: "no: the Wrąbczynkowskie Olędry, so printed, the Olęder colony of Wrąbczynek (Chodyła 2015)"
+    # Kneifel (1937) p. 264: "im Wrąbczyner Hauland", among the settlements
+    # of the Peisern region of 1820 - the same colony by Wrąbczynek, the
+    # book's own p. 263 naming Wrąbczynek a part of the cantorate
+    # Wrąbczynkowska Kolonia; not Wrąbczyn.
+    Wrąbczyner: "no: the Wrąbczyner Hauland (Kneifel 1937), the colony by Wrąbczynek, the print's name of the Wrąbczynkowskie Olędry; not Wrąbczyn"
+    # Kneifel (1937), pp. 255-266: "Wrąbczynkowska Kolonia", the cantorate of
+    # the filial of Lissewo-Pyzdry in the commune of Dłusk - the same Olęder
+    # colony by Wrąbczynek; not Wrąbczyn.
+    Wrąbczynkowska: "no: Wrąbczynkowska Kolonia (Kneifel 1937), the Olęder colony by Wrąbczynek; not Wrąbczyn"
   wrabczynek:
     Wrąbczynek: yes
     Wrąbczynka: yes
@@ -1204,6 +1275,9 @@ places:
     Zagórów: yes
     Zagórowa: yes
     Zagórowie: yes
+    # Kneifel (1937) pp. 250 and 252: the genitive, "die Wahl Zagóróws zum
+    # Pfarrort", "Die Erhebung Zagóróws zur Pfarrgemeinde".
+    Zagóróws: yes
     Zagórowskich: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"
     Zagórowskie: "no: the Zagórowskie Olędry, that is Stara Huta (Huta Łukomska), named after the parish of Zagórów; not Zagórów itself (Chodyła 2015)"
     # Karwowski (1900) declines the name lowercase: "przy dobrach zagórskich"
