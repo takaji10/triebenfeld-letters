@@ -936,7 +936,10 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       sale of the lordships "weit unter Wert", against the royal consent
       of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"),
       verify_site.py ALL CHECKS PASSED.
-- [ ] **You:** a look at the work's page, the excerpt and the ruling
+- [x] **You:** a look at the work's page, the excerpt and the ruling
       questions in the notes (the codicil's "60/m tausendstel" above
-      all), then publication at your word. On the branch
-      `ostensacken2001`, built and verified, not yet on `main`.
+      all), then publication at your word. **Merged to main at your
+      word (2026-10-23)** - the branch fast-forwarded onto main and
+      pushed (commit f078b76c; the parallel Echo Tureckie commit beneath
+      it came along, still committed-not-published). Not published: the
+      live-site deploy waits on your "Publish" as for the others.
