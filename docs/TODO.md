@@ -858,27 +858,113 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] Published at your word (built, verified, committed; not yet on
       `main`).
 
-## 27. The newspapers: Kurjer Poznański, "(Zhitleryzowani koloniści)",
+## 27. The newspapers: the parish's own chronicle, Luteranie Konin (added 2026-10-22)
+
+- [x] The page brought in (`newspapers/luteraniezagorow/`): the HTML
+      fetched and taken as printed, nothing tidied, the English made in
+      session; the page's two photographs and the photographs line (Foto
+      Sypniewski) left off at your word, their places marked "[Obraz]".
+- [x] The undated page settled: no date in the slug (your ruling; the
+      plan's rule for a web item given a recorded exception), the footer's
+      2011 kept as the list's sort year alone; the item stands in no era
+      (the `era:` field left out of item.yml for the first time).
+- [x] The index ruled (three new pairs: Zagórów bare, Grodziec twice).
+- [ ] **You:** whether to extend the register's patterns for the forms
+      still unmatched — the same open question as the 2015 report's Ląd
+      forms, now with this item's "Lądu" and its Polish "Śląska, Pomorza,
+      Prus" beside it (NEEDS_CONFIRMATION, "The newspapers").
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).
+
+## 28. The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379 — "Zajście w Zagórowie"
+
+- [x] The clipping brought in (`newspapers/echotureckie1931018/`): read
+      from the scan as the agreement of four Tesseract passes (the
+      Windows.Media.Ocr engine, the plan's third witness, unavailable the
+      day — winrt not importable in the session's Python), six readings
+      ruled on a spot sheet; the English made in session
+      (`newspapers/echotureckie1931018/notes.md`).
+- [x] The citation settled (your rulings): the paper's title Echo
+      Tureckie, the Turek weekly, "Zagórów" naming its Zagórów edition;
+      the whole clipping transcribed; the slug takes the year's issue
+      number (`echotureckie1931018`), the absolute nr 379 stands in the
+      citation alone; the blog's title ZAGÓRÓW-MIEJSCE Z HISTORIĄ for
+      this item, the 1937 clipping's notes untouched.
+- [x] Shown whole (the rights approved; anonymous press of 1931 is
+      public domain besides), the clipping carried on the page; the item
+      names nobody, and the index's hits are Zagórów's three forms
+      already ruled — no new rulings wanted.
+- [x] The work on its own branch `echotureckie1931018` (cut from main as
+      the session found it — the luteraniezagorow commit beneath, the
+      parallel work's own; main itself left where that work stands),
+      built and verified (ALL CHECKS PASSED, 619 documents
+      character-exact).
+- [ ] Published at your word (built, verified, committed; not yet on
+      `main`).
+
+## 29. Kraus (2001), chapter III and Anlagen 8 and 10 (added 2026-10-23)
+
+- [x] The work brought in (`literature/ostensacken2001/`): Gerlinde Kraus,
+      *Christiane Fürstin von der Osten-Sacken* (Stuttgart: Franz Steiner
+      2001), chapter III whole (printed pp. 33-42, the marriage of 1782
+      between Marianne Gräfin von Hoym and Friedrich Ludwig Fürst zu
+      Hohenlohe-Ingelfingen, the Bytkow purchase, the divorce of
+      1799-1801, the second marriage, the marriage contracts) and, from
+      the appendices, Anlage 8 (the daughter's letter of 12 October 1811,
+      "Ein Wort des Vertrauens") and Anlage 10 (the mother's codicil of
+      6 November 1807); the editor's word "Skip what's between" keeps
+      Anlage 9 and the first lines of Anlage 11 out, marked with `[.]`
+      (the Kneifel convention); the title and publishing pages gave the
+      bibliographic record only ("Bibliography only").
+- [x] Read from your two-up page scans by two OCR engines checked against
+      each other (Tesseract 5.5.3, the German traineddata installed for
+      the newspaper work - found on the machine though not on PATH - and
+      the lunaroute converter), doubtful words read at 3x-6x zoom crops;
+      the settled readings and the print's own slips written out in the
+      work's notes.md.
+- [x] **The copyright ruling**: the book is in copyright (2001); with the
+      summary-only rule named, you ruled "Full text, at my word" -
+      `visible: true`, the third full-text exception (the TwojaSłupca
+      report, Werner's entry).
+- [x] Built (14 passages, both languages), the index run over it (the new
+      spellings "Zogorowo" and "Trobczyn" entered as literature-only
+      patterns and ruled; Baildon, Cosmar, Glenk, Kircheisen, Emilie, the
+      princes August, Adolph and Alexander, Öhringen, Langenburg,
+      Neuenstein, Kirchberg, Oppurg and Schlawentzitz ruled yes; the
+      medieval Albrecht and Eberhard of Hohenlohe and the house of
+      Bartenstein ruled no), one hand-made link (p. 42, the prince's
+      sale of the lordships "weit unter Wert", against the royal consent
+      of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"),
+      verify_site.py ALL CHECKS PASSED.
+- [x] **You:** a look at the work's page, the excerpt and the ruling
+      questions in the notes (the codicil's "60/m tausendstel" above
+      all), then publication at your word. **Merged to main at your
+      word (2026-10-23)** - the branch fast-forwarded onto main and
+      pushed (commit f078b76c; the parallel Echo Tureckie commit beneath
+      it came along, still committed-not-published). Not published: the
+      live-site deploy waits on your "Publish" as for the others.
+
+## 30. The newspapers: Kurjer Poznański, "(Zhitleryzowani koloniści)",
       12 lipca 1933 (added 2026-10-22)
 
-- [x] The clipping brought in (`newspapers/kurjerpoznanski19330712/`), the
-      ninth item of the press, from the blog ZAGÓRÓW-MIEJSCE Z HISTORIĄ's
-      post of 24 May 2024 ("To i owo, cz. 2"), the citation carrying the
-      date only; shown whole, the clipping carried on the item's page (a
-      genuine JPEG this time).
+- [x] The clipping brought in (`newspapers/kurjerpoznanski19330712/`),
+      the eleventh item of the press, from the blog ZAGÓRÓW-MIEJSCE Z
+      HISTORIĄ's post of 24 May 2024 ("To i owo, cz. 2"), the citation
+      carrying the date only; shown whole, the clipping carried on the
+      item's page (a genuine JPEG this time).
 - [x] The clipping read by OCR (four passes over the whole, no paid run),
       the doubtful places settled at the pixel level (the ogonek of
       "Trąbczyn" — the print has it and every pass dropped it — the ł of
       "nosiły", the ę of "języku" and "uczęszczające", the g of
       "ewangelik", the period after "Niemców", the comma after "Hitlera",
-      the period after "przekręciło", the „…” round "dzień dobry"), and
-      the four remaining readings put to you on a spot sheet, your answers
-      worked in (the parenthesised lead "(Zhitleryzowani koloniści).",
-      "Ludwigslust", the plain "a";
+      the period after "przekręciło", the „…” round "dzień dobry"),
+      and the four remaining readings put to you on a spot sheet, your
+      answers worked in (the parenthesised lead "(Zhitleryzowani
+      koloniści).", "Ludwigslust", the plain "a";
       `newspapers/kurjerpoznanski19330712/notes.md`).
-- [x] The index run: the item's four hits (Zagórowa, Oleśnica, Trąbczyn,
+- [x] The index run: the item's four hits (Zagórów, Oleśnica, Trąbczyn,
       Ludwigslust) stand under the standing rulings (`newspapers/index.yml`;
-      50 hits in 9 items, all ruled). Szymanowice and Emilienhain match no
+      61 hits in 11 items, all ruled). Szymanowice and Emilienhain match no
       pattern of the register and are recorded in the notes.
 - [x] **Ludwigslust made a place of the register at your word** (2026-10-22):
       `reference/places.yml`, `ludwigslust` — the colony of the Zagórów
@@ -889,18 +975,17 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       its Polish name recorded unmatched (a common-noun phrase). The
       literature's six hits (Breyer 1935 Gaue, Breyer 1938, Wąsicki 1953)
       ruled in `literature/index.yml`; the corpus dataset rebuilt, the two
-      letters' mentions linked (and Breyer's notebook doc 1 caught up its
-      Mielke mentions, stale since that entry was added); the site data,
-      Jekyll and verify all pass.
+      letters' mentions linked; the site data, Jekyll and verify all pass.
 - [ ] **You:** the print's "Emilienhain" against the documents'
-      "Emilienheim" (Breyer's notebook, the 1942 feature) — same colony,
+      "Emilienheim" (Breyer's notebook, the 1942 feature) - same colony,
       second colony, or the print's variant (NEEDS_CONFIRMATION, "The
       newspapers").
-- [ ] **You:** the dismissed teacher of the closing incident — identified
-      by nothing the edition holds; if it were the Łazińsk school's
+- [ ] **You:** the dismissed teacher of the closing incident - identified
+      by nothing the edition holds; if it were the Lazinsk school's
       Mielke, the 1942 feature's "seit 1925" would need a look
       (NEEDS_CONFIRMATION, "The newspapers").
 - [ ] **You:** whether Szymanowice should be a place of the edition
       (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [ ] Published at your word (built, verified, committed; merged to main
+      at your word 2026-10-23; the live-site deploy waits on your word as
+      for the others).

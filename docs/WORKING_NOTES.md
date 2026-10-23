@@ -1562,9 +1562,25 @@ cloud branches").
 - **After publishing English, read the holding's glossary matches.** English
   "entails" and "cession" drew false glossary marks and were reworded. The
   checker forbids "hypothec" in English, Latin "sub hypotheca" included.
+- **No comment header in original.md or english.md** (2026-10-23): what
+  stands before the first page mark is the work's front passage, and the
+  build compares the two languages' front lengths - leading comment lines
+  make a front that never matches. Provenance lives in notes.md and the
+  work.yml header.
 
 ## Traps in the tools
 
+- **A bare web fetch of an HTML page invents print slips** (2026-10-22,
+  the Luteranie Konin parish page). The text conversion drops `<br/>` and
+  `&nbsp;` runs: the page's "proboszczowie parafii<br/>z Grodźca" arrived
+  as "parafiiz Grodźca" — a missing space that the page does not have —
+  and a padded second line arrived as a run of spaces mid-paragraph. For
+  a web item, fetch the **HTML source** (curl into scratch/) and read
+  that before ruling anything a slip; the page's own line breaks are
+  part of "as printed" for a page that sets them deliberately, and a
+  run of non-breaking spaces at a broken line's start cannot stand at a
+  line's start in the Markdown (four spaces and more make a code block)
+  — keep the break, leave the padding to the notes.
 - **A file named .jpg can be a WebP** (2026-10-22, the Dziennik Poznański
   clipping). Windows' own imaging (GDI+, WIC) refuses it —
   `System.Drawing.Bitmap` throws "Parameter is not valid" — while PIL reads
@@ -1598,6 +1614,36 @@ cloud branches").
   line 3 (y 54-80), not where the probe had it. Render the whole page enlarged
   and mark the line bands before probing, and never probe a band the word
   boxes do not cover.
+- **A printed book's numbered notes: the lunaroute converter resolves the
+  superscript markers, Tesseract does not** (2026-10-23, Kraus 2001).
+  Tesseract renders an unresolved superscript as `?`, `*`, `'` or `"` - its
+  apparent closing quotes after "helfen." and "verstarb." were the markers
+  30 and 41, not quotation marks. The lunaroute pass prints them as `^N$`
+  where it can. Read a noted page with both engines, place each marker from
+  the reads, and settle the doubtful ones at crops; where a marker cannot be
+  seen, place it by sense and say so in the notes. TSV also helps:
+  `-c tessedit_create_tsv=1` (the bare `tsv` config name fails when
+  TESSDATA_PREFIX points at a folder without the configs), and the token
+  widths betray a marker (a merged token reads taller or wider; `9.`
+  one digit wide against `1799` four).
+- **Tesseract's German model** (2026-10-23): the installer's tessdata
+  carries English only; a `deu.traineddata` from the tesseract-ocr/tessdata
+  repository was already in the session's tessdata folder
+  (`%TEMP%\opencode\tessdata`, TESSDATA_PREFIX) from an earlier session -
+  it reads a modern Antiqua German book well and is the right second
+  engine beside the lunaroute converter (the converter better at Romance
+  quotations: its French reading of the 1792 letter stood where
+  Tesseract's garbled).
+- **Never rewrite a UTF-8 file with PowerShell's Get-Content /
+  Set-Content** (2026-10-23). A file without BOM is read through the
+  system codepage (cp1252) and written back mojibaked through the whole
+  file; the build does not complain (both languages wrong alike) and the
+  error surfaces only in the built pages. Cut lines with Python
+  (`bytes.split` or read/decode/write), not with Get-Content.
+- **When appending sections to literature/index.yml, check the key is
+  not there already** (2026-10-23). A duplicate key silently shadows the
+  earlier one, and the old ruling vanishes - `--check` catches it as a
+  resurrected "no ruling" for a spelling the file does rule.
 - **An item's uid in the newspapers index is its slug with "-1"**
   (2026-10-22). The register's `only_in` filters pin a spelling to the uid
   it was read in ("Pawłá Prusinskie" to kuryerpolski1754075-1); when the
@@ -2205,3 +2251,11 @@ cloud branches").
   the notes. An article's authorship can rest on the issue's table of
   contents alone when the print carries no signature; say so in the
   account rather than filling `author:` on the file's word alone.
+- **verify_site's leak check and a shared quoted source** (2026-10-23):
+  two books may both quote the same letter (Kraus 2001 and the hidden
+  Seidel 2018 both carry the letter of 12 October 1811), and the 60-
+  character needles of the hidden work then match the shown work's own
+  page. The leak scan now skips the built pages of the works shown on the
+  site (a shown page is the editor's authorised text in full; a hidden
+  work's own page is still checked strictly). Checker internals - decided
+  in session, recorded in the changelog.

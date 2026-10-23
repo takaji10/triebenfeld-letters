@@ -119,6 +119,32 @@ so check them.
 
 ## Where things stand (2026-10-23)
 
+- **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
+  published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
+  (Stuttgart: Franz Steiner 2001), the biography of the mother of
+  Marianne Gräfin von Hoym, the Prince's wife. Chapter III whole (printed
+  pp. 33-42) and, from the appendices, Anlage 8 (the daughter's letter of
+  12 October 1811, "Ein Wort des Vertrauens") and Anlage 10 (the codicil
+  of 6 November 1807); the editor's word "Skip what's between" keeps
+  Anlage 9 and the first lines of Anlage 11 out, marked with `[.]`
+  (the Kneifel convention). Its bearing: p. 42 - the prince sold the
+  lordships "Betsche, Zogorowo, Trobczyn, Botkowo und Winiec **weit unter
+  Wert**" to come by "baare Mittel", the book's spellings of the edition's
+  **Zagórów and Trąbczyn** among them, the sale the wlodzimierz-era
+  ownership line witnesses; a hand-made link ties the passage to the royal
+  consent of 28 January 1806 (app539680801-2). Read by two OCR engines
+  checked against each other from your two-up page scans (Tesseract 5.5.3
+  with the German traineddata installed for the newspaper work - found on
+  the machine though not on PATH - and the lunaroute converter; the
+  lunaroute pass the better reader of the superscript markers and of the
+  French letter in note 21); the settled readings and the print's own
+  slips („Zransact", the "(1792-1822)" of Hardenberg, "Vollblütigkeit",
+  the codicil's "60/m tausendstel") written out in the notes. The book is
+  in copyright: with the summary-only rule named, you ruled "Full text, at
+  my word" - the third full-text exception. Index ruled; verify_site.py's
+  leak check skips shown works' own pages (the shared letter of 1811 with
+  the hidden Seidel). `docs/LITERATURE_PLAN.md`, section 27. Read
+  `literature/ostensacken2001/notes.md` first. Not published.
 - **Werner (1904)** (`werner1904`, added 2026-10-23, **committed, not
   published**): Albert Werner, *Geschichte der evangelischen Parochien in
   der Provinz Posen* (Lissa: Friedrich Ebbecke 1904), the numbered
@@ -293,7 +319,7 @@ so check them.
 - **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
   published**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither
-  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Nine items:
+  holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Five items:
   the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180 (7 August
   1937) — three municipal notes, transcribed line by line from the clipping
   by OCR with **no paid run** (Tesseract 5.5.3 + Polish models installed at
@@ -344,11 +370,53 @@ so check them.
   the clipping's source (the blog Zagórów w historii, its post of 2 October
   2024), the rights approved, the clipping and the Kuryer's page carried on
   the item pages, and **the index of people and places run over the items**
-  (`pipeline/newspapers/newspapers_index.py`; 42 hits all ruled in
+  (`pipeline/newspapers/newspapers_index.py`; 61 hits all ruled in
   `newspapers/index.yml`; the "In the newspapers" boxes on /people/ and
   /places/; Głowiecki stands on /people/ with no documents). Open: the
   Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
   Miączyński heirs (NEEDS_CONFIRMATION). Not
+  published.
+- **The parish's own chronicle** (`luteraniezagorow`, added 2026-10-22,
+  **committed, not published**): the page "Zagórów filiał Parafii
+  Ewangelicko - Augsburskiej w Koninie" on Luteranie Konin
+  (luteranie.konin.pl), the Konin parish's website — "Ważniejsze
+  wydarzenia z życia Parafii w Zagórowie", a chronicle in dated entries
+  from the Reformation among the monks of Ląd in the sixteenth century to
+  the closing of the Evangelical Senior Citizens' Home in 2009, the
+  section's first item from a parish website and its first with no date
+  anywhere (the site's footer reads © 2011; the page stands as of about
+  2015 by its own menus). The editor's rulings of the day: worked on a
+  **separate branch from main** (other work being done there); shown
+  whole (the rights approved), **no date in the slug** — the plan's rule
+  for a web item given a recorded exception, the footer's 2011 kept as
+  the list's sort year alone — **no era** (the `era:` field left out for
+  the first time), **no picture** (the page's two church photographs and
+  the small-print photographs line, Foto Sypniewski, stay off). Read from
+  the page's HTML, nothing tidied: the page's line breaks inside its
+  paragraphs kept; the paste's "Kościół Ewangelicko-Augsburski w
+  Zagórowie" was the photographs' alt text, not prose. Index ruled
+  (`newspapers/index.yml`): Zagórów (three spellings) and Grodziec (two)
+  stand; "Lądu" and the Polish "Śląska, Pomorza, Prus" matched by no
+  pattern (NEEDS_CONFIRMATION). Its bearing: Werner's Wreschen parish
+  (the care from Września to 1817, entry 201) and Kneifel's church of
+  1878-1896. Read `newspapers/luteraniezagorow/notes.md` first. Not
+  published.
+- **The Echo Tureckie clipping** (`echotureckie1931018`, added 2026-10-22,
+  **committed on its own branch, not published**): "Zajście w Zagórowie"
+  in the Zagórów edition of the Turek weekly Echo Tureckie, R. 8, nr 18
+  (6 May 1931), nr 379 — the clash at the recruiting commission of
+  24 April: the workers' crowd stoning the premises when the quota ran
+  out, the starosta of Słupca's police, the second storming, a dozen or
+  more persons arrested. Anonymous, no signature and no siglum. From the
+  blog **ZAGÓRÓW-MIEJSCE Z HISTORIĄ** (the editor's word for the title;
+  the same post of 2 October 2024 the 1937 clipping came from). Read by
+  four Tesseract passes (the Windows engine unavailable the day), six
+  rulings on a spot sheet; the print breaks its words with printed
+  hyphens, so the "¬" convention appears nowhere. Shown whole (the
+  rights approved), the clipping carried. The item names nobody; the
+  index's hits are Zagórów's forms, already ruled. Its bearing: the
+  recruitment for Germany's violence six years before the 1937 column's
+  routine. Read `newspapers/echotureckie1931018/notes.md` first. Not
   published.
 - **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
   published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej

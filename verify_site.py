@@ -264,7 +264,19 @@ def main():
                         mid = len(longest) // 2
                         needles[longest[mid - 30:mid + 30]] = w['slug']
         leaks = collections.Counter()
+        # The pages of the works shown on the site are skipped: two works may
+        # share a quoted sentence of a common source (Kraus 2001 and the
+        # hidden Seidel 2018 both carry the letter of 12 October 1811), and a
+        # shown page is the editor's authorised text in full. A hidden work's
+        # own page is still checked strictly above (summary only).
+        skip = set()
+        for w in shown:
+            for base in ('literature', os.path.join('de', 'literatur')):
+                skip.add(os.path.normpath(os.path.join(SITE, base, w['slug'])))
         for root, dirs, files in os.walk(SITE):
+            if os.path.normpath(root) in skip:
+                dirs[:] = []
+                continue
             for fn in files:
                 if not fn.endswith(('.html', '.js', '.json', '.xml', '.txt', '.csv')):
                     continue

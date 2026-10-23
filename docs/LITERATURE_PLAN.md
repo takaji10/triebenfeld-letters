@@ -1023,3 +1023,77 @@ appears anywhere.
   (Seidel 2018, Dąbrowska 1976, Słowiński 2023, Słowiński & Połom 2024).
   Committed, not published.
 
+
+## 27. Kraus (2001), chapter III and Anlagen 8 and 10 (2026-10-23)
+
+| Slug | Work | Language | Page marks | On the site |
+|---|---|---|---|---|
+| `ostensacken2001` | Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken: Eine frühkapitalistische Unternehmerin und ihre Erben während der Frühindustrialisierung im 18./19. Jahrhundert*, Stuttgart: Franz Steiner Verlag 2001 (Beiträge zur Unternehmensgeschichte, Bd. 10), ISBN 3-515-07721-9 | German | `^\[p\. (?P<page>[^\]]+)\]\s*$` | full text, at the editor's word |
+
+Gerlinde Kraus's dissertation on Christiane Fürstin von der Osten-Sacken
+(1747-1811), born Freiin von Dieskau, the heiress of the Hoym estates, mother
+of Marianne Gräfin von Hoym, and her heirs. Brought in on 2026-10-23 from the
+editor's own two-up page scans (35 TIFFs in `D:\Pictures\Scans\Christiane,
+Fürstin von der Osten-Sacken (2001, Kraus)`; the raw scans and the JPG
+conversions, the Tesseract outputs and the zoom crops stay out of the
+repository, in the scans folder's `processed/` and the repo's `cache/`):
+
+- **Chapter III whole** (printed pp. 33-42): the marriage of 1782 between
+  Marianne Gräfin von Hoym and Friedrich Ludwig Fürst zu
+  Hohenlohe-Ingelfingen, the prince's career, his failed undertakings, the
+  purchase of the Rittergut Bytkow (1801) and its rescue by his
+  mother-in-law, the divorce of 1799-1801, Marianne's second marriage to
+  count Friedrich Ludwig von der Osten-Sacken, and the marriage contracts of
+  1781 and 1787.
+- **Anlage 8** (pp. 325-326), Marianne's letter of 12 October 1811, "Ein
+  Wort des Vertrauens", and **Anlage 10** (pp. 327-328), the mother's
+  codicil of 6 November 1807. The editor's word on the range between:
+  **"Skip what's between"** - Anlage 9 (the obituary of 9 July 1811) and the
+  first lines of Anlage 11 on p. 328 are not brought in, marked with `[.]`
+  lines (the Kneifel convention). The title page and the publishing page
+  gave the bibliographic record only ("Bibliography only").
+- **The book is in copyright (2001; the imprint forbids reproduction and
+  translation).** The standing rule puts such works on the site as a
+  detailed summary only (section 4; Seidel 2018, Dabrowska 1976, the two
+  Slowinski volumes). Put to the editor with the rule named, they ruled:
+  **"Full text, at my word"** - `visible: true`, the third exception of its
+  kind (the TwojaSłupca report, Werner's entry). Recorded in `work.yml` and
+  the work's `notes.md`.
+
+**The reading.** No transcription existed; every line was read from the page
+images by two OCR engines checked against each other - Tesseract 5.5.3 with
+the German traineddata (installed for the newspaper work; not on PATH, the
+program at `C:\Program Files\Tesseract-OCR\tesseract.exe`, `deu` from the
+session's tessdata folder) and the lunaroute converter - with Tesseract's TSV
+output locating doubtful words, read at 3x-6x zoom crops. The lunaroute pass
+proved the better reader of the superscript note markers (Tesseract renders
+unresolved superscripts as `?`, `*`, `'`, `"` - its closing-quote misreadings
+at "helfen." and "verstarb." are markers, not quotes) and of the French
+letter in note 21. The readings settled at zoom and the print's own slips
+(„Zransact" against its own "Transact"; "(1792-1822)" for Hardenberg;
+"Vollblütigkeit"; the "60/m tausendstel" of the codicil; the note-37 anchor)
+are written out in the work's `notes.md`. The chapter's notes 1-43 and the
+Anlagen's own numbering (4-9) collide, so the footnote keys are page-scoped
+(`[^p33-1]`, `[^p325-4]`), as in Kneifel (1964). Notes 21 and 41 are split by
+the print over two pages' footnote areas; each is brought whole where its
+marker stands. Notes 4 and 7 of the Anlagen print on pages of the excerpt but
+their markers stand in text not brought in (Anlage 7's end on the unscanned
+p. 324, Anlage 9's end); the definitions are kept verbatim and may not render
+on the site (the text stays in the corpus passages either way).
+
+**What it bears on**: p. 42 records that the prince, to come by "baare
+Mittel", sold on again **"weit unter Wert"** the lordships "Betsche,
+Zogorowo, Trobczyn, Botkowo und Winiec" - the book's spellings of the
+edition's **Zagórów and Trąbczyn** among them, the sale the wlodzimierz-era
+ownership line witnesses. A hand-made link ties that passage to the royal
+consent of 28 January 1806 to the parcelling of "Zagurowo und Trompczyn"
+(app539680801-2). Index ruled: the new spellings "Zogorowo" and "Trobczyn"
+entered as literature-only patterns and ruled yes; "Betsche" already ruled;
+Baildon, Cosmar, Glenk, Kircheisen, Emilie, the princes August, Adolph and
+Alexander, Öhringen, Langenburg, Neuenstein, Kirchberg, Oppurg and
+Schlawentzitz (Sławięcice) ruled yes; the medieval Albrecht and Eberhard of
+Hohenlohe and the house of Bartenstein ruled no.
+
+- The literature has 35 works, 31 with pages in both languages and four
+  summary-only (Seidel 2018, Dabrowska 1976, Slowinski 2023, Slowinski &
+  Polom 2024). Committed, not published; publish at the editor's word.

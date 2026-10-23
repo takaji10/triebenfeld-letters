@@ -99,6 +99,39 @@
   "context": "Z gospodarki miejskiej, Zarząd miasta Zagórowa"
  },
  {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 1,
+  "context": "Zajście w Zagórowie."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 3,
+  "context": "W dniu 24 kwietnia r.b., miasteczko Za-"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowa",
+  "work": "echotureckie1931018",
+  "cite": "Echo Tureckie (1931)",
+  "passage": "item",
+  "line": 26,
+  "context": "wiatowy w Słupcy przybył do Zagórowa ze"
+ },
+ {
   "kind": "person",
   "entity": "lidmanowski",
   "display": "Dr. Konstanty Lidmanowski",
@@ -251,6 +284,94 @@
   "passage": "item",
   "line": 19,
   "context": "Pyzdrach, Koninie, Kaźmierzu, zá"
+ },
+ {
+  "kind": "place",
+  "entity": "konin",
+  "display": "Konin",
+  "surface": "Koninie",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 1,
+  "context": "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórów",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 1,
+  "context": "Zagórów filiał Parafii Ewangelicko - Augsburskiej w Koninie"
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 3,
+  "context": "Ważniejsze wydarzenia z życia Parafii w Zagórowie"
+ },
+ {
+  "kind": "place",
+  "entity": "grodziec",
+  "display": "Grodziec",
+  "surface": "Grodźca",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 12,
+  "context": "z Grodźca, Konina, Żychlina."
+ },
+ {
+  "kind": "place",
+  "entity": "konin",
+  "display": "Konin",
+  "surface": "Konina",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 12,
+  "context": "z Grodźca, Konina, Żychlina."
+ },
+ {
+  "kind": "place",
+  "entity": "grodziec",
+  "display": "Grodziec",
+  "surface": "Grodziec",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 13,
+  "context": "W Zagórowie założono filiał parafii Grodziec."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 13,
+  "context": "W Zagórowie założono filiał parafii Grodziec."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórowie",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 18,
+  "context": "w Zagórowie."
  },
  {
   "kind": "person",

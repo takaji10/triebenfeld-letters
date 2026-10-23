@@ -12,7 +12,7 @@ repository; they are on the working machine.
 ## Waiting on material
 
 - **The newspapers** (`newspapers/`, begun 2026-10-22;
-  `docs/NEWSPAPERS_PLAN.md`). Nine items in: the "Z Zagórowa" column of
+  `docs/NEWSPAPERS_PLAN.md`). Eleven items in: the "Z Zagórowa" column of
   Dziennik Poznański R. 79, nr 180 (7 August 1937), the Kuryer Polski's
   funeral report of 1754, moved here from the Sources page at the editor's
   word (2026-10-22), with the old /documents/ addresses redirected, the
@@ -20,17 +20,25 @@ repository; they are on the working machine.
   1942), added 2026-10-22, TwojaSłupca's report of the 775th-anniversary
   jubilee of 6 July 2015 (`twojaslupca20150706`, added 2026-10-22: shown
   whole at the editor's word, no picture), the Słowo notice of 4 January
-  1892 (`slowo18920104`, added 2026-10-22), and the three Lidmanowski
+  1892 (`slowo18920104`, added 2026-10-22), the three Lidmanowski
   texts of 2026-10-22 — Zdrowie R. XXVIII, z. 10 (1912) and R. XXX, z. 6
   (1914), and the Jutrzenka digest of 24 April 1913 (`zdrowie1912z10`,
   `zdrowie1914z6`, `jutrzenka1913z8`; shown whole, no pictures, the
   English came with the editor's file and was corrected against the
-  Polish in session) — and the Kurjer Poznański note of 12 July 1933
-  (`kurjerpoznanski19330712`, added 2026-10-22). The rulings of that day are
+  Polish in session) — and the parish's own chronicle of the Zagórów
+  filial on the Konin parish's website (`luteraniezagorow`, added
+  2026-10-22: undated, shown whole at the editor's word, no pictures, no
+  era, no date in the slug) — and Echo Tureckie's report of the clash at
+  the recruiting commission (`echotureckie1931018`, added 2026-10-22:
+  shown whole with the clipping, on its own branch, nothing open in it)
+  — and the Kurjer Poznański note "(Zhitleryzowani koloniści)" of
+  12 July 1933 (`kurjerpoznanski19330712`, added 2026-10-22: shown whole
+  with the clipping, the citation carrying the date only — the clipping
+  gives no issue number and no page). The rulings of that day are
   worked in: the clipping's source (the blog Zagórów w historii, its post of
   2 October 2024), the rights (approved by the editor), the clipping and the
   Kuryer's page shown on the item pages, the index of people and places run
-  over the items (`newspapers/index.yml`, 50 hits all ruled). On the editor:
+  over the items (`newspapers/index.yml`, 61 hits all ruled). On the editor:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
@@ -84,7 +92,12 @@ repository; they are on the working machine.
     and its medieval "Trampczin" are likewise matched by no pattern: the
     register's Ląd pattern takes "Ląd" bare and "Lądzk..." with the initial
     capital only, both built for the Kuryer Polski's print. Same question,
-    whether to extend the register's patterns.
+    whether to extend the register's patterns. The parish chronicle of the
+    Zagórów filial (`luteraniezagorow`, added 2026-10-22) brings the same
+    gap two more witnesses: its "zakonników z Lądu" (the genitive) and its
+    Polish region names "Śląska, Pomorza, Prus" are matched by no pattern —
+    the register's Schlesien pattern is the German word only, built for the
+    1942 article.
   - **The buyer in the Słowo notice of 4 January 1892** (added 2026-10-22):
     the press names her "hr. Władysławowa Wielopolska" — by her husband's
     name, the wife of a Władysław Wielopolski — where the wlodzimierz era's
@@ -1016,6 +1029,31 @@ Places (`reference/places.yml`, `open_questions`):
   - The **Kronschätzmeister** of Prince Adam Poniński: read on the sheet;
     historically he was the Court Treasurer of the Crown (podskarbi
     nadworny koronny), which is Claude's note, not the page's.
+
+- **Kraus (2001)** (added 2026-10-23; its rulings in `literature/index.yml`
+  carry the reasons, and the settled readings and the print's own slips are
+  written out in `literature/ostensacken2001/notes.md`):
+  - The codicil of 6 November 1807 (Anlage 10, p. 328) reads, in both passes
+    and at 5x, "nur bis auf die Summe von **60/m tausendstel** eintreten
+    werde" - "60/m" the old millia notation (60,000), but the following
+    "tausendstel" has no clear sense after the figure (the codicil's cap of
+    60,000 thaler Courant is named a sentence earlier). Kept as read and
+    translated literally ("60/m thousandths"); whether the print garbles the
+    archival wording is the editor's call.
+  - The **„Zransact“** of p. 41 stands against the book's own "Transact"
+    (note 42, and the Anlage 8 letter) - the 6x crop shows a Z (top bar,
+    diagonal, bottom bar, no central stem); Tesseract read Z, lunaroute read
+    T. Kept as read (the print's slip), flagged.
+  - The **anchor of note 37** (p. 41, after "erfolgte.") is the faintest
+    marker placement of the excerpt - the 5x crop shows a small raised mark,
+    but this is the one placement to re-check against the page if any doubt
+    arises.
+  - The **French letter** in note 21 (of 4 February 1792) follows the
+    lunaroute reading with the letter's own slips both passes agree on kept
+    ("coulament", "come", "pue", "sont sortie tous", "des ces bonheur");
+    residual uncertainty in accents and a few verb endings
+    ("régulièrement"/"regulierement", "pleurée et rie", "grée"), which the
+    passes read differently - the words carry no fact.
 
 - **Słowiński (2023) and Słowiński & Połom (2024)** (added 2026-10-22; the
   two works' `notes.md` carry the details):

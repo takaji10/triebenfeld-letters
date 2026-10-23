@@ -64,7 +64,9 @@ patterns:
     # Żychliński and Breyer print the adjective: "klucz Trąbczyński",
     # "majętność Trąmbczyńską" (and "Huta Trąbczyńska", a village of its own).
     # Kneifel (1964) prints "Trombezyn" (p. 41, the Starost's Grundherrschaft).
-    trabczyn: 'Trombczyn|Trobozyn|Trombezyn|Tr[ąa]m?bczyńsk\w*'
+    # Kraus (2001) prints "Trobczyn" (p. 42, among the lordships the prince
+    # sold "weit unter Wert").
+    trabczyn: 'Trombczyn|Trobozyn|Trombezyn|Trobczyn|Tr[ąa]m?bczyńsk\w*'
     # Żychliński and the PSB decline Kolno and Wieniec in Polish: "na Kolnie",
     # "Kolna", "z Kolnem"; "Wieńca", "na Wieńcu".
     kolno: 'Koln(?:ie|a|em)(?![a-zà-ÿ])'
@@ -76,7 +78,9 @@ patterns:
     # first vowel only ("Zagörow", pp. 112, 123, 226, 235) and once breaks it
     # at the line's end, "Zagö-röw" (p. 92). The edition's own pattern takes
     # the o and ó forms ("Zagorow", "Zagórów"), already ruled below.
-    zagorowo: 'zagórskich|Zagö-?r[öo]w(?![a-zà-ÿ])'
+    # Kraus (2001) prints "Zogorowo" (p. 42, among the sold lordships — the
+    # print's own spelling, the o for the a).
+    zagorowo: 'zagórskich|Zagö-?r[öo]w(?![a-zà-ÿ])|Zogorowo'
     # Boniecki (1900) has Imielno as "Mielno" in the list of the Chełmski
     # estates, "Łukomia, Łomowa, Mielna i Bukowa" (the editor, 2026-10-21:
     # "Imielno (Mielna in this document)"). Only in that list.
@@ -160,6 +164,11 @@ people:
     Friedrich Wilhelms des dritten: yes
   fuerst-august:
     Augustus: "no: Augustus II (Frost 2007), King of Poland and Elector of Saxony, caught by the pattern's bare \"f \" lookbehind (\"...support of Augustus II...\"); not Fürst August"
+    # Kraus (2001): the Prince's son and heir August — born 27 November 1784
+    # at Breslau (p. 37), addressed in his mother's letter of 12 October 1811
+    # (p. 326, "Mein Sohn August"), on whom his father's debts fell (p. 41) —
+    # the edition's Friedrich August Karl (1784-1853), the Erbprinz.
+    August: yes
   gaertner:
     Gärtner: "no: the word for a cottager (and Gärtnerei, gardening), not a man named Gärtner"
   gelanski:
@@ -579,9 +588,68 @@ people:
     # minister of state and justice Eberhard von der Reck
     # (NEEDS_CONFIRMATION, "The literature").
     Reck: "no: the Freiherr v. d. Reck of Voß's letter of 12 I 1804, not settled which of the name, not read as the edition's Eberhard von der Reck"
+  albrecht:
+    # Kraus (2001) p. 35: "der allein regierende Albrecht von Hohenlohe"
+    # (1418, raised to sovereign territorial supremacy), in the house's
+    # medieval history — not the edition's Rath Albrecht of Berlin.
+    Albrecht: "no: count Albrecht von Hohenlohe of 1418, in the house's medieval history (Kraus 2001), not the edition's Rath Albrecht of Berlin"
+  baildon:
+    # Kraus (2001): John Baildon throughout — the engineer from Carron near
+    # Edinburgh engaged for the Prince's Upper Silesian undertakings (pp. 38,
+    # 40), his letter of 8 March 1808 cited in note 30 and Anlagen note 4: the
+    # edition's ironmaster, the Prince's partner in the coke blast furnace.
+    Baildon: yes
+  cosmar:
+    # Kraus (2001): the Ober-Medizinal-Rath Cosmar throughout — the mother's
+    # confidant, sent to Güstrow to settle her daughter's debts (the codicil
+    # of 6 November 1807), addressed in the letter of 12 October 1811 — the
+    # edition's Cosmar.
+    Cosmar: yes
+  eberhard:
+    # Kraus (2001) p. 35: "die Grafen Ludwig Casimir und Eberhard", who
+    # resolved the partition of the Hohenlohe land in 1555 — not the edition's
+    # Justizcommissarius Eberhard of Brieg.
+    Eberhard: "no: count Eberhard of Hohenlohe, of the land partition of 1555 (Kraus 2001), not the edition's Justizcommissarius Eberhard of Brieg"
+  emilie:
+    # Kraus (2001) p. 37 and the French letter in note 21: Emilie, the
+    # Prince's daughter born 20 November 1788, married to the count of
+    # Erbach-Fürstenau — the same daughter the edition knows from the will of
+    # 1805 (she was to inherit Koszęcin if the male line ended).
+    Emilie: yes
+  glenck:
+    # Kraus (2001) p. 36: Hofrat Glenk, the Prince's adviser, who counselled
+    # the mining and salt-work investments and drew profit from them — the
+    # edition's Hofrat Glenk.
+    Glenk: yes
+  hohenlohe-bartenstein:
+    # Kraus (2001) p. 35: the house and line of Bartenstein in the house's
+    # history (the 1688 division, count Christian the progenitor), and note 13
+    # (p. 36) the line's princes collectively (the exile of Mirabeau's
+    # brother) — not the edition's Prince of Hohenlohe-Bartenstein himself.
+    Bartenstein: "no: the house and line of Bartenstein in the Hohenlohe house's history (Kraus 2001), not the edition's Prince of Hohenlohe-Bartenstein"
+  kircheisen:
+    # Kraus (2001), Anlage 8 (p. 325): the letter addressed "für jetzt an
+    # dessen Statt Sr. Excellenz den Herrn Justiz Minister von Kircheisen" —
+    # the Prussian justice minister the edition's person is.
+    Kircheisen: yes
+  prinz-adolph:
+    # Kraus (2001): the Prince's younger son Adolph — born 29 January 1797
+    # (p. 37), later Prussian minister president, married to Luise von
+    # Langenburg; addressed in his mother's letter (pp. 325, 326) — the
+    # edition's Prinz Adolph.
+    Adolph: yes
+  prinz-alexander:
+    # Kraus (2001) p. 37: "Am 3. Juli 1798 wurde zuletzt Prinz Alexander
+    # geboren († 1829)" — the edition's Prinz Alexander, the Prince's
+    # youngest son.
+    Alexander: yes
 
 places:
   # The estates of the edition (shown on the Places page).
+  # Kraus (2001) p. 42: "die Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo
+  # und Winiec weit unter Wert wieder verkauft" — the lordships the prince
+  # sold; the edition's documents write the village's name Botkowo as well.
+  batkowo: {Botkowo: yes}
   betsche: {Betsche: yes}
   brzyce:
     # Kneifel (1964) p. 41: "1791 gab A. Reptowski, Domherr an der Posener
@@ -624,6 +692,12 @@ places:
     Kamionnej: yes
     Kamionnie: yes
     Kamionny: yes
+  kirchberg:
+    # Kraus (2001) pp. 35, 37: the seat of the Hohenlohe-Kirchberg line (the
+    # lines of Ingelfingen and Kirchberg formed in 1701; Adelaide married
+    # "Ludwig aus der Linie Hohenlohe-Kirchberg") — the town the edition's
+    # entry is.
+    Kirchberg: yes
   kolno:
     Culm: "no: Chełmno and Kulm law, not Kolno"
     Kulmischen: "no: Kulm law, not Kolno"
@@ -650,15 +724,44 @@ places:
     Krotosczyner: yes
     Crotozcyn: yes
     Krotoszyna: yes
+  langenburg:
+    # Kraus (2001) pp. 34, 35: the lordship of Langenburg (the Staufer's grant
+    # in the house's medieval history) and the line named by its seat ("die
+    # Linien Langenburg", "Von der Linie Langenburg") — the town the edition's
+    # entry is.
+    Langenburg: yes
   lowyn:
     Lowin: yes
     Löwin:
       default: "no: the word for a lioness"
       except:
         materialien1861/145: the Prince's estates in the black register
+  neuenstein:
+    # Kraus (2001) p. 35: the main line of Neuenstein and its counts, named by
+    # their seat ("Hohenlohe-Neuenstein", "der Hauptlinie Neuenstein", "die
+    # Grafen der Neuensteiner Linie") — the town the edition's entry is.
+    Neuenstein: yes
+    Neuensteiner: yes
   oehringen:
     # Wąsicki (1953) prints "Ohringen": Öhringen near Heilbronn, seat of Nothardt's recruiting office.
     Ohringen: yes
+    # Kraus (2001): the town throughout — the collegiate foundation ("Das
+    # Chorherrenstift in Oehringen"), the city's petition in the Reformation
+    # years, the prince brought there as a prisoner in 1806, and "PA
+    # Oehringen" in the archive references of notes 42 and 43 — the seat of
+    # the Hohenlohe-Oehringen line.
+    Oehringen: yes
+  oppurg:
+    # Kraus (2001), note 41 (p. 42): "Vgl. ThHStAW, RG Oppurg 132" — the
+    # Rittergut Oppurg in the Thuringian state archive's reference, the source
+    # of the death notice: the edition's Oppurg of the Prince's majorat.
+    Oppurg: yes
+  schlawenschitz:
+    # Kraus (2001) pp. 40, 41 (three times): the Fürstin's Silesian estate —
+    # "vereinigte Bytkow mit Schlawentzitz zu einem Fideikommiß", the debts
+    # and the administration of Schlawentzitz — the edition's Sławięcice of
+    # the Prince's majorat; the form is among its listed variants.
+    Schlawentzitz: yes
   polajewo: {Polajewo: yes}
   stoki:
     Stocki: yes
@@ -703,6 +806,10 @@ places:
     # Grundherr von Trombezyn", the Starost as the founder of Łazińsk in
     # 1746) — the print's own spelling of Trąbczyn.
     Trombezyn: yes
+    # Kraus (2001) p. 42: "die Herrschaften Betsche, Zogorowo, Trobczyn,
+    # Botkowo und Winiec weit unter Wert wieder verkauft" — the lordship
+    # among those the prince sold, the print's own spelling.
+    Trobczyn: yes
   trabczynskie-stare-oledry:
     # The editor's ruling of 2026-10-22: Kolonia Łazińskie (Mielewczyk 2017,
     # p. 48, among the new villages founded on the parcelled lands of the
@@ -1113,3 +1220,7 @@ places:
     # Städte Peisern und Zagorowo" of the Hauländer country the parish lost
     # in 1817 - the town beside Peisern/Pyzdry.
     Zagorowo: yes
+    # Kraus (2001) p. 42: "die Herrschaften Betsche, Zogorowo, Trobczyn,
+    # Botkowo und Winiec weit unter Wert wieder verkauft" — the lordship
+    # among those the prince sold; the print's own spelling, the o for the a.
+    Zogorowo: yes
