@@ -1,0 +1,77 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: wrabczynek
+heading: Wrąbczynek
+register: wrabczynek
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: northwest of Wrąbczyn
+  relation: northwest-of
+  relative_to: wrabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village northwest of Wrąbczyn. First mentioned as *Parvum Vronchin* (Latin for “Small Wrąbczyn”) in an 1173 document where Mieszko I granted the village to Ląd Abbey which included “salt, lakes, fishing, hunting, and other uses.”[^109] Wrąbczynek was traded in 1362 by Ląd Abbey to Casimir III the Great in exchange for part of the forest called *Czirnetz* near Kazimierz.[^110] Mentioned as *Wraczina* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Wrąbczynek and other villages.[^111] Re-established as a settlement around 1770 by Szczepan Turna, starost of Pietrzyków.[^112] *Wromsziniek* (von Pfau 1770); with a windmill (Wreschen 1901).
+names:
+- form: Wrąbczynek
+  year: null
+  note: heading
+  footnote: null
+- form: Parvum Vronchin
+  year: 1173
+  note: First mentioned as
+  footnote: 109
+- form: Wraczina
+  year: 1440
+  note: Mentioned as
+  footnote: 111
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Wromsziniek
+  note: null
+- map: wreschen1901
+  form: null
+  note: with a windmill
+footnotes:
+- n: 109
+  text: Zakrzewski, vol. 1, No. 20
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 20
+    link: /documents/kdw/1/
+    status: linked
+  note: null
+- n: 110
+  text: Zakrzewski, vol. 3, No. 1464
+  refs:
+  - source: kdw
+    locator: vol. 3, no. 1464
+    link: /documents/app5314550221/4/#p1
+    status: linked
+  note: null
+- n: 111
+  text: Gąsiorowski and Jasiński, vol. 10, Nos. 1520 & 1532
+  refs:
+  - source: kdw
+    locator: vol. 10, no. 1520
+    link: /documents/kdw/20/
+    status: linked
+  - source: kdw
+    locator: vol. 10, no. 1532
+    link: /documents/kdw/21/
+    status: linked
+  note: null
+- n: 112
+  text: Chodyła 49
+  refs:
+  - source: chodyla2015
+    locator: p. 49
+    link: /literature/chodyla2015/#p-49
+    status: linked
+  note: null
+review: []

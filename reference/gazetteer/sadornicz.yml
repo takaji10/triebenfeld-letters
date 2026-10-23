@@ -1,0 +1,31 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: sadornicz
+heading: Sadornicz
+register: null
+status: historical
+kind: unknown
+kind_text: Unknown place
+location:
+  text: between Wrąbczynek and Myszaków
+  relation: between
+  relative_to: null
+  belongs_to: null
+  precision: unknown
+  lat: null
+  lon: null
+text_en: Unknown place which existed between Wrąbczynek and Myszaków. Only one map noted this feature (von Pfau 1770).
+names:
+- form: Sadornicz
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: vonpfau1770
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review:
+- 'location: between "Wrąbczynek" and "Myszaków": relative_to left null'

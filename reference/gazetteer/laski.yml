@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: laski
+heading: Laski
+register: null
+status: historical
+kind: folwark
+kind_text: Folwark
+location:
+  text: west of Trąbczyn
+  relation: west-of
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Folwark which existed west of Trąbczyn. Only one map noted this feature (Kozłowski 1861).
+names:
+- form: Laski
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: kozlowski1861
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review: []

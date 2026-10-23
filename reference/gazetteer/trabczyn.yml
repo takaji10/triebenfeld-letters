@@ -1,0 +1,119 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: trabczyn
+heading: Trąbczyn
+register: trabczyn
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: southeast of Zagórów
+  relation: southeast-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village southeast of Zagórów. First mentioned as *Trampczino* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^81] Trąbczyn (*Trupcino*) was given to Count Nicholas, treasurer of Ląd in 1276 by Duke Bolesław V the Chaste after the former owner Count Ianchoni, son of Simon, died without an heir.[^82] Nicholas was granted permission to lease Trąbczyn (*Tropcssino*) by Przemysł II in 1284.[^83] Trąbczyn was owned by the brothers Johannis and Przedpełk, and Andreas in 1346.[^84] The village was also mentioned in 1399 (as *Trambczyno*) when the Archbishop of Gniezno ruled that the tithing of a portion of crops from Trąbczyn were to be given to Ląd Abbey, instead of to the village’s rector Johannes.[^85] The Geographical Dictionary of the Kingdom of Poland in 1892 stated that Trąbczyn had a wooden parish church, an elementary school, a post office, distilleries, an oil mill, a brickyard, and a windmill.[^86] In the early 20th
+  century, Trąbczyn was surrounded by a folwark with the same name as the town (Pełzucki 1901). Renamed to *Drommin* during Nazi Germany occupation (Hohensalza 1942) and was part of *Amtsbezirk (District) Drommin*.[^87] *Trąmbczino* (Blaeu 1665); *Trompzin* (von Pfau 1770); *Trąpczin* (Perthées 1798); with a windmill and chapel/church (Gilly 1802).
+names:
+- form: Trąbczyn
+  year: null
+  note: heading
+  footnote: null
+- form: Drommin
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Trampczino
+  year: 1240
+  note: First mentioned as
+  footnote: 81
+- form: Drommin
+  year: 1942
+  note: Renamed to
+  footnote: 87
+aliases:
+- Drommin
+maps:
+- map: pelzucki1901
+  form: null
+  note: In the early 20th century, Trąbczyn was surrounded by a folwark with the same name as the town
+- map: hohensalza1942
+  form: Drommin
+  note: Renamed to during Nazi Germany occupation
+- map: blaeu1665
+  form: Trąmbczino
+  note: null
+- map: vonpfau1770
+  form: Trompzin
+  note: null
+- map: perthees1798
+  form: Trąpczin
+  note: null
+- map: gilly1802
+  form: null
+  note: with a windmill and chapel/church
+footnotes:
+- n: 81
+  text: Zakrzewski, vol. 1, No. 222
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 222
+    link: /documents/kdw/2/
+    status: linked
+  note: null
+- n: 82
+  text: Ibid No. 460
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 460
+    link: /documents/kdw/5/
+    status: linked
+  note: null
+- n: 83
+  text: Ibid No. 535
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 535
+    link: null
+    status: missing
+  note: null
+- n: 84
+  text: Zakrzewski, vol. 2, Nos. 1252 & 1253
+  refs:
+  - source: kdw
+    locator: vol. 2, no. 1252
+    link: /documents/kdw/9/
+    status: linked
+  - source: kdw
+    locator: vol. 2, no. 1253
+    link: /documents/kdw/10/
+    status: linked
+  note: null
+- n: 85
+  text: Zakrzewski, vol. 3, No. 2014
+  refs:
+  - source: kdw
+    locator: vol. 3, no. 2014
+    link: /documents/kdw/13/
+    status: linked
+  note: null
+- n: 86
+  text: “Trąbczyn” 448-449
+  refs:
+  - source: slownik
+    locator: '"Trąbczyn", pp. 448-449'
+    link: null
+    status: missing
+  note: null
+- n: 87
+  text: Jehke
+  refs:
+  - source: jehke
+    locator: null
+    link: https://www.territorial.de/wart//konin/drommin.htm
+    status: linked
+  note: null
+review: []

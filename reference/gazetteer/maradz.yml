@@ -1,0 +1,33 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: maradz
+heading: Maradz
+register: null
+status: historical
+kind: forest
+kind_text: Forest
+location:
+  text: southwest of Stanisławów
+  relation: southwest-of
+  relative_to: stanislawow
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and as a settlement (Messtischblatt 1940).
+names:
+- form: Maradz
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: kozlowski1861
+  form: null
+  note: Appeared as a forest
+- map: messtischblatt1940
+  form: null
+  note: Appeared as a forest (Kozłowski 1861) and as a settlement
+footnotes: []
+review: []

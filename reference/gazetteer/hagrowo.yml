@@ -1,0 +1,36 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: hagrowo
+heading: Hagrowo
+register: null
+status: historical
+kind: unknown
+kind_text: Unknown place
+location:
+  text: null
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: unknown
+  lat: null
+  lon: null
+text_en: Unknown place. Mentioned in a population table of Zagórów Catholic parish from 1790-91.[^23]
+names:
+- form: Hagrowo
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 23
+  text: Archiwum Arcybiskupów Gnieźnieńskich 34a
+  refs:
+  - source: visitation-1791
+    locator: 34a
+    link: /documents/adwl85/2/#p1
+    status: linked
+  note: null
+review:
+- 'footnote: n=23 archive name differs from the edition (ADWł 85)'

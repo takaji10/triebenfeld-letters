@@ -1,0 +1,53 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: lusnie-oledry
+heading: Lusnie Olędry
+register: null
+status: historical
+kind: oleder-settlement
+kind_text: Olęder settlement
+location:
+  text: in the southwest corner of the Trąbczyn estate in the Lusnie forest from 1771 to 1775
+  relation: in
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Olęder settlement which existed in the southwest corner of the Trąbczyn estate in the Lusnie forest from 1771 to 1775. A 1775 border commission report detailed a dispute between the estates of Trąbczyn and Łukom, which involved an inn and twelve Olęder farms that were illegally taken in 1771 by Stanisław Chełmski, owner of the Łukom estate. While the farms had originally been part of Trąbczyńskie Stare Olędry, over the next five years the area became known as *Lusnie Olędry*, *Łukomskie Olędry*, and *Chełmskie Olędry*. In 1775, Chełmski was forced to return the land to Antoni Prusimski, then owner of the Trąbczyn estate. According to the border commission report, Trąbczyńskie Stare Olędry was founded in the forests of *Miąsykąt*, *Dziadulina*, and *Lusnie*.[^44] The location of Lusnie Olędry was not recorded on any known maps, with the exception of a map which was drawn for the 1775 border commission by “Reverend Benedict Woronowski, Doctor of Theology and Philosophy, and current
+  Professor of Philosophy at the Academy of Poznań,”[^45] which has not survived.
+names:
+- form: Lusnie Olędry
+  year: null
+  note: heading
+  footnote: null
+- form: Chełmskie Olędry
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Lusnie Olędry
+  year: null
+  note: known as
+  footnote: null
+aliases:
+- Chełmskie Olędry
+maps: []
+footnotes:
+- n: 44
+  text: “Relationes-oblatae [protocollon],” 1776, 692
+  refs:
+  - source: konin-gr145
+    locator: '692'
+    link: /documents/app53170koningr145/1/#p76
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+- n: 45
+  text: Ibid 679v
+  refs:
+  - source: konin-gr145
+    locator: 679v
+    link: /documents/app53170koningr145/1/#p51
+    status: linked
+  note: null
+review: []

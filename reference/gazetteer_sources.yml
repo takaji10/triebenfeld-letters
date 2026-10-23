@@ -1,0 +1,260 @@
+# The works the gazetteer cites (docs/GAZETTEER_PLAN.md), and where each is in
+# the edition.
+#
+# The editor's place index (reference/gazetteer/, imported 2026-10-23 from
+# their file "Place Names.md") cites its facts in footnotes. Each footnote is
+# resolved to one or more references: a key below and a locator (a volume and
+# number, a leaf, a page). The key says where the work is in the edition, and
+# so whether the footnote can link to it now.
+#
+#   cite        the work, written out once
+#   kind        archive | edition | book | article | dictionary | register |
+#               web | genealogy
+#   resolve     how a locator becomes a link (pipeline/gazetteer/gazetteer.py):
+#                 kdw         volume and number -> the Kodeks document
+#                 leaves      a leaf of a court book ("692", "668v") -> its page
+#                 table       an explicit locator -> document (and page) table
+#                 document    always the one document named in `document`
+#                 literature  a page -> the work's page on the site
+#                 work        always the work's page (a work shown by summary)
+#                 glossary    always the glossary entry named in `glossary`
+#                 url         always the address in `url`
+#                 none        not in the edition: the footnote stays a citation
+#   in_project  what of it the edition holds, in a few words
+#   wanted      for a work not (or not wholly) in the edition: what the
+#               gazetteer needs of it. docs/MISSING_SOURCES.md is made from
+#               this and the footnotes that cite it.
+#
+# Where the editor's citation and the edition's record of the same source
+# differ (the archive's name, a date), the key carries `differs:` and
+# docs/NEEDS_CONFIRMATION.md ("The gazetteer") asks.
+
+sources:
+
+  # --- in the edition --------------------------------------------------------
+
+  kdw:
+    cite: >-
+      Kodeks Dyplomatyczny Wielkopolski, vols. 1-3 ed. Ignacy Zakrzewski
+      (1877-1879), vol. 5 ed. Franciszek Piekosiński (1908), vols. 6, 7, 10
+      ed. Antoni Gąsiorowski with Tomasz Jasiński, Ryszard Walczak and Wojciech
+      Kowalewicz (1982-1993)
+    kind: edition
+    resolve: kdw
+    in_project: "21 entries, the holding kdw; the volumes as HTML on the editor's J: drive"
+    # A Kodeks entry the edition holds in another witness: the Ląd copy-book's
+    # copy of the exchange of 1362 (APP 53/1455/0/2/21, pp. 25-26).
+    other_witnesses:
+      "3/1464": {document: app5314550221-4, page: 1}
+    wanted: "the entries cited and not yet in the holding (the volumes are on the editor's drive: kdw_source.py reads them)"
+
+  lad-copybook:
+    cite: >-
+      APP 53/1455/0/2/21, Klasztor cystersów w Lądzie: the copy-book of the
+      abbey's privileges (eighteenth century), pages as the archive's pencil
+      numbers
+    kind: archive
+    resolve: table
+    table:
+      "13-14": {document: app5314550221-2, page: 1}
+      "25-26": {document: app5314550221-4, page: 1}
+      "66": {document: app5314550221-6, page: 1}
+    in_project: "pp. 13-15, 25-26, 66 (app5314550221)"
+
+  konin-gr145:
+    cite: >-
+      APP 53/17/0/-/Konin Gr.145, Relationes-oblatae [protocollon] 1776: the
+      decree of the boundary commission between Trąbczyn and Łukomia of 1775
+    kind: archive
+    resolve: leaves
+    document: app53170koningr145-1
+    # Scan NNNN shows leaf NNNN-1 verso (_a1) and leaf NNNN recto (_a2): leaf
+    # 692 is 0692_a2, leaf 668v is 0669_a1 (units/app53170koningr145/notes.md;
+    # checked 2026-10-23 against the phrases the editor's footnotes quote:
+    # leaf 656 "Trąbczynkiem", 692 "Dziadulina", 693 "Cygany", 679v
+    # "Woronowski", 659 "Podbiel").
+    in_project: "leaves 654v-715, whole (app53170koningr145)"
+
+  app539680801:
+    cite: >-
+      APP 53/968/0/-/801, [Odpis dokumentów w sprawie parcelacji majątków
+      Zagórowo, Witów i Trąbczyn z lat 1805-1806]
+    kind: archive
+    resolve: document
+    document: app539680801-3
+    in_project: "whole (app539680801); pp. 7-16 are document 3, the lease of 21 March 1806"
+
+  breyer-grodziec:
+    cite: >-
+      APP 53/968/0/-/669, Albert Breyer, "Grodziec [Notatki dotyczące Grodźca,
+      Józefowa, Zamentu, Łazińska]", notebook of July 1936
+    kind: archive
+    resolve: document
+    document: app539680669-2
+    in_project: "whole (app539680669, document 2)"
+
+  agad1745:
+    cite: >-
+      AGAD 1/169/0/1/1745, "Die neuesten topografischen Nachrichten von
+      Südpreussen" (about 1797)
+    kind: archive
+    resolve: table
+    table:
+      "401": {document: agad1169011745-1, page: 1}
+    in_project: "pp. 401-406 (agad1169011745)"
+
+  visitation-1791:
+    cite: >-
+      ADWł 85, Akta wizytacji dekanatu konińskiego 1790-1791 (the editor's
+      footnotes: "Archiwum Arcybiskupów Gnieźnieńskich")
+    kind: archive
+    resolve: table
+    table:
+      "24v": {document: adwl85-1, page: 3}
+      "34a": {document: adwl85-2, page: 1}
+    differs: >-
+      The editor's footnotes name the Archiwum Arcybiskupów Gnieźnieńskich;
+      the edition has these leaves (24v, 34a) as ADWł 85, the Diocesan
+      Archive in Włocławek.
+    in_project: "leaves 23v-25v, 28v-29v, 34a (adwl85)"
+
+  breyer1935gaue:
+    cite: 'Albert Breyer, "Deutsche Gaue in Mittelpolen" (1935)'
+    kind: book
+    resolve: literature
+    work: breyer1935gaue
+
+  chodyla2015:
+    cite: >-
+      Zbigniew Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy
+      Pyzdrskiej 1746-1793 (2015)
+    kind: book
+    resolve: literature
+    work: chodyla2015
+
+  szwiec2009:
+    cite: >-
+      Piotr Szwiec, Katalog architektury regionalnej dla obszaru „Puszczy
+      Pyzdrskiej" (2009)
+    kind: book
+    resolve: literature
+    work: szwiec2009
+
+  slowinskipolom2024:
+    cite: 'Mirosław Słowiński and Katarzyna Połom (eds.), Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej (2024)'
+    kind: book
+    # Kept off the site (copyright): its page shows the summary only, so the
+    # link goes to the work's page, not to a page of it.
+    resolve: work
+    work: slowinskipolom2024
+
+  minakowska-zielonacka:
+    cite: 'Maria Jadwiga Minakowska, Wielcy.pl genealogy database (sejm-wielki.pl), "Helena Zielonacka (ID: 2.976.216)"'
+    kind: genealogy
+    resolve: work
+    work: minakowska2026zielonacka
+
+  arct:
+    cite: 'Michał Arct, Słownik ilustrowany języka polskiego (1916), "Stawisko", p. 774'
+    kind: dictionary
+    resolve: glossary
+    glossary: stawisko
+
+  jehke:
+    cite: >-
+      Rolf Jehke, Territoriale Veränderungen in Deutschland und deutsch
+      verwalteten Gebieten 1874-1945, s.v. Amtsbezirk Drommin
+    kind: web
+    resolve: url
+    url: "https://www.territorial.de/wart//konin/drommin.htm"
+
+  wikimapia-szetlewek:
+    cite: 'Wikimapia, "Młyn w Szetlewku", accessed 6 June 2026'
+    kind: web
+    resolve: url
+    url: "https://wikimapia.org/22360753/pl/M%C5%82yn-w-Szetlewku"
+
+  # --- in the edition in part: the volume is there, the cited leaves are not --
+
+  konin-gr120:
+    cite: "APP 53/17/0/-/Konin Gr.120, Relationes [protocollon] 1785-1786"
+    kind: archive
+    resolve: none
+    in_project: "two entries (app53170koningr120); not leaves 161-167v"
+    wanted: "leaves 161-167v: the challenge to the inheritance of Trąbczyn (1784), with Szetlewek's history from 1671"
+
+  courtbook-1589:
+    cite: "APP 53/6/0/-/17, Inscriptiones, relationes, decreta [inducta] 1589"
+    kind: archive
+    resolve: none
+    in_project: "one entry, leaves 27v-28 (app536017)"
+    wanted: >-
+      leaves 22-23v, 28-29 and 32v-35v: the Trąmpczyński suit over the mill
+      between Trąbczyn and Szetlewo (two of these entries are on the editor's
+      scans and not transcribed: docs/TODO.md, section 7)
+
+  # --- not in the edition ----------------------------------------------------
+
+  kalisz-1727:
+    cite: "Relationes, citationes [protocollon] 1726-1727 (Kalisz municipal court)"
+    kind: archive
+    resolve: none
+    wanted: "1727, p. 222: Sebastjan Szetlewicz of Szetlewko"
+
+  app536701:
+    cite: "APP 53/67/0/-/1, mortgage documents relating to Imielno Olędry"
+    kind: archive
+    resolve: none
+    wanted: "the unit (named by the editor as further reading on Imielno)"
+
+  perthees1796:
+    cite: >-
+      Karol Perthées, "Geograficzno statystyczne opisanie parafiów Królestwa
+      Polskiego w roku 1796"
+    kind: archive
+    resolve: none
+    wanted: "the parishes of Zagórów (p. 125, image 251) and Grodziec (p. 127, image 255), with Perthées' sketch of Zagórów parish"
+
+  slownik:
+    cite: >-
+      Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich
+      (Warsaw 1880-1902)
+    kind: dictionary
+    resolve: none
+    wanted: "the entries cited (the editor's drive has Trąbczyn and Łukom as text)"
+
+  trabczyn-marriages-1597-1775:
+    cite: "Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775"
+    kind: register
+    resolve: none
+    wanted: "the pages cited"
+
+  trabczyn-births-1691-1784:
+    cite: "Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764"
+    kind: register
+    resolve: none
+    wanted: "the pages cited"
+
+  trabczyn-marriages-births-1776-1797:
+    cite: "Parafja Trąbczyn (Słupca): Akta Małżeństw 1776-1793 -- Akta Urodzeń 1784-1797"
+    kind: register
+    resolve: none
+    wanted: "the pages cited"
+
+  trabczyn-births-1808-1825:
+    cite: "Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825 (2005)"
+    kind: register
+    resolve: none
+    wanted: "the entries cited"
+
+  trabczyn-1826:
+    cite: "Parafja Trąbczyn (Słupca): Akta Urodzeń, Małżeństw, Zgonów 1826 (2005)"
+    kind: register
+    resolve: none
+    wanted: "the entry cited"
+
+  zagorow-lutheran-births-1915-1921:
+    cite: "Parafja Zagórów (Słupca): Akta Urodzeń 1915-1921 (1982)"
+    kind: register
+    resolve: none
+    wanted: "the entries cited (1920 nos. 12-13, 1921 no. 25)"

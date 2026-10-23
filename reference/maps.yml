@@ -1,0 +1,140 @@
+# The maps the edition refers to (docs/GAZETTEER_PLAN.md, "The maps").
+#
+# Keyed by a short slug; `cited_as` is the editor's own short form in the
+# gazetteer ("Gilly 1802"), which the gazetteer's map appearances are parsed
+# from. None of the maps is in the edition yet: each has `in_project: false`
+# until its image is brought in, and docs/MISSING_SOURCES.md lists them with
+# the details still to be filled in.
+#
+#   cited_as    the editor's short form, exactly as in their text
+#   year        the year in the short form (the map's date, as the editor has it)
+#   title, maker, scale, holder, reference, url
+#               the map's full description, to be filled in when the map is
+#               brought in (from the editor's Maps folder or its archive)
+#   kind        estate | parish | regional | topographic | military | town |
+#               sketch | atlas
+#   in_project  false until the image is in the edition
+#
+# Two of the editor's short forms name a place and a year (Łukom 1766,
+# Trąbczyn 1790, Zagorowo 1799, Zagórów 1841, Słupca 1957, Wreschen 1901,
+# Hohensalza 1942): the parser matches only the exact form with its year.
+
+maps:
+  blaeu1665:
+    cited_as: "Blaeu 1665"
+    year: 1665
+    kind: atlas
+    in_project: false
+  lukom1766:
+    cited_as: "Łukom 1766"
+    year: 1766
+    kind: estate
+    in_project: false
+  vonpfau1770:
+    cited_as: "von Pfau 1770"
+    year: 1770
+    in_project: false
+  trabczyn1790:
+    cited_as: "Trąbczyn 1790"
+    year: 1790
+    kind: estate
+    in_project: false
+  perthees1798:
+    cited_as: "Perthées 1798"
+    year: 1798
+    in_project: false
+  zagorowo1799:
+    cited_as: "Zagorowo 1799"
+    year: 1799
+    in_project: false
+  krolikow1800:
+    cited_as: "Królików 1800"
+    year: 1800
+    in_project: false
+  slupetsk1800:
+    cited_as: "Slupetsk 1800"
+    year: 1800
+    in_project: false
+  gilly1802:
+    cited_as: "Gilly 1802"
+    year: 1802
+    in_project: false
+  pambo1803:
+    cited_as: "Pambo 1803"
+    year: 1803
+    in_project: false
+  hollring1804:
+    cited_as: "Hollring 1804"
+    year: 1804
+    in_project: false
+  weydner1804:
+    cited_as: "Weydner 1804"
+    year: 1804
+    in_project: false
+  colberg1827:
+    cited_as: "Colberg 1827"
+    year: 1827
+    in_project: false
+  reymann1834:
+    cited_as: "Reymann 1834"
+    year: 1834
+    in_project: false
+  zagorow1841:
+    cited_as: "Zagórów 1841"
+    year: 1841
+    in_project: false
+  richter1843:
+    cited_as: "Richter 1843"
+    year: 1843
+    in_project: false
+  chrzanowski1858:
+    cited_as: "Chrzanowski 1858"
+    year: 1858
+    in_project: false
+  kozlowski1861:
+    cited_as: "Kozłowski 1861"
+    year: 1861
+    in_project: false
+  pelzucki1896:
+    cited_as: "Pełzucki 1896"
+    year: 1896
+    in_project: false
+  pelzucki1901:
+    cited_as: "Pełzucki 1901"
+    year: 1901
+    in_project: false
+  wreschen1901:
+    cited_as: "Wreschen 1901"
+    year: 1901
+    kind: topographic
+    in_project: false
+  trojwiorstowki1914:
+    cited_as: "Trójwiorstówki 1914"
+    year: 1914
+    kind: military
+    in_project: false
+  wig1933:
+    cited_as: "Wojskowy Instytut Geograficzny 1933"
+    year: 1933
+    kind: military
+    in_project: false
+  messtischblatt1940:
+    cited_as: "Messtischblatt 1940"
+    year: 1940
+    kind: topographic
+    in_project: false
+  hohensalza1942:
+    cited_as: "Hohensalza 1942"
+    year: 1942
+    kind: topographic
+    in_project: false
+  slupca1957:
+    cited_as: "Słupca 1957"
+    year: 1957
+    kind: topographic
+    in_project: false
+  ams1962:
+    cited_as: "Army Map Service 1962"
+    year: 1962
+    kind: military
+    in_project: false

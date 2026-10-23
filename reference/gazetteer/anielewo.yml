@@ -1,0 +1,40 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: anielewo
+heading: Anielewo
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: southwest of Łukom
+  relation: southwest-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village southwest of Łukom. Originally named *Kolonia Ingelfingen* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after his family name. Renamed to Anielewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation.
+names:
+- form: Anielewo
+  year: null
+  note: heading
+  footnote: null
+- form: Kolonia Ingelfingen
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Kolonia Ingelfingen
+  year: null
+  note: Originally named
+  footnote: null
+- form: Anielewo
+  year: 1891
+  note: Renamed to
+  footnote: null
+aliases:
+- Ingelfingen, Kolonia
+maps: []
+footnotes: []
+review: []

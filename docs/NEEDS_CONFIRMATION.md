@@ -213,6 +213,93 @@ repository; they are on the working machine.
     entries the editor chose is not asserted
     (`places/zagorowo/zagorowpl20220614/notes.md`).
 
+- **The gazetteer** (`reference/gazetteer/`, imported 2026-10-23 from the
+  editor's "Place Names.md"; `docs/GAZETTEER_PLAN.md`). The editor's text
+  stands as written until they rule; each point says what the documents
+  say and what Claude proposes. Sources the entries cite and the edition
+  lacks are in `docs/MISSING_SOURCES.md`, not here.
+  - **The grant of 1173 (Wrąbczynek) is Mieszko III's.** The entry has
+    "Mieszko I granted the village"; the Kodeks entry (I, no. 20; kdw-1)
+    is "Mesico dux Polonie", dated 1173, and Mieszko I died in 992.
+    Proposed: "Mieszko III".
+  - **1411 (Drzewce): an office, not a scullery.** The entry has "the
+    monastery's abbott Gerhard exchanged a scullery in Drzewce with a
+    scullery in Kownaty". The document (V, no. 191; kdw-15) exchanges the
+    *scultetia*, the office and holding of the village headman
+    (schultheiss, Polish sołtys), in Drzewiec for that in Kownaty, with
+    Piotr, headman of "Nowe Zagórowo, also called Drzewiec". Proposed:
+    "the office of village headman (sołectwo)" for "scullery".
+  - **1418 (Wrąbczyn, Drzewce): farms, not villages.** The entries have
+    Ląd trading "Wrąbczyn and its meadows ... to Laurencius Yelonouicz in
+    exchange for Drzewce". The document (V, no. 280; kdw-18) exchanges the
+    abbey's farm in Great Wrąbczyn, with the meadows Obroczna and
+    Dokolowka, for the peasant Wawrzyniec Jeleniowicz's farm in Drzewce.
+    Proposed: "the abbey's farm in Wrąbczyn ... for his farm in Drzewce".
+  - **1440 (Adamierz, Wrąbczynek): a charge, not a bequest.** The entries
+    have Władysław III "bequeathed Stanisław the Black 500 grzywny". The
+    two documents (X, nos. 1520 and 1532; kdw-20, kdw-21) charge 300 and
+    then 200 marks on the royal villages of Wrąbczynek, Adamierz and
+    Borzykowo, held by Stanisław Czarny until repaid. Proposed: "secured
+    500 grzywny (300 and 200) for Stanisław the Black on ...".
+  - **The archive of the visitation of 1791.** Footnotes 23 and 38 cite
+    the "Archiwum Arcybiskupów Gnieźnieńskich", leaves 34a and 24v; the
+    edition has these leaves as ADWł 85, the Diocesan Archive in
+    Włocławek. Which is right? The footnotes link to ADWł 85 meanwhile.
+  - **"Renamed ... in 1891 ... by the Polish authorities".** Eight entries
+    (Anielewo, Augustynów, Chruściki, Mały Las, Michalinów Oleśnicki,
+    Olchowo, Tarszewo, Zalesie) say so; in 1891 the area was in the Russian partition, with no Polish
+    authority to rename it. Słowiński & Połom (2024), p. 299, date the
+    German names 1804-1891 and do not say who changed them. Say whether
+    "the Russian authorities" is meant, or another year.
+  - **The colonies' names in the documents of 1805-1808.** The entries
+    give the colonies' original names as *Kolonia Augustinhof*, *Adelhof*,
+    *Friedrichsfeld*, *Ingelfingen*, *Adolfsberg*, *Emilienheim/
+    Emilienhain*. The Prince's own lists (Oe 1 Bü 9454, letter 177 of 24
+    September 1805, the established new villages with their Morgen and
+    farmers; letter 24 of 25 September 1806; letter 32 of 3 April 1808)
+    write Augustinow, Adelowo/Adelow, Friedrichsfelde, **Klein**
+    Ingelfingen (at Grądzyń), Adolphsberg, Emilienhain/Emilienhayn.
+    Breyer's notebook of 1936 has Augustenhoff and Emilienheim; Słowiński
+    & Połom (p. 299) Augustinenhof and Adelshof. Proposed: the documents'
+    forms as the colonies' names, the later forms kept as names of the
+    place with their sources.
+  - **Augustynów and the lease of 21 March 1806.** The entry dates
+    Augustinhof's founding to the lease (APP 53/968/0/-/801, document 3).
+    The lease names no colony: eighteen settlers take 100 Hufen of the
+    Drzewiec forest. The list of September 1805 (letter 177) already
+    counts Augustinow among the established colonies (40 farmers, 1,200
+    Morgen), and Alexandrow with 18 farmers on Drzewce. Which colony the
+    lease founds is open; proposed: the entry to say the lease is of the
+    Drzewce forest, without naming the colony, until a document does.
+  - **Identifications with the register**, settled by the editor's entries
+    unless they say otherwise:
+    - *Łukomskie Olędry* (west of Łukom, Perthées 1798) and *Lusnie
+      Olędry* (the twelve farms Chełmski held 1771-1775) are two places,
+      as the register's open question already suspected; the register's
+      variant "Chełmskie Olędry" belongs to Lusnie Olędry. The register
+      gives 1771-81 for the temporary one, the entry 1771-1775. The
+      decree of 1775's matches of "Łukomskie Olędry" are to be ruled
+      again in step 7 of the plan.
+    - *Laski*, a folwark west of Trąbczyn (Kozłowski 1861), may be the
+      register's **Laske** ("Alt und Neu Laske", a village of the Trąbczyn
+      holding in the deeds of Oe 1 Bü 14525, not identified). Kept
+      apart until the editor says.
+    - *Łazińskie Olędry* (the merger of the Old and New Olędry, first in
+      1822): the register folds "Łazińsk"/"Lazinsk" into Trąbczyńskie
+      Stare Olędry (the ruling of 2026-10-22), and the edition reads
+      Mielewczyk's "Kolonia Huta" (2017, p. 48) as the Nowo-Łazińska
+      colony, where the entry has Huta Trąbczyńska as a hamlet west of
+      Łazińsk Drugi. Both to be read again against the entry.
+    - *Kolonia Ingelfingen* (Anielewo) is not the register's
+      `ingelfingen`, the Hohenlohe town in Württemberg.
+  - **"See Huta".** The cross-reference "*Stara Huta Olędry* — See
+    **Huta**" points to no entry; Huta Trąbczyńska (whose entry has *H.
+    Stara Huta* on Richter 1843) or Huta Łukomska (*Stara Huta*)?
+  - **The figures of the book.** Six entries refer to figures (Fig. 56,
+    74, 75, 76 and 78, and "Map 26, Tab. 26"), which seem to be the figures of the
+    editor's book. On the site they point nowhere: keep, drop, or replace
+    with the map once it is in?
+
 
 
 - **I. HA GR, Rep. 7 C, Nr. 3709** is transcribed and translated

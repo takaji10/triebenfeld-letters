@@ -124,6 +124,24 @@ Where the rest is:
   estate, its people or its dates is not a source, is not checked against
   the documents, and does not go into NEEDS_CONFIRMATION, the story, a
   person's entry or anything else on the site.
+  **The exception is writing they give as content** (2026-10-23): their
+  index of places ("Place Names.md", the gazetteer) is both a style sample
+  and text for the site, so its facts are read against the documents and
+  the differences go into NEEDS_CONFIRMATION, as for any source. Ask which
+  it is if a new sample does not say.
+- **Simple steps go to a Sonnet sub-agent** (the editor, 2026-10-23: "For
+  the simple steps, use a sub-agent with the Sonnet model. Save the tough
+  stuff for Opus."). Mechanical work (parsing a file into data, a script
+  to a precise spec, running checks, generating a list) is handed to an
+  agent with `model: sonnet` and a written spec: the files it may write,
+  the schema, the rules, what it must not touch, no commits. The main
+  session keeps the design, the identifications, the comparison with the
+  documents and the prose, works on them while the agent runs, and reads
+  the agent's output before anything is committed. The gazetteer import
+  was the first (`docs/GAZETTEER_PLAN.md`, step 1).
+- **No method talk on a reader's page** (the editor, 2026-10-23: "I never
+  explain to the reader what I'm doing or how (like this project tends to
+  over-do)"): HOUSE_STYLE, "No method talk".
 
 ## Reading and correcting the text
 

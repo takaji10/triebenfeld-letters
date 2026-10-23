@@ -1,0 +1,62 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: drzewce
+heading: Drzewce
+register: drzewce
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Zagórów
+  relation: south-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Zagórów. First mentioned in a privilege document from Ląd Abbey in 1362.[^12] Drzewce (*Drzewycz*) was mentioned as an alias of *Nouo Sagorowo* (Pl. *Zagórowo Nowe*) in 1411, when the monastery’s abbott Gerhard exchanged a scullery in Drzewce with a scullery in Kownaty.[^13] Possibly mentioned in a 1418 document concerning the abbey’s trading of Wrąbczyn to Laurencius Yelonouicz in exchange for Drzewce (*Drzewcza*), although the source expressed uncertainty as to which Drzewce was being referenced. The document stated that Drzewce had been purchased by Yelonouicz from the monastery’s previous abbot Heinrich.[^14] Breyer noted that the estate was parceled around 1900 and that German settlers claimed some of the land.[^15] *Drziwza* (von Pfau 1770).
+names:
+- form: Drzewce
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Drziwza
+  note: null
+footnotes:
+- n: 12
+  text: Klasztor cystersów w Lądzie 25-26
+  refs:
+  - source: lad-copybook
+    locator: 25-26
+    link: /documents/app5314550221/4/#p1
+    status: linked
+  note: null
+- n: 13
+  text: Piekosiński No. 191
+  refs:
+  - source: kdw
+    locator: vol. 5, no. 191
+    link: /documents/kdw/15/
+    status: linked
+  note: null
+- n: 14
+  text: Ibid No. 280
+  refs:
+  - source: kdw
+    locator: vol. 5, no. 280
+    link: /documents/kdw/18/
+    status: linked
+  note: null
+- n: 15
+  text: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
+  refs:
+  - source: breyer-grodziec
+    locator: null
+    link: /documents/app539680669/2/
+    status: linked
+  note: null
+review: []

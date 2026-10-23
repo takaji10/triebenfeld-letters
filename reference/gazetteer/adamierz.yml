@@ -1,0 +1,59 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: adamierz
+heading: Adamierz
+register: adamierz
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Wrąbczynkowskie Holendry
+  relation: south-of
+  relative_to: wrabczynkowskie-holendry
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza* in a 1377 document where Palatine Przecław of Kalisz and others protested to Louis I of Hungary that Wrąbczynek with the adjoining village of Adamierz belonged to Ląd Abbey.[^1] Mentioned as *Nadomirz* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Adamierz and other villages.[^2] Known in metrical records as *Yadomierzh’ (Ядомиржъ)* during the Russian period (ca. 1868-1915).
+names:
+- form: Adamierz
+  year: null
+  note: heading
+  footnote: null
+- form: Nadamirza
+  year: 1377
+  note: First mentioned as
+  footnote: 1
+- form: Nadomirz
+  year: 1440
+  note: Mentioned as
+  footnote: 2
+- form: Yadomierzh’ (Ядомиржъ)
+  year: 1868-1915
+  note: Known in metrical records as
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Zakrzewski, vol. 3, No. 1739
+  refs:
+  - source: kdw
+    locator: vol. 3, no. 1739
+    link: /documents/kdw/11/
+    status: linked
+  note: null
+- n: 2
+  text: Gąsiorowski and Jasiński, vol. 10, Nos. 1520 & 1532
+  refs:
+  - source: kdw
+    locator: vol. 10, no. 1520
+    link: /documents/kdw/20/
+    status: linked
+  - source: kdw
+    locator: vol. 10, no. 1532
+    link: /documents/kdw/21/
+    status: linked
+  note: null
+review: []

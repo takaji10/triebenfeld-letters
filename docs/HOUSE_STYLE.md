@@ -298,6 +298,28 @@ the interface strings and the literature's links) found no signposts:
 23 matches, every one a false alarm ("addressed to", "the witnesses are
 examined"). The rule guards what is written next.
 
+## No method talk
+
+The editor, 2026-10-23, of their own index of places: "note that I never
+explain to the reader what I'm doing or how (like this project tends to
+over-do)". A page about a place, a person, a document or a work begins
+with the facts. It has no sentence on what the page gathers, how it was
+made, what was read or compared, or which rule it follows; its sources are
+in its footnotes and links, and its doubts in a "possibly" or a "likely"
+where the fact stands.
+
+```
+NO   The page gathers what the place tells about itself, beside what the
+     edition's documents tell about it.          (Zagórów's page, 2026-10-22)
+NO   Where a source and the documents differ, the documents stand.
+```
+
+Method has two places, and only there is it told: the About page and a
+holding's "How it was prepared" (above, "A holding's own page" and "About
+the edition"). The project's record goes in `docs/` and the notes. A
+reading of the site's existing pages for method talk is offered to the
+editor (`docs/TODO.md`), not yet done.
+
 ## English
 
 Everything into English unless there truly is no equivalent. A *Kriegs- und

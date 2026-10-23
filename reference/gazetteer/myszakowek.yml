@@ -1,0 +1,53 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: myszakowek
+heading: Myszakówek
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Łukom
+  relation: east-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Łukom. According to Chodyła, Myszakówek was established as an Olędry[^50] before 1789 (however, it does not appear on Łukom 1766) on the initiative of the owner of the Łukom/Łomów estates as part of a village of mixed legal and organisational status that included *Stara Huta* and *Zagórowskie Olędry*.[^51] First appeared on Perthées 1798; as *Myszakowko* (Gilly 1802).
+names:
+- form: Myszakówek
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: lukom1766
+  form: null
+  note: According to Chodyła, Myszakówek was established as an Olędry before 1789 (however, it does not appear on
+- map: perthees1798
+  form: null
+  note: First appeared on
+- map: gilly1802
+  form: Myszakowko
+  note: as
+footnotes:
+- n: 50
+  text: Ibid 78
+  refs:
+  - source: chodyla2015
+    locator: p. 78
+    link: /literature/chodyla2015/#p-78
+    status: linked
+  note: null
+- n: 51
+  text: Ibid 70
+  refs:
+  - source: chodyla2015
+    locator: p. 70
+    link: /literature/chodyla2015/#p-70
+    status: linked
+  note: null
+review:
+- 'maps: the italic form of Łukom 1766 follows the map name in its sentence'

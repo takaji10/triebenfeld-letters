@@ -1,0 +1,77 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: gradzyn
+heading: Grądzeń
+register: gradzyn
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Łukom
+  relation: south-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege document from Ląd Abbey, which was sold by the German Bochneth family to the monastery for the sum of 400 Cologne marks.[^21] *Pustkowie Grądziem* included three farms in Łukom, the forests of *Grądziem*, *Chmielniki*, and *Łome* (the latter forest which extended up to the road known as *Rosaszewska* that ran from Łukom and Łomow to the inns known as *Karczemne Gory* and *Karczemne Ługi*), the Pyzdry crag/cliff, and the meadow above Imielno.[^22] *Grązien* (Łukom 1766); *Pustkowie Grądzin* (Perthées 1798); *Grondzyn* (Gilly 1802); *Haulanderei Grądzyn* as part of the Kopojno estate (Hollring 1804); with a customs office as *Grazin* (Richter 1843); *Hol. Grądzeń* (Chrzanowski 1858).
+names:
+- form: Grądzeń
+  year: null
+  note: heading
+  footnote: null
+- form: Pustkowie Grądziem
+  year: 1461
+  note: Mentioned as
+  footnote: 21
+- form: Rosaszewska
+  year: null
+  note: known as
+  footnote: 22
+- form: Karczemne Gory
+  year: null
+  note: known as
+  footnote: 22
+- form: Karczemne Ługi
+  year: null
+  note: known as
+  footnote: 22
+aliases: []
+maps:
+- map: lukom1766
+  form: Grązien
+  note: null
+- map: perthees1798
+  form: Pustkowie Grądzin
+  note: null
+- map: gilly1802
+  form: Grondzyn
+  note: null
+- map: hollring1804
+  form: Haulanderei Grądzyn
+  note: as part of the Kopojno estate
+- map: richter1843
+  form: Grazin
+  note: with a customs office as
+- map: chrzanowski1858
+  form: Hol. Grądzeń
+  note: null
+footnotes:
+- n: 21
+  text: Klasztor cystersów w Lądzie 13-14
+  refs:
+  - source: lad-copybook
+    locator: 13-14
+    link: /documents/app5314550221/2/#p1
+    status: linked
+  note: null
+- n: 22
+  text: Ibid
+  refs:
+  - source: lad-copybook
+    locator: 13-14
+    link: /documents/app5314550221/2/#p1
+    status: linked
+  note: null
+review: []

@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: tarczewo
+heading: Tarczewo
+register: null
+status: historical
+kind: folwark
+kind_text: Folwark
+location:
+  text: south of Kopojno
+  relation: south-of
+  relative_to: kopojno
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Folwark which existed south of Kopojno. Only one map noted this feature (Reymann 1834).
+names:
+- form: Tarczewo
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: reymann1834
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review: []

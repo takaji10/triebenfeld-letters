@@ -1,0 +1,41 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: myszakow
+heading: Myszaków
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Myszakówek
+  relation: east-of
+  relative_to: myszakowek
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek were simultaneously established before 1789 by the owner of the Łukom estate.[^49] *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901).
+names:
+- form: Myszaków
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Miszokowo
+  note: null
+- map: wreschen1901
+  form: null
+  note: with a windmill
+footnotes:
+- n: 49
+  text: Chodyła 70
+  refs:
+  - source: chodyla2015
+    locator: p. 70
+    link: /literature/chodyla2015/#p-70
+    status: linked
+  note: null
+review: []

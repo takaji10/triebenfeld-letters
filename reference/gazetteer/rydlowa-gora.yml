@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: rydlowa-gora
+heading: Rydlowa Góra
+register: null
+status: extant
+kind: mound
+kind_text: Earthen mound
+location:
+  text: north of Zagórów
+  relation: north-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Earthen mound north of Zagórów. Once a historic settlement built around the 9th/10th century. Appeared on Messtischblatt 1940.
+names:
+- form: Rydlowa Góra
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: messtischblatt1940
+  form: null
+  note: Appeared on
+footnotes: []
+review: []

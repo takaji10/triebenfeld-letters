@@ -1,0 +1,36 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: potaszniki
+heading: Potaszniki
+register: null
+status: historical
+kind: null
+kind_text: null
+location:
+  text: null
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: unknown
+  lat: null
+  lon: null
+text_en: Location unknown. Mentioned in Trąbczyn Catholic parish metrical records in the latter half of the 18th century. In one case, a record from 1768 referred to this place as “Potaszniki v[el] Huta” in Latin (“Potaszniki or Huta” in English).[^62] Possibly named after a local noble(?) family with the same last name (*Potasznicki*) as seen in metrical records.
+names:
+- form: Potaszniki
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 62
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 214/Image 255'
+  refs:
+  - source: trabczyn-births-1691-1784
+    locator: Page 214/Image 255
+    link: null
+    status: missing
+  note: null
+review:
+- 'kind: no kind word in the entry (it begins "Location unknown.")'

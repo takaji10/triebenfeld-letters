@@ -1,0 +1,39 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: ostrowiec
+heading: Ostrowiec
+register: null
+status: historical
+kind: forest
+kind_text: Forest
+location:
+  text: near Włodzimirów
+  relation: near
+  relative_to: wlodzimirow
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Forest near Włodzimirów. Mentioned in a 1775 border commission report which detailed a boundary dispute between the estates of Trąbczyn and Łukom.[^58] Noted as far east as Koszelewska Łąka on Weydner 1804 as “*Gegend der Ostrowiec”* (Area of Ostrowiec), but it is unclear if this was referring to the forest.
+names:
+- form: Ostrowiec
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: weydner1804
+  form: null
+  note: Noted as far east as Koszelewska Łąka on
+footnotes:
+- n: 58
+  text: “Relationes-oblatae [protocollon],” 1776, 692
+  refs:
+  - source: konin-gr145
+    locator: '692'
+    link: /documents/app53170koningr145/1/#p76
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+review:
+- 'maps: the italic form of Weydner 1804 follows the map name in its sentence'

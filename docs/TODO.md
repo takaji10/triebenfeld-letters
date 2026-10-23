@@ -1019,3 +1019,39 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       at your word 2026-10-23** — the branch dziennikpoznanski18791220
       fast-forwarded onto main; the live-site deploy waits on your Publish
       word, as for the other committed-not-published work).
+
+## 32. The gazetteer: the editor's index of places (added 2026-10-23)
+
+The editor's "Place Names.md": 112 places around Trąbczyn and Zagórów, 119
+footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
+
+- [x] Step 1, the import: the file kept verbatim
+      (`reference/gazetteer/source/`), one YAML per place, every footnote
+      resolved to a source key (`reference/gazetteer_sources.yml`), the maps
+      listed (`reference/maps.yml`), the check and the missing list
+      (`pipeline/gazetteer/gazetteer.py`, `docs/MISSING_SOURCES.md`). The
+      parsing done by a Sonnet sub-agent at your word.
+- [x] The fourth sample of your voice analysed (EDITORS_VOICE, "Index
+      entries"); "No method talk" made a house rule (HOUSE_STYLE).
+- [ ] **You:** the points in NEEDS_CONFIRMATION, "The gazetteer" (Mieszko
+      III; the 1411 "scullery"; the 1418 farms; the 1440 charges; the
+      archive of the visitation; the 1891 renaming; the colonies' names in
+      the documents of 1805-1808; Augustynów and the lease of 1806; the
+      identifications with the register; "See Huta"; the book's figures).
+- [ ] Step 2: Claude's reading of the import (the names and map
+      appearances against the text, the review notes cleared).
+- [ ] Step 3: the pages (a page per place in English and German, the A–Z
+      list on the Places page, Zagórów's entry above its sources, the new
+      places into the register, the checks in verify_site.py).
+- [ ] Step 4: the dataset (JSON, CSV, the search page).
+- [ ] Step 5: the labelling page for the maps, and the first map, at your
+      choice of map.
+- [ ] Step 6: the interactive map, once coordinates are in.
+- [ ] Step 7 (at your word, once the outstanding sources are in): the
+      index of the new places in the documents, and the enhancement pass.
+- [ ] Offered: the ten Kodeks entries the gazetteer cites and the
+      holding lacks (I nos. 228, 535; II nos. 672, 795, 1044; III nos.
+      1363, 1478, 1490, 1491, 1519; III no. 1464 is in the edition as the
+      Ląd copy-book's copy) can be added from the volumes on your J: drive.
+- [ ] Offered: a reading of the site's existing pages for method talk
+      (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.

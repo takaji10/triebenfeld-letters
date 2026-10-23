@@ -1,0 +1,27 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: warta
+heading: Warta River
+register: null
+status: extant
+kind: river
+kind_text: River
+location:
+  text: running east to west along the northern border of Zagórów Gmina
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: River running east to west along the northern border of Zagórów Gmina.
+names:
+- form: Warta River
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes: []
+review: []

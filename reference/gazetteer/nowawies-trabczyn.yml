@@ -1,0 +1,52 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: nowawies-trabczyn
+heading: Nowa Wieś
+register: nowawies-trabczyn
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: west of Trąbczyn
+  relation: west-of
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical records from Trąbczyn parish.[^53] According to a court document from 1775, Nowa Wieś was also known as *Trąbczyn Mały*.[^54]
+names:
+- form: Nowa Wieś
+  year: null
+  note: heading
+  footnote: null
+- form: Trąbczyn Mały
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Trąbczyn Mały
+  year: 1775
+  note: also known as
+  footnote: 54
+aliases:
+- Trąbczyn Mały
+maps: []
+footnotes:
+- n: 53
+  text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334'
+  refs:
+  - source: trabczyn-marriages-1597-1775
+    locator: Page 1/Image 334
+    link: null
+    status: missing
+  note: null
+- n: 54
+  text: “Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],” 1776, 656)
+  refs:
+  - source: konin-gr145
+    locator: '656'
+    link: /documents/app53170koningr145/1/#p4
+    status: linked
+  note: “Trąbczynkiem małym, czyli nowa Wsią nazwaną”
+review: []

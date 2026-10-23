@@ -1,0 +1,59 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: lukom
+heading: Łukom
+register: lukom
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: southwest of Zagórów
+  relation: southwest-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village southwest of Zagórów. First mentioned as *Lukome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^42] Łukom was also an estate owned by the Ścibor-Chełmski family roughly from the 15th to 19th centuries. In 1884 it was 204 *włóka* (5,850 morgen or 33 km²) in size and included the settlements of Łukom, Łukomska Huta, Bukowe, Imielno, Małgorzatów, Myszaków, and Adamierz.[^43] *Lukom* (Łukom 1766); with a chapel and water mill (Gilly 1802); with a tavern (Reymann 1834); with a manor house (Richter 1843). Also see *Koczogowa*.
+names:
+- form: Łukom
+  year: null
+  note: heading
+  footnote: null
+- form: Lukome
+  year: 1240
+  note: First mentioned as
+  footnote: 42
+aliases: []
+maps:
+- map: lukom1766
+  form: Lukom
+  note: null
+- map: gilly1802
+  form: null
+  note: with a chapel and water mill
+- map: reymann1834
+  form: null
+  note: with a tavern
+- map: richter1843
+  form: null
+  note: with a manor house
+footnotes:
+- n: 42
+  text: Zakrzewski, vol. 1, No. 222
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 222
+    link: /documents/kdw/2/
+    status: linked
+  note: null
+- n: 43
+  text: “Łukom” 818
+  refs:
+  - source: slownik
+    locator: '"Łukom", p. 818'
+    link: null
+    status: missing
+  note: null
+review: []

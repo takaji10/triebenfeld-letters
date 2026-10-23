@@ -2748,3 +2748,47 @@ lose his estates. The era page writes Konotop, not Kontop.
   WBC download). The item is visible (anonymous press of 1879, public
   domain); committed, not published; publish at the editor's word.
 
+
+## 2026-10-23 - The gazetteer: the editor's index of places (step 1, the import)
+
+- **The editor's "Place Names.md"** (their own index of the places around
+  Trąbczyn and Zagórów: 112 entries, 21 cross-references, 119 footnotes)
+  kept verbatim in `reference/gazetteer/source/` and imported into one
+  YAML per place (`reference/gazetteer/<slug>.yml`) by
+  `pipeline/gazetteer/import_place_names.py` (a record; the YAML is edited
+  by hand from here on). The plan, agreed with the editor the same day, is
+  `docs/GAZETTEER_PLAN.md`: the modern name heads an entry, the register's
+  slugs stay, the editor's text is kept as written, every place gets a
+  page, the work is on the branch `gazetteer`.
+- **The footnotes resolved**: every work they cite is a key of
+  `reference/gazetteer_sources.yml`, with how a locator becomes a link.
+  76 of the 119 footnotes link to the edition (the Kodeks entries by volume
+  and number; the leaves of the boundary decree of 1775 to their pages,
+  the foliation checked against five quoted phrases; the Ląd copy-book,
+  the lease of 1806, Breyer's notebook, the village table of 1797, the
+  visitation of 1791, Chodyła, Breyer, Szwiec, Słowiński & Połom,
+  Minakowska, the glossary's "stawisko"). The Kodeks no. 1464 (1362) the
+  edition holds as the Ląd copy-book's copy, and the footnote links to it.
+- **The maps** the entries cite listed in `reference/maps.yml` (27 maps,
+  179 appearances; none in the edition yet).
+- **`docs/MISSING_SOURCES.md`**, the running list of sources still to bring
+  in (the editor's word): its gazetteer part made by
+  `pipeline/gazetteer/gazetteer.py --missing`, a part by hand for what the
+  rest of the project waits on. `gazetteer.py --check` holds the links,
+  keys and slugs.
+- **Read against the documents**: the points where the entries and the
+  edition's documents differ are in NEEDS_CONFIRMATION, "The gazetteer",
+  the text unchanged until the editor rules (Mieszko III for the grant of
+  1173; the 1411 *scultetia* read as "scullery"; the 1418 exchange of farms;
+  the 1440 charges of 300 and 200 marks; the colonies' names as the
+  Prince's lists of 1805-1808 write them; Augustynów and the lease of 1806;
+  the archive of the visitation; the renaming of 1891; four identifications
+  with the register). The 1287 of the exchange of Wrąbczyn agrees with the
+  Kodeks (no. 685 confirms in 1292 an exchange "made five years before").
+- **The editor's voice**: the file analysed as a fourth sample, of index
+  entries, with a brief of its own (`docs/EDITORS_VOICE.md`); the editor's
+  remark on method made a house rule (`docs/HOUSE_STYLE.md`, "No method
+  talk").
+- The parsing and the scripts were done by a Sonnet sub-agent at the
+  editor's word (WORKING_NOTES, "Working with the editor"); its output read
+  and the links spot-checked before commit.

@@ -1,0 +1,44 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: stawisko
+heading: Stawisko
+register: null
+status: extant
+kind: isolated-dwellings
+kind_text: Isolated dwellings
+location:
+  text: southeast of and belonging to Łomów
+  relation: southeast-of
+  relative_to: lomow
+  belongs_to: lomow
+  precision: described
+  lat: null
+  lon: null
+text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962).
+names:
+- form: Stawisko
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: lukom1766
+  form: Brod Kaliski
+  note: A significant swamp crossing existed west from here called and was shown on a map of the Łukom estate from 1766
+- map: richter1843
+  form: null
+  note: Appeared as a folwark
+- map: ams1962
+  form: null
+  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s
+footnotes:
+- n: 68
+  text: Arct, “Stawisko,” 774
+  refs:
+  - source: arct
+    locator: p. 774
+    link: /glossary/#stawisko
+    status: linked
+  note: null
+review: []

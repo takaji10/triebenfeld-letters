@@ -1,0 +1,79 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: imielno
+heading: Imielno
+register: imielno
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: north of Łukom
+  relation: north-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Iemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843).
+names:
+- form: Imielno
+  year: null
+  note: heading
+  footnote: null
+- form: Imielno Olędry
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Chemelino
+  year: 1243
+  note: First mentioned as
+  footnote: 27
+aliases:
+- Imielno Olędry
+maps:
+- map: lukom1766
+  form: null
+  note: This appears likely as
+- map: richter1843
+  form: Iemielna
+  note: null
+footnotes:
+- n: 27
+  text: Zakrzewski, vol. 1, No. 238
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 238
+    link: /documents/kdw/3/
+    status: linked
+  note: null
+- n: 28
+  text: Klasztor cystersów w Lądzie 13-14
+  refs:
+  - source: lad-copybook
+    locator: 13-14
+    link: /documents/app5314550221/2/#p1
+    status: linked
+  note: null
+- n: 29
+  text: Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.
+  refs:
+  - source: chodyla2015
+    locator: p. 70
+    link: /literature/chodyla2015/#p-70
+    status: linked
+  - source: app536701
+    locator: unit 53/67/0/-/1
+    link: null
+    status: missing
+  note: null
+- n: 30
+  text: Ibid 78
+  refs:
+  - source: chodyla2015
+    locator: p. 78
+    link: /literature/chodyla2015/#p-78
+    status: linked
+  note: null
+review:
+- 'maps: the italic form of Łukom 1766 follows the map name in its sentence'

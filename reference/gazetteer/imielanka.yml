@@ -1,0 +1,33 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: imielanka
+heading: Imielanka
+register: null
+status: historical
+kind: settlement
+kind_text: Settlement
+location:
+  text: north of Łukom
+  relation: north-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Settlement which existed north of Łukom. Only one map noted this feature (Richter 1843). Possibly *Kol. Imielno* (Messtischblatt 1940).
+names:
+- form: Imielanka
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: richter1843
+  form: null
+  note: Only one map noted this feature
+- map: messtischblatt1940
+  form: Kol. Imielno
+  note: Possibly
+footnotes: []
+review: []

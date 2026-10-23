@@ -119,6 +119,25 @@ so check them.
 
 ## Where things stand (2026-10-23)
 
+- **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the
+  branch `gazetteer`, **committed, not published**; plan
+  `docs/GAZETTEER_PLAN.md`): the editor's own index of 112 places around
+  Trąbczyn and Zagórów ("Place Names.md", kept verbatim in
+  `reference/gazetteer/source/`), one YAML per place, the 119 footnotes
+  resolved to the edition's documents and books where it holds them
+  (`reference/gazetteer_sources.yml`), the maps the entries cite in
+  `reference/maps.yml`, `pipeline/gazetteer/gazetteer.py --check` and
+  `--missing`. **`docs/MISSING_SOURCES.md` is the running list of sources
+  still to bring in** (the editor's word). The editor's rulings: the
+  modern name heads an entry, the register's slugs stay; their text kept
+  as written (a fourth voice sample: EDITORS_VOICE, "Index entries"); a
+  page for every place; **no method talk** on a reader's page
+  (HOUSE_STYLE). Open: NEEDS_CONFIRMATION, "The gazetteer" (Mieszko III,
+  the 1411 scultetia, the colonies' names in the documents of 1805-1808,
+  the 1891 renaming, the identifications with the register). Next: step 2
+  of the plan, then the pages. **Simple steps go to a Sonnet sub-agent**
+  (WORKING_NOTES, "Working with the editor").
+
 - **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
   published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
   (Stuttgart: Franz Steiner 2001), the biography of the mother of

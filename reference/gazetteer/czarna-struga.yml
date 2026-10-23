@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: czarna-struga
+heading: Czarna Struga
+register: null
+status: extant
+kind: river
+kind_text: River
+location:
+  text: flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: River flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river south of Mariantów and was depicted on Gilly 1802.
+names:
+- form: Czarna Struga
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: gilly1802
+  form: Frischfeuer
+  note: A hammer mill (Ger. ) existed along the Czarna Struga river south of Mariantów and was depicted on
+footnotes: []
+review: []

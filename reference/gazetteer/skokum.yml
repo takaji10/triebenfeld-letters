@@ -1,0 +1,47 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: skokum
+heading: Skokum
+register: skokum
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Zagórów
+  relation: east-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Zagórów. First mentioned as *Skokome* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^65] Mentioned in a 1261 document where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery at Ląd made by Mieszko III and donated additional villages including Skokum.[^66]
+names:
+- form: Skokum
+  year: null
+  note: heading
+  footnote: null
+- form: Skokome
+  year: 1240
+  note: First mentioned as
+  footnote: 65
+aliases: []
+maps: []
+footnotes:
+- n: 65
+  text: Zakrzewski, vol. 1, No. 222
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 222
+    link: /documents/kdw/2/
+    status: linked
+  note: null
+- n: 66
+  text: Ibid No. 393
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 393
+    link: /documents/kdw/4/
+    status: linked
+  note: null
+review: []
