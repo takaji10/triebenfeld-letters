@@ -29,7 +29,34 @@ names:
   year: null
   note: Also known as
   footnote: null
-aliases: []
+- form: Stara Huta Olędry
+  year: null
+  note: a name of two places, Huta Trąbczyńska and Huta Łukomska (the editor, 2026-10-23); which one a mention means is read from its source
+  footnote: null
+  shared_with: huta-lukomska
+  refs:
+  - source: slowinski2023
+    locator: p. 98
+    link: /literature/slowinski2023/
+    quote: 'Łazińsk Drugi (dawniej: Holendry Łazińskie, Holendry Stara Huta)'
+  - source: chodyla2015
+    locator: p. 84, note 154
+    link: /literature/chodyla2015/#p-84
+    quote: Hollendry Luźne Stare i Nowe z Hutą
+  - source: agad1745
+    locator: entry 283
+    link: /documents/agad1169011745/1/#p6
+    quote: d° d° Trąpcz.
+  - source: oe1bu14526
+    locator: document 8
+    link: /documents/oe1bu14526/8/
+    quote: Stara Hutta
+  - source: oe1bu9454
+    locator: letter 24
+    link: /documents/oe1bu9454/24/
+    quote: Zins dorf Stara Huta
+aliases:
+- Stara Huta Olędry
 maps:
 - map: richter1843
   form: H.[olendry] Stara Huta

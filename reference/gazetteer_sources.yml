@@ -101,6 +101,9 @@ sources:
     resolve: table
     table:
       "401": {document: agad1169011745-1, page: 1}
+      # The three Stara Hutas of Łukom, Grodziec and Trąbczyn, p. 406.
+      "entry 281": {document: agad1169011745-1, page: 6}
+      "entry 283": {document: agad1169011745-1, page: 6}
     in_project: "pp. 401-406 (agad1169011745)"
 
   visitation-1791:
@@ -147,6 +150,29 @@ sources:
     # link goes to the work's page, not to a page of it.
     resolve: work
     work: slowinskipolom2024
+
+  slowinski2023:
+    cite: >-
+      Mirosław Słowiński, Przeżyć tę jedną zimę. Listy żołnierza Wehrmachtu
+      odkryte w ścianie domu kantora (2023)
+    kind: book
+    # Kept off the site (copyright): the link goes to its summary page.
+    resolve: work
+    work: slowinski2023
+
+  oe1bu14526:
+    cite: "HZAN Oe 1 Bü 14526, the deeds of sale and hereditary lease of the Prince of Hohenlohe-Ingelfingen's South Prussian estates"
+    kind: archive
+    resolve: table
+    table:
+      "document 8": {document: oe1bu14526-8}
+
+  oe1bu9454:
+    cite: "HZAN Oe 1 Bü 9454, the correspondence of the Prince of Hohenlohe-Ingelfingen with Councillor of War and Forests von Triebenfeld"
+    kind: archive
+    resolve: table
+    table:
+      "letter 24": {document: oe1bu9454-24}
 
   minakowska-zielonacka:
     cite: 'Maria Jadwiga Minakowska, Wielcy.pl genealogy database (sejm-wielki.pl), "Helena Zielonacka (ID: 2.976.216)"'

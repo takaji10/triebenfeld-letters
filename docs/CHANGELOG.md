@@ -2792,3 +2792,18 @@ lose his estates. The era page writes Konotop, not Kontop.
 - The parsing and the scripts were done by a Sonnet sub-agent at the
   editor's word (WORKING_NOTES, "Working with the editor"); its output read
   and the links spot-checked before commit.
+
+## 2026-10-23 - The gazetteer: "Stara Huta Olędry", a name of two places
+
+- The editor's cross-reference "*Stara Huta Olędry* — See **Huta**" pointed
+  to no entry. The edition's sources use the name for both Hutas, and the
+  editor ruled it listed as both (2026-10-23): a name item with
+  `shared_with` and its sources in each entry. Huta Trąbczyńska: Słowiński
+  (2023), p. 98 (Łazińsk Drugi "dawniej ... Holendry Stara Huta"),
+  Chodyła (2015), p. 84, note 154, the village table of about 1797, entry
+  283, and the Prince's papers of 1806 (Oe 1 Bü 14526, document 8; Oe 1
+  Bü 9454, letter 24), beside Richter 1843's "H. Stara Huta". Huta
+  Łukomska: Chodyła, pp. 70 and 76, and the 1797 table, entry 281. A third,
+  Stara Huta-Grójeckie Olędry in Grodziec parish, is not to be confused
+  (the 1797 table, entry 282). Three source keys added to
+  `reference/gazetteer_sources.yml` (slowinski2023, oe1bu14526, oe1bu9454).

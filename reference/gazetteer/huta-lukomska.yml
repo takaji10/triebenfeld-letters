@@ -33,8 +33,27 @@ names:
   year: 1789
   note: known as
   footnote: 26
+- form: Stara Huta Olędry
+  year: null
+  note: a name of two places, Huta Trąbczyńska and Huta Łukomska (the editor, 2026-10-23); which one a mention means is read from its source
+  footnote: null
+  shared_with: huta-trabczynska
+  refs:
+  - source: chodyla2015
+    locator: p. 70
+    link: /literature/chodyla2015/#p-70
+    quote: Stara Huta z Olędrami albo Zagórowskie Ol. (dziś Huta Łukomska)
+  - source: chodyla2015
+    locator: p. 76
+    link: /literature/chodyla2015/#p-76
+    quote: Stara Huta-Zagórowskie Ol.
+  - source: agad1745
+    locator: entry 281
+    link: /documents/agad1169011745/1/#p6
+    quote: Stara Huta Lukom.
 aliases:
 - Stara Huta
+- Stara Huta Olędry
 maps:
 - map: lukom1766
   form: Stara Huta
