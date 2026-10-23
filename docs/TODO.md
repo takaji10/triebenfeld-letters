@@ -1015,5 +1015,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       witness on Żychliński's side.
 - [ ] **You:** "Pawłowa", the nephew's seat — a place of the register or
       not (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [ ] Published at your word (built, verified, committed; **merged to main
+      at your word 2026-10-23** — the branch dziennikpoznanski18791220
+      fast-forwarded onto main; the live-site deploy waits on your Publish
+      word, as for the other committed-not-published work).
