@@ -39,7 +39,10 @@ do this one map for now"). The procedure it settled is
 - `georef.json` in triebenfeld-maps/lukom1766/ is the Allmaps annotation;
   https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766 lays
   the map over OpenStreetMap (Leaflet 1.9.4, @allmaps/leaflet
-  1.0.0-beta.54).
+  1.0.0-beta.54). **Checked by the editor** (2026-10-23): "Generally, yes,
+  it lands at the right spot. This map is very crudely drawn so it's not
+  perfect." Allmaps warps level-0 static tiles, so the plan's fallback
+  (warped tiles of our own) is not needed.
 
 ## What the gazetteer says is on it
 
@@ -109,7 +112,5 @@ The others: Budy (*Budy do Huty*), Grądzeń (*Grązien*), Łomów (*Lomaw*, cor
 
 ## Still to do
 
-- Whether the warp test page shows the map in the right place (not yet
-  opened in a browser: the editor's eye, or a later session's).
 - The map's viewer page on the site, and the crops on the place pages, wait
   for the gazetteer's place pages (GAZETTEER_PLAN, step 3).

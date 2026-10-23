@@ -2888,3 +2888,6 @@ lose his estates. The era page writes Konotop, not Kontop.
   fixed for a second run on the same map: it reuses the gazetteer item
   linked to a label and unlinks labels deleted since (it would have added
   a duplicate for every place).
+- **The warp checked by the editor**: the map lands in the right place
+  ("This map is very crudely drawn so it's not perfect"). Allmaps handles
+  the level-0 static tiles, the pilot's open point.

@@ -1079,7 +1079,11 @@ in, one at a time.
       Conventûs Landensis* added; two-line names handled).
 - [x] Your bands set and the marks imported again (2026-10-23): eleven
       labels, all crops whole.
-- [ ] **You:** look at the warp test page
+- [x] The warp test page checked by you (2026-10-23): the map lands in the
+      right place, as well as a crude drawing allows. The pilot is done
+      but for its pages on the site (with GAZETTEER_PLAN step 3); the next
+      map at your choice, by docs/ADDING_A_MAP.md.
+- [x] (was: look at the warp test page
       (https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766).
 - [ ] Then: the import, the crops, the fit again; the map's viewer page
       and the crops on the place pages (with GAZETTEER_PLAN step 3).

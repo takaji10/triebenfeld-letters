@@ -1,6 +1,8 @@
 # Plan: the maps
 
-Status: **agreed 2026-10-23; the pilot (Łukom 1766) being built.** The
+Status: **agreed 2026-10-23; the pilot (Łukom 1766) built and checked by
+the editor the same day** (Allmaps warps the static tiles: no warped tiles
+of our own needed); its pages on the site wait for the place pages. The
 checklist for each map is `docs/ADDING_A_MAP.md`. It
 works out section 6 of `docs/GAZETTEER_PLAN.md` ("The maps") into the parts
 to build and the order to build them in.
