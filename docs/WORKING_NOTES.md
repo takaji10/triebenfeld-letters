@@ -1508,6 +1508,38 @@ cloud branches").
     by the last `---`: replace by the generator's own kind, not by text.
   - If either book comes into the literature, the checked .md is the text
     to start from (the books bear on Łazińsk and Zagórów).
+- **Kneifel 1937 read from the images** (2026-10-23, the sitting's own
+  branch `kneifel1937`): 79 pages of Tesseract+layer OCR with the editor's
+  Kalisch .md as base text where it exists. What carries over:
+  - **Two witnesses agreeing settles a page; zoom only for what matters**
+    (2026-10-23). The session's course correction after overspending: where
+    layer and Tesseract agree, write the page and move on; a zoom is for a
+    name, date or number that is actually contested or where all witnesses
+    are damaged. A spot sheet (`scratch/slowo1892_sheet.py` pattern) is the
+    tool for what remains — four rows on the Administratoren list settled
+    in one pass.
+  - **A zoom crop the reading agent cannot see is not a reading**:
+    large crops come back "[image removed]", and "reading" one is
+    invention. The honest tools are Tesseract re-run on the crop at higher
+    resolution (`--psm 7` for a single line), or the editor's eyes via a
+    spot sheet.
+  - **A seam script before assembly** (`scratch/k1937_seams.py`): print
+    the last 45 characters of each page against the first 45 of the next,
+    flagging no-stop ends and lower-case starts. It finds every mid-word
+    and mid-sentence page join and every elision point in one run — no
+    hunting through finals by hand.
+  - **Tipped-in plates inside a page range** (2026-10-23): the two
+    unnumbered portrait plates between printed pp. 10 and 11 carry typeset
+    captions that continue in engraved script no pass can read. Transcribe
+    the typeset lines, mark the script `[…]`, say what was skipped in the
+    notes, and let the printed page number at the foot — not the PDF
+    index — anchor every `[p. N]`, because the mapping drifts wherever
+    plates intervene.
+  - **Footnote numbering restarts at each sub-entry** (Maślaki, the
+    Lissewo-Pyzdry filial): check the page foot before assuming a page's
+    markers continue the previous page's numbers.
+  - Asterisk footnote markers inside GFM tables are written `\*\*` in the
+    cells as at their definitions, or a renderer may pair them into bold.
 
 ## The English, the summaries and the claim check
 
