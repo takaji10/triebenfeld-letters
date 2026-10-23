@@ -216,6 +216,14 @@ Im ersten Jahrzehnt des 20. Jahrhunderts wurde in der Parochie Konin der Kirchen
 
 […]
 
+[p. 180]
+
+[…]
+
+Im Herbst 1912 eröffnete Pastor Bierschenk das Konfirmandenheim in Sompolno. In Zagórow wurde am 16. Oktober 1913 der Grundstein zum Bau eines Pfarrhauses gelegt. Bereits 1904 vollendete Pastor Paszke den Bau des Koloer Pastorats.
+
+[…]
+
 [p. 226]
 
 […]
@@ -243,5 +251,15 @@ der Spitze des Lazinsker Brüderkreises stand zuerst der Laienprediger Buchinski
 […]
 
 Pastor Adolf Doberstein schrieb im „Luthererbe in Polen" vom 13. März 1938 über das „Zahlenverhältnis zwischen den deutschen und polnischen Gemeindegliedern in der evangelisch-augsburgischen Kirche Polens". An Hand des Rocz. Ew. 1925 (Evang. Jahrbuch 1925) berechnete er die Seelenzahl aller Gemeinden in allen Diözesen. Das Jahrbuch enthält nämlich von Seite 108 bis 168 nähere Angaben über Seelenzahl der einzelnen Gemeinden und Filiale, der Taufen in deutscher und polnischer Sprache, der Konfirmanden und Kommunikanten in beiden Sprachen u. a. m. Den Angaben lag als letztes das Jahr 1923 zugrunde, wobei „die Seelenzahl — wie Pastor Doberstein ausführte — nur auf einer ungefähren Annahme beruht". Für sämtliche Gemeinden der Warschauer Diözese werden im Jahrbuch nachstehende Zahlen genannt: Seelenzahl: 55 000, Konfirmanden: 1540, davon deutsch 1131, polnisch 409. Für alle Parochien der Kalischer Diözese (nicht berücksichtigt war die rein deutsche evangelische Gemeinde Zagorow): Seelenzahl: 59 000, Konfirmanden: 1645, davon deutsch 1488, polnisch 157. Nach Ergänzung des Kirchspiels Zagorow (auf Grund meines Buches „Die evangelisch-augsburgischen Gemeinden der Kalischer Diözese", 1937, S. 255/58) und Abrechnung des Bevölkerungszuwachses von fünf Prozent in den Jahren 1924 bis 1934 (Seelenzahl 1934: 3800, Konfirmanden: Durchschnittszahl für 1923: 70), betrug in der Kalischer Diözese in allen Parochien die Seelenzahl: 62 610, Konfirmanden: 1715, davon deutsch 1558, polnisch 157.
+
+[…]
+
+[p. 257]
+
+[…]
+
+Nach diesen Einzelzahlen ergibt sich folgendes statistisches Gesamtbild der augsburgischen Kirche: Seelenzahl im ganzen (einschließlich Zagöröw): 420 610, Konfirmanden: 10 793, davon deutsch 9141, polnisch 1652.
+
+Auf Grund dieser Zusammenstellung folgert Pastor D ob erst ein: „Für die Beantwortung der Frage nach dem Zahlenverhältnis zwischen deutsch und polnisch in unserer Kirche ist das Verhältnis der Konfirmanden, die in deutscher Sprache konfirmiert werden, zu den polnischen Konfirmanden wohl das ausschlaggebende. Denn hier dürfte es sich am deutlichsten zeigen, wer sich zu dem einen oder anderen sprachlich bedingten Teil unserer Kirche hinzuzählt". Weiter läßt er sich noch aus: „Diese Zahlen, die für die deutsche und polnische Seite eine hörbare Sprache führen, müßten in der Auseinandersetzung zwischen beiden Teilen unbedingt gehört werden".
 
 […]

@@ -640,16 +640,21 @@ so check them.
   asked before the work began: the excerpt carries the place-named pages
   **and** the two colonisation sections; **visible** on the site (in
   copyright: published 1964, put to the editor first); only the excerpt
-  scripts and the cut pages committed. The excerpt, 21 printed pages
+  scripts and the cut pages committed. The excerpt, 23 printed pages
+  (two added 2026-10-23, the editor's "same people in the Zagórów parish"
+  test; the work's English now cut from the whole-book translation of
+  2026-10-23, the old pairing file gone from the reorganised Books folder)
   (`literature/kneifel1964/notes.md` first): pp. 39-42 (p. 41 names the
   Starost, "Paul von Kolno-Prusinski, Grundherr von Trombezyn", and the
   founding of Łazińsk in 1746), pp. 89-93 (the Prussian colonisation; p. 92
   "die Städte Konin, Zagö-röw und Kolo"), and pp. 45, 94, 102, 112, 123,
-  165, 166, 179, 226, 235-236, 256 - the schools of the Kalisch land, the
-  Grodziec contract of 1796, the parishes and the diocese list ("Zagörow
-  mit dem Filial Lissewo-Pyzdry, Konin mit dem Filial Maslaki"), the
-  Zagórów church of 1878-1896 and its pastors to 1945, the Łazińsk
-  brethren's circles, the statistics of 1938. The false friend "Trombin bei
+  165, 166, 179, 180, 226, 235-236, 256, 257 - the schools of the Kalisch
+  land, the Grodziec contract of 1796, the parishes and the diocese list
+  ("Zagörow mit dem Filial Lissewo-Pyzdry, Konin mit dem Filial Maslaki"),
+  the Zagórów church of 1878-1896 and its pastors to 1945, the parsonage's
+  foundation stone of 1913 (p. 180), the Łazińsk brethren's circles, the
+  statistics of 1938 with the church-wide total that includes Zagórów
+  (p. 257). The false friend "Trombin bei
   Rypin" (p. 101) ruled out. Index: 140 hits, all read; `Trombezyn`,
   `Zagörow`/`Zagö-röw`, `Lazinsk` and `Prusinski` ruled in, `Brzyczka`
   refused, five old rulings sharpened. One hand-made link: p. 41 against

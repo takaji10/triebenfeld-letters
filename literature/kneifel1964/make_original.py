@@ -6,15 +6,26 @@ Evangelisch-Augsburgischen Kirche in Polen" (self-published, Niedermarschacht
 1964) that bears on the edition's ground - Trabczyn, Zagorow and the
 neighbouring parishes and colonies of the Kalisch land.
 
-The editor's two files, in
+The editor's files, in
   J:\\Documents\\Archive\\Genealogy\\References\\Books\\
-    History of the Evangelical-Augsburg Church in Poland (DE) (Kneifel, 1964)\\
+    Eduard Kneifel - [1964] Geschichte der Evangelisch-Augsburgischen
+    Kirche in Polen\\
 are a German transcription (with printed page numbers in [N] and GFM
 footnotes) and an English translation that pairs it page for page. The files
 are NOT kept in the repository: the book runs to 313 printed pages and most
 of it does not bear on the edition (the editor, 2026-10-22: only the relevant
 sections are to be shown on the site). The scripts read them from the folder
 named below and write the excerpt.
+
+The folder and file names changed on 2026-10-23 (the Books folder was
+reorganised): the German file is now "Eduard Kneifel - [1964] Geschichte der
+Evangelisch-Augsburgischen Kirche in Polen.md". The English file that paired
+it page for page is no longer there; in its place stands the whole-book
+English translation made from the German on 2026-10-23
+("... (English).md"), which carries the editor's ruling of that day that
+country names are translated in the English (Poland, Prussia, ...) while
+place names keep the print's forms. The excerpt's English therefore now
+reads from that file.
 
 The excerpt, by printed page (the two files agree page for page):
 
@@ -61,6 +72,16 @@ The excerpt, by printed page (the two files agree page for page):
               Gemeinde Zagerow", the diocese of Kalisch's figures corrected
               from the editor's own book of 1937 on the parishes of the
               Kalisch diocese (its Zagerow Kirchspiel, 3800 souls in 1934).
+  p. 180     the parsonage of Zagerow: foundation stone 16 October 1913
+             (the church's building line of p. 166 continued). Kept to the
+             building-dates run: the confirmands' home in Sompolno, the
+             Zagerow parsonage stone, the Kolo parsonage of 1904.
+  p. 257     the close of the 1938 statistics: the church-wide total
+             "Seelenzahl im ganzen (einschliesslich Zagoeroew): 420 610",
+             and Pastor Doberstein's quoted reasoning that the ratio of the
+             German- and Polish-language confirmands is the decisive
+             measure. Kept from "Nach diesen Einzelzahlen" to the end of
+             his second quotation.
 
 Each kept page opens with its page mark [p. N]; where a page is cut, the
 left-out parts are marked "[...]" (the Karwowski pattern). The footnotes
@@ -77,11 +98,12 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(
     "J:", os.sep, "Documents", "Archive", "Genealogy", "References", "Books",
-    "History of the Evangelical-Augsburg Church in Poland (DE) (Kneifel, 1964)")
-DE_NAME = ("History of the Evangelical-Augsburg Church in Poland (DE) "
-           "(Kneifel, 1964) (complete, with page numbers, GFM footnotes).md")
-EN_NAME = ("History of the Evangelical-Augsburg Church in Poland (EN) "
-           "(Kneifel, 1964).md")
+    "Eduard Kneifel - [1964] Geschichte der Evangelisch-Augsburgischen "
+    "Kirche in Polen")
+DE_NAME = ("Eduard Kneifel - [1964] Geschichte der Evangelisch-Augsburgischen "
+           "Kirche in Polen.md")
+EN_NAME = ("Eduard Kneifel - [1964] Geschichte der Evangelisch-Augsburgischen "
+           "Kirche in Polen (English).md")
 
 WHOLE = {}
 
@@ -95,10 +117,10 @@ RULES = {
     40: WHOLE,
     41: WHOLE,
     42: {"de": {"end": "### 2. Die städtische Einwanderung", "exclusive": True},
-         "en": {"end": "### 2. Urban immigration", "exclusive": True}},
+         "en": {"end": "### 2. The urban immigration", "exclusive": True}},
     45: WHOLE,
     89: {"de": {"start": "## VI. Die Kirche zu preußischer Zeit"},
-         "en": {"start": "## VI. The Church in the Prussian Period"}},
+         "en": {"start": "## VI. The Church in Prussian Times"}},
     90: WHOLE,
     91: WHOLE,
     92: WHOLE,
@@ -108,29 +130,37 @@ RULES = {
     112: WHOLE,
     123: {"de": {"start": "Verwaltungsmäßig wurde die augsburgische Kirche",
                  "end": "Es waren also in sie 19 Pfarr-und zwölf Filialgemeinden einbezogen."},
-          "en": {"start": "Administratively the Augsburg church was divided into the dioceses",
-                 "end": "Thus 19 parishes and twelve filial congregations were included in it."}},
+          "en": {"start": "Administratively the augsburgian church was divided into the dioceses",
+                 "end": "Thus 19 parish-and twelve filial congregations were included in it."}},
     165: WHOLE,
     166: {"de": {"start": "Der Grundstein zum Bau der lutherischen Kirche in Zagórów",
                  "end": "wurde 1861 eine massive Kirche errichtet."},
-          "en": {"start": "The foundation stone for the building of the Lutheran church in Zagórów",
+          "en": {"start": "The foundation stone of the building of the Lutheran church in Zagórów",
                  "end": "a massive church was erected in 1861."}},
     179: {"de": {"start": "Im ersten Jahrzehnt des 20. Jahrhunderts",
                  "end": "vereitelten die Realisierung des Projekts."},
           "en": {"start": "In the first decade of the 20th century",
-                 "end": "thwarted the realization of the project."}},
+                 "end": "frustrated the realization of the project."}},
     226: {"de": {"start": "Von 1930 bis 1939 verwaltete die Gemeinde Sobiesenki",
                  "end": "sehr angelegen sein."},
-          "en": {"start": "From 1930 to 1939 Pastor Viktor Maczewski administered",
-                 "end": "very much his concern."}},
+          "en": {"start": "From 1930 to 1939 there administered the congregation Sobiesenki",
+                 "end": "who stands near to the Christian Gemeinschaft in Lodz."}},
     235: {"de": {"start": "In Lazinsk, in der Gemeinde Zagörow"},
           "en": {"start": "In Lazinsk, in the congregation of Zagörow"}},
     236: {"de": {"end": "verloren die „Brüder\" an Boden."},
-          "en": {"end": "the „brothers\" lost ground."}},
+          "en": {"end": "the „Brethren\" lost ground."}},
     256: {"de": {"start": "Pastor Adolf Doberstein schrieb",
                  "end": "davon deutsch 1558, polnisch 157."},
           "en": {"start": "Pastor Adolf Doberstein wrote",
                  "end": "of them German 1558, Polish 157."}},
+    180: {"de": {"start": "Im Herbst 1912 eröffnete Pastor Bierschenk",
+                 "end": "vollendete Pastor Paszke den Bau des Koloer Pastorats."},
+          "en": {"start": "In the autumn of 1912 Pastor Bierschenk opened",
+                 "end": "Pastor Paszke completed the building of the Kolo parsonage."}},
+    257: {"de": {"start": "Nach diesen Einzelzahlen ergibt sich",
+                 "end": "zwischen beiden Teilen unbedingt gehört werden\"."},
+          "en": {"start": "From these individual figures results the following",
+                 "end": "in the dispute between the two parts\"."}},
 }
 
 PAGE_MARK_RX = re.compile(r"(?m)^\[(\d+)\]$")

@@ -2118,7 +2118,17 @@ cloud branches").
     does not, `Zagö-?r[öo]w`, and an optional hyphen takes the print's
     line-break form. And a German print drops the Polish ń
     ("Kolno-Prusinski"): extend the pattern to both, and rule the new
-    spelling.
+    spelling. (2026-10-23: p. 257 spells it with the umlaut on both
+    vowels after all, "Zagöröw" - the print varies within itself; the new
+    form is ruled in `literature/index.yml` beside the pattern.)
+  - **The excerpt's English anchors are bound to the English source's
+    wording, not the German's** (2026-10-23). When the editor's pairing
+    file was replaced by a fresh whole-book translation, every "en" anchor
+    in `make_original.py` had to be re-taken from the new file's phrasing
+    ("the urban immigration", "frustrated the realization", the inverted
+    "made very much his concern Pastor Groß" sentences) - the German
+    anchors were unaffected. Take the anchors fresh from the source in
+    hand, per language, and never assume the old file's sentences stand.
 - **Two keys one letter apart are not duplicate keys** (2026-10-22,
   `wielun` in `literature/index.yml`): `Wieluń` (yes) and `Wielun` (no) are
   different spellings, each with its own ruling - the ń key takes the

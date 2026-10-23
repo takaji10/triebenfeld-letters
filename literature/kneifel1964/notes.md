@@ -18,17 +18,30 @@ scripts and the cut pages are committed**, not the two source files.
 
 ## The source
 
-The editor's folder on their machine:
-`J:\Documents\Archive\Genealogy\References\Books\History of the
-Evangelical-Augsburg Church in Poland (DE) (Kneifel, 1964)` — a PDF of the
+The editor's folder on their machine (renamed 2026-10-23, when the Books
+folder was reorganised):
+`J:\Documents\Archive\Genealogy\References\Books\Eduard Kneifel - [1964]
+Geschichte der Evangelisch-Augsburgischen Kirche in Polen` — a PDF of the
 book (333 PDF pages, not kept), a photograph (1939PLP2.jpg, not kept), and
-two Markdown files: the German transcription "…(complete, with page numbers,
-GFM footnotes).md" (UTF-8, 1,174,670 characters, printed pages [7] to [319]
-marked on their own lines, the footnotes in GFM form `[^p41-4]`, the
-definition of each note at the foot of its own page) and the English
-translation "…(EN)…md", which pairs it page for page (the same 313 page
-marks, the same notes numbered per page). The two files agree page for page
-throughout the excerpt; `build_literature.py` reported no missing pages and
+the German transcription "Eduard Kneifel - [1964] Geschichte ....md"
+(UTF-8, 1,174,670 characters, printed pages [7] to [319] marked on their
+own lines, the footnotes in GFM form `[^p41-4]`, the definition of each
+note at the foot of its own page).
+
+The English translation that once paired it page for page ("…(EN)…md",
+recorded below) is no longer in the folder. In its place stands the
+whole-book English translation made from the German on 2026-10-23
+("Eduard Kneifel - [1964] Geschichte ... (English).md", 1,169,324
+characters): the same 313 page marks, the same notes numbered per page,
+the print's slips and broken words mirrored, the country names translated
+(the editor's ruling of 2026-10-23: Poland, Prussia, Russia — while place
+names keep the print's forms) and the titles of cited works left in their
+own language. It was checked against the German mechanically (page marks,
+note ids and references, block counts) and made by sixteen packet
+translators from one conventions file; the excerpt's English is cut from
+it by `make_original.py` as the German is. The old file's description
+stands below for the record: it agreed page for page throughout the
+excerpt then carried; `build_literature.py` reported no missing pages and
 no length warning.
 
 The title page reads: EDUARD KNEIFEL / Geschichte / der /
@@ -43,7 +56,7 @@ Zusammenfassung, a Literaturnachweis, a Personenregister and Bildtafeln.
 Scanned first: every page of the German file was searched for the edition's
 ground (Trąbczyn, Zagórów, Łazińsk, the colonies, the neighbouring parishes
 and towns). The book is a general church history; the relevant material is
-scattered. The excerpt, 21 printed pages:
+scattered. The excerpt, 23 printed pages:
 
 - **pp. 39-42**, the section "Die ländliche Kolonisation" (III.1): the rural
   colonisation of central Poland from 1550, its second rise after 1725, and
@@ -88,6 +101,40 @@ scattered. The excerpt, 21 printed pages:
   Kalisch's figures corrected from the author's own book of 1937 on the
   parishes of the Kalisch diocese (its Zagórów Kirchspiel, 3,800 souls in
   1934).
+- **p. 180** (added 2026-10-23), the parsonage's foundation stone of
+  16 October 1913 — the church's building line of p. 166 continued (church
+  1878-82, parsonage bought 1896, parsonage built from 1913). Kept to the
+  building-dates run: the confirmands' home in Sompolno, the Zagórów
+  parsonage stone, the Koło parsonage of 1904.
+- **p. 257** (added 2026-10-23), the close of the 1938 statistics: the
+  church-wide total "Seelenzahl im ganzen (einschließlich Zagöröw):
+  420 610", the figure p. 256 explains the leaving-out of Zagórów from,
+  with Pastor Doberstein's quoted reasoning that the ratio of the German-
+  and Polish-language confirmands is the decisive measure. Kept from "Nach
+  diesen Einzelzahlen" to the end of his second quotation; the
+  church-wide German/Polish ratio debate that follows is not the
+  edition's ground.
+
+The second scan of the whole book (2026-10-23) proposed the further pages
+by the editor's test — "is this applicable to the same people in the
+Zagórów parish?" — and they were declined by it: p. 43 (Stawiszyn's
+Lutherans under the Starost General von Luba), p. 70 (Marggraff's
+Rosterschütz circuit serving Grodziec, Stawiszyn, Babiak, Sompolno and
+Prazuchy; Stawiszyn's congregation of 1777), p. 111 (the Sompolno parish's
+founding), p. 116 (the Konin congregation's founding obstructed by the
+reformed Pastor Schöltz of Żychlin; the Calvinist Spleszynski in
+Grodziec's pulpit 1832-39), p. 124 (the Płock diocese list with Sompolno
+and Babiak), p. 225 (the neighbours' interwar pastors), p. 115 and p. 145
+(a Konin pastor killed in the rising, Babiak's pastor imprisoned — no
+Zagórów counterpart in the book; the two pages also contradict each other
+on when Kegler of Konin died, 1830/31 on p. 168 against p. 115's rising
+context), pp. 207/209/222 (the "Koniner Angelegenheit", Pastor Löffler's
+transfer), p. 251 (the Grodziec "Awakened" of 1823), p. 131 (the
+Volhynia emigration of 1871/72). One false friend found and ruled out:
+p. 250's "Rzgowskastraße" is a street in Łódź, not the village Rzgów.
+Offered and not taken for lack of a Zagórów person: the Sompolno German
+secondary school of pp. 202 and 231, whose headmaster after 1934 was Karl
+Grams, the edition's "Martin Kage" of the newspaper work.
 
 Left out: everything else, above all the chapters on the Reformation, the
 oppression and toleration, the general superintendents, the wars, and the
@@ -118,6 +165,15 @@ while the cuts were laid and the boundaries found (the reading found no
 unfaithfulness in the excerpt; the translation carries the source's slips
 with it — "Zagör" for Zagörow on p. 226, "years-lo" broken mid-word on
 p. 42). The work's page says who made the English.
+
+Replaced on 2026-10-23: that file is gone from the folder, and the
+excerpt's English now comes from the whole-book translation made that day
+(see "The source" above). The two new pages' English is cut from it by the
+same rules as the German; the p. 257 figures render Seelenzahl as
+"soul-count", the p. 256 excerpt's own rendering. The old file's small
+slips ("Zagör", "years-lo") were its own and do not stand in the new one;
+the new translation mirrors the print's broken words where the German file
+has them ("D ob erst ein" on p. 257).
 
 ## Copyright
 

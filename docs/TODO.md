@@ -1643,3 +1643,21 @@ transcription; 108 readings settled in session before the first build
       era page (offered, not built); the rest in NEEDS_CONFIRMATION ("I. HA
       GR, Rep. 7 C, Nr. 421").
 - [ ] Publish at your word.
+
+## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
+
+- [x] The two pages brought in at your word, chosen by your test ("is this
+      applicable to the same people in the Zagórów parish?"): p. 180 (the
+      Zagórów parsonage's foundation stone, 16 October 1913) and p. 257
+      (the 1938 statistics' church-wide total, "einschließlich Zagöröw:
+      420 610", with Doberstein's confirmand-ratio reasoning). The whole
+      book was proposed and the rest declined by the same test
+      (literature/kneifel1964/notes.md, docs/LITERATURE_PLAN.md, section 24).
+- [x] The sources' new paths worked in (the reorganised Books folder; the
+      English cut from the whole-book translation); the index's one new
+      form, Zagöröw, ruled.
+- [x] Merged into main and published at your word (2026-11-21: "Commit
+      rusinski1947, kneifel1964-pages, and merge into main").
+- [ ] **You:** the two added pages on the work's page — say if the cuts
+      should take in more or less.
+

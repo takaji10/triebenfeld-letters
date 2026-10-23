@@ -2659,6 +2659,37 @@ lose his estates. The era page writes Konotop, not Kontop.
 
 `letters.csv` / `letters.json` (database), `von_Triebenfeld_Hohenlohe-Ingelfingen_chronological.txt`, `collation_48_302.md`, `transcription_error_profile.md`, `phase2b_transcription_audit.md`, `currency_normalisation_report.md`, `parsed_dates_review.csv`, `phase2_proper_noun_report.md`.
 
+## 2026-10-23 - The literature: Kneifel (1964), two pages added
+
+- **Two pages added to the excerpt** (`literature/kneifel1964/`, 21 → 23
+  printed pages) at the editor's word, chosen by their test: "is this
+  applicable to the same people in the Zagórów parish?" - **p. 180**, the
+  Zagórów parsonage's foundation stone of 16 October 1913 (the church's
+  building line of the excerpted p. 166 continued; kept to the
+  building-dates run, the confirmands' home in Sompolno and the Koło
+  parsonage of 1904 riding along), and **p. 257**, the close of the 1938
+  statistics - the church-wide total "Seelenzahl im ganzen
+  (einschließlich Zagöröw): 420 610", the figure the excerpted p. 256
+  explains the leaving-out of Zagórów from, with Pastor Doberstein's
+  quoted reasoning that the ratio of the German- and Polish-language
+  confirmands is the decisive measure. The whole book was proposed page
+  by page and the rest declined by the same test (the record in the
+  work's notes.md); the second scan's one false friend, p. 250's
+  "Rzgowskastraße" (a Łódź street), ruled out.
+- **The sources changed shape** (the Books folder reorganised): the
+  German transcription moved to
+  `Eduard Kneifel - [1964] Geschichte ....md` (same text); the English
+  pairing file is gone, replaced by the whole-book English translation
+  made from the German the same day - the same 313 page marks and
+  page-scoped notes, checked against the German mechanically, carrying
+  the editor's ruling that country names are translated in the English
+  (Poland, Prussia, Russia) while place names keep the print's forms.
+  `make_original.py` reads the new paths; the excerpt's English is cut
+  from the new file, and the index ruling for the print's `Zagöröw`
+  (p. 257, the umlaut on both vowels) added. build_literature (23
+  passages), literature_index --check, build_site_data, Jekyll and
+  verify_site all pass.
+
 ## 2026-10-23 - The literature: Kraus (2001), chapter III and Anlagen 8 and 10
 
 - **A new work**, `literature/ostensacken2001/`: Gerlinde Kraus,

@@ -36911,6 +36911,16 @@
  },
  {
   "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagórow",
+  "work": "kneifel1964",
+  "passage": "180",
+  "line": 3,
+  "context": "Im Herbst 1912 eröffnete Pastor Bierschenk das Konfirmandenheim in Sompolno. In Zagórow wurde am 16. Oktober 1913 der Grundstein zum Bau eines Pfarrhauses gelegt. Bereits 1904 vollendete Pastor Paszke den Bau des Koloer Pastorats."
+ },
+ {
+  "kind": "place",
   "entity": "konin",
   "display": "Konin",
   "surface": "Konin",
@@ -37028,6 +37038,16 @@
   "passage": "256",
   "line": 3,
   "context": "Pastor Adolf Doberstein schrieb im „Luthererbe in Polen\" vom 13. März 1938 über das „Zahlenverhältnis zwischen den deutschen und polnischen Gemeindegliedern in der evangelisch-augsburgischen Kirche Polens\". An Hand des Rocz. Ew. 1925 (Evang. Jahrbuch 1925) berechnete er die Seelenzahl aller Gemeinden in allen Diözesen. Das Jahrbuch enthält nämlich von Seite 108 bis 168 nähere Angaben über Seelenzahl der einzelnen Gemeinden und Filiale, der Taufen in deutscher und polnischer Sprache, der Konfirmanden und Kommunikanten in beiden Sprachen u. a. m. Den Angaben lag als letztes das Jahr 1923 zugrunde, wobei „die Seelenzahl — wie Pastor Doberstein ausführte — nur auf einer ungefähren Annahme beruht\". Für sämtliche Gemeinden der Warschauer Diözese werden im Jahrbuch nachstehende Zahlen genannt: Seelenzahl: 55 000, Konfirmanden: 1540, davon deutsch 1131, polnisch 409. Für alle Parochien der Kalischer Diözese (nicht berücksichtigt war die rein deutsche evangelische Gemeinde Zagorow): Seelenzahl: 59 000, Konfirmanden: 1645, davon deutsch 1488, polnisch 157. Nach Ergänzung des Kirchspiels Zagorow (auf Grund meines Buches „Die evangelisch-augsburgischen Gemeinden der Kalischer Diözese\", 1937, S. 255/58) und Abrechnung des Bevölkerungszuwachses von fünf Prozent in den Jahren 1924 bis 1934 (Seelenzahl 1934: 3800, Konfirmanden: Durchschnittszahl für 1923: 70), betrug in der Kalischer Diözese in allen Parochien die Seelenzahl: 62 610, Konfirmanden: 1715, davon deutsch 1558, polnisch 157."
+ },
+ {
+  "kind": "place",
+  "entity": "zagorowo",
+  "display": "Zagórów (Zagorowo)",
+  "surface": "Zagöröw",
+  "work": "kneifel1964",
+  "passage": "257",
+  "line": 3,
+  "context": "Nach diesen Einzelzahlen ergibt sich folgendes statistisches Gesamtbild der augsburgischen Kirche: Seelenzahl im ganzen (einschließlich Zagöröw): 420 610, Konfirmanden: 10 793, davon deutsch 9141, polnisch 1652."
  },
  {
   "kind": "person",

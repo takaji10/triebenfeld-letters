@@ -873,11 +873,11 @@ Hohenlohe link; every figure in the sentences was read on both sides
 (Łukasiewicz's this session, the letters' as ruled on 2026-10-19). Open: the
 editor's look at the English; publication at the editor's word.
 
-## 24. Kneifel (1964) (2026-10-22; published the same day at the editor's word)
+## 24. Kneifel (1964) (2026-10-22; published the same day at the editor's word; two pages added 2026-10-23)
 
 | Slug | Work | Language | Page marks | On the site |
 |---|---|---|---|---|
-| `kneifel1964` | Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen Kirche in Polen*, Selbstverlag des Verfassers, Niedermarschacht über Winsen/Luhe 1964 | German | `[p. N]` | yes: the excerpt, 21 printed pages |
+| `kneifel1964` | Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen Kirche in Polen*, Selbstverlag des Verfassers, Niedermarschacht über Winsen/Luhe 1964 | German | `[p. N]` | yes: the excerpt, 23 printed pages |
 
 The editor's word: "Add this literary source to the project ... Use the two
 .md files for the German and English transcriptions/translations. Be careful
@@ -907,13 +907,45 @@ shown on the site; only the excerpt scripts and the cut pages are committed.
   Łazińsk brethren's circles, the statistics of 1938). The scan of the whole
   book found the relevant material scattered in a general church history;
   the false friend "Trombin bei Rypin" (p. 101) is ruled out.
+- **Two pages added 2026-10-23** (the editor's test for what belongs: "look
+  at the proposed events and ask 'is this applicable to the same people in
+  the Zagórów parish?'"): **p. 180**, the parsonage's foundation stone of
+  16 October 1913, the church's building line of p. 166 continued (kept to
+  the building-dates run, the confirmands' home in Sompolno and the Koło
+  parsonage riding along); **p. 257**, the close of the 1938 statistics —
+  the church-wide total "Seelenzahl im ganzen (einschließlich Zagöröw):
+  420 610", the figure the excerpted p. 256 explains the leaving-out of
+  Zagórów from, and Doberstein's quoted reasoning that the ratio of the
+  German- and Polish-language confirmands is the decisive measure. The
+  whole book was proposed page by page and the rest declined by the same
+  test: the neighbours' parishes' events (Marggraff's circuit of 1776,
+  Sompolno's parish founding, the Konin founding obstructed from Żychlin,
+  the interwar pastors of Grodziec, Babiak and Stawiszyn, the
+  "Koniner Angelegenheit") touch places the edition knows but no person
+  the Zagórów parish shares; Kegler's death in the rising of 1830/31
+  (p. 115 against p. 168, the book contradicting itself) has no Zagórów
+  counterpart to link to. The one false friend of the second scan:
+  p. 250's "Rzgowskastraße" is a Łódź street, not Rzgów.
+- **The sources changed shape on 2026-10-23** (the Books folder was
+  reorganised): the German file moved to
+  `Eduard Kneifel - [1964] Geschichte der Evangelisch-Augsburgischen
+  Kirche in Polen\Eduard Kneifel - [1964] Geschichte ....md` (same text);
+  the English pairing file is gone, and in its place stands the whole-book
+  English translation made from the German that day, which carries the
+  editor's ruling that country names are translated in the English
+  (Poland, Prussia, Russia) while place names keep the print's forms.
+  `make_original.py` reads the new paths; the excerpt's English is now
+  cut from that file, and the two new pages' English came with it.
 - **In copyright** (published 1964): put to the editor before anything was
   shown; they chose the visible excerpt. The Licences page was not changed.
-- The index: 140 hits, all read; new forms `Trombezyn`, `Zagörow`/`Zagö-röw`
-  (a literature-only pattern beside the edition's own), `Lazinsk` (the
-  editor's ruling of 2026-10-22) and `Prusinski`; `Brzyczka` refused; five
-  old rulings sharpened with exceptions (Schröttersdorf, the Posen imprints,
-  "Lissewo-Pyzdry", Dembina- and Koneck-Holland, Wielun by exception). One
+- The index: 140 hits at the first ruling, all read; new forms `Trombezyn`,
+  `Zagörow`/`Zagö-röw` (a literature-only pattern beside the edition's own),
+  `Lazinsk` (the editor's ruling of 2026-10-22) and `Prusinski`;
+  `Brzyczka` refused; five old rulings sharpened with exceptions
+  (Schröttersdorf, the Posen imprints, "Lissewo-Pyzdry", Dembina- and
+  Koneck-Holland, Wielun by exception). The added pages brought one new
+  form, `Zagöröw` (p. 257, the umlaut on both vowels), ruled in
+  2026-10-23. One
   hand-made link, p. 41 against the summons of 1860 and the boundary decree
   of 1775; Kneifel names the husband alone, the documents the couple, and
   the edition follows the documents. The literature has 31 works, 29 on the

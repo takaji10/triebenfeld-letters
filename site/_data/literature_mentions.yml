@@ -5122,6 +5122,9 @@ place:
     - key: '166'
       en: p. 166
       de: S. 166
+    - key: '180'
+      en: p. 180
+      de: S. 180
     - key: '226'
       en: p. 226
       de: S. 226
@@ -5131,6 +5134,9 @@ place:
     - key: '256'
       en: p. 256
       de: S. 256
+    - key: '257'
+      en: p. 257
+      de: S. 257
   - work: ostensacken2001
     cite: Kraus (2001)
     pages:
