@@ -1083,8 +1083,6 @@ in, one at a time.
       right place, as well as a crude drawing allows. The pilot is done
       but for its pages on the site (with GAZETTEER_PLAN step 3); the next
       map at your choice, by docs/ADDING_A_MAP.md.
-- [x] (was: look at the warp test page
-      (https://takaji10.github.io/triebenfeld-maps/warp.html?map=lukom1766).
-- [ ] Then: the import, the crops, the fit again; the map's viewer page
+- [ ] The map's viewer page on the site
       and the crops on the place pages (with GAZETTEER_PLAN step 3).
 - [ ] The interactive map (/map/).
