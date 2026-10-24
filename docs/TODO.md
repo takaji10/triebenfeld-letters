@@ -1019,3 +1019,31 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       at your word 2026-10-23** — the branch dziennikpoznanski18791220
       fast-forwarded onto main; the live-site deploy waits on your Publish
       word, as for the other committed-not-published work).
+
+## 32. Kneifel (1937), the Kalischer Diözese parish monographs (added
+      2026-10-23)
+
+- [x] The excerpt brought in and translated (`literature/kneifel1937/`):
+      79 printed pages of the parish monographs — the title leaves, the
+      introductory chapter on the diocese, and the monographs of Kalisch,
+      Grodziec, Konin with its filial Maślaki, and Zagórów with the
+      sub-entry on the filial of Lissewo-Pyzdry — read by Tesseract against
+      the PDF's own text layer (the editor's Kalisch .md the base text where
+      it exists), translated into English the same day, `work.yml` written
+      and the site pages built in both languages.
+- [x] The index's 49 new hits in 18 pairs all read and ruled
+      (`literature/index.yml`): among the yes rulings Adamierz, the Ląd
+      monastery and Skokum; among the no rulings Alexandrien (Ptolemy of
+      Alexandria), the Koninerstrasse, Wieruszew and the Wrąbczyner
+      Hauland / Wrąbczynkowska Kolonia (the colony by Wrąbczynek); five
+      people ruled no as each not the edition's person (Fischbach,
+      Godlewski, Jankowski, Küster — the office, not the man — and Kunkel).
+- [ ] **You:** Heinrich Zelmer, elder of the Zagórów church council in
+      1875 and again 1882 (Kneifel 1937, pp. 253 and 256), is ruled yes on
+      Claude's presumption that he belongs to the Zelmers of the Trąbczyn
+      Olęder settlement, the parish's own; not shown
+      (NEEDS_CONFIRMATION, "Identifications").
+- [ ] Published at your word (built, verified, committed; **merged to main
+      at your word 2026-10-24** — the branch kneifel1937 fast-forwarded
+      onto main, the Kraus precedent; the live-site deploy waits on your
+      Publish word, as for the other committed-not-published work).
