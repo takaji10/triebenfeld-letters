@@ -1086,6 +1086,10 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
 - [ ] Offered: a reading of the site's existing pages for method talk
       (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.
 
+- [ ] Published at your word (committed; **merged to main at your word
+      2026-10-24**, with the maps of section 34; the live-site deploy
+      waits on your Publish word).
+
 ## 34. The maps (planned 2026-10-23)
 
 The plan: `docs/MAPS_PLAN.md`. Nothing built. You choose which maps come

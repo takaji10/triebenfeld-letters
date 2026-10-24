@@ -120,7 +120,8 @@ so check them.
 ## Where things stand (2026-10-23)
 
 - **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the
-  branch `gazetteer`, **committed, not published**; plan
+  branch `gazetteer`, **merged to main 2026-10-24 at the editor's word,
+  not published**; plan
   `docs/GAZETTEER_PLAN.md`): the editor's own index of 112 places around
   Trąbczyn and Zagórów ("Place Names.md", kept verbatim in
   `reference/gazetteer/source/`), one YAML per place, the 119 footnotes
