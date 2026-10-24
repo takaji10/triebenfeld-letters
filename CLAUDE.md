@@ -117,11 +117,10 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-23)
+## Where things stand (2026-10-24)
 
 - **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the
-  branch `gazetteer`, **merged to main 2026-10-24 at the editor's word,
-  not published**; plan
+  branch `gazetteer`, **merged to main and published 2026-10-24**; plan
   `docs/GAZETTEER_PLAN.md`): the editor's own index of 112 places around
   Trąbczyn and Zagórów ("Place Names.md", kept verbatim in
   `reference/gazetteer/source/`), one YAML per place, the 119 footnotes
@@ -148,8 +147,8 @@ so check them.
   page; waiting on the editor's marks. **To add a map, follow
   `docs/ADDING_A_MAP.md`.**
 
-- **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
-  published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
+- **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **published
+  2026-10-23**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
   (Stuttgart: Franz Steiner 2001), the biography of the mother of
   Marianne Gräfin von Hoym, the Prince's wife. Chapter III whole (printed
   pp. 33-42) and, from the appendices, Anlage 8 (the daughter's letter of
@@ -173,9 +172,9 @@ so check them.
   my word" - the third full-text exception. Index ruled; verify_site.py's
   leak check skips shown works' own pages (the shared letter of 1811 with
   the hidden Seidel). `docs/LITERATURE_PLAN.md`, section 27. Read
-  `literature/ostensacken2001/notes.md` first. Not published.
-- **Werner (1904)** (`werner1904`, added 2026-10-23, **committed, not
-  published**): Albert Werner, *Geschichte der evangelischen Parochien in
+  `literature/ostensacken2001/notes.md` first. Published 2026-10-23.
+- **Werner (1904)** (`werner1904`, added 2026-10-23, **published
+  2026-10-22**): Albert Werner, *Geschichte der evangelischen Parochien in
   der Provinz Posen* (Lissa: Friedrich Ebbecke 1904), the numbered
   parish-by-parish history of the evangelical parishes of the Prussian
   province of Posen. Only entry 201, the parish of Wreschen (Września),
@@ -193,9 +192,9 @@ so check them.
   (`literature/index.yml`); the Sokolnik refusal and the two identifications
   from outside the page (Orangeriehaus, Hesekiel) open in NEEDS_CONFIRMATION.
   `docs/LITERATURE_PLAN.md`, section 25. Read
-  `literature/werner1904/notes.md` first. Not published.
+  `literature/werner1904/notes.md` first. Published 2026-10-22.
 - **The three Lidmanowski texts** (`zdrowie1912z10`, `jutrzenka1913z8`,
-  `zdrowie1914z6`, added 2026-10-22, **committed, not published**): the
+  `zdrowie1914z6`, added 2026-10-22, **published 2026-10-22**): the
   first learned-journal articles of the Newspapers section and the first
   batch from the editor's own Markdown file — two in *Zdrowie*, the organ
   of the Warsaw Hygiene Society (the nutrition study of the Słupca powiat,
@@ -211,10 +210,10 @@ so check them.
   three shown whole (Dr. Konstanty Lidmanowski of Zagórów, 1865-1943,
   public domain since 2014); a person entry (`lidmanowski`, the Głowiecki
   shape, the Jutrzenka hit ruled). Read each item's `notes.md` first.
-  Not published.
+  Published 2026-10-22.
 - **Słowiński (2023), finished, and Słowiński & Połom (2024), "Zerwane
   ogniwo"** (`slowinski2023`, `slowinskipolom2024`, added 2026-10-22,
-  **committed, not published**): the twin Zagórów volumes from the
+  **published 2026-10-22**): the twin Zagórów volumes from the
   editor's checked Polish and English Markdown exports, both under
   copyright and kept like Seidel (2018) - in the repository for questions,
   the site showing only the detailed summary, `visible: false`,
@@ -225,9 +224,9 @@ so check them.
   Claude translation not carried out); its year corrected to 2024. Open:
   the Mielke dates, the founders of 1746, the 1718 ruling (all in
   NEEDS_CONFIRMATION). `docs/LITERATURE_PLAN.md`, section 26. Read the
-  works' `notes.md` first. Not published.
-- **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **committed,
-  not published**): the editor's new section (`places/`,
+  works' `notes.md` first. Published 2026-10-22.
+- **The place pages: Zagórów** (`zagorowo`, added 2026-10-22, **published
+  2026-10-22**): the editor's new section (`places/`,
   `docs/PLACES_PLAN.md`) — a page per place that has sources of its own,
   hung on the place's card on the Places page and linked from it ("Let's
   add a new source to a place: Zagórów. This site has a lot of information
@@ -246,9 +245,9 @@ so check them.
   Its self-contradictions (1262/1261; 1869/1870) kept as printed and
   recorded; open: the index over the sources, the 1869/1870, the medieval
   dates (NEEDS_CONFIRMATION, "The places"). Read
-  `places/zagorowo/zagorowpl20220614/notes.md` first. Not published.
+  `places/zagorowo/zagorowpl20220614/notes.md` first. Published 2026-10-22.
 - **Słowo (1892) sells Trąbczyn** (`slowo18920104`, added 2026-10-22,
-  **committed, not published**): the "Sprzedaże dóbr" notice in the Warsaw
+  **published 2026-10-22**): the "Sprzedaże dóbr" notice in the Warsaw
   daily's "Kronika ekonomiczna" of 4 January 1892, p. 3, the third item of
   the Newspapers section — the press witness of Trąbczyn's sale by Count
   Miączyński to Countess Władysławowa Wielopolska for 225,000 rs., the
@@ -257,9 +256,9 @@ so check them.
   ("only this snippet of the article is needed"), their own crop of the
   column carried on the item's page, five readings ruled on the spot sheet
   (among them "150 włók" against the draft's 159). Read
-  `newspapers/slowo18920104/notes.md` first. Not published.
+  `newspapers/slowo18920104/notes.md` first. Published 2026-10-22.
 - **Łukasiewicz (1997)** (`lukasiewicz1997`, added 2026-10-22,
-  **committed, not published**): Dariusz Łukasiewicz, "Nowa analiza
+  **published 2026-10-22**): Dariusz Łukasiewicz, "Nowa analiza
   „Czarnego Rejestru". Studium źródłoznawcze", *Kwartalnik Historyczny* R.
   CIV, nr 2, pp. 31-62 - the modern source study of the black register the
   edition carries in print. The editor's rulings: the whole article, visible,
@@ -271,9 +270,9 @@ so check them.
   corrupt side told (Hoym's circle, Triebenfeld's resale, the rescripts
   against selling to Poles). Two hand-made links tie it to the Prince's
   letters; where its figures differ from the documents, the documents stand.
-  Read `literature/lukasiewicz1997/notes.md` first. Not published.
-- **Kneifel (1964)** (`kneifel1964`, added 2026-10-22, **committed, not
-  published**): Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen
+  Read `literature/lukasiewicz1997/notes.md` first. Published 2026-10-22.
+- **Kneifel (1964)** (`kneifel1964`, added 2026-10-22, **published 2026-10-22**):
+  Eduard Kneifel, *Geschichte der Evangelisch-Augsburgischen
   Kirche in Polen* (self-published, Niedermarschacht 1964), the first work
   from the editor's Markdown files - the German transcription and an
   English that pairs it page for page, read from their Books folder on J:
@@ -301,7 +300,7 @@ so check them.
   earlier sessions' committed work. The literature has 31 works, 29 on the
   site (two summary-only).
 - **Minakowska (2026), the Starost's page, and the person pages**
-  (2026-10-22, committed; not published): the first saved page of
+  (2026-10-22, published 2026-10-22): the first saved page of
   Minakowska's genealogy database (sejm-wielki.pl, person 4.285.619), with
   the standing rule for the ones that follow
   (`docs/LITERATURE_PLAN.md`, section 22) - one excerpt work per person
@@ -345,8 +344,8 @@ so check them.
   literature hits need the index dedup to ask `applies()` (fixed
   2026-10-22), and a standalone block's slug must not be an entry's slug
   (the collision renamed before commit).
-- **The newspapers** (`newspapers/`, added 2026-10-22, **committed, not
-  published**): the editor's third section for newspaper articles, "since
+- **The newspapers** (`newspapers/`, added 2026-10-22, **published
+  2026-10-22**): the editor's third section for newspaper articles, "since
   it doesn't really fall under archival sources or literature" — neither
   holdings nor literature; plan in `docs/NEWSPAPERS_PLAN.md`. Five items:
   the "Z Zagórowa" column of Dziennik Poznański R. 79, nr 180 (7 August
@@ -403,10 +402,10 @@ so check them.
   `newspapers/index.yml`; the "In the newspapers" boxes on /people/ and
   /places/; Głowiecki stands on /people/ with no documents). Open: the
   Oleśnica identification, the 1718 of the 1942 article, the 2015 report's
-  Miączyński heirs (NEEDS_CONFIRMATION). Not
-  published.
+  Miączyński heirs (NEEDS_CONFIRMATION). Published
+  2026-10-22.
 - **The death notice of Włodzimierz hr. Miączyński** (`dziennikpoznanski18791220`,
-  added 2026-10-23, **committed, not published**): the nekrolog in the
+  added 2026-10-23, **published 2026-10-23**): the nekrolog in the
   black-bordered box on p. 4 of Dziennik Poznański, R. 21, nr 292 of
   20 December 1879 (the WBC digitisation) — the Count dead at Trąbczyn on
   the 18th of December after long sufferings, the "Ekspedycya zwłok" on
@@ -417,9 +416,9 @@ so check them.
   capitals and the rough 300 dpi page defeated it; the death date stands
   against the records' 20th of December (the documents first,
   NEEDS_CONFIRMATION). Read `newspapers/dziennikpoznanski18791220/notes.md`
-  first. Not published.
+  first. Published 2026-10-23.
 - **The parish's own chronicle** (`luteraniezagorow`, added 2026-10-22,
-  **committed, not published**): the page "Zagórów filiał Parafii
+  **published 2026-10-23**): the page "Zagórów filiał Parafii
   Ewangelicko - Augsburskiej w Koninie" on Luteranie Konin
   (luteranie.konin.pl), the Konin parish's website — "Ważniejsze
   wydarzenia z życia Parafii w Zagórowie", a chronicle in dated entries
@@ -441,10 +440,10 @@ so check them.
   stand; "Lądu" and the Polish "Śląska, Pomorza, Prus" matched by no
   pattern (NEEDS_CONFIRMATION). Its bearing: Werner's Wreschen parish
   (the care from Września to 1817, entry 201) and Kneifel's church of
-  1878-1896. Read `newspapers/luteraniezagorow/notes.md` first. Not
-  published.
+  1878-1896. Read `newspapers/luteraniezagorow/notes.md` first. Published
+  2026-10-23.
 - **The Echo Tureckie clipping** (`echotureckie1931018`, added 2026-10-22,
-  **committed on its own branch, not published**): "Zajście w Zagórowie"
+  **published 2026-10-23**): "Zajście w Zagórowie"
   in the Zagórów edition of the Turek weekly Echo Tureckie, R. 8, nr 18
   (6 May 1931), nr 379 — the clash at the recruiting commission of
   24 April: the workers' crowd stoning the premises when the quota ran
@@ -458,10 +457,10 @@ so check them.
   rights approved), the clipping carried. The item names nobody; the
   index's hits are Zagórów's forms, already ruled. Its bearing: the
   recruitment for Germany's violence six years before the 1937 column's
-  routine. Read `newspapers/echotureckie1931018/notes.md` first. Not
-  published.
-- **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **committed, not
-  published**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
+  routine. Read `newspapers/echotureckie1931018/notes.md` first.
+  Published 2026-10-23.
+- **Mielewczyk (2017)** (`mielewczyk2017`, added 2026-10-22, **published
+  2026-10-22**): Wojciec Mielewczyk, "Zmiany przestrzeni wsi w drugiej
   połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów
   Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie",
   *Z Dziejów Kartografii* XXI, pp. 41-57, on the changes in the rural space

@@ -112,7 +112,16 @@ Where the rest is:
   paying to translate the document again (2026-09-30: "Translation costs
   money"). Translate again only where the sense of a passage changes.
 - **Publish only at their word.** "Publish" and "update the website" mean
-  push `main`.
+  push `main`. **Every push of `main` deploys the site**
+  (`.github/workflows/pages.yml`): "merged to main, not published" is only
+  true while the merge stays local. On 2026-10-22 and 23 several sessions
+  merged into `main` at the editor's word and pushed it, and the docs went
+  on calling the work "not published"; the deploy history showed it had
+  been live since those days (found at the Publish of 2026-10-24). When
+  the editor says "merge to main", merge locally and do not push; push
+  only at "Publish". To date a piece of work's publication, ask
+  `gh run list --workflow pages.yml` for the first successful run whose
+  commit contains it (`git merge-base --is-ancestor`).
 - **Writing the editor gives as a sample is for style only** (2026-10-20).
   They gave three samples of their writing, among them the preface and
   introduction of their own book on the estate, so that their voice could

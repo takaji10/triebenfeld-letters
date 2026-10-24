@@ -2891,3 +2891,15 @@ lose his estates. The era page writes Konotop, not Kontop.
 - **The warp checked by the editor**: the map lands in the right place
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
+
+## 2026-10-24 - Published
+
+- The editor said "Publish". Main was pushed at 5830d718 after a local
+  Jekyll build and `verify_site.py` passed (619 documents character-exact,
+  46848 internal links resolve); the "Build and deploy" run succeeded.
+- Went live with it: Kneifel (1937), the gazetteer import and the maps'
+  first crops.
+- The other items this section first named (Kraus, Werner, the Lidmanowski
+  texts, Słowiński, the Zagórów place page, the newspaper items, Łukasiewicz,
+  Mielewczyk) had already been live since 22 or 23 October, because every push
+  of main deploys the site, though the docs still called them not published.

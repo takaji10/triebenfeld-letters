@@ -763,7 +763,7 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       wife of a Władysław) where the era's ownership line has "Countess
       Maria Wielopolska" — one woman or two (NEEDS_CONFIRMATION, "The
       newspapers").
-- [ ] Published at your word (the section is built but not yet on `main`).
+- [x] Published at your word (the section is built but not yet on `main`). **Live since 2026-10-22** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 23. The newspapers: TwojaSłupca, 6 lipca 2015 — "Trąbczyn świętował 775 lat"
       (added 2026-10-22)
@@ -808,8 +808,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       NEEDS_CONFIRMATION ("The places"): the index over the sources, the
       1869/1870 of the loss of the town rights, the medieval dates as the
       page gives them.
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [x] Published at your word (built, verified, committed; not yet on
+      `main`). **Live since 2026-10-22** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 25. The newspapers: the three Lidmanowski texts (added 2026-10-22)
 
@@ -830,8 +830,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [ ] **You:** the open questions in NEEDS_CONFIRMATION ("The
       newspapers"): the life dates (Wikipedia), Słupca as a place of the
       edition.
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [x] Published at your word (built, verified, committed; not yet on
+      `main`). **Live since 2026-10-22** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 26. Słowiński (2023), finished, and Słowiński & Połom (2024), "Zerwane ogniwo" (added 2026-10-22)
 
@@ -855,8 +855,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       the 2024 volume is a third witness, the ruling still wanted.
 - [ ] **You:** the look at the 2024 summary and at the slowinski2023
       English you supplied, when you want it.
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [x] Published at your word (built, verified, committed; not yet on
+      `main`). **Live since 2026-10-22** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 27. The newspapers: the parish's own chronicle, Luteranie Konin (added 2026-10-22)
 
@@ -873,8 +873,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       still unmatched — the same open question as the 2015 report's Ląd
       forms, now with this item's "Lądu" and its Polish "Śląska, Pomorza,
       Prus" beside it (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [x] Published at your word (built, verified, committed; not yet on
+      `main`). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 28. The newspapers: Echo Tureckie, R. 8, nr 18 (6 maja 1931), nr 379 — "Zajście w Zagórowie"
 
@@ -899,8 +899,8 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       parallel work's own; main itself left where that work stands),
       built and verified (ALL CHECKS PASSED, 619 documents
       character-exact).
-- [ ] Published at your word (built, verified, committed; not yet on
-      `main`).
+- [x] Published at your word (built, verified, committed; not yet on
+      `main`). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 29. Kraus (2001), chapter III and Anlagen 8 and 10 (added 2026-10-23)
 
@@ -986,9 +986,9 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       (NEEDS_CONFIRMATION, "The newspapers").
 - [ ] **You:** whether Szymanowice should be a place of the edition
       (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (built, verified, committed; merged to main
+- [x] Published at your word (built, verified, committed; merged to main
       at your word 2026-10-23; the live-site deploy waits on your word as
-      for the others).
+      for the others). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 31. The newspapers: the death notice of Włodzimierz hr. Miączyński,
       Dziennik Poznański, R. 21, nr 292 (20 grudnia 1879), p. 4 (added
@@ -1015,10 +1015,10 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       witness on Żychliński's side.
 - [ ] **You:** "Pawłowa", the nephew's seat — a place of the register or
       not (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] Published at your word (built, verified, committed; **merged to main
+- [x] Published at your word (built, verified, committed; **merged to main
       at your word 2026-10-23** — the branch dziennikpoznanski18791220
       fast-forwarded onto main; the live-site deploy waits on your Publish
-      word, as for the other committed-not-published work).
+      word, as for the other committed-not-published work). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
 ## 32. Kneifel (1937), the Kalischer Diözese parish monographs (added
       2026-10-23)
@@ -1043,10 +1043,10 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       Claude's presumption that he belongs to the Zelmers of the Trąbczyn
       Olęder settlement, the parish's own; not shown
       (NEEDS_CONFIRMATION, "Identifications").
-- [ ] Published at your word (built, verified, committed; **merged to main
+- [x] Published at your word (built, verified, committed; **merged to main
       at your word 2026-10-24** — the branch kneifel1937 fast-forwarded
       onto main, the Kraus precedent; the live-site deploy waits on your
-      Publish word, as for the other committed-not-published work).
+      Publish word, as for the other committed-not-published work). **Published 2026-10-24** (the editor's Publish; main pushed, the deploy succeeded).
 
 ## 33. The gazetteer: the editor's index of places (added 2026-10-23)
 
@@ -1086,9 +1086,9 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
 - [ ] Offered: a reading of the site's existing pages for method talk
       (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.
 
-- [ ] Published at your word (committed; **merged to main at your word
+- [x] Published at your word (committed; **merged to main at your word
       2026-10-24**, with the maps of section 34; the live-site deploy
-      waits on your Publish word).
+      waits on your Publish word). **Published 2026-10-24** (the editor's Publish; main pushed, the deploy succeeded).
 
 ## 34. The maps (planned 2026-10-23)
 
