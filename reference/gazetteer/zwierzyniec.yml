@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: zwierzyniec
+heading: Zwierzyniec
+register: null
+status: historical
+kind: folwark
+kind_text: Folwark
+location:
+  text: east of Szetlewek
+  relation: east-of
+  relative_to: szetlewek
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Folwark which existed east of Szetlewek. Only one map noted this feature (Kozłowski 1861).
+names:
+- form: Zwierzyniec
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: kozlowski1861
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review: []

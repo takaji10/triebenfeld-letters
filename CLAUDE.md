@@ -119,6 +119,34 @@ so check them.
 
 ## Where things stand (2026-10-23)
 
+- **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the
+  branch `gazetteer`, **committed, not published**; plan
+  `docs/GAZETTEER_PLAN.md`): the editor's own index of 112 places around
+  Trąbczyn and Zagórów ("Place Names.md", kept verbatim in
+  `reference/gazetteer/source/`), one YAML per place, the 119 footnotes
+  resolved to the edition's documents and books where it holds them
+  (`reference/gazetteer_sources.yml`), the maps the entries cite in
+  `reference/maps.yml`, `pipeline/gazetteer/gazetteer.py --check` and
+  `--missing`. **`docs/MISSING_SOURCES.md` is the running list of sources
+  still to bring in** (the editor's word). The editor's rulings: the
+  modern name heads an entry, the register's slugs stay; their text kept
+  as written (a fourth voice sample: EDITORS_VOICE, "Index entries"); a
+  page for every place; **no method talk** on a reader's page
+  (HOUSE_STYLE). Open: NEEDS_CONFIRMATION, "The gazetteer" (Mieszko III,
+  the 1411 scultetia, the colonies' names in the documents of 1805-1808,
+  the 1891 renaming, the identifications with the register). Next: step 2
+  of the plan, then the pages. **Simple steps go to a Sonnet sub-agent**
+  (WORKING_NOTES, "Working with the editor"). **The maps** are planned in
+  `docs/MAPS_PLAN.md` (nothing built): the editor chooses which maps come
+  in, one at a time; sixteen are already georeferenced by the editor on
+  MapWarper (the `.kml` beside each image on J: names its number); the
+  tiles are in a second repository, **triebenfeld-maps** (beside this one
+  on the desktop; takaji10.github.io/triebenfeld-maps/), since this one is
+  854 MB. **The pilot, Łukom 1766, is built** (2026-10-23; only this map,
+  the editor's word): tiles, the editor's MapWarper points, the labelling
+  page; waiting on the editor's marks. **To add a map, follow
+  `docs/ADDING_A_MAP.md`.**
+
 - **Kraus (2001)** (`ostensacken2001`, added 2026-10-23, **committed, not
   published**): Gerlinde Kraus, *Christiane Fürstin von der Osten-Sacken*
   (Stuttgart: Franz Steiner 2001), the biography of the mother of

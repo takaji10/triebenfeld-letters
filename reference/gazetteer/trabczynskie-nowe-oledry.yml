@@ -1,0 +1,42 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: trabczynskie-nowe-oledry
+heading: Trąbczyńskie Nowe Olędry
+register: trabczynskie-nowe-oledry
+status: historical
+kind: oleder-settlement
+kind_text: Olęder settlement
+location:
+  text: north of Czarnybród, located at Łazińsk Drugi
+  relation: north-of
+  relative_to: czarnybrod
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Olęder settlement which existed north of Czarnybród, located at Łazińsk Drugi. Possibly established in 1776 by Antoni Prusimski following the resolution of a dispute with Stanisław Chełmski, the owner of the Łukom estate concerning Trąbczyn’s southern forests. Chełmski lost a court case in 1775 and was forced to return the western portion of the Trąbczyn estate to Prusimski, including twelve Olęders who were living there. First mentioned as *Nowe Olędry* in Trąbczyn Catholic parish metrical records in 1776.[^93] This date coincides with the resolution of the dispute with Chełmski and may indicate that Prusimski proceeded to continue to develop the Trąbczyn estate, having been assured of his continuing ownership. Trąbczyńskie Nowe Olędry was merged with Trąbczyńskie Stare Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. *Neue [Trombczyner Holendry]* (Gilly 1802).
+names:
+- form: Trąbczyńskie Nowe Olędry
+  year: null
+  note: heading
+  footnote: null
+- form: Nowe Olędry
+  year: 1776
+  note: First mentioned as
+  footnote: 93
+aliases: []
+maps:
+- map: gilly1802
+  form: Neue [Trombczyner Holendry]
+  note: null
+footnotes:
+- n: 93
+  text: '*Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273'
+  refs:
+  - source: trabczyn-births-1691-1784
+    locator: Page 241/Image 273
+    link: null
+    status: missing
+  note: null
+review: []

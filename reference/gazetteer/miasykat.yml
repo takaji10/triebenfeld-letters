@@ -1,0 +1,35 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: miasykat
+heading: Miąsykąt
+register: null
+status: historical
+kind: forest
+kind_text: Forest
+location:
+  text: in the southwest corner of the Trąbczyn estate
+  relation: in
+  relative_to: trabczyn
+  belongs_to: null
+  precision: unknown
+  lat: null
+  lon: null
+text_en: Forest located in the southwest corner of the Trąbczyn estate. Exact location unknown. Mentioned in a 1775 border commission report which detailed a boundary dispute between the estates of Trąbczyn and Łukom. According to the source, Trąbczyńskie Stare Olędry was founded in the forests of *Miąsykąt*, *Dziadulina*, and *Lusnie*.[^47]
+names:
+- form: Miąsykąt
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 47
+  text: “Relationes-oblatae [protocollon],” 1776, 692
+  refs:
+  - source: konin-gr145
+    locator: '692'
+    link: /documents/app53170koningr145/1/#p76
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+review: []

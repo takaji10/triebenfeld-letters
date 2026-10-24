@@ -1,0 +1,54 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: osiny
+heading: Osiny
+register: osiny
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: west of Łazy
+  relation: west-of
+  relative_to: lazy-trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784 court document which challenged the inheritance of the Trąbczyn estate and other assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées 1798).
+names:
+- form: Osiny
+  year: null
+  note: heading
+  footnote: null
+- form: Osynÿ
+  year: 1606
+  note: mentioned … as
+  footnote: 56
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Oszin
+  note: null
+- map: perthees1798
+  form: Oszin
+  note: von Pfau 1770)
+footnotes:
+- n: 56
+  text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 8/Image 342'
+  refs:
+  - source: trabczyn-marriages-1597-1775
+    locator: Page 8/Image 342
+    link: null
+    status: missing
+  note: null
+- n: 57
+  text: “Relationes [protocollon],” 1786, 164
+  refs:
+  - source: konin-gr120
+    locator: '164'
+    link: null
+    status: missing
+  note: null
+review:
+- 'maps: more than one italic form in the clause of Perthées 1798 (Oszin; Ossiny)'

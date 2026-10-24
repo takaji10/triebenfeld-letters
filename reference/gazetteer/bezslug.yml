@@ -1,0 +1,33 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: bezslug
+heading: Beźsług
+register: null
+status: historical
+kind: tavern
+kind_text: Tavern
+location:
+  text: north of Łazińsk Pierwszy
+  relation: north-of
+  relative_to: lazinskie-oledry
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Tavern which existed north of Łazińsk Pierwszy. Possibly depicted as an unlabeled tavern east of Trąbczyńskie Stare Olędry (Gilly 1802); *Beźsług* (Richter 1843).
+names:
+- form: Beźsług
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: gilly1802
+  form: null
+  note: Possibly depicted as an unlabeled tavern east of Trąbczyńskie Stare Olędry
+- map: richter1843
+  form: Beźsług
+  note: null
+footnotes: []
+review: []

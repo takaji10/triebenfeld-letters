@@ -2748,3 +2748,146 @@ lose his estates. The era page writes Konotop, not Kontop.
   WBC download). The item is visible (anonymous press of 1879, public
   domain); committed, not published; publish at the editor's word.
 
+
+## 2026-10-23 - The gazetteer: the editor's index of places (step 1, the import)
+
+- **The editor's "Place Names.md"** (their own index of the places around
+  Trąbczyn and Zagórów: 112 entries, 21 cross-references, 119 footnotes)
+  kept verbatim in `reference/gazetteer/source/` and imported into one
+  YAML per place (`reference/gazetteer/<slug>.yml`) by
+  `pipeline/gazetteer/import_place_names.py` (a record; the YAML is edited
+  by hand from here on). The plan, agreed with the editor the same day, is
+  `docs/GAZETTEER_PLAN.md`: the modern name heads an entry, the register's
+  slugs stay, the editor's text is kept as written, every place gets a
+  page, the work is on the branch `gazetteer`.
+- **The footnotes resolved**: every work they cite is a key of
+  `reference/gazetteer_sources.yml`, with how a locator becomes a link.
+  76 of the 119 footnotes link to the edition (the Kodeks entries by volume
+  and number; the leaves of the boundary decree of 1775 to their pages,
+  the foliation checked against five quoted phrases; the Ląd copy-book,
+  the lease of 1806, Breyer's notebook, the village table of 1797, the
+  visitation of 1791, Chodyła, Breyer, Szwiec, Słowiński & Połom,
+  Minakowska, the glossary's "stawisko"). The Kodeks no. 1464 (1362) the
+  edition holds as the Ląd copy-book's copy, and the footnote links to it.
+- **The maps** the entries cite listed in `reference/maps.yml` (27 maps,
+  179 appearances; none in the edition yet).
+- **`docs/MISSING_SOURCES.md`**, the running list of sources still to bring
+  in (the editor's word): its gazetteer part made by
+  `pipeline/gazetteer/gazetteer.py --missing`, a part by hand for what the
+  rest of the project waits on. `gazetteer.py --check` holds the links,
+  keys and slugs.
+- **Read against the documents**: the points where the entries and the
+  edition's documents differ are in NEEDS_CONFIRMATION, "The gazetteer",
+  the text unchanged until the editor rules (Mieszko III for the grant of
+  1173; the 1411 *scultetia* read as "scullery"; the 1418 exchange of farms;
+  the 1440 charges of 300 and 200 marks; the colonies' names as the
+  Prince's lists of 1805-1808 write them; Augustynów and the lease of 1806;
+  the archive of the visitation; the renaming of 1891; four identifications
+  with the register). The 1287 of the exchange of Wrąbczyn agrees with the
+  Kodeks (no. 685 confirms in 1292 an exchange "made five years before").
+- **The editor's voice**: the file analysed as a fourth sample, of index
+  entries, with a brief of its own (`docs/EDITORS_VOICE.md`); the editor's
+  remark on method made a house rule (`docs/HOUSE_STYLE.md`, "No method
+  talk").
+- The parsing and the scripts were done by a Sonnet sub-agent at the
+  editor's word (WORKING_NOTES, "Working with the editor"); its output read
+  and the links spot-checked before commit.
+
+## 2026-10-23 - The gazetteer: "Stara Huta Olędry", a name of two places
+
+- The editor's cross-reference "*Stara Huta Olędry* — See **Huta**" pointed
+  to no entry. The edition's sources use the name for both Hutas, and the
+  editor ruled it listed as both (2026-10-23): a name item with
+  `shared_with` and its sources in each entry. Huta Trąbczyńska: Słowiński
+  (2023), p. 98 (Łazińsk Drugi "dawniej ... Holendry Stara Huta"),
+  Chodyła (2015), p. 84, note 154, the village table of about 1797, entry
+  283, and the Prince's papers of 1806 (Oe 1 Bü 14526, document 8; Oe 1
+  Bü 9454, letter 24), beside Richter 1843's "H. Stara Huta". Huta
+  Łukomska: Chodyła, pp. 70 and 76, and the 1797 table, entry 281. A third,
+  Stara Huta-Grójeckie Olędry in Grodziec parish, is not to be confused
+  (the 1797 table, entry 282). Three source keys added to
+  `reference/gazetteer_sources.yml` (slowinski2023, oe1bu14526, oe1bu9454).
+
+## 2026-10-23 - The maps: the plan
+
+- `docs/MAPS_PLAN.md`, at the editor's request ("how can we setup the
+  architecture needed to process maps?"): the originals stay on the
+  editor's drive; each chosen map cropped to the area and cut into IIIF
+  level-0 tiles in a second repository with its own GitHub Pages site (the
+  edition's repository is 854 MB packed, its site 700 MB); a labelling page
+  built like the fold page (OpenSeadragon; the place's point, the traced
+  lettering, what the map shows); every mark in the original's pixels;
+  georeferencing from the editor's own MapWarper control points (sixteen
+  maps already warped there, found from the `.kml` files beside the images)
+  and from the marks of the places with coordinates, the warp shown in the
+  browser by Allmaps; coordinates for the vanished places from the fit; a
+  viewer page per map, the crops on the place pages, and the interactive
+  map over OpenStreetMap. A pilot (proposed: Łukom 1766) before the rest.
+- **The editor chooses the maps** (2026-10-23: "I will be selective with
+  them"): the plan, `reference/maps.yml` and the missing list say so; the
+  list's maps section is now "Maps cited", not a list of wants.
+- The editor agreed the plan's recommendations (2026-10-23): the second
+  repository for the tiles, the pilot Łukom 1766, libvips (installed:
+  pyvips 3.2.0, libvips 8.18.7). MapWarper's API answers: a map's
+  record gives the uploaded image's size, its `gcps` the control points
+  (Łukom 1766: five). The map's original is the file of that size (for
+  Łukom the PNG, not the JPG), recorded in MAPS_PLAN, section 5.
+
+## 2026-10-23 - The maps: the pilot, Łukom 1766
+
+- At the editor's word ("go ahead with the Łukom map ... Let's only do this
+  one map for now"): the second repository **triebenfeld-maps**
+  (github.com/takaji10/triebenfeld-maps, published at
+  takaji10.github.io/triebenfeld-maps/), public, holding the image tiles
+  and georeferences only.
+- **The scripts** (`pipeline/maps/`): `tiles.py` (IIIF level-0 tiles with
+  libvips; the info.json id fixed after libvips doubles the name),
+  `mapwarper.py` (the editor's control points from MapWarper's API),
+  `georef.py` (the affine fit, residuals in metres, positions of the marked
+  places, the Allmaps annotation), `label_page.py` (the labelling page,
+  OpenSeadragon 4.1.1 kept in the project), `import_labels.py` (the saved
+  marks into `maps/<map>/labels.yml`, the crops of the lettering, the links
+  to the gazetteer), `test_crops.py`. Written by Sonnet sub-agents to a
+  spec at the editor's word, read and corrected in the main session (a
+  gazetteer file that does not parse now stops the run; items marked
+  `absent` skipped).
+- **Łukom 1766**: the editor's north-up PNG (10,280 × 8,523) as the
+  original, `view_rotation: 180` (drawn south-up, the editor's word); 502
+  tiles, 15.8 MB; five control points, affine RMS 336 m; the warp test
+  page. The gazetteer's nine names to find read against the text first:
+  Myszakówek marked absent (the entry says it is not on the map), the stray
+  "Stara Huta" item of Huta Łukomska removed, Imielno's *Dezerta Iemielno*
+  supplied, Stawisko's *Brod Kaliski* noted as the crossing west of it
+  (`maps/lukom1766/notes.md`).
+- **The procedure recorded** for the next maps: `docs/ADDING_A_MAP.md`
+  (what the editor does, what Claude runs, the traps).
+- **The editor's first marks imported** (ten labels, among them Myszaków,
+  which they added). At their word two readings corrected, read on the
+  image: *Lomaw* (no Ł) and *Dezerta Jemielno* (a J), in the labels, the
+  map forms and the entries' text. The inscription *Tres mansi Conventûs
+  Landensis* they pointed out added as a label (the abbey of Ląd's three
+  mansi, the purchase of 1447/1461 in the Ląd copy-book; its place in the
+  gazetteer asked in NEEDS_CONFIRMATION). Two-line names: a trace's return
+  against the reading direction is a line break (or the key L), in the
+  page and the crop (a Sonnet sub-agent, tested). The bands were left at
+  the default and cut the tops of large lettering: the help says so, the
+  keys step by 20; the editor widens them and the marks come in again.
+- **The band stands on the baseline** (the editor: "I trace the baseline
+  of words - therefore assume a bit of padding underneath to account for
+  possible descenders, and then use the [] to increase proportionally from
+  the top"): the band runs from `height` above the traced line to 35% of
+  it below; the crop the same; default height 80 (a Sonnet sub-agent,
+  tested; checked on Dezerta Jemielno at 120: whole and level).
+- **Tres mansi Conventûs Landensis** recorded under Grądzeń as its second
+  appearance on Łukom 1766, linked to the Ląd copy-book's documents of 1447
+  and 1461, at the editor's word; label 025 now belongs to Grądzeń.
+- **Padding at both ends** of a band and its crop (the editor's word; a
+  Sonnet sub-agent).
+- **The final marks on Łukom 1766** imported (the editor's bands, 100 to
+  240 pixels): eleven labels, eleven crops whole and upright. The import
+  fixed for a second run on the same map: it reuses the gazetteer item
+  linked to a label and unlinks labels deleted since (it would have added
+  a duplicate for every place).
+- **The warp checked by the editor**: the map lands in the right place
+  ("This map is very crudely drawn so it's not perfect"). Allmaps handles
+  the level-0 static tiles, the pilot's open point.

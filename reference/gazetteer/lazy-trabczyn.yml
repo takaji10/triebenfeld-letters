@@ -1,0 +1,74 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: lazy-trabczyn
+heading: Łazy
+register: lazy-trabczyn
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Trąbczyn
+  relation: south-of
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared marshy area (Ger. *Brücher*).[^36] Mentioned at least as early as 1597 in metrical records from Trąbczyn Catholic parish.[^37] In 1791, Łazy was inhabited by 48 people of Catholic faith.[^38] Chodyła claimed that the village of Łazy changed its legal status at some point to an Olędry[^39] on account of a Prussian register of houses and population from 1797 which listed the settlement as “*Łazy Haul[endry]*” with 42 inhabitants.[^40] *Lase* (von Pfau 1770); *Lasy* (Trąbczyn 1790).
+names:
+- form: Łazy
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Lase
+  note: null
+- map: trabczyn1790
+  form: Lasy
+  note: null
+footnotes:
+- n: 36
+  text: Breyer, "Deutsche Gaue in Mittelpolen," 39
+  refs:
+  - source: breyer1935gaue
+    locator: p. 39
+    link: /literature/breyer1935gaue/#p-39
+    status: linked
+  note: null
+- n: 37
+  text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334'
+  refs:
+  - source: trabczyn-marriages-1597-1775
+    locator: Page 1/Image 334
+    link: null
+    status: missing
+  note: null
+- n: 38
+  text: Archiwum Arcybiskupów Gnieźnieńskich 24v
+  refs:
+  - source: visitation-1791
+    locator: 24v
+    link: /documents/adwl85/1/#p3
+    status: linked
+  note: null
+- n: 39
+  text: Chodyła 32
+  refs:
+  - source: chodyla2015
+    locator: p. 32
+    link: /literature/chodyla2015/#p-32
+    status: linked
+  note: null
+- n: 40
+  text: “Die neuesten topografischen Nachrichten von Südpreussen,” 401
+  refs:
+  - source: agad1745
+    locator: '401'
+    link: /documents/agad1169011745/1/#p1
+    status: linked
+  note: null
+review:
+- 'footnote: n=38 archive name differs from the edition (ADWł 85)'

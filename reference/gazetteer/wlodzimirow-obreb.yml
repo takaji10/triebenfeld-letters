@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: wlodzimirow-obreb
+heading: Włodzimirow Obręb
+register: null
+status: historical
+kind: forest-precinct
+kind_text: Historical forest precinct
+location:
+  text: east of Włodzimirów
+  relation: east-of
+  relative_to: wlodzimirow
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Historical forest precinct which existed east of Włodzimirów. The precinct included the districts (*okręg*) of *Grabina* (north of Grabina), *Garbinck* (northwest of Stanisławów), and *Osiny* (southwest of Osiny). Only one map noted this feature (Kozłowski 1861).
+names:
+- form: Włodzimirow Obręb
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: kozlowski1861
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review: []

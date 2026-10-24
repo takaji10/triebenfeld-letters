@@ -1,0 +1,43 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: olchowo
+heading: Olchowo
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: northeast of Zagórów
+  relation: northeast-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Olchowo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Sophienthal* (Reymann 1834).
+names:
+- form: Olchowo
+  year: null
+  note: heading
+  footnote: null
+- form: Kolonia Sophienthal
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Kolonia Sophienthal
+  year: null
+  note: Originally named
+  footnote: null
+- form: Olchowo
+  year: 1891
+  note: Renamed to
+  footnote: null
+aliases:
+- Sophienthal, Kolonia
+maps:
+- map: reymann1834
+  form: Hol. Sophienthal
+  note: null
+footnotes: []
+review: []

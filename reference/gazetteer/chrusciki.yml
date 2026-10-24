@@ -1,0 +1,44 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: chrusciki
+heading: Chruściki
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Kopojno
+  relation: east-of
+  relative_to: kopojno
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation.
+names:
+- form: Chruściki
+  year: null
+  note: heading
+  footnote: null
+- form: Kolonia Adelhof
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Kolonia Adelów
+  year: null
+  note: cross-reference
+  footnote: null
+- form: Kolonia Adelhof
+  year: null
+  note: Originally named
+  footnote: null
+- form: Chruściki
+  year: 1891
+  note: Renamed to
+  footnote: null
+aliases:
+- Adelhof/Adelów, Kolonia
+maps: []
+footnotes: []
+review: []

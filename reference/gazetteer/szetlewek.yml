@@ -1,0 +1,72 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: szetlewek
+heading: Szetlewek
+register: szetlewek
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Stanisławów
+  relation: east-of
+  relative_to: stanislawow
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Stanisławów. Szetlewek, or *Szetlewo Kątne*[^76] was first pawned (used as a collateral for a loan) to Jan Goliński. Later in 1671, the property was fully sold to Goliński by the heirs of former owner Martin Strzałkowski. It eventually descended by hereditary succession to Krzysztof Prusimski and his wife Teresa Łoś-Golińska, as well as Łoś-Golińska’s mother Konstancja Krusińska and her husband Marcin Katowski.[^77] Mentioned as *Szetlewko* in a 1685 marriage record from Trąbczyn Catholic parish metrical records.[^78] Sebastjan Szetlewicz from Szetlewko was mentioned in Kalisz municipal court records from 1727.[^79] *Szetlewka* (von Pfau 1770); *Szelkowek* (Trąbczyn 1790); *Szedlewek* (Gilly 1802).
+names:
+- form: Szetlewek
+  year: null
+  note: heading
+  footnote: null
+- form: Szetlewko
+  year: 1685
+  note: Mentioned as
+  footnote: 78
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Szetlewka
+  note: null
+- map: trabczyn1790
+  form: Szelkowek
+  note: null
+- map: gilly1802
+  form: Szedlewek
+  note: null
+footnotes:
+- n: 76
+  text: “Relationes [protocollon],” 1786, 163v
+  refs:
+  - source: konin-gr120
+    locator: 163v
+    link: null
+    status: missing
+  note: null
+- n: 77
+  text: Ibid 161-167v
+  refs:
+  - source: konin-gr120
+    locator: 161-167v
+    link: null
+    status: missing
+  note: null
+- n: 78
+  text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 52/Image 378'
+  refs:
+  - source: trabczyn-marriages-1597-1775
+    locator: Page 52/Image 378
+    link: null
+    status: missing
+  note: null
+- n: 79
+  text: “Relationes, citationes [protocollon] 1726-1727,” 1727, 222
+  refs:
+  - source: kalisz-1727
+    locator: p. 222
+    link: null
+    status: missing
+  note: null
+review: []

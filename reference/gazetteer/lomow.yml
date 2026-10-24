@@ -1,0 +1,55 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: lomow
+heading: Łomów
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Łukom
+  relation: south-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege document where Ląd Abbey received Łomów for *Pustkowie Grądziem*.[^41] *Lomaw* (Łukom 1766); *Lumowo* (von Pfau 1770); *Lumow* (Perthées 1798); with a windmill (Gilly 1802); *Łamowo* (Reymann 1834).
+names:
+- form: Łomów
+  year: null
+  note: heading
+  footnote: null
+- form: Łomowo
+  year: 1461
+  note: First mentioned as
+  footnote: 41
+aliases: []
+maps:
+- map: lukom1766
+  form: Lomaw
+  note: null
+  label: lukom1766-013
+- map: vonpfau1770
+  form: Lumowo
+  note: null
+- map: perthees1798
+  form: Lumow
+  note: null
+- map: gilly1802
+  form: null
+  note: with a windmill
+- map: reymann1834
+  form: Łamowo
+  note: null
+footnotes:
+- n: 41
+  text: Klasztor cystersów w Lądzie 13-14
+  refs:
+  - source: lad-copybook
+    locator: 13-14
+    link: /documents/app5314550221/2/#p1
+    status: linked
+  note: null
+review: []

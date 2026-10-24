@@ -1,0 +1,38 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: podbiel
+heading: Podbiel
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Trąbczyn
+  relation: east-of
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Trąbczyn. In 1775, Podbiel and the nearby village of Szetlew were mentioned as being owned by Jan Nepomucen Zakrzewski, the son of Marianna Prusimska who was sister to Paweł and Antoni Prusimski, owners of the Trąbczyn estate in the 18th century.[^59] Depicted as a folwark on Wreschen 1901.
+names:
+- form: Podbiel
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: wreschen1901
+  form: null
+  note: Depicted as a folwark on
+footnotes:
+- n: 59
+  text: Ibid 659
+  refs:
+  - source: konin-gr145
+    locator: '659'
+    link: /documents/app53170koningr145/1/#p10
+    status: linked
+  note: null
+review: []

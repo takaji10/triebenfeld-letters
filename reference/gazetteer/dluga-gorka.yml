@@ -1,0 +1,38 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: dluga-gorka
+heading: Długa Górka
+register: null
+status: extant
+kind: isolated-dwellings
+kind_text: Isolated dwellings
+location:
+  text: south of and belonging to Wrąbczyn
+  relation: south-of
+  relative_to: wrabczyn
+  belongs_to: wrabczyn
+  precision: described
+  lat: null
+  lon: null
+text_en: Isolated dwellings south of and belonging to Wrąbczyn. Possibly appeared as *Siodmagorka* (Gilly 1802); *Osada Dlugagórka* (Richter 1843).
+names:
+- form: Długa Górka
+  year: null
+  note: heading
+  footnote: null
+- form: Siodmagorka
+  year: null
+  note: cross-reference
+  footnote: null
+aliases:
+- Siodmagorka
+maps:
+- map: gilly1802
+  form: Siodmagorka
+  note: Possibly appeared as
+- map: richter1843
+  form: Osada Dlugagórka
+  note: null
+footnotes: []
+review: []

@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: olesnica-folwark
+heading: Oleśnica-Folwark
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: southeast of and belonging to Oleśnica
+  relation: southeast-of
+  relative_to: olesnica
+  belongs_to: olesnica
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet southeast of and belonging to Oleśnica. Likely the site of a previous folwark. Likely appeared in the later half of the 20th century (not present on Słupca 1957).
+names:
+- form: Oleśnica-Folwark
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: slupca1957
+  form: null
+  note: Likely appeared in the later half of the 20th century (not present on
+footnotes: []
+review: []

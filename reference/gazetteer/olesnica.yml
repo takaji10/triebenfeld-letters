@@ -1,0 +1,52 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: olesnica
+heading: Oleśnica
+register: olesnica
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Zagórów
+  relation: east-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Zagórów. First mentioned as *Oleszyno* in a 1261 document where Prince Bolesław the Pious confirmed the earlier 1145 founding privilege for a monastery in Ląd made by Mieszko III and donated additional villages including Oleśnica.[^55] First appeared with a windmill (Gilly 1802); with a manor house (Richter 1843); renamed to *Erlenbruch* during Nazi Germany occupation (Hohensalza 1942).
+names:
+- form: Oleśnica
+  year: null
+  note: heading
+  footnote: null
+- form: Oleszyno
+  year: 1261
+  note: First mentioned as
+  footnote: 55
+- form: Erlenbruch
+  year: 1802
+  note: renamed to
+  footnote: null
+aliases: []
+maps:
+- map: gilly1802
+  form: null
+  note: First appeared with a windmill
+- map: richter1843
+  form: null
+  note: with a manor house
+- map: hohensalza1942
+  form: Erlenbruch
+  note: renamed to during Nazi Germany occupation
+footnotes:
+- n: 55
+  text: Zakrzewski, vol. 1, No. 393
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 393
+    link: /documents/kdw/4/
+    status: linked
+  note: null
+review: []

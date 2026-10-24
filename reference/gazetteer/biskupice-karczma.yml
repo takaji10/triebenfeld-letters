@@ -1,0 +1,39 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: biskupice-karczma
+heading: Biskupice
+register: null
+status: historical
+kind: tavern
+kind_text: Tavern
+location:
+  text: south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates
+  relation: south-of
+  relative_to: trabczynskie-stare-oledry
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates. Appeared (erroneously?) north of the southern part of Trąbczyńskie Stare Olędry (*Biskupski*, Perthées 1798); *Biskupicer Kr[ug]* (Gilly 1802); labelled as a tavern and field belonging to Biskupice [estate] (Pambo 1803); *Biskupie* (Chrzanowski 1858).
+names:
+- form: Biskupice
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: perthees1798
+  form: Biskupski
+  note: Appeared (erroneously?) north of the southern part of Trąbczyńskie Stare Olędry
+- map: gilly1802
+  form: Biskupicer Kr[ug]
+  note: null
+- map: pambo1803
+  form: null
+  note: labelled as a tavern and field belonging to Biskupice [estate]
+- map: chrzanowski1858
+  form: Biskupie
+  note: null
+footnotes: []
+review: []

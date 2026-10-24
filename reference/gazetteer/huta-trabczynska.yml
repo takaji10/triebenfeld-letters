@@ -1,0 +1,79 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: huta-trabczynska
+heading: Huta Trąbczyńska
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: west of and belonging to Łazińsk Drugi
+  relation: west-of
+  relative_to: lazinskie-oledry
+  belongs_to: lazinskie-oledry
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet west of and belonging to Łazińsk Drugi. First mentioned in a 1736 marriage record from Trąbczyn Catholic parish metrical records.[^24] According to a modern-day sign at the Lutheran cemetery, there was a glass factory here in the 18th and 19th centuries. Huta was sometimes referenced as an Olędry in the same metrical records in the early 1820s, and also sometimes as *Stara Huta*. *H.[olendry] Stara Huta* (Richter 1843); *Stara Huta* (Chrzanowski 1858); *Trąbczynska-Huta* (Messtischblatt 1940). Also known as *Huta Łazińska* and *Huta Trąbczyńska*.
+names:
+- form: Huta Trąbczyńska
+  year: null
+  note: heading
+  footnote: null
+- form: Huta Łazińska
+  year: null
+  note: Also known as
+  footnote: null
+- form: Huta Trąbczyńska
+  year: null
+  note: Also known as
+  footnote: null
+- form: Stara Huta Olędry
+  year: null
+  note: a name of two places, Huta Trąbczyńska and Huta Łukomska (the editor, 2026-10-23); which one a mention means is read from its source
+  footnote: null
+  shared_with: huta-lukomska
+  refs:
+  - source: slowinski2023
+    locator: p. 98
+    link: /literature/slowinski2023/
+    quote: 'Łazińsk Drugi (dawniej: Holendry Łazińskie, Holendry Stara Huta)'
+  - source: chodyla2015
+    locator: p. 84, note 154
+    link: /literature/chodyla2015/#p-84
+    quote: Hollendry Luźne Stare i Nowe z Hutą
+  - source: agad1745
+    locator: entry 283
+    link: /documents/agad1169011745/1/#p6
+    quote: d° d° Trąpcz.
+  - source: oe1bu14526
+    locator: document 8
+    link: /documents/oe1bu14526/8/
+    quote: Stara Hutta
+  - source: oe1bu9454
+    locator: letter 24
+    link: /documents/oe1bu9454/24/
+    quote: Zins dorf Stara Huta
+aliases:
+- Stara Huta Olędry
+maps:
+- map: richter1843
+  form: H.[olendry] Stara Huta
+  note: null
+- map: chrzanowski1858
+  form: Stara Huta
+  note: null
+- map: messtischblatt1940
+  form: Trąbczynska-Huta
+  note: null
+footnotes:
+- n: 24
+  text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 101/Image 422'
+  refs:
+  - source: trabczyn-marriages-1597-1775
+    locator: Page 101/Image 422
+    link: null
+    status: missing
+  note: null
+review: []

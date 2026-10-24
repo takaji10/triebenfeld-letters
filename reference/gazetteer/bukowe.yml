@@ -1,0 +1,60 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: bukowe
+heading: Bukowe
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Łukom
+  relation: east-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Łukom. The name is an adjective for beech trees (*Buk*). According to Chodyła, *Bukowo*/*Bukowe* (which may have existed previously as a medieval-era village) or *Olędry Łomowskie* was established on the initiative of the owner of the Łukom/Łomów estates before 1789,[^6] either through a change in its legal status or by clearing land which had been long-since abandoned.[^7] It is illustrated as an Olęder settlement on a sketch of Zagórów parish from circa 1790 by Karól Perthées (Fig. 74).[^8] *Bukower Hol.* (Gilly 1802).
+names:
+- form: Bukowe
+  year: null
+  note: heading
+  footnote: null
+- form: Łomówskie Olędry
+  year: null
+  note: cross-reference
+  footnote: null
+aliases:
+- Łomówskie Olędry
+maps:
+- map: gilly1802
+  form: Bukower Hol.
+  note: null
+footnotes:
+- n: 6
+  text: Chodyła 70
+  refs:
+  - source: chodyla2015
+    locator: p. 70
+    link: /literature/chodyla2015/#p-70
+    status: linked
+  note: null
+- n: 7
+  text: Ibid 78
+  refs:
+  - source: chodyla2015
+    locator: p. 78
+    link: /literature/chodyla2015/#p-78
+    status: linked
+  note: null
+- n: 8
+  text: Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796," 125 (Image 251)
+  refs:
+  - source: perthees1796
+    locator: p. 125 (image 251)
+    link: null
+    status: missing
+  note: null
+review:
+- 'figure: refers to a figure of the editor''s book: Fig. 74'

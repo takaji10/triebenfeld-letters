@@ -1,0 +1,47 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: trabczynskie-stare-oledry
+heading: Trąbczyńskie Stare Olędry
+register: trabczynskie-stare-oledry
+status: historical
+kind: oleder-settlement
+kind_text: Olęder settlement
+location:
+  text: southwest of Trąbczyn, located at Łazińsk Pierwszy
+  relation: southwest-of
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Olęder settlement which existed southwest of Trąbczyn, located at Łazińsk Pierwszy. Established as the first Olęder settlement on the Trąbczyn estate in 1746 by Paweł Prusimski and his wife Katarzyna Rozdrażewska on the forests of Miąsykąt, Dziadulina, and Lusnie in the southwest part of the Trąbczyn estate.[^94] Trąbczyńskie Stare Olędry was merged with Trąbczyńskie Nowe Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. First appeared as an unlabeled *Hollendry* (von Pfau 1770); *Holendry Lusnia Stara* (Trąbczyn 1790); *Holendry Stare Trąbczynskie* (Perthées 1798); *Alte Trombczyner Hol[endry]* (Gilly 1802).
+names:
+- form: Trąbczyńskie Stare Olędry
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Hollendry
+  note: First appeared as an unlabeled
+- map: trabczyn1790
+  form: Holendry Lusnia Stara
+  note: null
+- map: perthees1798
+  form: Holendry Stare Trąbczynskie
+  note: null
+- map: gilly1802
+  form: Alte Trombczyner Hol[endry]
+  note: null
+footnotes:
+- n: 94
+  text: “Relationes-oblatae [protocollon],” 1776, 692
+  refs:
+  - source: konin-gr145
+    locator: '692'
+    link: /documents/app53170koningr145/1/#p76
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+review: []

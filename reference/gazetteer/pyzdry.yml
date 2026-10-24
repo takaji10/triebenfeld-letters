@@ -1,0 +1,27 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: pyzdry
+heading: Pyzdry
+register: pyzdry
+status: extant
+kind: town
+kind_text: Town
+location:
+  text: in Września Gmina west of Zagórów
+  relation: west-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established here in 1842.
+names:
+- form: Pyzdry
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes: []
+review: []

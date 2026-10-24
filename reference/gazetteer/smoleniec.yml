@@ -1,0 +1,38 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: smoleniec
+heading: Smoleniec
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: east of and belonging to Koszelewska Łąka
+  relation: east-of
+  relative_to: koszelewska-laka
+  belongs_to: koszelewska-laka
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798).
+names:
+- form: Smoleniec
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: perthees1798
+  form: Smoliniec
+  note: null
+footnotes:
+- n: 67
+  text: Szwiec 11
+  refs:
+  - source: szwiec2009
+    locator: p. 11
+    link: /literature/szwiec2009/#p-11
+    status: linked
+  note: null
+review: []

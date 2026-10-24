@@ -1,0 +1,39 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: cygany
+heading: Cygany
+register: null
+status: historical
+kind: mounds
+kind_text: Eight mounds
+location:
+  text: on the southwest edge of the Trąbczyn estate
+  relation: in
+  relative_to: trabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Eight mounds which existed on the southwest edge of the Trąbczyn estate. The mounds were mentioned in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates as being built illegally and secretly made at night to influence the demarcation of the border between the two estates.[^9] Only one map noted this feature (Królików 1800, see Fig. 56).
+names:
+- form: Cygany
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: krolikow1800
+  form: null
+  note: Only one map noted this feature
+footnotes:
+- n: 9
+  text: “Relationes-oblatae [protocollon],” 1776, 693
+  refs:
+  - source: konin-gr145
+    locator: '693'
+    link: /documents/app53170koningr145/1/#p78
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+review:
+- 'figure: refers to a figure of the editor''s book: Fig. 56'

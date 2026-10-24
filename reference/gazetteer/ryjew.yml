@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: ryjew
+heading: Ryjew
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: southeast of and belonging to Grądzeń
+  relation: southeast-of
+  relative_to: gradzyn
+  belongs_to: gradzyn
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet southeast of and belonging to Grądzeń. *Ryiewo* (Reymann 1834).
+names:
+- form: Ryjew
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: reymann1834
+  form: Ryiewo
+  note: null
+footnotes: []
+review: []

@@ -1047,3 +1047,70 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       at your word 2026-10-24** — the branch kneifel1937 fast-forwarded
       onto main, the Kraus precedent; the live-site deploy waits on your
       Publish word, as for the other committed-not-published work).
+
+## 33. The gazetteer: the editor's index of places (added 2026-10-23)
+
+The editor's "Place Names.md": 112 places around Trąbczyn and Zagórów, 119
+footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
+
+- [x] Step 1, the import: the file kept verbatim
+      (`reference/gazetteer/source/`), one YAML per place, every footnote
+      resolved to a source key (`reference/gazetteer_sources.yml`), the maps
+      listed (`reference/maps.yml`), the check and the missing list
+      (`pipeline/gazetteer/gazetteer.py`, `docs/MISSING_SOURCES.md`). The
+      parsing done by a Sonnet sub-agent at your word.
+- [x] The fourth sample of your voice analysed (EDITORS_VOICE, "Index
+      entries"); "No method talk" made a house rule (HOUSE_STYLE).
+- [ ] **You:** the points in NEEDS_CONFIRMATION, "The gazetteer" (Mieszko
+      III; the 1411 "scullery"; the 1418 farms; the 1440 charges; the
+      archive of the visitation; the 1891 renaming; the colonies' names in
+      the documents of 1805-1808; Augustynów and the lease of 1806; the
+      identifications with the register; the book's figures).
+- [x] "Stara Huta Olędry" made a name of both Huta Trąbczyńska and Huta
+      Łukomska, each with its sources (your word, 2026-10-23).
+- [ ] Step 2: Claude's reading of the import (the names and map
+      appearances against the text, the review notes cleared).
+- [ ] Step 3: the pages (a page per place in English and German, the A–Z
+      list on the Places page, Zagórów's entry above its sources, the new
+      places into the register, the checks in verify_site.py).
+- [ ] Step 4: the dataset (JSON, CSV, the search page).
+- [ ] Step 5: the labelling page for the maps, and the first map, at your
+      choice of map.
+- [ ] Step 6: the interactive map, once coordinates are in.
+- [ ] Step 7 (at your word, once the outstanding sources are in): the
+      index of the new places in the documents, and the enhancement pass.
+- [ ] Offered: the ten Kodeks entries the gazetteer cites and the
+      holding lacks (I nos. 228, 535; II nos. 672, 795, 1044; III nos.
+      1363, 1478, 1490, 1491, 1519; III no. 1464 is in the edition as the
+      Ląd copy-book's copy) can be added from the volumes on your J: drive.
+- [ ] Offered: a reading of the site's existing pages for method talk
+      (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.
+
+## 34. The maps (planned 2026-10-23)
+
+The plan: `docs/MAPS_PLAN.md`. Nothing built. You choose which maps come
+in, one at a time.
+
+- [x] Your decisions (2026-10-23): the tiles in a second repository
+      (`triebenfeld-maps`, its own GitHub Pages site); the pilot Łukom
+      1766; libvips installed (pyvips 3.2.0); the MapWarper points read
+      from its API (it answers; the first failure was passing).
+- [ ] Coordinates for the places that exist today (OpenStreetMap, checked
+      against your descriptions).
+- [x] The pilot built for Łukom 1766 (2026-10-23; only this map, your
+      word): the second repository triebenfeld-maps on GitHub Pages, the
+      tiles, your five MapWarper points and the fit, the Allmaps test page,
+      the labelling page, the import and crop scripts
+      (`maps/lukom1766/notes.md`; the procedure `docs/ADDING_A_MAP.md`).
+- [x] Your marks on Łukom 1766 imported (ten labels; Lomaw and Dezerta
+      Jemielno corrected at your word; the inscription *Tres mansi
+      Conventûs Landensis* added; two-line names handled).
+- [x] Your bands set and the marks imported again (2026-10-23): eleven
+      labels, all crops whole.
+- [x] The warp test page checked by you (2026-10-23): the map lands in the
+      right place, as well as a crude drawing allows. The pilot is done
+      but for its pages on the site (with GAZETTEER_PLAN step 3); the next
+      map at your choice, by docs/ADDING_A_MAP.md.
+- [ ] The map's viewer page on the site
+      and the crops on the place pages (with GAZETTEER_PLAN step 3).
+- [ ] The interactive map (/map/).

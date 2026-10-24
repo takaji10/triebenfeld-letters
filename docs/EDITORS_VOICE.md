@@ -6,9 +6,12 @@ site". Nothing on the site was changed for it. This file is the analysis
 of the samples, what the editor aims at for this project (in their own
 words, with their corrections of the first analysis), and, at the end, a
 two-paragraph brief to measure the site's prose against: the voice as the
-samples show it, set to the tone the editor wants.
+samples show it, set to the tone the editor wants. A fourth sample, of
+short entries in index style, came on 2026-10-23 with the editor's index of
+places; it is analysed in "Index entries", with a brief of its own, and
+unlike the first three it is also content for the site.
 
-The samples are not kept in the repository, which is public, and they are
+The first three samples are not kept in the repository, which is public, and they are
 for the analysis of style only: what they say about the estate, its
 people or its dates is not a source for the edition and is not set
 against the documents (the editor, 2026-10-20: "they should only be used
@@ -237,6 +240,101 @@ house style's governing question ("Would the reader need to know
 this?") meets the editor's "or just because I find it interesting"; the
 visual frame is what lets the two stand together, since the reader can
 see that a side road can be skipped. That is the editor's to rule.
+
+## Index entries (the fourth sample, 2026-10-23)
+
+The editor's index of 112 places around Trąbczyn and Zagórów ("Place
+Names.md", now the gazetteer: `docs/GAZETTEER_PLAN.md`) is a fourth sample,
+of a different kind: short entries in index style. The editor, giving it:
+"it's another sample of my writing style ... This sample can be used to
+enhance how I write about short things in index style. You also have a good
+opportunity to see what I consider important to include - and note that I
+never explain to the reader what I'm doing or how (like this project tends
+to over-do)." Unlike the first three it is content for the site as well, so
+it is kept in the repository (`reference/gazetteer/source/`) and its facts
+are read against the documents (GAZETTEER_PLAN, section 3).
+
+**Size.** 6,012 words in 112 entries: a median of 40 words, from 9
+(Glinianki) to 323 (Wrąbczyn, its medieval transactions told whole).
+Fourteen entries are a single short sentence and a map citation.
+
+**The order of an entry is fixed.**
+
+1. **What and where, as a fragment**: the kind and the position from a
+   neighbour, with no verb: "Village south of Wrąbczynkowskie Holendry."
+   "Hamlet north of and belonging to Grądzeń." A vanished place takes "which
+   existed" (33 times): "Tavern which existed north of Łazińsk Pierwszy."
+   Never coordinates, never "is a village located in". This opening is the
+   only sentence fragment in the editor's prose.
+2. **The name**, where it has a meaning: "The name is an adjective for beech
+   trees (*Buk*)." "*Las* is "forest" in Polish."
+3. **The history, in time order**, each fact a whole sentence: the first
+   mention with its spelling and the transaction that produced it ("First
+   mentioned as *Kopanino* in a 1240 document where Archbishop Fulco of
+   Gniezno conferred the tithes from seven villages to Ląd Abbey"), then
+   owners, founders, sales, disputes, renamings, to the present.
+4. **The maps, as a chain**: the forms as each map spells them, in date
+   order, separated by semicolons: "*Kopaino* (von Pfau 1770); *Kopanie*
+   (Perthées 1798); with a windmill (Gilly 1802); *Kopiec* (Chrzanowski
+   1858)". The only lists in the editor's prose are these.
+
+**Formulas, repeated on purpose.** Index style allows what the narrative
+avoids: the same sentence in many entries. "First mentioned as *X* in a
+YEAR document where ..." (25 times), "Mentioned in ..." (19), "Only one map
+noted this feature" (25), "First appeared on ..." (12). The five Hohenlohe
+colonies share one sentence pattern word for word ("Originally named
+*Kolonia Sophienthal* and founded as a German Olęder colony by Friedrich
+Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named
+it after one of his children. Renamed to Olchowo in 1891 ..."), each with
+the prince's full name and dates again: **every entry stands alone**, as a
+reader may arrive at any one of them.
+
+**What the editor puts in**: the first mention, with the original spelling,
+the date, who did what and for what (an exchange of villages, "500
+grzywny", "400 Cologne marks"); legal status (an Olędry, a folwark, which
+estate a place belonged to); founders and namesakes (Michalinów possibly
+after Michalina Prusimska, Rosciszewo after the Rościszewski family);
+renamings with their cause (1891, the German occupation's names); sizes
+and people, with conversions ("204 *włóka* (5,850 morgen or 33 km²)", "48
+people of Catholic faith", "32 households"); what can be seen today (the
+remains of a Lutheran cemetery, a sign at the cemetery, peat cuttings into
+the 1960s); every spelling a map gives; and warnings where two places are
+easily confused ("Not to be confused with ...", "making it difficult to
+distinguish in metrical records").
+
+**Doubt is stated where the fact stands, and briefly**: "Possibly" and
+"Likely" (26 times), "may have" (5), "(erroneously?)", "*G[uta?]*",
+"Location unknown", "the source expressed uncertainty as to which Drzewce
+was being referenced". Disagreement between sources is reported without a
+verdict: "though the two places are in separate locations on modern-day
+maps".
+
+**Attribution**: an author's claim is named in the sentence ("According to
+Chodyła" 12 times, "Breyer noted", "The Geographical Dictionary ...
+listed"); the documents are cited in the footnotes only. Foreign words are
+glossed in parentheses with the language: "(Pl. *leśniczówka*)", "(Ger.
+*Frischfeuer*)"; a quotation in Latin is translated after it.
+
+**What is absent**: any account of method. No "I" (the seven are regnal
+numbers: Mieszko I, Louis I), no "this entry", no word on how the facts were
+found or checked; the footnotes carry the sources and the hedges carry the
+doubt. No questions, no "you", and none of "However", "Moreover",
+"Furthermore", "Although". The house style now has the rule (HOUSE_STYLE,
+"No method talk").
+
+**Slips, not voice**: "Mieszko I" for Mieszko III (the grant of 1173); an
+entry that gives its own heading as an alias ("Also known as Huta
+Łazińska and Huta Trąbczyńska" under Huta Trąbczyńska); a cross-reference
+to no entry ("See **Huta**"); "km2" for km² (the export).
+
+**The brief for an entry.** Open on the kind and the place's position from
+a neighbour, in a fragment; give the name's meaning if it has one; then the
+history in order, each sentence one fact with its date, its actor and its
+original spelling, an author's claim named in the sentence and a
+document's in a footnote; repeat a standard sentence rather than vary it,
+and repeat a person's full name and dates in every entry; state doubt with
+"possibly" or "likely" where the fact stands; end with the map chain in
+date order. Say nothing about the entry, the research or the method.
 
 ## The brief
 

@@ -1,0 +1,36 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: ludwigslust
+heading: Mały Las
+register: ludwigslust
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: south of and belonging to Olchowo
+  relation: south-of
+  relative_to: olchowo
+  belongs_to: olchowo
+  precision: described
+  lat: null
+  lon: null
+text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust* was likely integrated into the smaller Mały Las settlement immediately south in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. A hand-drawn map from the 1990s by descendants/former residents of Olchowo listed them as two separate places (Map 26, Tab. 26). First appeared on Messtischblatt 1940. The settlement map found in the Lutheran church in Zagórów included a list of settlers, along with the text: “These are the names of the families who lived here as the last generation. The numbers are randomly assigned and are not identical to the official house numbers.”'
+names:
+- form: Mały Las
+  year: null
+  note: heading
+  footnote: null
+- form: Kolonia Ludwigslust
+  year: null
+  note: cross-reference
+  footnote: null
+aliases:
+- Ludwigslust, Kolonia
+maps:
+- map: messtischblatt1940
+  form: null
+  note: First appeared on
+footnotes: []
+review:
+- 'figure: refers to a figure of the editor''s book: Map 26, Tab. 26'

@@ -1,0 +1,47 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: koszelewska-laka
+heading: Koszelewska Łąka
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: southwest of Łukom
+  relation: southwest-of
+  relative_to: lukom
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village southwest of Łukom. Founded between 1794 and 1800 as the last village established in the Zagórów Evangelical-Augsburg parish under Olęder law.[^34] An inn was noted here (Weydner 1804). Remains of a Lutheran cemetery still exist but are poorly preserved. *Kozialewskalonka* (Gilly 1802); *Hol. Koszelewska Ląka* (Richter 1843); *Kozialąka* (Chrzanowski 1858).
+names:
+- form: Koszelewska Łąka
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: weydner1804
+  form: null
+  note: An inn was noted here
+- map: gilly1802
+  form: Kozialewskalonka
+  note: null
+- map: richter1843
+  form: Hol. Koszelewska Ląka
+  note: null
+- map: chrzanowski1858
+  form: Kozialąka
+  note: null
+footnotes:
+- n: 34
+  text: Słowiński and Połom 62
+  refs:
+  - source: slowinskipolom2024
+    locator: p. 62
+    link: /literature/slowinskipolom2024/
+    status: linked
+  note: null
+review: []

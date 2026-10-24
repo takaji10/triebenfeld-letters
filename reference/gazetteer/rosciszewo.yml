@@ -1,0 +1,51 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: rosciszewo
+heading: Rosciszewo
+register: null
+status: historical
+kind: folwark
+kind_text: Folwark
+location:
+  text: south of Łomów in the forest on the Łukom estate
+  relation: south-of
+  relative_to: lomow
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Folwark which existed south of Łomów in the forest on the Łukom estate. Likely named after the Rościszewski family. Around 1740, Jakub Rościszewski married Helena Zielonacka who was the owner of the Łukom estate after the death of her spouse Józef Ścibor-Chełmski.[^64] *Rosciszew* (Łukom 1766); *Rostrziczewo* (von Pfau 1770); as part of the Łukom estate (Królików 1800); *Vorwerk Rosciszew* (Pambo 1803); *Roscisewo* (Richter 1843).
+names:
+- form: Rosciszewo
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: lukom1766
+  form: Rosciszew
+  note: null
+  label: lukom1766-017
+- map: vonpfau1770
+  form: Rostrziczewo
+  note: null
+- map: krolikow1800
+  form: null
+  note: as part of the Łukom estate
+- map: pambo1803
+  form: Vorwerk Rosciszew
+  note: null
+- map: richter1843
+  form: Roscisewo
+  note: null
+footnotes:
+- n: 64
+  text: Minakowska, “Helena Zielonacka”
+  refs:
+  - source: minakowska-zielonacka
+    locator: null
+    link: /literature/minakowska2026zielonacka/
+    status: linked
+  note: null
+review: []

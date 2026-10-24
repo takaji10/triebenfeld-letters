@@ -124,6 +124,36 @@ Where the rest is:
   estate, its people or its dates is not a source, is not checked against
   the documents, and does not go into NEEDS_CONFIRMATION, the story, a
   person's entry or anything else on the site.
+  **The exception is writing they give as content** (2026-10-23): their
+  index of places ("Place Names.md", the gazetteer) is both a style sample
+  and text for the site, so its facts are read against the documents and
+  the differences go into NEEDS_CONFIRMATION, as for any source. Ask which
+  it is if a new sample does not say.
+- **Simple steps go to a Sonnet sub-agent** (the editor, 2026-10-23: "For
+  the simple steps, use a sub-agent with the Sonnet model. Save the tough
+  stuff for Opus."). Mechanical work (parsing a file into data, a script
+  to a precise spec, running checks, generating a list) is handed to an
+  agent with `model: sonnet` and a written spec: the files it may write,
+  the schema, the rules, what it must not touch, no commits. The main
+  session keeps the design, the identifications, the comparison with the
+  documents and the prose, works on them while the agent runs, and reads
+  the agent's output before anything is committed. The gazetteer import
+  was the first (`docs/GAZETTEER_PLAN.md`, step 1).
+- **The editor chooses which maps come in** (2026-10-23: "I don't want to
+  add all of these maps - I will be selective with them"). A map cited by
+  the gazetteer, or lying in their Maps folder, is not thereby wanted; ask
+  before bringing one in (`docs/MAPS_PLAN.md`). Before planning work on a
+  map, look beside its image on J: for a `.kml`: it names the map's
+  MapWarper number, and the editor's control points are there already
+  (sixteen maps, 2026-10-23). Read them from its API, not the CSV page,
+  and take as the map's original the file whose size equals the API's
+  width and height (MAPS_PLAN, section 5): for Łukom 1766 that is the PNG,
+  not the JPG beside it. A first `curl` to mapwarper.net failed with
+  "Could not resolve host" and worked an hour later: a passing failure,
+  not a block. Try again before telling the editor a host is blocked.
+- **No method talk on a reader's page** (the editor, 2026-10-23: "I never
+  explain to the reader what I'm doing or how (like this project tends to
+  over-do)"): HOUSE_STYLE, "No method talk".
 
 ## Reading and correcting the text
 
@@ -1170,7 +1200,10 @@ cloud branches").
 - A heredoc also eats backslashes and turns "\'" into "'" (2026-10-16):
   a Python patch with regular expressions or escaped quotes, sent through
   a heredoc, half-applied twice in one sitting. Use the Edit tool for such
-  changes, or Write the script whole.
+  changes, or Write the script whole. Again on 2026-10-23: a Windows path
+  in a heredoc'd Python patch lost a backslash, and "\1" became a control
+  character in reference/maps.yml. Paths in data files use forward
+  slashes, which Python and PyYAML read on Windows.
 - **`regenerate.py` has no `--help`**: it ignores unknown arguments and
   rebuilds every holding (it was started that way by mistake on
   2026-10-16 and stopped; nothing tracked changed). Read its docstring

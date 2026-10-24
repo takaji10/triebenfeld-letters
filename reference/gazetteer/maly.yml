@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: maly
+heading: Maly
+register: null
+status: historical
+kind: settlement
+kind_text: Settlement
+location:
+  text: west of Anielewo (Ingelfingen)
+  relation: west-of
+  relative_to: anielewo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo. Only one map noted this feature (Reymann 1834).
+names:
+- form: Maly
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: reymann1834
+  form: null
+  note: Only one map noted this feature
+footnotes: []
+review: []

@@ -1,0 +1,62 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: kopojno
+heading: Kopojno
+register: kopojno
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: east of Zagórów
+  relation: east-of
+  relative_to: zagorowo
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village east of Zagórów. First mentioned as *Kopanino* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^32] Mentioned in a 1291 privilege document from Ląd Abbey which stated that Count Sendivogius traded Kopojno (*Copaino*) to the abbey in exchange for Główiew, Sławsk, and Chocz.[^33] *Kopaino* (von Pfau 1770); *Kopanie* (Perthées 1798); with a windmill (Gilly 1802); *Kopiec* (Chrzanowski 1858); with a manor house (Wreschen 1901).
+names:
+- form: Kopojno
+  year: null
+  note: heading
+  footnote: null
+- form: Kopanino
+  year: 1240
+  note: First mentioned as
+  footnote: 32
+aliases: []
+maps:
+- map: vonpfau1770
+  form: Kopaino
+  note: null
+- map: perthees1798
+  form: Kopanie
+  note: null
+- map: gilly1802
+  form: null
+  note: with a windmill
+- map: chrzanowski1858
+  form: Kopiec
+  note: null
+- map: wreschen1901
+  form: null
+  note: with a manor house
+footnotes:
+- n: 32
+  text: Zakrzewski, vol. 1, No. 222
+  refs:
+  - source: kdw
+    locator: vol. 1, no. 222
+    link: /documents/kdw/2/
+    status: linked
+  note: null
+- n: 33
+  text: Zakrzewski, vol. 2, No. 678
+  refs:
+  - source: kdw
+    locator: vol. 2, no. 678
+    link: /documents/kdw/7/
+    status: linked
+  note: null
+review: []

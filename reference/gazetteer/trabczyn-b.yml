@@ -1,0 +1,35 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: trabczyn-b
+heading: Trąbczyn B
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: west of and belonging to Michalinów Trąbczyński
+  relation: west-of
+  relative_to: michalinow-oledry
+  belongs_to: michalinow-oledry
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet west of and belonging to Michalinów Trąbczyński. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records around 1920.[^88] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
+names:
+- form: Trąbczyn B
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 88
+  text: '*Parafja Zagórów (Słupca): Akta Urodzeń 1915-1921*, 1982, 1920/#12 Page 134/Image 311'
+  refs:
+  - source: zagorow-lutheran-births-1915-1921
+    locator: 1920/#12 Page 134/Image 311
+    link: null
+    status: missing
+  note: null
+review: []

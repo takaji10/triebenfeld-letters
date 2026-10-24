@@ -1,0 +1,45 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: czarnybrod
+heading: Czarnybród
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Łazińsk Drugi in Grodziec Gmina
+  relation: south-of
+  relative_to: lazinskie-oledry
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olęder settlement which likely belonged to the Biskupice estate. Notes on the Grodziec Catholic parish taken by geographer Karól Perthées mentioned a possible alternative name of Czarnybród as *Stary Młyn*.[^10] *Czarnybrod Hol.* (Gilly 1802); *Kol. Czarnybrod* (Richter 1843).
+names:
+- form: Czarnybród
+  year: null
+  note: heading
+  footnote: null
+- form: Stary Młyn
+  year: null
+  note: mentioned … as
+  footnote: 10
+aliases: []
+maps:
+- map: gilly1802
+  form: Czarnybrod Hol.
+  note: null
+- map: richter1843
+  form: Kol. Czarnybrod
+  note: null
+footnotes:
+- n: 10
+  text: '*Perthées, "Geograﬁczno statystyczne opisanie paraﬁów Królestwa Polskiego w roku 1796,"* 127 (Image 255)'
+  refs:
+  - source: perthees1796
+    locator: p. 127 (image 255)
+    link: null
+    status: missing
+  note: null
+review: []

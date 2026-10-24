@@ -1,0 +1,36 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: kosciolkow
+heading: Kościołków
+register: null
+status: extant
+kind: village
+kind_text: Village
+location:
+  text: south of Wrąbczyn
+  relation: south-of
+  relative_to: wrabczyn
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Village south of Wrąbczyn. *Koscialkowo* (Gilly 1802); *Kosciółki* (Reymann 1834); *Kościołków* (Zagórów 1841).
+names:
+- form: Kościołków
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: gilly1802
+  form: Koscialkowo
+  note: null
+- map: reymann1834
+  form: Kosciółki
+  note: null
+- map: zagorow1841
+  form: Kościołków
+  note: null
+footnotes: []
+review: []

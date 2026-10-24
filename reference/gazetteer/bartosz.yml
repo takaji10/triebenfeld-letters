@@ -1,0 +1,43 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: bartosz
+heading: Bartosz
+register: null
+status: extant
+kind: stream
+kind_text: Stream or canal
+location:
+  text: running between Osiny and Łukom
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: Stream or canal running between Osiny and Łukom. The same waterway may have been noted in a 1775 court dispute between the owners of the Trąbczyn and Łukom estates, where the flow of water had been blocked by the people of Łukom and had caused flooding on land belonging to Trąbczyn.[^4] Breyer noted a stream running through the Łazińsk settlement which extended to Pyzdry via Łukom and Bukowe, and stated that it was called *Graben* (“stream” in English) by the local people.[^5]
+names:
+- form: Bartosz
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 4
+  text: “Relationes-oblatae [protocollon],” 1776, 668v-669
+  refs:
+  - source: konin-gr145
+    locator: 668v-669
+    link: /documents/app53170koningr145/1/#p29
+    status: linked
+  note: “Relationes-oblatae [protocollon],”
+- n: 5
+  text: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
+  refs:
+  - source: breyer-grodziec
+    locator: null
+    link: /documents/app539680669/2/
+    status: linked
+  note: null
+review: []

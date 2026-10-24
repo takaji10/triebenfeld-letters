@@ -1,0 +1,30 @@
+# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
+# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
+# Plan: docs/GAZETTEER_PLAN.md.
+slug: malgorzatow
+heading: Małgorzatów
+register: null
+status: extant
+kind: hamlet
+kind_text: Hamlet
+location:
+  text: east of and belonging to Myszaków
+  relation: east-of
+  relative_to: myszakow
+  belongs_to: myszakow
+  precision: described
+  lat: null
+  lon: null
+text_en: Hamlet east of and belonging to Myszaków. First appeared on Richter 1843.
+names:
+- form: Małgorzatów
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps:
+- map: richter1843
+  form: null
+  note: First appeared on
+footnotes: []
+review: []
