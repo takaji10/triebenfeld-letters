@@ -132,31 +132,55 @@ What changed, by sheet:
 ## The difficult column of 0030 (the editor's readings, 2026-10-25)
 
 The sheet's row p30c2 asked what stands at the foot of 0030's third
-column. The editor answered in the reply with six lines, read with doubt:
+column. The editor read it twice in the reply; the second reading stands
+and is in the transcription:
 
-    Geschichts Pr_the[s?]hen
-    Polacy-ewangelicy
-    Erste deutsch Eimwand[?]
-    (Wer[t?]s..gen
+    Themen:
+    Geschichtskrankheiten
+    Polacy-ewangelicy.
+    Erste deutsche Einwand
+    (Verschlungen
     hat ihr
-    der gr...igen Münd")
+    der pronihige[?] Münd")
 
-They are in the transcription as given, brackets and all, below the
-"Bohrer - Swiderski" pair. The machine's readings of that region
-("sirdorfki", "motzungen") are dropped as confabulation; a 2.6x re-read of
-the same region agreed on nothing but the closing mark after "Münd" -
-quotation mark and parenthesis - which corroborates the last line's shape.
-The lines read like the head of a citation of a printed work on Polish
-Protestants and the first German immigration (a thought only, not a
-reading): whether "Polacy-ewangelicy" is the title Breyer cites, and what
-work "Geschichts Pr_the[s?]hen" names, may be settled when the prose sheets
-0031-0034 are read, if he cites the same work there.
+The first reading ("Geschichts Pr_the[s?]hen", "Erste deutsch Eimwand[?]",
+"(Wer[t?]s..gen ... der gr...igen Münd")") is kept here as the record of
+what was read before. "Themen:" answers the earlier question about the
+Kurrent lines below "Bohrer - Swiderski": the block is a list of topics
+under that head, not separate Kurrent lines. The machine's readings of the
+region ("sirdorfki", "motzungen") are dropped as confabulation.
+
+**The one uncertain word, "pronihige[?]"**, is asked back to the editor with
+a 3x picture of the region (`review/app539680545/spot_img/p30_tail3x.jpg`,
+also served at /spot_img/p30_tail3x.jpg). As letters it is no German word;
+the candidates offered, from the context "(Verschlungen hat ihr der ...
+Münd")":
+
+- **"polnische"** - fits the sheet's whole theme (the German names
+  swallowed by the Polish mouth; "Polacy-ewangelicy" two lines above) and
+  would make the sentence read "swallowed has them the Polish mouth";
+  Kurrent could blur l/n and sch/hi, though the shapes the editor read do
+  not align cleanly.
+- **"gefräßige"** - the natural partner of "Verschlungen" (a devouring
+  mouth), but the letters are farther off.
+- **"gierige"** - the same idea, shorter.
+- **"vernichtige"** - not a standard form (the standard word is
+  "vernichtend"), and the letters are off.
+
+If the letters stay "pronihi-" against every candidate, the word keeps its
+bracket and stands as written; the sentence's sense may be settled when
+0031-0034 are read, if the same phrase turns up there.
+
+"Geschichtskrankheiten" is odd as a topic's name (the ordinary word would
+be "Geschichtsquellen", sources); it stands as read, the oddity noted.
 
 ## Still open, after the answers
 
-- **The Kurrent lines of 0030**: below "Bohrer - Swiderski" the editor
-  reads possibly "Themen:" and further lines in Kurrent, which neither of
-  us can read yet. Not transcribed; the corpus has nothing for them.
+- **Row p25b7** went unanswered: the editor read the tail of 0025 as two
+  lines (Waldowski / 1843. Szuberski), so the draft's extra last line is
+  taken to have been the machine's misread of "1843. Szuberski". Say so if
+  there is a further line.
+- **"pronihige[?]"**, above: the editor's word to settle from the letters.
 - **The prose sheets 0031-0034** are not transcribed (see above) and the
   editor has not yet said how they are to be read.
 
