@@ -1120,8 +1120,8 @@ in, one at a time.
 - [ ] The interactive map (/map/).
 
 
-## 35. APP 53/968/0/-/545: Breyer's sheets on the Polonised names (added and
-    translated 2026-10-25, on the branch app539680545; not published)
+## 35. APP 53/968/0/-/545: Breyer's sheets on the Polonised names (added,
+    translated and published 2026-10-25)
 
 Ten photographed sheets on the Polonisation of German surnames in the gmina
 Zagorow: four lists, the excerpt of 1741, two prose essays, and a tenth
@@ -1145,4 +1145,5 @@ sheet shown with the holding and without a transcription (your word).
       Breyer's own hand (the 4x picture
       review/app539680545/spot_img/p30_word4x.jpg; the reasoning in the
       holding's notes).
-- [ ] Publish at your word.
+- [x] Published at your word (2026-10-25): the branch merged to main and
+      pushed; the "Build and deploy" run succeeded.

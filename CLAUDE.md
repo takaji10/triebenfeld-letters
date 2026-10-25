@@ -120,7 +120,7 @@ so check them.
 ## Where things stand (2026-10-25)
 
 - **APP 53/968/0/-/545** (slug `app539680545`, added and **translated**
-  2026-10-25 on the branch `app539680545`, **not published**): Albert
+  2026-10-25, **published 2026-10-25**): Albert
   Breyer's ten photographed research sheets on the Polonisation of German
   surnames in the gmina Zagórów - four lists of names with their Polonised
   forms, his excerpt of a Breslau print of 1741 (George Schlag's

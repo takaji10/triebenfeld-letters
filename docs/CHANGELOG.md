@@ -2892,7 +2892,13 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
-## 2026-10-25 - APP 53/968/0/-/545 added and translated (branch app539680545; not published)
+## 2026-10-25 - Published
+
+- The editor said "Publish". Main was pushed after a local build and
+  verify passed; the "Build and deploy" run succeeded. APP 53/968/0/-/545
+  went live with it.
+
+## 2026-10-25 - APP 53/968/0/-/545 added and translated (branch app539680545)
 
 - The holding built: Albert Breyer's ten photographed research sheets on the
   Polonisation of German surnames in the gmina Zagórów, seven documents on

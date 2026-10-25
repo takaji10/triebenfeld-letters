@@ -900,8 +900,8 @@ written until there is a witness or a better scan.
   the year of no. 16, written over in the copy and read as 1447 with doubt;
   whether the note in the margin of p. 14 is in another hand.
 
-- **APP 53/968/0/-/545** (Breyer's sheets on the Polonised names, added and
-  translated 2026-10-25, on the branch app539680545; not published;
+- **APP 53/968/0/-/545** (Breyer's sheets on the Polonised names, added, translated and
+  published 2026-10-25;
   `units/app539680545/notes.md`): the lists read by the machine reader and
   settled on the editor's sheet (30 of 31 rows answered); the prose sheets
   0031-0033 are the editor's transcription, kept as typed, their doubtful
