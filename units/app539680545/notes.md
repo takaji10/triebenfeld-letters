@@ -63,6 +63,77 @@ lines (the editor, 2026-10-25: "Some of the crops are too tight"); they are
 now cut from the raw images by `build_strips()` with explicit generous
 rects, and every row links the whole sheet besides.
 
+## The editor's answers (2026-10-25, 30 of 32 rows)
+
+Applied to the transcriptions the same day. How the answers were read:
+
+- A row answered "Something else" carries the page's reading in its text;
+  a row answered only in the note box carries the corrections there
+  (a note in a row without a choice is an answer too, WORKING_NOTES).
+  Names the editor gave replace the draft's; names of a corrected line the
+  editor did not retype keep the draft's reading.
+- A row answered "As drafted" settles the whole strip, so its `[?]` marks
+  drop (p26b5, p27b4, p28b3). Where the editor typed a `[?]` themselves it
+  stays (Jursowski[?], Tarnamm[?]). A doubtful name a note-only row does
+  not mention keeps its `[?]` (Nowaczyński, Micklewski, Sekerowski).
+- Replaced lines take the editor's punctuation; uncorrected lines keep the
+  draft's.
+
+What changed, by sheet:
+
+- **0025**: heading "P. Winkler Polonisierte Namen."; "Bobel" (not Bobbe);
+  the line under the first pair is "Gem. Zagórów" (not Lagiewniki);
+  "Grüning - Zielinski"; "Schwirschke - Smierczyski"; "Schmeckel -
+  Szmigielski"; "Betke - Bedtka"; "Stange - Sztanga"; "Gutschke - Gucz";
+  "1843. Szuberski". The draft's phantom last line ("1873. Universal." /
+  "1893. Gruberstr.") is dropped: the editor read the page tail as two
+  lines only (Waldowski / 1843. Szuberski), and row p25b7 went unanswered.
+- **0026**: heading "Polonisirte / Deutsche Namen." over two lines; 1
+  "Niemann - Nowak" (not Mittmann); 4 "Nachtigall - Słowiński" (the whole
+  pair replaced); 5 "Fuhrmański"; 10 German "Pidd"; 11 "Schienke -
+  Stodulski"; 16 "Hahn - Koguciński" (not Nahr or Mahn).
+- **0027**: B "Bartmański" (with ń); F all three doubtful names settled
+  (Festerkiewicz, Frydrychowski, Feterowski); H "Hedszelewski";
+  K "Kurzmanowski"; S "Schmidecki, Szmidowicz, Szulborski" (not
+  Sendowrz/Sulborski). J keeps "Jursowski[?]" (the editor's own bracket).
+- **0028**: heading "Polnisch-deutsche" (hyphenated); "Bärwolff" (double
+  f); "Thomas Kraut" (not Erzont); "Tomas Złotomeski"; the German of the
+  fifth pair is "Tarnamm[?]" (not Tannon). The rest confirmed as drafted,
+  brackets dropped.
+- **0029**: heading "Polonisirte Deutsche Namen" (not "Polonisazja
+  techniczna"). The pairs block, in the page's order down the third
+  column: Zech - Czech; Rolle - Rola; Sack - Zak; Rietschel - Rycsel;
+  Pahl - Pal; Grosz - Grosz; Rosin - Rosyn; Hahnisch - Hanuś; Brich -
+  Bych; Borde - Borda; Maron - Maronowski; Gänsler - Gąsiorowski; Blum -
+  Kwiatkowska; Erdmann - Ziemiecki; Hoppe - Chmielewski; Semrau -
+  Semroch; Born - Borna. In the numbered list: 1 "Barmański" (the
+  alphabet's B line has "Bartmański" - both as read); 2 "Schmidecki";
+  4 "Szulborski"; 5 confirmed a pair "Riewe - Riwa"; 8 "Kassewicz";
+  20 "Mystelkowski"; 21 "Mystkowski" (not Mlyptkowski); 26
+  "Kurzmanowski"; 27 "Hendelewski"; 28 "Folkierski" (the draft's 28
+  "Hirzowski" was a misassignment - 29 is Hirszowski); 31
+  "Henschelewski"; 35 "Feterowski" (not Retelewski); 41 "Hornowski";
+  46 "Kuncewicz"; 48 "Fęglerski" (as the editor typed it, with ę);
+  51 "Karlowski"; 52 "Madaliński - Mude" (a pair); 53 "Melerowicz".
+  The machine's "Ruck/Rieck = Rozy" pair is dropped as a misread; the
+  "Borckl - Boryl / Brill - Boryl" question of the sheet is taken to
+  have been the same line the editor read as "Borde - Borda".
+- **0030**: 51 "Karlowski"; 52 "Madaliński - Mude"; 53 "Melerowicz";
+  under the list "Bohrer - Swiderski" (a translation pair: Bohrer,
+  świder, a drill).
+
+## Still open from the sheet
+
+- **Row p25b7** went unanswered: the editor read the tail of 0025 as two
+  lines (Waldowski / 1843. Szuberski), so the draft's extra last line is
+  taken to have been the machine's misread of "1843. Szuberski". Say so if
+  there is a further line.
+- **Row p30c2** went unanswered: what stands at the foot of 0030's third
+  column (the machine read "sirdorfki", "motzungen" there).
+- **The Kurrent lines of 0030**: below "Bohrer - Swiderski" the editor
+  reads possibly "Themen:" and further lines in Kurrent, which neither of
+  us can read yet. Not transcribed; the corpus has nothing for them.
+
 ## Documents (draft, to confirm with the editor)
 
 1. 0025, the "P. Winkler" list.
