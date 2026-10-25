@@ -150,39 +150,34 @@ Kurrent lines below "Bohrer - Swiderski": the block is a list of topics
 under that head, not separate Kurrent lines. The machine's readings of the
 region ("sirdorfki", "motzungen") are dropped as confabulation.
 
-**The one uncertain word, "pronihige[?]"**, is asked back to the editor with
-a 3x picture of the region (`review/app539680545/spot_img/p30_tail3x.jpg`,
-also served at /spot_img/p30_tail3x.jpg). As letters it is no German word;
-the candidates offered, from the context "(Verschlungen hat ihr der ...
-Münd")":
-
-- **"polnische"** - fits the sheet's whole theme (the German names
-  swallowed by the Polish mouth; "Polacy-ewangelicy" two lines above) and
-  would make the sentence read "swallowed has them the Polish mouth";
-  Kurrent could blur l/n and sch/hi, though the shapes the editor read do
-  not align cleanly.
-- **"gefräßige"** - the natural partner of "Verschlungen" (a devouring
-  mouth), but the letters are farther off.
-- **"gierige"** - the same idea, shorter.
-- **"vernichtige"** - not a standard form (the standard word is
-  "vernichtend"), and the letters are off.
-
-If the letters stay "pronihi-" against every candidate, the word keeps its
-bracket and stands as written; the sentence's sense may be settled when
-0031-0034 are read, if the same phrase turns up there.
-
-"Geschichtskrankheiten" is odd as a topic's name (the ordinary word would
-be "Geschichtsquellen", sources); it stands as read, the oddity noted.
+**The one uncertain word, "pronihige[?]"** — Claude's reading from the
+context (2026-10-25, put to the editor): the sentence almost certainly
+reads "(Verschlungen hat ihr der **polnische** Mund" — "the Polish mouth
+has swallowed (it)": the German name gone under in Polish speech, which is
+the subject of the whole holding and of the essay of document 7 ("nothing
+is left such people but their German name"). "Hat ihr" then reads as the
+dative ("swallowed her [name] from her") or may itself be "ihn". How the
+shapes could produce "pronihige": the "ol" of polnische read as "ro" (the
+round-bellied minims of pencil Kurrent), and the Kurrent "sch" ligature —
+a run of tall strokes — read as "hi" with the "h" of the true "ch"
+carried to "g". The check that settles it is in Breyer's own hand: he
+writes "polnischen" on 0028 (der polnischen Schule) and "Polonisirte" on
+0026 and 0029, so the shapes of his "ol" and his "sch" can be compared
+directly on the same pages. A 4x picture of the phrase is at
+`review/app539680545/spot_img/p30_word4x.jpg` (served at
+/spot_img/p30_word4x.jpg), beside the earlier 3x one. The alternatives
+from the metaphor of swallowing — "gefräßige", "hungrige", "gierige" —
+fit the "-ige" tail better but lose on the first letters and on the
+theme; "provinzielle" was considered and dropped. If the shapes refuse
+"polnische", the word keeps its bracket.
 
 ## Still open, after the answers
 
-- **Row p25b7** went unanswered: the editor read the tail of 0025 as two
-  lines (Waldowski / 1843. Szuberski), so the draft's extra last line is
-  taken to have been the machine's misread of "1843. Szuberski". Say so if
-  there is a further line.
-- **"pronihige[?]"**, above: the editor's word to settle from the letters.
-- **The prose sheets 0031-0034** are not transcribed (see above) and the
-  editor has not yet said how they are to be read.
+- **"pronihige[?]"**, above: "polnische" is the proposed reading, to be
+  confirmed against Breyer's own hand.
+- **The prose sheets 0031-0034**: 0031-0033 are transcribed (the editor's
+  own transcription, 2026-10-25); 0034 stays without a transcription (the
+  editor's word).
 
 ## The corpus and the documents (2026-10-25)
 

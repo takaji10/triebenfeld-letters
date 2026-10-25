@@ -1136,9 +1136,13 @@ sheet shown with the holding and without a transcription (your word).
       session, check clean; summaries written and claim-checked in session
       (33 statements); the holding's page written in both languages;
       the glossary gate passes.
-- [ ] You: the reading "pronihige[?]" in the Themen block of 0030, against
-      the 3x picture (review/app539680545/spot_img/p30_tail3x.jpg).
-- [ ] You: the tail of 0025 (is "1843. Szuberski" the last line?), and the
-      doubtful names of the lists (Nowaczynski, Micklewski, Sekerowski),
-      whenever you look at the sheets again.
+- [x] Your updates on the sheet and in the reply (2026-10-25): the tail of
+      0025 is "1843. Szuberski"; Micklewski (13) confirmed; entry 25 is
+      Feterowski (so 35 keeps the draft's Retelewski); Nowaczynski of 0026
+      confirmed. Applied; rebuilt; the check clean.
+- [ ] You: the reading "pronihige[?]" in the Themen block of 0030 - Claude
+      reads it "polnische" from the context, to be confirmed against
+      Breyer's own hand (the 4x picture
+      review/app539680545/spot_img/p30_word4x.jpg; the reasoning in the
+      holding's notes).
 - [ ] Publish at your word.

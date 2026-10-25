@@ -907,11 +907,13 @@ written until there is a witness or a better scan.
   0031-0033 are the editor's transcription, kept as typed, their doubtful
   words recorded in the holding's `intake/unresolved.md`; 0034 has no
   transcription (the editor's word). Open: the word read as "pronihige[?]"
-  in the Themen block of 0030 (the candidates and the 3x picture are named
-  in the holding's notes); whether "1843. Szuberski" is the last line of
-  0025; the three doubtful names of the lists (Nowaczyński[?] of 0026,
-  Micklewski[?] and Sekerowski[?] of 0029). The sheet's two unanswered rows
-  are recorded in the holding's notes.
+  in the Themen block of 0030 — Claude reads it "polnische" from the
+  context ("Verschlungen hat ihr der polnische Mund"), to be confirmed
+  against Breyer's own hand on the sheets (the reasoning and the 4x picture
+  in the holding's notes). Settled 2026-10-25: the tail of 0025 ("1843.
+  Szuberski" is the last line), 0026 line 14 "Nowaczyński", 0029 line 13
+  "Micklewski", and lines 25 and 35 of 0029 ("Feterowski" at 25,
+  "Retelewski" at 35).
 
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
   2026-10-14): read from the scans by Claude; the editor read 39 doubtful

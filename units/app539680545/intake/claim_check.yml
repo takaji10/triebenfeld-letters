@@ -14,7 +14,7 @@
 # and Sompolno and says no region; the summary now names the four towns and
 # does not say where they lie. No statement rests on a page or a name that
 # carries a doubt mark except where the summary carries the mark too
-# (Nowaczyński, Jursowski).
+# (Jursowski).
 
 doc1:
   - statement: The sheet is headed "P. Winkler Polonisierte Namen".
@@ -43,7 +43,7 @@ doc2:
   - statement: The pairs run from Niemann - Nowak to Brodel - Brudel; the summary's enumeration follows the page line for line.
     where: 002, lines 3-21
     verdict: supported
-  - statement: Neuwert - Nowaczyński carries the doubt mark, as the summary records it.
+  - statement: The pair Neuwert - Nowaczyński stands as the summary gives it.
     where: 002, line 16
     verdict: supported
 

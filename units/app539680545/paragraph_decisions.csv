@@ -16,8 +16,8 @@
 2,30,break,high,rubric,1.02,21,20,10. Pidd - Studziński,11. Schienke - Stodulski
 2,31,break,high,rubric,1.17,24,20,11. Schienke - Stodulski,12. Wiese - Wiza
 2,32,break,high,rubric,0.78,16,20,12. Wiese - Wiza,13. Quella - Quelle.
-2,33,break,high,rubric,0.98,20,20,13. Quella - Quelle.,14. Neuwert - Nowaczyński[?]
-2,34,break,high,rubric,1.37,28,20,14. Neuwert - Nowaczyński[?],15. Martin - Marcinkowski
+2,33,break,high,rubric,0.98,20,20,13. Quella - Quelle.,14. Neuwert - Nowaczyński
+2,34,break,high,rubric,1.22,25,20,14. Neuwert - Nowaczyński,15. Martin - Marcinkowski
 2,35,break,high,rubric,1.22,25,20,15. Martin - Marcinkowski,16. Hahn - Koguciński
 2,36,break,high,rubric,1.02,21,20,16. Hahn - Koguciński,17. Schmidtke - Schmidtka
 2,37,break,high,rubric,1.22,25,20,17. Schmidtke - Schmidtka,18. Kybs - Kübsch
@@ -44,8 +44,8 @@
 5,89,break,high,rubric,0.86,12,14,9. Brojerski,10. Murnerowski
 5,90,break,high,rubric,1.07,15,14,10. Murnerowski,11. Rosenkiewicz
 5,91,break,high,rubric,1.14,16,14,11. Rosenkiewicz,12. Kuntski
-5,92,break,high,rubric,0.79,11,14,12. Kuntski,13. Micklewski[?]
-5,93,break,high,rubric,1.21,17,14,13. Micklewski[?],14. Purgowski
+5,92,break,high,rubric,0.79,11,14,12. Kuntski,13. Micklewski
+5,93,break,high,rubric,1.0,14,14,13. Micklewski,14. Purgowski
 5,94,break,high,rubric,0.93,13,14,14. Purgowski,15. Mundkowski
 5,95,break,high,rubric,1.0,14,14,15. Mundkowski,16. Licznerowski
 5,96,break,high,rubric,1.14,16,14,16. Licznerowski,17. Bartnowski
@@ -56,8 +56,8 @@
 5,101,break,high,rubric,1.0,14,14,21. Mystkowski,22. Bauerowicz
 5,102,break,high,rubric,1.0,14,14,22. Bauerowicz,23. Lencewicz
 5,103,break,high,rubric,0.93,13,14,23. Lencewicz,24. Frydrychowski
-5,104,break,high,rubric,1.21,17,14,24. Frydrychowski,25. Sekerowski[?]
-5,105,break,high,rubric,1.21,17,14,25. Sekerowski[?],26. Kurzmanowski
+5,104,break,high,rubric,1.21,17,14,24. Frydrychowski,25. Feterowski
+5,105,break,high,rubric,1.0,14,14,25. Feterowski,26. Kurzmanowski
 5,106,break,high,rubric,1.14,16,14,26. Kurzmanowski,27. Hendelewski
 5,107,break,high,rubric,1.07,15,14,27. Hendelewski,28. Folkierski
 5,108,break,high,rubric,1.0,14,14,28. Folkierski,29. Hirszowski
@@ -66,8 +66,8 @@
 5,111,break,high,rubric,1.21,17,14,31. Henschelewski,32. Knapski
 5,112,break,high,rubric,0.79,11,14,32. Knapski,33. Kirschkowski
 5,113,break,high,rubric,1.14,16,14,33. Kirschkowski,34. Wilmański
-5,114,break,high,rubric,0.93,13,14,34. Wilmański,35. Feterowski
-5,115,break,high,rubric,1.0,14,14,35. Feterowski,36. Palmowski
+5,114,break,high,rubric,0.93,13,14,34. Wilmański,35. Retelewski
+5,115,break,high,rubric,1.0,14,14,35. Retelewski,36. Palmowski
 5,116,break,high,rubric,0.93,13,14,36. Palmowski,37. Mellerowicz
 5,117,break,high,rubric,1.07,15,14,37. Mellerowicz,38. Donarski
 5,118,break,high,rubric,0.86,12,14,38. Donarski,39. Najderski
