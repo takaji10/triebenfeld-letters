@@ -2892,6 +2892,12 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-25 - The word of the Themen block ruled
+
+- The editor ruled the doubtful word of 0030's Themen block "polnische"
+  ("Verschlungen hat ihr der polnische Mund"). The transcription, the
+  English and the holding's pages corrected; the check clean; rebuilt.
+
 ## 2026-10-25 - Published
 
 - The editor said "Publish". Main was pushed after a local build and
