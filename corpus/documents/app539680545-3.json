@@ -60,10 +60,15 @@
  "mentions_english": [],
  "place_canonical": "Unknown",
  "place_mentions": [],
- "translation_status": "untranslated",
- "translation": [],
- "text_english": "",
- "summary_en": "",
- "summary_de": "",
+ "translation_status": "draft",
+ "translation": [
+  {
+   "page": 1,
+   "en": "A. Arminski,\nB. Bartmański, Brojerski, Bartnowski, Bauerowicz,\nC.\nD. Donarski,\nE.\nF. Funkiewicz, Festerkiewicz, Frydrychowski, Feterowski,\nG. Gutwiński,\nH. Holendajski, Hedszelewski, Hirszowski,\nJ. Jursowski[?]\nK. Kuntski, Kurzmanowski, Knapski, Kirschkowski,\nL. Licznerowski, Lernaciński, Lencewicz, Langowski,\nM. Murnerowski, Mieklewski, Mundkowski, Mystelkowski,\nN. Najderski,\nO. Oberski,\nP. Palmowski,\nR. Ringwelski, Rosenkiewicz, Retelewski, Reinowski,\nS. Schmidecki, Szmidowicz, Szulborski,\nT.\nU.\nV.\nW. Weynerowski, Wilmański,\nZ."
+  }
+ ],
+ "text_english": "A. Arminski,\nB. Bartmański, Brojerski, Bartnowski, Bauerowicz,\nC.\nD. Donarski,\nE.\nF. Funkiewicz, Festerkiewicz, Frydrychowski, Feterowski,\nG. Gutwiński,\nH. Holendajski, Hedszelewski, Hirszowski,\nJ. Jursowski[?]\nK. Kuntski, Kurzmanowski, Knapski, Kirschkowski,\nL. Licznerowski, Lernaciński, Lencewicz, Langowski,\nM. Murnerowski, Mieklewski, Mundkowski, Mystelkowski,\nN. Najderski,\nO. Oberski,\nP. Palmowski,\nR. Ringwelski, Rosenkiewicz, Retelewski, Reinowski,\nS. Schmidecki, Szmidowicz, Szulborski,\nT.\nU.\nV.\nW. Weynerowski, Wilmański,\nZ.",
+ "summary_en": "An alphabetical list of Polonised surnames under the letters A to Z, of which C, E, T, U, V and Z stand empty. Thirty-nine names are listed, from Arminski under A through Bartmański, Funkiewicz, Holendajski, Kuntski, Licznerowski, Murnerowski and Najderski to Weynerowski and Wilmański under W; one, Jursowski, carries the doubt mark.",
+ "summary_de": "Ein alphabetisches Verzeichnis polonisierter Familiennamen unter den Buchstaben A bis Z, von denen C, E, T, U, V und Z leer stehen. Neununddreißig Namen sind aufgeführt, von Arminski unter A über Bartmański, Funkiewicz, Holendajski, Kuntski, Licznerowski, Murnerowski und Najderski bis zu Weynerowski und Wilmański unter W; einer, Jursowski, trägt das Zweifelzeichen.",
  "reading": {}
 }

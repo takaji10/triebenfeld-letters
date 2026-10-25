@@ -223,3 +223,13 @@ and the boundaries were all moved to four digits.
 
 The corpus has not been assembled: `transcriptions/` holds the six list
 pages only, and the prose pages wait on a reading that can see the pages.
+
+That was the state of 2026-10-25 morning; the same day the editor supplied
+transcriptions of 0031-0033, ruled 0034 image-only, and the holding was
+assembled (seven documents, above), translated in session, its summaries
+written and claim-checked in both languages (`intake/write_summaries.py`,
+`intake/claim_check.yml`: 33 statements, two corrected in the draft), the
+holding's page written in both languages (`about.md`, `process.md`, and the
+German), the glossary gate run (0 candidates), and the edition guide's
+counts corrected (626 documents, 2,021 pages). Status `translated`, on the
+branch, not published. TODO, docs/TODO.md section 35.

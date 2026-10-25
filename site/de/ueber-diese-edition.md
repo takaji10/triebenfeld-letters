@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 619 Dokumente auf 2.011 Seiten aus den Jahren 1173 bis 1936. Die
+Die Edition enthält 626 Dokumente auf 2.021 Seiten aus den Jahren 1173 bis 1936. Die
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -53,7 +53,10 @@ Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und eine
   Woiwodschaft Kalisch für 1789, einem Gerichtsprotokoll von 1806, um 1930 angefertigten
   Abschriften von Schriftstücken über die Aufteilung der Güter, einer gedruckten
   Vorladung von 1860 in einem Prozess zwischen dem Besitzer von Trąbczyn und dessen
-  Kolonisten, zwei Notizheften von 1936, in die der Historiker Albert Breyer
+  Kolonisten, zehn Arbeitsblättern, auf denen der Historiker Albert Breyer die
+  polonisierten deutschen Familiennamen der Gemeinde Zagórów sammelte, mit seinem
+  Auszug aus einem Breslauer Druck von 1741 und seinen Notizen, wie und warum die
+  Namen geändert wurden; zwei Notizheften von 1936, in die der Historiker Albert Breyer
   aufschrieb, was ihm die deutschen Siedler von Łazińsk und den umliegenden Orten erzählten,
   und einem dritten von 1935 und 1936, in das er die russischen Tabellen von 1868 abschrieb,
   nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; und sechs

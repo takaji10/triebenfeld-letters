@@ -900,6 +900,19 @@ written until there is a witness or a better scan.
   the year of no. 16, written over in the copy and read as 1447 with doubt;
   whether the note in the margin of p. 14 is in another hand.
 
+- **APP 53/968/0/-/545** (Breyer's sheets on the Polonised names, added and
+  translated 2026-10-25, on the branch app539680545; not published;
+  `units/app539680545/notes.md`): the lists read by the machine reader and
+  settled on the editor's sheet (30 of 31 rows answered); the prose sheets
+  0031-0033 are the editor's transcription, kept as typed, their doubtful
+  words recorded in the holding's `intake/unresolved.md`; 0034 has no
+  transcription (the editor's word). Open: the word read as "pronihige[?]"
+  in the Themen block of 0030 (the candidates and the 3x picture are named
+  in the holding's notes); whether "1843. Szuberski" is the last line of
+  0025; the three doubtful names of the lists (Nowaczyński[?] of 0026,
+  Micklewski[?] and Sekerowski[?] of 0029). The sheet's two unanswered rows
+  are recorded in the holding's notes.
+
 - **APP 53/968/0/-/669** (Albert Breyer's notebook of July 1936, added
   2026-10-14): read from the scans by Claude; the editor read 39 doubtful
   readings on two spot sheets (2026-10-14). 70 marks of doubt remain, 29

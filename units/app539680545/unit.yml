@@ -26,7 +26,7 @@ fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w S
 # No sheet in the holding carries a date (the years 1741, 1843 and 1855 in
 # the lists are the dates of the material they name, not of the sheets).
 date_span: ""
-status: transcribed         # draft | transcribed | translated | published
+status: translated         # draft | transcribed | translated | published
 
 # Which era this holding belongs to - reference/eras.yml. Breyer's own
 # notes stand in the twentieth century (the rule of APP 53/968/0/-/716);

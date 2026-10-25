@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 619 documents on 2,011 pages, dated from 1173 to 1936. The oldest are
+The edition holds 626 documents on 2,021 pages, dated from 1173 to 1936. The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -50,7 +50,10 @@ The documents come from forty-seven holdings in six archives and a library:
   holdings, 92 documents); thirteen pages of the hearth-tax register of the Kalisz
   voivodeship for 1789; a court record of 1806; copies made about 1930 of papers on the
   division of the estates; a printed summons of 1860 in a lawsuit between the owner of
-  Trąbczyn and its colonists; and two notebooks of 1936 in which the historian Albert Breyer
+  Trąbczyn and its colonists; ten research sheets in which the historian Albert Breyer
+  collected the Polonised German surnames of the gmina Zagórów, with his excerpt of a
+  Breslau print of 1741 and his notes on how and why the names were changed; and two
+  notebooks of 1936 in which the historian Albert Breyer
   wrote down what the German settlers of Łazińsk and the places around it told him, and a
   third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
   settlers of Łazińsk, Emilienheim and Orliny their land; and six pages of an

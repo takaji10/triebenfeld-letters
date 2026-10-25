@@ -1118,3 +1118,27 @@ in, one at a time.
 - [ ] The map's viewer page on the site
       and the crops on the place pages (with GAZETTEER_PLAN step 3).
 - [ ] The interactive map (/map/).
+
+
+## 35. APP 53/968/0/-/545: Breyer's sheets on the Polonised names (added and
+    translated 2026-10-25, on the branch app539680545; not published)
+
+Ten photographed sheets on the Polonisation of German surnames in the gmina
+Zagorow: four lists, the excerpt of 1741, two prose essays, and a tenth
+sheet shown with the holding and without a transcription (your word).
+
+- [x] Read: the lists by the machine reader in bands, every doubtful reading
+      put to you on the sheet "Readings in Breyer's sheets 1" (31 rows); your
+      30 answers applied; two rows unanswered, recorded in the notes.
+- [x] Transcribe: the prose sheets 0031-0033 from your transcription; 0034
+      carried as "(skipped)".
+- [x] Build: seven documents on ten pages, all scans paired; translated in
+      session, check clean; summaries written and claim-checked in session
+      (33 statements); the holding's page written in both languages;
+      the glossary gate passes.
+- [ ] You: the reading "pronihige[?]" in the Themen block of 0030, against
+      the 3x picture (review/app539680545/spot_img/p30_tail3x.jpg).
+- [ ] You: the tail of 0025 (is "1843. Szuberski" the last line?), and the
+      doubtful names of the lists (Nowaczynski, Micklewski, Sekerowski),
+      whenever you look at the sheets again.
+- [ ] Publish at your word.

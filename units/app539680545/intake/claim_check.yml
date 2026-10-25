@@ -1,0 +1,130 @@
+# The claim check of the summaries of APP 53/968/0/-/545, made in session on
+# 2026-10-25 under the rules read_letters.py --verify gives its checker: each
+# statement held to the document, as supported, overstated or unsupported,
+# and the summary only weakened or cut. Not the paid run. The documents were
+# read from the corpus text, which carries the editor's own transcription of
+# 0031-0033 and the sheet-settled readings of the lists; page numbers are the
+# document's.
+#
+# Result: 33 statements, all supported after two corrected in the draft. The
+# draft of document 1 said "nine pairs and a tenth surname left without its
+# pair": the page also carries "Gem. Zagórów" between the first pair and the
+# second, which the summary now names. The draft of document 6 said the
+# schools were "of the Lodz region": the page names Lodz, Pabjanize, Zgierz
+# and Sompolno and says no region; the summary now names the four towns and
+# does not say where they lie. No statement rests on a page or a name that
+# carries a doubt mark except where the summary carries the mark too
+# (Nowaczyński, Jursowski).
+
+doc1:
+  - statement: The sheet is headed "P. Winkler Polonisierte Namen".
+    where: 001, line 1
+    verdict: supported
+  - statement: Nine pairs of a German surname and its Polonised form stand on the sheet, from Bobel - Rybicki to Gutschke - Gucz.
+    where: 001, lines 2, 4-10
+    verdict: supported
+  - statement: The first pair is dated "7. 1855" and the last line carries "1843. Szuberski".
+    where: 001, lines 2, 13
+    verdict: supported
+  - statement: "Gem. Zagórów" stands under the first pair.
+    where: 001, line 3
+    verdict: supported
+  - statement: Waldowski stands without its Polonised pair.
+    where: 001, line 12
+    verdict: supported
+  - statement: Document 7 names a Pastor Winkler in Wieluń who had German names transferred into Polish.
+    where: 007, page 1
+    verdict: supported
+
+doc2:
+  - statement: The list is headed "Polonisirte Deutsche Namen" and carries nineteen numbered pairs.
+    where: 002, lines 1-2, 3-21
+    verdict: supported
+  - statement: The pairs run from Niemann - Nowak to Brodel - Brudel; the summary's enumeration follows the page line for line.
+    where: 002, lines 3-21
+    verdict: supported
+  - statement: Neuwert - Nowaczyński carries the doubt mark, as the summary records it.
+    where: 002, line 16
+    verdict: supported
+
+doc3:
+  - statement: The sheet is an alphabetical list under the letters A to Z; C, E, T, U, V and Z stand empty.
+    where: 003, all lines
+    verdict: supported
+  - statement: The count of thirty-nine names was taken from the transcription line by line (the single-letter lines A, D, F, G, H, J, K, L, M, N, O, P, R, S, W with the names written after each).
+    where: 003, all lines
+    verdict: supported
+  - statement: Jursowski carries the doubt mark.
+    where: 003, J line
+    verdict: supported
+
+doc4:
+  - statement: The sheet quotes a Breslau print of 1741, "Polnisch-deutsche Briefe von George Schlag, Morgenprediger zu St. Hieronymi u. der polnischen Schule verordneter Moderator. Breslau, den 18. September 1741".
+    where: 004, lines 1-4
+    verdict: supported
+  - statement: Eight pairs follow, a Polish name against a German, from Wilkotek - Bärwolff to Wierzbrecki - Weidner.
+    where: 004, lines 5-12
+    verdict: supported
+
+doc5:
+  - statement: The list is headed "Polonisirte Deutsche Namen" and numbers fifty-three entries, written across three columns of 0029 and onto 0030.
+    where: 005, pages 1-2
+    verdict: supported
+  - statement: Seventeen pairs of a German name and its Polish translation stand between entries 42 and 43.
+    where: 005, page 1, after the 42 line
+    verdict: supported
+  - statement: Entries 5 and 52 are themselves pairs.
+    where: 005, page 1 line 7; page 2 line 4
+    verdict: supported
+  - statement: The pair Bohrer - Swiderski stands under entry 53, and under it the block headed "Themen:" with the three lines quoted.
+    where: 005, page 2
+    verdict: supported
+  - statement: The Themen block closes with a sentence fragment on what a mouth has swallowed, its one doubtful word carrying the mark as the summary says.
+    where: 005, page 2, last 4 lines
+    verdict: supported
+
+doc6:
+  - statement: The page opens mid-sentence ("dung des Schülers"), as the summary says.
+    where: 006, line 1
+    verdict: supported
+  - statement: The five remaining German middle schools are named as the German boys' gymnasium and the German girls' gymnasium at Lodz and three more at Pabjanize, Zgierz and Sompolno.
+    where: 006, lines 3-7
+    verdict: supported
+  - statement: The subject matter from the Vorschule I up to 0-I is to be worked through in twelve school years, though individual gentlemen argued for an eleven-year course; the majority spoke for keeping the twelve-year type, in view of the overburdening of learning three foreign languages.
+    where: 006, lines 8-14
+    verdict: supported
+  - statement: The coming into being of a directors' conference is welcomed most warmly; the wish is that subject conferences of the teachers at the German institutions follow it.
+    where: 006, lines 16-20
+    verdict: supported
+  - statement: For lack of time the conference could not settle fundamental questions exhaustively, still less a rebuilding or a partial reduction of the subjects; the judgement of the long-serving teaching staff is decisive.
+    where: 006, lines 20-24
+    verdict: supported
+  - statement: Subject conferences would counteract the dangerous going-it-alone; and it would lie in the interest of the former Deutschtum to receive word of their coming into being (the two doubtful words of the line carried as written in the English, the German untouched).
+    where: 006, lines 24-33
+    verdict: supported
+
+doc7:
+  - statement: The first sheet opens mid-sentence ("untergegangenes, geborsteres Volksgut erinnern") and the essay breaks off on the second.
+    where: 007, page 1 line 1; page 2 last line
+    verdict: supported
+  - statement: German family names stand on the shop signs in Warsaw, Lublin and a market town far from the trade routes; the bearers may not be addressed as Germans; the smallest trace of the former folk property is dead; only their German name is left them.
+    where: 007, page 1, lines 1-10
+    verdict: supported
+  - statement: The lawful change of name is beset with difficulties and of late costs a considerable sum; the first volumes of the state newspaper "Monitor Polski" show examples.
+    where: 007, page 1, lines 13-17
+    verdict: supported
+  - statement: The simpler way is the complete transfer of the German family name into Polish, found in the resourcefulness of commune heads and of the evangelical pastors Winkler in Wieluń and v. Boerner in Zduńska-Wola; the four examples Jahn, Schneider, Rot and Blum follow as the summary gives them.
+    where: 007, page 1, lines 17-26
+    verdict: supported
+  - statement: A closer examination finds three kinds of altered name; the summary names the first two as the page does and stops where the page stops, before the third.
+    where: 007, page 1, lines 27-34
+    verdict: supported
+  - statement: The second sheet carries the list of some fifty Polonised surnames, from Brojerski, Bartnowski and Bauerowicz to Schulborski, Wegnerowski and Wilmanski, counted line by line from the transcription.
+    where: 007, page 2
+    verdict: supported
+  - statement: The page closes "So werden deutsche Familiennamen verstümmelt, dem Sprachgefühl und Sprachgebrauch des Mehrheitsvolkes angepasst" and breaks off at "Aus deutschen Polens".
+    where: 007, page 2, last 3 lines
+    verdict: supported
+  - statement: The third page is shown with the holding and has no transcription.
+    where: ruling (0034 as "(skipped)")
+    verdict: supported

@@ -117,8 +117,25 @@ so check them.
 - **Sources supplied by the editor** go in `reference/sources/`, verbatim with
   a working translation, and entries cite them with `source:`.
 
-## Where things stand (2026-10-24)
+## Where things stand (2026-10-25)
 
+- **APP 53/968/0/-/545** (slug `app539680545`, added and **translated**
+  2026-10-25 on the branch `app539680545`, **not published**): Albert
+  Breyer's ten photographed research sheets on the Polonisation of German
+  surnames in the gmina Zagórów - four lists of names with their Polonised
+  forms, his excerpt of a Breslau print of 1741 (George Schlag's
+  "Polnisch-deutsche Briefe"), two prose essays on the schools of the Łódź
+  region and on the German surnames of the towns, and a tenth sheet shown
+  with the holding but not transcribed (`(skipped)`, the editor's word).
+  Seven documents; the lists read by the machine reader in bands and
+  settled on the editor's spot sheet (30 of 31 rows answered; 0031-0033
+  are the editor's own transcription, kept as typed); translated and its
+  summaries claim-checked in session; the holding's page written in both
+  languages; the glossary gate passes. Open: "pronihige[?]" in 0030's
+  Themen block, the tail of 0025, three doubtful names of the lists
+  (NEEDS_CONFIRMATION). Read `units/app539680545/notes.md` first. The
+  holding counts 7 documents and 10 pages; the edition has 626 documents
+  in 47 holdings.
 - **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the
   branch `gazetteer`, **merged to main and published 2026-10-24**; plan
   `docs/GAZETTEER_PLAN.md`): the editor's own index of 112 places around
