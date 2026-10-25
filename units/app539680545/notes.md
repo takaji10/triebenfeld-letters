@@ -128,11 +128,37 @@ What changed, by sheet:
   lines (Waldowski / 1843. Szuberski), so the draft's extra last line is
   taken to have been the machine's misread of "1843. Szuberski". Say so if
   there is a further line.
-- **Row p30c2** went unanswered: what stands at the foot of 0030's third
-  column (the machine read "sirdorfki", "motzungen" there).
+
+## The difficult column of 0030 (the editor's readings, 2026-10-25)
+
+The sheet's row p30c2 asked what stands at the foot of 0030's third
+column. The editor answered in the reply with six lines, read with doubt:
+
+    Geschichts Pr_the[s?]hen
+    Polacy-ewangelicy
+    Erste deutsch Eimwand[?]
+    (Wer[t?]s..gen
+    hat ihr
+    der gr...igen Münd")
+
+They are in the transcription as given, brackets and all, below the
+"Bohrer - Swiderski" pair. The machine's readings of that region
+("sirdorfki", "motzungen") are dropped as confabulation; a 2.6x re-read of
+the same region agreed on nothing but the closing mark after "Münd" -
+quotation mark and parenthesis - which corroborates the last line's shape.
+The lines read like the head of a citation of a printed work on Polish
+Protestants and the first German immigration (a thought only, not a
+reading): whether "Polacy-ewangelicy" is the title Breyer cites, and what
+work "Geschichts Pr_the[s?]hen" names, may be settled when the prose sheets
+0031-0034 are read, if he cites the same work there.
+
+## Still open, after the answers
+
 - **The Kurrent lines of 0030**: below "Bohrer - Swiderski" the editor
   reads possibly "Themen:" and further lines in Kurrent, which neither of
   us can read yet. Not transcribed; the corpus has nothing for them.
+- **The prose sheets 0031-0034** are not transcribed (see above) and the
+  editor has not yet said how they are to be read.
 
 ## Documents (draft, to confirm with the editor)
 
