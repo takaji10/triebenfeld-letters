@@ -259,6 +259,7 @@ little where a line sat across two of them.</p>
 <div id=rows>{''.join(rows)}</div>
 <p>When you have worked down the page, the answers are saved as you go.</p>
 <script>
+var ANSWERS = {json.dumps(ANSWERS, ensure_ascii=False)};
 document.querySelectorAll('.row').forEach(function(r) {{
   var key = r.dataset.key;
   var saved = ANSWERS[key] || {{}};
@@ -285,7 +286,6 @@ document.querySelectorAll('.row').forEach(function(r) {{
         other: other.value, note: note.value }}) }});
   }}
 }});
-var ANSWERS = {json.dumps(ANSWERS, ensure_ascii=False)};
 </script></body></html>"""
 
 

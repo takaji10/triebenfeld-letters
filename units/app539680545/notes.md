@@ -51,7 +51,13 @@ defeats them, so nothing of those pages is in the transcription.
 Every doubtful reading is marked `[?]` in the draft and asked on the sheet:
 `python units/app539680545/intake/spot_sheet1.py` (port 4103), answers to
 `review/app539680545/readings1_answers.json`, 31 rows, one per strip that
-carries a doubtful reading.
+carries a doubtful reading. The strip pictures are the band crops of the
+reading pass, copied into `review/app539680545/spot_img/`. A script-order
+bug in the generated page (the shared `ANSWERS` object declared after the
+per-row handler setup, so the first row threw and no button was wired)
+silently killed every button on 2026-10-25; fixed the same day by moving the
+declaration to the top of the script. Any later edit to the script keeps the
+`var ANSWERS` line above the `querySelectorAll` loop.
 
 ## Documents (draft, to confirm with the editor)
 
