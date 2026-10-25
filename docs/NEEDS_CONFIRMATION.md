@@ -888,6 +888,19 @@ written until there is a witness or a better scan.
 
 ## Readings, the other holdings
 
+- **APP 53/968/0/-/782** (the contract of 1820 with the teacher Samuel
+  Adolph, added 2026-10-25; `units/app539680782/notes.md`): the transcription
+  is the editor's own and is not re-read; what waits is the line division and
+  one question of content, all on the spot sheet (`units/app539680782/intake/
+  spot_sheet1.py`, answers to `review/app539680782/lines_answers.json`):
+  whether the opening paragraph's line ends at "mit" or "mit demselben"; the
+  breaks of terms 3, 9 and 10 and of the closing sentence; whether the line
+  "worauf wir uns Eigen-händig Unter-schrieben." stands on one line; and the
+  pencil writing at the foot of the second page - what it says, and whether
+  it is transcribed as a heading line (as 783's folder inscriptions are) or
+  left out. Settled by the editor before the sheet: item 7 stands with its
+  number and nothing after it; item 9 opens "9te.".
+
 - **APP 53/1455/0/2/21** (the copy-book of the privileges of Ląd, added
   2026-10-21, published the same day; `units/app5314550221/notes.md`): read from the
   editor's photographs by Claude; 22 marks of doubt, mostly witnesses'
@@ -1086,6 +1099,15 @@ People (`reference/people.yml`, `open_questions`):
 
 Places (`reference/places.yml`, `open_questions`):
 
+- "Tropiczyner Holl." (the contract of 1820, APP 53/968/0/-/782): the
+  identification with Łazińsk (Trąbczyńskie Stare Olędry) is not ruled. The
+  canon records "Trąbczyner Holländ" as a variant of Łazińsk (from
+  oe1bu14526-17); this contract spells the colony "Tropiczyner Holl.", and
+  its school is the colony's own. The place of writing is left empty and the
+  name is not matched until the editor rules. Also open, the same document:
+  "Borwiezer Holland", the colony Samuel Adolph came from - Borowiec (named
+  in APP 53/968/0/-/669) is a candidate, nothing more.
+
 - Harbultowitz, among the estates of the majorat in Oe 1 U 199: not
   identified.
 - In Oe 1 Bü 9454: Neustadt (which one is not clear), Wilhelmsruh (a manor by
@@ -1230,7 +1252,12 @@ The seventeen of Nr. 12367 and the two AGAD holdings were translated in
 session on 2026-10-05; their one review row is deliberate: "7,000 fl." in
 Weigel's reckoning (12367, 7) is rendered Polish florins, not the termbase's
 gulden, since church capital on a Polish estate is reckoned at six to the
-thaler.
+thaler. The contract of 1820 (app539680782-001) was translated in session on
+2026-10-25 at the editor's word, no paid run for a two-page document. Open on
+it: "6 gl." at term 9 - the standing rule of `reference/english_forms.yml`
+rewrites "gl." after a figure to Groschen, from the Hohenlohe letters' usage;
+whether this contract's "6 gl." is gulden is put to the editor, and the rule
+gets a guard if it is.
 
 Fixes to the English that survive a re-publish go in
 `reference/english_forms.yml` (rules) or `reference/english_corrections.yml`
@@ -1291,6 +1318,13 @@ Plan and rules: `docs/GLOSSARY_PLAN.md`.
   entry, Krünitz or Grimm was used and the `source:` says so: vidimirte
   Abschrift, in Ratis, Execution, Notarius, Pro Memoria, L. S. Confirm that
   this is acceptable, or name the work to use.
+- **The single-document terms of the contract of 1820** (app539680782): the
+  glossary gate passes (its words are in fewer than three documents), but a
+  reader stops at several: "St." after a figure (Stüber?), "Böhm" in the
+  burial fee of "7 Böhm 3 gr.", "Opfertorium", the grain measure "Viertel",
+  the "Neujahrsumgang", the village board's "Beisitzer" and "gerichten" (as
+  written; what office the latter names is not clear). Put to the editor on
+  the spot sheet's report: entries, or the words left as written.
 - **The Mencel source** (`reference/sources/patrimonial_courts_mencel.md`):
   which fonds on Szukaj w Archiwach it describes, so the citation can name it;
   and whether "Sądy te narastały nierównomiernie" means the records grew

@@ -1,0 +1,34 @@
+One photographed contract of 1820 in German, kept in the State Archive in Poznań (Archiwum Państwowe w Poznaniu) among the papers of Albert Breyer (1889-1939), a teacher at the German school in Sompolno and a historian of the German settlements in central Poland. It is one document of two pages: the village board's contract with the teacher of the colony's own school. <!-- context -->
+
+### Historical background
+
+The estate's settlers were Olęders, colonists who held their land by contract with the owner; their villages kept German schoolmasters, and the schoolmaster's pay came from the village board and the parents, not from the manor. The historian Breyer visited the colonies a century later and wrote down what the settlers remembered of their schools and their teachers: [[unit:app539680669]]. <!-- context -->
+
+After 1815 the estate lay in the Kingdom of Poland, under the Russian emperor, and belonged to Michalina Prusimska, who had recovered it in 1807 and was later Countess Miączyńska: [[unit:agad1174016]]. <!-- context -->
+
+### Contents
+
+The contract is dated from the colony itself: "Tropiczyner Holl., 14. März 1820". The village board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and Samuel Gellert - records that Samuel Adolph, a school teacher from Borwiezer Holland, appeared and let it be known that he would take over the school here; the board had put him to the test, and on that ground contracts with him and issues him the appointment [[1]].
+
+Ten numbered terms follow [[1]]:
+
+1. free dwelling;
+2. to the school three Morgen of land and some meadow, which he may use without payment, the land tilled by the community;
+3. from the community five Viertel of grain and a half Viertel of seed, which he must carry at his going;
+4. for a child learning from the a b c to reading, 3 gr.;
+5. for writing and reckoning, 6 gr.;
+6. a present of 1 St. from every child that is confirmed;
+7. the number standing with nothing after it;
+8. for the burial of an old corpse, 7 Böhm 3 gr., for a child 1 St.;
+9. at the high feasts of Christmas, Easter and Whitsun an Opfertorium from every Wirt, 6 gl.;
+10. a New Year's round, New Year 6 gr. "pohl." and Green Thursday 3 gr. "pohl". [[1]]
+
+On this contract the teacher binds himself to continue his office as an honest man, the Sunday school as well as the children's teaching. The board issues the contract for one year and binds itself to keep its side faithfully. The three sign: Johann George Lindner as Schulze, Christoph Rimpel as Beisitzer, Samuel Gellert "gerichten" [[1]].
+
+### Form and language
+
+The contract is in German, in one hand, written fast and with phonetic spellings that this edition keeps as written: "Freihe wohnung", "Ale hohe Pfest-Tage", "veroblogiert", "Begräbniß". The terms are numbered 1. to 10., item 9 with the ordinal "9te."; item 7 carries its number and nothing else. A word divided at a line end keeps the manuscript's hyphen. "pohl." after a sum marks Polish money [[1]].
+
+### Related holdings
+
+Breyer's notebook on Łazińsk, Emilienheim and Orliny, with its tables of the colony: [[unit:app539680716]] and [[unit:app539680669]]. His research sheets on the Polonisation of the German surnames of the gmina: [[unit:app539680545]]. The colonists' lawsuit of 1859 and Count Włodzimierz Miączyński's counterclaim of 1860, which carried the colonies' contracts into court: [[unit:app539680783]]. <!-- context -->

@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 94
+  docs: 95
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -150,7 +150,7 @@
   initial_en: "M"
   sort_de: "morgen"
   initial_de: "M"
-  docs: 53
+  docs: 54
 - id: "hufe"
   kind: "money"
   lang: "de"
@@ -492,7 +492,7 @@
   initial_en: "V"
   sort_de: "schulze"
   initial_de: "S"
-  docs: 15
+  docs: 16
 - id: "donation"
   kind: "land"
   lang: "de_la"

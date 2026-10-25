@@ -1147,3 +1147,41 @@ sheet shown with the holding and without a transcription (your word).
       them. Nothing else is open.
 - [x] Published at your word (2026-10-25): the branch merged to main and
       pushed; the "Build and deploy" run succeeded.
+
+## 36. APP 53/968/0/-/782: the contract with the teacher Samuel Adolph,
+      1820 (added and translated 2026-10-25)
+
+One photographed document of two pages, from the same fonds as 545: the
+village board's contract with the teacher of the colony's school, dated
+"Tropiczyner Holl., 14. März 1820" - ten numbered terms (dwelling, land and
+grain, school money, the feast-day offering, the New Year's round), the
+teacher's obligation and the board's, three signatures. The first image of
+the folder is the title page and is left out (your word).
+
+- [x] Scaffolded after 545's shape; your transcription carried in whole, the
+      lines laid out against the two images (your word: the file's breaks are
+      paragraph-level); item 7 empty and item 9 opening "9te." ruled by you.
+- [x] Built: one document, the date read from the dateline; era
+      `restitution` (proposed in the plan you approved - say otherwise if
+      you want it elsewhere); estates `trabczyn`.
+- [x] Translated in session at your word (no paid run for two pages),
+      check clean; summaries written and claim-checked in session (18
+      statements, one corrected in the draft); the holding's page written in
+      both languages; the glossary gate passes; the site verifies clean
+      (627 documents in 48 holdings).
+- [ ] You: the spot sheet "The contract of 1820 - lines and the foot of the
+      second page" (`python units/app539680782/intake/spot_sheet1.py`, port
+      4107): the line division at six places, and the pencil writing at the
+      foot of page 2 - what it says, and whether it is transcribed.
+- [ ] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
+      would rewrite it (NEEDS_CONFIRMATION, "Translations").
+- [ ] You: the identification of "Tropiczyner Holl." with Łazińsk (the
+      canon's "Trąbczyner Holländ" variant), and of "Borwiezer Holland" with
+      Borowiec (NEEDS_CONFIRMATION, "Identifications").
+- [ ] You: whether the single-document terms get glossary entries ("St.",
+      "Böhm", "Opfertorium", "Viertel", the "Neujahrsumgang") - offered, not
+      done (NEEDS_CONFIRMATION, "Glossary").
+- [ ] You: whether a timeline event of 1820 is wanted (the school contract
+      bears on the colony, not directly on the owner), and whether the
+      restitution era's story names the holding.
+- [ ] Publish at your word.

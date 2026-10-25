@@ -19,7 +19,7 @@ verlor sie 1807, und der Streit um sie und um die Schulden, die er auf sie aufge
 hatte, dauerte bis 1832.
 [Die Geschichte]({{ '/de/die-geschichte/' | relative_url }}) erzählt das der Reihe nach.
 
-Die Edition enthält 626 Dokumente auf 2.021 Seiten aus den Jahren 1173 bis 1936. Die
+Die Edition enthält 627 Dokumente auf 2.087 Seiten aus den Jahren 1173 bis 1936. Die
 ältesten sind mittelalterliche Urkunden des Klosters Ląd und der Ritter von Trąbczyn, aus der
 gedruckten Edition der Urkunden Großpolens. Dann folgen Einträge aus den Gerichtsbüchern von
 Konin und Kalisch zum Streit
@@ -39,7 +39,7 @@ der Zeit, die einer Erklärung bedürfen, sind im Text markiert und im
 
 ## Wo die Dokumente liegen
 
-Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und einer Bibliothek:
+Die Dokumente stammen aus achtundvierzig Beständen in sechs Archiven und einer Bibliothek:
 
 - dem **Hohenloher Zentralarchiv Neuenstein**: Triebenfelds Korrespondenz mit
   Hohenlohe-Ingelfingen und dessen Beamten, 1798 bis 1816 (318 Dokumente); zwei Bänden mit
@@ -59,7 +59,9 @@ Die Dokumente stammen aus siebenundvierzig Beständen in sechs Archiven und eine
   Namen geändert wurden; zwei Notizheften von 1936, in die der Historiker Albert Breyer
   aufschrieb, was ihm die deutschen Siedler von Łazińsk und den umliegenden Orten erzählten,
   und einem dritten von 1935 und 1936, in das er die russischen Tabellen von 1868 abschrieb,
-  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; und sechs
+  nach denen die Siedler von Łazińsk, Emilienheim und Orliny ihr Land erhielten; dem
+  Kontrakt vom 14. März 1820 zwischen der Dorfgemeinde von Tropiczyner Holland und dem
+  Schul Lehrer Samuel Adolph, über seine Übernahme der Schule der Kolonie; und sechs
   Seiten eines Kopialbuchs der Privilegien der Abtei Ląd aus dem 18. Jahrhundert, mit dem
   Tausch des Königs von 1362, der der Abtei den Wald gab, in dem Drzewce gegründet wurde,
   ihrem Kauf von Land in Łukom 1461 und einer Seite der Erneuerung der Grenzhügel zwischen

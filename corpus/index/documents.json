@@ -30645,6 +30645,52 @@
   "permalink": "/documents/iiihamdaiiinr12765/27/"
  },
  {
+  "uid": "app539680782-1",
+  "unit": "app539680782",
+  "letter_id": "1",
+  "doc_type": "contract",
+  "language": "de",
+  "era": "restitution",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1820-03-14",
+  "date_precision": "day",
+  "date_source": "dateline",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 45,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0002_a",
+    "image": "APP_53_968_0_782_0002_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0003_a",
+    "image": "APP_53_968_0_782_0003_a-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 0,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "contract 1",
+  "path": "documents/app539680782-1.json",
+  "text_path": "text/app539680782-1.txt",
+  "permalink": "/documents/app539680782/1/"
+ },
+ {
   "uid": "iiihamdaiiinr12765-29",
   "unit": "iiihamdaiiinr12765",
   "letter_id": "29",

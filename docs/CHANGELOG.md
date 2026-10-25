@@ -2892,6 +2892,37 @@ lose his estates. The era page writes Konotop, not Kontop.
   ("This map is very crudely drawn so it's not perfect"). Allmaps handles
   the level-0 static tiles, the pilot's open point.
 
+## 2026-10-25 - APP 53/968/0/-/782 added and translated (branch app539680782)
+
+- The holding built: the contract of 14 March 1820 between the village board
+  of Tropiczyner Holland and the school teacher Samuel Adolph of Borwiezer
+  Holland, one document on two photographed pages (the folder's title page
+  left out at the editor's word). All scans paired.
+- The editor's own transcription carried in whole, the lines laid out against
+  the two images at the editor's word (their file was paragraph-level); the
+  layout read in session with an OCR pass and a line-by-line read as
+  witnesses; item 7 empty and item 9 opening "9te." ruled by the editor.
+  Six places where the line division is not certain are on the spot sheet
+  (`intake/spot_sheet1.py`).
+- The line-end divisions join as they should: auszunehmen, stelten,
+  Vocation (three decisions, all high confidence).
+- Translated in session at the editor's word (no paid run for two pages;
+  intake/translation/write_cache.py writes the cache), the check clean.
+  Summaries written in both languages in session and claim-checked in
+  session (intake/claim_check.yml): 18 statements, one corrected in the
+  draft (the one-year term belongs to the board's contract).
+- The holding's page written in both languages; the glossary gate passes
+  (the single-document terms offered, not entered); rulings: doc_type
+  contract, the date read from the dateline, place of writing empty (the
+  identification of "Tropiczyner Holl." open), estates trabczyn; era
+  `restitution` (proposed in the plan, the editor approved it).
+- The edition guide's counts corrected (627 documents, 2,087 pages,
+  forty-eight holdings) and the Poznań bullet extended, English and German.
+- Open on the editor: the spot sheet; "6 gl." gulden or Groschen; the
+  identifications of "Tropiczyner Holl." and "Borwiezer Holland"; glossary
+  entries for the single-document terms; a timeline event and the era's
+  story (TODO section 36).
+
 ## 2026-10-25 - The word of the Themen block ruled
 
 - The editor ruled the doubtful word of 0030's Themen block "polnische"

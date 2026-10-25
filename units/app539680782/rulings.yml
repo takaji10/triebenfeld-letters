@@ -1,0 +1,60 @@
+# Editorial rulings for 53/968/0/-/782 (APP).
+#
+# One document: the contract of 14 March 1820 between the village board of
+# Tropiczyner Holland and the school teacher Samuel Adolph, two photographed
+# pages (Image0002_a, Image0003_a). The transcription is the editor's own
+# reading, kept as written; the lines follow the manuscript's lines, and the
+# manuscript's line-end divisions keep their hyphens (auszu-/nehmen,
+# stel-/ten, Vo-/cation), as in the Breyer holdings 545 and 669.
+#
+# The editor's rulings of 2026-10-25: item 7 of the terms stands with its
+# number and nothing after it (the transcription's "[empty]" mark resolved
+# against the scan); item 9 opens with the ordinal "9te." (the doubtful
+# "[h/ti?]" of the transcription resolved as "te"); the first image of the
+# folder is the holding's title page and is left out.
+
+places:
+  overrides:
+    # The dateline reads "Tropiczyner Holl., 14. März 1820." - the colony
+    # itself, the school's own village. The canon records "Trąbczyner
+    # Holländ" as a variant of Łazińsk (Trąbczyńskie Stare Olędry), and this
+    # contract's "Tropiczyner Holl." looks like one more spelling of the same
+    # colony; but the identification is not yet ruled (NEEDS_CONFIRMATION),
+    # so the place stays empty rather than asserting it. The name stands in
+    # the transcription either way.
+    "1": ""
+
+dates:
+  # 14 March 1820, read from the dateline by the editor (the transcription).
+  read:
+    "1": [1820, 3, 14, "day"]
+
+  supplied: {}
+  twin: {}
+  inferred: {}
+  sitting: {}
+  no_date: []
+
+documents:
+  # The holding's era stands (unit.yml): 1820 is Michalina Prusimska's
+  # ownership, after the restitution of 1807.
+  era: {}
+
+  doc_type:
+    "1": contract
+
+  # The contract is in German throughout.
+  language:
+    "1": "de"
+
+  # The estate the document is ABOUT, as slugs from reference/places.yml:
+  # the colony's school belongs to the Trąbczyn estate (the sibling
+  # holdings' ruling).
+  estates:
+    "1": [trabczyn]
+
+  duplicate_of: {}
+  split_note: {}
+
+damage:
+  letters: []

@@ -18,7 +18,7 @@ estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807
 disputes over them and over the debts he had secured on them ran on until 1832.
 [The story]({{ '/the-story/' | relative_url }}) tells this in order.
 
-The edition holds 626 documents on 2,021 pages, dated from 1173 to 1936. The oldest are
+The edition holds 627 documents on 2,087 pages, dated from 1173 to 1936. The oldest are
 medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
 of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
 on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
@@ -38,7 +38,7 @@ explaining are marked in the text and defined in the
 
 ## Where the documents are held
 
-The documents come from forty-seven holdings in six archives and a library:
+The documents come from forty-eight holdings in six archives and a library:
 
 - the **Hohenloher Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
   Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
@@ -56,7 +56,9 @@ The documents come from forty-seven holdings in six archives and a library:
   notebooks of 1936 in which the historian Albert Breyer
   wrote down what the German settlers of Łazińsk and the places around it told him, and a
   third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
-  settlers of Łazińsk, Emilienheim and Orliny their land; and six pages of an
+  settlers of Łazińsk, Emilienheim and Orliny their land; the contract of 14 March 1820
+  between the village board of Tropiczyner Holland and the school teacher Samuel Adolph,
+  on his taking over the colony's school; and six pages of an
   eighteenth-century copy-book of the privileges of the abbey of Ląd, with the king's
   exchange of 1362 that gave the abbey the forest where Drzewce was founded, its purchase
   of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów

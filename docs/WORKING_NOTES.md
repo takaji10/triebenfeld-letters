@@ -1724,6 +1724,27 @@ cloud branches").
   place of Python's `struct`, which `urllib` needs. Keep session scripts
   in their own subfolder; leave the leftover file alone (another session's
   work).
+- **`name_catalogue.py` rewrites `reference/name_seeds.json` wholesale, and
+  a bare run drops curated seeds** (2026-10-25, the contract of 1820). The
+  committed file carried 196 seeds; a bare `--unit <slug>` run re-derived
+  473 from the whole corpus - 28 of them gone, among them Drzewce, Kolno,
+  Betsch and Gneizenau, and junk in their place ("Allodial" a place,
+  "Amerika"). Restored with `git checkout` and the holding needed none of
+  it: the sibling 783 put its 97 colonists into no authority either. A new
+  holding's people are not seeded by a bare catalogue run; the names pass
+  and the editor rule who is profiled. Treat the file as write-protected
+  until the tool's intended mode is understood.
+- **OCR a manuscript for its LINE SCAFFOLD, not its words** (2026-10-25,
+  the same contract). Neither Tesseract's German print model nor the
+  lunaroute converter can read an 1820 hybrid hand - the lunaroute pass
+  returned word salad - but the converter reads the page whole and its
+  LINE BREAKS were right where the darkness-run profile and the
+  transcription could check them (the "Vo-/cation" division, the ten
+  numbered terms). The method for laying out a secure transcription by
+  paragraph onto the manuscript's lines: count and place the lines with
+  the darkness runs, scaffold the contents with the OCR pass, map the
+  editor's words onto the scaffold, and leave the few unsettled divisions
+  to a spot sheet.
 - **OCR a page as the agreement of passes, not from one run.** The five
   passes over the clipping (two upscalings ×3/×4, psm 6 and 4, tessdata_best
   beside the standard model, Windows.Media.Ocr as a third witness) agreed on
