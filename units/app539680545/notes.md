@@ -57,7 +57,11 @@ bug in the generated page (the shared `ANSWERS` object declared after the
 per-row handler setup, so the first row threw and no button was wired)
 silently killed every button on 2026-10-25; fixed the same day by moving the
 declaration to the top of the script. Any later edit to the script keeps the
-`var ANSWERS` line above the `querySelectorAll` loop.
+`var ANSWERS` line above the `querySelectorAll` loop. The strip pictures
+were first cut at the band boundaries of the reading pass and sliced through
+lines (the editor, 2026-10-25: "Some of the crops are too tight"); they are
+now cut from the raw images by `build_strips()` with explicit generous
+rects, and every row links the whole sheet besides.
 
 ## Documents (draft, to confirm with the editor)
 
