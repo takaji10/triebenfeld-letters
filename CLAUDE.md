@@ -131,9 +131,10 @@ so check them.
   settled on the editor's spot sheet (30 of 31 rows answered; 0031-0033
   are the editor's own transcription, kept as typed); translated and its
   summaries claim-checked in session; the holding's page written in both
-  languages; the glossary gate passes. Open: "pronihige[?]" in 0030's
-  Themen block, the tail of 0025, three doubtful names of the lists
-  (NEEDS_CONFIRMATION). Read `units/app539680545/notes.md` first. The
+  languages; the glossary gate passes. The last doubtful reading settled at
+  the editor's word (2026-10-25: the Themen block's word is "polnische").
+  Open: only the Kurrent lines of 0030, if the editor reads them. Read
+  `units/app539680545/notes.md` first. The
   holding counts 7 documents and 10 pages; the edition has 626 documents
   in 47 holdings.
 - **The gazetteer** (`reference/gazetteer/`, begun 2026-10-23 on the

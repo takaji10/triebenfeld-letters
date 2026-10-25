@@ -1140,10 +1140,10 @@ sheet shown with the holding and without a transcription (your word).
       0025 is "1843. Szuberski"; Micklewski (13) confirmed; entry 25 is
       Feterowski (so 35 keeps the draft's Retelewski); Nowaczynski of 0026
       confirmed. Applied; rebuilt; the check clean.
-- [ ] You: the reading "pronihige[?]" in the Themen block of 0030 - Claude
-      reads it "polnische" from the context, to be confirmed against
-      Breyer's own hand (the 4x picture
-      review/app539680545/spot_img/p30_word4x.jpg; the reasoning in the
-      holding's notes).
+- [x] The reading of the Themen block (2026-10-25, your word): "polnische".
+      Applied to the text, the English and the holding's pages; the check
+      clean; rebuilt.
+- [ ] You: the Kurrent lines of 0030 below the Themen block, if you read
+      them. Nothing else is open.
 - [x] Published at your word (2026-10-25): the branch merged to main and
       pushed; the "Build and deploy" run succeeded.

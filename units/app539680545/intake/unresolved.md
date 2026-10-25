@@ -50,12 +50,12 @@ transcribed.
 - 0028: "Tarnamm[?]" — the editor's own bracket on the German of the fifth
   pair.
 - 0027: "Jursowski[?]" — the editor's own bracket.
-- 0030: "pronihige[?]" in the Themen block — the editor's word to settle
-  against the 3x crop (spot_img/p30_tail3x.jpg); candidates in notes.md.
 
 Settled 2026-10-25, after the sheet's answers were updated: 0026 line 14
 "Nowaczyński" (the editor's confirmation on the sheet); 0029 line 13
 "Micklewski" (the editor, in the reply); 0029 line 25 "Feterowski" and line
 35 "Retelewski" (the editor's corrected row: Feterowski stands at 25, and
 35 keeps the draft's Retelewski, which the alphabetical list agrees with);
-the tail of 0025 is "1843. Szuberski" (the editor, in the reply).
+the tail of 0025 is "1843. Szuberski" (the editor, in the reply); and the
+word of the Themen block read "polnische" (the editor's ruling, from the
+candidates in the holding's notes).

@@ -906,11 +906,10 @@ written until there is a witness or a better scan.
   settled on the editor's sheet (30 of 31 rows answered); the prose sheets
   0031-0033 are the editor's transcription, kept as typed, their doubtful
   words recorded in the holding's `intake/unresolved.md`; 0034 has no
-  transcription (the editor's word). Open: the word read as "pronihige[?]"
-  in the Themen block of 0030 — Claude reads it "polnische" from the
-  context ("Verschlungen hat ihr der polnische Mund"), to be confirmed
-  against Breyer's own hand on the sheets (the reasoning and the 4x picture
-  in the holding's notes). Settled 2026-10-25: the tail of 0025 ("1843.
+  transcription (the editor's word). Open: the Kurrent lines of 0030 below
+  the Themen block, if the editor reads them. Settled 2026-10-25: the word
+  of the Themen block is "polnische" (the editor's ruling; the reasoning in
+  the holding's notes); the tail of 0025 ("1843.
   Szuberski" is the last line), 0026 line 14 "Nowaczyński", 0029 line 13
   "Micklewski", and lines 25 and 35 of 0029 ("Feterowski" at 25,
   "Retelewski" at 35).

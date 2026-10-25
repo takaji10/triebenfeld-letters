@@ -168,16 +168,17 @@ directly on the same pages. A 4x picture of the phrase is at
 /spot_img/p30_word4x.jpg), beside the earlier 3x one. The alternatives
 from the metaphor of swallowing — "gefräßige", "hungrige", "gierige" —
 fit the "-ige" tail better but lose on the first letters and on the
-theme; "provinzielle" was considered and dropped. If the shapes refuse
-"polnische", the word keeps its bracket.
+theme; "provinzielle" was considered and dropped.
+
+**Ruled by the editor (2026-10-25): "polnische."** The transcription
+reads "der polnische Münd")" without the mark, and the English "the
+Polish mouth". The reasoning above is kept as the record of how the
+reading was reached.
 
 ## Still open, after the answers
 
-- **"pronihige[?]"**, above: "polnische" is the proposed reading, to be
-  confirmed against Breyer's own hand.
-- **The prose sheets 0031-0034**: 0031-0033 are transcribed (the editor's
-  own transcription, 2026-10-25); 0034 stays without a transcription (the
-  editor's word).
+- Nothing. The last open reading of the holding is settled ("polnische",
+  above); 0034 stays without a transcription (the editor's word).
 
 ## The corpus and the documents (2026-10-25)
 
