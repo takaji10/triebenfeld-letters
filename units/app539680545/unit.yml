@@ -1,0 +1,63 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app539680545
+ref: 53/968/0/-/545
+archive: Archiwum Państwowe w Poznaniu (APP)
+# One sentence on what the holding is about, in English and in German. It is
+# the line under the reference on the Sources page and opens the translator's
+# prompt. Not the archive's own title: that is kept as archive_title.
+title: >-
+  TODO: one sentence on what this holding is about.
+title_de: >-
+  TODO: derselbe Satz auf Deutsch.
+# The archive's title of the unit, as the editor gave it. Kept for reference;
+# nothing displays it.
+archive_title: >-
+  Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców]
+fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
+date_span: TODO
+status: draft              # draft | transcribed | translated | published
+
+# Which era this holding belongs to - reference/eras.yml. Breyer's own notes
+# stand in the twentieth century (the rule of APP 53/968/0/-/716); a copy or
+# excerpt takes the date and era of what it copies.
+era: twentieth-century
+
+# Which archive holds it - reference/repositories.yml.
+repository: app-poznan
+
+# Eleven images from the archive, Image00024.jpg to Image00034.jpg.
+# Image00024 is the photograph of the folder that holds the sheets and is
+# left out (the editor, 2026-10-25); Image00025 to Image00034 are ten
+# photographed sheets, each one page (no fold). intake/build_pages.py copies
+# them into processed/ as Image00025_a.jpg ... Image00034_a.jpg.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców] (53.968.0.-.545)
+  raw_glob: "Image*.jpg"
+
+  # Web derivatives are copied into site/assets/scans/ under an ASCII-safe
+  # prefix, because source names carry spaces and umlauts. Later stages parse
+  # this prefix, so it must not change once the unit is published.
+  ascii_prefix: APP_53_968_0_545
+
+# One file per page, named by page id (0025_a.txt). Made from the reading in
+# intake/ (readings.py).
+transcriptions:
+  dir: transcriptions          # units/<slug>/transcriptions/
+  glob: "*.txt"
+  page_id_strip: ""
+
+# The transcription. Documents are delimited by [DOC N] on its own line.
+corpus: corpus.txt
+
+# What the holding is, in a paragraph: the opening of the translator's and the
+# summariser's prompts. The reader sees the holding's own page instead, written
+# in about.md and process.md beside this file (docs/NEW_UNIT.md).
+description: >-
+  TODO: a paragraph on what this holding is.
+
+# Passed to the translator with every document of this holding. Facts about the
+# source that change how it should be read, not instructions about style.
+translation_note: >-
+  TODO
