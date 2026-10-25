@@ -11358,7 +11358,7 @@
  {
   "entity": "zagorowo",
   "display": "Zagórów (Zagorowo)",
-  "count": 274,
+  "count": 275,
   "documents": [
    "adwl85-2",
    "app5314550221-2",
@@ -11366,6 +11366,7 @@
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app5371057-1",
+   "app539680545-1",
    "app539680669-1",
    "app539680669-2",
    "app539680783-1",
@@ -13946,15 +13947,25 @@
     "scan": "APP_53_968_0_669_5194_a2-L2_04.jpg",
     "line": 591,
     "doc_line": 44
+   },
+   {
+    "uid": "app539680545-1",
+    "surface": "Zagórów",
+    "page": 1,
+    "page_id": "0025_a",
+    "scan": "APP_53_968_0_545_0025_a.jpg",
+    "line": 5,
+    "doc_line": 3
    }
   ]
  },
  {
   "entity": "breslau",
   "display": "Wrocław (Breslau)",
-  "count": 263,
+  "count": 264,
   "documents": [
    "app5371057-1",
+   "app539680545-4",
    "app539680669-1",
    "app539680801-1",
    "app539680801-2",
@@ -16396,6 +16407,15 @@
     "scan": "APP_53_968_0_669_0015_a1-L1_28.jpg",
     "line": 406,
     "doc_line": 377
+   },
+   {
+    "uid": "app539680545-4",
+    "surface": "Breslau",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "APP_53_968_0_545_0028_a.jpg",
+    "line": 68,
+    "doc_line": 4
    },
    {
     "uid": "oe1bu14526-1",
@@ -29000,12 +29020,13 @@
  {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
-  "count": 108,
+  "count": 109,
   "documents": [
    "agad1174016-1",
    "agad118501169-1",
    "app53150kaliszgr425-1",
    "app53170koningr145-1",
+   "app539680545-7",
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr3709-10",
    "ihagrrep7cnr3709-11",
@@ -30047,6 +30068,15 @@
     "scan": "AGAD_1_185_0_1_169_0198_a1-L1_42.jpg",
     "line": 298,
     "doc_line": 150
+   },
+   {
+    "uid": "app539680545-7",
+    "surface": "Warschau",
+    "page": 1,
+    "page_id": "0032_a",
+    "scan": "APP_53_968_0_545_0032_a.jpg",
+    "line": 197,
+    "doc_line": 2
    }
   ]
  },
@@ -54339,6 +54369,45 @@
   ]
  },
  {
+  "entity": "wielun",
+  "display": "Wieluń",
+  "count": 3,
+  "documents": [
+   "app53170koningr153-1",
+   "app539680545-7",
+   "oe1bu9454-177"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Vielun",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Wieluń",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12634,
+    "doc_line": 139
+   },
+   {
+    "uid": "app539680545-7",
+    "surface": "Wieluń",
+    "page": 1,
+    "page_id": "0032_a",
+    "scan": "APP_53_968_0_545_0032_a.jpg",
+    "line": 215,
+    "doc_line": 20
+   }
+  ]
+ },
+ {
   "entity": "trabczynskie-nowe-oledry",
   "display": "Trąbczyńskie Nowe Olędry",
   "count": 3,
@@ -55106,35 +55175,6 @@
     "scan": "Oe_1_Bu_9454_0537_b-L300_01.jpg",
     "line": 21360,
     "doc_line": 4
-   }
-  ]
- },
- {
-  "entity": "wielun",
-  "display": "Wieluń",
-  "count": 2,
-  "documents": [
-   "app53170koningr153-1",
-   "oe1bu9454-177"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Vielun",
-    "page": 12,
-    "page_id": "1397_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
-    "line": 43,
-    "doc_line": 30
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Wieluń",
-    "page": 7,
-    "page_id": "0334_a2",
-    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
-    "line": 12634,
-    "doc_line": 139
    }
   ]
  },

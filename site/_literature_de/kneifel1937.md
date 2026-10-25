@@ -215,7 +215,7 @@ All evangelical-Augsburg congregations that took shape after 1775 on the territo
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-(Portrait plate.) Ernst Johann August v. Modl. Consistorial councilor and superintendent of the Kalisch diocese. […] Superintendent of Modl,
+(Portrait plate.) Ernst Johann August v. Modl. Consistorial councilor and superintendent of the Kalisch diocese. […] Superintendent von Modl,
 
 </div>
 </section>

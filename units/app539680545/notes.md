@@ -184,6 +184,34 @@ be "Geschichtsquellen", sources); it stands as read, the oddity noted.
 - **The prose sheets 0031-0034** are not transcribed (see above) and the
   editor has not yet said how they are to be read.
 
+## The corpus and the documents (2026-10-25)
+
+Seven documents on the ten pages, `review/app539680545/document_boundaries.csv`:
+
+1. 0025, the "P. Winkler" list — `register`.
+2. 0026, the numbered list of 19 pairs — `register`.
+3. 0027, the alphabetical list — `register`.
+4. 0028, the 1741 excerpt — `note`.
+5. 0029-0030, the numbered list of 53 with its heading, pairs and the
+   "Themen:" block — `register`, two pages.
+6. 0031, the essay on the German middle schools — `note`.
+7. 0032-0033 (with 0034) — the essay on the surnames in the towns — `note`,
+   three pages, its last page 0034 shown but not transcribed: its text in
+   the corpus is `(skipped)`, the pipeline's marker, so the image is paired
+   and shown with the document while the text is not invented.
+
+No document is dated (all in `no_date:`); no place of writing (the
+overrides leave every document's place empty, since Breslau, Lodz and
+Warschau stand in quoted matter, not datelines). All seven keep the
+holding's era `twentieth-century`. The transcriptions of 0031-0033 are the
+editor's own, kept as typed; the prose carries Breyer's spellings and
+slips, and its unreadable words are listed in `intake/unresolved.md`.
+
+The page ids are four digits (`0025_a`), the grammar the pipeline's scan
+matcher parses; the first staging used the archive's five digits
+(`00025_a`) and paired nothing until the copy script, the transcriptions
+and the boundaries were all moved to four digits.
+
 ## Documents (draft, to confirm with the editor)
 
 1. 0025, the "P. Winkler" list.

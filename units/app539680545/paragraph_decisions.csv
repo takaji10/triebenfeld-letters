@@ -1,0 +1,95 @@
+﻿letter,line,decision,confidence,cue,ratio,prev_len,page_measure,prev_line,context
+1,4,break,high,rubric,1.71,30,18,P. Winkler Polonisierte Namen.,7. 1855 Bobel - Rybicki.
+1,6,run,review,short_line,0.69,12,18,Gem. Zagórów,Grüning - Zielinski
+1,15,run,review,short_line,0.51,9,18,Waldowski,1843. Szuberski
+2,19,run,review,short_line,0.54,11,20,Polonisirte,Deutsche Namen.
+2,20,break,high,rubric,0.73,15,20,Deutsche Namen.,1. Niemann - Nowak
+2,21,break,high,rubric,0.88,18,20,1. Niemann - Nowak,2. Berwald - Jagodziński
+2,22,break,high,rubric,1.17,24,20,2. Berwald - Jagodziński,3. Rode - Czerwiński
+2,23,break,high,rubric,0.98,20,20,3. Rode - Czerwiński,4. Nachtigall - Słowiński
+2,24,break,high,rubric,1.22,25,20,4. Nachtigall - Słowiński,5. Fuhrmann - Fuhrmański
+2,25,break,high,rubric,1.17,24,20,5. Fuhrmann - Fuhrmański,6. Rotloff - Surowiecki
+2,26,break,high,rubric,1.12,23,20,6. Rotloff - Surowiecki,7. Krebs - Rakowski
+2,27,break,high,rubric,0.93,19,20,7. Krebs - Rakowski,8. Will - Dzikowski
+2,28,break,high,rubric,0.93,19,20,8. Will - Dzikowski,9. Pidda - Peda
+2,29,break,high,rubric,0.73,15,20,9. Pidda - Peda,10. Pidd - Studziński
+2,30,break,high,rubric,1.02,21,20,10. Pidd - Studziński,11. Schienke - Stodulski
+2,31,break,high,rubric,1.17,24,20,11. Schienke - Stodulski,12. Wiese - Wiza
+2,32,break,high,rubric,0.78,16,20,12. Wiese - Wiza,13. Quella - Quelle.
+2,33,break,high,rubric,0.98,20,20,13. Quella - Quelle.,14. Neuwert - Nowaczyński[?]
+2,34,break,high,rubric,1.37,28,20,14. Neuwert - Nowaczyński[?],15. Martin - Marcinkowski
+2,35,break,high,rubric,1.22,25,20,15. Martin - Marcinkowski,16. Hahn - Koguciński
+2,36,break,high,rubric,1.02,21,20,16. Hahn - Koguciński,17. Schmidtke - Schmidtka
+2,37,break,high,rubric,1.22,25,20,17. Schmidtke - Schmidtka,18. Kybs - Kübsch
+2,38,break,high,rubric,0.83,17,20,18. Kybs - Kübsch,19. Brodel - Brudel
+3,42,break,high,rubric,0.92,12,13,"A. Arminski,","B. Bartmański, Brojerski, Bartnowski, Bauerowicz,"
+3,43,break,high,rubric,3.77,49,13,"B. Bartmański, Brojerski, Bartnowski, Bauerowicz,",C.
+3,44,break,high,rubric,0.15,2,13,C.,"D. Donarski,"
+3,45,break,high,rubric,0.92,12,13,"D. Donarski,",E.
+3,46,break,high,rubric,0.15,2,13,E.,"F. Funkiewicz, Festerkiewicz, Frydrychowski, Feterowski,"
+3,47,break,high,rubric,4.31,56,13,"F. Funkiewicz, Festerkiewicz, Frydrychowski, Feterowski,","G. Gutwiński,"
+3,48,break,high,rubric,1.0,13,13,"G. Gutwiński,","H. Holendajski, Hedszelewski, Hirszowski,"
+3,51,break,high,rubric,3.69,48,13,"K. Kuntski, Kurzmanowski, Knapski, Kirschkowski,","L. Licznerowski, Lernaciński, Lencewicz, Langowski,"
+3,59,break,high,short_line,0.15,2,13,T.,U.
+3,60,break,high,rubric+short_line,0.15,2,13,U.,V.
+5,80,break,high,rubric,1.86,26,14,Polonisirte Deutsche Namen,1. Barmański
+5,81,break,high,rubric,0.86,12,14,1. Barmański,2. Schmidecki
+5,82,break,high,rubric,0.93,13,14,2. Schmidecki,3. Funkiewicz
+5,83,break,high,rubric,0.93,13,14,3. Funkiewicz,4. Szulborski
+5,84,break,high,rubric,0.93,13,14,4. Szulborski,5. Riewe - Riwa
+5,85,break,high,rubric,1.07,15,14,5. Riewe - Riwa,6. Ringwelski
+5,86,break,high,rubric,0.93,13,14,6. Ringwelski,7. Festerkiewicz
+5,87,break,high,rubric,1.14,16,14,7. Festerkiewicz,8. Kassewicz
+5,88,break,high,rubric,0.86,12,14,8. Kassewicz,9. Brojerski
+5,89,break,high,rubric,0.86,12,14,9. Brojerski,10. Murnerowski
+5,90,break,high,rubric,1.07,15,14,10. Murnerowski,11. Rosenkiewicz
+5,91,break,high,rubric,1.14,16,14,11. Rosenkiewicz,12. Kuntski
+5,92,break,high,rubric,0.79,11,14,12. Kuntski,13. Micklewski[?]
+5,93,break,high,rubric,1.21,17,14,13. Micklewski[?],14. Purgowski
+5,94,break,high,rubric,0.93,13,14,14. Purgowski,15. Mundkowski
+5,95,break,high,rubric,1.0,14,14,15. Mundkowski,16. Licznerowski
+5,96,break,high,rubric,1.14,16,14,16. Licznerowski,17. Bartnowski
+5,97,break,high,rubric,1.0,14,14,17. Bartnowski,18. Holendajski
+5,98,break,high,rubric,1.07,15,14,18. Holendajski,19. Lernaciński
+5,99,break,high,rubric,1.07,15,14,19. Lernaciński,20. Mystelkowski
+5,100,break,high,rubric,1.14,16,14,20. Mystelkowski,21. Mystkowski
+5,101,break,high,rubric,1.0,14,14,21. Mystkowski,22. Bauerowicz
+5,102,break,high,rubric,1.0,14,14,22. Bauerowicz,23. Lencewicz
+5,103,break,high,rubric,0.93,13,14,23. Lencewicz,24. Frydrychowski
+5,104,break,high,rubric,1.21,17,14,24. Frydrychowski,25. Sekerowski[?]
+5,105,break,high,rubric,1.21,17,14,25. Sekerowski[?],26. Kurzmanowski
+5,106,break,high,rubric,1.14,16,14,26. Kurzmanowski,27. Hendelewski
+5,107,break,high,rubric,1.07,15,14,27. Hendelewski,28. Folkierski
+5,108,break,high,rubric,1.0,14,14,28. Folkierski,29. Hirszowski
+5,109,break,high,rubric,1.0,14,14,29. Hirszowski,30. Weynerowski
+5,110,break,high,rubric,1.07,15,14,30. Weynerowski,31. Henschelewski
+5,111,break,high,rubric,1.21,17,14,31. Henschelewski,32. Knapski
+5,112,break,high,rubric,0.79,11,14,32. Knapski,33. Kirschkowski
+5,113,break,high,rubric,1.14,16,14,33. Kirschkowski,34. Wilmański
+5,114,break,high,rubric,0.93,13,14,34. Wilmański,35. Feterowski
+5,115,break,high,rubric,1.0,14,14,35. Feterowski,36. Palmowski
+5,116,break,high,rubric,0.93,13,14,36. Palmowski,37. Mellerowicz
+5,117,break,high,rubric,1.07,15,14,37. Mellerowicz,38. Donarski
+5,118,break,high,rubric,0.86,12,14,38. Donarski,39. Najderski
+5,119,break,high,rubric,0.93,13,14,39. Najderski,40. Gutwiński
+5,120,break,high,rubric,0.93,13,14,40. Gutwiński,41. Hornowski
+5,121,break,high,rubric,0.93,13,14,41. Hornowski,42. Heymowski
+5,125,run,review,short_line,0.71,10,14,Sack - Zak,Rietschel - Rycsel
+5,127,run,review,short_line,0.71,10,14,Pahl - Pal,Grosz - Grosz
+5,139,break,high,rubric,0.86,12,14,Born - Borna,43. Arminski
+5,140,break,high,rubric,0.86,12,14,43. Arminski,44. Kindelski
+5,141,break,high,rubric,0.93,13,14,44. Kindelski,45. Reinowski
+5,142,break,high,rubric,0.93,13,14,45. Reinowski,46. Kuncewicz
+5,143,break,high,rubric,0.93,13,14,46. Kuncewicz,47. Hardkowski
+5,144,break,high,rubric,1.0,14,14,47. Hardkowski,48. Fęglerski
+5,147,break,high,rubric,0.81,11,14,49. Oberski,50. Langowski
+5,148,break,high,rubric,0.96,13,14,50. Langowski,51. Karlowski
+5,149,break,high,rubric,0.96,13,14,51. Karlowski,52. Madaliński - Mude
+5,150,break,high,rubric,1.56,21,14,52. Madaliński - Mude,53. Melerowicz
+5,153,break,high,short_line,0.52,7,14,Themen:,Geschichtskrankheiten
+5,158,run,review,short_line,0.52,7,14,hat ihr,"der pronihige[?] Münd"")"
+7,207,break,high,short_line,0.42,22,53,milienhaine geblieben.,"Ostmals beschreibet man die Rechtsweg, um den lästigen Na-"
+7,216,break,high,rubric,1.0,53,53,"gelischen Pastoren (Pastor Winkler in. Wieluń, Pastor","v. Boerner in Zduńska-Wola) hat hier einen einfacheren,"
+7,223,break,high,short_line,0.21,11,53,kowski uhr.,Unterzieht man die polonisierten deutschen Familiena-
+7,233,run,review,short_line,0.23,12,52,Gottlibowski,"kiewicz, Festerkewicz, Frydrychowski, Feterowski, Folkierski, Fęglersk"
+7,243,break,high,short_line,0.19,10,52,Wilmanski.,"So werden deutsche Familiennamen verstümmelt, dem Sprach-"

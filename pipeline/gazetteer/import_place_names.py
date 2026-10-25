@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# pipeline-check-file: a static mapping of the editor's place index to slugs; the
+# place names it names are its data, read from reference/gazetteer/, not one
+# holding's facts. See docs/GAZETTEER_PLAN.md.
 """Import the editor's place index into one YAML file per place.
 
 Reads   reference/gazetteer/source/place_names_2026-10-23.md, a copy of the

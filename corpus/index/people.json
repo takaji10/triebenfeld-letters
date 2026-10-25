@@ -63231,6 +63231,137 @@
   ]
  },
  {
+  "entity": "albrecht",
+  "display": "Albrecht",
+  "count": 13,
+  "documents": [
+   "app539680545-4",
+   "oe1bu9454-289",
+   "oe1bu9454-52",
+   "oe1bu9454-53",
+   "oe1bu9454-6"
+  ],
+  "mentions": [
+   {
+    "uid": "oe1bu9454-52",
+    "surface": "Allbrecht",
+    "page": 1,
+    "page_id": "0099_b",
+    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-52",
+    "surface": "Allbrecht",
+    "page": 1,
+    "page_id": "0099_b",
+    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
+    "line": 3898,
+    "doc_line": 8
+   },
+   {
+    "uid": "oe1bu9454-52",
+    "surface": "Allbrecht",
+    "page": 1,
+    "page_id": "0099_b",
+    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
+    "line": 3902,
+    "doc_line": 12
+   },
+   {
+    "uid": "oe1bu9454-53",
+    "surface": "Albrecht",
+    "page": 1,
+    "page_id": "0100_b",
+    "scan": "Oe_1_Bu_9454_0100_b-L53_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-53",
+    "surface": "Albrecht",
+    "page": 1,
+    "page_id": "0100_b",
+    "scan": "Oe_1_Bu_9454_0100_b-L53_01.jpg",
+    "line": 3931,
+    "doc_line": 7
+   },
+   {
+    "uid": "oe1bu9454-289",
+    "surface": "Albrecht",
+    "page": 2,
+    "page_id": "0522_c",
+    "scan": "Oe_1_Bu_9454_0522_c-L289_02.jpg",
+    "line": 20711,
+    "doc_line": 94
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrecht",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrecht",
+    "page": 2,
+    "page_id": "0011_a1",
+    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrecht",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_9454_0011_a2-L6_03.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrecht",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
+    "line": 414,
+    "doc_line": 17
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrechts",
+    "page": 2,
+    "page_id": "0011_a1",
+    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
+    "line": 442,
+    "doc_line": 44
+   },
+   {
+    "uid": "oe1bu9454-6",
+    "surface": "Albrecht",
+    "page": 3,
+    "page_id": "0011_a2",
+    "scan": "Oe_1_Bu_9454_0011_a2-L6_03.jpg",
+    "line": 471,
+    "doc_line": 72
+   },
+   {
+    "uid": "app539680545-4",
+    "surface": "Albrecht",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "APP_53_968_0_545_0028_a.jpg",
+    "line": 69,
+    "doc_line": 5
+   }
+  ]
+ },
+ {
   "entity": "asch",
   "display": "Asch",
   "count": 12,
@@ -63707,127 +63838,6 @@
     "scan": "Oe_1_Bu_14526_0036_a2-L7_11.jpg",
     "line": 1766,
     "doc_line": 254
-   }
-  ]
- },
- {
-  "entity": "albrecht",
-  "display": "Albrecht",
-  "count": 12,
-  "documents": [
-   "oe1bu9454-289",
-   "oe1bu9454-52",
-   "oe1bu9454-53",
-   "oe1bu9454-6"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-52",
-    "surface": "Allbrecht",
-    "page": 1,
-    "page_id": "0099_b",
-    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-52",
-    "surface": "Allbrecht",
-    "page": 1,
-    "page_id": "0099_b",
-    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-    "line": 3898,
-    "doc_line": 8
-   },
-   {
-    "uid": "oe1bu9454-52",
-    "surface": "Allbrecht",
-    "page": 1,
-    "page_id": "0099_b",
-    "scan": "Oe_1_Bu_9454_0099_b-L52_01.jpg",
-    "line": 3902,
-    "doc_line": 12
-   },
-   {
-    "uid": "oe1bu9454-53",
-    "surface": "Albrecht",
-    "page": 1,
-    "page_id": "0100_b",
-    "scan": "Oe_1_Bu_9454_0100_b-L53_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-53",
-    "surface": "Albrecht",
-    "page": 1,
-    "page_id": "0100_b",
-    "scan": "Oe_1_Bu_9454_0100_b-L53_01.jpg",
-    "line": 3931,
-    "doc_line": 7
-   },
-   {
-    "uid": "oe1bu9454-289",
-    "surface": "Albrecht",
-    "page": 2,
-    "page_id": "0522_c",
-    "scan": "Oe_1_Bu_9454_0522_c-L289_02.jpg",
-    "line": 20711,
-    "doc_line": 94
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrecht",
-    "page": 1,
-    "page_id": "0010_a",
-    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrecht",
-    "page": 2,
-    "page_id": "0011_a1",
-    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrecht",
-    "page": 3,
-    "page_id": "0011_a2",
-    "scan": "Oe_1_Bu_9454_0011_a2-L6_03.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrecht",
-    "page": 1,
-    "page_id": "0010_a",
-    "scan": "Oe_1_Bu_9454_0010_a-L6_01.jpg",
-    "line": 414,
-    "doc_line": 17
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrechts",
-    "page": 2,
-    "page_id": "0011_a1",
-    "scan": "Oe_1_Bu_9454_0011_a1-L6_02.jpg",
-    "line": 442,
-    "doc_line": 44
-   },
-   {
-    "uid": "oe1bu9454-6",
-    "surface": "Albrecht",
-    "page": 3,
-    "page_id": "0011_a2",
-    "scan": "Oe_1_Bu_9454_0011_a2-L6_03.jpg",
-    "line": 471,
-    "doc_line": 72
    }
   ]
  },

@@ -796,7 +796,7 @@
   initial_en: "I"
   sort_de: "intressen"
   initial_de: "I"
-  docs: 42
+  docs: 43
 - id: "resignation"
   kind: "law"
   lang: "de_la"
@@ -1879,7 +1879,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 170
+  docs: 171
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"

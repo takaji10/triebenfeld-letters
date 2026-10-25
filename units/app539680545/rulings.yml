@@ -1,41 +1,59 @@
-# Editorial rulings for 53/968/0/-/545.
+# Editorial rulings for 53/968/0/-/545 (APP).
 #
-# Keyed by the archive's own document number, which is what letter_id stays.
-# Nothing here is derived: each entry is a decision taken against evidence and
-# recorded so a rebuild reproduces it. Start empty and fill in from the review
-# sheets in review/ as you work through them.
+# Seven documents on ten photographed sheets of Albert Breyer's notes on the
+# Polonisation of German surnames in the gmina Zagórów, divided by content
+# after the editor's answers on spot sheet 1 (2026-10-25): the two numbered
+# lists are each one document; the continuous list of 53 runs from 0029
+# across three columns onto 0030 and carries the "Themen:" block at its
+# foot; the essay on the German schools (0031) is separate from the essay on
+# the surnames in the towns (0032-0033), whose last photographed page (0034)
+# is shown with the holding but has no transcription (the editor,
+# 2026-10-25) and stands as "(skipped)".
+#
+# No sheet carries a date: Breyer's own notes, undated (the years in the
+# lists are those of the material they name).
 
 places:
-  # Place of writing, where the dateline is absent, illegible or misleading.
-  # A trailing [?] marks a reading that is probable rather than settled.
-  #   "12": Berlin
-  overrides: {}
+  overrides:
+    # No document has a place of writing. The names Breslau, Lodz, Warschau
+    # and the rest stand in quoted matter and cited works, not as a dateline;
+    # left empty so the parser takes none of them for one.
+    "1": ""
+    "2": ""
+    "3": ""
+    "4": ""
+    "5": ""
+    "6": ""
+    "7": ""
 
 dates:
-  # [year, month, day, precision]; null where that element is unknown.
-  #   "3": [1815, 2, 9, "day"]
+  read: {}
   supplied: {}
-
-  # Taken from the document's own duplicate.
   twin: {}
-
-  # [year, month, day, precision, basis]; the basis is shown to the reader.
   inferred: {}
-
-  # Undated and left so.
-  no_date: []
+  sitting: {}
+  # Every document is an undated sheet of Breyer's notes.
+  no_date: ["1", "2", "3", "4", "5", "6", "7"]
 
 documents:
-  # Anything that is not an ordinary letter, e.g. "register".
-  doc_type: {}
+  # All seven keep the holding's era: Breyer's own notes and his excerpt of
+  # a printed work of 1741, not a copy of a document (unit.yml).
+  era: {}
 
-  # Same document, transcribed twice.
-  duplicate_of: {}
+  doc_type:
+    "1": register
+    "2": register
+    "3": register
+    "4": note
+    "5": register
+    "6": note
+    "7": note
 
-  # Why a sub-record exists, shown on the document.
-  split_note: {}
-
-damage:
-  # Damage is read from the text's own [...] markers. List document numbers
-  # here only for damage the transcription does not mark.
-  letters: []
+  language:
+    "1": "de"
+    "2": "de"
+    "3": "de"
+    "4": "de"
+    "5": "de"
+    "6": "de"
+    "7": "de"

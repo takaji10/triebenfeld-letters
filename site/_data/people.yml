@@ -3,14 +3,14 @@
   name: "Albrecht"
   heading: "Albrecht, Daniel Ludwig"
   heading_de: "Albrecht, Daniel Ludwig"
-  count: 7
-  docs: 4
+  count: 8
+  docs: 5
   life: "1765-1835"
   life_de: "1765-1835"
   bio: "Daniel Ludwig Albrecht, Prussian cabinet councillor. In 1809 a matter of inheritance was referred to him at Königsberg, and in 1815 Triebenfeld asked him to obtain the King's decision on the Courland debt."
   bio_de: "Daniel Ludwig Albrecht, preußischer Kabinettsrat. 1809 wurde ihm in Königsberg eine Erbschaftssache zugewiesen, und 1815 bat Triebenfeld ihn, die Entscheidung des Königs über die kurländische Schuld zu erwirken."
   span: "1809–1815"
-  letters: [{id: "52", uid: "oe1bu9454-52", url: "/documents/oe1bu9454/52/", n: 2}, {id: "53", uid: "oe1bu9454-53", url: "/documents/oe1bu9454/53/", n: 1}, {id: "289", uid: "oe1bu9454-289", url: "/documents/oe1bu9454/289/", n: 1}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 3}]
+  letters: [{id: "52", uid: "oe1bu9454-52", url: "/documents/oe1bu9454/52/", n: 2}, {id: "53", uid: "oe1bu9454-53", url: "/documents/oe1bu9454/53/", n: 1}, {id: "289", uid: "oe1bu9454-289", url: "/documents/oe1bu9454/289/", n: 1}, {id: "6", uid: "oe1bu9454-6", url: "/documents/oe1bu9454/6/", n: 3}, {id: "4", uid: "app539680545-4", url: "/documents/app539680545/4/", n: 1}]
 - slug: "kaiser-alexander"
   name: "Kaiser Alexander I."
   heading: "Alexander I, Emperor of Russia"

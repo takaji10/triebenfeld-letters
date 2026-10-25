@@ -8,20 +8,30 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 # the line under the reference on the Sources page and opens the translator's
 # prompt. Not the archive's own title: that is kept as archive_title.
 title: >-
-  TODO: one sentence on what this holding is about.
+  Albert Breyer's research sheets on the Polonisation of German surnames
+  among the townspeople and villagers of the gmina Zagórów: lists of German
+  surnames with their Polonised forms, his excerpt of a Breslau print of
+  1741, and his notes on how and why the names were changed.
 title_de: >-
-  TODO: derselbe Satz auf Deutsch.
+  Albert Breyers Arbeitsblätter zur Polonisierung deutscher Familiennamen
+  bei Stadt- und Landbevölkerung der Gemeinde Zagórów: Listen deutscher
+  Namen mit ihren polonisierten Formen, sein Auszug aus einem Breslauer
+  Druck von 1741 und seine Aufzeichnungen, wie und warum die Namen
+  geändert wurden.
 # The archive's title of the unit, as the editor gave it. Kept for reference;
 # nothing displays it.
 archive_title: >-
   Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców]
 fonds: Albert Breyer - spuścizna (1889-1939; nauczyciel szkoły niemieckiej w Sompolnie pow. kolski, badacz - regionalista)
-date_span: TODO
-status: draft              # draft | transcribed | translated | published
+# No sheet in the holding carries a date (the years 1741, 1843 and 1855 in
+# the lists are the dates of the material they name, not of the sheets).
+date_span: ""
+status: transcribed         # draft | transcribed | translated | published
 
-# Which era this holding belongs to - reference/eras.yml. Breyer's own notes
-# stand in the twentieth century (the rule of APP 53/968/0/-/716); a copy or
-# excerpt takes the date and era of what it copies.
+# Which era this holding belongs to - reference/eras.yml. Breyer's own
+# notes stand in the twentieth century (the rule of APP 53/968/0/-/716);
+# the 1741 excerpt is his own excerpt of a printed work, not a copy of a
+# document, and keeps the holding's era with it.
 era: twentieth-century
 
 # Which archive holds it - reference/repositories.yml.
@@ -31,7 +41,10 @@ repository: app-poznan
 # Image00024 is the photograph of the folder that holds the sheets and is
 # left out (the editor, 2026-10-25); Image00025 to Image00034 are ten
 # photographed sheets, each one page (no fold). intake/build_pages.py copies
-# them into processed/ as Image00025_a.jpg ... Image00034_a.jpg.
+# them into processed/ as Image00025_a.jpg ... Image00034_a.jpg. The page
+# 0034_a has no transcription (the editor, 2026-10-25) and its text in the
+# corpus is "(skipped)", the pipeline's marker for a page shown but not
+# transcribed.
 scans:
   raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Polonisierta Namen [gmina Zagórów - nazwiska mieszkańców] (53.968.0.-.545)
   raw_glob: "Image*.jpg"
@@ -42,7 +55,8 @@ scans:
   ascii_prefix: APP_53_968_0_545
 
 # One file per page, named by page id (0025_a.txt). Made from the reading in
-# intake/ (readings.py).
+# intake/ (the list sheets, read by machine and settled by the editor on
+# spot sheet 1) and the editor's own transcriptions of 0031 to 0033.
 transcriptions:
   dir: transcriptions          # units/<slug>/transcriptions/
   glob: "*.txt"
@@ -55,9 +69,40 @@ corpus: corpus.txt
 # summariser's prompts. The reader sees the holding's own page instead, written
 # in about.md and process.md beside this file (docs/NEW_UNIT.md).
 description: >-
-  TODO: a paragraph on what this holding is.
+  Ten photographed sheets from the papers of Albert Breyer (1889-1939), a
+  teacher at the German school in Sompolno and a historian of the German
+  settlements in central Poland, on the Polonisation of German surnames in
+  the gmina Zagórów. Five sheets are lists: a list of German surnames of the
+  town with their Polonised forms under the head "P. Winkler Polonisierte
+  Namen"; a numbered list of nineteen such pairs; an alphabetical list of
+  Polonised surnames from Arminski to Wilmański; an excerpt in Breyer's hand
+  from a Breslau print of 1741, the "Polnisch-deutsche Briefe" of George
+  Schlag, with the Polish and German names of eight boys; and a continuous
+  numbered list of fifty-three Polonised surnames with a block of pairs
+  where a German name and its Polish translation stand against each other
+  (Zech - Czech, Rolle - Rola, Erdmann - Ziemiecki, Blum - Kwiatkowska).
+  Three sheets are prose notes: on the German middle schools of the Łódź
+  region and their directors' conference, and on the German surnames still
+  carried in Warsaw, Lublin and the market towns, the legal and the
+  parson's ways of shedding them, and the three kinds of changed name -
+  the pages break off mid-sentence, and the last photographed sheet of the
+  folder, which continues the essay, is shown in the holding but has no
+  transcription.
 
 # Passed to the translator with every document of this holding. Facts about the
 # source that change how it should be read, not instructions about style.
 translation_note: >-
-  TODO
+  Field notes in German, in pencil, written fast and much shortened. The
+  lists are tables: a German surname, a dash, its Polonised form; one list
+  (document 5) runs across three columns and onto the next sheet, and in it
+  a block of pairs sets a German name against its Polish translation
+  (Zech - Czech, Blum - Kwiatkowska), not a Polonised form. Breyer's
+  spellings of the Polish names are his own and vary between the lists
+  (Bartmański and Barmański, Szulborski and Schulborski): give them as
+  written, each list in its own spelling. Words he marked doubtful carry
+  [?]; a word read with doubt the editor wrote as "word[?]". The prose
+  sheets are the editor's transcription and keep Breyer's own spellings and
+  slips (Schultypußes, kulturtellen, Musezahl); where the pencil defeated
+  him the word is marked or left as it stands. The excerpt of 1741 quotes a
+  printed title; its names are those of eight boys of a Breslau school, a
+  Polish name against a German one.

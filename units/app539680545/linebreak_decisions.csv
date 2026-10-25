@@ -1,0 +1,24 @@
+﻿letter,page,line,next_line,mark,head,tail,joined,decision,confidence,reason,crosses_page,joined_corpus,joined_dwds,head_corpus,head_dwds,tail_corpus,tail_dwds,context
+6,1,161,162,-,auszuwäh,len,auszuwählen,join,high,"joined form attested in DWDS (1,783,768 hits)",False,0,1783768,0,,1,,ülers so ungemein wichtiges Fach auszuwäh- || len u. bleibt der Einsicht und dem padagog
+6,1,164,165,-,Knabengym,nasium,Knabengymnasium,join,high,head is not a word on its own,False,0,329,0,0,1,,"lschulen und zwar: das deutsche Knabengym- || nasium zu Lodz, das deutsche Mädchengymnas"
+6,1,168,169,-,Lehr,stoff,Lehrstoff,join,high,"joined form attested in DWDS (17,085 hits)",False,0,17085,0,,1,,"samen Grundlage hin verständigt. Der Lehr- || stoff, angefangen mit der Vorschule I bis "
+6,1,172,173,-,Überbür,dung,Überbürdung,join,high,head is not a word on its own,False,0,787,0,0,2,,"sichts der Fülle des Stoffes, die Überbür- || dung durch das Erlernen von drei Fremdspra"
+6,1,179,180,-,bespro,chen,besprochen,join,high,"joined form attested in DWDS (1,139,975 hits)",False,0,1139975,0,,1,,"ahl der mannigfaltigen Schulfrägen bespro- || chen hat, baldmöglichst Fachkonferenzen, d"
+6,1,185,186,-,Hin,sicht,Hinsicht,join,high,"joined form attested in DWDS (1,075,957 hits)",False,0,1075957,1,,1,, einzelnen Lehrgegenstände. In dieser Hin- || sicht ist das Urteil der an den Schülen jä
+6,1,191,192,-,garbeli,Kunde,garbeliKunde,join,high,head is not a word on its own,False,0,0,0,0,1,, Deutschtums wäre es nun wenn wir garbeli- || Kunde vom Zustandekommen der Fachkonferenz
+6,1,192,193,-,erhal,ten,erhalten,join,high,"joined form attested in DWDS (19,937,288 hits)",False,0,19937288,0,,1,, Zustandekommen der Fachkonferenzen erhal- || ten möchten.
+7,1,198,199,-,Handelswe,gen,Handelswegen,join,high,"joined form attested in DWDS (22,273 hits)",False,0,22273,0,,1,,"gar durch einen weit von größen Handelswe- || gen gelegenen Marktflecken, so wurden wir "
+7,1,204,205,-,öffentli,ches,öffentliches,join,high,"joined form attested in DWDS (9,574,015 hits)",False,0,9574015,0,,1,,es ehmaligen Volksgutes. Als ein öffentli- || ches Ärgernis ist derart Leuten nur noch i
+7,1,205,206,-,Fa,milienhaine,Familienhaine,split,high,joined form unattested; both halves are real words,False,0,38,0,20781,1,0,t derart Leuten nur noch ihr deutscher Fa- || milienhaine geblieben.
+7,1,207,208,-,Na,men,Namen,join,high,joined form occurs elsewhere in this corpus,False,7,,0,,2,,"bet man die Rechtsweg, um den lästigen Na- || men loszuwerden. Wer aufmerksam die ersten"
+7,1,208,209,-,Jahrgän,ge,Jahrgänge,join,high,"joined form attested in DWDS (1,270,730 hits)",False,0,1270730,0,,1,,werden. Wer aufmerksam die ersten Jahrgän- || ge der Staatszeitung „Monitor Polski“ durc
+7,1,211,212,-,ver,bunden,verbunden,join,high,"joined form attested in DWDS (6,967,667 hits)",False,0,6967667,0,,1,,"sseren oder kleineren Schwierigkeiten ver- || bunden, auch wird letztere Zeit eine anseh"
+7,1,214,215,-,evan,gelischen,evangelischen,join,high,"joined form attested in DWDS (2,827,240 hits)",False,0,2827240,0,,1,,"mancher Gemeindevögte, sogar die der evan- || gelischen Pastoren (Pastor Winkler in. Wie"
+7,1,218,219,-,Fami,lien,Familien,join,high,joined form occurs elsewhere in this corpus,False,1,,0,,1,,lständigen Übertragung des deutschen Fami- || lien namens ins Polnische. So würde z. B. 
+7,1,221,222,-,Kwiat,kowski,Kwiatkowski,join,high,"joined form attested in DWDS (13,595 hits)",False,0,13595,0,,1,,"m Rot ein Czerwiński, Blum wurde zu Kwiat- || kowski uhr."
+7,1,223,224,-,Familiena,men,Familienamen,join,high,head is not a word on its own,False,0,163,0,5,2,,"man die polonisierten deutschen Familiena- || men einer eigehenderen Untersuchungen, so "
+7,1,227,228,-,de,nen,denen,join,high,"joined form attested in DWDS (409,402,783 hits)",False,0,409402783,0,,1,,ische übersetzt würden; zweitens Namen de- || nen man wenn sie zu[?] der polnische Schre
+7,2,231,232,-,Fin,Gottlibowski,FinGottlibowski,split,high,joined form unattested; both halves are real words,False,0,0,0,72112,2,0,"i, Bartnowski, Bauerowicz, Donarscki, Fin- || Gottlibowski"
+7,2,236,237,-,Licznow,ski,Licznowski,join,high,head is not a word on its own,False,0,0,0,0,1,," Kindelski, Kunzewicz, Karlowski, Licznow- || ski, Lernazinski, Lenzewicz, Langowski, Mü"
+7,2,237,238,-,Mühne,rowski,Mühnerowski,join,high,head is not a word on its own,False,0,0,0,289,1,," Lernazinski, Lenzewicz, Langowski, Mühne- || rowski, Michlewski, Mundkowski, Mystelkows"
+7,2,243,244,-,Sprach,gefühl,Sprachgefühl,join,high,"joined form attested in DWDS (8,096 hits)",False,0,8096,0,,1,,"che Familiennamen verstümmelt, dem Sprach- || gefühl und Sprachgebrauch des Mehrheitsvol"
