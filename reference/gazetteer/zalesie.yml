@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: zalesie
 heading: Zalesie
 register: null
@@ -15,7 +12,12 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation.
+text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and
+  founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen
+  and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie
+  in 1891 as part of efforts by the Polish authorities to remove traces of previous
+  Prussian occupation. The Słownik geograficzny records it as kol. , pow. słupecki,
+  gm, with 5 houses and 59 inhabitants at the time of the Słownik.[^1]
 names:
 - form: Zalesie
   year: null
@@ -36,5 +38,12 @@ names:
 aliases:
 - Adolfsberg, Kolonia
 maps: []
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XVI, p. 711, sub 1
+  refs:
+  - source: slownik
+    locator: t. XVI, p. 711, sub 1
+    status: missing
+  note: null
 review: []

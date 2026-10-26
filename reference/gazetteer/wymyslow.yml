@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: wymyslow
 heading: Wymysłów
 register: null
@@ -15,7 +12,10 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798) (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799); with a tavern and folwark (Gilly 1802).
+text_en: Isolated dwellings north of Zagórów. *Stary Przewoz Wymysław* (Perthées 1798)
+  (may have been an old river crossing point); as a tavern *Wimislaw* (Zagorowo 1799);
+  with a tavern and folwark (Gilly 1802). The Słownik geograficzny records it as folw.
+  , pow. słupecki, gm.[^1]
 names:
 - form: Wymysłów
   year: null
@@ -32,5 +32,12 @@ maps:
 - map: gilly1802
   form: null
   note: with a tavern and folwark
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. II, p. 765
+  refs:
+  - source: slownik
+    locator: t. II, p. 765
+    status: missing
+  note: null
 review: []

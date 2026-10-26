@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: myszakow
 heading: Myszaków
 register: null
@@ -15,12 +12,32 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek were simultaneously established before 1789 by the owner of the Łukom estate.[^49] *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901).
+text_en: Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek
+  were simultaneously established before 1789 by the owner of the Łukom estate.[^49]
+  *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901). The Słownik geograficzny
+  records it as młyn. i Myszakówek, wś, pow. słupecki, gm.[^50] Nazwy miejscowe Polski
+  records the name as *Misszakowo* by 1413, later as *Myszaków* (1827).[^51]
 names:
 - form: Myszaków
   year: null
   note: heading
   footnote: null
+- form: Misszakowo
+  year: 1413
+  note: Recorded as
+  footnote: 51
+- form: Myszacowo
+  year: 1429
+  note: Recorded as
+  footnote: 51
+- form: Missakow
+  year: 1565
+  note: Recorded as
+  footnote: 51
+- form: Myssakow
+  year: 1579
+  note: Recorded as
+  footnote: 51
 aliases: []
 maps:
 - map: vonpfau1770
@@ -41,5 +58,19 @@ footnotes:
     locator: p. 70
     link: /literature/chodyla2015/#p-70
     status: linked
+  note: null
+- n: 50
+  text: Słownik geograficzny, t. VI, p. 838
+  refs:
+  - source: slownik
+    locator: t. VI, p. 838
+    status: missing
+  note: null
+- n: 51
+  text: Nazwy miejscowe Polski, t. 7, p. 310
+  refs:
+  - source: nmpol
+    locator: t. 7, p. 310
+    status: missing
   note: null
 review: []

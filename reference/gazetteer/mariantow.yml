@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: mariantow
 heading: Mariantów
 register: mariantow
@@ -15,16 +12,34 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802.
+text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a
+  watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski
+  records the name as *Marjantów* by 1877, later as *Marjantów tów* (1921).[^1]
 names:
 - form: Mariantów
   year: null
   note: heading
   footnote: null
+- form: Marjantów
+  year: 1877
+  note: Recorded as
+  footnote: 1
+- form: Marjantów tów
+  year: 1921
+  note: Recorded as
+  footnote: 1
 aliases: []
 maps:
 - map: gilly1802
   form: Eisenhammer
-  note: A wrought iron workshop (Ger. ) and a watermill were located in the same vicinity on
-footnotes: []
+  note: A wrought iron workshop (Ger. ) and a watermill were located in the same vicinity
+    on
+footnotes:
+- n: 1
+  text: Nazwy miejscowe Polski, t. 6, p. 524
+  refs:
+  - source: nmpol
+    locator: t. 6, p. 524
+    status: missing
+  note: null
 review: []

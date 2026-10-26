@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: biskupice-karczma
 heading: Biskupice
 register: null
@@ -8,19 +5,41 @@ status: historical
 kind: tavern
 kind_text: Tavern
 location:
-  text: south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates
+  text: south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn,
+    Biskupice, and Łukom estates
   relation: south-of
   relative_to: trabczynskie-stare-oledry
   belongs_to: null
   precision: described
   lat: null
   lon: null
-text_en: Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point of the Trąbczyn, Biskupice, and Łukom estates. Appeared (erroneously?) north of the southern part of Trąbczyńskie Stare Olędry (*Biskupski*, Perthées 1798); *Biskupicer Kr[ug]* (Gilly 1802); labelled as a tavern and field belonging to Biskupice [estate] (Pambo 1803); *Biskupie* (Chrzanowski 1858).
+text_en: Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point
+  of the Trąbczyn, Biskupice, and Łukom estates. Appeared (erroneously?) north of
+  the southern part of Trąbczyńskie Stare Olędry (*Biskupski*, Perthées 1798); *Biskupicer
+  Kr[ug]* (Gilly 1802); labelled as a tavern and field belonging to Biskupice [estate]
+  (Pambo 1803); *Biskupie* (Chrzanowski 1858). Nazwy miejscowe Polski records the
+  name as *Byschoffdorf* by 1310, later as *Biskupice* (1880).[^1]
 names:
 - form: Biskupice
   year: null
   note: heading
   footnote: null
+- form: Byschoffdorf
+  year: 1310
+  note: Recorded as
+  footnote: 1
+- form: Petrassius Byscupski
+  year: 1404
+  note: Recorded as
+  footnote: 1
+- form: Byskupycze
+  year: 1461
+  note: Recorded as
+  footnote: 1
+- form: Biskupicze
+  year: 1579
+  note: Recorded as
+  footnote: 1
 aliases: []
 maps:
 - map: perthees1798
@@ -35,5 +54,12 @@ maps:
 - map: chrzanowski1858
   form: Biskupie
   note: null
-footnotes: []
+footnotes:
+- n: 1
+  text: Nazwy miejscowe Polski, t. 1, p. 248
+  refs:
+  - source: nmpol
+    locator: t. 1, p. 248
+    status: missing
+  note: null
 review: []

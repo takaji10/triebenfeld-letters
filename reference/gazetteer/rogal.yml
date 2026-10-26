@@ -1,0 +1,33 @@
+slug: rogal
+heading: Rogal
+register: rogal
+status: extant
+kind: settlement
+kind_text: Settlement
+location:
+  text: 'In the Słownik era: s it as os. włośc, pow. lipnowski, gm'
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: 'Small settlement in the Zagórów area; In the Słownik era: s it as os. włośc,
+  pow. lipnowski, gm. The Słownik geograficzny records it as os. włośc, pow. lipnowski,
+  gm, with 1 house and 77 inhabitants at the time of the Słownik.[^1]'
+names:
+- form: Rogal
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. IX, p. 658
+  refs:
+  - source: slownik
+    locator: t. IX, p. 658
+    status: missing
+  note: null
+review: []

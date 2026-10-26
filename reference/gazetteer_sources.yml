@@ -285,3 +285,11 @@ sources:
     kind: register
     resolve: none
     wanted: "the entries cited (1920 nos. 12-13, 1921 no. 25)"
+
+  nmpol:
+    cite: >-
+      Nazwy miejscowe Polski. Historia. Pochodzenie. Zmiany, ed. Kazimierz
+      Rymut et al. (Kraków 1996-2021)
+    kind: dictionary
+    resolve: none
+    wanted: the entries cited (vols 1-6 from the clean transcription; 7-18 from RCIN)

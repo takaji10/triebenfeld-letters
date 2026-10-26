@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: ludwigslust
 heading: Mały Las
 register: ludwigslust
@@ -15,7 +12,16 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust* was likely integrated into the smaller Mały Las settlement immediately south in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. A hand-drawn map from the 1990s by descendants/former residents of Olchowo listed them as two separate places (Map 26, Tab. 26). First appeared on Messtischblatt 1940. The settlement map found in the Lutheran church in Zagórów included a list of settlers, along with the text: “These are the names of the families who lived here as the last generation. The numbers are randomly assigned and are not identical to the official house numbers.”'
+text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust*
+  was likely integrated into the smaller Mały Las settlement immediately south in
+  1891 as part of efforts by the Polish authorities to remove traces of previous Prussian
+  occupation. A hand-drawn map from the 1990s by descendants/former residents of Olchowo
+  listed them as two separate places (Map 26, Tab. 26). First appeared on Messtischblatt
+  1940. The settlement map found in the Lutheran church in Zagórów included a list
+  of settlers, along with the text: “These are the names of the families who lived
+  here as the last generation. The numbers are randomly assigned and are not identical
+  to the official house numbers.” The Słownik geograficzny records it as kol. , pow.
+  słupecki.[^1]'
 names:
 - form: Mały Las
   year: null
@@ -31,6 +37,13 @@ maps:
 - map: messtischblatt1940
   form: null
   note: First appeared on
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XVI, p. 298
+  refs:
+  - source: slownik
+    locator: t. XVI, p. 298
+    status: missing
+  note: null
 review:
 - 'figure: refers to a figure of the editor''s book: Map 26, Tab. 26'

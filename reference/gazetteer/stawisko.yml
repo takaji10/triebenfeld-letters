@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: stawisko
 heading: Stawisko
 register: null
@@ -15,12 +12,24 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962).
+text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp
+  crossing existed west from here called *Brod Kaliski* and was shown on a map of
+  the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In
+  Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied
+  by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for
+  peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny
+  records it as os. leśna, pow. słupecki, gm, with 6 houses and 381 inhabitants at
+  the time of the Słownik.[^69] Nazwy miejscowe Polski records the name as *Stawisku*
+  by 1834, later as *Stawisko* (1839).[^70]
 names:
 - form: Stawisko
   year: null
   note: heading
   footnote: null
+- form: Stawisku
+  year: 1834
+  note: Recorded as
+  footnote: 70
 aliases: []
 maps:
 - map: lukom1766
@@ -32,7 +41,8 @@ maps:
   note: Appeared as a folwark
 - map: ams1962
   form: null
-  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s
+  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings
+    as late as the 1960s
 footnotes:
 - n: 68
   text: Arct, “Stawisko,” 774
@@ -41,5 +51,19 @@ footnotes:
     locator: p. 774
     link: /glossary/#stawisko
     status: linked
+  note: null
+- n: 69
+  text: Słownik geograficzny, t. XI, p. 295, sub 2
+  refs:
+  - source: slownik
+    locator: t. XI, p. 295, sub 2
+    status: missing
+  note: null
+- n: 70
+  text: Nazwy miejscowe Polski, t. 15, p. 224
+  refs:
+  - source: nmpol
+    locator: t. 15, p. 224
+    status: missing
   note: null
 review: []

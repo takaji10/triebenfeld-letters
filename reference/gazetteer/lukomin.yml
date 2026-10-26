@@ -1,0 +1,33 @@
+slug: lukomin
+heading: Łukomin
+register: lukomin
+status: extant
+kind: settlement
+kind_text: Settlement
+location:
+  text: 'In the Słownik era: s it as młyn. , pow. słupecki, gm'
+  relation: null
+  relative_to: null
+  belongs_to: null
+  precision: described
+  lat: null
+  lon: null
+text_en: 'Small settlement in the Zagórów area; In the Słownik era: s it as młyn.
+  , pow. słupecki, gm. The Słownik geograficzny records it as młyn. , pow. słupecki,
+  gm, with 16 houses and 91 inhabitants at the time of the Słownik.[^1]'
+names:
+- form: Łukomin
+  year: null
+  note: heading
+  footnote: null
+aliases: []
+maps: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. V, p. 818
+  refs:
+  - source: slownik
+    locator: t. V, p. 818
+    status: missing
+  note: null
+review: []

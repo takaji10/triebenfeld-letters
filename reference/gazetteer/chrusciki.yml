@@ -1,6 +1,3 @@
-# Imported 2026-10-23 from the editor's "Place Names.md" (reference/gazetteer/source/)
-# by pipeline/gazetteer/import_place_names.py; edited by hand from here on.
-# Plan: docs/GAZETTEER_PLAN.md.
 slug: chrusciki
 heading: Chruściki
 register: null
@@ -15,7 +12,13 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation.
+text_en: Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as
+  a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen
+  (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891
+  as part of efforts by the Polish authorities to remove traces of previous Prussian
+  occupation. The Słownik geograficzny records it as kol. , pow. słupecki, gm, with
+  242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records the
+  name as *Crosczino* by 1386, later as *ściński* (1970).[^2]
 names:
 - form: Chruściki
   year: null
@@ -37,8 +40,38 @@ names:
   year: 1891
   note: Renamed to
   footnote: null
+- form: Crosczino
+  year: 1386
+  note: Recorded as
+  footnote: 2
+- form: Chrosczyn
+  year: 1518
+  note: Recorded as
+  footnote: 2
+- form: Adellzof
+  year: 1802
+  note: Recorded as
+  footnote: 2
+- form: Chruścill
+  year: 1827
+  note: Recorded as
+  footnote: 2
 aliases:
 - Adelhof/Adelów, Kolonia
 maps: []
-footnotes: []
+footnotes:
+- n: 1
+  text: Słownik geograficzny, t. XV, p. 328
+  refs:
+  - source: slownik
+    locator: t. XV, p. 328
+    status: missing
+  note: null
+- n: 2
+  text: Nazwy miejscowe Polski, t. 2, p. 93
+  refs:
+  - source: nmpol
+    locator: t. 2, p. 93
+    status: missing
+  note: null
 review: []
