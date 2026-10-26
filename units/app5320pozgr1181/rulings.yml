@@ -34,6 +34,17 @@ documents:
   doc_type:
     "1": decree
 
+pages:
+  # p. 161 (0161_a) is the editor's own line-by-line layout (2026-10-26).
+  # The rest stand by paragraph (the editor's ruling, 2026-10-26: "I assume
+  # you can already figure out most of the meaning of the text ... if
+  # anything should be cited from the text, then I can later zoom into that
+  # specific piece and revise any uncertainties" - the same presentation as
+  # Konin Gr.117, whose pages carry the by-paragraph label on the site).
+  by_paragraph: ["0161_b", "0162_a", "0162_b", "0163_a", "0163_b", "0164_a",
+                 "0164_b", "0165_a", "0165_b", "0166_a", "0166_b", "0167_a",
+                 "0167_b"]
+
 languages:
   "1": latin
 

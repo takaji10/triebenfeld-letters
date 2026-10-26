@@ -1169,16 +1169,18 @@ transcription; 108 readings settled in session before the first build
 - [x] Your p. 161 laid out in the manuscript's lines (2026-10-26): carried
       into the corpus verbatim, with your five fresh readings; the words
       verified against your original file, nothing lost.
-- [ ] You: the lineation of pp. 161v-167v, when you are at the scans - the
-      session measured itself against your p. 161 and cannot do it
-      unsupervised (boundaries drift 2-4 words; line counts off by up to
-      12). Machine drafts are in `intake/lineation_draft/` as a typing aid,
-      or lay the pages out as you did 161; the corpus takes your layout
-      either way.
-- [ ] After the sheet and the lineation: apply the answers, translate and
-      summarise in session, claim-check, write the holding's page in both
-      languages, rule the index (the new persons and the estates), the
-      glossary and the timeline.
+- [x] **Lineation ruled (2026-10-26, your word)**: you asked whether the
+      lineation is worth doing at all - the meaning is already readable, and
+      anything to be cited can be zoomed into later. Ruled: the corpus keeps
+      the paragraph layout for pp. 161v-167v (rulings.yml `by_paragraph`,
+      the same presentation as Konin Gr.117, the notice on each page of the
+      site), your lineated p. 161 stands, and lineation of the remaining
+      pages is OPTIONAL - take it up only if a passage ever needs line-level
+      citation. No machine drafts are needed; `intake/lineation_draft/` can
+      be ignored or deleted.
+- [ ] After the sheet: apply the answers, translate and summarise in session,
+      claim-check, write the holding's page in both languages, rule the index
+      (the new persons and the estates), the glossary and the timeline.
 - [ ] The entry breaks off mid-sentence at the foot of 167v: whether the
       archive's next leaf is to come is on the sheet (`tail_167v`); if it is,
       the entry is excerpted and the site says so.

@@ -48,15 +48,16 @@ truth. They wait in `intake/split_and_settle.py` with the witness of each;
 the spot sheet's two principle rows (pr_nieszwiez, pr_changes) rule
 whether they go back in.
 
-**Lineation of pp. 161v-167v waits on the editor.** The session measured
-itself against the editor's p. 161 ground truth and cannot do it
-unsupervised: char-wrap lands within +-1 word at 3 of 8 boundaries
-(drifting 2-4 words), and three line-detector attempts counted 22, 24,
-39, 41 and 50 lines against the true 38 (the hand's lines touch; the
-spacing is not uniform). Machine drafts, clearly marked, are in
-`intake/lineation_draft/` as a typing aid only; nothing of them is built.
-The other pages stand in the corpus one paragraph per page until the
-editor's layouts arrive.
+**Lineation ruled optional (the editor, 2026-10-26).** Asked whether laying
+out the remaining pages was worth doing, the editor reasoned that the meaning
+is already readable and any passage to be cited can be zoomed into later -
+and they are right: nothing in the pipeline needs the lines, and the sibling
+Konin Gr.117 is published by paragraph with the standing notice "Transcribed
+by paragraph, not line by line". So pp. 161v-167v stand by paragraph
+(rulings.yml `by_paragraph`), the notice shows on the site, and lineation
+remains available if a passage ever needs line-level citation. The session's
+measured failure at machine lineation (below) is moot for the corpus but
+recorded as the answer to "how easy would it be".
 
 - **Dates** (from the entry's own formulas, checked against the calendar;
   the letters confirmed by the editor's fresh pass where they re-read
