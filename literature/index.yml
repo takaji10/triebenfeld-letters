@@ -58,6 +58,11 @@ patterns:
     # Karwowski (1900) spells the name of the banker of Wrocław "Weygel" (the
     # letters spell "Weigel").
     weigel: 'Weygel'
+    # Rostworowski (1918) writes Michalina's married surname in the modern
+    # genitive -kiej ("Dambskiej" p. 303, "Dąbskiej" p. 55), and p. 44 carries
+    # the print's own bracket, "Dambski[ej]" — the edition's documents write
+    # the -kiey forms, which its own pattern takes.
+    prusimska: 'D[ąa]m?bskie[jy](?![a-zà-ÿ])|Dambski\[ej\]'
   place:
     # The black register's list of the Prince's Konin estates: Materialien
     # p. 159 prints "Trombczyn", Feuerbrände 2-80 "Trobozyn" and "Szellewen".
@@ -291,6 +296,15 @@ people:
   luka:
     Luka: "no: Count Lukas Bniński (Materialien p. 155), not Samuel Lucke"
   malachowski:
+    # Rostworowski (1918): the attendance lines of the sittings name the
+    # President; p. 44 names the late Director of the Treasury, Jan
+    # Nepomucen Małachowski, whose accounts the Commission closed on
+    # 12 February (the kwitowanie documented in the print's own footnote
+    # on the page's excluded tail).
+    Małachowskiego:
+      default: yes
+      except:
+        rostworowski1918/44: "no: the late Director of the Treasury Małachowski (Jan Nepomucen), whose accounts were closed on 12 February; not the President"
     # Minakowska (2026, Stanisław Adam Miączyński): the Małachowski of the
     # database's line markers of Maria née Słubicka's descent (Antoni
     # 5.367.323, Jacek 9.522.619, Stanisław 3.598.213), her forebears in
@@ -337,6 +351,9 @@ people:
     # confiscated (Iwaszkiewicz's list) — the edition's General Niemojewski,
     # restored in 1807 to an estate Prussia had confiscated.
     Niemojewskiemu: yes
+    # Rostworowski (1918), p. 303: the same decree of 5 June 1807, which the
+    # Commission at Dresden "extends" to Dąmbska, Niemojewski and Wichrowski.
+    Niemojewskiego: yes
   noldichen:
     # Claude's identification, accepted by the editor (2026-10-19)
     Nöldichen: yes
@@ -376,6 +393,12 @@ people:
         minakowska2026prusimski/c04: "Stanisława, Wanda, Michalina, Zdzisława and Maria, Michalina's granddaughters, not Michalina herself"
         minakowska2026miaczynski/c04: "Stanisława, Wanda, Elżbieta, Maria, Zdzisława, Michalina and Olga, the daughters, granddaughters and great-granddaughters, not Michalina herself"
     Prusimska: yes
+    # Rostworowski (1918): the genitive in -kiej, the print's modern form of
+    # the married surname (pp. 55, 303), and the print's own bracket on
+    # p. 44, "Dambski[ej]" — all Michalina, the memorial and the decree.
+    Dambskiej: yes
+    Dąbskiej: yes
+    "Dambski[ej]": yes
   prusimska-katarzyna:
     # Chodyła (2015): Katarzyna Prusimska, born Rozdrażewska, with Paweł the
     # founder of the Trąbczyńskie Stare Olędry in 1746, and the widow at whose
@@ -674,6 +697,17 @@ people:
     # Trąbczyn Olęder settlement, so presumably of the family the edition
     # follows; Claude's presumption, not the book's statement.
     Zelmer: yes
+  magnuski:
+    # Rostworowski (1918), p. 323: Piotr Magnuski, writer of acts at Kościan,
+    # in the nomination list Łubieński sent with protocol Nr. 3; the edition's
+    # Magnuski is a creditor of Hohenlohe-Ingelfingen of 1805.
+    Magnuski: "no: Piotr Magnuski, writer of acts at Kościan, in the nominations Łubieński sent with protocol Nr. 3; not the creditor of the Prince's of 1805"
+  wichrowski:
+    # Rostworowski (1918), p. 303: the third man the Emperor's decree of
+    # 5 June 1807 (given at Finckenstein) is extended to, beside Dąmbska and
+    # Niemojewski — the edition's Wichrowski, restored to his estate 'Beskyn'
+    # (the same decree the Warsaw report of 1818 cites).
+    Wichrowski: yes
 
 places:
   # The estates of the edition (shown on the Places page).
