@@ -218,17 +218,9 @@ repository; they are on the working machine.
   cemeteries of the Trąbczyn/Zagórów area and its neighbourhood, its
   rulings of 2026-10-26 worked in (the Places page widened to a general
   index, Łazińsk Pierwszy and Drugi their own entries, the AGOFF source
-  named, one visit in 2023, photographs later, the order agreed). On the
-  editor:
-  - **The numbers in asterisks** — *(267)*, *(316)*, *(604)*, *(166)*,
-    *(167)*, *(313)*, *(315)*, *(326)* — beside eight headstone readings
-    of the survey (Łazińsk Pierwszy, Michalinów Trąbczyński, Orlina
-    Duża, Wrąbczynkowskie Holendry). What they refer to, and whether
-    they go on the pages — the tables' note column, or nowhere. Kept in
-    the data until ruled.
-  - **The figure references** — "(Fig. 25)" and its neighbours beside
-    five readings. Are these photographs of the headstones; do the files
-    exist; are they for the site?
+  named, one visit in 2023, photographs later, the order agreed; the
+  numbers in asterisks kept as genealogical IDs for certain
+  Zelmers/relations, the figure references removed). On the editor:
   - **The visits' exact date.** The survey's footnote names 2023; the
     editor rules all ten one visit. The pages say "visited in 2023"
     until a date is given.

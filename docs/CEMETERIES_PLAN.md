@@ -216,25 +216,36 @@ and the widening comes with the cemeteries' build (section 4).
 - The list page's order: geography, the Trąbczyn area first, the outliers
   after.
 
+**Settled later the same day (the editor's rulings of 2026-10-26, the
+second batch):**
+
+- The numbers in asterisks are genealogical IDs for certain
+  Zelmers/relations; they are kept and go in the tables' note column.
+- The figure references ("Fig. 25" and its neighbours) are removed.
+
 **Still open (NEEDS_CONFIRMATION, "The cemeteries"):**
 
-1. **The numbers in asterisks** — *(267)*, *(316)*, *(604)*, *(166)*,
-   *(167)*, *(313)*, *(315)*, *(326)* — beside eight readings. What do
-   they refer to, and do they go on the pages, in the tables' note column
-   or nowhere? Kept in the data until the editor rules.
-2. **The figure references** — "(Fig. 25)" and its neighbours beside five
-   readings. Are these photographs of the headstones? Do the files exist,
-   and are they for the site?
-3. **The visits' exact date** — the survey's footnote names 2023 only;
+1. **The visits' exact date** — the survey's footnote names 2023 only;
    the pages say "visited in 2023" until the editor gives a date.
-4. **The texts of the new gazetteer entries** (Łazińsk Pierwszy, Łazińsk
+2. **The texts of the new gazetteer entries** (Łazińsk Pierwszy, Łazińsk
    Drugi, Orlina Duża, Stawiszyn, Zbiersk Kolonia) — drafted from the
    survey and the existing entries, the editor's eye before they enter.
-5. **What happens to `lazinskie-oledry`** once the two villages have
+3. **What happens to `lazinskie-oledry`** once the two villages have
    their own entries — kept as the place of the Olędrzy before the split,
    or retired into the two.
-6. **The AGOFF series** — the articles on Tarszewo (Friedrichsfeld) and
+4. **The AGOFF series** — the articles on Tarszewo (Friedrichsfeld) and
    Chruściki (Adelhof) sit beside the Łazińsk Drugi one; whether the
    edition wants them is the editor's. And whether a members-only page's
    citation stands alone on the site's pages or carries a note of the
    restriction.
+
+**Settled later the same day (the editor's rulings of 2026-10-26, the
+second batch):**
+
+- **The numbers in asterisks are genealogical IDs** for certain
+  Zelmers/relations — *(267)*, *(316)*, *(604)*, *(166)*, *(167)*,
+  *(313)*, *(315)*, *(326)* — and are **kept**: they go on the pages, in
+  the tables' note column, as the survey has them.
+- **The figure references are removed** — "(Fig. 25)" and its neighbours
+  leave the tables; what figures there may be waits with the
+  photographs (settled: later).

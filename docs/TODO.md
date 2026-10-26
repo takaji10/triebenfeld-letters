@@ -1248,6 +1248,10 @@ entries (the editor's word).
       source named (the AGOFF article by Jürgen Frantz, members-only —
       MISSING_SOURCES); all ten one visit, in 2023; photographs later;
       the list page's order agreed.
+- [x] Your rulings of the same day, second batch: the numbers in
+      asterisks are genealogical IDs for certain Zelmers/relations and
+      are kept (the tables' note column); the Fig. references are
+      removed.
 - [ ] Widen the Places page (tier 1 and tier 2, the estates first), so
       the cemetery pages have somewhere to hang.
 - [ ] The gazetteer: split Łazińsk Pierwszy and Drugi out of
@@ -1255,6 +1259,6 @@ entries (the editor's word).
       Kolonia; your eye on the five texts before they enter.
 - [ ] The section's machinery (the list page, the menu, the i18n, the
       checks), then the ten cemeteries one at a time.
-- [ ] **You: the numbers in asterisks and the "Fig." references** of the
-      survey (NEEDS_CONFIRMATION, "The cemeteries"); and the visits'
-      exact date if you want more than "2023" on the pages.
+- [ ] **You: the visits' exact date** if you want more than "2023" on the
+      pages (NEEDS_CONFIRMATION, "The cemeteries"); the numbers and the
+      figures are settled.
