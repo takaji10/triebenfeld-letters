@@ -46,8 +46,8 @@ alte und neue mit der Huta, 31, 62 und 124 <span class="cite">[<a href="{{ '/doc
 
 In jeder Zeile außer der ersten verdoppeln sich die Zahlen von Spalte zu
 Spalte; die Zeile des Dorfes selbst, 21, 22 und 84, ist die eine, deren
-mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben,
-der Herausgeber wird sie entscheiden <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
+mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben -
+die Übertragung ist die des Herausgebers und richtig <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
 
 Der Eintrag steht in der ersten Hälfte der Seite; der Rest der Seite gehört
 zum Eintrag danach und ist nicht übertragen. Die Tabelle trägt kein eigenes
@@ -112,4 +112,5 @@ Tabellendokumente in 5 Einheiten).
 
 Die Zahlen von sechs der sieben Zeilen verdoppeln sich von Spalte zu Spalte;
 die Zeile des Dorfes selbst folgt der Verdoppelung in ihrer mittleren Zahl
-nicht und steht als geschrieben, der Herausgeber wird sie entscheiden.
+nicht und steht als geschrieben - die Übertragung ist die des Herausgebers
+und richtig.

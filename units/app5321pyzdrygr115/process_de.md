@@ -37,4 +37,5 @@ Tabellendokumente in 5 Einheiten).
 
 Die Zahlen von sechs der sieben Zeilen verdoppeln sich von Spalte zu Spalte;
 die Zeile des Dorfes selbst folgt der Verdoppelung in ihrer mittleren Zahl
-nicht und steht als geschrieben, der Herausgeber wird sie entscheiden.
+nicht und steht als geschrieben - die Übertragung ist die des Herausgebers
+und richtig.

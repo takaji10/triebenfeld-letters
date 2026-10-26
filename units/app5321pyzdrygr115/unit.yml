@@ -32,7 +32,7 @@ fonds: Księgi sądu i urzędu grodzkiego w Pyzdrach
 # The span of the holding's title; the one entry transcribed carries no date
 # of its own (see rulings.yml).
 date_span: 1791-1792
-status: transcribed        # draft | transcribed | translated | published
+status: translated        # draft | transcribed | translated | published
 published_tag: ""
 
 # Which era this holding belongs to - reference/eras.yml. 1791-1792 is the
@@ -86,7 +86,8 @@ description: >-
   Hutą, the scattered Hollander settlements old and new with the Huta, 31, 62
   and 124. In every row but the first the figures double from column to
   column; in the first the middle figure is read 22 where the doubling would
-  give 42 - kept as written, the editor to resolve it. The entry stands in the
+  give 42 - kept as written, the transcription the editor's own and correct
+  (the editor, 2026-10-26). The entry stands in the
   first half of the page; the rest of the page belongs to the entry after and
   is not transcribed (the editor's word).
 
@@ -99,7 +100,7 @@ translation_note: >-
   only: Parafie in the heading, Wies Trąbczyn, Nowawieś, Hollendry Luzne
   Stare i nowe z Hutą. "Dymy rolne" is agricultural hearths, the base of the
   hearth tax. "Gara zyta" and "gara owcza", the two figure columns after the
-  hearths, are left as written until the editor rules what they are; the
-  English keeps the words. A row's
+  hearths, stand as written - the transcription is the editor's own and
+  correct (the editor, 2026-10-26); the English keeps the words. A row's
   empty parish cell belongs to the parish named above it. The English renders
   the common words and leaves the names as written.

@@ -34,8 +34,8 @@ the Huta, 31, 62 and 124 [[1]].
 
 In every row but the first the figures double from column to column; the
 village's own row, 21, 22 and 84, is the one whose middle figure does not
-follow the doubling, and it stands as written, the editor to resolve it
-[[1]]. <!-- context -->
+follow the doubling, and it stands as written - the transcription is the
+editor's own and correct [[1]]. <!-- context -->
 
 The entry stands in the first half of the page; the rest of the page belongs
 to the entry after it and is not transcribed. The table carries no date of

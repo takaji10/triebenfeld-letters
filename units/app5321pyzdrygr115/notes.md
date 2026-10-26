@@ -44,9 +44,9 @@ table's head.
   Luzne (no ł), Nowawieś (with ś), Wies (no ś).
 - **The document carries no date in the transcription**; `rulings.yml` puts
   it under `no_date`. The holding's `date_span` is 1791-1792, the archive's
-  title. Whether the page carries a dated sitting heading above the entry is
-  on the spot sheet (a `sitting:` date is the court-book mechanism,
-  docs/DATA_MODEL.md).
+  title. The editor's word of 2026-10-26 ("use my transcription, which is
+  correct") settles it: no dated heading is carried, and the document stays
+  undated.
 
 ## The figures
 
@@ -69,6 +69,17 @@ later. It is in NEEDS_CONFIRMATION.
   "Maryantów"), and the entry's comment records that the ruling supports
   reading the unclear "Marianton" of 9454 letter 136 as this place.
 - The Trąbczyn figure: "I'll resolve ... later" - left as written.
+- **"No spot sheet is necessary - use my transcription, which is correct"**
+  (2026-10-26, in chat): the transcription is the authority for the whole
+  table, and the three questions the sheet was to ask are answered by it.
+  The figures stand as transcribed - the village's row is 21, 22, 84; the
+  doubling of the other rows is an observation of the table, recorded here
+  and in the holding's account, and nothing is built on it. The two column
+  headings "gara zyta" and "gara owcza" stand as written, and the English
+  keeps the words. No dated heading is carried: the transcription is the
+  entry's content, and the document stays undated (`no_date` in
+  rulings.yml). The sheet was taken down and removed from the branch; the
+  server was stopped.
 
 ## The machinery: a table with no entry numbers
 
@@ -106,15 +117,14 @@ descriptor of the Mariantów row.
 ## What the site needed
 
 `about.md`, `process.md`, and their German, with the fonds text; the glossary
-run after the translation; the spot sheet (`intake/spot_sheet.py`),
-served remotely - the gara columns, the Trąbczyn figure, and whether the
-entry stands under a dated sitting heading.
+run after the translation (0 candidates); the index extensions above.
 
 ## Open
 
-- The middle figure of the village's row (22 or 42) - the editor to resolve.
-- What the two "gara" columns are - the editor, or Gloger.
-- Whether the page carries a dated sitting heading above the entry.
+- "z Hutą" in the row of the Hollander settlements: whether the Huta is a
+  distinct place of the colonies or the colonies' smith, and so whether a
+  place entry is wanted. No entry until the editor rules
+  (NEEDS_CONFIRMATION).
 - The rest of the page (the entry after the table) and the rest of the
   volume are not transcribed; the editor's five folders (docs/TODO.md,
   section 6) has this holding's text now only in part.

@@ -119,30 +119,31 @@ so check them.
 
 ## Where things stand (2026-10-26)
 
-- **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added 2026-10-26
-  on the branch `app5321pyzdrygr115`, **not published**): the head of the
+- **APP 53/21/0/-/Pyzdry Gr.115** (slug `app5321pyzdrygr115`, added
+  2026-10-26 on the branch `app5321pyzdrygr115`, **not published**): the head
+  of the
   table of the parish of Trąbczyn on page 543 of the Relationes
   [protocollon] of 1791-1792, the register of the grod court and office of
   Pyzdry, fond "Księgi sądu i urzędu grodzkiego w Pyzdrach" - one document
   on one page, the editor's own trim (`543_trim.jpg`; the spread
   `542v-543.jpg` left out at their word), built from the editor's CSV
-  (`intake/table.csv`): seven rows of the parish with their hearths (dymy
-  rolne) and two figure columns the headings call "gara zyta" and "gara
-  owcza". Status `transcribed`; translated in session by hand (the English
-  table, the summaries); era `prusimski-boundary`. Rulings given in chat
-  while the editor was away from the PC: the heading's "Parofie" is
-  "Parafie"; "Kuznia Maryantów" is the Marianton of the edition
+  (`intake/table.csv`), **which the editor ruled correct and authoritative**
+  ("use my transcription, which is correct"): seven rows of the parish with
+  their hearths (dymy rolne) and two figure columns the headings call "gara
+  zyta" and "gara owcza", all standing as transcribed; no dated heading
+  carried, the document undated. Status `transcribed`; translated in session
+  by hand (the English table, the summaries); era `prusimski-boundary`.
+  Rulings given in chat while the editor was away from the PC: the heading's
+  "Parofie" is "Parafie"; "Kuznia Maryantów" is the Marianton of the edition
   (`mariantow` now matches "Maryantów", which brings the Prussian table's
-  "Maryantow." in with it); the village row's middle figure (22, where the
-  doubling of every other row gives 42) stands as written, the editor to
-  resolve it. The table has no entry-number column: `unitlib.table_of` and
+  "Maryantow." in with it); no spot sheet was needed - the transcription
+  answers the figure (22 as written, the doubling of the other rows an
+  observation only), the gara columns and the sitting heading. The table has
+  no entry-number column: `unitlib.table_of` and
   `render_table` extended, checked against every existing table
   (`pipeline/review/verify_table_of_diff.py`). Worked in a worktree - a
   second session was building in the main checkout (WORKING_NOTES, "Two
-  sessions, one working copy"). Open: the figure; the "gara" columns; a
-  dated sitting heading; the Huta (NEEDS_CONFIRMATION); the spot sheet
-  (`intake/spot_sheet.py`) is served - answers to
-  `review/app5321pyzdrygr115/spot_answers.json`. Read
+  sessions, one working copy"). Open: the Huta (NEEDS_CONFIRMATION). Read
   `units/app5321pyzdrygr115/notes.md` first. The holding counts 1 document
   and 1 page; the edition has 628 documents in 49 holdings.
 

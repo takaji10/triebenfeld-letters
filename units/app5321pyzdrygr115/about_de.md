@@ -35,8 +35,8 @@ alte und neue mit der Huta, 31, 62 und 124 [[1]].
 
 In jeder Zeile außer der ersten verdoppeln sich die Zahlen von Spalte zu
 Spalte; die Zeile des Dorfes selbst, 21, 22 und 84, ist die eine, deren
-mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben,
-der Herausgeber wird sie entscheiden [[1]]. <!-- context -->
+mittlere Zahl der Verdoppelung nicht folgt, und sie steht als geschrieben -
+die Übertragung ist die des Herausgebers und richtig [[1]]. <!-- context -->
 
 Der Eintrag steht in der ersten Hälfte der Seite; der Rest der Seite gehört
 zum Eintrag danach und ist nicht übertragen. Die Tabelle trägt kein eigenes

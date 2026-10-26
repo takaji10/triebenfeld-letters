@@ -2927,20 +2927,25 @@ lose his estates. The era page writes Konotop, not Kontop.
   first cut of the change got the polarity and the scope of the new flag
   wrong; the before-and-after check caught both.
 - Translated in session (the English table, hand-written, the common words
-  rendered, the names as written; the two "gara" columns left as written);
-  summaries in both languages, written in session. The index extended:
+  rendered, the names as written); summaries in both languages, written in
+  session. The index extended:
   "Maryantów" (above), the comma-bounded "Łazy" of the table rows (the
   hearth-tax register's entry 180 comes in with it), and "Hollendry Luzne
   Stare i nowe" matched to both Olęder colony entries, as the visitation's
   "Olędry nowe i stare" already is.
+- The editor's closing word of the day, in chat: "No spot sheet is
+  necessary - use my transcription, which is correct." The figures stand as
+  transcribed (the village's row 21, 22, 84), the "gara" headings stand as
+  written, and no dated heading is carried - the document stays undated.
+  The sheet built for the holding was removed from the branch unused and
+  its server stopped. Open: only whether the Huta of the Hollendry row is a
+  distinct place (NEEDS_CONFIRMATION).
 - The glossary gate passes (0 candidates); the site verifies clean (628
   documents, text exact, tables checked cell by cell). The edition guide's
   counts corrected (forty-nine holdings) and the Poznań bullet extended,
   English and German; the era's blurb names the table. Not published.
-- Still open (NEEDS_CONFIRMATION): the 22-or-42 figure; what the "gara"
-  columns are; whether the page carries a dated sitting heading above the
-  entry (a spot sheet stands ready); whether the Huta of the Hollendry row
-  is a distinct place.
+- Still open (NEEDS_CONFIRMATION): whether the Huta of the Hollendry row is
+  a distinct place.
 
 ## 2026-10-26 - APP 53/968/0/-/782: Tropiczyner Holl. identified; published
 

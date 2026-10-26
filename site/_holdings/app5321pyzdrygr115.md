@@ -45,8 +45,8 @@ the Huta, 31, 62 and 124 <span class="cite">[<a href="{{ '/documents/app5321pyzd
 
 In every row but the first the figures double from column to column; the
 village's own row, 21, 22 and 84, is the one whose middle figure does not
-follow the doubling, and it stands as written, the editor to resolve it
-<span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
+follow the doubling, and it stands as written - the transcription is the
+editor's own and correct <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
 
 The entry stands in the first half of the page; the rest of the page belongs
 to the entry after it and is not transcribed. The table carries no date of
@@ -107,4 +107,4 @@ every table the edition already carries, and the two outputs agree exactly
 
 The figures of six of the seven rows double from column to column; the
 village's own row does not follow the doubling in its middle figure and
-stands as written, the editor to resolve it.
+stands as written - the transcription is the editor's own and correct.
